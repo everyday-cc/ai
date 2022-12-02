@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/ai-deep-mind-stratego-1849842361"
 webUrl: "https://gizmodo.com/ai-deep-mind-stratego-1849842361"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI algorithm learns how to beat expert players at complex board game Stratego"
+    excerpt: "DeepMind, a Google research company, has developed a system able to strategize against humans in a game infinitely more complex than chess or poker, opening new paths for science"
+    publishedDateTime: 2022-12-02T12:04:00Z
+    webUrl: "https://english.elpais.com/science-tech/2022-12-02/ai-algorithm-learns-how-to-beat-expert-players-at-complex-board-game-stratego.html"
+    ampWebUrl: "https://english.elpais.com/science-tech/2022-12-02/ai-algorithm-learns-how-to-beat-expert-players-at-complex-board-game-stratego.html?outputType=amp"
+    cdnAmpWebUrl: "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/science-tech/2022-12-02/ai-algorithm-learns-how-to-beat-expert-players-at-complex-board-game-stratego.html?outputType=amp"
+    type: article
+    provider:
+      name: El País in English
+      domain: elpais.com
+    quality: 56
+    images:
+      - url: "https://images.english.elpais.com/resizer/eoxW6eyTSNvuIb4bTh7HhP_sUWY=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/VUT44RSUTBA75NO2XJZPH64YFQ.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "DeepMind's new chatbot uses Google Search, humans to give better answers"
     excerpt: "DeepMind, owned by Alphabet, has unveiled a new AI chatbot called Sparrow, trained on DeepMind’s large language model Chinchilla. The bot can talk to humans and answer questions using Google Search for information, which is rated by humans on usefulness ..."
     publishedDateTime: 2022-11-28T07:11:00Z

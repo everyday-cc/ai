@@ -3,18 +3,18 @@ category: news
 title: "New artificial intelligence could help humans actually talk to animals"
 excerpt: "Though humans have tried for thousands of years, modern science has found new ways to communicate with the animal kingdom, albeit with limited success."
 publishedDateTime: 2022-11-30T01:55:00Z
-originalUrl: "https://www.tmj4.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
-webUrl: "https://www.tmj4.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
-ampWebUrl: "https://www.tmj4.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
-cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+originalUrl: "https://www.wcpo.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
+webUrl: "https://www.wcpo.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
+ampWebUrl: "https://www.wcpo.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
-  name: TMJ4
-  domain: tmj4.com
+  name: WCPO Cincinnati
+  domain: wcpo.com
 
 topics:
   - AI
@@ -26,19 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Two new AI systems beat humans at complex games"
-    excerpt: "Two new papers from AI powerhouses DeepMind and Meta describe how AI systems are notching wins against top human players in complex games involving deception, negotiation and cooperation. Why it matters: Machine contenders have struggled with games where ..."
-    publishedDateTime: 2022-12-01T22:17:00Z
-    webUrl: "https://www.axios.com/2022/12/01/ai-beats-humans-complex-games"
+  - title: "How AI Could Help Boost Help Desk Productivity In 2023"
+    excerpt: "As businesses develop their IT budgets for 2023, with the specter of an economic slowdown looming, artificial intelligence (AI)-related projects will figure prominently in the discretionary spending plans of many organizations. In most cases, their ..."
+    publishedDateTime: 2022-12-02T12:02:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-help-boost-help-desk-productivity-in-2023/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-help-boost-help-desk-productivity-in-2023/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-help-boost-help-desk-productivity-in-2023/amp/"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6064dbb8610333ea7f4c8408/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Craft Docs releases AI Assistant to boost writing productivity"
+    excerpt: "This new AI feature enables people to speed up writing, spark ideas to beat writer's block, summarize long documents, rephrase a paragraph, and more"
+    publishedDateTime: 2022-11-29T16:50:00Z
+    webUrl: "https://www.kmworld.com/Articles/News/News/Craft-Docs-releases-AI-Assistant-to-boost-writing-productivity-156081.aspx"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
     quality: 39
     images:
-      - url: "https://images.axios.com/kS4-FE4BmnderNu8PXtbCmwAGVY=/0x0:1280x720/1366x768/2022/12/01/1669933168110.jpg"
-        width: 1366
-        height: 768
+      - url: "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif"
+        width: 772
+        height: 594
         isCached: true
   - title: "Artificial Intelligence Could Help Humans Talk To Pets"
     excerpt: "New developments in artificial intelligence and technology could help humans communicate with their pets and any other animal species that calls Earth home. Outside of the field of science, the idea of two-way human-animal communication has existed in pop culture since at least as far back as 1967,"
@@ -55,6 +71,6 @@ related:
         height: 630
         isCached: true
 
-secured: "3wnSo9UrkKcY95lNFrWwB3aj1MuF0JgxEyWgDYoy5aKoVLMCNT+8ZchkqdE1/KrNzxg7JpeVU0kd0HUw9AuTfgNUyjkIwWUcRPO9nHggB3Cg6fbakftWWKhLrZkX6KSfDXuUCpFEfaSB1gesb5a5z3tAOFG/mZ4WS16emqYu0kc7EKL0hVCj1PPxWGD9cul6bgOvlxNNVk78OA3YdteaVtxFrGUEaDKh6FqKxGmtHxLRvO+mAmuLdgByB9DxY+J0l9G8gR1CkaOAVuVX98aHihGcv+pPZ40OfRmL8o7kdHTIlZVFfvzuYj0OKfl8KQIpunMH5IRi2EZHmKQ6lcdcnYt4+G48yTQD2Ysepk9rOYc=;3Cyf1Wj0wfwYyxgZny2OBA=="
+secured: "REBxGNMGNa6qE5n59aIQG7CpKwGajkiXuYQiM+dirH/0pbc6HNsh3EXuNTj9vxLSV0AHRuUDwzSgj1Gic16lotNNFaOsooZMcUTNLIoTrCD8jBfkt6LuP3lnkFXMe20SMyXVndJQNHAAnHDn9MTs5Ahm9nhCzsobbWNrRQEImic32RXOILiazMqXAQ8bHRJaxtIf1wySG64lkwH+86BLb4a9CffECW2HmG/1Bw7xdwa396MfU0vu/H1HcsFbhJSTWi2jVkCq7pyAndkxwEZcsT1eSetOdMcsKrUTIIsGfEqs+N8TpK2CTBIIGb7nU1gdLrkB3LOz9yabWSQejh34IQbcAPe75dmMfPKTc3jTPPE=;VGRU+M8sd9JBZ30oGlbP0g=="
 ---
 

@@ -60,6 +60,22 @@ related:
         height: 880
         isCached: true
   - title: "San Francisco will allow police to deploy robots that kill"
+    excerpt: "Supervisors voted to grant police the option to use potentially lethal, remote-controlled robots despite strong objections from civil liberties groups."
+    publishedDateTime: 2022-11-30T04:27:00Z
+    webUrl: "https://www.khou.com/article/news/nation-world/san-francisco-could-allow-police-to-deploy-robots-that-kill/507-9fbae4cb-330a-4c81-a01a-bbcdbed97028"
+    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/san-francisco-could-allow-police-to-deploy-robots-that-kill/507-9fbae4cb-330a-4c81-a01a-bbcdbed97028"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/san-francisco-could-allow-police-to-deploy-robots-that-kill/507-9fbae4cb-330a-4c81-a01a-bbcdbed97028"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 59
+    images:
+      - url: "https://media.khou.com/assets/CCT/images/d351425c-2053-485f-a857-34f172fc1ae9/d351425c-2053-485f-a857-34f172fc1ae9_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "San Francisco will allow police to deploy robots that kill"
     excerpt: "Debate on Tuesday ran more than two hours with members on both sides accusing the other of reckless fear mongering. Read more on Boston.com."
     publishedDateTime: 2022-11-30T16:51:00Z
     webUrl: "https://www.boston.com/news/national-news/2022/11/29/san-francisco-will-allow-police-to-deploy-robots-that-kill/"
@@ -134,20 +150,6 @@ related:
       - url: "https://inteng-storage-us.s3.amazonaws.com/2022/11/30/image/jpeg/iXyrmInhKX4wAD3KjSLTayfPB657Cog3S3Btptcu.jpg"
         width: 1920
         height: 1280
-        isCached: true
-  - title: "San Francisco will allow police to deploy robots that kill"
-    excerpt: "The San Francisco Police Department said it does not have pre-armed robots and has no plans to arm robots with guns. But the department could deploy robots equipped with explosive charges “to contact, incapacitate, or disorient violent, armed, or dangerous suspect” when lives are at stake, SFPD spokesperson Allison Maxie said in a statement."
-    publishedDateTime: 2022-11-30T15:02:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-san-francisco-20221130-ro42dfbebbfzzjrngjvbxasvdy-story.html"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 39
-    images:
-      - url: "https://www.baltimoresun.com/resizer//v_DhrtUIlfG8eTfuH-rKA6y5uiU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/QSYQIAPOOZFB3AATASZZKVB3SU.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "San Francisco Police Can Use Robots To Kill Suspects"
     excerpt: "A recent law allows San Francisco Police to use robots for killing in extreme situations.  The department included this provision in a new “Law Enforcement Equipment Policy” that passed"

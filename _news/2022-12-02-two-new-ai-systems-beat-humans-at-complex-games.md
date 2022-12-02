@@ -25,36 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "New artificial intelligence could help humans actually talk to animals"
-    excerpt: "Though humans have tried for thousands of years, modern science has found new ways to communicate with the animal kingdom, albeit with limited success."
-    publishedDateTime: 2022-11-30T01:55:00Z
-    webUrl: "https://www.tmj4.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
-    ampWebUrl: "https://www.tmj4.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
-    cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+  - title: "Pulses driven by artificial intelligence tame quantum systems"
+    excerpt: "Machine learning drives self-discovery of pulses that stabilize quantum systems in the face of environmental noise."
+    publishedDateTime: 2022-11-30T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/11/221130114637.htm"
     type: article
     provider:
-      name: TMJ4
-      domain: tmj4.com
-    quality: 57
-    images:
-      - url: "https://cdn.newsy.com/images/videos/m/1669756816_CgX8sG.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Artificial Intelligence Could Help Humans Talk To Pets"
-    excerpt: "New developments in artificial intelligence and technology could help humans communicate with their pets and any other animal species that calls Earth home. Outside of the field of science, the idea of two-way human-animal communication has existed in pop culture since at least as far back as 1967,"
-    publishedDateTime: 2022-11-30T02:02:00Z
-    webUrl: "https://www.aol.com/news/artificial-intelligence-could-help-humans-020200500.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "1dDYiJcyg3zHK/IEbOTf0qAkqHNFT8DjrLRVjglwDnXMSh46Op8gWxExOlYDbMZbSC1nrAcMpbR4RxBAyQ8O87oZvsuET9koV4l+C+4HP6f+gGFLBw5Mfgsxu4DY9sDzmDr00LltSmLR+8L1SEGtiV6Bii841pkkm7qyBSuZJggShLLcavfWZ0XsRipSyPXDOuXYFYEBgeEp550NEqjGA5+GQzvikB+TAiJdqsLzQS58GLT3emuWyWMQsMxGmGN1ljZgjH24lyXSRrZkrBjbEoCGnKH3x3t1tA5ZdlBD0yYPlPuUVuaBcdWToEhMCuQueaZrxDJZJyEP2d/rDiRkHJCU7vcEQ/H8AHkvI1c3Od+fmCh3pbZQwaNifQVpxd+ol0azWyyrs49DIT4MDDEJQPTzO6bcuA6976mVO4VPQHj51t9Ed4Vl5grX/pnmImaEYk12ujxS8Rjl4rXZ10jKlMXmgKPjVOOcXAYKCUkbB8E7BiE0zgGSKxaDNLVM3n/NNQ5/psj5PX1PZ7rO4UEZ6A==;yoI+X48ZOVYPN0tnXCQJoQ=="
 ---

@@ -1,30 +1,22 @@
 ---
 category: news
 title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
-excerpt: "Hpc7g instances featuring new AWS Graviton3E chips deliver the best price performance for HPC workloads on Amazon EC2 C7gn instances featuring new AWS Nitro Cards with enhanced networking offer the hi"
-publishedDateTime: 2022-11-29T17:25:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/b29893848/aws-announces-three-amazon-ec2-instances-powered-by-new-aws-designed-chips"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/b29893848/aws-announces-three-amazon-ec2-instances-powered-by-new-aws-designed-chips"
-ampWebUrl: "https://www.benzinga.com/amp/content/29893848"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29893848"
+excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
+publishedDateTime: 2022-11-29T20:15:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
+webUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
 type: article
-quality: 57
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
-    width: 666
-    height: 282
-    isCached: true
 
 related:
   - title: "Stability AI doubles down on AWS"
@@ -115,6 +107,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Stability AI Selects AWS as Its Preferred Cloud Provider to Build Artificial Intelligence for the Future"
+    excerpt: "Stability AI offers generative AI models that create text, images, audio, video, code, and more from simple text instructions. Generative AI or foundational models—models that are adaptable to a variety of tasks in domains such as language,"
+    publishedDateTime: 2022-11-30T20:02:00Z
+    webUrl: "https://www.valdostadailytimes.com/ap/business/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the/article_a12aa1ff-90cd-5914-8dc3-1a552b60feb4.html"
+    type: article
+    provider:
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 52
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "AWS doubles down on data management"
     excerpt: "Cloud giant Amazon Web Services declared a bold vision to eliminate the need to extract, transform and load data alongside other efforts to address business problems in domains like cyber security and"
     publishedDateTime: 2022-11-29T20:51:00Z
@@ -153,16 +159,16 @@ related:
       name: The Tech Report
       domain: techreport.com
     quality: 36
-  - title: "Stability AI Selects AWS as Its Preferred Cloud Provider to Build Artificial Intelligence for the Future"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Stability AI, a community-driven, open-source artificial intelligence (AI) company, has selected AWS as its preferred cloud provider to build and scale its AI models for image,"
-    publishedDateTime: 2022-11-30T22:00:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-30-stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the-future"
+  - title: "Cognigy Achieves AWS Conversational AI Competency Distinction"
+    excerpt: "Achieving the AWS Conversational AI Competency differentiates Cognigy as an AWS Partner Network (APN) member with significant domain expertise in deploying high quality, highly ef"
+    publishedDateTime: 2022-11-30T00:00:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/11/30/9722443.htm"
     type: article
     provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 32
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
-secured: "d9zs2euyJAOqZdMAoX1U6ZYzfxVBpguHtszEOo1MeE6uIbKy++uN0xf6a+wthKhtP0NmTSMfAsv9ptGvNEkOUUu77upgfptucoKNNhJeBnh6tmin8v7WN7DvSbmSuAaAnwMrihDy61w+7OGagH5FWOsmthetiPqvnifVJGjb0F6YCpNGrXh2aD8h1//me822Tf/CJcjaqyIsfTFbsl2aTN1fOYHXt1sT8vAWtdPNyu9dqLyx/dAC483Z6l26uj+tGcfaBCnFIpi0+R+waC8o+Jzbo5J4TVRYO/1atyKbB++Z06mIIx45Z8wEqWHidbhQWzZaP5p4nLMG+9FNeqZKFJrk1M8iBDPWuklF6Fiv2jGFn+wfqTyGTtONMQ6/RLMHrv1nF9LdR0nFptaPlHPCqpmQqDlRnAsOOirekTYB28Nyms+STRX/WTix4tp7hCiiU4lfP2lU/GEePhqosAKoLMqK8b7iyb1hgFJQFJ+ptJ6XAL1RvyGaPAhLHcqDExziNoJdkM5I0Nnye7TRoREl9w==;6E6NnQdng79EerQe5HvJVQ=="
+secured: "naPzwaoRBe3CkwNJL/TIrZ0b5BA5U9XqAS9B7ltjB2mPHhoL/4dWTFOXZd8SEIUqIN5eBLWrSl3/iP+bgYIrIz7wR1tMxoZKoK+zM4RsMEvFrbRi1pms6iexK1PQb2Ml/ehE3DKamuWx2WBTym1dpBW2VM44nwRWKbs5nIvtSJd4gk+S5GoKAIQfPX03j+zMy7EMY81eB0Dh7pbkK6IiTdeoCK4hF++QVBo0JqjtI+hkVz9ytMdEkMPQOsWeVhmE8A1UjzSEFJ/65qdAUlQPhCzVWup7Sdee7r7r+/tVoThWPiYAY1Av48jLvqdUrAceQdt5s09XrojFVlfddnwWXPfoqhglNIZqeZ0mh+RTF/QQium9TvqrcuFERVOCLqZXf3+7OpdKZg4y32gJY7oXLdgeTxHyI9FEwG5fCOYDYEQYcIG2r1ls4iJ8Zjh5G9yntFpGDyD1aBPwH//rMBP0PmBwqX+DyatGCT/6PQWZ7ntgz+m+6vLPGpC58Rye45WKKgp9YGOqwYsSkFXClgGSLA==;SDuTCCT+gWKN0CY89Lu3Vg=="
 ---
 

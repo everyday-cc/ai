@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Stability AI Selects AWS as Its Preferred Cloud Provider to Build Artificial Intelligence for the Future"
-excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Stability AI, a community-driven, open-source artificial intelligence (AI) company, has selected AWS as its preferred cloud provider to build and scale its AI models for image,"
-publishedDateTime: 2022-11-30T22:00:00Z
-originalUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-30-stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the-future"
-webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-30-stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the-future"
+excerpt: "Stability AI offers generative AI models that create text, images, audio, video, code, and more from simple text instructions. Generative AI or foundational models—models that are adaptable to a variety of tasks in domains such as language,"
+publishedDateTime: 2022-11-30T20:02:00Z
+originalUrl: "https://www.valdostadailytimes.com/ap/business/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the/article_a12aa1ff-90cd-5914-8dc3-1a552b60feb4.html"
+webUrl: "https://www.valdostadailytimes.com/ap/business/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the/article_a12aa1ff-90cd-5914-8dc3-1a552b60feb4.html"
 type: article
-quality: 32
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: The Buffalo News
-  domain: buffalonews.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Stability AI doubles down on AWS"
@@ -46,22 +52,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 74
-    images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
-        width: 666
-        height: 282
-        isCached: true
-  - title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
-    excerpt: "Hpc7g instances featuring new AWS Graviton3E chips deliver the best price performance for HPC workloads on Amazon EC2 C7gn instances featuring new AWS Nitro Cards with enhanced networking offer the hi"
-    publishedDateTime: 2022-11-29T17:25:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/b29893848/aws-announces-three-amazon-ec2-instances-powered-by-new-aws-designed-chips"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29893848"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29893848"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
     images:
       - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
         width: 666
@@ -161,7 +151,25 @@ related:
       name: The Tech Report
       domain: techreport.com
     quality: 36
+  - title: "Cognigy Achieves AWS Conversational AI Competency Distinction"
+    excerpt: "Achieving the AWS Conversational AI Competency differentiates Cognigy as an AWS Partner Network (APN) member with significant domain expertise in deploying high quality, highly ef"
+    publishedDateTime: 2022-11-30T00:00:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/11/30/9722443.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
+  - title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
+    publishedDateTime: 2022-11-29T20:15:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
-secured: "Q/OE3yh/Pym5hO4ZOIEGiVhNS86MUm4miukH1Wj3DPjjMIfpdEizBZQWSZuUOQo9GGQtedrufP5gcxKohXwqNuolb4bDZzXN8prc1ydLBzqtt/wt/4vZq2f8gMc+/HVfZb/dLwvAPeOAnueUg21SLvQX2AyxIDGaHM3B7wzhu4jEbf6lZRk57Nvxl0aY0FWu1PQZc7HSMKidbkTRV0nVm+KmGaZlHIMiCg5b6ya/219WnkNUcWkZU6445x344uiezHFvduFKfy19T1XHd7LGzZurWXCaCNjT6U/T2eAvmRGjR+8fjpVxeKafBPaman8ACArlHEA04iO8EER0xhG5yghN8Vzyg1s7qJQPjYnCuNI=;0ZwGNmInr2X48nZaFs979A=="
+secured: "ALPiBYw4YOXRAF0r1hpsLdwZG6JI5I79K7QBm3DTdE/bYDKm1R6KoJCBm4kwP1RVK+NhzOgve+0+NA18bFYintqagQFScUGwgTr4HX7Ir1kg1anf+c2brPHKffuNbQDIPYX3fwOnI7LWszagebASkCEE4Qy71JPEH7MHRliQWkJyuabJNedFSZ0VLmuO5v9danwPZdgOez4G9rDfiep/7vM4XEYQ0v9LkEnzongdRLWrOtztz2TVMyLoP1cNIjeY2waFNKmR3fNH9nATaSIRBE+cT1yOvS50U4HQOC+BcL15V9CN5C5IntJ6xvDxFiYnvaajrcKJkcHXCWQea8Sjv+HnbkrY9NcQvdVup7yWI+k=;NCdeRFQl+UOMOaWvE9px1g=="
 ---
 

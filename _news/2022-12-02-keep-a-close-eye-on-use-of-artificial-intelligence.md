@@ -6,8 +6,8 @@ publishedDateTime: 2022-12-02T08:30:00Z
 originalUrl: "https://www.heraldnet.com/opinion/keep-a-close-eye-on-use-of-artificial-intelligence/"
 webUrl: "https://www.heraldnet.com/opinion/keep-a-close-eye-on-use-of-artificial-intelligence/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "http://www.heraldnet.com/wp-content/uploads/2017/04/heraldnet_logo.png"

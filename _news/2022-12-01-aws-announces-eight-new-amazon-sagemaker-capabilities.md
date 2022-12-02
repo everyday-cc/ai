@@ -2,9 +2,9 @@
 category: news
 title: "AWS Announces Eight New Amazon SageMaker Capabilities"
 excerpt: "Amazon SageMaker Studio Notebook gives practitioners a fully managed notebook experience, from data exploration to deployment. As teams grow in size and"
-publishedDateTime: 2022-11-30T21:33:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/11/30/9722319.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/11/30/9722319.htm"
+publishedDateTime: 2022-11-30T21:21:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/11/30/9722319.htm"
+webUrl: "https://it.tmcnet.com/news/2022/11/30/9722319.htm"
 type: article
 quality: 34
 heat: -1
@@ -313,6 +313,6 @@ related:
       domain: datanami.com
     quality: 19
 
-secured: "/H3sKqII+KvJBBBAz5TLbkgrdiV7qZKPryT5Okmi3EaA9nGVQ9lNizct8ZRlwGGZlyDLKP1ITEdJa7xk30ieNC2TDA2i42wx/Wr6AzKhK7tslEZZwSLDNd0X5AhaoC4X9jzU0UEVoC0SjVf2pxm7ftPZE//3nmvYZhbU3aUgmygryzE3nbyT9aJ8WWwSFmIN/R3P/17l5RVwpFL2w5jYq/ywtlXwO4b0VmB/st9vmf+n3LDMNAUA3XPLs3qeWL/x2ym6vy0Tt1dQFe7R2AdW6VWxG6H6E2TiJgNffYB/5oyZLCG6UXTPeHByKdwnobkrCHkmxTR0nmdvr3lhEAxOr+lzhSKBRlWDcH+HpgDg3o0=;OaO575I40tlrfBGSdLkVUg=="
+secured: "XqKYgcUwXWfu8ouNHFPRoDlOYc6UXRITRGWdfSfxuG8I4dEoTxQIiGCG7efeAZ/R+0mmtiMCMp/q6nKf861W8mhYxSLrY5p6Tkonu4fRAMICOXVnuqWEReFVLw2B42TlFlAZEAOfbgWzKqFOHs6Bx8wkRk42HR0T2CekxpxDpIZaEQ6Lq260hrUsG7XEdQAew+9osg4GcfZXEkgB/Uy5IltHSi07wd+88v6oHeORv4qc0ka6Fi3s7GeQjxEDiS7m8Y57rSwkzWP9etjO3oCPVZ4Eo11M6X59fftM5KYhBHdpsFuTl8JD44diwlyKQ+uaRY4IokcQvML6Ml+8FwqvIf3jU0VAccmC7TiRShrFsoU=;wrxtxYBNYmWk+5qUur69hQ=="
 ---
 

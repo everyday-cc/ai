@@ -1,23 +1,22 @@
 ---
 category: news
-title: "AWS Announces Amazon Security Lake"
-excerpt: "AWS has announced Amazon Security Lake, a service that automatically centralizes an organization’s security data from cloud"
-publishedDateTime: 2022-11-30T16:06:00Z
-originalUrl: "https://www.datanami.com/this-just-in/aws-announces-amazon-security-lake/"
-webUrl: "https://www.datanami.com/this-just-in/aws-announces-amazon-security-lake/"
+title: "Cognigy Achieves AWS Conversational AI Competency Distinction"
+excerpt: "Achieving the AWS Conversational AI Competency differentiates Cognigy as an AWS Partner Network (APN) member with significant domain expertise in deploying high quality, highly ef"
+publishedDateTime: 2022-11-30T00:00:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/11/30/9722443.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/11/30/9722443.htm"
 type: article
-quality: 36
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: datanami.com
-  domain: datanami.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
-  - AI in Security
 
 related:
   - title: "Stability AI doubles down on AWS"
@@ -142,6 +141,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 36
+  - title: "AWS Announces Amazon Security Lake"
+    excerpt: "AWS has announced Amazon Security Lake, a service that automatically centralizes an organization’s security data from cloud"
+    publishedDateTime: 2022-11-30T16:06:00Z
+    webUrl: "https://www.datanami.com/this-just-in/aws-announces-amazon-security-lake/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 36
   - title: "Stability AI make AWS a Preferred Provider"
     excerpt: "The combination of AWS and Stability AI has the power to create monumental shifts in the potential applications of artificial intelligence."
     publishedDateTime: 2022-12-01T18:48:00Z
@@ -151,15 +159,6 @@ related:
       name: The Tech Report
       domain: techreport.com
     quality: 36
-  - title: "Cognigy Achieves AWS Conversational AI Competency Distinction"
-    excerpt: "Achieving the AWS Conversational AI Competency differentiates Cognigy as an AWS Partner Network (APN) member with significant domain expertise in deploying high quality, highly ef"
-    publishedDateTime: 2022-11-30T00:00:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/30/9722443.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
   - title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
     publishedDateTime: 2022-11-29T20:15:00Z
@@ -170,6 +169,6 @@ related:
       domain: tmcnet.com
     quality: 17
 
-secured: "qeFeopBSlaKNysfBn53TLZPSOfwO7KP8JZJ7Bm/rvoYcaGvxDMTp1+MbnqFNdhRrUaFwyQjXg9DTxZ8s3lBJ0xMzY10ifPesgL/X4RWyyCeNT8O/P5idbFq+ZvehHJFHZoiocTlcpbPPyOrRgn0QOP6aBfE/LaJI6HxpKUBE3IHLuBkRnfyQDZ9qS/yDveDqFI0zhZCnm1Bu6SQ5BE1F85cwH66zQCG7F3++y7zv331aYRSJJSjsEqEj7I1ZCCq1PB471upFIMqXiAER8Oq2xHVReQMWdPf6Jz4OkeY8NeVHTs7NQbyIH44UTbb0tosXd8E2WTT7TpXoWKtUSHiJbZR4GD09KwhdoB6xdUjSHhtwHP5nucG0BRq2EodT+FmSNmGDWBwToGYpeaVwP1FXCxXyRh7skcQSK353ZnnJiG5HAmQQAlWLd41OS/3sJ2CMpvxOfwL/26wCMPYGGX5ZjvArIJvgo3KUJOWd5PV3pMzR64XU05327gY6DyKxyGPf0pqmlfcWUTbFeL0GNb1Z6w==;uchEu/fnIi9wRQfVKzIVhg=="
+secured: "gbX4SzcCy5IGsoF1XqQT0baUWpIN1c1/lWXtA7RXakqe8DMh6xu34Kqtqj09LW88mTy0U/zJBd1ybYH2OBdvQmQRzcQxfMOf+ff7r+3Grv0tWB1bWZ5mvOlWbasiVv2nOaMAy1hDBFaJx4cmBLWnvhJVdTIcS/wnv3otjGG2n5kGO340uLDaiIkJFSQP+Hb7AhR1g/6FYqaqK/0tV5BKc5s7oRczLmbPQYwC1vKfMgOYXB/Pg4xjsLw8RebpikH8Q0/URhmhSBPHDRpL2ky4/++Up+5qgTCRhmFt7G20yZLkxOMAoq7FDa9QuoZ2fcCDzw90giRsmFjfnqGZjiIODLqVNTNB9EPIuRyvhoJs2klRWcJv/792saKgnPZFFdxdgDMi+KTqy3Cwa/YCnxpskPi1qCZ67DOJQpKMhozKzbmkQZiYMOQCqMJTVO7UimT5VeOvqOeVk05YxOdI6Qt0KJmMVyM1LxO17jpbV1KZaQjhqKPBkiPzq3H+E9UN7FRwhSaSrE+B7TNwOCHaMQbV4g==;CL1MzNyeD1w7ZYsr7wmTog=="
 ---
 

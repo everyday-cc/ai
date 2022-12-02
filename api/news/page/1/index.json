@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-02-how-ai-could-help-boost-help-desk-productivity-in-2023.md",
+      "title": "How AI Could Help Boost Help Desk Productivity In 2023",
+      "excerpt": "As businesses develop their IT budgets for 2023, with the specter of an economic slowdown looming, artificial intelligence (AI)-related projects will figure prominently in the discretionary spending plans of many organizations. In most cases, their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-help-boost-help-desk-productivity-in-2023/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-help-boost-help-desk-productivity-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6064dbb8610333ea7f4c8408/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-help-boost-help-desk-productivity-in-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-help-boost-help-desk-productivity-in-2023/amp/",
+      "publishedDateTime": "2022-12-02T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-02-artificial-intelligence-ai-in-fintech-market-2023-expected-to-reach-significant-rate-by-2027.md",
       "title": "Artificial Intelligence (AI) in Fintech Market 2023 Expected to Reach Significant Rate by 2027",
       "excerpt": "As per latest research on Artificial Intelligence (AI) in Fintech Market (Report spread across 105 Pages), the growth",
@@ -264,7 +316,7 @@
       "originalUrl": "https://gizmodo.com/ai-deep-mind-stratego-1849842361",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -528,7 +580,7 @@
       "originalUrl": "https://www.hw.ac.uk/news/articles/2022/artificial-intelligence-and-robotics-to-help.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -1213,58 +1265,6 @@
         "AWS AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-mastering-stratego-the-classic-game-of-imperfect-information.md",
-      "title": "Mastering Stratego, the classic game of imperfect information",
-      "excerpt": "Game-playing artificial intelligence (AI) systems have advanced to a new frontier. Stratego, the classic board game that’s more complex than chess and Go, and craftier than poker, has now been mastered. Published in Science, we present DeepNash, an AI agent that learned the game from scratch to a human",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/mastering-stratego-the-classic-game-of-imperfect-information",
-      "originalUrl": "https://www.deepmind.com/blog/mastering-stratego-the-classic-game-of-imperfect-information",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6388ce129963208649083b0e_Stratego_header_02_hd.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

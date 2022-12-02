@@ -1,27 +1,29 @@
 ---
 category: news
 title: "San Francisco will allow police to deploy robots that kill"
-excerpt: "The San Francisco Police Department said it does not have pre-armed robots and has no plans to arm robots with guns. But the department could deploy robots equipped with explosive charges “to contact, incapacitate, or disorient violent, armed, or dangerous suspect” when lives are at stake, SFPD spokesperson Allison Maxie said in a statement."
-publishedDateTime: 2022-11-30T15:02:00Z
-originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-san-francisco-20221130-ro42dfbebbfzzjrngjvbxasvdy-story.html"
-webUrl: "https://www.baltimoresun.com/news/nation-world/ct-san-francisco-20221130-ro42dfbebbfzzjrngjvbxasvdy-story.html"
+excerpt: "Supervisors voted to grant police the option to use potentially lethal, remote-controlled robots despite strong objections from civil liberties groups."
+publishedDateTime: 2022-11-30T04:27:00Z
+originalUrl: "https://www.khou.com/article/news/nation-world/san-francisco-could-allow-police-to-deploy-robots-that-kill/507-9fbae4cb-330a-4c81-a01a-bbcdbed97028"
+webUrl: "https://www.khou.com/article/news/nation-world/san-francisco-could-allow-police-to-deploy-robots-that-kill/507-9fbae4cb-330a-4c81-a01a-bbcdbed97028"
+ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/san-francisco-could-allow-police-to-deploy-robots-that-kill/507-9fbae4cb-330a-4c81-a01a-bbcdbed97028"
+cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/san-francisco-could-allow-police-to-deploy-robots-that-kill/507-9fbae4cb-330a-4c81-a01a-bbcdbed97028"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: KHOU 11
+  domain: khou.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.baltimoresun.com/resizer//v_DhrtUIlfG8eTfuH-rKA6y5uiU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/QSYQIAPOOZFB3AATASZZKVB3SU.jpg"
-    width: 1200
-    height: 630
+  - url: "https://media.khou.com/assets/CCT/images/d351425c-2053-485f-a857-34f172fc1ae9/d351425c-2053-485f-a857-34f172fc1ae9_1140x641.jpg"
+    width: 1140
+    height: 641
     isCached: true
 
 related:
@@ -173,6 +175,6 @@ related:
       domain: fastcompany.com
     quality: 19
 
-secured: "PCeFLJ/iYcrqFjocTN9PiZAgEBlQvYb9DwVGPC2IJ82Jy0Rj7aIxo7IjqsyT71+BnnHV+1/z7hrmK9NFkoSq9R6+vBjJ01ElIhpbA7+uXrVV/yjCZnHdgT+MClnBG3VH0uL3F3lMHCDiE7L4WkDUeEavB1MJpwBMkMeiRXWlVEtH2Y18rGTSMMib6wRd25t3L8uBx95MqKxuxSuznFPAMblJ1G2ydT18Zc/oGbsulzYyYwiXLC8PZRSMqRbmWOpipcvQ2vvwSPXh0UaOnFYFoKDIpFadV010xEp6tbaZ2jyYboO3hBiQ7je1d4H+BtIGp43unK0fEofWWLAtusO8+QNeCu/0Ho9t1MQFn5p1iQZ/6dhjvNyz3YEjXBNlEyXXamzBUjkIiccnwyK4nmaP+OBns9XfX0/uh3t6wc5/V1A62nQMItpqdr3wMKpoOZolaxWN8pRYxeewRM3DHJPnCOxoYcJO5Q/0z1tLgp3vVdVCefFBFunSKKzDSJfoKyMWqIdlOdS3LIk+ZMA+kkSE0g==;TZQ3x3ucSm+DI5v/p7VTvA=="
+secured: "nd6KDNVwoXdzoMpkvybdONKAOU4RNs4xZ/XpHn+yGFJbjw4AzlFOO6KJ+ydIx/Kw9qlrAYbfsRdC3sYXmGf6Coai3RLHLpLZy+WiVYILUWkNqWq2uVU9D3ma4rMXhxA9uwfSXTuzVBF3NYJ74uKAY71561HvWgdhex0sk9zCdh/WmnbIGVdIxdAHeJG4GaNWGqwgGwOoKoFKz6bYF+FcqN6lhYRWFvPmi2hLeBc5Vuq9AMjmDRqgm99M3wEclQG7FTs8HVJTnMkaeUfCStEXO63JrFOoRhrOQqOhFXaehQxV4jZt1e0Ac/gD5J/wxMTmdCmZ/8Ijwvu+2tx1LIgkjonsHBhV6H5/jmLDYYdJ9BE=;Uzg+TcNEVd+V/aVbLq5QLw=="
 ---
 
