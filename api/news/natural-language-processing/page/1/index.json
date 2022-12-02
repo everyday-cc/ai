@@ -168,7 +168,7 @@
       "originalUrl": "https://venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 152,
       "tags": null,
       "images": [
         {
@@ -377,10 +377,10 @@
     {
       "path": "_news/2022-11-25-the-electronic-medical-records-market-sees-a-rising-adoption-of-the-natural-language-processing-techniques-by-the-business-research-company.md",
       "title": "The Electronic Medical Records Market Sees A Rising Adoption Of The Natural Language Processing Techniques - By The Business Research Company",
-      "excerpt": "The adoption of Natural Language Processing (NLP) is gaining popularity in the electronic medical records market trends. NLP creates machines that can comprehend text or voice input and react to it as people do by responding with text or speech of their own.",
+      "excerpt": "LONDON, Nov. 24, 2022 /PRNewswire/ -- The adoption of Natural Language Processing (NLP) is gaining popularity in the electronic medical records market trends. NLP creates machines that can ...",
       "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/11/24/9719503.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/11/24/9719503.htm",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/n29852130/the-electronic-medical-records-market-sees-a-rising-adoption-of-the-natural-language-processing-te",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/n29852130/the-electronic-medical-records-market-sees-a-rising-adoption-of-the-natural-language-processing-te",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -397,13 +397,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-24T08:37:00-08:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29852130",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29852130",
+      "publishedDateTime": "2022-11-24T08:27:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

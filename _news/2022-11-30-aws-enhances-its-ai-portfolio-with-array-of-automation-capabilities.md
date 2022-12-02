@@ -85,20 +85,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Stability AI Selects AWS as Its Preferred Cloud Provider to Build Artificial Intelligence for the Future"
-    excerpt: "Stability AI offers generative AI models that create text, images, audio, video, code, and more from simple text instructions. Generative AI or foundational models—models that are adaptable to a variety of tasks in domains such as language,"
-    publishedDateTime: 2022-11-30T20:02:00Z
-    webUrl: "https://www.valdostadailytimes.com/ap/business/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the/article_a12aa1ff-90cd-5914-8dc3-1a552b60feb4.html"
-    type: article
-    provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 52
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
   - title: "AWS doubles down on data management"
     excerpt: "Cloud giant Amazon Web Services declared a bold vision to eliminate the need to extract, transform and load data alongside other efforts to address business problems in domains like cyber security and"
     publishedDateTime: 2022-11-29T20:51:00Z
@@ -137,10 +123,19 @@ related:
       name: The Tech Report
       domain: techreport.com
     quality: 36
+  - title: "Stability AI Selects AWS as Its Preferred Cloud Provider to Build Artificial Intelligence for the Future"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Stability AI, a community-driven, open-source artificial intelligence (AI) company, has selected AWS as its preferred cloud provider to build and scale its AI models for image,"
+    publishedDateTime: 2022-11-30T22:00:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-30-stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the-future"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 32
   - title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
-    publishedDateTime: 2022-11-29T20:15:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
+    publishedDateTime: 2022-11-29T20:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-three-amazon-ec2-instances-powered-new-/2022/11/29/9721297.htm"
     type: article
     provider:
       name: TMCnet

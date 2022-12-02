@@ -2,22 +2,21 @@
 category: news
 title: "New artificial intelligence could help humans actually talk to animals"
 excerpt: "Though humans have tried for thousands of years, modern science has found new ways to communicate with the animal kingdom, albeit with limited success."
-publishedDateTime: 2022-11-30T01:55:00Z
-originalUrl: "https://www.10news.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
-webUrl: "https://www.10news.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
-ampWebUrl: "https://www.10news.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
-cdnAmpWebUrl: "https://www-10news-com.cdn.ampproject.org/c/s/www.10news.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+publishedDateTime: 2022-11-30T12:55:00Z
+originalUrl: "https://www.koaa.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
+webUrl: "https://www.koaa.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
+ampWebUrl: "https://www.koaa.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+cdnAmpWebUrl: "https://www-koaa-com.cdn.ampproject.org/c/s/www.koaa.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
 type: article
-quality: 59
-heat: 79
+quality: 57
+heat: 77
 published: true
 
 provider:
-  name: ABC 10 News
-  domain: 10news.com
+  name: koaa
+  domain: koaa.com
 
 topics:
-  - AI in Autos
   - AI
 
 images:
@@ -56,6 +55,6 @@ related:
         height: 630
         isCached: true
 
-secured: "J7f6l4FU5FoK6zptd9/n7ipKp3osW5kAZFkoBPVFKgG4SklZnvUDSv4wpCE0hvcsqayOzETrVKv1ZNBhIpzUIDH3/Qidg/NDHKvD8c8J/ENwsfVgUOdJEMj0huNnzmvKoR3BmtsHVzUv9XHqDNKW206yDV6wf/KThMmyUZ/QAL2G6VIsv6IFnvGUQgp2Jox1LaizzWR3BC2vKDnzv/ixsiCxK44I96QlYFNjzIDseErUlYNaQ3TaNXloRa7ftNYsUWzBuMH0ssbU5Nk44SSjsiG4BxXWD5FbSED0KKtXT3S2E5oJtmtwRyFrhQAmw3fRJEUWcODoTiAEHIr5sLTxM/MDDtow6a+HkvpxCfRFEAw=;U+oYJqF+qCyAO7BomowZSw=="
+secured: "NW0RjXLF4utAv8+0OQxGaNaiwxCyzt2+bl8wpzBZvCfLobXHToB7YlK6FcsykspGxEnHGMrOAV263klQ76wT8Bxno1Jgr5KpQd58Y86NiM3hzzL0hxVQ6WjofWEVyMy/apuagtXLfl4uXhSeKUFNucm345za8VIXMGwdSeoMNknoPBOA72UkLJJ/yNAY368rIMoy1nnf57YfFgO2IWMI09uFw6QhBGvP3xI9xgUnOqjysUbv6JlxRpcv0x+21vu37EZsq9WUgQVk+NNmxfP8SEAE4U+aW44ldhBoNqp0jzKs4lKvg5lA5PJW2kujrEdgRD8oD1o2MUqm7KzXo5grjDncn5SluohA5EDQKyprkaI=;sF4afuVPB5BRCWs48w4u3w=="
 ---
 

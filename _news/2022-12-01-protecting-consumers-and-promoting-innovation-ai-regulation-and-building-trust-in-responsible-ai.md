@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The role of Data driven innovations in shaping the future of healthcare"
-    excerpt: "Data-driven innovation will help us further modernize, streamline, and simplify the health system. Stakeholders recognize the potential of machine learning, analytics, and other advanced digital tools in healthcare."
-    publishedDateTime: 2022-11-27T09:28:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/the-role-of-data-driven-innovations-in-shaping-the-future-of-healthcare/95803977"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/the-role-of-data-driven-innovations-in-shaping-the-future-of-healthcare/95803977"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/the-role-of-data-driven-innovations-in-shaping-the-future-of-healthcare/95803977"
-    type: article
-    provider:
-      name: health.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-95803977,imgsize-655400,width-1200,height-628,overlay-ethealthworld/the-role-of-data-driven-innovations-in-shaping-the-future-of-healthcare.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "American Family Insurance and AWS Team Up to Drive Innovation in the Insurance Industry"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced an expanded relationship with American Family Insurance, a mutual insurance company focused on property,"
     publishedDateTime: 2022-12-01T13:02:00Z

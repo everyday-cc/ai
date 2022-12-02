@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/how-fi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/how-fintech-impacts-financial-inclusivity/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -105,6 +105,15 @@ related:
         width: 1361
         height: 771
         isCached: true
+  - title: "FIS Challenges Nearly 200 Startups to Pitch their Boldest Ideas in First APAC Fintech Competition"
+    excerpt: "FIS has expanded its InnovateIN48 fintech competition to startup fintech companies in the APAC region for the first time. The competition"
+    publishedDateTime: 2022-12-02T01:29:00Z
+    webUrl: "https://www.01net.it/fis-challenges-nearly-200-startups-to-pitch-their-boldest-ideas-in-first-apac-fintech-competition/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 0
 
 secured: "OgfD3FO72V3J6DRB1H+pP/sj9uHeVI57j3xy6MxHXh6UCDzdNGsgn80/401bSjXsrr0nculc6LMC5q6C2vGEWD2Sit0Ns2DWRnaWz1U9Cu46ha8JW3l3DO39J57xk/lcfRxTNDFfjcgy3OfGba7tdMsOfCNeU2FOUOPwB8HV3U5HWeOYdY9d74eh6Mfn/t9Jmbm/0KNAISX0XknrAgT5R1Tw44FOBdn+Nb3qcKI0lpkDZR41smkrk6OopSFloCGQ9vMu3hyJfBfeqxBtVE95Lt5uqRBgSiv/8e0RLzy+hlRS7rudZOTOYUjLbw5Eu5qTgXxo7dxmJUZ2XViGRcAw299Ez2aOpNt4l19ItLaN9eR8nt6j6bwwigxwtHr0p9fxdqcCScAAB4syBpgivQF2vBBMcS5A9Zf2S9Xmo3InA9AHK609+yHXzngmkhA1zlSgNLG73wxDIgOZKvxwRbSXUPq83nlV7Gm6tbo8YEq/w6g4dqdzjHJ9LDPkYu393TDCked/WRytVVShE6ejnaO+2w==;gtzs0tiKQXGru1UkBQwyUQ=="
 ---

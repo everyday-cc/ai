@@ -1,13 +1,13 @@
 ---
 category: news
 title: "US Air Force must ‘automate more’ to maintain advantage, CIO says"
-excerpt: "More than 600 AI projects, including several related to major weapons systems, were underway at the Department of Defense as of April 2021."
-publishedDateTime: 2022-11-30T20:24:00Z
-originalUrl: "https://www.defensenews.com/artificial-intelligence/2022/11/30/us-air-force-must-automate-more-to-maintain-advantage-cio-says/"
-webUrl: "https://www.defensenews.com/artificial-intelligence/2022/11/30/us-air-force-must-automate-more-to-maintain-advantage-cio-says/"
+excerpt: "A U-2 Dragon Lady prepares to land at Beale Air Force Base, California, in 2020. The flight marked a major leap forward, as artificial intelligence took flight aboard a military aircraft. (Airman 1st Class Luis A. Ruiz-Vazquez/U.S. Air Force) WASHINGTON ..."
+publishedDateTime: 2022-11-30T20:37:00Z
+originalUrl: "https://www.defensenews.com/artificial-intelligence/2022/11/30/us-air-force-must-automate-more-to-maintain-advantage-cio-says/?s=08"
+webUrl: "https://www.defensenews.com/artificial-intelligence/2022/11/30/us-air-force-must-automate-more-to-maintain-advantage-cio-says/?s=08"
 type: article
-quality: 41
-heat: 41
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -16,8 +16,6 @@ provider:
 
 topics:
   - AI
-  - AI in Healthcare
-  - AI in Autos
 
 images:
   - url: "https://www.defensenews.com/resizer/5A9WTVnaKIXZeuxLOy5TqmVR8cU=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/EZI5ROUSZRB3RKPUZVRYXR4QEI.jpg"
@@ -25,6 +23,6 @@ images:
     height: 683
     isCached: true
 
-secured: "GVzrltI0AWUXsRDz7DsuP8PuvA671Lao6LxH+0/NH9rhiAXxJcuI8uUzjZkcVNB+zVbMWfrQAnLbMoXkU41lymtxullpTF/xsyybII8YXuVAM4fNSuNt5Zc4qKf4/ykNV/xNFlGx8S6WtDZdyFj6RXgN9r8WtPIBh7s37Pyowi1O5V0P9Wo+fPxGrRrlw/8uJGriVjIsrWtesMFSpzgRFyBdmkxK+o291tB3MP3BOYyN2glcN8gZvr1YtTIvfjP1poM2qYt28TNBeRcuxnpcSEPXvmH/TYSS8eNogF1btXpjyd2oDUlCGLrxYIX1Qj26F1QE+q7f+IBThTHdn7kW6n/D+1wTFOevLTlgDh8B7hHJdrxFMNoWKgL2tzifHIVuz21Soh5Px6Xc9LJIRsJKLtX8lVKHUOOGVXghggamlzXVLTe1Ad2zvCVho+aJr7e7Q4qv4x7ngMNpULZzVY2SBIqkU0sm14twFAH2quWQCNCbZQZptCKQNF6OTPE2jt9utZeveJKhxbLbIoaQ48qanA==;jVefgeBmmw94s1vWZLAp7w=="
+secured: "UCGG8WJh8pgpEHtcjVIvBP+FPayK7cAi9m7pZVPkDtURhJnOjfZNOBwWvRnX6hNs+FCTVBiutJJPLMVM6a4cMKuXIuQFtId9p19BunJQvXvXn8a35OP+2RZ4T3dKcjHifj+Q7mSah+GrIDK75W8pjirmc1xIJvAcbDB95/Ijxlcz/kdIuF8z5v+Qid9v+4GODXTK8jCNeLhwLIS0qnA7Z5wFF98zQB03l3eDcx8w5pJHEv74ct2avtljPMNZSqCqLu6Xdd4+ZLEvk24Mh+yJZz28YV7t7TAC5eovim09ECkuim9ToyK5Go2SM2rn25pjriD5Os8LKiJ3Md4wN3KAA2jJwhlMY1AX0DjugcGxj0Y=;27+FC5TwrshgUkL4itKuUw=="
 ---
 

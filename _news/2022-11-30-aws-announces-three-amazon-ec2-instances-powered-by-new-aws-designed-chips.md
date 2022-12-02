@@ -2,9 +2,9 @@
 category: news
 title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
 excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
-publishedDateTime: 2022-11-29T20:15:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
-webUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
+publishedDateTime: 2022-11-29T20:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-aws-announces-three-amazon-ec2-instances-powered-new-/2022/11/29/9721297.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-three-amazon-ec2-instances-powered-new-/2022/11/29/9721297.htm"
 type: article
 quality: 17
 heat: -1
@@ -93,20 +93,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Stability AI Selects AWS as Its Preferred Cloud Provider to Build Artificial Intelligence for the Future"
-    excerpt: "Stability AI offers generative AI models that create text, images, audio, video, code, and more from simple text instructions. Generative AI or foundational models—models that are adaptable to a variety of tasks in domains such as language,"
-    publishedDateTime: 2022-11-30T20:02:00Z
-    webUrl: "https://www.valdostadailytimes.com/ap/business/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the/article_a12aa1ff-90cd-5914-8dc3-1a552b60feb4.html"
-    type: article
-    provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 52
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
   - title: "AWS doubles down on data management"
     excerpt: "Cloud giant Amazon Web Services declared a bold vision to eliminate the need to extract, transform and load data alongside other efforts to address business problems in domains like cyber security and"
     publishedDateTime: 2022-11-29T20:51:00Z
@@ -145,7 +131,16 @@ related:
       name: The Tech Report
       domain: techreport.com
     quality: 36
+  - title: "Stability AI Selects AWS as Its Preferred Cloud Provider to Build Artificial Intelligence for the Future"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Stability AI, a community-driven, open-source artificial intelligence (AI) company, has selected AWS as its preferred cloud provider to build and scale its AI models for image,"
+    publishedDateTime: 2022-11-30T22:00:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-30-stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the-future"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 32
 
-secured: "Le5WoHO6WiXAVcx1xYJnvjoTldHt+hLyNOenq9yQ+KzqM5ajqv6q3fzsFP3JlKS2MSzE5tg9bImnobcBLrWRATeH/oMGSpEom/0ufAQbqJ6Cdp5ypLD1klUxo4WsVfek3LsgNN/AITpgeunQQSiI3CUg+/KEUjob5ZuoELbLdGh4lVIk/o8PJs6I+DT3HmhXJ2B0SagxCQwQ16WHQfElnCy9XgO5tbVgCIqRcSwrx10bQSHieu3k3rtr3RejCA0f5vgSSh31MDaQ6s4AwwP/fLl4ciZ4/kcgDJ7/Kkr1D5eJn1H9ChZLJ9qPlXWcA/j942o5EME48dXauMD8oeRf0i0HP3A42fdpLfWVk0xdVKVHUPyf3hE/dfmpDiGIvHTS6KWiFgHlbXJzs5AWLWpZjxhpfN6tQ2kKp+DSs/3a8F/WIaixEoR+SstljLmmAR6/3+X5DFR3BG1SkUmLvbjNHXoWd4iLTOO9rz5WmpsaxkCnWh88ngVQanSseaNmIkFzdNSp/0dyWlEYX2nvehvyLw==;wFl3LtHCY97tq7458haJlA=="
+secured: "guDPVUZRR+luP42/vKTB7oCc19L/7ZnUdfpy/pHKrUs1MhkL/IWGxxqUGsc3eDJ7T0cLrIorXlG5rOhMdvjL7Xi16OO1Ldnr5z/6gS4NcruBqN4dADLIQL/FAk6OOE1/STVgNIAVU3j1Oxw0rXAIWmTORFaFltf+w8KnFlgxD1Qt3GLwJ1jjh/4icIy0Xl+x4miyPywOvigc9H5sveum3eFG/CvZoPyxf3sNICCCxmnFzYekPnCBcvXw9k1h6+iHdsbdwzwwG++I0VCNL/woTh2AacQrhyrwuIg+SvxcRZiYJkAZPjiveoT9WpVqSD8Aenuya6uvOyg6GTUQoKXTfrRi0gDRsZ7GJK77oChL6wr5KerI3+nPl43ZQXqtR2KNTmymtZIVR/H1uHqp+VHUGL8yLhIhiKUYCYe3VmlMDbveJbBVSdqaoLtScOR/WP5p2ZZp5LXMdB9JdiLeyTkAd1nmP559t//DMopfgqd1tSN8CzDei/lWmNveAPpfq2K9UbEX7DikCALKyrYzpCAZGg==;zwCkBgWd8cJaujqy7tPwiA=="
 ---
 

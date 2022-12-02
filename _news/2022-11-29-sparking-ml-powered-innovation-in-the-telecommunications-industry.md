@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/11/29/sparking-ml
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/11/29/sparking-ml-powered-innovation-in-the-telecommunications-industry/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "The role of Data driven innovations in shaping the future of healthcare"
-    excerpt: "Data-driven innovation will help us further modernize, streamline, and simplify the health system. Stakeholders recognize the potential of machine learning, analytics, and other advanced digital tools in healthcare."
-    publishedDateTime: 2022-11-27T09:28:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/the-role-of-data-driven-innovations-in-shaping-the-future-of-healthcare/95803977"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/the-role-of-data-driven-innovations-in-shaping-the-future-of-healthcare/95803977"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/the-role-of-data-driven-innovations-in-shaping-the-future-of-healthcare/95803977"
-    type: article
-    provider:
-      name: health.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-95803977,imgsize-655400,width-1200,height-628,overlay-ethealthworld/the-role-of-data-driven-innovations-in-shaping-the-future-of-healthcare.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Protecting Consumers and Promoting Innovation – AI Regulation and Building Trust in Responsible AI"
     excerpt: "Artificial intelligence (AI) is one of the most transformational technologies of our generation and provides huge opportunities to be a force for good and drive economic growth. It can help scientists cure terminal diseases, engineers build inconceivable structures, and farmers yield more crops. AI allows"
     publishedDateTime: 2022-12-01T14:01:28Z

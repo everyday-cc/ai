@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-12-01-state-of-ai-december-2022.md",
+      "title": "State Of AI, December 2022",
+      "excerpt": "Sentient or not, MineDojo got Nvidia’s researchers the NeurIPS 2022 Outstanding Datasets and Benchmarks Paper Award, demonstrating their belief that large language models in the future will be “embodied agents that proactively take actions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2022/11/30/state-of-ai-december-2022/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2022/11/30/state-of-ai-december-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6387c6194c3ae06b95db977a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2022/11/30/state-of-ai-december-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/11/30/state-of-ai-december-2022/amp/",
+      "publishedDateTime": "2022-11-30T12:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-here-workspace-the-low-code-platform-tool-for-map-creation-now-comes-with-machine-learning-from-aws.md",
       "title": "HERE Workspace: The low-code platform tool for map creation now comes with machine learning from AWS",
       "excerpt": "HERE Workspace adds new low-code mapmaking capabilities and now connects to Amazon SageMaker, AWS's machine learning platform, to further expand the possibilities for customers developing spatial inte",
@@ -523,6 +574,48 @@
       ]
     },
     {
+      "path": "_news/2022-11-30-new-artificial-intelligence-could-help-humans-actually-talk-to-animals.md",
+      "title": "New artificial intelligence could help humans actually talk to animals",
+      "excerpt": "Though humans have tried for thousands of years, modern science has found new ways to communicate with the animal kingdom, albeit with limited success.",
+      "sourceUrl": null,
+      "webUrl": "https://www.koaa.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals",
+      "originalUrl": "https://www.koaa.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newsy.com/images/videos/m/1669756816_CgX8sG.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.koaa.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true",
+      "cdnAmpWebUrl": "https://www-koaa-com.cdn.ampproject.org/c/s/www.koaa.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true",
+      "publishedDateTime": "2022-11-30T04:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "koaa",
+        "domain": "koaa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-ai-is-powerless-without-hi-why-human-intelligence-is-irreplaceable.md",
       "title": "AI Is Powerless Without HI: Why Human Intelligence Is Irreplaceable",
       "excerpt": "Companies are, by and large, in the early stages of becoming truly digital. Digitization includes fully adopting artificial intelligence (AI) and machine learning, investing in tech, and converting all existing information into digital formats. Over the ...",
@@ -691,7 +784,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/how-fintech-impacts-financial-inclusivity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -936,49 +1029,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-30-new-artificial-intelligence-could-help-humans-actually-talk-to-animals.md",
-      "title": "New artificial intelligence could help humans actually talk to animals",
-      "excerpt": "Though humans have tried for thousands of years, modern science has found new ways to communicate with the animal kingdom, albeit with limited success.",
-      "sourceUrl": null,
-      "webUrl": "https://www.10news.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals",
-      "originalUrl": "https://www.10news.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.newsy.com/images/videos/m/1669756816_CgX8sG.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.10news.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true",
-      "cdnAmpWebUrl": "https://www-10news-com.cdn.ampproject.org/c/s/www.10news.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true",
-      "publishedDateTime": "2022-11-29T17:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC 10 News",
-        "domain": "10news.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-30-accel-funded-finbotsai-signs-first-neobank-in-mongolia-m-bank.md",
       "title": "Accel Funded finbots.ai Signs First Neobank in Mongolia – M Bank",
       "excerpt": "Singapore-based finbots.ai has signed its first customer in Mongolia, a neobank called M-Bank. finbots.ai is an Accel-funded Fintech that provides B2B software as a service (SaaS). finbots.ai’s utilizes artificial intelligence (AI) to provide a credit modelling solution that aims to enable M bank to rapidly develop and deploy high accuracy application and behaviour scorecards.",
@@ -1164,58 +1214,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-brain-mri-data-machine-learning-models-might-help-in-diagnosing-adhd.md",
-      "title": "Brain MRI Data & Machine Learning Models Might Help In Diagnosing ADHD",
-      "excerpt": "In a new study, researchers made a breakthrough by potentially finding a far more robust mechanism through which ADHD diagnosis via brain MRI scans might become a reality in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anuradhavaranasi/2022/11/29/brain-mri-data--machine-learning-models-might-help-in-diagnosing-adhd/",
-      "originalUrl": "https://www.forbes.com/sites/anuradhavaranasi/2022/11/29/brain-mri-data--machine-learning-models-might-help-in-diagnosing-adhd/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6384bb904b07cd85744597a0/0x0.jpg?format=jpg&width=1200",
-          "width": 1114,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anuradhavaranasi/2022/11/29/brain-mri-data--machine-learning-models-might-help-in-diagnosing-adhd/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anuradhavaranasi/2022/11/29/brain-mri-data--machine-learning-models-might-help-in-diagnosing-adhd/amp/",
-      "publishedDateTime": "2022-11-29T09:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -86,6 +86,20 @@ related:
       name: Oneindia
       domain: oneindia.com
     quality: 52
+  - title: "Face-recognition at 3 airports"
+    excerpt: "Passenger data shared for DigiYatra would be saved in an encrypted format in a decentralised manner, Union Civil Aviation Minister Jyotiraditya Scindia said here today."
+    publishedDateTime: 2022-12-02T01:53:00Z
+    webUrl: "https://www.tribuneindia.com/news/nation/face-recognition-at-3-airports-456716"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 39
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/12/2022_12$largeimg_1293944252.jpg"
+        width: 660
+        height: 448
+        isCached: true
   - title: "DigiYatra face recognition system launched at 3 airports, Scindia says data stored in encrypted format"
     excerpt: "The government on Thursday launched DigiYatra which will provide a seamless entry and embarkation process for air passengers at the airports in the National Capital, Bangalore and Varanasi."
     publishedDateTime: 2022-12-01T11:07:00Z

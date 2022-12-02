@@ -101,6 +101,15 @@ related:
         width: 1361
         height: 771
         isCached: true
+  - title: "FIS Challenges Nearly 200 Startups to Pitch their Boldest Ideas in First APAC Fintech Competition"
+    excerpt: "FIS has expanded its InnovateIN48 fintech competition to startup fintech companies in the APAC region for the first time. The competition"
+    publishedDateTime: 2022-12-02T01:29:00Z
+    webUrl: "https://www.01net.it/fis-challenges-nearly-200-startups-to-pitch-their-boldest-ideas-in-first-apac-fintech-competition/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 0
 
 secured: "mz7zPR6+mCFoUvZc3fCFTooIG+nb3T9Iy9iQhed7KHCOhnBtZHcNU2hsyq1AyovhQCNC2aAbTosbrGEN2rWVk5om78C8LzTL7mjiaSzRbb3vHdO6xCMCXp88dDSpinALx0AKt18FerHNvopU5hrA2rzdNFwaKls8n+sGdkwFnvt0Na5CqUA9eCP1l2BrR+hn182O5NIYhK/NwivEd0xrfycF0RbAYmxb0GkMvjURX0xDMRSW3qFLghT9jOpAaT8Eqn00RHV68Xhgce7fcyNF2yrgmvbkRGtaVL9mXpWXGTd4btgXr8eYL3hfkT+dGEQm78IkeX/wZjqUPcG8krwGkmxeIjFR3l1UPbroxyQb/TU=;9IE48vbC22iLPxGjrlol2g=="
 ---

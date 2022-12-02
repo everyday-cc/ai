@@ -36,6 +36,22 @@ related:
         width: 1200
         height: 606
         isCached: true
+  - title: "Artificial intelligence, machine learning will strengthen firms’ IT security: Report"
+    excerpt: "The company has been receiving many enquiries about cyber security, said Shailesh Davey, Co-Founder and Vice President of Engineering at Zoho."
+    publishedDateTime: 2022-12-02T01:43:00Z
+    webUrl: "https://www.newindianexpress.com/business/2022/dec/02/artificial-intelligence-machine-learning-will-strengthen-firms-it-security-report-2524302.html"
+    ampWebUrl: "https://www.newindianexpress.com/business/2022/dec/02/artificial-intelligence-machine-learning-will-strengthen-firms-it-security-report-2524302.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2022/dec/02/artificial-intelligence-machine-learning-will-strengthen-firms-it-security-report-2524302.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 84
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/9/9/w600X390/The_Risks_an.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "AI enhanced cybersecurity services firm takes AIM on next chapter"
     excerpt: "A Cork-based provider of AI enhanced cybersecurity services is to seek admission of its shares to trading on AIM, a market of the London Stock Exchange."
     publishedDateTime: 2022-12-01T08:44:00Z

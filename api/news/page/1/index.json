@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-02-stop-your-public-cloud-ai-projects-from-dripping-you-dry.md",
+      "title": "Stop your public-cloud AI projects from dripping you dry",
+      "excerpt": "The public cloud helped bring AI into the mainstream, but that doesn't mean every AI application should run there. Here's how to decide.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/stop-your-public-cloud-ai-projects-from-dripping-you-dry/",
+      "originalUrl": "https://venturebeat.com/ai/stop-your-public-cloud-ai-projects-from-dripping-you-dry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1225889323.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 646,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/stop-your-public-cloud-ai-projects-from-dripping-you-dry/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stop-your-public-cloud-ai-projects-from-dripping-you-dry/amp/",
+      "publishedDateTime": "2022-12-01T17:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-02-we-will-see-a-completely-new-type-of-computer-says-ai-pioneer-geoff-hinton.md",
       "title": "We will see a completely new type of computer, says AI pioneer Geoff Hinton",
       "excerpt": "Analog computers marrying AI software closely to hardware will put GPT-3 in your toaster for $1 running on a few watts of power.",
@@ -473,7 +525,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/n-ix-obtains-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1031948094",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 148,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -674,7 +726,7 @@
       "originalUrl": "https://www.firstpost.com/explainers/explained-india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work-10842621.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 163,
       "tags": null,
       "images": [
         {
@@ -1195,57 +1247,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/11/30/how-the-private-sector-can-help-close-the-public-sector-knowledge-gap-in-sustainable-ai/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/11/30/how-the-private-sector-can-help-close-the-public-sector-knowledge-gap-in-sustainable-ai/amp/",
       "publishedDateTime": "2022-11-30T12:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-state-of-ai-december-2022.md",
-      "title": "State Of AI, December 2022",
-      "excerpt": "Sentient or not, MineDojo got Nvidia’s researchers the NeurIPS 2022 Outstanding Datasets and Benchmarks Paper Award, demonstrating their belief that large language models in the future will be “embodied agents that proactively take actions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2022/11/30/state-of-ai-december-2022/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2022/11/30/state-of-ai-december-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6387c6194c3ae06b95db977a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2022/11/30/state-of-ai-december-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/11/30/state-of-ai-december-2022/amp/",
-      "publishedDateTime": "2022-11-30T12:18:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

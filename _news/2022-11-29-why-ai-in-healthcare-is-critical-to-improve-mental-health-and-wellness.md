@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/11/28/why-ai-in-health
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/11/28/why-ai-in-healthcare-is-critical-to-improve-mental-health-and-wellness/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 66
+  - title: "Artificial Intelligence Can Help Therapists Ease Mental Healthcare"
+    excerpt: "Here to help and not replace, AI in mental healthcare can assist therapists in providing an enhanced personalized session for their patients."
+    publishedDateTime: 2022-12-01T23:56:00Z
+    webUrl: "https://www.bbntimes.com/science/ai-can-help-therapists-ease-mental-healthcare"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 54
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/AI_Can_Help_Therapists_Ease_Mental_Healthcare.png"
+        width: 1530
+        height: 1018
+        isCached: true
   - title: "AI in Health Care: No, the Robots Are Not Taking Over"
     excerpt: "The AI robots are not taking over ... board chair of the Alliance for Artificial Intelligence in Healthcare and CEO of Cyclica Inc. Machine learning, a form of artificial intelligence where a computer learns over time as it gets more and more data ..."
     publishedDateTime: 2022-12-01T19:31:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/n-ix-obtains-the-m
 webUrl: "https://markets.businessinsider.com/news/stocks/n-ix-obtains-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1031948094"
 type: article
 quality: 68
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
     quality: 39
     images:
       - url: "https://cdn.defenseone.com/media/img/cd/2022/11/30/GettyImages_1198266705/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Microsoft, Defense Firms Partnering on Modeling and Simulation Capabilities"
+    excerpt: "Microsoft is collaborating with defense sector companies as DOD seeks to increase its gaming, exercising, modeling and simulation capabilities."
+    publishedDateTime: 2022-12-02T00:46:00Z
+    webUrl: "https://fcw.com/defense/2022/12/microsoft-defense-firms-partnering-modeling-and-simulation-capabilities/380388/"
+    type: article
+    provider:
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 37
+    images:
+      - url: "https://cdn.fcw.com/media/img/cd/2022/12/01/vrmilGettyImages_1226582027/open-graph.jpg"
         width: 400
         height: 400
         isCached: true

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cicero is the first AI to beat humans in strategy game Diplomacy"
-    excerpt: "Training AI to imitate human language, thinking patterns and communication, especially in interactive environments has proven difficult in the past, but we"
-    publishedDateTime: 2022-11-27T10:27:00Z
-    webUrl: "https://www.newstalkzb.co.nz/on-air/the-sunday-session/audio/dr-joel-rindelaub-uoa-resarch-fellow-on-the-first-ai-to-beat-humans-in-a-strategy-board-game/"
-    type: article
-    provider:
-      name: Newstalk ZB
-      domain: newstalkzb.co.nz
-    quality: 37
-    images:
-      - url: "https://www.newstalkzb.co.nz/media/5l2bdgjh/catan-gives-you-a-strategy-buzz-but-in-a-much-more-user-friendly-time-span-of-45-minutes-writes-matt-heath.jpg?rmode=crop&rnd=133140251196670000&height=395&width=635&quality=95&scale=both"
-        width: 635
-        height: 395
-        isCached: true
   - title: "An AI named Cicero can beat humans in Diplomacy, a complex alliance-building game. Here's why that's big news"
     excerpt: "In a rare piece of good news from Meta, artificial intelligence researchers at the company have just announced a scientific breakthrough. Their AI program named Cicero can now play the board game Diplomacy at a human level."
     publishedDateTime: 2022-11-28T20:11:00Z

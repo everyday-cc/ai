@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Understanding new-age AI-led career options"
-    excerpt: "Recently an advertisement by a well-known brand was up on Linkedin, looking out for Principal Technical Program Manager in AI/ML/Video Understanding."
-    publishedDateTime: 2022-11-27T17:53:00Z
-    webUrl: "https://www.thehansindia.com/hans/young-hans/understanding-new-age-ai-led-career-options-770937"
-    ampWebUrl: "https://www.thehansindia.com/amp/hans/young-hans/understanding-new-age-ai-led-career-options-770937"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/young-hans/understanding-new-age-ai-led-career-options-770937"
+  - title: "Stop your public-cloud AI projects from dripping you dry"
+    excerpt: "The public cloud helped bring AI into the mainstream, but that doesn't mean every AI application should run there. Here's how to decide."
+    publishedDateTime: 2022-12-02T01:07:00Z
+    webUrl: "https://venturebeat.com/ai/stop-your-public-cloud-ai-projects-from-dripping-you-dry/"
+    ampWebUrl: "https://venturebeat.com/ai/stop-your-public-cloud-ai-projects-from-dripping-you-dry/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stop-your-public-cloud-ai-projects-from-dripping-you-dry/amp/"
     type: article
     provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 59
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://assets.thehansindia.com/h-upload/2022/11/27/1322397-technical-skills.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1225889323.jpg?w=1200&strip=all"
         width: 1200
-        height: 720
+        height: 646
         isCached: true
 
 secured: "AIm91ydXiI4yiyi90XLsQS09CqDN2OFXNRENJ2PEefWis0knzwySjPYS24PyqJhAH8pos+YpdvcGkA7jn7oUqnQNXNT9jOTQwBHyfjkk8ZhSnt0KN8LC/GPn9gettM/Pit++bv6ZqYOWPnXBdnaoaOPr0lT2FLP16hmeq0KewTuGMjMp+vULUhsGfNVZ7ZmBNlpZWZ6om0wLmrOQR66gv94dSANbvAvBP1hXYqYw93wINDTRTaQc4Vzc26IwXPL9WR1RGDZ5eiT3tW2C6BwyfVGirfePzRy685vopxGuLiXFGZEAf2VI5dFdgGY4539uX8/2p8ko0956ob63vHBlWgg/WHdWs4owqom3PQZcMjs=;kisftRY3jV5UvG3vVF3tgw=="
