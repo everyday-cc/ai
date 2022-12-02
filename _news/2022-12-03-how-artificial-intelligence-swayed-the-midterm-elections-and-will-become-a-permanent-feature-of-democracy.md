@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/638a3fd6ebe47b4c2020296e/0x0.jpg?format=jpg&width=1200"
@@ -29,6 +30,6 @@ images:
     height: 479
     isCached: true
 
-secured: "LnwbPgv58oSIiIKQInJnw1t5t+STWRy4H4xwfHJyHpTrtIzvP1dQSLOkd//NDV8l2fznymeH/fP3+Ywf/jVvI6NmRX+iOGd4rPIEp1NfnObw0Lkpy9R/OgYh0E/MlUSIorq4GhhP2Hrri7bTo9/mIeD6vMhqOObeCdf/sXKP3B0DqvJBiF9+vLns0ZSnZiHvi+siK6VOSCCuIY6QYdX5H/hIR98L8Xsz0NdC1zoaup0OMahyi6u8T7xY1YQPt2BTfl0WaeRrzPPCyCAPj8ZKGfb2vekaTwAy5RyLWVxeDSpFjexaLLjO8vaCwfo5yhfBPRTAMF1rDw1ei7WS6Wf9u4vTCeFvQ8d0+ijMWUXKSXQ=;qD9MCg5Mo4cfv07+mfnroQ=="
+secured: "1u3tmctmCzARolcTDkHvq7GT1mcqhJvhFTCx0WDoWCgloa8EfjSpq9JZ4kDQouK/6UjQPHEauc7vcMM1wdxDpEwbKyONblf+oGQooY8y3yYqs542hgcv5ltgDkxP6DPeZcQATzGYVXsOLaFPijf6NmEyGKvHNqsqKqgy2q0K3IAZrdPoYbCcg7SeQ8uICbHF6+nHbvP0yzIOZX3oc7L+mUjwD9O11RFctGMQ2tVHjMsPRNNg1FjHhX4Q5ph62TrT6TgRxgIJ4HpoYtNvfpPKK3C64Cb812gvF/3/UN7Veir8flfS/u4Niw9bUCS254fcpI+KFGuXHagtrKnT4yslCh9pSPf1qPkJt/WwENA3RE6Z1tBZytHiWy+Oiu3UZ3C06oRfJ6tATfmc6uheDINNSfJEMrLCXK4oiLRa6VttcPDUPOT65aEV70JFLseK+5C1+5pufF75RtCxzIDnDXNojsCsFWN4F43SMOns1KiacqSGbnejue0EHiaPXWw6Q5MZ7reHU9+REDYkGRRUYOd90A==;oCN1mcO1UziDQHld3K+oGw=="
 ---
 

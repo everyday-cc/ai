@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AWS AI
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/11/aws-logo-new.jpg?w=1200&strip=all"

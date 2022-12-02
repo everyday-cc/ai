@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.defensenews.com/resizer/5A9WTVnaKIXZeuxLOy5TqmVR8cU=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/EZI5ROUSZRB3RKPUZVRYXR4QEI.jpg"
@@ -24,6 +25,6 @@ images:
     height: 683
     isCached: true
 
-secured: "Mmc/sQPVq6OYdEDEJI3HPsJLH2FnG9UFgo8hfPIc7mRrGt6iVPBOlo8deNZb/jYqc1oAls8EwB7e9Nqzop6ptmqwOqc0lPCmEMSqlQt7YS3B0M9OAZswty52RZzNNHAXfq5wv3B3P83DVMBCqkblPaP5137TPMONnjwc0reZZah2OSaJdGAaqinbsDRuP2Og4vD7WwGm6lbuz5wofiu1QUztzNmOCjMGnPzHXPUjJHNZEYmi31Ws6v9U9qJXGTlJ9gFjtp0dMofQ+g7H/VjKA1GUZvE4D2aAyeL1Ha+Sydn8w5exfFiB4ho4rq9VHWD83OAFeYBvwG2GFo7WIwTM38AKfSw7khvRacVCaFCnQYY=;GcaWUyNGhDhHsQzi1k1suQ=="
+secured: "i4ol2NNlhBnF+zKgOpLWJq+qH3/rWxVFF3lextY5ilk3D7fBgt73OhQkl2WJmJPMQUMCekhOh/h/jHoS39qFTPmtanRKDwNhrn1TgO5OjQJ7Tt3B/sPB6QfjC0HEkIlwLzWQXJekYo/uXKiYF1vClVVdSzVFhwKT7DcyNxFg9/GNHOmK4aTH4/xEn/cAoUH/pTnUnCcG7H3VHk3I/bFM+ecaVllkhUfJOzuV00quUQ7ITUsDsbZNhhCiEiP/oiZI0JVmv2cbjC8zIf5i0s94WUMulf26CmMIC7mbCJIpMzCTjlTLbS+OyPXdH4fxTfHUlW3HheumvI46t0AxaOnSt3VEjQV4LSL+fho+WJxLMgYrm5nBG2uj+VANGpRAHTkPfBC/1JbwUpMCQ6Sp7TzmrIHJRPf5Bcbq9cZM/O/FksCnX+VQ49ybPN/d/7KIE9ySYqMqXWyJY6ZRgb9TH0UsKvB82fWkJIQD46b7bWTkbY648mdCfSK6WKngdUzD99MiS+TtNad7fpGMkIuIWz5JEw==;WMXi9w6G4zi1nklB2mh5Aw=="
 ---
 

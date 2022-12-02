@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Computer Vision
 
 images:
   - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2022/10/04/855a7ea3-159f-48ec-955d-d1ff89de0e09/thumbnail/1200x630/a08a2e52a3fe6d6034ef8ff1297f1c79/robot-vacuum-hero-oct-4.jpg"
@@ -26,6 +27,6 @@ images:
     height: 630
     isCached: true
 
-secured: "QHqMvw1f6U+ND5PhRrykkIPApVDPofyVz8+FH5sWqpAIuecQp2/onJ0mHun7F6A3wKS2bo+MAODf7vkR0MmMGK20PlTEFXvDOH5fmMVT9VzkJZWGnygauz8Hbx3nnjJb9b0405yFDAlI5Mn5lRNoH9D18Y+S0hOOrmxwoqSFXrLSZe+HwZJXBYwR7YDoEs29kv48q40qxHUnqfjlebXRPUmLsusVw+uWrOzicbR3R0ZOHyCMqEbsywdp5fmSIsrFAABul+wR6BeHwxdMECScmUZKpLZykL27EuMknkCybHo6YIWXz4p5zBJb4uaYVVboc4+jQ+1NATanvzhLP7FSpiLHdmE1Lru2azWbWkjZqZ8=;oOg4Bb6D2SZTvtQljCN1og=="
+secured: "Sy6DBmK+/FMSA3LaenpceLxPNF1S1MXJ0WhnbRSLaXz/0vLbYlUj6Ualf1hOLTpP6P84x/QGy97iBwvrv7zlf8T05giTi9CTtRHqMzGCHPYg72E81FI666jEBaf5DIN6E1F79Qv8grKLSd4tW+xM2VpgZG0x7NI0VW6i4SS6U1MD56Rmp0bfyqfGixOsZyGUEusDZL6NGi2WJSBAED9E4XJcYM2SA5M8y9u95wSVynmAQeswWUW7UpK2ljDnKRiq6wsI4Ptwz+MQxg0QvoGIICOES/aGcfHg28Q2aY0qD+l7sCjhOoACItsQctWM7yBSqS1LEXsTE+sO5NhHCbD1aqT07qjzbPnIpbXI/9Kx504pbhlqY/kT99eSr3BzXYzIy1MDBKi5HlPMWK/ptMQOu88amEsXN0rzK7m80Kq5TfCWBlOt7f5giqVeOd33owwiXBJ1JDxBVx4IZEuRwemSs2JYF64F/DOcgePKfhOkLPIb0PpLmv7dM47D/St7FwuRmRfN35ID4VS2mPqiqAPlNA==;tv8i0m/uG/rYSQmpkt4wcQ=="
 ---
 
