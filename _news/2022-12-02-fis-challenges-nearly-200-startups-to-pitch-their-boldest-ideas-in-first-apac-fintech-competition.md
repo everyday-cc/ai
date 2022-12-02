@@ -1,22 +1,28 @@
 ---
 category: news
 title: "FIS Challenges Nearly 200 Startups to Pitch their Boldest Ideas in First APAC Fintech Competition"
-excerpt: "FIS has expanded its InnovateIN48 fintech competition to startup fintech companies in the APAC region for the first time. The competition"
-publishedDateTime: 2022-12-02T01:29:00Z
-originalUrl: "https://www.01net.it/fis-challenges-nearly-200-startups-to-pitch-their-boldest-ideas-in-first-apac-fintech-competition/"
-webUrl: "https://www.01net.it/fis-challenges-nearly-200-startups-to-pitch-their-boldest-ideas-in-first-apac-fintech-competition/"
+excerpt: "FIS has expanded its InnovateIN48 fintech competition to startup fintech companies in the APAC region for the first time. The competition welcomed nearly 200 fintech companies from 11 APAC markets to develop and pitch their innovative ideas to FIS leaders."
+publishedDateTime: 2022-12-02T06:43:00Z
+originalUrl: "https://www.businesswireindia.com/fis-challenges-nearly-200-startups-to-pitch-their-boldest-ideas-in-first-apac-fintech-competition-82063.html"
+webUrl: "https://www.businesswireindia.com/fis-challenges-nearly-200-startups-to-pitch-their-boldest-ideas-in-first-apac-fintech-competition-82063.html"
 type: article
-quality: 0
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: Business Wire
+  domain: businesswireindia.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_82063.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "How Fintech Impacts Financial Inclusivity"
@@ -119,6 +125,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "S8lSXC6YI0iUQPGgo/9lcgTjzDXmgGOjAe+Lu+pmKOgt6zqH5W67mP71dtjhoqOIPgg+JTxZmL8U7iVhSg0teOSBmUklQRBI12c7SBPaMyL59Bbt70Fv+cNWeC+d9WZMf1VJWvy8KcWyS3qY99xHRFgvPQMk7oAUFn52dlpMmYE67DV1deIFMW6nJKLgYBlJtp1nA8wwrgScBslV7Ses1+BeepIxaF2zHfXd+Tj31t1JPPKfnjUyku/B07IuNKTXTHATsL7sP1dZ00ZRQSLLFuvLD3W74HkxKcTnfl+xd58XI1jx9tr4hdZwVdlUaHx+3NSyYlFXgDfYttAuwRrIRwdwjT9D6bvb4nGTKkjk2sg=;oAecSFHP4kkjT3TEic0+RA=="
+secured: "Tm35ApggAZnd8mCIGtNnQJFiyWtJNldzXMDTo9JZ3rrtwAXj1rgSwpN1rmggEPd3A6A6xcbjxXbPpEsi+wYXi3vR+eEe1cV/jhloUU5567P+JffBXfiihVe1vKFerzjRPfhjww6AnLLnD6QqLEz74NQh9exiQ4LoEcaPip7vBcM+AwsVzMVBMrnPSoJBOfmtNapdPCP0AuuXXpGnUwiyWeIPuKRGsKwvflBmxaOQu/3wkqRpcNaDdUXWakKosfllFOXw95j5zymsp9RohZFJSIvRz7cGxm6tMhgqEX3uYqMZ0LsomK6Falux5bMEiz/aQRBXAl+4p754hs8zAzEhB4Vux1Hv57oqgqC09A0zT5g=;7aBBusy/cgfJn1G49sdg2Q=="
 ---
 

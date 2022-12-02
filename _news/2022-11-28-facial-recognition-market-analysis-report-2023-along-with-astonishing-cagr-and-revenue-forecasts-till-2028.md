@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "The Worldwide Federated Learning Industry is Expected to Reach $198.7 Million by 2028 at a 11.1% CAGR"
+    excerpt: "The \"Global Federated Learning Market Size, Share & Industry Trends Analysis Report By Application, By Vertical, By Regional Outlook and Forecast, 2022 - 2028\" report has"
+    publishedDateTime: 2022-12-01T20:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/12/n29932719/the-worldwide-federated-learning-industry-is-expected-to-reach-198-7-million-by-2028-at-a-11-1-cag"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29932719"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29932719"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 29
+    images:
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
+        width: 666
+        height: 282
+        isCached: true
   - title: "Artificial Intelligence (AI) in Drug Discovery Market to Grow at a CAGR of 28.34% over the forecast period 2023 to 2032: Quince Market Insights"
     excerpt: "The Global Artificial Intelligence (AI) in Drug Discovery Market reach USD 1.01 Billion in 2022 and is expected to exhibit a CAGR of 28.34% over the forecast period 2023 to 2032,"
     publishedDateTime: 2022-11-28T14:30:00Z
@@ -43,15 +59,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 4
-  - title: "The Worldwide Federated Learning Industry is Expected to Reach $198.7 Million by 2028 at a 11.1% CAGR"
-    excerpt: "The Global Federated Learning Market size is expected to reach $198.7 Million by 2028, rising at a market growth of 11.1% CAGR during the forecast period. Federated learning can b"
-    publishedDateTime: 2022-12-01T21:47:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/12/01/9723388.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "F+cOXzMYikCkBg5UdsdM4rVrZmq7tc/l7tmGOGSP0RxMaTi+q3hawewsnKOjIbWRLA+Hi4NTEG/vRdEmVVuDsHglP3MervoKdUuzalxxYZwdbj2/HWsr1uu2G4TnQG8+s54SgeQmRgWX8aKVCF7kVPz+djszUiYFQ26OPt8Qc/v5kc7wUA001YDvkKuz6m2/hyKrHQWuITFsTFo4hJROoUtvaSKKDEGAAK/LfNVWXzOMC4aN5Egx57sEvvnI3eZQ2m1xnjYcMGCX6HNkTKP1tneNJFkoSxnYcQRPqeKoCQaINtNxND0TTW2MA6kf76QqHjPlQdFlLnPW9ZNM5nrosqXYfNfMwpOY8OZmKE8n6Yc=;5CBHj475cv5xWP0OihlV0A=="
 ---

@@ -28,9 +28,9 @@ images:
 
 related:
   - title: "Honda Plans New Autonomous Features but Sees Long Road Ahead to Self-Driving Cars"
-    excerpt: "Honda said it would focus for now on partially autonomous driving technology to improve safety, joining the auto makers that say fully self-driving cars aren’t ready for prime time"
-    publishedDateTime: 2022-11-30T14:00:00Z
-    webUrl: "https://www.wsj.com/articles/honda-plans-new-autonomous-features-but-sees-long-road-ahead-to-self-driving-cars-11669820402"
+    excerpt: "The auto maker said it would focus for now on partially autonomous driving technology to improve safety, joining others that say fully self-driving cars aren’t ready for prime time."
+    publishedDateTime: 2022-11-30T14:19:00Z
+    webUrl: "https://www.wsj.com/articles/honda-plans-new-autonomous-features-but-sees-long-road-ahead-to-self-driving-cars-11669820402?mod=latest_headlines"
     type: article
     provider:
       name: Wall Street Journal

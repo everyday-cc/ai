@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Honda Plans New Autonomous Features but Sees Long Road Ahead to Self-Driving Cars"
-excerpt: "Honda said it would focus for now on partially autonomous driving technology to improve safety, joining the auto makers that say fully self-driving cars aren’t ready for prime time"
-publishedDateTime: 2022-11-30T14:00:00Z
-originalUrl: "https://www.wsj.com/articles/honda-plans-new-autonomous-features-but-sees-long-road-ahead-to-self-driving-cars-11669820402"
-webUrl: "https://www.wsj.com/articles/honda-plans-new-autonomous-features-but-sees-long-road-ahead-to-self-driving-cars-11669820402"
+excerpt: "The auto maker said it would focus for now on partially autonomous driving technology to improve safety, joining others that say fully self-driving cars aren’t ready for prime time."
+publishedDateTime: 2022-11-30T14:19:00Z
+originalUrl: "https://www.wsj.com/articles/honda-plans-new-autonomous-features-but-sees-long-road-ahead-to-self-driving-cars-11669820402?mod=latest_headlines"
+webUrl: "https://www.wsj.com/articles/honda-plans-new-autonomous-features-but-sees-long-road-ahead-to-self-driving-cars-11669820402?mod=latest_headlines"
 type: article
 quality: 49
 heat: 49
@@ -92,6 +92,6 @@ related:
         height: 533
         isCached: true
 
-secured: "Ug46hraPA87t80OJ5Q7uIZ3OIx4VyzSEnq6dFhOW69TacGhE+BihdeRvQAn8bPzrkQzQzlDWedLllBQcuTMH9GCOIC6GpJPH0NfoEYBWAtrZpxUNP5e+hV1uErGpbR69drQ5xeYiksxORnhVkHOmiM+yrfa8hRSN//4ybNOQZeojY8+A3HXr7IL0oWz6HonSijpjf/vU/goJr8QSpfLR/iceDUAKEAOcQny8kRT3/XuTAqg+cOkijewKaqiDliIgtdFHoG/JsZylSXcqIUJVkllWeKYaQ2qnNtvsJRZVFKuQTfHQ6sGmCFFV8gpOHNXeOOEwOqLstgAUZ52aXWmDM18AEgtNFBLOBp9SG/Eg69N6+Ixpn+XpFagCW67+Jue0COncP41GM/CuHxP1TH9sFgToaBexy/tgLV56cMKH56pQ4Gmiq/s7Kdv0QPsNzAnzDIVQb29DXNAiubbgTUXyOal2PlXBoTGqQRj/2Mq5CiwCJQBFxKcljjc1U3l8kriT2ncX4qkc3X7aO9CTDoxWyA==;f2n6VcZxbvBVwv4sXyFvSw=="
+secured: "2slHHQ52WKnIpOZoZeevnDkdORpuN5ZpOg/NTouA42Na1YNUl4NYVjXvugT+jtwbhlwTeyWfK6+kLlZbSkK5QaXQPG/AwGVMpyzc32DKBfE/dbT9tzTjYPGl4ab0WJ4irgLlWjSfAU7AylpgoTZCH7aRLl+BJQbP7TDo7ZHu8Tva/K5d6/AbJghyWFAJFB7sSfjPlxsr+I19MXVuQldUD2RcCdf739+g0xCZ3RCgujL+4L3dreF7r2uxXxWNjxPoggIFhPJiZSejvYKoQgwRn9bO5U+B9vmRqDkaG8IdBZ1K6KGyLyqJg4a+b1zQnwuKj/bBFBojW+xhNXkypoNJS5jKe3ALLpphujPQtLqRrwk=;zwmwlwq8t9JZzwq7CeGkyQ=="
 ---
 

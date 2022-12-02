@@ -102,6 +102,20 @@ related:
         height: 1279
         isCached: true
   - title: "FIS Challenges Nearly 200 Startups to Pitch their Boldest Ideas in First APAC Fintech Competition"
+    excerpt: "FIS has expanded its InnovateIN48 fintech competition to startup fintech companies in the APAC region for the first time. The competition welcomed nearly 200 fintech companies from 11 APAC markets to develop and pitch their innovative ideas to FIS leaders."
+    publishedDateTime: 2022-12-02T06:43:00Z
+    webUrl: "https://www.businesswireindia.com/fis-challenges-nearly-200-startups-to-pitch-their-boldest-ideas-in-first-apac-fintech-competition-82063.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 11
+    images:
+      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_82063.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "FIS Challenges Nearly 200 Startups to Pitch their Boldest Ideas in First APAC Fintech Competition"
     excerpt: "Global financial technology leader FIS ® (NYSE: FIS) today announced the expansion of its annual InnovateIN48 fintech competition to include early-stage fintech startups in the APAC region. Originally an employee-based innovation competition in 2013,"
     publishedDateTime: 2022-12-01T00:00:00Z
     webUrl: "https://technews.tmcnet.com/news/2022/12/01/9723438.htm"
@@ -109,15 +123,6 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 0
-  - title: "FIS Challenges Nearly 200 Startups to Pitch their Boldest Ideas in First APAC Fintech Competition"
-    excerpt: "FIS has expanded its InnovateIN48 fintech competition to startup fintech companies in the APAC region for the first time. The competition"
-    publishedDateTime: 2022-12-02T01:29:00Z
-    webUrl: "https://www.01net.it/fis-challenges-nearly-200-startups-to-pitch-their-boldest-ideas-in-first-apac-fintech-competition/"
-    type: article
-    provider:
-      name: 01Net
-      domain: 01net.it
     quality: 0
 
 secured: "O5Cy5jUStSKKxV9nUHvk2vSkFGqoX1tsQgJIrovX/cP4rrR4jFNk3qqeBVjyBE56sRpMhx87cRCGWg3bpe8wUH5nbvxdYI9XnFZHCxRHM2FtW9xWD8W4TuSeSiVUbmrXRiKkUwqF3qUCrgoPK/TPFtFs3Fjd4ZJcAFVa3lIsiAhnyubngUYjQ6/YzXzGiiuAKBT8dreWojAy19177FIVu823fOkimiBlqqzEGJRWKCaDfMafvnXiRlHFeV5r5JYyoLbb8ivmkzRQE2UX4FTdXQYkwq3VOsRWnEAVljnsgTW+yqH2Ht+VOrQ9vY05JLhSiAVtg+Hp2s+stCoEZ7DFL9AfU4T8PK6ubM892bWvKkQ=;s6YOrr6J7ZY9WkH1+JfSUA=="

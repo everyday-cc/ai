@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-02T04:26:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-2023-is-flourishing-around-the-world-by-2026-2022-12-02"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-2023-is-flourishing-around-the-world-by-2026-2022-12-02"
 type: article
-quality: 77
+quality: 79
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

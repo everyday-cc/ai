@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2022/12/01/aws-ceo-sel
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2022/12/01/aws-ceo-selipsky-we-are-making-cloud-easier-to-use/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 4000
         height: 2668
         isCached: true
-  - title: "AWS CEO Adam Selipsky: The cloud is about to reinvent corporate cultures"
-    excerpt: "The event is always a relentlessly upbeat gathering, but this year Amazon.com Inc.’s cloud computing unit is facing, well, a lot of storm clouds. Although some companies might envy the 27% revenue growth AWS reported in the third quarter,"
-    publishedDateTime: 2022-11-27T19:00:00Z
-    webUrl: "https://siliconangle.com/2022/11/27/aws-ceo-adam-selipsky-cloud-reinvent-corporate-cultures/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 18
 
 secured: "sP6D+iw81Nr/lYEaqL/pM8Iz2WgJFqPAlr6nQtDQCtY/0du1erzPnavszR2Nhd7XtBzRvaXS8HEqcUbeHRLYrhqtpNpYRs3jjEpx41blYuRrb3HzNX5pCPB4xTHZ1/Vm98vyIBhYDhvKFBfa1vu+Kq6QXIsnZd2MPuHigxgWmPbrqkR7wBTL42Hz/5VPzXsIVmkEgnjoysgHFxEU+2SPd7OZlwk/kX99iQmYOTU6qzPppYAIQZ62z2QxnsaGJ5Os9bSPIey7jNChuDfOyRDmnqo4v+Awj2DU6CZuOOVVCQYtaKOYyZgejapE6EnDzT2zcezf/jImUqR4Z+CuFEXyozXlWtAHuKlqNW16O7B1pSs=;cULlbkryc8mws0j3rwerSA=="
 ---

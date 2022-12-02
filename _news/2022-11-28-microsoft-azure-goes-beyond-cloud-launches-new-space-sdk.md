@@ -48,6 +48,20 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "BAE Systems adds Microsoft to modeling and simulation ecosystem"
+    excerpt: "BAE Systems is expanding the network of companies in its modeling and simulations ecosystem to include Microsoft. With this addition,  This press release features multimedia. View the full release here:   (Credit: BAE Systems) “Microsoft Azure is widely regarded as a prominent provider of cloud computing services for government,"
+    publishedDateTime: 2022-11-29T13:02:00Z
+    webUrl: "https://www.eagletribune.com/region/bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem/article_c1e18486-c7be-57b4-b03f-b424216acd00.html"
+    type: article
+    provider:
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/1/ec/1ec4b2ba-c377-559f-8217-102383a4e62a/638614c570c73.image.jpg?crop=633%2C332%2C0%2C403&resize=633%2C332&order=crop%2Cresize"
+        width: 633
+        height: 332
+        isCached: true
   - title: "NOAA strikes climate modeling R&D agreement with Microsoft"
     excerpt: "The National Oceanic and Atmospheric Administration will work with Microsoft to improve climate and forecast models through the use of machine learning, the agency announced Tuesday. As part of a new cooperative research and development agreement (CRADA),"
     publishedDateTime: 2022-11-30T15:00:00Z
@@ -104,15 +118,6 @@ related:
         width: 860
         height: 394
         isCached: true
-  - title: "BAE Systems adds Microsoft to modeling and simulation ecosystem"
-    excerpt: "View the full release here:  \"Microsoft Azure is widely regarded as a prominent provider of cloud computing services for government,\" said Peder Jungck, vice president and general manager of BAE Systems Intelligence Solutions."
-    publishedDateTime: 2022-11-29T14:28:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/29/9721027.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "Edge Impulse to Lower Barrier to Machine Learning Application Development Through Software Integration Collaboration with Renesas"
     excerpt: "Edge Impulse, the foremost development platform for ML on edge devices, today announced a joint initiative to advance professional machine learning implementation by bringing Renesas' DRP-AI Translator software directly into Edge Impulse Studio."
     publishedDateTime: 2022-11-28T14:11:00Z

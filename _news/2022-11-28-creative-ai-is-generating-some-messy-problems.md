@@ -6,7 +6,7 @@ publishedDateTime: 2022-11-28T07:57:00Z
 originalUrl: "https://www.washingtonpost.com/business/creative-ai-is-generating-some-messy-problems/2022/11/28/be2b2efc-6ee2-11ed-867c-8ec695e4afcd_story.html"
 webUrl: "https://www.washingtonpost.com/business/creative-ai-is-generating-some-messy-problems/2022/11/28/be2b2efc-6ee2-11ed-867c-8ec695e4afcd_story.html"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XSVV4TTO4II63BT4R3DJLZFPZU.jpg&w=1440"

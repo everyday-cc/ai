@@ -43,6 +43,22 @@ related:
         width: 640
         height: 362
         isCached: true
+  - title: "Government Introduces ‘DigiYatra’ Facial Recognition For Entry Into Airports; Netizens Call It Scary And Dystopian"
+    excerpt: "The Ministry of Civil Aviation of the Government of India, has now introduced ‘DigiYatra’, an initiative to make your travel swift and seamless. Flyers will only need to check in with facial recognition that will allow quick airport entry and pre-security check."
+    publishedDateTime: 2022-12-02T07:47:00Z
+    webUrl: "https://in.mashable.com/tech/42929/government-introduces-digiyatra-facial-recognition-for-entry-into-airports-netizens-call-it-scary-an"
+    ampWebUrl: "https://in.mashable.com/tech/42929/government-introduces-digiyatra-facial-recognition-for-entry-into-airports-netizens-call-it-scary-an?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/42929/government-introduces-digiyatra-facial-recognition-for-entry-into-airports-netizens-call-it-scary-an?amp=1"
+    type: article
+    provider:
+      name: in.mashable
+      domain: mashable.com
+    quality: 82
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/cvc_gmmq.620.png"
+        width: 619
+        height: 374
+        isCached: true
   - title: "Bengaluru airport to use facial recognition for passengers to check-in"
     excerpt: "The Kempegowda International Airport (KIA) is one of the three airports in the country where passengers can experience a contactless and paperless check-in process. With the launch of Digi Yatra app by the Ministry of Civil Aviation,"
     publishedDateTime: 2022-12-02T04:53:00Z

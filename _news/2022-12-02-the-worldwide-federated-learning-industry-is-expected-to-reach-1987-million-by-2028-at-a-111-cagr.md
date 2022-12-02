@@ -1,22 +1,30 @@
 ---
 category: news
 title: "The Worldwide Federated Learning Industry is Expected to Reach $198.7 Million by 2028 at a 11.1% CAGR"
-excerpt: "The Global Federated Learning Market size is expected to reach $198.7 Million by 2028, rising at a market growth of 11.1% CAGR during the forecast period. Federated learning can b"
-publishedDateTime: 2022-12-01T21:47:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/12/01/9723388.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/12/01/9723388.htm"
+excerpt: "The \"Global Federated Learning Market Size, Share & Industry Trends Analysis Report By Application, By Vertical, By Regional Outlook and Forecast, 2022 - 2028\" report has"
+publishedDateTime: 2022-12-01T20:30:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/12/n29932719/the-worldwide-federated-learning-industry-is-expected-to-reach-198-7-million-by-2028-at-a-11-1-cag"
+webUrl: "https://www.benzinga.com/pressreleases/22/12/n29932719/the-worldwide-federated-learning-industry-is-expected-to-reach-198-7-million-by-2028-at-a-11-1-cag"
+ampWebUrl: "https://www.benzinga.com/amp/content/29932719"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29932719"
 type: article
-quality: 0
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
+    width: 666
+    height: 282
+    isCached: true
 
 related:
   - title: "Facial Recognition Market Analysis Report 2023 along with Astonishing CAGR and Revenue, Forecasts till 2028"
@@ -49,6 +57,6 @@ related:
       domain: tmcnet.com
     quality: 4
 
-secured: "VA4SkL19r+TbgsG0ff9YqlRu9H9b0fKsXiavmvkKCDOenUZv50SqMugn4hpPokrsKd0UoOhafrTgqf5/LuFs94CEH6nQaWiQyGuYtxAxHee/XGkfmaR15ZK7aEewOn5RFIGll1AwFTQp8UDV7RH5E8IQuwf3c1IJMEHXkKR9R5ICHGwtsWdggXgH1EwKxmji4ExIUcrnEcFQCJdPFMs1EOWDozavW3/HZ8QQIvAxDwkYbKMTVZjE6XFc+miJy1W2q0Pt27wJ3i/OCKuzirAHPMoihPHHhbPYZw1FmhlFfPEW1xS3byiefCCiGy2HxleHpyZAxHwhM1G5t1iA0Fdxj7aAw5zPWDlrH5U13uXyHoU=;K8Ibb/6tgSmYMs6zyd7HuQ=="
+secured: "KQDciMDufVfMV77K72l7q8E0/Cl8EdeTNi/Ot0nAVUwWjrgWoxXrsRHr5MBeU48Ykz3yw569GeYqpigNfYYaSD5kjxVSMdUAHLib1Dn0ZN3zgyRBiyIyKXVCTRN5VBTJUbgvqBpWT4gcmkTt9n2MjRGQjRIw7amfpQhgZWfx+vfeHzkI853p4l4d0w/b/o3dLFvdaeinKq20l2Ku27/YfTAjHEq/8ZhC0irtw8z2/bSgHviiagIe3F0hBg32y6gzK3i8t9YNWCSM9Bbm9c7grfwIz2m2J9V8dsUQeP9PE4dD5VbJkKAeNErMGc+XOietWsmg2wMj44qH5fOE+csdoklBgffTVsFmmQZOyMOBGrU=;QkYbfBL/MlJXjD/AOZqclg=="
 ---
 

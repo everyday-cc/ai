@@ -39,6 +39,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "AI predicts heart disease risk using single X-ray"
+    excerpt: "Researchers have developed a deep learning model that uses a single chest X-ray to predict the 10-year risk of death from a heart attack or stroke stemming from atherosclerotic cardiovascular disease."
+    publishedDateTime: 2022-11-29T10:00:00Z
+    webUrl: "https://medicalxpress.com/news/2022-11-ai-heart-disease-x-ray.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-11-ai-heart-disease-x-ray.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-ai-heart-disease-x-ray.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/ai-predicts-heart-dise.jpg"
+        width: 784
+        height: 643
+        isCached: true
   - title: "Deep Learning Predicts Heart Disease, Stroke Death Risk Using Single X-ray"
     excerpt: "Researchers have developed a deep-learning model that uses a single chest X-ray to predict the 10-year risk of death from a heart attack or stroke."
     publishedDateTime: 2022-11-30T17:01:00Z

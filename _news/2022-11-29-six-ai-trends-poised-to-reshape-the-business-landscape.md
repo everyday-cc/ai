@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/11/29/six-ai-tre
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/29/six-ai-trends-poised-to-reshape-the-business-landscape/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Artificial Intelligence Needs To Speak The Language Of Business, Not The Other Way Around"
-    excerpt: "An important point is that AI needs to serve the customer, and help the business put the customer front and center. Most AI projects fail to deliver value “because they don’t start from business realities,"
-    publishedDateTime: 2022-11-27T17:27:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2022/11/27/artificial-intelligence-needs-to-speak-the-language-of-business-not-the-other-way-around/"
-    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2022/11/27/artificial-intelligence-needs-to-speak-the-language-of-business-not-the-other-way-around/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/11/27/artificial-intelligence-needs-to-speak-the-language-of-business-not-the-other-way-around/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6383aa64488fd33f44459798/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 622
-        isCached: true
 
 secured: "KmipZWMEWtLK6KiSdoX4jUzqmHiGN9ro5iK1fXfWt+dLzOiGmh6Yajt7Pa5PefpPcOoZuEX7pqqCYu3Rkltev24zLCAc3l08EIxYbYvsQNmaiacNIjj/mHD70fFmHCCuBBkqj/S1ew+xt6R8r4j6nj88Ng5GZmwPlDh4Uv99d85aVs1SDM1cQmxmYwwpt6N/b1QjEIQA/Fql7IPIiE91jECqsBFDLtnBUrlN7mtIyp8AlRRfU9P0eiJrI2YjwG/SS7MirfQjtl91rIerYX+mIY4o9vzGA9GxGUeAHrBjQYF6RkJL+IkCpbF3yrNjxXvn+VfNk6+ladcVBWHNu/apdmq1ErepRN3hEJSaDms+bCRfeheJenOASyDi/yWCZG1kb5JmmVSgyY1KQI4t3P2xvhl1BghSAH5ouC2xtL/1iIKEhgkut/mmfRuWomzYnq/DMLrlAJJC52xTzB+vYvvKL4jg24pwxW1g7e3AHoXUzJR2bPvBMmlWjteZfrVHRCpgkQz4Yw5npvaor9Dy1jM/Cw==;JsjuzlCr7k9YZjaM29/LAA=="
 ---
