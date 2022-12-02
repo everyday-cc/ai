@@ -46,20 +46,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Unlock AI’s model by watching 70,000 hours of Minecraft"
-    excerpt: "OpenAI which is an Artificial Intelligence research laboratory has built another stunning AI model which is the best Minecraft-playing bot till now by making it watch 70,000 hours of video gamers playing the popular computer game Minecraft. It showcased a ..."
-    publishedDateTime: 2022-11-27T08:45:00Z
-    webUrl: "https://techstory.in/unlock-ais-model-by-watching-70000-hours-of-minecraft/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/11/getty_509646667_338162.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "NVIDIA's generalist AI tech plays Minecraft, wins conference award"
     excerpt: "NVIDIA's generalist AI agent plays Minecraft, wins itself an Outstanding Datasets and Benchmarks Paper Award at the 2022 NeurIPS conference."
     publishedDateTime: 2022-11-30T05:26:00Z

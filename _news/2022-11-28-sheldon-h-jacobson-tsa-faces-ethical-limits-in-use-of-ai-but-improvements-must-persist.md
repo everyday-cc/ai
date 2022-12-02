@@ -20,22 +20,6 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Commentary: TSA faces ethical limits in use of AI. But work to improve the technology must persist"
-    excerpt: "Artificial intelligence has become a disruptive force in society. Terms such as machine learning, deep learning and neural networks have become commonplace among mainstream media, eliciting visions of"
-    publishedDateTime: 2022-11-27T08:00:00Z
-    webUrl: "https://www.yakimaherald.com/opinion/commentary-tsa-faces-ethical-limits-in-use-of-ai-but-work-to-improve-the-technology/article_fd545cca-6b5e-11ed-9ff9-6f01b48b3dcd.html"
-    ampWebUrl: "https://www.yakimaherald.com/opinion/commentary-tsa-faces-ethical-limits-in-use-of-ai-but-work-to-improve-the-technology/article_fd545cca-6b5e-11ed-9ff9-6f01b48b3dcd.amp.html"
-    cdnAmpWebUrl: "https://www-yakimaherald-com.cdn.ampproject.org/c/s/www.yakimaherald.com/opinion/commentary-tsa-faces-ethical-limits-in-use-of-ai-but-work-to-improve-the-technology/article_fd545cca-6b5e-11ed-9ff9-6f01b48b3dcd.amp.html"
-    type: article
-    provider:
-      name: Yakima Herald-Republic
-      domain: yakimaherald.com
-    quality: 60
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/3/11/311406e6-6b5f-11ed-afac-1b658226b053/637e6ae553d68.image.jpg?resize=1024%2C686"
-        width: 1024
-        height: 686
-        isCached: true
   - title: "TSA faces ethical limits on AI, but advancement work must persist"
     excerpt: "The potential competitive advantage offered by AI is enormous. Yet transitions from the research lab to practice will remain choppy and uncertain, which will help ensure that progress is measured, methodical and slow."
     publishedDateTime: 2022-11-27T17:41:00Z

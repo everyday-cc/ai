@@ -25,16 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Pulses driven by artificial intelligence tame quantum systems"
-    excerpt: "Machine learning drives self-discovery of pulses that stabilize quantum systems in the face of environmental noise."
-    publishedDateTime: 2022-11-30T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/11/221130114637.htm"
+  - title: "New artificial intelligence could help humans actually talk to animals"
+    excerpt: "Though humans have tried for thousands of years, modern science has found new ways to communicate with the animal kingdom, albeit with limited success."
+    publishedDateTime: 2022-11-30T01:55:00Z
+    webUrl: "https://www.10news.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
+    ampWebUrl: "https://www.10news.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+    cdnAmpWebUrl: "https://www-10news-com.cdn.ampproject.org/c/s/www.10news.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
+      name: ABC 10 News
+      domain: 10news.com
+    quality: 59
+    images:
+      - url: "https://cdn.newsy.com/images/videos/m/1669756816_CgX8sG.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Artificial Intelligence Could Help Humans Talk To Pets"
+    excerpt: "New developments in artificial intelligence and technology could help humans communicate with their pets and any other animal species that calls Earth home. Outside of the field of science, the idea of two-way human-animal communication has existed in pop culture since at least as far back as 1967,"
+    publishedDateTime: 2022-11-30T02:02:00Z
+    webUrl: "https://www.aol.com/news/artificial-intelligence-could-help-humans-020200500.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "5xYj4Rvre9SPaMZhOUb8vtU/bVikpcvuJi0EZQrasMVTJWomE6q8bue8PyAK2bkaiMGm/GWkT3rJ97146K7cbL1YKfo8a7GzdbxU9VFHMiMaH32Yli4vQbJdpDjDt1HvkmgnH04r6GJplkM9X+R2Ur/NFxr3+rAURXLWkGb1rQ0I6JZ3zaZc/JRvNBapmwYwbuqzIsbx2qwVmbLoHxrWk5PPxq2a08Xud+0lSdf2yvFNMPMfK4oBr3jVfJe/D2zGDK8OjC44oKurH08NfkYsthLNYNsbo2f5y6RPau+nc+TwUK2AnPfHSlodv+GQWb6A0cVWQsIeDWX8VN664VluSt+unyfi6h4JYyBN0a09q/w=;a91zT2ZRZXkUxKpMd28+Nw=="
+secured: "1dDYiJcyg3zHK/IEbOTf0qAkqHNFT8DjrLRVjglwDnXMSh46Op8gWxExOlYDbMZbSC1nrAcMpbR4RxBAyQ8O87oZvsuET9koV4l+C+4HP6f+gGFLBw5Mfgsxu4DY9sDzmDr00LltSmLR+8L1SEGtiV6Bii841pkkm7qyBSuZJggShLLcavfWZ0XsRipSyPXDOuXYFYEBgeEp550NEqjGA5+GQzvikB+TAiJdqsLzQS58GLT3emuWyWMQsMxGmGN1ljZgjH24lyXSRrZkrBjbEoCGnKH3x3t1tA5ZdlBD0yYPlPuUVuaBcdWToEhMCuQueaZrxDJZJyEP2d/rDiRkHJCU7vcEQ/H8AHkvI1c3Od+fmCh3pbZQwaNifQVpxd+ol0azWyyrs49DIT4MDDEJQPTzO6bcuA6976mVO4VPQHj51t9Ed4Vl5grX/pnmImaEYk12ujxS8Rjl4rXZ10jKlMXmgKPjVOOcXAYKCUkbB8E7BiE0zgGSKxaDNLVM3n/NNQ5/psj5PX1PZ7rO4UEZ6A==;yoI+X48ZOVYPN0tnXCQJoQ=="
 ---
 

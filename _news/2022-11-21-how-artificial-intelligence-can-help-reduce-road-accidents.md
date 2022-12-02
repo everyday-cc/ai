@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://gulfbusiness.com/wp-content/uploads/2022/11/PHOTO-2022-11-16-17-03-08.jpg"

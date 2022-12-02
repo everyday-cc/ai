@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-01T20:22:00Z
 originalUrl: "https://interestingengineering.com/health/ai-and-one-x-ray-can-potentially-predict-the-risk-of-a-heart-attack-or-stroke"
 webUrl: "https://interestingengineering.com/health/ai-and-one-x-ray-can-potentially-predict-the-risk-of-a-heart-attack-or-stroke"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://inteng-storage-us.s3.amazonaws.com/2022/12/01/image/jpeg/WiO6NnTNsPY99lKpkeVE4Y9wjF7V8ZnX52VvNfoJ.jpg"

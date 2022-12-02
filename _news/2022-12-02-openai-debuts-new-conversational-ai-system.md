@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-01T20:40:00Z
 originalUrl: "https://siliconangle.com/2022/12/01/openai-debuts-new-conversational-ai-system/"
 webUrl: "https://siliconangle.com/2022/12/01/openai-debuts-new-conversational-ai-system/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/openai.png"

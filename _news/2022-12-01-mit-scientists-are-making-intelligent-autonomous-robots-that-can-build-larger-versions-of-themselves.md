@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-01T13:46:00Z
 originalUrl: "https://brobible.com/culture/article/self-replicating-autonomous-robots-intelligence/"
 webUrl: "https://brobible.com/culture/article/self-replicating-autonomous-robots-intelligence/"
 type: article
-quality: 24
+quality: 26
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://brobible.com/wp-content/uploads/2022/12/robots-working.png"

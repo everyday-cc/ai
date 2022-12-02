@@ -1,27 +1,29 @@
 ---
 category: news
 title: "San Francisco debates letting police deploy robots that kill"
-excerpt: "The vote comes under a new California law that requires police and sheriffs departments to inventory military-grade equipment and seek approval for their use. San Francisco police"
-publishedDateTime: 2022-11-30T01:07:00Z
-originalUrl: "https://www.wfmj.com/story/47816912/san-francisco-debates-letting-police-deploy-robots-that-kill"
-webUrl: "https://www.wfmj.com/story/47816912/san-francisco-debates-letting-police-deploy-robots-that-kill"
+excerpt: "Supervisors in San Francisco held a heated debate Tuesday over whether to give city police the ability to use potentially lethal, remote-controlled robots in emergency situations, with both sides"
+publishedDateTime: 2022-11-30T01:16:00Z
+originalUrl: "https://www.wlns.com/top-stories/san-francisco-debates-letting-police-deploy-robots-that-kill/"
+webUrl: "https://www.wlns.com/top-stories/san-francisco-debates-letting-police-deploy-robots-that-kill/"
+ampWebUrl: "https://www.wlns.com/top-stories/san-francisco-debates-letting-police-deploy-robots-that-kill/amp/"
+cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/top-stories/san-francisco-debates-letting-police-deploy-robots-that-kill/amp/"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WFMJ
-  domain: wfmj.com
+  name: WLNS.com
+  domain: wlns.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://APPREMIUM.images.worldnow.com/images/23743700_G.jpg?lastEditedDate=1669733944000"
-    width: 512
-    height: 352
+  - url: "https://www.wlns.com/wp-content/uploads/sites/50/2022/11/AP22333707907710.jpg?w=1280"
+    width: 1280
+    height: 880
     isCached: true
 
 related:
@@ -150,6 +152,6 @@ related:
       domain: fastcompany.com
     quality: 19
 
-secured: "66jYOdTOzj/Zislk3BH6fuQ2nQxWfP4fKoGzNwc/zLDquwmsrP14m8KnABFN2GUto0YmuxUbS2sxEBYTPRE5b8yPkhwc7cpa5L4zXfWvFqnKDrR+vEWY5svdH/dUCAJHqg4dMSt8zmDBmk4lUK7PO0LYnc80XBc9wC4lHraG+jiUPwT+Tow9pZANaFZ/74fhUhYMBhNmv6KRHCEftlaoCYjUu4o43eW3cpp6BtU/dPzeIaekFKhtVYGZe0Cs1HQBxpIyDHhNT5q4wpj2PVBeivONFJV7lT+gpDogjxHBeAnviU/e1wIWgXikNCehFiupDGQsZAUtXgx4XmWEl8aNIsCzAnfZYAFOyq1zR7I2PfI=;KTC3Eee9RW01AtvxgC51uw=="
+secured: "6F4bIE+lQfoy2qikbqnvox0yfAu3hrlOCo9E2Oqkb9oVmaFHpTfrFsSs2fGwLpEmXtsgDEYjzoRqRM7bjkFxDGjdpMLR/y9M0eMNL68oQkAD61E+KrRG2VTq9R11DMA7v+j6QdMHy+uca2zd3pUZD7tOk78YGLDDgPXqj3AwTNji1B/CBnueYpbYP9pC4PwBWkSr8SLPvNLZyYYqrAtJ/X+Lkcpr4W46pptz/4oQYuacXdTErGr8Q7Vy5N5xr63rz/qCCMUD/UZ/GFQTw08wDr33sNCSBczG1SjI5ZEABnN0xf17GTjYQDLRNnPw40sezZ/Vb6nirRNEhHwEdgsKSO93yXeo3QaPJM4kp9X50nw=;KrwFiaJVHzAIKUR1XnTqdg=="
 ---
 

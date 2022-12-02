@@ -1,30 +1,22 @@
 ---
 category: news
 title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
-excerpt: "Hpc7g instances featuring new AWS Graviton3E chips deliver the best price performance for HPC workloads on Amazon EC2 C7gn instances featuring new AWS Nitro Cards with enhanced networking offer the hi"
-publishedDateTime: 2022-11-29T17:25:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/b29893848/aws-announces-three-amazon-ec2-instances-powered-by-new-aws-designed-chips"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/b29893848/aws-announces-three-amazon-ec2-instances-powered-by-new-aws-designed-chips"
-ampWebUrl: "https://www.benzinga.com/amp/content/29893848"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29893848"
+excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
+publishedDateTime: 2022-11-29T20:15:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
+webUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
 type: article
-quality: 57
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
-    width: 666
-    height: 282
-    isCached: true
 
 related:
   - title: "Stability AI doubles down on AWS"
@@ -101,6 +93,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Stability AI Selects AWS as Its Preferred Cloud Provider to Build Artificial Intelligence for the Future"
+    excerpt: "Stability AI offers generative AI models that create text, images, audio, video, code, and more from simple text instructions. Generative AI or foundational models—models that are adaptable to a variety of tasks in domains such as language,"
+    publishedDateTime: 2022-11-30T20:02:00Z
+    webUrl: "https://www.valdostadailytimes.com/ap/business/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the/article_a12aa1ff-90cd-5914-8dc3-1a552b60feb4.html"
+    type: article
+    provider:
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 52
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "AWS doubles down on data management"
     excerpt: "Cloud giant Amazon Web Services declared a bold vision to eliminate the need to extract, transform and load data alongside other efforts to address business problems in domains like cyber security and"
     publishedDateTime: 2022-11-29T20:51:00Z
@@ -139,16 +145,7 @@ related:
       name: The Tech Report
       domain: techreport.com
     quality: 36
-  - title: "Stability AI Selects AWS as Its Preferred Cloud Provider to Build Artificial Intelligence for the Future"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Stability AI, a community-driven, open-source artificial intelligence (AI) company, has selected AWS as its preferred cloud provider to build and scale its AI models for image,"
-    publishedDateTime: 2022-11-30T22:00:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-30-stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the-future"
-    type: article
-    provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 32
 
-secured: "r0SUgoU6c2l4kDlHb9OZ6xzTKMFJ0kijWZ4XhQ1NYElISL2J6p6CT+1X3Ca6TFWpTGk/2YN7EtD/OtneGJkfZVvRWVsT4SYVfgMFhsYo7bPhu/PJ2HrAnYwoklFbGezKE/EC3hATeF5XGE0D0yn05HMoIMbuKWHJE1VgObdftfz3nQi9SKxhFfp8SZLPDmAHXfzNiOE7pbyGckc3XZ5WsfTNmyRHVKa+aVARaLAJhsh25FyEJAJ1NdoT748xNoH3ynaOMhOJIdxTNHnM436lGPex7+toudh76UCccOOpW3fH6qCmQZCXkycTDMCaI86FAUzSX28Q9ollxHcGwLBgDrmdczKFcbmq+CBQkv+jMtfS6FhlwdxoSpE9W7IaOFYn2H13WdikHAfF/SvX0FZLa0N8CPbkKcycEt7Ay1DFaoe1/QfAsPBRQDtiJMtV2p2y7vZJouFqP8c6jm9dcvfDrd65jrGQv1xc/wCpuUU/mpCPAqeYMiZu3gaCT5Z6/n8tAFxKmothRD4wTEsDziLqBg==;pipkoE9ZFaUgcmxV2p7aNQ=="
+secured: "Le5WoHO6WiXAVcx1xYJnvjoTldHt+hLyNOenq9yQ+KzqM5ajqv6q3fzsFP3JlKS2MSzE5tg9bImnobcBLrWRATeH/oMGSpEom/0ufAQbqJ6Cdp5ypLD1klUxo4WsVfek3LsgNN/AITpgeunQQSiI3CUg+/KEUjob5ZuoELbLdGh4lVIk/o8PJs6I+DT3HmhXJ2B0SagxCQwQ16WHQfElnCy9XgO5tbVgCIqRcSwrx10bQSHieu3k3rtr3RejCA0f5vgSSh31MDaQ6s4AwwP/fLl4ciZ4/kcgDJ7/Kkr1D5eJn1H9ChZLJ9qPlXWcA/j942o5EME48dXauMD8oeRf0i0HP3A42fdpLfWVk0xdVKVHUPyf3hE/dfmpDiGIvHTS6KWiFgHlbXJzs5AWLWpZjxhpfN6tQ2kKp+DSs/3a8F/WIaixEoR+SstljLmmAR6/3+X5DFR3BG1SkUmLvbjNHXoWd4iLTOO9rz5WmpsaxkCnWh88ngVQanSseaNmIkFzdNSp/0dyWlEYX2nvehvyLw==;wFl3LtHCY97tq7458haJlA=="
 ---
 

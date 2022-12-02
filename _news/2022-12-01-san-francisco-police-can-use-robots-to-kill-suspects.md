@@ -41,6 +41,22 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "San Francisco debates letting police deploy robots that kill"
+    excerpt: "Supervisors in San Francisco held a heated debate Tuesday over whether to give city police the ability to use potentially lethal, remote-controlled robots in emergency situations, with both sides"
+    publishedDateTime: 2022-11-30T01:16:00Z
+    webUrl: "https://www.wlns.com/top-stories/san-francisco-debates-letting-police-deploy-robots-that-kill/"
+    ampWebUrl: "https://www.wlns.com/top-stories/san-francisco-debates-letting-police-deploy-robots-that-kill/amp/"
+    cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/top-stories/san-francisco-debates-letting-police-deploy-robots-that-kill/amp/"
+    type: article
+    provider:
+      name: WLNS.com
+      domain: wlns.com
+    quality: 59
+    images:
+      - url: "https://www.wlns.com/wp-content/uploads/sites/50/2022/11/AP22333707907710.jpg?w=1280"
+        width: 1280
+        height: 880
+        isCached: true
   - title: "San Francisco may allow police to deploy robots that kill"
     excerpt: "The San Francisco Police Department said it would like the option to deploy robots equipped with explosive charges to disable suspects when lives are at stake."
     publishedDateTime: 2022-11-29T20:35:00Z
@@ -102,20 +118,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/mtstandard.com/content/tncms/assets/v3/editorial/f/66/f666d0c1-9cf1-570d-bb5c-4cbd642e9c26/6386d1483540b.preview.jpg?crop=1736%2C911%2C0%2C141&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
-        isCached: true
-  - title: "San Francisco debates letting police deploy robots that kill"
-    excerpt: "The vote comes under a new California law that requires police and sheriffs departments to inventory military-grade equipment and seek approval for their use. San Francisco police"
-    publishedDateTime: 2022-11-30T01:07:00Z
-    webUrl: "https://www.wfmj.com/story/47816912/san-francisco-debates-letting-police-deploy-robots-that-kill"
-    type: article
-    provider:
-      name: WFMJ
-      domain: wfmj.com
-    quality: 39
-    images:
-      - url: "https://APPREMIUM.images.worldnow.com/images/23743700_G.jpg?lastEditedDate=1669733944000"
-        width: 512
-        height: 352
         isCached: true
   - title: "San Francisco police to soon deploy robots that can kill"
     excerpt: "Supervisors in San Francisco voted eight to three to allow city police to use potentially lethal remote-controlled robots in emergency situations. What dangers lie ahead?"

@@ -117,6 +117,20 @@ related:
         width: 1564
         height: 782
         isCached: true
+  - title: "Illustrative notebooks in Amazon SageMaker JumpStart"
+    excerpt: "Amazon SageMaker JumpStart is the Machine Learning (ML) hub of SageMaker providing pre-trained, publicly available models for a wide range of problem types to help you get started with machine learning. JumpStart also offers example notebooks that use Amazon SageMaker features like spot instance training"
+    publishedDateTime: 2022-12-01T23:39:57Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/illustrative-notebooks-in-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/01/illustrative-notebooks-sagemaker-jumpstart.jpg"
+        width: 1549
+        height: 774
+        isCached: true
   - title: "Define customized permissions in minutes with Amazon SageMaker Role Manager"
     excerpt: "Administrators of machine learning (ML) workloads are focused on ensuring that users are operating in the most secure manner, striving towards a principal of least privilege design. They have a wide variety of personas to account for, each with their own unique sets of needs, and building the right sets"
     publishedDateTime: 2022-12-01T18:51:27Z
@@ -234,6 +248,20 @@ related:
       - url: "https://149520306.v2.pressablecdn.com/wp-content/uploads/2022/12/Amazon-SageMaker-450x300.jpg"
         width: 450
         height: 300
+        isCached: true
+  - title: "SageMaker Bolstered with Better Controls, AI Governance"
+    excerpt: "AWS yesterday unveiled a host of enhancements for Amazon SageMaker, its end-to-end machine learning offering. Among the most prominent capabilities are a collection of new governance tools aimed at keeping ML projects on the straight and narrow ..."
+    publishedDateTime: 2022-12-01T23:54:00Z
+    webUrl: "https://www.datanami.com/2022/12/01/sagemaker-bolstered-with-better-controls-ai-governance/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2022/12/brain_AI_shutterstock_Golden-Dayz.jpg"
+        width: 1000
+        height: 444
         isCached: true
   - title: "Informatica tightens integration with AWS Redshift and SageMaker"
     excerpt: "Informatica said its Data Loader software, which is a free tool for loading data into a cloud warehouse, is now embedded directly into the Redshift Console to enable users to upload data from multiple sources quickly without the extensive cleansing and governance procedures that can stretch that process to days or weeks."

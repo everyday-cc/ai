@@ -7,8 +7,8 @@ originalUrl: "https://www.stripes.com/opinion/2022-11-27/tsa-artificial-intellig
 webUrl: "https://www.stripes.com/opinion/2022-11-27/tsa-artificial-intelligence-8207585.html"
 type: article
 quality: 60
-heat: -1
-published: false
+heat: 80
+published: true
 
 provider:
   name: Stars and Stripes
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Commentary: TSA faces ethical limits in use of AI. But work to improve the technology must persist"
-    excerpt: "Artificial intelligence has become a disruptive force in society. Terms such as machine learning, deep learning and neural networks have become commonplace among mainstream media, eliciting visions of"
-    publishedDateTime: 2022-11-27T08:00:00Z
-    webUrl: "https://www.yakimaherald.com/opinion/commentary-tsa-faces-ethical-limits-in-use-of-ai-but-work-to-improve-the-technology/article_fd545cca-6b5e-11ed-9ff9-6f01b48b3dcd.html"
-    ampWebUrl: "https://www.yakimaherald.com/opinion/commentary-tsa-faces-ethical-limits-in-use-of-ai-but-work-to-improve-the-technology/article_fd545cca-6b5e-11ed-9ff9-6f01b48b3dcd.amp.html"
-    cdnAmpWebUrl: "https://www-yakimaherald-com.cdn.ampproject.org/c/s/www.yakimaherald.com/opinion/commentary-tsa-faces-ethical-limits-in-use-of-ai-but-work-to-improve-the-technology/article_fd545cca-6b5e-11ed-9ff9-6f01b48b3dcd.amp.html"
-    type: article
-    provider:
-      name: Yakima Herald-Republic
-      domain: yakimaherald.com
-    quality: 60
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/3/11/311406e6-6b5f-11ed-afac-1b658226b053/637e6ae553d68.image.jpg?resize=1024%2C686"
-        width: 1024
-        height: 686
-        isCached: true
   - title: "Sheldon H. Jacobson: TSA faces ethical limits in use of AI, but improvements must persist"
     excerpt: "Artificial intelligence has become a disruptive force in society. Terms such as machine learning, deep learning and neural networks have become commonplace among mainstream media, elicit ing visions of innovation that has the potential to change our lives."
     publishedDateTime: 2022-11-27T18:00:00Z

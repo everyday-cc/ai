@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/11/199262-accel-funded-finbots
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/11/199262-accel-funded-finbots-ai-signs-first-neobank-in-mongolia-m-bank/amp/"
 type: article
 quality: 74
-heat: 95
+heat: 94
 published: true
 
 provider:

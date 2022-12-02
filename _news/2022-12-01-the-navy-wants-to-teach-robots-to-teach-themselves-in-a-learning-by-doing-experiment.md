@@ -34,7 +34,7 @@ related:
     provider:
       name: BroBible
       domain: brobible.com
-    quality: 24
+    quality: 26
     images:
       - url: "https://brobible.com/wp-content/uploads/2022/12/robots-working.png"
         width: 1222
