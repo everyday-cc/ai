@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "sighthoundinc"
   url: "https://twitter.com/sighthoundinc"
-  followers: 388
+  followers: 389
 
 size: 11-50 employees
 yearFounded: 2012
