@@ -23,7 +23,7 @@
       "twitter": {
         "username": "huggingface",
         "url": "https://twitter.com/huggingface",
-        "followers": 123257
+        "followers": 123276
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -74,7 +74,7 @@
       "twitter": {
         "username": "grammarly",
         "url": "https://twitter.com/grammarly",
-        "followers": 226451
+        "followers": 226450
       },
       "size": "201-500 employees",
       "yearFounded": 2009,
@@ -119,7 +119,7 @@
       "twitter": {
         "username": "deeplcom",
         "url": "https://twitter.com/deeplcom",
-        "followers": 14256
+        "followers": 14257
       },
       "yearFounded": 0,
       "locations": [
@@ -172,7 +172,7 @@
       "twitter": {
         "username": "gong_io",
         "url": "https://twitter.com/gong_io",
-        "followers": 7477
+        "followers": 7478
       },
       "size": "201-500 employees",
       "yearFounded": 2015,
@@ -229,7 +229,7 @@
       "twitter": {
         "username": "Dialogflow",
         "url": "https://twitter.com/Dialogflow",
-        "followers": 12069
+        "followers": 12068
       },
       "size": "11-50 employees",
       "yearFounded": 2010,
@@ -382,7 +382,7 @@
       "twitter": {
         "username": "algolia",
         "url": "https://twitter.com/algolia",
-        "followers": 24775
+        "followers": 24776
       },
       "size": "201-500 employees",
       "yearFounded": 2012,
@@ -513,7 +513,7 @@
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1326830321157898240/14TzFVZF_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1598522463301738497/SaUq4vM4_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Liulishuo",
@@ -549,7 +549,7 @@
       "twitter": {
         "username": "NarrativaAI",
         "url": "https://twitter.com/NarrativaAI",
-        "followers": 1401
+        "followers": 1402
       },
       "size": "2-10 employees",
       "yearFounded": 2015,
