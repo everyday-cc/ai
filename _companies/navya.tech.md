@@ -2,7 +2,7 @@
 name: "NAVYA"
 overview: "Neurala is the company behind Brain Builder - the AI software platform powering visual inspections on 53 million devices worldwide."
 type: "profile"
-heat: 20
+heat: 3
 
 website: https://navya.tech
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "NAVYA_Group"
   url: "https://twitter.com/NAVYA_Group"
-  followers: 10031
+  followers: 10033
 
 size: 201-500 employees
 yearFounded: 2014
@@ -40,6 +40,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=Af45fT7nrBA"
 
-secured: "d68zbvcd5iDHYeQ1L+0jr718ukaCA2ODHgyfR3zkwqj4Wylfp//HJv4jgsIQlNJTSHL6qX4VCxRvqEAn1QFxMy8t16NP7vVwgihfsRMq3VTdpmM8NWOSMHRaBom6XPmsFHMnjpzegw9O42OTD+Sz4kNcjn5x526/yiIAOdURTYjfgrL+UW8BTfo0kmw5c04ZrgR3tca8lTJQ5Kg/qpnZnNhXtOv2Su2m5qEzS7OMUe0YEYM9xl9KYj/WM/mlYAQWIRhFRhtVWjzgliZ35njUB25HDrF3qcSGLg8UyPx0VtuFBL5sTgCKWOvtMqIGJ0rM+30uZtobTHdeZbAl7MqwpkxTE0kUbtbXka5awLq/zV6SDWmFAQcskO+MJf0LtC6HXtfT3NAe93xJFb7Yy4C+iJpefrLGxEotM+he4hT2GA4=;tsXYviFQE6d2jYP6yeGxdQ=="
+secured: "EpSzQv67IXPefFQRngvG64MdEDDogAaXH3Btgt217VSw6mUWyiY8RS0DnpsUughNlhRSluBIB6BShO9WwOf1O710KIy+L9WgicAUMmOUfXH3FCh5Q5ZD82xDaIs3G0zIrlfWslH2njpcysSKGfAm1RzaulFD784AywkEZFY9EElBhGO2aVVFNJRMCdv+W6nr2MXE6XLRmP9pcl0dyj8U2/Mla0wCqkjUzSM0OJK6sNij/lm4xqr+O4L7idTKePMkex1iq4CF725De4TroJfseZIHapHU0l0JmxbIO6x7skQcAy50xyZhT0JKBmgb+OmJw5PAXI28w3RKtRTSuBkkBhkbx3y7B0F/i3JGIFQ3HuiWH6sksfnolHPKb+ltkvrZ4J0degzIo3KM2iUnkQ0yePQl7OxRem+DMIWisY+EEAA=;vD3IrEMKi0KnH8MLQwSVHw=="
 ---
 
