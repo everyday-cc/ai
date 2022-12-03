@@ -23,7 +23,7 @@
       "twitter": {
         "username": "huggingface",
         "url": "https://twitter.com/huggingface",
-        "followers": 123492
+        "followers": 123512
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -74,7 +74,7 @@
       "twitter": {
         "username": "grammarly",
         "url": "https://twitter.com/grammarly",
-        "followers": 226452
+        "followers": 226457
       },
       "size": "201-500 employees",
       "yearFounded": 2009,
@@ -119,7 +119,7 @@
       "twitter": {
         "username": "deeplcom",
         "url": "https://twitter.com/deeplcom",
-        "followers": 14259
+        "followers": 14261
       },
       "yearFounded": 0,
       "locations": [
@@ -229,7 +229,7 @@
       "twitter": {
         "username": "Dialogflow",
         "url": "https://twitter.com/Dialogflow",
-        "followers": 12064
+        "followers": 12065
       },
       "size": "11-50 employees",
       "yearFounded": 2010,
@@ -382,7 +382,7 @@
       "twitter": {
         "username": "algolia",
         "url": "https://twitter.com/algolia",
-        "followers": 24756
+        "followers": 24757
       },
       "size": "201-500 employees",
       "yearFounded": 2012,
@@ -549,7 +549,7 @@
       "twitter": {
         "username": "NarrativaAI",
         "url": "https://twitter.com/NarrativaAI",
-        "followers": 1397
+        "followers": 1400
       },
       "size": "2-10 employees",
       "yearFounded": 2015,
@@ -816,7 +816,7 @@
       "twitter": {
         "username": "textio",
         "url": "https://twitter.com/textio",
-        "followers": 8088
+        "followers": 8087
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
