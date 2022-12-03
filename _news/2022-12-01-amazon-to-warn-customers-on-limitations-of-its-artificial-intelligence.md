@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/world-news/amazon-to-warn-customers-on-limitati
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/amazon-to-warn-customers-on-limitations-of-its-artificial-intelligence-3567592/amp/1"
 type: article
 quality: 61
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://d.ibtimes.com/en/full/4389003/amazon-logo-company-logistics-center-lauwin-planque.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Amazon will tell customers about limitations of AI software sold by AWS: report"
+    excerpt: "Amazon (AMZN) said it would tell customers about the limitations of software that are sold by Amazon Web Services in the form of warning cards amid concerns about AI"
+    publishedDateTime: 2022-11-30T16:34:00Z
+    webUrl: "https://seekingalpha.com/news/3912598-amazon-will-tell-customers-about-limitations-of-ai-software-sold-by-aws-report"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 50
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1174936490/image_1174936490.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
         isCached: true
   - title: "Amazon to warn customers on limitations of its artificial intelligent"
     excerpt: "Akin to lengthy nutrition labels, Amazon's so-called AI Service Cards will be public so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription."

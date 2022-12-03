@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "San Francisco will allow police to deploy robots that kill"
+    excerpt: "Supervisors voted to give police the ability to use potentially lethal remote-controlled robots in emergency situations."
+    publishedDateTime: 2022-11-30T14:02:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/san-francisco-will-allow-police-deploy-robots-kill-rcna59322"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna59322"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna59322"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 89
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-12/211205-san-francisco-police-vehicle-jm-1039-3a9a35.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "San Francisco's Killer Robots Threaten the City's Most Vulnerable"
     excerpt: "Law enforcement says that in some scenarios a lethal robot is the only way to protect public safety. Experts say the policy will harm communities of color."
     publishedDateTime: 2022-11-30T22:33:00Z
@@ -68,22 +84,6 @@ related:
     quality: 59
     images:
       - url: "https://media.abc10.com/assets/CCT/images/d351425c-2053-485f-a857-34f172fc1ae9/d351425c-2053-485f-a857-34f172fc1ae9_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "San Francisco will allow police to deploy robots that kill"
-    excerpt: "Supervisors voted to grant police the option to use potentially lethal, remote-controlled robots despite strong objections from civil liberties groups."
-    publishedDateTime: 2022-11-30T04:27:00Z
-    webUrl: "https://www.khou.com/article/news/nation-world/san-francisco-could-allow-police-to-deploy-robots-that-kill/507-9fbae4cb-330a-4c81-a01a-bbcdbed97028"
-    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/san-francisco-could-allow-police-to-deploy-robots-that-kill/507-9fbae4cb-330a-4c81-a01a-bbcdbed97028"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/san-francisco-could-allow-police-to-deploy-robots-that-kill/507-9fbae4cb-330a-4c81-a01a-bbcdbed97028"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 59
-    images:
-      - url: "https://media.khou.com/assets/CCT/images/d351425c-2053-485f-a857-34f172fc1ae9/d351425c-2053-485f-a857-34f172fc1ae9_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true

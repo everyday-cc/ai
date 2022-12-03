@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2022/11/nvidia-wins-a
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/nvidia-wins-award-for-ai-that-can-play-minecraft-on-command/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
         width: 620
         height: 348
         isCached: true
-  - title: "Why researchers are teaching AI to play Minecraft"
-    excerpt: "OpenAI used 70,000 hours of Minecraft player videos to teach its computer the popular game. Here's why that matters for future technology."
-    publishedDateTime: 2022-11-28T19:01:00Z
-    webUrl: "https://www.popsci.com/technology/minecraft-ai-research/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 17
 
 secured: "ZtEwaAqJqn5qZfMEllawfUP5Q63k1ILIYbCzdJfFIN8hGcbzV99iwI3QMCSo2ixHNnMtw4p+rXcPE6Q57iMKEerhfflPgEN5RMdfLfb7KLOMWKn3GYnWN2ux1QyQH/ANiJ/ZDSHfNr63p336l1RBboeYZKNus3fjmIJxSCj48SJRPU1QdLRYSbcTF5H+1g0ihwN25+1hHUeu3c9Yeo4GyzXX6NlzF0NKaIxCamHLlahTNRTAJvxAC0o8NGE17AS0H/vYVsGJzFNZJDAdPye9hj+gpzkHl0qT2PA5gy2S6PVOq7qW/89DlpXeYIHi2s5emZtmRiqKvr3KtmNEw3IkwMcus9QRtFp4ROMaM6csY2s=;PQMw4DbDQgcFgLkdpwtSpQ=="
 ---

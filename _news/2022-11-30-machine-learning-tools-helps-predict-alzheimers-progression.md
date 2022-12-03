@@ -9,7 +9,7 @@ ampWebUrl: "https://healthitanalytics.com/news/amp/machine-learning-tools-helps-
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/machine-learning-tools-helps-predict-alzheimers-progression"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Machine learning gives nuanced view of Alzheimer’s stages"
-    excerpt: "A Cornell-led collaboration used machine learning to pinpoint the most accurate means, and timelines, for anticipating the advancement of Alzheimer’s disease in people who are either cognitively normal or experiencing mild cognitive impairment."
-    publishedDateTime: 2022-11-28T17:42:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/972568"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
 
 secured: "qPC9ihYDaREjYdYa3zzdOmpF2kVMupxNSRYeFpHpIEQXuGbl4N+sJyQr5SKniFAKGqOoRzqyuKk+CNle51AmczmJQNKN7fVMmAlw7oVp9+fl6aUkUy+u6lf4tMipcGuBiYrvBGo2eqenlF4j07cj43c69vrvblTI80d+0msoXxZlkR0lzm1oHVLqj1EJ5zkSrWmTCQAUOTgLrHWDWL/dpx/3FFJOEVcIkCHJ7/qr9vKK2OVKWNWHi1T9juWbZ2El2E2MjT2UYgnawwu4f3uP8+0CnhzEEL4FfzKFh6+p/LF41D5CMQaDZzA9CdJqcqi7Ixh/+UOHqfekO1H1n6zjC2Bnc7K0UOFJmWJfFvDb5kI=;/uSKaUgaow8pfk1zCb9hXA=="
 ---

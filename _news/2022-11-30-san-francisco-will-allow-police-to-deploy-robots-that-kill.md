@@ -1,29 +1,29 @@
 ---
 category: news
 title: "San Francisco will allow police to deploy robots that kill"
-excerpt: "Supervisors voted to grant police the option to use potentially lethal, remote-controlled robots despite strong objections from civil liberties groups."
-publishedDateTime: 2022-11-30T04:27:00Z
-originalUrl: "https://www.khou.com/article/news/nation-world/san-francisco-could-allow-police-to-deploy-robots-that-kill/507-9fbae4cb-330a-4c81-a01a-bbcdbed97028"
-webUrl: "https://www.khou.com/article/news/nation-world/san-francisco-could-allow-police-to-deploy-robots-that-kill/507-9fbae4cb-330a-4c81-a01a-bbcdbed97028"
-ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/san-francisco-could-allow-police-to-deploy-robots-that-kill/507-9fbae4cb-330a-4c81-a01a-bbcdbed97028"
-cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/san-francisco-could-allow-police-to-deploy-robots-that-kill/507-9fbae4cb-330a-4c81-a01a-bbcdbed97028"
+excerpt: "Supervisors voted to give police the ability to use potentially lethal remote-controlled robots in emergency situations."
+publishedDateTime: 2022-11-30T14:02:00Z
+originalUrl: "https://www.nbcnews.com/news/us-news/san-francisco-will-allow-police-deploy-robots-kill-rcna59322"
+webUrl: "https://www.nbcnews.com/news/us-news/san-francisco-will-allow-police-deploy-robots-kill-rcna59322"
+ampWebUrl: "https://www.nbcnews.com/news/amp/rcna59322"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna59322"
 type: article
-quality: 59
-heat: -1
-published: false
+quality: 89
+heat: 199
+published: true
 
 provider:
-  name: KHOU 11
-  domain: khou.com
+  name: NBC News
+  domain: nbcnews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://media.khou.com/assets/CCT/images/d351425c-2053-485f-a857-34f172fc1ae9/d351425c-2053-485f-a857-34f172fc1ae9_1140x641.jpg"
-    width: 1140
-    height: 641
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-12/211205-san-francisco-police-vehicle-jm-1039-3a9a35.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -182,6 +182,6 @@ related:
       domain: fastcompany.com
     quality: 19
 
-secured: "3FFgVTZ5treyYKCKBwENjKBfiCtmzU+0N3FsR92wXrDYt8qPJOfb/PdXU+zP/ib7dpAakjD+Nil02MvE946T5htN+uDmWnl0sO41pNXHdP8EGPabaDsxKjtQxN/sy9yaMU02P/wfZyLfCfbX/qR9GD14hjGUoTs5tujcJq39pVd4+8Gi9Qo50aGCGK4VKIe4umiKSHDA9o2lXYXQRklDD+l5CD4ZE4cvYBn401ttWCOOZljJRRQXpQF8myD6CarCciXSY48AeaavFhYrKTAuraVpqeiml/r2bOSWtX9Pohnx+HExxe+MI/7T/VUzmtfvribjbZiVbs816jB9N5TwAtU3ZcVycHwRbbSWjVpiqyOxzfQlNm5LXlQTF9yFrQiK/9mMQSATIA/NFvSiMCpPYy8S29b3XhDSGOBxFlmvKSqBIMKcu3L2vSCW/VJ4sV3qV7pKvhRxJbmnFKisnPV3U6e4U3Y0tJx6NiwH+knG14HQJ6GiU8YK3HGIR42feUFDbxWLEqDpjK37rcTKyUTtlQ==;mOrVMUg2NYuY+ZnKRsQujg=="
+secured: "3yc3ZeSSlS57YC6z3wJGuumiQ+NdN1mUfrG0A2gKGv4YxAaxnMe8ltWEL7wHY4HZ4NNkVCXLNI0MdBUcKdxXIx6sn9zstmozIMcJctFqkp7m4jMRNnr4uapeERvCwdf+ghmIsRN5u9qfO6E4RS+k/ewQyiCGiRwKQPGm7arvaMheuOA31XUiWYFlOBcYCpKsFtLaqfAJysb1ALdB6urQxBVD62c+JRT6QLbRWWDbAunhrXzpoEqxB/8IBwGmwM4dFSSmevhrBMpwGpqgTUouvHy9PmbJfulM2pfB9rHXTJ7Yjtn09xE2/Avps06X6EsN9eEUOJ5PEPsu6Pj3Gn5pCVk6Hiwmix3JGkpek8AfdFw=;J5FDO6wx0VvkNo2G5PacgQ=="
 ---
 

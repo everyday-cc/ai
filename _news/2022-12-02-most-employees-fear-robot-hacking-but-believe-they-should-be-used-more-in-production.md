@@ -7,7 +7,7 @@ originalUrl: "https://manilastandard.net/tech/314284019/most-employees-fear-robo
 webUrl: "https://manilastandard.net/tech/314284019/most-employees-fear-robot-hacking-but-believe-they-should-be-used-more-in-production.html"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 466
     height: 463
     isCached: true
-
-related:
-  - title: "Most employees fear robot hacking but believe they should be used more in production"
-    excerpt: "Today, 79 percent of employees believe that robots should be more widely used across different industries, however, 85 percent of them fear robot hacking. Nowadays, robotics is being used to command industrial control systems,"
-    publishedDateTime: 2022-11-28T18:00:00Z
-    webUrl: "https://www.vietnambreakingnews.com/2022/11/most-employees-fear-robot-hacking-but-believe-they-should-be-used-more-in-production/"
-    ampWebUrl: "https://www.vietnambreakingnews.com/2022/11/most-employees-fear-robot-hacking-but-believe-they-should-be-used-more-in-production/amp/"
-    cdnAmpWebUrl: "https://www-vietnambreakingnews-com.cdn.ampproject.org/c/s/www.vietnambreakingnews.com/2022/11/most-employees-fear-robot-hacking-but-believe-they-should-be-used-more-in-production/amp/"
-    type: article
-    provider:
-      name: Vietnam
-      domain: vietnambreakingnews.com
-    quality: 52
-    images:
-      - url: "http://ven.vn/stores/news_dataimages/maihuong/112022/29/21/2101_abstract-robot-thinking-1200x600.jpg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "BsZfjTlg5fpj9K8G0FENMw7prk2lDzJLX+2h4/utz4ppnken4y9Ya7k5dpEemIpP2zCFmub1g1woBborjkVnPsefrq1ediAXaaq/vMxHWTPOvYqLpe3Hd6jYs+cc2v8xPAUK6v1x+cPDQZ1jbe3w4GstYraFtq2txoXO2zPnCQxdsFp3gpd0wxW0Z96ypUN5IpDmnnzdvL30D07rk3xGTPH71WOdI7zLtAH+UaWamR89NpjU+I1HnCrkavTEsH1/AEueFhvnwxG/3KmBB4iujSrmYFCj/a8ESOtuCLgktlWZi1HtpKeca68D5nQl/TOh3sqnXjp0JELTEjdOjRlEgNH9l+DxKEkdSXVmuoFaYeZtQ+LwpsQ4UOXG65BzgtG828gJdYqKq1U4xDlp/zKvmU/bTZOb+EbsENdnT/ITn5YSpADkEu63GpshdshgwlBPjG0y18gvLhQ2kt+5XJlRGIGs62mj8+U/iJgl3g25yFc58Y7mMBqyf//zN/3JZzbbM719ZLV2FjogElLRrfbKDw==;E4uhyGd5U0DXrop1oB/aRg=="
 ---

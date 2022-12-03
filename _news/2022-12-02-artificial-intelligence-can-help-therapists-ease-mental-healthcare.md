@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 460
         isCached: true
-  - title: "ROBOTICS IS CHANGING HEALTHCARE"
-    excerpt: "Artificial intelligence is also playing a key role Till a few years back, it was impossible to fathom the idea that robots could be used as helping hands in the way healthcare organisations are managed."
-    publishedDateTime: 2022-11-28T18:35:00Z
-    webUrl: "https://www.dailypioneer.com/2022/columnists/robotics-is-changing--healthcare.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 71
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2022/story/images/big/robotics-is-changing--healthcare-2022-11-29.jpg"
-        width: 1000
-        height: 800
-        isCached: true
   - title: "How Artificial Intelligence Is Transforming Healthcare"
     excerpt: "Artificial Intelligence (AI) is already transforming industries from banking and retail to transportation and energy and has the potential to significantly improve every industry it touches. Since some version of “improve my health” will likely be near ..."
     publishedDateTime: 2022-12-01T20:11:00Z

@@ -60,20 +60,6 @@ related:
         width: 1200
         height: 902
         isCached: true
-  - title: "The Future of Artificial Intelligence"
-    excerpt: "Ten years ago, Human Rights Watch united with other civil society groups to co-found the Stop Killer Robots campaign in response to emerging military technologies in which machines would replace human control in the use of armed force. There is now ..."
-    publishedDateTime: 2022-11-28T18:43:00Z
-    webUrl: "https://www.hrw.org/news/2022/11/28/future-artificial-intelligence"
-    type: article
-    provider:
-      name: Human Rights Watch
-      domain: hrw.org
-    quality: 43
-    images:
-      - url: "https://www.hrw.org/sites/default/files/styles/square/public/media_2022/11/202211arms_killerrobots_drones_illustration.jpg?h=c6980913&itok=CG0yajTt"
-        width: 374
-        height: 374
-        isCached: true
 
 secured: "S+tq/2uU4A5owokkqmEjKt5S5iJR80AzHc/f63m+SNeVtmFQbYuLvW7bvYrLJqiDkE8AgmJx+LJMziRWK1LY3oKIiC3QpY2LlFgYrc6z2B7opCrIlSCsXH2FGzcHLsHxTJRwEsbcR7qkGNhsVOAun02rx2Muu9ICpwdIu44QByQv8vF50UHWP7yl+opGSFQdj6DSYsOMLGkja37FuvquVswbhY7THUju+RqHyq/p9IiYevN5aKIkuvg0OGBCig8Wy1uPiljKJzX/WzYFCRg70BU57zIZUm21KDdcSYt8JUseFnkFHT36imhTuMO/8DNS8wIQWQQYezfswIupsmMqfSjCkrbBHtBTK3cXEDRE/QQ=;FG2sVSNJO/4iPc+IFJe4fA=="
 ---

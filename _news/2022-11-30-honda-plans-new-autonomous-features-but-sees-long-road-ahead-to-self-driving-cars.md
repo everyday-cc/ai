@@ -3,8 +3,8 @@ category: news
 title: "Honda Plans New Autonomous Features but Sees Long Road Ahead to Self-Driving Cars"
 excerpt: "The auto maker said it would focus for now on partially autonomous driving technology to improve safety, joining others that say fully self-driving cars aren’t ready for prime time."
 publishedDateTime: 2022-11-30T14:19:00Z
-originalUrl: "https://www.wsj.com/articles/honda-plans-new-autonomous-features-but-sees-long-road-ahead-to-self-driving-cars-11669820402?mod=latest_headlines"
-webUrl: "https://www.wsj.com/articles/honda-plans-new-autonomous-features-but-sees-long-road-ahead-to-self-driving-cars-11669820402?mod=latest_headlines"
+originalUrl: "https://www.wsj.com/articles/honda-plans-new-autonomous-features-but-sees-long-road-ahead-to-self-driving-cars-11669820402"
+webUrl: "https://www.wsj.com/articles/honda-plans-new-autonomous-features-but-sees-long-road-ahead-to-self-driving-cars-11669820402"
 type: article
 quality: 49
 heat: 49
@@ -106,6 +106,6 @@ related:
         height: 533
         isCached: true
 
-secured: "2slHHQ52WKnIpOZoZeevnDkdORpuN5ZpOg/NTouA42Na1YNUl4NYVjXvugT+jtwbhlwTeyWfK6+kLlZbSkK5QaXQPG/AwGVMpyzc32DKBfE/dbT9tzTjYPGl4ab0WJ4irgLlWjSfAU7AylpgoTZCH7aRLl+BJQbP7TDo7ZHu8Tva/K5d6/AbJghyWFAJFB7sSfjPlxsr+I19MXVuQldUD2RcCdf739+g0xCZ3RCgujL+4L3dreF7r2uxXxWNjxPoggIFhPJiZSejvYKoQgwRn9bO5U+B9vmRqDkaG8IdBZ1K6KGyLyqJg4a+b1zQnwuKj/bBFBojW+xhNXkypoNJS5jKe3ALLpphujPQtLqRrwk=;zwmwlwq8t9JZzwq7CeGkyQ=="
+secured: "4eOCZMxFsIWHz9zsGFi7Da3/apnkTszj//FR59qXurU+uUpRQhJFioV+FuE/nhXtDA+tBUaB9fCAtrLf7j2MouygnK+CfxLvFBqGsQYrC+2GkXxJYCChg9ORxCmhC0YeNWfP0pb3n1z7TXkmjiVl7Jf8uHNmgtdvWXFq7ZB3eZNzSdLppMAYIWpKq8OUBVElDi01R6r06Ho0+S5MogX4CKvURKKJ1nn0g+JxAw0/c94k6K36841t2D5vTbT5Lm+xqgulfQ9WUWFmsUo5C2INzaKPcV9uQJ2Edfb5ozwi9RTbf0IkMHA3e/DkbfOZ4jcCkKZjirKkR6PcFVKtyIgWm+azm+WyMKCI4MK9bz55Ej8=;sKq4eWgKsvEJcRUR+Zsy8Q=="
 ---
 

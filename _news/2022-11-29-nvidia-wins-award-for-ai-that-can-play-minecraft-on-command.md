@@ -60,15 +60,6 @@ related:
         width: 620
         height: 348
         isCached: true
-  - title: "Why researchers are teaching AI to play Minecraft"
-    excerpt: "OpenAI used 70,000 hours of Minecraft player videos to teach its computer the popular game. Here's why that matters for future technology."
-    publishedDateTime: 2022-11-28T19:01:00Z
-    webUrl: "https://www.popsci.com/technology/minecraft-ai-research/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 17
 
 secured: "Av1V33xRLmBr84M0H1FnZdHSRz8senK4TxFuF3rQTP/K+OadHvLngaf1YU8+/XYGHohpWgnzGQDnjyhOaLX0l9feqFyum+4ga2+jcgxS2GWO1SpcgC6jKNiwv8aJsxMytF1VUTkizd6o0z1Y1ejSj7OXw3vOHd4DX6cDl37eB8L9+XeiX7v39/2N8WhfI+zBNvWyAyoBFwE8MVVVxDIns9G/Sax+04idTipCddfXQKMYBGA2LWMhB+fOCxsIP36bBvk0jc4btW48Q1qTLbRc31+aG93IRJU0Y8TP2RRhzGp2q0cRXZBouURBPrKUJcZ2JVVwniSxgzNMsmqjRykw73mRUwR632dhdG0N8kZ8tTI=;ZoyQ22f0itBBt6CsqwTSLg=="
 ---

@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Amazon will tell customers about limitations of AI software sold by AWS: report"
+    excerpt: "Amazon (AMZN) said it would tell customers about the limitations of software that are sold by Amazon Web Services in the form of warning cards amid concerns about AI"
+    publishedDateTime: 2022-11-30T16:34:00Z
+    webUrl: "https://seekingalpha.com/news/3912598-amazon-will-tell-customers-about-limitations-of-ai-software-sold-by-aws-report"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 50
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1174936490/image_1174936490.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
   - title: "How AI speech technology is helping NHS organisations stay on top of documentation"
     excerpt: "THE ARTICLES ON THESE PAGES ARE PRODUCED BY BUSINESS REPORTER, WHICH TAKES SOLE RESPONSIBILITY FOR THE CONTENTS"
     publishedDateTime: 2022-11-30T08:14:00Z

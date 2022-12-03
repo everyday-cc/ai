@@ -68,22 +68,6 @@ related:
         width: 837
         height: 440
         isCached: true
-  - title: "Informatica strengthens AWS support, announces new features at AWS re:invent"
-    excerpt: "Informatica today announced new capabilities on AWS, further simplifying data management and analysis for enterprise users."
-    publishedDateTime: 2022-11-28T18:57:00Z
-    webUrl: "https://venturebeat.com/data-infrastructure/informatica-strengthens-aws-support/"
-    ampWebUrl: "https://venturebeat.com/data-infrastructure/informatica-strengthens-aws-support/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/informatica-strengthens-aws-support/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/04/aws-conference.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "AWS Introduces a Flurry of New EC2 Instances at re:Invent"
     excerpt: "AWS has announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by AWS-designed chips, as well as several new Intel-powered"
     publishedDateTime: 2022-11-30T02:30:00Z

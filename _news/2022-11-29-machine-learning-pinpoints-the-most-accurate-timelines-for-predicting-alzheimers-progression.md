@@ -57,15 +57,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Machine learning gives nuanced view of Alzheimer’s stages"
-    excerpt: "A Cornell-led collaboration used machine learning to pinpoint the most accurate means, and timelines, for anticipating the advancement of Alzheimer’s disease in people who are either cognitively normal or experiencing mild cognitive impairment."
-    publishedDateTime: 2022-11-28T17:42:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/972568"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
 
 secured: "p18/CUpsllmmrcrpyfg6xDZ6AD60JczsBGNOswyJJqt00s0NGPP2Sr3n44nKhDVrsVfRZFZ2o+PnnWyn0WQCbRU9gtfzmjq6PMX82n2+clYyhn1P3JH5SFPChKY5ASd9XU/ZQlxf4Dx2J9YbVSUg4fNwCKPSUV8btBOPvW8MBrtZsSZktst57Tn9YBIUdtt5HlmqIGLO2RvDmZpzhoTq7bRhgUG69ME38DiQ86q5ZHnobYido3zBzpkULYJ8T2Ez7zMrjBCtBJcE75lYhNI72Z8bMNXYZEykcfEVVX/ki801nJOfwRTy5MHH2P5kMpcnBUP+EnPC3OLrRsubM6S7bptlnBMsQctyXqj2Oo6V+2o1UfSN9vaUrUvshPkvlS8GTDe05STRem9XUjpA6zs8JIvivnx2a40ra0vTnSNpWzBJnSWv0/h0TyeutOEpuxqsio0pnoRh8hkZjEa0QsYcwoAIis68d5rNc+kXYbsbM1lItl4oi1g8aFecRHxC8lC1KfVLp8aHdOl4E1Twl9fDhQ==;MlDMJzJA3u83pAETNOgVkw=="
 ---

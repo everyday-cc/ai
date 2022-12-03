@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/aws-unveils-new-ai-s
 webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-unveils-new-ai-service-features-and-enhancements-at-reinvent-2022/"
 type: article
 quality: 104
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/12/VB_BMW_AWS_reinvent_120223.png?w=1200&strip=all"
         width: 837
         height: 440
-        isCached: true
-  - title: "Informatica strengthens AWS support, announces new features at AWS re:invent"
-    excerpt: "Informatica today announced new capabilities on AWS, further simplifying data management and analysis for enterprise users."
-    publishedDateTime: 2022-11-28T18:57:00Z
-    webUrl: "https://venturebeat.com/data-infrastructure/informatica-strengthens-aws-support/"
-    ampWebUrl: "https://venturebeat.com/data-infrastructure/informatica-strengthens-aws-support/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/informatica-strengthens-aws-support/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/04/aws-conference.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
         isCached: true
   - title: "AWS re:Invent 2022 roundup: Data management, AI, compute take center stage"
     excerpt: "Invent conference, AWS launched new services and features across its storage, compute, analytics, machine learning, database, and security services, and made a foray into supply chain management."
