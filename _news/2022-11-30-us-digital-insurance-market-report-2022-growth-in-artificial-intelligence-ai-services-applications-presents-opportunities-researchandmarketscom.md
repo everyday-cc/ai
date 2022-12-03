@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How Deep Learning Has Proved to Be Useful for Cyber Security"
+    excerpt: "The threat of cyber attacks has recently increased dramatically and traditional measures now appear to be insufficiently competent."
+    publishedDateTime: 2022-11-29T18:16:00Z
+    webUrl: "https://www.bbntimes.com/technology/how-deep-learning-has-proved-to-be-useful-for-cyber-security"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 36
   - title: "Global Machine Learning as a Service Market Report 2022 to 2028: Players Include Oracle, Google, Amazon Web Services and IBM - ResearchAndMarkets.com"
     excerpt: "The \"Global Machine Learning as a Service Market Size, Share & Industry Trends Analysis Report By End User, By Offering, By Organization Size, By Application, By Regional Outlook and Forecast, 2022 - 2028\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2022-12-01T12:56:00Z

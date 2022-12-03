@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-03T13:00:00Z
 originalUrl: "https://seekingalpha.com/article/4562125-ambarella-ai-chip-technology-strong-electric-vehicle-environment"
 webUrl: "https://seekingalpha.com/article/4562125-ambarella-ai-chip-technology-strong-electric-vehicle-environment"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Seeking Alpha

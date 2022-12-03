@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-03T11:59:00Z
 originalUrl: "https://seekingalpha.com/article/4562161-investing-in-robotics-why-now-could-be-the-right-time"
 webUrl: "https://seekingalpha.com/article/4562161-investing-in-robotics-why-now-could-be-the-right-time"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Seeking Alpha

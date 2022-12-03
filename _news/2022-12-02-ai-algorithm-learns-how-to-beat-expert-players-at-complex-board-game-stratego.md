@@ -96,6 +96,15 @@ related:
       name: Nature
       domain: nature.com
     quality: 34
+  - title: "DeepMind spin-off steps up effort to use AI to create new drugs"
+    excerpt: "We use cookies and other data for a number of reasons, such as keeping FT Sites reliable and secure,         personalising content and ads, providing social media features and to         analyse how our Sites are used."
+    publishedDateTime: 2022-12-03T15:00:00Z
+    webUrl: "https://www.ft.com/content/92ea2434-8d91-49e3-807d-3e425689e749"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
 
 secured: "wYruw3P//8Tu2VEnHSGLLe3GjXAKvG02mFLAv65mxeWzS72A6+fi989ypIGzC9rhwUaJMzH/68YVj2pxHUTX34xjpAK7VbJps9wFM5yJ2L9dZvqeVAAadnfZgzk3g7+sWen9Dr/D5MjB+vsx0EJcuS+fj9oXvbkhTx7CAXKlnMclSBFstkDFIu+S3DNkK4KgadUaBRzYk6i8Alp9NlCS4Xi21SAAVZW8x+UfPaRPURlGJqTVH27rRCLFb2RHiIJg6p8G9lU8gnB9wqo7DltAybX9Guma6eemjzpdqRXv1EU3sfPi93m0hZgJRvp/88GVy4I3MebK6VXAGfcF6EaxBTsQYqUXM7D8b+q8rhMPueSdwilxZKDW3wt52B8kNGVdNFGNAlyS9TQcoANi4VCd79v6mf0ZPlnwKAlsZ7qnPvE4sA6sfNJpOBaRQKNUY31zAGfJ1bUy7LAMYIYfGGIlgp7ahgdJh8gg65e+DvMaX46BzoEJ47FRgK02JFOlmgcuyB6EEmhLTWdqw31+ccMiDA==;Qh42dLFpkfVtWo89VuNafg=="
 ---

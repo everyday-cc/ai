@@ -35,15 +35,6 @@ related:
         width: 396
         height: 263
         isCached: true
-  - title: "Machine learning model builds on imaging methods to better detect ovarian lesions"
-    excerpt: "New research yields a novel method to use ultrasound to enhance machine learning's ability to accurately diagnose -- or rule out -- ovarian cancer."
-    publishedDateTime: 2022-11-29T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/11/221129134412.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 44
 
 secured: "MhJ7cB6+b4jOAk145gpdAMHskGFMTbsdL4TmKLTey4LdqQj4DZHSsMuCZztaNFnEO1qiObhfvkQhkKnPxcEZ1/Re7bP1LTRIvR1SL4q1lhgKVSErQuJ5hTYVp1HMJFy+7pWQqpciP/Y3kgYW2COI1xvJp2LgQKMt1yu8MMxfCQ/HpBl93oS4n7RisQXHEhGLnvuiMRC/n42KP9VdyhEgTmP7BpJdniAcGqiOELeCxNTQWGiGeZYz9K+L6oWvL6G8iVSDu8S+io2ZqIKBIb1MNOM/N9dZIxsvKeIZ+rB/XBsywKSwhRhTldjKVf0wXPxCBfUWsGlcq+Mz3+0f59j4dp9OA76CmCRoadA4zYvP3bgTYaNmTt7ZuklMNNfaZMj5msnG5wk7HxMNntUrO6SGM/C6XNw8bLCiLLGF4jGort4miyDgVF/fjwEnTSkRVLNgSxue/ZYkVRJIuljsgZEExkq8L7YjUo2u1tS1rauToNxiFpBsxCagMNCFMIx08dW/cSXsSZHYEE8dXLFwJv1FHA==;I6DnDe5AN/cI3NdwSRPp0A=="
 ---

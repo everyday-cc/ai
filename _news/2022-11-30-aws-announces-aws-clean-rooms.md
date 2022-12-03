@@ -33,6 +33,15 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "AWS launches new cybersecurity service Amazon Security Lake"
+    excerpt: "The service automatically centralizes security data from cloud and on-premises sources into a purpose-built data lake in a customer’s AWS account."
+    publishedDateTime: 2022-11-30T14:12:00Z
+    webUrl: "https://www.csoonline.com/article/3681082/aws-launches-new-cybersecurity-service-amazon-security-lake.html"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 36
   - title: "AWS previews Security Lake to centralize security data management"
     excerpt: "AWS re:Invent that automatically centralizes an organization’s security data from cloud and on-premises sources into a data lake in order to ease security data management. The new service, called Amazon Security Lake,"
     publishedDateTime: 2022-11-29T19:52:00Z

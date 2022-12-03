@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-03T00:40:00Z
 originalUrl: "https://www.portlandmercury.com/good-afternoon-news/2022/12/02/46223720/good-afternoon-news-takeoff-was-an-innocent-bystander-portland-resignation-tea-and-seal-facial-recognition"
 webUrl: "https://www.portlandmercury.com/good-afternoon-news/2022/12/02/46223720/good-afternoon-news-takeoff-was-an-innocent-bystander-portland-resignation-tea-and-seal-facial-recognition"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Portland Mercury

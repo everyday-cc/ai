@@ -207,6 +207,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-29-enzyme-drives-cognitive-decline-in-mice-provides-new-target-for-alzheimers.md",
+      "title": "Enzyme drives cognitive decline in mice, provides new target for Alzheimer's",
+      "excerpt": "In a new study, researchers at University of California San Diego School of Medicine found that the subtle increase in PKCα was sufficient to produce biochemical, cellular and cognitive ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-11-enzyme-cognitive-decline-mice-alzheimer.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-11-enzyme-cognitive-decline-mice-alzheimer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/enzyme-drives-cognitiv-1.jpg",
+          "width": 650,
+          "height": 407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-11-enzyme-cognitive-decline-mice-alzheimer.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-enzyme-cognitive-decline-mice-alzheimer.amp",
+      "publishedDateTime": "2022-11-28T11:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-28-qatar-university-research-finds-tea-consumption-improves-cognitive-function.md",
       "title": "Qatar University research finds tea consumption improves cognitive function",
       "excerpt": "Dementia is known to affect the quality of life, while cognition-related disorders such as mild cognitive impairment and Alzheimer’s disease are gradually increasing and becoming a global burden.",
@@ -1330,49 +1373,6 @@
       "provider": {
         "name": "WebMD",
         "domain": "webmd.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-senior-suffering-cognitive-decline-surrenders-72-dogs-in-cabazon.md",
-      "title": "Senior Suffering Cognitive Decline Surrenders 72 Dogs in Cabazon",
-      "excerpt": "A Cabazon senior suffering cognitive decline surrendered more than 70 canines to the Riverside County Department of Animal Services Wednesday. A Cabazon senior suffering cognitive decline ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcsandiego.com/news/national-international/senior-suffering-cognitive-decline-surrenders-72-canines-in-cabazon/3101459/",
-      "originalUrl": "https://www.nbcsandiego.com/news/national-international/senior-suffering-cognitive-decline-surrenders-72-canines-in-cabazon/3101459/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcsandiego.com/2022/11/uss-momsen-uss-harpers-ferry-close-call.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T08:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC 7 San Diego",
-        "domain": "nbcsandiego.com",
         "images": null,
         "publishers": null,
         "authors": null

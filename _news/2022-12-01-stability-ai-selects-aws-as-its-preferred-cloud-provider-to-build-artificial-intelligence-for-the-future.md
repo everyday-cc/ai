@@ -100,14 +100,14 @@ related:
   - title: "Cognigy Achieves AWS Conversational AI Competency Distinction"
     excerpt: "Cognigy announced today that it has achieved the Amazon Web Services (AWS) Conversational AI Competency distinction. This designation recognizes Cognigy for its expertise in developing high quality, highly effective chatbot,"
     publishedDateTime: 2022-11-30T23:02:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/cognigy-achieves-aws-conversational-ai-competency-distinction/article_dbce5c2e-f6f6-5db5-b985-a6474db145fb.html"
+    webUrl: "https://www.eagletribune.com/region/cognigy-achieves-aws-conversational-ai-competency-distinction/article_20572837-15de-5125-9274-d22df717824d.html"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
+      name: Eagle-Tribune
+      domain: eagletribune.com
     quality: 54
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/b/cd/bcd8e46f-8afc-5e30-a902-a30e0ba13f8d/6387f05565553.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/0/84/08448548-6267-59fd-ae33-9116f4851a9a/6387ef8c3dd5d.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true
@@ -187,13 +187,13 @@ related:
       domain: tmcnet.com
     quality: 34
   - title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
-    excerpt: "Hpc7g instances featuring new AWS Graviton3E chips deliver the best price performance for HPC workloads on Amazon EC2 C7gn instances featuring new AWS Nitro Cards with enhanced networking offer the hi"
-    publishedDateTime: 2022-11-29T17:25:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/b29893848/aws-announces-three-amazon-ec2-instances-powered-by-new-aws-designed-chips"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
+    publishedDateTime: 2022-11-29T20:15:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 17
 
 secured: "xWOyOXVko5GFDLOZMkIE54VMr8HHbabf7DUby+Y5cmW5325kGn1sxTup7qIRxw7R2JDcuHxdadAl0zc0GHtylfAJmOh1mrCoRjOw/KrXGFQf5mkhrVE9t6SZK5ZP0uWBfsPoUiXUFJmynJ4Q3bRaUv58/tmCwWrUgdHTcsfHMIPwEpsCwWdg0PcoRvl5MSdslxt2glSGq+sxuM75cP7aEkS3FdqzToS+yeY3UZR/sOcqLhlx6H8grnM/tnmzPwn0PjYlyO6vC88CzmgkA7TQgpf9SbtaGNKPYG9psd0iAoBibptsgrAgcF0+4AxAce/tTR6AYkSi2FedmB4/uKOwEFkiPrQDWE6TqhEb6Rzner0=;pdM2zQAJRiesj8J/IockGg=="

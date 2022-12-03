@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Uber, Aurora to expand self-driving truck ops in Texas to meet holiday rush"
+    excerpt: "Dec 2 (Reuters) - Uber Technologies Inc (UBER.N) and self-driving technology company Aurora Innovation Inc (AUR.O) will expand their driverless pilot program in Texas to meet increased delivery demand during the holidays."
+    publishedDateTime: 2022-12-02T18:26:00Z
+    webUrl: "https://www.reuters.com/technology/uber-aurora-expand-self-driving-truck-ops-texas-meet-holiday-rush-2022-12-02/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 52
+    images:
+      - url: "https://www.reuters.com/resizer/bycTGC7xoLTOv8iJfBcfS-KEdxU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2WFPB4POLFLXNKTQAM3L4MWT4U.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Uber Freight, Aurora Expand Texas Self-Driving Pilot with Veritiv"
     excerpt: "The pilot provides critical first-hand learnings around autonomous truck deployment — creating a blueprint for how the Aurora Driver will be integrated and safely deployed and scaled across the Uber Freight network."
     publishedDateTime: 2022-12-02T14:11:00Z

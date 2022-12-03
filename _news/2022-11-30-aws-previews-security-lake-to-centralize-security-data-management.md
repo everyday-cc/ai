@@ -34,6 +34,15 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "AWS launches new cybersecurity service Amazon Security Lake"
+    excerpt: "The service automatically centralizes security data from cloud and on-premises sources into a purpose-built data lake in a customer’s AWS account."
+    publishedDateTime: 2022-11-30T14:12:00Z
+    webUrl: "https://www.csoonline.com/article/3681082/aws-launches-new-cybersecurity-service-amazon-security-lake.html"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 36
   - title: "AWS Announces AWS Clean Rooms"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), today announced AWS Clean Rooms, a new analytics service that helps companies across industries easily and securely analyze and collaborate on their combined datasets—without sharing or revealing underlying data."
     publishedDateTime: 2022-11-29T17:27:00Z

@@ -167,6 +167,15 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 19
+  - title: "San Francisco approved killer police robots. Will other California departments follow?"
+    excerpt: "Dallas Morning News file The San Francisco Police Department was given the authorization to use remote-controlled robots for potentially deadly force after a heated debate over civil liberties and warnings about the continued militarization of police."
+    publishedDateTime: 2022-12-03T12:00:00Z
+    webUrl: "https://www.sacbee.com/news/local/article269431527.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 11
 
 secured: "y4M66vnjFU/5J1JLP5xbxnmArDYpeKTIpw8YAJdK+T3XPZmmc/YlYtllmhRsdK6VDwT5VGxM7Nw/tZ3qN8+QlLOpwkDhNb1+RDjBD9wsiVgB0ljRWmz077CBHBrqOlX2EK6crHqDl/NCCDiiwopRxNXn9d3n7LtUX0tZvTolzpAeufYwgoCm1HEroh2ea7cgtvCfKnlbfn4IKTGdXWhnc+P2/X8Pbi13s6u2TOrAlJaHiNWHEBCKLWjkQhneBcBXprFkl56621inxXS+tMYTElZ/BiSc5FOR5l4GigACQOLvGdHKhIkwz6blF0ouOJXxbi2aTrIrZjCZ3zaRQWP1kx5Sl3QZ7h8kb/IHP47mueU=;WXvfiSYxQRXgyzx3C5X4RQ=="
 ---

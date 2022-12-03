@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna59322"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna59322"
 type: article
 quality: 89
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -167,6 +167,15 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 19
+  - title: "San Francisco approved killer police robots. Will other California departments follow?"
+    excerpt: "Dallas Morning News file The San Francisco Police Department was given the authorization to use remote-controlled robots for potentially deadly force after a heated debate over civil liberties and warnings about the continued militarization of police."
+    publishedDateTime: 2022-12-03T12:00:00Z
+    webUrl: "https://www.sacbee.com/news/local/article269431527.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 11
 
 secured: "3yc3ZeSSlS57YC6z3wJGuumiQ+NdN1mUfrG0A2gKGv4YxAaxnMe8ltWEL7wHY4HZ4NNkVCXLNI0MdBUcKdxXIx6sn9zstmozIMcJctFqkp7m4jMRNnr4uapeERvCwdf+ghmIsRN5u9qfO6E4RS+k/ewQyiCGiRwKQPGm7arvaMheuOA31XUiWYFlOBcYCpKsFtLaqfAJysb1ALdB6urQxBVD62c+JRT6QLbRWWDbAunhrXzpoEqxB/8IBwGmwM4dFSSmevhrBMpwGpqgTUouvHy9PmbJfulM2pfB9rHXTJ7Yjtn09xE2/Avps06X6EsN9eEUOJ5PEPsu6Pj3Gn5pCVk6Hiwmix3JGkpek8AfdFw=;J5FDO6wx0VvkNo2G5PacgQ=="
 ---

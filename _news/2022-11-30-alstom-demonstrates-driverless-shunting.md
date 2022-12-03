@@ -43,19 +43,17 @@ related:
         isCached: true
   - title: "Baidu Announces Plan to Build the World's Largest Fully Driverless Ride-Hailing Service Area in 2023"
     excerpt: "Baidu plans to establish the world's largest fully driverless ride-hailing service ... Closed-loop data system to further enhance the intelligence of autonomous driving With autonomous vehicles ..."
-    publishedDateTime: 2022-11-29T06:20:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29881903/baidu-announces-plan-to-build-the-worlds-largest-fully-driverless-ride-hailing-service-area-in-202"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29881903"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29881903"
+    publishedDateTime: 2022-11-29T06:31:00Z
+    webUrl: "https://www.ksn.com/business/press-releases/cision/20221129CN49158/baidu-announces-plan-to-build-the-worlds-largest-fully-driverless-ride-hailing-service-area-in-2023/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
+      name: ksn.com
+      domain: ksn.com
+    quality: 39
     images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
-        width: 800
-        height: 313
+      - url: "https://i0.wp.com/www.ksn.com/wp-content/uploads/sites/13/2022/12/vlcsnap-2022-12-02-22h03m47s629.png?w=2000&#038;ssl=1"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "China's Baidu Plans to Rollout the World's Largest Fully Autonomous Ride-Hailing Service by Next Year"
     excerpt: "China's internet technology giant Baidu Inc. held its “Apollo Day” live-streamed technology event on Monday where the company shared its latest progress on autonomous driving. Among the announcements at Apollo Day were Baidu’s plans to launch the world's largest fully-autonomous ride-hailing service aptly named “Apollo Go” by next year and become the world’s biggest robotaxi operator."

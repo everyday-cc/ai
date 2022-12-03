@@ -20,61 +20,38 @@ topics:
   - AI in Security
 
 related:
-  - title: "Where CISOs rely on AI and machine learning to strengthen cybersecurity"
-    excerpt: "However, artificial intelligence (AI) and machine learning (ML) are proving effective in strengthening cybersecurity by scaling data analysis volume while increasing response speeds and securing digital transformation projects under construction. “"
-    publishedDateTime: 2022-11-28T22:40:00Z
-    webUrl: "https://venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/"
-    ampWebUrl: "https://venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/amp/"
+  - title: "Artificial Intelligence (AI) in Cyber Security Market : Research Report Provides an In-Depth Insight of Trends 2022 To 2028"
+    excerpt: "\"Artificial Intelligence (AI) in Cyber Security Market\" Insights 2022 - By Applications (BFSI, Government, IT and Telecom, Healthcare, Aerospace and Defense, Other), By Types (Mac"
+    publishedDateTime: 2022-11-29T02:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2028-2022-11-28"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 112
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1401124210-Thinkhubstudio-e1669658425465.jpg?w=1200&strip=all"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 606
+        height: 630
         isCached: true
-  - title: "Artificial intelligence, machine learning will strengthen firms’ IT security: Report"
-    excerpt: "The company has been receiving many enquiries about cyber security, said Shailesh Davey, Co-Founder and Vice President of Engineering at Zoho."
-    publishedDateTime: 2022-12-02T01:43:00Z
-    webUrl: "https://www.newindianexpress.com/business/2022/dec/02/artificial-intelligence-machine-learning-will-strengthen-firms-it-security-report-2524302.html"
-    ampWebUrl: "https://www.newindianexpress.com/business/2022/dec/02/artificial-intelligence-machine-learning-will-strengthen-firms-it-security-report-2524302.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2022/dec/02/artificial-intelligence-machine-learning-will-strengthen-firms-it-security-report-2524302.amp"
+  - title: "Global Machine Learning as a Service Market Report 2022 to 2028: Players Include Oracle, Google, Amazon Web Services and IBM - ResearchAndMarkets.com"
+    excerpt: "The \"Global Machine Learning as a Service Market Size, Share & Industry Trends Analysis Report By End User, By Offering, By Organization Size, By Application, By Regional Outlook and Forecast, 2022 - 2028\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2022-12-01T12:56:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-12-1-global-machine-learning-as-a-service-market-report-2022-to-2028-players-include-oracle-google-amazon-web-services-and-ibm-researchandmarketscom"
     type: article
     provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 84
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/9/9/w600X390/The_Risks_an.jpg"
-        width: 600
-        height: 390
-        isCached: true
-  - title: "AI enhanced cybersecurity services firm takes AIM on next chapter"
-    excerpt: "A Cork-based provider of AI enhanced cybersecurity services is to seek admission of its shares to trading on AIM, a market of the London Stock Exchange."
-    publishedDateTime: 2022-12-01T08:44:00Z
-    webUrl: "https://www.insidermedia.com/news/ireland/ai-enhanced-cybersecurity-services-firm-takes-aim-on-next-chapter"
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 1
+  - title: "US Digital Insurance Market Report 2022: Growth in Artificial Intelligence (AI) Services Applications Presents Opportunities - ResearchAndMarkets.com"
+    excerpt: "The U.S. digital insurance market revenues are forecasted to reach US$27.72 billion in 2026, growing at a CAGR of 20.70%, for the period spanning 2022-2026. Factors such as rapid urbanization, growing smartphone users,"
+    publishedDateTime: 2022-11-30T09:42:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/11/30/9721584.htm"
     type: article
     provider:
-      name: Insider
-      domain: insidermedia.com
-    quality: 39
-    images:
-      - url: "https://www.insidermedia.com/uploads/news/resized/Stock_exchange-49913-1634028012-58353-1644911410-72931-1662533995-77189-1667894119-%281%29-78839-1669881083.jpg"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "AWS launches new cybersecurity service Amazon Security Lake"
-    excerpt: "The service automatically centralizes security data from cloud and on-premises sources into a purpose-built data lake in a customer’s AWS account."
-    publishedDateTime: 2022-11-30T14:12:00Z
-    webUrl: "https://www.csoonline.com/article/3681082/aws-launches-new-cybersecurity-service-amazon-security-lake.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 36
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "Se1jLm1aBMdUi9WHIw3ITUS26uQT9IQ8CQAf2cFQXn3f/0E4wXa6w2StTmYuoW+nsKv0u1QJrVJZ/h+HYzMhoAcHRI8b9RUaLPFFeksjExW6/cTLnl7jfQGxdQmxgZRqBVHZ8GdECvxgsHeURqGUMaq72bRMWIHBQGPlN4e/08bt3AzDUQ/wBki7A0Q/KB6tm0WusjukXXKEv6ezkVl/6onPiNYA8e8Nfb5O3XppbNHCoaXJSWmHr6megv80cdGo3kgD+W6Bot+xJXvmngcVbk/QLQ7Hb8FRUbeXvKKHEwGvxbE8frVH4KHOHio6pAvhDkRCY8D0gYxn2V36nHnrIk9mbAR3CmEA0+1cFuvvWQtjAUCUwr/lZrewtiLlyhim7rUS86lGv/XO2L+hbcq+Oj8Q9Cs5jvdaJwHpuau4m6OuLcN0+N5o55wcsdgXmM277NUbFyXv5HSKw/Yt2PGg0NR1jjwExvkDAZEcgnG+KHnotyUuGdXb8/p4o1T5WCv+R2VHRwA1Nrq41+XEfKWzWw==;oa9DYLdebZkATNx32eM3AQ=="
 ---

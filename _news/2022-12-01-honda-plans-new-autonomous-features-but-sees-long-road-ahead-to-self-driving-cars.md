@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/honda-plans-new-autonomous-features-b
 webUrl: "https://www.wsj.com/articles/honda-plans-new-autonomous-features-but-sees-long-road-ahead-to-self-driving-cars-11669820402?mod=business_lead_pos13"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Honda Plans New Autonomous Features but Sees Long Road Ahead to Self-Driving Cars"
-    excerpt: "The auto maker said it would focus for now on partially autonomous driving technology to improve safety, joining others that say fully self-driving cars aren’t ready for prime time."
-    publishedDateTime: 2022-11-30T14:19:00Z
-    webUrl: "https://www.wsj.com/articles/honda-plans-new-autonomous-features-but-sees-long-road-ahead-to-self-driving-cars-11669820402"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 49
-    images:
-      - url: "https://images.wsj.net/im-676004/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Honda to develop advanced level 3 self-driving technology by late 2020s"
     excerpt: "Honda said it would develop technology enabling its level 3 self-driving capability to function at any speed below legal limits on highways by the second half of the 2020s as it strives to eliminate traffic deaths involving its vehicles."
     publishedDateTime: 2022-11-30T15:36:00Z
@@ -105,6 +91,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Honda Plans New Autonomous Features but Sees Long Road Ahead to Self-Driving Cars"
+    excerpt: "The auto maker said it would focus for now on partially autonomous driving technology to improve safety, joining others that say fully self-driving cars aren’t ready for prime time."
+    publishedDateTime: 2022-11-30T14:19:00Z
+    webUrl: "https://www.wsj.com/articles/honda-plans-new-autonomous-features-but-sees-long-road-ahead-to-self-driving-cars-11669820402?mod=latest_headlines"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 29
 
 secured: "G9gS8rsDkmUcnnXVRgsfCnhptEjXTXjeIcmiUUQSUEzraKXqITW2Y29wLOFcypppHL1tZepV88tuamy6FWznK2MyvDyf+IOlcgUReIpFh5K8ocIna/Ogn7U+cxkiEEyBrjOzi6pUKKLWGS92mFAIwXNRwtj4pRvL1NS3v0mrx6re/4D73WbaLpvF30eprxYy2eekvgZ1x8ZsFt8Nhcc2S+aaITui/35+7al45JkEg0akYXNKWNT6T0yOgWr8rMjHe87GxbxxfQ6gx4IpXPnLYm9d/osHcZck1sjKyfB0qMdB3ZMrfpkL7pybwV5rTPcNQS1qF3BhtgiIAtuvp/RbNCTzsL65xYukU9wJGDt6r3JTxRVP8qwQT7SaW1am7l2TO3bXWX7H+aUtRZ2SgVARIUR03ONvz3RiESIrIQgvK1wqjSfUWWea30JzDl5vcRMZHWRPBWdJNFCqwc/YEcXxb4WttTbuJoylBs29SFjrsYKqd4KPWbICb96eIcdfchdl8ENn+1QNXx4V+2HNgPz/Aw==;9T/r6bPMa/LUZeNyWaP5kw=="
 ---

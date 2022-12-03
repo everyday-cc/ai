@@ -1,28 +1,22 @@
 ---
 category: news
-title: "DeepMind debuts new AI system capable of playing ‘Stratego’"
-excerpt: "Alphabet Inc.’s DeepMind unit has developed a new artificial intelligence system capable of playing “Stratego,” a board game considered more complex than chess and Go. DeepMind detailed the AI system,"
-publishedDateTime: 2022-12-02T21:09:00Z
-originalUrl: "https://siliconangle.com/2022/12/02/deepmind-debuts-new-ai-system-capable-playing-stratego/"
-webUrl: "https://siliconangle.com/2022/12/02/deepmind-debuts-new-ai-system-capable-playing-stratego/"
+title: "DeepMind spin-off steps up effort to use AI to create new drugs"
+excerpt: "We use cookies and other data for a number of reasons, such as keeping FT Sites reliable and secure,         personalising content and ads, providing social media features and to         analyse how our Sites are used."
+publishedDateTime: 2022-12-03T15:00:00Z
+originalUrl: "https://www.ft.com/content/92ea2434-8d91-49e3-807d-3e425689e749"
+webUrl: "https://www.ft.com/content/92ea2434-8d91-49e3-807d-3e425689e749"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: The Financial Times
+  domain: ft.com
 
 topics:
-  - Google AI
   - AI
-
-images:
-  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/6388ce129963208649083b0e_Stratego_header_02_hd-p-1600.png"
-    width: 1600
-    height: 900
-    isCached: true
+  - Google AI
 
 related:
   - title: "DeepMind's New AI Uses Game Theory to Trounce Humans in 'Stratego'"
@@ -87,6 +81,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "DeepMind debuts new AI system capable of playing ‘Stratego’"
+    excerpt: "Alphabet Inc.’s DeepMind unit has developed a new artificial intelligence system capable of playing “Stratego,” a board game considered more complex than chess and Go. DeepMind detailed the AI system,"
+    publishedDateTime: 2022-12-02T21:09:00Z
+    webUrl: "https://siliconangle.com/2022/12/02/deepmind-debuts-new-ai-system-capable-playing-stratego/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/6388ce129963208649083b0e_Stratego_header_02_hd-p-1600.png"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "DeepMind AI topples experts at complex game Stratego"
     excerpt: "An AI called DeepNash, made by London-based company DeepMind, has matched expert humans at Stratego, a board game that requires long-term strategic thinking in the face of imperfect information. “The rate at which qualitatively different game features ..."
     publishedDateTime: 2022-12-01T19:17:00Z
@@ -96,16 +104,7 @@ related:
       name: Nature
       domain: nature.com
     quality: 34
-  - title: "DeepMind spin-off steps up effort to use AI to create new drugs"
-    excerpt: "We use cookies and other data for a number of reasons, such as keeping FT Sites reliable and secure,         personalising content and ads, providing social media features and to         analyse how our Sites are used."
-    publishedDateTime: 2022-12-03T15:00:00Z
-    webUrl: "https://www.ft.com/content/92ea2434-8d91-49e3-807d-3e425689e749"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
 
-secured: "sA0uZekiN7k8ROlEYgZseTl5pNUKHq0onItEs7hV2eErRagdeqMdQMLlNmANZUguUdEp9BdR7OKu8PADosEA3P/nHH0mMCSp2x2ID9bvUAMIV2Q7mceUWicv5lNqoDUoVYZM2lRHHvfScYu/57qjn3+1YtqPADinS5CqyhE9kjbslaw2l6NyRrmMRwnQbEFeHa1C4m7VliP7OygMMgJffmh9CyuCeZAxITOlFAcQVNTgEH63qUQKVyf8QWhoUUdytLoKs8s++hqRukrHgmQcrDRWVXkM37pe++U+gYp7srYscrF8w6wo7ov7IjHL7S665MPD13ate2L1v8Hhzetwav0D51JmqEv1DJ6BDy2tFkCFdC+vuN8+vm407el8fmukGqMfsExT4IhnA+v3IUAGzxsFZ109pnoqt2R6zWlTXQo2c6aMLs/CTsQQ/xucdyOQ5ng3tMpVnIHLOnvZbkXlYw+r3lrbRQ+oh6DF4jD8ULgo4sRoBc8i4dFzxmXGtlvR4WfR+0UnpLIhljRDUKIO+w==;NItfdiepC+mgQaj+CRRV9Q=="
+secured: "AdGxKTivKqMwyVYOJNhlZnXLY9S1Xh8IYdAL1YXJO11v/pDU85zHmggUaKIfBTVZ0cQboqMSexVi0SlBxaqkSZ/JgaSJhlck5TvTinxl1JfZJKovjeKS9XwMWQo/nNb94y+or4rNcA97nK/n2VRpzT9bw7oBalGyfyugsrfue0wXi5fF1r1ikvp1445typgiynXMlRyYZPx8LPBfnelTWbm6HauZiX8nsCcekM5fudrWdOMijH60LlqpiYFSVLl8z5oDmqWYkLuTIjromIKugj53VWNdS0lSM+AAVx+T1vbaFouRTamZXqqC+56gpc6b70XzAS8VjL7o95ln2P+yCRmdiy3HFvcER72u6YRTCIajcMGfhtY+qdNvYqmm07TP9dDMg7ezt9132ZiA5vDvBzwfp7cOA7hErLMb7aOtc212sgrPtqgH/vj/nk1fsMehcO6ghf+DFWvnmtPnbCaVjWwA+Cdc0SQxz3vfl2Ur81EVV3p0/edsjs9EiOqTZVrV9QY8TU5/g2y1wjyp0y24bg==;WM4kMAeGS79fML0vGF/AFA=="
 ---
 

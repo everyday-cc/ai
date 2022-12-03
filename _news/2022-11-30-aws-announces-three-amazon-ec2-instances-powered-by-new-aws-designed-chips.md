@@ -1,18 +1,18 @@
 ---
 category: news
 title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
-excerpt: "Hpc7g instances featuring new AWS Graviton3E chips deliver the best price performance for HPC workloads on Amazon EC2 C7gn instances featuring new AWS Nitro Cards with enhanced networking offer the hi"
-publishedDateTime: 2022-11-29T17:25:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/b29893848/aws-announces-three-amazon-ec2-instances-powered-by-new-aws-designed-chips"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/b29893848/aws-announces-three-amazon-ec2-instances-powered-by-new-aws-designed-chips"
+excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
+publishedDateTime: 2022-11-29T20:15:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
+webUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
@@ -100,14 +100,14 @@ related:
   - title: "Cognigy Achieves AWS Conversational AI Competency Distinction"
     excerpt: "Cognigy announced today that it has achieved the Amazon Web Services (AWS) Conversational AI Competency distinction. This designation recognizes Cognigy for its expertise in developing high quality, highly effective chatbot,"
     publishedDateTime: 2022-11-30T23:02:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/cognigy-achieves-aws-conversational-ai-competency-distinction/article_dbce5c2e-f6f6-5db5-b985-a6474db145fb.html"
+    webUrl: "https://www.eagletribune.com/region/cognigy-achieves-aws-conversational-ai-competency-distinction/article_20572837-15de-5125-9274-d22df717824d.html"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
+      name: Eagle-Tribune
+      domain: eagletribune.com
     quality: 54
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/b/cd/bcd8e46f-8afc-5e30-a902-a30e0ba13f8d/6387f05565553.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/0/84/08448548-6267-59fd-ae33-9116f4851a9a/6387ef8c3dd5d.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true
@@ -196,6 +196,6 @@ related:
       domain: buffalonews.com
     quality: 32
 
-secured: "KTsMdT0evckVaH7/rnLuz4m9CiLMsX3YsStS0RyuRase0uaMAUsPK55gVXC4AtG8lxQ4XtkHeLCShpMQbS1n/Nr0+7XjmHdz8jfqGOMFQsYc3VP8QaZueah+v+9ixeRro1HZ9YuDifK0jdY6xUhr3WX6peOX28Za/YsM/0IYsCyi2u9nIaqH/n6v/sn/bg2/szOEg7oTE5kwLcPzEJTaeWqXyz73bN33X9Mxkf66n2/dMUR998wD4KCMsRLgTT1/lJINH+MUKOira8uRY8tzcsu26+nal5xzS/4JhH5xvnWHwedhqmglShJEJVLx4VcJld8R4SmYPQd+i9XARm5YoNI4M1d9T23fTnL56evnAnjMxonguJ52zesPNSjHGXpQtcUP31Eh/WdPWeF6djsRwvXZGhC8T5qvXK+rsrRNN0OnAH0J/SbGsy0Cu7XG6v/h5W/1/VeV+e4aZW7S9EuUdTJ412MrGD/L8Yeh3gVVCwIZ+WzAvXBQrDl2WH5HRTfG8QGBdmSqchjnfv8BAWhLHQ==;2VqTE64eNZ6/uW238ovq4w=="
+secured: "/+/2OKkzyZPiulq8gjySMuC1L1gIqzTNu8fXCTc67U5WEnmhX9NutyqY3xdvxycgys5WU952viVmuzW5xvljsSCa/TQF5prymEkXwTjq/Hnvoaufo/IfxBCn6GHSgYuTFlG9cm04Z8u+2ZzAiYxLPpscij6f1Wf336BL6ZudShgK4GS2ZHaukWX5HA0LX1wbH8U8dZADzBs3QjffIzDUdE2n3rSYfeCxXoWC0V5geDC9xWgJmwilCiT5TGmtsxXGW2kSOq6RpNFhvm3AxMtSj9TbqfeN9VVCEqOLjPhj/d2RCorbusvrSbFg6+sZbCq+8Jp9kew9s0Weqw+8vdNGmnzxMtgBLbskQLUZLFB4OusTdPqT+oKyt6kZZHxSMbggHtE3Mv41AV7LvokZcjoixMRwd29SPcOgdbVL8aTy5MWZ67Pxo2E0mN5+nWrPVoHE8dcKutXWUof8p5ji371l1W/5tq/Dv6YW0cQUQDZ+q0E5H0NwnHwLzPeXyO419139YJq5wwG6m4Ruud9rcEkoyQ==;jS1VFXdx+rXCtE1J5q54gQ=="
 ---
 

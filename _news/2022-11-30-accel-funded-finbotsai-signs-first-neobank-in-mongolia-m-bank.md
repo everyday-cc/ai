@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/11/199262-accel-funded-finbots
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/11/199262-accel-funded-finbots-ai-signs-first-neobank-in-mongolia-m-bank/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Singapore-headquartered AI credit modelling FinTech finbots.ai secures a digital bank client in Asia"
-    excerpt: "AI credit modelling solution will enable M bank, Mongolia's first Neobank to build a high growth, robust and agile digital lending business   finbots.ai's Artificial Intelligence (AI) credit modelling solution,"
-    publishedDateTime: 2022-11-29T00:00:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/29/9721484.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "8rpcOCgtpU/JcwTIVrDBAoDmH/i1GQlkUpi1axnZvxSMKUBjsG6/CsBFY2ghR5Q6ZPyYeEL/zo6aWvZP+Or+ZGbAuJOd6ekwuYaTVBvTiz0oNk/lIbYA1qTfoU/Q8+51GYtWCYNzkWIYJ2KU33a+RN4N6Qq5m6k0ylAYA9lmRp/uMIWXEX0ppOjWMZdroYRBKakEDTQ0jBOIInnHKRLvuiOv5yfNx6G+rEltA0c/Wu++sTRptms1n+M/IfqL/kDaGUa8QwxtEG9gSM4+S65o/hiHA5C0xoxstx4hEC4c5hFrQMdqP5AOaB3934eK2fiCCQmWkiFmXDTvnX6/T77WUuEzBH05/SvzSa5/3C+kHEq2YbTBmJVXXTjyBYbdyFzvLUwT2KisY0WnvpM1TGvF7QC7epSRRxUIqHpsd3/SO8sB9ymLWHth5GMJtI+Z1XMvzBAlSU3Em+Wi5IV1t5eg1MXapYb5nvLyMsIT2zkDtLmKzKdrTIRhyTlEPNF5KBlBDynVG3AQvsICwJ4/RIpA2g==;dtfnVJ11m/LfyTL6jgPGxA=="
 ---

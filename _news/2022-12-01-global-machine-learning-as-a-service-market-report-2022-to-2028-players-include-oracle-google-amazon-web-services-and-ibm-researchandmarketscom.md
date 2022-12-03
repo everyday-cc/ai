@@ -36,6 +36,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How Deep Learning Has Proved to Be Useful for Cyber Security"
+    excerpt: "The threat of cyber attacks has recently increased dramatically and traditional measures now appear to be insufficiently competent."
+    publishedDateTime: 2022-11-29T18:16:00Z
+    webUrl: "https://www.bbntimes.com/technology/how-deep-learning-has-proved-to-be-useful-for-cyber-security"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 36
   - title: "US Digital Insurance Market Report 2022: Growth in Artificial Intelligence (AI) Services Applications Presents Opportunities - ResearchAndMarkets.com"
     excerpt: "The U.S. digital insurance market revenues are forecasted to reach US$27.72 billion in 2026, growing at a CAGR of 20.70%, for the period spanning 2022-2026. Factors such as rapid urbanization, growing smartphone users,"
     publishedDateTime: 2022-11-30T09:42:00Z

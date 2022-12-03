@@ -28,20 +28,6 @@ images:
 
 related:
   - title: "Honda Plans New Autonomous Features but Sees Long Road Ahead to Self-Driving Cars"
-    excerpt: "The auto maker said it would focus for now on partially autonomous driving technology to improve safety, joining others that say fully self-driving cars aren’t ready for prime time."
-    publishedDateTime: 2022-11-30T14:19:00Z
-    webUrl: "https://www.wsj.com/articles/honda-plans-new-autonomous-features-but-sees-long-road-ahead-to-self-driving-cars-11669820402"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 49
-    images:
-      - url: "https://images.wsj.net/im-676004/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Honda Plans New Autonomous Features but Sees Long Road Ahead to Self-Driving Cars"
     excerpt: "HAGA, Japan—Honda Motor Co. said it would focus for now on partially autonomous driving technology to improve safety, adding itself to the list of auto makers that say fully self-driving cars aren’t ready for prime time. The Japanese auto maker ..."
     publishedDateTime: 2022-11-30T16:59:00Z
     webUrl: "https://www.wsj.com/articles/honda-plans-new-autonomous-features-but-sees-long-road-ahead-to-self-driving-cars-11669820402?mod=business_lead_pos13"
@@ -101,6 +87,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Honda Plans New Autonomous Features but Sees Long Road Ahead to Self-Driving Cars"
+    excerpt: "The auto maker said it would focus for now on partially autonomous driving technology to improve safety, joining others that say fully self-driving cars aren’t ready for prime time."
+    publishedDateTime: 2022-11-30T14:19:00Z
+    webUrl: "https://www.wsj.com/articles/honda-plans-new-autonomous-features-but-sees-long-road-ahead-to-self-driving-cars-11669820402?mod=latest_headlines"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 29
 
 secured: "DC7Z9g5yHEzIl4Bkejw2G99lhSKY4AYRkYQidvLI3Q/VXf2dGVOHIM3bJk7X460y5VJZZt5N5AlFF+pLJy44kxXDAKflgqMawlq1RIufSDzHA9b5Y6pvQAZMjfOhs3640xtWYzQkUeK6bHwPGpUd0jpIcBr+eyfZpX0M7b9XZcK1rsjxVbxT+j8hYU7g4FUD5YaoPceQTvE7NLkQLMsT3Yr6WjLmFHDYMHU/kln7xmCulK4d4sDnPbwHBdbzYJR8qrkgj5lFJwyXQ9sEPG7ClnOEE7b9UofP8Yn+3vmHCU/QftV3qoPGFMJsOaQ2xH1/j1mNQ+fx3cTqbpTxEHRSjgwvSuhLOP15ukDsSEvcJtU=;BqdVVLZCNyJTyiSr9uncJg=="
 ---
