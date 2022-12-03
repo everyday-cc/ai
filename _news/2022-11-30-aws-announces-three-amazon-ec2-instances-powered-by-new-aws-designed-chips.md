@@ -1,30 +1,22 @@
 ---
 category: news
 title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
-excerpt: "Hpc7g instances featuring new AWS Graviton3E chips deliver the best price performance for HPC workloads on Amazon EC2 C7gn instances featuring new AWS Nitro Cards with enhanced networking offer the hi"
-publishedDateTime: 2022-11-29T17:25:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/b29893848/aws-announces-three-amazon-ec2-instances-powered-by-new-aws-designed-chips"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/b29893848/aws-announces-three-amazon-ec2-instances-powered-by-new-aws-designed-chips"
-ampWebUrl: "https://www.benzinga.com/amp/content/29893848"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29893848"
+excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
+publishedDateTime: 2022-11-29T20:15:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
+webUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
 type: article
-quality: 57
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
-    width: 666
-    height: 282
-    isCached: true
 
 related:
   - title: "Stability AI doubles down on AWS"
@@ -105,20 +97,6 @@ related:
         width: 4896
         height: 3672
         isCached: true
-  - title: "Cognigy Achieves AWS Conversational AI Competency Distinction"
-    excerpt: "Cognigy announced today that it has achieved the Amazon Web Services (AWS) Conversational AI Competency distinction. This designation recognizes Cognigy for its expertise in developing high quality, highly effective chatbot,"
-    publishedDateTime: 2022-11-30T23:02:00Z
-    webUrl: "https://www.eagletribune.com/region/cognigy-achieves-aws-conversational-ai-competency-distinction/article_20572837-15de-5125-9274-d22df717824d.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 54
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/0/84/08448548-6267-59fd-ae33-9116f4851a9a/6387ef8c3dd5d.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AWS adds Yahoo and Stability AI to its growing list of cloud customers"
     excerpt: "Invent with news of some big customer wins. Both Yahoo Inc. and Stability AI Ltd. said they have chosen AWS as their preferred public cloud provider for key business workloads. In Yahoo’s case, the internet giant said it has chosen AWS to host the operations of its Yahoo Ad Tech advertising technology business."
     publishedDateTime: 2022-12-02T02:24:00Z
@@ -194,6 +172,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
+  - title: "Cognigy Achieves AWS Conversational AI Competency Distinction"
+    excerpt: "Cognigy announced today that it has achieved the Amazon Web Services (AWS) Conversational AI Competency distinction. This designation recognizes Cognigy for its expertise in developing high quality, highly effective chatbot,"
+    publishedDateTime: 2022-11-30T23:02:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/cognigy-achieves-aws-conversational-ai-competency-distinction/article_dbce5c2e-f6f6-5db5-b985-a6474db145fb.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 34
   - title: "Stability AI Selects AWS as Its Preferred Cloud Provider to Build Artificial Intelligence for the Future"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Stability AI, a community-driven, open-source artificial intelligence (AI) company, has selected AWS as its preferred cloud provider to build and scale its AI models for image,"
     publishedDateTime: 2022-11-30T22:00:00Z
@@ -204,6 +191,6 @@ related:
       domain: buffalonews.com
     quality: 32
 
-secured: "rw5dRd+b1jlgfGNAnxCX2vDC57aDlS48F4a2FRY6kiElsrGTvki1tiHqly2JylOr90cB4FWCa1hLkvezoE9KYj0xgq8cqBPQK+68S811VXuIyeDip79rZfQpgRKlWaMNkAdvxih0uB96AcQVP9kJXZX8PJZ7mYgvaUUot7rnjixGod19RDG9tqriIRSZSgxBYzGU3Nk35dMTxk9GZ5gQTc4x8PKWVCtPHJOIi7ZKxqzWr8xWcxn9FJvWDu5lQQARflHqCSuAoF0Sh3skPgrNgsHDfZkmelgPs+upTCrkTm1TN94SkiEccdD2ZIP1vSWBLpKWBBcbPKD2Sa4vIzaEBdIMA/Dgo+U5yVwekVEcmmp+o83a8/iULKKNDyOquBK1V+eZd8K1T6WUu6w6VYuua2VI+05n/tQOFCxIkXDHOT6NxoJeFUPqWHcHZVAUlhYnxj0bxC0OKEi/Awz0suRylyWYu8RJLSoRQCnQpIv0o13Dp7/O+YvmH15JIJseA4hlX4/+yC6xT89u4pajVBVjGA==;ykbebaMIUVKE+x6PJ7xpIA=="
+secured: "ln1FiTkqOwK2BtUqauL6Pzt6J+IxFvOZf2LO7hgHRXqtBiVWxNRkbjutYpMjKA/TTVi+7z1RaxScKP8ZYCuRdfURYZjOrZtrvt3dKFyxFysfadtGWzvxM/T2aoqw/1HV0KvEUybphxR7eHCxDu7LhD4LUfB8Ont1AjSvT4A+7t9BZRdvNQFG50a/vSJjZn5/C6LuyOUAb6tQ78acDzvA3JO7WqOdJ3rE9icyZ3+lbdfEgfNbFsZXTJMtkIIaubRJzEp+IX829ObWeDDGx3HZURQo+NjESIz0oy0ydKpUXq0N0bV88BfRhXEA++6U/o+qoVev2QyOve6f9MSUn2tSBIWXCYs5iHZtDnEFJ/J5O1a+AvdyHn00hIqmr4BcF7MXPlUoO78kGCI4A3JjbA09GnfES1DhwiOnwNnXE6UmhNTsZZ8mz4omVKi9xQZS1NnCfYsEor1LXC/u43SMxP3x1+WC2UVNeUpKqIbdhxVDB6hKLDdK7WtA/xHseJ94nRwW+P66X9X5Tq/L3BsZ1T3O4g==;Mmw+B357/8IPeQaPg0ERMw=="
 ---
 

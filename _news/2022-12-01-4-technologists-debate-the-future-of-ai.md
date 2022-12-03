@@ -66,15 +66,6 @@ related:
         width: 770
         height: 400
         isCached: true
-  - title: "How generative AI will impact the future of work, according to a CEO who has spent 2,000 hours studying it"
-    excerpt: "Sequoia predicts that by 2023, generative AI will be able to put together scientific papers and visual design mock-ups; and by 2030, it will write, design, and code better than human professionals in the field."
-    publishedDateTime: 2022-11-29T05:00:00Z
-    webUrl: "https://www.fastcompany.com/90816886/how-generative-ai-will-impact-the-future-of-work-according-to-a-ceo-who-has-spent-2000-hours-studying-it"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 0
 
 secured: "aLuA3JMKeqbqfpYzNHMaOOlBKmPtThEgT8SB69qSaOejgiQE01zY9MAb+8zIkBrbTSG1f/26N9o41WjNqANi/fCjo/APKiw912SQVRPn6mL68O67KsavGkAJUI5zwLdiGkUKflQWYvuQI2Khvtnh6bW0RMzukEgBZaQKacZQ8uHkVjDBZcAn9ZzsEvughpkVQI+n1PSJcLZYMFJtJ8V9s6gQFRaG1pX8TBTUNpHLTSM+2rzhgDhtaLa5kub0wlVH4MY188DUsig8LizhhU5tpOnSCuT6Q5b/ZRTucoMr2JusljX3JPiyQ/xsPI25OF1TabeOWrFxrbyIrz7sseAwi08ojyFYkV3PZCWrCu1Nzk6H0ylhhKizZOTwFuu+WGS0QmH65SbkwpbS9v14p3NkT+DBoATUoh+Vw5z4HzTCpXwM/KqN3LzKjBCVq0mKc6tfLxMsGZKipyoYFuaBo6LaSLb8SdGROZUNk8yfQvZ/GBbSyz7J9ZI3FTO8jRqbo6rTzg58ESQB7cjJnzJZY/U4vw==;ZTI2SlqDgwzeqFP5zE3mkQ=="
 ---

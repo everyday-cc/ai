@@ -2,9 +2,9 @@
 category: news
 title: "Fintech Global Market to Reach $385.93 Billion by 2027 at a CAGR of 19.71%"
 excerpt: "The publisher provides an analysis of the key trends in each sub-segment of the global fintech market report, along with forecasts at the global, regional"
-publishedDateTime: 2022-11-28T14:32:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-fintech-global-market-reach-38593-billion-2027-a-/2022/11/28/9720005.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-fintech-global-market-reach-38593-billion-2027-a-/2022/11/28/9720005.htm"
+publishedDateTime: 2022-11-28T15:03:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/11/28/9720005.htm"
+webUrl: "https://it.tmcnet.com/news/2022/11/28/9720005.htm"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - AI in Finance
   - AI
 
-secured: "NEk1FuPsrLYV6DHSSwqCvewl79oMtRYlZhACOUKkoHXbYdJhiiG549h4ipMlQ4PuQNyP+hvQOItqzJ8liFYDvnm/toAsxgTr0CkqnoZXw2QPIi1fZ3n9kJUaNbAkEn8OxwjZ3O88F3HJZP0vRFQ7VanzUKKHnVkvRPdfbsXxZjK9WZMqRUsy7HYK0C97pVyErTe1voJQAXuyzbiSSCOw4Z00e9ASw7jygmDx4rkqr1S+OlNAs69kzLtg36e7bxncpp2kRhotNeA5WX3wtHU1rvx0tgIqFmG7d8/2rOiqrjg+GU5bm+KBLYKd6mte+ZEmIkKv6SVSYTX7Ir5nGSrp3Ruzrk7uUVyVlLo7OFLCnjw=;dPliKT9D+55hptVm5ktA4Q=="
+secured: "JlAaudHdRE864HbDM+lvZexXoGy2NKQertoBUnpJstwW5FcTYwrejRYCsypGfNrH5KIJXzKNZajP7tAceEWQqGAluHJJ5nFprehU6yTGgo+Ds+qhAbBj9PDM6OwMVcCTbusjPRvA779vd4gT8njlRBRq741D8P59nlazBTfglmgVhA1TPbIpN62hFcIigjQ3K9nenkQnoBpFMtAtbLi8eAC6U4FSuOA2JAhTWdjyQdM21/JlhDbHnV7Exb/ONSu3voSUlTYVjRefQVmgPaJ+TrDHtPzYAzDhnhJ2s2Hzbzs9UP4eqLr9WeV3KmVeViBI/CYLRp5Exf2iDcQvaUwlEHiI1zjAmw/wxsQTL1J4huw=;sXd6N6g+x6Z+0KszP6jjSw=="
 ---
 

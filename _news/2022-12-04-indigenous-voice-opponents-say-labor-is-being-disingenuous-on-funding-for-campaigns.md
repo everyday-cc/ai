@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-03T18:00:00Z
 originalUrl: "https://www.theguardian.com/australia-news/2022/dec/04/indigenous-voice-opponents-say-labor-is-being-disingenuous-on-funding-for-campaigns"
 webUrl: "https://www.theguardian.com/australia-news/2022/dec/04/indigenous-voice-opponents-say-labor-is-being-disingenuous-on-funding-for-campaigns"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: The Guardian

@@ -7,7 +7,7 @@ originalUrl: "https://www.motorauthority.com/news/1124163_mercedes-bosch-open-wo
 webUrl: "https://www.motorauthority.com/news/1124163_mercedes-bosch-open-world-s-first-self-driving-valet"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "World first: Bosch and Mercedes-Benz’s driverless parking system approved for commercial use"
-    excerpt: "The world’s first approval for customer use of our highly automated and driverless parking function, developed together with our technology partner Bosch, shows that innovation leadership and ‘Made in Germany’ go hand in hand,"
-    publishedDateTime: 2022-11-30T10:49:00Z
-    webUrl: "https://www.bosch-presse.de/pressportal/de/en/world-first-bosch-and-mercedes-benzs-driverless-parking-system-approved-for-commercial-use-248960.html"
-    type: article
-    provider:
-      name: bosch-presse
-      domain: bosch-presse.de
-    quality: 28
-    images:
-      - url: "https://www.bosch-presse.de/pressportal/de/media/dam_images/pi11496/22c0242_007_img_w1280.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Mercedes Becomes First Brand Approved For Level 4 Self-Driving In Germany (But Only In One Parking Lot So Far)"
     excerpt: "“It will be with driverless parking that everyday automated driving will start.” Long time readers may remember that Mercedes (among others) already had automated valet parking at the Stuttgart airport in 2019. That operation was more limited ..."
     publishedDateTime: 2022-11-30T18:57:00Z

@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Disney's New AI Can Make Your Favorite Actor Look Older or Younger"
+    excerpt: "The process overcomes the \"facial identity loss, poor resolution and unstable results\" that plague other methods, researchers say."
+    publishedDateTime: 2022-12-01T23:41:00Z
+    webUrl: "https://www.cnet.com/culture/entertainment/disney-ai-can-make-your-favorite-actor-look-older-or-younger/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/disney-ai-can-make-your-favorite-actor-look-older-or-younger/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/disney-ai-can-make-your-favorite-actor-look-older-or-younger/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/37cc5fef7f5a9a8de450dc85cfd56b9fcb4e29fb/hub/2022/12/01/ab5551c3-7c15-43a9-a8fe-97fda2b142b9/frank.png?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Disney Developed An AI Tool That Can Make Actors Look Younger On Video With Just One Click"
     excerpt: "New research by Disney Research Studios, which focuses on technology innovations for filmmaking, shows off a new face aging network, named FRAN, that simplifies the aging process of actors in video."
     publishedDateTime: 2022-12-01T03:30:00Z
@@ -44,6 +60,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63881c64853b25bbce5b6465/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 462
+        isCached: true
+  - title: "This New Artificial Intelligence Can Help You Lie"
+    excerpt: "OpenAI was formed in 2015 with the mission of developing a friendly artificial intelligence that will dramatically benefit humanity while also helping humanity avoid the existenti"
+    publishedDateTime: 2022-12-02T20:48:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-nature-deception/202212/new-artificial-intelligence-can-help-you-lie"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-nature-deception/202212/new-artificial-intelligence-can-help-you-lie?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-nature-deception/202212/new-artificial-intelligence-can-help-you-lie?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-12/gerd_altman.jpg?itok=GbKDRrBY"
+        width: 1528
+        height: 800
         isCached: true
   - title: "Disney built a neural network to automatically change an actor’s age"
     excerpt: "Disney Research Studios' newest neural network, FRAN, can shave hours off of VFX artists' workloads to create convincingly re-aged actors."

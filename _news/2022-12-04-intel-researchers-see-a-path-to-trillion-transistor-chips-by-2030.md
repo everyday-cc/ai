@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-03T20:00:00Z
 originalUrl: "https://venturebeat.com/ai/intel-researchers-see-a-path-to-trillion-transistor-chips-by-2030/"
 webUrl: "https://venturebeat.com/ai/intel-researchers-see-a-path-to-trillion-transistor-chips-by-2030/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat

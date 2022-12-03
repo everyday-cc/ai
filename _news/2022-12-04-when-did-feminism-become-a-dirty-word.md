@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-03T18:00:00Z
 originalUrl: "https://www.thetimes.co.uk/article/089098d6-728c-11ed-a107-df8b1c5e158a?shareToken=5c6de958abdf67a9ff1a2ba4208a3647"
 webUrl: "https://www.thetimes.co.uk/article/089098d6-728c-11ed-a107-df8b1c5e158a?shareToken=5c6de958abdf67a9ff1a2ba4208a3647"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Times

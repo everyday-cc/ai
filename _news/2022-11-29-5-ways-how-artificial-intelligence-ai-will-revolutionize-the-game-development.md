@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/5-ways-how-artificial-intelligence-ai-will-r
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/5-ways-how-artificial-intelligence-ai-will-revolutionize-the-game-development/amp/"
 type: article
 quality: 72
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 700
     height: 400
     isCached: true
-
-related:
-  - title: "How Software Development Can Revolutionize Healthcare"
-    excerpt: "Doctors and scientists are working continuously to improve healthcare day by day. Likewise, software developers are also transforming and coming up with new ideas for the modern world. With the help of software development,"
-    publishedDateTime: 2022-11-29T04:25:00Z
-    webUrl: "https://techbullion.com/how-software-development-can-revolutionize-healthcare/"
-    ampWebUrl: "https://techbullion.com/how-software-development-can-revolutionize-healthcare/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-software-development-can-revolutionize-healthcare/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 59
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/11/Screenshot-2022-11-28-202503.png"
-        width: 559
-        height: 411
-        isCached: true
 
 secured: "81foQD3r7lJLeDH5trGnfd3LDQXYn5JRqD7XwUMbAIyacsxgcQNLC10Hqfdv6TCBujIsgH5ijnZJldbL4lHCkMZTSA17d5Rmo5ElhvZzYTRTmvrxcGMbIWWZHZWpBrLqcR/lu2fj/UKmT1ZesW89BvqQccYFD6f6X4bC9lS5MoNOHT64+TvG+wHcpXxFVxhNsVDboUrah1IJkNUl12RaghwJQ20iN8urXUEJnJZnpyH8BgF0guPCqTgD/IjVFVx3xcwAWvYG90x/ZWawCi0+ZEvDTbZ1lcgzrWsclULsoI0KMHaCfxa81YKUuvIup4CdHCiHACBcT4SIZ5UwknFcCppvZsIMqa7ZaF47InS1W8iqwmzOzrapRvSZkW6B1ZL926RMwrTC4sz/bApa4qt8+6HMmn3+m1UUCKLk6JKkXH1XeJgxo/YbLfEYmPSIzwGukQODyiIw09Fa0I0WPpyTn5ZIumplEKWPFzmHw8snahK1UI5oj+au0RaXwk08OjNFJDbkzAU97suPBWG5xLmzBQ==;AlHcjlqdGU1QjDF6qrlZTQ=="
 ---

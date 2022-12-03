@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/artificial-intellig
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-will-drive-the-future-of-content-marketing/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -66,15 +66,6 @@ related:
         width: 770
         height: 400
         isCached: true
-  - title: "How generative AI will impact the future of work, according to a CEO who has spent 2,000 hours studying it"
-    excerpt: "Sequoia predicts that by 2023, generative AI will be able to put together scientific papers and visual design mock-ups; and by 2030, it will write, design, and code better than human professionals in the field."
-    publishedDateTime: 2022-11-29T05:00:00Z
-    webUrl: "https://www.fastcompany.com/90816886/how-generative-ai-will-impact-the-future-of-work-according-to-a-ceo-who-has-spent-2000-hours-studying-it"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 0
 
 secured: "bKV9s6pOVl/AYvbt1vz5OvFTiXtTpBn0cH1oQrRRROKbCOGem0iL6IO2UEXukmNS96lJHAhDrHDD/JuXKYICcEHgtZ6C+0Qvtm7J/DgCdtim9/cVWBY3+blciRZcyw00zefAr5vuPrkFHvDrCnbD6LIOg77vweXkfr/5NgmrGtqa2rx6YzWf9LuIa/r4wtUmZKICyIi2xp+NuGtwaRCMMrJBchqCMKcPWoPg5LG08FdCs/RSkDWjNv/00upEIOCjkpPCi0YpTazsjDuXT0hfy4T5mQCYMiT601OzROJTDsLSfUGj7UFWrYiCx8vP0foi/B9gpXMMD/noRn+prn+AtHQPUwm5tnKBCSElLcDsYOE=;dQmwm9FMQ7Sr72wlxdp15Q=="
 ---

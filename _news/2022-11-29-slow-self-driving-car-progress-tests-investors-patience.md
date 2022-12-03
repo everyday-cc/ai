@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-29T11:37:00Z
 originalUrl: "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382"
 webUrl: "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Wall Street Journal

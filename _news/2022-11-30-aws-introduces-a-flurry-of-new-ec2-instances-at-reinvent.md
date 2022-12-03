@@ -50,6 +50,15 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 64
+  - title: "Sustainability And Inclusion Take Center Stage At AWS Re:Invent"
+    excerpt: "Within the AWS leadership, there is a strong belief that technology should be built in a way that’s inclusive, diverse, and equitable and the company has a responsibility to make that happen. All Builders Welcome serves as a bridge between the current status quo and the future of tech. During the week, the grant winners had the opportunity to:"
+    publishedDateTime: 2022-12-03T18:22:00Z
+    webUrl: "https://www.forbes.com/sites/carolinamilanesi/2022/12/03/sustainability-and-inclusion-take-centerstage-at-aws-reinvent/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "Innovation hotspots warm up AWS re:Invent"
     excerpt: "Massive throngs turned out for Amazon Web Services Inc.’s massive post-pandemic re:Invent conference in Las Vegas this week. As with its previous shows, AWS did not disappoint, with its laundry list of new and improved products,"
     publishedDateTime: 2022-12-03T01:26:00Z

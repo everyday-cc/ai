@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 971
         isCached: true
-  - title: "Venture Capital Firms Are Partnering With Healthcare Organizations To Improve Digital Health"
-    excerpt: "Healthcare organizations are hoping to better serve their patients and communities using VC resources and expertise."
-    publishedDateTime: 2022-11-29T03:47:00Z
-    webUrl: "https://www.forbes.com/sites/saibala/2022/11/28/venture-capital-firms-are-partnering-with-healthcare-organizations-to-improve-digital-health/"
-    ampWebUrl: "https://www.forbes.com/sites/saibala/2022/11/28/venture-capital-firms-are-partnering-with-healthcare-organizations-to-improve-digital-health/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2022/11/28/venture-capital-firms-are-partnering-with-healthcare-organizations-to-improve-digital-health/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 78
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63857eec040583de4aa067f3/0x0.jpg?format=jpg&crop=3444,1320,x0,y0,safe&width=1200"
-        width: 1200
-        height: 460
-        isCached: true
   - title: "How Artificial Intelligence Is Transforming Healthcare"
     excerpt: "Artificial Intelligence (AI) is already transforming industries from banking and retail to transportation and energy and has the potential to significantly improve every industry it touches. Since some version of “improve my health” will likely be near ..."
     publishedDateTime: 2022-12-01T20:11:00Z

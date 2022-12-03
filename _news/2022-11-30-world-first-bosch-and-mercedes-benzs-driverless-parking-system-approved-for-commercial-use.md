@@ -7,7 +7,7 @@ originalUrl: "https://www.bosch-presse.de/pressportal/de/en/world-first-bosch-an
 webUrl: "https://www.bosch-presse.de/pressportal/de/en/world-first-bosch-and-mercedes-benzs-driverless-parking-system-approved-for-commercial-use-248960.html"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -25,31 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Mercedes, Bosch open world's first self-driving valet"
-    excerpt: "Mercedes-Benz and Bosch will initially operate their automated valet in the parking garage of Stuttgart Airport."
-    publishedDateTime: 2022-12-01T11:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1124163_mercedes-bosch-open-world-s-first-self-driving-valet"
+  - title: "Alstom demonstrates driverless shunting"
+    excerpt: "Alstom has demonstrated for the first time the deployment of ATO at Grade of Automation (GoA) 4 on a shunting locomotive, enabling driverless operation."
+    publishedDateTime: 2022-11-29T16:39:00Z
+    webUrl: "https://www.railjournal.com/innovations-showcase/alstom-demonstrates-driverless-shunting/"
     type: article
     provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
+      name: International Railway Journal
+      domain: railjournal.com
+    quality: 39
     images:
-      - url: "https://images.hgmsites.net/hug/mercedes-benz-and-bosch-automated-valet-parking-at-stuttgart-airport_100867370_h.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.railjournal.com/wp-content/uploads/2022/11/Netherlands-ATO-tests-in-GoA4-Alstom-pic-cropped.jpg"
+        width: 598
+        height: 336
         isCached: true
-  - title: "Mercedes Becomes First Brand Approved For Level 4 Self-Driving In Germany (But Only In One Parking Lot So Far)"
-    excerpt: "“It will be with driverless parking that everyday automated driving will start.” Long time readers may remember that Mercedes (among others) already had automated valet parking at the Stuttgart airport in 2019. That operation was more limited ..."
-    publishedDateTime: 2022-11-30T18:57:00Z
-    webUrl: "https://www.carscoops.com/2022/11/mercedes-becomes-first-carmaker-approved-for-level-4-autonomous-driving-in-germany-but-only-in-one-parking-lot-so-far/"
-    ampWebUrl: "https://www.carscoops.com/2022/11/mercedes-becomes-first-carmaker-approved-for-level-4-autonomous-driving-in-germany-but-only-in-one-parking-lot-so-far/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/11/mercedes-becomes-first-carmaker-approved-for-level-4-autonomous-driving-in-germany-but-only-in-one-parking-lot-so-far/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 4
 
 secured: "taEPubr1PyAbNLdgR1fAxm6U9W8eKbwtYQgIJqCjw/X3pVqUh6SwwwPm13rpFIOspXxY9Q70KBc6DClMsWLiklx9KXvYKfq/Vx4ZQVyga14Qoq5QGPD6NgBiHBtm3JtKZHDH8MwFvK7/MqsRX190h8sIv/YBGaDfWWjVFp/YnClBVkfm/C7IGjNbpeuPGZw39rcI7E3/EbOYglGnkf7aZMnHNg7W85EBKfvy48vyRo0bnfvRTtNG85o5SBtjhdak6ZbNqnTPMSOXVbNP946OUW7iNZ/hF6UJSOGcPV2le8QWVNOesb1jRC3+BWhC8MrnMQrYz2okOiaThVHgZX7LXeFxvO46ED/8XLRHVK14h7hz2UwyxTw22iiEVA25Hl+ps9eRkzMe5Kv/1P6k+MCtbRLEnzOOYDHQ8KldARsnKjaER+exi09M/6S27AIhXZR2vlQykZowssZe9AP17azk7r/dp+FB3lQLRkUmlAxthFNFh0ULcm1N4ThuUiMOhpLtKVR+hIMfUdn6Hb5pux7TtA==;p5zdZXvSvHXDJZvX0Gd0Mw=="
 ---

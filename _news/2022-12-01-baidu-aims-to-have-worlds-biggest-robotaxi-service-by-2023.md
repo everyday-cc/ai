@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Baidu Inc. Plans to Rollout the World's Largest Fully Autonomous Ride-Hailing Service in China by Next Year"
+    excerpt: "China's internet technology giant Baidu Inc. held its “Apollo Day” live-streamed technology event on Monday where the company shared its latest progress on autonomous driving. Among the announcements at Apollo Day were Baidu’s plans to launch the world's largest fully-autonomous ride-hailing service aptly named “Apollo Go” by next year and become the world’s biggest robotaxi operator."
+    publishedDateTime: 2022-11-29T22:00:00Z
+    webUrl: "https://www.futurecar.com/5617/Baidu-Inc-Plans-to-Rollout-the-World’s-Largest-Fully-Autonomous-Ride-Hailing-Service-in-China-by-Next-Year"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 21
+    images:
+      - url: "https://img.futurecar.com/202211/29/l_638691bdaaa74.jpeg"
+        width: 700
+        height: 500
+        isCached: true
 
 secured: "fhP/pcFnv4k+nvRAsmmnxbjV0AZq/IoBWr9BqOJReZ5TDRwFSh2RdnliU92SUi+WtYGZmKIOj9jxNib0wxxEMG4BAItEquCp/6p76+4jO26V0SAwavVKqrmMR3ioJILVC12zn50PK72EVc+byjRob7m/UU3d7bLhpEM085he/lScYjKi3NiGghGXKUwCKEozttCenWIwYj7Nv5APCBEdiqFMPlTaOqu/N0CXK7WkHFVZkwrCwHPsjb+c/9BoO1UdfmksiznoVvPa016+iQxHM8JVCNYjBkTvEN7Kk6A++4/KfqIk2bi0LdjPVGlN5wr33iMTeUvMLjinly7H6o0vamPQ/v1OGHHVkJmkFP8NlEXkRQogOcuf4kpA1dY8xS8qvMEeVMjmcrzTct2s9SwbrcYjT0IkGC33YIhO6JxyWOh+su2BaZ1hOprVnCvVPAinqGH24I9V+jguFcd9VYfl/cohJZAwQYOG2bpYRheih+EHOKs8G2n3jd44Wnsxji/opbUXEL37ytVvfX4L6KUNDA==;QNvkKcfkXhaZ5nZcJgKKTw=="
 ---

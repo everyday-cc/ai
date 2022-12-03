@@ -1,22 +1,29 @@
 ---
 category: news
-title: "Disney built a neural network to automatically change an actor’s age"
-excerpt: "Disney Research Studios' newest neural network, FRAN, can shave hours off of VFX artists' workloads to create convincingly re-aged actors."
-publishedDateTime: 2022-12-01T20:30:00Z
-originalUrl: "https://www.popsci.com/technology/disney-neural-network-aging/"
-webUrl: "https://www.popsci.com/technology/disney-neural-network-aging/"
+title: "This New Artificial Intelligence Can Help You Lie"
+excerpt: "OpenAI was formed in 2015 with the mission of developing a friendly artificial intelligence that will dramatically benefit humanity while also helping humanity avoid the existenti"
+publishedDateTime: 2022-12-02T20:48:00Z
+originalUrl: "https://www.psychologytoday.com/intl/blog/the-nature-deception/202212/new-artificial-intelligence-can-help-you-lie"
+webUrl: "https://www.psychologytoday.com/intl/blog/the-nature-deception/202212/new-artificial-intelligence-can-help-you-lie"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-nature-deception/202212/new-artificial-intelligence-can-help-you-lie?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-nature-deception/202212/new-artificial-intelligence-can-help-you-lie?amp"
 type: article
-quality: 19
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Popular Science
-  domain: popsci.com
+  name: Psychology Today
+  domain: psychologytoday.com
 
 topics:
-  - Machine Learning
   - AI
+
+images:
+  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-12/gerd_altman.jpg?itok=GbKDRrBY"
+    width: 1528
+    height: 800
+    isCached: true
 
 related:
   - title: "Disney's New AI Can Make Your Favorite Actor Look Older or Younger"
@@ -65,23 +72,16 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "This New Artificial Intelligence Can Help You Lie"
-    excerpt: "OpenAI was formed in 2015 with the mission of developing a friendly artificial intelligence that will dramatically benefit humanity while also helping humanity avoid the existenti"
-    publishedDateTime: 2022-12-02T20:48:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-nature-deception/202212/new-artificial-intelligence-can-help-you-lie"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-nature-deception/202212/new-artificial-intelligence-can-help-you-lie?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-nature-deception/202212/new-artificial-intelligence-can-help-you-lie?amp"
+  - title: "Disney built a neural network to automatically change an actor’s age"
+    excerpt: "Disney Research Studios' newest neural network, FRAN, can shave hours off of VFX artists' workloads to create convincingly re-aged actors."
+    publishedDateTime: 2022-12-01T20:30:00Z
+    webUrl: "https://www.popsci.com/technology/disney-neural-network-aging/"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-12/gerd_altman.jpg?itok=GbKDRrBY"
-        width: 1528
-        height: 800
-        isCached: true
+      name: Popular Science
+      domain: popsci.com
+    quality: 19
 
-secured: "/hAXN2TYbkkIQ/2Y3zYhRFy2ApmbRyeKEUpzNdFOm+A0Gzu41BIwW5sa5cPSAngyN2Kpyzfbr1eQtzWTl3GdgrFo9YWLCCCG0WuEnxbAMyzqFiRh6P5Y/oQILYWIMNXLskmtuGqRhW4R9h2NMUigieQVIoLd17j4hYVAa0eAA8ZkT99JUGHliF3oqcMepdFYVcm7Vt346YZbp4FdbykQOc1V+v2qbQa3snlJhtSZCqKAsnUMCcGfw+OcuRxNcSRjuH8P//tE61q1LdDtILaLMlsHCt3V2VoALuvVCViZsqVSOqXAN99nDob30+Vr8FzwYX9QCM2RUmdwb55v0yCvOrW+8+iMYz0HhzZSiMBJ1F8=;H7aGdLl2ZBtcYX+w/RfIYw=="
+secured: "j5auE20ZgyoghQ+MVQaLt312hTxFko4GHCwe8Eu+nsW0lPI9dGKsPRwkqoF0kimzLceFCuIf2pphVQDGSYWxMQG60TV/2KFCFRzjd9j4t43bFjeekukJUdooQAGERPKcXsKqr5Of0nwqD4iBR2sY/L3AxieG4kAdrysYYce9SLCyneU9WVw1km0d7UKKK+weGaDTW6cLW6JzMHXKmx7Xz9jNUr3l5xBIcK0/whGVDQhGXDG/UnpXlLm7Jpr/BsuPTCw0z80ahxYx3ChBRKYTnGzWEJE9/FwSMIceDHk1B6um/qPFxKypaVpEQeEBW++/eMt37EfOHTkKqw/tX6NgNRk5NYixUthHWHszr7ADffE=;S5Kc2oYNDlvn8ZX6Mfb7hw=="
 ---
 

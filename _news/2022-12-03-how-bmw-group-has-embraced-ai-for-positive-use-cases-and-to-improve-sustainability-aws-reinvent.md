@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/how-bmw-group-has-embraced-ai-for-positiv
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent/amp/"
 type: article
 quality: 90
-heat: 160
+heat: 170
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
+    quality: 64
+  - title: "Sustainability And Inclusion Take Center Stage At AWS Re:Invent"
+    excerpt: "Within the AWS leadership, there is a strong belief that technology should be built in a way that’s inclusive, diverse, and equitable and the company has a responsibility to make that happen. All Builders Welcome serves as a bridge between the current status quo and the future of tech. During the week, the grant winners had the opportunity to:"
+    publishedDateTime: 2022-12-03T18:22:00Z
+    webUrl: "https://www.forbes.com/sites/carolinamilanesi/2022/12/03/sustainability-and-inclusion-take-centerstage-at-aws-reinvent/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 64
   - title: "AWS Introduces a Flurry of New EC2 Instances at re:Invent"
     excerpt: "AWS has announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by AWS-designed chips, as well as several new Intel-powered"
