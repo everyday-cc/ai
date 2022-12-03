@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/essentials/the-best-cyber-monday-robot-v
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/the-best-cyber-monday-robot-vacuum-deals/"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Arlo's most precise security camera has had a 40% price drop for Cyber Monday"
-    excerpt: "For a pack of two cameras, it'll only cost £379 which is a 40% discount. Arlo calls this its most precise camera yet because of the 4K HDR image, 12x digital zoom and dual-band Wi-Fi. To get it up and running,"
-    publishedDateTime: 2022-11-28T13:13:00Z
-    webUrl: "https://www.t3.com/news/arlos-most-precise-security-camera-has-had-a-40-price-drop-for-cyber-monday"
-    type: article
-    provider:
-      name: T3
-      domain: t3.com
-    quality: 18
   - title: "Score an iRobot Roomba for $288 while you still can: Plus more Cyber Monday robot vacuum deals you can still get today"
     excerpt: "Save big on a selection of top-rated robot vacuums with the best Cyber Monday deals that you can still get today."
     publishedDateTime: 2022-11-29T19:42:00Z

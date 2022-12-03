@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "The future of AI and medical imaging, from Nvidia to Harvard"
-    excerpt: "New initiatives are scaling AI models related to medical imaging and making diverse medical imaging data available to all."
-    publishedDateTime: 2022-11-28T14:37:00Z
-    webUrl: "https://venturebeat.com/ai/the-future-of-ai-and-medical-imaging-from-nvidia-to-harvard/"
-    ampWebUrl: "https://venturebeat.com/ai/the-future-of-ai-and-medical-imaging-from-nvidia-to-harvard/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-future-of-ai-and-medical-imaging-from-nvidia-to-harvard/amp/"
+  - title: "Nvidia rolls out AI platform across NHS hospitals"
+    excerpt: "The platform ensures that patient data never leaves the hospital trust when an AI algorithm analyses medical records"
+    publishedDateTime: 2022-11-29T10:51:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/369604/nvidia-rolls-out-ai-platform-across-nhs-hospitals"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 69
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/11/bigstock-Bioengineering-And-Medical-Edu-455940277.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Nvidia gearing up for lower-spec AI GPU shipments to China"
-    excerpt: "Nvidia has touted the A800 AI GPU, a downgraded version of its A100 and H100 series, for customers in China and has already attracted orders, according to industry sources."
-    publishedDateTime: 2022-11-29T01:21:00Z
-    webUrl: "https://www.digitimes.com/news/a20221128PD216/chip-war-gpu-nvidia.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20221128pd216_files/2_b.jpg"
-        width: 640
-        height: 427
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1669716264/itpro/2022/November/Nvidia_NHS_healthcare_AI_press.jpg"
+        width: 1260
+        height: 710
         isCached: true
 
 secured: "nz07TLKKZ1QZ3oX1jTQ9vFObivQciFYbT3Ev8tzMsMujyhj5BgN0BewMyrRU7a72axYcy4U1YjcGZyjsPkJnEbNPo3YHTonCBXONfKQ4ILyd8xgVyaciEF5NEvvE8oD+Or0DLvyqGFwuh0ldBNB9rUwakgL5zy6KZrOpDVUYwlVhtWVOECojNvaGgVtoyJAJ+0Y1/w3YEv6OzAcWNGoOug9F4w+lPa4w3F0Alh1dXZ06fmCflfnokZbILwnzK0pyrQ8TgmFm3f1xdSI9QQcm9BaWaA5iYRz4uVIWOrVOjj56uJQro0Q5OyJbLTWqHG0U0q+fJIPfjorLRMlCNg1VUbqw/gQJeZTJlu7MABeSawYs1vBkLbxw3BVrRj3trxzUqhDYAK8G8h0fXF+ZPQAgWUyfeIo9s4XzbLu2+lGYf7GATyrHVeUtTfnJ2pKV5cP4MEYEuucg/AvhrFQyYHw+WJk9e2OQOLvPRBqXJG43UYPUM7rvfEjNuMiBT8QZ7XbCH9XiHEABWXyQZwtTmwwg9w==;a6EmnzchoyasayxO0MC8TA=="

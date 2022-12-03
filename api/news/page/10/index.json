@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-11-22-beyond-the-banhammer-how-ai-is-changing-content-moderation.md",
+      "title": "Beyond the banhammer: How AI is changing content moderation",
+      "excerpt": "NLP can help manage player-generated content at scale to increase retention, promote positivity, and build a fun game community.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/beyond-the-banhammer-how-ai-is-changing-content-moderation/",
+      "originalUrl": "https://venturebeat.com/games/beyond-the-banhammer-how-ai-is-changing-content-moderation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-1219162009.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/beyond-the-banhammer-how-ai-is-changing-content-moderation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/beyond-the-banhammer-how-ai-is-changing-content-moderation/amp/",
+      "publishedDateTime": "2022-11-21T12:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-11-22-the-challenge-of-cognitive-load-in-platform-engineering-a-discussion-with-paula-kennedy.md",
       "title": "The Challenge of Cognitive Load in Platform Engineering: a Discussion with Paula Kennedy",
       "excerpt": "platform teams can encourage them to use the services and tools that are preferred by the business. This helps to streamline the number of tools offered, reduce the cognitive load of too many ...",
@@ -855,6 +907,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-21-axiomteks-ip67-outdoor-edge-ai-system-with-m12-connectors-powered-by-nvidiar-jetsontm-xaviertm-nx-aie800-904-fl-dc.md",
+      "title": "Axiomtek's IP67 Outdoor Edge AI System with M12 Connectors Powered by NVIDIA(R) Jetson(TM) Xavier(TM) NX - AIE800-904-FL-DC",
+      "excerpt": "Axiomtek - a world-renowned leader relentlessly devoted in the research, development, and manufacture of series of innovative and reliable industrial computer products of high efficiency – is pleased to introduce the AIE800-904-FL-DC,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/11/21/9717284.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/11/21/9717284.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1952075/image_5019367_25941002.jpg",
+          "width": 400,
+          "height": 219,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-21T01:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-21-india-to-take-over-the-chair-of-the-global-partnership-on-artificial-intelligence.md",
       "title": "India To Take Over the Chair of the Global Partnership on Artificial Intelligence",
       "excerpt": "France, the outgoing council chair, will hand over the presidency to India. The minister of state for electronics and IT, Rajeev Chandrasekhar will represent India at the GPAI meeting",
@@ -1036,49 +1131,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-21-axiomteks-ip67-outdoor-edge-ai-system-with-m12-connectors-powered-by-nvidiar-jetsontm-xaviertm-nx-aie800-904-fl-dc.md",
-      "title": "Axiomtek's IP67 Outdoor Edge AI System with M12 Connectors Powered by NVIDIA(R) Jetson(TM) Xavier(TM) NX - AIE800-904-FL-DC",
-      "excerpt": "Axiomtek - a world-renowned leader relentlessly devoted in the research, development, and manufacture of series of innovative and reliable industrial computer products of high",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/11/n29799601/axiomteks-ip67-outdoor-edge-ai-system-with-m12-connectors-powered-by-nvidia-r-jetson-tm-xavier-tm-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/n29799601/axiomteks-ip67-outdoor-edge-ai-system-with-m12-connectors-powered-by-nvidia-r-jetson-tm-xavier-tm-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1952075/image_5019367_25941002.jpg",
-          "width": 400,
-          "height": 219,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29799601",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29799601",
-      "publishedDateTime": "2022-11-20T23:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-21-robustel-5g-iot-edge-computing-gateway-certified-by-microsoft-azure-and-amazon-web-services-aws.md",
       "title": "Robustel 5G IoT EDGE Computing Gateway certified by Microsoft Azure and Amazon Web Services (AWS)",
       "excerpt": "Robustel's latest IoT device the EG5120 5G Edge Computing Gateway is now listed in the Microsoft Azure certified device catalogue and also Amazon Web Services (AWS) IoT Greengrass. The EG5120 helps to seamlessly extend Azure & AWS based IoT cloud services and intelligence to the network edge,",
@@ -1129,49 +1181,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-21-artificial-intelligence-is-pushing-boundaries-in-design-engineering.md",
-      "title": "Artificial Intelligence Is Pushing Boundaries in Design Engineering",
-      "excerpt": "Today’s design engineers are always looking for ways to innovate and compete in today’s global design environment. The 21st century has opened up a plethora of connected workflows that allow for seemingly real-time data interaction, no matter where you ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/design-software/artificial-intelligence-pushing-boundaries-design-engineering",
-      "originalUrl": "https://www.designnews.com/design-software/artificial-intelligence-pushing-boundaries-design-engineering",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/T998X3.jpg",
-          "width": 1540,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-20T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

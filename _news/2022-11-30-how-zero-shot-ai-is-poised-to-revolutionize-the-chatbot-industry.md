@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2022/11/30/how-zero-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2022/11/30/how-zero-shot-ai-is-poised-to-revolutionize-the-chatbot-industry/amp/"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "This AI chatbot is blowing people’s minds. It thinks out of the box, comes up with detailed answers"
+    excerpt: "From historical arguments to poems on cryptocurrency, users took to Twitter to share their surprise at the detailed answers ChatGPT provided, after the startup sought user feedback on the AI model Wednesday."
+    publishedDateTime: 2022-12-03T06:20:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/this-ai-chatbot-is-blowing-peoples-minds-it-thinks-out-of-the-box-comes-up-with-detailed-answers/articleshow/95955667.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 23
+    images:
+      - url: "https://img.etimg.com/thumb/msid-95956151,width-1070,height-580,imgsize-2336114,overlay-ettech/photo.jpg"
+        width: 1070
+        height: 580
+        isCached: true
 
 secured: "pBQ7hsfx7imjVN+KyVEQygayxQVgo45KxOc/FeKy+a2S3h52czm20+riZN/TBxhi+DRnJ76aVoeh8M11QlS71xzxFk7XyNPzX9UpucH4+yXrclQtjRTq43jHrQJekX1Vlf1IRqSoAWApipzVMjra31Ntjf5vAflAJRAMmA84IDsH/66KXcw6dpC1f3QiOle11WG04rl3MT+vWDyoqt96Tc22IXkysD4/6JMqn5BDdjwsbRKheotZUii3KIxc0OZPe2CHTi+K8H6oVIklz8iNp8mFsz7QKHOPG/cKbEN9O/Fq07VCKqYze6Vyc1pKXve77dq17gKCkBjUkA1jGn1kHum5eD7SVODuFHBycluxQ1XqlFG7dwBynaR+3cVRrl1FxuqkaahQwa8hYFNjnhBSsB7Qsn3qQfIMKEA7/FHodCFnt0WGO2GAQ6p/AyJer4Pu3TWRzk24hQdr2Kb3/parnleHU2HK8frfAwWYCrmJVCQd4HxDXpxfOHgF/JGZ+sMk7GNoqXHuSPUQRJHW8k7osg==;RTsOl61POps0hVjlchgseQ=="
 ---

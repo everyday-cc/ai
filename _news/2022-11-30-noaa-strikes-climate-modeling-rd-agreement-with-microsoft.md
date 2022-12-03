@@ -99,15 +99,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "Edge Impulse to Lower Barrier to Machine Learning Application Development Through Software Integration Collaboration with Renesas"
-    excerpt: "Edge Impulse, the foremost development platform for ML on edge devices, today announced a joint initiative to advance professional machine learning implementation by bringing Renesas' DRP-AI Translator software directly into Edge Impulse Studio."
-    publishedDateTime: 2022-11-28T14:11:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/28/9720074.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "3YnVHmVmpaNk9W33ste79W2VfVhLgFK7f1BZZ5UcoxWNek0ewAu+lB2pO8ECKPGf27eWRMrN7eO3V9FbWpLcz/k9Bv/hUg8X8oz1eye0O9QJqo6sXqIHDjr4Co6hkCI2EHDr8oQTpAuoaHgR1CM3R/duW5ksyyAq+bGuHk5ixdPr7lfOIX545XeQX/Z51YukHw5YUTwJA2Q9j7WhaGQnMhXfVHdk98wbJ3HVtU1b3Bwkmtli2qnM6xxbYNeLUo+PfeWIqd5D2Azix5LURm4SBRCdLlJtQWlaM7QTS+EuxRPALMWBnsCwiVw8cGjVeSvDUuu8Q1zbpoPibv+4peZpzRfgMyOnmKEdq4m+xkJHsfY=;mwQ3Swxpp1Xvr5yZL0UIrg=="
 ---

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Facial recognition can help conserve seals, scientists say"
-excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but a group of scientists believe they’ve found a new use for it ..."
-publishedDateTime: 2022-11-28T06:40:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/facial-recognition-conserve-seals-scientists-93857404"
-webUrl: "https://abcnews.go.com/US/wireStory/facial-recognition-conserve-seals-scientists-93857404"
+excerpt: "FREEPORT, Maine (AP) — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for ..."
+publishedDateTime: 2022-11-28T06:46:00Z
+originalUrl: "https://dailyprogress.com/news/science/facial-recognition-can-help-conserve-seals-scientists-say/article_d7c7cd46-2e05-5ce4-9f9d-f30356c87136.html"
+webUrl: "https://dailyprogress.com/news/science/facial-recognition-can-help-conserve-seals-scientists-say/article_d7c7cd46-2e05-5ce4-9f9d-f30356c87136.html"
 type: article
 
 provider:
-  name: ABC News
-  domain: abcnews.go.com
+  name: The Daily Progress
+  domain: dailyprogress.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://bloximages.newyork1.vip.townnews.com/dailyprogress.com/content/tncms/assets/v3/editorial/d/7c/d7c7cd46-2e05-5ce4-9f9d-f30356c87136/637e92fa2da59.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "fmyyNncYycZOzkpOj/7KtgLRcHfJAWRE0JGnvqMG0FFXCvCTR2w8YjpdOw9nnQI7PbhQMNL1ycN6YZAjE7oaSVIsM+UT9mwepEHkmLFq2eQ2zxcvxk2PIyRrh6MMFngEhgfje5F1lzsEATcRcVVroN3BaUqOf8i8oM91fCxfhV+u1x54vKY7dg/RZTKwfwB3H+/Uiqs/1ZJQb2ZYVx4QtmX7sPDJQRZOrRFPq7sQm2Qpzg3CNViJGAqYCJtsc8XtSMmBrUUEmrUlQ62IQ1Vrh1LdsiQ64bVKiAUCkIE7Kw0UpzyxCheMR+yhaSg42aMZOcjq6SKhLDDWXqFlnDrx8cYoiyqddoQbtzgsuhE4znY=;oQyIvyMBZ+7nbX0db+kvOw=="
+secured: "IMYAJcmUXBx2SsW5qO3NGYImQLHRXwXlBMHmSAKaKsMDYCigyTgU0cFzfTL9mSIBd45/PhWTixCG2UsqRnoYP1Zpb+oJFXHSfF9uFs8U6mFNOafujDNEt+jWKnDZNxqo2PBo+HL89tDRSRnQD/oOL90expLJkt84An8fGvgs8SGgmcYUtcY9WF8fOzemyI6KEOB9H6EW21jFMDUfyZ2Op3GxixMgQhtnw4jjGbQgsQ9VazOWSd8Feabz7ad/jVvJBYpm5Cv+3cz3HZgdSV5evw2q1HfJBbsxXMY1nySxr+ceilUdedcN5f46OjCjBehOlSqt4K4Z+PFt65oSnK7znUQhQtrpJorKQb6BOBzUbRA=;ZAsJFRLaO7/4M97AU7CaJg=="
 ---
 

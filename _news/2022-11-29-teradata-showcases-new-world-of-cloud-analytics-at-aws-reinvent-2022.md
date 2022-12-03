@@ -170,15 +170,6 @@ related:
     quality: 18
   - title: "SolarWinds to Address Unlocking the Power of Observability at AWS re:Invent 2022"
     excerpt: "As an AWS Partner Network Program (APN Program) member, SolarWinds will demonstrate how enterprises of all sizes can migrate or deploy workloads and build modern applications on AWS services faster and more securely by leveraging its AIOps-powered platform."
-    publishedDateTime: 2022-11-28T14:55:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/28/9720151.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
-  - title: "SolarWinds to Address Unlocking the Power of Observability at AWS re:Invent 2022"
-    excerpt: "As an AWS Partner Network Program (APN Program) member, SolarWinds will demonstrate how enterprises of all sizes can migrate or deploy workloads and build modern applications on AWS services faster and more securely by leveraging its AIOps-powered platform."
     publishedDateTime: 2022-11-28T16:06:00Z
     webUrl: "https://www.tmcnet.com/usubmit/-solarwinds-address-unlocking-power-observability-aws-reinvent-2022-/2022/11/28/9720151.htm"
     type: article
@@ -204,15 +195,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 9
-  - title: "Informatica Unveils New Innovations in Cloud Data Management Services on AWS at AWS re:Invent 2022"
-    excerpt: "Informatica supports various AWS products and services at the product level to bring best-of-breed cloud data management capabilities to hundreds of mutual customers including Freddie Mac. Informatica is announcing the following new capabilities at AWS re:Invent 2022 today: Informatica Data Loader is now embedded directly in the Amazon Redshift console,"
-    publishedDateTime: 2022-11-28T14:59:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/28/9720031.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
 
 secured: "BiOQbNWuxHDcsg+G3uSWw8VNgS83Nd9LZDLyhRd9sxY6/cOHEb0Whhq0NH2NKrYO/jUNA1YVMsrzhCxKfkqTPE5Og08SuWSvhHQUl9FRZPmTM0gfk53aU+pZ4D63uvMiWUSkD3Ku+RJu2OsVKL5uo5DlTDlbxzIa/rIocRQARtVHjW8jYWfIUy851zM4TaxFehkbEAxtElHnfe/25YniYRnqyThohfOfrEtd/LUIM431ZHO7z6Wsq1o4dL+sgyJNmsOMuk2B8Os35ryAzGeK3jwFLn/+OEoKToFkeSSpIBaxd2+gdymIwvU8mS/hrXVNjyTw9uG7jV+wO17h+a76TyvJQg6bXdLGkHX6h4iQw0cjQjwfo6N73NR73vTkNNcTtEHCh+JtMgiqeA1ec+0bSDRT6OXl9m02T/iabO9QWflYGPf6TiWQ5mP6vL/k1Di1jGu5XR7gLU+oglG8XnBTTcv8nMjgHtvWWBjsX71zNJwtVXleivyVX6LEiB5hfX2hVBbLS50Ox62cQqcpgrg70w==;NysLY5vRQRM9a3xZ50WbvA=="
 ---

@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/ai/nvidia-showcases-groundbreaking-generative-ai-research-at-neurips-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -52,51 +52,6 @@
         "AI",
         "AI Hardware",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-university-of-limerick-invites-applications-for-msc-in-artificial-intelligence-and-machine-learning-through-fateh-education.md",
-      "title": "University of Limerick invites applications for MSc in Artificial Intelligence and Machine Learning through Fateh Education",
-      "excerpt": "University of Limerick, Ireland is now inviting applications for its MSc program in Artificial Intelligence and Machine Learning. The course aims to provide students with core knowledge of artificial intelligence technology (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/university-of-limerick-invites-applications-for-msc-in-artificial-intelligence-and-machine-learning-through-fateh-education/",
-      "originalUrl": "https://indiaeducationdiary.in/university-of-limerick-invites-applications-for-msc-in-artificial-intelligence-and-machine-learning-through-fateh-education/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/university-of-limerick-invites-applications-for-msc-in-artificial-intelligence-and-machine-learning-through-fateh-education/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-limerick-invites-applications-for-msc-in-artificial-intelligence-and-machine-learning-through-fateh-education/",
-      "publishedDateTime": "2022-12-01T18:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning",
-        "AI in Education"
       ]
     },
     {
@@ -343,7 +298,7 @@
       "originalUrl": "https://www.cbsnews.com/essentials/the-best-cyber-monday-robot-vacuum-deals/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -1421,6 +1376,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-the-robots-are-coming-to-address-the-labor-shortage.md",
+      "title": "The Robots Are Coming (To Address The Labor Shortage)",
+      "excerpt": "Robots can convert dangerous ... From generative design to construction optioneering, the use of artificial intelligence (AI) can help transform your project planning, workflow and efficiency—before you ever break ground. Today’s AI-driven tools ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/the-robots-are-coming-to-address-the-labor-shortage/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/the-robots-are-coming-to-address-the-labor-shortage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6374e138b1ae5c9506f59b91/0x0.jpg?format=jpg&crop=1910,1074,x107,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/the-robots-are-coming-to-address-the-labor-shortage/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/17/the-robots-are-coming-to-address-the-labor-shortage/amp/",
+      "publishedDateTime": "2022-11-17T04:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

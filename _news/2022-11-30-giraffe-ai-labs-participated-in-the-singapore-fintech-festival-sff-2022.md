@@ -47,24 +47,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "Fintech Global Market to Reach $385.93 Billion by 2027 at a CAGR of 19.71%"
-    excerpt: "The publisher provides an analysis of the key trends in each sub-segment of the global fintech market report, along with forecasts at the global, regional"
-    publishedDateTime: 2022-11-28T15:03:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/28/9720005.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
-  - title: "Multi-Cloud Networking in Fintech Market to Reach $1.9 Bn, Globally, By 2031 at 18.2% CAGR: Allied Market Research"
-    excerpt: "Increase in adoption of multi-cloud networking in fintech, surge in deployment of cloud service providers (CSPs), and need for disaster recovery and contingency plans have boosted the growth of the global multi-cloud networking in fintech market."
-    publishedDateTime: 2022-11-28T14:50:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/28/9719932.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "XAh44hny6r9Z4/0d2eAOVEPCEsEM3M5obAhPyVsTBisMi4JLnIHhADtsqQNj4a52In6x1+CMv7V8OZ7JdbKhLeNIRyiumRMPnPdrqOGijFZLtRGMZhzQu7FgSXeXaITZKm5m3/KajqQz96wIMeXKgYGgJ3dCV2hYM6OudRNXn2tSHfuwLzD7XSQGXswz7zFMo6mFxMtH64TBEFE2KgIb+fv+ExwRX0OaJ75xyL9Num/hZyzB+qSGzvJJjowJ/i7aRYglHjUoFIaSZ2P9t+Gn/a06Jz6f/f2GyaEdmkUrDZvs5C2+cXEJdL8wb3uS9wv/2Q6rycThzwr5bndQTy0nVQo8QwCZEltqCg9AjVXhBQQ=;cSbqMn2qLvcBMMG2ry4XRg=="
 ---

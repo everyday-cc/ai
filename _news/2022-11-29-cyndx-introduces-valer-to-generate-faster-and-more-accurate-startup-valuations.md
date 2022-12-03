@@ -25,17 +25,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Cyndx Launches Valer to Generate Faster and More Accurate Startup Valuations"
-    excerpt: "Valer is an extension of Cyndx's powerful cloud-based, AI-enabled Finder platform and enables users to generate custom, data-based business valuations in just minutes. Determining a company's valuation has historically been a subjective process that relies on qualitative methods."
-    publishedDateTime: 2022-11-28T14:21:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/28/9720119.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
 secured: "ECdeQ0xJGYXyE9j0tfyMxbUMm5ixSE2STTj95DVI+RQRUXvIE3SGBERcQmKWrxnPmKIpbah5Bkv2m+GqzFLi/Idnv/rpwt1gzGlyb0nmCgcrLp+e0Kz4K7pJX8F4ENIz7rD75ARtwQb5NIlx4nWoOFe/PTsaAizu60u+FB1nx88/Bb5kYGDjyKuIeGcAVCILW8lpCpb9jTYdrMqZqgbSVwNuJWFLKCFRVRpudkl22AaGxrBZSV0gAmGSpMe4tRdTPjVkwLJAP+M9DlXV9dAajFK7npiqZpu3mg99BNaXBvMcfM+qs1rB2PrcHwWkVcledr3xIaSTicUWz8dLwoW4t3A1VfxWJDKz1DrZCqRMBwSu4/2ddIaa4IubtBwhO3iweSQSSoK/bW65rvUkhxxswtugUz5N2iAEm0nICJvj7LF1DVFLnkR9z6u+Ms4kSnEiOKYiGvpymxDAiGa0JUo2hGDwocumIJ2Exb1l+bhdjHCB7iBxhAFf/89grhuP+a7YHPWB0lAEll6fVUaSb/sNPQ==;WRrd2FuhE5ePKI7cBsm2sg=="
 ---
 

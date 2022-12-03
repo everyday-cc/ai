@@ -27,7 +27,7 @@ images:
 related:
   - title: "AcuFi Founder, Nicholas Kohlschreiber, Examines the Future of FinTech with AI"
     excerpt: "For the fintech sector, concerns in the security of both user and company data can be addressed by AI. More than ever, the modern age will come with a new variety of bad actors-hackers ..."
-    publishedDateTime: 2022-11-29T02:33:00Z
+    publishedDateTime: 2022-11-29T03:32:00Z
     webUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57703771-acufi-founder-nicholas-kohlschreiber-examines-the-future-of-fintech-with-ai-200.htm"
     type: article
     provider:

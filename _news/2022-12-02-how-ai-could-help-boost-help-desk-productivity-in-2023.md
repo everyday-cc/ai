@@ -34,15 +34,15 @@ images:
 related:
   - title: "New artificial intelligence could help humans actually talk to animals"
     excerpt: "Though humans have tried for thousands of years, modern science has found new ways to communicate with the animal kingdom, albeit with limited success."
-    publishedDateTime: 2022-11-30T08:38:00Z
-    webUrl: "https://www.wtvr.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
-    ampWebUrl: "https://www.wtvr.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
-    cdnAmpWebUrl: "https://www-wtvr-com.cdn.ampproject.org/c/s/www.wtvr.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+    publishedDateTime: 2022-11-30T01:55:00Z
+    webUrl: "https://www.wtkr.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
+    ampWebUrl: "https://www.wtkr.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+    cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
     type: article
     provider:
-      name: wtvr
-      domain: wtvr.com
-    quality: 57
+      name: WTKR
+      domain: wtkr.com
+    quality: 59
     images:
       - url: "https://cdn.newsy.com/images/videos/m/1669756816_CgX8sG.jpg"
         width: 640

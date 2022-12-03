@@ -105,7 +105,7 @@
       "originalUrl": "https://venturebeat.com/ai/nvidia-showcases-groundbreaking-generative-ai-research-at-neurips-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -437,6 +437,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-nvidia-rolls-out-ai-platform-across-nhs-hospitals.md",
+      "title": "Nvidia rolls out AI platform across NHS hospitals",
+      "excerpt": "The platform ensures that patient data never leaves the hospital trust when an AI algorithm analyses medical records",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/369604/nvidia-rolls-out-ai-platform-across-nhs-hospitals",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/369604/nvidia-rolls-out-ai-platform-across-nhs-hospitals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1669716264/itpro/2022/November/Nvidia_NHS_healthcare_AI_press.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T02:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1145,10 +1197,10 @@
     {
       "path": "_news/2022-11-21-axiomteks-ip67-outdoor-edge-ai-system-with-m12-connectors-powered-by-nvidiar-jetsontm-xaviertm-nx-aie800-904-fl-dc.md",
       "title": "Axiomtek's IP67 Outdoor Edge AI System with M12 Connectors Powered by NVIDIA(R) Jetson(TM) Xavier(TM) NX - AIE800-904-FL-DC",
-      "excerpt": "Axiomtek - a world-renowned leader relentlessly devoted in the research, development, and manufacture of series of innovative and reliable industrial computer products of high",
+      "excerpt": "Axiomtek - a world-renowned leader relentlessly devoted in the research, development, and manufacture of series of innovative and reliable industrial computer products of high efficiency – is pleased to introduce the AIE800-904-FL-DC,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/11/n29799601/axiomteks-ip67-outdoor-edge-ai-system-with-m12-connectors-powered-by-nvidia-r-jetson-tm-xavier-tm-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/n29799601/axiomteks-ip67-outdoor-edge-ai-system-with-m12-connectors-powered-by-nvidia-r-jetson-tm-xavier-tm-",
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/11/21/9717284.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/11/21/9717284.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1165,13 +1217,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29799601",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29799601",
-      "publishedDateTime": "2022-11-20T23:17:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-21T01:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1400,49 +1452,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-flexible-ai-computer-chips-promise-wearable-health-monitors-that-protect-privacy.md",
-      "title": "Flexible AI computer chips promise wearable health monitors that protect privacy",
-      "excerpt": "Rather than working like a typical computer chip, though, the chip we’re working ... Our research aims to make the AI analysis of health data happen within these skinlike wearable devices ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/flexible-ai-computer-chips-promise-wearable-health-monitors-that-protect-privacy-189860",
-      "originalUrl": "https://theconversation.com/flexible-ai-computer-chips-promise-wearable-health-monitors-that-protect-privacy-189860",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/494503/original/file-20221109-13740-snz30g.JPG?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=202&fit=crop",
-          "width": 320,
-          "height": 202,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/flexible-ai-computer-chips-promise-wearable-health-monitors-that-protect-privacy-189860",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/flexible-ai-computer-chips-promise-wearable-health-monitors-that-protect-privacy-189860",
-      "publishedDateTime": "2022-11-17T05:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

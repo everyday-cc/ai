@@ -92,20 +92,6 @@ related:
         width: 374
         height: 374
         isCached: true
-  - title: "Edge AI offers advanced insight, when and where it’s needed"
-    excerpt: "By embedding AI into edge computing devices, agencies can bring AI’s immense power out to the field and more reliably provide advanced insight no matter where the mission goes."
-    publishedDateTime: 2022-11-28T14:00:00Z
-    webUrl: "https://www.govexec.com/sponsors/2022/11/edge-ai-offers-advanced-insight-when-and-where-its-needed/379993/"
-    type: article
-    provider:
-      name: Government Executive
-      domain: govexec.com
-    quality: 37
-    images:
-      - url: "https://cdn.govexec.com/media/img/cd/2021/06/14/Accenture_Logo_700x394/original.png?1623692954"
-        width: 700
-        height: 394
-        isCached: true
 
 secured: "+Y6Eyu9K4IH6IjtNuQHraeOyF3dzfLFLGLQBYal1guzF5F6qEvSRLilLi5lbQ6iplVNgC+vV3K/ncldc7pi3oR+QVIokI+EAWJwhWZcInXhoBBn0QMDW1L7MDEF2bqXsg2FW88HcWEkr42QYRuFnTVXEkAk3CHw/+YRWNSX79AupyX4lY5ZVfwTU+8yjnQ0YsovLeOskReJ1r2dN7j12UmNQ97qjIQBrYXN8i8MS1hy3cN//1kD73ERmZA8RkcLnYVbuEg+oT6cKCUBrmlbdRnibzCik5mBunPrgHcAsKOF7Opqr7b8h4Hu0riG0w424fFbNIDLxY5uM8wk6b3RVb+jkm6TzVIi0HdQSfkkwACBK8S6MN7ddlhJNuU3CAUlJ+W+iLjREOemwl8jR0f71M0y0ZRy76tz53ibRhgn0BnQNzq3XZpFivGNIQWryqOB/oLlPw1906WSZ7fGnkKeJrHTeh05UzgWLPa1OUQLxigTePFJ8ZY6XI2mJKK6FY1713cox/1Vf0Ys53OCUuVGRCA==;owilv1lzLsBpt77JRB/Pvg=="
 ---

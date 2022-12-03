@@ -2,7 +2,7 @@
 category: news
 title: "AcuFi Founder, Nicholas Kohlschreiber, Examines the Future of FinTech with AI"
 excerpt: "For the fintech sector, concerns in the security of both user and company data can be addressed by AI. More than ever, the modern age will come with a new variety of bad actors-hackers ..."
-publishedDateTime: 2022-11-29T02:33:00Z
+publishedDateTime: 2022-11-29T03:32:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57703771-acufi-founder-nicholas-kohlschreiber-examines-the-future-of-fintech-with-ai-200.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57703771-acufi-founder-nicholas-kohlschreiber-examines-the-future-of-fintech-with-ai-200.htm"
 type: article
@@ -34,6 +34,6 @@ related:
         height: 420
         isCached: true
 
-secured: "R6sxqJhEGieStl/BCGSiQNhk2oKSiTWbpvLjxpZiWqUVYis9WqWguzxlEBQVVdd04Z8U+o000WAJZ+OasUns9K0YSgwlbtBkHl9g6HK+DJ5j3IAWIISHYdU8vIvnREat8s20PGRB/7K9T6vom184Y1j6khspIWhWDjZsfgmwCeS+jbU9gySP0ZDqYBfhMN+OtqDZqSgDNCfEwMCoCxEZc7jXVYwQGBB4qQs9OAwrJydt+URbw3yhCsYikF8mD1+/G5KLDmY8VnVU9iuceSim8rI4JKFWS7Zy1FEMfpMR/zmtnzw/OwU7rgNLky1WEMzZEudshcc8qCUF0E7u4gMDD4Q84+6Bal8newWfpEXJlxo=;1tVxR/+eM2tJ9jVU8hKNmw=="
+secured: "yOUUUSU5tupFpH5c3iGoupmmSo/lI0b9rqwb37+F2lT7kmCbcBZWA7u8YQxKXnymrZBLxpbYwzncHgtoV0RY7oXjcX84v8VW/WMqUENc764KFX+CnWsxF08OVOqFKa06Jp/1b3rYsgxH41tPOOEtOBsOLyOBej5T18gWm/6160MW0WHA27VT39fXc1VGpCPUQ+t3WQXvC/1LJIoZznhh1cBLr2DPfttGeToNuJ5n9wO0F8Cp3V/fVkkdLQMro99EwfN6rtTScTuxMXsXXyX1Ut8GJp7Uz7ouI7NZq4s1ih415OmXFzwmETfoHSu69omPfePFdvX6WZnRpUv5S0fSq4735dLIkZqmMO4XfYDufd8=;yjShE5ukLWVo5Z0W6dnwJQ=="
 ---
 

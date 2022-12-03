@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-2023-expected-to-reach-significant-rate-by-2027-2022-12-02"
 type: article
 quality: 72
-heat: 112
+heat: 92
 published: true
 
 provider:
@@ -52,24 +52,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 18
-  - title: "Fintech Global Market to Reach $385.93 Billion by 2027 at a CAGR of 19.71%"
-    excerpt: "The publisher provides an analysis of the key trends in each sub-segment of the global fintech market report, along with forecasts at the global, regional"
-    publishedDateTime: 2022-11-28T15:03:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/28/9720005.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
-  - title: "Multi-Cloud Networking in Fintech Market to Reach $1.9 Bn, Globally, By 2031 at 18.2% CAGR: Allied Market Research"
-    excerpt: "Increase in adoption of multi-cloud networking in fintech, surge in deployment of cloud service providers (CSPs), and need for disaster recovery and contingency plans have boosted the growth of the global multi-cloud networking in fintech market."
-    publishedDateTime: 2022-11-28T14:50:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/28/9719932.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "BFvOKVO19YGfKXVOdYck2a0cxlrlBnEMR821f78BvjCsditE7lA4Syif0rE6sE8ZO/8fKwJW8VzTiWbjYohGDCXAkgva3Xrd4iNjqp+izR/FFXTR/cq8ebt2LhqswlphvNIXpFfxznuubO+lKBrY1hMTw3ejl0drdcs18TINPMo8EWf58PFrwRieehb3VVhQ9op2c7wFu4Oq2ju3WGb8XLMq1JwvtyygLwGuQpwCLsFIH8TQuKg5PyLKL0CswmX9lAYd833TmDtfVM4RNvM/LPtpYTf1PIw4t/5M3PUzoYLzh59LJkfMrTMHe7g8wfKHpu7o5Vxls7+C+qdbRpjkpGNvypUuVkmKhN84qWxc8Og=;eIxR4rO++/eC079tQtwSrA=="
 ---

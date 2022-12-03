@@ -2,57 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-11-30-four-ways-companies-can-use-data-and-ai-to-set-meet-and-beat-their-esg-goals.md",
-      "title": "Four Ways Companies Can Use Data And AI To Set, Meet And Beat Their ESG Goals",
-      "excerpt": "Consumer interest in sustainable and socially-conscious purchases appears to be intensifying despite global economic woes like inflation. Today, more than 75% of younger shoppers consider ESG issues when making purchase decisions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kyndryl/2022/11/30/four-ways-companies-can-use-data-and-ai-to-set-meet-and-beat-their-esg-goals/",
-      "originalUrl": "https://www.forbes.com/sites/kyndryl/2022/11/30/four-ways-companies-can-use-data-and-ai-to-set-meet-and-beat-their-esg-goals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63876f2f0477a8afa6db977c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kyndryl/2022/11/30/four-ways-companies-can-use-data-and-ai-to-set-meet-and-beat-their-esg-goals/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kyndryl/2022/11/30/four-ways-companies-can-use-data-and-ai-to-set-meet-and-beat-their-esg-goals/amp/",
-      "publishedDateTime": "2022-11-30T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-30-neuralink-brain-chip-show-and-tell-update-how-to-watch-live.md",
       "title": "Neuralink Brain Chip 'Show and Tell' Update: How to Watch Live",
       "excerpt": "Maybe we'll see technology to type just by using your brain at Wednesday's update from the brain-implant startup co-founded by Elon Musk.",
@@ -165,7 +114,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2022/11/30/how-zero-shot-ai-is-poised-to-revolutionize-the-chatbot-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1228,6 +1177,58 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-six-ai-trends-poised-to-reshape-the-business-landscape.md",
+      "title": "Six AI Trends Poised To Reshape The Business Landscape",
+      "excerpt": "Successfully leveraging even one of these trends can help your organization optimize its competitive advantage while also elevating its growth trajectory.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/29/six-ai-trends-poised-to-reshape-the-business-landscape/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/29/six-ai-trends-poised-to-reshape-the-business-landscape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637390ed1b7646a9e461196b/0x0.jpg?format=jpg&crop=5700,3206,x0,y294,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/29/six-ai-trends-poised-to-reshape-the-business-landscape/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/29/six-ai-trends-poised-to-reshape-the-business-landscape/amp/",
+      "publishedDateTime": "2022-11-29T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

@@ -54,15 +54,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Why the future of AI is flexible, reusable foundation models"
-    excerpt: "topics in artificial intelligence right now. Subscribe to our newsletter now for a weekly recap of our favorite AI stories in your inbox. According to a review paper from 2021, foundation models are, “trained on broad data (generally using self ..."
-    publishedDateTime: 2022-11-28T13:46:00Z
-    webUrl: "https://thenextweb.com/news/why-the-future-of-ai-is-flexible-reusable-foundation-models"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 49
   - title: "The Future of Healthcare Is Connected & Data-Driven"
     excerpt: "Erez Kaminski, CEO & Founder of Ketryx, spoke about the reality of developing cloud-based software in a changing regulatory environment."
     publishedDateTime: 2022-11-30T10:28:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/n-ix-obtains-the-m
 webUrl: "https://markets.businessinsider.com/news/stocks/n-ix-obtains-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1031948094"
 type: article
 quality: 68
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -102,15 +102,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "Edge Impulse to Lower Barrier to Machine Learning Application Development Through Software Integration Collaboration with Renesas"
-    excerpt: "Edge Impulse, the foremost development platform for ML on edge devices, today announced a joint initiative to advance professional machine learning implementation by bringing Renesas' DRP-AI Translator software directly into Edge Impulse Studio."
-    publishedDateTime: 2022-11-28T14:11:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/28/9720074.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "WMUpS1sdnaXzbPmpgdAH0qYzLmNyUceOBIw61IfE9SYXX8Fr25SfONKVW+QOBA+Z6dwU5i/ACOp12eZ/zWD3mK+V6Z5gim4fUWEUTVlvziQR4gx8WW1Vdm42MDnGLvNgMPpByLHASuL2lpvC6cr7WzxOH7EQMvcXrNsTpemHR1B4kBGdkaskJO/KW/i5Y+N/B5H2rat8tttbVyr2TEO8BNfSq4hOwp0s0omDCyNKPv8k8jUvemmFhXm/UcOl5WTp7QURAy4159dmRjpkT+ssKdgd8o01AfO3aLQR7JjF0PrSEXLxMDpVf4C2Ohg5MDyauj1uUKcTJOQ6DQ+ALgkptn3qeJ3NZmG3x7Lt5hNZiSw=;LN7jrfPZYXlaUkR2gHpjnA=="
 ---

@@ -48,24 +48,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 18
-  - title: "Fintech Global Market to Reach $385.93 Billion by 2027 at a CAGR of 19.71%"
-    excerpt: "The publisher provides an analysis of the key trends in each sub-segment of the global fintech market report, along with forecasts at the global, regional"
-    publishedDateTime: 2022-11-28T15:03:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/28/9720005.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
-  - title: "Multi-Cloud Networking in Fintech Market to Reach $1.9 Bn, Globally, By 2031 at 18.2% CAGR: Allied Market Research"
-    excerpt: "Increase in adoption of multi-cloud networking in fintech, surge in deployment of cloud service providers (CSPs), and need for disaster recovery and contingency plans have boosted the growth of the global multi-cloud networking in fintech market."
-    publishedDateTime: 2022-11-28T14:50:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/28/9719932.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "SaznwxLotjczBSsKOINoWf6Na5CxtytfndW0jHLQSXteXkFDiDzD9tZsmAV45gQSPYECMAUrFlP0FsvwP2n526EODeYqfqjVw9aMjzvSIzjv1MtdFO+4qZ+ir69J6g6T7wF9jGS1C4ybA7D59T3tQNIxtw6F3HsBjl/Fzx5OyKAOuodj8U6WAKQJcPmhMGDmgR3fHgXSMsS+U6y+RT0LoUBR2ULjVQ/aGcqKoVGNOmDL+pPZW+gemKNdJHiQY1RAMd1egZvlNVwA3suNbHSlakOta3znquFkAW7LhGEwI6SrPCA4oxqYpg6QpJ4GEa6k/f4P6+ajf9RWCS4S2CzWnYVLy4j1jPeIEr3wH3v2bIR7l/BiWIWrIlzgHNWvlclYVEjDosjXILPqL01h1kPFt3s7z2imVK7Mzp0sQTBa220VhbFZdKq/viSSwaJa6qMyzS7KxvPxCqabkdXbrJoyvh8vlVaVPeSMmUzE9H3ypEzJ5y30D0fKQ9yL2VxgrPK+AX7Mgs8S/tS2bHly9u8Tiw==;u1s7r2gA0GeadCfnG9cM7w=="
 ---

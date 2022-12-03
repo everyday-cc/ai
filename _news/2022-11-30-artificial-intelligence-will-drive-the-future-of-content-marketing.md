@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/artificial-intellig
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-will-drive-the-future-of-content-marketing/"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Why the future of AI is flexible, reusable foundation models"
-    excerpt: "topics in artificial intelligence right now. Subscribe to our newsletter now for a weekly recap of our favorite AI stories in your inbox. According to a review paper from 2021, foundation models are, “trained on broad data (generally using self ..."
-    publishedDateTime: 2022-11-28T13:46:00Z
-    webUrl: "https://thenextweb.com/news/why-the-future-of-ai-is-flexible-reusable-foundation-models"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 49
   - title: "Bringing AI to the full C-suite"
     excerpt: "AI enables data-driven decision-making for all types of businesses. But it must be responsible, and it must start with the C-suite."
     publishedDateTime: 2022-11-30T19:08:00Z

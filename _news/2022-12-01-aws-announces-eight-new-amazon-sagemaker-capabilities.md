@@ -1,22 +1,28 @@
 ---
 category: news
 title: "AWS Announces Eight New Amazon SageMaker Capabilities"
-excerpt: "Amazon SageMaker Studio Notebook gives practitioners a fully managed notebook experience, from data exploration to deployment. As teams grow in size and"
-publishedDateTime: 2022-11-30T21:21:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/11/30/9722319.htm"
-webUrl: "https://it.tmcnet.com/news/2022/11/30/9722319.htm"
+excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced eight new capabilities for Amazon SageMaker, its end-to-end machine learning (ML) service. Developers,"
+publishedDateTime: 2022-11-30T18:16:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-eight-new-amazon-sagemaker-capabilities/article_fe16b955-2c7f-5b55-b556-bd4a4f9351ea.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-eight-new-amazon-sagemaker-capabilities/article_fe16b955-2c7f-5b55-b556-bd4a4f9351ea.html"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg"
+    width: 350
+    height: 455
+    isCached: true
 
 related:
   - title: "AWS updates its machine learning service SageMaker"
@@ -267,15 +273,6 @@ related:
         width: 1000
         height: 444
         isCached: true
-  - title: "Informatica tightens integration with AWS Redshift and SageMaker"
-    excerpt: "Informatica said its Data Loader software, which is a free tool for loading data into a cloud warehouse, is now embedded directly into the Redshift Console to enable users to upload data from multiple sources quickly without the extensive cleansing and governance procedures that can stretch that process to days or weeks."
-    publishedDateTime: 2022-11-28T13:30:00Z
-    webUrl: "https://siliconangle.com/2022/11/28/informatica-tightens-integration-aws-redshift-sagemaker/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
   - title: "Domo Joins the Amazon SageMaker Ready Program"
     excerpt: "Domo (Nasdaq: DOMO) announced it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner software solutions that are validated by Amazon Web Services (AWS) Partner Solutions Architects to integrate with Amazon SageMaker."
     publishedDateTime: 2022-12-01T14:28:00Z
@@ -313,6 +310,6 @@ related:
       domain: datanami.com
     quality: 19
 
-secured: "v7340WD8E/ojq6J4oDcUMVBZKsLGzNPBboPGuR3Sve22ICW7MROrIsKtBpoo7qf/cAOjpL+rKWfbExFJVyt3+NCHqCxyMQM0t17JH4CN4zLU7mc/+9Alcy+jfOxYfetBaW3g+w4dBWdlvFA0hRHZmQif5DY1MPzLnapH9nKlO+jPhWHM72pw51TO6IVYDTU8d7c1zrxlAZGsWg0U/Z+BzoGfaWRBW27JIKky/O7uN8qrH1i8O4yT/faO8RsKydf+tT86IGpJAIpDbf/K8HejfNYJ6jQQBXVTRUotzFWD4tP1isDWK+gl+1Etil/AnRZITGbG8uerGu6exyGWZUai3uCOLDN0UxkZ4n07Z4qaGJ8=;zfY2/qg/qfMCsANgb0MXtA=="
+secured: "xK9jSnVQg8v9RWpQjHjaAoEvOQTAkMhxdCatrWZ88QOVKe5bEP3sMKkbQ7VZOzVNanhTwcT4RRReWmjFfXmObyzedYW5EzNypm12xdl11N6IzVejONhcKDrEmbgHuVfS6xaNQrJu14P8CemkVTyJSdOzqhNEREqjyAR6LRrvjku10Rz33veTRwzxWYpk2kwAAll5zKv1EIj/ZqA/A06GXONG7h+QBWPbykjI5r4l6ljsJn+nzBMuHAd/z7tucrkhVsO+Mzxo+CUMCwIQMcgF7WP2z9ZjueQXaGhRrHhUEkpSajqHVKGvcr0DT87Bp4Eh6wWXWeiXKURJYoJauQkCyPmXs0k7ETTCyPVvldLp54Q=;x1kcxYT2RoXp7P++chjazA=="
 ---
 

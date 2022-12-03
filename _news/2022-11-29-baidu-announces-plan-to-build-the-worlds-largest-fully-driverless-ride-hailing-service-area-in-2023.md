@@ -2,28 +2,26 @@
 category: news
 title: "Baidu Announces Plan to Build the World's Largest Fully Driverless Ride-Hailing Service Area in 2023"
 excerpt: "Baidu plans to establish the world's largest fully driverless ride-hailing service ... Closed-loop data system to further enhance the intelligence of autonomous driving With autonomous vehicles ..."
-publishedDateTime: 2022-11-29T06:20:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29881903/baidu-announces-plan-to-build-the-worlds-largest-fully-driverless-ride-hailing-service-area-in-202"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/n29881903/baidu-announces-plan-to-build-the-worlds-largest-fully-driverless-ride-hailing-service-area-in-202"
-ampWebUrl: "https://www.benzinga.com/amp/content/29881903"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29881903"
+publishedDateTime: 2022-11-29T06:31:00Z
+originalUrl: "https://www.ksn.com/business/press-releases/cision/20221129CN49158/baidu-announces-plan-to-build-the-worlds-largest-fully-driverless-ride-hailing-service-area-in-2023/"
+webUrl: "https://www.ksn.com/business/press-releases/cision/20221129CN49158/baidu-announces-plan-to-build-the-worlds-largest-fully-driverless-ride-hailing-service-area-in-2023/"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: ksn.com
+  domain: ksn.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
-    width: 800
-    height: 313
+  - url: "https://i0.wp.com/www.ksn.com/wp-content/uploads/sites/13/2022/12/vlcsnap-2022-12-02-22h03m47s629.png?w=2000&#038;ssl=1"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -42,20 +40,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Investors Are Losing Patience With Slow Pace of Driverless Cars"
-    excerpt: "After years of ambitious targets and bold promises, investors are growing impatient with the pace of driverless-car development, sending shock waves through an industry that had become accustomed ..."
-    publishedDateTime: 2022-11-28T13:13:00Z
-    webUrl: "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382?mod=hp_lista_pos2"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 69
-    images:
-      - url: "https://images.wsj.net/im-673439/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Alstom demonstrates driverless shunting"
     excerpt: "Alstom has demonstrated for the first time the deployment of ATO at Grade of Automation (GoA) 4 on a shunting locomotive, enabling driverless operation."
@@ -114,6 +98,6 @@ related:
         height: 500
         isCached: true
 
-secured: "ENQhOxpqyerH9nHWcUUpZqBBkCIMGrdVBtruJXAFDr4FYN+jwBb6qxweXeX3j5pDeQHs9NoB8VuS1qSU4n0mxpYmGjG4seYHFjT0exx3BT76MZC1gjzughyOwDH0Jb425+EaKiuYLfOZmIZPVzOKr14Ul5U+bjIt7XdIBrTZADeLtrkcsbt65+bMUjmt0IqZncCJXk16qbvxX+qfSmEWGA87gkvgEFqWaUwv3SVQte1JkRmRFuJkq4WVynE2Qmg8Gbu52P7AH1BMJvQe3n/1qibjqfS4BGsR8Qp1f7/d7ntw/CzcTD+Tcj1F01I4+bi0dQaamgrA8QhWUXL2aAg38M1631oKmk/yXWBcDcS9r9o=;ZUF+2eQ7+tLU8lEZThaWjw=="
+secured: "xGzeyQEN+M9oR4fJeiUuAkDCdlKfBqdKB2EiDbWTqFLpGUlpNFSUtuWw6f+I80lYPVYsKd/ko3Rm0Rqhyziwq8DhYiTSKwl3mg01EjC/BY3PCgBGumS86xAceSd9H22lz6VWmIsNTOvJLwlB6vVTI/iGTBSxogplTnIPS77B+24cjSJk4OqmKg7u5U0SABR2By1GXCo+20/ZgfX373QWkU2ehuw9dtWNbk3JmOurKF5DCDSO0EFT1VCQYaZNtFptJ8XGSPTPnRwu6dkyAFkkShcLGbBVfrJQ9xhU8dOFbFvSAlMtaReXw4+4aCkTXMcqkmQakOMYOYttvg/u+c1AejnxtdUzBuj/typaDHQ867Q=;DgyK1mf4KWIY7AB5M1AJTQ=="
 ---
 

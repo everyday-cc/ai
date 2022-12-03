@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/aws-unveils-new-ai-s
 webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-unveils-new-ai-service-features-and-enhancements-at-reinvent-2022/"
 type: article
 quality: 104
-heat: 264
+heat: 244
 published: true
 
 provider:
@@ -174,15 +174,6 @@ related:
     quality: 18
   - title: "SolarWinds to Address Unlocking the Power of Observability at AWS re:Invent 2022"
     excerpt: "As an AWS Partner Network Program (APN Program) member, SolarWinds will demonstrate how enterprises of all sizes can migrate or deploy workloads and build modern applications on AWS services faster and more securely by leveraging its AIOps-powered platform."
-    publishedDateTime: 2022-11-28T14:55:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/28/9720151.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
-  - title: "SolarWinds to Address Unlocking the Power of Observability at AWS re:Invent 2022"
-    excerpt: "As an AWS Partner Network Program (APN Program) member, SolarWinds will demonstrate how enterprises of all sizes can migrate or deploy workloads and build modern applications on AWS services faster and more securely by leveraging its AIOps-powered platform."
     publishedDateTime: 2022-11-28T16:06:00Z
     webUrl: "https://www.tmcnet.com/usubmit/-solarwinds-address-unlocking-power-observability-aws-reinvent-2022-/2022/11/28/9720151.htm"
     type: article
@@ -208,15 +199,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 9
-  - title: "Informatica Unveils New Innovations in Cloud Data Management Services on AWS at AWS re:Invent 2022"
-    excerpt: "Informatica supports various AWS products and services at the product level to bring best-of-breed cloud data management capabilities to hundreds of mutual customers including Freddie Mac. Informatica is announcing the following new capabilities at AWS re:Invent 2022 today: Informatica Data Loader is now embedded directly in the Amazon Redshift console,"
-    publishedDateTime: 2022-11-28T14:59:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/28/9720031.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
 
 secured: "bokySvaHUqSz8bzqy2dHBmjf8vUWbKZsbQVe9Gs/K2b+D9iIjYaYLrzJI4vdcg9w7/QQ7H6giSiIKw7EqSF2tJufOBi4tKhprzOEg8XoKXcBR2ExP1Lla52YSwk42Qwo7YLpWADfP5/7fvdNnM3ObPwA8+9zvbGBzFq/4VpFq6RuZnxQUV/3R9n2iW2eM69k0EdcK4p6V5I69bgH2l35UztonsW/KK4wS/LmgB7OSOvNkl64XduE9EQ6nUjyIm0uwlM0FKqmrETPYyzsL5z1IabQ329MYQKGPJBrZKdck4x7YVBth7T7ZkiOsX5eRqL4E+S0d3rD7CsGEcHzfjzdBFtm2RtsWzDgZdqUJ54rxaA=;WXFaO2I7VA9hbSu4cpJtmg=="
 ---
