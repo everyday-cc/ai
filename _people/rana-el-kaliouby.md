@@ -10,7 +10,7 @@ website: https://t.co/CptEKpnJzd
 twitter:
   username: kaliouby
   url: https://twitter.com/kaliouby
-  followers: 34595
+  followers: 34597
 
 linkedin:
   url: https://www.linkedin.com/in/kaliouby/
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Rana el Kaliouby"
 
-secured: "z9RbS1QWdL0zF/38s+vL2mTiBMeAG1alJ2D+B4p0PudLPcpVZb45mEVmGMrP6wJejI7Sd0U+Wwdi3c3h3Fn5APF17+yrs3RvXG2ndVqtmWT474VspOQWUxMFc40JG1tLH9ldIYBQyZCXnQB2IAjLLD2oRgsD3XE+8Ibe3O0EJDLl8Hj7I3BTy52DRsxrhMWrgqWMztUfAFDYSU5hWW7pCu/MtbCnaRPtiBtMTy2WvSYJq1ILjn4L08eWEsWGZMCHlBC9oEV4ZqtbKOly+UTC/SYiQRR4mFlS7yaZjZJXCsB5V7/mQZIfHtC8dyaHrLGiJOycXQnZH/4ZH6EiFheymKpXkgwOLDS0RO79TyCaHBnV1YCNCoTrIZ7/pOOiLp33VswgdkEuWdbYCCgQyqADHrC+RpVZ1hmsVJfE2RNZuDw=;fXz1iB4qRPTYmexLoq3rDg=="
+secured: "htMX/HZ8jLBKJzntaBoyDwfQ4ZkFL5dqLeU4eGFf2R4oZqiJ5bOaBCxW6x0tebDalGbMBWwS++VeMGHZodN92QTt8aQXZQd1LUpzTfbr4gndpI1qkPJTyp1ksS//gZEcQ0cMrlM/TuAIt9GZG7zBIFndQeNYup0uFkwDoVuqNn+AQAaA2a/Xs9VXSfcgVFm4K3uX14sDIvBZ1jt5x/v2sSlxrBDCyHiG+D2bdeKdRpGJMTA9pI8FxdXiGQE6qkBEeXCbm62tPrVFS+K1Ah9cZJB2iFH0x/9EpsTeypwewyPCiLF3TIvjCgQQcZQUJcBvQgbeKAHntkYd/USiBpRTVG8y1C0F9GfZQaO+seJ/SSGpbo/CV9bhFCUM8sxq/yoQIZTE6Un+Qkb1eGmY78l1Qlykilz84bMFmD2Z23oFYew=;FDp8Y5svMT27Q/WTOTR3wQ=="
 ---
 

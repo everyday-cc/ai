@@ -3,7 +3,7 @@ name: "Alex Smola"
 bio: "Director for machine learning at Amazon Web Services, building exciting machine learning tools for data scientists, computer vision, NLP, deep learning and beyond."
 location: Palo Alto, CA
 type: "profile"
-heat: 82
+heat: 18
 
 affiliation:
   name: AWS
@@ -36,6 +36,6 @@ images:
     isCached: true
     title: "Alex Smola"
 
-secured: "DjQDDxmdCqxmW40yhys/qSMM/UXfuHKpXIw225yUA6wEDfbUCOQHbsefCB8a8CcfyzLx4Hjl9/NMDBe2pS6SqZL3sUu34lQnJWoHgnBoGNsv8d2kPZ4pskQ+bfe//JNdFL6IqZQSB6eIML1MOW7rxT7oG41/Rkcq131veu5uXL8L9WaGxvzjyRVVINQChgf9iV/8NaLu4OpiVvlUwwI8J8YfTjKW81otBGJDGD6q3E2dmYVsMdfURbzjU5R45jlP5+YFTOhYKG35G/VAU6KnzPhMeZlV329hlVBdug09TXZy/T6wEhPiFFmZzVLBy/I7FTuiUJNWul+/tkYUCPkcHfMapl9FqlVB6WmNCpkzIaFt1SN/7Kotke7qa5oFrYcuZQ6oC6UWYrSzZgLxQuHXNyU1jjHdF6g3hWkh7YVltw0=;BHzJXBvT9E6yK3JjsDVAvQ=="
+secured: "KO+DY/OKLYNXwA5o2YG6vxUGyQJFpp8QMQY3mDxQ22rHZ+Jj8zmfZDXwQlAzanQBVcRpE0uVs3iqelCgEYEUX4M2dM6w9Gw6LzDMhqt/rKv4cPNERKGTrswefrjW3P0ck6SK1CBFgFgx2HIvgD9Ew2mSP1PGyhgvguZ5hPHicdGot7nKcR6J12Kr4SC4VbuH0koqj4LBFATh3OporpoGcog45gtZLHGpyBn1JeqlqPKyDiYG0rp8hrgyPBny/LZFdqeFjlO168h/oOfKZNdp1xPI+qIKcMayC+RbIgESmdyZPWzFlCQlSbcEu3Tf44FhtvI3sIvi2RE6aXrHC6HOqE56wmilRqC7bTz8zwtFLlkihwgRfzOMbO2LiVkB6bO/0AaH2BnR6VPNpPWGXN9zaByuD9/Ym61TrZcaCFqSC/E=;y5Se9TQS7xKjAK+qOjIrHg=="
 ---
 

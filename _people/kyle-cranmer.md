@@ -3,7 +3,7 @@ name: "Kyle Cranmer"
 bio: "Particle physics, LHC, stats/ML/AI, collaborative & open science. Executive Director Moore-Sloan Data Science Environment at NYU."
 location: New York
 type: "profile"
-heat: 96
+heat: 138
 
 affiliation:
   name: nyu.edu
@@ -14,7 +14,7 @@ website: https://t.co/OiHC3bfPoX
 twitter:
   username: KyleCranmer
   url: https://twitter.com/KyleCranmer
-  followers: 14041
+  followers: 14042
 
 googleScholar:
   url: https://scholar.google.com/citations?user=EZjSxgwAAAAJ
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Kyle Cranmer"
 
-secured: "ksaYUqPDPx6vwnsgDnOOXFlmZz5yzWA8zoK7lkn9Nodkx2rO5eDGmmOter7k4+saCIqzhx1USWLabnCpnoK76f2iqEIlmU729d8cYNR1xgrDAsb8OcNlA/MEGt6uIjrcArO+yCJVXvF1vNRE43U2GWLDicVpvDjZZoBe9PNnKiAI08h/bVTKJ8NqlOOlCX5PBVoIZ5Uly7bHMR8CdLNNOdvqx8k4tqwGWENrHWX0pvAiGYzYM5Xl5fhjQv4fFaHXJCTt7mJuABTbyHl47dxeV3gm1EFYAKi5sSR4sIkeYOMgwp/uq+u3GRjTEzhaUr+SwPi67z2UdbYQn/fIwAgHiXE8hTxPciTUCIDyWf9MnhXpntOXHtuKmykDybyK/ISyIiXJxeT5CVZrfwuBFtvZrqvc1O8wvCsVafRERjQF9YA=;2G1c1Dm22dnXEEso4kCgRA=="
+secured: "dvy+np9D6Y4m25xOJXs2JkovsEdId23w9MIH5bqXWQSHUxGRlXOoMFGO7yCnPPjgoxAkedHWPdUr2GcNYWYTi0sCdpSuuqkv4puHv/kV5zdVpfrsbp/mjpEwdSkrifLqTifoYTTy/xSzHDz5BznS0ePwLPUAooNPc4kkdiPKYeIY0fp8K/pjZHrMepmidrSYoETIYfbORyDVhD5Un1bbuYziXrCEulOA2535RGPmlJNd9hIxlhjS/tiT9ySrNF9hB03Y5qEijHuBD1Q1SU1BCZcUG55VDxrReWGbXTnJwJL1sF079ypOie7Iz+wt5p1LYb4lJ3VBG0bZypSO6AZsu9+kqrzeRVBC2AXgfFQcjrkPzx2nxXVv8bk53Le6b2QEBrBh7fyxMFOhbhpEAhaGxhd0SSA4tRCB/4wW80N/5zE=;ze2/1ICpTiTedUqIEJ46iQ=="
 ---
 
