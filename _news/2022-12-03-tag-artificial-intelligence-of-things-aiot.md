@@ -6,8 +6,8 @@ publishedDateTime: 2022-12-02T22:11:00Z
 originalUrl: "https://www.securitysystemsnews.com/tag/artificial-intelligence-of-things-aiot-"
 webUrl: "https://www.securitysystemsnews.com/tag/artificial-intelligence-of-things-aiot-"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.securitysystemsnews.com/images/og-default-image.png"

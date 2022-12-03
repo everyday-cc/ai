@@ -21,19 +21,21 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "How AI-drawn illustrations are teaching kids to read"
-    excerpt: "That's the breakthrough idea from Daniel Cohen, the Denver-based entrepreneur behind the startup Story Co. How it works: The company creates personalized alphabet and numbers books that include realistic drawings of the family pet on each page."
-    publishedDateTime: 2022-11-28T11:59:00Z
-    webUrl: "https://www.axios.com/local/denver/2022/11/28/two-tails-childrens-book-pet-dog-ai-drawing"
+  - title: "University of Limerick invites applications for MSc in Artificial Intelligence and Machine Learning through Fateh Education"
+    excerpt: "University of Limerick, Ireland is now inviting applications for its MSc program in Artificial Intelligence and Machine Learning. The course aims to provide students with core knowledge of artificial intelligence technology (AI)."
+    publishedDateTime: 2022-12-02T02:55:00Z
+    webUrl: "https://indiaeducationdiary.in/university-of-limerick-invites-applications-for-msc-in-artificial-intelligence-and-machine-learning-through-fateh-education/"
+    ampWebUrl: "https://indiaeducationdiary.in/university-of-limerick-invites-applications-for-msc-in-artificial-intelligence-and-machine-learning-through-fateh-education/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-limerick-invites-applications-for-msc-in-artificial-intelligence-and-machine-learning-through-fateh-education/"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 37
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 67
     images:
-      - url: "https://images.axios.com/Hl54hnGjYpisZZCtJri7eROHxbI=/0x2311:5700x5517/1366x768/2022/11/22/1669139139989.png"
-        width: 1366
-        height: 768
+      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1"
+        width: 534
+        height: 462
         isCached: true
 
 secured: "OA/kqgSY/Qme73BV1OlJSUtqTkK2LlM5d2iwU1VpkAFOo/ZR+mW28sf3kwMx7CGNGdVL5tzStWvE+pkZcupHfbHrzXN/wBpE0NKzjlN0YaFimGkcU53dF8gNhBSccDZ7aZI5txXkFM9cfWUnB9MFqf6Y3l4B7sEgqxXqlpC5Gelth8toRQHx1obqwDnA7R56rDvZDOBL39h6XpxqOedDJ0AFdL5cJdwYmndwK99g4s5gkmKqwbcWXJNu7yhWt+XsIZXXcVPRtH+eEdzrNuDb6qWf6fQSRuwCLwqYXpmp3ci4EO0xVTLC4tYne2+r/5LVggt9EKbBENF9x5SskRPB0bC4wYnD1N5mNNr+8NzXPu3cGDmAeXYlIZYkFsSOwohFwlXFEMXVOnZlJwNY/xK36VVC+CaUrnl4CuDobIJdVIiZr+J5zmEDwy9zVH4ZlDaf2eBQW9epWvC27vz2Ja6k4UIIv8qXoNaCOFGu2G2OdyyI7xxn58t/RBqXxbtNMLDlpg+Uw3cUx1d9O63nj0IvPA==;QqE+NDmw+W5WmQNNhiFsFw=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://diginomica.com/parsing-hype-hopes-practical-applications-ai-
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/parsing-hype-hopes-practical-applications-ai-finance-solutions?amp"
 type: article
 quality: 68
-heat: 98
-published: true
+heat: -1
+published: false
 
 provider:
   name: Diginomica
@@ -27,45 +27,64 @@ images:
     isCached: true
 
 related:
-  - title: "University of Limerick invites applications for MSc in Artificial Intelligence and Machine Learning through Fateh Education"
-    excerpt: "University of Limerick, Ireland is now inviting applications for its MSc program in Artificial Intelligence and Machine Learning. The course aims to provide students with core knowledge of artificial intelligence technology (AI)."
-    publishedDateTime: 2022-12-02T02:55:00Z
-    webUrl: "https://indiaeducationdiary.in/university-of-limerick-invites-applications-for-msc-in-artificial-intelligence-and-machine-learning-through-fateh-education/"
-    ampWebUrl: "https://indiaeducationdiary.in/university-of-limerick-invites-applications-for-msc-in-artificial-intelligence-and-machine-learning-through-fateh-education/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-limerick-invites-applications-for-msc-in-artificial-intelligence-and-machine-learning-through-fateh-education/"
+  - title: "The Era of Evolution for Conversational AI"
+    excerpt: "Conversation AI-powered digital avatars would act as personal shopping assistants or stylists for customers, assisting them in a quick, seamless virtual shopping journey, owing to the lower latency of"
+    publishedDateTime: 2022-11-30T17:30:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/technology/the-era-of-evolution-for-conversational-ai/440181"
     type: article
     provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 67
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
     images:
-      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1"
-        width: 534
-        height: 462
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1669870136-Myproject-1155.jpg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "Using AI and socially assistive robots for early detection of urinary tract infections"
-    excerpt: "A team of researchers from the University of Edinburgh and Heriot-Watt University are developing artificial intelligence (AI) and socially assistive robots to detect urinary tract infections (UTIs) earlier."
-    publishedDateTime: 2022-12-02T12:57:00Z
-    webUrl: "https://www.news-medical.net/news/20221202/Using-AI-and-socially-assistive-robots-for-early-detection-of-urinary-tract-infections.aspx"
+  - title: "Human creators stand to benefit as AI rewrites the rules of content creation"
+    excerpt: "Generative AI programs could free human creators from tedious tasks and enable them to focus on ideation and creative thinking."
+    publishedDateTime: 2022-11-29T15:01:00Z
+    webUrl: "https://www.technologyreview.com/2022/11/29/1063736/human-creators-stand-to-benefit-as-ai-rewrites-the-rules-of-content-creation/"
+    ampWebUrl: "https://www.technologyreview.com/2022/11/29/1063736/human-creators-stand-to-benefit-as-ai-rewrites-the-rules-of-content-creation/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/11/29/1063736/human-creators-stand-to-benefit-as-ai-rewrites-the-rules-of-content-creation/amp/"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 48
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 58
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_732655_16699856892472219.jpg"
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/11/dragon1200-1.png?w=1100"
+        width: 1100
+        height: 733
+        isCached: true
+  - title: "Are We Ready for the Robot Revolution?"
+    excerpt: "I’m not sure what she’s been watching, but she says she wants a humanoid robot that can help her around the house and accompany her when she goes shopping. When I foolishly enquired further, Gina informed me that,"
+    publishedDateTime: 2022-11-30T06:54:00Z
+    webUrl: "https://www.designnews.com/robotics/are-we-ready-robot-revolution"
+    type: article
+    provider:
+      name: Design News
+      domain: designnews.com
+    quality: 39
+    images:
+      - url: "https://www.designnews.com/sites/designnews.com/files/max-0036-featured-image-halodi-robots.jpg"
+        width: 770
+        height: 400
+        isCached: true
+  - title: "Nielsen and AI4ALL expand relationship to build the next generation of diverse artificial intelligence leaders"
+    excerpt: "Nielsen collaborated with AI4ALL to launch the inaugural Data Jam initiative for students in their College Pathways program."
+    publishedDateTime: 2022-12-02T07:11:00Z
+    webUrl: "https://www.nielsen.com/news-center/2022/nielsen-and-ai4all-expand-relationship-to-build-the-next-generation-of-diverse-artificial-intelligence-leaders/"
+    type: article
+    provider:
+      name: Nielsen
+      domain: nielsen.com
+    quality: 34
+    images:
+      - url: "https://www.nielsen.com/wp-content/uploads/sites/2/2021/10/nielsen_default_meta_image_1200x675.jpg"
         width: 1200
-        height: 633
+        height: 675
         isCached: true
-  - title: "Steerable soft robots could enhance medical applications"
-    excerpt: "Borrowing from methods used to produce optical fibers, researchers from EPFL and Imperial College have created fiber-based soft robots with advanced motion control that integrate other functionalities,"
-    publishedDateTime: 2022-11-28T14:47:00Z
-    webUrl: "https://techxplore.com/news/2022-11-steerable-soft-robots-medical-applications.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 19
 
 secured: "7r6ACrrLp0ufgC6yp+orrwk6cAHDuxsfD4l7ie103bqk4/Ld4yVSQEndxEPJFiLYl03RGe/34qfDTYCym+PGC2vAOqd1GgBI1f+ixazOX9UXProEbjlyrOH1P48uKVbYg0OQNsangvcOQnGu8MWKZ213kknt9AjFWWNi0idlmn2be+2DMiJ1DKdKUFO3tDWDXadOypEWk7Wr3Az2PNAp74f8N+4bXaw1urC5K+JCSXRgSCUDBu8tM1jaZwMS1ZpbxMXhKgYQ0o2G/uvW00jf1jGk/PhjYBx9ykJzHJoia4mCLUSyp7Mhs0cHIwSG3D6/u1Q5o9ChUkYPQ8JdGM0g91He5Jwve/ZzB5bn4mJgGqwQEJDAonzZ8hJVG1a/wq7Ti4tx7ag2VmBVBcX69upDWgycLcs1ePkMaT1rk2QPpbyjOh6K06p91EqNV1o5jL+kkx/J6eI2nZvJtSLKYRl0afXLkGI8oKfVEb7WieY9W1HMXwNAJHLL0qy2kOlXZqKVsYuR2DQxh4ogE1aPjJmtzA==;2IVObNXoFX7ybMyNnBEBLg=="
 ---

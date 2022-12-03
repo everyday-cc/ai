@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/games/how-generative-ai-could-create-assets-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Creative AI Is Generating Some Messy Problems"
-    excerpt: "A tense scene in the 2004 movie iRobot shows the character played by Will Smith arguing with an android about humanity’s creative prowess. “Can a robot write a symphony?” he asks, rhetorically. “Can a robot turn a canvas into a beautiful masterpiece?"
-    publishedDateTime: 2022-11-28T07:57:00Z
-    webUrl: "https://www.washingtonpost.com/business/creative-ai-is-generating-some-messy-problems/2022/11/28/be2b2efc-6ee2-11ed-867c-8ec695e4afcd_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XSVV4TTO4II63BT4R3DJLZFPZU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Future of Metaverse in the healthcare sector"
     excerpt: "including artificial intelligence, virtual reality, augmented reality, the internet of medical devices, robotics, quantum computing, etc., through which new approaches to delivering high-quality healthcare treatments and services can be investigated."
     publishedDateTime: 2022-11-30T10:15:00Z

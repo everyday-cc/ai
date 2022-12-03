@@ -89,6 +89,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Ethics and Governance of AI"
+    excerpt: "There is a vast body of legal and technical literature focused on what fairness means in the context of algorithms and how fairness can be measured. This panel will explore the issues in dispute and focus on the challenges yet to be solved. It is a unique ..."
+    publishedDateTime: 2022-11-28T16:19:00Z
+    webUrl: "https://cyber.harvard.edu/events/ethics-and-governance-ai"
+    type: article
+    provider:
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 54
+    images:
+      - url: "https://cyber.harvard.edu/sites/default/files/styles/image_large/public/2022-11/shutterstock_1382688467.jpg?h=7f8038c2&itok=4YIlxFOi"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Edge AI offers advanced insight, when and where it’s needed"
     excerpt: "By embedding AI into edge computing devices, agencies can bring AI’s immense power out to the field and more reliably provide advanced insight no matter where the mission goes."
     publishedDateTime: 2022-11-28T14:00:00Z

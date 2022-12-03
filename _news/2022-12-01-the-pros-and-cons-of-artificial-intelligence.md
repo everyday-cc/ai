@@ -78,6 +78,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Ethics and Governance of AI"
+    excerpt: "There is a vast body of legal and technical literature focused on what fairness means in the context of algorithms and how fairness can be measured. This panel will explore the issues in dispute and focus on the challenges yet to be solved. It is a unique ..."
+    publishedDateTime: 2022-11-28T16:19:00Z
+    webUrl: "https://cyber.harvard.edu/events/ethics-and-governance-ai"
+    type: article
+    provider:
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 54
+    images:
+      - url: "https://cyber.harvard.edu/sites/default/files/styles/image_large/public/2022-11/shutterstock_1382688467.jpg?h=7f8038c2&itok=4YIlxFOi"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "The Future of Artificial Intelligence"
     excerpt: "Ten years ago, Human Rights Watch united with other civil society groups to co-found the Stop Killer Robots campaign in response to emerging military technologies in which machines would replace human control in the use of armed force. There is now ..."
     publishedDateTime: 2022-11-28T18:43:00Z

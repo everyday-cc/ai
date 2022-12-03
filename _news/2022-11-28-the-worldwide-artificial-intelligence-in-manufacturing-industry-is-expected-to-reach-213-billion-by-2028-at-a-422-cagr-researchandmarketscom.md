@@ -33,6 +33,15 @@ related:
         width: 1540
         height: 800
         isCached: true
+  - title: "Insights on the Artificial Intelligence in Manufacturing Global"
+    excerpt: "The Global Artificial Intelligence in Manufacturing Market is expected to reach $21.3 billion by 2028, rising at a market growth of 42.2% CAGR during the forecast period. In recent years, artificial intelligence has become one of the fastest-growing technology."
+    publishedDateTime: 2022-12-01T20:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-insights-the-artificial-intelligence-manufacturing-global-market-2028-/2022/12/01/9723284.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "mEVyiPD323VaqUC/t6ZGqKdYkOmH0I7im+yJN4mup+w/vbU9ZFFHTSrGnrTgXllxN95AvrFv2X5UJ/qYpWkrBJH1Uh0LvejGCqv1FUQJDFhrKFFGlfYKGzAIT79jyOCacpTfWGw1ixnvmVweIDrDcOUCyM1E9cFW5+nce58x1WRNs8qJniqCv3v5yJ+X6iMv6IkQ+tuAY68NHDilaX/mwmkf0rrck8fq97gR3vScTs2RXA3SQqIlhqDbzVfU0xYZVkE8SeCuAZB7JKm8EiDF3dCJuO7qfT92hbSAcLJSTM3cp4AU7/sPZVMe7E7hH+bN4lEDYz/oW7eBlEfYK9gywZZCaatkyrYZMQqfWm4lxxc=;Zh9nr6e5Orv1bZOLUm+GVQ=="
 ---

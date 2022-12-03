@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "DeepMind's new chatbot uses Google Search, humans to give better answers"
-    excerpt: "DeepMind, owned by Alphabet, has unveiled a new AI chatbot called Sparrow, trained on DeepMind’s large language model Chinchilla. The bot can talk to humans and answer questions using Google Search for information, which is rated by humans on usefulness ..."
-    publishedDateTime: 2022-11-28T07:11:00Z
-    webUrl: "https://tribune.com.pk/story/2388564/deepminds-new-chatbot-uses-google-search-humans-to-give-better-answers"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 38
-    images:
-      - url: "https://i.tribune.com.pk/media/images/RETRO-71669621625-0/RETRO-71669621625-0.jpg"
-        width: 3000
-        height: 1688
-        isCached: true
   - title: "DeepMind AI topples experts at complex game Stratego"
     excerpt: "An AI called DeepNash, made by London-based company DeepMind, has matched expert humans at Stratego, a board game that requires long-term strategic thinking in the face of imperfect information. “The rate at which qualitatively different game features ..."
     publishedDateTime: 2022-12-01T19:17:00Z
@@ -95,6 +81,6 @@ related:
       domain: nature.com
     quality: 34
 
-secured: "zFdFcjRofxSt0FiHqZhR9zLeKkeDaYSQjB+rnY5klwb+iwp2Hqd0xEEB9nlTH3KczLRiMQLJLZOKjkFSBKg0SZ35djfZ3dylEFO8mV/4a8B/iSVu4r9erWQmmwH3iyh7BgTNJ89iCyrsKlmeh4dX5hVO/qg24xT1L7m+2HiOvQUxmSYQgQOzr79P9A/brEXIGhV7VF59NOV6REhOD97+bvp2ZJwz1RyEma8OwnRCeGlu6108mYFQ/+XEIRczT+0lJkkhlZ7/tsrPu5z5vFl32iHELad0xH1epTlcD6Rr7F7RpxbNnnKdI6kT9j06qIuGZdDvEJmgoaLv+jg8WHZrLl9+gKm7Wiy7vhTDUmGEdn0=;RXqeUeGtXbk+D7wBHzVcHw=="
+secured: "sA0uZekiN7k8ROlEYgZseTl5pNUKHq0onItEs7hV2eErRagdeqMdQMLlNmANZUguUdEp9BdR7OKu8PADosEA3P/nHH0mMCSp2x2ID9bvUAMIV2Q7mceUWicv5lNqoDUoVYZM2lRHHvfScYu/57qjn3+1YtqPADinS5CqyhE9kjbslaw2l6NyRrmMRwnQbEFeHa1C4m7VliP7OygMMgJffmh9CyuCeZAxITOlFAcQVNTgEH63qUQKVyf8QWhoUUdytLoKs8s++hqRukrHgmQcrDRWVXkM37pe++U+gYp7srYscrF8w6wo7ov7IjHL7S665MPD13ate2L1v8Hhzetwav0D51JmqEv1DJ6BDy2tFkCFdC+vuN8+vm407el8fmukGqMfsExT4IhnA+v3IUAGzxsFZ109pnoqt2R6zWlTXQo2c6aMLs/CTsQQ/xucdyOQ5ng3tMpVnIHLOnvZbkXlYw+r3lrbRQ+oh6DF4jD8ULgo4sRoBc8i4dFzxmXGtlvR4WfR+0UnpLIhljRDUKIO+w==;NItfdiepC+mgQaj+CRRV9Q=="
 ---
 

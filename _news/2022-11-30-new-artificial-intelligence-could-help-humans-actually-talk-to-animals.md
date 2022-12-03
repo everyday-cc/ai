@@ -3,20 +3,21 @@ category: news
 title: "New artificial intelligence could help humans actually talk to animals"
 excerpt: "Though humans have tried for thousands of years, modern science has found new ways to communicate with the animal kingdom, albeit with limited success."
 publishedDateTime: 2022-11-30T01:55:00Z
-originalUrl: "https://www.tmj4.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
-webUrl: "https://www.tmj4.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
-ampWebUrl: "https://www.tmj4.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
-cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+originalUrl: "https://www.wtkr.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
+webUrl: "https://www.wtkr.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
+ampWebUrl: "https://www.wtkr.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: TMJ4
-  domain: tmj4.com
+  name: WTKR
+  domain: wtkr.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
@@ -87,6 +88,6 @@ related:
         height: 630
         isCached: true
 
-secured: "+i+bTgN5SwtCHOh4/uN1BMsLQ4LwJwD2G5ccV5EqA33Ub+7EuB1NMAxlwwhWr2OOdjkzIaXtpNBt4xPzskEPwaGR2VfkDlcaIy2Dj4UBuU2YqBOF0Vi7ikvEYquNe6SPgjIAq4XHZagdFIoBjb3dn+/vAnahxTJJ9QckzfGROu//tm7iaT2Kzj5CXpcYUm+kEZoMsdXUGnrxf9n8AXdxFcT508h1TGY8D4P49ywL6MFnkvsvojB7oCYLls+lBa0dyxv+p68SEJYyB+CO4ZwU82pahYTtlNAVLHHp/eOBpLc5ldR1BLw/iDbv4mw9TiBaN7A2IiUyv5ahvZUhIS+H/kYncGxl6l+Rwp4QHI1Djrw=;2u8wdoq6E9tZT7W5K3tuiA=="
+secured: "t+GariSA8Cf2mlvgZNPfGx9/HNHzOWSWEHNrfe/FikP+bUGXY33NJFS/Z8jVaA6EYRknNDQ4uN3lDLrThefWPLqDFhszZD6Tw/T4hMjAEXh4gchytvk8JhUq4bgYKplpQTN8GJE7G3JwDm5vlUVXyoMfSimMMaagMtlFNGvWglEsAxN5yZFqCEoUm4S8WPmZJrN92CiQHubxe/MXPlGx6HK9HHDnqdvpbpPGTZ3mG5Uqymn25D8ReSHu8W7SGhoJTLhmpWinnonnW/e+1W9XuPirEaGyi1UjWVG3EijAb/JocBEqHTWs67N74r2Nd6hPylW3RT/XZIlnuAAyQ4afd417s0hP/ZkRhvlcjgnhDu8=;hKZyJe5q0fb7YvsPCF5hzw=="
 ---
 

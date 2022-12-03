@@ -55,20 +55,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "AI - the future of retail"
-    excerpt: "Technology is changing the retail sector, with artificial intelligence (AI) shaping shopping centers and stores of the future. The Covid-19 pandemic changed traditional retail as many customers had to shop online."
-    publishedDateTime: 2022-11-28T07:42:00Z
-    webUrl: "https://vietnamnet.vn/en/ai-the-future-of-retail-2085429.html"
-    type: article
-    provider:
-      name: Vietnamnet
-      domain: vietnamnet.vn
-    quality: 37
-    images:
-      - url: "https://static-images.vnncdn.net/files/publish/2022/11/28/retail-vn-930.jpg"
-        width: 1036
-        height: 816
-        isCached: true
 
 secured: "nz07TLKKZ1QZ3oX1jTQ9vFObivQciFYbT3Ev8tzMsMujyhj5BgN0BewMyrRU7a72axYcy4U1YjcGZyjsPkJnEbNPo3YHTonCBXONfKQ4ILyd8xgVyaciEF5NEvvE8oD+Or0DLvyqGFwuh0ldBNB9rUwakgL5zy6KZrOpDVUYwlVhtWVOECojNvaGgVtoyJAJ+0Y1/w3YEv6OzAcWNGoOug9F4w+lPa4w3F0Alh1dXZ06fmCflfnokZbILwnzK0pyrQ8TgmFm3f1xdSI9QQcm9BaWaA5iYRz4uVIWOrVOjj56uJQro0Q5OyJbLTWqHG0U0q+fJIPfjorLRMlCNg1VUbqw/gQJeZTJlu7MABeSawYs1vBkLbxw3BVrRj3trxzUqhDYAK8G8h0fXF+ZPQAgWUyfeIo9s4XzbLu2+lGYf7GATyrHVeUtTfnJ2pKV5cP4MEYEuucg/AvhrFQyYHw+WJk9e2OQOLvPRBqXJG43UYPUM7rvfEjNuMiBT8QZ7XbCH9XiHEABWXyQZwtTmwwg9w==;a6EmnzchoyasayxO0MC8TA=="
 ---

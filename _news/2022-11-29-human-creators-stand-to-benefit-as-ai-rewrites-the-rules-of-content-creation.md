@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Can the AI Bill of Rights shape global AI regulation?"
-    excerpt: "Experts clash over whether the policy proposal is fit for purpose, with some suggesting it does more harm than good"
-    publishedDateTime: 2022-11-28T08:00:00Z
-    webUrl: "https://www.itpro.co.uk/business/policy-legislation/369570/can-the-ai-bill-of-rights-shape-global-ai-regulation"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 69
-    images:
-      - url: "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1669130979/itpro/2022/November/GettyImages-US%20flag%20digital.jpg"
-        width: 375
-        height: 210
-        isCached: true
   - title: "The Era of Evolution for Conversational AI"
     excerpt: "Conversation AI-powered digital avatars would act as personal shopping assistants or stylists for customers, assisting them in a quick, seamless virtual shopping journey, owing to the lower latency of"
     publishedDateTime: 2022-11-30T17:30:00Z
@@ -56,43 +42,50 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "ADGM's Financial Services Regulatory Authority Launches AI Initiative On Open Regulation"
-    excerpt: "Without regulatory context, AI applications will be limited in their potential to help financial services firms navigate the regulatory landscape. In this regard, OpenReg provides the regulatory context required by firms to develop their own AI solutions."
-    publishedDateTime: 2022-11-29T21:45:00Z
-    webUrl: "https://menafn.com/1105243780/ADGMs-Financial-Services-Regulatory-Authority-Launches-AI-Initiative-On-Open-Regulation"
+  - title: "Parsing the hype, hopes, and practical applications of AI across finance solutions"
+    excerpt: "Is AI in finance a pot of gold at the end of the rainbow? Zoho's Raju Vegesna does some myth-busting and explores the the middle ground where AI has a useful place amid the hype."
+    publishedDateTime: 2022-11-30T16:04:00Z
+    webUrl: "https://diginomica.com/parsing-hype-hopes-practical-applications-ai-finance-solutions"
+    ampWebUrl: "https://diginomica.com/parsing-hype-hopes-practical-applications-ai-finance-solutions?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/parsing-hype-hopes-practical-applications-ai-finance-solutions?amp"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 30
+      name: Diginomica
+      domain: diginomica.com
+    quality: 68
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?554410"
-        width: 444
-        height: 250
+      - url: "https://diginomica.com/sites/default/files/images/2022-11/Shutterstock_582621088.png"
+        width: 740
+        height: 450
         isCached: true
-  - title: "ADGM’s Financial Services Regulatory Authority launches its AI initiative on Open Regulation"
-    excerpt: "The Initiative will tap the innovation community in the co-creation of AI models and applications to achieve better regulatory outcomes"
-    publishedDateTime: 2022-11-29T09:46:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/adgms-financial-services-regulatory-authority-launches-its-ai-initiative-on-open-regulation-e0j92dgj"
+  - title: "Are We Ready for the Robot Revolution?"
+    excerpt: "I’m not sure what she’s been watching, but she says she wants a humanoid robot that can help her around the house and accompany her when she goes shopping. When I foolishly enquired further, Gina informed me that,"
+    publishedDateTime: 2022-11-30T06:54:00Z
+    webUrl: "https://www.designnews.com/robotics/are-we-ready-robot-revolution"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 28
+      name: Design News
+      domain: designnews.com
+    quality: 39
     images:
-      - url: "https://static.zawya.com/version/c:YzgyNGFjMmItMmQ4OS00:YTA4YTAy/abudhabiconstruction-jpg.jpg?f=1%3A1&q=0.75&w=3840"
-        width: 406
-        height: 405
+      - url: "https://www.designnews.com/sites/designnews.com/files/max-0036-featured-image-halodi-robots.jpg"
+        width: 770
+        height: 400
         isCached: true
-  - title: "Insights on the Artificial Intelligence in Manufacturing Global"
-    excerpt: "The Global Artificial Intelligence in Manufacturing Market is expected to reach $21.3 billion by 2028, rising at a market growth of 42.2% CAGR during the forecast period. In recent years, artificial intelligence has become one of the fastest-growing technology."
-    publishedDateTime: 2022-12-01T20:24:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-insights-the-artificial-intelligence-manufacturing-global-market-2028-/2022/12/01/9723284.htm"
+  - title: "Nielsen and AI4ALL expand relationship to build the next generation of diverse artificial intelligence leaders"
+    excerpt: "Nielsen collaborated with AI4ALL to launch the inaugural Data Jam initiative for students in their College Pathways program."
+    publishedDateTime: 2022-12-02T07:11:00Z
+    webUrl: "https://www.nielsen.com/news-center/2022/nielsen-and-ai4all-expand-relationship-to-build-the-next-generation-of-diverse-artificial-intelligence-leaders/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
+      name: Nielsen
+      domain: nielsen.com
+    quality: 34
+    images:
+      - url: "https://www.nielsen.com/wp-content/uploads/sites/2/2021/10/nielsen_default_meta_image_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "mTCRrY5qdFsNrIAKd0Ly0/f0tr/YvDRqz2qNuHnbMyL4KDWUg4L5XbNQHBZA1eIPB9wtkAE5vljF3DXeXvtx175DtfQRnZSdX0D22b37B2TaCtWqJHzu//gF2A0sTDSeODwN048eMfWQ8TuyQjBBxVHw3tZljstrp2R4ttpsJG5+8czRHtBYadY6ag+lKPUTOvRb8Cr/RboTAHSwKRwhKRxoEkdIqmVzSyi5YuVuY01KsqVjAovMrxR5+SWbBfoTWUzRUaO7Ch8P0KJriTT4j7EP8rfpoasp/o+UD7Y1eyRg/qmtc4DqYOSSPdpAFA5e+EnRmaCpQH26Lr9ZGw0YfxtwASN6iWdqs7nhm+SU4DpVZhz/CAwJlDMB8RRcihv0awjw97UN/CwiJUC5G2joqciMcU4sSZmFOduu0vsVP2xXFRXEJD7LyPVz3OKGSg7JKpZN+EZ7eDegKDT/+YTH0V7TmtetvOHoWKW0C128EvvK+PaoSEheEyMLASnIUfufzqLxsLEyTpqWBiSVSrv4sQ==;Rs6YK29Is5gcGYCGgQIq9g=="
 ---

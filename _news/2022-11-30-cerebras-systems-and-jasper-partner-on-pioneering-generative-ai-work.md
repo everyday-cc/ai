@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Cerebras Systems and Jasper Partner on Pioneering Generative AI Work"
-excerpt: "As one of the first customers to leverage Cerebras' new Andromeda AI supercomputer to design next set of customer-specific models, Jasper expects to vastly improve the accuracy of generative AI models Jasper,"
-publishedDateTime: 2022-11-29T18:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/b29894429/cerebras-systems-and-jasper-partner-on-pioneering-generative-ai-work"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/b29894429/cerebras-systems-and-jasper-partner-on-pioneering-generative-ai-work"
+excerpt: "The rise of generative AI is one of the most important technological waves in recent history, enabling the ability to write documents, create images, and code software all from ordinary text inputs. Based on sophisticated generative AI models,"
+publishedDateTime: 2022-11-29T20:57:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/11/29/9721326.htm"
+webUrl: "https://it.tmcnet.com/news/2022/11/29/9721326.htm"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
@@ -75,6 +75,6 @@ related:
       domain: insidehpc.com
     quality: 0
 
-secured: "SsWGp1+xehcndf/2RcY9bcAIuGdvFfxKzujknkxRzmYcCIcW04PtSTQftCRdoZJIsspIVAH2jnT3z9JDmutrQ8fKu32VwBXNoE2AvhLJ5LPc69tGlxq2CWSg+ej0mHSmfxnkN+w8qY6RYYGsWb6vVzleZqkMcKRXhAd3LIclXqBERG4kpBptGZCwTP9EncoV1IFS5jCUULLdzKCCiCbQwa8AA5FvlbX1q3WM9KQAa7hN/ZRvZKcw7pmw0PChGtn2DJNkPRtk54cgJUAJBQKnSZSR7Dmrb/pBNrPIJ7SJjgrbr5ZsQSk+B9KgPJP48LgNp95fGJsyKySPVqdsaJYER/uMjkngME3sz5y64wkDyBo=;o8S1z9xAcby3D/t6R0iBFg=="
+secured: "ZmaYWaazcDfSs0beTIWMSeBCEH+OgpMEuExSwPrT3/zyJ4vOxqA+C1eljH2rxQeiS1P9rTSjHc51O5DsDOSklpW7a8/REDY+NPC8Wjxm34Ma0aoIGQRN/FY+QEfj6dcRydjCLCk03hwmAexmIoKx76L5RPvg9XZs/I6gWlU4D2xhA2TsVcGMmkFQMk6wkTLUeMChIWhXkM6wV7drUJehgW5hhXIrMPWMzEaB2pAvWgBgNH2XRsJVcz4kJabSNKqxPmNwcMok69ECukFOMp4nUoZfwTwuRbTvWOQQC1+TTaGgbDTdSGr6Vzyj8LUKl0AI2dO3UIwRe4lf9Gk3UH8zHzP6e3CKWECVfrCu9fSlsY4=;6NXBth2OHVdnz00oXRfP2Q=="
 ---
 

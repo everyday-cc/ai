@@ -25,49 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Can the AI Bill of Rights shape global AI regulation?"
-    excerpt: "Experts clash over whether the policy proposal is fit for purpose, with some suggesting it does more harm than good"
-    publishedDateTime: 2022-11-28T08:00:00Z
-    webUrl: "https://www.itpro.co.uk/business/policy-legislation/369570/can-the-ai-bill-of-rights-shape-global-ai-regulation"
+  - title: "ADGM’s Financial Services Regulatory Authority launches AI initiative"
+    excerpt: "Financial services firms are increasingly relying on AI applications and machine-learning techniques in their day-to-day processes and decision making"
+    publishedDateTime: 2022-11-30T03:25:00Z
+    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/adgms-financial-services-regulatory-authority-launches-ai-initiative-kk69x80j"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 69
+      name: Zawya
+      domain: zawya.com
+    quality: 39
     images:
-      - url: "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1669130979/itpro/2022/November/GettyImages-US%20flag%20digital.jpg"
-        width: 375
-        height: 210
-        isCached: true
-  - title: "The Era of Evolution for Conversational AI"
-    excerpt: "Conversation AI-powered digital avatars would act as personal shopping assistants or stylists for customers, assisting them in a quick, seamless virtual shopping journey, owing to the lower latency of"
-    publishedDateTime: 2022-11-30T17:30:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/technology/the-era-of-evolution-for-conversational-ai/440181"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1669870136-Myproject-1155.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Human creators stand to benefit as AI rewrites the rules of content creation"
-    excerpt: "Generative AI programs could free human creators from tedious tasks and enable them to focus on ideation and creative thinking."
-    publishedDateTime: 2022-11-29T15:01:00Z
-    webUrl: "https://www.technologyreview.com/2022/11/29/1063736/human-creators-stand-to-benefit-as-ai-rewrites-the-rules-of-content-creation/"
-    ampWebUrl: "https://www.technologyreview.com/2022/11/29/1063736/human-creators-stand-to-benefit-as-ai-rewrites-the-rules-of-content-creation/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/11/29/1063736/human-creators-stand-to-benefit-as-ai-rewrites-the-rules-of-content-creation/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 58
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/11/dragon1200-1.png?w=1100"
-        width: 1100
-        height: 733
+      - url: "https://static.zawya.com/version/c:OWIwNjhkNjMtMDQ3Ni00:NWUwZjhh/1297736239.jpg?f=3%3A2"
+        width: 900
+        height: 600
         isCached: true
   - title: "ADGM’s Financial Services Regulatory Authority launches its AI initiative on Open Regulation"
     excerpt: "The Initiative will tap the innovation community in the co-creation of AI models and applications to achieve better regulatory outcomes"
@@ -83,15 +53,15 @@ related:
         width: 406
         height: 405
         isCached: true
-  - title: "Insights on the Artificial Intelligence in Manufacturing Global"
-    excerpt: "The Global Artificial Intelligence in Manufacturing Market is expected to reach $21.3 billion by 2028, rising at a market growth of 42.2% CAGR during the forecast period. In recent years, artificial intelligence has become one of the fastest-growing technology."
-    publishedDateTime: 2022-12-01T20:24:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-insights-the-artificial-intelligence-manufacturing-global-market-2028-/2022/12/01/9723284.htm"
+  - title: "AWS Launches AI Program for Community Colleges, Minority-serving Institutions, and HBCUs"
+    excerpt: "Machine Learning University is now launching a free program helping community colleges, minority-serving institutions (MSIs), and historically Black colleges and universities (HBCUs) teach database, artificial intelligence (AI),"
+    publishedDateTime: 2022-12-02T16:32:00Z
+    webUrl: "https://www.datanami.com/this-just-in/aws-launches-ai-program-for-community-colleges-minority-serving-institutions-and-hbcus/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
+      name: datanami.com
+      domain: datanami.com
+    quality: 25
 
 secured: "lNIHsUSe7KTvc+PKkHk14uFCH4QG5Ir/alRo+Pw535YF3VEk/m2WsIFK0zsUTonBtkqqHnA+kRZOt1niZ2Eq+KQ88s7KZOrKO4jWGgceKDY29TSeJz4Qlryf0WTLy4UIlN2f2YCToMFkmfg8nXj/osf8oRFtAFdmXxr07d33k8GNkfi3XK3Dd6jm6LULITTa9COzNprd6aA1GIinfQwZzN9geX1f7IchuBWjGBnSkKM+qvlKCIbUpgkxRf8vmG+78rxrVZHByGPgIjeJrptvj5bKguB5IiZk2YFAWHBrA8CTUGJbPvqVqJkKsGQV2/uSs01LuB1NU6CC/dDICzvvsg/BQ1Q98peSxq9YpjZwQ0k=;5OTWrUPaHvPHuVhcZlOOoA=="
 ---
