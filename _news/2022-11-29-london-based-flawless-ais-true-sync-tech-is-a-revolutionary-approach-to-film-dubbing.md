@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/london-based-flawless-ais-true-sync-te
 webUrl: "https://thenextweb.com/news/london-based-flawless-ais-true-sync-tech-is-a-revolutionary-approach-to-film-dubbing"
 type: article
 quality: 63
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: The Next Web
@@ -28,17 +28,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "London Based Applied AI Co. Raises $42 Million Seed To Automate Drudge"
-    excerpt: "Applied AI Company has raised a $42 million seed funding round to supply AI solutions to industry around the world."
-    publishedDateTime: 2022-11-28T19:31:00Z
-    webUrl: "https://techreport.com/software/3486126/london-based-applied-ai-co-raises-42-million-seed-to-automate-drudge/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 17
 
 secured: "NT31XdVFRl7W9+I6Ht3yLEX6Q3RcaYTYIcJeXCiX3wZtUTGz3q3Gdm7QyqGsAl4GBNEMPaODBMFrchC7HgzuE6DZkVvUVBuDZZQ9+icc7aOXrP9t9izEkYEYpaWzKGrKcIODo1v+33H5wDVcFTKDu3dcPCZkls1UEr0qL5h9u+3eRxdP+WcoHIpowlIE3+iJVLnkSvDzOAvfeaGu0PDOyzhCE1gZkMMvrBOswoiMBNjqZc2+xTRNdryl/EfZDZMsS2ayyndcJsFuLOiAqPdj29LGi2KqUFuJdHxUt3nZML4miShygT8Db1J3lCWryi+PBBBxKb6CPb3iRz6QJXrlOZV2QT5tpjF1XgdyB1hpPo7tenhPjgvhIEA1ZUrzKaxQLGaN6+B9gormzxfbHI48ydyyKsv1nR7a3yaCAH4gBU586boYmvbo2I4zlxzPw9VmFCsZCOhbB6rTE4gnWt9nTNkpNHy4KkZN0FvdwjKqN8EMeNXC3vdDBFlhBPZXXXIhmGV6tylr61gOcL+VX43HpA==;/vgfJ2T8EqaFnigGGBmOHQ=="
 ---

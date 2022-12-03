@@ -85,20 +85,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Artificial Intelligence in Food and Beverage Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028"
-    excerpt: "Artificial intelligence has started to be used in food and beverage industry for a variety of reasons. One reason"
-    publishedDateTime: 2022-11-28T19:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-food-and-beverage-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-11-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "ZWv46G2Q9brAslVPsjswSzmksCCQoWte8gzPpVYnjJfjCqOHw6pSMcbNZHzhDEcvajDrnoS8axdx4lLuHzh/g86onoBlTRpFx5onTC1Y6JeSJ2zz2sXamq0EKxJn5yy3OYr9bg3/pJYxcAZzRQkb890xp1Gw39UPK++mVfNNgUN24e7W8sFKedHOSWCS7QvqPNCmN9UHN6Vle/yYy5f8F4BKcXwBDRYJWstdIsHlv9Kgpw1dqzLemSCzi2RbY9n78GxQfRfeI9xXzHGiWao9uFwGNzD0C4I2YQ9GF0bVb4gfxmSAknThw3q4bUDC8xAPCtNZtwEHjgnwxD2zL/lPA6acOj8Ib/W1seCDJlPLH2k=;2MeRn+dFeUUzf1esBOtxHw=="
 ---

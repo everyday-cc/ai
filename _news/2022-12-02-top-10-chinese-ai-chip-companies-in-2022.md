@@ -7,7 +7,7 @@ originalUrl: "https://global.chinadaily.com.cn/a/202212/02/WS63892d40a31057c47eb
 webUrl: "https://global.chinadaily.com.cn/a/202212/02/WS63892d40a31057c47eba233a.html"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese artist Ai Weiwei says COVID protests will not shake government"
-    excerpt: "From his Portuguese home, Ai Weiwei, the high-profile Chinese dissident whose art has often criticized Beijing's policies, said the recent wave of protests would not shake Xi Jinping's government because the police would simply crush them into silence."
-    publishedDateTime: 2022-11-28T19:45:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-china-ai-weiwei/chinese-artist-ai-weiwei-says-covid-protests-will-not-shake-government-idUSKBN2SI1SQ"
+  - title: "The 10 Hottest AI Startup Companies Of 2022"
+    excerpt: "CRN’s hottest AI startups list includes AI Squared, TimeZest and Pano and experienced veterans from Microsoft, IBM, ConnectWise and Twitter."
+    publishedDateTime: 2022-11-29T17:00:00Z
+    webUrl: "https://www.crn.com/news/software/the-10-hottest-ai-startup-companies-of-2022"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
+      name: CRN
+      domain: crn.com
+    quality: 37
     images:
-      - url: "https://www.reuters.com/resizer/4JzXQiiYgBFZoJU8ke76ndbpXlw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VWB3QZJOYNJW5LHEASOY2U5PVE.jpg"
-        width: 1200
-        height: 628
+      - url: "https://www.crn.com/resources/026b-12c3233d92ed-7182db298dd0-1000/artificial-intelligence-edge-globe.jpg"
+        width: 610
+        height: 458
         isCached: true
 
 secured: "H6O3SC1dvjgOdfw5Jw8oON4achRCitxNiyz9DbVH+ZT47Loc4BFbvif9y/pqZOpYjmHisg0e3ORC1b7x+wPwinFHjCUlipHJOuL+U2DCZ9T6569FRGDaJJ19bN+BaV0xi2kYw8m0L1am9Q2KyF5s5u0YKYxofxOveOz4B/EbAowzUQzKHFWoX+eSH5GIlxg4TNmQ7ZX724Ne3AQGwy3o7vp16mYS5cFazsv8ZeZJ8qCKaqOl82q3ATYl1/mAJMMrwzBaJ4bsfwQF5/riKLPht6NUJlaM/9DCSsaqSErOpqg3Of1WMnrOvrGJzC5QoeqtMLn5plFGN7EbexG+/59hNSX7BT4xkA+C3ud8w4za9i0=;TNAGXE3tJ0Ax2mXwSSFeeQ=="

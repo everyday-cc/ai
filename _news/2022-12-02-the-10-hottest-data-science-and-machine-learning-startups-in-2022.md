@@ -24,22 +24,6 @@ images:
     height: 458
     isCached: true
 
-related:
-  - title: "The 10 Hottest AI Startup Companies Of 2022"
-    excerpt: "CRN’s hottest AI startups list includes AI Squared, TimeZest and Pano and experienced veterans from Microsoft, IBM, ConnectWise and Twitter."
-    publishedDateTime: 2022-11-29T17:00:00Z
-    webUrl: "https://www.crn.com/news/software/the-10-hottest-ai-startup-companies-of-2022"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 37
-    images:
-      - url: "https://www.crn.com/resources/026b-12c3233d92ed-7182db298dd0-1000/artificial-intelligence-edge-globe.jpg"
-        width: 610
-        height: 458
-        isCached: true
-
 secured: "k3lxHLxun3waSPsTl2X+CVI+LOQHEJwP24kASYG8Sm6TvFzzm7h0GKy06XYSt9ptNmVj+Ty+Q6bRd0A1Be55yD+un2cJ4S79ZNH3qDva3NGXCsD5bYiBPT+2H569iWmgvCkzPgMhMr4YbMZEACUcJoak8AJv9q+DwLWIJGdfvYjc2diF5/jgQpITS3wqLhM1wCnhbYvvHxZ6h7rARfqHxsK4Ou2r6trixOaala86WBuZieN93CEEYn2WgG9gueOAjGomynr9MivOfar8ZjyH0qCiO7gCvp2doZlU2FG5Xq9hQwvYa5iCZElgqrR+GnKZP4lY/T+48XaN/B/NiYlSfrpDkEMJCeuZ4L2f6O82UOJsb/IVYTsoJxx+qMu3St3/xp+VdsqZMMXlZxT4JwVqQaL+wDdL/YXY74vC3XUm32MT85dDWtarcbX7V7E14ZBUhbApS0dU5LdWpRc+k0253knLbMPzxTwiZnR/XxL9fhKF1ce/EDoEs6CCvbCJ+XryWCd2WkoEbg6X9Ub90n1ZyA==;bBPy2kHsWAXcjdVrcM+DoQ=="
 ---
 
