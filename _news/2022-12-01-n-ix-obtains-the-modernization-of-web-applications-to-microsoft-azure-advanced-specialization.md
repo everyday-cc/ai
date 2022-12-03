@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/n-ix-obtains-the-m
 webUrl: "https://markets.businessinsider.com/news/stocks/n-ix-obtains-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1031948094"
 type: article
 quality: 68
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft Azure Goes Beyond Cloud, Launches New Space SDK"
-    excerpt: "India. From a spacecraft manufacturing facility being built in Bengaluru, to a successful liftoff of ISRO’s Vyommitra, India has been a hotbed of technology advancements in the space sector."
-    publishedDateTime: 2022-11-28T12:07:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-azure-is-going-beyond-the-clouds-with-their-new-space-sdk/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/11/nasa-7Cz6bWjdlDs-unsplash-1-scaled.jpg"
-        width: 2560
-        height: 1696
-        isCached: true
   - title: "NOAA strikes climate modeling R&D agreement with Microsoft"
     excerpt: "The National Oceanic and Atmospheric Administration will work with Microsoft to improve climate and forecast models through the use of machine learning, the agency announced Tuesday. As part of a new cooperative research and development agreement (CRADA),"
     publishedDateTime: 2022-11-30T15:00:00Z

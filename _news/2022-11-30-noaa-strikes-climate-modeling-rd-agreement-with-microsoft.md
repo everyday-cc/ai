@@ -34,20 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 68
-  - title: "Microsoft Azure Goes Beyond Cloud, Launches New Space SDK"
-    excerpt: "India. From a spacecraft manufacturing facility being built in Bengaluru, to a successful liftoff of ISRO’s Vyommitra, India has been a hotbed of technology advancements in the space sector."
-    publishedDateTime: 2022-11-28T12:07:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-azure-is-going-beyond-the-clouds-with-their-new-space-sdk/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/11/nasa-7Cz6bWjdlDs-unsplash-1-scaled.jpg"
-        width: 2560
-        height: 1696
-        isCached: true
   - title: "Microsoft, Other Defense Firms Team Up for Modeling & Simulation Work"
     excerpt: "Lockheed, BAE Systems, and other firms are using the Seattle giant's Azure cloud platform to develop training and what-if tools."
     publishedDateTime: 2022-11-30T17:01:00Z

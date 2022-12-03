@@ -9,7 +9,7 @@ ampWebUrl: "https://healthitanalytics.com/news/amp/university-of-southern-califo
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/university-of-southern-california-launches-center-on-ai-research-for-health"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 480
     height: 278
     isCached: true
-
-related:
-  - title: "Deepspatial to use artificial intelligence in aiding University of Southern California's healthcare policy research"
-    excerpt: "Deepspatial Inc (CSE:DSAI) said it has formed a partnership with the Department of Population and Public Health Sciences of the Keck"
-    publishedDateTime: 2022-11-28T11:48:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/999572/deepspatial-to-use-artificial-intelligence-in-aiding-university-of-southern-california-s-healthcare-policy-research-999572.html"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 27
 
 secured: "me8eLTfvTiaj4Dd8Rj9/9gmT+HPQZuOSz/CYBTmMFm3FGSyQ3xEN6TjPee2ciLnxm6d12B2xiQdiMxO8qrMGqMhq3p56kjP15ieBUg/A9BcEUUHk9tyz6Ozq2ljE3m/Jv8RkXWM66XpU4PflupxAU03nNhQHH4ZRYuZVz51uE7qi1LPWeFWkz2wlbncIgZWt9CneYYoIVDqVCFs4im2rMIJigKDI5ZD4gDenVCT8BMpe3ygVWTojACRbxOCqsQ4Q8Af4UnZctmbgukBmVqI+twoIXBq+HRS748Csgujdz1lvkavmGdXZIMPp61sOAR7NtI1sMapkwZpL6pt5ZQZ+2KEWKusP8agiQOUeQcACrhPqvA1akSNinI7bfwg1ARotOyFj7AB653U6iQx1XqIMUtGz0sk72Va5YPaWkl0Bq/sALPyjnmmZfbxnhPFahMRMdL8y3AkxnO6QHjCUDJ3o1cH0H88IOBaqp/8jVG1rSZCkuEhHGiUXtr+/ZkArh8qEmPsNIGHn+IEUAfzcTmbTeA==;K7NPbEojoifvIHqCLb+A0A=="
 ---

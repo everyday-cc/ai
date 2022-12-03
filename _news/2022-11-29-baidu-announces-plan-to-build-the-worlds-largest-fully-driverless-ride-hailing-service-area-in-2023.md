@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Baidu Announces Plan to Build the World's Largest Fully Driverless Ride-Hailing Service Area in 2023"
-excerpt: "The plan outlined a goal to expand the operation area for Baidu's fully driverless robotaxis ... Closed-loop data system to further enhance the intelligence of autonomous driving SHARE THIS ..."
-publishedDateTime: 2022-11-29T14:28:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/baidu-announces-plan-to-build-the-world-s-largest-fully-driverless-ride-hailing-service-area-in-2023-1031941173"
-webUrl: "https://markets.businessinsider.com/news/stocks/baidu-announces-plan-to-build-the-world-s-largest-fully-driverless-ride-hailing-service-area-in-2023-1031941173"
+excerpt: "Baidu plans to establish the world's largest fully driverless ride-hailing service ... Closed-loop data system to further enhance the intelligence of autonomous driving With autonomous vehicles ..."
+publishedDateTime: 2022-11-29T06:20:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29881903/baidu-announces-plan-to-build-the-worlds-largest-fully-driverless-ride-hailing-service-area-in-202"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/n29881903/baidu-announces-plan-to-build-the-worlds-largest-fully-driverless-ride-hailing-service-area-in-202"
+ampWebUrl: "https://www.benzinga.com/amp/content/29881903"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29881903"
 type: article
-quality: 49
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
+    width: 800
+    height: 313
+    isCached: true
 
 related:
   - title: "Baidu Plans to Expand Driverless Ride-Hailing Service Area"
@@ -110,6 +114,6 @@ related:
         height: 500
         isCached: true
 
-secured: "N2ycKhT7257YBk4AiaUucKYuzFnuyoplznJcaeCjnolz4Ah7HkCAbdf5zsPKST3d4niBcUbNMDjVAPhdQHkDWktmxI1fzaZq86WTQf+6ohttEqPemZvibt7AV3NTKXVXTBNypTyf0gjmF8EhuIAE+Qq121WTBnibMGx4nJPrvhL06fi2SkwCTXe5+3Pv7ez1aBjdhrzH6Rw8P8rCP2RUxpEg7IrCgubzUcXQl9k1FmxJMn0cVwD6eDUmqA2V5b3D6kg//2pW3J2+4TnGTzznPbAOFqLaE3u+Yb4zYSLrkzR2xQUY0xsW5hc9NA3pVcAkZpqGxb3VpfQ9ov+DP3fa3/TWVgjfFd02AfuNlAW0Js4=;BpHCj+I68F5OcCUiNxAzWg=="
+secured: "ENQhOxpqyerH9nHWcUUpZqBBkCIMGrdVBtruJXAFDr4FYN+jwBb6qxweXeX3j5pDeQHs9NoB8VuS1qSU4n0mxpYmGjG4seYHFjT0exx3BT76MZC1gjzughyOwDH0Jb425+EaKiuYLfOZmIZPVzOKr14Ul5U+bjIt7XdIBrTZADeLtrkcsbt65+bMUjmt0IqZncCJXk16qbvxX+qfSmEWGA87gkvgEFqWaUwv3SVQte1JkRmRFuJkq4WVynE2Qmg8Gbu52P7AH1BMJvQe3n/1qibjqfS4BGsR8Qp1f7/d7ntw/CzcTD+Tcj1F01I4+bi0dQaamgrA8QhWUXL2aAg38M1631oKmk/yXWBcDcS9r9o=;ZUF+2eQ7+tLU8lEZThaWjw=="
 ---
 

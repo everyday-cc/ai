@@ -159,7 +159,7 @@
       "originalUrl": "https://www.cbsnews.com/essentials/the-best-cyber-monday-robot-vacuum-deals/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -305,19 +305,19 @@
     {
       "path": "_news/2022-11-28-facial-recognition-can-help-conserve-seals-scientists-say.md",
       "title": "Facial recognition can help conserve seals, scientists say",
-      "excerpt": "FREEPORT, Maine (AP) — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for ...",
+      "excerpt": "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but a group of scientists believe they’ve found a new use for it ...",
       "sourceUrl": null,
-      "webUrl": "https://herald-review.com/news/science/facial-recognition-can-help-conserve-seals-scientists-say/article_560444a8-1454-5d42-8182-fa2cbc883398.html",
-      "originalUrl": "https://herald-review.com/news/science/facial-recognition-can-help-conserve-seals-scientists-say/article_560444a8-1454-5d42-8182-fa2cbc883398.html",
+      "webUrl": "https://abcnews.go.com/US/wireStory/facial-recognition-conserve-seals-scientists-93857404",
+      "originalUrl": "https://abcnews.go.com/US/wireStory/facial-recognition-conserve-seals-scientists-93857404",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/herald-review.com/content/tncms/assets/v3/editorial/5/60/560444a8-1454-5d42-8182-fa2cbc883398/637e92fa3b6ed.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
+          "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -327,11 +327,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-27T21:41:00-08:00",
+      "publishedDateTime": "2022-11-27T22:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Herald & Review",
-        "domain": "herald-review.com",
+        "name": "ABC News",
+        "domain": "abcnews.go.com",
         "images": null,
         "publishers": null,
         "authors": null

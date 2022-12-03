@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-an-ai-about-the-ethics-of-aiand-it-lied-to-me/amp/"
 type: article
 quality: 108
-heat: 168
+heat: 158
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
     quality: 76
     images:
       - url: "https://www.itweb.co.za/static/pictures/2022/12/Tian-Horn-IIN-2022-NEW-LATEST.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The Ethics of Automated Warfare and Artificial Intelligence"
-    excerpt: "These essays emerged from discussions at a webinar series exploring the ethics of AI and automated warfare hosted by the University of Waterloo’s AI Institute."
-    publishedDateTime: 2022-11-28T13:00:00Z
-    webUrl: "https://www.cigionline.org/publications/the-ethics-of-automated-warfare-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: Centre for International Governance Innovation
-      domain: cigionline.org
-    quality: 54
-    images:
-      - url: "https://www.cigionline.org/static/images/AIEthics_Series_CIGI-Feature.2e16d0ba.fill-1600x900.png"
         width: 1200
         height: 675
         isCached: true

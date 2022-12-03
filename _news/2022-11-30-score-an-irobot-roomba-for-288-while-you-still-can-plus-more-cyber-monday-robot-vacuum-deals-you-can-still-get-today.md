@@ -59,15 +59,6 @@ related:
       name: T3
       domain: t3.com
     quality: 18
-  - title: "Best Cyber Monday robot vacuum deals to shop now: Discounts on eufy, iRobot, Samsung and more"
-    excerpt: "In the Black Friday and Cyber Monday sales, some of our top-rated robot vacuum cleaners are heavily discounted, here are the models that are worth your money"
-    publishedDateTime: 2022-11-28T11:46:00Z
-    webUrl: "https://www.independent.co.uk/extras/indybest/black-friday/cyber-monday-robot-vacuum-deals-b2234409.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 8
 
 secured: "4kQgFMVVmMA+V/LLfczhKdug6a1StGg/49cWye+R9cplBUypAuy6eEzG3Akt4r6feuksoMrOEpLdQZq2uzJtSRHxJDOHTIQEMpFRSTYzhB8FH58KpWhrmNPs37eawtuKlkbJ8DV9owm+q6XnPQxZuikoSNAf2MkSNf1Wvn2pYStmALZs4xCDJ2uG4OE3DswVeoazLBNxrOUqd4G3VUhsUD78HenoSzyXIcpZU03HlFzXEhUnzvE9ycr8I+EHM56pdmIbTAQfVcfoKlXv3QNsdU5um/+PGrUe6EdZKDHWmLHR8WLuSX0/JxzM9KAVBfyz0vpCUDB3jrcIR3+uPzqaujrPPJ3IH7J8IBDibMUTVvs33wrayuDmgiy+WLER98c3p3kN/+eDSSfQahSx+OYkJoVxvcPZQTH5AeOaxU+CKY3Fq/g9UIFQT/fdQo682rjZlqj4kZWPwcoV388fTfZx2KRpRoXiqTrSzLtQ0uyp4UdHkVx1MjgGAo6V4zpZbqfNRISK7iUV6oQIk+MTRpMx3g==;HdliC1LU6umsTd1tfjPQYg=="
 ---

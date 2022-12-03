@@ -88,15 +88,15 @@ related:
         height: 641
         isCached: true
   - title: "San Francisco will allow police to deploy robots that kill"
-    excerpt: "The San Francisco Police Department said it does not have pre-armed robots and has no plans to arm robots with guns. But the department could deploy robots equipped with explosive charges “to contact, incapacitate, or disorient violent, armed, or dangerous suspect” when lives are at stake, SFPD spokesperson Allison Maxie said in a statement."
+    excerpt: "The Democratic San Francisco Board of Supervisors voted to allow police to use potentially lethal, remote-controlled robots in emergency situations."
     publishedDateTime: 2022-11-30T17:05:00Z
-    webUrl: "https://www.kcci.com/article/san-francisco-will-allow-police-to-deploy-robots-that-kill/42103590"
-    ampWebUrl: "https://www.kcci.com/amp/article/san-francisco-will-allow-police-to-deploy-robots-that-kill/42103590"
-    cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/san-francisco-will-allow-police-to-deploy-robots-that-kill/42103590"
+    webUrl: "https://www.wgal.com/article/san-francisco-will-allow-police-to-deploy-robots-that-kill/42103590"
+    ampWebUrl: "https://www.wgal.com/amp/article/san-francisco-will-allow-police-to-deploy-robots-that-kill/42103590"
+    cdnAmpWebUrl: "https://www-wgal-com.cdn.ampproject.org/c/s/www.wgal.com/amp/article/san-francisco-will-allow-police-to-deploy-robots-that-kill/42103590"
     type: article
     provider:
-      name: KCCI Des Moines
-      domain: kcci.com
+      name: WGAL
+      domain: wgal.com
     quality: 59
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap22331669831658.jpg?crop=1.00xw:0.821xh;0,0.0488xh&resize=1200:*"

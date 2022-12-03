@@ -46,14 +46,21 @@ related:
         height: 640
         isCached: true
   - title: "Baidu Announces Plan to Build the World's Largest Fully Driverless Ride-Hailing Service Area in 2023"
-    excerpt: "The plan outlined a goal to expand the operation area for Baidu's fully driverless robotaxis ... Closed-loop data system to further enhance the intelligence of autonomous driving SHARE THIS ..."
-    publishedDateTime: 2022-11-29T14:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-announces-plan-to-build-the-world-s-largest-fully-driverless-ride-hailing-service-area-in-2023-1031941173"
+    excerpt: "Baidu plans to establish the world's largest fully driverless ride-hailing service ... Closed-loop data system to further enhance the intelligence of autonomous driving With autonomous vehicles ..."
+    publishedDateTime: 2022-11-29T06:20:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29881903/baidu-announces-plan-to-build-the-worlds-largest-fully-driverless-ride-hailing-service-area-in-202"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29881903"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29881903"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
+        width: 800
+        height: 313
+        isCached: true
   - title: "Alstom demonstrates driverless shunting"
     excerpt: "Alstom has demonstrated for the first time the deployment of ATO at Grade of Automation (GoA) 4 on a shunting locomotive, enabling driverless operation."
     publishedDateTime: 2022-11-29T16:39:00Z

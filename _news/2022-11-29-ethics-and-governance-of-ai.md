@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Ethics of Automated Warfare and Artificial Intelligence"
-    excerpt: "These essays emerged from discussions at a webinar series exploring the ethics of AI and automated warfare hosted by the University of Waterloo’s AI Institute."
-    publishedDateTime: 2022-11-28T13:00:00Z
-    webUrl: "https://www.cigionline.org/publications/the-ethics-of-automated-warfare-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: Centre for International Governance Innovation
-      domain: cigionline.org
-    quality: 54
-    images:
-      - url: "https://www.cigionline.org/static/images/AIEthics_Series_CIGI-Feature.2e16d0ba.fill-1600x900.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The Future of Artificial Intelligence"
     excerpt: "Ten years ago, Human Rights Watch united with other civil society groups to co-found the Stop Killer Robots campaign in response to emerging military technologies in which machines would replace human control in the use of armed force. There is now ..."
     publishedDateTime: 2022-11-28T18:43:00Z

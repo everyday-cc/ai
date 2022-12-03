@@ -3,10 +3,10 @@ category: news
 title: "First Minister speech disrupted by gender recognition protester"
 excerpt: "NICOLA Sturgeon’s keynote address to mark the 30th anniversary of the Zero Tolerance campaign was disrupted by a heckler protesting against"
 publishedDateTime: 2022-11-30T10:40:00Z
-originalUrl: "https://www.heraldscotland.com/politics/23159210.first-minister-speech-disrupted-gender-recognition-protester/"
-webUrl: "https://www.heraldscotland.com/politics/23159210.first-minister-speech-disrupted-gender-recognition-protester/"
+originalUrl: "https://www.heraldscotland.com/politics/23159210.first-minister-speech-disrupted-gender-recognition-protester/?ref=rss"
+webUrl: "https://www.heraldscotland.com/politics/23159210.first-minister-speech-disrupted-gender-recognition-protester/?ref=rss"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://www.heraldscotland.com/resources/images/16138459/?type=og-image"
+    width: 945
+    height: 630
+    isCached: true
 
 related:
   - title: "'Shame on you!' Nicola Sturgeon heckled by protester during speech on gender violence"
@@ -50,6 +56,6 @@ related:
         height: 536
         isCached: true
 
-secured: "wuCdSXDVWfxqx3BNdqDgHy5bQwyA1Upgj8gqnL+f7FYkBXvf7Rmr3TybWISBeNstCCZjnuMXt68He1YewJ5XDEJB1JxNaJHQ1eXWv9lE28qdOfXraFMUb1yTRnzZ/Op0dZgCcuSxb7uPYKnPbhY8nvaQ2o4fARA34dCuuNS/R41EE7s2ivaGdhSmoV+R/bSnQdDe/EyLaamxIqR7dKYTQ48L1DAUSwX6Zsq2G7oB1gAkrUt/YTJ7XoS8HqRoqbR6/TIxqRPX4a3V0OhrXw3hvPREdoB3p1RaEocMX//1TPVPJxcYb7AhJsje/zefrZF6igHIcC2HTR/5mIisYaRlDeMgvS9pGeSVY1tdvpPIRYE=;eXx+wriiRInAuzmpUHPK/Q=="
+secured: "yhWSU9oV3r2Z8jxi3hVx1txRNZQxGkeopt8oq4j2EcU17VO1lzzjyZk91QPYZ+dp96Zqrw3hJI3RG24OrNTtOM4/m++TAFOLI1PJexpSOtqEFflsupTi0rAEvtk+Y2cC8peCS+hq51A3j9hBnW+xlmnLn5RHaJ98O/CrI3NAHqCAitPoEKf7M15JPrGriDuRUl6v48qOw0oUFfaVEllnlTauP4RPgDBQE3EAYRyCVRbuJU1ceVZ7/2x6ewRPZgZ69jP3yRby+BEzCPZiTGgjGT9fY2plqPRBhT0CwKuO4gcLZI4ZrZqkbYXydTx7AySp098NSQjprHOAzR0232MfFmuPCZOa/QomPpMYTDsgRWk=;qg8fOcD7bJBV8hy+bVEmSw=="
 ---
 

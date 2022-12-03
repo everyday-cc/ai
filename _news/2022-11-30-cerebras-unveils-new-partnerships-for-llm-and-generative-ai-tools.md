@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Cerebras Systems and Jasper Partner on Pioneering Generative AI Work"
+    excerpt: "As one of the first customers to leverage Cerebras' new Andromeda AI supercomputer to design next set of customer-specific models, Jasper expects to vastly improve the accuracy of generative AI models Jasper,"
+    publishedDateTime: 2022-11-29T18:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/b29894429/cerebras-systems-and-jasper-partner-on-pioneering-generative-ai-work"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29894429"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29894429"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
+        width: 666
+        height: 282
+        isCached: true
   - title: "Ludo upgrades its generative AI tools for game creativity"
     excerpt: "Ludo is using generative AI to help game developers be more productive. The point isn't to wipe out jobs. It's to make them more creative."
     publishedDateTime: 2022-12-01T14:30:00Z
@@ -55,15 +71,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "Cerebras Systems and Jasper Partner on Pioneering Generative AI Work"
-    excerpt: "The rise of generative AI is one of the most important technological waves in recent history, enabling the ability to write documents, create images, and code software all from ordinary text inputs. Based on sophisticated generative AI models,"
-    publishedDateTime: 2022-11-29T19:17:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/29/9721326.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "Cerebras Announces 2 AI Partnerships – for Large Language Model Training and ‘Generative AI’ for Content Creation"
     excerpt: "Cerebras Systems, maker of the “dinner plate sized” AI processor, announced two alliances today, one with Cirrascale Cloud Services, provider of deep learning solutions for AVs, NLP and computer vision,"
     publishedDateTime: 2022-11-29T22:58:00Z

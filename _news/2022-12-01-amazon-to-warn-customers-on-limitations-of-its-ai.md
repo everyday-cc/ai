@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Amazon to Warn Customers on Limitations of Its AI"
-excerpt: "Akin to lengthy nutrition labels, Amazon's so-called AI Service Cards will be public so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription. The goal would be to prevent mistaken use of its technology, explain how its systems work and manage privacy, Amazon said."
-publishedDateTime: 2022-11-30T17:07:00Z
-originalUrl: "https://money.usnews.com/investing/news/articles/2022-11-30/amazon-to-warn-customers-on-limitations-of-its-ai"
-webUrl: "https://money.usnews.com/investing/news/articles/2022-11-30/amazon-to-warn-customers-on-limitations-of-its-ai"
+title: "Amazon To Warn Customers On Limitations Of Its AI"
+excerpt: "Amazon.com Inc is planning to roll out warning cards for software sold by its cloud-computing division, in light of ongoing concern that artificially intelligent systems can discriminate against different groups,"
+publishedDateTime: 2022-11-30T16:09:00Z
+originalUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985"
+webUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985"
+ampWebUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1"
 type: article
-quality: 49
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://d.ibtimes.com/en/full/4389003/amazon-logo-company-logistics-center-lauwin-planque.jpg"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "Amazon To Warn Customers On Limitations Of Its Artificial Intelligence"
@@ -93,6 +97,6 @@ related:
       domain: iol.co.za
     quality: 19
 
-secured: "PKr331IETYFAsBy8rgzmP6hLTsTqQkRfniyDwTuLeR1ZTpuLID9VnfYby4d6hbOasGbN/DcT6KXvn7oxAo+vB1604ENN36hYkOxDNI68gyk9cWtv4YQO1a+S9R0tLIWPcRQDx8Fvqj3ASWiOAoi7JUtNp79ilzEmROMgpgkdoozJIbhTz5YBuRpd6chn4Inn1Yp62Ih2Knq+mtzksDPtKXdT/Hd78S5fLcSos5U/2pKWv3nzZS6tO0ZgYgtex1KJETHroCck78OMDRzLOxQM830r9IOaroPSOw6CKxDTCg0W6AcCsnQKvsaA+Q2Nx5ANqVfN1C1+Ak+uDUrmLCKhEk1LM1Q0nz0iLFU4EhgHKqaoRF1sZqwHsX8oJfRnFEXKi/rDeUnaMwQytlhsLoIIf5cRG/+O2ew4TI9uKiv7Zg3aspVaQ+ouN99IXmBOA926yOwNH13c1HZjvvXetPtz8PAkvZh+m21j10ZSyJ5bvTcnQnznrDJMNqO/l3Yo46XvMWMvC+5nM0LBvbhdEHKfkw==;aEn5N5ggcci6TJEa32Mh5g=="
+secured: "jPnmuI8hCMN5Fi/skMJYV414AH9FdfQCX1bwRcgJo/HfQziuzkGfCTudyol9isC5+BaIIWfAi2e34IFP0FYt3avBfLjFS1BBH4B8cyqYikkh6J+GU6tztmYazdv00Udx5m64AJp0J5YL6ZEO6SnT0JvOcfLA651aqRpK4wsPJVkdPJvREUdQVKslHVgbEejc294kaP+FWXHkH1CSE3WpLEbhAyPFclYqLk264XuyCbi39VwPe3IQiU3aRH7KKvcITvEstdjpWqsEJDLBUYuN6UwUbVRjP7ARwTgJMK1qVJpgKvldb+LerRuLETAchig0BueyZd3RmtTGMBVIQg+j/yPfFtEJICE5wpVShbpc6VY=;GTzNVDmImLpvy+Cf9qn88Q=="
 ---
 
