@@ -89,6 +89,22 @@ related:
         width: 666
         height: 282
         isCached: true
+  - title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
+    excerpt: "Hpc7g instances featuring new AWS Graviton3E chips deliver the best price performance for HPC workloads on Amazon EC2 C7gn instances featuring new AWS Nitro Cards with enhanced networking offer the hi"
+    publishedDateTime: 2022-11-29T17:25:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/b29893848/aws-announces-three-amazon-ec2-instances-powered-by-new-aws-designed-chips"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29893848"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29893848"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
+        width: 666
+        height: 282
+        isCached: true
   - title: "AWS enhances its AI portfolio with array of automation capabilities"
     excerpt: "The new capabilities made their debut on Monday at the cloud giant’s AWS re:Invent 2022 conference in Las Vegas. They’re rolling out for five of the AI services offered by AWS: Amazon Textract, Amazon Transcribe,"
     publishedDateTime: 2022-11-29T18:57:00Z
@@ -187,16 +203,7 @@ related:
       name: The Buffalo News
       domain: buffalonews.com
     quality: 32
-  - title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
-    publishedDateTime: 2022-11-29T20:15:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
-secured: "r77fwThYWgdlpmxJG4UUQbxp4GBJBnkd8M/xzr1Op4DijRhOWiEMBKT6Va8tvLLhG2reeI3NP8srMm7Hsy3cCU8HFsV49sCNNpc96ZIkgrmeoowjhJrnWh3Tvx9jfQwq0O6o6bPDCxnVnID9LTrEKjtRIJ+xQKig5fuMselAqBIib9PjnkTGfKLGiFKBwtf65Ur6FV/rKH8hNQHQby9Mw+YAJ7Oc7WTxoxTchDjOC0ZTXMRrzkGA4BIhDlxTf/2otZdAFdXZHrlsDL4Ef0OJNomFlKBrBVKHnHqxi9dpfo4s9OPxigbxz0Fefm94oIfUHFMnn/xZ401gULSXh7NaijQ9cX9aXHk1p2oWhlhBY8E=;JrJcQQ8ZMmKfaZAL7ZMyMg=="
+secured: "eFPUSB8g99cOlx9CsbNGNWO5ed5vMAv9PgVxiZW4QpBfkdJSlIj5HQDJQ4FP5U4Xt+6KhX6SnzMHZUp1JznFMQ/vxBTPSmdyW5cblxdDq7j9eI9rT+UR1bySXgz+tdoPeoCNYTJvaLgITUDXMdzT45M++59yTNH8kkzEsChEm/1887zfy9sRBNVqh+qY/tghY+u2kp9FoQAnPEwK5ydtduY2OECgrerxMxFhTUUaQLC8IxUAwanp3YRwUjg/GQx+3KTu66KB5TEkLypoiipL+MjyKY9UO+MI1s9FnNYnhTcburOQ1JyciUIsyMjcPj/LaLWIKGZgdCpnzaYbKQsGz7BjX+0+APurTWmuc1tkI7f1RllgKEGnPYb3QilWUfJopMTS1d8zpsDNIOLukQWNhRV/4FAGI3C0Mx6KQEXuPrIRg5FAgjHlF789N68uI2AhU2U6bAlZtqRzw0XZwXMWQcLnSTXQGHXUK/s+eh3vu5v3F7WdJ4oAlPhGYFrFyngsP1XbMlKP1+4d2J/UaoMGNQ==;bXFZ4H/AgwH0w/36FABVwA=="
 ---
 

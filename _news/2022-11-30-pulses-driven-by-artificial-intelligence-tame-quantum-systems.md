@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Pulses driven by artificial intelligence tame quantum systems"
-excerpt: "Just apply mechanical force coupled with human skill. But controlling the movement of quantum systems such as atoms and electrons is much more challenging, as these minuscule scraps of matter often fall prey to perturbations that knock them off their path in unpredictable ways."
-publishedDateTime: 2022-11-30T14:27:00Z
-originalUrl: "https://phys.org/news/2022-11-pulses-driven-artificial-intelligence-quantum.html"
-webUrl: "https://phys.org/news/2022-11-pulses-driven-artificial-intelligence-quantum.html"
-ampWebUrl: "https://phys.org/news/2022-11-pulses-driven-artificial-intelligence-quantum.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-pulses-driven-artificial-intelligence-quantum.amp"
+excerpt: "Machine learning drives self-discovery of pulses that stabilize quantum systems in the face of environmental noise."
+publishedDateTime: 2022-11-30T00:00:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/11/221130114637.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/11/221130114637.htm"
 type: article
-quality: 59
-heat: 69
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI
   - AI in Autos
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/pulses-driven-by-artif.gif"
-    width: 720
-    height: 405
-    isCached: true
+  - AI
 
 related:
   - title: "Two new AI systems beat humans at complex games"
@@ -42,6 +38,6 @@ related:
         height: 768
         isCached: true
 
-secured: "tlEKQi4jafBnBcIYEi2/otyyBwAkBc9LWSpLUA1+rfcMEQlT7abuQZs2KsITl5Ogsg1x4Vks6x/VqwJSynVFVR1Jdys1iz45BicuKdLZaC/gCzVP0CGiI8pXzIJOT3WJ2yjaOAOEKc9oEGPdpPJ+aMJhd9JuZprEj230rZdm25ukxboiUyvkX2hVlegUW2kvStV7a1Lh+2CAjkpunjqOez7qynKdaP0wRbTq8n420V/1EW4mvKAFO8AY/bKR0EmeNgKxBuc2i06Yr0m+OocSarYjeoT5x5tTwF3+qsIQPYBfHZNNgtxjE5n3HZx+T7IzTKIL4Ts6COGMzaEvWJy6Vo134lYUfXo2KnfRlJ4NRsw=;j8SpVx1aueXRScUfiRJFeA=="
+secured: "xu6HAz25PegG94h8cHQjqFU784YlQaFFMDszvkq3g9cM1hQUKyLfYAVgtPYmrYpF4kIDtyBbsDC7y2e/zp/yTrCTUQpgWlibpFd53DrDcKdf3nCBXLvaFFgp+DX9ptWov1S2wEWD0urdsZAIp8MLbwGNdx7E1VRuQ4SXdKiaQzPLxE1AiGH1XMM+T+d0vIA1Ue4Dk7DjrQ1F/0R5H/kcw3ixwzL5PK7p2MGEx6HJaZdBKCqja53Odj949aLhCH9df8XJICLpVlZf5v8JQUYl17OihSVK1to+riDOe2kv4PAdHtRz5peNCAyxN7GmqETQn23r4LN0ILGNpTqrJOfKMRYjUViN3cb37yfUrinvfag=;tkAq6890NVn3ZRnOYCxMGg=="
 ---
 

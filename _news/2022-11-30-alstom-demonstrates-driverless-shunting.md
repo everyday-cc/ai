@@ -51,9 +51,9 @@ related:
       domain: ksn.com
     quality: 39
     images:
-      - url: "https://i0.wp.com/www.ksn.com/wp-content/uploads/sites/13/2022/12/vlcsnap-2022-12-02-22h03m47s629.png?w=2000&#038;ssl=1"
-        width: 1920
-        height: 1080
+      - url: "https://i0.wp.com/www.ksn.com/wp-content/uploads/sites/13/2022/12/4402D263D06EB9AC2A4D4BC0C550C78E_7.jpg?w=2000&#038;ssl=1"
+        width: 1280
+        height: 720
         isCached: true
   - title: "China's Baidu Plans to Rollout the World's Largest Fully Autonomous Ride-Hailing Service by Next Year"
     excerpt: "China's internet technology giant Baidu Inc. held its “Apollo Day” live-streamed technology event on Monday where the company shared its latest progress on autonomous driving. Among the announcements at Apollo Day were Baidu’s plans to launch the world's largest fully-autonomous ride-hailing service aptly named “Apollo Go” by next year and become the world’s biggest robotaxi operator."

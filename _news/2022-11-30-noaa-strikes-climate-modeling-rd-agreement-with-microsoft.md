@@ -34,20 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 68
-  - title: "BAE Systems adds Microsoft to modeling and simulation ecosystem"
-    excerpt: "BAE Systems is expanding the network of companies in its modeling and simulations ecosystem to include Microsoft. With this addition,  This press release features multimedia. View the full release here:   (Credit: BAE Systems) “Microsoft Azure is widely regarded as a prominent provider of cloud computing services for government,"
-    publishedDateTime: 2022-11-29T13:02:00Z
-    webUrl: "https://www.eagletribune.com/region/bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem/article_c1e18486-c7be-57b4-b03f-b424216acd00.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/1/ec/1ec4b2ba-c377-559f-8217-102383a4e62a/638614c570c73.image.jpg?crop=633%2C332%2C0%2C403&resize=633%2C332&order=crop%2Cresize"
-        width: 633
-        height: 332
-        isCached: true
   - title: "Microsoft, Other Defense Firms Team Up for Modeling & Simulation Work"
     excerpt: "Lockheed, BAE Systems, and other firms are using the Seattle giant's Azure cloud platform to develop training and what-if tools."
     publishedDateTime: 2022-11-30T17:01:00Z
@@ -104,6 +90,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "BAE Systems adds Microsoft to modeling and simulation ecosystem"
+    excerpt: "View the full release here:  \"Microsoft Azure is widely regarded as a prominent provider of cloud computing services for government,\" said Peder Jungck, vice president and general manager of BAE Systems Intelligence Solutions."
+    publishedDateTime: 2022-11-29T14:28:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/11/29/9721027.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "3YnVHmVmpaNk9W33ste79W2VfVhLgFK7f1BZZ5UcoxWNek0ewAu+lB2pO8ECKPGf27eWRMrN7eO3V9FbWpLcz/k9Bv/hUg8X8oz1eye0O9QJqo6sXqIHDjr4Co6hkCI2EHDr8oQTpAuoaHgR1CM3R/duW5ksyyAq+bGuHk5ixdPr7lfOIX545XeQX/Z51YukHw5YUTwJA2Q9j7WhaGQnMhXfVHdk98wbJ3HVtU1b3Bwkmtli2qnM6xxbYNeLUo+PfeWIqd5D2Azix5LURm4SBRCdLlJtQWlaM7QTS+EuxRPALMWBnsCwiVw8cGjVeSvDUuu8Q1zbpoPibv+4peZpzRfgMyOnmKEdq4m+xkJHsfY=;mwQ3Swxpp1Xvr5yZL0UIrg=="
 ---

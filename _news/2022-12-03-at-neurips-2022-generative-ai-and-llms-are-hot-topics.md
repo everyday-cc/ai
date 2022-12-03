@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 637
         isCached: true
-  - title: "Nvidia gearing up for lower-spec AI GPU shipments to China"
-    excerpt: "Nvidia has touted the A800 AI GPU, a downgraded version of its A100 and H100 series, for customers in China and has already attracted orders, according to industry sources."
-    publishedDateTime: 2022-11-29T01:21:00Z
-    webUrl: "https://www.digitimes.com/news/a20221128PD216/chip-war-gpu-nvidia.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20221128pd216_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "RkdhXiVRcx6paTwSwH/otjOR9UG/MltwULDv2XtogGEbKpR9RLFBeqvCnKTPV7dBh2NYrh0aQIWjJwLq/eerxCSgwbpVJiq4O6dBDm3ZFFKS0uEps9YyOpWzC2xElE8G6nTOHFJXbkz++3GpEWuu47QAeS+qtdNum2giWlxhzUUSaoeyliFcLIZIh6DNUzydXqZEyGvL+jf6MUnc6nMrR/5nQMZwbv0BvD1E79Hq4wssZ0gzF2DpjLJXnIRsKp9yyWRfOEceaAa+XDe+t7AgRC53SKOnFG88wIBpe2+aozjSgk1O/6ag68Gy/4Y3PbKt622+u7HduIQcSE1fDm+eHcxZWVLsGri5+jNwi2kYnqO2omOL768pJRaKaT7RYRc9fbxSh5Up05firxUXsWeu/OA05SqzsLrGSTSQ3qi3S3zal4kTwMoy/kkaWqOlLZxLOL0/vT1cQqNgjsrMGBErU7+WW5yzLDxZieOoHxqscvEGFRKV7Vn4QfXxWEvNMbdiUvTPbkWsNjnOwyBX+Q1VKQ==;rcwu7CW7S9PUe+aPIKrJvg=="
 ---

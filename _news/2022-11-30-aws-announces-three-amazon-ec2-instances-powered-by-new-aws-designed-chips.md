@@ -1,22 +1,30 @@
 ---
 category: news
 title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
-excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
-publishedDateTime: 2022-11-29T20:15:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
-webUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
+excerpt: "Hpc7g instances featuring new AWS Graviton3E chips deliver the best price performance for HPC workloads on Amazon EC2 C7gn instances featuring new AWS Nitro Cards with enhanced networking offer the hi"
+publishedDateTime: 2022-11-29T17:25:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/b29893848/aws-announces-three-amazon-ec2-instances-powered-by-new-aws-designed-chips"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/b29893848/aws-announces-three-amazon-ec2-instances-powered-by-new-aws-designed-chips"
+ampWebUrl: "https://www.benzinga.com/amp/content/29893848"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29893848"
 type: article
-quality: 17
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
+    width: 666
+    height: 282
+    isCached: true
 
 related:
   - title: "Stability AI doubles down on AWS"
@@ -196,6 +204,6 @@ related:
       domain: buffalonews.com
     quality: 32
 
-secured: "/+/2OKkzyZPiulq8gjySMuC1L1gIqzTNu8fXCTc67U5WEnmhX9NutyqY3xdvxycgys5WU952viVmuzW5xvljsSCa/TQF5prymEkXwTjq/Hnvoaufo/IfxBCn6GHSgYuTFlG9cm04Z8u+2ZzAiYxLPpscij6f1Wf336BL6ZudShgK4GS2ZHaukWX5HA0LX1wbH8U8dZADzBs3QjffIzDUdE2n3rSYfeCxXoWC0V5geDC9xWgJmwilCiT5TGmtsxXGW2kSOq6RpNFhvm3AxMtSj9TbqfeN9VVCEqOLjPhj/d2RCorbusvrSbFg6+sZbCq+8Jp9kew9s0Weqw+8vdNGmnzxMtgBLbskQLUZLFB4OusTdPqT+oKyt6kZZHxSMbggHtE3Mv41AV7LvokZcjoixMRwd29SPcOgdbVL8aTy5MWZ67Pxo2E0mN5+nWrPVoHE8dcKutXWUof8p5ji371l1W/5tq/Dv6YW0cQUQDZ+q0E5H0NwnHwLzPeXyO419139YJq5wwG6m4Ruud9rcEkoyQ==;jS1VFXdx+rXCtE1J5q54gQ=="
+secured: "0HEhG5nH5TdX0NfFTV4WjBD9SnYzOhIWmoGKJwPEn8AFgLqo9650d1z8LV3bRexHoQwjCwzxJ6Osjz1RsCivNLRHek0n3n7uSFt31E+HqGMjY5tsd7Q9NVsfObfqUPHdxzeco1FSpvPKsuSDJqB/kN64enUjQg6JkK0uHNeqjd8iIcl14HA0N1EzFkdO6Mdwjd4gNb6pb3gUk/xB3+UCV15SX8pkCGeDFmB1yFPWjXcDk6v23gv8c7nbEpsUfMoaKKs77fNmzbetqOjfz6WPsH7eaQlJo/3kxb3iwJkAzgY0gHnw2COqjRjwNHKfSrSr+FSqlIz7d0k2SaZ/K7xy+FgpwHiKWsU6X1qcGUQGbpU=;ILIJCMrfDgIacg88N86lng=="
 ---
 

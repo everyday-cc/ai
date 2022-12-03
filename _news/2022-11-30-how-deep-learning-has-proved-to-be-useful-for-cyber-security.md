@@ -20,38 +20,20 @@ topics:
   - AI in Security
 
 related:
-  - title: "Artificial Intelligence (AI) in Cyber Security Market : Research Report Provides an In-Depth Insight of Trends 2022 To 2028"
-    excerpt: "\"Artificial Intelligence (AI) in Cyber Security Market\" Insights 2022 - By Applications (BFSI, Government, IT and Telecom, Healthcare, Aerospace and Defense, Other), By Types (Mac"
-    publishedDateTime: 2022-11-29T02:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2028-2022-11-28"
+  - title: "AI enhanced cybersecurity services firm takes AIM on next chapter"
+    excerpt: "A Cork-based provider of AI enhanced cybersecurity services is to seek admission of its shares to trading on AIM, a market of the London Stock Exchange."
+    publishedDateTime: 2022-12-01T08:44:00Z
+    webUrl: "https://www.insidermedia.com/news/ireland/ai-enhanced-cybersecurity-services-firm-takes-aim-on-next-chapter"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 77
+      name: Insider
+      domain: insidermedia.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.insidermedia.com/uploads/news/resized/Stock_exchange-49913-1634028012-58353-1644911410-72931-1662533995-77189-1667894119-%281%29-78839-1669881083.jpg"
+        width: 960
+        height: 540
         isCached: true
-  - title: "Global Machine Learning as a Service Market Report 2022 to 2028: Players Include Oracle, Google, Amazon Web Services and IBM - ResearchAndMarkets.com"
-    excerpt: "The \"Global Machine Learning as a Service Market Size, Share & Industry Trends Analysis Report By End User, By Offering, By Organization Size, By Application, By Regional Outlook and Forecast, 2022 - 2028\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2022-12-01T12:56:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-12-1-global-machine-learning-as-a-service-market-report-2022-to-2028-players-include-oracle-google-amazon-web-services-and-ibm-researchandmarketscom"
-    type: article
-    provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 1
-  - title: "US Digital Insurance Market Report 2022: Growth in Artificial Intelligence (AI) Services Applications Presents Opportunities - ResearchAndMarkets.com"
-    excerpt: "The U.S. digital insurance market revenues are forecasted to reach US$27.72 billion in 2026, growing at a CAGR of 20.70%, for the period spanning 2022-2026. Factors such as rapid urbanization, growing smartphone users,"
-    publishedDateTime: 2022-11-30T09:42:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/30/9721584.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "Se1jLm1aBMdUi9WHIw3ITUS26uQT9IQ8CQAf2cFQXn3f/0E4wXa6w2StTmYuoW+nsKv0u1QJrVJZ/h+HYzMhoAcHRI8b9RUaLPFFeksjExW6/cTLnl7jfQGxdQmxgZRqBVHZ8GdECvxgsHeURqGUMaq72bRMWIHBQGPlN4e/08bt3AzDUQ/wBki7A0Q/KB6tm0WusjukXXKEv6ezkVl/6onPiNYA8e8Nfb5O3XppbNHCoaXJSWmHr6megv80cdGo3kgD+W6Bot+xJXvmngcVbk/QLQ7Hb8FRUbeXvKKHEwGvxbE8frVH4KHOHio6pAvhDkRCY8D0gYxn2V36nHnrIk9mbAR3CmEA0+1cFuvvWQtjAUCUwr/lZrewtiLlyhim7rUS86lGv/XO2L+hbcq+Oj8Q9Cs5jvdaJwHpuau4m6OuLcN0+N5o55wcsdgXmM277NUbFyXv5HSKw/Yt2PGg0NR1jjwExvkDAZEcgnG+KHnotyUuGdXb8/p4o1T5WCv+R2VHRwA1Nrq41+XEfKWzWw==;oa9DYLdebZkATNx32eM3AQ=="
 ---

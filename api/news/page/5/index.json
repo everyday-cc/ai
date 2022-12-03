@@ -2,6 +2,154 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-11-29-how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang.md",
+      "title": "How generative AI could create assets for the metaverse | Jensen Huang",
+      "excerpt": "Jensen Huang, CEO of AI and graphics chip maker Nvidia, believes that generative AI will be transformational and it’s just getting started. One of its biggest applications could be with the metaverse, which has huge demands for content as developers need ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang/",
+      "originalUrl": "https://venturebeat.com/games/how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Jensen_GTC-keynote_Omniverse.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 582,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang/amp/",
+      "publishedDateTime": "2022-11-28T08:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-28-tesla-makes-automated-driving-available-to-north-american-owners.md",
+      "title": "Tesla makes automated driving available to North American owners",
+      "excerpt": "Tesla is making its controversial driver-assistance system available to customers previously deemed not safe enough behind the wheel to test it out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.autonews.com/mobility-report/tesla-makes-automated-driving-available-north-american-owners",
+      "originalUrl": "https://www.autonews.com/mobility-report/tesla-makes-automated-driving-available-north-american-owners",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Tesla%20self%20driving%20BL%20web.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-28T07:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-28-computer-vision-in-healthcare-market-research-2022-growth-trends-outlook-and-future-scope-analysis-2030.md",
+      "title": "Computer Vision in Healthcare Market Research 2022 – Growth, Trends, Outlook and Future Scope Analysis 2030",
+      "excerpt": "Nov 28, 2022 (Heraldkeepers) -- The global Computer Vision in Healthcare market report provides geographic analysis covering regions, such as North America, Europe, Asia-Pacific, and Rest of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-research-2022-growth-trends-outlook-and-future-scope-analysis-2030-2022-11-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-research-2022-growth-trends-outlook-and-future-scope-analysis-2030-2022-11-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-28T06:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-11-28-the-future-of-ai-and-medical-imaging-from-nvidia-to-harvard.md",
       "title": "The future of AI and medical imaging, from Nvidia to Harvard",
       "excerpt": "New initiatives are scaling AI models related to medical imaging and making diverse medical imaging data available to all.",
@@ -57,24 +205,33 @@
     {
       "path": "_news/2022-11-28-fintech-global-market-to-reach-38593-billion-by-2027-at-a-cagr-of-1971.md",
       "title": "Fintech Global Market to Reach $385.93 Billion by 2027 at a CAGR of 19.71%",
-      "excerpt": "The publisher provides an analysis of the key trends in each sub-segment of the global fintech market report, along with forecasts at the global, regional",
+      "excerpt": "Fintech helps companies, business owners, and consumers better manage their financial processes by utilizing specialized software and algorithms on smartphones and computers. It also employs various technologies, such as artificial intelligence (AI ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/11/28/9720005.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/11/28/9720005.htm",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/n29868885/fintech-global-market-to-reach-385-93-billion-by-2027-at-a-cagr-of-19-71",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/n29868885/fintech-global-market-to-reach-385-93-billion-by-2027-at-a-cagr-of-19-71",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png",
+          "width": 666,
+          "height": 282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T06:32:00-08:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29868885",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29868885",
+      "publishedDateTime": "2022-11-28T05:18:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -447,6 +604,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-28-facial-recognition-can-help-conserve-seals-scientists-say.md",
+      "title": "Facial recognition can help conserve seals, scientists say",
+      "excerpt": "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but a group of scientists believe they’ve found a new use for it ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/wireStory/facial-recognition-conserve-seals-scientists-93857404",
+      "originalUrl": "https://abcnews.go.com/US/wireStory/facial-recognition-conserve-seals-scientists-93857404",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-27T22:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC News",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-28-qatar-university-research-finds-tea-consumption-improves-cognitive-function.md",
       "title": "Qatar University research finds tea consumption improves cognitive function",
       "excerpt": "Dementia is known to affect the quality of life, while cognition-related disorders such as mild cognitive impairment and Alzheimer’s disease are gradually increasing and becoming a global burden.",
@@ -539,49 +739,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-28-facial-recognition-can-help-conserve-seals-scientists-say.md",
-      "title": "Facial recognition can help conserve seals, scientists say",
-      "excerpt": "FREEPORT, Maine (AP) — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for ...",
-      "sourceUrl": null,
-      "webUrl": "https://thetandd.com/news/science/facial-recognition-can-help-conserve-seals-scientists-say/article_0b1e48aa-d871-5f9a-ae11-aebaaba68d7b.html",
-      "originalUrl": "https://thetandd.com/news/science/facial-recognition-can-help-conserve-seals-scientists-say/article_0b1e48aa-d871-5f9a-ae11-aebaaba68d7b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/thetandd.com/content/tncms/assets/v3/editorial/0/b1/0b1e48aa-d871-5f9a-ae11-aebaaba68d7b/637e92fc6a849.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-27T19:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times and Democrat",
-        "domain": "thetandd.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -1042,152 +1199,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-27-seal-conservation-efforts-aided-by-new-facial-recognition-technology.md",
-      "title": "Seal conservation efforts aided by new facial recognition technology",
-      "excerpt": "SealNet, automated facial recognition technology using a database of seal faces, was developed by a research team at Colgate University and will assist in conservation efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/",
-      "originalUrl": "https://nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/11/harbor-seals-comp.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/amp/",
-      "publishedDateTime": "2022-11-26T13:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-27-ai-in-iot-market-share-2022-comprehensive-insights-innovations-and-business-outlook-till-2028.md",
-      "title": "AI in IoT Market Share 2022 Comprehensive Insights, Innovations and Business Outlook till 2028",
-      "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"AI in IoT",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-iot-market-share-2022-comprehensive-insights-innovations-and-business-outlook-till-2028-2022-11-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-iot-market-share-2022-comprehensive-insights-innovations-and-business-outlook-till-2028-2022-11-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-26T09:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-26-artificial-intelligence-chips-market-reliable-business-data-analysis-and-forecast-by-2028-with-top-countries-data.md",
-      "title": "Artificial Intelligence Chips Market : Reliable Business Data Analysis and Forecast by 2028 with Top Countries Data",
-      "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \" Artificial Intelligence Chips Market \" Insights 2022 - By Applications (HPC AI Chips, Terminal AI Chips,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-reliable-business-data-analysis-and-forecast-by-2028-with-top-countries-data-2022-11-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-reliable-business-data-analysis-and-forecast-by-2028-with-top-countries-data-2022-11-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-26T04:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -16,6 +16,13 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/11/download-57.png"
+    width: 773
+    height: 469
+    isCached: true
 
 related:
   - title: "Who’s saying what? Mentions of artificial intelligence decreased by 44% in the automotive industry in Q3 2022"

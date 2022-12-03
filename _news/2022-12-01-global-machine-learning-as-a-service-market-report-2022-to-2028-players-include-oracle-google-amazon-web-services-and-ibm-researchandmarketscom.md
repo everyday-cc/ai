@@ -22,38 +22,48 @@ topics:
   - AI in Finance
 
 related:
-  - title: "Artificial Intelligence (AI) in Cyber Security Market : Research Report Provides an In-Depth Insight of Trends 2022 To 2028"
-    excerpt: "\"Artificial Intelligence (AI) in Cyber Security Market\" Insights 2022 - By Applications (BFSI, Government, IT and Telecom, Healthcare, Aerospace and Defense, Other), By Types (Mac"
-    publishedDateTime: 2022-11-29T02:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2028-2022-11-28"
+  - title: "AI-based Home Security Camera Market Size and Share Research 2023 Key Dynamics, Leading Companies, Business Developments and Demand Forecast 2030"
+    excerpt: "Global “AI-based Home Security Camera Market” Research Report incorporates an in-depth analysis of current industry"
+    publishedDateTime: 2022-11-29T05:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-based-home-security-camera-market-size-and-share-research-2023-key-dynamics-leading-companies-business-developments-and-demand-forecast-2030-2022-11-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 77
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "How Deep Learning Has Proved to Be Useful for Cyber Security"
-    excerpt: "The threat of cyber attacks has recently increased dramatically and traditional measures now appear to be insufficiently competent."
-    publishedDateTime: 2022-11-29T18:16:00Z
-    webUrl: "https://www.bbntimes.com/technology/how-deep-learning-has-proved-to-be-useful-for-cyber-security"
+  - title: "AI Drug Discovery Market 2023 Recent Trends, In-depth Analysis, Size, Share, Future Plans, Competitive Landscape and Forecast Period 2028"
+    excerpt: "The ”AI Drug Discovery Market“ report offers a detailed analysis of the current market situation, as well as gives"
+    publishedDateTime: 2022-12-01T11:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-drug-discovery-market-2023-recent-trends-in-depth-analysis-size-share-future-plans-competitive-landscape-and-forecast-period-2028-2022-12-01"
     type: article
     provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 36
-  - title: "US Digital Insurance Market Report 2022: Growth in Artificial Intelligence (AI) Services Applications Presents Opportunities - ResearchAndMarkets.com"
-    excerpt: "The U.S. digital insurance market revenues are forecasted to reach US$27.72 billion in 2026, growing at a CAGR of 20.70%, for the period spanning 2022-2026. Factors such as rapid urbanization, growing smartphone users,"
-    publishedDateTime: 2022-11-30T09:42:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/30/9721584.htm"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Devices Market 2023 Research Report Analysis by TOP Competitors, Demand and Size Share Estimation by 2028, Market Divergence"
+    excerpt: "What are the Key Industry Development in Facial Recognition Devices Market? A facial recognition device stems from a purpose-built combination of high-end hardware components and efficient software to automatically identify or verify a person from a digital image,"
+    publishedDateTime: 2022-12-02T05:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-2023-research-report-analysis-by-top-competitors-demand-and-size-share-estimation-by-2028-market-divergence-2022-12-02"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "iANT/p8IgycoAwv0q0llYO1827Er2kiNwidmNaLiW2+bBMVDbFCPybNp8lAAPfyeax24jPrSzsl7rbxQwm1NQUv7av/SuyOoMhdXsLtHOVdtsU3RJq3miqC6TJzFuzw0glSPM93Xnldo/AyTrtI14+UOdFR4vAFIfdfF2z5YKfev7ysvLGZuJIIOrZJ9qAWzNkM0O/Zjp1Utbg+WmHtlejLcaiy9fIR4BXwLyn9bDMJUs/rz3iFADyUM24TY0ihSmznDevp3A+Ftv0ZkX62uv3+nhX2FtAp7rgzX1fwrv6oYXZgKt88NlCAp/Qx35Y9SPg6JatlWfe71OuCdiLz7XXaeuHtV8b4eEBgax0HxZD8=;Fq8EjgAjiZshj+Cxt5rg5w=="
 ---

@@ -2,6 +2,102 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-10-24-reduce-deep-learning-training-time-and-cost-with-mosaicml-composer-on-aws.md",
+      "title": "Reduce deep learning training time and cost with MosaicML Composer on AWS",
+      "excerpt": "In the past decade, we have seen Deep learning (DL) science adopted at a tremendous pace by AWS customers. The plentiful and jointly trained parameters of DL models have a large representational capacity that brought improvements in numerous customer use cases, including image and speech analysis, natural",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-deep-learning-training-time-and-cost-with-mosaicml-composer-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-deep-learning-training-time-and-cost-with-mosaicml-composer-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/24/reduce-deep-learning-training-mosaicml.jpg",
+          "width": 1343,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T12:31:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-shoplazza-shared-innovative-practices-in-the-age-of-ai-at-aws-summit-china.md",
+      "title": "Shoplazza Shared Innovative Practices in the Age of AI at AWS Summit China",
+      "excerpt": "To solve the pain points, Shoplazza uses the data flow and computing power of Amazon EMR and Amazon SageMaker and combines all the processes, including sampling, featuring training, and estimation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/shoplazza-shared-innovative-practices-age-ai-aws-summit-china",
+      "originalUrl": "https://www.asiaone.com/business/shoplazza-shared-innovative-practices-age-ai-aws-summit-china",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2022/image_5020059_33882458.jpg?h=252f27fa&itok=lHZ54Tpo",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T12:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-24-d-wave-quantum-launches-in-aws-marketplace.md",
       "title": "D-Wave Quantum Launches in AWS Marketplace",
       "excerpt": "D-Wave Quantum Inc. - a leader in quantum computing systems, software, and services, and the only quantum computing company building both annealing and gate-model quantum computers - announced that it has launched in AWS Marketplace,",
@@ -1293,83 +1389,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-aws-to-launch-an-infrastructure-region-in-thailand.md",
-      "title": "AWS to Launch an Infrastructure Region in Thailand",
-      "excerpt": "Region will allow customers to run workloads and securely store data in Thailand while serving end users with even lower latency AWS plans an estimated investment of more than $5 billion",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/b29299246/aws-to-launch-an-infrastructure-region-in-thailand",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/b29299246/aws-to-launch-an-infrastructure-region-in-thailand",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29299246",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29299246",
-      "publishedDateTime": "2022-10-17T20:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-father-of-6-up-rally-racer-killed-in-gas-station-crash.md",
-      "title": "Father of 6, U.P. rally racer killed in gas station crash",
-      "excerpt": "L’ANSE, MI – A 43-year-old father of six died when a semitruck crashed into a gas pumps and caused an “extensive” fire where he was filling up his vehicle last week. Allan Dantes Jr., of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mlive.com/news/2022/10/father-of-6-up-rally-racer-killed-in-gas-station-crash.html",
-      "originalUrl": "https://www.mlive.com/news/2022/10/father-of-6-up-rally-racer-killed-in-gas-station-crash.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UX5LJ2GR55A3JHQZRREIXKJE6Y.jpeg",
-          "width": 2000,
-          "height": 1501,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mlive.com/news/2022/10/father-of-6-up-rally-racer-killed-in-gas-station-crash.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2022/10/father-of-6-up-rally-racer-killed-in-gas-station-crash.html?outputType=amp",
-      "publishedDateTime": "2022-10-17T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MLive",
-        "domain": "mlive.com",
         "images": null,
         "publishers": null,
         "authors": null

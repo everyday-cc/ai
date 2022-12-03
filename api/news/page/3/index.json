@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-12-01-research-suggests-ai-could-predict-heart-attack-or-stroke-with-one-x-ray.md",
+      "title": "Research Suggests AI Could Predict Heart Attack or Stroke with One X-Ray",
+      "excerpt": "At the annual meeting of the Radiological Society of North America, researchers shared preliminary findings on the use of artificial intelligence in predicting ... trained radiologists as of now.\" The research is still in its early stages and has yet ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/business-news/ai-could-predict-your-risk-of-heart-attack-with-one-x-ray/440148",
+      "originalUrl": "https://www.entrepreneur.com/business-news/ai-could-predict-your-risk-of-heart-attack-with-one-x-ray/440148",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1669823575-GettyImages-1251551874.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T08:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-artificial-intelligence-will-drive-the-future-of-content-marketing.md",
+      "title": "Artificial Intelligence will drive the future of content marketing",
+      "excerpt": "Digital Marketing, backed by technological breakthroughs, has come a long way in changing the world around us. As a result, artificial technology, machine learning, and automation are at the heart of every business across",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-will-drive-the-future-of-content-marketing/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-will-drive-the-future-of-content-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/75433510.cms",
+          "width": 330,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-will-drive-the-future-of-content-marketing/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-will-drive-the-future-of-content-marketing/",
+      "publishedDateTime": "2022-11-30T07:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-four-ways-companies-can-use-data-and-ai-to-set-meet-and-beat-their-esg-goals.md",
       "title": "Four Ways Companies Can Use Data And AI To Set, Meet And Beat Their ESG Goals",
       "excerpt": "Consumer interest in sustainable and socially-conscious purchases appears to be intensifying despite global economic woes like inflation. Today, more than 75% of younger shoppers consider ESG issues when making purchase decisions,",
@@ -1149,93 +1244,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-udacitys-train-to-hire-program-now-available-in-aws-marketplace.md",
-      "title": "Udacity's Train-to-Hire Program Now Available in AWS Marketplace",
-      "excerpt": "Udacity and AWS also worked to offer the AWS Machine Learning Scholarship ... Programs include real world content for job-ready competencies in artificial intelligence, machine learning, data science, autonomous systems, cloud computing, among other ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/udacity-s-train-to-hire-program-now-available-in-aws-marketplace-1031942563",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/udacity-s-train-to-hire-program-now-available-in-aws-marketplace-1031942563",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T07:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital.md",
-      "title": "Andrew Ng’s Netail offers AI for retailers to ease change from physical to digital",
-      "excerpt": "Netail, which closed $5M in seed funding, enables retailers to identify competitors, track their inventory, and optimize prices.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/",
-      "originalUrl": "https://venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/amp/",
-      "publishedDateTime": "2022-11-29T07:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
       ]
     }
   ],

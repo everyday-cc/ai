@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Slow Self-Driving Car Progress Tests Investors’ Patience"
-excerpt: "After years of ambitious targets and bold promises, investors are growing impatient with the pace of driverless-car development, applying pressure on an industry that had become accustomed to ..."
-publishedDateTime: 2022-11-29T11:37:00Z
-originalUrl: "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382"
-webUrl: "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382"
+excerpt: "Investors are getting impatient with the pace of driverless-car development, pressuring an industry that has had to scale back plans and retrench."
+publishedDateTime: 2022-11-28T17:09:00Z
+originalUrl: "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382?mod=tech_lead_pos6"
+webUrl: "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382?mod=tech_lead_pos6"
 type: article
-quality: 54
-heat: 54
-published: false
 
 provider:
   name: Wall Street Journal
@@ -28,6 +25,6 @@ images:
     height: 640
     isCached: true
 
-secured: "zgYVGgWe3PD7c1q76Gz2cFTjVh72jSink6ED379C67oq/D/4LUG+wpMAik8IEamRxHbJ87idyXe18ECgV+hlK7Cf9qHdP266egYIzdnAc50ntWfp4khTwHdDYa29zmYQ/Mt4bIWh6O55GVu8p7y7L4gj30W3K7LDSMsNmzVQTEAI+DAzrritgoBWL8dUGntan3WhdVe/HqGhm1W6pXriYob+OfGJ79MW7sbQZSt2hxF21dX/1UmFVd4xxKxczfHbeF8K+dk/zM9vjGSCicRwqsbEeGCvRYvPvGBzgWb0UB5dMauUae8XpTFlIHpvdVUTIY1JcezIQllEUFhsBjzZOr41kAtJkvfwZIrXEyUw90o=;h3MQoWhiftrdlf7l231NcA=="
+secured: "e4bgQqmUB+64ChWgXROSE+6m0vbiBWXaCKCM2Eg28W1c5FTNuVRsnZyXHMCYsmmXjC3iz1WOt2uapue2zuApwAXijSNxewKlh6vK9yaDvgut+UJYs1GmpFcBqRa8ZaWtA9traHHfq1edsTXhwyet/MEpk31+TMY0QoRH5KK6xH40T4I8cE2YEejiiZfGqVEBOKbVJHQp8Jsf6N+cIBE/4imPGxYPDqcuPEnBbHwVKSatdlbfiAsVirvocSL0vMQFEJl46BtqQOoqaJ8zqYsc8tHw9O8OT89aJ+djatI1GJcvlG7fEfmhkk8NM/++b+8bG0o7BVw8BmycME9H4tQvvDvkeBcXawLThB+1NhDM5ok=;qPhKpe4jj5MlVwdnWcNiRA=="
 ---
 

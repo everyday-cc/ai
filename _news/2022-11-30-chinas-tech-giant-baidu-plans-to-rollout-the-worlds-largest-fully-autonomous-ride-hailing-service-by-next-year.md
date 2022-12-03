@@ -51,9 +51,9 @@ related:
       domain: ksn.com
     quality: 39
     images:
-      - url: "https://i0.wp.com/www.ksn.com/wp-content/uploads/sites/13/2022/12/vlcsnap-2022-12-02-22h03m47s629.png?w=2000&#038;ssl=1"
-        width: 1920
-        height: 1080
+      - url: "https://i0.wp.com/www.ksn.com/wp-content/uploads/sites/13/2022/12/4402D263D06EB9AC2A4D4BC0C550C78E_7.jpg?w=2000&#038;ssl=1"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Alstom demonstrates driverless shunting"
     excerpt: "Alstom has demonstrated for the first time the deployment of ATO at Grade of Automation (GoA) 4 on a shunting locomotive, enabling driverless operation."

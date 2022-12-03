@@ -2,28 +2,28 @@
 category: news
 title: "Kami Vision Reveals the World’s First AI-Powered Camera Alarm System for the Entire Home with 24/7 Professional Monitoring"
 excerpt: "Kami Vision, the computer vision company that provides AI solutions to enterprise, SMB and consumers, today announced Kami Pro Security, a professional-grade, video alarm system for use in residences and small businesses."
-publishedDateTime: 2022-11-29T09:02:00Z
-originalUrl: "https://www.eagletribune.com/region/kami-vision-reveals-the-world-s-first-ai-powered-camera-alarm-system-for-the-entire/article_49e5329d-ee51-541e-bfbe-fa77d5602eaa.html"
-webUrl: "https://www.eagletribune.com/region/kami-vision-reveals-the-world-s-first-ai-powered-camera-alarm-system-for-the-entire/article_49e5329d-ee51-541e-bfbe-fa77d5602eaa.html"
+publishedDateTime: 2022-11-29T10:01:00Z
+originalUrl: "https://apnews.com/e9654d74b4b143b98686bb8e46b7b520"
+webUrl: "https://apnews.com/e9654d74b4b143b98686bb8e46b7b520"
 type: article
 quality: 13
 heat: 13
 published: false
 
 provider:
-  name: Eagle-Tribune
-  domain: eagletribune.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/8/3a/83af393c-2753-51f7-acf9-3b55ae4c37e1/6385daa75faa5.image.jpg?crop=1060%2C557%2C0%2C699&resize=1060%2C557&order=crop%2Cresize"
-    width: 1060
-    height: 557
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "HIjq+G9ZbBL9EgvUutP4CtIa0HYvEbvCESoDnIjZjXXqHGHQv4SAdljW7UQyulUZXNap8jfMw4Fdd4XGbhXUFAcBA37OGAduLpzAfaaI0efLLUCpfJKf3MyBADIXqmtJbIp+UXKymnOZ+yMvDj5tO+J+K84m2ix9oSm2eb4Jr5snNUZYLOh7w/D3igsNX7laeEG/1dNtyzj1uQO5ZUyjPqw35/pHrgKfTaD0LN43g5MjhKhcf2zUQfnT8Ro37MOUWljU2f0UgZZJ4Sd3dii9KZMplvM4wDwHH1YfLUd9Ndea0ymNUjfP72DXp8PlKtkF8r6BDOOEk49Q1Vso6+iw0SctakN5cuHHU1SXLjb1C+Q=;W2U5WOxTsttm0Ea7+/N0Pg=="
+secured: "KVICRyppwZib1mzO3z6cwnuzcop9qCmBd+6Nq15nq2Rdz3xt8RRllthXbwktY55qWuNw0lRuxzWRgRF3M3q69TzfdMkKHSz9meYx6ow2+djQGgtrBpi0uSNfRPdQiEvBdLynBync2RSubqulQI46+BaLbGS76t52Q7V4NZTO4C8vQUFKw5Z+86GhEvSQQV3T3IUx6cPRgme+C8S9LyCwDBww0OHlnMbCn5MoIzKSo75cHeGokg6M6/ny9jlTQ34W1xI8mPboM/cza3N1fl67Dl45Twih0uX5CF9yJqDIKCottnVlHfienJN5gW0UZzeXubTSw9f4KGg9bNaAZkwpt7nS5gcUugLtrpWI5DYM0go=;iK9u8iXfvnWmfy4o2+f4fg=="
 ---
 

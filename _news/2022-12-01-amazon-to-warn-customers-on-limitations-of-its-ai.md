@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Amazon to Warn Customers on Limitations of Its AI"
-excerpt: "Akin to lengthy nutrition labels, Amazon's so-called AI Service Cards will be public so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription."
-publishedDateTime: 2022-11-30T17:07:00Z
-originalUrl: "https://money.usnews.com/investing/news/articles/2022-11-30/amazon-to-warn-customers-on-limitations-of-its-ai"
-webUrl: "https://money.usnews.com/investing/news/articles/2022-11-30/amazon-to-warn-customers-on-limitations-of-its-ai"
+title: "Amazon To Warn Customers On Limitations Of Its AI"
+excerpt: "Amazon.com Inc is planning to roll out warning cards for software sold by its cloud-computing division, in light of ongoing concern that artificially intelligent systems can discriminate against different groups,"
+publishedDateTime: 2022-11-30T16:09:00Z
+originalUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985"
+webUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985"
+ampWebUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1"
 type: article
-quality: 49
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://d.ibtimes.com/en/full/4389003/amazon-logo-company-logistics-center-lauwin-planque.jpg"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "Amazon To Warn Customers On Limitations Of Its Artificial Intelligence"
@@ -107,6 +111,6 @@ related:
       domain: iol.co.za
     quality: 19
 
-secured: "oj8olKl+xX39kPSdx89SISmLIKFXey1rAxDMAjjXp7ea4agsUXFXYnoRs5Knz+EeoqgjTouP+eThLdii11jiPHw+k1IiobAa8x7W5qw690l8zQ6tJXhdC3ICrlPwJS44irc9dHgkyUBS4twxqPdRPhwhzYCJSI6L46HJMV8YySQ5hfRQcBn4gm9pdSVpSH1hrn0hp0KoV1QTsbEN6tPR4ZrKetEJTrQP0EPjdmupnnBCKO6oQWSwzIkqPLSHEeFNM3lWBXiXhoQkWmbTChv5MoXrBV0LcE4s5BIKM/6RyyNcu1/Z8vU1mQZiQ5jSUmUv8ZIIzahscxir/UlWrsPeaO2xrsCDORw0KsQ2eB406TywGMOhNGlhlGefm0dAs6uwYoQgBELhk798E2hFfZL6OXiFwFTTui49FDJqYGmIDrOH3+czOkRhj0hWRIUAc7WbwTjk4+VO32j4GdwAIjHCHaOAePipjRlc7os49iStho9PA2i/rkFSHf38uqx/wdq5FcLUzqhU/TCFGOE4iCT0ig==;Aul5USiRZxmFZAx5+IzBEQ=="
+secured: "XFUM2LEyoLIfAy6cZ+/5aEga3QgDXYXxW4ZAEdl5XdW1cfWTDa2siUTa4NJeqEoNpILCuaYgaQyaLcMlC4KPOkWxIGdzvYQpbQDFjP4DJudZv59oUSGJgCJEIC/5rlaBBtejvPfOMdzEi7yy+FpbekEDuLWAH1YbqEu3tbmK3ph0OTAaRY/nvKey+LLHePmeE0UUr60V36AKj0Qd8e87XZFLuo0fAIhhPfJG4o+JsTkHOAFnPGiF4gbJjP0e70G62cBytSv4NBReEuU0wkdBRxiCiq+dLfCoAlQJNlCHbIKmdrvOUMieZKWYEuCCxoe9T5KeLKlNDnZKUtjiDad3jo07RfWn2f1QxwjMM9eiU0g=;hBA56rvn/Pn5l+TiUPPE5A=="
 ---
 

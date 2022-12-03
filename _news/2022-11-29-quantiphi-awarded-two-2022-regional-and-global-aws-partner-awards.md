@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Quantiphi Awarded Two 2022 Regional and Global AWS Partner Awards"
-excerpt: "Quantiphi, an artificial intelligence (AI)-first digital engineering company and AWS Premier Tier Services Partner in the Amazon Web Services (AWS) Partner Network (APN), is excited to announce it is a recipient of two 2022 Regional and Global AWS Partner Awards,"
-publishedDateTime: 2022-11-29T12:51:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/11/29/9720600.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/11/29/9720600.htm"
+excerpt: "Invent 2022, the Regional and Global AWS Partner Awards recognize a wide range of AWS Partners whose business models have embraced specialization, innovation, and cooperation over the past year. Regional and Global Partner Awards recognize partners whose business models continue to evolve and thrive on AWS as they work with customers."
+publishedDateTime: 2022-11-29T13:36:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-quantiphi-awarded-two-2022-regional-global-aws-partner-/2022/11/29/9720600.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-quantiphi-awarded-two-2022-regional-global-aws-partner-/2022/11/29/9720600.htm"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,17 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Spark Business Group Awarded 2022 Regional And Global AWS Partner Award"
-    excerpt: "Spark Business Group is excited to announce it is a recipient of a 2022 Regional and Global AWS Partner Award, recognizing leaders around the globe playing a key role helping customers drive innovation and build solutions on Amazon Web Services (AWS)."
-    publishedDateTime: 2022-11-29T01:10:00Z
-    webUrl: "https://www.scoop.co.nz/stories/BU2211/S00456/spark-business-group-awarded-2022-regional-and-global-aws-partner-award.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/BU2211/S00456/spark-business-group-awarded-2022-regional-and-global-aws-partner-award.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2211/S00456/spark-business-group-awarded-2022-regional-and-global-aws-partner-award.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 39
   - title: "Quantiphi awarded two 2022 Regional and Global AWS Partner Awards"
     excerpt: "Already an AWS Premier-tier Partner with the AWS Machine Learning Competency, Quantiphi developed a serverless and scalable machine learning operations platform NeuralOps (MLOps), for its customers. Powered by Amazon SageMaker,"
     publishedDateTime: 2022-11-30T00:59:00Z
@@ -40,6 +29,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "0VxyV9mdQTXgFZVCQ1LdmYPE0bUN5KGUC7k7zNP95yEfHFeOhLSjGiWRd7hruy89JbtSS+Lsl8G8+ERG365aiT+JpwLXltDdMEIEYQMGOmMx5bNrL6g2vOYCR+jgvqlYv9WTYplqP9aKhitxHVEkb11h/U2fKmfYTtGbTdkVLG6onyypQqRImcl8w7coRllwxy5owoTfmI1uGQSM0aLemw5mvFsdaOdLIpqnRBBkVGiK3eMstm4NgfgqbqM+QnJKdQDiPmCsNMwuFydyxRmtwWxPaoMKSb9L62+J6NYJ38Cq40Z4FrlxVqYe4def1ZD6N2aMrnPhTTQwqIqPbczM5UeViAGnwnzc8ls8BC1Ej3s=;T+Fq50/PctKiGsEIlPowzg=="
+secured: "0ndC0nFPqiIQks8cssgUtI5c2Aw4hsv+weaWVm+8cnOWFo+HVMnqM/g3nOx/gGeGCL7nLXxMImU3yw9pkgPBabhj0ErvSfUxUoxUI/QHNZWCp1JlVP/AqiRiZxBFYcQlAetE1+FY1RKOjM39oLYXkFnwPvHJuAfG/VDcne3AZa9OFRtwXBKmCBN/kjC516CR1uDQxKfX+f7vTA9u3oatPE2rd7TjVZRCPjj25VHtPFFk+vnM7u+OYtIDYIM0qsj7pX1RIFBLCkb3yxMZ01zudG7HbZqGV93jm+/Wtcp1q0B2r+Bhjk5IMQYrIhuJ0iiCZWkbxgq9oU1/VLdFhIIw1s5WNlvHXyGB5B5X3ZiXSxA=;LeStXgG3M+9wJEInA6bWyg=="
 ---
 

@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Machine Learning as a Service Market Report 2022 to 2028: Players Include Oracle, Google, Amazon Web Services and IBM - ResearchAndMarkets.com"
+    excerpt: "The \"Global Machine Learning as a Service Market Size, Share & Industry Trends Analysis Report By End User, By Offering, By Organization Size, By Application, By Regional Outlook and Forecast, 2022 - 2028\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2022-12-01T12:56:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-12-1-global-machine-learning-as-a-service-market-report-2022-to-2028-players-include-oracle-google-amazon-web-services-and-ibm-researchandmarketscom"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 1
 
 secured: "30AplhHpeGNZldJk4+250qpkEZNZnVt9O86fsRH67COs+F49XxN3+U1mH9FgI23c8055fyQdHL0kIKqhmYJLWrg4o9P8PL/i9QcUmyJ9XwMTflcf+yiJ9Yz7WK9vNQJ+selahnV6RlAMrM6dyqORClucqpjjdcDieznVGxwiR++BGX3hqRNjeSnVrsXsWW/wy2OrNI1X0Sd8H6yxdLRYKs3MHmPv3b4J/AB7znFechMFYlr/cRWiveD9kQrJ8/PMsQ4XKVFR3eo/xYHWMd7oBtJFmN52/WZXY6ckCqyFSQ2e5OncWcM4tUvsPH2WUSMgWLrKp7R0uKK4hyfnG2juuxRMeJuOJWwEqaSIuSX1Fvk=;n+AHxzU9XdkvNFCUFJBVaw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.afr.com/politics/federal/why-australia-is-having-troub
 webUrl: "https://www.afr.com/politics/federal/why-australia-is-having-trouble-finding-its-voice-20221201-p5c2u6"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,40 +23,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "National party ‘out of touch’ with regional Australia on Indigenous voice, campaigner says"
-    excerpt: "Thomas Mayor has spent 18 months travelling around the country speaking about the Uluru statement and says rural people agree with it"
-    publishedDateTime: 2022-11-29T01:52:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2022/nov/29/national-party-out-of-touch-with-regional-australia-on-indigenous-voice-campaigner-says"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2022/nov/29/national-party-out-of-touch-with-regional-australia-on-indigenous-voice-campaigner-says"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/nov/29/national-party-out-of-touch-with-regional-australia-on-indigenous-voice-campaigner-says"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 49
-    images:
-      - url: "https://i.guim.co.uk/img/media/87d518e08a3db171aeb5ebfad067eadc68d4985e/0_0_3543_2362/master/3543.jpg?width=620&quality=85&auto=format&fit=max&s=f040c084c8e1af4ba11f88494f9005b1"
-        width: 620
-        height: 413
-        isCached: true
-  - title: "Nationals fracture over federal opposition to Indigenous voice"
-    excerpt: "Andrew Gee breaks ranks to say he will support ‘yes’ campaign while WA branch also states it will back Indigenous recognition in constitution"
-    publishedDateTime: 2022-11-29T05:33:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2022/nov/29/nationals-fracture-over-federal-opposition-to-indigenous-voice"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2022/nov/29/nationals-fracture-over-federal-opposition-to-indigenous-voice"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/nov/29/nationals-fracture-over-federal-opposition-to-indigenous-voice"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 44
-    images:
-      - url: "https://i.guim.co.uk/img/media/30aa89dbbbae34488018951c8b36ee24b24bc894/0_0_4172_2781/master/4172.jpg?width=620&quality=85&auto=format&fit=max&s=3e35877520af8e57cc5b31e8b73ecc67"
-        width: 620
-        height: 413
-        isCached: true
 
 secured: "BcVMrt0BAat5Ng8LuXpUmVhWEV0WDtG5ZOMwqDC5iP121CHDLr/fViVWOJ/9/ljEZtbpsuxlsY+RHuj0RRod6P/X+K17zZS0a4w0wPBrjd9hDuytJ6QmqC4AksEd+ohw3eWqx6KCGjQJbzdzG2MrhfTCQta5SvpCdoe6lzVMrwY6VeglxPpyEhgzHcI+zFmyAryMbujyINysCgC99YA7DHTwt5JIT+liqOfjxW5Y0FNIqPtelyQZv3jHWp3c7mnJYHJ5aOjojorGDF2PbQyACOK7mVnLLxLlh9n6bz/o7enpIElW+vsyWt4TDUW5oyLoHx6k74QQx8QCw03HJdAwTkHlq6KC2jHjZrQHJWNy6WgZooDf/EgJoAvqveBN2Tl5gFOQCtS3/M/cvIEoNKwqDY7kYhj3DBrj71OldbjQ8YOKaUSWlmwyikZ9MFBVLmxOos5xrUaoL1Z3uA3jrEet+2XSlztguUAHXQ9dbz4GAzAQ6rsVG4mrL2nedBhdEE0uYT4gPzdtVZtsH6huCkJLaw==;WyjGkh3mn2NGOIvRAYTvSw=="
 ---

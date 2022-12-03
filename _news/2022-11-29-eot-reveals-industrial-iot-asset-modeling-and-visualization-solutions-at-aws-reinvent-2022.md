@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Unveils New AI Service Features and Enhancements at re:Invent 2022"
-    excerpt: "Over the last 5 years, artificial intelligence (AI) and machine learning (ML) have evolved from a niche activity to a rapidly growing mainstream endeavor. Today, more than 100,000 customers across numerous industries rely on AWS for ML and AI initiatives that infuse AI into a broad range of business"
-    publishedDateTime: 2022-11-29T02:25:29Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-unveils-new-ai-service-features-and-enhancements-at-reinvent-2022/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/29/AWS-Unveils-New-Features-reInvent-2022.jpg"
-        width: 2365
-        height: 1178
-        isCached: true
-  - title: "Introducing AWS AI Service Cards: A new resource to enhance transparency and advance responsible AI"
-    excerpt: "Artificial intelligence (AI) and machine learning (ML) are some of the most transformative technologies we will encounter in our generation—to tackle business and societal problems, improve customer experiences, and spur innovation. Along with the widespread use and growing scale of AI comes the recognition"
-    publishedDateTime: 2022-11-30T17:51:13Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-aws-ai-service-cards-a-new-resource-to-enhance-transparency-and-advance-responsible-ai/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 90
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/29/ai-service-cards-responsible-ai.jpg"
-        width: 1563
-        height: 780
-        isCached: true
   - title: "How BMW Group has embraced AI for positive use cases and to improve sustainability | AWS re:Invent"
     excerpt: "Among the most exciting use cases is for fully autonomous vehicles, but that’s not the only area where AI is having an impact. For example, Microsoft and Mercedes-Benz are working together to improve automobile production efficiency."
     publishedDateTime: 2022-12-02T22:13:00Z
@@ -106,15 +78,6 @@ related:
         width: 4896
         height: 3672
         isCached: true
-  - title: "AWS launches new AI educator enablement program"
-    excerpt: "The program, which was detailed at AWS re:Invent in Las Vegas, will be provided through AWS’ Machine Learning University. Machine Learning University is a platform that offers access to virtual AI courses and other educational resources developed by the cloud giant."
-    publishedDateTime: 2022-11-30T18:48:00Z
-    webUrl: "https://siliconangle.com/2022/11/30/aws-launches-new-ai-educator-enablement-program/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
   - title: "New tools for data integration and insight take center stage in opening keynotes at AWS re:Invent"
     excerpt: "New tools for data integration and insight take center stage in opening keynotes at AWS re:Invent - SiliconANGLE"
     publishedDateTime: 2022-11-29T23:10:00Z
