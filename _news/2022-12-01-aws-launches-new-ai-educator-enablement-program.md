@@ -117,6 +117,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Innovation hotspots warm up AWS re:Invent"
+    excerpt: "Massive throngs turned out for Amazon Web Services Inc.’s massive post-pandemic re:Invent conference in Las Vegas this week. As with its previous shows, AWS did not disappoint, with its laundry list of new and improved products,"
+    publishedDateTime: 2022-12-03T01:26:00Z
+    webUrl: "https://siliconangle.com/2022/12/02/innovation-hotspots-warm-aws-reinvent/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/awsreinvent2022-awsforeveryapplication.jpg"
+        width: 4896
+        height: 3672
+        isCached: true
   - title: "EOT Reveals Industrial IoT Asset Modeling and Visualization Solutions at AWS re:Invent 2022"
     excerpt: "Invent – EOT (embassyofthings.com), a leader in software for energy, manufacturing and the Industrial Internet of Things (IIoT), has been working with Amazon Web Services (AWS) to develop two plug-and-play software-as-a-service (SaaS) solutions,"
     publishedDateTime: 2022-11-29T14:13:00Z

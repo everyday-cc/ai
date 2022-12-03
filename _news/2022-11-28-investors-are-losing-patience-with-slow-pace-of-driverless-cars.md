@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Investors Are Losing Patience With Slow Pace of Driverless Cars"
-excerpt: "Investors are getting impatient with the pace of driverless-car development, pressuring an industry that has had to scale back plans and retrench."
-publishedDateTime: 2022-11-28T11:59:00Z
-originalUrl: "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382?mod=newsviewer_click"
-webUrl: "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382?mod=newsviewer_click"
+excerpt: "After years of ambitious targets and bold promises, investors are growing impatient with the pace of driverless-car development, sending shock waves through an industry that had become accustomed ..."
+publishedDateTime: 2022-11-28T13:13:00Z
+originalUrl: "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382?mod=hp_lista_pos2"
+webUrl: "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382?mod=hp_lista_pos2"
 type: article
 quality: 69
 heat: -1
@@ -46,14 +46,14 @@ related:
         height: 630
         isCached: true
   - title: "Baidu Announces Plan to Build the World's Largest Fully Driverless Ride-Hailing Service Area in 2023"
-    excerpt: "Baidu plans to establish the world's largest fully driverless ride-hailing service area in 2023Baidu continues to show growth momentum as the"
-    publishedDateTime: 2022-11-29T06:34:00Z
+    excerpt: "The plan outlined a goal to expand the operation area for Baidu's fully driverless robotaxis ... Closed-loop data system to further enhance the intelligence of autonomous driving SHARE THIS ..."
+    publishedDateTime: 2022-11-29T14:28:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/baidu-announces-plan-to-build-the-world-s-largest-fully-driverless-ride-hailing-service-area-in-2023-1031941173"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 51
+    quality: 49
   - title: "Alstom demonstrates driverless shunting"
     excerpt: "Alstom has demonstrated for the first time the deployment of ATO at Grade of Automation (GoA) 4 on a shunting locomotive, enabling driverless operation."
     publishedDateTime: 2022-11-29T16:39:00Z
@@ -111,6 +111,6 @@ related:
         height: 500
         isCached: true
 
-secured: "kzvvM247uKjmeCPI7WVVIr5JgVUu+lju8fMS87i29E1tt2CtwCnrWI+A6/JDpfDVJQZy8PKisbA+0hsIDEBLE679e8K/XyxXdic1E20QZ7CKdXjMMwmqhqh6HhLC2BqvXepVpSYqooS42iaEUCbqvlTEZRx4f2il+0N3lz29blP7al0wq0ASa1NolFSj8oh8/sxex/l+o/BaTvrD1gfl605VgYACs4RRPMg9QscJGILjOh3n6GWLZA/VtThR6qGNaZCmExzb0HLmRwO5QnGeiatr1x2NcWRTrpvjmUX7uyo6LMcZxH1Wl3R3b3yf9FH7pa8Ve/BLWFtuNOIsIZ3obXp8+vsskQsZRFs5kxQWH9s=;zDJYX2Z+l8NKK6ncHfpPkg=="
+secured: "SlY/Zmvz+P4639BrKi5C9Jxr9C9ojtv8x/8VFZiBbqP5DEh1EfVOojsfT0HfzyoW3H/Y+wFW/1PrifrGc2/BxSZw54A6JE5t70j49F2iBGVUo4XJ8zWZbwQH689urDfs8puBaS2mXK+cWeQjmwnss45jgoTAUxz+KxNnR6/RgDIu/gkk80opsL5VHFDpKCS2ZpleQdz+Ylg1VldIog/2BdVfhl0yP819jXMbffDc5m8irDFDbvt9DcNMKTVH2VL7cSpfZl3ktY5MdsJK9wfWTEPdmm5AFYWvSx/gauSorgK2To2PbawbDnRn2mCK3sqHp3oDgrcypgtfWV/JgnNvJhNV5PL+Gk8WXAH6yYgWTek=;avKq+Koa/E+2w9THM1jsQA=="
 ---
 

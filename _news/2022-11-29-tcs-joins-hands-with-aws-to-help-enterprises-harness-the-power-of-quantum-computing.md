@@ -41,6 +41,38 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "TCS partners with AWS in new quantum computing initiative"
+    excerpt: "Tata Consultancy Services today launched the TCS Quantum Computing Lab on AWS, a new service designed to provide enterprise customers with insight into what it described as “one of the most promising technologies of the decade."
+    publishedDateTime: 2022-11-28T17:49:00Z
+    webUrl: "https://www.itworldcanada.com/article/tcs-partners-with-aws-in-new-quantum-computing-initiative/515846"
+    ampWebUrl: "https://www.itworldcanada.com/article/tcs-partners-with-aws-in-new-quantum-computing-initiative/515846?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/tcs-partners-with-aws-in-new-quantum-computing-initiative/515846?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 59
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2022/11/GettyImages-1346925522.jpg"
+        width: 788
+        height: 443
+        isCached: true
+  - title: "TCS partners with AWS in new quantum computing initiative"
+    excerpt: "Tata Consultancy Services today launched the TCS Quantum Computing Lab on AWS, a new service designed to provide enterprise customers with insight into what it described as “one of the most promising technologies of the decade."
+    publishedDateTime: 2022-11-29T17:59:00Z
+    webUrl: "https://www.itbusiness.ca/news/tcs-partners-with-aws-in-new-quantum-computing-initiative/123471"
+    ampWebUrl: "https://www.itbusiness.ca/news/tcs-partners-with-aws-in-new-quantum-computing-initiative/123471?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/tcs-partners-with-aws-in-new-quantum-computing-initiative/123471?amp=1"
+    type: article
+    provider:
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 59
+    images:
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2022/11/GettyImages-13469255221.jpg"
+        width: 788
+        height: 443
+        isCached: true
   - title: "UNC and AWS partner to launch 10 new digital health companies"
     excerpt: "So, there's no shortage of companies in digital health (in fact, there are so many right now that the space starting to see a correction through consolidation) but get ready for more, as the University of North Carolina at Chapel Hill,"
     publishedDateTime: 2022-11-30T23:17:00Z

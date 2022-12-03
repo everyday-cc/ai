@@ -28,15 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI-based Home Security Camera Market Size and Share Research 2023 Key Dynamics, Leading Companies, Business Developments and Demand Forecast 2030"
-    excerpt: "Global “AI-based Home Security Camera Market” Research Report incorporates an in-depth analysis of current industry"
-    publishedDateTime: 2022-11-29T05:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-home-security-camera-market-size-and-share-research-2023-key-dynamics-leading-companies-business-developments-and-demand-forecast-2030-2022-11-29"
+  - title: "Computer Vision in Healthcare Market Research 2022 – Growth, Trends, Outlook and Future Scope Analysis 2030"
+    excerpt: "Nov 28, 2022 (Heraldkeepers) -- The global Computer Vision in Healthcare market report provides geographic analysis covering regions, such as North America, Europe, Asia-Pacific, and Rest of the ..."
+    publishedDateTime: 2022-11-28T14:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-research-2022-growth-trends-outlook-and-future-scope-analysis-2030-2022-11-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 68
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -58,8 +58,8 @@ related:
     quality: 18
   - title: "Fintech Global Market to Reach $385.93 Billion by 2027 at a CAGR of 19.71%"
     excerpt: "The publisher provides an analysis of the key trends in each sub-segment of the global fintech market report, along with forecasts at the global, regional"
-    publishedDateTime: 2022-11-28T14:32:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-fintech-global-market-reach-38593-billion-2027-a-/2022/11/28/9720005.htm"
+    publishedDateTime: 2022-11-28T15:03:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/11/28/9720005.htm"
     type: article
     provider:
       name: TMCnet

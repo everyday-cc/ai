@@ -7,7 +7,7 @@ originalUrl: "https://ibsintelligence.com/ibsi-news/westpac-joins-consortium-of-
 webUrl: "https://ibsintelligence.com/ibsi-news/westpac-joins-consortium-of-experts-backing-responsible-use-of-ai/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 400
     height: 400
     isCached: true
-
-related:
-  - title: "Westpac among founder members of AI consortium"
-    excerpt: "Westpac has joined with five other organisations to form a new consortium to drive leading-edge research into responsible adoption of artificial intelligence in the finance sector."
-    publishedDateTime: 2022-11-28T10:32:00Z
-    webUrl: "https://www.finextra.com/newsarticle/41384/westpac-among-founder-members-of-ai-consortium"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/david-walker-500x500.jpg"
-        width: 480
-        height: 270
-        isCached: true
 
 secured: "Kh6MPI+kTw4Ew2iP1N5+COlffVxkTY3T307SiBHGys4oyng2G6gFasA86Dq+FZrOlMmL/hO7ZIdV0Lx4e0+27NlfAhtcOh6CGKPIuB8PQsIooDr/X/zj2jNkNLqFdNvBNpgdZKWK1tesjdk2ltF8z21PON4iQe26u5igVpLgvMsRXnPh3mRUiIZHsl4swjq1e+9zuzBKLMRRv26L4NdmyFW1iLzyM1U6s2qeBnEIr6RRUv/SHJurZtXoSnIrlbtSwFggvZHMollwgJooVy2JyvCYFdvQU14jEATirpWYMZ19lNErmBizwBpWMneq5eHa3PibFQoxyQbj+2UDfFFhIuJsS9sYVRQy4jf17ynoIjSZ36kM+Ww2bJcW5sjhDZmle6RHcSI9k1XI+mujl8W4MhxR5vDMaewUNjvn8W5CuvAYZ6PXAeFNDx1lJufB8q+f1bZHrykX3FG81hIP8k1ZISHQw/53xyh9kMgoryK77il2KlcVdjZCCAyESLNDE+tqIJ9iHsBNboAY3b+iMhWwFA==;cKCNSmMNq19TCbXtoP/3Qg=="
 ---

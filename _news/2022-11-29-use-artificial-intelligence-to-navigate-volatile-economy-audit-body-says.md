@@ -8,8 +8,8 @@ webUrl: "https://www.cityam.com/use-artificial-intelligence-to-navigate-volatile
 ampWebUrl: "https://www.cityam.com/use-artificial-intelligence-to-navigate-volatile-economy-audit-body-says/?amp=1"
 cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/use-artificial-intelligence-to-navigate-volatile-economy-audit-body-says/?amp=1"
 type: article
-quality: 56
-heat: 56
+quality: 58
+heat: 58
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.cityam.com/wp-content/uploads/2021/08/audit-city-am-1.jpg"

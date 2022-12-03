@@ -112,6 +112,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Innovation hotspots warm up AWS re:Invent"
+    excerpt: "Massive throngs turned out for Amazon Web Services Inc.’s massive post-pandemic re:Invent conference in Las Vegas this week. As with its previous shows, AWS did not disappoint, with its laundry list of new and improved products,"
+    publishedDateTime: 2022-12-03T01:26:00Z
+    webUrl: "https://siliconangle.com/2022/12/02/innovation-hotspots-warm-aws-reinvent/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/awsreinvent2022-awsforeveryapplication.jpg"
+        width: 4896
+        height: 3672
+        isCached: true
   - title: "AWS launches new AI educator enablement program"
     excerpt: "The program, which was detailed at AWS re:Invent in Las Vegas, will be provided through AWS’ Machine Learning University. Machine Learning University is a platform that offers access to virtual AI courses and other educational resources developed by the cloud giant."
     publishedDateTime: 2022-11-30T18:48:00Z

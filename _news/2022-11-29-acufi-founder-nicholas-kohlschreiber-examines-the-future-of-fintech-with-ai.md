@@ -1,28 +1,22 @@
 ---
 category: news
 title: "AcuFi Founder, Nicholas Kohlschreiber, Examines the Future of FinTech with AI"
-excerpt: "For the fintech sector, concerns in the security of both user and company data can be addressed by AI. More than ever, the modern age will come with a new variety of bad actors-hackers, viruses, and vulnerabilities waiting to be exploited."
-publishedDateTime: 2022-11-29T02:44:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/273135322/acufi-founder-nicholas-kohlschreiber-examines-the-future-of-fintech-with-ai"
-webUrl: "https://www.bignewsnetwork.com/news/273135322/acufi-founder-nicholas-kohlschreiber-examines-the-future-of-fintech-with-ai"
+excerpt: "For the fintech sector, concerns in the security of both user and company data can be addressed by AI. More than ever, the modern age will come with a new variety of bad actors-hackers ..."
+publishedDateTime: 2022-11-29T02:33:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57703771-acufi-founder-nicholas-kohlschreiber-examines-the-future-of-fintech-with-ai-200.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57703771-acufi-founder-nicholas-kohlschreiber-examines-the-future-of-fintech-with-ai-200.htm"
 type: article
-quality: 36
-heat: 36
+quality: 16
+heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://cdn.bignewsnetwork.com/cus1669858414283.jpg"
-    width: 630
-    height: 420
-    isCached: true
 
 related:
   - title: "Founder of AcuFi, Nick Kohlschreiber, Shows Small Businesses how to Use FinTech"
@@ -40,6 +34,6 @@ related:
         height: 420
         isCached: true
 
-secured: "PVmD3GUBtU+/tpYSz+5Zax6HdPYMpAq7PsUe9P4gz4fsvZGFOQrBLZq3qJid1p2Urh4hUtngxS1KBwbLEXr9WC9XN5icwAA3NGFXJ2cLac4XEKxv/hGk4gdbBzLSBod/rjfuva3IjBk11eWy5KFoJtpM5SArC9ZBco4FG9qxWvUx3bL5fR9BNLEvOU8TTTTMvrEcR6Lf//96zcNFloibt7RkwXw1KzlsJAuEnQaCwCLoU5DlsNKq+QXjxCjEek1/2es1yzJVW3/Qh8Z+enWowCiLrbT/pSA/PvcYKmeyH074eWcchZGrIEc61vqNxaBepc13r2+o4O+2eE4mj7U/1rkKczl6TqHt9W2X0d2PFZM=;wqMcKR2hUx4M83Jdq7IAgg=="
+secured: "R6sxqJhEGieStl/BCGSiQNhk2oKSiTWbpvLjxpZiWqUVYis9WqWguzxlEBQVVdd04Z8U+o000WAJZ+OasUns9K0YSgwlbtBkHl9g6HK+DJ5j3IAWIISHYdU8vIvnREat8s20PGRB/7K9T6vom184Y1j6khspIWhWDjZsfgmwCeS+jbU9gySP0ZDqYBfhMN+OtqDZqSgDNCfEwMCoCxEZc7jXVYwQGBB4qQs9OAwrJydt+URbw3yhCsYikF8mD1+/G5KLDmY8VnVU9iuceSim8rI4JKFWS7Zy1FEMfpMR/zmtnzw/OwU7rgNLky1WEMzZEudshcc8qCUF0E7u4gMDD4Q84+6Bal8newWfpEXJlxo=;1tVxR/+eM2tJ9jVU8hKNmw=="
 ---
 

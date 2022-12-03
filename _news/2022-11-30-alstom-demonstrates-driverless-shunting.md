@@ -42,9 +42,9 @@ related:
         height: 630
         isCached: true
   - title: "Investors Are Losing Patience With Slow Pace of Driverless Cars"
-    excerpt: "Investors are getting impatient with the pace of driverless-car development, pressuring an industry that has had to scale back plans and retrench."
-    publishedDateTime: 2022-11-28T11:59:00Z
-    webUrl: "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382?mod=newsviewer_click"
+    excerpt: "After years of ambitious targets and bold promises, investors are growing impatient with the pace of driverless-car development, sending shock waves through an industry that had become accustomed ..."
+    publishedDateTime: 2022-11-28T13:13:00Z
+    webUrl: "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382?mod=hp_lista_pos2"
     type: article
     provider:
       name: Wall Street Journal
@@ -56,14 +56,14 @@ related:
         height: 640
         isCached: true
   - title: "Baidu Announces Plan to Build the World's Largest Fully Driverless Ride-Hailing Service Area in 2023"
-    excerpt: "Baidu plans to establish the world's largest fully driverless ride-hailing service area in 2023Baidu continues to show growth momentum as the"
-    publishedDateTime: 2022-11-29T06:34:00Z
+    excerpt: "The plan outlined a goal to expand the operation area for Baidu's fully driverless robotaxis ... Closed-loop data system to further enhance the intelligence of autonomous driving SHARE THIS ..."
+    publishedDateTime: 2022-11-29T14:28:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/baidu-announces-plan-to-build-the-world-s-largest-fully-driverless-ride-hailing-service-area-in-2023-1031941173"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 51
+    quality: 49
   - title: "China's Baidu Plans to Rollout the World's Largest Fully Autonomous Ride-Hailing Service by Next Year"
     excerpt: "China's internet technology giant Baidu Inc. held its “Apollo Day” live-streamed technology event on Monday where the company shared its latest progress on autonomous driving. Among the announcements at Apollo Day were Baidu’s plans to launch the world's largest fully-autonomous ride-hailing service aptly named “Apollo Go” by next year and become the world’s biggest robotaxi operator."
     publishedDateTime: 2022-11-29T22:00:00Z

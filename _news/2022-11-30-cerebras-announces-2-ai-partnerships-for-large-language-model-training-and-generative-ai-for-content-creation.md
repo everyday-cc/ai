@@ -57,10 +57,19 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Ludo upgrades its generative AI tools for game creativity"
+    excerpt: "Ludo is using generative AI to help game developers be more productive. The point isn't to wipe out jobs. It's to make them more creative."
+    publishedDateTime: 2022-12-01T14:30:00Z
+    webUrl: "https://venturebeat.com/games/ludo-upgrades-its-generative-ai-tools-for-game-creativity/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Cerebras Systems and Jasper Partner on Pioneering Generative AI Work"
     excerpt: "The rise of generative AI is one of the most important technological waves in recent history, enabling the ability to write documents, create images, and code software all from ordinary text inputs. Based on sophisticated generative AI models,"
-    publishedDateTime: 2022-11-29T20:57:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/29/9721326.htm"
+    publishedDateTime: 2022-11-29T19:17:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/11/29/9721326.htm"
     type: article
     provider:
       name: TMCnet

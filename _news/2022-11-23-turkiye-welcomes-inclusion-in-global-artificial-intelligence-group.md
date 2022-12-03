@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cdnuploads.aa.com.tr/uploads/Contents/2022/11/23/thumbs_b_c_2e4311fcbd861ab39e7fd40982edecc6.jpg?v=153957"

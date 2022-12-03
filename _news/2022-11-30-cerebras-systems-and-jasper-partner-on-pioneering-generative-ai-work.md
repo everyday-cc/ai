@@ -2,9 +2,9 @@
 category: news
 title: "Cerebras Systems and Jasper Partner on Pioneering Generative AI Work"
 excerpt: "The rise of generative AI is one of the most important technological waves in recent history, enabling the ability to write documents, create images, and code software all from ordinary text inputs. Based on sophisticated generative AI models,"
-publishedDateTime: 2022-11-29T20:57:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/11/29/9721326.htm"
-webUrl: "https://it.tmcnet.com/news/2022/11/29/9721326.htm"
+publishedDateTime: 2022-11-29T19:17:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/11/29/9721326.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/11/29/9721326.htm"
 type: article
 quality: 19
 heat: -1
@@ -51,6 +51,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Ludo upgrades its generative AI tools for game creativity"
+    excerpt: "Ludo is using generative AI to help game developers be more productive. The point isn't to wipe out jobs. It's to make them more creative."
+    publishedDateTime: 2022-12-01T14:30:00Z
+    webUrl: "https://venturebeat.com/games/ludo-upgrades-its-generative-ai-tools-for-game-creativity/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Cerebras Announces 2 AI Partnerships – for Large Language Model Training and ‘Generative AI’ for Content Creation"
     excerpt: "Cerebras Systems, maker of the “dinner plate sized” AI processor, announced two alliances today, one with Cirrascale Cloud Services, provider of deep learning solutions for AVs, NLP and computer vision,"
     publishedDateTime: 2022-11-29T22:58:00Z
@@ -75,6 +84,6 @@ related:
       domain: insidehpc.com
     quality: 0
 
-secured: "ZmaYWaazcDfSs0beTIWMSeBCEH+OgpMEuExSwPrT3/zyJ4vOxqA+C1eljH2rxQeiS1P9rTSjHc51O5DsDOSklpW7a8/REDY+NPC8Wjxm34Ma0aoIGQRN/FY+QEfj6dcRydjCLCk03hwmAexmIoKx76L5RPvg9XZs/I6gWlU4D2xhA2TsVcGMmkFQMk6wkTLUeMChIWhXkM6wV7drUJehgW5hhXIrMPWMzEaB2pAvWgBgNH2XRsJVcz4kJabSNKqxPmNwcMok69ECukFOMp4nUoZfwTwuRbTvWOQQC1+TTaGgbDTdSGr6Vzyj8LUKl0AI2dO3UIwRe4lf9Gk3UH8zHzP6e3CKWECVfrCu9fSlsY4=;6NXBth2OHVdnz00oXRfP2Q=="
+secured: "K/+tb44dtoDts0KY3e/WMDQxUHP/bPmrR97hdnTxSetaC5RMWJEJkD6LA0tDxkitg7DEUUYYDNcZ18gUnHb5QKm920Y01+UidmdnXGRnuIl4ohhVQ1cShHkA8aa6AToZsND1+L2XNA/NV+T17EzJEWB+lmeQtCudH7Vwqkk3mde8Ax6hJzNzd6CkjEXqeFP81q7OZBFMn3HsoJElRkMdhS21cX7QU98WCxvDMpovGbyFPLtPgSQR+ny7hYwRro4pn9MuYsBFqrFs1rHtnHAxOTSMX235EPj6L9N1VI9Grhuh/IL50Vh9rsULfVjKYmMttl+xU2Cxo7AxaDO5Mm1wU//KWi6WGLXQqlQE3SoJ/EM=;hoZI+9FOGJdm+g3YtjlMbA=="
 ---
 

@@ -26,19 +26,6 @@ images:
     height: 282
     isCached: true
 
-related:
-  - title: "Growth Opportunities in Artificial General Intelligence, Platform-as-a-Service, Natural Language Processing, and Edge-as-a-Service"
-    excerpt: "The \"Growth Opportunities in Artificial General Intelligence, Platform-as-a-Service, Natural Language Processing, and Edge-as-a-Service\" report has been added to"
-    publishedDateTime: 2022-11-28T09:28:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/g29866617/growth-opportunities-in-artificial-general-intelligence-platform-as-a-service-natural-language-pro"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29866617"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29866617"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 9
-
 secured: "SxuJ2jY+cH1xDiO2gWUcd9cuTjVPGYoCaQAtAGs0JEBjhUM1xYIbTHwzNmvBe4R1Jze17YOHp8a4np26JGmiG9COXYiWyCrGUNqLS5uVIbyATjzp5zg6Xrch/vPhyYFZg6dKRrYL7r7ImDtV2CbrIR0oEB4SDGGqUqkivych3W4x5/zPfwrWi8atptcXrk4hWuW9MyUMwLopS3Stb+AiWmNYQiq6TYX7xPzJ+9HZy/te7qukL3K8bctUPKANbGpgeq+03U+99mqdMSweEECp5VD28o+VH/+a9uGglVGN+iaQNu+e/nTu5LhwmSppkhpTW93k4mWji0lCF2+uoXJ2m40f535eLqhWY4emVTXk/n0=;H8Id3GLljXD6yjz45L4QOQ=="
 ---
 

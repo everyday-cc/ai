@@ -27,40 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "As AI Gets Smarter, Creatives Must Continue To Predict Its Behavior"
-    excerpt: "Predicting and influencing human behavior is as old as human beings themselves, but now we’re entering a new territory—one that has never been possible until the advent of AI. Artificial intelligence helped me write the end of that last sentence."
-    publishedDateTime: 2022-11-28T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2022/11/28/as-ai-gets-smarter-creatives-must-continue-to-predict-its-behavior/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2022/11/28/as-ai-gets-smarter-creatives-must-continue-to-predict-its-behavior/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/11/28/as-ai-gets-smarter-creatives-must-continue-to-predict-its-behavior/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/637e2d8f5e5b4ed672588243/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AWS Boosts AI for Connect Contact Center Product"
-    excerpt: "Amazon Connect initially disrupted on a pay-per-use price model but is now flexing its artificial intelligence muscles."
-    publishedDateTime: 2022-12-01T21:34:00Z
-    webUrl: "https://www.eweek.com/cloud/aws-boosts-ai-for-connect-contact-center-product/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 64
-  - title: "Ludo upgrades its generative AI tools for game creativity"
-    excerpt: "Ludo is using generative AI to help game developers be more productive. The point isn't to wipe out jobs. It's to make them more creative."
-    publishedDateTime: 2022-12-01T14:30:00Z
-    webUrl: "https://venturebeat.com/games/ludo-upgrades-its-generative-ai-tools-for-game-creativity/"
+  - title: "How generative AI could create assets for the metaverse | Jensen Huang"
+    excerpt: "Jensen Huang, CEO of AI and graphics chip maker Nvidia, believes that generative AI will be transformational and it’s just getting started. One of its biggest applications could be with the metaverse, which has huge demands for content as developers need ..."
+    publishedDateTime: 2022-11-28T16:45:00Z
+    webUrl: "https://venturebeat.com/games/how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang/"
+    ampWebUrl: "https://venturebeat.com/games/how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 47
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/Jensen_GTC-keynote_Omniverse.png?w=1200&strip=all"
+        width: 1199
+        height: 582
+        isCached: true
+  - title: "Future of Metaverse in the healthcare sector"
+    excerpt: "including artificial intelligence, virtual reality, augmented reality, the internet of medical devices, robotics, quantum computing, etc., through which new approaches to delivering high-quality healthcare treatments and services can be investigated."
+    publishedDateTime: 2022-11-30T10:15:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/future-of-metaverse-in-the-healthcare-sector/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/future-of-metaverse-in-the-healthcare-sector/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/future-of-metaverse-in-the-healthcare-sector/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 39
 
 secured: "K91AXu2ihE/5T0bBkBbiGJwIU1i+4KNd8t+0yV7czVGJOOLT7fjE7v8PnNKqvlww/Vbjqc4daPmG52FZqKmHYogO+pXN+BL5jwlPd6zQpa44a1nZQIqIgTTWYc1935NHFmwiO+mFg9bCFNPR907R+y6rRRkVANPO1aNqMt9NVoyylq42RyTJQZ1KLI9RY69VodTmM+teR7CmObJi4tC8Vul+htr59PCRLAFcjHOqiH30YgboKcf8nH1Ve4E2LSuPpme7K/MAGvKA+RKIQq58/u3yHfDOXoeDccV27mXg9LYN11VAM5oSZXMYbbrT3cyKTeU1pJlWgkQxiatcu04oT7FArqQhi4zCOCeCGc6DX3NycA4KYqwfDT+3uJT/QJbYY+Pkkzx0kLOAVMPmqJcaBZXXpxv6d4Wr1iVvvko0Cuo4Os3ciHJyQGaSw/ulv7bmGlfIYCGMxZ5MF8mFBTt8d3SMBllv+gr6NWbL01pWpTDMcYpnuwzToOIziQzmoB38oi2EbtBU1hMDq964S9GMGg==;Fsm+9ttlK5B1zIQtkECCig=="
 ---

@@ -43,6 +43,20 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "San Francisco Police Propose Using Deadly Robots"
+    excerpt: "San Francisco’s Police Department (SFPD) has sought permission from the city’s Board of Supervisors to deploy robots that would kill suspects. According to a ..."
+    publishedDateTime: 2022-11-28T19:59:00Z
+    webUrl: "https://www.pcmag.com/news/san-francisco-police-propose-using-deadly-robots"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03d6ig8W9AnQ0FcckQsjrnI-1.fit_lim.size_1200x630.v1669506025.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "San Francisco will allow police to deploy robots that kill"
     excerpt: "Supervisors voted to grant police the option to use potentially lethal, remote-controlled robots despite strong objections from civil liberties groups."
     publishedDateTime: 2022-11-30T04:27:00Z

@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Baidu Announces Plan to Build the World's Largest Fully Driverless Ride-Hailing Service Area in 2023"
-excerpt: "Baidu plans to establish the world's largest fully driverless ride-hailing service area in 2023Baidu continues to show growth momentum as the"
-publishedDateTime: 2022-11-29T06:34:00Z
+excerpt: "The plan outlined a goal to expand the operation area for Baidu's fully driverless robotaxis ... Closed-loop data system to further enhance the intelligence of autonomous driving SHARE THIS ..."
+publishedDateTime: 2022-11-29T14:28:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/baidu-announces-plan-to-build-the-world-s-largest-fully-driverless-ride-hailing-service-area-in-2023-1031941173"
 webUrl: "https://markets.businessinsider.com/news/stocks/baidu-announces-plan-to-build-the-world-s-largest-fully-driverless-ride-hailing-service-area-in-2023-1031941173"
 type: article
-quality: 51
+quality: 49
 heat: -1
 published: false
 
@@ -19,9 +19,8 @@ provider:
       height: 50
 
 topics:
-  - Computer Vision
-  - AI
   - AI in Autos
+  - AI
 
 related:
   - title: "Baidu Plans to Expand Driverless Ride-Hailing Service Area"
@@ -41,9 +40,9 @@ related:
         height: 630
         isCached: true
   - title: "Investors Are Losing Patience With Slow Pace of Driverless Cars"
-    excerpt: "Investors are getting impatient with the pace of driverless-car development, pressuring an industry that has had to scale back plans and retrench."
-    publishedDateTime: 2022-11-28T11:59:00Z
-    webUrl: "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382?mod=newsviewer_click"
+    excerpt: "After years of ambitious targets and bold promises, investors are growing impatient with the pace of driverless-car development, sending shock waves through an industry that had become accustomed ..."
+    publishedDateTime: 2022-11-28T13:13:00Z
+    webUrl: "https://www.wsj.com/articles/investors-are-losing-patience-with-slow-pace-of-driverless-cars-11669576382?mod=hp_lista_pos2"
     type: article
     provider:
       name: Wall Street Journal
@@ -111,6 +110,6 @@ related:
         height: 500
         isCached: true
 
-secured: "Jz/DI1RfnfX6kwJRbVmmJbVyFeYrsi1JEEarWJ09JItlxGxirerE2bfDLxN7sXt61PKwqursPkezb/rKcILi03v1ohqWDw4Qnwa1efmI5B8bHkWK38n08gy2LxW9KGF7g+4whlbiEhRBu6JPJRtMnjgC/A3bwVIZB8tWXWhm1L2ubEE6Gco9T/wECJV8wf7dTNMZJ5Sb8pAuHfCl53v21Kg/wgYHPF0xW4YouakAR2dOKJvfcxW3Ne0GUVc6VYV7lvNiwJ8pZuhP2y+oFK9HLRaS0tF45b9JtBzqLP1fCWcsRo+TPD0GAlGvygyeRaZRko/UiTpSHn1gpmwMOBltWbv+FuJShinQtHHHDdmPYyY=;v53g8ZxRy1zhux909nrdRQ=="
+secured: "N2ycKhT7257YBk4AiaUucKYuzFnuyoplznJcaeCjnolz4Ah7HkCAbdf5zsPKST3d4niBcUbNMDjVAPhdQHkDWktmxI1fzaZq86WTQf+6ohttEqPemZvibt7AV3NTKXVXTBNypTyf0gjmF8EhuIAE+Qq121WTBnibMGx4nJPrvhL06fi2SkwCTXe5+3Pv7ez1aBjdhrzH6Rw8P8rCP2RUxpEg7IrCgubzUcXQl9k1FmxJMn0cVwD6eDUmqA2V5b3D6kg//2pW3J2+4TnGTzznPbAOFqLaE3u+Yb4zYSLrkzR2xQUY0xsW5hc9NA3pVcAkZpqGxb3VpfQ9ov+DP3fa3/TWVgjfFd02AfuNlAW0Js4=;BpHCj+I68F5OcCUiNxAzWg=="
 ---
 
