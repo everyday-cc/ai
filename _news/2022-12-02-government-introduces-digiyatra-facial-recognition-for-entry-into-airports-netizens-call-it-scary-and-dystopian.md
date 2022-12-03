@@ -91,6 +91,22 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "DigiYatra Service Introduced at Airports for Entry via Facial Recognition"
+    excerpt: "India has introduced the new DigiYatra service at airports for paperless entry via facial recognition. Check out the details right here!"
+    publishedDateTime: 2022-12-02T07:25:00Z
+    webUrl: "https://beebom.com/digiyatra-service-introduced-india/"
+    ampWebUrl: "https://beebom.com/digiyatra-service-introduced-india/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/digiyatra-service-introduced-india/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 73
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2022/12/digiyatra-introduced.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Scindia debuts DigiYatra: Facial recognition launched at three airports today"
     excerpt: "A passenger must register their information on the DigiYatra app utilising Aadhaar-based validation and a self image capture in order to use the service. The boarding pass is then scanned, and the credentials are shared with the airport."
     publishedDateTime: 2022-12-01T11:11:00Z

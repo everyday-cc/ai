@@ -73,20 +73,6 @@ related:
         width: 788
         height: 443
         isCached: true
-  - title: "TCS Joins Hands with AWS to Help Enterprises Harness the Power of Quantum Computing"
-    excerpt: "Tata Consultancy Services (TCS) has launched the TCS Quantum Computing Lab on AWS to help enterprises explore, develop, and test business solutions and accelera"
-    publishedDateTime: 2022-11-28T16:26:00Z
-    webUrl: "https://technuter.com/channel-news/tcs-joins-hands-with-aws-to-help-enterprises-harness-the-power-of-quantum-computing.html"
-    type: article
-    provider:
-      name: technuter.com
-      domain: technuter.com
-    quality: 33
-    images:
-      - url: "https://technuter.com/wp-content/uploads/2020/03/Tech-Mahindra-327x205.jpg"
-        width: 327
-        height: 205
-        isCached: true
 
 secured: "w7EY/Pgnr2NF13ijkpwIiyt4RnKH1f3m9j+CYA1ntw1cimhfH31pGISpHEdHzGkBs85TbIrZKmlzluSHzBwQjszjZefTJ2giYQWK1ZZZwUBOP3AWoZBA03c9bcIxM21lCsdya0q1veo7MelADjxSpyP7cs6na/iQnopCof7yr3jJwePfCVsU8tQLMcWvs1I8HyPa4gNAOqyjJhppwHgk7YETXugJEnZPNqpbgP3zYqFm52eDarNIxj3iwl+nkzQZH1vYXxAqFuXj7i7PwRFA2aOdk/0yyOYwoMeC1LSQ6ts9dIhT/5Oem6fyr+J/eChGwUsqRH/DOTatDCx6jpyX47+jdjSdiwS/fYQaFoMGRNbdLF4zxC2OMXB+bDsbaVBSKO6oY2vGb9fXxIKRmBuVpCb95IgOZolNHie1Ptt7/frz4bV4/lBYjtDx+dW9MT81cNRnArzdM4EYqMZuTJiFxrVenhGQVMj5jH09pG4z0gX2GusISJokJSv1jW6oRa0uBBjzQ/k0O5v9qmxhilijJw==;+xQg95lrVnmJEM4GHAfxIg=="
 ---

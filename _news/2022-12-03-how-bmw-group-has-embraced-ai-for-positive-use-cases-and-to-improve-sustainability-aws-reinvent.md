@@ -84,20 +84,6 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 64
-  - title: "Teradata Showcases New World of Cloud Analytics at AWS re:Invent 2022"
-    excerpt: "Teradata today announced it is participating as a Diamond sponsor at AWS re:Invent 2022 hosted by Amazon Web Services (AWS),"
-    publishedDateTime: 2022-11-28T16:33:00Z
-    webUrl: "https://www.datanami.com/this-just-in/teradata-showcases-new-world-of-cloud-analytics-at-aws-reinvent-2022/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2021/02/teradata_logo-300x228.png"
-        width: 300
-        height: 228
-        isCached: true
   - title: "AWS Introduces a Flurry of New EC2 Instances at re:Invent"
     excerpt: "AWS has announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by AWS-designed chips, as well as several new Intel-powered"
     publishedDateTime: 2022-11-30T02:30:00Z
@@ -172,24 +158,6 @@ related:
       name: BizTech
       domain: biztechmagazine.com
     quality: 18
-  - title: "SolarWinds to Address Unlocking the Power of Observability at AWS re:Invent 2022"
-    excerpt: "As an AWS Partner Network Program (APN Program) member, SolarWinds will demonstrate how enterprises of all sizes can migrate or deploy workloads and build modern applications on AWS services faster and more securely by leveraging its AIOps-powered platform."
-    publishedDateTime: 2022-11-28T16:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-solarwinds-address-unlocking-power-observability-aws-reinvent-2022-/2022/11/28/9720151.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
-  - title: "Informatica Unveils New Innovations in Cloud Data Management Services at AWS re:Invent 2022"
-    excerpt: "Informatica supports various AWS products and services at the product level to bring best-of-breed cloud data management capabilities to hundreds of mutual customers including Freddie Mac. Informatica is announcing the following new capabilities at AWS re:Invent 2022 today: Informatica Data Loader is now embedded directly in the Amazon Redshift console,"
-    publishedDateTime: 2022-11-28T16:45:00Z
-    webUrl: "https://www.datanami.com/this-just-in/informatica-unveils-new-innovations-in-cloud-data-management-services-at-aws-reinvent-2022/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 9
   - title: "EOT Reveals Industrial IoT Asset Modeling and Visualization Solutions at AWS re:Invent 2022"
     excerpt: "With EOT Twin Sight ™ industrial users can now leverage the power of low-code artificial intelligence (AI)-driven software to modernize how asset information and data is visualized and drive the rapid creation of use-case-specific visual dashboards,"
     publishedDateTime: 2022-11-29T16:06:00Z

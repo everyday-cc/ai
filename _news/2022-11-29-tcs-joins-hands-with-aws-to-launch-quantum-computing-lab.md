@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/life/technology-tcs-joins-hands-wit
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-tcs-joins-hands-with-aws-to-launch-quantum-computing-lab-2895508/lite/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://vatortv.s3.amazonaws.com/images/videos/main/21910.jpg"
         width: 320
         height: 240
-        isCached: true
-  - title: "TCS Joins Hands with AWS to Help Enterprises Harness the Power of Quantum Computing"
-    excerpt: "Tata Consultancy Services (TCS) has launched the TCS Quantum Computing Lab on AWS to help enterprises explore, develop, and test business solutions and accelera"
-    publishedDateTime: 2022-11-28T16:26:00Z
-    webUrl: "https://technuter.com/channel-news/tcs-joins-hands-with-aws-to-help-enterprises-harness-the-power-of-quantum-computing.html"
-    type: article
-    provider:
-      name: technuter.com
-      domain: technuter.com
-    quality: 33
-    images:
-      - url: "https://technuter.com/wp-content/uploads/2020/03/Tech-Mahindra-327x205.jpg"
-        width: 327
-        height: 205
         isCached: true
 
 secured: "mLVwMRWMB3+uTCiUyLzgfPIsytshLgrIz51A0Fd4EY62J47iDZJsRoNmvOYQ2WL6PMEOeWY4V9noqCoz3+JFNgpsZ6iZsVwgQaa6ryY0Vddlg5wcpXtXjtC/gIhYs+OGnnHk12F2I+2N8FoZvqVOqA2X1iVPw46P9PGGf1yX4C/guaLjlJFTuUBKRf70C2GVK67s+1U3Qg+kZsyD0zBxVdVjmCWW1jpOH5KBBRY+gaH5aRvXbdtA5bhR7ojTgvvRxQ+Q7CQPeGlp8SGivVtBGS18dn5ALVpaSUqLxhiqcaMfLBF0ZhzTboWVk85Z9sPRcKzOGdD6U72eUN19cUVyf3Z44YO5c5NXTa7Vuuv6w7OomLQGe3OikAlu1jFLl/4EwE3xHu75uvZjckCoenQeQ/JPXGT1np63UKF4inIJp5YhZ4Nlhizh+hO0RDdBZifxzdI8udBr1+LitoT8n6BovC/N3WR/jTNNWVpsYiBPsXaDGZyQs2bgLMv5p7Aij/jUvlljZpwobajSFUnMXuuLZg==;6gTpCKdIQULHgad5i/xglw=="

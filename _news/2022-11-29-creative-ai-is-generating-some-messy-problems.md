@@ -27,33 +27,36 @@ images:
     isCached: true
 
 related:
-  - title: "How generative AI could create assets for the metaverse | Jensen Huang"
-    excerpt: "Jensen Huang, CEO of AI and graphics chip maker Nvidia, believes that generative AI will be transformational and it’s just getting started. One of its biggest applications could be with the metaverse, which has huge demands for content as developers need ..."
-    publishedDateTime: 2022-11-28T16:45:00Z
-    webUrl: "https://venturebeat.com/games/how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang/"
-    ampWebUrl: "https://venturebeat.com/games/how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang/amp/"
+  - title: "OpenAI’s ChatGPT shows why implementation is key with generative AI"
+    excerpt: "OpenAI released ChatGPT this week, and it's a great example of why user experience is the future for generative AI."
+    publishedDateTime: 2022-12-02T17:10:00Z
+    webUrl: "https://techcrunch.com/2022/12/02/openais-chatgpt-shows-why-implementation-is-key-with-generative-ai/"
+    ampWebUrl: "https://techcrunch.com/2022/12/02/openais-chatgpt-shows-why-implementation-is-key-with-generative-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/02/openais-chatgpt-shows-why-implementation-is-key-with-generative-ai/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: YAHOO!Finance
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/Jensen_GTC-keynote_Omniverse.png?w=1200&strip=all"
-        width: 1199
-        height: 582
+      - url: "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1367281424.jpg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Future of Metaverse in the healthcare sector"
-    excerpt: "including artificial intelligence, virtual reality, augmented reality, the internet of medical devices, robotics, quantum computing, etc., through which new approaches to delivering high-quality healthcare treatments and services can be investigated."
-    publishedDateTime: 2022-11-30T10:15:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/future-of-metaverse-in-the-healthcare-sector/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/future-of-metaverse-in-the-healthcare-sector/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/future-of-metaverse-in-the-healthcare-sector/"
+  - title: "OpenAI debuts new conversational AI system"
+    excerpt: "OpenAI LLC on Wednesday detailed ChatGPT, an artificial intelligence system that can understand and answer complex natural language questions. ChatGPT is based on the advanced GPT-3 neural network that OpenAI first debuted in 2020. GPT-3 can perform a ..."
+    publishedDateTime: 2022-12-01T20:40:00Z
+    webUrl: "https://siliconangle.com/2022/12/01/openai-debuts-new-conversational-ai-system/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 39
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/openai.png"
+        width: 859
+        height: 478
+        isCached: true
 
 secured: "K91AXu2ihE/5T0bBkBbiGJwIU1i+4KNd8t+0yV7czVGJOOLT7fjE7v8PnNKqvlww/Vbjqc4daPmG52FZqKmHYogO+pXN+BL5jwlPd6zQpa44a1nZQIqIgTTWYc1935NHFmwiO+mFg9bCFNPR907R+y6rRRkVANPO1aNqMt9NVoyylq42RyTJQZ1KLI9RY69VodTmM+teR7CmObJi4tC8Vul+htr59PCRLAFcjHOqiH30YgboKcf8nH1Ve4E2LSuPpme7K/MAGvKA+RKIQq58/u3yHfDOXoeDccV27mXg9LYN11VAM5oSZXMYbbrT3cyKTeU1pJlWgkQxiatcu04oT7FArqQhi4zCOCeCGc6DX3NycA4KYqwfDT+3uJT/QJbYY+Pkkzx0kLOAVMPmqJcaBZXXpxv6d4Wr1iVvvko0Cuo4Os3ciHJyQGaSw/ulv7bmGlfIYCGMxZ5MF8mFBTt8d3SMBllv+gr6NWbL01pWpTDMcYpnuwzToOIziQzmoB38oi2EbtBU1hMDq964S9GMGg==;Fsm+9ttlK5B1zIQtkECCig=="
 ---

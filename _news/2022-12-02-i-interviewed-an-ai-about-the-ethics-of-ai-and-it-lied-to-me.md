@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-an-ai-about-the-ethics-of-aiand-it-lied-to-me/amp/"
 type: article
 quality: 108
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -64,20 +64,6 @@ related:
       - url: "https://www.itweb.co.za/static/pictures/2022/12/Tian-Horn-IIN-2022-NEW-LATEST.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Ethics and Governance of AI"
-    excerpt: "There is a vast body of legal and technical literature focused on what fairness means in the context of algorithms and how fairness can be measured. This panel will explore the issues in dispute and focus on the challenges yet to be solved. It is a unique ..."
-    publishedDateTime: 2022-11-28T16:19:00Z
-    webUrl: "https://cyber.harvard.edu/events/ethics-and-governance-ai"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 54
-    images:
-      - url: "https://cyber.harvard.edu/sites/default/files/styles/image_large/public/2022-11/shutterstock_1382688467.jpg?h=7f8038c2&itok=4YIlxFOi"
-        width: 1000
-        height: 600
         isCached: true
   - title: "The Future of Artificial Intelligence"
     excerpt: "Ten years ago, Human Rights Watch united with other civil society groups to co-found the Stop Killer Robots campaign in response to emerging military technologies in which machines would replace human control in the use of armed force. There is now ..."

@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Mercedes, Bosch open world’s first self-driving valet"
-excerpt: "Another major milestone on the road to fully self-driving cars was reached this week with Mercedes-Benz and Bosch being granted regulatory approval for commercial use of a fully automated valet in"
-publishedDateTime: 2022-12-01T10:00:00Z
-originalUrl: "https://fox8.com/automotive/internet-brands/mercedes-bosch-open-worlds-first-self-driving-valet/"
-webUrl: "https://fox8.com/automotive/internet-brands/mercedes-bosch-open-worlds-first-self-driving-valet/"
-ampWebUrl: "https://fox8.com/automotive/internet-brands/mercedes-bosch-open-worlds-first-self-driving-valet/amp/"
-cdnAmpWebUrl: "https://fox8-com.cdn.ampproject.org/c/s/fox8.com/automotive/internet-brands/mercedes-bosch-open-worlds-first-self-driving-valet/amp/"
+title: "Mercedes, Bosch open world's first self-driving valet"
+excerpt: "Mercedes-Benz and Bosch will initially operate their automated valet in the parking garage of Stuttgart Airport."
+publishedDateTime: 2022-12-01T11:00:00Z
+originalUrl: "https://www.motorauthority.com/news/1124163_mercedes-bosch-open-world-s-first-self-driving-valet"
+webUrl: "https://www.motorauthority.com/news/1124163_mercedes-bosch-open-world-s-first-self-driving-valet"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: -1
 published: false
 
 provider:
-  name: FOX8 Cleveland
-  domain: fox8.com
+  name: Motor Authority
+  domain: motorauthority.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://fox8.com/wp-content/uploads/sites/12/2022/12/mercedes-benz-and-bosch-automated-valet-parking-at-stuttgart-airport_100867370_m.jpg?w=1280"
-    width: 640
-    height: 360
+  - url: "https://images.hgmsites.net/hug/mercedes-benz-and-bosch-automated-valet-parking-at-stuttgart-airport_100867370_h.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -53,6 +51,6 @@ related:
       domain: carscoops.com
     quality: 4
 
-secured: "T17vAbaUTrjGO7clEuxjIVnIQjmbbcJSybCkZk/eZYsa4gD3ymNSt+bcls8uVDHtW8kNSjTNvvJhc3jQIqvCcD9e6GNmWBTvVWpqLr1omIcsytg4iAlmNpS7KFBcPbQhN8KFF2vzuOHVWMaW1elIrnKoE+8NKmwzWJ52a2YAeg5Sg3bUAXc+FVjcLKA92nwKSaiLMiFyt84B9e4Ba8Y3YRnL5QZgxKAuuyUPTyUy8Wnb2/yvdbFKqr8e6bj94+Jzqedd28L8xRkl30p+biooJJjF7WPFzrOxdsQoKD4UxWiitDKPZH/+6xd1fyX6D81vDflUEOCf6oBUaUnC6ZQF3Zh8sU8ILdvSM4cdocgzBUE=;WdsjMnCrZUFQnfcypYxwlQ=="
+secured: "WFN369u4/vI7QUPswfF/8JzaRia8pSuYFB+0fZHDcgFme+O/PwILGU34OpP/adN1U8rA0oK60FknJ+3HCgicUPR9yjcee90zP0weNJBykRPUAv9wDITU1+4dSovbJRZzkcCSiPI2PrioOsDzz6Tzon+/B4+SqL/iFypwbfbww287/FPnSQQ32135HTGEGGxPChIxH2fKEB/oD8SLfc9zAKLKPvztWa5cwFVdkeCyrDyqLCXSG5ClWc7goHTuN/rktDobdeAEa8WMFpeQOvqYyYrqUcFGDR8yDmTAUSSkZCuwjZl8d5QEDCnsLQ8f7gMIYH7Qy6a0tGZ48s+AcP9n6DBdi4pfGhPVLG3rkWScIVA=;veBwpEBnJRxKnFCZfsfeHw=="
 ---
 

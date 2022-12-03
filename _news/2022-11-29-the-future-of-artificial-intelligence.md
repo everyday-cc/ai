@@ -75,20 +75,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Ethics and Governance of AI"
-    excerpt: "There is a vast body of legal and technical literature focused on what fairness means in the context of algorithms and how fairness can be measured. This panel will explore the issues in dispute and focus on the challenges yet to be solved. It is a unique ..."
-    publishedDateTime: 2022-11-28T16:19:00Z
-    webUrl: "https://cyber.harvard.edu/events/ethics-and-governance-ai"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 54
-    images:
-      - url: "https://cyber.harvard.edu/sites/default/files/styles/image_large/public/2022-11/shutterstock_1382688467.jpg?h=7f8038c2&itok=4YIlxFOi"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "FR3D4l3h3q7bfCcR0D0pL21DKmX5nL2TtY5uwBGq8mz5kQFjZZW1HIP4N7jjWcz61T6/GRqXgHuS1LbLFXo8GinJbYsm86F14XsnZ30vgz8DZrdAd/oqBkpXwnnNuVWanRwlrmPCZiR4WK+jetSc7awuaPoYMGdjXGkuXUDLd4cNDHPSYYMX4PoSiX+ixqFEuDcomPeEeRCdv4MymED0fKZZYAFb2CN/dfDoO6iTy8EDFyEtGuhGxhpNAcRho8SvS99wkG64cC1+JR1ttBLd0tAT7i+aXAuBiGpDNMXPDeT/VCIqwNvmQE/nru9yUADutVCPgJZzkc/easOdvp8ycLCUiKwgg6N0p/t0/H5cE77HnClFsSdTleBxfC1p1Lbcdqi1Yv/wlH7E709366A4CXuu+YSfc0/ABOTCeElBpqP0x4R+AWjoQjx23F7T8MIZ8+f2+DWbTvrvJuYfFUVPjKr+hh2Qmg49cE5xwDfsfnEUWcjzCVlYB0Bj7U/8cqBx4XdrG4hyJOGlGYHgwwhnfg==;oc71J+UYPS/hFD1GUveXww=="
 ---

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "AWS Announces Eight New Amazon SageMaker Capabilities"
-excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced eight new capabilities for Amazon SageMaker, its end-to-end machine learning (ML) service. Developers,"
-publishedDateTime: 2022-11-30T18:16:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-eight-new-amazon-sagemaker-capabilities/article_fe16b955-2c7f-5b55-b556-bd4a4f9351ea.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-eight-new-amazon-sagemaker-capabilities/article_fe16b955-2c7f-5b55-b556-bd4a4f9351ea.html"
+excerpt: "Amazon SageMaker Studio Notebook gives practitioners a fully managed notebook experience, from data exploration to deployment. As teams grow in size and"
+publishedDateTime: 2022-11-30T21:33:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/11/30/9722319.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/11/30/9722319.htm"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg"
-    width: 350
-    height: 455
-    isCached: true
 
 related:
   - title: "AWS updates its machine learning service SageMaker"
@@ -310,6 +304,6 @@ related:
       domain: datanami.com
     quality: 19
 
-secured: "xK9jSnVQg8v9RWpQjHjaAoEvOQTAkMhxdCatrWZ88QOVKe5bEP3sMKkbQ7VZOzVNanhTwcT4RRReWmjFfXmObyzedYW5EzNypm12xdl11N6IzVejONhcKDrEmbgHuVfS6xaNQrJu14P8CemkVTyJSdOzqhNEREqjyAR6LRrvjku10Rz33veTRwzxWYpk2kwAAll5zKv1EIj/ZqA/A06GXONG7h+QBWPbykjI5r4l6ljsJn+nzBMuHAd/z7tucrkhVsO+Mzxo+CUMCwIQMcgF7WP2z9ZjueQXaGhRrHhUEkpSajqHVKGvcr0DT87Bp4Eh6wWXWeiXKURJYoJauQkCyPmXs0k7ETTCyPVvldLp54Q=;x1kcxYT2RoXp7P++chjazA=="
+secured: "DSfAyGGDntuLqUEPVXNDYHkUgpA3C/WZEvZkUTPPw5GNdEHVV/U17oq6GpbNGCbblWKSm3zyaXx8SltCV0xjZQ9aUZAc1dI9n/sktVv7N6fmfmcYbLiF6cVvr+I/WQ/3YF1TMtMfRPzGdEV4zyK7P87NL9VPc9GIbU+afJDFFbkffPaL1IhtRmSGw6FginECQaPDGtfspTRrcDEE02nf9faSGc1tea3XUyufXymeEgW7x7KZERV7gTYzk6nYRtGIKGIJ3QwOqiCg5iap8cypGTk5TeZqrRifn7dBAsyyHIieCZMeSZioh5fVPfYksVZPYqoWT7G/K6dViPIopfy4C7PG9KCzt0wJO8HITeFwnSw=;sCaeE2aTMWc82U/71hvT8g=="
 ---
 

@@ -248,20 +248,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "AWS Announces Eight New Amazon SageMaker Capabilities"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced eight new capabilities for Amazon SageMaker, its end-to-end machine learning (ML) service. Developers,"
-    publishedDateTime: 2022-11-30T18:16:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-eight-new-amazon-sagemaker-capabilities/article_fe16b955-2c7f-5b55-b556-bd4a4f9351ea.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 54
-    images:
-      - url: "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg"
-        width: 350
-        height: 455
-        isCached: true
   - title: "SageMaker Bolstered with Better Controls, AI Governance"
     excerpt: "AWS yesterday unveiled a host of enhancements for Amazon SageMaker, its end-to-end machine learning offering. Among the most prominent capabilities are a collection of new governance tools aimed at keeping ML projects on the straight and narrow ..."
     publishedDateTime: 2022-12-01T23:54:00Z
@@ -276,6 +262,15 @@ related:
         width: 1000
         height: 444
         isCached: true
+  - title: "AWS Announces Eight New Amazon SageMaker Capabilities"
+    excerpt: "Amazon SageMaker Studio Notebook gives practitioners a fully managed notebook experience, from data exploration to deployment. As teams grow in size and"
+    publishedDateTime: 2022-11-30T21:33:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/11/30/9722319.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
   - title: "Domo Joins the Amazon SageMaker Ready Program"
     excerpt: "Domo (Nasdaq: DOMO) announced it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner software solutions that are validated by Amazon Web Services (AWS) Partner Solutions Architects to integrate with Amazon SageMaker."
     publishedDateTime: 2022-12-01T14:28:00Z

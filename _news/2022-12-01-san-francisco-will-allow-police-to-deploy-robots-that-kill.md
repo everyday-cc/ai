@@ -3,18 +3,18 @@ category: news
 title: "San Francisco will allow police to deploy robots that kill"
 excerpt: "The Democratic San Francisco Board of Supervisors voted to allow police to use potentially lethal, remote-controlled robots in emergency situations."
 publishedDateTime: 2022-11-30T17:05:00Z
-originalUrl: "https://www.wgal.com/article/san-francisco-will-allow-police-to-deploy-robots-that-kill/42103590"
-webUrl: "https://www.wgal.com/article/san-francisco-will-allow-police-to-deploy-robots-that-kill/42103590"
-ampWebUrl: "https://www.wgal.com/amp/article/san-francisco-will-allow-police-to-deploy-robots-that-kill/42103590"
-cdnAmpWebUrl: "https://www-wgal-com.cdn.ampproject.org/c/s/www.wgal.com/amp/article/san-francisco-will-allow-police-to-deploy-robots-that-kill/42103590"
+originalUrl: "https://www.kcci.com/article/san-francisco-will-allow-police-to-deploy-robots-that-kill/42103590"
+webUrl: "https://www.kcci.com/article/san-francisco-will-allow-police-to-deploy-robots-that-kill/42103590"
+ampWebUrl: "https://www.kcci.com/amp/article/san-francisco-will-allow-police-to-deploy-robots-that-kill/42103590"
+cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/san-francisco-will-allow-police-to-deploy-robots-that-kill/42103590"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WGAL
-  domain: wgal.com
+  name: KCCI Des Moines
+  domain: kcci.com
 
 topics:
   - AI in Robotics
@@ -182,6 +182,6 @@ related:
       domain: fastcompany.com
     quality: 19
 
-secured: "nnD0HuN+yfp9RCy4ElEyUF2s2HIRSlj3k/MEWvhDc0GupawcNJrDZc7rIifI81eH1wtKWjMOKoT47ZdSYrNBzANtH199JYKoGWCLldhqR1DX95SjMuNj6ajnh/KQzkbmstly3nId7HftDVCRpo7JyqTZRPPPqkz9x8VA9S0EakLWGZbqQ+ea4YNnwOaH7W2tuDhXeelzsspEVb9nmWyFminNLh+JB6WzoYmBSHpceAW5oJHOMeJLMwbLAau4EuOnnH/AVidCThrpw9DnMNCmKhsZa7oxfRI0qGYbTOlzMkeSvWweoDJGI44N6uAL/MSN5kH44LlKYuyhei3qOeLkBSOa66nSBgJrrkOVOb2/HDo/Tk82Lz1Mn7JIIcfziDX584w0rL+UeJbzsAsJkYTr0yHWLZZkKSnNZxvG1jWRH3iBbgnQXPsL69MOkKGWOWzpJmjKQq8igZ75z4r8sG8sa55o4KSps2Rhuuf8EeMDRtXCALxZd1uNb1pfTbla6M8IoMfP2If/cdVcvd6Mn66Yhw==;MAthLRWVBc/4ZblLrHjBfg=="
+secured: "y4M66vnjFU/5J1JLP5xbxnmArDYpeKTIpw8YAJdK+T3XPZmmc/YlYtllmhRsdK6VDwT5VGxM7Nw/tZ3qN8+QlLOpwkDhNb1+RDjBD9wsiVgB0ljRWmz077CBHBrqOlX2EK6crHqDl/NCCDiiwopRxNXn9d3n7LtUX0tZvTolzpAeufYwgoCm1HEroh2ea7cgtvCfKnlbfn4IKTGdXWhnc+P2/X8Pbi13s6u2TOrAlJaHiNWHEBCKLWjkQhneBcBXprFkl56621inxXS+tMYTElZ/BiSc5FOR5l4GigACQOLvGdHKhIkwz6blF0ouOJXxbi2aTrIrZjCZ3zaRQWP1kx5Sl3QZ7h8kb/IHP47mueU=;WXvfiSYxQRXgyzx3C5X4RQ=="
 ---
 

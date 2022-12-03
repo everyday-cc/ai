@@ -2,26 +2,28 @@
 category: news
 title: "Baidu Announces Plan to Build the World's Largest Fully Driverless Ride-Hailing Service Area in 2023"
 excerpt: "Baidu plans to establish the world's largest fully driverless ride-hailing service ... Closed-loop data system to further enhance the intelligence of autonomous driving With autonomous vehicles ..."
-publishedDateTime: 2022-11-29T06:31:00Z
-originalUrl: "https://www.ksn.com/business/press-releases/cision/20221129CN49158/baidu-announces-plan-to-build-the-worlds-largest-fully-driverless-ride-hailing-service-area-in-2023/"
-webUrl: "https://www.ksn.com/business/press-releases/cision/20221129CN49158/baidu-announces-plan-to-build-the-worlds-largest-fully-driverless-ride-hailing-service-area-in-2023/"
+publishedDateTime: 2022-11-29T06:20:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29881903/baidu-announces-plan-to-build-the-worlds-largest-fully-driverless-ride-hailing-service-area-in-202"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/n29881903/baidu-announces-plan-to-build-the-worlds-largest-fully-driverless-ride-hailing-service-area-in-202"
+ampWebUrl: "https://www.benzinga.com/amp/content/29881903"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29881903"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: ksn.com
-  domain: ksn.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://i0.wp.com/www.ksn.com/wp-content/uploads/sites/13/2022/12/vlcsnap-2022-12-02-22h03m47s629.png?w=2000&#038;ssl=1"
-    width: 1920
-    height: 1080
+  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
+    width: 800
+    height: 313
     isCached: true
 
 related:
@@ -98,6 +100,6 @@ related:
         height: 500
         isCached: true
 
-secured: "xGzeyQEN+M9oR4fJeiUuAkDCdlKfBqdKB2EiDbWTqFLpGUlpNFSUtuWw6f+I80lYPVYsKd/ko3Rm0Rqhyziwq8DhYiTSKwl3mg01EjC/BY3PCgBGumS86xAceSd9H22lz6VWmIsNTOvJLwlB6vVTI/iGTBSxogplTnIPS77B+24cjSJk4OqmKg7u5U0SABR2By1GXCo+20/ZgfX373QWkU2ehuw9dtWNbk3JmOurKF5DCDSO0EFT1VCQYaZNtFptJ8XGSPTPnRwu6dkyAFkkShcLGbBVfrJQ9xhU8dOFbFvSAlMtaReXw4+4aCkTXMcqkmQakOMYOYttvg/u+c1AejnxtdUzBuj/typaDHQ867Q=;DgyK1mf4KWIY7AB5M1AJTQ=="
+secured: "5kyMLVngNlgWiOPoY+yt8xCGKsOXYRhATW9TuoJqR+w12ooNtgzUkDK9EDYtIcBi+mh9gkdPYnESBXHwT8CpVYtSGmjM6prk0gVuaBqLjofLux6bxAqer0PzdsnAV2LLyXOm9BTa0fTJtURyy3l1LCIMGpAEd9vv8yF7byLVtRDcBCtDPOF0YjxiTbfwJAGwA7MUZjYGnEiGJNKbTar9igQcmkIJs15garVadHm+5hYKYffJK6xNfXKqYetuJ0JjRxTNRxdZMty0MUZOYWkoxVf2v+WyzJouKcGwHkNpaCNi4MZ80xfKCCu/Mv1zu0yjdbDKz3TDcdR7UbbYiEBquGmRuXpGQuYRvg8aWJjzRM0=;eWeLbm4egyPxhusbZp9PDw=="
 ---
 
