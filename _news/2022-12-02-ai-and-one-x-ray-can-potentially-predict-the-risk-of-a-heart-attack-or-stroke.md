@@ -40,22 +40,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "AI predicts heart disease risk using single X-ray"
-    excerpt: "Researchers have developed a deep learning model that uses a single chest X-ray to predict the 10-year risk of death from a heart attack or stroke stemming from atherosclerotic cardiovascular disease."
-    publishedDateTime: 2022-11-29T10:00:00Z
-    webUrl: "https://medicalxpress.com/news/2022-11-ai-heart-disease-x-ray.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-11-ai-heart-disease-x-ray.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-ai-heart-disease-x-ray.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/ai-predicts-heart-dise.jpg"
-        width: 784
-        height: 643
-        isCached: true
   - title: "Deep Learning Predicts Heart Disease, Stroke Death Risk Using Single X-ray"
     excerpt: "Researchers have developed a deep-learning model that uses a single chest X-ray to predict the 10-year risk of death from a heart attack or stroke."
     publishedDateTime: 2022-11-30T17:01:00Z
@@ -99,22 +83,6 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/Anatomy_of_Human_Heart.-Liya_Graphics_5ac9d64765b747899bc4a9ef77468432-620x480.jpg"
         width: 620
         height: 480
-        isCached: true
-  - title: "Risk of heart disease can be predicted with simple eye test through artificial intelligence algorithm, research finds"
-    excerpt: "Artificial intelligence-enabled eye scans could be used to rapidly and accurately predict whether a person is at high risk of heart disease, a new study involving researchers from London's Kingston University has established. The findings could pave the ..."
-    publishedDateTime: 2022-11-29T09:20:00Z
-    webUrl: "https://medicalxpress.com/news/2022-11-heart-disease-simple-eye-artificial.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-11-heart-disease-simple-eye-artificial.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-heart-disease-simple-eye-artificial.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 34
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/eye-1.jpg"
-        width: 2880
-        height: 2160
         isCached: true
   - title: "Early research suggests promising use of AI to predict risk of heart attack or stroke using a single chest X-ray"
     excerpt: "Early research suggests a promising use of artificial intelligence to predict the 10-year risk of death from a heart attack or stroke from a single chest X-ray."

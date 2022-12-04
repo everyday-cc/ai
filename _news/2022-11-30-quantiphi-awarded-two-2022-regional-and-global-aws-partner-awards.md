@@ -20,9 +20,9 @@ topics:
 
 related:
   - title: "Quantiphi Awarded Two 2022 Regional and Global AWS Partner Awards"
-    excerpt: "Quantiphi, an artificial intelligence (AI)-first digital engineering company and AWS Premier Tier Services Partner in the Amazon Web Services (AWS) Partner Network (APN), is excited to announce it is a recipient of two 2022 Regional and Global AWS Partner Awards,"
-    publishedDateTime: 2022-11-29T12:51:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/29/9720600.htm"
+    excerpt: "Invent 2022, the Regional and Global AWS Partner Awards recognize a wide range of AWS Partners whose business models have embraced specialization, innovation, and cooperation over the past year. Regional and Global Partner Awards recognize partners whose business models continue to evolve and thrive on AWS as they work with customers."
+    publishedDateTime: 2022-11-29T13:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-quantiphi-awarded-two-2022-regional-global-aws-partner-/2022/11/29/9720600.htm"
     type: article
     provider:
       name: TMCnet

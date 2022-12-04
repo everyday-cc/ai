@@ -7,7 +7,7 @@ originalUrl: "https://www.theatlantic.com/newsletters/archive/2022/12/why-the-ri
 webUrl: "https://www.theatlantic.com/newsletters/archive/2022/12/why-the-rise-of-ai-is-the-most-important-story-of-the-year/672308/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "VCs give their unfiltered thoughts on 28 AI and big-data startups that had investors buzzing this year"
-    excerpt: "The AI and data field has become one of the loudest and most crowded in tech, with firms like Midjourney, Jasper, and Tecton competing in niche areas."
-    publishedDateTime: 2022-11-29T10:00:00Z
-    webUrl: "https://www.businessinsider.com/vcs-share-unfiltered-thoughts-top-ai-data-startups-snowflake-databricks-2022-9"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
-    images:
-      - url: "https://i.insider.com/6360338a0b271e00186bbc5e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "The Time to Create New Models for Teaching AI is Now"
     excerpt: "Innovation Director in the Surrey Institute for People-Centred AI shares the academic perspective of the HPC and AI skills gap in the UK, as part of techUK's #FutureofCompute Week 2022"
     publishedDateTime: 2022-11-30T08:43:00Z

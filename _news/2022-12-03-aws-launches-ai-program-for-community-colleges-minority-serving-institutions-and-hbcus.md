@@ -47,20 +47,6 @@ related:
         width: 444
         height: 250
         isCached: true
-  - title: "ADGM’s Financial Services Regulatory Authority launches its AI initiative on Open Regulation"
-    excerpt: "The Initiative will tap the innovation community in the co-creation of AI models and applications to achieve better regulatory outcomes"
-    publishedDateTime: 2022-11-29T09:46:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/adgms-financial-services-regulatory-authority-launches-its-ai-initiative-on-open-regulation-e0j92dgj"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 28
-    images:
-      - url: "https://static.zawya.com/version/c:YzgyNGFjMmItMmQ4OS00:YTA4YTAy/abudhabiconstruction-jpg.jpg?f=1%3A1&q=0.75&w=3840"
-        width: 406
-        height: 405
-        isCached: true
 
 secured: "fkYKo1glwwRYNningKiIDexpfaKtY2lBAdW4dTP4z5I8f8YnV+gDubjIH05lDv6sfaag1zxS7e1vt37awKb9/AkDhGoey82PX2vszCt6rLiochoTow+cRLhbN8kH6DodVADCmfPbZ8YwfD8VXkE6wlTZ6fPhTtq/vROhnwdm7psayE1JjykOzgfvv4mebU7VgL+EUy69efFGqlM/uQS+XSZ6VnwSVRtADvquBQ7eVAS5lT1DUaWuHXOHiwYQ4xKTPeglgHTn148eHhHCstM7ke7Iwn15mvV68tB5LYhu+xv1Rdr74fiYciatr4ibBRqqQbKfYggNdYs/nv26mc8AihXHle8fp+OMSByiH4sLzbHQuN7VCbUzS9xSF98pDMmLcGfuyiLgIQ2hYEwqOcf0EBfPMQ66CkLRuUEq8EdWrLhI9Vd9wMNdL4s4f3f5gOmtoUWyElPYgzORmWhNlrfjJUZt1DCGHWNcd/LKceQwHynz9FCAGKntm1QfVag/54Ae9kMmZUNiOODY1sNoQ/nVpQ==;waIrR5s5p6bVpV1cpJHRgg=="
 ---

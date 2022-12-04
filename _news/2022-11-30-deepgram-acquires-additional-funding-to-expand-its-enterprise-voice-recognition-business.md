@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 654
         isCached: true
-  - title: "Adding sentiment analysis to natural language understanding, Deepgram brings in $47M"
-    excerpt: "Deepgram is taking a somewhat nuanced approach to building natural language processing capabilities with its own foundation model that can execute transcription functions as well as summation and sentiment analysis from audio."
-    publishedDateTime: 2022-11-29T11:00:00Z
-    webUrl: "https://venturebeat.com/ai/adding-sentiment-analysis-to-natural-language-understanding-deepgram-brings-in-47m-%EF%BF%BC/"
-    ampWebUrl: "https://venturebeat.com/ai/adding-sentiment-analysis-to-natural-language-understanding-deepgram-brings-in-47m-%EF%BF%BC/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/adding-sentiment-analysis-to-natural-language-understanding-deepgram-brings-in-47m-%EF%BF%BC/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/04/convo_AI.jpg?fit=800%2C547&strip=all"
-        width: 800
-        height: 547
-        isCached: true
   - title: "Transcription-as-a-service startup Deepgram lands $47M in funding"
     excerpt: "Stephenson said Deepgram will use the funding to invest in research and engineering “to address today’s most difficult speech understanding challenges, including emotion detection, intent recognition,"
     publishedDateTime: 2022-11-29T14:54:00Z

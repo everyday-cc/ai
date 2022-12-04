@@ -1,22 +1,28 @@
 ---
 category: news
 title: "BAE Systems adds Microsoft to modeling and simulation ecosystem"
-excerpt: "View the full release here:  \"Microsoft Azure is widely regarded as a prominent provider of cloud computing services for government,\" said Peder Jungck, vice president and general manager of BAE Systems Intelligence Solutions."
-publishedDateTime: 2022-11-29T14:28:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/11/29/9721027.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/11/29/9721027.htm"
+excerpt: "BAE Systems is expanding the network of companies in its modeling and simulations ecosystem to include Microsoft. With this addition,  This press release features multimedia. View the full release here:   (Credit: BAE Systems) “Microsoft Azure is widely regarded as a prominent provider of cloud computing services for government,"
+publishedDateTime: 2022-11-29T13:02:00Z
+originalUrl: "https://www.eagletribune.com/region/bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem/article_c1e18486-c7be-57b4-b03f-b424216acd00.html"
+webUrl: "https://www.eagletribune.com/region/bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem/article_c1e18486-c7be-57b4-b03f-b424216acd00.html"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/1/ec/1ec4b2ba-c377-559f-8217-102383a4e62a/638614c570c73.image.jpg?crop=633%2C332%2C0%2C403&resize=633%2C332&order=crop%2Cresize"
+    width: 633
+    height: 332
+    isCached: true
 
 related:
   - title: "N-iX obtains the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
@@ -99,6 +105,6 @@ related:
         height: 400
         isCached: true
 
-secured: "VYMVBa18KTnbI4M+TOkYrRdDlRmJvo6rCQ/qBA860VkDGQFrpK7B98AXBaFsh0KX8Fjd9Xzm8eC4Z2usJoq9gh6+D+wFo7+Up4cCHcEmKAzPcSkHkXSyZ+uTERKJEufElB5rkV5puFhFZZeiD54yjOSSEexXgxL+J0VkMZ1yiBeBGRaGt6Zq9gEuARhVUPuV86BtgM5uZnUd4LPizxCKtmXrIVr0Cu+v1XaLWaT2YngvNc1L3/W9O25NrFWgP6QjSmGj6k+IqocNVvNqYeHqLbJ7MqqbkEml8jSrhWhMyiHrAb43QdrxexutK2tyQj83wwycub3oRLUPsWmBR7FL0Un+NThm00mwqIAqbyUbQHA=;nEnB/xl2ppoxr2eU+NYb6w=="
+secured: "m66vB4wfc3Jkp1UQNmCm5TEdBT1HAYSm3V/f8F+k1H2iAFuBsNDSeabnoeF2RIBEdv4PPQwvuLQGWB8kBGRJp4/Fodl9FpPTltwnJfkq4fe+fpxU/cXNgPnQxI+spKaGqf8X0X0Xq+1zuo0LtGWopW6dKkKjVdGdzMi3fKrQAdzLegapXpgjy9+lNBaf2Qzw7aJ8ZKkmRKwAF/29LRDDAaN9MCGt/mg6RaHT7tmd1gY9+KImXtdOGBTh1wT6qRM6sIu2oPrhNsIZs58amtnqxGXZWVxW1SxsbFB9bEAsfI2MGpmq8VJHFIkrgVJaA9EeD+78Es1sEKFeA39xC/HwbWmoGA7DozitDtZi6bjB9ng=;aaYtgUrnJYP4mTV00XsrOA=="
 ---
 
