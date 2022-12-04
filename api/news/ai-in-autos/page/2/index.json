@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-26-tech-turmoil-complicates-canadas-policing-of-the-online-world.md",
+      "title": "Tech Turmoil Complicates Canada’s Policing of the Online World",
+      "excerpt": "The government has four bills before Parliament to reign in tech giants at a time when the industry is retrenching.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/11/26/world/canada/tech-turmoil-complicates-canadas-policing-of-the-online-world.html",
+      "originalUrl": "https://www.nytimes.com/2022/11/26/world/canada/tech-turmoil-complicates-canadas-policing-of-the-online-world.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/11/25/us/25CANADA-LETTER-GOOGLE/25CANADA-LETTER-GOOGLE-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/11/26/world/canada/tech-turmoil-complicates-canadas-policing-of-the-online-world.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/11/26/world/canada/tech-turmoil-complicates-canadas-policing-of-the-online-world.amp.html",
+      "publishedDateTime": "2022-11-26T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-26-loab-is-showing-us-the-unimaginable-future-of-artificial-intelligence.md",
       "title": "Loab is showing us the unimaginable future of artificial intelligence",
       "excerpt": "Loab was created entirely by artificial intelligence. Loab(Supplied: Supercomposite) An AI-generated character might not sound so remarkable in an era of deepfakes and all manner of digital alchemy.",
@@ -1335,49 +1387,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-19-mi-report-michigan-must-boost-investments-grow-workforce-to-lead-in-mobility.md",
-      "title": "MI: Report: Michigan must boost investments, grow workforce to lead in mobility",
-      "excerpt": "Michigan must support new ways to expand its mobility workforce, invest in rapid transit and put in place a state-level consumer incentive for electric vehicles to bolster its position as a transportation leader.",
-      "sourceUrl": null,
-      "webUrl": "https://www.masstransitmag.com/management/news/21287658/mi-report-michigan-must-boost-investments-grow-workforce-to-lead-in-mobility",
-      "originalUrl": "https://www.masstransitmag.com/management/news/21287658/mi-report-michigan-must-boost-investments-grow-workforce-to-lead-in-mobility",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.masstransitmag.com/files/base/cygnus/mass/image/static/logo/site_logo.png?auto=format,compress&fit=fill&fill=solid&fill-color=000000&w=1200&h=627",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-18T08:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mass Transit",
-        "domain": "masstransitmag.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

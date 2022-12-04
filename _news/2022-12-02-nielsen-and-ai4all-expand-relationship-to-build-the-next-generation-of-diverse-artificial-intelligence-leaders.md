@@ -55,20 +55,6 @@ related:
         width: 740
         height: 450
         isCached: true
-  - title: "Are We Ready for the Robot Revolution?"
-    excerpt: "I’m not sure what she’s been watching, but she says she wants a humanoid robot that can help her around the house and accompany her when she goes shopping. When I foolishly enquired further, Gina informed me that,"
-    publishedDateTime: 2022-11-30T06:54:00Z
-    webUrl: "https://www.designnews.com/robotics/are-we-ready-robot-revolution"
-    type: article
-    provider:
-      name: Design News
-      domain: designnews.com
-    quality: 39
-    images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/max-0036-featured-image-halodi-robots.jpg"
-        width: 770
-        height: 400
-        isCached: true
 
 secured: "ExC4Tds6Q9BFVE3/dNtauM13+UBKF1Ag/raYfM5jW36mwCGFWor7YAvO/xh/098qLAGUzqQO1XaK4/46YzAB/KZb0vGx2u2gIl7ezZuz0xb8BX+yruRYf6xMmDbcLr85tgyBwtlwOkWvG6WPYM/zJHNfcM1GiuHxWdpcPKe8xGIv09rraJkTjrQOZU0Oj/QIgnn/MmbQrfsrSL/TYWKlMjqhxnScT0kmyfJr1BVu9jHZRouAOCR9qjtjf3g/lm7z6kHWTGWl7LbtHlXlqNNas57tamHmRhi2RYPvpA7fEKEOIWwvZ8lcrX22GGDQdgH8CEU1ux2ESt7Ly33gl5LgHrTUKSt+a0DNfvA0ralkanA=;HXZJ6VPF88rkpLHQ1UkkTg=="
 ---

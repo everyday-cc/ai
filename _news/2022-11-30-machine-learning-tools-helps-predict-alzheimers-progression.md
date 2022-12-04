@@ -129,6 +129,15 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "Alzheimer’s drug lecanemab has ‘moderate’ effect on cognitive decline, new trial data show"
+    excerpt: "The phase 3 results, published Tuesday, showed a 27% slower rate of cognitive decline in recipients ... for the Centers for Medicare & Medicaid Services, and the Alzheimer’s Association called ..."
+    publishedDateTime: 2022-12-01T01:03:00Z
+    webUrl: "https://www.mcknights.com/news/clinical-news/alzheimers-drug-lecanemab-has-moderate-effect-on-cognitive-decline-new-trial-data-show/"
+    type: article
+    provider:
+      name: McKnight's Long-Term Care News
+      domain: mcknights.com
+    quality: 0
 
 secured: "qPC9ihYDaREjYdYa3zzdOmpF2kVMupxNSRYeFpHpIEQXuGbl4N+sJyQr5SKniFAKGqOoRzqyuKk+CNle51AmczmJQNKN7fVMmAlw7oVp9+fl6aUkUy+u6lf4tMipcGuBiYrvBGo2eqenlF4j07cj43c69vrvblTI80d+0msoXxZlkR0lzm1oHVLqj1EJ5zkSrWmTCQAUOTgLrHWDWL/dpx/3FFJOEVcIkCHJ7/qr9vKK2OVKWNWHi1T9juWbZ2El2E2MjT2UYgnawwu4f3uP8+0CnhzEEL4FfzKFh6+p/LF41D5CMQaDZzA9CdJqcqi7Ixh/+UOHqfekO1H1n6zjC2Bnc7K0UOFJmWJfFvDb5kI=;/uSKaUgaow8pfk1zCb9hXA=="
 ---

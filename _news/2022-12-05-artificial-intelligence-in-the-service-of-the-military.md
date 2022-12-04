@@ -1,34 +1,28 @@
 ---
 category: news
-title: "The Pros And Cons Of Artificial Intelligence"
-excerpt: "Artificial intelligence, or AI, is everywhere right now. In truth, the fundamentals of AI and machine learning have been around for a long time. The first primitive form of AI was an automated checkers bot which was created by Cristopher Strachey from the University of Manchester, England, back in 1951."
-publishedDateTime: 2022-12-01T11:30:00Z
-originalUrl: "https://www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-artificial-intelligence/"
-webUrl: "https://www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-artificial-intelligence/"
-ampWebUrl: "https://www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-artificial-intelligence/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-artificial-intelligence/amp/"
+title: "Artificial intelligence in the service of the military"
+excerpt: "We are all familiar with the defense and security tasks of IDF camps and infrastructures performed by combat soldiers and military combat supporters. These missions are intended to enable the proper and safe existence of infrastructures,"
+publishedDateTime: 2022-12-04T22:51:00Z
+originalUrl: "https://www.jpost.com/opinion/article-724053"
+webUrl: "https://www.jpost.com/opinion/article-724053"
+ampWebUrl: "https://m.jpost.com/opinion/article-724053/amp"
+cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/opinion/article-724053/amp"
 type: article
-quality: 91
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Jerusalem Post Blogs
+  domain: jpost.com
 
 topics:
-  - AI in Healthcare
   - AI
-  - Machine Learning
 
 images:
-  - url: "https://imageio.forbes.com/specials-images/imageserve/63888b3455b4639a6a6703bb/0x0.jpg?format=jpg&width=1200"
-    width: 1200
-    height: 902
+  - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/518195"
+    width: 640
+    height: 428
     isCached: true
 
 related:
@@ -80,6 +74,22 @@ related:
         width: 1200
         height: 629
         isCached: true
+  - title: "The Pros And Cons Of Artificial Intelligence"
+    excerpt: "Artificial intelligence, or AI, is everywhere right now. In truth, the fundamentals of AI and machine learning have been around for a long time. The first primitive form of AI was an automated checkers bot which was created by Cristopher Strachey from the University of Manchester, England, back in 1951."
+    publishedDateTime: 2022-12-01T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63888b3455b4639a6a6703bb/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 902
+        isCached: true
   - title: "Building transparent ethics into artificial intelligence"
     excerpt: "AI models can be complex and have thousands of variables − each of which may introduce bias in imperceptible ways − so checks and balances are vital."
     publishedDateTime: 2022-12-01T07:22:00Z
@@ -96,23 +106,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial intelligence in the service of the military"
-    excerpt: "We are all familiar with the defense and security tasks of IDF camps and infrastructures performed by combat soldiers and military combat supporters. These missions are intended to enable the proper and safe existence of infrastructures,"
-    publishedDateTime: 2022-12-04T22:51:00Z
-    webUrl: "https://www.jpost.com/opinion/article-724053"
-    ampWebUrl: "https://m.jpost.com/opinion/article-724053/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/opinion/article-724053/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 57
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/518195"
-        width: 640
-        height: 428
-        isCached: true
 
-secured: "+Y6Eyu9K4IH6IjtNuQHraeOyF3dzfLFLGLQBYal1guzF5F6qEvSRLilLi5lbQ6iplVNgC+vV3K/ncldc7pi3oR+QVIokI+EAWJwhWZcInXhoBBn0QMDW1L7MDEF2bqXsg2FW88HcWEkr42QYRuFnTVXEkAk3CHw/+YRWNSX79AupyX4lY5ZVfwTU+8yjnQ0YsovLeOskReJ1r2dN7j12UmNQ97qjIQBrYXN8i8MS1hy3cN//1kD73ERmZA8RkcLnYVbuEg+oT6cKCUBrmlbdRnibzCik5mBunPrgHcAsKOF7Opqr7b8h4Hu0riG0w424fFbNIDLxY5uM8wk6b3RVb+jkm6TzVIi0HdQSfkkwACBK8S6MN7ddlhJNuU3CAUlJ+W+iLjREOemwl8jR0f71M0y0ZRy76tz53ibRhgn0BnQNzq3XZpFivGNIQWryqOB/oLlPw1906WSZ7fGnkKeJrHTeh05UzgWLPa1OUQLxigTePFJ8ZY6XI2mJKK6FY1713cox/1Vf0Ys53OCUuVGRCA==;owilv1lzLsBpt77JRB/Pvg=="
+secured: "GpDd+91h0u38DVv8sOvMYujDJzamLG80M4UaAwOgJ+Jpn+idC6dVIwkE37WBa8D7HKY8Meh+UR6te7mhbcEsD8QLIVq2cEtqQbdSd2k3fxiYaXqHwrYxqsAae2K/HNvaRXi86GMtR8ulOnVHTUzSZx/LbgN2f6BcJ+E6st9blQFzeHfIYWovgUAzpZ9nmyi1uIK/08yR20h5L2V/amrASoT9JbKCvz3H5hNa007KH+V0YJDpuvvzMKdRhVltwyTHe9qgRAWb0Fr798EmI2YN9CdnyVgp5izX/cz2/6rlnFJVRGtKy2ij3ajJZvivKawnRhdw6BsWb+s/KY7uMuvqfCIUjHGEXZxBbSIaOJfw1FU=;dNFGlZTr0usi7jxUu0E8Sg=="
 ---
 

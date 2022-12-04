@@ -7,7 +7,7 @@ originalUrl: "https://www.dbta.com/Editorial/News-Flashes/Tech-Experts-Offer-7-P
 webUrl: "https://www.dbta.com/Editorial/News-Flashes/Tech-Experts-Offer-7-Predictions-for-AI-in-2023-156106.aspx"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Predictions for AI, video, chips and more in 2023 | Deloitte"
-    excerpt: "The new year will see AI tools for chip design, video streams with ad support, and a crowd of satellites in space, according to Deloitte."
-    publishedDateTime: 2022-11-30T05:02:00Z
-    webUrl: "https://venturebeat.com/ai/predictions-for-ai-video-chips-and-more-in-2023-deloitte/"
-    ampWebUrl: "https://venturebeat.com/ai/predictions-for-ai-video-chips-and-more-in-2023-deloitte/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/predictions-for-ai-video-chips-and-more-in-2023-deloitte/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/11/deloitte-2.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "oabNMs3nIt9iYm/j7epv0xN9nipij2D+PkmmE4MEXJgJVenZSt/4/tV6I6nPUQav/WYOktp9EaNyCqDiOF+Hspcaol3DSU9+C2J7cgcO0mQ6wNtjBenODrtWXBAldN6KiTdfyD3jsxdb5qm29DMYfOryOqNw8tk+dNaq7HW9JcMbGG53GscWc70ZLkQWZhCF/CJY5iLpt3CTyQ3J2+NlZ2cHDHzBQ+ZaRANBhBxGH1aAjbVKQm0vfT8IeEdOWwAa6IiVvEbocdc7CiNXQlYSduWFV1VoJY0n95wkCtmvQyDUfXKeEZsg19Bh9M3WSWKSwdKZAgUBvPgUoVyHwl/hAhd3EQTsIqm0fxra7TQpIxQ=;0/yuF/nvPByafFMQL+lrMw=="
 ---

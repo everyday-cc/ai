@@ -5,6 +5,8 @@ excerpt: "New developments in artificial intelligence and technology could help 
 publishedDateTime: 2022-11-30T04:04:00Z
 originalUrl: "https://www.wkbw.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
 webUrl: "https://www.wkbw.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
+ampWebUrl: "https://www.wkbw.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+cdnAmpWebUrl: "https://www-wkbw-com.cdn.ampproject.org/c/s/www.wkbw.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "TY8DOXg2RT0hxmkFXgFAgpqayx98UkkKec31y/5fzpPDSZav5Qz4dUZIcZcoDK7bl1UbkDeRgp1l2/gtwRcyYiIBTAShhjuUnraSPYcRQTcbKj2l99cMxLuXoEEcNgR+U+o4/+W0iMw4T7flHVg2H0fN2ozBQunT9NIrgBys6PQt9MDjf3BqifhRDDh392LMsRW4WADbvBvlaB/vF9omtua5Z/YJh11PW2h55wceseB9g20vt3YUmX7GJdghbCACo5qImc5xfVrrDdEwxN/qWb5ksiE8BQE6TMvncV7f37LaGdmJxuB3MifTY00iLmY7puyjphpI7FvN9QgWmhCu2tPK4ar1Es/2T1zC8Gk+pGg=;iCtZy37TeyjUTtU1lhJ+Aw=="
+images:
+  - url: "https://cdn.newsy.com/images/videos/m/1669756816_CgX8sG.jpg"
+    width: 640
+    height: 360
+    isCached: true
+
+secured: "nK2wOjxJY6ja8j1y9YBfj1SUnj0dhMLi29yMz9TT5YzDwjsAP2vS48PcjImsIPI+TSoowveIVecsb2kuCGpYsDPRqG8gPILTUEfEqa24COqTSLCZ2XmmYPB5heuo7m6IoUJ2vVOsBs7elVMwH1LbnM+aEJPxhTTRbDrV+N0cuvOJt80Hzyvl1zQeCpvpBh5NLuKLlfanS9QZj0LpvmkJfRoHjIZRaooFvUddQdgB1635WtuKJKGKbcRwwZWA7WZ1ZeejOiHkimDBaYc/EyRqBgT1saXx8YOz5rreIzcbW/4+8pBUwoW0kaJRvFM3p6r9sp4JFL3WJ3KDZ+WHJLBW61Mm5yZxcyAdR+AkS8ujX/k=;XUFU9sxCrH+d4/5s8Qec1A=="
 ---
 

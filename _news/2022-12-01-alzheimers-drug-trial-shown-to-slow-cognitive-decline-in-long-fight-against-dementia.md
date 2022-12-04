@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2022/11/30/alzheimers-drug-lecanemab-slows-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/11/30/alzheimers-drug-lecanemab-slows-cognitive-decline-in-dementia-fight.html"
 type: article
 quality: 82
-heat: 152
+heat: 162
 published: true
 
 provider:
@@ -133,6 +133,15 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "Alzheimer’s drug lecanemab has ‘moderate’ effect on cognitive decline, new trial data show"
+    excerpt: "The phase 3 results, published Tuesday, showed a 27% slower rate of cognitive decline in recipients ... for the Centers for Medicare & Medicaid Services, and the Alzheimer’s Association called ..."
+    publishedDateTime: 2022-12-01T01:03:00Z
+    webUrl: "https://www.mcknights.com/news/clinical-news/alzheimers-drug-lecanemab-has-moderate-effect-on-cognitive-decline-new-trial-data-show/"
+    type: article
+    provider:
+      name: McKnight's Long-Term Care News
+      domain: mcknights.com
+    quality: 0
 
 secured: "IGGGx3lzcWNb7yyH59CcSFGioQJb7jYb2YN7Gu95Kw5QW/4uPW/yNcx6OiKx+VskDhuFM9E2acQU25py9Ug1R+Lh3KORoq18ezMkZApgyQq+akRJYZ81Ci0XvLdEnKh/sN1ZxYLMD2Dsrm+3MYhTf/46634bpOxwVagNvUOdn1fwwRk8czVLRaHmSLYpmLReWb0RU/o4U3QuZyNXGAYeUloupRWkMiPpVYmfbv/uzXEyX4bwqEx7/WgBNC9WGO32d9F9rPEJT09GJceWXK81vOVAqw+zZtZtLa/i5ng/p3T1WpYkpmkYuR0z11+ayjjgzA7jOfqrLNBKRwhqwPQz6JwtrtjDQYg/Vt07jnJLa6o=;usrgoeBYBICeh4+rgxMUQA=="
 ---

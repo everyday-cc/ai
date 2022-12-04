@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-04T20:05:00Z
 originalUrl: "https://tucson.com/sports/pac-12-hotline/colorado-hires-deion-sanders-a-spectacular-move-by-the-buffaloes-for-better-or-worse/article_0bc5fc1c-7403-11ed-b6e7-bbb5c8ea5774.html"
 webUrl: "https://tucson.com/sports/pac-12-hotline/colorado-hires-deion-sanders-a-spectacular-move-by-the-buffaloes-for-better-or-worse/article_0bc5fc1c-7403-11ed-b6e7-bbb5c8ea5774.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Arizona Daily Star

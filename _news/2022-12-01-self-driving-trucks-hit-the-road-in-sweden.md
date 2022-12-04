@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving Lorries Hit The Road In Sweden"
-    excerpt: "Barrelling down a motorway south of Stockholm in a 40-tonne lorry and trailer, the driver keeps a careful eye on the road but, jarringly, no hands on the wheel."
-    publishedDateTime: 2022-11-30T06:43:00Z
-    webUrl: "https://www.barrons.com/news/self-driving-lorries-hit-the-road-in-sweden-01669790708"
-    ampWebUrl: "https://www.barrons.com/amp/news/self-driving-lorries-hit-the-road-in-sweden-01669790708"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/self-driving-lorries-hit-the-road-in-sweden-01669790708"
+  - title: "Trucks drive themselves on the roads of this country"
+    excerpt: "Swedish truck maker Scania became the first in Europe to pilot self-driving trucks while delivering commercial goods."
+    publishedDateTime: 2022-11-30T07:44:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/trucks-drive-themselves-on-the-roads-of-this-country-41669793484863.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/trucks-drive-themselves-on-the-roads-of-this-country/amp-41669793484863.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/trucks-drive-themselves-on-the-roads-of-this-country/amp-41669793484863.html"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
+      name: Auto News India
+      domain: hindustantimes.com
     quality: 44
     images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP8131949232193825476244943363076152094355---1.jpg"
-        width: 768
-        height: 511
+      - url: "https://images.hindustantimes.com/auto/img/2022/11/30/1600x900/SWEDEN_1669793889979_1669793890549_1669793890549.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "3B/zb+jNWzhloUB6vG38rRjEP+2bKrYzY2b86lXDNpY9Dou85meqN259ZPj9xOKENOMWZfifk7sj19hJojtRzi15aWBAf94SCmNKnp7xrl8/STpWMOlBebLilh+aEJ57nWMxrLUXo4gajDiG6vTnfwcng0i2wDriLhs4Mpnh0ehI8ilDcIkYw5YrQ3AnBMueITwAdXzNH0x0xUWqOhh2diSqepGxNZ2s5Yh03h3Xg2NPCZpTgq9x88/DvZm+H2SNXiMnIIusK0yWAANHYiec7aqLk4MYqrWQX77DAzGpGmJLESkR57KQnP1IfKhYXT+bC1tS4AulACtDawO8q0/kxul1y5OF6FEVoSGk5dwMsGG8TpuSP2L7rVwyhiJympfR1MZoVlBDpg/f7sGbtKONGeMsN5bXEUrnwDonUSH06+vgQ37uu/+kBB4qonjO08I5Oo9VUNAqo9p611kEZaObDviX1PsB5mGwgpVlgPe6O96xCdbyAfsS0ZE1TgsYLJbvdpi3cfa7V2BJGi5s7WqniA==;VT4BXDUgD09Z1KOHPSfuuw=="

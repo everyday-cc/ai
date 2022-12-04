@@ -19,20 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "ADGM’s Financial Services Regulatory Authority launches AI initiative"
-    excerpt: "Financial services firms are increasingly relying on AI applications and machine-learning techniques in their day-to-day processes and decision making"
-    publishedDateTime: 2022-11-30T03:25:00Z
-    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/adgms-financial-services-regulatory-authority-launches-ai-initiative-kk69x80j"
+  - title: "AWS launches new AI educator enablement program"
+    excerpt: "The program, which was detailed at AWS re:Invent in Las Vegas, will be provided through AWS’ Machine Learning University. Machine Learning University is a platform that offers access to virtual AI courses and other educational resources developed by the cloud giant."
+    publishedDateTime: 2022-11-30T18:48:00Z
+    webUrl: "https://siliconangle.com/2022/11/30/aws-launches-new-ai-educator-enablement-program/"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
-    images:
-      - url: "https://static.zawya.com/version/c:OWIwNjhkNjMtMDQ3Ni00:NWUwZjhh/1297736239.jpg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
 
 secured: "fkYKo1glwwRYNningKiIDexpfaKtY2lBAdW4dTP4z5I8f8YnV+gDubjIH05lDv6sfaag1zxS7e1vt37awKb9/AkDhGoey82PX2vszCt6rLiochoTow+cRLhbN8kH6DodVADCmfPbZ8YwfD8VXkE6wlTZ6fPhTtq/vROhnwdm7psayE1JjykOzgfvv4mebU7VgL+EUy69efFGqlM/uQS+XSZ6VnwSVRtADvquBQ7eVAS5lT1DUaWuHXOHiwYQ4xKTPeglgHTn148eHhHCstM7ke7Iwn15mvV68tB5LYhu+xv1Rdr74fiYciatr4ibBRqqQbKfYggNdYs/nv26mc8AihXHle8fp+OMSByiH4sLzbHQuN7VCbUzS9xSF98pDMmLcGfuyiLgIQ2hYEwqOcf0EBfPMQ66CkLRuUEq8EdWrLhI9Vd9wMNdL4s4f3f5gOmtoUWyElPYgzORmWhNlrfjJUZt1DCGHWNcd/LKceQwHynz9FCAGKntm1QfVag/54Ae9kMmZUNiOODY1sNoQ/nVpQ==;waIrR5s5p6bVpV1cpJHRgg=="
 ---

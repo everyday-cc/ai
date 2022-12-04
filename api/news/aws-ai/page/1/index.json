@@ -510,40 +510,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-30-aws-announces-three-amazon-ec2-instances-powered-by-new-aws-designed-chips.md",
-      "title": "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips",
-      "excerpt": "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/11/29/9721297.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/11/29/9721297.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T12:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-30-aws-adds-machine-learning-capabilities-to-amazon-connect.md",
       "title": "AWS adds machine learning capabilities to Amazon Connect",
       "excerpt": "Amazon Web Services announced the general availability of forecasting, capacity planning, scheduling, and Contact Lens features for its Amazon Connect contact center service, while introducing two new features in preview.",
@@ -631,6 +597,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-30-aws-announces-three-amazon-ec2-instances-powered-by-new-aws-designed-chips.md",
+      "title": "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips",
+      "excerpt": "Hpc7g instances featuring new AWS Graviton3E chips deliver the best price performance for HPC workloads on Amazon EC2 C7gn instances featuring new AWS Nitro Cards with enhanced networking offer the hi",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/b29893848/aws-announces-three-amazon-ec2-instances-powered-by-new-aws-designed-chips",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/b29893848/aws-announces-three-amazon-ec2-instances-powered-by-new-aws-designed-chips",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
+          "width": 800,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29893848",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29893848",
+      "publishedDateTime": "2022-11-29T09:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-29-udacitys-train-to-hire-program-now-available-in-aws-marketplace.md",
       "title": "Udacity's Train-to-Hire Program Now Available in AWS Marketplace",
       "excerpt": "Udacity and AWS also worked to offer the AWS Machine Learning Scholarship ... Programs include real world content for job-ready competencies in artificial intelligence, machine learning, data science, autonomous systems, cloud computing, among other ...",
@@ -676,10 +685,10 @@
     {
       "path": "_news/2022-11-29-quantiphi-awarded-two-2022-regional-and-global-aws-partner-awards.md",
       "title": "Quantiphi Awarded Two 2022 Regional and Global AWS Partner Awards",
-      "excerpt": "Quantiphi, an artificial intelligence (AI)-first digital engineering company and AWS Premier Tier Services Partner in the Amazon Web Services (AWS) Partner Network (APN), is excited to announce it is a recipient of two 2022 Regional and Global AWS Partner Awards,",
+      "excerpt": "Invent 2022, the Regional and Global AWS Partner Awards recognize a wide range of AWS Partners whose business models have embraced specialization, innovation, and cooperation over the past year. Regional and Global Partner Awards recognize partners whose business models continue to evolve and thrive on AWS as they work with customers.",
       "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/11/29/9720600.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/11/29/9720600.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/-quantiphi-awarded-two-2022-regional-global-aws-partner-/2022/11/29/9720600.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-quantiphi-awarded-two-2022-regional-global-aws-partner-/2022/11/29/9720600.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -689,7 +698,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T04:51:00-08:00",
+      "publishedDateTime": "2022-11-29T05:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",

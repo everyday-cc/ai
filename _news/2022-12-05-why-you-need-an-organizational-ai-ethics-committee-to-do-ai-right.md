@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Artificial intelligence in the service of the military"
+    excerpt: "We are all familiar with the defense and security tasks of IDF camps and infrastructures performed by combat soldiers and military combat supporters. These missions are intended to enable the proper and safe existence of infrastructures,"
+    publishedDateTime: 2022-12-04T22:51:00Z
+    webUrl: "https://www.jpost.com/opinion/article-724053"
+    ampWebUrl: "https://m.jpost.com/opinion/article-724053/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/opinion/article-724053/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 57
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/518195"
+        width: 640
+        height: 428
+        isCached: true
 
 secured: "j2KVdz1otrl5bKM885OEqtELXXBITcC/8ofNQCLcMupCdlOT63gNOX+WdcNPrE5jUvrOAhka7/lkMFIb7LNfGtAkCxD/gLCU5+sve6wLkHgwhPIYJPRX9jLoH3ZIesHb8pYHc8EU1Z/dQ1+slo3m6l5vhXuv0CezuXcYzFvI5vAKPofDDal3sMFaQtNAAsgQZYApfWUkSi4J/CrJLkcBec0RiSAmQjQUai69xjM1KfhdOK/AjFchVq5urCPBg8emQrcVwtlIyPhb6RdRlC5rL++2HT3q0NNZoc+lUlffJDAyr9DL46F3WANRKiZl2xaOc9zfRMtKo0odmgGJtJ+pbYIrnDRM0BECDJRpyGa0BS1YDbAHVFaPwUaZEhY9nMVzhmVKxsp/c/Q/IvzHnek3VSjRlpa4+QJyosEk3mKdzW0CMg/6VM/3JhSenFtuLlvO52yw0U1eN7JaJXlJqX+ox8DwGCwDIDOasiGIoYCyh9XzRDddpUFfV6IDmJCYvVrBvMDU2eT5/5B/gUktDT3Pnw==;E17bsnNe0V5buCrFid0T9A=="
 ---

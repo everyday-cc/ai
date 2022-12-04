@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-04T17:52:00Z
 originalUrl: "https://www.business-standard.com/article/technology/artificial-intelligence-can-be-helpful-in-diabetes-monitoring-prevention-122120400854_1.html"
 webUrl: "https://www.business-standard.com/article/technology/artificial-intelligence-can-be-helpful-in-diabetes-monitoring-prevention-122120400854_1.html"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Business Standard

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/12/02/openais-chatgpt-shows-why-implemen
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/02/openais-chatgpt-shows-why-implementation-is-key-with-generative-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 859
         height: 478
         isCached: true
+  - title: "AI bot ChatGPT stuns academics with essay-writing skills and usability"
+    excerpt: "Latest chatbot from Elon Musk-founded OpenAI can identify incorrect premises and refuse to answer inappropriate requests"
+    publishedDateTime: 2022-12-04T18:23:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
 
 secured: "xLg9TOCdQRrPiNZGjzr4x2qkq7iwQTvsASJtfVa+vLVO9Mikfhr3b2K94spkCaipNMpXx/N8ifsUZIswWFRWF0ON2GYYVfn3kj8Jy8pKf/gaKqsOuavMq9sqRMdrAc6TtjATV9vgHkZvp9SUIi6xlB6G16xzLCVuLTQx6mR/FaIIVqB/5uscDu+LV3TlIdkgUh37tVVN5EBmeMknxvNmtkq7uQnlMWQaBg9pAuczxSHL84hz5jZCUKWOxvi07G/b9Jt1sW/uv6rrQkkqkv91h6r4kR5thZZp0t1dvws7aTmNNMRuAVvF0iQdTllMQ04ui0FAxnZocpWXKzlSI1876J6Hgg4eZS9gvQRML4TuSjZvXeWppzToSTkAVvBkOvS8w/o+NX1hZUnsft8e+s3Hm1pu2j7DkWq8lJJF4kItYrFR+HnvYyrQEZChDZXnmG8puKbMvnt2/nS4bAQV5OWlCsoeOJdJi1FYt9RyHdkT2PdfrOdCL8UVPrSky4EOy2fZKCIdAQBKTccbXZnTW0mgew==;H+Qo+wbffSwdDwHF7p72ig=="
 ---

@@ -24,22 +24,6 @@ images:
     height: 657
     isCached: true
 
-related:
-  - title: "Capgemini Develops New AI Solution to Advance the Treatment of River Blindness"
-    excerpt: "Winning solution from Capgemini’s internal competition aims to speed up clinical trials and reduce time-to-market for future treatments. A team of experts"
-    publishedDateTime: 2022-11-30T04:55:00Z
-    webUrl: "https://www.electronicsforu.com/press-releases/capgemini-develops-new-ai-solution-to-advance-the-treatment-of-river-blindness"
-    type: article
-    provider:
-      name: electronicsforu
-      domain: electronicsforu.com
-    quality: 35
-    images:
-      - url: "https://i.ytimg.com/vi/h6vuUioMJQE/0.jpg"
-        width: 480
-        height: 360
-        isCached: true
-
 secured: "TJt3Ct8oLuC8G7IXSIL00eGFdzM26J6ikVsDEw6246KCi/kg3l/8/QjQYDNBHIHsPSQSQJXp92xQHnXW7g7YNnSVExDSf8SD+ENLdlm3bz7xSj4zCi8CvBqaz1WB/Hm0x+5kuateQya+AEzuL3qG+grswF/F9k9AACOyUvQj3PiM7z3hAedNJjPc3crFNbcRhKidzgDIHCd9Faii/9F3MP08CwISZayEkLtRED5q8QDrk27bjQvm+Uxgxh6zfeEVv44dO/3Hpv4aC+/oGlEX1jjvGmRyhKr7/hdTQHWchbjWp9yk6cTXF67Nsv3MD8DNaoX32p4f2qVtQTbBMtbkjA8YhUmCMKxBVuaATkq4BaE=;5zVaofxmlwcIXsoRR0Tejw=="
 ---
 

@@ -2,28 +2,19 @@
 category: news
 title: "ROHM Develops Ultra-Low-Power, On-Device Learning Edge AI Chip"
 excerpt: "Santa Clara, CA and Kyoto, Japan, Nov. 29, 2022 (GLOBE NEWSWIRE) -- ROHM Semiconductor today announced they have developed an on-device learning[1] AI chip (SoC with on-device learning AI ..."
-publishedDateTime: 2022-11-29T22:16:00Z
-originalUrl: "https://ktla.com/business/press-releases/globenewswire/8702146/rohm-develops-ultra-low-power-on-device-learning-edge-ai-chip/"
-webUrl: "https://ktla.com/business/press-releases/globenewswire/8702146/rohm-develops-ultra-low-power-on-device-learning-edge-ai-chip/"
+publishedDateTime: 2022-11-29T23:16:00Z
+originalUrl: "https://www.counton2.com/business/press-releases/globenewswire/8702146/rohm-develops-ultra-low-power-on-device-learning-edge-ai-chip/"
+webUrl: "https://www.counton2.com/business/press-releases/globenewswire/8702146/rohm-develops-ultra-low-power-on-device-learning-edge-ai-chip/"
 type: article
-quality: 54
-heat: 54
-published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: WCBD
+  domain: counton2.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-    width: 600
-    height: 207
-    isCached: true
-
-secured: "Rb78yUtNMVR2g+wXqjRLfiiDtlhcK/oWkIJv6a4vhns3q20bo2Kvg68uPRcFyIT5Su363d7A27RlbsnDq257wqO+fbzIfN4pZJdI/ppF+MyqQwZb/SuqlJ4Nx6Bk8j03ujpPzfkGZDoEIa8NXAcVaRjvU8s4C+YN2RbQ0qsQaOYx6S+2pP85CsXUp/fCp/hl2EccFZDwXh2CfkzyzBZJUki9YfS9yZDUXj6tQSokkSuhlXpGpgUhroY+KELMyF9mKOoiECkIgPP1+dtTzkZjQysjAF03glhrmoJ5+jj/UCfy8uIJ+gwXnxS2PAjbjyDG5urYeNQcmqqPtk2uybuK0rbohP62B3c+w1qvgcMeImk=;1PDNqrA0fLCk01TYRk2qEg=="
+secured: "g7L6tIJ7sX7HVCrbGTtT47YIrsoT64KVJ1y99gU0ytcSOw8Q3OnhnSF2sBbzdGwCGtFEHz9JiRhKunyEp1fi0uJ3CUzRot0tURUdmvEyTAKaGD/g+BZ1Zk8utbNaqfmeeGraTJStWQxkMJl+XfNWIgTSZtM10qCGS69SuNCp1J40ewpS2PNUk8dOdKk54lhbZ+tZ/lP/E5Pn68jG9X5yNuM45NbbHvk1yiY5/L+rssGaCyMDYvYnZJ8jYNfRrr9VpCOhnqUWP7w/I+LEniCaCfTTzE8I/8lKCLDhRWmgUXkoJ+6nsU9aaQviqOQgm+s3w7I6BUz0oPYhEtL+CzdYgnyge179YMGzIc2nuWx5CaI=;NlI1RKNu0P+mftt16p40Yg=="
 ---
 

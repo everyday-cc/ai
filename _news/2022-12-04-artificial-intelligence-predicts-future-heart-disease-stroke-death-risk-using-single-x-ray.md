@@ -73,20 +73,6 @@ related:
         width: 480
         height: 276
         isCached: true
-  - title: "AI Predicts Future Heart Disease Risk Using Single Chest X-Ray"
-    excerpt: "A deep learning model that uses a single chest X-ray to predict the 10-year risk of death from a heart attack or stroke, stemming from atherosclerotic cardiovascular disease has been developed by researchers."
-    publishedDateTime: 2022-11-30T05:06:00Z
-    webUrl: "https://scitechdaily.com/ai-predicts-future-heart-disease-risk-using-single-chest-x-ray/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 39
-    images:
-      - url: "https://scitechdaily.com/images/Normal-Chest-X-Ray.jpg"
-        width: 782
-        height: 642
-        isCached: true
   - title: "AI and one X-ray can potentially predict the risk of a heart attack or stroke"
     excerpt: "Researchers have created a deep learning method that can predict which patients might be eligible for life-saving medication that can prevent both diseases."
     publishedDateTime: 2022-12-01T20:22:00Z

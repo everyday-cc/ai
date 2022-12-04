@@ -24,17 +24,6 @@ images:
     height: 1706
     isCached: true
 
-related:
-  - title: "Wallbox Goes All-In on AWS"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Wallbox (NYSE: WBX), a leading provider of residential and public electric-vehicle (EV) charging devices and energy-management solutions,"
-    publishedDateTime: 2022-11-30T05:39:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/30/9721508.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-
 secured: "CqXpjIdM5PnZutoh5wMh7qq7Qd+lOaWGC1q2a2EM+44pUx9PMgnLlFan0nsW5R4PLlAKdpdj74NYsk3lWRZksoEDXluP4ZJxzKVjO1lrQCm+Qibf2OoAbwLebHjoAm4eptAff179UJLgIHBcfvXoxor6UahBL3Gsby+rWUaoR/7rKyYlidZacPCdLwwAcE2tnWnI7d4/XSLzCieuYfe+ZAFNYkuOAjTx2VQUK6/cT7FQiX90mgB8sYdxWNtKQB2xVLphY3TKXQsX3/VTzcktDOXe4t3d7Rf3UUottZvb/XtvmEN5x+cZ8db+93QjdPiq7fFa0Gfr/txwDksQto05qAm4REf8I5qiRfcyx9ZP0LE=;E5rA+jDj+LKqcF2kSZMjOw=="
 ---
 

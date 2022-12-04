@@ -41,20 +41,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Are We Ready for the Robot Revolution?"
-    excerpt: "I’m not sure what she’s been watching, but she says she wants a humanoid robot that can help her around the house and accompany her when she goes shopping. When I foolishly enquired further, Gina informed me that,"
-    publishedDateTime: 2022-11-30T06:54:00Z
-    webUrl: "https://www.designnews.com/robotics/are-we-ready-robot-revolution"
-    type: article
-    provider:
-      name: Design News
-      domain: designnews.com
-    quality: 39
-    images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/max-0036-featured-image-halodi-robots.jpg"
-        width: 770
-        height: 400
-        isCached: true
   - title: "Nielsen and AI4ALL expand relationship to build the next generation of diverse artificial intelligence leaders"
     excerpt: "Nielsen collaborated with AI4ALL to launch the inaugural Data Jam initiative for students in their College Pathways program."
     publishedDateTime: 2022-12-02T07:11:00Z
