@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The future of generative AI and its ethical implications"
+    excerpt: "Despite ethical issues of attribution, intellectual property, deepfakes and more, generative AI will continue to revolutionize the internet."
+    publishedDateTime: 2022-12-03T23:20:00Z
+    webUrl: "https://venturebeat.com/ai/the-future-of-generative-ai-and-its-ethical-implications/"
+    ampWebUrl: "https://venturebeat.com/ai/the-future-of-generative-ai-and-its-ethical-implications/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-future-of-generative-ai-and-its-ethical-implications/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/08/Screen-Shot-2022-08-24-at-3.43.14-PM.png?w=1200&strip=all"
+        width: 1199
+        height: 1075
+        isCached: true
   - title: "The Pros And Cons Of Artificial Intelligence"
     excerpt: "Artificial intelligence, or AI, is everywhere right now. In truth, the fundamentals of AI and machine learning have been around for a long time. The first primitive form of AI was an automated checkers bot which was created by Cristopher Strachey from the University of Manchester, England, back in 1951."
     publishedDateTime: 2022-12-01T11:30:00Z

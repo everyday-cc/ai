@@ -1,10 +1,10 @@
 ---
 category: news
 title: "FIS Challenges Nearly 200 Startups to Pitch their Boldest Ideas in First APAC Fintech Competition"
-excerpt: "Global financial technology leader FIS ® (NYSE: FIS) today announced the expansion of its annual InnovateIN48 fintech competition to include early-stage fintech startups in the APAC region. Originally an employee-based innovation competition in 2013,"
+excerpt: "Open to early-stage APAC fintech startups with market-ready solutions, InnovateIN48-Partner Edition welcomed nearly 200 companies from 11 markets, including India, Singapore and Australia, to develop and pitch their innovative ideas to FIS leaders within a 48-hour window."
 publishedDateTime: 2022-12-01T00:00:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/12/01/9723438.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/12/01/9723438.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-fis-challenges-nearly-200-startups-pitch-their-boldest-/2022/12/01/9723438.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-fis-challenges-nearly-200-startups-pitch-their-boldest-/2022/12/01/9723438.htm"
 type: article
 quality: 0
 heat: -1
@@ -124,6 +124,6 @@ related:
         height: 630
         isCached: true
 
-secured: "oGubgEK+h7/HBYSExt0NokZjboKmkFBnsEt4FIHvot5pxHXM6utoCeKmKD0pMrrMaATJx6G/i+NC8kU/w4h0oSmzYjXyiK3KH0ByhqvopqFMDZzdFV+4HyyIfUlr4FULgKsgZ1pM+9ztVHeoDZ/RnLLp8qa21Q1LDHoyFw5WySHQFHfbmJhSJtkyck++rIKWQBP9lXIgnsz2fknfgQNHxCkor5xVTmbdldilZIU8fbkkwp0Ys6lGCh4pPDRbh2VJDdlIieM+W+oinarzaWXszYImgA2Oxx0JVUjKNQ7QmZwg/+sSvoYg1BWM5nXh1tu2qOTmatqBpvcI3IHH9CR0Fz+nK1W19Ruh7/XivmTG3u4=;sOqYTiDzDJdCp8iRKDefEA=="
+secured: "xoKN67ik0gW4Os5ta+ccrGQoT8qKA4wBEsH3x0qAJxvkmvdl2i+6KPkcEL+ethSDy28ou/RhVk/1/xbE3mfidLteeEu9do83+HzSj50VsAJSrrEk1d2lJWz6UHDQ0L5j2T9xzzSQYUdV6gz+pHGf+K5rweiKVY/YkHLtk7EON7RO+5QCwgaAh+Z+lQD2kyBXtwYYnFnEpQhELL/rBUpm9vsL85nUnLgcQ7SId/h/YI9ZzLrf/On12VMWEnSzD7yCSKv+r4ew0L5V5xQW3dt/cNk296aa0CGSZBO6JVM0gKVCNBUPE5aC6lGFxFgWXN4uuaU67/+rxEz9mX0+r9tKBKdyKsf8fSzUgQR8jLBD3Yc=;fgEej4Mg1yNIwAX7vPOSQQ=="
 ---
 

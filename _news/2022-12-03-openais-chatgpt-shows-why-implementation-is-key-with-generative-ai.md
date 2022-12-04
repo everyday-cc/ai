@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/12/02/openais-chatgpt-shows-why-implemen
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/02/openais-chatgpt-shows-why-implementation-is-key-with-generative-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Creative AI is generating some messy problems"
-    excerpt: "In the last few years, artificial-intelligence systems have shifted from being able to process content – recognizing faces or reading and transcribing text — to creating digital paintings or writing essays."
-    publishedDateTime: 2022-11-29T07:46:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/creative-ai-is-generating-some-messy-problems-9620161.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/creative-ai-is-generating-some-messy-problems-9620161.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/creative-ai-is-generating-some-messy-problems-9620161.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 59
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2022/11/AI.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "OpenAI debuts new conversational AI system"
     excerpt: "OpenAI LLC on Wednesday detailed ChatGPT, an artificial intelligence system that can understand and answer complex natural language questions. ChatGPT is based on the advanced GPT-3 neural network that OpenAI first debuted in 2020. GPT-3 can perform a ..."
     publishedDateTime: 2022-12-01T20:40:00Z

@@ -19,20 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "TechSparks 2022: Growth lessons from powering leading global ecommerce and fintech brands"
-    excerpt: "Rakuten’s global ecosystem of more than 70 diverse businesses and 1.6 billion members, serving users worldwide comes with invaluable insights for businesses looking to scale rapidly. Hear first hand from the man at the helm."
-    publishedDateTime: 2022-11-29T07:02:00Z
-    webUrl: "https://yourstory.com/2022/11/techsparks-2022-growth-lessons-leading-global-ecommerce-fintech-brands"
+  - title: "US Digital Insurance Market Report 2022: Growth in Artificial Intelligence (AI) Services Applications Presents Opportunities - ResearchAndMarkets.com"
+    excerpt: "The U.S. digital insurance market revenues are forecasted to reach US$27.72 billion in 2026, growing at a CAGR of 20.70%, for the period spanning 2022-2026. Factors such as rapid urbanization, growing smartphone users,"
+    publishedDateTime: 2022-11-30T09:42:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/11/30/9721584.htm"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 15
-    images:
-      - url: "https://images.yourstory.com/cs/2/21ccd920843c11ec88170b5512a0f9d5/Imagebnne-1669704543271.jpg?fm=png&auto=format"
-        width: 800
-        height: 400
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "kXLwCZszpeTUZJXGqgQSduLFe0bGIDZDYZ65iO/n4OTe+vnb8oUCgOLwKmyjClrgOeLDUQo+gnrLHCNy6qb52F4mp3xtHxIkt1a9410v1LoWJWudiqnnLUlj/YdfquJhIHX7JUo9tgFu9ACvbz902cb/rIR75/BdatZfvsph2hb2CErrJgqDzDQbcqisLr/izVN2St/UoY5vNgLFz2nEYoj2gMimU6b0rsmqWrRujOCd1pHWhamPMZ3D0Bm44iMYgG/AyZJSmc38KZtQkY+b2jib/p25AdnciPZkaF0lIHWjkAl7dNVol+Q/1vyqf+yf+ovIiOgQHx4Zy1mbaopB3AT93HGWTb/75MkEio3yOfk=;h+KNUr4omevyPRi9n45RDA=="
 ---

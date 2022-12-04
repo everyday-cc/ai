@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-02T14:35:00Z
 originalUrl: "https://www.medicalnewstoday.com/articles/type-2-diabetes-artificial-intelligence-model-predicts-onset-within-12-hours"
 webUrl: "https://www.medicalnewstoday.com/articles/type-2-diabetes-artificial-intelligence-model-predicts-onset-within-12-hours"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2022/12/glucose-monitor-diabetes-ai-thumb.jpg"

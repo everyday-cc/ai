@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/you-can-use-an-ai-time-mach
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/you-can-use-an-ai-time-machine-to-see-what-youd-look-like-in-different-eras-throughout-history/"
 type: article
 quality: 75
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "New AI can show you show what you'd look like in different periods of time"
-    excerpt: "A new artificial intelligence system that's designed to show users what they would look like in different time periods is currently going viral."
-    publishedDateTime: 2022-11-29T08:03:00Z
-    webUrl: "https://www.tweaktown.com/news/89687/new-ai-can-show-you-what-youd-look-like-in-different-periods-of-time/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 37
-    images:
-      - url: "https://static.tweaktown.com/news/8/9/89687_25_new-ai-can-show-you-what-youd-look-like-in-different-periods-of-time.png"
-        width: 620
-        height: 373
-        isCached: true
 
 secured: "ALNbapSLcM5V/GsghLyOKgSvoAqd6zNk/IEGLwCgcAXyF4Ashj25AHH/1CZkkUIQ4+a4x4aCyPjaNG6xegcQwVWTjngf+TRIdezSa4XVGDgy3pgfxpKYcVsdS3jz0L0ucyPCz1tfhqv0nBd3nR7gfn0Q7ZT1ioqdq4ciMruRvkWiGYACwvDa0sIiN6XYVEVcSFr6xqWPoq9pBOHjtmM6oXj3kYyZ7hnwsethDOdwnkmXv49qr69Vr7oj1Zlx1ThY86equ34g1+j3IE2L77LZHeVooyLLPViY1TY4C1M506rhbS9dptHQkLAMdC/jGHyUgfpaaZo3kXhdoXNxRzawK/maLONQi0kQtbTDMBvmsDs=;7zvEEMve1f+SIYW9w+EJmQ=="
 ---

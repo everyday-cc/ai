@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Creative AI is generating some messy problems"
-    excerpt: "In the last few years, artificial-intelligence systems have shifted from being able to process content – recognizing faces or reading and transcribing text — to creating digital paintings or writing essays."
-    publishedDateTime: 2022-11-29T07:46:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/creative-ai-is-generating-some-messy-problems-9620161.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/creative-ai-is-generating-some-messy-problems-9620161.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/creative-ai-is-generating-some-messy-problems-9620161.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 59
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2022/11/AI.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "Oclu0NjtPIsC+TON9CBSxxFEE8cU9xaCqVFC1l446ZVPYVGpuXiSuXTC05Z3aYPCxInHrpvcZ+7scJvOVN9Lo5Pgjl+Ie1/dZ8QXQWSwfIsTpqIKZFdYd8ivcFtNe5lc+p9yXjthAPRb08P6BvgNokBoJJq/MD5aF+FhWOopA0CrqrCvJJRXTEwichGQU9A6VTKsp33lboGlaG0zcsND0SLN/WP3CXrHcmCaTdX9Pj88FT4a/pwC4aj4VZ0bAifnbcPwRhFZBAqBVdTpsF8aUxAM+ORXeoitdOQtRRPh5ci/5HNoolKPFeIcBG8fNz6mT1W/GkOh//ybR/qz+/G3hmV3P5GrZL2d47Mjb1tybvc=;jTjgbNUKSSbWdojG+dS90A=="
 ---

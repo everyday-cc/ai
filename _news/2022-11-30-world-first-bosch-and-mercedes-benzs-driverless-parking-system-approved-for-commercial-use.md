@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Driverless parking service begins commercial operation at Stuttgart Airport"
+    excerpt: "The development partners say that the commercial approval from Germany's Federal Motor Transport Authority to operate its driverless parking system at the APCOA P6 parking garage at Stuttgart ..."
+    publishedDateTime: 2022-11-30T18:09:00Z
+    webUrl: "https://newatlas.com/automotive/mercedes-bosch-commercial-automated-valet-parking-stuttgart/"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 82
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/1d9a14e/2147483647/strip/true/crop/4961x2605+0+93/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fca%2F57%2F77bc3e2b45cbb56a8cb81ce6b578%2F22c0242-007.jpg&na.image_optimisation=0"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Alstom demonstrates driverless shunting"
     excerpt: "Alstom has demonstrated for the first time the deployment of ATO at Grade of Automation (GoA) 4 on a shunting locomotive, enabling driverless operation."
     publishedDateTime: 2022-11-29T16:39:00Z

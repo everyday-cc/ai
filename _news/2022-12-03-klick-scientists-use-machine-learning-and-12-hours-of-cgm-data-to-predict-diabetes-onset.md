@@ -51,7 +51,7 @@ related:
     provider:
       name: Medical News Today
       domain: medicalnewstoday.com
-    quality: 36
+    quality: 38
     images:
       - url: "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2022/12/glucose-monitor-diabetes-ai-thumb.jpg"
         width: 732

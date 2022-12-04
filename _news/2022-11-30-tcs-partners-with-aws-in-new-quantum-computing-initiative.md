@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itbusiness.ca/news/tcs-partners-with-aws-in-new-quantum-
 cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/tcs-partners-with-aws-in-new-quantum-computing-initiative/123471?amp=1"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: IT Business
@@ -27,36 +27,24 @@ images:
     isCached: true
 
 related:
-  - title: "TCS joins hands with AWS to launch quantum computing lab"
-    excerpt: "“TCS Quantum Computing Lab on AWS enables customers to evaluate with agility ... filings and made a progress in technologies like advancing optimization, artificial intelligence, digital security and cryptography, company said in a press statement."
-    publishedDateTime: 2022-11-29T07:44:00Z
-    webUrl: "https://www.financialexpress.com/life/technology-tcs-joins-hands-with-aws-to-launch-quantum-computing-lab-2895508/"
-    ampWebUrl: "https://www.financialexpress.com/life/technology-tcs-joins-hands-with-aws-to-launch-quantum-computing-lab-2895508/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-tcs-joins-hands-with-aws-to-launch-quantum-computing-lab-2895508/lite/"
+  - title: "Zeta Announces Support for AWS for Advertising & Marketing Initiative"
+    excerpt: "AWS for Advertising & Marketing is an initiative featuring services and solutions purpose-built to meet the needs of marketers, advertising agencies, publishers, technology providers, and analytics service providers."
+    publishedDateTime: 2022-11-29T23:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-zeta-announces-support-aws-advertising-marketing-initiative-/2022/11/29/9721440.htm"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2022/06/TCS-Tata-Consultancy-Services-01.jpg"
-        width: 1200
-        height: 667
-        isCached: true
-  - title: "UNC and AWS partner to launch 10 new digital health companies"
-    excerpt: "So, there's no shortage of companies in digital health (in fact, there are so many right now that the space starting to see a correction through consolidation) but get ready for more, as the University of North Carolina at Chapel Hill,"
-    publishedDateTime: 2022-11-30T23:17:00Z
-    webUrl: "https://vator.tv/news/2022-11-30-unc-and-aws-partner-to-launch-10-new-digital-health-companies"
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 36
+  - title: "AWS and Atos Strengthen Collaboration with New Strategic Partnership to Transform the Infrastructure Outsourcing Industry"
+    excerpt: "As part of the agreement, Atos will proactively consult with more than 800 managed infrastructure services customers spanning the globe to offer a new managed, hybrid-cloud service portfolio that features the option to move selected workloads to AWS."
+    publishedDateTime: 2022-11-30T18:13:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/11/30/9722251.htm"
     type: article
     provider:
-      name: vator
-      domain: vator.tv
-    quality: 39
-    images:
-      - url: "https://vatortv.s3.amazonaws.com/images/videos/main/21910.jpg"
-        width: 320
-        height: 240
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "fqopGJF75dqE5m0dUw2D1ZujECnCx5jDwhAoH4Bfki3i4V8s4Edpme0gbYkByU5rjVKBbW2/2iw8GU9O8j/tBKFm6wLJ32mas3+xmLUzYWFCoD4voOXy0phn5Z4sUkcooXXHIW91v+LGrPGvuVPi2ioF8y88TBwwM9m9fJNBD78A4KPxRQvTgo8tdpA67VS115Hy/CFnxP+RNbT7tPMwZMXjcZ1fNv8TdHFjaDN+w4WQugUgWB9/Ou7zylsLCjXy2fFT0cwVSG7YC1TQpf6nlcbjzowdRSRzRk4dzo+nV5b9GQbO3Ky9K0GV1znkEkb9SOQDSplLMjYohocBVQIrnrxjtZ2eucGz2Q0yD9HYjf4=;TphXO3MkLFDK+m8qAsjoWA=="
 ---

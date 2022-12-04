@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Deepgram lands new cash to grow its enterprise voice-recognition business"
+    excerpt: "Deepgram, a company developing voice-recognition tech for the enterprise, today raised $47 million in new funding led by Madrona Venture Group with participation from Citi Ventures and Alkeon."
+    publishedDateTime: 2022-11-29T12:10:00Z
+    webUrl: "https://techcrunch.com/2022/11/29/deepgram-lands-new-cash-to-grow-its-enterprise-voice-recognition-business/"
+    ampWebUrl: "https://techcrunch.com/2022/11/29/deepgram-lands-new-cash-to-grow-its-enterprise-voice-recognition-business/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/29/deepgram-lands-new-cash-to-grow-its-enterprise-voice-recognition-business/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 73
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1024463070.jpg?resize=1200,654"
+        width: 1200
+        height: 654
+        isCached: true
   - title: "Adding sentiment analysis to natural language understanding, Deepgram brings in $47M"
     excerpt: "Deepgram is taking a somewhat nuanced approach to building natural language processing capabilities with its own foundation model that can execute transcription functions as well as summation and sentiment analysis from audio."
     publishedDateTime: 2022-11-29T11:00:00Z

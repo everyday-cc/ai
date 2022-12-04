@@ -27,19 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind's New AI Uses Game Theory to Trounce Humans in 'Stratego'"
-    excerpt: "Researchers from Alphabet- owned DeepMind, according to new research shared with Gizmodo, say they’ve created a new AI agent capable of playing Stratego at a “human expert level.” The AI, called DeepNash,"
-    publishedDateTime: 2022-12-01T21:41:00Z
-    webUrl: "https://gizmodo.com/ai-deep-mind-stratego-1849842361"
+  - title: "Now AI can outmaneuver you at both Stratego and Diplomacy"
+    excerpt: "Stratego and Diplomacy were human-dominated, but now AI has become table-flipping good at one and passably human at the other."
+    publishedDateTime: 2022-12-02T00:06:00Z
+    webUrl: "https://techcrunch.com/2022/12/01/now-ai-can-outmaneuver-you-at-both-stratego-and-diplomacy/"
+    ampWebUrl: "https://techcrunch.com/2022/12/01/now-ai-can-outmaneuver-you-at-both-stratego-and-diplomacy/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/01/now-ai-can-outmaneuver-you-at-both-stratego-and-diplomacy/amp/"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 84
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b66d609eecf6be0e3d7e555863111aac.jpg"
+      - url: "https://techcrunch.com/wp-content/uploads/2022/12/deepmind-stratego-j.jpg?resize=1200,675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Mastering Stratego, the classic game of imperfect information"
+    excerpt: "Game-playing artificial intelligence (AI) systems have advanced to a new frontier. Stratego, the classic board game that’s more complex than chess and Go, and craftier than poker, has now been mastered. Published in Science, we present DeepNash, an AI agent that learned the game from scratch to a human"
+    publishedDateTime: 2022-12-01T00:00:00Z
+    webUrl: "https://www.deepmind.com/blog/mastering-stratego-the-classic-game-of-imperfect-information"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
+    quality: 74
+    images:
+      - url: "https://assets-global.website-files.com/621e749a546b7592125f38ed/6388ce129963208649083b0e_Stratego_header_02_hd.png"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "DeepMind's new AI app plays Stratego at expert level"
     excerpt: "A team of researchers at DeepMind Technologies Ltd., has created an AI application called \"DeepNash\" that is able to play the game Stratego at an expert level. In their paper published in the journal Science,"
@@ -95,15 +111,6 @@ related:
     provider:
       name: Nature
       domain: nature.com
-    quality: 34
-  - title: "DeepMind spin-off steps up effort to use AI to create new drugs"
-    excerpt: "We use cookies and other data for a number of reasons, such as keeping FT Sites reliable and secure,         personalising content and ads, providing social media features and to         analyse how our Sites are used."
-    publishedDateTime: 2022-12-03T15:00:00Z
-    webUrl: "https://www.ft.com/content/92ea2434-8d91-49e3-807d-3e425689e749"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
     quality: 34
 
 secured: "wYruw3P//8Tu2VEnHSGLLe3GjXAKvG02mFLAv65mxeWzS72A6+fi989ypIGzC9rhwUaJMzH/68YVj2pxHUTX34xjpAK7VbJps9wFM5yJ2L9dZvqeVAAadnfZgzk3g7+sWen9Dr/D5MjB+vsx0EJcuS+fj9oXvbkhTx7CAXKlnMclSBFstkDFIu+S3DNkK4KgadUaBRzYk6i8Alp9NlCS4Xi21SAAVZW8x+UfPaRPURlGJqTVH27rRCLFb2RHiIJg6p8G9lU8gnB9wqo7DltAybX9Guma6eemjzpdqRXv1EU3sfPi93m0hZgJRvp/88GVy4I3MebK6VXAGfcF6EaxBTsQYqUXM7D8b+q8rhMPueSdwilxZKDW3wt52B8kNGVdNFGNAlyS9TQcoANi4VCd79v6mf0ZPlnwKAlsZ7qnPvE4sA6sfNJpOBaRQKNUY31zAGfJ1bUy7LAMYIYfGGIlgp7ahgdJh8gg65e+DvMaX46BzoEJ47FRgK02JFOlmgcuyB6EEmhLTWdqw31+ccMiDA==;Qh42dLFpkfVtWo89VuNafg=="

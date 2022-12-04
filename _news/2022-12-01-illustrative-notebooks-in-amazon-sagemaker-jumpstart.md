@@ -265,8 +265,8 @@ related:
         isCached: true
   - title: "AWS Announces Eight New Amazon SageMaker Capabilities"
     excerpt: "Amazon SageMaker Studio Notebook gives practitioners a fully managed notebook experience, from data exploration to deployment. As teams grow in size and"
-    publishedDateTime: 2022-11-30T21:21:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/30/9722319.htm"
+    publishedDateTime: 2022-11-30T21:33:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/11/30/9722319.htm"
     type: article
     provider:
       name: TMCnet

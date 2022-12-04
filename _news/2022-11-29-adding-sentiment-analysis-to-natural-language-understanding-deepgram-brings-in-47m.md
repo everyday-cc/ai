@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/ai/adding-sentiment-analysis-to-natural-lang
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/adding-sentiment-analysis-to-natural-language-understanding-deepgram-brings-in-47m-%EF%BF%BC/amp/"
 type: article
 quality: 67
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Deepgram lands new cash to grow its enterprise voice-recognition business"
+    excerpt: "Deepgram, a company developing voice-recognition tech for the enterprise, today raised $47 million in new funding led by Madrona Venture Group with participation from Citi Ventures and Alkeon."
+    publishedDateTime: 2022-11-29T12:10:00Z
+    webUrl: "https://techcrunch.com/2022/11/29/deepgram-lands-new-cash-to-grow-its-enterprise-voice-recognition-business/"
+    ampWebUrl: "https://techcrunch.com/2022/11/29/deepgram-lands-new-cash-to-grow-its-enterprise-voice-recognition-business/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/29/deepgram-lands-new-cash-to-grow-its-enterprise-voice-recognition-business/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 73
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1024463070.jpg?resize=1200,654"
+        width: 1200
+        height: 654
+        isCached: true
   - title: "Deepgram Acquires Additional Funding to Expand Its Enterprise Voice-Recognition Business"
     excerpt: "Deepgram, a company that creates voice recognition software for businesses, raised USD 47 million in fresh funding from investors including"
     publishedDateTime: 2022-11-30T11:08:00Z

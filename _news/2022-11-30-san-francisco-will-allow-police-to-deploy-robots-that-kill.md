@@ -1,29 +1,27 @@
 ---
 category: news
 title: "San Francisco will allow police to deploy robots that kill"
-excerpt: "Supervisors voted to give police the ability to use potentially lethal remote-controlled robots in emergency situations."
-publishedDateTime: 2022-11-30T14:02:00Z
-originalUrl: "https://www.nbcnews.com/news/us-news/san-francisco-will-allow-police-deploy-robots-kill-rcna59322"
-webUrl: "https://www.nbcnews.com/news/us-news/san-francisco-will-allow-police-deploy-robots-kill-rcna59322"
-ampWebUrl: "https://www.nbcnews.com/news/amp/rcna59322"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna59322"
+excerpt: "The Democratic San Francisco Board of Supervisors voted to allow police to use potentially lethal, remote-controlled robots in emergency situations SAN FRANCISCO -- Supervisors in San Francisco ..."
+publishedDateTime: 2022-11-29T21:14:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/san-francisco-police-deploy-robots-kill-94162713"
+webUrl: "https://abcnews.go.com/Politics/wireStory/san-francisco-police-deploy-robots-kill-94162713"
 type: article
-quality: 89
-heat: 199
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: ABC News
+  domain: abcnews.go.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-12/211205-san-francisco-police-vehicle-jm-1039-3a9a35.jpg"
-    width: 2500
-    height: 1667
+  - url: "https://s.abcnews.com/images/Politics/WireAP_e37a06615cbe4c89823b86d5881ba9eb_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -177,6 +175,6 @@ related:
       domain: sacbee.com
     quality: 11
 
-secured: "3yc3ZeSSlS57YC6z3wJGuumiQ+NdN1mUfrG0A2gKGv4YxAaxnMe8ltWEL7wHY4HZ4NNkVCXLNI0MdBUcKdxXIx6sn9zstmozIMcJctFqkp7m4jMRNnr4uapeERvCwdf+ghmIsRN5u9qfO6E4RS+k/ewQyiCGiRwKQPGm7arvaMheuOA31XUiWYFlOBcYCpKsFtLaqfAJysb1ALdB6urQxBVD62c+JRT6QLbRWWDbAunhrXzpoEqxB/8IBwGmwM4dFSSmevhrBMpwGpqgTUouvHy9PmbJfulM2pfB9rHXTJ7Yjtn09xE2/Avps06X6EsN9eEUOJ5PEPsu6Pj3Gn5pCVk6Hiwmix3JGkpek8AfdFw=;J5FDO6wx0VvkNo2G5PacgQ=="
+secured: "hHxkRVou04laX2RGfbvM/HwQd5UxgnYwUP8F8YTp0vcIf5kEUKFPMTYx5jLdaIG7088O23Hufrxu+fiQCxgfJJGyb0W6DvPIEbF7LttDFUOU6GsFcpPNRCOeTilhJgHaWReDUv8y2u12/GSJ1HzsK80b4y3z0U6yx8a86l1XdLviWj2ZmX7sloHKGWGnZYr7lkMy/Tt06T6jKgn2rZPqj6XqisabzKdxsb86oTHOUmNeTNuqe5arIfePxQ52sp8OznussQerHdIC7ghn8+rDW//LTRHP/CVTMmddT3AGAI+nF+TopBghO8FLDp3Ujv84zGsPfyP6gKKqvwDHf/qTvjMpT+o2XufsXvDKfSjCm0o=;gekG6gx8RtGul7OfDsEe0A=="
 ---
 
