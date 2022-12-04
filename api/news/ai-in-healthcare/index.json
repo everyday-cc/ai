@@ -108,6 +108,41 @@
       ]
     },
     {
+      "path": "_news/2022-12-02-how-artificial-intelligence-is-transforming-healthcare.md",
+      "title": "How Artificial Intelligence Is Transforming Healthcare",
+      "excerpt": "Artificial Intelligence (AI) is already transforming industries from banking and retail to transportation and energy and has the potential to significantly improve every industry it touches. Since some version of “improve my health” will likely be near ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/how-artificial-intelligence-is-transforming-healthcare",
+      "originalUrl": "https://www.nasdaq.com/articles/how-artificial-intelligence-is-transforming-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T12:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-12-02-ai-will-thrive-in-3-key-areas-in-2023-despite-economic-conditions.md",
       "title": "AI will thrive in 3 key areas in 2023, despite economic conditions",
       "excerpt": "In 2023, experts predict that AI innovation will continue, focusing on human-centric, data-driven and generative AI.",
@@ -1421,49 +1456,6 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-redbrick-ai-raises-46-million-to-accelerate-the-development-of-ai-in-healthcare.md",
-      "title": "RedBrick AI raises $4.6 million to accelerate the development of AI in healthcare",
-      "excerpt": "(File) RedBrick AI, a Health-tech AI platform, on Wednesday announced that it raised $4.6 million in a seed funding round to accelerate the development and adoption of artificial intelligence ... about 90 percent of all healthcare data AI systems can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/healthcare/healthtech/redbrick-ai-raises-4-6-million-to-accelerate-the-development-of-ai-in-healthcare/2887287/",
-      "originalUrl": "https://www.financialexpress.com/healthcare/healthtech/redbrick-ai-raises-4-6-million-to-accelerate-the-development-of-ai-in-healthcare/2887287/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/09/ai1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/healthcare/healthtech/redbrick-ai-raises-4-6-million-to-accelerate-the-development-of-ai-in-healthcare/2887287/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/healthcare/healthtech/redbrick-ai-raises-4-6-million-to-accelerate-the-development-of-ai-in-healthcare/2887287/lite/",
-      "publishedDateTime": "2022-11-23T02:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

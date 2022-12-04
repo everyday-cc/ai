@@ -43,22 +43,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "San Francisco may allow police to deploy robots that kill"
-    excerpt: "The San Francisco Police Department said it would like the option to deploy robots equipped with explosive charges to disable suspects when lives are at stake."
-    publishedDateTime: 2022-11-29T20:35:00Z
-    webUrl: "https://www.abc10.com/article/news/nation-world/san-francisco-could-allow-police-to-deploy-robots-that-kill/507-9fbae4cb-330a-4c81-a01a-bbcdbed97028"
-    ampWebUrl: "https://www.abc10.com/amp/article/news/nation-world/san-francisco-could-allow-police-to-deploy-robots-that-kill/507-9fbae4cb-330a-4c81-a01a-bbcdbed97028"
-    cdnAmpWebUrl: "https://www-abc10-com.cdn.ampproject.org/c/s/www.abc10.com/amp/article/news/nation-world/san-francisco-could-allow-police-to-deploy-robots-that-kill/507-9fbae4cb-330a-4c81-a01a-bbcdbed97028"
-    type: article
-    provider:
-      name: KXTV
-      domain: abc10.com
-    quality: 59
-    images:
-      - url: "https://media.abc10.com/assets/CCT/images/d351425c-2053-485f-a857-34f172fc1ae9/d351425c-2053-485f-a857-34f172fc1ae9_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "San Francisco police defend 'killer robots' plan"
     excerpt: "Police in San Francisco defended their potential use of killer robots on Thursday, insisting they would be a \"last resort\" and only for very dangerous situations. Detectives in the California city, where residents complain of a spike in crime,"
     publishedDateTime: 2022-12-02T03:44:00Z

@@ -2,60 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2022-11-24-ai-computer-vision-market-size-recent-trends-demand-and-share-estimation-by-2028-with-fastest-growing-countries-data-107-report-pages.md",
-      "title": "AI Computer Vision Market Size, Recent Trends, Demand and Share Estimation By 2028 with Fastest Growing Countries Data | 107 Report Pages",
-      "excerpt": "According to this latest study, the 2021 growth of AI Computer Vision will have significant change from previous year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-computer-vision-market-size-recent-trends-demand-and-share-estimation-by-2028-with-fastest-growing-countries-data-107-report-pages-2022-11-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-computer-vision-market-size-recent-trends-demand-and-share-estimation-by-2028-with-fastest-growing-countries-data-107-report-pages-2022-11-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-23T18:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-24-its-time-to-talk-about-killer-robots.md",
       "title": "It’s time to talk about killer robots",
       "excerpt": "The topic has been simmering again of late due to the increasing prospect of killer robots in domestic law enforcement. One of the era’s best known robot makers, Boston Dynamics, raised some public policy red flags when it showcased footage of its Spot robot being deployed as part of Massachusetts State Police training exercises on our stage back in 2019.",
@@ -1212,6 +1158,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-23-researchers-ai-in-connected-cars-eased-rush-hour-congestion.md",
+      "title": "Researchers: AI in connected cars eased rush hour congestion",
+      "excerpt": "As millions of people travel the interstates this Thanksgiving, many will encounter patches of traffic at a standstill for no apparent reason — no construction or accident. Researchers say the problem is you.",
+      "sourceUrl": null,
+      "webUrl": "https://kesq.com/news/ap-california/2022/11/23/researchers-ai-in-connected-cars-eased-rush-hour-congestion/",
+      "originalUrl": "https://kesq.com/news/ap-california/2022/11/23/researchers-ai-in-connected-cars-eased-rush-hour-congestion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kesq.b-cdn.net/2021/06/kesq.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-23T00:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KESQ News",
+        "domain": "kesq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI"
       ]
     }

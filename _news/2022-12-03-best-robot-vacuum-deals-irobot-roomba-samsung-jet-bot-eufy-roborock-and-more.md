@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-robot-vacuum-deals-irobo
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-robot-vacuum-deals-irobot-roomba-samsung-jet-bot-eufy-roborock-and-more-2022-12-02/"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Score an iRobot Roomba for $288 while you still can: Plus more Cyber Monday robot vacuum deals you can still get today"
-    excerpt: "Save big on a selection of top-rated robot vacuums with the best Cyber Monday deals that you can still get today."
-    publishedDateTime: 2022-11-29T19:42:00Z
-    webUrl: "https://www.cbsnews.com/essentials/the-best-cyber-monday-robot-vacuum-deals-2022-11-29/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 0
 
 secured: "Sy6DBmK+/FMSA3LaenpceLxPNF1S1MXJ0WhnbRSLaXz/0vLbYlUj6Ualf1hOLTpP6P84x/QGy97iBwvrv7zlf8T05giTi9CTtRHqMzGCHPYg72E81FI666jEBaf5DIN6E1F79Qv8grKLSd4tW+xM2VpgZG0x7NI0VW6i4SS6U1MD56Rmp0bfyqfGixOsZyGUEusDZL6NGi2WJSBAED9E4XJcYM2SA5M8y9u95wSVynmAQeswWUW7UpK2ljDnKRiq6wsI4Ptwz+MQxg0QvoGIICOES/aGcfHg28Q2aY0qD+l7sCjhOoACItsQctWM7yBSqS1LEXsTE+sO5NhHCbD1aqT07qjzbPnIpbXI/9Kx504pbhlqY/kT99eSr3BzXYzIy1MDBKi5HlPMWK/ptMQOu88amEsXN0rzK7m80Kq5TfCWBlOt7f5giqVeOd33owwiXBJ1JDxBVx4IZEuRwemSs2JYF64F/DOcgePKfhOkLPIb0PpLmv7dM47D/St7FwuRmRfN35ID4VS2mPqiqAPlNA==;tv8i0m/uG/rYSQmpkt4wcQ=="
 ---

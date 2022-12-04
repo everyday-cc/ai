@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/amp/"
 type: article
 quality: 106
-heat: 226
+heat: 196
 published: true
 
 provider:
@@ -106,26 +106,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "AWS doubles down on data management"
-    excerpt: "Cloud giant Amazon Web Services declared a bold vision to eliminate the need to extract, transform and load data alongside other efforts to address business problems in domains like cyber security and"
-    publishedDateTime: 2022-11-29T20:51:00Z
-    webUrl: "https://www.computerweekly.com/news/252527818/AWS-doubles-down-on-data-management"
-    ampWebUrl: "https://www.computerweekly.com/news/252527818/AWS-doubles-down-on-data-management?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252527818/AWS-doubles-down-on-data-management?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
-  - title: "AWS Announces Amazon Security Lake"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced Amazon Security Lake, a service that automatically centralizes an organization's security data from cloud and on-premises sources into a purpose-built data lake in a customer's AWS account so customers can act on security data faster."
-    publishedDateTime: 2022-11-29T19:35:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-amazon-security-lake-/2022/11/29/9721267.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 36
   - title: "AWS Announces Amazon Security Lake"
     excerpt: "AWS has announced Amazon Security Lake, a service that automatically centralizes an organization’s security data from cloud"
     publishedDateTime: 2022-11-30T16:06:00Z
@@ -162,15 +142,6 @@ related:
       name: The Buffalo News
       domain: buffalonews.com
     quality: 32
-  - title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
-    publishedDateTime: 2022-11-29T20:15:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
 secured: "y0zpOcgw7V4txnNwV+IPc8+nlIeTDWCX1zyp+dk5fbzgkBevb0cuYHikJORDOSdivBYP4RxhUFQIt3//LhYGyKwNKYHgpZAFxzzgK1vGUZ3ir+Ivsyh4PXYz4Y2oYlgKFn+fskYHNy2neAknVFXqxv/acWrWSUX50GJFYFyPsaCSDflynCBD2xrBtOXG6Bvod6O2IllFs95CtqqX4o9W84T/KIokCVzTdFfqyPMVNHsgXGVYH7ZKOERTuO1Vc0TLE9+9UjrYnyyM53BA9rk8NJri5QgAGn3rtsjaP6ymSZEEvFM0hrbX22vmO0M1WO6YIjQgDWJx2VUKREb3GGOBN/b5T8BIWr7DO8zpqMAdigQ=;vHtiK+iMxd5gVd7w0xKCvA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-11-sampling-pipelining-method-deep-
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-sampling-pipelining-method-deep-large.amp"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: techxplore
@@ -26,17 +26,6 @@ images:
     width: 396
     height: 263
     isCached: true
-
-related:
-  - title: "Machine learning model builds on imaging methods to better detect ovarian lesions"
-    excerpt: "Although ovarian cancer is the deadliest type of cancer for women, only about 20% of cases are found at an early stage, as there are no real screening tests for them and few symptoms to prompt them. Additionally,"
-    publishedDateTime: 2022-11-29T20:18:00Z
-    webUrl: "https://medicalxpress.com/news/2022-11-machine-imaging-methods-ovarian-lesions.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 14
 
 secured: "5leyGMuFKRQ43hCOowlwJLKBsVwjbfe9wIZp2cIqr6bF1rlWfvL+N9u/0L43V1CjYR+JyjGlz0YLE0OkU/Q99ENJOGrgs1ITu0r20tNsz9MAGlPyZilei4Zwp5omzrDBioTMcbSKRAzO2BW/z+nrkdKCjkhCfXRCs924QBp161XQkv/IfJxS/RXbqn4Cmbu/GtoILa2AM6c28vd2cZDFKMXN0mLp+9OKD+9yu9KCzizIrTIb1a1+5lxETXZbBQwRIK1SPy35yfbr3EpPcpP1uB5WfUeGyIaOkY3TlVQmQ1mT8K3zNuO+x4rJdUX08NzZfD0MQV6MebFKntxs0nDGvk/ACs6LLkV3A/SA6GR5bvgg+GP8QXnnWaeZMqKKId4KIHwOCoeXkZB+NFBaAjI17Q3jUiwou1AcYURfCaDgS6Uigl6ts5mEbT1yq3LMyODJQoFAAckEFFEomLxysR7+gAiCID8+7AKHYMH0iZUry3ujT/KejunsxQ9fh2XmBMH10hhuHijioSddw7k3LrY5EA==;IMhMQzRO7q/pKwbZ2qzoAw=="
 ---

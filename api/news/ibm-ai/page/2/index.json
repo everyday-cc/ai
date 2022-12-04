@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-10-25-red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project.md",
-      "title": "Red Hat and IBM team up to enhance AIops with an open-source project",
-      "excerpt": "AIops is what you get when you combine big data and machine learning to automate IT operations processes, including event correlation, anomaly detection and causality determination. At least, that’s how Gartner defines it.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project/",
-      "originalUrl": "https://venturebeat.com/ai/red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1365534802.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 748,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project/amp/",
-      "publishedDateTime": "2022-10-24T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-12-bigbearai-names-amanda-long-as-ceo.md",
       "title": "BigBear.ai Names Amanda Long as CEO",
       "excerpt": "By Stephen Nakrosis BigBear.ai Inc. on Tuesday said Amanda Long has been named chief executive, effective Oct. 12. She succeeds Dr. Reggie Brothers, who",
@@ -1380,6 +1328,51 @@
       "topics": [
         "IBM AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story.md",
+      "title": "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story",
+      "excerpt": "New Jersey, NJ -- (SBWIRE) -- 09/13/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ...",
+      "sourceUrl": null,
+      "webUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-54",
+      "originalUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-54",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insurancenewsnet.com",
+        "domain": "insurancenewsnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI",
+        "IBM AI"
       ]
     }
   ],

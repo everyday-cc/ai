@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2022/11/30/how-zero-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2022/11/30/how-zero-shot-ai-is-poised-to-revolutionize-the-chatbot-industry/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "As chatbot sophistication grows, AI debate intensifies"
+    excerpt: "California start-up OpenAI has released a chatbot capable of answering a variety of questions, but its impressive performance has reopened the debate on the risks linked to artificial intelligence (AI) technologies."
+    publishedDateTime: 2022-12-04T11:42:00Z
+    webUrl: "https://techxplore.com/news/2022-12-chatbot-sophistication-ai-debate.html"
+    ampWebUrl: "https://techxplore.com/news/2022-12-chatbot-sophistication-ai-debate.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-chatbot-sophistication-ai-debate.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/the-start-up-openai-de.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "This AI chatbot is blowing people’s minds. It thinks out of the box, comes up with detailed answers"
     excerpt: "From historical arguments to poems on cryptocurrency, users took to Twitter to share their surprise at the detailed answers ChatGPT provided, after the startup sought user feedback on the AI model Wednesday."
     publishedDateTime: 2022-12-03T06:20:00Z

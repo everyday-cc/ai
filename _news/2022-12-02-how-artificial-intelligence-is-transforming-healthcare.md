@@ -7,8 +7,8 @@ originalUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-is-tra
 webUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-is-transforming-healthcare"
 type: article
 quality: 66
-heat: -1
-published: false
+heat: 86
+published: true
 
 provider:
   name: Nasdaq
@@ -20,36 +20,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "AI HealthCare Apps for Companies That Put HealthFirst"
-    excerpt: "This blog profiles leading AI Healthcare Apps for companies that are putting health first. With staggering increases in depression and anxiety across the globe, all board directors and CEOs should have mental health as one of their top business priorities."
-    publishedDateTime: 2022-11-29T19:32:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2022/11/29/ai-healthcare-apps-for-companies-that-put-healthfirst/"
-    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/11/29/ai-healthcare-apps-for-companies-that-put-healthfirst/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/11/29/ai-healthcare-apps-for-companies-that-put-healthfirst/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/638658b2e739943876a067da/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 971
-        isCached: true
-  - title: "Artificial Intelligence Can Help Therapists Ease Mental Healthcare"
-    excerpt: "Here to help and not replace, AI in mental healthcare can assist therapists in providing an enhanced personalized session for their patients."
-    publishedDateTime: 2022-12-01T23:56:00Z
-    webUrl: "https://www.bbntimes.com/science/ai-can-help-therapists-ease-mental-healthcare"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 54
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/AI_Can_Help_Therapists_Ease_Mental_Healthcare.png"
-        width: 1530
-        height: 1018
-        isCached: true
   - title: "AI in Health Care: No, the Robots Are Not Taking Over"
     excerpt: "The AI robots are not taking over ... board chair of the Alliance for Artificial Intelligence in Healthcare and CEO of Cyclica Inc. Machine learning, a form of artificial intelligence where a computer learns over time as it gets more and more data ..."
     publishedDateTime: 2022-12-01T19:31:00Z
@@ -59,34 +29,15 @@ related:
       name: WebMD
       domain: webmd.com
     quality: 40
-  - title: "New collaboration focuses on building health research startups to advance healthcare"
-    excerpt: "The University of North Carolina at Chapel Hill, through the Eshelman Institute for Innovation, announced a collaboration with Amazon Web Services to build an environment for startup creation that uses cloud technology to translate UNC-Chapel Hill digital health research expertise into commercialized solutions."
-    publishedDateTime: 2022-12-01T00:30:00Z
-    webUrl: "https://www.news-medical.net/news/20221130/New-collaboration-focuses-on-building-health-research-startups-to-advance-healthcare.aspx"
+  - title: "Keeping a finger on the pulse of healthcare’s digital transformation"
+    excerpt: "and * Artificial intelligence (AI), machine learning (ML) and analytics – using AI and predictive analytics to effectively build detailed industry insights with a view to improving proactive preventive care. The rise of OT in the healthcare arena “The ..."
+    publishedDateTime: 2022-12-02T08:01:00Z
+    webUrl: "https://it-online.co.za/2022/12/02/keeping-a-finger-on-the-pulse-of-healthcares-digital-transformation/"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 34
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-  - title: "Google Cloud’s health strategy, NIH’s Covid data dilemma, & rumored telehealth mergers"
-    excerpt: "The search giant is taking a stab at monetizing its artificial intelligence for health care markets through a new deal with iCAD, a cancer therapy company that plans to license Google Health ’s breast cancer detection and risk prediction models and incorporate them into its clinical practice."
-    publishedDateTime: 2022-11-29T21:27:00Z
-    webUrl: "https://www.statnews.com/2022/11/29/google-cloud-nih-health-covid-data/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 16
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2022/03/GettyImages-1237602458-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
 
 secured: "6K55nxV0LdnWeBG7ZeaicbEYX+Gy1dWANzM8MubALVS5DuP5LFOYUYbMyAx2mmcAaCTgRGKDTK/yZ1rG+kILMEy0nKceEKSU74d15OzjUSiqX1qQqYkawCt8zTivjOYyNwCQqjKRoLiyF99fK9QJvVvCJgcW7H5nsqASGzRnjr2FhOqVXbJdFOn4JWKxStr8lqtq/z5FC2AkUB44UOq0FHsMtJWh/t7b7ArP5pVaB8vqlTcboK347InisY2Ie33Px+RpZtMT7L9/xT8G9ujur/Z1FwT4bEmSzohivHvk4DYlY7bt98Bek1lOflgoep064N7iy5YR5Ausq9/H/5ESWBXGOIXKzDZWPNM9kpraWMc=;TxgWnhXz8Yz7AHfma7gKBw=="
 ---

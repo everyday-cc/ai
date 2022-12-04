@@ -110,26 +110,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "AWS doubles down on data management"
-    excerpt: "Cloud giant Amazon Web Services declared a bold vision to eliminate the need to extract, transform and load data alongside other efforts to address business problems in domains like cyber security and"
-    publishedDateTime: 2022-11-29T20:51:00Z
-    webUrl: "https://www.computerweekly.com/news/252527818/AWS-doubles-down-on-data-management"
-    ampWebUrl: "https://www.computerweekly.com/news/252527818/AWS-doubles-down-on-data-management?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252527818/AWS-doubles-down-on-data-management?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
-  - title: "AWS Announces Amazon Security Lake"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced Amazon Security Lake, a service that automatically centralizes an organization's security data from cloud and on-premises sources into a purpose-built data lake in a customer's AWS account so customers can act on security data faster."
-    publishedDateTime: 2022-11-29T19:35:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-amazon-security-lake-/2022/11/29/9721267.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 36
   - title: "AWS Announces Amazon Security Lake"
     excerpt: "AWS has announced Amazon Security Lake, a service that automatically centralizes an organization’s security data from cloud"
     publishedDateTime: 2022-11-30T16:06:00Z
@@ -157,15 +137,6 @@ related:
       name: The Buffalo News
       domain: buffalonews.com
     quality: 32
-  - title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
-    publishedDateTime: 2022-11-29T20:15:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
 secured: "zdSEC8ObqksJWmQjHGqUwxfljXpkYYiew66EGBI0udwa9GxnetmaGo1ObMG5Q55LiQ7ORxLw2ygIHKifUF1GtivhmbZVKPhH8omPHZqIKaCEjBZQM5heUIx7C171LP4vQD8zINkGsBvDZAy2W4bYGsGDNcT925Wey4f3Jv4FM4uNxIxkDhAqslwuxulmzYMlTIam65NGKVvWyxabg12vyogUiYoYl8k6l48kNLIzClX5EzaCqWS9wBh3UnhXFxWKIubQIe59X5A1b8S2gvTEiddrfZlcMS8VCUbDJzIatayqhVslJZkehur3NQNMnyU2tS5l2A7WIKBHpyLWTfaCdbQGrdEwgVUR9s+z8spvCAtWEd+Bq4aBNTIJJtJFJcHGus7enKImgE17icepGdg+RY+l1S+GU0JEiLpliotThyyPjQNnhd9Cn+oGrp6uf3Hd+X8tPg8hDvS9hfLFhongNN0kxj3hw0lMVYfZHuEAF2FwneiW993hjInd8DUXJPNdba1k0eeekYOYQNfJbBsTJw==;jhIxe9mtkRFQtJt8DUwWxw=="
 ---

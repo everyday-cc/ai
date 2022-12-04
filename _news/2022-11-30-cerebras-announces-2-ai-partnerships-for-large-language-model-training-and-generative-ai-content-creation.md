@@ -60,15 +60,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "Cerebras Systems and Jasper Partner on Pioneering Generative AI Work"
-    excerpt: "The rise of generative AI is one of the most important technological waves in recent history, enabling the ability to write documents, create images, and code software all from ordinary text inputs. Based on sophisticated generative AI models,"
-    publishedDateTime: 2022-11-29T20:57:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/29/9721326.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "Cerebras Announces 2 AI Partnerships – for Large Language Model Training and ‘Generative AI’ for Content Creation"
     excerpt: "Cerebras Systems, maker of the “dinner plate sized” AI processor, announced two alliances today, one with Cirrascale Cloud Services, provider of deep learning solutions for AVs, NLP and computer vision,"
     publishedDateTime: 2022-11-29T22:58:00Z

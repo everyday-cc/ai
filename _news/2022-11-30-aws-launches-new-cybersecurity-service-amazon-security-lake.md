@@ -34,15 +34,6 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "AWS previews Security Lake to centralize security data management"
-    excerpt: "AWS re:Invent that automatically centralizes an organization’s security data from cloud and on-premises sources into a data lake in order to ease security data management. The new service, called Amazon Security Lake,"
-    publishedDateTime: 2022-11-29T19:52:00Z
-    webUrl: "https://siliconangle.com/2022/11/29/aws-previews-security-lake-centralize-security-data-management/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
 
 secured: "qW4HOZYc5xwug2Gk3LD+YZSW1IP4m0zL1li9CJtUQGGfBkE5zme8U0/qSSH+MmZ8pNzn5+lbSuaSHaZGkPE7GSAiKKstxHDN+6k2ZqKDsfonCxleLaBB+8ieZoUzVGKA9ILurA6ePpdWPXgw/44Q0rYN6S5hAukDO+++1Pv6djco96fmxho3tAZmqebDsTmVI2+z62HXMRadWA18I4rMfKC3VVO+sEtgcGns9RIFShEHv/yLd6GVLJBBFpVXX9A2uE7+RMAwBMACe2hTVRFMB/J7xHGTNdZ2mRFziXeCinhw0UgXc5cn1F4K9kp4RccWfqqy4xIU3odzJa7qOqKNu+L9PzWdHtW5Qb7Ndd6qw25OuAztDMvkqab4/6q+U2g7jBBE3t/3FDvv7PT8IQtjQSr/0yJDBizgJUuMZXM7huRBcWV3xpkbZOJuo4x4fcvHaLh91zS7deuWJ9IXnsQ3BYxZHnGdkrh9aSvsbMTSpAUo2R2rZLwjOC4xVyFJh0fzSXR3wtG7e6sSKUr5M00huw==;RJ1eIdJiJvgT+yhtzeH7tw=="
 ---

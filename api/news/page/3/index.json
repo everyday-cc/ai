@@ -97,50 +97,6 @@
       ]
     },
     {
-      "path": "_news/2022-12-01-sampling-and-pipelining-method-speeds-up-deep-learning-on-large-graphs.md",
-      "title": "Sampling and pipelining method speeds up deep learning on large graphs",
-      "excerpt": "Graphs, a potentially extensive web of nodes connected by edges, can be used to express and interrogate relationships between data, like social connections, financial transactions, traffic, energy grids,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-11-sampling-pipelining-method-deep-large.html",
-      "originalUrl": "https://techxplore.com/news/2022-11-sampling-pipelining-method-deep-large.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/sampling-and-pipelinin-1.jpg",
-          "width": 396,
-          "height": 263,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-11-sampling-pipelining-method-deep-large.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-sampling-pipelining-method-deep-large.amp",
-      "publishedDateTime": "2022-11-30T09:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-01-research-suggests-ai-could-predict-heart-attack-or-stroke-with-one-x-ray.md",
       "title": "Research Suggests AI Could Predict Heart Attack or Stroke with One X-Ray",
       "excerpt": "At the annual meeting of the Radiological Society of North America, researchers shared preliminary findings on the use of artificial intelligence in predicting ... trained radiologists as of now.\" The research is still in its early stages and has yet ...",
@@ -149,7 +105,7 @@
       "originalUrl": "https://www.entrepreneur.com/business-news/ai-could-predict-your-risk-of-heart-attack-with-one-x-ray/440148",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 148,
       "tags": null,
       "images": [
         {
@@ -399,7 +355,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2022/11/30/how-zero-shot-ai-is-poised-to-revolutionize-the-chatbot-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -953,7 +909,7 @@
       "originalUrl": "https://venturebeat.com/ai/cerebras-unveils-new-partnerships-for-llm-and-generative-ai-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1235,6 +1191,58 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-does-ethical-ai-development-rely-on-the-algorithmically-underserved-chais-mission.md",
+      "title": "Does Ethical AI Development Rely On The “Algorithmically” Underserved? CHAI’s Mission",
+      "excerpt": "Building this kind of standardization into the relatively black box nature of AI development is among the priorities of The Coalition for Health AI (CHAI), which launched earlier this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sethjoseph/2022/11/29/does-ethical-ai-development-rely-on-the-algorithmically-underserved-chais-mission/",
+      "originalUrl": "https://www.forbes.com/sites/sethjoseph/2022/11/29/does-ethical-ai-development-rely-on-the-algorithmically-underserved-chais-mission/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63863f40e044f56947db977a/0x0.jpg?format=jpg&width=1200",
+          "width": 1188,
+          "height": 1584,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sethjoseph/2022/11/29/does-ethical-ai-development-rely-on-the-algorithmically-underserved-chais-mission/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sethjoseph/2022/11/29/does-ethical-ai-development-rely-on-the-algorithmically-underserved-chais-mission/amp/",
+      "publishedDateTime": "2022-11-29T08:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     }
   ],

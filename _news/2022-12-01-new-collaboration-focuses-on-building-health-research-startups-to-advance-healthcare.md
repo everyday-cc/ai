@@ -26,67 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI HealthCare Apps for Companies That Put HealthFirst"
-    excerpt: "This blog profiles leading AI Healthcare Apps for companies that are putting health first. With staggering increases in depression and anxiety across the globe, all board directors and CEOs should have mental health as one of their top business priorities."
-    publishedDateTime: 2022-11-29T19:32:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2022/11/29/ai-healthcare-apps-for-companies-that-put-healthfirst/"
-    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/11/29/ai-healthcare-apps-for-companies-that-put-healthfirst/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/11/29/ai-healthcare-apps-for-companies-that-put-healthfirst/amp/"
+  - title: "UNC and AWS partner to launch 10 new digital health companies"
+    excerpt: "So, there's no shortage of companies in digital health (in fact, there are so many right now that the space starting to see a correction through consolidation) but get ready for more, as the University of North Carolina at Chapel Hill,"
+    publishedDateTime: 2022-11-30T23:17:00Z
+    webUrl: "https://vator.tv/news/2022-11-30-unc-and-aws-partner-to-launch-10-new-digital-health-companies"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: vator
+      domain: vator.tv
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/638658b2e739943876a067da/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 971
-        isCached: true
-  - title: "How Artificial Intelligence Is Transforming Healthcare"
-    excerpt: "Artificial Intelligence (AI) is already transforming industries from banking and retail to transportation and energy and has the potential to significantly improve every industry it touches. Since some version of “improve my health” will likely be near ..."
-    publishedDateTime: 2022-12-01T20:11:00Z
-    webUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-is-transforming-healthcare"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 66
-  - title: "Artificial Intelligence Can Help Therapists Ease Mental Healthcare"
-    excerpt: "Here to help and not replace, AI in mental healthcare can assist therapists in providing an enhanced personalized session for their patients."
-    publishedDateTime: 2022-12-01T23:56:00Z
-    webUrl: "https://www.bbntimes.com/science/ai-can-help-therapists-ease-mental-healthcare"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 54
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/AI_Can_Help_Therapists_Ease_Mental_Healthcare.png"
-        width: 1530
-        height: 1018
-        isCached: true
-  - title: "AI in Health Care: No, the Robots Are Not Taking Over"
-    excerpt: "The AI robots are not taking over ... board chair of the Alliance for Artificial Intelligence in Healthcare and CEO of Cyclica Inc. Machine learning, a form of artificial intelligence where a computer learns over time as it gets more and more data ..."
-    publishedDateTime: 2022-12-01T19:31:00Z
-    webUrl: "https://www.webmd.com/a-to-z-guides/news/20221201/no-the-robots-are-not-taking-over"
-    type: article
-    provider:
-      name: WebMD
-      domain: webmd.com
-    quality: 40
-  - title: "Google Cloud’s health strategy, NIH’s Covid data dilemma, & rumored telehealth mergers"
-    excerpt: "The search giant is taking a stab at monetizing its artificial intelligence for health care markets through a new deal with iCAD, a cancer therapy company that plans to license Google Health ’s breast cancer detection and risk prediction models and incorporate them into its clinical practice."
-    publishedDateTime: 2022-11-29T21:27:00Z
-    webUrl: "https://www.statnews.com/2022/11/29/google-cloud-nih-health-covid-data/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 16
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2022/03/GettyImages-1237602458-1024x576.jpg"
-        width: 1024
-        height: 576
+      - url: "https://vatortv.s3.amazonaws.com/images/videos/main/21910.jpg"
+        width: 320
+        height: 240
         isCached: true
 
 secured: "Izd0zFTUWbLCB2M8OaF0y0HgcYvEg+LGMGOt6ubtWB4LGET/YpmlZXpheeH0YhEp+tcrT0buvKShlJTtVTwjGEfLHUCbUsTczR4VdzE1ZDQBZm6fP1LDtCHsPziRra85N54Tm9xHyESZGeUqONilaatXcNBTxv0v9bQ82/H7okpAX5XRt++SpmiolJMpVGvv86vw/4mv2+kFf+Ds+UxHwH1sPb/6r/WOvQ3oF/iwYs+fAc9z9XzhXSLySBlfKpr7P3LxlRYWkOqHyktSEAY+759+bKk1xuwdxXqdopjcZh1DjdP9UXn5hve/VOrwMKKml/qPJo5pUBPz/765Eh/lJLSRKP4SmSfWg5dlZFPfnIA=;W6SNlYejG4odT2oAYBZWXA=="

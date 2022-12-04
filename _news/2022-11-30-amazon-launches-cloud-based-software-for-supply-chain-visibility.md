@@ -24,17 +24,6 @@ images:
     height: 246
     isCached: true
 
-related:
-  - title: "AWS Announces AWS Supply Chain"
-    excerpt: "In recent years, supply chains have experienced unprecedented supply and demand volatility accelerated by widespread resource shortages, geopolitics, and natural events. These disruptions put pressure on businesses to plan for potential supply chain uncertainty,"
-    publishedDateTime: 2022-11-29T19:49:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-aws-supply-cha-/2022/11/29/9721299.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
-
 secured: "scfEcQDjsthZWfhHSuNcBLcaswODfKpEnx/bDNth/kH90OjBPT2jpS5vsqqG+TnQFc2H7nAzc1AGvDY5b9PcCxTlIvG9vvvGCSu1aOobG7lnJQY14H54jBRHzEZdBHTHSYRxynuuHgITLN7UvTm4JaeFuT9Bbgnnv1NlcCt6bz65CYuJvjK2ojWNLZZZ+3rW7b9+XoXGKkXpeLfGEBZeS4CYdZ98wN+7aZORffyf3km5VxjcikbpPJHn+nN2A7QX1e3oZlESeUxs6I/wAlsZ4sBmP2eiFLzKthJ/h4eo6kqUIrI5XrPAVpMNwGHGZIgJaRUvxAwU6CKMeMXNreB4JpowvkDdd8htTa38cyIx4fbwAb/e1ShFv2HzzDNYzeMYxJl3hROg2BQPaokEKgzBuPnr2VPa48CpS8pI/bF2BJCtbY7he4L1eZs6LxNTpQnE0JRqLwEKIZReHW8LIb1xdGIwDjNkUPQ7QJhp9xdiIhQM39ng+ibnFyGK+kLeK/Ml8U3refB153l+cQMbpVZUcA==;BLI7g+rnP3mDnG+ph9LZ1Q=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/12/02/openais-chatgpt-shows-why-implemen
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/02/openais-chatgpt-shows-why-implementation-is-key-with-generative-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Explainer | Everything you need to know about AI bot ChatGPT"
+    excerpt: "The AI bot known as ChatGPT has taken the internet by storm but what exactly is it, and how does it work? ChatGPT is a conversational dialogue model, trained by AI and machine learning to understand and respond to natural human language."
+    publishedDateTime: 2022-12-04T12:17:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/explainer-everything-you-need-to-know-about-ai-bot-chatgpt-9647341.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/explainer-everything-you-need-to-know-about-ai-bot-chatgpt-9647341.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/explainer-everything-you-need-to-know-about-ai-bot-chatgpt-9647341.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 57
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/12/ChatGPT-435x435.jpg"
+        width: 435
+        height: 435
+        isCached: true
   - title: "OpenAI debuts new conversational AI system"
     excerpt: "OpenAI LLC on Wednesday detailed ChatGPT, an artificial intelligence system that can understand and answer complex natural language questions. ChatGPT is based on the advanced GPT-3 neural network that OpenAI first debuted in 2020. GPT-3 can perform a ..."
     publishedDateTime: 2022-12-01T20:40:00Z

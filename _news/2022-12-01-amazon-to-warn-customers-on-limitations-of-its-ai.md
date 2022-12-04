@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Amazon To Warn Customers On Limitations Of Its AI"
-excerpt: "Amazon.com Inc is planning to roll out warning cards for software sold by its cloud-computing division, in light of ongoing concern that artificially intelligent systems can discriminate against different groups,"
-publishedDateTime: 2022-11-30T16:09:00Z
-originalUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985"
-webUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985"
-ampWebUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1"
+title: "Amazon to Warn Customers on Limitations of Its AI"
+excerpt: "Akin to lengthy nutrition labels, Amazon's so-called AI Service Cards will be public so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription."
+publishedDateTime: 2022-11-30T17:07:00Z
+originalUrl: "https://money.usnews.com/investing/news/articles/2022-11-30/amazon-to-warn-customers-on-limitations-of-its-ai"
+webUrl: "https://money.usnews.com/investing/news/articles/2022-11-30/amazon-to-warn-customers-on-limitations-of-its-ai"
 type: article
-quality: 59
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://d.ibtimes.com/en/full/4389003/amazon-logo-company-logistics-center-lauwin-planque.jpg"
-    width: 1200
-    height: 800
-    isCached: true
 
 related:
   - title: "3 ways emotion AI elevates the customer experience"
@@ -69,6 +65,6 @@ related:
       domain: iol.co.za
     quality: 19
 
-secured: "hmazuQe2LTMPSj+P41WJlrqyNW776wCcx1UtcPVDUOgRHjKGzA68DPYpcVShyiF52SyVSSUVs92xTZC1rmL9JjPgedP92FWnL+mEOeEjiUuXbAeTO50y8TUvMWL25X4Ik8PtzNJoajco+Qha3dQFlYMNW+TAeKWBgISPFP3M3GvHSSCAeErhUM7vdQD5jLP0Z1gMf97S6/OPTxsV1h7ys5ks91uGRBe+uT+/7nUeMq8sXKn3ekau3TBa0wMUjeBLDSeW3EtQMUuXF/OkzKbkA7i4mMojEW1tXwdqyqgFEJOFPFAJv0hH8KvVVt6mfUxZ9GNr6BGFIl4J7kvIULTxjE+fsnxR4tVKxa2OJLIeJMg=;nAWTM1x+UwX5GkptmNCCvw=="
+secured: "zPAsSI3LIu0KAob/KUIpsAwdKZYvDJUezGFlBxPUmkXKsHC6XMKoyuk/5l/ljYKnATdhap1SZMJGbf4yDLybBo/JxLbZYjOXJ8qVtZgTAUB5ilnoazda9t4v+pS2da7Y15FtGsTy+Q9R9uYLUvMKjGFixKLJJefOGHrd+vlp76HsNjG/DUHrgiwMKc+uiqqaXblUFcw+NAat1Wx+119fUC50u0zRg/n0ls6WF+TSaIEyGRRReqimh/+aIZX0xz/2UnqJhFFqIW9NAK2sjjMfcU9Ax0VF93GThH//9j2gAzoaQBFAq1mzM4+lvB9XAFjAJfW6Pe3hxLetvHcZARbNMzS/lV1n+unW2FvIFRo0P9pMmQUPGXmt3KXhdyv1ydzI1hGRYeaEJrOQHlT3Ha6QGOKHpt2B9JeinFFKoSQagMpVU59SzzCBqh8WZEUPZ9ODchFCJO5fPhlXVnGw7hMKOebDVAaCtg+Cc63HiASN2tqupP1si8aEs/AzdvC6wejCHlLBwol2TbXstZWtLMuWIQ==;bQMr1elBZBDVaX3pLnP2Pw=="
 ---
 

@@ -444,50 +444,6 @@
       ]
     },
     {
-      "path": "_news/2022-12-01-sampling-and-pipelining-method-speeds-up-deep-learning-on-large-graphs.md",
-      "title": "Sampling and pipelining method speeds up deep learning on large graphs",
-      "excerpt": "Graphs, a potentially extensive web of nodes connected by edges, can be used to express and interrogate relationships between data, like social connections, financial transactions, traffic, energy grids,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-11-sampling-pipelining-method-deep-large.html",
-      "originalUrl": "https://techxplore.com/news/2022-11-sampling-pipelining-method-deep-large.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/sampling-and-pipelinin-1.jpg",
-          "width": 396,
-          "height": 263,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-11-sampling-pipelining-method-deep-large.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-sampling-pipelining-method-deep-large.amp",
-      "publishedDateTime": "2022-11-30T09:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-30-how-zero-shot-ai-is-poised-to-revolutionize-the-chatbot-industry.md",
       "title": "How ‘Zero-Shot’ AI Is Poised To Revolutionize The Chatbot Industry",
       "excerpt": "\"AI will change the way that we work and run our businesses. Those who are best prepared, and who take advantage of new opportunities now, will reap the rewards.\"",
@@ -496,7 +452,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2022/11/30/how-zero-shot-ai-is-poised-to-revolutionize-the-chatbot-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1457,6 +1413,49 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-11-24-massive-traffic-experiment-pits-machine-learning-against-phantom-jams.md",
+      "title": "Massive traffic experiment pits machine learning against 'phantom' jams",
+      "excerpt": "Many traffic jams are caused by human behavior: a slight tap on the brakes can ripple through a line of cars, triggering a slowdown—or complete gridlock—for no apparent reason.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-11-massive-traffic-pits-machine-phantom.html",
+      "originalUrl": "https://techxplore.com/news/2022-11-massive-traffic-pits-machine-phantom.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/massive-traffic-experi.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-11-massive-traffic-pits-machine-phantom.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-massive-traffic-pits-machine-phantom.amp",
+      "publishedDateTime": "2022-11-24T01:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Facial recognition can help conserve seals, scientists say"
-excerpt: "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but a group of scientists believe they’ve found a new use for it ..."
-publishedDateTime: 2022-11-28T06:40:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/facial-recognition-conserve-seals-scientists-93857404"
-webUrl: "https://abcnews.go.com/US/wireStory/facial-recognition-conserve-seals-scientists-93857404"
+excerpt: "FREEPORT, Maine (AP) — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for ..."
+publishedDateTime: 2022-11-28T03:01:00Z
+originalUrl: "https://thetandd.com/news/science/facial-recognition-can-help-conserve-seals-scientists-say/article_0b1e48aa-d871-5f9a-ae11-aebaaba68d7b.html"
+webUrl: "https://thetandd.com/news/science/facial-recognition-can-help-conserve-seals-scientists-say/article_0b1e48aa-d871-5f9a-ae11-aebaaba68d7b.html"
 type: article
 
 provider:
-  name: ABC News
-  domain: abcnews.go.com
+  name: The Times and Democrat
+  domain: thetandd.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://bloximages.chicago2.vip.townnews.com/thetandd.com/content/tncms/assets/v3/editorial/0/b1/0b1e48aa-d871-5f9a-ae11-aebaaba68d7b/637e92fc6a849.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "1bRsGBK1NFNHlwDq0EJDFnJc6QVHU/tbg1rAV9qm37SWiTGbgL1phUiL1kZrBT5NkDcOE5TzVZMNElEb3VCPgzkBU9oNCz2G4xAbkW8wpZwk8/0YpKr9M2gWl6csrvGEBuylbWXQnu0x71n9ky55VI+vjdtvYkxsPdOohPypyf80lZH9huBcR1inl/4QQ9Q5BDFiC+tM92E3nnbFXV15Pw45q9AryOJaU2xNUu98Kv0QmQv2tc2K1E2V0DnevgjNwmRJjGfr/TnFg2dBQHK6bYYbjtTiS6zpR/+3tK5AtIkkvgmy6W4S9Uq2qnJeUK/QGU/lPZxBP/ewX4DAbBIzQrAvviY73YCofyeSKV1R2Lk=;/xE8ud5uugv5qjbhzhZB4A=="
+secured: "i2d296m2S/TiB1XqauuUDkQZsZ8vvQaKgU1/EvkPpyxq7B62BJo9n1r1bGUqHwt6pGgOZpN4zD7jzb+h+U8wAf0T0O3mJCAriWWuhc5bRXFQAeZJ0XgZCO9bTnvUQ0a4XMBu4MNmu48QjWcT4nrzaMdF0gRXqMRbV0qMP+WtGHFqFXkmVLVevbgtviyaDUktYlq8MMWzYc0qmASYprKVwuZPRvLxld81Ew7Xa/sSKnFsH2VLWGOj59cdlxtl3MKRY1ujzj7+pDobuSvOEGHf9NhgYa5JBTrwlciWJrFu121OLYtULA1ts0UevRhuBReK/bUm0RVsDkhUnFuK40uGSGmHoZXR3FD7tZPX94rVBBE=;pv1hfe9qAyQvXjNNU4P4Ig=="
 ---
 

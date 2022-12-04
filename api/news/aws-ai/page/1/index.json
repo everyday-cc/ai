@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/ai/how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -308,50 +308,6 @@
       ]
     },
     {
-      "path": "_news/2022-12-01-aws-introduces-amazon-security-lake-and-aws-clean-rooms.md",
-      "title": "AWS Introduces Amazon Security Lake and AWS Clean Rooms",
-      "excerpt": "Invent 2022: Amazon Security Lake and AWS Clean Rooms. Amazon Security Lake is a service that automatically centralizes an organization’s security data from cloud and on-premises sources into a purpose-built data lake in a customer’s AWS account,",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2022/11/30/aws-introduces-amazon-security-lake-and-aws-clean-rooms/",
-      "originalUrl": "https://www.datanami.com/2022/11/30/aws-introduces-amazon-security-lake-and-aws-clean-rooms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datanami.com/wp-content/uploads/2022/11/security-lake-shutterstock_2172246561.jpg",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T17:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2022-12-01-stability-ai-doubles-down-on-aws.md",
       "title": "Stability AI doubles down on AWS",
       "excerpt": "Generative AI startups Stability AI today announced that AWS is now its preferred cloud partner for building and deploying its models.",
@@ -360,7 +316,7 @@
       "originalUrl": "https://techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 226,
+      "heat": 196,
       "tags": null,
       "images": [
         {
@@ -686,10 +642,10 @@
     {
       "path": "_news/2022-11-29-quantiphi-awarded-two-2022-regional-and-global-aws-partner-awards.md",
       "title": "Quantiphi Awarded Two 2022 Regional and Global AWS Partner Awards",
-      "excerpt": "Quantiphi, an artificial intelligence (AI)-first digital engineering company and AWS Premier Tier Services Partner in the Amazon Web Services (AWS) Partner Network (APN), is excited to announce it is a recipient of two 2022 Regional and Global AWS Partner Awards,",
+      "excerpt": "Invent 2022, the Regional and Global AWS Partner Awards recognize a wide range of AWS Partners whose business models have embraced specialization, innovation, and cooperation over the past year. Regional and Global Partner Awards recognize partners whose business models continue to evolve and thrive on AWS as they work with customers.",
       "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/11/29/9720600.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/11/29/9720600.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/-quantiphi-awarded-two-2022-regional-global-aws-partner-/2022/11/29/9720600.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-quantiphi-awarded-two-2022-regional-global-aws-partner-/2022/11/29/9720600.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -699,7 +655,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T04:51:00-08:00",
+      "publishedDateTime": "2022-11-29T05:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -1448,6 +1404,58 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-22-implementing-amazon-forecast-in-the-retail-industry-a-journey-from-poc-to-production.md",
+      "title": "Implementing Amazon Forecast in the retail industry: A journey from POC to production",
+      "excerpt": "Amazon Forecast is a fully managed service that uses statistical and machine learning (ML) algorithms to deliver highly accurate time-series forecasts. Recently, based on Amazon Forecast, we helped one of our retail customers achieve accurate demand forecasting, within 8 weeks. The solution improved",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/implementing-amazon-forecast-in-the-retail-industry-a-journey-from-poc-to-production/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/implementing-amazon-forecast-in-the-retail-industry-a-journey-from-poc-to-production/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/22/implementingamazon-forecast-retail-industry.jpg",
+          "width": 1564,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-22T10:35:18-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     }
   ],

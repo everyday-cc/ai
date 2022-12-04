@@ -39,6 +39,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Researchers develop AI that predicts risk of heart attack with one X-ray"
+    excerpt: "At such a juncture in time, a trial presented at the Radiological Society of North America (RSNA) has shown that an artificial intelligence has been able to detect the susceptibility of a patient to heart attack and stroke with just one X-ray."
+    publishedDateTime: 2022-12-04T11:49:00Z
+    webUrl: "https://www.livemint.com/science/health/researchers-develop-ai-that-predicts-risk-of-heart-attack-with-one-xray-11670147870319.html"
+    ampWebUrl: "https://www.livemint.com/science/health/researchers-develop-ai-that-predicts-risk-of-heart-attack-with-one-xray/amp-11670147870319.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/science/health/researchers-develop-ai-that-predicts-risk-of-heart-attack-with-one-xray/amp-11670147870319.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 58
+    images:
+      - url: "https://images.livemint.com/img/2022/12/04/600x338/heart-kyjD--621x414LiveMint_1670148016454_1670148016584_1670148016584.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Deep Learning Predicts Heart Disease, Stroke Death Risk Using Single X-ray"
     excerpt: "Researchers have developed a deep-learning model that uses a single chest X-ray to predict the 10-year risk of death from a heart attack or stroke."
     publishedDateTime: 2022-11-30T17:01:00Z

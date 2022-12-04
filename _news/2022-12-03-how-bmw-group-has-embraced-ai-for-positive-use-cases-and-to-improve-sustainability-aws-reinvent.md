@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/how-bmw-group-has-embraced-ai-for-positiv
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent/amp/"
 type: article
 quality: 90
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -91,15 +91,6 @@ related:
         width: 4896
         height: 3672
         isCached: true
-  - title: "AWS re:Invent 2022: The Future of Energy Depends On Innovative Technology"
-    excerpt: "Artificial intelligence, machine learning, Internet of Things tools and cloud migration are driving digital transformation for utilities, with support from partners such as AWS."
-    publishedDateTime: 2022-11-29T20:40:00Z
-    webUrl: "https://biztechmagazine.com/article/2022/11/aws-reinvent-2022-future-energy-depends-innovative-technology"
-    type: article
-    provider:
-      name: BizTech
-      domain: biztechmagazine.com
-    quality: 18
 
 secured: "EQZb4PUz/MsXNnT0f5HyJEFplQNIW52iJoun28RorgXU9R6+Ej+0c7//h0k+6so4ZpKMNnk0TQo1sbJIZAK/A0mchZoFuO9jy8KotiKMbfptfvwxXCf/b2/B1MstUlh3p8TS725st/UpaG0UAsZZGpsxoSa17TG1iDVMlK36sv9m+dugiXXrS6MU9pDS/sSzda+KESvsd4OHugNnKza8ZH7sAoejm8N6DdF6inl/CbE5b8lf4GeqJeuy+rHYyluw+5KEXIxy0gUeGjz9fdgexx2u96WtIdrLRNSFzzaw8XplMEeJwmiyZet7TYcp3A7HtyKpD5rp/r4OWc1RKIn+QMpszIGOGjzYqM0lqTsdUC7mkxHzlHL1NWXXPUV9ZBsRTf+KnhG0xssF7O2qJ+TsHF8rm/CsRmIDqPoa7kxohF0FKrMoiLkbc03N8ycM1tV7zF/Z49RNLplM2NlQ0pakeELrwGLC7Jv+RwsJVMeUs5TEgBxufG3muN9uGVL8e5QVm5+oDA24m/3sWpG9BJdhDQ==;S1ouPyuVRSZ7h0jAtq4Elg=="
 ---

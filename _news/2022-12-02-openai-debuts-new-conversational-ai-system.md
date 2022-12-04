@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Explainer | Everything you need to know about AI bot ChatGPT"
+    excerpt: "The AI bot known as ChatGPT has taken the internet by storm but what exactly is it, and how does it work? ChatGPT is a conversational dialogue model, trained by AI and machine learning to understand and respond to natural human language."
+    publishedDateTime: 2022-12-04T12:17:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/explainer-everything-you-need-to-know-about-ai-bot-chatgpt-9647341.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/explainer-everything-you-need-to-know-about-ai-bot-chatgpt-9647341.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/explainer-everything-you-need-to-know-about-ai-bot-chatgpt-9647341.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 57
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/12/ChatGPT-435x435.jpg"
+        width: 435
+        height: 435
+        isCached: true
 
 secured: "Oclu0NjtPIsC+TON9CBSxxFEE8cU9xaCqVFC1l446ZVPYVGpuXiSuXTC05Z3aYPCxInHrpvcZ+7scJvOVN9Lo5Pgjl+Ie1/dZ8QXQWSwfIsTpqIKZFdYd8ivcFtNe5lc+p9yXjthAPRb08P6BvgNokBoJJq/MD5aF+FhWOopA0CrqrCvJJRXTEwichGQU9A6VTKsp33lboGlaG0zcsND0SLN/WP3CXrHcmCaTdX9Pj88FT4a/pwC4aj4VZ0bAifnbcPwRhFZBAqBVdTpsF8aUxAM+ORXeoitdOQtRRPh5ci/5HNoolKPFeIcBG8fNz6mT1W/GkOh//ybR/qz+/G3hmV3P5GrZL2d47Mjb1tybvc=;jTjgbNUKSSbWdojG+dS90A=="
 ---

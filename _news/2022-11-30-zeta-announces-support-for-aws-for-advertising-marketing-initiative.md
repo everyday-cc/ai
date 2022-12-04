@@ -19,17 +19,6 @@ topics:
   - AI
   - AI in Marketing
 
-related:
-  - title: "AWS Announces Five New Capabilities for Amazon QuickSight"
-    excerpt: "\"That is why more than 100,000 customers use QuickSight to power their BI needs. Today's announcement makes QuickSight even more intuitive, flexible, and accessible while streamlining BI operations with a comprehensive and fast service built for the cloud."
-    publishedDateTime: 2022-11-29T19:42:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/29/9721262.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-
 secured: "qTZWJroS05K/ox5qJsF93OX9qsCbBaprQhXBLY2Qyjlf5OGYqs4q1SGNdu7a+mvRqSWugpXVRGAVmAKG0mME1DAeHvAXg3DpZg8jWotzkIBnuA+IiRFl6yXjXXqr88R3FwzBkDmIoiaawK4XTWYfvAledahUtMTZZCMDr+oZemJp35ZexsWA2y7+qBN1tuUmjhcSIImgJYmZblXGc0LSLo9gqptyuACnjj1F8hvjM3RF7TQyOTtKIrpNqTw0lQ8we9o3IyhVn8laALLK2uBLrCYZ4S2qmx9PWduJj9L1LV0BKFiaUOppMo+w70mlcHee6urvYtnXDgZ3X8rFebWkkE4pGNu0Cn/U3zT2z1VrOc0=;ZAVA0iZgI7lKGf22OnEv/g=="
 ---
 

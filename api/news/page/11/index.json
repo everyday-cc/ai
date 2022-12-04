@@ -2,57 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2022-11-22-mitres-mdr-stress-test-winners-combine-human-intelligence-and-ai-for-stronger-cybersecurity.md",
-      "title": "MITRE’s MDR stress-test winners combine human intelligence and AI for stronger cybersecurity",
-      "excerpt": "MITRE ATT&CK Evaluations showed that MDR solutions that combine human and AI intelligence did best on a cybersecurity stress test.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/mitre-mdr-stress-test-winners-combine-human-intelligence-ai-stronger-cybersecurity/",
-      "originalUrl": "https://venturebeat.com/security/mitre-mdr-stress-test-winners-combine-human-intelligence-ai-stronger-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1-Cybersecurity-threat-illustration-e1668040608241.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/mitre-mdr-stress-test-winners-combine-human-intelligence-ai-stronger-cybersecurity/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/mitre-mdr-stress-test-winners-combine-human-intelligence-ai-stronger-cybersecurity/amp/",
-      "publishedDateTime": "2022-11-21T09:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-22-abr-time-series-processor-tsp-ai-chip-named-ces-2023-innovation-awards-honoree.md",
       "title": "ABR Time Series Processor (TSP) AI Chip Named CES 2023 INNOVATION AWARDS HONOREE",
       "excerpt": "Applied Brain Research Inc. (ABR) today announced that it has been named a CES® 2023 Innovation Awards Honoree for the ABR Time Series Processor (TSP) AI chip. This year's Consumer Electronics ...",
@@ -708,6 +657,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-21-axiomteks-ip67-outdoor-edge-ai-system-with-m12-connectors-powered-by-nvidiar-jetsontm-xaviertm-nx-aie800-904-fl-dc.md",
+      "title": "Axiomtek's IP67 Outdoor Edge AI System with M12 Connectors Powered by NVIDIA(R) Jetson(TM) Xavier(TM) NX - AIE800-904-FL-DC",
+      "excerpt": "Axiomtek - a world-renowned leader relentlessly devoted in the research, development, and manufacture of series of innovative and reliable industrial computer products of high efficiency – is pleased to introduce the AIE800-904-FL-DC,",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/11/21/9717284.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/11/21/9717284.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1952075/image_5019367_25941002.jpg",
+          "width": 400,
+          "height": 219,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-21T01:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-21-india-to-take-over-the-chair-of-the-global-partnership-on-artificial-intelligence.md",
       "title": "India To Take Over the Chair of the Global Partnership on Artificial Intelligence",
       "excerpt": "France, the outgoing council chair, will hand over the presidency to India. The minister of state for electronics and IT, Rajeev Chandrasekhar will represent India at the GPAI meeting",
@@ -885,40 +877,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-21-axiomteks-ip67-outdoor-edge-ai-system-with-m12-connectors-powered-by-nvidiar-jetsontm-xaviertm-nx-aie800-904-fl-dc.md",
-      "title": "Axiomtek's IP67 Outdoor Edge AI System with M12 Connectors Powered by NVIDIA(R) Jetson(TM) Xavier(TM) NX - AIE800-904-FL-DC",
-      "excerpt": "Axiomtek - a world-renowned leader relentlessly devoted in the research, development, and manufacture of series of innovative and reliable industrial computer products of high",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/11/n29799601/axiomteks-ip67-outdoor-edge-ai-system-with-m12-connectors-powered-by-nvidia-r-jetson-tm-xavier-tm-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/n29799601/axiomteks-ip67-outdoor-edge-ai-system-with-m12-connectors-powered-by-nvidia-r-jetson-tm-xavier-tm-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-20T23:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -1137,6 +1095,49 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-11-21-googles-machine-learning-software-has-learned-to-replicate-itself.md",
+      "title": "Google's Machine Learning Software Has Learned to Replicate Itself",
+      "excerpt": "Back in May, Google revealed its AutoML project; artificial intelligence (AI) designed to help them create other AIs. Now, Google has announced that AutoML has beaten the human AI engineers at ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/googles-machine-learning-software-has-learned-to-replicate-itself",
+      "originalUrl": "https://futurism.com/googles-machine-learning-software-has-learned-to-replicate-itself",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2017/10/google-1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-20T14:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

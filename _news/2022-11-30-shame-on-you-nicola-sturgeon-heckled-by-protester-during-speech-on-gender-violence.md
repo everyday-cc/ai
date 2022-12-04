@@ -41,20 +41,6 @@ related:
         width: 945
         height: 630
         isCached: true
-  - title: "Nicola Sturgeon heckled with 'shame on you' during male violence speech"
-    excerpt: "The Scottish Government's Gender Recognition Reform Bill would allow Scots aged 16 ... also warned that the plans were open to abuse from predatory men. In her speech, Ms Sturgeon said she had a \"determination to do whatever I can do to help build a ..."
-    publishedDateTime: 2022-11-29T20:58:00Z
-    webUrl: "https://www.telegraph.co.uk/politics/2022/11/29/nicola-sturgeon-heckled-shame-male-violence-speech/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 24
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/politics/2022/11/29/TELEMMGLPICT000317328853_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=logo-overlay"
-        width: 1024
-        height: 536
-        isCached: true
 
 secured: "fOUkVpZCENTcULdVNJUUCmPaxDp9j54fMsbxerp+BNBaEDv8ulI4m0yM9OjDQVoJ/JCavVQGPtJfg8pGZEc9vn1bre70PTGQ0VBUP5/0WHRz/DwaCdKC1/XZfbtEEXYpE16wdgfrX4BSFWNKYc3UBX8uXX9ck8CmGP/BPER7tmlGTqiYC37JX0RgMiaxWk5a7HS/0D/GfaNrcmxt2PifX7Ltqc47L8LRBetdNU8BIYznrqRh7npwPcDfTOhzX2EOi6hiuana9jL9Q0o9SJFcvj+PGvyFXRufd9s+7SDCY9xv+HgufPY6r8ptlzmDa1ihrityOqeBIZROZFXBH8hwg5xLZnW5ti7MNkxzpFmiHSwZEfjs1cbZ7EPHABQ258vPA7JW2NRk4MeDTs2g3WubD7m4mO3AX8zYy35DFHZkAyoiL/fsmn1eG7kACBOsdfpEnX/jWlubKKCXARrqBBKRtPQIWvqby7/QoqvBkCaKvgi9kibKp27h+NeQB2mrwHBp+NoDi6lrlV4ZRPaKCXCuuA==;eIzzat800yjKbj0iE9BCoQ=="
 ---

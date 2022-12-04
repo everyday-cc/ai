@@ -87,15 +87,6 @@ related:
         width: 4896
         height: 3672
         isCached: true
-  - title: "AWS re:Invent 2022: The Future of Energy Depends On Innovative Technology"
-    excerpt: "Artificial intelligence, machine learning, Internet of Things tools and cloud migration are driving digital transformation for utilities, with support from partners such as AWS."
-    publishedDateTime: 2022-11-29T20:40:00Z
-    webUrl: "https://biztechmagazine.com/article/2022/11/aws-reinvent-2022-future-energy-depends-innovative-technology"
-    type: article
-    provider:
-      name: BizTech
-      domain: biztechmagazine.com
-    quality: 18
 
 secured: "OzbkvUWkZw4ucoLAd9Mrn5V9TAlTTa8Gi17eHrtQGtlK2cnzFQW478d3tWnF+NgCGLljFECUSi+druyfE6uWH+mwCS8IdHQFCDPxQwIq/wP+UB71je4BKplJ+BH/7xK9+afe1sTeWrsjoiY/uXUg1yNKbeWtZEmIMtiRh0ycXf6uPyFxKtNzATE5pw7Sf3yVTA9caOT5AYiP6csRk/pcTvWw7YL9MSSlGfuTCWUs1OVFPFUgK3pRNKjV5BRAOVA4uEz3T6WMrOPoKR+mHEWOOy+U3srAM2TYZsEvy9eMSaZREeIwlHKLUyXw5NfvMeq1RnFp1EgxICCfKI+2P6pHdkm9EK9mYtBV+4V2EX3JPPls330QDY6CXwsBPqWxp5dBBLfCAzxwEyagdMVCU1A6j5pMRxEfv5/Z3K8W1qEVSODjhPDLh+NPzP0D+K0WH5suvGhQHj0o9rO2O8tYK3b7Q16CONqKtx/YeHakaexfWiPk8jPiCM+J7Flo0vGOXIuia8Rm4ULR/dVKEiTbmhZUYg==;BiFq1cPEqBfd0fE2GjRjeA=="
 ---

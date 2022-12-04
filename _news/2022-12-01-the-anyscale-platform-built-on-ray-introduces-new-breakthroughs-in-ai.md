@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/this-just-in/the-anyscale-platform-built-
 webUrl: "https://www.datanami.com/this-just-in/the-anyscale-platform-built-on-ray-introduces-new-breakthroughs-in-ai/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Anyscale Platform updated with new unified development environment"
-    excerpt: "One new addition is Anyscale Workspaces, which provides a unified development environment for building machine learning workloads. Developers can use tools they are already familiar with, such as VS Code or Jupyter,"
-    publishedDateTime: 2022-11-29T20:28:00Z
-    webUrl: "https://sdtimes.com/ai/anyscale-platform-updated-with-new-unified-development-environment/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 34
 
 secured: "Eq8rjW6yCxbtYJkASdmP05N04mm6vxZufzcAyNdzcCs5S3llQgvr9083WmHPbTm7XUlrSvbxiVXbM0bU6ae69tkfvIIGOZucGVo7em5XWGrq/ml763ezn11TfSXsqjcjR9aJHWWOLhHSTkJdkXP31hVaJ5uGu3w2RE3JGZnAe2QRw8rys1lBEXz/cdQyVg9UzEQ2fVHrU8JHx7j9Eg7BLMGDSAUu4U+OQ3kciF+ZSk91Wmt4A8ApXPRMmOpIsOAtoUib48Gd2/kAKbI4V8XNJSQXMQPQCIipISzySsX8VrPaEDIsy5caiimiI/CfFVmtP/IFAGJ4p0LvibqoCOAsk9vpVgCiU0uU8gROQIM/0MI=;cvrh0KzikERhzoJB3XKWNw=="
 ---
