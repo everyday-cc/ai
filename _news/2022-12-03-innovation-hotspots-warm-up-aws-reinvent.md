@@ -59,20 +59,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "AWS Introduces a Flurry of New EC2 Instances at re:Invent"
-    excerpt: "AWS has announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by AWS-designed chips, as well as several new Intel-powered"
-    publishedDateTime: 2022-11-30T02:30:00Z
-    webUrl: "https://www.datanami.com/2022/11/29/aws-introduces-a-flurry-of-new-ec2-instances-at-reinvent/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2021/11/aws_logo_shutterstock_Michael-Vi.jpg"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "Iq5Lb1aZ9TlcR88BKtuguR0T2gYnOix7ImWyePFd64Sjs1oKid+x2oKkrmLT8UfJ/qKX4IjyZ1rIUYRHiTQcZ4debOsR4DVJlsGUfCyA5qaMN93dh/4R+O6lREczxTN/yCRow0QgD+KVY7wl+smpMysSZit06nJlx8pYLrJ/mnIK15N4eHbbhGwY533B/9+MPeoRZPAwpGWhWT188lni4orgGneF8zeJPDnFsgz0c3fc+ayRjYnbHEHlyl939wQlX3YKBcv3orS4+6TA+ExgtXcYAkxRMr+YXDetdDP3A9zY9DFgpiPn4r/FoWTNsvMy4oMq6Y4VGHA/bnqg4ah03Kcwuwm3I8gsaoQAUo2uKPg=;dZRDDMOIAwEiHChnzN1FLw=="
 ---

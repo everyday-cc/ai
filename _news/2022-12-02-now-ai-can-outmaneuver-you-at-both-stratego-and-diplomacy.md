@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/12/01/now-ai-can-outmaneuver-you-at-both
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/01/now-ai-can-outmaneuver-you-at-both-stratego-and-diplomacy/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -115,6 +115,20 @@ related:
       name: Nature
       domain: nature.com
     quality: 34
+  - title: "Google Teaches AI to Play Stratego and It Becomes One of the World's Top-Rated Players"
+    excerpt: "DeepMind's latest artificial intelligence called DeepNash has beaten a human player at a game of Stratego, a strategic war game."
+    publishedDateTime: 2022-12-04T18:25:00Z
+    webUrl: "https://futurism.com/the-byte/google-teaches-ai-play-stratego-top-rated-players"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 31
+    images:
+      - url: "https://wp-assets.futurism.com/2022/12/google-teaches-ai-play-stratego-top-rated-players.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "AbFnKg8y3JApNZ6rK8jXh+L8tHNeXJO8hHvze0ON5rE7KNO/r4AjieqhH31W/pv+sYow+8LbesGesUkzYBoHHNrKAi+gXZoCckvYrfWTl38l/45K66oZ80r5nLxvliXTifq5oc1jwTZ/xSwMSYkM5ParCnz5cU2Hb2SX4MH9f4s/s9QuHmaGWqa8+0jEjZt61FbtlKklZ0rGcKJlK8z8r8VMNu/hJ+5SVfYHJ+44WwthOW69uK9E202sQ8emlGASzEeaSMdFO00HOVDNz64cvH9dAtb1ncqeCG5nwT03Ngr+X81bSrEv4jkHvMKIY6MSOk0JKiir19UpmhI57IdbBO3OUA4f0engcfOkDwvoAz1rVqoWIZ74oeN7r1zNgdHaGr/xNwzphrHz9TRspLbYnb8dYZrqbBc9eBlsHV5ZIUUXYwfV99PpHY8QBozskK0oEzEv95+FMVHJf3S6ieUxsgQArAlqO3gnSok2evResx3NzEDL2+CJmf80v/Wck9XOJ+dmHa0+SrghnEEBDr55GQ==;eRGyF/pLzdWStQgYp43nIw=="
 ---

@@ -75,20 +75,6 @@ related:
         width: 600
         height: 314
         isCached: true
-  - title: "Police can use robots that kill, San Francisco board decides"
-    excerpt: "Civil rights advocates opposed the idea, saying deploying robots capable of lethal force in any situation would lead to further militarization of police."
-    publishedDateTime: 2022-11-30T02:30:00Z
-    webUrl: "https://mtstandard.com/news/national/police-can-use-robots-that-kill-san-francisco-board-decides/article_f666d0c1-9cf1-570d-bb5c-4cbd642e9c26.html"
-    type: article
-    provider:
-      name: The Montana Standard
-      domain: mtstandard.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/mtstandard.com/content/tncms/assets/v3/editorial/f/66/f666d0c1-9cf1-570d-bb5c-4cbd642e9c26/6386d1483540b.preview.jpg?crop=1736%2C911%2C0%2C141&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "San Francisco police to soon deploy robots that can kill"
     excerpt: "Supervisors in San Francisco voted eight to three to allow city police to use potentially lethal remote-controlled robots in emergency situations. What dangers lie ahead?"
     publishedDateTime: 2022-11-30T14:51:00Z
@@ -117,15 +103,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "San Francisco debates letting police deploy robots that kill"
-    excerpt: "Supervisors in San Francisco held a heated debate Tuesday over whether to give city police the ability to use potentially lethal, remote-controlled robots in emergency situations, with both sides"
-    publishedDateTime: 2022-11-30T01:17:00Z
-    webUrl: "https://www.wavy.com/news/national/san-francisco-debates-letting-police-deploy-robots-that-kill/"
-    type: article
-    provider:
-      name: WAVY-TV
-      domain: wavy.com
-    quality: 19
   - title: "Everybody hates the idea of San Francisco’s killer robot police"
     excerpt: "A proposal that would give law enforcement the license to kill with a fleet of bomb-wielding robots has drawn a rebuke from the left and right."
     publishedDateTime: 2022-11-30T22:20:00Z

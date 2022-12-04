@@ -60,6 +60,22 @@ related:
         width: 1199
         height: 1075
         isCached: true
+  - title: "Why you need an organizational AI ethics committee to do AI right"
+    excerpt: "How forming an AI ethics committee will educate and engage your teams and customers about ethical dilemmas artificial intelligence can raise."
+    publishedDateTime: 2022-12-04T17:10:00Z
+    webUrl: "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/"
+    ampWebUrl: "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-875599880-1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 629
+        isCached: true
   - title: "The Pros And Cons Of Artificial Intelligence"
     excerpt: "Artificial intelligence, or AI, is everywhere right now. In truth, the fundamentals of AI and machine learning have been around for a long time. The first primitive form of AI was an automated checkers bot which was created by Cristopher Strachey from the University of Manchester, England, back in 1951."
     publishedDateTime: 2022-12-01T11:30:00Z

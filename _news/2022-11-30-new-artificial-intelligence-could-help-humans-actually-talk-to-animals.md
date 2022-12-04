@@ -59,21 +59,7 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Artificial Intelligence Could Help Humans Talk To Pets"
-    excerpt: "New developments in artificial intelligence and technology could help humans communicate with their pets and any other animal species that calls Earth home. Outside of the field of science, the idea of two-way human-animal communication has existed in pop culture since at least as far back as 1967,"
-    publishedDateTime: 2022-11-30T02:02:00Z
-    webUrl: "https://www.aol.com/news/artificial-intelligence-could-help-humans-020200500.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "g8S+CqOLdr3ijdVzFV9g83DuWCLWQKy6YnEJxRAYvgotv58APr6Nub5dpXi6pxcTVbA2L9aLVdPUWFuYEv6DOh+1yXOzkKoJV/90lphCH+WvEqQcNP9QEVgCO262AS8oNdOxiZ03iSSCQ0kxKBXmH8MIPjrrSGdi+irv1mkd1dBziVQtEo2WsiyLgCW8hlnqKeyIqsogQdWls6OeK2eR+kW11hqSu1uRdmLfODUzERcDgv9rCwFP4qjysiTKQRRk+Tt8iqnMXlBQFVroNd1Qpq/7+sZSWIrRsOZGPhbyRuNhQOlsbaQs63GXADaCU2dFNTQv4APP+34peOFC2H3z8kCij9fCFJDzmTEk6KDD5N4=;NUtiitOEedVb42X0a5cDTQ=="
+secured: "/tWa4zy6nSw88RloEXyiFWA6nzc0GFtU7GlQkVE7vPAdQt13hE1y45ZiskkAwn+EtZ1dEaE4Y+PN//bTJVhCXTPc4zjwYJE8xarURF/6ZYC6/52QnXBB/zwyR+PA4jsKHvh5hOR2p7ajT3Bckh4fAbqUkP3sBVaIjt7PbBOvqfjT0wbPYJxQ2oInrhH4CeBV1HyiTtV9RPQE421Rdr9Gt4Q8pgpq64nZ68BmNZ4bk34M/IkoCkxCmyNDWc3JVHWfXEhCt5dfz9BWkiHzyf6fSPbF3kkBv9b90Ay7MhJlK5FIawmAe/A+QtcrM1xn5975CRV2G5fnNc1Ts97SYGsB1Fbw7vBQAacBTlTHSziwm5A=;HnNsWcbN08b+ga4EK8nN7g=="
 ---
 

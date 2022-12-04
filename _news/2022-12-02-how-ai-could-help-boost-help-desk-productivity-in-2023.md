@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-cou
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-help-boost-help-desk-productivity-in-2023/amp/"
 type: article
 quality: 91
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
       - url: "https://cdn.newsy.com/images/videos/m/1669756816_CgX8sG.jpg"
         width: 640
         height: 360
-        isCached: true
-  - title: "Artificial Intelligence Could Help Humans Talk To Pets"
-    excerpt: "New developments in artificial intelligence and technology could help humans communicate with their pets and any other animal species that calls Earth home. Outside of the field of science, the idea of two-way human-animal communication has existed in pop culture since at least as far back as 1967,"
-    publishedDateTime: 2022-11-30T02:02:00Z
-    webUrl: "https://www.aol.com/news/artificial-intelligence-could-help-humans-020200500.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "RJ3c1ov0qoxpM9PdbOUn4BuOPIHtTumSbkJL5zuu4OgVSc39RziBdOnrycfyLWNXrBaCtdue7UDXN++EUQMEMZ+yrkKCpQ9g78ytxZffEKa/Cza3qYF9YsVu6Blrw0mvESPffWZjzefJV3yXj/2Y9wrC0RRDjw2tVxltLQkIT25TL80EgHxHuX1wxnqneD6wro2/ooRKnQOfDsdB+TIh0DqwNXaH9eqAALU0m8qxDo3dDiHO9f/j2n6M6b2Qt/LyhZp9HJYm+jPbZyARNk3Yo5zyoXqTNZT704qtIfjvVRQ4s8Wpj2z8KpdKmEpqraMNEQhhweu7T4/MG0/NMclPfcK0xkSqeKqU6Kw3mU8kHkZTtGlK98ZEgac5H9dFojAMu2QV4SyvPyi4sMkU2emmfFg1VnHxtkqX65ZfkXcOq0A+DDfTPwdKjQZjd89oPE1Uw2NjEFhwz9bKCZDjGqa5W9C4Ss0g0xCjAwUNN8lwZXH48AP2VEjJMoYWaxD7C0Kn3dLPfMBT8TiO/o0XOFBenA==;mDDT/iYNAYmP+hA2aNyBhA=="

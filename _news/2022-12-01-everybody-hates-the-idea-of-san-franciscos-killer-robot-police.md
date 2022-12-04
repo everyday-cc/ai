@@ -83,20 +83,6 @@ related:
         width: 800
         height: 550
         isCached: true
-  - title: "Police can use robots that kill, San Francisco board decides"
-    excerpt: "Civil rights advocates opposed the idea, saying deploying robots capable of lethal force in any situation would lead to further militarization of police."
-    publishedDateTime: 2022-11-30T02:30:00Z
-    webUrl: "https://mtstandard.com/news/national/police-can-use-robots-that-kill-san-francisco-board-decides/article_f666d0c1-9cf1-570d-bb5c-4cbd642e9c26.html"
-    type: article
-    provider:
-      name: The Montana Standard
-      domain: mtstandard.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/mtstandard.com/content/tncms/assets/v3/editorial/f/66/f666d0c1-9cf1-570d-bb5c-4cbd642e9c26/6386d1483540b.preview.jpg?crop=1736%2C911%2C0%2C141&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "San Francisco police to soon deploy robots that can kill"
     excerpt: "Supervisors in San Francisco voted eight to three to allow city police to use potentially lethal remote-controlled robots in emergency situations. What dangers lie ahead?"
     publishedDateTime: 2022-11-30T14:51:00Z
@@ -125,15 +111,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "San Francisco debates letting police deploy robots that kill"
-    excerpt: "Supervisors in San Francisco held a heated debate Tuesday over whether to give city police the ability to use potentially lethal, remote-controlled robots in emergency situations, with both sides"
-    publishedDateTime: 2022-11-30T01:17:00Z
-    webUrl: "https://www.wavy.com/news/national/san-francisco-debates-letting-police-deploy-robots-that-kill/"
-    type: article
-    provider:
-      name: WAVY-TV
-      domain: wavy.com
-    quality: 19
   - title: "San Francisco approved killer police robots. Will other California departments follow?"
     excerpt: "Dallas Morning News file The San Francisco Police Department was given the authorization to use remote-controlled robots for potentially deadly force after a heated debate over civil liberties and warnings about the continued militarization of police."
     publishedDateTime: 2022-12-03T12:00:00Z

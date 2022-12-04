@@ -111,6 +111,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Google Teaches AI to Play Stratego and It Becomes One of the World's Top-Rated Players"
+    excerpt: "DeepMind's latest artificial intelligence called DeepNash has beaten a human player at a game of Stratego, a strategic war game."
+    publishedDateTime: 2022-12-04T18:25:00Z
+    webUrl: "https://futurism.com/the-byte/google-teaches-ai-play-stratego-top-rated-players"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 31
+    images:
+      - url: "https://wp-assets.futurism.com/2022/12/google-teaches-ai-play-stratego-top-rated-players.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "fejdr5BRwdC/Onh+nGb6Ym/QXlBdQ3X4dwH9iqh6lF3p1/pOEw4ORlIQrOlSw4eTrToaYZCRagZ5EUFyv2sR8VfF+j15Kw4S7eyBAes2d4ugLZwzqid+i6zVMYio6TMTGivNnBXUyZQw87BCkthOZsQ5mfbAnvs6CtdK7LRGeZSOOs9QD/9XaZLf/VsWkMPtaK1L83PrIq7rmdLgYGyyPAevMmCQ7+PRuhz4NZASy/pEvyIp9+JaZ4cBa3eHohF0+zF2Fal2NPgodgNSI7SvImx8uUDkobB9GFFm9W9zbr7X9yn/6eCVMvLEUqYMy146/HId3JJ46F8eHA3OLYyRzvjS0+/1NV4Vu1jDGwsstITeRMnVd6MGswoJddUP/kh/vE+wu244eZeDJtZbG0DZ0huE00lxLQspiS8nn0f2AoYU9535VYUgsvJI0+NS8TpQfgX81SwGk+3vvJM66mDtt+H3OSMFjYAdZ+x3jiOOZeMjIzpsUKKt/2ezgMu+Kjna9bfeZshScPtyqvbjlBJYpw==;ATdA+zbm0ozhbYw0TiotVg=="
 ---

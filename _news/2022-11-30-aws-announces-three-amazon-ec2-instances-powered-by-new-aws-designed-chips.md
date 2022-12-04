@@ -1,28 +1,20 @@
 ---
 category: news
 title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
-excerpt: "Hpc7g instances featuring new AWS Graviton3E chips deliver the best price performance for HPC workloads on Amazon EC2 C7gn instances featuring new AWS Nitro Cards with enhanced networking offer the hi"
-publishedDateTime: 2022-11-29T17:25:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/b29893848/aws-announces-three-amazon-ec2-instances-powered-by-new-aws-designed-chips"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/b29893848/aws-announces-three-amazon-ec2-instances-powered-by-new-aws-designed-chips"
-ampWebUrl: "https://www.benzinga.com/amp/content/29893848"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29893848"
+excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
+publishedDateTime: 2022-11-29T20:15:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
+webUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
-    width: 800
-    height: 313
-    isCached: true
-
-secured: "oX8o2s1E0ORpePZAq1vYyyUbyu6/5A7pK0WQ1z+vY9xHYLmc0jfaIf5PWtfxPh3rk+ZwT9JQC1FlP2q3UpGomTduaIOsv8N5d0Vo6BniC6Ond7R2P4SWtSU7qXYm64PLib0qnMwqdNSjw4pnwmEBFx7QDQptk9WeDfDMmwSGnHXFK2Gf6p02Y83oeR64kvmzC/w+Ti12ze/jsMBcZNX2pGuw1fKSO+CuswNs1Xuoz88062X1wz4Zr5LYtwIm4kfCjyp2meqT98VEmXGlL5Mhg99TY5V+uRMR9F/+qqK9ag3+GSB3cFx0YjDu4wG1F/LuNl9U+v61qRXwzioHF4eEkvpko1L521ZlIRQj3o9EYE4=;4DZTcccrseWz3unVM0OfIA=="
+secured: "sbR6Ii3ieymZdQo7wWpphby0gu7owkBak1qMjGP5tM6VgrjW53yQMbC3Xrxh+lEf8DJXFAhLvSWAVN5Ab6T3kpbzOiKo0uNOU1Fpn91N4wyUB6gv32f63SFoqNII4VtbPX+Ii9s74P/Y0XQaqPYdQXAMQEiVONzrz5h5GLLDLrCg46WdZa+k3Nj0gZj3lUmRW3DPl0ZJhsytWNcmwoYGycrJMuHreeug0HRWgbuEDev7TB4syD9FnsLLyos5pd4dU/3rBsPWFdnHXaFrufQMbF4bQdokbbPZW9ld1q9QRyrobaJpYr+zZzE98PqNQJih8lrBmeUPOrGuSlSaO7/KLe971Lhly7oKS2/Mj9g9V8dffofygHC0+rZgP8Nf0OBZsN10zwTKOO0noQkHoiNHwL6gE8rE1Xp/Iq/E/pwJ9JwkCWbPzpTTWMx8aBuP56UP5rW+YH39Ze0TRbqOOYiPERs+Xx00LSteSALAIaLXZJSsx9TWLGT09A5MetOfG0BDCCt9+ueU3BY5FTgpEtW3Dw==;LthP3U1b75nQZ2iIAaqfsA=="
 ---
 

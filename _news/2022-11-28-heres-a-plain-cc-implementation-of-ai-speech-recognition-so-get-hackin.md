@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
   - url: "https://hackaday.com/wp-content/uploads/2022/11/Whisper-Console.png?w=400"
