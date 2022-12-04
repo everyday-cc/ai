@@ -34,22 +34,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 63
-  - title: "New White Paper From Front Porch Center for Innovation and Wellbeing Reveals Increased Resident and Staff Satisfaction With Dining Robots"
-    excerpt: "At a time when senior-living communities nationwide are looking for creative ways to provide even better experiences for their residents, despite the challenges brought about by staffing shortages, a"
-    publishedDateTime: 2022-11-29T15:01:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/b29890816/new-white-paper-from-front-porch-center-for-innovation-and-wellbeing-reveals-increased-resident-an"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29890816"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29890816"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 26
-    images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
-        width: 666
-        height: 282
-        isCached: true
 
 secured: "bXmnpFzXhKzNQ1AtlPcJYTs0CAzJKnmK2y7E5dcB+ncDC4AbvDYRvA9+MLqSi7DrIvzUNcs9bMmIdo02wE4BNTWvI5Q3YpHT2pwPzmQ5lKjJX+UygXzOfEClWMpfkj0J2jyWmpjMPxpNoNDJqpQf/uUzSMtjBZ8uEyizgRqUY7tB+7pzhXCC5VRRHkdMSzqCpFOC3C5P8UGPd5dcfBnfFksVJQYKPQDpPJXHmGcEU7KZ3IVARhsP4Zjf/cbpJQitQVvD+pzWk2P+UUiB6yuL90gGGu5CYSDTAIgsK4xuSsEkz/G5hRW+QFqIIoK8VHUhqdFNSH7FjfhsB2iEp5wIWEsbACQnyAZEQU6eD0dBnlo=;LfOVy/33QZbxKJSl8xGo5A=="
 ---

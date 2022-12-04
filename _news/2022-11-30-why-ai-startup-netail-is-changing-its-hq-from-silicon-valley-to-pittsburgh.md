@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2022/11
 webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2022/11/30/why-netail-is-calling-pittsburgh-new-hq.html"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -18,17 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "Andrew Ng’s Netail offers AI for retailers to ease change from physical to digital"
-    excerpt: "Netail, which closed $5M in seed funding, enables retailers to identify competitors, track their inventory, and optimize prices."
-    publishedDateTime: 2022-11-29T15:01:00Z
-    webUrl: "https://venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/"
-    ampWebUrl: "https://venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/amp/"
+  - title: "Inside Magarac's first deal; how and why Pittsburgh gained AI startup Netail"
+    excerpt: "You don’t get named as one of the most influential people in the world by Time magazine if you’re not the real deal.\""
+    publishedDateTime: 2022-11-29T17:55:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/news/2022/11/29/how-pittsburgh-gained-netail.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 14
   - title: "With Pittsburgh as its new headquarters, AI-powered retail pricing startup Netail sets its sights on growth"
     excerpt: "For Mark Chrystal, the CEO and co-founder of Netail, Pittsburgh will serve as a launching pad for a company that only recently came out of stealth mode."
     publishedDateTime: 2022-11-29T23:26:00Z

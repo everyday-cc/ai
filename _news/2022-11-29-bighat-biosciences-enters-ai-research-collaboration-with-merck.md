@@ -24,17 +24,6 @@ images:
     height: 443
     isCached: true
 
-related:
-  - title: "Envisagenics Announces Research Collaboration with Bristol Myers Squibb"
-    excerpt: "Collaboration will leverage Envisagenics' SpliceCore® AI platform for accelerated discovery and development of oncology therapeutic candidatesNEW"
-    publishedDateTime: 2022-11-29T13:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/envisagenics-announces-research-collaboration-with-bristol-myers-squibb-1031941958"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-
 secured: "Ou9PmZ3cHCC8az7Y8vMxHUJmF//kTxe8Gw7Uw5vCFJO7ALsqoh6vj3vgEj8gu4EnhZBTsABDFRM96ASxUlQU6eU6E3QQzPMCjM0e70fyhzMO/Ju1rweGNUQ8V9cGluWYZfVXaBL5evNt64bMek1gS02doNDCGjx/xaJ6iBTdWTIR6K+aqi1mduU8pTUQJ6SU/7FuUpRDIipH9ZrfmGuoKQWF+OQ/PS2azzqvWLo4EStszRGT2C5rZ1ioP5hT1rHHyemNwMdBk+YfYD1WsEqByVn1kb6BZ6rQ2lE/+sNeMl6C5BytMz/8d8GJYCJg+4lk/tXyuqBIOLV8iwnvMBtzMc8LmIdFTISihQxmNVME2XzYHJP1w7/UG7kZPYwhx4Li/9HyvE7PfkI2sNmRL76kuJcBAHjAiZ6uHcaTs/H07kVINMHTLI8SHpU9pFG1/jzdkhdYPF0hpC+Z8pKxnDQHbqa7fgnsYHvWwb581ukRgFAEeOIpsgv7YTY5zfIapFGztSx/lWEit3tUZ3i0w2/wwA==;EBc7beh8R++R7eywvd5azA=="
 ---
 

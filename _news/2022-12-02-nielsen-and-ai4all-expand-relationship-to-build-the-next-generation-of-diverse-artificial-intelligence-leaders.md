@@ -55,22 +55,6 @@ related:
         width: 740
         height: 450
         isCached: true
-  - title: "Human creators stand to benefit as AI rewrites the rules of content creation"
-    excerpt: "Generative AI programs could free human creators from tedious tasks and enable them to focus on ideation and creative thinking."
-    publishedDateTime: 2022-11-29T15:01:00Z
-    webUrl: "https://www.technologyreview.com/2022/11/29/1063736/human-creators-stand-to-benefit-as-ai-rewrites-the-rules-of-content-creation/"
-    ampWebUrl: "https://www.technologyreview.com/2022/11/29/1063736/human-creators-stand-to-benefit-as-ai-rewrites-the-rules-of-content-creation/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/11/29/1063736/human-creators-stand-to-benefit-as-ai-rewrites-the-rules-of-content-creation/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 58
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/11/dragon1200-1.png?w=1100"
-        width: 1100
-        height: 733
-        isCached: true
   - title: "Are We Ready for the Robot Revolution?"
     excerpt: "I’m not sure what she’s been watching, but she says she wants a humanoid robot that can help her around the house and accompany her when she goes shopping. When I foolishly enquired further, Gina informed me that,"
     publishedDateTime: 2022-11-30T06:54:00Z

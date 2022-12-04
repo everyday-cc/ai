@@ -189,14 +189,14 @@ related:
     quality: 32
   - title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
-    publishedDateTime: 2022-11-29T20:15:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
+    publishedDateTime: 2022-11-29T20:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-three-amazon-ec2-instances-powered-new-/2022/11/29/9721297.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
 
-secured: "MUeDTmZlI6p/RIN4XdxLrtKRMID0DMIA2M1RrL7alSP2OcBWk4xwQvgkjUwfgjirv+0YExkO5NASoU1UglIZkoSPKPmcwXoz8Nx31IcZE1b1tCYGn7yhR87dUw41kVfud+ryE3Qq3S22JohGb6aSrKeEcwNBS5hz6d9CC3mvX0rXDZyRT3HVI/aL1nhS2bwE3a9M9c/8WfhreJs6ZblgnlV9xjdul9OJkMwlX4o69e8yVxxUFUVnPNzzNt14ld1mReBdCoBg63TwdJXv4uszh2yDhgK7nISYA3sA2WTm2gCN77YYj5OK9tAYK7gnOLJYLcF7n7nXkcKd6jozhvVJFpwAyxFgKA0Ykq/rtgcpgKw=;4hqTyjLIKS0hpMEXAxVEag=="
+secured: "rPtXfYU+YTxXfj+D1wMQGWB3a1V6rcvmLEd7/fHD4pbT1rSYapHQx0VZgeLaq8uiXFVLV7Zi+aVYwZIpr1KgSpafGMYfxXqnLY3h/l84I2wd+aYDgK2ChKMIvR5yp2vo0cUN7hNKBfN9VyMRTiFXC8xJQnFmrxZCZpl0YVDmnDeRifcluTi424O2AkmvLBtZUC7PHOqiIdD5779hDwlDn4irnPjoeDMuT7CNlkLU12SMzKTUNvm8UeqL6M689s8JTW3JImUKkCbT3F2rwhdphZOqQvDDQI3vj2yks61rOTYyGOwdauPR1a4Bke5hA+vj7z9IMDoBtwGX04T0MD5WDKbqokZRU4SLqb+QJqj61H8LrT6fUBB1oK/O/qjwkobDAVnmpCLDc5a8373/KNFZqehrVw8qXKiDFK/KhDEESpz3lcbV52JEVJcFBPW8YiOHCi+o9BBGwSqs+zF35DRhFm19BM1dwc4pO5vfZmR/GTFCOde3cW5JRNWC+Cc2PnXXbf8bQOZt+bRjhpvfc07tlg==;iyjrMdmi0gu7bJmU4uLB+Q=="
 ---
 

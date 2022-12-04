@@ -7,7 +7,7 @@ originalUrl: "https://www.newelectronics.co.uk/content/news/polyn-technology-sig
 webUrl: "https://www.newelectronics.co.uk/content/news/polyn-technology-signs-first-customer-for-nasp-tiny-ai-chips"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Home Appliance Company Chooses POLYN Technology's NeuroVoice Chip"
-    excerpt: "POLYN Technology, a fabless semiconductor company providing Neuromorphic Analog Signal Processing (NASP) Tiny AI chips, announced today that it has signed the first contract for NeuroVoice, its newest product for voice processing."
-    publishedDateTime: 2022-11-29T13:09:00Z
-    webUrl: "https://www.design-reuse.com/news/53100/polyn-neurovoice-chip.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 19
 
 secured: "WrLZA06BOVLjpTSQyHa4qi93kPM09z+TDpL1YefnQVDWsK2LY+PrVbMAhriGfmrASI+GypezyoniWa7+GGmP7+/CFkbBoui9+rXIzc6HfN36RxeJnxmC0TdLmy2gXjxvkzQt+NZ5Es4KwV/vDrU78nVD1YtD0hquA4+CmkgslzqGxBx+5SAN2VxI7bn0HpByKGzlQmfBFNj2mBpeQFH4SQ8gtEx4aAu+r9Na23LtZ0gXpkhNHJnr+bBVEkhh0kGReBJYx0xKVlt7BXE9f0oizgURk4hxQiRKYz2RSzoLbbmVxDg+eIQKhpstCC8z4cvcTqk5D/x10I+zzupOVrhN1t4fiq1sm+cLXunTRM5EEzzCw/7Ax0fKvyJxKEM5dBFn55FcouvACzNIFhs7EPC6mKTokRCHJGw2zoAeTJCNvJmXtzrDA8PK6hG5h4JFkH1cwiAuQECj2Zl3GNaHm+xWOV5wLsJ9h05s7k2frnLd5D2Ad/0tHDorQpGsV0dpoGc1FsnmPXQ+jIn9GJKB5YQK7w==;jFszDJkwP/bchYXHVG8t5w=="
 ---

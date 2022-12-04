@@ -76,20 +76,6 @@ related:
         width: 4896
         height: 3672
         isCached: true
-  - title: "EOT Reveals Industrial IoT Asset Modeling and Visualization Solutions at AWS re:Invent 2022"
-    excerpt: "Invent – EOT (embassyofthings.com), a leader in software for energy, manufacturing and the Industrial Internet of Things (IIoT), has been working with Amazon Web Services (AWS) to develop two plug-and-play software-as-a-service (SaaS) solutions,"
-    publishedDateTime: 2022-11-29T14:13:00Z
-    webUrl: "https://www.eagletribune.com/region/eot-reveals-industrial-iot-asset-modeling-and-visualization-solutions-at-aws-re-invent-2022/article_40052da0-c87e-5474-b1b5-1f242917137c.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 29
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/7e/67ef45b3-cb79-5354-9369-8f8b4a808054/63862b08cea6b.image.jpg?crop=1924%2C1010%2C0%2C33&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "New tools for data integration and insight take center stage in opening keynotes at AWS re:Invent"
     excerpt: "New tools for data integration and insight take center stage in opening keynotes at AWS re:Invent - SiliconANGLE"
     publishedDateTime: 2022-11-29T23:10:00Z

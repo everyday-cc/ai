@@ -55,22 +55,6 @@ related:
         width: 740
         height: 450
         isCached: true
-  - title: "Human creators stand to benefit as AI rewrites the rules of content creation"
-    excerpt: "Generative AI programs could free human creators from tedious tasks and enable them to focus on ideation and creative thinking."
-    publishedDateTime: 2022-11-29T15:01:00Z
-    webUrl: "https://www.technologyreview.com/2022/11/29/1063736/human-creators-stand-to-benefit-as-ai-rewrites-the-rules-of-content-creation/"
-    ampWebUrl: "https://www.technologyreview.com/2022/11/29/1063736/human-creators-stand-to-benefit-as-ai-rewrites-the-rules-of-content-creation/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/11/29/1063736/human-creators-stand-to-benefit-as-ai-rewrites-the-rules-of-content-creation/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 58
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/11/dragon1200-1.png?w=1100"
-        width: 1100
-        height: 733
-        isCached: true
   - title: "Nielsen and AI4ALL expand relationship to build the next generation of diverse artificial intelligence leaders"
     excerpt: "Nielsen collaborated with AI4ALL to launch the inaugural Data Jam initiative for students in their College Pathways program."
     publishedDateTime: 2022-12-02T07:11:00Z

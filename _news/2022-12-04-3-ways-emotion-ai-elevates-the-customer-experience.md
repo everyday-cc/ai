@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/3-ways-emotion-ai-elevates-the-customer-e
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-ways-emotion-ai-elevates-the-customer-experience/amp/"
 type: article
 quality: 87
-heat: 118
+heat: 119
 published: true
 
 provider:

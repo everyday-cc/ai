@@ -2,9 +2,9 @@
 category: news
 title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
 excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
-publishedDateTime: 2022-11-29T20:15:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
-webUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
+publishedDateTime: 2022-11-29T20:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-aws-announces-three-amazon-ec2-instances-powered-new-/2022/11/29/9721297.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-three-amazon-ec2-instances-powered-new-/2022/11/29/9721297.htm"
 type: article
 quality: 17
 heat: -1
@@ -196,6 +196,6 @@ related:
       domain: buffalonews.com
     quality: 32
 
-secured: "ln1FiTkqOwK2BtUqauL6Pzt6J+IxFvOZf2LO7hgHRXqtBiVWxNRkbjutYpMjKA/TTVi+7z1RaxScKP8ZYCuRdfURYZjOrZtrvt3dKFyxFysfadtGWzvxM/T2aoqw/1HV0KvEUybphxR7eHCxDu7LhD4LUfB8Ont1AjSvT4A+7t9BZRdvNQFG50a/vSJjZn5/C6LuyOUAb6tQ78acDzvA3JO7WqOdJ3rE9icyZ3+lbdfEgfNbFsZXTJMtkIIaubRJzEp+IX829ObWeDDGx3HZURQo+NjESIz0oy0ydKpUXq0N0bV88BfRhXEA++6U/o+qoVev2QyOve6f9MSUn2tSBIWXCYs5iHZtDnEFJ/J5O1a+AvdyHn00hIqmr4BcF7MXPlUoO78kGCI4A3JjbA09GnfES1DhwiOnwNnXE6UmhNTsZZ8mz4omVKi9xQZS1NnCfYsEor1LXC/u43SMxP3x1+WC2UVNeUpKqIbdhxVDB6hKLDdK7WtA/xHseJ94nRwW+P66X9X5Tq/L3BsZ1T3O4g==;Mmw+B357/8IPeQaPg0ERMw=="
+secured: "oUqMsM3yseGAcZ5Uxk2+0Cvb/GnqDPyyOeaN/jXIeU6PmqcTwgw0O2AS/tVGxS0kTTCH/3CH5BQeEXnjAp/Zx9R5qewY8DJmcBVg59qaa+85Xkg1LfPPBLKV79a/CP1sFWEPJLoWqtScKm1dUn4HnsgqAwQsP5iOEEvIKJYyN/MzJQmAVOpJkRlSeyOpgxYvYxPm93PD/TrQ9odvU7D74+DIYVTEdpCPNDz5MzFqJ0/bGrTr+mv1kjVSexx5D17bLyQswWjaUK9SywVH21eFRdzZq6X2RZd5jdxjB6KoTw4ReTRk+yepF1bPOi7+kAiOBACZ4S89Rkd9rhz6xcSNetqBdXWYnNrBr6Lyx/MfxUGqmdI65il9Tv8m9zfMlxhW5sSaBPofvVqXCv7XLUcc55eeTjKQxZx5U+GYT258b75obxR1MRTLBBGp7PptJzUZTtUMeP3QGkgYSXlB+A0mpD8wZzokw30Kaklu8DvLbNSXNvDSkYBnAz+hVHZW9cf0EjIeT04n7P5ju4cyvS5aYw==;cx8i91gQeyBrNWnBpg+Yeg=="
 ---
 

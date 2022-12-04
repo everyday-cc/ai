@@ -18,17 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Andrew Ng’s Netail offers AI for retailers to ease change from physical to digital"
-    excerpt: "Netail, which closed $5M in seed funding, enables retailers to identify competitors, track their inventory, and optimize prices."
-    publishedDateTime: 2022-11-29T15:01:00Z
-    webUrl: "https://venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/"
-    ampWebUrl: "https://venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
   - title: "Why AI startup Netail is changing its HQ from Silicon Valley to Pittsburgh"
     excerpt: "One factor that led to Netail shifting is headquarters from Palo Alto to Pittsburgh: the expense of recruiting engineers in Silicon Valley."
     publishedDateTime: 2022-11-30T15:52:00Z
@@ -38,6 +27,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 15
+  - title: "Inside Magarac's first deal; how and why Pittsburgh gained AI startup Netail"
+    excerpt: "You don’t get named as one of the most influential people in the world by Time magazine if you’re not the real deal.\""
+    publishedDateTime: 2022-11-29T17:55:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/news/2022/11/29/how-pittsburgh-gained-netail.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 14
 
 secured: "SFtcJG+Zrxg5Cyzx/L4O8f46qjju/IiAc8LMP0wA5UVMun0li7nCjMlNTTxLnH4hNBssrCXeNLdDkpW+zPHgohZbKQDyL3/Dm5pJ7XVeUIspogg4fzWvyl03LZB89lZO4E0HDkkk+4BEStlQDyjEIqds63hCU0wi4Nl9iXetDaYOa9waIYbhqgzlyDs0ZZMBM7zAGC0/ifmbdgLxIxlQjf1Z0S71SH3yEtV1O8xi3IGLRCIlO0ubFqapaoqvIRIHY2rrwZW4+dzaXtPzO/urm+z4kGtq3fb5MXg9/pD+HJZn/H/voaMfqB76le5yEUaOQbevgq6Wz/3AhD+a6NVoxv4+Wk279F/8VuZ/zbf/MQiMyA7QXs67mAKMB1BqgrYAStmahUrEZM46frh8dv+6hMOLpsDFdACsANIiptdiuI6AwKTWLUoHEpg40gCsbfdjxzJTxCW9L4DsJ0trPA0K3BaKUAyO+6nPSRQNGDYuC3+cVghAx4G5R6Rsekq7onF5oVPMxgmD9uq/aah/2A88cw==;7X++azDNVR12kx5D4Vbifg=="
 ---

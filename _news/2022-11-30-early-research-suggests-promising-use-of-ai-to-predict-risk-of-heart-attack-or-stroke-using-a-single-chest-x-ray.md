@@ -55,6 +55,22 @@ related:
         width: 480
         height: 276
         isCached: true
+  - title: "Artificial Intelligence Predicts Future Heart Disease, Stroke Death Risk Using Single X-Ray"
+    excerpt: "Scientists have also discovered a way to use artificial intelligence to predict the risk of a heart attack or stroke using only a single x-ray."
+    publishedDateTime: 2022-12-04T05:07:00Z
+    webUrl: "https://www.ndtv.com/world-news/artificial-intelligence-predicts-future-heart-disease-stroke-death-risk-using-single-x-ray-3576252"
+    ampWebUrl: "https://www.ndtv.com/world-news/artificial-intelligence-predicts-future-heart-disease-stroke-death-risk-using-single-x-ray-3576252/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/artificial-intelligence-predicts-future-heart-disease-stroke-death-risk-using-single-x-ray-3576252/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 47
+    images:
+      - url: "https://c.ndtvimg.com/2022-06/ipbu0t1_heart-attack_650x400_03_June_22.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "AI Predicts Future Heart Disease Risk Using Single Chest X-Ray"
     excerpt: "A deep learning model that uses a single chest X-ray to predict the 10-year risk of death from a heart attack or stroke, stemming from atherosclerotic cardiovascular disease has been developed by researchers."
     publishedDateTime: 2022-11-30T05:06:00Z
