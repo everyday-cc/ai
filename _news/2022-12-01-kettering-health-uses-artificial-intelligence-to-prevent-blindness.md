@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wdtn.com/dl365/healthy-living/kettering-health-uses-arti
 cdnAmpWebUrl: "https://www-wdtn-com.cdn.ampproject.org/c/s/www.wdtn.com/dl365/healthy-living/kettering-health-uses-artificial-intelligence-to-prevent-blindness/amp/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1280
     height: 853
     isCached: true
-
-related:
-  - title: "Designing better water filters with AI"
-    excerpt: "Even the best water filters let some things through, but designing improved materials and then testing them is time consuming and difficult. Now, researchers report that artificial intelligence (AI) could speed up the development of promising materials."
-    publishedDateTime: 2022-11-30T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/11/221130114556.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 51
 
 secured: "6MJmKs3t/NWPm75UkkihDpoGqoqTFIeiksvo1u48ufbyV4GwkaW/5T2005dIzn2nbCgKpM8cm+MAyA8t4t4eln7C30yWC6t7OhygBotn+ZuRyGQ76Y8AYDwMGMR2BZ0pBN8w5bQ84Q8PJ/gNG9hiBeLSs+m28YOrbpMKoNIuzh+zXP1i1/XU48a+V1EDwgG8uWUiwvwOzXX9/Wy9R6JMGSKDzoTHOgRLOqKc5WRFXI0YKRwWkyWd3SIni91bys/Hxy9YYTC1N/x5i4RtoWz0E4Tt/RQdPermelzkuH9UgBOOqZ5QEQQ8hMw66lfMuI+J25ky4fihlk0vn3nYlMlix3xy6Zvfol4FciDBV+SYfb0=;b6bb/qiwrLJL8ZmBkZ412Q=="
 ---

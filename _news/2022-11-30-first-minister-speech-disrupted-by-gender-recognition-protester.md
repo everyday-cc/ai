@@ -7,7 +7,7 @@ originalUrl: "https://www.heraldscotland.com/politics/23159210.first-minister-sp
 webUrl: "https://www.heraldscotland.com/politics/23159210.first-minister-speech-disrupted-gender-recognition-protester/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 945
     height: 630
     isCached: true
-
-related:
-  - title: "'Shame on you!' Nicola Sturgeon heckled by protester during speech on gender violence"
-    excerpt: "Nicola Sturgeon was interrupted by a protester this evening during a speech on tackling male violence against women. The First Minister was accused by the heckler of having \"let down vulnerable women in Scotland\"."
-    publishedDateTime: 2022-11-29T21:10:00Z
-    webUrl: "https://www.express.co.uk/news/politics/1703277/Nicola-Sturgeon-protester-speech-gender-violence"
-    ampWebUrl: "https://www.express.co.uk/news/politics/1703277/Nicola-Sturgeon-protester-speech-gender-violence/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/politics/1703277/Nicola-Sturgeon-protester-speech-gender-violence/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 37
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/139/590x/Nicola-Sturgeon-1703277.jpg?r=1669760233205"
-        width: 590
-        height: 350
-        isCached: true
 
 secured: "JI+ZW5Pw137CSSqu9JOj+pSPS5kNwkPRDT3tfCVNRRQpN/tjtt2/r1knB6u5JOq6KMlk93SdYUS8bum96dk8MCMuSbr6TtUWtoAyAf8FTc8a2xQBRebog3wkqu3bwUGiyItd42Ka/T/6jVc8kr9ukZWZt8iPdr8qfV8JdOfUexdWugKxVB+YwcEyGBLaW+YBYYNKe6IkovOJVqK3dG0UL3jKzNZR+iVPpw/ojd30bXKaJW2XY69ApbHKxIVNub/dhG+Ad+gzYqi3LNDCRz/Ujhym0v4nwngkqS0JpjW80RVUtX5kuEdn/5nBAJ7EOeZdIlbyUPADTqqrXvHwyfTA52DJDN28fooWLciDZ+ASqQs=;6ZNygjfcAYrdHTwpO6UBDg=="
 ---

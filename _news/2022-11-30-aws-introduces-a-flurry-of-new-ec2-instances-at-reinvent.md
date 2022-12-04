@@ -73,20 +73,6 @@ related:
         width: 4896
         height: 3672
         isCached: true
-  - title: "New tools for data integration and insight take center stage in opening keynotes at AWS re:Invent"
-    excerpt: "New tools for data integration and insight take center stage in opening keynotes at AWS re:Invent - SiliconANGLE"
-    publishedDateTime: 2022-11-29T23:10:00Z
-    webUrl: "https://siliconangle.com/2022/11/29/new-tools-data-integration-insight-take-center-stage-opening-keynotes-aws-reinvent/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 26
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/selipskykeynote2022-1.jpg"
-        width: 4896
-        height: 3672
-        isCached: true
 
 secured: "OzbkvUWkZw4ucoLAd9Mrn5V9TAlTTa8Gi17eHrtQGtlK2cnzFQW478d3tWnF+NgCGLljFECUSi+druyfE6uWH+mwCS8IdHQFCDPxQwIq/wP+UB71je4BKplJ+BH/7xK9+afe1sTeWrsjoiY/uXUg1yNKbeWtZEmIMtiRh0ycXf6uPyFxKtNzATE5pw7Sf3yVTA9caOT5AYiP6csRk/pcTvWw7YL9MSSlGfuTCWUs1OVFPFUgK3pRNKjV5BRAOVA4uEz3T6WMrOPoKR+mHEWOOy+U3srAM2TYZsEvy9eMSaZREeIwlHKLUyXw5NfvMeq1RnFp1EgxICCfKI+2P6pHdkm9EK9mYtBV+4V2EX3JPPls330QDY6CXwsBPqWxp5dBBLfCAzxwEyagdMVCU1A6j5pMRxEfv5/Z3K8W1qEVSODjhPDLh+NPzP0D+K0WH5suvGhQHj0o9rO2O8tYK3b7Q16CONqKtx/YeHakaexfWiPk8jPiCM+J7Flo0vGOXIuia8Rm4ULR/dVKEiTbmhZUYg==;BiFq1cPEqBfd0fE2GjRjeA=="
 ---

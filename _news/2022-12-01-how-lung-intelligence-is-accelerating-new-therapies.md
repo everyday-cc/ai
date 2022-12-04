@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-01T14:00:00Z
 originalUrl: "https://medcitynews.com/2022/12/how-lung-intelligence-is-accelerating-new-therapies/"
 webUrl: "https://medcitynews.com/2022/12/how-lung-intelligence-is-accelerating-new-therapies/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: MedCity News

@@ -118,17 +118,17 @@ related:
         isCached: true
   - title: "Early research suggests promising use of AI to predict risk of heart attack or stroke using a single chest X-ray"
     excerpt: "By Deidre McPhillips, CNN Early research suggests a promising use of artificial intelligence to predict the 10-year risk of death from a heart attack or stroke from a single chest X-ray. The preliminary findings were presented Tuesday at the annual meeting of the Radiological Society of North America."
-    publishedDateTime: 2022-11-30T01:23:00Z
-    webUrl: "https://ktvz.com/health/cnn-health/2022/11/29/early-research-suggests-promising-use-of-ai-to-predict-risk-of-heart-attack-or-stroke-using-a-single-chest-x-ray/"
+    publishedDateTime: 2022-11-30T06:23:00Z
+    webUrl: "https://localnews8.com/health/cnn-health/2022/11/29/early-research-suggests-promising-use-of-ai-to-predict-risk-of-heart-attack-or-stroke-using-a-single-chest-x-ray/"
     type: article
     provider:
-      name: KTVZ
-      domain: ktvz.com
+      name: Local News 8
+      domain: localnews8.com
     quality: 18
     images:
-      - url: "https://ktvz.b-cdn.net/2022/11/hypatia-h_44d1a744c66563ee67e542a225dd4910-h_8fd481471df36eb8a520d96017fe985d-300.jpg"
-        width: 1200
-        height: 800
+      - url: "https://localnews8.b-cdn.net/2022/11/hypatia-h_44d1a744c66563ee67e542a225dd4910-h_8fd481471df36eb8a520d96017fe985d-300.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "AI can predict risk of heart attack or stroke using single chest X-ray, early research suggests"
     excerpt: "Early research suggests a promising use of artificial intelligence to predict the 10-year risk of death from a heart attack or stroke from a single chest X-ray."

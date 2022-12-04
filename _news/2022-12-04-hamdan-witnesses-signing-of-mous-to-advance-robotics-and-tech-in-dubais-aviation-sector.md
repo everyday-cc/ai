@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-04T14:18:00Z
 originalUrl: "https://www.gulftoday.ae/news/2022/12/04/hamdan-witnesses-signing-partnerships-aimed-at-driving-innovation-in-aviation-and-logistics"
 webUrl: "https://www.gulftoday.ae/news/2022/12/04/hamdan-witnesses-signing-partnerships-aimed-at-driving-innovation-in-aviation-and-logistics"
 type: article
+quality: 40
+heat: 40
+published: false
 
 provider:
   name: gulftoday

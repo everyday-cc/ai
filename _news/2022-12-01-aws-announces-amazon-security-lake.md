@@ -119,15 +119,6 @@ related:
       name: The Tech Report
       domain: techreport.com
     quality: 36
-  - title: "Cognigy Achieves AWS Conversational AI Competency Distinction"
-    excerpt: "Achieving the AWS Conversational AI Competency differentiates Cognigy as an AWS Partner Network (APN) member with significant domain expertise in deploying high quality, highly ef"
-    publishedDateTime: 2022-11-30T00:00:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/30/9722443.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
   - title: "Stability AI Selects AWS as Its Preferred Cloud Provider to Build Artificial Intelligence for the Future"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Stability AI, a community-driven, open-source artificial intelligence (AI) company, has selected AWS as its preferred cloud provider to build and scale its AI models for image,"
     publishedDateTime: 2022-11-30T22:00:00Z

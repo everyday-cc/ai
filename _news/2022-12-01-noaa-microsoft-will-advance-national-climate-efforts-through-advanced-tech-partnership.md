@@ -64,20 +64,6 @@ related:
         isCached: true
   - title: "Microsoft, Defense Firms Partnering on Modeling and Simulation Capabilities"
     excerpt: "Microsoft is collaborating with defense sector companies as DOD seeks to increase its gaming, exercising, modeling and simulation capabilities."
-    publishedDateTime: 2022-11-29T22:33:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2022/11/microsoft-defense-firms-partnering-modeling-and-simulation-capabilities/380270/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 37
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2022/11/29/vrmilGettyImages_1226582027/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Microsoft, Defense Firms Partnering on Modeling and Simulation Capabilities"
-    excerpt: "Microsoft is collaborating with defense sector companies as DOD seeks to increase its gaming, exercising, modeling and simulation capabilities."
     publishedDateTime: 2022-12-02T00:46:00Z
     webUrl: "https://fcw.com/defense/2022/12/microsoft-defense-firms-partnering-modeling-and-simulation-capabilities/380388/"
     type: article

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "ADGM's Financial Services Regulatory Authority Launches AI Initiative On Open Regulation"
-    excerpt: "Without regulatory context, AI applications will be limited in their potential to help financial services firms navigate the regulatory landscape. In this regard, OpenReg provides the regulatory context required by firms to develop their own AI solutions."
-    publishedDateTime: 2022-11-29T21:45:00Z
-    webUrl: "https://menafn.com/1105243780/ADGMs-Financial-Services-Regulatory-Authority-Launches-AI-Initiative-On-Open-Regulation"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 30
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?554410"
-        width: 444
-        height: 250
-        isCached: true
   - title: "AWS Launches AI Program for Community Colleges, Minority-serving Institutions, and HBCUs"
     excerpt: "Machine Learning University is now launching a free program helping community colleges, minority-serving institutions (MSIs), and historically Black colleges and universities (HBCUs) teach database, artificial intelligence (AI),"
     publishedDateTime: 2022-12-02T16:32:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2022/11/30/baidu-unvails-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/11/30/baidu-unvails-ambitious-robotaxi-plan-in-china/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://images.hgmsites.net/hug/baidu-apollo-go-self-driving-taxi-service_100850926_h.jpg"
         width: 1920
         height: 1163
-        isCached: true
-  - title: "Baidu Inc. Plans to Rollout the World's Largest Fully Autonomous Ride-Hailing Service in China by Next Year"
-    excerpt: "China's internet technology giant Baidu Inc. held its “Apollo Day” live-streamed technology event on Monday where the company shared its latest progress on autonomous driving. Among the announcements at Apollo Day were Baidu’s plans to launch the world's largest fully-autonomous ride-hailing service aptly named “Apollo Go” by next year and become the world’s biggest robotaxi operator."
-    publishedDateTime: 2022-11-29T22:00:00Z
-    webUrl: "https://www.futurecar.com/5617/Baidu-Inc-Plans-to-Rollout-the-World’s-Largest-Fully-Autonomous-Ride-Hailing-Service-in-China-by-Next-Year"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 21
-    images:
-      - url: "https://img.futurecar.com/202211/29/l_638691bdaaa74.jpeg"
-        width: 700
-        height: 500
         isCached: true
 
 secured: "gP/q1RuObSHyMKJ3CyE/HqsOm5vsYqPfAD/l3E0X0tQDO43FMB6e+ZnbyQjJF7I+Id3NkKJ3jFxKoQJ5b4dvsMcM7/xyo8osPRCGr/qk1N/SxZQMA89DLiXgmTczfeiDig3wcXEMuGtYycbbAeiXc9FsPPGdQoeH+ShjYgBUcptgyKx7ZOLrmRPivt14suYQRhGFtPUt4POQT2XN3VEEu5rhUxHD4AAeKGFyYIqDKwm33oRml4foII5TCEo14fcViFgIe9d8UXY3i5A6YHOuOiWDf5vKSP/qaECeHm2B1ZdqcWxHr6iEWAxuWLy53NPaYxaNB3CtF+ivuzPI+tKTgiTGJASt6xNP2Qwx9q6h5o0Ojq5mWa32UI4dmu6x0pRH0dF1IT+bKkmnR6gVCvHAO4eQ6NIm5oF/tkR/hiGTwcP6iEr0TfIRkFF8OflNrHRvWZrMyp0Ftzd9VxAks5TAXQ4Isg0tuH2XUAlzxUIxuOddhy8R374Fw3/OA/JG5gVK1M9JQ/khRbAzeQRXZyn7xQ==;cY69Rwy6jMg5AbRgDRfbvA=="

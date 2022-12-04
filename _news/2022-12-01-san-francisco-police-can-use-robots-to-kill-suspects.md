@@ -117,20 +117,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "San Francisco will allow police to deploy robots that kill"
-    excerpt: "The Democratic San Francisco Board of Supervisors voted to allow police to use potentially lethal, remote-controlled robots in emergency situations SAN FRANCISCO -- Supervisors in San Francisco ..."
-    publishedDateTime: 2022-11-29T21:14:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/san-francisco-police-deploy-robots-kill-94162713"
-    type: article
-    provider:
-      name: ABC News
-      domain: abcnews.go.com
-    quality: 39
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_e37a06615cbe4c89823b86d5881ba9eb_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "San Francisco debates letting police deploy robots that kill"
     excerpt: "Supervisors in San Francisco held a heated debate Tuesday over whether to give city police the ability to use potentially lethal, remote-controlled robots in emergency situations, with both sides"
     publishedDateTime: 2022-11-30T01:17:00Z
