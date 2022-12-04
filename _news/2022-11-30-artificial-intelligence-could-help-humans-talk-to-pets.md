@@ -72,20 +72,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Craft Docs releases AI Assistant to boost writing productivity"
-    excerpt: "This new AI feature enables people to speed up writing, spark ideas to beat writer's block, summarize long documents, rephrase a paragraph, and more"
-    publishedDateTime: 2022-11-29T16:50:00Z
-    webUrl: "https://www.kmworld.com/Articles/News/News/Craft-Docs-releases-AI-Assistant-to-boost-writing-productivity-156081.aspx"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 39
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif"
-        width: 772
-        height: 594
-        isCached: true
 
 secured: "q3jnVxbAzRFJ86/8jOgNwi1nHlWggYqtUTGI+sIAkGmzJrYEVv4vuOsCuLF5bPXZ+9efgLpheyTrNS6/6mny3pOuXEHx7Hbbb7yg2kDcdm43V4FhsqpFjpJjDlSQ49s6JVjtpFykMFQKORfBreWNFZav96zL6a6ExjvKURZF6/BOd008HiltvupjMNR3naNII10PwsAa7u2xhcOEitDlmKjIUOfBOgVh0+OunjGRkOFtaQHxoaF4B7sBLhOII+xWHHA0ILwTvEo4qTiQiSQmCuPEvf0TrSHHUJEyFBDTMtDLrZL5cBSkPzydBkPNOxJk3bxUSdbTKlxbKiVsA6gYpr6l4vV/665IQwAOchK6c1c=;bJ+hIM2g3HOS1dVU5t6XCQ=="
 ---

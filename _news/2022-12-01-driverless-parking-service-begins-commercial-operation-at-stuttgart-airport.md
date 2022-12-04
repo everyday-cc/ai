@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/automotive/mercedes-bosch-commercial-automate
 webUrl: "https://newatlas.com/automotive/mercedes-bosch-commercial-automated-valet-parking-stuttgart/"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Alstom demonstrates driverless shunting"
-    excerpt: "Alstom has demonstrated for the first time the deployment of ATO at Grade of Automation (GoA) 4 on a shunting locomotive, enabling driverless operation."
-    publishedDateTime: 2022-11-29T16:39:00Z
-    webUrl: "https://www.railjournal.com/innovations-showcase/alstom-demonstrates-driverless-shunting/"
-    type: article
-    provider:
-      name: International Railway Journal
-      domain: railjournal.com
-    quality: 39
-    images:
-      - url: "https://www.railjournal.com/wp-content/uploads/2022/11/Netherlands-ATO-tests-in-GoA4-Alstom-pic-cropped.jpg"
-        width: 598
-        height: 336
-        isCached: true
   - title: "World first: Bosch and Mercedes-Benz’s driverless parking system approved for commercial use"
     excerpt: "The world’s first approval for customer use of our highly automated and driverless parking function, developed together with our technology partner Bosch, shows that innovation leadership and ‘Made in Germany’ go hand in hand,"
     publishedDateTime: 2022-11-30T10:49:00Z

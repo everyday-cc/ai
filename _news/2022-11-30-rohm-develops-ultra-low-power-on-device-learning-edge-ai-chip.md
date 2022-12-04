@@ -2,28 +2,22 @@
 category: news
 title: "ROHM Develops Ultra-Low-Power, On-Device Learning Edge AI Chip"
 excerpt: "Santa Clara, CA and Kyoto, Japan, Nov. 29, 2022 (GLOBE NEWSWIRE) -- ROHM Semiconductor today announced they have developed an on-device learning[1] AI chip (SoC with on-device learning AI ..."
-publishedDateTime: 2022-11-29T22:16:00Z
-originalUrl: "https://ktla.com/business/press-releases/globenewswire/8702146/rohm-develops-ultra-low-power-on-device-learning-edge-ai-chip/"
-webUrl: "https://ktla.com/business/press-releases/globenewswire/8702146/rohm-develops-ultra-low-power-on-device-learning-edge-ai-chip/"
+publishedDateTime: 2022-11-29T23:39:00Z
+originalUrl: "https://www.news10.com/business/press-releases/globenewswire/8702146/rohm-develops-ultra-low-power-on-device-learning-edge-ai-chip/"
+webUrl: "https://www.news10.com/business/press-releases/globenewswire/8702146/rohm-develops-ultra-low-power-on-device-learning-edge-ai-chip/"
 type: article
-quality: 54
-heat: 54
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: WTEN
+  domain: news10.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-    width: 600
-    height: 207
-    isCached: true
-
-secured: "ISr5QpkKfVAqpXwa4LdgoBV74nACmU88sDr1+yJ/EkhkEZaXqHAzn3Crb/KFJkB+Amjw81BRDL9qeDux2Dkjf+cXAmNDRq6cRsdsPdxjEkdjtd1NpGsTxEIxoNHBmmfPNwANzwfGjJQd4hcs4c/YPGynu3qtFZYz65/NXSi9wcaPK23snYs9EyC7HGBd2Haia+AabrlukzJpaVf7uWSA+rCBxKFPvlmiViYgrI8H+1WzxS396rjC2GKLe6QkxHi1OXpynMZst0sZXDUMJX3k47xcWK+xAEIZltdmNjtsPWeGpKedzS150F5vN6kNVpCjcuwKrIVCMdTQoaPZSFPPsJmLPozqyHMiqhSHiKdrNyI=;HeCwDU7KLMj83NgtpaqQbw=="
+secured: "HLt2qKBFbzHL9zEhU2TKGlguyXOM0e1JGCJFmhPTlg6tCilqmjnILaHHjQjRtcFVUXRSBgK1LtC0LpTKoybJ+DtfYpo0WbywOUw53syb7HJQmdk1rRGHnYLckS0RkaB+Tlj08gjMLJbAgF8xYf7VLu76KUAXM/75c56s4JNNxFG0HM7P6Tdqm52QUlWeJalBj0anBmXmB1ZMQmg0iw2u2naHTGIxC9UBAZKxi05KKuVx9+lKCNOHxx+BQqz5EVcnrYSI/gElyRhqSHqLyUlPzTpiljiK1uBrLB/FLmapSLAwXYgyd0enIlAWmhwqY42h0JCdxDOyFR7oGcg9Y0rfh8gjuPRgek46c1DVjUQDd8o=;A01VZeII96f3v8dUpoPQ7A=="
 ---
 

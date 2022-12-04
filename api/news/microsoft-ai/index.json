@@ -153,24 +153,33 @@
     {
       "path": "_news/2022-11-29-bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem.md",
       "title": "BAE Systems adds Microsoft to modeling and simulation ecosystem",
-      "excerpt": "View the full release here:  \"Microsoft Azure is widely regarded as a prominent provider of cloud computing services for government,\" said Peder Jungck, vice president and general manager of BAE Systems Intelligence Solutions.",
+      "excerpt": "BAE Systems is expanding the network of companies in its modeling and simulations ecosystem to include Microsoft. With this addition,  This press release features multimedia. View the full release here:   (Credit: BAE Systems) “Microsoft Azure is widely regarded as a prominent provider of cloud computing services for government,",
       "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/11/29/9721027.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/11/29/9721027.htm",
+      "webUrl": "https://www.eagletribune.com/region/bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem/article_c1e18486-c7be-57b4-b03f-b424216acd00.html",
+      "originalUrl": "https://www.eagletribune.com/region/bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem/article_c1e18486-c7be-57b4-b03f-b424216acd00.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/1/ec/1ec4b2ba-c377-559f-8217-102383a4e62a/638614c570c73.image.jpg?crop=633%2C332%2C0%2C403&resize=633%2C332&order=crop%2Cresize",
+          "width": 633,
+          "height": 332,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T06:28:00-08:00",
+      "publishedDateTime": "2022-11-29T05:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -741,6 +750,58 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-22-sequoia-indias-surge-backs-health-tech-startup-redbrick-ai-in-46m-funding.md",
+      "title": "Sequoia India’s Surge backs health tech startup RedBrick AI in $4.6M funding",
+      "excerpt": "Health tech startup RedBrick AI has raised $4.6 million in a funding round led by Sequoia India and Southeast Asia’s Surge as it plans to expand the market for its medical imagery annotations ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/22/redbrick-ai-sequoia-surge-funding/",
+      "originalUrl": "https://techcrunch.com/2022/11/22/redbrick-ai-sequoia-surge-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/medical-imagery-examine-pexels.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/22/redbrick-ai-sequoia-surge-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/22/redbrick-ai-sequoia-surge-funding/amp/",
+      "publishedDateTime": "2022-11-21T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1322,59 +1383,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-azure-ml-vs-databricks-machine-learning-comparison.md",
-      "title": "Azure ML vs. Databricks: Machine Learning Comparison",
-      "excerpt": "Microsoft Azure ML and Databricks both offer top-rated ML tools. But which is best for your company? Machine learning (ML) is being incorporated into virtually all aspects of enterprise IT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/azure-ml-vs-databricks/",
-      "originalUrl": "https://www.eweek.com/big-data-and-analytics/azure-ml-vs-databricks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/01/Poly.headset-1.jpg",
-          "width": 698,
-          "height": 521,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-18T02:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/63842abe661ca5e9043cf512/0x0.jpg?format=jpg&width=1200"

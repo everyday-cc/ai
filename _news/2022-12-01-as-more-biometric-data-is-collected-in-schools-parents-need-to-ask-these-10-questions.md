@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-11-biometric-schools-parents.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-biometric-schools-parents.amp"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1356
     height: 668
     isCached: true
-
-related:
-  - title: "Osaka to trial face biometric ticketing for travelers in wheelchairs"
-    excerpt: "A face biometrics system has been deployed by the Osaka Metro to provide automated gate access to trains for people in wheelchairs."
-    publishedDateTime: 2022-11-29T16:13:00Z
-    webUrl: "https://www.biometricupdate.com/202211/osaka-to-trial-face-biometric-ticketing-for-travelers-in-wheelchairs"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/05/12141334/face-biometrics-smaller-scaled.jpg"
-        width: 2048
-        height: 1536
-        isCached: true
 
 secured: "SdSbFH7q7Uq/VPwbqdJeFwi7foFVKHl2XQZc33cGTzU9ju/C7A6Wg/ttINB1U45zlOI4H1L0JB+85mvnpp7WkqLIXSnP2UXsx7Lvbwmc13M4uHj5opMmX+OQr2GB+gyZNE1eIUzaYz5qrNnLXci0waMmACx6Qz+39gif3IBqqizJsiwUkdm1Bi0taNvS/ChHPtZjgWq2Dbtf/3fX2NT4Z9vHgKmmkth6MWwtLANZxISUny2pCdg/DAsGto3EuaBdiVibXEnNc6GGIsjXOS9JBQmyhUZ2uigq3yY/D5OTkhWuQz9G/HD1bEb8CeepJ9Ny1F51cYqie/fsl+G/FbtA1oYS2pybBmcQNNi0Ece+LoCkavVm4+MQPkj2O15y1hc7lmOkg0fIZE86CZg1mFWPjG7PxroHj12xzu/rzd8r+3eq9TzfkcCyiAB/0JW+8ti+kx0e1zpL18MX5tIBJ30jAelrotx9A5tuGJTYe+7EXbRpukpFEwZiKdDR9p/JvI9i/wv6A+I2G4Cjy8Y8oR87kw==;v4vIwkwYLQrsNvO+/jrEeQ=="
 ---

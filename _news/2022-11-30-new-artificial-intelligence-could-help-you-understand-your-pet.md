@@ -58,20 +58,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Craft Docs releases AI Assistant to boost writing productivity"
-    excerpt: "This new AI feature enables people to speed up writing, spark ideas to beat writer's block, summarize long documents, rephrase a paragraph, and more"
-    publishedDateTime: 2022-11-29T16:50:00Z
-    webUrl: "https://www.kmworld.com/Articles/News/News/Craft-Docs-releases-AI-Assistant-to-boost-writing-productivity-156081.aspx"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 39
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif"
-        width: 772
-        height: 594
-        isCached: true
   - title: "Artificial Intelligence Could Help Humans Talk To Pets"
     excerpt: "New developments in artificial intelligence and technology could help humans communicate with their pets and any other animal species that calls Earth home. Outside of the field of science, the idea of two-way human-animal communication has existed in pop culture since at least as far back as 1967,"
     publishedDateTime: 2022-11-30T02:02:00Z

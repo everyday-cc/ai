@@ -83,6 +83,22 @@ related:
         width: 666
         height: 282
         isCached: true
+  - title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
+    excerpt: "Hpc7g instances featuring new AWS Graviton3E chips deliver the best price performance for HPC workloads on Amazon EC2 C7gn instances featuring new AWS Nitro Cards with enhanced networking offer the hi"
+    publishedDateTime: 2022-11-29T17:25:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/b29893848/aws-announces-three-amazon-ec2-instances-powered-by-new-aws-designed-chips"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29893848"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29893848"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
+        width: 800
+        height: 313
+        isCached: true
   - title: "AWS enhances its AI portfolio with array of automation capabilities"
     excerpt: "The new capabilities made their debut on Monday at the cloud giant’s AWS re:Invent 2022 conference in Las Vegas. They’re rolling out for five of the AI services offered by AWS: Amazon Textract, Amazon Transcribe,"
     publishedDateTime: 2022-11-29T18:57:00Z
@@ -186,15 +202,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
-  - title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
-    publishedDateTime: 2022-11-29T20:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-three-amazon-ec2-instances-powered-new-/2022/11/29/9721297.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
 secured: "xWOyOXVko5GFDLOZMkIE54VMr8HHbabf7DUby+Y5cmW5325kGn1sxTup7qIRxw7R2JDcuHxdadAl0zc0GHtylfAJmOh1mrCoRjOw/KrXGFQf5mkhrVE9t6SZK5ZP0uWBfsPoUiXUFJmynJ4Q3bRaUv58/tmCwWrUgdHTcsfHMIPwEpsCwWdg0PcoRvl5MSdslxt2glSGq+sxuM75cP7aEkS3FdqzToS+yeY3UZR/sOcqLhlx6H8grnM/tnmzPwn0PjYlyO6vC88CzmgkA7TQgpf9SbtaGNKPYG9psd0iAoBibptsgrAgcF0+4AxAce/tTR6AYkSi2FedmB4/uKOwEFkiPrQDWE6TqhEb6Rzner0=;pdM2zQAJRiesj8J/IockGg=="
 ---

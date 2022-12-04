@@ -25,31 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Sparking ML-Powered Innovation In The Telecommunications Industry"
-    excerpt: "Interview with machine learning Chapter Leads at Spark New Zealand on how the telecommunications giant leverages AI at scale and improves model performance amid real-world challenges."
-    publishedDateTime: 2022-11-29T15:36:00Z
-    webUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/11/29/sparking-ml-powered-innovation-in-the-telecommunications-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/11/29/sparking-ml-powered-innovation-in-the-telecommunications-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/11/29/sparking-ml-powered-innovation-in-the-telecommunications-industry/amp/"
+  - title: "AWS and Slalom Expand Next-Generation Strategic Collaboration"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ:AMZN), and Slalom, LLC (Slalom), a global business and technology consulting company, announced a multiyear extension to the companies’ global Strategic Collaboration Agreement (SCA)."
+    publishedDateTime: 2022-11-30T22:23:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/aws-and-slalom-expand-next-generation-strategic-collaboration/article_8d799519-a4fb-5338-b6cb-6eef3ddfee0b.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/638632091b6e0dff39cd891c/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg"
+        width: 350
+        height: 455
         isCached: true
-  - title: "Protecting Consumers and Promoting Innovation – AI Regulation and Building Trust in Responsible AI"
-    excerpt: "Artificial intelligence (AI) is one of the most transformational technologies of our generation and provides huge opportunities to be a force for good and drive economic growth. It can help scientists cure terminal diseases, engineers build inconceivable structures, and farmers yield more crops. AI allows"
-    publishedDateTime: 2022-12-01T14:01:28Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/protecting-consumers-and-promoting-innovation-ai-regulation-and-building-trust-in-responsible-ai/"
+  - title: "UNC-Chapel Hill, AWS Launch Cloud-Driven Health Startup Collaboration"
+    excerpt: "The University of North Carolina at Chapel Hill announced a collaboration with Amazon Web Services to create cloud-driven digital health research startups."
+    publishedDateTime: 2022-12-02T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/unc-chapel-hill-aws-launch-cloud-driven-health-startup-collaboration"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 55
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 19
   - title: "American Family Insurance and AWS Team Up to Drive Innovation in the Insurance Industry"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced an expanded relationship with American Family Insurance, a mutual insurance company focused on property,"
     publishedDateTime: 2022-12-01T16:40:00Z

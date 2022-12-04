@@ -23,45 +23,20 @@ topics:
   - AWS AI
 
 related:
-  - title: "Sparking ML-Powered Innovation In The Telecommunications Industry"
-    excerpt: "Interview with machine learning Chapter Leads at Spark New Zealand on how the telecommunications giant leverages AI at scale and improves model performance amid real-world challenges."
-    publishedDateTime: 2022-11-29T15:36:00Z
-    webUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/11/29/sparking-ml-powered-innovation-in-the-telecommunications-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/11/29/sparking-ml-powered-innovation-in-the-telecommunications-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/11/29/sparking-ml-powered-innovation-in-the-telecommunications-industry/amp/"
+  - title: "Introducing AWS AI Service Cards: A new resource to enhance transparency and advance responsible AI"
+    excerpt: "Artificial intelligence (AI) and machine learning (ML) are some of the most transformative technologies we will encounter in our generation—to tackle business and societal problems, improve customer experiences, and spur innovation. Along with the widespread use and growing scale of AI comes the recognition"
+    publishedDateTime: 2022-11-30T17:51:13Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-aws-ai-service-cards-a-new-resource-to-enhance-transparency-and-advance-responsible-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
+      name: AWS
+      domain: aws.amazon.com
+    quality: 90
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/638632091b6e0dff39cd891c/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/29/ai-service-cards-responsible-ai.jpg"
+        width: 1563
+        height: 780
         isCached: true
-  - title: "American Family Insurance and AWS Team Up to Drive Innovation in the Insurance Industry"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced an expanded relationship with American Family Insurance, a mutual insurance company focused on property,"
-    publishedDateTime: 2022-12-01T13:02:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/american-family-insurance-and-aws-team-up-to-drive-innovation-in-the-insurance-industry/article_9a6d80d5-b990-5bc5-9a5f-45ba8189200c.html"
-    type: article
-    provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 31
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "American Family Insurance and AWS Team Up to Drive Innovation in the Insurance Industry"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced an expanded relationship with American Family Insurance, a mutual insurance company focused on property,"
-    publishedDateTime: 2022-12-01T16:40:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/12/01/9723031.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 11
 
 secured: "qzN5Rsgob/dcIjkLLEcwa6pa2mf3B1j0thewsJQ3ajcJlR/+pcdC1Qf+Ycaz3RVPT4D0nBqQb4CxRQ6i86uofeREsEm8ZATH/7iALQzbWsMJMXcfTv44ynD/NK3A1aL+AXrHlyBTjDOxPnmwA/le1YQ4YwRFexKcb6JfQkIilKivsg1KNA3GWDixjSQKXIkVQgPTX6DpwtPL7VRho78cwUQjTm5RTIf9SEATJHrOpKZuv2/ZaivCCIxzq7NTaBJjhehltGvCV8xGwCGZO9fmKrXghloYSjkJGQPETNzQw8DhbxJ/xRVFspqjCwwJm3FDki8+OyqskUOf8cfLo/p6mwZKrXx3gL57wK1rg7tH+I8=;1kydQvUez5rWwEeC1M8aIQ=="
 ---

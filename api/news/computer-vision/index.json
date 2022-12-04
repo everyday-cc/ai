@@ -155,17 +155,17 @@
       "title": "Kami Vision Reveals the World’s First AI-Powered Camera Alarm System for the Entire Home with 24/7 Professional Monitoring",
       "excerpt": "Kami Vision, the computer vision company that provides AI solutions to enterprise, SMB and consumers, today announced Kami Pro Security, a professional-grade, video alarm system for use in residences and small businesses.",
       "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/kami-vision-reveals-the-world-s-first-ai-powered-camera-alarm-system-for-the-entire/article_8a833dee-f41f-52a9-a596-897ff03a11ef.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/kami-vision-reveals-the-world-s-first-ai-powered-camera-alarm-system-for-the-entire/article_8a833dee-f41f-52a9-a596-897ff03a11ef.html",
+      "webUrl": "https://apnews.com/e9654d74b4b143b98686bb8e46b7b520",
+      "originalUrl": "https://apnews.com/e9654d74b4b143b98686bb8e46b7b520",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/2/f0/2f0b905f-7668-5b98-a738-c181c85e7679/6385d9f34a513.image.jpg?crop=1060%2C557%2C0%2C699&resize=1060%2C557&order=crop%2Cresize",
-          "width": 1060,
-          "height": 557,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -175,11 +175,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T01:02:00-08:00",
+      "publishedDateTime": "2022-11-29T02:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -625,35 +625,35 @@
     },
     {
       "path": "_news/2022-11-24-facial-recognition-can-help-conserve-seals-scientists-say.md",
-      "title": "Facial recognition can help conserve seals, scientists say",
-      "excerpt": "FREEPORT, Maine — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for it ...",
+      "title": "Facial Recognition Can Help Conserve Seals, Scientists Say",
+      "excerpt": "FREEPORT, Maine (AP) — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for ...",
       "sourceUrl": null,
-      "webUrl": "https://www.startribune.com/facial-recognition-can-help-conserve-seals-scientists-say/600229203/",
-      "originalUrl": "https://www.startribune.com/facial-recognition-can-help-conserve-seals-scientists-say/600229203/",
+      "webUrl": "https://www.usnews.com/news/news/articles/2022-11-23/facial-recognition-can-help-conserve-seals-scientists-say",
+      "originalUrl": "https://www.usnews.com/news/news/articles/2022-11-23/facial-recognition-can-help-conserve-seals-scientists-say",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1670014978",
-          "width": 1680,
-          "height": 876,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-23T08:12:00-08:00",
+      "publishedDateTime": "2022-11-23T08:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Star Tribune",
-        "domain": "startribune.com",
-        "images": null,
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

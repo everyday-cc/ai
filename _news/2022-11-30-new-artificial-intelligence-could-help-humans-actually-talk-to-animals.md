@@ -59,20 +59,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Craft Docs releases AI Assistant to boost writing productivity"
-    excerpt: "This new AI feature enables people to speed up writing, spark ideas to beat writer's block, summarize long documents, rephrase a paragraph, and more"
-    publishedDateTime: 2022-11-29T16:50:00Z
-    webUrl: "https://www.kmworld.com/Articles/News/News/Craft-Docs-releases-AI-Assistant-to-boost-writing-productivity-156081.aspx"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 39
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif"
-        width: 772
-        height: 594
-        isCached: true
   - title: "Artificial Intelligence Could Help Humans Talk To Pets"
     excerpt: "New developments in artificial intelligence and technology could help humans communicate with their pets and any other animal species that calls Earth home. Outside of the field of science, the idea of two-way human-animal communication has existed in pop culture since at least as far back as 1967,"
     publishedDateTime: 2022-11-30T02:02:00Z
@@ -88,6 +74,6 @@ related:
         height: 630
         isCached: true
 
-secured: "H7CSa5nfc8y1urt3PmQELpY5KgLEertGKRTRBGWaUFMpPuD23KtGK6HgnKVF2WkeNofP7icqreE/5dIR7PVijln9ifSofDtYXex7jSe8crhjSHVm50qacuJVZA9hgXoNvC8X4qqZy/To8sNmWJuy3faN2I5zVNdN0sNAfLGAJ9cwVsu6x25yDNXjCFX46RwDZlS1/nETB/nQw7jnUklpBItUrI/iVXlP/cThfLGlmGp1B6Ml7GOlOkeuWfIuj18YHLDsoVHWu/qmZ0+qINtYzsG7ie/bPcJfbPKp+4828BmpfsVuZdaLFNNxM31JmHW2GwBeOL6hfW24SCGN7Rg7agaWMj5FDCJ3YuXRu5XO6UQ=;T+c+6NsfHzVfg+B8pWYN+w=="
+secured: "muzCAjXDETDBroSbUK2aFcRbqcThd/7goTL5pRJhOKRoR8LnIS3APoBIJuJNPJ6lJGAfeW6nbjNE4bM0KzU29tv+ZnLH1uWmy+g1t+qoALLOwpsNhT0DqsVbxseHzby79uxyn+KYmCw/jY6jy0VUCKi48Qsx6B3xTncqCfVSD84ox3jYWhIJ+hJXjRWWQEv+3TGs1oFNuNVVEm74g5kwl9TXQU3DirOFR0h9v21aowyYw49+wIOJ3HCz8mAEr+jMitKAQII9wjht0ZY7lQ+MTzVEj/0tYwi1fTIrg4sNEb+WWyjIhswpZ2M4hbDcVwi2uunta9LAI/pRdkRCIewMlhnNPu98mmldleTbjglbHcY=;kJi8ubcr4UB5bRK9RTeAGg=="
 ---
 

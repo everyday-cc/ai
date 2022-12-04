@@ -8,7 +8,7 @@ webUrl: "https://www.ndtv.com/world-news/artificial-intelligence-predicts-future
 ampWebUrl: "https://www.ndtv.com/world-news/artificial-intelligence-predicts-future-heart-disease-stroke-death-risk-using-single-x-ray-3576252/amp/1"
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/artificial-intelligence-predicts-future-heart-disease-stroke-death-risk-using-single-x-ray-3576252/amp/1"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://c.ndtvimg.com/2022-06/ipbu0t1_heart-attack_650x400_03_June_22.jpg"
@@ -69,20 +70,6 @@ related:
       - url: "https://scitechdaily.com/images/Normal-Chest-X-Ray.jpg"
         width: 782
         height: 642
-        isCached: true
-  - title: "Deep learning model uses a single chest X-ray to predict heart disease risk"
-    excerpt: "Researchers have developed a deep learning model that uses a single chest X-ray to predict the 10-year risk of death from a heart attack or stroke, stemming from atherosclerotic cardiovascular disease."
-    publishedDateTime: 2022-11-29T16:44:00Z
-    webUrl: "https://www.news-medical.net/news/20221129/Deep-learning-model-uses-a-single-chest-X-ray-to-predict-heart-disease-risk.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 39
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/Anatomy_of_Human_Heart.-Liya_Graphics_5ac9d64765b747899bc4a9ef77468432-620x480.jpg"
-        width: 620
-        height: 480
         isCached: true
   - title: "AI and one X-ray can potentially predict the risk of a heart attack or stroke"
     excerpt: "Researchers have created a deep learning method that can predict which patients might be eligible for life-saving medication that can prevent both diseases."
@@ -136,6 +123,6 @@ related:
       domain: wlwt.com
     quality: 7
 
-secured: "T8k3locLJBuiSxPTNIdMwZKM1O1jrMX9lw3llCI/F2N72zOdP4wX/CmK1IGjRWPrizjDUJ16b/QP+Jc269m8GU0JbEfmssYMXrQ4IH+mMiRWXvjZYpiDBvnuVnFX5gFd532Xwqy88M+OYkbUsHEEDAOTVKH6+TuetjQJMWuRNpbqhndtitw/LFXg+VAqPylPS9dr/Fo2djkCwjNrGbcgZykEzksomkmiLFKHU2PS/TKXtdpKp0e7j9xUuD+NrElmC6Uxclp2ZdW3jaQI0ddQQcttjPIew2Jqu0ssXoNuQ/ZWeQlhyespXmSvcO7S6E1U8jMuvdXsrcfPOM9KOyt0fqbd9KOOxpj31YylO5MOGYo=;miDYzCkgJMqEcSWw3zTnkg=="
+secured: "XsHGoFqvSUy9tv4u6azonLbPBpMD99nbLOjptnP1ctqtuXF7WQI7srpolWi0qep1THbzX3QDARsoDBDKOc6vqRpjI+4JpmNTwhF3smLC9UHGzr3qvp5iJi33WKmLLR+8CozuN9HzhuIhp/TGt6mnefPRXcawui4OPN872t//9nz+KPlAdKRpvwM347VuIbgTsIxWTSa67trwvd8PTmiqm1NpjeAKnIHaDD4O3TqIroLrLzR1zyDAqtN0o/caYWk7m8+KtlSiP5RicNTg9PrrPPd0yZiAPwyZ0cWLLIgY715x9kxuZYgA9S1YDXRgJnOVKEUFydJ6FXFK687LpMd6hsv7XkyhXmoD4RQeNf730FaQgbAZrOKZ4/YVFxpDfjmj629p2i1WoKZdQQ7mt1xalMV4LgI1RLQIPykRuKxev5pnaqM5rHL4EUtoOZrnq/WUUd+YGZLX4mcWqwXVeQgqshKaDB30fHTBAQTOmUupO+tU51gOSWym1bqNFECuuNGlUEY64Sb39qqZyLNqI01g2Q==;DSRWCYUCR6a8C1FQkMHipw=="
 ---
 

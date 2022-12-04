@@ -66,7 +66,7 @@ related:
     provider:
       name: NDTV
       domain: ndtv.com
-    quality: 47
+    quality: 49
     images:
       - url: "https://c.ndtvimg.com/2022-06/ipbu0t1_heart-attack_650x400_03_June_22.jpg"
         width: 650
@@ -85,20 +85,6 @@ related:
       - url: "https://scitechdaily.com/images/Normal-Chest-X-Ray.jpg"
         width: 782
         height: 642
-        isCached: true
-  - title: "Deep learning model uses a single chest X-ray to predict heart disease risk"
-    excerpt: "Researchers have developed a deep learning model that uses a single chest X-ray to predict the 10-year risk of death from a heart attack or stroke, stemming from atherosclerotic cardiovascular disease."
-    publishedDateTime: 2022-11-29T16:44:00Z
-    webUrl: "https://www.news-medical.net/news/20221129/Deep-learning-model-uses-a-single-chest-X-ray-to-predict-heart-disease-risk.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 39
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/Anatomy_of_Human_Heart.-Liya_Graphics_5ac9d64765b747899bc4a9ef77468432-620x480.jpg"
-        width: 620
-        height: 480
         isCached: true
   - title: "Early research suggests promising use of AI to predict risk of heart attack or stroke using a single chest X-ray"
     excerpt: "Early research suggests a promising use of artificial intelligence to predict the 10-year risk of death from a heart attack or stroke from a single chest X-ray."

@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2022/11/medical-imagery-examine-pexels.jpg"

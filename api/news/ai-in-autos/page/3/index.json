@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-18-roadlink-international-trading-limited-successfully-tests-driverless-car-in-shenzhen.md",
+      "title": "Roadlink International Trading Limited Successfully Tests Driverless Car in Shenzhen",
+      "excerpt": "HONG KONG, Nov. 18, 2022 (GLOBE NEWSWIRE) -- Roadlink International Trading Limited said that the testing in Shenzhen over the past six months included a \"driverless car safely navigating roads ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/g29785340/roadlink-international-trading-limited-successfully-tests-driverless-car-in-shenzhen",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/g29785340/roadlink-international-trading-limited-successfully-tests-driverless-car-in-shenzhen",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29785340",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29785340",
+      "publishedDateTime": "2022-11-18T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-full-on-robot-writing-the-artificial-intelligence-challenge-facing-universities.md",
       "title": "‘Full-on robot writing’: the artificial intelligence challenge facing universities",
       "excerpt": "“Waiting in front of the lecture hall for my next class to start, and beside me two students ... computer theorist Ben Goertzel proposed what he called the “robot university student test”, arguing that an AI capable of obtaining a degree in a same ...",
@@ -1327,50 +1361,6 @@
       "topics": [
         "AI",
         "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-artificial-intelligence-the-latest-architecture-and-news.md",
-      "title": "Artificial Intelligence: The Latest Architecture and News",
-      "excerpt": "The promise of the metaverse, this new type of three-dimensional and immersive digital space, is proving to become more and more appealing to architects eager to explore the new realm of virtual ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.archdaily.com/tag/artificial-intelligence",
-      "originalUrl": "https://www.archdaily.com/tag/artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.adsttc.com/doodles/flat/logo-animation.gif",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-11T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ArchDaily",
-        "domain": "archdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
         "AI in Healthcare"
       ]
     }

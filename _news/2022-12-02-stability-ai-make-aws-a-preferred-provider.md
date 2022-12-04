@@ -84,6 +84,22 @@ related:
         width: 666
         height: 282
         isCached: true
+  - title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
+    excerpt: "Hpc7g instances featuring new AWS Graviton3E chips deliver the best price performance for HPC workloads on Amazon EC2 C7gn instances featuring new AWS Nitro Cards with enhanced networking offer the hi"
+    publishedDateTime: 2022-11-29T17:25:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/11/b29893848/aws-announces-three-amazon-ec2-instances-powered-by-new-aws-designed-chips"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29893848"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29893848"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
+        width: 800
+        height: 313
+        isCached: true
   - title: "AWS enhances its AI portfolio with array of automation capabilities"
     excerpt: "The new capabilities made their debut on Monday at the cloud giant’s AWS re:Invent 2022 conference in Las Vegas. They’re rolling out for five of the AI services offered by AWS: Amazon Textract, Amazon Transcribe,"
     publishedDateTime: 2022-11-29T18:57:00Z
@@ -187,15 +203,6 @@ related:
       name: The Buffalo News
       domain: buffalonews.com
     quality: 32
-  - title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
-    publishedDateTime: 2022-11-29T20:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-three-amazon-ec2-instances-powered-new-/2022/11/29/9721297.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
 secured: "zdSEC8ObqksJWmQjHGqUwxfljXpkYYiew66EGBI0udwa9GxnetmaGo1ObMG5Q55LiQ7ORxLw2ygIHKifUF1GtivhmbZVKPhH8omPHZqIKaCEjBZQM5heUIx7C171LP4vQD8zINkGsBvDZAy2W4bYGsGDNcT925Wey4f3Jv4FM4uNxIxkDhAqslwuxulmzYMlTIam65NGKVvWyxabg12vyogUiYoYl8k6l48kNLIzClX5EzaCqWS9wBh3UnhXFxWKIubQIe59X5A1b8S2gvTEiddrfZlcMS8VCUbDJzIatayqhVslJZkehur3NQNMnyU2tS5l2A7WIKBHpyLWTfaCdbQGrdEwgVUR9s+z8spvCAtWEd+Bq4aBNTIJJtJFJcHGus7enKImgE17icepGdg+RY+l1S+GU0JEiLpliotThyyPjQNnhd9Cn+oGrp6uf3Hd+X8tPg8hDvS9hfLFhongNN0kxj3hw0lMVYfZHuEAF2FwneiW993hjInd8DUXJPNdba1k0eeekYOYQNfJbBsTJw==;jhIxe9mtkRFQtJt8DUwWxw=="
 ---

@@ -100,15 +100,6 @@ related:
       name: BizTech
       domain: biztechmagazine.com
     quality: 18
-  - title: "EOT Reveals Industrial IoT Asset Modeling and Visualization Solutions at AWS re:Invent 2022"
-    excerpt: "With EOT Twin Sight ™ industrial users can now leverage the power of low-code artificial intelligence (AI)-driven software to modernize how asset information and data is visualized and drive the rapid creation of use-case-specific visual dashboards,"
-    publishedDateTime: 2022-11-29T16:06:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/29/9721138.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 9
 
 secured: "DhuSovUK5UT8voqOr+t6CwhIA8Q/JrJdd+XqCOTtbYAdfIRCmoQObYEn24Ec4wsYrFzggzz+LeITRsZH7ZHDkKMYpyyzkVfE1c+dLAxy2huhx3p31JxeIrkTT7SpDwpWqKZ19mrG08kotwviH8QzUIkqRsUjLQuM8kV7wZ4HklfuLYqPg1ztlUKYLxGkVB/obQXDQXh460tien8OTSP3i2hUXssMqp+FGqEcy8zeNitrULcX5O5PDbQryjifHxpMi/8LsaMymy3bBDeBW/0fLRxdIQRykjR7HPfa/Wy+N0Qw0mUT+ePmd3Xklr/cfRNzhacdKxisSV9COepXL07NmAM9OPouAos9PF9ItN4ihip9nR4kIWFoTmYRdso0HZWkSQOGyBo2+Ds59ujVAGA5Dj3j716+3YrU6timbQraYn2iRZ6IquXZtoF4sBScGTyuYQt0FVZPc95BhWccu93gjSwWch93jQwUvJtQ1P+Ze7FNPJ7bTM7I06ToYaYzBBiL4lKY4hHrOh0gfpjYxaQhVQ==;bMitcJ6J9ib5BWqx43wMUA=="
 ---

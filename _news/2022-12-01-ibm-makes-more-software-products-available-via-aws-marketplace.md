@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2022/11/30/ibm-makes-software-products-av
 webUrl: "https://siliconangle.com/2022/11/30/ibm-makes-software-products-available-via-aws-marketplace/"
 type: article
 quality: 56
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -26,15 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "Udacity's Train-to-Hire Program Now Available in AWS Marketplace"
-    excerpt: "Udacity and AWS also worked to offer the AWS Machine Learning Scholarship ... Programs include real world content for job-ready competencies in artificial intelligence, machine learning, data science, autonomous systems, cloud computing, among other ..."
-    publishedDateTime: 2022-11-29T15:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/udacity-s-train-to-hire-program-now-available-in-aws-marketplace-1031942563"
+  - title: "WafCharm for AWS Marketplace\" Launched Worldwide"
+    excerpt: "\"WafCharm for AWS Marketplace\" is now available on AWS Marketplace. \"WafCharm for AWS Marketplace\" is a combination of \"WafCharm\", an automation service of the public cloud platform's WAF operation, with the website falsification detection system."
+    publishedDateTime: 2022-11-29T18:49:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/11/29/9721221.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "AYO4b0tlhHFSLwaMnVS1XAcOL6DLdqZmQECNrIT2Z6gVzAxTgxEetXfX0Nwywx9p2ymxOFlWkW8PkV008c0FXEph2VtyobsQxnoTuE5mH1ZvpDgLyOOP3LI5EfD0kckC7L3YT+JpRvw/y7gyPIfWhjLiCnwkZE40fULmlGQK2ScV77vwFX832yOUZK/aq3ewtbXZ0tnNllySn39ZleObxEq93vxQhpVfVG28S6tIdQIB8yLOFm63WcTRRgpeOcKgs1EgjFw3VexXG9xz1t+zfVaQS+Kksp1TRymaqGD7FNkUt31BYzv7Z+81SEWasA7iap2oWsqACOEba1zFNrlXI9pCtTNABP+7kSA6txP7Vi0=;QgUqpNg/hyUf3avfsTPsLA=="
 ---

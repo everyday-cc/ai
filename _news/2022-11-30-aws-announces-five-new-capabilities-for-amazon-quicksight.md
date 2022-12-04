@@ -49,29 +49,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Descartes Labs Goes All-in on AWS to Help Organizations Harness Geospatial Data to Address Sustainability, Food Security, and Climate Change"
-    excerpt: "Invent, Amazon Web Services, Inc. announced that Descartes Labs, a leading space and geospatial intelligence company, is migrating its core information technology (IT) infrastructure, including its geoprocessing and analytics platforms,"
-    publishedDateTime: 2022-11-29T15:03:00Z
-    webUrl: "https://spaceref.com/earth/descartes-labs-goes-all-in-on-aws-to-help-organizations-harness-geospatial-data-to-address-sustainability-food-security-and-climate-change/"
-    type: article
-    provider:
-      name: SpaceRef
-      domain: spaceref.com
-    quality: 36
-    images:
-      - url: "https://media2.spaceref.com/wp-content/uploads/2022/11/29100321/AWS.png"
-        width: 1581
-        height: 1050
-        isCached: true
-  - title: "AWS Announces Amazon DataZone"
-    excerpt: "Invent, Amazon Web Services Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced Amazon DataZone, a new data management service that makes it faster and easier for customers to catalog,"
-    publishedDateTime: 2022-11-29T16:22:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-amazon-datazone/article_e6b13f53-49a1-5015-bda2-5cc399fc6e22.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 19
   - title: "AWS Announces Five New Database and Analytics Capabilities"
     excerpt: "\"To help customers make the most of their growing volume and variety of data, we are committed to offering the broadest and deepest set of database and analytics services. The new capabilities announced today build on this by making it even easier for customers to query,"
     publishedDateTime: 2022-11-30T19:31:00Z
@@ -81,15 +58,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "AWS Announces Two New Capabilities to Move Toward a Zero-ETL Future on AWS"
-    excerpt: "Amazon Aurora zero-ETL integration with Amazon Redshift enables customers to analyze petabytes of transactional data in near real time, eliminating the need for custom data pipelines Amazon Redshift i"
-    publishedDateTime: 2022-11-29T16:17:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/b29892635/aws-announces-two-new-capabilities-to-move-toward-a-zero-etl-future-on-aws"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
 
 secured: "yj/8d7+D3eMwIToz5uyDFUATp0RGa8Ah5n7G3iN1vJ73BqKVqapCjSmY03hyTCXpI/hY6lFkqR/b9DDBH1T+/nKM6xcgr94E5T5FPpmQ9G0bsuUFsZEFDu1/h0p7LzOyeKgH7xwlxFkC7OrL87aNzxIrFeX1zB4KQNn+9WPwH89ncheNbgwLucLOIGooo3XYN1SWuAn7QreewER3fGbZtkL1D7HxmGwbG4umFJEF5mZPbPoPd2Cf62IFSDzONgQyd3Uc08kKaQXbrwFbyS7RbiBM0x+gAtaU90azcz9o5v/VGksWRb9jsDhb6WCaAMOvuM4M5gWwKwY6ATVDHkKs0ndN+Kg3Leor/tHq80VM1rY=;1kHpx2rqsOvyrWyUP0CyRg=="
 ---
