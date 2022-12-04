@@ -9,7 +9,7 @@ ampWebUrl: "https://healthitanalytics.com/news/amp/machine-learning-tools-helps-
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/machine-learning-tools-helps-predict-alzheimers-progression"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 480
     height: 278
     isCached: true
-
-related:
-  - title: "Machine learning is helping us understand Alzheimer’s disease"
-    excerpt: "Using machine learning to pinpoint the most accurate means and timelines for anticipating the advancement of Alzheimer’s disease"
-    publishedDateTime: 2022-11-29T12:52:00Z
-    webUrl: "https://www.openaccessgovernment.org/machine-learning-helping-understand-alzheimers-disease/148335/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 39
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2022/11/dreamstime_xxl_186175358-scaled.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
 
 secured: "qPC9ihYDaREjYdYa3zzdOmpF2kVMupxNSRYeFpHpIEQXuGbl4N+sJyQr5SKniFAKGqOoRzqyuKk+CNle51AmczmJQNKN7fVMmAlw7oVp9+fl6aUkUy+u6lf4tMipcGuBiYrvBGo2eqenlF4j07cj43c69vrvblTI80d+0msoXxZlkR0lzm1oHVLqj1EJ5zkSrWmTCQAUOTgLrHWDWL/dpx/3FFJOEVcIkCHJ7/qr9vKK2OVKWNWHi1T9juWbZ2El2E2MjT2UYgnawwu4f3uP8+0CnhzEEL4FfzKFh6+p/LF41D5CMQaDZzA9CdJqcqi7Ixh/+UOHqfekO1H1n6zjC2Bnc7K0UOFJmWJfFvDb5kI=;/uSKaUgaow8pfk1zCb9hXA=="
 ---

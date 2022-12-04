@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/how-fi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/how-fintech-impacts-financial-inclusivity/amp/"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-32504,msid-95893903/12.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "Crypto Remains Largest Investment Sector in 2022, Outpacing Fintech And Biotech"
-    excerpt: "Funding for crypto developer teams in Mysten Labs and Aptos Labs have lead DeFi and Web 3 deal-making in Q3 this year."
-    publishedDateTime: 2022-11-29T11:34:00Z
-    webUrl: "https://decrypt.co/115927/crypto-remains-largest-investment-sector-in-2022-outpacing-fintech-and-biotech"
-    type: article
-    provider:
-      name: decrypt
-      domain: decrypt.co
-    quality: 35
-    images:
-      - url: "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/08/crypto-token-investment-gID_6.jpg@png"
-        width: 1024
-        height: 512
         isCached: true
   - title: "The Rise of Climate Fintech"
     excerpt: "The climate crisis is a defining challenge for Asia and the Pacific, but climate fintech can retool the financial sector to benefit people and the planet."

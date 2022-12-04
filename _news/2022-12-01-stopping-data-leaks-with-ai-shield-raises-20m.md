@@ -22,6 +22,17 @@ topics:
   - AI in Autos
   - AI
 
+related:
+  - title: "Deepgram Raises $47M to Define the Future of AI Speech Understanding"
+    excerpt: "Deepgram today announced that it has raised $47 million in equity funding led by Madrona, with Alkeon participating as a new investor. Prior investors also participated in the deal. This transaction completes Deepgram's Series B round in which the company raised a total of $72 million,"
+    publishedDateTime: 2022-11-29T14:09:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/11/29/9720588.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+
 secured: "w0wHPfl+YzxW5ECIXKQsVzwWAq3AYPOjLPNK0sccWFc4mb0RPoWcemgJ4fCyzavL/WZV4+qCWpEBuB4A5RRlLNpNR38ORVg3zLHqvTQQD5nOtHBma8Q7/0N/xXr0xcm6tY2t8YsY1+Mx+ImYaDEmK0nIzVn55oay+2YKvVz2/4Dq03oE+IZ2HOIzfAbrwuSlkxjJegv3CJIH1tePntH1wp5N4BEHfDRd5AYlloGfhxabruZcY4Mue6RY0iqf88HNnhWIQsLTKpB3d6wzH3FmJViEib7QNU2sasVNhhDVVPvmJgWjbsjn3Exo4Rc+8sBoHRGl4qBTdssbSMAi+6oH6VE0bUWT8Gi0eXyM92feQCrYXXu97WsQLqlg+LGvqSNxKYTNHiCPZ9O8lYP5RponQcKjcD8CaI9nFTVv5m20GcLb1QidRxuLouRqDLwjSCB8ZKodeORln/eBj2XwlDrUUWUfwAbGbrJioXBTaobAuRVUBFHNhD/RiCM362rQ6BlQ4FIYMXRwch1m5kB7DCxoPA==;m//gMbsmRmOPUO3zRuI6TQ=="
 ---
 

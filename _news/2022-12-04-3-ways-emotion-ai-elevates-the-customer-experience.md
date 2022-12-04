@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/3-ways-emotion-ai-elevates-the-customer-e
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-ways-emotion-ai-elevates-the-customer-experience/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 118
 published: true
 
 provider:
@@ -46,22 +46,15 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Amazon To Warn Customers On Limitations Of Its AI"
-    excerpt: "Amazon.com Inc is planning to roll out warning cards for software sold by its cloud-computing division, in light of ongoing concern that artificially intelligent systems can discriminate against different groups,"
-    publishedDateTime: 2022-11-30T16:09:00Z
-    webUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985"
-    ampWebUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1"
+  - title: "Amazon to Warn Customers on Limitations of Its AI"
+    excerpt: "Akin to lengthy nutrition labels, Amazon's so-called AI Service Cards will be public so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription."
+    publishedDateTime: 2022-11-30T17:07:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2022-11-30/amazon-to-warn-customers-on-limitations-of-its-ai"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 59
-    images:
-      - url: "https://d.ibtimes.com/en/full/4389003/amazon-logo-company-logistics-center-lauwin-planque.jpg"
-        width: 1200
-        height: 800
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Amazon to warn customers on limitations of its AI"
     excerpt: "Akin to lengthy nutrition labels, Amazon’s so-called AI Service Cards will be public, so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription. The goal would be to prevent mistaken use of its technology, explain how its systems work and manage privacy, Amazon said."
     publishedDateTime: 2022-12-02T07:59:00Z
@@ -72,6 +65,6 @@ related:
       domain: iol.co.za
     quality: 19
 
-secured: "VxJ2f9wM0W5OfPGFM1PdwKYUHYV6hMxhfaAV4lbuyRDOzl7LS6z/XZn2zAH+QjfvvLdRE3la1S44h520JnTt8HwNBOfCnpK4DKsKhALQYbvLA+4ZzKL6K90c3qBej0fgU8rym+owAau45/R7NM5mGY2JpJbuU8PReEgHfZKBjl0pd2UCNMA23Wn0QYowMWWgb3qaVFF2dFtGS6fkSL8oL8A7s5MrYl5pIOomn+nFnrUQbn30j0U4aq4IEogBA8xDwQYQllNCQ4oPMrLMwwFtAS1sIsJ6v6eF5+4rhg/r3z+EInbnYa0jN2umMLufURV3DSkAgf3tEpmx79ZGGfgXwtlacCfzmt+pfWSPYsQ9vdc=;jZdBrpiqR1vjVHlnHRc3uA=="
+secured: "YLNqD+/bmyzT7u/dh1v34Y5CGd3UxCRil9CWvjB/k91mHvTsps+V222MwtUX+TDMpH4znXEEGQDWeDuhK19Ym5bAOfXHVgICe2sCfaOTef7vRZLg7mBQk1S2vib/eCwEfUSKFPFBPY++3kipdizfn0ITEsAp3ARMCBGNMCjfW9drwu1q5zZVZdWijSpGFa+hFVxlDhEMU8XomrOt3Hh5u3DPKoBtYO1P4hZqcpJgv+jG1rrMduqnKA3d45fYgLAVG39Z0HYfNTYk3QfwoO2+ZjJTUrwFGIeEKTnvS2LnFYokUCffUDTH4KfpZY3sQGRpbGq7HMviWBMOgdOQNZNN1OWsRq+hoyPEr9wSNkzXltujdq+I2Jss1ZGBilqol2ZZZxo+sZHJJgypCB70lKSOKW3YW20+HPiJE+dqV3KsJz3heAmk6NLOky1iytiglBqcOmtR2Hc29VLJUUcML96MWmKHeLLNe25eluGFp4ENwMSW2F/0cgG3F1IXbsU/4FMbO3+9yaFrgRDNCVv1ZBbmdA==;3MU5kY6jbrvd1OelPC0jbg=="
 ---
 

@@ -2,14 +2,14 @@
 category: news
 title: "LUMIQ wins AWS Specialty Partner of the Year 2022 - for Data, Analytics, & Machine Learning - second year in a row"
 excerpt: "India's leading Data & Analytics company bagged the AWS Specialty Partner of the Year 2022 Award for Data, Analytics, and Machine Learning at the recent AWS Partner Summit in Bengaluru. The event saw Anil Kumble talking about his entrepreneurial journey and the evolution of the Indian tech landscape."
-publishedDateTime: 2022-11-17T06:43:00Z
-originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1290786&cat=PR News Wire"
-webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1290786&cat=PR News Wire"
+publishedDateTime: 2022-11-17T06:03:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/11/17/9715457.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/11/17/9715457.htm"
 type: article
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
@@ -23,6 +23,6 @@ images:
     height: 267
     isCached: true
 
-secured: "A7bjgl6q12YkLZ3QfLOj4kTPvQL9tZhgmcF8baqkBgZiRYceEKAVGzY1f6ZibnubFcaqY0l4Wej8m/E0empTdsyTyMc1gjDVHQx7rrHelu2frCYbysBuWhQArt53iujqQu8gTLi8h/zMmwvLilAs0QC36dOyQ4e2yxPyD08YfoAC/iJixZuq8WUOGEo2pzu6+rKfNAtqOnR6IGUGK/xaPXrGKxzpPpQfHT/HByEi1ag381vZfb6WI9zhT4bdsrUbEplN1BF5LNiI4ULlGfg/QanBCI/A1AA9NzpccTjIl+COO63XvMGHbPKqxS400lqG3g/IGwSrWsSQ11eLulSIWkAHq6m3Rm0w+M9hB0/JKoU=;xp4EG8XMfE+ahRIdilcGMg=="
+secured: "J5osXrK5c7RlY6Lo2AhqRtpe1D1hSHj23rzJdfBRZC4264AcYBAcf1BS5wPw0/T2OYJaPkktmA29K2I6Rg0ayjX+3lxGONe/S0D0upMoepYNJILNq64SQhG6yGIzWXVr54PdyhpSfG1PjnLAg8cV5objU4if0fqe58hUrSDuZIS3p8/OgILo3RSKYzYa8D5ZKCTiwiKec1Qe6vaxvuWU6rH5URZnW3NuV+aT3gBaUileSQZJQ4owIsyPXoqrlpq2hRMwlMyuxsP2nve/lvOAQNjBwiwzuTx8eMvOCvEzzFxqPPEUE6Q8r7zms9ISw3MQiRQFWAKV2o/ELhNWCDiwukIe/Yt3KRXSot+BF8W3J7E=;mneE7WurfUSaB5mZRzARwg=="
 ---
 

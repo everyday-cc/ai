@@ -7,7 +7,7 @@ originalUrl: "https://www.phillyvoice.com/which-eagles-players-are-deserving-pro
 webUrl: "https://www.phillyvoice.com/which-eagles-players-are-deserving-pro-bowl-recognition/"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Scientists are using facial recognition software to track and protect seals"
+    excerpt: "Marine biologists are taking a controversial technology associated with surveillance, and adapting it for science and conservation."
+    publishedDateTime: 2022-11-30T19:00:00Z
+    webUrl: "https://www.cbc.ca/radio/asithappens/seal-facial-recognition-1.6668125"
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 17
 
 secured: "XJy5/Vk3PMWnLHrl36iXykqHsEmqqw+PPN0MtJ+xboDYKauJShpKuAjP7ojcWcWBj0e6porJUb2C+x28C83eOVEFxoqu0zoMGjbP3YpTvZ8+PZzC3fhBjl+UEJLKkN+esPvPLrJN9rYdeNtp5hpRsNv20QuSyiJbiQTR1DDp53rmZB4KkCdE+HISahiMWQdYpAxxbLT4vHGiiZWhHQ38R7MbA9dVebMTx3KAjjaBZCEMTRZaKvrFEal/UP9dGSFejfcyCuCMQDU28jyi4i6vazwRwZkqSHa1CKixiZUxKw0Se+34oL52QbleWE95e0sxnQsXVY9XcwKzjzNz/N2Nyn8vINKZ8FUUmYuSDtJQmRE=;ccORQdHUquRz6GU9tJWvrw=="
 ---

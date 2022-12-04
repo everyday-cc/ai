@@ -3,23 +3,23 @@ category: news
 title: "Cognigy Achieves AWS Conversational AI Competency Distinction"
 excerpt: "Cognigy announced today that it has achieved the Amazon Web Services (AWS) Conversational AI Competency distinction. This designation recognizes Cognigy for its expertise in developing high quality, highly effective chatbot,"
 publishedDateTime: 2022-11-30T23:02:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/cognigy-achieves-aws-conversational-ai-competency-distinction/article_dbce5c2e-f6f6-5db5-b985-a6474db145fb.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/cognigy-achieves-aws-conversational-ai-competency-distinction/article_dbce5c2e-f6f6-5db5-b985-a6474db145fb.html"
+originalUrl: "https://www.eagletribune.com/region/cognigy-achieves-aws-conversational-ai-competency-distinction/article_20572837-15de-5125-9274-d22df717824d.html"
+webUrl: "https://www.eagletribune.com/region/cognigy-achieves-aws-conversational-ai-competency-distinction/article_20572837-15de-5125-9274-d22df717824d.html"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/b/cd/bcd8e46f-8afc-5e30-a902-a30e0ba13f8d/6387f05565553.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/0/84/08448548-6267-59fd-ae33-9116f4851a9a/6387ef8c3dd5d.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -197,6 +197,6 @@ related:
       domain: tmcnet.com
     quality: 17
 
-secured: "5g+yB+GoIpt/uZzrDVCbvSsbNU9T9Y3l/+DE5rA4eaz0Dj84k4mbwI5RpwluzSEXdbq63qkvIyMHPWRWnd97GLCiAoiVuzzgRcaOK6Q9rKonEIVn4i9RfSBrgtFyhH7UZ5N0l+EqCDx6dTIk51WgEQO9sFuGuJ7H+KtbdVPFsFEWEwI/QSm4dALVryf2mXFmA9NA71C8il0RzmF0o6SCC9cSBxa3AhBYZx0x06gAB7ww1H3ei1uNLdxNeodDXXrrKrB0vvLHHdgLDAX4WGsA5hyuQGRFcicPXSNng2JDdWfXy0OvupeNbP8wwHwOYxMd2zDJdlUVWjLGNka6CTpURJQLdSHn2E74lpK8vUqTLg8=;8vhTm2vt70Qov9FhmmdPMQ=="
+secured: "MUeDTmZlI6p/RIN4XdxLrtKRMID0DMIA2M1RrL7alSP2OcBWk4xwQvgkjUwfgjirv+0YExkO5NASoU1UglIZkoSPKPmcwXoz8Nx31IcZE1b1tCYGn7yhR87dUw41kVfud+ryE3Qq3S22JohGb6aSrKeEcwNBS5hz6d9CC3mvX0rXDZyRT3HVI/aL1nhS2bwE3a9M9c/8WfhreJs6ZblgnlV9xjdul9OJkMwlX4o69e8yVxxUFUVnPNzzNt14ld1mReBdCoBg63TwdJXv4uszh2yDhgK7nISYA3sA2WTm2gCN77YYj5OK9tAYK7gnOLJYLcF7n7nXkcKd6jozhvVJFpwAyxFgKA0Ykq/rtgcpgKw=;4hqTyjLIKS0hpMEXAxVEag=="
 ---
 

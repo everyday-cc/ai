@@ -7,7 +7,7 @@ originalUrl: "https://campustechnology.com/webcasts/2022/12/quantiphi-aws-power-
 webUrl: "https://campustechnology.com/webcasts/2022/12/quantiphi-aws-power-of-data-webcast.aspx?tc=page0"
 type: article
 quality: 53
-heat: -1
+heat: 53
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Finance provider sets up fund aimed at AI, machine learning and data science"
-    excerpt: "AI will focus specifically on early stage, high growth artificial intelligence (AI), machine learning and data science investment opportunities in the North of the UK. River Capital says Northern data science SMEs are underserved by venture capital,"
-    publishedDateTime: 2022-11-29T11:54:00Z
-    webUrl: "https://www.thebusinessdesk.com/northwest/news/2106804-finance-provider-sets-up-fund-aimed-at-ai-machine-learning-and-data-science"
-    type: article
-    provider:
-      name: The UK
-      domain: thebusinessdesk.com
-    quality: 68
-    images:
-      - url: "https://www.thebusinessdesk.com/_files/images/nov_22/Dr-Marc-dAbbadie-river-capital-e1669722818427.png"
-        width: 322
-        height: 216
-        isCached: true
 
 secured: "ZHMHwLaIaaV8JwcBZ7PoTLWocQ9YiMiZz7jwujPBkOQGFm50QvPPHlH09TsKcMpy7uTmje3MTRGP9bC9FTl9PwgZ0U4fccaguiRkylRjgqNfoUx6fC5CULfKgrsD+SckK7NCsNWMFGOuHz8ftX0MDYzP9c1V6fmt0nHZaVd3m8BhsO3V+eG1MiUR9eYSW5TeOtE8V6z4LMmSYT8TFhCfDrA64Sc0C9NiyfdTi19DJ18vF077dRvscL+WsOIAG/zuK/5vPobWyJHedFjiiiQOKwaWvdMMxA2HZbjKE4Ps6XBsmgejStdJfjHDWBaHjvIwMrYvp/4UNk4SSE6LAQOyht+Av1yGC2h1cqmwKCVyVqo=;yLtglF//OkDpJrgEhOovbg=="
 ---

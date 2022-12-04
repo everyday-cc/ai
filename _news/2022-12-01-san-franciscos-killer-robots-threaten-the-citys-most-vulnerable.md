@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/san-franciscos-killer-police-robots-thre
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/san-franciscos-killer-police-robots-threaten-the-citys-most-vulnerable/amp"
 type: article
 quality: 89
-heat: 199
+heat: 200
 published: true
 
 provider:

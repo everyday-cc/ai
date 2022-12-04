@@ -591,7 +591,7 @@
       "originalUrl": "https://www.edsurge.com/news/2022-11-29-how-high-school-should-change-for-an-era-of-ai-and-robots",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -853,6 +853,49 @@
         "AI",
         "AI in Security",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-new-artificial-intelligence-could-help-humans-actually-talk-to-animals.md",
+      "title": "New Artificial Intelligence Could Help Humans Actually Talk To Animals",
+      "excerpt": "New developments in artificial intelligence and technology could help humans communicate with their pets and any other animal species that calls Earth home. Outside of the field of science ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsy.com/stories/artificial-intelligence-could-help-humans-talk-to-pets/",
+      "originalUrl": "https://www.newsy.com/stories/artificial-intelligence-could-help-humans-talk-to-pets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newsy.com/images/videos/m/1669756816_CgX8sG.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-28T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsy",
+        "domain": "newsy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1435,49 +1478,6 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-25-teslas-full-self-driving-beta-is-now-available-to-everyone-in-north-america.md",
-      "title": "Tesla’s ‘Full Self-Driving’ Beta is now available to everyone in North America",
-      "excerpt": "Tesla’s “Full Self-Driving” Beta, which has been gradually rolling out over the past couple of years, is now available to anyone who’s paid for the feature in North America, CEO Elon Musk ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/11/24/23476570/teslas-full-self-driving-beta-release-north-america-safety-score",
-      "originalUrl": "https://www.theverge.com/2022/11/24/23476570/teslas-full-self-driving-beta-release-north-america-safety-score",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-25T00:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

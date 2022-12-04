@@ -73,20 +73,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Crypto Remains Largest Investment Sector in 2022, Outpacing Fintech And Biotech"
-    excerpt: "Funding for crypto developer teams in Mysten Labs and Aptos Labs have lead DeFi and Web 3 deal-making in Q3 this year."
-    publishedDateTime: 2022-11-29T11:34:00Z
-    webUrl: "https://decrypt.co/115927/crypto-remains-largest-investment-sector-in-2022-outpacing-fintech-and-biotech"
-    type: article
-    provider:
-      name: decrypt
-      domain: decrypt.co
-    quality: 35
-    images:
-      - url: "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/08/crypto-token-investment-gID_6.jpg@png"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "How FinTech is Transforming Financial Services and Ushering in an Amazing New Normal"
     excerpt: "One area where technology has made deep inroads into the human experience is financial services. Thanks to FinTech, many of us don’t need use paper cheques, visit a bank branch to update our passbooks,"
     publishedDateTime: 2022-12-01T12:08:00Z
