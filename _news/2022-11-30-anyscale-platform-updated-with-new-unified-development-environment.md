@@ -32,15 +32,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 17
-  - title: "The Anyscale Platform™, built on Ray, Introduces New Breakthroughs in AI Development, Experimentation and AI Scaling"
-    excerpt: "Anyscale, the company behind Ray open source, the unified compute framework for scaling any machine learning or Python workload, announced several new advancements on the Anyscale Platform™ at AWS re:Invent in Las Vegas,"
-    publishedDateTime: 2022-11-29T18:59:00Z
-    webUrl: "https://insidebigdata.com/2022/11/29/the-anyscale-platform-built-on-ray-introduces-new-breakthroughs-in-ai-development-experimentation-and-ai-scaling/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 0
 
 secured: "6UMYttu0VzOoeZ3HqAXwIoGS2KedPzPa3KhJzSMWzpUWWY1kVLnkS4gMa56oop543p1icwZrzlki8WuxjEnV3g/sGPwYRqNue6t4tJyXxjuNYVbp6HE7/uL2AContswpoeLKH10cmzjsRu7o2UKH1suwrXU2pSRpADTzTJo/qBMzkMGdsSi39n59a9raurs43+L0G4zyQfFAvBOPQXVeyECL04u40G5C+PMiuQsuPOi7YyyvkTmH3lKOeO9XawAm8AI5vnc2W1u27AdrDq9lWqqb6+/UkI0rs/Tw5FPcTqKzg6Lb0rkg37tGonCQ2zCuUgd8LIn0jUeDef/zmZVI3Mbo8nNXzdKZZaqwPOhBwAs6As6AzaUeDEd/CubQ0ZiMpkmlHL3MOvtRD23CZ7ZYAELEJbZsaXlV6tHwyx/aXbHdK6NZyO61jisdxpjuEnJVA5oSScl8FpajdvcK1lcyUqdz1ZfnjlrQwIcnqsRHg/Xnrx6x/HkYFQhkEw1AhQr/ESVRNylUJpUNYevK7tQFJQ==;T8Dn4ilUtNU7Po3a0lMdcQ=="
 ---

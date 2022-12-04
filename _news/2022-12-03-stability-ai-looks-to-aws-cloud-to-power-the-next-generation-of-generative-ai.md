@@ -64,52 +64,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Cardinality.ai Awarded 2022 Regional and Global AWS Partner Award"
-    excerpt: "Cardinality.ai recognized State or Local Government Partner of the Year winner, one of many AWS Partners around the globe that help customers drive innovation LAS VEGAS, Nov. /PRNewswire/ -- Cardinality."
-    publishedDateTime: 2022-11-29T18:07:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/n29894595/cardinality-ai-awarded-2022-regional-and-global-aws-partner-award"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29894595"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29894595"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
-    images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
-        width: 666
-        height: 282
-        isCached: true
-  - title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
-    excerpt: "Hpc7g instances featuring new AWS Graviton3E chips deliver the best price performance for HPC workloads on Amazon EC2 C7gn instances featuring new AWS Nitro Cards with enhanced networking offer the hi"
-    publishedDateTime: 2022-11-29T17:25:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/b29893848/aws-announces-three-amazon-ec2-instances-powered-by-new-aws-designed-chips"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29893848"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29893848"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
-    images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
-        width: 800
-        height: 313
-        isCached: true
-  - title: "AWS enhances its AI portfolio with array of automation capabilities"
-    excerpt: "The new capabilities made their debut on Monday at the cloud giant’s AWS re:Invent 2022 conference in Las Vegas. They’re rolling out for five of the AI services offered by AWS: Amazon Textract, Amazon Transcribe,"
-    publishedDateTime: 2022-11-29T18:57:00Z
-    webUrl: "https://siliconangle.com/2022/11/29/aws-enhances-ai-portfolio-array-automation-capabilities/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/DSC02906.jpg"
-        width: 4896
-        height: 3672
-        isCached: true
   - title: "Cognigy Achieves AWS Conversational AI Competency Distinction"
     excerpt: "Cognigy announced today that it has achieved the Amazon Web Services (AWS) Conversational AI Competency distinction. This designation recognizes Cognigy for its expertise in developing high quality, highly effective chatbot,"
     publishedDateTime: 2022-11-30T23:02:00Z
@@ -208,6 +162,15 @@ related:
       name: The Buffalo News
       domain: buffalonews.com
     quality: 32
+  - title: "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads."
+    publishedDateTime: 2022-11-29T20:15:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/11/29/9721297.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "MeV8t8hy1TqdRocJCoVSMWCS6nNlBZNcLXnGUlqncZNQ0v5svyDzpZ4/IWOL/dUPQ0nV4zzHYF78+PLBw2HfuoBWrxUwZg/hqYfXuQmP2GNG5QjoOKCKd69kWfGAlYpfvAGl5U60v+u0AXhIlRZW0VHJvfLquJgVMBMWg4G2VP9Jnj5/kKNFFVX0GSEa99QUGBSCJxS1WJ/7He8jAK9rlvNae88sTXtfgIumWoH6q2d2Ff23M0i6FC4+hoT22wwkN2+F2ApyB/DlBspsnjZyYEEuQ1UMV+pabe8zGWC1VCWCwgEMa/4OlBDPj631/kGmxeO2ry/U7+K4hKIuV0mpRS47zUTFUkAh90/R8vAfS3oP6pJLy2MtIUNFJMLgaFQv1kHQIF9YjDoPnNFkd05a1J8bDNINEHrJpQn2GYudGin0pjHqShArP3C0URp90Rtx5+3zQ9LwuDkdWyhnTcaY41yYDEKkstiK0U/6J+4mmmidsR0zfRDKvqx4UmP+bxEUt9dBcHWURWPR5KhxRRmr5w==;xKjD1yoDXrv032vksL0dhQ=="
 ---

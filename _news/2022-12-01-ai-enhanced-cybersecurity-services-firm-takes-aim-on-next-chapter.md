@@ -24,17 +24,6 @@ images:
     height: 540
     isCached: true
 
-related:
-  - title: "How Deep Learning Has Proved to Be Useful for Cyber Security"
-    excerpt: "The threat of cyber attacks has recently increased dramatically and traditional measures now appear to be insufficiently competent."
-    publishedDateTime: 2022-11-29T18:16:00Z
-    webUrl: "https://www.bbntimes.com/technology/how-deep-learning-has-proved-to-be-useful-for-cyber-security"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 36
-
 secured: "z4oasErsIk76okMTxh49UktcK293t9Ax74yAeDW/FEUvQgmrRdGce6bT90LI00gOfeHiHE6wjL+DDdlGjokwYH+rcyQYgDpxg6t32xECXVsk23kAHnuUwl8qNebD83aZfh3hqKuXw+FND5T92aPGbgVKuRoxBjMTK6SJIluFAB/jteL/BRXhatwDCAE+N9nDMsTZScj8b5G4JkWC8jSYLY/HTMjMDzhCB7TfMH625AYniof+nPkYy0YeCEW0X6LocuQgIFLcBdiTv9Kgg4rdwAKadM+sacbfCzS0I2fnVdYyZeC26vAgyDSRk7bF8oxMxWH4zh9oQopDNWZUa45Gw2Vfr89adycqdFN123w22ZI=;6fhOr8v8p1amebIAuiZf/g=="
 ---
 

@@ -18,15 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Inside Magarac's first deal; how and why Pittsburgh gained AI startup Netail"
-    excerpt: "You don’t get named as one of the most influential people in the world by Time magazine if you’re not the real deal.\""
-    publishedDateTime: 2022-11-29T17:55:00Z
-    webUrl: "https://www.bizjournals.com/pittsburgh/news/2022/11/29/how-pittsburgh-gained-netail.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 14
   - title: "With Pittsburgh as its new headquarters, AI-powered retail pricing startup Netail sets its sights on growth"
     excerpt: "For Mark Chrystal, the CEO and co-founder of Netail, Pittsburgh will serve as a launching pad for a company that only recently came out of stealth mode."
     publishedDateTime: 2022-11-29T23:26:00Z

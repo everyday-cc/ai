@@ -26,6 +26,20 @@ images:
 
 related:
   - title: "Honda Plans New Autonomous Features but Sees Long Road Ahead to Self-Driving Cars"
+    excerpt: "Honda said it would focus for now on partially autonomous driving technology to improve safety, joining the auto makers that say fully self-driving cars aren’t ready for prime time"
+    publishedDateTime: 2022-11-30T14:00:00Z
+    webUrl: "https://www.wsj.com/articles/honda-plans-new-autonomous-features-but-sees-long-road-ahead-to-self-driving-cars-11669820402?mod=newsviewer_click"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 49
+    images:
+      - url: "https://images.wsj.net/im-676004/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Honda Plans New Autonomous Features but Sees Long Road Ahead to Self-Driving Cars"
     excerpt: "HAGA, Japan—Honda Motor Co. said it would focus for now on partially autonomous driving technology to improve safety, adding itself to the list of auto makers that say fully self-driving cars aren’t ready for prime time. The Japanese auto maker ..."
     publishedDateTime: 2022-11-30T16:59:00Z
     webUrl: "https://www.wsj.com/articles/honda-plans-new-autonomous-features-but-sees-long-road-ahead-to-self-driving-cars-11669820402?mod=business_lead_pos13"
@@ -87,15 +101,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Honda Plans New Autonomous Features but Sees Long Road Ahead to Self-Driving Cars"
-    excerpt: "The auto maker said it would focus for now on partially autonomous driving technology to improve safety, joining others that say fully self-driving cars aren’t ready for prime time."
-    publishedDateTime: 2022-11-30T14:19:00Z
-    webUrl: "https://www.wsj.com/articles/honda-plans-new-autonomous-features-but-sees-long-road-ahead-to-self-driving-cars-11669820402?mod=latest_headlines"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 29
 
 secured: "dbxoSiWx85Jkz5HfrW9HjUk0k/aSsKbYr027jQxshmo0QeFq0+z0TlGYq+I2jqYiSTKDKvag634biKICjGC9WcOnGHPykzI6ZwjAcI5tuuq6vIZwV6slbHZ0Wn+cC3cx41cWVwqiyIMCX2qTSlfLRHFoXIcDEeH8Hv2uf9V8XQtQy4kyIbXcXTHNcdgdws9kHE6gvjvWji+xXWFzx6GtJY2+3dlKhPPSCWrsY+W1j/DCmbvcnxEYLm77hwzeC79k9cC5l6lvIJ3ls72E2V1YUV0WjWKxgK+PjwyDkD5Hn5U9UNzr+O6AF3mikwEe9IYlQ+uuU76n1nlzbU3yybmk6jhA3gscPYLJYtAcyKIrV/a5c08tm79XMjHPXh93SjWeaSHI1RsDWDAIEUYsaXoz5jJLpC7ENDFfeP3pd94wj4Y4p8YUIiwJn6G17PQ/xwU87gl4B7drkQOTGEJiED9CGvp15tLWRZSy8nX5fHrEqpZKYkTVE2adO/0RdZLtyzBQhy+44GkpmQTtNxKeQCxycw==;BZ1OXW1v3+NI4O1nNbiysw=="
 ---

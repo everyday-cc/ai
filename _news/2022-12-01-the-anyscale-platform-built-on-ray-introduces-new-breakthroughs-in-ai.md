@@ -27,15 +27,6 @@ related:
       name: SD Times
       domain: sdtimes.com
     quality: 34
-  - title: "The Anyscale Platform™, built on Ray, Introduces New Breakthroughs in AI Development, Experimentation and AI Scaling"
-    excerpt: "Anyscale, the company behind Ray open source, the unified compute framework for scaling any machine learning or Python workload, announced several new advancements on the Anyscale Platform™ at AWS re:Invent in Las Vegas,"
-    publishedDateTime: 2022-11-29T18:59:00Z
-    webUrl: "https://insidebigdata.com/2022/11/29/the-anyscale-platform-built-on-ray-introduces-new-breakthroughs-in-ai-development-experimentation-and-ai-scaling/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 0
 
 secured: "Eq8rjW6yCxbtYJkASdmP05N04mm6vxZufzcAyNdzcCs5S3llQgvr9083WmHPbTm7XUlrSvbxiVXbM0bU6ae69tkfvIIGOZucGVo7em5XWGrq/ml763ezn11TfSXsqjcjR9aJHWWOLhHSTkJdkXP31hVaJ5uGu3w2RE3JGZnAe2QRw8rys1lBEXz/cdQyVg9UzEQ2fVHrU8JHx7j9Eg7BLMGDSAUu4U+OQ3kciF+ZSk91Wmt4A8ApXPRMmOpIsOAtoUib48Gd2/kAKbI4V8XNJSQXMQPQCIipISzySsX8VrPaEDIsy5caiimiI/CfFVmtP/IFAGJ4p0LvibqoCOAsk9vpVgCiU0uU8gROQIM/0MI=;cvrh0KzikERhzoJB3XKWNw=="
 ---

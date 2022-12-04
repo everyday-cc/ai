@@ -47,6 +47,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Descartes Labs Announces AWS Migration"
+    excerpt: "AWS today announced that Descartes Labs, a leading space and geospatial intelligence company, is migrating its core"
+    publishedDateTime: 2022-11-29T20:33:00Z
+    webUrl: "https://www.datanami.com/this-just-in/descartes-labs-announces-aws-migration/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
   - title: "UNC-Chapel Hill, AWS Launch Cloud-Driven Health Startup Collaboration"
     excerpt: "The University of North Carolina at Chapel Hill announced a collaboration with Amazon Web Services to create cloud-driven digital health research startups."
     publishedDateTime: 2022-12-02T13:30:00Z

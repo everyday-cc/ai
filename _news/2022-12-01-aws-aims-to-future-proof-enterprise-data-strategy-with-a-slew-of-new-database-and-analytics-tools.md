@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AWS Announces Five New Database and Analytics Capabilities"
+    excerpt: "\"To help customers make the most of their growing volume and variety of data, we are committed to offering the broadest and deepest set of database and analytics services. The new capabilities announced today build on this by making it even easier for customers to query,"
+    publishedDateTime: 2022-11-30T19:31:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-five-new-database-analytics-capabilities-/2022/11/30/9722273.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "Data Center Accelerator Global Market Report 2022: Growing Use of Deep Learning Technology in Big Data Analytics Boosts Sector"
     excerpt: "The Data Center Accelerator market size is estimated to be USD 21.2 billion in 2022 and is projected to reach USD 64.0 billion by 2027, at a CAGR of 24.7% during the forecast period. The boom in the data center accelerator market is mostly due to the increasing number of companies offering machine learning as a service and increasing demand for FPGA-based accelerators."
     publishedDateTime: 2022-11-30T12:41:00Z

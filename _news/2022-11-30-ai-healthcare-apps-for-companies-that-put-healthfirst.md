@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/11/29/ai-healthcare-ap
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/11/29/ai-healthcare-apps-for-companies-that-put-healthfirst/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -53,22 +53,6 @@ related:
       - url: "https://www.bbntimes.com/images/articles/global-economy/AI_Can_Help_Therapists_Ease_Mental_Healthcare.png"
         width: 1530
         height: 1018
-        isCached: true
-  - title: "Researchers propose competencies for proper use of artificial intelligence in health care"
-    excerpt: "Family medicine professional associations have sought to identify how Artificial Intelligence (AI) can support primary care. The associations have launched initiatives that bring together AI experts and primary care clinicians to tackle these challenges."
-    publishedDateTime: 2022-11-29T18:28:00Z
-    webUrl: "https://medicalxpress.com/news/2022-11-proper-artificial-intelligence-health.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-11-proper-artificial-intelligence-health.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-proper-artificial-intelligence-health.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 52
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-5.jpg"
-        width: 1920
-        height: 1200
         isCached: true
   - title: "AI in Health Care: No, the Robots Are Not Taking Over"
     excerpt: "The AI robots are not taking over ... board chair of the Alliance for Artificial Intelligence in Healthcare and CEO of Cyclica Inc. Machine learning, a form of artificial intelligence where a computer learns over time as it gets more and more data ..."

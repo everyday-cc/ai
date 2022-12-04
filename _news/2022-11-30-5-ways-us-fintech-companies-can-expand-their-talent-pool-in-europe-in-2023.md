@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Giraffe AI Labs Participated in the Singapore Fintech Festival (SFF) 2022"
-    excerpt: "Giraffe AI Labs is a digital financial company based in Singapore. Recently, the company has actively participated in the Singapore Fintech Festival (SFF) 2022 from the 2nd to the 4th of November.Singapore City,"
-    publishedDateTime: 2022-11-29T18:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/29894549/giraffe-ai-labs-participated-in-the-singapore-fintech-festival-sff-2022"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 18
 
 secured: "SaznwxLotjczBSsKOINoWf6Na5CxtytfndW0jHLQSXteXkFDiDzD9tZsmAV45gQSPYECMAUrFlP0FsvwP2n526EODeYqfqjVw9aMjzvSIzjv1MtdFO+4qZ+ir69J6g6T7wF9jGS1C4ybA7D59T3tQNIxtw6F3HsBjl/Fzx5OyKAOuodj8U6WAKQJcPmhMGDmgR3fHgXSMsS+U6y+RT0LoUBR2ULjVQ/aGcqKoVGNOmDL+pPZW+gemKNdJHiQY1RAMd1egZvlNVwA3suNbHSlakOta3znquFkAW7LhGEwI6SrPCA4oxqYpg6QpJ4GEa6k/f4P6+ajf9RWCS4S2CzWnYVLy4j1jPeIEr3wH3v2bIR7l/BiWIWrIlzgHNWvlclYVEjDosjXILPqL01h1kPFt3s7z2imVK7Mzp0sQTBa220VhbFZdKq/viSSwaJa6qMyzS7KxvPxCqabkdXbrJoyvh8vlVaVPeSMmUzE9H3ypEzJ5y30D0fKQ9yL2VxgrPK+AX7Mgs8S/tS2bHly9u8Tiw==;u1s7r2gA0GeadCfnG9cM7w=="
 ---

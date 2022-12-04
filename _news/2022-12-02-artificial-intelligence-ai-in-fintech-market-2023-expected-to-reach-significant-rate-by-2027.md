@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-2023-expected-to-reach-significant-rate-by-2027-2022-12-02"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "Giraffe AI Labs Participated in the Singapore Fintech Festival (SFF) 2022"
-    excerpt: "Giraffe AI Labs is a digital financial company based in Singapore. Recently, the company has actively participated in the Singapore Fintech Festival (SFF) 2022 from the 2nd to the 4th of November.Singapore City,"
-    publishedDateTime: 2022-11-29T18:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/29894549/giraffe-ai-labs-participated-in-the-singapore-fintech-festival-sff-2022"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 18
 
 secured: "BFvOKVO19YGfKXVOdYck2a0cxlrlBnEMR821f78BvjCsditE7lA4Syif0rE6sE8ZO/8fKwJW8VzTiWbjYohGDCXAkgva3Xrd4iNjqp+izR/FFXTR/cq8ebt2LhqswlphvNIXpFfxznuubO+lKBrY1hMTw3ejl0drdcs18TINPMo8EWf58PFrwRieehb3VVhQ9op2c7wFu4Oq2ju3WGb8XLMq1JwvtyygLwGuQpwCLsFIH8TQuKg5PyLKL0CswmX9lAYd833TmDtfVM4RNvM/LPtpYTf1PIw4t/5M3PUzoYLzh59LJkfMrTMHe7g8wfKHpu7o5Vxls7+C+qdbRpjkpGNvypUuVkmKhN84qWxc8Og=;eIxR4rO++/eC079tQtwSrA=="
 ---

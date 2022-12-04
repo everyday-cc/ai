@@ -19,45 +19,45 @@ topics:
   - AI
 
 related:
-  - title: "AWS adds machine learning capabilities to Amazon Connect"
-    excerpt: "Amazon Web Services announced the general availability of forecasting, capacity planning, scheduling, and Contact Lens features for its Amazon Connect contact center service, while introducing two new features in preview."
-    publishedDateTime: 2022-11-29T18:30:00Z
-    webUrl: "https://www.cio.com/article/414715/aws-adds-machine-learning-capabilities-to-amazon-connect.html"
-    ampWebUrl: "https://www.cio.com/article/414715/aws-adds-machine-learning-capabilities-to-amazon-connect.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/414715/aws-adds-machine-learning-capabilities-to-amazon-connect.html/amp/"
+  - title: "Using Advanced Technology And Analytics To Fight Financial Crime"
+    excerpt: "Financial services organizations increasingly are using advanced ... to increase efficiency in identifying suspicious activities. Among various analytics, machine learning (ML) has been particularly effective, as it can identify patterns of behavior ..."
+    publishedDateTime: 2022-12-01T16:29:00Z
+    webUrl: "https://www.forbes.com/sites/crowe/2022/12/01/using-advanced-technology-and-analytics-to-fight-financial-crime/"
+    ampWebUrl: "https://www.forbes.com/sites/crowe/2022/12/01/using-advanced-technology-and-analytics-to-fight-financial-crime/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/crowe/2022/12/01/using-advanced-technology-and-analytics-to-fight-financial-crime/amp/"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 76
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/11/artificial-intelligence-machine-learning-and-modern-computer-and-picture-id1209989402-100903158-large-100912674-orig.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
+      - url: "https://imageio.forbes.com/specials-images/imageserve/637cff7eadf891a4d51a9f12/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Microsoft, Defense Firms Partnering on Modeling and Simulation Capabilities"
-    excerpt: "Microsoft is collaborating with defense sector companies as DOD seeks to increase its gaming, exercising, modeling and simulation capabilities."
-    publishedDateTime: 2022-11-29T22:33:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2022/11/microsoft-defense-firms-partnering-modeling-and-simulation-capabilities/380270/"
+  - title: "AWS aims to future-proof enterprise data strategy with a slew of new database and analytics tools"
+    excerpt: "AWS aims to future-proof enterprise data strategy with a slew of new database and analytics tools - SiliconANGLE"
+    publishedDateTime: 2022-11-30T23:32:00Z
+    webUrl: "https://siliconangle.com/2022/11/30/aws-sets-future-proof-enterprise-data-strategy-release-new-database-analytics-tools/"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 37
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
     images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2022/11/29/vrmilGettyImages_1226582027/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/swami-awsreinvent2022-1.jpg"
+        width: 4896
+        height: 3672
         isCached: true
-  - title: "AWS Announces Five New Capabilities for Amazon QuickSight"
-    excerpt: "\"That is why more than 100,000 customers use QuickSight to power their BI needs. Today's announcement makes QuickSight even more intuitive, flexible, and accessible while streamlining BI operations with a comprehensive and fast service built for the cloud."
-    publishedDateTime: 2022-11-29T19:42:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/29/9721262.htm"
+  - title: "Data Center Accelerator Global Market Report 2022: Growing Use of Deep Learning Technology in Big Data Analytics Boosts Sector"
+    excerpt: "The Data Center Accelerator market size is estimated to be USD 21.2 billion in 2022 and is projected to reach USD 64.0 billion by 2027, at a CAGR of 24.7% during the forecast period. The boom in the data center accelerator market is mostly due to the increasing number of companies offering machine learning as a service and increasing demand for FPGA-based accelerators."
+    publishedDateTime: 2022-11-30T12:41:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/11/30/9721625.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 19
+    quality: 0
 
 secured: "4eZ+ocgQoDK/d+U6LdhGkVbZNACGQV5qb00VSI7fQU3+R/MdTZ5ui5uPUcY/umAAlanFH1zFAL/HxFYOq7SQjVZ+xKwnY3uxTbrDgeh87zYqZiyKjQTmRVoPQKlW+H6LK1Q1o+Wo6srlvAAAPBsKzZnQFpScV6hIWf5bnhK++IEIGAJt7zlz+DVcpH2gs5bMmy84Lw8G7KAz+nO30N+soe+mI+LO+r1u1MGzOA+Ax0izksCQDmVvQU7biQ5aqRxB3LQ/aJb1zuVolIdvJqvC/JKatSDLJRVyD1tLRc98pKGEuEAs2b3+KvmWk9V8N8KUUAxMAtNlJG1T31UF7NosgVBii2Nr6boa3A1dXGFN3UE=;nNhX7wUqHrcPSVlEf0QIaw=="
 ---

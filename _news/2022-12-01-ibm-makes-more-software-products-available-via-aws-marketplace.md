@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2022/11/30/ibm-makes-software-products-av
 webUrl: "https://siliconangle.com/2022/11/30/ibm-makes-software-products-available-via-aws-marketplace/"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 800
     height: 533
     isCached: true
-
-related:
-  - title: "WafCharm for AWS Marketplace\" Launched Worldwide"
-    excerpt: "\"WafCharm for AWS Marketplace\" is now available on AWS Marketplace. \"WafCharm for AWS Marketplace\" is a combination of \"WafCharm\", an automation service of the public cloud platform's WAF operation, with the website falsification detection system."
-    publishedDateTime: 2022-11-29T18:49:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/29/9721221.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "AYO4b0tlhHFSLwaMnVS1XAcOL6DLdqZmQECNrIT2Z6gVzAxTgxEetXfX0Nwywx9p2ymxOFlWkW8PkV008c0FXEph2VtyobsQxnoTuE5mH1ZvpDgLyOOP3LI5EfD0kckC7L3YT+JpRvw/y7gyPIfWhjLiCnwkZE40fULmlGQK2ScV77vwFX832yOUZK/aq3ewtbXZ0tnNllySn39ZleObxEq93vxQhpVfVG28S6tIdQIB8yLOFm63WcTRRgpeOcKgs1EgjFw3VexXG9xz1t+zfVaQS+Kksp1TRymaqGD7FNkUt31BYzv7Z+81SEWasA7iap2oWsqACOEba1zFNrlXI9pCtTNABP+7kSA6txP7Vi0=;QgUqpNg/hyUf3avfsTPsLA=="
 ---

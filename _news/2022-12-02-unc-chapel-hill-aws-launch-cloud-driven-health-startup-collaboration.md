@@ -47,6 +47,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Descartes Labs Announces AWS Migration"
+    excerpt: "AWS today announced that Descartes Labs, a leading space and geospatial intelligence company, is migrating its core"
+    publishedDateTime: 2022-11-29T20:33:00Z
+    webUrl: "https://www.datanami.com/this-just-in/descartes-labs-announces-aws-migration/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
   - title: "American Family Insurance and AWS Team Up to Drive Innovation in the Insurance Industry"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced an expanded relationship with American Family Insurance, a mutual insurance company focused on property,"
     publishedDateTime: 2022-12-01T16:40:00Z

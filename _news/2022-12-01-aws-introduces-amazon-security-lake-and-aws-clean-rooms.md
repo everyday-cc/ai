@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/2022/11/30/aws-introduces-amazon-security
 webUrl: "https://www.datanami.com/2022/11/30/aws-introduces-amazon-security-lake-and-aws-clean-rooms/"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 36
-  - title: "AWS Announces AWS Clean Rooms"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), today announced AWS Clean Rooms, a new analytics service that helps companies across industries easily and securely analyze and collaborate on their combined datasets—without sharing or revealing underlying data."
-    publishedDateTime: 2022-11-29T17:27:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/aws-announces-aws-clean-rooms/article_b2f7d9b2-f8b2-5d6c-ae8f-c13c71203b64.html"
-    type: article
-    provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 19
 
 secured: "SjQ9bJYkQTdrTWZ/mmgbjkz1MGrax8uRnTNW28j4caEZvTzMiOUrKtyCAK/kSy3na6ABfernnpE3MIo0TBP+x0EVQdFNcCuZqjnlQj9l+zzn55gRMqHEu+OHEejFzIwlTtWhvU1mZwj8MsG847cTgGRVU/xUa2jrRK7lGvdCmblTxDEUdTKtki4KzeNf+zi7XJEVCDIjOBKhUxQIo0ddq2y50AYvh0ikG9WBbJyoBgzqYRM0ltHKIL1bwqpsC7LxB29gwwkadJC1d6J1emPDvtm1TozxENLJXycagfPKLYVKOSlOOMLoC58RUpdmGiiDKkWCGOt+FQyiUFlAc4NKLjBuxVNJj5GI+/oNKCP8OzFXttrzllSF/hYuGQwZcglx12hHxN/Jip3h5uwTRcyfOXraeScYtNGmnBHAur6xOQC5uUXHgnxyK+2fIWR2CZ995sqSsMUajNhFyFW28kx1oMFEwNHredB3osNf2nezD8iymc5J+QUNo8xUXUeqK1cFlMXDqwy+m7sTp7n9XKV4lA==;rRyY+mHkaeKxOEIWfkB1RQ=="
 ---
