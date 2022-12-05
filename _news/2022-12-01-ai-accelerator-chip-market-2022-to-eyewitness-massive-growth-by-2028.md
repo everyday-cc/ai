@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-mark
 webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-2022-to-eyewitness-massive-growth-by-2028-2022-12-01"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Medicine Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028"
+    excerpt: "Artificial intelligence (AI) is a branch of computer science that deals with the design of intelligent agents,"
+    publishedDateTime: 2022-12-05T06:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-12-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

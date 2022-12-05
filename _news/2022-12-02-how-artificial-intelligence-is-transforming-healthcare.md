@@ -7,8 +7,8 @@ originalUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-is-tra
 webUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-is-transforming-healthcare"
 type: article
 quality: 66
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: Nasdaq
@@ -20,23 +20,30 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "AI in Health Care: No, the Robots Are Not Taking Over"
-    excerpt: "The AI robots are not taking over ... board chair of the Alliance for Artificial Intelligence in Healthcare and CEO of Cyclica Inc. Machine learning, a form of artificial intelligence where a computer learns over time as it gets more and more data ..."
-    publishedDateTime: 2022-12-01T19:31:00Z
-    webUrl: "https://www.webmd.com/a-to-z-guides/news/20221201/no-the-robots-are-not-taking-over"
+  - title: "The Future Is Now: Transforming PCB Manufacturing Using Artificial Intelligence"
+    excerpt: "Manufacturers are exploring ways to increase the efficiencies by which essential electronic components are produced."
+    publishedDateTime: 2022-12-05T13:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/05/the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence/amp/"
     type: article
     provider:
-      name: WebMD
-      domain: webmd.com
-    quality: 40
-  - title: "Keeping a finger on the pulse of healthcare’s digital transformation"
-    excerpt: "and * Artificial intelligence (AI), machine learning (ML) and analytics – using AI and predictive analytics to effectively build detailed industry insights with a view to improving proactive preventive care. The rise of OT in the healthcare arena “The ..."
-    publishedDateTime: 2022-12-02T08:01:00Z
-    webUrl: "https://it-online.co.za/2022/12/02/keeping-a-finger-on-the-pulse-of-healthcares-digital-transformation/"
+      name: Forbes
+      domain: forbes.com
+    quality: 83
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62a797a880eca7dbef9036cc/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 673
+        isCached: true
+  - title: "Insights on the Artificial Intelligence in Manufacturing Global"
+    excerpt: "The Global Artificial Intelligence in Manufacturing Market is expected to reach $21.3 billion by 2028, rising at a market growth of 42.2% CAGR during the forecast period. In recent years, artificial intelligence has become one of the fastest-growing technology."
+    publishedDateTime: 2022-12-01T20:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-insights-the-artificial-intelligence-manufacturing-global-market-2028-/2022/12/01/9723284.htm"
     type: article
     provider:
-      name: IT-Online
-      domain: it-online.co.za
+      name: TMCnet
+      domain: tmcnet.com
     quality: 19
 
 secured: "6K55nxV0LdnWeBG7ZeaicbEYX+Gy1dWANzM8MubALVS5DuP5LFOYUYbMyAx2mmcAaCTgRGKDTK/yZ1rG+kILMEy0nKceEKSU74d15OzjUSiqX1qQqYkawCt8zTivjOYyNwCQqjKRoLiyF99fK9QJvVvCJgcW7H5nsqASGzRnjr2FhOqVXbJdFOn4JWKxStr8lqtq/z5FC2AkUB44UOq0FHsMtJWh/t7b7ArP5pVaB8vqlTcboK347InisY2Ie33Px+RpZtMT7L9/xT8G9ujur/Z1FwT4bEmSzohivHvk4DYlY7bt98Bek1lOflgoep064N7iy5YR5Ausq9/H/5ESWBXGOIXKzDZWPNM9kpraWMc=;TxgWnhXz8Yz7AHfma7gKBw=="

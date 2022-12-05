@@ -25,43 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "AWS and Slalom Expand Next-Generation Strategic Collaboration"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ:AMZN), and Slalom, LLC (Slalom), a global business and technology consulting company, announced a multiyear extension to the companies’ global Strategic Collaboration Agreement (SCA)."
-    publishedDateTime: 2022-11-30T22:23:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/aws-and-slalom-expand-next-generation-strategic-collaboration/article_8d799519-a4fb-5338-b6cb-6eef3ddfee0b.html"
+  - title: "AWS names 6 key trends driving machine learning innovation and adoption"
+    excerpt: "From data growth and democratization to industrialization and responsible AI, AWS identified 6 key drivers of machine learning adoption."
+    publishedDateTime: 2022-12-05T16:07:00Z
+    webUrl: "https://venturebeat.com/ai/aws-names-6-key-trends-driving-machine-learning-innovation-and-adoption/"
+    ampWebUrl: "https://venturebeat.com/ai/aws-names-6-key-trends-driving-machine-learning-innovation-and-adoption/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/aws-names-6-key-trends-driving-machine-learning-innovation-and-adoption/amp/"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 39
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 106
     images:
-      - url: "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg"
-        width: 350
-        height: 455
+      - url: "https://venturebeat.com/wp-content/uploads/2022/12/aws.png?w=1200&strip=all"
+        width: 891
+        height: 499
         isCached: true
-  - title: "Nielsen and AI4ALL expand relationship to build the next generation of diverse artificial intelligence leaders"
-    excerpt: "Nielsen collaborated with AI4ALL to launch the inaugural Data Jam initiative for students in their College Pathways program."
-    publishedDateTime: 2022-12-02T07:11:00Z
-    webUrl: "https://www.nielsen.com/news-center/2022/nielsen-and-ai4all-expand-relationship-to-build-the-next-generation-of-diverse-artificial-intelligence-leaders/"
+  - title: "Protecting Consumers and Promoting Innovation – AI Regulation and Building Trust in Responsible AI"
+    excerpt: "Artificial intelligence (AI) is one of the most transformational technologies of our generation and provides huge opportunities to be a force for good and drive economic growth. It can help scientists cure terminal diseases, engineers build inconceivable structures, and farmers yield more crops. AI allows"
+    publishedDateTime: 2022-12-01T14:01:28Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/protecting-consumers-and-promoting-innovation-ai-regulation-and-building-trust-in-responsible-ai/"
     type: article
     provider:
-      name: Nielsen
-      domain: nielsen.com
-    quality: 34
-    images:
-      - url: "https://www.nielsen.com/wp-content/uploads/sites/2/2021/10/nielsen_default_meta_image_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "UNC-Chapel Hill, AWS Launch Cloud-Driven Health Startup Collaboration"
-    excerpt: "The University of North Carolina at Chapel Hill announced a collaboration with Amazon Web Services to create cloud-driven digital health research startups."
-    publishedDateTime: 2022-12-02T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/unc-chapel-hill-aws-launch-cloud-driven-health-startup-collaboration"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 19
+      name: AWS
+      domain: aws.amazon.com
+    quality: 55
   - title: "American Family Insurance and AWS Team Up to Drive Innovation in the Insurance Industry"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced an expanded relationship with American Family Insurance, a mutual insurance company focused on property,"
     publishedDateTime: 2022-12-01T16:40:00Z

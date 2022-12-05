@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-05T14:20:00Z
 originalUrl: "https://businessday.ng/news/article/fg-unveils-africas-first-bumanoid-robot/"
 webUrl: "https://businessday.ng/news/article/fg-unveils-africas-first-bumanoid-robot/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: businessday

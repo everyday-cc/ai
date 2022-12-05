@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/12/02/openais-chatgpt-shows-why-implemen
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/02/openais-chatgpt-shows-why-implementation-is-key-with-generative-ai/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "ChatGPT is taking the world by storm – the viral AI bot explained"
+    excerpt: "The sophistication of ChatGPT has many speculating whether the AI bot could replace journalists, authors and screenwriters."
+    publishedDateTime: 2022-12-05T16:00:00Z
+    webUrl: "https://www.citizen.co.za/lifestyle/technology/chatgpt-viral-ai-bot-explained/"
+    ampWebUrl: "https://amp.citizen.co.za/lifestyle/technology/chatgpt-viral-ai-bot-explained/"
+    cdnAmpWebUrl: "https://amp-citizen-co-za.cdn.ampproject.org/c/s/amp.citizen.co.za/lifestyle/technology/chatgpt-viral-ai-bot-explained/"
+    type: article
+    provider:
+      name: The Citizen
+      domain: citizen.co.za
+    quality: 59
+    images:
+      - url: "https://media.citizen.co.za/wp-content/uploads/2022/12/chatcpt-ai.jpg"
+        width: 2309
+        height: 1299
+        isCached: true
   - title: "Explainer | Everything you need to know about AI bot ChatGPT"
     excerpt: "The AI bot known as ChatGPT has taken the internet by storm but what exactly is it, and how does it work? ChatGPT is a conversational dialogue model, trained by AI and machine learning to understand and respond to natural human language."
     publishedDateTime: 2022-12-04T12:17:00Z
@@ -75,6 +91,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/openai.png"
         width: 859
         height: 478
+        isCached: true
+  - title: "The future of AI is here: ChatGPT can create code, tell a story, or create a scene of your favorite sitcom"
+    excerpt: "AI has never looked so advanced as it is now with OpenAI's ChatGPT. Iit has been mind-blowing for users over social media."
+    publishedDateTime: 2022-12-05T15:18:00Z
+    webUrl: "https://bgr.com/tech/the-future-of-ai-is-here-chatgpt-can-create-code-tell-a-story-or-create-a-scene-of-your-favorite-sitcom/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 21
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2022/12/openai-chatgpt-bgr.jpg?quality=82&strip=all"
+        width: 1812
+        height: 900
         isCached: true
 
 secured: "xLg9TOCdQRrPiNZGjzr4x2qkq7iwQTvsASJtfVa+vLVO9Mikfhr3b2K94spkCaipNMpXx/N8ifsUZIswWFRWF0ON2GYYVfn3kj8Jy8pKf/gaKqsOuavMq9sqRMdrAc6TtjATV9vgHkZvp9SUIi6xlB6G16xzLCVuLTQx6mR/FaIIVqB/5uscDu+LV3TlIdkgUh37tVVN5EBmeMknxvNmtkq7uQnlMWQaBg9pAuczxSHL84hz5jZCUKWOxvi07G/b9Jt1sW/uv6rrQkkqkv91h6r4kR5thZZp0t1dvws7aTmNNMRuAVvF0iQdTllMQ04ui0FAxnZocpWXKzlSI1876J6Hgg4eZS9gvQRML4TuSjZvXeWppzToSTkAVvBkOvS8w/o+NX1hZUnsft8e+s3Hm1pu2j7DkWq8lJJF4kItYrFR+HnvYyrQEZChDZXnmG8puKbMvnt2/nS4bAQV5OWlCsoeOJdJi1FYt9RyHdkT2PdfrOdCL8UVPrSky4EOy2fZKCIdAQBKTccbXZnTW0mgew==;H+Qo+wbffSwdDwHF7p72ig=="

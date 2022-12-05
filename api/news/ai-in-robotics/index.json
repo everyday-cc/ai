@@ -53,7 +53,7 @@
       "originalUrl": "https://venturebeat.com/ai/nvidia-showcases-groundbreaking-generative-ai-research-at-neurips-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -98,21 +98,21 @@
       ]
     },
     {
-      "path": "_news/2022-12-02-university-of-limerick-invites-applications-for-msc-in-artificial-intelligence-and-machine-learning-through-fateh-education.md",
-      "title": "University of Limerick invites applications for MSc in Artificial Intelligence and Machine Learning through Fateh Education",
-      "excerpt": "University of Limerick, Ireland is now inviting applications for its MSc program in Artificial Intelligence and Machine Learning. The course aims to provide students with core knowledge of artificial intelligence technology (AI).",
+      "path": "_news/2022-12-02-san-francisco-police-defend-killer-robots-plan.md",
+      "title": "San Francisco police defend 'killer robots' plan",
+      "excerpt": "Police in San Francisco defended their potential use of killer robots on Thursday, insisting they would be a \"last resort\" and only for very dangerous situations. Detectives in the California city, where residents complain of a spike in crime,",
       "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/university-of-limerick-invites-applications-for-msc-in-artificial-intelligence-and-machine-learning-through-fateh-education/",
-      "originalUrl": "https://indiaeducationdiary.in/university-of-limerick-invites-applications-for-msc-in-artificial-intelligence-and-machine-learning-through-fateh-education/",
+      "webUrl": "https://www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602",
+      "originalUrl": "https://www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1",
-          "width": 534,
-          "height": 462,
+          "url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/12/02/killer_bots.png",
+          "width": 600,
+          "height": 314,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -120,13 +120,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/university-of-limerick-invites-applications-for-msc-in-artificial-intelligence-and-machine-learning-through-fateh-education/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-limerick-invites-applications-for-msc-in-artificial-intelligence-and-machine-learning-through-fateh-education/",
-      "publishedDateTime": "2022-12-01T18:55:00-08:00",
+      "ampWebUrl": "https://www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602?amp",
+      "cdnAmpWebUrl": "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602?amp",
+      "publishedDateTime": "2022-12-01T19:44:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
+        "name": "tbsnews",
+        "domain": "tbsnews.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -137,9 +137,7 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "Machine Learning",
-        "AI in Education"
+        "AI"
       ]
     },
     {
@@ -151,7 +149,7 @@
       "originalUrl": "https://www.hw.ac.uk/news/articles/2022/artificial-intelligence-and-robotics-to-help.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 73,
       "tags": null,
       "images": [
         {

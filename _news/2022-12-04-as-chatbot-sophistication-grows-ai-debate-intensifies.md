@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-12-chatbot-sophistication-ai-debate
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-chatbot-sophistication-ai-debate.amp"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "https://img.etimg.com/thumb/msid-95956151,width-1070,height-580,imgsize-2336114,overlay-ettech/photo.jpg"
         width: 1070
         height: 580
+        isCached: true
+  - title: "Chatbot capable of writing scenes for a play and dissertations released by US start-up"
+    excerpt: "CALIFORNIA START-UP OpenAI has released a chatbot capable of answering a variety of questions, but its performance has reopened the debate on the risks linked to artificial intelligence (AI) technologies. The conversations with ChatGPT show a kind of a ..."
+    publishedDateTime: 2022-12-05T16:08:00Z
+    webUrl: "https://www.thejournal.ie/chatbot-artificial-intelligence-5938215-Dec2022/"
+    type: article
+    provider:
+      name: TheJournal.ie
+      domain: thejournal.ie
+    quality: 14
+    images:
+      - url: "https://img2.thejournal.ie/article/5938215/river/?height=400&version=5938222"
+        width: 613
+        height: 400
         isCached: true
 
 secured: "fX09wnRy1UfuAD3uuDBW5Odh6r6iun6y36TgcFjwNg0byzQE2Uc5zZe3VrVRa3AJphH0tX52eQ/rCTv/Pk7jSpejiBlNNpd8sElReHWiSE/nIOJO9l/R3oSrLank53kBeTQgS7CPTTRvpOvRcBu4QFebQpdvFu5eEXS6oJDU1joTC7V28i0fNqUsSFZCW6EjvwwPUwSskk9w2Usva2Ac2t7+QgouArHGSWvTX10zEFjBSmaODb8TGTMcw0LppamdESXhnQG01xSNeRewI60HO2DCpXvQ8JCIeQs4Eb0d36wH94yt/bXp9AQt3sYJe5SQXwJmbS2JC+nKb2mqExFgeRCMqiiWXVR+GW0quNvP/qgt9ISW+ziEH88fAZCtO1X/1WqpksUrKcExJMvYfnaZ4Y1eDulGfot9r80jeUasFQONrJsvukIdPCV3pUw7vzR/C8JzR0Kb74lZEWjUnwKR2KvxxhoLlVtHo7D7q3hbrIB1DT1GaHP259rGJMK942JAcJG+nvE6Yo1s7N+Neoyn6w==;RwYrwsp1RrtxXQm6rckM1w=="

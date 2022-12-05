@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "ChatGPT is taking the world by storm – the viral AI bot explained"
+    excerpt: "The sophistication of ChatGPT has many speculating whether the AI bot could replace journalists, authors and screenwriters."
+    publishedDateTime: 2022-12-05T16:00:00Z
+    webUrl: "https://www.citizen.co.za/lifestyle/technology/chatgpt-viral-ai-bot-explained/"
+    ampWebUrl: "https://amp.citizen.co.za/lifestyle/technology/chatgpt-viral-ai-bot-explained/"
+    cdnAmpWebUrl: "https://amp-citizen-co-za.cdn.ampproject.org/c/s/amp.citizen.co.za/lifestyle/technology/chatgpt-viral-ai-bot-explained/"
+    type: article
+    provider:
+      name: The Citizen
+      domain: citizen.co.za
+    quality: 59
+    images:
+      - url: "https://media.citizen.co.za/wp-content/uploads/2022/12/chatcpt-ai.jpg"
+        width: 2309
+        height: 1299
+        isCached: true
   - title: "AI bot ChatGPT stuns academics with essay-writing skills and usability"
     excerpt: "Latest chatbot from Elon Musk-founded OpenAI can identify incorrect premises and refuse to answer inappropriate requests"
     publishedDateTime: 2022-12-04T18:17:00Z
@@ -71,6 +87,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/openai.png"
         width: 859
         height: 478
+        isCached: true
+  - title: "The future of AI is here: ChatGPT can create code, tell a story, or create a scene of your favorite sitcom"
+    excerpt: "AI has never looked so advanced as it is now with OpenAI's ChatGPT. Iit has been mind-blowing for users over social media."
+    publishedDateTime: 2022-12-05T15:18:00Z
+    webUrl: "https://bgr.com/tech/the-future-of-ai-is-here-chatgpt-can-create-code-tell-a-story-or-create-a-scene-of-your-favorite-sitcom/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 21
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2022/12/openai-chatgpt-bgr.jpg?quality=82&strip=all"
+        width: 1812
+        height: 900
         isCached: true
 
 secured: "wyH2wngDQOhmMJnWnq9bPPIzMOtXq/QQZu6uV61RYC+PNekryVCC8/TYS13rNVl5ZQgkw06IQjQ1QRxtx/mabthhG2i/qD2MbCNUVPsysekY64ap7NJ/Z6RIbf1oOxOeGtioH8yM6nGMx9cdKZYk7V726H7GyaD5/pScE4jhcOOjUObFztuEsytxgiJ0D0iqVqiiCaET5gGCPz9BJtV0Gi0dDJu/ZzQxdryymXS7SqRAOE1mLHDR/Z3ERLALHBXdnclo16CFs5Q67czvwgppugjb0U6GCiUFEUKlarBEgeNaQ7nEaUVEV6LotXE7J20WUkJgP5CDOpOWihTp1y23PEVMJdVVe+GHqW0Mqakovg8=;Ax1ozbA6wdeBpIL8NTur4w=="

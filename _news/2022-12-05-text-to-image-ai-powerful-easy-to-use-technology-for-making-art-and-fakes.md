@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-05T14:05:00Z
 originalUrl: "https://www.seattlepi.com/news/article/Text-to-image-AI-powerful-easy-to-use-17631845.php"
 webUrl: "https://www.seattlepi.com/news/article/Text-to-image-AI-powerful-easy-to-use-17631845.php"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: seattlepi.com

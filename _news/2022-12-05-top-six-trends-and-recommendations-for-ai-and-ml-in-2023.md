@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-05T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/top-six-trends-and-recommendations-for-ai-and-ml-in-2023/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/top-six-trends-and-recommendations-for-ai-and-ml-in-2023/"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: Forbes

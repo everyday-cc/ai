@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-05T14:06:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-nexus-frontiertech-launches-first-of-its-kind-plug-/2022/12/05/9724024.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-nexus-frontiertech-launches-first-of-its-kind-plug-/2022/12/05/9724024.htm"
 type: article
+quality: 40
+heat: 40
+published: false
 
 provider:
   name: TMCnet

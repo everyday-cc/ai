@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Stability AI doubles down on AWS"
-    excerpt: "Generative AI startups Stability AI today announced that AWS is now its preferred cloud partner for building and deploying its models."
-    publishedDateTime: 2022-12-01T00:00:00Z
-    webUrl: "https://techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/"
-    ampWebUrl: "https://techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/amp/"
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: techcrunch.com
-    quality: 106
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/11/2_4x.png?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AWS AI Service Cards signal Amazon’s responsible AI catch-up"
-    excerpt: "Invent, Amazon launched AI Service Cards, which a Gartner analyst says is an effort to catch up with competitors in responsible AI."
-    publishedDateTime: 2022-12-02T18:33:00Z
-    webUrl: "https://venturebeat.com/ai/aws-ai-service-cards-signal-amazons-responsible-ai-catch-up/"
-    ampWebUrl: "https://venturebeat.com/ai/aws-ai-service-cards-signal-amazons-responsible-ai-catch-up/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/aws-ai-service-cards-signal-amazons-responsible-ai-catch-up/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/aws-logo-new.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Stability AI looks to AWS cloud to power the next generation of generative AI"
     excerpt: "Stability AI, developer of the Stable Diffusion text-to-image generative AI model, announced Amazon's AWS as its preferred cloud platform."
     publishedDateTime: 2022-12-02T17:37:00Z
@@ -73,36 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Stability AI Selects AWS as Its Preferred Cloud Provider to Build Artificial Intelligence for the Future"
-    excerpt: "Leading open-source artificial intelligence startup trains foundational models 58% faster and more cost efficiently using Amazon SageMaker on AWS At AWS re:Invent, Amazon Web Services, Inc. (AWS ..."
-    publishedDateTime: 2022-11-30T21:39:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/b29913648/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29913648"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29913648"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 72
-    images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
-        width: 800
-        height: 313
-        isCached: true
-  - title: "Cognigy Achieves AWS Conversational AI Competency Distinction"
-    excerpt: "Cognigy announced today that it has achieved the Amazon Web Services (AWS) Conversational AI Competency distinction. This designation recognizes Cognigy for its expertise in developing high quality, highly effective chatbot,"
-    publishedDateTime: 2022-11-30T23:02:00Z
-    webUrl: "https://www.eagletribune.com/region/cognigy-achieves-aws-conversational-ai-competency-distinction/article_20572837-15de-5125-9274-d22df717824d.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 54
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/0/84/08448548-6267-59fd-ae33-9116f4851a9a/6387ef8c3dd5d.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AWS adds Yahoo and Stability AI to its growing list of cloud customers"
     excerpt: "Invent with news of some big customer wins. Both Yahoo Inc. and Stability AI Ltd. said they have chosen AWS as their preferred public cloud provider for key business workloads. In Yahoo’s case, the internet giant said it has chosen AWS to host the operations of its Yahoo Ad Tech advertising technology business."
     publishedDateTime: 2022-12-02T02:24:00Z
@@ -117,6 +55,45 @@ related:
         width: 4896
         height: 3672
         isCached: true
+  - title: "New betas have Apple Silicon optimizations for Stable Diffusion AI art generator"
+    excerpt: "According to an Apple engineer on the machine learning team, the newest beta updates for macOS Ventura, iOS 16, and iPadOS will improve performance for the Stable Diffusion AI art generating routines."
+    publishedDateTime: 2022-12-01T20:18:00Z
+    webUrl: "https://appleinsider.com/articles/22/12/01/new-betas-have-apple-silicon-optimizations-for-stable-diffusion-ai-art-generator"
+    ampWebUrl: "https://appleinsider.com/articles/22/12/01/new-betas-have-apple-silicon-optimizations-for-stable-diffusion-ai-art-generator/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/22/12/01/new-betas-have-apple-silicon-optimizations-for-stable-diffusion-ai-art-generator/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 54
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/51714-102453-mac-studio-bottom-xl.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Ludo upgrades its generative AI tools for game creativity"
+    excerpt: "Ludo is using generative AI to help game developers be more productive. The point isn't to wipe out jobs. It's to make them more creative."
+    publishedDateTime: 2022-12-01T14:30:00Z
+    webUrl: "https://venturebeat.com/games/ludo-upgrades-its-generative-ai-tools-for-game-creativity/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "The Curious Case of Generative AI"
+    excerpt: "FastSaaS is a growing trend, with companies leveraging AI-generative and no-code capabilities to create their product."
+    publishedDateTime: 2022-12-05T04:52:00Z
+    webUrl: "https://analyticsindiamag.com/jasper-cerebras-partnership-changes-the-game-for-fastsaas/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/Is-This-the-Real-Moat-in-Generative-AI.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Stability AI make AWS a Preferred Provider"
     excerpt: "The combination of AWS and Stability AI has the power to create monumental shifts in the potential applications of artificial intelligence."
     publishedDateTime: 2022-12-01T18:48:00Z
@@ -126,6 +103,20 @@ related:
       name: The Tech Report
       domain: techreport.com
     quality: 36
+  - title: "Nielsen and AI4ALL expand relationship to build the next generation of diverse artificial intelligence leaders"
+    excerpt: "Nielsen collaborated with AI4ALL to launch the inaugural Data Jam initiative for students in their College Pathways program."
+    publishedDateTime: 2022-12-02T07:11:00Z
+    webUrl: "https://www.nielsen.com/news-center/2022/nielsen-and-ai4all-expand-relationship-to-build-the-next-generation-of-diverse-artificial-intelligence-leaders/"
+    type: article
+    provider:
+      name: Nielsen
+      domain: nielsen.com
+    quality: 34
+    images:
+      - url: "https://www.nielsen.com/wp-content/uploads/sites/2/2021/10/nielsen_default_meta_image_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "JUSDgnHKlcPL7Slj7iFVpYdGkoUfl82L0dRTCgajktHG20A4NaUBGsGLC/H89xfSXERuhzdgBIybGDOlOVOdjhhPBA/x2bkvhdTo1Lf0VFIrm3qhfZGqSzpwMfwVW+eNbBP0HkCYQxZM3KquXnU1Espxmmj+/dWfni4qxjL1N8+friJEfgsTP+xXgxkGvW8xLVSFY1fqKbiUNplSZ6x00UUwal/CYyHpJH8uaOcHVbJIYzfUmPG+AJA6mz+1L4GodUurd9fFXVVm3ztatU8EQM00WSNTfaYK3e1OEBZhSwC32rvubs42SWk1riRSwQ8dOdmAra1L+dQ7QmsbGHb/XtnQjBX0eeMkpywkU08vSMXmUm7qskBtZfHqD551v0Lq8scvjTJV+MhrAOeLNCmVqcE1HBRdLT3voFznBAShcICs1fLQ7H61AR+sjgm3BvhErG9Q1RFzIcHSHz4Us+V0eNFyPErkv24I/kMkNYpI55b5pdRKjA10eCJx/gpR3rHjKHY2ephaBEnAvDx9Lo1dlg==;agmciCE0OgybpKQs5GnQ2g=="
 ---

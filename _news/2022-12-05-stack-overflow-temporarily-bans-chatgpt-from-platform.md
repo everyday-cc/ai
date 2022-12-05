@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/3696
 webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/369641/stack-overflow-temporarily-bans-chatgpt-from-platform"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1260
     height: 710
     isCached: true
+
+related:
+  - title: "AI-generated answers temporarily banned on coding Q&A site Stack Overflow"
+    excerpt: "People have been using OpenAI’s chatbot ChatGPT to flood the site with AI responses, but Stack Overflow’s mods say these ‘have a high rate of being incorrect.’"
+    publishedDateTime: 2022-12-05T12:29:00Z
+    webUrl: "https://www.theverge.com/2022/12/5/23493932/chatgpt-ai-generated-answers-temporarily-banned-stack-overflow-llms-dangers"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 46
 
 secured: "82a47ujWIltxj/Jb38Z/6LcIQ4xGT12qPgUpPC8VAOBc+nMHkbOkUN0xZmGpt+975xzITRWDeIJqcOoQDGBW9/jm2KwaxlRQdyDyX0j891ePMTG7nPGkbhKzdoo7tgyAAXli8lkuymXKq7CoxtBsvrvZyi3S3HwCZy1Cl5ouja+ibjjyMDp8Oktk3MFETnM+MbAReCctjOMGPyKH4xJ7lb0Dog57a6TmCHsvdp/RHzfSylIbSqKtZHvEsZ8AT5xP2MUsdVmF0XsjSbS8Y7ytejTrkmZC9VhkeHFhHUugbRXx++HlQwHvsYDyniMfycE2ow6nVI919OxELx10QjDa5HilkxmOBJYhV1051gMb6gs=;tJsErmCi/FbfH6tZaZ9apA=="
 ---

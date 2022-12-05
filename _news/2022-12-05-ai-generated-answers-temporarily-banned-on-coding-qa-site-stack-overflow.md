@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-05T12:29:00Z
 originalUrl: "https://www.theverge.com/2022/12/5/23493932/chatgpt-ai-generated-answers-temporarily-banned-stack-overflow-llms-dangers"
 webUrl: "https://www.theverge.com/2022/12/5/23493932/chatgpt-ai-generated-answers-temporarily-banned-stack-overflow-llms-dangers"
 type: article
+quality: 46
+heat: -1
+published: false
 
 provider:
   name: The Verge
@@ -17,6 +20,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Stack Overflow temporarily bans ChatGPT from platform"
+    excerpt: "The platform’s moderators are aiming to slow the rise of answers created with the AI tool, especially since the average rate of getting an answer that is correct is low"
+    publishedDateTime: 2022-12-05T12:44:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/369641/stack-overflow-temporarily-bans-chatgpt-from-platform"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 54
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1670242933/itpro/2022/December/AI_Chatbot_GettyImages-1364050120.jpg"
+        width: 1260
+        height: 710
+        isCached: true
 
 secured: "B8EmFnY+onbCBQaDqztbhO2eWAmH+/f3le9rODoUxA5BhCZcugzTWeaS4uuxrvXVNVfL/edCt7VeFXyoy1Zr5k0j/zqOkIYjqsIsaEnSOu6ePPoT4VVD6i5aPFUx64xpmyQOYvoFtPTxIMHWciw8K+z/Nnqt30TLjpgsBM7BITx2f/L21K+cvj8pVYqom//a/tVNUffjRXmigMSvfk489rHVgFlF4uIscdGvYVeykicoNJyHVojZp86of3+gDDZv49Kc50/GbvkR5++Eo8O+B/NQ58i4Y1khEhQwqllL221cMwacNCYTYl3oZbdA2YefsCQLOyjJLgSlL5XdB14j9X5d7uCj8aOKSjrlb9WCNtDnvDLqwfF1vuoABYxgesQHr7FSDsaqti3r5LmIcNtz21Uuo0qc61j70K3YBUhu/EtDtQucPwALk+TR9h0KAwUJfvvjVoZJsxm9316LwH85Y2Ww4HEfIeYLfM3+nOpG/pndBQxw+I3k6iDICg/MGRpjin2+KivgaOtqQCc1LSVksQ==;lxXf0RQKgvwoEq4kn7UjjQ=="
 ---

@@ -81,6 +81,20 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "Disney's innovative AI can quickly make actors appear younger or older"
+    excerpt: "Researchers at Disney have built an artificial intelligence tool that can make it easier for an actor to appear a different age on screen. Although digital artists can still make necessary modifications to make the effects in a scene look as realistic as possible,"
+    publishedDateTime: 2022-12-05T15:52:00Z
+    webUrl: "https://interestingengineering.com/innovation/disneys-ai-quickly-actors-appear-younger-or-older"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://inteng-storage-us.s3.amazonaws.com/2022/12/05/image/jpeg/6mpg6WZkYRUoANtLWUKP1FRRttwMIQaTV7vi8gFe.jpg"
+        width: 1920
+        height: 1082
+        isCached: true
 
 secured: "/hAXN2TYbkkIQ/2Y3zYhRFy2ApmbRyeKEUpzNdFOm+A0Gzu41BIwW5sa5cPSAngyN2Kpyzfbr1eQtzWTl3GdgrFo9YWLCCCG0WuEnxbAMyzqFiRh6P5Y/oQILYWIMNXLskmtuGqRhW4R9h2NMUigieQVIoLd17j4hYVAa0eAA8ZkT99JUGHliF3oqcMepdFYVcm7Vt346YZbp4FdbykQOc1V+v2qbQa3snlJhtSZCqKAsnUMCcGfw+OcuRxNcSRjuH8P//tE61q1LdDtILaLMlsHCt3V2VoALuvVCViZsqVSOqXAN99nDob30+Vr8FzwYX9QCM2RUmdwb55v0yCvOrW+8+iMYz0HhzZSiMBJ1F8=;H7aGdLl2ZBtcYX+w/RfIYw=="
 ---

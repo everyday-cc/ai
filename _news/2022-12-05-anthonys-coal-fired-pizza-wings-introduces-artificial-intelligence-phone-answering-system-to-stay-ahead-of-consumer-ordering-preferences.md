@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-05T13:08:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/anthony-s-coal-fired-pizza-wings-introduces-artificial-intelligence-phone-answering-system-to-stay-ahead-of-consumer-ordering-preferences-1031952858"
 webUrl: "https://markets.businessinsider.com/news/stocks/anthony-s-coal-fired-pizza-wings-introduces-artificial-intelligence-phone-answering-system-to-stay-ahead-of-consumer-ordering-preferences-1031952858"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Business Insider

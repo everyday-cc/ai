@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Mastering Stratego, the classic game of imperfect information"
-    excerpt: "Game-playing artificial intelligence (AI) systems have advanced to a new frontier. Stratego, the classic board game that’s more complex than chess and Go, and craftier than poker, has now been mastered. Published in Science, we present DeepNash, an AI agent that learned the game from scratch to a human"
-    publishedDateTime: 2022-12-01T00:00:00Z
-    webUrl: "https://www.deepmind.com/blog/mastering-stratego-the-classic-game-of-imperfect-information"
-    type: article
-    provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 74
-    images:
-      - url: "https://assets-global.website-files.com/621e749a546b7592125f38ed/6388ce129963208649083b0e_Stratego_header_02_hd.png"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "DeepMind's new AI app plays Stratego at expert level"
     excerpt: "A team of researchers at DeepMind Technologies Ltd., has created an AI application called \"DeepNash\" that is able to play the game Stratego at an expert level. In their paper published in the journal Science,"
     publishedDateTime: 2022-12-02T15:30:00Z

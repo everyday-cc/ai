@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/disney-ai-can-make-your-favorit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/disney-ai-can-make-your-favorite-actor-look-older-or-younger/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-12/gerd_altman.jpg?itok=GbKDRrBY"
         width: 1528
         height: 800
+        isCached: true
+  - title: "Disney's innovative AI can quickly make actors appear younger or older"
+    excerpt: "Researchers at Disney have built an artificial intelligence tool that can make it easier for an actor to appear a different age on screen. Although digital artists can still make necessary modifications to make the effects in a scene look as realistic as possible,"
+    publishedDateTime: 2022-12-05T15:52:00Z
+    webUrl: "https://interestingengineering.com/innovation/disneys-ai-quickly-actors-appear-younger-or-older"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://inteng-storage-us.s3.amazonaws.com/2022/12/05/image/jpeg/6mpg6WZkYRUoANtLWUKP1FRRttwMIQaTV7vi8gFe.jpg"
+        width: 1920
+        height: 1082
         isCached: true
   - title: "Disney built a neural network to automatically change an actor’s age"
     excerpt: "Disney Research Studios' newest neural network, FRAN, can shave hours off of VFX artists' workloads to create convincingly re-aged actors."

@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-02T14:06:00Z
 originalUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/228253"
 webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/228253"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: AlphaGalileo

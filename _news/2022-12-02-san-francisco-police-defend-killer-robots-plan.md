@@ -9,8 +9,8 @@ ampWebUrl: "https://www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-kil
 cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602?amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: tbsnews
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "San Francisco's Killer Robots Threaten the City's Most Vulnerable"
-    excerpt: "Law enforcement says that in some scenarios a lethal robot is the only way to protect public safety. Experts say the policy will harm communities of color."
-    publishedDateTime: 2022-11-30T22:33:00Z
-    webUrl: "https://www.wired.com/story/san-franciscos-killer-police-robots-threaten-the-citys-most-vulnerable/"
-    ampWebUrl: "https://www.wired.com/story/san-franciscos-killer-police-robots-threaten-the-citys-most-vulnerable/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/san-franciscos-killer-police-robots-threaten-the-citys-most-vulnerable/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: "https://media.wired.com/photos/6387ab9b112650bb61bedb4b/master/pass/Security-SFPD-Lethal-Force-1367945379.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
   - title: "San Francisco Police Can Use Robots To Kill Suspects"
     excerpt: "A recent law allows San Francisco Police to use robots for killing in extreme situations.  The department included this provision in a new “Law Enforcement Equipment Policy” that passed"
     publishedDateTime: 2022-12-01T04:21:00Z
@@ -57,15 +41,20 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Everybody hates the idea of San Francisco’s killer robot police"
-    excerpt: "A proposal that would give law enforcement the license to kill with a fleet of bomb-wielding robots has drawn a rebuke from the left and right."
-    publishedDateTime: 2022-11-30T22:20:00Z
-    webUrl: "https://www.fastcompany.com/90818015/everybody-hates-the-idea-of-san-franciscos-killer-robot-police"
+  - title: "Make way for the killer robots: The government is expanding its power to kill"
+    excerpt: "A last-minute amendment to the SFPD policy limits the decision-making authority for deploying robots as a deadly force option to high-ranking officers, and only after using alternative force or de-escalation tactics, or concluding they would not be able to subdue the suspect through those alternative means."
+    publishedDateTime: 2022-12-02T14:01:00Z
+    webUrl: "https://augustafreepress.com/news/make-way-for-the-killer-robots-the-government-is-expanding-its-power-to-kill/"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 19
+      name: Augusta Free Press
+      domain: augustafreepress.com
+    quality: 36
+    images:
+      - url: "https://augustafreepress.com/wp-content/uploads/2022/12/police-robot.jpg"
+        width: 555
+        height: 312
+        isCached: true
   - title: "San Francisco approved killer police robots. Will other California departments follow?"
     excerpt: "Dallas Morning News file The San Francisco Police Department was given the authorization to use remote-controlled robots for potentially deadly force after a heated debate over civil liberties and warnings about the continued militarization of police."
     publishedDateTime: 2022-12-03T12:00:00Z

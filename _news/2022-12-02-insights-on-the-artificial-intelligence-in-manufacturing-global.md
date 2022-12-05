@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-insights-the-artificial-intelligen
 webUrl: "https://www.tmcnet.com/usubmit/-insights-the-artificial-intelligence-manufacturing-global-market-2028-/2022/12/01/9723284.htm"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,33 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "The Future Is Now: Transforming PCB Manufacturing Using Artificial Intelligence"
+    excerpt: "Manufacturers are exploring ways to increase the efficiencies by which essential electronic components are produced."
+    publishedDateTime: 2022-12-05T13:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/05/the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 83
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62a797a880eca7dbef9036cc/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 673
+        isCached: true
+  - title: "How Artificial Intelligence Is Transforming Healthcare"
+    excerpt: "Artificial Intelligence (AI) is already transforming industries from banking and retail to transportation and energy and has the potential to significantly improve every industry it touches. Since some version of “improve my health” will likely be near ..."
+    publishedDateTime: 2022-12-01T20:11:00Z
+    webUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-is-transforming-healthcare"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 66
 
 secured: "iVoCxEceVxj3U66eblwY3eFQJpqwCDEui5F1sSkd7XkE/6ZCHYXq9LmKXzVS6rXSHMwrJpdwjEjwyggC2aVvjbB6uWFU6rRE/V1XJJdJfsq2/hHxX8XC1zXbhC6JPHmMOyE8f8URkZgU6UVOVEQwwL7qEoh3KJStxDfgl6WuLS7ePZlpu5w1Mq5AuaLDSNdkz4J33Ht6RcQkw4ZC2QN4r+RxpwvWP52VxNpzhHPR7qRfhKlMW3S1Dt6ok6+azV+Vsr9oJj8pnvt9ralQZiJtLKxBotEplB+kNpJIdQ5wMeme+pKB7trpIzM/DMPfQaAaW/oPw2s8jMXgxLOK099hwQZfT/iIe3gjhTD1iYfDlZw=;PR0LKDp3bHd7yPQLXR8CqQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2022/12/apple-slices-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/12/apple-slices-its-ai-image-synthesis-times-in-half-with-new-stable-diffusion-fix/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "New betas have Apple Silicon optimizations for Stable Diffusion AI art generator"
-    excerpt: "According to an Apple engineer on the machine learning team, the newest beta updates for macOS Ventura, iOS 16, and iPadOS will improve performance for the Stable Diffusion AI art generating routines."
-    publishedDateTime: 2022-12-01T20:18:00Z
-    webUrl: "https://appleinsider.com/articles/22/12/01/new-betas-have-apple-silicon-optimizations-for-stable-diffusion-ai-art-generator"
-    ampWebUrl: "https://appleinsider.com/articles/22/12/01/new-betas-have-apple-silicon-optimizations-for-stable-diffusion-ai-art-generator/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/22/12/01/new-betas-have-apple-silicon-optimizations-for-stable-diffusion-ai-art-generator/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 54
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/51714-102453-mac-studio-bottom-xl.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "B+Ehhp/rXF7V+O9TOn45d3H63PqcwX8+Cp6fmx/gVQKMezorr6O0ZIcV0iarUYZHxGfSxGnVXfVGQ1WAeWDortH5+3OSSk0LSR2Ku3+xm3h1pFHT142kdCAuSeVIlU/kwnoc3w89nGLOGSxZGHLLNt3mbhQ9JGJbbvKbJ0oXK3ICTiYRWlRHOjNgVpJ7BR8E1j3jPxaWOscFhqVfbgTBwb1kAEerSOgm6HZNqkEhdiKZ87iNG04KY9pf8Lg2OF34u3M3ZMyhSRJxzSXp8BTQrO98C/KrxrUdjSmbsexlSZNm8ZoT0tDMogJhvVMwsHHQOcx6CFDc7wYkC4j8GzoIaPkStW1TKW1m6MCvwoY4o0GmMYeDdSsu5pHXbEqDpG97AXlM0DWWYOM+f5nrqyc5NzRZCUHwfRxvEdEHokPlKy0iSQqloIWn5kvA8C16pHgzl1Ul/J4UY/9Fp1N9xQfdy1dEQ6TVUq1j15tdLg66/FUG0tP8R76l4lcT+cv5h4nrY6bPTLdl0zJgD0kwitp+Xg==;T71Q8Zkw/nUlG2tgy1kAaQ=="
 ---

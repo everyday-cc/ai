@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3681891/aws-updates-its-machine-le
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3681891/aws-updates-its-machine-learning-service-sagemaker.amp.html"
 type: article
 quality: 121
-heat: 301
+heat: 291
 published: true
 
 provider:
@@ -145,20 +145,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/30/interactive-data-prep-widget.jpg"
         width: 1548
         height: 773
-        isCached: true
-  - title: "AWS introduces raft of new AI tools for Amazon SageMaker"
-    excerpt: "Originally introduced in 2017, SageMaker includes more than a dozen AI development tools. Software teams use the platform to create neural networks, train them, monitor their performance after they’re deployed and perform related tasks."
-    publishedDateTime: 2022-11-30T23:20:00Z
-    webUrl: "https://siliconangle.com/2022/11/30/aws-introduces-raft-new-ai-tools-amazon-sagemaker/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 71
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/amazon-3.png"
-        width: 933
-        height: 519
         isCached: true
   - title: "How xarvio Digital Farming Solutions accelerates its development with Amazon SageMaker geospatial capabilities"
     excerpt: "This is a guest post co-written by Julian Blau, Data Scientist at xarvio Digital Farming Solutions; BASF Digital Farming GmbH, and Antonio Rodriguez, AI/ML Specialist Solutions Architect at AWS xarvio Digital Farming Solutions is a brand from BASF Digital Farming GmbH, which is part of BASF Agricultural"

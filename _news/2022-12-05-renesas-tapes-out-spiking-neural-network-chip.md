@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-05T14:56:00Z
 originalUrl: "https://www.design-reuse.com/news/53134/renesas-spiking-neural-network-chip.html"
 webUrl: "https://www.design-reuse.com/news/53134/renesas-spiking-neural-network-chip.html"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Design-Reuse

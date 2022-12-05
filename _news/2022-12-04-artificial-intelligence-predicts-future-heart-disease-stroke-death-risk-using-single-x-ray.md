@@ -57,6 +57,15 @@ related:
         width: 1920
         height: 1425
         isCached: true
+  - title: "How An X Ray Can Help Predict Risk Of Heart Attack"
+    excerpt: "The World Health Organisation (WHO) has reported that globally heart disease is now the biggest cause of mortality. According to estimates, about one crore 70 lakh individuals worldwide lose their lives to cardiovascular disease each year."
+    publishedDateTime: 2022-12-05T13:35:00Z
+    webUrl: "https://www.onlymyhealth.com/how-an-x-ray-can-help-predict-risk-of-heart-attack-1670245722"
+    type: article
+    provider:
+      name: Onlymyhealth
+      domain: onlymyhealth.com
+    quality: 4
 
 secured: "XsHGoFqvSUy9tv4u6azonLbPBpMD99nbLOjptnP1ctqtuXF7WQI7srpolWi0qep1THbzX3QDARsoDBDKOc6vqRpjI+4JpmNTwhF3smLC9UHGzr3qvp5iJi33WKmLLR+8CozuN9HzhuIhp/TGt6mnefPRXcawui4OPN872t//9nz+KPlAdKRpvwM347VuIbgTsIxWTSa67trwvd8PTmiqm1NpjeAKnIHaDD4O3TqIroLrLzR1zyDAqtN0o/caYWk7m8+KtlSiP5RicNTg9PrrPPd0yZiAPwyZ0cWLLIgY715x9kxuZYgA9S1YDXRgJnOVKEUFydJ6FXFK687LpMd6hsv7XkyhXmoD4RQeNf730FaQgbAZrOKZ4/YVFxpDfjmj629p2i1WoKZdQQ7mt1xalMV4LgI1RLQIPykRuKxev5pnaqM5rHL4EUtoOZrnq/WUUd+YGZLX4mcWqwXVeQgqshKaDB30fHTBAQTOmUupO+tU51gOSWym1bqNFECuuNGlUEY64Sb39qqZyLNqI01g2Q==;DSRWCYUCR6a8C1FQkMHipw=="
 ---

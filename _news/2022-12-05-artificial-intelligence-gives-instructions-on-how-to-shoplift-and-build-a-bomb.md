@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-05T14:33:00Z
 originalUrl: "https://www.tweaktown.com/news/89774/artificial-intelligence-gives-instructions-on-how-to-shoplift-and-build-bomb/index.html"
 webUrl: "https://www.tweaktown.com/news/89774/artificial-intelligence-gives-instructions-on-how-to-shoplift-and-build-bomb/index.html"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: TweakTown

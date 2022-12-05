@@ -40,20 +40,6 @@ related:
         width: 705
         height: 371
         isCached: true
-  - title: "AI and robots used to enable faster detection of UTIs"
-    excerpt: "When detected early, UTIs can be treated with antibiotics, but if left undiagnosed they can lead to sepsis, kidney damage and even death. Early signs of a UTI can be difficult to spot because symptoms vary according to age and existing health conditions."
-    publishedDateTime: 2022-12-01T00:00:00Z
-    webUrl: "https://www.aol.com/ai-robots-used-enable-faster-000100244.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/VmmnVB_x_K5SqoS0CLHCBw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/82c8a39cb94f4dd15c47e31346c41311"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "puhLq2TaDkYqCVmetyu2NjzU/vCQSHDXJL6KmFd4oDuiYj1hgJH37vg3wKvV8pHt7SpfDwkiq6gwmyX6C+FnPITSPxZhT6oRhCcKOMhpyh4OakLK4lpmLZBWDeqohpkZzBStqx4GyPgyaYaqHPzXMwFKD8tbZtjpBCqDm0Qo4S0SJXUU3gMck0P8FndOn5qWq/Fq8PVBdPoiWuBGISQP72IiLmAFtbeREcmE2M8ic7Ki12dXiu74A+BQXOLKq/QLAJBcGJI3GaJiRLNj6026xqx+uH8yUs+xcdB1fY+mr71Pzw+zBkYtpMXuThLtzOEYZKaNad9ncCj3FU0K20t03kkcr1njs9pbySE7hms8TAryftSuyf0xclelmGw8Y4wKuKna4cWrYH0gbQqTJ7dAjfp90WvdynWpBW//9kH699X1Cti8C5ca3qLIKb/6TmjL0ppR6zfjjC0lICPdSt8XmeCyFM7GwjFpawuEbnSgrjIoolFjmLwauZXdgdnt5EIzGurpRPz4VFVxGKogGVsgYg==;WFXZZQ/bGs6Jky/mQVPgMg=="
 ---

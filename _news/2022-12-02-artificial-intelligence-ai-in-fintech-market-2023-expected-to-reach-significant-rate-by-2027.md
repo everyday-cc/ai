@@ -45,36 +45,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Fintech Clik2pay, Inovatec to Make Debt Collection Seamless for Lenders"
-    excerpt: "Payment service provider Clik2pay is announcing a collaboration with Inovatec, North America’s leader in lending process automation."
-    publishedDateTime: 2022-11-30T23:45:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/11/199306-fintech-clik2pay-inovatec-to-make-debt-collection-seamless-for-lenders/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/11/199306-fintech-clik2pay-inovatec-to-make-debt-collection-seamless-for-lenders/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/11/199306-fintech-clik2pay-inovatec-to-make-debt-collection-seamless-for-lenders/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/07/Money-Dollar-Benjamin-Squares-Fractions.jpeg"
-        width: 1080
-        height: 1080
-        isCached: true
-  - title: "The Rise of Climate Fintech"
-    excerpt: "The climate crisis is a defining challenge for Asia and the Pacific, but climate fintech can retool the financial sector to benefit people and the planet."
-    publishedDateTime: 2022-11-30T22:59:00Z
-    webUrl: "https://www.brinknews.com/the-rise-of-climate-fintech/"
-    type: article
-    provider:
-      name: Brink – The Edge of Risk
-      domain: brinknews.com
-    quality: 24
-    images:
-      - url: "https://www.brinknews.com/wp-content/uploads/2022/11/GettyImages-1238824344.jpg"
-        width: 1920
-        height: 1279
-        isCached: true
   - title: "Founder of AcuFi, Nick Kohlschreiber, Shows Small Businesses how to Use FinTech"
     excerpt: "The innovative products and services offered by fintech companies are considered a critical element in the pursuit of financial inclusion and greater equality on a global scale, especially after the devastating impact of the pandemic."
     publishedDateTime: 2022-12-01T04:41:00Z
@@ -117,10 +87,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "FIS Challenges Nearly 200 Startups to Pitch their Boldest Ideas in First APAC Fintech Competition"
-    excerpt: "Open to early-stage APAC fintech startups with market-ready solutions, InnovateIN48-Partner Edition welcomed nearly 200 companies from 11 markets, including India, Singapore and Australia, to develop and pitch their innovative ideas to FIS leaders within a 48-hour window."
-    publishedDateTime: 2022-12-01T00:00:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-fis-challenges-nearly-200-startups-pitch-their-boldest-/2022/12/01/9723438.htm"
+  - title: "Artificial Intelligence in Fintech Market Report 2022: Increasing Use of AI-Enabled Solutions in the Capital Market Presents Opportunities"
+    excerpt: "The \"Artificial Intelligence in Fintech Market: Global Analysis and Growth Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The adoption of AI systems and techniques in finance is growing rapidly,"
+    publishedDateTime: 2022-12-05T15:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-fintech-market-report-2022-increasing-use-/2022/12/05/9724212.htm"
     type: article
     provider:
       name: TMCnet

@@ -26,6 +26,17 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "US police rarely deploy deadly robots to confront suspects"
+    excerpt: "SAN FRANCISCO (AP) — The unabashedly liberal city of San Francisco became the unlikely proponent of weaponized police robots last week after supervisors approved limited use of the remote-controlled devices, addressing head-on an evolving technology that ..."
+    publishedDateTime: 2022-12-05T14:00:00Z
+    webUrl: "https://www.kron4.com/news/us-police-rarely-deploy-deadly-robots-to-confront-suspects/"
+    type: article
+    provider:
+      name: KRON4 News
+      domain: kron4.com
+    quality: 19
+
 secured: "Bz4mH2yiDc49U3x6ClM36e8WeO41kEimOo6cqohOORvcaio4HVWszyhfjvS3cUyWKJFOq8g0zlX7nAVzyiqvDp+Hf7CPU49Mp2/0fBD5Otpvm/1zKNsPJZHoKOyiyhTuDdzR86wNY4LMD5eW0s3FZvtxoGCvF8uqXkuqShXro+aAexoZRPeLVyihMMow46zoXZzOoKkBsOP/h6o33jlHJ6MY/GAFfuArQAf8gDj3ymfYncg++9JAn1e3bdcIhiMfIgFEzr7YM4FxAMlYmmMI8fLiZOMwmdULnxrkYyKaaklDhaeHvom1qbl2yrcagmsTfMAXxLWNln4RBh265a4Gwrd6hJS6qUvdAt1iO9Wd6Y4=;wGLU8mbRzOzgc+by9U2U2g=="
 ---
 

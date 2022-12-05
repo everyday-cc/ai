@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "ChatGPT is taking the world by storm – the viral AI bot explained"
+    excerpt: "The sophistication of ChatGPT has many speculating whether the AI bot could replace journalists, authors and screenwriters."
+    publishedDateTime: 2022-12-05T16:00:00Z
+    webUrl: "https://www.citizen.co.za/lifestyle/technology/chatgpt-viral-ai-bot-explained/"
+    ampWebUrl: "https://amp.citizen.co.za/lifestyle/technology/chatgpt-viral-ai-bot-explained/"
+    cdnAmpWebUrl: "https://amp-citizen-co-za.cdn.ampproject.org/c/s/amp.citizen.co.za/lifestyle/technology/chatgpt-viral-ai-bot-explained/"
+    type: article
+    provider:
+      name: The Citizen
+      domain: citizen.co.za
+    quality: 59
+    images:
+      - url: "https://media.citizen.co.za/wp-content/uploads/2022/12/chatcpt-ai.jpg"
+        width: 2309
+        height: 1299
+        isCached: true
   - title: "Explainer | Everything you need to know about AI bot ChatGPT"
     excerpt: "The AI bot known as ChatGPT has taken the internet by storm but what exactly is it, and how does it work? ChatGPT is a conversational dialogue model, trained by AI and machine learning to understand and respond to natural human language."
     publishedDateTime: 2022-12-04T12:17:00Z
@@ -73,6 +89,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/df141be52848f565532fc32763a67bfff1f447ed/0_93_5000_3002/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=df8459ef5c224b513f859f0be309e8a3"
         width: 620
         height: 372
+        isCached: true
+  - title: "The future of AI is here: ChatGPT can create code, tell a story, or create a scene of your favorite sitcom"
+    excerpt: "AI has never looked so advanced as it is now with OpenAI's ChatGPT. Iit has been mind-blowing for users over social media."
+    publishedDateTime: 2022-12-05T15:18:00Z
+    webUrl: "https://bgr.com/tech/the-future-of-ai-is-here-chatgpt-can-create-code-tell-a-story-or-create-a-scene-of-your-favorite-sitcom/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 21
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2022/12/openai-chatgpt-bgr.jpg?quality=82&strip=all"
+        width: 1812
+        height: 900
         isCached: true
 
 secured: "Oclu0NjtPIsC+TON9CBSxxFEE8cU9xaCqVFC1l446ZVPYVGpuXiSuXTC05Z3aYPCxInHrpvcZ+7scJvOVN9Lo5Pgjl+Ie1/dZ8QXQWSwfIsTpqIKZFdYd8ivcFtNe5lc+p9yXjthAPRb08P6BvgNokBoJJq/MD5aF+FhWOopA0CrqrCvJJRXTEwichGQU9A6VTKsp33lboGlaG0zcsND0SLN/WP3CXrHcmCaTdX9Pj88FT4a/pwC4aj4VZ0bAifnbcPwRhFZBAqBVdTpsF8aUxAM+ORXeoitdOQtRRPh5ci/5HNoolKPFeIcBG8fNz6mT1W/GkOh//ybR/qz+/G3hmV3P5GrZL2d47Mjb1tybvc=;jTjgbNUKSSbWdojG+dS90A=="

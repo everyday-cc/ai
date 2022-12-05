@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Medicine Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028"
+    excerpt: "Artificial intelligence (AI) is a branch of computer science that deals with the design of intelligent agents,"
+    publishedDateTime: 2022-12-05T06:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-12-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Discover How Artificial Intelligence Based Medical Device Market 2023-2026 is Estimated Drive the Industry Growth Across World in Coming Year"
     excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Artificial Intelligence Based Medical Device"
     publishedDateTime: 2022-12-05T05:35:00Z

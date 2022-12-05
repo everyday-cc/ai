@@ -54,6 +54,20 @@ related:
         width: 1070
         height: 580
         isCached: true
+  - title: "Chatbot capable of writing scenes for a play and dissertations released by US start-up"
+    excerpt: "CALIFORNIA START-UP OpenAI has released a chatbot capable of answering a variety of questions, but its performance has reopened the debate on the risks linked to artificial intelligence (AI) technologies. The conversations with ChatGPT show a kind of a ..."
+    publishedDateTime: 2022-12-05T16:08:00Z
+    webUrl: "https://www.thejournal.ie/chatbot-artificial-intelligence-5938215-Dec2022/"
+    type: article
+    provider:
+      name: TheJournal.ie
+      domain: thejournal.ie
+    quality: 14
+    images:
+      - url: "https://img2.thejournal.ie/article/5938215/river/?height=400&version=5938222"
+        width: 613
+        height: 400
+        isCached: true
 
 secured: "bia13iDOYwX/HxC8rmhB9mEycDj/ufHkomXtVSuHrOWnvdWn6lV2CXAwGoDWr3MuykjKKqG9AhNSyN3pNCZA/+pvIGbUUCncp11h0UPCUSa6CjuoxFZOOOdD0cD2uXrndxIiymBVJErEy6MXiMTrb3Ef4PAkbNcD5E63cE3WhiMTSQNMQOz9iuEh0mOuu3Gaiw2W6YZuf2Ombw2I9kZ1vpGpU+MBKYLme/9Z3lUd9lSRAFIYqFwnM36igkLdH5iB8ZJ10rrCpLVvn7uFPPLV1ioTINrl57VpV0YlZP6J1ITpzTOt8ed3cwMKukCI/HmjzOmeK0/M3j6iJbiDkElsZ9NIGydMCnWIf5Mcl74R090=;JoVADlYi6e5MZW6EHyt1mA=="
 ---

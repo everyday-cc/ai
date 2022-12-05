@@ -25,52 +25,98 @@ images:
     isCached: true
 
 related:
-  - title: "AWS and Slalom Expand Next-Generation Strategic Collaboration"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ:AMZN), and Slalom, LLC (Slalom), a global business and technology consulting company, announced a multiyear extension to the companies’ global Strategic Collaboration Agreement (SCA)."
-    publishedDateTime: 2022-11-30T22:23:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/aws-and-slalom-expand-next-generation-strategic-collaboration/article_8d799519-a4fb-5338-b6cb-6eef3ddfee0b.html"
+  - title: "Stability AI looks to AWS cloud to power the next generation of generative AI"
+    excerpt: "Stability AI, developer of the Stable Diffusion text-to-image generative AI model, announced Amazon's AWS as its preferred cloud platform."
+    publishedDateTime: 2022-12-02T17:37:00Z
+    webUrl: "https://venturebeat.com/ai/stability-ai-looks-to-aws-cloud-to-power-the-next-generation-of-generative-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/stability-ai-looks-to-aws-cloud-to-power-the-next-generation-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stability-ai-looks-to-aws-cloud-to-power-the-next-generation-of-generative-ai/amp/"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 103
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/12/Stability_AI_logo_Logo.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "AWS adds Yahoo and Stability AI to its growing list of cloud customers"
+    excerpt: "Invent with news of some big customer wins. Both Yahoo Inc. and Stability AI Ltd. said they have chosen AWS as their preferred public cloud provider for key business workloads. In Yahoo’s case, the internet giant said it has chosen AWS to host the operations of its Yahoo Ad Tech advertising technology business."
+    publishedDateTime: 2022-12-02T02:24:00Z
+    webUrl: "https://siliconangle.com/2022/12/01/aws-adds-yahoo-stability-ai-growing-list-cloud-customers/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/awsreinvent2022-sign-crowd.jpg"
+        width: 4896
+        height: 3672
+        isCached: true
+  - title: "New betas have Apple Silicon optimizations for Stable Diffusion AI art generator"
+    excerpt: "According to an Apple engineer on the machine learning team, the newest beta updates for macOS Ventura, iOS 16, and iPadOS will improve performance for the Stable Diffusion AI art generating routines."
+    publishedDateTime: 2022-12-01T20:18:00Z
+    webUrl: "https://appleinsider.com/articles/22/12/01/new-betas-have-apple-silicon-optimizations-for-stable-diffusion-ai-art-generator"
+    ampWebUrl: "https://appleinsider.com/articles/22/12/01/new-betas-have-apple-silicon-optimizations-for-stable-diffusion-ai-art-generator/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/22/12/01/new-betas-have-apple-silicon-optimizations-for-stable-diffusion-ai-art-generator/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 54
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/51714-102453-mac-studio-bottom-xl.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Stability AI Selects AWS as Its Preferred Cloud Provider"
+    excerpt: "AWS has announced that Stability AI, a community-driven, open-source artificial intelligence (AI) company, has selected AWS as"
+    publishedDateTime: 2022-12-01T16:28:00Z
+    webUrl: "https://www.datanami.com/this-just-in/stability-ai-selects-aws-as-its-preferred-cloud-provider/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2022/10/stability-ai-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Ludo upgrades its generative AI tools for game creativity"
+    excerpt: "Ludo is using generative AI to help game developers be more productive. The point isn't to wipe out jobs. It's to make them more creative."
+    publishedDateTime: 2022-12-01T14:30:00Z
+    webUrl: "https://venturebeat.com/games/ludo-upgrades-its-generative-ai-tools-for-game-creativity/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "The Curious Case of Generative AI"
+    excerpt: "FastSaaS is a growing trend, with companies leveraging AI-generative and no-code capabilities to create their product."
+    publishedDateTime: 2022-12-05T04:52:00Z
+    webUrl: "https://analyticsindiamag.com/jasper-cerebras-partnership-changes-the-game-for-fastsaas/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 39
     images:
-      - url: "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg"
-        width: 350
-        height: 455
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/Is-This-the-Real-Moat-in-Generative-AI.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "American Family Insurance and AWS Team Up to Drive Innovation in the Insurance Industry"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced an expanded relationship with American Family Insurance, a mutual insurance company focused on property,"
-    publishedDateTime: 2022-12-01T13:02:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/american-family-insurance-and-aws-team-up-to-drive-innovation-in-the-insurance-industry/article_9a6d80d5-b990-5bc5-9a5f-45ba8189200c.html"
+  - title: "Stability AI make AWS a Preferred Provider"
+    excerpt: "The combination of AWS and Stability AI has the power to create monumental shifts in the potential applications of artificial intelligence."
+    publishedDateTime: 2022-12-01T18:48:00Z
+    webUrl: "https://techreport.com/software/3487062/stability-ai-make-aws-a-preferred-provider/"
     type: article
     provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 31
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "UNC-Chapel Hill, AWS Launch Cloud-Driven Health Startup Collaboration"
-    excerpt: "The University of North Carolina at Chapel Hill announced a collaboration with Amazon Web Services to create cloud-driven digital health research startups."
-    publishedDateTime: 2022-12-02T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/unc-chapel-hill-aws-launch-cloud-driven-health-startup-collaboration"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 19
-  - title: "American Family Insurance and AWS Team Up to Drive Innovation in the Insurance Industry"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced an expanded relationship with American Family Insurance, a mutual insurance company focused on property,"
-    publishedDateTime: 2022-12-01T16:40:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/12/01/9723031.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 11
+      name: The Tech Report
+      domain: techreport.com
+    quality: 36
 
 secured: "ExC4Tds6Q9BFVE3/dNtauM13+UBKF1Ag/raYfM5jW36mwCGFWor7YAvO/xh/098qLAGUzqQO1XaK4/46YzAB/KZb0vGx2u2gIl7ezZuz0xb8BX+yruRYf6xMmDbcLr85tgyBwtlwOkWvG6WPYM/zJHNfcM1GiuHxWdpcPKe8xGIv09rraJkTjrQOZU0Oj/QIgnn/MmbQrfsrSL/TYWKlMjqhxnScT0kmyfJr1BVu9jHZRouAOCR9qjtjf3g/lm7z6kHWTGWl7LbtHlXlqNNas57tamHmRhi2RYPvpA7fEKEOIWwvZ8lcrX22GGDQdgH8CEU1ux2ESt7Ly33gl5LgHrTUKSt+a0DNfvA0ralkanA=;HXZJ6VPF88rkpLHQ1UkkTg=="
 ---

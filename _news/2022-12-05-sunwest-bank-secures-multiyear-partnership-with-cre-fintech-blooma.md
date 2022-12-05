@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-05T12:24:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/12/b29956577/sunwest-bank-secures-multiyear-partnership-with-cre-fintech-blooma"
 webUrl: "https://www.benzinga.com/pressreleases/22/12/b29956577/sunwest-bank-secures-multiyear-partnership-with-cre-fintech-blooma"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Benzinga.com

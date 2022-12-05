@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/nvidia-showcases-groundbreaking-generativ
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-showcases-groundbreaking-generative-ai-research-at-neurips-2022/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/12/Fir7IQiWIAAYtAI.jpeg?w=1200&strip=all"
         width: 1200
         height: 520
-        isCached: true
-  - title: "The Curious Case of Generative AI"
-    excerpt: "FastSaaS is a growing trend, with companies leveraging AI-generative and no-code capabilities to create their product."
-    publishedDateTime: 2022-12-05T04:52:00Z
-    webUrl: "https://analyticsindiamag.com/jasper-cerebras-partnership-changes-the-game-for-fastsaas/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/Is-This-the-Real-Moat-in-Generative-AI.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "Fm2Q8ay3MvM4lxVgsSAXRTb7fLJBtmvgrn1sYNcU49N5I9/9NZQQKIsH/k7vQEj8YYsYUbA0YhSRXHobB/ni04Di9xLKU2g7lmM3u6aO9NvfStLcZgNqXKcqcBK0ontxsvRSh7dNixf+nHxdGA6uMbGPcv3ZqCnLR9qr+BPe7DJZu3J91Xxtzo7N8UwrK+BBccnxKKtKP3DocMDZyOi0ozFnFsf1VmaBGl8fAiR52lA1jvzdT0t/Ug9UD4lUSbfiXmDFlLS1AuNTL5qKPKArhZPzQRuzDB/PEjyLWZVc1yRxLZDqH8eR4BLghJidcfKQRNf9IFTP9GA6PJLM7/UDWWuWxCm+8fi9dkpOw8807KXuaq93WXTGtFwvchA5K8SRsEwEln8DdlMk6+JQUZf0XTUzzFupwfYO+VqCj0cVkjw5GRCTYEiqIFD6w2BIPzbhpIE9eaWsFzMbMatbSwxYT4S19a7Y8WY7B5wp4CHO2iQDoYQkpE/6h849tW2ROnX6xi84Oqg1zMujA8bJTl9SDw==;0BOvNLoPg8XAHpkEENu95w=="

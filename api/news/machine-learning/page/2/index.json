@@ -2,6 +2,120 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-28-tsa-faces-ethical-limits-on-ai-but-advancement-work-must-persist.md",
+      "title": "TSA faces ethical limits on AI, but advancement work must persist",
+      "excerpt": "The potential competitive advantage offered by AI is enormous. Yet transitions from the research lab to practice will remain choppy and uncertain, which will help ensure that progress is measured, methodical and slow.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stripes.com/opinion/2022-11-27/tsa-artificial-intelligence-8207585.html",
+      "originalUrl": "https://www.stripes.com/opinion/2022-11-27/tsa-artificial-intelligence-8207585.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.stripes.com/incoming/iqzdwc-oped-tsa-artificial-intelligence-commentary-get.jpg/alternates/LANDSCAPE_480/OPED-TSA-ARTIFICIAL-INTELLIGENCE-COMMENTARY-GET.jpg",
+          "width": 480,
+          "height": 299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-27T09:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stars and Stripes",
+        "domain": "stripes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-11-28-creating-more-explainable-artificial-intelligence-could-enhance-human-work-and-creativity.md",
+      "title": "Creating more explainable artificial intelligence could enhance human work and creativity",
+      "excerpt": "Rudzicz’s work will develop processes that will improve artificial neural networks to increase computer understanding of human language, and Kuzminykh’s research seeks to better understand how humans perceive and interact with conversational agents like chatbots and virtual assistants.",
+      "sourceUrl": null,
+      "webUrl": "https://thevarsity.ca/2022/11/27/creating-more-explainable-artificial-intelligence-could-enhance-human-work-and-creativity/",
+      "originalUrl": "https://thevarsity.ca/2022/11/27/creating-more-explainable-artificial-intelligence-could-enhance-human-work-and-creativity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-27T09:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Varsity",
+        "domain": "thevarsity.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-26-new-study-on-deep-learning-technology-for-improving-mri-image-quality-published-in-european-radiology.md",
+      "title": "New study on deep learning technology for improving MRI image quality published in European Radiology",
+      "excerpt": "A recent study published in European Radiology demonstrated that SwiftMR, an AI-powered MRI reconstruction solution from AIRS Medical, successfully denoises 3D MR images and improves its image quality by using routine clinical scans only.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-new-study-deep-learning-technology-improving-mri-image-/2022/11/25/9719669.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-new-study-deep-learning-technology-improving-mri-image-/2022/11/25/9719669.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-25T08:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-25-new-study-on-deep-learning-technology-for-improving-mri-image-quality-published-in-european-radiology.md",
       "title": "New study on deep learning technology for improving MRI image quality published in European Radiology",
       "excerpt": "SwiftMR™, an AI-powered MRI reconstruction solution from AIRS Medical proved its performance for enhancing the image quality of 3D",
@@ -246,6 +360,40 @@
       ]
     },
     {
+      "path": "_news/2022-11-23-wearables-biosensors-neural-implants-not-for-roulette-but-health-and-wellness.md",
+      "title": "Wearables, Biosensors, Neural Implants: Not for Roulette, But Health and Wellness",
+      "excerpt": "The next generation of wearables have more noble intent – but like that first device, dubbed by its developers as “The First Wearable Computer”, new wearable computers, biosensors and neural implants may also raise eyebrows.",
+      "sourceUrl": null,
+      "webUrl": "https://whatsyourtech.ca/2022/11/23/wearables-biosensors-neural-implants-not-for-roulette-but-health-and-wellness/",
+      "originalUrl": "https://whatsyourtech.ca/2022/11/23/wearables-biosensors-neural-implants-not-for-roulette-but-health-and-wellness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-23T06:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WhatsYourTech",
+        "domain": "whatsyourtech.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-23-an-optical-chip-that-can-train-machine-learning-hardware.md",
       "title": "An optical chip that can train machine learning hardware",
       "excerpt": "A multi-institution research team has developed an optical chip that can train machine learning hardware. Their research is published today in Optica.",
@@ -371,6 +519,49 @@
       "provider": {
         "name": "CIO Applications",
         "domain": "cioapplications.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-22-artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all.md",
+      "title": "Artificial neural networks learn better when they spend time not learning at all",
+      "excerpt": "Ryan Golden , Jean Erik Delanois, et al, (2022, November 18), Artificial neural networks learn better when they spend time not learning at all, PLOS Computational Biology, DOI: 10.1371/journal.pcbi.1010628.",
+      "sourceUrl": null,
+      "webUrl": "https://medicaldialogues.in/mdtv/neurology-neurosurgery/videos/artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all-102720",
+      "originalUrl": "https://medicaldialogues.in/mdtv/neurology-neurosurgery/videos/artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all-102720",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medicaldialogues.in/h-upload/2022/11/22/191602-why-sudden-increase-in-melioidosis-cases-in-india-1500-900px.jpg",
+          "width": 1500,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicaldialogues.in/amp/mdtv/neurology-neurosurgery/videos/artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all-102720",
+      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/mdtv/neurology-neurosurgery/videos/artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all-102720",
+      "publishedDateTime": "2022-11-21T19:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily",
+        "domain": "medicaldialogues.in",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1139,236 +1330,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-ibm-research-helps-extend-pytorch-to-enable-open-source-cloud-native-machine-learning.md",
-      "title": "IBM Research helps extend PyTorch to enable open-source cloud-native machine learning",
-      "excerpt": "IBM Research has contributed code to the open-source PyTorch machine learning project that could help to significantly accelerate training.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ibm-research-helps-extend-pytorch-to-enable-open-source-cloud-native-machine-learning/",
-      "originalUrl": "https://venturebeat.com/ai/ibm-research-helps-extend-pytorch-to-enable-open-source-cloud-native-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/IBM2-e1668643364867.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ibm-research-helps-extend-pytorch-to-enable-open-source-cloud-native-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ibm-research-helps-extend-pytorch-to-enable-open-source-cloud-native-machine-learning/amp/",
-      "publishedDateTime": "2022-11-17T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-artificial-neural-network-creates-synthetic-x-ray-images-to-overcome-regulatory-limitations.md",
-      "title": "Artificial neural network creates synthetic x-ray images to overcome regulatory limitations",
-      "excerpt": "Researchers at the University of Jyväskylä Digital Health Intelligence Laboratory addressed the problem and developed an artificial neural network that creates synthetic x-ray images that can fool even medical experts. A group of researchers from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20221117/Artificial-neural-network-creates-synthetic-x-ray-images-to-overcome-regulatory-limitations.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20221117/Artificial-neural-network-creates-synthetic-x-ray-images-to-overcome-regulatory-limitations.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Osteoarthritis-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20221117/Artificial-neural-network-creates-synthetic-x-ray-images-to-overcome-regulatory-limitations.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20221117/Artificial-neural-network-creates-synthetic-x-ray-images-to-overcome-regulatory-limitations.aspx",
-      "publishedDateTime": "2022-11-17T03:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-4-times-when-mathematics-made-huge-breakthroughs-in-ai.md",
-      "title": "4 Times When Mathematics Made Huge Breakthroughs in AI",
-      "excerpt": "Although some discoveries offered compelling answers, others promised avenues of explorations for the future generations.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/4-times-when-mathematics-made-huge-breakthroughs-in-ai/",
-      "originalUrl": "https://analyticsindiamag.com/4-times-when-mathematics-made-huge-breakthroughs-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/11/math.png",
-          "width": 1536,
-          "height": 864,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T01:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-lumiq-wins-aws-specialty-partner-of-the-year-2022-for-data-analytics-machine-learning-second-year-in-a-row.md",
-      "title": "LUMIQ wins AWS Specialty Partner of the Year 2022 - for Data, Analytics, & Machine Learning - second year in a row",
-      "excerpt": "India's leading Data & Analytics company bagged the AWS Specialty Partner of the Year 2022 Award for Data, Analytics, and Machine Learning at the recent AWS Partner Summit in Bengaluru. The event saw Anil Kumble talking about his entrepreneurial journey and the evolution of the Indian tech landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/11/17/9715457.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/11/17/9715457.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1949765/LUMIQ_AWS_Partner_Summit_Award_2022.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T22:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-machine-learning-as-a-service-mlaas-industry-2022-market-growth-size-share-demand-trends-and-forecasts-to-2028.md",
-      "title": "Machine Learning-as-a-Service (MLaaS) Industry 2022 Market Growth, Size, Share, Demand, Trends and Forecasts to 2028",
-      "excerpt": "Global Machine Learning-as-a-Service (MLaaS) Market (2022-2028) Research report offers in-depth analysis on market",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-industry-2022-market-growth-size-share-demand-trends-and-forecasts-to-2028-2022-11-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-industry-2022-market-growth-size-share-demand-trends-and-forecasts-to-2028-2022-11-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T21:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

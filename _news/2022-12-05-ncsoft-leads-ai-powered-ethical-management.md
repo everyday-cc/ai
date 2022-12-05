@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-05T12:59:00Z
 originalUrl: "https://www.koreatimes.co.kr/www/tech/2022/12/419_340853.html"
 webUrl: "https://www.koreatimes.co.kr/www/tech/2022/12/419_340853.html"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: The Korea Times
