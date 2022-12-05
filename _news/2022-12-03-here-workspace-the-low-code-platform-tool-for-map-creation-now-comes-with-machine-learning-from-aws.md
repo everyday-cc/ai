@@ -21,22 +21,6 @@ topics:
 
 related:
   - title: "HERE Workspace: The low-code platform tool for map creation now comes with machine learning from AWS"
-    excerpt: "HERE Workspace adds new low-code mapmaking capabilities and now connects to Amazon SageMaker, AWS's machine learning platform, to further expand the possibilities for customers developing spatial inte"
-    publishedDateTime: 2022-11-30T18:46:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/11/g29912625/here-workspace-the-low-code-platform-tool-for-map-creation-now-comes-with-machine-learning-from-aw"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29912625"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29912625"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 61
-    images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
-        width: 666
-        height: 282
-        isCached: true
-  - title: "HERE Workspace: The low-code platform tool for map creation now comes with machine learning from AWS"
     excerpt: "HERE Workspace adds new low-code mapmaking capabilities and now connects to Amazon SageMaker, AWS’s machine learning platform, to further expand the possibilities for customers"
     publishedDateTime: 2022-12-01T17:11:00Z
     webUrl: "https://www.directionsmag.com/pressrelease/11966"

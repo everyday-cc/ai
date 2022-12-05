@@ -149,6 +149,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "DigiYatra: Facial recognition technology is now available at these Indian airports"
+    excerpt: "With the assistance of a facial recognition software known as \"DigiYatra,\" you will be able to sail through the process of flying, which will now be paperless and contactless."
+    publishedDateTime: 2022-12-05T09:43:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/new-updates/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports/articleshow/96000093.cms"
+    ampWebUrl: "https://m.economictimes.com/news/new-updates/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports/amp_articleshow/96000093.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/new-updates/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports/amp_articleshow/96000093.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 68
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-53688,msid-96000068/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Govt Launches Facial Recognition-based Entry At 3 Indian Airports; Know How It Works"
     excerpt: "The government on Thursday launched a facial recognition system known as DigiYatra at three airports namely Delhi, Bangalore, and Varanasi for seamless travel."
     publishedDateTime: 2022-12-02T05:13:00Z

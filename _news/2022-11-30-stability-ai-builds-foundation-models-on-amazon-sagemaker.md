@@ -59,20 +59,6 @@ related:
         width: 1565
         height: 780
         isCached: true
-  - title: "AI21 Jurassic-1 foundation model is now available on Amazon SageMaker"
-    excerpt: "Today we are excited to announce that AI21 Jurassic-1 (J1) foundation models are available for customers using Amazon SageMaker. Jurassic-1 models are highly versatile, capable of both human-like text generation, as well as solving complex tasks such as question answering, text classification, and many"
-    publishedDateTime: 2022-11-30T18:42:38Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/ai21-jurassic-1-foundation-model-is-now-available-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/29/ai21-jurassic-sagemaker.jpg"
-        width: 1564
-        height: 780
-        isCached: true
   - title: "Separate lines of business or teams with multiple Amazon SageMaker domains"
     excerpt: "Amazon SageMaker Studio is a fully integrated development environment (IDE) for machine learning (ML) that enables data scientists and developers to perform every step of the ML workflow, from preparing data to building, training, tuning, and deploying models. To access SageMaker Studio, Amazon SageMaker"
     publishedDateTime: 2022-12-01T18:47:50Z
@@ -219,20 +205,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 69
-  - title: "Launch Amazon SageMaker Autopilot experiments directly from within Amazon SageMaker Pipelines to easily automate MLOps workflows"
-    excerpt: "Amazon SageMaker Autopilot, a low-code machine learning (ML) service that automatically builds, trains, and tunes the best ML models based on tabular data, is now integrated with Amazon SageMaker Pipelines, the first purpose-built continuous integration and continuous delivery (CI/CD) service for ML."
-    publishedDateTime: 2022-11-30T18:59:06Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/launch-amazon-sagemaker-autopilot-experiments-directly-from-within-amazon-sagemaker-pipelines-to-easily-automate-mlops-workflows/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 60
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/29/launch-sagemaker-autopilot-experiments-directly.jpg"
-        width: 1564
-        height: 781
-        isCached: true
   - title: "Amazon SageMaker gets eight new capabilities"
     excerpt: "Eight new capabilities have been unveiled for Amazon SageMaker, AWS’s end-to-end machine learning (ML) service. Developers, data scientists, and business"
     publishedDateTime: 2022-12-01T21:04:00Z

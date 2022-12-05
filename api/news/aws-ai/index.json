@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/ai/how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -166,7 +166,7 @@
       "originalUrl": "https://www.infoworld.com/article/3681891/aws-updates-its-machine-learning-service-sagemaker.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 341,
+      "heat": 321,
       "tags": null,
       "images": [
         {
@@ -410,6 +410,49 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-amazon-to-warn-customers-on-limitations-of-its-ai.md",
+      "title": "Amazon To Warn Customers On Limitations Of Its AI",
+      "excerpt": "Amazon chose software touching on sensitive demographic issues as a start for its service cards, which Kearns expects to grow in detail over time. One such service is called \"Rekognition.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985",
+      "originalUrl": "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.ibtimes.com/en/full/4389003/amazon-logo-company-logistics-center-lauwin-planque.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1",
+      "publishedDateTime": "2022-11-30T09:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1394,49 +1437,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-aws-to-invest-44-bn-in-hyderabad-data-centre.md",
-      "title": "AWS to invest $4.4 bn in Hyderabad data centre",
-      "excerpt": "Amazon Web Service (AWS) on Tuesday announced an investment of USD 4.4 billion (about Rs 36,300 crore) by 2030 in building in Hyderabad its second data center cluster in India.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/technology/tech-news/aws-to-invest-44-bn-in-hyderabad-data-centre-770314",
-      "originalUrl": "https://www.thehansindia.com/technology/tech-news/aws-to-invest-44-bn-in-hyderabad-data-centre-770314",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2022/11/22/1321759-aws.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/aws-to-invest-44-bn-in-hyderabad-data-centre-770314",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/aws-to-invest-44-bn-in-hyderabad-data-centre-770314",
-      "publishedDateTime": "2022-11-22T10:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

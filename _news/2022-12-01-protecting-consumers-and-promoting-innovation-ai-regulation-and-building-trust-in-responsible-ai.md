@@ -23,19 +23,21 @@ topics:
   - AWS AI
 
 related:
-  - title: "Introducing AWS AI Service Cards: A new resource to enhance transparency and advance responsible AI"
-    excerpt: "Artificial intelligence (AI) and machine learning (ML) are some of the most transformative technologies we will encounter in our generation—to tackle business and societal problems, improve customer experiences, and spur innovation. Along with the widespread use and growing scale of AI comes the recognition"
-    publishedDateTime: 2022-11-30T17:51:13Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-aws-ai-service-cards-a-new-resource-to-enhance-transparency-and-advance-responsible-ai/"
+  - title: "University of Limerick invites applications for MSc in Artificial Intelligence and Machine Learning through Fateh Education"
+    excerpt: "University of Limerick, Ireland is now inviting applications for its MSc program in Artificial Intelligence and Machine Learning. The course aims to provide students with core knowledge of artificial intelligence technology (AI)."
+    publishedDateTime: 2022-12-02T02:55:00Z
+    webUrl: "https://indiaeducationdiary.in/university-of-limerick-invites-applications-for-msc-in-artificial-intelligence-and-machine-learning-through-fateh-education/"
+    ampWebUrl: "https://indiaeducationdiary.in/university-of-limerick-invites-applications-for-msc-in-artificial-intelligence-and-machine-learning-through-fateh-education/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-limerick-invites-applications-for-msc-in-artificial-intelligence-and-machine-learning-through-fateh-education/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 90
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 67
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/29/ai-service-cards-responsible-ai.jpg"
-        width: 1563
-        height: 780
+      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1"
+        width: 534
+        height: 462
         isCached: true
 
 secured: "qzN5Rsgob/dcIjkLLEcwa6pa2mf3B1j0thewsJQ3ajcJlR/+pcdC1Qf+Ycaz3RVPT4D0nBqQb4CxRQ6i86uofeREsEm8ZATH/7iALQzbWsMJMXcfTv44ynD/NK3A1aL+AXrHlyBTjDOxPnmwA/le1YQ4YwRFexKcb6JfQkIilKivsg1KNA3GWDixjSQKXIkVQgPTX6DpwtPL7VRho78cwUQjTm5RTIf9SEATJHrOpKZuv2/ZaivCCIxzq7NTaBJjhehltGvCV8xGwCGZO9fmKrXghloYSjkJGQPETNzQw8DhbxJ/xRVFspqjCwwJm3FDki8+OyqskUOf8cfLo/p6mwZKrXx3gL57wK1rg7tH+I8=;1kydQvUez5rWwEeC1M8aIQ=="

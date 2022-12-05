@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nielsen and AI4ALL expand relationship to build the next generation of diverse artificial intelligence leaders"
+    excerpt: "Nielsen collaborated with AI4ALL to launch the inaugural Data Jam initiative for students in their College Pathways program."
+    publishedDateTime: 2022-12-02T07:11:00Z
+    webUrl: "https://www.nielsen.com/news-center/2022/nielsen-and-ai4all-expand-relationship-to-build-the-next-generation-of-diverse-artificial-intelligence-leaders/"
+    type: article
+    provider:
+      name: Nielsen
+      domain: nielsen.com
+    quality: 34
+    images:
+      - url: "https://www.nielsen.com/wp-content/uploads/sites/2/2021/10/nielsen_default_meta_image_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "American Family Insurance and AWS Team Up to Drive Innovation in the Insurance Industry"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced an expanded relationship with American Family Insurance, a mutual insurance company focused on property,"
     publishedDateTime: 2022-12-01T13:02:00Z

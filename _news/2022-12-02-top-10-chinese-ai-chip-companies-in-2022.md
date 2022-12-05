@@ -7,7 +7,7 @@ originalUrl: "https://global.chinadaily.com.cn/a/202212/02/WS63892d40a31057c47eb
 webUrl: "https://global.chinadaily.com.cn/a/202212/02/WS63892d40a31057c47eba233a.html"
 type: article
 quality: 54
-heat: 74
+heat: 75
 published: true
 
 provider:

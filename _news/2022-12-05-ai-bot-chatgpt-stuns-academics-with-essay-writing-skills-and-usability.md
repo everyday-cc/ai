@@ -3,8 +3,8 @@ category: news
 title: "AI bot ChatGPT stuns academics with essay-writing skills and usability"
 excerpt: "Latest chatbot from Elon Musk-founded OpenAI can identify incorrect premises and refuse to answer inappropriate requests"
 publishedDateTime: 2022-12-05T04:14:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability?ref=upstract.com"
-webUrl: "https://www.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability?ref=upstract.com"
+originalUrl: "https://www.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability?amp"
+webUrl: "https://www.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability?amp"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability"
 type: article
@@ -77,6 +77,6 @@ related:
         height: 478
         isCached: true
 
-secured: "+m9zR/TKzP0fzk2aRAHLumV5/j9hYqj1Sv1R2klWdbhzOZk+wT8HwGfn1VH2ZkLQKshBdS3XVtDQi4TjksXl7Z1kNoW2XLY/Qih2QwCEGgVBib3UwlylujeQki8DVfp8w3eGFjWSJgicKhlnKtqR4Fhv4A355wiABzj+ASRss3oof11R0TtG1eqaT0NCke2TgYSArPA6X+V51GU7/1XejsgIbpSBs/i5jw1dY30XJRkdZJreTNvwshsG1NgGkAO/z+9aobXJg4NXs+j/HIVMLygBMDlCtXbMEwbICuWKIFrQw3xe/Q690+7H7/SzVVZk33qOe8QGNhypAvJ2Xi9PR2EROG1kZht5o0fpkfa3Oxw=;IZ8AtKYX5Qzl2se4jisqPQ=="
+secured: "9qGlR6dPKd1ZyJyGwEs+u5gkYtVLGnDuIuUCs9BYGTwqx/EhK4BcRQ3JYJcX96PHzK7lpSp2sCeyo07xQVndFHRi9t38MSHstD065cwWgKfecaWbvbGT/RDCyNGnJESt580S2t0igNMPeKU0ycGQ76bH9tK/CTyJi4EGgH45vGk51LjwhV/n9lmU4zeYt/gt6yYoq+Ae67eqcWZ2PCqmSb+O4HXB4j68XEM3lumLISMlRe/wAWFPURXwiPJTyzZZEA2DxnvEcFh9Bfg/EQpSu0Blt0zOWPdSri4jaqA0v1Omy3dC131aM6q1ZUvZdAmBDe6gDA4yraZ6/TBgaHXNuYWxT1RI57249+TKFIwXlhs=;MeSRGWOcO4XKCQxUvsZzIA=="
 ---
 

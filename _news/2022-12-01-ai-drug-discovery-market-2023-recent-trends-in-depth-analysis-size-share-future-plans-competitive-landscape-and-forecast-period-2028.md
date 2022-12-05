@@ -36,16 +36,16 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Global Investor, Latest Trends, Industry Growth, Size, Segmentation, Future Demands, by Regional Forecast to 2028"
-    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations"
-    publishedDateTime: 2022-12-02T09:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-investor-latest-trends-industry-growth-size-segmentation-future-demands-by-regional-forecast-to-2028-2022-12-02"
+  - title: "Artificial Intelligence in IoT Market Statistics 2023 : Industry Demand, Prominent Players Strategies, Size, SWOT Analysis and Forecast 2028"
+    excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence in IoT Market will have significant change from previous year. By the most conservati"
+    publishedDateTime: 2022-12-02T11:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-statistics-2023-industry-demand-prominent-players-strategies-size-swot-analysis-and-forecast-2028-2022-12-02"
     type: article
     provider:
       name: MarketWatch

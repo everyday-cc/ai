@@ -35,22 +35,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "San Francisco will allow police to deploy robots that kill"
-    excerpt: "The Democratic San Francisco Board of Supervisors voted to allow police to use potentially lethal, remote-controlled robots in emergency situations."
-    publishedDateTime: 2022-11-30T17:05:00Z
-    webUrl: "https://www.kcci.com/article/san-francisco-will-allow-police-to-deploy-robots-that-kill/42103590"
-    ampWebUrl: "https://www.kcci.com/amp/article/san-francisco-will-allow-police-to-deploy-robots-that-kill/42103590"
-    cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/san-francisco-will-allow-police-to-deploy-robots-that-kill/42103590"
-    type: article
-    provider:
-      name: KCCI Des Moines
-      domain: kcci.com
-    quality: 59
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap22331669831658.jpg?crop=1.00xw:0.821xh;0,0.0488xh&resize=1200:*"
-        width: 1200
-        height: 678
-        isCached: true
   - title: "San Francisco police defend 'killer robots' plan"
     excerpt: "Police in San Francisco defended their potential use of killer robots on Thursday, insisting they would be a \"last resort\" and only for very dangerous situations. Detectives in the California city, where residents complain of a spike in crime,"
     publishedDateTime: 2022-12-02T03:44:00Z
@@ -66,22 +50,6 @@ related:
       - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/12/02/killer_bots.png"
         width: 600
         height: 314
-        isCached: true
-  - title: "San Francisco will allow police to deploy robots that kill in emergency situations"
-    excerpt: "Opponents said the authority would lead to the further militarization of a police force already too aggressive with poor and minority communities."
-    publishedDateTime: 2022-11-30T17:24:00Z
-    webUrl: "https://www.pennlive.com/nation-world/2022/11/san-francisco-will-allow-police-to-deploy-robots-that-kill-in-emergency-situations.html"
-    ampWebUrl: "https://www.pennlive.com/nation-world/2022/11/san-francisco-will-allow-police-to-deploy-robots-that-kill-in-emergency-situations.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2022/11/san-francisco-will-allow-police-to-deploy-robots-that-kill-in-emergency-situations.html?outputType=amp"
-    type: article
-    provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 53
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CNIOK4VRJNEJ7E4OGQJ7POQXNY.jpeg"
-        width: 800
-        height: 550
         isCached: true
   - title: "San Francisco Police Can Use Robots To Kill Suspects"
     excerpt: "A recent law allows San Francisco Police to use robots for killing in extreme situations.  The department included this provision in a new “Law Enforcement Equipment Policy” that passed"

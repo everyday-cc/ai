@@ -84,20 +84,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Applying Wright's Law To AI Accelerators"
-    excerpt: "Compared to the K80 chip that Nvidia released in 2014, the latest AI training accelerator delivers 195x the performance on a total cost of ownership adjusted basis. Read more"
-    publishedDateTime: 2022-11-30T17:10:00Z
-    webUrl: "https://seekingalpha.com/article/4561438-wrights-law-ai-accelerators"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 41
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1345658982/image_1345658982.jpg?io=getty-c-w750"
-        width: 750
-        height: 422
-        isCached: true
 
 secured: "riEbgEb/IaslMrACEOvArFsYmLDcG0jeGF9Pz0JT+XyMo0KQ6Ddzu8bnhjfjalw0btBwaNuj0B2bzrjtlV7lcvzjPa+ibX5YbCcupzKRkQQJKpkJ7HSC5K6rwd/RLWrudzoeBb0sFBOnIuptdUFwAEFBsGuWpgTWc/yBmF7QA/PHyswTBeo1ECVkjCHE/5teUTH2HKsFHoDHeGMJq2o1W+AY2yNuSGrfzumU4UpyZeKiXWXbUbHUKgUNRqjaKQqCueOcmToa7/PPRrPd7j3APbq6ncGgTnE2dd1srbnEB596eoakVG71fgqt2k1i1VUhlBqnEgvhbCeAXRXSTf2mc8CRBa/jk+ZMpAeVzD82J9Q=;QlL1x9USTGMUNLRevusNBw=="
 ---

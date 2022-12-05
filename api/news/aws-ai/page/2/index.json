@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-23-aws-to-invest-44-bn-in-hyderabad-data-centre.md",
+      "title": "AWS to invest $4.4 bn in Hyderabad data centre",
+      "excerpt": "Amazon Web Service (AWS) on Tuesday announced an investment of USD 4.4 billion (about Rs 36,300 crore) by 2030 in building in Hyderabad its second data center cluster in India.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/technology/tech-news/aws-to-invest-44-bn-in-hyderabad-data-centre-770314",
+      "originalUrl": "https://www.thehansindia.com/technology/tech-news/aws-to-invest-44-bn-in-hyderabad-data-centre-770314",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2022/11/22/1321759-aws.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/aws-to-invest-44-bn-in-hyderabad-data-centre-770314",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/aws-to-invest-44-bn-in-hyderabad-data-centre-770314",
+      "publishedDateTime": "2022-11-22T10:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-22-implementing-amazon-forecast-in-the-retail-industry-a-journey-from-poc-to-production.md",
       "title": "Implementing Amazon Forecast in the retail industry: A journey from POC to production",
       "excerpt": "Amazon Forecast is a fully managed service that uses statistical and machine learning (ML) algorithms to deliver highly accurate time-series forecasts. Recently, based on Amazon Forecast, we helped one of our retail customers achieve accurate demand forecasting, within 8 weeks. The solution improved",
@@ -765,8 +808,8 @@
       "title": "LUMIQ wins AWS Specialty Partner of the Year 2022 - for Data, Analytics, & Machine Learning - second year in a row",
       "excerpt": "India's leading Data & Analytics company bagged the AWS Specialty Partner of the Year 2022 Award for Data, Analytics, and Machine Learning at the recent AWS Partner Summit in Bengaluru. The event saw Anil Kumble talking about his entrepreneurial journey and the evolution of the Indian tech landscape.",
       "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/11/17/9715457.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/11/17/9715457.htm",
+      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1290786&cat=PR News Wire",
+      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1290786&cat=PR News Wire",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -785,11 +828,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T22:03:00-08:00",
+      "publishedDateTime": "2022-11-16T22:43:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1347,59 +1390,6 @@
         "AI in Autos",
         "AWS AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-ibms-new-23-billion-transistor-aiu-could-establish-a-trend-in-the-ai-hardware-market.md",
-      "title": "IBM’s New 23 Billion Transistor AIU Could Establish A Trend In The AI Hardware Market",
-      "excerpt": "IBM provided no release date for the AIU The IBM Research AI Hardware Center developed the new AIU chip over five years. The center focuses on developing next-gen chips and AI systems to improve AI hardware efficiency by 2.5x annually and be able to train ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/11/11/ibms-new-23-billion-transistor-aiu-could-establish-a-trend-in-the-ai-hardware-market/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/11/11/ibms-new-23-billion-transistor-aiu-could-establish-a-trend-in-the-ai-hardware-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/636e6f1b79421870b17fde5f/0x0.png?format=png&width=1200",
-          "width": 1200,
-          "height": 754,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/11/11/ibms-new-23-billion-transistor-aiu-could-establish-a-trend-in-the-ai-hardware-market/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/11/11/ibms-new-23-billion-transistor-aiu-could-establish-a-trend-in-the-ai-hardware-market/amp/",
-      "publishedDateTime": "2022-11-11T08:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

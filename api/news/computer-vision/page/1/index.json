@@ -158,7 +158,7 @@
       "originalUrl": "https://www.firstpost.com/explainers/explained-india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work-10842621.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 233,
+      "heat": 243,
       "tags": null,
       "images": [
         {
@@ -248,34 +248,25 @@
     },
     {
       "path": "_news/2022-11-29-kami-vision-reveals-the-worlds-first-ai-powered-camera-alarm-system-for-the-entire-home-with-247-professional-monitoring.md",
-      "title": "Kami Vision Reveals the World’s First AI-Powered Camera Alarm System for the Entire Home with 24/7 Professional Monitoring",
+      "title": "Kami Vision Reveals the World's First AI-Powered Camera Alarm System for the Entire Home with 24/7 Professional Monitoring",
       "excerpt": "Kami Vision, the computer vision company that provides AI solutions to enterprise, SMB and consumers, today announced Kami Pro Security, a professional-grade, video alarm system for use in residences and small businesses.",
       "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/kami-vision-reveals-the-world-s-first-ai-powered-camera-alarm-system-for-the-entire/article_49e5329d-ee51-541e-bfbe-fa77d5602eaa.html",
-      "originalUrl": "https://www.eagletribune.com/region/kami-vision-reveals-the-world-s-first-ai-powered-camera-alarm-system-for-the-entire/article_49e5329d-ee51-541e-bfbe-fa77d5602eaa.html",
+      "webUrl": "https://it.tmcnet.com/news/2022/11/29/9720497.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/11/29/9720497.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/8/3a/83af393c-2753-51f7-acf9-3b55ae4c37e1/6385daa75faa5.image.jpg?crop=1060%2C557%2C0%2C699&resize=1060%2C557&order=crop%2Cresize",
-          "width": 1060,
-          "height": 557,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T01:02:00-08:00",
+      "publishedDateTime": "2022-11-29T03:39:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -336,19 +327,19 @@
     {
       "path": "_news/2022-11-29-scientists-facial-recognition-may-help-save-seals.md",
       "title": "Scientists: Facial recognition may help save seals",
-      "excerpt": "FREEPORT, Maine — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for it ...",
+      "excerpt": "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they’ve found a new use for it — saving seals. A research team at Colgate University has developed SealNet,",
       "sourceUrl": null,
-      "webUrl": "https://kearneyhub.com/ap/national/scientists-facial-recognition-may-help-save-seals/article_9bdfe7b5-585b-57c2-bd18-686d95d3de10.html",
-      "originalUrl": "https://kearneyhub.com/ap/national/scientists-facial-recognition-may-help-save-seals/article_9bdfe7b5-585b-57c2-bd18-686d95d3de10.html",
+      "webUrl": "https://tulsaworld.com/eedition/page-a2/page_a04edd3f-6309-531e-98d8-f5eb25805e0c.html",
+      "originalUrl": "https://tulsaworld.com/eedition/page-a2/page_a04edd3f-6309-531e-98d8-f5eb25805e0c.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/kearneyhub.com/content/tncms/assets/v3/editorial/7/60/7609ff35-a32c-56c1-8045-6d353c138b88/6384ef1239b0c.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
+          "url": "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/eedition/a/04/a04edd3f-6309-531e-98d8-f5eb25805e0c/638d36e374c19.fullsize-img.jpg",
+          "width": 792,
+          "height": 1638,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -358,11 +349,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T09:35:00-08:00",
+      "publishedDateTime": "2022-11-28T08:16:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Kearney Hub",
-        "domain": "kearneyhub.com",
+        "name": "Tulsa World",
+        "domain": "tulsaworld.com",
         "images": null,
         "publishers": null,
         "authors": null

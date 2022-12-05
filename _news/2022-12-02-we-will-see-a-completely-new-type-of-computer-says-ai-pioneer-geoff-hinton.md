@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/we-will-see-a-completely-ne
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/we-will-see-a-completely-new-type-of-computer-says-ai-pioneer-geoff-hinton-mortal-computation/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

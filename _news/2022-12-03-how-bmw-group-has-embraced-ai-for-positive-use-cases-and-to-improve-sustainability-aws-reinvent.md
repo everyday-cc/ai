@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/how-bmw-group-has-embraced-ai-for-positiv
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent/amp/"
 type: article
 quality: 90
-heat: 131
+heat: 132
 published: true
 
 provider:

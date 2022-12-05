@@ -57,20 +57,6 @@ related:
         width: 1920
         height: 1425
         isCached: true
-  - title: "Early research suggests promising use of AI to predict risk of heart attack or stroke using a single chest X-ray"
-    excerpt: "Early research suggests a promising use of artificial intelligence to predict the 10-year risk of death from a heart attack or stroke from a single chest X-ray."
-    publishedDateTime: 2022-11-30T17:53:00Z
-    webUrl: "https://localnews8.com/health/2022/11/29/early-research-suggests-promising-use-of-ai-to-predict-risk-of-heart-attack-or-stroke-using-a-single-chest-x-ray/"
-    type: article
-    provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 22
-    images:
-      - url: "https://localnews8.b-cdn.net/2022/11/hypatia-h_44d1a744c66563ee67e542a225dd4910-h_8fd481471df36eb8a520d96017fe985d-300.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "XsHGoFqvSUy9tv4u6azonLbPBpMD99nbLOjptnP1ctqtuXF7WQI7srpolWi0qep1THbzX3QDARsoDBDKOc6vqRpjI+4JpmNTwhF3smLC9UHGzr3qvp5iJi33WKmLLR+8CozuN9HzhuIhp/TGt6mnefPRXcawui4OPN872t//9nz+KPlAdKRpvwM347VuIbgTsIxWTSa67trwvd8PTmiqm1NpjeAKnIHaDD4O3TqIroLrLzR1zyDAqtN0o/caYWk7m8+KtlSiP5RicNTg9PrrPPd0yZiAPwyZ0cWLLIgY715x9kxuZYgA9S1YDXRgJnOVKEUFydJ6FXFK687LpMd6hsv7XkyhXmoD4RQeNf730FaQgbAZrOKZ4/YVFxpDfjmj629p2i1WoKZdQQ7mt1xalMV4LgI1RLQIPykRuKxev5pnaqM5rHL4EUtoOZrnq/WUUd+YGZLX4mcWqwXVeQgqshKaDB30fHTBAQTOmUupO+tU51gOSWym1bqNFECuuNGlUEY64Sb39qqZyLNqI01g2Q==;DSRWCYUCR6a8C1FQkMHipw=="
 ---

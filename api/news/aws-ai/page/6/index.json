@@ -2,6 +2,61 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-10-04-machine-learning-as-a-service-market-projected-to-discern-stable-expansion-during-2022-2028-amazon-web-services-bigml-inc-microsoft-corporation.md",
+      "title": "Machine Learning as a Service Market projected to discern stable expansion during 2022-2028 | Amazon Web Services, BigML Inc., Microsoft Corporation",
+      "excerpt": "Machine Learning as a Service Market - Global Outlook and Forecast 2022-2028 is latest research study released by",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-projected-to-discern-stable-expansion-during-2022-2028-amazon-web-services-bigml-inc-microsoft-corporation-2022-10-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-projected-to-discern-stable-expansion-during-2022-2028-amazon-web-services-bigml-inc-microsoft-corporation-2022-10-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-03-create-high-quality-data-for-ml-models-with-amazon-sagemaker-ground-truth.md",
       "title": "Create high-quality data for ML models with Amazon SageMaker Ground Truth",
       "excerpt": "Machine learning (ML) has improved business across industries in recent years—from the recommendation system on your Prime Video account, to document summarization and efficient search with Alexa’s voice assistance. However, the question remains of how to incorporate this technology into your business.",
@@ -1325,59 +1380,6 @@
         "AWS AI",
         "Machine Learning",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-arm-continues-its-datacenter-drive-with-neoverse-2.md",
-      "title": "Arm Continues Its Datacenter Drive With Neoverse 2",
-      "excerpt": "Senior Analyst, Servers, Matt Kimball, dives in as ARM recently announced Neoverse 2 – an updated IP portfolio designed to achieve greater performance, efficiency, and security gains. Matt unpacks Neoverse 2 and what this means for enterprise IT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/09/21/arm-continues-its-datacenter-drive-with-neoverse-2/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/09/21/arm-continues-its-datacenter-drive-with-neoverse-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/632b24e9f617a31a3a44b11e/0x0.png?format=png&width=1200",
-          "width": 936,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/09/21/arm-continues-its-datacenter-drive-with-neoverse-2/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/09/21/arm-continues-its-datacenter-drive-with-neoverse-2/amp/",
-      "publishedDateTime": "2022-09-21T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

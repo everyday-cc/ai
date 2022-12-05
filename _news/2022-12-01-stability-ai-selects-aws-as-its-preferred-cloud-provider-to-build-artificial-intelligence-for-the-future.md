@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Stability AI Selects AWS as Its Preferred Cloud Provider to Build Artificial Intelligence for the Future"
-excerpt: "Leading open-source artificial intelligence startup trains foundational models 58% faster and more cost efficiently using Amazon SageMaker on AWS At AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced ..."
-publishedDateTime: 2022-11-30T21:02:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2022/11/30/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial"
-webUrl: "https://stockhouse.com/news/press-releases/2022/11/30/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial"
+excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Stability AI, a community-driven, open-source artificial intelligence (AI) company, has selected AWS as its preferred cloud provider to build and scale its AI models for image,"
+publishedDateTime: 2022-11-30T22:00:00Z
+originalUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-30-stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the-future"
+webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-30-stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the-future"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: The Buffalo News
+  domain: buffalonews.com
 
 topics:
   - AWS AI
@@ -119,6 +119,6 @@ related:
       domain: techreport.com
     quality: 36
 
-secured: "vzKiOBR6mQ23CeVFGFHUpAQ4IzfrM8fA9DS1blhb3ydVFDROMMHnAj5Z5E2Slkl0qW4GrqQCsO5F10spDQNWPKn7Y9MfxpuEFZE/VzrS91vy/6MpQYBpjbbqMXsN5l5RgK8dDpnJ/C9RQA+sq3Zzr76NCpD0oONbkU7wKrkU9nX1A1VwqdkhrWtsPITjw85Z5mDNP+oeikQ9+dXFMv8F6L2lX1IlW9Cyq/K824s/J8ZO5Aj/P8tsKB2IcFLguAtrlafG3VzhWaSXl+r87zQNzR+bYpzBKa7NbRj0WWZAq7VquGnR85je+nNlltuMQ+q8ozRDh1pnNbyojWhH5/sRXL4SrKWXHfkAbrjLEuqR2uk=;yArLkUWJygOSDJwIDvcviQ=="
+secured: "LC5G/Gn4tKOz/94/IqGwf4HxJ2Hu2yzZuCklRE1tQeOceSEeXrh3H2NBLX1znPyvHeRUYOqIoEEs0rzgcnfDV9grRYuyqyjkXkCjWRf4zJ8xjyT+VR/lEGXLyvXtWf2vh9yD4/4mjyAtrSGUKnOGzCLQZz5BCvaR57e6DypfvgeT+2ncEeZViQH7rhTvy+A7pVvCj+6M+pOkYOtnKHuf0l+UDegsgwYQaskbc2P3jCgxR/MkAllbN4wAGZS0DU5ayL/9WG0ojO1AZw9s+nhqjHv4F3wL52vWArDGwJwgskxSMODR0l9V7oKsgCNuf2b6qpBtArDZV4vckhEJnLfaJ8i/FPjMhCDg0JS5jTLwGGY=;GrRkasQwGfCXvKkdUXJbwA=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://indiaeducationdiary.in/university-of-limerick-invites-applic
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-limerick-invites-applications-for-msc-in-artificial-intelligence-and-machine-learning-through-fateh-education/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: India Education Diary
@@ -27,6 +27,17 @@ images:
     width: 534
     height: 462
     isCached: true
+
+related:
+  - title: "Protecting Consumers and Promoting Innovation – AI Regulation and Building Trust in Responsible AI"
+    excerpt: "Artificial intelligence (AI) is one of the most transformational technologies of our generation and provides huge opportunities to be a force for good and drive economic growth. It can help scientists cure terminal diseases, engineers build inconceivable structures, and farmers yield more crops. AI allows"
+    publishedDateTime: 2022-12-01T14:01:28Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/protecting-consumers-and-promoting-innovation-ai-regulation-and-building-trust-in-responsible-ai/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 55
 
 secured: "Lmakrza8gjdIsoHGoa6IpDDcm+EwBNLCwKtPyevmQZSSx2fVykqdsHkmc4QOYkBpay4rGReQJHJ4bCpytgPhXAwM9V61MUPoOWSnvvIJYkhVPmIo8QRhgeM6z68HfySYXzlPO9X+CwcPP/x5ZSjvKoksQTqhnqvlVy4NW2KYR9R6D/MFRTDplVBCC1cFpofiOAJS8X8aNHER4j1cJLMfjgMP1xCjAmFR9sWI94zeWsj4AogNnC9XMMHz4g81JWxqssejkxJYr58l8IKq1U+hSG/kB7LZCMhPyVTGbMy4Nab5T6Kv/JOjqNLUxTKpDcQreGGbRNSsvAXt0BC2z2sXvVPIKkdOa0BR5YDL8VSR7sM=;o4YvOdTJsLPu0rMcSFxITA=="
 ---

@@ -2,6 +2,214 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-11-29-quantiphi-awarded-two-2022-regional-and-global-aws-partner-awards.md",
+      "title": "Quantiphi Awarded Two 2022 Regional and Global AWS Partner Awards",
+      "excerpt": "Invent 2022, the Regional and Global AWS Partner Awards recognize a wide range of AWS Partners whose business models have embraced specialization, innovation, and cooperation over the past year. Regional and Global Partner Awards recognize partners whose business models continue to evolve and thrive on AWS as they work with customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-quantiphi-awarded-two-2022-regional-global-aws-partner-/2022/11/29/9720600.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-quantiphi-awarded-two-2022-regional-global-aws-partner-/2022/11/29/9720600.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T05:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem.md",
+      "title": "BAE Systems adds Microsoft to modeling and simulation ecosystem",
+      "excerpt": "BAE Systems is expanding the network of companies in its modeling and simulations ecosystem to include Microsoft. With this addition,  This press release features multimedia. View the full release here:   (Credit: BAE Systems) “Microsoft Azure is widely regarded as a prominent provider of cloud computing services for government,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem/article_09a8296f-2a89-5be5-8852-247c6e7dd5f6.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem/article_09a8296f-2a89-5be5-8852-247c6e7dd5f6.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/a/da/ada8d6f0-eb7c-548b-a469-7bc080bd4580/638614d0a1fa1.image.jpg",
+          "width": 633,
+          "height": 1140,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bakersfield.com/ap/news/bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem/article_09a8296f-2a89-5be5-8852-247c6e7dd5f6.amp.html",
+      "cdnAmpWebUrl": "https://www-bakersfield-com.cdn.ampproject.org/c/s/www.bakersfield.com/ap/news/bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem/article_09a8296f-2a89-5be5-8852-247c6e7dd5f6.amp.html",
+      "publishedDateTime": "2022-11-29T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-deepgram-lands-new-cash-to-grow-its-enterprise-voice-recognition-business.md",
+      "title": "Deepgram lands new cash to grow its enterprise voice-recognition business",
+      "excerpt": "Deepgram, a company developing voice-recognition tech for the enterprise, today raised $47 million in new funding led by Madrona Venture Group with participation from Citi Ventures and Alkeon.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/29/deepgram-lands-new-cash-to-grow-its-enterprise-voice-recognition-business/",
+      "originalUrl": "https://techcrunch.com/2022/11/29/deepgram-lands-new-cash-to-grow-its-enterprise-voice-recognition-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1024463070.jpg?resize=1200,654",
+          "width": 1200,
+          "height": 654,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/29/deepgram-lands-new-cash-to-grow-its-enterprise-voice-recognition-business/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/29/deepgram-lands-new-cash-to-grow-its-enterprise-voice-recognition-business/amp/",
+      "publishedDateTime": "2022-11-29T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-finance-provider-sets-up-fund-aimed-at-ai-machine-learning-and-data-science.md",
+      "title": "Finance provider sets up fund aimed at AI, machine learning and data science",
+      "excerpt": "AI will focus specifically on early stage, high growth artificial intelligence (AI), machine learning and data science investment opportunities in the North of the UK. River Capital says Northern data science SMEs are underserved by venture capital,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thebusinessdesk.com/northwest/news/2106804-finance-provider-sets-up-fund-aimed-at-ai-machine-learning-and-data-science",
+      "originalUrl": "https://www.thebusinessdesk.com/northwest/news/2106804-finance-provider-sets-up-fund-aimed-at-ai-machine-learning-and-data-science",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thebusinessdesk.com/_files/images/nov_22/Dr-Marc-dAbbadie-river-capital-e1669722818427.png",
+          "width": 322,
+          "height": 216,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T03:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The UK",
+        "domain": "thebusinessdesk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-kami-vision-reveals-the-worlds-first-ai-powered-camera-alarm-system-for-the-entire-home-with-247-professional-monitoring.md",
+      "title": "Kami Vision Reveals the World's First AI-Powered Camera Alarm System for the Entire Home with 24/7 Professional Monitoring",
+      "excerpt": "Kami Vision, the computer vision company that provides AI solutions to enterprise, SMB and consumers, today announced Kami Pro Security, a professional-grade, video alarm system for use in residences and small businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/11/29/9720497.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/11/29/9720497.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T03:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-29-six-ai-trends-poised-to-reshape-the-business-landscape.md",
       "title": "Six AI Trends Poised To Reshape The Business Landscape",
       "excerpt": "Successfully leveraging even one of these trends can help your organization optimize its competitive advantage while also elevating its growth trajectory.",
@@ -223,49 +431,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-kami-vision-reveals-the-worlds-first-ai-powered-camera-alarm-system-for-the-entire-home-with-247-professional-monitoring.md",
-      "title": "Kami Vision Reveals the World’s First AI-Powered Camera Alarm System for the Entire Home with 24/7 Professional Monitoring",
-      "excerpt": "Kami Vision, the computer vision company that provides AI solutions to enterprise, SMB and consumers, today announced Kami Pro Security, a professional-grade, video alarm system for use in residences and small businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/kami-vision-reveals-the-world-s-first-ai-powered-camera-alarm-system-for-the-entire/article_49e5329d-ee51-541e-bfbe-fa77d5602eaa.html",
-      "originalUrl": "https://www.eagletribune.com/region/kami-vision-reveals-the-world-s-first-ai-powered-camera-alarm-system-for-the-entire/article_49e5329d-ee51-541e-bfbe-fa77d5602eaa.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/8/3a/83af393c-2753-51f7-acf9-3b55ae4c37e1/6385daa75faa5.image.jpg?crop=1060%2C557%2C0%2C699&resize=1060%2C557&order=crop%2Cresize",
-          "width": 1060,
-          "height": 557,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T01:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -960,190 +1125,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-teslas-full-self-driving-beta-is-now-open-to-everyone-who-paid-for-it.md",
-      "title": "Tesla’s Full Self-Driving Beta Is Now Open to Everyone Who Paid for It",
-      "excerpt": "Tesla CEO Elon Musk reveals that Full Self-Driving Beta is available to Tesla owners who request it, ending an earlier period of smaller scale testing on public roads. The company's so-called Full ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoweek.com/news/green-cars/a42083804/tesla-full-self-driving-beta-wide-release/",
-      "originalUrl": "https://www.autoweek.com/news/green-cars/a42083804/tesla-full-self-driving-beta-wide-release/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/tesla-4-1669643127.jpg?crop=1.00xw:0.896xh;0,0.104xh&resize=1200:*",
-          "width": 1200,
-          "height": 605,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T10:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "autoweek",
-        "domain": "autoweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-the-best-cyber-monday-robot-vacuum-deals.md",
-      "title": "The best Cyber Monday robot vacuum deals",
-      "excerpt": "Amazon, Walmart, Best Buy and other retailers are all holding massive Cyber Monday sales now, with deep discounts on the best robot vacuums of 2022. Some vacuum models are at the lowest price we've ever seen them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/the-best-cyber-monday-robot-vacuum-deals/",
-      "originalUrl": "https://www.cbsnews.com/essentials/the-best-cyber-monday-robot-vacuum-deals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/11/28/69bea5c1-d14f-4e08-8bef-0db588f6d9de/thumbnail/1200x630/7fb06b107e0207457de1f6bee0715ade/cm-robo-vac-hero.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/the-best-cyber-monday-robot-vacuum-deals/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/the-best-cyber-monday-robot-vacuum-deals/",
-      "publishedDateTime": "2022-11-28T09:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-how-ai-adoption-has-yet-to-reveal-its-real-potential.md",
-      "title": "How AI adoption has yet to reveal its real potential",
-      "excerpt": "New book, Power and Prediction, says the power of AI is evident now, but widespread AI adoption has yet to come.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-ai-adoption-has-yet-to-reveal-its-real-potential/",
-      "originalUrl": "https://venturebeat.com/ai/how-ai-adoption-has-yet-to-reveal-its-real-potential/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1321461813-e1669649385546.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-ai-adoption-has-yet-to-reveal-its-real-potential/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-adoption-has-yet-to-reveal-its-real-potential/amp/",
-      "publishedDateTime": "2022-11-28T09:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-scientists-facial-recognition-may-help-save-seals.md",
-      "title": "Scientists: Facial recognition may help save seals",
-      "excerpt": "FREEPORT, Maine — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for it ...",
-      "sourceUrl": null,
-      "webUrl": "https://kearneyhub.com/ap/national/scientists-facial-recognition-may-help-save-seals/article_9bdfe7b5-585b-57c2-bd18-686d95d3de10.html",
-      "originalUrl": "https://kearneyhub.com/ap/national/scientists-facial-recognition-may-help-save-seals/article_9bdfe7b5-585b-57c2-bd18-686d95d3de10.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/kearneyhub.com/content/tncms/assets/v3/editorial/7/60/7609ff35-a32c-56c1-8045-6d353c138b88/6384ef1239b0c.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T09:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kearney Hub",
-        "domain": "kearneyhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

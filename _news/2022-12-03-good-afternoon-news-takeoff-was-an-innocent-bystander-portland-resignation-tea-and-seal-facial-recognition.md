@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Wallet Factory Reports Its 2022 Awards and Recognition Honors"
-    excerpt: "Despite unprecedented times, Wallet Factory has successfully addressed all the technological challenges the clients had to face during 2022 and before. Taking a deep dive into understanding end customers,"
-    publishedDateTime: 2022-11-30T18:59:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/30/9722299.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
   - title: "Global Machine Learning as a Service Market Report 2022 to 2028: Players Include Oracle, Google, Amazon Web Services and IBM - ResearchAndMarkets.com"
     excerpt: "The \"Global Machine Learning as a Service Market Size, Share & Industry Trends Analysis Report By End User, By Offering, By Organization Size, By Application, By Regional Outlook and Forecast, 2022 - 2028\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2022-12-01T12:56:00Z
@@ -58,6 +49,6 @@ related:
       domain: buffalonews.com
     quality: 1
 
-secured: "G0zApVJt4mQ5BPjz/rTt70GO0G72yhEqbKm54ZCvQU+GgOzuR/YB86tEgSHnzgPEI4e1dSq1mCCxonNCcnJVKQ47pVjaIVj/8bU2c/1uO6sIhWTojF8Jx1a6o/DlcQ1v0MyBz6uXtBD4GKDVqL+f5Qo+sS9XtUxdelVLTply40CkwdQTRTweInealNvjh7ond3MgPd0tffK1qVOUNxEGcLwW/vcCl9wFkc7SxrBYhHlN8qW13SBtHFBFvXZGnN0NOGZpz3qTOTo7o7S2/F6p47b93g2NOCfXTpH1g96niiIX1gSgqyNMLt2DTA40CtUUCV+uWBTBgQpaThZNmMTe/VoEO6rHx8zt61seqMIo80o=;wK8qsC1ovEdGg9RYtgBOHQ=="
+secured: "9TmaVk4cbDftMsyb1Zkq3PmOh2gnS6/ZOPQnEa0INworJTdIZ57Dssj5nA9KSb8qVnf+8/t5bFbQF8+2+hgQIdEBKmd5/8ppDI2vFH6fmFwC0fxyK0NPlf+sHnE2YHDqlr/i79AkvNHaEFjw9zRVe3bIBMo0dvkUAFr+q0uSsbeK1ug2HGHNOXI4vRegbUtIxAu640waiqxHVncFCoomS65M+NLZIfxZ342FSvROUJWq41V45xDqSgRnErSJ+kStK7U/9hbD3kXw7shzjZ1gSIxSCfSblLAIzxr7HUfC4Hzwvoc3m427crQRpniPaO9cEBHJZYFOSAJYFo1OumoEX2MIXfaviOlE22wlWVJ7fKQOhD09Ns2i2xMgsjv4JANuBHtANW5t/dj5ssiAX1wJs1xSP7udAfOgiIQ/6iqSpYWw8oCZfH2Gfuag6Ezyax9c75ZyFbNxwNprCh0c6DsxHPMqk+Hppsk3qpDkxOJ8vcSGxDbeeT1zx5WqSBJGcZp6kn6ekTxGxmBjE3Z88OtjYw==;NegcAJPbQCFpuAD+wnmGxA=="
 ---
 

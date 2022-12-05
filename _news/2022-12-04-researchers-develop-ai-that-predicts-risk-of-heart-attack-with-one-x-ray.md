@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/science/health/researchers-develop-ai-that-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/science/health/researchers-develop-ai-that-predicts-risk-of-heart-attack-with-one-xray/amp-11670147870319.html"
 type: article
 quality: 58
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://inteng-storage-us.s3.amazonaws.com/2022/12/01/image/jpeg/WiO6NnTNsPY99lKpkeVE4Y9wjF7V8ZnX52VvNfoJ.jpg"
         width: 1920
         height: 1425
-        isCached: true
-  - title: "Early research suggests promising use of AI to predict risk of heart attack or stroke using a single chest X-ray"
-    excerpt: "Early research suggests a promising use of artificial intelligence to predict the 10-year risk of death from a heart attack or stroke from a single chest X-ray."
-    publishedDateTime: 2022-11-30T17:53:00Z
-    webUrl: "https://localnews8.com/health/2022/11/29/early-research-suggests-promising-use-of-ai-to-predict-risk-of-heart-attack-or-stroke-using-a-single-chest-x-ray/"
-    type: article
-    provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 22
-    images:
-      - url: "https://localnews8.b-cdn.net/2022/11/hypatia-h_44d1a744c66563ee67e542a225dd4910-h_8fd481471df36eb8a520d96017fe985d-300.jpg"
-        width: 2000
-        height: 1333
         isCached: true
 
 secured: "7fMvUvTwzquN4gnCulxoI/44QqOKQAOq0Ko6WsCzQfoKEMw9A5PInWVDrk1+sSJn8WCQWb3FUOSFE9a4j/DQQq7hKpRj05371PB4bx25ZQvJ9MtsveCWw/YvhGW0L2Dh+qL2XjKn94H9yZ7KHYjyWxoPaPKDA5TE8dPmDsRoZsI6rZo3VR7NN6gmtL8b9EsG+NlcpNUtGdzz5Ai88N1boCSURv6AxKw6c5vRw+obDoy2DPUu3666EyrDn/7dVBwuCymrHiH0DroISUQduINH6qPgkcPHLX2x7D3oeOLa2RBmLA93WsXF0pP8OG0DOaHz1Bo+d53l4DZ6cAGiixPdir78UCHg0NRw5FhBckT0iX5jMVcFngr38wlpmLOWF6jvNnGfRHeh4/BzjXtEZnp+y8FKOdg++20key95ll30dsn7oTxERDjMIs5EKe7bcuY3l/rtfGXXPCVN45M7gY+UwKjK4xUaEsuUaqDlYxaqtQFx3W1jMfXgoiQiYi+jKIsclW2xEOb8PcxH72BEKATqPg==;1lvpZy/BmZrYPkW5wElbFA=="

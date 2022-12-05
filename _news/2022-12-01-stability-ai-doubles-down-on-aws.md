@@ -116,13 +116,13 @@ related:
       domain: techreport.com
     quality: 36
   - title: "Stability AI Selects AWS as Its Preferred Cloud Provider to Build Artificial Intelligence for the Future"
-    excerpt: "Leading open-source artificial intelligence startup trains foundational models 58% faster and more cost efficiently using Amazon SageMaker on AWS At AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced ..."
-    publishedDateTime: 2022-11-30T21:02:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/11/30/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Stability AI, a community-driven, open-source artificial intelligence (AI) company, has selected AWS as its preferred cloud provider to build and scale its AI models for image,"
+    publishedDateTime: 2022-11-30T22:00:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-30-stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the-future"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
+      name: The Buffalo News
+      domain: buffalonews.com
     quality: 32
 
 secured: "y0zpOcgw7V4txnNwV+IPc8+nlIeTDWCX1zyp+dk5fbzgkBevb0cuYHikJORDOSdivBYP4RxhUFQIt3//LhYGyKwNKYHgpZAFxzzgK1vGUZ3ir+Ivsyh4PXYz4Y2oYlgKFn+fskYHNy2neAknVFXqxv/acWrWSUX50GJFYFyPsaCSDflynCBD2xrBtOXG6Bvod6O2IllFs95CtqqX4o9W84T/KIokCVzTdFfqyPMVNHsgXGVYH7ZKOERTuO1Vc0TLE9+9UjrYnyyM53BA9rk8NJri5QgAGn3rtsjaP6ymSZEEvFM0hrbX22vmO0M1WO6YIjQgDWJx2VUKREb3GGOBN/b5T8BIWr7DO8zpqMAdigQ=;vHtiK+iMxd5gVd7w0xKCvA=="

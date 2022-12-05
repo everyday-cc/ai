@@ -50,15 +50,6 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "Wallet Factory Reports Its 2022 Awards and Recognition Honors"
-    excerpt: "Despite unprecedented times, Wallet Factory has successfully addressed all the technological challenges the clients had to face during 2022 and before. Taking a deep dive into understanding end customers,"
-    publishedDateTime: 2022-11-30T18:59:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/30/9722299.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
 
 secured: "iANT/p8IgycoAwv0q0llYO1827Er2kiNwidmNaLiW2+bBMVDbFCPybNp8lAAPfyeax24jPrSzsl7rbxQwm1NQUv7av/SuyOoMhdXsLtHOVdtsU3RJq3miqC6TJzFuzw0glSPM93Xnldo/AyTrtI14+UOdFR4vAFIfdfF2z5YKfev7ysvLGZuJIIOrZJ9qAWzNkM0O/Zjp1Utbg+WmHtlejLcaiy9fIR4BXwLyn9bDMJUs/rz3iFADyUM24TY0ihSmznDevp3A+Ftv0ZkX62uv3+nhX2FtAp7rgzX1fwrv6oYXZgKt88NlCAp/Qx35Y9SPg6JatlWfe71OuCdiLz7XXaeuHtV8b4eEBgax0HxZD8=;Fq8EjgAjiZshj+Cxt5rg5w=="
 ---

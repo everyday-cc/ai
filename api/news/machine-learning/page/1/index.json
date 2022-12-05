@@ -97,7 +97,7 @@
       "originalUrl": "https://www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-an-ai-about-the-ethics-of-aiand-it-lied-to-me/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 158,
       "tags": null,
       "images": [
         {
@@ -140,6 +140,51 @@
         "AI",
         "AI Ethics",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-university-of-limerick-invites-applications-for-msc-in-artificial-intelligence-and-machine-learning-through-fateh-education.md",
+      "title": "University of Limerick invites applications for MSc in Artificial Intelligence and Machine Learning through Fateh Education",
+      "excerpt": "University of Limerick, Ireland is now inviting applications for its MSc program in Artificial Intelligence and Machine Learning. The course aims to provide students with core knowledge of artificial intelligence technology (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/university-of-limerick-invites-applications-for-msc-in-artificial-intelligence-and-machine-learning-through-fateh-education/",
+      "originalUrl": "https://indiaeducationdiary.in/university-of-limerick-invites-applications-for-msc-in-artificial-intelligence-and-machine-learning-through-fateh-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1",
+          "width": 534,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/university-of-limerick-invites-applications-for-msc-in-artificial-intelligence-and-machine-learning-through-fateh-education/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-limerick-invites-applications-for-msc-in-artificial-intelligence-and-machine-learning-through-fateh-education/",
+      "publishedDateTime": "2022-12-01T18:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning",
+        "AI in Education"
       ]
     },
     {
@@ -195,7 +240,7 @@
       "originalUrl": "https://www.zdnet.com/article/we-will-see-a-completely-new-type-of-computer-says-ai-pioneer-geoff-hinton-mortal-computation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -302,7 +347,7 @@
       "originalUrl": "https://www.infoworld.com/article/3681891/aws-updates-its-machine-learning-service-sagemaker.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 341,
+      "heat": 321,
       "tags": null,
       "images": [
         {
@@ -548,6 +593,40 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-data-center-accelerator-global-market-report-2022-growing-use-of-deep-learning-technology-in-big-data-analytics-boosts-sector.md",
+      "title": "Data Center Accelerator Global Market Report 2022: Growing Use of Deep Learning Technology in Big Data Analytics Boosts Sector",
+      "excerpt": "The Data Center Accelerator market size is estimated to be USD 21.2 billion in 2022 and is projected to reach USD 64.0 billion by 2027, at a CAGR of 24.7% during the forecast period. The boom in the data center accelerator market is mostly due to the increasing number of companies offering machine learning as a service and increasing demand for FPGA-based accelerators.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-data-center-accelerator-global-market-report-2022-growing-/2022/11/30/9721625.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-data-center-accelerator-global-market-report-2022-growing-/2022/11/30/9721625.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T04:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1360,102 +1439,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-25-new-study-on-deep-learning-technology-for-improving-mri-image-quality-published-in-european-radiology.md",
-      "title": "New study on deep learning technology for improving MRI image quality published in European Radiology",
-      "excerpt": "SwiftMR™, an AI-powered MRI reconstruction solution from AIRS Medical proved its performance for enhancing the image quality of 3D",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/new-study-on-deep-learning-technology-for-improving-mri-image-quality-published-in-european-radiology-1031937873",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/new-study-on-deep-learning-technology-for-improving-mri-image-quality-published-in-european-radiology-1031937873",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-25T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-25-automated-machine-learning-automl-market-2023-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028.md",
-      "title": "Automated Machine Learning (AutoML) Market 2023 Expected to Witness the Highest Revenue Growth Over Forecast to 2028",
-      "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Automated Machine Learning (AutoML)",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-2023-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028-2022-11-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-2023-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028-2022-11-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-25T04:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -39,6 +39,20 @@ related:
         width: 350
         height: 455
         isCached: true
+  - title: "Nielsen and AI4ALL expand relationship to build the next generation of diverse artificial intelligence leaders"
+    excerpt: "Nielsen collaborated with AI4ALL to launch the inaugural Data Jam initiative for students in their College Pathways program."
+    publishedDateTime: 2022-12-02T07:11:00Z
+    webUrl: "https://www.nielsen.com/news-center/2022/nielsen-and-ai4all-expand-relationship-to-build-the-next-generation-of-diverse-artificial-intelligence-leaders/"
+    type: article
+    provider:
+      name: Nielsen
+      domain: nielsen.com
+    quality: 34
+    images:
+      - url: "https://www.nielsen.com/wp-content/uploads/sites/2/2021/10/nielsen_default_meta_image_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "UNC-Chapel Hill, AWS Launch Cloud-Driven Health Startup Collaboration"
     excerpt: "The University of North Carolina at Chapel Hill announced a collaboration with Amazon Web Services to create cloud-driven digital health research startups."
     publishedDateTime: 2022-12-02T13:30:00Z

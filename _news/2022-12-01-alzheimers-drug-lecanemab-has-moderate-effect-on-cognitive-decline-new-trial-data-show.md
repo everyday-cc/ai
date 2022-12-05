@@ -51,22 +51,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "New Alzheimer’s drug lecanemab shows promise in slowing cognitive decline"
-    excerpt: "Results from the study showed that the drug — lecanemab — led to less cognitive decline in some patients with early symptoms of the disease. The slowing of the loss of cognitive ability was ..."
-    publishedDateTime: 2022-11-30T18:08:00Z
-    webUrl: "https://www.fox13memphis.com/news/trending/new-alzheimers-drug-lecanemab-shows-promise-slowing-cognitive-decline/3CWL4JQF3ZH27CAZND65YAYVSQ/"
-    ampWebUrl: "https://www.fox13memphis.com/news/trending/new-alzheimers-drug-lecanemab-shows-promise-slowing-cognitive-decline/3CWL4JQF3ZH27CAZND65YAYVSQ/?outputType=amp"
-    cdnAmpWebUrl: "https://www-fox13memphis-com.cdn.ampproject.org/c/s/www.fox13memphis.com/news/trending/new-alzheimers-drug-lecanemab-shows-promise-slowing-cognitive-decline/3CWL4JQF3ZH27CAZND65YAYVSQ/?outputType=amp"
-    type: article
-    provider:
-      name: FOX13 Memphis
-      domain: fox13memphis.com
-    quality: 43
-    images:
-      - url: "https://cmg-cmg-tv-10060-prod.cdn.arcpublishing.com/resizer/nF1gRoiy0gi_lbBj462cu6MZrqE=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/FZBNBKTEENC5ZHXNB5V7S6S4XA.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "New Alzheimer's Drug Reduces Cognitive Decline but May Cause Severe Side Effects, Study Finds"
     excerpt: "According to research published by the New England Journal of Medicine on Tuesday, the drug lecanemab slows cognitive decline. \"Lecanemab reduced markers of amyloid in early Alzheimer's disease ..."
     publishedDateTime: 2022-11-30T23:26:00Z

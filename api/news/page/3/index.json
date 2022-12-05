@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-12-01-alzheimers-drug-trial-shown-to-slow-cognitive-decline-in-long-fight-against-dementia.md",
+      "title": "Alzheimer's drug trial shown to slow cognitive decline in long fight against dementia",
+      "excerpt": "Alzheimer's Research UK described the outcome as a \"major step forward\" in reducing cognitive decline among patients. \"These exciting findings represent a major step forward for dementia research ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/11/30/alzheimers-drug-lecanemab-slows-cognitive-decline-in-dementia-fight.html",
+      "originalUrl": "https://www.cnbc.com/2022/11/30/alzheimers-drug-lecanemab-slows-cognitive-decline-in-dementia-fight.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107158864-1669806496855-gettyimages-484332326-bb_fea-brainscan_108.jpeg?v=1669807708",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/11/30/alzheimers-drug-lecanemab-slows-cognitive-decline-in-dementia-fight.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/11/30/alzheimers-drug-lecanemab-slows-cognitive-decline-in-dementia-fight.html",
+      "publishedDateTime": "2022-11-30T12:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-how-the-private-sector-can-help-close-the-public-sector-ai-knowledge-gap.md",
       "title": "How the Private Sector Can Help Close The Public Sector AI Knowledge Gap",
       "excerpt": "This blog focuses on how the private sector can help close the public sector knowledge gap in sustainable AI practices. 5 Strategies are positioned for consideration, underlying the security threats we face of not modernizing our government institutions more rapidly with sustaining AI capabilities.",
@@ -100,6 +152,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-asia-pacific-fintech-as-a-service-market-report-2022-key-players-paypal-mastercard-sofi-technologies-and-more-fueling-174-annual-growth.md",
+      "title": "Asia Pacific Fintech-as-a-Service Market Report 2022: Key Players PayPal, Mastercard, SoFi Technologies and More Fueling 17.4% Annual Growth",
+      "excerpt": "The Asia Pacific Fintech-as-a-Service Market is expected to witness market growth of 17.4% CAGR during the forecast period (2022-2028). The debut of ARDEN in May 2022 was announced by Brightwell Payments,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/11/30/9722271.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/11/30/9722271.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T11:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -343,6 +429,49 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-amazon-to-warn-customers-on-limitations-of-its-ai.md",
+      "title": "Amazon To Warn Customers On Limitations Of Its AI",
+      "excerpt": "Amazon chose software touching on sensitive demographic issues as a start for its service cards, which Kearns expects to grow in detail over time. One such service is called \"Rekognition.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985",
+      "originalUrl": "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.ibtimes.com/en/full/4389003/amazon-logo-company-logistics-center-lauwin-planque.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1",
+      "publishedDateTime": "2022-11-30T09:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -756,6 +885,40 @@
       ]
     },
     {
+      "path": "_news/2022-11-30-data-center-accelerator-global-market-report-2022-growing-use-of-deep-learning-technology-in-big-data-analytics-boosts-sector.md",
+      "title": "Data Center Accelerator Global Market Report 2022: Growing Use of Deep Learning Technology in Big Data Analytics Boosts Sector",
+      "excerpt": "The Data Center Accelerator market size is estimated to be USD 21.2 billion in 2022 and is projected to reach USD 64.0 billion by 2027, at a CAGR of 24.7% during the forecast period. The boom in the data center accelerator market is mostly due to the increasing number of companies offering machine learning as a service and increasing demand for FPGA-based accelerators.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-data-center-accelerator-global-market-report-2022-growing-/2022/11/30/9721625.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-data-center-accelerator-global-market-report-2022-growing-/2022/11/30/9721625.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T04:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-effective-altruism-is-pushing-a-dangerous-brand-of-ai-safety.md",
       "title": "Effective Altruism Is Pushing a Dangerous Brand of ‘AI Safety’",
       "excerpt": "EA is defined by the Center for Effective Altruism as “an intellectual project, using evidence and reason to figure out how to benefit others as much as possible.” And “evid",
@@ -1058,189 +1221,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-samsung-to-hire-over-1000-engineers-for-ai-machine-learning-space.md",
-      "title": "Samsung To Hire Over 1,000 Engineers For AI, Machine Learning Space",
-      "excerpt": "The young engineers will join the company in 2023, and will work on new-age technologies at its R&D institutes in Bengaluru, Noida, Delhi and at Samsung Semiconductor India Research in Bengaluru.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/business/samsung-india-plans-to-hire-1-000-engineers-from-iits-top-institutes-for-r-d-units-3565347",
-      "originalUrl": "https://www.ndtv.com/business/samsung-india-plans-to-hire-1-000-engineers-from-iits-top-institutes-for-r-d-units-3565347",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2022-08/5nb18m7_samsung-reuters_625x300_19_August_22.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=675?ver-20221119.02",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/business/samsung-india-plans-to-hire-1-000-engineers-from-iits-top-institutes-for-r-d-units-3565347/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/samsung-india-plans-to-hire-1-000-engineers-from-iits-top-institutes-for-r-d-units-3565347/amp/1",
-      "publishedDateTime": "2022-11-30T00:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-predictions-for-ai-video-chips-and-more-in-2023-deloitte.md",
-      "title": "Predictions for AI, video, chips and more in 2023 | Deloitte",
-      "excerpt": "The new year will see AI tools for chip design, video streams with ad support, and a crowd of satellites in space, according to Deloitte.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/predictions-for-ai-video-chips-and-more-in-2023-deloitte/",
-      "originalUrl": "https://venturebeat.com/ai/predictions-for-ai-video-chips-and-more-in-2023-deloitte/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/11/deloitte-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/predictions-for-ai-video-chips-and-more-in-2023-deloitte/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/predictions-for-ai-video-chips-and-more-in-2023-deloitte/amp/",
-      "publishedDateTime": "2022-11-29T21:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-new-artificial-intelligence-could-help-humans-actually-talk-to-animals.md",
-      "title": "New artificial intelligence could help humans actually talk to animals",
-      "excerpt": "New developments in artificial intelligence and technology could help humans communicate with their pets and any other animal species that calls Earth home. Outside of the field of science ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wkbw.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals",
-      "originalUrl": "https://www.wkbw.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.newsy.com/images/videos/m/1669756816_CgX8sG.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wkbw.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true",
-      "cdnAmpWebUrl": "https://www-wkbw-com.cdn.ampproject.org/c/s/www.wkbw.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true",
-      "publishedDateTime": "2022-11-29T20:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WKBW",
-        "domain": "wkbw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-accel-funded-finbotsai-signs-first-neobank-in-mongolia-m-bank.md",
-      "title": "Accel Funded finbots.ai Signs First Neobank in Mongolia – M Bank",
-      "excerpt": "Singapore-based finbots.ai has signed its first customer in Mongolia, a neobank called M-Bank. finbots.ai is an Accel-funded Fintech that provides B2B software as a service (SaaS). finbots.ai’s utilizes artificial intelligence (AI) to provide a credit modelling solution that aims to enable M bank to rapidly develop and deploy high accuracy application and behaviour scorecards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/11/199262-accel-funded-finbots-ai-signs-first-neobank-in-mongolia-m-bank/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/11/199262-accel-funded-finbots-ai-signs-first-neobank-in-mongolia-m-bank/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/12/Fintech-Asia-Singapore-Buddha-Museam-1024x758.jpg",
-          "width": 1024,
-          "height": 758,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/11/199262-accel-funded-finbots-ai-signs-first-neobank-in-mongolia-m-bank/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/11/199262-accel-funded-finbots-ai-signs-first-neobank-in-mongolia-m-bank/amp/",
-      "publishedDateTime": "2022-11-29T17:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

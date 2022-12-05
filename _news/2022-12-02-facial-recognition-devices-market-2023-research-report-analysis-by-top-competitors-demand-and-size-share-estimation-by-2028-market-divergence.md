@@ -43,15 +43,6 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "Wallet Factory Reports Its 2022 Awards and Recognition Honors"
-    excerpt: "Despite unprecedented times, Wallet Factory has successfully addressed all the technological challenges the clients had to face during 2022 and before. Taking a deep dive into understanding end customers,"
-    publishedDateTime: 2022-11-30T18:59:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/11/30/9722299.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
   - title: "Global Machine Learning as a Service Market Report 2022 to 2028: Players Include Oracle, Google, Amazon Web Services and IBM - ResearchAndMarkets.com"
     excerpt: "The \"Global Machine Learning as a Service Market Size, Share & Industry Trends Analysis Report By End User, By Offering, By Organization Size, By Application, By Regional Outlook and Forecast, 2022 - 2028\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2022-12-01T12:56:00Z
