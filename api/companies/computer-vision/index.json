@@ -23,7 +23,7 @@
       "twitter": {
         "username": "OpenAI",
         "url": "https://twitter.com/OpenAI",
-        "followers": 939957
+        "followers": 941560
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -72,7 +72,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 103746
+        "followers": 103747
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -132,7 +132,7 @@
       "twitter": {
         "username": "IntelAI",
         "url": "https://twitter.com/IntelAI",
-        "followers": 27106
+        "followers": 27105
       },
       "size": "10,001+ employees",
       "yearFounded": 1968,
@@ -145,7 +145,7 @@
         "AI Hardware",
         "Computer Vision"
       ],
-      "heat": 100,
+      "heat": 98,
       "tags": [
         "Autonomous Vehicles",
         "Image Recognition"
@@ -593,7 +593,7 @@
       "twitter": {
         "username": "getnarrative",
         "url": "https://twitter.com/getnarrative",
-        "followers": 22739
+        "followers": 22738
       },
       "size": "11-50 employees",
       "yearFounded": 2012,
@@ -1249,7 +1249,7 @@
       "twitter": {
         "username": "scale_ai",
         "url": "https://twitter.com/scale_ai",
-        "followers": 21306
+        "followers": 21310
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -1422,7 +1422,7 @@
       "twitter": {
         "username": "BaiduResearch",
         "url": "https://twitter.com/BaiduResearch",
-        "followers": 59539
+        "followers": 59540
       },
       "size": "10,001+ employees",
       "yearFounded": 2000,
