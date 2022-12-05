@@ -39,22 +39,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Parsing the hype, hopes, and practical applications of AI across finance solutions"
-    excerpt: "Is AI in finance a pot of gold at the end of the rainbow? Zoho's Raju Vegesna does some myth-busting and explores the the middle ground where AI has a useful place amid the hype."
-    publishedDateTime: 2022-11-30T16:04:00Z
-    webUrl: "https://diginomica.com/parsing-hype-hopes-practical-applications-ai-finance-solutions"
-    ampWebUrl: "https://diginomica.com/parsing-hype-hopes-practical-applications-ai-finance-solutions?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/parsing-hype-hopes-practical-applications-ai-finance-solutions?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 68
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2022-11/Shutterstock_582621088.png"
-        width: 740
-        height: 450
-        isCached: true
 
 secured: "ExC4Tds6Q9BFVE3/dNtauM13+UBKF1Ag/raYfM5jW36mwCGFWor7YAvO/xh/098qLAGUzqQO1XaK4/46YzAB/KZb0vGx2u2gIl7ezZuz0xb8BX+yruRYf6xMmDbcLr85tgyBwtlwOkWvG6WPYM/zJHNfcM1GiuHxWdpcPKe8xGIv09rraJkTjrQOZU0Oj/QIgnn/MmbQrfsrSL/TYWKlMjqhxnScT0kmyfJr1BVu9jHZRouAOCR9qjtjf3g/lm7z6kHWTGWl7LbtHlXlqNNas57tamHmRhi2RYPvpA7fEKEOIWwvZ8lcrX22GGDQdgH8CEU1ux2ESt7Ly33gl5LgHrTUKSt+a0DNfvA0ralkanA=;HXZJ6VPF88rkpLHQ1UkkTg=="
 ---

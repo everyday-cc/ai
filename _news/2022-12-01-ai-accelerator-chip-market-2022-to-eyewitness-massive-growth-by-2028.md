@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-mark
 webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-2022-to-eyewitness-massive-growth-by-2028-2022-12-01"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -84,6 +84,20 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1345658982/image_1345658982.jpg?io=getty-c-w750"
         width: 750
         height: 422
+        isCached: true
+  - title: "Discover How Artificial Intelligence Based Medical Device Market 2023-2026 is Estimated Drive the Industry Growth Across World in Coming Year"
+    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Artificial Intelligence Based Medical Device"
+    publishedDateTime: 2022-12-05T05:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/discover-how-artificial-intelligence-based-medical-device-market-2023-2026-is-estimated-drive-the-industry-growth-across-world-in-coming-year-2022-12-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "gSzJzeSjNY769RzyiejvI7OBCcqKrKyBObGTvn0fw048g9HLjPzYY4KbIIlWJfQrnXLTcnnf/nIPq/kXATduXCnlFhg0KsdJVtIJLDX4+jz4+NQFKLRrtOr2TV4ox9BHOnewcvMPDOIxEM3TyEkeodctbxAPguvedU/S4XMT/hSsFYImRE0TnL2cUAFg46BACy0P/NZELKg9uqrb7pSbacsVyV2Thef0Jt+F21kFr3ZpbQr6iPr5gCP3BJrdmqSv8qzOSN1YWqUxBLpr8WafN2/Bc81ooyiGYoVITDUUnpsNqGJXTUPae247TMwWLcyXcHEZZxF9WVsn/bKck2nPIgEfBZT/APMcfMBnx4XBfHg=;0QVBrCwgURK9z5JxQFbZ+g=="

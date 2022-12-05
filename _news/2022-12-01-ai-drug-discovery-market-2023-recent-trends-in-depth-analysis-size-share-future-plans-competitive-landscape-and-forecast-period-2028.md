@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-drug-discovery-market
 webUrl: "https://www.marketwatch.com/press-release/ai-drug-discovery-market-2023-recent-trends-in-depth-analysis-size-share-future-plans-competitive-landscape-and-forecast-period-2028-2022-12-01"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -28,29 +28,34 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Devices Market 2023 Research Report Analysis by TOP Competitors, Demand and Size Share Estimation by 2028, Market Divergence"
-    excerpt: "What are the Key Industry Development in Facial Recognition Devices Market? A facial recognition device stems from a purpose-built combination of high-end hardware components and efficient software to automatically identify or verify a person from a digital image,"
-    publishedDateTime: 2022-12-02T05:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-2023-research-report-analysis-by-top-competitors-demand-and-size-share-estimation-by-2028-market-divergence-2022-12-02"
+  - title: "Artificial Intelligence Platform Market Share, Size, Growth, Key Vendors, Trends, Analysis, Segmentation, Forecast To 2021-2030"
+    excerpt: "The global Artificial Intelligence Platform market report provides geographic analysis covering regions, such as"
+    publishedDateTime: 2022-12-02T09:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-share-size-growth-key-vendors-trends-analysis-segmentation-forecast-to-2021-2030-2022-12-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 33
+    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Machine Learning as a Service Market Report 2022 to 2028: Players Include Oracle, Google, Amazon Web Services and IBM - ResearchAndMarkets.com"
-    excerpt: "The \"Global Machine Learning as a Service Market Size, Share & Industry Trends Analysis Report By End User, By Offering, By Organization Size, By Application, By Regional Outlook and Forecast, 2022 - 2028\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2022-12-01T12:56:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-12-1-global-machine-learning-as-a-service-market-report-2022-to-2028-players-include-oracle-google-amazon-web-services-and-ibm-researchandmarketscom"
+  - title: "Artificial Intelligence Market Global Investor, Latest Trends, Industry Growth, Size, Segmentation, Future Demands, by Regional Forecast to 2028"
+    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations"
+    publishedDateTime: 2022-12-02T09:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-investor-latest-trends-industry-growth-size-segmentation-future-demands-by-regional-forecast-to-2028-2022-12-02"
     type: article
     provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 1
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "0qIfE1jiZtrJ+EGlvmvEsaIG6BqFCHSJyY0478TZ5yI8psdYKzKRC8akmQO8O9pZY/i21dKh5rlKwVpbIFLjQBP1cgJK6aXtRx7fRNWNl5G763uIiUvPNYUxThpuCg6QaCjw3A+IPaByiYZVb0DWlEWRhdHGA5J4rscFCHBlzcMnVCmB2bVtVD6/IvMJ2SqWehjp0EKE/xDB5LSfdMq2/Rc5SKPnwbZ8AtzG8cqUlA5JP364BJKXZ6rEk6QSRttOqBK5PvGrxBhAsW6shJJAF7aeBHTsaKJPfsGUs2XHz+6twE5PnClPtaVjXS8LlekU38DxDNUrG2axCyTmdWnF9YZiSfnycXhuCrLw5IqPTZA=;vO2x9Zd/5cPHSdlpooHpkA=="
 ---

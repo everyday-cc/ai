@@ -82,6 +82,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Discover How Artificial Intelligence Based Medical Device Market 2023-2026 is Estimated Drive the Industry Growth Across World in Coming Year"
+    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Artificial Intelligence Based Medical Device"
+    publishedDateTime: 2022-12-05T05:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/discover-how-artificial-intelligence-based-medical-device-market-2023-2026-is-estimated-drive-the-industry-growth-across-world-in-coming-year-2022-12-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "WDBIHDkL42MWLUWHF18kfw831P9QHAb9U4jb1cbit79zXWhgHjfzTGAz1tYlWCE9NIOQkRGTsPeF/LP9AmOP41iLNX0HrGjRxywdoUZ5vClzCGC8fZFnqVHpY53wmri6ZnjNYryRpRcPhOnQeolp0X/uAkkVfuC0GDDiFiwx6GcXTIGO71QW8MJZJelFVDZ8RUDqykuxGeYX4R+W0enYK43l5pNoITxustsBN4eCkhNZIjlPtmP2ZiTgeEfTUjU7d7eM7Oz41F7w7gLwhbZwRGfhoUc9N5mJGahte999L4RqJJvMMRTNu44ihELaOephYT7DQ8Vamg2r8xFnlIdGE5paeKDTErz4X5OMZF12qux8N/VkYgSHGBOv7qxYWH7prxIeB2ZYmjQchfDPf7n68mjSHJtayo8D4/jxflXufofRT/dLi3cRftfyh5GVQS5CrtMF2q35VoCamPTGKwxTM++D+rHFuzLRmBHLGmzy36lKwjvUfTHDM56ajzujg+6ey+Z4L4lhePuzJskqanUWTw==;OFGTNwo0BTiV9aPMa7WIcQ=="
 ---

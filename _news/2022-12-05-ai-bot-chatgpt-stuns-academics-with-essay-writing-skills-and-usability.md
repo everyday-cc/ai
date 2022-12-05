@@ -2,11 +2,13 @@
 category: news
 title: "AI bot ChatGPT stuns academics with essay-writing skills and usability"
 excerpt: "Latest chatbot from Elon Musk-founded OpenAI can identify incorrect premises and refuse to answer inappropriate requests"
-publishedDateTime: 2022-12-04T18:23:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability"
-webUrl: "https://www.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability"
+publishedDateTime: 2022-12-05T04:14:00Z
+originalUrl: "https://www.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability?ref=upstract.com"
+webUrl: "https://www.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability?ref=upstract.com"
+ampWebUrl: "https://amp.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability"
 type: article
-quality: 17
+quality: 57
 heat: -1
 published: false
 
@@ -20,6 +22,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://i.guim.co.uk/img/media/df141be52848f565532fc32763a67bfff1f447ed/0_93_5000_3002/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=df8459ef5c224b513f859f0be309e8a3"
+    width: 620
+    height: 372
+    isCached: true
 
 related:
   - title: "OpenAI’s ChatGPT shows why implementation is key with generative AI"
@@ -69,6 +77,6 @@ related:
         height: 478
         isCached: true
 
-secured: "/7kCn3LgizzWuBGqBowC49jjGzfSusU7lc/6uIel0TpDFrGkXV379oaobAmi0b6Ct3XgWYstIchj0Hms9VC+do1+Od5tsAgsdm5s2BO2ng9jW28B2VTI17dtG/bFyNb2o72FLtvdvuHB+RinePawq9xpOVLO2TFMfztBa3wMDbGT3UZ8x4ZGRmmM6wIe5P1lqVETBm2bQXVk/m7hiv+lVKfltMdiZbfkiLkU8lVaZ7crGsOdSOOiSQT52/uEVnR/iT5F3vpKmOkPBazaXcJ5KCVigSFJnMXUrCIuGZPpLvU6ZquiWOQxfQlyy83c+/BZjOSYkT3mVjNeu13Dg97dEXti9AWK4m9rs28GkDYdiwyXu9d9I4EGF/+NN9ID7FtxMad1O+J5t8wlUJ6hdq94dJ+7qAg8AXNqx0UR7b2wEJk8ukLp5s3BXWubNhY3DY6f7fMrOH2a7rU/vGGQvFYcb9A5vMXuEPSbamx9CQdn1y/XK4VHdX/kMUHmF2StEa34/qnxe070Jw3uTLfyqC47MQ==;N9SJvDEIDHdbZMheD7KvpA=="
+secured: "+m9zR/TKzP0fzk2aRAHLumV5/j9hYqj1Sv1R2klWdbhzOZk+wT8HwGfn1VH2ZkLQKshBdS3XVtDQi4TjksXl7Z1kNoW2XLY/Qih2QwCEGgVBib3UwlylujeQki8DVfp8w3eGFjWSJgicKhlnKtqR4Fhv4A355wiABzj+ASRss3oof11R0TtG1eqaT0NCke2TgYSArPA6X+V51GU7/1XejsgIbpSBs/i5jw1dY30XJRkdZJreTNvwshsG1NgGkAO/z+9aobXJg4NXs+j/HIVMLygBMDlCtXbMEwbICuWKIFrQw3xe/Q690+7H7/SzVVZk33qOe8QGNhypAvJ2Xi9PR2EROG1kZht5o0fpkfa3Oxw=;IZ8AtKYX5Qzl2se4jisqPQ=="
 ---
 

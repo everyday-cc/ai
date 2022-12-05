@@ -106,15 +106,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "AWS Announces Amazon Security Lake"
-    excerpt: "AWS has announced Amazon Security Lake, a service that automatically centralizes an organization’s security data from cloud"
-    publishedDateTime: 2022-11-30T16:06:00Z
-    webUrl: "https://www.datanami.com/this-just-in/aws-announces-amazon-security-lake/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 36
   - title: "Stability AI make AWS a Preferred Provider"
     excerpt: "The combination of AWS and Stability AI has the power to create monumental shifts in the potential applications of artificial intelligence."
     publishedDateTime: 2022-12-01T18:48:00Z
@@ -125,13 +116,13 @@ related:
       domain: techreport.com
     quality: 36
   - title: "Stability AI Selects AWS as Its Preferred Cloud Provider to Build Artificial Intelligence for the Future"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Stability AI, a community-driven, open-source artificial intelligence (AI) company, has selected AWS as its preferred cloud provider to build and scale its AI models for image,"
-    publishedDateTime: 2022-11-30T22:00:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-30-stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the-future"
+    excerpt: "Leading open-source artificial intelligence startup trains foundational models 58% faster and more cost efficiently using Amazon SageMaker on AWS At AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced ..."
+    publishedDateTime: 2022-11-30T21:02:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/11/30/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial"
     type: article
     provider:
-      name: The Buffalo News
-      domain: buffalonews.com
+      name: Stockhouse
+      domain: stockhouse.com
     quality: 32
 
 secured: "MeV8t8hy1TqdRocJCoVSMWCS6nNlBZNcLXnGUlqncZNQ0v5svyDzpZ4/IWOL/dUPQ0nV4zzHYF78+PLBw2HfuoBWrxUwZg/hqYfXuQmP2GNG5QjoOKCKd69kWfGAlYpfvAGl5U60v+u0AXhIlRZW0VHJvfLquJgVMBMWg4G2VP9Jnj5/kKNFFVX0GSEa99QUGBSCJxS1WJ/7He8jAK9rlvNae88sTXtfgIumWoH6q2d2Ff23M0i6FC4+hoT22wwkN2+F2ApyB/DlBspsnjZyYEEuQ1UMV+pabe8zGWC1VCWCwgEMa/4OlBDPj631/kGmxeO2ry/U7+K4hKIuV0mpRS47zUTFUkAh90/R8vAfS3oP6pJLy2MtIUNFJMLgaFQv1kHQIF9YjDoPnNFkd05a1J8bDNINEHrJpQn2GYudGin0pjHqShArP3C0URp90Rtx5+3zQ9LwuDkdWyhnTcaY41yYDEKkstiK0U/6J+4mmmidsR0zfRDKvqx4UmP+bxEUt9dBcHWURWPR5KhxRRmr5w==;xKjD1yoDXrv032vksL0dhQ=="

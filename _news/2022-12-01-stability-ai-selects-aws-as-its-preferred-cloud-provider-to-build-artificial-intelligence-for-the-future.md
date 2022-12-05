@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Stability AI Selects AWS as Its Preferred Cloud Provider to Build Artificial Intelligence for the Future"
-excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Stability AI, a community-driven, open-source artificial intelligence (AI) company, has selected AWS as its preferred cloud provider to build and scale its AI models for image,"
-publishedDateTime: 2022-11-30T22:00:00Z
-originalUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-30-stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the-future"
-webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-30-stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the-future"
+excerpt: "Leading open-source artificial intelligence startup trains foundational models 58% faster and more cost efficiently using Amazon SageMaker on AWS At AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced ..."
+publishedDateTime: 2022-11-30T21:02:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2022/11/30/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial"
+webUrl: "https://stockhouse.com/news/press-releases/2022/11/30/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: The Buffalo News
-  domain: buffalonews.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AWS AI
@@ -109,15 +109,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "AWS Announces Amazon Security Lake"
-    excerpt: "AWS has announced Amazon Security Lake, a service that automatically centralizes an organization’s security data from cloud"
-    publishedDateTime: 2022-11-30T16:06:00Z
-    webUrl: "https://www.datanami.com/this-just-in/aws-announces-amazon-security-lake/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 36
   - title: "Stability AI make AWS a Preferred Provider"
     excerpt: "The combination of AWS and Stability AI has the power to create monumental shifts in the potential applications of artificial intelligence."
     publishedDateTime: 2022-12-01T18:48:00Z
@@ -128,6 +119,6 @@ related:
       domain: techreport.com
     quality: 36
 
-secured: "y+xW7XOgyK5C3AEBzrSrOcOd8xdmp/wrQF5a3icR+Er0XYd/I2kEbAhIuEPl0DiXi17FTXFoo2UYUFUxVmw3Jmi3nr4doiN2r4onD+mRcYT+o8+Mft/zqG7a+Ila9dIWef/jR6NmQJCuQt8ZZHPkCF8O2sD7Tnm8EvAwCXTwrOmlk+950rc/nPfKCFTUpEmrEClNHkgu4sLtcv7a7tFOIgIzGvpW4r/Irf0ce0xhUqzJK2Fn5bFmnisbhJBSDQI/vreA44uzZ1mUZV7HVMvk5mY/+ZQ5Y/WS6az2xO67TfW3TJV+DmX2kH/2B6c1h8+zBhI5F89onysz1lRtsxfBkeJ9pcCWoysSGeN95Ol9l1I=;X/89wb1gIAvCEQxI27uSVA=="
+secured: "vzKiOBR6mQ23CeVFGFHUpAQ4IzfrM8fA9DS1blhb3ydVFDROMMHnAj5Z5E2Slkl0qW4GrqQCsO5F10spDQNWPKn7Y9MfxpuEFZE/VzrS91vy/6MpQYBpjbbqMXsN5l5RgK8dDpnJ/C9RQA+sq3Zzr76NCpD0oONbkU7wKrkU9nX1A1VwqdkhrWtsPITjw85Z5mDNP+oeikQ9+dXFMv8F6L2lX1IlW9Cyq/K824s/J8ZO5Aj/P8tsKB2IcFLguAtrlafG3VzhWaSXl+r87zQNzR+bYpzBKa7NbRj0WWZAq7VquGnR85je+nNlltuMQ+q8ozRDh1pnNbyojWhH5/sRXL4SrKWXHfkAbrjLEuqR2uk=;yArLkUWJygOSDJwIDvcviQ=="
 ---
 

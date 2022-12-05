@@ -34,34 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 68
-  - title: "Microsoft, Other Defense Firms Team Up for Modeling & Simulation Work"
-    excerpt: "Lockheed, BAE Systems, and other firms are using the Seattle giant's Azure cloud platform to develop training and what-if tools."
-    publishedDateTime: 2022-11-30T17:01:00Z
-    webUrl: "https://www.defenseone.com/business/2022/11/microsoft-defense-firms-partnering-modeling-and-simulation-capabilities/380305/"
-    type: article
-    provider:
-      name: Defense One
-      domain: defenseone.com
-    quality: 39
-    images:
-      - url: "https://cdn.defenseone.com/media/img/cd/2022/11/30/GettyImages_1198266705/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "NOAA, Microsoft Will Advance National Climate Efforts Through Advanced Tech Partnership"
-    excerpt: "Microsoft’s cloud computing and artificial intelligence tools will help NOAA further its climate and weather predictions and forecast modeling through research and development efforts."
-    publishedDateTime: 2022-11-30T16:17:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2022/11/noaa-microsoft-will-advance-national-climate-efforts-through-advanced-tech-partnership/380284/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 31
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2022/11/30/GettyImages_988302516/860x394.jpg?1669825063"
-        width: 860
-        height: 394
-        isCached: true
   - title: "NOAA, Microsoft Will Advance National Climate Efforts Through Advanced Tech Partnership"
     excerpt: "Microsoft’s cloud computing and artificial intelligence tools will help NOAA further its climate and weather predictions and forecast modeling through research and development efforts."
     publishedDateTime: 2022-12-02T16:17:00Z

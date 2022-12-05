@@ -22,20 +22,6 @@ topics:
   - AI in Finance
 
 related:
-  - title: "AI Drug Discovery Market 2023 Recent Trends, In-depth Analysis, Size, Share, Future Plans, Competitive Landscape and Forecast Period 2028"
-    excerpt: "The ”AI Drug Discovery Market“ report offers a detailed analysis of the current market situation, as well as gives"
-    publishedDateTime: 2022-12-01T11:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-drug-discovery-market-2023-recent-trends-in-depth-analysis-size-share-future-plans-competitive-landscape-and-forecast-period-2028-2022-12-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial Recognition Devices Market 2023 Research Report Analysis by TOP Competitors, Demand and Size Share Estimation by 2028, Market Divergence"
     excerpt: "What are the Key Industry Development in Facial Recognition Devices Market? A facial recognition device stems from a purpose-built combination of high-end hardware components and efficient software to automatically identify or verify a person from a digital image,"
     publishedDateTime: 2022-12-02T05:35:00Z
@@ -50,6 +36,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Good Afternoon, News: Takeoff Was an Innocent Bystander, Portland Resignation Tea, and Seal Facial Recognition"
+    excerpt: "SEAL PRIVACY RIGHTS: I know we hate facial recognition... but hear a research team at Colgate University out. They've developed a database of dozens of faces, of seals, in Maine’s Casco Bay. And they're calling it SealNet. And they're tracking the seals."
+    publishedDateTime: 2022-12-03T00:40:00Z
+    webUrl: "https://www.portlandmercury.com/good-afternoon-news/2022/12/02/46223720/good-afternoon-news-takeoff-was-an-innocent-bystander-portland-resignation-tea-and-seal-facial-recognition"
+    type: article
+    provider:
+      name: The Portland Mercury
+      domain: portlandmercury.com
+    quality: 19
+    images:
+      - url: "https://media1.fdncms.com/portmerc/imager/u/large/46224098/gettyimages-1049444220.jpg"
+        width: 700
+        height: 467
+        isCached: true
+  - title: "Wallet Factory Reports Its 2022 Awards and Recognition Honors"
+    excerpt: "Despite unprecedented times, Wallet Factory has successfully addressed all the technological challenges the clients had to face during 2022 and before. Taking a deep dive into understanding end customers,"
+    publishedDateTime: 2022-11-30T18:59:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/11/30/9722299.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "iANT/p8IgycoAwv0q0llYO1827Er2kiNwidmNaLiW2+bBMVDbFCPybNp8lAAPfyeax24jPrSzsl7rbxQwm1NQUv7av/SuyOoMhdXsLtHOVdtsU3RJq3miqC6TJzFuzw0glSPM93Xnldo/AyTrtI14+UOdFR4vAFIfdfF2z5YKfev7ysvLGZuJIIOrZJ9qAWzNkM0O/Zjp1Utbg+WmHtlejLcaiy9fIR4BXwLyn9bDMJUs/rz3iFADyUM24TY0ihSmznDevp3A+Ftv0ZkX62uv3+nhX2FtAp7rgzX1fwrv6oYXZgKt88NlCAp/Qx35Y9SPg6JatlWfe71OuCdiLz7XXaeuHtV8b4eEBgax0HxZD8=;Fq8EjgAjiZshj+Cxt5rg5w=="
 ---

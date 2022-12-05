@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Klick scientists use machine learning and 12 hours of CGM data to predict diabetes onset"
-    excerpt: "Scientists at Klick Applied Sciences have discovered a way to transform a continuous glucose monitor (CGM) into a powerful diabetes screening and prevention tool using artificial intelligence."
-    publishedDateTime: 2022-12-02T23:26:00Z
-    webUrl: "https://www.news-medical.net/news/20221202/Klick-scientists-use-machine-learning-and-12-hours-of-CGM-data-to-predict-diabetes-onset.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20221202/Klick-scientists-use-machine-learning-and-12-hours-of-CGM-data-to-predict-diabetes-onset.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20221202/Klick-scientists-use-machine-learning-and-12-hours-of-CGM-data-to-predict-diabetes-onset.aspx"
+  - title: "Artificial intelligence can be helpful in diabetes monitoring, prevention"
+    excerpt: "In findings presented at the NeurIPS conference in New Orleans, Klick scientists revealed how they used machine learning and just 12 hours of data from CGMs to determine whether a patient was prediabetic or diabetic."
+    publishedDateTime: 2022-12-05T07:00:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/artificial-intelligence-can-be-helpful-in-diabetes-monitoring-prevention/95994282"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/artificial-intelligence-can-be-helpful-in-diabetes-monitoring-prevention/95994282"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/artificial-intelligence-can-be-helpful-in-diabetes-monitoring-prevention/95994282"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 50
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 56
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://etimg.etb2bimg.com/thumb/msid-95994282,imgsize-32814,width-1200,height-628,overlay-ethealthworld/artificial-intelligence-can-be-helpful-in-diabetes-monitoring-prevention.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Type 2 diabetes: Artificial intelligence model predicts onset within 12 hours"
     excerpt: "Researchers recently created an artificial intelligence model that predicts diabetes onset with 12 hours of blood glucose data collected from a wearable device. The AI model could help diagnose prediabetes and prevent type 2 diabetes."

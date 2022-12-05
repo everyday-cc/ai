@@ -8,7 +8,7 @@ webUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-364198
 ampWebUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1"
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1"
 type: article
-quality: 61
+quality: 59
 heat: -1
 published: false
 
@@ -19,7 +19,6 @@ provider:
 topics:
   - AWS AI
   - AI
-  - AI Ethics
 
 images:
   - url: "https://d.ibtimes.com/en/full/4389003/amazon-logo-company-logistics-center-lauwin-planque.jpg"
@@ -70,6 +69,6 @@ related:
       domain: iol.co.za
     quality: 19
 
-secured: "3b4xHNY72N9eXbkMzFPbdsSyGB6iUC286RQHO1VkXuIFPIVRIENtYaHZyrIp9qUJn8hw3uFzogzC7L4yExOyoNowTFaoPskiUMdikrzGeLndFzQxYOSSA3Aa9wePe5kFLGQTbAh7rZTMNLAQje0TKlDFlsqiTbQeSpRaeYGI5xfjGs6IzwTU1FN/WWBI6upwC2Vw2MlAu99V4DsO6+sRgd80NRCWtHuYcdLHH/qfbAFHhlaYz36dQFWhHABqAnksMMFPanTr32TxcekH/m7BhVm2n9a98cRsMvEEL1/pI3gNn75G3DMC0Po0GctgksRWxDSwfBIHCFt+GIC3MrZQkw9BhtsAe7O5aEQ/+u34Mlk=;eXxBYx77Kzas6swzsOI9fA=="
+secured: "hUQpNZYNIP+H9ftsckis5OIqEs6LMZnSHpx99AEigeeJgBF6Cs4z4SeJfQOdt65t76nggAJk7TCeWOmrXO+tMIMpCaQ7VfDgjmcp3L/55PO/Av+APR1j5Tu0NeikTEYvlvwj3q4u8NIrggperlW8/+6N42vd62yYkWGT7cbopwY6f58T3oHwCFTG+w+u3oTkCERZL9r0DR/7TIw/+ryaXM/1ZEqSWZ3VM2d37X4FCwBrJ5MfypRoE++9XrH43jkFxQ+YRZvVu/XLCW6GBrlVZWKhLSj6vVfENeiu2OpatX1VJcudP0IFm3xF7txEOnzUFVTwkwnWFX296tiGvxIJncUFhbCGuKJt9fQBgxiovS8=;mWR2S9hd3vtfcnAicpziJw=="
 ---
 

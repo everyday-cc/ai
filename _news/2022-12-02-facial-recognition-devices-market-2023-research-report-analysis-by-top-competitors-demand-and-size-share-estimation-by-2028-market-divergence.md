@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-devic
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-2023-research-report-analysis-by-top-competitors-demand-and-size-share-estimation-by-2028-market-divergence-2022-12-02"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -29,20 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "AI Drug Discovery Market 2023 Recent Trends, In-depth Analysis, Size, Share, Future Plans, Competitive Landscape and Forecast Period 2028"
-    excerpt: "The ”AI Drug Discovery Market“ report offers a detailed analysis of the current market situation, as well as gives"
-    publishedDateTime: 2022-12-01T11:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-drug-discovery-market-2023-recent-trends-in-depth-analysis-size-share-future-plans-competitive-landscape-and-forecast-period-2028-2022-12-01"
+  - title: "Good Afternoon, News: Takeoff Was an Innocent Bystander, Portland Resignation Tea, and Seal Facial Recognition"
+    excerpt: "SEAL PRIVACY RIGHTS: I know we hate facial recognition... but hear a research team at Colgate University out. They've developed a database of dozens of faces, of seals, in Maine’s Casco Bay. And they're calling it SealNet. And they're tracking the seals."
+    publishedDateTime: 2022-12-03T00:40:00Z
+    webUrl: "https://www.portlandmercury.com/good-afternoon-news/2022/12/02/46223720/good-afternoon-news-takeoff-was-an-innocent-bystander-portland-resignation-tea-and-seal-facial-recognition"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
+      name: The Portland Mercury
+      domain: portlandmercury.com
+    quality: 19
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://media1.fdncms.com/portmerc/imager/u/large/46224098/gettyimages-1049444220.jpg"
+        width: 700
+        height: 467
         isCached: true
+  - title: "Wallet Factory Reports Its 2022 Awards and Recognition Honors"
+    excerpt: "Despite unprecedented times, Wallet Factory has successfully addressed all the technological challenges the clients had to face during 2022 and before. Taking a deep dive into understanding end customers,"
+    publishedDateTime: 2022-11-30T18:59:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/11/30/9722299.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
   - title: "Global Machine Learning as a Service Market Report 2022 to 2028: Players Include Oracle, Google, Amazon Web Services and IBM - ResearchAndMarkets.com"
     excerpt: "The \"Global Machine Learning as a Service Market Size, Share & Industry Trends Analysis Report By End User, By Offering, By Organization Size, By Application, By Regional Outlook and Forecast, 2022 - 2028\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2022-12-01T12:56:00Z

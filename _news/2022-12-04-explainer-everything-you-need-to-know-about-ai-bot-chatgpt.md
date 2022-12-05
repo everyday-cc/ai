@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI bot ChatGPT stuns academics with essay-writing skills and usability"
+    excerpt: "Latest chatbot from Elon Musk-founded OpenAI can identify incorrect premises and refuse to answer inappropriate requests"
+    publishedDateTime: 2022-12-05T04:14:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/df141be52848f565532fc32763a67bfff1f447ed/0_93_5000_3002/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=df8459ef5c224b513f859f0be309e8a3"
+        width: 620
+        height: 372
+        isCached: true
   - title: "OpenAI debuts new conversational AI system"
     excerpt: "OpenAI LLC on Wednesday detailed ChatGPT, an artificial intelligence system that can understand and answer complex natural language questions. ChatGPT is based on the advanced GPT-3 neural network that OpenAI first debuted in 2020. GPT-3 can perform a ..."
     publishedDateTime: 2022-12-01T20:40:00Z
@@ -56,15 +72,6 @@ related:
         width: 859
         height: 478
         isCached: true
-  - title: "AI bot ChatGPT stuns academics with essay-writing skills and usability"
-    excerpt: "Latest chatbot from Elon Musk-founded OpenAI can identify incorrect premises and refuse to answer inappropriate requests"
-    publishedDateTime: 2022-12-04T18:23:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
 
 secured: "wyH2wngDQOhmMJnWnq9bPPIzMOtXq/QQZu6uV61RYC+PNekryVCC8/TYS13rNVl5ZQgkw06IQjQ1QRxtx/mabthhG2i/qD2MbCNUVPsysekY64ap7NJ/Z6RIbf1oOxOeGtioH8yM6nGMx9cdKZYk7V726H7GyaD5/pScE4jhcOOjUObFztuEsytxgiJ0D0iqVqiiCaET5gGCPz9BJtV0Gi0dDJu/ZzQxdryymXS7SqRAOE1mLHDR/Z3ERLALHBXdnclo16CFs5Q67czvwgppugjb0U6GCiUFEUKlarBEgeNaQ7nEaUVEV6LotXE7J20WUkJgP5CDOpOWihTp1y23PEVMJdVVe+GHqW0Mqakovg8=;Ax1ozbA6wdeBpIL8NTur4w=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/science/health/researchers-develop-ai-that-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/science/health/researchers-develop-ai-that-predicts-risk-of-heart-attack-with-one-xray/amp-11670147870319.html"
 type: article
 quality: 58
-heat: -1
-published: false
+heat: 88
+published: true
 
 provider:
   name: Mint
@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Research Suggests AI Could Predict Heart Attack or Stroke with One X-Ray"
-    excerpt: "At the annual meeting of the Radiological Society of North America, researchers shared preliminary findings on the use of artificial intelligence in predicting ... trained radiologists as of now.\" The research is still in its early stages and has yet ..."
-    publishedDateTime: 2022-11-30T16:22:00Z
-    webUrl: "https://www.entrepreneur.com/business-news/ai-could-predict-your-risk-of-heart-attack-with-one-x-ray/440148"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 68
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1669823575-GettyImages-1251551874.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Deep Learning Predicts Heart Disease, Stroke Death Risk Using Single X-ray"
-    excerpt: "Researchers have developed a deep-learning model that uses a single chest X-ray to predict the 10-year risk of death from a heart attack or stroke."
-    publishedDateTime: 2022-11-30T17:01:00Z
-    webUrl: "https://healthitanalytics.com/news/deep-learning-predicts-heart-disease-stroke-death-risk-using-single-x-ray"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/deep-learning-predicts-heart-disease-stroke-death-risk-using-single-x-ray"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/deep-learning-predicts-heart-disease-stroke-death-risk-using-single-x-ray"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 57
-    images:
-      - url: "https://healthitanalytics.com/images/sized/AI_Imaging_Techniques-e4b00c1efb9503a805928b101c78b499.jpg"
-        width: 480
-        height: 276
-        isCached: true
   - title: "Artificial Intelligence Predicts Future Heart Disease, Stroke Death Risk Using Single X-Ray"
     excerpt: "Scientists have also discovered a way to use artificial intelligence to predict the risk of a heart attack or stroke using only a single x-ray."
     publishedDateTime: 2022-12-04T05:07:00Z

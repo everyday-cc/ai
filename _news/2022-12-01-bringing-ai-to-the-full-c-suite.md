@@ -22,37 +22,21 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence will drive the future of content marketing"
-    excerpt: "Digital Marketing, backed by technological breakthroughs, has come a long way in changing the world around us. As a result, artificial technology, machine learning, and automation are at the heart of every business across"
-    publishedDateTime: 2022-11-30T15:20:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-will-drive-the-future-of-content-marketing/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-will-drive-the-future-of-content-marketing/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-will-drive-the-future-of-content-marketing/"
+  - title: "Kettering Health uses artificial intelligence to prevent blindness"
+    excerpt: "By integrating AI screening technology into our patients’ regular office visit, we are able to close that care gap. This testing reassures those patients that are negative and educates and"
+    publishedDateTime: 2022-11-30T21:14:00Z
+    webUrl: "https://www.wdtn.com/dl365/healthy-living/kettering-health-uses-artificial-intelligence-to-prevent-blindness/"
+    ampWebUrl: "https://www.wdtn.com/dl365/healthy-living/kettering-health-uses-artificial-intelligence-to-prevent-blindness/amp/"
+    cdnAmpWebUrl: "https://www-wdtn-com.cdn.ampproject.org/c/s/www.wdtn.com/dl365/healthy-living/kettering-health-uses-artificial-intelligence-to-prevent-blindness/amp/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
+      name: WDTN
+      domain: wdtn.com
+    quality: 57
     images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
-        isCached: true
-  - title: "4 Technologists Debate the Future of AI"
-    excerpt: "AI thinks very differently from us, raising trust issues. It's unclear whether AI is inspired by use or just copies us. AI will change the job market, for better or worse. Can we trust artificial intelligence?"
-    publishedDateTime: 2022-11-30T16:04:00Z
-    webUrl: "https://www.psychologytoday.com/za/blog/psyched/202211/4-technologists-debate-the-future-ai"
-    ampWebUrl: "https://www.psychologytoday.com/za/blog/psyched/202211/4-technologists-debate-the-future-ai?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/psyched/202211/4-technologists-debate-the-future-ai?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 59
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-11/pexels-pavel-danilyuk-8438979.jpg?itok=6mn-Wdi2"
-        width: 1528
-        height: 800
+      - url: "https://www.wdtn.com/wp-content/uploads/sites/45/2022/11/GettyImages-1189362136.jpg?w=1280"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "v/yueY8CFfgjVGZ4CLlkrttqGMFwqRD3Fuv3PjkR+73BkxnCQBSKx+KhmZjXueF9u9xxhrvECoUO5DuEYD2UOg6kBRm8dCGVskLCKBj/pgZJWfIgfY/a0oXY6zkZyQE2inP7MyE7+CsX56oZjheOOZ+2QrSOecw/44671fl6R1a3JdGEC0VLC/F9YvLVgsOhR9qxumDGmim9ao9MBIit+bLElEA3igQUBlU+mvH5OXTRI7DROA80hctL49Nr5do8SiNu1fBY402b/ooVOMmJai+1kKIU5LlpIhAodFuFLInBB2g3TOeWPkjbTJC5VrVGjQxIK98n4AiublFIUyho4TTzyFrUMVMjTpgAT4anxGPLXzyDVCwefJSzOJrENK2oHmOHLoWkeu+PIZ8l+9qsszGk8uDEP7vT2u774VxXYja+2koajJvPx2hhE0VClVj9IMHdExYggRTiGDwavJK6Mk09zbw3V9B4NWldBJu0bKxEq8L0rskLKQ5yQN4NR2mXrPdFNvZx/vLY3ESQjomwmw==;nSkMdNYMsg5U/V3gQwHvAg=="

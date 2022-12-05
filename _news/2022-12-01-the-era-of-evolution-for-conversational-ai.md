@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/en-in/technology/the-era-of-evolution
 webUrl: "https://www.entrepreneur.com/en-in/technology/the-era-of-evolution-for-conversational-ai/440181"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Parsing the hype, hopes, and practical applications of AI across finance solutions"
-    excerpt: "Is AI in finance a pot of gold at the end of the rainbow? Zoho's Raju Vegesna does some myth-busting and explores the the middle ground where AI has a useful place amid the hype."
-    publishedDateTime: 2022-11-30T16:04:00Z
-    webUrl: "https://diginomica.com/parsing-hype-hopes-practical-applications-ai-finance-solutions"
-    ampWebUrl: "https://diginomica.com/parsing-hype-hopes-practical-applications-ai-finance-solutions?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/parsing-hype-hopes-practical-applications-ai-finance-solutions?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 68
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2022-11/Shutterstock_582621088.png"
-        width: 740
-        height: 450
-        isCached: true
   - title: "Nielsen and AI4ALL expand relationship to build the next generation of diverse artificial intelligence leaders"
     excerpt: "Nielsen collaborated with AI4ALL to launch the inaugural Data Jam initiative for students in their College Pathways program."
     publishedDateTime: 2022-12-02T07:11:00Z

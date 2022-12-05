@@ -54,7 +54,7 @@ related:
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 61
+    quality: 59
     images:
       - url: "https://d.ibtimes.com/en/full/4389003/amazon-logo-company-logistics-center-lauwin-planque.jpg"
         width: 1200

@@ -60,13 +60,20 @@ related:
         isCached: true
   - title: "AI bot ChatGPT stuns academics with essay-writing skills and usability"
     excerpt: "Latest chatbot from Elon Musk-founded OpenAI can identify incorrect premises and refuse to answer inappropriate requests"
-    publishedDateTime: 2022-12-04T18:23:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability"
+    publishedDateTime: 2022-12-05T04:14:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 17
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/df141be52848f565532fc32763a67bfff1f447ed/0_93_5000_3002/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=df8459ef5c224b513f859f0be309e8a3"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "Oclu0NjtPIsC+TON9CBSxxFEE8cU9xaCqVFC1l446ZVPYVGpuXiSuXTC05Z3aYPCxInHrpvcZ+7scJvOVN9Lo5Pgjl+Ie1/dZ8QXQWSwfIsTpqIKZFdYd8ivcFtNe5lc+p9yXjthAPRb08P6BvgNokBoJJq/MD5aF+FhWOopA0CrqrCvJJRXTEwichGQU9A6VTKsp33lboGlaG0zcsND0SLN/WP3CXrHcmCaTdX9Pj88FT4a/pwC4aj4VZ0bAifnbcPwRhFZBAqBVdTpsF8aUxAM+ORXeoitdOQtRRPh5ci/5HNoolKPFeIcBG8fNz6mT1W/GkOh//ybR/qz+/G3hmV3P5GrZL2d47Mjb1tybvc=;jTjgbNUKSSbWdojG+dS90A=="
 ---
