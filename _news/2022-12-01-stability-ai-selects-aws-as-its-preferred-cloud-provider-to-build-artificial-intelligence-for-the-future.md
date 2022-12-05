@@ -128,6 +128,6 @@ related:
       domain: techreport.com
     quality: 36
 
-secured: "f+/zgLEELwGoTdiGbB2+WTJx1ucDgDCnEBvC7aAV8qkW3JAHcZHHGh4RvRNOI9Qse+QQPRiqR5a+TYoWwXpKbe+PuAfcNG+lpEYcZepbZuFzkl7MRVWcxEa8tujkZySbWlNj70ziNHpww5UBqsewqhazsV8u35ReiWGoHTwGCa1pH85SW1JHvcbKxOqc8rD7DdIGetP+Cxwzv09Ij+3/oFSQ1ICHnyum46na4bG5hSRznm3UIu82eEP914M1er/vRd9ae+WXxIKd7KQuUdANkfwYRqoIHNwXfrY4EcZIF2St8bh4taroT630ARX7ePtoaiPBxpK6kjK5wVhw0up24gJgAwjyv8VI1gSsZCdJDkw=;+8z+6U5p00s3mq2CcbnsEA=="
+secured: "cHt0co/eTtgpmPt24ZEWTnfecsVhWqYp/Ax8T+bZlttGfKoQW2C/hBrvn4SGuuwnzSXOHcai46nDntTp5vgkGXcq9CC6yPec3Hh2bI89rjb9qCvUw8QjXCeQ32+6rkEVTICgrJre+SLO49GN5Qs/bdk75bniaYiLPbmAdSwNRELbeEfoNs6PJCM+9CpJB3GXhBvo6s9XtdzzPMwydtoR+/FSuNUUmuGwaCfEpWj0ocmAfRzbIRsGK7gPdNhz54xTA0wCcAP48gH/s3IeZaxFL69AdGNJYr77OUz/WoH1P2VPlRGGFoR/4CdV6+FyjQpAEJAyOFzINVpjE5IWcF42faE9nV7lTUm282HyiT5lSvA=;z3VSz755jg//89efxhBfeA=="
 ---
 

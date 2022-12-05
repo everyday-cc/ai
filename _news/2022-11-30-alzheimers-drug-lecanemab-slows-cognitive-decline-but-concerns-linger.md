@@ -87,20 +87,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biogen's lecanemab shows less cognitive decline with Alzheimer's, but more brain swelling"
-    excerpt: "Data showed that based on the Clinical Dementia Rating–Sum of Boxes (CDR-SB), an 18-point scale, those on lecanemab showed a cognitive decline an average of 1.21 points, compared to 1.66 points ..."
-    publishedDateTime: 2022-11-30T10:43:00Z
-    webUrl: "https://seekingalpha.com/news/3912218-biogen-eisai-lecanemab-shows-less-cognitive-decline-with-alzheimers-but-more-brain-swelling"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 30
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1356994685/image_1356994685.jpg?io=getty-c-w750"
-        width: 750
-        height: 417
-        isCached: true
   - title: "New Alzheimer's Drug Reduces Cognitive Decline but May Cause Severe Side Effects, Study Finds"
     excerpt: "According to research published by the New England Journal of Medicine on Tuesday, the drug lecanemab slows cognitive decline. \"Lecanemab reduced markers of amyloid in early Alzheimer's disease ..."
     publishedDateTime: 2022-11-30T23:26:00Z

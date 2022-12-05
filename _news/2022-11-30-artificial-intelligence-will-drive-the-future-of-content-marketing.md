@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/artificial-intellig
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-will-drive-the-future-of-content-marketing/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "The Future of Healthcare Is Connected & Data-Driven"
-    excerpt: "Erez Kaminski, CEO & Founder of Ketryx, spoke about the reality of developing cloud-based software in a changing regulatory environment."
-    publishedDateTime: 2022-11-30T10:28:00Z
-    webUrl: "https://www.mddionline.com/software/future-healthcare-connected-data-driven"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 39
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_2022-11-29-103026.jpg"
-        width: 770
-        height: 400
-        isCached: true
 
 secured: "bKV9s6pOVl/AYvbt1vz5OvFTiXtTpBn0cH1oQrRRROKbCOGem0iL6IO2UEXukmNS96lJHAhDrHDD/JuXKYICcEHgtZ6C+0Qvtm7J/DgCdtim9/cVWBY3+blciRZcyw00zefAr5vuPrkFHvDrCnbD6LIOg77vweXkfr/5NgmrGtqa2rx6YzWf9LuIa/r4wtUmZKICyIi2xp+NuGtwaRCMMrJBchqCMKcPWoPg5LG08FdCs/RSkDWjNv/00upEIOCjkpPCi0YpTazsjDuXT0hfy4T5mQCYMiT601OzROJTDsLSfUGj7UFWrYiCx8vP0foi/B9gpXMMD/noRn+prn+AtHQPUwm5tnKBCSElLcDsYOE=;dQmwm9FMQ7Sr72wlxdp15Q=="
 ---

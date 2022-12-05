@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-19-fully-driverless-lyft-service-coming-to-los-angeles.md",
+      "title": "Fully Driverless Lyft Service Coming to Los Angeles",
+      "excerpt": "Los Angeles residents will soon be able to request an autonomous Lyft. The ride-hail platform and AV maker Motional have teamed up to launch a fully driverless ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/fully-driverless-lyft-service-coming-to-los-angeles",
+      "originalUrl": "https://www.pcmag.com/news/fully-driverless-lyft-service-coming-to-los-angeles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/03LNiC95jSpEMuFiSfH75vI-1.fit_lim.size_1200x630.v1668700444.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-18T12:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-19-mi-report-michigan-must-boost-investments-grow-workforce-to-lead-in-mobility.md",
       "title": "MI: Report: Michigan must boost investments, grow workforce to lead in mobility",
       "excerpt": "Michigan must support new ways to expand its mobility workforce, invest in rapid transit and put in place a state-level consumer incentive for electric vehicles to bolster its position as a transportation leader.",
@@ -1307,52 +1359,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-artificial-intelligence-goes-vegan.md",
-      "title": "Artificial intelligence goes vegan",
-      "excerpt": "A New Zealand startup has developed the very first AI tool capable of automatically generating content in support of veganism",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbesindia.com/article/lifes/artificial-intelligence-goes-vegan/81143/1",
-      "originalUrl": "https://www.forbesindia.com/article/lifes/artificial-intelligence-goes-vegan/81143/1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forbesindia.com/media/images/2022/Nov/img_197549_vegan.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbesindia.com/amp/article/lifes/artificial-intelligence-goes-vegan/81143/1",
-      "cdnAmpWebUrl": "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/artificial-intelligence-goes-vegan/81143/1",
-      "publishedDateTime": "2022-11-11T20:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes India",
-        "domain": "forbesindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "AWS AI",
-        "AI in Healthcare"
       ]
     }
   ],

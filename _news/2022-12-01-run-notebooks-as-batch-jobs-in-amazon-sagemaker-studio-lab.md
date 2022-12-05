@@ -263,13 +263,13 @@ related:
         height: 444
         isCached: true
   - title: "AWS Announces Eight New Amazon SageMaker Capabilities"
-    excerpt: "Amazon SageMaker Studio Notebook gives practitioners a fully managed notebook experience, from data exploration to deployment. As teams grow in size and"
-    publishedDateTime: 2022-11-30T21:33:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/11/30/9722319.htm"
+    excerpt: "Developers, data scientists, and business analysts use Amazon SageMaker to build, train, and deploy ML models quickly and easily using its fully managed infrastructure, tools, and workflows. As customers continue to innovate using ML, they are creating ..."
+    publishedDateTime: 2022-11-30T19:22:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/11/30/aws-announces-eight-new-amazon-sagemaker-capabilities"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Stockhouse
+      domain: stockhouse.com
     quality: 34
   - title: "Domo Joins the Amazon SageMaker Ready Program"
     excerpt: "Domo (Nasdaq: DOMO) announced it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner software solutions that are validated by Amazon Web Services (AWS) Partner Solutions Architects to integrate with Amazon SageMaker."

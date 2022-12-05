@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-30-can-ai-drive-more-diversity-in-drug-development.md",
+      "title": "Can AI Drive More Diversity in Drug Development?",
+      "excerpt": "“AI can help with diagnosis and risk prediction, which can mean earlier interventions,\" says Moeller, who's also vice chair of the Alliance for Artificial Intelligence in Healthcare board.",
+      "sourceUrl": null,
+      "webUrl": "https://www.webmd.com/a-to-z-guides/news/20221129/can-ai-drive-more-diversity-drug-development",
+      "originalUrl": "https://www.webmd.com/a-to-z-guides/news/20221129/can-ai-drive-more-diversity-drug-development",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.webmd.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/advances_in_treatment_of_ms_slideshow/1800ss_getty_rf_lab_research.jpg",
+          "width": 1800,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T11:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WebMD",
+        "domain": "webmd.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-aws-adds-machine-learning-capabilities-to-amazon-connect.md",
       "title": "AWS adds machine learning capabilities to Amazon Connect",
       "excerpt": "Amazon Web Services announced the general availability of forecasting, capacity planning, scheduling, and Contact Lens features for its Amazon Connect contact center service, while introducing two new features in preview.",
@@ -235,6 +278,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-30-san-francisco-police-are-controversially-asking-permission-to-use-killer-robots-on-civilians.md",
+      "title": "San Francisco police are controversially asking permission to use killer robots on civilians",
+      "excerpt": "A new California law is forcing a discussion on whether police departments should be allowed to use robots to kill people. The Oakland Police Department recently proposed arming remote-control ...",
+      "sourceUrl": null,
+      "webUrl": "https://theweek.com/robots/1018794/san-francisco-police-are-controversially-asking-permission-to-use-killer-robots-on",
+      "originalUrl": "https://theweek.com/robots/1018794/san-francisco-police-are-controversially-asking-permission-to-use-killer-robots-on",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1669729886/GettyImages-1320231095.jpg",
+          "width": 814,
+          "height": 458,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theweek.com/robots/1018794/san-francisco-police-are-controversially-asking-permission-to-use-killer-robots-on?amp",
+      "cdnAmpWebUrl": "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/robots/1018794/san-francisco-police-are-controversially-asking-permission-to-use-killer-robots-on?amp",
+      "publishedDateTime": "2022-11-29T09:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "THE WEEK",
+        "domain": "theweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-does-ethical-ai-development-rely-on-the-algorithmically-underserved-chais-mission.md",
       "title": "Does Ethical AI Development Rely On The “Algorithmically” Underserved? CHAI’s Mission",
       "excerpt": "Building this kind of standardization into the relatively black box nature of AI development is among the priorities of The Coalition for Health AI (CHAI), which launched earlier this year.",
@@ -361,6 +447,49 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-artificial-neural-network-ann-market-is-booming-worldwide-neurala-ward-systems-group-clarifai-ibm.md",
+      "title": "Artificial Neural Network (ANN) Market Is Booming Worldwide – NEURALA, Ward Systems Group, Clarifai, IBM",
+      "excerpt": "The Artificial Neural Network (ANN) Market research report provides all the information related to the industry. It gives the markets outlook by giving authentic data to its client which helps to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-neural-network-ann-market-is-booming-worldwide-neurala-ward-systems-group-clarifai-ibm",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-neural-network-ann-market-is-booming-worldwide-neurala-ward-systems-group-clarifai-ibm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://xherald.com/wp-content/uploads/2022/11/Artificial-Neural-Network-ANN-1024x576.jpeg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T07:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -669,40 +798,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-29-kami-vision-reveals-the-worlds-first-ai-powered-camera-alarm-system-for-the-entire-home-with-247-professional-monitoring.md",
-      "title": "Kami Vision Reveals the World's First AI-Powered Camera Alarm System for the Entire Home with 24/7 Professional Monitoring",
-      "excerpt": "Kami Vision, the computer vision company that provides AI solutions to enterprise, SMB and consumers, today announced Kami Pro Security, a professional-grade, video alarm system for use in residences and small businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/11/29/9720497.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/11/29/9720497.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T03:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-29-six-ai-trends-poised-to-reshape-the-business-landscape.md",
       "title": "Six AI Trends Poised To Reshape The Business Landscape",
       "excerpt": "Successfully leveraging even one of these trends can help your organization optimize its competitive advantage while also elevating its growth trajectory.",
@@ -928,6 +1023,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-29-kami-vision-reveals-the-worlds-first-ai-powered-camera-alarm-system-for-the-entire-home-with-247-professional-monitoring.md",
+      "title": "Kami Vision Reveals the World’s First AI-Powered Camera Alarm System for the Entire Home with 24/7 Professional Monitoring",
+      "excerpt": "Kami Vision, the computer vision company that provides AI solutions to enterprise, SMB and consumers, today announced Kami Pro Security, a professional-grade, video alarm system for use in residences and small businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/kami-vision-reveals-the-world-s-first-ai-powered-camera-alarm-system-for-the-entire/article_49e5329d-ee51-541e-bfbe-fa77d5602eaa.html",
+      "originalUrl": "https://www.eagletribune.com/region/kami-vision-reveals-the-world-s-first-ai-powered-camera-alarm-system-for-the-entire/article_49e5329d-ee51-541e-bfbe-fa77d5602eaa.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/8/3a/83af393c-2753-51f7-acf9-3b55ae4c37e1/6385daa75faa5.image.jpg?crop=1060%2C557%2C0%2C699&resize=1060%2C557&order=crop%2Cresize",
+          "width": 1060,
+          "height": 557,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T01:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-29-these-video-games-for-dogs-might-have-cognitive-benefits-for-aging-pups.md",
       "title": "These Video Games For Dogs Might Have Cognitive Benefits For Aging Pups",
       "excerpt": "After reading a 2017 report that touchscreen games could have cognitive benefits for dogs, he realized the project might have wider applications. The first challenge is getting and keeping the dog ...",
@@ -967,135 +1105,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-tcs-joins-hands-with-aws-to-launch-quantum-computing-lab.md",
-      "title": "TCS joins hands with AWS to launch quantum computing lab",
-      "excerpt": "“TCS Quantum Computing Lab on AWS enables customers to evaluate with agility ... filings and made a progress in technologies like advancing optimization, artificial intelligence, digital security and cryptography, company said in a press statement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/life/technology-tcs-joins-hands-with-aws-to-launch-quantum-computing-lab-2895508/",
-      "originalUrl": "https://www.financialexpress.com/life/technology-tcs-joins-hands-with-aws-to-launch-quantum-computing-lab-2895508/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/06/TCS-Tata-Consultancy-Services-01.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/life/technology-tcs-joins-hands-with-aws-to-launch-quantum-computing-lab-2895508/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-tcs-joins-hands-with-aws-to-launch-quantum-computing-lab-2895508/lite/",
-      "publishedDateTime": "2022-11-28T23:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-baidu-announces-plan-to-build-the-worlds-largest-fully-driverless-ride-hailing-service-area-in-2023.md",
-      "title": "Baidu Announces Plan To Build The World's Largest Fully Driverless Ride-Hailing Service Area In 2023",
-      "excerpt": "This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday. Want the fastest, most accurate stock market intelligence? Want EXCLUSIVE ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/22/11/29881998/baidu-announces-plan-to-build-the-worlds-largest-fully-driverless-ride-hailing-service-area-in-2023",
-      "originalUrl": "https://www.benzinga.com/news/22/11/29881998/baidu-announces-plan-to-build-the-worlds-largest-fully-driverless-ride-hailing-service-area-in-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T23:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-baidu-plans-to-expand-driverless-ride-hailing-service-area.md",
-      "title": "Baidu Plans to Expand Driverless Ride-Hailing Service Area",
-      "excerpt": "By Fabiana Negrin Ochoa Chinese internet-services and artificial-intelligence company Baidu Inc. is planning to build what it says will be the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188",
-      "originalUrl": "https://www.marketwatch.com/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188",
-      "publishedDateTime": "2022-11-28T22:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

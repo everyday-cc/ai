@@ -102,15 +102,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "AI can predict risk of heart attack or stroke using single chest X-ray, early research suggests"
-    excerpt: "Early research suggests a promising use of artificial intelligence to predict the 10-year risk of death from a heart attack or stroke from a single chest X-ray."
-    publishedDateTime: 2022-11-30T10:57:00Z
-    webUrl: "https://www.wlwt.com/article/ai-predict-risk-of-heart-attack-stroke-using-chest-x-ray/42102805"
-    type: article
-    provider:
-      name: WLWT
-      domain: wlwt.com
-    quality: 7
 
 secured: "KvSJxK6Q4id2as0huG3Q5st4f5sRYkk6uoD+tz8p2otw7m4v6gMPAe38Am/pUEacEvG1l9DScu1sw+daheW5bAMfw1juLe4/i8Zwl21ttnAy6MeIkR/ET7TbKWf9+D30dXzFyAmcFkTv33RhhQeqrpP+3B6HOSL8HJIw0F2ttjfJ2iQlxkAuCFhyLbtF7NirbnpEgI4PDHCoTnAM51fZDl4Ql5xKc9+XF6jo3Xh6tRg0XCJfs8ufATH2t0U7m1Z/BJ0/eHDjJDoyJZ+hNm8fZ/fbFhEgc6ULjtfZ/Y98jp0IOtTesa3NU222beonnk/sxZrJqJOlAn24wgv9KVxLR4XaUfIRCzhddkWm0V3tpoc=;gYF1/EzoszPaYwNYoLhFDA=="
 ---

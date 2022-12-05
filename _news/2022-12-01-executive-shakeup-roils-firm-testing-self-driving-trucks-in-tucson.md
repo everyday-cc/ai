@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Here's how a self-driving truck handles a blown tire"
+    excerpt: "A blown steer tire can be catastrophic for tractor-trailers. Self-driving truck startup Kodiak Robotics recently showed how its system handles such a dire scenario."
+    publishedDateTime: 2022-12-05T01:15:00Z
+    webUrl: "https://www.autonews.com/mobility-report/kodiak-robotics-shows-what-happens-when-self-driving-big-rigs-blow-tires"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/KODIAK1-MAIN.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "ortJv78DAQrDlf3tQ915tLDIFM9oF7xNdg7Q7yahFNAVw+TiyehhVJsqGsJi7JwsJUy3osqFAN2gCQfMw5028LKs35aDKpllnydEgCzCN4w5szqPkCzuC8nQgK47Syw71+tizMGhxApirtGmu8ruTsVqFVTrsmbr1ovGSK7AbkfIBM2N0bzixBoEB/M4YiKSYNvzgYdG6ET8eZ6bwHAA22i5dlygHBapksGfwgbWy9l5VKZXKhO7+gszhYLu1uvUBcZpf4Q6AaopiaYi+5GUEwDQvDs8OyrhLIow5l7yTLYBZ1/ey1cP9il2T8XYscE7POxtpbvD0y1qC7LTZ6u+9a/8DMhrfSQS0NSTIB70KxiMzpY9f1YscZmDPD5XUOVBUz5CbgZRhWADjDzu/sZ+7qsRxtH9wAQ+zWUArbYU7EBOUnREie6HcLtPo/YU8AwbXvae9702TMyiBRjIHRPHbQDpWpuSLKnZKQvq52H61O1JvoSY2bTtTlF9uwq6nKj3OG/wP045jpCzglCU1Hrpng==;5QV5wbGxxTjQtWyn9fHFVw=="
 ---
 

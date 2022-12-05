@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/automotive/mercedes-bosch-commercial-automate
 webUrl: "https://newatlas.com/automotive/mercedes-bosch-commercial-automated-valet-parking-stuttgart/"
 type: article
 quality: 82
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "World first: Bosch and Mercedes-Benz’s driverless parking system approved for commercial use"
-    excerpt: "The world’s first approval for customer use of our highly automated and driverless parking function, developed together with our technology partner Bosch, shows that innovation leadership and ‘Made in Germany’ go hand in hand,"
-    publishedDateTime: 2022-11-30T10:49:00Z
-    webUrl: "https://www.bosch-presse.de/pressportal/de/en/world-first-bosch-and-mercedes-benzs-driverless-parking-system-approved-for-commercial-use-248960.html"
-    type: article
-    provider:
-      name: bosch-presse
-      domain: bosch-presse.de
-    quality: 28
-    images:
-      - url: "https://www.bosch-presse.de/pressportal/de/media/dam_images/pi11496/22c0242_007_img_w1280.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "oDqbbegqJmJLPnwhnqen4wsLhZ6vwOa7OTa1L8qYFowyYZQe/alspDZabuKXTKxo49r1GDujCWMXe2wCcMWJxJ5DxeXIUFqJETfd91JDuhnyE9sg0lTVoOqRvY3E6GH/ASR7tksh3bnINZlFJPkSFlqIitL4/XBD6dUbXXBnGBWL+bkNLrJUkNbWn+gQfL/ZE+oTnZzaAOd90uZgZx3Efa/2qmXlC552PRFAbzmY96MI/fxV6eknn04nvrhrk016hIhRR9oCeKOx/twMEKi4OqlggNK91xcoMYSu2n47g5j3NzFdtLcDPa5Hk5swTOb0ZZyRGhjZTkwRsbJleD5UHw14dE3S6BVDgBVeqBcyPR0=;qEz08dub12p13Zpu+x09hg=="
 ---

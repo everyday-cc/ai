@@ -1,18 +1,18 @@
 ---
 category: news
 title: "AWS Announces Eight New Amazon SageMaker Capabilities"
-excerpt: "Amazon SageMaker Studio Notebook gives practitioners a fully managed notebook experience, from data exploration to deployment. As teams grow in size and"
-publishedDateTime: 2022-11-30T21:33:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/11/30/9722319.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/11/30/9722319.htm"
+excerpt: "Developers, data scientists, and business analysts use Amazon SageMaker to build, train, and deploy ML models quickly and easily using its fully managed infrastructure, tools, and workflows. As customers continue to innovate using ML, they are creating ..."
+publishedDateTime: 2022-11-30T19:22:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2022/11/30/aws-announces-eight-new-amazon-sagemaker-capabilities"
+webUrl: "https://stockhouse.com/news/press-releases/2022/11/30/aws-announces-eight-new-amazon-sagemaker-capabilities"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AWS AI
@@ -304,6 +304,6 @@ related:
       domain: datanami.com
     quality: 19
 
-secured: "zotUc8Pu8SyCW+/GplU0nYD3QyuVcIEugrmg3dm9IQmiH48eM1ilSWKFcfFzs3qohkoFPxXRUi16qE5STAL7vFVSkA2JYkOjN/9apl+vSbbvBmEX3+bfGPA6mZZLc9OmAjpsWVHn/RKGl/392KCYBM3QwPVQHgKA7DbPoUw+AgVUxidvcYovJK4rfGYauBtkkhdmdvL32/P8gRScVhKKOHHKt6sTHySIKSeJld/cRG38WTG4vmEtHOf5Ld+bxrlO3U7QczsSHueA1AyiD0Go5kEj5P1teS1kwHrXjNWiczohT0v+WZavFINX/eGmXpW7bqwg/bn+AcjUDNLoFnaXQmFnFWRvNbFIWOoBlPZSL7o=;LA18mBYfsvQutxEdgn55qQ=="
+secured: "xsum4y8t+Fkg7TWyzgD56Qx0XrOEhf2mzz7DRyR+wLgDgecIIcTBttOEjDg//OZAVxxxXH+oWiQo2BwPpQGdlzuGmj8+SvZ2CzMgmJt1rl7KjVKEW20KRhfEOP0Kr+TnTjn2NPUjOeRyhg2qoKbDYzJkk+oOHydR6n4yUv0zxZNb21B7/g1jYpon6+yr8CbbYJnCszsMlLX0esmt16v+Kmo4UzsuvH9lhzGvm44egZHzpfm+r0skOO0jNE+2x88vXAp1k/rTyZbm8Tpo6EjWK6lGfpV1l4XC1vC9NXgNCpUGGGufnnQo6ek+zXFHSY0ggGoGPmD81PO5WacEZAlbRGJYA3YBXUaUikOrkSb2/WQ=;JEBoICEEgPCCa/QydBCUKw=="
 ---
 

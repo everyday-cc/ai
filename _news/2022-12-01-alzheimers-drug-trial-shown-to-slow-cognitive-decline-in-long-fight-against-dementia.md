@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2022/11/30/alzheimers-drug-lecanemab-slows-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/11/30/alzheimers-drug-lecanemab-slows-cognitive-decline-in-dementia-fight.html"
 type: article
 quality: 82
-heat: 152
+heat: 142
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://fox2now.com/wp-content/uploads/sites/14/2022/11/snapshot-2022-11-30T175453.346.jpg?w=1280"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Biogen's lecanemab shows less cognitive decline with Alzheimer's, but more brain swelling"
-    excerpt: "Data showed that based on the Clinical Dementia Rating–Sum of Boxes (CDR-SB), an 18-point scale, those on lecanemab showed a cognitive decline an average of 1.21 points, compared to 1.66 points ..."
-    publishedDateTime: 2022-11-30T10:43:00Z
-    webUrl: "https://seekingalpha.com/news/3912218-biogen-eisai-lecanemab-shows-less-cognitive-decline-with-alzheimers-but-more-brain-swelling"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 30
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1356994685/image_1356994685.jpg?io=getty-c-w750"
-        width: 750
-        height: 417
         isCached: true
   - title: "Alzheimer's drug lecanemab slows cognitive decline but concerns linger"
     excerpt: "A drug called lecanemab is the first treatment that has been shown to slow cognitive decline in people with early Alzheimer’s disease. It also decreases plaques and tangles in the brain that are ..."

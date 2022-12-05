@@ -52,20 +52,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "The Future of Healthcare Is Connected & Data-Driven"
-    excerpt: "Erez Kaminski, CEO & Founder of Ketryx, spoke about the reality of developing cloud-based software in a changing regulatory environment."
-    publishedDateTime: 2022-11-30T10:28:00Z
-    webUrl: "https://www.mddionline.com/software/future-healthcare-connected-data-driven"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 39
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_2022-11-29-103026.jpg"
-        width: 770
-        height: 400
-        isCached: true
 
 secured: "aLuA3JMKeqbqfpYzNHMaOOlBKmPtThEgT8SB69qSaOejgiQE01zY9MAb+8zIkBrbTSG1f/26N9o41WjNqANi/fCjo/APKiw912SQVRPn6mL68O67KsavGkAJUI5zwLdiGkUKflQWYvuQI2Khvtnh6bW0RMzukEgBZaQKacZQ8uHkVjDBZcAn9ZzsEvughpkVQI+n1PSJcLZYMFJtJ8V9s6gQFRaG1pX8TBTUNpHLTSM+2rzhgDhtaLa5kub0wlVH4MY188DUsig8LizhhU5tpOnSCuT6Q5b/ZRTucoMr2JusljX3JPiyQ/xsPI25OF1TabeOWrFxrbyIrz7sseAwi08ojyFYkV3PZCWrCu1Nzk6H0ylhhKizZOTwFuu+WGS0QmH65SbkwpbS9v14p3NkT+DBoATUoh+Vw5z4HzTCpXwM/KqN3LzKjBCVq0mKc6tfLxMsGZKipyoYFuaBo6LaSLb8SdGROZUNk8yfQvZ/GBbSyz7J9ZI3FTO8jRqbo6rTzg58ESQB7cjJnzJZY/U4vw==;ZTI2SlqDgwzeqFP5zE3mkQ=="
 ---

@@ -735,6 +735,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-29-artificial-neural-network-ann-market-is-booming-worldwide-neurala-ward-systems-group-clarifai-ibm.md",
+      "title": "Artificial Neural Network (ANN) Market Is Booming Worldwide – NEURALA, Ward Systems Group, Clarifai, IBM",
+      "excerpt": "The Artificial Neural Network (ANN) Market research report provides all the information related to the industry. It gives the markets outlook by giving authentic data to its client which helps to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-neural-network-ann-market-is-booming-worldwide-neurala-ward-systems-group-clarifai-ibm",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-neural-network-ann-market-is-booming-worldwide-neurala-ward-systems-group-clarifai-ibm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://xherald.com/wp-content/uploads/2022/11/Artificial-Neural-Network-ANN-1024x576.jpeg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T07:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-29-sparking-ml-powered-innovation-in-the-telecommunications-industry.md",
       "title": "Sparking ML-Powered Innovation In The Telecommunications Industry",
       "excerpt": "Interview with machine learning Chapter Leads at Spark New Zealand on how the telecommunications giant leverages AI at scale and improves model performance amid real-world challenges.",
@@ -1404,49 +1447,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-11-24-massive-traffic-experiment-pits-machine-learning-against-phantom-jams.md",
-      "title": "Massive traffic experiment pits machine learning against 'phantom' jams",
-      "excerpt": "Many traffic jams are caused by human behavior: a slight tap on the brakes can ripple through a line of cars, triggering a slowdown—or complete gridlock—for no apparent reason.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-11-massive-traffic-pits-machine-phantom.html",
-      "originalUrl": "https://techxplore.com/news/2022-11-massive-traffic-pits-machine-phantom.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/massive-traffic-experi.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-11-massive-traffic-pits-machine-phantom.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-massive-traffic-pits-machine-phantom.amp",
-      "publishedDateTime": "2022-11-24T01:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],
