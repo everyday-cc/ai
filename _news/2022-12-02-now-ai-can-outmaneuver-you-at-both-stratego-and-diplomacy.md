@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/12/01/now-ai-can-outmaneuver-you-at-both
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/01/now-ai-can-outmaneuver-you-at-both-stratego-and-diplomacy/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/deepminds-new-ai-app-p.jpg"
         width: 797
         height: 446
+        isCached: true
+  - title: "DeepMind’s Latest AI Trounces Human Players at the Game ‘Stratego’"
+    excerpt: "DeepMind just took a stab at solving this conundrum. The trick was to interweave game theory into an algorithmic strategy loosely based on the human brain called deep reinforcement learning. The result, DeepNash, toppled human experts in a highly strategic ..."
+    publishedDateTime: 2022-12-05T18:31:00Z
+    webUrl: "https://singularityhub.com/2022/12/05/deepminds-latest-ai-trounces-human-players-at-the-game-stratego/"
+    ampWebUrl: "https://singularityhub.com/2022/12/05/deepminds-latest-ai-trounces-human-players-at-the-game-stratego/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/12/05/deepminds-latest-ai-trounces-human-players-at-the-game-stratego/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 74
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2022/12/stratego-board-game-pieces-blue.jpeg"
+        width: 1068
+        height: 601
         isCached: true
   - title: "Here’s how a new AI mastered the tricky game of Stratego"
     excerpt: "Stratego creates a unique challenge for computers to solve. It's what's known in game theory as an “imperfect information game.”"

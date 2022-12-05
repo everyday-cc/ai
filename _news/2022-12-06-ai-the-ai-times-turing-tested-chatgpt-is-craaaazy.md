@@ -6,8 +6,8 @@ publishedDateTime: 2022-12-05T16:19:00Z
 originalUrl: "https://betakit.com/ai-the-ai-times-turing-tested-chatgpt-is-craaaazy/"
 webUrl: "https://betakit.com/ai-the-ai-times-turing-tested-chatgpt-is-craaaazy/"
 type: article
-quality: 37
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn.betakit.com/wp-content/uploads/2022/12/chatbot-bubble.jpg"
@@ -39,6 +40,6 @@ related:
         height: 506
         isCached: true
 
-secured: "GfjCq2NaXjVZrLSt3sl8nofVRtLbM6ELXdx/OZwttZtesPD5LlWZo+w2d5VkyArOknRiOCG2tXAhQs1X/NBkZTYIzJQrMTm0875FTuWYLn8rOhinVbIWPZfMz7xD2frMaHF51PyspMzYNAJt5BLUIw0eSCnxtBZdl1BMAG5p7ToIl5ZRSWCJrMnr7PRKJ9KAgau0PAYrhVd/SHYkq9ew1glE9bTC5yE8gqfDMzDB2k3TA76ZPKfFgQvoy1pOFPRJc3U0siplPHud36aw0rFTQVNuzMxqm3dUzww16t/7Fi7zOXqD06ep1uXXL950Yx1RFnAqUKtwh9pUdBHqgJDB5xn4eP0eE8Wanyx0b4LeMHI=;SRkqZEnwLKdaSxAcKlKczA=="
+secured: "1v1LC5wAO1L4BJ6bw2YU3pSM8+UcAgh/eXcS8F44ch84B9T6wPcJf21D0+u8BvdCr7nnQMvWVWRLMlRo1mYAu/Zv/pnLvdAxYdS/qdxeL2x+Sdw0sodun5RDrYjCBBGjhfYrtBTZ7XrolGO2QhATTsEQUUVIwkJkTGQ2ZO7wWl9q55xbj4mDW6o5MGHaSCgLAatPD8Pjw840U7Svhludsj5FzVgeiOIHrwMak9/YVsshzA+ac83QdN16G1q6O+d2khIgW6y9b4XmrJHl417rJkZGZDOEQSSLovlW7GKtavvQJI5I4gG2mpjf32z9+kURKK+HXFks/fcDo1z7LMS4h85qIdLRmDN8zOT5tdEopNKrSqQEh40Zfv7cmGRQ4oecdc8aGE+FMypQKweJwXf1dvF2KtMFWoh7mkCHiPUxV2kmwDzEpyDg073OvLvmBMTBEmnZuie5NlhLAgGEVcUi8sCvPJeUbYVY5tbwff4+xGec6bng5+BS7NXZNgzMApAYyHVtLTXW85e+TnEWd8bp4w==;Y6V+ZM/ory8rad+RW1T7iA=="
 ---
 

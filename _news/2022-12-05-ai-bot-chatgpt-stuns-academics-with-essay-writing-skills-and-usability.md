@@ -2,9 +2,9 @@
 category: news
 title: "AI bot ChatGPT stuns academics with essay-writing skills and usability"
 excerpt: "Latest chatbot from Elon Musk-founded OpenAI can identify incorrect premises and refuse to answer inappropriate requests"
-publishedDateTime: 2022-12-04T18:17:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability"
-webUrl: "https://www.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability"
+publishedDateTime: 2022-12-05T04:14:00Z
+originalUrl: "https://www.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability?amp"
+webUrl: "https://www.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability?amp"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability"
 type: article
@@ -45,6 +45,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1367281424.jpg?resize=1200,800"
         width: 1200
         height: 800
+        isCached: true
+  - title: "The hidden danger of ChatGPT and generative AI | The AI Beat"
+    excerpt: "ChatGPT quickly spits out eloquent, confident responses that sound plausible but are false. Unfortunately, users might not know or care."
+    publishedDateTime: 2022-12-05T17:39:00Z
+    webUrl: "https://venturebeat.com/ai/the-hidden-danger-of-chatgpt-and-generative-ai-the-ai-beat/"
+    ampWebUrl: "https://venturebeat.com/ai/the-hidden-danger-of-chatgpt-and-generative-ai-the-ai-beat/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-hidden-danger-of-chatgpt-and-generative-ai-the-ai-beat/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/12/DALL%C2%B7E-2022-12-05-13.40.14-birds-eye-view-of-a-person-in-a-rowboat-and-a-big-whale-is-swimming-underneath-the-water-and-the-boat.png?fit=600%2C600&strip=all"
+        width: 600
+        height: 600
         isCached: true
   - title: "ChatGPT is taking the world by storm – the viral AI bot explained"
     excerpt: "The sophistication of ChatGPT has many speculating whether the AI bot could replace journalists, authors and screenwriters."
@@ -107,6 +123,6 @@ related:
         height: 900
         isCached: true
 
-secured: "bfeDkE0y25PdVq3wIbzcr3495aKMKPTkT8kmmhRbwAplR/M5/DedZK7y1j4nGy5wY51em6V4z3KCRIHRB1vlgjE68fOWR7fPUeTdTMQRKzZO+g6DGXRyDFLNqZZuGLbLHVq/ShH+c4Vvupk+CibmqWEkROxyTMcc9RqymbrwVyElDAE3vogk9HQ3ccVOcY/gvn+q8za/scOw2ehC2DC2Xa1GH4nRHY8DdnEPGgts+B97x5/bRd92NbKJXoIRQ1/9mh6PhKWPEhzzDVQypRUvh/C+P+BeuqOXfZcQ6lnAEK+YcoIDY5NRuuPtwHKusliblwFCtxVQDhE8fRdUmNQGuWOWtDweLxF1mlUqypNILg3pwni8WzRnW1P0/OF0ETWd/LbCnSdIO53oBNT3YO1mMbChN9s+OrniS9u1kR+VFhPRLhNIErBNkT5n2bUOw2i5Dyq06SR62cMI5FlbI9A9vYvMJlJycCNj3qj/rOWno3ABdgu1EmlYe643ALc4jfNLWI03f6mpk6XGAaD6IsheKw==;mNUrH1VSk1rBKY3Njo0zug=="
+secured: "eaUPw0DhQJVv+FLQeYgtmUBbvTNitiRyL7dSr2ADZtTO1d6LLRYR2Uf7ZDWQxpH0WsWSOJZl8w67GPotHX6Echen/i3OyFkXCbor4BwigW1vrPGtGyqV+L4/OUiEA3mCjpt4/C58X1DzU72zsnftzBj7C1ragE7drlo1v2KgYdINV4C0oQtS+gRt8ccWb8kpLlcGHY3cQmyg8ZpqarVOzTEEdI7nGEu9gfa2FJjG8e8kHnPYyf5IVMX3pdRQEkaYfTT2Ph6zdnIw0UEl8VyNyy8p6PoSsyEetV30jPz/RrL6W0CnTc+V3ZcRyvglM/TANyGCioLD16Jx6igfJWcOVq1220rWmfYlRJSFBRqqSxk=;lDZ6axnE1rTasyCBfImJ8g=="
 ---
 

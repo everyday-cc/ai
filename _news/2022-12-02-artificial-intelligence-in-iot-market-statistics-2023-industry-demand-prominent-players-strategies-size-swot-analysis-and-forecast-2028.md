@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Emotion Recognition and Sentiment Analysis Industry 2023 Market Size, Share, Growth, Sales and Drivers Analysis Research Report 2028"
+    excerpt: "The Global Emotion Recognition and Sentiment Analysis Market 2023 report is a thorough assessment of the worldwide"
+    publishedDateTime: 2022-12-05T08:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/emotion-recognition-and-sentiment-analysis-industry-2023-market-size-share-growth-sales-and-drivers-analysis-research-report-2028-2022-12-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Drug Discovery Market 2023 Recent Trends, In-depth Analysis, Size, Share, Future Plans, Competitive Landscape and Forecast Period 2028"
     excerpt: "The ”AI Drug Discovery Market“ report offers a detailed analysis of the current market situation, as well as gives"
     publishedDateTime: 2022-12-01T11:07:00Z

@@ -2,9 +2,9 @@
 category: news
 title: "The Rise of Robots -- Already Here, More Are Coming"
 excerpt: "In 2020, the size of the global industrial robot market was estimated at around $55 billion, with some 2.7 million units of industrial robots in operation worldwide, according to analysts at Statista."
-publishedDateTime: 2022-12-05T15:09:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-rise-robots-already-here-more-coming-/2022/12/05/9724119.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-rise-robots-already-here-more-coming-/2022/12/05/9724119.htm"
+publishedDateTime: 2022-12-05T13:36:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/12/05/9724119.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/12/05/9724119.htm"
 type: article
 quality: 19
 heat: -1
@@ -29,6 +29,6 @@ related:
       domain: finanznachrichten.de
     quality: 19
 
-secured: "ZlU5jYCiI0jlEH62zjB2qdGc4LIkuBGE0bh+cbnPRmvBMTzpuj7obr5+8EZrOQownio9ip/pSkS9WQoB3vsdN6bKNcGJWIEEtLYjMycSTGNSQoWgGQ51hEbz/pBePIl1iLyhnXuvTFOAtMa12h08JMfX9BXYNLcw930KowGW4sPSgdRczdN2drlS+e7PUGBfWTRcaxcH9ViN+aQZgPHq9SPZiwdqv5KGpmIwrRW+Of6zU4CKXGCelbULbykvVPYb2SAVdPOOQs5y4Tc3cFk6kjKB3XY8/WDg88g1/NwAYibwsRAS23h33qxWV4aKJtH+wbPfuoZfnVKW2B9YkvFLvHiu+kthqUF337Rl4fxHTnQ=;LIsD3ko37wMUF2X3df3OnQ=="
+secured: "3yPb6YFFA8bqmBxRMvLSnP9h8tK4w5R2cEeaMv3z2XBZ//eucLwnEKXs2/J4gd7zfjIxuc724bdmaCQlSL4mD2iGsTqsmyaZpLWVxqOkKqQmrYsyTP2cYvxoZf2MWdBeM8w0f7IAZBAuq3yFbqZ/557J+IZiaDKdov81cWvG1PN1HTBJg4a/Do2LX6EyG8mCPVRd076UvPD833IuAh+mYJw+y1nLHxyKnQMVDG5LCNT7qqwk23Nr82UlADLzUN0dwuxPlUJwoazDBAlCKaMXtRDZN7YmD9Ru/WtUdUwqgP1OBtHGrAMM2RGcY2N6t3bmqVArBCv3Q1kE3GKBUGOw0XdtRGjDgq0kqc6zBYhtKgY=;vL254dTq1EeDyQZ8Aa8dtA=="
 ---
 

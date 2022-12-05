@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial Intelligence in Fintech Market Report 2022: Increasing Use of AI-Enabled Solutions in the Capital Market Presents Opportunities"
-excerpt: "The \"Artificial Intelligence in Fintech Market: Global Analysis and Growth Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The adoption of AI systems and techniques in finance is growing rapidly,"
-publishedDateTime: 2022-12-05T15:23:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-fintech-market-report-2022-increasing-use-/2022/12/05/9724212.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-fintech-market-report-2022-increasing-use-/2022/12/05/9724212.htm"
+excerpt: "The \"Artificial Intelligence in Fintech Market: Global Analysis and Growth Forecast to 2027\" report has been added to  ResearchAndMarkets.com's offering. The adoption of AI systems and techniques in finance is growing rapidly,"
+publishedDateTime: 2022-12-05T14:22:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/12/05/9724212.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/12/05/9724212.htm"
 type: article
 quality: 0
 heat: -1
@@ -15,7 +15,6 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AI in Finance
   - AI
 
 related:
@@ -92,6 +91,6 @@ related:
         height: 630
         isCached: true
 
-secured: "OkilyCamJsvIqhge3BrhLLOJooxADDRkO1R1arfkP9uQyuSwYomqjaxnIgHfqzMRUm+1nBJRbmFhDo/LVNQ4k4/XmBoMyfuMRWmDicycsDHBTUVQLDYZHtdc1MzKMOmbqSpeePEGLToQVb22pCBKJPZx5yGfsDyCLHuInka3Eabwan7bIzAOVf2+EDnAftIQH9g7FjUGbeF/KPh7JaFAfRU5SqB5Fl5hDsaIPIVj/BJitlBWSO+tbTE+6OkZ7pmEQT0p0Z2VmpTGI104P6dJPEiUXlTPfl8tC3fDxsU4wd9ZvO2GhvtNAHyMOOT2Vd/u6Hatgo7kLpptF38DsQysibALOP2QjVEpo+9l3MgJxoQ=;Tui4tVlR1bj/bbvMokyzyQ=="
+secured: "REE5PICyuBNd5jDN9FbrNE39ITvM/oIcifWUC0+vIYhrJqC28XYMWoX8OTpSPJJ4O9oHkRhcRGNlSwnY9Qci8ckTDohwzbepFWgvBn7aubRIrer/9LAUfg5ve2EezW7znAHFJkMjaQeQwjg/B4kyFmlVgR0nNSP22zfzj7LgcdoSf/z7k1xtil6RjG1VVFOfzX4vKVut+gOTCYcyzUk/1lGcb2bZpRrJ2y1fEOmGQkcsDnFbZO9C23MCrIxm6aN4CS9YYNEabARpgeiNydAtLdMZM0qf+3CJefoh+7N9MaTaBWP5B8G+d8sJEBICBngjc+QhuIdM0kVDzmPuAkIzBOkFXi0fE4x1YyttV7VMgYo=;sxcIcadhNW0hjBBe8KwyOA=="
 ---
 

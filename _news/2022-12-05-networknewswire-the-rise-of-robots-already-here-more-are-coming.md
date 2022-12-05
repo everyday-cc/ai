@@ -21,8 +21,8 @@ topics:
 related:
   - title: "The Rise of Robots -- Already Here, More Are Coming"
     excerpt: "In 2020, the size of the global industrial robot market was estimated at around $55 billion, with some 2.7 million units of industrial robots in operation worldwide, according to analysts at Statista."
-    publishedDateTime: 2022-12-05T15:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-rise-robots-already-here-more-coming-/2022/12/05/9724119.htm"
+    publishedDateTime: 2022-12-05T13:36:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/12/05/9724119.htm"
     type: article
     provider:
       name: TMCnet

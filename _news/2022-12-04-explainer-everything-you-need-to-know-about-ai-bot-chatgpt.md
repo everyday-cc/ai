@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The hidden danger of ChatGPT and generative AI | The AI Beat"
+    excerpt: "ChatGPT quickly spits out eloquent, confident responses that sound plausible but are false. Unfortunately, users might not know or care."
+    publishedDateTime: 2022-12-05T17:39:00Z
+    webUrl: "https://venturebeat.com/ai/the-hidden-danger-of-chatgpt-and-generative-ai-the-ai-beat/"
+    ampWebUrl: "https://venturebeat.com/ai/the-hidden-danger-of-chatgpt-and-generative-ai-the-ai-beat/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-hidden-danger-of-chatgpt-and-generative-ai-the-ai-beat/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/12/DALL%C2%B7E-2022-12-05-13.40.14-birds-eye-view-of-a-person-in-a-rowboat-and-a-big-whale-is-swimming-underneath-the-water-and-the-boat.png?fit=600%2C600&strip=all"
+        width: 600
+        height: 600
+        isCached: true
   - title: "ChatGPT is taking the world by storm – the viral AI bot explained"
     excerpt: "The sophistication of ChatGPT has many speculating whether the AI bot could replace journalists, authors and screenwriters."
     publishedDateTime: 2022-12-05T16:00:00Z
@@ -60,8 +76,8 @@ related:
         isCached: true
   - title: "AI bot ChatGPT stuns academics with essay-writing skills and usability"
     excerpt: "Latest chatbot from Elon Musk-founded OpenAI can identify incorrect premises and refuse to answer inappropriate requests"
-    publishedDateTime: 2022-12-04T18:17:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability"
+    publishedDateTime: 2022-12-05T04:14:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability?amp"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability"
     type: article

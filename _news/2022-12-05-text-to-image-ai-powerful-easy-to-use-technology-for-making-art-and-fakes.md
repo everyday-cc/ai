@@ -7,7 +7,7 @@ originalUrl: "https://www.seattlepi.com/news/article/Text-to-image-AI-powerful-e
 webUrl: "https://www.seattlepi.com/news/article/Text-to-image-AI-powerful-easy-to-use-17631845.php"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Text-To-Image AI: Powerful, Easy-To-Use Technology For Making Art – And Fakes"
+    excerpt: "Powerful, Easy-To-Use Technology For Making Art – And Fakes"
+    publishedDateTime: 2022-12-05T18:07:00Z
+    webUrl: "https://www.discovermagazine.com/technology/text-to-image-ai-powerful-easy-to-use-technology-for-making-art-and-fakes"
+    type: article
+    provider:
+      name: Discover Magazine
+      domain: discovermagazine.com
+    quality: 34
+    images:
+      - url: "https://images.ctfassets.net/cnu0m8re1exe/1iRs4IfRvstrIROcnafhhx/a3d979e9835c5bf3a25eb441ea51fa34/file-20221202-16605-grl0qz.jpg"
+        width: 926
+        height: 463
+        isCached: true
 
 secured: "P/AluF1mYa6NPj3ZGWbV2gV9All//2rFV1Piy2YATO9j1Zwu2Hx6vFcuvkPBmzfL0c5aKwH/XP/dB3NoFqJGVLQgEEwtYqVoeiP1jdSROF6nruiDeq2taNtrYOjfjJ4Cyn4HVq3QiHjLQejw7irGioz63bM6P1OpfpkoF9Qlr38Nku9YxSatNyguzQCoYAhUUXQNXzdnXtunWnIzJhDhptAmxm/lv+b/WNDG79n2NZIrKR5ijmyRqZc/eniP/AxmxNu+sCzfYETgDcsjVkhUGmlDS47Z71RU2ky5PaomEaP9cgEjYdT2ZsmQ25jqnslCZ7vm2b7qkHO9Po6PeGoeEyaFwhn2rOv5IEoyyyQ/Tw4=;4Rm+fHL5wa5DzIRPwdxCZQ=="
 ---

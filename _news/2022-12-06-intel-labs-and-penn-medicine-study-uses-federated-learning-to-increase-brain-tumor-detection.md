@@ -42,6 +42,22 @@ related:
         height: 1920
         isCached: true
   - title: "Intel and Penn Medicine Announce Results of Largest Medical Federated Learning Study"
+    excerpt: "Privacy-preserving AI technique enables researchers to improve cancerous brain tumor detection by 33%. What's New: Intel Labs and the Perelman School of Medicine at the University of Pennsylvania (Pen"
+    publishedDateTime: 2022-12-05T14:59:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/12/b29960125/intel-and-penn-medicine-announce-results-of-largest-medical-federated-learning-study"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29960125"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29960125"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
+    images:
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
+        width: 800
+        height: 313
+        isCached: true
+  - title: "Intel and Penn Medicine Announce Results of Largest Medical Federated Learning Study"
     excerpt: "Intel Labs and the Perelman School of Medicine at the University of Pennsylvania (Penn Medicine) have completed a joint research study using federated learning - a distributed machine learning (ML) artificial intelligence (AI) approach - to help international healthcare and research institutions identify malignant brain tumors."
     publishedDateTime: 2022-12-05T16:30:00Z
     webUrl: "https://technews.tmcnet.com/news/2022/12/05/9724331.htm"

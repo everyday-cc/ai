@@ -7,7 +7,7 @@ originalUrl: "https://betakit.com/ai-the-ai-times-unpacking-10-years-of-ai-fundi
 webUrl: "https://betakit.com/ai-the-ai-times-unpacking-10-years-of-ai-funding/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -32,7 +32,7 @@ related:
     provider:
       name: BetaKit
       domain: betakit.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://cdn.betakit.com/wp-content/uploads/2022/12/chatbot-bubble.jpg"
         width: 1050

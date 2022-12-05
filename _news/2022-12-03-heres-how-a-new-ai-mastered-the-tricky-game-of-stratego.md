@@ -58,6 +58,22 @@ related:
         width: 797
         height: 446
         isCached: true
+  - title: "DeepMind’s Latest AI Trounces Human Players at the Game ‘Stratego’"
+    excerpt: "DeepMind just took a stab at solving this conundrum. The trick was to interweave game theory into an algorithmic strategy loosely based on the human brain called deep reinforcement learning. The result, DeepNash, toppled human experts in a highly strategic ..."
+    publishedDateTime: 2022-12-05T18:31:00Z
+    webUrl: "https://singularityhub.com/2022/12/05/deepminds-latest-ai-trounces-human-players-at-the-game-stratego/"
+    ampWebUrl: "https://singularityhub.com/2022/12/05/deepminds-latest-ai-trounces-human-players-at-the-game-stratego/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/12/05/deepminds-latest-ai-trounces-human-players-at-the-game-stratego/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 74
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2022/12/stratego-board-game-pieces-blue.jpeg"
+        width: 1068
+        height: 601
+        isCached: true
   - title: "AI algorithm learns how to beat expert players at complex board game Stratego"
     excerpt: "DeepMind, a Google research company, has developed a system able to strategize against humans in a game infinitely more complex than chess or poker, opening new paths for science"
     publishedDateTime: 2022-12-02T12:04:00Z

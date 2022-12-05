@@ -16,6 +16,12 @@ topics:
   - AI
   - AI in Sales
 
-secured: "RlxpyHMCoPZF3g7BXc7GQ+Fu3oc+Y7di9fjstzgZUtGBKRSNu5HHEURMzalPgyKA09iVCBBxajY/ua4KckFmLyMiRsebUnKy2Zoq4pvn/FdR9kc68bBSibs/ZjadpXihRCn4TgmYe9jQBbeaSSa6Dcwiq7fcu+ZesMgluzI8fNLx3QWu3MsE/HXjzGnlxLDjxO6QoFsi3mCq7LPg3wjQYwoqmgsA+UlJmC+tJks5bB07xmJo4t/TbbpwmQqeww3B1k9my4n/59koUgzwazwBFOzhk3kB4FUXFGIqCaNE6k74c+XDTmZyqDSaPtD9P4wtyJPzj6U+z6E80/mL0y6bHXjbBvYspAK7JbM3CEu25f0=;BiZOwlKQwYyzRRiBKa20kA=="
+images:
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--lD1uZzJ0--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-11-22t090727z_1_lynxmpeial09f_rtroptp_3_china-tech.jpg?itok=VYk1kTUw"
+    width: 1200
+    height: 676
+    isCached: true
+
+secured: "gcmlbspK4Iez/2x37DysFH0kU5p1+brMUG09dZNb2D3LkSbS8stLOKWDtixdcdewPuHyUAapi1CW20cAot1B8YpzibP4MVwSz978kuP225rVtv86Ubev8BLXNPg4Qc8+mmV0EolIRArAQUEA6/IscUyCBMr1d9ZpiPeafDQiryvQVFG7OvPQCF9h+paILQ6KPHI1wGGp2s4mV6Jh0MzO91s4Eb5Ryw4W3Ij8B6DoutkjNU6VZtF0emgH8IRCYlBaEyBXv28uFbCXA7MA68E82PpIP+iTXzNE+FVL1vpGfhTnyVpWxgImyU5T0L6IUNSqyYPbH7rb5FeQrnEtrSwBrHmAGHJjtEOasL0+vv74ia4=;hBEQjdjRVX0u2rKGOzYcKA=="
 ---
 

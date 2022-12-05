@@ -1,14 +1,16 @@
 ---
 category: news
 title: "NCSoft leads AI-powered ethical management"
-excerpt: "The firm has mapped out its \"NC AI Ethics Framework,\" whereby smart technologies will be elevated to a \"human-centered\" solution provider and data operator. Among the top considerations is privacy, a value with growing importance due to the frequent use of ..."
-publishedDateTime: 2022-12-05T12:59:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/tech/2022/12/419_340853.html"
-webUrl: "https://www.koreatimes.co.kr/www/tech/2022/12/419_340853.html"
+excerpt: "NCSoft, a local video game developer, is accelerating efforts to establish ethical management of artificial intelligence (AI) data, a principle defined by privacy, unbiasedness and transparency, the firm said Wednesday."
+publishedDateTime: 2022-12-05T12:51:00Z
+originalUrl: "https://koreatimes.co.kr/www/nation/2022/12/419_340853.html"
+webUrl: "https://koreatimes.co.kr/www/nation/2022/12/419_340853.html"
+ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=340853"
+cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=340853"
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: The Korea Times
@@ -18,6 +20,12 @@ topics:
   - AI Ethics
   - AI
 
-secured: "KhDmZrhtmabp08JbcM/6ZtunJGKOqRGAfAZ8jqQNUiU9pJ3b0xV59QazZ+eokiwWusTCVLUmFMwdX+iKjuPaaIeTV2RrJZ9FhIXz4wljtXdUevHjJnbXYbC4ZBZaw3iHyPQtem60e97LPeygl14z7DN1naZhKtkOWg0UNHEssSNc4Otj47R4Wd8h2D/R5CF21dBFlB7S/7zrngzW1KlQZe7q02c1sw6qTnpdPJntyxhlPFPAWnCAA8HXgJQpgmVaXGzP4s6MXYJcEynBHsiPCyC7ztmjLw2G4tpaS5zb3Z4ebfRSHjVc+PiNoebm3oc10HN/vsAMr76whLj8UJNpuVD/HIChPAcGDGqHW78JeSE=;HtyqmMzmpZ6srXN8gvhyng=="
+images:
+  - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202211/7220eb5952ec45e790b30602b134566e.jpg"
+    width: 980
+    height: 703
+    isCached: true
+
+secured: "AQcjMe7pRDs5bGk4f0AHDwBpsYd/CPjLJJ4sHyaZnx9ofq6MULfdXGICqtEQtuto+8dIfenrPbHL8Ue4iBssCwo0b4F9Zca4bLp2BDDXug2sR15eQ2aYqAlndUyXw8Qfyxob1Yl8x/yyHn6Ke7ZyI0bZmd6VkOP+Zv/SePbB9dCqTTNciMc+NtbAe5atjywJ79otRYN4Z+bSOu3BK3B8FGImpo/Qo/IokBhpDeYc6seaAI/fwQpyLMp5eKQfdDY1tgvE/jWUxhLzaZvC/V2GkNTsQu2O3r6BAyn1mH5LozYJkr0fLbQVr/3y6mjduoOfuVrPLg2tCekBPz46rqqcltgU2cEcNej9sMJuxqZZh9w=;bODzGwFfNF+pNxYHc+i4Xw=="
 ---
 

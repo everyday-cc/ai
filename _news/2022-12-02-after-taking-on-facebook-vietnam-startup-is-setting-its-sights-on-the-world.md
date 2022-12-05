@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Meta is expanding its use of AI face scanning to verify users’ age on Facebook Dating"
+    excerpt: "Facebook is testing ways for people to verify their age when using the platform’s dating app, including using an AI face scanning tool. In a blog post today, Meta announced it would start prompting users on Facebook Dating to verify that they’re over 18 if the platform suspects a user is underage (you must be over 18 to use the dating service)."
+    publishedDateTime: 2022-12-05T18:26:00Z
+    webUrl: "https://www.theverge.com/2022/12/5/23494175/facebook-dating-ai-face-scanning-age-verification-expansion-yoti"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 60
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/JNI9XWA_zSfNW0L1lUvgQhNvc8I=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951346/STK040_VRG_Illo_N_Barclay_2_facebook.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Start-Up That Took On Facebook Plans To Go International"
     excerpt: "A Vietnamese internet startup that's successfully defended its home market of 100 million people against global giants like Facebook is now going into attack mode."
     publishedDateTime: 2022-12-02T05:11:00Z
