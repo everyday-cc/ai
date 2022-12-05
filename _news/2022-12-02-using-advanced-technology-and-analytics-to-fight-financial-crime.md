@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/crowe/2022/12/01/using-advanced-technol
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/crowe/2022/12/01/using-advanced-technology-and-analytics-to-fight-financial-crime/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "Data Center Accelerator Global Market Report 2022: Growing Use of Deep Learning Technology in Big Data Analytics Boosts Sector"
-    excerpt: "The Data Center Accelerator market size is estimated to be USD 21.2 billion in 2022 and is projected to reach USD 64.0 billion by 2027, at a CAGR of 24.7% during the forecast period. The boom in the data center accelerator market is mostly due to the increasing number of companies offering machine learning as a service and increasing demand for FPGA-based accelerators."
-    publishedDateTime: 2022-11-30T12:41:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/30/9721625.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "9HO3RtPImo1opsLxLeddDoDOTkQhe1V/mjNO95sbZebKtiD9M70efDu5eSlPDOIbii6tvk8lRU+lbpWK7pboot6xmkBa/myLGazj0pYGPOWFvI7FunG0RCuY0TRzdaBfFe/OAt1K9RGGIL+2jlohkR1T7rk/fZN8DnNn1sdta/AB1p04K8P//N8j6Lu3qfIgk0edWIh/Q3p6bI2slURg1PSWIqYqlWwXwkAh0RkNNZB2fHfX59CntdwVN5UrU5GSept1PR0EJzUqSPBW8sC1hSNQw+Ciy6V7veCdBc/WCd3z9qD/qmov9ne1sSO/E9cNJWuuzK0Hliq6VdYcg4P1nVCLu/Z8kuzY9zkrLnznh2G1fMUJjfOi8XYLU2aCYrp8I9s59knQmH+rc900hgrEBO4WzmaEfMhAjaseLK4aDM3lLrix4/0CW/RFUMcTPLSAW+xSAkrl+78aDo61ZJnHtC1geAbFryeWYKlbJgnCDyw6RHCN8zA6/JUco7pINb4bIPsq7S28mGVxesEJry8VIw==;cjUKGuJ5rwSuzjt8kf8BSg=="
 ---

@@ -59,6 +59,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "AWS re:Invent 2022 round-up: Data management, AI, compute take centre stage"
+    excerpt: "AI features added to multiple services To help enterprises get more of a return on their data, AWS added new artificial intelligence (AI) features to a range of other services, including Textract, Transcribe, Kendra, CodeWhisperer, and HealthLake."
+    publishedDateTime: 2022-12-05T03:11:00Z
+    webUrl: "https://www.reseller.co.nz/article/703800/aws-re-invent-2022-round-up-data-management-ai-compute-take-centre-stage/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 52
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/adam_selipsky_aws_6.jpg"
+        width: 504
+        height: 315
+        isCached: true
 
 secured: "Iq5Lb1aZ9TlcR88BKtuguR0T2gYnOix7ImWyePFd64Sjs1oKid+x2oKkrmLT8UfJ/qKX4IjyZ1rIUYRHiTQcZ4debOsR4DVJlsGUfCyA5qaMN93dh/4R+O6lREczxTN/yCRow0QgD+KVY7wl+smpMysSZit06nJlx8pYLrJ/mnIK15N4eHbbhGwY533B/9+MPeoRZPAwpGWhWT188lni4orgGneF8zeJPDnFsgz0c3fc+ayRjYnbHEHlyl939wQlX3YKBcv3orS4+6TA+ExgtXcYAkxRMr+YXDetdDP3A9zY9DFgpiPn4r/FoWTNsvMy4oMq6Y4VGHA/bnqg4ah03Kcwuwm3I8gsaoQAUo2uKPg=;dZRDDMOIAwEiHChnzN1FLw=="
 ---

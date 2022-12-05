@@ -1,0 +1,71 @@
+---
+category: news
+title: "Banned AI bots crawl back onto Facebook to target male gamblers"
+excerpt: "Weeks after Meta-owned Facebook banned groups which were caught sending streams of private messages to potential gamblers, promising free tips in exchange for signing up to online bookmakers, they returned to the platform to seek out new customers."
+publishedDateTime: 2022-12-05T04:19:00Z
+originalUrl: "https://www.afr.com/technology/banned-ai-bots-crawl-back-onto-facebook-to-target-male-gamblers-20221202-p5c38z"
+webUrl: "https://www.afr.com/technology/banned-ai-bots-crawl-back-onto-facebook-to-target-male-gamblers-20221202-p5c38z"
+type: article
+quality: 37
+heat: -1
+published: false
+
+provider:
+  name: The Australian Financial Review
+  domain: afr.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://static.ffx.io/images/$zoom_0.5298%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_12/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/ffa36b975f481c2f4c1dd20c013e6e6a234d522f"
+    width: 1200
+    height: 628
+    isCached: true
+
+related:
+  - title: "Start-Up That Took On Facebook Plans To Go International"
+    excerpt: "A Vietnamese internet startup that's successfully defended its home market of 100 million people against global giants like Facebook is now going into attack mode."
+    publishedDateTime: 2022-12-02T05:11:00Z
+    webUrl: "https://www.ndtv.com/world-news/start-up-that-took-on-facebook-plans-to-go-international-3571291"
+    ampWebUrl: "https://www.ndtv.com/world-news/start-up-that-took-on-facebook-plans-to-go-international-3571291/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/start-up-that-took-on-facebook-plans-to-go-international-3571291/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 44
+    images:
+      - url: "https://c.ndtvimg.com/2022-12/0r7m10d_zalo_625x300_02_December_22.jpg"
+        width: 650
+        height: 400
+        isCached: true
+  - title: "After taking on Facebook, this startup is setting its sights on the world"
+    excerpt: "A Vietnamese internet startup that’s successfully defended its home market of 100 million people against global giants like Facebook is now going into attack mode. VNG Corp, Vietnam’s answer to Tencent Holdings Ltd."
+    publishedDateTime: 2022-12-02T01:40:00Z
+    webUrl: "https://www.theedgesingapore.com/news/digital-economy/after-taking-facebook-startup-setting-its-sights-world"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/news/digital-economy/after-taking-facebook-startup-setting-its-sights-world"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/news/digital-economy/after-taking-facebook-startup-setting-its-sights-world"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 23
+  - title: "After taking on Facebook, Vietnam startup is setting its sights on the world"
+    excerpt: "A Vietnamese Internet startup that's successfully defended its home market of 100 million people against global giants like Facebook is now going into attack mode."
+    publishedDateTime: 2022-12-02T04:06:00Z
+    webUrl: "https://www.digitimes.com/news/a20221202VL204/vietnam-vng.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 21
+    images:
+      - url: "https://img.digitimes.com/newsshow/20221202vl204_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+
+secured: "lZ6uSIbSaRA5pKckAZj30vYpK53kJrO+6ViyIb1h54OZJysIGK0E8E7GxWIFZ1NT0V7k2wybC9Xn+4BX5qQyD2YiOJ/E9i/BZgPJ5Y84nPm6JaBu8jQRsqZW+sfcTEtc9092t44zOwIfZ3ny6qjEGrGJe1jDIFPRvCoFiNHpSiQWxtLljmgZvWRoSC/8L1zOxgTicxdg/wvEOvtZQPnr4uU1hggnAZIC7GTebz7o7mGjMP37eGmXNH06K72W+jgN/hoqMpkd5rn9tHO/PIHJ6PyrFFy6inXIZlSKkawcJSq4Liq4MhjczN2myGGXG+hTGx+cpuWT1m7Feq5An/XwL0wOwapILIsWnfSTgY1+ZAA=;/7XrnwxSkANdj22lv/A2+Q=="
+---
+

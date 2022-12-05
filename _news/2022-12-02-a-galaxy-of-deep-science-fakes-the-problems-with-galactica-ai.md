@@ -7,7 +7,7 @@ originalUrl: "https://www.siliconrepublic.com/machines/galactica-ai-meta-fake-sc
 webUrl: "https://www.siliconrepublic.com/machines/galactica-ai-meta-fake-science-misinformation"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Fail: Meta's Galactica Spews Racism And Nonsense"
-    excerpt: "Meta announced new AI software called galactica :“a large language model that can store, combine and reason about scientific"
-    publishedDateTime: 2022-11-30T11:32:00Z
-    webUrl: "https://menafn.com/1105247977/AI-Fail-Metas-Galactica-Spews-Racism-And-Nonsense"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2022-11/30/AT_8b61dimage_story.jpg"
-        width: 600
-        height: 398
-        isCached: true
   - title: "The Galactica AI model was trained on scientific knowledge, and it spat out alarmingly plausible nonsense"
     excerpt: "Meta announced new AI software called Galactica: \"a large language model that can store, combine and reason about scientific knowledge\"."
     publishedDateTime: 2022-11-30T18:30:00Z

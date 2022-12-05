@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AI Fail: Meta's Galactica Spews Racism And Nonsense"
-    excerpt: "Meta announced new AI software called galactica :“a large language model that can store, combine and reason about scientific"
-    publishedDateTime: 2022-11-30T11:32:00Z
-    webUrl: "https://menafn.com/1105247977/AI-Fail-Metas-Galactica-Spews-Racism-And-Nonsense"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2022-11/30/AT_8b61dimage_story.jpg"
-        width: 600
-        height: 398
-        isCached: true
   - title: "A galaxy of deep science fakes: The problems with Galactica AI"
     excerpt: "Indeed, an influential paper highlighting these risks prompted Google to fire one of the paper’s authors in 2020, and eventually disband its AI ethics team altogether. Machine-learning systems infamously exacerbate existing societal biases, and Galactica ..."
     publishedDateTime: 2022-12-02T15:34:00Z

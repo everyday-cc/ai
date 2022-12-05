@@ -49,15 +49,6 @@ related:
         width: 4896
         height: 3672
         isCached: true
-  - title: "Data Center Accelerator Global Market Report 2022: Growing Use of Deep Learning Technology in Big Data Analytics Boosts Sector"
-    excerpt: "The Data Center Accelerator market size is estimated to be USD 21.2 billion in 2022 and is projected to reach USD 64.0 billion by 2027, at a CAGR of 24.7% during the forecast period. The boom in the data center accelerator market is mostly due to the increasing number of companies offering machine learning as a service and increasing demand for FPGA-based accelerators."
-    publishedDateTime: 2022-11-30T12:41:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/11/30/9721625.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "4eZ+ocgQoDK/d+U6LdhGkVbZNACGQV5qb00VSI7fQU3+R/MdTZ5ui5uPUcY/umAAlanFH1zFAL/HxFYOq7SQjVZ+xKwnY3uxTbrDgeh87zYqZiyKjQTmRVoPQKlW+H6LK1Q1o+Wo6srlvAAAPBsKzZnQFpScV6hIWf5bnhK++IEIGAJt7zlz+DVcpH2gs5bMmy84Lw8G7KAz+nO30N+soe+mI+LO+r1u1MGzOA+Ax0izksCQDmVvQU7biQ5aqRxB3LQ/aJb1zuVolIdvJqvC/JKatSDLJRVyD1tLRc98pKGEuEAs2b3+KvmWk9V8N8KUUAxMAtNlJG1T31UF7NosgVBii2Nr6boa3A1dXGFN3UE=;nNhX7wUqHrcPSVlEf0QIaw=="
 ---

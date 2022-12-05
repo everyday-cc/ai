@@ -9,7 +9,7 @@ ampWebUrl: "https://www.outlookindia.com/business-spotlight/visual-intelligence-
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business-spotlight/visual-intelligence-a-key-step-towards-accelerating-human-society-news-241438/amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI Is Powerless Without HI: Why Human Intelligence Is Irreplaceable"
-    excerpt: "Companies are, by and large, in the early stages of becoming truly digital. Digitization includes fully adopting artificial intelligence (AI) and machine learning, investing in tech, and converting all existing information into digital formats. Over the ..."
-    publishedDateTime: 2022-11-30T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/ai-is-powerless-without-hi-why-human-intelligence-is-irreplaceable/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/ai-is-powerless-without-hi-why-human-intelligence-is-irreplaceable/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/ai-is-powerless-without-hi-why-human-intelligence-is-irreplaceable/amp/"
+  - title: "How “Lung Intelligence” is Accelerating New Therapies"
+    excerpt: "Thanks to the convergence of cloud technologies, AI, and refined lung data, we are in a new era for those with chronic lung disease. In this new world, lung intelligence provides fast, precision measures of treatment efficacy so new drugs can blaze through the trial pipeline."
+    publishedDateTime: 2022-12-01T14:00:00Z
+    webUrl: "https://medcitynews.com/2022/12/how-lung-intelligence-is-accelerating-new-therapies/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 93
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62c43e64efebb056e142918d/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 798
-        isCached: true
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 4
 
 secured: "8T6farJO09J4U55LUNliKIf4JUjdLI8h/lAihfafJ1x+FmMEjJbd47zXiMPk7zbZlrQyB2L2J97zGvYiiRXa74KSOk1w0pQ6ffFqGLm1f2hQHIPjqUERBmCKIaBgwG7dUb+FLVG2rLicuPufD4lG3BW8yNyq/EylBUrXFbrujS2w57YpTtxROM5tQ7PiQ2INtzPTof4dfc6t72SBOzcM2BJLgke2O/cBjqhEyuj3nqH3fimwS4pARX8/WrYeva5gUa22BSVvw1vRiYxXcAcC706HTQTFM7R/996jIbSwoZ/6GIeyXfDmyZ4azD6wl1aA/xVPnB33+qpKumiR080nDFIoW8AC1X3+Byr2NCZiU6A=;9nVeqg3KtixNb9JPvid5+Q=="
 ---

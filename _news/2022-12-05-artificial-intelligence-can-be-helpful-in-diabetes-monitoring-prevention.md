@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Artificial intelligence can be helpful in diabetes monitoring, prevention"
-excerpt: "Artificial intelligence can be used to turn a continuous glucose monitor (CGM) into a potent tool for diabetes monitoring and prevention, suggests researchers at Klick Applied Sciences"
-publishedDateTime: 2022-12-04T17:52:00Z
-originalUrl: "https://www.business-standard.com/article/technology/artificial-intelligence-can-be-helpful-in-diabetes-monitoring-prevention-122120400854_1.html"
-webUrl: "https://www.business-standard.com/article/technology/artificial-intelligence-can-be-helpful-in-diabetes-monitoring-prevention-122120400854_1.html"
+excerpt: "Artificial intelligence can be used to turn a continuous glucose monitor (CGM) into a potent tool for diabetes monitoring and prevention, suggests researchers at Klick Applied Sciences. In findings presented at the NeurIPS conference in New Orleans,"
+publishedDateTime: 2022-12-05T04:30:00Z
+originalUrl: "https://news.webindia123.com/news/articles/Science/20221204/4010932.html"
+webUrl: "https://news.webindia123.com/news/articles/Science/20221204/4010932.html"
 type: article
 quality: 16
 heat: 16
 published: false
 
 provider:
-  name: Business Standard
-  domain: business-standard.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI
 
-secured: "FOoXZgbR5DwMbXfMeNwjXnqc5akURRLpS68mLKRRgo9JZ1FbZ743Xo1CfCB0iceNGpyHXwZMf13DMUl7uXUBfY82q9gkMBdHpov8qDZEuWjIvOH7puUIfPYsmCRxNCSyhGfg3zb2Q2T0+CIR7CrruXKcmCRXIRay8YXIcDtkUsTnG1IB2slf1ABLyRh7yoA1+Va7zTk+CswUuOkHbTeSJ4zlmOcCStYoXrjF+Th7v5uT736HBNc6pOy4+H9m8FUa8UCeLREvRWLX5frMdnBMcawgBHEbl6CDjd+3ZT4yLeCwdasyYpuHIKcyDLR/JLnt/sNIlEyjT+KkIwCLdI2dbBN1djN2tqIdF6SQnEAK27Icuj/Y3rr4qDAS/FHK3C5hfAxslb6hJKTnivXILpRcq28nyBFHdxmUR7I5LWEcRfDDGk6PEiA/teAPaJOgJ45mDZPUhoJtRGamjF1YBB778PM3Z9W8UlYZy/7rLwnsMXXpLRDjpbTwGTZ0d9lMyZVX9Mb7WMiQ45K2KR9VGl2kTA==;Bw9cb+MJqce4C+WIRD7JaA=="
+secured: "l6DdrcGGfRMhy92uTfFHYi3ExPdsr+duX6CPzWfxLdejy2QPTPPI0oH1dsUEtN+rrADLVGGxfYKZwga5oe/LNa+Fl02RmE8Ew7ATMjwZMWTV2f2W18gr4pSE1Hh2YEerQUiJVA4oXg7cb/txgT1Dvn+bpD4P6Gi5/V9HSBM9jJFjY0rFVdO1b0XYeCk/cbkGS/ZETvBM+hzxMvGfZI/c3yc9q7xn+IjbegX4Hn/L+/qZgkcIiY8WT5AoApmON2hiYqUJh3B5fLDGjJ+57+cbNIcj9gDsQSduCD5NbjYwCFlAY0mX60S7a9Wnwzdz3ftGxGpsJQdyKGuknddai2+ixj91ZcvDIW3rG6/hc8Q/PFQ=;RPJLcWR7ZOjkk6EGE/InAA=="
 ---
 

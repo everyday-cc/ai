@@ -77,20 +77,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Alzheimer's drug lecanemab slows cognitive decline but concerns linger"
-    excerpt: "A drug called lecanemab is the first treatment that has been shown to slow cognitive decline in people with early Alzheimer’s disease. It also decreases plaques and tangles in the brain that are ..."
-    publishedDateTime: 2022-11-30T12:34:00Z
-    webUrl: "https://www.newscientist.com/article/2349153-alzheimers-drug-lecanemab-slows-cognitive-decline-but-concerns-linger/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 24
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/11/30102827/SEI_135703799.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "New Alzheimer's Drug Reduces Cognitive Decline but May Cause Severe Side Effects, Study Finds"
     excerpt: "According to research published by the New England Journal of Medicine on Tuesday, the drug lecanemab slows cognitive decline. \"Lecanemab reduced markers of amyloid in early Alzheimer's disease ..."
     publishedDateTime: 2022-11-30T23:26:00Z

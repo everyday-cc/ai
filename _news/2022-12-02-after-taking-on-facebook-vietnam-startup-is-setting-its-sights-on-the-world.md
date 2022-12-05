@@ -41,6 +41,20 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Banned AI bots crawl back onto Facebook to target male gamblers"
+    excerpt: "Weeks after Meta-owned Facebook banned groups which were caught sending streams of private messages to potential gamblers, promising free tips in exchange for signing up to online bookmakers, they returned to the platform to seek out new customers."
+    publishedDateTime: 2022-12-05T04:19:00Z
+    webUrl: "https://www.afr.com/technology/banned-ai-bots-crawl-back-onto-facebook-to-target-male-gamblers-20221202-p5c38z"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 37
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.5298%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_12/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/ffa36b975f481c2f4c1dd20c013e6e6a234d522f"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "After taking on Facebook, this startup is setting its sights on the world"
     excerpt: "A Vietnamese internet startup that’s successfully defended its home market of 100 million people against global giants like Facebook is now going into attack mode. VNG Corp, Vietnam’s answer to Tencent Holdings Ltd."
     publishedDateTime: 2022-12-02T01:40:00Z

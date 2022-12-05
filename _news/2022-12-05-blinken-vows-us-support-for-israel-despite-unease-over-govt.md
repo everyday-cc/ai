@@ -7,7 +7,7 @@ originalUrl: "https://www.nbcnews.com/politics/politics-news/blinken-vows-us-sup
 webUrl: "https://www.nbcnews.com/politics/politics-news/blinken-vows-us-support-israel-unease-govt-rcna60033"
 type: article
 quality: 54
-heat: 74
+heat: 75
 published: true
 
 provider:
@@ -49,6 +49,6 @@ related:
       domain: pbs.org
     quality: 4
 
-secured: "xwNbkJ7UAYdBOxcpn46odYyrbiTEGGs6W99NK0s8fXjR22sRmzpqx8bWv9RKc507lvrwdSiZ+yJ6haonUO+5m3vZcLJifbDZ9h4CF1e9zTaR2SQ+OZ5Oj0+ajkzYdXX2QiCIxuHwv/MU/DZtnT5n2zfj0gzfpAi3jelx8fzysHshH6RvpP01utvSJ15xC7aeejBb0RthXv+S8Yri7i/4irJ75nD/PsuF8ji1iMoj8orUpFrqeJY+tzZt6ZF9dzWqY6m0sK3fhoS92ccdGfhqbvqdx7BGB/Vc0aHDRn3Rv5oFSgD33fFZRTpnQJ0OX7N1Wp02E71HEasGWI/wWeMeLLtQB6iPkB7ARLLQXt3x2EA=;lCaDm7SbU+i9anO/BXUPlw=="
+secured: "9d/R3mvpxGy2PXqMOgaZ+e4CTmBzKcmjJHHDQbuGbgzheiFIWXhF0SuQnuZBxUq6g0M3JHNdGxcuAEdHdUW5ayQSCvbI9Os7fFpPY8W3bpMusgDfdiZY3VNAL/OKeuMwa8QXsYr4qJVh7JFb02aBCVhYXvSFFV2y5g/hW2CR2onJzpSd70CAWGpB23xNlgvCM8vpJokG+fkMMMWYJTmBNRUTwVDiIV8NdlZ4il5NDw38AW0tn2jBAqUsU2b7ECJ5k3BPHnIDgXQacKoyv7bjdEnt5lTw37+4kKnMBSJet5q3L2eEJhn6/ZmBj7hBBpAOX2E4xcpTd6RA/V5REcJ2TBwle6T+QcYcKmBo6elqFAfQSKyqtoggfgsD2QkfnS5zG1HKugcOs47IUI2EIfdV3O44RdCoqxpCKxJMGAT0VIYeOGE+O+y0kjQ2ffNJrG+6U0IATabl2fLVM8k+6thEUB+a4rTvnAmt73db+vX2zPa1s1paouBFYzADAAp0hyW+qYECC8mxHnS163wWx2VwWA==;ukBL3c8Om3UkruOVkp5TJQ=="
 ---
 

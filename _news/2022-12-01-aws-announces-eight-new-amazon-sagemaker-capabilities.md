@@ -304,6 +304,6 @@ related:
       domain: datanami.com
     quality: 19
 
-secured: "xsum4y8t+Fkg7TWyzgD56Qx0XrOEhf2mzz7DRyR+wLgDgecIIcTBttOEjDg//OZAVxxxXH+oWiQo2BwPpQGdlzuGmj8+SvZ2CzMgmJt1rl7KjVKEW20KRhfEOP0Kr+TnTjn2NPUjOeRyhg2qoKbDYzJkk+oOHydR6n4yUv0zxZNb21B7/g1jYpon6+yr8CbbYJnCszsMlLX0esmt16v+Kmo4UzsuvH9lhzGvm44egZHzpfm+r0skOO0jNE+2x88vXAp1k/rTyZbm8Tpo6EjWK6lGfpV1l4XC1vC9NXgNCpUGGGufnnQo6ek+zXFHSY0ggGoGPmD81PO5WacEZAlbRGJYA3YBXUaUikOrkSb2/WQ=;JEBoICEEgPCCa/QydBCUKw=="
+secured: "K8NNCOwrO/XTCjhBh3egCRD/Vn31Viy7ofekM2gcASYtDMBDnYPdwD9Otpsn9DbRJG+mGhhK8gmvsHIQj5L3MOrKtQTAn42x8ds0cxKuDKDLqqdpdtlUgQ2MAxrpNQ3kBZLlXaiN4arezox5IKFOxbn/kSxswAVKxr4+zDhdv8EfYe21jrIcDr6HivqunKRO1Nr9jPxzJ8IcWKQjlvJuHabbm2Rr6LEcs+7mQvNHvLYzwB+7F6gfE+ckpd9pBKKLAgdiSJaeVt6RsDy1/hEE5h3shffgoXqyJmhKe6PwtZbaJlo4R0JSjVW6+RdHmgFtamR/HdE0bpyT/21XcE0M6QBJ2Ps//H6/icgSMPJ6O1k=;Z8eZIuKaCmyWMm4dXWkI0w=="
 ---
 
