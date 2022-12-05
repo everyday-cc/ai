@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Israeli startup adds AI detection to stop US' active shooter epidemic"
-    excerpt: "In response, one Israeli startup has been working to put an end to violent threats ... saving precious time and lives. Through AI-based sensing, automatic alerts, and instant visibility, Gabriel provides workplaces, communities, and first responders ..."
-    publishedDateTime: 2022-11-30T08:25:00Z
-    webUrl: "https://www.israelnationalnews.com/news/363682"
-    type: article
-    provider:
-      name: Arutz Sheva
-      domain: israelnationalnews.com
-    quality: 17
   - title: "AI to be used to mitigate mass shooting threats - Israeli startup Gabriel"
     excerpt: "CEO: “We can now take proactive steps to protect precious lives and prevent the common pitfalls of active threats such as human indecision, delayed calls to 911 and misinformation.”"
     publishedDateTime: 2022-11-30T14:29:00Z

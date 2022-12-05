@@ -1,23 +1,25 @@
 ---
 category: news
-title: "Colorado hires Deion Sanders — a spectacular move by the Buffaloes, for better or worse"
-excerpt: "After so many years in the wilderness, the Buffaloes are now the object of our gaze. Thoughts on the hire ... His success at Jackson State (27-5 over three years), his name recognition and his connections throughout the Southeastern quadrant ..."
-publishedDateTime: 2022-12-04T20:05:00Z
-originalUrl: "https://tucson.com/sports/pac-12-hotline/colorado-hires-deion-sanders-a-spectacular-move-by-the-buffaloes-for-better-or-worse/article_0bc5fc1c-7403-11ed-b6e7-bbb5c8ea5774.html"
-webUrl: "https://tucson.com/sports/pac-12-hotline/colorado-hires-deion-sanders-a-spectacular-move-by-the-buffaloes-for-better-or-worse/article_0bc5fc1c-7403-11ed-b6e7-bbb5c8ea5774.html"
+title: "Colorado hires Deion Sanders: A spectacular move by the Buffaloes, for better or worse"
+excerpt: "The Buffaloes, desperate for relevance, hired the NFL Hall of Famer who coached Jackson State the past three years."
+publishedDateTime: 2022-12-05T00:58:00Z
+originalUrl: "https://www.eastbaytimes.com/2022/12/04/colorado-hires-deion-sanders-a-spectacular-move-by-the-buffaloes-for-better-or-worse/"
+webUrl: "https://www.eastbaytimes.com/2022/12/04/colorado-hires-deion-sanders-a-spectacular-move-by-the-buffaloes-for-better-or-worse/"
+ampWebUrl: "https://www.eastbaytimes.com/2022/12/04/colorado-hires-deion-sanders-a-spectacular-move-by-the-buffaloes-for-better-or-worse/amp/"
+cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/12/04/colorado-hires-deion-sanders-a-spectacular-move-by-the-buffaloes-for-better-or-worse/amp/"
 type: article
-quality: 0
-heat: 0
+quality: 16
+heat: 16
 published: false
 
 provider:
-  name: Arizona Daily Star
-  domain: tucson.com
+  name: East Bay Times
+  domain: eastbaytimes.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "X8A6g5kKXTrCL1mpFgeAIlEBG5W6U9NADT1oLPB4nabwGqLCw5qnWhJXBz7IGQ2EXkH1yy5bKh8EOZ+46R1VmhsfccBT2Z2BMd2TOro/qacOUxI7HTPYx3NLHVe3USRGQPhk7Zpo8vQOU8J9scqIOqnqx5wEF7DgHfNibJNPJU7Dxs48/ndGGUUf3Me0Oh1LaliZdW36W6GhV1VLnrQnD0YgMRPHTaY00mpsil3lmW1sxPFZ10XN6RSotZ+Y38n2bw+QGuow2gTQjdfQ1kOM9M3LWg57bHWp51VeF8RLfCv9QzhpGrvJO6l9CjOJR7CA7MjxnuiUi4QStGhM5WK/nVagI+HlJgNic/JykJ53PPf0PEISX6D9/4ZrH0IEEz1dTDO1GxM7ICsJd6TSdIwDYIF5lNJyR6fiYpD+JR4MNpgqPc1/Co4h5JQLFbD6QQ8B8JvqdgrcC12WjEiyYQZI16m9Hdy79P7uhv6pOrMEgIGHfyr+JjBoB0WK0D1Vxm6Ny0xZX2SHykdlYcNuXGwFOw==;1AKzp7wtcl6iDQSnVLWAUw=="
+secured: "k41k7IOnd8WSn5yP0sdrVitw5UqpEhPKtGreXDMEymp/xCBAwn7zZjrPjtCEEZXrHWBRPUCWqFyHuxEspYo+FCNbPvWdauOcAdCXTg930gl7zXKa11qZJiODkteMkuPCbTQi2/Xd5mvsrz9SIYkSsrhcwyBjvTr7qol4rfXDq53C6RewGI6ZpzfHhohTr5sq/lxrTySXLgNGC5JOh7OtkjdQC3mmd1R26IsiyjwEDFNr9HLlHITNWPIwUqutYXrJl1VqNgseywlTB07OGpmMpKMbXueJ0kTtaUlv/35VDJm6RDICUuBJvpC03Hm0FhoFQDe+gVABP8f+ZLV6SkP+eIetvOee8+5nGUNzgzkE0ydfRyFko0e1ioPQuUVJFREqzkHCpJtfG3lgIvao6x7H1FjVxqu1XjK0TpSH1trpkXHIFibD1Luw6IXcYsJGyFknbdYWi3mTDFLmjbm7a/8Z8J/StBOekKxVhscUrq0my1dLJyu6fgaNEVMOeAUIqevL/rB4TckEyDLNNZNibr2sFw==;ezEzH7ibvuihW43PP/S6pw=="
 ---
 

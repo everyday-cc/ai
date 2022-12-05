@@ -26,14 +26,19 @@ images:
 
 related:
   - title: "Blinken vows US support for Israel despite unease over govt"
-    excerpt: "The Biden administration will remain a stalwart friend of Israel even as it pursues goals that Prime Minister-elect Benjamin Netanyahu has opposed, the U.S. secretary of state said."
-    publishedDateTime: 2022-12-04T20:13:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/blinken-vows-us-support-israel-unease-govt-rcna60033"
+    excerpt: "Speaking to a left-leaning group that some on the right accuse of being too sympathetic to the Palestinians and Iran, Blinken said the United States will remain a stalwart friend of Israel even as it pursues goals that Netanyahu has opposed,"
+    publishedDateTime: 2022-12-04T22:28:00Z
+    webUrl: "https://www.chron.com/news/article/Blinken-vows-US-support-for-Israel-despite-unease-17630539.php"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 34
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 24
+    images:
+      - url: "https://s.hdnux.com/photos/01/30/50/74/23236400/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Blinken vows U.S. support for Israel despite unease over new government"
     excerpt: "Secretary of State Antony Blinken said Sunday the U.S. will not shrink from its unwavering support for Israel despite stark differences with Prime Minister-elect Benjamin Netanyahu and concerns the Biden administration may have about potential members of his incoming right-wing government."
     publishedDateTime: 2022-12-04T18:52:00Z

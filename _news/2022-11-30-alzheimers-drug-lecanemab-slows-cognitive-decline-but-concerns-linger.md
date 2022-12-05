@@ -101,20 +101,6 @@ related:
         width: 750
         height: 417
         isCached: true
-  - title: "New data shows Alzheimer's drug can slow cognitive decline"
-    excerpt: "The drug slowed the rate of cognitive decline in patients with early disease. Promising data shows that an Alzheimer's drug can slow cognitive decline. In a phase III clinical trial, with results ..."
-    publishedDateTime: 2022-11-30T07:31:00Z
-    webUrl: "https://abcnews.go.com/Health/new-data-shows-alzheimers-drug-slow-cognitive-decline/story?id=94167945"
-    type: article
-    provider:
-      name: ABC News
-      domain: abcnews.go.com
-    quality: 24
-    images:
-      - url: "https://s.abcnews.com/images/Health/biogen-bldg-gty-ps-221129_1669758265305_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "New Alzheimer's Drug Reduces Cognitive Decline but May Cause Severe Side Effects, Study Finds"
     excerpt: "According to research published by the New England Journal of Medicine on Tuesday, the drug lecanemab slows cognitive decline. \"Lecanemab reduced markers of amyloid in early Alzheimer's disease ..."
     publishedDateTime: 2022-11-30T23:26:00Z

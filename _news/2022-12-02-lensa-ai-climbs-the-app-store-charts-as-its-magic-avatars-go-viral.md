@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/12/01/lensa-ai-climbs-the-app-store-char
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/01/lensa-ai-climbs-the-app-store-charts-as-its-magic-avatars-go-viral/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

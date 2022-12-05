@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thesun.co.uk/tech/20635574/elon-musk-ai-brain-chip-child
 cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/20635574/elon-musk-ai-brain-chip-children-neuralink/amp/"
 type: article
 quality: 62
-heat: 73
+heat: 72
 published: true
 
 provider:
