@@ -1,23 +1,20 @@
 ---
 category: news
 title: "UvA honorary doctorates for psychiatrist Vikram Patel and computer scientist Christopher Manning"
-excerpt: "The University of Amsterdam (UvA) is awarding honorary doctorates to Indian psychiatrist and scientist in the field of mental well-being Vikram Patel and Australian computer scientist and expert in the field of Artificial Intelligence Christopher Manning."
-publishedDateTime: 2022-12-02T00:00:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/973189"
-webUrl: "https://www.eurekalert.org/news-releases/973189"
+excerpt: "The University of Amsterdam (UvA) is awarding honorary doctorates to Indian psychiatrist and scientist in the field of mental well-being Vikram Patel"
+publishedDateTime: 2022-12-02T14:06:00Z
+originalUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/228253"
+webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/228253"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: AlphaGalileo
+  domain: alphagalileo.org
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "D+Calq9DhkeCSNUqKxj1GIUIsKJl8VRc6thytmG4CgieZ0FZQT17IG00dIwGYvnblcIDHtRg7xZtQhwabVq9yk55IyDpJMtSLe6yEeV9kp+gHcVZzLDHgJ0+/7QBljl7OE78l2efSZSmolCn0hD+XjeVdC+OgpifhY9x2RUzc6zLPGmH9AqIdgULp6x/6IKE7ctsuJ9O855VMzQrypdEyBrS7dKLFlSi58QXsQZpExMfMq4RYCpenvUIQjJGpNagqQcArUgw7ZdjbC5vF0G6bcUDjXBAKNY/R1qwYvd6RFNpvPKYtw/+mEGTdj0CW0G6ZMpiOW9VulCHHXb8OYqpu+zb4RvN/EgkkgNHwz2cBsg=;IiecEnhhCmeY5y4o/E+ZnQ=="
+secured: "3GJRXgMvxbFhUr8isJMtnCbse/IoycFmYgu5P2qJyzRYYkP1PbO81euOIHSxVdk+zkSCxk+i9jNb1ZhxlC9VITdUFf3vHCW2nlbNLHEzW6mDfL2GkFg/uAJfZLu4yJuv+UqWz7w1jFZYxymBfQZf91Rg9mnKLeL/Q40bFDkFs9MxKJ4iQVoaHpD57MvI7Pap497rg8hGPzahtceUzvbFzwwG9vFAOUw+KGfwUJ1f45/HN2QjrAKekEUtnb54r2odAit6OHaiXXtf1Ctj0/2LPV51sCxH2fVQ1YCL3+exkUfGQW0yHoTlEDUhq5blCbTkcDXywKPjbNbMxsJNshwuW2fkbnV3XXm9eIodSzpSjHc=;sjOzDKuALV25vz9dWUgYIQ=="
 ---
 
