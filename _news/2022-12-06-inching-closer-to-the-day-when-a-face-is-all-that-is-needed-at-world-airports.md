@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-05T19:30:00Z
 originalUrl: "https://www.biometricupdate.com/202212/inching-closer-to-the-day-when-a-face-is-all-that-is-needed-at-world-airports"
 webUrl: "https://www.biometricupdate.com/202212/inching-closer-to-the-day-when-a-face-is-all-that-is-needed-at-world-airports"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Biometric Companies

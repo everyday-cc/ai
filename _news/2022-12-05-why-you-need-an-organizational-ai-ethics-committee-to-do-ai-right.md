@@ -111,6 +111,15 @@ related:
         width: 640
         height: 428
         isCached: true
+  - title: "Rethinking the ethics of AI - and ours"
+    excerpt: "Answers to “machine ethics” questions will have great impact on our society going forward - and huge implications for all, from businesses that face new AI risks, to politicians and citizens who may see democracies at risk due to, well, algorithms."
+    publishedDateTime: 2022-12-01T08:03:00Z
+    webUrl: "https://www.businesstimes.com.sg/opinion-features/columns/rethinking-ethics-ai-and-ours"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 34
 
 secured: "j2KVdz1otrl5bKM885OEqtELXXBITcC/8ofNQCLcMupCdlOT63gNOX+WdcNPrE5jUvrOAhka7/lkMFIb7LNfGtAkCxD/gLCU5+sve6wLkHgwhPIYJPRX9jLoH3ZIesHb8pYHc8EU1Z/dQ1+slo3m6l5vhXuv0CezuXcYzFvI5vAKPofDDal3sMFaQtNAAsgQZYApfWUkSi4J/CrJLkcBec0RiSAmQjQUai69xjM1KfhdOK/AjFchVq5urCPBg8emQrcVwtlIyPhb6RdRlC5rL++2HT3q0NNZoc+lUlffJDAyr9DL46F3WANRKiZl2xaOc9zfRMtKo0odmgGJtJ+pbYIrnDRM0BECDJRpyGa0BS1YDbAHVFaPwUaZEhY9nMVzhmVKxsp/c/Q/IvzHnek3VSjRlpa4+QJyosEk3mKdzW0CMg/6VM/3JhSenFtuLlvO52yw0U1eN7JaJXlJqX+ox8DwGCwDIDOasiGIoYCyh9XzRDddpUFfV6IDmJCYvVrBvMDU2eT5/5B/gUktDT3Pnw==;E17bsnNe0V5buCrFid0T9A=="
 ---

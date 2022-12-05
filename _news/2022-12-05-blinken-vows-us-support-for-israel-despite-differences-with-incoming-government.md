@@ -48,6 +48,15 @@ related:
       name: PBS
       domain: pbs.org
     quality: 4
+  - title: "Blinken Vows U.S. Support For Israel Despite Unease Over Government"
+    excerpt: "Secretary of State Antony Blinken said the U.S. will remain a friend of Israel even as it pursues goals that Prime Minister Netanyahu has opposed."
+    publishedDateTime: 2022-12-05T20:55:00Z
+    webUrl: "https://www.newsy.com/stories/blinken-vows-u-s-support-for-israel-despite-unease/"
+    type: article
+    provider:
+      name: Newsy
+      domain: newsy.com
+    quality: 4
 
 secured: "pfh/z0MwOSPtB3cV4DfICtX6Uiv35ppXZD4JLacEYdlcEcJhnxSpny9zuNU2a8vbSsPJ8TbUGXXOyjVcvPujiL0Pqmqz82t1l/+MAIlJKVJl3WjBETwamZvs6TODWhYW7hpqelwv1S93tGWzSoYQsPqzJZqRZKi410wAjmsm3cZCHQR2rVcECyJhRyswCSMZCDbfvuLqisYqfngqgd2S7f8vLqnLeWk0NZprl4uF4muVVaI4z9LaF9sOSc/VDlWKC2t4uE/vv9SYlvEJjfmcXzymEY3He/oJBKKU+0AaY8XUj6LVB3DA34zjOxEHLBqCsEFXx1JgeJ/uUtyZ6jB9RXofproc0T1Gi7OOruE1VsnEzNwsiVpjBxOMvSaxXWqp9x/wSv6Q+vw+hUb2IN4lP1rLOiM1P15uz1PIqE9ukS8gDg/H8VAtgJ8kLAHPoYKtJR3wZTTgtvV/k7jrmV+wKjlYBK6n93GsYrzRXyBej6kEuGW/IFMRb/sDsw5xlGIxljsvY6xhClI7ZDeZl8u5bw==;lZCYBqJoPFpP28yY4zzlVQ=="
 ---

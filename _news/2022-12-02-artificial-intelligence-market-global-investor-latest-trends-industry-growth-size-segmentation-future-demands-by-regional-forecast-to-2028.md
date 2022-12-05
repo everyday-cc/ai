@@ -45,6 +45,20 @@ related:
         width: 800
         height: 313
         isCached: true
+  - title: "Artificial Intelligence in Medicine Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028"
+    excerpt: "Artificial intelligence (AI) is a branch of computer science that deals with the design of intelligent agents,"
+    publishedDateTime: 2022-12-05T06:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-12-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "SuL7Yrx/zoM85SUUNYeFmvdqoJ5ETVgCipINj3TiXTQdvXg5OaYKqcFDBvysGn/rBXk8ekICjQpEkSZTAzKrW36NIf3mz9fkFJNjmP9uUSUqE82lqS+H0tqdxJNWD7FpE7DmnuqOzvJZ1Bxi0n1p7qeVa9MfW+ywLfdEIbgOYiITQqIm2DnctE4/ZW2NawBicVL+fwxOvHb0xp9mPnZnFZmF6TPXMDTvD5DDSaDEJJZ6R9aaeBKiNtV2qbRPi1hlZOQ3voZvg5DJ4yfhsDyADE0/mQq89T0JSOfdXYiSGbeIDGurDiyV8ze/06kxi5YRIj7rnZxuTIpAiEb48go20Tz0MOX6vL8c41UErAxlVY0=;ixUS3N0CiItEpoeobwAAUQ=="
 ---

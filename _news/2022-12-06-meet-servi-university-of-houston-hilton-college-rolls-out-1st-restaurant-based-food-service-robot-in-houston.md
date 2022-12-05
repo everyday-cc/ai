@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-05T19:04:00Z
 originalUrl: "https://www.click2houston.com/news/local/2022/12/05/meet-servi-university-of-houston-hilton-college-rolls-out-1st-restaurant-based-food-service-robot-in-houston/"
 webUrl: "https://www.click2houston.com/news/local/2022/12/05/meet-servi-university-of-houston-hilton-college-rolls-out-1st-restaurant-based-food-service-robot-in-houston/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Click2Houston

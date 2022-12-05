@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-an-ai-about-the-ethics-of-aiand-it-lied-to-me/amp/"
 type: article
 quality: 108
-heat: 158
+heat: 168
 published: true
 
 provider:
@@ -113,6 +113,15 @@ related:
         width: 640
         height: 428
         isCached: true
+  - title: "Rethinking the ethics of AI - and ours"
+    excerpt: "Answers to “machine ethics” questions will have great impact on our society going forward - and huge implications for all, from businesses that face new AI risks, to politicians and citizens who may see democracies at risk due to, well, algorithms."
+    publishedDateTime: 2022-12-01T08:03:00Z
+    webUrl: "https://www.businesstimes.com.sg/opinion-features/columns/rethinking-ethics-ai-and-ours"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 34
 
 secured: "WHh68OxaUK+YGiGU7kKZfpG82GhuUd68AXst4XvyLZmXO/l2RPyDFwrnbh+2lXASqN+RIvffqy7AewdpybGKpLABlc2EndYy+PlafIQtl9x27evlvwEV9I+S6jWEzGndnbPxKAf1UOjUGIct4IgkWybCwN19LUKcgapS5l/IFKARx9GTyyH+1SCIoqOrLwX55+rD1X1l/vEtOX4DlSde4nCKzwc41fXj2qx6o+eTVfjlosrxBAaii/I9YhVymC0LBA99kJYX+bXd28spRbKdMNFmdrvh+9exO04Clu6M3fQdtu1Kw+mvqm8Q0iPcBZAGJAW581m3QHit9nd50F0F1d7X2rGvPZTbp0/svRRhEX83WhC2ajsbLTZsnyCP9X3g59gF+qlsnTXFtY16sxu0etzlEO82pxuLVAItrt0WoBeQD5142roHS3N3aBSyTezD/Gv+GL6SSaR1t4emgF7JDFwBJNcEU5gTzxiBfBn2jD+1qwbe75wdIvywBggUV2mFfvdGxWuUlNiWA8nbslb6Ig==;OALbqUPXKsujVeiNvdFPOw=="
 ---

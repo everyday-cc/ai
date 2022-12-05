@@ -24,6 +24,17 @@ images:
     height: 267
     isCached: true
 
+related:
+  - title: "Text-to-image AI is a powerful, easy technology for making art — and fakes"
+    excerpt: "Deep fakes have already been used to create nonconsensual pornography, commit small- and large-scale fraud, and fuel disinformation campaigns. These even more powerful image generators could add jet fuel to these misuses."
+    publishedDateTime: 2022-12-05T20:42:00Z
+    webUrl: "https://www.niemanlab.org/2022/12/text-to-image-ai-is-a-powerful-easy-technology-for-making-art-and-fakes/"
+    type: article
+    provider:
+      name: Nieman Journalism Lab
+      domain: niemanlab.org
+    quality: 15
+
 secured: "SWG6rMmQYfKIJvEDhoZgxC6PJ5Lph1MXVEVTt6DV0MiqvBowvkMqEB+f9KJ/RAOy8UyLzWxEhVUXOOXuDF8aSLmJkmuWZQdoqmL6nmvUWS2qYo1yulYUDdBGjayYTU3QXif8hWrUs4srfjLRtQ8kLnNe6/OjrVb6JDyPjg0/Xl1dMM0abY1r5tklAP59z/WJWRJjB3iDZP/bCTc6j2BVVlDsi3ElVN9YFabB5tCrpE/LCXtLo6/wrrdih2kc+5LwVE1p46ul92wFxHB68M+Xphgs9rlVLQqWLUq+g193rPMtX4dGqXZg0/tubD+o5fJg9vonPn2fwzQZ6qdCzAHn+ea0lH8Uq5Gj7Pil993yDiirukxOawZqDMAmruW+I8LymAhZRtOhuu0Tz4+Os3YztIO2SMMc6wkcss3htBU/Nixcjp3vdQ3T6ZSQm52/EHQgf1G1KH8NKgVg/aHXj4HNMYSGjGN5pNlTLbAUGN0hVuq3eZWlGGhX5e/GRwlPrDYP6B0/7igYmDG8mC98Nx3cnA==;gBwCR5qHrK+tfEkWlxaznA=="
 ---
 

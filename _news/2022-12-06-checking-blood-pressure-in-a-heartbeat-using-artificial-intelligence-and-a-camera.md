@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Checking blood pressure in a heartbeat, using artificial intelligence and a camera"
-excerpt: "Monitoring blood pressure using a digital camera could soon be the norm, thanks to an innovative technique demonstrated by Australian and Iraqi researchers."
-publishedDateTime: 2022-12-05T16:09:00Z
-originalUrl: "https://medicalxpress.com/news/2022-12-blood-pressure-heartbeat-artificial-intelligence.html"
-webUrl: "https://medicalxpress.com/news/2022-12-blood-pressure-heartbeat-artificial-intelligence.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-12-blood-pressure-heartbeat-artificial-intelligence.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-blood-pressure-heartbeat-artificial-intelligence.amp"
+excerpt: "Engineers have designed a system to remotely measure blood pressure by filming a person's forehead and extracting cardiac signals using artificial intelligence algorithms. Using the same remote-health technology they pioneered to monitor vital health signs ..."
+publishedDateTime: 2022-12-05T21:43:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/12/221205104242.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/12/221205104242.htm"
 type: article
-quality: 51
-heat: 51
+quality: 41
+heat: 41
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/checking-blood-pressur.jpg"
-    width: 500
-    height: 500
-    isCached: true
-
-secured: "8WF3JU+RB+rfj8zHZGfPlgVT9ELX+weS3Fq4h2+q+6jWe0UYb0p0sBslHWfUqDI01RgzImegwrltLEuuAwadFd5FZTDfZRP5Fy9fddWWqw/UM6zwSVMMwFDy9/vvXcrGihaxO4ZdO1ylVUrWtbVDrxZIK2S+AKXPhdJbM4PIiKl+mAIHWvRJTny/zx6DpDdq7+Go47YmFhZmbfLfwUpf8SPS0ENYSkuianGIlniE5awBkbtK0cpmYLmn3wwJ4NBu3WhhBlYf08V+SCUbRAHcazjzXx9OHVv7aZPja2GeX8O53E35YA1iooy+hUie5U0IUPlNrFWbJmqrtW+wAMctE7veim92vALfy0s5zoUIFg5z+riH6l/AUHelKmVULIFAtfQ6EfP1+pgZ4kkKhmdoyNjQSBdAl9sV9h/xvb/aGhlkP7Wz323oxZ+glRo0UqEW0hO9UBhpO30pKMi0Lru+xeU7HIgkFlp5koIuTST5wyAzKWCLfbMLa6WgWR19X4JNqzjQG8TcXhf1lWA5pHUV3Q==;2r7NsPFsLurNI6yAjblnbw=="
+secured: "cahls7ioEVDhh2aVRJUp4g2jwe/AbJw0zohQrgGDT2mWsLBjg3elhqCp6+QHTnKr6MIY1/B5jEWL8my/W0paqMj5QwajK/s1qvxTuzWbdGiFzxS2gg8Cj6koxe4XUC/6OibEpar5I3QbWLUzZPkIkvsSkEVNMNVKkFUtC5rncwCzOYmc+4dVw1dq0MArTH9tahMDf56f2rKcZowWDrvqANByGteCMgem9+6eZ5bflzF0+UZVHzEhFcYtv14/tE8ZJzkNRxKMxZJ94lqnlKkMN+WRMFqkuDJSF6+PJq12VuX/FjRzWIgNtQwz/MqlcV5GQLC9dILhBbyhNb/ySscyNWKEDlkH7nnTMM3+8ntp7Bo=;h6vM4MNv3ZOf4ET7U3jm7g=="
 ---
 

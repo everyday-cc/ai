@@ -29,73 +29,62 @@ images:
     isCached: true
 
 related:
-  - title: "How Fintech Can Help You Weather A Recession"
-    excerpt: "With many in fear of a recession, a growing number of businesses are in need of grant funding, and there are not many search engines that are cataloging the grants offered by thousands of organizations. Very few opportunities are in the marketplace that offers fintech services to help growing businesses with this catalog of offerings."
-    publishedDateTime: 2022-12-01T11:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/01/how-fintech-can-help-you-weather-a-recession/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/01/how-fintech-can-help-you-weather-a-recession/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/01/how-fintech-can-help-you-weather-a-recession/amp/"
+  - title: "Artificial Intelligence (AI) Market 2023 Is Flourishing Around the World by 2026"
+    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. [131 Pages Report]\"Artificial Intelligence"
+    publishedDateTime: 2022-12-02T04:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-2023-is-flourishing-around-the-world-by-2026-2022-12-02"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 79
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61b210016811815c378fdd64/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Founder of AcuFi, Nick Kohlschreiber, Shows Small Businesses how to Use FinTech"
-    excerpt: "The innovative products and services offered by fintech companies are considered a critical element in the pursuit of financial inclusion and greater equality on a global scale, especially after the devastating impact of the pandemic."
-    publishedDateTime: 2022-12-01T04:41:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273137541/founder-of-acufi-nick-kohlschreiber-shows-small-businesses-how-to-use-fintech"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 20
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1669696179600.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "How FinTech is Transforming Financial Services and Ushering in an Amazing New Normal"
-    excerpt: "One area where technology has made deep inroads into the human experience is financial services. Thanks to FinTech, many of us don’t need use paper cheques, visit a bank branch to update our passbooks,"
-    publishedDateTime: 2022-12-01T12:08:00Z
-    webUrl: "https://techstory.in/how-fintech-is-overtaking-traditional-finance-through-innovation-and-cutting-edge-technology/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 17
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/12/88794644.jpg"
-        width: 1361
-        height: 771
-        isCached: true
-  - title: "FIS Challenges Nearly 200 Startups to Pitch their Boldest Ideas in First APAC Fintech Competition"
-    excerpt: "FIS has expanded its InnovateIN48 fintech competition to startup fintech companies in the APAC region for the first time. The competition welcomed nearly 200 fintech companies from 11 APAC markets to develop and pitch their innovative ideas to FIS leaders."
-    publishedDateTime: 2022-12-02T06:43:00Z
-    webUrl: "https://www.businesswireindia.com/fis-challenges-nearly-200-startups-to-pitch-their-boldest-ideas-in-first-apac-fintech-competition-82063.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 11
-    images:
-      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_82063.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Fintech Market Report 2022: Increasing Use of AI-Enabled Solutions in the Capital Market Presents Opportunities"
-    excerpt: "The \"Artificial Intelligence in Fintech Market: Global Analysis and Growth Forecast to 2027\" report has been added to  ResearchAndMarkets.com's offering. The adoption of AI systems and techniques in finance is growing rapidly,"
-    publishedDateTime: 2022-12-05T14:22:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/12/05/9724212.htm"
+  - title: "Natural Language Processing (NLP) Market Analysis Highlighting Opportunities and Development Status During 2023-2026"
+    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. [102 Pages Report]\"Natural Language Processing"
+    publishedDateTime: 2022-12-02T04:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-analysis-highlighting-opportunities-and-development-status-during-2023-2026-2022-12-02"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-Care Medical Devices Market to Witness A Pronounce Growth During 2023-2026"
+    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. [118 Pages Report]\"Self-Care Medical Devices"
+    publishedDateTime: 2022-12-02T06:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-care-medical-devices-market-to-witness-a-pronounce-growth-during-2023-2026-2022-12-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Discover How Artificial Intelligence Based Medical Device Market 2023-2026 is Estimated Drive the Industry Growth Across World in Coming Year"
+    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Artificial Intelligence Based Medical Device"
+    publishedDateTime: 2022-12-05T05:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/discover-how-artificial-intelligence-based-medical-device-market-2023-2026-is-estimated-drive-the-industry-growth-across-world-in-coming-year-2022-12-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "BFvOKVO19YGfKXVOdYck2a0cxlrlBnEMR821f78BvjCsditE7lA4Syif0rE6sE8ZO/8fKwJW8VzTiWbjYohGDCXAkgva3Xrd4iNjqp+izR/FFXTR/cq8ebt2LhqswlphvNIXpFfxznuubO+lKBrY1hMTw3ejl0drdcs18TINPMo8EWf58PFrwRieehb3VVhQ9op2c7wFu4Oq2ju3WGb8XLMq1JwvtyygLwGuQpwCLsFIH8TQuKg5PyLKL0CswmX9lAYd833TmDtfVM4RNvM/LPtpYTf1PIw4t/5M3PUzoYLzh59LJkfMrTMHe7g8wfKHpu7o5Vxls7+C+qdbRpjkpGNvypUuVkmKhN84qWxc8Og=;eIxR4rO++/eC079tQtwSrA=="
 ---

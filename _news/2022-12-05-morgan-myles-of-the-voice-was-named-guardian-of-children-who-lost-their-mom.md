@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-05T11:42:00Z
 originalUrl: "https://heavy.com/entertainment/the-voice/morgan-myles-guardianship-story/"
 webUrl: "https://heavy.com/entertainment/the-voice/morgan-myles-guardianship-story/"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Heavy.com

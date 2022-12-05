@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-kil
 cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602?amp"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "San Francisco Police Can Use Robots To Kill Suspects"
-    excerpt: "A recent law allows San Francisco Police to use robots for killing in extreme situations.  The department included this provision in a new “Law Enforcement Equipment Policy” that passed"
-    publishedDateTime: 2022-12-01T04:21:00Z
-    webUrl: "https://technology.inquirer.net/119871/san-francisco-police-robots"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 39
-    images:
-      - url: "https://technology.inquirer.net/files/2022/12/Police-Robots-featured-image-www.fox26medford.com_-620x349.png"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Make way for the killer robots: The government is expanding its power to kill"
     excerpt: "A last-minute amendment to the SFPD policy limits the decision-making authority for deploying robots as a deadly force option to high-ranking officers, and only after using alternative force or de-escalation tactics, or concluding they would not be able to subdue the suspect through those alternative means."
     publishedDateTime: 2022-12-02T14:01:00Z

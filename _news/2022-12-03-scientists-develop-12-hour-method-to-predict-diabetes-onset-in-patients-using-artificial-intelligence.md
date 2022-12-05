@@ -56,6 +56,15 @@ related:
         width: 732
         height: 549
         isCached: true
+  - title: "Artificial intelligence can be helpful in diabetes monitoring, prevention"
+    excerpt: "Artificial intelligence can be used to turn a continuous glucose monitor (CGM) into a potent tool for diabetes monitoring."
+    publishedDateTime: 2022-12-05T20:16:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/artificial-intelligence-can-be-helpful-in-diabetes-monitoring-prevention-71670234137983.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 16
 
 secured: "MkUTvxuV9F1kL0cKv2oUOX7Rzik3q8TgZGrZjqsmUrY1sUM3kcrmy7m10/kdSnBRjWz9q4Y5dr3/tURecT6e8sC+fr0dqomwoweURtR0PQZx+qqSONtAQBzUaNNhbU9DpvP+8W3yWZN6aMd+aA/Yy4TN36DPB5KNRXoFqYwnRldXI6XMNFe/iKxXwPJmAtjWMxn0PqgBoZBZMBVn3BB/ycb5xJKPNRf8hlW9L+VolqiYdxB2hAcG+5HInEJFp1CczH8oPoCTB8gOUPM6rGSRZqPYA2OzntWd2oMEtH2HjG9UtrpLHV4WzIIHdnE0/jmkL38MlwzeP6vlSqWhRFHOsjVTG1hSBWBVkSTqQ5RrdFP8i8uYf38BgirzdqCjH/rN/ri8pmzOs+rWih6oCSgz6hes5ASIxLCX4d07xmDoKcLuW1G9BDRT28zbzaqIP+nnPlKaj2tJERrOAevRdqMZ5c0l3wu3QR04Gw3tob5c0aw5kIfjuTWn615y9nWRj+p+o+YvXWfbaTaBu718LPdHQw==;/w9cT4VpJdyRyu4rV0V+vA=="
 ---

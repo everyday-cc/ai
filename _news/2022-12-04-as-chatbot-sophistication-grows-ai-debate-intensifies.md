@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-12-chatbot-sophistication-ai-debate
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-chatbot-sophistication-ai-debate.amp"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://www.taipeitimes.com/images/2022/12/05/P12-221205-328.jpg"
         width: 866
         height: 577
+        isCached: true
+  - title: "This AI chatbot is dominating social media with its frighteningly good essays"
+    excerpt: "OpenAI last week opened up access to ChatGPT, an AI-powered chatbot that interacts with users in an eerily convincing and conversational way. Its ability to provide lengthy, thoughtful and thorough responses to questions and prompts — even if inaccurate — has stunned users,"
+    publishedDateTime: 2022-12-05T20:40:00Z
+    webUrl: "https://www.wishtv.com/news/this-ai-chatbot-is-dominating-social-media-with-its-frighteningly-good-essays/"
+    type: article
+    provider:
+      name: WISH-TV
+      domain: wishtv.com
+    quality: 36
+    images:
+      - url: "https://www.wishtv.com/wp-content/uploads/2022/12/hypatia-h_e843decdf5f99a549e6eebdbf661e114-h_e7ecb66b527590d44df8089b6f701afb.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "This AI chatbot is blowing people’s minds. It thinks out of the box, comes up with detailed answers"
     excerpt: "From historical arguments to poems on cryptocurrency, users took to Twitter to share their surprise at the detailed answers ChatGPT provided, after the startup sought user feedback on the AI model Wednesday."

@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Accelerator Chip Market 2022 to Eyewitness Massive Growth by 2028"
-    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"AI Accelerator Chip Market\" Insights 2022 | By"
-    publishedDateTime: 2022-12-01T06:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-2022-to-eyewitness-massive-growth-by-2028-2022-12-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) Market 2023 Is Flourishing Around the World by 2026"
     excerpt: "Pre and Post Covid is Covered and Report Customization is Available. [131 Pages Report]\"Artificial Intelligence"
     publishedDateTime: 2022-12-02T04:26:00Z
@@ -57,29 +43,29 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Telecommunication Market 2023-2027 Find Out Essential Strategies To Expand The Business And Top Key Players"
-    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. [123 Pages Report]\"AI in Telecommunication"
-    publishedDateTime: 2022-12-01T06:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-2023-2027-find-out-essential-strategies-to-expand-the-business-and-top-key-players-2022-12-01"
+  - title: "Artificial Intelligence (AI) in Fintech Market 2023 Expected to Reach Significant Rate by 2027"
+    excerpt: "As per latest research on Artificial Intelligence (AI) in Fintech Market (Report spread across 105 Pages), the growth"
+    publishedDateTime: 2022-12-02T05:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-2023-expected-to-reach-significant-rate-by-2027-2022-12-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 72
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Medicine Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028"
-    excerpt: "Artificial intelligence (AI) is a branch of computer science that deals with the design of intelligent agents,"
-    publishedDateTime: 2022-12-05T06:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-12-05"
+  - title: "Natural Language Processing (NLP) Market Analysis Highlighting Opportunities and Development Status During 2023-2026"
+    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. [102 Pages Report]\"Natural Language Processing"
+    publishedDateTime: 2022-12-02T04:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-analysis-highlighting-opportunities-and-development-status-during-2023-2026-2022-12-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 40
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

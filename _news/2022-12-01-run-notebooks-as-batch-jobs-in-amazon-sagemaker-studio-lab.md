@@ -215,15 +215,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 21
-  - title: "ThunderSoft Joins the Amazon SageMaker Ready Program"
-    excerpt: "ThunderSoft, announced today it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner software solutions that are validated by Amazon Web Services (AWS) Part"
-    publishedDateTime: 2022-12-01T04:42:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-12/57729270-thundersoft-joins-the-amazon-sagemaker-ready-program-004.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 19
   - title: "Weights and Biases Joins the Amazon SageMaker Ready Program"
     excerpt: "Weights & Biases, the developer-first MLOps platform, announced today it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner"
     publishedDateTime: 2022-12-01T13:01:00Z
@@ -241,6 +232,15 @@ related:
     provider:
       name: datanami.com
       domain: datanami.com
+    quality: 19
+  - title: "Foursquare to Power Geospatial Data Visualization in Amazon SageMaker"
+    excerpt: "Foursquare capability in Amazon SageMaker allows customers to easily visualize planetary-scale geospatial data for machine learning Foursquare, the leading independent location technology company, exc"
+    publishedDateTime: 2022-12-05T17:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/12/b29962022/foursquare-to-power-geospatial-data-visualization-in-amazon-sagemaker"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 19
 
 secured: "7Fb5jKGCyotYhPGbk3qRP1SxXXgdLJZNUEFpj9DioF79uRNWc3Dchdls0iNPw6gMMFNIlG+ZIywSOnfDfVwRErlCltJKn22F9G+gv4wtjf+3bPvFr1V6hReyLKDFsV95gjVECFpImBsI186Pb3p695Aq145k2ICabxeEGzflG7L5Z2qHL1mV0qM9Mt/mwhfQTCBwK8pICXW/WzmWNDKyWCNmf4wELKoze7VnwxHhl0DEeBDlIWa5LF01+rwbkuPuJ0ICrwxYreCSPIeR3ZvP07EYuDDmLqYPOQQhrThYP3C03i5vNqDzhFsfkeRmP6ySS7NhHuvuHkCRS6Kp59Z/nyM9z47FFfLB7wpoexkZoy4=;MmI+nBnk4LiweyG1StTyTQ=="

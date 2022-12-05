@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-05T19:15:00Z
 originalUrl: "https://seekingalpha.com/article/4562442-openai-impact-analysis-microsoft-google-and-nvidia"
 webUrl: "https://seekingalpha.com/article/4562442-openai-impact-analysis-microsoft-google-and-nvidia"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Seeking Alpha

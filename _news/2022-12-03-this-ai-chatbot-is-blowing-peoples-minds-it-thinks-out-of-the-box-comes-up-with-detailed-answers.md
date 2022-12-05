@@ -54,6 +54,20 @@ related:
         width: 866
         height: 577
         isCached: true
+  - title: "This AI chatbot is dominating social media with its frighteningly good essays"
+    excerpt: "OpenAI last week opened up access to ChatGPT, an AI-powered chatbot that interacts with users in an eerily convincing and conversational way. Its ability to provide lengthy, thoughtful and thorough responses to questions and prompts — even if inaccurate — has stunned users,"
+    publishedDateTime: 2022-12-05T20:40:00Z
+    webUrl: "https://www.wishtv.com/news/this-ai-chatbot-is-dominating-social-media-with-its-frighteningly-good-essays/"
+    type: article
+    provider:
+      name: WISH-TV
+      domain: wishtv.com
+    quality: 36
+    images:
+      - url: "https://www.wishtv.com/wp-content/uploads/2022/12/hypatia-h_e843decdf5f99a549e6eebdbf661e114-h_e7ecb66b527590d44df8089b6f701afb.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Chatbot capable of writing scenes for a play and dissertations released by US start-up"
     excerpt: "CALIFORNIA START-UP OpenAI has released a chatbot capable of answering a variety of questions, but its performance has reopened the debate on the risks linked to artificial intelligence (AI) technologies. The conversations with ChatGPT show a kind of a ..."
     publishedDateTime: 2022-12-05T16:08:00Z

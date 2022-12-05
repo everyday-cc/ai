@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/12/01/lensa-ai-climbs-the-app-store-char
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/01/lensa-ai-climbs-the-app-store-charts-as-its-magic-avatars-go-viral/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 730
     isCached: true
+
+related:
+  - title: "You can use the Lensa AI app to turn your photos into artistic portraits"
+    excerpt: "To credit for these masterpieces is the Lensa AI app, and here is how you can use it to get your own. Lensa AI is a free-to-download, photo-editing app that launched in 2018 and is available in both the Apple App Store and Google Play Store."
+    publishedDateTime: 2022-12-05T21:54:00Z
+    webUrl: "https://www.zdnet.com/article/you-can-use-the-lensa-ai-app-to-turn-your-photos-into-artistic-portraits/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/you-can-use-the-lensa-ai-app-to-turn-your-photos-into-artistic-portraits/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/you-can-use-the-lensa-ai-app-to-turn-your-photos-into-artistic-portraits/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/d4c593c52fe4edc756a285ff4858755bc5910a13/2022/12/05/a7196214-ebef-46e5-82f6-d694eb7b9f53/2022-2.png?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "iu00Sucv0Btias2VqO8zJOuys1uJxXuvk42tHkF9eSb2PTCwc9azk8MG8eSkbXd12/FUChIylVselWDhlmlJSFZa30PIzyVw8+xdbkSmXPfp30uawTmbKMazQ4mG0dlOcz/9paH3X+GelXxqnd8ihyeKiw82A+tCeNPX7L7pu315kadXStJoqHDaeAERbxOrWrNk/hKKPeygg52Bwvu6NMiUgrP8lZ+htSqUnmVvgzHdUYFF3fLNpPQuQ651orzBuxEYES9tfPUJd1iSoBd86wQHEHx+lU2r+5d88vSh052SP095EIDK0xDBw0suF1+H0iJ8xpxToDabnWqRJW0toydYcFMNeW6XtMl0qImNWDERzB/aqMQqZsjsIJ2KoXHBrChfcAIljqQd6zKO2LLiV+BOYB3ZACr1LaA9jpg5ukvAhlWtahzLtv+YXypn/S2u1FKXzodHT0SlNlpm5rs3dpqwZAV4ZiEvypIqQWOR1LM/W9pNrXC6JrhcD+PULgC/ZVHkHjCBIvmpkFUnO237dQ==;6WD0VhOq6GMOqPpsxmnjrg=="
 ---

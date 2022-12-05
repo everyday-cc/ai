@@ -8,7 +8,7 @@ webUrl: "https://singularityhub.com/2022/12/05/deepminds-latest-ai-trounces-huma
 ampWebUrl: "https://singularityhub.com/2022/12/05/deepminds-latest-ai-trounces-human-players-at-the-game-stratego/?amp=1"
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/12/05/deepminds-latest-ai-trounces-human-players-at-the-game-stratego/?amp=1"
 type: article
-quality: 74
+quality: 76
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://singularityhub.com/wp-content/uploads/2022/12/stratego-board-game-pieces-blue.jpeg"
@@ -129,6 +130,6 @@ related:
         height: 630
         isCached: true
 
-secured: "hozy4xZBc47gd4RdC869bXT+N8xfVbG6wnVjEGHUiNXPCS2rbJnDf1DwHwIEYqr7E9g3RXEkBoTjS1fWYCSOcKzCRVsARTPPRcKOw6WKuLAJ3xoCERvajWmHxn3+55avknIkuwdgajRqQby7E6BHe3rrNqGAXqCJRt9+xOiU8RIRrVZxjKJlxdPqgZpvrX16WK7o0YLSGfH2diIVAh8B9EeX9rs4Fg8cMa3Uyd8jvF37YTptdc+R1fc/ylmvM5uZyk9QuP/d/9uR4CtDFqM7Bmk0sdH67/juoIzHVvimPcwJMCfjp09qfymqJwM3F87Bc3Z8zuq04f4CKApchsTxzp62cQ1x0Imekw3T6jeBpBc=;KKbYe9YnmdNFKEZ92Us0Zw=="
+secured: "PRo/DrMCuonaIP3J+ctubEQD3Yin73eRuutM5A19eTMatFWbTx73wnWJMYAdfdgeJcVglNI5CO08YxectcvCuwbm+ovfB5X7OlPXKE4Olj/UCL0DYZlANp92ify1AUe3nRXxli2nXYohXLwbSmhYs7kZj1EMv6QKGErbWpZEnxV4/Cxa670yarjjMTJdTy+Lv8k11Vm0Pf5TIb0byPwbMJuPQWiC7XFuyGa6rlmO5KCHLe/FtvrG/fWzJT9Wf2ZZGH8XrZ/Zy3pYuHYKxnFn7a69K6LuACYd6MC8WE+2pOC+KfiQOB8HrsXoxfQgST2y4YnJbxGBmP+/nATsMKGGwabpxrnRlA+zaJ1hrVSRCrBFsk2Q+bzO2/C1rxkjOCv6YUzjfxC9JpiwTFEgYo69HyUZ48llVMYLErGImg19bcolgM1a1rGUaRd+5IsY7PWBtvOi5MG5fOeRcoDN+VHdoEUOjJ5b5R1kZGc9M6J0JWqCJZ1AUZ+yT3OnX3isn4HJZ2VO6ekJgH+iRXuzYz9Qgw==;BkFh/eeYBZGii44KKeLLww=="
 ---
 

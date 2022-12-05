@@ -216,15 +216,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 21
-  - title: "ThunderSoft Joins the Amazon SageMaker Ready Program"
-    excerpt: "ThunderSoft, announced today it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner software solutions that are validated by Amazon Web Services (AWS) Part"
-    publishedDateTime: 2022-12-01T04:42:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-12/57729270-thundersoft-joins-the-amazon-sagemaker-ready-program-004.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 19
   - title: "Weights and Biases Joins the Amazon SageMaker Ready Program"
     excerpt: "Weights & Biases, the developer-first MLOps platform, announced today it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner"
     publishedDateTime: 2022-12-01T13:01:00Z
@@ -242,6 +233,15 @@ related:
     provider:
       name: datanami.com
       domain: datanami.com
+    quality: 19
+  - title: "Foursquare to Power Geospatial Data Visualization in Amazon SageMaker"
+    excerpt: "Foursquare capability in Amazon SageMaker allows customers to easily visualize planetary-scale geospatial data for machine learning Foursquare, the leading independent location technology company, exc"
+    publishedDateTime: 2022-12-05T17:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/12/b29962022/foursquare-to-power-geospatial-data-visualization-in-amazon-sagemaker"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 19
 
 secured: "1eMq/rDKqgTA7FoSM/y9twvrn0nq/6jvMLUfCsdPbeGSsSjQGghDJ8ycps6e2SzWAjSuUIZKgbI0hVktESXO60jDXIsLxZY54rYLexv0NBHk0i9HHF3aaK+19llCdiiHQGXJ4Fs4GaxX+gffgN3xoInGzFi/vsXXBgouvdAFGRbtdCwQX3g/PK33Lkeo5tz2zeIKPImJfsNFVwabdelwp8YEHStGFhnrLe2YuyYA6zq4rasKvJOjeROdciks23iSnal8RczWZE+qfSPte+NeGcDIiYrd45l2G47jJWe1eD8/H0fEt4zu+bPbtrOFO+NoaD0EA2gqNGTr2BBBEFc4B+qva7+wckYQJNt1kC59Wic=;bZtyVg6oVwRYFhwDa3McDQ=="

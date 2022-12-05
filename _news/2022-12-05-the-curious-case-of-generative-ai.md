@@ -94,6 +94,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "Runway Raises $50 Million At $500 Million Valuation As Generative AI Craze Continues"
+    excerpt: "Runway ML, one of the two startups behind the popular AI text-to-image model Stable Diffusion, has raised new funding at a $500 million valuation, Forbes has learned."
+    publishedDateTime: 2022-12-05T20:19:00Z
+    webUrl: "https://www.forbes.com/sites/kenrickcai/2022/12/05/runway-ml-series-c-funding-500-million-valuation/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 40
   - title: "Stability AI make AWS a Preferred Provider"
     excerpt: "The combination of AWS and Stability AI has the power to create monumental shifts in the potential applications of artificial intelligence."
     publishedDateTime: 2022-12-01T18:48:00Z

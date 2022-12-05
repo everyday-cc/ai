@@ -53,7 +53,7 @@ related:
     provider:
       name: Singularity Hub
       domain: singularityhub.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://singularityhub.com/wp-content/uploads/2022/12/stratego-board-game-pieces-blue.jpeg"
         width: 1068

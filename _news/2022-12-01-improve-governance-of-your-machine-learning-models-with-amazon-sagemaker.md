@@ -217,15 +217,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 21
-  - title: "ThunderSoft Joins the Amazon SageMaker Ready Program"
-    excerpt: "ThunderSoft, announced today it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner software solutions that are validated by Amazon Web Services (AWS) Part"
-    publishedDateTime: 2022-12-01T04:42:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-12/57729270-thundersoft-joins-the-amazon-sagemaker-ready-program-004.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 19
   - title: "Weights and Biases Joins the Amazon SageMaker Ready Program"
     excerpt: "Weights & Biases, the developer-first MLOps platform, announced today it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner"
     publishedDateTime: 2022-12-01T13:01:00Z
@@ -243,6 +234,15 @@ related:
     provider:
       name: datanami.com
       domain: datanami.com
+    quality: 19
+  - title: "Foursquare to Power Geospatial Data Visualization in Amazon SageMaker"
+    excerpt: "Foursquare capability in Amazon SageMaker allows customers to easily visualize planetary-scale geospatial data for machine learning Foursquare, the leading independent location technology company, exc"
+    publishedDateTime: 2022-12-05T17:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/12/b29962022/foursquare-to-power-geospatial-data-visualization-in-amazon-sagemaker"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 19
 
 secured: "SX+gbeSuFyOwS5XQYKFubBiXlgt9bAbgsi6qCZqZy4OlRlV9hZibpQ7M/3iyWcgR8vuhb5irH+DcQ+Wbs0F8q9hhuOZfjv+huhC8kFvxTSPA2kg36g23fVjIvKjzIvzk9YSD/H8wzhRUU28AjjjbIq+ZvyV9gU3GUokrx79PgqfUFqcF4AxiJAiuQ66+SYo30Yk6NokENkeSwB4v5+Q65SFJ5cx2I89mODJ+beJo1RGjK+VzsIpeuNdRQBs5Md7SAhLf5O8OviDI+aEQPVMPXlRD0SjzPm8aErnLDaheny49cPVmUO9u3pDiiFFAF8yclkb5dy/HczzGl6wKzgQOytc3+I2TG6hjDvihlissNiM=;MDCzNoVxPzdow9vDXeBYyA=="

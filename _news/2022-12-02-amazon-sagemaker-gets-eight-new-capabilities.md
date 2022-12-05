@@ -212,15 +212,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 21
-  - title: "ThunderSoft Joins the Amazon SageMaker Ready Program"
-    excerpt: "ThunderSoft, announced today it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner software solutions that are validated by Amazon Web Services (AWS) Part"
-    publishedDateTime: 2022-12-01T04:42:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-12/57729270-thundersoft-joins-the-amazon-sagemaker-ready-program-004.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 19
   - title: "Weights and Biases Joins the Amazon SageMaker Ready Program"
     excerpt: "Weights & Biases, the developer-first MLOps platform, announced today it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner"
     publishedDateTime: 2022-12-01T13:01:00Z
@@ -238,6 +229,15 @@ related:
     provider:
       name: datanami.com
       domain: datanami.com
+    quality: 19
+  - title: "Foursquare to Power Geospatial Data Visualization in Amazon SageMaker"
+    excerpt: "Foursquare capability in Amazon SageMaker allows customers to easily visualize planetary-scale geospatial data for machine learning Foursquare, the leading independent location technology company, exc"
+    publishedDateTime: 2022-12-05T17:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/12/b29962022/foursquare-to-power-geospatial-data-visualization-in-amazon-sagemaker"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 19
 
 secured: "px8xju+hAj7CvAHA0cZaFWQOu41+YLd14k7z2Ro6AwpHPHbJe+7jE97IeL9geRc2mjKqgfH1ORi16xSfulkQweJpSLJWaBLRyyFqLOyjif3gK+HgNPm76tIiMJD00OpvOkoJSqEdbNzvvshO8USY5e5zxyNZpPCZ/w2VZ1s9HIOTT2ciDF/aj5yVROVenQvvDJPAF3iUmW+dX6bJMIN2T43TTJDgiU4acBSzgr49dYMURgBO1lNVfLgY/MSznOCOrxFwap4hc79bSZZHpsnXlufPb9Ijrd1H4iyRmE0n0krcQ4mdOEqgyzygqz9eQzNDEKsfAdexAlt3gPjIdu7Yh3UlVR0izGZnOBwOJOqG3aK7/dTb3ZkAmkmdOSPJRS7sc+FioG9On2t78Jl5IydXw9omd2ucSoZilzACR3bBRPE1+J98CNGtMR98JN4Noq5sRx+juD2sOCnYYbv5XpxtF6kq+sNi4ZYIYcHbHsrsyAO8Oj2yhDiZilZSigWeMnI+jlhbsl0gSe4F99fsAhAytA==;bLERLb3U1L73PwCB9k4esw=="

@@ -41,20 +41,6 @@ related:
         width: 600
         height: 314
         isCached: true
-  - title: "San Francisco Police Can Use Robots To Kill Suspects"
-    excerpt: "A recent law allows San Francisco Police to use robots for killing in extreme situations.  The department included this provision in a new “Law Enforcement Equipment Policy” that passed"
-    publishedDateTime: 2022-12-01T04:21:00Z
-    webUrl: "https://technology.inquirer.net/119871/san-francisco-police-robots"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 39
-    images:
-      - url: "https://technology.inquirer.net/files/2022/12/Police-Robots-featured-image-www.fox26medford.com_-620x349.png"
-        width: 620
-        height: 349
-        isCached: true
   - title: "San Francisco approved killer police robots. Will other California departments follow?"
     excerpt: "Dallas Morning News file The San Francisco Police Department was given the authorization to use remote-controlled robots for potentially deadly force after a heated debate over civil liberties and warnings about the continued militarization of police."
     publishedDateTime: 2022-12-03T12:00:00Z

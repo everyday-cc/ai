@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-05T18:21:00Z
 originalUrl: "https://www.crn.com/news/cloud/slack-ceo-butterfield-to-leave-salesforce"
 webUrl: "https://www.crn.com/news/cloud/slack-ceo-butterfield-to-leave-salesforce"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: CRN

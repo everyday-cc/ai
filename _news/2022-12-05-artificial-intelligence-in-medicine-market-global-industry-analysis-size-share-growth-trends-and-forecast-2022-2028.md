@@ -28,66 +28,26 @@ images:
     isCached: true
 
 related:
-  - title: "AI Accelerator Chip Market 2022 to Eyewitness Massive Growth by 2028"
-    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"AI Accelerator Chip Market\" Insights 2022 | By"
-    publishedDateTime: 2022-12-01T06:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-2022-to-eyewitness-massive-growth-by-2028-2022-12-01"
+  - title: "Lawful Interception Global Market Report 2022: Leveraging AI, Machine Learning and Blockchain Technology Crucial for Future Growth"
+    excerpt: "Market-trend-based strategies for the lawful interception market include focus on leveraging artificial intelligence (AI), machine learning and blockchain technologies, focus on strategic partnerships and acquisitions, focus on research and development ..."
+    publishedDateTime: 2022-12-05T08:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/12/g29953663/lawful-interception-global-market-report-2022-leveraging-ai-machine-learning-and-blockchain-techno"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29953663"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29953663"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
+        width: 800
+        height: 313
         isCached: true
-  - title: "Artificial Intelligence (AI) Market 2023 Is Flourishing Around the World by 2026"
-    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. [131 Pages Report]\"Artificial Intelligence"
-    publishedDateTime: 2022-12-02T04:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-2023-is-flourishing-around-the-world-by-2026-2022-12-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 79
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-Care Medical Devices Market to Witness A Pronounce Growth During 2023-2026"
-    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. [118 Pages Report]\"Self-Care Medical Devices"
-    publishedDateTime: 2022-12-02T06:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-care-medical-devices-market-to-witness-a-pronounce-growth-during-2023-2026-2022-12-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in Telecommunication Market 2023-2027 Find Out Essential Strategies To Expand The Business And Top Key Players"
-    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. [123 Pages Report]\"AI in Telecommunication"
-    publishedDateTime: 2022-12-01T06:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-2023-2027-find-out-essential-strategies-to-expand-the-business-and-top-key-players-2022-12-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Discover How Artificial Intelligence Based Medical Device Market 2023-2026 is Estimated Drive the Industry Growth Across World in Coming Year"
-    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Artificial Intelligence Based Medical Device"
-    publishedDateTime: 2022-12-05T05:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/discover-how-artificial-intelligence-based-medical-device-market-2023-2026-is-estimated-drive-the-industry-growth-across-world-in-coming-year-2022-12-05"
+  - title: "Artificial Intelligence Market Global Investor, Latest Trends, Industry Growth, Size, Segmentation, Future Demands, by Regional Forecast to 2028"
+    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations"
+    publishedDateTime: 2022-12-02T09:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-investor-latest-trends-industry-growth-size-segmentation-future-demands-by-regional-forecast-to-2028-2022-12-02"
     type: article
     provider:
       name: MarketWatch

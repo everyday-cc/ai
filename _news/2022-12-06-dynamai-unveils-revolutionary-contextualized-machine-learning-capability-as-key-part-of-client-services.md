@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-05T19:05:00Z
 originalUrl: "https://www.automation.com/en-us/products/december-2022/dynam-ai-contextualized-machine-learning"
 webUrl: "https://www.automation.com/en-us/products/december-2022/dynam-ai-contextualized-machine-learning"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Automation

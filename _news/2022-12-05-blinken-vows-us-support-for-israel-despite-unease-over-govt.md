@@ -7,7 +7,7 @@ originalUrl: "https://www.nbcnews.com/politics/politics-news/blinken-vows-us-sup
 webUrl: "https://www.nbcnews.com/politics/politics-news/blinken-vows-us-support-israel-unease-govt-rcna60033"
 type: article
 quality: 54
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
     provider:
       name: PBS
       domain: pbs.org
+    quality: 4
+  - title: "Blinken Vows U.S. Support For Israel Despite Unease Over Government"
+    excerpt: "Secretary of State Antony Blinken said the U.S. will remain a friend of Israel even as it pursues goals that Prime Minister Netanyahu has opposed."
+    publishedDateTime: 2022-12-05T20:55:00Z
+    webUrl: "https://www.newsy.com/stories/blinken-vows-u-s-support-for-israel-despite-unease/"
+    type: article
+    provider:
+      name: Newsy
+      domain: newsy.com
     quality: 4
 
 secured: "v1+W4g0DMuHrGoJbii4itk4eq56w7o7OytP4mJWPaaQFXAxlXGP1VXBTfzxUCHk3oqemuc7SLc6sR6k4GB98x+hOyK18jkrIkWtBSI9ap+q0I5vpNCne0rCw+XYPI6VrIHViINV9nBYAfk6xadMsTQYOrRPmqAY59IFrqIGlPhUXUXKBN0frUNHsKxdUu1Tt/tp1mxC+qHDV67HBFRmP9EsOIyyfDQYAfkEwgkhJ73dvhq9O4GmZO2Dj3vUkUpt2zsP5mHDaDju11wMf0PyJd3zo8fUdwQLfxPNl852J8fBvu8YJP841C0Ws5nl4GLLRi/rFzPAxZz3tc6f9dip2C+9Q3XIi33iM9srR3aT2TY+t72Abrgu4j3NCHDfDCsUD+2dU1xqV8qQYWy3MUeFu/LN5JtqAI3OA4wh7Fh239S44rn+jRnVF0PcKVZ/q4LZN+aX3t/kyzCaZUpjW02nVEmE3bWIUzIhiqZipKeI5m73+JwlbO5H5V/rYG9D7kVfjQV+0XAWnz2IVLmrREXDUkQ==;Y4En5G8C7WGjgjVmfCv9LQ=="

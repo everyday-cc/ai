@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-devic
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-2023-research-report-analysis-by-top-competitors-demand-and-size-share-estimation-by-2028-market-divergence-2022-12-02"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -29,29 +29,20 @@ images:
     isCached: true
 
 related:
-  - title: "Good Afternoon, News: Takeoff Was an Innocent Bystander, Portland Resignation Tea, and Seal Facial Recognition"
-    excerpt: "SEAL PRIVACY RIGHTS: I know we hate facial recognition... but hear a research team at Colgate University out. They've developed a database of dozens of faces, of seals, in Maine’s Casco Bay. And they're calling it SealNet. And they're tracking the seals."
-    publishedDateTime: 2022-12-03T00:40:00Z
-    webUrl: "https://www.portlandmercury.com/good-afternoon-news/2022/12/02/46223720/good-afternoon-news-takeoff-was-an-innocent-bystander-portland-resignation-tea-and-seal-facial-recognition"
+  - title: "The TSA’s facial recognition technology may expand nationwide in 2023"
+    excerpt: "The TSA could potentially expand their facial recognition identification system nationwide in 2023. Veuer’s Maria Mercedes Galuppo has the story."
+    publishedDateTime: 2022-12-05T18:29:00Z
+    webUrl: "https://omaha.com/travel/the-tsa-s-facial-recognition-technology-may-expand-nationwide-in-2023/video_ab85d6f8-fcb8-5c96-a73c-c6b250579358.html"
     type: article
     provider:
-      name: The Portland Mercury
-      domain: portlandmercury.com
-    quality: 19
+      name: Omaha.com
+      domain: omaha.com
+    quality: 39
     images:
-      - url: "https://media1.fdncms.com/portmerc/imager/u/large/46224098/gettyimages-1049444220.jpg"
-        width: 700
-        height: 467
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/a/b8/ab85d6f8-fcb8-5c96-a73c-c6b250579358/638e23e3ec507.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Global Machine Learning as a Service Market Report 2022 to 2028: Players Include Oracle, Google, Amazon Web Services and IBM - ResearchAndMarkets.com"
-    excerpt: "The \"Global Machine Learning as a Service Market Size, Share & Industry Trends Analysis Report By End User, By Offering, By Organization Size, By Application, By Regional Outlook and Forecast, 2022 - 2028\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2022-12-01T12:56:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-12-1-global-machine-learning-as-a-service-market-report-2022-to-2028-players-include-oracle-google-amazon-web-services-and-ibm-researchandmarketscom"
-    type: article
-    provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 1
 
 secured: "30AplhHpeGNZldJk4+250qpkEZNZnVt9O86fsRH67COs+F49XxN3+U1mH9FgI23c8055fyQdHL0kIKqhmYJLWrg4o9P8PL/i9QcUmyJ9XwMTflcf+yiJ9Yz7WK9vNQJ+selahnV6RlAMrM6dyqORClucqpjjdcDieznVGxwiR++BGX3hqRNjeSnVrsXsWW/wy2OrNI1X0Sd8H6yxdLRYKs3MHmPv3b4J/AB7znFechMFYlr/cRWiveD9kQrJ8/PMsQ4XKVFR3eo/xYHWMd7oBtJFmN52/WZXY6ckCqyFSQ2e5OncWcM4tUvsPH2WUSMgWLrKp7R0uKK4hyfnG2juuxRMeJuOJWwEqaSIuSX1Fvk=;n+AHxzU9XdkvNFCUFJBVaw=="
 ---

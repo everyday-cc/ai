@@ -41,34 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Artificial Intelligence (AI) in Fintech Market 2023 Expected to Reach Significant Rate by 2027"
-    excerpt: "As per latest research on Artificial Intelligence (AI) in Fintech Market (Report spread across 105 Pages), the growth"
-    publishedDateTime: 2022-12-02T05:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-2023-expected-to-reach-significant-rate-by-2027-2022-12-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 72
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Founder of AcuFi, Nick Kohlschreiber, Shows Small Businesses how to Use FinTech"
-    excerpt: "The innovative products and services offered by fintech companies are considered a critical element in the pursuit of financial inclusion and greater equality on a global scale, especially after the devastating impact of the pandemic."
-    publishedDateTime: 2022-12-01T04:41:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273137541/founder-of-acufi-nick-kohlschreiber-shows-small-businesses-how-to-use-fintech"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 20
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1669696179600.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "How FinTech is Transforming Financial Services and Ushering in an Amazing New Normal"
     excerpt: "One area where technology has made deep inroads into the human experience is financial services. Thanks to FinTech, many of us don’t need use paper cheques, visit a bank branch to update our passbooks,"
     publishedDateTime: 2022-12-01T12:08:00Z

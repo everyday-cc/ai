@@ -28,6 +28,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "The Rise Of Robots — Already Here, More Are Coming - Financial News Media"
+    excerpt: "Knightscope robots have 1.8-plus million hours of operation ... robotic, electric vehicles and artificial intelligence. The company uses all these technologies to deliver comprehensive systems that effectively give its customers extra eyes, ears and ..."
+    publishedDateTime: 2022-12-05T20:00:00Z
+    webUrl: "https://menafn.com/1105269620/The-Rise-Of-Robots-Already-Here-More-Are-Coming-Financial-News-Media"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 18
 
 secured: "HkdbP/VdWtFBs+XX3u5rxLrnHkiRxwgE99xlqFWyh/WNsWzgeNsZwdhhJwh94XOGXWqIlntFl486kGI7Aoi+WzbJvUdS/aUm7Hu4xFVS4b1aQeYIE3nfKNeKIHaOVbFoom5lOZieGx82WWvxywu2Fn8255vZLWb9VJYFn2bVzV/mgkujl+sQIJm8o5wj2bIRXbhfkgW3NeI8dwqRfOqI86jrxqhkpq/zADdFh7ZSPKJgdfgcZxV+j46r+9ggC6CbYPL1Unpoyx8TadHriM6sFWqdwdbk6RD8ReKq6kR5VYaQDzk147dzyYmRPKua0aGObtsAO88mCh7Izm6aX+52rcaieMJKxGm/oERFRhMpfOE=;/wuW+7wuSaCOez0DzigiUA=="
 ---
