@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Honda Plans New Autonomous Features but Sees Long Road Ahead to Self-Driving Cars"
-    excerpt: "The auto maker said it would focus for now on partially autonomous driving technology to improve safety, joining others that say fully self-driving cars aren’t ready for prime time."
-    publishedDateTime: 2022-11-30T14:19:00Z
-    webUrl: "https://www.wsj.com/articles/honda-plans-new-autonomous-features-but-sees-long-road-ahead-to-self-driving-cars-11669820402?mod=latest_headlines"
+  - title: "Honda to develop advanced level 3 self-driving technology by 2029"
+    excerpt: "TOKYO, Dec 1 (Reuters) - Honda (7267.T) said it would develop technology enabling its level 3 self-driving capability to function at any speed below legal limits on highways by the second half of ..."
+    publishedDateTime: 2022-12-01T03:15:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/honda-develop-advanced-level-3-self-driving-technology-by-2029-2022-11-30/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 49
+      name: Reuters
+      domain: reuters.com
+    quality: 54
     images:
-      - url: "https://images.wsj.net/im-676004/social"
-        width: 1280
-        height: 640
+      - url: "https://www.reuters.com/resizer/QrJXIFEIbZhsR71wwDc8QVbn9Wk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XQGVWFZPRBOVFNJTGYYIWL7DH4.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Honda Plans New Autonomous Features but Sees Long Road Ahead to Self-Driving Cars"
     excerpt: "HAGA, Japan—Honda Motor Co. said it would focus for now on partially autonomous driving technology to improve safety, adding itself to the list of auto makers that say fully self-driving cars aren’t ready for prime time. The Japanese auto maker ..."

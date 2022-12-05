@@ -1,14 +1,11 @@
 ---
 category: news
 title: "First Minister speech disrupted by gender recognition protester"
-excerpt: "The woman who interrupted the First Minister's speech said the change in law would ... that the request not to discuss the Gender Recognition Reform Bill was made by the First Minister or officials."
-publishedDateTime: 2022-11-30T11:43:00Z
-originalUrl: "https://www.heraldscotland.com/politics/23159210.first-minister-speech-disrupted-gender-recognition-protester/?ref=yahoo"
-webUrl: "https://www.heraldscotland.com/politics/23159210.first-minister-speech-disrupted-gender-recognition-protester/?ref=yahoo"
+excerpt: "NICOLA Sturgeon’s keynote address to mark the 30th anniversary of the Zero Tolerance campaign was disrupted by a heckler protesting against"
+publishedDateTime: 2022-11-30T10:40:00Z
+originalUrl: "https://www.heraldscotland.com/politics/23159210.first-minister-speech-disrupted-gender-recognition-protester/?ref=rss"
+webUrl: "https://www.heraldscotland.com/politics/23159210.first-minister-speech-disrupted-gender-recognition-protester/?ref=rss"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
   name: heraldscotland
@@ -24,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "X4FzYDKM9rhNOmm6P5Tqfc55lC1uAGvOUfdgV/OOeI4GtdoK3AIQKjI1zlh2mmexI5ek1LodhPW4G29LM9SWRtuHkpEsb956hkXY2p/wH+InxrTJUheM3Ti7SNTxbUG8LaTvgd2Oc7UMKFzYfHsT/ABZXQ/nBJ+KvWHhL50rFdI6F+ZJQEb0RrpBXrGUKU1ePM+qUDnqozlPCrPROC7kCv1G4je6dUjq/vwA2sYOBGSPT9kxeJqrOZD8CQW9ffbKSb8kAaYg9BeKSDlslJegyt/ZW/DchhY40mLQZxFjUiLg8uaTmdxpNLJjD2rZ0mjDjCXTTHRwSNkLiyAZGKQxxd4An+9agXbfSGdeEiJPyUI=;L3weewFJUITKn+z97HoxmA=="
+secured: "SJ8joRwwDLsYgzVOtdceUB7nrJviRe4unZzO7ku5VWJOZKac8aFG90QNjMu2xEpr1op9R7+lLvp89++M12K/R53Nv5lsMGddvLI9+kmEA93I9P/EGsTHMG83qoxEN5JpmWbq/gEtYQiZ2xrU9Xs5n/HmiSTLglupvs+nFR5ADy2ayTMKrbASlejR4G3rP/I1Qx5QoKbd525eCCwfrv9reiBSCc1B4ke6EOweN3HBbi8b+lchUlnoKWJkOVGXsk06cEQgTpJqbpoACo2aZE0+Ut1GC9VQ9xufWJBOHDIVEgB4DNnetLqA8P+/J3GXdNSxtn+5FaCq5mz+//IT99DYe3rR1C5OnsDlGemsuJWwpns=;SrdJlwowokx5MSpE5fGzLw=="
 ---
 

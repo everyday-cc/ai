@@ -7,7 +7,7 @@ originalUrl: "https://www.nbcnews.com/politics/politics-news/blinken-vows-us-sup
 webUrl: "https://www.nbcnews.com/politics/politics-news/blinken-vows-us-support-israel-unease-govt-rcna60033"
 type: article
 quality: 54
-heat: 75
+heat: 76
 published: true
 
 provider:

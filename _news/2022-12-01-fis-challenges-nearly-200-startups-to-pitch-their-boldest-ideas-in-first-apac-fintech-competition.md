@@ -137,15 +137,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Fintech Start-up Backed by Revo Capital, Autotech Ventures and InMotion Ventures Raises £26 Million in Series A Extension Round"
-    excerpt: "Car repairs payment platform  has raised £26.1 million ($30 million) in investment from its Series A extension round, with automotive giants and venture capitals Autotech Ventures, InMotion Ventures (the investment arm of Jaguar Land Rover),"
-    publishedDateTime: 2022-11-30T13:33:00Z
-    webUrl: "https://financialit.net/news/fundraising-news/automotive-fintech-start-backed-revo-capital-autotech-ventures-and-inmotion"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 0
 
 secured: "xoKN67ik0gW4Os5ta+ccrGQoT8qKA4wBEsH3x0qAJxvkmvdl2i+6KPkcEL+ethSDy28ou/RhVk/1/xbE3mfidLteeEu9do83+HzSj50VsAJSrrEk1d2lJWz6UHDQ0L5j2T9xzzSQYUdV6gz+pHGf+K5rweiKVY/YkHLtk7EON7RO+5QCwgaAh+Z+lQD2kyBXtwYYnFnEpQhELL/rBUpm9vsL85nUnLgcQ7SId/h/YI9ZzLrf/On12VMWEnSzD7yCSKv+r4ew0L5V5xQW3dt/cNk296aa0CGSZBO6JVM0gKVCNBUPE5aC6lGFxFgWXN4uuaU67/+rxEz9mX0+r9tKBKdyKsf8fSzUgQR8jLBD3Yc=;fgEej4Mg1yNIwAX7vPOSQQ=="
 ---

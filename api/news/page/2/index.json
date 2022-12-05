@@ -2,6 +2,108 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-12-02-lensa-ai-climbs-the-app-store-charts-as-its-magic-avatars-go-viral.md",
+      "title": "Lensa AI climbs the App Store charts as its ‘magic avatars’ go viral",
+      "excerpt": "The current No. 1 App Store photo app, Lensa AI uses the Stable Diffusion deep learning model to generate artsy \"magic avatars\" for consumers.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/12/01/lensa-ai-climbs-the-app-store-charts-as-its-magic-avatars-go-viral/",
+      "originalUrl": "https://techcrunch.com/2022/12/01/lensa-ai-climbs-the-app-store-charts-as-its-magic-avatars-go-viral/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/12/lensa-ai-magic-avatar.jpg?resize=1200,730",
+          "width": 1200,
+          "height": 730,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/12/01/lensa-ai-climbs-the-app-store-charts-as-its-magic-avatars-go-viral/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/01/lensa-ai-climbs-the-app-store-charts-as-its-magic-avatars-go-viral/amp/",
+      "publishedDateTime": "2022-12-01T15:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-disneys-new-ai-can-make-your-favorite-actor-look-older-or-younger.md",
+      "title": "Disney's New AI Can Make Your Favorite Actor Look Older or Younger",
+      "excerpt": "The process overcomes the \"facial identity loss, poor resolution and unstable results\" that plague other methods, researchers say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/culture/entertainment/disney-ai-can-make-your-favorite-actor-look-older-or-younger/",
+      "originalUrl": "https://www.cnet.com/culture/entertainment/disney-ai-can-make-your-favorite-actor-look-older-or-younger/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/37cc5fef7f5a9a8de450dc85cfd56b9fcb4e29fb/hub/2022/12/01/ab5551c3-7c15-43a9-a8fe-97fda2b142b9/frank.png?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/disney-ai-can-make-your-favorite-actor-look-older-or-younger/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/disney-ai-can-make-your-favorite-actor-look-older-or-younger/",
+      "publishedDateTime": "2022-12-01T15:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-02-deepminds-new-ai-uses-game-theory-to-trounce-humans-in-stratego.md",
       "title": "DeepMind's New AI Uses Game Theory to Trounce Humans in 'Stratego'",
       "excerpt": "Researchers from Alphabet- owned DeepMind, according to new research shared with Gizmodo, say they’ve created a new AI agent capable of playing Stratego at a “human expert level.” The AI, called DeepNash,",
@@ -508,7 +610,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/n-ix-obtains-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1031948094",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 108,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -551,7 +653,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/01/how-fintech-can-help-you-weather-a-recession/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -796,6 +898,58 @@
       ]
     },
     {
+      "path": "_news/2022-12-01-honda-to-develop-advanced-level-3-self-driving-technology-by-2029.md",
+      "title": "Honda to develop advanced level 3 self-driving technology by 2029",
+      "excerpt": "TOKYO, Dec 1 (Reuters) - Honda (7267.T) said it would develop technology enabling its level 3 self-driving capability to function at any speed below legal limits on highways by the second half of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/honda-develop-advanced-level-3-self-driving-technology-by-2029-2022-11-30/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/honda-develop-advanced-level-3-self-driving-technology-by-2029-2022-11-30/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/QrJXIFEIbZhsR71wwDc8QVbn9Wk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XQGVWFZPRBOVFNJTGYYIWL7DH4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T19:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-aws-unveils-machine-learning-ml-tools-for-data-science-in-the-cloud.md",
       "title": "AWS unveils machine learning (ML) tools for data science in the cloud",
       "excerpt": "Amazon Web Services (AWS) detailed parts of its AI/ML strategy and announced a dizzying lineup of feature updates and new services to help organizations to better use the cloud for data science.",
@@ -910,7 +1064,7 @@
       "originalUrl": "https://www.wired.com/story/san-franciscos-killer-police-robots-threaten-the-citys-most-vulnerable/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -1013,7 +1167,7 @@
       "originalUrl": "https://www.cnbc.com/2022/11/30/alzheimers-drug-lecanemab-slows-cognitive-decline-in-dementia-fight.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -1104,153 +1258,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-state-of-ai-december-2022.md",
-      "title": "State Of AI, December 2022",
-      "excerpt": "Sentient or not, MineDojo got Nvidia’s researchers the NeurIPS 2022 Outstanding Datasets and Benchmarks Paper Award, demonstrating their belief that large language models in the future will be “embodied agents that proactively take actions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2022/11/30/state-of-ai-december-2022/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2022/11/30/state-of-ai-december-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6387c6194c3ae06b95db977a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2022/11/30/state-of-ai-december-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/11/30/state-of-ai-december-2022/amp/",
-      "publishedDateTime": "2022-11-30T12:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-here-workspace-the-low-code-platform-tool-for-map-creation-now-comes-with-machine-learning-from-aws.md",
-      "title": "HERE Workspace: The low-code platform tool for map creation now comes with machine learning from AWS",
-      "excerpt": "HERE Workspace adds new low-code mapmaking capabilities and now connects to Amazon SageMaker, AWS's machine learning platform, to further expand the possibilities for customers developing spatial inte",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/11/g29912625/here-workspace-the-low-code-platform-tool-for-map-creation-now-comes-with-machine-learning-from-aw",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/g29912625/here-workspace-the-low-code-platform-tool-for-map-creation-now-comes-with-machine-learning-from-aw",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png",
-          "width": 666,
-          "height": 282,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29912625",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29912625",
-      "publishedDateTime": "2022-11-30T10:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-driverless-parking-service-begins-commercial-operation-at-stuttgart-airport.md",
-      "title": "Driverless parking service begins commercial operation at Stuttgart Airport",
-      "excerpt": "The development partners say that the commercial approval from Germany's Federal Motor Transport Authority to operate its driverless parking system at the APCOA P6 parking garage at Stuttgart ...",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/automotive/mercedes-bosch-commercial-automated-valet-parking-stuttgart/",
-      "originalUrl": "https://newatlas.com/automotive/mercedes-bosch-commercial-automated-valet-parking-stuttgart/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/1d9a14e/2147483647/strip/true/crop/4961x2605+0+93/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fca%2F57%2F77bc3e2b45cbb56a8cb81ce6b578%2F22c0242-007.jpg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T10:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -41,36 +41,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Alzheimer's drug from Eisai and Biogen slows cognitive decline, side-effects in focus"
-    excerpt: "SAN FRANCISCO, Nov 29 (Reuters) - An experimental Alzheimer's drug from Eisai (4523.T) and Biogen (BIIB.O) slowed cognitive decline in a closely watched trial but may carry a risk of serious side ..."
-    publishedDateTime: 2022-11-30T14:56:00Z
-    webUrl: "https://www.reuters.com/business/healthcare-pharmaceuticals/eisai-biogen-alzheimers-drug-slows-cognitive-decline-safety-some-becomes-focus-2022-11-30/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 62
-    images:
-      - url: "https://www.reuters.com/resizer/wPhBmaGeWprDs_43Rc8rO6y48D0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4KT5OLQVG5LAFE33KAKPLQOAOY.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Machine Learning Tools Helps Predict Alzheimer’s Progression"
-    excerpt: "Researchers from Weill Cornell Medicine have used machine learning tools to identify the most accurate timelines and means of anticipating cognitive decline."
-    publishedDateTime: 2022-11-30T13:29:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-tools-helps-predict-alzheimers-progression"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/machine-learning-tools-helps-predict-alzheimers-progression"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/machine-learning-tools-helps-predict-alzheimers-progression"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 59
-    images:
-      - url: "https://healthitanalytics.com/images/sized/2020-09-18-GettyImages-1154235081-e4b00c1efb9503a805928b101c78b499.jpg"
-        width: 480
-        height: 278
-        isCached: true
   - title: "New Alzheimer’s drug can slow cognitive decline"
     excerpt: "Lecanemab is one of the first experimental dementia drugs to appear to slow the progression of cognitive decline. For patients in the early stages of Alzheimer’s, the drug slowed the rate of ..."
     publishedDateTime: 2022-11-30T23:56:00Z
@@ -86,6 +56,22 @@ related:
       - url: "https://fox2now.com/wp-content/uploads/sites/14/2022/11/snapshot-2022-11-30T175453.346.jpg?w=1280"
         width: 1280
         height: 720
+        isCached: true
+  - title: "New Alzheimer’s drug lecanemab shows promise in slowing cognitive decline"
+    excerpt: "Results from the study showed that the drug — lecanemab — led to less cognitive decline in some patients with early symptoms of the disease. The slowing of the loss of cognitive ability was ..."
+    publishedDateTime: 2022-11-30T18:08:00Z
+    webUrl: "https://www.fox13memphis.com/news/trending/new-alzheimers-drug-lecanemab-shows-promise-slowing-cognitive-decline/3CWL4JQF3ZH27CAZND65YAYVSQ/"
+    ampWebUrl: "https://www.fox13memphis.com/news/trending/new-alzheimers-drug-lecanemab-shows-promise-slowing-cognitive-decline/3CWL4JQF3ZH27CAZND65YAYVSQ/?outputType=amp"
+    cdnAmpWebUrl: "https://www-fox13memphis-com.cdn.ampproject.org/c/s/www.fox13memphis.com/news/trending/new-alzheimers-drug-lecanemab-shows-promise-slowing-cognitive-decline/3CWL4JQF3ZH27CAZND65YAYVSQ/?outputType=amp"
+    type: article
+    provider:
+      name: FOX13 Memphis
+      domain: fox13memphis.com
+    quality: 43
+    images:
+      - url: "https://cmg-cmg-tv-10060-prod.cdn.arcpublishing.com/resizer/nF1gRoiy0gi_lbBj462cu6MZrqE=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/FZBNBKTEENC5ZHXNB5V7S6S4XA.jpg"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Alzheimer’s drug lecanemab has ‘moderate’ effect on cognitive decline, new trial data show"
     excerpt: "The phase 3 results, published Tuesday, showed a 27% slower rate of cognitive decline in recipients ... for the Centers for Medicare & Medicaid Services, and the Alzheimer’s Association called ..."

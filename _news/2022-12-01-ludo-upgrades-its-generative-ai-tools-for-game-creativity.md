@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Cerebras Announces 2 AI Partnerships – for Large Language Model Training and ‘Generative AI’ Content Creation"
-    excerpt: "Cerebras Systems, maker of the “dinner plate sized” AI processor, announced two alliances today, one with Cirrascale Cloud Services, provider of deep learning solutions for AVs, NLP and computer vision,"
-    publishedDateTime: 2022-11-30T13:53:00Z
-    webUrl: "https://insidehpc.com/2022/11/cerebras-announces-2-ai-partnerships-for-large-language-model-training-and-generative-ai-content-creation/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 0
-
 secured: "OO3POa5K9nS7ukuEWHIoKTFePmmJ+ekd9y5hNS9oEpw4lQ9lGEk4hDmAvpifSK3ZX1W2zyaM/mSYo/drB2282ySuhRl5DsImMX+UPNWSUs4KM6jvi2Q4F3pTDvypZcqyK92Pn3+GZWgLZMiUyC9RR8FyI9JMTTTnB15bhYtR9ehtefpxqxyhJ+AWPhQfpan02X6f5DFC38VzL0BeO4dCYLUA1HrWAuJcV2Y3uTsyR3H6DPFychWISc+kUncEiGy6FW6/iVQ7AjRsjrqLCdgGkidDT7nmQAvcrnZR4wfLCnXOfDpRhI6XKxCWqjzn34dJuWFRI7LCQO0Z5Lh8wZeG7v7AuKnaJ/g4Qc5fKiqfsM0m/9soWDPpANXtQiiYqzIxsRSTlBoerq6NDwJdmNeBGsSJUD/LvFY8lodcyZ1CIn8TOFmkPMVuraDA8oVQH1MIrpiAEI9so+fKXvVal0tXhy8ccbRd1pvuvX3JMiHvB8uoIwJz7VNW3+nYSAJbUwz2RDa0fMHAJzFut/K4VVsrgQ==;zsKKi/ijAgps3S+D9jJHZA=="
 ---
 

@@ -23,17 +23,6 @@ images:
     height: 590
     isCached: true
 
-related:
-  - title: "AI to be used to mitigate mass shooting threats - Israeli startup Gabriel"
-    excerpt: "CEO: “We can now take proactive steps to protect precious lives and prevent the common pitfalls of active threats such as human indecision, delayed calls to 911 and misinformation.”"
-    publishedDateTime: 2022-11-30T14:29:00Z
-    webUrl: "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-723711"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 16
-
 secured: "TLJ7i9Cr1y9tAJw3xffGXDcXmF3djvXWQVJu8NpqNRvdPdOsVJveJMvmEQj6goyRmmS1bPS1tO5Z9Hr67zcZBcM/AbD67JF1gYUlE4nD9Wo7QUxBXA+V2MHW8CxViqlV11p2gYHmLeYyWhhmCrVeIV/0gIYaoZx0tDi/l9J4kIJqDU8ezvsL1sijaC/azwbBYrrHvcaCYDpdXZ3dQEyyzzXSH54lpdE6rQjqHK5h0SvZSiNXvtIIzbVRNPDo2Vx520kWd4zy/8Rs067WZlZvhimBWkxx9GIv6iRjSVGOJEVpo+p4AWd7/I3VTXpDhwdPY07goxvyCnPlLrWhadu3v5ywSuIyfMOOAbpfd/KffGA=;vBUt06U4xl3WCMIAcvJFUg=="
 ---
 

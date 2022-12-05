@@ -34,20 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 68
-  - title: "NOAA strikes climate modeling R&D agreement with Microsoft"
-    excerpt: "The National Oceanic and Atmospheric Administration will work with Microsoft to improve climate and forecast models through the use of machine learning, the agency announced Tuesday. As part of a new cooperative research and development agreement (CRADA),"
-    publishedDateTime: 2022-11-30T15:00:00Z
-    webUrl: "https://www.fedscoop.com/noaa-microsoft-modeling-agreement/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 39
-    images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2022/10/NOAA.jpg?w=1200&h=500&crop=1"
-        width: 1200
-        height: 500
-        isCached: true
   - title: "Microsoft, Defense Firms Partnering on Modeling and Simulation Capabilities"
     excerpt: "Microsoft is collaborating with defense sector companies as DOD seeks to increase its gaming, exercising, modeling and simulation capabilities."
     publishedDateTime: 2022-12-02T00:46:00Z

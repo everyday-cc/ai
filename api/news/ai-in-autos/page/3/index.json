@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-19-ripe-for-disruption-artificial-intelligence-advances-deeper-into-healthcare.md",
+      "title": "Ripe For Disruption: Artificial Intelligence Advances Deeper Into Healthcare",
+      "excerpt": "Healthcare providers now have a better understanding of what patients really want, and are getting better equipped to address their needs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/11/19/ripe-for-disruption-artificial-intelligence-advances-deeper-into-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/11/19/ripe-for-disruption-artificial-intelligence-advances-deeper-into-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637808e71034975a4f1a9f1a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 488,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/11/19/ripe-for-disruption-artificial-intelligence-advances-deeper-into-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/11/19/ripe-for-disruption-artificial-intelligence-advances-deeper-into-healthcare/amp/",
+      "publishedDateTime": "2022-11-19T02:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-11-19-waymo-unveils-autonomous-all-electric-minivan-that-has-no-steering-wheel-or-pedals-but-sports-three-touchscreens-in-further-push-for-ride-hailing.md",
+      "title": "Waymo unveils autonomous, all-electric MINIVAN that has no steering wheel or pedals - but sports three touchscreens - in further push for ride-hailing expansion",
+      "excerpt": "Waymo currently offers some form of robotaxi ... of hundreds of thousands of clips which are processed using artificial intelligence to accurately identify people, signs and hazards.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-11444903/Waymo-unveils-autonomous-electric-MINIVAN-no-steering-wheel-ride-hailing-expansion.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-11444903/Waymo-unveils-autonomous-electric-MINIVAN-no-steering-wheel-ride-hailing-expansion.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/11/18/19/64703963-0-image-a-72_1668801349110.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-11444903/amp/Waymo-unveils-autonomous-electric-MINIVAN-no-steering-wheel-ride-hailing-expansion.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11444903/amp/Waymo-unveils-autonomous-electric-MINIVAN-no-steering-wheel-ride-hailing-expansion.html",
+      "publishedDateTime": "2022-11-18T14:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-19-fully-driverless-lyft-service-coming-to-los-angeles.md",
       "title": "Fully Driverless Lyft Service Coming to Los Angeles",
       "excerpt": "Los Angeles residents will soon be able to request an autonomous Lyft. The ride-hail platform and AV maker Motional have teamed up to launch a fully driverless ...",
@@ -911,8 +1007,8 @@
       "title": "Comparing Neural Networks Provides a Look Into the 'Black Box' of Artificial Intelligence",
       "excerpt": "Artificial intelligence is everywhere. Once the domain of science fiction, it’s used in everything from virtual assistants, to facial recognition systems, to self-driving cars. But how, exactly, does it work? The answer has actually not been well ...",
       "sourceUrl": null,
-      "webUrl": "https://www.realclearscience.com/articles/2022/11/16/comparing_neural_networks_provides_a_look_into_the_black_box_of_artificial_intelligence_865086.html",
-      "originalUrl": "https://www.realclearscience.com/articles/2022/11/16/comparing_neural_networks_provides_a_look_into_the_black_box_of_artificial_intelligence_865086.html",
+      "webUrl": "https://www.realclearscience.com/articles/2022/11/16/comparing_neural_networks_provides_a_look_into_the_black_box_of_artificial_intelligence_865086.html#!",
+      "originalUrl": "https://www.realclearscience.com/articles/2022/11/16/comparing_neural_networks_provides_a_look_into_the_black_box_of_artificial_intelligence_865086.html#!",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1273,92 +1369,6 @@
         "IBM AI",
         "Microsoft AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-13-tesla-starts-rolling-wide-full-self-driving-v11-update-exciting-and-scary.md",
-      "title": "Tesla starts rolling wide Full Self-Driving v11 update: exciting and scary",
-      "excerpt": "Tesla is starting the rollout of its Full Self-Driving (FSD) v11 update, which is supposed to be the wider release to everyone who bought it.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/",
-      "originalUrl": "https://electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/amp/",
-      "publishedDateTime": "2022-11-12T08:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-highway-to-autonomy-how-the-future-of-5g-will-fuel-the-driverless-revolution.md",
-      "title": "Highway to Autonomy: How the future of 5G will fuel the driverless revolution",
-      "excerpt": "This content was paid for by an advertiser and produced by the Automotive News Content Studio. Mass production and widespread use of automobiles in the early 20th century radically transformed the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/white-paper/highway-autonomy-how-future-5g-will-fuel-driverless-revolution",
-      "originalUrl": "https://www.autonews.com/white-paper/highway-autonomy-how-future-5g-will-fuel-driverless-revolution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-12T02:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

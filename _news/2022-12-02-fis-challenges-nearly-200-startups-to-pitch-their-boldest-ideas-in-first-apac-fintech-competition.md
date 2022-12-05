@@ -129,15 +129,6 @@ related:
         width: 1361
         height: 771
         isCached: true
-  - title: "Automotive Fintech Start-up Backed by Revo Capital, Autotech Ventures and InMotion Ventures Raises £26 Million in Series A Extension Round"
-    excerpt: "Car repairs payment platform  has raised £26.1 million ($30 million) in investment from its Series A extension round, with automotive giants and venture capitals Autotech Ventures, InMotion Ventures (the investment arm of Jaguar Land Rover),"
-    publishedDateTime: 2022-11-30T13:33:00Z
-    webUrl: "https://financialit.net/news/fundraising-news/automotive-fintech-start-backed-revo-capital-autotech-ventures-and-inmotion"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 0
   - title: "FIS Challenges Nearly 200 Startups to Pitch their Boldest Ideas in First APAC Fintech Competition"
     excerpt: "Open to early-stage APAC fintech startups with market-ready solutions, InnovateIN48-Partner Edition welcomed nearly 200 companies from 11 markets, including India, Singapore and Australia, to develop and pitch their innovative ideas to FIS leaders within a 48-hour window."
     publishedDateTime: 2022-12-01T00:00:00Z

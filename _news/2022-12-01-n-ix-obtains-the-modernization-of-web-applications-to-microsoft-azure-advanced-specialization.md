@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/n-ix-obtains-the-m
 webUrl: "https://markets.businessinsider.com/news/stocks/n-ix-obtains-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1031948094"
 type: article
 quality: 68
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "NOAA strikes climate modeling R&D agreement with Microsoft"
-    excerpt: "The National Oceanic and Atmospheric Administration will work with Microsoft to improve climate and forecast models through the use of machine learning, the agency announced Tuesday. As part of a new cooperative research and development agreement (CRADA),"
-    publishedDateTime: 2022-11-30T15:00:00Z
-    webUrl: "https://www.fedscoop.com/noaa-microsoft-modeling-agreement/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 39
-    images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2022/10/NOAA.jpg?w=1200&h=500&crop=1"
-        width: 1200
-        height: 500
-        isCached: true
   - title: "Microsoft, Other Defense Firms Team Up for Modeling & Simulation Work"
     excerpt: "Lockheed, BAE Systems, and other firms are using the Seattle giant's Azure cloud platform to develop training and what-if tools."
     publishedDateTime: 2022-11-30T17:01:00Z

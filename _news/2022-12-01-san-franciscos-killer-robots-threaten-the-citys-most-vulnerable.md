@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/san-franciscos-killer-police-robots-thre
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/san-franciscos-killer-police-robots-threaten-the-citys-most-vulnerable/amp"
 type: article
 quality: 89
-heat: 160
+heat: 150
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CNIOK4VRJNEJ7E4OGQJ7POQXNY.jpeg"
         width: 800
         height: 550
-        isCached: true
-  - title: "San Francisco police to soon deploy robots that can kill"
-    excerpt: "Supervisors in San Francisco voted eight to three to allow city police to use potentially lethal remote-controlled robots in emergency situations. What dangers lie ahead?"
-    publishedDateTime: 2022-11-30T14:51:00Z
-    webUrl: "https://interestingengineering.com/innovation/san-francisco-police-to-soon-deploy-robots-that-can-kill"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://inteng-storage-us.s3.amazonaws.com/2022/11/30/image/jpeg/iXyrmInhKX4wAD3KjSLTayfPB657Cog3S3Btptcu.jpg"
-        width: 1920
-        height: 1280
         isCached: true
   - title: "San Francisco Police Can Use Robots To Kill Suspects"
     excerpt: "A recent law allows San Francisco Police to use robots for killing in extreme situations.  The department included this provision in a new “Law Enforcement Equipment Policy” that passed"

@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-12-chatbot-sophistication-ai-debate
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-chatbot-sophistication-ai-debate.amp"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: techxplore
@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "How ‘Zero-Shot’ AI Is Poised To Revolutionize The Chatbot Industry"
-    excerpt: "\"AI will change the way that we work and run our businesses. Those who are best prepared, and who take advantage of new opportunities now, will reap the rewards.\""
-    publishedDateTime: 2022-11-30T13:57:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2022/11/30/how-zero-shot-ai-is-poised-to-revolutionize-the-chatbot-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2022/11/30/how-zero-shot-ai-is-poised-to-revolutionize-the-chatbot-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2022/11/30/how-zero-shot-ai-is-poised-to-revolutionize-the-chatbot-industry/amp/"
+  - title: "AI chatbot outgrows ‘goldfish’ stage"
+    excerpt: "California-based start-up OpenAI Inc has released a chatbot capable of answering a variety of questions, but its impressive performance has reopened the debate on the risks linked to artificial intelligence (AI) technologies."
+    publishedDateTime: 2022-12-04T16:00:00Z
+    webUrl: "https://www.taipeitimes.com/News/biz/archives/2022/12/05/2003790112"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 37
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63876f7248308995a1c8a8b8/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://www.taipeitimes.com/images/2022/12/05/P12-221205-328.jpg"
+        width: 866
+        height: 577
         isCached: true
   - title: "This AI chatbot is blowing people’s minds. It thinks out of the box, comes up with detailed answers"
     excerpt: "From historical arguments to poems on cryptocurrency, users took to Twitter to share their surprise at the detailed answers ChatGPT provided, after the startup sought user feedback on the AI model Wednesday."

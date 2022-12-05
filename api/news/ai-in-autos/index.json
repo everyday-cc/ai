@@ -355,6 +355,58 @@
       ]
     },
     {
+      "path": "_news/2022-12-01-honda-to-develop-advanced-level-3-self-driving-technology-by-2029.md",
+      "title": "Honda to develop advanced level 3 self-driving technology by 2029",
+      "excerpt": "TOKYO, Dec 1 (Reuters) - Honda (7267.T) said it would develop technology enabling its level 3 self-driving capability to function at any speed below legal limits on highways by the second half of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/honda-develop-advanced-level-3-self-driving-technology-by-2029-2022-11-30/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/honda-develop-advanced-level-3-self-driving-technology-by-2029-2022-11-30/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/QrJXIFEIbZhsR71wwDc8QVbn9Wk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XQGVWFZPRBOVFNJTGYYIWL7DH4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T19:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-driverless-parking-service-begins-commercial-operation-at-stuttgart-airport.md",
       "title": "Driverless parking service begins commercial operation at Stuttgart Airport",
       "excerpt": "The development partners say that the commercial approval from Germany's Federal Motor Transport Authority to operate its driverless parking system at the APCOA P6 parking garage at Stuttgart ...",
@@ -387,6 +439,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-honda-plans-new-autonomous-features-but-sees-long-road-ahead-to-self-driving-cars.md",
+      "title": "Honda Plans New Autonomous Features but Sees Long Road Ahead to Self-Driving Cars",
+      "excerpt": "The auto maker said it would focus for now on partially autonomous driving technology to improve safety, joining others that say fully self-driving cars aren’t ready for prime time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/honda-plans-new-autonomous-features-but-sees-long-road-ahead-to-self-driving-cars-11669820402",
+      "originalUrl": "https://www.wsj.com/articles/honda-plans-new-autonomous-features-but-sees-long-road-ahead-to-self-driving-cars-11669820402",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-676004/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T06:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1380,96 +1484,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-28-tsa-faces-ethical-limits-on-ai-but-advancement-work-must-persist.md",
-      "title": "TSA faces ethical limits on AI, but advancement work must persist",
-      "excerpt": "The potential competitive advantage offered by AI is enormous. Yet transitions from the research lab to practice will remain choppy and uncertain, which will help ensure that progress is measured, methodical and slow.",
-      "sourceUrl": null,
-      "webUrl": "https://www.stripes.com/opinion/2022-11-27/tsa-artificial-intelligence-8207585.html",
-      "originalUrl": "https://www.stripes.com/opinion/2022-11-27/tsa-artificial-intelligence-8207585.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.stripes.com/incoming/iqzdwc-oped-tsa-artificial-intelligence-commentary-get.jpg/alternates/LANDSCAPE_480/OPED-TSA-ARTIFICIAL-INTELLIGENCE-COMMENTARY-GET.jpg",
-          "width": 480,
-          "height": 299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-27T09:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stars and Stripes",
-        "domain": "stripes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-27-how-bitcoin-and-artificial-intelligence-will-free-your-time.md",
-      "title": "How Bitcoin And Artificial Intelligence Will Free Your Time",
-      "excerpt": "The use of technology will give humans more time to practice mindfulness and do the things they want to do, without having to worry about making ends meet.",
-      "sourceUrl": null,
-      "webUrl": "https://bitcoinmagazine.com/culture/bitcoin-and-artificial-intelligence-frees-your-time",
-      "originalUrl": "https://bitcoinmagazine.com/culture/bitcoin-and-artificial-intelligence-frees-your-time",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bitcoinmagazine.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTkzMjU1NjA1NDIxNjE0NjU5/city-of-the-future.png",
-          "width": 620,
-          "height": 409,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bitcoinmagazine.com/.amp/culture/bitcoin-and-artificial-intelligence-frees-your-time",
-      "cdnAmpWebUrl": "https://bitcoinmagazine-com.cdn.ampproject.org/c/s/bitcoinmagazine.com/.amp/culture/bitcoin-and-artificial-intelligence-frees-your-time",
-      "publishedDateTime": "2022-11-26T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bitcoin Magazine",
-        "domain": "bitcoinmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "How ‘Zero-Shot’ AI Is Poised To Revolutionize The Chatbot Industry"
-    excerpt: "\"AI will change the way that we work and run our businesses. Those who are best prepared, and who take advantage of new opportunities now, will reap the rewards.\""
-    publishedDateTime: 2022-11-30T13:57:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2022/11/30/how-zero-shot-ai-is-poised-to-revolutionize-the-chatbot-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2022/11/30/how-zero-shot-ai-is-poised-to-revolutionize-the-chatbot-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2022/11/30/how-zero-shot-ai-is-poised-to-revolutionize-the-chatbot-industry/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63876f7248308995a1c8a8b8/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "As chatbot sophistication grows, AI debate intensifies"
     excerpt: "California start-up OpenAI has released a chatbot capable of answering a variety of questions, but its impressive performance has reopened the debate on the risks linked to artificial intelligence (AI) technologies."
     publishedDateTime: 2022-12-04T11:42:00Z
@@ -55,6 +39,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/the-start-up-openai-de.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "AI chatbot outgrows ‘goldfish’ stage"
+    excerpt: "California-based start-up OpenAI Inc has released a chatbot capable of answering a variety of questions, but its impressive performance has reopened the debate on the risks linked to artificial intelligence (AI) technologies."
+    publishedDateTime: 2022-12-04T16:00:00Z
+    webUrl: "https://www.taipeitimes.com/News/biz/archives/2022/12/05/2003790112"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 37
+    images:
+      - url: "https://www.taipeitimes.com/images/2022/12/05/P12-221205-328.jpg"
+        width: 866
+        height: 577
         isCached: true
 
 secured: "ibaEApPDF/zI25UuvQGtos8n7aPBd8ccc1bfJPeKZyQW/2MX6BbcSVlIemtig7SswRBuV3ZDuWqrdQc85qkgSrTu2vlRljyZ78wqtWzoHVaUoOVQPem+76E01/WOslb7Aw+QMfLajM9sMn4p8QBRzamnzJ4JTZYUjhNIbyEfIvwi11I+8GC45BvjVhpaxDZ8oosz35+BWJoRA8MtQ2Q615/TVxtckz7+g8YQzKiprHbIidXrm279tAlP67Mti0XRJ3JPOOCwKPvkteQsqMmB2CiVG5aifHnb2QuI9uBl2wMzLSEsv3qm5DZ45pCLLI+Sfr0qY7DJ1A31SeAasrE5qCCUhwLCRFeBrngk3o6yN4xwSgCXXJtaZ2eGHiTswoj2DEtz0yI2nz1jf4WeuyFdRC0Rp6yPJWvHgasbJgSNrYnJMQdgZkwj0rjf3pX1pkAewgC6E9nlkRHHNJZpXKaJGy8569rZdpUJFTlSsRwXcVtZ0mgT+D+QaG+UKzzTfkWR8VJnnrpguIwojPeoPJCvuA==;fnKM8F9aEEGyndQJlI0duQ=="
