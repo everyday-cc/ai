@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Artificial Intelligence As A Service Market Worth $96,064.7 Million By 2030: Grand View Research, Inc."
-excerpt: "Artificial intelligence as a service (AIaaS ... IoT solutions in industries such as manufacturing, retail analytics, self-driving cars, and others. This is projected to fuel the market for ..."
-publishedDateTime: 2022-11-21T12:34:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57640709-artificial-intelligence-as-a-service-market-worth-dollar-96-064-7-million-by-2030-grand-view-research-inc-008.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57640709-artificial-intelligence-as-a-service-market-worth-dollar-96-064-7-million-by-2030-grand-view-research-inc-008.htm"
+excerpt: "The global artificial intelligence as a service market size is expected to reach USD 96,064.7 million by 2030, according to a new report by Grand View Research, Inc. The market is anticipated to expand at a CAGR of 37."
+publishedDateTime: 2022-11-21T13:30:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-as-service-market-worth-960647-million-/2022/11/21/9717366.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-as-service-market-worth-960647-million-/2022/11/21/9717366.htm"
 type: article
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "BuV/6aIgq2bUS0VDS7T7X/Wd8+IV9XxudMcRQVQHLuI4hF5dxbTk2eseS7o8/rGecwHQLf8SijzaODOcEGSYz2eNTB4XNHGPs5iuOXA0lovrDfg05zdcjHxyFQHVBFblkdLNljIAh6s11N4vf4CqjM6huEEIp1OXjieKFIMegO22OeoD68hOZjw9qy0qS3tKLt3ZfNPrRUxETWEAVoaQTPO8l5myk95wugBTok+VSdF+b0LO9TkLjAdbDikjQgkdwFkTkaadHhFcJIPW4gGkTiITD7CzZMBb3zcAZ54BplI7GzlyBVN+9ili6aJshUDoHHrUZAmkB5Vb3u5hoedpyFOYvKYe3Szrp10KMxJJRJk=;IsjHgJCSoyTH/gDK0cZjeQ=="
+secured: "TEJ9wkraBl69a+JlP1azguSE/qipv0E1/M6iMXH185uIrUZxYNzLVFgNkVTHECmJP2qXJq1YJWUnwjMOA4j4KkArfLbHjfLLrC3J8Amt/gyqc6HoqO198q4eLSOnFzZA5eSS8aq9pmhSfN1r1M/x9rtYVQzxldhryo0wQkrRo/xMOeVFsRPxQrJXTMHxXOYx75thLEFgopiFBwOOSg6/s9tue94lDNC+NfL0b6DUPHoGcNrtZTqbkJl7YFyFk49gMMKemLUZFfMtEljv4tubmDcuP2PZqH86IIs7Ld4qvVbXv/VZovkCV9Y49Oh6+bXMuyNgxTHBgLU+C3fNrq/IHmFKlepe2Q/t4+u1EAny74o=;jwpVtIFKVi4N2bxQbkzKTA=="
 ---
 

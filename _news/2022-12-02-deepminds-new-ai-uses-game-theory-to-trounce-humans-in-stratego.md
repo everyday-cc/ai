@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/ai-deep-mind-stratego-1849842361"
 webUrl: "https://gizmodo.com/ai-deep-mind-stratego-1849842361"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind spin-off Isomorphic Labs announces drug discovery scale plans"
+    excerpt: "AI drug discovery startup Isomorphic Labs is acquiring talent and a new office as it looks to strike its first business deal"
+    publishedDateTime: 2022-12-05T10:53:00Z
+    webUrl: "https://www.information-age.com/deepmind-spin-off-isomorphic-labs-announces-drug-discovery-scale-plans-123500895/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 39
+    images:
+      - url: "https://s42137.pcdn.co/wp-content/uploads/2022/12/deepmind-spin-off-isomorphic-labs-announces-drug-discovery-scale-plans-scaled.jpg.optimal.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "DeepMind spin-off steps up effort to use AI to create new drugs"
     excerpt: "We use cookies and other data for a number of reasons, such as keeping FT Sites reliable and secure,         personalising content and ads, providing social media features and to         analyse how our Sites are used."
     publishedDateTime: 2022-12-03T15:00:00Z

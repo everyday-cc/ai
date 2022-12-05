@@ -49,20 +49,6 @@ related:
         width: 1565
         height: 780
         isCached: true
-  - title: "Stability AI builds foundation models on Amazon SageMaker"
-    excerpt: "We’re thrilled to announce that Stability AI has selected AWS as its preferred cloud provider to power its state-of-the-art AI models for image, language, audio, video, and 3D content generation. Stability AI is a community-driven, open-source artificial intelligence (AI) company developing breakthrough"
-    publishedDateTime: 2022-11-30T21:01:20Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/stability-ai-builds-foundation-models-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/29/stability-ai-sagemaker.jpg"
-        width: 1563
-        height: 785
-        isCached: true
   - title: "Separate lines of business or teams with multiple Amazon SageMaker domains"
     excerpt: "Amazon SageMaker Studio is a fully integrated development environment (IDE) for machine learning (ML) that enables data scientists and developers to perform every step of the ML workflow, from preparing data to building, training, tuning, and deploying models. To access SageMaker Studio, Amazon SageMaker"
     publishedDateTime: 2022-12-01T18:47:50Z
@@ -239,15 +225,6 @@ related:
         width: 1000
         height: 444
         isCached: true
-  - title: "AWS Announces Eight New Amazon SageMaker Capabilities"
-    excerpt: "Developers, data scientists, and business analysts use Amazon SageMaker to build, train, and deploy ML models quickly and easily using its fully managed infrastructure, tools, and workflows. As customers continue to innovate using ML, they are creating ..."
-    publishedDateTime: 2022-11-30T19:22:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/11/30/aws-announces-eight-new-amazon-sagemaker-capabilities"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 34
   - title: "Domo Joins the Amazon SageMaker Ready Program"
     excerpt: "Domo (Nasdaq: DOMO) announced it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner software solutions that are validated by Amazon Web Services (AWS) Partner Solutions Architects to integrate with Amazon SageMaker."
     publishedDateTime: 2022-12-01T14:28:00Z

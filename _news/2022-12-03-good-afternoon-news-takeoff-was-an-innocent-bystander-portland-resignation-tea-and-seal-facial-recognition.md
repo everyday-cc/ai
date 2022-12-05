@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Good Afternoon, News: Takeoff Was an Innocent Bystander, Portland Resignation Tea, and Seal Facial Recognition"
-excerpt: "SEAL PRIVACY RIGHTS: I know we hate facial recognition... but hear a research team at Colgate University out. They've developed a database of dozens of faces, of seals, in Maine’s Casco Bay. And they're calling it SealNet. And they're tracking the seals."
-publishedDateTime: 2022-12-03T00:40:00Z
-originalUrl: "https://www.portlandmercury.com/good-afternoon-news/2022/12/02/46223720/good-afternoon-news-takeoff-was-an-innocent-bystander-portland-resignation-tea-and-seal-facial-recognition"
-webUrl: "https://www.portlandmercury.com/good-afternoon-news/2022/12/02/46223720/good-afternoon-news-takeoff-was-an-innocent-bystander-portland-resignation-tea-and-seal-facial-recognition"
+excerpt: "The Mercury provides news and fun every single day—but your help is essential. If you believe Portland benefits from smart, local journalism and arts coverage, please consider making a small monthly contribution,"
+publishedDateTime: 2022-12-02T23:16:00Z
+originalUrl: "https://www.portlandmercury.com/articles/2022/12/02/46223720/good-afternoon-news-takeoff-was-an-innocent-bystander-portland-resignation-tea-and-seal-facial-recognition"
+webUrl: "https://www.portlandmercury.com/articles/2022/12/02/46223720/good-afternoon-news-takeoff-was-an-innocent-bystander-portland-resignation-tea-and-seal-facial-recognition"
 type: article
 quality: 19
 heat: -1
@@ -49,6 +49,6 @@ related:
       domain: buffalonews.com
     quality: 1
 
-secured: "9TmaVk4cbDftMsyb1Zkq3PmOh2gnS6/ZOPQnEa0INworJTdIZ57Dssj5nA9KSb8qVnf+8/t5bFbQF8+2+hgQIdEBKmd5/8ppDI2vFH6fmFwC0fxyK0NPlf+sHnE2YHDqlr/i79AkvNHaEFjw9zRVe3bIBMo0dvkUAFr+q0uSsbeK1ug2HGHNOXI4vRegbUtIxAu640waiqxHVncFCoomS65M+NLZIfxZ342FSvROUJWq41V45xDqSgRnErSJ+kStK7U/9hbD3kXw7shzjZ1gSIxSCfSblLAIzxr7HUfC4Hzwvoc3m427crQRpniPaO9cEBHJZYFOSAJYFo1OumoEX2MIXfaviOlE22wlWVJ7fKQOhD09Ns2i2xMgsjv4JANuBHtANW5t/dj5ssiAX1wJs1xSP7udAfOgiIQ/6iqSpYWw8oCZfH2Gfuag6Ezyax9c75ZyFbNxwNprCh0c6DsxHPMqk+Hppsk3qpDkxOJ8vcSGxDbeeT1zx5WqSBJGcZp6kn6ekTxGxmBjE3Z88OtjYw==;NegcAJPbQCFpuAD+wnmGxA=="
+secured: "DO6LjhEq4W79NqeldUR5t/t/5KKI+7w3LHZFJ19GktJuQ4NKb3QOdgQQf7jrUHsHas4NLEhMqcbvy6lVQa/EeQsFNI2QTUd/5lmArly2CTz8bdyHQrm239hA9ES24rfr4dA+9uGgTpO6MQ7NBGIQYnZWXdlXwOFzDKrJhbwdF+kW7crOwMG5hiFCJtD74lvdN2Op44RV0jrgVphbHQepd+ie8/aUr4cAYR1Jmof7zTJ69TQw1HDFP5N3p6VgRCw4Oeei3/o5Sj0FyuOi62GPYJT2au+mkgJMsghLnfjDUqIww6Am+RR/YC3300flHO6NG9seFnFoArMHx2Jk6i9xcm77mBe/M8RdFrTk7qLgcVs=;MDVNv2F1Y7X5+QytIs7l9Q=="
 ---
 

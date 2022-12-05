@@ -9,7 +9,7 @@ ampWebUrl: "https://fox2now.com/news/missouri/new-alzheimers-drug-can-slow-cogni
 cdnAmpWebUrl: "https://fox2now-com.cdn.ampproject.org/c/s/fox2now.com/news/missouri/new-alzheimers-drug-can-slow-cognitive-decline/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Alzheimer's drug trial shown to slow cognitive decline in long fight against dementia"
-    excerpt: "Alzheimer's Research UK described the outcome as a \"major step forward\" in reducing cognitive decline among patients. \"These exciting findings represent a major step forward for dementia research ..."
-    publishedDateTime: 2022-11-30T20:49:00Z
-    webUrl: "https://www.cnbc.com/2022/11/30/alzheimers-drug-lecanemab-slows-cognitive-decline-in-dementia-fight.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2022/11/30/alzheimers-drug-lecanemab-slows-cognitive-decline-in-dementia-fight.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/11/30/alzheimers-drug-lecanemab-slows-cognitive-decline-in-dementia-fight.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 82
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107158864-1669806496855-gettyimages-484332326-bb_fea-brainscan_108.jpeg?v=1669807708"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "New Alzheimer's Drug Reduces Cognitive Decline but May Cause Severe Side Effects, Study Finds"
     excerpt: "According to research published by the New England Journal of Medicine on Tuesday, the drug lecanemab slows cognitive decline. \"Lecanemab reduced markers of amyloid in early Alzheimer's disease ..."
     publishedDateTime: 2022-11-30T23:26:00Z

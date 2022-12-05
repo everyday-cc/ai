@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/crowe/2022/12/01/using-advanced-technol
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/crowe/2022/12/01/using-advanced-technology-and-analytics-to-fight-financial-crime/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 4896
         height: 3672
         isCached: true
-  - title: "AWS Announces Five New Database and Analytics Capabilities"
-    excerpt: "\"To help customers make the most of their growing volume and variety of data, we are committed to offering the broadest and deepest set of database and analytics services. The new capabilities announced today build on this by making it even easier for customers to query,"
-    publishedDateTime: 2022-11-30T19:31:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-five-new-database-analytics-capabilities-/2022/11/30/9722273.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "9HO3RtPImo1opsLxLeddDoDOTkQhe1V/mjNO95sbZebKtiD9M70efDu5eSlPDOIbii6tvk8lRU+lbpWK7pboot6xmkBa/myLGazj0pYGPOWFvI7FunG0RCuY0TRzdaBfFe/OAt1K9RGGIL+2jlohkR1T7rk/fZN8DnNn1sdta/AB1p04K8P//N8j6Lu3qfIgk0edWIh/Q3p6bI2slURg1PSWIqYqlWwXwkAh0RkNNZB2fHfX59CntdwVN5UrU5GSept1PR0EJzUqSPBW8sC1hSNQw+Ciy6V7veCdBc/WCd3z9qD/qmov9ne1sSO/E9cNJWuuzK0Hliq6VdYcg4P1nVCLu/Z8kuzY9zkrLnznh2G1fMUJjfOi8XYLU2aCYrp8I9s59knQmH+rc900hgrEBO4WzmaEfMhAjaseLK4aDM3lLrix4/0CW/RFUMcTPLSAW+xSAkrl+78aDo61ZJnHtC1geAbFryeWYKlbJgnCDyw6RHCN8zA6/JUco7pINb4bIPsq7S28mGVxesEJry8VIw==;cjUKGuJ5rwSuzjt8kf8BSg=="
 ---

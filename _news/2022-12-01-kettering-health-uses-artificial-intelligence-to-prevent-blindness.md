@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wdtn.com/dl365/healthy-living/kettering-health-uses-arti
 cdnAmpWebUrl: "https://www-wdtn-com.cdn.ampproject.org/c/s/www.wdtn.com/dl365/healthy-living/kettering-health-uses-artificial-intelligence-to-prevent-blindness/amp/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1280
     height: 853
     isCached: true
-
-related:
-  - title: "Bringing AI to the full C-suite"
-    excerpt: "AI enables data-driven decision-making for all types of businesses. But it must be responsible, and it must start with the C-suite."
-    publishedDateTime: 2022-11-30T19:08:00Z
-    webUrl: "https://venturebeat.com/ai/bringing-ai-to-the-full-c-suite/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
 
 secured: "6MJmKs3t/NWPm75UkkihDpoGqoqTFIeiksvo1u48ufbyV4GwkaW/5T2005dIzn2nbCgKpM8cm+MAyA8t4t4eln7C30yWC6t7OhygBotn+ZuRyGQ76Y8AYDwMGMR2BZ0pBN8w5bQ84Q8PJ/gNG9hiBeLSs+m28YOrbpMKoNIuzh+zXP1i1/XU48a+V1EDwgG8uWUiwvwOzXX9/Wy9R6JMGSKDzoTHOgRLOqKc5WRFXI0YKRwWkyWd3SIni91bys/Hxy9YYTC1N/x5i4RtoWz0E4Tt/RQdPermelzkuH9UgBOOqZ5QEQQ8hMw66lfMuI+J25ky4fihlk0vn3nYlMlix3xy6Zvfol4FciDBV+SYfb0=;b6bb/qiwrLJL8ZmBkZ412Q=="
 ---

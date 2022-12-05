@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Stability AI Selects AWS as Its Preferred Cloud Provider to Build Artificial Intelligence for the Future"
-excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Stability AI, a community-driven, open-source artificial intelligence (AI) company, has selected AWS as its preferred cloud provider to build and scale its AI models for image,"
-publishedDateTime: 2022-11-30T22:00:00Z
-originalUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-30-stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the-future"
-webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-30-stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the-future"
+excerpt: "Leading open-source artificial intelligence startup trains foundational models 58% faster and more cost efficiently using Amazon SageMaker on AWS At AWS re:Invent, Amazon Web Services, Inc. (AWS ..."
+publishedDateTime: 2022-11-30T21:39:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/b29913648/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the-"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/b29913648/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the-"
+ampWebUrl: "https://www.benzinga.com/amp/content/29913648"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29913648"
 type: article
-quality: 32
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: The Buffalo News
-  domain: buffalonews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
+    width: 800
+    height: 313
+    isCached: true
 
 related:
   - title: "Stability AI doubles down on AWS"
@@ -119,6 +127,6 @@ related:
       domain: techreport.com
     quality: 36
 
-secured: "LC5G/Gn4tKOz/94/IqGwf4HxJ2Hu2yzZuCklRE1tQeOceSEeXrh3H2NBLX1znPyvHeRUYOqIoEEs0rzgcnfDV9grRYuyqyjkXkCjWRf4zJ8xjyT+VR/lEGXLyvXtWf2vh9yD4/4mjyAtrSGUKnOGzCLQZz5BCvaR57e6DypfvgeT+2ncEeZViQH7rhTvy+A7pVvCj+6M+pOkYOtnKHuf0l+UDegsgwYQaskbc2P3jCgxR/MkAllbN4wAGZS0DU5ayL/9WG0ojO1AZw9s+nhqjHv4F3wL52vWArDGwJwgskxSMODR0l9V7oKsgCNuf2b6qpBtArDZV4vckhEJnLfaJ8i/FPjMhCDg0JS5jTLwGGY=;GrRkasQwGfCXvKkdUXJbwA=="
+secured: "FaeH0+3FxTbRtj5X4YJcyY667Q2GmfAZIQuvWzFCZ1mPNbugqboSrALSwYbp6p1XP64GxW/YXjK+dZd+QDIyGxaD7FSgbt23Tm1ZXBpfhCGg342gTEiW/QZ8BpOjaziCJDN8QoT2mwa0sbXEuMc2mzDggmnv/0hUvu6fPinbzKmdutzvtwn+4VOQyviK+jT8kURDqN6vZZdsziBFPNHfb9q9A/V+8Bo5/JWaUqF70Ysa0eOrBXFQPJHjt2/Zv4rHwEemxt1+/buCJ7/X3VI0J9s6px3/Bqsj7Sjq47TnFUp5aFpZpvChu2VJ0jO1uwYQy5Ivg1GhmV2Nrk94c3sp/OuA6uDAeYng9uhiCq9sLPM=;wv13khT70+kdeiFnfH48Pw=="
 ---
 

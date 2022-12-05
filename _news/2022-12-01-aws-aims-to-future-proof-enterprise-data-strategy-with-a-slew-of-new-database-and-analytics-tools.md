@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AWS Announces Five New Database and Analytics Capabilities"
-    excerpt: "\"To help customers make the most of their growing volume and variety of data, we are committed to offering the broadest and deepest set of database and analytics services. The new capabilities announced today build on this by making it even easier for customers to query,"
-    publishedDateTime: 2022-11-30T19:31:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-five-new-database-analytics-capabilities-/2022/11/30/9722273.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "hRETtlnOD2xgiK7y8MI73/7IMQfQckNUoAlqTaJjWdCd+PN6pXPNC/3OaFjybSAJKk/uf/S9dPOaePJwR8TonJwyqWLqBtfqrDIKv3AhZMpoFk+IMo5rUPQA3sQAX6FvMTEgRVOEhJVP5jU4OdjbSiw/to7ycS7hc28SCcHeoViEKmU1o8rni45onJBfjRZCz7qgXwzB7yk3k1HPCcQ98ookxj6Gz9w/hHA9HdaJ9Iy3kFq37Q8Dg1fifa2TWc/c8BBVepAvnhvYgiq4KYtl0GW2+pu7WWiQY/rkVndoUKgBmTKsZu8MkC0TLCvDVR0MzVBFQOsupz4kksrkSpDODcSQBmDxEhBBUmjWcZDSDlBB/dXDdrKU5+vemIRxFJit72pYRG1bdBVG+X8tecgCJQY2oKzx6C/3C7c2pk6qpfhjm7L70iCN4wYwVrE3YHD65DWVgAJOzWgiOY9IgtPH7Q8XJ55vL3wxTMrZyCLK5rnSEvjeEYSlUiccAQ4SEe0A+gMPje2HqvvqzyoWyYiPqA==;0rNmmcSXplMuwLaURe5bsg=="
 ---

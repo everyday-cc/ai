@@ -24,17 +24,6 @@ images:
     height: 312
     isCached: true
 
-related:
-  - title: "Make Way for the Killer Robots: The Government's New Dangerous Additions"
-    excerpt: "The purpose of a good government is to protect the lives and liberties of its people. Unfortunately, we have gone so far in the opposite direction from the ideals of a good government that it’s hard to see how this train wreck can be redeemed."
-    publishedDateTime: 2022-11-30T19:37:00Z
-    webUrl: "https://www.cnsnews.com/commentary/john-w-whitehead/make-way-killer-robots-governments-new-dangerous-additions"
-    type: article
-    provider:
-      name: CNSNews.com
-      domain: cnsnews.com
-    quality: 18
-
 secured: "zVexAb1hfcFv3GcgneBpCF3UbNP5YrGXYVyu/3d0dl7bB4iW2+xbVANoTFT3BP+c98YFcJ5ySX+W6qVg8JVbZvff99gl3K4wxISyvz3qJXRkV2vTko13fYKwtvfp0Loe8bVc6vqwALwq92APIFsGHxK5p6LaJiP1Cf7KfcjPFj4WWDzHmnjzEMO0czAam4L3VnYSEhkrY0RC7Oy6B88+JAnsTlegycNPo1CaaKPbtiOlwRb2e/vY9mUFdm51HRpQ6BvvGQJxYE8PGqLFBOeDEFD4sGNbxhT0OCZXwy+mlLdgNV1CmKKqU0NynapX9PaRQ0Jt2I8X8aAuR2gfq9UchP5NyRKShBEpqmXLiSjd83l6MOmcQ3EHK/ZJhvYwM5+qWcw7ZH4ALWMq8rByybbfdf45a0mo3Q5vSyAoKjKS9DkgXrewDzCPz9zviHi7PPcqnkLYjCrb2SAKCqBL/2onyArKmJxWy6t8WVDyCQxCz/ZJQHcB8kcPVkl6Ub/5B+AQR3jiw8JLhK3L7wLykV3CfA==;ybsuDGXqGhytUdLbsVjANw=="
 ---
 
