@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-05T17:03:00Z
 originalUrl: "https://www.fox9.com/news/finalists-times-2022-person-of-the-year"
 webUrl: "https://www.fox9.com/news/finalists-times-2022-person-of-the-year"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Fox 9

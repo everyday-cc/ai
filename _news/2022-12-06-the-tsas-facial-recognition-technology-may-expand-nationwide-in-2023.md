@@ -3,23 +3,23 @@ category: news
 title: "The TSA’s facial recognition technology may expand nationwide in 2023"
 excerpt: "The TSA could potentially expand their facial recognition identification system nationwide in 2023. Veuer’s Maria Mercedes Galuppo has the story."
 publishedDateTime: 2022-12-05T18:29:00Z
-originalUrl: "https://omaha.com/travel/the-tsa-s-facial-recognition-technology-may-expand-nationwide-in-2023/video_ab85d6f8-fcb8-5c96-a73c-c6b250579358.html"
-webUrl: "https://omaha.com/travel/the-tsa-s-facial-recognition-technology-may-expand-nationwide-in-2023/video_ab85d6f8-fcb8-5c96-a73c-c6b250579358.html"
+originalUrl: "https://www.stltoday.com/travel/the-tsa-s-facial-recognition-technology-may-expand-nationwide-in-2023/video_38bac7aa-6efd-5d13-a2e8-da170da078c0.html"
+webUrl: "https://www.stltoday.com/travel/the-tsa-s-facial-recognition-technology-may-expand-nationwide-in-2023/video_38bac7aa-6efd-5d13-a2e8-da170da078c0.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/a/b8/ab85d6f8-fcb8-5c96-a73c-c6b250579358/638e23e3ec507.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/8b/38bac7aa-6efd-5d13-a2e8-da170da078c0/638e23ea02321.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -42,6 +42,6 @@ related:
         height: 1500
         isCached: true
 
-secured: "qYreOaHwmuYsXs6jHh3ADtDkJfilLhi4QairfjQKCM1kuQQMbX6DV/JvmUi8l/RZ9iWgq5I11npfGTYsZ9D7E1NoLQAJTWYWgU/JHZEVsRToLg19RMItreTj5N50yPfj8Vbb0r20Q9KGBGdObcAqqEFYdiz5r+VvqaOF9O8NQFl3ZqV9glQKXZKfuft+rP3adEN8B9YWGniUcA03UoDsptkqylQBAjfvjMtetlS+VIPDRbFkKyvQc0yYQWgcu/gcrC5eZsa86+HpDZ2U7wCtK+uu1oYl+ef3SNp6xN7L5qWHCo1stTsSkDl6qwxP5+lhSJkoVG/cV/4BxQOFewbxmm2bhwIs4v5WssO/Wf8e0s0Kn6EQzM/MLEIJz/e9Xadd0NBdildE7UeKLI4QoaNmRzbYQJsGngNwJkILa1tVekXVdSdwUMsd1kzGUif0tql4KDyeDyw+1yPL1zmjqj98J/ImpQNc2FL/zgpkUELQdiTQYnjYjo/VF7OtugD7E4VsYOuAZXOtfVTn0ZABB14PXg==;F2mVmMTuNq1s1rVuSZVf6A=="
+secured: "29zPGxxu2T/jnKod0SHv8eMATilcy05Ci3mLvQxuVPi4UwlBI8baFCj7iGw9HdX6fFfC2BX4YkfUr+bfKkrfia3JXQpoMjXrSbRWaoihaiWNMh/ycvdYrKnouDmuc92mPeZ8Evy7ZiyalJaMIPyes1j9R19LjyXGi6sHWUr2bh7Jj+l/O34o/oinA1IYn9EgMFQjHEOvyfT3e8wUoS/FQMsK29tsRH80JyJ2iKhUzBtXE+0hBbu6XemmJVFgROA+SysxSkljTVUpm6NelkZ9DvKh6SQqPCKOr5uktLf3txc/Ns0qtx0C/X1zrJVsHkjbroyAK93luicXq8L44K36Icw6pTCKqW8u46zM0pMjquI=;Sgm6LErnoV3wEFKkvv3hDA=="
 ---
 

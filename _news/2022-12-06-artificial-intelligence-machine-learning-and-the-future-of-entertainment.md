@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joshwilson/2022/12/06/artificial-intell
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joshwilson/2022/12/06/artificial-intelligence-machine-learning-and-the-future-of-entertainment/amp/"
 type: article
 quality: 117
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/08/Screen-Shot-2022-08-24-at-3.43.14-PM.png?w=1200&strip=all"
         width: 1199
         height: 1075
+        isCached: true
+  - title: "Robo Truckers and the AI-Fueled Future of Transport"
+    excerpt: "Concerns about artificial intelligence replacing long-haul drivers are not new, but the real story is more nuanced."
+    publishedDateTime: 2022-12-06T14:00:00Z
+    webUrl: "https://www.wired.com/story/autonomous-vehicles-transportation-truckers-employment/"
+    ampWebUrl: "https://www.wired.com/story/autonomous-vehicles-transportation-truckers-employment/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/autonomous-vehicles-transportation-truckers-employment/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 91
+    images:
+      - url: "https://media.wired.com/photos/638e52b0fefa29ce257ada8f/master/pass/artificial-intelligence-trucker-transport.jpg"
+        width: 2400
+        height: 1350
         isCached: true
 
 secured: "gTGDtXDqUAW1zH2LzDBXsdIM6zdAZ92AU+hXucRP5ticTs5z8+ahnEZRZ3vkGmD/pOtdreEoaWYOmmKLy63zNEtPaDeHTVyY+4qAfFKDvhJrQGufhcLewi/hlNyya+qaFhydAqgLrDoWXRwaTwgtb3Fdju7tdF4YD82r1C9HXaT4X9JAY2mX+w3KEtAm+xBmgBkSuxikPrqUs4VVhmGSD2zuo6DRBeMBMdDmCGtG4/QLGSw4FhYwsqZuwbsh95UNi2uA/0fmlHrtCoJ3MvZaxvTIAbDrPTPnKVB6A4f6oRCGi7BDXKVpd/0q2+uUTBRNuCbvIMci1isY0wIlbyqb/mUj44yPsWC9FRkfNhnRPe7J4ksbXUOe9fLf2PU4KYgbZCpuINPNnrqBLX1c/dIytLUx8OviVMKRBXpgNxiyHXroeOZ7XTurQq7+8dcdv5chnC2y0mDHqEHKoIb3yz6K5d/Nj/sJEyArl3UN3sQ4Kurkvieo7RMLa2bJgJLS+0a8Q5ncOxhZ/agLHP/yecuwnA==;9wn/JvUS0XnRzTM8gJFy4A=="

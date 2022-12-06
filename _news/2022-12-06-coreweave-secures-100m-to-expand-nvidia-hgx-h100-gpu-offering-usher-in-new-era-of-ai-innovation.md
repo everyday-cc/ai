@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-06T13:23:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-coreweave-secures-100m-expand-nvidia-hgx-h100-gpu-/2022/12/06/9724756.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-coreweave-secures-100m-expand-nvidia-hgx-h100-gpu-/2022/12/06/9724756.htm"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: TMCnet

@@ -71,6 +71,15 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Chinese release a fully autonomous electric car"
+    excerpt: "In the shops in 2023A startup called Jidu Automotive, backed by Chinese AI giant Baidu and Chinese carmaker Geely, officially released an autonomous electric car. Dubbed the Robo-01 Lunar Edition, the car will go on sale in 2023 for $55,"
+    publishedDateTime: 2022-12-05T08:40:00Z
+    webUrl: "https://www.fudzilla.com/news/automotive/55935-chinese-release-a-fully-autonomous-electric-car"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 4
 
 secured: "ueR3HPHNPEfQvB3vMx7C48YlINBzXRR+QqpeSmOcucqMY6HocedQmGH6wcX3p89cs8AxQsTC+trCajsh3AC/x0KhUWlGfB1IIq+Yk2lqBK0Cp4ngHMbPnnTRUxxOiDLce/dGYmfCnyTwb6jY5IQNDeG+tCQt1A1NCSTox4OcNVanO7pXs+QqE606zWBQQbdfqY9dytWDb7c+aRnToUqgALg+tg86kYoyoe7b3q4AbtoZIcrryO2feyYRY21U//mhWKzSiJwzdgvn/i3xFA8HHxjqeE2FRLT5y3Zx5TqBPwsb9ix7eYGMPzmqulaNGvnycQJ+nvmou3G3ttHK1Q7Y9+Uapj7IE+ug7/Bm9FmVAnua6tVqkxvNXWvGVTXLk//Dqpd/oOmtj1hi9khR+/IZvsokuQaTh9oJrwPqDYqqxLMXmUquPS6hDCZ8i1v2pV0MCbec7A6oG8QYe3dfEJdHOEXZ7k9WNjQsTaCVcYOoBf4F1njExkjfFww3NLwAdBUZGNICtKxTCYABlfNUs9fkSg==;5FsfkkjPyKMz0vL9eipWvQ=="
 ---

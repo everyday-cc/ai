@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-06T14:26:00Z
 originalUrl: "https://sciencebusiness.net/sponsored-report/how-pandemic-reshaping-healthcare-playbook"
 webUrl: "https://sciencebusiness.net/sponsored-report/how-pandemic-reshaping-healthcare-playbook"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Science|Business

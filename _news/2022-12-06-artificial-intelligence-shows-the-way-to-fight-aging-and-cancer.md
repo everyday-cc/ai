@@ -42,6 +42,36 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Avengers By Wes Anderson Imagined By The Russo Brothers Using AI Art"
+    excerpt: "The Russo Bothers imagined what The Avengers would be like as a Wes Anderson project using AI art. On Twitter, they found some images from @digiguru and posted them to Instagram. In these pictures, the Marvel Studios universe gets the same sort of color-grading,"
+    publishedDateTime: 2022-12-06T13:28:00Z
+    webUrl: "https://comicbook.com/movies/news/marvel-avengers-wes-anderson-ai-art-russo-brothers-midjourney/"
+    ampWebUrl: "https://comicbook.com/movies/amp/news/marvel-avengers-wes-anderson-ai-art-russo-brothers-midjourney/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/movies/amp/news/marvel-avengers-wes-anderson-ai-art-russo-brothers-midjourney/"
+    type: article
+    provider:
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 58
+    images:
+      - url: "https://sportshub.cbsistatic.com/i/2022/12/02/26dc248f-5add-41d3-b9d4-4dc2efee2482/pz-thumbnail-art-1x1-1.jpg?width=568&height=320"
+        width: 568
+        height: 320
+        isCached: true
+  - title: "Google Teaches AI to Play Stratego and It Becomes One of the World's Top-Rated Players"
+    excerpt: "DeepMind's latest artificial intelligence called DeepNash has beaten a human player at a game of Stratego, a strategic war game."
+    publishedDateTime: 2022-12-04T18:25:00Z
+    webUrl: "https://futurism.com/the-byte/google-teaches-ai-play-stratego-top-rated-players"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 31
+    images:
+      - url: "https://wp-assets.futurism.com/2022/12/google-teaches-ai-play-stratego-top-rated-players.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI taught to play video game by Google and is now one of world's top players"
     excerpt: "An artificial intelligence system has been taught how to play a video game and has learned how to beat top human players. DeepMind announced that DeepNash has become so proficient at Stratego that it has climbed to the world's all-time top-three ranked ..."
     publishedDateTime: 2022-12-05T13:35:00Z

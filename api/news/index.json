@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-06-locomotion-modeling-evolves-with-brain-inspired-neural-networks.md",
+      "title": "Locomotion modeling evolves with brain-inspired neural networks",
+      "excerpt": "A team of scientists at EPFL have built a new neural network system that can help understand how animals adapt their movement to changes in their own body and to create more powerful artificial intelligence systems.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-12-locomotion-evolves-brain-inspired-neural-networks.html",
+      "originalUrl": "https://techxplore.com/news/2022-12-locomotion-evolves-brain-inspired-neural-networks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/locomotion-modeling-ev.jpg",
+          "width": 621,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-12-locomotion-evolves-brain-inspired-neural-networks.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-locomotion-evolves-brain-inspired-neural-networks.amp",
+      "publishedDateTime": "2022-12-06T07:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-largest-machine-learning-effort-securely-aggregates-data-from-brain-scans-of-glioblastoma-patients.md",
+      "title": "Largest machine learning effort securely aggregates data from brain scans of glioblastoma patients",
+      "excerpt": "Researchers at Penn Medicine and Intel Corporation led the largest-to-date global machine learning effort to securely aggregate knowledge from brain scans of 6,314 glioblastoma (GBM) patients at 71 sites around the globe and develop a model that can enhance identification and prediction of boundaries in three tumor sub-compartments,",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20221206/Largest-machine-learning-effort-securely-aggregates-data-from-brain-scans-of-glioblastoma-patients.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20221206/Largest-machine-learning-effort-securely-aggregates-data-from-brain-scans-of-glioblastoma-patients.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20221206/Largest-machine-learning-effort-securely-aggregates-data-from-brain-scans-of-glioblastoma-patients.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20221206/Largest-machine-learning-effort-securely-aggregates-data-from-brain-scans-of-glioblastoma-patients.aspx",
+      "publishedDateTime": "2022-12-06T07:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-responsible-ai-is-a-data-protection-necessity-protopia-ai-raises-6m-in-funding.md",
       "title": "Responsible AI is a data protection necessity, Protopia AI raises $6M in funding",
       "excerpt": "Protopia AI announces it has raised $6 million in seed funding for a responsible AI solution designed to anonymize personal data.",
@@ -61,7 +147,7 @@
       "originalUrl": "https://www.cloudcomputing-news.net/news/2022/dec/06/snowflake-becomes-available-in-uk-on-microsoft-azure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -148,6 +234,51 @@
       ]
     },
     {
+      "path": "_news/2022-12-06-ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts.md",
+      "title": "Uber’s facial recognition is locking Indian drivers out of their accounts",
+      "excerpt": "Srikanth is far from the only worker in India who must interact with facial recognition technology. In addition to the country’s 600,000 Uber drivers, many others work for the homegrown ride-sharing platform Ola and for startups such as Swiggy, Zomato, and Urban Company. All ask their platform workers to upload selfies for logins or verifications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2022/12/06/1064287/ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts/",
+      "originalUrl": "https://www.technologyreview.com/2022/12/06/1064287/ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/12/Adnan-Taqi2.jpg?w=3000",
+          "width": 3000,
+          "height": 1832,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2022/12/06/1064287/ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/06/1064287/ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts/amp/",
+      "publishedDateTime": "2022-12-06T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-artificial-intelligence-machine-learning-and-the-future-of-entertainment.md",
       "title": "Artificial Intelligence, Machine Learning, And The Future Of Entertainment",
       "excerpt": "By 2030, the AI in media and entertainment industry is set to be worth a staggering $99.3 billion with the current compound annual growth rate being 26%.",
@@ -156,7 +287,7 @@
       "originalUrl": "https://www.forbes.com/sites/joshwilson/2022/12/06/artificial-intelligence-machine-learning-and-the-future-of-entertainment/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -208,7 +339,7 @@
       "originalUrl": "https://www.cnet.com/tech/computing/chatgpt-ai-explained-why-everyones-chatting-about-this-new-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 249,
+      "heat": 259,
       "tags": null,
       "images": [
         {
@@ -365,7 +496,7 @@
       "originalUrl": "https://www.koreaherald.com/view.php?ud=20221206000445",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -449,6 +580,58 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-ai-for-the-board-game-diplomacy.md",
+      "title": "AI for the board game Diplomacy",
+      "excerpt": "Successful communication and cooperation have been crucial for helping societies advance throughout history. The closed environments of board games can serve as a sandbox for modelling and investigating interaction and communication – and we can learn a lot from playing them. In our recent paper, published",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/ai-for-the-board-game-diplomacy",
+      "originalUrl": "https://www.deepmind.com/blog/ai-for-the-board-game-diplomacy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/638e60318bb6c57c845551ec_eobNu4K3TohLGYbu5pn89kdLUWxXV5e67RaLVWVafh1b9gLgxw7mSPIcYx9ndcJENfSgBAQCdnEfgcYZhpO-4ye83MuKtftKL354Sv10-Dr5bOJFDw9DaxmGlT1Y-304E9seTmp_CeX1mYapEP1m5OIfs7wuE6mGSxb7IgLDATURCNYJh_HKOdmfZzDsKJY.png",
+          "width": 1600,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
       ]
     },
     {
@@ -556,6 +739,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-06-ai-can-predict-heart-attack-or-stroke-death-risk-from-an-x-ray.md",
+      "title": "AI Can Predict Heart Attack or Stroke Death Risk From an X-Ray",
+      "excerpt": "A new study by researchers at Massachusetts General Hospital and the AI in Medicine program at the Brigham and Women’s Hospital in Boston demonstrates how an AI deep learning model can predict the 10-year risk of death from stroke or a heart attack from a single chest X-ray.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202212/ai-can-predict-heart-attack-or-stroke-death-risk-x-ray",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202212/ai-can-predict-heart-attack-or-stroke-death-risk-x-ray",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-12/pi2352.gif.jpg?itok=vffVOnli",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202212/ai-can-predict-heart-attack-or-stroke-death-risk-x-ray?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202212/ai-can-predict-heart-attack-or-stroke-death-risk-x-ray?amp",
+      "publishedDateTime": "2022-12-05T14:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-no-linux-no-problem-just-get-ai-to-hallucinate-it-for-you.md",
       "title": "No Linux? No problem. Just get AI to hallucinate it for you",
       "excerpt": "The simulated rabbit hole goes deep, and ChatGPT can even hallucinate new Linux commands. In a prompting maneuver similar to conjuring up an AI-hallucinated Linux shell, someone named gfodor on Twitter discovered that OpenGPT could simulate calling a vintage dial-up BBS,",
@@ -607,6 +833,57 @@
       ]
     },
     {
+      "path": "_news/2022-12-06-you-can-use-the-lensa-ai-app-to-turn-your-photos-into-artistic-portraits.md",
+      "title": "You can use the Lensa AI app to turn your photos into artistic portraits",
+      "excerpt": "To credit for these masterpieces is the Lensa AI app, and here is how you can use it to get your own. Lensa AI is a free-to-download, photo-editing app that launched in 2018 and is available in both the Apple App Store and Google Play Store.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/you-can-use-the-lensa-ai-app-to-turn-your-photos-into-artistic-portraits/",
+      "originalUrl": "https://www.zdnet.com/article/you-can-use-the-lensa-ai-app-to-turn-your-photos-into-artistic-portraits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/d4c593c52fe4edc756a285ff4858755bc5910a13/2022/12/05/a7196214-ebef-46e5-82f6-d694eb7b9f53/2022-2.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/you-can-use-the-lensa-ai-app-to-turn-your-photos-into-artistic-portraits/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/you-can-use-the-lensa-ai-app-to-turn-your-photos-into-artistic-portraits/",
+      "publishedDateTime": "2022-12-05T13:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-abb-opens-robotics-mega-factory-in-shanghai.md",
       "title": "ABB opens robotics mega factory in Shanghai",
       "excerpt": "ABB opened a new 67,000-square-meter robotics factory in Kangquiao, Shanghai, China last week. The $150 million facility harnesses virtual planning and production management systems to maximize productivity.",
@@ -638,6 +915,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-deepminds-latest-ai-trounces-human-players-at-the-game-stratego.md",
+      "title": "DeepMind’s Latest AI Trounces Human Players at the Game ‘Stratego’",
+      "excerpt": "DeepMind just took a stab at solving this conundrum. The trick was to interweave game theory into an algorithmic strategy loosely based on the human brain called deep reinforcement learning. The result, DeepNash, toppled human experts in a highly strategic ...",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2022/12/05/deepminds-latest-ai-trounces-human-players-at-the-game-stratego/",
+      "originalUrl": "https://singularityhub.com/2022/12/05/deepminds-latest-ai-trounces-human-players-at-the-game-stratego/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2022/12/stratego-board-game-pieces-blue.jpeg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2022/12/05/deepminds-latest-ai-trounces-human-players-at-the-game-stratego/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/12/05/deepminds-latest-ai-trounces-human-players-at-the-game-stratego/?amp=1",
+      "publishedDateTime": "2022-12-05T10:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -894,324 +1215,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-dubais-tech-pitch-to-the-world.md",
-      "title": "Dubai’s tech pitch to the world",
-      "excerpt": "Having offices in the emirate makes it easier for Indian startups to hire global talent, and it also makes it easier for the Dubai government to source good tech talent from India. High net-worth individuals (HNIs) and entrepreneurs from India are being lured to Dubai by tax reliefs,",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/industry/infrastructure/dubais-tech-pitch-to-the-world-11670260716327.html",
-      "originalUrl": "https://www.livemint.com/industry/infrastructure/dubais-tech-pitch-to-the-world-11670260716327.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/12/05/600x338/EMIRATES-TECHNOLOGY--_1670260857066_1670260857256_1670260857256.JPG",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/industry/infrastructure/dubais-tech-pitch-to-the-world/amp-11670260716327.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/infrastructure/dubais-tech-pitch-to-the-world/amp-11670260716327.html",
-      "publishedDateTime": "2022-12-05T08:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-aws-names-6-key-trends-driving-machine-learning-innovation-and-adoption.md",
-      "title": "AWS names 6 key trends driving machine learning innovation and adoption",
-      "excerpt": "From data growth and democratization to industrialization and responsible AI, AWS identified 6 key drivers of machine learning adoption.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/aws-names-6-key-trends-driving-machine-learning-innovation-and-adoption/",
-      "originalUrl": "https://venturebeat.com/ai/aws-names-6-key-trends-driving-machine-learning-innovation-and-adoption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/12/aws.png?w=1200&strip=all",
-          "width": 891,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/aws-names-6-key-trends-driving-machine-learning-innovation-and-adoption/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/aws-names-6-key-trends-driving-machine-learning-innovation-and-adoption/amp/",
-      "publishedDateTime": "2022-12-05T08:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-05-the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence.md",
-      "title": "The Future Is Now: Transforming PCB Manufacturing Using Artificial Intelligence",
-      "excerpt": "Manufacturers are exploring ways to increase the efficiencies by which essential electronic components are produced.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62a797a880eca7dbef9036cc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/05/the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-12-05T05:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-05-ncsoft-leads-ai-powered-ethical-management.md",
-      "title": "NCSoft leads AI-powered ethical management",
-      "excerpt": "NCSoft, a local video game developer, is accelerating efforts to establish ethical management of artificial intelligence (AI) data, a principle defined by privacy, unbiasedness and transparency, the firm said Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://koreatimes.co.kr/www/nation/2022/12/419_340853.html",
-      "originalUrl": "https://koreatimes.co.kr/www/nation/2022/12/419_340853.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202211/7220eb5952ec45e790b30602b134566e.jpg",
-          "width": 980,
-          "height": 703,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=340853",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=340853",
-      "publishedDateTime": "2022-12-05T04:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-05-world-cup-2022-can-you-outguess-our-ai-predictor-robot.md",
-      "title": "World Cup 2022: Can you outguess our AI predictor robot?",
-      "excerpt": "Al Jazeera’s AI robot has made up for a shaky start and has correctly predicted the outcome of all four knockout games.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aljazeera.com/sports/2022/12/5/who-is-going-to-reach-the-quarter-finals-of-world-cup-2022",
-      "originalUrl": "https://www.aljazeera.com/sports/2022/12/5/who-is-going-to-reach-the-quarter-finals-of-world-cup-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aljazeera.com/wp-content/uploads/2022/12/INTERACTIVE-Kashef-prediction-scorecard-December-5.jpg?resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.aljazeera.com/amp/sports/2022/12/5/who-is-going-to-reach-the-quarter-finals-of-world-cup-2022",
-      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/sports/2022/12/5/who-is-going-to-reach-the-quarter-finals-of-world-cup-2022",
-      "publishedDateTime": "2022-12-05T03:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Jazeera English",
-        "domain": "aljazeera.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-05-federated-machine-learning-enables-the-largest-brain-tumor-study-to-date-without-sharing-patient-data.md",
-      "title": "Federated machine learning enables the largest brain tumor study to-date, without sharing patient data",
-      "excerpt": "Researchers at Penn Medicine and Intel Corporation led the largest-to-date global machine learning effort to securely aggregate knowledge from brain scans of 6,314 glioblastoma (GBM) patients at 71 sites around the globe and develop a model that can enhance identification and prediction of boundaries in three tumor sub-compartments,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-12-federated-machine-enables-largest-brain.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-12-federated-machine-enables-largest-brain.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/brain-scan-1.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-12-federated-machine-enables-largest-brain.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-federated-machine-enables-largest-brain.amp",
-      "publishedDateTime": "2022-12-05T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-05-artificial-intelligence-can-be-helpful-in-diabetes-monitoring-prevention.md",
-      "title": "Artificial intelligence can be helpful in diabetes monitoring, prevention",
-      "excerpt": "In findings presented at the NeurIPS conference in New Orleans, Klick scientists revealed how they used machine learning and just 12 hours of data from CGMs to determine whether a patient was prediabetic or diabetic.",
-      "sourceUrl": null,
-      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/artificial-intelligence-can-be-helpful-in-diabetes-monitoring-prevention/95994282",
-      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/artificial-intelligence-can-be-helpful-in-diabetes-monitoring-prevention/95994282",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-95994282,imgsize-32814,width-1200,height-628,overlay-ethealthworld/artificial-intelligence-can-be-helpful-in-diabetes-monitoring-prevention.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/artificial-intelligence-can-be-helpful-in-diabetes-monitoring-prevention/95994282",
-      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/artificial-intelligence-can-be-helpful-in-diabetes-monitoring-prevention/95994282",
-      "publishedDateTime": "2022-12-04T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "health.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

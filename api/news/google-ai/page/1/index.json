@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-06-ai-for-the-board-game-diplomacy.md",
+      "title": "AI for the board game Diplomacy",
+      "excerpt": "Successful communication and cooperation have been crucial for helping societies advance throughout history. The closed environments of board games can serve as a sandbox for modelling and investigating interaction and communication – and we can learn a lot from playing them. In our recent paper, published",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/ai-for-the-board-game-diplomacy",
+      "originalUrl": "https://www.deepmind.com/blog/ai-for-the-board-game-diplomacy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/638e60318bb6c57c845551ec_eobNu4K3TohLGYbu5pn89kdLUWxXV5e67RaLVWVafh1b9gLgxw7mSPIcYx9ndcJENfSgBAQCdnEfgcYZhpO-4ye83MuKtftKL354Sv10-Dr5bOJFDw9DaxmGlT1Y-304E9seTmp_CeX1mYapEP1m5OIfs7wuE6mGSxb7IgLDATURCNYJh_HKOdmfZzDsKJY.png",
+          "width": 1600,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-deepminds-latest-ai-trounces-human-players-at-the-game-stratego.md",
+      "title": "DeepMind’s Latest AI Trounces Human Players at the Game ‘Stratego’",
+      "excerpt": "DeepMind just took a stab at solving this conundrum. The trick was to interweave game theory into an algorithmic strategy loosely based on the human brain called deep reinforcement learning. The result, DeepNash, toppled human experts in a highly strategic ...",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2022/12/05/deepminds-latest-ai-trounces-human-players-at-the-game-stratego/",
+      "originalUrl": "https://singularityhub.com/2022/12/05/deepminds-latest-ai-trounces-human-players-at-the-game-stratego/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2022/12/stratego-board-game-pieces-blue.jpeg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2022/12/05/deepminds-latest-ai-trounces-human-players-at-the-game-stratego/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/12/05/deepminds-latest-ai-trounces-human-players-at-the-game-stratego/?amp=1",
+      "publishedDateTime": "2022-12-05T10:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-11-27-alphabets-deepmind-has-put-a-hiring-freeze-on-new-interns-canceling-one-applicants-interview-with-just-an-hours-notice.md",
       "title": "Alphabet's DeepMind has put a hiring freeze on new interns, canceling one applicant's interview with just an hour's notice",
       "excerpt": "An envelope. It indicates the ability to send an email. An curved arrow pointing right. DeepMind has imposed a freeze on hiring for new interns at the Alphabet-owned company. The AI firm told ...",
@@ -1427,102 +1523,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-join-a-viewing-party.md",
-      "title": "Join a Viewing Party",
-      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/dev-summit/viewing-parties/",
-      "originalUrl": "https://www.tensorflow.org/dev-summit/viewing-parties/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tensorflow.org/dev-summit/images/meta.png",
-          "width": 1080,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T20:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-how-were-using-machine-learning-to-understand-proteins.md",
-      "title": "How we’re using machine learning to understand proteins",
-      "excerpt": "When most people think of proteins, their mind typically goes to protein-rich foods such as steak or tofu. But proteins are so much more. They’re essential to how living things operate and thrive, and studying them can help improve lives. For example, insulin treatments are life-changing for people with",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/health/machine-learning-to-understand-proteins/",
-      "originalUrl": "https://blog.google/technology/health/machine-learning-to-understand-proteins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Machine Learning"
       ]
     }
   ],

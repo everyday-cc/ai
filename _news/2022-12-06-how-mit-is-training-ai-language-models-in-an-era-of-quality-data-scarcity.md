@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-06T14:10:00Z
 originalUrl: "https://venturebeat.com/ai/how-mit-is-training-ai-language-models-in-an-era-of-quality-data-scarcity/"
 webUrl: "https://venturebeat.com/ai/how-mit-is-training-ai-language-models-in-an-era-of-quality-data-scarcity/"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: VentureBeat

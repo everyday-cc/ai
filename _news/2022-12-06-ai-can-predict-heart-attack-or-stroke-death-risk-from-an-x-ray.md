@@ -1,0 +1,74 @@
+---
+category: news
+title: "AI Can Predict Heart Attack or Stroke Death Risk From an X-Ray"
+excerpt: "A new study by researchers at Massachusetts General Hospital and the AI in Medicine program at the Brigham and Women’s Hospital in Boston demonstrates how an AI deep learning model can predict the 10-year risk of death from stroke or a heart attack from a single chest X-ray."
+publishedDateTime: 2022-12-05T22:53:00Z
+originalUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202212/ai-can-predict-heart-attack-or-stroke-death-risk-x-ray"
+webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202212/ai-can-predict-heart-attack-or-stroke-death-risk-x-ray"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202212/ai-can-predict-heart-attack-or-stroke-death-risk-x-ray?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202212/ai-can-predict-heart-attack-or-stroke-death-risk-x-ray?amp"
+type: article
+quality: 59
+heat: 89
+published: true
+
+provider:
+  name: Psychology Today
+  domain: psychologytoday.com
+
+topics:
+  - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-12/pi2352.gif.jpg?itok=vffVOnli"
+    width: 1528
+    height: 800
+    isCached: true
+
+related:
+  - title: "Researchers develop AI that predicts risk of heart attack with one X-ray"
+    excerpt: "At such a juncture in time, a trial presented at the Radiological Society of North America (RSNA) has shown that an artificial intelligence has been able to detect the susceptibility of a patient to heart attack and stroke with just one X-ray."
+    publishedDateTime: 2022-12-04T11:49:00Z
+    webUrl: "https://www.livemint.com/science/health/researchers-develop-ai-that-predicts-risk-of-heart-attack-with-one-xray-11670147870319.html"
+    ampWebUrl: "https://www.livemint.com/science/health/researchers-develop-ai-that-predicts-risk-of-heart-attack-with-one-xray/amp-11670147870319.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/science/health/researchers-develop-ai-that-predicts-risk-of-heart-attack-with-one-xray/amp-11670147870319.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 58
+    images:
+      - url: "https://images.livemint.com/img/2022/12/04/600x338/heart-kyjD--621x414LiveMint_1670148016454_1670148016584_1670148016584.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Artificial Intelligence Predicts Future Heart Disease, Stroke Death Risk Using Single X-Ray"
+    excerpt: "Scientists have also discovered a way to use artificial intelligence to predict the risk of a heart attack or stroke using only a single x-ray."
+    publishedDateTime: 2022-12-04T05:07:00Z
+    webUrl: "https://www.ndtv.com/world-news/artificial-intelligence-predicts-future-heart-disease-stroke-death-risk-using-single-x-ray-3576252"
+    ampWebUrl: "https://www.ndtv.com/world-news/artificial-intelligence-predicts-future-heart-disease-stroke-death-risk-using-single-x-ray-3576252/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/artificial-intelligence-predicts-future-heart-disease-stroke-death-risk-using-single-x-ray-3576252/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 49
+    images:
+      - url: "https://c.ndtvimg.com/2022-06/ipbu0t1_heart-attack_650x400_03_June_22.jpg"
+        width: 650
+        height: 400
+        isCached: true
+  - title: "How An X Ray Can Help Predict Risk Of Heart Attack"
+    excerpt: "The World Health Organisation (WHO) has reported that globally heart disease is now the biggest cause of mortality. According to estimates, about one crore 70 lakh individuals worldwide lose their lives to cardiovascular disease each year."
+    publishedDateTime: 2022-12-05T13:35:00Z
+    webUrl: "https://www.onlymyhealth.com/how-an-x-ray-can-help-predict-risk-of-heart-attack-1670245722"
+    type: article
+    provider:
+      name: Onlymyhealth
+      domain: onlymyhealth.com
+    quality: 4
+
+secured: "5fDA4RrxQNLKAxmJetfBTpsP3SgS88SNgGWxOuFMdD73D14HdZneVbR2C8cZJqsPnX7yfIS7dNfFtxfwcgs0dfEhRzf1QYRqLDT7qmstKxooblRKXwZmtwyOCvwk16SfZFUcE3+KXjYyPL+5OnGlrypxKh2hs3sj/ETosPL/st3l1srXBzLt9FrkKKqpiwUkG6wo4e4vmwvFm7e7HZer8AeF8Xlu0bcZXO45OTEg/NtbmyWOzqJa2eLIoXk4vHdvKKATpRrr+L5s9Y62s3UPtutkbootWyhwKfh+I05HK1bXdLAfcOgMPghvzt6VnS/llzlEmDkhGXkc4Dq4QXTA0o+DhjwWpTgZSnCAQN/4C18=;rxvq6i1ZU5EL7E6zo4Al9Q=="
+---
+

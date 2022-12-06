@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/science/health/researchers-develop-ai-that-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/science/health/researchers-develop-ai-that-predicts-risk-of-heart-attack-with-one-xray/amp-11670147870319.html"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: -1
+published: false
 
 provider:
   name: Mint
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Can Predict Heart Attack or Stroke Death Risk From an X-Ray"
+    excerpt: "A new study by researchers at Massachusetts General Hospital and the AI in Medicine program at the Brigham and Women’s Hospital in Boston demonstrates how an AI deep learning model can predict the 10-year risk of death from stroke or a heart attack from a single chest X-ray."
+    publishedDateTime: 2022-12-05T22:53:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202212/ai-can-predict-heart-attack-or-stroke-death-risk-x-ray"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202212/ai-can-predict-heart-attack-or-stroke-death-risk-x-ray?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202212/ai-can-predict-heart-attack-or-stroke-death-risk-x-ray?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 59
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-12/pi2352.gif.jpg?itok=vffVOnli"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "Artificial Intelligence Predicts Future Heart Disease, Stroke Death Risk Using Single X-Ray"
     excerpt: "Scientists have also discovered a way to use artificial intelligence to predict the risk of a heart attack or stroke using only a single x-ray."
     publishedDateTime: 2022-12-04T05:07:00Z

@@ -2,6 +2,326 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-12-01-asia-pacific-fintech-as-a-service-market-report-2022-key-players-paypal-mastercard-sofi-technologies-and-more-fueling-174-annual-growth.md",
+      "title": "Asia Pacific Fintech-as-a-Service Market Report 2022: Key Players PayPal, Mastercard, SoFi Technologies and More Fueling 17.4% Annual Growth",
+      "excerpt": "The Asia Pacific Fintech-as-a-Service Market is expected to witness market growth of 17.4% CAGR during the forecast period (2022-2028). The debut of ARDEN in May 2022 was announced by Brightwell Payments,",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/11/30/9722271.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/11/30/9722271.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T11:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-here-workspace-the-low-code-platform-tool-for-map-creation-now-comes-with-machine-learning-from-aws.md",
+      "title": "HERE Workspace: The low-code platform tool for map creation now comes with machine learning from AWS",
+      "excerpt": "HERE Workspace adds new low-code mapmaking capabilities and now connects to Amazon SageMaker, AWS's machine learning platform, to further expand the possibilities for customers developing spatial inte",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/g29912625/here-workspace-the-low-code-platform-tool-for-map-creation-now-comes-with-machine-learning-from-aw",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/g29912625/here-workspace-the-low-code-platform-tool-for-map-creation-now-comes-with-machine-learning-from-aw",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png",
+          "width": 666,
+          "height": 282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29912625",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29912625",
+      "publishedDateTime": "2022-11-30T10:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-driverless-parking-service-begins-commercial-operation-at-stuttgart-airport.md",
+      "title": "Driverless parking service begins commercial operation at Stuttgart Airport",
+      "excerpt": "The development partners say that the commercial approval from Germany's Federal Motor Transport Authority to operate its driverless parking system at the APCOA P6 parking garage at Stuttgart ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/automotive/mercedes-bosch-commercial-automated-valet-parking-stuttgart/",
+      "originalUrl": "https://newatlas.com/automotive/mercedes-bosch-commercial-automated-valet-parking-stuttgart/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/1d9a14e/2147483647/strip/true/crop/4961x2605+0+93/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fca%2F57%2F77bc3e2b45cbb56a8cb81ce6b578%2F22c0242-007.jpg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T10:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-introducing-aws-ai-service-cards-a-new-resource-to-enhance-transparency-and-advance-responsible-ai.md",
+      "title": "Introducing AWS AI Service Cards: A new resource to enhance transparency and advance responsible AI",
+      "excerpt": "Artificial intelligence (AI) and machine learning (ML) are some of the most transformative technologies we will encounter in our generation—to tackle business and societal problems, improve customer experiences, and spur innovation. Along with the widespread use and growing scale of AI comes the recognition",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-aws-ai-service-cards-a-new-resource-to-enhance-transparency-and-advance-responsible-ai/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-aws-ai-service-cards-a-new-resource-to-enhance-transparency-and-advance-responsible-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/29/ai-service-cards-responsible-ai.jpg",
+          "width": 1563,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T09:51:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-role-of-ai-in-fintech.md",
+      "title": "Role of AI in fintech",
+      "excerpt": "AI has come a long way since then! Innovation has always been a strong pillar of the fintech ecosystem. It is not surprising that in recent years, they have relied heavily on AI and ML to make ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/role-of-ai-in-fintech/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/role-of-ai-in-fintech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/75433510.cms",
+          "width": 330,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/role-of-ai-in-fintech/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/role-of-ai-in-fintech/",
+      "publishedDateTime": "2022-11-30T09:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-verdant-robotics-cultivates-465m-in-series-a-funding.md",
+      "title": "Verdant Robotics cultivates $46.5M in Series A funding",
+      "excerpt": "Verdant Robotics' Series A raised $46.5 million. The money will speed up the company's robotic farm manufacturing and market launch.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/verdant-robotics-cultivates-46-5m-in-series-a-funding/",
+      "originalUrl": "https://www.therobotreport.com/verdant-robotics-cultivates-46-5m-in-series-a-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/11/Verdant-fleet-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T09:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-the-era-of-evolution-for-conversational-ai.md",
+      "title": "The Era of Evolution for Conversational AI",
+      "excerpt": "Conversation AI-powered digital avatars would act as personal shopping assistants or stylists for customers, assisting them in a quick, seamless virtual shopping journey, owing to the lower latency of",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/en-in/technology/the-era-of-evolution-for-conversational-ai/440181",
+      "originalUrl": "https://www.entrepreneur.com/en-in/technology/the-era-of-evolution-for-conversational-ai/440181",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1669870136-Myproject-1155.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-san-francisco-approves-use-of-remote-controlled-robots-to-kill-suspects.md",
       "title": "San Francisco approves use of remote-controlled robots to kill suspects",
       "excerpt": "San Francisco’s police will be allowed to use remote-controlled robots to kill suspects. The city’s board of supervisors last night approved a controversial policy that lets police robots ...",
@@ -93,49 +413,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-amazon-to-warn-customers-on-limitations-of-its-ai.md",
-      "title": "Amazon To Warn Customers On Limitations Of Its AI",
-      "excerpt": "Akin to lengthy nutrition labels, Amazon's so-called AI Service Cards will be public so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription. The goal would be to prevent mistaken use of its technology, explain how its systems work and manage privacy, Amazon said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985",
-      "originalUrl": "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.ibtimes.com/en/full/4389003/amazon-logo-company-logistics-center-lauwin-planque.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1",
-      "publishedDateTime": "2022-11-30T08:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     },
@@ -501,8 +778,8 @@
       "title": "Data Center Accelerator Global Market Report 2022: Growing Use of Deep Learning Technology in Big Data Analytics Boosts Sector",
       "excerpt": "The Data Center Accelerator market size is estimated to be USD 21.2 billion in 2022 and is projected to reach USD 64.0 billion by 2027, at a CAGR of 24.7% during the forecast period. The boom in the data center accelerator market is mostly due to the increasing number of companies offering machine learning as a service and increasing demand for FPGA-based accelerators.",
       "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/11/30/9721625.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/11/30/9721625.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/-data-center-accelerator-global-market-report-2022-growing-/2022/11/30/9721625.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-data-center-accelerator-global-market-report-2022-growing-/2022/11/30/9721625.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -512,7 +789,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T04:41:00-08:00",
+      "publishedDateTime": "2022-11-30T04:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -920,264 +1197,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-early-research-suggests-promising-use-of-ai-to-predict-risk-of-heart-attack-or-stroke-using-a-single-chest-x-ray.md",
-      "title": "Early research suggests promising use of AI to predict risk of heart attack or stroke using a single chest X-ray",
-      "excerpt": "By Deidre McPhillips, CNN Early research suggests a promising use of artificial intelligence to predict the 10-year risk of death from a heart attack or stroke from a single chest X-ray. The preliminary findings were presented Tuesday at the annual meeting of the Radiological Society of North America.",
-      "sourceUrl": null,
-      "webUrl": "https://localnews8.com/health/cnn-health/2022/11/29/early-research-suggests-promising-use-of-ai-to-predict-risk-of-heart-attack-or-stroke-using-a-single-chest-x-ray/",
-      "originalUrl": "https://localnews8.com/health/cnn-health/2022/11/29/early-research-suggests-promising-use-of-ai-to-predict-risk-of-heart-attack-or-stroke-using-a-single-chest-x-ray/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://localnews8.b-cdn.net/2022/11/hypatia-h_44d1a744c66563ee67e542a225dd4910-h_8fd481471df36eb8a520d96017fe985d-300.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T22:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Local News 8",
-        "domain": "localnews8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-predictions-for-ai-video-chips-and-more-in-2023-deloitte.md",
-      "title": "Predictions for AI, video, chips and more in 2023 | Deloitte",
-      "excerpt": "The new year will see AI tools for chip design, video streams with ad support, and a crowd of satellites in space, according to Deloitte.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/predictions-for-ai-video-chips-and-more-in-2023-deloitte/",
-      "originalUrl": "https://venturebeat.com/ai/predictions-for-ai-video-chips-and-more-in-2023-deloitte/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/11/deloitte-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/predictions-for-ai-video-chips-and-more-in-2023-deloitte/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/predictions-for-ai-video-chips-and-more-in-2023-deloitte/amp/",
-      "publishedDateTime": "2022-11-29T21:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-alzheimers-drug-lecanemab-slows-cognitive-decline-among-patients-in-early-stages-study-finds.md",
-      "title": "Alzheimer's drug lecanemab slows cognitive decline among patients in early stages, study finds",
-      "excerpt": "A study released Tuesday showed a closely-watched Alzheimer's drug slowed cognitive decline among people with early signs of the disease but also carries safety risks for some patients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/health/2022/11/29/drug-manufacturers-eisai-and-biogen-recruited-1-795-people-earlier-alzheimers-disease-and-amyloid-be/10751248002/",
-      "originalUrl": "https://www.usatoday.com/story/news/health/2022/11/29/drug-manufacturers-eisai-and-biogen-recruited-1-795-people-earlier-alzheimers-disease-and-amyloid-be/10751248002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T20:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-new-artificial-intelligence-could-help-humans-actually-talk-to-animals.md",
-      "title": "New artificial intelligence could help humans actually talk to animals",
-      "excerpt": "New developments in artificial intelligence and technology could help humans communicate with their pets and any other animal species that calls Earth home. Outside of the field of science ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wkbw.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals",
-      "originalUrl": "https://www.wkbw.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.newsy.com/images/videos/m/1669756816_CgX8sG.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wkbw.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true",
-      "cdnAmpWebUrl": "https://www-wkbw-com.cdn.ampproject.org/c/s/www.wkbw.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true",
-      "publishedDateTime": "2022-11-29T20:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WKBW",
-        "domain": "wkbw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-baidus-kunlun-xin-mass-produces-7nm-xpu-r-chips-for-autonomous-driving.md",
-      "title": "Baidu's Kunlun Xin mass produces 7nm XPU-R chips for autonomous driving",
-      "excerpt": "The high-performance chips will be highly compatible with high-end autonomous driving applications. The Kunlun chips, in the future, will be adopted by Baidu's robotaxi services, Apollo Go ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20221129VL207/7nm-automotive-ic-baidu.html",
-      "originalUrl": "https://www.digitimes.com/news/a20221129VL207/7nm-automotive-ic-baidu.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20221129vl207_files/4_b.jpg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T17:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-accel-funded-finbotsai-signs-first-neobank-in-mongolia-m-bank.md",
-      "title": "Accel Funded finbots.ai Signs First Neobank in Mongolia – M Bank",
-      "excerpt": "Singapore-based finbots.ai has signed its first customer in Mongolia, a neobank called M-Bank. finbots.ai is an Accel-funded Fintech that provides B2B software as a service (SaaS). finbots.ai’s utilizes artificial intelligence (AI) to provide a credit modelling solution that aims to enable M bank to rapidly develop and deploy high accuracy application and behaviour scorecards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/11/199262-accel-funded-finbots-ai-signs-first-neobank-in-mongolia-m-bank/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/11/199262-accel-funded-finbots-ai-signs-first-neobank-in-mongolia-m-bank/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/12/Fintech-Asia-Singapore-Buddha-Museam-1024x758.jpg",
-          "width": 1024,
-          "height": 758,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/11/199262-accel-funded-finbots-ai-signs-first-neobank-in-mongolia-m-bank/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/11/199262-accel-funded-finbots-ai-signs-first-neobank-in-mongolia-m-bank/amp/",
-      "publishedDateTime": "2022-11-29T17:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

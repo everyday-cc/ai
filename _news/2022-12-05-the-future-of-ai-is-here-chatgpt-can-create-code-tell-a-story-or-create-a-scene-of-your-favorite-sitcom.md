@@ -181,22 +181,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "TechScape: Meet ChatGPT, the viral AI tool that may be a vision of our weird tech future"
-    excerpt: "OpenAI’s new chatbot isn’t a novelty. It’s already powerful and useful – and could radically change the way we write online"
-    publishedDateTime: 2022-12-06T11:12:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/dec/06/meet-chatgpt-the-viral-ai-tool-that-may-be-a-vision-of-our-weird-tech-future?amp"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/dec/06/meet-chatgpt-the-viral-ai-tool-that-may-be-a-vision-of-our-weird-tech-future"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/dec/06/meet-chatgpt-the-viral-ai-tool-that-may-be-a-vision-of-our-weird-tech-future"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 48
-    images:
-      - url: "https://i.guim.co.uk/img/media/d008822e799c496cd5d6d1e89a044345469fc771/0_294_5500_3300/master/5500.jpg?width=620&quality=85&auto=format&fit=max&s=c3d58d0185c0e62435422c1c71dad04d"
-        width: 620
-        height: 372
-        isCached: true
   - title: "A|I: The AI Times – Turing tested: ChatGPT is craaaazy"
     excerpt: "The AI Times is a weekly newsletter covering the biggest AI ... The investment is aimed at supporting Sanctuary’s $120.8 million project to develop what the startup claims to be the “world’s first functioning human-like intelligence in general ..."
     publishedDateTime: 2022-12-05T16:19:00Z
@@ -264,6 +248,24 @@ related:
         width: 1070
         height: 580
         isCached: true
+  - title: "TechScape: Meet ChatGPT, the viral AI tool that may be a vision of our weird tech future"
+    excerpt: "OpenAI’s new chatbot isn’t a novelty. It’s already powerful and useful – and could radically change the way we write online"
+    publishedDateTime: 2022-12-06T11:12:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/dec/06/meet-chatgpt-the-viral-ai-tool-that-may-be-a-vision-of-our-weird-tech-future"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 8
+  - title: "We Asked ChatGPT Questions About the Language Industry…It Had a Lot to Say"
+    excerpt: "OpenAI invited people on Twitter to try the AI conversation interface ChatGPT and provide feedback. Usage soon exploded. The chat app reached over one million users in just five days. ChatGPT builds on OpenAI’s Large Model (LLM) and is next-level for AI dialogue iterations."
+    publishedDateTime: 2022-12-06T11:56:00Z
+    webUrl: "https://slator.com/we-asked-chatgpt-questions-about-language-industry/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 2
 
 secured: "3eA1KH4m+nfCrBYHMO3B9ZVFIF3fdO4GGAG+hvJ/KHYdyI2Yx+Blurv8rOPmpcCfkpTEo1CukMc4XDsVO4/HHDb/MRTuY9U6jXdU17sOtMtQrCc3U49V2UNIg2Gj6HaWgWp+ZtY3KOUtn/8eiMOi9DAPklimbGVkOAmcdbOZBjBmBRdjbVFarT/Yyxk0kr04x7qwgcJhU1lrFKPE2t+tH/sUGeGThsb/jwqWyjbkp/+yHmJNRZiVqoBCoZ3CAkVwYev1F9oa42qaoXT/OjjBRLVRufgjAYhk2eyWyOO8xN2Ni4W3jytAHZe1R0pYCuPgbs3KXI+Y0ipoYoIQh0wH72JwTd/U9smNswlYcZ7EKqcwGCuefoWHSfCtlwVJOB5ighNPDNilSFoRj/RBtOl13ho1cDhnJWoQMk1daKW3MSrUv9stUC9YCHvTZc/qY7h3SZ1UxrsEWYExdmI2zdLOvLeKrP65AKeDBUeIU2vrlfv1NQaL9uCPhWABLW8OuMLJz/9/nyd4N2N9iKr/2jlntQ==;F1Osj32d3Gi9PMPMQrSnxw=="
 ---

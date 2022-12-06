@@ -19,6 +19,12 @@ topics:
   - AI Ethics
   - AI
 
-secured: "dCLD2XCvkpoS66I7hxcYicybEl7uTB18B96wqeSc88N1WcnPccl+QxLLBWQeE0xnLVsf33X5vrIZqa7RjQwxXYPw1vRlILQzNABOj2NE5vCf87T+SzTuT4+s3dL98wCVJGXNq8bjTN9NyVG7PGoM5BH8D1zcXKmBRM/C71RRaFUvhpHpwOL/0JrcuQ+Ulex6CUfeg6/HW/K79egjoMtwgrISzpv4+sIpwxSyuS5EsYwSW81+axvcvb0ea9B54SPsyg+VkHW3TAay8gK9+L63MQDj8ojVghekZgmOquzZmjP3m54LAJlEjVl/EkaHwqFTvOOQM4F+jP3UY8ec2HS51WWF15Pz0QnIKEb6lq/sD4A=;aCQW0anykZfKgY1ODtFBhA=="
+images:
+  - url: "https://www.reuters.com/resizer/g4FkAeB1syg6dyJxBiAxlo2QyzQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SWHRVR65DJLWVK4B3D4PTWA5FY.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "bMf35Ty7GWy1yn0OyAYPWzw2niAYO7YIAEtkZmKS2guHbfROmG2uLr4NxT6J9fVEAWmYZSTpDjaJNUH7H9V0VWOgNXo+OpdHYc8s1QVYidr4v8HSBKwVo2y5FBZ0gHWQFEJskSQYMIiWoJDd7i0Ijs5CmY1Uh1PCKyN26eKGVkluaRx5LldPeKFn8D0Fxb+LBcv17TLay01Tqsi1w97Xq9DkDtKL47FHJIIVWJIm6rKBcyzQLM4ZbOr6Gz+DHJDvmDZCe7TZHRN0ZWop/SDKZDXgEDwHrQia2e3RvJ2xO2foqXQc2TMgPdtxMq+YYjhCfC6khI/yRBZyZmZVN7/q+YHvyIz3TLGc3rfYFGRpp4c=;17g40fTqQySZdlVQyIUShg=="
 ---
 

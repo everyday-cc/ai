@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-28-neural-cloud-now-out-on-android-and-ios.md",
+      "title": "Neural Cloud Now Out on Android and iOS",
+      "excerpt": "Neural Cloud is a strategy RPG that features an intuitively designed deck-builder and delivers hyper-charged combat sequences on a tiled battlefield. The gameplay is both clever and fast-paced, which are mixed with futuristic-styled visuals and a soundtrack full of melody and attitude.",
+      "sourceUrl": null,
+      "webUrl": "https://www.player.one/neural-cloud-mobile-152418",
+      "originalUrl": "https://www.player.one/neural-cloud-mobile-152418",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-28T05:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "player.one",
+        "domain": "player.one",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-28-5-risks-of-ai-and-machine-learning-that-modelops-remediates.md",
+      "title": "5 risks of AI and machine learning that modelops remediates",
+      "excerpt": "Modelops improves machine learning model development, testing, deployment, and monitoring. Follow these tips to keep model risks in check and increase the efficiency and usefulness of your ML initiatives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3681208/5-risks-of-ai-and-machine-learning-that-modelops-remediates.html",
+      "originalUrl": "https://www.infoworld.com/article/3681208/5-risks-of-ai-and-machine-learning-that-modelops-remediates.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/10/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3681208/5-risks-of-ai-and-machine-learning-that-modelops-remediates.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3681208/5-risks-of-ai-and-machine-learning-that-modelops-remediates.amp.html",
+      "publishedDateTime": "2022-11-28T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-11-28-as-ai-gets-smarter-creatives-must-continue-to-predict-its-behavior.md",
       "title": "As AI Gets Smarter, Creatives Must Continue To Predict Its Behavior",
       "excerpt": "Predicting and influencing human behavior is as old as human beings themselves, but now we’re entering a new territory—one that has never been possible until the advent of AI. Artificial intelligence helped me write the end of that last sentence.",
@@ -1253,95 +1339,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-azure-ml-vs-databricks-machine-learning-comparison.md",
-      "title": "Azure ML vs. Databricks: Machine Learning Comparison",
-      "excerpt": "Microsoft Azure ML and Databricks both offer top-rated ML tools. But which is best for your company? Machine learning (ML) is being incorporated into virtually all aspects of enterprise IT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/azure-ml-vs-databricks/",
-      "originalUrl": "https://www.eweek.com/big-data-and-analytics/azure-ml-vs-databricks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/01/Poly.headset-1.jpg",
-          "width": 698,
-          "height": 521,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-18T02:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-lumiq-wins-aws-specialty-partner-of-the-year-2022-for-data-analytics-machine-learning-second-year-in-a-row.md",
-      "title": "LUMIQ wins AWS Specialty Partner of the Year 2022 - for Data, Analytics, & Machine Learning - second year in a row",
-      "excerpt": "India's leading Data & Analytics company bagged the AWS Specialty Partner of the Year 2022 Award for Data, Analytics, and Machine Learning at the recent AWS Partner Summit in Bengaluru. The event saw Anil Kumble talking about his entrepreneurial journey and the evolution of the Indian tech landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/articles/Business/20221117/4004639.html",
-      "originalUrl": "https://news.webindia123.com/news/articles/Business/20221117/4004639.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T11:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],

@@ -25,116 +25,63 @@ images:
     isCached: true
 
 related:
-  - title: "Now AI can outmaneuver you at both Stratego and Diplomacy"
-    excerpt: "Stratego and Diplomacy were human-dominated, but now AI has become table-flipping good at one and passably human at the other."
-    publishedDateTime: 2022-12-02T00:06:00Z
-    webUrl: "https://techcrunch.com/2022/12/01/now-ai-can-outmaneuver-you-at-both-stratego-and-diplomacy/"
-    ampWebUrl: "https://techcrunch.com/2022/12/01/now-ai-can-outmaneuver-you-at-both-stratego-and-diplomacy/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/01/now-ai-can-outmaneuver-you-at-both-stratego-and-diplomacy/amp/"
+  - title: "AI Arena teaches AI to players by training and battling AI fighters"
+    excerpt: "ArenaX Lab's mission is to educate people about AI using a new AI platform style fighting game dubbed AI Arena."
+    publishedDateTime: 2022-12-02T16:00:00Z
+    webUrl: "https://venturebeat.com/games/ai-arena-lets-you-train-ai-characters-and-test-them-in-a-fighting-game/"
+    ampWebUrl: "https://venturebeat.com/games/ai-arena-lets-you-train-ai-characters-and-test-them-in-a-fighting-game/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/ai-arena-lets-you-train-ai-characters-and-test-them-in-a-fighting-game/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/12/deepmind-stratego-j.jpg?resize=1200,675"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/12/AI-Arena-Banner-1200-x-675.jpg?w=1200&strip=all"
         width: 1200
         height: 675
         isCached: true
-  - title: "DeepMind’s Latest AI Trounces Human Players at the Game ‘Stratego’"
-    excerpt: "DeepMind just took a stab at solving this conundrum. The trick was to interweave game theory into an algorithmic strategy loosely based on the human brain called deep reinforcement learning. The result, DeepNash, toppled human experts in a highly strategic ..."
-    publishedDateTime: 2022-12-05T18:31:00Z
-    webUrl: "https://singularityhub.com/2022/12/05/deepminds-latest-ai-trounces-human-players-at-the-game-stratego/"
-    ampWebUrl: "https://singularityhub.com/2022/12/05/deepminds-latest-ai-trounces-human-players-at-the-game-stratego/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/12/05/deepminds-latest-ai-trounces-human-players-at-the-game-stratego/?amp=1"
+  - title: "The Avengers By Wes Anderson Imagined By The Russo Brothers Using AI Art"
+    excerpt: "The Russo Bothers imagined what The Avengers would be like as a Wes Anderson project using AI art. On Twitter, they found some images from @digiguru and posted them to Instagram. In these pictures, the Marvel Studios universe gets the same sort of color-grading,"
+    publishedDateTime: 2022-12-06T13:28:00Z
+    webUrl: "https://comicbook.com/movies/news/marvel-avengers-wes-anderson-ai-art-russo-brothers-midjourney/"
+    ampWebUrl: "https://comicbook.com/movies/amp/news/marvel-avengers-wes-anderson-ai-art-russo-brothers-midjourney/"
+    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/movies/amp/news/marvel-avengers-wes-anderson-ai-art-russo-brothers-midjourney/"
     type: article
     provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 76
+      name: Comicbook.com
+      domain: comicbook.com
+    quality: 58
     images:
-      - url: "https://singularityhub.com/wp-content/uploads/2022/12/stratego-board-game-pieces-blue.jpeg"
-        width: 1068
-        height: 601
+      - url: "https://sportshub.cbsistatic.com/i/2022/12/02/26dc248f-5add-41d3-b9d4-4dc2efee2482/pz-thumbnail-art-1x1-1.jpg?width=568&height=320"
+        width: 568
+        height: 320
         isCached: true
-  - title: "DeepMind's new AI app plays Stratego at expert level"
-    excerpt: "A team of researchers at DeepMind Technologies Ltd., has created an AI application called \"DeepNash\" that is able to play the game Stratego at an expert level. In their paper published in the journal Science,"
-    publishedDateTime: 2022-12-02T15:30:00Z
-    webUrl: "https://techxplore.com/news/2022-12-deepmind-ai-app-plays-stratego.html"
-    ampWebUrl: "https://techxplore.com/news/2022-12-deepmind-ai-app-plays-stratego.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-deepmind-ai-app-plays-stratego.amp"
+  - title: "Artificial Intelligence Shows the Way to Fight Aging and Cancer"
+    excerpt: "New artificial intelligence-enabled study discovers commonly dysregulated genes potentially involved in the progression of cancer and premature aging diseases."
+    publishedDateTime: 2022-12-05T16:25:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-shows-the-way-to-fight-aging-and-cancer-209528-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-shows-the-way-to-fight-aging-and-cancer-209528-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-shows-the-way-to-fight-aging-and-cancer-209528-1.htm"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/deepminds-new-ai-app-p.jpg"
-        width: 797
-        height: 446
-        isCached: true
-  - title: "DeepMind’s New AI Uses Game Theory to Trounce Humans in ‘Stratego’"
-    excerpt: "Now, you can now add the strategy game Stratego to that ever-growing list. Researchers from Alphabet-owned DeepMind, according to new research shared with Gizmodo, say they’ve created a new AI ..."
-    publishedDateTime: 2022-12-02T08:41:00Z
-    webUrl: "https://www.gizmodo.com.au/2022/12/deepminds-new-ai-uses-game-theory-to-trounce-humans-in-stratego/"
-    ampWebUrl: "https://www.gizmodo.com.au/2022/12/deepminds-new-ai-uses-game-theory-to-trounce-humans-in-stratego/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/12/deepminds-new-ai-uses-game-theory-to-trounce-humans-in-stratego/amp/"
-    type: article
-    provider:
-      name: gizmodo
-      domain: gizmodo.com.au
-    quality: 74
-    images:
-      - url: "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/12/02/deepmind-stratego.png?quality=80&resize=1280,720"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Here’s how a new AI mastered the tricky game of Stratego"
-    excerpt: "Stratego creates a unique challenge for computers to solve. It's what's known in game theory as an “imperfect information game.”"
-    publishedDateTime: 2022-12-03T12:00:00Z
-    webUrl: "https://www.popsci.com/technology/ai-stratego/"
-    ampWebUrl: "https://www.popsci.com/technology/ai-stratego/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-stratego/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
+      name: Medindia
+      domain: medindia.net
     quality: 57
     images:
-      - url: "https://www.popsci.com/uploads/2022/12/02/Stratego_plateau.jpg?auto=webp"
-        width: 1024
-        height: 765
+      - url: "https://www.medindia.net/health-images/cancer-cells-influence.jpg"
+        width: 300
+        height: 250
         isCached: true
-  - title: "AI algorithm learns how to beat expert players at complex board game Stratego"
-    excerpt: "DeepMind, a Google research company, has developed a system able to strategize against humans in a game infinitely more complex than chess or poker, opening new paths for science"
-    publishedDateTime: 2022-12-02T12:04:00Z
-    webUrl: "https://english.elpais.com/science-tech/2022-12-02/ai-algorithm-learns-how-to-beat-expert-players-at-complex-board-game-stratego.html"
-    ampWebUrl: "https://english.elpais.com/science-tech/2022-12-02/ai-algorithm-learns-how-to-beat-expert-players-at-complex-board-game-stratego.html?outputType=amp"
-    cdnAmpWebUrl: "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/science-tech/2022-12-02/ai-algorithm-learns-how-to-beat-expert-players-at-complex-board-game-stratego.html?outputType=amp"
+  - title: "AI taught to play video game by Google and is now one of world's top players"
+    excerpt: "An artificial intelligence system has been taught how to play a video game and has learned how to beat top human players. DeepMind announced that DeepNash has become so proficient at Stratego that it has climbed to the world's all-time top-three ranked ..."
+    publishedDateTime: 2022-12-05T13:35:00Z
+    webUrl: "https://www.tweaktown.com/news/89754/ai-taught-to-play-video-game-by-google-and-is-now-one-of-worlds-top-players/index.html"
     type: article
     provider:
-      name: El País in English
-      domain: elpais.com
-    quality: 56
-    images:
-      - url: "https://images.english.elpais.com/resizer/eoxW6eyTSNvuIb4bTh7HhP_sUWY=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/VUT44RSUTBA75NO2XJZPH64YFQ.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "DeepMind debuts new AI system capable of playing ‘Stratego’"
-    excerpt: "Alphabet Inc.’s DeepMind unit has developed a new artificial intelligence system capable of playing “Stratego,” a board game considered more complex than chess and Go. DeepMind detailed the AI system,"
-    publishedDateTime: 2022-12-02T21:09:00Z
-    webUrl: "https://siliconangle.com/2022/12/02/deepmind-debuts-new-ai-system-capable-playing-stratego/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/6388ce129963208649083b0e_Stratego_header_02_hd-p-1600.png"
-        width: 1600
-        height: 900
-        isCached: true
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 16
 
 secured: "+v0RuOoQHCPKyQq3lz9BLrlc8OO/iXl7wxODrnGZfzQWLWSpqT9fkYqzFCtWKBTRizy6XFixR+tkC2w2VvjdyDvMfFFchPamUSHBW4vnG1jUre5dIN1SBTCFWuej0Zahg9y/t22ShTj6iwqka4GCDVkj+lMBk+5tExqR0TcHtgEEvy8syw8I9c/6OkHCmWy1zo2QNKYziwFMiTxPa+XjtJmstjAP7+1d+bTyoRjN0pox/eDftrhoN9KTFkLo7J4cszz7aUzbfYVF8H6V9IxOEdwP3QPgpgvNDFgsNTp5BG4VHXaQbSk/nXn+fbOVTy32Ux2mCcPWBP2CuIcJBJptA7JPc/YJSxFtnnE1IaR3y4p0OYnMns0muz1+5iYoW4B408BnWvsAxWcSz7XE1msoaS3kDiiWhtkaWfv1tlknD/JT1+WD/eVttCX7TLpc7xfcjowGmAabEy3ez5vkBxCkLZ0CdbfhItSJLc7LKBIKwI0BD26zCUAq3d+7TxLCzwqHuF9mmlbuY0WfazuBlP2Elg==;KWYlTm4EFgA7/7l5OLMQew=="
 ---

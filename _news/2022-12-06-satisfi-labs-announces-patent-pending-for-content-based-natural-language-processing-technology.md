@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-06T14:20:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/satisfi-labs-announces-patent-pending-for-content-based-natural-language-processing-technology-1031955420"
 webUrl: "https://markets.businessinsider.com/news/stocks/satisfi-labs-announces-patent-pending-for-content-based-natural-language-processing-technology-1031955420"
 type: article
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Business Insider

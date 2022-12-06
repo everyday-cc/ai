@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-06T14:01:00Z
 originalUrl: "https://www.chron.com/local-history/article/Thorwald-Andresen-narrowly-escaped-serious-injury-17627531.php"
 webUrl: "https://www.chron.com/local-history/article/Thorwald-Andresen-narrowly-escaped-serious-injury-17627531.php"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Houston Chronicle

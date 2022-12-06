@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-06T14:17:00Z
 originalUrl: "https://www.news-medical.net/news/20221206/Machine-learning-analysis-suggests-that-there-are-four-sub-phenotypes-of-long-COVID.aspx"
 webUrl: "https://www.news-medical.net/news/20221206/Machine-learning-analysis-suggests-that-there-are-four-sub-phenotypes-of-long-COVID.aspx"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: News Medical

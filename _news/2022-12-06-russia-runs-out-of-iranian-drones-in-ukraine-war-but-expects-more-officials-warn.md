@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-06T14:44:00Z
 originalUrl: "https://www.mirror.co.uk/news/politics/russia-runs-out-iranian-drones-28667383"
 webUrl: "https://www.mirror.co.uk/news/politics/russia-runs-out-iranian-drones-28667383"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: The Mirror

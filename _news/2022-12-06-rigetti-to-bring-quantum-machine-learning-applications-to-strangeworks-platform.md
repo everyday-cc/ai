@@ -1,21 +1,23 @@
 ---
 category: news
-title: "Rigetti To Bring Quantum Machine Learning Applications To Strangeworks Platform"
-excerpt: "The applications are planned to be made available through Rigetti's on-demand, pay-as-you-go access model via Strangeworks. This on-demand access to Rigetti systems has been enabled by tightly integrating Rigetti's quantum processing units with the Strangeworks platform."
-publishedDateTime: 2022-12-06T13:52:00Z
-originalUrl: "https://menafn.com/1105274054/Rigetti-To-Bring-Quantum-Machine-Learning-Applications-To-Strangeworks-Platform"
-webUrl: "https://menafn.com/1105274054/Rigetti-To-Bring-Quantum-Machine-Learning-Applications-To-Strangeworks-Platform"
+title: "Rigetti to Bring Quantum Machine Learning Applications to Strangeworks Platform"
+excerpt: "The applications are planned to be made available through Rigetti’s on-demand, pay-as-you-go access model via Strangeworks. This on-demand access to Rigetti systems has been enabled by tightly integrating Rigetti’s quantum processing units with the Strangeworks platform."
+publishedDateTime: 2022-12-06T13:39:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/12/06/9724957.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/12/06/9724957.htm"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
-secured: "mHclxZT30pIbIbHDPZIYJGrGdI537UT6g9gUPhmcPg5Rxr9HLO8Pcr+Yr58Wx4oxwrVVVz9ueZ0BL4Jfl7z3H7E1QBTkK/F4jfpvtMNWYoIkvBv+kzF0R5faXaD+xS7vkDEv/nrwyVBY3uY6O38Rw8LrBX+P1HRJk8iy5poNTtW/wYZ0b/dlBysAcR0s9aXFtOzU4nDSMs3oO1KX3CxknzUk7PB6YawnanV0Cpd7JuqO0JP0Cv+F6Q6JihmzZGwzvbQIyV0jIZSY9WfeHsQJLSIYyyk9dFKMwmt91Su6g1oFfblrlPyX2jErsemr1CaYY0iRN32U+zS1Xz2Vp6B6N96wS1PO5kJVXviIXLX9wnM=;/1ABl65SqpgHaL4UlOGJgg=="
+secured: "U0+BWwvS0+vkCiVXdkKYSmR74mS/yMUrd1gsOiADhZRABas/UJb4dghpOTtxMOXuS/kfW2KtJmfGN2L1imZOFUDsx4O3ae7QADv91sq12Jfcjmd63dqVzpGP21rupa/1RD1n7fxoLQvxwioysdEOrnMBAoZtgBnq+cj0413O+ELVTDPtLP2/Y8mkgFEqmtunIZ5yfwX8PRl/wEJzBepEFUqfBytWTPL2B6mGfO8NvR+E3YGAKq79uoYfvtiio7VTvD1yyLKWYkYZ8R/UY84zQX8XhtUd+lLM+pPZkIrLzibdDqWhkjMU0V5xCcDtYqMeZo6x2MXT49rxWsb6TCsnwJFRL3RC+Fhc7YugBFNJTnI=;m1LAuNqor2yHD8MYCsAS0A=="
 ---
 

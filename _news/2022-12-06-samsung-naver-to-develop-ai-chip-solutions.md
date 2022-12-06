@@ -73,6 +73,15 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Samsung and NAVER are developing AI chips"
+    excerpt: "Samsung and Naver have announced a new partnership to develop AI chips, the two companies will work together to develop semiconductor solutions tailored"
+    publishedDateTime: 2022-12-06T13:01:00Z
+    webUrl: "https://www.geeky-gadgets.com/samsung-and-naver-are-developing-ai-chips-06-12-2022/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 34
 
 secured: "R/oj2BOsRncWebFibfNxJlVZ61JFPM7qjilAte4vwBfIDWMJV7QckR3FdLrX3OsROFlIbvPlH3Rr1LniGOeEUKfCNb6mTS0XIPP+MNHfGOQTeblNjqZIjQds1E3ZP7/QMlAQalIocFwZZ3YhA0qZeXj7ZkZonQ296jnwiqBlAUOWaryHspkJPkXy/pe0tEnb1h1chu+0750rWTMblWWPGAZJqLLwVi2KpJFd/4TIYEZCfvxLrY3opaUZlVy16uBY3iJeni5qqbYjOgd/sqSZDs86p3WxUg/X3M2P3RiEamvUp9RXqQWLz+KFY8QtLWkb1FbDn61JSLJ4/6PMgBU3UOoj1dWnfevklZVZpvxZTQksA2jZqDo8B/+xnCP2O7ezSHCYL2q24aHUqW/Q9ATRaaADJutE7+7UDo3yr1v7jgEckggIzkkcAd9mTjjPmeiXdI3J5g3lY21sIjp6SAN1Uox5OXYwHbetJYIQk6mDgbA6ct05eWrk88EBGrucxRBWvaMAB+3eOqA4mjbYKdCBmw==;rIA61qilsSoyZmxaXQl30A=="
 ---

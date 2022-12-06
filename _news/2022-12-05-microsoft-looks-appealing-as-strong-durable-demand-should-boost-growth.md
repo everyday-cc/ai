@@ -41,8 +41,8 @@ related:
         isCached: true
   - title: "Nexus FrontierTech launches first-of-its-kind plug-and-play AI modules on Microsoft Azure"
     excerpt: "Artificial Intelligence (AI) solution provider Nexus FrontierTech has announced its partnership with Microsoft Azure, allowing clients to utilise the Azure marketplace for quick deployment of AI solutions within their organisations."
-    publishedDateTime: 2022-12-05T14:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-nexus-frontiertech-launches-first-of-its-kind-plug-/2022/12/05/9724024.htm"
+    publishedDateTime: 2022-12-05T12:54:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/12/05/9724024.htm"
     type: article
     provider:
       name: TMCnet
@@ -61,20 +61,6 @@ related:
       - url: "https://cloudblogs.microsoft.com/quantum/wp-content/uploads/sites/7/2022/12/BlogHero_1200x800v2-1.png"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Microsoft, Defense Firms Partnering on Modeling and Simulation Capabilities"
-    excerpt: "Microsoft is collaborating with defense sector companies as DOD seeks to increase its gaming, exercising, modeling and simulation capabilities."
-    publishedDateTime: 2022-12-02T00:46:00Z
-    webUrl: "https://fcw.com/defense/2022/12/microsoft-defense-firms-partnering-modeling-and-simulation-capabilities/380388/"
-    type: article
-    provider:
-      name: Federal Computer Week
-      domain: fcw.com
-    quality: 37
-    images:
-      - url: "https://cdn.fcw.com/media/img/cd/2022/12/01/vrmilGettyImages_1226582027/open-graph.jpg"
-        width: 400
-        height: 400
         isCached: true
 
 secured: "+bMUi2mObZgVGF0r5xTTGj8EXfSyd01Cf8cndTlSzOxYrIWZDi8tnFk+GBgsY0xPOV0DgI/hEDtbabEgszQINZ4YgrfxUyU8+ZqrexQnzU8Ql0PK0vgLTSCBU1N6Qee61315+yDfnGRHfuOd33aKZ91CQwSWkiKqetqu96MbWyZcC3o+iMu6ivT5lzoknzI0udJ40qmfZNBmJY783eveZAsOvrtv+Upg/pZhYlD73I1ZjAReCDUZBtPva8H3vqP83F7GRO5AVNHCdYH+W8MUQYpSfLKMv1k0l8BC9G1ZOShmmEpZwfF0CwR/BxssxrR72KYP+ozBSkiOlR0Pb1+r1G6SGwiD3p3SqMzDrfBekpt4eLcxI43nn3SnwqaJ5T5EMOkEE0TGw7cqCsPqMh3/qqiflHKXa0DdjEG7PIRBr0kzozicmc5C9Y6WBljYbFvyb9Tk5ZdTa+RFj5i1EX6OJty1Rob7c8NZZGXFhrn8WDMjXoCdYjtV0OI4R37EJ7XZoGKHS1gDCeyizFI0+Z5Siw==;Zxwpnzc0w07G/88s4g3Tpg=="

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Can Predict Heart Attack or Stroke Death Risk From an X-Ray"
+    excerpt: "A new study by researchers at Massachusetts General Hospital and the AI in Medicine program at the Brigham and Women’s Hospital in Boston demonstrates how an AI deep learning model can predict the 10-year risk of death from stroke or a heart attack from a single chest X-ray."
+    publishedDateTime: 2022-12-05T22:53:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202212/ai-can-predict-heart-attack-or-stroke-death-risk-x-ray"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202212/ai-can-predict-heart-attack-or-stroke-death-risk-x-ray?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202212/ai-can-predict-heart-attack-or-stroke-death-risk-x-ray?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 59
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-12/pi2352.gif.jpg?itok=vffVOnli"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "Researchers develop AI that predicts risk of heart attack with one X-ray"
     excerpt: "At such a juncture in time, a trial presented at the Radiological Society of North America (RSNA) has shown that an artificial intelligence has been able to detect the susceptibility of a patient to heart attack and stroke with just one X-ray."
     publishedDateTime: 2022-12-04T11:49:00Z

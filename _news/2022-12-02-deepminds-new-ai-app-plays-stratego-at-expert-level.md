@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Now AI can outmaneuver you at both Stratego and Diplomacy"
-    excerpt: "Stratego and Diplomacy were human-dominated, but now AI has become table-flipping good at one and passably human at the other."
-    publishedDateTime: 2022-12-02T00:06:00Z
-    webUrl: "https://techcrunch.com/2022/12/01/now-ai-can-outmaneuver-you-at-both-stratego-and-diplomacy/"
-    ampWebUrl: "https://techcrunch.com/2022/12/01/now-ai-can-outmaneuver-you-at-both-stratego-and-diplomacy/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/01/now-ai-can-outmaneuver-you-at-both-stratego-and-diplomacy/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/12/deepmind-stratego-j.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "DeepMind’s Latest AI Trounces Human Players at the Game ‘Stratego’"
     excerpt: "DeepMind just took a stab at solving this conundrum. The trick was to interweave game theory into an algorithmic strategy loosely based on the human brain called deep reinforcement learning. The result, DeepNash, toppled human experts in a highly strategic ..."
     publishedDateTime: 2022-12-05T18:31:00Z
@@ -121,20 +105,29 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Google Teaches AI to Play Stratego and It Becomes One of the World's Top-Rated Players"
-    excerpt: "DeepMind's latest artificial intelligence called DeepNash has beaten a human player at a game of Stratego, a strategic war game."
-    publishedDateTime: 2022-12-04T18:25:00Z
-    webUrl: "https://futurism.com/the-byte/google-teaches-ai-play-stratego-top-rated-players"
+  - title: "DeepMind spin-off Isomorphic Labs announces drug discovery scale plans"
+    excerpt: "AI drug discovery startup Isomorphic Labs is acquiring talent and a new office as it looks to strike its first business deal"
+    publishedDateTime: 2022-12-05T10:53:00Z
+    webUrl: "https://www.information-age.com/deepmind-spin-off-isomorphic-labs-announces-drug-discovery-scale-plans-123500895/"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 31
+      name: Information Age
+      domain: information-age.com
+    quality: 39
     images:
-      - url: "https://wp-assets.futurism.com/2022/12/google-teaches-ai-play-stratego-top-rated-players.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s42137.pcdn.co/wp-content/uploads/2022/12/deepmind-spin-off-isomorphic-labs-announces-drug-discovery-scale-plans-scaled.jpg.optimal.jpg"
+        width: 2560
+        height: 1440
         isCached: true
+  - title: "DeepMind spin-off steps up effort to use AI to create new drugs"
+    excerpt: "We use cookies and other data for a number of reasons, such as keeping FT Sites reliable and secure,         personalising content and ads, providing social media features and to         analyse how our Sites are used."
+    publishedDateTime: 2022-12-03T15:00:00Z
+    webUrl: "https://www.ft.com/content/92ea2434-8d91-49e3-807d-3e425689e749"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
 
 secured: "WRoOYcljMNsgwn37mnJFeWaYleE5j5yaoAtFLutuXTStbsF3aGCJ0G9uAoj2VB2ccK7z1fBWF1RMD5EUStCrm2CSEmQZNCz1qcdNwDB2qdLeKC+Gjao1S0MIe7Ko0gwYYiwATwW4Uo1HXrup68zsiW1lTcPJNefGzX078XpFRvki6BP1QI6HB+ywxouB4fMJ5fuRsLWXy8C0rfO49J6BKsz4rd0icFsujFYsJyc1OPSaXDITOMxh7rQoYhiZ4mIMmwQQ0CKMp9/YSlwhadVYoouIzG5tOAMWh430+37HxoBUGWmuRr6x+trFhxntQhK8vBd54kwyJXJYG+m8MZ4TFIPa2zglD4aqwQ7JabnHAANkLCAoiliXs4ZesqZ9YcnVwxtNctgw7FVGMOQK7t2qP8d8jlkMe4xetL/GIEjHgxDU/v+FZMkJXtcDfADd68iY7pFlqJ16e+aCExY03lV1U3o1A2ZHWzWxVL1EbiKuAmTSR5OO7DK1TdUY5Zbt9LdN0XqKIL8xPqUaolycFuoivA==;6yBXMYznLm+DGhHL0pzlyQ=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-06T14:49:00Z
 originalUrl: "https://www.fleetowner.com/technology/article/21255863/kodiak-awarded-department-of-defense-contract-to-develop-autonomous-army-vehicles"
 webUrl: "https://www.fleetowner.com/technology/article/21255863/kodiak-awarded-department-of-defense-contract-to-develop-autonomous-army-vehicles"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Fleet Owner

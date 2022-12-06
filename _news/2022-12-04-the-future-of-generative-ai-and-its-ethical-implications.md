@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 814
         isCached: true
+  - title: "Robo Truckers and the AI-Fueled Future of Transport"
+    excerpt: "Concerns about artificial intelligence replacing long-haul drivers are not new, but the real story is more nuanced."
+    publishedDateTime: 2022-12-06T14:00:00Z
+    webUrl: "https://www.wired.com/story/autonomous-vehicles-transportation-truckers-employment/"
+    ampWebUrl: "https://www.wired.com/story/autonomous-vehicles-transportation-truckers-employment/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/autonomous-vehicles-transportation-truckers-employment/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 91
+    images:
+      - url: "https://media.wired.com/photos/638e52b0fefa29ce257ada8f/master/pass/artificial-intelligence-trucker-transport.jpg"
+        width: 2400
+        height: 1350
+        isCached: true
 
 secured: "NhnFZSu005q43xF6lPiKfq+e7gDWh8VxcXDiG7N92A101ttK9wKRrXrFf2zyzcNIXh8Pn9mkIILbtK5kSM1oNCxiW5HCXooc5Wu2pMPjsfS9SQxV+e1RDWsZs+ZLv/UfhbVvRu1a1d4TUEEzToy5i+cNO/tL3zTvM+3FDKqyDKW1QSYZY8DrKwpzdTa0euvW91zHSKHCpv/TG9rBHeFytW0TF9gY2GzhhnoFTFhsXK7MUeLz2LU83u+4OCBxiuChpRaOO/zhMyJHVCkhlnEepo6vQ7z/wZwm/fBB2sXHFmB39odq74BtqPAznJeyU38k3hblz7VCeKoxKVL1g0qJPUgQZFdDaeEjBNJ3waoQlFYZLAbAkfvMuNX/jLDbFbTutSSOEOx8voDkH03KYIcSc15TZ9zTeCGV0NoL/Gqekpoo9ES+9cdwGITk705VxUGLcL0X0wAyp/YGH/aNRBeF7MnQfKQXPYfm6FybfW3wWuGQt8FsIdltShwwuPUdSGBw9GTEGo9gAYaKKPL47ohiKQ==;bhXjmy3t7AfHCEkpxMwSqQ=="
 ---

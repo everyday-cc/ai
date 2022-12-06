@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-06T14:00:00Z
 originalUrl: "https://www.labroots.com/trending/technology/24150/haiku-poetry-created-artificial-intelligence-2"
 webUrl: "https://www.labroots.com/trending/technology/24150/haiku-poetry-created-artificial-intelligence-2"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: Labroots

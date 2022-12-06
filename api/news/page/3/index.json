@@ -2,6 +2,250 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-12-02-i-interviewed-an-ai-about-the-ethics-of-ai-and-it-lied-to-me.md",
+      "title": "I Interviewed An AI About The Ethics Of AI - And It Lied To Me",
+      "excerpt": "Do you think AI will prove to be a positive development for the world? I am a machine learning model trained to assist with a wide range of tasks, but I do not have the ability to",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-an-ai-about-the-ethics-of-aiand-it-lied-to-me/",
+      "originalUrl": "https://www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-an-ai-about-the-ethics-of-aiand-it-lied-to-me/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6389dcaa5d08cabf3b20296e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-an-ai-about-the-ethics-of-aiand-it-lied-to-me/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-an-ai-about-the-ethics-of-aiand-it-lied-to-me/amp/",
+      "publishedDateTime": "2022-12-02T02:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-top-10-chinese-ai-chip-companies-in-2022.md",
+      "title": "Top 10 Chinese AI chip companies in 2022",
+      "excerpt": "MediaTek Inc grabbed second spot on this year's ranking of top 50 Chinese AI chip companies, followed by Horizon Robotics. Let's take a look at the top 10 Chinese AI chip companies in 2022. Copyright 1995 - 2022 .",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202212/02/WS63892d40a31057c47eba233a.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202212/02/WS63892d40a31057c47eba233a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202212/02/638938f0a31057c4b4b0cb36.jpeg",
+          "width": 698,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-02T01:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-artificial-intelligence-robots-market-share-projections-future-opportunities-recorded-for-the-period-until-2022-2030.md",
+      "title": "Artificial Intelligence Robots Market Share, Projections & Future Opportunities Recorded For The Period Until 2022-2030",
+      "excerpt": "The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-share-projections-future-opportunities-recorded-for-the-period-until-2022-2030-2022-12-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-share-projections-future-opportunities-recorded-for-the-period-until-2022-2030-2022-12-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-02T01:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-artificial-intelligence-chipset-market-2022-industry-size-shares-segment-forecast-up-to-2028.md",
+      "title": "Artificial Intelligence Chipset Market 2022 Industry Size, Shares, Segment & Forecast up to 2028",
+      "excerpt": "The global Artificial Intelligence Chipset market report provides geographic analysis covering regions, such as",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-2022-industry-size-shares-segment-forecast-up-to-2028-2022-12-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-2022-industry-size-shares-segment-forecast-up-to-2028-2022-12-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-02T01:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-government-introduces-digiyatra-facial-recognition-for-entry-into-airports-netizens-call-it-scary-and-dystopian.md",
+      "title": "Government Introduces ‘DigiYatra’ Facial Recognition For Entry Into Airports; Netizens Call It Scary And Dystopian",
+      "excerpt": "The Ministry of Civil Aviation of the Government of India, has now introduced ‘DigiYatra’, an initiative to make your travel swift and seamless. Flyers will only need to check in with facial recognition that will allow quick airport entry and pre-security check.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/42929/government-introduces-digiyatra-facial-recognition-for-entry-into-airports-netizens-call-it-scary-an",
+      "originalUrl": "https://in.mashable.com/tech/42929/government-introduces-digiyatra-facial-recognition-for-entry-into-airports-netizens-call-it-scary-an",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/cvc_gmmq.620.png",
+          "width": 619,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/42929/government-introduces-digiyatra-facial-recognition-for-entry-into-airports-netizens-call-it-scary-an?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/42929/government-introduces-digiyatra-facial-recognition-for-entry-into-airports-netizens-call-it-scary-an?amp=1",
+      "publishedDateTime": "2022-12-01T23:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "in.mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-02-artificial-intelligence-ai-market-2023-is-flourishing-around-the-world-by-2026.md",
       "title": "Artificial Intelligence (AI) Market 2023 Is Flourishing Around the World by 2026",
       "excerpt": "Pre and Post Covid is Covered and Report Customization is Available. [131 Pages Report]\"Artificial Intelligence",
@@ -999,240 +1243,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-domo-joins-the-amazon-sagemaker-ready-program.md",
-      "title": "Domo Joins the Amazon SageMaker Ready Program",
-      "excerpt": "Today Domo (Nasdaq: DOMO) announced it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner software solutions that are validated by Amazon Web Services ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/domo-joins-the-amazon-sagemaker-ready-program/article_6242ae1d-7680-5d90-8e69-4e80187adef3.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/domo-joins-the-amazon-sagemaker-ready-program/article_6242ae1d-7680-5d90-8e69-4e80187adef3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg",
-          "width": 350,
-          "height": 455,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T06:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-first-minister-speech-disrupted-by-gender-recognition-protester.md",
-      "title": "First Minister speech disrupted by gender recognition protester",
-      "excerpt": "The woman who interrupted the First Minister's speech said the change in law would ... that the request not to discuss the Gender Recognition Reform Bill was made by the First Minister or officials.",
-      "sourceUrl": null,
-      "webUrl": "https://www.heraldscotland.com/politics/23159210.first-minister-speech-disrupted-gender-recognition-protester/?ref=twtrec",
-      "originalUrl": "https://www.heraldscotland.com/politics/23159210.first-minister-speech-disrupted-gender-recognition-protester/?ref=twtrec",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.heraldscotland.com/resources/images/16138459/?type=og-image",
-          "width": 945,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T04:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "heraldscotland",
-        "domain": "heraldscotland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-how-fintech-can-help-you-weather-a-recession.md",
-      "title": "How Fintech Can Help You Weather A Recession",
-      "excerpt": "With many in fear of a recession, a growing number of businesses are in need of grant funding, and there are not many search engines that are cataloging the grants offered by thousands of organizations. Very few opportunities are in the marketplace that offers fintech services to help growing businesses with this catalog of offerings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/01/how-fintech-can-help-you-weather-a-recession/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/01/how-fintech-can-help-you-weather-a-recession/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61b210016811815c378fdd64/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/01/how-fintech-can-help-you-weather-a-recession/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/01/how-fintech-can-help-you-weather-a-recession/amp/",
-      "publishedDateTime": "2022-12-01T03:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-aws-updates-its-machine-learning-service-sagemaker.md",
-      "title": "AWS updates its machine learning service SageMaker",
-      "excerpt": "Invent 2022, the cloud services provider updated its managed machine learning service to include new notebook and governance features.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3681891/aws-updates-its-machine-learning-service-sagemaker.html",
-      "originalUrl": "https://www.infoworld.com/article/3681891/aws-updates-its-machine-learning-service-sagemaker.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 291,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/10/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3681891/aws-updates-its-machine-learning-service-sagemaker.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3681891/aws-updates-its-machine-learning-service-sagemaker.amp.html",
-      "publishedDateTime": "2022-12-01T03:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-mercedes-bosch-open-worlds-first-self-driving-valet.md",
-      "title": "Mercedes, Bosch open world's first self-driving valet",
-      "excerpt": "Mercedes-Benz and Bosch will initially operate their automated valet in the parking garage of Stuttgart Airport.",
-      "sourceUrl": null,
-      "webUrl": "https://www.motorauthority.com/news/1124163_mercedes-bosch-open-world-s-first-self-driving-valet",
-      "originalUrl": "https://www.motorauthority.com/news/1124163_mercedes-bosch-open-world-s-first-self-driving-valet",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hgmsites.net/hug/mercedes-benz-and-bosch-automated-valet-parking-at-stuttgart-airport_100867370_h.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motor Authority",
-        "domain": "motorauthority.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

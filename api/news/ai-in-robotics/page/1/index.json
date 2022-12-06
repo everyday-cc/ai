@@ -365,6 +365,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-01-san-francisco-approves-killer-police-robots-time-to-arm-your-toasters-folks.md",
+      "title": "San Francisco approves killer police robots! Time to arm your toasters, folks.",
+      "excerpt": "I know when most think of modern-day policing, the first thing that comes to mind is: What’s another ... to use potentially lethal, remote-controlled robots in emergency situations,” according ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/opinion/columnist/2022/11/30/san-francisco-police-robots-kill-explosives-safety/10804684002/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/columnist/2022/11/30/san-francisco-police-robots-kill-explosives-safety/10804684002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2021/08/29/USATODAY/usatsports/imageForEntry34-Rsf.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T16:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-san-franciscos-killer-robots-threaten-the-citys-most-vulnerable.md",
       "title": "San Francisco's Killer Robots Threaten the City's Most Vulnerable",
       "excerpt": "Law enforcement says that in some scenarios a lethal robot is the only way to protect public safety. Experts say the policy will harm communities of color.",
@@ -1325,49 +1368,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-ces-2023-robotics-innovation-award-winners-announced.md",
-      "title": "CES 2023 robotics Innovation Award winners announced",
-      "excerpt": "A quick look at the 2023 CES Innovation award winners in the robotics category covers a broad range of solutions that impact consumers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/ces-2023-robotics-innovation-award-winners-announced/",
-      "originalUrl": "https://www.therobotreport.com/ces-2023-robotics-innovation-award-winners-announced/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/11/Tonework-CES-2023-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T12:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

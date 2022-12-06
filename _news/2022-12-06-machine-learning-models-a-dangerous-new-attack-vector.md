@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-06T14:01:00Z
 originalUrl: "https://www.darkreading.com/threat-intelligence/machine-learning-models-dangerous-new-attack-vector"
 webUrl: "https://www.darkreading.com/threat-intelligence/machine-learning-models-dangerous-new-attack-vector"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Dark Reading

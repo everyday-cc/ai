@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "Here's the exclusive 14-slide pitch deck that Veriti used to raise a $12 million Series A for its AI-cybersecurity platform"
+    excerpt: "See the pitch deck that Veriti used to raise its $12 million Series A round. Cybersecurity is getting expensive, with consulting firm Gartner projecting some $169 billion in global spending this year, a more than 14 percent increase since 2021."
+    publishedDateTime: 2022-12-06T14:00:00Z
+    webUrl: "https://www.businessinsider.com/veriti-used-this-14-slide-pitch-deck-to-raise-a-12-million-series-a-2022-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 21
   - title: "Twelve Labs Raises $12 million To Take AI Video Search To The Next Level"
     excerpt: "Twelve Labs has secured an additional $12 million seed capital to build out a sophisticated AI video search system."
     publishedDateTime: 2022-12-05T18:35:00Z

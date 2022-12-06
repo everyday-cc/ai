@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-06T11:12:00Z
 originalUrl: "https://www.c4isrnet.com/artificial-intelligence/2022/12/06/information-superiority-and-the-race-for-global-ai-leadership/"
 webUrl: "https://www.c4isrnet.com/artificial-intelligence/2022/12/06/information-superiority-and-the-race-for-global-ai-leadership/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: C4ISRNET
