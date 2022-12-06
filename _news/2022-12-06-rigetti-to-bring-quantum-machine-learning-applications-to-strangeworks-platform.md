@@ -25,6 +25,17 @@ images:
     height: 250
     isCached: true
 
+related:
+  - title: "Rigetti to Bring Quantum Machine Learning Applications to Strangeworks Platform"
+    excerpt: "The applications are planned to be made available through Rigetti’s on-demand, pay-as-you-go access model via Strangeworks. This on-demand access to Rigetti systems has been enabled by tightly integrating Rigetti’s quantum processing units with the Strangeworks platform."
+    publishedDateTime: 2022-12-06T20:34:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/12/06/9724957.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
+
 secured: "W0wefCHBUFScpLVWaObXPm2UNnOQ6JZpXdzEzW4HqLkfFfhb5Ea2q+2me/a1DlejNiARuasHXfw4zoy9P8owtB6QZ8rkP+yCiPGvybwI2jIKfleFJAZNd+7y89EojAQWTpAbofXyPowtGnSEuO/m3y3751bjqWnOjSC7fq0/mX6NN8TLbV50aYIR7wKYhwTayp/J9sjfc7nxaRjug82SqL9hQbngsy4vpSvq0fplmjdT25JOUhKaasnJ21DflNjvwG9kFxeY/TmcYVr9uG8QrHDJaQ+8habxQvdB7lWPt/P+S88tsizy4ZukHnTCatwISURtkNKQhueu8Bm4NE9SWm0jYO6jdl1ynfEkUdIDizY=;gE2LpihgbQaXMw9XfsneZw=="
 ---
 

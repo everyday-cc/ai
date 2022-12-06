@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-06T18:08:00Z
 originalUrl: "https://siliconangle.com/2022/12/05/exadata-mysql-enhancements-highlight-oracles-renewed-impact-conversation-oracle/"
 webUrl: "https://siliconangle.com/2022/12/05/exadata-mysql-enhancements-highlight-oracles-renewed-impact-conversation-oracle/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: SiliconANGLE

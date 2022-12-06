@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-06T18:05:00Z
 originalUrl: "https://www.reuters.com/business/autos-transportation/apple-scale-back-self-driving-car-ambitions-delay-car-launch-2026-bloomberg-news-2022-12-06/"
 webUrl: "https://www.reuters.com/business/autos-transportation/apple-scale-back-self-driving-car-ambitions-delay-car-launch-2026-bloomberg-news-2022-12-06/"
 type: article
+quality: 25
+heat: 25
+published: false
 
 provider:
   name: Reuters

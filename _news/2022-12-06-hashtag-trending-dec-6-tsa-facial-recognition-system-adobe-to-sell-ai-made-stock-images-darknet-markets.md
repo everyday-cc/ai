@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-dec-6-tsa-fac
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-dec-6-tsa-facial-recognition-system-adobe-to-sell-ai-made-stock-images-darknet-markets/517175?amp=1"
 type: article
 quality: 56
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,57 @@ images:
     isCached: true
 
 related:
+  - title: "TSA is ready for nationwide deployment of its facial recognition system"
+    excerpt: "The TSA started using its biometric system in 16 US airports as an optional screening procedure requiring the traveler to insert their ID document and have"
+    publishedDateTime: 2022-12-06T20:11:00Z
+    webUrl: "https://www.techspot.com/news/96871-tsa-ready-nationwide-deployment-facial-recognition-system.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 69
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2022/12/2022-12-06-image-13.jpg"
+        width: 2048
+        height: 1536
+        isCached: true
+  - title: "A massive report highlights fundamental problems with facial recognition and how police lie about its uses."
+    excerpt: "The anecdote opens a landmark report on facial recognition from the Georgetown Law Center on Privacy & Technology, which found that law enforcement agencies are often using the technology as the sole basis for putting people in jail despite claiming they don’t and despite a growing body of evidence that the technology has serious problems with accuracy and bias."
+    publishedDateTime: 2022-12-06T18:55:00Z
+    webUrl: "https://gizmodo.com/facial-recognition-cops-police-sole-basis-arrests-study-1849859483"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 51
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3d2dfea7d2f1ffb43d9b27160d2ee8cc.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "TSA is ready for a nationwide deployment of its facial recognition system"
+    excerpt: "The TSA started using its biometric system in 16 US airports as an optional screening procedure requiring the traveler to insert their ID document and have"
+    publishedDateTime: 2022-12-06T20:11:00Z
+    webUrl: "https://www.techspot.com/news/96871-tsa-ready-nationwide-deployment-facial-recognition-system.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 48
+  - title: "Facial Recognition Back on FB Dating"
+    excerpt: "Meta is extending its use of AI facial scanning to confirm users' ages on Facebook Dating which is a contrast to their 2021 move of banning facial recognition."
+    publishedDateTime: 2022-12-06T08:57:00Z
+    webUrl: "https://analyticsindiamag.com/facial-recognition-back-on-fb-dating/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/news-1.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
   - title: "The TSA’s facial recognition technology may expand nationwide in 2023"
     excerpt: "The TSA could potentially expand their facial recognition identification system nationwide in 2023. Veuer’s Maria Mercedes Galuppo has the story."
     publishedDateTime: 2022-12-05T18:29:00Z
@@ -41,6 +92,24 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "TSA to Expand Facial Recognition Tested in DFW to Airports Across America"
+    excerpt: "American Airlines launched Mobile ID at DFW Airport, enabling customers enrolled in TSA PreCheck to “breeze through the airport with just their phone and their face.” The TSA has since expanded the use of facial recognition technology to 16 airports—and it now plans to roll out the optional service to airports across the U."
+    publishedDateTime: 2022-12-06T20:38:00Z
+    webUrl: "https://dallasinnovates.com/tsa-to-expand-facial-recognition-tested-in-dfw-to-airports-across-america/"
+    type: article
+    provider:
+      name: Dallas Innovates
+      domain: dallasinnovates.com
+    quality: 33
+  - title: "Kiwi Educational Robot KaiBot Wins International Recognition On Its First Outing"
+    excerpt: "KaiBot may have just come into the world, but it’s already teaching kids and teachers a thing or two about technology. In fact, two months before its official launch date, KaiBot, the little AI-enabled learning robot designed to help five-15-year-old children develop coding skills,"
+    publishedDateTime: 2022-12-06T18:07:00Z
+    webUrl: "https://www.scoop.co.nz/stories/ED2212/S00014/kiwi-educational-robot-kaibot-wins-international-recognition-on-its-first-outing.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 29
 
 secured: "zgAeq0IEMXLszN6CNO376GQhm98j9oh+L8JU2NwMJ+gBUSorIWgGOD1yzx3jhVarriv58zOu1rh2KhDJYNWcpoXYUt1xsJCURDsFtxEHxhq/RvMtQKUpJ42Ks/z6M8J4B/e9BuDiGMB7l27Ptjz1BCTkBY/HoK4Edmc6iBrFsTGI+R3sngRssoGbwj3YFsTpreeS/jlfiIv/qtr01I4eZLL14KuEmNadsLNdPy5KSnWfy177wIV/ETEnKTaxuBXHNSwVrdJrt8vm0yrm5GKdwW41IKLNoR2CxLGqBlXMUweRHuetrzw76b8pUgLcEGYD2IQc3F8q4yXRCWXb8T0A3GvlYhjDMt9g4wd9UfQOlXvcDeGGFPFIS+SJbl3rn05MdbFNL6PeCjrQoGc7yaBDtSFQW8n/WKFGa/nXrA6xL5aRl7txlp+Qpo5pmAz0ndfjtV/OShz3l86PphH+RuybfNU18u0Y5jXSpMJrcUiPcBH0C/rxRTai+sk+w6PiIiQnCn0ZfmyO/DkHlb4MQDyiXw==;m7MOifnU3OdUbEwi+3NV3Q=="
 ---

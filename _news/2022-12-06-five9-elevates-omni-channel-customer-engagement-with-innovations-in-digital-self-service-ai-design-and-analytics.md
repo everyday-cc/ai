@@ -28,6 +28,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 28
+  - title: "Philadelphia AI retail startup founded by Penn Ph.D. raises $7.5M Series A"
+    excerpt: "The company uses data to help retailers forecast, set prices and manage their supply chain with the goals of optimizing profit."
+    publishedDateTime: 2022-12-06T18:41:00Z
+    webUrl: "https://www.bizjournals.com/philadelphia/inno/stories/fundings/2022/12/06/invent-analytics-series-a-university-of-pa.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 15
   - title: "Gemini Sports Analytics Uses Machine Learning to Help Sports Teams Make Decisions on Athlete Acquisition, Development, Management"
     excerpt: "Gemini Sports Analytics is a sports-specific, end-to-end automated machine learning tool to help teams develop players."
     publishedDateTime: 2022-12-02T19:22:00Z

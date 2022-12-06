@@ -7,7 +7,7 @@ originalUrl: "https://www.financialbuzz.com/kodiak-robotics-awarded-50-million-c
 webUrl: "https://www.financialbuzz.com/kodiak-robotics-awarded-50-million-contract-to-develop-driverless-army-vehicles/"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Kodiak Robotics wins $50M to help US Army build AVs for recon, surveillance"
+    excerpt: "Autonomous trucking technology company Kodiak Robotics won a $49.9 million contract from the the U.S. Department of Defense to help the Army automate future ground vehicles to conduct high-risk missions like reconnaissance and surveillance."
+    publishedDateTime: 2022-12-06T18:26:00Z
+    webUrl: "https://techcrunch.com/2022/12/06/kodiak-robotics-wins-50m-to-help-us-army-build-avs-for-recon-surveillance/"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: techcrunch.com
+    quality: 62
   - title: "Kodiak awarded DOD contract to develop autonomous Army vehicles"
     excerpt: "Defense Innovation Unit contract calls for trucking technology company Kodiak to help the U.S. Army automate future ground vehicles for high-risk missions such as reconnaissance and surveillance near or behind enemy lines."
     publishedDateTime: 2022-12-06T14:49:00Z

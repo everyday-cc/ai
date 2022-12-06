@@ -7,7 +7,7 @@ originalUrl: "https://augustafreepress.com/news/make-way-for-the-killer-robots-t
 webUrl: "https://augustafreepress.com/news/make-way-for-the-killer-robots-the-government-is-expanding-its-power-to-kill/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "San Francisco police defend 'killer robots' plan"
-    excerpt: "Police in San Francisco defended their potential use of killer robots on Thursday, insisting they would be a \"last resort\" and only for very dangerous situations. Detectives in the California city, where residents complain of a spike in crime,"
-    publishedDateTime: 2022-12-02T03:44:00Z
-    webUrl: "https://www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602"
-    ampWebUrl: "https://www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602?amp"
-    cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602?amp"
+  - title: "SF Supervisor Now Opposes Killer Robots"
+    excerpt: "Last week the SF Board of Supervisors made national news by passing an ordinance that would allow the police to use robots under limited cond"
+    publishedDateTime: 2022-12-06T09:25:00Z
+    webUrl: "https://www.davisvanguard.org/2022/12/sf-supervisor-now-opposes-killer-robots/"
     type: article
     provider:
-      name: tbsnews
-      domain: tbsnews.net
-    quality: 59
-    images:
-      - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/12/02/killer_bots.png"
-        width: 600
-        height: 314
-        isCached: true
+      name: Davis Vanguard
+      domain: davisvanguard.org
+    quality: 19
   - title: "San Francisco approved killer police robots. Will other California departments follow?"
     excerpt: "Dallas Morning News file The San Francisco Police Department was given the authorization to use remote-controlled robots for potentially deadly force after a heated debate over civil liberties and warnings about the continued militarization of police."
     publishedDateTime: 2022-12-03T12:00:00Z

@@ -24,6 +24,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Tachyum Signs MOU with Cologne Chip"
+    excerpt: "Tachyum ™ today announced it has entered into an agreement with Cologne Chip, a German-based semiconductor company, to cooperate on projects in the fields of Field Programmable Gate Arrays (FPGA), Artificial Intelligence (AI) and High Performance Computing (HPC)."
+    publishedDateTime: 2022-12-06T19:02:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/12/06/9725097.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+
 secured: "AfMhPlBLsBFo+sPHLzYZ3I2s5bVHYm8n8mH/G3rh3e26Nxpl733hA60yrrpdXSb1ig9Dyp2jRAZ+kNMLOFnYMC2DR/IG4L3q4H4/WuPLA9xNk/Tx8kr/0eBOvR3eL4j47lRgmCZ+JEGRASNNn2kCrKLOQIt4VQybf/MQRUldKE6xzR7dwJgtriIfTMLO0EGRhxQ41PQHKBlwVyFD/eoWuCg6ayUPn+i7d4+fM0y1r9plPJ8NILi3d0BiPOIdwi9CklKnvjuP9zuS9mV4xs/YRnBXkEyQ+EAx5QJiOBydfVpvpktuF9Krf8UPHawwusya9DYPbWY3Qou1mWtdz/d51puxVp3OIxdmbH8pseKn0Ao=;KkPl3ffC8wsW7ndYejq8og=="
 ---
 

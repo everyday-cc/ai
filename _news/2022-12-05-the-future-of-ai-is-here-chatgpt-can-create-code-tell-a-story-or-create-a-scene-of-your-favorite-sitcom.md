@@ -264,6 +264,15 @@ related:
         width: 1070
         height: 580
         isCached: true
+  - title: "How AI chatbot ChatGBT measures up on Seattle knowledge"
+    excerpt: "ChatGBT has gone viral for its precise answers to users' queries. We set out to see how much this chatbot really knows by asking questions about Seattle culture."
+    publishedDateTime: 2022-12-06T19:15:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/how-ai-chatbot-chatgbt-measures-up-on-seattle-knowledge/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
   - title: "TechScape: Meet ChatGPT, the viral AI tool that may be a vision of our weird tech future"
     excerpt: "OpenAI’s new chatbot isn’t a novelty. It’s already powerful and useful – and could radically change the way we write online"
     publishedDateTime: 2022-12-06T11:12:00Z

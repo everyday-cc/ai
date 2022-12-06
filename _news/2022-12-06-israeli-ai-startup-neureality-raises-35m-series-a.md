@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2022/12/israeli-ai-startup-neureality-raises
 webUrl: "https://insidehpc.com/2022/12/israeli-ai-startup-neureality-raises-35m-series-a/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "NeuReality lands $35M to bring AI accelerator chips to market"
+    excerpt: "NeuReality, a startup developing AI inferencing accelerator chips, has raised $35 million in new venture capital."
+    publishedDateTime: 2022-12-06T14:02:00Z
+    webUrl: "https://techcrunch.com/2022/12/06/neureality-ai-accelerator-chips-startup-raises-35m/"
+    ampWebUrl: "https://techcrunch.com/2022/12/06/neureality-ai-accelerator-chips-startup-raises-35m/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/06/neureality-ai-accelerator-chips-startup-raises-35m/amp/"
+    type: article
+    provider:
+      name: YAHOO!Finance
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/07/CircuitBoard-e1656949944955.jpg?resize=1200,600"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "AI chip startup NeuReality raises $35M in funding"
+    excerpt: "Startup NeuReality Ltd. today announced that it has raised $35 million in funding to commercialize its NR1 chip, which is designed to speed up artificial intelligence applications. The Series A funding round was led by Samsung Ventures,"
+    publishedDateTime: 2022-12-06T22:25:00Z
+    webUrl: "https://siliconangle.com/2022/12/06/ai-chip-startup-neureality-raises-35m-funding/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/NeuReality.png"
+        width: 718
+        height: 400
+        isCached: true
   - title: "AI start-up NeuReality raises $35m in Series A funding round"
     excerpt: "NeuReality, an AI hardware start-up specialising in next generation AI inferencing platforms, has announced a successful $35m Series A funding round."
     publishedDateTime: 2022-12-06T16:53:00Z

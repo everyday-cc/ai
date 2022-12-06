@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-06T19:39:00Z
 originalUrl: "https://www.gizmochina.com/2022/12/06/google-photos-new-face-based-search-tool/"
 webUrl: "https://www.gizmochina.com/2022/12/06/google-photos-new-face-based-search-tool/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Gizmochina

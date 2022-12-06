@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-06T19:37:53Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-robust-text-based-toxicity-predictor/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-robust-text-based-toxicity-predictor/"
 type: article
+quality: 54
+heat: 54
+published: false
 
 provider:
   name: AWS

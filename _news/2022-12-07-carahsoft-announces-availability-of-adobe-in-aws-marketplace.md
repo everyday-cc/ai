@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-06T16:00:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/12/g29978962/carahsoft-announces-availability-of-adobe-in-aws-marketplace"
 webUrl: "https://www.benzinga.com/pressreleases/22/12/g29978962/carahsoft-announces-availability-of-adobe-in-aws-marketplace"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Benzinga.com

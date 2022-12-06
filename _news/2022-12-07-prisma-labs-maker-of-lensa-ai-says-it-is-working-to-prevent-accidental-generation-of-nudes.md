@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-06T19:55:00Z
 originalUrl: "https://techcrunch.com/2022/12/06/prisma-ai-regulation/"
 webUrl: "https://techcrunch.com/2022/12/06/prisma-ai-regulation/"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: TechCrunch

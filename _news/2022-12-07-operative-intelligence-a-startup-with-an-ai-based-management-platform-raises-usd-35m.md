@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/operative-intelligence-a-star
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/operative-intelligence-a-startup-with-an-ai-based-management-platform-raises-usd-3-5m/amp/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -26,33 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Twelve Labs raises $12M for its AI-powered video search platform"
-    excerpt: "Twelve Labs Inc., the developer of a search platform that enables users to quickly find moments of interest in a video, has raised $12 million from investors. Twelve Labs announce"
-    publishedDateTime: 2022-12-05T18:14:00Z
-    webUrl: "https://siliconangle.com/2022/12/05/twelve-labs-raises-12m-ai-powered-video-search-platform/"
+  - title: "Sellscale uses generative AI to create better marketing emails"
+    excerpt: "SellScale announced today it has raised $3 million in funding led by Pear.VC’s Pejman Nozad, with participation from Ovo Fund’s Eric Chen and Browder Capital’s Joshua Browder. The startup claims its revenue has doubled month over month for the last three months."
+    publishedDateTime: 2022-12-06T22:14:00Z
+    webUrl: "https://techcrunch.com/2022/12/06/sellscale-funding/"
+    ampWebUrl: "https://techcrunch.com/2022/12/06/sellscale-funding/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/06/sellscale-funding/amp/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/image-1.png"
-        width: 1300
-        height: 700
+      - url: "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1358638101.jpg?resize=1200,900"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "AI-based management platform startup Operative Intelligence raises $3.5M"
-    excerpt: "Artificial-intelligence-based operational management platform startup Operative Intelligence Pty. Ltd. has raised $3.5 million in new funding to increase its headcount and scale its customer intelligence product capabilities. The seed round was led by ..."
-    publishedDateTime: 2022-12-06T00:05:00Z
-    webUrl: "https://siliconangle.com/2022/12/05/ai-based-management-platform-startup-operative-intelligence-raises-3-5m/"
+  - title: "Stable Diffusion developer Runway raises $50M to create AI multimedia tools"
+    excerpt: "Runway AI Inc., one of the two companies behind the artificial intelligence art generator Stable Diffusion, announced Monday that it has raised $50 million in fresh funds led by Felicis to continue building the next generation of AI tools for art."
+    publishedDateTime: 2022-12-06T18:02:00Z
+    webUrl: "https://siliconangle.com/2022/12/06/stable-diffusion-developer-runway-raises-50m-create-ai-multimedia-tools/"
     type: article
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 36
+    quality: 35
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/operativeintelligence.jpg"
-        width: 1024
-        height: 512
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/stable-diffusion-silicon-angle-in-a-futuristic-city.jpg"
+        width: 900
+        height: 507
         isCached: true
 
 secured: "IerftFCVi1dYy8aY/Vo4LU8qDZvw3zQp1NaoKHSVY9QR1adm2T0kmIfU2IMOtDFyQbsjdWd7uxyBwr7ozl7CHkIOQUmxvHFi1yZQeShxK8FlWra0v5CMpxKQFa88RnMRBpCnBIPKPe0WaPtJAzGio4tpmLaJJ8JIqBINXe6jb5vmnnvMbwueS9NTVt3HkV7MkUF0hQfIdUOE1KTllGfzLbP1Nh9pmwnlCsKv1ezyE2AmsfbNeC+8Gze1wkvKdI7uE8D7eWiPjKo/tGab9jaYKAIDgeq7IwqeJYRkAundjkawMRnsHxX9CBM0uDYgh/daZ+Z9+X+YKm+SR/gDqI5nBy50F5FCXhL/PENtXmIRaeANJhSmQfC6sSS6Ea43SgOcpibVy8AJygO1n08Rk4pkRMPDS4JGPktrQUIfH0WQyHrPh6XSRYvIr7qtVp5QIAqwjGUYpcu5aBmp5Z8fvScNQw+pLc7t8XQSni0cjoBKL7zc93RyayQYbIGOtSzuwao2zQL6e4KIqD1FxwCieOb1aA==;2OJeJbPtVGGFVuJqOE2Cvg=="

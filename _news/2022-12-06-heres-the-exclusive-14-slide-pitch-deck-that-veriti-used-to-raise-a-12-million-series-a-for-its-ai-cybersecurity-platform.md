@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/veriti-used-this-14-slide-pitch-de
 webUrl: "https://www.businessinsider.com/veriti-used-this-14-slide-pitch-deck-to-raise-a-12-million-series-a-2022-11"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Twelve Labs raises $12M for its AI-powered video search platform"
+    excerpt: "Twelve Labs Inc., the developer of a search platform that enables users to quickly find moments of interest in a video, has raised $12 million from investors. Twelve Labs announce"
+    publishedDateTime: 2022-12-05T18:14:00Z
+    webUrl: "https://siliconangle.com/2022/12/05/twelve-labs-raises-12m-ai-powered-video-search-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/image-1.png"
+        width: 1300
+        height: 700
+        isCached: true
   - title: "Twelve Labs Raises $12 million To Take AI Video Search To The Next Level"
     excerpt: "Twelve Labs has secured an additional $12 million seed capital to build out a sophisticated AI video search system."
     publishedDateTime: 2022-12-05T18:35:00Z

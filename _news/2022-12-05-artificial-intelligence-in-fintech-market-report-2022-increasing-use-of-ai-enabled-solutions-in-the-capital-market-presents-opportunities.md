@@ -60,20 +60,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 19
-  - title: "FIS Challenges Nearly 200 Startups to Pitch their Boldest Ideas in First APAC Fintech Competition"
-    excerpt: "FIS has expanded its InnovateIN48 fintech competition to startup fintech companies in the APAC region for the first time. The competition welcomed nearly 200 fintech companies from 11 APAC markets to develop and pitch their innovative ideas to FIS leaders."
-    publishedDateTime: 2022-12-02T06:43:00Z
-    webUrl: "https://www.businesswireindia.com/fis-challenges-nearly-200-startups-to-pitch-their-boldest-ideas-in-first-apac-fintech-competition-82063.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 11
-    images:
-      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_82063.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "w1vXMGRaGW1Kxs5WOal4043Uuf8/xgOC/7Rx/FawlekFZKeMwTqC5phaKvJKeBgESVTPtNg0zpKEUM0PCazaihjZgzKMKptORAGx/pVZicTwjMZ1s+XtFEJtJDkIUTZ5zM+4FndD7kFOowcrcgkfRT2FhO3CdeMrpXdrH24H6VP1R0Y+0R6lwNa9NzgYnr2ASAwTUP+C7SsgSiwogxOHd9jxoCBrm4GPMRoTCxe2a8gyW035mtbSuWnAAx770KzZcN+gSQCQPJmo1A8cyinvV747KYW7aPJKoMXjMDCAUfcJvMHf2EBCLL0D5UprQRCUqfVjyyEeUSfHap/n56p+GkCeeLpqf2MpsYSOpCY7POs=;s4ESdzDurRB4tIHhRDUuLg=="
 ---

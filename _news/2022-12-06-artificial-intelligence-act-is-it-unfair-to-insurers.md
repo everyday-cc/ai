@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-06T13:45:00Z
 originalUrl: "https://www.insurancebusinessmag.com/us/news/breaking-news/artificial-intelligence-act-is-it-unfair-to-insurers-429780.aspx"
 webUrl: "https://www.insurancebusinessmag.com/us/news/breaking-news/artificial-intelligence-act-is-it-unfair-to-insurers-429780.aspx"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: insurancebusinessmag

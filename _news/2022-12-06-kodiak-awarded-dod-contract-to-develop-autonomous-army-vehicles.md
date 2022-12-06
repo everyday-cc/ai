@@ -33,6 +33,15 @@ related:
         width: 506
         height: 345
         isCached: true
+  - title: "Kodiak Robotics wins $50M to help US Army build AVs for recon, surveillance"
+    excerpt: "Autonomous trucking technology company Kodiak Robotics won a $49.9 million contract from the the U.S. Department of Defense to help the Army automate future ground vehicles to conduct high-risk missions like reconnaissance and surveillance."
+    publishedDateTime: 2022-12-06T18:26:00Z
+    webUrl: "https://techcrunch.com/2022/12/06/kodiak-robotics-wins-50m-to-help-us-army-build-avs-for-recon-surveillance/"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: techcrunch.com
+    quality: 62
 
 secured: "TBXaG1N8bs7ol1tlTPHunkoy7ZZ6DQWxMn/3cmsRPm3wWLK6qVC4LteaBrOxGSWdngcm8pW8JM54+/eMfyLCpNv/rKejRcwXIHhTvwPAg3ONCSZhMRE5NhQMMAT0lm9d2rchlntHFn3CQUHXp7edEn2zxttZjCaCvkazCdIgzeng2a5MPmh+DO3uiYFpCGesLtWPYJJoaK4R/CgpEEc1TcDJ5gLgi2bh/MuSUWeScWox3jSl0SrEbXeUVWH3+IH+9FaPNjtuPIs5GMxcxX0lU+O+cgF3D0qG2pTu9AUReK0Lrmn3n9F54GyFiueCdTqL4oQlYMHAqtMuprbMn6W0YEmSvO4AH5Zf9sj3N07B0WLAGRVMzB+x1ByslWJL+WX57lKT1jgQMa56B5+4mdX/+5kd/lAOFxh2u28bIT6YMr/U5lJAGJ2VV5PYHXVLy6FpXZxguPi1xcODY/AukKAVAIy5k29qfDqyCw1df3WCq7+VOmeZgGXEed7He5bRy4EiAqvti8XCJuZm2fGEC/lt7Q==;y1VAIJk8eErI5qdiM5XNbw=="
 ---

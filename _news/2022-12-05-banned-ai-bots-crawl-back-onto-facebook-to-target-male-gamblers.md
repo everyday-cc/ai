@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Start-Up That Took On Facebook Plans To Go International"
-    excerpt: "A Vietnamese internet startup that's successfully defended its home market of 100 million people against global giants like Facebook is now going into attack mode."
-    publishedDateTime: 2022-12-02T05:11:00Z
-    webUrl: "https://www.ndtv.com/world-news/start-up-that-took-on-facebook-plans-to-go-international-3571291"
-    ampWebUrl: "https://www.ndtv.com/world-news/start-up-that-took-on-facebook-plans-to-go-international-3571291/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/start-up-that-took-on-facebook-plans-to-go-international-3571291/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 44
-    images:
-      - url: "https://c.ndtvimg.com/2022-12/0r7m10d_zalo_625x300_02_December_22.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Meta Platforms (META) Adds Age Verification to Facebook Dating"
     excerpt: "Meta Platforms META recently announced that it is introducing age verification technology to Facebook Dating in the U.S. to prevent users under the age of 18 to access experiences meant to be enjoyed as adults."
     publishedDateTime: 2022-12-06T15:27:00Z
@@ -63,20 +47,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
-  - title: "After taking on Facebook, Vietnam startup is setting its sights on the world"
-    excerpt: "A Vietnamese Internet startup that's successfully defended its home market of 100 million people against global giants like Facebook is now going into attack mode."
-    publishedDateTime: 2022-12-02T04:06:00Z
-    webUrl: "https://www.digitimes.com/news/a20221202VL204/vietnam-vng.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 21
-    images:
-      - url: "https://img.digitimes.com/newsshow/20221202vl204_files/2_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "lZ6uSIbSaRA5pKckAZj30vYpK53kJrO+6ViyIb1h54OZJysIGK0E8E7GxWIFZ1NT0V7k2wybC9Xn+4BX5qQyD2YiOJ/E9i/BZgPJ5Y84nPm6JaBu8jQRsqZW+sfcTEtc9092t44zOwIfZ3ny6qjEGrGJe1jDIFPRvCoFiNHpSiQWxtLljmgZvWRoSC/8L1zOxgTicxdg/wvEOvtZQPnr4uU1hggnAZIC7GTebz7o7mGjMP37eGmXNH06K72W+jgN/hoqMpkd5rn9tHO/PIHJ6PyrFFy6inXIZlSKkawcJSq4Liq4MhjczN2myGGXG+hTGx+cpuWT1m7Feq5An/XwL0wOwapILIsWnfSTgY1+ZAA=;/7XrnwxSkANdj22lv/A2+Q=="
 ---

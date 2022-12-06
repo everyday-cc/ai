@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-06T13:45:00Z
 originalUrl: "https://www.reuters.com/lifestyle/science/sony-technologically-ready-make-humanoid-robots-once-usage-becomes-clear-2022-12-06/"
 webUrl: "https://www.reuters.com/lifestyle/science/sony-technologically-ready-make-humanoid-robots-once-usage-becomes-clear-2022-12-06/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Reuters

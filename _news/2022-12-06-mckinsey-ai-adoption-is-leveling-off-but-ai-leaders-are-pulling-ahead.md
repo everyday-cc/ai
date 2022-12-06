@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/mckinsey-ai-adoption-leveling-ai-leaders-are-
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/mckinsey-ai-adoption-leveling-ai-leaders-are-pulling-ahead?amp"
 type: article
 quality: 58
-heat: 58
+heat: 68
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 640
     height: 426
     isCached: true
+
+related:
+  - title: "McKinsey State of AI 2022 highlights stubborn adoption plateau"
+    excerpt: "McKinsey has released its State of AI 2022 report, revealing key findings on AI’s use and adoption globally over the past five years."
+    publishedDateTime: 2022-12-06T20:54:00Z
+    webUrl: "https://venturebeat.com/ai/mckinsey-state-of-ai-2022-highlights-stubborn-adoption-plateau/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "Nj75qX6HjdM67HpxmuavsGnwdvbSVkrJuxm+RWydicpoRwf/vW8KyVHidgq+ExdwMPmLfeCtPAt4u8t1gh8HtkYMEA/rPmEkTbB+KuQVEMkxIBkvvLN6X4EggiTErLGpBx8Jspyt0AZ/P0uDPiow2I7o+CBtgGCzqK82hl3P8uv+VNEE4BOlZmAMmV7OhKy4MnDWL9bo+nlICGwFCNcz3qqvBXTPlWKn4dENcuh9irXisrsLquXa0FW3GVb/OzrMJS4LcNGIw+yb6fQTTLl5p052n08nP6ptZY05kY0PLUGWWVTGISRJWehP4rcaxRNRM859EBOG0wexmGH0A8HVcya/0IARpXEnu3fYtsRlB8DoD5I+y58aTUejat3NJ/CQDwDzM0Vv7rAQ5RqXZT5NX5Q/MlsHVcXqCu3z2ySfAtdc0vJjK6Oh4vlXwlO9l+8XUwsdf8TsfohmtQNxyat+2UMjuDZMl/9SqGtt4ZTPm9LGz3/Vfh2UeIKGc9E+R4CvIeDoDWiHoF5HaNp1oQtV6Q==;Rzd6fjnexMxDFs8eFDZdsg=="
 ---

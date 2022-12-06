@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-06T17:31:00Z
 originalUrl: "https://healthitanalytics.com/news/deep-learning-model-assists-researchers-in-obtaining-useable-ehr-data"
 webUrl: "https://healthitanalytics.com/news/deep-learning-model-assists-researchers-in-obtaining-useable-ehr-data"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Analytics

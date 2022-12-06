@@ -28,6 +28,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 28
+  - title: "Philadelphia AI retail startup founded by Penn Ph.D. raises $7.5M Series A"
+    excerpt: "The company uses data to help retailers forecast, set prices and manage their supply chain with the goals of optimizing profit."
+    publishedDateTime: 2022-12-06T18:41:00Z
+    webUrl: "https://www.bizjournals.com/philadelphia/inno/stories/fundings/2022/12/06/invent-analytics-series-a-university-of-pa.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 15
   - title: "Five9 Elevates Omni-Channel Customer Engagement with Innovations in Digital Self-Service, AI Design, and Analytics"
     excerpt: "\"Customers have high expectations when they contact their favorite brands, regardless of whether they employ self-service, digital or voice,\" explains Dan Miller, Lead Analyst at Opus Research. \"Too often,"
     publishedDateTime: 2022-12-06T14:20:00Z

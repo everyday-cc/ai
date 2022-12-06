@@ -275,6 +275,15 @@ related:
         width: 1812
         height: 900
         isCached: true
+  - title: "How AI chatbot ChatGBT measures up on Seattle knowledge"
+    excerpt: "ChatGBT has gone viral for its precise answers to users' queries. We set out to see how much this chatbot really knows by asking questions about Seattle culture."
+    publishedDateTime: 2022-12-06T19:15:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/how-ai-chatbot-chatgbt-measures-up-on-seattle-knowledge/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
   - title: "We Asked ChatGPT Questions About the Language Industry…It Had a Lot to Say"
     excerpt: "OpenAI invited people on Twitter to try the AI conversation interface ChatGPT and provide feedback. Usage soon exploded. The chat app reached over one million users in just five days. ChatGPT builds on OpenAI’s Large Model (LLM) and is next-level for AI dialogue iterations."
     publishedDateTime: 2022-12-06T11:56:00Z

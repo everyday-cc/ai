@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2022/12/5/23494175/facebook-dating-ai-fac
 webUrl: "https://www.theverge.com/2022/12/5/23494175/facebook-dating-ai-face-scanning-age-verification-expansion-yoti"
 type: article
 quality: 60
-heat: 100
+heat: 80
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Start-Up That Took On Facebook Plans To Go International"
-    excerpt: "A Vietnamese internet startup that's successfully defended its home market of 100 million people against global giants like Facebook is now going into attack mode."
-    publishedDateTime: 2022-12-02T05:11:00Z
-    webUrl: "https://www.ndtv.com/world-news/start-up-that-took-on-facebook-plans-to-go-international-3571291"
-    ampWebUrl: "https://www.ndtv.com/world-news/start-up-that-took-on-facebook-plans-to-go-international-3571291/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/start-up-that-took-on-facebook-plans-to-go-international-3571291/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 44
-    images:
-      - url: "https://c.ndtvimg.com/2022-12/0r7m10d_zalo_625x300_02_December_22.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Banned AI bots crawl back onto Facebook to target male gamblers"
     excerpt: "Weeks after Meta-owned Facebook banned groups which were caught sending streams of private messages to potential gamblers, promising free tips in exchange for signing up to online bookmakers, they returned to the platform to seek out new customers."
     publishedDateTime: 2022-12-05T04:19:00Z
@@ -67,20 +51,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
-  - title: "After taking on Facebook, Vietnam startup is setting its sights on the world"
-    excerpt: "A Vietnamese Internet startup that's successfully defended its home market of 100 million people against global giants like Facebook is now going into attack mode."
-    publishedDateTime: 2022-12-02T04:06:00Z
-    webUrl: "https://www.digitimes.com/news/a20221202VL204/vietnam-vng.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 21
-    images:
-      - url: "https://img.digitimes.com/newsshow/20221202vl204_files/2_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "0yDuTQ8kzBLa22xCRZ84TMRqK9v4OxZmS4DI0mATbyzQa2nPDEwJQJ/XTVco02zHfljdyiBuZ8h3uTTjPEfUOT+/dI0m+hTrOBHcH7g/ntr6TFjus89tVSM0+seiToGxxeec/xk1f6cc4j6liSZsm7dGtkZuy3Ei96VfyFYKkKTNkqY3f/l9yq5kNWt7kRUE2s3RBsWvpNPCejfKo2jzr2ocusD3IOJOYDHiwySIUbpBFpsClEc1Qda/JPkkj1Aco3RZrUINALUS8OcfkLn9Kj0apXCbx8vSZjLgcfXEw/tJb2updEJOZBtHLHZPedsil5cqOS7HOl37f8NeZl6odD71vB8d9mWZ4QCfCRQR2yGI5qghJPxxjvDKkYqjuKZj4BAgSNQkb+h/V3vpojmCa7h/tXSI3PGm4w0HtIHZVUrnssgodJjtgXkQBEbihBMW98ZOmMFF06BaUXMb6wrriH+t2PQXQ/eZGRW1/JcGZMxIytVZ6LP8WDTPgGSJJEYbhYRwmi/VShFmeuC9NXe9nA==;Tg+cuuVCv1xm0B8VowrRDw=="
 ---

@@ -5,6 +5,8 @@ excerpt: "Leading open-source artificial intelligence startup trains foundationa
 publishedDateTime: 2022-11-30T21:39:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/11/b29913648/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the-"
 webUrl: "https://www.benzinga.com/pressreleases/22/11/b29913648/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the-"
+ampWebUrl: "https://www.benzinga.com/amp/content/29913648"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29913648"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "khhNzYCFQ5G32Gi8CuReUGfjMC+zQ8zsCpyWM9hXFBbpIBqwjzb0wDIQF1igKJGf/7UOsg7MP6tL83ZIBGLx/E8CNYTFmStJv6Ay1SyA0i5rSpyRFuREBdOuXO5EhUJVo+RibAuiCVG3Ad+CdSnxhrAs+holjMVqJ2nSXqKg0VYaY+saOyoIBM9T8NMF7VbzRaCcYjfsaGuroFyuUjOSGCThQyiN9lb0rAOMIu1CwdOn2ciC2CcwtyQH4f+DCpc9hHTIjQzcom/0WgUVMrHrGvgppF5+IOng72Z3D2nbEdBwaSlGTZ3M/dxdO6AjMY6o/0znHmvekj+jRvF8buA3g/vQWSRtRxUmfo1PTlUsf9k=;FxLcT/Vpm4TTQgGaNJztKQ=="
+images:
+  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
+    width: 800
+    height: 313
+    isCached: true
+
+secured: "miYAco+ACZIL0+i/DJowgZnH+jVc1JdvPJnGPu2wcT5zImJuhdilSffcun06/REy37W+/VIj4RKJX1SRZIZqdjPpbb6yN6OsYhza9akGTbtn8VHaiNfgRk63EkNnF0Ele/HmUGJ2TRGn8LjaNY0r6rjzdV3ujqA1+ZuNeWpcP/lGeHDHiGZvSaD7ZQoyuU3MQgX6m4FDFZPN39zXSlpP2vEqOELBFw3K0dJD57B1mKgzqvWr99UFctFRcdgWBaqsIq+S23ZJB99tu3t10YVCNYbfoTOFBCmNu/US3g4btyAIitynWNciNQrSOgJCXz51sd4vMpJZTI1bV6iILWFScgYJ/FJVE3AMnBgFkg7hxF0=;NT9bI4fT9kWl4k+R7/U0/A=="
 ---
 

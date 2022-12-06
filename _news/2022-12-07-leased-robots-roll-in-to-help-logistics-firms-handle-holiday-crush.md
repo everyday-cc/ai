@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-06T17:21:00Z
 originalUrl: "https://www.wsj.com/articles/leased-robots-roll-in-to-help-logistics-firms-handle-holiday-crush-11670350896"
 webUrl: "https://www.wsj.com/articles/leased-robots-roll-in-to-help-logistics-firms-handle-holiday-crush-11670350896"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Wall Street Journal

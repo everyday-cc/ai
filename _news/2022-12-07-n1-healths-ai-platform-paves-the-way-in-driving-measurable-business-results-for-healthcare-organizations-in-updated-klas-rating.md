@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-06T19:27:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/n1-health-s-ai-platform-paves-the-way-in-driving-measurable-business-results-for-healthcare-organizations-in-updated-klas-rating-1031956311"
 webUrl: "https://markets.businessinsider.com/news/stocks/n1-health-s-ai-platform-paves-the-way-in-driving-measurable-business-results-for-healthcare-organizations-in-updated-klas-rating-1031956311"
 type: article
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Business Insider
@@ -20,6 +23,17 @@ topics:
   - AI
   - AI in Healthcare
 
-secured: "1EOlsUjZvg0MUV2I6L7MBCkMoEqj6e5NOm2yppTeHe2foLbbY8aIqmoehVkBXutv9WN9lpR2sxtYSIuLwvbKK2yG/DQyDQPFrUtlRMIinDq3+LzLmL/hgfSbF7fS64+NwSt5ZuqNccrXKPu5HOg1qgyNV4SKEZeT9VcMwvtX7zG+GgtPLUQqGsBjJaRux95lzaM169rOZGpdTopreVKLaqTE2VtSxe0Ptl61A7jlCsZq/MDih4XzIRvZaC0a6Vm5pvKXMsaA8iCrAmcX59+/Nn9AYyblbO7sYLppS4/+hnfZLVydnQbZByUfrMJG0iilj5QaBnB5mjqAd+wcTNuzLTUIa09fWc1+NwgxkOIzJXw=;vcNdtyH19K3xXwznWsUgmA=="
+related:
+  - title: "How the pandemic is reshaping the healthcare playbook"
+    excerpt: "The unprecedented steps taken to accelerate the response to the COVID-19 pandemic could serve as a template for aligning regulatory frameworks with emerging challenges to health systems. That was one of the takeaways from the second national event of the Future-Proofing Medicines initiative staged by Science|Business and EIT Health,"
+    publishedDateTime: 2022-12-06T14:26:00Z
+    webUrl: "https://sciencebusiness.net/sponsored-report/how-pandemic-reshaping-healthcare-playbook"
+    type: article
+    provider:
+      name: Science|Business
+      domain: sciencebusiness.net
+    quality: 19
+
+secured: "pZTe97TMiL9G4cDTUhEMCCBFMjEzIbXc+MEIuVRmYcFEa4hNmAvoRkR6B6a7US9+A2W5KurAWCJC+8JkWD2dWR4CYTOG+35O5TQKclbQnA7Pj+g88d4dgxzlJu/BgYqZRt2bfBGD9+HD2zKdr6TEzgoPV+bEK1dQG0CLoqKQkUWt8XiY1LDBYQlVpy1l8JrHfVk7i0LERzobohvCmNVG0MESYKUYhpHyHsHe/38A7v02aU6V4FFjaBsIAR+iUAozeC3g/rhZo4FgAL2s4Q+hbqHt2LGhL64W6gt8z7BhnXyr5RzK3EqAbjMiBAM/yJD/FjOhZDIjlH0oKnejgx+FDaz3us+PTMoawxpOthgwufs=;hFdTzLLPyEyf9OtpvaIKJg=="
 ---
 
