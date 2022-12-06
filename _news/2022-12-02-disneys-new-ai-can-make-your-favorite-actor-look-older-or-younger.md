@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/disney-ai-can-make-your-favorit
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/disney-ai-can-make-your-favorite-actor-look-older-or-younger/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 1920
         height: 1082
         isCached: true
-  - title: "Disney built a neural network to automatically change an actor’s age"
-    excerpt: "Disney Research Studios' newest neural network, FRAN, can shave hours off of VFX artists' workloads to create convincingly re-aged actors."
-    publishedDateTime: 2022-12-01T20:30:00Z
-    webUrl: "https://www.popsci.com/technology/disney-neural-network-aging/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 19
 
 secured: "rVMNj9lCFB8c+jJ209/Gd17yd0ir0yo5jrdnKoX4zaMb6rLYwh9g2lWMazQSAjvosWdo5kpc2Nh1UGH4NOuC5RJjTwdLtgAB/OohOg/4F+i61GuIoVgr7K1gA7OYB5jq9Tfy6TXtfeE526biRlTljb05ZG/QxmhvPqSC2YCaF7JeWScU/KZnyJp8G78yhx3+WMnTrOfavsUDVLwHGAAeJumlOhB8IVKNLoXbrwgxjRYRSHcSl7fS6tG2CqnsptBuP6lMif/rvznFeHEcIgMziOpxK0cowvSxi6yXtMVtEA6nt/4NeSJJaEAceaCcFDKCnwr14VFDOVRejCFN1wYBBR+b2BIN6MZPCWbvJxs0NAHGjGApr4sAxRvVxe9Ur1ZCf47QTlgVrk2/GBidZw0GlR9mcf2JAI7jiduOAh06cuQjCommk93c03viZhklPvsGoEyN9R+J6Y8VPGQYHyS0IpBNFg3f5eBxnQ7iSyxjVyaGl8Vp3wXmB+yZvq3B/x7/DWz1I8zI19mCdZUIGHm/FA==;z0NDgp/um9JkNt48giwVnQ=="
 ---

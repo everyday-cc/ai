@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Computer vision monitoring solution deployed in Brussels hospital to support elderly patients"
+    excerpt: "Kepler Vision Technologies has partnered with Innomediq, which will see UZ Brussel use Night Nurse technology to monitor patient wellbeing"
+    publishedDateTime: 2022-12-06T09:46:00Z
+    webUrl: "https://attoday.co.uk/computer-vision-monitoring-solution-deployed-in-brussels-hospital-to-support-elderly-patients/"
+    type: article
+    provider:
+      name: attoday
+      domain: attoday.co.uk
+    quality: 28
+    images:
+      - url: "https://attoday.co.uk/wp-content/uploads/2022/12/Kepler-Vision-UZ-Brussels.jpg"
+        width: 900
+        height: 678
+        isCached: true
   - title: "Kepler Vision Technologies announces first ever hospital deployment with UZ Brussel"
     excerpt: "A global pioneer in the development of vision-based human activity recognition software Kepler Vision Technologies announced its partnership with Belgian medical device company Innomediq."
     publishedDateTime: 2022-12-02T07:09:00Z

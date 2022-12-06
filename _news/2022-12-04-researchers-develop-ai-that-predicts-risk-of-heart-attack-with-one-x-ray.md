@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/science/health/researchers-develop-ai-that-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/science/health/researchers-develop-ai-that-predicts-risk-of-heart-attack-with-one-xray/amp-11670147870319.html"
 type: article
 quality: 58
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://c.ndtvimg.com/2022-06/ipbu0t1_heart-attack_650x400_03_June_22.jpg"
         width: 650
         height: 400
-        isCached: true
-  - title: "AI and one X-ray can potentially predict the risk of a heart attack or stroke"
-    excerpt: "Researchers have created a deep learning method that can predict which patients might be eligible for life-saving medication that can prevent both diseases."
-    publishedDateTime: 2022-12-01T20:22:00Z
-    webUrl: "https://interestingengineering.com/health/ai-and-one-x-ray-can-potentially-predict-the-risk-of-a-heart-attack-or-stroke"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 38
-    images:
-      - url: "https://inteng-storage-us.s3.amazonaws.com/2022/12/01/image/jpeg/WiO6NnTNsPY99lKpkeVE4Y9wjF7V8ZnX52VvNfoJ.jpg"
-        width: 1920
-        height: 1425
         isCached: true
   - title: "How An X Ray Can Help Predict Risk Of Heart Attack"
     excerpt: "The World Health Organisation (WHO) has reported that globally heart disease is now the biggest cause of mortality. According to estimates, about one crore 70 lakh individuals worldwide lose their lives to cardiovascular disease each year."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/news/kepler-vision-technologies-a
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/kepler-vision-technologies-announces-hospital-deployment-co-1642600554-ga-co-1669957848-ga.1669956155.html"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Computer vision monitoring solution deployed in Brussels hospital to support elderly patients"
+    excerpt: "Kepler Vision Technologies has partnered with Innomediq, which will see UZ Brussel use Night Nurse technology to monitor patient wellbeing"
+    publishedDateTime: 2022-12-06T09:46:00Z
+    webUrl: "https://attoday.co.uk/computer-vision-monitoring-solution-deployed-in-brussels-hospital-to-support-elderly-patients/"
+    type: article
+    provider:
+      name: attoday
+      domain: attoday.co.uk
+    quality: 28
+    images:
+      - url: "https://attoday.co.uk/wp-content/uploads/2022/12/Kepler-Vision-UZ-Brussels.jpg"
+        width: 900
+        height: 678
+        isCached: true
   - title: "Kepler Vision Technologies announces first ever hospital deployment with UZ Brussel (University Hospital Brussels)"
     excerpt: "Global leader in the development of vision-based human activity recognition software Kepler Vision Technologies today announced its partnership with leading Belgian medical device company Innomediq. This partnership will see UZ Brussel (University Hospital Brussels) use Kepler’s Night Nurse"
     publishedDateTime: 2022-12-06T09:25:00Z

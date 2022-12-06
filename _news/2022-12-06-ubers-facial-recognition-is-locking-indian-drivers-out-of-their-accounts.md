@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2022/12/06/1064287/ubers-facial-recogn
 ampWebUrl: "https://www.technologyreview.com/2022/12/06/1064287/ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/06/1064287/ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts/amp/"
 type: article
-quality: 60
-heat: 60
+quality: 62
+heat: 62
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - Natural Language Processing
   - AI
   - Computer Vision
+  - AWS AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2022/12/Adnan-Taqi2.jpg?w=3000"
@@ -27,6 +28,6 @@ images:
     height: 1832
     isCached: true
 
-secured: "/GLovFfoEGfQKbAC/r+/PwGrvFUlxbTJwAv8yJnuy4pTjNAayC8MEa84u6zN8WOO0rgdJ8uySmhZCmlLVNX8e7HNx22jwIKvdH7pilcDhDPwp9QQqRnE/TTPoNEgxsRBnffEzhAbJtu7/RVD0y4yzgPsiHIxereL61YmNxlpqBCvP0YvxGrEFSTNRrFIuWOzBLZHX9lPtOG36JkowPhW/p2+Nm+OUD4VQkn7zG9btqLEF1JugeX5G+RdwdPfFJjEqXkn/47ucjEnAwcBsOi43rVXDEL3xOn6XMFtOq6/P9yZzZ4axsVi9DZY7dJnsrKxkuVwMo5teDf07Tq+Gy+U3c+C8Kj1n5VuaDYPOw7iR3Q=;Cyski3rXoUQ+HKEAaR3A9g=="
+secured: "zpWcU/mr828myzcgn7aMgl55sR+fuyO1tvqN/EZL3FZI4A0ObY+PUZt26YBQXNq0Uk3LDqpgA9ZgRVJVTFJ8rS0h/cpmdANS+q290cZxbBbPiAA4LcBM+C5vkN0SaYQS4nEtzLJJWrrWlFyFwnc0j4I8Ilea3ZPBLd0YIa7DRM1U2ByAwpzKHRIsArfN9YqZ/0s1q0Uu8pP6kxrLaWO5ADeBrhi55QBgOGPHHYnPEYPFKZFOumda3RK60qjLoNw3WcofuWb7aevc82n6SVLPCSCP5OCseCG95qwTg7WOMcwQSDbgIuVR2H0UdWTtF/uhhKppouorOC/46azMahj+s3AZnqmPgsoalbzS+PUTbEjPqjPbUbg84Cog3TaXyI/JRd5eTQwVgDUeyHix6X5K5S48jEet/gAVvX1yL3fKgVibeJI/xCTY56u8yhaE01eWREW5kCE9be6l6ezlpADtp0ZcTeAKYztmT2mv48PKBCfag2FmZTsthp2YBlHlm77VIQdPI/4cizLQKCyRmNFOcA==;egRCcCmcXoTW2qDM9/Kzdw=="
 ---
 

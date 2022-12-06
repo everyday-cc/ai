@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/the-future
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/05/the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence/amp/"
 type: article
 quality: 83
-heat: 113
+heat: 93
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence Is Transforming Healthcare"
-    excerpt: "Artificial Intelligence (AI) is already transforming industries from banking and retail to transportation and energy and has the potential to significantly improve every industry it touches. Since some version of “improve my health” will likely be near ..."
-    publishedDateTime: 2022-12-01T20:11:00Z
-    webUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-is-transforming-healthcare"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 66
   - title: "Revolutionary AI advances are transforming the world"
     excerpt: "Artificial Intelligence (AI) has been making incredible strides lately. From driverless cars to voice assistants, the potential of AI has never been greater."
     publishedDateTime: 2022-12-06T09:18:00Z
@@ -55,15 +46,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Insights on the Artificial Intelligence in Manufacturing Global"
-    excerpt: "The Global Artificial Intelligence in Manufacturing Market is expected to reach $21.3 billion by 2028, rising at a market growth of 42.2% CAGR during the forecast period. In recent years, artificial intelligence has become one of the fastest-growing technology."
-    publishedDateTime: 2022-12-01T20:24:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-insights-the-artificial-intelligence-manufacturing-global-market-2028-/2022/12/01/9723284.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "/DIw59I4EJh1yAJTTxhv5tHwINsztgBTBQB41UZGDWaSvc1wpXcVQlSGLQFxrDUochKsB+7K745McZDHppDd0dEKUvdkMXHN9oI9HtVWB5bqCijfMDgPiizbVn79J6sKpf59gRpaOqupSESH7lXAffr323loiAxMj4SQqDv8hR4wpQLozz/vi0oj3E2n1ngb+usz7QELHFBRuJtv+uNrGy1dkdm6RosSAZQvi7RzywgHeMj7dh1/1Lev4i1x6ymHZ3xkowm6O3uZrFcn9AGq0MQsEdwJWKf/C1Pv4YhOzAJwVFRbgG30g0qAjFWhTUnYQhHBs+nGAsijxLeTQgTV9MCjVScwVjhKnDlpwMi/1/K/pzcL41M8btD8KN4VIQx2UX3P5QEH3e8ijCwFWy8zA7S5QWcZnIReSKl2Jxcjq0ILC6jT7JbDZX2lUI/G0PtZuk6AraDn7tIk7x0aw+586UCwJevx9+kTIpcdn+QEcEjWcawov2GAo8DxT+ngchpdErZ1AChNOKdhCBSKEhkD4Q==;rz0ThUdHBff+ZcFQVl3aSA=="
 ---

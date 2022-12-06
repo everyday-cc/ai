@@ -56,15 +56,6 @@ related:
         width: 1920
         height: 1082
         isCached: true
-  - title: "Disney built a neural network to automatically change an actor’s age"
-    excerpt: "Disney Research Studios' newest neural network, FRAN, can shave hours off of VFX artists' workloads to create convincingly re-aged actors."
-    publishedDateTime: 2022-12-01T20:30:00Z
-    webUrl: "https://www.popsci.com/technology/disney-neural-network-aging/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 19
 
 secured: "rJMaBhokI7tVgphozBNVj4NLFsnmxhEZVnJ03GVrZMA2ZdrKBRGUc6V9xv5GZMeVhUXyXF4IjVLa3WvvA6COM5EJ1B706vSdvFnbupmpNOslU0HOJf7VggSOEoc+tW0rwV3TOT+CYLgi+A3OVU+NDuwclzQGdeCCJ1ukdzr1kVFTZQ7e1Fb8o8corFe3Zvrw9LL0HGiy0NLF+USy7SytF/jNyZM47Cc/9mH+R8Dq+USOA28VcFbDqaTSi3L5lyVrh2oE+WUIxskMVvZYqZm2xoAxStKISdluHRE2YbYg3LjR+TRcsj9Nkjz2F4OqzjkzmDZ6/qi7wW53MrzwilTlSSl7RGDZabSRrhRNVb1faEwPh2hgIy0aJW0smYxq0HxjUiIxc1rmHSzAAJr7pGfSbD0UXFbeIYGrnTNWCpytZy4t0UyYWtO+McgDwPbyRAwpvXlFrTnYCYwaqiqxOzVJydHf59ukbGL0gcgjKgRfxG5OVgC3d0prRvP5yXdWpVoBoZgkqczOvRaXWuwBNLHBww==;BAXhz3iQcW853HPzF6knwg=="
 ---

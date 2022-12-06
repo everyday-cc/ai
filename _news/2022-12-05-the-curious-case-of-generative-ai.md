@@ -55,22 +55,6 @@ related:
         width: 4896
         height: 3672
         isCached: true
-  - title: "New betas have Apple Silicon optimizations for Stable Diffusion AI art generator"
-    excerpt: "According to an Apple engineer on the machine learning team, the newest beta updates for macOS Ventura, iOS 16, and iPadOS will improve performance for the Stable Diffusion AI art generating routines."
-    publishedDateTime: 2022-12-01T20:18:00Z
-    webUrl: "https://appleinsider.com/articles/22/12/01/new-betas-have-apple-silicon-optimizations-for-stable-diffusion-ai-art-generator"
-    ampWebUrl: "https://appleinsider.com/articles/22/12/01/new-betas-have-apple-silicon-optimizations-for-stable-diffusion-ai-art-generator/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/22/12/01/new-betas-have-apple-silicon-optimizations-for-stable-diffusion-ai-art-generator/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 54
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/51714-102453-mac-studio-bottom-xl.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Runway Raises $50 Million At $500 Million Valuation As Generative AI Craze Continues"
     excerpt: "Runway ML, one of the two startups behind the popular AI text-to-image model Stable Diffusion, has raised new funding at a $500 million valuation, Forbes has learned."
     publishedDateTime: 2022-12-05T20:19:00Z
@@ -80,6 +64,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 40
+  - title: "Thinking Beyond Generative AI, One Token At A Time"
+    excerpt: "Every company today claims to be using GPT-3-like models for their generative AI play. This include Jasper, Notion, Regie, Frase and others."
+    publishedDateTime: 2022-12-05T12:37:00Z
+    webUrl: "https://analyticsindiamag.com/thinking-beyond-generative-ai-one-token-at-a-time/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/Is-This-the-Real-Moat-in-Generative-AI.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Nielsen and AI4ALL expand relationship to build the next generation of diverse artificial intelligence leaders"
     excerpt: "Nielsen collaborated with AI4ALL to launch the inaugural Data Jam initiative for students in their College Pathways program."
     publishedDateTime: 2022-12-02T07:11:00Z

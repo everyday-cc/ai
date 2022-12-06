@@ -60,7 +60,7 @@ related:
   - title: "Samsung, Naver to develop AI chip solutions"
     excerpt: "Samsung Electronics decided to work together with Naver, the country's top internet company, in developing artificial intelligence (AI), they said Tuesday. The two companies' goal is to develop new semiconductor solutions that will lead to innovation in the emerging AI industry and further boost the country's AI capabilities to compete with global big tech firms."
     publishedDateTime: 2022-12-06T07:47:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/tech/2022/12/129_341223.html"
+    webUrl: "https://koreatimes.co.kr/www/tech/2022/12/133_341223.html"
     ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=341223"
     cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=341223"
     type: article
@@ -74,6 +74,6 @@ related:
         height: 662
         isCached: true
 
-secured: "YUxvlMr2vcUJkRk+1lFjOA/4r5T+nHUfMfQ2PFLul+DYbkb5TJ8uDO8v04oJSMTwC05OYTatzzCm3qT3NzYNYa4CVofZtU8wT9zQIqvizXp6CbMx0W23ooLKuKyqyVjXsqdHuW1/Ml1WUyISUcE46t0s7HMv1YpmOvN40JPOV57G/MvetAPuUwYSVO7ebth1PEsvV3BQ0OmgEoKWux1WB8eWoFO/BixDMF+rjX1Dk1FwEIHDmsrNsOZX4PnWwcxy1Pk2kzEIsYuqMhgCwqITQD06sBXWsceYmY9efet/eXgAjwsWztWAX0qFxs1bknDOuCiLzkeYn5ixhyMUBnOmK1/BbQ6fQ8VsUuqzsAi90rk=;o0XpQtSfDstijm/YYpI3cg=="
+secured: "AxTbmtMWy4amV8YzqSzZaUh8UZBDy0S5Z4vYZJ6GfIeASiTB8rcZDOfHLF7p9bVTgdpKOQYgKL/kRDWP0jN5QoGVrtt3Xd4s9guv/gL+yHe5ddsntqzR23GfRAZB3qQ8nmQoR6+uxbJR+y9R7DtczbXN2pXDgljBd/4IM4dRenub1VRRpNNdAPZUDiG6eS/5DheFqOwgAR3ka7in12z4HToWlTvR4UkwGgPYu6MIOyoEOfgAPBL3poH9fOp1/Rop+yC4dWIhqTVI7Bjpn6o82XJNT3amupUL4f3SnK2XKDAP1N5idi9M8OYIZeto84oSwFDyNm/9paVZG4GTqEI9yjNH8bDxEWBk5UBZE/NQUpIp8UKNb+1rMnrFY/Ak7ce9RWsuU2oswncTH1hRsMC/gAmRxdJxu0dEG1o89InzeRyvZ4mDa6E7IhMYEh1akdQl3ir7Hc78YWeJZaWMyenFeSBfcITsrVgDGpStM7MVcqCWkHaKSm9wYQfnLYAm9IYDPHClVj6w3umJ0Nhphp5iRw==;mkmtTNpggYmmqtVADwXOYQ=="
 ---
 

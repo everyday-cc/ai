@@ -30,18 +30,18 @@ related:
   - title: "The TSA’s facial recognition technology may expand nationwide in 2023"
     excerpt: "The TSA could potentially expand their facial recognition identification system nationwide in 2023. Veuer’s Maria Mercedes Galuppo has the story."
     publishedDateTime: 2022-12-05T18:29:00Z
-    webUrl: "https://www.stltoday.com/travel/the-tsa-s-facial-recognition-technology-may-expand-nationwide-in-2023/video_38bac7aa-6efd-5d13-a2e8-da170da078c0.html"
+    webUrl: "https://omaha.com/travel/the-tsa-s-facial-recognition-technology-may-expand-nationwide-in-2023/video_ab85d6f8-fcb8-5c96-a73c-c6b250579358.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: Omaha.com
+      domain: omaha.com
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/8b/38bac7aa-6efd-5d13-a2e8-da170da078c0/638e23ea02321.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/a/b8/ab85d6f8-fcb8-5c96-a73c-c6b250579358/638e23e3ec507.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true
 
-secured: "xHnRJvLWfoq/l0zESrV0BEWBwAH856fakcIXrQR3L+BVS+W0PikOzVxVXtVRQtrdz4uUQUNU/5FOHPvbjq2YgqOGiCvItZKEzMPu5nS8OW76MRjGjXe6v6LUOtakNvTs9bRJaLKFvRJrjjWY/uW88FE6t2s5uRjkv3jWSh1fXqX7pAHW3Pnus8g13bQ8OqMSv2yMfDMMh0JJz8IV8+HqVbqFM7+1jq8COwJGkN6Lqi1+heS9yZVGEmIlUvSBSRUeP2u/LG1dSj7GrguqnSQGY8THUcxFRNUcoSM/QCk72ZRytEGn6QpTExQfTmnzGPNyyPXlq9J909hNzEAvrmFJVdCNiA3z/mAAC7Ckk7RvgXI=;hq6aPv0zwZQa1DfeAcHHMw=="
+secured: "zgAeq0IEMXLszN6CNO376GQhm98j9oh+L8JU2NwMJ+gBUSorIWgGOD1yzx3jhVarriv58zOu1rh2KhDJYNWcpoXYUt1xsJCURDsFtxEHxhq/RvMtQKUpJ42Ks/z6M8J4B/e9BuDiGMB7l27Ptjz1BCTkBY/HoK4Edmc6iBrFsTGI+R3sngRssoGbwj3YFsTpreeS/jlfiIv/qtr01I4eZLL14KuEmNadsLNdPy5KSnWfy177wIV/ETEnKTaxuBXHNSwVrdJrt8vm0yrm5GKdwW41IKLNoR2CxLGqBlXMUweRHuetrzw76b8pUgLcEGYD2IQc3F8q4yXRCWXb8T0A3GvlYhjDMt9g4wd9UfQOlXvcDeGGFPFIS+SJbl3rn05MdbFNL6PeCjrQoGc7yaBDtSFQW8n/WKFGa/nXrA6xL5aRl7txlp+Qpo5pmAz0ndfjtV/OShz3l86PphH+RuybfNU18u0Y5jXSpMJrcUiPcBH0C/rxRTai+sk+w6PiIiQnCn0ZfmyO/DkHlb4MQDyiXw==;m7MOifnU3OdUbEwi+3NV3Q=="
 ---
 

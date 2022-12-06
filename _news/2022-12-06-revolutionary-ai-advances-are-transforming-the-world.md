@@ -43,25 +43,7 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "How Artificial Intelligence Is Transforming Healthcare"
-    excerpt: "Artificial Intelligence (AI) is already transforming industries from banking and retail to transportation and energy and has the potential to significantly improve every industry it touches. Since some version of “improve my health” will likely be near ..."
-    publishedDateTime: 2022-12-01T20:11:00Z
-    webUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-is-transforming-healthcare"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 66
-  - title: "Insights on the Artificial Intelligence in Manufacturing Global"
-    excerpt: "The Global Artificial Intelligence in Manufacturing Market is expected to reach $21.3 billion by 2028, rising at a market growth of 42.2% CAGR during the forecast period. In recent years, artificial intelligence has become one of the fastest-growing technology."
-    publishedDateTime: 2022-12-01T20:24:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-insights-the-artificial-intelligence-manufacturing-global-market-2028-/2022/12/01/9723284.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
-secured: "36kOuJF6J5H3VR9wyFCRfwxcDcH8gGty4Vrm0Qn3RpsPSh+MxOCFOEDKAflzU7ijryaGBDVFbPgYRCBTsHoQ+wjw+CU+SZib0hVPTV9p6rC3exvu/yZsBBy7ZVg5BDc5nmnouhjolMxKtBhYFotnTdYD20SAIh+5QSF83D1o68eTbZVeI0vvaGpXjVQk6nqgqZIOJaEVWj/RSgIgfeYDGc4dMgceW2Ndr4HtD7knL92e/QGTtpqOX6jaA8VFMpPRrnGoy6kXfIOmppi+09X/P5dx9ZlrQsWzzWv0NE54m35BaPdxyGqpTHR914FzwXxf1LUGrMw30TAwbm4rkFMLxp+utnNEzdS5PqK0KyTMW/c=;nDpmJKxj4dt8hQJp7b70cQ=="
+secured: "jGr88X7zI0JKOJu6R4aPdyZ0InzsNv2amKdINBWh/NAPqguG8U8g2NQKJxglyqCRV9LqtdvQZPONNGdaH+2dl+Ufu8eTr0DW7iHct+dNUv0GcHBcyZ3T6ykVQNmnNkuR0T9i/KVPrZNCySMXGGD5xCevYruXK9YOc9Yd5BGOydntGwx0eOQJjpoFS2a0+tCYoC9xInH2Ehv6sGUZ7rhHpdfWY+dGftNwHerpXka8MJ9we1BrLXwQRvlFOY6iazyoHz4wriY3ZU75oSV81TtinzA8179VxR/Bm1JRnzqy+B8YbDL0mEDLibWRhipR2FamzK9yO7RSMx8Qo4933ZSZkEM06/qq3YWuk20DPyfCJoGf7iLjCTftM4g0I0sZ1eboY16t91VJIgj1klMK66y2aOvN3Dv9GDmtPfD9BagD5kX4VQAhJ7ibUJgW4JMjAso+4epBW0h+nemyAMfmFZFkxlTMzPmUNSXzkrtk1FHOh33w6syeg+1OnKjwSMKniayWQgQGjTRmUckqGx1tMMAM5Q==;8p77w2QAyWnqyUJ2ECBUzg=="
 ---
 

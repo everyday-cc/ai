@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/chatgpt-ai-explained-why-everyo
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/chatgpt-ai-explained-why-everyones-chatting-about-this-new-chatbot/"
 type: article
 quality: 89
-heat: 239
+heat: 249
 published: true
 
 provider:
@@ -170,6 +170,22 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1670242933/itpro/2022/December/AI_Chatbot_GettyImages-1364050120.jpg"
         width: 1260
         height: 710
+        isCached: true
+  - title: "TechScape: Meet ChatGPT, the viral AI tool that may be a vision of our weird tech future"
+    excerpt: "OpenAI’s new chatbot isn’t a novelty. It’s already powerful and useful – and could radically change the way we write online"
+    publishedDateTime: 2022-12-06T11:12:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/dec/06/meet-chatgpt-the-viral-ai-tool-that-may-be-a-vision-of-our-weird-tech-future?amp"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/dec/06/meet-chatgpt-the-viral-ai-tool-that-may-be-a-vision-of-our-weird-tech-future"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/dec/06/meet-chatgpt-the-viral-ai-tool-that-may-be-a-vision-of-our-weird-tech-future"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 48
+    images:
+      - url: "https://i.guim.co.uk/img/media/d008822e799c496cd5d6d1e89a044345469fc771/0_294_5500_3300/master/5500.jpg?width=620&quality=85&auto=format&fit=max&s=c3d58d0185c0e62435422c1c71dad04d"
+        width: 620
+        height: 372
         isCached: true
   - title: "A|I: The AI Times – Turing tested: ChatGPT is craaaazy"
     excerpt: "The AI Times is a weekly newsletter covering the biggest AI ... The investment is aimed at supporting Sanctuary’s $120.8 million project to develop what the startup claims to be the “world’s first functioning human-like intelligence in general ..."

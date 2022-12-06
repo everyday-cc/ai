@@ -41,22 +41,6 @@ related:
         width: 1549
         height: 774
         isCached: true
-  - title: "Informatica data science framework connects with Amazon SageMaker"
-    excerpt: "Informatica INFACore promises to simplify the creation of data pipelines for building and deploying machine learning models in Amazon SageMaker Studio."
-    publishedDateTime: 2022-12-01T20:00:00Z
-    webUrl: "https://www.infoworld.com/article/3682069/informatica-data-science-framework-connects-with-amazon-sagemaker.html"
-    ampWebUrl: "https://www.infoworld.com/article/3682069/informatica-data-science-framework-connects-with-amazon-sagemaker.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3682069/informatica-data-science-framework-connects-with-amazon-sagemaker.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/07/certification_woman-on-laptop_programmer_devops_data-scientist_by-picjumbo-100764593-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Interactive data prep widget for notebooks powered by Amazon SageMaker Data Wrangler"
     excerpt: "According to a 2020 survey of data scientists conducted by Anaconda, data preparation is one of the critical steps in machine learning (ML) and data analytics workflows, and often very time consuming for data scientists. Data scientists spend about 66% of their time on data preparation and analysis tasks,"
     publishedDateTime: 2022-12-01T22:01:18Z
@@ -71,15 +55,6 @@ related:
         width: 1548
         height: 773
         isCached: true
-  - title: "Run notebooks as batch jobs in Amazon SageMaker Studio Lab"
-    excerpt: "Recently, the Amazon SageMaker Studio launched an easy way to run notebooks as batch jobs that can run on a recurring schedule. Amazon SageMaker Studio Lab also supports this feature, enabling you to run notebooks that you develop in SageMaker Studio Lab in your AWS account. This enables you to quickly"
-    publishedDateTime: 2022-12-01T20:26:34Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/run-notebooks-as-batch-jobs-in-amazon-sagemaker-studio-lab/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 69
   - title: "SageMaker Bolstered with Better Controls, AI Governance"
     excerpt: "AWS yesterday unveiled a host of enhancements for Amazon SageMaker, its end-to-end machine learning offering. Among the most prominent capabilities are a collection of new governance tools aimed at keeping ML projects on the straight and narrow ..."
     publishedDateTime: 2022-12-01T23:54:00Z

@@ -121,15 +121,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "DeepMind AI topples experts at complex game Stratego"
-    excerpt: "An AI called DeepNash, made by London-based company DeepMind, has matched expert humans at Stratego, a board game that requires long-term strategic thinking in the face of imperfect information. “The rate at which qualitatively different game features ..."
-    publishedDateTime: 2022-12-01T19:17:00Z
-    webUrl: "https://www.nature.com/articles/d41586-022-04246-7"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 34
   - title: "Google Teaches AI to Play Stratego and It Becomes One of the World's Top-Rated Players"
     excerpt: "DeepMind's latest artificial intelligence called DeepNash has beaten a human player at a game of Stratego, a strategic war game."
     publishedDateTime: 2022-12-04T18:25:00Z
@@ -145,6 +136,6 @@ related:
         height: 630
         isCached: true
 
-secured: "eaDPBgq+KLKe3OSOO4pdlfy7iehqT09QLSsiCMkqZmyPZLl8QR6TOL259IbEfxZcYfUy/5bc4ZHlmEKGrgGSyNkajMvDPuLJoLYgMrGroa9kNXOtB43rXwn6TQqTQBSgciPoHcYzgq6rd9xtalphOd0kJf0rjGrVulgSsJfmhqvQ6verPb0eRpGpyw05b87Dg4UGVik4h/eAPVXzPhgf/sPbgBuZPdQrF2EmWNcpe5KTVqz9td2IzcA+y2/ji88r8hFWDPEC62WJ1oPsyD7ArJ5TE+nari43jm0JUJgmiu3eObCd1GB32N+g/SMo+DR1xOpDlhe2g1qU/ypJ8rQDEy7AIBYdr7+7H2JzA95TQV8=;qj8cSv+WXBZqJwL9xcQCtQ=="
+secured: "4uV9uQ6Ht56J8KnOG0jNckIwYXnFZ/w2HiXRSIB5zBd4TGr9Q3VJDCU1TGw4ZbtJFwcFkggfUmkoY8L9xV4ZoQWok97Wvn4GcLln8Ixcx26mgd+ZnyLrcVeR5SEtFCRQ0db2qgv1yEWL74qpNhNnBWEj/QVYNIQq4cmIILcMG+HbfRgY7AArRVWEmxDqH5PRBtHmG/1gcdUhRXcAPq4qekgiVZgX/INNMqf4KUEsJ3WfSwCIOc4eUk9um9KA15hohphjjQMBC55TMo7ID/0EkbN+XiiVlUDBgg5WZsQPcY2N5cQZydJ0TKJVpwZvdKT+OC/Taq6VSTAnIwlHVNdNJDhQUswBTyN1Fims7IB2Suc=;n2WrhhT2i3M1PvsfaC0v3g=="
 ---
 

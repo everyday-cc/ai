@@ -28,24 +28,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "The Worldwide Federated Learning Industry is Expected to Reach $198.7 Million by 2028 at a 11.1% CAGR"
-    excerpt: "The \"Global Federated Learning Market Size, Share & Industry Trends Analysis Report By Application, By Vertical, By Regional Outlook and Forecast, 2022 - 2028\" report has"
-    publishedDateTime: 2022-12-01T20:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/12/n29932719/the-worldwide-federated-learning-industry-is-expected-to-reach-198-7-million-by-2028-at-a-11-1-cag"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29932719"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29932719"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
-    images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
-        width: 666
-        height: 282
-        isCached: true
-
 secured: "ayslFL/PZvPOrZlAFhhIgU3L40zNtp9v/gIVnCM89vwTb3Twrlt4VlY3WkOj/oRvuWYdI7b4hjsI4656+mg8lVFUqwthSRuSoFKmQfg4nn931rRXHyb7N4dUmfO/OPINJkjrENmWbGOMikCRWFvYcPqDFN9XzhgREI/T/FtO5FuebqA+s+QX2O8RNAY2aVAxfwgXqYwrrt+G4kUnK0me++c8UmBX3/4gC8UbvXdT9sDcbuNjMv1OjsKfPG4anZbrCCJkT2CVu9BuW9XnBJkYTNENxoyqaA8YlWvpgDMWdkcOaQvlEVAfQOEJ9x7unOw3dz1k6asS/fe1gn3n95gEpfKt9E2SWOJxfEJ8zMILD/Q=;zp5CV/3cJfoVcfGcvbqkew=="
 ---
 
