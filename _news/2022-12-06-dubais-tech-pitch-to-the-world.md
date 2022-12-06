@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/industry/infrastructure/dubais-tech-pitch-t
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/infrastructure/dubais-tech-pitch-to-the-world/amp-11670260716327.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Mint
@@ -30,6 +30,22 @@ related:
   - title: "Why Dubai has turned a magnate for India's tech talent"
     excerpt: "An ongoing digital transformation is adding to Dubai's attractions as a tech hub. What can India learn from it?"
     publishedDateTime: 2022-12-05T21:09:00Z
+    webUrl: "https://www.livemint.com/industry/infrastructure/dubais-tech-pitch-to-the-world-11670260716327.html"
+    ampWebUrl: "https://www.livemint.com/industry/infrastructure/dubais-tech-pitch-to-the-world/amp-11670260716327.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/infrastructure/dubais-tech-pitch-to-the-world/amp-11670260716327.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2022/12/05/600x338/EMIRATES-TECHNOLOGY--_1670260857066_1670260857256_1670260857256.JPG"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Why Dubai has turned a magnet for India's tech talent"
+    excerpt: "An ongoing digital transformation is adding to Dubai's attractions as a tech hub. What can India learn from it?"
+    publishedDateTime: 2022-12-05T21:24:00Z
     webUrl: "https://www.livemint.com/industry/infrastructure/dubais-tech-pitch-to-the-world-11670260716327.html"
     ampWebUrl: "https://www.livemint.com/industry/infrastructure/dubais-tech-pitch-to-the-world/amp-11670260716327.html"
     cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/infrastructure/dubais-tech-pitch-to-the-world/amp-11670260716327.html"

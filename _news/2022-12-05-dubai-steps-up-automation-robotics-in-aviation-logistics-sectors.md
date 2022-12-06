@@ -28,6 +28,20 @@ related:
       name: gulftoday
       domain: gulftoday.ae
     quality: 40
+  - title: "Hamdan Bin Mohammed Witnesses Signing Of Three New Partnerships Aimed At Driving Innovation In Aviation And Logistics"
+    excerpt: "H.H. Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Crown Prince of Dubai, Chairman of Dubai Executive Council and Chairman of the Board of Trustees of the Dubai Future Foundation, witnessed the signing of three partnership agreements by Dubai Future Labs (DFL),"
+    publishedDateTime: 2022-12-04T19:40:00Z
+    webUrl: "https://menafn.com/1105265546/Hamdan-Bin-Mohammed-Witnesses-Signing-Of-Three-New-Partnerships-Aimed-At-Driving-Innovation-In-Aviation-And-Logistics"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 16
+    images:
+      - url: "https://menafn.com/updates/pr/2022-12/04/ENA(_28656image_story.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "JW7nOWFBEaMylwCUy79NYn3ZRr/jk3KQb2clrJy7mg+LIWnUxoNmGjLKIuYE0oAyobdzsdmvNbqZ2C2XNks2GVqWErVEsawhMHLvcZ50Mk2EU49k/2MKGc2fFiFhA0EnS72wYFMfLwsxQ5jauuqOIKr+78Cmq9Rg9Eq3GkzhAXCEJqDaVwbosNEV+wMsSvv+D2ZJ4GT/UweLcqO3WUjkwlFatfvwAKOQ3ISd0llTNbRzw+j1xSQKygGHzJ+fZ7jkZyHMpL3A2U6/s0SilfkUWE7fPctgEAPD3mWInVBb/LlEkArDe21YjgCPYcfTuQTrnE3XBORuCdkUDybGRLe9xlIyxBD4dxbf0JXHfHMjN9I=;Bhke7k+L7PfPXpGXhI7/fg=="
 ---

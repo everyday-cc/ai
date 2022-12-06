@@ -250,15 +250,6 @@ related:
         width: 642
         height: 409
         isCached: true
-  - title: "For seamless travel, govt to launch facial recognition-based entry at airports today"
-    excerpt: "Digi Yatra is conceived to achieve contactless, seamless processing of passengers at airports based on Facial Recognition Technology (FRT). The project basically envisages that travellers may pass through various checkpoints at the airports through ..."
-    publishedDateTime: 2022-12-01T07:32:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Business/20221201/4009643.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 27
 
 secured: "iuaqP7lBTJKaov126Qapr7x54NkN+tHGEmO2adhTDHQvZcNFNMg6NMxKefLp9mbyG6xJu3CYWTj/IibWC4aiDaZ874DovhAcatCahSHz8zOi1qnPqUUfNhswgPIHYaHNHWP5izq2tee+yE8mV2rw+yZWU4A+7M+FCYeVwUdVo6QSQJsyT3WxeAOZBa6xw9AvJJcGm4PQWL9A9ijQKCLZW6DlK/0Y4mgKptmSPGwNnPJT7t4D2nvjnpo7utehruy+CdmoNDWTuIdSLJO/mR+mAHhXkyXCA9I7tmJsyipdzweF3/i0shzyk2rw0yQXoo5DD+1Iq3QmSocvvZczn8xg0q1FZsXOlnTQaqr11Hj2BeI=;trEIe+5PnNPdfNVWAkJ7Zw=="
 ---

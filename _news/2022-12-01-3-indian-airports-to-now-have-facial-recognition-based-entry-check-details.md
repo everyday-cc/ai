@@ -241,15 +241,6 @@ related:
         width: 642
         height: 409
         isCached: true
-  - title: "For seamless travel, govt to launch facial recognition-based entry at airports today"
-    excerpt: "Digi Yatra is conceived to achieve contactless, seamless processing of passengers at airports based on Facial Recognition Technology (FRT). The project basically envisages that travellers may pass through various checkpoints at the airports through ..."
-    publishedDateTime: 2022-12-01T07:32:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Business/20221201/4009643.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 27
   - title: "Govt rolls out facial recognition system DigiYatra at Delhi, Bengaluru and Varanasi airports"
     excerpt: "To use this facility, one-time registration on the DigiYatra app is required using Aadhar-based validation and a self-image capture."
     publishedDateTime: 2022-12-01T12:51:00Z

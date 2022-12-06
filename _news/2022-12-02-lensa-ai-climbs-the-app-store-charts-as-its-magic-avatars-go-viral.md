@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/12/01/lensa-ai-climbs-the-app-store-char
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/01/lensa-ai-climbs-the-app-store-charts-as-its-magic-avatars-go-viral/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/d4c593c52fe4edc756a285ff4858755bc5910a13/2022/12/05/a7196214-ebef-46e5-82f6-d694eb7b9f53/2022-2.png?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Lensa AI, the viral app making ‘magic avatars,’ raises red flags for artists"
+    excerpt: "Photo editing app Lensa AI went viral this week for making AI-generated stylized avatars. Its popularity raises alarm with artists."
+    publishedDateTime: 2022-12-06T00:14:00Z
+    webUrl: "https://techcrunch.com/2022/12/05/lensa-ai-app-store-magic-avatars-artists/"
+    ampWebUrl: "https://techcrunch.com/2022/12/05/lensa-ai-app-store-magic-avatars-artists/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/05/lensa-ai-app-store-magic-avatars-artists/amp/"
+    type: article
+    provider:
+      name: YAHOO!Finance
+      domain: techcrunch.com
+    quality: 84
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/12/digital-art-ipad.jpg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "iu00Sucv0Btias2VqO8zJOuys1uJxXuvk42tHkF9eSb2PTCwc9azk8MG8eSkbXd12/FUChIylVselWDhlmlJSFZa30PIzyVw8+xdbkSmXPfp30uawTmbKMazQ4mG0dlOcz/9paH3X+GelXxqnd8ihyeKiw82A+tCeNPX7L7pu315kadXStJoqHDaeAERbxOrWrNk/hKKPeygg52Bwvu6NMiUgrP8lZ+htSqUnmVvgzHdUYFF3fLNpPQuQ651orzBuxEYES9tfPUJd1iSoBd86wQHEHx+lU2r+5d88vSh052SP095EIDK0xDBw0suF1+H0iJ8xpxToDabnWqRJW0toydYcFMNeW6XtMl0qImNWDERzB/aqMQqZsjsIJ2KoXHBrChfcAIljqQd6zKO2LLiV+BOYB3ZACr1LaA9jpg5ukvAhlWtahzLtv+YXypn/S2u1FKXzodHT0SlNlpm5rs3dpqwZAV4ZiEvypIqQWOR1LM/W9pNrXC6JrhcD+PULgC/ZVHkHjCBIvmpkFUnO237dQ==;6WD0VhOq6GMOqPpsxmnjrg=="

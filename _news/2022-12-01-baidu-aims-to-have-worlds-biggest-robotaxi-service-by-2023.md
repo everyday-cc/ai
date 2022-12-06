@@ -24,17 +24,6 @@ images:
     height: 1163
     isCached: true
 
-related:
-  - title: "Robotaxi startup Pony.ai gains taxi licence in Guangzhou"
-    excerpt: "SELF-DRIVING tech company Pony.ai, backed by Toyota Motor Corp, said on Sunday (Apr 24) it has obtained a taxi licence in China, which will allow some of its driverless vehicles to start charging fares."
-    publishedDateTime: 2022-12-01T08:41:00Z
-    webUrl: "https://www.businesstimes.com.sg/companies-markets/transport-logistics/robotaxi-startup-ponyai-gains-taxi-licence-guangzhou"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 17
-
 secured: "fhP/pcFnv4k+nvRAsmmnxbjV0AZq/IoBWr9BqOJReZ5TDRwFSh2RdnliU92SUi+WtYGZmKIOj9jxNib0wxxEMG4BAItEquCp/6p76+4jO26V0SAwavVKqrmMR3ioJILVC12zn50PK72EVc+byjRob7m/UU3d7bLhpEM085he/lScYjKi3NiGghGXKUwCKEozttCenWIwYj7Nv5APCBEdiqFMPlTaOqu/N0CXK7WkHFVZkwrCwHPsjb+c/9BoO1UdfmksiznoVvPa016+iQxHM8JVCNYjBkTvEN7Kk6A++4/KfqIk2bi0LdjPVGlN5wr33iMTeUvMLjinly7H6o0vamPQ/v1OGHHVkJmkFP8NlEXkRQogOcuf4kpA1dY8xS8qvMEeVMjmcrzTct2s9SwbrcYjT0IkGC33YIhO6JxyWOh+su2BaZ1hOprVnCvVPAinqGH24I9V+jguFcd9VYfl/cohJZAwQYOG2bpYRheih+EHOKs8G2n3jd44Wnsxji/opbUXEL37ytVvfX4L6KUNDA==;QNvkKcfkXhaZ5nZcJgKKTw=="
 ---
 

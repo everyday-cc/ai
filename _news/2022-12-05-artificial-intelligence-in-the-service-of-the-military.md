@@ -90,31 +90,6 @@ related:
         width: 1200
         height: 902
         isCached: true
-  - title: "Building transparent ethics into artificial intelligence"
-    excerpt: "AI models can be complex and have thousands of variables − each of which may introduce bias in imperceptible ways − so checks and balances are vital."
-    publishedDateTime: 2022-12-01T07:22:00Z
-    webUrl: "https://www.itweb.co.za/content/KA3WwMdzy83vrydZ"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/KA3WwMdzy83vrydZ"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KA3WwMdzy83vrydZ"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 76
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2022/12/Tian-Horn-IIN-2022-NEW-LATEST.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Rethinking the ethics of AI - and ours"
-    excerpt: "Answers to “machine ethics” questions will have great impact on our society going forward - and huge implications for all, from businesses that face new AI risks, to politicians and citizens who may see democracies at risk due to, well, algorithms."
-    publishedDateTime: 2022-12-01T08:03:00Z
-    webUrl: "https://www.businesstimes.com.sg/opinion-features/columns/rethinking-ethics-ai-and-ours"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 34
 
 secured: "ZhZIEHu8Bj4R/lp6JdyurjDIvsxZlnKUB/meMKbAZkKAMhW2hF7JGCX8GgPVwHpCthX97V+zO+2oA1ZkJqYvWThcH5UF7UJuSTa/c34W0myHccXE5v5DSRT2sXeopjB6Mjx/XPSAPqRoSX7oD4TEEd4uCRwXrXvNBLmPc2gYRpXbAizueLXVv/NSYfHun+seECy9DvlC/RmGQA9m5p9C56qFX1VV4aL7YLGnEkVEytdae2RtAmhET7vWcFaxjnypcXfLrFwNoQBR7uFq2Ic+N+RJuSKLLmhGuhmI8uo00LNz49onaCsBacdBnFpSAdhQH4w+q41dPNOxvJc5rJ0G15+KyP4dqqnfYUWfTq4ZzHvDaAVau1DkTdlkYQhow0VIru+RKwNGlgl2jpuCxYtodM+oxuqOSLGHw9xjp9V6G8rLMFgOfzTE7XmB8ZBNVEl2bZ3QjJogs5MWtWAZXvghkOfnyDGLmq+QzBaP1lnGPqy9+h72wHk3rHdjbasaYbobpiLYEw1c/2byO+396rxuYQ==;gbwoHcU+d1zx6TYEONRoYQ=="
 ---

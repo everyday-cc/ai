@@ -20,6 +20,20 @@ topics:
   - AI in Security
 
 related:
+  - title: "Here Are 16 Airports That Might Scan Your Face This Holiday Season"
+    excerpt: "A record number of travelers will have the option to skip security lines using the Transportation Security Administration's controversial biometric tech."
+    publishedDateTime: 2022-12-05T23:05:00Z
+    webUrl: "https://gizmodo.com/airports-holiday-travel-tsa-facial-recognition-1849855925"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 69
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/50d8c0eca2ec6a1dd5c1f0db32c65a3e.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "TSA now wants to scan your face at security. Here are your rights."
     excerpt: "Some 16 major domestic airports are testing facial recognition tech to verify IDs - and it could go nationwide in 2023."
     publishedDateTime: 2022-12-02T18:59:00Z

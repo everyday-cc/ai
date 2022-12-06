@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 730
         isCached: true
+  - title: "Lensa AI, the viral app making ‘magic avatars,’ raises red flags for artists"
+    excerpt: "Photo editing app Lensa AI went viral this week for making AI-generated stylized avatars. Its popularity raises alarm with artists."
+    publishedDateTime: 2022-12-06T00:14:00Z
+    webUrl: "https://techcrunch.com/2022/12/05/lensa-ai-app-store-magic-avatars-artists/"
+    ampWebUrl: "https://techcrunch.com/2022/12/05/lensa-ai-app-store-magic-avatars-artists/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/05/lensa-ai-app-store-magic-avatars-artists/amp/"
+    type: article
+    provider:
+      name: YAHOO!Finance
+      domain: techcrunch.com
+    quality: 84
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/12/digital-art-ipad.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "fpI4lmdR5nDaFIJcLOp56yO15xmkdQss/XS/2BsbV7iqqiA+vRstPscHC0FAC4EagytqJkDQbrQbTeIIT1mh3I/cHgyPpzb8af/0HmhuaeKUCNTk+QMkKkKGoYuzwcqGg/t0TzclcEYC3synQe+BwsZS54Ud+Fy2hutrE/vLIw8fupD+jkAgdpPQx/qfQYije+vbjkOvYTOZEk7zyT82oxkpWpFmjVez9afI8ZIu8tOX6OzD2QyNP1YzC77m7+KUWmwlV0EGmzPrBNyDgSIE9auTFhBkpjwOm8kbc9mL0jJVRYFl39TgW+MEyh7GM39KG7IQftz4Q9XG+SxInwW7dBeIvWxna9G0RO5+/rr3ALQ=;iDgtuBrB6XUsF86KZnkYHw=="
 ---

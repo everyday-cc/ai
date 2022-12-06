@@ -80,22 +80,6 @@ related:
         width: 1200
         height: 629
         isCached: true
-  - title: "Building transparent ethics into artificial intelligence"
-    excerpt: "AI models can be complex and have thousands of variables − each of which may introduce bias in imperceptible ways − so checks and balances are vital."
-    publishedDateTime: 2022-12-01T07:22:00Z
-    webUrl: "https://www.itweb.co.za/content/KA3WwMdzy83vrydZ"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/KA3WwMdzy83vrydZ"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KA3WwMdzy83vrydZ"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 76
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2022/12/Tian-Horn-IIN-2022-NEW-LATEST.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Artificial intelligence in the service of the military"
     excerpt: "We are all familiar with the defense and security tasks of IDF camps and infrastructures performed by combat soldiers and military combat supporters. These missions are intended to enable the proper and safe existence of infrastructures,"
     publishedDateTime: 2022-12-04T22:51:00Z
@@ -112,15 +96,6 @@ related:
         width: 640
         height: 428
         isCached: true
-  - title: "Rethinking the ethics of AI - and ours"
-    excerpt: "Answers to “machine ethics” questions will have great impact on our society going forward - and huge implications for all, from businesses that face new AI risks, to politicians and citizens who may see democracies at risk due to, well, algorithms."
-    publishedDateTime: 2022-12-01T08:03:00Z
-    webUrl: "https://www.businesstimes.com.sg/opinion-features/columns/rethinking-ethics-ai-and-ours"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 34
 
 secured: "+Y6Eyu9K4IH6IjtNuQHraeOyF3dzfLFLGLQBYal1guzF5F6qEvSRLilLi5lbQ6iplVNgC+vV3K/ncldc7pi3oR+QVIokI+EAWJwhWZcInXhoBBn0QMDW1L7MDEF2bqXsg2FW88HcWEkr42QYRuFnTVXEkAk3CHw/+YRWNSX79AupyX4lY5ZVfwTU+8yjnQ0YsovLeOskReJ1r2dN7j12UmNQ97qjIQBrYXN8i8MS1hy3cN//1kD73ERmZA8RkcLnYVbuEg+oT6cKCUBrmlbdRnibzCik5mBunPrgHcAsKOF7Opqr7b8h4Hu0riG0w424fFbNIDLxY5uM8wk6b3RVb+jkm6TzVIi0HdQSfkkwACBK8S6MN7ddlhJNuU3CAUlJ+W+iLjREOemwl8jR0f71M0y0ZRy76tz53ibRhgn0BnQNzq3XZpFivGNIQWryqOB/oLlPw1906WSZ7fGnkKeJrHTeh05UzgWLPa1OUQLxigTePFJ8ZY6XI2mJKK6FY1713cox/1Vf0Ys53OCUuVGRCA==;owilv1lzLsBpt77JRB/Pvg=="
 ---
