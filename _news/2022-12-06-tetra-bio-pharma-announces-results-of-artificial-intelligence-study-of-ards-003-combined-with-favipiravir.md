@@ -2,13 +2,10 @@
 category: news
 title: "Tetra Bio-Pharma Announces Results of Artificial Intelligence Study of ARDS-003 Combined with Favipiravir"
 excerpt: "The combination of ARDS-003 and Favipiravir presents viable treatments against viral infections. Results from the PIONEER clinical trial shows Favipiravir may improve severe COVID-19 recovery and ventilator-free survival in younger patients."
-publishedDateTime: 2022-12-06T12:15:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/12/06/9724752.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/12/06/9724752.htm"
+publishedDateTime: 2022-12-06T13:25:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-tetra-bio-pharma-announces-results-artificial-intelligence-study-/2022/12/06/9724752.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-tetra-bio-pharma-announces-results-artificial-intelligence-study-/2022/12/06/9724752.htm"
 type: article
-quality: 22
-heat: 22
-published: false
 
 provider:
   name: TMCnet
@@ -18,12 +15,6 @@ topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1962031/Tetra_Bio_Pharma_Inc__Tetra_Bio_Pharma_Announces_Results_of_Arti.jpg"
-    width: 400
-    height: 225
-    isCached: true
-
-secured: "/yrOKUswhEwYueRH1g8sw/j1dHVpyZhBw3GjhaSO/XuEtOaUdKljq+z1jR/oouPdj1dX2Pik24MWnAnSLshYN3upFO+gd+2buOWQQyu5T8tCVYuJB8FcD2XA82mSZYhbfNqEHepI32uEDcBr0XesqtaFlhipsnJNHzocC6pO3bqidHJF0FMne8WrvDKxusXwqqIVpBUsWqbcahOJjlbmMmLnjMN0XzUjT3QvFnTUyq2bL7jw7XsbkFrHOR9xkP3NejekUsqhlVkwWNtds5W+ScG/aH1nCvOyUFpH1VIEmitqFqSRjWSg2qF+3miCLw80caax8GsyIWfs6H+5OoUgmcIKwE9z/xsvYkMp6teqr+k=;chcHyL5uLNKuzDVimTtwpA=="
+secured: "jzCHxTAHANPkIFKrbxPwl8b0VlU5L64cvYsHJmPlszunmj6ICcZzs+BwXqtV3haREc/sdVLZHo6xo8zjJCx204MQ4bwbCetv6jWrR7mz/Lr1xSLGV1KSIXSAA7UDEdUHU+YOj0qY95ag+jj+yciL1B7cNHy6iexKDkFeltjsg3HIGWEMRdSOH//G60xd1euTk6zE/zHhLYBsXqo9nek213onSZl4Tblku9qhIMFprGk52+0af6FN+/A3A1SW1BO5SOwSt+04ICqxc+HDtthVoIFSi58jvecF00P0FB4QW4DsgTRmKu+02RQG3c5uJK0Wnsr8hIFu0cJdp7dtdt7JmgKLy/x0UKy4ulVd5QMlrNQq/1SAEiAWYddaS+xuxhLZqChD43a+Hbxg36eyCAAYGu8tggjuXkTU0IZmIbZ38FngICKpvmhwkMLDOic7aj/c+/CveQWPW81bI2Yi36zotP1hKstzOqEkvkd/1XtS6aKrs0qrMXYECh3OSHEMID37tdy2VwFbYCqrP3Nhp1sqpA==;0C+PzfPPvRu+k3dKwdWQxw=="
 ---
 
