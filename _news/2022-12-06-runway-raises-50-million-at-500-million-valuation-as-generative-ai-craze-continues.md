@@ -68,20 +68,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Stability AI Selects AWS as Its Preferred Cloud Provider"
-    excerpt: "AWS has announced that Stability AI, a community-driven, open-source artificial intelligence (AI) company, has selected AWS as"
-    publishedDateTime: 2022-12-01T16:28:00Z
-    webUrl: "https://www.datanami.com/this-just-in/stability-ai-selects-aws-as-its-preferred-cloud-provider/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2022/10/stability-ai-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "The Curious Case of Generative AI"
     excerpt: "FastSaaS is a growing trend, with companies leveraging AI-generative and no-code capabilities to create their product."
     publishedDateTime: 2022-12-05T04:52:00Z

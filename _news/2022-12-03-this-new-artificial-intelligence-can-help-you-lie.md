@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Disney built an AI that can easily make actors look younger or older"
-    excerpt: "Disney researchers have developed an artificial intelligence system that seemingly makes it far easier to make an actor appear younger or older in a scene. While artists will still be able to make manual adjustments to make sure the effect looks as realistic as possible,"
-    publishedDateTime: 2022-12-01T16:28:00Z
-    webUrl: "https://www.engadget.com/disney-ai-actor-younger-older-reaging-154509639.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-12/bee96e50-718d-11ed-bfdf-91b25b44c520"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Disney's innovative AI can quickly make actors appear younger or older"
     excerpt: "Researchers at Disney have built an artificial intelligence tool that can make it easier for an actor to appear a different age on screen. Although digital artists can still make necessary modifications to make the effects in a scene look as realistic as possible,"
     publishedDateTime: 2022-12-05T15:52:00Z
@@ -80,6 +66,6 @@ related:
       domain: popsci.com
     quality: 19
 
-secured: "7BRkTiHJ6JvE0piEvxJ0Cy7qVQ5zSwcdOKvvcAf9BtdKFdD27uUgWOsp6uzIHUPB1txvFGSINF607iKlu/ohSMLEXICKEf/hJpWPhSBCcu7zZZldbZJrPYx3xXvN/E3ObNhx48wusXRsmi7HCh9ftZoBM7OhSSDsyKep0gGPe5k6O7GPAISP/xxiRIhxXfsmzCTObZ/Aloz0s7PNcrSIt7othWP2lWFpO7MArHGlypnlQWyv+u3I5/wZFn1kquUHZ1mRUvRKso9fjW8MGn06YyIy3fnlsybEJZxJblyL8/WtaDhOhsBUH917Mg+oXnpD97BgGqvyPK/5nX8Y6tj6YOsqUJ2CW5SuJw1pP6DJTHI=;In5L1PEJKLlSRjCe71VoFg=="
+secured: "rJMaBhokI7tVgphozBNVj4NLFsnmxhEZVnJ03GVrZMA2ZdrKBRGUc6V9xv5GZMeVhUXyXF4IjVLa3WvvA6COM5EJ1B706vSdvFnbupmpNOslU0HOJf7VggSOEoc+tW0rwV3TOT+CYLgi+A3OVU+NDuwclzQGdeCCJ1ukdzr1kVFTZQ7e1Fb8o8corFe3Zvrw9LL0HGiy0NLF+USy7SytF/jNyZM47Cc/9mH+R8Dq+USOA28VcFbDqaTSi3L5lyVrh2oE+WUIxskMVvZYqZm2xoAxStKISdluHRE2YbYg3LjR+TRcsj9Nkjz2F4OqzjkzmDZ6/qi7wW53MrzwilTlSSl7RGDZabSRrhRNVb1faEwPh2hgIy0aJW0smYxq0HxjUiIxc1rmHSzAAJr7pGfSbD0UXFbeIYGrnTNWCpytZy4t0UyYWtO+McgDwPbyRAwpvXlFrTnYCYwaqiqxOzVJydHf59ukbGL0gcgjKgRfxG5OVgC3d0prRvP5yXdWpVoBoZgkqczOvRaXWuwBNLHBww==;BAXhz3iQcW853HPzF6knwg=="
 ---
 

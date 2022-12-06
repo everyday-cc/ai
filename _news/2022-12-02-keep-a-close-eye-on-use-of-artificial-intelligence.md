@@ -24,19 +24,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "The Impact of AI on Drug Discovery"
-    excerpt: "Artificial Intelligence, also known as “AI”, has been the talk of the past year. AI performs and responds to complex tasks, as it is built to m | Drug Discovery And Development"
-    publishedDateTime: 2022-12-01T16:05:00Z
-    webUrl: "https://www.labroots.com/trending/drug-discovery-and-development/24130/impact-ai-drug-discovery"
-    ampWebUrl: "https://www.labroots.com/trending/drug-discovery-and-development/24130/impact-ai-drug-discovery/amp"
-    cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/drug-discovery-and-development/24130/impact-ai-drug-discovery/amp"
-    type: article
-    provider:
-      name: Labroots
-      domain: labroots.com
-    quality: 39
-
 secured: "Sit25MltJIDstQO8143GMquTsQUCS94s1sweLQTct4FfOTa+I8dncN1J2kNHn6U4efoTQctkNdgMSj1lYUFyTRBzvEDiB9gZgNerOawBnUd7iTD4LmCFl6Vi+97ZBEPbYws+CJV5jo43MSWcCFloaGYiE3sDkk9HZmYL3+I10nLTQ0XaIXy8IMK2Xp3owOe+ZR57vi21Nzq250+p6bGjwz7H8KqAq3/7hxYKKO479RlKhHBrYv1May9M3562Hc67CgXw6BNAiwAagUXM5nyk3hD2VflkTpGgK7fgrWmHtIUVSvQUZUg8bzh6JSkcdp5qQ8KEJKvCBxbVLLr3NUSlP0I9gQJ+ZPv7HpcZJbi55l0=;M1DzPBxnkSpXxu1ubv9Sdg=="
 ---
 

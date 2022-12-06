@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/42929/government-introduces-digiyatra-f
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/42929/government-introduces-digiyatra-facial-recognition-for-entry-into-airports-netizens-call-it-scary-an?amp=1"
 type: article
 quality: 82
-heat: 162
+heat: 152
 published: true
 
 provider:
@@ -74,22 +74,6 @@ related:
       - url: "https://beebom.com/wp-content/uploads/2022/12/digiyatra-introduced.jpg"
         width: 750
         height: 500
-        isCached: true
-  - title: "India launches facial recognition-based entry at airports: All you need to know"
-    excerpt: "To use this facial recognition facility at the airports, passengers would have to register at the Digi Yatra app. The registration would include Aadhaar-based validation and a self-image capture"
-    publishedDateTime: 2022-12-01T15:44:00Z
-    webUrl: "https://www.livemint.com/news/india/india-launches-facial-recognition-based-entry-at-airports-all-you-need-to-know-11669909190499.html"
-    ampWebUrl: "https://www.livemint.com/news/india/india-launches-facial-recognition-based-entry-at-airports-all-you-need-to-know/amp-11669909190499.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/india-launches-facial-recognition-based-entry-at-airports-all-you-need-to-know/amp-11669909190499.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 70
-    images:
-      - url: "https://images.livemint.com/img/2022/12/01/600x338/CHINA-RUILI-COVID-3_1669909306245_1669909306245_1669909318210_1669909318210.jpg"
-        width: 600
-        height: 338
         isCached: true
   - title: "DigiYatra: Facial recognition technology is now available at these Indian airports"
     excerpt: "With the assistance of a facial recognition software known as \"DigiYatra,\" you will be able to sail through the process of flying, which will now be paperless and contactless."

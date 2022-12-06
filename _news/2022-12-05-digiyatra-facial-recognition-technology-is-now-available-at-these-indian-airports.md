@@ -91,22 +91,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "India launches facial recognition-based entry at airports: All you need to know"
-    excerpt: "To use this facial recognition facility at the airports, passengers would have to register at the Digi Yatra app. The registration would include Aadhaar-based validation and a self-image capture"
-    publishedDateTime: 2022-12-01T15:44:00Z
-    webUrl: "https://www.livemint.com/news/india/india-launches-facial-recognition-based-entry-at-airports-all-you-need-to-know-11669909190499.html"
-    ampWebUrl: "https://www.livemint.com/news/india/india-launches-facial-recognition-based-entry-at-airports-all-you-need-to-know/amp-11669909190499.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/india-launches-facial-recognition-based-entry-at-airports-all-you-need-to-know/amp-11669909190499.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 70
-    images:
-      - url: "https://images.livemint.com/img/2022/12/01/600x338/CHINA-RUILI-COVID-3_1669909306245_1669909306245_1669909318210_1669909318210.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Govt Launches Facial Recognition-based Entry At 3 Indian Airports; Know How It Works"
     excerpt: "The government on Thursday launched a facial recognition system known as DigiYatra at three airports namely Delhi, Bangalore, and Varanasi for seamless travel."
     publishedDateTime: 2022-12-02T05:13:00Z

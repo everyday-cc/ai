@@ -25,29 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "N-iX obtains the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "N-iX, a leading European software development company, has earned the Modernization of Web Applications to Microsoft Azure advanced specialization. It is a validation of the company's deep knowledge and extensive experience in migrating and modernizing production web application workloads and managing app services in Azure."
-    publishedDateTime: 2022-12-01T15:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/n-ix-obtains-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1031948094"
+  - title: "Nexus FrontierTech launches first-of-its-kind plug-and-play AI modules on Microsoft Azure"
+    excerpt: "Artificial Intelligence (AI) solution provider Nexus FrontierTech has announced its partnership with Microsoft Azure, allowing clients to utilise the Azure marketplace for quick deployment of AI solutions within their organisations."
+    publishedDateTime: 2022-12-05T12:54:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/12/05/9724024.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
-  - title: "NOAA, Microsoft Will Advance National Climate Efforts Through Advanced Tech Partnership"
-    excerpt: "Microsoft’s cloud computing and artificial intelligence tools will help NOAA further its climate and weather predictions and forecast modeling through research and development efforts."
-    publishedDateTime: 2022-12-02T16:17:00Z
-    webUrl: "https://washingtontechnology.com/contracts/2022/12/noaa-microsoft-will-advance-national-climate-efforts-through-advanced-tech-partnership/380413/?oref=wt-skybox-lander"
-    type: article
-    provider:
-      name: Washington Technology
-      domain: washingtontechnology.com
-    quality: 31
-    images:
-      - url: "https://cdn.washingtontechnology.com/media/img/cd/2022/12/02/GettyImages_988302516/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 40
 
 secured: "FN8uFYx5JAVgW0d63Rblxt6YiySmi3dWAreM4TCYhwFhUzynHiHKjskHCIoZHbyKj4ZURMqgJCXAmBzoTz8Mcxx5AlHzWNm/AOzT8pDzRqrIrNDPfx2XhhP10QCPwXAd6cydmIuw9OqDI/zjz/q/gC/3BBE3rTSiwUVijvKzxzugJ89rQk/ivJkpIl+jKvZzXVK9thJDY8CKmwlU1RutfYavGyJQZy5lNTnkrKvOAasp5QhCTB85WBHjteBWVhhZQ7VzChdzDfibyIuivVCWqFa3PLq8tCBVYHMLu6k4GYv8BRENAxEUst6ZG53sg0jOmyno+9iIEQd6rXrgkTfHEm9Eb+qRxwiKgrAGxox0D5A=;6s0srpODqmPnUTE8mi569g=="
 ---

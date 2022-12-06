@@ -66,20 +66,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Stability AI Selects AWS as Its Preferred Cloud Provider"
-    excerpt: "AWS has announced that Stability AI, a community-driven, open-source artificial intelligence (AI) company, has selected AWS as"
-    publishedDateTime: 2022-12-01T16:28:00Z
-    webUrl: "https://www.datanami.com/this-just-in/stability-ai-selects-aws-as-its-preferred-cloud-provider/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2022/10/stability-ai-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Runway Raises $50 Million At $500 Million Valuation As Generative AI Craze Continues"
     excerpt: "Runway ML, one of the two startups behind the popular AI text-to-image model Stable Diffusion, has raised new funding at a $500 million valuation, Forbes has learned."
     publishedDateTime: 2022-12-05T20:19:00Z

@@ -18,6 +18,22 @@ topics:
   - Microsoft AI
   - AI
 
+related:
+  - title: "Microsoft, Defense Firms Partnering on Modeling and Simulation Capabilities"
+    excerpt: "Microsoft is collaborating with defense sector companies as DOD seeks to increase its gaming, exercising, modeling and simulation capabilities."
+    publishedDateTime: 2022-12-02T00:46:00Z
+    webUrl: "https://fcw.com/defense/2022/12/microsoft-defense-firms-partnering-modeling-and-simulation-capabilities/380388/"
+    type: article
+    provider:
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 37
+    images:
+      - url: "https://cdn.fcw.com/media/img/cd/2022/12/01/vrmilGettyImages_1226582027/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+
 secured: "mx6Ml9wgVZSA/9xeXfvCjqR2dgh6OVYJTO9npzYu1u7VBeqzt/48LCagrJ1ePF79+/+GCutleYoNfHA5+SE7s3kmlKda6U7nnY5scHNlaA7jxrHLSnSSwVNNynL33AWTWSN6Lbxh56e/PnOU++mlDFiyh7f+uD51RHZIeu/sDQpU/sVH65gHnB7GMe1Fv/pXut5PO8ufWtZT0iWgMSylLP62bRgKz10kWQHTGoA5SeUvjEaifMgPgODKlFrPVtnfznH2VJcnMshThdqRPbgucmYQn6p6j5cmMUnnEXtHefGCJ1tGRgodQfhfTUGNmmF3VTNNyFKnhoyDu+eBnkm65TgQdXenrz3yLFHunFGX0EA=;7qBQtRgYAJyNB070incn7g=="
 ---
 

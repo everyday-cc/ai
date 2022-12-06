@@ -2,6 +2,40 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-11-27-facial-recognition-can-help-conserve-seals-scientists-say.md",
+      "title": "Facial recognition can help conserve seals, scientists say",
+      "excerpt": "FREEPORT, Maine (AP) — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for ...",
+      "sourceUrl": null,
+      "webUrl": "https://buffalonews.com/news/science/facial-recognition-can-help-conserve-seals-scientists-say/article_a322b893-3a01-5a0e-8412-78110503a218.html",
+      "originalUrl": "https://buffalonews.com/news/science/facial-recognition-can-help-conserve-seals-scientists-say/article_a322b893-3a01-5a0e-8412-78110503a218.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-27T06:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Buffalo News",
+        "domain": "buffalonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-27-alphabets-deepmind-has-put-a-hiring-freeze-on-new-interns-canceling-one-applicants-interview-with-just-an-hours-notice.md",
       "title": "Alphabet's DeepMind has put a hiring freeze on new interns, canceling one applicant's interview with just an hour's notice",
       "excerpt": "An envelope. It indicates the ability to send an email. An curved arrow pointing right. DeepMind has imposed a freeze on hiring for new interns at the Alphabet-owned company. The AI firm told ...",
@@ -1077,49 +1111,6 @@
       "provider": {
         "name": "createdigital",
         "domain": "createdigital.org.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-25-san-francisco-police-proposal-could-allow-cops-to-kill-suspects-with-robots.md",
-      "title": "San Francisco police proposal could allow cops to kill suspects with robots",
-      "excerpt": "A San Francisco police proposal could give cops in the city the ability to kill suspects using remote-controlled robots. A draft policy that details the controversial proposal states lethal force ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2022/11/24/san-francisco-police-proposal-could-allow-cops-to-kill-suspects-with-robots/",
-      "originalUrl": "https://nypost.com/2022/11/24/san-francisco-police-proposal-could-allow-cops-to-kill-suspects-with-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/11/sf-police-robots-index.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2022/11/24/san-francisco-police-proposal-could-allow-cops-to-kill-suspects-with-robots/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/11/24/san-francisco-police-proposal-could-allow-cops-to-kill-suspects-with-robots/amp/",
-      "publishedDateTime": "2022-11-24T18:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
         "images": null,
         "publishers": null,
         "authors": null

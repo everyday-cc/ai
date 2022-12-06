@@ -62,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/ai/aws-names-6-key-trends-driving-machine-learning-innovation-and-adoption/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -220,7 +220,7 @@
       "originalUrl": "https://venturebeat.com/ai/stability-ai-looks-to-aws-cloud-to-power-the-next-generation-of-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 173,
+      "heat": 163,
       "tags": null,
       "images": [
         {
@@ -574,33 +574,24 @@
     {
       "path": "_news/2022-12-01-stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the-future.md",
       "title": "Stability AI Selects AWS as Its Preferred Cloud Provider to Build Artificial Intelligence for the Future",
-      "excerpt": "Leading open-source artificial intelligence startup trains foundational models 58% faster and more cost efficiently using Amazon SageMaker on AWS At AWS re:Invent, Amazon Web Services, Inc. (AWS ...",
+      "excerpt": "Get 7 Days Free Sign In Sign In Topics",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/11/b29913648/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/b29913648/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the-",
+      "webUrl": "https://www.morningstar.com/news/business-wire/20221130006008/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the-future",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20221130006008/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the-future",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
-          "width": 800,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29913648",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29913648",
-      "publishedDateTime": "2022-11-30T13:39:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T13:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -751,6 +742,49 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-amazon-to-warn-customers-on-limitations-of-its-ai.md",
+      "title": "Amazon To Warn Customers On Limitations Of Its AI",
+      "excerpt": "Akin to lengthy nutrition labels, Amazon's so-called AI Service Cards will be public so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription. The goal would be to prevent mistaken use of its technology, explain how its systems work and manage privacy, Amazon said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985",
+      "originalUrl": "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.ibtimes.com/en/full/4389003/amazon-logo-company-logistics-center-lauwin-planque.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1",
+      "publishedDateTime": "2022-11-30T08:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1384,60 +1418,6 @@
         "AI",
         "AI in Healthcare",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-24-ai-computer-vision-market-size-recent-trends-demand-and-share-estimation-by-2028-with-fastest-growing-countries-data-107-report-pages.md",
-      "title": "AI Computer Vision Market Size, Recent Trends, Demand and Share Estimation By 2028 with Fastest Growing Countries Data | 107 Report Pages",
-      "excerpt": "According to this latest study, the 2021 growth of AI Computer Vision will have significant change from previous year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-computer-vision-market-size-recent-trends-demand-and-share-estimation-by-2028-with-fastest-growing-countries-data-107-report-pages-2022-11-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-computer-vision-market-size-recent-trends-demand-and-share-estimation-by-2028-with-fastest-growing-countries-data-107-report-pages-2022-11-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-23T18:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
       ]
     }
   ],

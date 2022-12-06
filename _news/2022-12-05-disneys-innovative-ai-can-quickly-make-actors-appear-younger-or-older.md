@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Disney built an AI that can easily make actors look younger or older"
-    excerpt: "Disney researchers have developed an artificial intelligence system that seemingly makes it far easier to make an actor appear younger or older in a scene. While artists will still be able to make manual adjustments to make sure the effect looks as realistic as possible,"
-    publishedDateTime: 2022-12-01T16:28:00Z
-    webUrl: "https://www.engadget.com/disney-ai-actor-younger-older-reaging-154509639.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-12/bee96e50-718d-11ed-bfdf-91b25b44c520"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "This New Artificial Intelligence Can Help You Lie"
     excerpt: "OpenAI was formed in 2015 with the mission of developing a friendly artificial intelligence that will dramatically benefit humanity while also helping humanity avoid the existenti"
     publishedDateTime: 2022-12-02T20:48:00Z
