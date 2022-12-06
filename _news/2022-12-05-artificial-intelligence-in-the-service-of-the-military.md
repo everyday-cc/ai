@@ -74,22 +74,6 @@ related:
         width: 1200
         height: 629
         isCached: true
-  - title: "The Pros And Cons Of Artificial Intelligence"
-    excerpt: "Artificial intelligence, or AI, is everywhere right now. In truth, the fundamentals of AI and machine learning have been around for a long time. The first primitive form of AI was an automated checkers bot which was created by Cristopher Strachey from the University of Manchester, England, back in 1951."
-    publishedDateTime: 2022-12-01T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/12/01/the-pros-and-cons-of-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63888b3455b4639a6a6703bb/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 902
-        isCached: true
 
 secured: "ZhZIEHu8Bj4R/lp6JdyurjDIvsxZlnKUB/meMKbAZkKAMhW2hF7JGCX8GgPVwHpCthX97V+zO+2oA1ZkJqYvWThcH5UF7UJuSTa/c34W0myHccXE5v5DSRT2sXeopjB6Mjx/XPSAPqRoSX7oD4TEEd4uCRwXrXvNBLmPc2gYRpXbAizueLXVv/NSYfHun+seECy9DvlC/RmGQA9m5p9C56qFX1VV4aL7YLGnEkVEytdae2RtAmhET7vWcFaxjnypcXfLrFwNoQBR7uFq2Ic+N+RJuSKLLmhGuhmI8uo00LNz49onaCsBacdBnFpSAdhQH4w+q41dPNOxvJc5rJ0G15+KyP4dqqnfYUWfTq4ZzHvDaAVau1DkTdlkYQhow0VIru+RKwNGlgl2jpuCxYtodM+oxuqOSLGHw9xjp9V6G8rLMFgOfzTE7XmB8ZBNVEl2bZ3QjJogs5MWtWAZXvghkOfnyDGLmq+QzBaP1lnGPqy9+h72wHk3rHdjbasaYbobpiLYEw1c/2byO+396rxuYQ==;gbwoHcU+d1zx6TYEONRoYQ=="
 ---

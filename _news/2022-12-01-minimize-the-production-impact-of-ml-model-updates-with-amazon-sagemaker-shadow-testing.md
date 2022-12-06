@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS updates its machine learning service SageMaker"
-    excerpt: "Invent 2022, the cloud services provider updated its managed machine learning service to include new notebook and governance features."
-    publishedDateTime: 2022-12-01T11:11:00Z
-    webUrl: "https://www.infoworld.com/article/3681891/aws-updates-its-machine-learning-service-sagemaker.html"
-    ampWebUrl: "https://www.infoworld.com/article/3681891/aws-updates-its-machine-learning-service-sagemaker.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3681891/aws-updates-its-machine-learning-service-sagemaker.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 121
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/10/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Improve governance of your machine learning models with Amazon SageMaker"
     excerpt: "As companies are increasingly adopting machine learning (ML) for their mainstream enterprise applications, more of their business decisions are influenced by ML models. As a result of this, having simplified access control and enhanced transparency across all your ML models makes it easier to validate"
     publishedDateTime: 2022-12-01T18:53:50Z
@@ -132,6 +116,20 @@ related:
         width: 1564
         height: 779
         isCached: true
+  - title: "Operationalize your Amazon SageMaker Studio notebooks as scheduled notebook jobs"
+    excerpt: "Amazon SageMaker Studio provides a fully managed solution for data scientists to interactively build, train, and deploy machine learning (ML) models. In addition to the interactive ML experience, data workers also seek solutions to run notebooks as ephemeral jobs without the need to refactor code as"
+    publishedDateTime: 2022-12-01T18:45:34Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/operationalize-your-amazon-sagemaker-studio-notebooks-as-scheduled-notebook-jobs/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/30/operationalize-your-sagemaker-notebooks.jpg"
+        width: 1562
+        height: 780
+        isCached: true
   - title: "Interactive data prep widget for notebooks powered by Amazon SageMaker Data Wrangler"
     excerpt: "According to a 2020 survey of data scientists conducted by Anaconda, data preparation is one of the critical steps in machine learning (ML) and data analytics workflows, and often very time consuming for data scientists. Data scientists spend about 66% of their time on data preparation and analysis tasks,"
     publishedDateTime: 2022-12-01T22:01:18Z
@@ -209,23 +207,19 @@ related:
         height: 444
         isCached: true
   - title: "Domo Joins the Amazon SageMaker Ready Program"
-    excerpt: "Domo (Nasdaq: DOMO) announced it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner software solutions that are validated by Amazon Web Services (AWS) Partner Solutions Architects to integrate with Amazon SageMaker."
-    publishedDateTime: 2022-12-01T14:28:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/12/01/9723034.htm"
+    excerpt: "Today Domo (Nasdaq: DOMO) announced it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner software solutions that are validated by Amazon Web Services ..."
+    publishedDateTime: 2022-12-01T14:06:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/domo-joins-the-amazon-sagemaker-ready-program/article_6242ae1d-7680-5d90-8e69-4e80187adef3.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 21
-  - title: "Weights and Biases Joins the Amazon SageMaker Ready Program"
-    excerpt: "Weights & Biases, the developer-first MLOps platform, announced today it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner"
-    publishedDateTime: 2022-12-01T13:01:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/12/n29923419/weights-and-biases-joins-the-amazon-sagemaker-ready-program"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 39
+    images:
+      - url: "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg"
+        width: 350
+        height: 455
+        isCached: true
   - title: "Domo Joins the Amazon SageMaker Ready Program"
     excerpt: "Domo today announced it has joined the Amazon SageMaker Ready Program. This designation helps customers discover"
     publishedDateTime: 2022-12-01T17:02:00Z

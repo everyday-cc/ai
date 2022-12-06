@@ -7,7 +7,7 @@ originalUrl: "https://global.chinadaily.com.cn/a/202212/02/WS63892d40a31057c47eb
 webUrl: "https://global.chinadaily.com.cn/a/202212/02/WS63892d40a31057c47eba233a.html"
 type: article
 quality: 54
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://i.insider.com/638d5f75e2929d0018151880?width=1200&format=jpeg"
         width: 1024
         height: 512
+        isCached: true
+  - title: "Tencent and Alibaba’s AI models understand Chinese better than humans, new rankings show"
+    excerpt: "Rivalling models from the two Chinese tech giants have achieved record-high scores on the Chinese Language Understanding Evaluation benchmark. While machines can do better than humans in some language tasks,"
+    publishedDateTime: 2022-12-05T04:26:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/12/05/tencent-and-alibabas-ai-models-understand-chinese-better-than-humans-new-rankings-show"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 30
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/12/05/1840937.jpg"
+        width: 1240
+        height: 697
         isCached: true
 
 secured: "H6O3SC1dvjgOdfw5Jw8oON4achRCitxNiyz9DbVH+ZT47Loc4BFbvif9y/pqZOpYjmHisg0e3ORC1b7x+wPwinFHjCUlipHJOuL+U2DCZ9T6569FRGDaJJ19bN+BaV0xi2kYw8m0L1am9Q2KyF5s5u0YKYxofxOveOz4B/EbAowzUQzKHFWoX+eSH5GIlxg4TNmQ7ZX724Ne3AQGwy3o7vp16mYS5cFazsv8ZeZJ8qCKaqOl82q3ATYl1/mAJMMrwzBaJ4bsfwQF5/riKLPht6NUJlaM/9DCSsaqSErOpqg3Of1WMnrOvrGJzC5QoeqtMLn5plFGN7EbexG+/59hNSX7BT4xkA+C3ud8w4za9i0=;TNAGXE3tJ0Ax2mXwSSFeeQ=="

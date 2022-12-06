@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-12-03-elon-musk-says-he-would-put-ai-brain-chip-inside-one-of-his-children-in-new-disturbing-comments.md",
+      "title": "Elon Musk says he would put AI brain chip inside one of his children in new disturbing comments",
+      "excerpt": "At the event, the CEO spoke about Neuralink's brain chips' benefits in helping people with disabilities ... To date, the Silicon Valley company has successfully implanted artificial intelligence (AI) microchips in the brains of a macaque and a pig.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesun.co.uk/tech/20635574/elon-musk-ai-brain-chip-children-neuralink/",
+      "originalUrl": "https://www.thesun.co.uk/tech/20635574/elon-musk-ai-brain-chip-children-neuralink/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/12/NINTCHDBPICT000771151312.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.co.uk/tech/20635574/elon-musk-ai-brain-chip-children-neuralink/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/20635574/elon-musk-ai-brain-chip-children-neuralink/amp/",
+      "publishedDateTime": "2022-12-02T15:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "thesun.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-03-apple-slices-its-ai-image-synthesis-times-in-half-with-new-stable-diffusion-fix.md",
       "title": "Apple slices its AI image synthesis times in half with new Stable Diffusion fix",
       "excerpt": "On Wednesday, Apple released optimizations that allow the Stable Diffusion AI image generator to run on Apple Silicon ... SD optimizations can generate a 512×512 50-step image on an M1 chip in 35 seconds. An M2 does the task in 23 seconds, and Apple's ...",
@@ -731,7 +774,7 @@
       "originalUrl": "https://www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-an-ai-about-the-ethics-of-aiand-it-lied-to-me/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -785,7 +828,7 @@
       "originalUrl": "https://global.chinadaily.com.cn/a/202212/02/WS63892d40a31057c47eba233a.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -828,7 +871,7 @@
       "originalUrl": "https://in.mashable.com/tech/42929/government-introduces-digiyatra-facial-recognition-for-entry-into-airports-netizens-call-it-scary-an",
       "featuredContent": null,
       "highlight": null,
-      "heat": 192,
+      "heat": 162,
       "tags": null,
       "images": [
         {
@@ -923,7 +966,7 @@
       "originalUrl": "https://www.timesnownews.com/videos/mirror-now/society/airports-go-high-tech-face-recognition-at-delhi-bengaluru-and-varanasi-airports-what-does-this-mean-video-95929109",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -1198,49 +1241,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-artificial-intelligence-can-help-therapists-ease-mental-healthcare.md",
-      "title": "Artificial Intelligence Can Help Therapists Ease Mental Healthcare",
-      "excerpt": "Here to help and not replace, AI in mental healthcare can assist therapists in providing an enhanced personalized session for their patients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/science/ai-can-help-therapists-ease-mental-healthcare",
-      "originalUrl": "https://www.bbntimes.com/science/ai-can-help-therapists-ease-mental-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/global-economy/AI_Can_Help_Therapists_Ease_Mental_Healthcare.png",
-          "width": 1530,
-          "height": 1018,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T15:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

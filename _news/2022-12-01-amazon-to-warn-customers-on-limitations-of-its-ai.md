@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Amazon to warn customers on limitations of its AI"
-excerpt: "The cards would address AI ethics concerns publicly at a time when tech regulation was on the horizon, said Kearns. \"The biggest thing about this launch is the commitment to do this on an ongoing ..."
-publishedDateTime: 2022-11-30T21:44:00Z
-originalUrl: "https://www.reuters.com/technology/amazon-warn-customers-limitations-its-ai-2022-11-30/"
-webUrl: "https://www.reuters.com/technology/amazon-warn-customers-limitations-its-ai-2022-11-30/"
+title: "Amazon To Warn Customers On Limitations Of Its AI"
+excerpt: "Akin to lengthy nutrition labels, Amazon's so-called AI Service Cards will be public so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription. The goal would be to prevent mistaken use of its technology, explain how its systems work and manage privacy, Amazon said."
+publishedDateTime: 2022-11-30T16:09:00Z
+originalUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985"
+webUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985"
+ampWebUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
-  - AI Ethics
+  - AWS AI
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/g4FkAeB1syg6dyJxBiAxlo2QyzQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SWHRVR65DJLWVK4B3D4PTWA5FY.jpg"
+  - url: "https://d.ibtimes.com/en/full/4389003/amazon-logo-company-logistics-center-lauwin-planque.jpg"
     width: 1200
-    height: 628
+    height: 800
     isCached: true
 
-secured: "MPE/DsZ3zkV7FZTwZWgZFdxWCaIajadhniZWmcX0K2UyPLe7YD/P7dyoDF/nN1dx2Ep5LN03aalaQ2tRBrd3UwKeNVQTiYvSlQSyKthMr+b3RVjCB0r2yK8bb9hhlaW6kMTbhfAe2D0nAzGJFKDcQSa/jDfp5YKNpgFXjjYeMtjQyruGZnHCGlXzlUc6ECBEr3RPmA5RfdEa9VIa8Qp9bcPk/lk/+HfHK6AmEkf8Vq2A3dFx5WKKYbKjE5hVHm/PPtM3bVKtNA05+o66q6El6DgNazpWRRMA69UDoPH3QD72AetnmEIvEtw3n4KrWs6jg383qI2yadNx939dYqQuXRKO0KMiLnwlQGAvJohZork=;AK+VMw6a8pt8I+UfzhoBiA=="
+secured: "BZAbI8/pGe8y6IIpSCcLKYVvvv32R+5u+fmZ7VdS/NX8mJO52LDRXcuaj5RKC9LeBiU2S66O36V0Ccqsz6gufK3IvQVaTcCyOM0tCnRHpkTdpGc9iVFbtQxx9VJ5vFzo3On3CyIwh+Lzar565ABJnscwahsBc/JTd2o+las2PORz8ex47kjOahsyr2yscDFuH0297nHu07Ll0rrsxK2Q7+wFehbehsCYyjGhVjJJjutMaUfZxuTLz/6ToQ7rXQodvjNkeVjiCbE2JndBnDQrXWv/CDqa1pJ9zcRs1iOCTve794G4hauxZzrZn6kSAlq8mRxfJdcrXKdL3Dwq56+nLU+gjtkcxrY9pjTWYeFZXNA=;GJ1WN0atBoUAYdvWA19spQ=="
 ---
 

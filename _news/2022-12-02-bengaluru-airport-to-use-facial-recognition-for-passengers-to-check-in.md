@@ -75,22 +75,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Scindia debuts DigiYatra: Facial recognition launched at three airports today"
-    excerpt: "A passenger must register their information on the DigiYatra app utilising Aadhaar-based validation and a self image capture in order to use the service. The boarding pass is then scanned, and the credentials are shared with the airport."
-    publishedDateTime: 2022-12-01T11:11:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/scindia-debuts-digiyatra-at-the-airport-in-delhi/articleshow/95906351.cms"
-    ampWebUrl: "https://m.economictimes.com/industry/transportation/airlines-/-aviation/scindia-debuts-digiyatra-at-the-airport-in-delhi/amp_articleshow/95906351.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/transportation/airlines-/-aviation/scindia-debuts-digiyatra-at-the-airport-in-delhi/amp_articleshow/95906351.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 71
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-12564,msid-95906354/indira-gandhi-international-airport-.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "India launches facial recognition-based entry at airports: All you need to know"
     excerpt: "To use this facial recognition facility at the airports, passengers would have to register at the Digi Yatra app. The registration would include Aadhaar-based validation and a self-image capture"
     publishedDateTime: 2022-12-01T15:44:00Z
@@ -170,31 +154,6 @@ related:
       - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1669960926.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "3 Indian airports to now have facial recognition-based entry: Check details"
-    excerpt: "The government on Thursday launched DigiYatra that allows entry of air passengers based on a facial recognition system at the airport in Delhi, Bangalore and Varanasi."
-    publishedDateTime: 2022-12-01T11:40:00Z
-    webUrl: "https://www.oneindia.com/india/3-indian-airports-to-now-have-facial-recognition-based-entry-check-details-3494415.html"
-    ampWebUrl: "https://www.oneindia.com/amphtml/india/3-indian-airports-to-now-have-facial-recognition-based-entry-check-details-3494415.html"
-    cdnAmpWebUrl: "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/india/3-indian-airports-to-now-have-facial-recognition-based-entry-check-details-3494415.html"
-    type: article
-    provider:
-      name: Oneindia
-      domain: oneindia.com
-    quality: 52
-  - title: "DigiYatra face recognition system launched at 3 airports, Scindia says data stored in encrypted format"
-    excerpt: "The government on Thursday launched DigiYatra which will provide a seamless entry and embarkation process for air passengers at the airports in the National Capital, Bangalore and Varanasi."
-    publishedDateTime: 2022-12-01T11:07:00Z
-    webUrl: "https://www.tribuneindia.com/news/nation/digiyatra-face-recognition-system-launched-at-3-airports-scindia-says-data-stored-in-encrypted-format-456634"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 38
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/12/2022_12$largeimg_1165665926.jpg"
-        width: 642
-        height: 409
         isCached: true
 
 secured: "NhMgQKGgSD5vR899P1frRzKPI7N11i2gjOasaZ99WLBhQnO/4JQjcE/m5FOqbM8s6Gvf40na+jrbVGgBk+qIJVAvUW5c8pY6B4T3oC8BWiJ3cC/cJnErDftidFCxr3qzY5v2FYRp3tM8lCcR/YVlUgmElJO/cAQ4Blqh1DJYM7EpMYi2dAmo9DAWvA/IaRbLaPN619+EtfQ7GIADeCI+RmqxJvw6+idxRgsr9ERpEoeWayS7J05TxZtLGPn+avZiwTi3yd9g8he+IacGZggCTu9lAp7Ztam3hllx2uuaFYD36OBov4ugmbZ3JjC32jofqvasIXniIgn/qtdbYbGieS1S75HWPnRs8cU4jIZaab0=;NTAmrIZoVBGkRuLAx0jZhg=="

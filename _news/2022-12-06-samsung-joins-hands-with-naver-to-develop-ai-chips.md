@@ -8,9 +8,9 @@ webUrl: "https://www.koreaherald.com/view.php?ud=20221206000445"
 ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20221206000445"
 cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20221206000445"
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 76
+heat: 76
+published: true
 
 provider:
   name: The Korea Herald
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
 
 images:
   - url: "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2022%2F12%2F06%2F20221206000449_0.jpg"
@@ -26,6 +27,6 @@ images:
     height: 419
     isCached: true
 
-secured: "+zmtRKsjffakXGyc3AO3Td9qFN7MPbySwJ2wDV2q3NB2A2QmkDBSi4Oz3uYDSO/3jFA9+BrJXdSQsb1cmtIwGoDvtQfOVYVcx/oOTQQjoiDW4rUMZkj+aI3zFecMK46iCKSm0q7qOZby3e37eM3mjXelrAix7pcVG3z/E9NgL0YmeX6B/3gY/CWMEV21HRwwk1RFwda8zEopNxZP7fUCH2H0P8wKTlGKYl5tvOqsZP0A3LdcoTtSUSN4hlKlqYdMnPdQ4LXZztcXfDQvVqwCHLJO7MG4UEbtaQRMB87CFJl1auXapCN57zQ7H0FOIQSE2zB5/QSBcjF10KuDGLX//o3MzGMPPftASc3UgIoC7c0=;fxl94o1Lprk6EIoqPYps5A=="
+secured: "6WPbYWYRipWEb/R7ueDMJfZhiRgyqCOw7dDwCgXKg815dkfFVJI1ULtFlKmEsj8euJDhykn+61paK7KcneRFFe8/Zlxh1jbrrkLK7WKs9TuU1YFhACDObxBeRvUZl0qSuqKPUQK982T7cgFcAzzW9VnO9ygJDy66Zy9BesID69thULBui5f4D/zT4ee/2gOoGKJ5lwRERIPIOAELdQ0KnwOu9Bu5kzvU6fC37M/hy3rs3kv2NNy5nMHeLylTMWijTjc5GAiP3EtJTYybzppZ8b2Y2p+pRDJmPbN1ksSFe+0Hg7nwP+vUhF+Dm2hGcZp33FQaMIan8glJUsl6moZYq5UfY7Dai/4A4INH0WoZNuLnb5k/vApad15I5NvEtAHWvI863CseCpjOHCsPC06xqvBaio8xYrZbQBt28F1CMADbNWuG47HWE06YkcPHTDxAikQ52I8OQqWiarwEQ38NkseHLy8Le/u6wA01gfSv3kDH7sD9Iv7JHJUPm/E44A+4ADbpuqN7eZeXVWGpRPl0Ow==;7p4C3WrIoNgpsn8iLYRzIA=="
 ---
 

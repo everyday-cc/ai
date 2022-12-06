@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesnownews.com/videos/mirror-now/society/airports-go-h
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/videos/mirror-now/society/airports-go-high-tech-face-recognition-at-delhi-bengaluru-and-varanasi-airports-what-does-this-mean-video-95929109/amp"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Govt rolls out facial recognition system DigiYatra at Delhi, Bengaluru and Varanasi airports"
-    excerpt: "To use this facility, one-time registration on the DigiYatra app is required using Aadhar-based validation and a self-image capture."
-    publishedDateTime: 2022-12-01T12:51:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/govt-rolls-out-facial-recognition-system-at-delhi-bengaluru-and-varanasi-airports-9634731.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 23
 
 secured: "ONHSfpoh4c5nTwQEpBQYC39iPpprvEXgerEAym7F/IFSdkWoCeHjVaXRiGSWk40GotMWv+WU2U6gejTnc9JSWI3msdWz+rJXqLFWwzkBmcWpO0SWxIuZLTLIEfF7fH/rlMXrgSMjwsn9erlgvmDH+/xsajTlFvchrmz0EK3cuesnUZI7c05ajLpwQgfvyy3RbgvnSLlFsNdETs+6/WA0c+wME4lkxvcdvkc0mAsv/tPDDLDtKowAUh44m7XibM6DN/V2IWyQ/N+ikQa0Ox04MpaWmsdzrRZ0n2QxBJVOaVSkHeQkafvi/HVCMQCQsdrdlY77VRwMUT4DyDCbmowyxFjNBgCM2/+zbXSEyMUkRcs=;aJj7cbOn/cCThvp5EtBY7Q=="
 ---

@@ -19,47 +19,47 @@ topics:
   - AI
 
 related:
-  - title: "How Fintech Can Help You Weather A Recession"
-    excerpt: "With many in fear of a recession, a growing number of businesses are in need of grant funding, and there are not many search engines that are cataloging the grants offered by thousands of organizations. Very few opportunities are in the marketplace that offers fintech services to help growing businesses with this catalog of offerings."
-    publishedDateTime: 2022-12-01T11:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/01/how-fintech-can-help-you-weather-a-recession/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/01/how-fintech-can-help-you-weather-a-recession/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/01/how-fintech-can-help-you-weather-a-recession/amp/"
+  - title: "Lawful Interception Global Market Report 2022: Leveraging AI, Machine Learning and Blockchain Technology Crucial for Future Growth"
+    excerpt: "Market-trend-based strategies for the lawful interception market include focus on leveraging artificial intelligence (AI), machine learning and blockchain technologies, focus on strategic partnerships and acquisitions, focus on research and development ..."
+    publishedDateTime: 2022-12-05T08:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/12/g29953663/lawful-interception-global-market-report-2022-leveraging-ai-machine-learning-and-blockchain-techno"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29953663"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29953663"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61b210016811815c378fdd64/0x0.jpg?format=jpg&width=1200"
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
+        width: 800
+        height: 313
+        isCached: true
+  - title: "Artificial Intelligence in Medicine Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028"
+    excerpt: "Artificial intelligence (AI) is a branch of computer science that deals with the design of intelligent agents,"
+    publishedDateTime: 2022-12-05T06:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-12-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "How FinTech is Transforming Financial Services and Ushering in an Amazing New Normal"
-    excerpt: "One area where technology has made deep inroads into the human experience is financial services. Thanks to FinTech, many of us don’t need use paper cheques, visit a bank branch to update our passbooks,"
-    publishedDateTime: 2022-12-01T12:08:00Z
-    webUrl: "https://techstory.in/how-fintech-is-overtaking-traditional-finance-through-innovation-and-cutting-edge-technology/"
+  - title: "Artificial Intelligence Market Global Investor, Latest Trends, Industry Growth, Size, Segmentation, Future Demands, by Regional Forecast to 2028"
+    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations"
+    publishedDateTime: 2022-12-02T09:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-investor-latest-trends-industry-growth-size-segmentation-future-demands-by-regional-forecast-to-2028-2022-12-02"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
-    quality: 17
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
     images:
-      - url: "https://techstory.in/wp-content/uploads/2022/12/88794644.jpg"
-        width: 1361
-        height: 771
-        isCached: true
-  - title: "FIS Challenges Nearly 200 Startups to Pitch their Boldest Ideas in First APAC Fintech Competition"
-    excerpt: "FIS has expanded its InnovateIN48 fintech competition to startup fintech companies in the APAC region for the first time. The competition welcomed nearly 200 fintech companies from 11 APAC markets to develop and pitch their innovative ideas to FIS leaders."
-    publishedDateTime: 2022-12-02T06:43:00Z
-    webUrl: "https://www.businesswireindia.com/fis-challenges-nearly-200-startups-to-pitch-their-boldest-ideas-in-first-apac-fintech-competition-82063.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 11
-    images:
-      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_82063.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true

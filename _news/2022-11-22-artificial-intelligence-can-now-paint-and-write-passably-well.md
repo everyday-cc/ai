@@ -17,7 +17,14 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Facebook AI
 
-secured: "000ZE0AfKF1VoH0ukr3uDL4Grng5vAbScerXkcm+tK7BIs+WGh5JpOJsr4VY2ZwENtpPt5Gnyxg99OWn+11ZRfFFwWbuPsFZ2OWkz5nzsuwCZWhG9j2a1Bp/ALY/NOhC82XHsK97GBFZ+nhVr2MqqtlwgVzf1aYMnBJOZfaIi8iGCo7ZuGf+7zkNQerHoXHBk6TDYWMvWRmlnkpcRhAVTfJtIYjsbMa/CZa4HBcjEmLpOLUD7bEP5yAIFNMVTGYFMAzgGdupXR1+BWshRN1wU/NHitMKPB0ZZgBxjMYgo7YdiMOmi/yMfcXF8EFQ51vF70T6Ihwj3tWpGOMwfw7fhvg5ao+QZ95MzJMVgofJIUQqtwVdzOo2qmi8hSIZf7kpVqHdOeA4KaykPR4dAFnp5fhgOT7X1gR9NBynWp4g+f/QBmoWQpqZwat+PiyeCzEcYML/oWhmkBJu3zUPupceIYlhHtgoAUHZuAVJUum5CmkTDn7Pydvw3B1nSQCeQR4wMny1iwVmfh9Y7Fe2AcSAig==;3Yr69bvUAw6A478iMCMTbw=="
+images:
+  - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/zcGugA33PPVtOmLbPS33JtTn_DU=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/4JNUZK256RKE5ZHUAWF3ZMLVC4.JPG"
+    width: 506
+    height: 325
+    isCached: true
+
+secured: "m7h8/Y9TEPxSBZzG3J4BH6W6jCo6PbHVbJn79d/c+b2aMSG3xFLxIw0L2/oapLwkzuet9zq3aY5jgD3RYVTI51N/zWZ46lTfkfqLMCzFMfTGViM+4aImrq7pdaGCE66VxW9u534FLnEkWsJgr2s3tiU0ysChLOv6bzNWBbg41FDWYoXbb7Ao6o/wnYt3vWfVdwXoIWGh/6sPfTmqMS+SUY8x+SPFaft8kOS+DGsswamUZFZJu+RaXMjEnS6TSs0CjR+/bOReqANAArkVbqm8UjdW1oHOjutCL3r2QvpjicQBD+Cu4rpjPmt44BsMLMoTw/7UMMjnFOULwrWTmzFlVtKP3ccoSPMkgdqW5tgHvF0=;wz2DDPBXRlLk1nNiP2jqzQ=="
 ---
 

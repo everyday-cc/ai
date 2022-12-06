@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Govt rolls out facial recognition system DigiYatra at Delhi, Bengaluru and Varanasi airports"
-    excerpt: "To use this facility, one-time registration on the DigiYatra app is required using Aadhar-based validation and a self-image capture."
-    publishedDateTime: 2022-12-01T12:51:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/govt-rolls-out-facial-recognition-system-at-delhi-bengaluru-and-varanasi-airports-9634731.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 23
 
 secured: "VXsmIjMcm6xkQfyM+ENdRa2WfnSA9VKZPFeuleLn9ZB9LQ3g+vx8mp4En72M1QCbFqSHEjweb4qO5Ikq8W8Ea2pTeqdWKs/lx2l9raxHfpWSgv6AXhCJqhLGQAjqfKEnknlL86PWMRRetlmHINzEaCjYVSC/PhtLDnHowyR8KEt1+P8B1oeMmKmRS8t54V4jZJRi/f2d6VteIw/P2+2iH8wZRm3jQ8f7OV3qn00UpaiOq8pMNNlZeiBVLBf2fubzawGWG38OdDEhEKBrnJpOQOv5nqEU7w5WurmHxrcf8hdNcXJjroS8jt/GDLmP0zhbzfzBE6rWAbQYetpFHn0R+y9vC/Oo6EJe7IOUa9B/fz8=;WP9qeacQHJLOqlEVXvhVAQ=="
 ---
