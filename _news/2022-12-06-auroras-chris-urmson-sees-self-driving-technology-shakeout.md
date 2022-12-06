@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Honda Pursues Advanced Self-Driving Technology"
-    excerpt: "Reuters / STEPHEN LAM Carmaker Honda on Thursday unveiled the company's plans to have fully developed self-driving technology by the end of the decade in an effort to improve road safety. Honda's level 3 self-driving capability,"
-    publishedDateTime: 2022-12-01T17:28:00Z
-    webUrl: "https://www.ibtimes.com/honda-pursues-advanced-self-driving-technology-3642475"
-    ampWebUrl: "https://www.ibtimes.com/honda-pursues-advanced-self-driving-technology-3642475?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/honda-pursues-advanced-self-driving-technology-3642475?amp=1"
+  - title: "Self-driving car startup Qcraft secures strong investment in Series B1"
+    excerpt: "Qcraft, a Chinese self-driving car developer backed by Bytedance and Meituan, said on Friday it has raised “hundreds of millions of RMB”"
+    publishedDateTime: 2022-12-05T11:25:00Z
+    webUrl: "https://technode.com/2022/12/05/self-driving-car-startup-qcraft-secures-strong-investment-in-series-b1/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 44
+      name: TechNode
+      domain: technode.com
+    quality: 24
     images:
-      - url: "https://d.ibtimes.com/en/full/3565935/cruise-origin-autonomous-vehicle-honda-general-motors-self-driving-car-partnership-seen.jpg"
-        width: 1200
-        height: 800
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
+        width: 540
+        height: 540
         isCached: true
 
 secured: "ANdJrcxBslHhKRQb96sSMP0zWJBphQ4XTmlZFVGVnnDE6w6zShJ23323mYnDYSe+cxPtpTDDYc9ZPMvdFBsxbArjARbYODZD/8FPfA/cdCCD7k+hR+V/p7ucDTPRny9ROSclTdJqVlStEFQ96qzBxfK7xQ65ZiXFN0BLT1INu6qBI82eH1utxEF3BxY+ilTTuPN3KezHinoblIaXbgvoHSeoZgGoe0Ghu0qHZzWbWPbv+ZmBNdPiXm1fZQ8zfgRX1P7LV6b05SWNuSP6DLjTKnpL5X/P4LPaXtQbGPL6TLsOqF76eQLqFhCCWSbP/1e5n2eLC1uz8z42h/od5hbQthycOVdy1J5Vrv48Mu7gFv4LoiNXMYUeKxioueb+sx4spJ63TbTrAu/b+o07W55ws03OJ00E/ixlsTzT25EHbNbjwHqVu2DQnVsygNiUdbVNs294u7vvg8vuosFM8/hF/wCl18P8EV1b6lx5q4BcR36DyP19EMyGLUZTmxeZDCUmcRANMOtDDKBhe1sVWrfQDw==;FiXwUxIHrQ1A3spXDYEAXQ=="

@@ -25,21 +25,23 @@ images:
     isCached: true
 
 related:
-  - title: "The Irish Times view on the use of facial recognition technologies"
-    excerpt: "The Government needs to think again about plans to introduce this new technology in policing, giving its patchy record and privacy fears"
-    publishedDateTime: 2022-12-01T21:00:00Z
-    webUrl: "https://www.irishtimes.com/opinion/editorials/2022/12/01/the-irish-times-view-on-the-use-of-facial-recognition-technologies/"
+  - title: "Hashtag Trending Dec 6 – TSA facial recognition system; Adobe to sell AI made stock images; Darknet markets"
+    excerpt: "TSA may expand its facial recognition ID system, Adobe expands creations made with generative AI, and vendors selling stolen data products on darknet markets had more than $140 million in revenue. That’s all the tech news that’s trending right now,"
+    publishedDateTime: 2022-12-06T09:00:00Z
+    webUrl: "https://www.itworldcanada.com/article/hashtag-trending-dec-6-tsa-facial-recognition-system-adobe-to-sell-ai-made-stock-images-darknet-markets/517175"
+    ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-dec-6-tsa-facial-recognition-system-adobe-to-sell-ai-made-stock-images-darknet-markets/517175?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-dec-6-tsa-facial-recognition-system-adobe-to-sell-ai-made-stock-images-darknet-markets/517175?amp=1"
     type: article
     provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 39
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 56
     images:
-      - url: "https://www.irishtimes.com/resizer/iND7YnLQkyLgaMa60SCnSVgP5u4=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/R652KMR53CH6EFXX6YKBNRWVII.jpg"
-        width: 1200
-        height: 630
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png"
+        width: 1500
+        height: 1500
         isCached: true
 
-secured: "ZhndRTo7BZuoVAajOeHO6jMqH/sGmEc6PKuhemeAIodZaCcoF+1zhGHhH1WSN816KAd03+7bN31KkgQNFvDZKwMLUuwQOIFW0ZLa/DRTqtaVB9/bO3Vbv4WplCzbnosARV9z51pQV5iRskGcxNJ4TdoUB1kC6twYwjERog30dpL0RsN08yK4aMdNXOUjZHRGLbIp7dmLnxx/P1i7sg66b7Xad3jNsp+0Uru6s7D8K7OS/JV0cqnPKe+WUh2qxibCb0Kjkr9LpkLmB+14OVCQqByA7TU+zHjXutRF+GY5+AnWg2fAo2yMG7ulrV2jebyd4eEhR4mputNkf4yI/k+NUUu5forfiKzUNVdjPpYxx3E=;fgfdzsfRK7keDCv7xcVfqQ=="
+secured: "t8wb8FLFt1y3JfO2G3I419bp+VsTuY7pkYPSn8fmEdiGUmTOh9+RVRAX/CPll/Lf50+wdgvardYt8Be8zsrKIRej2aeayCzkCx+bxbO3n5qCBTWVApAAGMPWAq7Sd9gYBQPQwf0S3V90X2Xw0vtfPKdB0rgfzEBIuu7onI+hQTIbcYLNrAfUeTqVHQj9clP0VQ7UUzz6GDs1iSS/hCHQPxtImwwjh6nMmCT9YAhhxCV9nYYpjIRJY+ic4LWqarjnMgevye1fBQR4hh0ohnD/mPrxLSegRQGeucte20rGincK0FQ5CUJg3SBdg3pudv6voU+zUwjZF+fFi0CkzNEa698FJRxfxPtRTSXdBybJXe2jV3eFsv2PPTwFSsqWYWDMF80+zZihcfuUTbYaEeJKX/u4/Cfai96+JD6ct3hjuYq14ZZA3M/WSx6WOaKQ3rtYbBOB8mPcAg0K02D6IMCEck7TPWeuFK0x4lwzr+/INQFWpjrMEzl9EtyvE1zGoqMFvbqM+QQ4UTWutFTWjWquxQ==;8J1fXc5tLC89T0q5pmFcbw=="
 ---
 

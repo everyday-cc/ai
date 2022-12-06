@@ -9,7 +9,7 @@ ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20221206000445"
 cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20221206000445"
 type: article
 quality: 76
-heat: 76
+heat: 106
 published: true
 
 provider:
@@ -26,6 +26,54 @@ images:
     width: 630
     height: 419
     isCached: true
+
+related:
+  - title: "Samsung announces partnership with Naver to develop next-gen AI chips"
+    excerpt: "Samsung Electronics on Tuesday announced that it has partnered with internet portal giant Naver Corporation to develop next-generation artificial intelligence (AI) chips"
+    publishedDateTime: 2022-12-06T10:23:00Z
+    webUrl: "https://www.business-standard.com/article/technology/samsung-announces-partnership-with-naver-to-develop-next-gen-ai-chips-122120600618_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/samsung-announces-partnership-with-naver-to-develop-next-gen-ai-chips-122120600618_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/samsung-announces-partnership-with-naver-to-develop-next-gen-ai-chips-122120600618_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 74
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-12/05/full/1670217737-84.jpg?im=Resize,width=480"
+        width: 480
+        height: 359
+        isCached: true
+  - title: "Samsung, Naver to develop AI chip solutions"
+    excerpt: "Samsung Electronics decided to work together with Naver, the country's top internet company, in developing artificial intelligence (AI), they said Tuesday. The two companies' goal is to develop new semiconductor solutions that will lead to innovation in the emerging AI industry and further boost the country's AI capabilities to compete with global big tech firms."
+    publishedDateTime: 2022-12-06T07:47:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/tech/2022/12/129_341223.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=341223"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=341223"
+    type: article
+    provider:
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 74
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202212/02e91f583f3741b187f898bee2100cf1.jpg"
+        width: 980
+        height: 662
+        isCached: true
+  - title: "Samsung partners with NAVER on AI chips"
+    excerpt: "NAVER say never Samsung has partnered with NAVER to develop semiconductors that can better handle AI workloads. The deal will cross  Samsung’s semiconductor design abilities and NAVER’s expertise in AI algorithms and AI services."
+    publishedDateTime: 2022-12-06T10:14:00Z
+    webUrl: "https://fudzilla.com/news/ai/55950-samsung-partners-with-naver-on-ai-chips"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://fudzilla.com/media/k2/items/cache/73f3fd2924b1fb3eb173de96705dad7c_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
 
 secured: "6WPbYWYRipWEb/R7ueDMJfZhiRgyqCOw7dDwCgXKg815dkfFVJI1ULtFlKmEsj8euJDhykn+61paK7KcneRFFe8/Zlxh1jbrrkLK7WKs9TuU1YFhACDObxBeRvUZl0qSuqKPUQK982T7cgFcAzzW9VnO9ygJDy66Zy9BesID69thULBui5f4D/zT4ee/2gOoGKJ5lwRERIPIOAELdQ0KnwOu9Bu5kzvU6fC37M/hy3rs3kv2NNy5nMHeLylTMWijTjc5GAiP3EtJTYybzppZ8b2Y2p+pRDJmPbN1ksSFe+0Hg7nwP+vUhF+Dm2hGcZp33FQaMIan8glJUsl6moZYq5UfY7Dai/4A4INH0WoZNuLnb5k/vApad15I5NvEtAHWvI863CseCpjOHCsPC06xqvBaio8xYrZbQBt28F1CMADbNWuG47HWE06YkcPHTDxAikQ52I8OQqWiarwEQ38NkseHLy8Le/u6wA01gfSv3kDH7sD9Iv7JHJUPm/E44A+4ADbpuqN7eZeXVWGpRPl0Ow==;7p4C3WrIoNgpsn8iLYRzIA=="
 ---

@@ -80,15 +80,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 40
-  - title: "Stability AI make AWS a Preferred Provider"
-    excerpt: "The combination of AWS and Stability AI has the power to create monumental shifts in the potential applications of artificial intelligence."
-    publishedDateTime: 2022-12-01T18:48:00Z
-    webUrl: "https://techreport.com/software/3487062/stability-ai-make-aws-a-preferred-provider/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 36
   - title: "Nielsen and AI4ALL expand relationship to build the next generation of diverse artificial intelligence leaders"
     excerpt: "Nielsen collaborated with AI4ALL to launch the inaugural Data Jam initiative for students in their College Pathways program."
     publishedDateTime: 2022-12-02T07:11:00Z

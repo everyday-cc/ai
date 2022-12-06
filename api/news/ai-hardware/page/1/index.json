@@ -62,7 +62,7 @@
       "originalUrl": "https://www.koreaherald.com/view.php?ud=20221206000445",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -150,49 +150,6 @@
       ]
     },
     {
-      "path": "_news/2022-12-03-elon-musk-says-he-would-put-ai-brain-chip-inside-one-of-his-children-in-new-disturbing-comments.md",
-      "title": "Elon Musk says he would put AI brain chip inside one of his children in new disturbing comments",
-      "excerpt": "At the event, the CEO spoke about Neuralink's brain chips' benefits in helping people with disabilities ... To date, the Silicon Valley company has successfully implanted artificial intelligence (AI) microchips in the brains of a macaque and a pig.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesun.co.uk/tech/20635574/elon-musk-ai-brain-chip-children-neuralink/",
-      "originalUrl": "https://www.thesun.co.uk/tech/20635574/elon-musk-ai-brain-chip-children-neuralink/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/12/NINTCHDBPICT000771151312.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.co.uk/tech/20635574/elon-musk-ai-brain-chip-children-neuralink/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/20635574/elon-musk-ai-brain-chip-children-neuralink/amp/",
-      "publishedDateTime": "2022-12-02T15:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun",
-        "domain": "thesun.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-03-apple-slices-its-ai-image-synthesis-times-in-half-with-new-stable-diffusion-fix.md",
       "title": "Apple slices its AI image synthesis times in half with new Stable Diffusion fix",
       "excerpt": "On Wednesday, Apple released optimizations that allow the Stable Diffusion AI image generator to run on Apple Silicon ... SD optimizations can generate a 512×512 50-step image on an M1 chip in 35 seconds. An M2 does the task in 23 seconds, and Apple's ...",
@@ -253,7 +210,7 @@
       "originalUrl": "https://venturebeat.com/ai/nvidia-showcases-groundbreaking-generative-ai-research-at-neurips-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1449,6 +1406,40 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-19-geforce-rtx-4080-gpu-and-davinci-resolve-a-real-boost-in-real-world-performance.md",
+      "title": "GeForce RTX 4080 GPU and DaVinci Resolve: a real boost in real world performance",
+      "excerpt": "If you want to see some real world performance examples of the new GeForce RTX 4080 GPU, the short video from filmmaker Casey Faris using it with DaVinci Resolve is a good suggestion. Here is something for all those who want to get some suggestions about their next graphics",
+      "sourceUrl": null,
+      "webUrl": "https://www.provideocoalition.com/geforce-rtx-4080-gpu-and-davinci-resolve-a-real-boost-in-real-world-performance/",
+      "originalUrl": "https://www.provideocoalition.com/geforce-rtx-4080-gpu-and-davinci-resolve-a-real-boost-in-real-world-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-19T03:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "provideocoalition.com",
+        "domain": "provideocoalition.com",
         "images": null,
         "publishers": null,
         "authors": null

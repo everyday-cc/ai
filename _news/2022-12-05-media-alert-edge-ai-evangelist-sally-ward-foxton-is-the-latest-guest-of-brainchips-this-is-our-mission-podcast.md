@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Media Alert: Edge AI Evangelist Sally Ward-Foxton is the Latest Guest of BrainChip's 'This is Our Mission' Podcast"
-excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(OTC:BCHPY), the world's first commercial producer of ultra-low power neuromorphic AI IP, today announced that EE Times"
-publishedDateTime: 2022-12-04T21:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/12/ac29952129/media-alert-edge-ai-evangelist-sally-ward-foxton-is-the-latest-guest-of-brainchips-this-is-our-mi"
-webUrl: "https://www.benzinga.com/pressreleases/22/12/ac29952129/media-alert-edge-ai-evangelist-sally-ward-foxton-is-the-latest-guest-of-brainchips-this-is-our-mi"
-ampWebUrl: "https://www.benzinga.com/amp/content/29952129"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29952129"
+excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / December 4, 2022 /BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of ultra-low power neuromorphic AI IP, today announced that EE Times journalist Sally Ward-Foxton joins BrainChip Vice President of Ecosystem and Partnerships Rob Telson on the latest \"This is our Mission\" podcast discussing the latest trends in the AI marketplace."
+publishedDateTime: 2022-12-04T21:35:00Z
+originalUrl: "https://www.wsj.com/articles/media-alert-edge-ai-evangelist-sally-ward-foxton-is-the-latest-guest-of-brainchip-s-this-is-our-mission-podcast-01670193330"
+webUrl: "https://www.wsj.com/articles/media-alert-edge-ai-evangelist-sally-ward-foxton-is-the-latest-guest-of-brainchip-s-this-is-our-mission-podcast-01670193330"
 type: article
-quality: 52
-heat: 62
+quality: 42
+heat: 42
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Wall Street Journal
+  domain: wsj.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
-    width: 800
-    height: 313
-    isCached: true
 
 related:
   - title: "Brainchip Holdings Limited/ADR: Media Alert: Edge AI Evangelist Sally Ward-Foxton is the Latest Guest of BrainChip's 'This is Our Mission' Podcast"
@@ -37,6 +33,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "V6zOsN1mFVwlM/IQJDc+YD2OEvXvXgzHOZTat8hugIga34yN5TpT+Nx/q3bVWPGe2RIllst4FT1NahcHa+mpCc2cQHutLjiUCuHOY85WZCyf8eZEHuSZQ61kbT92UVw7ayPn+8XFh+7KXxdJZT0APvGvW6WAGnPPUpqyvV5cJZzZGixqZ8UvGARV3nOrvH0tVt2SEm2i/1/0FF+Pqn5m7V+6ABFImLqu0bwUkHXRbs/S/5tX38yaSwZCWDvWTIxWLQLurnMN9/czLaVahzBslrMyIOCRYc2HG9OY0ywQ+lAQnEm8Az4tng+cTIZn9ACwbq8Gc8MmcqTiKw3EH+AoDrd+0gz1na00SC8BjuE3FtE=;TwippTRycSLdrddRwKTcJA=="
+secured: "SPqa0dZSew3NmYWkhJwu7/MF6Ib8Msa8jK8s0+bvGbC/GCvreQpaPy1onPLmWxWpAYrtN4CGfto2QuW5b38krW+EVorJTQRYduckwRO4UG8u/2cVEnO26qXbLQ/Eyfqgsu1elskBf9Q/61/tYIvzwyL+kfqYCeND4rxzm7YStGGLjkm45Vm77045N8uXDX5Hz1aAz3RCzwRwWVCzDyBgbIbymBCJZS188hz2p9HGXg8XhhPaB7BoTuxFU0z6y5UKpnC6JcZNb0RMLIyo/a86vcLXl2/+UjPbw1Uy11Pjv/fRH7H/S5TinLE4o88dYhuTcVqna2/yXrPDvLOlOfhRN/C/dLLhlTiwmfeasvLyLL4=;E1NfmlP+1PjaOWh1a3PIVw=="
 ---
 

@@ -44,6 +44,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 66
+  - title: "Revolutionary AI advances are transforming the world"
+    excerpt: "Artificial Intelligence (AI) has been making incredible strides lately. From driverless cars to voice assistants, the potential of AI has never been greater."
+    publishedDateTime: 2022-12-06T09:18:00Z
+    webUrl: "https://www.redsharknews.com/ai-revolution-how-artificial-intelligence-is-transforming-our-world"
+    ampWebUrl: "https://www.redsharknews.com/ai-revolution-how-artificial-intelligence-is-transforming-our-world?hs_amp=true"
+    cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/ai-revolution-how-artificial-intelligence-is-transforming-our-world?hs_amp=true"
+    type: article
+    provider:
+      name: redsharknews.com
+      domain: redsharknews.com
+    quality: 59
+    images:
+      - url: "https://www.redsharknews.com/hs-fs/hubfs/AI_Generated_Robot.jpg?width=1280&height=720&name=AI_Generated_Robot.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "iVoCxEceVxj3U66eblwY3eFQJpqwCDEui5F1sSkd7XkE/6ZCHYXq9LmKXzVS6rXSHMwrJpdwjEjwyggC2aVvjbB6uWFU6rRE/V1XJJdJfsq2/hHxX8XC1zXbhC6JPHmMOyE8f8URkZgU6UVOVEQwwL7qEoh3KJStxDfgl6WuLS7ePZlpu5w1Mq5AuaLDSNdkz4J33Ht6RcQkw4ZC2QN4r+RxpwvWP52VxNpzhHPR7qRfhKlMW3S1Dt6ok6+azV+Vsr9oJj8pnvt9ralQZiJtLKxBotEplB+kNpJIdQ5wMeme+pKB7trpIzM/DMPfQaAaW/oPw2s8jMXgxLOK099hwQZfT/iIe3gjhTD1iYfDlZw=;PR0LKDp3bHd7yPQLXR8CqQ=="
 ---

@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "The TSA’s facial recognition technology may expand nationwide in 2023"
-    excerpt: "The TSA could potentially expand their facial recognition identification system nationwide in 2023. Veuer’s Maria Mercedes Galuppo has the story."
-    publishedDateTime: 2022-12-05T18:29:00Z
-    webUrl: "https://www.stltoday.com/travel/the-tsa-s-facial-recognition-technology-may-expand-nationwide-in-2023/video_38bac7aa-6efd-5d13-a2e8-da170da078c0.html"
+  - title: "Facial Recognition Back on FB Dating"
+    excerpt: "Meta is extending its use of AI facial scanning to confirm users' ages on Facebook Dating which is a contrast to their 2021 move of banning facial recognition."
+    publishedDateTime: 2022-12-06T08:57:00Z
+    webUrl: "https://analyticsindiamag.com/facial-recognition-back-on-fb-dating/"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/8b/38bac7aa-6efd-5d13-a2e8-da170da078c0/638e23ea02321.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/news-1.jpg"
+        width: 2240
+        height: 1260
         isCached: true
 
 secured: "fDllvfaVFQdcEfZx1gqQqTM6I41/tK3q6dIjhzxZbaLFwuynISHEsWqcK0aLPdt7Hgk8xgAtGfbhxckCkCxwGfxK0eTvLlXg837CJupr3T41TyLOMMxtBEPP9TTR6lxLJo/U52dYuCHEjGHshHIDib1UavIk3c0QSFqtMvRltimypss796FooGpbooK5CAc6meIiS+44lASmxbxMgId3+896dlNJ2cDDroAOzhVczFiRoyBTEvs0rK61Cok3rXclr6mm+zNfkVCdMB/y5o7W15IlqAHc4o5VCwE0f0hWW2P5eBx3YaOYOg4ApBSD1zg1ilLNq2Eh10qKA4HHyE80AFietFVHLreKi+XfXC/AmBA=;RhIT0+APjTIjPJDNMkOznQ=="

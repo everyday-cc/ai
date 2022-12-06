@@ -7,7 +7,7 @@ originalUrl: "https://www.benzinga.com/pressreleases/22/12/b29956577/sunwest-ban
 webUrl: "https://www.benzinga.com/pressreleases/22/12/b29956577/sunwest-bank-secures-multiyear-partnership-with-cre-fintech-blooma"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "Sunwest Bank secures multiyear partnership with CRE FinTech Blooma"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2022-12-06T10:08:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/sunwest-bank-secures-multiyear-partnership-with-cre-fintech-blooma/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/AO_400x224_Ten-steps.jpg"
+        width: 400
+        height: 224
+        isCached: true
 
 secured: "B9PP5W2YmNIryhenA213qpT3f/hyEkbABQgSPpw2C1OHjSij/hldNmUB9kX8zJORVnama66LZgPpFlzoRREde/2p454wCQgRq1oCaJjWEwDmRT0aaSBtxHCGir0sjnQE1Fs8/BK6Q8QM2zoalwg9Z9RXwZy1t5cqb2/zjn6IfK57A8hWHkwnLotxhc7HOUC/7zLcyiVEmxH6CEN38OzWZyIp5dLcXdKorDEqBOBN5l3w4P+NkiesJEzg7rL+hqO5GgNXDTq8gT9Jdtt3YaDavnxfJ78IlP6/LDVqVOl8nU7CkXjvcbOeuidBZlLEcalK9dJqQgzqmia4VjCRGUO+Wuo0ydWoY+LoWP17fVO2INc=;N0TznDi2WKPsbZB8WbFptw=="
 ---

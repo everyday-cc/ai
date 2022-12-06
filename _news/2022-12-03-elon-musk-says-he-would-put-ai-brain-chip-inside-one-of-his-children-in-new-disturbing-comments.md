@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thesun.co.uk/tech/20635574/elon-musk-ai-brain-chip-child
 cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/20635574/elon-musk-ai-brain-chip-children-neuralink/amp/"
 type: article
 quality: 62
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: The Sun
@@ -25,17 +25,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Elon Musk Wants To Begin Putting Chips In Human Brains Within The Next Six Months"
-    excerpt: "Elon Musk wants his brain chip company Neuralink to begin human trials within the next six months."
-    publishedDateTime: 2022-12-01T17:49:00Z
-    webUrl: "https://www.ign.com/articles/elon-musk-wants-to-begin-putting-chips-in-human-brains-within-the-next-six-months"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 29
 
 secured: "CiJAhEMJn/NzJ2QGWIkLO/nJ1C1e5o0Nn2x9QnRQhht0zkMKKSfGsUA3ZwbQTZB5jpGH8D5T14mSJqoik4glTJpWfxAvly49c8rYB5UIXK3Y+AWYit6FKDRn3LxPzRIK0hHrbjroVLtSyIKRTlbCjiw1CruOlvqsDrL13GWkHogb+bbc4/fn/7MSnePKslL296867edtd4dnnLineOn/cuSQkN4x3er/1eGCifd1gjRZWmdoYB/79NxX3F8VNxdEEyYHpS0W6vHSJeh+oiDL5rg8AFTJ+ordd+8pAtWLO+FQ/MuPQDykB6Jf/9am+JnA+Xn94Nkw5JL4vF/zLY3pj/s6g/+BVlY7jl8IH819lw2hSD/zcEQY2GMCRH21Dyl8zSMiS7DaV3W73LjR+yoKSYuJy8rvVV9tzxseLXpVm72fQ+lAOJPXYy5mi4YAMX/bscEoktmLTMFwicXfpwyJ3/zvlkB4WUj51E/l0YGmZloNx63/M2wS/vnltm+HwkGjtcFDQHBIZ/Cdx4qw6e3TiQ==;QboSLVKo+7Nad6n//+ZCaA=="
 ---

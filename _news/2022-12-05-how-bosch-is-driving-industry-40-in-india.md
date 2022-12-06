@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252527987/How-Bosch-is-driving-I
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252527987/How-Bosch-is-driving-Industry-40-in-India?amp=1"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "How fintech platform Yubi is unlocking limitless possibilities for Indian enterprises using AWS"
+    excerpt: "From automating corporate loan needs to offering a co-lending platform, fixed income instruments, real estate & infra financing to enabling AI integrated recovery infrastructure, Yubi is a one-of-a-kind marketplace that caters to borrowers,"
+    publishedDateTime: 2022-12-06T09:38:00Z
+    webUrl: "https://yourstory.com/2022/12/aws-fintech-platform-yubi-unlocking-limitless-possibilities"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 29
+    images:
+      - url: "https://images.yourstory.com/cs/2/21ccd920843c11ec88170b5512a0f9d5/Imagel2ts-1670318988873.jpg?fm=png&auto=format"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "OMQUv+7ngwT9iGr9Oxa3jqwOOYywf37zhrp5AQEUF6ynC66cNkjQJk9ZoFyh5ebm4j80iI/Q65EOByqY0+E4ihqkB2ZdJTXGMkAMBKmsCljj4XmUBxMa/rHBAcL0TwLmqBEdY9X6qFlsZUW3l4CJ6pxXc8f3dr5NFQDHAYsz/YM4iX2yeDfDMHFupltH2S0k7CHdYtYNpPuKjNWx67g7rbYL9f9A9q7yn89SYEwTq8+DOHgfpDNCWEBklx5PuL7qQhiurw+mcn1KyBy1/DAXRJymMuIKBlQXNR51tlMsKX4L08DMJz7Gko2PxfND8pQbCMZPknZuEaSFwqwhWHC35B90yc4JcaNBumI3XQ995Mk=;pGro3Osqu2oQc8C231BzqA=="
 ---

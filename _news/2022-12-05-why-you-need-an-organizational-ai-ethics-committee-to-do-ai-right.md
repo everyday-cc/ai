@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The future of generative AI and its ethical implications"
-    excerpt: "Despite ethical issues of attribution, intellectual property, deepfakes and more, generative AI will continue to revolutionize the internet."
-    publishedDateTime: 2022-12-03T23:20:00Z
-    webUrl: "https://venturebeat.com/ai/the-future-of-generative-ai-and-its-ethical-implications/"
-    ampWebUrl: "https://venturebeat.com/ai/the-future-of-generative-ai-and-its-ethical-implications/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-future-of-generative-ai-and-its-ethical-implications/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/08/Screen-Shot-2022-08-24-at-3.43.14-PM.png?w=1200&strip=all"
-        width: 1199
-        height: 1075
-        isCached: true
   - title: "Artificial intelligence in the service of the military"
     excerpt: "We are all familiar with the defense and security tasks of IDF camps and infrastructures performed by combat soldiers and military combat supporters. These missions are intended to enable the proper and safe existence of infrastructures,"
     publishedDateTime: 2022-12-04T22:51:00Z
