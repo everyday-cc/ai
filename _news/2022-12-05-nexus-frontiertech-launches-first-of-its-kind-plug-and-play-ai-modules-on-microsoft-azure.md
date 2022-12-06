@@ -2,9 +2,9 @@
 category: news
 title: "Nexus FrontierTech launches first-of-its-kind plug-and-play AI modules on Microsoft Azure"
 excerpt: "Artificial Intelligence (AI) solution provider Nexus FrontierTech has announced its partnership with Microsoft Azure, allowing clients to utilise the Azure marketplace for quick deployment of AI solutions within their organisations."
-publishedDateTime: 2022-12-05T12:54:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/12/05/9724024.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/12/05/9724024.htm"
+publishedDateTime: 2022-12-05T14:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-nexus-frontiertech-launches-first-of-its-kind-plug-/2022/12/05/9724024.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-nexus-frontiertech-launches-first-of-its-kind-plug-/2022/12/05/9724024.htm"
 type: article
 quality: 40
 heat: 40
@@ -18,6 +18,6 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "nCSYg2lqCTB7h3aF7tzjYkG8p+ng9pdA/1Lb4cBpeWCZ/RtkqDYG2/TwoTO83+Aaw8bSPyCVTtsp2KC6Ttjc37xoGJsixPKb5xobAv+KgmUIXb6B/mY+t6I+c1p9AaCsae7GfMxyGP6tti7kC2RFznsDRu8j8Kj/FgxQPn7dWQRuaUu3PXUh9Buqx9Q6zofxH5UJ24dQiXnw2MOvzT4cCPwrE32XHRfEhfhutAIu1UZw/fr0r2qI/2LH9P44uFnR9CHQYWXCUrzWS37g4ID/7ex8/EpXM6wO3BOmBZXbHx74wpqFcWhgQ0+Lx0s6fEviZo4oCzlMDWSZHRk1k1PwLqRj3KzafXdvNGUIQC/dvlU=;0xUw8HfYfIvnIZSUG5am1g=="
+secured: "7CKapsnIxxejJq2MAIzYpzNr5731B5YNygCFVZMIurYPhCXyGoO4iGg/6ku0k6EvsZxqpsDezupDR6jj1GdUgTgiTHhZFL3uQ2qTQB27keV2KbQeyfA/9ei5TxWPlAiXJSgQfju4TKuWa57zh7wEwyOqtbx5XQzWC+yGCvhxJ5w+VkkuegBA1zz32Q29QyWPev9EqN7R2uhTFN5NsU8IPdgFufB9csJvW0h9/eBjFfynKXoTrCwOVnlWNL9yZqIRWxjViuvLOOIveMKN5qoUE2ct30H/5BP2ENbUpsY2PW0QIbbCTazydtljMTqdOa5VFeume6bxYIs3r/909oqTiC7fZBTgFwvC2VZI+RfzIL4=;g8mv/ZWWCcLvuGhtCTkAIQ=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/adobe-stock-to-allow-ai-generat
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/adobe-stock-to-allow-ai-generated-images-on-its-service/"
 type: article
 quality: 87
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNET
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Adobe sets new guidelines for AI-generated stock images"
+    excerpt: "While other content platforms have moved in other direction, restricting or banning AI-generated content, Adobe is trying to embrace the new art form with the right set of rules"
+    publishedDateTime: 2022-12-06T01:33:00Z
+    webUrl: "https://www.zdnet.com/article/adobe-sets-new-guidelines-for-ai-generated-stock-images/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/adobe-sets-new-guidelines-for-ai-generated-stock-images/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/adobe-sets-new-guidelines-for-ai-generated-stock-images/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/dfa81d2024c019505973b260e257230ffcf6e698/2022/12/06/2170b8df-844b-454b-a01e-86493815ef72/adobeaiart.png?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Adobe Stock will sell images created with the help of artificial intelligence"
     excerpt: "Adobe has announced today it is now accepting images created with the help of generative artificial intelligence applications like Stable Diffusion and DALL-E, opening up the sale of these images at Adobe Stock."
     publishedDateTime: 2022-12-05T19:16:00Z

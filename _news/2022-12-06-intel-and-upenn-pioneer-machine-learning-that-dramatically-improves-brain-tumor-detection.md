@@ -24,6 +24,24 @@ images:
     height: 472
     isCached: true
 
+related:
+  - title: "Intel and Penn Medicine Announce Results of Largest Medical Federated Learning Study"
+    excerpt: "Intel Labs and the Perelman School of Medicine at the University of Pennsylvania (Penn Medicine) have using federated learning – a"
+    publishedDateTime: 2022-12-05T23:00:00Z
+    webUrl: "https://www.timesleader.com/wire/state-wire/1590094/intel-and-penn-medicine-announce-results-of-largest-medical-federated-learning-study"
+    ampWebUrl: "https://www.timesleader.com/wire/state-wire/1590094/intel-and-penn-medicine-announce-results-of-largest-medical-federated-learning-study/amp"
+    cdnAmpWebUrl: "https://www-timesleader-com.cdn.ampproject.org/c/s/www.timesleader.com/wire/state-wire/1590094/intel-and-penn-medicine-announce-results-of-largest-medical-federated-learning-study/amp"
+    type: article
+    provider:
+      name: The Times Leader
+      domain: timesleader.com
+    quality: 37
+    images:
+      - url: "https://cdnmedia.sendtonews.com/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
+
 secured: "XLhR05VPShMDOS5ZV8benoraiMGFOsFlVMQZfmDa3AOfpTfE66Lar/qu3mVKUAXhmChcGXLyhcLxD1+ZeXHeS+mUA6J4ctP+6ZzgCyomWsP8niBvoyBQdSH9uZF1t4MAq7jgXYrz9ESzBmRD0NrSDE0NY9m8FmnUg74/G94d0kewUR+2SOqYMUv+hG/cZQQnaW8VKX1+dpE922hLSLCvsyMXKFGtINvzXpQRZjG5e0yGqqOJEMzgBI8zXogWWae8kK2GRKSwu72I9BSxzSUPrP9ZUkUcM9OIYaLWE+hKhCqXqWN1g6sYRGf4kH5qw4Us4E7Qmk2QZ2dY83QmCkL8sWHCn82HL1LaGPwA/PaQ7BzctFDYCxeTJjn8DbNjsmpLiw+aIlXbEFxWZL/OcYvZJJad1vHbB9P/rDVriyODvp3A8U2SQqVWuNXnmy+uHBG0+D5yFzTo1PZGs7amWbguZy2QrqAVuRRdFZVJW5KLM/4uVoi8xFHZDi/xhW3qbrlGS9vopne33J8+zOqPEa+FLA==;93K6OyrIdV82W1ZwJNCKtQ=="
 ---
 

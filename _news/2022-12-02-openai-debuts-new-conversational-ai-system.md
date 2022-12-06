@@ -106,6 +106,17 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "The brilliance and weirdness of ChatGPT"
+    excerpt: "Like most nerds who read science fiction, I’ve spent a lot of time wondering how society will greet true artificial intelligence ... ways that could make it possible to create personalized therapy bots, for example. ChatGPT isn’t perfect, by any ..."
+    publishedDateTime: 2022-12-06T00:55:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/the-brilliance-and-weirdness-of-chatgpt/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/the-brilliance-and-weirdness-of-chatgpt/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/the-brilliance-and-weirdness-of-chatgpt/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 24
   - title: "The future of AI is here: ChatGPT can create code, tell a story, or create a scene of your favorite sitcom"
     excerpt: "AI has never looked so advanced as it is now with OpenAI's ChatGPT. Iit has been mind-blowing for users over social media."
     publishedDateTime: 2022-12-05T15:18:00Z

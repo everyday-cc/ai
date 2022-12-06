@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "DigiYatra facial recognition system launches at airports: How this will change security"
-    excerpt: "DigiYatra, the brainchild of the Ministry of Civil Aviation, allows airline passengers to be automatically processed based on a facial recognition system at several checkpoints including entry, security check and boarding aircraft."
-    publishedDateTime: 2022-12-01T10:25:00Z
-    webUrl: "https://www.firstpost.com/explainers/explained-india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work-10842621.html"
-    ampWebUrl: "https://www.firstpost.com/explainers/explained-india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work-10842621.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/explainers/explained-india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work-10842621.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 83
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2022/05/Bengaluru-Kempegowda-International-Airport.jpg"
-        width: 640
-        height: 362
-        isCached: true
   - title: "Government Introduces ‘DigiYatra’ Facial Recognition For Entry Into Airports; Netizens Call It Scary And Dystopian"
     excerpt: "The Ministry of Civil Aviation of the Government of India, has now introduced ‘DigiYatra’, an initiative to make your travel swift and seamless. Flyers will only need to check in with facial recognition that will allow quick airport entry and pre-security check."
     publishedDateTime: 2022-12-02T07:47:00Z
@@ -58,22 +42,6 @@ related:
       - url: "https://sm.mashable.com/t/mashable_in/photo/default/cvc_gmmq.620.png"
         width: 619
         height: 374
-        isCached: true
-  - title: "At 3 Airports In India, Facial Recognition-Based Entry From Today"
-    excerpt: "For a seamless and hassle-free air travel experience, India is set to launch a mechanism called Digi Yatra today."
-    publishedDateTime: 2022-12-01T09:09:00Z
-    webUrl: "https://www.ndtv.com/india-news/at-3-airports-in-india-facial-recognition-based-entry-from-today-3568817"
-    ampWebUrl: "https://www.ndtv.com/india-news/at-3-airports-in-india-facial-recognition-based-entry-from-today-3568817/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/at-3-airports-in-india-facial-recognition-based-entry-from-today-3568817/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 74
-    images:
-      - url: "https://c.ndtvimg.com/2019-05/soicn89g_airport-generic_625x300_10_May_19.jpg"
-        width: 650
-        height: 400
         isCached: true
   - title: "Bengaluru airport to use facial recognition for passengers to check-in"
     excerpt: "The Kempegowda International Airport (KIA) is one of the three airports in the country where passengers can experience a contactless and paperless check-in process. With the launch of Digi Yatra app by the Ministry of Civil Aviation,"
@@ -214,20 +182,6 @@ related:
       name: Oneindia
       domain: oneindia.com
     quality: 52
-  - title: "Face-recognition at 3 airports"
-    excerpt: "Passenger data shared for DigiYatra would be saved in an encrypted format in a decentralised manner, Union Civil Aviation Minister Jyotiraditya Scindia said here today."
-    publishedDateTime: 2022-12-02T01:53:00Z
-    webUrl: "https://www.tribuneindia.com/news/nation/face-recognition-at-3-airports-456716"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 39
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/12/2022_12$largeimg_1293944252.jpg"
-        width: 660
-        height: 448
-        isCached: true
   - title: "DigiYatra face recognition system launched at 3 airports, Scindia says data stored in encrypted format"
     excerpt: "The government on Thursday launched DigiYatra which will provide a seamless entry and embarkation process for air passengers at the airports in the National Capital, Bangalore and Varanasi."
     publishedDateTime: 2022-12-01T11:07:00Z
@@ -242,15 +196,6 @@ related:
         width: 642
         height: 409
         isCached: true
-  - title: "Govt rolls out facial recognition system DigiYatra at Delhi, Bengaluru and Varanasi airports"
-    excerpt: "To use this facility, one-time registration on the DigiYatra app is required using Aadhar-based validation and a self-image capture."
-    publishedDateTime: 2022-12-01T12:51:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/govt-rolls-out-facial-recognition-system-at-delhi-bengaluru-and-varanasi-airports-9634731.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 23
 
 secured: "Q/NYk/hRbHEQg5kGlvvLBrSSMPoSXcjAbmRKVCwN4+tAMaId73gyqjmQoggaqC758VKcIKUUBKFzZ1/9UxYY8ddnPknNjWK/wOnJG3VdCVkEo0JjDzdY9A2XmJMMMM2IGxKbFVkbfiKJO1aPBlhn33HzfrmDpnTh4+FSOGfK9rNEucVurcZN51iSH6xtr+Y6o+avqr8miyKpGQrf7wT2idNbVBy/0cVoPWWci0+E8qzfEIAZf6ODd2BrYhuJBzgITC3FOaUK/YK9NadWQYC5Tzai0rXasKKLCHgK2+7hor18vOd0WqoNH2KzkWypkoYU727xoeNuMKg4ltxsAIEVLG2xO2zS4BX1l5NwY+zLYC8Nw+uzQLNARTWzpT5G8EOKrtxcNIqDUMNPJ2jXvhuMk1dTIiiT9twYvSoekIhiWxG2g4DnUgqdsWt8bK4mFXr6kcJyctvO79uPX01C0hGkdnRpd7SOvg155sOnAAoB3j46DN4kIjOXASB9dGQkRCm9rp4AUqEStOqDY3FRMZHeQg==;0KWvrIC5QcfXHgxHohmf9g=="
 ---

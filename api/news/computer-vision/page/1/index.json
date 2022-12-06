@@ -97,6 +97,92 @@
       ]
     },
     {
+      "path": "_news/2022-12-02-government-introduces-digiyatra-facial-recognition-for-entry-into-airports-netizens-call-it-scary-and-dystopian.md",
+      "title": "Government Introduces ‘DigiYatra’ Facial Recognition For Entry Into Airports; Netizens Call It Scary And Dystopian",
+      "excerpt": "The Ministry of Civil Aviation of the Government of India, has now introduced ‘DigiYatra’, an initiative to make your travel swift and seamless. Flyers will only need to check in with facial recognition that will allow quick airport entry and pre-security check.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/42929/government-introduces-digiyatra-facial-recognition-for-entry-into-airports-netizens-call-it-scary-an",
+      "originalUrl": "https://in.mashable.com/tech/42929/government-introduces-digiyatra-facial-recognition-for-entry-into-airports-netizens-call-it-scary-an",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 192,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/cvc_gmmq.620.png",
+          "width": 619,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/42929/government-introduces-digiyatra-facial-recognition-for-entry-into-airports-netizens-call-it-scary-an?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/42929/government-introduces-digiyatra-facial-recognition-for-entry-into-airports-netizens-call-it-scary-an?amp=1",
+      "publishedDateTime": "2022-12-01T23:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "in.mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-airports-go-high-tech-face-recognition-at-delhi-bengaluru-and-varanasi-airports-what-does-this-mean.md",
+      "title": "Airports Go High Tech | Face Recognition At Delhi, Bengaluru and Varanasi Airports | What Does This Mean?",
+      "excerpt": "Airports have gone high tech in the country. In a bid to go paperless, face recognition will now be used in Delhi, Varanasi and Bengaluru airports. Union aviation minster announced that these three airports will implement the feature in the first phase followed by some more airports in the second phase.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/videos/mirror-now/society/airports-go-high-tech-face-recognition-at-delhi-bengaluru-and-varanasi-airports-what-does-this-mean-video-95929109",
+      "originalUrl": "https://www.timesnownews.com/videos/mirror-now/society/airports-go-high-tech-face-recognition-at-delhi-bengaluru-and-varanasi-airports-what-does-this-mean-video-95929109",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tnn.in/thumb/msid-95929109,imgsize-100,width-1280,height-720,resizemode-75/95929109.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/videos/mirror-now/society/airports-go-high-tech-face-recognition-at-delhi-bengaluru-and-varanasi-airports-what-does-this-mean-video-95929109/amp",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/videos/mirror-now/society/airports-go-high-tech-face-recognition-at-delhi-bengaluru-and-varanasi-airports-what-does-this-mean-video-95929109/amp",
+      "publishedDateTime": "2022-12-01T20:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-02-facial-strain-sensor-could-give-a-voice-to-the-voiceless.md",
       "title": "Facial strain sensor could give a voice to the voiceless",
       "excerpt": "While some assistance is available to individuals who lack the power of speech, verbally communicating with other people can still be challenging. A new face-worn strain sensor could help, as it's able to \"read\" the wearer's silently mouthed words.",
@@ -303,17 +389,17 @@
       "title": "Kami Vision Reveals the World’s First AI-Powered Camera Alarm System for the Entire Home with 24/7 Professional Monitoring",
       "excerpt": "Kami Vision, the computer vision company that provides AI solutions to enterprise, SMB and consumers, today announced Kami Pro Security, a professional-grade, video alarm system for use in residences and small businesses.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/e9654d74b4b143b98686bb8e46b7b520",
-      "originalUrl": "https://apnews.com/e9654d74b4b143b98686bb8e46b7b520",
+      "webUrl": "https://www.eagletribune.com/region/kami-vision-reveals-the-world-s-first-ai-powered-camera-alarm-system-for-the-entire/article_49e5329d-ee51-541e-bfbe-fa77d5602eaa.html",
+      "originalUrl": "https://www.eagletribune.com/region/kami-vision-reveals-the-world-s-first-ai-powered-camera-alarm-system-for-the-entire/article_49e5329d-ee51-541e-bfbe-fa77d5602eaa.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/8/3a/83af393c-2753-51f7-acf9-3b55ae4c37e1/6385daa75faa5.image.jpg?crop=1060%2C557%2C0%2C699&resize=1060%2C557&order=crop%2Cresize",
+          "width": 1060,
+          "height": 557,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -323,11 +409,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T02:01:00-08:00",
+      "publishedDateTime": "2022-11-29T01:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -592,6 +678,58 @@
         "name": "Buffalo News",
         "domain": "buffalonews.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-27-image-recognition-technology-market-2023-in-depth-insights-and-business-scenario-by-analysts-certification-2028-newst-96-pages-report.md",
+      "title": "Image Recognition Technology Market 2023 In-Depth Insights and Business Scenario, by Analysts Certification 2028 | Newst 96 Pages Report",
+      "excerpt": "Impact on the Image Recognition Technology market, and how it could impact business in the near and distant future. How big is the global Image Recognition Technology market? Who are the Top Image Recognition Technology manufacturer of the Industry?",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-technology-market-2023-in-depth-insights-and-business-scenario-by-analysts-certification-2028-newst-96-pages-report-2022-11-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-technology-market-2023-in-depth-insights-and-business-scenario-by-analysts-certification-2028-newst-96-pages-report-2022-11-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-27T02:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1246,162 +1384,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-how-the-dont-say-gay-law-is-affecting-florida-lgbtq-students-and-teachers.md",
-      "title": "How The “Don’t Say Gay” Law Is Affecting Florida LGBTQ Students And Teachers",
-      "excerpt": "There are many people who contributed to the formation of our country that deserve recognition,” she said ... parents have “the right to object to…materials used in classrooms based upon his or her belief regarding morality, sex, religion, or ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.buzzfeednews.com/article/hallielieberman/dont-say-gay-lgbtq-students-schools-florida",
-      "originalUrl": "https://www.buzzfeednews.com/article/hallielieberman/dont-say-gay-lgbtq-students-schools-florida",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2016-07/5/12/enhanced/buzzfeed-prod-fastlane03/dateline-3772-1467735734-1.png",
-          "width": 275,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/hallielieberman/dont-say-gay-lgbtq-students-schools-florida",
-      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/hallielieberman/dont-say-gay-lgbtq-students-schools-florida",
-      "publishedDateTime": "2022-11-18T06:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "buzzfeednews.com",
-        "domain": "buzzfeednews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-five-ways-android-13-has-supercharged-my-galaxy-s22-experience.md",
-      "title": "Five ways Android 13 has supercharged my Galaxy S22 experience",
-      "excerpt": "All you need to do is long press in the text area of an image, and the Optical Character Recognition (OCR ... When you draw a shape in an image — say, for highlighting a certain object by drawing around it — and hold on to the outline, it will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/mobile/samsung-one-ui-5-android-13-update-best-features-galaxy-s22/",
-      "originalUrl": "https://www.digitaltrends.com/mobile/samsung-one-ui-5-android-13-update-best-features-galaxy-s22/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/11/gesture-floating-window.jpg?p=1",
-          "width": 1800,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/mobile/samsung-one-ui-5-android-13-update-best-features-galaxy-s22/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/samsung-one-ui-5-android-13-update-best-features-galaxy-s22/?amp",
-      "publishedDateTime": "2022-11-18T04:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-the-mystic-of-mar-a-lago.md",
-      "title": "The Mystic of Mar-a-Lago",
-      "excerpt": "A fetish object, as identified by these biased Europeans who struggled ... to bring forth leaders who can see America in its totality. There must be lasting recognition of the young voters and the communities laboring nonstop to send Mr. Trump and his ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/11/18/opinion/trump-maga-fetish.html",
-      "originalUrl": "https://www.nytimes.com/2022/11/18/opinion/trump-maga-fetish.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/11/18/opinion/sunday/18ghansah-1NEW2/18ghansah-1NEW2-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/11/18/opinion/trump-maga-fetish.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/11/18/opinion/trump-maga-fetish.amp.html",
-      "publishedDateTime": "2022-11-18T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

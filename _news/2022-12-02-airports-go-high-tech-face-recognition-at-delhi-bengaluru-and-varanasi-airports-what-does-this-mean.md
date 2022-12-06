@@ -9,8 +9,8 @@ ampWebUrl: "https://www.timesnownews.com/videos/mirror-now/society/airports-go-h
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/videos/mirror-now/society/airports-go-high-tech-face-recognition-at-delhi-bengaluru-and-varanasi-airports-what-does-this-mean-video-95929109/amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 87
+published: true
 
 provider:
   name: timesnownews
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Face-recognition at 3 airports"
+    excerpt: "Passenger data shared for DigiYatra would be saved in an encrypted format in a decentralised manner, Union Civil Aviation Minister Jyotiraditya Scindia said here today."
+    publishedDateTime: 2022-12-02T01:53:00Z
+    webUrl: "https://www.tribuneindia.com/news/nation/face-recognition-at-3-airports-456716"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 39
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/12/2022_12$largeimg_1293944252.jpg"
+        width: 660
+        height: 448
+        isCached: true
   - title: "Facial Recognition Entry At Delhi, Bengaluru And Varanasi Airports Begins Today – Here’s How It Works"
     excerpt: "Facial recognition system DigiYatra has been launched today at three airports across the country - Delhi, Bengaluru and Varanasi."
     publishedDateTime: 2022-12-02T02:07:00Z
@@ -41,6 +55,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Govt rolls out facial recognition system DigiYatra at Delhi, Bengaluru and Varanasi airports"
+    excerpt: "To use this facility, one-time registration on the DigiYatra app is required using Aadhar-based validation and a self-image capture."
+    publishedDateTime: 2022-12-01T12:51:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/govt-rolls-out-facial-recognition-system-at-delhi-bengaluru-and-varanasi-airports-9634731.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 23
 
 secured: "ONHSfpoh4c5nTwQEpBQYC39iPpprvEXgerEAym7F/IFSdkWoCeHjVaXRiGSWk40GotMWv+WU2U6gejTnc9JSWI3msdWz+rJXqLFWwzkBmcWpO0SWxIuZLTLIEfF7fH/rlMXrgSMjwsn9erlgvmDH+/xsajTlFvchrmz0EK3cuesnUZI7c05ajLpwQgfvyy3RbgvnSLlFsNdETs+6/WA0c+wME4lkxvcdvkc0mAsv/tPDDLDtKowAUh44m7XibM6DN/V2IWyQ/N+ikQa0Ox04MpaWmsdzrRZ0n2QxBJVOaVSkHeQkafvi/HVCMQCQsdrdlY77VRwMUT4DyDCbmowyxFjNBgCM2/+zbXSEyMUkRcs=;aJj7cbOn/cCThvp5EtBY7Q=="
 ---

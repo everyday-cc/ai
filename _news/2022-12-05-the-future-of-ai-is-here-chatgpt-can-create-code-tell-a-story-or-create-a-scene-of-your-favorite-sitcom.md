@@ -119,6 +119,17 @@ related:
         width: 859
         height: 478
         isCached: true
+  - title: "The brilliance and weirdness of ChatGPT"
+    excerpt: "Like most nerds who read science fiction, I’ve spent a lot of time wondering how society will greet true artificial intelligence ... ways that could make it possible to create personalized therapy bots, for example. ChatGPT isn’t perfect, by any ..."
+    publishedDateTime: 2022-12-06T00:55:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/the-brilliance-and-weirdness-of-chatgpt/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/the-brilliance-and-weirdness-of-chatgpt/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/the-brilliance-and-weirdness-of-chatgpt/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 24
 
 secured: "3eA1KH4m+nfCrBYHMO3B9ZVFIF3fdO4GGAG+hvJ/KHYdyI2Yx+Blurv8rOPmpcCfkpTEo1CukMc4XDsVO4/HHDb/MRTuY9U6jXdU17sOtMtQrCc3U49V2UNIg2Gj6HaWgWp+ZtY3KOUtn/8eiMOi9DAPklimbGVkOAmcdbOZBjBmBRdjbVFarT/Yyxk0kr04x7qwgcJhU1lrFKPE2t+tH/sUGeGThsb/jwqWyjbkp/+yHmJNRZiVqoBCoZ3CAkVwYev1F9oa42qaoXT/OjjBRLVRufgjAYhk2eyWyOO8xN2Ni4W3jytAHZe1R0pYCuPgbs3KXI+Y0ipoYoIQh0wH72JwTd/U9smNswlYcZ7EKqcwGCuefoWHSfCtlwVJOB5ighNPDNilSFoRj/RBtOl13ho1cDhnJWoQMk1daKW3MSrUv9stUC9YCHvTZc/qY7h3SZ1UxrsEWYExdmI2zdLOvLeKrP65AKeDBUeIU2vrlfv1NQaL9uCPhWABLW8OuMLJz/9/nyd4N2N9iKr/2jlntQ==;F1Osj32d3Gi9PMPMQrSnxw=="
 ---

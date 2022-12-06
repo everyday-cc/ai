@@ -23,6 +23,17 @@ images:
     height: 900
     isCached: true
 
+related:
+  - title: "Machine learning diagnoses pneumonia by listening to coughs #ASA183"
+    excerpt: "Researchers have developed a machine learning algorithm to identify cough sounds and determine whether the subject is suffering from pneumonia. Because every room and recording device is different, they augmented their recordings with room impulse responses,"
+    publishedDateTime: 2022-12-05T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/972576"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
+
 secured: "btPjcYmonclT9xiHmGxk4kYhLLPkhhyEdRV3RgRLCkjyvrqyiFYqCgKKNECPJnQwe2WckAJ9LagNKuyFY1asChMOv5TQ4YhoNGcZpEo7kxToFBgjCWvpYQtuFeQ1YuG2WxHVMkYFSgyHE9bq49DDVJlLn4vLN36XJ7Cpal7MfnDammfcNsJiLiCR2C2Fvw4Gg9YqkcpiiMoHjdOkHLVpcvNunbmgKeJpHxu22CqJnZASq2ln+pGXT1fP7CRypMQ6AKBVn5cOEpIvy6imJo3IvHnD4weJH/ry3ngMvJ1JApsNQSGtNnOJjC1qH3aSHIimTXftk+OhNZclsKw5BA9KodMusnhuNV1ZIoS+4iuKC/g=;6faw7trLHuSa8jyWicp4Sg=="
 ---
 

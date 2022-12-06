@@ -2,6 +2,101 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-11-28-panzura-partners-with-aws-on-ransomware-counter-measures.md",
+      "title": "Panzura partners with AWS on ransomware counter-measures",
+      "excerpt": "Panzura might have slipped beneath the waves, but it’s come back reinvigorated, and now boasts integration with AWS with ransomware protection and Outposts hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252527732/Panzura-partners-with-AWS-on-ransomware-counter-measures",
+      "originalUrl": "https://www.computerweekly.com/news/252527732/Panzura-partners-with-AWS-on-ransomware-counter-measures",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computerweekly.com/visuals/LeMagIT/hero_article/Reseau-Donnees-Cloud-Monde.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252527732/Panzura-partners-with-AWS-on-ransomware-counter-measures?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252527732/Panzura-partners-with-AWS-on-ransomware-counter-measures?amp=1",
+      "publishedDateTime": "2022-11-28T01:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-28-whats-next-for-baidu-after-q3-earnings-beat.md",
+      "title": "What’s Next For Baidu After Q3 Earnings Beat?",
+      "excerpt": "Total revenue rose 2% year-over-year to 32.54 billion yuan ($4.55 billion), with adjusted net income rising by about 15% to 5.89 billion yuan ($828 million).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2022/11/28/whats-next-for-baidu-after-q3-earnings-beat/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2022/11/28/whats-next-for-baidu-after-q3-earnings-beat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63842e5e8fbec870944597a0/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2022/11/28/whats-next-for-baidu-after-q3-earnings-beat/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2022/11/28/whats-next-for-baidu-after-q3-earnings-beat/amp/",
+      "publishedDateTime": "2022-11-28T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-28-how-ai-ml-are-transforming-asset-management.md",
       "title": "How AI & ML are transforming Asset Management",
       "excerpt": "Asset management is the process of managing money by determining your financial objectives and then working to",
@@ -723,6 +818,58 @@
       ]
     },
     {
+      "path": "_news/2022-11-27-image-recognition-technology-market-2023-in-depth-insights-and-business-scenario-by-analysts-certification-2028-newst-96-pages-report.md",
+      "title": "Image Recognition Technology Market 2023 In-Depth Insights and Business Scenario, by Analysts Certification 2028 | Newst 96 Pages Report",
+      "excerpt": "Impact on the Image Recognition Technology market, and how it could impact business in the near and distant future. How big is the global Image Recognition Technology market? Who are the Top Image Recognition Technology manufacturer of the Industry?",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-technology-market-2023-in-depth-insights-and-business-scenario-by-analysts-certification-2028-newst-96-pages-report-2022-11-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-technology-market-2023-in-depth-insights-and-business-scenario-by-analysts-certification-2028-newst-96-pages-report-2022-11-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-27T02:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-27-commentary-tsa-faces-ethical-limits-in-use-of-ai-but-work-to-improve-the-technology-must-persist.md",
       "title": "Commentary: TSA faces ethical limits in use of AI. But work to improve the technology must persist",
       "excerpt": "Artificial intelligence has become a disruptive force in society. Terms such as machine learning, deep learning and neural networks have become commonplace among mainstream media, eliciting visions of",
@@ -1004,144 +1151,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-26-loab-is-showing-us-the-unimaginable-future-of-artificial-intelligence.md",
-      "title": "Loab is showing us the unimaginable future of artificial intelligence",
-      "excerpt": "Loab was created entirely by artificial intelligence. Loab(Supplied: Supercomposite) An AI-generated character might not sound so remarkable in an era of deepfakes and all manner of digital alchemy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc.net.au/news/2022-11-26/loab-age-of-artificial-intelligence-future/101678206",
-      "originalUrl": "https://www.abc.net.au/news/2022-11-26/loab-age-of-artificial-intelligence-future/101678206",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://live-production.wcms.abc-cdn.net.au/900ccc87eec14abd60b443ebc32e548b?impolicy=wcms_crop_resize&cropH=770&cropW=1369&xPos=0&yPos=0&width=862&height=485",
-          "width": 862,
-          "height": 485,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-26T02:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Australian Broadcasting Corporation",
-        "domain": "abc.net.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-26-artificial-intelligence-in-diagnostics-market-report-2022-research-with-future-trends-aidoc-medical-ge-healthcare-idx-technologies-inc.md",
-      "title": "Artificial Intelligence in Diagnostics market Report 2022 – Research with Future Trends Aidoc Medical, GE Healthcare, IDx Technologies Inc",
-      "excerpt": "Artificial intelligence techniques ranging from machine learning to deep learning are prevalent in healthcare for disease diagnosis, drug discovery, and patient risk identification. Artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-diagnostics-market-report-2022-research-with-future-trends-aidoc-medical-ge-healthcare-idx-technologies-inc",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-diagnostics-market-report-2022-research-with-future-trends-aidoc-medical-ge-healthcare-idx-technologies-inc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://xherald.com/wp-content/uploads/2022/11/AI-in-Diagnostics-2.jpg",
-          "width": 600,
-          "height": 359,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-25T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-26-speech-voice-recognition-systems-market-2022-industry-scenario-strategies-growth-factors-and-forecast-to-2028.md",
-      "title": "Speech & Voice Recognition Systems Market 2022 : Industry Scenario, Strategies, Growth Factors and Forecast to 2028",
-      "excerpt": "\" Speech and Voice Recognition Systems Market \" Insights 2022 - By Applications (Consumer Entertainment, Telematics, Home Applications, Enterprise Applications), By Types (, Hardware, Software, ), By Segmentation analysis,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/speech-voice-recognition-systems-market-2022-industry-scenario-strategies-growth-factors-and-forecast-to-2028-2022-11-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/speech-voice-recognition-systems-market-2022-industry-scenario-strategies-growth-factors-and-forecast-to-2028-2022-11-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-25T10:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

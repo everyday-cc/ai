@@ -57,15 +57,6 @@ related:
         width: 800
         height: 313
         isCached: true
-  - title: "Intel and Penn Medicine Announce Results of Largest Medical Federated Learning Study"
-    excerpt: "Intel Labs and the Perelman School of Medicine at the University of Pennsylvania (Penn Medicine) have completed a joint research study using federated learning - a distributed machine learning (ML) artificial intelligence (AI) approach - to help international healthcare and research institutions identify malignant brain tumors."
-    publishedDateTime: 2022-12-05T17:44:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/12/05/9724331.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "APce9phJf3W3h7LJQNVj8UYGxIXtOo1VeyrmV6qsVRQI7WJst4pkLXzUPK9/zwQKlN8OFGCs+ghIfO1eiD+/T5qw4IWlUIFChHyOjUpCXaRbQGRoWfoPXDoBQksI+dTebFKlo0dWdw7Ni0bQqsCY4/eWmfbQlyVbwl3W2LO3R7Uo0m0Qma6yH6sooXfIcN3oi/WBzAd02Uh0X+UGUs5kgCe29Aiu29WF489ISvj8kzp9WhWfG0+VV5HRwWJWIYxDPBF4NySX0M3XbcD3mrMRAfPuszWjPeIzoz3koiuiRIyIYzZSTbFy+Vrkt2Z0Kt6EIHOxwHCEckpG/SZeQrvJ8LY9ukYKAgD2XltgxOSR8Rk=;qaR+Fre4g8FhqpKD4IALEg=="
 ---

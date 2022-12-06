@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/12/01/now-ai-can-outmaneuver-you-at-both
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/01/now-ai-can-outmaneuver-you-at-both-stratego-and-diplomacy/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/deepminds-new-ai-app-p.jpg"
         width: 797
         height: 446
+        isCached: true
+  - title: "DeepMind’s New AI Uses Game Theory to Trounce Humans in ‘Stratego’"
+    excerpt: "Now, you can now add the strategy game Stratego to that ever-growing list. Researchers from Alphabet-owned DeepMind, according to new research shared with Gizmodo, say they’ve created a new AI ..."
+    publishedDateTime: 2022-12-02T08:41:00Z
+    webUrl: "https://www.gizmodo.com.au/2022/12/deepminds-new-ai-uses-game-theory-to-trounce-humans-in-stratego/"
+    ampWebUrl: "https://www.gizmodo.com.au/2022/12/deepminds-new-ai-uses-game-theory-to-trounce-humans-in-stratego/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/12/deepminds-new-ai-uses-game-theory-to-trounce-humans-in-stratego/amp/"
+    type: article
+    provider:
+      name: gizmodo
+      domain: gizmodo.com.au
+    quality: 74
+    images:
+      - url: "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/12/02/deepmind-stratego.png?quality=80&resize=1280,720"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Here’s how a new AI mastered the tricky game of Stratego"
     excerpt: "Stratego creates a unique challenge for computers to solve. It's what's known in game theory as an “imperfect information game.”"

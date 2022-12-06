@@ -71,15 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Market | Size, Share, Growth, Demand, Sales, Trends, Competitive Landscape and Regional Outlook with Industry Forecast to 2028"
-    excerpt: "The global Computer Vision Market report focused on a thorough examination of the industry's current and future"
-    publishedDateTime: 2022-12-01T10:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-size-share-growth-demand-sales-trends-competitive-landscape-and-regional-outlook-with-industry-forecast-to-2028-2022-12-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
 
 secured: "vCAsRT8P/kgIFlZOaRZHkb23VOrCO1Xw7ndAs41tEJwbc3JCtaaDRj0VfC4ZlPIAMVwe+DwQ08THv22zJ9PZ4akReya4v/e97gPGafMB+2TmqkuMkrfTLx3azi9zja0kmv9jnORuR9ZEEMV8SJ5Q0luvMxegVhFJFIHXk9syYjTg2ALoENVIU6HOcxL6ghBKzZ1rzwtozeIuIGbyrt/DrNkyNgL1s/8d2wsR+9zry5kqgnREhcXEtLkV24f9soQpuIYimwmj+qYSRxl/5zWxc1/Nua4IWdHhovtxMJ2KKQHbOVgMIn2kpG9217lzI5yWEPQ9/oO3Fio8LN2GWbsZ787Cj118IhE74s3USy34iwc=;tZbC7rlQCCFpnoAE20/O+w=="
 ---

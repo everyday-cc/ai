@@ -77,6 +77,20 @@ related:
         width: 4896
         height: 3672
         isCached: true
+  - title: "Five top takeaways from AWS re:Invent 2022"
+    excerpt: "This is an interesting contrast to CES 2022 that kicked off the year, which drew about 45,000, way down from the close to 200,000 it typically gets. To me, the massive draw for re:Invent indicates that live events are back and people have a thirst to not just to connect with their peers but to engage actively,"
+    publishedDateTime: 2022-12-06T01:09:00Z
+    webUrl: "https://siliconangle.com/2022/12/05/five-top-takeaways-aws-reinvent-2022/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/awsreinvent2022-asktheexperts.jpg"
+        width: 4896
+        height: 3672
+        isCached: true
 
 secured: "DhuSovUK5UT8voqOr+t6CwhIA8Q/JrJdd+XqCOTtbYAdfIRCmoQObYEn24Ec4wsYrFzggzz+LeITRsZH7ZHDkKMYpyyzkVfE1c+dLAxy2huhx3p31JxeIrkTT7SpDwpWqKZ19mrG08kotwviH8QzUIkqRsUjLQuM8kV7wZ4HklfuLYqPg1ztlUKYLxGkVB/obQXDQXh460tien8OTSP3i2hUXssMqp+FGqEcy8zeNitrULcX5O5PDbQryjifHxpMi/8LsaMymy3bBDeBW/0fLRxdIQRykjR7HPfa/Wy+N0Qw0mUT+ePmd3Xklr/cfRNzhacdKxisSV9COepXL07NmAM9OPouAos9PF9ItN4ihip9nR4kIWFoTmYRdso0HZWkSQOGyBo2+Ds59ujVAGA5Dj3j716+3YrU6timbQraYn2iRZ6IquXZtoF4sBScGTyuYQt0FVZPc95BhWccu93gjSwWch93jQwUvJtQ1P+Ze7FNPJ7bTM7I06ToYaYzBBiL4lKY4hHrOh0gfpjYxaQhVQ==;bMitcJ6J9ib5BWqx43wMUA=="
 ---
