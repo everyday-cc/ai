@@ -71,15 +71,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Ludo upgrades its generative AI tools for game creativity"
-    excerpt: "Ludo is using generative AI to help game developers be more productive. The point isn't to wipe out jobs. It's to make them more creative."
-    publishedDateTime: 2022-12-01T14:30:00Z
-    webUrl: "https://venturebeat.com/games/ludo-upgrades-its-generative-ai-tools-for-game-creativity/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "Runway Raises $50 Million At $500 Million Valuation As Generative AI Craze Continues"
     excerpt: "Runway ML, one of the two startups behind the popular AI text-to-image model Stable Diffusion, has raised new funding at a $500 million valuation, Forbes has learned."
     publishedDateTime: 2022-12-05T20:19:00Z

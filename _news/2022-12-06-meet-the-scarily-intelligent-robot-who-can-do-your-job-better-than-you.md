@@ -24,22 +24,6 @@ images:
     height: 536
     isCached: true
 
-related:
-  - title: "MIT Scientists Are Making Intelligent Autonomous Robots That Can Build Larger Versions Of Themselves"
-    excerpt: "At what point does scientific advancement progress to the point of spelling our own demise? Perhaps this latest research by Massachusetts Institute of"
-    publishedDateTime: 2022-12-01T13:46:00Z
-    webUrl: "https://brobible.com/culture/article/self-replicating-autonomous-robots-intelligence/"
-    type: article
-    provider:
-      name: BroBible
-      domain: brobible.com
-    quality: 26
-    images:
-      - url: "https://brobible.com/wp-content/uploads/2022/12/robots-working.png"
-        width: 1222
-        height: 705
-        isCached: true
-
 secured: "/nLP702hv3wXtO6HA4hqpWQwz0JWYYsVpd64cI0IfUKwVaj7ZDJzNxzdyGMnBeAr/SaEr3QG9xLmmru5bIcREw/CtKQSiuWeHBpKvObGnbWas1IB09yT0Gz3KeDyGeeUpyywdOQFWnhdHpGlW6FT8PYAbCM4IaHn5scLdkAYjazkl8oA1HVvfN0snCN2F/CZV5qWzXtEdCL454RFSay8IMJMkFkgwTkpwxTA7GBPL2AdDy0dsoY3LCauupSxlN7G24SaEUIhDobkwVOKq2PgufCm3v9brEu860vB5x2Lk7CJeJ6/4TEV2mfBWHHpvR7S0ST2P+Sxw4ZzARRh3vm2mpb6tP4rgV3aGGOTQG5nmE8=;H4Z5JUwGeXo04gCUwlp8ZA=="
 ---
 

@@ -36,15 +36,6 @@ related:
         width: 1530
         height: 1018
         isCached: true
-  - title: "Digital healthcare is here to stay"
-    excerpt: "Medical technology is taking another step beyond telemedicine, with digital healthcare as the next scientific frontier. The aim of digital healthcare, argue businesses trying to get into that space, is to increase the quality of care for patients while lowering costs."
-    publishedDateTime: 2022-12-02T04:00:00Z
-    webUrl: "https://www.washingtonexaminer.com/policy/healthcare/digital-healthcare-walmart-amazon-innovation"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 19
 
 secured: "6XuhOer717QlQ7oTI/sceqEqsnDLN7pKQfGm0+FJ1pIYaU97K0wyCsQstEyt7LMV9+nOQ5xaStYU+83R2qDLFg6Mtv0ADDW3GdYxjzAnveVOU46TLOxOayReYDptOUMXiUM3+/Ka87CmRvgQ0vnKd61CKPlbZ+/Q19dC3GQh2bCk523VTM5eC+8EbXOXXcp45IgxQHeU/g+JbhCCkipQmaSbgrqix+bYj4jFpmgqt425hobjKZD42xdobfg6FgpeA1Trr+aKzeSwPTwXrmFm7X5A8E2yDziUQ9I900GEZmogz0zisXbwF+4qfDhamSWrw8BC8X7u2Up/3W0VuUhG4xBBHFPFtsLkYqlG5mkJhsI=;wldp/9PeofueYtRavF8eDw=="
 ---

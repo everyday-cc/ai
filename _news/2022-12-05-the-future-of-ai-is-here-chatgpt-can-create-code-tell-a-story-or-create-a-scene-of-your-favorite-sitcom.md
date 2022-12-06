@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "ChatGPT AI Explained: Why Everyone's Chatting About This New Chatbot"
+    excerpt: "ChatGPT is an AI chatbot system that OpenAI released in November to show off and test what a very large, powerful AI system can accomplish. You can ask it countless questions and often will get an answer that's useful."
+    publishedDateTime: 2022-12-06T06:19:00Z
+    webUrl: "https://www.cnet.com/tech/computing/chatgpt-ai-explained-why-everyones-chatting-about-this-new-chatbot/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/chatgpt-ai-explained-why-everyones-chatting-about-this-new-chatbot/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/chatgpt-ai-explained-why-everyones-chatting-about-this-new-chatbot/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/resize/084641681c8362c3ce0c3eb8a53365351adcaaac/hub/2022/12/06/3dd7180c-d0e7-47ca-bc37-b5df15a41a25/ai-chat-gettyimages.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "OpenAI’s ChatGPT shows why implementation is key with generative AI"
     excerpt: "OpenAI released ChatGPT this week, and it's a great example of why user experience is the future for generative AI."
     publishedDateTime: 2022-12-02T17:10:00Z
@@ -57,6 +73,36 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "A new AI chatbot is getting buzz for being able to have intelligent-sounding conversations, write music, and even code"
+    excerpt: "ChatGPT is an artificial intelligence chatbot that is trained to answer a wide range of questions about different topics in a conversational way."
+    publishedDateTime: 2022-12-05T18:37:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-new-ai-chatbot-conversation-with-questions-answers-examples-2022-12"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-new-ai-chatbot-conversation-with-questions-answers-examples-2022-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-new-ai-chatbot-conversation-with-questions-answers-examples-2022-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+    images:
+      - url: "https://i.insider.com/638e3d6554ac0f001950f98c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "AI Chatbots Are Getting Better. But an Interview With ChatGPT Reveals Their Limits"
+    excerpt: "This summer, Google fired one of its engineers who had become convinced that one of its chatbots had reached sentience. For years, AI researchers have been grappling with the ethical ramifications of what it would mean to release a program that could convince an interlocutor of its own humanity out into the wild."
+    publishedDateTime: 2022-12-05T21:28:00Z
+    webUrl: "https://time.com/6238781/chatbot-chatgpt-ai-interview/"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: time.com
+    quality: 63
+    images:
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
+        isCached: true
   - title: "ChatGPT is taking the world by storm – the viral AI bot explained"
     excerpt: "The sophistication of ChatGPT has many speculating whether the AI bot could replace journalists, authors and screenwriters."
     publishedDateTime: 2022-12-05T16:00:00Z
@@ -72,6 +118,22 @@ related:
       - url: "https://media.citizen.co.za/wp-content/uploads/2022/12/chatcpt-ai.jpg"
         width: 2309
         height: 1299
+        isCached: true
+  - title: "As chatbot sophistication grows, AI debate intensifies"
+    excerpt: "California start-up OpenAI has released a chatbot capable of answering a variety of questions, but its impressive performance has reopened the debate on the risks linked to artificial intelligence (AI) technologies."
+    publishedDateTime: 2022-12-04T11:42:00Z
+    webUrl: "https://techxplore.com/news/2022-12-chatbot-sophistication-ai-debate.html"
+    ampWebUrl: "https://techxplore.com/news/2022-12-chatbot-sophistication-ai-debate.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-chatbot-sophistication-ai-debate.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/the-start-up-openai-de.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Explainer | Everything you need to know about AI bot ChatGPT"
     excerpt: "The AI bot known as ChatGPT has taken the internet by storm but what exactly is it, and how does it work? ChatGPT is a conversational dialogue model, trained by AI and machine learning to understand and respond to natural human language."
@@ -105,19 +167,61 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "OpenAI debuts new conversational AI system"
-    excerpt: "OpenAI LLC on Wednesday detailed ChatGPT, an artificial intelligence system that can understand and answer complex natural language questions. ChatGPT is based on the advanced GPT-3 neural network that OpenAI first debuted in 2020. GPT-3 can perform a ..."
-    publishedDateTime: 2022-12-01T20:40:00Z
-    webUrl: "https://siliconangle.com/2022/12/01/openai-debuts-new-conversational-ai-system/"
+  - title: "Stack Overflow temporarily bans ChatGPT from platform"
+    excerpt: "The platform’s moderators are aiming to slow the rise of answers created with the AI tool, especially since the average rate of getting an answer that is correct is low"
+    publishedDateTime: 2022-12-05T12:44:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/369641/stack-overflow-temporarily-bans-chatgpt-from-platform"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 54
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/openai.png"
-        width: 859
-        height: 478
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1670242933/itpro/2022/December/AI_Chatbot_GettyImages-1364050120.jpg"
+        width: 1260
+        height: 710
+        isCached: true
+  - title: "A|I: The AI Times – Turing tested: ChatGPT is craaaazy"
+    excerpt: "The AI Times is a weekly newsletter covering the biggest AI ... The investment is aimed at supporting Sanctuary’s $120.8 million project to develop what the startup claims to be the “world’s first functioning human-like intelligence in general ..."
+    publishedDateTime: 2022-12-05T16:19:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-turing-tested-chatgpt-is-craaaazy/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 39
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2022/12/chatbot-bubble.jpg"
+        width: 1050
+        height: 700
+        isCached: true
+  - title: "AI chatbot outgrows ‘goldfish’ stage"
+    excerpt: "California-based start-up OpenAI Inc has released a chatbot capable of answering a variety of questions, but its impressive performance has reopened the debate on the risks linked to artificial intelligence (AI) technologies."
+    publishedDateTime: 2022-12-04T16:00:00Z
+    webUrl: "https://www.taipeitimes.com/News/biz/archives/2022/12/05/2003790112"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 37
+    images:
+      - url: "https://www.taipeitimes.com/images/2022/12/05/P12-221205-328.jpg"
+        width: 866
+        height: 577
+        isCached: true
+  - title: "This AI chatbot is dominating social media with its frighteningly good essays"
+    excerpt: "By Samantha Murphy Kelly, CNN Business Imagine if Siri could write you a college essay, or Alexa could spit out a movie review in the style of Shakespeare. OpenAI last week opened up access to ChatGPT,"
+    publishedDateTime: 2022-12-06T02:50:00Z
+    webUrl: "https://krdo.com/money/cnn-social-media-technology/2022/12/05/this-ai-chatbot-is-dominating-social-media-with-its-frighteningly-good-essays/"
+    type: article
+    provider:
+      name: KRDO
+      domain: krdo.com
+    quality: 36
+    images:
+      - url: "https://krdo.b-cdn.net/2022/12/hypatia-h_e843decdf5f99a549e6eebdbf661e114-h_e7ecb66b527590d44df8089b6f701afb-300.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "The brilliance and weirdness of ChatGPT"
     excerpt: "Like most nerds who read science fiction, I’ve spent a lot of time wondering how society will greet true artificial intelligence ... ways that could make it possible to create personalized therapy bots, for example. ChatGPT isn’t perfect, by any ..."
@@ -130,6 +234,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 24
+  - title: "This AI chatbot is blowing people’s minds. It thinks out of the box, comes up with detailed answers"
+    excerpt: "From historical arguments to poems on cryptocurrency, users took to Twitter to share their surprise at the detailed answers ChatGPT provided, after the startup sought user feedback on the AI model Wednesday."
+    publishedDateTime: 2022-12-03T06:20:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/this-ai-chatbot-is-blowing-peoples-minds-it-thinks-out-of-the-box-comes-up-with-detailed-answers/articleshow/95955667.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 23
+    images:
+      - url: "https://img.etimg.com/thumb/msid-95956151,width-1070,height-580,imgsize-2336114,overlay-ettech/photo.jpg"
+        width: 1070
+        height: 580
+        isCached: true
 
 secured: "3eA1KH4m+nfCrBYHMO3B9ZVFIF3fdO4GGAG+hvJ/KHYdyI2Yx+Blurv8rOPmpcCfkpTEo1CukMc4XDsVO4/HHDb/MRTuY9U6jXdU17sOtMtQrCc3U49V2UNIg2Gj6HaWgWp+ZtY3KOUtn/8eiMOi9DAPklimbGVkOAmcdbOZBjBmBRdjbVFarT/Yyxk0kr04x7qwgcJhU1lrFKPE2t+tH/sUGeGThsb/jwqWyjbkp/+yHmJNRZiVqoBCoZ3CAkVwYev1F9oa42qaoXT/OjjBRLVRufgjAYhk2eyWyOO8xN2Ni4W3jytAHZe1R0pYCuPgbs3KXI+Y0ipoYoIQh0wH72JwTd/U9smNswlYcZ7EKqcwGCuefoWHSfCtlwVJOB5ighNPDNilSFoRj/RBtOl13ho1cDhnJWoQMk1daKW3MSrUv9stUC9YCHvTZc/qY7h3SZ1UxrsEWYExdmI2zdLOvLeKrP65AKeDBUeIU2vrlfv1NQaL9uCPhWABLW8OuMLJz/9/nyd4N2N9iKr/2jlntQ==;F1Osj32d3Gi9PMPMQrSnxw=="
 ---

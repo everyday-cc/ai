@@ -35,34 +35,6 @@ related:
         width: 800
         height: 313
         isCached: true
-  - title: "Artificial Intelligence in Medicine Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028"
-    excerpt: "Artificial intelligence (AI) is a branch of computer science that deals with the design of intelligent agents,"
-    publishedDateTime: 2022-12-05T06:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-12-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Global Investor, Latest Trends, Industry Growth, Size, Segmentation, Future Demands, by Regional Forecast to 2028"
-    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations"
-    publishedDateTime: 2022-12-02T09:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-investor-latest-trends-industry-growth-size-segmentation-future-demands-by-regional-forecast-to-2028-2022-12-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "ciIjxGXCKJtJQtRQQbgCAknUmZHY8sf/plDAcG5buqX4pd86CGkv1EoFPpnWZCX9O6gT6p+7q8KXvylf2PTwGpXovPXHW4E7D7ml2TzrK+GMJz52qDn1Ciq20pddXnExGqZtXVgrmwa23PUfhunCu/k/NL/C8Zw407qCo2FvaOrX21yqZnUY2PlkdP0ZZQ0k6GHgmGIPzeVe6b19f/5hNkpGvOsEcgG192Woyz8E6efjko0m5eW6RbpQpOxlA4ugZUKaOcAs5w5elINZ/UowV24JXNaD5v52NS/0lie5O+gQaOA3aKuB+rpubK/Txm5DQVOTxJ62jfFL8GiIdDGWOUwiKI9iapEYARlziEBOK98=;NTCQRpMEi+mdP8E4HwHcUQ=="
 ---

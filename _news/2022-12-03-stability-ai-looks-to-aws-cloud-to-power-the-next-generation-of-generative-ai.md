@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/stability-ai-looks-to-aws-cloud-to-power-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stability-ai-looks-to-aws-cloud-to-power-the-next-generation-of-generative-ai/amp/"
 type: article
 quality: 103
-heat: 183
+heat: 173
 published: true
 
 provider:
@@ -76,15 +76,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Ludo upgrades its generative AI tools for game creativity"
-    excerpt: "Ludo is using generative AI to help game developers be more productive. The point isn't to wipe out jobs. It's to make them more creative."
-    publishedDateTime: 2022-12-01T14:30:00Z
-    webUrl: "https://venturebeat.com/games/ludo-upgrades-its-generative-ai-tools-for-game-creativity/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "Runway Raises $50 Million At $500 Million Valuation As Generative AI Craze Continues"
     excerpt: "Runway ML, one of the two startups behind the popular AI text-to-image model Stable Diffusion, has raised new funding at a $500 million valuation, Forbes has learned."
     publishedDateTime: 2022-12-05T20:19:00Z

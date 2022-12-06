@@ -7,8 +7,8 @@ originalUrl: "https://www.bbntimes.com/science/ai-can-help-therapists-ease-menta
 webUrl: "https://www.bbntimes.com/science/ai-can-help-therapists-ease-mental-healthcare"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: bbntimes
@@ -34,15 +34,6 @@ related:
       name: WebMD
       domain: webmd.com
     quality: 40
-  - title: "Digital healthcare is here to stay"
-    excerpt: "Medical technology is taking another step beyond telemedicine, with digital healthcare as the next scientific frontier. The aim of digital healthcare, argue businesses trying to get into that space, is to increase the quality of care for patients while lowering costs."
-    publishedDateTime: 2022-12-02T04:00:00Z
-    webUrl: "https://www.washingtonexaminer.com/policy/healthcare/digital-healthcare-walmart-amazon-innovation"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 19
 
 secured: "pmzb2JeqwsnnFwv5/CvqDFX13ivS5ExKx38qwAKlxhzS8qDnIPcheQ6IvWT6w06Wu5gozou1PsXgEbO33o2aCpQmAvD2EJwe5qQWp8WazgGhet96JiAFiHw83IImS78N6K6xYep3K179fq6Oa3G3QXcFXZcSrD1hv2GFN/xuHAoSkZ+9DozwVqqmD/l4FGHea6pbsYat7L7yWPfSDpDfjIyv5BWUec5dGxh1mNWa0k7pKRWWPbW0ktdUYCa9BPnVeD3CH8OKH5lf1pwYktBDifQ1qIeLHGUXoDWyXrPkGvRgBIc7JJ6axp2w79xJZXnEcJ8YsAeP4YbOPzCZcjJDSMbKYyX8Xbdb4oCJq0n4X4c=;QYx56gde9iaJb8RlTRfoVA=="
 ---

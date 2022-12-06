@@ -29,17 +29,31 @@ images:
     isCached: true
 
 related:
-  - title: "The TSA’s facial recognition technology may expand nationwide in 2023"
-    excerpt: "The TSA could potentially expand their facial recognition identification system nationwide in 2023. Veuer’s Maria Mercedes Galuppo has the story."
-    publishedDateTime: 2022-12-05T18:29:00Z
-    webUrl: "https://www.stltoday.com/travel/the-tsa-s-facial-recognition-technology-may-expand-nationwide-in-2023/video_38bac7aa-6efd-5d13-a2e8-da170da078c0.html"
+  - title: "Artificial Intelligence in Education Market 2023 : Impressive Growth Rate, Regional Insights, Competitive Outlook, and Geographical Divisions 2028"
+    excerpt: "\" Artificial Intelligence in Education Market \" Insights 2022 - By Applications (Teaching Application, Evaluation Application, Management Application, Others), By Types (, Convenient for Educational Affairs,"
+    publishedDateTime: 2022-12-06T00:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2023-impressive-growth-rate-regional-insights-competitive-outlook-and-geographical-divisions-2028-2022-12-05"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/8b/38bac7aa-6efd-5d13-a2e8-da170da078c0/638e23ea02321.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Software Market Size 2023 Report Examines Latest Trends and Key Drivers Supporting Regional Outlook 2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \" Artificial Intelligence Software Market \" Insights 2022 - By Applications (Voice Processing, Text Processing,"
+    publishedDateTime: 2022-12-06T00:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-size-2023-report-examines-latest-trends-and-key-drivers-supporting-regional-outlook-2028-2022-12-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true

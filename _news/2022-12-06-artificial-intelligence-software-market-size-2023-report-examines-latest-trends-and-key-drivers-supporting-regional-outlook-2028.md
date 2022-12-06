@@ -28,35 +28,33 @@ images:
     isCached: true
 
 related:
-  - title: "Data Science and Machine Learning Service Market 2023 | Projected to Deliver Greater Revenues during the Forecast Period 2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Data Science"
-    publishedDateTime: 2022-12-02T04:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-2023-projected-to-deliver-greater-revenues-during-the-forecast-period-2028-2022-12-02"
+  - title: "Artificial Intelligence in Education Market 2023 : Impressive Growth Rate, Regional Insights, Competitive Outlook, and Geographical Divisions 2028"
+    excerpt: "\" Artificial Intelligence in Education Market \" Insights 2022 - By Applications (Teaching Application, Evaluation Application, Management Application, Others), By Types (, Convenient for Educational Affairs,"
+    publishedDateTime: 2022-12-06T00:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2023-impressive-growth-rate-regional-insights-competitive-outlook-and-geographical-divisions-2028-2022-12-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 42
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "The Worldwide Federated Learning Industry is Expected to Reach $198.7 Million by 2028 at a 11.1% CAGR"
-    excerpt: "The \"Global Federated Learning Market Size, Share & Industry Trends Analysis Report By Application, By Vertical, By Regional Outlook and Forecast, 2022 - 2028\" report has"
-    publishedDateTime: 2022-12-01T20:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/12/n29932719/the-worldwide-federated-learning-industry-is-expected-to-reach-198-7-million-by-2028-at-a-11-1-cag"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29932719"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29932719"
+  - title: "Facial Recognition Devices Market 2023 Research Report Analysis by TOP Competitors, Demand and Size Share Estimation by 2028, Market Divergence"
+    excerpt: "What are the Key Industry Development in Facial Recognition Devices Market? A facial recognition device stems from a purpose-built combination of high-end hardware components and efficient software to automatically identify or verify a person from a digital image,"
+    publishedDateTime: 2022-12-02T05:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-2023-research-report-analysis-by-top-competitors-demand-and-size-share-estimation-by-2028-market-divergence-2022-12-02"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
     images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png"
-        width: 666
-        height: 282
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "H8Ygh9HvRlF60gjBButWLiOz0cJhoyl0pEf1pXKb2XYM6GZwYPn+yR0XEIqSMNhVwywHEMBSSc4eRFE+7OhAMGtK/5G5PdtgdpblGi0S30rW5i97LX4oR2IBbE6w7L2qwLpbj1WN1Ac8GcHlLMDfMhN+WSeZQFShIsy00nrdrPwUH3gEgm/Dlw69mms2NcUSb5iUqwbwaoBn/+UAtOB8ubEPYuo/aF9n2AC7qxwTYZeU9+K55kQ3aS1IPHg4MHXILz9tQmoafYjgz8ubLplKmlajmArCb1Ra2GfD/rlBe6OsEqcdSyoJj1B2Zsvc4pNeaE/YvbbbdmnYcUqsX3zFF3dA+L/w8QkPNOrIHCW2wHc=;n+KCcQwLdYJU+lFxtSKN8Q=="

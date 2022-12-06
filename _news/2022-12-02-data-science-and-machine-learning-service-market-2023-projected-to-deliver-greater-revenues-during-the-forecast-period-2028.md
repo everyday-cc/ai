@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Software Market Size 2023 Report Examines Latest Trends and Key Drivers Supporting Regional Outlook 2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \" Artificial Intelligence Software Market \" Insights 2022 - By Applications (Voice Processing, Text Processing,"
-    publishedDateTime: 2022-12-06T00:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-size-2023-report-examines-latest-trends-and-key-drivers-supporting-regional-outlook-2028-2022-12-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The Worldwide Federated Learning Industry is Expected to Reach $198.7 Million by 2028 at a 11.1% CAGR"
     excerpt: "The \"Global Federated Learning Market Size, Share & Industry Trends Analysis Report By Application, By Vertical, By Regional Outlook and Forecast, 2022 - 2028\" report has"
     publishedDateTime: 2022-12-01T20:30:00Z

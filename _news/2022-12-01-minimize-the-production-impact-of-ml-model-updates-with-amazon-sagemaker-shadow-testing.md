@@ -207,20 +207,6 @@ related:
         height: 444
         isCached: true
   - title: "Domo Joins the Amazon SageMaker Ready Program"
-    excerpt: "Today Domo (Nasdaq: DOMO) announced it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner software solutions that are validated by Amazon Web Services ..."
-    publishedDateTime: 2022-12-01T14:06:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/domo-joins-the-amazon-sagemaker-ready-program/article_6242ae1d-7680-5d90-8e69-4e80187adef3.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 39
-    images:
-      - url: "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg"
-        width: 350
-        height: 455
-        isCached: true
-  - title: "Domo Joins the Amazon SageMaker Ready Program"
     excerpt: "Domo today announced it has joined the Amazon SageMaker Ready Program. This designation helps customers discover"
     publishedDateTime: 2022-12-01T17:02:00Z
     webUrl: "https://www.datanami.com/this-just-in/domo-joins-the-amazon-sagemaker-ready-program/"
