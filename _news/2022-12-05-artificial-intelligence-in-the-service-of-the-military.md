@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 629
         isCached: true
+  - title: "AHAI, the AI Based Multi Symptom Check and Therapy Recommendation Platform to be Released in the First Quarter of 2023"
+    excerpt: "LAS VEGAS, NV / ACCESSWIRE / / Alternative Health, Inc, the US based medical company announced that it will be releasing its evidence based diagnostic and recommendation platform to the public in the"
+    publishedDateTime: 2022-12-06T16:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/12/ac29979799/ahai-the-ai-based-multi-symptom-check-and-therapy-recommendation-platform-to-be-released-in-the-f"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29979799"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29979799"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 50
+    images:
+      - url: "https://www.accesswire.com/users/newswire/images/730462/kpvw3onlpimll72idprqlvo2pftwml3r1hdijq68xwcg9rmzcm.jpg"
+        width: 1600
+        height: 948
+        isCached: true
 
 secured: "ZhZIEHu8Bj4R/lp6JdyurjDIvsxZlnKUB/meMKbAZkKAMhW2hF7JGCX8GgPVwHpCthX97V+zO+2oA1ZkJqYvWThcH5UF7UJuSTa/c34W0myHccXE5v5DSRT2sXeopjB6Mjx/XPSAPqRoSX7oD4TEEd4uCRwXrXvNBLmPc2gYRpXbAizueLXVv/NSYfHun+seECy9DvlC/RmGQA9m5p9C56qFX1VV4aL7YLGnEkVEytdae2RtAmhET7vWcFaxjnypcXfLrFwNoQBR7uFq2Ic+N+RJuSKLLmhGuhmI8uo00LNz49onaCsBacdBnFpSAdhQH4w+q41dPNOxvJc5rJ0G15+KyP4dqqnfYUWfTq4ZzHvDaAVau1DkTdlkYQhow0VIru+RKwNGlgl2jpuCxYtodM+oxuqOSLGHw9xjp9V6G8rLMFgOfzTE7XmB8ZBNVEl2bZ3QjJogs5MWtWAZXvghkOfnyDGLmq+QzBaP1lnGPqy9+h72wHk3rHdjbasaYbobpiLYEw1c/2byO+396rxuYQ==;gbwoHcU+d1zx6TYEONRoYQ=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2022-12-06T15:54:00Z
 originalUrl: "https://www.networkworld.com/article/3681995/successful-ai-implementations-hinge-on-trust.html"
 webUrl: "https://www.networkworld.com/article/3681995/successful-ai-implementations-hinge-on-trust.html"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://images.idgesg.net/images/article/2022/12/ai-microprocessor-on-motherboard-computer-circuit.jpgs1024x1024wisk20csizgfhl8ddcxabuxkaoegq9tecra3qp2vbji5lcxtbu-100935209-large.jpg?auto=webp&quality=85,70"
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "RCHrJ923KX1eLGSxMa3HNWaDE5tlUQfxv9/bynUAfm0ScgAb8NXifL7aTsfwbAaVdva0YN28V5lReeKuNqDEtIwA5uREhvctd6Q3e325r0Ut0D/eSoXmQkgPAebwb2SUJWvp41vgfadACD/zR4wa+ZnSRA1Iwo15N4fTVoHdro5TVgfli6hpplErOtGYqwhXLmYubXfzOKutketuXEFs0O4rDwn+mOxG+4rMqm62Pyo244+z2iEebcnjIDfvYjxMYX4YCYkuIxZdFWuW35mfpVVP5IaUM32K62K+tEcHcqnoV3/II65bC/EraCKRRw4j8jK3M6kPqL5xIOx38K/nQbVCESLQwt04OZTLuMzs32g=;I8DpSd0PArz5RDL999f8vw=="
+secured: "08T33FY3jAo2OSQSw55+HnxZKwXMec+7NibbnfmIlJC7hzK+kkmYbNJ824gwCtswac9hAk3b6Bp+R46QPSU3USvp5fmdYy9/m8iDeUehy2O7C0MPBySa4SOS7SyrmQ1wHca5QP6BndKEfbnCJ3CtaBudc6Qra5Uqon3LrAKw+o11jC5IS/s+DPMsHYb+Nd8Qpu/VsQbH3hXe+4fwMgqat5giHpD4ivw9J5XqhACDYFuEnV7rNKTRUm6H3jQ/tBGJ9foaDQuJyr00h2l9Fafiz81Fl5fGqhbbIC+ztvc1Mp1R3qPUIsQ5a62zvvP4pPd3w8kRvgmtMT30EBeLKx3yiwxY3zPIYFbZ12w9V/EUYzzIIckeK1yaIZiiubaPY/5nrZe1obzFaZJGHA5vt9ZzC26WUMo5JGaGZiIFIutS1v2rKvq+sSr7RHtFwnNFDJj0q6bFY5DZvn+jODBnJkjj/DyDA8ZHwrhPtmcM3ZsbL1jebQVLOwd+3PqFfAsJu02ZnvjJQ588zyH4hLYGCSPjGQ==;RhxbYvveM2SDr7IKO5NjXA=="
 ---
 

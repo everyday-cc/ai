@@ -25,6 +25,7 @@ topics:
   - Machine Learning
   - AI in Healthcare
   - AI in Autos
+  - AI in Robotics
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/4540138c5a94e1211ab4775544b48650380c3b89/2022/12/01/9bb85d12-1a32-4015-8f8a-d1f852c5e3cc/david-chalmers-2022-5.jpg?auto=webp&fit=crop&height=675&width=1200"

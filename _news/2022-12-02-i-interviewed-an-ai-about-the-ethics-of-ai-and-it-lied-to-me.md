@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-an-ai-about-the-ethics-of-aiand-it-lied-to-me/amp/"
 type: article
 quality: 108
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -64,6 +64,22 @@ related:
       - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/518195"
         width: 640
         height: 428
+        isCached: true
+  - title: "AHAI, the AI Based Multi Symptom Check and Therapy Recommendation Platform to be Released in the First Quarter of 2023"
+    excerpt: "LAS VEGAS, NV / ACCESSWIRE / / Alternative Health, Inc, the US based medical company announced that it will be releasing its evidence based diagnostic and recommendation platform to the public in the"
+    publishedDateTime: 2022-12-06T16:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/12/ac29979799/ahai-the-ai-based-multi-symptom-check-and-therapy-recommendation-platform-to-be-released-in-the-f"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29979799"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29979799"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 50
+    images:
+      - url: "https://www.accesswire.com/users/newswire/images/730462/kpvw3onlpimll72idprqlvo2pftwml3r1hdijq68xwcg9rmzcm.jpg"
+        width: 1600
+        height: 948
         isCached: true
 
 secured: "WHh68OxaUK+YGiGU7kKZfpG82GhuUd68AXst4XvyLZmXO/l2RPyDFwrnbh+2lXASqN+RIvffqy7AewdpybGKpLABlc2EndYy+PlafIQtl9x27evlvwEV9I+S6jWEzGndnbPxKAf1UOjUGIct4IgkWybCwN19LUKcgapS5l/IFKARx9GTyyH+1SCIoqOrLwX55+rD1X1l/vEtOX4DlSde4nCKzwc41fXj2qx6o+eTVfjlosrxBAaii/I9YhVymC0LBA99kJYX+bXd28spRbKdMNFmdrvh+9exO04Clu6M3fQdtu1Kw+mvqm8Q0iPcBZAGJAW581m3QHit9nd50F0F1d7X2rGvPZTbp0/svRRhEX83WhC2ajsbLTZsnyCP9X3g59gF+qlsnTXFtY16sxu0etzlEO82pxuLVAItrt0WoBeQD5142roHS3N3aBSyTezD/Gv+GL6SSaR1t4emgF7JDFwBJNcEU5gTzxiBfBn2jD+1qwbe75wdIvywBggUV2mFfvdGxWuUlNiWA8nbslb6Ig==;OALbqUPXKsujVeiNvdFPOw=="

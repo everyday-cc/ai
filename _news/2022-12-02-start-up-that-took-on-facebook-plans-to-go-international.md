@@ -55,17 +55,15 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "After taking on Facebook, this startup is setting its sights on the world"
-    excerpt: "A Vietnamese internet startup that’s successfully defended its home market of 100 million people against global giants like Facebook is now going into attack mode. VNG Corp, Vietnam’s answer to Tencent Holdings Ltd."
-    publishedDateTime: 2022-12-02T01:40:00Z
-    webUrl: "https://www.theedgesingapore.com/news/digital-economy/after-taking-facebook-startup-setting-its-sights-world"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/news/digital-economy/after-taking-facebook-startup-setting-its-sights-world"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/news/digital-economy/after-taking-facebook-startup-setting-its-sights-world"
+  - title: "Meta Platforms (META) Adds Age Verification to Facebook Dating"
+    excerpt: "Meta Platforms META recently announced that it is introducing age verification technology to Facebook Dating in the U.S. to prevent users under the age of 18 to access experiences meant to be enjoyed as adults."
+    publishedDateTime: 2022-12-06T15:27:00Z
+    webUrl: "https://www.nasdaq.com/articles/meta-platforms-meta-adds-age-verification-to-facebook-dating"
     type: article
     provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 23
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
   - title: "After taking on Facebook, Vietnam startup is setting its sights on the world"
     excerpt: "A Vietnamese Internet startup that's successfully defended its home market of 100 million people against global giants like Facebook is now going into attack mode."
     publishedDateTime: 2022-12-02T04:06:00Z

@@ -69,17 +69,15 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "After taking on Facebook, this startup is setting its sights on the world"
-    excerpt: "A Vietnamese internet startup that’s successfully defended its home market of 100 million people against global giants like Facebook is now going into attack mode. VNG Corp, Vietnam’s answer to Tencent Holdings Ltd."
-    publishedDateTime: 2022-12-02T01:40:00Z
-    webUrl: "https://www.theedgesingapore.com/news/digital-economy/after-taking-facebook-startup-setting-its-sights-world"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/news/digital-economy/after-taking-facebook-startup-setting-its-sights-world"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/news/digital-economy/after-taking-facebook-startup-setting-its-sights-world"
+  - title: "Meta Platforms (META) Adds Age Verification to Facebook Dating"
+    excerpt: "Meta Platforms META recently announced that it is introducing age verification technology to Facebook Dating in the U.S. to prevent users under the age of 18 to access experiences meant to be enjoyed as adults."
+    publishedDateTime: 2022-12-06T15:27:00Z
+    webUrl: "https://www.nasdaq.com/articles/meta-platforms-meta-adds-age-verification-to-facebook-dating"
     type: article
     provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 23
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
 
 secured: "4N9JAWbE7ENHJvzR+170BapL/lpW9TLfzMsnSQVhKnTIIvjdtM95lLOV68C+trMwu0WbFVaAoIxOqRKZFPEWQfmKzTMSjfo8aN7O0+U73ZFfK9Qe/bkuQobfk2wdOR8V7jAZXr7bsS64anvLlE+K7gogiK4IngH4kbHK6Dlogx62uA8Ik68NLndmw1k5bGAt6qgc0hx/2tKKVg+Tppg0oPN0lpHESArIVkinfXEmg+XhRV4Yi4P1RknJ2LdxUNKgauBLvUTj9E1T1PYPpmSEOIiCvGXR0Itd/WqoBosJnjaTPUaoZgFmh0fSwjDO8jN2J2KalWYw9vuOyiSZLAiBoXm0KYvSOM6u5y+nQ4re11nqriME1yB09wTL2ZvBANggAiysM0poa+wOwm2e4SZa2yfdaqOkDxjCSQoIVzRuMjJGTKFfjgla2+E4bCvBoi/ZN4illyz4sMRUx+kHJN8SCSxHxVqZ5tDkdTepUnDfsZWFN8tDGBLq9jGT2XO1+7MJNitjGqPMhKX+2OTu1MUHDQ==;Ziu9AdHXUwyh4pm6/AnHGw=="
 ---

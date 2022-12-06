@@ -7,7 +7,7 @@ originalUrl: "https://www.fleetowner.com/technology/article/21255863/kodiak-awar
 webUrl: "https://www.fleetowner.com/technology/article/21255863/kodiak-awarded-department-of-defense-contract-to-develop-autonomous-army-vehicles"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Kodiak Robotics Awarded $50 Million Contract to Develop Driverless Army Vehicles"
+    excerpt: "Kodiak Robotics, a leading self-driving truck startup, disclosed that it has been awarded a two-year, USD49 Million contract from the U.S. Department of Defense to help automate U.S. Army ground vehicles."
+    publishedDateTime: 2022-12-06T18:24:00Z
+    webUrl: "https://www.financialbuzz.com/kodiak-robotics-awarded-50-million-contract-to-develop-driverless-army-vehicles/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 66
+    images:
+      - url: "https://www.financialbuzz.com/wp-content/uploads/2022/12/Inside-6.jpg"
+        width: 506
+        height: 345
+        isCached: true
 
 secured: "TBXaG1N8bs7ol1tlTPHunkoy7ZZ6DQWxMn/3cmsRPm3wWLK6qVC4LteaBrOxGSWdngcm8pW8JM54+/eMfyLCpNv/rKejRcwXIHhTvwPAg3ONCSZhMRE5NhQMMAT0lm9d2rchlntHFn3CQUHXp7edEn2zxttZjCaCvkazCdIgzeng2a5MPmh+DO3uiYFpCGesLtWPYJJoaK4R/CgpEEc1TcDJ5gLgi2bh/MuSUWeScWox3jSl0SrEbXeUVWH3+IH+9FaPNjtuPIs5GMxcxX0lU+O+cgF3D0qG2pTu9AUReK0Lrmn3n9F54GyFiueCdTqL4oQlYMHAqtMuprbMn6W0YEmSvO4AH5Zf9sj3N07B0WLAGRVMzB+x1ByslWJL+WX57lKT1jgQMa56B5+4mdX/+5kd/lAOFxh2u28bIT6YMr/U5lJAGJ2VV5PYHXVLy6FpXZxguPi1xcODY/AukKAVAIy5k29qfDqyCw1df3WCq7+VOmeZgGXEed7He5bRy4EiAqvti8XCJuZm2fGEC/lt7Q==;y1VAIJk8eErI5qdiM5XNbw=="
 ---

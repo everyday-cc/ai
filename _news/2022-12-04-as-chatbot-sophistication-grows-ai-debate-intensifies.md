@@ -120,6 +120,22 @@ related:
         width: 2309
         height: 1299
         isCached: true
+  - title: "The workings of ChatGPT, the latest natural language processing tool"
+    excerpt: "The latest artificial intelligence tool is creating a buzz among computer scientists and programmers due to its creative capabilities. The tool has been developed by OpenAI, a research institute found"
+    publishedDateTime: 2022-12-06T17:10:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/the-workings-of-chatgpt-the-latest-natural-language-processing-tool/article66230152.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/the-workings-of-chatgpt-the-latest-natural-language-processing-tool/article66230152.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/the-workings-of-chatgpt-the-latest-natural-language-processing-tool/article66230152.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/5jpiou/article66232021.ece/alternates/FREE_1200/iStock-1206801125.jpg"
+        width: 1200
+        height: 608
+        isCached: true
   - title: "Explainer | Everything you need to know about AI bot ChatGPT"
     excerpt: "The AI bot known as ChatGPT has taken the internet by storm but what exactly is it, and how does it work? ChatGPT is a conversational dialogue model, trained by AI and machine learning to understand and respond to natural human language."
     publishedDateTime: 2022-12-04T12:17:00Z

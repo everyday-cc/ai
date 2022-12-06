@@ -1,10 +1,12 @@
 ---
 category: news
-title: "Baidu Announces Plan To Build The World's Largest Fully Driverless Ride-Hailing Service Area In 2023"
-excerpt: "This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday. Want the fastest, most accurate stock market intelligence? Want EXCLUSIVE ..."
-publishedDateTime: 2022-11-29T07:04:00Z
-originalUrl: "https://www.benzinga.com/news/22/11/29881998/baidu-announces-plan-to-build-the-worlds-largest-fully-driverless-ride-hailing-service-area-in-2023"
-webUrl: "https://www.benzinga.com/news/22/11/29881998/baidu-announces-plan-to-build-the-worlds-largest-fully-driverless-ride-hailing-service-area-in-2023"
+title: "Baidu Announces Plan to Build the World's Largest Fully Driverless Ride-Hailing Service Area in 2023"
+excerpt: "Baidu plans to establish the world's largest fully driverless ride-hailing service ... Closed-loop data system to further enhance the intelligence of autonomous driving With autonomous vehicles ..."
+publishedDateTime: 2022-11-29T06:20:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29881903/baidu-announces-plan-to-build-the-worlds-largest-fully-driverless-ride-hailing-service-area-in-202"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/n29881903/baidu-announces-plan-to-build-the-worlds-largest-fully-driverless-ride-hailing-service-area-in-202"
+ampWebUrl: "https://www.benzinga.com/amp/content/29881903"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29881903"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "2Dp/vxXeUBPLkfIbUZUDNYXonSKIAK/iaMYUcoSRclDVVvzO5VVryFsOGq2FzJGOR295o3Hz+WRJYKAVRlBjIQ4IVvJzvlPooewfG6zXd5+5OEsU5h8p1wiURkClfAgvszjpcFFXOkN01Alr8RN996p5eRV7S3de2XF1QwEqOqnMtsq3bu5/fV/psY7Kdi6VNFiZl6JwfIw5mvnsf87EeQ+mO912paOA8Yq9OEDB2ZTQY6iA7CalPBTjB4O3GrXauyrTkIQzJkbSP0g8SHUjI+kUYlnBCM/9Ra7boY8U4MAmWVGKhgTNt9dIZbW72TWC5haxHk9EkFiV6XY1MMIg1hAXPhpIhMRG3yDrsF0+y0s=;OjJ/4SA2eKiZBwxxr5jGhw=="
+images:
+  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
+    width: 800
+    height: 313
+    isCached: true
+
+secured: "IGOZPXisFQYpMPhR93QSAY3towFpRF2FF8MdkHvmQhS7ra5CiqDN5BWjPkSi0tkgsSh/uLd49SHqPQMNp078rSZ03yNiVv0kgwVQouGOFN3kQMQgHDQ8CR9QUJkoDgmQc9LHm4Ikc4xHpKRuxDeVUgxgtlWasZ2/e0HpObFa6NfdKzbA5kffrk9/S6yAOJFvFamh2YU9ra7CF5QD4q1Ug72Vx3T1x4WD/ZB8K2fqrq/IJkrG5JcpzZoeEWUuUb17UmbYAYwGKyekjQGlav8xZYiF4qPAnfRKITEqV2BTbu8o6YB9nFR7Sk1S78hamlDaP6rC50l4sDLI+/9PTVy5CYCE3pVNSc8Ig8wevY4nMbk=;BDKG++jMBktO3xXbAlbR5w=="
 ---
 

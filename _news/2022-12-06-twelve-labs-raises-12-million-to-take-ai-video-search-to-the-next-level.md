@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Twelve Labs raises $12M for its AI-powered video search platform"
-    excerpt: "Twelve Labs Inc., the developer of a search platform that enables users to quickly find moments of interest in a video, has raised $12 million from investors. Twelve Labs announce"
-    publishedDateTime: 2022-12-05T18:14:00Z
-    webUrl: "https://siliconangle.com/2022/12/05/twelve-labs-raises-12m-ai-powered-video-search-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/image-1.png"
-        width: 1300
-        height: 700
-        isCached: true
   - title: "Here's the exclusive 14-slide pitch deck that Veriti used to raise a $12 million Series A for its AI-cybersecurity platform"
     excerpt: "See the pitch deck that Veriti used to raise its $12 million Series A round. Cybersecurity is getting expensive, with consulting firm Gartner projecting some $169 billion in global spending this year, a more than 14 percent increase since 2021."
     publishedDateTime: 2022-12-06T14:00:00Z
