@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 18511919
+        "followers": 18512604
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -40,7 +40,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 680,
+      "heat": 679,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_400x400.png",
@@ -75,7 +75,7 @@
       "twitter": {
         "username": "Uber",
         "url": "https://twitter.com/Uber",
-        "followers": 1087310
+        "followers": 1087316
       },
       "yearFounded": 0,
       "locations": [
@@ -117,7 +117,7 @@
       "twitter": {
         "username": "cruise",
         "url": "https://twitter.com/cruise",
-        "followers": 35850
+        "followers": 35856
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -180,7 +180,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 103781
+        "followers": 103784
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -244,7 +244,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 77148
+        "followers": 77149
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -355,7 +355,7 @@
       "twitter": {
         "username": "StarshipRobots",
         "url": "https://twitter.com/StarshipRobots",
-        "followers": 12654
+        "followers": 12655
       },
       "size": "201-500 employees",
       "yearFounded": 2014,
@@ -742,7 +742,7 @@
       "twitter": {
         "username": "Aptiv",
         "url": "https://twitter.com/Aptiv",
-        "followers": 18114
+        "followers": 18113
       },
       "yearFounded": 0,
       "locations": [
@@ -831,7 +831,7 @@
       "twitter": {
         "username": "aurora_inno",
         "url": "https://twitter.com/aurora_inno",
-        "followers": 13994
+        "followers": 13995
       },
       "size": "201-500 employees",
       "yearFounded": 2016,
@@ -1098,7 +1098,7 @@
       "twitter": {
         "username": "gatik_ai",
         "url": "https://twitter.com/gatik_ai",
-        "followers": 1328
+        "followers": 1329
       },
       "size": "11-50 employees",
       "yearFounded": 2017,
@@ -1608,7 +1608,7 @@
       "twitter": {
         "username": "NautoInc",
         "url": "https://twitter.com/NautoInc",
-        "followers": 3717
+        "followers": 3718
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
