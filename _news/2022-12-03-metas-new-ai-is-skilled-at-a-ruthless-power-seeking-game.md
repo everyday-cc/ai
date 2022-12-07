@@ -27,7 +27,7 @@ related:
     provider:
       name: The Economist
       domain: economist.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20221210_WBD001.jpg"
         width: 1280

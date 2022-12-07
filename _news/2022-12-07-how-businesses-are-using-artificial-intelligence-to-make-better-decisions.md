@@ -9,7 +9,7 @@ ampWebUrl: "https://m.scoop.co.nz/stories/BU2212/S00103/how-businesses-are-using
 cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2212/S00103/how-businesses-are-using-artificial-intelligence-to-make-better-decisions.htm"
 type: article
 quality: 58
-heat: 58
+heat: 68
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 400
     height: 400
     isCached: true
+
+related:
+  - title: "A new film festival will only show movies made using AI"
+    excerpt: "Runway ML, the artificial intelligence startup that was instrumental in creating the text-to-image tool Stable Diffusion, began taking submissions today for an AI Film Festival slated for February that will only showcase movies created with the help of AI."
+    publishedDateTime: 2022-12-07T09:00:00Z
+    webUrl: "https://www.fastcompany.com/90820457/a-new-film-festival-will-only-show-movies-made-using-ai"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "mUXueydoq5zy4Iij1aeKI0aQXZaCdWOnl4i4wuGh/xETUq64z9Tb5qxQNoEbRFEiwUIZ0eQ5BSCywzja8UrbpjJ8X9JpIu3oMTRI4EDwI8Q1wQXTwsGREnyYHM2JLCI6vSIDNZaM338cu4rTd6nKs7hKwxc+wXG2gBwRL6qmpj4w4OzyufpJy3Y2PKjpfsJJfXw/g7Ef1M2Gla8zanuegHdue1ne8ZCsrtz6q3tBYfvxQfh8bO8L2uzEpVedWiMFFJ5GqKALwHZmUfWiPdX1mf4Ajij2iYAbO3tzQoMnH70TNcadLRk3aR70xBtrc+xxB1YLC6QUYrE6dDqND5eV9xSXmS69mUM9T3EPR1r46Do=;HkHFAHcoRk6E+q+36wwC0w=="
 ---

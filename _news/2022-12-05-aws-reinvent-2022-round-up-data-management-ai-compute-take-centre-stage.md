@@ -48,6 +48,15 @@ related:
         width: 4896
         height: 3672
         isCached: true
+  - title: "AWS re:Invent Recap: 20 Biggest Products And Announcements"
+    excerpt: "Invent 2022 new products, partnerships and big news announcements focus on AI, security, data, IBM, Red Hat, Accenture, AWS Marketplace and cloud innovation."
+    publishedDateTime: 2022-12-07T19:13:00Z
+    webUrl: "https://www.crn.com/news/cloud/aws-re-invent-recap-20-biggest-products-and-announcements"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 19
 
 secured: "srqMB6GK0X+2MOkzuLZgqZt3akxE3QtGob2dFksyVZPMlOKFw6xOHIxXrnHfSPtSOcmJqnx9JZYLeCKoIANLb2Q4HGWy53CoO0w1imN9j3fBnGsZwKo7e+EdHF4t6+uEWkPeBx8sT5DUnTZ6W2BUj90t6dIyYLETOeSzqfpALUBmOUv6R3oSSozdsJVX6FCGsc0zwLxmcuOiN+t32ddnsdkCdABrp7MYFvWKicuORbs983jHJln8pLz1xNuFGk8Q4WJ+hJ0CUvJMUsU29PfqPcJcWTjPwKAgvuvVbfzrizokfwOJj7N4CwnrJmOfvPeMTnVHdGjKfBTiUePcax7RQbx5hAd170kaRvk6GL74CxI=;+sDHe7ywBECNdXLScSLgZQ=="
 ---

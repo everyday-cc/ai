@@ -236,6 +236,15 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "ChatGPT and Lensa: Why Everyone Is Playing With Artificial Intelligence"
+    excerpt: "Two internet sensations give non-nerds a turn with powerful software, yielding surprising wit and stunning avatars."
+    publishedDateTime: 2022-12-07T15:38:00Z
+    webUrl: "https://www.wsj.com/articles/everyone-in-your-feed-is-talking-about-chatgpt-and-lensa-and-heres-why-11670356499"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
   - title: "A|I: The AI Times – Turing tested: ChatGPT is craaaazy"
     excerpt: "The AI Times is a weekly newsletter covering the biggest AI ... The investment is aimed at supporting Sanctuary’s $120.8 million project to develop what the startup claims to be the “world’s first functioning human-like intelligence in general ..."
     publishedDateTime: 2022-12-05T16:19:00Z
@@ -300,20 +309,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 24
-  - title: "This AI chatbot is blowing people’s minds. It thinks out of the box, comes up with detailed answers"
-    excerpt: "From historical arguments to poems on cryptocurrency, users took to Twitter to share their surprise at the detailed answers ChatGPT provided, after the startup sought user feedback on the AI model Wednesday."
-    publishedDateTime: 2022-12-03T06:20:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/this-ai-chatbot-is-blowing-peoples-minds-it-thinks-out-of-the-box-comes-up-with-detailed-answers/articleshow/95955667.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 23
-    images:
-      - url: "https://img.etimg.com/thumb/msid-95956151,width-1070,height-580,imgsize-2336114,overlay-ettech/photo.jpg"
-        width: 1070
-        height: 580
-        isCached: true
   - title: "The future of AI is here: ChatGPT can create code, tell a story, or create a scene of your favorite sitcom"
     excerpt: "AI has never looked so advanced as it is now with OpenAI's ChatGPT. Iit has been mind-blowing for users over social media."
     publishedDateTime: 2022-12-05T15:18:00Z

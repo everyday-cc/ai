@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-07T20:02:00Z
 originalUrl: "https://techxplore.com/news/2022-12-automatic-road-features-deep.html"
 webUrl: "https://techxplore.com/news/2022-12-automatic-road-features-deep.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: techxplore

@@ -110,6 +110,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Ring keeps pushing the boundaries for facial recognition in US policing"
+    excerpt: "The number of United States law enforcement agencies using Ring's social media application Neighbors is large and growing."
+    publishedDateTime: 2022-12-07T21:36:00Z
+    webUrl: "https://www.biometricupdate.com/202212/ring-keeps-pushing-the-boundaries-for-facial-recognition-in-us-policing"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/27132556/data-privacy-scaled.jpg"
+        width: 2048
+        height: 1257
+        isCached: true
   - title: "TSA to Expand Facial Recognition Tested in DFW to Airports Across America"
     excerpt: "American Airlines launched Mobile ID at DFW Airport, enabling customers enrolled in TSA PreCheck to “breeze through the airport with just their phone and their face.” The TSA has since expanded the use of facial recognition technology to 16 airports—and it now plans to roll out the optional service to airports across the U."
     publishedDateTime: 2022-12-06T20:38:00Z

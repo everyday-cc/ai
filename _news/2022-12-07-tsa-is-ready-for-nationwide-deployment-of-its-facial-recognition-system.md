@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/96871-tsa-ready-nationwide-deploymen
 webUrl: "https://www.techspot.com/news/96871-tsa-ready-nationwide-deployment-facial-recognition-system.html"
 type: article
 quality: 69
-heat: 150
+heat: 160
 published: true
 
 provider:
@@ -109,6 +109,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/8b/38bac7aa-6efd-5d13-a2e8-da170da078c0/638e23ea02321.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Ring keeps pushing the boundaries for facial recognition in US policing"
+    excerpt: "The number of United States law enforcement agencies using Ring's social media application Neighbors is large and growing."
+    publishedDateTime: 2022-12-07T21:36:00Z
+    webUrl: "https://www.biometricupdate.com/202212/ring-keeps-pushing-the-boundaries-for-facial-recognition-in-us-policing"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/27132556/data-privacy-scaled.jpg"
+        width: 2048
+        height: 1257
         isCached: true
   - title: "TSA to Expand Facial Recognition Tested in DFW to Airports Across America"
     excerpt: "American Airlines launched Mobile ID at DFW Airport, enabling customers enrolled in TSA PreCheck to “breeze through the airport with just their phone and their face.” The TSA has since expanded the use of facial recognition technology to 16 airports—and it now plans to roll out the optional service to airports across the U."

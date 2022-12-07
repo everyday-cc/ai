@@ -57,20 +57,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Snowflake becomes available in UK on Microsoft Azure"
-    excerpt: "UK organisations using Snowflake services will maintain data residency while embracing the potential of the data cloud thanks to availability on Microsoft Azure."
-    publishedDateTime: 2022-12-06T10:46:00Z
-    webUrl: "https://www.cloudcomputing-news.net/news/2022/dec/06/snowflake-becomes-available-in-uk-on-microsoft-azure/"
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 69
-    images:
-      - url: "https://www.cloudcomputing-news.net/wp-content/uploads/sites/2/2020/03/real-snowflakes-closeup-picture-id1183438449.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Tata Tele Business to offer Microsoft Azure to SMBs"
     excerpt: "Microsoft Azure offers essential compute, storage and networking resources on demand, on a pay-as-you-go-basis."
     publishedDateTime: 2022-12-07T07:32:00Z

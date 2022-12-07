@@ -114,6 +114,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Ring keeps pushing the boundaries for facial recognition in US policing"
+    excerpt: "The number of United States law enforcement agencies using Ring's social media application Neighbors is large and growing."
+    publishedDateTime: 2022-12-07T21:36:00Z
+    webUrl: "https://www.biometricupdate.com/202212/ring-keeps-pushing-the-boundaries-for-facial-recognition-in-us-policing"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/27132556/data-privacy-scaled.jpg"
+        width: 2048
+        height: 1257
+        isCached: true
   - title: "Kiwi Educational Robot KaiBot Wins International Recognition On Its First Outing"
     excerpt: "KaiBot may have just come into the world, but it’s already teaching kids and teachers a thing or two about technology. In fact, two months before its official launch date, KaiBot, the little AI-enabled learning robot designed to help five-15-year-old children develop coding skills,"
     publishedDateTime: 2022-12-06T18:07:00Z

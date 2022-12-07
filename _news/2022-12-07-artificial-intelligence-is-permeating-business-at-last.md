@@ -6,8 +6,8 @@ publishedDateTime: 2022-12-06T19:47:00Z
 originalUrl: "https://www.economist.com/business/2022/12/06/artificial-intelligence-is-permeating-business-at-last"
 webUrl: "https://www.economist.com/business/2022/12/06/artificial-intelligence-is-permeating-business-at-last"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:

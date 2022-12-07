@@ -41,6 +41,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "TuSimple, Navistar Scrap Deal to Develop Self-Driving Trucks"
+    excerpt: "TuSimple Holdings Inc and Navistar have ended a deal to co-develop self-driving trucks, the companies announced on Monday. In 2020, Illinois-based Navistar bought a minority stake in TuSimple and announced a deal to co-develop heavy-duty self-driving trucks by 2024,"
+    publishedDateTime: 2022-12-05T23:05:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2022-12-05/tusimple-navistar-scrap-deal-to-develop-self-driving-trucks"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
 
 secured: "GnnY7RT5kib9gkomyTx4TQLTpsXHqGeq3BjY2xP54maAS60td7xq+n+ePYai+aY/KvD3b4deRMET1QdXqGWkVy1Ikb6sJHcVxSrxVGj7N13otfddnP0YWgU+QhTxr1cKXFxF2wp0HQSyYTuEa9kxOHlDH30W6LYL8ETZ5M/kFJgrvldzV12tMEBrGtrpFdqwJAiK/EocbwEzjlQX+8KCICHZOD10T3rPDvGXBneFLSdqWPrXAzno3OBlAsHXC2EjDiNyDH2669O08X1gCj+CcK+41xamG3bC3mGqi2qsEDOEHMbzxbwEe8j262cZa/aVKR4BxJMEdKh8uAV02sM6WjC8e+C5CPwnKFPyd8jMpNE6nDA/zmQvnuvVblEqyhybOLjhiDeJwcsaCTz4UlJmKcd7DI+9g7F28QtBhBt453y4bgLVaF5WwWGlIEKqCZLGymNx60e+p/uxGz++nE7KNCScgheCQWo+3jtah3MpQDMQO4NZKRaRrQ+PTe4yCz16rGRZ5Q+F7LyZe3Z1s8FRIg==;aHDcVyyAX8CCCznQ6g4Jew=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/carolinamilanesi/2022/12/03/sustainab
 webUrl: "https://www.forbes.com/sites/carolinamilanesi/2022/12/03/sustainability-and-inclusion-take-centerstage-at-aws-reinvent/"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -51,6 +51,15 @@ related:
         width: 4896
         height: 3672
         isCached: true
+  - title: "AWS re:Invent Recap: 20 Biggest Products And Announcements"
+    excerpt: "Invent 2022 new products, partnerships and big news announcements focus on AI, security, data, IBM, Red Hat, Accenture, AWS Marketplace and cloud innovation."
+    publishedDateTime: 2022-12-07T19:13:00Z
+    webUrl: "https://www.crn.com/news/cloud/aws-re-invent-recap-20-biggest-products-and-announcements"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 19
 
 secured: "PbEKgF/8C7+et4ZMxRsOZ+1oiCRYFUrvGFjMmSc0fOqOYUW+7plkWHQTtz67oriDjJcCJu19RgMxgQv//zT2zIzUuOisKIwk6PjnTKAbqptaS7VymJX4ZP1H0gaCsfC8yndhkXWzNlXlZCweg4Ndb2Q9Ul7SEM+7J2bzjYHvSw0yV4r8hYJIWzD0EIru0c4dKjFE0KKFkKcb/4NztEqGRQjWO/oI9XuOSmn7hb8d9I+SgCYSvtoXYR9WfJR2qc5QV737vL/eBdgQlWy/q8EgqSg4n0fqPEST9JfnHntyrabhSPCmPZNlCC/gmYpi6+kS+FpeVmWAARa6zX00qIxmNH+eVIP68E2d5rj7rjzbQJ8NNtxKmFlj2+A6QWBX1UJcgYS+mI6Ag7W0iDzy8AbUUv6RTlMvhwjGwUCOEXpHmqKKq14sMaei21s2ATgxIGNYoRPjKEQj26J4T5s/wj2NRAHjKLjE57u7Tvj2SevlcUdXQWYx7oX7rk2EtejYEBqNd1bfLRhxWq+rPiPmEU3g1Q==;qsJLettpVrzBE+GCwt05pw=="
 ---

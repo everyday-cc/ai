@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-07T11:10:00Z
 originalUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2022-12-07/editorial-roundup-united-states"
 webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2022-12-07/editorial-roundup-united-states"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: San Diego Union-Tribune

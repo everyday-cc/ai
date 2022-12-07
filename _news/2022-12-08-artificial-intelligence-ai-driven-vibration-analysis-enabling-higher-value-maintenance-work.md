@@ -22,11 +22,18 @@ related:
     excerpt: "FinancialNewsMedia.com News Commentary - More and more over the past few years, it's been said that machines have their own language… and it's growing all the time"
     publishedDateTime: 2022-12-07T12:50:00Z
     webUrl: "https://www.benzinga.com/pressreleases/22/12/n29990684/artificial-intelligence-ai-driven-vibration-analysis-enabling-higher-value-maintenance-work"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29990684"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29990684"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 21
+    quality: 61
+    images:
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
+        width: 800
+        height: 313
+        isCached: true
 
 secured: "2oNa98kqey/Ryf3yZEE+MHpx7gjRkMk6CzI6PoB1Fy6CV3NNJQZGfHIpAWgi0lBPFhfQTAJMaDX6sb20SBmbPCLKUgS/KIBvnIEqn4tQ7dePlXTc5sHzS9hYUU/kGE1xM8fB3V8hm13TDSe8AkV98Ft5H+jGYrGFQisyp5coSLHfQ7xuYGlMSB4ii6L4m+HR9FMrJq4PKkvyvYSBNr10k3yrep+Ie+oUO73mjn47kp3Bh2vcc9u/Yq7SVs6EPxWpt9Ws2c8PYeape3w27ktK3XB+vg4uxR/a7+pBy5l6o48Y1gmCvxQkF+oq4mFAjXc1F61FpE/RYGI/LhE01zqa6QlDlZQrktue2Cfblnd2gvE=;+Zbo57YCbTeVpPhGwFY8EA=="
 ---

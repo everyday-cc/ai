@@ -26,6 +26,22 @@ images:
     height: 300
     isCached: true
 
+related:
+  - title: "Lizzo uses People's Choice Awards speech to honor Uvalde victims"
+    excerpt: "Grammy Award-winning singer Lizzo was dubbed \"The People's Champion\" at the 2022 People's Choice Awards Tuesday night for her dedication to diversity and inclusion. As she accepted her award, the \"About Damn Time\" singer took a moment to spotlight 17 social activists,"
+    publishedDateTime: 2022-12-07T21:07:00Z
+    webUrl: "https://www.chron.com/culture/article/lizzo-peoples-choice-awards-17637508.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 24
+    images:
+      - url: "https://s.hdnux.com/photos/01/30/53/60/23247928/3/rawImage.jpg"
+        width: 2048
+        height: 1535
+        isCached: true
+
 secured: "ijUJQO9s9ISYro61Vg8LC9xw0o9x7/4B+hMGPEgnQ+WwSAZXOq1XNg9TL9lTeNDixD4cnQzmIbPu8eIR6SNicE9TxlM13YWNfaQx/FCFsbqNBsdGcEWPDBDNmEXWKHBELPUBT1DN4vBNDbx97ISpgkoFSQF5Fl14CNEZJytcrEdDaEs4fwrfuXDsOA+b6TitRELybebM4gZvt9OARCiHfJkXVWhaQVO/E4xIQwWIEtC4IK4QTA4bZHPbwMjNt/Xt/sjTx7DTNbE/8V+J3prISkcC9uHBsfH5TdnrJSnRWKFfRuNhvODM3mGmH5r8imaaCE5hoBUUwE/u50X/5YrIu3DutS51DCjK/LZFgnVOWovWK3B1hNtVLo2AJAoJwQziCN8AA3rEKm7vVQNYzKknAFFLY+pKbtRfn7z/H7njuJ/EoQScg/BMWepgCd3RirgVBDapIHjfptXwJKUdqqP6pm0c61BIhc8G++kcbPT/0HdRO5XuMQowitd4mZ4tKpqat+8nKolMOUBlZClFq3oNfA==;YkiTOZ5xcbMwO+w1pYQRRQ=="
 ---
 

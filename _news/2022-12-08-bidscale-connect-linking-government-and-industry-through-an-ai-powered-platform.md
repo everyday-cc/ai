@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/bidscale-connect-l
 webUrl: "https://markets.businessinsider.com/news/stocks/bidscale-connect-linking-government-and-industry-through-an-ai-powered-platform-1031958377"
 type: article
 quality: 64
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Business Insider
@@ -27,6 +27,17 @@ images:
     width: 400
     height: 400
     isCached: true
+
+related:
+  - title: "TIFIN Announces Asset Management Industry’s SaaS-based AI Platform for Modern Distribution"
+    excerpt: "As noted in the update, TIFIN is “an AI-powered fintech that leverages data science, investment intelligence, and technology to deliver engaging and personalized investor experiences.” By connecting individuals to advice and investments, TIFIN ..."
+    publishedDateTime: 2022-12-07T19:33:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/12/199596-tifin-announces-asset-management-industrys-saas-based-ai-platform-for-modern-distribution/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 9
 
 secured: "Fhwcts0SupESMlgMihAebv4d6hEUhU8STI+ASShBtfQpsJahuVs7bw80ffoQ4zeV2I3Xxl1xV7Dtbb9NV3aOOmfb8i4wehT5qsVDFcgtdxl75FpwLjxHz3x5y/h5cl5zMtODoY0ck+zVRkWpKdLu/mhAl66ObYElFJj24DWaijFuwbic3UEI7B7qhr+9anFt2wVTmv3MRcsD4QwvDG3RxUEqnGKR73e+ewW6LrWbb+4gz7fMfwi+MOdSi+M52ydCvITMnoctgWp1j4IHd4IeUJcDjPT0IOYhwO+7jrUi9tLpXbyR+svpXwyz49yrBLcekwcpoi3SlgzIWe/b9qyjDSU5bfqKI582+wgJVXob9DDUx8zKQe8EVjpZ8v5Cq8jshlxsX24Q6IggCAng1/BI5B7HjEnh4LJ3a1u3EXUjE3L5jETeQjmOIUtWAC7qSvb7wOeHVt3ldOlEy4oN7DPyljY+Fnl3tyVB6v/5vDyFaYTmJeksMuZzrpIAhTDbYPHoEt4IPYZbq2k4nrdv5kRJEA==;Iwpkes0GJdMIpo/ppH357g=="
 ---

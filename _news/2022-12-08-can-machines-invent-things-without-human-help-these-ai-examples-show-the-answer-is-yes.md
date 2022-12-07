@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-07T19:04:00Z
 originalUrl: "https://theconversation.com/can-machines-invent-things-without-human-help-these-ai-examples-show-the-answer-is-yes-196036"
 webUrl: "https://theconversation.com/can-machines-invent-things-without-human-help-these-ai-examples-show-the-answer-is-yes-196036"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: The Conversation

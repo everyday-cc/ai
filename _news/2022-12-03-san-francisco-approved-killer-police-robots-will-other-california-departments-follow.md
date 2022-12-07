@@ -19,14 +19,23 @@ topics:
   - AI
 
 related:
-  - title: "San Francisco changes course, bans police use of 'killer robots' amid public outrage"
-    excerpt: "The San Francisco Police Department has said it had no plans to arm the robots with guns and only wanted to be able to place explosives on them so they could be used \"to contact, incapacitate, or disorient violent, armed, or dangerous suspects\" when lives are at stake, police spokesperson Allison Maxie said in a statement."
-    publishedDateTime: 2022-12-07T15:22:00Z
-    webUrl: "https://www.azcentral.com/story/news/nation/2022/12/07/san-francisco-rejects-police-killer-robots/10850743002/"
+  - title: "San Francisco Backtracks on Plan to Allow Police Robots to Use Deadly Force"
+    excerpt: "Opponents of the proposed policy said it could lead to more police violence. The Police Department, however, said the policy would allow robots to use deadly force only in extreme situations."
+    publishedDateTime: 2022-12-07T03:46:00Z
+    webUrl: "https://www.nytimes.com/2022/12/06/us/police-robots-san-francisco.html"
     type: article
     provider:
-      name: AZ Central
-      domain: azcentral.com
+      name: The New York Times
+      domain: nytimes.com
+    quality: 47
+  - title: "San Francisco changes course, bans police use of 'killer robots' amid public outrage"
+    excerpt: "Tuesday's vote came a week after the San Francisco Board of Supervisors voted 8-3 to initially approve allowing \"killer robots\" in emergencies."
+    publishedDateTime: 2022-12-07T14:22:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2022/12/07/san-francisco-rejects-police-killer-robots/10850743002/"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: usatoday.com
     quality: 32
     images:
       - url: "https://www.gannett-cdn.com/presto/2022/12/07/USAT/c9adb8b8-3d83-42cc-b571-0c25a546698d-AP22339697584874.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
@@ -41,6 +50,15 @@ related:
     provider:
       name: Officer
       domain: officer.com
+    quality: 19
+  - title: "San Francisco Rolls Back Its Plan for Killer Robots"
+    excerpt: "After an uproar, the city board voted to rescind last week's bill to allow police to use robots to deliver deadly force. The fight isn't over, but there's a good reason it should be."
+    publishedDateTime: 2022-12-07T14:52:00Z
+    webUrl: "https://www.darkreading.com/edge-articles/san-francisco-rolls-back-its-plan-for-killer-robots"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
     quality: 19
 
 secured: "BLGppjP5lUmpBPKe+qVPOg6JAE2sJSAS+simGIZGxYFruuXuY/+8so2ipUmDsfHZO02PE/YeCmwtqgc6kSe/hqZ7DXSqbGkb6DQ9YBSrg74FtHsnqTOK2aROZJGgkyzDsSdaEQIFPe2QBKS3ZTQFOMTqBRisxsJxb/ij4+21HJe3bFLX/zCiAbHO7mQqZzpvBtflakbUw8wrxIq/gwtE5ts9xHEWUIvlLTHQGvDqQibfR6/+LC90RY6PBhlb2cTWtB0TkcaDUhpepP0tkh65yzuZWwRxB+p3vWYpaT3ti/D8YnwMbQINPFH/HipiASk6n9ruSDJZoM1u0XdRbF7D/EcTKD9MEX2A2+SYpbzbmjd3c7TwnrlRQd5NLrnwqsk5mopqfFFXFjEdsn0C4PIscQgUXvNEB35tAM6Vms2EghoJPys1qvO1PWHdRdiFB3XHLmeYpHa59rZZHCoyAo2pDEGuHP2+6pmzDWzzT7MmtPtlZOo22H2Up0CchRWmMPsREcaaC5tsFOGpDxI7weiFWw==;yL1Jo6Vt42hKDUcyNfzt2A=="

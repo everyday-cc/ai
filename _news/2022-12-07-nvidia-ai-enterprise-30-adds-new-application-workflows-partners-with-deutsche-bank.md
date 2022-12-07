@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/nvidia-ai-enterprise-3-0-released-today-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-ai-enterprise-3-0-released-today-adds-new-application-workflows-and-partnership-with-deutsche-bank/amp/"
 type: article
 quality: 99
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -60,7 +60,25 @@ related:
         width: 399
         height: 399
         isCached: true
+  - title: "Deutsche commits to using AI tech from Nvidia throughout the bank"
+    excerpt: "Deutsche Bank has doubled down on its use of artificial intelligence. The Frankfurt-based bank announced on Wednesday a multi-year partnership with Santa Clara, California-based tech company Nvidia to accelerate and improve artificial intelligence and machine learning throughout the bank."
+    publishedDateTime: 2022-12-07T19:51:00Z
+    webUrl: "https://www.americanbanker.com/news/deutsche-commits-to-using-ai-tech-from-nvidia-throughout-the-bank"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 36
+  - title: "Deutsche Bank Tag Teams With Nvidia On Financial Services AI"
+    excerpt: "In many industries, embracing AI in the application software stack it is not just a matter of training some large language models or recommender systems"
+    publishedDateTime: 2022-12-07T18:53:00Z
+    webUrl: "https://www.nextplatform.com/2022/12/07/deutsche-bank-tag-teams-with-nvidia-on-financial-services-ai/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 34
 
-secured: "+JxqEb1ZPylBLi+cjEEokfC4BOeTJ/ExVafP2Po/jfzQOwjEgxorP++3p2egaylNfiDxMsxnAW2VxKstOf+w/GbtTvUYh9qv8GcysU28c4xNAE1qteSxymsRfWNqITLVaevBl30FaXNjUpqxekHXUfcRCcUmS9y+8rADJMFJcYJsL/TPvRV02bi1YlEc6adSkNiSSCDzuNhY5GZGg+4ig9cU1drdB/1YGCHFs9+ntcbApywmIqnT5zuj1a7/kXCX9Xy0j20/86ppi+zTLKXD5U5bcY51LjxtCTPj8rYe28epcj/tllamOdb/cj0RcA69OXOAheD5iIoDo8JYzpf4wPHcb1ydVC8ePHrnSxn2Fqc=;bH9IfLTdN9lpRblaZwoG0w=="
+secured: "ZjGxqPSFGy0sRXEnkvwQspHo4YLl2ij1I3NaSI75vTooJSPOdCaXLzhRYcBXxATWjnXyoBiKbLPqN8c/RODpAUt0GNHTvMK1NH2yMebeENXO4bOOtXZcUl6IfwQgKnCD9iigaxda4CShetnxCkFXbDcsh06SRnGuWkGRZpV8Gr5t5UDRfMemXWXRN3TtVGU8QQNaRpJYTfultbH/648OcPd3Ir/iVB3uX0FN87z7kp3JxC47LDvoe30nIiubEQfD5iGRvcG/9G7bgnqClQiwoLR7oicdxyLXEd+WyXP4VeevyoLWoqaV41lDOQbFiwZjhkwSkOALIctk94ss55+49x6DQCC9YJJ91aRC4s/2LARyhfX7ugq+NkAPFBRJWA4PgdUPGcwXYpAm5SLoRRSPSTpVVDLKDwpCc3ETni/q7EwGXnccSd14X0TzgxTgnxuw86AMN+jLt4wnEzgzsti1ajCIYEKfyORiRJMWL9LjmkB7OvuWtlcomsP47/ClQbmSxDP9jwOBTV3ZjEZ3yV4+yA==;bePgg1xp3OmuqggK+3PNCg=="
 ---
 

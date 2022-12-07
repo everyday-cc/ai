@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/startup-deploys-generative-ai-to-help-bui
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/startup-deploys-generative-ai-to-help-build-business-applications/amp/"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "The Curious Case of Generative AI"
+    excerpt: "FastSaaS is a growing trend, with companies leveraging AI-generative and no-code capabilities to create their product."
+    publishedDateTime: 2022-12-05T04:52:00Z
+    webUrl: "https://analyticsindiamag.com/jasper-cerebras-partnership-changes-the-game-for-fastsaas/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/Is-This-the-Real-Moat-in-Generative-AI.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "liqZNCULNICm3jXJh8I3fQEFLV+ihUumJazynHOkDmXHP8RpEnbs4l9/Q7gx4VVIiBK0wQkNx42mHUq6+QgXpmON9lRRBp2bEueCnHdqoSznMfL2Ppj6mCyNaFALCtVXLdKDTFqRgvyKTxx5aHso/Gji0RJuIhYihN8cp0ylX9EPVD22LstPAn/STuQxRJEsIoqe+Dh7J3LmkM7yJZzXF1IJi99qpH6P0nVLUoGNnkPdjuhGRmaNKxY8Qiyht1l4Tgjldu5Xf+dXdabcYtePfS9RmMu3g7TRxuoGEl0Mepzu4voCkHyjPL7uFRaEb91x7jW1hs3w9YutMR5NZxGopC0HD+NYzG+SVajYzu+ZvJPZtBZzfjimA30OScLw1IZ3CxrjA/lhzLedqXH6T6tL0eA1qAA89mmxeOUssGAiMDyoPeHPEt/8SoAh5I/EgIKotVDJY8Fd+pIcATztpVIlIiGBPuX4otOwyFstAU7E8tL1PB0E1e3+wNTxjidhN/7VzIIKmcahMd4q4gKBNGXWEQ==;4dZuC+qvacBsCIcNsWdxMg=="
 ---

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-02-1811-ai-the-metaverse-and-the-documentary-approach-to-photography.md",
+      "title": "18.11 - AI, the metaverse and the documentary approach to photography",
+      "excerpt": "Francesco Anselmi Born in 1984 in Milan, Francesco Anselmi lives between Italy and the United States. He graduated from the International Center of Photography in NYC, receiving the New York Times ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vogue.com/article/ai-the-metaverse-and-the-documentary-approach-to-photography-talk-photovogue-festival-2022",
+      "originalUrl": "https://www.vogue.com/article/ai-the-metaverse-and-the-documentary-approach-to-photography-talk-photovogue-festival-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.vogue.com/photos/635991903861f2604c305806/master/pass/GRAFICHE%20ARTICOLI9.jpg",
+          "width": 7555,
+          "height": 8850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vogue.com/article/ai-the-metaverse-and-the-documentary-approach-to-photography-talk-photovogue-festival-2022/amp",
+      "cdnAmpWebUrl": "https://www-vogue-com.cdn.ampproject.org/c/s/www.vogue.com/article/ai-the-metaverse-and-the-documentary-approach-to-photography-talk-photovogue-festival-2022/amp",
+      "publishedDateTime": "2022-11-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vogue",
+        "domain": "vogue.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-31-ai-and-human-contact-make-large-workforce-wellbeing-possible.md",
       "title": "AI and human contact make large workforce wellbeing possible",
       "excerpt": "Through SCG, a full-service consultancy providing expertise, resources, training, well-being diagnostic tools, and a combination of human and AI technology, employers can identify and resolve well ...",
@@ -1375,49 +1418,6 @@
       "provider": {
         "name": "The Daily Beast",
         "domain": "thedailybeast.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-haystacksai-successfully-completes-sfr-portfolio-trade-pilot.md",
-      "title": "Haystacks.AI successfully completes SFR portfolio trade pilot",
-      "excerpt": "Haystacks.AI, a property intelligence platform for investors, announced piloting its 1031 exchange solution to executive a SFR trade.",
-      "sourceUrl": null,
-      "webUrl": "https://finledger.com/articles/haystacks-ai-successfully-completes-sfr-portfolio-trade-pilot/",
-      "originalUrl": "https://finledger.com/articles/haystacks-ai-successfully-completes-sfr-portfolio-trade-pilot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://finledger.com/wp-content/uploads/sites/5/2022/01/AdobeStock_354021440.jpeg?resize=1024,512",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FinLedger",
-        "domain": "finledger.com",
         "images": null,
         "publishers": null,
         "authors": null

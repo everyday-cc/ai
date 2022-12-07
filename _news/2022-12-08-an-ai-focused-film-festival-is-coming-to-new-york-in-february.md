@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-07T19:47:00Z
 originalUrl: "https://www.engadget.com/ai-film-festival-runway-ml-191033350.html"
 webUrl: "https://www.engadget.com/ai-film-festival-runway-ml-191033350.html"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: YAHOO!Finance
