@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-07T14:03:00Z
 originalUrl: "https://www.ctvnews.ca/health/sleep-and-exercise-among-six-pillars-to-improving-your-brain-health-expert-1.6184267"
 webUrl: "https://www.ctvnews.ca/health/sleep-and-exercise-among-six-pillars-to-improving-your-brain-health-expert-1.6184267"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: CTV News

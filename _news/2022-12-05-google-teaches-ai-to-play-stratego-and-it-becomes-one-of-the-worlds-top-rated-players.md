@@ -57,20 +57,6 @@ related:
         width: 1024
         height: 765
         isCached: true
-  - title: "DeepMind debuts new AI system capable of playing ‘Stratego’"
-    excerpt: "Alphabet Inc.’s DeepMind unit has developed a new artificial intelligence system capable of playing “Stratego,” a board game considered more complex than chess and Go. DeepMind detailed the AI system,"
-    publishedDateTime: 2022-12-02T21:09:00Z
-    webUrl: "https://siliconangle.com/2022/12/02/deepmind-debuts-new-ai-system-capable-playing-stratego/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/6388ce129963208649083b0e_Stratego_header_02_hd-p-1600.png"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "DeepMind spin-off Isomorphic Labs announces drug discovery scale plans"
     excerpt: "AI drug discovery startup Isomorphic Labs is acquiring talent and a new office as it looks to strike its first business deal"
     publishedDateTime: 2022-12-05T10:53:00Z

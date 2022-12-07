@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-07T13:49:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/12/g29990671/global-digital-transformation-markets-report-2022-social-media-ai-digital-payments-iot-driving-a-s"
 webUrl: "https://www.benzinga.com/pressreleases/22/12/g29990671/global-digital-transformation-markets-report-2022-social-media-ai-digital-payments-iot-driving-a-s"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

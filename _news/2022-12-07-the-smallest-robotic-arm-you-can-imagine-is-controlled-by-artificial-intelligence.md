@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-07T14:13:00Z
 originalUrl: "https://techxplore.com/news/2022-12-smallest-robotic-arm-artificial-intelligence.html"
 webUrl: "https://techxplore.com/news/2022-12-smallest-robotic-arm-artificial-intelligence.html"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: techxplore

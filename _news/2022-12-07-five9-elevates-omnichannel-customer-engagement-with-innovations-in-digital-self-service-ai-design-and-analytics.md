@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-07T13:58:00Z
 originalUrl: "https://multichannelmerchant.com/press-releases/five9-elevates-omnichannel-customer-engagement-with-innovations-in-digital-self-service-ai-design-and-analytics/"
 webUrl: "https://multichannelmerchant.com/press-releases/five9-elevates-omnichannel-customer-engagement-with-innovations-in-digital-self-service-ai-design-and-analytics/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Multichannel Merchant

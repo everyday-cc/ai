@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-12-07-as-ai-rises-lawmakers-try-to-catch-up.md",
-      "title": "As AI Rises, Lawmakers Try To Catch Up",
-      "excerpt": "From \"intelligent\" vacuum cleaners and driverless cars to advanced techniques for diagnosing diseases, artificial intelligence has burrowed its way into every arena of modern life.",
+      "path": "_news/2022-12-08-apples-electric-self-driving-car-delayed-again-to-debut-in-2026.md",
+      "title": "Apple's electric self-driving car delayed again, to debut in 2026",
+      "excerpt": "Apple is now planning to use a less-ambitious design for its vehicle that includes a steering wheel and pedals.",
       "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610",
-      "originalUrl": "https://www.barrons.com/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610",
+      "webUrl": "https://auto.hindustantimes.com/auto/news/apples-electric-self-driving-car-delayed-again-to-debut-in-2026-41670386901498.html",
+      "originalUrl": "https://auto.hindustantimes.com/auto/news/apples-electric-self-driving-car-delayed-again-to-debut-in-2026-41670386901498.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 189,
       "tags": null,
       "images": [
         {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP2689439216944067383893578078951981468096---1.jpg",
-          "width": 768,
-          "height": 512,
+          "url": "https://images.hindustantimes.com/auto/img/2022/12/07/1600x900/Apple_car_1657603020858_1670387060040_1670387060040.JPG",
+          "width": 1600,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610",
-      "publishedDateTime": "2022-12-06T23:59:00-08:00",
+      "ampWebUrl": "https://auto.hindustantimes.com/auto/news/apples-electric-self-driving-car-delayed-again-to-debut-in-2026/amp-41670386901498.html",
+      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/apples-electric-self-driving-car-delayed-again-to-debut-in-2026/amp-41670386901498.html",
+      "publishedDateTime": "2022-12-07T08:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
+        "name": "Auto News India",
+        "domain": "hindustantimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,9 +40,8 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -54,7 +53,7 @@
       "originalUrl": "https://electrek.co/2022/12/06/tesla-radar-car-next-month-self-driving-suite-concerns/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -106,7 +105,7 @@
       "originalUrl": "https://www.financialbuzz.com/kodiak-robotics-awarded-50-million-contract-to-develop-driverless-army-vehicles/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -995,8 +994,8 @@
       "title": "New artificial intelligence could help humans actually talk to animals",
       "excerpt": "New developments in artificial intelligence and technology could help humans communicate with their pets and any other animal species that calls Earth home. Outside of the field of science ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wkbw.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals",
-      "originalUrl": "https://www.wkbw.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals",
+      "webUrl": "https://www.wcpo.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals",
+      "originalUrl": "https://www.wcpo.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1013,13 +1012,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wkbw.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true",
-      "cdnAmpWebUrl": "https://www-wkbw-com.cdn.ampproject.org/c/s/www.wkbw.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true",
-      "publishedDateTime": "2022-11-29T20:04:00-08:00",
+      "ampWebUrl": "https://www.wcpo.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true",
+      "cdnAmpWebUrl": "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true",
+      "publishedDateTime": "2022-11-29T20:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WKBW",
-        "domain": "wkbw.com",
+        "name": "WCPO Cincinnati",
+        "domain": "wcpo.com",
         "images": null,
         "publishers": null,
         "authors": null

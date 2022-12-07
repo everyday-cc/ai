@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-07T13:45:00Z
 originalUrl: "https://www.newscientist.com/article/2349786-why-you-may-never-be-able-to-buy-your-own-self-driving-car/"
 webUrl: "https://www.newscientist.com/article/2349786-why-you-may-never-be-able-to-buy-your-own-self-driving-car/"
 type: article
+quality: 4
+heat: -1
+published: false
 
 provider:
   name: New Scientist
@@ -14,6 +17,22 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "JR East’s self-driving bus to begin ops"
+    excerpt: "TOKYO: East Japan Railway Co (JR East) will start operating a self-driving bus service today on an exclusive road built on the site of a former rail track of its Kesennuma Line in a coastal area in Miyagi Prefecture."
+    publishedDateTime: 2022-12-05T00:36:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2022/12/05/jr-easts-self-driving-bus-to-begin-ops"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://cdn.thestar.com.my/Themes/img/tsol-default-image2017.png"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "7M5mW47StzlrRpbZwNxINfHJ4cK0DE5Q8tUzpXn/iveqbKxti4WvtQBYlZJn4QBn1L4OUsNUZbc671Cip05mccLIDn/MEKlgYMASrbEeVWgL0+kr9z/a1bQCd+VI1GaZ8i0EChaVTeuLFYNYgIIQ4dLcmGRpk9FOUk6x5+WORshiRj5VNCoIPfm1I0gZGD95Mp9ZfZngxErO9cVG0Nba+7NgHMAo4U1BeQY9XjsLCeyNkNqGfZOtuOczdj3q9GWbYMfmdu+rmUVml2FndG0fRE6dSv0KqiedfrSw2+xFfp9ZV1a0aRoD3LgJXcNt8s9AaIoyP2MtWvjl5hl7IhZIitsbVRL7x6E5fTk0l0vxqKJczlm0bveuYW+FOHReBQXcQ1GDOPnGuy44nm4MYhHJLAwa9MlLb+8Lxqac73ah84qrXmS3xzhwl7FekbuqzUUjcCJ5wSxoTECv2e9K0XOFxEJmafOyUTWLtjmEN8j3D+L3aQ1mCSQiAEIMKJ8QOfKDdW2WVVrSz0bji84VAyz1vA==;Zi5kVY863xFaJ23uiHkjJw=="
 ---

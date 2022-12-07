@@ -2,6 +2,74 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-10-24-bics-launches-communications-platform-as-a-service.md",
+      "title": "BICS launches Communications Platform as a Service",
+      "excerpt": "BICS says its new CPaaS for text, voice, and messaging can integrate using APIs and plug-ins, no coding required.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rcrwireless.com/20221024/telco-cloud/bics-launches-communications-platform-as-a-service",
+      "originalUrl": "https://www.rcrwireless.com/20221024/telco-cloud/bics-launches-communications-platform-as-a-service",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RCR Wireless News",
+        "domain": "rcrwireless.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-21-signifyd-launches-fearless-payments-a-new-optimization-solution-to-propel-the-digital-transformation-of-payment-service-providers.md",
+      "title": "Signifyd Launches Fearless Payments, a New Optimization Solution to Propel the Digital Transformation of Payment Service Providers",
+      "excerpt": "Signifyd, the leading digital commerce protection provider, today launched Fearless Payments for payment providers, a suite of innovative solutions that empowers payment service providers (PSPs) to significantly increase authorization rates while lowering their operating costs and providing their customers with a full financial guarantee against all types of chargebacks.",
+      "sourceUrl": null,
+      "webUrl": "https://financialit.net/news/payments/signifyd-launches-fearless-payments-new-optimization-solution-propel-digital",
+      "originalUrl": "https://financialit.net/news/payments/signifyd-launches-fearless-payments-new-optimization-solution-propel-digital",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T22:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial IT",
+        "domain": "financialit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-21-cloud-ai-in-fintech-market-current-scenario-and-future-prospects.md",
       "title": "Cloud AI in Fintech Market Current Scenario and Future Prospects",
       "excerpt": "The Cloud AI in Fintech Market Report provides Insightful qualitative and quantitative information along with an",
@@ -1250,110 +1318,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-monnai-taps-explainable-ai-to-build-global-fintech-insight-infrastructure.md",
-      "title": "Monnai taps explainable AI to build global fintech insight infrastructure",
-      "excerpt": "Monnai aims to use explainable AI to deliver a global infrastructure and power fintech decision-making at scale.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/monnai-taps-explainable-ai-to-build-global-fintech-insight-infrastructure/",
-      "originalUrl": "https://venturebeat.com/ai/monnai-taps-explainable-ai-to-build-global-fintech-insight-infrastructure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1249306214.jpg?fit=800%2C397&strip=all",
-          "width": 800,
-          "height": 397,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/monnai-taps-explainable-ai-to-build-global-fintech-insight-infrastructure/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/monnai-taps-explainable-ai-to-build-global-fintech-insight-infrastructure/amp/",
-      "publishedDateTime": "2022-09-29T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-why-fintech-stocks-crashed-today.md",
-      "title": "Why Fintech Stocks Crashed Today",
-      "excerpt": "Fintech stocks are especially sensitive to interest ... This is especially true for Upstart, which claims its AI models are a new and better way to underwrite loans than traditional FICO scores.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/09/29/why-fintech-stocks-crashed-today/",
-      "originalUrl": "https://www.fool.com/investing/2022/09/29/why-fintech-stocks-crashed-today/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/702990/gettyimages-1142511318.jpg",
-          "width": 2120,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -5,6 +5,8 @@ excerpt: "I may not be a billionaire Facebook executive, but instead of spending
 publishedDateTime: 2022-11-23T14:30:00Z
 originalUrl: "https://www.kotaku.com.au/2022/11/facebook-says-it-has-created-a-human-level-board-game-ai/"
 webUrl: "https://www.kotaku.com.au/2022/11/facebook-says-it-has-created-a-human-level-board-game-ai/"
+ampWebUrl: "https://www.kotaku.com.au/2022/11/facebook-says-it-has-created-a-human-level-board-game-ai/amp/"
+cdnAmpWebUrl: "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2022/11/facebook-says-it-has-created-a-human-level-board-game-ai/amp/"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - Facebook AI
   - AI
 
-secured: "d4r5QmpFZ5DXvlbqJr5SL/hu2OMwSv9fmb+qUlQc/8QAkd9ANVdBPH+q7Avf12rlLcDBylL9wCOiK1njJXysuvbfPZyaT4cEHTxRVMuqKj/L7q425l/UDv2savKlDtvERu+K+sg0ukidNGDo68bKegblM4q3IWxBFz3mBlbUezWN6RgKF4c7xJiOvpS2ElFCaWddw4uZTboUI6fhPFnRcT75WN4A9ZSAAmozxHqhYZtT1MG9+6yO0Qw7BZiquBC2gBEtDfXy7QKNmbKeGSlz4DzIxkRHhKofBCo8HX4/S4pqrS7qwPqS1AVytod54fXYxqmJqYYN9oLiYAhhq42/WQ346B5JKIc+QWzHBX3O7Kw=;nAJcjZPSsqSyRTTFUIFV6w=="
+images:
+  - url: "https://www.kotaku.com.au/wp-content/uploads/sites/3/2022/11/23/311769ad6a4648265919aec40a430514.jpg?quality=80&resize=1280,720"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "yBJTO+AH642+8kkXo2sqiYHA/lNbCclqZ8SZibygBntMPPIUERp/QSNEo0br+2Sp3EhALd3W8lacU97m7xeaXdgKqOWMgvOhI9ZtOj8q4j1mExp1ZubKL/RkjKmV6Kpio7jSanXGLKXLCBZHimNPjACjGg7M05s5jDYu0IllfFmhdFCN/cxoNlDMXcd+oMQTyURGrbtjepo4M3PW888J64fz8xzh2Du/8HqSbhx0Rxq1iKsnwaMPp3vohijPfAZXPGuuPsjPnjDY9MheZ4ivFIoTxQQG2PIMMY2w3dm4JUCJ+eJWKYJTjUWcXBdeQq+xEqrOlBfGylu+H+5IYRT7biwk68A8hRrXfgBoIIntHcc=;PrNcbbd3cUxVlce+UZ5Yjw=="
 ---
 

@@ -107,6 +107,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-04-sustainability-and-inclusion-take-center-stage-at-aws-reinvent.md",
+      "title": "Sustainability And Inclusion Take Center Stage At AWS Re:Invent",
+      "excerpt": "Within the AWS leadership, there is a strong belief that technology should be built in a way that’s inclusive, diverse, and equitable and the company has a responsibility to make that happen. All Builders Welcome serves as a bridge between the current status quo and the future of tech. During the week, the grant winners had the opportunity to:",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/carolinamilanesi/2022/12/03/sustainability-and-inclusion-take-centerstage-at-aws-reinvent/",
+      "originalUrl": "https://www.forbes.com/sites/carolinamilanesi/2022/12/03/sustainability-and-inclusion-take-centerstage-at-aws-reinvent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-03T10:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-03-how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent.md",
       "title": "How BMW Group has embraced AI for positive use cases and to improve sustainability | AWS re:Invent",
       "excerpt": "Among the most exciting use cases is for fully autonomous vehicles, but that’s not the only area where AI is having an impact. For example, Microsoft and Mercedes-Benz are working together to improve automobile production efficiency.",
@@ -424,33 +467,24 @@
     {
       "path": "_news/2022-12-01-domo-joins-the-amazon-sagemaker-ready-program.md",
       "title": "Domo Joins the Amazon SageMaker Ready Program",
-      "excerpt": "Today Domo (Nasdaq: DOMO) announced it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner software solutions that are validated by Amazon Web Services ...",
+      "excerpt": "Domo (Nasdaq: DOMO) announced it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner software solutions that are validated by Amazon Web Services (AWS) Partner Solutions Architects to integrate with Amazon SageMaker.",
       "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/domo-joins-the-amazon-sagemaker-ready-program/article_6242ae1d-7680-5d90-8e69-4e80187adef3.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/domo-joins-the-amazon-sagemaker-ready-program/article_6242ae1d-7680-5d90-8e69-4e80187adef3.html",
+      "webUrl": "https://technews.tmcnet.com/news/2022/12/01/9723034.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/12/01/9723034.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg",
-          "width": 350,
-          "height": 455,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T06:06:00-08:00",
+      "publishedDateTime": "2022-12-01T06:28:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -460,8 +494,9 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI"
+        "Machine Learning",
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -515,6 +550,49 @@
         "AWS AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-thundersoft-joins-the-amazon-sagemaker-ready-program.md",
+      "title": "ThunderSoft Joins the Amazon SageMaker Ready Program",
+      "excerpt": "ThunderSoft, announced today it has joined the Amazon SageMaker Ready Program.This designation helps customers discover partner software solutions that are validated by Amazon Web Services (AWS ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/b29917464/thundersoft-joins-the-amazon-sagemaker-ready-program",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/b29917464/thundersoft-joins-the-amazon-sagemaker-ready-program",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
+          "width": 800,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29917464",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29917464",
+      "publishedDateTime": "2022-11-30T20:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -669,10 +747,10 @@
     {
       "path": "_news/2022-12-01-aws-announces-eight-new-amazon-sagemaker-capabilities.md",
       "title": "AWS Announces Eight New Amazon SageMaker Capabilities",
-      "excerpt": "Developers, data scientists, and business analysts use Amazon SageMaker to build, train, and deploy ML models quickly and easily using its fully managed infrastructure, tools, and workflows. As customers continue to innovate using ML, they are creating ...",
+      "excerpt": "At AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced eight new capabilities for Amazon SageMaker, its end-to-end machine learning (ML ...",
       "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2022/11/30/aws-announces-eight-new-amazon-sagemaker-capabilities",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2022/11/30/aws-announces-eight-new-amazon-sagemaker-capabilities",
+      "webUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-eight-new-amazon-sagemaker-capabilities/article_fe16b955-2c7f-5b55-b556-bd4a4f9351ea.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-eight-new-amazon-sagemaker-capabilities/article_fe16b955-2c7f-5b55-b556-bd4a4f9351ea.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -682,11 +760,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T11:22:00-08:00",
+      "publishedDateTime": "2022-11-30T11:28:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1321,110 +1399,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-28-introducing-amazon-kendra-tabular-search-for-html-documents.md",
-      "title": "Introducing Amazon Kendra tabular search for HTML Documents",
-      "excerpt": "Amazon Kendra is an intelligent search service powered by machine learning (ML). Kendra reimagines enterprise search for your websites and applications so your employees and customers can easily find the content they’re looking for, even when it’s scattered across multiple locations and content repositories",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-kendra-tabular-search-for-html-documents/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-kendra-tabular-search-for-html-documents/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/28/kendra-tabular-search.jpg",
-          "width": 1563,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-27T21:49:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-25-optimize-hyperparameters-with-amazon-sagemaker-automatic-model-tuning.md",
-      "title": "Optimize hyperparameters with Amazon SageMaker Automatic Model Tuning",
-      "excerpt": "Machine learning (ML) models are taking the world by storm. Their performance relies on using the right training data and choosing the right model and algorithm. But it doesn’t end here. Typically, algorithms defer some design decisions to the ML practitioner to adopt for their specific data and task.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-hyperparameters-with-amazon-sagemaker-automatic-model-tuning/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-hyperparameters-with-amazon-sagemaker-automatic-model-tuning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/25/optimize-hyperparameters-sagemaker.jpg",
-          "width": 1556,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-25T08:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

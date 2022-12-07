@@ -33,6 +33,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Apple Delays Self-Driving Car Until 2026"
+    excerpt: "Apple Inc. has postponed the target launch of its self-driving car by about a year to 2026, Bloomberg reports, citing people familiar with the matter. The project, known internally as Titan, has been in limbo for several months as executives reconcile the project's vision with the fact that current technology simply isn't advanced enough to pull it off."
+    publishedDateTime: 2022-12-07T14:30:00Z
+    webUrl: "https://oilprice.com/Latest-Energy-News/World-News/Apple-Delays-Self-Driving-Car-Until-2026.html"
+    ampWebUrl: "https://oilprice.com/Latest-Energy-News/World-News/Apple-Delays-Self-Driving-Car-Until-2026.amp.html"
+    cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Latest-Energy-News/World-News/Apple-Delays-Self-Driving-Car-Until-2026.amp.html"
+    type: article
+    provider:
+      name: Crude Oil Prices
+      domain: oilprice.com
+    quality: 44
+    images:
+      - url: "https://d32r1sh890xpii.cloudfront.net/news/718x300/2022-12-07_jfh8wmuyto.jpg"
+        width: 718
+        height: 300
+        isCached: true
   - title: "Tesla didn’t say a word about Tesla Semi being equipped with Autopilot/Self-Driving"
     excerpt: "Tesla chose to not say a word about Tesla Semi being equipped with Autopilot/Self-Driving despite the truck being equipped with the hardware."
     publishedDateTime: 2022-12-03T18:35:00Z
@@ -42,6 +58,20 @@ related:
       name: Electrek
       domain: electrek.co
     quality: 43
+  - title: "Apple Delays the Launch and Lowers the Ambitions for its Self-Driving Car"
+    excerpt: "Apple is modifying the design of its first self-driving vehicle to include a steering wheel and pedals, which earlier plans left out."
+    publishedDateTime: 2022-12-07T15:27:00Z
+    webUrl: "https://observer.com/2022/12/apple-delay-autonomous-electric-car-design/"
+    type: article
+    provider:
+      name: observer
+      domain: observer.com
+    quality: 23
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2022/12/GettyImages-180224599.jpg?quality=80&#038;strip"
+        width: 4207
+        height: 2805
+        isCached: true
   - title: "Apple Scales Back Self-Driving Car, Delays Debut Until 2026"
     excerpt: "Apple Inc. has scaled back ambitious self-driving plans for its future electric vehicle and postponed the car’s target launch date by about a year to 2026, according to people with knowledge of the matter."
     publishedDateTime: 2022-12-06T18:22:00Z

@@ -71,6 +71,15 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "Penn Medicine, Intel Leverage Federated Learning for Tumor Detection"
+    excerpt: "Researchers from Penn Medicine and Intel Labs have found that the use of federated learning improved brain tumor detection by 33 percent."
+    publishedDateTime: 2022-12-07T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/penn-medicine-intel-leverage-federated-learning-for-tumor-detection"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 4
   - title: "Intel and Penn Medicine Conduct Cancer Using Federated Learning to Analyze (and Protect) Sensitive Medical Data at Scale"
     excerpt: "Calling it the largest federated learning study in the medical field to date, Intel Labs and Penn Medicine have announced a joint research study  to help international healthcare and research institutions identify malignant brain tumors."
     publishedDateTime: 2022-12-06T23:00:00Z

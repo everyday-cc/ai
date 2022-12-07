@@ -2,6 +2,258 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-08-apples-electric-self-driving-car-delayed-again-to-debut-in-2026.md",
+      "title": "Apple's electric self-driving car delayed again, to debut in 2026",
+      "excerpt": "Apple is now planning to use a less-ambitious design for its vehicle that includes a steering wheel and pedals.",
+      "sourceUrl": null,
+      "webUrl": "https://auto.hindustantimes.com/auto/news/apples-electric-self-driving-car-delayed-again-to-debut-in-2026-41670386901498.html",
+      "originalUrl": "https://auto.hindustantimes.com/auto/news/apples-electric-self-driving-car-delayed-again-to-debut-in-2026-41670386901498.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/auto/img/2022/12/07/1600x900/Apple_car_1657603020858_1670387060040_1670387060040.JPG",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://auto.hindustantimes.com/auto/news/apples-electric-self-driving-car-delayed-again-to-debut-in-2026/amp-41670386901498.html",
+      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/apples-electric-self-driving-car-delayed-again-to-debut-in-2026/amp-41670386901498.html",
+      "publishedDateTime": "2022-12-07T08:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Auto News India",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-howie-mandel-gets-a-digital-twin-from-deepbrain-ai.md",
+      "title": "Howie Mandel gets a digital twin from DeepBrain AI",
+      "excerpt": "Howie Mandel is stepping into the metaverse. DeepBrain AI has created a pretty realistic AI version of comedian and actor Mandel.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/howie-mandel-gets-a-digital-twin-from-deepbrain-ai/",
+      "originalUrl": "https://venturebeat.com/games/howie-mandel-gets-a-digital-twin-from-deepbrain-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/12/howie-AI-Studios-with-AI-Howie.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 592,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/howie-mandel-gets-a-digital-twin-from-deepbrain-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/howie-mandel-gets-a-digital-twin-from-deepbrain-ai/amp/",
+      "publishedDateTime": "2022-12-07T08:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-nvidia-ai-enterprise-30-adds-new-application-workflows-partners-with-deutsche-bank.md",
+      "title": "Nvidia AI Enterprise 3.0 adds new application workflows, partners with Deutsche Bank",
+      "excerpt": "Nvidia AI Enterprise 3.0 released today, with new software capabilities to help effectively build and deploy AI-driven applications.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nvidia-ai-enterprise-3-0-released-today-adds-new-application-workflows-and-partnership-with-deutsche-bank/",
+      "originalUrl": "https://venturebeat.com/ai/nvidia-ai-enterprise-3-0-released-today-adds-new-application-workflows-and-partnership-with-deutsche-bank/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/nvidia-e1670388516651.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/nvidia-ai-enterprise-3-0-released-today-adds-new-application-workflows-and-partnership-with-deutsche-bank/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-ai-enterprise-3-0-released-today-adds-new-application-workflows-and-partnership-with-deutsche-bank/amp/",
+      "publishedDateTime": "2022-12-07T06:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-googles-10-week-accelerator-is-on-the-hunt-for-green-start-ups.md",
+      "title": "Google's 10-week accelerator is on the hunt for green start-ups",
+      "excerpt": "Google's two new startup accelerator programs support companies whose goal is to create technology that combats climate change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/googles-10-week-accelerator-is-on-the-hunt-for-green-start-ups/",
+      "originalUrl": "https://www.zdnet.com/article/googles-10-week-accelerator-is-on-the-hunt-for-green-start-ups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/03700fdc835096b8a8999115851b05475b1ddf7d/2022/12/06/954e837c-1d6a-438c-8ee3-04b738348881/googleaccelerator.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-10-week-accelerator-is-on-the-hunt-for-green-start-ups/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-10-week-accelerator-is-on-the-hunt-for-green-start-ups/",
+      "publishedDateTime": "2022-12-07T05:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-ai-shake-up-as-prominent-ai-guru-proposes-mind-bending-mortal-computers-which-also-gets-ai-ethics-and-ai-law-dug-in.md",
+      "title": "AI Shake-Up As Prominent AI Guru Proposes Mind-Bending “Mortal Computers” Which Also Gets AI Ethics And AI Law Dug In",
+      "excerpt": "A major AI conference raised eyebrows when a top AI guru proposed that we need mortal computers in addition to immortal computers. What is this all about? What are the AI ramifications? Are there AI Ethics and AI Law concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/12/07/ai-shake-up-as-prominent-ai-guru-proposes-mind-bending-mortal-computers-which-also-gets-ai-ethics-and-ai-law-dug-in/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/12/07/ai-shake-up-as-prominent-ai-guru-proposes-mind-bending-mortal-computers-which-also-gets-ai-ethics-and-ai-law-dug-in/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62427f3c055f1d39bb6f0b2a/0x0.jpg?format=jpg&crop=3992,2661,x540,y0,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/12/07/ai-shake-up-as-prominent-ai-guru-proposes-mind-bending-mortal-computers-which-also-gets-ai-ethics-and-ai-law-dug-in/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/12/07/ai-shake-up-as-prominent-ai-guru-proposes-mind-bending-mortal-computers-which-also-gets-ai-ethics-and-ai-law-dug-in/amp/",
+      "publishedDateTime": "2022-12-07T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-12-07-how-creative-artists-agency-caa-is-employing-data-analytics-and-ai-to-shape-the-culture-of-our-times-and-inspire-the-world.md",
       "title": "How Creative Artists Agency (CAA) Is Employing Data, Analytics, And AI To Shape The Culture Of Our Times And Inspire The World",
       "excerpt": "Data, analytics, and AI might seem unnatural in this setting. This assumption couldn’t be further from the truth. André Vargas, an eleven-year veteran of CAA, currently serves as its Chief Data Officer, a role he has held for over three years.",
@@ -157,7 +409,7 @@
       "originalUrl": "https://www.forbes.com/sites/johanmoreno/2022/12/07/canva-opens-up-access-to-docs-in-beta-adds-magic-write-generative-ai-copywriting-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -208,7 +460,7 @@
       "originalUrl": "https://www.gizmochina.com/2022/12/07/openai-chatgpt-chatbox-could-one-day-replace-google/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -251,50 +503,6 @@
       ]
     },
     {
-      "path": "_news/2022-12-07-as-ai-rises-lawmakers-try-to-catch-up.md",
-      "title": "As AI Rises, Lawmakers Try To Catch Up",
-      "excerpt": "From \"intelligent\" vacuum cleaners and driverless cars to advanced techniques for diagnosing diseases, artificial intelligence has burrowed its way into every arena of modern life.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610",
-      "originalUrl": "https://www.barrons.com/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP2689439216944067383893578078951981468096---1.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610",
-      "publishedDateTime": "2022-12-06T23:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2022-12-07-tesla-says-it-is-adding-radar-in-its-cars-next-month-amid-self-driving-suite-concerns.md",
       "title": "Tesla says it is adding radar in its cars next month amid self-driving suite concerns",
       "excerpt": "Tesla told the FCC that it plans to market a new radar starting next month. The move raises even more concerns about self-driving concerns.",
@@ -303,7 +511,7 @@
       "originalUrl": "https://electrek.co/2022/12/06/tesla-radar-car-next-month-self-driving-suite-concerns/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -648,7 +856,7 @@
       "originalUrl": "https://www.financialbuzz.com/kodiak-robotics-awarded-50-million-contract-to-develop-driverless-army-vehicles/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -924,7 +1132,7 @@
       "originalUrl": "https://techcrunch.com/2022/12/06/neureality-ai-accelerator-chips-startup-raises-35m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1015,213 +1223,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-artificial-intelligence-in-retail-market-global-industry-analysis-size-share-growth-trends-and-forecast-2022-2028.md",
-      "title": "Artificial Intelligence in Retail Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028",
-      "excerpt": "Retail is a $3.2 trillion global industry and artificial intelligence (AI) is quickly becoming an important part",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-12-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-12-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-06T03:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-taiwans-tsmc-will-make-3-nanometer-chips-in-12b-factory-in-arizona.md",
-      "title": "Taiwan’s TSMC will make 3-nanometer chips in $12B factory in Arizona",
-      "excerpt": "Check out the on-demand sessions from the Low-Code/No-Code Summit to learn how to successfully innovate and achieve efficiency by upskilling and scaling citizen developers. Watch now. Taiwanese chipmaker TSMC announced with President Joe Biden that it will build a $12 billion factory in Arizona where it will build three-nanometer chips.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/taiwans-tsmc-will-make-3-nanometer-chips-in-12b-factory-in-arizona/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/taiwans-tsmc-will-make-3-nanometer-chips-in-12b-factory-in-arizona/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/tsmc-e1605303213438.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/data-infrastructure/taiwans-tsmc-will-make-3-nanometer-chips-in-12b-factory-in-arizona/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/taiwans-tsmc-will-make-3-nanometer-chips-in-12b-factory-in-arizona/amp/",
-      "publishedDateTime": "2022-12-06T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-artificial-intelligence-machine-learning-and-the-future-of-entertainment.md",
-      "title": "Artificial Intelligence, Machine Learning, And The Future Of Entertainment",
-      "excerpt": "By 2030, the AI in media and entertainment industry is set to be worth a staggering $99.3 billion with the current compound annual growth rate being 26%.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joshwilson/2022/12/06/artificial-intelligence-machine-learning-and-the-future-of-entertainment/",
-      "originalUrl": "https://www.forbes.com/sites/joshwilson/2022/12/06/artificial-intelligence-machine-learning-and-the-future-of-entertainment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/638f08b7ec3141a8f50d997c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 814,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joshwilson/2022/12/06/artificial-intelligence-machine-learning-and-the-future-of-entertainment/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joshwilson/2022/12/06/artificial-intelligence-machine-learning-and-the-future-of-entertainment/amp/",
-      "publishedDateTime": "2022-12-06T01:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-chatgpt-ai-explained-why-everyones-chatting-about-this-new-chatbot.md",
-      "title": "ChatGPT AI Explained: Why Everyone's Chatting About This New Chatbot",
-      "excerpt": "ChatGPT is an AI chatbot system that OpenAI released in November to show off and test what a very large, powerful AI system can accomplish. You can ask it countless questions and often will get an answer that's useful.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/chatgpt-ai-explained-why-everyones-chatting-about-this-new-chatbot/",
-      "originalUrl": "https://www.cnet.com/tech/computing/chatgpt-ai-explained-why-everyones-chatting-about-this-new-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 309,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/084641681c8362c3ce0c3eb8a53365351adcaaac/hub/2022/12/06/3dd7180c-d0e7-47ca-bc37-b5df15a41a25/ai-chat-gettyimages.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/chatgpt-ai-explained-why-everyones-chatting-about-this-new-chatbot/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/chatgpt-ai-explained-why-everyones-chatting-about-this-new-chatbot/",
-      "publishedDateTime": "2022-12-05T22:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

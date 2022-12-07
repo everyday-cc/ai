@@ -2,16 +2,16 @@
 category: news
 title: "New artificial intelligence could help humans actually talk to animals"
 excerpt: "New developments in artificial intelligence and technology could help humans communicate with their pets and any other animal species that calls Earth home. Outside of the field of science ..."
-publishedDateTime: 2022-11-30T04:04:00Z
-originalUrl: "https://www.wkbw.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
-webUrl: "https://www.wkbw.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
-ampWebUrl: "https://www.wkbw.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
-cdnAmpWebUrl: "https://www-wkbw-com.cdn.ampproject.org/c/s/www.wkbw.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+publishedDateTime: 2022-11-30T04:05:00Z
+originalUrl: "https://www.wcpo.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
+webUrl: "https://www.wcpo.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
+ampWebUrl: "https://www.wcpo.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
 type: article
 
 provider:
-  name: WKBW
-  domain: wkbw.com
+  name: WCPO Cincinnati
+  domain: wcpo.com
 
 topics:
   - AI in Autos
@@ -23,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "kZ6i4MNzVKU0ETWVpi7FuI34ZMqHmdPcEncuXyn/FGgmR2FBeF/56j552a5/jHIga11/jjLclk2xCYwJWISC+E+ItTAHpG0fOkWC7GWUw3GM6pvurkswPSWtWxsmFqDcSNanZrF1WNnNTK1ETItmj5grO4vbilx6YwgOU4R059iP2BtTdfsnrEDhQ2Qbtx20O6SjHxP4e0o+pqBVT8b6Ti5mOnuRz0ulfjAexPHA+e2O9CF9DJ2JQpUPlDyioG//uIN9hnDgl5dQINkIc83Rs70u9GHONgKrxGXMEVatbZaXr6o0aeWHyLM1piojuu9suaZ67H63oMT4TdTArPrqq0PCe/9RW3naJmWPHNAfJJc=;4HgLiil8e3+na/7exXfWWQ=="
+secured: "YE7osT+FfUBlER5aJeLYW07+8z9j+lBVRiUrrytu6kzx5k4cbJQOGgd1u9VCXn5McdtZnWuDG0iBeXtuN1kTHOUrFrwWADcgAempPXjZgBhOe/Jky6mtqf4xQ40WYjhmeri8j4wsFgkwqr6/HCqzCXKbLeaXXYet/Avv5cMLRpj5Yv+RdSC8Vd0ZvLVqFQHJOlapZfDrMDJu8i6aoUXzAROns0bi5XVZ6pxl1CQdWP1ocm+XTQVgMikd2DRg98ZlT53WtDNIiLS71/bxtwIvNxGfRLEBOcXwf/bbkoNCnAQKju6TnWnIiCnw0pzUwzG+1q9UW1ksu0zzkPLmYRkQWOrPto2ivl+59Lv3FDQ16EI=;Jk+kB3tMCmykED6FzLoqtQ=="
 ---
 

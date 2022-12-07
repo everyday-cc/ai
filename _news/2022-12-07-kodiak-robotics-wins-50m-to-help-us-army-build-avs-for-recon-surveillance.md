@@ -37,6 +37,20 @@ related:
         width: 506
         height: 345
         isCached: true
+  - title: "Pentagon Awards $50M Contract for Autonomous Ground Reconnaissance Vehicles"
+    excerpt: "Kodiak will leverage its commercial self-driving software to develop, test and deploy autonomous capabilities for driverless vehicles."
+    publishedDateTime: 2022-12-07T16:01:00Z
+    webUrl: "https://www.manufacturing.net/automotive/news/22591498/pentagon-awards-50m-contract-for-autonomous-ground-reconnaissance-vehicles"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 37
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/12/Kodiak_Robotics_help_automate_future_US_Army_ground_vehicles.638f5f8102b77.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C0%2C1920%2C1077&w=1200"
+        width: 1200
+        height: 673
+        isCached: true
   - title: "Kodiak awarded DOD contract to develop autonomous Army vehicles"
     excerpt: "Defense Innovation Unit contract calls for trucking technology company Kodiak to help the U.S. Army automate future ground vehicles for high-risk missions such as reconnaissance and surveillance near or behind enemy lines."
     publishedDateTime: 2022-12-06T14:49:00Z

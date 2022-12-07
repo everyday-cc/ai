@@ -2,6 +2,326 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-12-02-new-orleans-reverses-facial-recognition-ban-to-help-police-fight-crime-privacy-experts-are-wary.md",
+      "title": "New Orleans reverses facial recognition ban to help police fight crime; privacy experts are wary",
+      "excerpt": "The City of New Orleans has ended a ban on the use of facial recognition technology by police amid a surge in violent crime. Critics of the move have questions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-help-police-fight-crime-privacy-experts-are-wary",
+      "originalUrl": "https://www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-help-police-fight-crime-privacy-experts-are-wary",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/10/340/340/Louis-Casiano.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-help-police-fight-crime-privacy-experts-are-wary.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-help-police-fight-crime-privacy-experts-are-wary.amp",
+      "publishedDateTime": "2022-12-01T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-aws-ceo-selipsky-we-are-making-cloud-easier-to-use.md",
+      "title": "AWS CEO Selipsky: We Are Making Cloud Easier To Use",
+      "excerpt": "What businesses need from cloud computing is the power to work on their data without having to transport it around between different clouds, different databases and different repositories, different integrations to third-party applications,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2022/12/01/aws-ceo-selipsky-we-are-making-cloud-easier-to-use/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2022/12/01/aws-ceo-selipsky-we-are-making-cloud-easier-to-use/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6388600de6a886c1265b6467/0x0.jpg?format=jpg&width=1200",
+          "width": 640,
+          "height": 404,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2022/12/01/aws-ceo-selipsky-we-are-making-cloud-easier-to-use/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2022/12/01/aws-ceo-selipsky-we-are-making-cloud-easier-to-use/amp/",
+      "publishedDateTime": "2022-12-01T07:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-n-ix-obtains-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization.md",
+      "title": "N-iX obtains the Modernization of Web Applications to Microsoft Azure Advanced Specialization",
+      "excerpt": "N-iX, a leading European software development company, has earned the Modernization of Web Applications to Microsoft Azure advanced specialization. It is a validation of the company's deep knowledge and extensive experience in migrating and modernizing production web application workloads and managing app services in Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/n-ix-obtains-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1031948094",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/n-ix-obtains-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1031948094",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T07:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-ai-is-coming-for-the-thought-leaders.md",
+      "title": "AI Is Coming for the Thought Leaders",
+      "excerpt": "Robots were considered capable only of unimaginative, routine work. Today they write articles and create award-winning art.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theatlantic.com/newsletters/archive/2022/12/why-the-rise-of-ai-is-the-most-important-story-of-the-year/672308/",
+      "originalUrl": "https://www.theatlantic.com/newsletters/archive/2022/12/why-the-rise-of-ai-is-the-most-important-story-of-the-year/672308/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.theatlantic.com/thumbor/rv0rbBmcltCjJ6BSXVOt88jdFIA=/0x102:4792x2598/1200x625/media/img/mt/2022/12/ai_paint/original.jpg",
+          "width": 1200,
+          "height": 625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T06:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Atlantic",
+        "domain": "theatlantic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-domo-joins-the-amazon-sagemaker-ready-program.md",
+      "title": "Domo Joins the Amazon SageMaker Ready Program",
+      "excerpt": "Domo (Nasdaq: DOMO) announced it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner software solutions that are validated by Amazon Web Services (AWS) Partner Solutions Architects to integrate with Amazon SageMaker.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/12/01/9723034.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/12/01/9723034.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T06:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-targeting-ai-and-computer-vision-innodisk-launches-new-camera-module-series.md",
+      "title": "Targeting AI and computer vision, Innodisk launches new camera module series",
+      "excerpt": "Industrial-grade storage and embedded peripherals developer Innodisk recently announced its shift toward the artificial intelligence (AI) industry. As 50% of Innodisk's AI development is related to image recognition,",
+      "sourceUrl": null,
+      "webUrl": "https://electronics360.globalspec.com/article/18977/targeting-ai-and-computer-vision-innodisk-launches-new-camera-module-series",
+      "originalUrl": "https://electronics360.globalspec.com/article/18977/targeting-ai-and-computer-vision-innodisk-launches-new-camera-module-series",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electronics360.globalspec.com/images/assets/977/18977/61340_Innodisk_Launches_New_Camera_Module.jpg",
+          "width": 700,
+          "height": 245,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "electronics360.globalspec",
+        "domain": "globalspec.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-first-minister-speech-disrupted-by-gender-recognition-protester.md",
+      "title": "First Minister speech disrupted by gender recognition protester",
+      "excerpt": "The woman who interrupted the First Minister's speech said the change in law would ... that the request not to discuss the Gender Recognition Reform Bill was made by the First Minister or officials.",
+      "sourceUrl": null,
+      "webUrl": "https://www.heraldscotland.com/politics/23159210.first-minister-speech-disrupted-gender-recognition-protester/?ref=twtrec",
+      "originalUrl": "https://www.heraldscotland.com/politics/23159210.first-minister-speech-disrupted-gender-recognition-protester/?ref=twtrec",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.heraldscotland.com/resources/images/16138459/?type=og-image",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T04:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "heraldscotland",
+        "domain": "heraldscotland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-how-fintech-can-help-you-weather-a-recession.md",
       "title": "How Fintech Can Help You Weather A Recession",
       "excerpt": "With many in fear of a recession, a growing number of businesses are in need of grant funding, and there are not many search engines that are cataloging the grants offered by thousands of organizations. Very few opportunities are in the marketplace that offers fintech services to help growing businesses with this catalog of offerings.",
@@ -346,6 +666,49 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-thundersoft-joins-the-amazon-sagemaker-ready-program.md",
+      "title": "ThunderSoft Joins the Amazon SageMaker Ready Program",
+      "excerpt": "ThunderSoft, announced today it has joined the Amazon SageMaker Ready Program.This designation helps customers discover partner software solutions that are validated by Amazon Web Services (AWS ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/b29917464/thundersoft-joins-the-amazon-sagemaker-ready-program",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/b29917464/thundersoft-joins-the-amazon-sagemaker-ready-program",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
+          "width": 800,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29917464",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29917464",
+      "publishedDateTime": "2022-11-30T20:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -814,349 +1177,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-san-francisco-votes-to-allow-police-to-deploy-robots-that-kill.md",
-      "title": "San Francisco votes to allow police to deploy robots that kill",
-      "excerpt": "City supervisors in San Francisco on Tuesday voted to give police the ability to deploy potentially lethal, remote-controlled robots in emergency situations. The move would allow officers to use ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2022/11/30/san-francisco-police-killer-robots-motion-passes/",
-      "originalUrl": "https://nypost.com/2022/11/30/san-francisco-police-killer-robots-motion-passes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T13:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-san-francisco-will-allow-police-to-deploy-robots-that-kill-in-extreme-circumstances.md",
-      "title": "San Francisco will allow police to deploy robots that kill 'in extreme circumstances'",
-      "excerpt": "SAN FRANCISCO – Supervisors in San Francisco voted Tuesday to give city police the ability to use potentially lethal, remote-controlled robots in emergency situations – following an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2022/11/30/california-police-deploy-robots-kill/10801825002/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2022/11/30/california-police-deploy-robots-kill/10801825002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2022/11/30/USAT/919c69c3-daac-40d7-9a4c-af72bb516870-AP22333707907710.jpg?auto=webp&crop=2999,1687,x1,y184&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T12:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-alzheimers-drug-trial-shown-to-slow-cognitive-decline-in-long-fight-against-dementia.md",
-      "title": "Alzheimer's drug trial shown to slow cognitive decline in long fight against dementia",
-      "excerpt": "Alzheimer's Research UK described the outcome as a \"major step forward\" in reducing cognitive decline among patients. \"These exciting findings represent a major step forward for dementia research ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/11/30/alzheimers-drug-lecanemab-slows-cognitive-decline-in-dementia-fight.html",
-      "originalUrl": "https://www.cnbc.com/2022/11/30/alzheimers-drug-lecanemab-slows-cognitive-decline-in-dementia-fight.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107158864-1669806496855-gettyimages-484332326-bb_fea-brainscan_108.jpeg?v=1669807708",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/11/30/alzheimers-drug-lecanemab-slows-cognitive-decline-in-dementia-fight.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/11/30/alzheimers-drug-lecanemab-slows-cognitive-decline-in-dementia-fight.html",
-      "publishedDateTime": "2022-11-30T12:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-how-the-private-sector-can-help-close-the-public-sector-ai-knowledge-gap.md",
-      "title": "How the Private Sector Can Help Close The Public Sector AI Knowledge Gap",
-      "excerpt": "This blog focuses on how the private sector can help close the public sector knowledge gap in sustainable AI practices. 5 Strategies are positioned for consideration, underlying the security threats we face of not modernizing our government institutions more rapidly with sustaining AI capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/11/30/how-the-private-sector-can-help-close-the-public-sector-knowledge-gap-in-sustainable-ai/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/11/30/how-the-private-sector-can-help-close-the-public-sector-knowledge-gap-in-sustainable-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6387cc1b52738817bac8a8c0/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/11/30/how-the-private-sector-can-help-close-the-public-sector-knowledge-gap-in-sustainable-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/11/30/how-the-private-sector-can-help-close-the-public-sector-knowledge-gap-in-sustainable-ai/amp/",
-      "publishedDateTime": "2022-11-30T12:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-state-of-ai-december-2022.md",
-      "title": "State Of AI, December 2022",
-      "excerpt": "Sentient or not, MineDojo got Nvidia’s researchers the NeurIPS 2022 Outstanding Datasets and Benchmarks Paper Award, demonstrating their belief that large language models in the future will be “embodied agents that proactively take actions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2022/11/30/state-of-ai-december-2022/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2022/11/30/state-of-ai-december-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6387c6194c3ae06b95db977a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2022/11/30/state-of-ai-december-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/11/30/state-of-ai-december-2022/amp/",
-      "publishedDateTime": "2022-11-30T12:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-aws-announces-eight-new-amazon-sagemaker-capabilities.md",
-      "title": "AWS Announces Eight New Amazon SageMaker Capabilities",
-      "excerpt": "Developers, data scientists, and business analysts use Amazon SageMaker to build, train, and deploy ML models quickly and easily using its fully managed infrastructure, tools, and workflows. As customers continue to innovate using ML, they are creating ...",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2022/11/30/aws-announces-eight-new-amazon-sagemaker-capabilities",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2022/11/30/aws-announces-eight-new-amazon-sagemaker-capabilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T11:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-asia-pacific-fintech-as-a-service-market-report-2022-key-players-paypal-mastercard-sofi-technologies-and-more-fueling-174-annual-growth.md",
-      "title": "Asia Pacific Fintech-as-a-Service Market Report 2022: Key Players PayPal, Mastercard, SoFi Technologies and More Fueling 17.4% Annual Growth",
-      "excerpt": "The Asia Pacific Fintech-as-a-Service Market is expected to witness market growth of 17.4% CAGR during the forecast period (2022-2028). The debut of ARDEN in May 2022 was announced by Brightwell Payments,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/11/30/9722271.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/11/30/9722271.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T11:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-here-workspace-the-low-code-platform-tool-for-map-creation-now-comes-with-machine-learning-from-aws.md",
-      "title": "HERE Workspace: The low-code platform tool for map creation now comes with machine learning from AWS",
-      "excerpt": "HERE Workspace adds new low-code mapmaking capabilities and now connects to Amazon SageMaker, AWS's machine learning platform, to further expand the possibilities for customers developing spatial inte",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/11/g29912625/here-workspace-the-low-code-platform-tool-for-map-creation-now-comes-with-machine-learning-from-aw",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/g29912625/here-workspace-the-low-code-platform-tool-for-map-creation-now-comes-with-machine-learning-from-aw",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png",
-          "width": 666,
-          "height": 282,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29912625",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29912625",
-      "publishedDateTime": "2022-11-30T10:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

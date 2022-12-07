@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/carolinamilanesi/2022/12/03/sustainab
 webUrl: "https://www.forbes.com/sites/carolinamilanesi/2022/12/03/sustainability-and-inclusion-take-centerstage-at-aws-reinvent/"
 type: article
 quality: 64
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Forbes
@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "How BMW Group has embraced AI for positive use cases and to improve sustainability | AWS re:Invent"
-    excerpt: "Among the most exciting use cases is for fully autonomous vehicles, but that’s not the only area where AI is having an impact. For example, Microsoft and Mercedes-Benz are working together to improve automobile production efficiency."
-    publishedDateTime: 2022-12-02T22:13:00Z
-    webUrl: "https://venturebeat.com/ai/how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent/"
-    ampWebUrl: "https://venturebeat.com/ai/how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 90
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/12/VB_BMW_AWS_reinvent_120223.png?w=1200&strip=all"
-        width: 837
-        height: 440
-        isCached: true
   - title: "AWS re:Invent 2022 round-up: Data management, AI, compute take centre stage"
     excerpt: "AI features added to multiple services To help enterprises get more of a return on their data, AWS added new artificial intelligence (AI) features to a range of other services, including Textract, Transcribe, Kendra, CodeWhisperer, and HealthLake."
     publishedDateTime: 2022-12-05T03:11:00Z

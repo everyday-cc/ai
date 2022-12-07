@@ -2,6 +2,110 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-10-10-artificial-intelligence-in-fintech-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-2030.md",
+      "title": "Artificial Intelligence In Fintech Market Projections and Regional Outlook, Set for Rapid Growth and Trend by 2022-2030",
+      "excerpt": "The Global Artificial Intelligence In Fintech Market size is expected to reach $25.8 billion by 2028, rising at a market growth of 16.8% CAGR during the forecast period. This study offers information for creating plans to increase the market’s growth and effectiveness and is a comprehensive quantitative survey of the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-fintech-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-2030-2022-10-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-fintech-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-2030-2022-10-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-10T01:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-08-ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022.md",
+      "title": "AI, Virtual Reality And Real Estate: Big Ideas Coming Out Of IOi Summit 2022",
+      "excerpt": "Organized by the National Association of Realtors (NAR), the annual conference welcomed professionals from all over the country to explore the latest groundbreaking ideas in the world of PropTech. Topics ranged widely from non-fungible tokens (NFTs) to affordable housing to insurance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbes-global-properties/2022/10/08/ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022/",
+      "originalUrl": "https://www.forbes.com/sites/forbes-global-properties/2022/10/08/ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6340edc837c11a447fde06ad/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbes-global-properties/2022/10/08/ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-global-properties/2022/10/08/ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022/amp/",
+      "publishedDateTime": "2022-10-08T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-06-how-synamedia-uses-amazon-rekognition-video-to-build-advanced-video-search-capabilities-for-long-form-video.md",
       "title": "How Synamedia uses Amazon Rekognition Video to build advanced video search capabilities for long-form video",
       "excerpt": "Synamedia is a leading video technology provider addressing the needs for premium video service providers and direct-to-consumer (D2C) with a comprehensive solution portfolio. Synamedia solutions spread across several pillars such as video networks, TV platforms, advertisement and monetization, and content",
@@ -1333,83 +1437,6 @@
       "provider": {
         "name": "Finanznachrichten",
         "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-bosch-sventa-and-phantom-edge-now-available-in-aws-marketplace.md",
-      "title": "Bosch SVENTA and Phantom Edge now available in AWS Marketplace",
-      "excerpt": "Bangalore: Bosch Global Software Technologies (BGSW), formerly known as Robert Bosch Engineering and Business Solutions (RBEI), and an Amazon Web Services (AWS) Advanced Consulting Partner, today anno",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/bosch-sventa-and-phantom-edge-now-available-in-aws-marketplace/",
-      "originalUrl": "https://indiaeducationdiary.in/bosch-sventa-and-phantom-edge-now-available-in-aws-marketplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/bosch-sventa-and-phantom-edge-now-available-in-aws-marketplace/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/bosch-sventa-and-phantom-edge-now-available-in-aws-marketplace/",
-      "publishedDateTime": "2022-09-25T18:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-24-sedai-joins-aws-isv-accelerate-program.md",
-      "title": "Sedai Joins AWS ISV Accelerate Program",
-      "excerpt": "SAN FRANCISCO–(BUSINESS WIRE)–#SRE–Sedai, the autonomous cloud management platform, has announced today that it has been accepted into the Amazon Web Services (AWS) Independent Software Vendor (ISV) Accelerate Program, a co-sell program for AWS ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/sedai-joins-aws-isv-accelerate-program/",
-      "originalUrl": "https://www.01net.it/sedai-joins-aws-isv-accelerate-program/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-23T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
         "images": null,
         "publishers": null,
         "authors": null

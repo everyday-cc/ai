@@ -42,6 +42,20 @@ related:
       name: YAHOO!News
       domain: techcrunch.com
     quality: 62
+  - title: "Pentagon Awards $50M Contract for Autonomous Ground Reconnaissance Vehicles"
+    excerpt: "Kodiak will leverage its commercial self-driving software to develop, test and deploy autonomous capabilities for driverless vehicles."
+    publishedDateTime: 2022-12-07T16:01:00Z
+    webUrl: "https://www.manufacturing.net/automotive/news/22591498/pentagon-awards-50m-contract-for-autonomous-ground-reconnaissance-vehicles"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 37
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/12/Kodiak_Robotics_help_automate_future_US_Army_ground_vehicles.638f5f8102b77.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C0%2C1920%2C1077&w=1200"
+        width: 1200
+        height: 673
+        isCached: true
 
 secured: "TBXaG1N8bs7ol1tlTPHunkoy7ZZ6DQWxMn/3cmsRPm3wWLK6qVC4LteaBrOxGSWdngcm8pW8JM54+/eMfyLCpNv/rKejRcwXIHhTvwPAg3ONCSZhMRE5NhQMMAT0lm9d2rchlntHFn3CQUHXp7edEn2zxttZjCaCvkazCdIgzeng2a5MPmh+DO3uiYFpCGesLtWPYJJoaK4R/CgpEEc1TcDJ5gLgi2bh/MuSUWeScWox3jSl0SrEbXeUVWH3+IH+9FaPNjtuPIs5GMxcxX0lU+O+cgF3D0qG2pTu9AUReK0Lrmn3n9F54GyFiueCdTqL4oQlYMHAqtMuprbMn6W0YEmSvO4AH5Zf9sj3N07B0WLAGRVMzB+x1ByslWJL+WX57lKT1jgQMa56B5+4mdX/+5kd/lAOFxh2u28bIT6YMr/U5lJAGJ2VV5PYHXVLy6FpXZxguPi1xcODY/AukKAVAIy5k29qfDqyCw1df3WCq7+VOmeZgGXEed7He5bRy4EiAqvti8XCJuZm2fGEC/lt7Q==;y1VAIJk8eErI5qdiM5XNbw=="
 ---

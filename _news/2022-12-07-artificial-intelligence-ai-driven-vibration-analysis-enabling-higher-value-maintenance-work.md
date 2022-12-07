@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-07T12:50:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/12/n29990684/artificial-intelligence-ai-driven-vibration-analysis-enabling-higher-value-maintenance-work"
 webUrl: "https://www.benzinga.com/pressreleases/22/12/n29990684/artificial-intelligence-ai-driven-vibration-analysis-enabling-higher-value-maintenance-work"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: Benzinga.com
@@ -13,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Artificial Intelligence (AI) Driven Vibration Analysis Enabling Higher-Value Maintenance Work"
+    excerpt: "AI-Driven Vibration Analysis enables higher-value maintenance work. Once it understands what the machine should be doing, AI can easily identify when a vibration deviates from the norm. This makes AI widely applicable in diverse industrial settings and a perfect fit for vibration analysis."
+    publishedDateTime: 2022-12-07T16:45:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/12/07/9726099.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
 
 secured: "L8s8HhDm9rTTfcCtA2TRkciZ89zhCoAUJj0WRj7Ysqxo/dui/+B7PIJOYrVssd+IfLRjQ65s8UYhaptXR4DxQhTTtVDPjwWlxZZyh+Yg7fxr/gyGPzindsPDNg9kD2JtlEUZNsd8EufO80waNVr2SbE6xjo/ykkRhakjUJCpEnT3g5J5HhAyExu+OFyfDyfgSxFS2/ij8VXVqBi6kcBc3awKJQp5xanXTptC2ltj9TGNxRDTsEqGJm/STaJABFJWjSlhaYiz2BkWa0jtIfm0UcWJy8EwXWs4xfGiAAB0XhQdnn/mWWFeQ1JuUCN6uA95KSspJ4S+L5eaZCZcFkuldDYQHycb9S+xQg59JDhB690=;Fzij20TaeVP9t6VR2AkZfg=="
 ---

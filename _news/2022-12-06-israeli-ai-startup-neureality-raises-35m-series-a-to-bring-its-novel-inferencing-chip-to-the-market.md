@@ -77,6 +77,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Chip Startup NeuReality Raises USD 35M in Funding"
+    excerpt: "The startup NeuReality Ltd. has disclosed that it has raised USD 35 million in funding to market its NR1 chip, which is intended"
+    publishedDateTime: 2022-12-07T13:10:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/ai-chip-startup-neureality-raises-usd-35m-in-funding/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 34
 
 secured: "P+2uWdervw+KKtZhtRcpPvqYkXk9+wq+JJytT/s5Sqp1lBqel0HHDsO2QduBPJ/jomP2puIs5IGVFYVnNUuA1ECbPTIOA+X8WUnz4nLzfBwue2tSNFRVES9CzV8keSKH//BkoC5xFjlXiR531gJIOX0aay3WZsmqFM94hzZY5R8EmpdhjRhXYhPqX6Mmc3llH1JZpIsTQkh17Z3tq/ksrLbuEY5AOMxwoevZLurYx70qDXVyfGK5Vl1yk71dfYgUO/hYBxka0FYGaCGtNDQcfoGDPW9A4/9+KEjDfBBbFmN/AvTkOjcsCj03g1UATY8wvCYbaV1xJz6d7C4sF5TR1NDxeVIV3R7BRokYPbk2Tds=;4o6s8c2XxAU8AGmBvBrtWQ=="
 ---

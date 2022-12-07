@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-07T12:59:00Z
 originalUrl: "https://commercialobserver.com/2022/12/proptech-mezo-seed-round-funding/"
 webUrl: "https://commercialobserver.com/2022/12/proptech-mezo-seed-round-funding/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Commercial Observer

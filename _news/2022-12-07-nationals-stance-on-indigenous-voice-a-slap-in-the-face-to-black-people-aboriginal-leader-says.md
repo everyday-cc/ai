@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-07T12:59:00Z
 originalUrl: "https://www.theguardian.com/australia-news/2022/dec/08/nationals-stance-on-indigenous-voice-a-slap-in-the-face-to-black-people-aboriginal-leader-says"
 webUrl: "https://www.theguardian.com/australia-news/2022/dec/08/nationals-stance-on-indigenous-voice-a-slap-in-the-face-to-black-people-aboriginal-leader-says"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Guardian

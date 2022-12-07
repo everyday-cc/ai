@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-07T12:26:00Z
 originalUrl: "https://www.winnipegfreepress.com/arts-and-life/entertainment/arts/2022/12/07/ai-shows-true-value-of-art-is-something-that-cant-be-bot"
 webUrl: "https://www.winnipegfreepress.com/arts-and-life/entertainment/arts/2022/12/07/ai-shows-true-value-of-art-is-something-that-cant-be-bot"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Winnipeg Free Press

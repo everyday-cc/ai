@@ -78,6 +78,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "How AI That Powers Chatbots and Search Queries Could Discover New Drugs"
+    excerpt: "Natural language processing algorithms like the ones that power search queries promise to slash the time required to bring medications to market"
+    publishedDateTime: 2022-12-07T14:59:00Z
+    webUrl: "https://www.wsj.com/articles/how-ai-that-powers-chatbots-and-search-queries-could-discover-new-drugs-11670428795"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-679549/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "A new AI chatbot is getting buzz for being able to have intelligent-sounding conversations, write music, and even code"
     excerpt: "ChatGPT is an artificial intelligence chatbot that is trained to answer a wide range of questions about different topics in a conversational way."
     publishedDateTime: 2022-12-05T18:37:00Z
@@ -312,6 +326,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 17
+  - title: "A week since launch, OpenAI's ChatGPT has shown the power, and horror, of AI"
+    excerpt: "In fact, there's a good chance that you've used something that relied on AI in the last 24 hours. But when OpenAI launched ChatGPT last week, it lowered the entry requirements for using AI. ChatGPT is a chatbot that's accessible through any web browser."
+    publishedDateTime: 2022-12-07T14:27:00Z
+    webUrl: "https://www.windowscentral.com/software-apps/a-week-since-launch-openais-chatgpt-has-shown-the-power-and-horror-of-ai"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 16
   - title: "TechScape: Meet ChatGPT, the viral AI tool that may be a vision of our weird tech future"
     excerpt: "OpenAI’s new chatbot isn’t a novelty. It’s already powerful and useful – and could radically change the way we write online"
     publishedDateTime: 2022-12-06T11:12:00Z

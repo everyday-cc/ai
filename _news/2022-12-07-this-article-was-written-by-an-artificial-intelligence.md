@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2022/12/07/openai-chatgpt-chatbox-could-o
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/12/07/openai-chatgpt-chatbox-could-one-day-replace-google/?amp=1"
 type: article
 quality: 87
-heat: 98
+heat: 99
 published: true
 
 provider:

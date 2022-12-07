@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Editorial Roundup: United States"
-excerpt: "The problem is that, right now, the United States can’t depend on a steady supply of chips, even though the design and software are mostly developed here. After half a century of global outsourcing, the manufacturing process has been dispersed,"
+excerpt: "Excerpts from recent editorials in the United States and abroad: Dec. 5 The Washington Post on microchips, the U.S. and the future When President Biden visits a microchip factory under construction in Arizona,"
 publishedDateTime: 2022-12-07T11:10:00Z
-originalUrl: "https://omaha.com/lifestyles/technology/editorial-roundup-united-states/article_e972aed5-2d2c-50a9-b605-798720af82ab.html"
-webUrl: "https://omaha.com/lifestyles/technology/editorial-roundup-united-states/article_e972aed5-2d2c-50a9-b605-798720af82ab.html"
+originalUrl: "https://madison.com/lifestyles/technology/editorial-roundup-united-states/article_6643bc88-7e10-5b2c-b906-8dd53c773949.html"
+webUrl: "https://madison.com/lifestyles/technology/editorial-roundup-united-states/article_6643bc88-7e10-5b2c-b906-8dd53c773949.html"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: Madison.com
+  domain: madison.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg?resize=600%2C315"
+  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/custom/image/e97be396-c546-11ea-adaa-c74813a83914.jpg?resize=600%2C315"
     width: 600
     height: 315
     isCached: true
 
-secured: "pP0y7CCbvFjLQ6rrKD1YZVwAE0PDhyZvf7sShA/r959QQa/S/zNoAcKBuIHo6Wd9Ult5PVn1h6lsJSFnJjRgHdx1X8jLWseCcM/pfBQxNaek6z0zFhjh8xNvHPz9+3T4+C3HRvDlCWtoWSxL/elQZ7PzV81kYoVwKkS7tJwI5P0eIs7i05IB/1gR66Dg6hjIPnMzXnsakLiHZrCeKexagUzoNtDX2I3sDDKZaLA5jwtTb01G5muyopOgFvuAIwfocfhlOsptjGHJTdbyOVWoynoBgikh9uHsLxn+mQw1uzzpU4/ejoH244kaCRrJX7yogk9+gEF0xrx05Igk0vbEI0ePZYLp7p+yktU4SiZDS+Y=;P6ikTY9wrAHVZi9tE8jqIg=="
+secured: "zvlguO+YanxGAFWrGhwqOv2k2KXrg8juYzxD7l8Ij7Hcia+vcDOy/OkRmyCVgIb5hnlDNTigoOsEPCeKHND9TedfxJiEuNFIck8EIGzYhXvKHSYiVjpq9VMhLMlDvSz1HBLhpJwuD+VLRioJEjoFt7XVnJA0N14XjygvjHetjAJ/gDuzed+hKWrwy8jpCiseAzsK7+fCMHab6U6h3ADEuPbuF6kah7WTSij4yJXgdKYLD//d/+fZ9DkhDo1R4NsJBsqV8q/7TYtnXSgs6mkjP/wOt63kxuDeuJAo+k0uVCsi+/9bPJzEsvfolHPrkvi3lhVWoU3EeYRJUHu02M4jDiBlpeBpKo+If0wRgjDiJrc=;G8ZzO8JqFOlfIHAleU6sew=="
 ---
 

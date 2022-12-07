@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/29983615"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29983615"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 800
     height: 313
     isCached: true
+
+related:
+  - title: "Artificial Intelligence in Genomics Market to Reach $6.22 Billion by 2029 - Exclusive Report by Meticulous Research®"
+    excerpt: "Download Free Report Sample Now @  The application of artificial intelligence (AI) or machine learning has been widely increasing in genomics studies, requiring production of complex and large amounts of data."
+    publishedDateTime: 2022-12-07T15:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-genomics-market-reach-622-billion-2029-/2022/12/07/9726045.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
+    images:
+      - url: "https://mma.prnewswire.com/media/1757980/Meticulous_Research_Logo_1.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "n9uWVMlUNd3jLeDcgdlcrM0Gss0Uxb4OOJzXqgYZmjtYkbPN4BpnxW7yHoxsxN4TjHSaAb3yIjdFCQiyePzXSHEw+k3Qk3zo2O+5MVOluhlFRnFtloQRs1T72x5l9uVdUjGF2oUO6KvLjKlJF/nGTMAw71vL+mz2X731tEaPg7M0kS1gGwvdmBcqjX9J+04+cETQv01VCR8CJIYWwpuZMSUOemrvFz9SJXRZ+kugcDsSxg8fEnCTHXsDtIQkHAovhnlXqtW5AugUXuqpo88AjZgwCUCJWSpa7n7tcrblzcv2IoXzaY8mvgCQ75dfVoMCIsgwf+D3+dlHZWIxN0jPppxdzhmoqik9cPGx9+BTb1c=;MAbNDJ/ywrYki5PP8RRH7A=="
 ---

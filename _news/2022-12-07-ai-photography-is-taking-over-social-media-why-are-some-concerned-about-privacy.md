@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-07T13:15:00Z
 originalUrl: "https://abcnews.go.com/GMA/Living/ai-photography-taking-social-media-concerned-privacy/story?id=94526042"
 webUrl: "https://abcnews.go.com/GMA/Living/ai-photography-taking-social-media-concerned-privacy/story?id=94526042"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: ABC

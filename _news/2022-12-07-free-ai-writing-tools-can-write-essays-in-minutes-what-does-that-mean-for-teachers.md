@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Canva targets business users with generative AI-powered tools"
+    excerpt: "Canva is boosting its efforts to target enterprise business users with today’s release of Canva Docs and the AI-powered Magic Write."
+    publishedDateTime: 2022-12-07T14:41:00Z
+    webUrl: "https://venturebeat.com/ai/canva-targets-business-users-with-generative-ai-powered-tools/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "RJWtGqmLOr8aDaTnvdklRv3Fu6hx27SxomF036gO2KeI3u2jkVlufefF2UsJV2zZaW6hzswvbI7OTrx/kh/HIbhk2YBDL8tpXGN85SBsZwUInhmpKZK++gsiS2bUTWha8Ney9d9JCuF3YZOQ73HogV6vOawttgGLHCt7sDuW5SSCizpBMAsGNDEYPBBzgd5YZ7rf8ypGgfrsxYasA/kkq/MGaNKHsCT9NgNn0fqGsfIzI2sY4px9+AL13ZxW/pZ5VUCWTs+E15XDgAONHflFqGXnTZVBVDL+1XrtC9A3O8AfhRRZIMPbQ8AwBYzrIGyfLeoidOoB847ZwuF2UNv9jSDyBbMiYgF1obpgMJCyXbc=;HFVT6KW46ywZShRnQMJTxw=="
 ---

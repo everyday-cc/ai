@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How BMW Group has embraced AI for positive use cases and to improve sustainability | AWS re:Invent"
-    excerpt: "Among the most exciting use cases is for fully autonomous vehicles, but that’s not the only area where AI is having an impact. For example, Microsoft and Mercedes-Benz are working together to improve automobile production efficiency."
-    publishedDateTime: 2022-12-02T22:13:00Z
-    webUrl: "https://venturebeat.com/ai/how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent/"
-    ampWebUrl: "https://venturebeat.com/ai/how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 90
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/12/VB_BMW_AWS_reinvent_120223.png?w=1200&strip=all"
-        width: 837
-        height: 440
-        isCached: true
   - title: "Sustainability And Inclusion Take Center Stage At AWS Re:Invent"
     excerpt: "Within the AWS leadership, there is a strong belief that technology should be built in a way that’s inclusive, diverse, and equitable and the company has a responsibility to make that happen. All Builders Welcome serves as a bridge between the current status quo and the future of tech. During the week, the grant winners had the opportunity to:"
     publishedDateTime: 2022-12-03T18:22:00Z

@@ -35,7 +35,7 @@ related:
     provider:
       name: Barron's
       domain: barrons.com
-    quality: 61
+    quality: 59
     images:
       - url: "https://www.barrons.com/asset/external-media/afp/AFP2689439216944067383893578078951981468096---1.jpg"
         width: 768
