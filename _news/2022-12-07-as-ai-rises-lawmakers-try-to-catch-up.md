@@ -8,9 +8,9 @@ webUrl: "https://www.barrons.com/news/as-ai-rises-lawmakers-try-to-catch-up-0167
 ampWebUrl: "https://www.barrons.com/amp/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610"
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610"
 type: article
-quality: 59
-heat: -1
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: Barron's
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.barrons.com/asset/external-media/afp/AFP2689439216944067383893578078951981468096---1.jpg"
@@ -27,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS AI Service Cards signal Amazon’s responsible AI catch-up"
-    excerpt: "Invent, Amazon launched AI Service Cards, which a Gartner analyst says is an effort to catch up with competitors in responsible AI."
-    publishedDateTime: 2022-12-02T18:33:00Z
-    webUrl: "https://venturebeat.com/ai/aws-ai-service-cards-signal-amazons-responsible-ai-catch-up/"
-    ampWebUrl: "https://venturebeat.com/ai/aws-ai-service-cards-signal-amazons-responsible-ai-catch-up/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/aws-ai-service-cards-signal-amazons-responsible-ai-catch-up/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/aws-logo-new.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "As artificial intelligence rises, lawmakers try to catch up"
     excerpt: "Experts cite China’s widespread use of digital surveillance as a harbinger of AI-enabled totalitarianism. Read more at straitstimes.com."
     publishedDateTime: 2022-12-07T05:44:00Z
@@ -58,6 +43,6 @@ related:
         height: 573
         isCached: true
 
-secured: "qxLSP/d0+cRXwNnYUygmGcqa4xSb8V1A1dnH0sLR1U8JMvsXggyX1LoXj2UUpvFsw3IaWPtkn0RE6jO/GyjBhslEj2NcmiZvR2+S2O5Ad6ikB7ynkb8B5Ii0LdVi7B1ZGPEUxhrIYWFt1tC9Kf0xArzh9yVEcQxYW5LNxNr2lR0mTOsq5Src0VjzEnlwLLAwfjLZDwChen3LeRmWc3PvlpQKoNCAFksShHzZY4IxsveUQ1i5x7KB8+MF+7mATiC5l5qtU7WrgqRpsr+zXivjaCI+KT/YHr8jJbbphpisNHJLcGAWLzUDpFYyU1z3B6qKr7PueljgAAPFTVgpMhwcqFaxa2/mNjAq/GY9KpqmCZ8=;36ZN10aqJRSnyv5zOw1A/A=="
+secured: "L8Xk/l5sVna6+nNYLiIg3AkEiJpqECEFwrzhHNsG8KugcZOg9da97C3809hbce2kTwEDTvxXR5Wtaov1JrdKZAZyzYBBn4NsTuQY7QpeRNS8tdKVDQhVei0WZ3SiNeWJGqhpQsp8NXS0O/0UtlZVzroNRRew4g88qHFk2rKcjvOqehPUPJK0m5UPXNw19MMriLp0xzu15SwILsfLH/VfxZxELasHW2J730IUl3EnmNR5SLH0qZkuvoZz82HfSWi6F9Yd1H5UARg7mQu7cryH1jjs5AGJLN590dz8hjjdqvwZnKq4ThIAYybKkcA7XqM8PWTJyvOHvzibO/oYo1vkLGqJV513/B8HNu4h4P+N8j7YDkOqwzYY54hcw2qg1yTpOSk9UBEO6R1Jq3vh6l6Yrw7eKLAx9eAUa/S/PGENfam5QqmRg7mVNcxlz2lJFdFHVKDCuKKVxDDIMkbA0z7qAU8nzBTCHk4xjdmkKLFNc6lIAdt6TYP0Cj0n16U128Jx4gWSGbjItC5HyGt+fBK/0A==;sq/eVOHKxCRFZ42vABzv1Q=="
 ---
 

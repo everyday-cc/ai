@@ -1,49 +1,28 @@
 ---
 category: news
 title: "Self-driving Lorries Hit The Road In Sweden"
-excerpt: "Barrelling down a motorway south of Stockholm in a 40-tonne lorry and trailer, the driver keeps a careful eye on the road but, jarringly, no hands on the wheel."
-publishedDateTime: 2022-11-30T06:43:00Z
-originalUrl: "https://www.barrons.com/news/self-driving-lorries-hit-the-road-in-sweden-01669790708"
-webUrl: "https://www.barrons.com/news/self-driving-lorries-hit-the-road-in-sweden-01669790708"
-ampWebUrl: "https://www.barrons.com/amp/news/self-driving-lorries-hit-the-road-in-sweden-01669790708"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/self-driving-lorries-hit-the-road-in-sweden-01669790708"
+excerpt: "In the pilot project, the self-driving truck is manoeuvring a stretch of some 300 kilometres (186 miles) between Sodertalje and Jonkoping in Sweden's south, delivering fast-food goods. From the outside,"
+publishedDateTime: 2022-11-30T05:46:00Z
+originalUrl: "https://www.ibtimes.com/self-driving-lorries-hit-road-sweden-3641809"
+webUrl: "https://www.ibtimes.com/self-driving-lorries-hit-road-sweden-3641809"
+ampWebUrl: "https://www.ibtimes.com/self-driving-lorries-hit-road-sweden-3641809?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/self-driving-lorries-hit-road-sweden-3641809?amp=1"
 type: article
-quality: 44
-heat: 44
-published: false
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.barrons.com/asset/external-media/afp/AFP8131949232193825476244943363076152094355---1.jpg"
+  - url: "https://d.ibtimes.com/en/full/4388782/lorry-combines-all-input-various-sensors-gps-system.jpg"
     width: 768
     height: 511
     isCached: true
 
-related:
-  - title: "Self-driving trucks hit the road in Sweden"
-    excerpt: "In the pilot project, the self-driving truck is manoeuvring a stretch of some 300 kilometres (186 miles) between Sodertalje and Jonkoping in Sweden’s south, delivering fast-food goods. Greta Thunberg, 600 youths sue Sweden for climate inaction From the ..."
-    publishedDateTime: 2022-12-01T00:07:00Z
-    webUrl: "https://www.citizen.co.za/news/news-world/self-driving-trucks-hit-road-sweden/"
-    ampWebUrl: "https://amp.citizen.co.za/news/news-world/self-driving-trucks-hit-road-sweden/"
-    cdnAmpWebUrl: "https://amp-citizen-co-za.cdn.ampproject.org/c/s/amp.citizen.co.za/news/news-world/self-driving-trucks-hit-road-sweden/"
-    type: article
-    provider:
-      name: The Citizen
-      domain: citizen.co.za
-    quality: 44
-    images:
-      - url: "https://media.citizen.co.za/wp-content/uploads/2022/11/Self-driving-truck-Sweden.jpg"
-        width: 1501
-        height: 1000
-        isCached: true
-
-secured: "b9Sv+T6qp9+7QwtBSkCH9i2kemorakG8tnzJmqyewJPe29ChEV+ifv/z1beuKd+LtIr9yjmd8DQ4/ptN46C8TcSpVyRqsHmtY2rIhzkEDL7/XG9SNzYIk8FMPFOO0njnLCwljK+WqF+yU2o9GKvrZ8SFgCZGSjfKhoPyktud/KgatyFQd3BXzwFIYnlmrm8HL0IgOOXf/5B0qoywscuSNZmjdYbF6Mg3gPee2jH6EkCNFPJmXc/fqTTBrJUPKDRPve8XCvKbZe5d7TvQuEMlfUzRkEtzpAJol3q67RbjuSqXgk/M5e5z0x6kQUvrj3qVhW52n0czVKlxp7Eoz+LYSsPwxrH2iX0f3PHtbPxh1yXgQ5L6r295iB/J9apvbZfSfogldV9trLypaKrGAfSwN/G+e+IXFw6YDyjQyj3PjUvI/rbYACCkavuRc+1IWgDA6c4Ms0doMa63lYfkj3ivgEJtFiNAEr3N6MVEifKx7xc+AiHEocpP4pe04Z5ZOF55SxGl6jv5RFE3wEGz1bIyAg==;zIcTwtC4qOookt3Qp2idPA=="
+secured: "uk1FXhB0Z9U8BaJfJuTdTxPsMW6MrE2PHuLXEpsqECVx4gwvkgGfMxeVak8T4R1NxJAinwqQ8mzZaSz1TzqLjvuhJNetIuZxwz3l52equG5Tx+MdePqOUm6/mF13RFU5UhW3pA29uZwy3h6CynBQGxx3Xo96KFrHxCBN2nOnIor5e78Q1A0Q/955CFQ4Y6LtK76ray261gF/GXzvo1SWo/CHP8+7LioyYsFjwdXLEAZsnC0GRm643JRCw1L8eZXvIz8WjBIJEvDWg51/IoDNSvX3TBcH5Tp8GoLm/jn2vt9GRIj0guTw2x6lgq78egDZu6aX+pcU74yYtOd81VJ60yuExh1NCHHX3V2KWzSIUTg=;9YGIiW22GxwYo7fzApEkDg=="
 ---
 

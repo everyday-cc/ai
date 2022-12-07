@@ -105,6 +105,22 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "NAVER and Samsung Electronics Join Hands to Develop Semiconductor Solutions for Hyperscale AI"
+    excerpt: "NAVER Corporation (CEO Choi Soo -yeon) and Samsung Electronics (CEO Jong-Hee Han, Kye Hyun Kyung) have signed an MOU for collaboration on developing semiconductor solutions for AI, and formed a working-level task force."
+    publishedDateTime: 2022-12-06T01:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/12/n29968035/naver-and-samsung-electronics-join-hands-to-develop-semiconductor-solutions-for-hyperscale-ai"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29968035"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29968035"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 48
+    images:
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
+        width: 800
+        height: 313
+        isCached: true
   - title: "Samsung and NAVER are developing AI chips"
     excerpt: "Samsung and Naver have announced a new partnership to develop AI chips, the two companies will work together to develop semiconductor solutions tailored"
     publishedDateTime: 2022-12-06T13:01:00Z
@@ -115,6 +131,6 @@ related:
       domain: geeky-gadgets.com
     quality: 34
 
-secured: "16YQP5XoGUnzRp3VFUN/lb7WFEW7qLKyr0t7vP2qM5vCyxrxlmnhtf1a+UihTKqjD5OUsy3F9uWU/0MtTwr922TRyZB8r458yD5v5RrviSopccWDieWyshQrF8+wHL0uZFLVs7GIU+/f6aaPuOOMbYMQoaOn0doD2oym0WlJbnYHxp4EVxn/IGxXax5Y18s0qNSoh2L9EaCBP6AQbtkByvuMC79p6UNt0vKHPbA4R98fspy1r4oW0HETWVTRmtAqaXJfAhloV2CdKtdYxo5sJvlB+IzBahyjcsyK7Iodw3XXP2u6/p6t/KQAndutFTBZQZyMV+PklzuN0oCdAh6PEOJmhLtymiQqmdSbp1vO58Q=;lqjOobfUaLi/cQxWcMyMUg=="
+secured: "YdOnrg0j7POCG27CwatxgvXP+Vr4DVr6CBlS2y6R6zYqSRM+lQajgrmEeXZdW5+WGBE30A+saOmgaEOsBib2towYDWxtmodKlWTl3vFkpbb3B1f2xdVyIvGvKMG7nCgcVenZZnDqJKgQMUHb+MrgxvSdd8QvsdkW35AUuV4AxWADVMgmjGaSuB2vFeqoE2rdzCTF0dmkN1DWFIBJgtQAtKc8xtrycRvR+zupsSt3+gEDzueNSOnUBbO7WF3RolW76XPzCCZGElnanjZLUSfXH3Qy1zQploNi1XNkbnEvm0TzhpL5vzh1AnfHZgW5/Xi7oztz7tU76nnibbsKMQp0tOlZrDnZ4DyqOpEUp2ogcXslziZ9VQXDdZ9C5OXocQa3u8A6fgII1CgWHHTEVT1EnIC4+2S9ij9DO10uKgJb94QaZRMHW1Im9v2ycBrZh4RFZbFT6cutZsxDBzDLGpCrVDQ+PZvmOOTeyR3b1QNkfCwzhMvdkIPOgCfr0iW4UsRs2HIuYIx98pK631MYApITTA==;JGIzR3F71X3lXgbBaYUeRQ=="
 ---
 

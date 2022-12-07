@@ -70,6 +70,22 @@ related:
         width: 1200
         height: 730
         isCached: true
+  - title: "Lensa AI, self-portrait app generates non-consensual soft porn if provoked"
+    excerpt: "One of the major reasons for the backlash is that the app can be used to generate non-consensual soft porn. There are quite a few pictures that can be seen on Twitter, with breasts and nipples clearly visible in the images."
+    publishedDateTime: 2022-12-07T09:49:00Z
+    webUrl: "https://www.freepressjournal.in/business/lensa-ai-self-portrait-app-can-be-provoked-to-generate-non-consensual-soft-porn"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/lensa-ai-self-portrait-app-can-be-provoked-to-generate-non-consensual-soft-porn"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/lensa-ai-self-portrait-app-can-be-provoked-to-generate-non-consensual-soft-porn"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 57
+    images:
+      - url: "https://gumlet.assettype.com/freepressjournal/2022-12/59fcfa7d-a625-4ada-a3a7-dbac686539d8/1500x500.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 462
+        isCached: true
   - title: "Lensa AI’s Avatars Return Startup Prisma to the Limelight"
     excerpt: "My social media feeds are full of cartoon selfies of people, thanks to a new feature called Magic Avatars on Lensa AI, a photo and video editing app. Although the app is four years old, the new feature has made it a hit in the past week,"
     publishedDateTime: 2022-12-06T22:53:00Z

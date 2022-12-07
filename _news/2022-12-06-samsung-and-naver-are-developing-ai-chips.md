@@ -113,6 +113,22 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "NAVER and Samsung Electronics Join Hands to Develop Semiconductor Solutions for Hyperscale AI"
+    excerpt: "NAVER Corporation (CEO Choi Soo -yeon) and Samsung Electronics (CEO Jong-Hee Han, Kye Hyun Kyung) have signed an MOU for collaboration on developing semiconductor solutions for AI, and formed a working-level task force."
+    publishedDateTime: 2022-12-06T01:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/12/n29968035/naver-and-samsung-electronics-join-hands-to-develop-semiconductor-solutions-for-hyperscale-ai"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29968035"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29968035"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 48
+    images:
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
+        width: 800
+        height: 313
+        isCached: true
 
 secured: "WESar9lTjSC9L0JGoBGOUw295Pn7qOYkUJL5i9mOR8y/ctPxPNy+pcbBGpQ5s7/g0sKyM7WjScfco96ONmkfoi4Ca70uqtkFTJ1+LIQ1n7d4ZKnXAK0VveRatSZtepCTSg83+PgibCHbLkEyM0/KZpSFbfwtO6msqUAeQ9xjC4XbmUOewuSBwGb4UMQEB+N72gV74aOvzJRTmZspmDqTStuhmoYZGTOno2IWgFppaYCV5RTlZGveYrMXoR5+Y6h1gxtv4a4ZDpIsGH7KZDosHxQW/VIbDqqU0PwdHyFFxwrNp2W/s8N767yg8mdA8z7XVuNWH9tjyHcFBv1iPd5AzOgMQcyj2rfOmEaOlcwtUAQEsL4CPnDHPusxZD7S52zniisuxlEBaPFqzWYvtpyLamuC1MdQfaf619XSez3+kylEDK12Vpq6jrI5sPXyNDYDtdYQ2Hx62hiAyjPKNX+79NDrFN2Qb/AfJPu1PzfNhjsLYueOOT1tHeHURuQswAMppkaOcty33ZupAlzepn6Bug==;INyj65zHb3wneFERTnkxSQ=="
 ---

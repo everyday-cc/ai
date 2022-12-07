@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple dramatically scales back its EV ambitions"
+    excerpt: "Apple has scaled back ambitious self-driving plans for its future electric vehicle and postponed the car’s target launch date by about a year."
+    publishedDateTime: 2022-12-06T18:32:00Z
+    webUrl: "https://techcentral.co.za/apple-dramatically-scales-back-its-ev-ambitions/218290/"
+    ampWebUrl: "https://techcentral.co.za/apple-dramatically-scales-back-its-ev-ambitions/218290/?amp=1"
+    cdnAmpWebUrl: "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/apple-dramatically-scales-back-its-ev-ambitions/218290/?amp=1"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 44
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2022/12/car-tyre-1500-800.jpg"
+        width: 1500
+        height: 800
+        isCached: true
   - title: "Apple scales back self-driving car and delays debut until 2026"
     excerpt: "Apple has scaled back ambitious self-driving plans for its future electric vehicle and postponed the car’s target launch date by about a year to 2026, according to people with knowledge of the matter."
     publishedDateTime: 2022-12-06T23:46:00Z
@@ -55,15 +71,6 @@ related:
         width: 720
         height: 400
         isCached: true
-  - title: "Apple Reportedly Taps the Brakes on Its Self-Driving Car"
-    excerpt: "Along with the delayed release, the car will reportedly now only have full autonomous capabilities while on the highway. Consequently, the initial design -- void of a steering wheel and pedals -- will have to be modified to accommodate manual driving."
-    publishedDateTime: 2022-12-06T20:20:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/apple-reportedly-taps-the-brakes-on-its-self-driving-car/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 34
   - title: "Apple to scale back self-driving car ambitions, delay car launch to 2026 - Bloomberg News"
     excerpt: "Apple Inc is scaling back its self-driving car ambitions and delaying the car's launch date to 2026, a Bloomberg News reporter said in a tweet on Tuesday."
     publishedDateTime: 2022-12-06T18:05:00Z
@@ -73,29 +80,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 25
-  - title: "Apple Car Reportedly Won’t Be Self-Driving and Now Delayed Until 2026"
-    excerpt: "The car will now have a steering wheel, pedals, and just about everything like a normal car, but a bevy of driver-assistance hardware and a price around $100K."
-    publishedDateTime: 2022-12-06T21:09:00Z
-    webUrl: "https://www.thedrive.com/news/apple-car-reportedly-wont-be-self-driving-and-now-delayed-until-2026"
-    type: article
-    provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 24
-    images:
-      - url: "https://www.thedrive.com/uploads/2022/12/06/Apple-WWDC22-iOS16-CarPlay-220606.jpg?auto=webp"
-        width: 1960
-        height: 1102
-        isCached: true
-  - title: "Apple's self-driving car reportedly won't be - and it'll be late too"
-    excerpt: "Apple's rumoured autonomous car isn't going to be quite as capable as we'd been told to expect according to a new report that says it'll be late, too."
-    publishedDateTime: 2022-12-06T20:18:00Z
-    webUrl: "https://www.pocket-lint.com/cars/news/apple/163729-apple-s-self-driving-car-reportedly-won-t-be-and-it-ll-be-late-too"
-    type: article
-    provider:
-      name: Pocket-lint
-      domain: pocket-lint.com
-    quality: 4
   - title: "Apple Car Project Scaled Back and Delayed, Won't Feature Full Self-Driving Capabilities"
     excerpt: "Apple has scaled back its Apple Car project and the company no longer plans to release a fully self-driving vehicle, reports Bloomberg."
     publishedDateTime: 2022-12-06T18:05:00Z
@@ -104,15 +88,6 @@ related:
     provider:
       name: MacRumors
       domain: macrumors.com
-    quality: 0
-  - title: "Apple pushes self-driving car launch to 2026 but still eyes major EV industry disruption"
-    excerpt: "The wait for Apple (NASDAQ:AAPL) to bring a self-driving car to the market has been pushed back until 2026. Sources indicate the tech giant has also moved away from producing an electric car without steering wheel or pedals in favor of a less ambitious design that still offers full autonomous capabilities on highways."
-    publishedDateTime: 2022-12-06T19:00:00Z
-    webUrl: "https://seekingalpha.com/news/3914508-apple-pushes-self-driving-car-launch-to-2026-but-still-eyes-major-ev-industry-disruption"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
     quality: 0
 
 secured: "Yis2Gkknz+H3BcrfGXafyvdG2F1V84SrtYUvPTffiN5+PyX8bFFk7fGYP9zVRZ728kHqJdEpETFwRo2PKE3O7+jvsO2DtCp0r1AIJ7NHdpENRc1ZZJ2B46oDQkPSijk7zwtibwGHDgSRecv/9dMBmztBOAQf2Pm7AJZvo6aEoEhNaWnE1yvkITWn4KBy60CHk4y/eR95vFN2D622wNHaKWSOMGV45az43O1KIfdb31mDOkVR5d9f5iFY0UQRz2/3NRc0pJtMP0/1qaDvD2sJBv1s/yD7U8ToC7hJAmIsll6xw6Ka9Iv1Q47bwr1671IE1e2Ci38LHL9hdnAu1MzPG+wvQ+Y59nVkIvX08ynwOzEgaYukcrfdiVwds157lMNdc/RRE8rHCgWWAV0tfexDaH6r1piGCFzq5tZHiATcc9hb37CwDOIdGrWNZvIMasE/lsU1hI1OscP8DPodhaIR1gFEuBPEIkYuSKnVTVKRZUEC+Vx9P602gCifG3+KTVLelukXnlXw50YB98V+cDo3Jw==;sL77OJMGgxa9ptlrImCX3Q=="

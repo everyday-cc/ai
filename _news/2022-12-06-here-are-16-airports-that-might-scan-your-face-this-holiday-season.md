@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/airports-holiday-travel-tsa-facial-recognition
 webUrl: "https://gizmodo.com/airports-holiday-travel-tsa-facial-recognition-1849855925"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "TSA now wants to scan your face at security. Here are your rights."
-    excerpt: "Some 16 major domestic airports are testing facial recognition tech to verify IDs - and it could go nationwide in 2023."
-    publishedDateTime: 2022-12-02T18:59:00Z
-    webUrl: "https://www.stripes.com/theaters/us/2022-12-02/tsa-scan-face-security-rights-8276741.html"
-    type: article
-    provider:
-      name: Stars and Stripes
-      domain: stripes.com
-    quality: 41
-    images:
-      - url: "https://www.stripes.com/incoming/5ssoxw-tech-tsa_66d108f2-7261-11ed-88a5-6fb72b62f3ca.jpg/alternates/LANDSCAPE_480/tech-tsa_66d108f2-7261-11ed-88a5-6fb72b62f3ca.jpg"
-        width: 480
-        height: 299
-        isCached: true
   - title: "TSA wants to scan your face at security. Here are your rights."
     excerpt: "Next time you're at airport security, get ready to look straight into a camera. The TSA wants to analyze your face."
     publishedDateTime: 2022-12-02T19:12:00Z

@@ -25,6 +25,38 @@ images:
     isCached: true
 
 related:
+  - title: "Tata Tele Business Services to offer Microsoft Azure to SMBs in India"
+    excerpt: "This will enable SMBs to modernize their operations with smooth movement of business workloads to the cloud on a pay-as-you-go model and deliver better experience to their customers even as they scale faster,"
+    publishedDateTime: 2022-12-07T10:46:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/tata-tele-business-services-to-offer-microsoft-azure-to-smbs-in-india/96056935"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/tata-tele-business-services-to-offer-microsoft-azure-to-smbs-in-india/96056935"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/tata-tele-business-services-to-offer-microsoft-azure-to-smbs-in-india/96056935"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-96056935,imgsize-18972,width-1200,height-628,overlay-ettelecom/tata-tele-business-services-to-offer-microsoft-azure-to-smbs-in-india.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Tata Tele Business Services to offer Microsoft Azure to SMBs"
+    excerpt: "Microsoft Azure offers essential compute, storage and networking resources on demand, on a pay-as-you-go-basis including services like On-Prem to Azure Migration, Microsoft Azure Managed Services, Public Cloud to Azure Migration,"
+    publishedDateTime: 2022-12-07T09:20:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/telecom/telecom-news/tata-tele-business-services-to-offer-microsoft-azure-to-smbs/articleshow/96054290.cms"
+    ampWebUrl: "https://m.economictimes.com/industry/telecom/telecom-news/tata-tele-business-services-to-offer-microsoft-azure-to-smbs/amp_articleshow/96054290.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/telecom/telecom-news/tata-tele-business-services-to-offer-microsoft-azure-to-smbs/amp_articleshow/96054290.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-17964,msid-96054347/tata-tele-business-services.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Snowflake becomes available in UK on Microsoft Azure"
     excerpt: "UK organisations using Snowflake services will maintain data residency while embracing the potential of the data cloud thanks to availability on Microsoft Azure."
     publishedDateTime: 2022-12-06T10:46:00Z
@@ -61,15 +93,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 49
-  - title: "Nexus FrontierTech launches first-of-its-kind plug-and-play AI modules on Microsoft Azure"
-    excerpt: "Artificial Intelligence (AI) solution provider Nexus FrontierTech has announced its partnership with Microsoft Azure, allowing clients to utilise the Azure marketplace for quick deployment of AI solutions within their organisations."
-    publishedDateTime: 2022-12-05T12:54:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/12/05/9724024.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 40
   - title: "Microsoft Quantum Innovator Series: The path to quantum at scale"
     excerpt: "Get the inside, first-hand account of Microsoft’s strategy to scaled quantum computing in a new webinar series where you’ll hear directly from Microsoft Azure Quantum scientists and leaders about the path to quantum at scale and how to get involved today."
     publishedDateTime: 2022-12-05T17:00:00Z
@@ -83,20 +106,6 @@ related:
       - url: "https://cloudblogs.microsoft.com/quantum/wp-content/uploads/sites/7/2022/12/BlogHero_1200x800v2-1.png"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Microsoft looks appealing as 'strong, durable' demand should boost growth"
-    excerpt: "Microsoft shares have fallen nearly 30% year-to-date as investors worry about a slowdown in the PC business, its all-important Azure cloud unit and enterprise software spending."
-    publishedDateTime: 2022-12-04T16:00:00Z
-    webUrl: "https://seekingalpha.com/news/3912029-microsoft-looks-appealing-strong-demand-boost-growth-morgan-stanley"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 38
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1373383119/image_1373383119.jpg?io=getty-c-w750"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "X/QNb9NIg9Tm72YB88hgtZ/AwS8Tf8Arg0fM2wnvZVi38aLVrhH+2Z28mdcmPDIxZw5A1H+k1IOBDZGXbk5TSu9X3uV+NrV3S/yTCByf7apzm+Ou+I0Y821dw6L7HLVTT3y4ssSTun+VLALi3nKb/yYCZY81gI20wtaU1plmnLJMuY+LWJm/54ZfFLPAG3OjxlTSb04tSHTLHv5d0dySn7q/wzeN82EtQhuassyG4hPMzBFBj2ER2P+liJKz4c4fBNnVWgTaCUUWWkcf+HBa8WIj83/WWCVCJssznpxiFWAe6/u+JFdvgyLkaDzW2Aq8rUWxNeRfa/0gkXBP4RHLtCWhphTnilcDDsi6TjV1xsJRMBzPIwzGRFBEG75OqRtxbaXEc0zMBBBx2yZxIbJVgnCzrD4GdEQt4/UFVD3zmumlD+0i5+7t+fV7Xnk6Da6yf0j+QboKk/FIM+lEvrR6Qo1Xq9bbXO8Pt4PfeovfPKwDk9NNZ/4wPKdfeykRA+ctVfrm6rmDVSg1E/q1uSQeKg==;eC6AD0YdbiKYNhTzOEh4tg=="

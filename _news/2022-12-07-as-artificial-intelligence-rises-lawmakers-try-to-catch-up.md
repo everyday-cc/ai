@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS AI Service Cards signal Amazon’s responsible AI catch-up"
-    excerpt: "Invent, Amazon launched AI Service Cards, which a Gartner analyst says is an effort to catch up with competitors in responsible AI."
-    publishedDateTime: 2022-12-02T18:33:00Z
-    webUrl: "https://venturebeat.com/ai/aws-ai-service-cards-signal-amazons-responsible-ai-catch-up/"
-    ampWebUrl: "https://venturebeat.com/ai/aws-ai-service-cards-signal-amazons-responsible-ai-catch-up/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/aws-ai-service-cards-signal-amazons-responsible-ai-catch-up/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/aws-logo-new.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "As AI Rises, Lawmakers Try To Catch Up"
     excerpt: "From \"intelligent\" vacuum cleaners and driverless cars to advanced techniques for diagnosing diseases, artificial intelligence has burrowed its way into every arena of modern life."
     publishedDateTime: 2022-12-07T07:59:00Z
@@ -51,7 +35,7 @@ related:
     provider:
       name: Barron's
       domain: barrons.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://www.barrons.com/asset/external-media/afp/AFP2689439216944067383893578078951981468096---1.jpg"
         width: 768

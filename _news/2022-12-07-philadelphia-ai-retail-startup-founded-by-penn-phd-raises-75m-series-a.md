@@ -28,18 +28,18 @@ related:
       domain: businessinsider.com
     quality: 28
   - title: "Five9 Elevates Omni-Channel Customer Engagement with Innovations in Digital Self-Service, AI Design, and Analytics"
-    excerpt: "(NASDAQ: FIVN), a leading provider of the intelligent cloud contact center, today announced new capabilities that help businesses deliver more engaging and unified customer journeys across digital and voice channels and between virtual and live agents."
+    excerpt: "Customers have high expectations when they contact their favorite brands, regardless of whether they employ self-service, digital or voice,” explains Dan Miller, Lead Analyst at Opus Research. “Too often,"
     publishedDateTime: 2022-12-06T13:01:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/five9-elevates-omni-channel-customer-engagement-with-innovations-in-digital-self-service-ai-design-and/article_083c6744-4594-55d2-addd-604b33bac43f.html"
+    webUrl: "https://www.bakersfield.com/ap/news/five9-elevates-omni-channel-customer-engagement-with-innovations-in-digital-self-service-ai-design-and/article_9ef2e3c5-c047-566c-a629-56d939593a22.html"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
+      name: The Bakersfield Californian
+      domain: bakersfield.com
     quality: 17
     images:
-      - url: "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg"
-        width: 350
-        height: 455
+      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
   - title: "Gemini Sports Analytics Uses Machine Learning to Help Sports Teams Make Decisions on Athlete Acquisition, Development, Management"
     excerpt: "Gemini Sports Analytics is a sports-specific, end-to-end automated machine learning tool to help teams develop players."

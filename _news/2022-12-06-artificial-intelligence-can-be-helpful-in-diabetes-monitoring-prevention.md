@@ -34,22 +34,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Scientists develop 12-hour method to predict diabetes onset in patients using artificial intelligence"
-    excerpt: "Scientists at Klick Applied Sciences have discovered a way to transform a continuous glucose monitor (CGM) into a powerful diabetes screening and prevention tool using artificial intelligence."
-    publishedDateTime: 2022-12-02T18:37:00Z
-    webUrl: "https://medicalxpress.com/news/2022-12-scientists-hour-method-diabetes-onset.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-12-scientists-hour-method-diabetes-onset.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-scientists-hour-method-diabetes-onset.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 42
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-2.jpg"
-        width: 1920
-        height: 1316
-        isCached: true
 
 secured: "3xQdXfkrU4UvTxFOqAqOjpQcmn0l4G1d2R06mNo352cPiB2oddKBvoHQukXiHQ2msSHk/0e6p8ItAPeCHiWLKikhYT94wd9Tw5ZY0m2wtYqaTgundfFdOrkw3mnCiz2p2w+iCsV8QzrQFG/K9Vx9bjisJkoQ3aMpSyWd8seqbxBnyJlS9CV7qTchwACgauXICZO4ThBlqrwwCLo4HfYUuOKIdaNLDCSbweOm6sjw5chsCmBag8qmCzPZfYJJnDSp/EGXWVnQC+grmWhDGbH163ym8xvk0Qcms8Pp0LFGndrGJOMxbwcqsDTYeFJzjqin9Wu7HC69yFd7fDIWAaKMBOc5ppqbd4R6uaUXn2GuZ6dPBU9iRkNtxxFYw2f32StqAXC0EVSmiewAlh3P4nVD99R/NaagX3sqEqqqA4tFQYp7H6WWcBD0k/qygj//v1GsN/IVwoNwVVhgwjhmi6zVtz8TaZO0yxJbmSKKKUejYtGq3UdY4yLaMMSMZkiCCn5tNfTk8wQ9BYhniqNluZhbyA==;e4dnKmfM6HZhONvMO67nLw=="
 ---

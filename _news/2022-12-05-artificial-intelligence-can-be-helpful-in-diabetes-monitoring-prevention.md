@@ -9,8 +9,8 @@ ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/artif
 cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/artificial-intelligence-can-be-helpful-in-diabetes-monitoring-prevention/95994282"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: health.economictimes.indiatimes
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Scientists develop 12-hour method to predict diabetes onset in patients using artificial intelligence"
-    excerpt: "Scientists at Klick Applied Sciences have discovered a way to transform a continuous glucose monitor (CGM) into a powerful diabetes screening and prevention tool using artificial intelligence."
-    publishedDateTime: 2022-12-02T18:37:00Z
-    webUrl: "https://medicalxpress.com/news/2022-12-scientists-hour-method-diabetes-onset.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-12-scientists-hour-method-diabetes-onset.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-scientists-hour-method-diabetes-onset.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 42
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-2.jpg"
-        width: 1920
-        height: 1316
-        isCached: true
   - title: "Artificial intelligence can be helpful in diabetes monitoring, prevention"
     excerpt: "Artificial intelligence can be used to turn a continuous glucose monitor (CGM) into a potent tool for diabetes monitoring."
     publishedDateTime: 2022-12-05T20:16:00Z

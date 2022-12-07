@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/uber-aurora-consol
 webUrl: "https://markets.businessinsider.com/news/stocks/uber-aurora-consolidate-self-driving-truck-operation-to-tap-holiday-season-demand-1031953245"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Uber, Aurora to expand self-driving truck ops in Texas to meet holiday rush"
-    excerpt: "Dec 2 (Reuters) - Uber Technologies Inc (UBER.N) and self-driving technology company Aurora Innovation Inc (AUR.O) will expand their driverless pilot program in Texas to meet increased delivery demand during the holidays."
-    publishedDateTime: 2022-12-02T18:26:00Z
-    webUrl: "https://www.reuters.com/technology/uber-aurora-expand-self-driving-truck-ops-texas-meet-holiday-rush-2022-12-02/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 52
-    images:
-      - url: "https://www.reuters.com/resizer/bycTGC7xoLTOv8iJfBcfS-KEdxU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2WFPB4POLFLXNKTQAM3L4MWT4U.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Aurora and Uber Freight Expand Self-Driving Truck Runs Out of DFW"
     excerpt: "Aurora and Uber Freight's new self-driving trucking \"lane\" between Fort Worth and El Paso expands Aurora's operations in Texas. The company also hauls freight between Dallas and Houston—and is now hauling goods autonomously (with human vehicle operators in the cab) for FedEx,"
     publishedDateTime: 2022-12-02T20:01:00Z

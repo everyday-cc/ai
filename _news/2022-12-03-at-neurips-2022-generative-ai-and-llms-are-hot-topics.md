@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 637
         isCached: true
+  - title: "The Curious Case of Generative AI"
+    excerpt: "FastSaaS is a growing trend, with companies leveraging AI-generative and no-code capabilities to create their product."
+    publishedDateTime: 2022-12-05T04:52:00Z
+    webUrl: "https://analyticsindiamag.com/jasper-cerebras-partnership-changes-the-game-for-fastsaas/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/Is-This-the-Real-Moat-in-Generative-AI.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Speechmatics supercharges machine learning capabilities with NVIDIA AI"
     excerpt: "Speechmatics is one of the first companies to upgrade to the NVIDIA DGX™ H100 system featuring eight new H100 Tensor Core graphics processing units (GPUs), which provides a step change in the speed and efficiency of training the next generation of neural networks."
     publishedDateTime: 2022-12-06T10:34:00Z

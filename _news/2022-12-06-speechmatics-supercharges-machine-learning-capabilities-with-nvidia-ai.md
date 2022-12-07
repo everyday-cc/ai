@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 520
         isCached: true
+  - title: "The Curious Case of Generative AI"
+    excerpt: "FastSaaS is a growing trend, with companies leveraging AI-generative and no-code capabilities to create their product."
+    publishedDateTime: 2022-12-05T04:52:00Z
+    webUrl: "https://analyticsindiamag.com/jasper-cerebras-partnership-changes-the-game-for-fastsaas/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/Is-This-the-Real-Moat-in-Generative-AI.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "aaYm4iN7S6y+E1VDTh5IsvgPiJDtQAY5KELbYI0Ey61HVCBFb4KFfpvZeIUi/9ThvNjdSC8h2ZqMxNHfZCBwRwAi1k2YOwCUnIV+69HBxYJTf1rknIBzY+SKQIIykstEGRnhwFGIRzmrocsqH8rfmOo4yBFcCGAQPDxbttEodxhfWpQNZy4UHO+/eV/LS30n2/TQZDAv23XKEAU/guC891xmDNYMJlCdAEeZxDG8hE7o9E1p+HWieGaVOsshi1r+juKQ+rlBwF0k1hAI49Es7BWGjTVS4PCm0O1xHugnQyu7f+fYhdQu1bU6IH3zQ0SfNG6eIFa4d6QPkg/4t5Y9xx6Gqlx74IB5Ds/fvia37u0gJfuLVedMGoVVlsaG1w7mLVUR2durjyckYnQs/LSAOvxwcJdPsMjDpBo++OXCMfR9cIjRhVyuUG4g+iX27KN+zD7gEY7sToF2moNP/XTNMkwG8Sw/9nP/b7MmtQYkMtImHrVDQXdsle8Ir0TceWhtHUtu74PIDAJUltg2XSsHuw==;VaW7Qjp+TKbMr6fyYA98pw=="
 ---

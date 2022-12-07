@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-05T04:52:00Z
 originalUrl: "https://analyticsindiamag.com/jasper-cerebras-partnership-changes-the-game-for-fastsaas/"
 webUrl: "https://analyticsindiamag.com/jasper-cerebras-partnership-changes-the-game-for-fastsaas/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/Is-This-the-Real-Moat-in-Generative-AI.jpg"
@@ -25,45 +26,47 @@ images:
     isCached: true
 
 related:
-  - title: "Stability AI looks to AWS cloud to power the next generation of generative AI"
-    excerpt: "Stability AI, developer of the Stable Diffusion text-to-image generative AI model, announced Amazon's AWS as its preferred cloud platform."
-    publishedDateTime: 2022-12-02T17:37:00Z
-    webUrl: "https://venturebeat.com/ai/stability-ai-looks-to-aws-cloud-to-power-the-next-generation-of-generative-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/stability-ai-looks-to-aws-cloud-to-power-the-next-generation-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stability-ai-looks-to-aws-cloud-to-power-the-next-generation-of-generative-ai/amp/"
+  - title: "Nvidia showcases groundbreaking generative AI research at NeurIPS 2022"
+    excerpt: "Nvidia continues to push boundaries of generative AI in machine learning, self-driving cars, robotics, graphics, simulation and more."
+    publishedDateTime: 2022-12-02T19:36:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-showcases-groundbreaking-generative-ai-research-at-neurips-2022/"
+    ampWebUrl: "https://venturebeat.com/ai/nvidia-showcases-groundbreaking-generative-ai-research-at-neurips-2022/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-showcases-groundbreaking-generative-ai-research-at-neurips-2022/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 103
+    quality: 91
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/12/Stability_AI_logo_Logo.jpeg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/12/image4.jpg?w=1200&strip=all"
         width: 1200
-        height: 628
+        height: 637
         isCached: true
-  - title: "Runway Raises $50 Million At $500 Million Valuation As Generative AI Craze Continues"
-    excerpt: "Runway ML, one of the two startups behind the popular AI text-to-image model Stable Diffusion, has raised new funding at a $500 million valuation, Forbes has learned."
-    publishedDateTime: 2022-12-05T20:19:00Z
-    webUrl: "https://www.forbes.com/sites/kenrickcai/2022/12/05/runway-ml-series-c-funding-500-million-valuation/"
+  - title: "At NeurIPS 2022, generative AI and LLMs are hot topics"
+    excerpt: "At the first week of NeurIPS 2022, generative AI and LLMs were hot topics — along with a Geoffrey Hinton keynote in honor of ImageNet."
+    publishedDateTime: 2022-12-03T03:20:00Z
+    webUrl: "https://venturebeat.com/ai/at-neurips-2022-generative-ai-and-llms-are-hot-topics/"
+    ampWebUrl: "https://venturebeat.com/ai/at-neurips-2022-generative-ai-and-llms-are-hot-topics/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/at-neurips-2022-generative-ai-and-llms-are-hot-topics/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 40
-  - title: "Thinking Beyond Generative AI, One Token At A Time"
-    excerpt: "Every company today claims to be using GPT-3-like models for their generative AI play. This include Jasper, Notion, Regie, Frase and others."
-    publishedDateTime: 2022-12-05T12:37:00Z
-    webUrl: "https://analyticsindiamag.com/thinking-beyond-generative-ai-one-token-at-a-time/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/Is-This-the-Real-Moat-in-Generative-AI.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://venturebeat.com/wp-content/uploads/2022/12/Fir7IQiWIAAYtAI.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 520
         isCached: true
+  - title: "Speechmatics supercharges machine learning capabilities with NVIDIA AI"
+    excerpt: "Speechmatics is one of the first companies to upgrade to the NVIDIA DGX™ H100 system featuring eight new H100 Tensor Core graphics processing units (GPUs), which provides a step change in the speed and efficiency of training the next generation of neural networks."
+    publishedDateTime: 2022-12-06T10:34:00Z
+    webUrl: "https://www.cambridgenetwork.co.uk/news/speechmatics-supercharges-machine-learning-capabilities-nvidia-ai"
+    type: article
+    provider:
+      name: Cambridge Network
+      domain: cambridgenetwork.co.uk
+    quality: 36
 
 secured: "XONp2ecuhbBrqc81VdnfBIQraPBh+3M3FTK4Mj8Xf/kLG/pAOpdiVG9drT53+MYOqyKx/2dkeuaNMNDF1t/sECSuRnX2dr37J6pR9NOd8irysqL+dNtjyPPeUR9eXHH0mncqYeRHbu/DnTUV5phm5bxml/0nnQ4FwThq3zcwTo0allgS3weJrY+2Jd4PhQOqXj7muWuT+QTjYDArrNUrCK+bUWA+5MLdnStGGN4EBTBJowE9oC1i/r0JTZzEy/M3kWPv77dMPsyHY6NOhpq1Ygs72m7Rk6SMvfsedZhrrdRmDVWw+YzSOLl6nWljDqUh9am1k+gp3qxj2aUIyNqxU5ThBkkGYN7+INqso5pi3NthyT1vNFAcg5tF9tgOwQw31rSho+7hjwa38i93KcUFm/uYQaWU1dl1rdp+CI0p5vIF1lzXuWCzubncKC5bahQB9KogDrNZif6yMklRVIxbwIacHAqqlNfoETVJaKPYbE6DXKU0uMNDYqXmGgU4vCr/8iQVkoAhSswtak/KpKQVCw==;ViCmwYgLZUhkbNSWYwXQkQ=="
 ---
