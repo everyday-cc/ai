@@ -34,6 +34,6 @@ related:
       domain: sciencebusiness.net
     quality: 19
 
-secured: "pZTe97TMiL9G4cDTUhEMCCBFMjEzIbXc+MEIuVRmYcFEa4hNmAvoRkR6B6a7US9+A2W5KurAWCJC+8JkWD2dWR4CYTOG+35O5TQKclbQnA7Pj+g88d4dgxzlJu/BgYqZRt2bfBGD9+HD2zKdr6TEzgoPV+bEK1dQG0CLoqKQkUWt8XiY1LDBYQlVpy1l8JrHfVk7i0LERzobohvCmNVG0MESYKUYhpHyHsHe/38A7v02aU6V4FFjaBsIAR+iUAozeC3g/rhZo4FgAL2s4Q+hbqHt2LGhL64W6gt8z7BhnXyr5RzK3EqAbjMiBAM/yJD/FjOhZDIjlH0oKnejgx+FDaz3us+PTMoawxpOthgwufs=;hFdTzLLPyEyf9OtpvaIKJg=="
+secured: "4ACb5V0wJF+RLV1R4zFFO+l+iow9HJG8p2YAstQB0Il40t+SVzmCsiQyYXGw7x/BhcOw1Zh/JE/bAwHmr1NoEWNmxDycPbB4gSotkrsxhszjpr5NzZPsmuXL9JNjgsQYoAzVQOd7t5YDM6LTbKoGS+Ar6iE7FXMpJuglrkcvdeMyVDUxjboOguyOfA5/b5YHqrL25LeFBWFaItVpmRFhdNlwzoM3TIcyM4kvzjmTjGdv154AxcXpDGJZJVi1YYuV+cW4WaJ2P2E7eyrIGuxqwtPriBGrDcC0v0mGzGlqqUDIoot8u+4oXLYeK6pY2qHkZ1WJkkx77OvGy+N/jr6H9fqw4xwyK6CenpNHmxg6oPg=;RxyvK24B7eu/MGVRfPmiLQ=="
 ---
 

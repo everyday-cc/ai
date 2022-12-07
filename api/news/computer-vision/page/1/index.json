@@ -54,51 +54,6 @@
       ]
     },
     {
-      "path": "_news/2022-12-06-ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts.md",
-      "title": "Uber’s facial recognition is locking Indian drivers out of their accounts",
-      "excerpt": "Srikanth is far from the only worker in India who must interact with facial recognition technology. In addition to the country’s 600,000 Uber drivers, many others work for the homegrown ride-sharing platform Ola and for startups such as Swiggy, Zomato, and Urban Company. All ask their platform workers to upload selfies for logins or verifications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/12/06/1064287/ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts/",
-      "originalUrl": "https://www.technologyreview.com/2022/12/06/1064287/ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/12/Adnan-Taqi2.jpg?w=3000",
-          "width": 3000,
-          "height": 1832,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/12/06/1064287/ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/06/1064287/ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts/amp/",
-      "publishedDateTime": "2022-12-06T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-06-here-are-16-airports-that-might-scan-your-face-this-holiday-season.md",
       "title": "Here Are 16 Airports That Might Scan Your Face This Holiday Season",
       "excerpt": "A record number of travelers will have the option to skip security lines using the Transportation Security Administration's controversial biometric tech.",
@@ -151,6 +106,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-05-digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports.md",
+      "title": "DigiYatra: Facial recognition technology is now available at these Indian airports",
+      "excerpt": "With the assistance of a facial recognition software known as \"DigiYatra,\" you will be able to sail through the process of flying, which will now be paperless and contactless.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/news/new-updates/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports/articleshow/96000093.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/news/new-updates/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports/articleshow/96000093.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-53688,msid-96000068/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/news/new-updates/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports/amp_articleshow/96000093.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/new-updates/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports/amp_articleshow/96000093.cms",
+      "publishedDateTime": "2022-12-05T01:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-05-blinken-vows-us-support-for-israel-despite-unease-over-govt.md",
       "title": "Blinken vows US support for Israel despite unease over govt",
       "excerpt": "The Biden administration will remain a stalwart friend of Israel even as it pursues goals that Prime Minister-elect Benjamin Netanyahu has opposed, the U.S. secretary of state said.",
@@ -159,7 +157,7 @@
       "originalUrl": "https://www.nbcnews.com/politics/politics-news/blinken-vows-us-support-israel-unease-govt-rcna60033",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -443,17 +441,17 @@
       "title": "Kami Vision Reveals the World’s First AI-Powered Camera Alarm System for the Entire Home with 24/7 Professional Monitoring",
       "excerpt": "Kami Vision, the computer vision company that provides AI solutions to enterprise, SMB and consumers, today announced Kami Pro Security, a professional-grade, video alarm system for use in residences and small businesses.",
       "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/kami-vision-reveals-the-world-s-first-ai-powered-camera-alarm-system-for-the-entire/article_507dc6e6-9e29-5095-ba9c-b19d1e9383a6.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/kami-vision-reveals-the-world-s-first-ai-powered-camera-alarm-system-for-the-entire/article_507dc6e6-9e29-5095-ba9c-b19d1e9383a6.html",
+      "webUrl": "https://apnews.com/e9654d74b4b143b98686bb8e46b7b520",
+      "originalUrl": "https://apnews.com/e9654d74b4b143b98686bb8e46b7b520",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/0/ac/0ac33873-3a68-57f0-8aea-251c6a3601b2/6385da32bf004.image.jpg?crop=1060%2C557%2C0%2C699&resize=1060%2C557&order=crop%2Cresize",
-          "width": 1060,
-          "height": 557,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -463,11 +461,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T01:02:00-08:00",
+      "publishedDateTime": "2022-11-29T02:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

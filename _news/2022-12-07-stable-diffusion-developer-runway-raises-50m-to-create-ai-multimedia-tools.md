@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Adobe Stock begins selling AI-generated artwork"
+    excerpt: "Submitting AI-generated imagery to Adobe Stock comes with a few restrictions. The artist must own (or have the rights to use) the image, AI-synthesized artwork must be submitted as an illustration (even if photorealistic),"
+    publishedDateTime: 2022-12-06T23:12:00Z
+    webUrl: "https://arstechnica.com/information-technology/2022/12/adobe-stock-begins-selling-ai-generated-artwork/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2022/12/adobe-stock-begins-selling-ai-generated-artwork/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/12/adobe-stock-begins-selling-ai-generated-artwork/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 87
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/12/ai_adobe_swirl-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Operative Intelligence, a startup with an AI-based management platform, raises USD 3.5M"
     excerpt: "Operative Intelligence Pty. Ltd., a startup with an artificial intelligence-based operational management platform, announced today that it has raised USD 3.5 million in new funding to expand the capabilities of its customer intelligence product line."
     publishedDateTime: 2022-12-06T16:46:00Z

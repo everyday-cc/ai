@@ -39,17 +39,6 @@ related:
         width: 900
         height: 678
         isCached: true
-  - title: "Kepler Vision Technologies announces first ever hospital deployment with UZ Brussel"
-    excerpt: "A global pioneer in the development of vision-based human activity recognition software Kepler Vision Technologies announced its partnership with Belgian medical device company Innomediq."
-    publishedDateTime: 2022-12-02T07:09:00Z
-    webUrl: "https://www.sourcesecurity.com/news/kepler-vision-technologies-announces-hospital-deployment-co-1642600554-ga-co-1669957848-ga.1669956155.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/kepler-vision-technologies-announces-hospital-deployment-co-1642600554-ga-co-1669957848-ga.1669956155.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/kepler-vision-technologies-announces-hospital-deployment-co-1642600554-ga-co-1669957848-ga.1669956155.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 18
 
 secured: "MtojojLXaptsRcZXV2UaP61xT4pZlpJcx7AozphktTJbM23qC5OK98qqBO+Py9TnZipwHnwoA5Og7A0gclxVXyzylxheWaaUi25ko6QkFDBl4mKMuM4E/5siWOmt3ahm0bnAF3vSBryktwv7ugvN3TQSSk8wEpcTmd39MGrVwBbvk/7ra9LKlj64ROsWW5Skg8O5tlssK4+Y/E8sTcxdDZGU0/aLAV+pVHbsukESjVAynNyQu5Wxv5PWdjrQMrEIKKCweW6uc1SbxG0cLUK7LJt6/Qg7t7kqb/wjDpWpx8gwly8H8TKedQh4RJaDdIgcZizggJKGvaWgBT179rQcJ5F/OYxVTEn5f/O0d3NiIB4=;GX5ajc4wwIvLmZm62SNgEg=="
 ---

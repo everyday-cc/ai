@@ -54,6 +54,36 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Daily Crunch: Lensa AI can transform Photoshopped fakes into nonconsensual pornography"
+    excerpt: "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package."
+    publishedDateTime: 2022-12-06T23:48:00Z
+    webUrl: "https://techcrunch.com/2022/12/06/daily-crunch-lensa-ai-can-transform-photoshopped-fakes-into-nonconsensual-pornography/"
+    ampWebUrl: "https://techcrunch.com/2022/12/06/daily-crunch-lensa-ai-can-transform-photoshopped-fakes-into-nonconsensual-pornography/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/06/daily-crunch-lensa-ai-can-transform-photoshopped-fakes-into-nonconsensual-pornography/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 79
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/12/lensa-ai-magic-avatar.jpg?resize=1200,730"
+        width: 1200
+        height: 730
+        isCached: true
+  - title: "Lensa AI’s Avatars Return Startup Prisma to the Limelight"
+    excerpt: "My social media feeds are full of cartoon selfies of people, thanks to a new feature called Magic Avatars on Lensa AI, a photo and video editing app. Although the app is four years old, the new feature has made it a hit in the past week,"
+    publishedDateTime: 2022-12-06T22:53:00Z
+    webUrl: "https://www.theinformation.com/articles/lensa-ai-s-avatars-return-startup-prisma-to-the-limelight"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 37
+    images:
+      - url: "https://tii.imgix.net/production/articles/9299/b13ca667-5309-47fa-8d4f-64dc8d479e63-ovwElT.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "R4rxZFZIL4TNy4GT7oLE/juai9b/Tj1EOAAZ8ZQE2pc1ldjhOyEiLpApEfy10lfHCZmuVswwD228rZsORfnZasmIsWJORicBkFTX4dMPBgDjKWO0Iap24QrZsBtO4MJtHXubcKy8g7I86lc6qqFeGcC2Dw+HtkgXYZ2573CnXMVB0Dh+QubhSbr/SqU0QUggymS2WOD9jaNAzRvaO3MqBHfXhXA5OwrYCTut0aSSaIM/a3gVq47qpqpfOBLLT32qh2SWP+0v1MUlQ+kMdI5ZX63GmNpMlwGT+Ew6FYOPIOfvQj/1FOT23fojs8WqPchWMlV8Qc0YSb65F6BS893muJY6bWpfAw51ZxBFhrJVRCST9AHf3apdzhUGJkhTY6xtZ1nD5lCsBoJCDM46wnRjovdt5ts/cT5D7asGkSzso/ji0JB8uDQiggyrVxi7tqi44liSks9v7J8qHwM6StvU/Rdxn8wvX/T2momArnXXz5+BPdRy9l915+c4Pyuv8iWnwZU1HA6MBCUT/wjyp+Waag==;3+mFfZevoRvfssnC/sDJNw=="
 ---

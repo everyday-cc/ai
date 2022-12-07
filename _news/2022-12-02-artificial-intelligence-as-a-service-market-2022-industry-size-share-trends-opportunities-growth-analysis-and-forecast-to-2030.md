@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-02T10:02:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2022-industry-size-share-trends-opportunities-growth-analysis-and-forecast-to-2030-2022-12-02"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2022-industry-size-share-trends-opportunities-growth-analysis-and-forecast-to-2030-2022-12-02"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

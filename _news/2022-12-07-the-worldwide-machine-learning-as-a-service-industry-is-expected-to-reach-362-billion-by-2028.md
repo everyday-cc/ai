@@ -6,8 +6,8 @@ publishedDateTime: 2022-12-06T22:53:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-worldwide-machine-learning-as-service-industry-expected-reach-/2022/12/06/9725607.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-worldwide-machine-learning-as-service-industry-expected-reach-/2022/12/06/9725607.htm"
 type: article
-quality: 9
-heat: 9
+quality: 7
+heat: 7
 published: false
 
 provider:
@@ -15,10 +15,9 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - Microsoft AI
-  - AI
   - Machine Learning
+  - AI
 
-secured: "kn4byTbDKhEqicTweFESNyV+kDe/SybsYAkNs4+l/W0tX10gGTQG59EZrs1tzJQDUwOOfF9Wk5LjOZBhdHR7J+xAtB4URFqpD6JNbHOUMGoRVgXUaT0860uTC3+kdZVz313XNLFhwDXzDllPD5+tqFgyx7v2JiPLzTvKx2YDu2FAH4ixfyuiV3XZPQ3IwP5eQ21BC5IBaHvwp77UvXuW8Y7zXG7kfqNdvWVkcOxS8cRqm2ZiVB2M7olpLUWqJJDNPCjt0ECbNq0OQHuvf6kZxLKCIN1kKn9j09KHTm0oFR3EYLYI1l/MHcUilQI0Ah6FSnyTKA5XK7Dp9fSwjTJX5yzYBBvibsxaxvRDdtrHZqY=;hWhiL+10Sx8nc3OorBe5EQ=="
+secured: "iGgwqGPqo2hQgZ36Eky8PvE9bi/+qyE38XKLYSiDzQEO3Zsq5tPU/Eykwhxa/7YDHMkpBXa+B2txUkvFnzNYglGD2Lsj1hVW4dCwAgG0e1pjP669/jc46n/AOJosDq1m0qvRQ9HU667R3VtRbDD2JUZIvF3JUledMPozyG0UbpCXongv7qguNUJCDT0oq3SWRR/aNkdWLm4zWPgfxkUXPqI5rmqTKGmp37ioKNc+aVXASONzGxknAMhFS7twGvs3S5mc8uUWr3+qYE4qwgqDEmS5mFRLSZRI18vyIrGq25zf1Nv2c9xL8s9DwRxbMqG/p0PNrkPbL093aQ0mPRYvubL/ZSviCUjMmbm/RFw3tUo=;r6NhnuV7ZmrHNn+wpdbRiQ=="
 ---
 

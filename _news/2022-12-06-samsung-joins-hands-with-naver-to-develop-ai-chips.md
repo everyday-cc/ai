@@ -9,7 +9,7 @@ ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20221206000445"
 cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20221206000445"
 type: article
 quality: 76
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-12/05/full/1670217737-84.jpg?im=Resize,width=480"
         width: 480
         height: 359
+        isCached: true
+  - title: "Samsung, Naver partner to develop AI chips"
+    excerpt: "Samsung Electronics on Tuesday announced that it has partnered with internet portal giant Naver Corporation to develop next-generation artificial intelligence (AI) chips, as part of efforts to improve efficiency of processing large AI data."
+    publishedDateTime: 2022-12-06T04:21:00Z
+    webUrl: "https://www.thestatesman.com/business/samsung-naver-partner-to-develop-ai-chips-1503136719.html"
+    ampWebUrl: "https://www.thestatesman.com/business/samsung-naver-partner-to-develop-ai-chips-1503136719.html/amp"
+    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/business/samsung-naver-partner-to-develop-ai-chips-1503136719.html/amp"
+    type: article
+    provider:
+      name: The Statesman
+      domain: thestatesman.com
+    quality: 74
+    images:
+      - url: "https://www.thestatesman.com/wp-content/uploads/2022/01/samsung-1.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Samsung, Naver to develop AI chip solutions"
     excerpt: "Samsung Electronics decided to work together with Naver, the country's top internet company, in developing artificial intelligence (AI), they said Tuesday. The two companies' goal is to develop new semiconductor solutions that will lead to innovation in the emerging AI industry and further boost the country's AI capabilities to compete with global big tech firms."

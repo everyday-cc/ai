@@ -64,20 +64,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Nielsen and AI4ALL expand relationship to build the next generation of diverse artificial intelligence leaders"
-    excerpt: "Nielsen collaborated with AI4ALL to launch the inaugural Data Jam initiative for students in their College Pathways program."
-    publishedDateTime: 2022-12-02T07:11:00Z
-    webUrl: "https://www.nielsen.com/news-center/2022/nielsen-and-ai4all-expand-relationship-to-build-the-next-generation-of-diverse-artificial-intelligence-leaders/"
-    type: article
-    provider:
-      name: Nielsen
-      domain: nielsen.com
-    quality: 34
-    images:
-      - url: "https://www.nielsen.com/wp-content/uploads/sites/2/2021/10/nielsen_default_meta_image_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "2mTLw3TAqFnT+SV6zSKtKNwlYeDU/AEhTzwHN9q/joGKt4q9xKmFezE02DiUTxE9PjtN7ODBFN97cNkC/XJAeOCi9hUgcjJo9jm7LoVw0Cq2ixp58+s7xZsjt/pwMBiWHpzYNd5Bdi8DiXifuLx5D5FW8PLD76Bp603ekWxTGV2YrHOLjPvOE5+kcR8KTh7s5PzERZMfJnApskFdNrDvNm0UZH01xk6Ia2x+xBgqg9aIX+zSJCJo1K5avNjoqiXBQRg0C67DoWDbBABRYflwW/j8W6B1jeu0vH4zYi31OqhH7dX6VPisw1DyQeKmqjvXexApLw/45IHDSG3iUamAtwz/qt5o8OAerVFER3aeXR8=;Ke8Ch4vZM49REKp0nrKjdg=="
 ---

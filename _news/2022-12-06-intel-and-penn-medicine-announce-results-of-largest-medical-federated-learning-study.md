@@ -71,6 +71,20 @@ related:
         width: 500
         height: 285
         isCached: true
+  - title: "Intel and Penn Medicine Conduct Cancer Using Federated Learning to Analyze (and Protect) Sensitive Medical Data at Scale"
+    excerpt: "Calling it the largest federated learning study in the medical field to date, Intel Labs and Penn Medicine have announced a joint research study  to help international healthcare and research institutions identify malignant brain tumors."
+    publishedDateTime: 2022-12-06T23:00:00Z
+    webUrl: "https://insidehpc.com/2022/12/intel-and-penn-medicine-conduct-cancer-using-federated-learning-to-analyze-and-protect-sensitive-medical-data-at-scale/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 0
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2022/12/Intel-federted-learning-Penn-Medicine-1222.png"
+        width: 600
+        height: 335
+        isCached: true
 
 secured: "c4L+PEEnlNVZyJUbn0RtH2is6LwXC/TUkG19sWH/qIxs/RqhrezCIcQmjRZ06eo4NZapsTS54jYo++GKLasvifMH16PbqalU6+7t1Z1rSN2CT8FA6+aO/949Buk5//2sbfdfR4VdsxvITk6xEqiPNl5oQk+Kh1d8rxDFepMio76jvgRN/JLdnwuzF5vSKVtoloq66tSfuQLaqYzmQ6iQUJJLbRngjKHAcCxqNHCDMBb+tDbd3FH8sRhiBBM2Vz+P4BH2R1sFFybK341xPeoKYBPOsyDb6Bt8DLcOMZQVUvaMaaBM5w39SEA7N3Lh3lRmVW5uFd8SPNUBgOwfcW3nyLgWCzhTO14MX1SCy4HYu0M=;s+Xr2DZ7bhwjzSSRLwVu+w=="
 ---

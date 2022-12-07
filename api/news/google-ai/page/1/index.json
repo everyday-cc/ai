@@ -114,7 +114,7 @@
       "originalUrl": "https://singularityhub.com/2022/12/05/deepminds-latest-ai-trounces-human-players-at-the-game-stratego/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -147,6 +147,49 @@
         "Google AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-deepminds-new-ai-uses-game-theory-to-trounce-humans-in-stratego.md",
+      "title": "DeepMind’s New AI Uses Game Theory to Trounce Humans in ‘Stratego’",
+      "excerpt": "Now, you can now add the strategy game Stratego to that ever-growing list. Researchers from Alphabet-owned DeepMind, according to new research shared with Gizmodo, say they’ve created a new AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2022/12/deepminds-new-ai-uses-game-theory-to-trounce-humans-in-stratego/",
+      "originalUrl": "https://www.gizmodo.com.au/2022/12/deepminds-new-ai-uses-game-theory-to-trounce-humans-in-stratego/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/12/02/deepmind-stratego.png?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2022/12/deepminds-new-ai-uses-game-theory-to-trounce-humans-in-stratego/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/12/deepminds-new-ai-uses-game-theory-to-trounce-humans-in-stratego/amp/",
+      "publishedDateTime": "2022-12-02T00:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gizmodo",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     },
     {
@@ -1470,59 +1513,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-deepmind-breaks-50-year-math-record-using-ai-new-record-falls-a-week-later.md",
-      "title": "DeepMind breaks 50-year math record using AI; new record falls a week later",
-      "excerpt": "Last week, DeepMind announced it diiscovered a more efficient way to perform matrix multiplication, conquering a 50-year-old record. This week, two Austrian researchers at Johannes Kepler University Linz claim they have bested that new record by one step.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/10/deepmind-breaks-50-year-math-record-using-ai-new-record-falls-a-week-later/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/10/deepmind-breaks-50-year-math-record-using-ai-new-record-falls-a-week-later/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/ai-matrix-math-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-13T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Math for AI"
       ]
     }
   ],

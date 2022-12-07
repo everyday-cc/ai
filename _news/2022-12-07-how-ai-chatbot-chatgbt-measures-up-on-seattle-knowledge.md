@@ -271,6 +271,15 @@ related:
         width: 1812
         height: 900
         isCached: true
+  - title: "ChatGPT, the big-brain AI writing tool coming for our jobs, explains itself"
+    excerpt: "Meet 'ChatGPT: the powerful NLP tool that could automate jobs and spread misinformation, if we're not careful.'"
+    publishedDateTime: 2022-12-07T00:45:00Z
+    webUrl: "https://thespinoff.co.nz/internet/07-12-2022/we-asked-chatgpt-to-write-about-chatgpt"
+    type: article
+    provider:
+      name: The Spinoff
+      domain: thespinoff.co.nz
+    quality: 17
   - title: "TechScape: Meet ChatGPT, the viral AI tool that may be a vision of our weird tech future"
     excerpt: "OpenAI’s new chatbot isn’t a novelty. It’s already powerful and useful – and could radically change the way we write online"
     publishedDateTime: 2022-12-06T11:12:00Z

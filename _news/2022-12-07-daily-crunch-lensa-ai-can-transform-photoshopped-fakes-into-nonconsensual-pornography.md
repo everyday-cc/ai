@@ -1,0 +1,91 @@
+---
+category: news
+title: "Daily Crunch: Lensa AI can transform Photoshopped fakes into nonconsensual pornography"
+excerpt: "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package."
+publishedDateTime: 2022-12-06T23:48:00Z
+originalUrl: "https://techcrunch.com/2022/12/06/daily-crunch-lensa-ai-can-transform-photoshopped-fakes-into-nonconsensual-pornography/"
+webUrl: "https://techcrunch.com/2022/12/06/daily-crunch-lensa-ai-can-transform-photoshopped-fakes-into-nonconsensual-pornography/"
+ampWebUrl: "https://techcrunch.com/2022/12/06/daily-crunch-lensa-ai-can-transform-photoshopped-fakes-into-nonconsensual-pornography/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/06/daily-crunch-lensa-ai-can-transform-photoshopped-fakes-into-nonconsensual-pornography/amp/"
+type: article
+quality: 79
+heat: -1
+published: false
+
+provider:
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://techcrunch.com/wp-content/uploads/2022/12/lensa-ai-magic-avatar.jpg?resize=1200,730"
+    width: 1200
+    height: 730
+    isCached: true
+
+related:
+  - title: "You can use the Lensa AI app to turn your photos into artistic portraits"
+    excerpt: "To credit for these masterpieces is the Lensa AI app, and here is how you can use it to get your own. Lensa AI is a free-to-download, photo-editing app that launched in 2018 and is available in both the Apple App Store and Google Play Store."
+    publishedDateTime: 2022-12-05T21:54:00Z
+    webUrl: "https://www.zdnet.com/article/you-can-use-the-lensa-ai-app-to-turn-your-photos-into-artistic-portraits/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/you-can-use-the-lensa-ai-app-to-turn-your-photos-into-artistic-portraits/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/you-can-use-the-lensa-ai-app-to-turn-your-photos-into-artistic-portraits/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/d4c593c52fe4edc756a285ff4858755bc5910a13/2022/12/05/a7196214-ebef-46e5-82f6-d694eb7b9f53/2022-2.png?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Lensa AI, the viral app making ‘magic avatars,’ raises red flags for artists"
+    excerpt: "Photo editing app Lensa AI went viral this week for making AI-generated stylized avatars. Its popularity raises alarm with artists."
+    publishedDateTime: 2022-12-06T00:14:00Z
+    webUrl: "https://techcrunch.com/2022/12/05/lensa-ai-app-store-magic-avatars-artists/"
+    ampWebUrl: "https://techcrunch.com/2022/12/05/lensa-ai-app-store-magic-avatars-artists/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/05/lensa-ai-app-store-magic-avatars-artists/amp/"
+    type: article
+    provider:
+      name: YAHOO!Finance
+      domain: techcrunch.com
+    quality: 84
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/12/digital-art-ipad.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "It’s way too easy to trick Lensa AI into making NSFW images"
+    excerpt: "Lensa has been climbing the app store hit lists with its avatar-generating AI that is making artists wave the red flag. Now, there’s another reason to fly the flag, as it turns out it’s possible — and way too easy — to use the platform to generate non-consensual soft porn."
+    publishedDateTime: 2022-12-06T14:35:00Z
+    webUrl: "https://techcrunch.com/2022/12/06/lensa-goes-nsfw/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
+  - title: "Lensa AI’s Avatars Return Startup Prisma to the Limelight"
+    excerpt: "My social media feeds are full of cartoon selfies of people, thanks to a new feature called Magic Avatars on Lensa AI, a photo and video editing app. Although the app is four years old, the new feature has made it a hit in the past week,"
+    publishedDateTime: 2022-12-06T22:53:00Z
+    webUrl: "https://www.theinformation.com/articles/lensa-ai-s-avatars-return-startup-prisma-to-the-limelight"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 37
+    images:
+      - url: "https://tii.imgix.net/production/articles/9299/b13ca667-5309-47fa-8d4f-64dc8d479e63-ovwElT.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
+        isCached: true
+
+secured: "UsJNX0IRSqifwDBud1DOi7EHu5GqL6AlUNKpMQpgAm9Pg2YjbIKX/UXWwsa2EMf1z+d+5It8Gja+wpHlMkBGugmb18QZaFBLX6HsjQOSbeXG10EFasf3DRa5DT+8XSsDQxuq4blA7WnFmF0lTawd7kAbqImgx7kvEpvZj+ty4l6jNsC0nGqSEkoo4KhtTsNJnyAGh0dD9PMu77P5eYUilOXRZnLv64OIq15Yyyn/Isf+q9e18pVdwj7sB4fLV5ut5sbTBDaYTo8/8vKmCeBPCUh+EvAvPhsLP2RQ6Mp1oU5IUUEjtIECwrOha2F9KEbe9V3dtZa3XFrxl7mfiNNWetR/4ty3qyjoZmL/poMSey4=;jghk4RKLA//afaoBNgOipw=="
+---
+

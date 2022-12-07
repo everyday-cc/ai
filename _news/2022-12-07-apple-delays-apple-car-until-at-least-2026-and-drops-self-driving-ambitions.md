@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple scales back self-driving car and delays debut until 2026"
+    excerpt: "Apple has scaled back ambitious self-driving plans for its future electric vehicle and postponed the car’s target launch date by about a year to 2026, according to people with knowledge of the matter."
+    publishedDateTime: 2022-12-06T23:46:00Z
+    webUrl: "https://www.latimes.com/business/story/2022-12-06/apple-scales-back-self-driving-car-debut-2026"
+    ampWebUrl: "https://www.latimes.com/business/story/2022-12-06/apple-scales-back-self-driving-car-debut-2026?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2022-12-06/apple-scales-back-self-driving-car-debut-2026?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 44
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/f3255b5/2147483647/strip/true/crop/2898x1938+51+0/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fcf%2F5b%2F1d2de50b4dde8de0ea8a693fb1f3%2Fap18040590951897.jpg"
+        width: 320
+        height: 214
+        isCached: true
   - title: "Apple Reportedly Taps the Brakes on Its Self-Driving Car"
     excerpt: "Along with the delayed release, the car will reportedly now only have full autonomous capabilities while on the highway. Consequently, the initial design -- void of a steering wheel and pedals -- will have to be modified to accommodate manual driving."
     publishedDateTime: 2022-12-06T20:20:00Z
@@ -34,6 +50,15 @@ related:
       name: CNET
       domain: cnet.com
     quality: 34
+  - title: "Apple to scale back self-driving car ambitions, delay car launch to 2026 - Bloomberg News"
+    excerpt: "Apple Inc is scaling back its self-driving car ambitions and delaying the car's launch date to 2026, a Bloomberg News reporter said in a tweet on Tuesday."
+    publishedDateTime: 2022-12-06T18:05:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/apple-scale-back-self-driving-car-ambitions-delay-car-launch-2026-bloomberg-news-2022-12-06/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 25
   - title: "Apple Car Reportedly Won’t Be Self-Driving and Now Delayed Until 2026"
     excerpt: "The car will now have a steering wheel, pedals, and just about everything like a normal car, but a bevy of driver-assistance hardware and a price around $100K."
     publishedDateTime: 2022-12-06T21:09:00Z
@@ -94,6 +119,6 @@ related:
       domain: seekingalpha.com
     quality: 0
 
-secured: "ykPoZAwijxkKjXaqX270kRQ1iG5sIYYDJNOijBan/Z81uTx+bH1Vsi051Gw1R9kQGtvr84h83BGCNV/41MNwGSfkRIF53Z/VZC1UIYdWOPYMwwDu6LdiAWAcj4VrlLGiOkxS8xe7Z385l71XJRgeaqf1bObcZHU6n18dc6piy4UATHI2W2o4lCmQpodxTBk0qov2JFsHbE5yA5RN0sb9FI70XgoUxjXCMPvICwK8Mj25eDmyjf+u7wEMf6hETaMujlT4pPvS/ZX3rm9tItKL/69rywr+B091VjpDiDYNze7GlxKpHdIB20Ahc/04KtGavyBGowG4t5t3cA6AUMXtNAlktFrfgcAGtffEVoRhYA8=;XRlTnZCUCZNg9CdpgiEUTQ=="
+secured: "Yis2Gkknz+H3BcrfGXafyvdG2F1V84SrtYUvPTffiN5+PyX8bFFk7fGYP9zVRZ728kHqJdEpETFwRo2PKE3O7+jvsO2DtCp0r1AIJ7NHdpENRc1ZZJ2B46oDQkPSijk7zwtibwGHDgSRecv/9dMBmztBOAQf2Pm7AJZvo6aEoEhNaWnE1yvkITWn4KBy60CHk4y/eR95vFN2D622wNHaKWSOMGV45az43O1KIfdb31mDOkVR5d9f5iFY0UQRz2/3NRc0pJtMP0/1qaDvD2sJBv1s/yD7U8ToC7hJAmIsll6xw6Ka9Iv1Q47bwr1671IE1e2Ci38LHL9hdnAu1MzPG+wvQ+Y59nVkIvX08ynwOzEgaYukcrfdiVwds157lMNdc/RRE8rHCgWWAV0tfexDaH6r1piGCFzq5tZHiATcc9hb37CwDOIdGrWNZvIMasE/lsU1hI1OscP8DPodhaIR1gFEuBPEIkYuSKnVTVKRZUEC+Vx9P602gCifG3+KTVLelukXnlXw50YB98V+cDo3Jw==;sL77OJMGgxa9ptlrImCX3Q=="
 ---
 

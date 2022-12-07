@@ -3,13 +3,13 @@ category: news
 title: "This New Artificial Intelligence Can Help You Lie"
 excerpt: "OpenAI was formed in 2015 with the mission of developing a friendly artificial intelligence that will dramatically benefit humanity while also helping humanity avoid the existenti"
 publishedDateTime: 2022-12-02T20:48:00Z
-originalUrl: "https://www.psychologytoday.com/za/blog/the-nature-deception/202212/new-artificial-intelligence-can-help-you-lie"
-webUrl: "https://www.psychologytoday.com/za/blog/the-nature-deception/202212/new-artificial-intelligence-can-help-you-lie"
-ampWebUrl: "https://www.psychologytoday.com/za/blog/the-nature-deception/202212/new-artificial-intelligence-can-help-you-lie?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-nature-deception/202212/new-artificial-intelligence-can-help-you-lie?amp"
+originalUrl: "https://www.psychologytoday.com/us/blog/the-nature-deception/202212/new-artificial-intelligence-can-help-you-lie"
+webUrl: "https://www.psychologytoday.com/us/blog/the-nature-deception/202212/new-artificial-intelligence-can-help-you-lie"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/the-nature-deception/202212/new-artificial-intelligence-can-help-you-lie?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-nature-deception/202212/new-artificial-intelligence-can-help-you-lie?amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
   domain: psychologytoday.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -25,6 +26,6 @@ images:
     height: 800
     isCached: true
 
-secured: "egGNaT+HDF3SXcOxY14jnSyhFIZvtm2vtYWFfRlKPKiLrRvz26eaiA4seKQfqg6lQ3d+BlydOlEgHWiWylmobABp+QGW6JohXSLFoigoj6nRixzWymykGUZDV1wZjA3KvfyZLALphOD7xMQt7aNjtHzqFM658DvoNJkGgT2myOhDcM6rJd5ru44Dwt2LnqIPmK2qY/UQnLM42Ci8KZeGTNGwaCwiHyfzmoKVdH46Onw2jIVjryDFXst7hQcFViMuADphBmWJpsJm92af7aTT7HWi76Gzd1qq9Ek3FNKieT0QJVKjBTqM/ikSI9GiBsef4rZBalr58Sb7tL4e0oNy5SBBTr157fipllPjDcCHFJA=;M0LDl0t6j3qTW7o3eCndBQ=="
+secured: "9pIjpv17QD4+Jgy2d254T/v8ksTv15nFIwR4M65mii2IYL4N6k7hXRS+WNs0tn6lMhxoMwDvl2zLLSKZMBTV/UQqeeveuksJMoX76XX0CAHOU4ClMGbongS8S/N3RQdFpa2hGJZJSRBsStBewB5Inr874M+dTaM26JjKZkP4vfvEtsg1TUZwtm/JUYXPB3sH/6yp4BL782WAQ/peXSTVc/kR4/7q5aK2KGEUGfDsbcR/kfQSyN27SvOnAlnNCLaRcsxP+0xGwiTya1wDn7V0p/i4ib9tW+XATfOogHJrDs8tty0PSXG6CcWLuLuQ5IAHwq4F5zN+Y2KFSUMM1juixxjiejR84ldMmmz5XXI1KME=;TLLhnJ1588T5Mh/L5X1MOw=="
 ---
 

@@ -59,6 +59,22 @@ related:
         width: 480
         height: 359
         isCached: true
+  - title: "Samsung, Naver partner to develop AI chips"
+    excerpt: "Samsung Electronics on Tuesday announced that it has partnered with internet portal giant Naver Corporation to develop next-generation artificial intelligence (AI) chips, as part of efforts to improve efficiency of processing large AI data."
+    publishedDateTime: 2022-12-06T04:21:00Z
+    webUrl: "https://www.thestatesman.com/business/samsung-naver-partner-to-develop-ai-chips-1503136719.html"
+    ampWebUrl: "https://www.thestatesman.com/business/samsung-naver-partner-to-develop-ai-chips-1503136719.html/amp"
+    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/business/samsung-naver-partner-to-develop-ai-chips-1503136719.html/amp"
+    type: article
+    provider:
+      name: The Statesman
+      domain: thestatesman.com
+    quality: 74
+    images:
+      - url: "https://www.thestatesman.com/wp-content/uploads/2022/01/samsung-1.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Samsung partners with NAVER on AI chips"
     excerpt: "NAVER say never Samsung has partnered with NAVER to develop semiconductors that can better handle AI workloads. The deal will cross  Samsung’s semiconductor design abilities and NAVER’s expertise in AI algorithms and AI services."
     publishedDateTime: 2022-12-06T10:14:00Z
@@ -83,6 +99,6 @@ related:
       domain: geeky-gadgets.com
     quality: 34
 
-secured: "QUZjgUh/gr6rVBZjqT6QkiFWaoQwP6uJeMfVYJSl7MvEdD0CFFyled3vWxwBl2ZVKyPC0Ew3V+D73wcsmXMKz4tw4fn3ovNeld+hh8xHjv1Fl7Tqmn/ReuontKOlAyoZVPtf5/pAFW1cvU3hlCFCcp43o1EndgrSbAFo1av36P5/AKblLe9Ux7gI/JRla/JZJSXSweK6Jd9/v9GaVrwqYNP0SsQdd/4KEt2qZG0THt/wcReL60qJG7ZK2gsBBQPP7xMZTMnBaNW+ATlwNYMQc5Bh0Zf6AmaR7Vg31FG+Ppbjz5P+vi1e/A+0Mm5MPq/SJETG6aae3F/fphKEeNlk9D/Sos7rqm9zZaXDvvNPQBI=;n54eXfq2S2dvy0G7vd4JoQ=="
+secured: "QvfWlZ79iG+dSijILd+qvkUiB4c2MYfihRlFSFvHwf0yyqTerody0HUGkwFon8KaY1B/0yArv1yGq5cc7MPQkM1PDxT3QCIaXG5pcBS+3yH2l9dGsEeHTgWMHo7XVPadNEdPrBMDm3qC1tibDJdGYJNZCtnA64UMiusvt49N8k9rfYruZnldWU68JR2qI3SfZhoMFAzyrEBAkh7ZfsFsakKNkRo5934iOPFi06gTZPB2zc+p+sZW+Ulb0UnDebA5W8O5tQB2v1i/+vyezg/bAjArNV9zp7dEqj/6Hkiddcyuk+oz5YKlsuDL2oRkP7LlK8woNr6au7zJRkiFPKp8cYGqaJTbdauPlKRK9x6jzIs9RNr3En9FH8h0NRvuuMeksdKwcHLOSoXDHIEdkDx6pTSD5jlthjZOO7UuRfAqfRldUmTnqgGqjiRg2ZTfuCVh6EViWz8YWLokVqW7yT2XK5sQhS7rEpy2vgZl9ZqqnUmDmzPE9r9Cj3vcqSH7YpUEtzfeeWRikMCCWPGMJjyCWw==;GGBfhH10fYdvct2qY0n5Dw=="
 ---
 

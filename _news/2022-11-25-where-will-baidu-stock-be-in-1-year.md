@@ -1,33 +1,20 @@
 ---
 category: news
 title: "Where Will Baidu Stock Be in 1 Year?"
-excerpt: "However, it continues to expand and serves as the technological foundation for its driverless vehicles and other artificial intelligence businesses. Is Baidu finally reaching an inflection point? Baidu generated 57% of its revenue from its online marketing ..."
-publishedDateTime: 2022-11-25T11:35:00Z
-originalUrl: "https://www.fool.com/investing/2022/11/25/where-will-baidu-stock-be-in-1-year/"
-webUrl: "https://www.fool.com/investing/2022/11/25/where-will-baidu-stock-be-in-1-year/"
+excerpt: "Baidu (NASDAQ: BIDU) posted its third-quarter earnings report on Nov. 22. The Chinese tech giant's revenue rose 2% year over year to 32.54 billion yuan ($4.57 billion), beating analysts' estimates ..."
+publishedDateTime: 2022-11-25T11:34:00Z
+originalUrl: "https://www.nasdaq.com/articles/where-will-baidu-stock-be-in-1-year"
+webUrl: "https://www.nasdaq.com/articles/where-will-baidu-stock-be-in-1-year"
 type: article
-quality: 69
-heat: 69
-published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://g.foolcdn.com/editorial/images/710534/woman-trading-screen-2.jpg"
-    width: 2309
-    height: 1299
-    isCached: true
-
-secured: "/L6RGCRxcYJe6J1zresFNBXl3vsfLYuFoyyipldBFCXR4E8Cx5dzwBDkAzfLrVL3LWUrYJIRg5YS/zsY0s6Zk4A1814I23nyQw/nlSIUhuIwiah9lZ3dqT8iKAzWRS68JKtXPyMqT9vvfP8IlUNzykqXlszBdiBjrgixr+HVSowqDjz1yZcOqOWIir+fc0ZuA4ua72OobjcXnKOOsAzlCdNITsqXCyQKZ6J7ukP9lPkHs5rGqobGVKd/CihRWvR+nalunUWDlPonvWe70wbaJoVTlQ6j39EDi0Wu5ln5Im51SqczB3x/M7sgNSslUpmiDd0C+cqxZvB9IZaUyEe9h+LrdDbgAgo0wW7zDY6B//IJAHHmQKrph4pImiuH2TQqEd2fjDK1da/Bjw2wOHDQf5HwZYC3OIVMN7G8ClJ/hVj3S1ix+63ckwEM7ov8fDbXkK1o3LfBNwxYVToDHBxaM6EFph0GQhzwKejZbUH06MJheMfgq5PKN5MY0r5KLMnBEElWWxoCVvSidURmTjSKGA==;mUYHEt5MYN0da/M5Q3gQCg=="
+secured: "uRcKvLrae4DtEbFUIAM32YNjkYq+b8b+LCS/pUma84aOMrQ3TRj4HN+vEv/y2JqWU9v6uKdbU2y0JUL5zBVFwZolXY1hU5QhwRojurQb/aA3OP0UjoIMBfQzHgb8smdVOCyyU+RwHdzJMquL9qTv8H4mm9XRnzfr++rFfK2I8D04zqwjValj8p67kii9rPioWWUDyH1FEoCjhqMXE2Hyr/wdXbLN1JyEfM1ppQqV17tSq60ZRjnMVopHv5tLggXhEb+zYuxBMFayz8ToNerbrkveYCUBi9EKProlRdqJBVzfWv/UNqtaPasK3YGx5zhF3LlCvLEICfmczpEvDqaiM9lUPr/hGgD1/D7wxSpYJ8Y=;icMe0zNDfQXgOSDALiHylQ=="
 ---
 

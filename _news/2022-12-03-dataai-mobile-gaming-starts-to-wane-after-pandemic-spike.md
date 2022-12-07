@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/games/data-ai-mobile-gaming-starts-to-wane-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/data-ai-mobile-gaming-starts-to-wane-after-pandemic-spike/amp/"
 type: article
 quality: 87
-heat: 90
+heat: 87
 published: true
 
 provider:

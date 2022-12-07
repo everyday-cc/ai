@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/3-ways-emotion-ai-elevates-the-customer-e
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-ways-emotion-ai-elevates-the-customer-experience/amp/"
 type: article
 quality: 87
-heat: 100
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 611
     isCached: true
-
-related:
-  - title: "Amazon to warn customers on limitations of its AI"
-    excerpt: "Akin to lengthy nutrition labels, Amazon’s so-called AI Service Cards will be public, so its business customers can see the limitations of certain cloud services, such as facial recognition and audio transcription. The goal would be to prevent mistaken use of its technology, explain how its systems work and manage privacy, Amazon said."
-    publishedDateTime: 2022-12-02T07:59:00Z
-    webUrl: "https://www.iol.co.za/technology/software-and-internet/amazon-to-warn-customers-on-limitations-of-its-ai-a8d20978-1972-5700-8177-047a5865a915"
-    type: article
-    provider:
-      name: Independent Online
-      domain: iol.co.za
-    quality: 19
 
 secured: "YLNqD+/bmyzT7u/dh1v34Y5CGd3UxCRil9CWvjB/k91mHvTsps+V222MwtUX+TDMpH4znXEEGQDWeDuhK19Ym5bAOfXHVgICe2sCfaOTef7vRZLg7mBQk1S2vib/eCwEfUSKFPFBPY++3kipdizfn0ITEsAp3ARMCBGNMCjfW9drwu1q5zZVZdWijSpGFa+hFVxlDhEMU8XomrOt3Hh5u3DPKoBtYO1P4hZqcpJgv+jG1rrMduqnKA3d45fYgLAVG39Z0HYfNTYk3QfwoO2+ZjJTUrwFGIeEKTnvS2LnFYokUCffUDTH4KfpZY3sQGRpbGq7HMviWBMOgdOQNZNN1OWsRq+hoyPEr9wSNkzXltujdq+I2Jss1ZGBilqol2ZZZxo+sZHJJgypCB70lKSOKW3YW20+HPiJE+dqV3KsJz3heAmk6NLOky1iytiglBqcOmtR2Hc29VLJUUcML96MWmKHeLLNe25eluGFp4ENwMSW2F/0cgG3F1IXbsU/4FMbO3+9yaFrgRDNCVv1ZBbmdA==;3MU5kY6jbrvd1OelPC0jbg=="
 ---

@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Daily Crunch: Lensa AI can transform Photoshopped fakes into nonconsensual pornography"
+    excerpt: "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package."
+    publishedDateTime: 2022-12-06T23:48:00Z
+    webUrl: "https://techcrunch.com/2022/12/06/daily-crunch-lensa-ai-can-transform-photoshopped-fakes-into-nonconsensual-pornography/"
+    ampWebUrl: "https://techcrunch.com/2022/12/06/daily-crunch-lensa-ai-can-transform-photoshopped-fakes-into-nonconsensual-pornography/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/06/daily-crunch-lensa-ai-can-transform-photoshopped-fakes-into-nonconsensual-pornography/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 79
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/12/lensa-ai-magic-avatar.jpg?resize=1200,730"
+        width: 1200
+        height: 730
+        isCached: true
   - title: "It’s way too easy to trick Lensa AI into making NSFW images"
     excerpt: "Lensa has been climbing the app store hit lists with its avatar-generating AI that is making artists wave the red flag. Now, there’s another reason to fly the flag, as it turns out it’s possible — and way too easy — to use the platform to generate non-consensual soft porn."
     publishedDateTime: 2022-12-06T14:35:00Z
@@ -55,6 +71,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "Lensa AI’s Avatars Return Startup Prisma to the Limelight"
+    excerpt: "My social media feeds are full of cartoon selfies of people, thanks to a new feature called Magic Avatars on Lensa AI, a photo and video editing app. Although the app is four years old, the new feature has made it a hit in the past week,"
+    publishedDateTime: 2022-12-06T22:53:00Z
+    webUrl: "https://www.theinformation.com/articles/lensa-ai-s-avatars-return-startup-prisma-to-the-limelight"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 37
+    images:
+      - url: "https://tii.imgix.net/production/articles/9299/b13ca667-5309-47fa-8d4f-64dc8d479e63-ovwElT.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "v647K1nwHCpexa+feY/oEyracPHEhRWXkX8s9HHiUJ1ht/jvCahm0dUobAD4BLea1sP2facQ087GI93pTLpxS+3OdQANTk0GHxxyUlsWgqetHJ17I+dmR32x2tWoD1YUMIKuqG2TZBjb43IFNb3HpHfDdtIWqK9xcQYrDQMYixUg20WPpmbuPKUo288KNolwlagqw9F2W7a8DHG+RLwC7WlwIZUQEXdvF+2mjnBp3QDean28sAjTYNo9rLF3lY55RoBd8wbxRQBhRYo/nVeW9xLX2GMed3c0U+qVp0RUiEuxoaIgSe6NYxhk85B21NTiSl5rBffL9mcFPUPGma9jBGXUcdgGpIU5vokz4cqDDxHonBVWfqMWTCMGGgZxn2xSRNSwmYhpoSzJ4SbIN2wrLKpos3YMkirZhBfzW3wzM6K9ouaxkpRHhsyXnkdpLOKtF5XPyXGY6ut52SAMgf3YO7u3wytdNnYgSRV9j84MC4GfNNZgkBF68JVwe7tSnkkDoyRm4u1j4mhvMVyvGN2cYA==;c2rSpooMOYRXn4YSJjS7YQ=="
 ---
