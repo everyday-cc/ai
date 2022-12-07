@@ -9,8 +9,8 @@ ampWebUrl: "https://www.barrons.com/amp/news/as-ai-rises-lawmakers-try-to-catch-
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Barron's
@@ -41,7 +41,21 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "As AI rises, lawmakers try to catch up"
+    excerpt: "PARIS: From \"intelligent\" vacuum cleaners and driverless cars to advanced techniques for diagnosing diseases, artificial intelligence has burrowed its way into every arena of modern life. Its pr"
+    publishedDateTime: 2022-12-07T17:34:00Z
+    webUrl: "https://www.channelnewsasia.com/world/artificial-intelligence-law-ai-bill-rights-technology-3127711"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--7RJEXN80--/fl_relative,g_south_east,l_one-cms:core:watermark:afp_watermark,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/0fc086d0db50e6b05af4ed6b1c51403ad28c2036.jpg?itok=QS0iJ7HL"
+        width: 1200
+        height: 676
+        isCached: true
 
-secured: "54mzSfWb5bl+b3EG1p5/hGT2GOfSp/tj5YB/eH18iuq6JSEg+sSue0tzX3D3RWa+0fyRIL0eV5slVb82lyBEafoH0RqA5OPqkpWDLOE+i7Zzc2rrer0V2AxAIM3JtI3yJjLxoqPdShVvEFqpE8llZ9K1Km3teY7jMamGqdBGYzBygLfZ71bDuz6TaZgeSQu7yPoZKhgzO4FJuz95XIhR/LH6koZHoTSUo8RsiIoRlZw01HGzijMJ1N7ein2CgLLP3iSx+JWYuj/hD9z6x+9R/FceKBAOzMelPsI0dgWBgHnCoIHUc9WI2JmGdjVfKFIJ1OGWWyWv3U/Lrw1NgGsfC5turs5O+HiMONEXUwAHPtA=;XhMhunKKN2W39IQfyDrlng=="
+secured: "X2utewyH7sP2uYHbZpuMG4GZ6cd2mb70Qx5luww+B8rEezpM+36yLL/UATZfkLPw25RP+/cMq5MbK29emlQCCbkLGk2nMG6mxF++ruoWR1PLrs1Z/ZxsVnAqGyxxQdw2sZhIZCdgLRBmekRvbatsPq2fORxpYNxwAMwQJW4PexvX7WrpcioJ/faa8XFKEUjq4v39a/j1hV/CjJLyp8qdaPxPgWVQJlWteVilqQmT9X9io0eka8EXSTF6k3SG4FfcBjIM7RmCx1aQ7lyA8pcQ0sF0in7I8d7V/bWiBqSzG4B4eygKSO31sxbK5IcaQuWB0wsBU4vFegERWuW2O6FCGVMmhdTwMAWXTp3MXDqQCT/LtbNSxJitoJROIMXkVBtbX4LWBLoqEsf2Ag47gdiWGjFEYLvHlQIg+rbziy11j0bM7LmyGzYLOY4HtFUBUfs3hfmCLZ6afk4rKli8+huDdwVK17idYuBSgScH+onxS1Itfu3SzjYBSIbReDwk4GA7aoSng2980GZhLu0/o0Pqmw==;/qBZSO4IRx112qslwy3o3Q=="
 ---
 

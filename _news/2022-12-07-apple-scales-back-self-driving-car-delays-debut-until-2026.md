@@ -58,29 +58,6 @@ related:
       name: Electrek
       domain: electrek.co
     quality: 43
-  - title: "Apple Delays the Launch and Lowers the Ambitions for its Self-Driving Car"
-    excerpt: "Apple is modifying the design of its first self-driving vehicle to include a steering wheel and pedals, which earlier plans left out."
-    publishedDateTime: 2022-12-07T15:27:00Z
-    webUrl: "https://observer.com/2022/12/apple-delay-autonomous-electric-car-design/"
-    type: article
-    provider:
-      name: observer
-      domain: observer.com
-    quality: 23
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2022/12/GettyImages-180224599.jpg?quality=80&#038;strip"
-        width: 4207
-        height: 2805
-        isCached: true
-  - title: "Apple’s self-driving car delayed once again to 2026"
-    excerpt: "According to a new report, Apple is scaling back its ambitious self-driving car, which is now scheduled to launch in 2026."
-    publishedDateTime: 2022-12-06T19:33:00Z
-    webUrl: "https://bgr.com/tech/apples-self-driving-car-delayed-once-again-to-2026/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 19
   - title: "Audi's Project Artemis Self-Driving Plan Could Be Scrapped As Soon As This Month"
     excerpt: "Audi's autonomous driving project will likely be laid to rest this month so that the automaker can focus on other software developments. Instead of devoting too many resources to the self-driving dream, Blume is expected to announce a new roadmap for the ..."
     publishedDateTime: 2022-12-06T13:32:00Z

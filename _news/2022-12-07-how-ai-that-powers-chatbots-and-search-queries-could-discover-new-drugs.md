@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Why Everyone's Obsessed With ChatGPT, a Mindblowing AI Chatbot"
+    excerpt: "This artificial intelligence bot is an impressive writer, but you should still be careful how much you trust its answers."
+    publishedDateTime: 2022-12-07T18:31:00Z
+    webUrl: "https://www.cnet.com/tech/computing/why-everyones-obsessed-with-chatgpt-a-mindblowing-ai-chatbot/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/why-everyones-obsessed-with-chatgpt-a-mindblowing-ai-chatbot/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/why-everyones-obsessed-with-chatgpt-a-mindblowing-ai-chatbot/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/resize/084641681c8362c3ce0c3eb8a53365351adcaaac/hub/2022/12/06/3dd7180c-d0e7-47ca-bc37-b5df15a41a25/ai-chat-gettyimages.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The hidden danger of ChatGPT and generative AI | The AI Beat"
     excerpt: "ChatGPT quickly spits out eloquent, confident responses that sound plausible but are false. Unfortunately, users might not know or care."
     publishedDateTime: 2022-12-05T17:39:00Z
@@ -106,6 +122,22 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "As chatbot sophistication grows, AI debate intensifies"
+    excerpt: "California start-up OpenAI has released a chatbot capable of answering a variety of questions, but its impressive performance has reopened the debate on the risks linked to artificial intelligence (AI) technologies."
+    publishedDateTime: 2022-12-04T11:42:00Z
+    webUrl: "https://techxplore.com/news/2022-12-chatbot-sophistication-ai-debate.html"
+    ampWebUrl: "https://techxplore.com/news/2022-12-chatbot-sophistication-ai-debate.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-chatbot-sophistication-ai-debate.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/the-start-up-openai-de.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "ChatGPT is taking the world by storm – the viral AI bot explained"
     excerpt: "The sophistication of ChatGPT has many speculating whether the AI bot could replace journalists, authors and screenwriters."
     publishedDateTime: 2022-12-05T16:00:00Z
@@ -137,22 +169,6 @@ related:
       - url: "https://th-i.thgim.com/public/incoming/5jpiou/article66232021.ece/alternates/FREE_1200/iStock-1206801125.jpg"
         width: 1200
         height: 608
-        isCached: true
-  - title: "As chatbot sophistication grows, AI debate intensifies"
-    excerpt: "California start-up OpenAI has released a chatbot capable of answering a variety of questions, but its impressive performance has reopened the debate on the risks linked to artificial intelligence (AI) technologies."
-    publishedDateTime: 2022-12-04T11:42:00Z
-    webUrl: "https://techxplore.com/news/2022-12-chatbot-sophistication-ai-debate.html"
-    ampWebUrl: "https://techxplore.com/news/2022-12-chatbot-sophistication-ai-debate.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-chatbot-sophistication-ai-debate.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/the-start-up-openai-de.jpg"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Explainer | Everything you need to know about AI bot ChatGPT"
     excerpt: "The AI bot known as ChatGPT has taken the internet by storm but what exactly is it, and how does it work? ChatGPT is a conversational dialogue model, trained by AI and machine learning to understand and respond to natural human language."
@@ -354,6 +370,6 @@ related:
       domain: slator.com
     quality: 2
 
-secured: "05v1gA80X8J9PP7bN2ZHDhw/rRz1BrxDr9t9MX574vJxkLyRnLvBCF2e7L6oUOSUG2gJQwdVbK1mnxIyA7NbfoIInR2RoKpOkxjIxcS/J+o2y0wKY7FgpX1Hsibxe7T8zJjvHJeoXfHdRM54v8JR3KCdMtD7GjelrgSOW8touEW6hz7C8BTcQupA4wz3VdE5n4KBZQ8DWI+K2p+pTrwk7x5KHokEUkhNcdWxhGSVM1LkJ1epJb7aFQ5T4+axYxxoaUap/TQ/6KWhrnoBu1EsMlQx/N4bgV/kvXtqcIpac9wezUkXmSD2P+EmJAuh4ceXfNrY05ogawrWLRfMZMaoJrg+SCZgAEoyBzGauZcyTk0=;TZJ5Z44HxE+G1kd8fRhHcg=="
+secured: "cGNDKFXngeJr5BiZ9XEzYHa37tLfHNYRGsnWhC2qcoPdeRIzZOvIPMAat9NataW7t02a7F3iMLyLmC/rV+udEB6+hH+t8f4DkU4jFv3gYhXEAFUzKSoCiErl1RqBM+ynj5daVJJyeim5DIBFTovS/xVfLhjqWRAFT+Emf2YJ0sR6Tlylqg6tHKbEKKoUROer50Gpb1hwi1qV50Pf7XTD/CVbFzAdQEYDwIApAwYyFepiuinJKj7+VZ7GOxoMR/cIeF0A0xywkpIDj7/sQdpf7PEQJ+72w22PNfzdWbtJtpjxp1yBqyEi6pIimMA67YDSUfF+vCnwLRFLOJ+WtOxVhqU1AoOx6dnInWlJ6pUHhcAkfkJgdMS2j/Cu/U1+nbEY6Erm+vZpfszdyuI5YGJNviUGwYpKNZS1z+IQcJgAyeU44iBkEAIK0hCJy2plX3G2eLPfaDoCLsUIdtie1MVamtq1bF09hl44i9/pXdYn55IRdCSlX5OgwzlZr2a1wCWJqf8MMBdzUHepsQ2nTGHz5w==;MKcAHHUJm1Thn0GTj+CHfQ=="
 ---
 

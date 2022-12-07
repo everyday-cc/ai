@@ -23,6 +23,17 @@ images:
     height: 410
     isCached: true
 
+related:
+  - title: "5G-Advanced Will Build More Capabilities and Intelligence in Wireless Networks"
+    excerpt: "He further added, \"The next few years will see initial work on Release18, the 5G-Advanced standard, which will offer a boost to network performance and create even more opportunities.\" This 5G Americas paper provides a detailed background on 3GPP's work leading into 2025,"
+    publishedDateTime: 2022-12-07T18:56:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-5g-advanced-will-build-more-capabilities-intelligence-wireless-/2022/12/07/9726456.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
 secured: "NPFwIrZ8GruQZGz82WUCuRukoypfnJIYGWLjLkR3KukM/NXuVx4TXsu9dA8jkk4+5ggtYHPoocwsRT+Iv89OF3B+MPymnvy4b+Ax3+MDAcbP9ppw2IY+twNFQ9TazBvDZeyeRePpGhqpXIEVkTgrXG6kvPFO5J3k99EWcTjgG8YpqkcJCCeMEQmvrEA/sk2R05APMDnwerY1fm1B8Dmfd0PZr9cnmVE97tHod0Y7qVQm+AepGd2hEScEty6Nh9VQF9pm0cnAGVZ6dHG392Zwyr8ZjFydmhHGsDJBZr+TTO9ghnczxuvPD95cI0S2uqFZUHAQzX/5XAdypE1aDA/GLuH6rk/xVAVEcoXDt3LSQ8A=;7wxnj7evlZj+7Vk1A9blxQ=="
 ---
 

@@ -42,6 +42,20 @@ related:
       name: YAHOO!News
       domain: techcrunch.com
     quality: 62
+  - title: "Kodiak Robotics Wins Army Self-Driving Contract"
+    excerpt: "Kodiak Robotics Inc., a self-driving technology company active in trucking, announced in a blog post this month that the Army and the Defense Innovation Unit (DIU) selected it for a 24-month, $49.9 million agreement to adapt its self-driving platform,"
+    publishedDateTime: 2022-12-07T15:11:00Z
+    webUrl: "https://www.ttnews.com/articles/kodiak-robotics-wins-army-self-driving-contract"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 56
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2022-12/Kodiak-1200.jpg"
+        width: 470
+        height: 246
+        isCached: true
   - title: "Pentagon Awards $50M Contract for Autonomous Ground Reconnaissance Vehicles"
     excerpt: "Kodiak will leverage its commercial self-driving software to develop, test and deploy autonomous capabilities for driverless vehicles."
     publishedDateTime: 2022-12-07T16:01:00Z

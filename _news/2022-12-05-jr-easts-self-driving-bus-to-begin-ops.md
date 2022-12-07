@@ -24,17 +24,6 @@ images:
     height: 500
     isCached: true
 
-related:
-  - title: "Why you may never be able to buy your own self-driving car"
-    excerpt: "Despite recent claims of vehicles having full automation, it is no more possible to buy a truly self-driving car now than it was 15 years ago. Will private cars that never need a driver ever reach the market?"
-    publishedDateTime: 2022-12-07T13:45:00Z
-    webUrl: "https://www.newscientist.com/article/2349786-why-you-may-never-be-able-to-buy-your-own-self-driving-car/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 4
-
 secured: "CzxddDS+WO6dVZ82oK1ybg8dVcs1N/3vbuMjlVUb7qDCcdRPHYugmK5MqjqFPByYCo7WnKbO9kZXIWtBBTV4K8Z1U5LW1aOu23BfzaDsCHl/d0AWZgUvMoRvMD2aMpRaRPLvjGoJ6NemH0lPAwzELOPWaUKGXucV4bRgYXwU8M1U0QGEAUS+I6vk0877473rZTB9a5kOip7MhpgjsHYX0Cxi46e1EUdg2XxbpBUa1/TtR+JB9qOcnI/bAEWOBNNOiD21mfopAcv/PtRvVIxq5RUbvwo1Jxb8LkDm2JJZ4qHDRioSz25Q6FwF0l+PdTAEszdwh8tmBpSf4UDq1Z5p85hPiJIotnCOH2s77h6SLjITG9lG9u0H5OHozROEsH6vg5qvMCa+3b380AH75RUxTcuZgPREl0/a6RRf+Si82HGIQRDpX+WLIEfoX+wPqxdqJPAjdV0NadsecOmuex2gUV3ZjuoATNms6HTWF6Q6U/cjXl6GK+x0IEWxPTPfVSI3V7pFtt48H46q4pgWrXsZIQ==;lMC/2NRPG81i9eycFvKLuQ=="
 ---
 

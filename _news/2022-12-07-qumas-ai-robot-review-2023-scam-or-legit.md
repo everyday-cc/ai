@@ -27,7 +27,7 @@ related:
     provider:
       name: Inside Bitcoins
       domain: insidebitcoins.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://insidebitcoins.com/wp-content/uploads/2022/12/qumas-ai-bot.png"
         width: 346

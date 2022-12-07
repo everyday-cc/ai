@@ -25,45 +25,72 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla says it is adding radar in its cars next month amid self-driving suite concerns"
-    excerpt: "Tesla told the FCC that it plans to market a new radar starting next month. The move raises even more concerns about self-driving concerns."
-    publishedDateTime: 2022-12-07T02:25:00Z
-    webUrl: "https://electrek.co/2022/12/06/tesla-radar-car-next-month-self-driving-suite-concerns/"
+  - title: "Uber launching self-driving cars in Las Vegas"
+    excerpt: "Ridehailing giant Uber is now offering Las Vegas riders the option on its app to hail a self-driving taxis developed by another company, according to a press release Wednesday. While the autonomous vehicles are currently only available for ride hailing in Las Vegas,"
+    publishedDateTime: 2022-12-07T17:59:00Z
+    webUrl: "https://www.cnn.com/2022/12/07/tech/uber-motional-self-driving-vegas"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/12/07/tech/uber-motional-self-driving-vegas/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/12/07/tech/uber-motional-self-driving-vegas/index.html"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 62
+      name: CNN
+      domain: cnn.com
+    quality: 74
     images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Autopilot-Radar-e1603395743425.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/221207085819-01-uber-robotaxi-las-vegas-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Apple Delays Self-Driving Car Until 2026"
-    excerpt: "Apple Inc. has postponed the target launch of its self-driving car by about a year to 2026, Bloomberg reports, citing people familiar with the matter. The project, known internally as Titan, has been in limbo for several months as executives reconcile the project's vision with the fact that current technology simply isn't advanced enough to pull it off."
-    publishedDateTime: 2022-12-07T14:30:00Z
-    webUrl: "https://oilprice.com/Latest-Energy-News/World-News/Apple-Delays-Self-Driving-Car-Until-2026.html"
-    ampWebUrl: "https://oilprice.com/Latest-Energy-News/World-News/Apple-Delays-Self-Driving-Car-Until-2026.amp.html"
-    cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Latest-Energy-News/World-News/Apple-Delays-Self-Driving-Car-Until-2026.amp.html"
+  - title: "Apple's electric self-driving car delayed again, to debut in 2026"
+    excerpt: "Apple is now planning to use a less-ambitious design for its vehicle that includes a steering wheel and pedals."
+    publishedDateTime: 2022-12-07T16:31:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/apples-electric-self-driving-car-delayed-again-to-debut-in-2026-41670386901498.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/apples-electric-self-driving-car-delayed-again-to-debut-in-2026/amp-41670386901498.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/apples-electric-self-driving-car-delayed-again-to-debut-in-2026/amp-41670386901498.html"
     type: article
     provider:
-      name: Crude Oil Prices
-      domain: oilprice.com
+      name: Auto News India
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2022/12/07/1600x900/Apple_car_1657603020858_1670387060040_1670387060040.JPG"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Apple scales back self-driving car and delays debut till 2026"
+    excerpt: "Apple executives are grappling with the reality that its vision for a fully autonomous vehicle — without a steering wheel or pedals — isn’t feasible with current technology."
+    publishedDateTime: 2022-12-07T16:31:00Z
+    webUrl: "https://www.dailynews.com/2022/12/07/apple-scales-back-self-driving-car-and-delays-debut-till-26/"
+    ampWebUrl: "https://www.dailynews.com/2022/12/07/apple-scales-back-self-driving-car-and-delays-debut-till-26/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2022/12/07/apple-scales-back-self-driving-car-and-delays-debut-till-26/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
     quality: 44
     images:
-      - url: "https://d32r1sh890xpii.cloudfront.net/news/718x300/2022-12-07_jfh8wmuyto.jpg"
-        width: 718
-        height: 300
+      - url: "https://www.dailynews.com/wp-content/uploads/2022/12/Apple_App_Store_Antitrust_Battle_93202-1.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "Tesla didn’t say a word about Tesla Semi being equipped with Autopilot/Self-Driving"
-    excerpt: "Tesla chose to not say a word about Tesla Semi being equipped with Autopilot/Self-Driving despite the truck being equipped with the hardware."
-    publishedDateTime: 2022-12-03T18:35:00Z
-    webUrl: "https://electrek.co/2022/12/03/tesla-semi-no-word-equipped-autopilot-full-self-driving/"
+  - title: "Apple to scale back self-driving car ambitions, delay car launch to 2026 - Bloomberg News"
+    excerpt: "Apple Inc is scaling back its self-driving car ambitions and delaying the car's launch date to 2026, a Bloomberg News reporter said in a tweet on Tuesday."
+    publishedDateTime: 2022-12-06T18:05:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/apple-scale-back-self-driving-car-ambitions-delay-car-launch-2026-bloomberg-news-2022-12-06/"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 43
+      name: Reuters
+      domain: reuters.com
+    quality: 25
+  - title: "The Apple car might not be fully self-driving, now set to launch in 2026 for around $100,000"
+    excerpt: "Bloomberg writes that Apple has scaled back the self-driving plans for its future electric vehicle, which looked set to be fully autonomous with no steering wheel"
+    publishedDateTime: 2022-12-07T13:45:00Z
+    webUrl: "https://www.techspot.com/news/96886-apple-car-might-not-fully-self-driving-now.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 23
   - title: "Apple’s self-driving car delayed once again to 2026"
     excerpt: "According to a new report, Apple is scaling back its ambitious self-driving car, which is now scheduled to launch in 2026."
     publishedDateTime: 2022-12-06T19:33:00Z
@@ -73,25 +100,25 @@ related:
       name: BGR
       domain: bgr.com
     quality: 19
-  - title: "Apple Scales Back Self-Driving Car, Delays Debut Until 2026"
-    excerpt: "Apple Inc. has scaled back ambitious self-driving plans for its future electric vehicle and postponed the car’s target launch date by about a year to 2026, according to people with knowledge of the matter."
-    publishedDateTime: 2022-12-06T18:22:00Z
-    webUrl: "https://www.ttnews.com/articles/apple-scales-back-self-driving-car-delays-debut-until-2026"
+  - title: "Why you may never be able to buy your own self-driving car"
+    excerpt: "Despite recent claims of vehicles having full automation, it is no more possible to buy a truly self-driving car now than it was 15 years ago. Will private cars that never need a driver ever reach the market?"
+    publishedDateTime: 2022-12-07T13:45:00Z
+    webUrl: "https://www.newscientist.com/article/2349786-why-you-may-never-be-able-to-buy-your-own-self-driving-car/"
     type: article
     provider:
-      name: Transport Topics
-      domain: ttnews.com
+      name: New Scientist
+      domain: newscientist.com
     quality: 4
-  - title: "Audi's Project Artemis Self-Driving Plan Could Be Scrapped As Soon As This Month"
-    excerpt: "Audi's autonomous driving project will likely be laid to rest this month so that the automaker can focus on other software developments. Instead of devoting too many resources to the self-driving dream, Blume is expected to announce a new roadmap for the ..."
-    publishedDateTime: 2022-12-06T13:32:00Z
-    webUrl: "https://carbuzz.com/news/audis-project-artemis-self-driving-plan-could-be-scrapped-as-soon-as-this-month"
+  - title: "Apple pushes self-driving car launch to 2026 but still eyes major EV industry disruption"
+    excerpt: "The wait for Apple (NASDAQ:AAPL) to bring a self-driving car to the market has been pushed back until 2026. Sources indicate the tech giant has also moved away from producing an electric car without steering wheel or pedals in favor of a less ambitious design that still offers full autonomous capabilities on highways."
+    publishedDateTime: 2022-12-06T19:00:00Z
+    webUrl: "https://seekingalpha.com/news/3914508-apple-pushes-self-driving-car-launch-to-2026-but-still-eyes-major-ev-industry-disruption"
     type: article
     provider:
-      name: https//carbuzz
-      domain: carbuzz.com
+      name: Seeking Alpha
+      domain: seekingalpha.com
     quality: 0
 
-secured: "/nRZf1reldfj6UlcvuIC9lD6uvts4iOwxjhqDumbsxtrZfGZJjhOYXnt8j7LjZfKd4QARjFYTDnAVZ8ajD2ZHXVbdBod+rJAttDaZoqKZkqLGVzUbFaDN1bXdnILS70mbo1OU2GUsdgMVIUclycJDiQZHuwY0WEBHUyw3RwCzwT6wZDBvus1cy6DiI7AVxSIp8FRQHTq0IR8hxUHr3BtnXJPmeKG0NAF4/oNq72fEwtKM8hFLocq+RcuiGcWs+kUKlg5NuvbdJieNaOb/e9yvbskgFkG3j5qsQOVi09oSNy9gnQvvO7xGO5mbhOtv49kMZdYlVtOG5pRLAt0zZK+lq57Y0XKKbQVbtvWFC8bS54=;ZJl0q/4Pymugxt1E+NAOBg=="
+secured: "iJXf6pH8rRfjXsex9EmIZLrPVixAijfipa7US3dzReC1Hfuer5d9qTJZfcFJ3vE6pbD6vKOQ1Ei2q27wM4nWQTi+rgfROyKeJ/KMscqzabWNREk1KkJHaMjII7Z4MqcKWo+pxID9upXgBdyX39sChsv8kQOF+OkBjfjLSCWh7KBlOfesJZoPohdT2vv/ztGNS+iyxQy5q0sCK0NdSlUGb1nxStsa7mdIaO1eG1OCnLiupmTsqabxirMAoBWQvUNcBPYxM97tTKob+aKrSjwxfxrP2oLk/LIfJG47ZqjmUlz4zu5sQnPhokneM3oyixP6zKclbFccwUc58vLzZF+t58LZXujO4e2iUu6fnBgUTLMG29a5L/bqsduMJewL+firPXfCutaz5y+YUy6gx2aESKAtiJhCisLmPFIkgYtM405xH/6phbtgpBD5t4jkEejl2cdLuls47lCECN2CPYeOl/yq63Pj/Ir/EEgPra0pBD9NjRBvQV4Hz3e7ipfYCim29+GqZYj6Cywv9czo/aCLew==;NNlr4GQEAFWsbWzEw2LrlQ=="
 ---
 

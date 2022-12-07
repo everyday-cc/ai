@@ -6,8 +6,8 @@ publishedDateTime: 2022-12-06T20:53:00Z
 originalUrl: "https://insidebitcoins.com/bitcoin-robot/qumas-ai-review"
 webUrl: "https://insidebitcoins.com/bitcoin-robot/qumas-ai-review"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://insidebitcoins.com/wp-content/uploads/2022/12/qumas-ai-bot.png"

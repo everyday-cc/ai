@@ -1,18 +1,18 @@
 ---
 category: news
 title: "San Francisco changes course, bans police use of 'killer robots' amid public outrage"
-excerpt: "Tuesday's vote came a week after the San Francisco Board of Supervisors voted 8-3 to initially approve allowing \"killer robots\" in emergencies."
-publishedDateTime: 2022-12-07T14:22:00Z
-originalUrl: "https://www.usatoday.com/story/news/nation/2022/12/07/san-francisco-rejects-police-killer-robots/10850743002/"
-webUrl: "https://www.usatoday.com/story/news/nation/2022/12/07/san-francisco-rejects-police-killer-robots/10850743002/"
+excerpt: "The San Francisco Police Department has said it had no plans to arm the robots with guns and only wanted to be able to place explosives on them so they could be used \"to contact, incapacitate, or disorient violent, armed, or dangerous suspects\" when lives are at stake, police spokesperson Allison Maxie said in a statement."
+publishedDateTime: 2022-12-07T15:22:00Z
+originalUrl: "https://www.azcentral.com/story/news/nation/2022/12/07/san-francisco-rejects-police-killer-robots/10850743002/"
+webUrl: "https://www.azcentral.com/story/news/nation/2022/12/07/san-francisco-rejects-police-killer-robots/10850743002/"
 type: article
 quality: 32
 heat: 32
 published: false
 
 provider:
-  name: YAHOO!News
-  domain: usatoday.com
+  name: AZ Central
+  domain: azcentral.com
 
 topics:
   - AI in Robotics
@@ -44,6 +44,6 @@ related:
       domain: sacbee.com
     quality: 11
 
-secured: "YWpfHAmkl4dKdjI2qjNvItLhxEhcuz9p0Od1LBAmY+IfdVSyKRXzhIdnIscHalCxgZ9RhlPuSldc+h744YFhmheQ1nIa3V6CG9UEhKzuLo3cDU1ybcl+HiHYPklnocuGWC2GP1whUtMpf4cz1rPUkunmYXwX1rr/NRqV7jTuC8gL2SOdpWpbQlSDp8ehyYuOglAx1bmH60A3lb4zj5nTeakq1gy9rBQZL6Ce1C24gWD1asQsWyIC4geOltbxwnMkpz5iEDrm45qEsjRCAg+0y+YmyGlAu/jaYIcG7/2DxqPzOTTaaSIYjJ1JTG2g5UN0MXDDwHQDSi739opg+PaKfuj40wgiEPYZEJpYiX39xWo=;q1AGz/r2PwqjgrxllQAkqA=="
+secured: "fxjZ0ovs8Z3db+KJ33deT4LjgSetgRS4Yzi2cylpOdSB1DJtzo8iNxe3UwvgBCGYCBLGDKEJ+sA9MfpYMRBhvfiSmt4VgWFKxcwniwGfbGNaAN0C0Up0m8QUdaDeawkCxCMEdt4OWGb+GZLrPLkL4frkwAL1bKIN3lWts3RMkskKW6Z+/XykWgKxnzIODaN8/L2DwbWM+N80RrU33lP0RhsiEZwD2qhHT3iLqsRI4dnUhh9OYpQ32CyJ8oxuLpFyG2MW5lIkbSNAdtxE+k7O3dTRPkDXDmoHEsKv7mWfElXR5dipCRH/CT6i8FUVDcT67EX0IjelFr/Ef1Nxnz7rr3v7LdkX7svfGnOyO85k03g=;RFsFBxIPsAoZxvJQ31dAyQ=="
 ---
 

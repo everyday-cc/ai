@@ -72,6 +72,22 @@ related:
         width: 1200
         height: 730
         isCached: true
+  - title: "Here's how to use Lensa, the chart-topping app that uses AI to transform your selfies into digital avatars"
+    excerpt: "Lensa is the top free app on Apple's App Store. For a small fee, it turns your selfies into AI-generated digital art. Here's how it works."
+    publishedDateTime: 2022-12-07T16:45:00Z
+    webUrl: "https://www.cnbc.com/2022/12/07/lensa-app-turns-selfies-into-avatars-with-artificial-intelligence.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2022/12/07/lensa-app-turns-selfies-into-avatars-with-artificial-intelligence.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/12/07/lensa-app-turns-selfies-into-avatars-with-artificial-intelligence.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 69
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107162559-1670422900074-IMG_1461.jpg?v=1670438746"
+        width: 4096
+        height: 4096
+        isCached: true
   - title: "Lensa AI, self-portrait app generates non-consensual soft porn if provoked"
     excerpt: "One of the major reasons for the backlash is that the app can be used to generate non-consensual soft porn. There are quite a few pictures that can be seen on Twitter, with breasts and nipples clearly visible in the images."
     publishedDateTime: 2022-12-07T09:49:00Z

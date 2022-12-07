@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/640a1cb7eabbef6cca6358bb275d037648408957/2022/11/29/b6bfff51-57df-40e5-b5ab-3ff8e95db826/cerebras-neurips-2022-slide-deck-slide-26.jpg?auto=webp&fit=crop&height=675&width=1200"

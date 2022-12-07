@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Stability AI Selects AWS as Its Preferred Cloud Provider to Build Artificial Intelligence for the Future"
-excerpt: "Leading open-source artificial intelligence startup trains foundational models 58% faster and more cost efficiently using Amazon SageMaker on AWS At AWS re:Invent, Amazon Web Services, Inc. (AWS ..."
-publishedDateTime: 2022-11-30T21:39:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/b29913648/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the-"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/b29913648/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the-"
-ampWebUrl: "https://www.benzinga.com/amp/content/29913648"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29913648"
+excerpt: "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Stability AI, a community-driven, open-source artificial intelligence (AI) company, has selected AWS as its preferred ..."
+publishedDateTime: 2022-11-30T21:21:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the/article_ba31c368-9cb5-59ae-b8ca-f429474c58d5.html"
+webUrl: "https://www.bakersfield.com/ap/news/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the/article_ba31c368-9cb5-59ae-b8ca-f429474c58d5.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
-    width: 800
-    height: 313
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+    width: 600
+    height: 315
     isCached: true
 
-secured: "mxViGG6f5jyZe4nBL7OkBmRZkuocnG176QqZ4rvR8OUZrbzDKlAQpqmdJep0eCwEGOGP6giHbeA7nV3Oa+zHdXBnAX8W6UViD9rajnXsoTVpx00Snfc1mimDMpR7jk0KE/az4T+F67Fw0wNX7qeiVvpnJ6WpN4OeCQSnnDi6c2s4qr0sMbnnzKQvSq23hTm3fGcUFdoiDY2TdYilIci6AVtQ5tp3MVrrRBiXb8T/McIE1Uj+QDlce2HI+l0lHrKdjKyylaMKWykCR3VEuT2RLnSVQF6o6/ATBxy1BwPzlvDEGH2XtOi7BSCqb+5vtDIf62OiF6LvWZE/VxwPkAnb6Apk2rlacCJzJv0s1TI/P/I=;BTA4aupUTzFLAviqB+Ynrg=="
+secured: "wDbtdqMsc+Dm9Loa/TCbU3U8sYkUP3K/05RYjYZRa5T59/fYFQ044Cl339kpVMiQeNR0v4qeQc9fzjnTFwCKpFIqm7JZhffFWwwUIUHPFAYpALEX4xowruJJaWPKXKZqaRyYqtdhbo39Ztj5AjwC7d0lEtDmir2a5B1IO2n5II7rM78m1pJR3dLFdbk50aiQroZYrXCyTP0tbL/tGpnDTsKsSweDhhpmkKUagF3LpU3Fu+fn6+T5s7SN8Ta9kFdig6MVViqS4Qiqx+bhih+coMTnaZkTDLnb3yyjiydu1wlwz8kwc6ol8f5wLoLaP97Ox+57jVQpH4WvpGmIk39C+O77sFAjuNtoAuxETsyDYiM=;L3sJWozN22q/z5kejQB36w=="
 ---
 

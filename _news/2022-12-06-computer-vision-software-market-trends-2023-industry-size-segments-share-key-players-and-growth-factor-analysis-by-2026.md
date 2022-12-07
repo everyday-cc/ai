@@ -73,6 +73,34 @@ related:
         width: 800
         height: 313
         isCached: true
+  - title: "Internet of Things (IOT) in Healthcare Market Growing at 17.30% During 2022-2027 | Industry Size, Share, Forecast and Report"
+    excerpt: "What is Internet of things (IOT) in healthcare Market ? Internet of things (IoT) represents an interconnected arrangement of devices linked to the internet and can gather and transmit data over a wireless network without any human intervention."
+    publishedDateTime: 2022-12-06T11:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/internet-of-things-iot-in-healthcare-market-growing-at-1730-during-2022-2027-industry-size-share-forecast-and-report-2022-12-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice And Speech Recognition Software Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028"
+    excerpt: "The market research study demonstrates the varied and extensive character of the \" Voice And Speech Recognition Software market \" and how the market will develop over the ensuing years. The report emphasizes information obtained 2022 to 2028 regarding the Voice And Speech Recognition Software market."
+    publishedDateTime: 2022-12-06T20:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-12-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Medicine Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028"
     excerpt: "Artificial intelligence (AI) is a branch of computer science that deals with the design of intelligent agents,"
     publishedDateTime: 2022-12-05T06:39:00Z

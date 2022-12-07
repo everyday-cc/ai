@@ -50,29 +50,6 @@ related:
       name: Electrek
       domain: electrek.co
     quality: 43
-  - title: "Apple Delays the Launch and Lowers the Ambitions for its Self-Driving Car"
-    excerpt: "Apple is modifying the design of its first self-driving vehicle to include a steering wheel and pedals, which earlier plans left out."
-    publishedDateTime: 2022-12-07T15:27:00Z
-    webUrl: "https://observer.com/2022/12/apple-delay-autonomous-electric-car-design/"
-    type: article
-    provider:
-      name: observer
-      domain: observer.com
-    quality: 23
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2022/12/GettyImages-180224599.jpg?quality=80&#038;strip"
-        width: 4207
-        height: 2805
-        isCached: true
-  - title: "Apple’s self-driving car delayed once again to 2026"
-    excerpt: "According to a new report, Apple is scaling back its ambitious self-driving car, which is now scheduled to launch in 2026."
-    publishedDateTime: 2022-12-06T19:33:00Z
-    webUrl: "https://bgr.com/tech/apples-self-driving-car-delayed-once-again-to-2026/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 19
   - title: "Apple Scales Back Self-Driving Car, Delays Debut Until 2026"
     excerpt: "Apple Inc. has scaled back ambitious self-driving plans for its future electric vehicle and postponed the car’s target launch date by about a year to 2026, according to people with knowledge of the matter."
     publishedDateTime: 2022-12-06T18:22:00Z
@@ -92,6 +69,6 @@ related:
       domain: carbuzz.com
     quality: 0
 
-secured: "PFTPjGgO6UiuZlf4fBXgugBoEMkxTTovwFVj9PWbobPdSIUqYlioeOv+051r+OxSZWcjeLjonS7nzdz+/jWRj6cEkeo7MM33qOOgeJo+IrFpYwEz+WPQRvYRNvlVe+hI2UZVSc6XzUvFRRbd+3M8VPyJY6NVFk8MJcidoUYRtNN5Z8lmXNbiFTF1mOf+tywZG3Lk8WTn/Yql8x5sKyAV/r7V8gh6pDCuhLvwQNbvpAdmT37+GhWBO/wDE43OsXja/HzEa07lGf9YkBJoXWpP9QnvfiG4QYobtytuJ5bsWfGsLxua+HnEB7i95oqUr7YLn4dBBQxcVy8xvZ44pusdwrM5oqZY/WHncZUYBHwcNvY=;vuZhWQ5j9ktKv3X4eZDeLQ=="
+secured: "D0K9BSBIw9p0KkSUtuJRH1dN9IW5lgZRfah0R4n4UF788m6Rtm5+hhKIvSHJGzS5dri5vivyMnR8+GnaSjA7DG/HlH3XobBy5kDnd5vRCfgt4Olb/6fZtG4Xr+79VU0wbZH72/JeRxVZ316KImV5Kvsj0I2gT078CRyTWc+J0BToS0RjNXm8rqZRbT0RSdfKxjQBNeo8TXgIEAQ4bcc+ITd/6sWEfJBu1rigGMPHwNaBLERAzmxz0A99lu+mJgDs4hBsGW/4MFQJIlCPqC2jR+DUtxPh3Fl7RGRgsY2C2OM3ui5U1a4j4i1H7JdbQPi9F74J53+NichY3gDIRGpCjhSwf9bcJXI5bCS/uMpoOc0ZrYHUXCelwEuBTxdyCQsHVceRkZ0kAZ5l4hEb/t5jg26BYa2Fe6wOeMJq6hPgQ1UzXKf+nVOzq/fY7uB+4HLKBGPdjGJl/dFMO8h2EbxX8KLssx6xogSthQOd+x57FtoBKDms1xMCjkq7hMW/f/1IEGuWnVLv8itnc+W3WCAyJw==;a0rWm5WPlRcQLqnQHyOOAA=="
 ---
 

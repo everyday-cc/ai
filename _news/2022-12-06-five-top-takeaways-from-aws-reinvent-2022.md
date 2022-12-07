@@ -48,20 +48,6 @@ related:
         width: 504
         height: 315
         isCached: true
-  - title: "Innovation hotspots warm up AWS re:Invent"
-    excerpt: "Massive throngs turned out for Amazon Web Services Inc.’s massive post-pandemic re:Invent conference in Las Vegas this week. As with its previous shows, AWS did not disappoint, with its laundry list of new and improved products,"
-    publishedDateTime: 2022-12-03T01:26:00Z
-    webUrl: "https://siliconangle.com/2022/12/02/innovation-hotspots-warm-aws-reinvent/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/awsreinvent2022-awsforeveryapplication.jpg"
-        width: 4896
-        height: 3672
-        isCached: true
 
 secured: "mZkaXB+jUsV201jYJyjkmP1mAlumJ8YNbRZ1bIRRYR7D5OATK46h6m1WfDiA8jRj5uVC51fJnKXqqM014DWaA9P5l5Eo3GlQCIDGR4Rl7olkpN910zaN1z6N2hiakuRajD/rgq1IM+JY63yA1JFZago/SG7C9n0mWWhEGCLOy7EydDGWLWYgCzLdqEVSs09ymENKK71DiwQNbORRqktLlSX9LSsUxerEcBmaRNrlm9QJ7IsSaT5fqBNrtStWRnTL38ExSZzwq85q1UwRWDQzi0X7WJBH77/1OMX6WAJL3gR4kfGUKYt636DCJuMLwmgfvob3TDm23jX2rUipoZNHFdTMnBYW12p9dl2bJoXSGtXRn/SSmwuRKFJuwr86IFkJ1FoEuc9TzFUNtS8tUrFCTLS5CmUpWRodHQ3iDgDNFk36pQcYcVCY+n5+yZ4gdGrHRHcEu2uIdJLGcJGEuieDSwgRM6syTP7QOBYXCA+bYlIBaco29rmit6lMqoOEqoT1SSLUfqbi1W3RA0oE54Akrw==;PClfwf2/D85EamgOiVEZcg=="
 ---

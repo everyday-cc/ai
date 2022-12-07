@@ -64,6 +64,15 @@ related:
         width: 690
         height: 460
         isCached: true
+  - title: "dotData Feature Factory Tech Adds Feature Discovery Capabilities to Azure Synapse Analytics"
+    excerpt: "SAN MATEO, Calif., Dec. 7, 2022 -- dotData, a pioneer and leader of the feature discovery platform announced that its Feature Factory technology is now"
+    publishedDateTime: 2022-12-07T17:39:00Z
+    webUrl: "https://www.datanami.com/this-just-in/dotdata-feature-factory-tech-adds-feature-discovery-capabilities-to-azure-synapse-analytics/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 9
 
 secured: "X71bij0UgBXP5Mnq+RmaBOd//Ednfz3xLi46ZvYAlFpkAw6AxbpqCIm/NKBc+KUd2pQxLRG/W6iarJd014YWWfqRB7sGJ3Gv5PvZBJyClj2TETjd/blhvHFGNbnIRdmDRMDK4/RXHGWRtAgtz1U9tGBUGmh6kI28abFrZ/In+GYA+1fgPCtQydoCOcLYstfbfLPn1N2twlINXI+1tKPBLNbm2BeB9SHT2heJTaLqECtP0CeP/Abl0A2beoP0j6ylw5Bhk4Eq3CaxukHdobUfIJjuIi1NzdU/DKEpMlDFngtr16nsi/gXtBweAYnGmSuxy6yOfOZHIrcY3gcUH9rgiU9B5EsE/jaQXdkl1tmpLok=;8lk2WmGFuZoByfZYMReI7A=="
 ---

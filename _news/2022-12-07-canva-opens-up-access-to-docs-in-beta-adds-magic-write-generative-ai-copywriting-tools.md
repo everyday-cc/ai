@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2022/12/07/canva-opens-up-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/12/07/canva-opens-up-access-to-docs-in-beta-adds-magic-write-generative-ai-copywriting-tools/amp/"
 type: article
 quality: 78
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Canva targets business users with generative AI-powered tools"
-    excerpt: "Canva is boosting its efforts to target enterprise business users with today’s release of Canva Docs and the AI-powered Magic Write."
-    publishedDateTime: 2022-12-07T14:41:00Z
-    webUrl: "https://venturebeat.com/ai/canva-targets-business-users-with-generative-ai-powered-tools/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "Free AI Writing Tools Can Write Essays in Minutes. What Does That Mean for Teachers?"
     excerpt: "AI writing tools are widely available and getting better every day. Your students may already be using them. Stanford professors Rob Reich, Mehran Sahami, and Jeremy M. Weinstein are sounding the alarm on a new method for student cheating: AI-generated papers."
     publishedDateTime: 2022-12-07T10:05:00Z

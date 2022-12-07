@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - Facebook AI
 
 images:
   - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XSVV4TTO4II63BT4R3DJLZFPZU.jpg&w=1440"

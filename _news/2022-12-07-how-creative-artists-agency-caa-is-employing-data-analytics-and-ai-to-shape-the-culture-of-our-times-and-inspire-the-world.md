@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/randybean/2022/12/07/how-creative-artis
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/randybean/2022/12/07/how-creative-artists-agency-caa-is-employing-data-analytics-and-ai-to-shape-the-culture-of-our-times-and-inspire-the-world/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
         width: 350
         height: 455
         isCached: true
+  - title: "dotData Feature Factory Tech Adds Feature Discovery Capabilities to Azure Synapse Analytics"
+    excerpt: "SAN MATEO, Calif., Dec. 7, 2022 -- dotData, a pioneer and leader of the feature discovery platform announced that its Feature Factory technology is now"
+    publishedDateTime: 2022-12-07T17:39:00Z
+    webUrl: "https://www.datanami.com/this-just-in/dotdata-feature-factory-tech-adds-feature-discovery-capabilities-to-azure-synapse-analytics/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 9
 
 secured: "O5cr4W7Z703FhXihRH63T2WKVQbdUElkup/JAaVvdnFOmAp75AMSpZVZc88EqcP3YgoxqfrY1D7jb6DFSL+QwrnexN3ufnDqPDdFimD2hz66Zngv866LwjnRl+G623I+mQwBjLSJLl+GSysL+qr+CqQS64bj0B88/gFxyI88+dI15XRNXtlWQXfz9Hy8AnwvDYyFnyNZPgDkjjSfO0WIe/tF8lOEQbzxJ87kmeGHVxtlW2lebuAzM0StYGqGWv0wHX/IqA4TWNjyH8WZTpWZb3nx0tB3vVTyvEkKlrUFvki3EXrrGuLX+iq2abCyV1f1eYk4DVxfgjtItVHr0aqNeLUN/nu24vdMZl7VHd02fm4fQgyyCXUC5opH2S6iD7wvveJCwcSFi8q520yVxqbKquxzNeMA55fClsugHkInv79ARdtnQS8LSnRBFAlUIg2cPifUNQr2kRUP7NLtXCLX8WzXfACb56ragmwql6zdVjZ8FASszLgvrN6Tv9gwaT/f9l211o3MxnYkpQ7QdxKdLw==;Zd91mo91YEk9arjTS1yRBQ=="
 ---

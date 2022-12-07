@@ -1,20 +1,20 @@
 ---
 category: news
 title: "New artificial intelligence could help humans actually talk to animals"
-excerpt: "New developments in artificial intelligence and technology could help humans communicate with their pets and any other animal species that calls Earth home. Outside of the field of science ..."
-publishedDateTime: 2022-11-30T04:05:00Z
-originalUrl: "https://www.wcpo.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
-webUrl: "https://www.wcpo.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
-ampWebUrl: "https://www.wcpo.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
-cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+excerpt: "Though humans have tried for thousands of years, modern science has found new ways to communicate with the animal kingdom, albeit with limited success."
+publishedDateTime: 2022-11-30T08:38:00Z
+originalUrl: "https://www.wtvr.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
+webUrl: "https://www.wtvr.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals"
+ampWebUrl: "https://www.wtvr.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
+cdnAmpWebUrl: "https://www-wtvr-com.cdn.ampproject.org/c/s/www.wtvr.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals?_amp=true"
 type: article
 
 provider:
-  name: WCPO Cincinnati
-  domain: wcpo.com
+  name: wtvr
+  domain: wtvr.com
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
 
 images:
@@ -23,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "YE7osT+FfUBlER5aJeLYW07+8z9j+lBVRiUrrytu6kzx5k4cbJQOGgd1u9VCXn5McdtZnWuDG0iBeXtuN1kTHOUrFrwWADcgAempPXjZgBhOe/Jky6mtqf4xQ40WYjhmeri8j4wsFgkwqr6/HCqzCXKbLeaXXYet/Avv5cMLRpj5Yv+RdSC8Vd0ZvLVqFQHJOlapZfDrMDJu8i6aoUXzAROns0bi5XVZ6pxl1CQdWP1ocm+XTQVgMikd2DRg98ZlT53WtDNIiLS71/bxtwIvNxGfRLEBOcXwf/bbkoNCnAQKju6TnWnIiCnw0pzUwzG+1q9UW1ksu0zzkPLmYRkQWOrPto2ivl+59Lv3FDQ16EI=;Jk+kB3tMCmykED6FzLoqtQ=="
+secured: "B1ZK9gae6P8ChK8q+stHV5Bj0+Fq/34RS2fYelEivKyGbFr/gKknfbvqzlA18csNpqcBY7mXXmD5esGemRfs1L+cnEeQ8msmCpTS/OWPOkadUx83of93QiGsgbDhIRhc00cbdx96Gr3CJWDALVIVu1lrS7txt1OtXUKprZwMTE3PbVm8Z5lF4XhLF2RfZZAHpCYczwAIyc87peTeMdwdur7gZZN3A8LHCkKtZQURG/jSYmxthNpjTurqI28jeN4q1QdWZu5RgNFSvjdvRSu+AekooD/RlJIyoUlEwGXIjnL4BU2dYT1ymrvwxh61i18cA8lcQXmIElEpTAcl2T6ihFt90VFqZoy2OZHl+Ow9zzY=;12dr1EhfpuhH/zz4gsCzaA=="
 ---
 

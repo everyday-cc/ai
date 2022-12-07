@@ -48,6 +48,20 @@ related:
       name: YAHOO!News
       domain: techcrunch.com
     quality: 62
+  - title: "Kodiak Robotics Wins Army Self-Driving Contract"
+    excerpt: "Kodiak Robotics Inc., a self-driving technology company active in trucking, announced in a blog post this month that the Army and the Defense Innovation Unit (DIU) selected it for a 24-month, $49.9 million agreement to adapt its self-driving platform,"
+    publishedDateTime: 2022-12-07T15:11:00Z
+    webUrl: "https://www.ttnews.com/articles/kodiak-robotics-wins-army-self-driving-contract"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 56
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2022-12/Kodiak-1200.jpg"
+        width: 470
+        height: 246
+        isCached: true
   - title: "Kodiak awarded DOD contract to develop autonomous Army vehicles"
     excerpt: "Defense Innovation Unit contract calls for trucking technology company Kodiak to help the U.S. Army automate future ground vehicles for high-risk missions such as reconnaissance and surveillance near or behind enemy lines."
     publishedDateTime: 2022-12-06T14:49:00Z
@@ -58,6 +72,6 @@ related:
       domain: fleetowner.com
     quality: 4
 
-secured: "OrUuMcmMP7aGE8W4QtOpap7O6OtgdpGQwfB6Na1Eze4WDb2hCx2U8Swpv/HhTbFi4tQ3rbYmVClGgWoI0P1F91ASFv7EaRSta9N3FaTVcSxjPpLYxr0vhEzIwro/p3hNayxoEAoKAytKxyLWjsaQd178HBfLgrntBXXUjmoN7qIB4AFuWFGd0nf48bUfWfKEdEAsPuOcYlTT1JUqmEPRhw9EJyVYCOlY+6EdlDRME937IX8akDecP+P+39sm4Hd6j1TcXxsviCM0D+R1qeZbxNIW++lIl9o+aZ2+lIzCyGsT5o229UTPr0zdQ5Lw6V1VgcADMDPz2tparoyq9f161tuZIXiiU+1/AdjERaqGZVA=;QQGHNbxj0BraUscdBgbPlA=="
+secured: "9U0rmEjZhsqTvWpH78NSo6TAxuF7QYDbxCIQtOGgSgTN087pRfz2W7VyS7ydAkPHt/7BupDfoIsIRcb3EZaO9cwN43DZ1As2eSD1QLKZCeNOmVDT4Q7WOqzLU2gmcrjihhjb3AFPTYV963HO1BFlLe+SQVTdYemAOacJTD3ks/A1KbCpSS8thStan9EzFgwY1Kg6T8SMUKIsxS6jTIaHtlBW2l6FGS7uJVYKIhax/NyOc5imKjlRabIihWUImwzfLoWOHxRZ5AttqMq00Ed/zGOdnKfFGd2y3tIgn+zuJb0xHGZNQd5C8PvBMGLtvmHDBYjnNGmvh0soz8ZxFUGVcI5EjEebRgi31cpxnVX/q+II1JDvvOO+zzfmHTi5piAhJDXbmN78u1KU5JiYhpUh+mCM4t5W0P2ibNnCoQ+J3m9mIYFa8AnR32ZUjhO6lGnOURGP0pumQw1hI05/Ive8uYmb3+PVyNW8Mk6x6Toe7/oq0c5dxKk1mBFEKqw91AqQK+NCorjR7qtxqbDE62zgAg==;I/j0r0u/10lVKf9y2c30wA=="
 ---
 
