@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20221210_WBD001.jpg"

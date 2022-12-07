@@ -15,12 +15,6 @@ topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "wDbtdqMsc+Dm9Loa/TCbU3U8sYkUP3K/05RYjYZRa5T59/fYFQ044Cl339kpVMiQeNR0v4qeQc9fzjnTFwCKpFIqm7JZhffFWwwUIUHPFAYpALEX4xowruJJaWPKXKZqaRyYqtdhbo39Ztj5AjwC7d0lEtDmir2a5B1IO2n5II7rM78m1pJR3dLFdbk50aiQroZYrXCyTP0tbL/tGpnDTsKsSweDhhpmkKUagF3LpU3Fu+fn6+T5s7SN8Ta9kFdig6MVViqS4Qiqx+bhih+coMTnaZkTDLnb3yyjiydu1wlwz8kwc6ol8f5wLoLaP97Ox+57jVQpH4WvpGmIk39C+O77sFAjuNtoAuxETsyDYiM=;L3sJWozN22q/z5kejQB36w=="
+secured: "C6+z2PvDsUHTsK+PgJD5tvKMbpA0ULoePMPNMrag3vvN9eiTIIc+869BzUH3DJJmL1APpSLAOFjf/VxNpYLk3f9QmJ7qYb9Z1PsrXS2E+9/TewvGQmthVrel9aDMxzt0eHo/Hm6IkucIT4TLyup1dxBIvtZyyV2tgitFGtPvTLf1GXqQSyz0CTg5h1YQqFBzHhMxwZ7HjWLSfk3TCZexRmDtJEsOXew5GYpFj03wh9oTMGcT5/vjBu4A3fLqUhmJe3ljp+KY/cz28w2bkgeH8oyYkbdwNarkOQm0cB852iXWjIeiCRJjDa++jMf+bndA2wlpSCMoqVP7rUB3CyuOiClG794KVgAIVOQF+uwtJXI=;qM4Fzb4jHumncSEWdbCJMA=="
 ---
 
