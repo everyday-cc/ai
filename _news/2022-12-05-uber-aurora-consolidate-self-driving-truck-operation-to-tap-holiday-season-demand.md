@@ -22,17 +22,6 @@ topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "Aurora and Uber Freight Expand Self-Driving Truck Runs Out of DFW"
-    excerpt: "Aurora and Uber Freight's new self-driving trucking \"lane\" between Fort Worth and El Paso expands Aurora's operations in Texas. The company also hauls freight between Dallas and Houston—and is now hauling goods autonomously (with human vehicle operators in the cab) for FedEx,"
-    publishedDateTime: 2022-12-02T20:01:00Z
-    webUrl: "https://dallasinnovates.com/aurora-and-uber-freight-expand-self-driving-truck-runs-out-of-dfw/"
-    type: article
-    provider:
-      name: Dallas Innovates
-      domain: dallasinnovates.com
-    quality: 4
-
 secured: "3aDB9gStwlqtaLkHDNUgMOzomYb3x4y6rAxpOSWF7qg3VEhpR+H4fLJJTXugD5rx5UbDedbPyM+j7ko0eZzXafvKQEI7NhziGiO3RG2d5DQtrg2UZH4TVEBcr7dXmwE9xuF420y3Z017EP61ZB+593hDx01ig+QcrvXxOeJWOOFV/LdwZ+vWm8DtWFqjIvDyU7iNt/dUfYB4a6i7xh7s/zIvOzUKqb/ZWrBIY0hiRhzlfMcvSsD7jytPUjJGg7cO99mSEvOmzq9n6jZ0iVhijlzff0x8bZ+EYyhI1TCIhxQ1fVlDfJM9LqcNU3AU4r7qWOWnKmtnrbA6vhma4fjDK3vRn5zdJyWKGX6I4sUGL/c+ffDPhbXIJCiVYEwHwXRUWTiErsQij6s4ZXagcC1YbjddUwlmeR/D8iBuZX4E4CShVtXWPWCfSU0aj0xsgHFVE540ud+o2JnyA/dcaFKVBjEVaGhBJpRfoIqNFpE++5EkMq82rL5Gy8eewDI/42JcVFF9qzhHc5Fo3Bj94bTSWA==;AyPtGj9BrSQWI2sU1KygGA=="
 ---
 

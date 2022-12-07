@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/metrics-for-evaluati
 webUrl: "https://aws.amazon.com/blogs/machine-learning/metrics-for-evaluating-an-identity-verification-solution/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 2366
     height: 1177
     isCached: true
-
-related:
-  - title: "Introducing one-step classification and entity recognition with Amazon Comprehend for intelligent document processing"
-    excerpt: "“Intelligent document processing (IDP) solutions extract data to support automation of high-volume, repetitive document processing tasks and for analysis and insight. IDP uses natural language technologies and computer vision to extract data from structured and unstructured content, especially from documents,"
-    publishedDateTime: 2022-12-02T20:10:30Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-one-step-classification-and-entity-recognition-with-amazon-comprehend-for-intelligent-document-processing/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 63
 
 secured: "KJoO87Zej6l9SAy2YTs834+BJbDCXzWLmxJWUvTj/zwCGqrKzF0mi9WM0JYBtYcxg8vfoLl+FlN/yn8HXdZGxkZkBvuQk62wP02kwhNJzF1lH3v+HFMFgXROVfxVRNTurZxk71IZWGSSLfn6wIt4xp5eokQymkPWH+OiKQasVUxaTrdeIzDpyAGQBHuLKcCvzYgaeVi+a6yZJKGeWqtAn/5XAZ0v5+2pXpcBzlHKyWD+pID2SOGp1inn+77rfTtrKdbo/QI2fmiFhR+vgQ+qQesRYSD36i/BRQumSckYv09LfPII2j3pQ4O8IbJWKYTj+cmyOfloPp4ihy4J/nk6PjfrHfhRPJSU3yA2lh2xIic=;6Gzj17rljVof9zoq7PUB7g=="
 ---

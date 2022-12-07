@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/johnkang/2022/12/06/airwallex-cofound
 webUrl: "https://www.forbes.com/sites/johnkang/2022/12/06/airwallex-cofounder-lucy-liu-touts-fintech-unicorns-prospects-despite-downturn-in-tech-sector/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "2023 FinTech Industry Trends"
+    excerpt: "According to a survey carried out by a world-leading open banking platform, Plaid, in July 2022, inflation has lowered financial confidence, but consumers claim that fintech is assisting them in surviving the economic downturn."
+    publishedDateTime: 2022-12-07T12:03:00Z
+    webUrl: "https://www.finextra.com/blogposting/23369/2023-fintech-industry-trends"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "W686fx2IBScNATg7mv1KHWh1FDxOm5zjOmZJFVevsOUQ/6stU+NnrWkAVvdHlnK0+8rJUOjihL9h1+A40TA9oq+HwBt8kaHpCyVzTK+YcZWpXPhIDH+aa7Yq0eJdYZZWAN/1fIqSut9MBltFlZnuiD1Cz1CCo9m9nBrOBDmRYuTAu1ReFmGTCAzTmEezLrrDDoBEaz9RjoH2olUEQyfWzHG0oqeinmmjd/zQk/XtTe14c5PbFjmfgMGDC5ub/bkWrhbOBjYKVgdH5kn2VrIoRKYb+4a+knybjmCynQD7/ZkAO1Jkz1bUy0BWncDC3WA2s6tbefsEb9NHTrCD+TyKDt2aI50rTlUToWNDcVh6C1Q=;01K8BQbzd8eZSREMCiB7jw=="
 ---

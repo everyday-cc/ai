@@ -28,6 +28,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Lessons for launching an African fintech in 2023"
+    excerpt: "Anyone looking to launch an African start-up in 2023 must be sorely tempted to do so in the fintech space, writes Justin Asher."
+    publishedDateTime: 2022-12-07T10:48:00Z
+    webUrl: "https://ventureburn.com/2022/12/lessons-for-launching-an-african-fintech-in-2023/"
+    ampWebUrl: "https://ventureburn.com/2022/12/lessons-for-launching-an-african-fintech-in-2023/?amp=1"
+    cdnAmpWebUrl: "https://ventureburn-com.cdn.ampproject.org/c/s/ventureburn.com/2022/12/lessons-for-launching-an-african-fintech-in-2023/?amp=1"
+    type: article
+    provider:
+      name: Ventureburn
+      domain: ventureburn.com
+    quality: 44
+    images:
+      - url: "https://s5.cdn.ventureburn.com/wp-content/uploads/sites/2/2022/12/justinasher.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "Sunwest Bank secures multiyear partnership with CRE FinTech Blooma"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2022-12-06T10:08:00Z
@@ -59,7 +75,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 0
+    quality: 2
 
 secured: "B9PP5W2YmNIryhenA213qpT3f/hyEkbABQgSPpw2C1OHjSij/hldNmUB9kX8zJORVnama66LZgPpFlzoRREde/2p454wCQgRq1oCaJjWEwDmRT0aaSBtxHCGir0sjnQE1Fs8/BK6Q8QM2zoalwg9Z9RXwZy1t5cqb2/zjn6IfK57A8hWHkwnLotxhc7HOUC/7zLcyiVEmxH6CEN38OzWZyIp5dLcXdKorDEqBOBN5l3w4P+NkiesJEzg7rL+hqO5GgNXDTq8gT9Jdtt3YaDavnxfJ78IlP6/LDVqVOl8nU7CkXjvcbOeuidBZlLEcalK9dJqQgzqmia4VjCRGUO+Wuo0ydWoY+LoWP17fVO2INc=;N0TznDi2WKPsbZB8WbFptw=="
 ---

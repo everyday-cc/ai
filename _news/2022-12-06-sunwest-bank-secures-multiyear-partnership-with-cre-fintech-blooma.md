@@ -34,6 +34,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Lessons for launching an African fintech in 2023"
+    excerpt: "Anyone looking to launch an African start-up in 2023 must be sorely tempted to do so in the fintech space, writes Justin Asher."
+    publishedDateTime: 2022-12-07T10:48:00Z
+    webUrl: "https://ventureburn.com/2022/12/lessons-for-launching-an-african-fintech-in-2023/"
+    ampWebUrl: "https://ventureburn.com/2022/12/lessons-for-launching-an-african-fintech-in-2023/?amp=1"
+    cdnAmpWebUrl: "https://ventureburn-com.cdn.ampproject.org/c/s/ventureburn.com/2022/12/lessons-for-launching-an-african-fintech-in-2023/?amp=1"
+    type: article
+    provider:
+      name: Ventureburn
+      domain: ventureburn.com
+    quality: 44
+    images:
+      - url: "https://s5.cdn.ventureburn.com/wp-content/uploads/sites/2/2022/12/justinasher.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "Why Ethical Sales Enablement is Essential in Fintech"
     excerpt: "Sales enablement has become an increasingly important part of business strategy throughout the course of the last twenty years, enabling companies to maximise the potential of every customer contact while enhancing productivity and efficiency."
     publishedDateTime: 2022-12-05T18:18:00Z
@@ -60,7 +76,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 0
+    quality: 2
 
 secured: "hsKqUssFS9POReaMU4H535kT2FzQD1hkXrN8p1jpnXnRoljuqeBtaGxOHrtTfRF5BjEinbPJhZiyoyz7JwJlxENqy7iTtReb7CoW82CLXYe0m32AsmwbehwW0ez5IJBtyEHPAkAeXJLhPUFv6Jqey3fGTmgzTyWW4HSfuwjlGQKZ5+LkhawGXoCg2uzIqWjkce3MQr5y2LtmZesbRx7qWuf1ffzGDLGOkId5T/V2g+PnK7+UEmn1szYP5cPH8kGlkIKBB/yBdeqyxrV/Pq8eXPAq/n45RowJHHukeSxRrbfhjDaP7bgLs20nwmiX3IpGP+xUDY/f8HHzav/tPycoGWzpm+A9IgD9zqRD7JGEF0O5W4gYUziKCISKAkH7Zt/4XOfHwNL27Vi2U/EsNVKwNiZgUZJKw0XXxWdQwBh4lP8aiClKsYDgtp694aEgsz2ULlc+8TlwnndLMhr5orZOSnQrT54VNc4uxzf/hteIzAutcg48cYZ84nHxqixhIbOo2ybxiYb1OliqVbwqVRny3g==;Ol4vks30hQztYOpOA+f79A=="
 ---

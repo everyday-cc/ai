@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/ai/at-neurips-2022-generative-ai-and-llms-ar
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/at-neurips-2022-generative-ai-and-llms-are-hot-topics/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: VentureBeat
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia showcases groundbreaking generative AI research at NeurIPS 2022"
-    excerpt: "Nvidia continues to push boundaries of generative AI in machine learning, self-driving cars, robotics, graphics, simulation and more."
-    publishedDateTime: 2022-12-02T19:36:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-showcases-groundbreaking-generative-ai-research-at-neurips-2022/"
-    ampWebUrl: "https://venturebeat.com/ai/nvidia-showcases-groundbreaking-generative-ai-research-at-neurips-2022/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-showcases-groundbreaking-generative-ai-research-at-neurips-2022/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/12/image4.jpg?w=1200&strip=all"
-        width: 1200
-        height: 637
-        isCached: true
   - title: "The Curious Case of Generative AI"
     excerpt: "FastSaaS is a growing trend, with companies leveraging AI-generative and no-code capabilities to create their product."
     publishedDateTime: 2022-12-05T04:52:00Z
@@ -61,15 +45,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Speechmatics supercharges machine learning capabilities with NVIDIA AI"
-    excerpt: "Speechmatics is one of the first companies to upgrade to the NVIDIA DGX™ H100 system featuring eight new H100 Tensor Core graphics processing units (GPUs), which provides a step change in the speed and efficiency of training the next generation of neural networks."
-    publishedDateTime: 2022-12-06T10:34:00Z
-    webUrl: "https://www.cambridgenetwork.co.uk/news/speechmatics-supercharges-machine-learning-capabilities-nvidia-ai"
-    type: article
-    provider:
-      name: Cambridge Network
-      domain: cambridgenetwork.co.uk
-    quality: 36
 
 secured: "RkdhXiVRcx6paTwSwH/otjOR9UG/MltwULDv2XtogGEbKpR9RLFBeqvCnKTPV7dBh2NYrh0aQIWjJwLq/eerxCSgwbpVJiq4O6dBDm3ZFFKS0uEps9YyOpWzC2xElE8G6nTOHFJXbkz++3GpEWuu47QAeS+qtdNum2giWlxhzUUSaoeyliFcLIZIh6DNUzydXqZEyGvL+jf6MUnc6nMrR/5nQMZwbv0BvD1E79Hq4wssZ0gzF2DpjLJXnIRsKp9yyWRfOEceaAa+XDe+t7AgRC53SKOnFG88wIBpe2+aozjSgk1O/6ag68Gy/4Y3PbKt622+u7HduIQcSE1fDm+eHcxZWVLsGri5+jNwi2kYnqO2omOL768pJRaKaT7RYRc9fbxSh5Up05firxUXsWeu/OA05SqzsLrGSTSQ3qi3S3zal4kTwMoy/kkaWqOlLZxLOL0/vT1cQqNgjsrMGBErU7+WW5yzLDxZieOoHxqscvEGFRKV7Vn4QfXxWEvNMbdiUvTPbkWsNjnOwyBX+Q1VKQ==;rcwu7CW7S9PUe+aPIKrJvg=="
 ---

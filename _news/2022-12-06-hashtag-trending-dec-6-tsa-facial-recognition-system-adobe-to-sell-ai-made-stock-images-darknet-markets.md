@@ -41,6 +41,20 @@ related:
         width: 2048
         height: 1536
         isCached: true
+  - title: "Cops Say They Only Use Facial Recognition for Leads, But It’s Often the Sole Basis for Arrests"
+    excerpt: "The anecdote opens a landmark report on facial recognition from the Georgetown Law Center on Privacy & Technology, which found that law enforcement agencies are often using the technology as the sole basis for putting people in jail despite claiming they don’t and despite a growing body of evidence that the technology has serious problems with accuracy and bias."
+    publishedDateTime: 2022-12-06T22:55:00Z
+    webUrl: "https://gizmodo.com/facial-recognition-cops-police-sole-basis-arrests-study-1849859483"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 57
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3d2dfea7d2f1ffb43d9b27160d2ee8cc.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "A massive report highlights fundamental problems with facial recognition and how police lie about its uses."
     excerpt: "The anecdote opens a landmark report on facial recognition from the Georgetown Law Center on Privacy & Technology, which found that law enforcement agencies are often using the technology as the sole basis for putting people in jail despite claiming they don’t and despite a growing body of evidence that the technology has serious problems with accuracy and bias."
     publishedDateTime: 2022-12-06T18:55:00Z

@@ -61,6 +61,22 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "ChatGPT: New AI chatbot has everyone talking to it"
+    excerpt: "A new chatbot has passed one million users in less than a week, the project behind it says. ChatGPT was publicly released on Wednesday by OpenAI, an artificial intelligence research firm whose founders included Elon Musk."
+    publishedDateTime: 2022-12-07T00:14:00Z
+    webUrl: "https://www.bbc.com/news/technology-63861322?at_link_origin=BBCWorld&at_format=link&at_ptr_name=twitter&at_campaign_type=owned&at_bbc_team=editorial&at_link_type=web_link&at_link_id=809AAB2E-75C4-11ED-A552-98A34744363C"
+    ampWebUrl: "https://www.bbc.com/news/technology-63861322.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-63861322.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/16953/production/_127899429_gettyimages-991619332.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "A new AI chatbot is getting buzz for being able to have intelligent-sounding conversations, write music, and even code"
     excerpt: "ChatGPT is an artificial intelligence chatbot that is trained to answer a wide range of questions about different topics in a conversational way."
     publishedDateTime: 2022-12-05T18:37:00Z
@@ -156,6 +172,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/df141be52848f565532fc32763a67bfff1f447ed/0_93_5000_3002/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=df8459ef5c224b513f859f0be309e8a3"
         width: 620
         height: 372
+        isCached: true
+  - title: "As chatbot sophistication grows, AI debate intensifies"
+    excerpt: "California start-up OpenAI has released a chatbot capable of answering a variety of questions, but its impressive performance has reopened the debate on the risks linked to artificial intelligence (AI) technologies."
+    publishedDateTime: 2022-12-07T12:08:00Z
+    webUrl: "https://www.forbesindia.com/article/lifes/as-chatbot-sophistication-grows-ai-debate-intensifies/81759/1"
+    ampWebUrl: "https://www.forbesindia.com/amp/article/lifes/as-chatbot-sophistication-grows-ai-debate-intensifies/81759/1"
+    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/as-chatbot-sophistication-grows-ai-debate-intensifies/81759/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 57
+    images:
+      - url: "https://www.forbesindia.com/media/images/2022/Dec/img_199207_chatboat.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "Stack Overflow temporarily bans ChatGPT from platform"
     excerpt: "The platform’s moderators are aiming to slow the rise of answers created with the AI tool, especially since the average rate of getting an answer that is correct is low"

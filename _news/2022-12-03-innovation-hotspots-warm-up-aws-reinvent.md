@@ -41,15 +41,6 @@ related:
         width: 837
         height: 440
         isCached: true
-  - title: "AWS re:Invent 2022 roundup: Data management, AI, compute take center stage"
-    excerpt: "Invent conference, AWS launched new services and features across its storage, compute, analytics, machine learning, database, and security services, and made a foray into supply chain management."
-    publishedDateTime: 2022-12-02T20:03:00Z
-    webUrl: "https://www.infoworld.com/article/3682073/aws-reinvent-2022-roundup-data-management-ai-compute-take-center-stage.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 64
   - title: "Sustainability And Inclusion Take Center Stage At AWS Re:Invent"
     excerpt: "Within the AWS leadership, there is a strong belief that technology should be built in a way that’s inclusive, diverse, and equitable and the company has a responsibility to make that happen. All Builders Welcome serves as a bridge between the current status quo and the future of tech. During the week, the grant winners had the opportunity to:"
     publishedDateTime: 2022-12-03T18:22:00Z

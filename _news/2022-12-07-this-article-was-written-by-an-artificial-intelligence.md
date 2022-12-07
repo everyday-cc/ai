@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2022/12/07/openai-chatgpt-chatbox-could-o
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/12/07/openai-chatgpt-chatbox-could-one-day-replace-google/?amp=1"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:
@@ -42,6 +42,6 @@ related:
       domain: mybroadband.co.za
     quality: 39
 
-secured: "B0ry5vSwqi0Xaf35G9w1+N2St9rkl8t5GRbfCYy4CrUu0DDsi8ncNRqqv8cckT7vZLPm9fJrfBTSrvOuJAzgRQP2HQ3715sstjOLPSKqqvaXw9Sca47OKwaVN4UVsoJCbe/tB+TMdABN/nXOOpLZjEOFzg5nW63g8gRfi5neeroQ2JdJ5TM2HPs2Bq8KWoQGTSoRDrzSNqPm06wrQIla1kEqqMEZWpkf8VMmNfViOuu1iFVdOcrNgcTs4vrAzqG+uNko9EIVyTFMKhsrcbE3Z3Xwipp7VjXe6ebHwGwvwfShRw8Cd+7ohG289Ohp88ZVOzY2JdfMhKtqd714soCFaTZRo5Y0Deapjt+B9nW7KSQ=;TGaBt9gpXei4+DlXZyj9Pw=="
+secured: "gBUzlvCaDfKcrbMYE3EOJXm8/mamJvfPlLXN2WQjF1hghMTBYQyjTqg33h0/h8+FBwaBAF8cR8+Zd17DcqgpCDu4rw9vxCAH/HSL5b09h5g4W4NuUM2EBsBdtghYT5gPe4xdqktUAvqGbZgO3cSHY5NKpC8DgUQt28uBFguSpP2H/cPgSCkDlqB1usYUJFHebRRFi4mEWiZ1KoIE9I3oQe3gLKlV/Uert7gQJhBt6C1RLWJ4M1MwnfHGmuxkcfuEIhlxLXaW5kz+stWSGLPxULK2A9ZQAAKK/E2ob9lwCZSf0wApXDTcJ47KlTL/3L5iVmp0p9MhpBU0dnL/Q4FszWiSf1jqMKq5LeDXxhZ7MKN+N7v1oIUmmxm/M+EOz/MFsN6bfjZGW9o3EPP3WaXTUmi4NfQKPZsKqsJb9chv58YHPNMD+w5JPs5pKuv4mQwWHEzC8kYRfK8t260MR0+rjQUG8WYgEZR5/Zj472hAnx9FAx1h2UOVDSWgdWhAjBysdglBNUgWKLIs0/5PAx7bUQ==;3N7HO/oSF4mg7WMbz4NJFw=="
 ---
 

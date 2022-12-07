@@ -28,22 +28,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Vision Screeners Market Size [2023-2028] | Industry Share, Growth Factor, Revenue And Trends Outlook Report"
-    excerpt: "By Types (Vision Screening TestTesting, Color Vision Testing, Binocular Testing, Others), By Segmentation analysis, Regions and Forecast to 2028. The Global Vision Screeners market Report provides In-depth analysis on the market status of the Vision Screeners Top manufacturers with best facts and figures,"
-    publishedDateTime: 2022-12-06T00:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/vision-screeners-market-size-2023-2028-industry-share-growth-factor-revenue-and-trends-outlook-report-2022-12-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "fkgpTtY5VymqWTCdwTzrcRk+02VJQz5SSdflR+JH5Xt8/A50OAduKOQJymhQ4TG9B9TOoIjaaxnuSzwtMj6D2mPA/bgVNnMSFVamqjE86LnztHHhzZX8YdcHk5RBqb5tcMuJxS91IUnAlE8ZjMYAxDg8wzWbNVLAw8CRc25U4UYnAc5ckgwnHd7g5v1jr266eL5Oi87FRCXRYG4E0ZPDWAHjgZQtpP50lZAw641eNm64VpOzQq7a+07oAMjLqCcwNh2v6iJ16mzCwmv8PCh3H0m6SRZbPc2E4VMgxDxzEj4dID6Qn4XGorQFd0eunHcdHIVVT9uai5J9wEFABUeuDl0j6dF/cCpdXA0J13VsfHk=;BcONska8oLkkQddxSarLcQ=="
 ---
 

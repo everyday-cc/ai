@@ -7,8 +7,8 @@ originalUrl: "https://gizmodo.com/airports-holiday-travel-tsa-facial-recognition
 webUrl: "https://gizmodo.com/airports-holiday-travel-tsa-facial-recognition-1849855925"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Gizmodo
@@ -27,17 +27,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "TSA wants to scan your face at security. Here are your rights."
-    excerpt: "Next time you're at airport security, get ready to look straight into a camera. The TSA wants to analyze your face."
-    publishedDateTime: 2022-12-02T19:12:00Z
-    webUrl: "https://www.bendbulletin.com/business/tsa-wants-to-scan-your-face-at-security-here-are-your-rights/article_b1af9642-727d-11ed-b686-efe9b266e9a0.html"
-    type: article
-    provider:
-      name: The Bulletin
-      domain: bendbulletin.com
-    quality: 21
 
 secured: "dztKLLcPQZyHh68TNqwGOymEQC+3Eyp7kMez6pD92LZ6g9EptJYf504q66S0hRWCSpP+jx7YlmS4xbPO8OQLmYYg0X4xFL3p3sRsF6V2QFbfoFYl4b7cJYfCHhIRLX773FPL8gZ7SOQOiWIwAn53bFm/fhib1OHEc08J99PTB2VPcHqoLB1tc8Rpi4Ze8bVrLkTlYG98Ujd42ZlXSfYq5HsF8eR2P3saLqkeD870jd9DUAx4bfRSk6kmZj6Qj9ICSIzepx2sol7ZCrFtYsPQvuYe0ceUAz/r1fPwSL5j3BHPQV10mibfh2EyWQx63nxYYRH3aRo6us7C1lqqthm1KdV9h3ElzzFqGRl7Yk0D67FGdihqo23QNcOjtpRbBkJIUOJFsr6Z8ms/Ml7w1olrJYfm/bt65qnvFy20PF4bgTlL3N3oVr07G7SMr38AQtSl1ooFy5zXlMQYqHIy7qvT6ESHn42HksqB2N40RWOIOXSwUoD5G/DSQq3ljR8hyFjA88Pe77mbbgtiVFbKkbm/eA==;SVLdXhlutzpdWtDGHNmXWQ=="
 ---

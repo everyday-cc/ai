@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/invent-analytics-r
 webUrl: "https://markets.businessinsider.com/news/stocks/invent-analytics-raises-7-5-million-to-further-accelerate-growth-of-its-ai-driven-retail-planning-solutions-1031955412"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -22,38 +22,50 @@ topics:
   - AI
 
 related:
-  - title: "Five9 Elevates Omni-Channel Customer Engagement with Innovations in Digital Self-Service, AI Design, and Analytics"
-    excerpt: "Customers have high expectations when they contact their favorite brands, regardless of whether they employ self-service, digital or voice,” explains Dan Miller, Lead Analyst at Opus Research. “Too often,"
-    publishedDateTime: 2022-12-06T13:01:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/five9-elevates-omni-channel-customer-engagement-with-innovations-in-digital-self-service-ai-design-and/article_9ef2e3c5-c047-566c-a629-56d939593a22.html"
+  - title: "How Creative Artists Agency (CAA) Is Employing Data, Analytics, And AI To Shape The Culture Of Our Times And Inspire The World"
+    excerpt: "Data, analytics, and AI might seem unnatural in this setting. This assumption couldn’t be further from the truth. André Vargas, an eleven-year veteran of CAA, currently serves as its Chief Data Officer, a role he has held for over three years."
+    publishedDateTime: 2022-12-07T11:55:00Z
+    webUrl: "https://www.forbes.com/sites/randybean/2022/12/07/how-creative-artists-agency-caa-is-employing-data-analytics-and-ai-to-shape-the-culture-of-our-times-and-inspire-the-world/"
+    ampWebUrl: "https://www.forbes.com/sites/randybean/2022/12/07/how-creative-artists-agency-caa-is-employing-data-analytics-and-ai-to-shape-the-culture-of-our-times-and-inspire-the-world/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/randybean/2022/12/07/how-creative-artists-agency-caa-is-employing-data-analytics-and-ai-to-shape-the-culture-of-our-times-and-inspire-the-world/amp/"
     type: article
     provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
+      name: Forbes
+      domain: forbes.com
+    quality: 59
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63908cf88019c0488e2539e4/0x0.jpg?format=jpg&width=1200"
+        width: 878
+        height: 860
+        isCached: true
+  - title: "dotData Feature Factory Technology Adds Feature Discovery Capabilities to Azure Synapse Analytics"
+    excerpt: "SAN MATEO, Calif., December 6, 2022 – dotData announced that its Feature Factory technology is now integrated with and available on Microsoft’s Azure Synapse Analytics, an integrated, cloud-native platform for data analytics."
+    publishedDateTime: 2022-12-06T15:00:00Z
+    webUrl: "https://insidehpc.com/2022/12/dotdata-feature-factory-technology-adds-feature-discovery-capabilities-to-azure-synapse-analytics/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 26
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2022/08/generic-machine-learning-AI-deep-learning-data-shutterstock-583242211.jpg"
+        width: 690
+        height: 460
+        isCached: true
+  - title: "Five9 Elevates Omni-Channel Customer Engagement with Innovations in Digital Self-Service, AI Design, and Analytics"
+    excerpt: "(NASDAQ: FIVN), a leading provider of the intelligent cloud contact center, today announced new capabilities that help businesses deliver more engaging and unified customer journeys across digital and voice channels and between virtual and live agents."
+    publishedDateTime: 2022-12-06T13:01:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/five9-elevates-omni-channel-customer-engagement-with-innovations-in-digital-self-service-ai-design-and/article_083c6744-4594-55d2-addd-604b33bac43f.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
     quality: 17
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
-        width: 600
-        height: 315
+      - url: "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg"
+        width: 350
+        height: 455
         isCached: true
-  - title: "Philadelphia AI retail startup founded by Penn Ph.D. raises $7.5M Series A"
-    excerpt: "The company uses data to help retailers forecast, set prices and manage their supply chain with the goals of optimizing profit."
-    publishedDateTime: 2022-12-06T18:41:00Z
-    webUrl: "https://www.bizjournals.com/philadelphia/inno/stories/fundings/2022/12/06/invent-analytics-series-a-university-of-pa.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 15
-  - title: "Gemini Sports Analytics Uses Machine Learning to Help Sports Teams Make Decisions on Athlete Acquisition, Development, Management"
-    excerpt: "Gemini Sports Analytics is a sports-specific, end-to-end automated machine learning tool to help teams develop players."
-    publishedDateTime: 2022-12-02T19:22:00Z
-    webUrl: "https://www.sporttechie.com/gemini-sports-machine-learning-athlete-data-predictive-analytics"
-    type: article
-    provider:
-      name: SportTechie
-      domain: sporttechie.com
-    quality: 0
 
 secured: "1B17j6t5U3vXj7Riv039zcJyRlYyr8hlF/vhJFaBO+MamVE35kyThJU/UTZMz3nwirJuNa0jC33oa/NXx/8YxYbHGYMrpJK+Bww4bD0LepYFNzUabFFcAXjXeqh9mNhNq50Tu0HNHwmPoOfnzoCgfqXUNaSbUJEHtgvVzmnZm+dx9K6BKstBoG97jER5QmOVa9gpoFrO5BbRA3rv91qrMAMxCeTtrwkEzRg9EU8xOje+k7gOSaHmvkSg6THhxOKVTnPblW9fntV6JU4tnTNgqpLCUz+n71t2tLxZhodCp6XCk3xbRZGSG0XrxP8XuvWwYLx82hO6OAzX67vo8iwp8hCQXniH8sBoddaQw1zuwqesx8NZoh5wirvD/FjKmZZuh4nkS3G2FUUP5BFISFVFkQJoTwvLlYkqyVyCGLpV5caRzCZMVSX9UbGK38RiYqNj3tCtQ+MTXAe9mKn8tHcBRpKQl+i0y8yFB9Zzt4nMSS61YJvvDpAsT996C/6U3DSou/jYkL/Yph9GrzNL2rn8tQ==;xT31nYq5yVDtMq6pluIbOg=="
 ---

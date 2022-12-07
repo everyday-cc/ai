@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia showcases groundbreaking generative AI research at NeurIPS 2022"
-    excerpt: "Nvidia continues to push boundaries of generative AI in machine learning, self-driving cars, robotics, graphics, simulation and more."
-    publishedDateTime: 2022-12-02T19:36:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-showcases-groundbreaking-generative-ai-research-at-neurips-2022/"
-    ampWebUrl: "https://venturebeat.com/ai/nvidia-showcases-groundbreaking-generative-ai-research-at-neurips-2022/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-showcases-groundbreaking-generative-ai-research-at-neurips-2022/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/12/image4.jpg?w=1200&strip=all"
-        width: 1200
-        height: 637
-        isCached: true
   - title: "At NeurIPS 2022, generative AI and LLMs are hot topics"
     excerpt: "At the first week of NeurIPS 2022, generative AI and LLMs were hot topics — along with a Geoffrey Hinton keynote in honor of ImageNet."
     publishedDateTime: 2022-12-03T03:20:00Z
@@ -58,15 +42,6 @@ related:
         width: 1200
         height: 520
         isCached: true
-  - title: "Speechmatics supercharges machine learning capabilities with NVIDIA AI"
-    excerpt: "Speechmatics is one of the first companies to upgrade to the NVIDIA DGX™ H100 system featuring eight new H100 Tensor Core graphics processing units (GPUs), which provides a step change in the speed and efficiency of training the next generation of neural networks."
-    publishedDateTime: 2022-12-06T10:34:00Z
-    webUrl: "https://www.cambridgenetwork.co.uk/news/speechmatics-supercharges-machine-learning-capabilities-nvidia-ai"
-    type: article
-    provider:
-      name: Cambridge Network
-      domain: cambridgenetwork.co.uk
-    quality: 36
 
 secured: "XONp2ecuhbBrqc81VdnfBIQraPBh+3M3FTK4Mj8Xf/kLG/pAOpdiVG9drT53+MYOqyKx/2dkeuaNMNDF1t/sECSuRnX2dr37J6pR9NOd8irysqL+dNtjyPPeUR9eXHH0mncqYeRHbu/DnTUV5phm5bxml/0nnQ4FwThq3zcwTo0allgS3weJrY+2Jd4PhQOqXj7muWuT+QTjYDArrNUrCK+bUWA+5MLdnStGGN4EBTBJowE9oC1i/r0JTZzEy/M3kWPv77dMPsyHY6NOhpq1Ygs72m7Rk6SMvfsedZhrrdRmDVWw+YzSOLl6nWljDqUh9am1k+gp3qxj2aUIyNqxU5ThBkkGYN7+INqso5pi3NthyT1vNFAcg5tF9tgOwQw31rSho+7hjwa38i93KcUFm/uYQaWU1dl1rdp+CI0p5vIF1lzXuWCzubncKC5bahQB9KogDrNZif6yMklRVIxbwIacHAqqlNfoETVJaKPYbE6DXKU0uMNDYqXmGgU4vCr/8iQVkoAhSswtak/KpKQVCw==;ViCmwYgLZUhkbNSWYwXQkQ=="
 ---
