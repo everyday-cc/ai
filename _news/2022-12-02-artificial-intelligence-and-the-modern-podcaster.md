@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/135433-OTT-Quality-Control-1200-ORG.jpg"

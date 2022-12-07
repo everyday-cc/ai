@@ -73,22 +73,6 @@ related:
         width: 1024
         height: 765
         isCached: true
-  - title: "AI algorithm learns how to beat expert players at complex board game Stratego"
-    excerpt: "DeepMind, a Google research company, has developed a system able to strategize against humans in a game infinitely more complex than chess or poker, opening new paths for science"
-    publishedDateTime: 2022-12-02T12:04:00Z
-    webUrl: "https://english.elpais.com/science-tech/2022-12-02/ai-algorithm-learns-how-to-beat-expert-players-at-complex-board-game-stratego.html"
-    ampWebUrl: "https://english.elpais.com/science-tech/2022-12-02/ai-algorithm-learns-how-to-beat-expert-players-at-complex-board-game-stratego.html?outputType=amp"
-    cdnAmpWebUrl: "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/science-tech/2022-12-02/ai-algorithm-learns-how-to-beat-expert-players-at-complex-board-game-stratego.html?outputType=amp"
-    type: article
-    provider:
-      name: El País in English
-      domain: elpais.com
-    quality: 56
-    images:
-      - url: "https://images.english.elpais.com/resizer/eoxW6eyTSNvuIb4bTh7HhP_sUWY=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/VUT44RSUTBA75NO2XJZPH64YFQ.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "DeepMind debuts new AI system capable of playing ‘Stratego’"
     excerpt: "Alphabet Inc.’s DeepMind unit has developed a new artificial intelligence system capable of playing “Stratego,” a board game considered more complex than chess and Go. DeepMind detailed the AI system,"
     publishedDateTime: 2022-12-02T21:09:00Z

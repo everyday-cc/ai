@@ -7,7 +7,7 @@ originalUrl: "https://www.cloudcomputing-news.net/news/2022/dec/06/snowflake-bec
 webUrl: "https://www.cloudcomputing-news.net/news/2022/dec/06/snowflake-becomes-available-in-uk-on-microsoft-azure/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -27,8 +27,8 @@ images:
 related:
   - title: "Nexus FrontierTech launches first-of-its-kind plug-and-play AI modules on Microsoft Azure"
     excerpt: "Artificial Intelligence (AI) solution provider Nexus FrontierTech has announced its partnership with Microsoft Azure, allowing clients to utilise the Azure marketplace for quick deployment of AI solutions within their organisations."
-    publishedDateTime: 2022-12-05T12:54:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/12/05/9724024.htm"
+    publishedDateTime: 2022-12-05T14:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-nexus-frontiertech-launches-first-of-its-kind-plug-/2022/12/05/9724024.htm"
     type: article
     provider:
       name: TMCnet
@@ -61,6 +61,20 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1373383119/image_1373383119.jpg?io=getty-c-w750"
         width: 750
         height: 500
+        isCached: true
+  - title: "Microsoft Announces Future Ready Champions Of Code Program To Empower India's Developer Community"
+    excerpt: "Microsoft today announced the launch of Future Ready Champions of Code, a pan India program for developers, focused o"
+    publishedDateTime: 2022-12-07T03:39:00Z
+    webUrl: "https://menafn.com/1105276380/Microsoft-Announces-Future-Ready-Champions-Of-Code-Program-To-Empower-Indias-Developer-Community"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 26
+    images:
+      - url: "https://menafn.com/updates/pr/2022-12/06/F_b9964image_story.jpg"
+        width: 600
+        height: 313
         isCached: true
 
 secured: "dGHUzuzqwhZPtuRHY/H7OENxQuEBGRyQYnMOOROFyt4XLgTp8xeoLVRH/+SeecqJ1TcdmjvUzJiuxN0moH/eGFIs3YzG9IOYdvZOZrb/KHWbLyFz5FJwHr3ECcxHQQoi49PaTiH+9Wq2a1SUWo9x3r/9QDTUIgLF+2ENV8i4yGgIiTdgcpgZWu4J2/VStqQrzR6//PA9Wgp7JxRyJ/vdQRRqrjRqgwrWfUoQe9bVN2HW8BOK1nihZPOn6eM0xlwd45S7Flzy3X2HouIspcmgnCGrExCgKL8ckdKUC5c95kSc8x7wO0uDyq7+nGavvBWCAG+tVRGdVfwv4/UfY51VpyBj6dmJkPKzSYjjpk9kPL7+G9jgRLeVSJIZR06y7/UGy0cBrE89u89Ag/tUY7mIWCG1AmZDrE4CGmW799TLIhZSJPzPcswiHJd5fp9n5GFfftn4dxN4rHDb1fW/XAyT1RNJ3g+V5REIcJHDVq1Zc3W05MEnjhewgneKUVUhV6eO9TSbiHxjN0XPVKoEQL4Hng==;oFg4LmAPz3JNr8lMMHefQA=="

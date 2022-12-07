@@ -45,8 +45,8 @@ related:
         isCached: true
   - title: "Nexus FrontierTech launches first-of-its-kind plug-and-play AI modules on Microsoft Azure"
     excerpt: "Artificial Intelligence (AI) solution provider Nexus FrontierTech has announced its partnership with Microsoft Azure, allowing clients to utilise the Azure marketplace for quick deployment of AI solutions within their organisations."
-    publishedDateTime: 2022-12-05T12:54:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/12/05/9724024.htm"
+    publishedDateTime: 2022-12-05T14:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-nexus-frontiertech-launches-first-of-its-kind-plug-/2022/12/05/9724024.htm"
     type: article
     provider:
       name: TMCnet
@@ -65,6 +65,20 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1373383119/image_1373383119.jpg?io=getty-c-w750"
         width: 750
         height: 500
+        isCached: true
+  - title: "Microsoft Announces Future Ready Champions Of Code Program To Empower India's Developer Community"
+    excerpt: "Microsoft today announced the launch of Future Ready Champions of Code, a pan India program for developers, focused o"
+    publishedDateTime: 2022-12-07T03:39:00Z
+    webUrl: "https://menafn.com/1105276380/Microsoft-Announces-Future-Ready-Champions-Of-Code-Program-To-Empower-Indias-Developer-Community"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 26
+    images:
+      - url: "https://menafn.com/updates/pr/2022-12/06/F_b9964image_story.jpg"
+        width: 600
+        height: 313
         isCached: true
 
 secured: "3M9tnk4ScSUzEXrQ/Swxe2cQTVBYEgunBHK54Pbzc9xWHJNR7aBv136zUQDt8VVGcxplrXg71iuEH6OfPmMqGtmTJQwRHwL4bRdrffQn2CKa/iIVWu/R5eXk/fxCKJ+0zpkNmpJNrTRkvOSwxuEyhkIcW8RNYCjFP/nUIBCRJCXHfWIHD/32IFZfFsZmueJaN94kPPo5KxElNAR6yXmfv7jSEKczajBje/0Cqv/KjFPvyRaIrZSsK8W132PMq/cYB6zwfxDF49ncvWePwiZT3SEYP5RS4zbcNoBQNg6O+z83HrcsOmD6FrOq+z1Rvt7mHmeA93urFt+Oi+zb3zSwCReq2T1nHDND3Ale1VP3vYj7FALHhUUUH9MCLXHnQwb6QymvhwQZpY49xtRL9/R3q/xX2yvBPcNkQ/vBoYFlpnbXGHs577J9l6yxFbeiiPBXtowzOLH3eJNCdWNheTsaaz0umspXzy4TECnBl+N+yBOvsrsqt3ng0+CN5iAIzCHcd4+0+WIWRXfuihhq5HEDrw==;KnrlTiy/FORvTCHwsw0xJw=="

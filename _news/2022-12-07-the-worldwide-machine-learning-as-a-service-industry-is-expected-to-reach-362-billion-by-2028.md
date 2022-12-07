@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/22/12/n29983615/the-worldwide-ma
 ampWebUrl: "https://www.benzinga.com/amp/content/29983615"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29983615"
 type: article
-quality: 47
-heat: 47
+quality: 51
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,8 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
+  - Microsoft AI
 
 images:
   - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"

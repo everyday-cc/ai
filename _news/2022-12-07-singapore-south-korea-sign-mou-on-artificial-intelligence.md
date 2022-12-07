@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Singapore, South Korea sign MOU on artificial intelligence"
-excerpt: "Both set to collaborate closely on AI and promote responsible use of emerging technology. Read more at straitstimes.com."
-publishedDateTime: 2022-12-06T16:17:00Z
-originalUrl: "https://www.straitstimes.com/asia/east-asia/singapore-south-korea-sign-mou-on-artificial-intelligence"
-webUrl: "https://www.straitstimes.com/asia/east-asia/singapore-south-korea-sign-mou-on-artificial-intelligence"
+title: "Singapore, South Korea sign MoU on artificial intelligence"
+excerpt: "Singapore and South Korea are set to collaborate closely on artificial intelligence (AI) and promote the responsible use of the emerging technology, in a move that will deepen the two countries’ digital partnership."
+publishedDateTime: 2022-12-07T04:52:00Z
+originalUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2022/12/07/singapore-south-korea-sign-mou-on-artificial-intelligence"
+webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2022/12/07/singapore-south-korea-sign-mou-on-artificial-intelligence"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: The Straits Times
-  domain: straitstimes.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI
 
 images:
-  - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/12/07/joteo1_2.jpg?VersionId=nm9F4eBPyT58hZ9NkARZJgs6i0O5a.aj"
-    width: 860
-    height: 573
+  - url: "https://apicms.thestar.com.my/uploads/images/2022/12/07/1852242.png"
+    width: 1060
+    height: 684
     isCached: true
 
-secured: "Trv7FcqGrffLpd1/U3krzxAk0fabq+ElMRnoz2rFmSRD5I6POeHZngLhdfANtpj7ocwzs0qW+LdO+5w2fX//jo2v2JIrYCxos8b9se6pIOsMIc86//yrxTvY0PffU9DS4XPWYB3lJZOt/Kiko6dZAY3ezKMvorHuw14nuCkA/fsSkNl55LGaBhuujMIXo9LF7XJBomwUXGTGDk801go89pJf7AoFRxoWnzkqBLmYx1jh6THYqlNUHSyZ42Li7qSuetMnlh4W+mAWIgp1B5VrreU9Pm0LHkRnzPB7q89PhvhUIhVpvsOHiFjNV8dqlHDHIk9jM3kmElmjaOPGrdu6MZtWeEaBX/xAujhqg142U6MdfddfbksG3ACJxCb7pVlPiVJ2YN9nBq+V2+VNeB0nGo/WWrevaYB6LzP8XU7ClNWowV5koHj1H1zmmbZKAJdNQQiKipoRiDO6aYzJ1QKs/TStT9hS5Ue2bFQkXS5pwo3R53kimmOez6rzc40XDLLSf7YGK6BOgLbz38+fTcQ6ww==;5UgHCppuWF9c1ROL10EXZw=="
+secured: "gQUtH2TkyeEudt5Xc1PQvR6YB+mJnT8/hOMTlp8w92EazrfDDusGlEcAToseO/FUUhknLbNIsRsMmOa++Secv+Nc5GiJHGCwFHJp1ZnsC3Ctx7H9PndgW77faZmScnjxKXnqmV2iw6gmyg0cER25r1RGJjUtm3WZwyfLO8/I/icszohARCxAPIdKMCNfHnQ3YCuh65EjUF2yQUws6S9a/RJAYsfyP23h1yJDY5Q5/BQEqhZIyyHfLMA4NTyP1CURgWMeHoDPkEPefCBsDGfMvv60GnmT93Kk6fGuhpXRyHGjYL0BJJOV4IfltoEHPCV3qVDYQp5XV/paXBgaCFuiNUQSBgF/LJ9eRZGyRHx9H4k=;6M6ouJVBH1cV2n7JnCjfAw=="
 ---
 

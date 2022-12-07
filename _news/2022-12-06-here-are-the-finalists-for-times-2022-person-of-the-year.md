@@ -1,31 +1,31 @@
 ---
 category: news
 title: "Here are the finalists for Time's 2022 Person of the Year"
-excerpt: "Ten candidates have made the shortlist to become Time Magazine's 2022 Person of the Year. The title will be revealed on Wednesday."
-publishedDateTime: 2022-12-05T17:03:00Z
-originalUrl: "https://www.fox9.com/news/finalists-times-2022-person-of-the-year"
-webUrl: "https://www.fox9.com/news/finalists-times-2022-person-of-the-year"
-ampWebUrl: "https://www.fox9.com/news/finalists-times-2022-person-of-the-year.amp"
-cdnAmpWebUrl: "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/finalists-times-2022-person-of-the-year.amp"
+excerpt: "Ten candidates have made the shortlist to become Time Magainze's 2022 Person of the Year. The title will be revealed on Wednesday."
+publishedDateTime: 2022-12-05T16:52:00Z
+originalUrl: "https://www.fox35orlando.com/news/finalists-times-2022-person-of-the-year"
+webUrl: "https://www.fox35orlando.com/news/finalists-times-2022-person-of-the-year"
+ampWebUrl: "https://www.fox35orlando.com/news/finalists-times-2022-person-of-the-year.amp"
+cdnAmpWebUrl: "https://www-fox35orlando-com.cdn.ampproject.org/c/s/www.fox35orlando.com/news/finalists-times-2022-person-of-the-year.amp"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: Fox 9
-  domain: fox9.com
+  name: WOFL
+  domain: fox35orlando.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2022/12/932/470/GettyImages-1442675934.jpg?ve=1&tl=1"
+  - url: "https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2022/12/932/470/GettyImages-1442675934.jpg?ve=1&tl=1"
     width: 932
     height: 470
     isCached: true
 
-secured: "fEEiM7FJc8Q3+KxQ8g8trI+M/mwStBuKLwcq31rTsfgw+V188LK/wuqsfiARW9Yy3dnvpD/UPoJtEwodOdkKi+4Ca451z4q+itMjR73bYEY0isSWDUUSv6T7CR8TOvxxoFe7tUfyOl7ItuxO3CaB2ieNCMHMd5cRAZ8MKXwWSmPpD5w7PzwE2XCM/J+oSOfucQCCSk/2J0QnJM7TQ0W9O5BbNrgfCbuPDJT5Gy+PtWtmDCc0o9XUJumrsXBcbK5K2e/ul0G8nQevmLDaZYu0Jn34zRowEPGHlTU8uBWSURuSuDnjTwTFsTZEaTi1RE5d9EAnMe80G5IQua5TfBRy9+2K4pfZy/syUDgNK4c/+CE=;mxbMi/jOjbgF9/0fBtPsug=="
+secured: "gaEWsiTJr3KwtQrIaJ39A8AtF9FT5xsXChopGB14oDAKS5oH8Ql6m8h9z+/zJvsTKXKaaxMKkBqeao18JfUk+kuJIX+yR2u1EjOm+8Zv6MELmnnvgccw307B2rN3olnhQ8QH+T2tIKGGlh4v86lOrZl7djx3LtCJgMAoZA5Sn44smBWemMOyC2iHYoyBZGz/rxuKGKG3rqwP0QWqn+1KB3XH0YeSbVrXFjdhUG29+PrqtvUEE/AyOkTFI+2aMiq/jZUZCGTizqAakPZH+RAauICrjIQXVQvHmWaEY5e8sPtdKJ4csNXJiBCRjVzUkOa8vWexd1m4P2hCR7xxJGz86fsZdq2kbldlq2/lWyJzdY0=;f0dycWPT9jqIwpFxOcpGtA=="
 ---
 

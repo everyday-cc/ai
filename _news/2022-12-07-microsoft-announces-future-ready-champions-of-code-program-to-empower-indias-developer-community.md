@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Nexus FrontierTech launches first-of-its-kind plug-and-play AI modules on Microsoft Azure"
-excerpt: "Artificial Intelligence (AI) solution provider Nexus FrontierTech has announced its partnership with Microsoft Azure, allowing clients to utilise the Azure marketplace for quick deployment of AI solutions within their organisations."
-publishedDateTime: 2022-12-05T14:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-nexus-frontiertech-launches-first-of-its-kind-plug-/2022/12/05/9724024.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-nexus-frontiertech-launches-first-of-its-kind-plug-/2022/12/05/9724024.htm"
+title: "Microsoft Announces Future Ready Champions Of Code Program To Empower India's Developer Community"
+excerpt: "Microsoft today announced the launch of Future Ready Champions of Code, a pan India program for developers, focused o"
+publishedDateTime: 2022-12-07T03:39:00Z
+originalUrl: "https://menafn.com/1105276380/Microsoft-Announces-Future-Ready-Champions-Of-Code-Program-To-Empower-Indias-Developer-Community"
+webUrl: "https://menafn.com/1105276380/Microsoft-Announces-Future-Ready-Champions-Of-Code-Program-To-Empower-Indias-Developer-Community"
 type: article
-quality: 40
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://menafn.com/updates/pr/2022-12/06/F_b9964image_story.jpg"
+    width: 600
+    height: 313
+    isCached: true
 
 related:
   - title: "Snowflake becomes available in UK on Microsoft Azure"
@@ -33,6 +39,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Nexus FrontierTech launches first-of-its-kind plug-and-play AI modules on Microsoft Azure"
+    excerpt: "Artificial Intelligence (AI) solution provider Nexus FrontierTech has announced its partnership with Microsoft Azure, allowing clients to utilise the Azure marketplace for quick deployment of AI solutions within their organisations."
+    publishedDateTime: 2022-12-05T14:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-nexus-frontiertech-launches-first-of-its-kind-plug-/2022/12/05/9724024.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 40
   - title: "Microsoft Quantum Innovator Series: The path to quantum at scale"
     excerpt: "Get the inside, first-hand account of Microsoft’s strategy to scaled quantum computing in a new webinar series where you’ll hear directly from Microsoft Azure Quantum scientists and leaders about the path to quantum at scale and how to get involved today."
     publishedDateTime: 2022-12-05T17:00:00Z
@@ -61,21 +76,7 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Microsoft Announces Future Ready Champions Of Code Program To Empower India's Developer Community"
-    excerpt: "Microsoft today announced the launch of Future Ready Champions of Code, a pan India program for developers, focused o"
-    publishedDateTime: 2022-12-07T03:39:00Z
-    webUrl: "https://menafn.com/1105276380/Microsoft-Announces-Future-Ready-Champions-Of-Code-Program-To-Empower-Indias-Developer-Community"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 26
-    images:
-      - url: "https://menafn.com/updates/pr/2022-12/06/F_b9964image_story.jpg"
-        width: 600
-        height: 313
-        isCached: true
 
-secured: "9egNOcJqw7ItfFJba1T7MtEfKFx/dqVruNGG9Bg6D+g3OdwPXKEyaWbatKmyZF9kpV0jldbsVLrnprsXiFz+b8VH9LD9m4YoApkQ46XmYXF5RoW+wEWdP6/KDQ4EIgpPC71bxHJspIbTZHKwt8doCgGauxYF5nDnsa3Z3CHiemmRqAZ9nRJnNhF7bEJgTrzlMa+JCmi0bn5PSKk1w9yalIA0hwFcw5JtTxT4p5lAe82Z7ZVnEzdXRtJN4cQXJ/CIpudszAvfHfJd7XZifR5q43OJzVvCh6CPU7i1r9VZh5GcohQnsEF1/HDaugOkDAeymfN9WHIc5sYXhOvFw5i8ORo+hYDisQ6DPPh77Ji9JOI=;k2krX+4+scDxThi+YnxnwA=="
+secured: "SJa0ZEgYg+Ih9Ia2KtwMhk9hIcvEuoYeP38c31ucObdRIi24iLMXB9dm3IanITVbHCdHzRBxSw+RPWawJzjkrds1pFS5BNXD6EnUhMaw7VB908ld0GTUcM/WP5j6nbFn8kL4pzNKLrsroyZABEhsxflcw7fT+yeI+6IY7dyPxY17LHjF9PbhsJvkyM1Trq60dZKwfvclVDCCpCa6Sww8QoGUFY0Hqp49cjJZFkB3rXrjWTJ3xx+SjJE6gEnht9BkFfcZaeJMuHlZC8UfWZZvxqJWkp+qpkYtTUP0Ub1XTuPgnjdscL3k+a4fuJjaNxezUK0GCUwnmssBGRzK4prvXqtGZZX1QESYeHYFkaREZsc=;7subBv9Vi5NYy6csWexzsw=="
 ---
 
