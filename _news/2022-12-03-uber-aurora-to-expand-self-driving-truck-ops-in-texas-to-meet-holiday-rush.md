@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/uber-aurora-expand-self-driving
 webUrl: "https://www.reuters.com/technology/uber-aurora-expand-self-driving-truck-ops-texas-meet-holiday-rush-2022-12-02/"
 type: article
 quality: 52
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -38,15 +38,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 28
-  - title: "Uber Freight, Aurora Expand Texas Self-Driving Pilot with Veritiv"
-    excerpt: "The pilot provides critical first-hand learnings around autonomous truck deployment — creating a blueprint for how the Aurora Driver will be integrated and safely deployed and scaled across the Uber Freight network."
-    publishedDateTime: 2022-12-02T14:11:00Z
-    webUrl: "https://www.supplychainbrain.com/articles/36206-uber-freight-aurora-expand-texas-self-driving-pilot-with-veritiv"
-    type: article
-    provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 4
   - title: "Aurora and Uber Freight Expand Self-Driving Truck Runs Out of DFW"
     excerpt: "Aurora and Uber Freight's new self-driving trucking \"lane\" between Fort Worth and El Paso expands Aurora's operations in Texas. The company also hauls freight between Dallas and Houston—and is now hauling goods autonomously (with human vehicle operators in the cab) for FedEx,"
     publishedDateTime: 2022-12-02T20:01:00Z

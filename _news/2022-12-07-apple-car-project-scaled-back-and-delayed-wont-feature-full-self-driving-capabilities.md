@@ -35,6 +35,20 @@ related:
         width: 320
         height: 214
         isCached: true
+  - title: "Apple scales back its self driving plans, postponing the launch date to 2026"
+    excerpt: "The changes come after reports of Apple being in talks with automakers and other manufacturers for over a year."
+    publishedDateTime: 2022-12-07T06:02:00Z
+    webUrl: "https://techstory.in/apple-scales-back-its-self-driving-plans-postponing-the-launch-date-to-2026/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 36
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/12/2022-12-06T153737Z_1_VA7_RTRLXPP_2_LYNXPACKAGER.jpeg"
+        width: 720
+        height: 400
+        isCached: true
   - title: "Apple Reportedly Taps the Brakes on Its Self-Driving Car"
     excerpt: "Along with the delayed release, the car will reportedly now only have full autonomous capabilities while on the highway. Consequently, the initial design -- void of a steering wheel and pedals -- will have to be modified to accommodate manual driving."
     publishedDateTime: 2022-12-06T20:20:00Z

@@ -1,25 +1,28 @@
 ---
 category: news
-title: "Facebook Says It Has Created A 'Human-Level' Board Game AI"
-excerpt: "If you’ve never played Diplomacy, and so are maybe wondering what the big deal is, it’s a board game first released in the 1950s that is played mostly by people just sitting around a table (or breaking off into rooms) and negotiating stuff."
-publishedDateTime: 2022-11-23T03:29:00Z
-originalUrl: "https://kotaku.com/facebook-meta-ai-artificial-intelligence-board-game-win-1849815368"
-webUrl: "https://kotaku.com/facebook-meta-ai-artificial-intelligence-board-game-win-1849815368"
-ampWebUrl: "https://kotaku.com/facebook-meta-ai-artificial-intelligence-board-game-win-1849815368/amp"
-cdnAmpWebUrl: "https://kotaku-com.cdn.ampproject.org/c/s/kotaku.com/facebook-meta-ai-artificial-intelligence-board-game-win-1849815368/amp"
+title: "Facebook Says It Has Created A ‘Human-Level’ Board Game AI"
+excerpt: "I may not be a billionaire Facebook executive, but instead of spending all this time and money making AI assistants better, something nobody outside of AI research and company expenditure seems to ..."
+publishedDateTime: 2022-11-23T14:30:00Z
+originalUrl: "https://www.kotaku.com.au/2022/11/facebook-says-it-has-created-a-human-level-board-game-ai/"
+webUrl: "https://www.kotaku.com.au/2022/11/facebook-says-it-has-created-a-human-level-board-game-ai/"
+ampWebUrl: "https://www.kotaku.com.au/2022/11/facebook-says-it-has-created-a-human-level-board-game-ai/amp/"
+cdnAmpWebUrl: "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2022/11/facebook-says-it-has-created-a-human-level-board-game-ai/amp/"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: Kotaku
-  domain: kotaku.com
+  name: Kotaku Australia
+  domain: kotaku.com.au
 
 topics:
-  - AI
   - Facebook AI
+  - AI
 
-secured: "volconi1Bi2/PeFojgRDdz79JkzqtK1L1QxCtfJ7jV6VUneVjb8jqG3cuZJNJ+ikL8V6cpRttZkRbOk9hijIyVu0E6G9t72C3VFrv00h1Tqi+OgvK1bmSaIbNkurnaGHbxqwQI0D+eltZItuaCxOl/M74XqHX925mEVKQNQWXWNL9CARzcHJU2UohUby5aTDW1fhLK8uh36yJIHnD837/6eKyfp4oLUemULTyfA6mQcLkOX4GjEHT0RHt7EhG0OEifaGr20f7eOWBpDigphWNBFde0Xfn1hoogZMQvC3swBWtqbJDyHERfN1Uxgaz0s0Ka3k5dE6LX7KUwyclrbrlAjsTL1ZAlT99ZBFd4cAW6jcwkk7ZzcSDYW/8KFpSjww1CFWEW4DRPpjfhVXx2JvC1G2bSPeoocvkChNK06TMRlgZ4dULJqWAVyLPRMxuSD8y6lk2xL4ybkCxi6fwPFRmyVyTNFlo3nlJZSFp/HvjgR7KmBijhL6IOoEIzUR5dZFbqBKh7oJ1VIWKzVbYle+XQ==;HZwOCiMiay/aZSd/SAV4Ew=="
+images:
+  - url: "https://www.kotaku.com.au/wp-content/uploads/sites/3/2022/11/23/311769ad6a4648265919aec40a430514.jpg?quality=80&resize=1280,720"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "qGH7KcI0Myaq6gj6I1yma3zr4NfUGsAM2rWCUHcmkQQWmdIXWbGLzk1FtXAIcB2+bE6ln+VBEADd5HqecObuQw/2AOv2mtrvr+T8iT2VJh2TXJKnmmCH7CnJBOaiFVsV2zCs17R3Z4gonAXFws1dnMz+G0GpU4waLlNjC95oeKEFC+ywIdNWG7nT8eQzaA+0wn02h9lA8m5FiDiNLl7dnZof9EglANEI33nW2PiMtvHnKEWqrxYxjVV9oSe9QiWHISaZ/Pxpjj37bV5yZFfdizsJIBgnhgEqhet6DO0NPdW/9fdPlznQ4Iquw28p6od1Q87x24cY4jzv8NN0axc4JTqt6x2EFlehuHlMY+a8ows=;n5mTtXJFrHQlexr4M/E9BA=="
 ---
 

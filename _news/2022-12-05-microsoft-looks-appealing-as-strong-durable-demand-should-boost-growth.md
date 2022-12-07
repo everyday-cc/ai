@@ -39,10 +39,21 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Tata Tele Business Services offers Microsoft Azure to Small and Medium Businesses"
+    excerpt: "SMBs are increasingly realigning their business models to respond to dynamic business environments by moving their core operations to the cloud. With TTBS now offering Microsoft Azure, SMBs can look f"
+    publishedDateTime: 2022-12-07T05:47:00Z
+    webUrl: "https://www.business-standard.com/article/news-cm/tata-tele-business-services-offers-microsoft-azure-to-small-and-medium-businesses-122120700385_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/tata-tele-business-services-offers-microsoft-azure-to-small-and-medium-businesses-122120700385_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/tata-tele-business-services-offers-microsoft-azure-to-small-and-medium-businesses-122120700385_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 49
   - title: "Nexus FrontierTech launches first-of-its-kind plug-and-play AI modules on Microsoft Azure"
     excerpt: "Artificial Intelligence (AI) solution provider Nexus FrontierTech has announced its partnership with Microsoft Azure, allowing clients to utilise the Azure marketplace for quick deployment of AI solutions within their organisations."
-    publishedDateTime: 2022-12-05T14:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-nexus-frontiertech-launches-first-of-its-kind-plug-/2022/12/05/9724024.htm"
+    publishedDateTime: 2022-12-05T12:54:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/12/05/9724024.htm"
     type: article
     provider:
       name: TMCnet

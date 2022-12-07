@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Type 2 diabetes: Artificial intelligence model predicts onset within 12 hours"
-    excerpt: "Researchers recently created an artificial intelligence model that predicts diabetes onset with 12 hours of blood glucose data collected from a wearable device. The AI model could help diagnose prediabetes and prevent type 2 diabetes."
-    publishedDateTime: 2022-12-02T14:35:00Z
-    webUrl: "https://www.medicalnewstoday.com/articles/type-2-diabetes-artificial-intelligence-model-predicts-onset-within-12-hours"
-    type: article
-    provider:
-      name: Medical News Today
-      domain: medicalnewstoday.com
-    quality: 38
-    images:
-      - url: "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2022/12/glucose-monitor-diabetes-ai-thumb.jpg"
-        width: 732
-        height: 549
-        isCached: true
   - title: "Artificial intelligence can be helpful in diabetes monitoring, prevention"
     excerpt: "Artificial intelligence can be used to turn a continuous glucose monitor (CGM) into a potent tool for diabetes monitoring."
     publishedDateTime: 2022-12-05T20:16:00Z

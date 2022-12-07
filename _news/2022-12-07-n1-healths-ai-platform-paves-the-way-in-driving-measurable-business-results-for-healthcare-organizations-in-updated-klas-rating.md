@@ -1,27 +1,30 @@
 ---
 category: news
 title: "N1 Health's AI platform paves the way in driving measurable business results for healthcare organizations in updated KLAS rating"
-excerpt: "N1 Health is pleased to announce that its AI platform has been awarded an overall score of 93.1 out of 100 in the Healthcare Artificial Intelligence: Data Science Solutions report published by the leading healthcare research firm,"
-publishedDateTime: 2022-12-06T19:27:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/n1-health-s-ai-platform-paves-the-way-in-driving-measurable-business-results-for-healthcare-organizations-in-updated-klas-rating-1031956311"
-webUrl: "https://markets.businessinsider.com/news/stocks/n1-health-s-ai-platform-paves-the-way-in-driving-measurable-business-results-for-healthcare-organizations-in-updated-klas-rating-1031956311"
+excerpt: "N1 Health is pleased to announce that its AI platform has been awarded an overall score of 93.1 out of 100 in the Healthcare Artificial Intelligence: Data Science Solutions report"
+publishedDateTime: 2022-12-06T18:20:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/12/n29981180/n1-healths-ai-platform-paves-the-way-in-driving-measurable-business-results-for-healthcare-organiz"
+webUrl: "https://www.benzinga.com/pressreleases/22/12/n29981180/n1-healths-ai-platform-paves-the-way-in-driving-measurable-business-results-for-healthcare-organiz"
+ampWebUrl: "https://www.benzinga.com/amp/content/29981180"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29981180"
 type: article
-quality: 37
-heat: 37
+quality: 45
+heat: 45
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - Facebook AI
-  - AI
   - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
+    width: 800
+    height: 313
+    isCached: true
 
 related:
   - title: "How the pandemic is reshaping the healthcare playbook"
@@ -34,6 +37,6 @@ related:
       domain: sciencebusiness.net
     quality: 19
 
-secured: "V7HkQhL6VrCyhbzF+vvQF7W4EXEM9AWGirVQMoKbRpWmnJQ34pppseWPDz+/o/gRj6e6ZBSzMp+OWK+FmAGWjBkJ+Xn1ZNITHlrln3D5X6TBydsj9BHqGyug0n8vXO4nMb21MZ4c2pog83Zl8EoT8kDHpavtgCLFG8OBk9uLYJAhrKGIltjjowMVw4sCVzLSqwCFEXeVQgzHX7s1fzzxhDraRKHFV0kc80wwI7MfVgr6tPApHD/gKM0QQH2Wapd/0ZiukMRvR7u9Xn8digUfdrxwsZ9FQPw6+BfMJ1usLzJOAQwc2yEb6GONU0QP8mTrf50ImroZclHLwSoDAkxHvm45cBWTc9POqAmi5dc/BPc=;kDRlCCkoGcfuGZ7GnjspNg=="
+secured: "V6ftJgLpfVJiT7qdu6C3kfLl7PfjuArtFPalxionr55iJ21OqWm8G24wV1CMqzy2phtw6ufUFPX8UBdjO0Gt7XYXnusShtd7kBsSGQxdyz19ECTGq3SNMFSoYZbO7mHNGvA9kLpzVdnTRUPPmWN10erx1Rm7oy/DCkDwwKjvrBe0FVmh8IoXlm6jDhDagc+0x0KIq8pwslZ/5EQ+eUfCk15373bzpF1uwZX6bstaKkTdhoDjiyURT9m7s27JkcReSz1cI8fdaqP0SgGOF6uBrAxhfnY+AnOurdgYadGbh3h6LZsDSuDWnyp/OxZX77sRjX0D4GCl47CZkhrOxrC2bRhXIXDANp4xeHJc7NfNRlA=;P+9YoybyUK7AvaNyE67o7Q=="
 ---
 

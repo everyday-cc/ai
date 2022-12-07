@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.wsj.net/im-672192/social"

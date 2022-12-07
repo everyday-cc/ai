@@ -6,8 +6,8 @@ publishedDateTime: 2022-12-07T04:52:00Z
 originalUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2022/12/07/singapore-south-korea-sign-mou-on-artificial-intelligence"
 webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2022/12/07/singapore-south-korea-sign-mou-on-artificial-intelligence"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://apicms.thestar.com.my/uploads/images/2022/12/07/1852242.png"
@@ -23,6 +24,6 @@ images:
     height: 684
     isCached: true
 
-secured: "gQUtH2TkyeEudt5Xc1PQvR6YB+mJnT8/hOMTlp8w92EazrfDDusGlEcAToseO/FUUhknLbNIsRsMmOa++Secv+Nc5GiJHGCwFHJp1ZnsC3Ctx7H9PndgW77faZmScnjxKXnqmV2iw6gmyg0cER25r1RGJjUtm3WZwyfLO8/I/icszohARCxAPIdKMCNfHnQ3YCuh65EjUF2yQUws6S9a/RJAYsfyP23h1yJDY5Q5/BQEqhZIyyHfLMA4NTyP1CURgWMeHoDPkEPefCBsDGfMvv60GnmT93Kk6fGuhpXRyHGjYL0BJJOV4IfltoEHPCV3qVDYQp5XV/paXBgaCFuiNUQSBgF/LJ9eRZGyRHx9H4k=;6M6ouJVBH1cV2n7JnCjfAw=="
+secured: "UhDAzqG7DQ+vWi16kB7AGU2RxaYwV+9ge/BdfCax5wuC+tH1/KfeO5RCIhHnVTJ3BOIKbcLuJyYzbKnPUSBCh+/FcfM5IX+QvUDTIJ5snx7zCawx2m81WAc/LTqnrN4nyIUYrlhDKRNy1f5Q7wYZI9dzorMBq/Pv0F7Fpa9wReKsqAPMHS/KcOai7Xujc4Uzak0PnwVwcVv2UsTivsCL87EWDU62pKV6q4DYNjRCJnmSvFdnGelY7SfDJh6eg+iLWKrabNJ1X+GSPHYkI98AoS/A0Ds2yfna5wkoimdmYbj4+kZtZo5Ptxt+6N3/J211srOUwvZPLPBG7fnhnZI4rm+99U+a5QpVianaE6I+EfTe1unFIWyCrhBTP6ChNBcI5iIrM8Lke0LNuNGF1/JAUpITAnr8YrqMBfsnO5CEyk9ORCuMnDQMgI9q5otclVij1OgsvDs433drZJWBi3TUaw1Sfkie3K/s0894p7fEdf2gFajafgGDxVqFB809mHhQ3xwu9RRv14ab2nWcZDgRAg==;9q9/WNexyKa2I7gatdHNtA=="
 ---
 

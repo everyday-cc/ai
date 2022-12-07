@@ -30,17 +30,6 @@ images:
     height: 372
     isCached: true
 
-related:
-  - title: "Peter Dutton saying no to the Indigenous voice, or saying maybe but meaning no, is not a cost-free exercise"
-    excerpt: "Opposition leader faces a coterie of hardcore voice opponents in the Liberal party room, but saying no, and Australians voting yes, is a risk I wouldn’t want to take"
-    publishedDateTime: 2022-12-02T13:03:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2022/dec/03/peter-dutton-saying-no-to-the-indigenous-voice-or-saying-maybe-but-meaning-no-is-not-a-cost-free-exercise"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 0
-
 secured: "ck0pnExQi9VgpkQfly1705GfqSb7TkMpfhw6XJa9CdUgOxYcDgVtwx0T7aSfqQUfWmsd3kvsyjZd76zEjig2KmivAwFZAUzn4amV6kLOIcnm5uhMrNV89SmMW7EoTkZxc3t7Kb5T2JpHVx9zHo7I4vbasTMkU9uGGKS/NpQOqIurEhStPHH8EnUJ2k8Vj6PzUBfegQWDvnTTuvbLlZWCeaqu715T6IlKqlZyXxR0lOp1ZYfg8URfU89PV/gd3EUUXfhUNlKa7OMqjx6KbXFxBxOXS6pWNvZBv1/fKxcbhiSunjT65Pv++rvXcDaq1HiMwazDCz4jrUiqNCzjTbSj7TyrJl2OBGSLgtRwnhx1QpA=;YFQtXK25MeowXxBoxs5vgA=="
 ---
 

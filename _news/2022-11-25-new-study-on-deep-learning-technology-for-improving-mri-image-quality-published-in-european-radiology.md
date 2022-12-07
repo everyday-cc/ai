@@ -1,24 +1,20 @@
 ---
 category: news
 title: "New study on deep learning technology for improving MRI image quality published in European Radiology"
-excerpt: "SwiftMR™, an AI-powered MRI reconstruction solution from AIRS Medical proved its performance for enhancing the image quality of 3D"
-publishedDateTime: 2022-11-25T15:20:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/new-study-on-deep-learning-technology-for-improving-mri-image-quality-published-in-european-radiology-1031937873"
-webUrl: "https://markets.businessinsider.com/news/stocks/new-study-on-deep-learning-technology-for-improving-mri-image-quality-published-in-european-radiology-1031937873"
+excerpt: "A recent study published in European Radiology demonstrated that SwiftMR, an AI-powered MRI reconstruction solution from AIRS Medical, successfully denoises 3D MR images and improves its image quality by using routine clinical scans only."
+publishedDateTime: 2022-11-25T15:15:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/11/25/9719669.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/11/25/9719669.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "zZLLr91l+xmH/GlZvlEAkqOMQiCeD7dilIMD8y3JuTA6nxv+omo1g5pMl9HdJ3lo9p5jF5Ea8je/Z1rppeOetQYVLZftNvysszzG20hWnu67GyVrJChh9cRwU8y1g2ugCmWYJ9JHBNsIMhYapU6QP2NoYIyYBY9jwBFljMyZrVC/8OVbOWUWPSXGq5kvrH6uDdBiZnGOMy0L+y38CdTcKP7SqblGfi/z6dQ6JX4eK228DztuFDDnK3RN2Z3wxvenaE8HJFurBcPT4YQNjXR6l0XD4BX+3VlTglHNqvekn15OnI7ZOAWlWFy0MI6o+FFNa/1/8Wu0GEexUrXQVIrZk4m0gXaKGaOOE90L77jcdxs=;aTVf40pGi9X5R5f91IOuJQ=="
+secured: "sSNBdP2mv31pAZLL984XXGwzM6IvFqkXcLVWJT1LzgZ891lVVWifW2PZ8nAXr35XbwnjLn3/FCXKb812ks87dW3TqY3VKfdfOLC3wBpemkOfumN4bw1j7FyfmwD0/IDon18JTyBwvfSEEUEn1ahzX9rov4n4Hw9m1dNdGsMeyD7zYre4+kfyrZHQvNy8hUL4aU5ilW3Q6hyU0nVl8dAA5w3tvgteJZsNEO3n1Q3qWKMZFNT8zfzS7PKZP6zoaT0nMU/LbymD2yoD0VVJrpIlLiH+sIvPXOWKOTqYX2gXzdjJ1Z63+GqSSA6Qy1YcWn+FkmtDgLAyAwUbO9a/6h0vAG1dJfkioOpxvKYm/I0LyLE=;W3wsng6pOu/KV2dvushyFA=="
 ---
 

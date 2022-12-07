@@ -2,9 +2,9 @@
 category: news
 title: "Nexus FrontierTech launches first-of-its-kind plug-and-play AI modules on Microsoft Azure"
 excerpt: "Artificial Intelligence (AI) solution provider Nexus FrontierTech has announced its partnership with Microsoft Azure, allowing clients to utilise the Azure marketplace for quick deployment of AI solutions within their organisations."
-publishedDateTime: 2022-12-05T14:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-nexus-frontiertech-launches-first-of-its-kind-plug-/2022/12/05/9724024.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-nexus-frontiertech-launches-first-of-its-kind-plug-/2022/12/05/9724024.htm"
+publishedDateTime: 2022-12-05T12:54:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/12/05/9724024.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/12/05/9724024.htm"
 type: article
 quality: 40
 heat: -1
@@ -33,6 +33,17 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Tata Tele Business Services offers Microsoft Azure to Small and Medium Businesses"
+    excerpt: "SMBs are increasingly realigning their business models to respond to dynamic business environments by moving their core operations to the cloud. With TTBS now offering Microsoft Azure, SMBs can look f"
+    publishedDateTime: 2022-12-07T05:47:00Z
+    webUrl: "https://www.business-standard.com/article/news-cm/tata-tele-business-services-offers-microsoft-azure-to-small-and-medium-businesses-122120700385_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/tata-tele-business-services-offers-microsoft-azure-to-small-and-medium-businesses-122120700385_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/tata-tele-business-services-offers-microsoft-azure-to-small-and-medium-businesses-122120700385_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 49
   - title: "Microsoft Quantum Innovator Series: The path to quantum at scale"
     excerpt: "Get the inside, first-hand account of Microsoft’s strategy to scaled quantum computing in a new webinar series where you’ll hear directly from Microsoft Azure Quantum scientists and leaders about the path to quantum at scale and how to get involved today."
     publishedDateTime: 2022-12-05T17:00:00Z
@@ -76,6 +87,6 @@ related:
         height: 313
         isCached: true
 
-secured: "9egNOcJqw7ItfFJba1T7MtEfKFx/dqVruNGG9Bg6D+g3OdwPXKEyaWbatKmyZF9kpV0jldbsVLrnprsXiFz+b8VH9LD9m4YoApkQ46XmYXF5RoW+wEWdP6/KDQ4EIgpPC71bxHJspIbTZHKwt8doCgGauxYF5nDnsa3Z3CHiemmRqAZ9nRJnNhF7bEJgTrzlMa+JCmi0bn5PSKk1w9yalIA0hwFcw5JtTxT4p5lAe82Z7ZVnEzdXRtJN4cQXJ/CIpudszAvfHfJd7XZifR5q43OJzVvCh6CPU7i1r9VZh5GcohQnsEF1/HDaugOkDAeymfN9WHIc5sYXhOvFw5i8ORo+hYDisQ6DPPh77Ji9JOI=;k2krX+4+scDxThi+YnxnwA=="
+secured: "oqAs+vxVqTCAbRklXTrFvK8NZYIN06D9QMV2b128K4QIacXwMcz8MfsgGepZjF82o02dQ0b1B6QV50LbP3ypiHAf6AO+KSYi2LD/mseVt5EANURunGMre9Bat07gMEQK42WtJTWc7G9jT7CCfrYumhUHcqn7y0ID7GdIw5uUnM3ErLZJ9rg/+0fucBuZDQB0BCz8b/PmJOjpgibjHva101kV6qSo+Wffi1Ua6iXEmANokVkg1ygxI9CGP8soJaqPNyAtxeKqXrEycTB2RJtm8B7lWdLgQGIddnL68rzFa8Eyk0UkMOojy1oHvSVaeuZa+lMn/OdYGt0iLTWtzmREoj2ls5mjHVDd01QYstittOs=;oreOV4J32GxUBAotU7qEAA=="
 ---
 

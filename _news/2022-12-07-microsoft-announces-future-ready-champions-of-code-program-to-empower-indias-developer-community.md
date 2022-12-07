@@ -39,10 +39,21 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Tata Tele Business Services offers Microsoft Azure to Small and Medium Businesses"
+    excerpt: "SMBs are increasingly realigning their business models to respond to dynamic business environments by moving their core operations to the cloud. With TTBS now offering Microsoft Azure, SMBs can look f"
+    publishedDateTime: 2022-12-07T05:47:00Z
+    webUrl: "https://www.business-standard.com/article/news-cm/tata-tele-business-services-offers-microsoft-azure-to-small-and-medium-businesses-122120700385_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/tata-tele-business-services-offers-microsoft-azure-to-small-and-medium-businesses-122120700385_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/tata-tele-business-services-offers-microsoft-azure-to-small-and-medium-businesses-122120700385_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 49
   - title: "Nexus FrontierTech launches first-of-its-kind plug-and-play AI modules on Microsoft Azure"
     excerpt: "Artificial Intelligence (AI) solution provider Nexus FrontierTech has announced its partnership with Microsoft Azure, allowing clients to utilise the Azure marketplace for quick deployment of AI solutions within their organisations."
-    publishedDateTime: 2022-12-05T14:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-nexus-frontiertech-launches-first-of-its-kind-plug-/2022/12/05/9724024.htm"
+    publishedDateTime: 2022-12-05T12:54:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/12/05/9724024.htm"
     type: article
     provider:
       name: TMCnet
@@ -77,6 +88,6 @@ related:
         height: 500
         isCached: true
 
-secured: "SJa0ZEgYg+Ih9Ia2KtwMhk9hIcvEuoYeP38c31ucObdRIi24iLMXB9dm3IanITVbHCdHzRBxSw+RPWawJzjkrds1pFS5BNXD6EnUhMaw7VB908ld0GTUcM/WP5j6nbFn8kL4pzNKLrsroyZABEhsxflcw7fT+yeI+6IY7dyPxY17LHjF9PbhsJvkyM1Trq60dZKwfvclVDCCpCa6Sww8QoGUFY0Hqp49cjJZFkB3rXrjWTJ3xx+SjJE6gEnht9BkFfcZaeJMuHlZC8UfWZZvxqJWkp+qpkYtTUP0Ub1XTuPgnjdscL3k+a4fuJjaNxezUK0GCUwnmssBGRzK4prvXqtGZZX1QESYeHYFkaREZsc=;7subBv9Vi5NYy6csWexzsw=="
+secured: "X/QNb9NIg9Tm72YB88hgtZ/AwS8Tf8Arg0fM2wnvZVi38aLVrhH+2Z28mdcmPDIxZw5A1H+k1IOBDZGXbk5TSu9X3uV+NrV3S/yTCByf7apzm+Ou+I0Y821dw6L7HLVTT3y4ssSTun+VLALi3nKb/yYCZY81gI20wtaU1plmnLJMuY+LWJm/54ZfFLPAG3OjxlTSb04tSHTLHv5d0dySn7q/wzeN82EtQhuassyG4hPMzBFBj2ER2P+liJKz4c4fBNnVWgTaCUUWWkcf+HBa8WIj83/WWCVCJssznpxiFWAe6/u+JFdvgyLkaDzW2Aq8rUWxNeRfa/0gkXBP4RHLtCWhphTnilcDDsi6TjV1xsJRMBzPIwzGRFBEG75OqRtxbaXEc0zMBBBx2yZxIbJVgnCzrD4GdEQt4/UFVD3zmumlD+0i5+7t+fV7Xnk6Da6yf0j+QboKk/FIM+lEvrR6Qo1Xq9bbXO8Pt4PfeovfPKwDk9NNZ/4wPKdfeykRA+ctVfrm6rmDVSg1E/q1uSQeKg==;eC6AD0YdbiKYNhTzOEh4tg=="
 ---
 

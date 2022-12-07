@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI In Computer Vision Market Size and Market Scenario 2022 by Development Potential, Applications, Geographical Regions and Forecast to 2028"
+    excerpt: "Dec 06, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global “AI In Computer Vision"
+    publishedDateTime: 2022-12-06T07:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-size-and-market-scenario-2022-by-development-potential-applications-geographical-regions-and-forecast-to-2028-2022-12-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cloud AI Developer Services Market 2022 : Recent Developments, Industry Trends and Investigation Growth Rate, and Forecast to 2028"
     excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Cloud AI"
     publishedDateTime: 2022-12-06T01:13:00Z

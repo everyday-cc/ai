@@ -225,6 +225,17 @@ related:
         width: 866
         height: 577
         isCached: true
+  - title: "How AI chatbot ChatGPT measures up on Seattle knowledge"
+    excerpt: "The artificial intelligence chatbot has gone viral for its precise answers. We set out to see what it really knows by asking questions about Seattle culture."
+    publishedDateTime: 2022-12-06T22:29:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/how-ai-chatbot-chatgbt-measures-up-on-seattle-knowledge/"
+    ampWebUrl: "https://www.seattletimes.com/seattle-news/how-ai-chatbot-chatgbt-measures-up-on-seattle-knowledge/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/how-ai-chatbot-chatgbt-measures-up-on-seattle-knowledge/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
   - title: "The brilliance and weirdness of ChatGPT"
     excerpt: "Like most nerds who read science fiction, I’ve spent a lot of time wondering how society will greet true artificial intelligence ... ways that could make it possible to create personalized therapy bots, for example. ChatGPT isn’t perfect, by any ..."
     publishedDateTime: 2022-12-06T00:55:00Z

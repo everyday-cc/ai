@@ -3,8 +3,8 @@ category: news
 title: "Samsung, Naver to develop AI chip solutions"
 excerpt: "Samsung Electronics decided to work together with Naver, the country's top internet company, in developing artificial intelligence (AI), they said Tuesday. The two companies' goal is to develop new semiconductor solutions that will lead to innovation in the emerging AI industry and further boost the country's AI capabilities to compete with global big tech firms."
 publishedDateTime: 2022-12-06T07:47:00Z
-originalUrl: "https://koreatimes.co.kr/www/tech/2022/12/133_341223.html"
-webUrl: "https://koreatimes.co.kr/www/tech/2022/12/133_341223.html"
+originalUrl: "https://www.koreatimes.co.kr/www/tech/2022/12/129_341223.html"
+webUrl: "https://www.koreatimes.co.kr/www/tech/2022/12/129_341223.html"
 ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=341223"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=341223"
 type: article
@@ -99,6 +99,6 @@ related:
       domain: geeky-gadgets.com
     quality: 34
 
-secured: "QvfWlZ79iG+dSijILd+qvkUiB4c2MYfihRlFSFvHwf0yyqTerody0HUGkwFon8KaY1B/0yArv1yGq5cc7MPQkM1PDxT3QCIaXG5pcBS+3yH2l9dGsEeHTgWMHo7XVPadNEdPrBMDm3qC1tibDJdGYJNZCtnA64UMiusvt49N8k9rfYruZnldWU68JR2qI3SfZhoMFAzyrEBAkh7ZfsFsakKNkRo5934iOPFi06gTZPB2zc+p+sZW+Ulb0UnDebA5W8O5tQB2v1i/+vyezg/bAjArNV9zp7dEqj/6Hkiddcyuk+oz5YKlsuDL2oRkP7LlK8woNr6au7zJRkiFPKp8cYGqaJTbdauPlKRK9x6jzIs9RNr3En9FH8h0NRvuuMeksdKwcHLOSoXDHIEdkDx6pTSD5jlthjZOO7UuRfAqfRldUmTnqgGqjiRg2ZTfuCVh6EViWz8YWLokVqW7yT2XK5sQhS7rEpy2vgZl9ZqqnUmDmzPE9r9Cj3vcqSH7YpUEtzfeeWRikMCCWPGMJjyCWw==;GGBfhH10fYdvct2qY0n5Dw=="
+secured: "iyP2N6clI43lD4Q2srYVqRXIsAuUcbS3d9X0mTD6B/YaXVpuq53WQowFi2QxhLpX1JtpTl7I2YeUDtibsFfT8gvzMoc5DOF+e/zthi08adaa9z6ZvEGT6G4132uFv7cNDcNGZkjD7RhS3Jr7yYBXByGby3PpscOMjV3GbVefxHgmX6fmGuW7Qcod+/aSLGfBLVS5Ihu18Nj8pR8KNyb+sv65ZXRN9kppryGMsL2x24kCK7TF1k7DjdSccfSUcoWVdkfGLb8ieCgzySy4VWdnO6HOnEUZDwgYmlOtWl/iFiwaANWgeHxcJUKulfJdUv1AdkZg/Yf43SqhyL3g7B+DCyGVt/YL4wMyU8tSpCN+QVo=;dRYz92giRR8q7nBsDe0Cag=="
 ---
 

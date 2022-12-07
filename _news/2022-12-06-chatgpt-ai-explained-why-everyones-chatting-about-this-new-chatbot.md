@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/chatgpt-ai-explained-why-everyo
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/chatgpt-ai-explained-why-everyones-chatting-about-this-new-chatbot/"
 type: article
 quality: 89
-heat: 289
+heat: 299
 published: true
 
 provider:
@@ -215,6 +215,17 @@ related:
         width: 866
         height: 577
         isCached: true
+  - title: "How AI chatbot ChatGPT measures up on Seattle knowledge"
+    excerpt: "The artificial intelligence chatbot has gone viral for its precise answers. We set out to see what it really knows by asking questions about Seattle culture."
+    publishedDateTime: 2022-12-06T22:29:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/how-ai-chatbot-chatgbt-measures-up-on-seattle-knowledge/"
+    ampWebUrl: "https://www.seattletimes.com/seattle-news/how-ai-chatbot-chatgbt-measures-up-on-seattle-knowledge/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/how-ai-chatbot-chatgbt-measures-up-on-seattle-knowledge/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
   - title: "This AI chatbot is dominating social media with its frighteningly good essays"
     excerpt: "By Samantha Murphy Kelly, CNN Business Imagine if Siri could write you a college essay, or Alexa could spit out a movie review in the style of Shakespeare. OpenAI last week opened up access to ChatGPT,"
     publishedDateTime: 2022-12-06T02:50:00Z
