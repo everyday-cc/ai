@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "http://www.heraldnet.com/wp-content/uploads/2017/04/heraldnet_logo.png"

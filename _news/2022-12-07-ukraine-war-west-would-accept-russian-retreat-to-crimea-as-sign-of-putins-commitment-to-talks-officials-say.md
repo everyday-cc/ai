@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Ukraine war: West would accept Russian retreat to Crimea as sign of Putin’s commitment to talks, officials say"
-excerpt: "Western officials suggest they would back negotiations if Kremlin withdraws to pre-23 February positions and ceases bombing - but Kyiv insists all territory must be handed back before talks begin"
-publishedDateTime: 2022-12-06T18:19:00Z
-originalUrl: "https://inews.co.uk/news/ukraine-war-west-accept-russia-retreat-crimea-putin-commitment-peace-talks-2012859?ico=related_stories"
-webUrl: "https://inews.co.uk/news/ukraine-war-west-accept-russia-retreat-crimea-putin-commitment-peace-talks-2012859?ico=related_stories"
+excerpt: "Vladimir Putin must withdraw Russian forces to territory held on the eve of the war in Ukraine if peace talks with President Volodymyr Zelensky have any chance of taking place, Western officials believe. He must also cease his “indiscriminate” bombing of Ukraine, they added."
+publishedDateTime: 2022-12-07T13:41:00Z
+originalUrl: "https://inews.co.uk/news/ukraine-war-west-accept-russia-retreat-crimea-putin-commitment-peace-talks-2012859?ico=most_popular"
+webUrl: "https://inews.co.uk/news/ukraine-war-west-accept-russia-retreat-crimea-putin-commitment-peace-talks-2012859?ico=most_popular"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
   name: i
@@ -18,23 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://wp.inews.co.uk/wp-content/uploads/2022/12/SEI_136594662.jpg"
-    width: 2500
-    height: 1667
-    isCached: true
-
-related:
-  - title: "Russia 'runs out' of Iranian drones in Ukraine war - but expects more, officials warn"
-    excerpt: "Western officials now believe Moscow has no Iranian-made drones left - but could be given more, despite Tehran insisting it has not given any to the Kremlin since before the Ukraine war"
-    publishedDateTime: 2022-12-06T14:44:00Z
-    webUrl: "https://www.mirror.co.uk/news/politics/russia-runs-out-iranian-drones-28667383"
-    type: article
-    provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 12
-
-secured: "8xWLi1s3HzL27IjmENEWYTbsCM9a1D9OtAnY9F/yz3yQqRuiNI1TkkdX3uNcjjgO/Zsy/emXIAmoxLSsYkHpmX4M0A5BQ7PIoyNy/zh/gXWQ4o3l9n+HEJc6R6rEpLP4UA9IsFoisl9m41QPozzX+Ub6DNe+sLFb28I2vfHvGv8ryKTRNDJSKzCZm2KPjfBDRsQXzVpUeszPJehw1y1w+wMXfP+2c2Ftuy/WHGZqok8YOTX7q+QbVIqzFpEhO5IVt0+FxM+gvcrOE1D2aFgZr/9xX7BNClq19RPqHpkHL3wdvnoqfPeB1NtW4mljyh75K2plULN5J6H+69fq4oirgldavOXQlsOa419gBHPItsY=;G0ZIbK4BjtMcJ8KYUiXDnA=="
+secured: "DhSoeYrIKal+My1gSF/1AZk4zoXenhphfXNaupb09mFqd/qkceHxHtOoB94w5wzcE3w2DqKRrmtbDes1sRbgP96jhDNLhNgm0kmDiBNLxzHRuCLdukrPanhYvI5RkkzlAWl87S6XoHczVi4/U65wDglSRYZaPWLBml44XHo06kFnBdY2jgv4wQuPXH4ilv4xi8ZJF6TNMVZqmfJI2cYGPDZLg8I9Z/hIcgoZZyavSr/PI8XuKlwE3X/KAUjBinif0AGah6FQ0zgXczvNNbD97uYnBGK/hmNfTvrJRNFe5vn1Iwb2CLTocouYVwsD5kJhTxNPZs5IrKv8Tc3+8rA+RYbqScspFP1ACgIQHuUiY/YaxX3DH7aXPCr3iOzlvVIlgitmt98yiDxNoyy42dE8u1fsIyd+hpuTlmJe9fwxl9REVqLTnnLG6n1UvOcx0HGpdQNUGPkzdTl54MOdDkxCPCZbmdwcLqM3dWc8Gw7/VelZzvbLmE5pKslfeeJXISfZE84i02k2UAyVrq4Labyrfw==;lpwIvJckZbhzpO4nqc1PvQ=="
 ---
 

@@ -2,13 +2,10 @@
 category: news
 title: "AI shows true value of art is something that can’t be bot"
 excerpt: "Scrolling through social media over the past few days has felt like wandering an uncanny valley of friends and acquaintances’ faces. Faces I know, rearranged to look like anime or sci-fi characters or painterly works of art."
-publishedDateTime: 2022-12-07T08:00:00Z
-originalUrl: "https://www.winnipegfreepress.com/opinion/columnists/2022/12/07/ai-shows-true-value-of-art-is-something-that-cant-be-bot"
-webUrl: "https://www.winnipegfreepress.com/opinion/columnists/2022/12/07/ai-shows-true-value-of-art-is-something-that-cant-be-bot"
+publishedDateTime: 2022-12-07T12:26:00Z
+originalUrl: "https://www.winnipegfreepress.com/arts-and-life/entertainment/arts/2022/12/07/ai-shows-true-value-of-art-is-something-that-cant-be-bot"
+webUrl: "https://www.winnipegfreepress.com/arts-and-life/entertainment/arts/2022/12/07/ai-shows-true-value-of-art-is-something-that-cant-be-bot"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
   name: Winnipeg Free Press
@@ -18,6 +15,6 @@ topics:
   - AI Ethics
   - AI
 
-secured: "v3SfdMQ+6gLJW6bEqU9MGdHQFGiPug/gvUIg97bRhJPIuYGiTFVLCgQyc5bQheBeCFgcgJh7qk1cwL0oSECaMpGU9Xp6i20G3E+oNdjEge36H2K5zeoDvDnJFYL+oVgWUTtkY0/NPFUelvbAyUCXB/ChJgtMHLsEnAz8f+rryl86Mc9ienlyqNr0oCpWG37bKXCRlYp9MuiBZidWaT2IpP6nknXFl6R4eFDU1FoP1MNd68SJr9Pif7TeVTI4ANL2+o5YuFk/TfzueoKc2IvZLMOyT4MJsWTUNxhlqLJaRkMePYitXGIEcLWgC3sk8Bo1g+k5ZBpy7j/zXlT+oQrVN3XObETGzG7il6u0SsxPhqs=;O70f0eZGooeISAz3iXo9+Q=="
+secured: "jRS6iB0btr4k3gDCvxNaBHANX/ya520p19IikGm74mkKf93t5gL5VXPvdKkHedP+/nya1dXuHj6fPiJueP56CHlgFBcAOue1uDLbZKICWJpwUoCmGnMS/y6tONsPxXadaHEoDfckxsV0UG08sin1EebmSwRBbMqOBHyOg3Yu9UiuzvW8+DdUH3qZ84n2sKJSIPh2u8u6SNdoK5MvkYfNMknGQeD0SwRSWHncm26D9OcP0fY7cGxFpoytFL+An+b6y7XKU8kBLZYvKaiGLi75Ej2HFSVOaC25dsF7IVXGsympOCNtSZTzqTb02dLS0svNpQq6gFbd6ZBczW2cT/C1fcVHnf6ERLtQ1Qdb1ive9TI=;xaihIMbwEbSDjYdd6Fy6eA=="
 ---
 
