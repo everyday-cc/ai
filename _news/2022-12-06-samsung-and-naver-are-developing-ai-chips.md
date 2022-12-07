@@ -70,7 +70,7 @@ related:
   - title: "Samsung, Naver to develop AI chip solutions"
     excerpt: "Samsung Electronics decided to work together with Naver, the country's top internet company, in developing artificial intelligence (AI), they said Tuesday. The two companies' goal is to develop new semiconductor solutions that will lead to innovation in the emerging AI industry and further boost the country's AI capabilities to compete with global big tech firms."
     publishedDateTime: 2022-12-06T07:47:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/tech/2022/12/129_341223.html"
+    webUrl: "https://koreatimes.co.kr/www/tech/2022/12/133_341223.html"
     ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=341223"
     cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=341223"
     type: article
@@ -82,6 +82,22 @@ related:
       - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202212/02e91f583f3741b187f898bee2100cf1.jpg"
         width: 980
         height: 662
+        isCached: true
+  - title: "Samsung, Naver team on next-gen AI chips"
+    excerpt: "Samsung Electronics and online platform Naver unveiled plans to jointly develop chips designed to increase the handling of large AI workloads."
+    publishedDateTime: 2022-12-07T08:36:00Z
+    webUrl: "https://www.mobileworldlive.com/asia/asia-news/samsung-naver-team-on-next-gen-ai-chips/"
+    ampWebUrl: "https://www.mobileworldlive.com/asia/asia-news/samsung-naver-team-on-next-gen-ai-chips/amp/"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/asia/asia-news/samsung-naver-team-on-next-gen-ai-chips/amp/"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 74
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2022/12/Samsung-NAVER-AI-partnership.jpg"
+        width: 650
+        height: 400
         isCached: true
   - title: "Samsung partners with NAVER on AI chips"
     excerpt: "NAVER say never Samsung has partnered with NAVER to develop semiconductors that can better handle AI workloads. The deal will cross  Samsung’s semiconductor design abilities and NAVER’s expertise in AI algorithms and AI services."

@@ -1,27 +1,29 @@
 ---
 category: news
-title: "As AI rises, lawmakers try to catch up"
-excerpt: "PARIS: From \"intelligent\" vacuum cleaners and driverless cars to advanced techniques for diagnosing diseases, artificial intelligence has burrowed its way into every arena of modern life. Its pr"
-publishedDateTime: 2022-12-07T05:34:00Z
-originalUrl: "https://www.channelnewsasia.com/world/artificial-intelligence-law-ai-bill-rights-technology-3127711"
-webUrl: "https://www.channelnewsasia.com/world/artificial-intelligence-law-ai-bill-rights-technology-3127711"
+title: "As AI Rises, Lawmakers Try To Catch Up"
+excerpt: "From \"intelligent\" vacuum cleaners and driverless cars to advanced techniques for diagnosing diseases, artificial intelligence has burrowed its way into every arena of modern life."
+publishedDateTime: 2022-12-07T07:59:00Z
+originalUrl: "https://www.barrons.com/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610"
+webUrl: "https://www.barrons.com/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610"
+ampWebUrl: "https://www.barrons.com/amp/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: Barron's
+  domain: barrons.com
 
 topics:
-  - AI in Autos
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--7RJEXN80--/fl_relative,g_south_east,l_one-cms:core:watermark:afp_watermark,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/0fc086d0db50e6b05af4ed6b1c51403ad28c2036.jpg?itok=QS0iJ7HL"
-    width: 1200
-    height: 676
+  - url: "https://www.barrons.com/asset/external-media/afp/AFP2689439216944067383893578078951981468096---1.jpg"
+    width: 768
+    height: 512
     isCached: true
 
 related:
@@ -56,6 +58,6 @@ related:
         height: 573
         isCached: true
 
-secured: "MCZ3tXOP8fXaCul37hJf6DLGWfpplhU/95KPXEwOcZJpoVCFQfZbtZL2wiXcergUl6wC5njlGQzxfxmMAtpNbkJPvUBmmONMeD/QESenoL1AIn20ZaR5TxkzjcBmSFn4a63V065hKbncjxE6ed8m8NUi86t6amvlZP6SpmRld1jSJLF8Lx3WZ4CDPn1uPw3dZTf2a0CLXcXsa9tXNJ0ZnsM0kUoR0gJ5b5PQdNl25ZOPVq1apieOf1DPYAPEmgH9vEsRpl0+ji6uTunOCpUvq+FEeEg+qdIcFI3eVniVwygjOzzDTuoUtxFCgQk9iqBQbSU8U+kimLSI6d8mcamkZD+IDPDKkdiir4h9/Uytys8=;wepq8sWPTEwyDZC6EE2SoQ=="
+secured: "qxLSP/d0+cRXwNnYUygmGcqa4xSb8V1A1dnH0sLR1U8JMvsXggyX1LoXj2UUpvFsw3IaWPtkn0RE6jO/GyjBhslEj2NcmiZvR2+S2O5Ad6ikB7ynkb8B5Ii0LdVi7B1ZGPEUxhrIYWFt1tC9Kf0xArzh9yVEcQxYW5LNxNr2lR0mTOsq5Src0VjzEnlwLLAwfjLZDwChen3LeRmWc3PvlpQKoNCAFksShHzZY4IxsveUQ1i5x7KB8+MF+7mATiC5l5qtU7WrgqRpsr+zXivjaCI+KT/YHr8jJbbphpisNHJLcGAWLzUDpFYyU1z3B6qKr7PueljgAAPFTVgpMhwcqFaxa2/mNjAq/GY9KpqmCZ8=;36ZN10aqJRSnyv5zOw1A/A=="
 ---
 

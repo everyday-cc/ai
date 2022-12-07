@@ -42,22 +42,6 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "DeepMind's new AI app plays Stratego at expert level"
-    excerpt: "A team of researchers at DeepMind Technologies Ltd., has created an AI application called \"DeepNash\" that is able to play the game Stratego at an expert level. In their paper published in the journal Science,"
-    publishedDateTime: 2022-12-02T15:30:00Z
-    webUrl: "https://techxplore.com/news/2022-12-deepmind-ai-app-plays-stratego.html"
-    ampWebUrl: "https://techxplore.com/news/2022-12-deepmind-ai-app-plays-stratego.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-deepmind-ai-app-plays-stratego.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/deepminds-new-ai-app-p.jpg"
-        width: 797
-        height: 446
-        isCached: true
   - title: "DeepMind debuts new AI system capable of playing ‘Stratego’"
     excerpt: "Alphabet Inc.’s DeepMind unit has developed a new artificial intelligence system capable of playing “Stratego,” a board game considered more complex than chess and Go. DeepMind detailed the AI system,"
     publishedDateTime: 2022-12-02T21:09:00Z
@@ -95,6 +79,20 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "Google Teaches AI to Play Stratego and It Becomes One of the World's Top-Rated Players"
+    excerpt: "DeepMind's latest artificial intelligence called DeepNash has beaten a human player at a game of Stratego, a strategic war game."
+    publishedDateTime: 2022-12-04T18:25:00Z
+    webUrl: "https://futurism.com/the-byte/google-teaches-ai-play-stratego-top-rated-players"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 31
+    images:
+      - url: "https://wp-assets.futurism.com/2022/12/google-teaches-ai-play-stratego-top-rated-players.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "cvnRhTxDdLNiubfD9BDz+CCJH5V8e7Sdw1hl+UK/0yKsCTIcDC9ksqy+rlvlc0liwxhqGxUPWO4r4Y+7sRY7xYbUezZF379j7IBVnEyDhL/50Ok8nGJ8+DMF6VDMefAT2aUzidH18bkjpAUIMXmd2nJvcsXy/+OXmyvGAIWeSUFOmdGjvYGzC9MZsj43QgGIz9FghxfziIpLzSXkCBgYW6hm9NlcaL/8pRhfE+XEMQ7zDoLjWUQsVjHjudhFa4/vSLdCnrrWZhSnfvcq7MCyTdE9PL+o3IH0jHGQC6iKgr4IBfsp8d60WKn+h6iT4802o+7D7pFlujViq0U6cEQ8uND89gqLDl8f279Sp69E833ROA/I3zGY2deT/ewduarhjTZnmsyZJ5M6b5vMHj7bOd0cSrLPErYxkOh/2xHWPmg6JVBawBD+EW/CsMZDWVS+3LIIjhn1wSFmFmR/2vJgw5onsa0oGbtjJ2dD0atvPr8Wa12vVLovi/v5hqtLVh7EjvmMCrQdYppIZyuIsIYeqg==;vSiDxeHOop9zaaJD+vZEzw=="
 ---

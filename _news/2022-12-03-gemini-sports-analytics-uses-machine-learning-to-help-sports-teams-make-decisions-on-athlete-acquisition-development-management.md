@@ -28,6 +28,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 28
+  - title: "Five9 Elevates Omni-Channel Customer Engagement with Innovations in Digital Self-Service, AI Design, and Analytics"
+    excerpt: "(NASDAQ: FIVN), a leading provider of the intelligent cloud contact center, today announced new capabilities that help businesses deliver more engaging and unified customer journeys across digital and voice channels and between virtual and live agents."
+    publishedDateTime: 2022-12-06T13:01:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/five9-elevates-omni-channel-customer-engagement-with-innovations-in-digital-self-service-ai-design-and/article_083c6744-4594-55d2-addd-604b33bac43f.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 17
+    images:
+      - url: "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg"
+        width: 350
+        height: 455
+        isCached: true
   - title: "Philadelphia AI retail startup founded by Penn Ph.D. raises $7.5M Series A"
     excerpt: "The company uses data to help retailers forecast, set prices and manage their supply chain with the goals of optimizing profit."
     publishedDateTime: 2022-12-06T18:41:00Z
@@ -37,15 +51,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 15
-  - title: "Five9 Elevates Omni-Channel Customer Engagement with Innovations in Digital Self-Service, AI Design, and Analytics"
-    excerpt: "\"Customers have high expectations when they contact their favorite brands, regardless of whether they employ self-service, digital or voice,\" explains Dan Miller, Lead Analyst at Opus Research. \"Too often,"
-    publishedDateTime: 2022-12-06T14:20:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/12/06/9725221.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "P0P+zMl0qwPkte8lKCF5iDbjzcMQY7+jBCLfPhOUR8J4+5BEaAe+QcY/rn0v99rGjy68NwyMcCJ7XceZKWAc4nMJ5eEvjTmiv6C8lqby3+A0C0Tv9GPfzoFnqqUL9SAzY9K6imljj7pB18kA+LcmHVxZzYbiKMC68ge6Z0ehqTWDcU4pMeociAebIPyLkv5p17IKh0qKf5Ond/cb/CWPYf2d66jZjBHyBocrYccVBkfzsTbFMe/1ut712Wwe2tHMKIzb7x5XSdoVEL/MgoZY12B42GB1TwuR62sFtbOsHdWBh3tJo8/HcQEg//ha07wTLzaIZ6mfxJ7E9XLqI8tYl7tx7ScSwmOO64O/zlpk+xH5EPDiQOqWTG90FN+krfKsicckGSxfI5jxvmzdBiMW0vwIzioXrAehnBep0f9GjMpwi/MoYVC0OuPVqELgGmseCEchFAG6ChnVQ6zxcPUGH7/GU0mPWxEzdDMhu6l2FNFavuZdVYFHXpBPQHNgpqOx+Xd9V9bInuwWqZiTebOwnA==;GMLwVMvx/tpuxc0fro3bHA=="
 ---

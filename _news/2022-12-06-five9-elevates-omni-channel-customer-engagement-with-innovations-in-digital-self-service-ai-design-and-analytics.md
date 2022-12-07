@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Five9 Elevates Omni-Channel Customer Engagement with Innovations in Digital Self-Service, AI Design, and Analytics"
-excerpt: "\"Customers have high expectations when they contact their favorite brands, regardless of whether they employ self-service, digital or voice,\" explains Dan Miller, Lead Analyst at Opus Research. \"Too often,"
-publishedDateTime: 2022-12-06T14:20:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/12/06/9725221.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/12/06/9725221.htm"
+excerpt: "(NASDAQ: FIVN), a leading provider of the intelligent cloud contact center, today announced new capabilities that help businesses deliver more engaging and unified customer journeys across digital and voice channels and between virtual and live agents."
+publishedDateTime: 2022-12-06T13:01:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/five9-elevates-omni-channel-customer-engagement-with-innovations-in-digital-self-service-ai-design-and/article_083c6744-4594-55d2-addd-604b33bac43f.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/five9-elevates-omni-channel-customer-engagement-with-innovations-in-digital-self-service-ai-design-and/article_083c6744-4594-55d2-addd-604b33bac43f.html"
 type: article
-quality: 0
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg"
+    width: 350
+    height: 455
+    isCached: true
 
 related:
   - title: "Invent Analytics Raises $7.5 Million to Further Accelerate Growth of its AI-Driven Retail Planning Solutions"
@@ -47,6 +53,6 @@ related:
       domain: sporttechie.com
     quality: 0
 
-secured: "0MKLmrG5R0bOUNWDqkNDUcTQ0dIuksnWg8oXakj/qnM+jK6ybkWsxtkNewdcNmaGkAQ1XRzTepGVVRK7NwLtEOj8R4JdvGX9/pHz+fMYew/jtkL7G2fDq+x/zU06nFxbzGc/mPEykNc1+S6cHCoL9sccuCHDYvMkMZZ3hQoHVYasiCAAILi7URZ1U15wAQjjQ68/09cOeDmMtj/xYyAgguw5ZbbXYqCe/FVNZ3jACVq7v77ocuE66eFamIG1sHGoWJrZwJ94TCE/ZNIQqt64n//gJpF5kghEjcH9ha4J6WDPan/7K/XpTWQERl1WAwq+lo8liZCF1kZJ8ERQmg4W+nmvy6t/uqcb/Omrd98lZLo=;2sImApJsLxvw+81GRNC2tQ=="
+secured: "FhOCf2OEmVWv5ApfXX2QLcsd7QQIoGQ6yCb0st7NJKmQFVKkLzF7g/nc65/7ikVe61+XffAtDVvLQi1H10bDV5hwdRW17e1aBkjmdTtlXeDW12vdeN4wkEjRqotrS+s6cWvPn/LaCIr4NxHHhRgKrs61aU3ciBkqpIwBjRHOtwQ/VGEBK5aNaufjChTB8KOmLSJaFmFOwZwyfQGBCRF4R4Yextlw279fC1A/FpD/QYSRgyX8qiz2GTrncUyWnrI5Fl0kkkGOZK62M1kZqze5s7ZvP8GbpwYroIT2mzdvoEQKV6oUKExM6EWOu82MIabRbh2BhPpPpsoWnDTVi/NNz3xlBoFg15YcA9ypVSw3RLw=;txe40trvMCGtVJE/PpB03Q=="
 ---
 

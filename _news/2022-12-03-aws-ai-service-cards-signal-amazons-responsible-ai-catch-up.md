@@ -32,19 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "As AI rises, lawmakers try to catch up"
-    excerpt: "PARIS: From \"intelligent\" vacuum cleaners and driverless cars to advanced techniques for diagnosing diseases, artificial intelligence has burrowed its way into every arena of modern life. Its pr"
-    publishedDateTime: 2022-12-07T05:34:00Z
-    webUrl: "https://www.channelnewsasia.com/world/artificial-intelligence-law-ai-bill-rights-technology-3127711"
+  - title: "As AI Rises, Lawmakers Try To Catch Up"
+    excerpt: "From \"intelligent\" vacuum cleaners and driverless cars to advanced techniques for diagnosing diseases, artificial intelligence has burrowed its way into every arena of modern life."
+    publishedDateTime: 2022-12-07T07:59:00Z
+    webUrl: "https://www.barrons.com/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610"
+    ampWebUrl: "https://www.barrons.com/amp/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
+      name: Barron's
+      domain: barrons.com
+    quality: 59
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--7RJEXN80--/fl_relative,g_south_east,l_one-cms:core:watermark:afp_watermark,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/0fc086d0db50e6b05af4ed6b1c51403ad28c2036.jpg?itok=QS0iJ7HL"
-        width: 1200
-        height: 676
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP2689439216944067383893578078951981468096---1.jpg"
+        width: 768
+        height: 512
         isCached: true
   - title: "As artificial intelligence rises, lawmakers try to catch up"
     excerpt: "Experts cite China’s widespread use of digital surveillance as a harbinger of AI-enabled totalitarianism. Read more at straitstimes.com."

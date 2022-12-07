@@ -25,63 +25,75 @@ images:
     isCached: true
 
 related:
-  - title: "AI Arena teaches AI to players by training and battling AI fighters"
-    excerpt: "ArenaX Lab's mission is to educate people about AI using a new AI platform style fighting game dubbed AI Arena."
-    publishedDateTime: 2022-12-02T16:00:00Z
-    webUrl: "https://venturebeat.com/games/ai-arena-lets-you-train-ai-characters-and-test-them-in-a-fighting-game/"
-    ampWebUrl: "https://venturebeat.com/games/ai-arena-lets-you-train-ai-characters-and-test-them-in-a-fighting-game/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/ai-arena-lets-you-train-ai-characters-and-test-them-in-a-fighting-game/amp/"
+  - title: "DeepMind’s Latest AI Trounces Human Players at the Game ‘Stratego’"
+    excerpt: "DeepMind just took a stab at solving this conundrum. The trick was to interweave game theory into an algorithmic strategy loosely based on the human brain called deep reinforcement learning. The result, DeepNash, toppled human experts in a highly strategic ..."
+    publishedDateTime: 2022-12-05T18:31:00Z
+    webUrl: "https://singularityhub.com/2022/12/05/deepminds-latest-ai-trounces-human-players-at-the-game-stratego/"
+    ampWebUrl: "https://singularityhub.com/2022/12/05/deepminds-latest-ai-trounces-human-players-at-the-game-stratego/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/12/05/deepminds-latest-ai-trounces-human-players-at-the-game-stratego/?amp=1"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 76
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/12/AI-Arena-Banner-1200-x-675.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
+      - url: "https://singularityhub.com/wp-content/uploads/2022/12/stratego-board-game-pieces-blue.jpeg"
+        width: 1068
+        height: 601
         isCached: true
-  - title: "The Avengers By Wes Anderson Imagined By The Russo Brothers Using AI Art"
-    excerpt: "The Russo Bothers imagined what The Avengers would be like as a Wes Anderson project using AI art. On Twitter, they found some images from @digiguru and posted them to Instagram. In these pictures, the Marvel Studios universe gets the same sort of color-grading,"
-    publishedDateTime: 2022-12-06T13:28:00Z
-    webUrl: "https://comicbook.com/movies/news/marvel-avengers-wes-anderson-ai-art-russo-brothers-midjourney/"
-    ampWebUrl: "https://comicbook.com/movies/amp/news/marvel-avengers-wes-anderson-ai-art-russo-brothers-midjourney/"
-    cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/movies/amp/news/marvel-avengers-wes-anderson-ai-art-russo-brothers-midjourney/"
+  - title: "Here’s how a new AI mastered the tricky game of Stratego"
+    excerpt: "Stratego creates a unique challenge for computers to solve. It's what's known in game theory as an “imperfect information game.”"
+    publishedDateTime: 2022-12-03T12:00:00Z
+    webUrl: "https://www.popsci.com/technology/ai-stratego/"
+    ampWebUrl: "https://www.popsci.com/technology/ai-stratego/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-stratego/?amp"
     type: article
     provider:
-      name: Comicbook.com
-      domain: comicbook.com
-    quality: 58
-    images:
-      - url: "https://sportshub.cbsistatic.com/i/2022/12/02/26dc248f-5add-41d3-b9d4-4dc2efee2482/pz-thumbnail-art-1x1-1.jpg?width=568&height=320"
-        width: 568
-        height: 320
-        isCached: true
-  - title: "Artificial Intelligence Shows the Way to Fight Aging and Cancer"
-    excerpt: "New artificial intelligence-enabled study discovers commonly dysregulated genes potentially involved in the progression of cancer and premature aging diseases."
-    publishedDateTime: 2022-12-05T16:25:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-shows-the-way-to-fight-aging-and-cancer-209528-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-shows-the-way-to-fight-aging-and-cancer-209528-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-shows-the-way-to-fight-aging-and-cancer-209528-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
+      name: Popular Science
+      domain: popsci.com
     quality: 57
     images:
-      - url: "https://www.medindia.net/health-images/cancer-cells-influence.jpg"
-        width: 300
-        height: 250
+      - url: "https://www.popsci.com/uploads/2022/12/02/Stratego_plateau.jpg?auto=webp"
+        width: 1024
+        height: 765
         isCached: true
-  - title: "AI taught to play video game by Google and is now one of world's top players"
-    excerpt: "An artificial intelligence system has been taught how to play a video game and has learned how to beat top human players. DeepMind announced that DeepNash has become so proficient at Stratego that it has climbed to the world's all-time top-three ranked ..."
-    publishedDateTime: 2022-12-05T13:35:00Z
-    webUrl: "https://www.tweaktown.com/news/89754/ai-taught-to-play-video-game-by-google-and-is-now-one-of-worlds-top-players/index.html"
+  - title: "DeepMind debuts new AI system capable of playing ‘Stratego’"
+    excerpt: "Alphabet Inc.’s DeepMind unit has developed a new artificial intelligence system capable of playing “Stratego,” a board game considered more complex than chess and Go. DeepMind detailed the AI system,"
+    publishedDateTime: 2022-12-02T21:09:00Z
+    webUrl: "https://siliconangle.com/2022/12/02/deepmind-debuts-new-ai-system-capable-playing-stratego/"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 16
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/6388ce129963208649083b0e_Stratego_header_02_hd-p-1600.png"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "DeepMind spin-off Isomorphic Labs announces drug discovery scale plans"
+    excerpt: "AI drug discovery startup Isomorphic Labs is acquiring talent and a new office as it looks to strike its first business deal"
+    publishedDateTime: 2022-12-05T10:53:00Z
+    webUrl: "https://www.information-age.com/deepmind-spin-off-isomorphic-labs-announces-drug-discovery-scale-plans-123500895/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 39
+    images:
+      - url: "https://s42137.pcdn.co/wp-content/uploads/2022/12/deepmind-spin-off-isomorphic-labs-announces-drug-discovery-scale-plans-scaled.jpg.optimal.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
+  - title: "DeepMind spin-off steps up effort to use AI to create new drugs"
+    excerpt: "We use cookies and other data for a number of reasons, such as keeping FT Sites reliable and secure,         personalising content and ads, providing social media features and to         analyse how our Sites are used."
+    publishedDateTime: 2022-12-03T15:00:00Z
+    webUrl: "https://www.ft.com/content/92ea2434-8d91-49e3-807d-3e425689e749"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
 
 secured: "+v0RuOoQHCPKyQq3lz9BLrlc8OO/iXl7wxODrnGZfzQWLWSpqT9fkYqzFCtWKBTRizy6XFixR+tkC2w2VvjdyDvMfFFchPamUSHBW4vnG1jUre5dIN1SBTCFWuej0Zahg9y/t22ShTj6iwqka4GCDVkj+lMBk+5tExqR0TcHtgEEvy8syw8I9c/6OkHCmWy1zo2QNKYziwFMiTxPa+XjtJmstjAP7+1d+bTyoRjN0pox/eDftrhoN9KTFkLo7J4cszz7aUzbfYVF8H6V9IxOEdwP3QPgpgvNDFgsNTp5BG4VHXaQbSk/nXn+fbOVTy32Ux2mCcPWBP2CuIcJBJptA7JPc/YJSxFtnnE1IaR3y4p0OYnMns0muz1+5iYoW4B408BnWvsAxWcSz7XE1msoaS3kDiiWhtkaWfv1tlknD/JT1+WD/eVttCX7TLpc7xfcjowGmAabEy3ez5vkBxCkLZ0CdbfhItSJLc7LKBIKwI0BD26zCUAq3d+7TxLCzwqHuF9mmlbuY0WfazuBlP2Elg==;KWYlTm4EFgA7/7l5OLMQew=="
 ---

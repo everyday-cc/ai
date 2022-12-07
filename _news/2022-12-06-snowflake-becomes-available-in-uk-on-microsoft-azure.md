@@ -7,7 +7,7 @@ originalUrl: "https://www.cloudcomputing-news.net/news/2022/dec/06/snowflake-bec
 webUrl: "https://www.cloudcomputing-news.net/news/2022/dec/06/snowflake-becomes-available-in-uk-on-microsoft-azure/"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Tata Tele Business to offer Microsoft Azure to SMBs"
+    excerpt: "Microsoft Azure offers essential compute, storage and networking resources on demand, on a pay-as-you-go-basis."
+    publishedDateTime: 2022-12-07T07:32:00Z
+    webUrl: "https://www.business-standard.com/article/news-cm/tata-tele-business-to-offer-microsoft-azure-to-smbs-122120700565_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/tata-tele-business-to-offer-microsoft-azure-to-smbs-122120700565_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/tata-tele-business-to-offer-microsoft-azure-to-smbs-122120700565_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 54
   - title: "Tata Tele Business Services offers Microsoft Azure to Small and Medium Businesses"
     excerpt: "SMBs are increasingly realigning their business models to respond to dynamic business environments by moving their core operations to the cloud. With TTBS now offering Microsoft Azure, SMBs can look f"
     publishedDateTime: 2022-12-07T05:47:00Z

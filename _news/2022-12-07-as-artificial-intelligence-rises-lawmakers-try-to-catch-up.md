@@ -41,21 +41,23 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "As AI rises, lawmakers try to catch up"
-    excerpt: "PARIS: From \"intelligent\" vacuum cleaners and driverless cars to advanced techniques for diagnosing diseases, artificial intelligence has burrowed its way into every arena of modern life. Its pr"
-    publishedDateTime: 2022-12-07T05:34:00Z
-    webUrl: "https://www.channelnewsasia.com/world/artificial-intelligence-law-ai-bill-rights-technology-3127711"
+  - title: "As AI Rises, Lawmakers Try To Catch Up"
+    excerpt: "From \"intelligent\" vacuum cleaners and driverless cars to advanced techniques for diagnosing diseases, artificial intelligence has burrowed its way into every arena of modern life."
+    publishedDateTime: 2022-12-07T07:59:00Z
+    webUrl: "https://www.barrons.com/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610"
+    ampWebUrl: "https://www.barrons.com/amp/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
+      name: Barron's
+      domain: barrons.com
+    quality: 59
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--7RJEXN80--/fl_relative,g_south_east,l_one-cms:core:watermark:afp_watermark,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/0fc086d0db50e6b05af4ed6b1c51403ad28c2036.jpg?itok=QS0iJ7HL"
-        width: 1200
-        height: 676
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP2689439216944067383893578078951981468096---1.jpg"
+        width: 768
+        height: 512
         isCached: true
 
-secured: "bmdFzPr5XETfNk8qV6FSf4ngs8+o44ywbDqOhe5LRLjfQ0Ob32uk6VABka5hvKq1RO23cNXBZogckwYLPlrsCnYdnAC6x99hRaNZGy9+Ww/Nqx+iaCOAZgkNBWfxMFo6KbYgNjB9AYj8vORxX22Q/DucRvkk7/RLClGNUMbtTUKLuG7uhPtUxHaGXRpY5jDXqb/cVUtwuMQs//jc9gmfdXvb4cHlsehWGkNHmEj37Mfw9JftsuDo0iW6LofdcAmrnQ1OVCs2ZIE0uIFKLRY30Ronz3Hcyca7/cQtxvdeCflEMtnUtQVzswUFK+YBGnBzMzvmXMaSX9S8OuWg9f3xHuoGBDoADBWFeFPFX1Iin0s=;N9/mqlBypQXMtkGaVNFRvg=="
+secured: "vt03TtinMGwcN2r7mRy4nNGROMabCB9u4/b+vPVyknXs02rXl6e5LMb7wWMcQlRZ/MnoYjRxD+v//zGBoemYb6tIT5o3I7Va7X6h+8kJxy6OrlxffFD+doRxCLPLezCyBSbuMqq8AbPtLAuw1GSocxR8DCEYpicTTUuiFd48SEE1Nv4z2PSUJNxP4LtcgZf/Wnj9e8tdrptMwAs20WiLhjLbYQAhx6AKY+W3DHzxGoJ+G1I0v1lKwd/8OE8618RcGzlwykeJ1Sn5aQTTe5UAPNldm6B3hc9s8VE6nPB2jFHp5GLvBmCgZ3/AOzzZNX8yT+RZ+ppgVxPu3Y9xjGzfq2Fqso9eF/fTkVkhQ2IOV2HnTK3gS8IuhxfhePvnuvHypmIOLJAjuqGBMyzTZKmqxrlhwiutosQ9tg8SMJym3slhm7ECEaK1Pm5c4r/zimehvxtLpJCKKImY2QnjrnyzqKL2OVPGSkWkDiH+paF6fEVmYxUTOJk7RHAFMioDXuI4aFcaznIsDVJOZs+ayNS8zQ==;pZjbVHijUF7nhbzJT4m0vg=="
 ---
 

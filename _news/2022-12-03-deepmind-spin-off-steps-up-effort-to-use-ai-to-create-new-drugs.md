@@ -35,22 +35,6 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "DeepMind's new AI app plays Stratego at expert level"
-    excerpt: "A team of researchers at DeepMind Technologies Ltd., has created an AI application called \"DeepNash\" that is able to play the game Stratego at an expert level. In their paper published in the journal Science,"
-    publishedDateTime: 2022-12-02T15:30:00Z
-    webUrl: "https://techxplore.com/news/2022-12-deepmind-ai-app-plays-stratego.html"
-    ampWebUrl: "https://techxplore.com/news/2022-12-deepmind-ai-app-plays-stratego.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-deepmind-ai-app-plays-stratego.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/deepminds-new-ai-app-p.jpg"
-        width: 797
-        height: 446
-        isCached: true
   - title: "Here’s how a new AI mastered the tricky game of Stratego"
     excerpt: "Stratego creates a unique challenge for computers to solve. It's what's known in game theory as an “imperfect information game.”"
     publishedDateTime: 2022-12-03T12:00:00Z
@@ -94,6 +78,20 @@ related:
       - url: "https://s42137.pcdn.co/wp-content/uploads/2022/12/deepmind-spin-off-isomorphic-labs-announces-drug-discovery-scale-plans-scaled.jpg.optimal.jpg"
         width: 2560
         height: 1440
+        isCached: true
+  - title: "Google Teaches AI to Play Stratego and It Becomes One of the World's Top-Rated Players"
+    excerpt: "DeepMind's latest artificial intelligence called DeepNash has beaten a human player at a game of Stratego, a strategic war game."
+    publishedDateTime: 2022-12-04T18:25:00Z
+    webUrl: "https://futurism.com/the-byte/google-teaches-ai-play-stratego-top-rated-players"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 31
+    images:
+      - url: "https://wp-assets.futurism.com/2022/12/google-teaches-ai-play-stratego-top-rated-players.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "AdGxKTivKqMwyVYOJNhlZnXLY9S1Xh8IYdAL1YXJO11v/pDU85zHmggUaKIfBTVZ0cQboqMSexVi0SlBxaqkSZ/JgaSJhlck5TvTinxl1JfZJKovjeKS9XwMWQo/nNb94y+or4rNcA97nK/n2VRpzT9bw7oBalGyfyugsrfue0wXi5fF1r1ikvp1445typgiynXMlRyYZPx8LPBfnelTWbm6HauZiX8nsCcekM5fudrWdOMijH60LlqpiYFSVLl8z5oDmqWYkLuTIjromIKugj53VWNdS0lSM+AAVx+T1vbaFouRTamZXqqC+56gpc6b70XzAS8VjL7o95ln2P+yCRmdiy3HFvcER72u6YRTCIajcMGfhtY+qdNvYqmm07TP9dDMg7ezt9132ZiA5vDvBzwfp7cOA7hErLMb7aOtc212sgrPtqgH/vj/nk1fsMehcO6ghf+DFWvnmtPnbCaVjWwA+Cdc0SQxz3vfl2Ur81EVV3p0/edsjs9EiOqTZVrV9QY8TU5/g2y1wjyp0y24bg==;WM4kMAeGS79fML0vGF/AFA=="

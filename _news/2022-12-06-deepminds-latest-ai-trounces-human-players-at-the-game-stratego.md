@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind's new AI app plays Stratego at expert level"
-    excerpt: "A team of researchers at DeepMind Technologies Ltd., has created an AI application called \"DeepNash\" that is able to play the game Stratego at an expert level. In their paper published in the journal Science,"
-    publishedDateTime: 2022-12-02T15:30:00Z
-    webUrl: "https://techxplore.com/news/2022-12-deepmind-ai-app-plays-stratego.html"
-    ampWebUrl: "https://techxplore.com/news/2022-12-deepmind-ai-app-plays-stratego.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-deepmind-ai-app-plays-stratego.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/deepminds-new-ai-app-p.jpg"
-        width: 797
-        height: 446
-        isCached: true
   - title: "Here’s how a new AI mastered the tricky game of Stratego"
     excerpt: "Stratego creates a unique challenge for computers to solve. It's what's known in game theory as an “imperfect information game.”"
     publishedDateTime: 2022-12-03T12:00:00Z
@@ -97,6 +81,20 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "Google Teaches AI to Play Stratego and It Becomes One of the World's Top-Rated Players"
+    excerpt: "DeepMind's latest artificial intelligence called DeepNash has beaten a human player at a game of Stratego, a strategic war game."
+    publishedDateTime: 2022-12-04T18:25:00Z
+    webUrl: "https://futurism.com/the-byte/google-teaches-ai-play-stratego-top-rated-players"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 31
+    images:
+      - url: "https://wp-assets.futurism.com/2022/12/google-teaches-ai-play-stratego-top-rated-players.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "PRo/DrMCuonaIP3J+ctubEQD3Yin73eRuutM5A19eTMatFWbTx73wnWJMYAdfdgeJcVglNI5CO08YxectcvCuwbm+ovfB5X7OlPXKE4Olj/UCL0DYZlANp92ify1AUe3nRXxli2nXYohXLwbSmhYs7kZj1EMv6QKGErbWpZEnxV4/Cxa670yarjjMTJdTy+Lv8k11Vm0Pf5TIb0byPwbMJuPQWiC7XFuyGa6rlmO5KCHLe/FtvrG/fWzJT9Wf2ZZGH8XrZ/Zy3pYuHYKxnFn7a69K6LuACYd6MC8WE+2pOC+KfiQOB8HrsXoxfQgST2y4YnJbxGBmP+/nATsMKGGwabpxrnRlA+zaJ1hrVSRCrBFsk2Q+bzO2/C1rxkjOCv6YUzjfxC9JpiwTFEgYo69HyUZ48llVMYLErGImg19bcolgM1a1rGUaRd+5IsY7PWBtvOi5MG5fOeRcoDN+VHdoEUOjJ5b5R1kZGc9M6J0JWqCJZ1AUZ+yT3OnX3isn4HJZ2VO6ekJgH+iRXuzYz9Qgw==;BkFh/eeYBZGii44KKeLLww=="
 ---
