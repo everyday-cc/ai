@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Emotion Recognition and Sentiment Analysis Industry 2023 Market Size, Share, Growth, Sales and Drivers Analysis Research Report 2028"
-    excerpt: "The Global Emotion Recognition and Sentiment Analysis Market 2023 report is a thorough assessment of the worldwide"
-    publishedDateTime: 2022-12-05T08:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/emotion-recognition-and-sentiment-analysis-industry-2023-market-size-share-growth-sales-and-drivers-analysis-research-report-2028-2022-12-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "7L/YQAMDcfskpIhkSJkO/SLnT8ofZ4Nk4BHUd5V/K4wArVfRhzb+ymFJRE6MPhSJNv9FyR2Ce5UL3ZIT0VvYwpIxnoPpEmmH7c8TYQ3cxDAjI3xiumvuwGUjFRvtcvSKzc7Q/BA8lS9pCnexIaFXfSzDXU9+OfXmwtVhuErBMN6ZMNLbtJDAY8XHvdPbSDLSW7K4WlttNbrRn4Wtd1VxTdbkOHddIURefhgxsPLm24lCuIyNMcDZ1PXdTXSaZB/Z2mWEXTY06oV5muM3Tx/+eIOj3cI9fSqgcDHSiYdjqfLPeHYjSVGSXyCpFPt6cb6uh0cINgmpCK/alJ63Ad+Fk0rTEqKSuoShMyyJpoXrenY=;aTn4HZnkqVT4Bb3RVMJZZw=="
 ---

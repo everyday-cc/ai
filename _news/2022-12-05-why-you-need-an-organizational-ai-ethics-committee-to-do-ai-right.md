@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/amp/"
 type: article
 quality: 104
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: VentureBeat
@@ -29,56 +29,6 @@ images:
     width: 1200
     height: 629
     isCached: true
-
-related:
-  - title: "I Interviewed An AI About The Ethics Of AI - And It Lied To Me"
-    excerpt: "Do you think AI will prove to be a positive development for the world? I am a machine learning model trained to assist with a wide range of tasks, but I do not have the ability to"
-    publishedDateTime: 2022-12-02T10:11:00Z
-    webUrl: "https://www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-an-ai-about-the-ethics-of-aiand-it-lied-to-me/"
-    ampWebUrl: "https://www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-an-ai-about-the-ethics-of-aiand-it-lied-to-me/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-an-ai-about-the-ethics-of-aiand-it-lied-to-me/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 108
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6389dcaa5d08cabf3b20296e/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Artificial intelligence in the service of the military"
-    excerpt: "We are all familiar with the defense and security tasks of IDF camps and infrastructures performed by combat soldiers and military combat supporters. These missions are intended to enable the proper and safe existence of infrastructures,"
-    publishedDateTime: 2022-12-04T22:51:00Z
-    webUrl: "https://www.jpost.com/opinion/article-724053"
-    ampWebUrl: "https://m.jpost.com/opinion/article-724053/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/opinion/article-724053/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 57
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/518195"
-        width: 640
-        height: 428
-        isCached: true
-  - title: "AHAI, the AI Based Multi Symptom Check and Therapy Recommendation Platform to be Released in the First Quarter of 2023"
-    excerpt: "LAS VEGAS, NV / ACCESSWIRE / / Alternative Health, Inc, the US based medical company announced that it will be releasing its evidence based diagnostic and recommendation platform to the public in the"
-    publishedDateTime: 2022-12-06T16:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/12/ac29979799/ahai-the-ai-based-multi-symptom-check-and-therapy-recommendation-platform-to-be-released-in-the-f"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29979799"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29979799"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 50
-    images:
-      - url: "https://www.accesswire.com/users/newswire/images/730462/kpvw3onlpimll72idprqlvo2pftwml3r1hdijq68xwcg9rmzcm.jpg"
-        width: 1600
-        height: 948
-        isCached: true
 
 secured: "j2KVdz1otrl5bKM885OEqtELXXBITcC/8ofNQCLcMupCdlOT63gNOX+WdcNPrE5jUvrOAhka7/lkMFIb7LNfGtAkCxD/gLCU5+sve6wLkHgwhPIYJPRX9jLoH3ZIesHb8pYHc8EU1Z/dQ1+slo3m6l5vhXuv0CezuXcYzFvI5vAKPofDDal3sMFaQtNAAsgQZYApfWUkSi4J/CrJLkcBec0RiSAmQjQUai69xjM1KfhdOK/AjFchVq5urCPBg8emQrcVwtlIyPhb6RdRlC5rL++2HT3q0NNZoc+lUlffJDAyr9DL46F3WANRKiZl2xaOc9zfRMtKo0odmgGJtJ+pbYIrnDRM0BECDJRpyGa0BS1YDbAHVFaPwUaZEhY9nMVzhmVKxsp/c/Q/IvzHnek3VSjRlpa4+QJyosEk3mKdzW0CMg/6VM/3JhSenFtuLlvO52yw0U1eN7JaJXlJqX+ox8DwGCwDIDOasiGIoYCyh9XzRDddpUFfV6IDmJCYvVrBvMDU2eT5/5B/gUktDT3Pnw==;E17bsnNe0V5buCrFid0T9A=="
 ---

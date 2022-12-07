@@ -2,6 +2,152 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-11-30-cerebras-unveils-new-partnerships-for-llm-and-generative-ai-tools.md",
+      "title": "Cerebras unveils new partnerships for LLM and generative AI tools",
+      "excerpt": "Cerebras Systems announced a new partnership with Cirrascale Cloud Services on an LLM tool and a partnership with Jasper AI on a generative AI tool.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/cerebras-unveils-new-partnerships-for-llm-and-generative-ai-tools/",
+      "originalUrl": "https://venturebeat.com/ai/cerebras-unveils-new-partnerships-for-llm-and-generative-ai-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/07/natural-language-processing.jpg?w=1200&strip=all",
+          "width": 925,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/cerebras-unveils-new-partnerships-for-llm-and-generative-ai-tools/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/cerebras-unveils-new-partnerships-for-llm-and-generative-ai-tools/amp/",
+      "publishedDateTime": "2022-11-29T13:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-san-francisco-will-allow-police-to-deploy-robots-that-kill.md",
+      "title": "San Francisco will allow police to deploy robots that kill",
+      "excerpt": "SAN FRANCISCO (AP) — Supervisors in San Francisco voted Tuesday to give city police the ability to use potentially lethal, remote-controlled robots in emergency situations — following an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/san-francisco-may-allow-police-050402915.html",
+      "originalUrl": "https://www.aol.com/news/san-francisco-may-allow-police-050402915.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/hMcf.JafE1AZPEPJEXEeCQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjU-/https://media.zenfs.com/en/ap.org/8ed9b8fceb5db338009402ea5cd1aaf0",
+          "width": 1200,
+          "height": 825,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T13:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-ai-healthcare-apps-for-companies-that-put-healthfirst.md",
+      "title": "AI HealthCare Apps for Companies That Put HealthFirst",
+      "excerpt": "This blog profiles leading AI Healthcare Apps for companies that are putting health first. With staggering increases in depression and anxiety across the globe, all board directors and CEOs should have mental health as one of their top business priorities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/11/29/ai-healthcare-apps-for-companies-that-put-healthfirst/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/11/29/ai-healthcare-apps-for-companies-that-put-healthfirst/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/638658b2e739943876a067da/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 971,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/11/29/ai-healthcare-apps-for-companies-that-put-healthfirst/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/11/29/ai-healthcare-apps-for-companies-that-put-healthfirst/amp/",
+      "publishedDateTime": "2022-11-29T11:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-can-ai-drive-more-diversity-in-drug-development.md",
       "title": "Can AI Drive More Diversity in Drug Development?",
       "excerpt": "“AI can help with diagnosis and risk prediction, which can mean earlier interventions,\" says Moeller, who's also vice chair of the Alliance for Artificial Intelligence in Healthcare board.",
@@ -633,6 +779,40 @@
       ]
     },
     {
+      "path": "_news/2022-11-29-quantiphi-awarded-two-2022-regional-and-global-aws-partner-awards.md",
+      "title": "Quantiphi Awarded Two 2022 Regional and Global AWS Partner Awards",
+      "excerpt": "Invent 2022, the Regional and Global AWS Partner Awards recognize a wide range of AWS Partners whose business models have embraced specialization, innovation, and cooperation over the past year. Regional and Global Partner Awards recognize partners whose business models continue to evolve and thrive on AWS as they work with customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-quantiphi-awarded-two-2022-regional-global-aws-partner-/2022/11/29/9720600.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-quantiphi-awarded-two-2022-regional-global-aws-partner-/2022/11/29/9720600.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T05:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-29-bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem.md",
       "title": "BAE Systems adds Microsoft to modeling and simulation ecosystem",
       "excerpt": "BAE Systems is expanding the network of companies in its modeling and simulations ecosystem to include Microsoft. With this addition,  This press release features multimedia. View the full release here:   (Credit: BAE Systems) “Microsoft Azure is widely regarded as a prominent provider of cloud computing services for government,",
@@ -672,40 +852,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-quantiphi-awarded-two-2022-regional-and-global-aws-partner-awards.md",
-      "title": "Quantiphi Awarded Two 2022 Regional and Global AWS Partner Awards",
-      "excerpt": "Quantiphi, an artificial intelligence (AI)-first digital engineering company and AWS Premier Tier Services Partner in the Amazon Web Services (AWS) Partner Network (APN), is excited to announce it is a recipient of two 2022 Regional and Global AWS Partner Awards,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/11/29/9720600.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/11/29/9720600.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T04:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     },
@@ -985,126 +1131,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-kami-vision-reveals-the-worlds-first-ai-powered-camera-alarm-system-for-the-entire-home-with-247-professional-monitoring.md",
-      "title": "Kami Vision Reveals the World’s First AI-Powered Camera Alarm System for the Entire Home with 24/7 Professional Monitoring",
-      "excerpt": "Kami Vision, the computer vision company that provides AI solutions to enterprise, SMB and consumers, today announced Kami Pro Security, a professional-grade, video alarm system for use in residences and small businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/e9654d74b4b143b98686bb8e46b7b520",
-      "originalUrl": "https://apnews.com/e9654d74b4b143b98686bb8e46b7b520",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T02:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-artificial-intelligence-to-be-used-for-security-in-maha-kumh-2025.md",
-      "title": "Artificial Intelligence to be used for security in Maha Kumh 2025",
-      "excerpt": "To ensure full security at the Maha Kumbh in 2025, the Yogi Adityanath government in Uttar Pradesh will use Artificial Intelligence (AI), apart from drones and closed-circuit television",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/news/national/artificial-intelligence-to-be-used-for-security-in-maha-kumh-2025-771168",
-      "originalUrl": "https://www.thehansindia.com/news/national/artificial-intelligence-to-be-used-for-security-in-maha-kumh-2025-771168",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2022/11/29/1322617-maha-kumbh.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/news/national/artificial-intelligence-to-be-used-for-security-in-maha-kumh-2025-771168",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/national/artificial-intelligence-to-be-used-for-security-in-maha-kumh-2025-771168",
-      "publishedDateTime": "2022-11-29T01:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-slow-cognitive-decline-with-flavonols-study-says.md",
-      "title": "Slow cognitive decline with flavonols, study says",
-      "excerpt": "The cognitive score of people in the study who ate the most flavonols declined 0.4 units per decade more slowly than those who ate the fewest flavonols. The results held even after adjusting for other factors that can affect memory, such as age ...",
-      "sourceUrl": null,
-      "webUrl": "https://egyptindependent.com/slow-cognitive-decline-with-flavonols-study-says/",
-      "originalUrl": "https://egyptindependent.com/slow-cognitive-decline-with-flavonols-study-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T01:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Egypt Independent",
-        "domain": "egyptindependent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

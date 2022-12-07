@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Tesla didn’t say a word about Tesla Semi being equipped with Autopilot/Self-Driving"
-excerpt: "Tesla chose to not say a word about Tesla Semi being equipped with Autopilot/Self-Driving despite the truck being equipped with the hardware."
-publishedDateTime: 2022-12-03T18:35:00Z
-originalUrl: "https://electrek.co/2022/12/03/tesla-semi-no-word-equipped-autopilot-full-self-driving/"
-webUrl: "https://electrek.co/2022/12/03/tesla-semi-no-word-equipped-autopilot-full-self-driving/"
+title: "Tesla says it is adding radar in its cars next month amid self-driving suite concerns"
+excerpt: "Tesla told the FCC that it plans to market a new radar starting next month. The move raises even more concerns about self-driving concerns."
+publishedDateTime: 2022-12-07T02:25:00Z
+originalUrl: "https://electrek.co/2022/12/06/tesla-radar-car-next-month-self-driving-suite-concerns/"
+webUrl: "https://electrek.co/2022/12/06/tesla-radar-car-next-month-self-driving-suite-concerns/"
 type: article
-quality: 43
-heat: -1
-published: false
+quality: 62
+heat: 102
+published: true
 
 provider:
   name: Electrek
@@ -22,21 +22,22 @@ topics:
   - AI in Autos
   - AI
 
+images:
+  - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Autopilot-Radar-e1603395743425.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+    width: 1200
+    height: 628
+    isCached: true
+
 related:
-  - title: "Tesla says it is adding radar in its cars next month amid self-driving suite concerns"
-    excerpt: "Tesla told the FCC that it plans to market a new radar starting next month. The move raises even more concerns about self-driving concerns."
-    publishedDateTime: 2022-12-07T02:25:00Z
-    webUrl: "https://electrek.co/2022/12/06/tesla-radar-car-next-month-self-driving-suite-concerns/"
+  - title: "Tesla didn’t say a word about Tesla Semi being equipped with Autopilot/Self-Driving"
+    excerpt: "Tesla chose to not say a word about Tesla Semi being equipped with Autopilot/Self-Driving despite the truck being equipped with the hardware."
+    publishedDateTime: 2022-12-03T18:35:00Z
+    webUrl: "https://electrek.co/2022/12/03/tesla-semi-no-word-equipped-autopilot-full-self-driving/"
     type: article
     provider:
       name: Electrek
       domain: electrek.co
-    quality: 62
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Autopilot-Radar-e1603395743425.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
+    quality: 43
   - title: "Apple’s self-driving car delayed once again to 2026"
     excerpt: "According to a new report, Apple is scaling back its ambitious self-driving car, which is now scheduled to launch in 2026."
     publishedDateTime: 2022-12-06T19:33:00Z
@@ -65,6 +66,6 @@ related:
       domain: carbuzz.com
     quality: 0
 
-secured: "8e8AhPx7sOa1CGAVktCHfePDcl4EMzV8KUq9GOVBDe0aio987nsbGmkU5wBXIG8/iDOZfbYg6it5uSwqqctq5OwBxDrh/Lth4Yj1TZLwstOQOGfpPHx+2VHhs/OjdWPnOmoI5+9l0hB9a9zvq1O2EQVRyOtAhUvjiCcRMIzESOlX5IQBTu3PPyikebuHeX/10uYqBK1ZNYmo2DkyooJqhapnS5GrsB5AUkEGPT31FDEdkbO31odMMdnX1GX6LUcY+SfUcVII4Pec3XsrUoHwwx6TT2MjLtmX4MkPi6FhQ0maJwOEkxyFZCt6k3LtRLLO93s/sUrymtQJbR2bb1CFPRqk5T5mmA8SYy24Z+ev9nwF/ZV1C+ZR/u4ouiHk07QCnsgpJowYCUF1wB41vbf8fJgrYsQ9WQUmO3hz2yVJoI5vutvFV4K3ZvB5gWkVJHu9xU/BhG/LGH85bzAcmDMIO7WFVkzW4l9RfNSclHFMTeudFlbpd/wSH0vhjzoMd8Vi3CLDIfCggCfvXjFySsGkbA==;dwvtbe7IkV8faBln6FQ4Ww=="
+secured: "oZ/zjQgo33THJBoo9kRrFmMFTYJgZAe8E07/4NX/C1PeBbniDepY5Y0MB08qYtIlpva16j9MMf2CQpQQ8Sae2unKzpec2DAp+l1TqZIU8rPoSgNfJT5MHWUH3iTCmbrGYaI8E8+G8QCKhla/POiUYBMCoZvFevkDBppGDheqhI79SH+tg1ffvwQlqUh69OnDACLqekHs24Z08TMvUdHLOQt9yZAaTILAIDqa9FXrKZrmx7rjYeMm2d4YRu6nkv8TiB3yO59JiZwOPG0afdpM+e+aGRYSSNo8hfc9inryGYpsPWL3MLFalVJQk3dj1H4YAlHMR7NkluRwKCg7ePmGYvqoogQWIV/N8olqnFL6phc=;VXBGUpZu4uwtRohwfKK9PQ=="
 ---
 

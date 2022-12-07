@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-29-nvidia-ai-plays-minecraft-wins-machine-learning-conference-award.md",
+      "title": "Nvidia AI plays Minecraft, wins machine learning conference award",
+      "excerpt": "A paper describing MineDojo, Nvidia's generalist AI agent that can perform actions from written prompts in Minecraft, won an Outstanding Datasets and Benchmarks Paper Award at the 2022 NeurIPS (Neural Information Processing Systems) conference,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/11/nvidia-wins-award-for-ai-that-can-play-minecraft-on-command/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/11/nvidia-wins-award-for-ai-that-can-play-minecraft-on-command/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/mine_dojo_hero_2-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2022/11/nvidia-wins-award-for-ai-that-can-play-minecraft-on-command/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/nvidia-wins-award-for-ai-that-can-play-minecraft-on-command/amp/",
+      "publishedDateTime": "2022-11-28T14:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-11-29-how-ai-adoption-has-yet-to-reveal-its-real-potential.md",
       "title": "How AI adoption has yet to reveal its real potential",
       "excerpt": "New book, Power and Prediction, says the power of AI is evident now, but widespread AI adoption has yet to come.",
@@ -452,10 +504,10 @@
     {
       "path": "_news/2022-11-25-new-study-on-deep-learning-technology-for-improving-mri-image-quality-published-in-european-radiology.md",
       "title": "New study on deep learning technology for improving MRI image quality published in European Radiology",
-      "excerpt": "A recent study published in European Radiology demonstrated that SwiftMR, an AI-powered MRI reconstruction solution from AIRS Medical, successfully denoises 3D MR images and improves its image quality by using routine clinical scans only.",
+      "excerpt": "SwiftMR™, an AI-powered MRI reconstruction solution from AIRS Medical proved its performance for enhancing the image quality of 3D",
       "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/11/25/9719669.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/11/25/9719669.htm",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/new-study-on-deep-learning-technology-for-improving-mri-image-quality-published-in-european-radiology-1031937873",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/new-study-on-deep-learning-technology-for-improving-mri-image-quality-published-in-european-radiology-1031937873",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -465,12 +517,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-25T07:15:00-08:00",
+      "publishedDateTime": "2022-11-25T07:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1287,40 +1348,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-19-deep-learning-ai-is-getting-better-but-can-regular-users-pay.md",
-      "title": "Deep Learning & AI is getting better but can regular users pay?",
-      "excerpt": "In this article, we will look at the development of AI and the field of deep learning. Deep learning originated in the era of vacuum tube computers. In 1958, Frank Rosenblatt of Cornell University ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2022/11/19/deep-learning-ai-is-getting-better-but-can-regular-users-pay/",
-      "originalUrl": "https://www.gizchina.com/2022/11/19/deep-learning-ai-is-getting-better-but-can-regular-users-pay/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-18T16:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

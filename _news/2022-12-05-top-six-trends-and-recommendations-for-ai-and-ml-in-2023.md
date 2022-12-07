@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/top-six-
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/top-six-trends-and-recommendations-for-ai-and-ml-in-2023/"
 type: article
 quality: 64
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Forbes
@@ -21,6 +21,24 @@ provider:
 topics:
   - AI
   - Machine Learning
+
+related:
+  - title: "AHAI, the AI Based Multi Symptom Check and Therapy Recommendation Platform to be Released in the First Quarter of 2023"
+    excerpt: "LAS VEGAS, NV / ACCESSWIRE / / Alternative Health, Inc, the US based medical company announced that it will be releasing its evidence based diagnostic and recommendation platform to the public in the"
+    publishedDateTime: 2022-12-06T16:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/12/ac29979799/ahai-the-ai-based-multi-symptom-check-and-therapy-recommendation-platform-to-be-released-in-the-f"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29979799"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29979799"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 50
+    images:
+      - url: "https://www.accesswire.com/users/newswire/images/730462/kpvw3onlpimll72idprqlvo2pftwml3r1hdijq68xwcg9rmzcm.jpg"
+        width: 1600
+        height: 948
+        isCached: true
 
 secured: "7pDbASUnD9Qin9NlW0lAxawosnCF1r0XjEIaf9HtyhTaea5UmSPpCaZG1/YLwsmbCAti6/HwtNs9ecW2rcTgaQLSjaTv7u7j8j5O7aJi8ycX4Jlm/obckpfQ379CToCaTSk+EmFTfcnAhFbSLVLlZLNVoOCrCN6rHrzUr1TdtO5iI2lFNM8hSyAznRxBhKLXX5EcqedhFPUOgpdT1Ixl2oVEX6fKq5ROrXSF7vvQyspfPWgWKkBARvxxGMI02qkZsuZK2U4W7+qmQB8RLN+GlWUy1Us/yB2RDuuU3KyN1nw19uDx9dx3FsRkVOZ4Xy21KPML8Gqx2C4syh/E5Q5BppvgLlnS+msPaDfzH/ZbdubaVXInvPnvls2q/Qqb/prOxJ5iyxR3pSyyXSKZnAlYLNlk+N8eOq+Fm5zxFlacrCfgq+bBhuB7GH1CTiSk/+QJF5EFUymJDuk6E1oXFt7qlNDuIpqR+RuVpFr2z4L9LAcoq65L7fw7HWam5wyWPI2wNPj5muAUiX+H1WqWtK5BAg==;b+zRESoUCM5eoupeX06niw=="
 ---

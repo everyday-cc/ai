@@ -2,6 +2,161 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-12-02-we-will-see-a-completely-new-type-of-computer-says-ai-pioneer-geoff-hinton.md",
+      "title": "We will see a completely new type of computer, says AI pioneer Geoff Hinton",
+      "excerpt": "Analog computers marrying AI software closely to hardware will put GPT-3 in your toaster for $1 running on a few watts of power.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/we-will-see-a-completely-new-type-of-computer-says-ai-pioneer-geoff-hinton-mortal-computation/",
+      "originalUrl": "https://www.zdnet.com/article/we-will-see-a-completely-new-type-of-computer-says-ai-pioneer-geoff-hinton-mortal-computation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0a19bb566649fd8d18c2b36ca0198795889b9026/2022/12/01/ddffbe4b-cb5f-4c65-a47a-498fb4190ac2/geoff-hinton-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/we-will-see-a-completely-new-type-of-computer-says-ai-pioneer-geoff-hinton-mortal-computation/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/we-will-see-a-completely-new-type-of-computer-says-ai-pioneer-geoff-hinton-mortal-computation/",
+      "publishedDateTime": "2022-12-01T16:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-now-ai-can-outmaneuver-you-at-both-stratego-and-diplomacy.md",
+      "title": "Now AI can outmaneuver you at both Stratego and Diplomacy",
+      "excerpt": "Stratego and Diplomacy were human-dominated, but now AI has become table-flipping good at one and passably human at the other.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/12/01/now-ai-can-outmaneuver-you-at-both-stratego-and-diplomacy/",
+      "originalUrl": "https://techcrunch.com/2022/12/01/now-ai-can-outmaneuver-you-at-both-stratego-and-diplomacy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/12/deepmind-stratego-j.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/12/01/now-ai-can-outmaneuver-you-at-both-stratego-and-diplomacy/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/01/now-ai-can-outmaneuver-you-at-both-stratego-and-diplomacy/amp/",
+      "publishedDateTime": "2022-12-01T16:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-lensa-ai-climbs-the-app-store-charts-as-its-magic-avatars-go-viral.md",
+      "title": "Lensa AI climbs the App Store charts as its ‘magic avatars’ go viral",
+      "excerpt": "The current No. 1 App Store photo app, Lensa AI uses the Stable Diffusion deep learning model to generate artsy \"magic avatars\" for consumers.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/12/01/lensa-ai-climbs-the-app-store-charts-as-its-magic-avatars-go-viral/",
+      "originalUrl": "https://techcrunch.com/2022/12/01/lensa-ai-climbs-the-app-store-charts-as-its-magic-avatars-go-viral/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/12/lensa-ai-magic-avatar.jpg?resize=1200,730",
+          "width": 1200,
+          "height": 730,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/12/01/lensa-ai-climbs-the-app-store-charts-as-its-magic-avatars-go-viral/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/01/lensa-ai-climbs-the-app-store-charts-as-its-magic-avatars-go-viral/amp/",
+      "publishedDateTime": "2022-12-01T15:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-02-disneys-new-ai-can-make-your-favorite-actor-look-older-or-younger.md",
       "title": "Disney's New AI Can Make Your Favorite Actor Look Older or Younger",
       "excerpt": "The process overcomes the \"facial identity loss, poor resolution and unstable results\" that plague other methods, researchers say.",
@@ -1095,145 +1250,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-finch-computing-accelerates-its-natural-language-processing-capabilities.md",
-      "title": "Finch Computing Accelerates its Natural Language Processing Capabilities",
-      "excerpt": "LAS VEGAS, Nov. 30, 2022 /PRNewswire/ -- Finch Computing, developers of innovative natural language processing technology used throughout the Federal government and among financial firms ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/11/n29917271/finch-computing-accelerates-its-natural-language-processing-capabilities",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/n29917271/finch-computing-accelerates-its-natural-language-processing-capabilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
-          "width": 800,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29917271",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29917271",
-      "publishedDateTime": "2022-11-30T19:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-aws-unveils-machine-learning-ml-tools-for-data-science-in-the-cloud.md",
-      "title": "AWS unveils machine learning (ML) tools for data science in the cloud",
-      "excerpt": "Amazon Web Services (AWS) detailed parts of its AI/ML strategy and announced a dizzying lineup of feature updates and new services to help organizations to better use the cloud for data science.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/aws-unveils-machine-learning-ml-tools-for-data-science-in-the-cloud/",
-      "originalUrl": "https://venturebeat.com/ai/aws-unveils-machine-learning-ml-tools-for-data-science-in-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/11/reinvent1.jpg?w=1200&strip=all",
-          "width": 624,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/aws-unveils-machine-learning-ml-tools-for-data-science-in-the-cloud/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/aws-unveils-machine-learning-ml-tools-for-data-science-in-the-cloud/amp/",
-      "publishedDateTime": "2022-11-30T18:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-san-francisco-approves-killer-police-robots-time-to-arm-your-toasters-folks.md",
-      "title": "San Francisco approves killer police robots! Time to arm your toasters, folks.",
-      "excerpt": "I know when most think of modern-day policing, the first thing that comes to mind is: What’s another ... to use potentially lethal, remote-controlled robots in emergency situations,” according ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/columnist/2022/11/30/san-francisco-police-robots-kill-explosives-safety/10804684002/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/columnist/2022/11/30/san-francisco-police-robots-kill-explosives-safety/10804684002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2021/08/29/USATODAY/usatsports/imageForEntry34-Rsf.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T16:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

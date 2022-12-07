@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-statistics-2023-industry-demand-prominent-players-strategies-size-swot-analysis-and-forecast-2028-2022-12-02"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Platform Market Share, Size, Growth, Key Vendors, Trends, Analysis, Segmentation, Forecast To 2021-2030"
-    excerpt: "The global Artificial Intelligence Platform market report provides geographic analysis covering regions, such as"
-    publishedDateTime: 2022-12-02T09:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-share-size-growth-key-vendors-trends-analysis-segmentation-forecast-to-2021-2030-2022-12-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Iris Recognition Devices Market 2023 Company Overview, Industry Top Manufacturers, Size, Industry Share, Growth Analysis and Forecast to 2028"
     excerpt: "The iris recognition device is a device that performs identity recognition based on the iris in the eye. Used in security equipment (such as access control, etc.), and places with high confidentiality requirements."
     publishedDateTime: 2022-12-06T04:04:00Z

@@ -73,24 +73,6 @@ related:
         width: 1200
         height: 646
         isCached: true
-  - title: "Apple’s self-driving car delayed once again to 2026"
-    excerpt: "According to a new report, Apple is scaling back its ambitious self-driving car, which is now scheduled to launch in 2026."
-    publishedDateTime: 2022-12-06T19:33:00Z
-    webUrl: "https://bgr.com/tech/apples-self-driving-car-delayed-once-again-to-2026/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 19
-  - title: "Apple Scales Back Self-Driving Car, Delays Debut Until 2026"
-    excerpt: "Apple Inc. has scaled back ambitious self-driving plans for its future electric vehicle and postponed the car’s target launch date by about a year to 2026, according to people with knowledge of the matter."
-    publishedDateTime: 2022-12-06T18:22:00Z
-    webUrl: "https://www.ttnews.com/articles/apple-scales-back-self-driving-car-delays-debut-until-2026"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 4
   - title: "Apple's self-driving car reportedly won't be - and it'll be late too"
     excerpt: "Apple's rumoured autonomous car isn't going to be quite as capable as we'd been told to expect according to a new report that says it'll be late, too."
     publishedDateTime: 2022-12-06T20:18:00Z

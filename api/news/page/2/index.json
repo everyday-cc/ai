@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-12-06-the-newest-nfl-star-could-be-a-data-scientist-using-ml-and-ai-to-keep-players-safe.md",
+      "title": "The newest NFL star could be a data scientist: Using ML and AI to keep players safe",
+      "excerpt": "In an innovative partnership between the NFL and AWS, data scientists on Kaggle are being commissioned to identify player contact, incentivized by a $50,000 prize.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/heres-how-data-scientists-are-keeping-nfl-stars-safe-using-ai-and-ml/",
+      "originalUrl": "https://www.zdnet.com/article/heres-how-data-scientists-are-keeping-nfl-stars-safe-using-ai-and-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/7b8eab768146a43a8ec7235e8116f15e0f9dfc84/2022/12/05/ad61d4d4-9461-4f68-b1fa-8623791362e4/digitalath2.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/heres-how-data-scientists-are-keeping-nfl-stars-safe-using-ai-and-ml/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/heres-how-data-scientists-are-keeping-nfl-stars-safe-using-ai-and-ml/",
+      "publishedDateTime": "2022-12-05T15:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-ai-can-predict-heart-attack-or-stroke-death-risk-from-an-x-ray.md",
       "title": "AI Can Predict Heart Attack or Stroke Death Risk From an X-Ray",
       "excerpt": "A new study by researchers at Massachusetts General Hospital and the AI in Medicine program at the Brigham and Women’s Hospital in Boston demonstrates how an AI deep learning model can predict the 10-year risk of death from stroke or a heart attack from a single chest X-ray.",
@@ -672,6 +724,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-05-top-six-trends-and-recommendations-for-ai-and-ml-in-2023.md",
+      "title": "Top Six Trends (And Recommendations) For AI And ML In 2023",
+      "excerpt": "Manasi Vartak is founder and CEO of Verta, a Palo Alto-based provider of solutions for Operational AI and ML Model Management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/top-six-trends-and-recommendations-for-ai-and-ml-in-2023/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/top-six-trends-and-recommendations-for-ai-and-ml-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-12-05-world-cup-2022-can-you-outguess-our-ai-predictor-robot.md",
       "title": "World Cup 2022: Can you outguess our AI predictor robot?",
       "excerpt": "Al Jazeera’s AI robot has made up for a shaky start and has correctly predicted the outcome of all four knockout games.",
@@ -981,6 +1076,58 @@
       ]
     },
     {
+      "path": "_news/2022-12-05-why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right.md",
+      "title": "Why you need an organizational AI ethics committee to do AI right",
+      "excerpt": "How forming an AI ethics committee will educate and engage your teams and customers about ethical dilemmas artificial intelligence can raise.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/",
+      "originalUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-875599880-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/amp/",
+      "publishedDateTime": "2022-12-04T09:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-04-3-ways-emotion-ai-elevates-the-customer-experience.md",
       "title": "3 ways emotion AI elevates the customer experience",
       "excerpt": "Emotion AI can boost employees' emotional intelligence and provide real-time support to create better customer experiences.",
@@ -1028,161 +1175,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-03-dataai-mobile-gaming-starts-to-wane-after-pandemic-spike.md",
-      "title": "Data.ai: Mobile gaming starts to wane after pandemic spike",
-      "excerpt": "Data.ai's latest report shows that mobile games are declining, but the numbers are still higher than they were pre-pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/data-ai-mobile-gaming-starts-to-wane-after-pandemic-spike/",
-      "originalUrl": "https://venturebeat.com/games/data-ai-mobile-gaming-starts-to-wane-after-pandemic-spike/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/12/Screen-Shot-2022-12-01-at-9.22.12-AM.png?w=1200&strip=all",
-          "width": 880,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/data-ai-mobile-gaming-starts-to-wane-after-pandemic-spike/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/data-ai-mobile-gaming-starts-to-wane-after-pandemic-spike/amp/",
-      "publishedDateTime": "2022-12-02T16:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-03-apple-slices-its-ai-image-synthesis-times-in-half-with-new-stable-diffusion-fix.md",
-      "title": "Apple slices its AI image synthesis times in half with new Stable Diffusion fix",
-      "excerpt": "On Wednesday, Apple released optimizations that allow the Stable Diffusion AI image generator to run on Apple Silicon ... SD optimizations can generate a 512×512 50-step image on an M1 chip in 35 seconds. An M2 does the task in 23 seconds, and Apple's ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/12/apple-slices-its-ai-image-synthesis-times-in-half-with-new-stable-diffusion-fix/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/12/apple-slices-its-ai-image-synthesis-times-in-half-with-new-stable-diffusion-fix/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/apple_stable_diffusion_hero_1-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2022/12/apple-slices-its-ai-image-synthesis-times-in-half-with-new-stable-diffusion-fix/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/12/apple-slices-its-ai-image-synthesis-times-in-half-with-new-stable-diffusion-fix/amp/",
-      "publishedDateTime": "2022-12-02T14:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-03-how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent.md",
-      "title": "How BMW Group has embraced AI for positive use cases and to improve sustainability | AWS re:Invent",
-      "excerpt": "Among the most exciting use cases is for fully autonomous vehicles, but that’s not the only area where AI is having an impact. For example, Microsoft and Mercedes-Benz are working together to improve automobile production efficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent/",
-      "originalUrl": "https://venturebeat.com/ai/how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/12/VB_BMW_AWS_reinvent_120223.png?w=1200&strip=all",
-          "width": 837,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent/amp/",
-      "publishedDateTime": "2022-12-02T14:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

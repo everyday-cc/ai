@@ -2,6 +2,145 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-12-01-finch-computing-accelerates-its-natural-language-processing-capabilities.md",
+      "title": "Finch Computing Accelerates its Natural Language Processing Capabilities",
+      "excerpt": "LAS VEGAS, Nov. 30, 2022 /PRNewswire/ -- Finch Computing, developers of innovative natural language processing technology used throughout the Federal government and among financial firms ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/n29917271/finch-computing-accelerates-its-natural-language-processing-capabilities",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/n29917271/finch-computing-accelerates-its-natural-language-processing-capabilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
+          "width": 800,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29917271",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29917271",
+      "publishedDateTime": "2022-11-30T19:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-aws-unveils-machine-learning-ml-tools-for-data-science-in-the-cloud.md",
+      "title": "AWS unveils machine learning (ML) tools for data science in the cloud",
+      "excerpt": "Amazon Web Services (AWS) detailed parts of its AI/ML strategy and announced a dizzying lineup of feature updates and new services to help organizations to better use the cloud for data science.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/aws-unveils-machine-learning-ml-tools-for-data-science-in-the-cloud/",
+      "originalUrl": "https://venturebeat.com/ai/aws-unveils-machine-learning-ml-tools-for-data-science-in-the-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/11/reinvent1.jpg?w=1200&strip=all",
+          "width": 624,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/aws-unveils-machine-learning-ml-tools-for-data-science-in-the-cloud/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/aws-unveils-machine-learning-ml-tools-for-data-science-in-the-cloud/amp/",
+      "publishedDateTime": "2022-11-30T18:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-san-francisco-approves-killer-police-robots-time-to-arm-your-toasters-folks.md",
+      "title": "San Francisco approves killer police robots! Time to arm your toasters, folks.",
+      "excerpt": "I know when most think of modern-day policing, the first thing that comes to mind is: What’s another ... to use potentially lethal, remote-controlled robots in emergency situations,” according ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/opinion/columnist/2022/11/30/san-francisco-police-robots-kill-explosives-safety/10804684002/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/columnist/2022/11/30/san-francisco-police-robots-kill-explosives-safety/10804684002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2021/08/29/USATODAY/usatsports/imageForEntry34-Rsf.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T16:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-stability-ai-doubles-down-on-aws.md",
       "title": "Stability AI doubles down on AWS",
       "excerpt": "Generative AI startups Stability AI today announced that AWS is now its preferred cloud partner for building and deploying its models.",
@@ -477,24 +616,33 @@
     {
       "path": "_news/2022-12-01-aws-announces-eight-new-amazon-sagemaker-capabilities.md",
       "title": "AWS Announces Eight New Amazon SageMaker Capabilities",
-      "excerpt": "Developers, data scientists, and business analysts use Amazon SageMaker to build, train, and deploy ML models quickly and easily using its fully managed infrastructure, tools, and workflows. As customers continue to innovate using ML, they are creating ...",
+      "excerpt": "At AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced eight new capabilities for Amazon SageMaker, its end-to-end machine learning (ML ...",
       "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2022/11/30/aws-announces-eight-new-amazon-sagemaker-capabilities",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2022/11/30/aws-announces-eight-new-amazon-sagemaker-capabilities",
+      "webUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-eight-new-amazon-sagemaker-capabilities/article_fe16b955-2c7f-5b55-b556-bd4a4f9351ea.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-eight-new-amazon-sagemaker-capabilities/article_fe16b955-2c7f-5b55-b556-bd4a4f9351ea.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg",
+          "width": 350,
+          "height": 455,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T11:22:00-08:00",
+      "publishedDateTime": "2022-11-30T11:28:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1007,161 +1155,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-four-ways-companies-can-use-data-and-ai-to-set-meet-and-beat-their-esg-goals.md",
-      "title": "Four Ways Companies Can Use Data And AI To Set, Meet And Beat Their ESG Goals",
-      "excerpt": "Consumer interest in sustainable and socially-conscious purchases appears to be intensifying despite global economic woes like inflation. Today, more than 75% of younger shoppers consider ESG issues when making purchase decisions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kyndryl/2022/11/30/four-ways-companies-can-use-data-and-ai-to-set-meet-and-beat-their-esg-goals/",
-      "originalUrl": "https://www.forbes.com/sites/kyndryl/2022/11/30/four-ways-companies-can-use-data-and-ai-to-set-meet-and-beat-their-esg-goals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63876f2f0477a8afa6db977c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kyndryl/2022/11/30/four-ways-companies-can-use-data-and-ai-to-set-meet-and-beat-their-esg-goals/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kyndryl/2022/11/30/four-ways-companies-can-use-data-and-ai-to-set-meet-and-beat-their-esg-goals/amp/",
-      "publishedDateTime": "2022-11-30T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-neuralink-brain-chip-show-and-tell-update-how-to-watch-live.md",
-      "title": "Neuralink Brain Chip 'Show and Tell' Update: How to Watch Live",
-      "excerpt": "Maybe we'll see technology to type just by using your brain at Wednesday's update from the brain-implant startup co-founded by Elon Musk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/science/neuralink-brain-chip-show-and-tell-update-how-to-watch-live/",
-      "originalUrl": "https://www.cnet.com/science/neuralink-brain-chip-show-and-tell-update-how-to-watch-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/921e77c305dcb5b06fa9d09920c41e2fd4cefa40/hub/2022/11/28/a6afbd83-599a-42bf-b791-203f396668a0/neuralink-getty-images.jpg?auto=webp",
-          "width": 3543,
-          "height": 2362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/neuralink-brain-chip-show-and-tell-update-how-to-watch-live/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/neuralink-brain-chip-show-and-tell-update-how-to-watch-live/",
-      "publishedDateTime": "2022-11-30T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-honda-plans-new-autonomous-features-but-sees-long-road-ahead-to-self-driving-cars.md",
-      "title": "Honda Plans New Autonomous Features but Sees Long Road Ahead to Self-Driving Cars",
-      "excerpt": "The auto maker said it would focus for now on partially autonomous driving technology to improve safety, joining others that say fully self-driving cars aren’t ready for prime time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/honda-plans-new-autonomous-features-but-sees-long-road-ahead-to-self-driving-cars-11669820402",
-      "originalUrl": "https://www.wsj.com/articles/honda-plans-new-autonomous-features-but-sees-long-road-ahead-to-self-driving-cars-11669820402",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-676004/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T06:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

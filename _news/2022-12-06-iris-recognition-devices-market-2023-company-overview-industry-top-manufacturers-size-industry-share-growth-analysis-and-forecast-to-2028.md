@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Platform Market Share, Size, Growth, Key Vendors, Trends, Analysis, Segmentation, Forecast To 2021-2030"
-    excerpt: "The global Artificial Intelligence Platform market report provides geographic analysis covering regions, such as"
-    publishedDateTime: 2022-12-02T09:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-share-size-growth-key-vendors-trends-analysis-segmentation-forecast-to-2021-2030-2022-12-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in IoT Market Statistics 2023 : Industry Demand, Prominent Players Strategies, Size, SWOT Analysis and Forecast 2028"
     excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence in IoT Market will have significant change from previous year. By the most conservati"
     publishedDateTime: 2022-12-02T11:25:00Z

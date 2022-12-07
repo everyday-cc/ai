@@ -20,17 +20,6 @@ topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "Audi's Project Artemis Self-Driving Plan Could Be Scrapped As Soon As This Month"
-    excerpt: "Audi's autonomous driving project will likely be laid to rest this month so that the automaker can focus on other software developments. Instead of devoting too many resources to the self-driving dream, Blume is expected to announce a new roadmap for the ..."
-    publishedDateTime: 2022-12-06T13:32:00Z
-    webUrl: "https://carbuzz.com/news/audis-project-artemis-self-driving-plan-could-be-scrapped-as-soon-as-this-month"
-    type: article
-    provider:
-      name: https//carbuzz
-      domain: carbuzz.com
-    quality: 0
-
 secured: "4NGNkXN+rxAZScvtUfHSGkCnYjIIG79ghZ6jwXr6mwP+0HeBKBdkLNIq8lnp0l4Nd+JBDnvRsxMDUm+/pP2qm2noe5wPbkpiYK78C7zfCecEV+hdTovLnrXdTfe6i3sWUpPUSVXS+eLu1/Y0c4ZmKtgRPe7EOZPXBULv6K8o/dgvcis5qnP2IvKdz4XnVAg+wOOIj4B04QTJIyGHhy3DjAPkme48xw4nfz3lExlqV70E7dotmKxe56e6w2fPzs7MuU+JhcMxrl9gdOhKyDfrCGJt4kGDEL30FLeHLK5w/crc9VMfz2yZs0tDJnregg04IjFKWTZ3tp7YxR51hC+We6W9mBUikha2Q7IFLAnnC2Qs1cIXj014Xz6JWdcVZX9TnFA8wdyDpsRRrHbxqwI/CQxh2LguSRZJCVY7ZxAtGVyfIOMKpefyjQ3CowofAb1Ia8+1y+UicAeTmbBr6w3o+34od/S17p4me9+AC7YfH1NsRdaLvupaaTLMjLTfWU52/dAoaly6G0/GmaoH7I4f+Q==;Ku22jNGCXcyrRvc7Kj9enQ=="
 ---
 

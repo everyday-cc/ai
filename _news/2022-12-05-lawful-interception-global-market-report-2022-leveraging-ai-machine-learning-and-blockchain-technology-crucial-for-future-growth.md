@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Global Investor, Latest Trends, Industry Growth, Size, Segmentation, Future Demands, by Regional Forecast to 2028"
-    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations"
-    publishedDateTime: 2022-12-02T09:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-investor-latest-trends-industry-growth-size-segmentation-future-demands-by-regional-forecast-to-2028-2022-12-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI in Mental Health Global Market Report 2022: Ever-Surging Prevalence of Mental Health Issues Worldwide Drives Growth"
     excerpt: "Global Market Outlook\" report has been added to ResearchAndMarkets.com's offering. The rise of digital approaches to mental health has led to the development of predictions, detections, and treatment solutions based on artificial intelligence (AI) and machine learning (ML)."
     publishedDateTime: 2022-12-06T17:37:00Z
