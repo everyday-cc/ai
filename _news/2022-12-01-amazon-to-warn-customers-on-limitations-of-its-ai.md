@@ -1,28 +1,24 @@
 ---
 category: news
-title: "Amazon To Warn Customers On Limitations Of Its AI"
-excerpt: "Amazon chose software touching on sensitive demographic issues as a start for its service cards, which Kearns expects to grow in detail over time. One such service is called \"Rekognition.\""
-publishedDateTime: 2022-11-30T17:10:00Z
-originalUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985"
-webUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985"
-ampWebUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1"
+title: "Amazon to warn customers on limitations of its AI"
+excerpt: "The cards would address AI ethics concerns publicly at a time when tech regulation was on the horizon, said Kearns. \"The biggest thing about this launch is the commitment to do this on an ongoing ..."
+publishedDateTime: 2022-11-30T21:44:00Z
+originalUrl: "https://www.reuters.com/technology/amazon-warn-customers-limitations-its-ai-2022-11-30/"
+webUrl: "https://www.reuters.com/technology/amazon-warn-customers-limitations-its-ai-2022-11-30/"
 type: article
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AWS AI
+  - AI Ethics
   - AI
 
-images:
-  - url: "https://d.ibtimes.com/en/full/4389003/amazon-logo-company-logistics-center-lauwin-planque.jpg"
-    width: 1200
-    height: 800
-    isCached: true
-
-secured: "hX4xZdbEL/iQrblTdKitZS210M2tAT29qQdcyvxYj1URpWA7cZYlhq7ubPgrZCvX35PYlJLjHZzqLjTEvaPRr/OCaYR/BKV8O+PJuKj0ge34nHRiLWpN+3se+uOxJmPc4uCtKz4t8b15skXqnDy/DHoBWWbRQ0hciJ51QmU2arS44kBevULiECs/jdnCFKS7XdvJXUX45hSZ4GkU8BFsS2qWDEijAl17zVNh3tm4oJPBGafVqCXmvNg7rpT0CZZlJ57URIjgS/LjR39v2LFb8fu1aXGUR3mCisKehWRlxGSh9igJySFbE7k0Q2ECQEh9mY0YpXM0EDMKDoWppkrQI+jH+bW1EswpEuHUwgqDnzw=;TFW/+rxUV14rEZMFe7xptA=="
+secured: "07HO1BzudY0O42qMEJTCyjVn+Q/glMbq+aTmK6PYYeJR19j26yFD/POsRQl+I5C90zNVKO+gvurIQbk2oTXNKbQtXCcKZrfcwBMh8R9i6OpOuDdV+qre3AS0g5RC7TUOn8FdxwAMGCgBGHiG/qbodOQNK19bQmDB0YTkLzrWrWAcuEp7p6ogKKp8dOQDIj1ARwwVJzqBLemLl2INVo6cdRrlDVP722FfyDoXe/h/j8rkM9VyNV0/cwHgmJc1xHxRDtj6+i0Wm0D6LXXIgD+y9jxYHib0XTYeKqhh7hbjNC9fUDlGzgIQPe3+oPtUaTg0JM4p2jUMM+/mmI/hTAENopggLlRbBzeSDmv7sEwC7so=;laTtw2b8osRBsTjatN6FNw=="
 ---
 

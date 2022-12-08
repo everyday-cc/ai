@@ -3,14 +3,9 @@ category: news
 title: "Leased Robots Roll in to Help Logistics Firms Handle Holiday Crush"
 excerpt: "More firms are opting to lease robots to meet demand surges amid a labor shortage."
 publishedDateTime: 2022-12-06T17:21:00Z
-originalUrl: "https://www.wsj.com/articles/leased-robots-roll-in-to-help-logistics-firms-handle-holiday-crush-11670350896?mod=newsviewer_click"
-webUrl: "https://www.wsj.com/articles/leased-robots-roll-in-to-help-logistics-firms-handle-holiday-crush-11670350896?mod=newsviewer_click"
-ampWebUrl: "https://www.wsj.com/amp/articles/leased-robots-roll-in-to-help-logistics-firms-handle-holiday-crush-11670350896"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/leased-robots-roll-in-to-help-logistics-firms-handle-holiday-crush-11670350896"
+originalUrl: "https://www.wsj.com/articles/leased-robots-roll-in-to-help-logistics-firms-handle-holiday-crush-11670350896"
+webUrl: "https://www.wsj.com/articles/leased-robots-roll-in-to-help-logistics-firms-handle-holiday-crush-11670350896"
 type: article
-quality: 89
-heat: 89
-published: true
 
 provider:
   name: Wall Street Journal
@@ -24,12 +19,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://images.wsj.net/im-679961/social"
-    width: 1280
-    height: 640
-    isCached: true
-
-secured: "aV9RsBN8ty1FFH90M7xJoPQd9eGs8CqRvMZKl29IJsrASG/Pf6Ms0bWtYmAZPMzPUkh57eZHDmy3snl2HiwGWzipQMdDgIujJ5UUeFTY+LoxFlVu5SEL9awIuHBN5JczMzbx3q5yTJ8QPrEa5OlBNH9IhKC4s3bJOGABMK1TsQnM1O5McNnqSOz2JYp+4VE3eMUfhc/iJYC4Jy8JodQdEa69V4gf4uIz5KJEtgaT/qu6QVHOxKEKdCzVepPHQrJwt+e2nKnnEgne7CK012rYdWdgrBWktd8lRRtpZRDs/tZCZX+tl9f8NirQ5QPcEil17j00D5UWjvtrVxfUzWlFJpgb7H5SJsCHge/vUa1Sk90=;YZJALRLJ41LPNPMs3IzhtA=="
+secured: "oTGUX2IEESqmmrhyLiVRybdEqm+rdbwVRVZkf5IvwvvsvxJeWKm/exsaNbFIIUVEIA290yqXbaVoZ7RQK74k9nuR1/TKjrfiok6glbx8sC6WuT0zgVXmCauutAc2grrTTGe23uNjZNxwWI13v2lDYc4mWOEAMNuzphCceHvbZ2AVA7pHg+lVH2B5fQlYEDPMsDfW60KGFTOYC7nvnhULdykQLpDtrHNZg/SKoJhkcRj7X0IH9iH/nijQgIrGvT9BsrHPKzVa9Au66pTDqcNnd61uBjb0ivpw70Kf1PETrhM1rxUdLXNOKZaZ9zOqE6USg69j/IOQpEdq1Jpl5i9zgSiDipqp+1cuzCOUIuEdrw3zKF7Gywf4HQ3/orsXSbh0oQWbhYf05l2gpNkKMafxTrgKMwoeN9+2Uy3gP+PlwHe1m2xlVymwNdXfE2OrcGMpOgEM0cEba7krrJnmdybMnfjCEXAvYTCBIerp/Mmy2EAzYy/AzqNc+uM1C9VrPsLsKfcS7An2RotQkReUdiS5Ag==;AM9SfykgtF5SfxKZvqN4zA=="
 ---
 
