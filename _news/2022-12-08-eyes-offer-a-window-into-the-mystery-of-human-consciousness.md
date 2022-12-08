@@ -1,40 +1,20 @@
 ---
 category: news
 title: "Eyes offer a window into the mystery of human consciousness"
-excerpt: "A Yale study describes how our brains are capable of sorting through an avalanche of external stimuli to shape a sense of our surroundings."
-publishedDateTime: 2022-12-07T22:38:00Z
-originalUrl: "https://news.yale.edu/2022/12/07/eyes-offer-window-mystery-human-consciousness"
-webUrl: "https://news.yale.edu/2022/12/07/eyes-offer-window-mystery-human-consciousness"
+excerpt: "\"It's what makes us human and makes life worthwhile,\" said Blumenfeld, now the Mark Loughridge and Michele Williams Professor of Neurology at Yale. \"And it's still a mystery of mo"
+publishedDateTime: 2022-12-08T14:45:00Z
+originalUrl: "https://medicalxpress.com/news/2022-12-eyes-window-mystery-human-consciousness.html"
+webUrl: "https://medicalxpress.com/news/2022-12-eyes-window-mystery-human-consciousness.html"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
-  name: Yale Environment 360
-  domain: yale.edu
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://news.yale.edu/sites/default/files/styles/opengraph_image/public/ynews-eyes-consciousness.jpg?itok=_Bf6ZhvN"
-    width: 766
-    height: 402
-    isCached: true
-
-related:
-  - title: "Eyes open a window into the mystery of human consciousness"
-    excerpt: "A Yale study describes how our brains are capable of sorting through an avalanche of external stimuli to shape the sense of our surroundings."
-    publishedDateTime: 2022-12-07T20:03:00Z
-    webUrl: "https://news.yale.edu/2022/12/07/eyes-open-window-mystery-human-consciousness"
-    type: article
-    provider:
-      name: Yale Environment 360
-      domain: yale.edu
-    quality: 4
-
-secured: "5kLy27h6ZRSQR2jkOMjxfL5hTTM97hnv7/5aTM94CYkPpmaqkZVTB9CrbozUYv1p0+NFYumuKFwzqZ3sowkFK1BxpWU+eMgn3PBlQkerE43Br8GDVWkYb3t1Z5jSPBM99VGQgpsfT27JZsTgxB6hnkg5M/Gie06R9yuqwsueXA63ofsYNGFuaVbWp19ZuUYeT5aSNrsWCNaLpBloos528Qj8Y7jpwvPsrEwc0KK69Jf3oh508GZLGFxTp4FldizWmTJu1i2ZqxCKFR/+C8lndAYlAM5wXiYDvGAPx9Iyfl4OZtO+nNCOEofPMkXFYoAvYOVXa8MAe2p/Gc+VwUlCqPDY/+ICbTM+RlWIw1JiQ99mpHm0oDPbDr/scTvS0Qfd0wsZqdrsh+jsu4a8aLcA6vHNd2Ln2QWZYA4zzJkdRj3yJCXMRGjIpbCc16YV2G5aL7QrzkRVg/09+AKNEPV1jcHxeBlTJiqZXkRzkMatru4LPOJ84199F3DawGk2HkpZ1ZK3UnFU6h5lsbvbDaMH4Q==;HVj5r/zl6WPl5HQdFYDXmg=="
+secured: "S1eW0ffgxqyCwo4VbnmeVXPa9cvnRvdp1EpLzFm80JYMiXNu87jg22YxlSvzOaPyvZi4UY4DazbsxHGU3LynYaTWIwhSXi+PtAIeq09zIyHaTZSSvJxwO/VavX9t9UBFBNkcmWhIeL2pqd8tzYxsTmLVHqBngv4o+63j717uTgaqGxVSbMSaNBqYrAZgJylu5VWesz9CJ6ncyw7qqK2uH1jTS81B1Kd+QiaowJZtuE62qHNqA5GA6OmmelmLHFDSbBB2IUtBGpKJRGgyW5EEjBOkOd1SiofThlXc+byLonAkIPZaB+2OB6Gsyspqc2Ut7o1hGxuMizkT2r7/SSkQj57LAP2UZEh0jeKkJ2uQnu1CCM+AGkqmYFvB1DWMqWvNLnWIJw8a2hycpzR8F+UJ3mETnMiSWXBeKi6q6wGkyPCUKMMR/RkLfNuHEVBK/ANs1fBAMC6kQ1BNVASfarVDbTWrW9svAwVNSU1q+Mkwu2w0o7ED+R0XdsDuzodCqoJGIHjBEyLAYlDCwSXvXIYA3Q==;f/kuDNR+ghQ5ajd4bQoRtQ=="
 ---
 
