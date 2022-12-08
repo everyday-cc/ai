@@ -1,0 +1,72 @@
+---
+category: news
+title: "Victory Over Killer Robots as San Francisco Agrees to Ban Them—For Now"
+excerpt: "San Francisco and the greater Bay Area rallied to tell the Board that this policy was unacceptable. That rallying cry was so loud and undeniable that it was impossible for the Board, and the world, to ignore."
+publishedDateTime: 2022-12-08T13:52:00Z
+originalUrl: "https://www.commondreams.org/views/2022/12/08/victory-over-killer-robots-san-francisco-agrees-ban-them-now"
+webUrl: "https://www.commondreams.org/views/2022/12/08/victory-over-killer-robots-san-francisco-agrees-ban-them-now"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: Common Dreams
+  domain: commondreams.org
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2022-12/GettyImages-1031974234.jpg?h=67ae01d4&itok=GVCCXib1"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "San Francisco Backtracks on Plan to Allow Police Robots to Use Deadly Force"
+    excerpt: "Opponents of the proposed policy said it could lead to more police violence. The Police Department, however, said the policy would allow robots to use deadly force only in extreme situations."
+    publishedDateTime: 2022-12-07T03:46:00Z
+    webUrl: "https://www.nytimes.com/2022/12/06/us/police-robots-san-francisco.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 47
+  - title: "Self-Driving Taxis Are Causing All Kinds of Trouble in San Francisco"
+    excerpt: "In April, a Cruise vehicle blocked a travel lane needed by a siren-blaring fire engine, delaying its arrival at a three-alarm fire. Last fall, dozens of self-driving cars from Google’s Waymo subsidiary drove daily into a quiet cul-de-sac before turning around,"
+    publishedDateTime: 2022-12-08T16:44:00Z
+    webUrl: "https://slate.com/technology/2022/12/san-francisco-waymo-cruise-self-driving-cars-robotaxis.html"
+    type: article
+    provider:
+      name: Slate
+      domain: slate.com
+    quality: 24
+    images:
+      - url: "https://compote.slate.com/images/8a6b67b9-3dd0-4cc2-9936-feb46a6bcaae.jpeg?crop=5099%2C3399%2Cx8%2Cy0&width=1560"
+        width: 1560
+        height: 1040
+        isCached: true
+  - title: "San Francisco Bans Police 'Killer Robots' after Backlash—for Now"
+    excerpt: "San Francisco's Board of Supervisors reversed course and voted to explicitly prohibit police from using remote-controlled robots with lethal force after a swell of public outcry."
+    publishedDateTime: 2022-12-07T13:01:00Z
+    webUrl: "https://www.officer.com/tactical/swat/robotic-equipment/video/21289218/san-francisco-bans-police-killer-robots-for-now"
+    type: article
+    provider:
+      name: Officer
+      domain: officer.com
+    quality: 19
+  - title: "San Francisco Rolls Back Its Plan for Killer Robots"
+    excerpt: "After an uproar, the city board voted to rescind last week's bill to allow police to use robots to deliver deadly force. The fight isn't over, but there's a good reason it should be."
+    publishedDateTime: 2022-12-07T14:52:00Z
+    webUrl: "https://www.darkreading.com/edge-articles/san-francisco-rolls-back-its-plan-for-killer-robots"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 19
+
+secured: "ZcHMAMLtaBTCU+NPFS7P186D/xm2NvayHXzIirCKXSATh6ph/1+C9t0442ffVh5drfanv1/ODdYhpjGlYPbQHoLsR5p1myVydDl9sGGxq/Cbaq+rRInnsrQfOO2oJ8Lb3MAcmMkQan/hVqIFWVO/6XLGWg973q1Ft4EA4zzgRLb0Ywz+JYYGYie7EyFYCIxQF4LC4B4Vp4BC7e4tF1nxFnlmAwO26aQ2lj8d+AjI0q6GXxQkl9WpyqqNsATqHngKMzauzEREQu1IFL5uRXx8sKmwtS1VMQHcOrYJVBTW+0pni3kEPTvGbI4kowBrCq6q4OrhBfvY5hA7D3Fkkfo7hgJQ1fX4HLc/J9Y0UAnTSNI=;cpAM41RIrytQf7Sgi/U8+w=="
+---
+

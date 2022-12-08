@@ -40,6 +40,15 @@ related:
         width: 1550
         height: 772
         isCached: true
+  - title: "AI21 Jurassic-1 Foundation Model Now Available on Amazon SageMaker"
+    excerpt: "AI21 Labs, an Israeli startup aiming to fundamentally change the way people read and write using Generative AI, announced today that its Jurassic-1 Foundation Model used to power chatbots, answer questions,"
+    publishedDateTime: 2022-12-08T16:54:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/12/08/9727397.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
   - title: "Foursquare to Power Geospatial Data Visualization in Amazon SageMaker"
     excerpt: "Foursquare capability in Amazon SageMaker allows customers to easily visualize planetary-scale geospatial data for machine learning Foursquare, the leading independent location technology company, exc"
     publishedDateTime: 2022-12-05T17:00:00Z

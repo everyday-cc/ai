@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Platform Market in 2023: with Top Countries Data, Industry Insights by Top Key Players, Types and Applications"
+    excerpt: "Global “Artificial Intelligence Platform Market” 2023 Research report is an in-depth study of the market Analysis."
+    publishedDateTime: 2022-12-08T06:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-in-2023-with-top-countries-data-industry-insights-by-top-key-players-types-and-applications-2022-12-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cold Working Die Steel Market Industry Analysis, CAGR Value, Business Strategy, Growth drivers, competitive landscape, Forecast by 2029"
     excerpt: "Global “ Cold Working Die Steel Market ” 2022 Research report is an in-depth study of the market Analysis. Industry growth drivers, supply and demand, risks, market attractiveness, annual growth comparison,"
     publishedDateTime: 2022-12-07T08:38:00Z

@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia and Deutsche Bank collaborate on AI-powered financial services"
+    excerpt: "Nvidia and Deutsche Bank announced a collaboration to offer customers artificial intelligence (AI)-based financial services The two companies have agreed"
+    publishedDateTime: 2022-12-08T14:36:00Z
+    webUrl: "https://www.techzine.eu/news/collaboration/96645/nvidia-and-deutsche-bank-collaborate-on-ai-powered-financial-services/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/01/Nvidia-1.png"
+        width: 1500
+        height: 800
+        isCached: true
   - title: "Nvidia and Deutsche Bank team up to deliver enhanced, AI-powered financial services"
     excerpt: "The two companies, which have been working on the partnership for the past 18 months, plan to develop a wide range of regulatory compliant AI-powered services. In addition, Deutsche Bank said working closely with Nvidia will enable it to accelerate its digital transformation efforts by using AI to simplify and accelerate decisions around cloud migration,"
     publishedDateTime: 2022-12-07T14:00:00Z
@@ -91,6 +105,15 @@ related:
         width: 399
         height: 399
         isCached: true
+  - title: "Deutsche Bank, NVIDIA to Embed AI into Financial Services"
+    excerpt: "Deutsche Bank, NVIDIA aim \"to accelerate the use of artificial intelligence (AI) and machine learning (ML) in the financial services sector.\""
+    publishedDateTime: 2022-12-08T12:11:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/12/199655-deutsche-bank-nvidia-to-embed-ai-into-financial-services/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 34
 
 secured: "mDe5x80zJZnoccRJ3u7w7mrCCFm0Bw0DKoION1P5MnGlgdNlp7AX5oOSSuTgedmbjnpSoiv4XSvntQGUrdS2Hj7yeA1ifsjZWNp+gemCfW79UyEM1Ng2BNRZFnAhqHM1VO5L+FKBFrKZGY5to4i26II8EmiGueNFiLFhv/rdzWU28bsvP4nDyR+oVWBU1MGhRsFxX0R1P9Yes14w1dF/kfm/kac5M5rmwZyPpYOL41IJYvRg89yVnr5cMr4B7/P8CvLVPNUf2qWWicAvv+Zhe4YckZm/taU6tSlG3oaPioHn+96+qNG0U7t9SQ9wW9R7RHsCY8sP/s8bAwF3/a5m+otLvNqMVVLsXHQYB+xpv7E=;eDh9VoUcXhYQAZGLODza2w=="
 ---

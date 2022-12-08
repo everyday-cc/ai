@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/randybean/2022/12/07/how-creative-artis
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/randybean/2022/12/07/how-creative-artists-agency-caa-is-employing-data-analytics-and-ai-to-shape-the-culture-of-our-times-and-inspire-the-world/amp/"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -81,6 +81,15 @@ related:
         width: 350
         height: 455
         isCached: true
+  - title: "New Opaque Systems platform offers advances in confidential AI and analytics"
+    excerpt: "Secure data analytics startup Opaque Systems Inc. today launched a new platform that includes what it says are the latest advancements in confidential artificial intelligence and analytics. The Opaque platform has been built to unlock use cases in confidential computing to enable data scientists to secure and perform collaborative analytics directly on this encrypted data."
+    publishedDateTime: 2022-12-08T14:00:00Z
+    webUrl: "https://siliconangle.com/2022/12/08/new-opaque-systems-platform-offers-advances-confidential-ai-analytics/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 14
   - title: "dotData Feature Factory Tech Adds Feature Discovery Capabilities to Azure Synapse Analytics"
     excerpt: "SAN MATEO, Calif., Dec. 7, 2022 -- dotData, a pioneer and leader of the feature discovery platform announced that its Feature Factory technology is now"
     publishedDateTime: 2022-12-07T17:39:00Z

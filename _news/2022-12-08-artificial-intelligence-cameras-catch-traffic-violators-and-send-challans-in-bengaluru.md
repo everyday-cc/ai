@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-08T14:40:00Z
 originalUrl: "https://indianexpress.com/article/cities/bangalore/artificial-intelligence-cameras-catch-traffic-violators-and-challans-bengaluru-8314181/"
 webUrl: "https://indianexpress.com/article/cities/bangalore/artificial-intelligence-cameras-catch-traffic-violators-and-challans-bengaluru-8314181/"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: The Indian Express

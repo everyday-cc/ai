@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-08T14:38:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/what-s-going-on-with-c3-ai-stock-1031960617"
 webUrl: "https://markets.businessinsider.com/news/stocks/what-s-going-on-with-c3-ai-stock-1031960617"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Business Insider

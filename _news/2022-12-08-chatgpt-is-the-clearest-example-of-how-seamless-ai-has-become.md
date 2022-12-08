@@ -121,6 +121,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Brilliance and Weirdness of ChatGPT"
+    excerpt: "ChatGPT is, quite simply, the best artificial intelligence chatbot ever released to the general public. It was built by OpenAI, the San Francisco A.I. company that is also responsible for tools like GPT-3 and DALL-E 2,"
+    publishedDateTime: 2022-12-05T23:35:00Z
+    webUrl: "https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html"
+    ampWebUrl: "https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.amp.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 74
+    images:
+      - url: "https://static01.nyt.com/images/2022/12/05/business/05roose-chatgpt/05roose-chatgpt-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "How AI That Powers Chatbots and Search Queries Could Discover New Drugs"
     excerpt: "Natural language processing algorithms like the ones used in Google searches and OpenAI’s ChatGPT promise to slash the time required to bring medications to market"
     publishedDateTime: 2022-12-07T14:59:00Z
@@ -132,6 +148,20 @@ related:
     quality: 67
     images:
       - url: "https://images.wsj.net/im-679549/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Can You Tell a Real Tweet From One Written By an AI Chatbot?"
+    excerpt: "Can You Tell a Real Tweet From One Written By an AI Chatbot?"
+    publishedDateTime: 2022-12-08T14:00:00Z
+    webUrl: "https://www.wsj.com/articles/chatgpt-twitter-quiz-ai-openai-11670511559"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-680711/social"
         width: 1280
         height: 640
         isCached: true
@@ -149,6 +179,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AI Chatbots Are Getting Better. But an Interview With ChatGPT Reveals Their Limits"
+    excerpt: "This summer, Google fired one of its engineers who had become convinced that one of its chatbots had reached sentience. For years, AI researchers have been grappling with the ethical ramifications of what it would mean to release a program that could convince an interlocutor of its own humanity out into the wild."
+    publishedDateTime: 2022-12-05T21:28:00Z
+    webUrl: "https://time.com/6238781/chatbot-chatgpt-ai-interview/"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: time.com
+    quality: 65
+    images:
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
+        isCached: true
   - title: "A new AI chatbot is getting buzz for being able to have intelligent-sounding conversations, write music, and even code"
     excerpt: "ChatGPT is an artificial intelligence chatbot that is trained to answer a wide range of questions about different topics in a conversational way."
     publishedDateTime: 2022-12-05T18:37:00Z
@@ -165,19 +209,19 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AI Chatbots Are Getting Better. But an Interview With ChatGPT Reveals Their Limits"
-    excerpt: "This summer, Google fired one of its engineers who had become convinced that one of its chatbots had reached sentience. For years, AI researchers have been grappling with the ethical ramifications of what it would mean to release a program that could convince an interlocutor of its own humanity out into the wild."
-    publishedDateTime: 2022-12-05T21:28:00Z
-    webUrl: "https://time.com/6238781/chatbot-chatgpt-ai-interview/"
+  - title: "ChatGPT proves AI is finally mainstream — and things are only going to get weirder"
+    excerpt: "He knows I write about AI and is the sort of guy who keeps up with whatever’s trending online. We chatted a bit, and I asked him: “and what do you think of ChatGPT?” To which he replied: “Well, I wrote a half-decent Excel macro with it this morning that saved me a few hours at work” — and my jaw dropped."
+    publishedDateTime: 2022-12-08T15:31:00Z
+    webUrl: "https://www.theverge.com/2022/12/8/23499728/ai-capability-accessibility-chatgpt-stable-diffusion-commercialization"
     type: article
     provider:
-      name: YAHOO!News
-      domain: time.com
-    quality: 63
+      name: The Verge
+      domain: theverge.com
+    quality: 61
     images:
-      - url: "https://time.com/img/icons/wallet-connect.png"
-        width: 256
-        height: 256
+      - url: "https://cdn.vox-cdn.com/thumbor/yNkf9v3sccBTTXEe8JonTcXyZfc=/0x0:2650x1767/1200x628/filters:focal(1325x884:1326x885)/cdn.vox-cdn.com/uploads/chorus_asset/file/24275829/CatherineBreslin_SiliconCloseup_2650x1767.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "As chatbot sophistication grows, AI debate intensifies"
     excerpt: "California start-up OpenAI has released a chatbot capable of answering a variety of questions, but its impressive performance has reopened the debate on the risks linked to artificial intelligence (AI) technologies."
@@ -314,6 +358,15 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
+  - title: "How These AI-Powered Chatbots Keep Getting Better"
+    excerpt: "This week on “Gadget Lab,” we discuss the advances in generative AI tools like ChatGPT that make computer-enabled conversations seem more human than ever."
+    publishedDateTime: 2022-12-08T13:00:00Z
+    webUrl: "https://www.wired.com/story/gadget-lab-podcast-577/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
   - title: "A|I: The AI Times – Turing tested: ChatGPT is craaaazy"
     excerpt: "The AI Times is a weekly newsletter covering the biggest AI ... The investment is aimed at supporting Sanctuary’s $120.8 million project to develop what the startup claims to be the “world’s first functioning human-like intelligence in general ..."
     publishedDateTime: 2022-12-05T16:19:00Z
@@ -378,17 +431,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "The brilliance and weirdness of ChatGPT"
-    excerpt: "Like most nerds who read science fiction, I’ve spent a lot of time wondering how society will greet true artificial intelligence ... ways that could make it possible to create personalized therapy bots, for example. ChatGPT isn’t perfect, by any ..."
-    publishedDateTime: 2022-12-06T00:55:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/the-brilliance-and-weirdness-of-chatgpt/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/the-brilliance-and-weirdness-of-chatgpt/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/the-brilliance-and-weirdness-of-chatgpt/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
   - title: "The future of AI is here: ChatGPT can create code, tell a story, or create a scene of your favorite sitcom"
     excerpt: "AI has never looked so advanced as it is now with OpenAI's ChatGPT. Iit has been mind-blowing for users over social media."
     publishedDateTime: 2022-12-05T15:18:00Z

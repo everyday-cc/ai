@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-08T12:28:00Z
 originalUrl: "https://www.geeky-gadgets.com/m3gan-robot-horror-film-08-12-2022/"
 webUrl: "https://www.geeky-gadgets.com/m3gan-robot-horror-film-08-12-2022/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Geeky Gadgets

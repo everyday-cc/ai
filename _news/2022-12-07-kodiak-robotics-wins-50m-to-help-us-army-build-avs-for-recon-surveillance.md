@@ -79,6 +79,15 @@ related:
         width: 1200
         height: 673
         isCached: true
+  - title: "Driving Transport Technology highlights the possibilities of driverless vehicles"
+    excerpt: "The Driving Transport Technology event, sponsored by Made Smarter, discussed how driverless cars could transform our way of life."
+    publishedDateTime: 2022-12-08T14:16:00Z
+    webUrl: "https://www.themanufacturer.com/articles/driving-transport-technology-highlights-the-possibilities-of-driverless-vehicles/"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: themanufacturer.com
+    quality: 14
   - title: "Kodiak awarded DOD contract to develop autonomous Army vehicles"
     excerpt: "Defense Innovation Unit contract calls for trucking technology company Kodiak to help the U.S. Army automate future ground vehicles for high-risk missions such as reconnaissance and surveillance near or behind enemy lines."
     publishedDateTime: 2022-12-06T14:49:00Z

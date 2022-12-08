@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/google-brings-machine-learning-to-online-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-brings-machine-learning-to-online-spreadsheets-with-simple-ml-for-sheets/amp/"
 type: article
 quality: 100
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1198
     height: 640
     isCached: true
+
+related:
+  - title: "Google Introduces Simple ML for Sheets to bring machine learning to online spreadsheets"
+    excerpt: "Google is now trying to change that paradigm for its Google Sheets online spreadsheet program. The Simple ML for Sheets"
+    publishedDateTime: 2022-12-08T13:39:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/google-introduces-simple-ml-for-sheets-to-bring-machine-learning-to-online-spreadsheets/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 26
 
 secured: "XXiBMWd7ttHNvySenbSgMVc++RwyHyKEFH+epzB2gINmNk0w98dkv3hLF8QhrxzjHIiqEU9iIEzcE9rFO5cojo68Z8RcinZkWhzwWbkjwP/AQ/xIiUXFiunrpe6sCBbgzw1kX/jSN+kQFFjbFiGBJ5Of6L9lswU2InDMGhqLq5i7Kma9huKwAuFrfEPoh/yCPBU8TvPfBfr0BX/45sKE909A/s1vyxN7jhttyQNIlY9C5COzRseyDZ3alq7usQNTASksQ04kcapMsVrYBzokrJ6EZlUl2RAnK+VvYWj0OQzfy0cdR3/545DobI1zuhThYntTjjJSjEA0wVFoaYgjbRP+R0UCrh5wJScwDN60iBDZDT98qYFoq/2J+GZ3u2fLaJ6YedXzcx4WuZn6VgscB/k7s67EveveW7SthOhpSibdJb9SQeKNzjfoNcFuxu7JgNIjEkgH9adGJr4nCCONnZVm9Juuxfs54R7kDSMzUUhwlETEuLfYEYvZRocXQLNzeMtkdqZAV5DuPAK8JKXuCA==;HHOVbsq5PR7TIZDFS7iQ7w=="
 ---

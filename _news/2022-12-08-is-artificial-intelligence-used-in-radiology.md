@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-08T12:53:00Z
 originalUrl: "https://techbullion.com/is-artificial-intelligence-used-in-radiology/"
 webUrl: "https://techbullion.com/is-artificial-intelligence-used-in-radiology/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Impacts

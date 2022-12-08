@@ -124,6 +124,15 @@ related:
       name: BGR
       domain: bgr.com
     quality: 19
+  - title: "Uber launches robotaxi service using fleet of Hyundai IONIQ 5"
+    excerpt: "Taking the driverless experience to a whole new level, ride-hailing giant Uber has launched a Level Four autonomous taxi service in Las Vegas, United States"
+    publishedDateTime: 2022-12-08T13:34:00Z
+    webUrl: "https://www.newsbytesapp.com/news/auto/uber-launches-level-four-self-driving-taxis-features-technology/story"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 19
   - title: "Why you may never be able to buy your own self-driving car"
     excerpt: "Despite recent claims of vehicles having full automation, it is no more possible to buy a truly self-driving car now than it was 15 years ago. Will private cars that never need a driver ever reach the market?"
     publishedDateTime: 2022-12-07T13:45:00Z

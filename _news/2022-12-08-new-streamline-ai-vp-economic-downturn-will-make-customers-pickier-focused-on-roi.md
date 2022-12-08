@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-08T14:03:00Z
 originalUrl: "https://www.law.com/legaltechnews/2022/12/08/new-streamline-ai-vp-economic-downturn-will-make-customers-pickier-focused-on-roi/"
 webUrl: "https://www.law.com/legaltechnews/2022/12/08/new-streamline-ai-vp-economic-downturn-will-make-customers-pickier-focused-on-roi/"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Law

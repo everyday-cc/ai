@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-08T12:31:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/08/factors-to-consider-when-adopting-artificial-intelligence-and-machine-learning-what-businesses-need-to-know/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/08/factors-to-consider-when-adopting-artificial-intelligence-and-machine-learning-what-businesses-need-to-know/"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: Forbes

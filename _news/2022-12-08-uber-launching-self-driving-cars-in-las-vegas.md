@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/12/07/tech/uber-motional-self-driving-v
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/12/07/tech/uber-motional-self-driving-vegas/index.html"
 type: article
 quality: 74
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -119,6 +119,15 @@ related:
     provider:
       name: BGR
       domain: bgr.com
+    quality: 19
+  - title: "Uber launches robotaxi service using fleet of Hyundai IONIQ 5"
+    excerpt: "Taking the driverless experience to a whole new level, ride-hailing giant Uber has launched a Level Four autonomous taxi service in Las Vegas, United States"
+    publishedDateTime: 2022-12-08T13:34:00Z
+    webUrl: "https://www.newsbytesapp.com/news/auto/uber-launches-level-four-self-driving-taxis-features-technology/story"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
     quality: 19
   - title: "Apple Pushes Self-Driving Vehicle Launch To 2026"
     excerpt: "Sources indicate Apple's plan to bring a self-driving car to the market has been pushed back until 2026. \"Sources indicate the tech giant has also moved away from producing an electric car without steering wheel or pedals in favor of a less ambitious design that still offers full autonomous capabilities on highways,"

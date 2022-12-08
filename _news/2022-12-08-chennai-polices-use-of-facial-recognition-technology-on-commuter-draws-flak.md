@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-08T14:45:00Z
 originalUrl: "https://www.thenewsminute.com/article/chennai-police-s-use-facial-recognition-technology-commuter-draws-flak-170753"
 webUrl: "https://www.thenewsminute.com/article/chennai-police-s-use-facial-recognition-technology-commuter-draws-flak-170753"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: The News Minute

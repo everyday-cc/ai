@@ -47,6 +47,15 @@ related:
         width: 504
         height: 315
         isCached: true
+  - title: "AI21 Jurassic-1 Foundation Model Now Available on Amazon SageMaker"
+    excerpt: "AI21 Labs, an Israeli startup aiming to fundamentally change the way people read and write using Generative AI, announced today that its Jurassic-1 Foundation Model used to power chatbots, answer questions,"
+    publishedDateTime: 2022-12-08T16:54:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/12/08/9727397.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
 secured: "IpIkymA5rG4hHc5vDceriKgf0wt52GfKM2Z7+2vZ7cwYY5G/KaPUDbjZtJJ7ZfkfCY7LJjaLt2Nj4lUkBRVS+ABRAbJO4yxIW6yRVy/wpnEvEc5Ng5FQuXu4qEqb+gpyxTr7wSXwA/6t+lgUopmuXwS3ez1MHO526TDK9v1Bve/a0LlqNqBaiOX2AXUV9aGAEcIU0jBe8F2LFuN1wJBbpvah45CE/z+cTKDMmYkgtJVZhP47u/QaWpbndKWnNAsYbnL3jsLsO8hIMHqCFTyPZ+iyvqJhgFbD9FhyhqbczmGJn4aiVxPrmMyNDkIjRaotm+WmAC9hLNGqhgKdhY5/bXgp+t9tAGn//GkQPJHw5RE=;mZ5fta1v+cDQKs8WpGRd4g=="
 ---

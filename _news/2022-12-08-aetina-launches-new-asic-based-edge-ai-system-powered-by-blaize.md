@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-08T12:22:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-aetina-launches-new-asic-based-edge-ai-system-/2022/12/08/9726781.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-aetina-launches-new-asic-based-edge-ai-system-/2022/12/08/9726781.htm"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: TMCnet

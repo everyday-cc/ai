@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-08T13:55:00Z
 originalUrl: "https://channelbuzz.ca/2022/12/xdr-vendor-trellix-sees-new-relationship-with-ocsf-around-amazon-security-lake-as-redefining-security-40287/"
 webUrl: "https://channelbuzz.ca/2022/12/xdr-vendor-trellix-sees-new-relationship-with-ocsf-around-amazon-security-lake-as-redefining-security-40287/"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: Channel Buzz

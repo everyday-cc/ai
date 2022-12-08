@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-08T14:29:00Z
 originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-ai-selfies-20221208-l6ssxkikuvep7cqb7wjr3x2pbq-story.html"
 webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-ai-selfies-20221208-l6ssxkikuvep7cqb7wjr3x2pbq-story.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Chicago Tribune

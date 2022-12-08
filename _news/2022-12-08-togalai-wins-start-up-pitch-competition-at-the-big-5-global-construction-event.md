@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-08T13:10:00Z
 originalUrl: "https://www.globest.com/2022/12/08/togal-ai-wins-start-up-pitch-competition-at-the-big-5-global-construction-event/"
 webUrl: "https://www.globest.com/2022/12/08/togal-ai-wins-start-up-pitch-competition-at-the-big-5-global-construction-event/"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: GlobeSt.com

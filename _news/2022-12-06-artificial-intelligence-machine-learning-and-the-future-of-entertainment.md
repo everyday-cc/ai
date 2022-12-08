@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joshwilson/2022/12/06/artificial-intell
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joshwilson/2022/12/06/artificial-intelligence-machine-learning-and-the-future-of-entertainment/amp/"
 type: article
 quality: 117
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The future of generative AI and its ethical implications"
-    excerpt: "Despite ethical issues of attribution, intellectual property, deepfakes and more, generative AI will continue to revolutionize the internet."
-    publishedDateTime: 2022-12-03T23:20:00Z
-    webUrl: "https://venturebeat.com/ai/the-future-of-generative-ai-and-its-ethical-implications/"
-    ampWebUrl: "https://venturebeat.com/ai/the-future-of-generative-ai-and-its-ethical-implications/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-future-of-generative-ai-and-its-ethical-implications/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/08/Screen-Shot-2022-08-24-at-3.43.14-PM.png?w=1200&strip=all"
-        width: 1199
-        height: 1075
-        isCached: true
   - title: "Robo Truckers and the AI-Fueled Future of Transport"
     excerpt: "Concerns about artificial intelligence replacing long-haul drivers are not new, but the real story is more nuanced."
     publishedDateTime: 2022-12-06T14:00:00Z

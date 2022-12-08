@@ -86,6 +86,15 @@ related:
         width: 350
         height: 455
         isCached: true
+  - title: "New Opaque Systems platform offers advances in confidential AI and analytics"
+    excerpt: "Secure data analytics startup Opaque Systems Inc. today launched a new platform that includes what it says are the latest advancements in confidential artificial intelligence and analytics. The Opaque platform has been built to unlock use cases in confidential computing to enable data scientists to secure and perform collaborative analytics directly on this encrypted data."
+    publishedDateTime: 2022-12-08T14:00:00Z
+    webUrl: "https://siliconangle.com/2022/12/08/new-opaque-systems-platform-offers-advances-confidential-ai-analytics/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 14
 
 secured: "//AyrDa4o93zxN8cH/NhDNW0T5O5rlkLayGdAWMaEoOO/FXCtV+n89c7p7hD2ty5EGssrqg1WYzgetRVnu9npV1z09nwU7OkRAVtestrPeg0q1XpuLoRgl2BLY8Sx6LVeawu/Cic964yBX/XWxo5pGGtTWqAE5b0eH1aIajVIDDxSTDfLthvQicOsKbDmSxDhas3n5F9FSURtl3ZyuyORla17QyCKyjCieAu/OI1Dmu3SVv0Kj8D859YqAtOOa09y2cMjxD0h3gVkSTKWI0TjG3PQYKmrCGPtTlGpY80QGS6ieMnn8kAaBgpqXDqi7tYC/bKYY3GB0hVaevAXOt0wUG5AYFLqbV6sIZXQxgSqrM=;JiFFuxpAwoACE3+WRAdtiw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.nbcbayarea.com/news/local/artifical-intelligence-artwo
 webUrl: "https://www.nbcbayarea.com/news/local/artifical-intelligence-artwork/3097003/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "What’s The Lensa AI Craze About, Who’s Using It, And What Do Its Critics Say?"
-    excerpt: "To sum up, AI produces unique images based on the principles derived from data, but it can’t ideate and imagine things on its own. As cinema didn’t kill theater and accounting software hasn’t eradicated the profession, AI won’t replace artists but can become a great assisting tool"
-    publishedDateTime: 2022-12-07T21:11:00Z
-    webUrl: "https://uproxx.com/culture/how-to-make-an-ai-magic-avatar-selfie-lensa/"
+  - title: "Analysts Predictions About AI In 2023"
+    excerpt: "As the ample supply of 2023 predictions affirms, humans still win in the futures market. Or maybe they are just not as modest as Alexa (or the Amazonians feeding it with answers to common queries). Observes of the IT landscape and AI developments are certainly far from being modest,"
+    publishedDateTime: 2022-12-08T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/gilpress/2022/12/08/analysts-predictions-about-ai-in-2023/"
     type: article
     provider:
-      name: Uproxx
-      domain: uproxx.com
-    quality: 36
-    images:
-      - url: "https://uproxx.com/wp-content/uploads/2022/12/AI2-grid-uproxx.jpg?w=710"
-        width: 710
-        height: 400
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "49/SPNQt7PHU/iMScwEH7IHEZwRdm09H5vFXuvgUS4N78TD9Y6FxzPPPeY7ZjC8IxXyPyndSrhasw/kdyg5PC8cBPAZwc3VD0Y6frGuriG6AS9R8mcA4f3LAGElJ28qJKCtMso0rAB10dgsQrm/t014qBap7mWGKSMcfQjcPInoBekF1Lefb3p2KvGH1JjWHIycupbBuCVAqcoy9NhW3Ujj1NOwNZ7BHea/OqbO9Urn5SpBaj32l6t4OEvqzBqG/+tC/KYorMdb14oAa5WvHtY08JJRGrcBGhO8blhULflXv0Sw7oDlPj0BM2hHUFIQbAaaO+yq0iO7b1u+KnVc10Lz9ZBVGPAF9aqFq1NCL25MvVJdGVLAa4HoE6o978iLAwxTViZy9TZDrRSF/ulokOSFN0ZWyIqp/YG8BqwDkyosFSNVBEg1sVrR2+kAdzmzXCfLJfJwrk5UccTT86fDZJg4BMu8S1POCUQFwKpSwTMNeFfmmC7oB+vy7VWRHrob7pArKdVcATyr7ayGk82/qwA==;RudVpTxDJHIIp4nkMFNaGQ=="
 ---

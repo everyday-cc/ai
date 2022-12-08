@@ -1,24 +1,34 @@
 ---
 category: news
-title: "The brilliance and weirdness of ChatGPT"
-excerpt: "Like most nerds who read science fiction, I’ve spent a lot of time wondering how society will greet true artificial intelligence ... ways that could make it possible to create personalized therapy bots, for example. ChatGPT isn’t perfect, by any ..."
-publishedDateTime: 2022-12-06T00:55:00Z
-originalUrl: "https://www.seattletimes.com/business/technology/the-brilliance-and-weirdness-of-chatgpt/"
-webUrl: "https://www.seattletimes.com/business/technology/the-brilliance-and-weirdness-of-chatgpt/"
-ampWebUrl: "https://www.seattletimes.com/business/technology/the-brilliance-and-weirdness-of-chatgpt/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/the-brilliance-and-weirdness-of-chatgpt/?amp=1"
+title: "The Brilliance and Weirdness of ChatGPT"
+excerpt: "ChatGPT is, quite simply, the best artificial intelligence chatbot ever released to the general public. It was built by OpenAI, the San Francisco A.I. company that is also responsible for tools like GPT-3 and DALL-E 2,"
+publishedDateTime: 2022-12-05T23:35:00Z
+originalUrl: "https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html"
+webUrl: "https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html"
+ampWebUrl: "https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.amp.html"
 type: article
-quality: 24
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: The New York Times
+  domain: nytimes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://static01.nyt.com/images/2022/12/05/business/05roose-chatgpt/05roose-chatgpt-facebookJumbo.jpg"
+    width: 1050
+    height: 549
+    isCached: true
 
 related:
   - title: "ChatGPT AI Explained: Why Everyone's Chatting About This New Chatbot"
@@ -131,6 +141,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Can You Tell a Real Tweet From One Written By an AI Chatbot?"
+    excerpt: "Can You Tell a Real Tweet From One Written By an AI Chatbot?"
+    publishedDateTime: 2022-12-08T14:00:00Z
+    webUrl: "https://www.wsj.com/articles/chatgpt-twitter-quiz-ai-openai-11670511559"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-680711/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "ChatGPT and Lensa: Why Everyone Is Playing With Artificial Intelligence"
     excerpt: "Two internet sensations give non-nerds a turn with powerful software, yielding surprising wit and stunning avatars."
     publishedDateTime: 2022-12-08T01:09:00Z
@@ -144,6 +168,20 @@ related:
       - url: "https://images.wsj.net/im-680021/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "AI Chatbots Are Getting Better. But an Interview With ChatGPT Reveals Their Limits"
+    excerpt: "This summer, Google fired one of its engineers who had become convinced that one of its chatbots had reached sentience. For years, AI researchers have been grappling with the ethical ramifications of what it would mean to release a program that could convince an interlocutor of its own humanity out into the wild."
+    publishedDateTime: 2022-12-05T21:28:00Z
+    webUrl: "https://time.com/6238781/chatbot-chatgpt-ai-interview/"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: time.com
+    quality: 65
+    images:
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
         isCached: true
   - title: "A new AI chatbot is getting buzz for being able to have intelligent-sounding conversations, write music, and even code"
     excerpt: "ChatGPT is an artificial intelligence chatbot that is trained to answer a wide range of questions about different topics in a conversational way."
@@ -161,19 +199,19 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AI Chatbots Are Getting Better. But an Interview With ChatGPT Reveals Their Limits"
-    excerpt: "This summer, Google fired one of its engineers who had become convinced that one of its chatbots had reached sentience. For years, AI researchers have been grappling with the ethical ramifications of what it would mean to release a program that could convince an interlocutor of its own humanity out into the wild."
-    publishedDateTime: 2022-12-05T21:28:00Z
-    webUrl: "https://time.com/6238781/chatbot-chatgpt-ai-interview/"
+  - title: "ChatGPT proves AI is finally mainstream — and things are only going to get weirder"
+    excerpt: "He knows I write about AI and is the sort of guy who keeps up with whatever’s trending online. We chatted a bit, and I asked him: “and what do you think of ChatGPT?” To which he replied: “Well, I wrote a half-decent Excel macro with it this morning that saved me a few hours at work” — and my jaw dropped."
+    publishedDateTime: 2022-12-08T15:31:00Z
+    webUrl: "https://www.theverge.com/2022/12/8/23499728/ai-capability-accessibility-chatgpt-stable-diffusion-commercialization"
     type: article
     provider:
-      name: YAHOO!News
-      domain: time.com
-    quality: 63
+      name: The Verge
+      domain: theverge.com
+    quality: 61
     images:
-      - url: "https://time.com/img/icons/wallet-connect.png"
-        width: 256
-        height: 256
+      - url: "https://cdn.vox-cdn.com/thumbor/yNkf9v3sccBTTXEe8JonTcXyZfc=/0x0:2650x1767/1200x628/filters:focal(1325x884:1326x885)/cdn.vox-cdn.com/uploads/chorus_asset/file/24275829/CatherineBreslin_SiliconCloseup_2650x1767.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "As chatbot sophistication grows, AI debate intensifies"
     excerpt: "California start-up OpenAI has released a chatbot capable of answering a variety of questions, but its impressive performance has reopened the debate on the risks linked to artificial intelligence (AI) technologies."
@@ -309,6 +347,15 @@ related:
     provider:
       name: Wall Street Journal
       domain: wsj.com
+    quality: 47
+  - title: "How These AI-Powered Chatbots Keep Getting Better"
+    excerpt: "This week on “Gadget Lab,” we discuss the advances in generative AI tools like ChatGPT that make computer-enabled conversations seem more human than ever."
+    publishedDateTime: 2022-12-08T13:00:00Z
+    webUrl: "https://www.wired.com/story/gadget-lab-podcast-577/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
     quality: 47
   - title: "A|I: The AI Times – Turing tested: ChatGPT is craaaazy"
     excerpt: "The AI Times is a weekly newsletter covering the biggest AI ... The investment is aimed at supporting Sanctuary’s $120.8 million project to develop what the startup claims to be the “world’s first functioning human-like intelligence in general ..."
@@ -448,6 +495,6 @@ related:
       domain: slator.com
     quality: 2
 
-secured: "r23myV5eBO7dKd8bRgwT+sYBAIdYi2/qy3wo+00rhX9P20H29TjnZIktMa2/5p/HiSMhblDQ2I3930W0i/BtsJaU58mcXxnCr4jAsc/T2QARw9bisjJbfNuTuSwu/lURAGdc5qmeZpL1VQUGfcaXjjKs+AHq6mq6kQ3LQBvcTHpziM9qvBDmDLJlL8/m4RsrdcLJrucNG8G6304zxy9yvqeFll+qvvJiBuqEBD5xXRnb7j0/wRTIOMKn4FwAjWxDlga4MaLWhLdN/3MRoagL5sbKn4FQYhOldnSgOSyUrrbTpcWExr7ujCjsejfBC3H8ZWCrFIsUJTxPd2G5nKeVJHhACTG6CBeM61k0i/w2bneL4FRJKhsB6pymCGVljMVvn1laqCF1ODoOIi6zrMvou66x7VmyhHaHN9Twr1AvvOihTZ1RtY2/xlRabgwiHXd40Ce1C2gJxf66md2TkNIqh+5hPC6A02qJq37Iny19aBzAWXm8RiO5leD2MCTCEWLpDr+dqf2ttXC2x+lyy6pt1A==;1N3V4Ep+cFfbi2wsSjUxTQ=="
+secured: "Vh4QBgFrIn0XOA8h3SiwvLH6Y9p2jicA9pd8kJR2HJ6I94l0JfjgED/IOXUIDRCz0uYNoCyn35/1KjXYimLGxHJL/VMld9ZSNoBBv0bm7ZulpNOd12iFLEWWivHXqfqJlg062UFI4TfpNY+tLYhDCBYxvbEZG/XeVExFuZSoT9npBUbpRbmqjUbEFwzDzwFeWLYIinw8wokAQRhZocFbrzvT2eEHBlL1xi//FZ76CQ6VdZ7sk6rSJNC7uA5jvbjbZL+AEBotxEivNMSJgMXuvNwKEKAuEPd15U9TsNctsTPK7cvozuQn6Z54sqG/n3yC9HM4PSTbDbW3zGj8mpJQTLc1bHF57IbJe0e7S3S/noc=;F+e23IWMZheqQvNzF7VOMg=="
 ---
 

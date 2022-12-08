@@ -48,22 +48,6 @@ related:
         width: 1200
         height: 814
         isCached: true
-  - title: "The future of generative AI and its ethical implications"
-    excerpt: "Despite ethical issues of attribution, intellectual property, deepfakes and more, generative AI will continue to revolutionize the internet."
-    publishedDateTime: 2022-12-03T23:20:00Z
-    webUrl: "https://venturebeat.com/ai/the-future-of-generative-ai-and-its-ethical-implications/"
-    ampWebUrl: "https://venturebeat.com/ai/the-future-of-generative-ai-and-its-ethical-implications/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-future-of-generative-ai-and-its-ethical-implications/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/08/Screen-Shot-2022-08-24-at-3.43.14-PM.png?w=1200&strip=all"
-        width: 1199
-        height: 1075
-        isCached: true
 
 secured: "/DE7OxQ/+QFOvwLNSREvlimLAtcEyjwerKvDed09JAz/85XvVHm09LmVE9LCxD5t8c0B/ZyJRIG+TG7FM0ZsndHRAeZr+26Ap1T8rr3qBvka5DrrElsHBwltcr0GQJ/TDTYbiyfDxaLTJDW2xBtkx3zgU4aFkXZo+w3lcle65ykHEJ548VrKHULsrNviSmNaJo9M+IRj/ezAdUE3lPOtevEEjgKRLvnQy1kzw0mw1ojTKkJf+J72zZe4hWmc34FM10KXLJtrHOexmTV1FcD6gY6FiGE+jgR+UxiIWmqGNUTtfIninsD1MDg9h03tkdYM8+3/gngJa4NwarGZ69JRI+PwDGUmOjdujSso7szo0WV5X2bG1xj5GM6E+gpoaGTJg1scJUjYG8lz+5NiFlqV7nvxTOvpL3a1zvkg9zz1fMto7O0y+/N3b9fzeio23hQadOLrooiR2CHqMZL6nBa7+gF3X8ReraukjgZfbidftsDOFEQwKUCeEl+JXllgNd4KCl4BOkTpNkbWcBF3FyLPkA==;GBvpg8mMOUBO1ZSz4kMAeA=="
 ---

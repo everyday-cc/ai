@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-08T13:23:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/sapia-ai-releases-its-independent-disparate-impact-report-by-blds-llc-1031960252"
 webUrl: "https://markets.businessinsider.com/news/stocks/sapia-ai-releases-its-independent-disparate-impact-report-by-blds-llc-1031960252"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Business Insider

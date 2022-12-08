@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-08T12:56:00Z
 originalUrl: "https://www.electronicsforu.com/news/whats-new/soft-robot-heals-like-human-skin"
 webUrl: "https://www.electronicsforu.com/news/whats-new/soft-robot-heals-like-human-skin"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: electronicsforu

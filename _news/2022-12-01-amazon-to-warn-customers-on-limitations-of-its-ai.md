@@ -1,24 +1,28 @@
 ---
 category: news
-title: "Amazon to warn customers on limitations of its AI"
-excerpt: "The cards would address AI ethics concerns publicly at a time when tech regulation was on the horizon, said Kearns. \"The biggest thing about this launch is the commitment to do this on an ongoing ..."
-publishedDateTime: 2022-11-30T21:44:00Z
-originalUrl: "https://www.reuters.com/technology/amazon-warn-customers-limitations-its-ai-2022-11-30/"
-webUrl: "https://www.reuters.com/technology/amazon-warn-customers-limitations-its-ai-2022-11-30/"
+title: "Amazon To Warn Customers On Limitations Of Its AI"
+excerpt: "Amazon chose software touching on sensitive demographic issues as a start for its service cards, which Kearns expects to grow in detail over time. One such service is called \"Rekognition.\""
+publishedDateTime: 2022-11-30T17:10:00Z
+originalUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985"
+webUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985"
+ampWebUrl: "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
-  - AI Ethics
+  - AWS AI
   - AI
 
-secured: "C/CXwYmcM2w8N3OyIneDNB8P5Kt24CSc/wV0zA0NhJdNeLeZP6K++cqtwaxeKCr8v1Tgau5kvT3W/PAYsN5sr5a4IXG8FWcCMQ2qnzNkkmIN7bNNP0uGn3TZGVzHDoQvo+eiqM/KjxiG5cXpMjKKX90vqr5HziPPEVi2OghrXHwt/FIBBnBMXBplVL8D19ETqrFdBUciYrrjItvfD43beIsKSsRkZLpIAhLBtAQgZhtiC5g6sWD1HMcSUi6BgYmCPj7RmjCsijXqL/Bm1uvY/lXWgtbX6MTlZyYJ5g3y/YzUbi+TdrqIxCjljSfAidNfpkLOPfaaqw5hQRVcbooT7jHlLYE9FFR0C9QXaQIEQy4=;6y9uRb+bsUKYuS0s4joPEQ=="
+images:
+  - url: "https://d.ibtimes.com/en/full/4389003/amazon-logo-company-logistics-center-lauwin-planque.jpg"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "hX4xZdbEL/iQrblTdKitZS210M2tAT29qQdcyvxYj1URpWA7cZYlhq7ubPgrZCvX35PYlJLjHZzqLjTEvaPRr/OCaYR/BKV8O+PJuKj0ge34nHRiLWpN+3se+uOxJmPc4uCtKz4t8b15skXqnDy/DHoBWWbRQ0hciJ51QmU2arS44kBevULiECs/jdnCFKS7XdvJXUX45hSZ4GkU8BFsS2qWDEijAl17zVNh3tm4oJPBGafVqCXmvNg7rpT0CZZlJ57URIjgS/LjR39v2LFb8fu1aXGUR3mCisKehWRlxGSh9igJySFbE7k0Q2ECQEh9mY0YpXM0EDMKDoWppkrQI+jH+bW1EswpEuHUwgqDnzw=;TFW/+rxUV14rEZMFe7xptA=="
 ---
 

@@ -2,28 +2,30 @@
 category: news
 title: "Editorial Roundup: United States"
 excerpt: "Excerpts from recent editorials in the United States and abroad: Dec. 5 The Washington Post on microchips, the U.S. and the future When President Biden visits a microchip factory under construction in Arizona,"
-publishedDateTime: 2022-12-07T06:11:00Z
-originalUrl: "https://www.washingtonpost.com/national/editorial-roundup-united-states/2022/12/07/16ceac5e-7628-11ed-a199-927b334b939f_story.html"
-webUrl: "https://www.washingtonpost.com/national/editorial-roundup-united-states/2022/12/07/16ceac5e-7628-11ed-a199-927b334b939f_story.html"
+publishedDateTime: 2022-12-07T11:10:00Z
+originalUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2022-12-07/editorial-roundup-united-states"
+webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2022-12-07/editorial-roundup-united-states"
+ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2022-12-07/editorial-roundup-united-states?_amp=true"
+cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2022-12-07/editorial-roundup-united-states?_amp=true"
 type: article
-quality: 24
-heat: 24
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: The Washington Post
-  domain: washingtonpost.com
+  name: San Diego Union-Tribune
+  domain: sandiegouniontribune.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/96a67ca/2147483647/strip/true/crop/3037x2031+4+0/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe5%2Fad%2Febd8b059b207ab358e44eefc4c9d%2Fa60885fb17b74464a878c8c9a10bd645"
+    width: 320
+    height: 214
     isCached: true
 
-secured: "Ouwgk7ID8t4pQotZj1fMbEDxUB8yTxY3smC+Q4H6zycXIxQyCcNDFkfATziolj5BaYpqRk7Flpu37Rc8P6qgZ9y0hVJ1l7GFKaIIJGwjx0DaXNP/z9DRcaH9RmUHL8Tkj9xwVT0uxlRZ8Pphgm5Zel7m9qXN7RA1rzx9DHK7FrFznV/6w1s4RivUUDhwnEN9SKtUEIgBnoUYvrc6KSxpUj1J7Yev9mj8mrKnMZi/V7Zm3U1YKjqwkeys07Umo0gEPlFz/jpSdkTCrmA0+IFpakv8aHL7yq8Ah8sCcoTMy0kUXgF63aPD3rDtZuix7hxNoieNS6qGa66NGYV1YuoCPnqp2x6ng7NLBlgpliLUWh0=;EZg9utm5yHBLDFspRvG4ZA=="
+secured: "jX5uBfG0fxRBSU3dhpLgWa6Yzdfll2kEczfEK4rxtkf/N/wE3OI/LV3yYuTMGUcqO457i+AdSvI1f4CSOgTeIVf8LdCsvDEjoL+ZPVLlN/SLtqbckhnIjCe6HlvUWWX0p4EOWSlLy9lwAJ0zlQxJ6o4AVY0wVg0ljFAYgYevb25W6pCCEl6oxjUFjME8dfWTx91EJtClBTV/5srZ+DQZop4QmNlDpj54Jjl6Yt0t518nKsS7v8zX9mCiipJG+rr/77xrwVLBdCKj7othL94tc6WNVvjnFJeSdeuxmPr8hC72qdd5zlMMowZl0VRukX2INUqhRSt1KOR7vam+Pf4WsBs+nlM+dNPujd4S+SCMUbo=;LZwn7X7ABInQ+Ggv/AvCag=="
 ---
 
