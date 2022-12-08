@@ -8,9 +8,9 @@ webUrl: "https://in.mashable.com/tech/43199/its-official-adobe-stock-sells-image
 ampWebUrl: "https://in.mashable.com/tech/43199/its-official-adobe-stock-sells-images-generated-by-artificial-intelligence?amp=1"
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/43199/its-official-adobe-stock-sells-images-generated-by-artificial-intelligence?amp=1"
 type: article
-quality: 86
-heat: -1
-published: false
+quality: 88
+heat: 128
+published: true
 
 provider:
   name: in.mashable
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://sm.mashable.com/t/mashable_in/photo/default/92272ed9-4bde-496d-a708-be418ff442c3_scv9.620.jpg"

@@ -33,6 +33,20 @@ related:
         width: 1550
         height: 772
         isCached: true
+  - title: "AWS updates machine learning service SageMaker"
+    excerpt: "AWS has added new features to its managed machine learning​ service Amazon SageMaker​, designed to improve governance attributes within the service."
+    publishedDateTime: 2022-12-07T00:46:00Z
+    webUrl: "https://www.reseller.co.nz/article/703755/aws-updates-machine-learning-service-sagemaker/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 71
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/aws_dreamstime_4_11.jpg"
+        width: 504
+        height: 315
+        isCached: true
 
 secured: "IpIkymA5rG4hHc5vDceriKgf0wt52GfKM2Z7+2vZ7cwYY5G/KaPUDbjZtJJ7ZfkfCY7LJjaLt2Nj4lUkBRVS+ABRAbJO4yxIW6yRVy/wpnEvEc5Ng5FQuXu4qEqb+gpyxTr7wSXwA/6t+lgUopmuXwS3ez1MHO526TDK9v1Bve/a0LlqNqBaiOX2AXUV9aGAEcIU0jBe8F2LFuN1wJBbpvah45CE/z+cTKDMmYkgtJVZhP47u/QaWpbndKWnNAsYbnL3jsLsO8hIMHqCFTyPZ+iyvqJhgFbD9FhyhqbczmGJn4aiVxPrmMyNDkIjRaotm+WmAC9hLNGqhgKdhY5/bXgp+t9tAGn//GkQPJHw5RE=;mZ5fta1v+cDQKs8WpGRd4g=="
 ---

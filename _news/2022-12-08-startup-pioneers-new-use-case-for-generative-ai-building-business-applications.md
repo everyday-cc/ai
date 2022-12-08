@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/startup-deploys-generative-ai-to-help-bui
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/startup-deploys-generative-ai-to-help-build-business-applications/amp/"
 type: article
 quality: 83
-heat: 103
+heat: 104
 published: true
 
 provider:

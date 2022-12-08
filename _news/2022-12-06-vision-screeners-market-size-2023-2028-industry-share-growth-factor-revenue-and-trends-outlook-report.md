@@ -143,6 +143,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Neural Network Market research report gives the information on Industry Analysis database on this Market for period 2022 - 2028"
+    excerpt: "The \" Neural Network Market \" research examines seasonal trends and market shifts. The goal of this research is to provide you with a detailed, thoughtful record so you can profit from the market's evolving possibilities throughout time from 2022 to 2028."
+    publishedDateTime: 2022-12-08T02:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-neural-network-market-research-report-gives-the-information-on-industry-analysis-database-on-this-market-for-period-2022---2028-2022-12-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Iris Recognition Devices Market 2023 Company Overview, Industry Top Manufacturers, Size, Industry Share, Growth Analysis and Forecast to 2028"
     excerpt: "The iris recognition device is a device that performs identity recognition based on the iris in the eye. Used in security equipment (such as access control, etc.), and places with high confidentiality requirements."
     publishedDateTime: 2022-12-06T04:04:00Z

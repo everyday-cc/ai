@@ -70,7 +70,7 @@ related:
     provider:
       name: Black Enterprise
       domain: blackenterprise.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2022/12/Screen-Shot-2022-12-07-at-3.02.34-PM-1024x694.png"
         width: 1024

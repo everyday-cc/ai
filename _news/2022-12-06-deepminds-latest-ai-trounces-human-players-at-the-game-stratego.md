@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2022/12/05/deepminds-latest-ai-trounces-h
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/12/05/deepminds-latest-ai-trounces-human-players-at-the-game-stratego/?amp=1"
 type: article
 quality: 76
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Here’s how a new AI mastered the tricky game of Stratego"
-    excerpt: "Stratego creates a unique challenge for computers to solve. It's what's known in game theory as an “imperfect information game.”"
-    publishedDateTime: 2022-12-03T12:00:00Z
-    webUrl: "https://www.popsci.com/technology/ai-stratego/"
-    ampWebUrl: "https://www.popsci.com/technology/ai-stratego/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-stratego/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 57
-    images:
-      - url: "https://www.popsci.com/uploads/2022/12/02/Stratego_plateau.jpg?auto=webp"
-        width: 1024
-        height: 765
-        isCached: true
   - title: "DeepMind spin-off Isomorphic Labs announces drug discovery scale plans"
     excerpt: "AI drug discovery startup Isomorphic Labs is acquiring talent and a new office as it looks to strike its first business deal"
     publishedDateTime: 2022-12-05T10:53:00Z

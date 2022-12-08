@@ -89,7 +89,7 @@ related:
   - title: "How AI That Powers Chatbots and Search Queries Could Discover New Drugs"
     excerpt: "Natural language processing algorithms like the ones used in Google searches and OpenAI’s ChatGPT promise to slash the time required to bring medications to market"
     publishedDateTime: 2022-12-07T14:59:00Z
-    webUrl: "https://www.wsj.com/articles/how-ai-that-powers-chatbots-and-search-queries-could-discover-new-drugs-11670428795?mod=tech_featst_pos3"
+    webUrl: "https://www.wsj.com/articles/how-ai-that-powers-chatbots-and-search-queries-could-discover-new-drugs-11670428795"
     type: article
     provider:
       name: Wall Street Journal

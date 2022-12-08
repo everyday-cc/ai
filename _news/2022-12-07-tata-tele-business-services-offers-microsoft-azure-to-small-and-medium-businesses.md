@@ -53,19 +53,21 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Snowflake becomes available in UK on Microsoft Azure"
-    excerpt: "UK organisations using Snowflake services will maintain data residency while embracing the potential of the data cloud thanks to availability on Microsoft Azure."
-    publishedDateTime: 2022-12-06T10:46:00Z
-    webUrl: "https://www.cloudcomputing-news.net/news/2022/dec/06/snowflake-becomes-available-in-uk-on-microsoft-azure/"
+  - title: "Tata Tele Business Services to offer Microsoft Azure to SMBs in India"
+    excerpt: "This will enable SMBs to modernize their operations with smooth movement of business workloads to the cloud on a pay-as-you-go model and deliver better experience to their customers even as they scale faster,"
+    publishedDateTime: 2022-12-08T03:49:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/tata-tele-business-services-to-offer-microsoft-azure-to-smbs-in-india/96065486"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/tata-tele-business-services-to-offer-microsoft-azure-to-smbs-in-india/96065486"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/tata-tele-business-services-to-offer-microsoft-azure-to-smbs-in-india/96065486"
     type: article
     provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 69
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 74
     images:
-      - url: "https://www.cloudcomputing-news.net/wp-content/uploads/sites/2/2020/03/real-snowflakes-closeup-picture-id1183438449.jpg"
-        width: 1024
-        height: 768
+      - url: "https://etimg.etb2bimg.com/thumb/msid-96065486,imgsize-195728,width-1200,height=765,overlay-etbrandequity/digital/tata-tele-business-services-to-offer-microsoft-azure-to-smbs-in-india.jpg"
+        width: 1200
+        height: 765
         isCached: true
   - title: "Tata Tele Business to offer Microsoft Azure to SMBs"
     excerpt: "Microsoft Azure offers essential compute, storage and networking resources on demand, on a pay-as-you-go-basis."

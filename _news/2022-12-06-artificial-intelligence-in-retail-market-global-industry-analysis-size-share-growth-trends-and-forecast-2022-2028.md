@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-12-06"
 type: article
 quality: 56
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -123,6 +123,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Neural Network Market research report gives the information on Industry Analysis database on this Market for period 2022 - 2028"
+    excerpt: "The \" Neural Network Market \" research examines seasonal trends and market shifts. The goal of this research is to provide you with a detailed, thoughtful record so you can profit from the market's evolving possibilities throughout time from 2022 to 2028."
+    publishedDateTime: 2022-12-08T02:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-neural-network-market-research-report-gives-the-information-on-industry-analysis-database-on-this-market-for-period-2022---2028-2022-12-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

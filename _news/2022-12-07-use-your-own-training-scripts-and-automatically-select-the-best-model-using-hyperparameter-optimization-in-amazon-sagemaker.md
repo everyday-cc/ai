@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-your-own-trainin
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-your-own-training-scripts-and-automatically-select-the-best-model-using-hyperparameter-optimization-in-amazon-sagemaker/"
 type: article
 quality: 78
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS updates machine learning service SageMaker"
+    excerpt: "AWS has added new features to its managed machine learning​ service Amazon SageMaker​, designed to improve governance attributes within the service."
+    publishedDateTime: 2022-12-07T00:46:00Z
+    webUrl: "https://www.reseller.co.nz/article/703755/aws-updates-machine-learning-service-sagemaker/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 71
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/aws_dreamstime_4_11.jpg"
+        width: 504
+        height: 315
+        isCached: true
   - title: "Foursquare to Power Geospatial Data Visualization in Amazon SageMaker"
     excerpt: "Foursquare capability in Amazon SageMaker allows customers to easily visualize planetary-scale geospatial data for machine learning Foursquare, the leading independent location technology company, exc"
     publishedDateTime: 2022-12-05T17:00:00Z

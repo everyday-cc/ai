@@ -41,22 +41,6 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "Here’s how a new AI mastered the tricky game of Stratego"
-    excerpt: "Stratego creates a unique challenge for computers to solve. It's what's known in game theory as an “imperfect information game.”"
-    publishedDateTime: 2022-12-03T12:00:00Z
-    webUrl: "https://www.popsci.com/technology/ai-stratego/"
-    ampWebUrl: "https://www.popsci.com/technology/ai-stratego/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-stratego/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 57
-    images:
-      - url: "https://www.popsci.com/uploads/2022/12/02/Stratego_plateau.jpg?auto=webp"
-        width: 1024
-        height: 765
-        isCached: true
   - title: "DeepMind spin-off steps up effort to use AI to create new drugs"
     excerpt: "We use cookies and other data for a number of reasons, such as keeping FT Sites reliable and secure,         personalising content and ads, providing social media features and to         analyse how our Sites are used."
     publishedDateTime: 2022-12-03T15:00:00Z

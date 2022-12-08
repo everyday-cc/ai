@@ -8,7 +8,7 @@ webUrl: "https://www.blackenterprise.com/skeptics-think-the-viral-ai-self-portra
 ampWebUrl: "https://www.blackenterprise.com/skeptics-think-the-viral-ai-self-portrait-generator-might-be-a-little-shady/amp/"
 cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/skeptics-think-the-viral-ai-self-portrait-generator-might-be-a-little-shady/amp/"
 type: article
-quality: 74
+quality: 76
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Security
+  - AI in Autos
 
 images:
   - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2022/12/Screen-Shot-2022-12-07-at-3.02.34-PM-1024x694.png"
