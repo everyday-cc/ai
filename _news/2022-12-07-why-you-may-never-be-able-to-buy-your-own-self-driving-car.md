@@ -108,6 +108,15 @@ related:
       name: BGR
       domain: bgr.com
     quality: 19
+  - title: "Apple Pushes Self-Driving Vehicle Launch To 2026"
+    excerpt: "Sources indicate Apple's plan to bring a self-driving car to the market has been pushed back until 2026. \"Sources indicate the tech giant has also moved away from producing an electric car without steering wheel or pedals in favor of a less ambitious design that still offers full autonomous capabilities on highways,"
+    publishedDateTime: 2022-12-06T19:32:00Z
+    webUrl: "https://www.mediapost.com/publications/article/380425/apples-pushes-self-driving-vehicle-launch-to-2026.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 4
   - title: "Apple pushes self-driving car launch to 2026 but still eyes major EV industry disruption"
     excerpt: "The wait for Apple (NASDAQ:AAPL) to bring a self-driving car to the market has been pushed back until 2026. Sources indicate the tech giant has also moved away from producing an electric car without steering wheel or pedals in favor of a less ambitious design that still offers full autonomous capabilities on highways."
     publishedDateTime: 2022-12-06T19:00:00Z

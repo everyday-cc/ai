@@ -25,43 +25,23 @@ images:
     isCached: true
 
 related:
-  - title: "San Francisco Backtracks on Plan to Allow Police Robots to Use Deadly Force"
-    excerpt: "Opponents of the proposed policy said it could lead to more police violence. The Police Department, however, said the policy would allow robots to use deadly force only in extreme situations."
-    publishedDateTime: 2022-12-07T03:46:00Z
-    webUrl: "https://www.nytimes.com/2022/12/06/us/police-robots-san-francisco.html"
+  - title: "Public Outcry Prompts SFPD to Pause Lethal Robot Policy"
+    excerpt: "Despite policy guardrails that would have only allowed police to use a robot to kill a suspect in extreme cases, San Francisco supervisors have walked back their approval amid significant public protest."
+    publishedDateTime: 2022-12-08T00:10:00Z
+    webUrl: "https://www.govtech.com/public-safety/public-outcry-prompts-sfpd-to-pause-lethal-robot-policy"
+    ampWebUrl: "https://www.govtech.com/public-safety/public-outcry-prompts-sfpd-to-pause-lethal-robot-policy?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/public-outcry-prompts-sfpd-to-pause-lethal-robot-policy?_amp=true"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 47
-  - title: "San Francisco Bans Police 'Killer Robots' after Backlash—for Now"
-    excerpt: "San Francisco's Board of Supervisors reversed course and voted to explicitly prohibit police from using remote-controlled robots with lethal force after a swell of public outcry."
-    publishedDateTime: 2022-12-07T13:01:00Z
-    webUrl: "https://www.officer.com/tactical/swat/robotic-equipment/video/21289218/san-francisco-bans-police-killer-robots-for-now"
-    type: article
-    provider:
-      name: Officer
-      domain: officer.com
-    quality: 19
-  - title: "San Francisco Rolls Back Its Plan for Killer Robots"
-    excerpt: "After an uproar, the city board voted to rescind last week's bill to allow police to use robots to deliver deadly force. The fight isn't over, but there's a good reason it should be."
-    publishedDateTime: 2022-12-07T14:52:00Z
-    webUrl: "https://www.darkreading.com/edge-articles/san-francisco-rolls-back-its-plan-for-killer-robots"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 19
-  - title: "San Francisco approved killer police robots. Will other California departments follow?"
-    excerpt: "Dallas Morning News file The San Francisco Police Department was given the authorization to use remote-controlled robots for potentially deadly force after a heated debate over civil liberties and warnings about the continued militarization of police."
-    publishedDateTime: 2022-12-03T12:00:00Z
-    webUrl: "https://www.sacbee.com/news/local/article269431527.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 11
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/8604f3f/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fdf%2F12%2F0514de5543e1ba3d21563cd74d2f%2Fshutterstock-2234565105.jpg"
+        width: 840
+        height: 438
+        isCached: true
 
-secured: "tPxHaIVolbnZOQpop1I8k8aR7GgOocLeJcYPPrO4q2H3YHeD56WFju2qKS+QNGqjUTClUzdv0IRFrUMPxLR7V7feI82RMTySUvvPViDksyzO9cI5Eni4zyAMcX4Yk4ZhSZtaWYG2hRHaz/u106TDnlfJvupKea3cdu/uimfNaKlfAfF3JTdgtm5DFen5H0KzT2qj1odo9yLdO2LF0MZXHLSo3K3KOOHg+ZO16GOxxrozc6uxz1mgJvTd3lXp494NUMPaFZsMB2Y54m7JIjEk9RtnY0zU4SUfOs+Q9oE7WwiBdWuaxnrbkxzTi5IjX8x0/zgGZ4/eQtjYx2x2hyhKaOWYbBXkSgqwDXhIVtaP0cQ=;wlViDkTfqmf1eGFtegoCUw=="
+secured: "C4x76HB7BgIfuAjlnbp7CQY/xG2s8dC1+ULx8B6xBdrZJnja2U+DL+W8GrM95eGCCpd7lXRMkUYaxNgYoe3PJCB7Mg9UmwwYbddRnwtyeCX5Yw+S5sdl5d2LeJoAhZxoR++f3uhyJFxrhCcPYAUzFglMg1mn2ltY2x2HfzFvUKRwa+DbdNs3r8b0XmNaLbga0XzJMYJJR74ffb4dhdB/KGjLme2e6IvXe7CgDop93SBKWKSbYhSe4J9++cPH1eeM7mlUzjAGne+K1y3Yl6iAJ+wAg9xF85XM8t3tpKywyBO3MFXkFa8ohyij9ZlPw5jJpula2mDeamUqBUWvGBp99cy6CUIc+wE6CIs94uMKtjY+jOZt/82x+VLsEUL67EB+pkbLv5G/wcHuiCu3kl/UIuJW/yvWWReKqHkW9R6Eo5hDBBGVL66Oq6hHjDMWJUCNWH9ARmm+G9qMgs1/Fcot4tvXAUK8Pi7FrM3BRanTOc587PRJ5d3SoT9N3uSDxu7Qfp5EAMx8Kwu/z4KSsCKgTw==;+ee5s6cT2cF7sKy7E7qz1Q=="
 ---
 

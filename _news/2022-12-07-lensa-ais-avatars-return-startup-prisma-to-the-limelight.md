@@ -7,7 +7,7 @@ originalUrl: "https://www.theinformation.com/articles/lensa-ai-s-avatars-return-
 webUrl: "https://www.theinformation.com/articles/lensa-ai-s-avatars-return-startup-prisma-to-the-limelight"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,47 +22,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Here's how to use Lensa, the chart-topping app that uses AI to transform your selfies into digital avatars"
-    excerpt: "Lensa is the top free app on Apple's App Store. For a small fee, it turns your selfies into AI-generated digital art. Here's how it works."
-    publishedDateTime: 2022-12-07T16:45:00Z
-    webUrl: "https://www.cnbc.com/2022/12/07/lensa-app-turns-selfies-into-avatars-with-artificial-intelligence.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2022/12/07/lensa-app-turns-selfies-into-avatars-with-artificial-intelligence.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/12/07/lensa-app-turns-selfies-into-avatars-with-artificial-intelligence.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 69
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107162559-1670422900074-IMG_1461.jpg?v=1670438746"
-        width: 4096
-        height: 4096
-        isCached: true
-  - title: "It’s way too easy to trick Lensa AI into making NSFW images"
-    excerpt: "Lensa has been climbing the app store hit lists with its avatar-generating AI that is making artists wave the red flag. Now, there’s another reason to fly the flag, as it turns out it’s possible — and way too easy — to use the platform to generate non-consensual soft porn."
-    publishedDateTime: 2022-12-06T14:35:00Z
-    webUrl: "https://techcrunch.com/2022/12/06/lensa-goes-nsfw/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
-  - title: "What’s The Lensa AI Craze About, Who’s Using It, And What Do Its Critics Say?"
-    excerpt: "To sum up, AI produces unique images based on the principles derived from data, but it can’t ideate and imagine things on its own. As cinema didn’t kill theater and accounting software hasn’t eradicated the profession, AI won’t replace artists but can become a great assisting tool"
-    publishedDateTime: 2022-12-07T21:11:00Z
-    webUrl: "https://uproxx.com/culture/how-to-make-an-ai-magic-avatar-selfie-lensa/"
-    type: article
-    provider:
-      name: Uproxx
-      domain: uproxx.com
-    quality: 36
-    images:
-      - url: "https://uproxx.com/wp-content/uploads/2022/12/AI2-grid-uproxx.jpg?w=710"
-        width: 710
-        height: 400
-        isCached: true
 
 secured: "4VE87zoptX949Ac3hiflCrMtXqQc3Q6M/b3/2KP8WQhKYaflP8D3NBQs9xwSLAKLguJEDHB8UU/Kxl7UTsqAyypBdLcEOS/webWXtkVZbxG19KleeMbfaHTTJr6GoEO+h2MMAJpHpT3P6wBvEz2HpE5am6rtdrxclFSfCJ2ktWt7EU13bT3iY/a4+fqtWkUOjDXdwdK6wlQ7NFoiSCPtReXVn8rk1KVPSqCAeV3SXMCoI/IT2ToW7lcAnQ1uZjEo1iW06Y3rjMv3me6VPBXu+qhpQvvCVfZ/xbr7cMncPYPgumhqcUWHgEx5sqBCjQUDkPqnbgGz+4UxKiiTlt1s5mm18n7flj838i217QwwVt6HGf4C4WmKLFmkqSpq+rHGlvNgur2F1o26fsw+vZfs60cbA1tS4by8rQkOvfbg0vbVu0oy7trXn1gDnuLL7CT5QtrlPVZVX6SD5K+l+Mk2w31OzNNlo9UL2QblCdMhYyQzMtq8hxSJLpY9MECiUhcfogIc1jeI+sYZN2WNsenCzQ==;gj/HUebCiGbaW4GgSup8Kw=="
 ---

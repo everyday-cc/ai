@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Deutsche commits to using AI tech from Nvidia throughout the bank"
+    excerpt: "Deutsche Bank has doubled down on its use of artificial intelligence. The Frankfurt-based bank announced on Wednesday a multi-year partnership with Santa Clara, California-based tech company Nvidia to accelerate and improve artificial intelligence and machine learning throughout the bank."
+    publishedDateTime: 2022-12-07T19:51:00Z
+    webUrl: "https://www.americanbanker.com/news/deutsche-commits-to-using-ai-tech-from-nvidia-throughout-the-bank"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 58
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/95eab24/2147483647/strip/true/crop/3998x2099+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F2e%2Fab%2F08937d7a40b4b2df5be665b66e8d%2F394007626.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Nvidia and Deutsche Bank team up to deliver enhanced, AI-powered financial services"
     excerpt: "The two companies, which have been working on the partnership for the past 18 months, plan to develop a wide range of regulatory compliant AI-powered services. In addition, Deutsche Bank said working closely with Nvidia will enable it to accelerate its digital transformation efforts by using AI to simplify and accelerate decisions around cloud migration,"
     publishedDateTime: 2022-12-07T14:00:00Z
@@ -60,15 +74,6 @@ related:
         width: 399
         height: 399
         isCached: true
-  - title: "Deutsche commits to using AI tech from Nvidia throughout the bank"
-    excerpt: "Deutsche Bank has doubled down on its use of artificial intelligence. The Frankfurt-based bank announced on Wednesday a multi-year partnership with Santa Clara, California-based tech company Nvidia to accelerate and improve artificial intelligence and machine learning throughout the bank."
-    publishedDateTime: 2022-12-07T19:51:00Z
-    webUrl: "https://www.americanbanker.com/news/deutsche-commits-to-using-ai-tech-from-nvidia-throughout-the-bank"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 36
   - title: "Deutsche Bank Tag Teams With Nvidia On Financial Services AI"
     excerpt: "In many industries, embracing AI in the application software stack it is not just a matter of training some large language models or recommender systems"
     publishedDateTime: 2022-12-07T18:53:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-07T19:51:00Z
 originalUrl: "https://www.americanbanker.com/news/deutsche-commits-to-using-ai-tech-from-nvidia-throughout-the-bank"
 webUrl: "https://www.americanbanker.com/news/deutsche-commits-to-using-ai-tech-from-nvidia-throughout-the-bank"
 type: article
-quality: 36
+quality: 58
 heat: -1
 published: false
 
@@ -18,6 +18,13 @@ topics:
   - Microsoft AI
   - AI
   - AI in Finance
+  - AI Hardware
+
+images:
+  - url: "https://arizent.brightspotcdn.com/dims4/default/95eab24/2147483647/strip/true/crop/3998x2099+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F2e%2Fab%2F08937d7a40b4b2df5be665b66e8d%2F394007626.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Nvidia AI Enterprise 3.0 adds new application workflows, partners with Deutsche Bank"
@@ -74,6 +81,6 @@ related:
       domain: nextplatform.com
     quality: 34
 
-secured: "gcsWxVbIw0Zd6pAu5LMJaBtbiFq9tlGFmZ0QruL2v23atrCcAkZN4ggDl5Fg9ubBDMzQfng2EWHHoMctQNBpP3AyucJRHVXrhwPHrhmF/hyFU0dgMhMxgKepuAatDWq11UK1jPOpu6d536eupVzrQf2jjMBM3we0zBBtcXmexeY1iq9L61q91RLDY9wf4YNtZ2BAMY+xRoTYtVPdYEBjpEV1/AVjft7I7i8jGX+1GtlRdZTPxb7OE+TbTXU+L539yMaFFOkfFjXCdDwVvnuRbTo+V2NM3k+dV8v3KCD343AlMI7R8Sb6oARcPTnHUF3GN3BnI0v76neUYHWmIpyGfHiilNDkjVYITq0C+aoAz6Z5cuxUdME7lWB02gfSOnRur+mvTvRT1EwQa6eizP9smMWeQhOeomqLSYxImDItXoqisSewpraeWzMAXxiWUVG9beUVsX/9qWPCxMyVv0I4XKo6iMkmFlNOldYkiieauPxGvGfcKwNF+MjeLEWlOzMP6WDi4/3HzoL/rcSW/M8b0w==;WePsdvSRlmyax8LkfAAmKQ=="
+secured: "8CrnnQy3QYCfvaXIGMxT3JBrBHDxDrJgtDt1yuOZfQnvc++bZIwTmhZucdh1sPXNgV3Y6VmOlmah/snvK6Yg9lxQgj/PvqPZOCcGS4kiNBNUoJtCCawY4nfVkgLQKnxJy1n0eM7VJlsHsSuX6i2a6A3lG1Xaw3G8BY+pbxk+tDYqSf3Zq/2Sx6/Fq9h+XS3douL+bJUDZL/wOIyMW2IcVLYQOGBxHZANP0BCDivDksjBi599x8d/Jujx6OUtj4gvQwh6oLXoVMI4lpUlJNlRZ1UuxBi6qgWSvyCw8EpFdB8WbXTCRvTN2/PNJIb3XLeVyJL+jEQrlLthcg/8P+/6SNn1RlLffeyUNIU5lQitWQc=;4yuITqwjGqIwhslsmMvyhQ=="
 ---
 

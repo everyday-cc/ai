@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "San Francisco changes course, bans police use of 'killer robots' amid public outrage"
-    excerpt: "Tuesday's vote came a week after the San Francisco Board of Supervisors voted 8-3 to initially approve allowing \"killer robots\" in emergencies."
-    publishedDateTime: 2022-12-07T14:22:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2022/12/07/san-francisco-rejects-police-killer-robots/10850743002/"
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: usatoday.com
-    quality: 32
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2022/12/07/USAT/c9adb8b8-3d83-42cc-b571-0c25a546698d-AP22339697584874.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "San Francisco Bans Police 'Killer Robots' after Backlash—for Now"
     excerpt: "San Francisco's Board of Supervisors reversed course and voted to explicitly prohibit police from using remote-controlled robots with lethal force after a swell of public outcry."
     publishedDateTime: 2022-12-07T13:01:00Z

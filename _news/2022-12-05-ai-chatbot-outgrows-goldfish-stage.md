@@ -89,9 +89,9 @@ related:
         height: 576
         isCached: true
   - title: "How AI That Powers Chatbots and Search Queries Could Discover New Drugs"
-    excerpt: "Natural language processing algorithms like the ones that power search queries promise to slash the time required to bring medications to market"
+    excerpt: "Natural language processing algorithms like the ones used in Google searches and OpenAI’s ChatGPT promise to slash the time required to bring medications to market"
     publishedDateTime: 2022-12-07T14:59:00Z
-    webUrl: "https://www.wsj.com/articles/how-ai-that-powers-chatbots-and-search-queries-could-discover-new-drugs-11670428795"
+    webUrl: "https://www.wsj.com/articles/how-ai-that-powers-chatbots-and-search-queries-could-discover-new-drugs-11670428795?mod=tech_featst_pos3"
     type: article
     provider:
       name: Wall Street Journal
@@ -265,6 +265,31 @@ related:
         width: 1050
         height: 700
         isCached: true
+  - title: "ChatGPT is the clearest example of how seamless AI has become"
+    excerpt: "OpenAI's new program creates stories, poems and other text that can be mistaken for human made. That comes with issues."
+    publishedDateTime: 2022-12-07T21:00:00Z
+    webUrl: "https://technical.ly/software-development/chatgpt-openai-ethics-artificial-intelligence/"
+    type: article
+    provider:
+      name: Technical
+      domain: technical.ly
+    quality: 39
+    images:
+      - url: "https://technical.ly/wp-content/uploads/2022/12/pexels-pixabay-373543-e1670436461110.jpg"
+        width: 1000
+        height: 666
+        isCached: true
+  - title: "Does ChatGPT mean robots are coming for skilled jobs?"
+    excerpt: "Productivity gains in knowledge industries, like past gains in traditional industries, will make society richer and improve our lives in general."
+    publishedDateTime: 2022-12-07T22:22:00Z
+    webUrl: "https://www.seattletimes.com/opinion/does-chatgpt-mean-robots-are-coming-for-skilled-jobs/"
+    ampWebUrl: "https://www.seattletimes.com/opinion/does-chatgpt-mean-robots-are-coming-for-skilled-jobs/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/opinion/does-chatgpt-mean-robots-are-coming-for-skilled-jobs/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
   - title: "How AI chatbot ChatGPT measures up on Seattle knowledge"
     excerpt: "The artificial intelligence chatbot has gone viral for its precise answers. We set out to see what it really knows by asking questions about Seattle culture."
     publishedDateTime: 2022-12-06T22:29:00Z

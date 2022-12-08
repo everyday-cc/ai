@@ -24,6 +24,22 @@ images:
     height: 1080
     isCached: true
 
-secured: "2FAkPsbKo50cT4K56YYTa3yD/phMX32sdRcXRY8V7fTT88+6AG+eh2kvQSPEZz4RFj0NTuBXwPim2Bq4xyRcPUuA2C8abZZU1+Z/coRLLiZStWzBbv/lD/nGkmS0tU4VODCorSrh7VS9fxtlaS1/a/g+zYKVZtp7NhnUZjbnJFke7rf+whbW3A0rBF6jkbg9laRFymmza6/cLYpMCQJQEYrtvgfQe9GkMdT4dXjVYd3GXZlAbnNtIVmDhsFomPtgx3WbJwCoKIo90f3PwOHFZo8+ZEMhkwUby8Rxm/HLhxu6Lyo55tMIJS94cAZ2WY4S1QufVr0ugB7koWUpiYaENYzu0JwR7KvLGWY2DJpS8JY=;FCpgfuYaL7TZlh87uklDnw=="
+related:
+  - title: "What’s The Lensa AI Craze About, Who’s Using It, And What Do Its Critics Say?"
+    excerpt: "To sum up, AI produces unique images based on the principles derived from data, but it can’t ideate and imagine things on its own. As cinema didn’t kill theater and accounting software hasn’t eradicated the profession, AI won’t replace artists but can become a great assisting tool"
+    publishedDateTime: 2022-12-07T21:11:00Z
+    webUrl: "https://uproxx.com/culture/how-to-make-an-ai-magic-avatar-selfie-lensa/"
+    type: article
+    provider:
+      name: Uproxx
+      domain: uproxx.com
+    quality: 36
+    images:
+      - url: "https://uproxx.com/wp-content/uploads/2022/12/AI2-grid-uproxx.jpg?w=710"
+        width: 710
+        height: 400
+        isCached: true
+
+secured: "49/SPNQt7PHU/iMScwEH7IHEZwRdm09H5vFXuvgUS4N78TD9Y6FxzPPPeY7ZjC8IxXyPyndSrhasw/kdyg5PC8cBPAZwc3VD0Y6frGuriG6AS9R8mcA4f3LAGElJ28qJKCtMso0rAB10dgsQrm/t014qBap7mWGKSMcfQjcPInoBekF1Lefb3p2KvGH1JjWHIycupbBuCVAqcoy9NhW3Ujj1NOwNZ7BHea/OqbO9Urn5SpBaj32l6t4OEvqzBqG/+tC/KYorMdb14oAa5WvHtY08JJRGrcBGhO8blhULflXv0Sw7oDlPj0BM2hHUFIQbAaaO+yq0iO7b1u+KnVc10Lz9ZBVGPAF9aqFq1NCL25MvVJdGVLAa4HoE6o978iLAwxTViZy9TZDrRSF/ulokOSFN0ZWyIqp/YG8BqwDkyosFSNVBEg1sVrR2+kAdzmzXCfLJfJwrk5UccTT86fDZJg4BMu8S1POCUQFwKpSwTMNeFfmmC7oB+vy7VWRHrob7pArKdVcATyr7ayGk82/qwA==;RudVpTxDJHIIp4nkMFNaGQ=="
 ---
 
