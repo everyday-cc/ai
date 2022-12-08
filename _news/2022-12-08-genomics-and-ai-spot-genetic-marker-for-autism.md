@@ -3,10 +3,10 @@ category: news
 title: "Genomics and AI Spot Genetic Marker for Autism"
 excerpt: "Scientific studies to date suggest that autism tends to run in families, and that it develops due to genetic and environmental factors. Recently a team of researchers from Oak Ridge National Laboratory discovered a genetic mutation associated with nonverbal types of autism spectrum disorder (ASD) using a novel method and artificial intelligence (AI) machine learning."
 publishedDateTime: 2022-12-08T13:36:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202212/genomics-and-ai-spot-genetic-marker-autism"
-webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202212/genomics-and-ai-spot-genetic-marker-autism"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202212/genomics-and-ai-spot-genetic-marker-autism?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202212/genomics-and-ai-spot-genetic-marker-autism?amp"
+originalUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202212/genomics-and-ai-spot-genetic-marker-autism"
+webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202212/genomics-and-ai-spot-genetic-marker-autism"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202212/genomics-and-ai-spot-genetic-marker-autism?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202212/genomics-and-ai-spot-genetic-marker-autism?amp"
 type: article
 quality: 57
 heat: -1
@@ -43,6 +43,6 @@ related:
         height: 669
         isCached: true
 
-secured: "hjOqpVjCEHTZOQ9Vys0xkxx15LnYMeL/F92A+UQ5w3Jm/d+dgyGbe97sI0ZM38GstdJKWUICyBaDMeWgXzliXW+nMzDbuuQ5q+K4uM695zxirKC+t+cJgsTk3VNz0EPC0mLoh6AnB0MZzi63ccZ8yzY1I892/owVc8EdoR9JrhOqx1vupax9RzWybmafpWVhc0uPWbGkRRUHHinBh91TDLPw5vPpbTuXkPTv3+Td5R3k7rgCW8UpL4xqactU2EHRPOWrKYnShV5Z1hCvY99avstMyAXeu95JndX6ibMCf2CFCVMu74+/mOhFZFrSsR4nu1oEgSwQECZ23PrttVwhTpACkNwwQXuh2NuHLNSBt+4=;yXQSlCLgjdmmB5ocewSDvQ=="
+secured: "4ra7e0cdQ3IC0nnhWCvlXrLKqzAFbeRahm5LSyy4S1gWUJs3YLaAt9ij3VAuqVRoBBVv79uSZL/eS39W1hnrsmgV7cLubJ9PRtypRBJDeuBAitlKZaebI/dGlV0zxLSLlbiQONwZYbVJAkalmdHLKkZouMxy9z1MeqeSIdfgCVz0q5qM7ZfYFvUZSghKkgh1yfUwjvlfpjRh2PNgjae5EynpLUytCE99uMlf0mtuai6V0g/KiCkg6Xtelf60jzmyiW0j0oL+lo5IKLwMee0CRmJWSjRnIpR9eaKirudjLklgIeEe5W3Eiy/4Re1hppVSD+WQ+sKl/aFQs5dYpgPQSQvtEvJbJ4N7NBMQrivPJgs=;GxHo/SlWkarrb49SiG2Dww=="
 ---
 

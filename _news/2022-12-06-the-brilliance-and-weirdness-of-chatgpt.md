@@ -127,6 +127,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "ChatGPT: Why Everyone's Obsessed With This Mind-Blowing AI Chatbot"
+    excerpt: "This artificial intelligence bot is an impressive writer and conversationalist. But be careful how much you trust its answers."
+    publishedDateTime: 2022-12-08T18:47:00Z
+    webUrl: "https://www.cnet.com/tech/computing/chatgpt-why-everyones-obsessed-with-this-mind-blowing-ai-chatbot/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/chatgpt-why-everyones-obsessed-with-this-mind-blowing-ai-chatbot/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/chatgpt-why-everyones-obsessed-with-this-mind-blowing-ai-chatbot/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/084641681c8362c3ce0c3eb8a53365351adcaaac/hub/2022/12/06/3dd7180c-d0e7-47ca-bc37-b5df15a41a25/ai-chat-gettyimages.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How AI That Powers Chatbots and Search Queries Could Discover New Drugs"
     excerpt: "Natural language processing algorithms like the ones used in Google searches and OpenAI’s ChatGPT promise to slash the time required to bring medications to market"
     publishedDateTime: 2022-12-07T14:59:00Z
@@ -495,6 +511,6 @@ related:
       domain: slator.com
     quality: 2
 
-secured: "Vh4QBgFrIn0XOA8h3SiwvLH6Y9p2jicA9pd8kJR2HJ6I94l0JfjgED/IOXUIDRCz0uYNoCyn35/1KjXYimLGxHJL/VMld9ZSNoBBv0bm7ZulpNOd12iFLEWWivHXqfqJlg062UFI4TfpNY+tLYhDCBYxvbEZG/XeVExFuZSoT9npBUbpRbmqjUbEFwzDzwFeWLYIinw8wokAQRhZocFbrzvT2eEHBlL1xi//FZ76CQ6VdZ7sk6rSJNC7uA5jvbjbZL+AEBotxEivNMSJgMXuvNwKEKAuEPd15U9TsNctsTPK7cvozuQn6Z54sqG/n3yC9HM4PSTbDbW3zGj8mpJQTLc1bHF57IbJe0e7S3S/noc=;F+e23IWMZheqQvNzF7VOMg=="
+secured: "R4gKW9SNxtPabfdorNF5U33kNKBWYJamlypFyQ3Ak479TB4DO3jhScXGZAXT56Z07HTr9YULALFETpDn2ctW/A9OA5m6PMI3/putFm9YitrtMrQjBs+3b31Sd4juwIij0QDE0Q76M1OY/s2revFvWyQkVZKj2G9wwVuqNpP3AKsoW+6ELk+Ng92RzZq8HuhYbLmykIFExevsvQwKGxirlPFDylVaNIQGHOOOQ6GT7FnOtNkyDvDkwXr5OzVwAbJpvzCQZQhq+8EK6JjbAlX3FwTXVZmK45rM0SZXxx6uQVDDALMbJV8vTCXrqLWwGdEDbwG61RdLAt2onW+8jjctjGebJkxmX87eqyeujAbKnn2aXl9TEv5A2Vo7U4IcFYkec5kYJi7pBj0aU3xD0hQrincTiPXKQD2API98mI4CoZQ73LEWgVdaXKPQAoyccmyif+0rJAlGKssNUILk0UW3PJDRlsgB1lAq1Vd7a+B9v5x0JvAtw1tw4OLBIPfUqEmxfqj4cpbz0OfdS4/tdu4iIw==;zXp/4KhrcGvt24y0pNlqfg=="
 ---
 

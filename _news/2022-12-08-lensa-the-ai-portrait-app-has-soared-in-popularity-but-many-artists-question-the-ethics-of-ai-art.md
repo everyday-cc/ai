@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna60242"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna60242"
 type: article
 quality: 91
-heat: 142
+heat: 152
 published: true
 
 provider:
@@ -59,6 +59,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2022/12/digital-art-ipad.jpg?resize=1200,800"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Here’s Why People Are Speaking Out Against The Instagram Trend Of AI Art Apps Like Lensa"
+    excerpt: "There’s a debate about data, intellectual property, and identity brewing in regard to an app that charges you $8 to turn your selfies into art."
+    publishedDateTime: 2022-12-08T17:43:00Z
+    webUrl: "https://www.buzzfeednews.com/article/kelseyweekman/ai-art-app-lensa-instagram-photo-trend-problems"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/kelseyweekman/ai-art-app-lensa-instagram-photo-trend-problems"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/kelseyweekman/ai-art-app-lensa-instagram-photo-trend-problems"
+    type: article
+    provider:
+      name: buzzfeednews.com
+      domain: buzzfeednews.com
+    quality: 80
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2022-12/8/18/campaign_images/cc58f94f9976/60-of-the-most-mind-bogglingly-dumb-things-people-3-1021-1670525291-37_dblbig.jpg"
+        width: 625
+        height: 415
         isCached: true
   - title: "Skeptics Address Privacy and Security Concerns With Viral Artificial Intelligence Self-Portrait Generator"
     excerpt: "Some professionals and users are questioning what the Lensa AI app actually does after users upload their selfies and photos into the database."

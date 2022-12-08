@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Artificial Intelligence in Fintech Market Report 2022: Increasing Use of AI-Enabled Solutions in the Capital Market Presents Opportunities"
-excerpt: "The \"Artificial Intelligence in Fintech Market: Global Analysis and Growth Forecast to 2027\" report has been added to  ResearchAndMarkets.com's offering. The adoption of AI systems and techniques in finance is growing rapidly,"
-publishedDateTime: 2022-12-05T14:22:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/12/05/9724212.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/12/05/9724212.htm"
+excerpt: "The \"Artificial Intelligence in Fintech Market: Global Analysis and Growth Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The adoption of AI systems and techniques in finance is growing rapidly,"
+publishedDateTime: 2022-12-05T15:23:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-fintech-market-report-2022-increasing-use-/2022/12/05/9724212.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-fintech-market-report-2022-increasing-use-/2022/12/05/9724212.htm"
 type: article
-quality: 2
+quality: 0
 heat: -1
 published: false
 
@@ -17,7 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-  - Machine Learning
 
 related:
   - title: "AI Offers Fintech Much More Than Curb Appeal"
@@ -92,6 +91,6 @@ related:
       domain: benzinga.com
     quality: 19
 
-secured: "w1vXMGRaGW1Kxs5WOal4043Uuf8/xgOC/7Rx/FawlekFZKeMwTqC5phaKvJKeBgESVTPtNg0zpKEUM0PCazaihjZgzKMKptORAGx/pVZicTwjMZ1s+XtFEJtJDkIUTZ5zM+4FndD7kFOowcrcgkfRT2FhO3CdeMrpXdrH24H6VP1R0Y+0R6lwNa9NzgYnr2ASAwTUP+C7SsgSiwogxOHd9jxoCBrm4GPMRoTCxe2a8gyW035mtbSuWnAAx770KzZcN+gSQCQPJmo1A8cyinvV747KYW7aPJKoMXjMDCAUfcJvMHf2EBCLL0D5UprQRCUqfVjyyEeUSfHap/n56p+GkCeeLpqf2MpsYSOpCY7POs=;s4ESdzDurRB4tIHhRDUuLg=="
+secured: "nA9jziaB0/ISY8YPwtRdi58aU6ASs1X4Itg/gk0Prer1koVF4DbiN9OA/mrGtUmMnIvRNczr5r8xE/Ka4tu1JSszj3jH6RlB07mlj8eda+bMXkQSokBqQIn7A7LKr3AnNYM1hEOfpVv21223dnNUcY/wh1kVxvw8LwTW5q++A/xThrsQNSnWkOHomUnHyClfHpCTMBWMZ8APh2s7ING3cP9ewwd9KGVPm5VKDD032/I1J0I/pWQUPyZq69hNmOIobolfeUCYV6yUVPZOPqkBJGEo9mQBjnjt6rKkSvOGMeaVJCSruF5psvIscHavpumMe5Dsuzrgqy2tSsLzhUAf+RG+Wc0FXG3Ap76Kn/jokuU=;f45NZPgvrcI+bM3fJZ1hCw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/randybean/2022/12/07/how-creative-artis
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/randybean/2022/12/07/how-creative-artists-agency-caa-is-employing-data-analytics-and-ai-to-shape-the-culture-of-our-times-and-inspire-the-world/amp/"
 type: article
 quality: 59
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
         width: 690
         height: 460
         isCached: true
+  - title: "Opaque Systems Unveils 1st Multi-Party Confidential AI and Analytics Platform"
+    excerpt: "Opaque Systems, pioneers of secure multi-party analytics and AI for Confidential Computing, today announced the latest"
+    publishedDateTime: 2022-12-08T17:54:00Z
+    webUrl: "https://www.datanami.com/this-just-in/opaque-systems-unveils-1st-multi-party-confidential-ai-and-analytics-platform/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 18
   - title: "Five9 Elevates Omni-Channel Customer Engagement with Innovations in Digital Self-Service, AI Design, and Analytics"
     excerpt: "(NASDAQ: FIVN), a leading provider of the intelligent cloud contact center, today announced new capabilities that help businesses deliver more engaging and unified customer journeys across digital and voice channels and between virtual and live agents."
     publishedDateTime: 2022-12-06T13:01:00Z
@@ -99,6 +108,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 9
+  - title: "Opaque Systems, Pioneer in Confidential Computing, Unveils the First Multi-Party Confidential AI and Analytics Platform"
+    excerpt: "Opaque Systems, the pioneers of secure multi-party analytics and AI for Confidential Computing, today announced the latest ad vancements in Confidential AI and Analytics with the unveiling of its platform."
+    publishedDateTime: 2022-12-08T17:02:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/12/08/9727135.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "O5cr4W7Z703FhXihRH63T2WKVQbdUElkup/JAaVvdnFOmAp75AMSpZVZc88EqcP3YgoxqfrY1D7jb6DFSL+QwrnexN3ufnDqPDdFimD2hz66Zngv866LwjnRl+G623I+mQwBjLSJLl+GSysL+qr+CqQS64bj0B88/gFxyI88+dI15XRNXtlWQXfz9Hy8AnwvDYyFnyNZPgDkjjSfO0WIe/tF8lOEQbzxJ87kmeGHVxtlW2lebuAzM0StYGqGWv0wHX/IqA4TWNjyH8WZTpWZb3nx0tB3vVTyvEkKlrUFvki3EXrrGuLX+iq2abCyV1f1eYk4DVxfgjtItVHr0aqNeLUN/nu24vdMZl7VHd02fm4fQgyyCXUC5opH2S6iD7wvveJCwcSFi8q520yVxqbKquxzNeMA55fClsugHkInv79ARdtnQS8LSnRBFAlUIg2cPifUNQr2kRUP7NLtXCLX8WzXfACb56ragmwql6zdVjZ8FASszLgvrN6Tv9gwaT/f9l211o3MxnYkpQ7QdxKdLw==;Zd91mo91YEk9arjTS1yRBQ=="
 ---

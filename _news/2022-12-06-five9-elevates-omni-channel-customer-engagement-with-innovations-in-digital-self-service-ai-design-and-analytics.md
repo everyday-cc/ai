@@ -78,6 +78,15 @@ related:
         width: 690
         height: 460
         isCached: true
+  - title: "Opaque Systems Unveils 1st Multi-Party Confidential AI and Analytics Platform"
+    excerpt: "Opaque Systems, pioneers of secure multi-party analytics and AI for Confidential Computing, today announced the latest"
+    publishedDateTime: 2022-12-08T17:54:00Z
+    webUrl: "https://www.datanami.com/this-just-in/opaque-systems-unveils-1st-multi-party-confidential-ai-and-analytics-platform/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 18
   - title: "New Opaque Systems platform offers advances in confidential AI and analytics"
     excerpt: "Secure data analytics startup Opaque Systems Inc. today launched a new platform that includes what it says are the latest advancements in confidential artificial intelligence and analytics. The Opaque platform has been built to unlock use cases in confidential computing to enable data scientists to secure and perform collaborative analytics directly on this encrypted data."
     publishedDateTime: 2022-12-08T14:00:00Z
@@ -96,6 +105,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 9
+  - title: "Opaque Systems, Pioneer in Confidential Computing, Unveils the First Multi-Party Confidential AI and Analytics Platform"
+    excerpt: "Opaque Systems, the pioneers of secure multi-party analytics and AI for Confidential Computing, today announced the latest ad vancements in Confidential AI and Analytics with the unveiling of its platform."
+    publishedDateTime: 2022-12-08T17:02:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/12/08/9727135.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "X71bij0UgBXP5Mnq+RmaBOd//Ednfz3xLi46ZvYAlFpkAw6AxbpqCIm/NKBc+KUd2pQxLRG/W6iarJd014YWWfqRB7sGJ3Gv5PvZBJyClj2TETjd/blhvHFGNbnIRdmDRMDK4/RXHGWRtAgtz1U9tGBUGmh6kI28abFrZ/In+GYA+1fgPCtQydoCOcLYstfbfLPn1N2twlINXI+1tKPBLNbm2BeB9SHT2heJTaLqECtP0CeP/Abl0A2beoP0j6ylw5Bhk4Eq3CaxukHdobUfIJjuIi1NzdU/DKEpMlDFngtr16nsi/gXtBweAYnGmSuxy6yOfOZHIrcY3gcUH9rgiU9B5EsE/jaQXdkl1tmpLok=;8lk2WmGFuZoByfZYMReI7A=="
 ---

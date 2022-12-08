@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS re:Invent recap: 20 biggest products and announcements"
-    excerpt: "I’m happy to welcome over 50,000 customers and partners here in Las Vegas and over 300,000 attendees virtually around the world,” said Amazon Web Services CEO Adam Selipsky to open up his keynote speech at AWS re:Invent 2022."
-    publishedDateTime: 2022-12-08T10:49:00Z
-    webUrl: "https://www.crn.com.au/news/aws-reinvent-recap-20-biggest-products-and-announcements-588921"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 41
-    images:
-      - url: "https://i.nextmedia.com.au/News/20221208100106_aws-simspace-weaver.jpg"
-        width: 610
-        height: 457
-        isCached: true
   - title: "Five top takeaways from AWS re:Invent 2022"
     excerpt: "This is an interesting contrast to CES 2022 that kicked off the year, which drew about 45,000, way down from the close to 200,000 it typically gets. To me, the massive draw for re:Invent indicates that live events are back and people have a thirst to not just to connect with their peers but to engage actively,"
     publishedDateTime: 2022-12-06T01:09:00Z
@@ -52,6 +38,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/awsreinvent2022-asktheexperts.jpg"
         width: 4896
         height: 3672
+        isCached: true
+  - title: "AWS re:Invent Recap: 20 Biggest Products And Announcements"
+    excerpt: "Invent 2022 new products, partnerships and big news announcements focus on AI, security, data, IBM, Red Hat, Accenture, AWS Marketplace and cloud innovation."
+    publishedDateTime: 2022-12-07T19:13:00Z
+    webUrl: "https://www.crn.com/news/cloud/aws-re-invent-recap-20-biggest-products-and-announcements"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/0274-1500bd72672e-acf899082c06-1000/aws-sign-summit.jpg"
+        width: 610
+        height: 458
         isCached: true
 
 secured: "srqMB6GK0X+2MOkzuLZgqZt3akxE3QtGob2dFksyVZPMlOKFw6xOHIxXrnHfSPtSOcmJqnx9JZYLeCKoIANLb2Q4HGWy53CoO0w1imN9j3fBnGsZwKo7e+EdHF4t6+uEWkPeBx8sT5DUnTZ6W2BUj90t6dIyYLETOeSzqfpALUBmOUv6R3oSSozdsJVX6FCGsc0zwLxmcuOiN+t32ddnsdkCdABrp7MYFvWKicuORbs983jHJln8pLz1xNuFGk8Q4WJ+hJ0CUvJMUsU29PfqPcJcWTjPwKAgvuvVbfzrizokfwOJj7N4CwnrJmOfvPeMTnVHdGjKfBTiUePcax7RQbx5hAd170kaRvk6GL74CxI=;+sDHe7ywBECNdXLScSLgZQ=="

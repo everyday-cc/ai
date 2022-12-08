@@ -72,6 +72,15 @@ related:
         width: 690
         height: 460
         isCached: true
+  - title: "Opaque Systems Unveils 1st Multi-Party Confidential AI and Analytics Platform"
+    excerpt: "Opaque Systems, pioneers of secure multi-party analytics and AI for Confidential Computing, today announced the latest"
+    publishedDateTime: 2022-12-08T17:54:00Z
+    webUrl: "https://www.datanami.com/this-just-in/opaque-systems-unveils-1st-multi-party-confidential-ai-and-analytics-platform/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 18
   - title: "Five9 Elevates Omni-Channel Customer Engagement with Innovations in Digital Self-Service, AI Design, and Analytics"
     excerpt: "(NASDAQ: FIVN), a leading provider of the intelligent cloud contact center, today announced new capabilities that help businesses deliver more engaging and unified customer journeys across digital and voice channels and between virtual and live agents."
     publishedDateTime: 2022-12-06T13:01:00Z
@@ -95,6 +104,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 14
+  - title: "Opaque Systems, Pioneer in Confidential Computing, Unveils the First Multi-Party Confidential AI and Analytics Platform"
+    excerpt: "Opaque Systems, the pioneers of secure multi-party analytics and AI for Confidential Computing, today announced the latest ad vancements in Confidential AI and Analytics with the unveiling of its platform."
+    publishedDateTime: 2022-12-08T17:02:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/12/08/9727135.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "//AyrDa4o93zxN8cH/NhDNW0T5O5rlkLayGdAWMaEoOO/FXCtV+n89c7p7hD2ty5EGssrqg1WYzgetRVnu9npV1z09nwU7OkRAVtestrPeg0q1XpuLoRgl2BLY8Sx6LVeawu/Cic964yBX/XWxo5pGGtTWqAE5b0eH1aIajVIDDxSTDfLthvQicOsKbDmSxDhas3n5F9FSURtl3ZyuyORla17QyCKyjCieAu/OI1Dmu3SVv0Kj8D859YqAtOOa09y2cMjxD0h3gVkSTKWI0TjG3PQYKmrCGPtTlGpY80QGS6ieMnn8kAaBgpqXDqi7tYC/bKYY3GB0hVaevAXOt0wUG5AYFLqbV6sIZXQxgSqrM=;JiFFuxpAwoACE3+WRAdtiw=="
 ---

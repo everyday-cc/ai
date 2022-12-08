@@ -1,27 +1,29 @@
 ---
 category: news
 title: "As AI rises, lawmakers try to catch up"
-excerpt: "PARIS: From \"intelligent\" vacuum cleaners and driverless cars to advanced techniques for diagnosing diseases, artificial intelligence has burrowed its way into every arena of modern life. Its pr"
-publishedDateTime: 2022-12-07T17:34:00Z
-originalUrl: "https://www.channelnewsasia.com/world/artificial-intelligence-law-ai-bill-rights-technology-3127711"
-webUrl: "https://www.channelnewsasia.com/world/artificial-intelligence-law-ai-bill-rights-technology-3127711"
+excerpt: "The European Union is likely to pass legislation next year – the AI Act – aimed at reining in the age of the algorithm. The United States recently published a blueprint for an AI Bill of Rights and Canada is also mulling legislation."
+publishedDateTime: 2022-12-08T12:11:00Z
+originalUrl: "https://www.citizen.co.za/lifestyle/technology/ai-artificial-intelligence-laws-2022/"
+webUrl: "https://www.citizen.co.za/lifestyle/technology/ai-artificial-intelligence-laws-2022/"
+ampWebUrl: "https://amp.citizen.co.za/lifestyle/technology/ai-artificial-intelligence-laws-2022/"
+cdnAmpWebUrl: "https://amp-citizen-co-za.cdn.ampproject.org/c/s/amp.citizen.co.za/lifestyle/technology/ai-artificial-intelligence-laws-2022/"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: The Citizen
+  domain: citizen.co.za
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--7RJEXN80--/fl_relative,g_south_east,l_one-cms:core:watermark:afp_watermark,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/0fc086d0db50e6b05af4ed6b1c51403ad28c2036.jpg?itok=QS0iJ7HL"
-    width: 1200
-    height: 676
+  - url: "https://media.citizen.co.za/wp-content/uploads/2022/12/ai-artificial-intelligence.jpg"
+    width: 1500
+    height: 1000
     isCached: true
 
 related:
@@ -56,6 +58,6 @@ related:
         height: 573
         isCached: true
 
-secured: "Lzch2PuyvjgUSGlYDiIK3JqG6RcEXx9gq4b/NxJdJE1lGStJGaIUVuv2xEHs/Y0iRlfmw9YTZYKUYFgTFCRpTn4kxqEGIVKV6KFpaaEFkeo2d2e8zLLxAC78ETi/FPm2T0+BU5p9JEmmyljqxmBSFTt1+yBCb73xlQL0uzufHiZjuduDn1CbYFbGYDRod9pU0Gx/zKow9S5ApZmeBoPv7evH0RpSerzhIRMUI9ToMCQQA5Q7+O37Y9tD0v+As3g+IAUJ8Uo9ybrYqCVZP+2iSN2mv+twRoeJw9t8/UZeU/8Q502cYkjFuEXe8smwlGDuuRZ49fThr2GEl5oqOT9Vbh0c8t0N0mXJiKWYvPo5r9AJcM8WlaJyGeKfHgz6JBj4cdCBvXauwPo+A5pHJ+Hc7azIsjZ6Ra43UhU5oscje6M/4xCkqqqsQ7CrTCHp7RT6nkzXrCDM/mmb5jpjNGA2uFafWS3RGKhfLkSCuWzbj5J+mt1k3029FMhLtSGcR8KxNv8/tfKJyxxmnfpz/KKuxw==;r3NAnMYnagwoeYw7v7dqUA=="
+secured: "kRXB57nsrf6Phw3k//UjdSh9yhJ50PWdZujcUJVBAbfDDshaKSCjtMgtZqqt7Qj2+/oTLwDFpX2gGAO1VkbgCm9x+mDvq9L8ELH+yKTlT6dtrnubggO5YYln63O4ewNVt7XZw+UCG8yEU3p+WkxIR9rI7JnqcpDw2WS1COgRYhzdFH71S52RI9oCcWi0zvpjowezQOZvK0b/D47B1unzHcONNfeStM8dcpKx+6u6CBYj+9roYjZIX9rUhspINDqB9UxmL/lufziBvW83O4rgybkiZpu1kH5pBMTYEXeREUZvCTiee7zZaBCoCEMd6WCCCmCsOShRJms54eqh/IgVy5nxi68W04xOniklTnnples=;CVuUmkleSOr9nFqKcJYvVw=="
 ---
 

@@ -124,6 +124,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "ChatGPT: Why Everyone's Obsessed With This Mind-Blowing AI Chatbot"
+    excerpt: "This artificial intelligence bot is an impressive writer and conversationalist. But be careful how much you trust its answers."
+    publishedDateTime: 2022-12-08T18:47:00Z
+    webUrl: "https://www.cnet.com/tech/computing/chatgpt-why-everyones-obsessed-with-this-mind-blowing-ai-chatbot/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/chatgpt-why-everyones-obsessed-with-this-mind-blowing-ai-chatbot/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/chatgpt-why-everyones-obsessed-with-this-mind-blowing-ai-chatbot/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/084641681c8362c3ce0c3eb8a53365351adcaaac/hub/2022/12/06/3dd7180c-d0e7-47ca-bc37-b5df15a41a25/ai-chat-gettyimages.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Brilliance and Weirdness of ChatGPT"
     excerpt: "ChatGPT is, quite simply, the best artificial intelligence chatbot ever released to the general public. It was built by OpenAI, the San Francisco A.I. company that is also responsible for tools like GPT-3 and DALL-E 2,"
     publishedDateTime: 2022-12-05T23:35:00Z
@@ -494,6 +510,6 @@ related:
       domain: slator.com
     quality: 2
 
-secured: "0d43Q2oh6ehRHDT6YSRUSufOW2ZmD4/96897Ydo1c2dtFSjJGCZRlUIv7LBnESjXJxuU4BVXEMUdo5xORzC21plfVmXwCT7i66OZDfQMKkt8CsrNiNv6+Olh/rQhPN7phuKt8XqftHpZZ/gl2W1/lebX4UP0gxSC83IYHzoTUyZ/u7bvELqn1VLEa3h82e+2y0J3Q5mgNW1brGflpRHgLOqnm8VReAm8mttm5WU4QD8dPICaHO+zFDTdObQNmwRMv7meDXPIAJvilrSiufiRiIffxdNAJwhhqVRi9JB0WLv93NurDGyYHnZ1USixXQU68Kh8/JH7ZpTE2mXiYCvZ0iICM6eoaJ+6byyktat1CHE=;QamsZAigv2il3Cbolmvj5Q=="
+secured: "L18XmNcYIlnZGRIZzKPylrRWcGmXMdwZAct3dakj9RqnVTwtqom0kKIy698M8eKnhZFJHXIitTVZvfBZ7dmKne8xhFulrtCcnoqvsQFLcGCgI4mDAQwI7JP6pYFGIL6miPjlsmwI3pE4CaMaBnArgRhLxRP0QBLj66nD9Ux+lGNrDHLe4cucbht5CkfUBehT1bl9jU2bDD66bJCBFvMX2aBpsmZqVhxktP92J251KueMBqQjZB6qr/FeDAEMskWam2kQCiBvL1hYQPtuSbmCMpOmCnNam509bvfTInhLnpRk2xgy4PinbCABpNVpWKdhDP3CKK5AjjNErBNlgZQiQ+GjpFVn1xg2wVn/qgNBgWzB2ClZnsJZchHLDhPxicSJkYkbwxzCUG5Dwmt58N6mWT9gKp6WOe3/sE2dfEZfgxi6sqElu99hUiNNC8K3OOTk4C0vtPPhLCmtoo/HOIZ3XUwjMkxNHjvOKwCKR2uqldDOBUhVdO6o8e48DQTfYd9Uchm2R02Wy6MV1iPnGlLZ1Q==;Yusk8xp2pqoyRPXHE6EuiQ=="
 ---
 

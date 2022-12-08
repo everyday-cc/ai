@@ -83,14 +83,14 @@ related:
       domain: benzinga.com
     quality: 19
   - title: "Artificial Intelligence in Fintech Market Report 2022: Increasing Use of AI-Enabled Solutions in the Capital Market Presents Opportunities"
-    excerpt: "The \"Artificial Intelligence in Fintech Market: Global Analysis and Growth Forecast to 2027\" report has been added to  ResearchAndMarkets.com's offering. The adoption of AI systems and techniques in finance is growing rapidly,"
-    publishedDateTime: 2022-12-05T14:22:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/12/05/9724212.htm"
+    excerpt: "The \"Artificial Intelligence in Fintech Market: Global Analysis and Growth Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The adoption of AI systems and techniques in finance is growing rapidly,"
+    publishedDateTime: 2022-12-05T15:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-fintech-market-report-2022-increasing-use-/2022/12/05/9724212.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 2
+    quality: 0
 
 secured: "hsKqUssFS9POReaMU4H535kT2FzQD1hkXrN8p1jpnXnRoljuqeBtaGxOHrtTfRF5BjEinbPJhZiyoyz7JwJlxENqy7iTtReb7CoW82CLXYe0m32AsmwbehwW0ez5IJBtyEHPAkAeXJLhPUFv6Jqey3fGTmgzTyWW4HSfuwjlGQKZ5+LkhawGXoCg2uzIqWjkce3MQr5y2LtmZesbRx7qWuf1ffzGDLGOkId5T/V2g+PnK7+UEmn1szYP5cPH8kGlkIKBB/yBdeqyxrV/Pq8eXPAq/n45RowJHHukeSxRrbfhjDaP7bgLs20nwmiX3IpGP+xUDY/f8HHzav/tPycoGWzpm+A9IgD9zqRD7JGEF0O5W4gYUziKCISKAkH7Zt/4XOfHwNL27Vi2U/EsNVKwNiZgUZJKw0XXxWdQwBh4lP8aiClKsYDgtp694aEgsz2ULlc+8TlwnndLMhr5orZOSnQrT54VNc4uxzf/hteIzAutcg48cYZ84nHxqixhIbOo2ybxiYb1OliqVbwqVRny3g==;Ol4vks30hQztYOpOA+f79A=="
 ---

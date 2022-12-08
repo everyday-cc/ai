@@ -66,6 +66,15 @@ related:
         width: 690
         height: 460
         isCached: true
+  - title: "Opaque Systems Unveils 1st Multi-Party Confidential AI and Analytics Platform"
+    excerpt: "Opaque Systems, pioneers of secure multi-party analytics and AI for Confidential Computing, today announced the latest"
+    publishedDateTime: 2022-12-08T17:54:00Z
+    webUrl: "https://www.datanami.com/this-just-in/opaque-systems-unveils-1st-multi-party-confidential-ai-and-analytics-platform/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 18
   - title: "Five9 Elevates Omni-Channel Customer Engagement with Innovations in Digital Self-Service, AI Design, and Analytics"
     excerpt: "(NASDAQ: FIVN), a leading provider of the intelligent cloud contact center, today announced new capabilities that help businesses deliver more engaging and unified customer journeys across digital and voice channels and between virtual and live agents."
     publishedDateTime: 2022-12-06T13:01:00Z
@@ -98,6 +107,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 9
+  - title: "Opaque Systems, Pioneer in Confidential Computing, Unveils the First Multi-Party Confidential AI and Analytics Platform"
+    excerpt: "Opaque Systems, the pioneers of secure multi-party analytics and AI for Confidential Computing, today announced the latest ad vancements in Confidential AI and Analytics with the unveiling of its platform."
+    publishedDateTime: 2022-12-08T17:02:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/12/08/9727135.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "1B17j6t5U3vXj7Riv039zcJyRlYyr8hlF/vhJFaBO+MamVE35kyThJU/UTZMz3nwirJuNa0jC33oa/NXx/8YxYbHGYMrpJK+Bww4bD0LepYFNzUabFFcAXjXeqh9mNhNq50Tu0HNHwmPoOfnzoCgfqXUNaSbUJEHtgvVzmnZm+dx9K6BKstBoG97jER5QmOVa9gpoFrO5BbRA3rv91qrMAMxCeTtrwkEzRg9EU8xOje+k7gOSaHmvkSg6THhxOKVTnPblW9fntV6JU4tnTNgqpLCUz+n71t2tLxZhodCp6XCk3xbRZGSG0XrxP8XuvWwYLx82hO6OAzX67vo8iwp8hCQXniH8sBoddaQw1zuwqesx8NZoh5wirvD/FjKmZZuh4nkS3G2FUUP5BFISFVFkQJoTwvLlYkqyVyCGLpV5caRzCZMVSX9UbGK38RiYqNj3tCtQ+MTXAe9mKn8tHcBRpKQl+i0y8yFB9Zzt4nMSS61YJvvDpAsT996C/6U3DSou/jYkL/Yph9GrzNL2rn8tQ==;xT31nYq5yVDtMq6pluIbOg=="
 ---

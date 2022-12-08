@@ -1,28 +1,27 @@
 ---
 category: news
-title: "AWS re:Invent recap: 20 biggest products and announcements"
-excerpt: "I’m happy to welcome over 50,000 customers and partners here in Las Vegas and over 300,000 attendees virtually around the world,” said Amazon Web Services CEO Adam Selipsky to open up his keynote speech at AWS re:Invent 2022."
-publishedDateTime: 2022-12-08T10:49:00Z
-originalUrl: "https://www.crn.com.au/news/aws-reinvent-recap-20-biggest-products-and-announcements-588921"
-webUrl: "https://www.crn.com.au/news/aws-reinvent-recap-20-biggest-products-and-announcements-588921"
+title: "AWS re:Invent Recap: 20 Biggest Products And Announcements"
+excerpt: "Invent 2022 new products, partnerships and big news announcements focus on AI, security, data, IBM, Red Hat, Accenture, AWS Marketplace and cloud innovation."
+publishedDateTime: 2022-12-07T19:13:00Z
+originalUrl: "https://www.crn.com/news/cloud/aws-re-invent-recap-20-biggest-products-and-announcements"
+webUrl: "https://www.crn.com/news/cloud/aws-re-invent-recap-20-biggest-products-and-announcements"
 type: article
-quality: 41
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: CRN Australia
-  domain: crn.com.au
+  name: CRN
+  domain: crn.com
 
 topics:
-  - IBM AI
-  - AI
   - AWS AI
+  - AI
 
 images:
-  - url: "https://i.nextmedia.com.au/News/20221208100106_aws-simspace-weaver.jpg"
+  - url: "https://www.crn.com/resources/0274-1500bd72672e-acf899082c06-1000/aws-sign-summit.jpg"
     width: 610
-    height: 457
+    height: 458
     isCached: true
 
 related:
@@ -55,6 +54,6 @@ related:
         height: 3672
         isCached: true
 
-secured: "weU3CCs0KAbFDaq2opk9bt8AdhUSciUcSm2at7D6KqVCbXb4YVg7ndhIl8obCl14QETmLHbP7ZJfCSFzUXwd/3QquXcXFhqx75Tl/1DjloMASTFFJcKg5NYj0Z7aGCdmXPYsAB3bkEblPRGWTXccHOYbEQnIIof7XVW670aNgwmTjUZgaSrRNQFio8WeYrVWdNzKkWudhqJqiZEwOlBw/EQnkH1mm0hicSzuLA2OKcFoJV7D1ggBnZ3X4/7LgG0xZDJV64c7cXESpS4HELbEe8XmAWxSZ7BXEuDxEmG8jjLu2KKiMU1Ki0A6TLy7kHL3mZ/8SQzHp/CT7HhXLdWChaZr56x9WG2GioJ5r8Qvoho=;3gIqHc+6RzvtvmMm4hBm5w=="
+secured: "fckEmimlVJAJWGwzOAMsdi8lbpMhJ6gOGDoNfdRVdUm90xWO3ro6+HMMP7hB6t3DoMOHzJH2gy8ghi+hR50J1Neihl8DTYh7+wCGBJ1llRlV+2lbU00scJ2jxCnfS6EV7KuTJgI6X4CSF4tYv1eLw/Ea21sYxKXpT0M+m4NfVl7+prwb83KNd39+z49CmBm/QGKAk8KkA7yW6QTOr7kbjlZgagbMZhEf83nagKFrKzIi8mPHkvLcdA6tbvxZwJmYxRr+J95ZTtBRFHcs18Bfsbn5g6jvv+jCM1KebbzHSaP3mthLTopXik//rRrpWUSsAgy4+7HAcH79F8MpGocfuqRh/E7d51ZCIZUgQ04bRTI=;kYpVuI1/qyJe6/AmHHsArg=="
 ---
 

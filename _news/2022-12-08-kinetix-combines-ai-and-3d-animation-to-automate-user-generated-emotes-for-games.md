@@ -33,9 +33,9 @@ related:
   - title: "Genomics and AI Spot Genetic Marker for Autism"
     excerpt: "Scientific studies to date suggest that autism tends to run in families, and that it develops due to genetic and environmental factors. Recently a team of researchers from Oak Ridge National Laboratory discovered a genetic mutation associated with nonverbal types of autism spectrum disorder (ASD) using a novel method and artificial intelligence (AI) machine learning."
     publishedDateTime: 2022-12-08T13:36:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202212/genomics-and-ai-spot-genetic-marker-autism"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202212/genomics-and-ai-spot-genetic-marker-autism?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202212/genomics-and-ai-spot-genetic-marker-autism?amp"
+    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202212/genomics-and-ai-spot-genetic-marker-autism"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202212/genomics-and-ai-spot-genetic-marker-autism?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202212/genomics-and-ai-spot-genetic-marker-autism?amp"
     type: article
     provider:
       name: Psychology Today
