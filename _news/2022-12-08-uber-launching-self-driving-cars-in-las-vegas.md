@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/12/07/tech/uber-motional-self-driving-v
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/12/07/tech/uber-motional-self-driving-vegas/index.html"
 type: article
 quality: 74
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.dailynews.com/wp-content/uploads/2022/12/Apple_App_Store_Antitrust_Battle_93202-1.jpg?w=1024&h=682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Apple to release their car in 2026, will not be able to give full self-driving feature at launch"
+    excerpt: "Apple will be launching their first car in 2026. The car will cost about $100,000, use specially designed Apple silicon and will not have full self-driving features."
+    publishedDateTime: 2022-12-08T02:41:00Z
+    webUrl: "https://www.firstpost.com/tech/news-analysis/apple-to-release-their-car-in-2026-will-not-be-able-to-give-full-self-driving-feature-at-launch-11770371.html"
+    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/apple-to-release-their-car-in-2026-will-not-be-able-to-give-full-self-driving-feature-at-launch-11770371.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/apple-to-release-their-car-in-2026-will-not-be-able-to-give-full-self-driving-feature-at-launch-11770371.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 31
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2022/12/Apple-to-release-their-car-in-2026-will-not-be-able-to-give-full-self-driving-feature-at-launch.jpg"
+        width: 640
+        height: 362
         isCached: true
   - title: "Apple to scale back self-driving car ambitions, delay car launch to 2026 - Bloomberg News"
     excerpt: "Apple Inc is scaling back its self-driving car ambitions and delaying the car's launch date to 2026, a Bloomberg News reporter said in a tweet on Tuesday."

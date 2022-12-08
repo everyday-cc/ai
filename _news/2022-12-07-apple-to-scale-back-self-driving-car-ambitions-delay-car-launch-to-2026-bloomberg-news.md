@@ -71,6 +71,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Apple to release their car in 2026, will not be able to give full self-driving feature at launch"
+    excerpt: "Apple will be launching their first car in 2026. The car will cost about $100,000, use specially designed Apple silicon and will not have full self-driving features."
+    publishedDateTime: 2022-12-08T02:41:00Z
+    webUrl: "https://www.firstpost.com/tech/news-analysis/apple-to-release-their-car-in-2026-will-not-be-able-to-give-full-self-driving-feature-at-launch-11770371.html"
+    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/apple-to-release-their-car-in-2026-will-not-be-able-to-give-full-self-driving-feature-at-launch-11770371.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/apple-to-release-their-car-in-2026-will-not-be-able-to-give-full-self-driving-feature-at-launch-11770371.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 31
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2022/12/Apple-to-release-their-car-in-2026-will-not-be-able-to-give-full-self-driving-feature-at-launch.jpg"
+        width: 640
+        height: 362
+        isCached: true
   - title: "Apple Delays the Launch and Lowers the Ambitions for its Self-Driving Car"
     excerpt: "Apple is modifying the design of its first self-driving vehicle to include a steering wheel and pedals, which earlier plans left out."
     publishedDateTime: 2022-12-07T15:27:00Z

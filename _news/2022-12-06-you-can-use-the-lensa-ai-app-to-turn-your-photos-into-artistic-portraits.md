@@ -62,6 +62,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Skeptics Address Privacy and Security Concerns With Viral Artificial Intelligence Self-Portrait Generator"
+    excerpt: "Some professionals and users are questioning what the Lensa AI app actually does after users upload their selfies and photos into the database."
+    publishedDateTime: 2022-12-07T21:35:00Z
+    webUrl: "https://www.blackenterprise.com/skeptics-think-the-viral-ai-self-portrait-generator-might-be-a-little-shady/"
+    ampWebUrl: "https://www.blackenterprise.com/skeptics-think-the-viral-ai-self-portrait-generator-might-be-a-little-shady/amp/"
+    cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/skeptics-think-the-viral-ai-self-portrait-generator-might-be-a-little-shady/amp/"
+    type: article
+    provider:
+      name: Black Enterprise
+      domain: blackenterprise.com
+    quality: 74
+    images:
+      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2022/12/Screen-Shot-2022-12-07-at-3.02.34-PM-1024x694.png"
+        width: 1024
+        height: 694
+        isCached: true
   - title: "Lensa AI, self-portrait app generates non-consensual soft porn if provoked"
     excerpt: "One of the major reasons for the backlash is that the app can be used to generate non-consensual soft porn. There are quite a few pictures that can be seen on Twitter, with breasts and nipples clearly visible in the images."
     publishedDateTime: 2022-12-07T09:49:00Z

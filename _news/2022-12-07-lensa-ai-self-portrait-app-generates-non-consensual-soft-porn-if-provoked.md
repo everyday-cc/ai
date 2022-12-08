@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Skeptics Address Privacy and Security Concerns With Viral Artificial Intelligence Self-Portrait Generator"
+    excerpt: "Some professionals and users are questioning what the Lensa AI app actually does after users upload their selfies and photos into the database."
+    publishedDateTime: 2022-12-07T21:35:00Z
+    webUrl: "https://www.blackenterprise.com/skeptics-think-the-viral-ai-self-portrait-generator-might-be-a-little-shady/"
+    ampWebUrl: "https://www.blackenterprise.com/skeptics-think-the-viral-ai-self-portrait-generator-might-be-a-little-shady/amp/"
+    cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/skeptics-think-the-viral-ai-self-portrait-generator-might-be-a-little-shady/amp/"
+    type: article
+    provider:
+      name: Black Enterprise
+      domain: blackenterprise.com
+    quality: 74
+    images:
+      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2022/12/Screen-Shot-2022-12-07-at-3.02.34-PM-1024x694.png"
+        width: 1024
+        height: 694
+        isCached: true
 
 secured: "CB5DimYaxqE+19BwWg2fq7KxOA823W3wsvae71R9gP2mWjkhbhzEIVv824BoSG4rpIbGj92sS+NukxJriUcHhI8HvsQaflLgXZ5vcWOxBEks3IDsbCUVa472U7YnMRH5/1YNqq6D0FqO+w/cUd+AbdnxSxQ+FArSNt2UbqJO9kbXtzSGJq1OpTljK50ed1iC3RvipKAYpIrYqVbhE9h6DNXTlhngP+vUBQIhOErK9FrRia3pVw/peP2kPAlajvfj8j9lB4gkzs2P7tA4u7P+QO5CU1JTrFc+tIALSqX7f3rx9loCUgT7aDbpGQ6qUQVhwTC0yRTjFicfULTd76clEqKAahW3I1qJYOGV4wBA2PUGIDhh1D8O1Jp0qDSK7PVRpBE15fP7TJowKU12rQldEs5HyYGRgNBhGlqt01Whww7Gz5o3bsw1WCox4koMwB1HX0GVfXIUKmo5p4a+hfvU38EfcrgmPDY5wZiRIcp1EnGB+J6xGsczVQEDfdUGJc4vCxxb3xf9LiVDEQkqhQYFRA==;EJQ9GQ/ev907dHHfcqsvrg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/google-brings-machine-learning-to-online-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-brings-machine-learning-to-online-spreadsheets-with-simple-ml-for-sheets/amp/"
 type: article
 quality: 100
-heat: 100
+heat: 101
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 640
     isCached: true
 
-secured: "/vBTH39WohIfWBYIS3d7cKVv853u+JNXMsONqvo369dAjuTXDGT0vu3owBDRfVrczL/4+yM9ew/XqCMK5vgJtnCwXPXQlTuIw+gXRjjMGY2QR1zXHYHOvoEtpp38TQJLyib/UTfnnky0Y4LZL+/GEXOCWFBxa+BFfPAwUa9TDVRmObz0y2Vgi090WYK3uTd3mM2XXIOIz5ZUC44cXGlezURd1tvcC6s1ZzXc7WFNvl2SOrQojCf4ZGoORFsYE5ibTvadCo1nPZMOso93SN2DMGFFIrL1YPjrSSPL/Z7P57+Wz8sJzImv1vusAbsOqRMoBS4AH+m/v+KKyHud/WrxvOVKBYBkxAdXscV/2USA7nQ=;P09glyq2KAeyiX1HfE7iQg=="
+secured: "XXiBMWd7ttHNvySenbSgMVc++RwyHyKEFH+epzB2gINmNk0w98dkv3hLF8QhrxzjHIiqEU9iIEzcE9rFO5cojo68Z8RcinZkWhzwWbkjwP/AQ/xIiUXFiunrpe6sCBbgzw1kX/jSN+kQFFjbFiGBJ5Of6L9lswU2InDMGhqLq5i7Kma9huKwAuFrfEPoh/yCPBU8TvPfBfr0BX/45sKE909A/s1vyxN7jhttyQNIlY9C5COzRseyDZ3alq7usQNTASksQ04kcapMsVrYBzokrJ6EZlUl2RAnK+VvYWj0OQzfy0cdR3/545DobI1zuhThYntTjjJSjEA0wVFoaYgjbRP+R0UCrh5wJScwDN60iBDZDT98qYFoq/2J+GZ3u2fLaJ6YedXzcx4WuZn6VgscB/k7s67EveveW7SthOhpSibdJb9SQeKNzjfoNcFuxu7JgNIjEkgH9adGJr4nCCONnZVm9Juuxfs54R7kDSMzUUhwlETEuLfYEYvZRocXQLNzeMtkdqZAV5DuPAK8JKXuCA==;HHOVbsq5PR7TIZDFS7iQ7w=="
 ---
 

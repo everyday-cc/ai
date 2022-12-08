@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Apple Delays the Launch and Lowers the Ambitions for its Self-Driving Car"
-excerpt: "Apple is modifying the design of its first self-driving vehicle to include a steering wheel and pedals, which earlier plans left out."
-publishedDateTime: 2022-12-07T15:27:00Z
-originalUrl: "https://observer.com/2022/12/apple-delay-autonomous-electric-car-design/"
-webUrl: "https://observer.com/2022/12/apple-delay-autonomous-electric-car-design/"
+title: "Apple to release their car in 2026, will not be able to give full self-driving feature at launch"
+excerpt: "Apple will be launching their first car in 2026. The car will cost about $100,000, use specially designed Apple silicon and will not have full self-driving features."
+publishedDateTime: 2022-12-08T02:41:00Z
+originalUrl: "https://www.firstpost.com/tech/news-analysis/apple-to-release-their-car-in-2026-will-not-be-able-to-give-full-self-driving-feature-at-launch-11770371.html"
+webUrl: "https://www.firstpost.com/tech/news-analysis/apple-to-release-their-car-in-2026-will-not-be-able-to-give-full-self-driving-feature-at-launch-11770371.html"
+ampWebUrl: "https://www.firstpost.com/tech/news-analysis/apple-to-release-their-car-in-2026-will-not-be-able-to-give-full-self-driving-feature-at-launch-11770371.html/amp"
+cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/apple-to-release-their-car-in-2026-will-not-be-able-to-give-full-self-driving-feature-at-launch-11770371.html/amp"
 type: article
-quality: 23
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: observer
-  domain: observer.com
+  name: Firstpost
+  domain: firstpost.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://observer.com/wp-content/uploads/sites/2/2022/12/GettyImages-180224599.jpg?quality=80&#038;strip"
-    width: 4207
-    height: 2805
+  - url: "https://images.firstpost.com/wp-content/uploads/2022/12/Apple-to-release-their-car-in-2026-will-not-be-able-to-give-full-self-driving-feature-at-launch.jpg"
+    width: 640
+    height: 362
     isCached: true
 
 related:
@@ -73,22 +75,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Apple to release their car in 2026, will not be able to give full self-driving feature at launch"
-    excerpt: "Apple will be launching their first car in 2026. The car will cost about $100,000, use specially designed Apple silicon and will not have full self-driving features."
-    publishedDateTime: 2022-12-08T02:41:00Z
-    webUrl: "https://www.firstpost.com/tech/news-analysis/apple-to-release-their-car-in-2026-will-not-be-able-to-give-full-self-driving-feature-at-launch-11770371.html"
-    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/apple-to-release-their-car-in-2026-will-not-be-able-to-give-full-self-driving-feature-at-launch-11770371.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/apple-to-release-their-car-in-2026-will-not-be-able-to-give-full-self-driving-feature-at-launch-11770371.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 31
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2022/12/Apple-to-release-their-car-in-2026-will-not-be-able-to-give-full-self-driving-feature-at-launch.jpg"
-        width: 640
-        height: 362
-        isCached: true
   - title: "Apple to scale back self-driving car ambitions, delay car launch to 2026 - Bloomberg News"
     excerpt: "Apple Inc is scaling back its self-driving car ambitions and delaying the car's launch date to 2026, a Bloomberg News reporter said in a tweet on Tuesday."
     publishedDateTime: 2022-12-06T18:05:00Z
@@ -98,6 +84,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 25
+  - title: "Apple Delays the Launch and Lowers the Ambitions for its Self-Driving Car"
+    excerpt: "Apple is modifying the design of its first self-driving vehicle to include a steering wheel and pedals, which earlier plans left out."
+    publishedDateTime: 2022-12-07T15:27:00Z
+    webUrl: "https://observer.com/2022/12/apple-delay-autonomous-electric-car-design/"
+    type: article
+    provider:
+      name: observer
+      domain: observer.com
+    quality: 23
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2022/12/GettyImages-180224599.jpg?quality=80&#038;strip"
+        width: 4207
+        height: 2805
+        isCached: true
   - title: "The Apple car might not be fully self-driving, now set to launch in 2026 for around $100,000"
     excerpt: "Bloomberg writes that Apple has scaled back the self-driving plans for its future electric vehicle, which looked set to be fully autonomous with no steering wheel"
     publishedDateTime: 2022-12-07T13:45:00Z
@@ -144,6 +144,6 @@ related:
       domain: seekingalpha.com
     quality: 0
 
-secured: "iJXf6pH8rRfjXsex9EmIZLrPVixAijfipa7US3dzReC1Hfuer5d9qTJZfcFJ3vE6pbD6vKOQ1Ei2q27wM4nWQTi+rgfROyKeJ/KMscqzabWNREk1KkJHaMjII7Z4MqcKWo+pxID9upXgBdyX39sChsv8kQOF+OkBjfjLSCWh7KBlOfesJZoPohdT2vv/ztGNS+iyxQy5q0sCK0NdSlUGb1nxStsa7mdIaO1eG1OCnLiupmTsqabxirMAoBWQvUNcBPYxM97tTKob+aKrSjwxfxrP2oLk/LIfJG47ZqjmUlz4zu5sQnPhokneM3oyixP6zKclbFccwUc58vLzZF+t58LZXujO4e2iUu6fnBgUTLMG29a5L/bqsduMJewL+firPXfCutaz5y+YUy6gx2aESKAtiJhCisLmPFIkgYtM405xH/6phbtgpBD5t4jkEejl2cdLuls47lCECN2CPYeOl/yq63Pj/Ir/EEgPra0pBD9NjRBvQV4Hz3e7ipfYCim29+GqZYj6Cywv9czo/aCLew==;NNlr4GQEAFWsbWzEw2LrlQ=="
+secured: "rhjiE2IWTcVGK2LXuoXCc5SiCtCk+euYk4UM4Rmxk7+IZMt+oJs0Fhwxubmr8KeQgKPBAFlbnrJefMEbKZzk9itJ6eqdJ8UdZ/Pko/IIRRX7TPZyNeuO/ALtgcbT2XF/VUgiRC3Oq+t11hvTOzsh3FoT9pYzkC1e+FFzNONObVd2rxZ7GjNrINjeDVGv0s7YDZtB7+y4e++olaMlj0LnGQDgtYxrjscfukzAJQkQs8kun7R33D7R+FOjTTNciiL1LS5xbPkPQE3AJ28+dxdUGmaaKCjYyoLe14WSQ3/vyqmQb7CsN8i2yReLPk/fnaOMjObVVbgTAxIomlHn/r8khstAd36RX2KhcBZyGE7l7ig=;lk+1dIWO9vTyZLtlOZBdcQ=="
 ---
 

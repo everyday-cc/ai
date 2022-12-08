@@ -1,33 +1,49 @@
 ---
 category: news
-title: "Lensa, the AI portrait app, has soared in popularity. But many artists question the ethics of AI art."
-excerpt: "For many online, Lensa AI is a cheap, accessible profile picture generator. But in digital art circles, the popularity of artificial intelligence-generated art has raised major privacy and ethics concerns."
-publishedDateTime: 2022-12-07T21:55:00Z
-originalUrl: "https://www.nbcnews.com/tech/internet/lensa-ai-artist-controversy-ethics-privacy-rcna60242"
-webUrl: "https://www.nbcnews.com/tech/internet/lensa-ai-artist-controversy-ethics-privacy-rcna60242"
-ampWebUrl: "https://www.nbcnews.com/news/amp/rcna60242"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna60242"
+title: "Skeptics Address Privacy and Security Concerns With Viral Artificial Intelligence Self-Portrait Generator"
+excerpt: "Some professionals and users are questioning what the Lensa AI app actually does after users upload their selfies and photos into the database."
+publishedDateTime: 2022-12-07T21:35:00Z
+originalUrl: "https://www.blackenterprise.com/skeptics-think-the-viral-ai-self-portrait-generator-might-be-a-little-shady/"
+webUrl: "https://www.blackenterprise.com/skeptics-think-the-viral-ai-self-portrait-generator-might-be-a-little-shady/"
+ampWebUrl: "https://www.blackenterprise.com/skeptics-think-the-viral-ai-self-portrait-generator-might-be-a-little-shady/amp/"
+cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/skeptics-think-the-viral-ai-self-portrait-generator-might-be-a-little-shady/amp/"
 type: article
-quality: 91
-heat: 132
-published: true
+quality: 74
+heat: -1
+published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: Black Enterprise
+  domain: blackenterprise.com
 
 topics:
-  - Machine Learning
+  - AI in Healthcare
   - AI
-  - AI Ethics
+  - AI in Security
 
 images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-12/221206-lensa-selfies-ai-celebrities-cs-548f22.jpg"
-    width: 2500
-    height: 1250
+  - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2022/12/Screen-Shot-2022-12-07-at-3.02.34-PM-1024x694.png"
+    width: 1024
+    height: 694
     isCached: true
 
 related:
+  - title: "Lensa, the AI portrait app, has soared in popularity. But many artists question the ethics of AI art."
+    excerpt: "For many online, Lensa AI is a cheap, accessible profile picture generator. But in digital art circles, the popularity of artificial intelligence-generated art has raised major privacy and ethics concerns."
+    publishedDateTime: 2022-12-07T21:55:00Z
+    webUrl: "https://www.nbcnews.com/tech/internet/lensa-ai-artist-controversy-ethics-privacy-rcna60242"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna60242"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna60242"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 91
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-12/221206-lensa-selfies-ai-celebrities-cs-548f22.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "You can use the Lensa AI app to turn your photos into artistic portraits"
     excerpt: "To credit for these masterpieces is the Lensa AI app, and here is how you can use it to get your own. Lensa AI is a free-to-download, photo-editing app that launched in 2018 and is available in both the Apple App Store and Google Play Store."
     publishedDateTime: 2022-12-05T21:54:00Z
@@ -60,22 +76,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Skeptics Address Privacy and Security Concerns With Viral Artificial Intelligence Self-Portrait Generator"
-    excerpt: "Some professionals and users are questioning what the Lensa AI app actually does after users upload their selfies and photos into the database."
-    publishedDateTime: 2022-12-07T21:35:00Z
-    webUrl: "https://www.blackenterprise.com/skeptics-think-the-viral-ai-self-portrait-generator-might-be-a-little-shady/"
-    ampWebUrl: "https://www.blackenterprise.com/skeptics-think-the-viral-ai-self-portrait-generator-might-be-a-little-shady/amp/"
-    cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/skeptics-think-the-viral-ai-self-portrait-generator-might-be-a-little-shady/amp/"
-    type: article
-    provider:
-      name: Black Enterprise
-      domain: blackenterprise.com
-    quality: 74
-    images:
-      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2022/12/Screen-Shot-2022-12-07-at-3.02.34-PM-1024x694.png"
-        width: 1024
-        height: 694
-        isCached: true
   - title: "Lensa AI, self-portrait app generates non-consensual soft porn if provoked"
     excerpt: "One of the major reasons for the backlash is that the app can be used to generate non-consensual soft porn. There are quite a few pictures that can be seen on Twitter, with breasts and nipples clearly visible in the images."
     publishedDateTime: 2022-12-07T09:49:00Z
@@ -93,6 +93,6 @@ related:
         height: 462
         isCached: true
 
-secured: "bwB5Qlz4CKnd3prA0rWuk1U+Ms4bIu2APbYTRam3Xq/fZmj5Zc4ahfn4Uf0CdqmXzEfy/jSLI2ANosUMi/yBzKwNLUeE/IfzOsUaVs54F0KsQGKwRmNb1MSsTZwqMIOErKfOSucAVPS9GVjXUqEnB4YlwzVXTvQv2klhsJgfk+jsb7LnMteWvwK5kXJ6O/0RtWLKCGcxneTfQbV7x0gjSsWhZhNg7AUFK3WrkH44kuVkaQCeyzZ6W26e35iH37fvFgdNvVmt3y0UonHWm/uU3JydpexPzLFu/vsmg8+LtJYGr+TLbkTOwjIwjlPKRRVKJmA7RfNfSmq/eteOpx1WCcAsfGTDeF2GeHdKULvlfFFmudhAKHzmbcQRhAMmEHYZRQVmVh4uIQdvdrV2/N6L3YcyL1NQL/Csm5xBcrTZ+ynFnwBiMr8hCxVeCTY8fCmeYGDAIDksBi62ui8HGrZV88264Te7lFYNhtJ80w5XUmiyh4h7TR2B5MDjel/xzisDov2ZHVpKhw5o3jfhuRiBuA==;ojSnnfBcB3ZIBovbGL20IQ=="
+secured: "VvHg3t+9AYOJYois+FqcozdVXv1U/Fwe5OGX5bKKG0WY5ydQqdrvW3NkmtdlpcOuWhn6EXQC5TDqH5grvnMcX4XuvZYZ05ISKwRv0BMvgUcqsg+P6Kc10rqKNDz0jj9NK5r14n3CokG3ancnXBHYRNZiMvvaOGrwqqFZ72Qm7XAzMgLpXu8I0bKqGLOOPDzaOHgSNBz8YVFvnDmaBFjDz9BYudMzrmNv20xHHunmS57Bmgm50eAqKxu+bvEDQDAMu1F6vJciXXv6kd64VvDDAFLrPcENWevNq9O6i3+Nw3q3x0jun2rG44g+MA+xvrNgEKMoOUQmaZVYY8B3cODTPs8Gx5WWgUx+ywa6hgsc/QI=;9xREcTu7m1kHstmEVZY7JQ=="
 ---
 
