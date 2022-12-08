@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-08T06:30:00Z
 originalUrl: "https://www.theage.com.au/culture/art-and-design/we-let-robots-control-our-homes-so-why-not-an-artist-20221123-p5c0nc.html"
 webUrl: "https://www.theage.com.au/culture/art-and-design/we-let-robots-control-our-homes-so-why-not-an-artist-20221123-p5c0nc.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Age

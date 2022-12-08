@@ -63,6 +63,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "Lensa AI Created a Viral Meme, But How Legal Is It?"
+    excerpt: "Social media has been inundated with AI-generated selfie portraits from Lensa AI's new magic avatar feature. Now, artists cite it as another example of how AI technology is engaging in copyright infri"
+    publishedDateTime: 2022-12-08T21:41:00Z
+    webUrl: "https://www.law.com/legaltechnews/2022/12/08/lensa-ai-created-a-viral-meme-but-how-legal-is-it/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2022/12/Artificial-Intelligence-Portrait-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "IqJ6+N+Y9gxGNaouZpq8uukqf1f+hBqOzrQ3RLEWGniBFr0qXvEX9qGLhZusgtFPJdWSAxMXg9+oCGzMIAN6FLvvsTFfEqRvuCRg8eWvArIk5tFmsRisOpkuam7AVccS1D2TjbOi5neZGux6IqOvmSE/cNYCHOL/FR+fqODlMBTiXj60r/wOddlrEat2PHN+WarCbM3RhAlwtkLFrr7KZrxrDAfJDEESp+TDs7e3TagI9wFhhIF5ju7N0qpwnNSXS3yp+sPHSBEDRFZPvvn0XXsz2rGh1GspSxqMM6902nN8wABNLJIbX5eDDyJwAMtXFv9hV2ib4HiLbtxUXwF+ZQeNjJETfZ0gWuJhUwGKJy9G6y/6ilPkatcyLGfDSURiwIOIcHt44fEB41cd4Ml9pjdfTq017fU4nkbaLS88StuNS1/B9vkPRnFt3KyIjiCeM7/nCMdeB5v6Q1fF4g401fPRopDSg4k38W/fkHR436RQuq48OtqAyGX9bx8dEgCTrX0COUZUvDUu+XW1eQFHsA==;HbliKR80CEbJCJ1oc6Iz7g=="
 ---

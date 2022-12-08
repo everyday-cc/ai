@@ -9,8 +9,8 @@ ampWebUrl: "https://singularityhub.com/2022/12/05/deepminds-latest-ai-trounces-h
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/12/05/deepminds-latest-ai-trounces-human-players-at-the-game-stratego/?amp=1"
 type: article
 quality: 76
-heat: 96
-published: true
+heat: -1
+published: false
 
 provider:
   name: Singularity Hub
@@ -28,33 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind spin-off Isomorphic Labs announces drug discovery scale plans"
-    excerpt: "AI drug discovery startup Isomorphic Labs is acquiring talent and a new office as it looks to strike its first business deal"
-    publishedDateTime: 2022-12-05T10:53:00Z
-    webUrl: "https://www.information-age.com/deepmind-spin-off-isomorphic-labs-announces-drug-discovery-scale-plans-123500895/"
+  - title: "DeepMind’s latest AI project solves programming challenges like a newb"
+    excerpt: "On an average challenge, the AI system was able to score near the top half of participants. But it had a bit of trouble scaling, being less likely to produce a successful program on problems where more code is typically required."
+    publishedDateTime: 2022-12-08T21:15:00Z
+    webUrl: "https://arstechnica.com/science/2022/12/deepminds-latest-ai-project-solves-programming-challenges-like-a-newb/"
+    ampWebUrl: "https://arstechnica.com/science/2022/12/deepminds-latest-ai-project-solves-programming-challenges-like-a-newb/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2022/12/deepminds-latest-ai-project-solves-programming-challenges-like-a-newb/amp/"
     type: article
     provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 39
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 104
     images:
-      - url: "https://s42137.pcdn.co/wp-content/uploads/2022/12/deepmind-spin-off-isomorphic-labs-announces-drug-discovery-scale-plans-scaled.jpg.optimal.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
-  - title: "Google Teaches AI to Play Stratego and It Becomes One of the World's Top-Rated Players"
-    excerpt: "DeepMind's latest artificial intelligence called DeepNash has beaten a human player at a game of Stratego, a strategic war game."
-    publishedDateTime: 2022-12-04T18:25:00Z
-    webUrl: "https://futurism.com/the-byte/google-teaches-ai-play-stratego-top-rated-players"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 31
-    images:
-      - url: "https://wp-assets.futurism.com/2022/12/google-teaches-ai-play-stratego-top-rated-players.jpg"
-        width: 1200
-        height: 630
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-521369998-800x522.jpg"
+        width: 800
+        height: 522
         isCached: true
 
 secured: "PRo/DrMCuonaIP3J+ctubEQD3Yin73eRuutM5A19eTMatFWbTx73wnWJMYAdfdgeJcVglNI5CO08YxectcvCuwbm+ovfB5X7OlPXKE4Olj/UCL0DYZlANp92ify1AUe3nRXxli2nXYohXLwbSmhYs7kZj1EMv6QKGErbWpZEnxV4/Cxa670yarjjMTJdTy+Lv8k11Vm0Pf5TIb0byPwbMJuPQWiC7XFuyGa6rlmO5KCHLe/FtvrG/fWzJT9Wf2ZZGH8XrZ/Zy3pYuHYKxnFn7a69K6LuACYd6MC8WE+2pOC+KfiQOB8HrsXoxfQgST2y4YnJbxGBmP+/nATsMKGGwabpxrnRlA+zaJ1hrVSRCrBFsk2Q+bzO2/C1rxkjOCv6YUzjfxC9JpiwTFEgYo69HyUZ48llVMYLErGImg19bcolgM1a1rGUaRd+5IsY7PWBtvOi5MG5fOeRcoDN+VHdoEUOjJ5b5R1kZGc9M6J0JWqCJZ1AUZ+yT3OnX3isn4HJZ2VO6ekJgH+iRXuzYz9Qgw==;BkFh/eeYBZGii44KKeLLww=="

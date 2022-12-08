@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-08T19:13:00Z
 originalUrl: "https://techcrunch.com/2022/12/08/wewalk-raises-cash-to-bring-computer-vision-to-smart-cane-for-visually-impaired-people/"
 webUrl: "https://techcrunch.com/2022/12/08/wewalk-raises-cash-to-bring-computer-vision-to-smart-cane-for-visually-impaired-people/"
 type: article
+quality: 56
+heat: 56
+published: false
 
 provider:
   name: YAHOO!News

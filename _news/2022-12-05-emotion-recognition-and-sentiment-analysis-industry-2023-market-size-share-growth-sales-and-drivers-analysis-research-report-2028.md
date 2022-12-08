@@ -30,15 +30,15 @@ images:
     isCached: true
 
 related:
-  - title: "Self Driving Wheelchair Market 2022 - Regional Overview, Substantial Demand, Vendor Landscape and Trends by 2028"
-    excerpt: "MarketsandResearch.biz contributes an entire investigation of the presented sector's current situation & significant drivers in its insightful report Global Self Driving Wheelchair Market Outlook 2022-2028."
-    publishedDateTime: 2022-12-08T02:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-2022---regional-overview-substantial-demand-vendor-landscape-and-trends-by-2028-2022-12-07"
+  - title: "AI Sweeping Robot Market 2022-2028 Leading Growth Drivers, Emerging Audience, Segments, Industry Sales, Profits & Analysis"
+    excerpt: "AI Sweeping Robot Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2021, at unexpected"
+    publishedDateTime: 2022-12-08T02:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-sweeping-robot-market-2022-2028-leading-growth-drivers-emerging-audience-segments-industry-sales-profits-analysis-2022-12-07"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
+    quality: 75
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -58,48 +58,57 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Education Market 2023 : Impressive Growth Rate, Regional Insights, Competitive Outlook, and Geographical Divisions 2028"
-    excerpt: "\" Artificial Intelligence in Education Market \" Insights 2022 - By Applications (Teaching Application, Evaluation Application, Management Application, Others), By Types (, Convenient for Educational Affairs,"
-    publishedDateTime: 2022-12-06T00:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2023-impressive-growth-rate-regional-insights-competitive-outlook-and-geographical-divisions-2028-2022-12-05"
+  - title: "Computer Vision Software Market Trends 2023 Industry Size, Segments, Share, Key Players and Growth Factor Analysis by 2026"
+    excerpt: "Global “ Computer Vision Software Market ” 2023 report presents an exclusive analysis of market size, share, revenue, production, consumption, gross margin, and price. The report offers elaborative data of leading market player's analysis and key factors that will affect the industry growth."
+    publishedDateTime: 2022-12-06T08:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-trends-2023-industry-size-segments-share-key-players-and-growth-factor-analysis-by-2026-2022-12-06"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-Propelled Belt Loader Market 2022 Driving Factor Analysis with Trend and Forecast to 2028"
-    excerpt: "Further, the SWOT analysis & other techniques are utilized to investigate this data & provide an informed perspective on the state of the business to assist design the best growth strategy for any vendors or to current penetration into the present & and likely direction of the global Self-Propelled Belt Loader market."
-    publishedDateTime: 2022-12-08T01:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-propelled-belt-loader-market-2022-driving-factor-analysis-with-trend-and-forecast-to-2028-2022-12-07"
+  - title: "Facial Recognition Phone Market 2022 Company Profile Analysis, Industry Segmentation, Opportunity Assessment and Forecast by 2028"
+    excerpt: "The Facial Recognition Phone market analysis, definition, and category are presented at the beginning of the document. The report also presents a detailed overview of the various product specifications,"
+    publishedDateTime: 2022-12-06T03:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-phone-market-2022-company-profile-analysis-industry-segmentation-opportunity-assessment-and-forecast-by-2028-2022-12-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 42
+    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "The Neural Network Market research report gives the information on Industry Analysis database on this Market for period 2022 - 2028"
-    excerpt: "The \" Neural Network Market \" research examines seasonal trends and market shifts. The goal of this research is to provide you with a detailed, thoughtful record so you can profit from the market's evolving possibilities throughout time from 2022 to 2028."
-    publishedDateTime: 2022-12-08T02:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-neural-network-market-research-report-gives-the-information-on-industry-analysis-database-on-this-market-for-period-2022---2028-2022-12-07"
+  - title: "Discover How Artificial Intelligence Based Medical Device Market 2023-2026 is Estimated Drive the Industry Growth Across World in Coming Year"
+    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Artificial Intelligence Based Medical Device"
+    publishedDateTime: 2022-12-05T05:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/discover-how-artificial-intelligence-based-medical-device-market-2023-2026-is-estimated-drive-the-industry-growth-across-world-in-coming-year-2022-12-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
+    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Mental Health Global Market Report 2022: Ever-Surging Prevalence of Mental Health Issues Worldwide Drives Growth"
+    excerpt: "Global Market Outlook\" report has been added to ResearchAndMarkets.com's offering. The rise of digital approaches to mental health has led to the development of predictions, detections, and treatment solutions based on artificial intelligence (AI) and machine learning (ML)."
+    publishedDateTime: 2022-12-06T17:37:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/12/06/9725490.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
   - title: "Global Digital Transformation Markets Report 2022: Social Media, AI, Digital Payments, IoT Driving a Staggering $2000+ Billion Industry by 2027"
     excerpt: "Telemedicine, AI-driven medical devices and patient care robots, and electronic health records are some ... to special purpose acquisition companies (SPACs) and start-ups operating worldwide. Some of the strategies among key players in the market for ..."
     publishedDateTime: 2022-12-07T13:49:00Z

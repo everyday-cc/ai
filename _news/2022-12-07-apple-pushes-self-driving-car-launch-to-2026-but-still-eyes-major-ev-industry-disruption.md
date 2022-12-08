@@ -92,20 +92,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 25
-  - title: "2023 CES: 200 French Tech start-ups on their way to Las Vegas"
-    excerpt: "Business France first supported French businesses at the CES in 2014. The delegation has grown year after year, with a special thanks to the involvement of all of France's regions. In total, nearly 900 French start-ups have exhibited at the CES over the last 10 years."
-    publishedDateTime: 2022-12-08T18:58:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/12/08/9727458.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/1964801/French_pavilion_at_tradeshow.jpg"
-        width: 400
-        height: 238
-        isCached: true
   - title: "Apple Delays the Launch and Lowers the Ambitions for its Self-Driving Car"
     excerpt: "Apple is modifying the design of its first self-driving vehicle to include a steering wheel and pedals, which earlier plans left out."
     publishedDateTime: 2022-12-07T15:27:00Z
@@ -164,6 +150,15 @@ related:
     provider:
       name: New Scientist
       domain: newscientist.com
+    quality: 4
+  - title: "2023 CES: 200 French Tech start-ups on their way to Las Vegas"
+    excerpt: "Business France is supporting a large French delegation with 200 start-ups1 Tech pavilion: Eureka Park – Hall G booth 602001 Vehicle pavilion: LVCC – West Hall booth 54005th January: French Tech eveni"
+    publishedDateTime: 2022-12-08T17:13:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/12/n30012069/2023-ces-200-french-tech-start-ups-on-their-way-to-las-vegas"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 4
   - title: "Uber and Motional launch self-driving rides in Las Vegas, with plans to expand to Los Angeles"
     excerpt: "Initially, the companies aren’t charging for the autonomous rides, though they plan to charge for the driverless commercial launch later on."

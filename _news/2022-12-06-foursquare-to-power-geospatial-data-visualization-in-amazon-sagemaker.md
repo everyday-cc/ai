@@ -61,6 +61,15 @@ related:
         width: 1561
         height: 779
         isCached: true
+  - title: "Prepare data from Amazon EMR for machine learning using Amazon SageMaker Data Wrangler"
+    excerpt: "Data preparation is a principal component of machine learning (ML) pipelines. In fact, it is estimated that data professionals spend about 80 percent of their time on data preparation. In this intensive competitive market, teams want to analyze data and extract more meaningful insights quickly. Customers"
+    publishedDateTime: 2022-12-08T18:59:46Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-data-from-amazon-emr-for-machine-learning-using-amazon-sagemaker-data-wrangler/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 78
   - title: "AWS updates machine learning service SageMaker"
     excerpt: "AWS has added new features to its managed machine learning​ service Amazon SageMaker​, designed to improve governance attributes within the service."
     publishedDateTime: 2022-12-07T00:46:00Z
@@ -75,6 +84,15 @@ related:
         width: 504
         height: 315
         isCached: true
+  - title: "AI21 Jurassic-1 Foundation Model Now Available on Amazon SageMaker"
+    excerpt: "The integration will simplify the use of state-of-the-art large language models, allowing enterprises to integrate Jurassic-1 directly to their data TEL AVIV, Israel, /PRNewswire/ -- AI21 Labs, an Isr"
+    publishedDateTime: 2022-12-08T15:37:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/12/n30010504/ai21-jurassic-1-foundation-model-now-available-on-amazon-sagemaker"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 34
   - title: "AI21 Jurassic-1 Foundation Model Now Available on Amazon SageMaker"
     excerpt: "AI21 Labs, an Israeli startup aiming to fundamentally change the way people read and write using Generative AI, announced today that its Jurassic-1 Foundation Model used to power chatbots, answer questions,"
     publishedDateTime: 2022-12-08T16:54:00Z

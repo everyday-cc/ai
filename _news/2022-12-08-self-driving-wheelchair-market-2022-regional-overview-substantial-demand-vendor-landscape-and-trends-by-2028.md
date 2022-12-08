@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-
 webUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-2022---regional-overview-substantial-demand-vendor-landscape-and-trends-by-2028-2022-12-07"
 type: article
 quality: 63
-heat: 123
+heat: 93
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence & Advanced Machine Learning Market 2023 Industry Size, Trends, Growth, Insights and Forecast Research Report 2028"
-    excerpt: "The global Artificial Intelligence and Advanced Machine Learning Market size, revenue, distinct categories, drivers"
-    publishedDateTime: 2022-12-06T07:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-2023-industry-size-trends-growth-insights-and-forecast-research-report-2028-2022-12-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Education Market 2023 : Impressive Growth Rate, Regional Insights, Competitive Outlook, and Geographical Divisions 2028"
     excerpt: "\" Artificial Intelligence in Education Market \" Insights 2022 - By Applications (Teaching Application, Evaluation Application, Management Application, Others), By Types (, Convenient for Educational Affairs,"
     publishedDateTime: 2022-12-06T00:32:00Z
@@ -71,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Emotion Recognition and Sentiment Analysis Industry 2023 Market Size, Share, Growth, Sales and Drivers Analysis Research Report 2028"
-    excerpt: "The Global Emotion Recognition and Sentiment Analysis Market 2023 report is a thorough assessment of the worldwide"
-    publishedDateTime: 2022-12-05T08:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/emotion-recognition-and-sentiment-analysis-industry-2023-market-size-share-growth-sales-and-drivers-analysis-research-report-2028-2022-12-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The Neural Network Market research report gives the information on Industry Analysis database on this Market for period 2022 - 2028"
     excerpt: "The \" Neural Network Market \" research examines seasonal trends and market shifts. The goal of this research is to provide you with a detailed, thoughtful record so you can profit from the market's evolving possibilities throughout time from 2022 to 2028."
     publishedDateTime: 2022-12-08T02:08:00Z
@@ -99,15 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Digital Transformation Markets Report 2022: Social Media, AI, Digital Payments, IoT Driving a Staggering $2000+ Billion Industry by 2027"
-    excerpt: "Telemedicine, AI-driven medical devices and patient care robots, and electronic health records are some ... to special purpose acquisition companies (SPACs) and start-ups operating worldwide. Some of the strategies among key players in the market for ..."
-    publishedDateTime: 2022-12-07T13:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/12/g29990671/global-digital-transformation-markets-report-2022-social-media-ai-digital-payments-iot-driving-a-s"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "coR1kNWis5JwuAT+o3pp4fQ1L4NyKkL/yOD7b4/ZPZ5iQ0b5wlCLzIDGM0Outr7LL/4+VXPT54ptGKPh+g0jFwoYDhLCC3gMHepKdrIbaBB+8mOrx+54RRL78vhN9mUKRwck0xQCpbCFdO5NlpsGsQ6ot37UC4OInn0BTrBiJEmKlQJcFcfPx8oUcQVSgyRaa8sYUAg45nSo1X6lawDdshhK+j1+gz0vjouS2CXye4+GI3bXBoBbQSh7Kqjb0PmAkITKBeCmaEDlfY8/Y0SrsCXXW/SgTzrh8S26sqCd0pjc4Uy2zUB6Iz5yYt256OrfICwcP1jzYtK8IZ3ZX3ukddrXj4DyFPTVDyeRzmUGYhQ=;bCReUW0T7v/8H4lQh6ZvmQ=="
 ---

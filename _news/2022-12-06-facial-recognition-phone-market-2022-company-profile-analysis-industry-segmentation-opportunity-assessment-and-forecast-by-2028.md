@@ -29,133 +29,94 @@ images:
     isCached: true
 
 related:
-  - title: "TSA is ready for nationwide deployment of its facial recognition system"
-    excerpt: "The TSA started using its biometric system in 16 US airports as an optional screening procedure requiring the traveler to insert their ID document and have"
-    publishedDateTime: 2022-12-06T20:11:00Z
-    webUrl: "https://www.techspot.com/news/96871-tsa-ready-nationwide-deployment-facial-recognition-system.html"
+  - title: "AI Sweeping Robot Market 2022-2028 Leading Growth Drivers, Emerging Audience, Segments, Industry Sales, Profits & Analysis"
+    excerpt: "AI Sweeping Robot Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2021, at unexpected"
+    publishedDateTime: 2022-12-08T02:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-sweeping-robot-market-2022-2028-leading-growth-drivers-emerging-audience-segments-industry-sales-profits-analysis-2022-12-07"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 69
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2022/12/2022-12-06-image-13.jpg"
-        width: 2048
-        height: 1536
-        isCached: true
-  - title: "Cops Say They Only Use Facial Recognition for Leads, But It’s Often the Sole Basis for Arrests"
-    excerpt: "The anecdote opens a landmark report on facial recognition from the Georgetown Law Center on Privacy & Technology, which found that law enforcement agencies are often using the technology as the sole basis for putting people in jail despite claiming they don’t and despite a growing body of evidence that the technology has serious problems with accuracy and bias."
-    publishedDateTime: 2022-12-06T22:55:00Z
-    webUrl: "https://gizmodo.com/facial-recognition-cops-police-sole-basis-arrests-study-1849859483"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 57
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3d2dfea7d2f1ffb43d9b27160d2ee8cc.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Hashtag Trending Dec 6 – TSA facial recognition system; Adobe to sell AI made stock images; Darknet markets"
-    excerpt: "TSA may expand its facial recognition ID system, Adobe expands creations made with generative AI, and vendors selling stolen data products on darknet markets had more than $140 million in revenue. That’s all the tech news that’s trending right now,"
-    publishedDateTime: 2022-12-06T09:00:00Z
-    webUrl: "https://www.itworldcanada.com/article/hashtag-trending-dec-6-tsa-facial-recognition-system-adobe-to-sell-ai-made-stock-images-darknet-markets/517175"
-    ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-dec-6-tsa-facial-recognition-system-adobe-to-sell-ai-made-stock-images-darknet-markets/517175?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-dec-6-tsa-facial-recognition-system-adobe-to-sell-ai-made-stock-images-darknet-markets/517175?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 56
-    images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png"
-        width: 1500
-        height: 1500
-        isCached: true
-  - title: "A massive report highlights fundamental problems with facial recognition and how police lie about its uses."
-    excerpt: "The anecdote opens a landmark report on facial recognition from the Georgetown Law Center on Privacy & Technology, which found that law enforcement agencies are often using the technology as the sole basis for putting people in jail despite claiming they don’t and despite a growing body of evidence that the technology has serious problems with accuracy and bias."
-    publishedDateTime: 2022-12-06T18:55:00Z
-    webUrl: "https://gizmodo.com/facial-recognition-cops-police-sole-basis-arrests-study-1849859483"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 51
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3d2dfea7d2f1ffb43d9b27160d2ee8cc.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "TSA is ready for a nationwide deployment of its facial recognition system"
-    excerpt: "The TSA started using its biometric system in 16 US airports as an optional screening procedure requiring the traveler to insert their ID document and have"
-    publishedDateTime: 2022-12-06T20:11:00Z
-    webUrl: "https://www.techspot.com/news/96871-tsa-ready-nationwide-deployment-facial-recognition-system.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 48
-  - title: "Facial Recognition Back on FB Dating"
-    excerpt: "Meta is extending its use of AI facial scanning to confirm users' ages on Facebook Dating which is a contrast to their 2021 move of banning facial recognition."
-    publishedDateTime: 2022-12-06T08:57:00Z
-    webUrl: "https://analyticsindiamag.com/facial-recognition-back-on-fb-dating/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/news-1.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
-  - title: "The TSA’s facial recognition technology may expand nationwide in 2023"
-    excerpt: "The TSA could potentially expand their facial recognition identification system nationwide in 2023. Veuer’s Maria Mercedes Galuppo has the story."
-    publishedDateTime: 2022-12-05T19:30:00Z
-    webUrl: "https://omaha.com/travel/the-tsa-s-facial-recognition-technology-may-expand-nationwide-in-2023/video_ab85d6f8-fcb8-5c96-a73c-c6b250579358.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/a/b8/ab85d6f8-fcb8-5c96-a73c-c6b250579358/638e23e3ec507.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Ring keeps pushing the boundaries for facial recognition in US policing"
-    excerpt: "The number of United States law enforcement agencies using Ring's social media application Neighbors is large and growing."
-    publishedDateTime: 2022-12-07T21:36:00Z
-    webUrl: "https://www.biometricupdate.com/202212/ring-keeps-pushing-the-boundaries-for-facial-recognition-in-us-policing"
+  - title: "Artificial Intelligence & Advanced Machine Learning Market 2023 Industry Size, Trends, Growth, Insights and Forecast Research Report 2028"
+    excerpt: "The global Artificial Intelligence and Advanced Machine Learning Market size, revenue, distinct categories, drivers"
+    publishedDateTime: 2022-12-06T07:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-2023-industry-size-trends-growth-insights-and-forecast-research-report-2028-2022-12-06"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/27132556/data-privacy-scaled.jpg"
-        width: 2048
-        height: 1257
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "TSA to Expand Facial Recognition Tested in DFW to Airports Across America"
-    excerpt: "American Airlines launched Mobile ID at DFW Airport, enabling customers enrolled in TSA PreCheck to “breeze through the airport with just their phone and their face.” The TSA has since expanded the use of facial recognition technology to 16 airports—and it now plans to roll out the optional service to airports across the U."
-    publishedDateTime: 2022-12-06T20:38:00Z
-    webUrl: "https://dallasinnovates.com/tsa-to-expand-facial-recognition-tested-in-dfw-to-airports-across-america/"
+  - title: "Computer Vision Software Market Trends 2023 Industry Size, Segments, Share, Key Players and Growth Factor Analysis by 2026"
+    excerpt: "Global “ Computer Vision Software Market ” 2023 report presents an exclusive analysis of market size, share, revenue, production, consumption, gross margin, and price. The report offers elaborative data of leading market player's analysis and key factors that will affect the industry growth."
+    publishedDateTime: 2022-12-06T08:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-trends-2023-industry-size-segments-share-key-players-and-growth-factor-analysis-by-2026-2022-12-06"
     type: article
     provider:
-      name: Dallas Innovates
-      domain: dallasinnovates.com
-    quality: 33
-  - title: "Kiwi Educational Robot KaiBot Wins International Recognition On Its First Outing"
-    excerpt: "KaiBot may have just come into the world, but it’s already teaching kids and teachers a thing or two about technology. In fact, two months before its official launch date, KaiBot, the little AI-enabled learning robot designed to help five-15-year-old children develop coding skills,"
-    publishedDateTime: 2022-12-06T18:07:00Z
-    webUrl: "https://www.scoop.co.nz/stories/ED2212/S00014/kiwi-educational-robot-kaibot-wins-international-recognition-on-its-first-outing.htm"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Emotion Recognition and Sentiment Analysis Industry 2023 Market Size, Share, Growth, Sales and Drivers Analysis Research Report 2028"
+    excerpt: "The Global Emotion Recognition and Sentiment Analysis Market 2023 report is a thorough assessment of the worldwide"
+    publishedDateTime: 2022-12-05T08:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/emotion-recognition-and-sentiment-analysis-industry-2023-market-size-share-growth-sales-and-drivers-analysis-research-report-2028-2022-12-05"
     type: article
     provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 29
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Discover How Artificial Intelligence Based Medical Device Market 2023-2026 is Estimated Drive the Industry Growth Across World in Coming Year"
+    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Artificial Intelligence Based Medical Device"
+    publishedDateTime: 2022-12-05T05:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/discover-how-artificial-intelligence-based-medical-device-market-2023-2026-is-estimated-drive-the-industry-growth-across-world-in-coming-year-2022-12-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Mental Health Global Market Report 2022: Ever-Surging Prevalence of Mental Health Issues Worldwide Drives Growth"
+    excerpt: "Global Market Outlook\" report has been added to ResearchAndMarkets.com's offering. The rise of digital approaches to mental health has led to the development of predictions, detections, and treatment solutions based on artificial intelligence (AI) and machine learning (ML)."
+    publishedDateTime: 2022-12-06T17:37:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/12/06/9725490.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+  - title: "Global Digital Transformation Markets Report 2022: Social Media, AI, Digital Payments, IoT Driving a Staggering $2000+ Billion Industry by 2027"
+    excerpt: "Telemedicine, AI-driven medical devices and patient care robots, and electronic health records are some ... to special purpose acquisition companies (SPACs) and start-ups operating worldwide. Some of the strategies among key players in the market for ..."
+    publishedDateTime: 2022-12-07T13:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/12/g29990671/global-digital-transformation-markets-report-2022-social-media-ai-digital-payments-iot-driving-a-s"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "+/JhlN2IHGq0NbWLFP7EVXPpw33vOLoC5BZprVPHTzgif6xzo/dIHMBVA4GvEdOvnn7bfIEkp+I+cFnDiAAWILMghrVXkAxh/hOz/zKtiYkrylgXj5VUmXT59tay9WRgXw1t8MLK47cmUA14Aw1OMXsGW9ZIL6GT00EXYMz4qOUaqArtjPwS9fhj2qXfgjNGPbg+Yb7lsX30er/Sd/WaPgudMQdmuKdh3UnpBAW32xthvcz7SdqPnSW9D2VDZGHSRCRIgwt9RwtFQRzANVogDk6RamBX2sSqx9HHTteOJKiR6oSVWq3eUtxDW7/zvVahwimLhv5vdxwrixdvRc5/JdgtWyK48Z7Ew1RIwp0zicg=;xViV/tSsM1Twx5L6g+uDag=="
 ---

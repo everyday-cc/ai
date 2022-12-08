@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-08T12:00:00Z
 originalUrl: "https://www.cc.gatech.edu/news/stanceosaurus-breaks-through-misinformation-language-barriers-could-be-largest-dataset-its"
 webUrl: "https://www.cc.gatech.edu/news/stanceosaurus-breaks-through-misinformation-language-barriers-could-be-largest-dataset-its"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: cc.gatech.edu

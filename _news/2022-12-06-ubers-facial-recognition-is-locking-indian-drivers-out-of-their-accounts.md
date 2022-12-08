@@ -45,6 +45,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "New facial recognition technology scans your ear"
+    excerpt: "In the post-COVID world of face coverings and heightened hygiene awareness, the need for new authentication methods that don't require a person's full face to be visible has arisen."
+    publishedDateTime: 2022-12-08T19:13:00Z
+    webUrl: "https://techxplore.com/news/2022-12-facial-recognition-technology-scans-ear.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 19
 
 secured: "zpWcU/mr828myzcgn7aMgl55sR+fuyO1tvqN/EZL3FZI4A0ObY+PUZt26YBQXNq0Uk3LDqpgA9ZgRVJVTFJ8rS0h/cpmdANS+q290cZxbBbPiAA4LcBM+C5vkN0SaYQS4nEtzLJJWrrWlFyFwnc0j4I8Ilea3ZPBLd0YIa7DRM1U2ByAwpzKHRIsArfN9YqZ/0s1q0Uu8pP6kxrLaWO5ADeBrhi55QBgOGPHHYnPEYPFKZFOumda3RK60qjLoNw3WcofuWb7aevc82n6SVLPCSCP5OCseCG95qwTg7WOMcwQSDbgIuVR2H0UdWTtF/uhhKppouorOC/46azMahj+s3AZnqmPgsoalbzS+PUTbEjPqjPbUbg84Cog3TaXyI/JRd5eTQwVgDUeyHix6X5K5S48jEet/gAVvX1yL3fKgVibeJI/xCTY56u8yhaE01eWREW5kCE9be6l6ezlpADtp0ZcTeAKYztmT2mv48PKBCfag2FmZTsthp2YBlHlm77VIQdPI/4cizLQKCyRmNFOcA==;egRCcCmcXoTW2qDM9/Kzdw=="
 ---

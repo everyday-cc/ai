@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind’s Latest AI Trounces Human Players at the Game ‘Stratego’"
-    excerpt: "DeepMind just took a stab at solving this conundrum. The trick was to interweave game theory into an algorithmic strategy loosely based on the human brain called deep reinforcement learning. The result, DeepNash, toppled human experts in a highly strategic ..."
-    publishedDateTime: 2022-12-05T18:31:00Z
-    webUrl: "https://singularityhub.com/2022/12/05/deepminds-latest-ai-trounces-human-players-at-the-game-stratego/"
-    ampWebUrl: "https://singularityhub.com/2022/12/05/deepminds-latest-ai-trounces-human-players-at-the-game-stratego/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/12/05/deepminds-latest-ai-trounces-human-players-at-the-game-stratego/?amp=1"
+  - title: "No Child’s Play: Why Do Researchers Train AI On Games?"
+    excerpt: "Of late, we have seen AI agents like CICERO and DeepNash take on games like Diplomacy and Stratego, respectively. Why did big tech companies like Meta and DeepMind pick these old strategy games to test their AI chops?"
+    publishedDateTime: 2022-12-07T07:32:00Z
+    webUrl: "https://analyticsindiamag.com/why-do-researchers-train-ai-on-games/"
     type: article
     provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 76
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2022/12/stratego-board-game-pieces-blue.jpeg"
-        width: 1068
-        height: 601
-        isCached: true
-  - title: "DeepMind spin-off Isomorphic Labs announces drug discovery scale plans"
-    excerpt: "AI drug discovery startup Isomorphic Labs is acquiring talent and a new office as it looks to strike its first business deal"
-    publishedDateTime: 2022-12-05T10:53:00Z
-    webUrl: "https://www.information-age.com/deepmind-spin-off-isomorphic-labs-announces-drug-discovery-scale-plans-123500895/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 39
     images:
-      - url: "https://s42137.pcdn.co/wp-content/uploads/2022/12/deepmind-spin-off-isomorphic-labs-announces-drug-discovery-scale-plans-scaled.jpg.optimal.jpg"
-        width: 2560
-        height: 1440
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/Video-games-used-to-train-AI-1.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "+v0RuOoQHCPKyQq3lz9BLrlc8OO/iXl7wxODrnGZfzQWLWSpqT9fkYqzFCtWKBTRizy6XFixR+tkC2w2VvjdyDvMfFFchPamUSHBW4vnG1jUre5dIN1SBTCFWuej0Zahg9y/t22ShTj6iwqka4GCDVkj+lMBk+5tExqR0TcHtgEEvy8syw8I9c/6OkHCmWy1zo2QNKYziwFMiTxPa+XjtJmstjAP7+1d+bTyoRjN0pox/eDftrhoN9KTFkLo7J4cszz7aUzbfYVF8H6V9IxOEdwP3QPgpgvNDFgsNTp5BG4VHXaQbSk/nXn+fbOVTy32Ux2mCcPWBP2CuIcJBJptA7JPc/YJSxFtnnE1IaR3y4p0OYnMns0muz1+5iYoW4B408BnWvsAxWcSz7XE1msoaS3kDiiWhtkaWfv1tlknD/JT1+WD/eVttCX7TLpc7xfcjowGmAabEy3ez5vkBxCkLZ0CdbfhItSJLc7LKBIKwI0BD26zCUAq3d+7TxLCzwqHuF9mmlbuY0WfazuBlP2Elg==;KWYlTm4EFgA7/7l5OLMQew=="

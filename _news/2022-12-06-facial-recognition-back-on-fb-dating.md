@@ -92,20 +92,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 48
-  - title: "Facial Recognition Phone Market 2022 Company Profile Analysis, Industry Segmentation, Opportunity Assessment and Forecast by 2028"
-    excerpt: "The Facial Recognition Phone market analysis, definition, and category are presented at the beginning of the document. The report also presents a detailed overview of the various product specifications,"
-    publishedDateTime: 2022-12-06T03:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-phone-market-2022-company-profile-analysis-industry-segmentation-opportunity-assessment-and-forecast-by-2028-2022-12-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The TSA’s facial recognition technology may expand nationwide in 2023"
     excerpt: "The TSA could potentially expand their facial recognition identification system nationwide in 2023. Veuer’s Maria Mercedes Galuppo has the story."
     publishedDateTime: 2022-12-05T19:30:00Z

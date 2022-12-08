@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-07T06:11:00Z
 originalUrl: "https://www.washingtonpost.com/national/editorial-roundup-united-states/2022/12/07/16ceac5e-7628-11ed-a199-927b334b939f_story.html"
 webUrl: "https://www.washingtonpost.com/national/editorial-roundup-united-states/2022/12/07/16ceac5e-7628-11ed-a199-927b334b939f_story.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Washington Post

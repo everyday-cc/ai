@@ -1,23 +1,20 @@
 ---
 category: news
 title: "This New Artificial Intelligence Can Help You Lie"
-excerpt: "OpenAI was formed in 2015 with the mission of developing a friendly artificial intelligence that will dramatically benefit humanity while also helping humanity avoid the existenti"
-publishedDateTime: 2022-12-02T20:48:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/the-nature-deception/202212/new-artificial-intelligence-can-help-you-lie"
-webUrl: "https://www.psychologytoday.com/us/blog/the-nature-deception/202212/new-artificial-intelligence-can-help-you-lie"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/the-nature-deception/202212/new-artificial-intelligence-can-help-you-lie?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-nature-deception/202212/new-artificial-intelligence-can-help-you-lie?amp"
+excerpt: "The artificial intelligence research company, OpenAI, recently released ChatGPT, an enormously capable AI system that can communicate with people using natural language. ChatGPT can answer ..."
+publishedDateTime: 2022-12-02T21:01:00Z
+originalUrl: "https://www.psychologytoday.com/intl/blog/the-nature-deception/202212/new-artificial-intelligence-can-help-you-lie"
+webUrl: "https://www.psychologytoday.com/intl/blog/the-nature-deception/202212/new-artificial-intelligence-can-help-you-lie"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-nature-deception/202212/new-artificial-intelligence-can-help-you-lie?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-nature-deception/202212/new-artificial-intelligence-can-help-you-lie?amp"
 type: article
-quality: 59
-heat: 59
-published: false
 
 provider:
   name: Psychology Today
   domain: psychologytoday.com
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
 
 images:
@@ -26,6 +23,6 @@ images:
     height: 800
     isCached: true
 
-secured: "9pIjpv17QD4+Jgy2d254T/v8ksTv15nFIwR4M65mii2IYL4N6k7hXRS+WNs0tn6lMhxoMwDvl2zLLSKZMBTV/UQqeeveuksJMoX76XX0CAHOU4ClMGbongS8S/N3RQdFpa2hGJZJSRBsStBewB5Inr874M+dTaM26JjKZkP4vfvEtsg1TUZwtm/JUYXPB3sH/6yp4BL782WAQ/peXSTVc/kR4/7q5aK2KGEUGfDsbcR/kfQSyN27SvOnAlnNCLaRcsxP+0xGwiTya1wDn7V0p/i4ib9tW+XATfOogHJrDs8tty0PSXG6CcWLuLuQ5IAHwq4F5zN+Y2KFSUMM1juixxjiejR84ldMmmz5XXI1KME=;TLLhnJ1588T5Mh/L5X1MOw=="
+secured: "oDNxT/mkVSx5nuI/GT8egpcTnHgvuPwBazicELZ5gN+lr3qt0bCAfBulw2Ja3In/l0+kCprAprMYRkuzH8Cz03iDD4NvCO8jBR5O32jAKJquBbcaUd/ZNe4F6c2e5NDMsPvUXIRIig7o9RmBBp0xVPYt5WijKPamwKcOsLg4JDMZ9KwWVuQp4bLQae3agz/VtK3dxuL1BwBrV4vg7Dtdoz9dL1RuSl0fch43tW8wgxTFltvzTxS7lME5UqAE+NRwT6roO0L8M4i7IQ+eW2q+oc6D2M1eXRIXGlcYPc7sJajbRHfxEGSgHXlK/H+zu6KG99nQHy33bqdn7O9tj+glGQcYBMvFpB3TQ+/v+ZwkOH8=;4M2TL8bSSI4WNYTkElOaZg=="
 ---
 

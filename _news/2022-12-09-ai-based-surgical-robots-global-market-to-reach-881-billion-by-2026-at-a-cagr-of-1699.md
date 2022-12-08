@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-08T19:26:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-ai-based-surgical-robots-global-market-reach-881-/2022/12/08/9727451.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-ai-based-surgical-robots-global-market-reach-881-/2022/12/08/9727451.htm"
 type: article
+quality: 25
+heat: 25
+published: false
 
 provider:
   name: TMCnet

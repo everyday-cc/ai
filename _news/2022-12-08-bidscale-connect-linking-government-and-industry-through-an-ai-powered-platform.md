@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/bidscale-connect-l
 webUrl: "https://markets.businessinsider.com/news/stocks/bidscale-connect-linking-government-and-industry-through-an-ai-powered-platform-1031958377"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Bidscale Debuts AI-Powered Market Intelligence Platform for Federal Procurement"
+    excerpt: "Looking for the latest Government Contracting News? Read about Bidscale Debuts AI-Powered Market Intelligence Platform for Federal Procurement."
+    publishedDateTime: 2022-12-08T22:15:00Z
+    webUrl: "https://executivegov.com/2022/12/bidscale-debuts-ai-powered-market-intelligence-platform-for-federal-procurement/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 33
+    images:
+      - url: "https://executivegov-media.s3.amazonaws.com/2022/12/08/1e/03/ce/47/25/4c/74/84/unnamed-file-7.jpeg"
+        width: 272
+        height: 270
+        isCached: true
   - title: "TIFIN Announces Asset Management Industry’s SaaS-based AI Platform for Modern Distribution"
     excerpt: "As noted in the update, TIFIN is “an AI-powered fintech that leverages data science, investment intelligence, and technology to deliver engaging and personalized investor experiences.” By connecting individuals to advice and investments, TIFIN ..."
     publishedDateTime: 2022-12-07T19:33:00Z

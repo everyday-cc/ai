@@ -7,7 +7,7 @@ originalUrl: "https://www.deepmind.com/blog/competitive-programming-with-alphaco
 webUrl: "https://www.deepmind.com/blog/competitive-programming-with-alphacode"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Are ChatGPT and AlphaCode going to replace programmers?"
+    excerpt: "OpenAI and DeepMind systems can now produce meaningful lines of code, but software engineers shouldn’t switch careers quite yet."
+    publishedDateTime: 2022-12-08T19:48:00Z
+    webUrl: "https://www.nature.com/articles/d41586-022-04383-z"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 26
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-04383-z/d41586-022-04383-z_23802782.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "GSM8rmvn4l+tXF7ddclgXvs30GKixsrGYmg+qMrq04SAXhWBcAoTIvE0Tjw3Le14wqzhfNMU36YiYAayMT7RYODYIrWkGnWy8D0MoQ852/BgKKpUD77/TzWCYj0mi4/SMyZZU5KmeW665YBqgmZz41Jc2KQcLETtpTdMd4JQ0YvYsRys66+/C0F/XTvHLzD7qVJ+1koRpIe307hr7WFG2RnUxknyDiP2kCzmu0bJqFBRQgvsDa9FV9PCUulwrI7UnrNqKGK0b8vuTgGTUOr9dJpTypgXctZuYh4BJwUoOT9U6nIDLLB4CBGH4jTQjuylXirs10KsRBSUW4rdMVdvqjwrBmScFBGupgGMAKGI9KE=;9MNcRHCV6Vbk4hiOrhQlOA=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-08T20:10:00Z
 originalUrl: "https://www.livemint.com/technology/tech-news/amazons-quest-for-the-holy-grail-of-robotics-11670444055367.html"
 webUrl: "https://www.livemint.com/technology/tech-news/amazons-quest-for-the-holy-grail-of-robotics-11670444055367.html"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Mint

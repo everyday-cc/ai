@@ -70,6 +70,20 @@ related:
         width: 620
         height: 484
         isCached: true
+  - title: "Apple's \"Self-Driving\" Car Isn't Shaping Up As Promised"
+    excerpt: "Apple's Project Titan \"self-driving\" car reveal pushed back to 2026 with some ambitious plans for the model now apparently scrapped"
+    publishedDateTime: 2022-12-08T22:31:00Z
+    webUrl: "https://www.topspeed.com/apple-pushes-back-launch-of-self-driving-car-to-2026/"
+    type: article
+    provider:
+      name: TopSpeed
+      domain: topspeed.com
+    quality: 24
+    images:
+      - url: "https://static1.topspeedimages.com/wordpress/wp-content/uploads/jpg/201609/apple-car-3.jpg"
+        width: 2115
+        height: 1191
+        isCached: true
 
 secured: "r04p5UBUUJxqkVhmZeraTSfQjH1LCZfxuPOeLSyCoKsV2jgMRicf0zqttNcCqtvCTrPhSmiKM+gDG58lI62TzHxEjysAorQSMLUqMYNfcvZ30P7a0ZxnTGX0uK2FewNr3izghNCh0vTztylTgJZZ8eHNd4MkFX5KZxe/lwfU/QQ4DM5JMDW0ZGPhjEHmjQMVAIJ6xVKcdtQcE/U1ew6DJVmJ63/MMUtpPdipY9oCpPm1t+AB+HI+Crx65ANFnxwNC2gKDPM4pFXnMmig6NW7Lg4blLTIMXeARbS3qNiuiCMyzMcJ+87DxjHl84mfjRkk4KHcB0TYvdUo1Aklg1zTzwfzKdSMg3/YPNRIqbVK9izwlQQHfhe9fs1tZgXYgHddGBpkASU1DLWvv6KQlohFvedLj6HXRAXR5YZvEG3k3OQHgUauu7JvF80OjpK0Y7m+3QGPCB/PUcwTIRm8mUKXBVbadG0IRKcZWSDNu8G7JajIm2Ej6Tt1ZWPY1x2ikgeM91Ssx0JQhaxHGehTbbziEQ==;qS2HeVAQu13RCEb5Da/N5w=="
 ---

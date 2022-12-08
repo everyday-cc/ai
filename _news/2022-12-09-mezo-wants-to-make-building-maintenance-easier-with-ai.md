@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-08T18:25:00Z
 originalUrl: "https://www.bizjournals.com/chicago/inno/stories/news/2022/12/08/mezo-making-buidling-maintenance-easier.html"
 webUrl: "https://www.bizjournals.com/chicago/inno/stories/news/2022/12/08/mezo-making-buidling-maintenance-easier.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Business Journals

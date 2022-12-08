@@ -43,22 +43,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Artificial Intelligence Predicts Future Heart Disease, Stroke Death Risk Using Single X-Ray"
-    excerpt: "Scientists have also discovered a way to use artificial intelligence to predict the risk of a heart attack or stroke using only a single x-ray."
-    publishedDateTime: 2022-12-04T05:07:00Z
-    webUrl: "https://www.ndtv.com/world-news/artificial-intelligence-predicts-future-heart-disease-stroke-death-risk-using-single-x-ray-3576252"
-    ampWebUrl: "https://www.ndtv.com/world-news/artificial-intelligence-predicts-future-heart-disease-stroke-death-risk-using-single-x-ray-3576252/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/artificial-intelligence-predicts-future-heart-disease-stroke-death-risk-using-single-x-ray-3576252/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 49
-    images:
-      - url: "https://c.ndtvimg.com/2022-06/ipbu0t1_heart-attack_650x400_03_June_22.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "How An X Ray Can Help Predict Risk Of Heart Attack"
     excerpt: "The World Health Organisation (WHO) has reported that globally heart disease is now the biggest cause of mortality. According to estimates, about one crore 70 lakh individuals worldwide lose their lives to cardiovascular disease each year."
     publishedDateTime: 2022-12-05T13:35:00Z

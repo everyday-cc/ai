@@ -54,6 +54,20 @@ related:
         width: 4096
         height: 4096
         isCached: true
+  - title: "Lensa AI Created a Viral Meme, But How Legal Is It?"
+    excerpt: "Social media has been inundated with AI-generated selfie portraits from Lensa AI's new magic avatar feature. Now, artists cite it as another example of how AI technology is engaging in copyright infri"
+    publishedDateTime: 2022-12-08T21:41:00Z
+    webUrl: "https://www.law.com/legaltechnews/2022/12/08/lensa-ai-created-a-viral-meme-but-how-legal-is-it/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2022/12/Artificial-Intelligence-Portrait-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "Prisma Labs, maker of Lensa AI, says it is working to prevent accidental generation of nudes"
     excerpt: "We recently uncovered that Lensa AI can be tricked into creating NSFW images. When TechCrunch made the Prisma team aware of its findings, the company’s CEO replied with its findings. Prisma Lab’s CEO and co-founder Andrey Usoltsev told us that the behavior we observed in our article can only happen if the AI is intentionally"
     publishedDateTime: 2022-12-06T19:55:00Z

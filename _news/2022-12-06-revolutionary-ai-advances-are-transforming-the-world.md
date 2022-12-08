@@ -27,21 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "The Future Is Now: Transforming PCB Manufacturing Using Artificial Intelligence"
-    excerpt: "Manufacturers are exploring ways to increase the efficiencies by which essential electronic components are produced."
-    publishedDateTime: 2022-12-05T13:14:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/05/the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence/amp/"
+  - title: "The AI Revolution Is Closer Than You Think"
+    excerpt: "Two recent developments show how rapidly AI creative tools are becoming a practical alternative to human creators."
+    publishedDateTime: 2022-12-08T19:46:00Z
+    webUrl: "https://www.forbes.com/sites/rogerdooley/2022/12/08/the-ai-revolution-is-closer-than-you-think/"
+    ampWebUrl: "https://www.forbes.com/sites/rogerdooley/2022/12/08/the-ai-revolution-is-closer-than-you-think/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogerdooley/2022/12/08/the-ai-revolution-is-closer-than-you-think/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 83
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62a797a880eca7dbef9036cc/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 673
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63924c996966143e208a1359/0x0.jpg?format=jpg&crop=680,383,x0,y0,safe&width=1200"
+        width: 680
+        height: 383
+        isCached: true
+  - title: "This Major U.S. City is Leading the Robotics Revolution"
+    excerpt: "Pittsburgh is shaping the future of what’s next in technology, from aerospace to electric vehicles and Cleantech innovation. In fact, it may just be the U.S. city that leads the robotic revolution."
+    publishedDateTime: 2022-12-05T16:00:00Z
+    webUrl: "https://www.dcvelocity.com/articles/56120-this-major-u-s-city-is-leading-the-robotics-revolution"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 54
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/94d2d980-408b-461a-a5cf-cfdf747392fe.png?height=635&t=1670256126&width=1200"
+        width: 600
+        height: 394
         isCached: true
 
 secured: "jGr88X7zI0JKOJu6R4aPdyZ0InzsNv2amKdINBWh/NAPqguG8U8g2NQKJxglyqCRV9LqtdvQZPONNGdaH+2dl+Ufu8eTr0DW7iHct+dNUv0GcHBcyZ3T6ykVQNmnNkuR0T9i/KVPrZNCySMXGGD5xCevYruXK9YOc9Yd5BGOydntGwx0eOQJjpoFS2a0+tCYoC9xInH2Ehv6sGUZ7rhHpdfWY+dGftNwHerpXka8MJ9we1BrLXwQRvlFOY6iazyoHz4wriY3ZU75oSV81TtinzA8179VxR/Bm1JRnzqy+B8YbDL0mEDLibWRhipR2FamzK9yO7RSMx8Qo4933ZSZkEM06/qq3YWuk20DPyfCJoGf7iLjCTftM4g0I0sZ1eboY16t91VJIgj1klMK66y2aOvN3Dv9GDmtPfD9BagD5kX4VQAhJ7ibUJgW4JMjAso+4epBW0h+nemyAMfmFZFkxlTMzPmUNSXzkrtk1FHOh33w6syeg+1OnKjwSMKniayWQgQGjTRmUckqGx1tMMAM5Q==;8p77w2QAyWnqyUJ2ECBUzg=="

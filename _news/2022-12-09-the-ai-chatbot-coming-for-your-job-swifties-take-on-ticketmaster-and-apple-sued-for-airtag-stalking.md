@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-08T20:10:00Z
 originalUrl: "https://edition.cnn.com/videos/business/2022/12/08/nightcap-ticketmaster-airtag-stalking-full-orig-nb.cnn"
 webUrl: "https://edition.cnn.com/videos/business/2022/12/08/nightcap-ticketmaster-airtag-stalking-full-orig-nb.cnn"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: CNN

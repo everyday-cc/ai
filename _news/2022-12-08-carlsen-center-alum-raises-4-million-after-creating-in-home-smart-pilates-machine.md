@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-08T15:17:00Z
 originalUrl: "https://www.bizjournals.com/sacramento/inno/stories/partner-content/2022/12/08/carlsen-center-alum-creates-home-pilates-machine.html"
 webUrl: "https://www.bizjournals.com/sacramento/inno/stories/partner-content/2022/12/08/carlsen-center-alum-creates-home-pilates-machine.html"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: The Business Journals

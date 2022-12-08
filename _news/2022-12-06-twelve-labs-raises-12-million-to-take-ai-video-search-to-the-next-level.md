@@ -32,6 +32,15 @@ related:
         width: 1300
         height: 700
         isCached: true
+  - title: "Cardiosense, Inc., Completes $15.1 Million Series A Financing to Advance Artificial Intelligence Platform for Heart Disease"
+    excerpt: "Cardiosense, Inc., a Chicago-based digital health company leveraging artificial intelligence and multi-sensor devices to enable early detection of cardiovascular disease, announced today that it has raised $15."
+    publishedDateTime: 2022-12-08T19:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cardiosense-inc-completes-15-1-million-series-a-financing-to-advance-artificial-intelligence-platform-for-heart-disease-1031961374"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 23
   - title: "Here's the exclusive 14-slide pitch deck that Veriti used to raise a $12 million Series A for its AI-cybersecurity platform"
     excerpt: "See the pitch deck that Veriti used to raise its $12 million Series A round. Cybersecurity is getting expensive, with consulting firm Gartner projecting some $169 billion in global spending this year, a more than 14 percent increase since 2021."
     publishedDateTime: 2022-12-06T14:00:00Z
