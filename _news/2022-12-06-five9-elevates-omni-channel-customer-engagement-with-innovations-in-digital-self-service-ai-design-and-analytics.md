@@ -50,6 +50,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 28
+  - title: "xyzt.ai and Xouba partner to bring time to mobility analytics down from weeks to minutes"
+    excerpt: "Xouba, an innovative Spanish road safety and mobility analytics company, to help government agencies gain insights into the main road safety issues through an efficient no-code/low-code data analysis workflow."
+    publishedDateTime: 2022-12-08T12:56:00Z
+    webUrl: "https://www.directionsmag.com/pressrelease/11977"
+    type: article
+    provider:
+      name: Directions Magazine
+      domain: directionsmag.com
+    quality: 28
+    images:
+      - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2022/December/8/7/a6ece00c-90b9-42bb-9986-79f01f6d38da-sized"
+        width: 800
+        height: 487
+        isCached: true
   - title: "dotData Feature Factory Technology Adds Feature Discovery Capabilities to Azure Synapse Analytics"
     excerpt: "SAN MATEO, Calif., December 6, 2022 – dotData announced that its Feature Factory technology is now integrated with and available on Microsoft’s Azure Synapse Analytics, an integrated, cloud-native platform for data analytics."
     publishedDateTime: 2022-12-06T15:00:00Z

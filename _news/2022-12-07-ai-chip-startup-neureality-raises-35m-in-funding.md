@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI Startup Neureality Raises $35 Mn to Develop AI Inference Chip"
+    excerpt: "Israeli AI startup Neureality, known for designing AI-as-a-service infrastructure, raises $35 million in Series A funding. The new investment brings their total funding to $48 million. Prominent names like Cardumen Capital, Samsung Ventures, Varana Capital, OurCrowd and XT Hitech led the round."
+    publishedDateTime: 2022-12-08T11:38:00Z
+    webUrl: "https://analyticsindiamag.com/ai-startup-neureality-raises-35-mn-to-develop-ai-inference-chip/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/Untitled-design-17.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
   - title: "Israeli AI Startup NeuReality Raises $35M Series A"
     excerpt: "NeuReality, an AI hardware startup specializing in AI inferencing platforms, announced a $35M Series A funding round led by Samsung Ventures, Cardumen Capital, Varana Capital, OurCrowd and XT Hitech."
     publishedDateTime: 2022-12-06T12:00:00Z

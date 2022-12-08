@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Does ChatGPT Mean Robots Are Coming For the Skilled Jobs?"
+    excerpt: "Will robots take away our jobs? People have been asking that question for an astonishingly long time. The Regency-era British economist David Ricardo added to the third edition of his classic “Principles of Political Economy,"
+    publishedDateTime: 2022-12-06T20:25:00Z
+    webUrl: "https://www.nytimes.com/2022/12/06/opinion/chatgpt-ai-skilled-jobs-automation.html"
+    ampWebUrl: "https://www.nytimes.com/2022/12/06/opinion/chatgpt-ai-skilled-jobs-automation.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/06/opinion/chatgpt-ai-skilled-jobs-automation.amp.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 89
+    images:
+      - url: "https://static01.nyt.com/images/2022/12/06/opinion/06krugman-newsletter-image/06krugman-newsletter-image-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "The hidden danger of ChatGPT and generative AI | The AI Beat"
     excerpt: "ChatGPT quickly spits out eloquent, confident responses that sound plausible but are false. Unfortunately, users might not know or care."
     publishedDateTime: 2022-12-05T17:39:00Z
@@ -106,6 +122,20 @@ related:
     quality: 67
     images:
       - url: "https://images.wsj.net/im-679549/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "ChatGPT and Lensa: Why Everyone Is Playing With Artificial Intelligence"
+    excerpt: "Two internet sensations give non-nerds a turn with powerful software, yielding surprising wit and stunning avatars."
+    publishedDateTime: 2022-12-08T01:09:00Z
+    webUrl: "https://www.wsj.com/articles/everyone-in-your-feed-is-talking-about-chatgpt-and-lensa-and-heres-why-11670356499?mod=latest_headlines"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-680021/social"
         width: 1280
         height: 640
         isCached: true
@@ -186,6 +216,22 @@ related:
       - url: "https://th-i.thgim.com/public/incoming/5jpiou/article66232021.ece/alternates/FREE_1200/iStock-1206801125.jpg"
         width: 1200
         height: 608
+        isCached: true
+  - title: "AI chatbot ChatGPT provides the internet with new meme machine"
+    excerpt: "Artificial intelligence (AI) chatbot ChatGPT has gone viral online, with the bot able to write entire songs, essays and poems on demand."
+    publishedDateTime: 2022-12-08T00:00:00Z
+    webUrl: "https://thenewdaily.com.au/life/tech/2022/12/08/chatgpt-artificial-intelligence/"
+    ampWebUrl: "https://thenewdaily.com.au/life/tech/2022/12/08/chatgpt-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/life/tech/2022/12/08/chatgpt-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: thenewdaily
+      domain: thenewdaily.com.au
+    quality: 59
+    images:
+      - url: "https://thenewdaily.com.au/wp-content/uploads/2022/12/1670477681-GettyImages-1258096414.jpg?resize=960,600"
+        width: 960
+        height: 600
         isCached: true
   - title: "Explainer | Everything you need to know about AI bot ChatGPT"
     excerpt: "The AI bot known as ChatGPT has taken the internet by storm but what exactly is it, and how does it work? ChatGPT is a conversational dialogue model, trained by AI and machine learning to understand and respond to natural human language."

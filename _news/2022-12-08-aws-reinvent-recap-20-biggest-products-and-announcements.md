@@ -1,22 +1,29 @@
 ---
 category: news
-title: "AWS re:Invent Recap: 20 Biggest Products And Announcements"
-excerpt: "Invent 2022 new products, partnerships and big news announcements focus on AI, security, data, IBM, Red Hat, Accenture, AWS Marketplace and cloud innovation."
-publishedDateTime: 2022-12-07T19:13:00Z
-originalUrl: "https://www.crn.com/news/cloud/aws-re-invent-recap-20-biggest-products-and-announcements"
-webUrl: "https://www.crn.com/news/cloud/aws-re-invent-recap-20-biggest-products-and-announcements"
+title: "AWS re:Invent recap: 20 biggest products and announcements"
+excerpt: "I’m happy to welcome over 50,000 customers and partners here in Las Vegas and over 300,000 attendees virtually around the world,” said Amazon Web Services CEO Adam Selipsky to open up his keynote speech at AWS re:Invent 2022."
+publishedDateTime: 2022-12-08T10:49:00Z
+originalUrl: "https://www.crn.com.au/news/aws-reinvent-recap-20-biggest-products-and-announcements-588921"
+webUrl: "https://www.crn.com.au/news/aws-reinvent-recap-20-biggest-products-and-announcements-588921"
 type: article
-quality: 19
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: CRN
-  domain: crn.com
+  name: CRN Australia
+  domain: crn.com.au
 
 topics:
-  - AWS AI
+  - IBM AI
   - AI
+  - AWS AI
+
+images:
+  - url: "https://i.nextmedia.com.au/News/20221208100106_aws-simspace-weaver.jpg"
+    width: 610
+    height: 457
+    isCached: true
 
 related:
   - title: "AWS re:Invent 2022 round-up: Data management, AI, compute take centre stage"
@@ -48,6 +55,6 @@ related:
         height: 3672
         isCached: true
 
-secured: "dYlRyS0qxTpaNgadySFU8LXlf3OhtJiyxHN8NQSlEKwNZ7DWhkGuC46+KoLkICqkEs3P1RpEvZAU+1VEXkDg/Xkz6v8585SilgJWYc6RUD59GuKJrsYAnDiz+l2MhPxhL+IGbtCs2lbyP3+QcuD02w4jhAs0M4XEI0lGfNh8W33zqzo5xa1d37mD0RbufFkxvUE1cwFNpu9shGo16RspW2ir6qtGLycvhhoHe39hmfHwHV57dL3pCh/V5YkN+GoMNJ/tOxRhsXGRQBLTQcnx4Sb6KOloXfps/Jk+EmWFe+eSXBC2dFkEmRASFe7l3uO7SmU31neRXkslgG7Yvxwj0z0+AodAXE00hYZPtcoH9KAjBpr7c0WzIXL1Tzgy5DPSyksYgYXrOhydW5b85wm7T7oM9gNjyaUNJ6abnW9t4QtWETcPEIydgpyNqnzhGxvPto92qVpabdnitZA+U++pBANg5G95XvR7ZQmBpdWzHxKLhZcIu+RFx/BCLTvTpz6N4dJkSaYYdFUS0zuFAXos2Q==;DavWGIG+cSJaHKA36JMZbQ=="
+secured: "vn7aZem0psmJbUly2/GWK8yvtct6+vIyn2CNg5K5PCCRp1BkiEI6XskbHLJLFDZutBrgIuf+dygm27xk3CPIy1FB12g4I51Q6jKkSMEgEmh/y2jKj+NLH/OkhpIwwetiv7dQFox0Q00R2AyuILQLo0rrmx7UsZ5pQOwPKpvUASElYsLAiAmZj2dnOlkl8XBJHRmEbIhZu/Rgm8WM1R1dlZ2rl9jvFScUtElq+uoE+V9JB9c+DwutQmJNPrjP+PUIUlYUo+grg2jzrFteYCL3EIZghcrg3hztwu1+FabIMzF2xUR/+FvkHOlSlklwINteEzob6PbF5xI0lJ+atHGGJWHhCVaFzXf1ee2C9lhYy+M=;F6A/5lvUrELdcvkAkrFaBg=="
 ---
 

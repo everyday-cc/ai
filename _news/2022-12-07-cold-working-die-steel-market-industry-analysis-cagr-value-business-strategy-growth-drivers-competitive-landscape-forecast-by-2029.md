@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Medicine Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028"
-    excerpt: "Artificial intelligence (AI) is a branch of computer science that deals with the design of intelligent agents,"
-    publishedDateTime: 2022-12-05T06:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-12-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Vision Screeners Market Size [2023-2028] | Industry Share, Growth Factor, Revenue And Trends Outlook Report"
     excerpt: "By Types (Vision Screening TestTesting, Color Vision Testing, Binocular Testing, Others), By Segmentation analysis, Regions and Forecast to 2028. The Global Vision Screeners market Report provides In-depth analysis on the market status of the Vision Screeners Top manufacturers with best facts and figures,"
     publishedDateTime: 2022-12-06T00:40:00Z

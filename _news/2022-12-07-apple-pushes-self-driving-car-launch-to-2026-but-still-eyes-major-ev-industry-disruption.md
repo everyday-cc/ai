@@ -142,6 +142,15 @@ related:
       name: New Scientist
       domain: newscientist.com
     quality: 4
+  - title: "Uber and Motional launch self-driving rides in Las Vegas, with plans to expand to Los Angeles"
+    excerpt: "Initially, the companies aren’t charging for the autonomous rides, though they plan to charge for the driverless commercial launch later on."
+    publishedDateTime: 2022-12-07T06:00:00Z
+    webUrl: "https://www.fastcompany.com/90820656/uber-and-motional-launch-self-driving-rides-in-las-vegas-with-plans-to-expand-to-los-angeles"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 0
 
 secured: "EjwiEad7XJ3yFRCGdJUWiaiLYnU3x/0gDByhNBXN+FeB1FyPJEcGsbQnyBBYRahFcI+l3bE265Fld1F09F1j0GaBP+d7Ps5e/yI5lahV/nD1PbvmG4nC0z9dV2D8SgT0gEJgpPTiCzjhyCveWUrfJbhJxYi+UQFEHP+7vcrBhes4O/Jxy/MSlaQOvfzHO1Zw7og3a7DP8wuZGLcIheqhFLrXr8Md3+RyRwi1sBsgFX6TSZ9zh2g2qGqRnmtXmhlE4jCIgjyPZtX0vIz/gTu2GnoElP1U1VCQlp3bXkNAQA+U2IV5R9dCjFwtO+CIAPNcTrdbRMWQ7xcDaA6gfog8o8+5K+R4829245OxCf4eKaE=;Qc9LrRX1HuwrttbAV6WtBw=="
 ---

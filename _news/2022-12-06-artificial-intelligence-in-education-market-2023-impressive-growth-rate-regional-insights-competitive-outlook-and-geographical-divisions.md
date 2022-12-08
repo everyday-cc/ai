@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Retail Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028"
-    excerpt: "Retail is a $3.2 trillion global industry and artificial intelligence (AI) is quickly becoming an important part"
-    publishedDateTime: 2022-12-06T11:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-12-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence & Advanced Machine Learning Market 2023 Industry Size, Trends, Growth, Insights and Forecast Research Report 2028"
     excerpt: "The global Artificial Intelligence and Advanced Machine Learning Market size, revenue, distinct categories, drivers"
     publishedDateTime: 2022-12-06T07:18:00Z
@@ -80,20 +66,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice And Speech Recognition Software Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028"
-    excerpt: "The market research study demonstrates the varied and extensive character of the \" Voice And Speech Recognition Software market \" and how the market will develop over the ensuing years. The report emphasizes information obtained 2022 to 2028 regarding the Voice And Speech Recognition Software market."
-    publishedDateTime: 2022-12-06T20:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-12-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/12/06/neureality-ai-accelerator-chips-st
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/06/neureality-ai-accelerator-chips-startup-raises-35m/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Startup Neureality Raises $35 Mn to Develop AI Inference Chip"
+    excerpt: "Israeli AI startup Neureality, known for designing AI-as-a-service infrastructure, raises $35 million in Series A funding. The new investment brings their total funding to $48 million. Prominent names like Cardumen Capital, Samsung Ventures, Varana Capital, OurCrowd and XT Hitech led the round."
+    publishedDateTime: 2022-12-08T11:38:00Z
+    webUrl: "https://analyticsindiamag.com/ai-startup-neureality-raises-35-mn-to-develop-ai-inference-chip/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/Untitled-design-17.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
   - title: "AI chip startup NeuReality raises $35M in funding"
     excerpt: "Startup NeuReality Ltd. today announced that it has raised $35 million in funding to commercialize its NR1 chip, which is designed to speed up artificial intelligence applications. The Series A funding round was led by Samsung Ventures,"
     publishedDateTime: 2022-12-06T22:25:00Z

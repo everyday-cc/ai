@@ -1,46 +1,24 @@
 ---
 category: news
 title: "Drone Express Partners with Microsoft to Develop Artificial Intelligence (AI) Delivery Drones"
-excerpt: "Drone Express, an innovative last-mile logistics company, has partnered with Microsoft to launch a new version of their DE-2020 drone using Artificial Intelligence (AI) for"
-publishedDateTime: 2022-12-07T17:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/12/n29996460/drone-express-partners-with-microsoft-to-develop-artificial-intelligence-ai-delivery-drones"
-webUrl: "https://www.benzinga.com/pressreleases/22/12/n29996460/drone-express-partners-with-microsoft-to-develop-artificial-intelligence-ai-delivery-drones"
-ampWebUrl: "https://www.benzinga.com/amp/content/29996460"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29996460"
+excerpt: "Drone Express, an innovative last-mile logistics company, has partnered with Microsoft to launch a new version of their DE-2020 drone using Artificial Intelligence (AI) for in-flight navigation systems."
+publishedDateTime: 2022-12-07T19:56:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-drone-express-partners-with-microsoft-develop-artificial-intelligence-/2022/12/07/9726476.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-drone-express-partners-with-microsoft-develop-artificial-intelligence-/2022/12/07/9726476.htm"
 type: article
-quality: 78
-heat: 98
-published: true
+quality: 38
+heat: -1
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI
   - Microsoft AI
-
-images:
-  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
-    width: 800
-    height: 313
-    isCached: true
+  - AI
 
 related:
-  - title: "Snowflake becomes available in UK on Microsoft Azure"
-    excerpt: "UK organisations using Snowflake services will maintain data residency while embracing the potential of the data cloud thanks to availability on Microsoft Azure."
-    publishedDateTime: 2022-12-06T10:46:00Z
-    webUrl: "https://www.cloudcomputing-news.net/news/2022/dec/06/snowflake-becomes-available-in-uk-on-microsoft-azure/"
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 69
-    images:
-      - url: "https://www.cloudcomputing-news.net/wp-content/uploads/sites/2/2020/03/real-snowflakes-closeup-picture-id1183438449.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Nexus FrontierTech launches first-of-its-kind plug-and-play AI modules on Microsoft Azure"
     excerpt: "Artificial Intelligence (AI) solution provider Nexus FrontierTech has announced its partnership with Microsoft Azure, allowing clients to utilise the Azure marketplace for quick deployment of AI solutions within their organisations."
     publishedDateTime: 2022-12-05T12:54:00Z
@@ -51,6 +29,6 @@ related:
       domain: tmcnet.com
     quality: 40
 
-secured: "UR2097SP15iYmMgQ8hmrHioZqvDNGxr+DrxYMa/ccT8aNmWKc4CLXWVWeAApJcgX64DCuDlPa2GshQx8pqHsqYsTCm4kOoAEIJjV2stinnkr8pgvRsH5uYbQSirUT9hMFkwSzSyq1T3zHEzmV9BD9EzoGLK0n9p1BT9/aCdivB0iuqt56s7lKmyaBnfs2KEbvYu4CGWRjC2ExfIVIeZTQZQw0m3+6ew1+EFEahtIHomvkcsJlrx/qVICjwRm26BPf4MA9/Df2IInfWZ4x8itChbCiPjfB0YYx3FCxq+wrmtKwzIyhlYW8wHe7GfQZOR5iQNDR2UApiMvIZVEtD4wrhCQJp6OI3VpX+JQtssStvc=;pAbFpqrTqHMdGj9KAsq88g=="
+secured: "0ZinAWBFDnEHJ3Z+uxAwM1oTeEV/j6zAFnkw1JovdECInAj9e0ljGBgPqLHvEHiUODNVf5IlS28z4Heg9doJu2PP731XJNRqHQKfQTdpOuMgOChrNgCtiWXatilyLb02nxBbGiF9tBaN3Ik5FkTBblxNdVkxwKvsby/AJwyf6GK3nDFC2cy9qonzl0hDAgzUJoVibW96D/J1tiFN5prDdkImRLUKQpUGZwEsjHQB4H7wvps+GFEi/Db3GFPf1Qujagy5HR42oXcSy/wepbTJ8MD2OJ0U5Eg5mGJZfB/nXUHNnHGicbeoJa1b2SF4Y9IDUK9IGwDVBjffVTgTJBBlgoF3IpbU19u1uFOYOYE4Yg4=;KSfm3vGkfZmJmvDkhQTFnQ=="
 ---
 

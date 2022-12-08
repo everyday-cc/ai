@@ -39,15 +39,20 @@ related:
         width: 504
         height: 315
         isCached: true
-  - title: "AWS re:Invent Recap: 20 Biggest Products And Announcements"
-    excerpt: "Invent 2022 new products, partnerships and big news announcements focus on AI, security, data, IBM, Red Hat, Accenture, AWS Marketplace and cloud innovation."
-    publishedDateTime: 2022-12-07T19:13:00Z
-    webUrl: "https://www.crn.com/news/cloud/aws-re-invent-recap-20-biggest-products-and-announcements"
+  - title: "AWS re:Invent recap: 20 biggest products and announcements"
+    excerpt: "I’m happy to welcome over 50,000 customers and partners here in Las Vegas and over 300,000 attendees virtually around the world,” said Amazon Web Services CEO Adam Selipsky to open up his keynote speech at AWS re:Invent 2022."
+    publishedDateTime: 2022-12-08T10:49:00Z
+    webUrl: "https://www.crn.com.au/news/aws-reinvent-recap-20-biggest-products-and-announcements-588921"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 19
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 41
+    images:
+      - url: "https://i.nextmedia.com.au/News/20221208100106_aws-simspace-weaver.jpg"
+        width: 610
+        height: 457
+        isCached: true
 
 secured: "mZkaXB+jUsV201jYJyjkmP1mAlumJ8YNbRZ1bIRRYR7D5OATK46h6m1WfDiA8jRj5uVC51fJnKXqqM014DWaA9P5l5Eo3GlQCIDGR4Rl7olkpN910zaN1z6N2hiakuRajD/rgq1IM+JY63yA1JFZago/SG7C9n0mWWhEGCLOy7EydDGWLWYgCzLdqEVSs09ymENKK71DiwQNbORRqktLlSX9LSsUxerEcBmaRNrlm9QJ7IsSaT5fqBNrtStWRnTL38ExSZzwq85q1UwRWDQzi0X7WJBH77/1OMX6WAJL3gR4kfGUKYt636DCJuMLwmgfvob3TDm23jX2rUipoZNHFdTMnBYW12p9dl2bJoXSGtXRn/SSmwuRKFJuwr86IFkJ1FoEuc9TzFUNtS8tUrFCTLS5CmUpWRodHQ3iDgDNFk36pQcYcVCY+n5+yZ4gdGrHRHcEu2uIdJLGcJGEuieDSwgRM6syTP7QOBYXCA+bYlIBaco29rmit6lMqoOEqoT1SSLUfqbi1W3RA0oE54Akrw==;PClfwf2/D85EamgOiVEZcg=="
 ---

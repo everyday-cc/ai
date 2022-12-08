@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/12/07/tech/uber-motional-self-driving-v
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/12/07/tech/uber-motional-self-driving-vegas/index.html"
 type: article
 quality: 74
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -146,6 +146,15 @@ related:
     provider:
       name: Seeking Alpha
       domain: seekingalpha.com
+    quality: 0
+  - title: "Uber and Motional launch self-driving rides in Las Vegas, with plans to expand to Los Angeles"
+    excerpt: "Initially, the companies aren’t charging for the autonomous rides, though they plan to charge for the driverless commercial launch later on."
+    publishedDateTime: 2022-12-07T06:00:00Z
+    webUrl: "https://www.fastcompany.com/90820656/uber-and-motional-launch-self-driving-rides-in-las-vegas-with-plans-to-expand-to-los-angeles"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
     quality: 0
 
 secured: "E6sWtZp0pnvU/dhawBZ6mSRdFpruhKquYc6CsWSCUYuta3fQ/0E08QvYFoZ7kAdByrP6iCcoPbUtKWC1rmc3VRviNLDlQX4oB/FDVy3oQV3XYH3JBPYoA2L4sR6m2q1ReuC7QRlb3HC9d4dz9HzImDujPiBYP/VDpKpgsNPbmXcEAuAfFi1EOc5KrOJ/P5iA8MjVxs9FcX93tEthNYCagra7Uz2mhuRNHt/J+Moc1MbZnu8eZE7ku3ZeFkO/xgsL9PXuD1s6f1Rnhkv/IjOMp45/+NNW1mc6rtvxdVwzkC0u+0rcM5jFPlN0wpiaI2hq1uVczcMU6dvXwfplmPkc5qgeCeb8fxUuhNF/x2q1l0Q=;/8q6s8FJN1ordtvVVSgu4Q=="

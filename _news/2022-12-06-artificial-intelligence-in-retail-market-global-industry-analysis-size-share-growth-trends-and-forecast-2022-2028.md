@@ -28,57 +28,43 @@ images:
     isCached: true
 
 related:
-  - title: "Self Driving Wheelchair Market 2022 - Regional Overview, Substantial Demand, Vendor Landscape and Trends by 2028"
-    excerpt: "MarketsandResearch.biz contributes an entire investigation of the presented sector's current situation & significant drivers in its insightful report Global Self Driving Wheelchair Market Outlook 2022-2028."
-    publishedDateTime: 2022-12-08T02:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-2022---regional-overview-substantial-demand-vendor-landscape-and-trends-by-2028-2022-12-07"
+  - title: "Global Natural Language Processing (NLP) Market Share, Size and Forecast till 2028"
+    excerpt: "Dec 07, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Natural Language Processing (NLP)"
+    publishedDateTime: 2022-12-07T05:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-share-size-and-forecast-till-2028-2022-12-07"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
+    quality: 78
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence & Advanced Machine Learning Market 2023 Industry Size, Trends, Growth, Insights and Forecast Research Report 2028"
-    excerpt: "The global Artificial Intelligence and Advanced Machine Learning Market size, revenue, distinct categories, drivers"
-    publishedDateTime: 2022-12-06T07:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-2023-industry-size-trends-growth-insights-and-forecast-research-report-2028-2022-12-06"
+  - title: "Machine Learning as a Service (MLaaS) Market 2023 : Research Report Analysis Size Share Growth Research Report by Regional and Forecast to 2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Machine Learning"
+    publishedDateTime: 2022-12-05T09:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2023-research-report-analysis-size-share-growth-research-report-by-regional-and-forecast-to-2028-2022-12-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Education Market 2023 : Impressive Growth Rate, Regional Insights, Competitive Outlook, and Geographical Divisions 2028"
-    excerpt: "\" Artificial Intelligence in Education Market \" Insights 2022 - By Applications (Teaching Application, Evaluation Application, Management Application, Others), By Types (, Convenient for Educational Affairs,"
-    publishedDateTime: 2022-12-06T00:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2023-impressive-growth-rate-regional-insights-competitive-outlook-and-geographical-divisions-2028-2022-12-05"
+  - title: "Global AI In Computer Vision Market Size and Market Scenario 2022 by Development Potential, Applications, Geographical Regions and Forecast to 2028"
+    excerpt: "Dec 06, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global “AI In Computer Vision"
+    publishedDateTime: 2022-12-06T07:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-size-and-market-scenario-2022-by-development-potential-applications-geographical-regions-and-forecast-to-2028-2022-12-06"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-Propelled Belt Loader Market 2022 Driving Factor Analysis with Trend and Forecast to 2028"
-    excerpt: "Further, the SWOT analysis & other techniques are utilized to investigate this data & provide an informed perspective on the state of the business to assist design the best growth strategy for any vendors or to current penetration into the present & and likely direction of the global Self-Propelled Belt Loader market."
-    publishedDateTime: 2022-12-08T01:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-propelled-belt-loader-market-2022-driving-factor-analysis-with-trend-and-forecast-to-2028-2022-12-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -98,10 +84,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Emotion Recognition and Sentiment Analysis Industry 2023 Market Size, Share, Growth, Sales and Drivers Analysis Research Report 2028"
-    excerpt: "The Global Emotion Recognition and Sentiment Analysis Market 2023 report is a thorough assessment of the worldwide"
-    publishedDateTime: 2022-12-05T08:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/emotion-recognition-and-sentiment-analysis-industry-2023-market-size-share-growth-sales-and-drivers-analysis-research-report-2028-2022-12-05"
+  - title: "Artificial Intelligence in Medicine Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028"
+    excerpt: "Artificial intelligence (AI) is a branch of computer science that deals with the design of intelligent agents,"
+    publishedDateTime: 2022-12-05T06:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-12-05"
     type: article
     provider:
       name: MarketWatch
@@ -112,10 +98,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Neural Network Market research report gives the information on Industry Analysis database on this Market for period 2022 - 2028"
-    excerpt: "The \" Neural Network Market \" research examines seasonal trends and market shifts. The goal of this research is to provide you with a detailed, thoughtful record so you can profit from the market's evolving possibilities throughout time from 2022 to 2028."
-    publishedDateTime: 2022-12-08T02:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-neural-network-market-research-report-gives-the-information-on-industry-analysis-database-on-this-market-for-period-2022---2028-2022-12-07"
+  - title: "Cloud AI Developer Services Market 2022 : Recent Developments, Industry Trends and Investigation Growth Rate, and Forecast to 2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Cloud AI"
+    publishedDateTime: 2022-12-06T01:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-ai-developer-services-market-2022-recent-developments-industry-trends-and-investigation-growth-rate-and-forecast-to-2028-2022-12-05"
     type: article
     provider:
       name: MarketWatch
@@ -126,15 +112,34 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Digital Transformation Markets Report 2022: Social Media, AI, Digital Payments, IoT Driving a Staggering $2000+ Billion Industry by 2027"
-    excerpt: "Telemedicine, AI-driven medical devices and patient care robots, and electronic health records are some ... to special purpose acquisition companies (SPACs) and start-ups operating worldwide. Some of the strategies among key players in the market for ..."
-    publishedDateTime: 2022-12-07T13:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/12/g29990671/global-digital-transformation-markets-report-2022-social-media-ai-digital-payments-iot-driving-a-s"
+  - title: "Artificial Intelligence Software Market Size 2023 Report Examines Latest Trends and Key Drivers Supporting Regional Outlook 2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \" Artificial Intelligence Software Market \" Insights 2022 - By Applications (Voice Processing, Text Processing,"
+    publishedDateTime: 2022-12-06T00:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-size-2023-report-examines-latest-trends-and-key-drivers-supporting-regional-outlook-2028-2022-12-05"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Computer Networks Market Growth of Leading Players 2023: Future Trends, Regional Demand and Global Share Forecast to 2029"
+    excerpt: "Dec 07, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Artificial Intelligence in"
+    publishedDateTime: 2022-12-07T06:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-growth-of-leading-players-2023-future-trends-regional-demand-and-global-share-forecast-to-2029-2022-12-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "eQVEKUvDGObJkdhlBLifI12lGBG0He8EiqfDYvBb8A8Ob8Qt1Gh2Nt8L9LtjeiX4uPaaxbVuCTXU+NPDjAFJyIIhaLRYShNN2RPXvIe9esy+HowfxsCcCsi5lDG7KLAuitQHTyXtZoUeKfOcC7XEqyQL4Q2LP+BQiJQlueQjIh6fqyTHN2JuIqen7RapHJHnPa28cab6Jr5gc6EG+0N94fUrqFLvi4ITnff1TGiYMe97gSK4orRY2svba4EH3gY6nJU2YU4mutzEKjSUAk6rIC3Kbhu5V/xm7C0cAUAvMySSBljLPhiAY+AlLSx/lqhBLr2GF69x0gNYwC67JtQ4Wk6LfuL/zq+a0f3ELBDFSxs=;3t6YdTi0/kseM69tB7yy+g=="
 ---

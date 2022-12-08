@@ -143,6 +143,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 0
+  - title: "Uber and Motional launch self-driving rides in Las Vegas, with plans to expand to Los Angeles"
+    excerpt: "Initially, the companies aren’t charging for the autonomous rides, though they plan to charge for the driverless commercial launch later on."
+    publishedDateTime: 2022-12-07T06:00:00Z
+    webUrl: "https://www.fastcompany.com/90820656/uber-and-motional-launch-self-driving-rides-in-las-vegas-with-plans-to-expand-to-los-angeles"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 0
 
 secured: "rhjiE2IWTcVGK2LXuoXCc5SiCtCk+euYk4UM4Rmxk7+IZMt+oJs0Fhwxubmr8KeQgKPBAFlbnrJefMEbKZzk9itJ6eqdJ8UdZ/Pko/IIRRX7TPZyNeuO/ALtgcbT2XF/VUgiRC3Oq+t11hvTOzsh3FoT9pYzkC1e+FFzNONObVd2rxZ7GjNrINjeDVGv0s7YDZtB7+y4e++olaMlj0LnGQDgtYxrjscfukzAJQkQs8kun7R33D7R+FOjTTNciiL1LS5xbPkPQE3AJ28+dxdUGmaaKCjYyoLe14WSQ3/vyqmQb7CsN8i2yReLPk/fnaOMjObVVbgTAxIomlHn/r8khstAd36RX2KhcBZyGE7l7ig=;lk+1dIWO9vTyZLtlOZBdcQ=="
 ---
