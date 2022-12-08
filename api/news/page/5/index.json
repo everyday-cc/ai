@@ -2,6 +2,145 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-12-02-san-francisco-police-defend-killer-robots-plan.md",
+      "title": "San Francisco police defend 'killer robots' plan",
+      "excerpt": "Police in San Francisco defended their potential use of killer robots on Thursday, insisting they would be a \"last resort\" and only for very dangerous situations. Detectives in the California city, where residents complain of a spike in crime,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602",
+      "originalUrl": "https://www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/12/02/killer_bots.png",
+          "width": 600,
+          "height": 314,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602?amp",
+      "cdnAmpWebUrl": "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602?amp",
+      "publishedDateTime": "2022-12-01T19:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tbsnews",
+        "domain": "tbsnews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-artificial-intelligence-machine-learning-will-strengthen-firms-it-security-report.md",
+      "title": "Artificial intelligence, machine learning will strengthen firms’ IT security: Report",
+      "excerpt": "The company has been receiving many enquiries about cyber security, said Shailesh Davey, Co-Founder and Vice President of Engineering at Zoho.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/business/2022/dec/02/artificial-intelligence-machine-learning-will-strengthen-firms-it-security-report-2524302.html",
+      "originalUrl": "https://www.newindianexpress.com/business/2022/dec/02/artificial-intelligence-machine-learning-will-strengthen-firms-it-security-report-2524302.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/9/9/w600X390/The_Risks_an.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/business/2022/dec/02/artificial-intelligence-machine-learning-will-strengthen-firms-it-security-report-2524302.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2022/dec/02/artificial-intelligence-machine-learning-will-strengthen-firms-it-security-report-2524302.amp",
+      "publishedDateTime": "2022-12-01T17:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-deepminds-new-ai-uses-game-theory-to-trounce-humans-in-stratego.md",
+      "title": "DeepMind's New AI Uses Game Theory to Trounce Humans in 'Stratego'",
+      "excerpt": "Researchers from Alphabet- owned DeepMind, according to new research shared with Gizmodo, say they’ve created a new AI agent capable of playing Stratego at a “human expert level.” The AI, called DeepNash,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/ai-deep-mind-stratego-1849842361",
+      "originalUrl": "https://gizmodo.com/ai-deep-mind-stratego-1849842361",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b66d609eecf6be0e3d7e555863111aac.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T17:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-02-stop-your-public-cloud-ai-projects-from-dripping-you-dry.md",
       "title": "Stop your public-cloud AI projects from dripping you dry",
       "excerpt": "The public cloud helped bring AI into the mainstream, but that doesn't mean every AI application should run there. Here's how to decide.",
@@ -1087,145 +1226,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-mercedes-bosch-open-worlds-first-self-driving-valet.md",
-      "title": "Mercedes, Bosch open world's first self-driving valet",
-      "excerpt": "Mercedes-Benz and Bosch will initially operate their automated valet in the parking garage of Stuttgart Airport.",
-      "sourceUrl": null,
-      "webUrl": "https://www.motorauthority.com/news/1124163_mercedes-bosch-open-world-s-first-self-driving-valet",
-      "originalUrl": "https://www.motorauthority.com/news/1124163_mercedes-bosch-open-world-s-first-self-driving-valet",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hgmsites.net/hug/mercedes-benz-and-bosch-automated-valet-parking-at-stuttgart-airport_100867370_h.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motor Authority",
-        "domain": "motorauthority.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-digiyatra-facial-recognition-system-launches-at-airports-how-this-will-change-security.md",
-      "title": "DigiYatra facial recognition system launches at airports: How this will change security",
-      "excerpt": "DigiYatra, the brainchild of the Ministry of Civil Aviation, allows airline passengers to be automatically processed based on a facial recognition system at several checkpoints including entry, security check and boarding aircraft.",
-      "sourceUrl": null,
-      "webUrl": "https://www.firstpost.com/explainers/explained-india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work-10842621.html",
-      "originalUrl": "https://www.firstpost.com/explainers/explained-india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work-10842621.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 233,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.firstpost.com/wp-content/uploads/2022/05/Bengaluru-Kempegowda-International-Airport.jpg",
-          "width": 640,
-          "height": 362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.firstpost.com/explainers/explained-india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work-10842621.html/amp",
-      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/explainers/explained-india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work-10842621.html/amp",
-      "publishedDateTime": "2022-12-01T02:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Firstpost",
-        "domain": "firstpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-natural-language-processing-market-to-witness-a-pronounce-growth-during-2023-2027.md",
-      "title": "Natural Language Processing Market to Witness A Pronounce Growth During 2023-2027",
-      "excerpt": "“Natural Language Processing market size was valued at USD 10873.69 million in 2021 and is expected to expand at a CAGR of 18.29% during the forecast period, reaching USD 29786.67 million by 2027.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-to-witness-a-pronounce-growth-during-2023-2027-2022-12-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-to-witness-a-pronounce-growth-during-2023-2027-2022-12-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T01:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

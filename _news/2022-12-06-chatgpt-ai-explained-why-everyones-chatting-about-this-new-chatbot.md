@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/chatgpt-ai-explained-why-everyo
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/chatgpt-ai-explained-why-everyones-chatting-about-this-new-chatbot/"
 type: article
 quality: 89
-heat: 359
+heat: 369
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/16953/production/_127899429_gettyimages-991619332.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Why Everyone's Obsessed With ChatGPT, a Mind-Blowing AI Chatbot"
+    excerpt: "This artificial intelligence bot is an impressive writer, but you should still be careful how much you trust its answers."
+    publishedDateTime: 2022-12-07T18:31:00Z
+    webUrl: "https://www.cnet.com/tech/computing/why-everyones-obsessed-with-chatgpt-a-mindblowing-ai-chatbot/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/why-everyones-obsessed-with-chatgpt-a-mindblowing-ai-chatbot/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/why-everyones-obsessed-with-chatgpt-a-mindblowing-ai-chatbot/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/084641681c8362c3ce0c3eb8a53365351adcaaac/hub/2022/12/06/3dd7180c-d0e7-47ca-bc37-b5df15a41a25/ai-chat-gettyimages.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
         isCached: true
   - title: "How AI That Powers Chatbots and Search Queries Could Discover New Drugs"
     excerpt: "Natural language processing algorithms like the ones used in Google searches and OpenAI’s ChatGPT promise to slash the time required to bring medications to market"

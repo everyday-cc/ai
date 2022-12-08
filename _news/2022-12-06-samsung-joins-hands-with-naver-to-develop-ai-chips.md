@@ -9,7 +9,7 @@ ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20221206000445"
 cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20221206000445"
 type: article
 quality: 76
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -105,6 +105,20 @@ related:
       - url: "https://fudzilla.com/media/k2/items/cache/73f3fd2924b1fb3eb173de96705dad7c_L.jpg"
         width: 620
         height: 465
+        isCached: true
+  - title: "Samsung, Naver join forces to develop chip solutions for AI"
+    excerpt: "Samsung Electronics and Naver Corporation have teamed up to jointly develop semiconductors for artificial intelligence (AI) hyperscale computing. This will be an AI chip solution needed for large-scale"
+    publishedDateTime: 2022-12-08T06:49:00Z
+    webUrl: "https://www.econotimes.com/Samsung-Naver-join-forces-to-develop-chip-solutions-for-AI-1646870"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 54
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/2022120898b439e91b0e34057_th_1024x0.jpeg"
+        width: 1024
+        height: 657
         isCached: true
   - title: "NAVER and Samsung Electronics Join Hands to Develop Semiconductor Solutions for Hyperscale AI"
     excerpt: "NAVER Corporation (CEO Choi Soo -yeon) and Samsung Electronics (CEO Jong-Hee Han, Kye Hyun Kyung) have signed an MOU for collaboration on developing semiconductor solutions for AI, and formed a working-level task force."

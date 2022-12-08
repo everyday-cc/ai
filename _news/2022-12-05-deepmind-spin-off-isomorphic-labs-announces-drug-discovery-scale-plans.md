@@ -41,15 +41,6 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "DeepMind spin-off steps up effort to use AI to create new drugs"
-    excerpt: "We use cookies and other data for a number of reasons, such as keeping FT Sites reliable and secure,         personalising content and ads, providing social media features and to         analyse how our Sites are used."
-    publishedDateTime: 2022-12-03T15:00:00Z
-    webUrl: "https://www.ft.com/content/92ea2434-8d91-49e3-807d-3e425689e749"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
   - title: "Google Teaches AI to Play Stratego and It Becomes One of the World's Top-Rated Players"
     excerpt: "DeepMind's latest artificial intelligence called DeepNash has beaten a human player at a game of Stratego, a strategic war game."
     publishedDateTime: 2022-12-04T18:25:00Z

@@ -26,17 +26,6 @@ images:
     height: 422
     isCached: true
 
-related:
-  - title: "India's Supreme Court to consider recognition of same-sex marriage"
-    excerpt: "India’s Supreme Court is to consider recognising same-sex marriage under the Special Marriage Act (SMA) which still contains reservations on the issue."
-    publishedDateTime: 2022-12-03T13:36:00Z
-    webUrl: "https://www.rfi.fr/en/international/20221203-india-s-supreme-court-to-consider-recognition-of-same-sex-marriage"
-    type: article
-    provider:
-      name: Radio France Internationale
-      domain: www.rfi.fr
-    quality: 4
-
 secured: "Wg4MU6LHGdEHJxsiS87i7IvGdDPkrWpdaMIuEbEUzGSO6baCLy9EwDhUEyndSGbKyBQA2NMMGjaKMDHyxxaD6NVD+VYVDneI/Y6XVcB2xIxT7gGNz7mYvQZwk3bYqeqxBmmaXoVYaOKNHFN06U606iFZH4Aj+XRwp6Q8Qfzty2PBqTkhNLPJMnn/MzT+RNynmDYKFr1TVMVuJsBTQccGehgu5CsLZ2I33xorXcCOAiDkmMwX9ob9tp4+JhK0whVyXXERn86FKsSso4lDSeJkH5ikLcYFjaJbBK7fxCy2fDkpfj3X3Tunb/bfBKnvN9+llRA2tMF4tpp+UyAcyBC+zYq4BLMKHa6cei4TfCgQnzg=;sQTsALr8k69SgSfUdTh2Xg=="
 ---
 

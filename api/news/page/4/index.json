@@ -2,6 +2,162 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-12-03-at-neurips-2022-generative-ai-and-llms-are-hot-topics.md",
+      "title": "At NeurIPS 2022, generative AI and LLMs are hot topics",
+      "excerpt": "At the first week of NeurIPS 2022, generative AI and LLMs were hot topics — along with a Geoffrey Hinton keynote in honor of ImageNet.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/at-neurips-2022-generative-ai-and-llms-are-hot-topics/",
+      "originalUrl": "https://venturebeat.com/ai/at-neurips-2022-generative-ai-and-llms-are-hot-topics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/12/Fir7IQiWIAAYtAI.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/at-neurips-2022-generative-ai-and-llms-are-hot-topics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/at-neurips-2022-generative-ai-and-llms-are-hot-topics/amp/",
+      "publishedDateTime": "2022-12-02T19:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-12-03-dataai-mobile-gaming-starts-to-wane-after-pandemic-spike.md",
+      "title": "Data.ai: Mobile gaming starts to wane after pandemic spike",
+      "excerpt": "Data.ai's latest report shows that mobile games are declining, but the numbers are still higher than they were pre-pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/data-ai-mobile-gaming-starts-to-wane-after-pandemic-spike/",
+      "originalUrl": "https://venturebeat.com/games/data-ai-mobile-gaming-starts-to-wane-after-pandemic-spike/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/12/Screen-Shot-2022-12-01-at-9.22.12-AM.png?w=1200&strip=all",
+          "width": 880,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/data-ai-mobile-gaming-starts-to-wane-after-pandemic-spike/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/data-ai-mobile-gaming-starts-to-wane-after-pandemic-spike/amp/",
+      "publishedDateTime": "2022-12-02T16:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-03-the-story-of-neuralink-elon-musks-ai-brain-chip-company-where-he-had-twins-with-a-top-executive.md",
+      "title": "The story of Neuralink: Elon Musk's AI brain chip company where he had twins with a top executive",
+      "excerpt": "He says he started one of them to achieve \"symbiosis\" between the human brain and artificial intelligence ... treatment of the monkeys used in its research. In February 2022, animal-rights ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/neuralink-elon-musk-microchips-brains-ai-2021-2",
+      "originalUrl": "https://www.businessinsider.com/neuralink-elon-musk-microchips-brains-ai-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fcd5470eadd8400183df66e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/neuralink-elon-musk-microchips-brains-ai-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/neuralink-elon-musk-microchips-brains-ai-2021-2?amp",
+      "publishedDateTime": "2022-12-02T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-12-03-apple-slices-its-ai-image-synthesis-times-in-half-with-new-stable-diffusion-fix.md",
       "title": "Apple slices its AI image synthesis times in half with new Stable Diffusion fix",
       "excerpt": "On Wednesday, Apple released optimizations that allow the Stable Diffusion AI image generator to run on Apple Silicon ... SD optimizations can generate a 512×512 50-step image on an M1 chip in 35 seconds. An M2 does the task in 23 seconds, and Apple's ...",
@@ -1022,49 +1178,6 @@
       ]
     },
     {
-      "path": "_news/2022-12-02-deepminds-new-ai-uses-game-theory-to-trounce-humans-in-stratego.md",
-      "title": "DeepMind’s New AI Uses Game Theory to Trounce Humans in ‘Stratego’",
-      "excerpt": "Now, you can now add the strategy game Stratego to that ever-growing list. Researchers from Alphabet-owned DeepMind, according to new research shared with Gizmodo, say they’ve created a new AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2022/12/deepminds-new-ai-uses-game-theory-to-trounce-humans-in-stratego/",
-      "originalUrl": "https://www.gizmodo.com.au/2022/12/deepminds-new-ai-uses-game-theory-to-trounce-humans-in-stratego/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/12/02/deepmind-stratego.png?quality=80&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2022/12/deepminds-new-ai-uses-game-theory-to-trounce-humans-in-stratego/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/12/deepminds-new-ai-uses-game-theory-to-trounce-humans-in-stratego/amp/",
-      "publishedDateTime": "2022-12-02T00:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gizmodo",
-        "domain": "gizmodo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-02-government-introduces-digiyatra-facial-recognition-for-entry-into-airports-netizens-call-it-scary-and-dystopian.md",
       "title": "Government Introduces ‘DigiYatra’ Facial Recognition For Entry Into Airports; Netizens Call It Scary And Dystopian",
       "excerpt": "The Ministry of Civil Aviation of the Government of India, has now introduced ‘DigiYatra’, an initiative to make your travel swift and seamless. Flyers will only need to check in with facial recognition that will allow quick airport entry and pre-security check.",
@@ -1157,93 +1270,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-san-francisco-police-defend-killer-robots-plan.md",
-      "title": "San Francisco police defend 'killer robots' plan",
-      "excerpt": "Police in San Francisco defended their potential use of killer robots on Thursday, insisting they would be a \"last resort\" and only for very dangerous situations. Detectives in the California city, where residents complain of a spike in crime,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602",
-      "originalUrl": "https://www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/12/02/killer_bots.png",
-          "width": 600,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602?amp",
-      "cdnAmpWebUrl": "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602?amp",
-      "publishedDateTime": "2022-12-01T19:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tbsnews",
-        "domain": "tbsnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-artificial-intelligence-machine-learning-will-strengthen-firms-it-security-report.md",
-      "title": "Artificial intelligence, machine learning will strengthen firms’ IT security: Report",
-      "excerpt": "The company has been receiving many enquiries about cyber security, said Shailesh Davey, Co-Founder and Vice President of Engineering at Zoho.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/business/2022/dec/02/artificial-intelligence-machine-learning-will-strengthen-firms-it-security-report-2524302.html",
-      "originalUrl": "https://www.newindianexpress.com/business/2022/dec/02/artificial-intelligence-machine-learning-will-strengthen-firms-it-security-report-2524302.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/9/9/w600X390/The_Risks_an.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/business/2022/dec/02/artificial-intelligence-machine-learning-will-strengthen-firms-it-security-report-2524302.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2022/dec/02/artificial-intelligence-machine-learning-will-strengthen-firms-it-security-report-2524302.amp",
-      "publishedDateTime": "2022-12-01T17:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dubai steps up automation, robotics in aviation, logistics sectors"
-    excerpt: "The trio of agreements aim to deploy advanced future technologies across aviation and logistics – two vital non-oil sectors for Dubai and the UAE. These national partnerships aim to activate the Dubai Robotics and Automation Programme that was launched last September to boost the development,"
-    publishedDateTime: 2022-12-05T03:00:00Z
-    webUrl: "https://www.zawya.com/en/business/aviation/dubai-steps-up-automation-robotics-in-aviation-logistics-sectors-i5ygm0bo"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 49
   - title: "Hamdan witnesses signing of MoUs to advance robotics and tech in Dubai's aviation sector"
     excerpt: "Under the MoU, Dubai Future Labs, will facilitate the research, testing and implementation of new technologies for logistics operations, and develop future technologies that incorporate artificial intelligence (AI), robotics, data analysis and blockchain."
     publishedDateTime: 2022-12-04T14:18:00Z

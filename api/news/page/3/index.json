@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-12-06-ai-for-the-board-game-diplomacy.md",
+      "title": "AI for the board game Diplomacy",
+      "excerpt": "Successful communication and cooperation have been crucial for helping societies advance throughout history. The closed environments of board games can serve as a sandbox for modelling and investigating interaction and communication – and we can learn a lot from playing them. In our recent paper, published",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/ai-for-the-board-game-diplomacy",
+      "originalUrl": "https://www.deepmind.com/blog/ai-for-the-board-game-diplomacy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/638e60318bb6c57c845551ec_eobNu4K3TohLGYbu5pn89kdLUWxXV5e67RaLVWVafh1b9gLgxw7mSPIcYx9ndcJENfSgBAQCdnEfgcYZhpO-4ye83MuKtftKL354Sv10-Dr5bOJFDw9DaxmGlT1Y-304E9seTmp_CeX1mYapEP1m5OIfs7wuE6mGSxb7IgLDATURCNYJh_HKOdmfZzDsKJY.png",
+          "width": 1600,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-the-newest-nfl-star-could-be-a-data-scientist-using-ml-and-ai-to-keep-players-safe.md",
+      "title": "The newest NFL star could be a data scientist: Using ML and AI to keep players safe",
+      "excerpt": "In an innovative partnership between the NFL and AWS, data scientists on Kaggle are being commissioned to identify player contact, incentivized by a $50,000 prize.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/heres-how-data-scientists-are-keeping-nfl-stars-safe-using-ai-and-ml/",
+      "originalUrl": "https://www.zdnet.com/article/heres-how-data-scientists-are-keeping-nfl-stars-safe-using-ai-and-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/7b8eab768146a43a8ec7235e8116f15e0f9dfc84/2022/12/05/ad61d4d4-9461-4f68-b1fa-8623791362e4/digitalath2.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/heres-how-data-scientists-are-keeping-nfl-stars-safe-using-ai-and-ml/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/heres-how-data-scientists-are-keeping-nfl-stars-safe-using-ai-and-ml/",
+      "publishedDateTime": "2022-12-05T15:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-ai-can-predict-heart-attack-or-stroke-death-risk-from-an-x-ray.md",
       "title": "AI Can Predict Heart Attack or Stroke Death Risk From an X-Ray",
       "excerpt": "A new study by researchers at Massachusetts General Hospital and the AI in Medicine program at the Brigham and Women’s Hospital in Boston demonstrates how an AI deep learning model can predict the 10-year risk of death from stroke or a heart attack from a single chest X-ray.",
@@ -139,7 +243,7 @@
       "originalUrl": "https://singularityhub.com/2022/12/05/deepminds-latest-ai-trounces-human-players-at-the-game-stratego/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1074,109 +1178,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-03-at-neurips-2022-generative-ai-and-llms-are-hot-topics.md",
-      "title": "At NeurIPS 2022, generative AI and LLMs are hot topics",
-      "excerpt": "At the first week of NeurIPS 2022, generative AI and LLMs were hot topics — along with a Geoffrey Hinton keynote in honor of ImageNet.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/at-neurips-2022-generative-ai-and-llms-are-hot-topics/",
-      "originalUrl": "https://venturebeat.com/ai/at-neurips-2022-generative-ai-and-llms-are-hot-topics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/12/Fir7IQiWIAAYtAI.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/at-neurips-2022-generative-ai-and-llms-are-hot-topics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/at-neurips-2022-generative-ai-and-llms-are-hot-topics/amp/",
-      "publishedDateTime": "2022-12-02T19:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-12-03-dataai-mobile-gaming-starts-to-wane-after-pandemic-spike.md",
-      "title": "Data.ai: Mobile gaming starts to wane after pandemic spike",
-      "excerpt": "Data.ai's latest report shows that mobile games are declining, but the numbers are still higher than they were pre-pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/data-ai-mobile-gaming-starts-to-wane-after-pandemic-spike/",
-      "originalUrl": "https://venturebeat.com/games/data-ai-mobile-gaming-starts-to-wane-after-pandemic-spike/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/12/Screen-Shot-2022-12-01-at-9.22.12-AM.png?w=1200&strip=all",
-          "width": 880,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/data-ai-mobile-gaming-starts-to-wane-after-pandemic-spike/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/data-ai-mobile-gaming-starts-to-wane-after-pandemic-spike/amp/",
-      "publishedDateTime": "2022-12-02T16:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -92,6 +92,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Why Everyone's Obsessed With ChatGPT, a Mind-Blowing AI Chatbot"
+    excerpt: "This artificial intelligence bot is an impressive writer, but you should still be careful how much you trust its answers."
+    publishedDateTime: 2022-12-07T18:31:00Z
+    webUrl: "https://www.cnet.com/tech/computing/why-everyones-obsessed-with-chatgpt-a-mindblowing-ai-chatbot/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/why-everyones-obsessed-with-chatgpt-a-mindblowing-ai-chatbot/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/why-everyones-obsessed-with-chatgpt-a-mindblowing-ai-chatbot/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/084641681c8362c3ce0c3eb8a53365351adcaaac/hub/2022/12/06/3dd7180c-d0e7-47ca-bc37-b5df15a41a25/ai-chat-gettyimages.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "A new AI chatbot is getting buzz for being able to have intelligent-sounding conversations, write music, and even code"
     excerpt: "ChatGPT is an artificial intelligence chatbot that is trained to answer a wide range of questions about different topics in a conversational way."
     publishedDateTime: 2022-12-05T18:37:00Z
@@ -390,6 +406,6 @@ related:
       domain: slator.com
     quality: 2
 
-secured: "LNXAuMqG3ZoekSJ00F1RIlDG1amCOfbRLNFo+uZA0sBcWxTNaconkClVtpt5/LpjeBZ5TaKafBBSC5HsNkPFn/RgcCwarVYpZPlvXIcVQNHzwRw+rDVXN56eKkifzRd9C1RmJSiOZ2rIq6QuROmPoqfRDniakIvafn/TBmDRTL+k0qmqRcI+0fL14U0KEuaWeGTWQm0vLSylDMoZtqArfP/Z6jYvLGRQGig+R+WBjUTCM/5z9N++w2JhlOmAJOvrE+ivSfpyCTPi30KiVM5eExVnEnaCJKjCMfGfvk87nYc14+gd4sUYHd8vVGHU8+7Ft5izjA3N2+9PykqRQYchok3VH2EAm24IhQ6EOrzVTZM=;93CVUQ2MMDuJSXZmfNA68Q=="
+secured: "8WLsPeMLn++FpqlB6TWbJK3BV9FuyBm+XifKBqgaN7RB0l4T/Je/b1jzvChTQZ8plEXI40Wi0qOSA4luwE1IuL0weBLPiERvptijXesLA3VZqDx/FCYJS095FnmUfolt3M/qXZQRlMr4WOIqqvX/QJqRsmYQWxf84fcTydXJGNNvSTl7fA9a69/vQp8No9+mEDbu8S+pUATC2t+0x865k7UJcjIGti6R/HSkU/MX0mKT8ZLrD6JwROQhea/SRNzEF15FhQqmAsvYl3yh2Qk9ndV9sM33BKhvWSsd2LUt2C+1HsqHrLIoFEDT+J2JZE3nrxDgz+chH69QjfdUVxnXnNU8lAgBVw4ytW5qSDnezT8AOqsre8HgFHU09CAoS6sLzrZsofGyKH8kvNxLJ+cxm8JY0/SUwAqq19+VZdytMtXyblOKbFBBKggqChmHmL6pe76PiqR1zB9THYYz2oxxyBgJNTLONleA2XZafOm6Nqz35pskYkzEI9il4+XsRltTcHPq3pjuiQQKePcEjaWAqw==;OI3aKEem9+/jCY8pfFedRQ=="
 ---
 

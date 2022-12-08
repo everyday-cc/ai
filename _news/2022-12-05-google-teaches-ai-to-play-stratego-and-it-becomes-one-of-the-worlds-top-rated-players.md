@@ -55,15 +55,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "DeepMind spin-off steps up effort to use AI to create new drugs"
-    excerpt: "We use cookies and other data for a number of reasons, such as keeping FT Sites reliable and secure,         personalising content and ads, providing social media features and to         analyse how our Sites are used."
-    publishedDateTime: 2022-12-03T15:00:00Z
-    webUrl: "https://www.ft.com/content/92ea2434-8d91-49e3-807d-3e425689e749"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
 
 secured: "+v0RuOoQHCPKyQq3lz9BLrlc8OO/iXl7wxODrnGZfzQWLWSpqT9fkYqzFCtWKBTRizy6XFixR+tkC2w2VvjdyDvMfFFchPamUSHBW4vnG1jUre5dIN1SBTCFWuej0Zahg9y/t22ShTj6iwqka4GCDVkj+lMBk+5tExqR0TcHtgEEvy8syw8I9c/6OkHCmWy1zo2QNKYziwFMiTxPa+XjtJmstjAP7+1d+bTyoRjN0pox/eDftrhoN9KTFkLo7J4cszz7aUzbfYVF8H6V9IxOEdwP3QPgpgvNDFgsNTp5BG4VHXaQbSk/nXn+fbOVTy32Ux2mCcPWBP2CuIcJBJptA7JPc/YJSxFtnnE1IaR3y4p0OYnMns0muz1+5iYoW4B408BnWvsAxWcSz7XE1msoaS3kDiiWhtkaWfv1tlknD/JT1+WD/eVttCX7TLpc7xfcjowGmAabEy3ez5vkBxCkLZ0CdbfhItSJLc7LKBIKwI0BD26zCUAq3d+7TxLCzwqHuF9mmlbuY0WfazuBlP2Elg==;KWYlTm4EFgA7/7l5OLMQew=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.zawya.com/en/business/aviation/dubai-steps-up-automati
 webUrl: "https://www.zawya.com/en/business/aviation/dubai-steps-up-automation-robotics-in-aviation-logistics-sectors-i5ygm0bo"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -19,28 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Hamdan witnesses signing of MoUs to advance robotics and tech in Dubai's aviation sector"
-    excerpt: "Under the MoU, Dubai Future Labs, will facilitate the research, testing and implementation of new technologies for logistics operations, and develop future technologies that incorporate artificial intelligence (AI), robotics, data analysis and blockchain."
-    publishedDateTime: 2022-12-04T14:18:00Z
-    webUrl: "https://www.gulftoday.ae/news/2022/12/04/hamdan-witnesses-signing-partnerships-aimed-at-driving-innovation-in-aviation-and-logistics"
+  - title: "PolyU and Hanson Robotics’ step towards Artificial Intelligence and Robotics"
+    excerpt: "The Hong Kong Polytechnic University (PolyU) and Hanson Robotics Limited (Hanson) signed a Memorandum of Understanding to establish the Centre for Humanistic Artificial Intelligence and Robotics (CHAi"
+    publishedDateTime: 2022-12-08T00:11:00Z
+    webUrl: "https://indiaeducationdiary.in/polyu-and-hanson-robotics-step-towards-artificial-intelligence-and-robotics/"
+    ampWebUrl: "https://indiaeducationdiary.in/polyu-and-hanson-robotics-step-towards-artificial-intelligence-and-robotics/amp/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/polyu-and-hanson-robotics-step-towards-artificial-intelligence-and-robotics/amp/"
     type: article
     provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 40
-  - title: "Hamdan Bin Mohammed Witnesses Signing Of Three New Partnerships Aimed At Driving Innovation In Aviation And Logistics"
-    excerpt: "H.H. Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Crown Prince of Dubai, Chairman of Dubai Executive Council and Chairman of the Board of Trustees of the Dubai Future Foundation, witnessed the signing of three partnership agreements by Dubai Future Labs (DFL),"
-    publishedDateTime: 2022-12-04T19:40:00Z
-    webUrl: "https://menafn.com/1105265546/Hamdan-Bin-Mohammed-Witnesses-Signing-Of-Three-New-Partnerships-Aimed-At-Driving-Innovation-In-Aviation-And-Logistics"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 16
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 88
     images:
-      - url: "https://menafn.com/updates/pr/2022-12/04/ENA(_28656image_story.jpg"
+      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2021/02/download-5-1.jpg?fit=600%2C315&ssl=1"
         width: 600
-        height: 400
+        height: 315
         isCached: true
 
 secured: "JW7nOWFBEaMylwCUy79NYn3ZRr/jk3KQb2clrJy7mg+LIWnUxoNmGjLKIuYE0oAyobdzsdmvNbqZ2C2XNks2GVqWErVEsawhMHLvcZ50Mk2EU49k/2MKGc2fFiFhA0EnS72wYFMfLwsxQ5jauuqOIKr+78Cmq9Rg9Eq3GkzhAXCEJqDaVwbosNEV+wMsSvv+D2ZJ4GT/UweLcqO3WUjkwlFatfvwAKOQ3ISd0llTNbRzw+j1xSQKygGHzJ+fZ7jkZyHMpL3A2U6/s0SilfkUWE7fPctgEAPD3mWInVBb/LlEkArDe21YjgCPYcfTuQTrnE3XBORuCdkUDybGRLe9xlIyxBD4dxbf0JXHfHMjN9I=;Bhke7k+L7PfPXpGXhI7/fg=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.gulftoday.ae/news/2022/12/04/hamdan-witnesses-signing-
 webUrl: "https://www.gulftoday.ae/news/2022/12/04/hamdan-witnesses-signing-partnerships-aimed-at-driving-innovation-in-aviation-and-logistics"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Dubai steps up automation, robotics in aviation, logistics sectors"
-    excerpt: "The trio of agreements aim to deploy advanced future technologies across aviation and logistics – two vital non-oil sectors for Dubai and the UAE. These national partnerships aim to activate the Dubai Robotics and Automation Programme that was launched last September to boost the development,"
-    publishedDateTime: 2022-12-05T03:00:00Z
-    webUrl: "https://www.zawya.com/en/business/aviation/dubai-steps-up-automation-robotics-in-aviation-logistics-sectors-i5ygm0bo"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 49
   - title: "Hamdan Bin Mohammed Witnesses Signing Of Three New Partnerships Aimed At Driving Innovation In Aviation And Logistics"
     excerpt: "H.H. Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Crown Prince of Dubai, Chairman of Dubai Executive Council and Chairman of the Board of Trustees of the Dubai Future Foundation, witnessed the signing of three partnership agreements by Dubai Future Labs (DFL),"
     publishedDateTime: 2022-12-04T19:40:00Z

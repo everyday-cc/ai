@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://media.wired.com/photos/637e69aec16b4f8de1df58df/master/pass/Shark-AI-Ultra-2-in-1-Robot-Vacuum-Review-Gear.jpg"
