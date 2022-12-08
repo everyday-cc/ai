@@ -36,6 +36,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "FinTech Market | Key Player, Competition Weakness and Strengths from 2023 to 2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"FinTech"
+    publishedDateTime: 2022-12-07T04:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/fintech-market-key-player-competition-weakness-and-strengths-from-2023-to-2028-2022-12-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Sunwest Bank secures multiyear partnership with CRE FinTech Blooma"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2022-12-06T10:08:00Z

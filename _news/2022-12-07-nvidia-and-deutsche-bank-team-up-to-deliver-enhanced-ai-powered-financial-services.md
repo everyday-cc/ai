@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deutsche Bank partners with NVIDIA to embed AI into financial services"
+    excerpt: "Deutsche Bank has unveiled a multi-year partnership with NVIDIA that’s intended to accelerate the use of artificial intelligence (AI) and machine learning (ML) in the financial services sector."
+    publishedDateTime: 2022-12-08T08:45:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/deutsche-bank-partners-with-nvidia-to-embed-ai-into-financial-services"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 54
+    images:
+      - url: "https://www.newelectronics.co.uk/media/ngbph4qk/future-of-banking.jpg?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Nvidia And Deutsche Bank AI Gambit Targets $1 Trillion Financial Services Opportunity"
     excerpt: "NVIDIA’s Manuvir Das, vice president of enterprise computing, said channel partners should pay close attention to advancements born out of the collaboration, noting that McKinsey expects the annual global economic impact of AI in the financial services sector to grow to a whopping $1 trillion."
     publishedDateTime: 2022-12-07T15:12:00Z

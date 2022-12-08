@@ -2,6 +2,154 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-12-01-first-minister-speech-disrupted-by-gender-recognition-protester.md",
+      "title": "First Minister speech disrupted by gender recognition protester",
+      "excerpt": "The woman who interrupted the First Minister's speech said the change in law would ... that the request not to discuss the Gender Recognition Reform Bill was made by the First Minister or officials.",
+      "sourceUrl": null,
+      "webUrl": "https://www.heraldscotland.com/politics/23159210.first-minister-speech-disrupted-gender-recognition-protester/?ref=twtrec",
+      "originalUrl": "https://www.heraldscotland.com/politics/23159210.first-minister-speech-disrupted-gender-recognition-protester/?ref=twtrec",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.heraldscotland.com/resources/images/16138459/?type=og-image",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T04:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "heraldscotland",
+        "domain": "heraldscotland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-how-fintech-can-help-you-weather-a-recession.md",
+      "title": "How Fintech Can Help You Weather A Recession",
+      "excerpt": "With many in fear of a recession, a growing number of businesses are in need of grant funding, and there are not many search engines that are cataloging the grants offered by thousands of organizations. Very few opportunities are in the marketplace that offers fintech services to help growing businesses with this catalog of offerings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/01/how-fintech-can-help-you-weather-a-recession/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/01/how-fintech-can-help-you-weather-a-recession/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61b210016811815c378fdd64/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/01/how-fintech-can-help-you-weather-a-recession/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/01/how-fintech-can-help-you-weather-a-recession/amp/",
+      "publishedDateTime": "2022-12-01T03:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-aws-updates-its-machine-learning-service-sagemaker.md",
+      "title": "AWS updates its machine learning service SageMaker",
+      "excerpt": "Invent 2022, the cloud services provider updated its managed machine learning service to include new notebook and governance features.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3681891/aws-updates-its-machine-learning-service-sagemaker.html",
+      "originalUrl": "https://www.infoworld.com/article/3681891/aws-updates-its-machine-learning-service-sagemaker.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 291,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/10/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3681891/aws-updates-its-machine-learning-service-sagemaker.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3681891/aws-updates-its-machine-learning-service-sagemaker.amp.html",
+      "publishedDateTime": "2022-12-01T03:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-mercedes-bosch-open-worlds-first-self-driving-valet.md",
       "title": "Mercedes, Bosch open world's first self-driving valet",
       "excerpt": "Mercedes-Benz and Bosch will initially operate their automated valet in the parking garage of Stuttgart Airport.",
@@ -189,6 +337,58 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-facial-recognition-door-lock-market-2023-competitions-by-players-growth-factor-swot-analysis-industry-trends-size-share-and-forecast-to.md",
+      "title": "Facial Recognition Door Lock Market 2023 Competitions by Players, Growth Factor, SWOT Analysis, Industry Trends, Size, Share and Forecast to 2029",
+      "excerpt": "The report can help to understand the market and strategize for business expansion accordingly. In the strategy analysis, it gives insights from marketing channel and market positioning to potential growth strategies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-2023-competitions-by-players-growth-factor-swot-analysis-industry-trends-size-share-and-forecast-to-2029-2022-12-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-2023-competitions-by-players-growth-factor-swot-analysis-industry-trends-size-share-and-forecast-to-2029-2022-12-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T22:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -982,179 +1182,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-aws-announces-eight-new-amazon-sagemaker-capabilities.md",
-      "title": "AWS Announces Eight New Amazon SageMaker Capabilities",
-      "excerpt": "At AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced eight new capabilities for Amazon SageMaker, its end-to-end machine learning (ML ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-eight-new-amazon-sagemaker-capabilities/article_fe16b955-2c7f-5b55-b556-bd4a4f9351ea.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-eight-new-amazon-sagemaker-capabilities/article_fe16b955-2c7f-5b55-b556-bd4a4f9351ea.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg",
-          "width": 350,
-          "height": 455,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T11:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-asia-pacific-fintech-as-a-service-market-report-2022-key-players-paypal-mastercard-sofi-technologies-and-more-fueling-174-annual-growth.md",
-      "title": "Asia Pacific Fintech-as-a-Service Market Report 2022: Key Players PayPal, Mastercard, SoFi Technologies and More Fueling 17.4% Annual Growth",
-      "excerpt": "The Asia Pacific Fintech-as-a-Service Market is expected to witness market growth of 17.4% CAGR during the forecast period (2022-2028). The debut of ARDEN in May 2022 was announced by Brightwell Payments,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/11/30/9722271.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/11/30/9722271.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T11:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-here-workspace-the-low-code-platform-tool-for-map-creation-now-comes-with-machine-learning-from-aws.md",
-      "title": "HERE Workspace: The low-code platform tool for map creation now comes with machine learning from AWS",
-      "excerpt": "HERE Workspace adds new low-code mapmaking capabilities and now connects to Amazon SageMaker, AWS's machine learning platform, to further expand the possibilities for customers developing spatial inte",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/11/g29912625/here-workspace-the-low-code-platform-tool-for-map-creation-now-comes-with-machine-learning-from-aw",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/g29912625/here-workspace-the-low-code-platform-tool-for-map-creation-now-comes-with-machine-learning-from-aw",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png",
-          "width": 666,
-          "height": 282,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29912625",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29912625",
-      "publishedDateTime": "2022-11-30T10:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-driverless-parking-service-begins-commercial-operation-at-stuttgart-airport.md",
-      "title": "Driverless parking service begins commercial operation at Stuttgart Airport",
-      "excerpt": "The development partners say that the commercial approval from Germany's Federal Motor Transport Authority to operate its driverless parking system at the APCOA P6 parking garage at Stuttgart ...",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/automotive/mercedes-bosch-commercial-automated-valet-parking-stuttgart/",
-      "originalUrl": "https://newatlas.com/automotive/mercedes-bosch-commercial-automated-valet-parking-stuttgart/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/1d9a14e/2147483647/strip/true/crop/4961x2605+0+93/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fca%2F57%2F77bc3e2b45cbb56a8cb81ce6b578%2F22c0242-007.jpg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T10:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

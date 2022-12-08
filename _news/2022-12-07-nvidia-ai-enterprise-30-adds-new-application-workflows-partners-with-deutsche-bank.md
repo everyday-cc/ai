@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/nvidia-ai-enterprise-3-0-released-today-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-ai-enterprise-3-0-released-today-adds-new-application-workflows-and-partnership-with-deutsche-bank/amp/"
 type: article
 quality: 99
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
     quality: 58
     images:
       - url: "https://arizent.brightspotcdn.com/dims4/default/95eab24/2147483647/strip/true/crop/3998x2099+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F2e%2Fab%2F08937d7a40b4b2df5be665b66e8d%2F394007626.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deutsche Bank partners with NVIDIA to embed AI into financial services"
+    excerpt: "Deutsche Bank has unveiled a multi-year partnership with NVIDIA that’s intended to accelerate the use of artificial intelligence (AI) and machine learning (ML) in the financial services sector."
+    publishedDateTime: 2022-12-08T08:45:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/deutsche-bank-partners-with-nvidia-to-embed-ai-into-financial-services"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 54
+    images:
+      - url: "https://www.newelectronics.co.uk/media/ngbph4qk/future-of-banking.jpg?width=1200&height=630&mode=crop"
         width: 1200
         height: 630
         isCached: true

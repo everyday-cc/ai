@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2022/12/06/tesla-radar-car-next-month-self-dri
 webUrl: "https://electrek.co/2022/12/06/tesla-radar-car-next-month-self-driving-suite-concerns/"
 type: article
 quality: 62
-heat: 103
+heat: 102
 published: true
 
 provider:

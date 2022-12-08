@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Computer Networks Market Growth of Leading Players 2023: Future Trends, Regional Demand and Global Share Forecast to 2029"
+    excerpt: "Dec 07, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Artificial Intelligence in"
+    publishedDateTime: 2022-12-07T06:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-growth-of-leading-players-2023-future-trends-regional-demand-and-global-share-forecast-to-2029-2022-12-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "H8Ygh9HvRlF60gjBButWLiOz0cJhoyl0pEf1pXKb2XYM6GZwYPn+yR0XEIqSMNhVwywHEMBSSc4eRFE+7OhAMGtK/5G5PdtgdpblGi0S30rW5i97LX4oR2IBbE6w7L2qwLpbj1WN1Ac8GcHlLMDfMhN+WSeZQFShIsy00nrdrPwUH3gEgm/Dlw69mms2NcUSb5iUqwbwaoBn/+UAtOB8ubEPYuo/aF9n2AC7qxwTYZeU9+K55kQ3aS1IPHg4MHXILz9tQmoafYjgz8ubLplKmlajmArCb1Ra2GfD/rlBe6OsEqcdSyoJj1B2Zsvc4pNeaE/YvbbbdmnYcUqsX3zFF3dA+L/w8QkPNOrIHCW2wHc=;n+KCcQwLdYJU+lFxtSKN8Q=="
 ---

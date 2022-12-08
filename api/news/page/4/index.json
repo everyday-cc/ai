@@ -2,6 +2,152 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-12-05-why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right.md",
+      "title": "Why you need an organizational AI ethics committee to do AI right",
+      "excerpt": "How forming an AI ethics committee will educate and engage your teams and customers about ethical dilemmas artificial intelligence can raise.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/",
+      "originalUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-875599880-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/amp/",
+      "publishedDateTime": "2022-12-04T09:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-04-3-ways-emotion-ai-elevates-the-customer-experience.md",
+      "title": "3 ways emotion AI elevates the customer experience",
+      "excerpt": "Emotion AI can boost employees' emotional intelligence and provide real-time support to create better customer experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/3-ways-emotion-ai-elevates-the-customer-experience/",
+      "originalUrl": "https://venturebeat.com/ai/3-ways-emotion-ai-elevates-the-customer-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1131331897-e1655419471228.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/3-ways-emotion-ai-elevates-the-customer-experience/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-ways-emotion-ai-elevates-the-customer-experience/amp/",
+      "publishedDateTime": "2022-12-03T18:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-04-sustainability-and-inclusion-take-center-stage-at-aws-reinvent.md",
+      "title": "Sustainability And Inclusion Take Center Stage At AWS Re:Invent",
+      "excerpt": "Within the AWS leadership, there is a strong belief that technology should be built in a way that’s inclusive, diverse, and equitable and the company has a responsibility to make that happen. All Builders Welcome serves as a bridge between the current status quo and the future of tech. During the week, the grant winners had the opportunity to:",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/carolinamilanesi/2022/12/03/sustainability-and-inclusion-take-centerstage-at-aws-reinvent/",
+      "originalUrl": "https://www.forbes.com/sites/carolinamilanesi/2022/12/03/sustainability-and-inclusion-take-centerstage-at-aws-reinvent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-03T10:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-03-at-neurips-2022-generative-ai-and-llms-are-hot-topics.md",
       "title": "At NeurIPS 2022, generative AI and LLMs are hot topics",
       "excerpt": "At the first week of NeurIPS 2022, generative AI and LLMs were hot topics — along with a Geoffrey Hinton keynote in honor of ImageNet.",
@@ -1122,154 +1268,6 @@
         "Facebook AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-artificial-intelligence-chipset-market-2022-industry-size-shares-segment-forecast-up-to-2028.md",
-      "title": "Artificial Intelligence Chipset Market 2022 Industry Size, Shares, Segment & Forecast up to 2028",
-      "excerpt": "The global Artificial Intelligence Chipset market report provides geographic analysis covering regions, such as",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-2022-industry-size-shares-segment-forecast-up-to-2028-2022-12-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-2022-industry-size-shares-segment-forecast-up-to-2028-2022-12-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-02T01:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-government-introduces-digiyatra-facial-recognition-for-entry-into-airports-netizens-call-it-scary-and-dystopian.md",
-      "title": "Government Introduces ‘DigiYatra’ Facial Recognition For Entry Into Airports; Netizens Call It Scary And Dystopian",
-      "excerpt": "The Ministry of Civil Aviation of the Government of India, has now introduced ‘DigiYatra’, an initiative to make your travel swift and seamless. Flyers will only need to check in with facial recognition that will allow quick airport entry and pre-security check.",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/42929/government-introduces-digiyatra-facial-recognition-for-entry-into-airports-netizens-call-it-scary-an",
-      "originalUrl": "https://in.mashable.com/tech/42929/government-introduces-digiyatra-facial-recognition-for-entry-into-airports-netizens-call-it-scary-an",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/cvc_gmmq.620.png",
-          "width": 619,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/42929/government-introduces-digiyatra-facial-recognition-for-entry-into-airports-netizens-call-it-scary-an?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/42929/government-introduces-digiyatra-facial-recognition-for-entry-into-airports-netizens-call-it-scary-an?amp=1",
-      "publishedDateTime": "2022-12-01T23:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "in.mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-artificial-intelligence-ai-market-2023-is-flourishing-around-the-world-by-2026.md",
-      "title": "Artificial Intelligence (AI) Market 2023 Is Flourishing Around the World by 2026",
-      "excerpt": "Pre and Post Covid is Covered and Report Customization is Available. [131 Pages Report]\"Artificial Intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-2023-is-flourishing-around-the-world-by-2026-2022-12-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-2023-is-flourishing-around-the-world-by-2026-2022-12-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T20:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

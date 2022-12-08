@@ -2,9 +2,9 @@
 category: news
 title: "Tetra Bio-Pharma Announces Results of Artificial Intelligence Study of ARDS-003 Combined with Favipiravir"
 excerpt: "The combination of ARDS-003 and Favipiravir presents viable treatments against viral infections. Results from the PIONEER clinical trial shows Favipiravir may improve severe COVID-19 recovery and ventilator-free survival in younger patients."
-publishedDateTime: 2022-12-06T13:47:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/12/06/9724752.htm"
-webUrl: "https://it.tmcnet.com/news/2022/12/06/9724752.htm"
+publishedDateTime: 2022-12-06T13:25:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-tetra-bio-pharma-announces-results-artificial-intelligence-study-/2022/12/06/9724752.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-tetra-bio-pharma-announces-results-artificial-intelligence-study-/2022/12/06/9724752.htm"
 type: article
 quality: 22
 heat: -1
@@ -35,6 +35,6 @@ related:
       domain: marketwatch.com
     quality: 36
 
-secured: "evl94N2jldfylbFIVo3G4YxyS8mkaFC1/aVwv68i+6YGbKBj2uYG6qpfdlU/zZpW4mCYQYztIrdkR3RJNHrNvj1ZRmKZ1Ua/rQtCT+gr5mRtXSMtL5VecCevMeg6wTH6bXDUICS15veIzz1zAV+tG+7eIxWb7FEjcyRlOf/lBNxSYY51kny8ry/LCDXhY8hO01mwKphmko3Sh3sIImo6qR9m4ddADWP6dA8PlQDCtZ5wKf2I1BUQCmtmSAteKA8y7/shyqCItvGvaLDVaPg0OvBSOrDH0d6VsOA4AwoAsZ4dlkdcyVkxNtMyAKurBgQVpSaBrHheG7OmhZ7GdQTv3nq1TGJ9qYXdYwv90lGQAbI=;qTYDvGm2BtZ3USQM7YlRMA=="
+secured: "C5uIyrL5rkkKGvIhsFk6pue+f3Z/DyrYubSVd93ax7zH1aMptWhULOBZKFWfvx7n0iBL6r3mPuxsJUisaFQxSZ3C2AVNU6gPOYysqCmxqDPNBNOBiulWCgfHXlRPR93Pv3yc70s+iphhxrvxp5gBIQHGcICoIbIONXGPQupcavF9qbXZP9ZS/HBIPYyifT+KJL+yXWyhixEfh0POJTkEOv2wwfU8QHydKQRJh9Gmka8pRRdFiS8JL3eScTDWr9odmCJ8OEP4K6sDMkMHjSIwCriMWDYlWtNRmv1M9p6bQhhDgLIBxjBqUUWQV9H4FU+oKlfBDBUFfrikBGagKfPO7x0DoxgCXf010Uwtx9MjDaA=;22FI6VK06xOT0iZvfAX3Vw=="
 ---
 

@@ -25,8 +25,8 @@ topics:
 related:
   - title: "Tetra Bio-Pharma Announces Results of Artificial Intelligence Study of ARDS-003 Combined with Favipiravir"
     excerpt: "The combination of ARDS-003 and Favipiravir presents viable treatments against viral infections. Results from the PIONEER clinical trial shows Favipiravir may improve severe COVID-19 recovery and ventilator-free survival in younger patients."
-    publishedDateTime: 2022-12-06T13:47:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/12/06/9724752.htm"
+    publishedDateTime: 2022-12-06T13:25:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-tetra-bio-pharma-announces-results-artificial-intelligence-study-/2022/12/06/9724752.htm"
     type: article
     provider:
       name: TMCnet

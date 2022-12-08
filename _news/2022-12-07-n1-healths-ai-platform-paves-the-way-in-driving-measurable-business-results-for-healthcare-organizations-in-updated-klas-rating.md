@@ -6,8 +6,8 @@ publishedDateTime: 2022-12-06T19:27:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/n1-health-s-ai-platform-paves-the-way-in-driving-measurable-business-results-for-healthcare-organizations-in-updated-klas-rating-1031956311"
 webUrl: "https://markets.businessinsider.com/news/stocks/n1-health-s-ai-platform-paves-the-way-in-driving-measurable-business-results-for-healthcare-organizations-in-updated-klas-rating-1031956311"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Facebook AI
 
 related:
   - title: "How the pandemic is reshaping the healthcare playbook"

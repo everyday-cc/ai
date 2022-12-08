@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/96871-tsa-ready-nationwide-deploymen
 webUrl: "https://www.techspot.com/news/96871-tsa-ready-nationwide-deployment-facial-recognition-system.html"
 type: article
 quality: 69
-heat: 160
+heat: 159
 published: true
 
 provider:

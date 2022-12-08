@@ -2,6 +2,154 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-12-06-ai-text-generator-market-2023-is-flourishing-around-the-world-by-2026.md",
+      "title": "AI Text Generator Market 2023 Is Flourishing Around the World by 2026",
+      "excerpt": "Pre and Post Covid Report is Covered | Final Report will add the analysis of the impact of Russia-Ukraine War and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-text-generator-market-2023-is-flourishing-around-the-world-by-2026-2022-12-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-text-generator-market-2023-is-flourishing-around-the-world-by-2026-2022-12-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T20:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-bank-of-america-sees-ai-transforming-the-internet-over-the-next-five-yearstop-stocks-to-ride-trend.md",
+      "title": "Bank of America sees AI transforming the internet over the next five years—top stocks to ride trend",
+      "excerpt": "AI and machine learning will be a \"critical driver of all things Internet,\" Bank of America said in a note Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/12/06/bank-of-america-sees-ai-transforming-the-internet-over-the-next-five-yearstop-stocks-to-ride-trend.html",
+      "originalUrl": "https://www.cnbc.com/2022/12/06/bank-of-america-sees-ai-transforming-the-internet-over-the-next-five-yearstop-stocks-to-ride-trend.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107157151-1669394314402-gettyimages-1236198615-BPS01_Tablet_Apps_OC_5JPG.jpeg?v=1670304576&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T19:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-samsung-joins-hands-with-naver-to-develop-ai-chips.md",
+      "title": "Samsung joins hands with Naver to develop AI chips",
+      "excerpt": "Samsung Electronics Co. said Tuesday it is working with internet portal giant Naver Corp. to develop next-generation artificial intelligence (AI) chips, as part of efforts to improve efficiency of processing large AI data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreaherald.com/view.php?ud=20221206000445",
+      "originalUrl": "https://www.koreaherald.com/view.php?ud=20221206000445",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2022%2F12%2F06%2F20221206000449_0.jpg",
+          "width": 630,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20221206000445",
+      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20221206000445",
+      "publishedDateTime": "2022-12-05T18:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Herald",
+        "domain": "koreaherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-ai-for-the-board-game-diplomacy.md",
       "title": "AI for the board game Diplomacy",
       "excerpt": "Successful communication and cooperation have been crucial for helping societies advance throughout history. The closed environments of board games can serve as a sandbox for modelling and investigating interaction and communication – and we can learn a lot from playing them. In our recent paper, published",
@@ -734,7 +882,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/top-six-trends-and-recommendations-for-ai-and-ml-in-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -777,7 +925,7 @@
       "originalUrl": "https://www.aljazeera.com/sports/2022/12/5/who-is-going-to-reach-the-quarter-finals-of-world-cup-2022",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1032,152 +1180,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-05-why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right.md",
-      "title": "Why you need an organizational AI ethics committee to do AI right",
-      "excerpt": "How forming an AI ethics committee will educate and engage your teams and customers about ethical dilemmas artificial intelligence can raise.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/",
-      "originalUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-875599880-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/amp/",
-      "publishedDateTime": "2022-12-04T09:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-04-3-ways-emotion-ai-elevates-the-customer-experience.md",
-      "title": "3 ways emotion AI elevates the customer experience",
-      "excerpt": "Emotion AI can boost employees' emotional intelligence and provide real-time support to create better customer experiences.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/3-ways-emotion-ai-elevates-the-customer-experience/",
-      "originalUrl": "https://venturebeat.com/ai/3-ways-emotion-ai-elevates-the-customer-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1131331897-e1655419471228.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 611,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/3-ways-emotion-ai-elevates-the-customer-experience/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-ways-emotion-ai-elevates-the-customer-experience/amp/",
-      "publishedDateTime": "2022-12-03T18:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-04-sustainability-and-inclusion-take-center-stage-at-aws-reinvent.md",
-      "title": "Sustainability And Inclusion Take Center Stage At AWS Re:Invent",
-      "excerpt": "Within the AWS leadership, there is a strong belief that technology should be built in a way that’s inclusive, diverse, and equitable and the company has a responsibility to make that happen. All Builders Welcome serves as a bridge between the current status quo and the future of tech. During the week, the grant winners had the opportunity to:",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/carolinamilanesi/2022/12/03/sustainability-and-inclusion-take-centerstage-at-aws-reinvent/",
-      "originalUrl": "https://www.forbes.com/sites/carolinamilanesi/2022/12/03/sustainability-and-inclusion-take-centerstage-at-aws-reinvent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-03T10:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

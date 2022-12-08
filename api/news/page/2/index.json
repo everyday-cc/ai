@@ -2,6 +2,152 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-12-07-this-article-was-written-by-an-artificial-intelligence.md",
+      "title": "This Article Was Written By An Artificial Intelligence!",
+      "excerpt": "ChatGPT, another AI developed by OpenAI, has been equally successful. In the near future, this AI could replace Google.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2022/12/07/openai-chatgpt-chatbox-could-one-day-replace-google/",
+      "originalUrl": "https://www.gizmochina.com/2022/12/07/openai-chatgpt-chatbox-could-one-day-replace-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2022/12/openai-chatgpt-chatbox-could-one-day-replace-google.jpeg",
+          "width": 900,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2022/12/07/openai-chatgpt-chatbox-could-one-day-replace-google/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/12/07/openai-chatgpt-chatbox-could-one-day-replace-google/?amp=1",
+      "publishedDateTime": "2022-12-07T00:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-as-ai-rises-lawmakers-try-to-catch-up.md",
+      "title": "As AI Rises, Lawmakers Try To Catch Up",
+      "excerpt": "From \"intelligent\" vacuum cleaners and driverless cars to advanced techniques for diagnosing diseases, artificial intelligence has burrowed its way into every arena of modern life.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610",
+      "originalUrl": "https://www.barrons.com/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP2689439216944067383893578078951981468096---1.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610",
+      "publishedDateTime": "2022-12-06T23:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-tesla-says-it-is-adding-radar-in-its-cars-next-month-amid-self-driving-suite-concerns.md",
+      "title": "Tesla says it is adding radar in its cars next month amid self-driving suite concerns",
+      "excerpt": "Tesla told the FCC that it plans to market a new radar starting next month. The move raises even more concerns about self-driving concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/12/06/tesla-radar-car-next-month-self-driving-suite-concerns/",
+      "originalUrl": "https://electrek.co/2022/12/06/tesla-radar-car-next-month-self-driving-suite-concerns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Autopilot-Radar-e1603395743425.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T18:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-07-artificial-intelligence-talking-robots-could-help-detect-utis-at-early-stage.md",
       "title": "Artificial Intelligence, Talking Robots could help detect UTIs at early stage",
       "excerpt": "The £1.1 million FEATHER project, led by the School of Informatics, aims to increase an individual’s wellbeing and reduce the number of serious outcomes from incorrect or late diagnoses of urinary tract infections (UTIs).",
@@ -310,7 +456,7 @@
       "originalUrl": "https://www.techspot.com/news/96871-tsa-ready-nationwide-deployment-facial-recognition-system.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -784,7 +930,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-12-06",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 186,
       "tags": null,
       "images": [
         {
@@ -1085,154 +1231,6 @@
         "AI in Healthcare",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-ai-text-generator-market-2023-is-flourishing-around-the-world-by-2026.md",
-      "title": "AI Text Generator Market 2023 Is Flourishing Around the World by 2026",
-      "excerpt": "Pre and Post Covid Report is Covered | Final Report will add the analysis of the impact of Russia-Ukraine War and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-text-generator-market-2023-is-flourishing-around-the-world-by-2026-2022-12-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-text-generator-market-2023-is-flourishing-around-the-world-by-2026-2022-12-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-05T20:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-bank-of-america-sees-ai-transforming-the-internet-over-the-next-five-yearstop-stocks-to-ride-trend.md",
-      "title": "Bank of America sees AI transforming the internet over the next five years—top stocks to ride trend",
-      "excerpt": "AI and machine learning will be a \"critical driver of all things Internet,\" Bank of America said in a note Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/12/06/bank-of-america-sees-ai-transforming-the-internet-over-the-next-five-yearstop-stocks-to-ride-trend.html",
-      "originalUrl": "https://www.cnbc.com/2022/12/06/bank-of-america-sees-ai-transforming-the-internet-over-the-next-five-yearstop-stocks-to-ride-trend.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107157151-1669394314402-gettyimages-1236198615-BPS01_Tablet_Apps_OC_5JPG.jpeg?v=1670304576&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-05T19:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-samsung-joins-hands-with-naver-to-develop-ai-chips.md",
-      "title": "Samsung joins hands with Naver to develop AI chips",
-      "excerpt": "Samsung Electronics Co. said Tuesday it is working with internet portal giant Naver Corp. to develop next-generation artificial intelligence (AI) chips, as part of efforts to improve efficiency of processing large AI data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreaherald.com/view.php?ud=20221206000445",
-      "originalUrl": "https://www.koreaherald.com/view.php?ud=20221206000445",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2022%2F12%2F06%2F20221206000449_0.jpg",
-          "width": 630,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20221206000445",
-      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20221206000445",
-      "publishedDateTime": "2022-12-05T18:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Herald",
-        "domain": "koreaherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

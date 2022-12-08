@@ -101,6 +101,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-Propelled Belt Loader Market 2022 Driving Factor Analysis with Trend and Forecast to 2028"
+    excerpt: "Further, the SWOT analysis & other techniques are utilized to investigate this data & provide an informed perspective on the state of the business to assist design the best growth strategy for any vendors or to current penetration into the present & and likely direction of the global Self-Propelled Belt Loader market."
+    publishedDateTime: 2022-12-08T01:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-propelled-belt-loader-market-2022-driving-factor-analysis-with-trend-and-forecast-to-2028-2022-12-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice And Speech Recognition Software Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028"
     excerpt: "The market research study demonstrates the varied and extensive character of the \" Voice And Speech Recognition Software market \" and how the market will develop over the ensuing years. The report emphasizes information obtained 2022 to 2028 regarding the Voice And Speech Recognition Software market."
     publishedDateTime: 2022-12-06T20:36:00Z
@@ -152,6 +166,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cold Working Die Steel Market Industry Analysis, CAGR Value, Business Strategy, Growth drivers, competitive landscape, Forecast by 2029"
+    excerpt: "Global “ Cold Working Die Steel Market ” 2022 Research report is an in-depth study of the market Analysis. Industry growth drivers, supply and demand, risks, market attractiveness, annual growth comparison,"
+    publishedDateTime: 2022-12-07T08:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cold-working-die-steel-market-industry-analysis-cagr-value-business-strategy-growth-drivers-competitive-landscape-forecast-by-2029-2022-12-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
