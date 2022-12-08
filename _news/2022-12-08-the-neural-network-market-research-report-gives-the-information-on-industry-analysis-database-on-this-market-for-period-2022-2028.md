@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self Driving Wheelchair Market 2022 - Regional Overview, Substantial Demand, Vendor Landscape and Trends by 2028"
+    excerpt: "MarketsandResearch.biz contributes an entire investigation of the presented sector's current situation & significant drivers in its insightful report Global Self Driving Wheelchair Market Outlook 2022-2028."
+    publishedDateTime: 2022-12-08T02:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-2022---regional-overview-substantial-demand-vendor-landscape-and-trends-by-2028-2022-12-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Retail Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028"
     excerpt: "Retail is a $3.2 trillion global industry and artificial intelligence (AI) is quickly becoming an important part"
     publishedDateTime: 2022-12-06T11:37:00Z
@@ -57,45 +71,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Lawful Interception Global Market Report 2022: Leveraging AI, Machine Learning and Blockchain Technology Crucial for Future Growth"
-    excerpt: "Market-trend-based strategies for the lawful interception market include focus on leveraging artificial intelligence (AI), machine learning and blockchain technologies, focus on strategic partnerships and acquisitions, focus on research and development ..."
-    publishedDateTime: 2022-12-05T08:58:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/12/g29953663/lawful-interception-global-market-report-2022-leveraging-ai-machine-learning-and-blockchain-techno"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29953663"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29953663"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
-        width: 800
-        height: 313
-        isCached: true
-  - title: "Computer Vision Software Market Trends 2023 Industry Size, Segments, Share, Key Players and Growth Factor Analysis by 2026"
-    excerpt: "Global “ Computer Vision Software Market ” 2023 report presents an exclusive analysis of market size, share, revenue, production, consumption, gross margin, and price. The report offers elaborative data of leading market player's analysis and key factors that will affect the industry growth."
-    publishedDateTime: 2022-12-06T08:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-trends-2023-industry-size-segments-share-key-players-and-growth-factor-analysis-by-2026-2022-12-06"
+  - title: "Artificial Intelligence in Education Market 2023 : Impressive Growth Rate, Regional Insights, Competitive Outlook, and Geographical Divisions 2028"
+    excerpt: "\" Artificial Intelligence in Education Market \" Insights 2022 - By Applications (Teaching Application, Evaluation Application, Management Application, Others), By Types (, Convenient for Educational Affairs,"
+    publishedDateTime: 2022-12-06T00:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2023-impressive-growth-rate-regional-insights-competitive-outlook-and-geographical-divisions-2028-2022-12-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Internet of Things (IOT) in Healthcare Market Growing at 17.30% During 2022-2027 | Industry Size, Share, Forecast and Report"
-    excerpt: "What is Internet of things (IOT) in healthcare Market ? Internet of things (IoT) represents an interconnected arrangement of devices linked to the internet and can gather and transmit data over a wireless network without any human intervention."
-    publishedDateTime: 2022-12-06T11:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/internet-of-things-iot-in-healthcare-market-growing-at-1730-during-2022-2027-industry-size-share-forecast-and-report-2022-12-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -129,20 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Medicine Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028"
-    excerpt: "Artificial intelligence (AI) is a branch of computer science that deals with the design of intelligent agents,"
-    publishedDateTime: 2022-12-05T06:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-12-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Emotion Recognition and Sentiment Analysis Industry 2023 Market Size, Share, Growth, Sales and Drivers Analysis Research Report 2028"
     excerpt: "The Global Emotion Recognition and Sentiment Analysis Market 2023 report is a thorough assessment of the worldwide"
     publishedDateTime: 2022-12-05T08:54:00Z
@@ -157,56 +127,14 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Vision Screeners Market Size [2023-2028] | Industry Share, Growth Factor, Revenue And Trends Outlook Report"
-    excerpt: "By Types (Vision Screening TestTesting, Color Vision Testing, Binocular Testing, Others), By Segmentation analysis, Regions and Forecast to 2028. The Global Vision Screeners market Report provides In-depth analysis on the market status of the Vision Screeners Top manufacturers with best facts and figures,"
-    publishedDateTime: 2022-12-06T00:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/vision-screeners-market-size-2023-2028-industry-share-growth-factor-revenue-and-trends-outlook-report-2022-12-05"
+  - title: "Global Digital Transformation Markets Report 2022: Social Media, AI, Digital Payments, IoT Driving a Staggering $2000+ Billion Industry by 2027"
+    excerpt: "Telemedicine, AI-driven medical devices and patient care robots, and electronic health records are some ... to special purpose acquisition companies (SPACs) and start-ups operating worldwide. Some of the strategies among key players in the market for ..."
+    publishedDateTime: 2022-12-07T13:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/12/g29990671/global-digital-transformation-markets-report-2022-social-media-ai-digital-payments-iot-driving-a-s"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cold Working Die Steel Market Industry Analysis, CAGR Value, Business Strategy, Growth drivers, competitive landscape, Forecast by 2029"
-    excerpt: "Global “ Cold Working Die Steel Market ” 2022 Research report is an in-depth study of the market Analysis. Industry growth drivers, supply and demand, risks, market attractiveness, annual growth comparison,"
-    publishedDateTime: 2022-12-07T08:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cold-working-die-steel-market-industry-analysis-cagr-value-business-strategy-growth-drivers-competitive-landscape-forecast-by-2029-2022-12-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Iris Recognition Devices Market 2023 Company Overview, Industry Top Manufacturers, Size, Industry Share, Growth Analysis and Forecast to 2028"
-    excerpt: "The iris recognition device is a device that performs identity recognition based on the iris in the eye. Used in security equipment (such as access control, etc.), and places with high confidentiality requirements."
-    publishedDateTime: 2022-12-06T04:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/iris-recognition-devices-market-2023-company-overview-industry-top-manufacturers-size-industry-share-growth-analysis-and-forecast-to-2028-2022-12-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in Mental Health Global Market Report 2022: Ever-Surging Prevalence of Mental Health Issues Worldwide Drives Growth"
-    excerpt: "Global Market Outlook\" report has been added to ResearchAndMarkets.com's offering. The rise of digital approaches to mental health has led to the development of predictions, detections, and treatment solutions based on artificial intelligence (AI) and machine learning (ML)."
-    publishedDateTime: 2022-12-06T17:37:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/12/06/9725490.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 0
 
 secured: "3SLpF+DiEmunEgJwFeSz/cLvcdk+0rSn+GyiXgBQlAIbyQZpbR/zqp6uFcFLIpLiyvUWOET3SMhkmfY5PjXa2GvorX9Ek3AgNo7gLZwORbmr53267OMcjFCac93Nws7aZeMtnjVnZcXL1r/Ga8mebE7r6X/wHSz/MVZsYNticFIszjqX5eCwfacV6Ekwg3AVWISFhPPuVzE2Ivbp2gIOH196Ax1IT+BPYjgYg293F3dnnKNmBUW67VUnJdHcYXhcyQND5bE6UT1fUVScnzop78xSeIB7KLN6zWmCFrfZNHOu1LkclTo3Paa00iSL1wshcGz9B6dD3wQaKGsjqN6wtHi45eYQ3PY9otBcM2V8ddY=;mA/vtdYoOFuSqEwIhWRCAw=="

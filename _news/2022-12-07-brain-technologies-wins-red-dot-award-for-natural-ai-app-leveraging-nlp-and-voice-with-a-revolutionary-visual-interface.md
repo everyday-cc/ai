@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Lawful Interception Global Market Report 2022: Leveraging AI, Machine Learning and Blockchain Technology Crucial for Future Growth"
+    excerpt: "Market-trend-based strategies for the lawful interception market include focus on leveraging artificial intelligence (AI), machine learning and blockchain technologies, focus on strategic partnerships and acquisitions, focus on research and development ..."
+    publishedDateTime: 2022-12-05T08:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/12/g29953663/lawful-interception-global-market-report-2022-leveraging-ai-machine-learning-and-blockchain-techno"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29953663"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29953663"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
+        width: 800
+        height: 313
+        isCached: true
   - title: "Brain Technologies Wins Red Dot Award for Natural AI App: Leveraging NLP and Voice with a Revolutionary Visual Interface"
     excerpt: "Heading Brain Technologies' design is Chief Design Officer Gleb Kuznetsov, a world-renowned American designer who has received multiple Red Dot awards for his work. He has a successful career designing operating systems for some of the biggest consumer brands."
     publishedDateTime: 2022-12-07T16:03:00Z

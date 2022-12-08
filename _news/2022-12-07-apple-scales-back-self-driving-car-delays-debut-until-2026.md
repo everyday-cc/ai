@@ -49,15 +49,6 @@ related:
         width: 718
         height: 300
         isCached: true
-  - title: "Tesla didn’t say a word about Tesla Semi being equipped with Autopilot/Self-Driving"
-    excerpt: "Tesla chose to not say a word about Tesla Semi being equipped with Autopilot/Self-Driving despite the truck being equipped with the hardware."
-    publishedDateTime: 2022-12-03T18:35:00Z
-    webUrl: "https://electrek.co/2022/12/03/tesla-semi-no-word-equipped-autopilot-full-self-driving/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 43
   - title: "Audi's Project Artemis Self-Driving Plan Could Be Scrapped As Soon As This Month"
     excerpt: "Audi's autonomous driving project will likely be laid to rest this month so that the automaker can focus on other software developments. Instead of devoting too many resources to the self-driving dream, Blume is expected to announce a new roadmap for the ..."
     publishedDateTime: 2022-12-06T13:32:00Z

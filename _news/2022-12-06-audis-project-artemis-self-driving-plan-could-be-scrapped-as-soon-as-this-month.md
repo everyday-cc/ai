@@ -49,15 +49,6 @@ related:
         width: 718
         height: 300
         isCached: true
-  - title: "Tesla didn’t say a word about Tesla Semi being equipped with Autopilot/Self-Driving"
-    excerpt: "Tesla chose to not say a word about Tesla Semi being equipped with Autopilot/Self-Driving despite the truck being equipped with the hardware."
-    publishedDateTime: 2022-12-03T18:35:00Z
-    webUrl: "https://electrek.co/2022/12/03/tesla-semi-no-word-equipped-autopilot-full-self-driving/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 43
   - title: "Apple Scales Back Self-Driving Car, Delays Debut Until 2026"
     excerpt: "Apple Inc. has scaled back ambitious self-driving plans for its future electric vehicle and postponed the car’s target launch date by about a year to 2026, according to people with knowledge of the matter."
     publishedDateTime: 2022-12-06T18:22:00Z

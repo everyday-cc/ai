@@ -9,7 +9,7 @@ ampWebUrl: "https://www.perthnow.com.au/news/indigenous-australians/dutton-quest
 cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/news/indigenous-australians/dutton-questions-indigenous-voice-detail-c-9096241.amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "‘So juvenile in approach’: Opposition leader Peter Dutton takes aim at media in Voice debate as he demands more information"
+    excerpt: "Peter Dutton has called on the government to stop treating the public like “mugs” and provide more information about the Voice to Parliament."
+    publishedDateTime: 2022-12-08T10:18:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/so-juvenile-in-approach-opposition-leader-peter-dutton-takes-aim-at-media-in-voice-debate-as-he-demands-more-information/news-story/796376474046bde06f4d19e5f442694c"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/so-juvenile-in-approach-opposition-leader-peter-dutton-takes-aim-at-media-in-voice-debate-as-he-demands-more-information/news-story/796376474046bde06f4d19e5f442694c?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/so-juvenile-in-approach-opposition-leader-peter-dutton-takes-aim-at-media-in-voice-debate-as-he-demands-more-information/news-story/796376474046bde06f4d19e5f442694c?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 33
+    images:
+      - url: "https://content.api.news/v3/images/bin/a7dc9a5093cf2fb66bbe4186573bb542"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "KtgL6YczyVvVSWTFTgbM2soXiw2kzOAx22uphTgSmSFFsuGrbwlKskG2zsd6+hO0Tgz+jluR8VxpxYBXxXjfkO1Yjrsy6uEqoNcnAahB1PZoZMGkCkp5qXWt5bN0PJE2T26F+cEpwIVSSzD2CBEnqB7HQ6TCvYLN2XKAyKfyMiC2JBcCp3gmqcioHmtevHisAz7I1hBO+hcHN3fcyDUlSwt12Lcap2rduHmZGVHZNw0BJHP211yvKCT0T4miAAvfBzCKDeUqi7xT7Gw4SLiy1RKWHrA24+0Q+BoddpeYzGrFonuodNx4Y3/YqMcbZXOGzz4dxqLh69+i6kwKjzxzM5so4g3BA5qpwnp+TfrhpM8=;n+qiJ4/kQ3YvUq3VGY+TXg=="
 ---

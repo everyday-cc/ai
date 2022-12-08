@@ -27,183 +27,36 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Retail Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028"
-    excerpt: "Retail is a $3.2 trillion global industry and artificial intelligence (AI) is quickly becoming an important part"
-    publishedDateTime: 2022-12-06T11:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-12-06"
+  - title: "Brain Technologies Wins Red Dot Award for Natural AI App: Leveraging NLP and Voice with a Revolutionary Visual Interface"
+    excerpt: "Brain Technologies, a leading AI-powered technology company, has been awarded the Red Dot Brands & Communication Design 2022 award for best mobile user interface"
+    publishedDateTime: 2022-12-07T12:44:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/12/n29990576/brain-technologies-wins-red-dot-award-for-natural-ai-app-leveraging-nlp-and-voice-with-a-revolutio"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29990576"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29990576"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 49
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/1962499/Natural_AI_iOS_mobile.jpg"
+        width: 400
+        height: 300
         isCached: true
-  - title: "Artificial Intelligence & Advanced Machine Learning Market 2023 Industry Size, Trends, Growth, Insights and Forecast Research Report 2028"
-    excerpt: "The global Artificial Intelligence and Advanced Machine Learning Market size, revenue, distinct categories, drivers"
-    publishedDateTime: 2022-12-06T07:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-2023-industry-size-trends-growth-insights-and-forecast-research-report-2028-2022-12-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision Software Market Trends 2023 Industry Size, Segments, Share, Key Players and Growth Factor Analysis by 2026"
-    excerpt: "Global “ Computer Vision Software Market ” 2023 report presents an exclusive analysis of market size, share, revenue, production, consumption, gross margin, and price. The report offers elaborative data of leading market player's analysis and key factors that will affect the industry growth."
-    publishedDateTime: 2022-12-06T08:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-trends-2023-industry-size-segments-share-key-players-and-growth-factor-analysis-by-2026-2022-12-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Internet of Things (IOT) in Healthcare Market Growing at 17.30% During 2022-2027 | Industry Size, Share, Forecast and Report"
-    excerpt: "What is Internet of things (IOT) in healthcare Market ? Internet of things (IoT) represents an interconnected arrangement of devices linked to the internet and can gather and transmit data over a wireless network without any human intervention."
-    publishedDateTime: 2022-12-06T11:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/internet-of-things-iot-in-healthcare-market-growing-at-1730-during-2022-2027-industry-size-share-forecast-and-report-2022-12-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-Propelled Belt Loader Market 2022 Driving Factor Analysis with Trend and Forecast to 2028"
-    excerpt: "Further, the SWOT analysis & other techniques are utilized to investigate this data & provide an informed perspective on the state of the business to assist design the best growth strategy for any vendors or to current penetration into the present & and likely direction of the global Self-Propelled Belt Loader market."
-    publishedDateTime: 2022-12-08T01:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-propelled-belt-loader-market-2022-driving-factor-analysis-with-trend-and-forecast-to-2028-2022-12-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice And Speech Recognition Software Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028"
-    excerpt: "The market research study demonstrates the varied and extensive character of the \" Voice And Speech Recognition Software market \" and how the market will develop over the ensuing years. The report emphasizes information obtained 2022 to 2028 regarding the Voice And Speech Recognition Software market."
-    publishedDateTime: 2022-12-06T20:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-12-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Medicine Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028"
-    excerpt: "Artificial intelligence (AI) is a branch of computer science that deals with the design of intelligent agents,"
-    publishedDateTime: 2022-12-05T06:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-12-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Emotion Recognition and Sentiment Analysis Industry 2023 Market Size, Share, Growth, Sales and Drivers Analysis Research Report 2028"
-    excerpt: "The Global Emotion Recognition and Sentiment Analysis Market 2023 report is a thorough assessment of the worldwide"
-    publishedDateTime: 2022-12-05T08:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/emotion-recognition-and-sentiment-analysis-industry-2023-market-size-share-growth-sales-and-drivers-analysis-research-report-2028-2022-12-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The Neural Network Market research report gives the information on Industry Analysis database on this Market for period 2022 - 2028"
-    excerpt: "The \" Neural Network Market \" research examines seasonal trends and market shifts. The goal of this research is to provide you with a detailed, thoughtful record so you can profit from the market's evolving possibilities throughout time from 2022 to 2028."
-    publishedDateTime: 2022-12-08T02:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-neural-network-market-research-report-gives-the-information-on-industry-analysis-database-on-this-market-for-period-2022---2028-2022-12-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Vision Screeners Market Size [2023-2028] | Industry Share, Growth Factor, Revenue And Trends Outlook Report"
-    excerpt: "By Types (Vision Screening TestTesting, Color Vision Testing, Binocular Testing, Others), By Segmentation analysis, Regions and Forecast to 2028. The Global Vision Screeners market Report provides In-depth analysis on the market status of the Vision Screeners Top manufacturers with best facts and figures,"
-    publishedDateTime: 2022-12-06T00:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/vision-screeners-market-size-2023-2028-industry-share-growth-factor-revenue-and-trends-outlook-report-2022-12-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cold Working Die Steel Market Industry Analysis, CAGR Value, Business Strategy, Growth drivers, competitive landscape, Forecast by 2029"
-    excerpt: "Global “ Cold Working Die Steel Market ” 2022 Research report is an in-depth study of the market Analysis. Industry growth drivers, supply and demand, risks, market attractiveness, annual growth comparison,"
-    publishedDateTime: 2022-12-07T08:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cold-working-die-steel-market-industry-analysis-cagr-value-business-strategy-growth-drivers-competitive-landscape-forecast-by-2029-2022-12-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Iris Recognition Devices Market 2023 Company Overview, Industry Top Manufacturers, Size, Industry Share, Growth Analysis and Forecast to 2028"
-    excerpt: "The iris recognition device is a device that performs identity recognition based on the iris in the eye. Used in security equipment (such as access control, etc.), and places with high confidentiality requirements."
-    publishedDateTime: 2022-12-06T04:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/iris-recognition-devices-market-2023-company-overview-industry-top-manufacturers-size-industry-share-growth-analysis-and-forecast-to-2028-2022-12-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in Mental Health Global Market Report 2022: Ever-Surging Prevalence of Mental Health Issues Worldwide Drives Growth"
-    excerpt: "Global Market Outlook\" report has been added to ResearchAndMarkets.com's offering. The rise of digital approaches to mental health has led to the development of predictions, detections, and treatment solutions based on artificial intelligence (AI) and machine learning (ML)."
-    publishedDateTime: 2022-12-06T17:37:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/12/06/9725490.htm"
+  - title: "Brain Technologies Wins Red Dot Award for Natural AI App: Leveraging NLP and Voice with a Revolutionary Visual Interface"
+    excerpt: "Heading Brain Technologies' design is Chief Design Officer Gleb Kuznetsov, a world-renowned American designer who has received multiple Red Dot awards for his work. He has a successful career designing operating systems for some of the biggest consumer brands."
+    publishedDateTime: 2022-12-07T16:03:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/12/07/9726083.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 0
+    quality: 29
+    images:
+      - url: "https://mma.prnewswire.com/media/1962499/Natural_AI_iOS_mobile.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "ZXWpraKvkJxGtanXA9uAAfZQSIKqZWqHJKcOUlIPaqh1VnK2pQfaZEh6QuCxQMtMoMzaAQ9dogt4SmsyRHgYF1HjqDGCMgAgU4/qD8sji9Q7jcyQjKWO7tz1pEh/Z/9dRIj1Gsg/0sCNuFEvl5gTWFESWjmSmOSBbUZqo9V/omxxrJTjNb1qLnBAUGnJaGkOX4eQFRK+ryBWWhgpM1nV/ujnLBk1fKBSuBHyD2mQXm0/rOx18lBNq1aSbIxUBkoxo/TZvG6c/KhJ5KOKGNjcIedUmLLznvQYQIXiGy70GI4VIKV4DwcTqQOGmBLkh7QbY8ZzABr3ZDNUG8HhiLAw1nMRvLbcZ8u3yGqRFjlQ79c=;2vqo+ieVAi3UaWy4brQNRA=="
 ---

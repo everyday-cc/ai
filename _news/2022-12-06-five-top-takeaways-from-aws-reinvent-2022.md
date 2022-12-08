@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sustainability And Inclusion Take Center Stage At AWS Re:Invent"
-    excerpt: "Within the AWS leadership, there is a strong belief that technology should be built in a way that’s inclusive, diverse, and equitable and the company has a responsibility to make that happen. All Builders Welcome serves as a bridge between the current status quo and the future of tech. During the week, the grant winners had the opportunity to:"
-    publishedDateTime: 2022-12-03T18:22:00Z
-    webUrl: "https://www.forbes.com/sites/carolinamilanesi/2022/12/03/sustainability-and-inclusion-take-centerstage-at-aws-reinvent/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "AWS re:Invent 2022 round-up: Data management, AI, compute take centre stage"
     excerpt: "AI features added to multiple services To help enterprises get more of a return on their data, AWS added new artificial intelligence (AI) features to a range of other services, including Textract, Transcribe, Kendra, CodeWhisperer, and HealthLake."
     publishedDateTime: 2022-12-05T03:11:00Z

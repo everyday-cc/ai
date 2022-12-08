@@ -7,8 +7,8 @@ originalUrl: "https://www.reseller.co.nz/article/703800/aws-re-invent-2022-round
 webUrl: "https://www.reseller.co.nz/article/703800/aws-re-invent-2022-round-up-data-management-ai-compute-take-centre-stage/"
 type: article
 quality: 52
-heat: -1
-published: false
+heat: 72
+published: true
 
 provider:
   name: Reseller News
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sustainability And Inclusion Take Center Stage At AWS Re:Invent"
-    excerpt: "Within the AWS leadership, there is a strong belief that technology should be built in a way that’s inclusive, diverse, and equitable and the company has a responsibility to make that happen. All Builders Welcome serves as a bridge between the current status quo and the future of tech. During the week, the grant winners had the opportunity to:"
-    publishedDateTime: 2022-12-03T18:22:00Z
-    webUrl: "https://www.forbes.com/sites/carolinamilanesi/2022/12/03/sustainability-and-inclusion-take-centerstage-at-aws-reinvent/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "Five top takeaways from AWS re:Invent 2022"
     excerpt: "This is an interesting contrast to CES 2022 that kicked off the year, which drew about 45,000, way down from the close to 200,000 it typically gets. To me, the massive draw for re:Invent indicates that live events are back and people have a thirst to not just to connect with their peers but to engage actively,"
     publishedDateTime: 2022-12-06T01:09:00Z

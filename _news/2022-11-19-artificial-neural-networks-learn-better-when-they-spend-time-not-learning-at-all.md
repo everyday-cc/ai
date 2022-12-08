@@ -2,7 +2,7 @@
 category: news
 title: "Artificial neural networks learn better when they spend time not learning at all"
 excerpt: "Artificial neural networks learn better when they spend time not learning at all Periods off-line during training mitigated 'catastrophic forgetting' in computing systems Date: November 18, 2022 ..."
-publishedDateTime: 2022-11-19T01:29:00Z
+publishedDateTime: 2022-11-19T01:31:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2022/11/221118160305.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/11/221118160305.htm"
 type: article
@@ -19,6 +19,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "M9rM2JA1LAWoSPnxMb6FjlzsGMWMtMZcEZyMYzMSyJ532ToCM3JWqNPmRk7z/rFfw1hnoHj3hsurYhoTiYW3gRux+zRgX7JLOGuG8c4wYR+Sx2WwhBpbXQNL5VCIRz/ghx9Vn9eEM11AwfmEQ27aFwHMHTXr405ok1y+DPtX91/ZK31kPEEIJc4oZQ6e9UTdGFFkiDPJ/Ms59/zyzPMU8VeNl9V+q3U55drQjo5b7v9xQD+H3RLVB0I/UJMXmoc8HmCTiaxehiu5RStRxSvhjUllfIUgXUBANsL0hEdk3GVN04Ir3hzpI2mXiWp8TMGaYi7CjgDLFA3v5QNAsnDuSqbIrZh8d52nStfSh93RsOs=;7b69f4Oz4y9HJHFZIVt3xw=="
+secured: "+3hffUn0HmqVm+TVyQySDTM5WWoH807RAZR/7r9rWl7Tr2mCvlcnMnUyJ81dbct64HGEARa8DwETOu6K35Gu546bL7sI1TGR+UUjrNbNw5yScsrG6jmEQB8LHdIwkIzux5W2gmYzmPSqBzlMImtggI33tQqZSnVzgrkNEyBLFBC04a1lxUU7hs2PoZxdLUYEichHQ2ME2Nxp1hWq5Dtyl9ctqThB4ZPlqOUD28Bd5TwkmMxBVIkdf7ML3lZq/dhuvrTwjcQ833xuEjD/5cNkwL+zy24NQ7KL5kjixzOmtxGYXbLRI18xN96EsbM2ChL8OU77n6XVVJkj6T9rXwrmsL/eAOdBaBeBaC/Bf5WYdTo=;T3Y8McJTimlUrTAkxYKGwQ=="
 ---
 

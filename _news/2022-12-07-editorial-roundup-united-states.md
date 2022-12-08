@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Editorial Roundup: United States"
-excerpt: "Excerpts from recent editorials in the United States and abroad: Dec. 5 The Washington Post on microchips, the U.S. and the future When President Biden visits a microchip factory under construction in Arizona,"
-publishedDateTime: 2022-12-07T11:10:00Z
-originalUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2022-12-07/editorial-roundup-united-states"
-webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2022-12-07/editorial-roundup-united-states"
+excerpt: "The problem is that, right now, the United States can't depend on a steady supply of chips, even though the design and software are mostly developed here. After half a century of global outsourcing, the manufacturing process has been dispersed,"
+publishedDateTime: 2022-12-07T10:09:00Z
+originalUrl: "https://www.startribune.com/editorial-roundup-united-states/600233724/"
+webUrl: "https://www.startribune.com/editorial-roundup-united-states/600233724/"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: San Diego Union-Tribune
-  domain: sandiegouniontribune.com
+  name: Star Tribune
+  domain: startribune.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "HziNIHe2suQWs7+GbmWoSsiuPc1HEbdFd4ic0nBWQvKsnEUwW/ApRDyW5k45ASK6dPwKj9Teurt9Xqaiqxb7sQCOVlZKKMDL5Q3RmyUtKqW1S+9AyePOuzmKT3ke6vYlauHUDwi1yExttqCZSHxRjK460n7IvhrkbDzjXfXShto/N6E+VpIBX/AgqNyD6ClDqdpLHlPZX8lyZAAGmz6Bi8qpK1xm64IqxfVOLctVXI3hCEy0TUI+Vgr1LV37CZCYYuaP9x3U4o0flutsE789/IsyIqsK0JYkztfLrhKF7wFAkO28PyJzQ/fYcNMmTiwtY2UXsRPvmdBQQpPHTJpnE76xEj2gH7+tlzb6iXND3k8=;qbCCrbk9F+hJDtmGxlUpqw=="
+images:
+  - url: "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1670365160"
+    width: 1680
+    height: 876
+    isCached: true
+
+secured: "Te/E7LSeKLSq1ByQ5gy4yOfaPVsQ9+t+ADWaSXxGqgIm5J9vY0/EyhEbzMLgN7z37Is57l1FPnBwb2zFeFNAh6wq9NK4ewPaxmHsEVgnldJHqR9D85TLFty8RUoOTrf745hKP625PJ7y0I9Vva1OIZCzCNlJLtZN9JgeeXeYBDAk3L3kjlMZ+ZxJ9rPyp3ikmnAfn5hEisQXbIx/8aqAHUhMPbxwQ6H18Mr4P+N/hix+3FKUy9IdwmpRmJhXjyjLzoEmVTpm7RWKpU72akk7rk1J/bFEVDxG07wBVFYiI6ahgQyyN7O+e9ZxWbRSeM3mXvEs4EKLTpoyWQ5FK0NpGbsMhIlud2H5phGKU+WoUpM=;AmpWhN2f2TAB5BfqtkFcCg=="
 ---
 

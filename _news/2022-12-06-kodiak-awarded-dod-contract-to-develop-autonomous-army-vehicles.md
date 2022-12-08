@@ -56,6 +56,20 @@ related:
         width: 470
         height: 246
         isCached: true
+  - title: "Self-Driving/Driverless Cars Market 2022 - Key Drivers, Top Countries Data with CAGR Value, Qualitative Outlook and Forecast by 2028"
+    excerpt: "The researchers have collected critical data relevant to the Self-Driving/Driverless Cars market and analyzed it with the help of recent research methodologies. The analysis is validated by professionals in the Self-Driving/Driverless Cars industry,"
+    publishedDateTime: 2022-12-06T23:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-drivingdriverless-cars-market-2022---key-drivers-top-countries-data-with-cagr-value-qualitative-outlook-and-forecast-by-2028-2022-12-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Pentagon Awards $50M Contract for Autonomous Ground Reconnaissance Vehicles"
     excerpt: "Kodiak will leverage its commercial self-driving software to develop, test and deploy autonomous capabilities for driverless vehicles."
     publishedDateTime: 2022-12-07T16:01:00Z
