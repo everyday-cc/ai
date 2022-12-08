@@ -2,7 +2,7 @@
 name: "CognitiveScale"
 overview: "CognitiveScale is an enterprise AI software company with solutions that help customers win with intelligent, transparent and trusted AI/ML powered digital systems."
 type: "profile"
-heat: 57
+heat: 50
 
 website: https://cognitivescale.com
 
@@ -42,6 +42,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "H4NE7NH1O68UhEVJs+eM5bNQjRa+t984OLW/fOPQ8c5ArLVOndEvgBPlwJ6WPs3F9fNjo2jsxSZrgPKXWmMKBBMrHsZzK0kUcrD3kNrRIOq6nJ2+zAXtJGGmmQG59HTGDtFpDgjVNP8nvzxl18CvBo63yupVGD5HXOd1cQsG5pNVBsQpqS2+EB/7JV52rX0xwjk9OOla8rBa/GWvVwIJ1Ts2QGhE4AwhsQSxs4pXReqdkt+UmHeJduQvisSCmfLw2o5W6OEdDR6GO+OomjI96W3jj2X3XuzvZe9mI+QrYfdeODRFg191AydbqbLiQJ9wEXylxJJJTFn8VTiNPcjE3cPMtYF4kMG/F2U/VOYt4LeUF9ljL/bP/th9X0zc0f4Bn8clxi1PfOOomacOCsiZPaeAHwWPatzlx2rnJRHD6Xs=;r/p4Xup6QLKgzoAEO6no1Q=="
+secured: "cZPtrtKWovK33ae1IC/g5UKRKdDsNJeXu/QH8FSXrSAplYGCFJYBp+KAQrJUW60iHXDAJEHvThTYM5VL9lbQRj1zzxniMqpO0sJ5m4xdU5rkvqwAxaYQTM+gcabjJyp3LuiUdbQ/+JH3y6Bd9LB5N8nf40nx6OB/vcEbme3Tq9IT4o+cfPEl/B5+XkaY8++r4hyFUMQzz0f0yvqJaJYJzO0wdOonjlNY3zpYMZ1uwxF5P7kpR1YhBjjBV8USx3oNeNgv1OwZEcQ2/CMt0QguqiJ311usL6Iuy2lmMJgIc8yHHk2URSP3OU2hfudb4k8LGEMX1P2iVxpQVU4svNmaR+29Y9Y0t79FCPAbkDn/yr+M1kh0CHwQBbMoBeAoMW4RKh/pZqYkFlXCb9RCcqSnfpAaMF//6E4i5h+JR9fmtUM=;GpUKRpF/+A1YDB1mZQ05EQ=="
 ---
 

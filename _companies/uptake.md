@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "uptake"
   url: "https://twitter.com/uptake"
-  followers: 5112
+  followers: 5111
 
 locations:
   - Chicago, IL
@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "Uptake Technologies"
 
-secured: "4byJzXFOqaaxZAYlCs1h58bmrqGB0KjR39HgsBbWVOQWDA/NbYtI5Fl+qAsJzpViOBRHWUdxwq6qoM2ee/j3dyIngbWqvrfWmD8aTGs/SeyCPOZ6L/9SeGlrQL/FM8YqU3oiWwpnfUW1kosb/3lkJ+wRh4d/fVeFGP5ohPvyWf8CpXH/lWCygR56ZKpH9Acr3OXw/4v0OtlQPDrDca+OZLXhz7zFFLPQOqYvVUT9VSbTjBr3NspZ73RxQ5fud1kGz82hkuMbi8D3JBcbQBA4wqa2DFwK/qPRSITEJBAyBwuxmQD5gYEzSh8bjLjzRncZWET+wVw/TxzF+H+BeyYayrfBgIwxMDxQSKpye+az1K+Rr+nWEBx48SJhWXdypRBTW2AINU52W9N2wzrJZJLYvjLNamQaCH0GWUHU40y5sng=;6TqZeAAK8czc+EX4zBUytA=="
+secured: "PQRHIfqLdA96FbWeC5HkkGNiL2oHBumJMAHIyFS7p4+1DUr0rxOIeiWje4tfY1QGACm3s7MW+EdzddAgKYiskIxXd32XiH3+3b5To0bmiiQT3jW+72IoXWYJggKkINyYwNwAbiZCXpJtFM5NdYPYB+fxUVYAdUnSknEeWykxczRxmpZ7t8aiiDzJO30DUWf58mQVDX6LaiCHWO7ABQq5mL13kcD6lgt2SLmuQ04OruaKEN3MVMSrKqHhoungFZT0ROPkiHE5s/WCv2PAQ5dXi8lO3pAiHjGnesPCI17i7yGkepuJvsahVFWNtz6IT1sbQSfwNQn/pD6uoKzflafRzrsJuJCaqnMSLDsR2cth9P+Wr4JTLKGR/pQjjoW8kdmiFLqm+MVG9/x5ItOP2W0JCkF7uc8yEViXFYBUD09L36Q=;QkVBSwZwVdPi0e2LmwMbeg=="
 ---
 
