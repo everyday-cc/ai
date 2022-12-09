@@ -81,6 +81,20 @@ related:
       name: Financial IT
       domain: financialit.net
     quality: 38
+  - title: "7 FinTech tweets you should see!"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2022-12-09T09:08:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/7-fintech-tweets-you-should-see-6/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/FinTech-Funding-wealth.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Sunwest Bank Secures Multiyear Partnership with CRE FinTech Blooma"
     excerpt: "Sunwest Bank announced the renewal of its partnership with emergent FinTech, Blooma, as part of a larger digital transformation initiative. The multiyear contract represents a longstanding relationshi"
     publishedDateTime: 2022-12-05T12:24:00Z

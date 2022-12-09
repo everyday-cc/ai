@@ -7,7 +7,7 @@ originalUrl: "https://www.deepmind.com/blog/competitive-programming-with-alphaco
 webUrl: "https://www.deepmind.com/blog/competitive-programming-with-alphacode"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind’s AlphaCode is Now Available on GitHub"
+    excerpt: "AlphaCode has already made waves through its potential to beat computer programmers by analysing algorithm and generating complex programmes."
+    publishedDateTime: 2022-12-09T09:34:00Z
+    webUrl: "https://analyticsindiamag.com/deepminds-alphacode-is-now-available-on-github/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/deep-1.png"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "Are ChatGPT and AlphaCode going to replace programmers?"
     excerpt: "OpenAI and DeepMind systems can now produce meaningful lines of code, but software engineers shouldn’t switch careers quite yet."
     publishedDateTime: 2022-12-08T19:48:00Z

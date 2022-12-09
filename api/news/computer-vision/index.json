@@ -255,49 +255,6 @@
       ]
     },
     {
-      "path": "_news/2022-12-05-blinken-vows-us-support-for-israel-despite-unease-over-govt.md",
-      "title": "Blinken vows US support for Israel despite unease over govt",
-      "excerpt": "The Biden administration will remain a stalwart friend of Israel even as it pursues goals that Prime Minister-elect Benjamin Netanyahu has opposed, the U.S. secretary of state said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/politics-news/blinken-vows-us-support-israel-unease-govt-rcna60033",
-      "originalUrl": "https://www.nbcnews.com/politics/politics-news/blinken-vows-us-support-israel-unease-govt-rcna60033",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-12/221204-antony-blinken-j-street-jm-1424-72ea13.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-04T12:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-04-scientists-facial-recognition-could-help-to-save-rare-seals.md",
       "title": "Scientists: Facial recognition could help to save rare seals",
       "excerpt": "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for it",
@@ -1402,6 +1359,49 @@
         "Computer Vision",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-11-23-a-simpler-path-to-better-computer-vision.md",
+      "title": "A simpler path to better computer vision",
+      "excerpt": "A simpler path to better computer vision Date: November 23, 2022 Source: Massachusetts Institute of Technology Summary: Research finds using a large collection of simple, un-curated synthetic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221123125132.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221123125132.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

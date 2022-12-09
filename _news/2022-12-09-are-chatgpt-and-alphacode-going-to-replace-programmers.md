@@ -40,6 +40,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "DeepMind’s AlphaCode is Now Available on GitHub"
+    excerpt: "AlphaCode has already made waves through its potential to beat computer programmers by analysing algorithm and generating complex programmes."
+    publishedDateTime: 2022-12-09T09:34:00Z
+    webUrl: "https://analyticsindiamag.com/deepminds-alphacode-is-now-available-on-github/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/deep-1.png"
+        width: 1366
+        height: 768
+        isCached: true
 
 secured: "RAKIiY4arTapZAtB8kylQsZq9/T5FXgQgRMlJPHS75DmYsGsFnHJIGtzUyfjEifWwmcYn0/HNehQJKuis8E4NEWejAwhLUYiCCQhzP/d9FLn3mmQa8+9SX5x/exhvt7cHB/klOqWFlLrb2h6Ocuovjgjw1HIfooRtvlBQRRoZStl0VGYZRsZanWcTphVI341gyQJ9SsC4i+lIqVdTaTu1pDM2HQwbCotSrI9q4LlI5HDTzif1mzj2UKrFqXjpIlGz3J9oFIzKuwjRt2aAVyXehcybAXl+iPLSR3stEb4vpDpfQJs3GrYwNAloZynQYSHiHRYhHmk+krJR3rUwPweVnVx81FfySJRL4QbvDMahko/C74MjQ3eTccxavbl3/IpgDMTEoXPZnTu2ONyF9VmKWn7KpOD9D/Llcs73nGhazfM2fKJ+88laOWyrfT/NQPj3Yqz+ueD00yemMm8O5kWtLpG58aSUINplInVxTVHwba3vCov4KXO1hnyoLbFbHDvxLQGW47BmZ4V1vt36Pj8qw==;jdYFenhuEpAMUlR5g0pFMQ=="
 ---

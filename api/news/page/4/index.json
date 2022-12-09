@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-12-06-14-innovative-ways-agencies-are-leveraging-machine-learning-ad-tools.md",
+      "title": "14 Innovative Ways Agencies Are Leveraging Machine Learning Ad Tools",
+      "excerpt": "Here, members of Forbes Agency Council share impactful ways agencies are leveraging ML advertising tools. Read on to learn about a variety of innovative ways agency pros are using ML to better reach consumers and attract more targeted audiences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/12/05/14-innovative-ways-agencies-are-leveraging-machine-learning-ad-tools/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/12/05/14-innovative-ways-agencies-are-leveraging-machine-learning-ad-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/638e23847ed4f1a8cd55d451/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/12/05/14-innovative-ways-agencies-are-leveraging-machine-learning-ad-tools/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/12/05/14-innovative-ways-agencies-are-leveraging-machine-learning-ad-tools/amp/",
+      "publishedDateTime": "2022-12-05T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-dubais-tech-pitch-to-the-world.md",
       "title": "Dubai’s tech pitch to the world",
       "excerpt": "Having offices in the emirate makes it easier for Indian startups to hire global talent, and it also makes it easier for the Dubai government to source good tech talent from India. High net-worth individuals (HNIs) and entrepreneurs from India are being lured to Dubai by tax reliefs,",
@@ -455,49 +507,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-05-blinken-vows-us-support-for-israel-despite-unease-over-govt.md",
-      "title": "Blinken vows US support for Israel despite unease over govt",
-      "excerpt": "The Biden administration will remain a stalwart friend of Israel even as it pursues goals that Prime Minister-elect Benjamin Netanyahu has opposed, the U.S. secretary of state said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/politics-news/blinken-vows-us-support-israel-unease-govt-rcna60033",
-      "originalUrl": "https://www.nbcnews.com/politics/politics-news/blinken-vows-us-support-israel-unease-govt-rcna60033",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-12/221204-antony-blinken-j-street-jm-1424-72ea13.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-04T12:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },

@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Sunwest Bank secures multiyear partnership with CRE FinTech Blooma"
+title: "7 FinTech tweets you should see!"
 excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-publishedDateTime: 2022-12-06T10:08:00Z
-originalUrl: "https://ibsintelligence.com/ibsi-news/sunwest-bank-secures-multiyear-partnership-with-cre-fintech-blooma/"
-webUrl: "https://ibsintelligence.com/ibsi-news/sunwest-bank-secures-multiyear-partnership-with-cre-fintech-blooma/"
+publishedDateTime: 2022-12-09T09:08:00Z
+originalUrl: "https://ibsintelligence.com/ibsi-news/7-fintech-tweets-you-should-see-6/"
+webUrl: "https://ibsintelligence.com/ibsi-news/7-fintech-tweets-you-should-see-6/"
 type: article
-quality: 39
+quality: 24
 heat: -1
 published: false
 
@@ -19,9 +19,9 @@ topics:
   - AI
 
 images:
-  - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/AO_400x224_Ten-steps.jpg"
-    width: 400
-    height: 224
+  - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/FinTech-Funding-wealth.jpg"
+    width: 300
+    height: 300
     isCached: true
 
 related:
@@ -64,6 +64,20 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "Sunwest Bank secures multiyear partnership with CRE FinTech Blooma"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2022-12-06T10:08:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/sunwest-bank-secures-multiyear-partnership-with-cre-fintech-blooma/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/AO_400x224_Ten-steps.jpg"
+        width: 400
+        height: 224
+        isCached: true
   - title: "Why Ethical Sales Enablement is Essential in Fintech"
     excerpt: "Sales enablement has become an increasingly important part of business strategy throughout the course of the last twenty years, enabling companies to maximise the potential of every customer contact while enhancing productivity and efficiency."
     publishedDateTime: 2022-12-05T18:18:00Z
@@ -73,20 +87,6 @@ related:
       name: Financial IT
       domain: financialit.net
     quality: 38
-  - title: "7 FinTech tweets you should see!"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2022-12-09T09:08:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/7-fintech-tweets-you-should-see-6/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/FinTech-Funding-wealth.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Sunwest Bank Secures Multiyear Partnership with CRE FinTech Blooma"
     excerpt: "Sunwest Bank announced the renewal of its partnership with emergent FinTech, Blooma, as part of a larger digital transformation initiative. The multiyear contract represents a longstanding relationshi"
     publishedDateTime: 2022-12-05T12:24:00Z
@@ -106,6 +106,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "hsKqUssFS9POReaMU4H535kT2FzQD1hkXrN8p1jpnXnRoljuqeBtaGxOHrtTfRF5BjEinbPJhZiyoyz7JwJlxENqy7iTtReb7CoW82CLXYe0m32AsmwbehwW0ez5IJBtyEHPAkAeXJLhPUFv6Jqey3fGTmgzTyWW4HSfuwjlGQKZ5+LkhawGXoCg2uzIqWjkce3MQr5y2LtmZesbRx7qWuf1ffzGDLGOkId5T/V2g+PnK7+UEmn1szYP5cPH8kGlkIKBB/yBdeqyxrV/Pq8eXPAq/n45RowJHHukeSxRrbfhjDaP7bgLs20nwmiX3IpGP+xUDY/f8HHzav/tPycoGWzpm+A9IgD9zqRD7JGEF0O5W4gYUziKCISKAkH7Zt/4XOfHwNL27Vi2U/EsNVKwNiZgUZJKw0XXxWdQwBh4lP8aiClKsYDgtp694aEgsz2ULlc+8TlwnndLMhr5orZOSnQrT54VNc4uxzf/hteIzAutcg48cYZ84nHxqixhIbOo2ybxiYb1OliqVbwqVRny3g==;Ol4vks30hQztYOpOA+f79A=="
+secured: "xRFe2MeFLXkSu9Z52WlxMEe5uFInAuN0BmRSt2S7KzjPBX+LrizGpgavLyIoixLD4VMsf1tJVCPUrHPFNAP2c4vMKfQdgpdVNlinaIKLNkLAgjQDVuEgVZo31ADeJwsLwFtjl2YABxPraH/MBkbq55n3yaAEGnrhxFMqLYMAW+8bn13x8IPQsUDH6+qYiwjFdCe8CAYSYv+o9AcVlHWbwWYJDU98Z7MSEZsAHSmpleHi3UvW2lolKOkDuKP3aXs4PxFjkfLiRKezwbFQMSYOoyDtam0m2md2wEt/gWNWmzZiYVGczEG8/KzzbZU/D8IPokkcmRcl301WoLDkTVbyednhMXde+3CdNS6uitr/qAQ=;vbwPZGJn/FqK3nEaHxf2RA=="
 ---
 
