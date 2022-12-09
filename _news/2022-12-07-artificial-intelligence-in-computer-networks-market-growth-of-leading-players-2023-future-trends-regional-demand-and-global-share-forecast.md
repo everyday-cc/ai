@@ -140,6 +140,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Food and Beverage Market : Share, Industry Size, Opportunities, Analysis and Forecast to 2028 with Top Countries Data"
+    excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence in Food and Beverage Market will have significant change from previous year. By the m"
+    publishedDateTime: 2022-12-09T12:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-food-and-beverage-market-share-industry-size-opportunities-analysis-and-forecast-to-2028-with-top-countries-data-2022-12-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "tv4yXtadKbKnomJBZHTqlFLXxqNaOvRdpeT1+2U21m++R55kXph9ViMmUMYQ0ZUtrnp8boJ0H5wp07JNP+6Vq/xDZ1P+z12EGCoEP6em6sl8Ta/1p8OSnUV0Zw+ztimMzr5inTY+47YxncVB4x3SM03wnLARxb60m9k/EJ+iKfsdgd7+kYAZ8h3qBbNx5pm5r+xqTzZKwvNTBqY4Co/FccEYcvzQslg2wPYJILpTUFV/GvNZsSzJNZ+36FLPL4RxuXcmapZSfaQKh5SJrCZw2KoCiazxQ3QrtM+8lt4nmhi7S/NLJkLeh0J0EXKCfVlutVPKWkTBjFAVfR+8rof2AUkARtZy0ZFuXxm7LjxOQVI=;B1LNbyNRir7rqJ61MBWhqg=="
 ---

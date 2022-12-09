@@ -41,6 +41,22 @@ related:
         width: 2048
         height: 1536
         isCached: true
+  - title: "How businesses are deploying facial recognition"
+    excerpt: "As facial recognition software becomes easier to acquire, businesses are using it to surveil and analyze customers. Bloomberg's Parmy Olson explains where and how the technology is being deployed."
+    publishedDateTime: 2022-12-09T18:41:00Z
+    webUrl: "https://www.wuwm.com/economy-business/economy-business/2022-12-09/how-businesses-are-deploying-facial-recognition"
+    ampWebUrl: "https://www.wuwm.com/economy-business/economy-business/2022-12-09/how-businesses-are-deploying-facial-recognition?_amp=true"
+    cdnAmpWebUrl: "https://www-wuwm-com.cdn.ampproject.org/c/s/www.wuwm.com/economy-business/economy-business/2022-12-09/how-businesses-are-deploying-facial-recognition?_amp=true"
+    type: article
+    provider:
+      name: WUWM
+      domain: wuwm.com
+    quality: 59
+    images:
+      - url: "https://media.npr.org/assets/img/2020/03/04/manoush-zomorodi_bio_photo-1_vert-bf366cf2e0a689ea87422c5de657f381d9d43437.jpg"
+        width: 2096
+        height: 2794
+        isCached: true
   - title: "Cops Say They Only Use Facial Recognition for Leads, But It’s Often the Sole Basis for Arrests"
     excerpt: "The anecdote opens a landmark report on facial recognition from the Georgetown Law Center on Privacy & Technology, which found that law enforcement agencies are often using the technology as the sole basis for putting people in jail despite claiming they don’t and despite a growing body of evidence that the technology has serious problems with accuracy and bias."
     publishedDateTime: 2022-12-06T22:55:00Z
@@ -130,6 +146,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/27132556/data-privacy-scaled.jpg"
         width: 2048
         height: 1257
+        isCached: true
+  - title: "Brazil deploys ISS facial recognition to secure São Paulo metro"
+    excerpt: "The system connects to a centralized control center enabling real-time detection of suspicious activity and automatically triggers alerts for operators."
+    publishedDateTime: 2022-12-09T18:20:00Z
+    webUrl: "https://www.biometricupdate.com/202212/brazil-deploys-iss-facial-recognition-to-secure-sao-paulo-metro"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/25124039/Sao-Paulo-metro-scaled.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "TSA to Expand Facial Recognition Tested in DFW to Airports Across America"
     excerpt: "American Airlines launched Mobile ID at DFW Airport, enabling customers enrolled in TSA PreCheck to “breeze through the airport with just their phone and their face.” The TSA has since expanded the use of facial recognition technology to 16 airports—and it now plans to roll out the optional service to airports across the U."

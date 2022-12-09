@@ -7,7 +7,7 @@ originalUrl: "https://www.wwno.org/npr-news/2022-12-09/how-facial-recognition-al
 webUrl: "https://www.wwno.org/npr-news/2022-12-09/how-facial-recognition-allowed-the-chinese-government-to-target-minority-groups"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "How facial recognition allowed the Chinese government to target minority groups"
+    excerpt: "Journalist Alison Killing explains her investigation in Xinjiang, China, where the government has used facial recognition cameras to track Uyghurs and detain them in camps across the region."
+    publishedDateTime: 2022-12-09T18:43:00Z
+    webUrl: "https://www.wuwm.com/health-science/health-science/2022-12-09/how-facial-recognition-allowed-the-chinese-government-to-target-minority-groups"
+    ampWebUrl: "https://www.wuwm.com/health-science/health-science/2022-12-09/how-facial-recognition-allowed-the-chinese-government-to-target-minority-groups?_amp=true"
+    cdnAmpWebUrl: "https://www-wuwm-com.cdn.ampproject.org/c/s/www.wuwm.com/health-science/health-science/2022-12-09/how-facial-recognition-allowed-the-chinese-government-to-target-minority-groups?_amp=true"
+    type: article
+    provider:
+      name: WUWM
+      domain: wuwm.com
+    quality: 55
+    images:
+      - url: "https://media.npr.org/assets/img/2020/03/04/manoush-zomorodi_bio_photo-1_vert-bf366cf2e0a689ea87422c5de657f381d9d43437.jpg"
+        width: 2096
+        height: 2794
+        isCached: true
   - title: "Chinese release a fully autonomous electric car"
     excerpt: "In the shops in 2023A startup called Jidu Automotive, backed by Chinese AI giant Baidu and Chinese carmaker Geely, officially released an autonomous electric car. Dubbed the Robo-01 Lunar Edition, the car will go on sale in 2023 for $55,"
     publishedDateTime: 2022-12-05T08:40:00Z

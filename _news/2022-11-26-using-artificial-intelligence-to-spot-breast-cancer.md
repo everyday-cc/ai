@@ -1,19 +1,15 @@
 ---
 category: news
 title: "Using artificial intelligence to spot breast cancer"
-excerpt: "Reporter: Chhavi Sachdev, camera: Rajesh Sharma, producer: Richard Kenny Using artificial intelligence to spot breast cancer. Video, 00:02:15Using artificial intelligence to spot breast cancer Up ..."
-publishedDateTime: 2022-11-26T13:36:00Z
-originalUrl: "https://www.bbc.com/news/av/stories-63755128"
-webUrl: "https://www.bbc.com/news/av/stories-63755128"
+excerpt: "Breast cancer is an increasing problem in low and middle-income countries, but screening programmes for early detection are rare. A company in India has developed a cheaper, non-invasive test that ..."
+publishedDateTime: 2022-11-26T09:46:00Z
+originalUrl: "https://www.bbc.co.uk/news/av/stories-63755128"
+webUrl: "https://www.bbc.co.uk/news/av/stories-63755128"
 type: article
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI in Autos
@@ -25,6 +21,6 @@ images:
     height: 576
     isCached: true
 
-secured: "mIBiZKxO+yF3kMYvhgkPK0CadcowwLJ/3gTysmkiZ8aGuOEYDsgzrVpFXWPZ83P9WYmmxPzt8GBaaj96mjKWS5sA8Hb/s7TO78k8y8NR3KFGA2XaJLZMhMUwDGw0vilVDA8zBOANfzZLJHBukKZFTrLJruURwNgJ2zQYIN7f65UHbOk/cBAfcqcIRizY3VxT7KHt++ol8KeYWqAPOTH5X4AbSDJtlpdONii4Ju4el07qTn1UGqdAaZO1GdWGxHr7UmIITXz2ncZeh6nt8sni86BpbWkBNC4XVaD6A1m6niOrNev5l9qT+NeN67+eCAn+9nFQRs6t25LgXzj9PPqFBswNNNkBNod9MV8BLBqu2xY=;sAKtm47/tTrjshuVDbk9FA=="
+secured: "nPR2u6Za3zxa2PV0/jGD0WeEmZyLVhc1FNCd+/4Oft2IfejBSLykbV1lBYi3mktObssBEDGXK+EpBxJJ7FNkm0hJ/M3a0+iRdnTeU3mUaNGAIUlw5x6LmCnXReaAKmwYqAx5Cxy8kCIMM182JatSiPU7A8gDT1AzRIODlwJ4Uaxfw++4sic6zaaqU+GlY2XUszgiD+S7eexhQOGXPC5RU36vptEO6h77b+mPG18btniPUjPgBLdfbMF5eDq7ehPKZCtU1xdOHdkIUrB4DXHvGte20ymoG+RIWWL02nZrTyaXKksTxOsXqya35M3dF0YSApOFrvnNdpldBGwWCipFq4NZjsj++G4fPxbEEZnKm0M=;2JsGsWzgHFU8nmTl0NH/kg=="
 ---
 

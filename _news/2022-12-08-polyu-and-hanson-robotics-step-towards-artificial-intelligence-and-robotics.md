@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/polyu-and-hanson-robotics-step-toward
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/polyu-and-hanson-robotics-step-towards-artificial-intelligence-and-robotics/amp/"
 type: article
 quality: 88
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 600
     height: 315
     isCached: true
-
-related:
-  - title: "Dubai steps up automation, robotics in aviation, logistics sectors"
-    excerpt: "The trio of agreements aim to deploy advanced future technologies across aviation and logistics – two vital non-oil sectors for Dubai and the UAE. These national partnerships aim to activate the Dubai Robotics and Automation Programme that was launched last September to boost the development,"
-    publishedDateTime: 2022-12-05T03:00:00Z
-    webUrl: "https://www.zawya.com/en/business/aviation/dubai-steps-up-automation-robotics-in-aviation-logistics-sectors-i5ygm0bo"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 49
 
 secured: "yTTB+UvUI6kvl66Oml4yILqiMA1vYhsh41aLvg5RpLBTz6EB5cR0cIfNVGtbBaM7HxnJLXGvE3aWauhfDz6WMGIK8FpikpdXpPkrN1qaUmW41xrp7w4OKgW0v3UMMFSxW8irNa3P5V/yrGikJFlQXosgs9SqSdx2iJC3/r3q01kjpJr79QQ/QVmwkHVEynaSxoJS9FhouGL1bQmzjFFmReeM3k/fcZ+z0JZc3bKvkIkYXXalOVI/Py6kxA+HF+OPkdM5Ig78Bh5qrJYGgFL//drESRR8DBIpE4rlgPImte7RoU6US0sRFBG2ySUozbagk/f7yrnaijlcO34MQj/1WUUZTRH9zSQ/kgoZA+145MEI0Oq4i+fJ/5Phq5GnG5yvp8oOFG8LfdkNnQRszRzJaQQ+g6HB9dJHwlepgqzyaPhyxGo8hQwtkAr5VWIa4QmRxqg/ycFypbd1P7aQt124mWCuYeVsvDAWFYUrxqL0gv0V1H/stbkNSEKD+I2WgwqKmsKVboOPw1mNZLWvR5GsBw==;efK4t3NglYWg4SNY2r27TQ=="
 ---

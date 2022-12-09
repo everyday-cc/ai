@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Apple scales back self-driving car and delays debut till 2026"
+    excerpt: "Apple executives are grappling with the reality that its vision for a fully autonomous vehicle — without a steering wheel or pedals — isn’t feasible with current technology."
+    publishedDateTime: 2022-12-08T17:47:00Z
+    webUrl: "https://www.delcotimes.com/2022/12/08/apple-scales-back-self-driving-car-and-delays-debut-till-26/"
+    ampWebUrl: "https://www.delcotimes.com/2022/12/08/apple-scales-back-self-driving-car-and-delays-debut-till-26/amp/"
+    cdnAmpWebUrl: "https://www-delcotimes-com.cdn.ampproject.org/c/s/www.delcotimes.com/2022/12/08/apple-scales-back-self-driving-car-and-delays-debut-till-26/amp/"
+    type: article
+    provider:
+      name: Delaware County Daily Times
+      domain: delcotimes.com
+    quality: 44
+    images:
+      - url: "https://www.delcotimes.com/wp-content/uploads/2022/12/Apple_App_Store_Antitrust_Battle_93202-1.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Apple Reportedly Taps the Brakes on Its Self-Driving Car"
     excerpt: "Along with the delayed release, the car will reportedly now only have full autonomous capabilities while on the highway. Consequently, the initial design -- void of a steering wheel and pedals -- will have to be modified to accommodate manual driving."
     publishedDateTime: 2022-12-06T20:20:00Z
@@ -28,6 +44,17 @@ related:
       name: CNET
       domain: cnet.com
     quality: 34
+  - title: "Apple Car delayed to 2026"
+    excerpt: "The car project, dubbed Titan inside the company, has been in limbo for the past several months as Apple executives grappled with the reality that its vision for a fully autonomous vehicle — without a steering wheel or pedals — isn’t feasible with current technology."
+    publishedDateTime: 2022-12-07T06:29:00Z
+    webUrl: "https://mybroadband.co.za/news/motoring/472967-apple-car-delayed-to-2026.html"
+    ampWebUrl: "https://mybroadband.co.za/news/motoring/472967-apple-car-delayed-to-2026.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/motoring/472967-apple-car-delayed-to-2026.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 24
   - title: "Apple Car Reportedly Won’t Be Self-Driving and Now Delayed Until 2026"
     excerpt: "The car will now have a steering wheel, pedals, and just about everything like a normal car, but a bevy of driver-assistance hardware and a price around $100K."
     publishedDateTime: 2022-12-06T21:09:00Z
@@ -84,6 +111,29 @@ related:
         width: 2115
         height: 1191
         isCached: true
+  - title: "Apple Self-Driving EV Delayed to 2026, Likely to Start under $100,000"
+    excerpt: "The tech corporation aims for the car to be fully autonomous on the highway, but has ditched a pod-like design and will include traditional driving controls in the cabin."
+    publishedDateTime: 2022-12-09T16:47:00Z
+    webUrl: "https://www.aol.com/apple-self-driving-ev-delayed-144700201.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://media.zenfs.com/en/car_and_driver_581/d8d9076b5e16b2172a0d9337e5e9d4d0"
+        width: 626
+        height: 313
+        isCached: true
+  - title: "Apple scales back self-driving car and delays debut till ’26"
+    excerpt: "The car project, dubbed Titan inside the company, has been in limbo for the past several months as Apple executives grappled with the reality that its vision for a fully autonomous vehicle —"
+    publishedDateTime: 2022-12-07T13:35:00Z
+    webUrl: "https://www.eastbaytimes.com/2022/12/07/apple-scales-back-self-driving-car-and-delays-debut-till-26/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 4
 
 secured: "r04p5UBUUJxqkVhmZeraTSfQjH1LCZfxuPOeLSyCoKsV2jgMRicf0zqttNcCqtvCTrPhSmiKM+gDG58lI62TzHxEjysAorQSMLUqMYNfcvZ30P7a0ZxnTGX0uK2FewNr3izghNCh0vTztylTgJZZ8eHNd4MkFX5KZxe/lwfU/QQ4DM5JMDW0ZGPhjEHmjQMVAIJ6xVKcdtQcE/U1ew6DJVmJ63/MMUtpPdipY9oCpPm1t+AB+HI+Crx65ANFnxwNC2gKDPM4pFXnMmig6NW7Lg4blLTIMXeARbS3qNiuiCMyzMcJ+87DxjHl84mfjRkk4KHcB0TYvdUo1Aklg1zTzwfzKdSMg3/YPNRIqbVK9izwlQQHfhe9fs1tZgXYgHddGBpkASU1DLWvv6KQlohFvedLj6HXRAXR5YZvEG3k3OQHgUauu7JvF80OjpK0Y7m+3QGPCB/PUcwTIRm8mUKXBVbadG0IRKcZWSDNu8G7JajIm2Ej6Tt1ZWPY1x2ikgeM91Ssx0JQhaxHGehTbbziEQ==;qS2HeVAQu13RCEb5Da/N5w=="
 ---
