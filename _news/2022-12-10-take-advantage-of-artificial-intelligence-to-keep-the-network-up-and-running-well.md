@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.idgesg.net/images/article/2022/12/modern-office-and-wireless-communication-network-concept.jpgs1024x1024wisk20c6sdx3d-woqxt2kvwjizf5fnm7trmavwpripzaqudbd8-100935366-large.jpg?auto=webp&quality=85,70"
