@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-12-07-pixel-7-update-adds-ai-powered-noise-reduction-to-incoming-phone-calls.md",
+      "title": "Pixel 7 update adds AI-powered noise reduction to incoming phone calls",
+      "excerpt": "Rolling out to Pixel phones now is Android 13 Quarterly Platform Release 1 (QPR1), which contains a few new features, 77 bug fixes named in a huge support post, 151 Pixel-specific security issues outlined in the December Security Bulletin for Pixels,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2022/12/pixel-7-update-adds-ai-powered-noise-reduction-to-incoming-phone-calls/",
+      "originalUrl": "https://arstechnica.com/gadgets/2022/12/pixel-7-update-adds-ai-powered-noise-reduction-to-incoming-phone-calls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/Pixel7-8-800x488.jpg",
+          "width": 800,
+          "height": 488,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2022/12/pixel-7-update-adds-ai-powered-noise-reduction-to-incoming-phone-calls/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2022/12/pixel-7-update-adds-ai-powered-noise-reduction-to-incoming-phone-calls/amp/",
+      "publishedDateTime": "2022-12-06T10:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-a-conversation-with-kevin-scott-whats-next-in-ai.md",
       "title": "A conversation with Kevin Scott: What’s next in AI",
       "excerpt": "The post A conversation with Kevin Scott: What’s next in AI appeared first on The AI Blog.\n",
@@ -545,7 +596,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/12/06/the-top-5-healthcare-trends-in-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -1183,57 +1234,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-05-the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence.md",
-      "title": "The Future Is Now: Transforming PCB Manufacturing Using Artificial Intelligence",
-      "excerpt": "Manufacturers are exploring ways to increase the efficiencies by which essential electronic components are produced.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62a797a880eca7dbef9036cc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/05/the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-12-05T05:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

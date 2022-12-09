@@ -8,8 +8,8 @@ webUrl: "https://www.barrons.com/news/as-ai-rises-lawmakers-try-to-catch-up-0167
 ampWebUrl: "https://www.barrons.com/amp/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610"
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610"
 type: article
-quality: 59
-heat: 79
+quality: 61
+heat: 81
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.barrons.com/asset/external-media/afp/AFP2689439216944067383893578078951981468096---1.jpg"

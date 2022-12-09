@@ -298,6 +298,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-04-scientists-facial-recognition-could-help-to-save-rare-seals.md",
+      "title": "Scientists: Facial recognition could help to save rare seals",
+      "excerpt": "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for it",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/scientists-facial-recognition-could-help-to-save-rare-seals/article_f47a7ea1-28dc-5f08-a6a5-516a0481a04f.html",
+      "originalUrl": "https://www.stltoday.com/scientists-facial-recognition-could-help-to-save-rare-seals/article_f47a7ea1-28dc-5f08-a6a5-516a0481a04f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/bf/bbf50b59-8db2-563a-877b-d7d7c075e0ff/638c7a514be81.image.jpg?crop=792%2C416%2C0%2C56&resize=792%2C416&order=crop%2Cresize",
+          "width": 792,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-04T01:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-02-government-introduces-digiyatra-facial-recognition-for-entry-into-airports-netizens-call-it-scary-and-dystopian.md",
       "title": "Government Introduces ‘DigiYatra’ Facial Recognition For Entry Into Airports; Netizens Call It Scary And Dystopian",
       "excerpt": "The Ministry of Civil Aviation of the Government of India, has now introduced ‘DigiYatra’, an initiative to make your travel swift and seamless. Flyers will only need to check in with facial recognition that will allow quick airport entry and pre-security check.",
@@ -1359,49 +1402,6 @@
         "Computer Vision",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-a-simpler-path-to-better-computer-vision.md",
-      "title": "A simpler path to better computer vision",
-      "excerpt": "A simpler path to better computer vision Date: November 23, 2022 Source: Massachusetts Institute of Technology Summary: Research finds using a large collection of simple, un-curated synthetic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221123125132.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221123125132.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -668,33 +668,24 @@
     {
       "path": "_news/2022-12-01-domo-joins-the-amazon-sagemaker-ready-program.md",
       "title": "Domo Joins the Amazon SageMaker Ready Program",
-      "excerpt": "Today Domo (Nasdaq: DOMO) announced it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner software solutions that are validated by Amazon Web Services ...",
+      "excerpt": "Domo (Nasdaq: DOMO) announced it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner software solutions that are validated by Amazon Web Services (AWS) Partner Solutions Architects to integrate with Amazon SageMaker.",
       "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/domo-joins-the-amazon-sagemaker-ready-program/article_6242ae1d-7680-5d90-8e69-4e80187adef3.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/domo-joins-the-amazon-sagemaker-ready-program/article_6242ae1d-7680-5d90-8e69-4e80187adef3.html",
+      "webUrl": "https://technews.tmcnet.com/news/2022/12/01/9723034.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/12/01/9723034.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg",
-          "width": 350,
-          "height": 455,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T06:06:00-08:00",
+      "publishedDateTime": "2022-12-01T06:28:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -704,8 +695,9 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI"
+        "Machine Learning",
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -1084,49 +1076,6 @@
       ]
     },
     {
-      "path": "_news/2022-12-01-amazon-to-warn-customers-on-limitations-of-its-ai.md",
-      "title": "Amazon To Warn Customers On Limitations Of Its AI",
-      "excerpt": "Amazon chose software touching on sensitive demographic issues as a start for its service cards, which Kearns expects to grow in detail over time. One such service is called \"Rekognition.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985",
-      "originalUrl": "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.ibtimes.com/en/full/4389003/amazon-logo-company-logistics-center-lauwin-planque.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1",
-      "publishedDateTime": "2022-11-30T09:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-30-aws-adds-ai-features-to-textract-transcribe-and-kendra.md",
       "title": "AWS adds AI features to Textract, Transcribe and Kendra",
       "excerpt": "Amazon Web Services (AWS) on Tuesday added new artificial intelligence (AI) features to some of its services including Textract, Transcribe, Kendra, CodeWhisperer, and HealthLake. The new updates, according to the company,",
@@ -1427,6 +1376,58 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-aws-unveils-new-ai-service-features-and-enhancements-at-reinvent-2022.md",
+      "title": "AWS Unveils New AI Service Features and Enhancements at re:Invent 2022",
+      "excerpt": "Over the last 5 years, artificial intelligence (AI) and machine learning (ML) have evolved from a niche activity to a rapidly growing mainstream endeavor. Today, more than 100,000 customers across numerous industries rely on AWS for ML and AI initiatives that infuse AI into a broad range of business",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-unveils-new-ai-service-features-and-enhancements-at-reinvent-2022/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-unveils-new-ai-service-features-and-enhancements-at-reinvent-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/29/AWS-Unveils-New-Features-reInvent-2022.jpg",
+          "width": 2365,
+          "height": 1178,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-28T18:25:29-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     }
   ],

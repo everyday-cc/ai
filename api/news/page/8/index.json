@@ -2,6 +2,101 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-12-01-san-francisco-approves-use-of-remote-controlled-robots-to-kill-suspects.md",
+      "title": "San Francisco approves use of remote-controlled robots to kill suspects",
+      "excerpt": "San Francisco’s police will be allowed to use remote-controlled robots to kill suspects. The city’s board of supervisors last night approved a controversial policy that lets police robots ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/11/30/23486090/robots-deadly-force-kill-san-francisco-police-approve",
+      "originalUrl": "https://www.theverge.com/2022/11/30/23486090/robots-deadly-force-kill-san-francisco-police-approve",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T09:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-research-suggests-ai-could-predict-heart-attack-or-stroke-with-one-x-ray.md",
+      "title": "Research Suggests AI Could Predict Heart Attack or Stroke with One X-Ray",
+      "excerpt": "At the annual meeting of the Radiological Society of North America, researchers shared preliminary findings on the use of artificial intelligence in predicting ... trained radiologists as of now.\" The research is still in its early stages and has yet ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/business-news/ai-could-predict-your-risk-of-heart-attack-with-one-x-ray/440148",
+      "originalUrl": "https://www.entrepreneur.com/business-news/ai-could-predict-your-risk-of-heart-attack-with-one-x-ray/440148",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1669823575-GettyImages-1251551874.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T08:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-artificial-intelligence-will-drive-the-future-of-content-marketing.md",
       "title": "Artificial Intelligence will drive the future of content marketing",
       "excerpt": "Digital Marketing, backed by technological breakthroughs, has come a long way in changing the world around us. As a result, artificial technology, machine learning, and automation are at the heart of every business across",
@@ -1083,92 +1178,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-accel-funded-finbotsai-signs-first-neobank-in-mongolia-m-bank.md",
-      "title": "Accel Funded finbots.ai Signs First Neobank in Mongolia – M Bank",
-      "excerpt": "Singapore-based finbots.ai has signed its first customer in Mongolia, a neobank called M-Bank. finbots.ai is an Accel-funded Fintech that provides B2B software as a service (SaaS). finbots.ai’s utilizes artificial intelligence (AI) to provide a credit modelling solution that aims to enable M bank to rapidly develop and deploy high accuracy application and behaviour scorecards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/11/199262-accel-funded-finbots-ai-signs-first-neobank-in-mongolia-m-bank/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/11/199262-accel-funded-finbots-ai-signs-first-neobank-in-mongolia-m-bank/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/12/Fintech-Asia-Singapore-Buddha-Museam-1024x758.jpg",
-          "width": 1024,
-          "height": 758,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/11/199262-accel-funded-finbots-ai-signs-first-neobank-in-mongolia-m-bank/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/11/199262-accel-funded-finbots-ai-signs-first-neobank-in-mongolia-m-bank/amp/",
-      "publishedDateTime": "2022-11-29T17:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-early-research-suggests-promising-use-of-ai-to-predict-risk-of-heart-attack-or-stroke-using-a-single-chest-x-ray.md",
-      "title": "Early research suggests promising use of AI to predict risk of heart attack or stroke using a single chest X-ray",
-      "excerpt": "By Deidre McPhillips, CNN Early research suggests a promising use of artificial intelligence to predict the 10-year risk of death from a heart attack or stroke from a single chest X-ray. The preliminary findings were presented Tuesday at the annual meeting of the Radiological Society of North America.",
-      "sourceUrl": null,
-      "webUrl": "https://ktvz.com/health/cnn-health/2022/11/29/early-research-suggests-promising-use-of-ai-to-predict-risk-of-heart-attack-or-stroke-using-a-single-chest-x-ray/",
-      "originalUrl": "https://ktvz.com/health/cnn-health/2022/11/29/early-research-suggests-promising-use-of-ai-to-predict-risk-of-heart-attack-or-stroke-using-a-single-chest-x-ray/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ktvz.b-cdn.net/2022/11/hypatia-h_44d1a744c66563ee67e542a225dd4910-h_8fd481471df36eb8a520d96017fe985d-300.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T17:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTVZ",
-        "domain": "ktvz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

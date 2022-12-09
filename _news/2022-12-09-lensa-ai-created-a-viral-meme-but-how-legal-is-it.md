@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-08T21:41:00Z
 originalUrl: "https://www.law.com/legaltechnews/2022/12/08/lensa-ai-created-a-viral-meme-but-how-legal-is-it/"
 webUrl: "https://www.law.com/legaltechnews/2022/12/08/lensa-ai-created-a-viral-meme-but-how-legal-is-it/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Facebook AI
 
 images:
   - url: "https://images.law.com/contrib/content/uploads/sites/397/2022/12/Artificial-Intelligence-Portrait-767x633.jpg"
