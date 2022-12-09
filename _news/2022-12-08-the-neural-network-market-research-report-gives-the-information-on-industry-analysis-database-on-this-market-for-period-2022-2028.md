@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Microscopy Market Provides an In-Depth Insight of Trends and Landscape Outlook 2022-2028"
+    excerpt: "\" Artificial Intelligence Microscopy Market \" Insights 2022 - By Applications (Clinical Pathology, Cell Biology, Pharmacology and Toxicology, Oncology), By Types (Optical Microscopy, Electron Microscopy,"
+    publishedDateTime: 2022-12-09T01:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-microscopy-market-provides-an-in-depth-insight-of-trends-and-landscape-outlook-2022-2028-2022-12-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-Propelled Belt Loader Market 2022 Driving Factor Analysis with Trend and Forecast to 2028"
     excerpt: "Further, the SWOT analysis & other techniques are utilized to investigate this data & provide an informed perspective on the state of the business to assist design the best growth strategy for any vendors or to current penetration into the present & and likely direction of the global Self-Propelled Belt Loader market."
     publishedDateTime: 2022-12-08T01:38:00Z

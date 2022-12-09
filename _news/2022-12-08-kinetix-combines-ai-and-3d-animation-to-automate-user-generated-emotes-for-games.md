@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/games/kinetix/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/kinetix/amp/"
 type: article
 quality: 82
-heat: 92
+heat: 94
 published: true
 
 provider:

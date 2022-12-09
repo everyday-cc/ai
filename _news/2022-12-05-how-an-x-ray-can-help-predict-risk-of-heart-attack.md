@@ -35,22 +35,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Researchers develop AI that predicts risk of heart attack with one X-ray"
-    excerpt: "At such a juncture in time, a trial presented at the Radiological Society of North America (RSNA) has shown that an artificial intelligence has been able to detect the susceptibility of a patient to heart attack and stroke with just one X-ray."
-    publishedDateTime: 2022-12-04T11:49:00Z
-    webUrl: "https://www.livemint.com/science/health/researchers-develop-ai-that-predicts-risk-of-heart-attack-with-one-xray-11670147870319.html"
-    ampWebUrl: "https://www.livemint.com/science/health/researchers-develop-ai-that-predicts-risk-of-heart-attack-with-one-xray/amp-11670147870319.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/science/health/researchers-develop-ai-that-predicts-risk-of-heart-attack-with-one-xray/amp-11670147870319.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 58
-    images:
-      - url: "https://images.livemint.com/img/2022/12/04/600x338/heart-kyjD--621x414LiveMint_1670148016454_1670148016584_1670148016584.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "7M7YPhAVVZAjpz07vvKJ/tYWIxvUaCPLjsIEhvRsOqlefaKwRRZje7KlqznkoQvel8CfGtRLjMXw0HK8DaZv+q5mVcXc25WoZLOtBewH9FeH8RjvMDiGWDA86gi/a9FIFCT4DXJ3oK/kuKHSl+Lu+36+aUAC6mIGm3ql6BrP6ufPhksTF6GdNVoDoVc9cPUwCLxi0gCYvopm0KVFIaNyu7aNlJMUQ/po6IOZQGLPI3Z13OgleZWYqDqoaCskDczeKEKKSPGsx3TErRK3xCHu0gH+s1CTQ6Ra78ErnzEVAzU+G5dq3YGy0NCXFuIiGrQeeUPlSltMNPK8MZs4nhUEa7K3RTNwLsHvfIBKaW3IwTrF456AE86aGSN5HdEhP8tNG6ffeaXVCAoCADjt2yqYV/RXLH+1oynHDH9nv5F93/nyDeWyK2ILC2lNWZ9XMVZs5SmYJW3TuHIzZ9mD0hcZSpYV9BAOci0WG4AOy49TWwWTIMLvVTH3TkEksWhXWTWugHuC0+A3yUJe5MUk2aZ9UA==;6DtXOzt2Zx4XTRwglpMaJw=="
 ---

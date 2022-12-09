@@ -1,25 +1,30 @@
 ---
 category: news
-title: "ChatGPT and Lensa: Why Everyone Is Playing With Artificial Intelligence"
-excerpt: "Two internet sensations give non-nerds a turn with powerful software, yielding surprising wit and stunning avatars."
-publishedDateTime: 2022-12-07T15:38:00Z
-originalUrl: "https://www.wsj.com/articles/everyone-in-your-feed-is-talking-about-chatgpt-and-lensa-and-heres-why-11670356499"
-webUrl: "https://www.wsj.com/articles/everyone-in-your-feed-is-talking-about-chatgpt-and-lensa-and-heres-why-11670356499"
+title: "‘It works very well, but it’s not magic’: This is ChatGPT, the groundbreaking AI chatbot"
+excerpt: "The latest evolution in text generation systems has surprised hundreds of thousands of users with coherent conversations and a humanlike finesse"
+publishedDateTime: 2022-12-09T04:26:00Z
+originalUrl: "https://english.elpais.com/science-tech/2022-12-09/it-works-very-well-but-its-not-magic-this-is-chatgpt-the-groundbreaking-ai-chatbot.html"
+webUrl: "https://english.elpais.com/science-tech/2022-12-09/it-works-very-well-but-its-not-magic-this-is-chatgpt-the-groundbreaking-ai-chatbot.html"
+ampWebUrl: "https://english.elpais.com/science-tech/2022-12-09/it-works-very-well-but-its-not-magic-this-is-chatgpt-the-groundbreaking-ai-chatbot.html?outputType=amp"
+cdnAmpWebUrl: "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/science-tech/2022-12-09/it-works-very-well-but-its-not-magic-this-is-chatgpt-the-groundbreaking-ai-chatbot.html?outputType=amp"
 type: article
-quality: 47
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: El País in English
+  domain: elpais.com
 
 topics:
+  - AI in Robotics
   - AI
+
+images:
+  - url: "https://images.english.elpais.com/resizer/_st3E3G9M6bFDGA48ZdWoHx3RZw=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/XCL2DJWSW5DG3L6KP72CPURJ4I.jpg"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "ChatGPT AI Explained: Why Everyone's Chatting About This New Chatbot"
@@ -330,22 +335,15 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "‘It works very well, but it’s not magic’: This is ChatGPT, the groundbreaking AI chatbot"
-    excerpt: "The latest evolution in text generation systems has surprised hundreds of thousands of users with coherent conversations and a humanlike finesse"
-    publishedDateTime: 2022-12-09T04:26:00Z
-    webUrl: "https://english.elpais.com/science-tech/2022-12-09/it-works-very-well-but-its-not-magic-this-is-chatgpt-the-groundbreaking-ai-chatbot.html"
-    ampWebUrl: "https://english.elpais.com/science-tech/2022-12-09/it-works-very-well-but-its-not-magic-this-is-chatgpt-the-groundbreaking-ai-chatbot.html?outputType=amp"
-    cdnAmpWebUrl: "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/science-tech/2022-12-09/it-works-very-well-but-its-not-magic-this-is-chatgpt-the-groundbreaking-ai-chatbot.html?outputType=amp"
+  - title: "ChatGPT and Lensa: Why Everyone Is Playing With Artificial Intelligence"
+    excerpt: "Two internet sensations give non-nerds a turn with powerful software, yielding surprising wit and stunning avatars."
+    publishedDateTime: 2022-12-07T15:38:00Z
+    webUrl: "https://www.wsj.com/articles/everyone-in-your-feed-is-talking-about-chatgpt-and-lensa-and-heres-why-11670356499"
     type: article
     provider:
-      name: El País in English
-      domain: elpais.com
-    quality: 50
-    images:
-      - url: "https://images.english.elpais.com/resizer/_st3E3G9M6bFDGA48ZdWoHx3RZw=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/XCL2DJWSW5DG3L6KP72CPURJ4I.jpg"
-        width: 1200
-        height: 800
-        isCached: true
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
   - title: "How These AI-Powered Chatbots Keep Getting Better"
     excerpt: "This week on “Gadget Lab,” we discuss the advances in generative AI tools like ChatGPT that make computer-enabled conversations seem more human than ever."
     publishedDateTime: 2022-12-08T13:00:00Z
@@ -493,6 +491,6 @@ related:
       domain: slator.com
     quality: 2
 
-secured: "7W6nBHH+x01fuQsGbxYqESeaqTVsW6lwUVtKPTbXKSM2z6/RyXhswML8Ekw/pbh/mck9ap2o0HRlnVizQJa5S2UAx0TjAds99uWRHqM4iWu37OCofFn10rlyx9Io/P7kvOduL8x3JITIMBcftJtNyr9++01ozhRPlKKIIk+m5VL2euNCHPVOYgVY4UFnz9ulgX7uOmEedu+CPbGUHg6vvkzXv2gajpJRjXPt4OKiUm/1S4cW4dMzieNW+02adlb206vphMNhZlWgtJ4kdDubACwXLiZmb7GuJjYl6IOMzvLmf2Y6qpAdZyo+JLS1p1VB2sqZJMjeL022qRr2ed3cZWK9ICZIEe7pjrqGZm/eHZeWxKLvwtHzAm3wyo+OI35I2C14H0joTf01S9H+ClSdXrDj7/I+983fJCtkJwi5zz8phrk8p9nlgW7LOFvr3n3wzjnUZX9z0n9eijNRlcHIWY9aOYkYHdQ6N5uYNNmR/xCG//wL8qK+WSIv5SRuFd3cdFwSbPxUobX1Mmn0eMeDew==;SWTTzgf/p3m73n8lALbVHw=="
+secured: "4BNUIN5avzRwW9Wi7P4br5fQ03lTslKjuqPatdiNvbpYJ7CC/rUADv70I2OOR/cFB0/lTdEg5KXH2QMo2pIRN0uhxnIr0RyKchE2M3bx/ruULNN7uEb8f7Viff/dqsRKH1HT1c8fgksjWa+rA59q/KvPmpRGWyT2rQ34uQAD+23WmV83BIcb1XrvbEM6GAvzSQSHecqVF7bXovNYj+9IvIQ1w/IE0ntJqnknF9upjuaKk3WKDi8RAHi4PFyMES7tPTlE666CorBrmf09dBMXThCjGzIrsVWV5eiSsSUo+EdzoUbtnflj1IVSGySHLrLC2q5CCIYDznRJPOfzVaZcrB1zYTUTsSjkdoUi7U5YxsY=;jR24D4GLd7KVJUkaATgxzQ=="
 ---
 

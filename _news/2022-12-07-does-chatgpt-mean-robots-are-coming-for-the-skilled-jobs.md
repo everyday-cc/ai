@@ -229,22 +229,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "As chatbot sophistication grows, AI debate intensifies"
-    excerpt: "California start-up OpenAI has released a chatbot capable of answering a variety of questions, but its impressive performance has reopened the debate on the risks linked to artificial intelligence (AI) technologies."
-    publishedDateTime: 2022-12-04T11:42:00Z
-    webUrl: "https://techxplore.com/news/2022-12-chatbot-sophistication-ai-debate.html"
-    ampWebUrl: "https://techxplore.com/news/2022-12-chatbot-sophistication-ai-debate.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-chatbot-sophistication-ai-debate.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/the-start-up-openai-de.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "ChatGPT is taking the world by storm – the viral AI bot explained"
     excerpt: "The sophistication of ChatGPT has many speculating whether the AI bot could replace journalists, authors and screenwriters."
     publishedDateTime: 2022-12-05T16:00:00Z
@@ -293,22 +277,6 @@ related:
         width: 960
         height: 600
         isCached: true
-  - title: "Explainer | Everything you need to know about AI bot ChatGPT"
-    excerpt: "The AI bot known as ChatGPT has taken the internet by storm but what exactly is it, and how does it work? ChatGPT is a conversational dialogue model, trained by AI and machine learning to understand and respond to natural human language."
-    publishedDateTime: 2022-12-04T12:17:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/explainer-everything-you-need-to-know-about-ai-bot-chatgpt-9647341.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/explainer-everything-you-need-to-know-about-ai-bot-chatgpt-9647341.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/explainer-everything-you-need-to-know-about-ai-bot-chatgpt-9647341.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 57
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2022/12/ChatGPT-435x435.jpg"
-        width: 435
-        height: 435
-        isCached: true
   - title: "AI bot ChatGPT stuns academics with essay-writing skills and usability"
     excerpt: "Latest chatbot from Elon Musk-founded OpenAI can identify incorrect premises and refuse to answer inappropriate requests"
     publishedDateTime: 2022-12-05T04:14:00Z
@@ -354,6 +322,22 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1670242933/itpro/2022/December/AI_Chatbot_GettyImages-1364050120.jpg"
         width: 1260
         height: 710
+        isCached: true
+  - title: "‘It works very well, but it’s not magic’: This is ChatGPT, the groundbreaking AI chatbot"
+    excerpt: "The latest evolution in text generation systems has surprised hundreds of thousands of users with coherent conversations and a humanlike finesse"
+    publishedDateTime: 2022-12-09T04:26:00Z
+    webUrl: "https://english.elpais.com/science-tech/2022-12-09/it-works-very-well-but-its-not-magic-this-is-chatgpt-the-groundbreaking-ai-chatbot.html"
+    ampWebUrl: "https://english.elpais.com/science-tech/2022-12-09/it-works-very-well-but-its-not-magic-this-is-chatgpt-the-groundbreaking-ai-chatbot.html?outputType=amp"
+    cdnAmpWebUrl: "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/science-tech/2022-12-09/it-works-very-well-but-its-not-magic-this-is-chatgpt-the-groundbreaking-ai-chatbot.html?outputType=amp"
+    type: article
+    provider:
+      name: El País in English
+      domain: elpais.com
+    quality: 50
+    images:
+      - url: "https://images.english.elpais.com/resizer/_st3E3G9M6bFDGA48ZdWoHx3RZw=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/XCL2DJWSW5DG3L6KP72CPURJ4I.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "ChatGPT and Lensa: Why Everyone Is Playing With Artificial Intelligence"
     excerpt: "Two internet sensations give non-nerds a turn with powerful software, yielding surprising wit and stunning avatars."

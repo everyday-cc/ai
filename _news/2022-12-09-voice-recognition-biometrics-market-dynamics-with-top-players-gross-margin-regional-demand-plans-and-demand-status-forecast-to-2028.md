@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Iris Recognition Devices Market 2023 Company Overview, Industry Top Manufacturers, Size, Industry Share, Growth Analysis and Forecast to 2028"
-excerpt: "The iris recognition device is a device that performs identity recognition based on the iris in the eye. Used in security equipment (such as access control, etc.), and places with high confidentiality requirements."
-publishedDateTime: 2022-12-06T04:04:00Z
-originalUrl: "https://www.marketwatch.com/press-release/iris-recognition-devices-market-2023-company-overview-industry-top-manufacturers-size-industry-share-growth-analysis-and-forecast-to-2028-2022-12-06"
-webUrl: "https://www.marketwatch.com/press-release/iris-recognition-devices-market-2023-company-overview-industry-top-manufacturers-size-industry-share-growth-analysis-and-forecast-to-2028-2022-12-06"
+title: "Voice Recognition Biometrics Market Dynamics with Top Players, Gross Margin, Regional Demand, Plans and Demand Status Forecast to 2028"
+excerpt: "\" Voice Recognition Biometrics Market \" Insights 2022 - By Applications (IT And Telecom, BFSI, Automotive, Healthcare, Education, Others), By Types (Physiological Biometrics, Behavioral Biometrics), By Segmentation analysis,"
+publishedDateTime: 2022-12-09T01:45:00Z
+originalUrl: "https://www.marketwatch.com/press-release/voice-recognition-biometrics-market-dynamics-with-top-players-gross-margin-regional-demand-plans-and-demand-status-forecast-to-2028-2022-12-08"
+webUrl: "https://www.marketwatch.com/press-release/voice-recognition-biometrics-market-dynamics-with-top-players-gross-margin-regional-demand-plans-and-demand-status-forecast-to-2028-2022-12-08"
 type: article
-quality: 19
+quality: 22
 heat: -1
 published: false
 
@@ -19,7 +19,7 @@ provider:
       height: 50
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
 
 images:
@@ -71,21 +71,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Biometrics Market Dynamics with Top Players, Gross Margin, Regional Demand, Plans and Demand Status Forecast to 2028"
-    excerpt: "\" Voice Recognition Biometrics Market \" Insights 2022 - By Applications (IT And Telecom, BFSI, Automotive, Healthcare, Education, Others), By Types (Physiological Biometrics, Behavioral Biometrics), By Segmentation analysis,"
-    publishedDateTime: 2022-12-09T01:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-biometrics-market-dynamics-with-top-players-gross-margin-regional-demand-plans-and-demand-status-forecast-to-2028-2022-12-08"
+  - title: "Iris Recognition Devices Market 2023 Company Overview, Industry Top Manufacturers, Size, Industry Share, Growth Analysis and Forecast to 2028"
+    excerpt: "The iris recognition device is a device that performs identity recognition based on the iris in the eye. Used in security equipment (such as access control, etc.), and places with high confidentiality requirements."
+    publishedDateTime: 2022-12-06T04:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/iris-recognition-devices-market-2023-company-overview-industry-top-manufacturers-size-industry-share-growth-analysis-and-forecast-to-2028-2022-12-06"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 22
+    quality: 19
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
 
-secured: "7xiAa2YIFUAzFS7L2R7hm2FEK4O5FIKKdZAvaQm/K+HMoRhdz5z4SqeI5jXG0E+6k7sMeqbCLxjLYV28tbL05Wbe+H5X1EZVGwh5bFhGPza6QvnQLb/A2HoHEO9BWLgNPvdbYnwEIb8UhHJj4+aSJrU9hF5TH01Ixq65yYxU/7i/OIfPBmPFytMODU42DvxdzpQYOhrAYjjJV0fVV+vuO4nQx0vM9EJxE/2VWkZP197Sh/UYGJ8SVVx8weIjaRO9KS6ti62YX5Ee8ks2+BCtvuZKjIO1zO56MQJN6nVz6l/7PIOYVPpcoqWBmE2VwfosJzmhf0G08ZYXsjbtr0S48is9TCMvkLdB6NXYTrGPDhI=;wa+Cm75qZ8Tr0Hknahdr4A=="
+secured: "oR+vMlIvkgUgnun0fKFJ/YOUpXPS6Lo2wG5vTmOaT1Ybea7OmYrqyuWRmKL3KIewViaqo88GeJC3aGWKl55fE95+5V0+Nd4sNzUqXNHAEw/yveSYMwIRP+nAlOu+ZIvLVDdj/49A7bDVOX459ftBW9BxzuPawCwkuADQ2sHOE8zRMf3SQrGNNb0tBgMBtB593jKMkoaySThch9ghqO3tNKPiKJOuMpSTdUNpzFtSWG7OwxZ7m+Rtls0Zw9xxFjOQFtnOEMK7SSQqeHH+1j0+PIOzeoy5GgZHI/QQ2Yfy31tFFRqQFCLOpcRU4PCY+gL2NvghTvF+qsrfUenc39Av5wpj4/xC018fJi0+2LQ5YBM=;SOMcPbuvxtMDDYxYnIj14g=="
 ---
 

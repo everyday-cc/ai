@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Iris Recognition Devices Market 2023 Company Overview, Industry Top Manufacturers, Size, Industry Share, Growth Analysis and Forecast to 2028"
-excerpt: "The iris recognition device is a device that performs identity recognition based on the iris in the eye. Used in security equipment (such as access control, etc.), and places with high confidentiality requirements."
-publishedDateTime: 2022-12-06T04:04:00Z
-originalUrl: "https://www.marketwatch.com/press-release/iris-recognition-devices-market-2023-company-overview-industry-top-manufacturers-size-industry-share-growth-analysis-and-forecast-to-2028-2022-12-06"
-webUrl: "https://www.marketwatch.com/press-release/iris-recognition-devices-market-2023-company-overview-industry-top-manufacturers-size-industry-share-growth-analysis-and-forecast-to-2028-2022-12-06"
+title: "AI In Medical Imaging Market : Reliable Business Data Analysis and Forecast by 2028 with Top Countries Data"
+excerpt: "\" AI In Medical Imaging Market \" Insights 2022 - By Applications (Hospitals, Clinics), By Types (Software, Hardware), By Segmentation analysis, Regions and Forecast to 2028. The Global AI In Medical Imaging market Report provides In-depth analysis on the market status of the AI In Medical Imaging Top manufacturers with best facts and figures,"
+publishedDateTime: 2022-12-06T11:56:00Z
+originalUrl: "https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-reliable-business-data-analysis-and-forecast-by-2028-with-top-countries-data-2022-12-06"
+webUrl: "https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-reliable-business-data-analysis-and-forecast-by-2028-with-top-countries-data-2022-12-06"
 type: article
-quality: 19
+quality: 51
 heat: -1
 published: false
 
@@ -19,7 +19,7 @@ provider:
       height: 50
 
 topics:
-  - Computer Vision
+  - IBM AI
   - AI
 
 images:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI In Medical Imaging Market : Reliable Business Data Analysis and Forecast by 2028 with Top Countries Data"
-    excerpt: "\" AI In Medical Imaging Market \" Insights 2022 - By Applications (Hospitals, Clinics), By Types (Software, Hardware), By Segmentation analysis, Regions and Forecast to 2028. The Global AI In Medical Imaging market Report provides In-depth analysis on the market status of the AI In Medical Imaging Top manufacturers with best facts and figures,"
-    publishedDateTime: 2022-12-06T11:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-reliable-business-data-analysis-and-forecast-by-2028-with-top-countries-data-2022-12-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -85,7 +71,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Iris Recognition Devices Market 2023 Company Overview, Industry Top Manufacturers, Size, Industry Share, Growth Analysis and Forecast to 2028"
+    excerpt: "The iris recognition device is a device that performs identity recognition based on the iris in the eye. Used in security equipment (such as access control, etc.), and places with high confidentiality requirements."
+    publishedDateTime: 2022-12-06T04:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/iris-recognition-devices-market-2023-company-overview-industry-top-manufacturers-size-industry-share-growth-analysis-and-forecast-to-2028-2022-12-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "7xiAa2YIFUAzFS7L2R7hm2FEK4O5FIKKdZAvaQm/K+HMoRhdz5z4SqeI5jXG0E+6k7sMeqbCLxjLYV28tbL05Wbe+H5X1EZVGwh5bFhGPza6QvnQLb/A2HoHEO9BWLgNPvdbYnwEIb8UhHJj4+aSJrU9hF5TH01Ixq65yYxU/7i/OIfPBmPFytMODU42DvxdzpQYOhrAYjjJV0fVV+vuO4nQx0vM9EJxE/2VWkZP197Sh/UYGJ8SVVx8weIjaRO9KS6ti62YX5Ee8ks2+BCtvuZKjIO1zO56MQJN6nVz6l/7PIOYVPpcoqWBmE2VwfosJzmhf0G08ZYXsjbtr0S48is9TCMvkLdB6NXYTrGPDhI=;wa+Cm75qZ8Tr0Hknahdr4A=="
+secured: "LwTe+No3JxqhTmrL1Gi1soZJocY8Qw8DQjQRRyhE9WFLAIs2BqVD7z+lvpQnu4Y7Zoa78KOspcTNFlAj/++/ylzjBMiy/al2cVRM2UX0CcYKd/dldOnTUkSGfA0GtdT5NdXbt45IovOA8dwnCOQnoXIh18HHDbfy7F4gMi3KfgNVITsch+8TO8ZKzNgHkfrbqPqfbMiHuNfZXCWGDxkujs5YE9fbhzuDvqPyhUlBoW7mS8drvyidSg7Li3K8ddJpJmiqvCX0MXDODzIte2FH9spbhVvo4Ye3nLnrOI0bLmdpswl9hhW1wDdc7iZbbtFImCiE/Y37KfvVlehKTnNYztfKnTs36xVEN33xNw/KJLI=;TXiMoKBi8V0t5V3kE5La9Q=="
 ---
 

@@ -28,22 +28,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Iris Recognition Devices Market 2023 Company Overview, Industry Top Manufacturers, Size, Industry Share, Growth Analysis and Forecast to 2028"
-    excerpt: "The iris recognition device is a device that performs identity recognition based on the iris in the eye. Used in security equipment (such as access control, etc.), and places with high confidentiality requirements."
-    publishedDateTime: 2022-12-06T04:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/iris-recognition-devices-market-2023-company-overview-industry-top-manufacturers-size-industry-share-growth-analysis-and-forecast-to-2028-2022-12-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "UFbbEfHmydiai2nTeLK7Vk1xEeSmq64N9psCtruwI/iS5Sh59CBBbqkpESKtf8KC8FtbqjiwVKJeeRpZsAhAfAIXv6RrIPv2SHQAbUUpiX1ZgLNeh83VWDDVZ/Pk5zM+cagJkraD4xf6FXl9mOQMQrS087oTOqMYK9q1weofhtdmi3W/Q7WCl1uvxMgJm6jHHEhalFmHjfglHyF8frRu51k5gBxqgMEXic8iPIDMNZ1vYodb4D3a3i6DIqCTiYvmXgr/uXh4wNUuHYdf1nwcdMj3XUqBvsDndtsf3U4qztsojqGI/AyWeWRFWCbx3NaxJiM0KG5xrIxpZW4nKgcEPFZc4cWPR0U6UQt3GstR6r4=;Of8XW/fCA64cu+ozES8nDw=="
 ---
 

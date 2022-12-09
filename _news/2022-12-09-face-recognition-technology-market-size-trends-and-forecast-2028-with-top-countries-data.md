@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Iris Recognition Devices Market 2023 Company Overview, Industry Top Manufacturers, Size, Industry Share, Growth Analysis and Forecast to 2028"
-excerpt: "The iris recognition device is a device that performs identity recognition based on the iris in the eye. Used in security equipment (such as access control, etc.), and places with high confidentiality requirements."
-publishedDateTime: 2022-12-06T04:04:00Z
-originalUrl: "https://www.marketwatch.com/press-release/iris-recognition-devices-market-2023-company-overview-industry-top-manufacturers-size-industry-share-growth-analysis-and-forecast-to-2028-2022-12-06"
-webUrl: "https://www.marketwatch.com/press-release/iris-recognition-devices-market-2023-company-overview-industry-top-manufacturers-size-industry-share-growth-analysis-and-forecast-to-2028-2022-12-06"
+title: "Face Recognition Technology Market Size, Trends and Forecast 2028 with Top Countries Data"
+excerpt: "\" Face Recognition Technology Market \" Insights 2022 - By Applications (Emotion Recognition, Law Enforcement, Surveillance, and Monitoring), By Types (2D Facial Recognition, 3D Facial Recognition, Thermal Facial Recognition),"
+publishedDateTime: 2022-12-09T01:06:00Z
+originalUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-size-trends-and-forecast-2028-with-top-countries-data-2022-12-08"
+webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-size-trends-and-forecast-2028-with-top-countries-data-2022-12-08"
 type: article
-quality: 19
-heat: -1
-published: false
+quality: 60
+heat: 100
+published: true
 
 provider:
   name: MarketWatch
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Face Recognition Technology Market Size, Trends and Forecast 2028 with Top Countries Data"
-    excerpt: "\" Face Recognition Technology Market \" Insights 2022 - By Applications (Emotion Recognition, Law Enforcement, Surveillance, and Monitoring), By Types (2D Facial Recognition, 3D Facial Recognition, Thermal Facial Recognition),"
-    publishedDateTime: 2022-12-09T01:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-size-trends-and-forecast-2028-with-top-countries-data-2022-12-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI In Medical Imaging Market : Reliable Business Data Analysis and Forecast by 2028 with Top Countries Data"
     excerpt: "\" AI In Medical Imaging Market \" Insights 2022 - By Applications (Hospitals, Clinics), By Types (Software, Hardware), By Segmentation analysis, Regions and Forecast to 2028. The Global AI In Medical Imaging market Report provides In-depth analysis on the market status of the AI In Medical Imaging Top manufacturers with best facts and figures,"
     publishedDateTime: 2022-12-06T11:56:00Z
@@ -85,7 +71,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Iris Recognition Devices Market 2023 Company Overview, Industry Top Manufacturers, Size, Industry Share, Growth Analysis and Forecast to 2028"
+    excerpt: "The iris recognition device is a device that performs identity recognition based on the iris in the eye. Used in security equipment (such as access control, etc.), and places with high confidentiality requirements."
+    publishedDateTime: 2022-12-06T04:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/iris-recognition-devices-market-2023-company-overview-industry-top-manufacturers-size-industry-share-growth-analysis-and-forecast-to-2028-2022-12-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "7xiAa2YIFUAzFS7L2R7hm2FEK4O5FIKKdZAvaQm/K+HMoRhdz5z4SqeI5jXG0E+6k7sMeqbCLxjLYV28tbL05Wbe+H5X1EZVGwh5bFhGPza6QvnQLb/A2HoHEO9BWLgNPvdbYnwEIb8UhHJj4+aSJrU9hF5TH01Ixq65yYxU/7i/OIfPBmPFytMODU42DvxdzpQYOhrAYjjJV0fVV+vuO4nQx0vM9EJxE/2VWkZP197Sh/UYGJ8SVVx8weIjaRO9KS6ti62YX5Ee8ks2+BCtvuZKjIO1zO56MQJN6nVz6l/7PIOYVPpcoqWBmE2VwfosJzmhf0G08ZYXsjbtr0S48is9TCMvkLdB6NXYTrGPDhI=;wa+Cm75qZ8Tr0Hknahdr4A=="
+secured: "ZBiN0M6pGmfpy6kFb/0QGs8qC+LBxXqcXgcnOOOoWeOjUSm0P6n8x8nw/zTXVQQkr+uGe+5p0TJnQ9p2wOsxGucS9wYYkf9JLsCAcIgqVTx7Ylsql2d3cI9Iw+0JSdUT/K+YAF3EjlUATsB2Zm6Hzi6MJxfX/einMnl1lmYevUaVSPvSPi/nh94U6kwe/XCcNMJAXJBYaVr8WCU6IfDpiWOuitvQV4WddaztcXNhrnVnFzM1cNgzhcEsNuFa26wVb5IWqpGSWhqZIGUhQIoF1d3iGgjQsJqX0O/DGaKFoUISxwIeriaOnBl/9ktLpJxrwhxKtPUyvigdTwjGgpEVtK8HjTfLPvK68fq7KO3Y13U=;jY/134K5iE8fLDzCOavtkQ=="
 ---
 

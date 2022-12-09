@@ -1,26 +1,20 @@
 ---
 category: news
 title: "AWS Announces Eight New Amazon SageMaker Capabilities"
-excerpt: "At AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced eight new capabilities for Amazon SageMaker, its end-to-end machine learning (ML ..."
-publishedDateTime: 2022-11-30T19:28:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-eight-new-amazon-sagemaker-capabilities/article_fe16b955-2c7f-5b55-b556-bd4a4f9351ea.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-eight-new-amazon-sagemaker-capabilities/article_fe16b955-2c7f-5b55-b556-bd4a4f9351ea.html"
+excerpt: "Developers, data scientists, and business analysts use Amazon SageMaker to build, train, and deploy ML models quickly and easily using its fully managed infrastructure, tools, and workflows. As customers continue to innovate using ML, they are creating ..."
+publishedDateTime: 2022-11-30T19:22:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2022/11/30/aws-announces-eight-new-amazon-sagemaker-capabilities"
+webUrl: "https://stockhouse.com/news/press-releases/2022/11/30/aws-announces-eight-new-amazon-sagemaker-capabilities"
 type: article
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg"
-    width: 350
-    height: 455
-    isCached: true
-
-secured: "rAM/PLw9Nx1TKFFyNoH+mbalJERbYmDmRKOABWG8T/UZuNaWhD61cQSQcvGfIpy2h53uZ1p3y0RRmy3ArwRVJaixms7eAR1DMpbVDxm1eDKby4UNBattNrnegvs8PN2RFRq2HWmYFDnAlwGQdEEgDfN3avDTsn22idURooMysa7NnuT1IkLbNmMZ9epkJG8j4ICafCa8RcPbjlAKceGEfkcs1O5wVPCklBJqhvOF5Fo0hf2oeqLmYg3nFnb6HL6qmZyZ10gkcUpmsRqy1wlbBO6EEHVhanN1+WBTCemca3t+EY4aqqeSEOrEC1fBtgbAsh6B0CYYpky0MgE8boDizZzFfRXu666rYzRZs40KIDk=;mBVHoeKRLMPaoH4MPt5XBA=="
+secured: "vwhd1v8hPEbpPSswqZ/obqw/Y5AVh2zJEIiT7Ubsee72cduzVsq8EWSON3S2QWvXIFmlANGhOPvLOey0hpkfM4KNlutE2MKGpLrrksOqNHhzDgjaNmkh8MWauxenJ1LoKYaKMX3DReJX6TKzFQg6fJxo+9skc1NapFqASMU7CwAeDaJaTSOZdMrrrw/F6slu3azqZ95trmOlYLs/PIGIMw6s1kK/WueKjE/J7zVRWTvi+m2YoAyL+8V3hNhdcgha91eelktx0yCu0CYoqw5x4W1ttROd6uXceSbK6T92u4gv5a0n19KPpMdT2/l035LhpGgOICtmEQLiRPfue0HQXyhAwGB5YYWVVqN8IOPE3bM=;GPfD8/dbBNmHQyRNrhry8g=="
 ---
 

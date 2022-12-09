@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-
 webUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-2022---regional-overview-substantial-demand-vendor-landscape-and-trends-by-2028-2022-12-07"
 type: article
 quality: 63
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -33,6 +33,20 @@ related:
     excerpt: "\" Artificial Intelligence in Education Market \" Insights 2022 - By Applications (Teaching Application, Evaluation Application, Management Application, Others), By Types (, Convenient for Educational Affairs,"
     publishedDateTime: 2022-12-06T00:32:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2023-impressive-growth-rate-regional-insights-competitive-outlook-and-geographical-divisions-2028-2022-12-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Microscopy Market Provides an In-Depth Insight of Trends and Landscape Outlook 2022-2028"
+    excerpt: "\" Artificial Intelligence Microscopy Market \" Insights 2022 - By Applications (Clinical Pathology, Cell Biology, Pharmacology and Toxicology, Oncology), By Types (Optical Microscopy, Electron Microscopy,"
+    publishedDateTime: 2022-12-09T01:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-microscopy-market-provides-an-in-depth-insight-of-trends-and-landscape-outlook-2022-2028-2022-12-08"
     type: article
     provider:
       name: MarketWatch

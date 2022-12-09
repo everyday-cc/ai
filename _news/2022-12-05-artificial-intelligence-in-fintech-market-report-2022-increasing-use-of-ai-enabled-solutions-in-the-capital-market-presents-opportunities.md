@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial Intelligence in Fintech Market Report 2022: Increasing Use of AI-Enabled Solutions in the Capital Market Presents Opportunities"
-excerpt: "The \"Artificial Intelligence in Fintech Market: Global Analysis and Growth Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The adoption of AI systems and techniques in finance is growing rapidly,"
-publishedDateTime: 2022-12-05T15:23:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-fintech-market-report-2022-increasing-use-/2022/12/05/9724212.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-fintech-market-report-2022-increasing-use-/2022/12/05/9724212.htm"
+excerpt: "The \"Artificial Intelligence in Fintech Market: Global Analysis and Growth Forecast to 2027\" report has been added to  ResearchAndMarkets.com's offering. The adoption of AI systems and techniques in finance is growing rapidly,"
+publishedDateTime: 2022-12-05T14:22:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/12/05/9724212.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/12/05/9724212.htm"
 type: article
 quality: 0
 heat: -1
@@ -91,6 +91,6 @@ related:
       domain: benzinga.com
     quality: 19
 
-secured: "ebnVql5pTzOjrfmTj1D/h0HoCD5y3yGviaVkp5+dUX8Y7ARG/1IrQdOULGkHQziyqqga7XKlcuBxJEtgELO8dRxeh1+UhKWQ0eQa6z3BJ072Kc0F4h2T/i8HdnR+woAAamRnVh5IZI+JiCQ9iSJD4CcltZWH1Ktdwt38kBZG2CiakIGca6EADY/Qnp8wnXvvCSG1QeYI6EpCGGkP+PuDcj4w28Myfws/Aa2k6j5Ofdp+yffnW0V+xtirE2D1wpcz+GsE41bucY0gDJcL4udopmLz7IQUeKzT49/0NpFDZnrGNRwc1Z/E/F0ARAeLmqCp317NS6tu79L1ha76ImTBPrEvfOkoL3+keLnseHU+su0=;O97u+K310UFOnQcSc5zcOA=="
+secured: "p4AgqiSyUBJdZBtEP8xh7Rj8IVnQoNrDlFMst9JuS9ZzGaCfDX7KrsRSlluU2u2FcHerzd24ageZE+WTWgTog8bhse+Yxy77Z8ZaJy9KbfaAMzMq7Te/Pld1PjdGctCW/WnBRcas7fBGDURsezarpsV7Nzt0udLFbo62h4149EhttZ1Fnt648d/6o+NNpW4yFxjXuAcUFM9lqykLdC1UmHY0FQs35df39N+LGwEzz6/D7Yv6b5kp+PEdYx4mSSKtW+iCueqJrlxH8VxagIOZKefLJwjWR52rKLA2HcFdVmlfI6ayDtonkM2vQaBZOD0barTT+vvu20uGfNMSWEcwBKNp8nFXP3fyTUwpEuwv1p0=;d+ur6c3dQaEb1tmc7aWS0w=="
 ---
 

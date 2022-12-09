@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-12-06-a-conversation-with-kevin-scott-whats-next-in-ai.md",
+      "title": "A conversation with Kevin Scott: What’s next in AI",
+      "excerpt": "The post A conversation with Kevin Scott: What’s next in AI appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/",
+      "originalUrl": "https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blogs.microsoft.com/wp-content/uploads/prod/sites/3/2022/12/A-conversation-with-Kevin-Scott-social-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T09:29:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-07-text-to-image-ai-powerful-easy-to-use-technology-for-making-artand-fakes.md",
       "title": "Text-to-image AI: Powerful, easy-to-use technology for making art—and fakes",
       "excerpt": "Type \"Teddy bears working on new AI research on the moon in the 1980s\" into any of the recently released text-to-image artificial intelligence image generators, and after just a few seconds the sophisticated software will produce an eerily pertinent image.",
@@ -441,7 +493,7 @@
       "originalUrl": "https://www.cnet.com/tech/computing/chatgpt-ai-explained-why-everyones-chatting-about-this-new-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 439,
+      "heat": 429,
       "tags": null,
       "images": [
         {
@@ -692,49 +744,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-ai-can-predict-heart-attack-or-stroke-death-risk-from-an-x-ray.md",
-      "title": "AI Can Predict Heart Attack or Stroke Death Risk From an X-Ray",
-      "excerpt": "A new study by researchers at Massachusetts General Hospital and the AI in Medicine program at the Brigham and Women’s Hospital in Boston demonstrates how an AI deep learning model can predict the 10-year risk of death from stroke or a heart attack from a single chest X-ray.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202212/ai-can-predict-heart-attack-or-stroke-death-risk-x-ray",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202212/ai-can-predict-heart-attack-or-stroke-death-risk-x-ray",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-12/pi2352.gif.jpg?itok=vffVOnli",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202212/ai-can-predict-heart-attack-or-stroke-death-risk-x-ray?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202212/ai-can-predict-heart-attack-or-stroke-death-risk-x-ray?amp",
-      "publishedDateTime": "2022-12-05T14:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     },
     {
