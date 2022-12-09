@@ -399,20 +399,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
-  - title: "AI chatbot outgrows ‘goldfish’ stage"
-    excerpt: "California-based start-up OpenAI Inc has released a chatbot capable of answering a variety of questions, but its impressive performance has reopened the debate on the risks linked to artificial intelligence (AI) technologies."
-    publishedDateTime: 2022-12-04T16:00:00Z
-    webUrl: "https://www.taipeitimes.com/News/biz/archives/2022/12/05/2003790112"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 37
-    images:
-      - url: "https://www.taipeitimes.com/images/2022/12/05/P12-221205-328.jpg"
-        width: 866
-        height: 577
-        isCached: true
   - title: "How AI chatbot ChatGPT measures up on Seattle knowledge"
     excerpt: "The artificial intelligence chatbot has gone viral for its precise answers. We set out to see what it really knows by asking questions about Seattle culture."
     publishedDateTime: 2022-12-06T22:29:00Z
