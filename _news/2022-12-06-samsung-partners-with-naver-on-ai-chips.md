@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung joins hands with Naver to develop AI chips"
-    excerpt: "Samsung Electronics Co. said Tuesday it is working with internet portal giant Naver Corp. to develop next-generation artificial intelligence (AI) chips, as part of efforts to improve efficiency of processing large AI data."
-    publishedDateTime: 2022-12-06T02:38:00Z
-    webUrl: "https://www.koreaherald.com/view.php?ud=20221206000445"
-    ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20221206000445"
-    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20221206000445"
-    type: article
-    provider:
-      name: The Korea Herald
-      domain: koreaherald.com
-    quality: 76
-    images:
-      - url: "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2022%2F12%2F06%2F20221206000449_0.jpg"
-        width: 630
-        height: 419
-        isCached: true
   - title: "Samsung announces partnership with Naver to develop next-gen AI chips"
     excerpt: "Samsung Electronics on Tuesday announced that it has partnered with internet portal giant Naver Corporation to develop next-generation artificial intelligence (AI) chips"
     publishedDateTime: 2022-12-06T10:23:00Z
@@ -143,6 +127,15 @@ related:
     provider:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
+    quality: 34
+  - title: "Samsung joins hands with Naver to develop AI chips"
+    excerpt: "Samsung Electronics Co. said Tuesday it is working with internet portal giant Naver Corp. to develop next-generation artificial intelligence (AI) chips, as part of efforts to improve efficiency of processing large AI data."
+    publishedDateTime: 2022-12-06T02:38:00Z
+    webUrl: "https://www.koreaherald.com/view.php?ud=20221206000445&np=1&mp=1"
+    type: article
+    provider:
+      name: The Korea Herald
+      domain: koreaherald.com
     quality: 34
 
 secured: "AxTbmtMWy4amV8YzqSzZaUh8UZBDy0S5Z4vYZJ6GfIeASiTB8rcZDOfHLF7p9bVTgdpKOQYgKL/kRDWP0jN5QoGVrtt3Xd4s9guv/gL+yHe5ddsntqzR23GfRAZB3qQ8nmQoR6+uxbJR+y9R7DtczbXN2pXDgljBd/4IM4dRenub1VRRpNNdAPZUDiG6eS/5DheFqOwgAR3ka7in12z4HToWlTvR4UkwGgPYu6MIOyoEOfgAPBL3poH9fOp1/Rop+yC4dWIhqTVI7Bjpn6o82XJNT3amupUL4f3SnK2XKDAP1N5idi9M8OYIZeto84oSwFDyNm/9paVZG4GTqEI9yjNH8bDxEWBk5UBZE/NQUpIp8UKNb+1rMnrFY/Ak7ce9RWsuU2oswncTH1hRsMC/gAmRxdJxu0dEG1o89InzeRyvZ4mDa6E7IhMYEh1akdQl3ir7Hc78YWeJZaWMyenFeSBfcITsrVgDGpStM7MVcqCWkHaKSm9wYQfnLYAm9IYDPHClVj6w3umJ0Nhphp5iRw==;mkmtTNpggYmmqtVADwXOYQ=="

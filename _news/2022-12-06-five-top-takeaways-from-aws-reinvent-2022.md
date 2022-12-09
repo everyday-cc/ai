@@ -53,6 +53,20 @@ related:
         width: 610
         height: 458
         isCached: true
+  - title: "Announcements you might have missed from AWS reInvent 2022"
+    excerpt: "Attendees at this year’s AWS reInvent witnessed the cloud giant unveiling a multitude of new products and services."
+    publishedDateTime: 2022-12-08T23:44:00Z
+    webUrl: "https://techwireasia.com/2022/12/announcements-you-might-have-missed-from-aws-reinvent-2022/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2022/12/bcm_1348a-scaled.jpg"
+        width: 2560
+        height: 1703
+        isCached: true
 
 secured: "mZkaXB+jUsV201jYJyjkmP1mAlumJ8YNbRZ1bIRRYR7D5OATK46h6m1WfDiA8jRj5uVC51fJnKXqqM014DWaA9P5l5Eo3GlQCIDGR4Rl7olkpN910zaN1z6N2hiakuRajD/rgq1IM+JY63yA1JFZago/SG7C9n0mWWhEGCLOy7EydDGWLWYgCzLdqEVSs09ymENKK71DiwQNbORRqktLlSX9LSsUxerEcBmaRNrlm9QJ7IsSaT5fqBNrtStWRnTL38ExSZzwq85q1UwRWDQzi0X7WJBH77/1OMX6WAJL3gR4kfGUKYt636DCJuMLwmgfvob3TDm23jX2rUipoZNHFdTMnBYW12p9dl2bJoXSGtXRn/SSmwuRKFJuwr86IFkJ1FoEuc9TzFUNtS8tUrFCTLS5CmUpWRodHQ3iDgDNFk36pQcYcVCY+n5+yZ4gdGrHRHcEu2uIdJLGcJGEuieDSwgRM6syTP7QOBYXCA+bYlIBaco29rmit6lMqoOEqoT1SSLUfqbi1W3RA0oE54Akrw==;PClfwf2/D85EamgOiVEZcg=="
 ---

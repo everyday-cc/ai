@@ -9,8 +9,8 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/samsung-ann
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/samsung-announces-partnership-with-naver-to-develop-next-gen-ai-chips-122120600618_1.html"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 154
+published: true
 
 provider:
   name: Business Standard
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung joins hands with Naver to develop AI chips"
-    excerpt: "Samsung Electronics Co. said Tuesday it is working with internet portal giant Naver Corp. to develop next-generation artificial intelligence (AI) chips, as part of efforts to improve efficiency of processing large AI data."
-    publishedDateTime: 2022-12-06T02:38:00Z
-    webUrl: "https://www.koreaherald.com/view.php?ud=20221206000445"
-    ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20221206000445"
-    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20221206000445"
-    type: article
-    provider:
-      name: The Korea Herald
-      domain: koreaherald.com
-    quality: 76
-    images:
-      - url: "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2022%2F12%2F06%2F20221206000449_0.jpg"
-        width: 630
-        height: 419
-        isCached: true
   - title: "Samsung, Naver partner to develop AI chips"
     excerpt: "Samsung Electronics on Tuesday announced that it has partnered with internet portal giant Naver Corporation to develop next-generation artificial intelligence (AI) chips, as part of efforts to improve efficiency of processing large AI data."
     publishedDateTime: 2022-12-06T04:21:00Z
@@ -143,6 +127,15 @@ related:
     provider:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
+    quality: 34
+  - title: "Samsung joins hands with Naver to develop AI chips"
+    excerpt: "Samsung Electronics Co. said Tuesday it is working with internet portal giant Naver Corp. to develop next-generation artificial intelligence (AI) chips, as part of efforts to improve efficiency of processing large AI data."
+    publishedDateTime: 2022-12-06T02:38:00Z
+    webUrl: "https://www.koreaherald.com/view.php?ud=20221206000445&np=1&mp=1"
+    type: article
+    provider:
+      name: The Korea Herald
+      domain: koreaherald.com
     quality: 34
 
 secured: "pUBQjholitSTl0hp3BE7HBouv8Kj7GlTnyOhBLzeowtG/COY4RrPQEJRW0Q/7XEFdFvWwbYFhsWP0hJjHAUwQI3/Jbu4hEci4569MJKdNdemuf1Iq/UWailOm6mWPqmuaTwha4qf5hS36MsWDbrAPn98Tsr5vAQcOqMk+wrqafyQP+nPKjhs8pE0+mbpPtWaqwfwZpy7k83gB4lc9tc28ALviLXO6mbJhpL1UMhmfeMXBw+N7bHbZOe9KoT8s0UhgZuUOHsmUi45HMPdh2XMqhoyMasXqVMpdCVd9GwSBwSxiZjXJxMpoV1lGzIk4v3XkNmW7wDNMCvJCnFWKyO7uJ+lDtEwnDasztF2twEqoO1XmaUJy64667SsaNDbGWXOeoSrfLlmOAzB6dxSpksiCR79natJvEMjWH/ur2+vwOLy0LhIEW5+JdCUdbC6OMjeufEWloklkOHaSGLciLU5bu4H1gk8is6vbFepc3HekVL0ggJT9gXlWYuUkwp9h6kp6km6Sxxz4sahWnRKOknkFQ==;VzaNRGo4L7GfZRuHfaHSIg=="

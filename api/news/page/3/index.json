@@ -286,6 +286,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-06-samsung-announces-partnership-with-naver-to-develop-next-gen-ai-chips.md",
+      "title": "Samsung announces partnership with Naver to develop next-gen AI chips",
+      "excerpt": "Samsung Electronics on Tuesday announced that it has partnered with internet portal giant Naver Corporation to develop next-generation artificial intelligence (AI) chips",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/technology/samsung-announces-partnership-with-naver-to-develop-next-gen-ai-chips-122120600618_1.html",
+      "originalUrl": "https://www.business-standard.com/article/technology/samsung-announces-partnership-with-naver-to-develop-next-gen-ai-chips-122120600618_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-12/05/full/1670217737-84.jpg?im=Resize,width=480",
+          "width": 480,
+          "height": 359,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/samsung-announces-partnership-with-naver-to-develop-next-gen-ai-chips-122120600618_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/samsung-announces-partnership-with-naver-to-develop-next-gen-ai-chips-122120600618_1.html",
+      "publishedDateTime": "2022-12-06T02:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-taiwans-tsmc-will-make-3-nanometer-chips-in-12b-factory-in-arizona.md",
       "title": "Taiwan’s TSMC will make 3-nanometer chips in $12B factory in Arizona",
       "excerpt": "Check out the on-demand sessions from the Low-Code/No-Code Summit to learn how to successfully innovate and achieve efficiency by upskilling and scaling citizen developers. Watch now. Taiwanese chipmaker TSMC announced with President Joe Biden that it will build a $12 billion factory in Arizona where it will build three-nanometer chips.",
@@ -545,50 +588,6 @@
         "AI",
         "AI in Finance",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-samsung-joins-hands-with-naver-to-develop-ai-chips.md",
-      "title": "Samsung joins hands with Naver to develop AI chips",
-      "excerpt": "Samsung Electronics Co. said Tuesday it is working with internet portal giant Naver Corp. to develop next-generation artificial intelligence (AI) chips, as part of efforts to improve efficiency of processing large AI data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreaherald.com/view.php?ud=20221206000445",
-      "originalUrl": "https://www.koreaherald.com/view.php?ud=20221206000445",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2022%2F12%2F06%2F20221206000449_0.jpg",
-          "width": 630,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20221206000445",
-      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20221206000445",
-      "publishedDateTime": "2022-12-05T18:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Herald",
-        "domain": "koreaherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
       ]
     },
     {

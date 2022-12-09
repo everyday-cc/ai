@@ -7,7 +7,7 @@ originalUrl: "https://www.reseller.co.nz/article/703800/aws-re-invent-2022-round
 webUrl: "https://www.reseller.co.nz/article/703800/aws-re-invent-2022-round-up-data-management-ai-compute-take-centre-stage/"
 type: article
 quality: 52
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       - url: "https://www.crn.com/resources/0274-1500bd72672e-acf899082c06-1000/aws-sign-summit.jpg"
         width: 610
         height: 458
+        isCached: true
+  - title: "Announcements you might have missed from AWS reInvent 2022"
+    excerpt: "Attendees at this year’s AWS reInvent witnessed the cloud giant unveiling a multitude of new products and services."
+    publishedDateTime: 2022-12-08T23:44:00Z
+    webUrl: "https://techwireasia.com/2022/12/announcements-you-might-have-missed-from-aws-reinvent-2022/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2022/12/bcm_1348a-scaled.jpg"
+        width: 2560
+        height: 1703
         isCached: true
 
 secured: "srqMB6GK0X+2MOkzuLZgqZt3akxE3QtGob2dFksyVZPMlOKFw6xOHIxXrnHfSPtSOcmJqnx9JZYLeCKoIANLb2Q4HGWy53CoO0w1imN9j3fBnGsZwKo7e+EdHF4t6+uEWkPeBx8sT5DUnTZ6W2BUj90t6dIyYLETOeSzqfpALUBmOUv6R3oSSozdsJVX6FCGsc0zwLxmcuOiN+t32ddnsdkCdABrp7MYFvWKicuORbs983jHJln8pLz1xNuFGk8Q4WJ+hJ0CUvJMUsU29PfqPcJcWTjPwKAgvuvVbfzrizokfwOJj7N4CwnrJmOfvPeMTnVHdGjKfBTiUePcax7RQbx5hAd170kaRvk6GL74CxI=;+sDHe7ywBECNdXLScSLgZQ=="

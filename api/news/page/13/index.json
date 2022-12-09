@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-11-26-loab-is-showing-us-the-unimaginable-future-of-artificial-intelligence.md",
+      "title": "Loab is showing us the unimaginable future of artificial intelligence",
+      "excerpt": "Loab was created entirely by artificial intelligence. Loab(Supplied: Supercomposite) An AI-generated character might not sound so remarkable in an era of deepfakes and all manner of digital alchemy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.abc.net.au/news/2022-11-26/loab-age-of-artificial-intelligence-future/101678206",
+      "originalUrl": "https://www.abc.net.au/news/2022-11-26/loab-age-of-artificial-intelligence-future/101678206",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://live-production.wcms.abc-cdn.net.au/900ccc87eec14abd60b443ebc32e548b?impolicy=wcms_crop_resize&cropH=770&cropW=1369&xPos=0&yPos=0&width=862&height=485",
+          "width": 862,
+          "height": 485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-26T02:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Australian Broadcasting Corporation",
+        "domain": "abc.net.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-26-artificial-intelligence-in-diagnostics-market-report-2022-research-with-future-trends-aidoc-medical-ge-healthcare-idx-technologies-inc.md",
       "title": "Artificial Intelligence in Diagnostics market Report 2022 – Research with Future Trends Aidoc Medical, GE Healthcare, IDx Technologies Inc",
       "excerpt": "Artificial intelligence techniques ranging from machine learning to deep learning are prevalent in healthcare for disease diagnosis, drug discovery, and patient risk identification. Artificial ...",
@@ -41,6 +84,40 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-26-how-bitcoin-and-artificial-intelligence-will-free-your-time.md",
+      "title": "How Bitcoin And Artificial Intelligence Will Free Your Time",
+      "excerpt": "Of course, this is a popular topic, especially when people speak of artificial intelligence (AI) and robots. Many worry that computers will soon become more intelligent than us, which would be a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/how-bitcoin-and-artificial-intelligence-will-free-your-time",
+      "originalUrl": "https://www.nasdaq.com/articles/how-bitcoin-and-artificial-intelligence-will-free-your-time",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-25T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -319,6 +396,49 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-26-shark-prime-day-deal-save-250-off-av2501ae-robot-vacuum-with-xl-hepa-self-empty-base.md",
+      "title": "Shark Prime Day Deal: Save $250 Off AV2501AE Robot Vacuum with XL HEPA Self-Empty Base",
+      "excerpt": "Several Shark robot vacuum cleaners empty themselves. Here’s everything you need to know if you’re trying to figure out which vacuum cleaner is right for you. We’ll start with the AI robot ...",
+      "sourceUrl": null,
+      "webUrl": "https://heavy.com/deals/shark-ai-robot-vacuum-prime-day-deal/",
+      "originalUrl": "https://heavy.com/deals/shark-ai-robot-vacuum-prime-day-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://heavy.com/wp-content/uploads/2021/11/Shark-AV2501AE-AI-Robot-Vacuum-with-XL-HEPA-Self-Empty-Base.jpg?quality=65&strip=all&w=780",
+          "width": 780,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://heavy.com/deals/shark-ai-robot-vacuum-prime-day-deal/amp/",
+      "cdnAmpWebUrl": "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/deals/shark-ai-robot-vacuum-prime-day-deal/amp/",
+      "publishedDateTime": "2022-11-25T08:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Heavy.com",
+        "domain": "heavy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -955,163 +1075,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-25-review-shark-ai-ultra-2-in-1-robot-vacuum-and-mop.md",
-      "title": "Review: Shark AI Ultra 2-in-1 Robot Vacuum and Mop",
-      "excerpt": "So my expectations for Shark’s new AI Ultra robot vacuum were very low—especially ... If you want to be able to start the vacuum from your phone, without carrying it into the kitchen, you ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/review/shark-ai-ultra-robot-vacuum-and-mop/",
-      "originalUrl": "https://www.wired.com/review/shark-ai-ultra-robot-vacuum-and-mop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/637e69aec16b4f8de1df58df/master/pass/Shark-AI-Ultra-2-in-1-Robot-Vacuum-Review-Gear.jpg",
-          "width": 2400,
-          "height": 1800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/review/shark-ai-ultra-robot-vacuum-and-mop/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/review/shark-ai-ultra-robot-vacuum-and-mop/amp",
-      "publishedDateTime": "2022-11-24T11:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-25-natural-language-processing-nlp-market-in-depth-market-analysis-and-forecast-2022-to-2028-of-market-insights-with-top-countries-data.md",
-      "title": "Natural Language Processing (NLP) Market : In-Depth Market Analysis and Forecast 2022 To 2028 of Market Insights with Top Countries Data",
-      "excerpt": "Nov 24, 2022 (The Expresswire) -- \"Natural Language Processing (NLP) Market\" research provides significant and in-depth information on the global",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-in-depth-market-analysis-and-forecast-2022-to-2028-of-market-insights-with-top-countries-data-2022-11-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-in-depth-market-analysis-and-forecast-2022-to-2028-of-market-insights-with-top-countries-data-2022-11-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-24T09:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-25-comparing-microsoft-azure-and-google-cloud.md",
-      "title": "Comparing Microsoft Azure and Google Cloud",
-      "excerpt": "Microsoft Azure and Google Cloud offer cloud solutions. This guide outlines the differences between the platforms and tips for evaluation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/azure-vs-google-cloud/",
-      "originalUrl": "https://www.techrepublic.com/article/azure-vs-google-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2022/11/tr-google-cloud-vs-microsoft-azure-770x503.jpeg",
-          "width": 770,
-          "height": 503,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/azure-vs-google-cloud/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/azure-vs-google-cloud/amp/",
-      "publishedDateTime": "2022-11-24T09:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

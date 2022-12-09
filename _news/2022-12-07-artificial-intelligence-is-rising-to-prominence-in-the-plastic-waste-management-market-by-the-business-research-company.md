@@ -6,8 +6,8 @@ publishedDateTime: 2022-12-07T12:48:00Z
 originalUrl: "https://it.tmcnet.com/news/2022/12/07/9725835.htm"
 webUrl: "https://it.tmcnet.com/news/2022/12/07/9725835.htm"
 type: article
-quality: 14
-heat: 14
+quality: 16
+heat: 16
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mma.prnewswire.com/media/1751581/tbrc_logo.jpg"
@@ -40,6 +41,6 @@ related:
         height: 225
         isCached: true
 
-secured: "8w4asw1XWPitUH0t7VqFsKhGJZVDjHSOdhJKVFglO8JF4D8SLaDOWaqP3sGWqFhxYMckN1irdQGQEhG0yRa5ovNqD5peYC2OoI8fGtVkoMdhzlWpUDZEOb+/MC0jvV7YLFBDOi2B0aucLg09B3Id4GNFOXt9bOqqoncJmQ5mR728Oc5RHsyRGdtXoSCX5L57KWPqZXZ1IuXHTW0xoyK4Wmi19fZm/SeodNS2eNqxXBAvYwGV+M1qCWGYC8sxkX1KezOU+BUZNstrSV9MkJdjaYHopKQDQZq57RJQ2H/iNb0xUDTXzlAVHZNJJs9oVf+NIfChOus4V9hMgV3ilu+uAx3yKBUFHWWcDacLBp6Al9Y=;4GpGtZAOpoaWbOTY0jdyDw=="
+secured: "MS3pfGLoo/4rB8ZLGJ7TwwFDH90PTkAe4Az8u6bbb8bYDAXpNLTQ6Gy8Q8QvSCMYusrZdeh6sZi5pdGH+/YrucSb1PMgYJb9gxrPCW62c9SYwUExzJZMfd9ZsPWZzUiH3Z6C++2vOlWmu12AXcZLmOYdFkkovZE1u0dZacMoP5TaZlN8RWom/Saxxv6oF5Tv60wzxCj53OH5ttPlhVhdFszSBI5jp4aABslQvdG32xfiJBeVkqPoW88XSi74tNz+IsYu4wUTmh4+Q1VO/W4M9sPI1FUU3CFswV21XTPIeTys2PNfQyX2sdmZchwH6xSlfybwVmFVXm8IvxNbmn7Owy1NeGiz7TiIiWHXWtbYMN0ojScVyD5MmqWpm9IzH6o5hYBKVrBEo2GRemDkI1p/3sZPRzDwjY+NMCg1G33l3pYm49IAJkMOFvrL8EG7Io6zDdnmZT7z21aMtgY3GlA5oA9w9FiTwlrpA8jhji17C6BNVFbjwnxPP53KnaBgvxQVts/PXRzGMxcGN8zW+VcDOQ==;CocRpb29OZEkxyG0glJtaw=="
 ---
 

@@ -844,6 +844,40 @@
       ]
     },
     {
+      "path": "_news/2022-11-26-how-bitcoin-and-artificial-intelligence-will-free-your-time.md",
+      "title": "How Bitcoin And Artificial Intelligence Will Free Your Time",
+      "excerpt": "Of course, this is a popular topic, especially when people speak of artificial intelligence (AI) and robots. Many worry that computers will soon become more intelligent than us, which would be a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/how-bitcoin-and-artificial-intelligence-will-free-your-time",
+      "originalUrl": "https://www.nasdaq.com/articles/how-bitcoin-and-artificial-intelligence-will-free-your-time",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-25T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-26-artificial-intelligence-tailors-dna-for-drug-development.md",
       "title": "Artificial Intelligence Tailors DNA For Drug Development",
       "excerpt": "Using AI, scientists have succeeded in designing our own DNA that contains the exact instructions to control the quantity of a specific protein.",
@@ -1325,40 +1359,6 @@
       "provider": {
         "name": "Al Bawaba News",
         "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-california-gave-waymo-the-thumbs-up-to-offer-driverless-rides-in-the-bay-area-and-los-angeles.md",
-      "title": "California gave Waymo the thumbs up to offer driverless rides in the Bay Area and Los Angeles",
-      "excerpt": "State officials have given Waymo LLC the green light to offer driverless rides to the public in autonomous vehicles it's testing. The California Public Utilities Commission announced Friday it has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/sanjose/news/2022/11/22/waymo-gets-states-ok-to-offer-driverless-rides.html",
-      "originalUrl": "https://www.bizjournals.com/sanjose/news/2022/11/22/waymo-gets-states-ok-to-offer-driverless-rides.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T20:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
         "images": null,
         "publishers": null,
         "authors": null
