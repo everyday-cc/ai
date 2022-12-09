@@ -18,21 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence in the service of the military"
-    excerpt: "We are all familiar with the defense and security tasks of IDF camps and infrastructures performed by combat soldiers and military combat supporters. These missions are intended to enable the proper and safe existence of infrastructures,"
-    publishedDateTime: 2022-12-04T22:51:00Z
-    webUrl: "https://www.jpost.com/opinion/article-724053"
-    ampWebUrl: "https://m.jpost.com/opinion/article-724053/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/opinion/article-724053/amp"
+  - title: "Take Advantage of Artificial Intelligence to Keep the Network Up and Running Well"
+    excerpt: "Trying to manage and troubleshoot today’s sprawling distributed networks has stretched many IT teams to the breaking point"
+    publishedDateTime: 2022-12-09T16:18:00Z
+    webUrl: "https://www.networkworld.com/article/3682890/take-advantage-of-artificial-intelligence-to-keep-the-network-up-and-running-well.html"
     type: article
     provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 57
+      name: Network World
+      domain: networkworld.com
+    quality: 32
     images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/518195"
-        width: 640
-        height: 428
+      - url: "https://images.idgesg.net/images/article/2022/12/modern-office-and-wireless-communication-network-concept.jpgs1024x1024wisk20c6sdx3d-woqxt2kvwjizf5fnm7trmavwpripzaqudbd8-100935366-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "TObqDJJlbMhTlnQrWM5lQ3BgyyV9fnpTPNKfOWCRliVHzbFnnZu0mPx9SeZb58oQrPJj+gtPxkrEGP9Vyc7vmIjbvDD2BboTy2JNJfMV95BWwMQMjIfrINzpwXIER3yobO3XiD8zbwA2bQYM6mhXG0FfgJKkME9NkeWyapdpGotfR7WQEJCZ6fV82bMOHP02COQbxnbL/0F0S1WPDaAtweUu6zl84N7QSVOdsqR/vb/T8S3vvRvoLB88ur653hzEByIxLcdEF2mRE9w8n5sjRitGMT3dzZBj+KIg91er/u6EVNBXN3xM+g0nKuTBbCkfynBjjfHSpYqwNZovfFQ9PUEXVPUSzRLkJ7pcHgvmYqI=;sgyBUjlJua356vKyCEKWcg=="

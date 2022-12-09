@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Cohesity Named a Leader in Data Resilience Solution Suites Report"
+    excerpt: "Cohesity, a leader in data security and management, has announced that global market research firm Forrester has named"
+    publishedDateTime: 2022-12-09T16:10:00Z
+    webUrl: "https://www.datanami.com/this-just-in/cohesity-named-a-leader-in-data-resilience-solution-suites-report/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 4
   - title: "Cohesity Named a Leader in Data Resilience Solution Suites Report by Independent Research Firm"
     excerpt: "Cohesity Earns Top Score in Strategy Category and Scores Highest in Market Presence Among Leaders Cohesity, a leader in data security and management, today announced that global market research firm F"
     publishedDateTime: 2022-12-08T15:20:00Z

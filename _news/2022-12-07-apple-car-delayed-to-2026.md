@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Apple Self-Driving EV Delayed to 2026, Likely to Start under $100,000"
+    excerpt: "The tech corporation aims for the car to be fully autonomous on the highway, but has ditched a pod-like design and will include traditional driving controls in the cabin."
+    publishedDateTime: 2022-12-09T16:47:00Z
+    webUrl: "https://www.aol.com/apple-self-driving-ev-delayed-144700201.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://media.zenfs.com/en/car_and_driver_581/d8d9076b5e16b2172a0d9337e5e9d4d0"
+        width: 626
+        height: 313
+        isCached: true
   - title: "Apple scales back self-driving car and delays debut till ’26"
     excerpt: "The car project, dubbed Titan inside the company, has been in limbo for the past several months as Apple executives grappled with the reality that its vision for a fully autonomous vehicle —"
     publishedDateTime: 2022-12-07T13:35:00Z

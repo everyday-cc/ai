@@ -7,7 +7,7 @@ originalUrl: "https://www.benzinga.com/pressreleases/22/12/b30010180/cohesity-na
 webUrl: "https://www.benzinga.com/pressreleases/22/12/b30010180/cohesity-named-a-leader-in-data-resilience-solution-suites-report-by-independent-research-firm"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Cohesity Named a Leader in Data Resilience Solution Suites Report"
+    excerpt: "Cohesity, a leader in data security and management, has announced that global market research firm Forrester has named"
+    publishedDateTime: 2022-12-09T16:10:00Z
+    webUrl: "https://www.datanami.com/this-just-in/cohesity-named-a-leader-in-data-resilience-solution-suites-report/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 4
   - title: "Cohesity Named a Leader in Data Resilience Solution Suites Report by Independent Research Firm"
     excerpt: "With its extensible Cohesity Data Cloud platform, Cohesity received the top score in the strategy category, receiving the highest possible scores in the performance, delivery model, and commercial model criteria."
     publishedDateTime: 2022-12-08T18:03:00Z

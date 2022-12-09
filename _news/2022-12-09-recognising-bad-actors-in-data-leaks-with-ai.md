@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-09T12:41:00Z
 originalUrl: "https://www.theguardian.com/info/2022/dec/09/recognising-bad-actors-in-data-leaks-with-ai"
 webUrl: "https://www.theguardian.com/info/2022/dec/09/recognising-bad-actors-in-data-leaks-with-ai"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Guardian

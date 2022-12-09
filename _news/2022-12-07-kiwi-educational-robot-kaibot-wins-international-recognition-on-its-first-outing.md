@@ -148,6 +148,15 @@ related:
       name: Dallas Innovates
       domain: dallasinnovates.com
     quality: 33
+  - title: "How businesses are deploying facial recognition"
+    excerpt: "As facial recognition software becomes easier to acquire, businesses are using it to surveil and analyze customers. Bloomberg's Parmy Olson explains where and how the technology is being deployed."
+    publishedDateTime: 2022-12-09T14:57:00Z
+    webUrl: "https://www.capradio.org/news/npr/story?storyid=1141616057"
+    type: article
+    provider:
+      name: Capital Public Radio
+      domain: capradio.org
+    quality: 19
 
 secured: "EQR4OkDggTPo8R6UojKGXW/Jy58y5emvWQ6RqjGHrX2COZoL9/lXuyj5Q58PJDLsh5jORNwXdVlLIwa2NzS++JR4muBkUjTQGoCKdtFoWw20wS5i0wEJywypRxoT8/gjKbWYAuAVJ1XC65IoW+DoiMSyIUzbVcJJVS5ymJeRNIMUprif0Hv0hF7JpnCuV85AmHzVB0HBoaAS6C218V3a/TC7q5t+W6l2D1DyYUtdi4hxogMxE7ddwBCZoJCve831ta3WteP7A0hbOeZOjboGgk4JyUofeDh4j6ijqzrKbAYsch8AXaIkTCEWDThQt3Ukf9r8rt2UBz/z0wpyu1bU7yK/R3UJZ/pV5uiKC1btTZo=;OFX0NjIskUnxP4SvI3bMGQ=="
 ---

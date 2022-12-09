@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-09T14:53:00Z
 originalUrl: "https://www.machinedesign.com/markets/robotics/article/21256120/erik-schluntz-calls-out-four-tech-trends-transforming-robotics-and-ai-in-2023"
 webUrl: "https://www.machinedesign.com/markets/robotics/article/21256120/erik-schluntz-calls-out-four-tech-trends-transforming-robotics-and-ai-in-2023"
 type: article
+quality: 48
+heat: 48
+published: false
 
 provider:
   name: Machine Design

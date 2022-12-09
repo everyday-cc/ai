@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-12-machines-human-ai-examples.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-machines-human-ai-examples.amp"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: techxplore
@@ -41,6 +41,15 @@ related:
         width: 496
         height: 326
         isCached: true
+  - title: "Not Even AI Can Beat the Market These Days"
+    excerpt: "A tireless machine able to digest all information and immune to biases should be clearly superior to humans when it comes to investing. Except it’s not."
+    publishedDateTime: 2022-12-09T11:32:00Z
+    webUrl: "https://www.washingtonpost.com/business/not-even-ai-can-beat-the-market-these-days/2022/12/09/0ae9d85e-77be-11ed-a199-927b334b939f_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 17
 
 secured: "GsK0BInM0TrfEtFIVPww9hXKZT5w0/tiNljJnAJ4HiuA3kfCmpNvX+a8cN8CpjxZfBzZYhQ28v14V7OLAHBXBDXTEkYpDxttxWYWjCCpYBmp8vqCReHDZjmbPIfQ8qyWcjbTBje7fe8rppuyPD49TVw5d8KRfYG+K2TldLIMoBcWqZLtOsbw7ojM5uqicjca1XsUEFNu7zmG90MUqnFLv3WR/wo9ze18G4Ae7MhkGetvDF3U47qqJW1cwvcFmiCPmw212VMhzAuOVY+zQVzOtYgEiDJLEwg3TmW2c3cnMkoNCK8Aoeb8eBi86pCDWKwfun3dc9am1wwI0rNO14z2tSB72YQbtcbRjuFTsMrOd4I2rNwMVDSHTieEbieB/RruiisIuwohuaygNuQPiMNIYlU8tZlg4Gl88V9+bw9UHUTcjdZukWu1v+zeBfAfyl00hn+9uHPVNIF5Ve6WqtewcE93GFzDd20p+ujVJbFU9uJb4N/PfoLav7wSI6xN9z6SzQVZgfMt/xW7sg3baSvAHw==;BWZsVwS7+xAe86ceDKHiYA=="
 ---

@@ -149,6 +149,15 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 29
+  - title: "How businesses are deploying facial recognition"
+    excerpt: "As facial recognition software becomes easier to acquire, businesses are using it to surveil and analyze customers. Bloomberg's Parmy Olson explains where and how the technology is being deployed."
+    publishedDateTime: 2022-12-09T14:57:00Z
+    webUrl: "https://www.capradio.org/news/npr/story?storyid=1141616057"
+    type: article
+    provider:
+      name: Capital Public Radio
+      domain: capradio.org
+    quality: 19
 
 secured: "KA/gbRfUr0aTQrvAz/eth3/V66BtazT5byoXZ3ywqdylYU8ZvXUlbR+6MXAu7tjrid4aNA11v7tHavJL8HSPZ+i8Z6xjCK2nwT3Tqzaz3Mvs2pzhj004uQa8H7JTNSB02tM+TupaBoOiqFT255Is9y22jDo+n4bSvhvq19kXLvRhzm4BW05/6BDZlSCPPzka+Q4cHLy3peXqMBJOxB/b7n5ph/Iq7Bm4nlcgNZqIZ17y9o6twZ0wKmmQA5b4V85aEPUPX9sHIEBTlc5Qdww7VKjHjlpp69PXTj/3L4eYzUpSKvosf0ZKzRA6ydgSFUhRnuJUVuwU9GB6Myg0vHiet5x9kP5M2RwCBApKxWiXPQ62p06Y675AlFVN0H5JHY2MisnYvrc2VQIvXZQeCqyM451OFr+b/yx+5m3ZNFJrTCpLkJEkmaCJR1h+WDIr2A7hgqBlntDN6rWO7WKHUurYLNkH/gzfa+dCjp+EsA/KNewd8Oyl46zES28+aZsc7yDJcYe0RDqBJYSF6DilOsfalA==;DLzvK4jvuitpymBqI52fYw=="
 ---

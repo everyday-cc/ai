@@ -44,6 +44,22 @@ related:
         width: 800
         height: 522
         isCached: true
+  - title: "DeepMind's AlphaCode attains 'average' rating in programming competition"
+    excerpt: "A team of researchers at DeepMind has tackled another difficult task—generating computer code to satisfy a natural language request. In their paper published in the journal Science, the group describes the approach they used in creating their AI app and outline how well it did when pitted against human programmers."
+    publishedDateTime: 2022-12-09T15:30:00Z
+    webUrl: "https://techxplore.com/news/2022-12-deepmind-alphacode-average-competition.html"
+    ampWebUrl: "https://techxplore.com/news/2022-12-deepmind-alphacode-average-competition.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-deepmind-alphacode-average-competition.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 73
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/computing.jpg"
+        width: 1920
+        height: 1282
+        isCached: true
 
 secured: "PRo/DrMCuonaIP3J+ctubEQD3Yin73eRuutM5A19eTMatFWbTx73wnWJMYAdfdgeJcVglNI5CO08YxectcvCuwbm+ovfB5X7OlPXKE4Olj/UCL0DYZlANp92ify1AUe3nRXxli2nXYohXLwbSmhYs7kZj1EMv6QKGErbWpZEnxV4/Cxa670yarjjMTJdTy+Lv8k11Vm0Pf5TIb0byPwbMJuPQWiC7XFuyGa6rlmO5KCHLe/FtvrG/fWzJT9Wf2ZZGH8XrZ/Zy3pYuHYKxnFn7a69K6LuACYd6MC8WE+2pOC+KfiQOB8HrsXoxfQgST2y4YnJbxGBmP+/nATsMKGGwabpxrnRlA+zaJ1hrVSRCrBFsk2Q+bzO2/C1rxkjOCv6YUzjfxC9JpiwTFEgYo69HyUZ48llVMYLErGImg19bcolgM1a1rGUaRd+5IsY7PWBtvOi5MG5fOeRcoDN+VHdoEUOjJ5b5R1kZGc9M6J0JWqCJZ1AUZ+yT3OnX3isn4HJZ2VO6ekJgH+iRXuzYz9Qgw==;BkFh/eeYBZGii44KKeLLww=="
 ---

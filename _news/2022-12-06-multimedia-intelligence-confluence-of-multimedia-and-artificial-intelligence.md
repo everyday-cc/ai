@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificially (un)intelligent: An AI search engine for science spits out climate denialism and covid misinformation"
+    excerpt: "A new AI-powered search engine says it can pull out 'consensus' scientific findings from across peer-reviewed literature, but at the moment it gets a lot of things wrong — sometimes dangerously so."
+    publishedDateTime: 2022-12-09T14:29:00Z
+    webUrl: "https://www.grid.news/story/science/2022/12/09/artificially-unintelligent-an-ai-search-engine-for-science-spits-out-climate-denialism-and-covid-misinformation/"
+    type: article
+    provider:
+      name: grid
+      domain: grid.news
+    quality: 19
+    images:
+      - url: "https://www.grid.news/resizer/BA4vxW838bNnt6ak7_WOrPNTjFQ=/1200x630/filters:format(jpg):quality(100)/cloudfront-us-east-1.images.arcpublishing.com/thesummit/TM2VKJJMDBANDHKT4HB2DRNIKM.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "5G-Advanced Will Build More Capabilities and Intelligence in Wireless Networks"
     excerpt: "He further added, \"The next few years will see initial work on Release18, the 5G-Advanced standard, which will offer a boost to network performance and create even more opportunities.\" This 5G Americas paper provides a detailed background on 3GPP's work leading into 2025,"
     publishedDateTime: 2022-12-07T18:56:00Z

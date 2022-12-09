@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Bosch is driving Industry 4.0 in India"
-    excerpt: "Bosch India is leveraging advance analytics and artificial intelligence to detect manufacturing defects and plans to tap quantum computing for material simulation"
-    publishedDateTime: 2022-12-04T22:07:00Z
-    webUrl: "https://www.computerweekly.com/news/252527987/How-Bosch-is-driving-Industry-40-in-India"
-    ampWebUrl: "https://www.computerweekly.com/news/252527987/How-Bosch-is-driving-Industry-40-in-India?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252527987/How-Bosch-is-driving-Industry-40-in-India?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 24
   - title: "The Download: Uber’s flawed facial recognition, and police drones"
     excerpt: "Uber’s facial recognition is locking Indian drivers out of their accounts One evening in February last year, a 23-year-old Uber driver named Niradi Srikanth was getting ready to start another shift, ferrying passengers around the south Indian city of Hyderabad."
     publishedDateTime: 2022-12-06T13:10:00Z

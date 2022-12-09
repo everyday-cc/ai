@@ -43,6 +43,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "What You Should Know Before Using the Lensa AI App"
+    excerpt: "Are you thinking about uploading some selfies and buying a pack of ‘Magic Avatars’? Consider these expert tips first."
+    publishedDateTime: 2022-12-09T12:00:00Z
+    webUrl: "https://www.wired.com/story/lensa-ai-magic-avatars-security-tips/"
+    ampWebUrl: "https://www.wired.com/story/lensa-ai-magic-avatars-security-tips/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/lensa-ai-magic-avatars-security-tips/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: "https://media.wired.com/photos/6392663fdf2fe9c58ee95b55/master/pass/Security-LensaAI-Birth-Venus-92825836.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "You can use the Lensa AI app to turn your photos into artistic portraits"
     excerpt: "To credit for these masterpieces is the Lensa AI app, and here is how you can use it to get your own. Lensa AI is a free-to-download, photo-editing app that launched in 2018 and is available in both the Apple App Store and Google Play Store."
     publishedDateTime: 2022-12-05T21:54:00Z

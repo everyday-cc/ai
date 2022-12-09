@@ -7,7 +7,7 @@ originalUrl: "https://www.fudzilla.com/news/automotive/55935-chinese-release-a-f
 webUrl: "https://www.fudzilla.com/news/automotive/55935-chinese-release-a-fully-autonomous-electric-car"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "How facial recognition allowed the Chinese government to target minority groups"
+    excerpt: "Journalist Alison Killing explains her investigation in Xinjiang, China, where the government has used facial recognition cameras to track Uyghurs and detain them in camps across the region."
+    publishedDateTime: 2022-12-09T13:43:00Z
+    webUrl: "https://www.wwno.org/npr-news/2022-12-09/how-facial-recognition-allowed-the-chinese-government-to-target-minority-groups"
+    type: article
+    provider:
+      name: WWNO
+      domain: wwno.org
+    quality: 15
 
 secured: "kHG6ymeTbrJrAhKo+7btV75c3vB258webDS63ZqL6aseSskH3LpStdg3KDHHrqcgRgRaIYICT0wrD2u9pvhBjbptyziAtKfec2Yi2zlP2FSGLJgx+S17ZsCcBYftCe1ZHYyvH3pUseHt7nCJjYfUv/7wOjSEokq95WoE2F3DSVwJp/t8/4RyXMWfsGEvPri3x5CCX3KEWi99Q4yRd2ala8pnK7CPV79WZn7IvXc4bsHPsFIOrVUbqWAXGlGnPxsQqSEv3kwYL0fCIgFd4qx/yihjRBMFwetGwlM+dpptXaW3DotcknUvLhixyMXxqaRhskGmLF2q2oqkDh1ACj98sY2DHm/8ZU/hQetbwqxj2CsO/OGCLn6B1Z0RG64y7jkpOmUO/fO3UT6WYXXfXzJWH4DrnVlz/pHX3D7ABEZ/xuZ8WxE2oS3UZ1Q5CntMBDpzj54LHzem3DBaGNiFYL888j2yKpoonfPn2YbJiYLmaypoqs9QOhwVFiZvDzrCoYCtN7LJLtVIUU9qEZ/7kLH/3w==;RAgJFnDISTUHzPDnWHJL8w=="
 ---

@@ -190,6 +190,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "I Entered a Pun Competition. My Jokes Were Written by an AI Chatbot."
+    excerpt: "ChatGPT, a trendy new artificial intelligence robot, can generate all sorts of writing. But is it punny?"
+    publishedDateTime: 2022-12-09T15:23:00Z
+    webUrl: "https://www.wsj.com/articles/chatgpt-ai-chatbot-punderdome-jokes-11670602696"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-682317/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Is ChatGPT the Start of the AI Revolution?"
     excerpt: "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skill"
     publishedDateTime: 2022-12-09T10:30:00Z
@@ -474,6 +488,15 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
+    quality: 17
+  - title: "AI bot ChatGPT writes smart essays — should academics worry?"
+    excerpt: "The bot is free for now and can produce uncannily natural, well-referenced writing in response to homework questions."
+    publishedDateTime: 2022-12-09T13:06:00Z
+    webUrl: "https://www.nature.com/articles/d41586-022-04397-7"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
     quality: 17
   - title: "A week since launch, OpenAI's ChatGPT has shown the power, and horror, of AI"
     excerpt: "In fact, there's a good chance that you've used something that relied on AI in the last 24 hours. But when OpenAI launched ChatGPT last week, it lowered the entry requirements for using AI. ChatGPT is a chatbot that's accessible through any web browser."

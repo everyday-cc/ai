@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-09T13:00:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/09/how-ai-is-disrupting-the-content-creation-economy/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/09/how-ai-is-disrupting-the-content-creation-economy/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

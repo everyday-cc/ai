@@ -41,6 +41,15 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "Not Even AI Can Beat the Market These Days"
+    excerpt: "A tireless machine able to digest all information and immune to biases should be clearly superior to humans when it comes to investing. Except it’s not."
+    publishedDateTime: 2022-12-09T11:32:00Z
+    webUrl: "https://www.washingtonpost.com/business/not-even-ai-can-beat-the-market-these-days/2022/12/09/0ae9d85e-77be-11ed-a199-927b334b939f_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 17
 
 secured: "ZOnYXgq0X/PSQzv0Mvk4Wl2L+ZfdMtanE59frGpHLoYO11IDphNiEYh1w2XrQIA35vP9QLWsnU1A0/GFIoinXXyCHqyJcv+PY2Wpum7HB42Py7CBrTHIAMA09Ba7gPGt4xKwzkdlGx41NmOkD/eZ6YyiWQyy0dEMko6YPuPvfH9q6Mmo2N2jABSPxDAtzr9M4t2TBkIYoeY/a9GQWRQVTphWd0JhbToFcFz4d5j9+pZRH/1nu9WBMmiINHq7T84sOIi+JTIjDJjIkLWXsO/25nbyw7pmgIzxJQtdJRrmYRopue9CYTyjD1e52GPAU76JMofxsoun2/ODe6bNX2ZH7R1uDTtKYbZudQagQe3y0IWXKMX6wf+8nm61/mpwicbrlOyxLhps0xtojZ71QSXqjdtM2H6zgbNvChshLT7msBlQA+SYZmbQKhJL2v3a2n9Pvf/vKpE90eXxpSU2iOE/98joso5wRDS1zfDkVWoWhtvu5VRvWRkOn5UeHOBtQGf+mzes1TFWQvZ+3fIXAZbv3g==;pN8usCLOry0KfRvE/WXMSg=="
 ---

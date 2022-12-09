@@ -1,21 +1,26 @@
 ---
 category: news
 title: "Domo Joins the Amazon SageMaker Ready Program"
-excerpt: "Domo (Nasdaq: DOMO) announced it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner software solutions that are validated by Amazon Web Services (AWS) Partner Solutions Architects to integrate with Amazon SageMaker."
-publishedDateTime: 2022-12-01T14:28:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/12/01/9723034.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/12/01/9723034.htm"
+excerpt: "Today Domo (Nasdaq: DOMO) announced it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner software solutions that are validated by Amazon Web Services ..."
+publishedDateTime: 2022-12-01T14:06:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/domo-joins-the-amazon-sagemaker-ready-program/article_6242ae1d-7680-5d90-8e69-4e80187adef3.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/domo-joins-the-amazon-sagemaker-ready-program/article_6242ae1d-7680-5d90-8e69-4e80187adef3.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
-  - Machine Learning
-  - AI
   - AWS AI
+  - AI
 
-secured: "UhAXcm58Hbgbj7IZBZULt6cRFwtkcNbAo9EzzYN0Rqw/2VgmD8YGLRiDN631hAS0QhFUogNjgLSS8zn19M0jvh34DXV9tbV7OiF2YeviCDr7XcSIS6V2/65WydA6eu64ToCLfAAG8T2dTs1RdZdDMWOdWxm+Rcznq4UtpncuTFcxTR7gku68eUCYRqUSl+8bIhLW+2/EkEWR1W01JGSE8FDGYw01zVNUzIRouMEPZ13xXNuVfBONIo9I+rBScA1RmUDCluhxNiHOGZkdl2Debapoc3Bun1IVSnrT4XE1p8CXzed6L5xGXIBxEIHk2jqtZhVz+o6lUzMmYsCrE1/u4Te5get0i5EVQ4/8ldgRgs4=;b3FUSk2T0UPFBWv+V1iFQg=="
+images:
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg"
+    width: 350
+    height: 455
+    isCached: true
+
+secured: "oAuQCcLuUtGr+rb9u0HMJuiMNqzIU6YkxJ0dTPZnZ3c2ak4DeFQ1ESCaLt2x8mRP7o25Peq6KW24P+Bz8DTz3PuununPmIJE0dtj0zuTgU+z5c4zPlIWTKguTkgThuH0CI0o+hYU81sD+cDeobX3MfS1+c53ieJ4WJTg+RO5BkaIj0ken+2IUxsSF2Ihl2++XWg/9gi1oFgzNVZTiRPOPXDTaHMlTzJleqk0IePn4s/QSbJ9Lvj8+ReSmynNkYWiieeDQcEHT74JKGyf4AfMxyxzp2kH2DHmufZyEuc58SPlQ9Z+aEf52B+uUUUXQLs3gZsFCl7nHCg2/vNZ0k9RIR52W7+m0ZmTUWPN62XD78k=;/lI9IG+CVz/Jjc5+G/zhew=="
 ---
 

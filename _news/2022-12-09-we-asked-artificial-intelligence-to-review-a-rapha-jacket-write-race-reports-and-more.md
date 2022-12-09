@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-09T12:40:00Z
 originalUrl: "https://www.cyclingnews.com/features/we-asked-artificial-intelligence-to-review-a-rapha-jacket-write-race-reports-and-more/"
 webUrl: "https://www.cyclingnews.com/features/we-asked-artificial-intelligence-to-review-a-rapha-jacket-write-race-reports-and-more/"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Cyclingnews.com

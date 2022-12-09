@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/96871-tsa-ready-nationwide-deploymen
 webUrl: "https://www.techspot.com/news/96871-tsa-ready-nationwide-deployment-facial-recognition-system.html"
 type: article
 quality: 69
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -153,6 +153,15 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 29
+  - title: "How businesses are deploying facial recognition"
+    excerpt: "As facial recognition software becomes easier to acquire, businesses are using it to surveil and analyze customers. Bloomberg's Parmy Olson explains where and how the technology is being deployed."
+    publishedDateTime: 2022-12-09T14:57:00Z
+    webUrl: "https://www.capradio.org/news/npr/story?storyid=1141616057"
+    type: article
+    provider:
+      name: Capital Public Radio
+      domain: capradio.org
+    quality: 19
 
 secured: "sbrJYMxmFWewSTJJM1dyX+gBbXbv81FLaa4iiPGHNFnWlaNoCG73zO9hS80wNogp1C9wNekjIK9yA6AIwKPfeNnASVxBabyEwaFMTn+tQR/1PwXSiheBmaGt76PFCEXZra4I2dNODH4ptQA5Hs53DC9hmvReFK10rSEQlPBNUB+8zHde3NcXiPkY+qiArfJzIlvjA6BLlgWQcjIGPJ+R435pdbxXoHxkVG1yZLkcAZyAjGgPkcAoXVi2r4jj05wMznY8ZSwmcEU0lMYwQ6TkWOf/1b9PnLpiFOlhcD2JHrM5ugHo/STlve+HShx/f6mDMlYwamQ/ctVltmh1M5c36sIXRDnf5uCpSVmaq/8baevCs7okNwjnA6R3fD4Vq37impBZB30d26rCJg0RVlPGgrRBvrj6+sa2u36k6Y5S/aQI05+zZdZJ9knchiitdMRzwfD/SdrruHm24zc/WphfktuVSruC2KUkuIXC0s83JhH1x/IqahpO+rloplE1AdR9P0RaADrN1mZdfAMHnCPuCg==;SQamt7SgPotQdtt/y4wxWQ=="
 ---

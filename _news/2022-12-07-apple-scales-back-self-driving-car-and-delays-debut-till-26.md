@@ -30,6 +30,20 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 24
+  - title: "Apple Self-Driving EV Delayed to 2026, Likely to Start under $100,000"
+    excerpt: "The tech corporation aims for the car to be fully autonomous on the highway, but has ditched a pod-like design and will include traditional driving controls in the cabin."
+    publishedDateTime: 2022-12-09T16:47:00Z
+    webUrl: "https://www.aol.com/apple-self-driving-ev-delayed-144700201.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://media.zenfs.com/en/car_and_driver_581/d8d9076b5e16b2172a0d9337e5e9d4d0"
+        width: 626
+        height: 313
+        isCached: true
 
 secured: "Q8WEpAtDpr3TrVUSin9wTY4D/L80n/FdholMf7K3hXnRwZ/TkS4ctgcWr2GkbjiO194AlOJbcMEzuQq90yLnbqYtnwFHFg6hG4yDh3TIyLNA21KBbrELg8408SmyesWsPVdbZcZFd2/pUfmMBx+ys2Ofbcg6x8t0ASJWObI7uKxtWxgjz9IzbRW/bB+nAy1xWyL4qMPOXxT5rx6EfLohRYOhv8XqL6O0wgMiGFNoBQttiJVfgSy/PkDydpRTvHYsoZTA/o2KLf+J+31tpVucrv6UyGlnwT2zhgmFqvBTPlL8u0mogAksPathio3xqLU3LEbUzPbvC1B8vPBROi6YpwCV2RDImlFfsDrZQsq6m8KejftetZGILvK9sngXVflEKxI31WMvL2C93A8Q7o4F7kKZ8NW0xhkXf3mcqXNFw24wkg0iy71Tcn4tnj+NQP/vNqLSaMVNu0t28mQWKUVTOu2XHFE5q1xqxfd0x7q7TB5Kv0MNS122Oo2NXpHiXtbiv9cPcSKHEqw8UIlcRNOptw==;pv/o4s4eFLzDGDs7N+WCTg=="
 ---

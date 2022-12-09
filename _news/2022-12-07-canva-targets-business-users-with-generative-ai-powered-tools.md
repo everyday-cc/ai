@@ -22,35 +22,35 @@ topics:
   - AI
 
 related:
-  - title: "Startup pioneers new use case for generative AI: Building business applications"
-    excerpt: "Qatalog 2.0 deploys generative AI to automatically generate workspaces for specific industry verticals based on each client's needs."
-    publishedDateTime: 2022-12-07T18:07:00Z
-    webUrl: "https://venturebeat.com/ai/startup-deploys-generative-ai-to-help-build-business-applications/"
-    ampWebUrl: "https://venturebeat.com/ai/startup-deploys-generative-ai-to-help-build-business-applications/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/startup-deploys-generative-ai-to-help-build-business-applications/amp/"
+  - title: "Canva Opens Up Access To Docs In Beta, Adds “Magic Write” Generative AI Copywriting Tools"
+    excerpt: "Canva launched Canva Docs in an open beta today, a cloud-based hybrid of a word processor and publishing tool. In addition, Canva Docs will be adding \"Magic Write,\" a generative AI copywriting tool."
+    publishedDateTime: 2022-12-07T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2022/12/07/canva-opens-up-access-to-docs-in-beta-adds-magic-write-generative-ai-copywriting-tools/"
+    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2022/12/07/canva-opens-up-access-to-docs-in-beta-adds-magic-write-generative-ai-copywriting-tools/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/12/07/canva-opens-up-access-to-docs-in-beta-adds-magic-write-generative-ai-copywriting-tools/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
+      name: Forbes
+      domain: forbes.com
+    quality: 78
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/Generative-AI-e1668186981244.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 533
+      - url: "https://imageio.forbes.com/specials-images/imageserve/639036d8a23e263ade8a133c/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "The Curious Case of Generative AI"
-    excerpt: "FastSaaS is a growing trend, with companies leveraging AI-generative and no-code capabilities to create their product."
-    publishedDateTime: 2022-12-05T04:52:00Z
-    webUrl: "https://analyticsindiamag.com/jasper-cerebras-partnership-changes-the-game-for-fastsaas/"
+  - title: "Free AI Writing Tools Can Write Essays in Minutes. What Does That Mean for Teachers?"
+    excerpt: "AI writing tools are widely available and getting better every day. Your students may already be using them. Stanford professors Rob Reich, Mehran Sahami, and Jeremy M. Weinstein are sounding the alarm on a new method for student cheating: AI-generated papers."
+    publishedDateTime: 2022-12-07T10:05:00Z
+    webUrl: "https://www.techlearning.com/news/free-ai-writing-tools-can-write-essays-in-minutes-what-does-that-mean-for-teachers"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
+      name: techlearning
+      domain: techlearning.com
+    quality: 32
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/Is-This-the-Real-Moat-in-Generative-AI.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://cdn.mos.cms.futurecdn.net/dmKNAjvu9Ng9zUsQCdh7M6-1200-80.png"
+        width: 1200
+        height: 742
         isCached: true
 
 secured: "q2A4Rhq+tqkOS89VBIbOzd50vltqtyHaypJzUkXmsPtRNUc8n3Z2HBgTfGjUg900ha9zgWy5SEcUOhjbUvaLCZY5aat7PXOE5lgcNBqE9z8LzBedxsjmUd7zz0eVKTUroB1fNPy0kg5lDL9rbD7ankwZRlRsRf4gptiHA3hxNSLK/pxS9gsZWDDA/EfhjsSuSrWhTzg7A5FOsjmIYGxMKnkk3DLYUbdqcH3zsOiPtQeNfK2GYviKj7pSByC4XuxYeSiot2s/W7eSz1l/IwvlukRELGeGvva8t/BJrCzDjZYxMRhxBBpL205eAfrKb6sdBSs6yi0mO4KRqND/c7ThuwDW3DnuRDHdyLqek84ZpfSnJEIFqVV8hlgAZ0FcCci3qWCvss6r3wf/hhfPjwdKybVQXArebtOceNjTrSC42xkUHMBjb7UtPCpiKYSb1Y8MgyE42IyAIdiCDLd4qjXYc20lMhTicjjRelNFsv6oBhJksVHOz/s6qG2+yPEoSaytXDxAUt9WytVORwAkbHjbkA==;Gokoe469ztxeXN0hmWN5tw=="
