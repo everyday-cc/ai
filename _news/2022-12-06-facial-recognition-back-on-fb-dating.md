@@ -92,6 +92,17 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 48
+  - title: "Gulfport-Biloxi International Airport testing facial recognition technology at TSA checkpoints"
+    excerpt: "The Gulfport-Biloxi International Airport (GPT) is one of 16 airports around the United States testing facial recognition software as a part of identity verification at TSA checkpoints. “The Transportation Security Administration is always implementing ..."
+    publishedDateTime: 2022-12-09T11:52:00Z
+    webUrl: "https://www.sunherald.com/news/business/article269775097.html"
+    ampWebUrl: "https://amp.sunherald.com/news/business/article269775097.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/business/article269775097.html"
+    type: article
+    provider:
+      name: Biloxi Sun Herald
+      domain: sunherald.com
+    quality: 42
   - title: "The TSA’s facial recognition technology may expand nationwide in 2023"
     excerpt: "The TSA could potentially expand their facial recognition identification system nationwide in 2023. Veuer’s Maria Mercedes Galuppo has the story."
     publishedDateTime: 2022-12-05T19:30:00Z

@@ -191,6 +191,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Is ChatGPT the Start of the AI Revolution?"
+    excerpt: "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skill"
+    publishedDateTime: 2022-12-09T10:30:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2022-12-09/is-chatgpt-the-start-of-the-ai-revolution"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifzBIsn2zMPo/v1/1200x802.jpg"
+        width: 1200
+        height: 802
+        isCached: true
   - title: "AI Chatbots Are Getting Better. But an Interview With ChatGPT Reveals Their Limits"
     excerpt: "This summer, Google fired one of its engineers who had become convinced that one of its chatbots had reached sentience. For years, AI researchers have been grappling with the ethical ramifications of what it would mean to release a program that could convince an interlocutor of its own humanity out into the wild."
     publishedDateTime: 2022-12-05T21:28:00Z
@@ -415,6 +429,20 @@ related:
       - url: "https://krdo.b-cdn.net/2022/12/hypatia-h_e843decdf5f99a549e6eebdbf661e114-h_e7ecb66b527590d44df8089b6f701afb-300.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "We Prompted ChatGPT to be a Translation Manager"
+    excerpt: "After Slator tested the waters by asking ChatGPT questions about the language industry, we took it a few steps forward by producing a video with ChatGPT, Synthesia, and Descript. First, we asked ChatGPT to answer questions as if they were a translation manager on a podcast."
+    publishedDateTime: 2022-12-09T10:41:00Z
+    webUrl: "https://slator.com/we-prompted-chatgpt-to-be-a-translation-manager/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 24
+    images:
+      - url: "https://slator.com/assets/2022/12/ChatGPT-interviews-as-Translation-Manager.png"
+        width: 600
+        height: 400
         isCached: true
   - title: "The future of AI is here: ChatGPT can create code, tell a story, or create a scene of your favorite sitcom"
     excerpt: "AI has never looked so advanced as it is now with OpenAI's ChatGPT. Iit has been mind-blowing for users over social media."

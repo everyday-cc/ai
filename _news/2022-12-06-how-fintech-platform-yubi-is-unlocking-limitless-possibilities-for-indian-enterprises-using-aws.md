@@ -25,19 +25,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "How Bosch is driving Industry 4.0 in India"
-    excerpt: "Bosch India is leveraging advance analytics and artificial intelligence to detect manufacturing defects and plans to tap quantum computing for material simulation"
-    publishedDateTime: 2022-12-04T22:07:00Z
-    webUrl: "https://www.computerweekly.com/news/252527987/How-Bosch-is-driving-Industry-40-in-India"
-    ampWebUrl: "https://www.computerweekly.com/news/252527987/How-Bosch-is-driving-Industry-40-in-India?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252527987/How-Bosch-is-driving-Industry-40-in-India?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 24
-
 secured: "xohrB+QMY+oUQtedV+jpFA3gS7xNb/orUMJFF3MUuYh+pptaNPPL9bCfq0zr0tDAdSZB9WuI4GuJ7Dt/le92V0ppt9Npe1rc21Ld1QDHaFOd7JSWDgFXkQlgtApOXuDAp4yOF2Cz7sAIMufAyymD640EzWPGNn5Qr+sUqrDroGX1Oz3ERRiYXs/Dd3jtC2JA3fFv1xLJBbjtUqqwIokHwtzFbG5HkpEuOHjogkLEHvlt/nBAG5VKsxKoo6/PwYqGEKVGGYLrPRk80AqNdaozuJV2BcuIHiJitSdSXfZVvkTXYRPGd+ph2ckTMDgc6c4hAUrST231uc5XxjT53waWLg9vZmbuA/OfevTKcSyRpiicZwDjvxiINRNkjZDk0vmIVq2OGa1iI68/iDGdUKsjXL6vKzlA+J2tiXQF77J4SZIMxvAR7S9ylpqTOoTQua7I0vsAivhn+vsZsqB5joKId/afvum2uLt56um23l5mmVon9JNBUrl9pCIXXuqKBNOf5bzdqD2djuZnj1bMvXIc8Q==;iJ88Q8bb+Ias8DwnWrCxGg=="
 ---
 

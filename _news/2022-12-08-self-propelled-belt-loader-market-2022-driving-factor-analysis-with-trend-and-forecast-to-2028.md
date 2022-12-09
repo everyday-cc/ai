@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Underwater Computer Vision Market Trends, Business Overview, Industry Growth, and Forecast 2022 To 2028"
+    excerpt: "Underwater Computer Vision Market Research Report is spread across 83 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector."
+    publishedDateTime: 2022-12-09T06:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/underwater-computer-vision-market-trends-business-overview-industry-growth-and-forecast-2022-to-2028-2022-12-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Education Market 2023 : Impressive Growth Rate, Regional Insights, Competitive Outlook, and Geographical Divisions 2028"
     excerpt: "\" Artificial Intelligence in Education Market \" Insights 2022 - By Applications (Teaching Application, Evaluation Application, Management Application, Others), By Types (, Convenient for Educational Affairs,"
     publishedDateTime: 2022-12-06T00:32:00Z

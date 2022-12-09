@@ -78,6 +78,17 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 48
+  - title: "Gulfport-Biloxi International Airport testing facial recognition technology at TSA checkpoints"
+    excerpt: "The Gulfport-Biloxi International Airport (GPT) is one of 16 airports around the United States testing facial recognition software as a part of identity verification at TSA checkpoints. “The Transportation Security Administration is always implementing ..."
+    publishedDateTime: 2022-12-09T11:52:00Z
+    webUrl: "https://www.sunherald.com/news/business/article269775097.html"
+    ampWebUrl: "https://amp.sunherald.com/news/business/article269775097.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/business/article269775097.html"
+    type: article
+    provider:
+      name: Biloxi Sun Herald
+      domain: sunherald.com
+    quality: 42
   - title: "Facial Recognition Back on FB Dating"
     excerpt: "Meta is extending its use of AI facial scanning to confirm users' ages on Facebook Dating which is a contrast to their 2021 move of banning facial recognition."
     publishedDateTime: 2022-12-06T08:57:00Z

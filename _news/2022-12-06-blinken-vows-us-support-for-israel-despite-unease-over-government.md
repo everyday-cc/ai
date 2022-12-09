@@ -7,7 +7,7 @@ originalUrl: "https://www.newsy.com/stories/blinken-vows-u-s-support-for-israel-
 webUrl: "https://www.newsy.com/stories/blinken-vows-u-s-support-for-israel-despite-unease/"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "Blinken vows US support for Israel despite unease over govt"
-    excerpt: "The Biden administration will remain a stalwart friend of Israel even as it pursues goals that Prime Minister-elect Benjamin Netanyahu has opposed, the U.S. secretary of state said."
-    publishedDateTime: 2022-12-04T20:13:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/blinken-vows-us-support-israel-unease-govt-rcna60033"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 54
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-12/221204-antony-blinken-j-street-jm-1424-72ea13.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "SfpfKkavfh+/x2O6ToE3vQJ0vPqjqEci/2CxvOeTftdif8CDZpM3G1CfNj9AEGTL0l1QA2VwUW1T/iOSYL+K1dEesNBC4QgQ6YB5arjM3iLVjxMRH43vH5S72VuI3kSTri4oJuHgJOYtPBYP3KWORTOP7s2w2/RjbjtnGdH2+7aOCvqfcw01wKWRUDJfPfiwuvPISsWErIM0G9pSXICEAZ1RZ+TprkLQAmiAAeBC25M1UKIc2rjZ2o7s9w6OUm8g7mWHs6Elz6mrkgcgtVVBQFdxdao0RVL3kAarMJzmdRF7b189eC/D8TFTceWmXr3Cb3sTCrOlCyVulYML0e9j018+GYBEe4E1engb1iy3HuWeZon55nq8uaRwdwJg9CHNfvjipFpqlMPoIc/fbHedykqbmJmHIAkNlhWsUEnri8nKCTikjvrxAfrauPhG7u7nFYFO/7qzHHJV5ut0FzwoZPz0KYMP/KFdS2yUeN+5CqS1vbe+fhbDKa77LEGjoxQvDDZCSXTQdinvTOFTFoPaog==;+ubu2yihFQA1dGcQmYKqsA=="
 ---

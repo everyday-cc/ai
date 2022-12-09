@@ -9,7 +9,7 @@ ampWebUrl: "https://www.albawaba.com/amp/business/pr/dell-technologies-advances-
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/dell-technologies-advances-high-performance-computing-and-ai-dell-poweredge-servers-and"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Akros Technologies, an AI-powered asset management platform, secures funding from Z Holdings"
+    excerpt: "Akros Technologies claims that its AI-driven asset management software platform, which mines market data for stocks, aims to disrupt"
+    publishedDateTime: 2022-12-09T12:21:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/akros-technologies-an-ai-powered-asset-management-platform-secures-funding-from-z-holdings/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/akros-technologies-an-ai-powered-asset-management-platform-secures-funding-from-z-holdings/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/akros-technologies-an-ai-powered-asset-management-platform-secures-funding-from-z-holdings/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 48
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/12/Akros-Technologies_-an-AI-powered-asset-management-platform_-secures-funding-from-Z-Holdings.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "Dell Technologies advances high performance computing and AI with Dell PowerEdge servers and Dell APEX innovation"
     excerpt: "Dell PowerEdge server portfolio additions accelerate high performance computing and artificial intelligence outcomes"
     publishedDateTime: 2022-12-07T10:24:00Z

@@ -95,6 +95,22 @@ related:
         width: 1024
         height: 694
         isCached: true
+  - title: "Apps like Lensa ensure that we keep falling for the shady ethics of AI-generated art"
+    excerpt: "A wide range of platforms such as Lensa AI can now bypass copyrighted artworks of living artists but we keep celebrating them for Instagram likes"
+    publishedDateTime: 2022-12-09T05:09:00Z
+    webUrl: "https://www.vogue.in/culture-and-living/content/apps-like-lensa-ensure-that-we-keep-falling-for-the-shady-ethics-of-ai-generated-art"
+    ampWebUrl: "https://www.vogue.in/culture-and-living/content/apps-like-lensa-ensure-that-we-keep-falling-for-the-shady-ethics-of-ai-generated-art/amp"
+    cdnAmpWebUrl: "https://www-vogue-in.cdn.ampproject.org/c/s/www.vogue.in/culture-and-living/content/apps-like-lensa-ensure-that-we-keep-falling-for-the-shady-ethics-of-ai-generated-art/amp"
+    type: article
+    provider:
+      name: Vogue India
+      domain: vogue.in
+    quality: 67
+    images:
+      - url: "https://assets.vogue.in/photos/639300b8d62519510a986b8d/master/pass/Megan%20Fox.jpg"
+        width: 1080
+        height: 1080
+        isCached: true
   - title: "Lensa AI, self-portrait app generates non-consensual soft porn if provoked"
     excerpt: "One of the major reasons for the backlash is that the app can be used to generate non-consensual soft porn. There are quite a few pictures that can be seen on Twitter, with breasts and nipples clearly visible in the images."
     publishedDateTime: 2022-12-07T09:49:00Z

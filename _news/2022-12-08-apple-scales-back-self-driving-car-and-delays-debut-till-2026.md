@@ -59,6 +59,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Tesla speaks up on its inability to offer self-driving cars"
+    excerpt: "Tesla is being used by a customer for not offering self-driving cars yet. The company has filed a motion to dismiss the lawsuit as it is currently still working on the software."
+    publishedDateTime: 2022-12-09T12:41:00Z
+    webUrl: "https://www.digit.in/news/car-tech/tesla-speaks-up-on-its-inability-to-offer-self-driving-cars-66311.html"
+    ampWebUrl: "https://www.digit.in/article/amp/car-tech/66311/tesla-speaks-up-on-its-inability-to-offer-self-driving-cars"
+    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/car-tech/66311/tesla-speaks-up-on-its-inability-to-offer-self-driving-cars"
+    type: article
+    provider:
+      name: Digit
+      domain: digit.in
+    quality: 59
+    images:
+      - url: "https://static.digit.in/default/fea-9-11-1280-1fc3fd6142.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Apple to release their car in 2026, will not be able to give full self-driving feature at launch"
     excerpt: "Apple will be launching their first car in 2026. The car will cost about $100,000, use specially designed Apple silicon and will not have full self-driving features."
     publishedDateTime: 2022-12-08T02:41:00Z

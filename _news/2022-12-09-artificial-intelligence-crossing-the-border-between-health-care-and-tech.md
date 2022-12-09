@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-09T09:30:00Z
 originalUrl: "https://www.statnews.com/2022/12/09/artificial-intelligence-border-between-health-care-tech/"
 webUrl: "https://www.statnews.com/2022/12/09/artificial-intelligence-border-between-health-care-tech/"
 type: article
-quality: 38
+quality: 40
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.statnews.com/wp-content/uploads/2022/12/AdobeStock_175752016-1024x576.jpeg"
@@ -42,6 +43,6 @@ related:
         height: 608
         isCached: true
 
-secured: "K4aQ8PH90QnyfthtC35Myz9R4qqR1hCdO0zRk+qE9WW1Rovb0DINZk3ETaPHDa9KEGwzWOXwvyYpDSle8VRL+ZnEa1Qrv/rklOybPROX5XfbpTvp9jIjnV8EStUtPYrOe/oKU0vvunNWz+4MxGvHOjTquzLyq4Yr/QM0XDyAIM5vYHyYSFm01SKbvj92x4HDmRyCUVbQFgTwpDnkbOWWT9KEJGcHyvWYnjlLgO7XLXY1EIg0M5rkT4Ypyqh8rv+zxERJKb1JjIzL0OUDGkdTkLwFr0qOMH+PRzLheFbTNLI4a9IwBVIoex+ua7JsS2pPI05KDZubY/h7Qq9dn/XW/MVJDI1+DXEmYlUE7zKb8Y8=;L27GTOSSNCC+AaJJx4HlTA=="
+secured: "tyVHnj813ZplntfCCZ+G2tpcc5DO7SFofFAVDfb438hKMCs0cMvE51AKafO4tXlTrxGANR3YyIu6h9L7Kxy9ekxIeDAW5hmitwwY7hXmvFsvX/VtFG7/tuYbJBTGueGfzVYcfKlS/QeK50sxAJOsWng4WTLr3X+cedpOpojH0m1ATABl3gGL1LBVymo5wVrUGn7tEAbaWQ5T4itoKoftfe02Ro7i5RxYxeEmL/Hm/VGzA+/SSa69xqegfHz5Htk3wIfzP0Blf7aZFlIvuQLMFLbXKOL5Rv5+bTSrH22sIa1fvSbq8y7JC/+FK1RaI8OCGhN1e6Z3NzGS0LxLIM5OWIv7vS1v+FsVArdeX5GyKEGxKh4W8DZ/3hGDiy1dxbpVlEr8S3qWhAYoipBs0A24UNmdJG5cXzGOHwJYAdmwYs/lZ8xzkO8BK/gi4zLR5Nz8dTgqGS/Yo4VGAd/7cY/us6YnDtgF8GBo3RXFqWVdkf0edDtTzNzj2g00Q05a2llnU1ajQuTq4arW3Wu/hJsO+w==;NvW4dTKyyh0INJxj6UFGhg=="
 ---
 

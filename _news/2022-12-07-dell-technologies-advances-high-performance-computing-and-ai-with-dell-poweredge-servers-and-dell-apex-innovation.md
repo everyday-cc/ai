@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Akros Technologies, an AI-powered asset management platform, secures funding from Z Holdings"
+    excerpt: "Akros Technologies claims that its AI-driven asset management software platform, which mines market data for stocks, aims to disrupt"
+    publishedDateTime: 2022-12-09T12:21:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/akros-technologies-an-ai-powered-asset-management-platform-secures-funding-from-z-holdings/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/akros-technologies-an-ai-powered-asset-management-platform-secures-funding-from-z-holdings/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/akros-technologies-an-ai-powered-asset-management-platform-secures-funding-from-z-holdings/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 48
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/12/Akros-Technologies_-an-AI-powered-asset-management-platform_-secures-funding-from-Z-Holdings.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "Dell Technologies Advances High Performance Computing and AI with Dell PowerEdge Servers and Dell APEX Innovation"
     excerpt: "Dell Technologies (NYSE:DELL) expands its high performance computing (HPC) portfolio, offering powerful solutions to help organizations quickly innovate"
     publishedDateTime: 2022-12-08T04:44:00Z
