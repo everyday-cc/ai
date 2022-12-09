@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial Intelligence in Fintech Market Report 2022: Increasing Use of AI-Enabled Solutions in the Capital Market Presents Opportunities"
-excerpt: "The \"Artificial Intelligence in Fintech Market: Global Analysis and Growth Forecast to 2027\" report has been added to  ResearchAndMarkets.com's offering. The adoption of AI systems and techniques in finance is growing rapidly,"
-publishedDateTime: 2022-12-05T14:22:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/12/05/9724212.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/12/05/9724212.htm"
+excerpt: "The \"Artificial Intelligence in Fintech Market: Global Analysis and Growth Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The adoption of AI systems and techniques in finance is growing rapidly,"
+publishedDateTime: 2022-12-05T15:23:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-fintech-market-report-2022-increasing-use-/2022/12/05/9724212.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-fintech-market-report-2022-increasing-use-/2022/12/05/9724212.htm"
 type: article
 quality: 0
 heat: -1
@@ -91,6 +91,6 @@ related:
       domain: benzinga.com
     quality: 19
 
-secured: "KHrrNTUwPXKW8ERb1tueDawuiYtagEcmrtquhqFf/i5UoHQK8dZRLb8/bhN4ZjgngmBLmhFCDdnG35C/7JBZHtEzPgw3XkX3ouoY02VhOVwy/kXkwlE13IYBuWMTfCiNbNnQlQyfRpKX8Rb5KBfITb0j89a73DenPeb9+nfu4RqQdrnI5ANrZfM5c3rTLVQ/jKfZiJkbOt35+dsR+T8umWJ+KV3yYmAPBxoiKhV1GVtI6GBjAI/U3PmV3p21O7zTDQtpWkRZeMIOAeItdW6Hc1Sr7HjwIwRygl2vemyJyV6QWINUcWMOat+qryX2l6vzhdsiYgi2iBA2uq8hDxNyaK8riJ+EUM+EG3CWh0vl6KA=;Ytr4JWRWX9rKJ5AdGHj6ZQ=="
+secured: "ebnVql5pTzOjrfmTj1D/h0HoCD5y3yGviaVkp5+dUX8Y7ARG/1IrQdOULGkHQziyqqga7XKlcuBxJEtgELO8dRxeh1+UhKWQ0eQa6z3BJ072Kc0F4h2T/i8HdnR+woAAamRnVh5IZI+JiCQ9iSJD4CcltZWH1Ktdwt38kBZG2CiakIGca6EADY/Qnp8wnXvvCSG1QeYI6EpCGGkP+PuDcj4w28Myfws/Aa2k6j5Ofdp+yffnW0V+xtirE2D1wpcz+GsE41bucY0gDJcL4udopmLz7IQUeKzT49/0NpFDZnrGNRwc1Z/E/F0ARAeLmqCp317NS6tu79L1ha76ImTBPrEvfOkoL3+keLnseHU+su0=;O97u+K310UFOnQcSc5zcOA=="
 ---
 

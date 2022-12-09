@@ -3,8 +3,8 @@ category: news
 title: "Xiaomi invests in HuiXi autonomous driving chip company"
 excerpt: "Multiple Chinese media reported on Dec 6 that the China-based AI startup Hefei HuiXi Intelligence has received investment from HanXing Venture Capital V a wholly-owned subsidiary by Xiaomi."
 publishedDateTime: 2022-12-08T07:14:00Z
-originalUrl: "https://www.digitimes.com/news/a20221208VL213/autonomous-driving-xiaomi.html?chid=11"
-webUrl: "https://www.digitimes.com/news/a20221208VL213/autonomous-driving-xiaomi.html?chid=11"
+originalUrl: "https://www.digitimes.com/news/a20221208VL213/autonomous-driving-xiaomi.html"
+webUrl: "https://www.digitimes.com/news/a20221208VL213/autonomous-driving-xiaomi.html"
 type: article
 quality: 39
 heat: 39
@@ -40,6 +40,6 @@ related:
         height: 500
         isCached: true
 
-secured: "Qti5nQHnalE/rStrrbvBPg9io1f4MBzDqoTC5+DiVRbfrXh0u4pcsgpPZqe0VWjWwET4KFV/46XSth1hZSY6RPGQcWQ/F5EEV6m6bF+D6pkSmufSEG/QJpJMU95L/gubpphXAaYYzKReRnFjLDJvQ1ylmv+PVr+qnJpTQvAd88ap6nKUnhWww9tFo9xZy3FyQonFjb/qYYbMLr0OaxDJvZk/KCaT/Z2u81FxoD0KUFuusWEesPswQC+BJ6ONnzaGnnBkcydOrZbJiugd4z5gWl+gxGBSSRl/5jH+hOdb8phpN8AuTU2D0YxCZHsqkR9kvnCxfJTgntBCkuPkjv1Sc4tm5jk1VwxPPb/RtzbDMUI=;uJzzMGwLDrNy/TuKJGRBsA=="
+secured: "u+EsxansRr0l+5exu2B06eQUu3NniX9kCc1T+OywKjNfqZcJTL9NVoOIOyqJ3hKa/eP77U6r+sHtNoFBVEjFKJsRrPkTpgWgsL7HyGP7vqQggOSMS7ZZx0Qxc7ZbCSk0ysRX6QeI5afc6Iyl//wC9/HzEvq5jZs02yZrWkLeHSUsT/HfA1K/m7LzMcb+bK8r3QnrA0SgnjYvAhXUXnwnIDORAaYuW1HVq3axMJAKcAjzEDRYLA6s9ycxOP0IWo7dJO5HDR73SsOQbGFC9O0CYH4lr3ExJLiTINxH5dNtT8LWLkevYCRv7WsHI6BUe/bKa4oRiLP7RctOSZX7WysbdxAoChPH1aRO/4ZRz+SQxEg=;9pPIbWh6oJySBLgqXE3TRw=="
 ---
 

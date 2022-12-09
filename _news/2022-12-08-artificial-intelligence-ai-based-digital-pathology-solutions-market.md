@@ -6,8 +6,8 @@ publishedDateTime: 2022-12-08T15:06:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-based-digital-pathology-solutions-market-/2022/12/08/9727071.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-based-digital-pathology-solutions-market-/2022/12/08/9727071.htm"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Healthcare
   - AI
   - Machine Learning
+  - AI in Autos
 
 secured: "4DExoZDnET6h5unkSNL8MD6kKjqYKNOh3TXpKMJV0O2YPVpvYIY4PvvPdZtJVSUjsZj258LZ81PJ2iutFt7tHjc6D/Ju6FMP2wOsO591QiuYX900iNxkAAX1IIFbPvo0GLSZs6N90KaobufzNAnXOi4AsPkSNxOMYNMgXy3I4glFQJGAF5hI9dgiwG7JX6MUrdQIbNcV1c0dR8aTMTiUZWn2t/jINuTv79Ip5phLAVopWtCQJ/O1AqmepoNbgFzSY86wt2pBp9W92HURFnwh/zWrPtT8AIXhbM+LDlWYxnyh5MZwwKZHPpX7F/Gnw5Rdoy5prbiXPFi+Qty36NdouhIWjuU7kr+4oH79LaGOEfDJRtfnKG/LduB1miyNyw46mUEyuC5RAMqtuxiNXKXH36Asm28Sg+JYz8rE7XrOpBKTIFDPk1By2kvaewYyaQe9BXwPSoTRZMqO+6bDjKiFRjmMe/rUgkb2bR7yPkFKYvPLvjuzsEj6mbg93k8LpRt7BIkYbYZ2/ZMciX304JvetQ==;TDd8iIa0cXhaT7e/LeGl0A=="
 ---

@@ -21,6 +21,22 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "C3.ai Rebuild Starts Now"
+    excerpt: "Back in FQ1'23, C3.ai switched the business to a consumption pricing model, with the initial phase involving early adopters and high investment costs. The company is now quickly shifting into Phase 2 where deals start to ramp and early consumption builds with a major inflection point in a few quarters."
+    publishedDateTime: 2022-12-09T01:31:00Z
+    webUrl: "https://seekingalpha.com/article/4563174-c3ai-stock-rebuild-starts-now"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 37
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1219304976/image_1219304976.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
+
 secured: "rUFFKuZek/QXAf/D3+x7bh+JWhO55vfg8UKDlCa6Qr19JRkrRSGhPgBzXHirEt/a4OokqT+IjJOI2Ig6FuqD4wT8FS5gtIYGSg2SvVQPKsZe4zeDfav5IxfBfuKlRL4UuwPzVWXq8B3VZMY7cLG5AJ1o7MHQS3WTFBm/1Vik/TNeNefauf6nIdVgL65fIEEXpNzd32PtY3yW4KcXhAelX5BEexmt8CfwRFSG6jJ/0Mt8iYaxy2QOfY0gla9nfnMU8pCOKKDnnSsEIj8bURZ0uhgj0b3SHkx2ktfmE7nxLVKEcnQvfzhZs2SmzFFVk0tDBgMeA8MhYmPuJyV0gT85oFQQOvzovFPHnr80QQsRoYE=;XrXoGFYngoPDI8hz63JJ2g=="
 ---
 

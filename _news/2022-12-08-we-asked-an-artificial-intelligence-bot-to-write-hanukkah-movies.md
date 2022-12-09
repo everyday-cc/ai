@@ -2,11 +2,11 @@
 category: news
 title: "We asked an artificial intelligence bot to write Hanukkah movies"
 excerpt: "Artificial intelligence chatbots can write movie plots in the blink of an eye. We asked it to make us some Hanukkah movies this year."
-publishedDateTime: 2022-12-07T21:07:00Z
-originalUrl: "https://forward.com/culture/527473/artificial-intelligence-bot-hanukkah-hallmark-movie/"
-webUrl: "https://forward.com/culture/527473/artificial-intelligence-bot-hanukkah-hallmark-movie/"
-ampWebUrl: "https://forward.com/culture/527473/artificial-intelligence-bot-hanukkah-hallmark-movie/?amp=1"
-cdnAmpWebUrl: "https://forward-com.cdn.ampproject.org/c/s/forward.com/culture/527473/artificial-intelligence-bot-hanukkah-hallmark-movie/?amp=1"
+publishedDateTime: 2022-12-07T21:35:00Z
+originalUrl: "https://forward.com/culture/527473/artificial-intelligence-bot-hanukkah-hallmark-movie-openai-chatgpt/"
+webUrl: "https://forward.com/culture/527473/artificial-intelligence-bot-hanukkah-hallmark-movie-openai-chatgpt/"
+ampWebUrl: "https://forward.com/culture/527473/artificial-intelligence-bot-hanukkah-hallmark-movie-openai-chatgpt/?amp=1"
+cdnAmpWebUrl: "https://forward-com.cdn.ampproject.org/c/s/forward.com/culture/527473/artificial-intelligence-bot-hanukkah-hallmark-movie-openai-chatgpt/?amp=1"
 type: article
 quality: 57
 heat: 57
@@ -25,6 +25,6 @@ images:
     height: 1350
     isCached: true
 
-secured: "F2B1WDj9yCXR3jLNNt9OcOZyUG5RvVl4lhxHhAkPnfBMh65mPTQWNE1/k4x1NhRe5qbKYJigI8mDaddiFMY1TMNQW6NRxKqi2cGonArwsMo11CZDsxn+Id+OCsRhHOIBgSg8PQF7hc2UG8hsMQjAG9TTnJyxGzf94GhUF/bkVgqBmtYDnGfICbwHXcXmYlwOpHFpULcvHtXpvUZMTCL5f/T0HZgSiB7pERflrpXGIlcOFV3vftHay3tOswjJa77gLkLJzK1fWw52tTcfAdWnw71pxGUhqHxk6df0UOxCymxWzgzGYbT2tb6C9+HPQ1djRawf0PR8/Yqn69v+63FsOywtZQ+Z4ELzw8eglifpDgq4NSsay2a5NEwebVvNXOZmdfmbWfSsVRbdJShEr51yRMYX6POPN7GZ0AY2DYzK2YavF8PDEl3AYzAH48ShEdvot1/THHggFEWOJo9wScZyGJ6l+GKvvK1C3N17EauWwbPofhM3tv0M95qK7FJn4YvMy74uGu1fWyWhn4jT/lOdmw==;s05t83r3niduOIsIInbqgg=="
+secured: "OGr43P+kfNKlh0hDGTmPcbEO7QHKmKT6EMcwEHFdaAIbW9xHGZS+1Oo2DsCnglRqBnOCYMYRnPhaBMaPN6BS+f6Yac0eg/9VQwMsiKQNHls6kSkOOuvFepsGfdD4UbVVS9jwMlfyRisTu2JpCfNRUuJspgBJJsYjPC6+4YSKzG2kvuVTnAEpv2s1KtdqkUUbelEwqoe5jBjS7XjSkn9g9IQfuBGy+5UejGgU86emapM0R6TUTjk94i03eEycIo76MMzZ0hUpqKCzDxyqEW9Udf9pPo2zVsOqXiysOYa9pZ+C/MhOGNRhC4u31CZccewcH0MC5Zxm6+SXpeAS4jOhmeli7nnv31Ymr50NxtBaAA8=;cPJtpLGe9bnvPwro8/ob9g=="
 ---
 
