@@ -7,7 +7,7 @@ originalUrl: "https://www.thecitizen.co.tz/tanzania/news/national/62-of-tanzania
 webUrl: "https://www.thecitizen.co.tz/tanzania/news/national/62-of-tanzanians-are-against-the-use-of-artificial-intelligence-4049578"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -27,7 +27,7 @@ related:
     provider:
       name: The Citizen
       domain: thecitizen.co.tz
-    quality: 33
+    quality: 35
 
 secured: "Ih0wOcA9qlaVnKFDTVGjO2lXTo8sn2nDVmtbfyFdtno3WFs91OHH1YK7gSWkku5RU0OAc/9kXea3bso6iCzjEXecCbxrH7Jh00bbqe2k4fVT5S5WlYTlqqaejFrXBySg3gYo2HR2bsvHMQFK5fSbZkQvCNT1ph0uteHaW+vX0aGekE3giwcM1vUjkYLpM9qvU5Y2rLUifKeYhBRbZW9wR0UR6mWokoXTTAxM++6YdBkjegizH2HXQF5fUw0PHJOJP/vUDjwKrIkHHOv7dxrjsocQZn0jz8zEARTnwI9dZ6dOvnCxCmwB4PwHGpGs07aT32Lm4Zw7hfDMPNf8SUEINmshAb7yJTbKQu2mDi6NA8BVNsSeHpAtJaRd3GCBnbGH2O1vYrvW12X2oZQXYlA3Vt/FDvPgD9zC9dMZj698xCXr9BoDVgAzZZXcvTO8qNpb8ReEsMkIlvk2sPjl9XWBOUi+rjn2RtJUfXiYTmb+VmFBq3s5TErZ13m97HTYzhV9ismDlyy8YPZJflpVTgD+Rg==;/h9kKy6EMhm8LducWaAIMw=="
 ---

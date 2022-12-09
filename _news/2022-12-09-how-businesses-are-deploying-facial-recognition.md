@@ -113,6 +113,20 @@ related:
       name: Biloxi Sun Herald
       domain: sunherald.com
     quality: 42
+  - title: "US Customs agents use facial recognition system at Orlando International Airport to speed up lines"
+    excerpt: "U.S. Customs and Border Protection agents at Orlando International Airport are using facial recognition technology to help speed up screening lines that often stretch to 600 passengers deep."
+    publishedDateTime: 2022-12-09T22:00:00Z
+    webUrl: "https://www.clickorlando.com/news/investigators/2022/12/09/us-customs-agents-use-facial-recognition-system-at-orlando-international-airport-to-speed-up-lines/"
+    type: article
+    provider:
+      name: News 6 WKMG
+      domain: clickorlando.com
+    quality: 40
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/12-09-2022/t_f352d53d54e5459cb619075bf2c225bc_name_image.jpg?_a=ATO2Bfe0"
+        width: 700
+        height: 394
+        isCached: true
   - title: "Facial Recognition Back on FB Dating"
     excerpt: "Meta is extending its use of AI facial scanning to confirm users' ages on Facebook Dating which is a contrast to their 2021 move of banning facial recognition."
     publishedDateTime: 2022-12-06T08:57:00Z
@@ -187,6 +201,24 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 29
+  - title: "TSA set to use facial recognition technology in airports across US 'as soon as next year'"
+    excerpt: "The decision follows the federal agency having tested the technology for years and offering it as an option to travelers."
+    publishedDateTime: 2022-12-09T18:46:00Z
+    webUrl: "https://justthenews.com/government/federal-agencies/tsa-set-use-facial-recognition-technology-airports-across-us-soon-next"
+    type: article
+    provider:
+      name: justthenews
+      domain: justthenews.com
+    quality: 25
+  - title: "Horry County Special Education Teacher Receives National Recognition from Education Associates for Career Readiness Achievements in Classroom"
+    excerpt: "Functional Special Education Teacher Emily Scheffler from Horry County Public Schools attended the 2022 National CASE Conference in Salt Lake City to receive the 2 nd Annual Gary Bates Memorial Award."
+    publishedDateTime: 2022-12-09T22:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-horry-county-special-education-teacher-receives-national-recognition-/2022/12/09/9728012.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "X4tCwE7BMNzQGZfokRr+JozUzovKbiLbGFVbn0AfLIV8KzSfGgjn7RYtZXDIg+550KoWYmS4877L1OhMJ3WDBZWnyiuq+TDpBTVeXjtjkrm/jLECeGe/xp+M+RtLPQ/Nphyrxwmq4QFmXDsfAIp4VnUndqBT+76t2BBiJHQmNZVWz0ostv2EWpDxfENAxSl3v6535riIp/qeX+X09U/dt0wWNNKbFzKVtVyagHHxXmyKi/+RiPr1U+2DW8JUW7jckwpi68zOuXm+OH9P98a+JeWeIHD3ss+XctVKgevCGSOapvBO/tOZ7mFJZ+Q+7VCe97ErVDPIl252r896Pa7GOszXge61fTgnvm96K+jbgIzbaOd4oWGEFFFrMAeAdVi5/nPXSpaF7imO8b75Ym7ZlRsIaG0UNWEX8At+9qKz8e6maCbcYMES2gG+Sp0zHxmCPAW1N9oW4aZpJHuqr+C+9vbYTcbUlXX+CvEQfK8kns0VM9bov9eAkqFthSK8emqXFkP59jIgf/XlH3yXJG6lnw==;qNAF0zZ3/gpc8Wla4Rr3Kw=="
 ---

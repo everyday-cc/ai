@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-06T00:00:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-aetina-launches-new-ai-inference-platforms-with-high-/2022/12/06/9725659.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-aetina-launches-new-ai-inference-platforms-with-high-/2022/12/06/9725659.htm"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: TMCnet

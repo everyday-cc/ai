@@ -38,22 +38,6 @@ related:
         width: 2500
         height: 1250
         isCached: true
-  - title: "What You Should Know Before Using the Lensa AI App"
-    excerpt: "Are you thinking about uploading some selfies and buying a pack of ‘Magic Avatars’? Consider these expert tips first."
-    publishedDateTime: 2022-12-09T12:00:00Z
-    webUrl: "https://www.wired.com/story/lensa-ai-magic-avatars-security-tips/"
-    ampWebUrl: "https://www.wired.com/story/lensa-ai-magic-avatars-security-tips/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/lensa-ai-magic-avatars-security-tips/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
-    images:
-      - url: "https://media.wired.com/photos/6392663fdf2fe9c58ee95b55/master/pass/Security-LensaAI-Birth-Venus-92825836.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
   - title: "You can use the Lensa AI app to turn your photos into artistic portraits"
     excerpt: "To credit for these masterpieces is the Lensa AI app, and here is how you can use it to get your own. Lensa AI is a free-to-download, photo-editing app that launched in 2018 and is available in both the Apple App Store and Google Play Store."
     publishedDateTime: 2022-12-05T21:54:00Z
@@ -150,6 +134,15 @@ related:
         width: 1200
         height: 462
         isCached: true
+  - title: "What You Should Know Before Using the Lensa AI App"
+    excerpt: "Are you thinking about uploading some selfies and buying a pack of ‘Magic Avatars’? Consider these expert tips first."
+    publishedDateTime: 2022-12-09T12:00:00Z
+    webUrl: "https://www.wired.com/story/lensa-ai-magic-avatars-security-tips/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
 
 secured: "qX9c6F4OyurQbpIhDQHy79m3zYrbDUg+46PmPSYm3LpVPPOkib/01efMWWpCwKORu4nJaHm8GQjEH6W/LnI0IiBjJSpA2PWv4EB/wuA95TW/bSdMGPm+lyR21m/vPYJ9LPzykm1GFsOQCV/QT39/u0cEfMibLyuWGbZQqY5Urkx+IEVnXGYPp3NcqlnPAA8xXlHIxn6Dk2X7RAhzWJZTXS6/MfTbp0I5L6M1E2/efM1QCHtiXZG5O+KhZhrgtZQjtcWi3dXiTUZ41qOwg/0xcaVJPXUO0br/OkAeR09J5RxTKX+Bm7QBOegcrB0v8hP9NmWRGDSr+Tj2fbbxKPJpu1BqYaFKrB410rcL00WPgpUHD0CWfyzArNtxJ7ilXZV5sbc1Av7GPkDWc09ART/Iww4Fi9sm1luKpOsQ1mzCjLbD/+w1Uop2xbVjiaN/jIOsQDkjK7A5n48N4Gd+HOPcm9CSeaGoVEjclmzrofi+S3atRajasOnULGS6Fej/oBHj9nulYHWR1NYM/kPp6lhcbA==;bGZI42U654Is33C81vJCCg=="
 ---

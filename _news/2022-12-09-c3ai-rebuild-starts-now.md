@@ -33,6 +33,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Best Artificial Intelligence Stocks: 7 Picks To Buy and Watch Now"
+    excerpt: "AI technology is here to stay, so companies that utilize it should be well positioned for the future. Consider whether these stocks are right for your portfolio."
+    publishedDateTime: 2022-12-08T23:10:00Z
+    webUrl: "https://www.aol.com/best-artificial-intelligence-stocks-7-211025391.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/7VCi8GD_LbeLUonbPT3nXg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/234b65fd65c1a66bcc0af1e622388462"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "7jNtpsRZD1CMQxZsbLCuebGGZ/BB2Jzpz88820rp9fNFeRk6GN5z6z2v3N4xPgaZmKT6k3Rqjy46bA5y8qN/iLD1F58yT4N8wF2cwzrp5X/tMk4DIiHfezrGDQ1mWskFO6o/VHiDQmp8XH1XGyZYpBf5WpmaSRJiVvTOffAf4ERV3b/yyR0KLgLDRzOmi89fNXhDNPcjWftYMkgYIjSZHji1yL9l4TgfNDVcvERh/NKFE24tQIiobDonepCo1ipPddWiQ0U5vkuLkMHzEZ/0tDlskf2bMD2IjHp8wGjzjcV4GZ1zg+ZLhJZ7+QycmfJvslGA4lrj2rVsdZ6tqXfIAl4juKbRhZtkiPNcua5oyGnz0bgnO2Wwje4/LYWmMUEehITFAg3uEAxG+5l68PFOrmou2AI+0AhKpoesQotbMPA1u0/FswDm4LQZ77zVQNLTH76WRbMleIwb3WyE/wiegEGkyMwmq1iENipEVfME+mcxQ2F4+x8fKnyX1+fH9QKmxYtULFakVwZFYENayJAF5A==;6WqIkGl8jbOi4L8Lr6184w=="
 ---

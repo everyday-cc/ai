@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "AWS re:Invent 2022 round-up: Data management, AI, compute take centre stage"
-    excerpt: "AI features added to multiple services To help enterprises get more of a return on their data, AWS added new artificial intelligence (AI) features to a range of other services, including Textract, Transcribe, Kendra, CodeWhisperer, and HealthLake."
-    publishedDateTime: 2022-12-05T03:11:00Z
-    webUrl: "https://www.reseller.co.nz/article/703800/aws-re-invent-2022-round-up-data-management-ai-compute-take-centre-stage/"
+  - title: "AWS Advances Financial Services In The Cloud: News From Re:Invent 2022"
+    excerpt: "Principal Analyst, Fintech and Retail Tech Melody Brue dives in as last week, 50,000 people convened in Las Vegas, and another 300,000 gathered virtually around the world for AWS re: Invent, one of the most anticipated tech events of the year."
+    publishedDateTime: 2022-12-08T16:27:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2022/12/08/aws-advances-financial-services-in-the-cloud-news-from-reinvent-2022/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2022/12/08/aws-advances-financial-services-in-the-cloud-news-from-reinvent-2022/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/12/08/aws-advances-financial-services-in-the-cloud-news-from-reinvent-2022/amp/"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 52
+      name: Forbes
+      domain: forbes.com
+    quality: 91
     images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/adam_selipsky_aws_6.jpg"
-        width: 504
-        height: 315
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63921db02060714e1b08ccfe/0x0.jpg?format=jpg&width=1200"
+        width: 936
+        height: 416
         isCached: true
   - title: "Five top takeaways from AWS re:Invent 2022"
     excerpt: "This is an interesting contrast to CES 2022 that kicked off the year, which drew about 45,000, way down from the close to 200,000 it typically gets. To me, the massive draw for re:Invent indicates that live events are back and people have a thirst to not just to connect with their peers but to engage actively,"

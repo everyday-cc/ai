@@ -81,20 +81,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 69
-  - title: "The Curious Case of Generative AI"
-    excerpt: "FastSaaS is a growing trend, with companies leveraging AI-generative and no-code capabilities to create their product."
-    publishedDateTime: 2022-12-05T04:52:00Z
-    webUrl: "https://analyticsindiamag.com/jasper-cerebras-partnership-changes-the-game-for-fastsaas/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/Is-This-the-Real-Moat-in-Generative-AI.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "U2/8Y+E03H3B/jmsUTCoFtZOuVnEc9g/B6FTGoD/z+IQmbazpNDSY66fcPv6c5/b92GfWFB5hgZEJDGsDfgUqcF9E/osnlCEDPpjkQh1AdB+gKxEazKI8Ta5KTml7PkI3G+uwOW837Iv4Bgb5G05un2aV7rLRwrBj1Iz6bqsDASu0zJHMd0kqlRN+Sod3DMdRsglapynYfKqV/zYoOEHXC0DQCxd/1caWZLv/06OStGNMvb5m5oj7hSTLqD+4QxVZQPkl/y71nIYp5dy3Nzq0j2tkWRazFOU0mYuEMHExon8McYHZ/ECU7lb7hLA+bSSM1tuVmODnr54vRzP9MM3fG+55tgSO3W91wU5hnAhgIM=;FffcztbtlQxcfMPscIl5fA=="
 ---

@@ -26,7 +26,7 @@ related:
     provider:
       name: Network World
       domain: networkworld.com
-    quality: 32
+    quality: 34
     images:
       - url: "https://images.idgesg.net/images/article/2022/12/modern-office-and-wireless-communication-network-concept.jpgs1024x1024wisk20c6sdx3d-woqxt2kvwjizf5fnm7trmavwpripzaqudbd8-100935366-large.jpg?auto=webp&quality=85,70"
         width: 1200

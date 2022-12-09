@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/12/06/the-top-5-health
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/12/06/the-top-5-healthcare-trends-in-2023/amp/"
 type: article
 quality: 91
-heat: 102
+heat: 113
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "10 biggest healthcare moves from Google in 2022"
+    excerpt: "Here are 10 of the biggest healthcare moves from the company in 2022: Google Cloud partnered with health systems including Edison, N.J.-based Hackensack Meridian Health, Pittsburgh-based Highmark Health,"
+    publishedDateTime: 2022-12-09T18:29:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/10-biggest-healthcare-moves-from-google-in-2022.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 19
 
 secured: "hqBclrp8f25BS3lzAu991y4IYZ2YBDVqSp/5+8qCp6VP8nyKRTXilP/Db196ZIuec5ZxItGK2lzRdkiz5iLksXRoBtBEPz3SZySyqQAEMmyB/soEWjVHk16SP1o6O0CctagwoQzcl8LS0RRXpzM66YxD2C3vK9GvEmnsuTggy5Wjyoevi7SFyMOUxSRKVnPNctTRKPf8P0CZiSYuMANml5tVMpbhcGoNp8fMzdbkwdYmVv5d5WFmoY9TucLF9fXy6e2Wnh8KoHK+g7mJE/4kQP+vlVGd5kj/vBYDf2PEk0ZBEts7Fe4LLy7EIkGapvYyIcEq4saPHVkL317UBtcQlF6jSf2w62OfD/vY8aFQdFzOiw9q/pn6Rm3TRYKetpBOHVg0B/YOBJJ7aDhGQ/6LXLiJiDoBF6NhQxSG/UmjmBVYeddp/FymE0fC7MfTo4P+RqwCnq21Fefu3s8G++zpE5jH9+pbkybJIzRd7yGWsG0l5PEgIqpvkz7/QXHRdTmQ+DPgqUC1UIkaO7ngFrfrsw==;irV+3EnZ0BQ0IxHyKSav2w=="
 ---

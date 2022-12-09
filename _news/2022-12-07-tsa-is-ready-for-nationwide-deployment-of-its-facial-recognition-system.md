@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/96871-tsa-ready-nationwide-deploymen
 webUrl: "https://www.techspot.com/news/96871-tsa-ready-nationwide-deployment-facial-recognition-system.html"
 type: article
 quality: 69
-heat: 199
+heat: 229
 published: true
 
 provider:
@@ -109,6 +109,20 @@ related:
       name: Biloxi Sun Herald
       domain: sunherald.com
     quality: 42
+  - title: "US Customs agents use facial recognition system at Orlando International Airport to speed up lines"
+    excerpt: "U.S. Customs and Border Protection agents at Orlando International Airport are using facial recognition technology to help speed up screening lines that often stretch to 600 passengers deep."
+    publishedDateTime: 2022-12-09T22:00:00Z
+    webUrl: "https://www.clickorlando.com/news/investigators/2022/12/09/us-customs-agents-use-facial-recognition-system-at-orlando-international-airport-to-speed-up-lines/"
+    type: article
+    provider:
+      name: News 6 WKMG
+      domain: clickorlando.com
+    quality: 40
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/12-09-2022/t_f352d53d54e5459cb619075bf2c225bc_name_image.jpg?_a=ATO2Bfe0"
+        width: 700
+        height: 394
+        isCached: true
   - title: "Facial Recognition Back on FB Dating"
     excerpt: "Meta is extending its use of AI facial scanning to confirm users' ages on Facebook Dating which is a contrast to their 2021 move of banning facial recognition."
     publishedDateTime: 2022-12-06T08:57:00Z
@@ -183,6 +197,15 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 29
+  - title: "TSA set to use facial recognition technology in airports across US 'as soon as next year'"
+    excerpt: "The decision follows the federal agency having tested the technology for years and offering it as an option to travelers."
+    publishedDateTime: 2022-12-09T18:46:00Z
+    webUrl: "https://justthenews.com/government/federal-agencies/tsa-set-use-facial-recognition-technology-airports-across-us-soon-next"
+    type: article
+    provider:
+      name: justthenews
+      domain: justthenews.com
+    quality: 25
   - title: "How businesses are deploying facial recognition"
     excerpt: "As facial recognition software becomes easier to acquire, businesses are using it to surveil and analyze customers. Bloomberg's Parmy Olson explains where and how the technology is being deployed."
     publishedDateTime: 2022-12-09T14:57:00Z
@@ -192,6 +215,15 @@ related:
       name: Capital Public Radio
       domain: capradio.org
     quality: 19
+  - title: "Horry County Special Education Teacher Receives National Recognition from Education Associates for Career Readiness Achievements in Classroom"
+    excerpt: "Functional Special Education Teacher Emily Scheffler from Horry County Public Schools attended the 2022 National CASE Conference in Salt Lake City to receive the 2 nd Annual Gary Bates Memorial Award."
+    publishedDateTime: 2022-12-09T22:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-horry-county-special-education-teacher-receives-national-recognition-/2022/12/09/9728012.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "sbrJYMxmFWewSTJJM1dyX+gBbXbv81FLaa4iiPGHNFnWlaNoCG73zO9hS80wNogp1C9wNekjIK9yA6AIwKPfeNnASVxBabyEwaFMTn+tQR/1PwXSiheBmaGt76PFCEXZra4I2dNODH4ptQA5Hs53DC9hmvReFK10rSEQlPBNUB+8zHde3NcXiPkY+qiArfJzIlvjA6BLlgWQcjIGPJ+R435pdbxXoHxkVG1yZLkcAZyAjGgPkcAoXVi2r4jj05wMznY8ZSwmcEU0lMYwQ6TkWOf/1b9PnLpiFOlhcD2JHrM5ugHo/STlve+HShx/f6mDMlYwamQ/ctVltmh1M5c36sIXRDnf5uCpSVmaq/8baevCs7okNwjnA6R3fD4Vq37impBZB30d26rCJg0RVlPGgrRBvrj6+sa2u36k6Y5S/aQI05+zZdZJ9knchiitdMRzwfD/SdrruHm24zc/WphfktuVSruC2KUkuIXC0s83JhH1x/IqahpO+rloplE1AdR9P0RaADrN1mZdfAMHnCPuCg==;SQamt7SgPotQdtt/y4wxWQ=="
 ---

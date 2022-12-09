@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/09/is-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/09/is-ai-generated-art-true-art-implications-and-considerations-for-businesses/amp/"
 type: article
 quality: 85
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 69
-  - title: "The Curious Case of Generative AI"
-    excerpt: "FastSaaS is a growing trend, with companies leveraging AI-generative and no-code capabilities to create their product."
-    publishedDateTime: 2022-12-05T04:52:00Z
-    webUrl: "https://analyticsindiamag.com/jasper-cerebras-partnership-changes-the-game-for-fastsaas/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/Is-This-the-Real-Moat-in-Generative-AI.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Artificial intelligence creating new value-generation ways for operators of infrastructure networks"
     excerpt: "The use of artificial intelligence (AI) techniques in the operation of infrastructure networks and within industries is leading to new ways of generating value for the companies and the users, says AI solutions company ExploreAI CTO Aidan Helmbold."
     publishedDateTime: 2022-12-08T21:59:00Z

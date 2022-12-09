@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-text-generator-market
 webUrl: "https://www.marketwatch.com/press-release/ai-text-generator-market-2023-is-flourishing-around-the-world-by-2026-2022-12-06"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "3 Ways Artificial Intelligence Will Transform The World in 2023"
+    excerpt: "As we continue to see high rates of positions needing to be filled in 2023, AI is likely going to see quick adoption, development and more."
+    publishedDateTime: 2022-12-09T19:30:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/the-3-biggest-artificial-intelligence-ai-trends-in-2023/439434"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 49
 
 secured: "9zwq97CKa1lbD0YjzWVyb83vwbNRWMhjrfaabCHe6kLCvN64Gw7japznUEHsK9bOYDcdaE3OzFXTJO6suGiEGZ74JQuoaQBtvG0Dvha5ibNfuXSMfCXgMZWwZzgjjabGcQh3UCOdI0smEuXpNKxwgfz9aFg3+BnpF0wluDqXmSq82/rMW8YRcJIrgirtSYEyMMrqGF3s1cszekaA3umNvvOG0Sxo8BpuzSeAhGDmI85sVrVw2jqduMZWJsiMeqARAWLS0rDcRatAzkHs9Po4aUCWuQdvrmCn0SkdnkeOM4KVefvI7uG/2DlsLGZKsvit5y8nYaIwY9PNGBWLnGVxGklA4mGW5JL6XhKtKHYOFb4=;x0jBKgnU04Z0AHOLY4CDKA=="
 ---

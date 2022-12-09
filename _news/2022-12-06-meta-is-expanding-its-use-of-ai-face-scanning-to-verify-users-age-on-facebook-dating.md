@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2022/12/5/23494175/facebook-dating-ai-fac
 webUrl: "https://www.theverge.com/2022/12/5/23494175/facebook-dating-ai-face-scanning-age-verification-expansion-yoti"
 type: article
 quality: 60
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Banned AI bots crawl back onto Facebook to target male gamblers"
-    excerpt: "Weeks after Meta-owned Facebook banned groups which were caught sending streams of private messages to potential gamblers, promising free tips in exchange for signing up to online bookmakers, they returned to the platform to seek out new customers."
-    publishedDateTime: 2022-12-05T04:19:00Z
-    webUrl: "https://www.afr.com/technology/banned-ai-bots-crawl-back-onto-facebook-to-target-male-gamblers-20221202-p5c38z"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 37
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.5298%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_12/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/ffa36b975f481c2f4c1dd20c013e6e6a234d522f"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Meta Platforms (META) Adds Age Verification to Facebook Dating"
     excerpt: "Meta Platforms META recently announced that it is introducing age verification technology to Facebook Dating in the U.S. to prevent users under the age of 18 to access experiences meant to be enjoyed as adults."
     publishedDateTime: 2022-12-06T15:27:00Z

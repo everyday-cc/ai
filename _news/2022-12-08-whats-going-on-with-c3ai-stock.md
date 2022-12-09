@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Best Artificial Intelligence Stocks: 7 Picks To Buy and Watch Now"
+    excerpt: "AI technology is here to stay, so companies that utilize it should be well positioned for the future. Consider whether these stocks are right for your portfolio."
+    publishedDateTime: 2022-12-08T23:10:00Z
+    webUrl: "https://www.aol.com/best-artificial-intelligence-stocks-7-211025391.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/7VCi8GD_LbeLUonbPT3nXg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/234b65fd65c1a66bcc0af1e622388462"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "C3.ai Rebuild Starts Now"
     excerpt: "Back in FQ1'23, C3.ai switched the business to a consumption pricing model, with the initial phase involving early adopters and high investment costs. The company is now quickly shifting into Phase 2 where deals start to ramp and early consumption builds with a major inflection point in a few quarters."
     publishedDateTime: 2022-12-09T01:31:00Z

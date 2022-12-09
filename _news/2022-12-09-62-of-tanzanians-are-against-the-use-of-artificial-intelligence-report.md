@@ -6,8 +6,8 @@ publishedDateTime: 2022-12-09T13:23:00Z
 originalUrl: "https://www.thecitizen.co.tz/tanzania/news/national/62-of-tanzanians-are-against-the-use-of-artificial-intelligence-report-4049578"
 webUrl: "https://www.thecitizen.co.tz/tanzania/news/national/62-of-tanzanians-are-against-the-use-of-artificial-intelligence-report-4049578"
 type: article
-quality: 33
-heat: -1
+quality: 35
+heat: 35
 published: false
 
 provider:

@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Quadruped Robot Market 2022 Advance Technology, Latest Trend and Future Expansion by 2028"
+    excerpt: "AI Quadruped Robot Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2021, at unexpected"
+    publishedDateTime: 2022-12-08T02:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-quadruped-robot-market-2022-advance-technology-latest-trend-and-future-expansion-by-2028-2022-12-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
   - title: "Computer Vision Software Market Trends 2023 Industry Size, Segments, Share, Key Players and Growth Factor Analysis by 2026"
     excerpt: "Global “ Computer Vision Software Market ” 2023 report presents an exclusive analysis of market size, share, revenue, production, consumption, gross margin, and price. The report offers elaborative data of leading market player's analysis and key factors that will affect the industry growth."
     publishedDateTime: 2022-12-06T08:01:00Z
@@ -52,20 +61,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Emotion Recognition and Sentiment Analysis Industry 2023 Market Size, Share, Growth, Sales and Drivers Analysis Research Report 2028"
-    excerpt: "The Global Emotion Recognition and Sentiment Analysis Market 2023 report is a thorough assessment of the worldwide"
-    publishedDateTime: 2022-12-05T08:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/emotion-recognition-and-sentiment-analysis-industry-2023-market-size-share-growth-sales-and-drivers-analysis-research-report-2028-2022-12-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -94,20 +89,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Discover How Artificial Intelligence Based Medical Device Market 2023-2026 is Estimated Drive the Industry Growth Across World in Coming Year"
-    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Artificial Intelligence Based Medical Device"
-    publishedDateTime: 2022-12-05T05:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/discover-how-artificial-intelligence-based-medical-device-market-2023-2026-is-estimated-drive-the-industry-growth-across-world-in-coming-year-2022-12-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -6,8 +6,8 @@ publishedDateTime: 2022-12-09T16:18:00Z
 originalUrl: "https://www.networkworld.com/article/3682890/take-advantage-of-artificial-intelligence-to-keep-the-network-up-and-running-well.html"
 webUrl: "https://www.networkworld.com/article/3682890/take-advantage-of-artificial-intelligence-to-keep-the-network-up-and-running-well.html"
 type: article
-quality: 32
-heat: 32
+quality: 34
+heat: 34
 published: false
 
 provider:

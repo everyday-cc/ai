@@ -46,22 +46,6 @@ related:
         width: 2500
         height: 1250
         isCached: true
-  - title: "What You Should Know Before Using the Lensa AI App"
-    excerpt: "Are you thinking about uploading some selfies and buying a pack of ‘Magic Avatars’? Consider these expert tips first."
-    publishedDateTime: 2022-12-09T12:00:00Z
-    webUrl: "https://www.wired.com/story/lensa-ai-magic-avatars-security-tips/"
-    ampWebUrl: "https://www.wired.com/story/lensa-ai-magic-avatars-security-tips/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/lensa-ai-magic-avatars-security-tips/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
-    images:
-      - url: "https://media.wired.com/photos/6392663fdf2fe9c58ee95b55/master/pass/Security-LensaAI-Birth-Venus-92825836.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
   - title: "Lensa AI, the viral app making ‘magic avatars,’ raises red flags for artists"
     excerpt: "Photo editing app Lensa AI went viral this week for making AI-generated stylized avatars. Its popularity raises alarm with artists."
     publishedDateTime: 2022-12-06T00:14:00Z
@@ -142,6 +126,15 @@ related:
         width: 1200
         height: 462
         isCached: true
+  - title: "What You Should Know Before Using the Lensa AI App"
+    excerpt: "Are you thinking about uploading some selfies and buying a pack of ‘Magic Avatars’? Consider these expert tips first."
+    publishedDateTime: 2022-12-09T12:00:00Z
+    webUrl: "https://www.wired.com/story/lensa-ai-magic-avatars-security-tips/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
   - title: "What does the Lensa AI app do with my self portraits and why has it gone viral?"
     excerpt: "Caitlin Cassidy gives Nino Bucci the full picture of the latest ‘magic avatar’ generator and image editing app"
     publishedDateTime: 2022-12-08T13:00:00Z

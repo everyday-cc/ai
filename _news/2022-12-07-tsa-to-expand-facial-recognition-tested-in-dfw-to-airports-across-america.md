@@ -113,6 +113,20 @@ related:
       name: Biloxi Sun Herald
       domain: sunherald.com
     quality: 42
+  - title: "US Customs agents use facial recognition system at Orlando International Airport to speed up lines"
+    excerpt: "U.S. Customs and Border Protection agents at Orlando International Airport are using facial recognition technology to help speed up screening lines that often stretch to 600 passengers deep."
+    publishedDateTime: 2022-12-09T22:00:00Z
+    webUrl: "https://www.clickorlando.com/news/investigators/2022/12/09/us-customs-agents-use-facial-recognition-system-at-orlando-international-airport-to-speed-up-lines/"
+    type: article
+    provider:
+      name: News 6 WKMG
+      domain: clickorlando.com
+    quality: 40
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/12-09-2022/t_f352d53d54e5459cb619075bf2c225bc_name_image.jpg?_a=ATO2Bfe0"
+        width: 700
+        height: 394
+        isCached: true
   - title: "Facial Recognition Back on FB Dating"
     excerpt: "Meta is extending its use of AI facial scanning to confirm users' ages on Facebook Dating which is a contrast to their 2021 move of banning facial recognition."
     publishedDateTime: 2022-12-06T08:57:00Z
@@ -178,6 +192,15 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 29
+  - title: "TSA set to use facial recognition technology in airports across US 'as soon as next year'"
+    excerpt: "The decision follows the federal agency having tested the technology for years and offering it as an option to travelers."
+    publishedDateTime: 2022-12-09T18:46:00Z
+    webUrl: "https://justthenews.com/government/federal-agencies/tsa-set-use-facial-recognition-technology-airports-across-us-soon-next"
+    type: article
+    provider:
+      name: justthenews
+      domain: justthenews.com
+    quality: 25
   - title: "How businesses are deploying facial recognition"
     excerpt: "As facial recognition software becomes easier to acquire, businesses are using it to surveil and analyze customers. Bloomberg's Parmy Olson explains where and how the technology is being deployed."
     publishedDateTime: 2022-12-09T14:57:00Z
@@ -187,6 +210,15 @@ related:
       name: Capital Public Radio
       domain: capradio.org
     quality: 19
+  - title: "Horry County Special Education Teacher Receives National Recognition from Education Associates for Career Readiness Achievements in Classroom"
+    excerpt: "Functional Special Education Teacher Emily Scheffler from Horry County Public Schools attended the 2022 National CASE Conference in Salt Lake City to receive the 2 nd Annual Gary Bates Memorial Award."
+    publishedDateTime: 2022-12-09T22:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-horry-county-special-education-teacher-receives-national-recognition-/2022/12/09/9728012.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "HKwNlUFGNXXw03w+rxLXL6qdxJj5qRAifw1ld4FxQrUKa9U4wpP4AQTDApv//mF9KOGilGfOqktmW213wk+3l6Mt+WAlWQ4hkP9XmNl0zFBdk3A9dcOgjrBjSM/t9XpZvsO0qxtrIiUNixJZ1Z5Ik1t0ZU3YLeI0Yo/CmkDPnirenRdFwZF01Igfzyy72RtZXunjVK8PXM2e2x/d1Sk9WJl7H7g05xBGt6qX0k1W8GCdRFke7oNSi6OKW4mQzgGiLeMLHN0Km8D7VFYs985MyCxOcJzfP7I3JFZ+iM3ZZElXT7tR4rRqghyW402oLdlqdgRZ4fbAe4n0apzFssRMVY2EkLkEaw4MmFEl0UAUzojo1gWdZKAwtI5RhOkA3uwhAEAiDvaw5sRWBpAmjVkLlRTFDG7Boc0JTDRxk4rlGIYh2dVe9AJwtaQDkHabQHJb57jUqOOni+j7neoOrhj9zNkwp/nkMfKA2eJGiu7FdK6ctgfu81scbDUfXoRV9d/LprDqWfKCxEAz/Ro1+98xbA==;Lfh+Fa30qmmYJGgHhsrUKw=="
 ---

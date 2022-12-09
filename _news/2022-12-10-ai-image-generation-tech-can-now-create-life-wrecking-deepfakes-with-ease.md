@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-09T19:10:00Z
 originalUrl: "https://arstechnica.com/information-technology/2022/12/thanks-to-ai-its-probably-time-to-take-your-photos-off-the-internet/"
 webUrl: "https://arstechnica.com/information-technology/2022/12/thanks-to-ai-its-probably-time-to-take-your-photos-off-the-internet/"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: Ars Technica

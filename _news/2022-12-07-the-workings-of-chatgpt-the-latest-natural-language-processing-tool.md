@@ -139,6 +139,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI ChatGPT Is A Huge Fan Of Elon Musk, Not-So-Much Google, Amazon And Apple"
+    excerpt: "Silicon Valley has been obsessed with ChatGPT since it launched on Nov. 30. The impressive chatbot, created by Elon Musk founded startup OpenAI, has racked up more than a million users in its first five days and is likely to report astounding session times as people find themselves drawn more and more to this charming AI."
+    publishedDateTime: 2022-12-09T21:01:00Z
+    webUrl: "https://www.forbes.com/sites/martineparis/2022/12/09/ai-chatgpt-is-a-huge-fan-of-elon-musk-not-so-much-google-amazon-and-apple/"
+    ampWebUrl: "https://www.forbes.com/sites/martineparis/2022/12/09/ai-chatgpt-is-a-huge-fan-of-elon-musk-not-so-much-google-amazon-and-apple/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2022/12/09/ai-chatgpt-is-a-huge-fan-of-elon-musk-not-so-much-google-amazon-and-apple/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/639396616b1ddb747792f2ca/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The Brilliance and Weirdness of ChatGPT"
     excerpt: "ChatGPT is, quite simply, the best artificial intelligence chatbot ever released to the general public. It was built by OpenAI, the San Francisco A.I. company that is also responsible for tools like GPT-3 and DALL-E 2,"
     publishedDateTime: 2022-12-05T23:35:00Z
@@ -300,22 +316,6 @@ related:
       - url: "https://thenewdaily.com.au/wp-content/uploads/2022/12/1670477681-GettyImages-1258096414.jpg?resize=960,600"
         width: 960
         height: 600
-        isCached: true
-  - title: "AI bot ChatGPT stuns academics with essay-writing skills and usability"
-    excerpt: "Latest chatbot from Elon Musk-founded OpenAI can identify incorrect premises and refuse to answer inappropriate requests"
-    publishedDateTime: 2022-12-05T04:14:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability?amp"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/df141be52848f565532fc32763a67bfff1f447ed/0_93_5000_3002/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=df8459ef5c224b513f859f0be309e8a3"
-        width: 620
-        height: 372
         isCached: true
   - title: "As chatbot sophistication grows, AI debate intensifies"
     excerpt: "California start-up OpenAI has released a chatbot capable of answering a variety of questions, but its impressive performance has reopened the debate on the risks linked to artificial intelligence (AI) technologies."
@@ -518,6 +518,15 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 8
+  - title: "Could an A.I. Chatbot Rewrite My Novel?"
+    excerpt: "As a young fiction writer, I dreamed of a technology that would tell me how to get my characters from point A to point B. Could ChatGPT be it?"
+    publishedDateTime: 2022-12-09T19:50:00Z
+    webUrl: "https://www.newyorker.com/news/our-columnists/could-an-ai-chatbot-rewrite-my-novel"
+    type: article
+    provider:
+      name: The New Yorker
+      domain: newyorker.com
+    quality: 4
   - title: "We Asked ChatGPT Questions About the Language Industry…It Had a Lot to Say"
     excerpt: "OpenAI invited people on Twitter to try the AI conversation interface ChatGPT and provide feedback. Usage soon exploded. The chat app reached over one million users in just five days. ChatGPT builds on OpenAI’s Large Model (LLM) and is next-level for AI dialogue iterations."
     publishedDateTime: 2022-12-06T11:56:00Z

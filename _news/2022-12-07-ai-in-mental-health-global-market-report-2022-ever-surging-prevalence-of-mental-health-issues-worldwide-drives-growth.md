@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Quadruped Robot Market 2022 Advance Technology, Latest Trend and Future Expansion by 2028"
+    excerpt: "AI Quadruped Robot Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2021, at unexpected"
+    publishedDateTime: 2022-12-08T02:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-quadruped-robot-market-2022-advance-technology-latest-trend-and-future-expansion-by-2028-2022-12-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
   - title: "Artificial Intelligence & Advanced Machine Learning Market 2023 Industry Size, Trends, Growth, Insights and Forecast Research Report 2028"
     excerpt: "The global Artificial Intelligence and Advanced Machine Learning Market size, revenue, distinct categories, drivers"
     publishedDateTime: 2022-12-06T07:18:00Z
@@ -61,20 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Emotion Recognition and Sentiment Analysis Industry 2023 Market Size, Share, Growth, Sales and Drivers Analysis Research Report 2028"
-    excerpt: "The Global Emotion Recognition and Sentiment Analysis Market 2023 report is a thorough assessment of the worldwide"
-    publishedDateTime: 2022-12-05T08:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/emotion-recognition-and-sentiment-analysis-industry-2023-market-size-share-growth-sales-and-drivers-analysis-research-report-2028-2022-12-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial Recognition Phone Market 2022 Company Profile Analysis, Industry Segmentation, Opportunity Assessment and Forecast by 2028"
     excerpt: "The Facial Recognition Phone market analysis, definition, and category are presented at the beginning of the document. The report also presents a detailed overview of the various product specifications,"
     publishedDateTime: 2022-12-06T03:52:00Z
@@ -98,20 +93,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Discover How Artificial Intelligence Based Medical Device Market 2023-2026 is Estimated Drive the Industry Growth Across World in Coming Year"
-    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Artificial Intelligence Based Medical Device"
-    publishedDateTime: 2022-12-05T05:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/discover-how-artificial-intelligence-based-medical-device-market-2023-2026-is-estimated-drive-the-industry-growth-across-world-in-coming-year-2022-12-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-09T18:53:00Z
 originalUrl: "https://marketscale.com/industries/healthcare/the-unique-potential-of-open-federated-learning-in-healthcare/"
 webUrl: "https://marketscale.com/industries/healthcare/the-unique-potential-of-open-federated-learning-in-healthcare/"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: marketscale

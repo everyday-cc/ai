@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-08T00:00:00Z
 originalUrl: "https://cacm.acm.org/news/267491-computing-with-chemicals-makes-faster-leaner-ai"
 webUrl: "https://cacm.acm.org/news/267491-computing-with-chemicals-makes-faster-leaner-ai"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: acm.org

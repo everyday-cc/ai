@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "10 biggest healthcare moves from Google in 2022"
+    excerpt: "Here are 10 of the biggest healthcare moves from the company in 2022: Google Cloud partnered with health systems including Edison, N.J.-based Hackensack Meridian Health, Pittsburgh-based Highmark Health,"
+    publishedDateTime: 2022-12-09T18:29:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/10-biggest-healthcare-moves-from-google-in-2022.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 19
 
 secured: "qlBJr5/albCDcJQK8bMUsk7iAA2UsstZpgdmhFZjawyC02FkRyeh0R49ORcf+h5UZ4n0eglYDI6q3mDwSgB6DbAAYClypFzOm9x9QJ3VpB2XfHhFnxHWaTclHodfxiy2sNM+0DarCqJIHOw8YTGDk54U+oYsJqSTTMY5I+ym5YfvmzGxNZa2nRaHaV0K7laqeWWs7COD4/H4ckzb1YFqcgNbY+4keHQxigbcQL7YiiFLxxxD/J7Wul3A0yDVSDnlhaNuFo19b3Fl/saVJpJM9+ojPZaTwMjzvNum0Sx9La+SvHdW2ED5QiG48imKhgaiL21XJjGXPYDmL/eH/v+Ex+jyc5ym8dLC0KIN/HLewmg=;W+UW0TCrpRlnd2TB3YSRkw=="
 ---

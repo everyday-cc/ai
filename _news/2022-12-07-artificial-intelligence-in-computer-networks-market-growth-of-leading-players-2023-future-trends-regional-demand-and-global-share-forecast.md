@@ -98,20 +98,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Medicine Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028"
-    excerpt: "Artificial intelligence (AI) is a branch of computer science that deals with the design of intelligent agents,"
-    publishedDateTime: 2022-12-05T06:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-12-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cloud AI Developer Services Market 2022 : Recent Developments, Industry Trends and Investigation Growth Rate, and Forecast to 2028"
     excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Cloud AI"
     publishedDateTime: 2022-12-06T01:13:00Z

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla Says Its Self-Driving Tech May Be a ‘Failure,’ but Not Fraud"
+    excerpt: "The electric car company is facing a class-action lawsuit from Autopilot and Full Self-Driving (FSD) technology customers. They claim they were ripped off, duped by statements from co-founder and CEO Elon Musk and marketing materials from Tesla over the past six years suggesting full-fledged autonomous driving was imminent."
+    publishedDateTime: 2022-12-09T19:04:00Z
+    webUrl: "https://www.ttnews.com/articles/tesla-says-its-self-driving-tech-may-be-failure-not-fraud"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 54
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2022-12/Tesla-autonomous-1200.jpg"
+        width: 470
+        height: 246
+        isCached: true
 
 secured: "LQrn5euRtafJBt2B+zWWp41G5JXYK4MlOXznaxG16/NW+a/P2yCa4rRh8hbd3McJKPJV70Mp8bwZyDpNIY3mvn3gbEE4sH7Y8vaiXK119SmpfYL70OLLpijQOI+ifggLPUG8sgUobi26y76aIEb4K8xEHOW2jObZnXpomdOgKYQjpAJdUFam4zfpWKyh691uYjb84PDiNL5EmsVsGx57LOvkpn4+EJ9hh0JMv0R4dW0txmJ6z73Cba7Im2RKv0ABXqZVYV4g3AekiXZelBkGuRpbnAD5Acs7ppWllxQtWxbIoR6KVly4o2CNFrJYRMD46PEyFFAGF2dzrB3lVot+T5jqAJr0c8keRpWYtI/G+qo1j01HKtX/gXQXkPftyi6iy+cafeQ8REoV75qwDjO7qaHO+CZHmsr+PszOOtg7ZJ2sElmIEUdgR3XXqeNIEmJfthEFuKCxwe6cJvG2DvP/6lymlbOlJoKAJxRv9mSs8HeDCpqHeBlPcO6/nGbbt3qeK4SnS0PU8BgDRPFcAH3JdA==;bKswHvvoJ7lQX+kmFBY8Dw=="
 ---

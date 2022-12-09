@@ -25,21 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "The Worldwide Machine Learning as a Service Industry is Expected to Reach $36.2 Billion by 2028"
-    excerpt: "The \"Global Machine Learning as a Service Market Size, Share & Industry Trends Analysis Report By End User, By Offering, By Organization Size, By Application, By Regional"
-    publishedDateTime: 2022-12-06T20:29:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/12/n29983615/the-worldwide-machine-learning-as-a-service-industry-is-expected-to-reach-36-2-billion-by-2028"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29983615"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29983615"
+  - title: "THIS Robotics Technology MARKET RESEARCH REPORT: Factors limiting the market growth."
+    excerpt: "Robotics technology is a branch of engineering that deals with the design, construction, operation, and control"
+    publishedDateTime: 2022-12-07T16:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/this-robotics-technology-market-research-report-factors-limiting-the-market-growth-2022-12-07"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 51
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
     images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
-        width: 800
-        height: 313
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Emotion Recognition and Sentiment Analysis Industry 2023 Market Size, Share, Growth, Sales and Drivers Analysis Research Report 2028"
+    excerpt: "The Global Emotion Recognition and Sentiment Analysis Market 2023 report is a thorough assessment of the worldwide"
+    publishedDateTime: 2022-12-05T08:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/emotion-recognition-and-sentiment-analysis-industry-2023-market-size-share-growth-sales-and-drivers-analysis-research-report-2028-2022-12-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "xreN7GJA52IPAmSjREe3TqQTC1zfqL+DDmjYrKcuTDqxnUZ6KRiOW7d44d7ESBG2mkG63pxlvXAd3F2yPOMK6k42s7DFHL1FOTSGL1tGv8Pss1w6AhVKwL39XAB3qrTLZOb+Vaabd7Ij8OEYZTkK9pveJcsOysvFfejfjXl0Tkl6G8T6+Evs/jOXK6Z1hvSXHOnoxH9miTVolNnT1mZ1kV22WdUAp9hY59iTPEhsoT+YrN6bQLjutSjk8/+tlvvTXqyyoiNuGPJTYEvwMlwX6KR63JziyJBpP9KycsRJI44gCZM7c6Vo26h5MmkCTwzU8QL0F6zG7kU8FKOl9R0FwDwraFi2f1QsF4JYezQTXHQ0I3VdMToIC3B265YY4EJz1PhH2znBtUfweVI//1Y78gFVV2KMpn2+4QgEqHJlXsCr62Ylr6BYQdi7tt1nBP7mBC17Pvx9rymV2S45Fi6On+LjSr76/X2FHCX9vmfddyLXNWl2vJcfpwCU8Cc+31ycmh2JGx5w344U3JYzNMRjjg==;AmgQ//sDWvADm0K/cn5J9g=="

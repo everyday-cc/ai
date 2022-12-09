@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Banned AI bots crawl back onto Facebook to target male gamblers"
-    excerpt: "Weeks after Meta-owned Facebook banned groups which were caught sending streams of private messages to potential gamblers, promising free tips in exchange for signing up to online bookmakers, they returned to the platform to seek out new customers."
-    publishedDateTime: 2022-12-05T04:19:00Z
-    webUrl: "https://www.afr.com/technology/banned-ai-bots-crawl-back-onto-facebook-to-target-male-gamblers-20221202-p5c38z"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 37
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.5298%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_12/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/ffa36b975f481c2f4c1dd20c013e6e6a234d522f"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "GuCsz6JriH4D/OqttWv9rbYizj4s4XhoIAwKdjH7DKgq6KRzoh9aGaGPhbw+DURVid7nqu6cp3E/Yk4P/jCYdLJ84EIn42tO4HBzZLtAqedCGmBRHFqq/BAlo5FxGu6/IkPgj0mga1d8OCALMVrIk3BFpfM7WvG1SZcDCheEgQW+0SlApEKRGuCSRXIq89jqagXLeZVkfKQdHHcjPh4QgrAxW62ArsBRaJDtOPBmWPlPxKP0Y5klAFLh1C8XYbiuBzCV0iFJ1XJzggyBN5SDgM5yx+pB5tCupW+IIn3mZMCTEe/rImvhN6g6gddHLduVesCOW4NihGFXRtHdoZF8JbhNtXuTmGFwbnc1Wma7mus=;NBSdnRGspw6kl/l/wF/g5A=="
 ---
