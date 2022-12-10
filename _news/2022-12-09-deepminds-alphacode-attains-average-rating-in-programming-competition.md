@@ -43,6 +43,15 @@ related:
         width: 800
         height: 522
         isCached: true
+  - title: "Alphabet's DeepMind creates AI for drafting film scripts"
+    excerpt: "DeepMind Technologies, part of Alphabet Inc., the parent company of Google, has created an AI that can be used to draft scripts for film and stage plays.  \"Language models are increasingly attracting interest from writers."
+    publishedDateTime: 2022-12-10T12:16:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/alphabets-deepmind-creates-ai-for-drafting-film-scripts-9683811.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 34
 
 secured: "87n2Ln2NK7ofIx45o1qZV/FKp7mzQbixdGM9nL7WaLQIpSSIJyWiszYj2uSwfOWmnebflhXHjf58inlf/rkxlUOruJhpp30cVVcu/d46rPITba1CJz90Ihy4m0E9xA5Uorgy76UQMtNyvMOXZFQMUWixtOK4uCv8CefEtZMVYJenGRyM225LXuh+h5IBa1dChFX+890mFiyh/pzCrF4qMUgO7STJ34jwP6XLezcRFpaNd58mh6yODTqakweszdMrWCLIT0Bl5A29QbZDmbG8vqPu6Dp2/05VDdtvj4l8E+DCa0HOGPjrhSpTzd8NYHAc8BYpta7YIwsKZPCpjnTsMTAFIom8Q9mCDfhHFx6qu4thR6brLCqzQFvFK3BqpIxlG2m5S6ovapaywyOivroWVDtbt9m3pKglVfLXGRB5zFuusrerj4z+QNzFdWbPbGvrjLsy6MlcmUEZLRD8BO8YTvL9wOagMqyX3XyNByck9HCTxMqbivn4tpzxOVMuZl0x97bH0ZzkZGHUhOtw6XPW6w==;z4rtPaSah6mLVMwRHH8Nlw=="
 ---

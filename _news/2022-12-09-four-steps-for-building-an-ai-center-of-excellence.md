@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/09/four-steps
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/09/four-steps-for-building-an-ai-center-of-excellence/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 652
     isCached: true
-
-related:
-  - title: "Tips and Resources for Introducing Students to Artificial Intelligence"
-    excerpt: "For example, teachers may use esports as an engagement vehicle to teach students how AI impacts gaming. Esports is a form of competitive video gaming with a vast ecosystem, including game publishers,"
-    publishedDateTime: 2022-12-05T22:40:00Z
-    webUrl: "https://www.edutopia.org/article/tips-and-resources-for-introducing-students-to-artificial-intelligence"
-    type: article
-    provider:
-      name: Edutopia
-      domain: edutopia.org
-    quality: 39
-    images:
-      - url: "https://wpvip.edutopia.org/wp-content/uploads/2022/12/iStock-1361844238-crop.jpg?w=2880&quality=85"
-        width: 2880
-        height: 1620
-        isCached: true
 
 secured: "968G4MzgoOpk3hO7G3DaQp9V2+Nn10Dr+lNsyuSOO1h4n29NHjoCA5Ag3lWjZCaqzdN3oaIhXbOvMXWMWutHXAHcq5ze4r0RdEETRQ5zXQ3bcxJ7knY2QXJgaASYfada0cZGkM4ejqXNt03+OEyKguu+fcCv2U7QzYlNLjvygCEC5h/ATT6GXEvpCpIwMK53j1HbLtmoOOtzAbmfD1lpPIJA3lpLIdMUbRwaUbruv4c+HscB76FNmyl5bDkJQcCsgh6HtPoYDFEEG+8EjI8bHjj1V5QJ08QucHpQuJ41bCzDbmgUE99MgvgGOWmlHUSRGfCQxXAlB0NNw9ooOIFx6HeiTlJWrqHTYSGgi0XU+hlT5tPdikhKHEVU+9G8gQeUx6fZ4Qz5JcAUPvlDYmBEPIkAEFhTuWYbcakDYZFwd687PB9AfwGDdYBSWYqKyDcKJxZmHgK2k4C8c/KvOkp3u8h/iKgR5Hr4kG2VANVrIB4NU4eHClQYG/x67HdrrFl1ZUD9HAB7Hv/Aij7M32s34w==;DP1cwETcjXH0ob4MLI5dcw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.watoday.com.au/culture/art-and-design/we-let-robots-co
 webUrl: "https://www.watoday.com.au/culture/art-and-design/we-let-robots-control-our-homes-so-why-not-an-artist-20221123-p5c0nc.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -27,13 +27,20 @@ images:
 related:
   - title: "We let robots control our homes – so why not an artist?"
     excerpt: "Bots deliberately sabotaging the way news is delivered and a work created from censored tweets? This new exhibition focuses on something that concerns us all."
-    publishedDateTime: 2022-12-08T06:30:00Z
-    webUrl: "https://www.theage.com.au/culture/art-and-design/we-let-robots-control-our-homes-so-why-not-an-artist-20221123-p5c0nc.html"
+    publishedDateTime: 2022-12-08T07:00:00Z
+    webUrl: "https://www.smh.com.au/culture/art-and-design/we-let-robots-control-our-homes-so-why-not-an-artist-20221123-p5c0nc.html?ref=rss"
+    ampWebUrl: "https://amp.smh.com.au/culture/art-and-design/we-let-robots-control-our-homes-so-why-not-an-artist-20221123-p5c0nc.html"
+    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/culture/art-and-design/we-let-robots-control-our-homes-so-why-not-an-artist-20221123-p5c0nc.html"
     type: article
     provider:
-      name: The Age
-      domain: theage.com.au
-    quality: 19
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 59
+    images:
+      - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "xOo4Jf2FHaFNIibUKrehlzQRUJvCipteeoiKo2ICKFn6y7bbw2LQpWwj8BCdHItkHoo/gNp5U4khbMQuyHApeoPN0EhWa1EJ0vcFpTVpn15lfR70g8DCkVW8pbOzODn3fXLjvyeb3bvilRThOQ5dkO02/GyWKCbMDDM0Z2Y7je6aMmArXA00KE4muoQEj8LZdWK37tpwQ3AhWpuPJlla1WKHTWJ1JEsfXvV8/bMS1HS/iKkm35YnTUEEztkZ2Erl4sLRe0ruAkoCp1CajyhjDDaEgLVQ3FgL8eJMqmbNvqjVJaUqUqIIzDtK6SKTJk6ZzcsnoduHhRxVZqyMb7vE6dRC9HVxqN4vS3zFMT4gbqDlYxTK8UTWAHdOeNsNmITslOOfcIOyoiVIXibwLey5PqAhEz/6nWQKCcKrVbKel/smAlorg6noNTVgQWKAuzHPJlMKuHPHjLJvFnaWkofn8M3Pb1WNkC5QmDQ4y/EIqS9Og+SLoimtVtLFjrg98p17ByZ9cdcEJ4i8EAgKvVqOXQ==;KJrbVVOivucNn8XISkRNsg=="
 ---

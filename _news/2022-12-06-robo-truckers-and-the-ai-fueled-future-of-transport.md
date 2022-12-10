@@ -48,6 +48,22 @@ related:
         width: 1200
         height: 814
         isCached: true
+  - title: "The Future Of Fintech, According To AI"
+    excerpt: "To much fanfare, Open AI released Chat GPT, an interface to interact with their AI model. So this naturally felt like an opportunity to learn about the future of fintech - according to AI. At the end,"
+    publishedDateTime: 2022-12-10T14:29:00Z
+    webUrl: "https://www.forbes.com/sites/alexlazarow/2022/12/10/the-future-of-fintech-according-to-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/alexlazarow/2022/12/10/the-future-of-fintech-according-to-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexlazarow/2022/12/10/the-future-of-fintech-according-to-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6393b7e45ce951dad64ea391/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "/DE7OxQ/+QFOvwLNSREvlimLAtcEyjwerKvDed09JAz/85XvVHm09LmVE9LCxD5t8c0B/ZyJRIG+TG7FM0ZsndHRAeZr+26Ap1T8rr3qBvka5DrrElsHBwltcr0GQJ/TDTYbiyfDxaLTJDW2xBtkx3zgU4aFkXZo+w3lcle65ykHEJ548VrKHULsrNviSmNaJo9M+IRj/ezAdUE3lPOtevEEjgKRLvnQy1kzw0mw1ojTKkJf+J72zZe4hWmc34FM10KXLJtrHOexmTV1FcD6gY6FiGE+jgR+UxiIWmqGNUTtfIninsD1MDg9h03tkdYM8+3/gngJa4NwarGZ69JRI+PwDGUmOjdujSso7szo0WV5X2bG1xj5GM6E+gpoaGTJg1scJUjYG8lz+5NiFlqV7nvxTOvpL3a1zvkg9zz1fMto7O0y+/N3b9fzeio23hQadOLrooiR2CHqMZL6nBa7+gF3X8ReraukjgZfbidftsDOFEQwKUCeEl+JXllgNd4KCl4BOkTpNkbWcBF3FyLPkA==;GBvpg8mMOUBO1ZSz4kMAeA=="
 ---

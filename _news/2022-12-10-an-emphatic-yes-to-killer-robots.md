@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "An emphatic 'yes' to the rise of killer robots"
+    excerpt: "In the mid-1990s, Cyberdyne Systems Corporation created an artificial intelligence-based defense system called Skynet. When the system achieved self-awareness on August 29, 1997, it decided that human"
+    publishedDateTime: 2022-12-10T14:01:00Z
+    webUrl: "https://www.newsminer.com/opinion/columnists/an-emphatic-yes-to-the-rise-of-killer-robots/article_d340a93e-7838-11ed-9798-3f077a743c52.html"
+    type: article
+    provider:
+      name: Fairbanks Daily News-Miner
+      domain: newsminer.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/4/9b/49b854e8-3a66-11e7-acf5-5b556962fbc4/591b464b668c7.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Rich Lowry: An emphatic ‘yes’ to killer robots"
     excerpt: "With the U.S. experiencing lackluster productivity growth since 2010, we need the best robots and AI that we can muster. We shouldn't fear them just because — decades-old spoiler alert — HAL turns out to be a dastardly villain in \"2001: Space Odyssey."
     publishedDateTime: 2022-12-10T05:00:00Z

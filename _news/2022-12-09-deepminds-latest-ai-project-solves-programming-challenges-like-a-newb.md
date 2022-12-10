@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/science/2022/12/deepminds-latest-ai-project-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2022/12/deepminds-latest-ai-project-solves-programming-challenges-like-a-newb/amp/"
 type: article
 quality: 104
-heat: 115
+heat: 124
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1920
         height: 1282
         isCached: true
+  - title: "Alphabet's DeepMind creates AI for drafting film scripts"
+    excerpt: "DeepMind Technologies, part of Alphabet Inc., the parent company of Google, has created an AI that can be used to draft scripts for film and stage plays.  \"Language models are increasingly attracting interest from writers."
+    publishedDateTime: 2022-12-10T12:16:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/alphabets-deepmind-creates-ai-for-drafting-film-scripts-9683811.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 34
 
 secured: "7vrFh755AaPaBs3Ae8AsbN/Qe6AAk4lxVW88LVd3DcK6UsKuaq5vP+W5mcpfSb7qv4JVXUIs6CVtHFK1qVdWl/Qg3/V/bJOReOvNeRHjUgC5lB4g8Nav+sbnClVOOwd7/anhkyjPKTdJfd5nNI5uYPp/NlbyJ9Afgoeab8wxWQ5FIKX+8eYzSFy10wgYVArXe9FSnalN8BWb3YthDbKn99cEpSI2CAz8//Aie61ZXOuxR5rEfX6y/kbBCnudbB7DarNMCpqqubboui5NmlZEkg1iDWUY+7lpVyB27TjSsvD+psmRsQJctZkshUq3otHBfYGv9CSUBF1HHkGL6+7y+7IoYXpBZ/XqTuUeTWZcogElSkgXGZ3nTVix1rnhEwHCfNUnFTOXSvDUWri5HNS/l4sZvitjuXExijHgLel4//Br9cNmKawoevLh6+tZLvJPYxDciryQXy6BUlbBnd6SRr3f30Oe6tj+aM48CQUMPXapFaHOOvoG1m+Bt0Z7mbm8SZjhLrSeI3/HdWkVCy4g7A==;Pfwzivj0varOIDV2WcuKVg=="
 ---

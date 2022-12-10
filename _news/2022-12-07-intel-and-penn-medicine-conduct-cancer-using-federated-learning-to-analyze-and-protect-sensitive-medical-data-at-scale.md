@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel and Penn Medicine Announce Results of Largest Medical Federated Learning Study"
-    excerpt: "Intel Labs and the Perelman School of Medicine at the University of Pennsylvania (Penn Medicine) have using federated learning – a"
-    publishedDateTime: 2022-12-05T23:00:00Z
-    webUrl: "https://www.timesleader.com/wire/state-wire/1590094/intel-and-penn-medicine-announce-results-of-largest-medical-federated-learning-study"
-    ampWebUrl: "https://www.timesleader.com/wire/state-wire/1590094/intel-and-penn-medicine-announce-results-of-largest-medical-federated-learning-study/amp"
-    cdnAmpWebUrl: "https://www-timesleader-com.cdn.ampproject.org/c/s/www.timesleader.com/wire/state-wire/1590094/intel-and-penn-medicine-announce-results-of-largest-medical-federated-learning-study/amp"
-    type: article
-    provider:
-      name: The Times Leader
-      domain: timesleader.com
-    quality: 37
-    images:
-      - url: "https://cdnmedia.sendtonews.com/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
   - title: "Penn Medicine, Intel Leverage Federated Learning for Tumor Detection"
     excerpt: "Researchers from Penn Medicine and Intel Labs have found that the use of federated learning improved brain tumor detection by 33 percent."
     publishedDateTime: 2022-12-07T13:30:00Z

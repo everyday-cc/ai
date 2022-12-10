@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joshwilson/2022/12/06/artificial-intell
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joshwilson/2022/12/06/artificial-intelligence-machine-learning-and-the-future-of-entertainment/amp/"
 type: article
 quality: 117
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://media.wired.com/photos/638e52b0fefa29ce257ada8f/master/pass/artificial-intelligence-trucker-transport.jpg"
         width: 2400
         height: 1350
+        isCached: true
+  - title: "The Future Of Fintech, According To AI"
+    excerpt: "To much fanfare, Open AI released Chat GPT, an interface to interact with their AI model. So this naturally felt like an opportunity to learn about the future of fintech - according to AI. At the end,"
+    publishedDateTime: 2022-12-10T14:29:00Z
+    webUrl: "https://www.forbes.com/sites/alexlazarow/2022/12/10/the-future-of-fintech-according-to-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/alexlazarow/2022/12/10/the-future-of-fintech-according-to-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexlazarow/2022/12/10/the-future-of-fintech-according-to-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6393b7e45ce951dad64ea391/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "gTGDtXDqUAW1zH2LzDBXsdIM6zdAZ92AU+hXucRP5ticTs5z8+ahnEZRZ3vkGmD/pOtdreEoaWYOmmKLy63zNEtPaDeHTVyY+4qAfFKDvhJrQGufhcLewi/hlNyya+qaFhydAqgLrDoWXRwaTwgtb3Fdju7tdF4YD82r1C9HXaT4X9JAY2mX+w3KEtAm+xBmgBkSuxikPrqUs4VVhmGSD2zuo6DRBeMBMdDmCGtG4/QLGSw4FhYwsqZuwbsh95UNi2uA/0fmlHrtCoJ3MvZaxvTIAbDrPTPnKVB6A4f6oRCGi7BDXKVpd/0q2+uUTBRNuCbvIMci1isY0wIlbyqb/mUj44yPsWC9FRkfNhnRPe7J4ksbXUOe9fLf2PU4KYgbZCpuINPNnrqBLX1c/dIytLUx8OviVMKRBXpgNxiyHXroeOZ7XTurQq7+8dcdv5chnC2y0mDHqEHKoIb3yz6K5d/Nj/sJEyArl3UN3sQ4Kurkvieo7RMLa2bJgJLS+0a8Q5ncOxhZ/agLHP/yecuwnA==;9wn/JvUS0XnRzTM8gJFy4A=="

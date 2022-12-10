@@ -39,6 +39,20 @@ related:
         width: 253
         height: 347
         isCached: true
+  - title: "An emphatic 'yes' to the rise of killer robots"
+    excerpt: "In the mid-1990s, Cyberdyne Systems Corporation created an artificial intelligence-based defense system called Skynet. When the system achieved self-awareness on August 29, 1997, it decided that human"
+    publishedDateTime: 2022-12-10T14:01:00Z
+    webUrl: "https://www.newsminer.com/opinion/columnists/an-emphatic-yes-to-the-rise-of-killer-robots/article_d340a93e-7838-11ed-9798-3f077a743c52.html"
+    type: article
+    provider:
+      name: Fairbanks Daily News-Miner
+      domain: newsminer.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/4/9b/49b854e8-3a66-11e7-acf5-5b556962fbc4/591b464b668c7.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "2AKApSpkF6kWz4Rb+Kkty5vwb0iRjxlB4tmkJPAAA3D2sNKUlPcdZqGByf5WGfwAJtnDRPhuBT9GHh5cyT4Qz/PguZWa8PVRkaWaU3Iv3nZPY4RPFjMqKBUvOu8FU9Vi4+tEN+GxVuqc5PQjL6IcokbMBlWn7faos+TwWBal9qq6xl5BzGzOnE+C9QtxBLI7Wsc0jj5uo6ucWr/fDH0FtBE02l6nyS1lEb7LOn5OpXk7JcQiNWyS05u4paujqQzC0ZoZiSwkwiNbzBFpekSyGcXqK+a0Ao5QjPyjPxcQxBHrQRwvGnIoOCcB5edHxy2hr7S4y9/BMfBO6L+DL9P6tAOyUVWZCMV66tbytCGobOlL7uKWz2F/WZT8pkSt0iGS+N8K78N8q4WAZku/mB4qE12rqvE6konBLbnyHrmlrgGyKwNV7vU+K9WLmbeVwFxP4IxeXD42mA9/RJuqe2Av5pJeicRY4Mc7ViYdaomD5tFwK1dzAyWSQnHc0aVDmYN1F4wRhtwztKtXXJvaxT53eg==;QJFHp7QMch+aUhsxe4DzmQ=="
 ---

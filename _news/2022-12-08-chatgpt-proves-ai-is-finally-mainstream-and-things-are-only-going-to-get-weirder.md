@@ -156,22 +156,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The Brilliance and Weirdness of ChatGPT"
-    excerpt: "ChatGPT is, quite simply, the best artificial intelligence chatbot ever released to the general public. It was built by OpenAI, the San Francisco A.I. company that is also responsible for tools like GPT-3 and DALL-E 2,"
-    publishedDateTime: 2022-12-05T23:35:00Z
-    webUrl: "https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html"
-    ampWebUrl: "https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.amp.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 74
-    images:
-      - url: "https://static01.nyt.com/images/2022/12/05/business/05roose-chatgpt/05roose-chatgpt-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "How AI That Powers Chatbots and Search Queries Could Discover New Drugs"
     excerpt: "Natural language processing algorithms like the ones used in Google searches and OpenAI’s ChatGPT promise to slash the time required to bring medications to market"
     publishedDateTime: 2022-12-07T14:59:00Z
@@ -242,20 +226,6 @@ related:
         width: 1200
         height: 802
         isCached: true
-  - title: "AI Chatbots Are Getting Better. But an Interview With ChatGPT Reveals Their Limits"
-    excerpt: "This summer, Google fired one of its engineers who had become convinced that one of its chatbots had reached sentience. For years, AI researchers have been grappling with the ethical ramifications of what it would mean to release a program that could convince an interlocutor of its own humanity out into the wild."
-    publishedDateTime: 2022-12-05T21:28:00Z
-    webUrl: "https://time.com/6238781/chatbot-chatgpt-ai-interview/"
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: time.com
-    quality: 65
-    images:
-      - url: "https://time.com/img/icons/wallet-connect.png"
-        width: 256
-        height: 256
-        isCached: true
   - title: "The workings of ChatGPT, the latest natural language processing tool"
     excerpt: "The latest artificial intelligence tool is creating a buzz among computer scientists and programmers due to its creative capabilities. The tool has been developed by OpenAI, a research institute found"
     publishedDateTime: 2022-12-06T17:10:00Z
@@ -320,6 +290,24 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The 5 Best Uses (So Far) for ChatGPT's AI Chatbot"
+    excerpt: "The new AI tool ChatGPT has inspired excitement and worry with its ability to instantly answer complex questions. In the days after its debut, people have discovered many ways it can make their lives easier -- including five we've found that rise above the rest."
+    publishedDateTime: 2022-12-10T13:34:00Z
+    webUrl: "https://www.cnet.com/tech/computing/the-five-best-uses-so-far-for-chatgpts-ai-chatbot/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 49
+  - title: "Why We're All Obsessed With ChatGPT, A Mind-Blowing AI Chatbot"
+    excerpt: "This artificial intelligence bot can converse, write poetry and program computers. Be careful how much you trust it, though."
+    publishedDateTime: 2022-12-10T12:00:00Z
+    webUrl: "https://www.cnet.com/tech/computing/why-were-all-obsessed-with-chatgpt-a-mind-blowing-ai-chatbot/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 49
   - title: "ChatGPT and Lensa: Why Everyone Is Playing With Artificial Intelligence"
     excerpt: "Two internet sensations give non-nerds a turn with powerful software, yielding surprising wit and stunning avatars."
     publishedDateTime: 2022-12-07T15:38:00Z

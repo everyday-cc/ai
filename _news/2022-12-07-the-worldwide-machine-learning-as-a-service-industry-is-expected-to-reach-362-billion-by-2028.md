@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/22/12/n29983615/the-worldwide-ma
 ampWebUrl: "https://www.benzinga.com/amp/content/29983615"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29983615"
 type: article
-quality: 29
-heat: 29
+quality: 31
+heat: 31
 published: false
 
 provider:

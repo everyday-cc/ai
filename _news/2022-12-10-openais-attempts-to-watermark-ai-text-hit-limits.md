@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-10T13:47:00Z
 originalUrl: "https://techcrunch.com/2022/12/10/openais-attempts-to-watermark-ai-text-hit-limits/"
 webUrl: "https://techcrunch.com/2022/12/10/openais-attempts-to-watermark-ai-text-hit-limits/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: TechCrunch

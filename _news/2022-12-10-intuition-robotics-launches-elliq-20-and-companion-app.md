@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-10T14:07:00Z
 originalUrl: "https://www.therobotreport.com/intuition-robotics-launches-elliq-2-0-and-companion-app/"
 webUrl: "https://www.therobotreport.com/intuition-robotics-launches-elliq-2-0-and-companion-app/"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: The Robot Report

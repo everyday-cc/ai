@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-10T13:09:00Z
 originalUrl: "https://www.carscoops.com/2022/12/watch-how-a-self-driving-truck-reacts-to-a-catastrophic-tire-blowout/"
 webUrl: "https://www.carscoops.com/2022/12/watch-how-a-self-driving-truck-reacts-to-a-catastrophic-tire-blowout/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Carscoops

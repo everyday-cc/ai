@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-
 webUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-2022---regional-overview-substantial-demand-vendor-landscape-and-trends-by-2028-2022-12-07"
 type: article
 quality: 63
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Education Market 2023 : Impressive Growth Rate, Regional Insights, Competitive Outlook, and Geographical Divisions 2028"
-    excerpt: "\" Artificial Intelligence in Education Market \" Insights 2022 - By Applications (Teaching Application, Evaluation Application, Management Application, Others), By Types (, Convenient for Educational Affairs,"
-    publishedDateTime: 2022-12-06T00:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2023-impressive-growth-rate-regional-insights-competitive-outlook-and-geographical-divisions-2028-2022-12-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

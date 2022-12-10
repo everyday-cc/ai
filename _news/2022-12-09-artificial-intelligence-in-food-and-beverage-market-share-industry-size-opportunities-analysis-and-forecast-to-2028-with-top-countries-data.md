@@ -98,20 +98,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Software Market Size 2023 Report Examines Latest Trends and Key Drivers Supporting Regional Outlook 2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \" Artificial Intelligence Software Market \" Insights 2022 - By Applications (Voice Processing, Text Processing,"
-    publishedDateTime: 2022-12-06T00:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-size-2023-report-examines-latest-trends-and-key-drivers-supporting-regional-outlook-2028-2022-12-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Computer Networks Market Growth of Leading Players 2023: Future Trends, Regional Demand and Global Share Forecast to 2029"
     excerpt: "Dec 07, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Artificial Intelligence in"
     publishedDateTime: 2022-12-07T06:54:00Z
