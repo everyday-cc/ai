@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "uptake"
   url: "https://twitter.com/uptake"
-  followers: 5111
+  followers: 5110
 
 locations:
   - Chicago, IL
