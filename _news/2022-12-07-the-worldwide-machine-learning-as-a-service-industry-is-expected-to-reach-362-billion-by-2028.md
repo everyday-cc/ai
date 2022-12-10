@@ -20,6 +20,7 @@ topics:
   - AI in Finance
   - AI
   - Machine Learning
+  - Microsoft AI
 
 secured: "6qwJOZEj97RBIhund1n2QMWNj0pvlYJgqMpflw6cGWA/FQ+uTbdEW/zChmQc8oYNtz15PpZsypUPwQgA7STmFzJd6uq329bhDBivtlpcOPIM6rJ77nBBfN4HmmeCHCCFxKodicoVMr+NgVKpsFCcFm7vEa/3Qj2nzt0CBYtvR63B635pCaWGIxDumJZptsvT5q1NK9/L/1F5zQ/Ono/qYGhVZcdeuJyv7jkSNID8ec2fhFomCV1wwaFDHth1l1mdokMyoKS90uimHrHESZsFVncnv2vzl8FcvLgbnNUD5K7bM8CLKR3O7Z7Ahmut/7s9sxnG5BnzMX3XNPU+ncs0PSZZcVinfCRotjYZE3IkGyA=;2QlOAjYk4FIz0OqdJbi4Kw=="
 ---
