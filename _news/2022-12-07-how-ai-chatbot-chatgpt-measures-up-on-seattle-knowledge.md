@@ -357,20 +357,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
-  - title: "This AI chatbot is dominating social media with its frighteningly good essays"
-    excerpt: "By Samantha Murphy Kelly, CNN Business Imagine if Siri could write you a college essay, or Alexa could spit out a movie review in the style of Shakespeare. OpenAI last week opened up access to ChatGPT,"
-    publishedDateTime: 2022-12-06T02:50:00Z
-    webUrl: "https://krdo.com/money/cnn-social-media-technology/2022/12/05/this-ai-chatbot-is-dominating-social-media-with-its-frighteningly-good-essays/"
-    type: article
-    provider:
-      name: KRDO
-      domain: krdo.com
-    quality: 36
-    images:
-      - url: "https://krdo.b-cdn.net/2022/12/hypatia-h_e843decdf5f99a549e6eebdbf661e114-h_e7ecb66b527590d44df8089b6f701afb-300.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "We Prompted ChatGPT to be a Translation Manager"
     excerpt: "After Slator tested the waters by asking ChatGPT questions about the language industry, we took it a few steps forward by producing a video with ChatGPT, Synthesia, and Descript. First, we asked ChatGPT to answer questions as if they were a translation manager on a podcast."
     publishedDateTime: 2022-12-09T10:41:00Z

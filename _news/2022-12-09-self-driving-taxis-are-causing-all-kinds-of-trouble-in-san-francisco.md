@@ -48,6 +48,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "What San Francisco’s Killer Robots Debate Tells Us About Policing"
+    excerpt: "We all saw that movie…no killer robots,” San Francisco protesters wrote on a picket sign last week, as they opposed a move by city leaders to authorize police use of lethal force with department-issued robots."
+    publishedDateTime: 2022-12-10T17:00:00Z
+    webUrl: "https://www.themarshallproject.org/2022/12/10/san-francisco-killer-robots-policing-debate"
+    type: article
+    provider:
+      name: The Marshall Project
+      domain: themarshallproject.org
+    quality: 39
+    images:
+      - url: "https://d1n0c1ufntxbvh.cloudfront.net/photo/ea1b05d0/80914/1200x/"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "San Francisco Bans Police 'Killer Robots' after Backlash—for Now"
     excerpt: "San Francisco's Board of Supervisors reversed course and voted to explicitly prohibit police from using remote-controlled robots with lethal force after a swell of public outcry."
     publishedDateTime: 2022-12-07T13:01:00Z

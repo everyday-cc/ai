@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "What San Francisco’s Killer Robots Debate Tells Us About Policing"
+    excerpt: "We all saw that movie…no killer robots,” San Francisco protesters wrote on a picket sign last week, as they opposed a move by city leaders to authorize police use of lethal force with department-issued robots."
+    publishedDateTime: 2022-12-10T17:00:00Z
+    webUrl: "https://www.themarshallproject.org/2022/12/10/san-francisco-killer-robots-policing-debate"
+    type: article
+    provider:
+      name: The Marshall Project
+      domain: themarshallproject.org
+    quality: 39
+    images:
+      - url: "https://d1n0c1ufntxbvh.cloudfront.net/photo/ea1b05d0/80914/1200x/"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Self-Driving Taxis Are Causing All Kinds of Trouble in San Francisco"
     excerpt: "In April, a Cruise vehicle blocked a travel lane needed by a siren-blaring fire engine, delaying its arrival at a three-alarm fire. Last fall, dozens of self-driving cars from Google’s Waymo subsidiary drove daily into a quiet cul-de-sac before turning around,"
     publishedDateTime: 2022-12-08T16:44:00Z

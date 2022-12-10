@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-30-baidus-kunlun-xin-mass-produces-7nm-xpu-r-chips-for-autonomous-driving.md",
+      "title": "Baidu's Kunlun Xin mass produces 7nm XPU-R chips for autonomous driving",
+      "excerpt": "The high-performance chips will be highly compatible with high-end autonomous driving applications. The Kunlun chips, in the future, will be adopted by Baidu's robotaxi services, Apollo Go ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20221129VL207/7nm-automotive-ic-baidu.html",
+      "originalUrl": "https://www.digitimes.com/news/a20221129VL207/7nm-automotive-ic-baidu.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20221129vl207_files/4_b.jpg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T17:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-how-high-school-should-change-for-an-era-of-ai-and-robots.md",
       "title": "How High School Should Change for an Era of AI and Robots",
       "excerpt": "Public high school in America was the product of the time of its invention, which was way back in 1821. But in this era of rapid technological change",
@@ -212,58 +255,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-29-baidu-plans-to-expand-driverless-ride-hailing-service-area.md",
-      "title": "Baidu Plans to Expand Driverless Ride-Hailing Service Area",
-      "excerpt": "Chinese internet-services and artificial-intelligence company Baidu Inc. is planning to build what it says will be the biggest driverless car-hailing area in the world as it looks to keep growing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188",
-      "originalUrl": "https://www.marketwatch.com/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188",
-      "publishedDateTime": "2022-11-28T23:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-29-baidu-announces-plan-to-build-the-worlds-largest-fully-driverless-ride-hailing-service-area-in-2023.md",
       "title": "Baidu Announces Plan To Build The World's Largest Fully Driverless Ride-Hailing Service Area In 2023",
       "excerpt": "This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday. Want the fastest, most accurate stock market intelligence? Want EXCLUSIVE ...",
@@ -285,6 +276,58 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-baidu-plans-to-expand-driverless-ride-hailing-service-area.md",
+      "title": "Baidu Plans to Expand Driverless Ride-Hailing Service Area",
+      "excerpt": "By Fabiana Negrin Ochoa Chinese internet-services and artificial-intelligence company Baidu Inc. is planning to build what it says will be the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188?mod=markets",
+      "originalUrl": "https://www.marketwatch.com/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188?mod=markets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188",
+      "publishedDateTime": "2022-11-28T22:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1301,59 +1344,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-how-jpmorgan-chase-co-uses-aws-deepracer-events-to-drive-global-cloud-adoption.md",
-      "title": "How JPMorgan Chase & Co. uses AWS DeepRacer events to drive global cloud adoption",
-      "excerpt": "This is a guest post by Stephen Carrad, Vice President at JP Morgan Chase &amp; Co. JPMorgan &amp; Chase Co. started its cloud journey four years ago, building the integrations required to deploy cloud-native applications into the cloud in a resilient and secure manner. In the first year, three applications",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-jpmorgan-chase-co-uses-aws-deepracer-events-to-drive-global-cloud-adoption/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-jpmorgan-chase-co-uses-aws-deepracer-events-to-drive-global-cloud-adoption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/23/jpmorgan-deepracer.jpg",
-          "width": 1559,
-          "height": 777,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-23T15:45:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Autos"
       ]
     }
   ],

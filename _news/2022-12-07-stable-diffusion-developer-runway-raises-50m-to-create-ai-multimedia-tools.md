@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Generative AI may be the magic potion small marketing agencies have been waiting for"
+    excerpt: "One was generative Artificial Intelligence. Gartner defined generative AI as AI that “learns from existing content artifacts to generate new, realistic artifacts that reflect the characteristics of the training data,"
+    publishedDateTime: 2022-12-10T18:12:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-may-be-the-magic-potion-small-marketing-agencies-have-been-waiting-for/"
+    ampWebUrl: "https://venturebeat.com/ai/generative-ai-may-be-the-magic-potion-small-marketing-agencies-have-been-waiting-for/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/generative-ai-may-be-the-magic-potion-small-marketing-agencies-have-been-waiting-for/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 97
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/12/PeterWeltman.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Adobe Stock begins selling AI-generated artwork"
     excerpt: "Submitting AI-generated imagery to Adobe Stock comes with a few restrictions. The artist must own (or have the rights to use) the image, AI-synthesized artwork must be submitted as an illustration (even if photorealistic),"
     publishedDateTime: 2022-12-06T23:12:00Z

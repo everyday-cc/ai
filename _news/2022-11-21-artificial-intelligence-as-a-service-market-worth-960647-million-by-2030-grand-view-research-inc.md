@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Artificial Intelligence As A Service Market Worth $96,064.7 Million By 2030: Grand View Research, Inc."
-excerpt: "The global artificial intelligence as a service market size is expected to reach USD 96,064.7 million by 2030, according to a new report by Grand View Research, Inc. The market is anticipated to expand at a CAGR of 37."
-publishedDateTime: 2022-11-21T11:37:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/11/21/9717366.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/11/21/9717366.htm"
+excerpt: "Artificial intelligence as a service (AIaaS ... IoT solutions in industries such as manufacturing, retail analytics, self-driving cars, and others. This is projected to fuel the market for ..."
+publishedDateTime: 2022-11-21T12:34:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57640709-artificial-intelligence-as-a-service-market-worth-dollar-96-064-7-million-by-2030-grand-view-research-inc-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2022-11/57640709-artificial-intelligence-as-a-service-market-worth-dollar-96-064-7-million-by-2030-grand-view-research-inc-008.htm"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - AI in Autos
   - AI
 
-secured: "Y9/YdVCBSf4Ex4RbKUB6roiY1RtYsIX2vKwrEoWNiD9O0YW/TBIkULYboAUS2N0H25aZPlxoP8dvPXmtkfk//swfEqJFRg66jGHBwXzcSufZ/XixsZ0aEbCq8dXMeDgc5uO8UzASX7iu6d8yoPuejAgAlwM9kIeSXpGwSa1Cs2WzM1gwkJb26A7JtjX0TTlgvwdDY9DvKvxQN/iH6p95Sa3g0frXklTJTAz2OihOBmIXPnOjLWvN4nVXlz/uDrxTQ22Yd35IqBOkGxABV+OS382KfWkQ5HUb8MPnE+KRD2OL81Bhzd+Gd96fuGy9N7N8fpIoCi1HWdYfOUaLA1iD7+5JUp/Q1PrKhP8JTjlfv/E=;B1t7LIn1rg0tT58bZen31Q=="
+secured: "gCtZUgFYSMgTMZDfbbFJMXeC3fwb3DpyQvddIxPpysQdSoHueOZ8a72VK5Xg8bJXvIkLtz44eE0JwAJOA29gMJkSs7utp6kxlUviMBkT9KZOu0vXAf6He9rBgPurlvItX1t1T6kivXctkQKMEF1nRduyIngTfvRAE39z5w09IVNlshPpB+zJdNU6genza2fWA9Q1P5Sr8PrO3dGkDQwgYeBPT5+CedXQPARFmKoFD4iHRHuOpoZVAp+ejnqdZUc63stWjeIGbY4tGhQrvLUsUFKTte7/ZvLLgsFN4lyPchyv53CdzXS4+34eiB2hisekWzmfMHKBAUuH9fyQJjMbtU3c4e1ntVqDBAAyTp+UAwc=;eXoPZEYdrqG/nRNH3ja3BA=="
 ---
 

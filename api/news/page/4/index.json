@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-12-06-artificial-intelligence-machine-learning-and-the-future-of-entertainment.md",
+      "title": "Artificial Intelligence, Machine Learning, And The Future Of Entertainment",
+      "excerpt": "By 2030, the AI in media and entertainment industry is set to be worth a staggering $99.3 billion with the current compound annual growth rate being 26%.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joshwilson/2022/12/06/artificial-intelligence-machine-learning-and-the-future-of-entertainment/",
+      "originalUrl": "https://www.forbes.com/sites/joshwilson/2022/12/06/artificial-intelligence-machine-learning-and-the-future-of-entertainment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/638f08b7ec3141a8f50d997c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 814,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joshwilson/2022/12/06/artificial-intelligence-machine-learning-and-the-future-of-entertainment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joshwilson/2022/12/06/artificial-intelligence-machine-learning-and-the-future-of-entertainment/amp/",
+      "publishedDateTime": "2022-12-06T01:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-chatgpt-ai-explained-why-everyones-chatting-about-this-new-chatbot.md",
       "title": "ChatGPT AI Explained: Why Everyone's Chatting About This New Chatbot",
       "excerpt": "ChatGPT is an AI chatbot system that OpenAI released in November to show off and test what a very large, powerful AI system can accomplish. You can ask it countless questions and often will get an answer that's useful.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.cnet.com/tech/computing/chatgpt-ai-explained-why-everyones-chatting-about-this-new-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 419,
+      "heat": 409,
       "tags": null,
       "images": [
         {
@@ -166,7 +218,7 @@
       "originalUrl": "https://www.cnbc.com/2022/12/06/bank-of-america-sees-ai-transforming-the-internet-over-the-next-five-yearstop-stocks-to-ride-trend.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -1145,58 +1197,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-05-cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud.md",
-      "title": "Cerebras Announces Pay-As-You-Go AI Training On Cirrascale Cloud",
-      "excerpt": "Company claims it can train AI 8X faster than AWS at half the cost for large models. Cerebras is not your typical AI chip company. And thats a good thing. We already have a lot of knock-offs taking on NVIDIA, and they all seem to do a good job of knocking ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/638e4946cfebecc8ea93c5c7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/amp/",
-      "publishedDateTime": "2022-12-04T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

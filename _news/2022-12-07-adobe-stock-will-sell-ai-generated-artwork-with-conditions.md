@@ -42,22 +42,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Adobe sets new guidelines for AI-generated stock images"
-    excerpt: "While other content platforms have moved in other direction, restricting or banning AI-generated content, Adobe is trying to embrace the new art form with the right set of rules"
-    publishedDateTime: 2022-12-06T01:33:00Z
-    webUrl: "https://www.zdnet.com/article/adobe-sets-new-guidelines-for-ai-generated-stock-images/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/adobe-sets-new-guidelines-for-ai-generated-stock-images/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/adobe-sets-new-guidelines-for-ai-generated-stock-images/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/dfa81d2024c019505973b260e257230ffcf6e698/2022/12/06/2170b8df-844b-454b-a01e-86493815ef72/adobeaiart.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "NZGLmCbYEG3RIr2PEne64hYjXLGSPjEhkWeMzMutnU+kV8iMSkZB4XhhqZmQyQvsaK/b0UNFMM4llIIOWgD/xv/F4Mc0AVuJRsJYz1Il1xiGB3OfubXiqlDAX1UPXz/n4D/m0m95u2sVB4/fhbkPDfEi597BwWvMSPpsMYHbnYYbgMXoQJnurVtjyFeNP4grT5WFKshJCoOnw4NovR+25C8kx0lGG8tbjgUgfOP2Lv6XiTebhTjzZOll25O7uj1b+wECRoRQNApYXiP4dvbwKRsaOTzqdq9bSbOEy3leiOH/gOqnkra1Goxl5S1L5Nu5i5HF4TpC3yKr++bHxvd76BZ1SZpCrYeGBuH82ayrOlTAp0zBP8FpRpSMFnie5AssVOEwH9Vo3BifZXIbemmBVCwi+2kYhYeF3smYDt0LXGrDCPbhLK+DL8UHbpR3BGY0i1dkvc5XXZdZHM+bOLDWVUB6aukfQWUKTWnElf/NiYhR15YE8ux55mDH0ZbUAMy+yVHvFhKiXbjZvVuuNWMuRg==;jk982V4vAicZNFQRz+h/cQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-natural-language-
 webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-share-size-and-forecast-till-2028-2022-12-07"
 type: article
 quality: 78
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -66,20 +66,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cloud AI Developer Services Market 2022 : Recent Developments, Industry Trends and Investigation Growth Rate, and Forecast to 2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Cloud AI"
-    publishedDateTime: 2022-12-06T01:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-ai-developer-services-market-2022-recent-developments-industry-trends-and-investigation-growth-rate-and-forecast-to-2028-2022-12-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

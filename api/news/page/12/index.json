@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-11-29-new-artificial-intelligence-could-help-humans-actually-talk-to-animals.md",
+      "title": "New Artificial Intelligence Could Help Humans Actually Talk To Animals",
+      "excerpt": "New developments in artificial intelligence and technology could help humans communicate with their pets and any other animal species that calls Earth home. Outside of the field of science ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsy.com/stories/artificial-intelligence-could-help-humans-talk-to-pets/",
+      "originalUrl": "https://www.newsy.com/stories/artificial-intelligence-could-help-humans-talk-to-pets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newsy.com/images/videos/m/1669756816_CgX8sG.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-28T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsy",
+        "domain": "newsy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-29-researchers-propose-competencies-for-proper-use-of-artificial-intelligence-in-healthcare.md",
       "title": "Researchers propose competencies for proper use of artificial intelligence in healthcare",
       "excerpt": "Competencies for the Use of Artificial Intelligence in Primary Care Winston Liaw, MD, MPH; Department of Health Systems and Population Health Sciences, University of Houston College of Medicine ...",
@@ -1074,58 +1117,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-28-5-risks-of-ai-and-machine-learning-that-modelops-remediates.md",
-      "title": "5 risks of AI and machine learning that modelops remediates",
-      "excerpt": "Modelops improves machine learning model development, testing, deployment, and monitoring. Follow these tips to keep model risks in check and increase the efficiency and usefulness of your ML initiatives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3681208/5-risks-of-ai-and-machine-learning-that-modelops-remediates.html",
-      "originalUrl": "https://www.infoworld.com/article/3681208/5-risks-of-ai-and-machine-learning-that-modelops-remediates.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/10/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3681208/5-risks-of-ai-and-machine-learning-that-modelops-remediates.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3681208/5-risks-of-ai-and-machine-learning-that-modelops-remediates.amp.html",
-      "publishedDateTime": "2022-11-28T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

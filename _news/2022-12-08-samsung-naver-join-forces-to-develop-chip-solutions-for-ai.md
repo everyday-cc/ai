@@ -112,15 +112,6 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 34
-  - title: "Samsung joins hands with Naver to develop AI chips"
-    excerpt: "Samsung Electronics Co. said Tuesday it is working with internet portal giant Naver Corp. to develop next-generation artificial intelligence (AI) chips, as part of efforts to improve efficiency of processing large AI data."
-    publishedDateTime: 2022-12-06T02:38:00Z
-    webUrl: "https://www.koreaherald.com/view.php?ud=20221206000445&np=1&mp=1"
-    type: article
-    provider:
-      name: The Korea Herald
-      domain: koreaherald.com
-    quality: 34
 
 secured: "Sdcwu/KzDVAofqYvz2o/EbjRyylUElnWR01e0c6k6nGgGtK7RndOHHmujzfXdHdV2SJ3mRUi8IL5clqUN2g3FtsVxn8zLAY6VOctiGviBQfIBdHTsr2dyVGF8yu5/pP9LX0iOsii/m89wn+T54yo0UYpOQ+/zVhIJmq8yIfea6JuMNT0lKsyjjjH+4rK+LnR51CBnSgxAEROC6oHA63/3POUA4YD0s970DHVd2MVMQklU2ckCwxr52N6WsBfhghMH9LHz0VibmVh3cbNtW8qvq50ceLopkARbzlI6HAc9mRSOWxQJRT5o62isIrIqMxcIOiIgSdu/q4MBwa3dADOjp1mPFL2r9tIFYhBssx1fw4=;ZGREmiFn93Wg58B6q0xxyw=="
 ---

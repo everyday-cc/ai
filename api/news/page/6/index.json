@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-12-02-the-rise-and-regulation-of-killer-police-robots.md",
+      "title": "The rise and regulation of killer police robots",
+      "excerpt": "Larger police departments in the United States have the capacity to arm remote-controlled robots with lethal weaponry and send those robots in to kill suspects. But should they be able to use that ...",
+      "sourceUrl": null,
+      "webUrl": "https://theweek.com/san-francisco/1018852/lethal-police-robots",
+      "originalUrl": "https://theweek.com/san-francisco/1018852/lethal-police-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediacloud.theweek.com/image/upload/f_auto,t_primary-image-mobile@1/v1669910848/SF%20killer%20robot.jpg",
+          "width": 375,
+          "height": 211,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theweek.com/san-francisco/1018852/lethal-police-robots?amp",
+      "cdnAmpWebUrl": "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/san-francisco/1018852/lethal-police-robots?amp",
+      "publishedDateTime": "2022-12-02T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "THE WEEK",
+        "domain": "theweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-02-ai-reveals-the-most-human-parts-of-writing.md",
       "title": "AI Reveals the Most Human Parts of Writing",
       "excerpt": "When do writers want help finding inspiration? And when do they want full control? Computers could expose the true future of the medium.",
@@ -1181,49 +1224,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-deepmind-ai-uses-deception-to-beat-human-players-in-war-game-stratego.md",
-      "title": "DeepMind AI uses deception to beat human players in war game Stratego",
-      "excerpt": "An AI has learned to deceive human opponents in the war-themed board game Stratego, which involves imperfect information and a huge number of possible game scenarios",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2349484-deepmind-ai-uses-deception-to-beat-human-players-in-war-game-stratego/",
-      "originalUrl": "https://www.newscientist.com/article/2349484-deepmind-ai-uses-deception-to-beat-human-players-in-war-game-stratego/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2022/12/01153333/SEI_135910044.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T11:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

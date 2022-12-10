@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-11-28-5-risks-of-ai-and-machine-learning-that-modelops-remediates.md",
+      "title": "5 risks of AI and machine learning that modelops remediates",
+      "excerpt": "Modelops improves machine learning model development, testing, deployment, and monitoring. Follow these tips to keep model risks in check and increase the efficiency and usefulness of your ML initiatives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3681208/5-risks-of-ai-and-machine-learning-that-modelops-remediates.html",
+      "originalUrl": "https://www.infoworld.com/article/3681208/5-risks-of-ai-and-machine-learning-that-modelops-remediates.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/10/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3681208/5-risks-of-ai-and-machine-learning-that-modelops-remediates.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3681208/5-risks-of-ai-and-machine-learning-that-modelops-remediates.amp.html",
+      "publishedDateTime": "2022-11-28T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-11-28-as-ai-gets-smarter-creatives-must-continue-to-predict-its-behavior.md",
       "title": "As AI Gets Smarter, Creatives Must Continue To Predict Its Behavior",
       "excerpt": "Predicting and influencing human behavior is as old as human beings themselves, but now we’re entering a new territory—one that has never been possible until the advent of AI. Artificial intelligence helped me write the end of that last sentence.",
@@ -1101,50 +1153,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-11-27-how-bitcoin-and-artificial-intelligence-will-free-your-time.md",
-      "title": "How Bitcoin And Artificial Intelligence Will Free Your Time",
-      "excerpt": "The use of technology will give humans more time to practice mindfulness and do the things they want to do, without having to worry about making ends meet.",
-      "sourceUrl": null,
-      "webUrl": "https://bitcoinmagazine.com/culture/bitcoin-and-artificial-intelligence-frees-your-time",
-      "originalUrl": "https://bitcoinmagazine.com/culture/bitcoin-and-artificial-intelligence-frees-your-time",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bitcoinmagazine.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTkzMjU1NjA1NDIxNjE0NjU5/city-of-the-future.png",
-          "width": 620,
-          "height": 409,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bitcoinmagazine.com/.amp/culture/bitcoin-and-artificial-intelligence-frees-your-time",
-      "cdnAmpWebUrl": "https://bitcoinmagazine-com.cdn.ampproject.org/c/s/bitcoinmagazine.com/.amp/culture/bitcoin-and-artificial-intelligence-frees-your-time",
-      "publishedDateTime": "2022-11-26T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bitcoin Magazine",
-        "domain": "bitcoinmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

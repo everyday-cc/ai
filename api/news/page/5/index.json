@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-12-05-cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud.md",
+      "title": "Cerebras Announces Pay-As-You-Go AI Training On Cirrascale Cloud",
+      "excerpt": "Company claims it can train AI 8X faster than AWS at half the cost for large models. Cerebras is not your typical AI chip company. And thats a good thing. We already have a lot of knock-offs taking on NVIDIA, and they all seem to do a good job of knocking ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/638e4946cfebecc8ea93c5c7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/amp/",
+      "publishedDateTime": "2022-12-04T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-05-sudbury-plays-host-to-first-robotics-competition.md",
       "title": "Sudbury plays host to FIRST robotics competition",
       "excerpt": "Tech Qualifier with students competing from across Sudbury, North Bay, Manitoulin Island, Bruce County and Toronto. Teams had to use their robots to complete different challenges, using pylons while amassing points.",
@@ -1175,49 +1227,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-the-rise-and-regulation-of-killer-police-robots.md",
-      "title": "The rise and regulation of killer police robots",
-      "excerpt": "Larger police departments in the United States have the capacity to arm remote-controlled robots with lethal weaponry and send those robots in to kill suspects. But should they be able to use that ...",
-      "sourceUrl": null,
-      "webUrl": "https://theweek.com/san-francisco/1018852/lethal-police-robots",
-      "originalUrl": "https://theweek.com/san-francisco/1018852/lethal-police-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediacloud.theweek.com/image/upload/f_auto,t_primary-image-mobile@1/v1669910848/SF%20killer%20robot.jpg",
-          "width": 375,
-          "height": 211,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theweek.com/san-francisco/1018852/lethal-police-robots?amp",
-      "cdnAmpWebUrl": "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/san-francisco/1018852/lethal-police-robots?amp",
-      "publishedDateTime": "2022-12-02T06:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "THE WEEK",
-        "domain": "theweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

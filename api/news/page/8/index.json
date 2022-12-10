@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-12-01-finch-computing-accelerates-its-natural-language-processing-capabilities.md",
+      "title": "Finch Computing Accelerates its Natural Language Processing Capabilities",
+      "excerpt": "LAS VEGAS, Nov. 30, 2022 /PRNewswire/ -- Finch Computing, developers of innovative natural language processing technology used throughout the Federal government and among financial firms ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/n29917271/finch-computing-accelerates-its-natural-language-processing-capabilities",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/n29917271/finch-computing-accelerates-its-natural-language-processing-capabilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
+          "width": 800,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29917271",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29917271",
+      "publishedDateTime": "2022-11-30T19:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-aws-unveils-machine-learning-ml-tools-for-data-science-in-the-cloud.md",
       "title": "AWS unveils machine learning (ML) tools for data science in the cloud",
       "excerpt": "Amazon Web Services (AWS) detailed parts of its AI/ML strategy and announced a dizzying lineup of feature updates and new services to help organizations to better use the cloud for data science.",
@@ -1111,49 +1154,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-amazon-to-warn-customers-on-limitations-of-its-ai.md",
-      "title": "Amazon To Warn Customers On Limitations Of Its AI",
-      "excerpt": "Amazon chose software touching on sensitive demographic issues as a start for its service cards, which Kearns expects to grow in detail over time. One such service is called \"Rekognition.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985",
-      "originalUrl": "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.ibtimes.com/en/full/4389003/amazon-logo-company-logistics-center-lauwin-planque.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/amazon-warn-customers-limitations-its-ai-3641985?amp=1",
-      "publishedDateTime": "2022-11-30T09:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }
