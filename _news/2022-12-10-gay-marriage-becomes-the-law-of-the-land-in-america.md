@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Bank of America sees AI transforming the internet over the next five years—top stocks to ride trend"
-    excerpt: "AI and machine learning will be a \"critical driver of all things Internet,\" Bank of America said in a note Monday."
-    publishedDateTime: 2022-12-06T03:29:00Z
-    webUrl: "https://www.cnbc.com/2022/12/06/bank-of-america-sees-ai-transforming-the-internet-over-the-next-five-yearstop-stocks-to-ride-trend.html"
+  - title: "Amazon, Ashton Kutcher And America’s Surveillance Of The Sex Trade"
+    excerpt: "Huge police databases armed with Amazon’s facial recognition are harvesting online sex ads of exploited children and consenting sex workers alike. Forbes finds that even when wielding a mass surveillance arsenal,"
+    publishedDateTime: 2022-12-09T10:59:00Z
+    webUrl: "https://www.forbes.com/sites/thomasbrewster/2022/12/08/amazon-ashton-kutcher-sex-work-surveillance/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 72
+      name: Forbes
+      domain: forbes.com
+    quality: 54
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107157151-1669394314402-gettyimages-1236198615-BPS01_Tablet_Apps_OC_5JPG.jpeg?v=1670304576&w=1920&h=1080"
-        width: 1920
-        height: 1080
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63924e4cd863cb93318465da/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "G0I2mmpZ1nFVE/6TSDh7ZTKAwyUnSFusz/gwELcjcR5s61WKYXuSm6dqjI3om5ATW37bEObZog4zFREBcBbrFRA12HWG+Y58RY6rjtYt7lRlowaUaAWlsCLSeWEtTskJ5dmhEKtYKmi4nfFyTmC5S0T9arKu1mHPfKNVUscmWlUJYNkpT+bOhODKvabOJYO39K4orwdcyB9POQZvD5a5NAlH/XIkxrd+6088o08++yZylQj5KKRFunp0VxO4w0tkpqpmRL225VSWI9ojupyajPeKwq+6NGZnxzH3bM0WqEOtZhUV1Qvm6LL1DHo7AnnWTQAD5esqt/7dY5CNwKaV8Wnw58CM582jvr5zDAKEVko=;ZqSe3P5lgPoOPx7UstKSPw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/evaamsen/2022/12/06/ai-haikus-are-getti
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evaamsen/2022/12/06/ai-haikus-are-getting-betterat-least-in-japanese/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "How These AI-Powered Chatbots Keep Getting Better"
+    excerpt: "This week on “Gadget Lab,” we discuss the advances in generative AI tools like ChatGPT that make computer-enabled conversations seem more human than ever."
+    publishedDateTime: 2022-12-08T13:00:00Z
+    webUrl: "https://www.wired.com/story/gadget-lab-podcast-577/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
   - title: "Japanese tech leaders warn Beijing will ride out US chip sanctions"
     excerpt: "Tech executives in Japan have warned that the latest US chip export controls are unlikely to suppress China’s progress in artificial intelligence and super computers, calling into question the long-term effectiveness of the sanctions."
     publishedDateTime: 2022-12-10T01:01:00Z

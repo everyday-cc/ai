@@ -43,22 +43,6 @@ related:
         width: 480
         height: 359
         isCached: true
-  - title: "Samsung, Naver partner to develop AI chips"
-    excerpt: "Samsung Electronics on Tuesday announced that it has partnered with internet portal giant Naver Corporation to develop next-generation artificial intelligence (AI) chips, as part of efforts to improve efficiency of processing large AI data."
-    publishedDateTime: 2022-12-06T04:21:00Z
-    webUrl: "https://www.thestatesman.com/business/samsung-naver-partner-to-develop-ai-chips-1503136719.html"
-    ampWebUrl: "https://www.thestatesman.com/business/samsung-naver-partner-to-develop-ai-chips-1503136719.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/business/samsung-naver-partner-to-develop-ai-chips-1503136719.html/amp"
-    type: article
-    provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 74
-    images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2022/01/samsung-1.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Samsung, Naver team on next-gen AI chips"
     excerpt: "Samsung Electronics and online platform Naver unveiled plans to jointly develop chips designed to increase the handling of large AI workloads."
     publishedDateTime: 2022-12-07T08:36:00Z

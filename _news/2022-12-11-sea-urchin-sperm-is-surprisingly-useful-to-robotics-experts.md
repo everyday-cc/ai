@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-10T19:59:00Z
 originalUrl: "https://www.popsci.com/environment/sea-urchin-sperm-robotics/"
 webUrl: "https://www.popsci.com/environment/sea-urchin-sperm-robotics/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Popular Science

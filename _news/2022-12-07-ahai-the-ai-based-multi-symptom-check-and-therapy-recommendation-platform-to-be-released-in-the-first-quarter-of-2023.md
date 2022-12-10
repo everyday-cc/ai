@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/29979799"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29979799"
 type: article
 quality: 50
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "3 Ways Artificial Intelligence Will Transform The World in 2023"
+    excerpt: "As we continue to see high rates of positions needing to be filled in 2023, AI is likely going to see quick adoption, development and more."
+    publishedDateTime: 2022-12-09T19:30:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/the-3-biggest-artificial-intelligence-ai-trends-in-2023/439434"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 49
   - title: "N1 Health's AI platform paves the way in driving measurable business results for healthcare organizations in updated KLAS rating"
     excerpt: "N1 Health is pleased to announce that its AI platform has been awarded an overall score of 93.1 out of 100 in the Healthcare Artificial Intelligence: Data Science Solutions report published by the leading healthcare research firm,"
     publishedDateTime: 2022-12-06T19:27:00Z

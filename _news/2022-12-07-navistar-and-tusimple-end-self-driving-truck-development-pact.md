@@ -7,7 +7,7 @@ originalUrl: "https://www.fleetowner.com/technology/article/21255906/navistar-an
 webUrl: "https://www.fleetowner.com/technology/article/21255906/navistar-and-tusimple-end-selfdriving-truck-development-pact"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "TuSimple, Navistar end deal to develop self-driving trucks"
-    excerpt: "Illinois-based Navistar bought a minority stake in TuSimple and announced a deal to co-develop heavy-duty self-driving trucks by 2024, as the autonomous driving technology space boomed with investor attention."
-    publishedDateTime: 2022-12-06T03:07:00Z
-    webUrl: "https://www.hindustantimes.com/car-bike/tusimple-navistar-end-deal-to-develop-self-driving-trucks-101670294476771.html"
-    ampWebUrl: "https://www.hindustantimes.com/car-bike/tusimple-navistar-end-deal-to-develop-self-driving-trucks-101670294476771-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/car-bike/tusimple-navistar-end-deal-to-develop-self-driving-trucks-101670294476771-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 44
-    images:
-      - url: "https://images.hindustantimes.com/img/2022/12/06/1600x900/Screenshot_2022-12-06_080441_1670295922642_1670295937492_1670295937492.jpeg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "GnnY7RT5kib9gkomyTx4TQLTpsXHqGeq3BjY2xP54maAS60td7xq+n+ePYai+aY/KvD3b4deRMET1QdXqGWkVy1Ikb6sJHcVxSrxVGj7N13otfddnP0YWgU+QhTxr1cKXFxF2wp0HQSyYTuEa9kxOHlDH30W6LYL8ETZ5M/kFJgrvldzV12tMEBrGtrpFdqwJAiK/EocbwEzjlQX+8KCICHZOD10T3rPDvGXBneFLSdqWPrXAzno3OBlAsHXC2EjDiNyDH2669O08X1gCj+CcK+41xamG3bC3mGqi2qsEDOEHMbzxbwEe8j262cZa/aVKR4BxJMEdKh8uAV02sM6WjC8e+C5CPwnKFPyd8jMpNE6nDA/zmQvnuvVblEqyhybOLjhiDeJwcsaCTz4UlJmKcd7DI+9g7F28QtBhBt453y4bgLVaF5WwWGlIEKqCZLGymNx60e+p/uxGz++nE7KNCScgheCQWo+3jtah3MpQDMQO4NZKRaRrQ+PTe4yCz16rGRZ5Q+F7LyZe3Z1s8FRIg==;aHDcVyyAX8CCCznQ6g4Jew=="
 ---

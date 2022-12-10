@@ -7,7 +7,7 @@ originalUrl: "https://www.afr.com/companies/transport/smoothly-driving-towards-t
 webUrl: "https://www.afr.com/companies/transport/smoothly-driving-towards-the-holy-grail-of-self-driving-20221205-p5c3n7"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "Tips, tricks to staying safe while driving in the snow"
-    excerpt: "We just have to be cautious and safe and follow the rules.” While many winter driving rules seem self-explanatory, it is always good to get a refresher. Sgt. Matt Navest, with the Ada County Sheriff’s Office,"
-    publishedDateTime: 2022-12-06T06:39:00Z
-    webUrl: "https://www.ktvb.com/article/travel/local-tips-tricks-to-staying-safe-while-driving-in-the-snow/277-9f8a6e7b-2966-48b0-a4ee-43b4bb067a48"
-    ampWebUrl: "https://www.ktvb.com/amp/article/travel/local-tips-tricks-to-staying-safe-while-driving-in-the-snow/277-9f8a6e7b-2966-48b0-a4ee-43b4bb067a48"
-    cdnAmpWebUrl: "https://www-ktvb-com.cdn.ampproject.org/c/s/www.ktvb.com/amp/article/travel/local-tips-tricks-to-staying-safe-while-driving-in-the-snow/277-9f8a6e7b-2966-48b0-a4ee-43b4bb067a48"
-    type: article
-    provider:
-      name: KTVB
-      domain: ktvb.com
-    quality: 44
-    images:
-      - url: "https://media.ktvb.com/assets/KTVB/images/4a98c46b-4f6c-4507-91aa-b5bc6d8f65e3/4a98c46b-4f6c-4507-91aa-b5bc6d8f65e3_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
 
 secured: "m5xmuImpTdsKtTtQHc1oi0HfWTNH6MjL7YaTrlsOyguyTLR0YxYFRXFeHrTTeylT8V4KmAy5AjhIYpNsVtcXyBc3U6KHbdI2S/IYGIvP5vymP8R7hlNQx68FKMJbb/2984azByXw7kQcmGyso3pT7uJtCQc4ieVwpioNAVRmeV2KFhbD18PR2cU6WPgNGja8DTfHtfHv8B+4cR64qg7+Iu07wj6Yh5RzhGvFsdLKvR0ccZmV8MXLlxdFSuOMxNikJw5Tey+mVvDcbtkJcHa3XPKiz0itqXqLXxu//ywrWKT4SYR8yblnvT5JFs6hry2NuOlIpJQx0cE/7an6siGATcC/sLxUltFcvRClKCtoNqU=;ZjD592DKrkvOWz+buqXvqA=="
 ---

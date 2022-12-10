@@ -28,29 +28,43 @@ images:
     isCached: true
 
 related:
-  - title: "Face Recognition Technology Market Size, Trends and Forecast 2028 with Top Countries Data"
-    excerpt: "\" Face Recognition Technology Market \" Insights 2022 - By Applications (Emotion Recognition, Law Enforcement, Surveillance, and Monitoring), By Types (2D Facial Recognition, 3D Facial Recognition, Thermal Facial Recognition),"
-    publishedDateTime: 2022-12-09T01:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-size-trends-and-forecast-2028-with-top-countries-data-2022-12-08"
+  - title: "AI Chip for Data Centers Market: A Detailed Analysis of Latest Market Trend with Growth Projections Through 2029"
+    excerpt: "Dec 07, 2022 (The Expresswire) -- \"Final Report will add the analysis of the COVID-19 and Russia Ukraine war impact on this industry.\" The \"AI Chip for"
+    publishedDateTime: 2022-12-07T10:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-chip-for-data-centers-market-a-detailed-analysis-of-latest-market-trend-with-growth-projections-through-2029-2022-12-07"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Precision Medicine Market Size, Sales, CAGR And Competition Data from 2022 To 2028 with Top Countries Data"
-    excerpt: "\" Artificial Intelligence in Precision Medicine Market \" Insights 2022 - By Applications (Oncology, Neurosciences, Immunology, Respiratory), By Types (Hardware, Software, Services), By Segmentation analysis,"
-    publishedDateTime: 2022-12-09T01:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-medicine-market-size-sales-cagr-and-competition-data-from-2022-to-2028-with-top-countries-data-2022-12-08"
+  - title: "Neural Network Market 2023 : Detailed Analysis of Industry, Potential Growth, Attractive Valuation and Growth Forecast Up to 2028"
+    excerpt: "Pages Report] According to this latest study, the 2021 growth of Neural Network Market will have significant change from previous year. By the most conservative estimates of g"
+    publishedDateTime: 2022-12-09T13:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-market-2023-detailed-analysis-of-industry-potential-growth-attractive-valuation-and-growth-forecast-up-to-2028-2022-12-09"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Underwater Computer Vision Market Trends, Business Overview, Industry Growth, and Forecast 2022 To 2028"
+    excerpt: "Underwater Computer Vision Market Research Report is spread across 83 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector."
+    publishedDateTime: 2022-12-09T06:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/underwater-computer-vision-market-trends-business-overview-industry-growth-and-forecast-2022-to-2028-2022-12-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -70,57 +84,85 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Drug Discovery Market : New Business Strategies And Forecast By 2028 with Top Countries Data"
-    excerpt: "\" Artificial Intelligence in Drug Discovery Market \" Insights 2022 - By Applications (Pharmaceutical and Biotechnology Companies, Contract Research Organizations, Research Centers and Academic and Government Institutes),"
-    publishedDateTime: 2022-12-09T12:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-new-business-strategies-and-forecast-by-2028-with-top-countries-data-2022-12-09"
+  - title: "Artificial Intelligence (AI) in Alzheimer’s Applications Market Growth, Industry Analysis, Share, Trend, Top Key Players and Forecast by 2030"
+    excerpt: "A new business intelligence report released by Infinity Business Insights with title Global Artificial Intelligence (AI) in Alzheimer’s Applications Market research report provides a thorough examination of the industry."
+    publishedDateTime: 2022-12-08T04:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-alzheimers-applications-market-growth-industry-analysis-share-trend-top-key-players-and-forecast-by-2030-2022-12-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Biometrics Market Dynamics with Top Players, Gross Margin, Regional Demand, Plans and Demand Status Forecast to 2028"
-    excerpt: "\" Voice Recognition Biometrics Market \" Insights 2022 - By Applications (IT And Telecom, BFSI, Automotive, Healthcare, Education, Others), By Types (Physiological Biometrics, Behavioral Biometrics), By Segmentation analysis,"
-    publishedDateTime: 2022-12-09T01:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-biometrics-market-dynamics-with-top-players-gross-margin-regional-demand-plans-and-demand-status-forecast-to-2028-2022-12-08"
+  - title: "Legal Tech Artificial Intelligence Market : Key Player, Competition Weakness and Strengths from 2022 to 2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \" Legal Tech Artificial Intelligence Market \" Insights 2022 - By Applications (Lawyers, Clients),"
+    publishedDateTime: 2022-12-10T02:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-12-09"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 22
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Iris Recognition Devices Market 2023 Company Overview, Industry Top Manufacturers, Size, Industry Share, Growth Analysis and Forecast to 2028"
-    excerpt: "The iris recognition device is a device that performs identity recognition based on the iris in the eye. Used in security equipment (such as access control, etc.), and places with high confidentiality requirements."
-    publishedDateTime: 2022-12-06T04:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/iris-recognition-devices-market-2023-company-overview-industry-top-manufacturers-size-industry-share-growth-analysis-and-forecast-to-2028-2022-12-06"
+  - title: "FinTech Market | Key Player, Competition Weakness and Strengths from 2023 to 2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"FinTech"
+    publishedDateTime: 2022-12-07T04:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/fintech-market-key-player-competition-weakness-and-strengths-from-2023-to-2028-2022-12-07"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 19
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "New facial recognition technology scans your ear"
-    excerpt: "In the post-COVID world of face coverings and heightened hygiene awareness, the need for new authentication methods that don't require a person's full face to be visible has arisen."
-    publishedDateTime: 2022-12-08T19:13:00Z
-    webUrl: "https://techxplore.com/news/2022-12-facial-recognition-technology-scans-ear.html"
+  - title: "Self-Propelled Belt Loader Market 2022 Driving Factor Analysis with Trend and Forecast to 2028"
+    excerpt: "Further, the SWOT analysis & other techniques are utilized to investigate this data & provide an informed perspective on the state of the business to assist design the best growth strategy for any vendors or to current penetration into the present & and likely direction of the global Self-Propelled Belt Loader market."
+    publishedDateTime: 2022-12-08T01:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-propelled-belt-loader-market-2022-driving-factor-analysis-with-trend-and-forecast-to-2028-2022-12-07"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 19
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Neural Network Market research report gives the information on Industry Analysis database on this Market for period 2022 - 2028"
+    excerpt: "The \" Neural Network Market \" research examines seasonal trends and market shifts. The goal of this research is to provide you with a detailed, thoughtful record so you can profit from the market's evolving possibilities throughout time from 2022 to 2028."
+    publishedDateTime: 2022-12-08T02:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-neural-network-market-research-report-gives-the-information-on-industry-analysis-database-on-this-market-for-period-2022---2028-2022-12-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market [ NEW REPORT ] Extensive Insights & Competitive Analysis with Industry Development till 2029"
+    excerpt: "Dec 06, 2022 (The Expresswire) -- \"Artificial Intelligence Market\" New Research Insights Report 2023 | [ The Artificial Intelligence Market in"
+    publishedDateTime: 2022-12-06T16:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-new-report-extensive-insights-competitive-analysis-with-industry-development-till-2029-2022-12-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
 
 secured: "XxDGQRNzvSB0rOkEWerk0Oiu+MfBaGvUctTnOBz7DwV6o45curOxurHrjWPeiMo0GLJzNww7eVsIG9OZ4AaSQWPh8ByN4tLbAzUByV2iHm2cm9IK0F3Z88vFr7SKJjyVwTKIh8L5m1KZsXDDVT6OYBb6bAJQMHGcrBn+wIucYHS01kmyJQPO8YgSKkZb7LAsga9Nne3xaMrAK+1xq24QPnbts3o9R6oV0SUFqROLbItQopoN6zfj9sQt34iZBOYCaMRYg1qqdQrghSY7RQqL8m+kMnx6gwcCTIAC/nK+9153uTI98g3aQ5ylHQ8PaaNmCG3DC3RbEiIr2UscbVN3Yep8Pq5qGmw7q3BHQv6ir8E=;uZQDPU9nmwmlatq6lAAcyA=="
 ---

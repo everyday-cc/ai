@@ -40,6 +40,15 @@ related:
         width: 1600
         height: 948
         isCached: true
+  - title: "3 Ways Artificial Intelligence Will Transform The World in 2023"
+    excerpt: "As we continue to see high rates of positions needing to be filled in 2023, AI is likely going to see quick adoption, development and more."
+    publishedDateTime: 2022-12-09T19:30:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/the-3-biggest-artificial-intelligence-ai-trends-in-2023/439434"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 49
   - title: "Alternative Health Inc.: AHAI, the AI Based Multi Symptom Check and Therapy Recommendation Platform to be Released in the First Quarter of 2023"
     excerpt: "LAS VEGAS, NV / ACCESSWIRE / December 6, 2022 / Alternative Health, Inc, the US based medical company announced that it will be releasing its evidence based diagnostic and recommendation platform to t"
     publishedDateTime: 2022-12-06T17:51:00Z

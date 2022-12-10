@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/cold-working-die-steel-m
 webUrl: "https://www.marketwatch.com/press-release/cold-working-die-steel-market-industry-analysis-cagr-value-business-strategy-growth-drivers-competitive-landscape-forecast-by-2029-2022-12-07"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -27,36 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Neural Network Market 2023 : Detailed Analysis of Industry, Potential Growth, Attractive Valuation and Growth Forecast Up to 2028"
-    excerpt: "Pages Report] According to this latest study, the 2021 growth of Neural Network Market will have significant change from previous year. By the most conservative estimates of g"
-    publishedDateTime: 2022-12-09T13:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-market-2023-detailed-analysis-of-industry-potential-growth-attractive-valuation-and-growth-forecast-up-to-2028-2022-12-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Alzheimer’s Applications Market Growth, Industry Analysis, Share, Trend, Top Key Players and Forecast by 2030"
-    excerpt: "A new business intelligence report released by Infinity Business Insights with title Global Artificial Intelligence (AI) in Alzheimer’s Applications Market research report provides a thorough examination of the industry."
-    publishedDateTime: 2022-12-08T04:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-alzheimers-applications-market-growth-industry-analysis-share-trend-top-key-players-and-forecast-by-2030-2022-12-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "O58u9tAMrNlWTcFP3Jo78WBYct+P7Zan7VzUhRSiXC8C6bNnQia/0UYQ2ElqtmtosMj+CESiGGJnIihbOef6TYz1aTesMBEja9cy87l8X7MKR0GUM/5yDMwRB7JTn+RX7T06IxKvaOW7j833Q6NqTMJfmuVqW+lzNU24OygTvRZWOdBa0Z+zkU8N4TZAltYMaoYAxkgB+LG+iGyDBQufBK9CaJT5L4f/tqtciSAUpu8HoNlvfSMZcL8Jbi5Vdq1y3PfdDfXJNQczcGs8DKlOQPuA2W5b5/J+bdHHYPuJF4Bw2I+U+tMbk7NEjgpHHnsrt36X1fNN52XbQLGnDc2XyI/6sFQW3dpOI2ywBsYKYYU=;UEzujP/2MbrviqU+FcBgug=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-07T14:11:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/12/n29992754/a-new-collaboration-to-explore-augmented-reality-computer-vision-in-assisting-crew-in-the-safe-han"
 webUrl: "https://www.benzinga.com/pressreleases/22/12/n29992754/a-new-collaboration-to-explore-augmented-reality-computer-vision-in-assisting-crew-in-the-safe-han"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

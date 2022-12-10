@@ -65,20 +65,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Phone Market 2022 Company Profile Analysis, Industry Segmentation, Opportunity Assessment and Forecast by 2028"
-    excerpt: "The Facial Recognition Phone market analysis, definition, and category are presented at the beginning of the document. The report also presents a detailed overview of the various product specifications,"
-    publishedDateTime: 2022-12-06T03:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-phone-market-2022-company-profile-analysis-industry-segmentation-opportunity-assessment-and-forecast-by-2028-2022-12-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in IoT Market 2023 : Trending Technologies, Manufacturers, End-Users, Growth Elements and Forecast 2028"
     excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence in IoT Market will have significant change from previous year. By the most conservati"
     publishedDateTime: 2022-12-09T12:58:00Z

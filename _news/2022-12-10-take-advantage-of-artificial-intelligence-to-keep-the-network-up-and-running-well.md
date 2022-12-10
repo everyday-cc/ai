@@ -24,17 +24,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "Seeking transparency in the age of AI"
-    excerpt: "Credo AI provides companies with the software to keep their artificial intelligence aligned with their values and business objectives"
-    publishedDateTime: 2022-12-06T06:00:00Z
-    webUrl: "https://www.fastcompany.com/90814614/seeking-transparency-in-the-age-of-ai"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
-
 secured: "UL/0SYqibJjRypum7nPAaLK+ISPem4+1C/KsXYEbOMH/KhKGceG0xNGB5wFFW1TB/j7CMOtY0J2PQZdUpaZR13Z6JnI4fCrij7RN09M190cXcmLcFM30QUoPUkEPFr9WmnJiCazjfR/VJIpPWzcnDvZNPpvtDj1FHX163xQmDkmdtgPR0yA4uTae1bLgHU2PKcGxon5guYTaf9UTD7D8g8cW/DFYqMokLEQqZblMejtXvYYYtcb3NvGYhEEUKol9YD519YB/uscrP/51rb6kr76Z8WZCSbarKXwqg0bHgDn4oJkB+f9FHsVsRKPEqrG2rwKFukDePqOr0IP1BzlEQlPbe4TJFhk6apWpFIp2JQrEjcpHZPyP1fxK0xC8kEFb7Kk/L3WpK8g1GR0NSNzzkq7oslybDbDd4D3kfJ3+N87gJk+d6WaUKcT/CT3nkLLByVkYIMonqVvGJQ16AVT/61MzIkN0nviHe/surZ9QfjC8uNT65mo0YX35iTQSk3ACgk5UX6g1RvCKOw84XemBFw==;TSqXT79Df7XhQvUrKvXnUw=="
 ---
 

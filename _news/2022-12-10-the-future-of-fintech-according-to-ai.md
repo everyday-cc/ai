@@ -63,6 +63,15 @@ related:
         width: 2400
         height: 1350
         isCached: true
+  - title: "Pondering the legitimacy of AI art"
+    excerpt: "The more AI art is generated, the more valuable human-created art.” - Alex Roy Listen, I don’t want to argue. Art created by artificial intelligence, if it’s even really art at all, is sketchy and problematic."
+    publishedDateTime: 2022-12-09T18:01:00Z
+    webUrl: "https://www.thefabricator.com/thefabricator/blog/cadcamsoftware/pondering-the-legitimacy-of-ai-art"
+    type: article
+    provider:
+      name: The Fabricator
+      domain: thefabricator.com
+    quality: 19
 
 secured: "hTEaJmhFfPVmi26k9si2uIy4DzhhP8mk3hR2f/33860F3sY5T8voz5ksDZywBU+cd7ZBiyWwdjEKey0YSaSp28+r/Q7FNdOBVlpOP2CL18OyczxJ8rv2U6Bnvc1z+4AuRYpRHYb9KH2b+XARNJDQ9kvkO6N6P3ODr4k1SzVAobu1OGN+dvhjBlxB8wV8i0yIxXnNRyYr0yWIdF9uYQJTcEVNLmA/bNlWLNlhFrR+nFriy5unfFTyaxmqMKNnpoIet2jUpIVaf+c1rP5/6BTlMKAMpMRrPGOWbOAqf2uGjTisp6ns+SV5Ru25mR6YUNp4uz5pdQlVtVfVHLq4v3Wmc0n47yDsroyk3OVnTKYZCrnlRdTZYfnx7FB9WR60096Z/cYSAID7INGbDfNtQ9HJih4AxXHfJH46002QWbIY9mJshp8KljiteHyJ567NzKWdmJ3tkxaoMeWo2j213HEhkahJOkbqOypH6hk2RMWGxynigVOXerklttaeBStOMZWzRQbCB5iVSSufniY10217MQ==;kWWKHm+AFnFBR4yleQXbIg=="
 ---

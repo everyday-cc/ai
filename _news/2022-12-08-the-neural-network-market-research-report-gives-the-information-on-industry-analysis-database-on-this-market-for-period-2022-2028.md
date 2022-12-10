@@ -29,15 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "Self Driving Wheelchair Market 2022 - Regional Overview, Substantial Demand, Vendor Landscape and Trends by 2028"
-    excerpt: "MarketsandResearch.biz contributes an entire investigation of the presented sector's current situation & significant drivers in its insightful report Global Self Driving Wheelchair Market Outlook 2022-2028."
-    publishedDateTime: 2022-12-08T02:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-2022---regional-overview-substantial-demand-vendor-landscape-and-trends-by-2028-2022-12-07"
+  - title: "AI Chip for Data Centers Market: A Detailed Analysis of Latest Market Trend with Growth Projections Through 2029"
+    excerpt: "Dec 07, 2022 (The Expresswire) -- \"Final Report will add the analysis of the COVID-19 and Russia Ukraine war impact on this industry.\" The \"AI Chip for"
+    publishedDateTime: 2022-12-07T10:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-chip-for-data-centers-market-a-detailed-analysis-of-latest-market-trend-with-growth-projections-through-2029-2022-12-07"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Neural Network Market 2023 : Detailed Analysis of Industry, Potential Growth, Attractive Valuation and Growth Forecast Up to 2028"
+    excerpt: "Pages Report] According to this latest study, the 2021 growth of Neural Network Market will have significant change from previous year. By the most conservative estimates of g"
+    publishedDateTime: 2022-12-09T13:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-market-2023-detailed-analysis-of-industry-potential-growth-attractive-valuation-and-growth-forecast-up-to-2028-2022-12-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -57,15 +71,57 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Microscopy Market Provides an In-Depth Insight of Trends and Landscape Outlook 2022-2028"
-    excerpt: "\" Artificial Intelligence Microscopy Market \" Insights 2022 - By Applications (Clinical Pathology, Cell Biology, Pharmacology and Toxicology, Oncology), By Types (Optical Microscopy, Electron Microscopy,"
-    publishedDateTime: 2022-12-09T01:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-microscopy-market-provides-an-in-depth-insight-of-trends-and-landscape-outlook-2022-2028-2022-12-08"
+  - title: "AI In Medical Imaging Market : Reliable Business Data Analysis and Forecast by 2028 with Top Countries Data"
+    excerpt: "\" AI In Medical Imaging Market \" Insights 2022 - By Applications (Hospitals, Clinics), By Types (Software, Hardware), By Segmentation analysis, Regions and Forecast to 2028. The Global AI In Medical Imaging market Report provides In-depth analysis on the market status of the AI In Medical Imaging Top manufacturers with best facts and figures,"
+    publishedDateTime: 2022-12-06T11:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-reliable-business-data-analysis-and-forecast-by-2028-with-top-countries-data-2022-12-06"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Alzheimer’s Applications Market Growth, Industry Analysis, Share, Trend, Top Key Players and Forecast by 2030"
+    excerpt: "A new business intelligence report released by Infinity Business Insights with title Global Artificial Intelligence (AI) in Alzheimer’s Applications Market research report provides a thorough examination of the industry."
+    publishedDateTime: 2022-12-08T04:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-alzheimers-applications-market-growth-industry-analysis-share-trend-top-key-players-and-forecast-by-2030-2022-12-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Legal Tech Artificial Intelligence Market : Key Player, Competition Weakness and Strengths from 2022 to 2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \" Legal Tech Artificial Intelligence Market \" Insights 2022 - By Applications (Lawyers, Clients),"
+    publishedDateTime: 2022-12-10T02:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-12-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "FinTech Market | Key Player, Competition Weakness and Strengths from 2023 to 2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"FinTech"
+    publishedDateTime: 2022-12-07T04:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/fintech-market-key-player-competition-weakness-and-strengths-from-2023-to-2028-2022-12-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -85,6 +141,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Platform Market in 2023: with Top Countries Data, Industry Insights by Top Key Players, Types and Applications"
+    excerpt: "Global “Artificial Intelligence Platform Market” 2023 Research report is an in-depth study of the market Analysis."
+    publishedDateTime: 2022-12-08T06:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-in-2023-with-top-countries-data-industry-insights-by-top-key-players-types-and-applications-2022-12-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market [ NEW REPORT ] Extensive Insights & Competitive Analysis with Industry Development till 2029"
+    excerpt: "Dec 06, 2022 (The Expresswire) -- \"Artificial Intelligence Market\" New Research Insights Report 2023 | [ The Artificial Intelligence Market in"
+    publishedDateTime: 2022-12-06T16:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-new-report-extensive-insights-competitive-analysis-with-industry-development-till-2029-2022-12-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
 
 secured: "3SLpF+DiEmunEgJwFeSz/cLvcdk+0rSn+GyiXgBQlAIbyQZpbR/zqp6uFcFLIpLiyvUWOET3SMhkmfY5PjXa2GvorX9Ek3AgNo7gLZwORbmr53267OMcjFCac93Nws7aZeMtnjVnZcXL1r/Ga8mebE7r6X/wHSz/MVZsYNticFIszjqX5eCwfacV6Ekwg3AVWISFhPPuVzE2Ivbp2gIOH196Ax1IT+BPYjgYg293F3dnnKNmBUW67VUnJdHcYXhcyQND5bE6UT1fUVScnzop78xSeIB7KLN6zWmCFrfZNHOu1LkclTo3Paa00iSL1wshcGz9B6dD3wQaKGsjqN6wtHi45eYQ3PY9otBcM2V8ddY=;mA/vtdYoOFuSqEwIhWRCAw=="
 ---

@@ -2,9 +2,9 @@
 category: news
 title: "The inherent misogyny of AI portraits – Amelia Earhart rendered naked on a bed"
 excerpt: "The hugely popular Lensa AI app creates portraits based on image prompts, but users say it sexualizes them unnecessarily"
-publishedDateTime: 2022-12-09T05:04:00Z
-originalUrl: "https://www.theguardian.com/us-news/2022/dec/09/lensa-ai-portraits-misogyny"
-webUrl: "https://www.theguardian.com/us-news/2022/dec/09/lensa-ai-portraits-misogyny"
+publishedDateTime: 2022-12-09T13:52:00Z
+originalUrl: "https://www.theguardian.com/us-news/2022/dec/09/lensa-ai-portraits-misogyny?ref=upstract.com"
+webUrl: "https://www.theguardian.com/us-news/2022/dec/09/lensa-ai-portraits-misogyny?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/us-news/2022/dec/09/lensa-ai-portraits-misogyny"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2022/dec/09/lensa-ai-portraits-misogyny"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "gSmWzSOD7+erq9o6xVgE2yEvU3CSwfilEcGugKvaUJMVB3uMLcTFvL2M/YbmRMF4riMZVSPrv1KLjMgrlZ0iNIwTq6Hsr1C/hwU9j/pP58lsgIf/8L9K4gKh72QxmZxa273frpmiqi2foYz39k2uDuqUW0UPVqDyW0Z9MquvLaUbaPtu1K0fF7W/o98B/SFL50IzPLaga2PNIYB/UBVr+I4BK/CDA/5jdpEqOxKgFycnEfKJdBDPEXZy6p/cIeMJ6he4RCsI8/GzezEa+1pRazKZN+KYbPVQPIeKTbYuTU8TAhZhvQtYea9xD6deCIvZt9R9ENrEV/Sh7Xrgc9c1UyjfffQlyd6QQNa2z2b73ChqHl6i7ljOa6VMwOqgY3YJezH6bineoyiExaMXaWdLBPAXWyMSeKXDdJtA9Zq5AlUxLdOv14h45wGIeyuD9s65OfYXPlAveRGlLThr6oPcdqRg/r8lteYeuFmSvJ9qUffVjUwKAtjCDOD4hT6S5XgjMziebZQ+9TgYJrzkm3O0oQ==;Jpz6jqVF9LZgQ7tnahdjow=="
+secured: "0mWulwCtURqc5n5XRdo1MikEefkjZoFG6AMYsrRfUamIxfy4iqJcsIOipv4AY1utatd1bwmjgVmWWLbFIZ4inc4kvpshp/qKP6bSLQDawT7goIyLTV7zaHNr6L80noEJTySCJ9bWS0Ok3ld0psGfKEHTtF3pstSCLLS7/rNZqI0KkOq/6qnTM1TfGlJciE6axKzagEdBc+FmcWSt9MayYVBGElZho2MeA0n/3UTpdvdOvYsD0eFPjvZUOuPu6MRCSeBncTxxx+RmEpjFF6HoVjD3MTzWqu5o0t4Gc2dWl75w5IKo9/RDXNnPCugNL2a3LnANGV4OAi1J+6F00N8Z/eEL6mj9z2+6YRIRwFyLzuk=;30AmMl9/GmhQek9Nqjv2Mg=="
 ---
 

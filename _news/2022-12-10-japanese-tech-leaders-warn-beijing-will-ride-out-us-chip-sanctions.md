@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "How These AI-Powered Chatbots Keep Getting Better"
+    excerpt: "This week on “Gadget Lab,” we discuss the advances in generative AI tools like ChatGPT that make computer-enabled conversations seem more human than ever."
+    publishedDateTime: 2022-12-08T13:00:00Z
+    webUrl: "https://www.wired.com/story/gadget-lab-podcast-577/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
 
 secured: "tcKFkGRAODTEOPQtpd4gLwtUNms888SXEqgSlI8H9TTeokzYdOoOyBGKUvOY0yYrxHfMy4eA4Kq0XVRpprwXSWJXXKUmJCJ/KZeHjKJ1UwLzgn0xU6FPfnU66LtxiP8UEkVc5+J+X5NThCuOI1UbRNAUTDEWnPmFEJVVY4n6xc/7IZ7C2hkSfYGunKEOlF/ae3yyQ7on0DZP16Dz7AETJ6/u/xo967nljK6FrqK0Hu5lFUOJo9ZPZTAVkuXc4cGxkFRSJW3H7VXVA7kKncpAgCa0jqImHIztCjjW27kROfI6ooxLPyn1cBbIv3lSqj5l/PU7lfHgRedwn2Cq7OYrvOlSwlIzJbWO6/wBrxFKSas=;MmN+EFXugyfx34ZlLplWEA=="
 ---

@@ -29,59 +29,141 @@ images:
     isCached: true
 
 related:
-  - title: "AI Offers Fintech Much More Than Curb Appeal"
-    excerpt: "Ultimately, AI serves as a catalyst for customer-focused products and services. When used in place of antiquated strategies, the ease felt by both the customer and the institution is undeniable and lasting."
-    publishedDateTime: 2022-12-06T12:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/06/ai-offers-fintech-much-more-than-curb-appeal/"
+  - title: "AI Chip for Data Centers Market: A Detailed Analysis of Latest Market Trend with Growth Projections Through 2029"
+    excerpt: "Dec 07, 2022 (The Expresswire) -- \"Final Report will add the analysis of the COVID-19 and Russia Ukraine war impact on this industry.\" The \"AI Chip for"
+    publishedDateTime: 2022-12-07T10:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-chip-for-data-centers-market-a-detailed-analysis-of-latest-market-trend-with-growth-projections-through-2029-2022-12-07"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Lessons for launching an African fintech in 2023"
-    excerpt: "Anyone looking to launch an African start-up in 2023 must be sorely tempted to do so in the fintech space, writes Justin Asher."
-    publishedDateTime: 2022-12-07T10:48:00Z
-    webUrl: "https://ventureburn.com/2022/12/lessons-for-launching-an-african-fintech-in-2023/"
-    ampWebUrl: "https://ventureburn.com/2022/12/lessons-for-launching-an-african-fintech-in-2023/?amp=1"
-    cdnAmpWebUrl: "https://ventureburn-com.cdn.ampproject.org/c/s/ventureburn.com/2022/12/lessons-for-launching-an-african-fintech-in-2023/?amp=1"
-    type: article
-    provider:
-      name: Ventureburn
-      domain: ventureburn.com
-    quality: 44
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
     images:
-      - url: "https://s5.cdn.ventureburn.com/wp-content/uploads/sites/2/2022/12/justinasher.jpg"
-        width: 2000
-        height: 1125
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Sunwest Bank secures multiyear partnership with CRE FinTech Blooma"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2022-12-06T10:08:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/sunwest-bank-secures-multiyear-partnership-with-cre-fintech-blooma/"
+  - title: "Neural Network Market 2023 : Detailed Analysis of Industry, Potential Growth, Attractive Valuation and Growth Forecast Up to 2028"
+    excerpt: "Pages Report] According to this latest study, the 2021 growth of Neural Network Market will have significant change from previous year. By the most conservative estimates of g"
+    publishedDateTime: 2022-12-09T13:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-market-2023-detailed-analysis-of-industry-potential-growth-attractive-valuation-and-growth-forecast-up-to-2028-2022-12-09"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Underwater Computer Vision Market Trends, Business Overview, Industry Growth, and Forecast 2022 To 2028"
+    excerpt: "Underwater Computer Vision Market Research Report is spread across 83 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector."
+    publishedDateTime: 2022-12-09T06:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/underwater-computer-vision-market-trends-business-overview-industry-growth-and-forecast-2022-to-2028-2022-12-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI In Medical Imaging Market : Reliable Business Data Analysis and Forecast by 2028 with Top Countries Data"
+    excerpt: "\" AI In Medical Imaging Market \" Insights 2022 - By Applications (Hospitals, Clinics), By Types (Software, Hardware), By Segmentation analysis, Regions and Forecast to 2028. The Global AI In Medical Imaging market Report provides In-depth analysis on the market status of the AI In Medical Imaging Top manufacturers with best facts and figures,"
+    publishedDateTime: 2022-12-06T11:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-reliable-business-data-analysis-and-forecast-by-2028-with-top-countries-data-2022-12-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Alzheimer’s Applications Market Growth, Industry Analysis, Share, Trend, Top Key Players and Forecast by 2030"
+    excerpt: "A new business intelligence report released by Infinity Business Insights with title Global Artificial Intelligence (AI) in Alzheimer’s Applications Market research report provides a thorough examination of the industry."
+    publishedDateTime: 2022-12-08T04:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-alzheimers-applications-market-growth-industry-analysis-share-trend-top-key-players-and-forecast-by-2030-2022-12-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Legal Tech Artificial Intelligence Market : Key Player, Competition Weakness and Strengths from 2022 to 2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \" Legal Tech Artificial Intelligence Market \" Insights 2022 - By Applications (Lawyers, Clients),"
+    publishedDateTime: 2022-12-10T02:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-12-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-Propelled Belt Loader Market 2022 Driving Factor Analysis with Trend and Forecast to 2028"
+    excerpt: "Further, the SWOT analysis & other techniques are utilized to investigate this data & provide an informed perspective on the state of the business to assist design the best growth strategy for any vendors or to current penetration into the present & and likely direction of the global Self-Propelled Belt Loader market."
+    publishedDateTime: 2022-12-08T01:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-propelled-belt-loader-market-2022-driving-factor-analysis-with-trend-and-forecast-to-2028-2022-12-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Neural Network Market research report gives the information on Industry Analysis database on this Market for period 2022 - 2028"
+    excerpt: "The \" Neural Network Market \" research examines seasonal trends and market shifts. The goal of this research is to provide you with a detailed, thoughtful record so you can profit from the market's evolving possibilities throughout time from 2022 to 2028."
+    publishedDateTime: 2022-12-08T02:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-neural-network-market-research-report-gives-the-information-on-industry-analysis-database-on-this-market-for-period-2022---2028-2022-12-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 39
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/AO_400x224_Ten-steps.jpg"
-        width: 400
-        height: 224
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "7 FinTech tweets you should see!"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2022-12-09T09:08:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/7-fintech-tweets-you-should-see-6/"
+  - title: "Artificial Intelligence Platform Market in 2023: with Top Countries Data, Industry Insights by Top Key Players, Types and Applications"
+    excerpt: "Global “Artificial Intelligence Platform Market” 2023 Research report is an in-depth study of the market Analysis."
+    publishedDateTime: 2022-12-08T06:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-in-2023-with-top-countries-data-industry-insights-by-top-key-players-types-and-applications-2022-12-08"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/FinTech-Funding-wealth.jpg"
-        width: 300
-        height: 300
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Artificial Intelligence Market [ NEW REPORT ] Extensive Insights & Competitive Analysis with Industry Development till 2029"
+    excerpt: "Dec 06, 2022 (The Expresswire) -- \"Artificial Intelligence Market\" New Research Insights Report 2023 | [ The Artificial Intelligence Market in"
+    publishedDateTime: 2022-12-06T16:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-new-report-extensive-insights-competitive-analysis-with-industry-development-till-2029-2022-12-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
 
 secured: "Gt/ddUKtVq2MFB0N0mty3WKrHllEWwvBz5NyQAV5n/pFc9faq87Xfc8NTpNVuNhf181yt5rL7yTSxXpBHoof082eDHLWEx/KK3Ji0aTrTbePpMpeJULD+KvKzXHrJt/okAzTp9t4llWAQEXBcmJJd0wVhwjGMcmcveQylsNxCl3gAz3Vhff2+At2MEJe+i9yadUrSZbTuF0Kw9GcAYUKmJYZWLGFz49al6bYTB0fd8UhXp0gHuAg+d3lzXUt6eL/JeUtKbI+75K30OrJqD5+s5mconfpMU6PIC38JXzQlW6hjaoqkhaa8RYLqcKKddaY/RbTl/laQ9iLp17NKLPis+Je5QxIemZlqpavwlvzjaA=;5cLP70PQfJLC1jdDxYD/MQ=="
 ---

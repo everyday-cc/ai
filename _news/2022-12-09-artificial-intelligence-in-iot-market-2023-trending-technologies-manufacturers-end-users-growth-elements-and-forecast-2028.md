@@ -79,20 +79,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Phone Market 2022 Company Profile Analysis, Industry Segmentation, Opportunity Assessment and Forecast by 2028"
-    excerpt: "The Facial Recognition Phone market analysis, definition, and category are presented at the beginning of the document. The report also presents a detailed overview of the various product specifications,"
-    publishedDateTime: 2022-12-06T03:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-phone-market-2022-company-profile-analysis-industry-segmentation-opportunity-assessment-and-forecast-by-2028-2022-12-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI in Mental Health Global Market Report 2022: Ever-Surging Prevalence of Mental Health Issues Worldwide Drives Growth"
     excerpt: "Global Market Outlook\" report has been added to ResearchAndMarkets.com's offering. The rise of digital approaches to mental health has led to the development of predictions, detections, and treatment solutions based on artificial intelligence (AI) and machine learning (ML)."
     publishedDateTime: 2022-12-06T17:37:00Z

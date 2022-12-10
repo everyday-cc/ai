@@ -34,20 +34,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "FinTech Market | Key Player, Competition Weakness and Strengths from 2023 to 2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"FinTech"
-    publishedDateTime: 2022-12-07T04:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/fintech-market-key-player-competition-weakness-and-strengths-from-2023-to-2028-2022-12-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Lessons for launching an African fintech in 2023"
     excerpt: "Anyone looking to launch an African start-up in 2023 must be sorely tempted to do so in the fintech space, writes Justin Asher."
     publishedDateTime: 2022-12-07T10:48:00Z
