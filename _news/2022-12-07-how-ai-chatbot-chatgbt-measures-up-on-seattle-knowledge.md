@@ -66,22 +66,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The hidden danger of ChatGPT and generative AI | The AI Beat"
-    excerpt: "ChatGPT quickly spits out eloquent, confident responses that sound plausible but are false. Unfortunately, users might not know or care."
-    publishedDateTime: 2022-12-05T17:39:00Z
-    webUrl: "https://venturebeat.com/ai/the-hidden-danger-of-chatgpt-and-generative-ai-the-ai-beat/"
-    ampWebUrl: "https://venturebeat.com/ai/the-hidden-danger-of-chatgpt-and-generative-ai-the-ai-beat/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-hidden-danger-of-chatgpt-and-generative-ai-the-ai-beat/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/12/DALL%C2%B7E-2022-12-05-13.40.14-birds-eye-view-of-a-person-in-a-rowboat-and-a-big-whale-is-swimming-underneath-the-water-and-the-boat.png?fit=600%2C600&strip=all"
-        width: 600
-        height: 600
-        isCached: true
   - title: "ChatGPT: New AI chatbot has everyone talking to it"
     excerpt: "A new chatbot has passed one million users in less than a week, the project behind it says. ChatGPT was publicly released on Wednesday by OpenAI, an artificial intelligence research firm whose founders included Elon Musk."
     publishedDateTime: 2022-12-07T00:14:00Z
@@ -131,6 +115,22 @@ related:
         height: 630
         isCached: true
   - title: "AI ChatGPT Is A Huge Fan Of Elon Musk, Not-So-Much Google, Amazon And Apple"
+    excerpt: "Silicon Valley has been obsessed with ChatGPT since it launched on Nov. 30. The impressive chatbot, created by Elon Musk founded startup OpenAI, has racked up more than a million users in its first five days and is likely to report astounding session times as people find themselves drawn more and more to this charming AI."
+    publishedDateTime: 2022-12-09T21:01:00Z
+    webUrl: "https://www.forbes.com/sites/martineparis/2022/12/09/ai-chatgpt-is-a-huge-fan-of-elon-musk-not-so-much-google-amazon-and-apple/"
+    ampWebUrl: "https://www.forbes.com/sites/martineparis/2022/12/09/ai-chatgpt-is-a-huge-fan-of-elon-musk-not-so-much-google-amazon-and-apple/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2022/12/09/ai-chatgpt-is-a-huge-fan-of-elon-musk-not-so-much-google-amazon-and-apple/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/639396616b1ddb747792f2ca/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "ChatGPT Is A Huge Fan Of Elon Musk And AI, But Not Google, Amazon And Apple"
     excerpt: "Silicon Valley has been obsessed with ChatGPT since it launched on Nov. 30. The impressive chatbot, created by Elon Musk founded startup OpenAI, has racked up more than a million users in its first five days and is likely to report astounding session times as people find themselves drawn more and more to this charming AI."
     publishedDateTime: 2022-12-09T21:01:00Z
     webUrl: "https://www.forbes.com/sites/martineparis/2022/12/09/ai-chatgpt-is-a-huge-fan-of-elon-musk-not-so-much-google-amazon-and-apple/"
@@ -245,22 +245,6 @@ related:
       - url: "https://time.com/img/icons/wallet-connect.png"
         width: 256
         height: 256
-        isCached: true
-  - title: "A new AI chatbot is getting buzz for being able to have intelligent-sounding conversations, write music, and even code"
-    excerpt: "ChatGPT is an artificial intelligence chatbot that is trained to answer a wide range of questions about different topics in a conversational way."
-    publishedDateTime: 2022-12-05T18:37:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-new-ai-chatbot-conversation-with-questions-answers-examples-2022-12"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-new-ai-chatbot-conversation-with-questions-answers-examples-2022-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-new-ai-chatbot-conversation-with-questions-answers-examples-2022-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-    images:
-      - url: "https://i.insider.com/638e3d6554ac0f001950f98c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "ChatGPT proves AI is finally mainstream — and things are only going to get weirder"
     excerpt: "He knows I write about AI and is the sort of guy who keeps up with whatever’s trending online. We chatted a bit, and I asked him: “and what do you think of ChatGPT?” To which he replied: “Well, I wrote a half-decent Excel macro with it this morning that saved me a few hours at work” — and my jaw dropped."

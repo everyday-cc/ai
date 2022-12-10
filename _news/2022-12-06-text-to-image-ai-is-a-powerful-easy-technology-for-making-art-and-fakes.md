@@ -34,20 +34,6 @@ related:
         width: 926
         height: 463
         isCached: true
-  - title: "Text-To-Image AI: Powerful, Easy-To-Use Technology For Making Art – And Fakes"
-    excerpt: "Powerful, Easy-To-Use Technology For Making Art – And Fakes"
-    publishedDateTime: 2022-12-05T18:07:00Z
-    webUrl: "https://www.discovermagazine.com/technology/text-to-image-ai-powerful-easy-to-use-technology-for-making-art-and-fakes"
-    type: article
-    provider:
-      name: Discover Magazine
-      domain: discovermagazine.com
-    quality: 34
-    images:
-      - url: "https://images.ctfassets.net/cnu0m8re1exe/1iRs4IfRvstrIROcnafhhx/a3d979e9835c5bf3a25eb441ea51fa34/file-20221202-16605-grl0qz.jpg"
-        width: 926
-        height: 463
-        isCached: true
 
 secured: "pYz5lZOuJcwPUnb4Z2MCxoXQCe1vkO8dJ1sw80gjPdpeaKF0jIHoLUWkPGrVmDVbGiCc1t+rhtwqZhDcl1MAO72gvI1R+1HeM5KyLFxNKaY9Drr/3YbFZSlpTOBR7bQe8A0I6CnWJ8YbjzhlxWZ+sWakk8OV6Mpv0WxYTyEtiGxcpD6fgbmeZH4C6Vc5El+hTWeshZJfuIeHjZUT8LHymsykizn2P2SqqsdSbogBLV8TZM7Mo9IjugR8mAX/tkGXGFkaxUHkzkWCWUZL20rtcKZm8Ri5n3zJQbgRBVcoFNp57uCiFpMtEMAJZeLRwinJJvJdJ28G2kL7tO702BDuC1zgA1t0Pir0bJZ5o5lLe8ZnLJWV1kNq3ow13JTvnaXntLRd9CupOtU9QLoZiXzymCQArmwHqfPb87+XRjcNQQnVbgbntSpMGtvvduOMVosQ7FpsTPqdUgXzV2wJVo/77J2GAsb6lvf6ZjjWGBisF39eaakg4tOXa3uanMLJJKghPCvq7HoT7zeDwrmz2K9fjw==;Jh2OHhEn6keDZ07GHyFFhA=="
 ---

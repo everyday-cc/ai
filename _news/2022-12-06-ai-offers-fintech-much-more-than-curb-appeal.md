@@ -67,15 +67,6 @@ related:
         width: 400
         height: 224
         isCached: true
-  - title: "Why Ethical Sales Enablement is Essential in Fintech"
-    excerpt: "Sales enablement has become an increasingly important part of business strategy throughout the course of the last twenty years, enabling companies to maximise the potential of every customer contact while enhancing productivity and efficiency."
-    publishedDateTime: 2022-12-05T18:18:00Z
-    webUrl: "https://financialit.net/content/why-ethical-sales-enablement-essential-fintech"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 38
   - title: "7 FinTech tweets you should see!"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2022-12-09T09:08:00Z

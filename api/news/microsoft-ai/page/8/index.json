@@ -2,6 +2,111 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-10-07-kyndryl-and-microsoft-expand-partnership-to-drive-mainframe-connectivity.md",
+      "title": "Kyndryl and Microsoft expand partnership to drive mainframe connectivity",
+      "excerpt": "IT infrastructure services provider Kyndryl has expanded its strategic partnership with Microsoft as it looks to help customers expand and increase access to mainframe data. The collaboration will see Kyndryl create data pipes that enable connections between the mainframe - including its zCloud platform - and the Microsoft Cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/data-insights/big-data/369268/kyndryl-microsoft-expand-partnership-mainframe-connectivity",
+      "originalUrl": "https://www.itpro.co.uk/data-insights/big-data/369268/kyndryl-microsoft-expand-partnership-mainframe-connectivity",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1618305820/itpro/kyndryl.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-07T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-07-dominos-mlops-release-focuses-on-gpus-and-deep-learning-offers-multicloud-preview.md",
+      "title": "Domino’s MLops release focuses on GPUs and deep learning, offers multicloud preview",
+      "excerpt": "[Also read: Domino Data Lab announces latest MLops platform to satisfy both data science and IT] GPUs can make lots of ML and deep learning operations go faster because they parallelize massive ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/dominos-mlops-release-focuses-on-gpus-and-deep-learning-offers-multi-cloud-preview/",
+      "originalUrl": "https://venturebeat.com/ai/dominos-mlops-release-focuses-on-gpus-and-deep-learning-offers-multi-cloud-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/fpga-ai-production.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/dominos-mlops-release-focuses-on-gpus-and-deep-learning-offers-multi-cloud-preview/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/dominos-mlops-release-focuses-on-gpus-and-deep-learning-offers-multi-cloud-preview/amp/",
+      "publishedDateTime": "2022-10-06T18:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-07-hanson-an-epidemic-of-cognitive-impairment.md",
       "title": "HANSON: An epidemic of cognitive impairment?",
       "excerpt": "Partisan charges grew so intense that Trump voluntarily took — and aced — the Montreal Cognitive Assessment. Strangely, the same Left arm-chair psychiatrists offer no such worries about Biden ...",
@@ -1216,92 +1321,6 @@
       "provider": {
         "name": "Salon",
         "domain": "salon.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-voice-assistants-could-hinder-childrens-social-and-cognitive-development.md",
-      "title": "Voice assistants could ‘hinder children’s social and cognitive development’",
-      "excerpt": "But the rapid rise in voice assistants, including Google Home, Amazon Alexa and Apple’s Siri could, researchers suggest, have a long-term impact on children’s social and cognitive development ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/sep/28/voice-assistants-could-hinder-childrens-social-and-cognitive-development",
-      "originalUrl": "https://www.theguardian.com/technology/2022/sep/28/voice-assistants-could-hinder-childrens-social-and-cognitive-development",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/f0fada6a9840ef35a64e7f7cb308a44ff4bd93dd/0_168_5028_3017/master/5028.jpg?width=620&quality=85&auto=format&fit=max&s=f1d5b900f194082b9f5b138806a9bc37",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2022/sep/28/voice-assistants-could-hinder-childrens-social-and-cognitive-development",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/sep/28/voice-assistants-could-hinder-childrens-social-and-cognitive-development",
-      "publishedDateTime": "2022-09-28T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-arcion-announces-agentless-change-data-capture-for-azure-sql-server-oracle-sap-hana-and-mysql.md",
-      "title": "Arcion Announces Agentless Change Data Capture for Azure, SQL Server, Oracle, SAP HANA, and MySQL",
-      "excerpt": "Arcion, creator of the only cloud-native, CDC-based data replication platform, today announced agentless change data capture (CDC) for all of its supported databases and applications. Enterprises can",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/b29051857/arcion-announces-agentless-change-data-capture-for-azure-sql-server-oracle-sap-hana-and-mysql",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/b29051857/arcion-announces-agentless-change-data-capture-for-azure-sql-server-oracle-sap-hana-and-mysql",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29051857",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29051857",
-      "publishedDateTime": "2022-09-28T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

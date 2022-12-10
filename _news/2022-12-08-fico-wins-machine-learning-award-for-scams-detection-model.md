@@ -2,12 +2,12 @@
 category: news
 title: "FICO Wins Machine Learning Award for Scams Detection Model"
 excerpt: "Global analytics software provider FICO won the Machine Learning in Credit and Collections Award at the 2022 Credit & Collections Technology Awards, held in London in late November. The award was for an advanced scam detection model,"
-publishedDateTime: 2022-12-08T09:12:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/12/08/9726734.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/12/08/9726734.htm"
+publishedDateTime: 2022-12-08T10:31:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-fico-wins-machine-learning-award-scams-detection-model-/2022/12/08/9726734.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-fico-wins-machine-learning-award-scams-detection-model-/2022/12/08/9726734.htm"
 type: article
-quality: 19
-heat: 19
+quality: 21
+heat: 21
 published: false
 
 provider:
@@ -15,9 +15,10 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
-secured: "PaeWDxB5Z+RGM0xXs7x1EDDuyzP0R9Ny3r9KybvzDV8RPtw2L5nliItDJTLMxuwJnJqxTcc3RFy0WITqqnPnx3vcd3efkKWTQ+9PvaGnOg5NlSmWV2GdXYzswhb6H0O2tT4pTm7oCFC6JSSU872oN1vMtj4atELBImBUn9Pyyb+jR4BYMbt7aPSfkIUg7PZ77XBt2z2dXud1SGk5ltuuE2te/ulrNfj8byhd8pXtNIQxPhuJ+7/EzpH6ic3CryUQwGkj5qgAayVQMT6toauVNmpb0ozgFdVM40uVwZpiFqVSGxKOoZ20Ewwk2lhvWIVs3bG659ehBWXz5D8z5RWslgm7W4DuMk8vm0w1uDqTnOE=;V8j6cylXRHLUPMjX40UbzQ=="
+secured: "xXzsyDKJ7oPihRHnbzVGg6Rshl6jLCtSx+MsddVbY7CHWvTxF+ynxV4DHRp9B85Q5YKEMNIjpNGDM+mmWQM5KS4ikI5IOLzSb48ffbsI27djMQauWQdAWcOl6VIgunRLLKIJEt+spsBtjoQijT7GOJj9V0ZSbLi+Sk+Xz5FU1K3Lx1e94ZiqbYuuR6R5bHVJmN8x1vZnUh8EdhkKOSkorXC+gD+Pql8dBNEB6zrJ4PUi1hT++2P5Cfld4OylT4yLkn/+prx4jfEVx3MdFvqfBfCFZUEQHv9gBTbUtyTFf+GLnFy5ZOk4teA2exdkT4g2WPgf2hP+T2xOYitw6hWzvlDorOMpEBiHCYNZXs+FRrI=;q9zV4fW8CSPRZEU49AI7qQ=="
 ---
 

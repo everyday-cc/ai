@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-12-text-to-image-ai-powerful-easy-t
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-text-to-image-ai-powerful-easy-to-use-technology.amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: techxplore
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Text-To-Image AI: Powerful, Easy-To-Use Technology For Making Art – And Fakes"
-    excerpt: "Powerful, Easy-To-Use Technology For Making Art – And Fakes"
-    publishedDateTime: 2022-12-05T18:07:00Z
-    webUrl: "https://www.discovermagazine.com/technology/text-to-image-ai-powerful-easy-to-use-technology-for-making-art-and-fakes"
-    type: article
-    provider:
-      name: Discover Magazine
-      domain: discovermagazine.com
-    quality: 34
-    images:
-      - url: "https://images.ctfassets.net/cnu0m8re1exe/1iRs4IfRvstrIROcnafhhx/a3d979e9835c5bf3a25eb441ea51fa34/file-20221202-16605-grl0qz.jpg"
-        width: 926
-        height: 463
-        isCached: true
   - title: "Text-to-image AI is a powerful, easy technology for making art — and fakes"
     excerpt: "Deep fakes have already been used to create nonconsensual pornography, commit small- and large-scale fraud, and fuel disinformation campaigns. These even more powerful image generators could add jet fuel to these misuses."
     publishedDateTime: 2022-12-05T20:42:00Z

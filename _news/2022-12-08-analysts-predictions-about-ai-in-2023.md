@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Here's What to Know About Artificial Intelligence Artwork"
-    excerpt: "Artificial intelligence exploded over the last few days and has been a trending item after a wave of people began using the technology to create artwork."
-    publishedDateTime: 2022-12-05T18:10:00Z
-    webUrl: "https://www.nbcbayarea.com/news/local/artifical-intelligence-artwork/3097003/"
-    type: article
-    provider:
-      name: NBC Bay Area
-      domain: nbcbayarea.com
-    quality: 39
-    images:
-      - url: "https://media.nbcbayarea.com/2022/12/sfpd-robots.jpg?quality=85&#038;strip=all"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Top AI Predictions for 2023"
     excerpt: "The year 2022 was dedicated to large language models and generative art, let’s see what's in the AI goody bag for 2023"
     publishedDateTime: 2022-12-08T06:38:00Z
