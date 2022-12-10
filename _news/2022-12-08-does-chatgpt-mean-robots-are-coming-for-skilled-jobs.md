@@ -279,22 +279,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "ChatGPT is taking the world by storm – the viral AI bot explained"
-    excerpt: "The sophistication of ChatGPT has many speculating whether the AI bot could replace journalists, authors and screenwriters."
-    publishedDateTime: 2022-12-05T16:00:00Z
-    webUrl: "https://www.citizen.co.za/lifestyle/technology/chatgpt-viral-ai-bot-explained/"
-    ampWebUrl: "https://amp.citizen.co.za/lifestyle/technology/chatgpt-viral-ai-bot-explained/"
-    cdnAmpWebUrl: "https://amp-citizen-co-za.cdn.ampproject.org/c/s/amp.citizen.co.za/lifestyle/technology/chatgpt-viral-ai-bot-explained/"
-    type: article
-    provider:
-      name: The Citizen
-      domain: citizen.co.za
-    quality: 59
-    images:
-      - url: "https://media.citizen.co.za/wp-content/uploads/2022/12/chatcpt-ai.jpg"
-        width: 2309
-        height: 1299
-        isCached: true
   - title: "The workings of ChatGPT, the latest natural language processing tool"
     excerpt: "The latest artificial intelligence tool is creating a buzz among computer scientists and programmers due to its creative capabilities. The tool has been developed by OpenAI, a research institute found"
     publishedDateTime: 2022-12-06T17:10:00Z
@@ -377,20 +361,6 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
-  - title: "A|I: The AI Times – Turing tested: ChatGPT is craaaazy"
-    excerpt: "The AI Times is a weekly newsletter covering the biggest AI ... The investment is aimed at supporting Sanctuary’s $120.8 million project to develop what the startup claims to be the “world’s first functioning human-like intelligence in general ..."
-    publishedDateTime: 2022-12-05T16:19:00Z
-    webUrl: "https://betakit.com/ai-the-ai-times-turing-tested-chatgpt-is-craaaazy/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 39
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2022/12/chatbot-bubble.jpg"
-        width: 1050
-        height: 700
-        isCached: true
   - title: "ChatGPT is the clearest example of how seamless AI has become"
     excerpt: "OpenAI's new program creates stories, poems and other text that can be mistaken for human made. That comes with issues."
     publishedDateTime: 2022-12-07T21:00:00Z
@@ -443,20 +413,6 @@ related:
       - url: "https://slator.com/assets/2022/12/ChatGPT-interviews-as-Translation-Manager.png"
         width: 600
         height: 400
-        isCached: true
-  - title: "The future of AI is here: ChatGPT can create code, tell a story, or create a scene of your favorite sitcom"
-    excerpt: "AI has never looked so advanced as it is now with OpenAI's ChatGPT. Iit has been mind-blowing for users over social media."
-    publishedDateTime: 2022-12-05T15:18:00Z
-    webUrl: "https://bgr.com/tech/the-future-of-ai-is-here-chatgpt-can-create-code-tell-a-story-or-create-a-scene-of-your-favorite-sitcom/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 21
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2022/12/openai-chatgpt-bgr.jpg?quality=82&strip=all"
-        width: 1812
-        height: 900
         isCached: true
   - title: "ChatGPT, the big-brain AI writing tool coming for our jobs, explains itself"
     excerpt: "Meet 'ChatGPT: the powerful NLP tool that could automate jobs and spread misinformation, if we're not careful.'"

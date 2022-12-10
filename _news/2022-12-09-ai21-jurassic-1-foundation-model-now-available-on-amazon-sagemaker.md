@@ -93,15 +93,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 34
-  - title: "Foursquare to Power Geospatial Data Visualization in Amazon SageMaker"
-    excerpt: "Foursquare capability in Amazon SageMaker allows customers to easily visualize planetary-scale geospatial data for machine learning Foursquare, the leading independent location technology company, exc"
-    publishedDateTime: 2022-12-05T17:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/12/b29962022/foursquare-to-power-geospatial-data-visualization-in-amazon-sagemaker"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
 
 secured: "lgxr1lplKsAzqPHGH0fFdi581Q4WyRjDuPiR3YhDqcZZnV2PxqKZjI9FC/81ErwJpYY7ekGfbrTy60vPSCHmUmJRC/ZpC1sK0NttICiVB2TPBwOKejwXh0C4Tp0Y9jUv2ThfSblCMK5T+dC7WxxpjrRA9KOqZz13CueRncH0701DfEkSXtluX67ZZJlAraSEzAuBhXCshR+jzr9168K0DLWXbrbtJXLZzbPbbakAcABCwilUu4O6qUJILhrL/ksKSuS5UFmpj8c63Eh8NPgIr/n866fn8rS9XA4wbDxPjvWwrg5Khgq83aij5kFjdQ3erpQZgwKWYi49dvvn4ItnxW8AL6KjMVXKcKmU6tDqxWE=;nwcwj2h76pYtXmfwpE2Esw=="
 ---

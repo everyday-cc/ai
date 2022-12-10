@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/venturebeat-lab-to-launch-in-depth-ai-art
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/venturebeat-lab-to-launch-in-depth-ai-article-series-with-insights-from-microsoft-and-nvidia/amp/"
 type: article
 quality: 93
-heat: 173
+heat: 163
 published: true
 
 provider:
@@ -106,20 +106,6 @@ related:
       - url: "https://aviationweek.com/sites/default/files/styles/crop_freeform/public/2022-12/azure.jpg?itok=C2P4lXOP"
         width: 1193
         height: 787
-        isCached: true
-  - title: "Microsoft Quantum Innovator Series: The path to quantum at scale"
-    excerpt: "Get the inside, first-hand account of Microsoft’s strategy to scaled quantum computing in a new webinar series where you’ll hear directly from Microsoft Azure Quantum scientists and leaders about the path to quantum at scale and how to get involved today."
-    publishedDateTime: 2022-12-05T17:00:00Z
-    webUrl: "https://cloudblogs.microsoft.com/quantum/2022/12/05/microsoft-quantum-innovator-series-the-path-to-quantum-at-scale/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: "https://cloudblogs.microsoft.com/quantum/wp-content/uploads/sites/7/2022/12/BlogHero_1200x800v2-1.png"
-        width: 1200
-        height: 800
         isCached: true
   - title: "OpenAI Impact Analysis: Microsoft, Google And Nvidia"
     excerpt: "OpenAI's chatbot, ChatGPT, which was released to the broader public for testing and feedback last week. Read more on its impact on major tech stocks."

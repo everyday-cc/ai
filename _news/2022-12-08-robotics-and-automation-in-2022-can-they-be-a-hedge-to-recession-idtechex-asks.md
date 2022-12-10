@@ -24,22 +24,6 @@ images:
     height: 225
     isCached: true
 
-related:
-  - title: "Lidars for Automotive and Beyond, Discusses IDTechEx"
-    excerpt: "Later lidars could also be used to measure angles and velocity. Commercial and industrial lidars rose in the 1980s, and the 1990s benefited from the development of diode systems. A single-line scanning system enables lidars to be used in other applications."
-    publishedDateTime: 2022-12-05T16:47:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/12/05/9724310.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/1961655/IDTechEx_Lidar_car.jpg"
-        width: 400
-        height: 225
-        isCached: true
-
 secured: "JNagmcVig+Q9JCRTUup7Ifmxte7k4gZ9c9F1tyP4IQwSX66A45gdBP1P/yrS+PgCTNYcpWEi/IX4HcraMeuFALIQS8QEbdaufAO8foGeBhhkF+XZyhHeqfvD73u+IcOsi2x1B+u6JECNCOAWSvg0fYDZKwLCnv0MZDo9Ru2M+skQd3KtdzVsa9hvuMF8AmYNrwmx1AiTgkMnqcv0W8b9ZfF/QF3ra/0QpULWdZBd5XUferRTFlP7Fr4n3U3UOD2UUuKtZ4StMGtUVmg6wYH1/+WKT727jQK+6Dw8AwCqwi9/DI1KEsHcOKE5E+jxsgQ3A7pjxWllZSxgVJRjqujuAR6wOfnfXVBFm4m02LbzeuTgVnV1brAtvKYsy5RclBCljzsob5kT0kWnoBnQ4nWvc843Lu3twavvDGMF2KIgnN4xQsRglAidSZMmr+8RC/Bb9R29jEwCCR0ql7ME5jO1Inh38fogE/p3XWqMg71TBWs0uWC47bT/07yA8Ky4VCeyirWmcUiK4jK8HWMLvh2zxQ==;yHLD4Vp097AlVMH5kT0wiw=="
 ---
 

@@ -43,20 +43,6 @@ related:
         width: 680
         height: 383
         isCached: true
-  - title: "This Major U.S. City is Leading the Robotics Revolution"
-    excerpt: "Pittsburgh is shaping the future of what’s next in technology, from aerospace to electric vehicles and Cleantech innovation. In fact, it may just be the U.S. city that leads the robotic revolution."
-    publishedDateTime: 2022-12-05T16:00:00Z
-    webUrl: "https://www.dcvelocity.com/articles/56120-this-major-u-s-city-is-leading-the-robotics-revolution"
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 54
-    images:
-      - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/94d2d980-408b-461a-a5cf-cfdf747392fe.png?height=635&t=1670256126&width=1200"
-        width: 600
-        height: 394
-        isCached: true
 
 secured: "jGr88X7zI0JKOJu6R4aPdyZ0InzsNv2amKdINBWh/NAPqguG8U8g2NQKJxglyqCRV9LqtdvQZPONNGdaH+2dl+Ufu8eTr0DW7iHct+dNUv0GcHBcyZ3T6ykVQNmnNkuR0T9i/KVPrZNCySMXGGD5xCevYruXK9YOc9Yd5BGOydntGwx0eOQJjpoFS2a0+tCYoC9xInH2Ehv6sGUZ7rhHpdfWY+dGftNwHerpXka8MJ9we1BrLXwQRvlFOY6iazyoHz4wriY3ZU75oSV81TtinzA8179VxR/Bm1JRnzqy+B8YbDL0mEDLibWRhipR2FamzK9yO7RSMx8Qo4933ZSZkEM06/qq3YWuk20DPyfCJoGf7iLjCTftM4g0I0sZ1eboY16t91VJIgj1klMK66y2aOvN3Dv9GDmtPfD9BagD5kX4VQAhJ7ibUJgW4JMjAso+4epBW0h+nemyAMfmFZFkxlTMzPmUNSXzkrtk1FHOh33w6syeg+1OnKjwSMKniayWQgQGjTRmUckqGx1tMMAM5Q==;8p77w2QAyWnqyUJ2ECBUzg=="
 ---

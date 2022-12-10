@@ -55,20 +55,6 @@ related:
         width: 375
         height: 211
         isCached: true
-  - title: "Intel Labs and Penn Medicine study uses federated learning to increase brain tumor detection"
-    excerpt: "Intel Labs and the Perelman School of Medicine at the University of Pennsylvania today released a joint research study that used federated learning, a distributed machine learning"
-    publishedDateTime: 2022-12-05T16:00:00Z
-    webUrl: "https://siliconangle.com/2022/12/05/intel-labs-penn-medicine-study-uses-federated-learning-increase-brain-tumor-detection/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 28
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/pennmedicine.jpg"
-        width: 500
-        height: 285
-        isCached: true
   - title: "Penn Medicine, Intel Leverage Federated Learning for Tumor Detection"
     excerpt: "Researchers from Penn Medicine and Intel Labs have found that the use of federated learning improved brain tumor detection by 33 percent."
     publishedDateTime: 2022-12-07T13:30:00Z

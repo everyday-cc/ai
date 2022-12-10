@@ -98,15 +98,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
-  - title: "Foursquare to Power Geospatial Data Visualization in Amazon SageMaker"
-    excerpt: "Foursquare capability in Amazon SageMaker allows customers to easily visualize planetary-scale geospatial data for machine learning Foursquare, the leading independent location technology company, exc"
-    publishedDateTime: 2022-12-05T17:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/12/b29962022/foursquare-to-power-geospatial-data-visualization-in-amazon-sagemaker"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
 
 secured: "+/jtYugVMNM+XZDCeEo8aRI9DZFWkRn7R8M8FEwkNfpRVmCJL3x7WUvpRxkpIa2FxI516PaEugeS7pU7gcisDzYZPAoCxkbuXMyUMNGV/CHafGjlLQcx+JPzU+O+P9Um6Ig7ENouUAPBKzlsbpHncMKMJOLRARJwVQnbSDW9yQoiKPlqOPR0xQenIO+UyAtNEe3YRwUTTwg42QyNd+btvW74Xi4JqEoWvLmgmBuvZ4OsTkSqO8yNZv3p67Kgz3xEDIQKbhbiHiPYKjsQhOiKqZ+PG67k3HGQqiBVrQicsUO8SZUaBGzEz+K/JZHPKC1wvSTsjFawIH9DpqxCQJ7BuVpZyomApNSkr0+izzxc854=;OAIpWCDAnu8K3AS0Ox5Mcg=="
 ---

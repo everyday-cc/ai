@@ -112,20 +112,6 @@ related:
         width: 1193
         height: 787
         isCached: true
-  - title: "Microsoft Quantum Innovator Series: The path to quantum at scale"
-    excerpt: "Get the inside, first-hand account of Microsoft’s strategy to scaled quantum computing in a new webinar series where you’ll hear directly from Microsoft Azure Quantum scientists and leaders about the path to quantum at scale and how to get involved today."
-    publishedDateTime: 2022-12-05T17:00:00Z
-    webUrl: "https://cloudblogs.microsoft.com/quantum/2022/12/05/microsoft-quantum-innovator-series-the-path-to-quantum-at-scale/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: "https://cloudblogs.microsoft.com/quantum/wp-content/uploads/sites/7/2022/12/BlogHero_1200x800v2-1.png"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft Announces Future Ready Champions Of Code Program To Empower India's Developer Community"
     excerpt: "Microsoft today announced the launch of Future Ready Champions of Code, a pan India program for developers, focused o"
     publishedDateTime: 2022-12-07T03:39:00Z

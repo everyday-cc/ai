@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rogerdooley/2022/12/08/the-ai-revolutio
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogerdooley/2022/12/08/the-ai-revolution-is-closer-than-you-think/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://www.redsharknews.com/hs-fs/hubfs/AI_Generated_Robot.jpg?width=1280&height=720&name=AI_Generated_Robot.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "This Major U.S. City is Leading the Robotics Revolution"
-    excerpt: "Pittsburgh is shaping the future of what’s next in technology, from aerospace to electric vehicles and Cleantech innovation. In fact, it may just be the U.S. city that leads the robotic revolution."
-    publishedDateTime: 2022-12-05T16:00:00Z
-    webUrl: "https://www.dcvelocity.com/articles/56120-this-major-u-s-city-is-leading-the-robotics-revolution"
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 54
-    images:
-      - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/94d2d980-408b-461a-a5cf-cfdf747392fe.png?height=635&t=1670256126&width=1200"
-        width: 600
-        height: 394
         isCached: true
 
 secured: "Jupzvd5vistuCLuoxYyrfbWQv2vZLVU/qelW1vboxsR6AnK87qBDURRcmjeJAWT+NG1KBxpRMtq/6dHakyxnkdWRJDwHDYgoAjxWhYiiI0RqlxDqHjNlo4A4LlEav+baLkv9+1qzumbGL/ZCAdDSR3URdZMdYy2cOWZnsj7Cp0urrvVh9h/ZeuV+UxhMcVj2L2jpCtdESPjhnPp3nJ4/S1RlPjFi5IXgTtlrL50hp9N7V5R1NXJ5F4rlAi5vvTNWPDcqIciaxDOEs8ldlsgdaFtIUuFGC4BmWCLJ8S/Afxu3sx0LkTuT4vSH0ncO/56dboVwrdjQM32y2StZH0+I+V3p31xey0phZH4HUds7NXF+GwaK/VHlqVniYllJ8IBBg0w97kcMNWMwwlkbEOio74axXk88LCCwR+PTa+a+h77/8QUucUOQwncuEC3sSzD0rtGmug/dgHMicCOtbhM4XTZWmGSIOjCqox0ROhxZ/PofLFxQHMGX4LTtUpQ9Jiy0Te5b5GbkYh64yM3kyOBHeg==;/IyKpchCLTPtzYj3XCHIXA=="
