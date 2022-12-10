@@ -103,15 +103,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "OpenAI Impact Analysis: Microsoft, Google And Nvidia"
-    excerpt: "OpenAI's chatbot, ChatGPT, which was released to the broader public for testing and feedback last week. Read more on its impact on major tech stocks."
-    publishedDateTime: 2022-12-05T19:15:00Z
-    webUrl: "https://seekingalpha.com/article/4562442-openai-impact-analysis-microsoft-google-and-nvidia"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 36
   - title: "Microsoft Announces Future Ready Champions Of Code Program To Empower India's Developer Community"
     excerpt: "Microsoft today announced the launch of Future Ready Champions of Code, a pan India program for developers, focused o"
     publishedDateTime: 2022-12-07T03:39:00Z

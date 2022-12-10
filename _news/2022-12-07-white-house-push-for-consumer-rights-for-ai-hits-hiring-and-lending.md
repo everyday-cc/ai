@@ -23,22 +23,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "White House looks to accelerate AI in government through its ‘Bill of Rights’"
-    excerpt: "The White House in October released its blueprint for a “Bill of Rights” for the design, development and deployment of AI and other automated systems. The AI Bill of Rights outlines what more than a dozen agencies will do to ensure AI tools deployed in and out of government align with privacy rights and civil liberties."
-    publishedDateTime: 2022-12-05T20:51:00Z
-    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2022/12/white-house-looks-to-accelerate-ai-in-government-through-its-bill-of-rights/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 36
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2018/03/Artificial-intelligence-3-2.jpg"
-        width: 960
-        height: 643
-        isCached: true
-
 secured: "TMcQLtYPG7wc4eir1aFUnON3svgJMIby6YMT4RfOMIsDWA7JtWsn41/y7rigAQgtspm8tRDQsFtCp5QaELxB4kkjBdRgLU1BoKXW5RfWLv83MtEDVPOg3m24Z7cz8dc9xEu6X3hxL4rjne5aFvWRIC7PmRcjsIEoHEuFvnQOcS5d7I5QSKx6ywR9d9Xv4VDxRJXxTtzAccsETan22MJkzFfDWaKkKFIQFnfwEMNqHDWyoarWzWIw3TAx8ZVZzI1aHXdhY4lqfOYsEP7/QWnLkiBHu9HvcY5HgMuh/y106WLWwPtJytezWsN2e73n4Z53M4P3UXCrtK1+l3FGLiA6CGEbwuCqWl67UdDj9qi3ws97YnLzi1HODxSPRX29Z9lN/rBpv2zEBSExRzslOhMKhJcdGTenMQFyK3hsmOVNqI6bPdLl9782bhuYT9MSHag3Sqiai4EEya1qZRwSg82Y8fCmSQV20h9bb+UMRYAT1rdcAcuOG4rIYlWM05zIULCE5frYpOs2mrr0emJ2f8k6Mg==;rcNEBqpYz8lop5zEhDL0jA=="
 ---
 

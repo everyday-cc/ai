@@ -6,8 +6,8 @@ publishedDateTime: 2022-12-09T12:40:00Z
 originalUrl: "https://www.cyclingnews.com/features/we-asked-artificial-intelligence-to-review-a-rapha-jacket-write-race-reports-and-more/"
 webUrl: "https://www.cyclingnews.com/features/we-asked-artificial-intelligence-to-review-a-rapha-jacket-write-race-reports-and-more/"
 type: article
-quality: 11
-heat: 11
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -17,7 +17,14 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI in Autos
 
-secured: "v4x2PR7dwy+5uSqlVEdYLQ+Y2EZ+qgb/TPLdycRjxiH6RJ+hA87HbYHE++iuycw8Viwy/YQjmofPAz9b6zWuZe6UN7yaKQlZlqTP8V/5D7AkMrb1QbeU7zhuQG491/zGlx3L399t/5rxXZp3/uxeCNsiMnHn9i5RXlBTwUM6uAatImezxFgTMrmTykZcHKDAeIeXkru6TTe3NR6iV99nmLrdYpYMt1BYjqQ+qYR4fxk5LpJYnguP4VGfM81Y71PoMxjnjohtavjtc8yBMhAo3s3x+gxzdtpRuM57zzQcTd6VMrtMu/wDpPtnVAhbzP5d1xYRl1dmM7GxfdVSunXFGgCHI8pM6iZzADSIcm23USDZMM6/+lhXjlNc0/mo5ZyL5vfVPAdqKZwObn0pqzyuPN1MJBDWUFew8k399OIjJWt1qrCmQZNbvlZ76tETUjfw3HPazB6qEtpKLzCteHj1Kvg8FgHTP6iiYVojEzI4Yhgh1npMiRtg22zC0BKf5PW7Jk73wl83AIhcliYQtsotGw==;7XfrzMN3wYyI62PnCr1xwA=="
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/MH9zBTTB7iLvXHJJNyu3nX-1200-80.jpg"
+    width: 900
+    height: 601
+    isCached: true
+
+secured: "Q1MdsogAtz/+14q/rVlCE+758OQZkFYrFXQKKUx2h4Qs/yfH3wd0e/RbXaGmxaPuxdkSHu+lUfhDmoVzViiTebmT9eC2K6Tzdjm4pGawCaBTumd5JeoT+vLszMSvmBpEy7154c6LAbxBf44shwQjgMyS1asa7hELItipq6WZ4Xsu6PQXHtNbuUd8vSJ0x1xv6AEVmKKFYvh7LUlIIIGha705xw/fgqng8C/fQFCxGMrGvqx+Uur+U3ipR7rycoUPQ4o+OLd7FJTHTPw3mNv+nQWqNnlnmympLiCdVTHsyrCDR5VLMCgG0g8lYzvTTNIM+XRW5P+hDJOG8m+XJj7bZFDP+VfBgEaseIfPiuvvJs8=;oqj+FOHbNK8VG7ScPZtSDg=="
 ---
 

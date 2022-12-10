@@ -117,15 +117,6 @@ related:
         width: 1193
         height: 787
         isCached: true
-  - title: "OpenAI Impact Analysis: Microsoft, Google And Nvidia"
-    excerpt: "OpenAI's chatbot, ChatGPT, which was released to the broader public for testing and feedback last week. Read more on its impact on major tech stocks."
-    publishedDateTime: 2022-12-05T19:15:00Z
-    webUrl: "https://seekingalpha.com/article/4562442-openai-impact-analysis-microsoft-google-and-nvidia"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 36
 
 secured: "X/QNb9NIg9Tm72YB88hgtZ/AwS8Tf8Arg0fM2wnvZVi38aLVrhH+2Z28mdcmPDIxZw5A1H+k1IOBDZGXbk5TSu9X3uV+NrV3S/yTCByf7apzm+Ou+I0Y821dw6L7HLVTT3y4ssSTun+VLALi3nKb/yYCZY81gI20wtaU1plmnLJMuY+LWJm/54ZfFLPAG3OjxlTSb04tSHTLHv5d0dySn7q/wzeN82EtQhuassyG4hPMzBFBj2ER2P+liJKz4c4fBNnVWgTaCUUWWkcf+HBa8WIj83/WWCVCJssznpxiFWAe6/u+JFdvgyLkaDzW2Aq8rUWxNeRfa/0gkXBP4RHLtCWhphTnilcDDsi6TjV1xsJRMBzPIwzGRFBEG75OqRtxbaXEc0zMBBBx2yZxIbJVgnCzrD4GdEQt4/UFVD3zmumlD+0i5+7t+fV7Xnk6Da6yf0j+QboKk/FIM+lEvrR6Qo1Xq9bbXO8Pt4PfeovfPKwDk9NNZ/4wPKdfeykRA+ctVfrm6rmDVSg1E/q1uSQeKg==;eC6AD0YdbiKYNhTzOEh4tg=="
 ---

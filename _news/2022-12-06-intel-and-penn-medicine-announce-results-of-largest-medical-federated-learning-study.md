@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesleader.com/wire/state-wire/1590094/intel-and-penn-m
 cdnAmpWebUrl: "https://www-timesleader-com.cdn.ampproject.org/c/s/www.timesleader.com/wire/state-wire/1590094/intel-and-penn-medicine-announce-results-of-largest-medical-federated-learning-study/amp"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel And UPenn Pioneer Machine Learning That Dramatically Improves Brain Tumor Detection"
-    excerpt: "The University of Pennsylvania Perelman School of Medicine joined with Intel Labs to conduct a research study to improve brain tumor detection by using a kind of machine learning called Federated ML."
-    publishedDateTime: 2022-12-05T20:29:00Z
-    webUrl: "https://hothardware.com/news/intel-and-university-of-pennsylvania-federated-machine-learning"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 45
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/60297/content/hero-intel-upenn-federated-machine-learning-news.jpg"
-        width: 708
-        height: 472
-        isCached: true
   - title: "Penn Medicine, Intel Leverage Federated Learning for Tumor Detection"
     excerpt: "Researchers from Penn Medicine and Intel Labs have found that the use of federated learning improved brain tumor detection by 33 percent."
     publishedDateTime: 2022-12-07T13:30:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo156881477556"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo156881477556"
 type: article
 quality: 96
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2022/12/Screen-Shot-2022-12-07-at-3.02.34-PM-1024x694.png"
         width: 1024
         height: 694
+        isCached: true
+  - title: "Those AI portraits everywhere may pose a data security threat, experts say"
+    excerpt: "Digital portraits made with artificial intelligence are all over the internet and look vibrant, imaginative and enticing ... but they also may be used to"
+    publishedDateTime: 2022-12-10T11:43:00Z
+    webUrl: "https://www.aol.com/news/those-ai-portraits-everywhere-may-044332445.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 52
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/L6_Ig1IdpkcFT3G7zevU8A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/aol_the_today_show_594/8897244e1c4e08d5067c779ccca8c918"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Here's the exclusive 14-slide pitch deck that Veriti used to raise a $12 million Series A for its AI-cybersecurity platform"
     excerpt: "See the pitch deck that Veriti used to raise its $12 million Series A round. Cybersecurity is getting expensive, with consulting firm Gartner projecting some $169 billion in global spending this year, a more than 14 percent increase since 2021."

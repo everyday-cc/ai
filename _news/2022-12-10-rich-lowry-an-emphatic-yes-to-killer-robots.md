@@ -7,7 +7,7 @@ originalUrl: "https://www.sunjournal.com/2022/12/10/rich-lowry-an-emphatic-yes-t
 webUrl: "https://www.sunjournal.com/2022/12/10/rich-lowry-an-emphatic-yes-to-killer-robots/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 747
     height: 748
     isCached: true
+
+related:
+  - title: "An emphatic 'yes' to killer robots"
+    excerpt: "In the mid-1990s, Cyberdyne Systems Corporation created an artificial intelligence-based defense system called Skynet. When the system achieved self-awareness on August 29, 1997, it decided that human"
+    publishedDateTime: 2022-12-10T11:00:00Z
+    webUrl: "https://www.wyomingnews.com/laramieboomerang/opinion/an-emphatic-yes-to-killer-robots/article_8beabf82-77ef-11ed-9ece-4fba804699b2.html"
+    type: article
+    provider:
+      name: Wyoming News
+      domain: wyomingnews.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/9/c6/9c6730ff-9c56-5200-b684-e53f24cad429/62e433d258e7c.image.jpg"
+        width: 253
+        height: 347
+        isCached: true
 
 secured: "2AKApSpkF6kWz4Rb+Kkty5vwb0iRjxlB4tmkJPAAA3D2sNKUlPcdZqGByf5WGfwAJtnDRPhuBT9GHh5cyT4Qz/PguZWa8PVRkaWaU3Iv3nZPY4RPFjMqKBUvOu8FU9Vi4+tEN+GxVuqc5PQjL6IcokbMBlWn7faos+TwWBal9qq6xl5BzGzOnE+C9QtxBLI7Wsc0jj5uo6ucWr/fDH0FtBE02l6nyS1lEb7LOn5OpXk7JcQiNWyS05u4paujqQzC0ZoZiSwkwiNbzBFpekSyGcXqK+a0Ao5QjPyjPxcQxBHrQRwvGnIoOCcB5edHxy2hr7S4y9/BMfBO6L+DL9P6tAOyUVWZCMV66tbytCGobOlL7uKWz2F/WZT8pkSt0iGS+N8K78N8q4WAZku/mB4qE12rqvE6konBLbnyHrmlrgGyKwNV7vU+K9WLmbeVwFxP4IxeXD42mA9/RJuqe2Av5pJeicRY4Mc7ViYdaomD5tFwK1dzAyWSQnHc0aVDmYN1F4wRhtwztKtXXJvaxT53eg==;QJFHp7QMch+aUhsxe4DzmQ=="
 ---

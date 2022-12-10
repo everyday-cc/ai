@@ -78,15 +78,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Adobe Stock will sell images created with the help of artificial intelligence"
-    excerpt: "Adobe has announced today it is now accepting images created with the help of generative artificial intelligence applications like Stable Diffusion and DALL-E, opening up the sale of these images at Adobe Stock."
-    publishedDateTime: 2022-12-05T19:16:00Z
-    webUrl: "https://9to5mac.com/2022/12/05/adobe-stock-will-sell-images-created-with-the-help-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 14
 
 secured: "ZBcwRCTPSA2xkoqOA/+gJ/67H9NjC57+1g2TXDsV66iSbmiEhjqUGB9GmwLWnKiiOkJw2G0VYXAo+CXZ0zWg88dx0NnGTXXi5gOmhgo+VTUkUndw/wQDlkvjzm5M8tVkT3Im8AK15HcF8nE7e7VQ3NmJ0Pa1IoWAauUVFiEegHkDdqBXTfXI6R9NI7PUwNcVWXJie9ZlFCayRwathBWrmmbdSBABu5xyMbt4q7Nd6th5Ry/ALERAJNdb7r1MsObN4OklTiWGvDeJOyn0md+c4NZHXNyY3Yival4pwxphXewF0U9fcTdeQAMiIVduprD91eM2hiHoMtMpP8iv2pb3i7dG+jO0cFBiOgJD7d3Lgc/zTG+cQGg9e2/yiPWtVhKUW7Qu+1MtGy0xx5wl6ldhkporbyKTJWzEbUlIvDuoq2tTqnlNC7HhVfPuHoIf357DK9/tx+4TVf9PCJau/npUEJYtNW5/pz3kkBwNRHuUkKrZKwMvkKR76DSFfjqzGqhbCNy6H4OshwmE4OLG/A258Q==;nqogrI1Zejx6Qr1SBGtzQA=="
 ---

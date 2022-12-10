@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/43199/its-official-adobe-stock-sells-im
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/43199/its-official-adobe-stock-sells-images-generated-by-artificial-intelligence?amp=1"
 type: article
 quality: 88
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -76,15 +76,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Adobe Stock will sell images created with the help of artificial intelligence"
-    excerpt: "Adobe has announced today it is now accepting images created with the help of generative artificial intelligence applications like Stable Diffusion and DALL-E, opening up the sale of these images at Adobe Stock."
-    publishedDateTime: 2022-12-05T19:16:00Z
-    webUrl: "https://9to5mac.com/2022/12/05/adobe-stock-will-sell-images-created-with-the-help-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 14
 
 secured: "9eDMRA3KCGa787GOwtoitKQvW9qJCFWFITtT35rZI69jRPKNcN4UEGAj1qiSSajbsZaoQHscR4HFXCeu2oEVusH/acQajeOvI7/XmsvfrW/66Cx1nGUqNCiq5LFKs4f+/5tlB+1KI4JJuA11+dpuCxTdURgvkASZKwQRyDowH1VAmk2E1JhT/SGCdP/BhF+c0M2ZjVBav5IATHUkFZrUHiE4vapzdQLz8mEj77MgdlZDGcgGU6LtZu/D13P8YQgl4oUmgexMwHSdUvXIvWvlWcvyZAr3YX0R9uwgAjYNjC2mUTAy7PP6SlGpNuCwJmsigJIBUfrRihMyWPqA9/R5uoTaxssB3a7ZjF0KsOpEdUCTZQwtNGdGqNdWxeUIIdyrRjCSc2N45duvpNR2Yc1uGC/FTkJzYbVO+S+d4QR+prrn8t6ls5XanZ6bXu4iXRFX9mAS+iltYpcOay06ieH2oG/xV/+U4rAeMPSMxbz3SJCTgdtVdfI1GetyOOFy3ZEqFOx7J6ii/sPtMVKaaBZFbA==;GNjtCd5PJJx6Ep7Ra2Y34Q=="
 ---

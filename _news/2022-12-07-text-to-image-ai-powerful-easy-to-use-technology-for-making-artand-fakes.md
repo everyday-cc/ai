@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-12-text-to-image-ai-powerful-easy-t
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-text-to-image-ai-powerful-easy-to-use-technology.amp"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 926
     height: 463
     isCached: true
-
-related:
-  - title: "Text-to-image AI is a powerful, easy technology for making art — and fakes"
-    excerpt: "Deep fakes have already been used to create nonconsensual pornography, commit small- and large-scale fraud, and fuel disinformation campaigns. These even more powerful image generators could add jet fuel to these misuses."
-    publishedDateTime: 2022-12-05T20:42:00Z
-    webUrl: "https://www.niemanlab.org/2022/12/text-to-image-ai-is-a-powerful-easy-technology-for-making-art-and-fakes/"
-    type: article
-    provider:
-      name: Nieman Journalism Lab
-      domain: niemanlab.org
-    quality: 15
 
 secured: "AlgmX5wikj7pRC35RVQVvOozClJxFtlbcdzYrndOjhEE0BycjNTBtUwSucainT1X1tzDNWX9zz72oKnWzoaA0TEw9HhXGRRL5KthYTRw6mCJ3FLF5AXE9LKolfK0zIzXGitYcrA6sS9tOsQKaQt2c3PRoHIrvRIJZ5UQ1gufv5+L6UapJWxLGqWwyovTxaRyU38V4KTN14ZLffPiPdzalq+uoovp0YkDc9m9XDWDGufxELkC9W89t1zB63ucuNktUFqPD6b06Vlgjw7Q7psRYba94vpWHVniiFnK7AvCEXejetOkjIlgZg555oC2pt91SeRI0kA28FDlLhvKF/i2jr96DUiCq9FF+wZqgnMl+1ky/E6CQzCAEkbKr2Mx0JL0P8v3Dy7GL8Nk42vv/kTTPoIIxj6AJ91nyh5h/kslkkxtPo/ZcLjSTwR4iQE/oVANNajapaIH2pCU2AxGlAZg6W7Hf+uXD38s2EUykTZbgRDCOgz15Tc8ZttWwTkfzfxY7b97z0QM4zEvqXfoXrAejA==;zFpXoHcUt3m6hhI9N1Kgew=="
 ---
