@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 64
+heat: 50
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "47ao+pp5WTiIW8hSCS5K5+ejqLlvvqrDo78h0dyBCsPMtDKx7dGjc1PFgPJ4WWEhj5z0gCYwZo3FpcqU4E1SrZQUBGTwnjsx9j3zU8SFsopnVjrv/TL5TpRdCeWVF0U4J2LSsbDOTUfHV5MZ7pcoa1ScRz6/ykb1vjrhyaUdvGXQ5rsxURilmJR5G1dM+xFZXCZ0PftaT6YLlCgTMLmkTKONfyktex35tiPG1PSN+nghHhymxKQY04KVVcGOqa8Wmcwkg/u9I281i2w7MZTaCQuVZTkgp1aNMUfi5JWyPMEKKbKMLjAvjIBaOCpPGwn/vSOXtnPS6Tf2Y3XhXxiNboEmnI404uisC3SJ4nwWJIny9CulOiy8ooRfg6v0vcbXy9lBjJQnD0BnVHShEmirrlJAC8OeYRd7bbtDdy7QSfw=;6QGwmqdlx86mrcTS6gRvGA=="
+secured: "5Mxq9yVISUuF1P1R7dA0S2dHZOTgih7Kn7CHKnQhP7kOGA4AlNqlPY6plWawCfqWXnnII6x+SSZ3ma7UQm4VM/2SJtsVqVW+yM+hdLwR4FB4bXCFRBgjyv5dZEh+ZDa2B9FDySzom8f4Oh73EgzbUEJxfajRIcbOT6LizdxKwzrhS5o8qvVqHZ5oLpyGHADWrctDzERo9HSpfCPZgBNHQsKsxppfpbR/2U4VaGYzuEK+wJg5sWsMVoYZjNlw6ibKu9Dj+BsNIOZpO6GwUQIK94qf58fHRFDHzc7yVxX91VcsmmTvpH3ScGPIaSqJ8MKOjiW/LUrudzOQegdJdmbFSsaukJZO+jaurU+P2KBvlMzeXg9YanC7UfK/U8SXso39NENjB+BWP9CSr13/qLlGoxkkRLjksi7KBoB/ULJJXgc=;zqUnrTyVZQGYQ5j5Tl+6BA=="
 ---
 
