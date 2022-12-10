@@ -3,8 +3,8 @@ category: news
 title: "Amazon, Ashton Kutcher And America’s Surveillance Of The Sex Trade"
 excerpt: "Huge police databases armed with Amazon’s facial recognition are harvesting online sex ads of exploited children and consenting sex workers alike. Forbes finds that even when wielding a mass surveillance arsenal,"
 publishedDateTime: 2022-12-09T10:59:00Z
-originalUrl: "https://www.forbes.com/sites/thomasbrewster/2022/12/08/amazon-ashton-kutcher-sex-work-surveillance/"
-webUrl: "https://www.forbes.com/sites/thomasbrewster/2022/12/08/amazon-ashton-kutcher-sex-work-surveillance/"
+originalUrl: "https://www.forbes.com/sites/thomasbrewster/2022/12/09/amazon-ashton-kutcher-sex-work-surveillance/"
+webUrl: "https://www.forbes.com/sites/thomasbrewster/2022/12/09/amazon-ashton-kutcher-sex-work-surveillance/"
 type: article
 quality: 54
 heat: 54
@@ -28,6 +28,6 @@ images:
     height: 675
     isCached: true
 
-secured: "m9Xih2vOfaO2vZNvfV52Tqg9FCmQatwQ6bQTT/bnjIkmmTm2aPr0b7+RRb1P4XAoNN4mhIQgBsU/k5Zag4+T7mrz4/sE+qVAD0e7kiihtzPbBAuIvegcEY2X8JPex3dOIlFnlVpZHESFZF2h8wqXMOLO8QUG3ImoL4zCGynBmtrL6nXgAVjE780DsOUc8ek+xQuFcLJVrvtdxqHYz9nBsxFoVzf/2dTo40kDCO+g8G3BUdomkqzG+3L5y6hfs62aPC/wBGoT+PnPGEuD/ZyQn7lTlQki0YUjgLy3WvDKbdBgL0Rc3v98X3b2GzUA3et8vMkoEJ5oVW0XAzTuP+P6oKdjqJpnv3b7oh2j1rrq4e8=;RjRyDqCDUWKbfxxrgw0rhw=="
+secured: "4Mu7Mo67GFhP803rI3iqB2cyBV8JtJjONuLi26vQ5dCA9T22G4EEQT8U33ribGwidIL5nfbQ6prn+MbtAjIX3xVSSTpmUe9AgwdM/Q0w+zGaicmF2irAHR5Oln1YMqC9OiPZYHK75AyvUbSS6p1hrVWpPfcGuD8G4HCw7aO8xJ9n9oJhvdPgAKN1Dcd2ietdj1+5b473Kzr1USff7n5eIXksauUPkUQ/KcHk0XiKs7AwKorbI/5lbSqfFCtqZIV9iCEirki1XNyMsHTRCFQ8wN1IxVkP3DFDtinwFdlZ63AT/FggMd8QZ92fR40rkxqPnmkQkOakG8a6XxxHdUnEflgG5ZgeK5Yq+5RgtdGsPTk=;4jE5i4kVWi+Ml5ps8JssEw=="
 ---
 

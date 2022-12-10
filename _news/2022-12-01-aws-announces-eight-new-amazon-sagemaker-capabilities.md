@@ -1,20 +1,26 @@
 ---
 category: news
 title: "AWS Announces Eight New Amazon SageMaker Capabilities"
-excerpt: "Amazon SageMaker Studio Notebook gives practitioners a fully managed notebook experience, from data exploration to deployment. As teams grow in size and"
-publishedDateTime: 2022-11-30T21:33:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/11/30/9722319.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/11/30/9722319.htm"
+excerpt: "At AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced eight new capabilities for Amazon SageMaker, its end-to-end machine learning (ML ..."
+publishedDateTime: 2022-11-30T19:28:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-eight-new-amazon-sagemaker-capabilities/article_fe16b955-2c7f-5b55-b556-bd4a4f9351ea.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-eight-new-amazon-sagemaker-capabilities/article_fe16b955-2c7f-5b55-b556-bd4a4f9351ea.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "ppi2p7+3LJxwlfvdMsx6mvxMh8ia1B8emopsR595wQP8WPBcqW4XfcREQUggu6nheQ75Z8pQ7OF6SLE17QZzrg2a36/JwCuQvxYKcn0ikjYoSHCBRJINAhugUDIgE6CnFuFxDKB2XD4pjtuDcjH/qWyJOyJSmYitY4WC5RlLNn7jtI3WMyh9N7oVok+seb220cqdw3hXvCwlftq3cmVYrvQF02H5CMmJX5jDPVSSrrTLVG/MI3lHi932D2AC7bcjPQatG4EwEFW+zrXMWUyHUe7Ncjhwl1TE9qsfnXYuLMHuFok8YBTrTB4Bb5r0kP/3vnBxetdVl15nfGSuRcO+Xo3WW0crSrdRS2ac+3DLGLA=;9IsAGjhWFLLGF6+xcI5AnQ=="
+images:
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg"
+    width: 350
+    height: 455
+    isCached: true
+
+secured: "V+adns/XFHdtyZtd1sdcityg2xICx5StPQbzduY/MBjBj6snWO3TA+Jcpcbu4otQsmxmtkGv2Sq5v+praEGYuBOj8QRBkSLhol7iLpXK0powj6i2Tr0YFR0hNpFtq9bc7Lefl+TZrNNeQIyDdiHGe54/ozahXjeVBkDiUudzHtxXjSW4OQrWgvnB6oPToFqnHY/9hG4S/cUq3B7B6bwv0ndUximLm6xhO4oxZgkIAkR4Z8VhVx4qcE+RyR+wnOq9nIXZf8x0L/ZAQ2jQNrI9do/Zsv5b4Ei6pQycW2fNKCY2D0bXYhi1/v0UmP7JbwL4fer6BWNd+kXr5R/edIbqQmdvJdfcuZZz3nedtDzHN8c=;/TidlYKNnqPjmBvQoBNahw=="
 ---
 

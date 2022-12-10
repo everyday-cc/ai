@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Uber’s facial recognition is locking Indian drivers out of their accounts"
+    excerpt: "Srikanth is far from the only worker in India who must interact with facial recognition technology. In addition to the country’s 600,000 Uber drivers, many others work for the homegrown ride-sharing platform Ola and for startups such as Swiggy, Zomato, and Urban Company. All ask their platform workers to upload selfies for logins or verifications."
+    publishedDateTime: 2022-12-06T10:00:00Z
+    webUrl: "https://www.technologyreview.com/2022/12/06/1064287/ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts/"
+    ampWebUrl: "https://www.technologyreview.com/2022/12/06/1064287/ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/06/1064287/ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 62
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/12/Adnan-Taqi2.jpg?w=3000"
+        width: 3000
+        height: 1832
+        isCached: true
   - title: "Uber’s Facial Recognition System Continues to Threaten Drivers’ Job Security in India"
     excerpt: "Uber drivers say they get locked out of accounts due to facial hair, shaved head, changed haircut, and scratches on their device camera"
     publishedDateTime: 2022-12-09T11:13:00Z

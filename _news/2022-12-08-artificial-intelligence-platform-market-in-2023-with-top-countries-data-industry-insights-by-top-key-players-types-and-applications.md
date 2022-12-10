@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Drug Discovery Market : New Business Strategies And Forecast By 2028 with Top Countries Data"
+    excerpt: "\" Artificial Intelligence in Drug Discovery Market \" Insights 2022 - By Applications (Pharmaceutical and Biotechnology Companies, Contract Research Organizations, Research Centers and Academic and Government Institutes),"
+    publishedDateTime: 2022-12-09T12:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-new-business-strategies-and-forecast-by-2028-with-top-countries-data-2022-12-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice Recognition Biometrics Market Dynamics with Top Players, Gross Margin, Regional Demand, Plans and Demand Status Forecast to 2028"
     excerpt: "\" Voice Recognition Biometrics Market \" Insights 2022 - By Applications (IT And Telecom, BFSI, Automotive, Healthcare, Education, Others), By Types (Physiological Biometrics, Behavioral Biometrics), By Segmentation analysis,"
     publishedDateTime: 2022-12-09T01:45:00Z
@@ -98,6 +112,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "New facial recognition technology scans your ear"
+    excerpt: "In the post-COVID world of face coverings and heightened hygiene awareness, the need for new authentication methods that don't require a person's full face to be visible has arisen."
+    publishedDateTime: 2022-12-08T19:13:00Z
+    webUrl: "https://techxplore.com/news/2022-12-facial-recognition-technology-scans-ear.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 19
 
 secured: "XxDGQRNzvSB0rOkEWerk0Oiu+MfBaGvUctTnOBz7DwV6o45curOxurHrjWPeiMo0GLJzNww7eVsIG9OZ4AaSQWPh8ByN4tLbAzUByV2iHm2cm9IK0F3Z88vFr7SKJjyVwTKIh8L5m1KZsXDDVT6OYBb6bAJQMHGcrBn+wIucYHS01kmyJQPO8YgSKkZb7LAsga9Nne3xaMrAK+1xq24QPnbts3o9R6oV0SUFqROLbItQopoN6zfj9sQt34iZBOYCaMRYg1qqdQrghSY7RQqL8m+kMnx6gwcCTIAC/nK+9153uTI98g3aQ5ylHQ8PaaNmCG3DC3RbEiIr2UscbVN3Yep8Pq5qGmw7q3BHQv6ir8E=;uZQDPU9nmwmlatq6lAAcyA=="
 ---

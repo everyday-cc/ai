@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Drug Discovery Market : New Business Strategies And Forecast By 2028 with Top Countries Data"
+    excerpt: "\" Artificial Intelligence in Drug Discovery Market \" Insights 2022 - By Applications (Pharmaceutical and Biotechnology Companies, Contract Research Organizations, Research Centers and Academic and Government Institutes),"
+    publishedDateTime: 2022-12-09T12:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-new-business-strategies-and-forecast-by-2028-with-top-countries-data-2022-12-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Platform Market in 2023: with Top Countries Data, Industry Insights by Top Key Players, Types and Applications"
     excerpt: "Global “Artificial Intelligence Platform Market” 2023 Research report is an in-depth study of the market Analysis."
     publishedDateTime: 2022-12-08T06:29:00Z
@@ -99,6 +113,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "New facial recognition technology scans your ear"
+    excerpt: "In the post-COVID world of face coverings and heightened hygiene awareness, the need for new authentication methods that don't require a person's full face to be visible has arisen."
+    publishedDateTime: 2022-12-08T19:13:00Z
+    webUrl: "https://techxplore.com/news/2022-12-facial-recognition-technology-scans-ear.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 19
 
 secured: "oR+vMlIvkgUgnun0fKFJ/YOUpXPS6Lo2wG5vTmOaT1Ybea7OmYrqyuWRmKL3KIewViaqo88GeJC3aGWKl55fE95+5V0+Nd4sNzUqXNHAEw/yveSYMwIRP+nAlOu+ZIvLVDdj/49A7bDVOX459ftBW9BxzuPawCwkuADQ2sHOE8zRMf3SQrGNNb0tBgMBtB593jKMkoaySThch9ghqO3tNKPiKJOuMpSTdUNpzFtSWG7OwxZ7m+Rtls0Zw9xxFjOQFtnOEMK7SSQqeHH+1j0+PIOzeoy5GgZHI/QQ2Yfy31tFFRqQFCLOpcRU4PCY+gL2NvghTvF+qsrfUenc39Av5wpj4/xC018fJi0+2LQ5YBM=;SOMcPbuvxtMDDYxYnIj14g=="
 ---

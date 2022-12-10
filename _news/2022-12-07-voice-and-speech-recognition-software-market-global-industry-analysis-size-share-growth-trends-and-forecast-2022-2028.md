@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning as a Service (MLaaS) Market 2023 : Research Report Analysis Size Share Growth Research Report by Regional and Forecast to 2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Machine Learning"
-    publishedDateTime: 2022-12-05T09:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2023-research-report-analysis-size-share-growth-research-report-by-regional-and-forecast-to-2028-2022-12-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global AI In Computer Vision Market Size and Market Scenario 2022 by Development Potential, Applications, Geographical Regions and Forecast to 2028"
     excerpt: "Dec 06, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global “AI In Computer Vision"
     publishedDateTime: 2022-12-06T07:45:00Z

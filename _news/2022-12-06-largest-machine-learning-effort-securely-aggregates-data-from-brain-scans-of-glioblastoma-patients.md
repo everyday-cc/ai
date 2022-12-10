@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20221206/Largest-machine-learn
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20221206/Largest-machine-learning-effort-securely-aggregates-data-from-brain-scans-of-glioblastoma-patients.aspx"
 type: article
 quality: 60
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: News Medical
@@ -25,24 +25,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "Federated machine learning enables the largest brain tumor study to-date, without sharing patient data"
-    excerpt: "Researchers at Penn Medicine and Intel Corporation led the largest-to-date global machine learning effort to securely aggregate knowledge from brain scans of 6,314 glioblastoma (GBM) patients at 71 sites around the globe and develop a model that can enhance identification and prediction of boundaries in three tumor sub-compartments,"
-    publishedDateTime: 2022-12-05T10:00:00Z
-    webUrl: "https://medicalxpress.com/news/2022-12-federated-machine-enables-largest-brain.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-12-federated-machine-enables-largest-brain.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-federated-machine-enables-largest-brain.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 58
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/brain-scan-1.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
 
 secured: "E1SxWeeoGpbzh4gX1sc+bF/TZ6wNhxetyt6CkPKzK/7acTuPkxeyFHM1ae/HEMg23+lUQttHsLjbtsqkslxOJsb4RsbdYVmuEL/ER+bqfbyK01z6oNaRuWxs2lHldkKk2Da0f14SJm0AxZ9v3Mpc+viBpIk46UP8lxCUPZTqxDLM3ckgoxGQnA0MaLYNEM8dF46uqXxcKmsMxgoUfIq9MWuDuEzfXvXcmr0UJiMeidpAr+Vp62xwoOUH/WQgGQrtYfs/UbT0TdXzAeATJAUtNTgYCsjNOefHlnUyaCXhzWeJu5+QDtZPxBNSL4QwdIpWLVxNDQr5aobG0aUlMYFQp4RonzOTLXBYGGV0dku0imo=;oXaYuQbUe/CpWdEBx08cwQ=="
 ---

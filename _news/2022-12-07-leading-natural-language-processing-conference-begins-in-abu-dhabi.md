@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Abu Dhabi’s G42 Healthcare collaborates with AWS to transform healthcare data into insights"
-    excerpt: "It integrates data of individuals with their medical history to deliver more personalized care The solution uses purpose-built data stores to support large-scale analysis and collaborative research across entire populations Abu Dhabi,"
-    publishedDateTime: 2022-12-05T10:48:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/abu-dhabis-g42-healthcare-collaborates-with-aws-to-transform-healthcare-data-into-insights-b96cxfqz"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 26
   - title: "Leading natural language processing conference kicks off in Abu Dhabi for the first time this week"
     excerpt: "New York University Abu Dhabi (NYUAD), in partnership with Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), kicked off today, December 7, the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP),"
     publishedDateTime: 2022-12-07T08:09:00Z

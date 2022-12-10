@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2022/12/06/1064287/ubers-facial-rec
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/06/1064287/ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts/amp/"
 type: article
 quality: 62
-heat: -1
-published: false
+heat: 82
+published: true
 
 provider:
   name: MIT Technology Review
@@ -29,30 +29,28 @@ images:
     isCached: true
 
 related:
-  - title: "DigiYatra: Facial recognition technology is now available at these Indian airports"
-    excerpt: "With the assistance of a facial recognition software known as \"DigiYatra,\" you will be able to sail through the process of flying, which will now be paperless and contactless."
-    publishedDateTime: 2022-12-05T09:43:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/new-updates/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports/articleshow/96000093.cms"
-    ampWebUrl: "https://m.economictimes.com/news/new-updates/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports/amp_articleshow/96000093.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/new-updates/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports/amp_articleshow/96000093.cms"
+  - title: "Uber’s Facial Recognition System Continues to Threaten Drivers’ Job Security in India"
+    excerpt: "Uber drivers say they get locked out of accounts due to facial hair, shaved head, changed haircut, and scratches on their device camera"
+    publishedDateTime: 2022-12-09T11:13:00Z
+    webUrl: "https://www.medianama.com/2022/12/223-uber-facial-recognition-drivers-job-security-india/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 68
+      name: MediaNama
+      domain: medianama.com
+    quality: 49
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-53688,msid-96000068/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports.jpg"
-        width: 600
-        height: 450
+      - url: "https://www.medianama.com/wp-content/uploads/2022/12/FDE77CFB-D0D6-4150-B53A-A3CDA62F6393-scaled.jpeg"
+        width: 1876
+        height: 2560
         isCached: true
-  - title: "New facial recognition technology scans your ear"
-    excerpt: "In the post-COVID world of face coverings and heightened hygiene awareness, the need for new authentication methods that don't require a person's full face to be visible has arisen."
-    publishedDateTime: 2022-12-08T19:13:00Z
-    webUrl: "https://techxplore.com/news/2022-12-facial-recognition-technology-scans-ear.html"
+  - title: "The Download: Uber’s flawed facial recognition, and police drones"
+    excerpt: "Uber’s facial recognition is locking Indian drivers out of their accounts One evening in February last year, a 23-year-old Uber driver named Niradi Srikanth was getting ready to start another shift, ferrying passengers around the south Indian city of Hyderabad."
+    publishedDateTime: 2022-12-06T13:10:00Z
+    webUrl: "https://www.technologyreview.com/2022/12/06/1064334/download-uber-flawed-facial-recognition-police-drones/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
+      name: MIT Technology Review
+      domain: technologyreview.com
     quality: 19
 
 secured: "zpWcU/mr828myzcgn7aMgl55sR+fuyO1tvqN/EZL3FZI4A0ObY+PUZt26YBQXNq0Uk3LDqpgA9ZgRVJVTFJ8rS0h/cpmdANS+q290cZxbBbPiAA4LcBM+C5vkN0SaYQS4nEtzLJJWrrWlFyFwnc0j4I8Ilea3ZPBLd0YIa7DRM1U2ByAwpzKHRIsArfN9YqZ/0s1q0Uu8pP6kxrLaWO5ADeBrhi55QBgOGPHHYnPEYPFKZFOumda3RK60qjLoNw3WcofuWb7aevc82n6SVLPCSCP5OCseCG95qwTg7WOMcwQSDbgIuVR2H0UdWTtF/uhhKppouorOC/46azMahj+s3AZnqmPgsoalbzS+PUTbEjPqjPbUbg84Cog3TaXyI/JRd5eTQwVgDUeyHix6X5K5S48jEet/gAVvX1yL3fKgVibeJI/xCTY56u8yhaE01eWREW5kCE9be6l6ezlpADtp0ZcTeAKYztmT2mv48PKBCfag2FmZTsthp2YBlHlm77VIQdPI/4cizLQKCyRmNFOcA==;egRCcCmcXoTW2qDM9/Kzdw=="
