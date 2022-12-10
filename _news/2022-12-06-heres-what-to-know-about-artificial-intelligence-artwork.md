@@ -34,6 +34,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Top AI Predictions for 2023"
+    excerpt: "The year 2022 was dedicated to large language models and generative art, let’s see what's in the AI goody bag for 2023"
+    publishedDateTime: 2022-12-08T06:38:00Z
+    webUrl: "https://analyticsindiamag.com/top-ai-predictions-for-2023/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/predict.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "49/SPNQt7PHU/iMScwEH7IHEZwRdm09H5vFXuvgUS4N78TD9Y6FxzPPPeY7ZjC8IxXyPyndSrhasw/kdyg5PC8cBPAZwc3VD0Y6frGuriG6AS9R8mcA4f3LAGElJ28qJKCtMso0rAB10dgsQrm/t014qBap7mWGKSMcfQjcPInoBekF1Lefb3p2KvGH1JjWHIycupbBuCVAqcoy9NhW3Ujj1NOwNZ7BHea/OqbO9Urn5SpBaj32l6t4OEvqzBqG/+tC/KYorMdb14oAa5WvHtY08JJRGrcBGhO8blhULflXv0Sw7oDlPj0BM2hHUFIQbAaaO+yq0iO7b1u+KnVc10Lz9ZBVGPAF9aqFq1NCL25MvVJdGVLAa4HoE6o978iLAwxTViZy9TZDrRSF/ulokOSFN0ZWyIqp/YG8BqwDkyosFSNVBEg1sVrR2+kAdzmzXCfLJfJwrk5UccTT86fDZJg4BMu8S1POCUQFwKpSwTMNeFfmmC7oB+vy7VWRHrob7pArKdVcATyr7ayGk82/qwA==;RudVpTxDJHIIp4nkMFNaGQ=="
 ---

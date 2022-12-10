@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-12-08-how-pixyle-ai-is-helping-shoppers-find-exactly-what-they-want.md",
+      "title": "How Pixyle AI Is Helping Shoppers Find Exactly What They Want",
+      "excerpt": "Svetlana Kordumova, the founder of Pixyle AI, which is today announcing a €1 million seed funding round, was struck by a frustrating irony. Studying for a PhD in artificial intelligence and computer vision at the University of Amsterdam,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidprosser/2022/12/08/how-pixyle-ai-is-helping-shoppers-find-exactly-what-they-want/",
+      "originalUrl": "https://www.forbes.com/sites/davidprosser/2022/12/08/how-pixyle-ai-is-helping-shoppers-find-exactly-what-they-want/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6390fee7b203b78ec58465da/0x0.jpg?format=jpg&crop=1800,844,x0,y354,safe&width=1200",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2022/12/08/how-pixyle-ai-is-helping-shoppers-find-exactly-what-they-want/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2022/12/08/how-pixyle-ai-is-helping-shoppers-find-exactly-what-they-want/amp/",
+      "publishedDateTime": "2022-12-07T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-08-ai-sweeping-robot-market-2022-2028-leading-growth-drivers-emerging-audience-segments-industry-sales-profits-analysis.md",
       "title": "AI Sweeping Robot Market 2022-2028 Leading Growth Drivers, Emerging Audience, Segments, Industry Sales, Profits & Analysis",
       "excerpt": "AI Sweeping Robot Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2021, at unexpected",
@@ -1204,50 +1255,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-as-ai-rises-lawmakers-try-to-catch-up.md",
-      "title": "As AI Rises, Lawmakers Try To Catch Up",
-      "excerpt": "From \"intelligent\" vacuum cleaners and driverless cars to advanced techniques for diagnosing diseases, artificial intelligence has burrowed its way into every arena of modern life.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610",
-      "originalUrl": "https://www.barrons.com/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP2689439216944067383893578078951981468096---1.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610",
-      "publishedDateTime": "2022-12-06T23:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

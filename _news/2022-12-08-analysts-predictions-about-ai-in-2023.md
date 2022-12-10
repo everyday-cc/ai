@@ -36,6 +36,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Top AI Predictions for 2023"
+    excerpt: "The year 2022 was dedicated to large language models and generative art, let’s see what's in the AI goody bag for 2023"
+    publishedDateTime: 2022-12-08T06:38:00Z
+    webUrl: "https://analyticsindiamag.com/top-ai-predictions-for-2023/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/predict.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "0QnkI930ojVcb86geCpIRcO2zHzMVsxv53yXm1ij28sfLDxn+5L0+QAnvl0TaY+DHHQmhGzOzBktzRCF/O+fXT2n/+j03XLSB4b6MeN5tO61QZ96VuhsVJir4Cl/4tBkd5wGchAzXhzFpqK1hQMCsxhyqHFpp9rjdTsCmkYrsJwwqQaIqSIdxJwf+P5jBr1gqtRJENEzO3oVlqJN84/juo687V3CdnkJGLsJXcCEzrHp39+FkOiOuxKVAgN6a0A3fNFCA9dDzo7xDhyaNN2zu1E2ED5SREyS2NsewfDCD5QyhJQAONmobSOagEA6wut+PKJTgz/w8zFTjR2iVuoArxCqwP7u5baGQuPz5tBlNH5MJ/BOHNgtwf/oZ2IOlv4/yKhwzR7KLQUgLAQW5HwyQ0OpP5bXAFe6AM7++eo7iS6eMopib+6OF9Qtrjir/EdlimLsjy5rF7LitYxUQeWrs3qIydAQNjB5M18BPYS/zHMJpkuXHnJqx8KS4J6k3Ga0gVm/Y+1IVexxX/dPzS0/oQ==;BK0O1AN/2zdklxAJ4aq/dA=="
 ---

@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top Six Trends (And Recommendations) For AI And ML In 2023"
-    excerpt: "Manasi Vartak is founder and CEO of Verta, a Palo Alto-based provider of solutions for Operational AI and ML Model Management."
-    publishedDateTime: 2022-12-05T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/top-six-trends-and-recommendations-for-ai-and-ml-in-2023/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "AHAI, the AI Based Multi Symptom Check and Therapy Recommendation Platform to be Released in the First Quarter of 2023"
     excerpt: "LAS VEGAS, NV / ACCESSWIRE / / Alternative Health, Inc, the US based medical company announced that it will be releasing its evidence based diagnostic and recommendation platform to the public in the"
     publishedDateTime: 2022-12-06T16:40:00Z
@@ -50,6 +41,15 @@ related:
         width: 1600
         height: 948
         isCached: true
+  - title: "N1 Health's AI platform paves the way in driving measurable business results for healthcare organizations in updated KLAS rating"
+    excerpt: "N1 Health is pleased to announce that its AI platform has been awarded an overall score of 93.1 out of 100 in the Healthcare Artificial Intelligence: Data Science Solutions report published by the leading healthcare research firm,"
+    publishedDateTime: 2022-12-06T19:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/n1-health-s-ai-platform-paves-the-way-in-driving-measurable-business-results-for-healthcare-organizations-in-updated-klas-rating-1031956311"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
 
 secured: "HWzpS0+EUk0tkL5SZRaqkSUX+4zdUz/o6EnTbsNR8thYYjIKLJ3ILa2NbI30e4Oa4+VwK13WSPdp1St6BZn5y5tL1JAmAQvcJbahlSMPlju+uaGe5BUYaJh+W63hbbVdN4C5GZrcaHLa5cnJiJN1nFkIvVA/bYvbZ8/wBnV+C9ctU6vfXTE/G5edt4NXZi4W+ndEPT6dLtKU/BaOei5V/Hk5V5/M7KfMGp1o1OrdkgfrnhHtXQ7AJ7igpLlBep00GCB+Mi4aO29n5rcIb0S9D2bk7OfoEmSqSFDe0dv9/x4aZ00brPfAJqDk6LVqCoy9gZy7XciY7vbBMXoZRtG7aqSxFx9FXzCINm1ohLTEPIcYGQoisfTiOOVXnJ93v+lLWbzRRuuuscPpaHMXTFuE+4mg0z3naf2P+e47CdNfI4Z9ImSWY5745cCui9/PHqjr8PTJxQLYl4my1HQfcTxJLr572RtB/Owb5yRyIqFhmVBUBB9cgnFDdPeZ4pRe2EikwLlAejlOG1F5hRvSTpV5zQ==;4DXCSii/dSQoib7WTNB8Ug=="
 ---

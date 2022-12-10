@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-09T09:30:00Z
 originalUrl: "https://www.statnews.com/2022/12/09/artificial-intelligence-border-between-health-care-tech/"
 webUrl: "https://www.statnews.com/2022/12/09/artificial-intelligence-border-between-health-care-tech/"
 type: article
-quality: 40
+quality: 42
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - IBM AI
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://www.statnews.com/wp-content/uploads/2022/12/AdobeStock_175752016-1024x576.jpeg"

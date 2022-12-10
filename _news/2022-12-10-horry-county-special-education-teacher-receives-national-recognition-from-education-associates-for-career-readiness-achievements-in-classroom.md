@@ -2,22 +2,28 @@
 category: news
 title: "Horry County Special Education Teacher Receives National Recognition from Education Associates for Career Readiness Achievements in Classroom"
 excerpt: "Functional Special Education Teacher Emily Scheffler from Horry County Public Schools attended the 2022 National CASE Conference in Salt Lake City to receive the 2 nd Annual Gary Bates Memorial Award."
-publishedDateTime: 2022-12-09T22:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-horry-county-special-education-teacher-receives-national-recognition-/2022/12/09/9728012.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-horry-county-special-education-teacher-receives-national-recognition-/2022/12/09/9728012.htm"
+publishedDateTime: 2022-12-09T20:47:00Z
+originalUrl: "https://apnews.com/article/business-education-schools-2bc3e9e00f2a474c888ec6034f8e3448"
+webUrl: "https://apnews.com/article/business-education-schools-2bc3e9e00f2a474c888ec6034f8e3448"
 type: article
-quality: 0
+quality: 6
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
   - AI in Education
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "TSA is ready for nationwide deployment of its facial recognition system"
@@ -221,6 +227,6 @@ related:
       domain: capradio.org
     quality: 19
 
-secured: "0d4xKd7ey5VZN2yWaUtnBeLT6fm6QmrB20wGmYon40LGH2yGP82vOicAsBMoM7kQxnRJZDT9ngcOPsagwtPiXukXZ/ShEbEfw3RvLy5lRFV9/syj9rYs9/yzQxOYSlE5Ay6hjLeT+ZR1YGvtSo23hcEUQrM/g1ILD1U2PsIITUixqfPxMX40ZnbNqTzmrETM7/hT2P8JqV0johHTfDKPqqWjR1b8igPooimLDYVwkyCGXjBI3PBguah/GpMG9uGYGQNj3fF1WYfWTRysKcJ3ptWXWr4EgXYQiP7P2SYLdrJbo1f+PgMypjbbOplxGiP6H4trGmiyyX6TFq1wYFEz1unyjatTmLFEvQUgpLf7pL0=;rUOfC5Ym+M4Ih/eycwFleA=="
+secured: "dKbVntNJ2bzjit2dcft3gRh9DYuhocWVjrfiAKS6/QIYq1shftgP0Rl+Rh6zfFCAUFMq3WWQM05Z1r7BQhckvIjezntl3L8kneXs9749infyPzr/BWa4pCVm4k43u7D1dnVNvjJixFGmdtgm77kUskDPI4IwphI5XcGw8vZhlp/U0AJpSxIAGGprZnsvo2gWNpqNJD+wgJD0CKIlJFJqlz2CUbz4fUau6lVM4pDkg0/5glOzeoQWqUOK1WLYct84zmkWcdBcNQaW+IvPpHjQIxffnK8w4FjIZLZONvCBoyvdgegJRON64XAJ3jwu1NTVoHVLZ92zoH+9n5Bvmhy5BM0VXaZt7JHmnp2indw594A=;7Dz2PpA1wkZQ4b2q435ZlA=="
 ---
 

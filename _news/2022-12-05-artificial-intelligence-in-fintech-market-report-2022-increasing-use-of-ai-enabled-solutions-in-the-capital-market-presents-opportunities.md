@@ -95,15 +95,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Sunwest Bank Secures Multiyear Partnership with CRE FinTech Blooma"
-    excerpt: "Sunwest Bank announced the renewal of its partnership with emergent FinTech, Blooma, as part of a larger digital transformation initiative. The multiyear contract represents a longstanding relationshi"
-    publishedDateTime: 2022-12-05T12:24:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/12/b29956577/sunwest-bank-secures-multiyear-partnership-with-cre-fintech-blooma"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
 
 secured: "p4AgqiSyUBJdZBtEP8xh7Rj8IVnQoNrDlFMst9JuS9ZzGaCfDX7KrsRSlluU2u2FcHerzd24ageZE+WTWgTog8bhse+Yxy77Z8ZaJy9KbfaAMzMq7Te/Pld1PjdGctCW/WnBRcas7fBGDURsezarpsV7Nzt0udLFbo62h4149EhttZ1Fnt648d/6o+NNpW4yFxjXuAcUFM9lqykLdC1UmHY0FQs35df39N+LGwEzz6/D7Yv6b5kp+PEdYx4mSSKtW+iCueqJrlxH8VxagIOZKefLJwjWR52rKLA2HcFdVmlfI6ayDtonkM2vQaBZOD0barTT+vvu20uGfNMSWEcwBKNp8nFXP3fyTUwpEuwv1p0=;d+ur6c3dQaEb1tmc7aWS0w=="
 ---

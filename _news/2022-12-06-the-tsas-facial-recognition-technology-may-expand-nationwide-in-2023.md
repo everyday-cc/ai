@@ -213,13 +213,18 @@ related:
     quality: 19
   - title: "Horry County Special Education Teacher Receives National Recognition from Education Associates for Career Readiness Achievements in Classroom"
     excerpt: "Functional Special Education Teacher Emily Scheffler from Horry County Public Schools attended the 2022 National CASE Conference in Salt Lake City to receive the 2 nd Annual Gary Bates Memorial Award."
-    publishedDateTime: 2022-12-09T22:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-horry-county-special-education-teacher-receives-national-recognition-/2022/12/09/9728012.htm"
+    publishedDateTime: 2022-12-09T20:47:00Z
+    webUrl: "https://apnews.com/article/business-education-schools-2bc3e9e00f2a474c888ec6034f8e3448"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Associated Press
+      domain: apnews.com
+    quality: 6
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "dbZsJYReI7uheWpTFHmjUTSpxKuiE24PGE+sib2GoHuvkGYM86YIPcV8M7Zbv6QNX+Oxc3YBnzizzgyXJx3GysCBiznNCA4ecXsfa8NuvEAY0zSAYAS43/lnPqW45sg4toRLym56/7WQTo3lG1xw5t6vQdltBge2a2sOLKNXbvqhsvNCKBMktXKFbQ7WhTWLP6pmTI1pxa7uUHBEqCOuarGCAZhrWrthT97Z9mlTPSC+6f3hw3ss9d3pGerKqqPknNm6eUFCWRkf4/vqvbD25osB9lYdGUFrNVARN+gvpYo3JIKxGw6JoSwd8m6iNFH0cqOMf5JDI4TN8WJj44gQfw1Ov2xWD0M/j9JFnu9Wu3pb5FIEhoLDKIIHUCYRj0SbxvYmrzfVRKxfmTdfsdFvBYkcRNYQhQ/Y9V3qLimQHJMRO8/rnEkLBmmwsi3G29Pbl9Bb5gZE79NmE2etX3oaHhPIpN8bElTJ56zJPn139k9z7O4V/gHcItXT5E/eCEgpaU45lc/JIAqRg0FyUCz3lg==;OCNeG+JgC+nMEVJ73XOkxA=="
 ---

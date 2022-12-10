@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/chatgpt-ai-explained-why-everyo
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/chatgpt-ai-explained-why-everyones-chatting-about-this-new-chatbot/"
 type: article
 quality: 89
-heat: 469
+heat: 459
 published: true
 
 provider:
@@ -336,20 +336,6 @@ related:
       - url: "https://www.forbesindia.com/media/images/2022/Dec/img_199207_chatboat.jpg"
         width: 900
         height: 600
-        isCached: true
-  - title: "Stack Overflow temporarily bans ChatGPT from platform"
-    excerpt: "The platform’s moderators are aiming to slow the rise of answers created with the AI tool, especially since the average rate of getting an answer that is correct is low"
-    publishedDateTime: 2022-12-05T12:44:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/369641/stack-overflow-temporarily-bans-chatgpt-from-platform"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 54
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1670242933/itpro/2022/December/AI_Chatbot_GettyImages-1364050120.jpg"
-        width: 1260
-        height: 710
         isCached: true
   - title: "‘It works very well, but it’s not magic’: This is ChatGPT, the groundbreaking AI chatbot"
     excerpt: "The latest evolution in text generation systems has surprised hundreds of thousands of users with coherent conversations and a humanlike finesse"

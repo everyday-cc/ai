@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/venturebeat-lab-to-launch-in-depth-ai-art
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/venturebeat-lab-to-launch-in-depth-ai-article-series-with-insights-from-microsoft-and-nvidia/amp/"
 type: article
 quality: 93
-heat: 183
+heat: 173
 published: true
 
 provider:
@@ -107,15 +107,6 @@ related:
         width: 1193
         height: 787
         isCached: true
-  - title: "Nexus FrontierTech launches first-of-its-kind plug-and-play AI modules on Microsoft Azure"
-    excerpt: "Artificial Intelligence (AI) solution provider Nexus FrontierTech has announced its partnership with Microsoft Azure, allowing clients to utilise the Azure marketplace for quick deployment of AI solutions within their organisations."
-    publishedDateTime: 2022-12-05T12:54:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/12/05/9724024.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 40
   - title: "Microsoft Quantum Innovator Series: The path to quantum at scale"
     excerpt: "Get the inside, first-hand account of Microsoft’s strategy to scaled quantum computing in a new webinar series where you’ll hear directly from Microsoft Azure Quantum scientists and leaders about the path to quantum at scale and how to get involved today."
     publishedDateTime: 2022-12-05T17:00:00Z

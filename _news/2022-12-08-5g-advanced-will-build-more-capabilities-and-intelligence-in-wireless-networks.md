@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-5g-advanced-will-build-more-capabi
 webUrl: "https://www.tmcnet.com/usubmit/-5g-advanced-will-build-more-capabilities-intelligence-wireless-/2022/12/07/9726456.htm"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -16,36 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Multimedia Intelligence: Confluence of Multimedia and Artificial Intelligence"
-    excerpt: "In contrast to traditional mass media, such as printed material or audio recordings, which feature little to no interaction between users, a multimedia is a form of communication that uses a combination of different content forms such as audio,"
-    publishedDateTime: 2022-12-06T08:48:00Z
-    webUrl: "https://www.design-reuse.com/articles/53138/multimedia-intelligence-confluence-of-multimedia-and-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 34
-    images:
-      - url: "https://www.design-reuse.com/news_img2/homepage53138/soft.jpg"
-        width: 1008
-        height: 410
-        isCached: true
-  - title: "Artificially (un)intelligent: An AI search engine for science spits out climate denialism and covid misinformation"
-    excerpt: "A new AI-powered search engine says it can pull out 'consensus' scientific findings from across peer-reviewed literature, but at the moment it gets a lot of things wrong — sometimes dangerously so."
-    publishedDateTime: 2022-12-09T14:29:00Z
-    webUrl: "https://www.grid.news/story/science/2022/12/09/artificially-unintelligent-an-ai-search-engine-for-science-spits-out-climate-denialism-and-covid-misinformation/"
-    type: article
-    provider:
-      name: grid
-      domain: grid.news
-    quality: 19
-    images:
-      - url: "https://www.grid.news/resizer/BA4vxW838bNnt6ak7_WOrPNTjFQ=/1200x630/filters:format(jpg):quality(100)/cloudfront-us-east-1.images.arcpublishing.com/thesummit/TM2VKJJMDBANDHKT4HB2DRNIKM.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "6+0bIXyg/IRmgsvowmN7mrf3v1FzQFFqCEjZbi33sGc6y9iQq66u3TgH3JZiiLiBOJip35XY2sLWg8f042nxFc55B323ggR6z4LhdtJyQetI6NHvg5wN6585uccAI118wkV88R1lq2kU3I/ZYGRs1QcZFpxC1pDIDObOxLz30/rtTYd4w5u9+sGrK7Etw7qJzPQ6BJuub23C9x5ha8P1u1DQvHDhOvf5b6+yZiEopaas/Eg8JxHU3YNc4NEmDRodHRh7oXY/kRaJSZa1uUz+8yP4fdFhCm84FpJ6OsOqQjxg5bo1Ctrj7x04alcxF/6ItQgYtUX4dcyNxnP/MNRkjKhJt7XTqZZ3PZuAtbEAiao=;zFVRB0pcEKtgMnt5AtG04A=="
 ---

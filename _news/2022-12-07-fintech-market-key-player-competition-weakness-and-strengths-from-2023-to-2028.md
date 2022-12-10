@@ -91,15 +91,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Sunwest Bank Secures Multiyear Partnership with CRE FinTech Blooma"
-    excerpt: "Sunwest Bank announced the renewal of its partnership with emergent FinTech, Blooma, as part of a larger digital transformation initiative. The multiyear contract represents a longstanding relationshi"
-    publishedDateTime: 2022-12-05T12:24:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/12/b29956577/sunwest-bank-secures-multiyear-partnership-with-cre-fintech-blooma"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
   - title: "Artificial Intelligence in Fintech Market Report 2022: Increasing Use of AI-Enabled Solutions in the Capital Market Presents Opportunities"
     excerpt: "The \"Artificial Intelligence in Fintech Market: Global Analysis and Growth Forecast to 2027\" report has been added to  ResearchAndMarkets.com's offering. The adoption of AI systems and techniques in finance is growing rapidly,"
     publishedDateTime: 2022-12-05T14:22:00Z

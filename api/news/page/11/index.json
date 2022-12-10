@@ -2,6 +2,102 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-11-29-bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem.md",
+      "title": "BAE Systems adds Microsoft to modeling and simulation ecosystem",
+      "excerpt": "BAE Systems is expanding the network of companies in its modeling and simulations ecosystem to include Microsoft. With this addition,  This press release features multimedia. View the full release here:   (Credit: BAE Systems) “Microsoft Azure is widely regarded as a prominent provider of cloud computing services for government,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem/article_09a8296f-2a89-5be5-8852-247c6e7dd5f6.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem/article_09a8296f-2a89-5be5-8852-247c6e7dd5f6.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/a/da/ada8d6f0-eb7c-548b-a469-7bc080bd4580/638614d0a1fa1.image.jpg",
+          "width": 633,
+          "height": 1140,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bakersfield.com/ap/news/bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem/article_09a8296f-2a89-5be5-8852-247c6e7dd5f6.amp.html",
+      "cdnAmpWebUrl": "https://www-bakersfield-com.cdn.ampproject.org/c/s/www.bakersfield.com/ap/news/bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem/article_09a8296f-2a89-5be5-8852-247c6e7dd5f6.amp.html",
+      "publishedDateTime": "2022-11-29T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-deepgram-lands-new-cash-to-grow-its-enterprise-voice-recognition-business.md",
+      "title": "Deepgram lands new cash to grow its enterprise voice-recognition business",
+      "excerpt": "Deepgram, a company developing voice-recognition tech for the enterprise, today raised $47 million in new funding led by Madrona Venture Group with participation from Citi Ventures and Alkeon.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/29/deepgram-lands-new-cash-to-grow-its-enterprise-voice-recognition-business/",
+      "originalUrl": "https://techcrunch.com/2022/11/29/deepgram-lands-new-cash-to-grow-its-enterprise-voice-recognition-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1024463070.jpg?resize=1200,654",
+          "width": 1200,
+          "height": 654,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/29/deepgram-lands-new-cash-to-grow-its-enterprise-voice-recognition-business/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/29/deepgram-lands-new-cash-to-grow-its-enterprise-voice-recognition-business/amp/",
+      "publishedDateTime": "2022-11-29T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-11-29-finance-provider-sets-up-fund-aimed-at-ai-machine-learning-and-data-science.md",
       "title": "Finance provider sets up fund aimed at AI, machine learning and data science",
       "excerpt": "AI will focus specifically on early stage, high growth artificial intelligence (AI), machine learning and data science investment opportunities in the North of the UK. River Capital says Northern data science SMEs are underserved by venture capital,",
@@ -478,58 +574,6 @@
       ]
     },
     {
-      "path": "_news/2022-11-29-baidu-plans-to-expand-driverless-ride-hailing-service-area.md",
-      "title": "Baidu Plans to Expand Driverless Ride-Hailing Service Area",
-      "excerpt": "Chinese internet-services and artificial-intelligence company Baidu Inc. is planning to build what it says will be the biggest driverless car-hailing area in the world as it looks to keep growing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188",
-      "originalUrl": "https://www.marketwatch.com/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188",
-      "publishedDateTime": "2022-11-28T23:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-29-baidu-announces-plan-to-build-the-worlds-largest-fully-driverless-ride-hailing-service-area-in-2023.md",
       "title": "Baidu Announces Plan To Build The World's Largest Fully Driverless Ride-Hailing Service Area In 2023",
       "excerpt": "This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday. Want the fastest, most accurate stock market intelligence? Want EXCLUSIVE ...",
@@ -551,6 +595,58 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-baidu-plans-to-expand-driverless-ride-hailing-service-area.md",
+      "title": "Baidu Plans to Expand Driverless Ride-Hailing Service Area",
+      "excerpt": "By Fabiana Negrin Ochoa Chinese internet-services and artificial-intelligence company Baidu Inc. is planning to build what it says will be the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188?mod=markets",
+      "originalUrl": "https://www.marketwatch.com/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188?mod=markets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188",
+      "publishedDateTime": "2022-11-28T22:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1023,109 +1119,6 @@
         "AI in Healthcare",
         "Microsoft AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-nvidia-ai-plays-minecraft-wins-machine-learning-conference-award.md",
-      "title": "Nvidia AI plays Minecraft, wins machine learning conference award",
-      "excerpt": "A paper describing MineDojo, Nvidia's generalist AI agent that can perform actions from written prompts in Minecraft, won an Outstanding Datasets and Benchmarks Paper Award at the 2022 NeurIPS (Neural Information Processing Systems) conference,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/11/nvidia-wins-award-for-ai-that-can-play-minecraft-on-command/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/11/nvidia-wins-award-for-ai-that-can-play-minecraft-on-command/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/mine_dojo_hero_2-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2022/11/nvidia-wins-award-for-ai-that-can-play-minecraft-on-command/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/nvidia-wins-award-for-ai-that-can-play-minecraft-on-command/amp/",
-      "publishedDateTime": "2022-11-28T14:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-chinese-artist-ai-weiwei-says-covid-protests-will-not-shake-government.md",
-      "title": "Chinese artist Ai Weiwei says COVID protests will not shake government",
-      "excerpt": "From his Portuguese home, Ai Weiwei, the high-profile Chinese dissident whose art has often criticized Beijing's policies, said the recent wave of protests would not shake Xi Jinping's government because the police would simply crush them into silence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/health-coronavirus-china-ai-weiwei/chinese-artist-ai-weiwei-says-covid-protests-will-not-shake-government-idUSKBN2SI1SQ",
-      "originalUrl": "https://www.reuters.com/article/health-coronavirus-china-ai-weiwei/chinese-artist-ai-weiwei-says-covid-protests-will-not-shake-government-idUSKBN2SI1SQ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/4JzXQiiYgBFZoJU8ke76ndbpXlw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VWB3QZJOYNJW5LHEASOY2U5PVE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T11:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

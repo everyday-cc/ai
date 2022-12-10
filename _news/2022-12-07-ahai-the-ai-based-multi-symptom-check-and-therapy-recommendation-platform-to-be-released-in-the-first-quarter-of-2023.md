@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/29979799"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29979799"
 type: article
 quality: 50
-heat: -1
-published: false
+heat: 70
+published: true
 
 provider:
   name: Benzinga.com
@@ -27,15 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Top Six Trends (And Recommendations) For AI And ML In 2023"
-    excerpt: "Manasi Vartak is founder and CEO of Verta, a Palo Alto-based provider of solutions for Operational AI and ML Model Management."
-    publishedDateTime: 2022-12-05T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/top-six-trends-and-recommendations-for-ai-and-ml-in-2023/"
+  - title: "N1 Health's AI platform paves the way in driving measurable business results for healthcare organizations in updated KLAS rating"
+    excerpt: "N1 Health is pleased to announce that its AI platform has been awarded an overall score of 93.1 out of 100 in the Healthcare Artificial Intelligence: Data Science Solutions report published by the leading healthcare research firm,"
+    publishedDateTime: 2022-12-06T19:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/n1-health-s-ai-platform-paves-the-way-in-driving-measurable-business-results-for-healthcare-organizations-in-updated-klas-rating-1031956311"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
   - title: "Alternative Health Inc.: AHAI, the AI Based Multi Symptom Check and Therapy Recommendation Platform to be Released in the First Quarter of 2023"
     excerpt: "LAS VEGAS, NV / ACCESSWIRE / December 6, 2022 / Alternative Health, Inc, the US based medical company announced that it will be releasing its evidence based diagnostic and recommendation platform to t"
     publishedDateTime: 2022-12-06T17:51:00Z

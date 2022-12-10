@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thequint.com/amp/story/neon/hot-take/magic-avatars-lensa
 cdnAmpWebUrl: "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/neon/hot-take/magic-avatars-lensa-app-ai-generated-pictures-criticised-by-artists"
 type: article
 quality: 76
-heat: 87
+heat: 88
 published: true
 
 provider:

@@ -49,6 +49,15 @@ related:
         width: 718
         height: 300
         isCached: true
+  - title: "Payne: Riding along with my self-driving Tesla student driver"
+    excerpt: "Payne's Model 3 carries Full Self Driving, Tesla's ambitious software that enables the car to drive itself on public roads, an upgrade over Autopilot."
+    publishedDateTime: 2022-12-10T03:00:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2022/12/10/payne-rides-along-with-his-self-driving-tesla-student-driver/69710439007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 19
   - title: "Apple Scales Back Self-Driving Car, Delays Debut Until 2026"
     excerpt: "Apple Inc. has scaled back ambitious self-driving plans for its future electric vehicle and postponed the car’s target launch date by about a year to 2026, according to people with knowledge of the matter."
     publishedDateTime: 2022-12-06T18:22:00Z

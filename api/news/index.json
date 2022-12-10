@@ -54,6 +54,57 @@
       ]
     },
     {
+      "path": "_news/2022-12-10-dialpad-introduces-ai-powered-customer-intelligence.md",
+      "title": "Dialpad Introduces AI-Powered Customer Intelligence",
+      "excerpt": "The application of artificial intelligence to a converged communications platform enables better customer service and employee collaboration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/networking/dialpad-introduces-ai-powered-customer-intelligence/",
+      "originalUrl": "https://www.eweek.com/networking/dialpad-introduces-ai-powered-customer-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/Rimini-Street-Screen-Shot-2021-12-29-at-2.30.04-PM.png",
+          "width": 420,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T17:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-10-jumping-on-the-ai-self-portrait-trend-heres-what-cyber-security-experts-are-warning.md",
       "title": "Jumping on the AI self-portrait trend? Here’s what cyber security experts are warning.",
       "excerpt": "Lensa AI is the hottest app at the moment with over five million downloads already this month, using facial photos to create avatars. Cyber security experts are concerned that it could make it easier to find people.",
@@ -105,7 +156,7 @@
       "originalUrl": "https://venturebeat.com/ai/venturebeat-lab-to-launch-in-depth-ai-article-series-with-insights-from-microsoft-and-nvidia/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 183,
+      "heat": 173,
       "tags": null,
       "images": [
         {
@@ -157,7 +208,7 @@
       "originalUrl": "https://www.thequint.com/neon/hot-take/magic-avatars-lensa-app-ai-generated-pictures-criticised-by-artists",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1209,57 +1260,6 @@
       "topics": [
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-how-pixyle-ai-is-helping-shoppers-find-exactly-what-they-want.md",
-      "title": "How Pixyle AI Is Helping Shoppers Find Exactly What They Want",
-      "excerpt": "Svetlana Kordumova, the founder of Pixyle AI, which is today announcing a €1 million seed funding round, was struck by a frustrating irony. Studying for a PhD in artificial intelligence and computer vision at the University of Amsterdam,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidprosser/2022/12/08/how-pixyle-ai-is-helping-shoppers-find-exactly-what-they-want/",
-      "originalUrl": "https://www.forbes.com/sites/davidprosser/2022/12/08/how-pixyle-ai-is-helping-shoppers-find-exactly-what-they-want/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6390fee7b203b78ec58465da/0x0.jpg?format=jpg&crop=1800,844,x0,y354,safe&width=1200",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2022/12/08/how-pixyle-ai-is-helping-shoppers-find-exactly-what-they-want/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2022/12/08/how-pixyle-ai-is-helping-shoppers-find-exactly-what-they-want/amp/",
-      "publishedDateTime": "2022-12-07T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

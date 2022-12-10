@@ -49,6 +49,15 @@ related:
         width: 718
         height: 300
         isCached: true
+  - title: "Payne: Riding along with my self-driving Tesla student driver"
+    excerpt: "Payne's Model 3 carries Full Self Driving, Tesla's ambitious software that enables the car to drive itself on public roads, an upgrade over Autopilot."
+    publishedDateTime: 2022-12-10T03:00:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2022/12/10/payne-rides-along-with-his-self-driving-tesla-student-driver/69710439007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 19
   - title: "Audi's Project Artemis Self-Driving Plan Could Be Scrapped As Soon As This Month"
     excerpt: "Audi's autonomous driving project will likely be laid to rest this month so that the automaker can focus on other software developments. Instead of devoting too many resources to the self-driving dream, Blume is expected to announce a new roadmap for the ..."
     publishedDateTime: 2022-12-06T13:32:00Z

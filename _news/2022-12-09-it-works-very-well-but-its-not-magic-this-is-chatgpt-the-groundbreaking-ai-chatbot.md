@@ -349,20 +349,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Stack Overflow temporarily bans ChatGPT from platform"
-    excerpt: "The platform’s moderators are aiming to slow the rise of answers created with the AI tool, especially since the average rate of getting an answer that is correct is low"
-    publishedDateTime: 2022-12-05T12:44:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/369641/stack-overflow-temporarily-bans-chatgpt-from-platform"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 54
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1670242933/itpro/2022/December/AI_Chatbot_GettyImages-1364050120.jpg"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "ChatGPT and Lensa: Why Everyone Is Playing With Artificial Intelligence"
     excerpt: "Two internet sensations give non-nerds a turn with powerful software, yielding surprising wit and stunning avatars."
     publishedDateTime: 2022-12-07T15:38:00Z

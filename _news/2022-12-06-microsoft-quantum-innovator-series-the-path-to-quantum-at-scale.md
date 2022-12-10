@@ -121,15 +121,6 @@ related:
         width: 1193
         height: 787
         isCached: true
-  - title: "Nexus FrontierTech launches first-of-its-kind plug-and-play AI modules on Microsoft Azure"
-    excerpt: "Artificial Intelligence (AI) solution provider Nexus FrontierTech has announced its partnership with Microsoft Azure, allowing clients to utilise the Azure marketplace for quick deployment of AI solutions within their organisations."
-    publishedDateTime: 2022-12-05T12:54:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/12/05/9724024.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 40
   - title: "OpenAI Impact Analysis: Microsoft, Google And Nvidia"
     excerpt: "OpenAI's chatbot, ChatGPT, which was released to the broader public for testing and feedback last week. Read more on its impact on major tech stocks."
     publishedDateTime: 2022-12-05T19:15:00Z
