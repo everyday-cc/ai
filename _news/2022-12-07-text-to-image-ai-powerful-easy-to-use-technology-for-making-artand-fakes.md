@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-12-text-to-image-ai-powerful-easy-t
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-text-to-image-ai-powerful-easy-to-use-technology.amp"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -50,15 +50,6 @@ related:
       name: Nieman Journalism Lab
       domain: niemanlab.org
     quality: 15
-  - title: "Text-to-image AI: powerful, easy-to-use technology for making art – and fakes"
-    excerpt: "Seemingly bound by only your imagination, this latest trend in synthetic media has delighted many, inspired others and struck fear in some. Google, research firm OpenAI and AI vendor Stability AI have each developed a text-to-image image generator powerful enough that some observers are questioning whether in the future people will be able to trust the photographic record."
-    publishedDateTime: 2022-12-05T14:05:00Z
-    webUrl: "https://www.seattlepi.com/news/article/Text-to-image-AI-powerful-easy-to-use-17631845.php"
-    type: article
-    provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 14
 
 secured: "AlgmX5wikj7pRC35RVQVvOozClJxFtlbcdzYrndOjhEE0BycjNTBtUwSucainT1X1tzDNWX9zz72oKnWzoaA0TEw9HhXGRRL5KthYTRw6mCJ3FLF5AXE9LKolfK0zIzXGitYcrA6sS9tOsQKaQt2c3PRoHIrvRIJZ5UQ1gufv5+L6UapJWxLGqWwyovTxaRyU38V4KTN14ZLffPiPdzalq+uoovp0YkDc9m9XDWDGufxELkC9W89t1zB63ucuNktUFqPD6b06Vlgjw7Q7psRYba94vpWHVniiFnK7AvCEXejetOkjIlgZg555oC2pt91SeRI0kA28FDlLhvKF/i2jr96DUiCq9FF+wZqgnMl+1ky/E6CQzCAEkbKr2Mx0JL0P8v3Dy7GL8Nk42vv/kTTPoIIxj6AJ91nyh5h/kslkkxtPo/ZcLjSTwR4iQE/oVANNajapaIH2pCU2AxGlAZg6W7Hf+uXD38s2EUykTZbgRDCOgz15Tc8ZttWwTkfzfxY7b97z0QM4zEvqXfoXrAejA==;zFpXoHcUt3m6hhI9N1Kgew=="
 ---

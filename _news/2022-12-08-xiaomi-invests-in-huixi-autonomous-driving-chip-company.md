@@ -24,22 +24,6 @@ images:
     height: 853
     isCached: true
 
-related:
-  - title: "Continental in Auburn Hills Announces Autonomous Driving Chip Partnership"
-    excerpt: "In the future, Auburn Hills’ Continental will offer ADAS solutions based on the CV3 AI system-on-chip family from Ambarella."
-    publishedDateTime: 2022-12-05T14:01:00Z
-    webUrl: "https://www.dbusiness.com/tech-mobility-news/continental-in-auburn-hills-announces-autonomous-driving-chip-partnership/"
-    type: article
-    provider:
-      name: DBusiness Magazine
-      domain: dbusiness.com
-    quality: 38
-    images:
-      - url: "https://cdn.dbusiness.com/wp-content/uploads/sites/33/2022/12/TMN-ContinentalAmbarella-800.jpg"
-        width: 800
-        height: 500
-        isCached: true
-
 secured: "lcAPAiyrRCj4+TkHvEEUvHatk3EkCFkLasIFVRn2hQoarjcydOvVWOFSImU3ZPxMhrJMV7lbxZxFEQbsiC/vc092B2yRQJeYyvSwr+yFraVoRYJ3jQASA+/imNt2FFN1KS6ZThEjWlaN4DX3VGfany8hX/CSR+griI4qGX7umDrRBbzI7HFh4SSB3mZD+M0Nzmq/piXXT0cwpWUEH4kOEu6yY8XWzzGRdmCvOtnB/9x/ZD3psWpLzBAXSAWfreDqlsfgBki1PjsLYam8G41g85RB0cvpCmtF71tZtcUMCVggVyCnhEc+Q3oNfmBpwCyORTlh0fRjeZHCFjAE3GP3G3NvFg2uc8eCFbROCFjjwNw=;WY3APFHseKlWzPnWwcRpJA=="
 ---
 

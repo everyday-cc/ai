@@ -1,26 +1,26 @@
 ---
 category: news
 title: "GFlow Neural Networks To Help Accelerate Molecules And Candidates Generation, Experts Say"
-excerpt: "Bengio has been looking into utilizing Generative Flow Networks, or GFlow Nets - his ... benefiting from neural nets’ ability to imagine - usually for synthesizing new images."
-publishedDateTime: 2022-11-28T09:00:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/gflow-neural-networks-to-help-accelerate-molecules-and-candidates-generation-experts-say/article_bf452a49-c400-53af-b6de-168e46567964.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/gflow-neural-networks-to-help-accelerate-molecules-and-candidates-generation-experts-say/article_bf452a49-c400-53af-b6de-168e46567964.html"
+excerpt: "Bengio has been looking into utilizing Generative Flow Networks, or GFlow Nets - his team’s ML technique ... Bengio and his team propose using generative models, benefiting from neural nets’ ability to imagine - usually for synthesizing new images."
+publishedDateTime: 2022-11-28T07:43:00Z
+originalUrl: "https://www.eagletribune.com/region/gflow-neural-networks-to-help-accelerate-molecules-and-candidates-generation-experts-say/article_1bf333d5-43a2-570f-beb4-76a427c09782.html"
+webUrl: "https://www.eagletribune.com/region/gflow-neural-networks-to-help-accelerate-molecules-and-candidates-generation-experts-say/article_1bf333d5-43a2-570f-beb4-76a427c09782.html"
 type: article
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/e/1f/e1feca23-a020-5478-894e-b57e0e0cdc82/6384768375f6a.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/8/df/8dfb57d7-a7f8-512e-a607-cd8f7c56ed34/638475952afd3.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
 
-secured: "sgto5EmEDflGArD827mYWPbgUM0n6AS6MwqEcKJjZt8a7jNCS/OTShVVtB817jOd5TVIq6QJeI8LO9wjaB0XmMr6tDARmJhs7rN+UUGmxf5CG6BjGPfc7fhnkPzREyWE0sqhzMlw/LDorhoMthRFKitcN9QTqTrFF9/leAw5SK3tWLuAjrYqNeJzl3YTfdyYQh+3feiMgdvccIBR154nUljjSKA7Cxz2naJtno3gheNDVztRrtNASlUNHU08j0CzGzIPcUsXVtk+fVcmuXiDJYzTQ1hKCsEws/DCM6IotoNtLJYbfwXoU9rA8Wh6seZ9QdQ/CV7qn1A36Lu8DeOSvWJunjKCNyTsJmTIxIkElHw=;6eiNurWMkCpfrfIXYN3cwQ=="
+secured: "YO1IhHK1l7qET1VeFH+INDh/MueVEQSijtFniqVmJaRrb/Uo6B81inDcFSCrSF+D/wqKXNzTVsQC9JEGYRVg+AIGOmUM5zmRS0mv0+IC3kx/h8AWueLnuH5vimyJ8F4ohoHpAbbACHaAMrPAj1z3UgBs+7I2aBwyHz8wMigqz4OL6Q6FSwLDX0mxGW+EZ383bq6NI+bx6w1LpbhJW1BZzPKm1kP5deL3fbRFWGN3QAnTfxFjmOXbcvHTX7tZlJlVuCNs7mipasbGXXO4ihbuaSqQ5gJFRZLV/5GRM7gktJVtVetE2cIMV6qLvX//yQYkg47Zr58Nyq3FvvZDHK3DEKiUK14c+L3jX+8T2vbgUb0=;2CJh6y8O1B9flutH/RmAVw=="
 ---
 

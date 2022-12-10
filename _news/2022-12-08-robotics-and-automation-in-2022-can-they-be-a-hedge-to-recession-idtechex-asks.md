@@ -26,22 +26,6 @@ images:
 
 related:
   - title: "Lidars for Automotive and Beyond, Discusses IDTechEx"
-    excerpt: "Lidar, which refers to light detection and ranging, is a technology that has been adopted in various applications such as mapping, surveying, military, archaeology, agriculture,"
-    publishedDateTime: 2022-12-05T14:20:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/12/n29959403/lidars-for-automotive-and-beyond-discusses-idtechex"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29959403"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29959403"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://mma.prnewswire.com/media/1961655/IDTechEx_Lidar_car.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "Lidars for Automotive and Beyond, Discusses IDTechEx"
     excerpt: "Later lidars could also be used to measure angles and velocity. Commercial and industrial lidars rose in the 1980s, and the 1990s benefited from the development of diode systems. A single-line scanning system enables lidars to be used in other applications."
     publishedDateTime: 2022-12-05T16:47:00Z
     webUrl: "https://it.tmcnet.com/news/2022/12/05/9724310.htm"

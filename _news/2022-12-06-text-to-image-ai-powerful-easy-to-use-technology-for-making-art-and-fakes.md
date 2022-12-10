@@ -49,15 +49,6 @@ related:
       name: Nieman Journalism Lab
       domain: niemanlab.org
     quality: 15
-  - title: "Text-to-image AI: powerful, easy-to-use technology for making art – and fakes"
-    excerpt: "Seemingly bound by only your imagination, this latest trend in synthetic media has delighted many, inspired others and struck fear in some. Google, research firm OpenAI and AI vendor Stability AI have each developed a text-to-image image generator powerful enough that some observers are questioning whether in the future people will be able to trust the photographic record."
-    publishedDateTime: 2022-12-05T14:05:00Z
-    webUrl: "https://www.seattlepi.com/news/article/Text-to-image-AI-powerful-easy-to-use-17631845.php"
-    type: article
-    provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 14
 
 secured: "J3/0aXu7dEcr/DFgdOP8shhDO3vrQXthBZOvR/Jdbw3467uHgXbr/+x65frXqn/po5zCrEpeH+e1oDUpBI2x6M3scqx2hBUWonjB8UmTjbENDZ4U4qlhbSYb50FLQ8f6wNzBwuge2bUeWljHK5SWDMhEB1D1d9mijL8qNUDuzTj1+FEJukI5Ky2WNSAtXta+OrAIRlIGSxsVj3xerVAPFY5E5KcOJLhHwAu0rqPQ220fQ+WsTbOnALierYenxtnqgWlq/bBr6q3A1roJsDjTxae5b+q3+Zlxy40K/JiivbWUK/7j7O4C2JVBKMKFEADRH353U+LHYOjnaNjiw+RUgghPDzQdfH7hUb5JRLp1MKR72JGyH2INHNXS6yrt+5EbOiyRtNA1fXHBBhgQopUMLlZKbLi3pE1/HIRiQ79Ky8Kxk1bfa89lDKi6NnEzJbloRngjIBM30e54OyZz0mCbS03O7XboVSUM55F7AmXNZg/kIdVfvqjCeWWVtTaMtpg//rVft4i5F3YqF7bKK7SpTw==;YWeLgOnBOPJko0D67NTRYQ=="
 ---

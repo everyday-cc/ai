@@ -1,20 +1,26 @@
 ---
 category: news
 title: "AWS Announces Eight New Amazon SageMaker Capabilities"
-excerpt: "Amazon SageMaker Studio Notebook gives practitioners a fully managed notebook experience, from data exploration to deployment. As teams grow in size and"
-publishedDateTime: 2022-11-30T21:33:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/11/30/9722319.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/11/30/9722319.htm"
+excerpt: "At AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced eight new capabilities for Amazon SageMaker, its end-to-end machine learning (ML ..."
+publishedDateTime: 2022-11-30T19:28:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-eight-new-amazon-sagemaker-capabilities/article_fe16b955-2c7f-5b55-b556-bd4a4f9351ea.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-eight-new-amazon-sagemaker-capabilities/article_fe16b955-2c7f-5b55-b556-bd4a4f9351ea.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "w3QqYZ6awjQToR1zy2x753T3Y2mvTlk7LT8h8dIM597fku8c6LeBxY1HqJsdggwsJdUgKtN7k2UYd3nnHahZ0pe9JgyMVhXTsolvtK2QRRmdk3dMqP+ucsW3LE5ARaZ+5FcTftVkk0a0OdhqWx1aclvzNY3o0TlbVOVOVQlAnoboWqDADXet/9zqgvb6W102kx7gRpkBJA0TQyVIrEzqq/Jm3faguSIMP1C/cvxvjlGj2iQNWzABz9/cJ1jwZCNHPhkz0KJcDeC5QpsVvsx+P/v9c4A7t5WISY8qVxVb/mRZPG5GICfH0nBcLkMMjUiaR4nsRdY3PxrUS+7wF8xqaC6tlpluccC2wS2oQhaa+SQ=;+NMbt6iUHjlM3wuJbBCavA=="
+images:
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg"
+    width: 350
+    height: 455
+    isCached: true
+
+secured: "UnQtZGv0pripm+Zl0m5OxFWwcGgi9jGsMXIVYmmBBZhiXmIvGJ0be0oJOazBw3hcUDWb87lpAQx73Knk4VlNJLfUUYYK4PtX2334ZE2cb1Ey2uX15Nj9MPsBsdHvVv5dTA9V/feAm+3k4P/3LiSvz5+l48RJgJQLeUaAbjze09dqVsNi9dizr0xL3RiLBtHIMv50grN5liE+xm1RiBWikQA5RGgsMbKBFtsZzq6ZChrzjEWShQrYTOPHjZcL7SCkA7/Y7S79ncvgd+QsAev5wPfNT6eg0rSdTJE0/Vr8zMIA7CHdCrjqnO65klqjENVLl0lvTRhbv3fxmXABbu1OPH8ug71MSm1pddS5kPiUqUg=;o1/zO69tYjxfoxBuzETmjg=="
 ---
 
