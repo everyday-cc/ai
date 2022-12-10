@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/this-robotics-technology
 webUrl: "https://www.marketwatch.com/press-release/this-robotics-technology-market-research-report-factors-limiting-the-market-growth-2022-12-07"
 type: article
 quality: 77
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Emotion Recognition and Sentiment Analysis Industry 2023 Market Size, Share, Growth, Sales and Drivers Analysis Research Report 2028"
-    excerpt: "The Global Emotion Recognition and Sentiment Analysis Market 2023 report is a thorough assessment of the worldwide"
-    publishedDateTime: 2022-12-05T08:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/emotion-recognition-and-sentiment-analysis-industry-2023-market-size-share-growth-sales-and-drivers-analysis-research-report-2028-2022-12-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Genomics Market to Reach $6.22 Billion by 2029 - Exclusive Report by Meticulous Research®"
     excerpt: "Download Free Report Sample Now @  The application of artificial intelligence (AI) or machine learning has been widely increasing in genomics studies, requiring production of complex and large amounts of data."
     publishedDateTime: 2022-12-07T15:06:00Z

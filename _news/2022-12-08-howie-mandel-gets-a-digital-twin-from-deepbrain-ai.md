@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/games/howie-mandel-gets-a-digital-twin-from-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/howie-mandel-gets-a-digital-twin-from-deepbrain-ai/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

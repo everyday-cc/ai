@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/12/07/smartynames/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/07/smartynames/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

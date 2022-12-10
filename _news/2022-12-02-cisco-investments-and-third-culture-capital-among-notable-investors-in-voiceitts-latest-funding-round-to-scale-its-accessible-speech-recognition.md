@@ -1,23 +1,26 @@
 ---
 category: news
-title: "Cisco Investments and Third Culture Capital Among Notable Investors in Voiceitt's Latest Funding Round to Scale its Accessible Speech Recognition"
-excerpt: "Voiceitt, the Israel-based award-winning leader in speech recognition technology for non-standard speech, announced today the closing of its latest funding round led by AMIT Technion, with participation from Cisco Investments and Third Culture Capital (3CC)."
-publishedDateTime: 2022-12-02T13:46:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/12/02/9723611.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/12/02/9723611.htm"
+title: "Cisco Investments and Third Culture Capital Among Notable Investors in Voiceitt’s Latest Funding Round to Scale its Accessible Speech Recognition"
+excerpt: "Voiceitt, the Israel-based award-winning leader in speech recognition technology for non-standard speech, announced today the closing of its latest funding round led by AMIT Technion, with ..."
+publishedDateTime: 2022-12-02T14:06:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/cisco-investments-and-third-culture-capital-among-notable-investors-in-voiceitt-s-latest-funding-round/article_2985264f-67a0-57d0-8aec-2f37f7e547fd.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/cisco-investments-and-third-culture-capital-among-notable-investors-in-voiceitt-s-latest-funding-round/article_2985264f-67a0-57d0-8aec-2f37f7e547fd.html"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "7VvEfcrvwoy717Uu/z9oVNdK/Ezct5XCemSEyL58BBIZdqIvnhy7flnekzICxCfHbIReqqsfprFgWpXc2bMlhXU+q0XyqznpehBXIKmamPereI6Wv/tlvxK+Yw6X23t1kOoXXAjmzZGpTuZGQHd3GtuP1XHozaOsN7UzavSp2K2DboB+lTpqx7Yop7gCc3AzKd8Xkzs3I0Podx2gH3TmCRVKrKltjFqlX7OGAKpJmtnfpsj0iIOHv+7HlPkmnXPtjD3iRioN3hS0h1xKrRQ7Ip9wImj5tyLog/sCgJWTA8Gl1hZDIXG39Yl/CXK5dZ08ip0LojsbpxUnoMG+He85RtPlSrc31rwq/rXhrxe7+4U=;XLG8xiGlsAVDCp9Zefw6xg=="
+images:
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg"
+    width: 350
+    height: 455
+    isCached: true
+
+secured: "r5r/vcC5T1seVpo2XB8w7B+MOPUENmMSkn0oSGtQ/7ddJfFC2IvBaCn4RFBXbkUCDhN8APV2yFiZbTgtoYSMKMPUceA/c1OtAi+iW7KAkMDkFEaIzwIbW+6Iv4vPY6+ICeWG5m/gV+cFvxNlVGEiNr4AQ3/vEZm/4hyoYP+NZPIfy837pi61XCXFfNLu8LTHkB3mdtYXLwAQPtD+qds1kPSxaQmlFw18sllIiub6fUvWkhENTT7qsRreBxo6MfWBOjrqF1W/waU1YFMxDEhwbAc86DluGN23gl2ttmezyrk39Z51p5wYxClT68fRGy0r630EzsQ/7g59lrHedlOAFI4o4L9VZDAxJtsRMC1OlSo=;boUS+oUj5rqqmc/+AHTaVQ=="
 ---
 

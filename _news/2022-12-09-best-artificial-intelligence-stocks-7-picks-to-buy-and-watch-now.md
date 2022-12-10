@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-08T23:10:00Z
 originalUrl: "https://www.aol.com/best-artificial-intelligence-stocks-7-211025391.html"
 webUrl: "https://www.aol.com/best-artificial-intelligence-stocks-7-211025391.html"
 type: article
-quality: 39
+quality: 43
 heat: -1
 published: false
 
@@ -17,6 +17,8 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
+  - IBM AI
 
 images:
   - url: "https://s.yimg.com/ny/api/res/1.2/7VCi8GD_LbeLUonbPT3nXg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/234b65fd65c1a66bcc0af1e622388462"

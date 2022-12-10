@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/google-brings-machine-learning-to-online-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-brings-machine-learning-to-online-spreadsheets-with-simple-ml-for-sheets/amp/"
 type: article
 quality: 100
-heat: 122
+heat: 120
 published: true
 
 provider:

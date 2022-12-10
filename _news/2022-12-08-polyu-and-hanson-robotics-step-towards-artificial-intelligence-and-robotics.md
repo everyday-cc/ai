@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/polyu-and-hanson-robotics-step-toward
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/polyu-and-hanson-robotics-step-towards-artificial-intelligence-and-robotics/amp/"
 type: article
 quality: 88
-heat: 89
+heat: 88
 published: true
 
 provider:

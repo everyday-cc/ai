@@ -22,38 +22,38 @@ topics:
   - AI
 
 related:
-  - title: "Twelve Labs raises $12M for its AI-powered video search platform"
-    excerpt: "Twelve Labs Inc., the developer of a search platform that enables users to quickly find moments of interest in a video, has raised $12 million from investors. Twelve Labs announce"
-    publishedDateTime: 2022-12-05T18:14:00Z
-    webUrl: "https://siliconangle.com/2022/12/05/twelve-labs-raises-12m-ai-powered-video-search-platform/"
+  - title: "Jumping on the AI self-portrait trend? Here’s what cyber security experts are warning."
+    excerpt: "Lensa AI is the hottest app at the moment with over five million downloads already this month, using facial photos to create avatars. Cyber security experts are concerned that it could make it easier to find people."
+    publishedDateTime: 2022-12-10T00:02:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/jumping-on-the-ai-self-portrait-trend-here-s-what-cyber-security-experts-are-warning-156881477556"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo156881477556"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo156881477556"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
+      name: NBC News
+      domain: nbcnews.com
+    quality: 96
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/image-1.png"
-        width: 1300
-        height: 700
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2022_12/1670630474538_nn_sse_ai_self_portraits_what_to_know_221209_1920x1080-0ne2qz.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Cardiosense, Inc., Completes $15.1 Million Series A Financing to Advance Artificial Intelligence Platform for Heart Disease"
-    excerpt: "Cardiosense, Inc., a Chicago-based digital health company leveraging artificial intelligence and multi-sensor devices to enable early detection of cardiovascular disease, announced today that it has raised $15."
-    publishedDateTime: 2022-12-08T19:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cardiosense-inc-completes-15-1-million-series-a-financing-to-advance-artificial-intelligence-platform-for-heart-disease-1031961374"
+  - title: "Skeptics Address Privacy and Security Concerns With Viral Artificial Intelligence Self-Portrait Generator"
+    excerpt: "Some professionals and users are questioning what the Lensa AI app actually does after users upload their selfies and photos into the database."
+    publishedDateTime: 2022-12-07T21:35:00Z
+    webUrl: "https://www.blackenterprise.com/skeptics-think-the-viral-ai-self-portrait-generator-might-be-a-little-shady/"
+    ampWebUrl: "https://www.blackenterprise.com/skeptics-think-the-viral-ai-self-portrait-generator-might-be-a-little-shady/amp/"
+    cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/skeptics-think-the-viral-ai-self-portrait-generator-might-be-a-little-shady/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
-  - title: "Twelve Labs Raises $12 million To Take AI Video Search To The Next Level"
-    excerpt: "Twelve Labs has secured an additional $12 million seed capital to build out a sophisticated AI video search system."
-    publishedDateTime: 2022-12-05T18:35:00Z
-    webUrl: "https://techreport.com/software/3487524/twelve-labs-raises-12-million-to-take-ai-video-search-to-the-next-level/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 16
+      name: Black Enterprise
+      domain: blackenterprise.com
+    quality: 76
+    images:
+      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2022/12/Screen-Shot-2022-12-07-at-3.02.34-PM-1024x694.png"
+        width: 1024
+        height: 694
+        isCached: true
 
 secured: "i2d2w1YAd7yGlEIW1SVk70NG5kKMyFdtzTn60TD9UJHBbWGTnRGAaT3XSchR/pztuJAeeC2H8B5WdPfzAJDb4sfnoCheu0/nezTezFw6Ue3rEE28R9zmf1LOzsLJpF5jdZGE4rPXSSVUKi1qDVIIQCo1auqDHDkZKjgqSGo+uXgaThZsr67GUpZBPeigtSoeEnPeCslTMzC9HxNuVe4d0tWnyWn/MNG0XZmbPiHfQ9f72Gw1i+AkimieJojVHwWYUBIGBU9HawkyDeTHXbU1YfbLbOjLa2ZGsW3bgG/rI17w4syE90B1PqWdQWyun/JmScP1dMdxfXo4JFpAcZPQEJD2I4sgMlEsaHbcui2ZPa2U4Q1IiDrG1MlZQbOFANlXJ/0OWzleciPS96v9WKauUjE38h2G00BuXZ3/EMfILbBOi6TPt5lNu5Oqs2Qx5b7lMopdJuOljfWtt/biSqPfJLJWgX4vLkGwZod4RdUo/AfErMtqaPYw0SrV6y3co1lPNULc8dPtcP7Wh9Vl6+zJGQ==;RDlN2z6JXdFSqATw1ZTfcQ=="
 ---

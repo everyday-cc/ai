@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-12-10-how-facial-recognition-allowed-the-chinese-government-to-target-minority-groups.md",
-      "title": "How facial recognition allowed the Chinese government to target minority groups",
-      "excerpt": "Journalist Alison Killing explains her investigation in Xinjiang, China, where the government has used facial recognition cameras to track Uyghurs and detain them in camps across the region.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wuwm.com/health-science/health-science/2022-12-09/how-facial-recognition-allowed-the-chinese-government-to-target-minority-groups",
-      "originalUrl": "https://www.wuwm.com/health-science/health-science/2022-12-09/how-facial-recognition-allowed-the-chinese-government-to-target-minority-groups",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2020/03/04/manoush-zomorodi_bio_photo-1_vert-bf366cf2e0a689ea87422c5de657f381d9d43437.jpg",
-          "width": 2096,
-          "height": 2794,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wuwm.com/health-science/health-science/2022-12-09/how-facial-recognition-allowed-the-chinese-government-to-target-minority-groups?_amp=true",
-      "cdnAmpWebUrl": "https://www-wuwm-com.cdn.ampproject.org/c/s/www.wuwm.com/health-science/health-science/2022-12-09/how-facial-recognition-allowed-the-chinese-government-to-target-minority-groups?_amp=true",
-      "publishedDateTime": "2022-12-09T10:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WUWM",
-        "domain": "wuwm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-09-face-recognition-technology-market-size-trends-and-forecast-2028-with-top-countries-data.md",
       "title": "Face Recognition Technology Market Size, Trends and Forecast 2028 with Top Countries Data",
       "excerpt": "\" Face Recognition Technology Market \" Insights 2022 - By Applications (Emotion Recognition, Law Enforcement, Surveillance, and Monitoring), By Types (2D Facial Recognition, 3D Facial Recognition, Thermal Facial Recognition),",
@@ -1402,6 +1359,49 @@
         "Computer Vision",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-11-23-a-simpler-path-to-better-computer-vision.md",
+      "title": "A simpler path to better computer vision",
+      "excerpt": "A simpler path to better computer vision Date: November 23, 2022 Source: Massachusetts Institute of Technology Summary: Research finds using a large collection of simple, un-curated synthetic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221123125132.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221123125132.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

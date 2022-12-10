@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2022/12/07/tesla-self-driving-claims-failure-r
 webUrl: "https://electrek.co/2022/12/07/tesla-self-driving-claims-failure-realize-long-term-aspirational-goal-not-fraud/"
 type: article
 quality: 73
-heat: 94
+heat: 93
 published: true
 
 provider:

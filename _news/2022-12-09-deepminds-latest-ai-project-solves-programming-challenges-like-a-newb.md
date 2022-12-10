@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/science/2022/12/deepminds-latest-ai-project-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2022/12/deepminds-latest-ai-project-solves-programming-challenges-like-a-newb/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 125
 published: true
 
 provider:
