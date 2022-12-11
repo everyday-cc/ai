@@ -27,29 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla says it is adding radar in its cars next month amid self-driving suite concerns"
-    excerpt: "Tesla told the FCC that it plans to market a new radar starting next month. The move raises even more concerns about self-driving concerns."
-    publishedDateTime: 2022-12-07T02:25:00Z
-    webUrl: "https://electrek.co/2022/12/06/tesla-radar-car-next-month-self-driving-suite-concerns/"
+  - title: "Kodiak Robotics Wins Army Self-Driving Contract"
+    excerpt: "Kodiak Robotics Inc., a self-driving technology company active in trucking, announced in a blog post this month that the Army and the Defense Innovation Unit (DIU) selected it for a 24-month, $49.9 million agreement to adapt its self-driving platform,"
+    publishedDateTime: 2022-12-07T15:11:00Z
+    webUrl: "https://www.ttnews.com/articles/kodiak-robotics-wins-army-self-driving-contract"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 62
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 56
     images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Autopilot-Radar-e1603395743425.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2022-12/Kodiak-1200.jpg"
+        width: 470
+        height: 246
         isCached: true
-  - title: "Payne: Riding along with my self-driving Tesla student driver"
-    excerpt: "Payne's Model 3 carries Full Self Driving, Tesla's ambitious software that enables the car to drive itself on public roads, an upgrade over Autopilot."
-    publishedDateTime: 2022-12-10T03:00:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2022/12/10/payne-rides-along-with-his-self-driving-tesla-student-driver/69710439007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 19
 
 secured: "D0K9BSBIw9p0KkSUtuJRH1dN9IW5lgZRfah0R4n4UF788m6Rtm5+hhKIvSHJGzS5dri5vivyMnR8+GnaSjA7DG/HlH3XobBy5kDnd5vRCfgt4Olb/6fZtG4Xr+79VU0wbZH72/JeRxVZ316KImV5Kvsj0I2gT078CRyTWc+J0BToS0RjNXm8rqZRbT0RSdfKxjQBNeo8TXgIEAQ4bcc+ITd/6sWEfJBu1rigGMPHwNaBLERAzmxz0A99lu+mJgDs4hBsGW/4MFQJIlCPqC2jR+DUtxPh3Fl7RGRgsY2C2OM3ui5U1a4j4i1H7JdbQPi9F74J53+NichY3gDIRGpCjhSwf9bcJXI5bCS/uMpoOc0ZrYHUXCelwEuBTxdyCQsHVceRkZ0kAZ5l4hEb/t5jg26BYa2Fe6wOeMJq6hPgQ1UzXKf+nVOzq/fY7uB+4HLKBGPdjGJl/dFMO8h2EbxX8KLssx6xogSthQOd+x57FtoBKDms1xMCjkq7hMW/f/1IEGuWnVLv8itnc+W3WCAyJw==;a0rWm5WPlRcQLqnQHyOOAA=="
 ---

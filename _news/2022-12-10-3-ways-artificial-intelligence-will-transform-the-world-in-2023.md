@@ -46,6 +46,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Software ate the world. Now it’s AI’s turn"
+    excerpt: "The CEO of Microsoft-owned GitHub says the sheer complexity of a world dominated by software code means AI is needed to help fill the tech skills gap."
+    publishedDateTime: 2022-12-11T18:00:00Z
+    webUrl: "https://www.afr.com/chanticleer/software-ate-the-world-now-it-s-ai-s-turn-20221209-p5c53y"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 39
+    images:
+      - url: "https://static.ffx.io/images/$zoom_1.0779%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1621%2C$y_887/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/7d7afd1600cc8ceaaa0890d16605846b0c0e9c14"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "+WWVVIDkEKfzRU0RSWgr0R0xY2KvmaYXyLb/V6jZC2MVep7Hnkin2APYYtcBrMN1Tm2zcMwTGaF59S9LWJ6xMRaQ510e/JQgaOmMKj5cNT+XEh4jVEaqtUWzPiqKfn/vIsYBRrArlnI/HPaHWPJl3l7pWvIfKPeQZYQV7xI7Nq0C+m/7JoipU5vukT6lXzz2pNqoXpDslKBEdthiPmRP2V1ExnzmW8RTpVfQz/GHijomcq+UAmepoO4lMV45DusJ+SHtwy2MyXd8mOFovR3oJorZ9m5C3fQqGTG+cIRaik9HHmcH1z8p5fFAGven7n/APp07bS/gT7/YjhGJfQe/LyEiRiRydPHWVaSRaQ5LFAxUzqI8/9QTtaDTbpd5BXXSSdcM97mimfOTzAGgPcusyNK0vJZ1MK3l2uoPlI8TUwljWMwYV6iH2qkejprYIvFbVWvt2CsMRgWqGCdI2IJbI7g1fFrHn6SLbhRZTe13eKmZNUIBFZWBjsVVSbZ0AARVfem/bCOZPdLyBVc7MuomGA==;1swG4LSlP7gupQHDnUzScw=="
 ---

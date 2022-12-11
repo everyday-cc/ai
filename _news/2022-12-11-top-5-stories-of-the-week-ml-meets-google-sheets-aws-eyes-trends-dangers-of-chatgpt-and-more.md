@@ -5,10 +5,12 @@ excerpt: "This week brought new twists on established products as Google rolled 
 publishedDateTime: 2022-12-10T19:07:00Z
 originalUrl: "https://venturebeat.com/ai/top-5-stories-of-the-week-ml-meets-google-sheets-aws-eyes-trends-dangers-of-chatgpt-and-more/"
 webUrl: "https://venturebeat.com/ai/top-5-stories-of-the-week-ml-meets-google-sheets-aws-eyes-trends-dangers-of-chatgpt-and-more/"
+ampWebUrl: "https://venturebeat.com/ai/top-5-stories-of-the-week-ml-meets-google-sheets-aws-eyes-trends-dangers-of-chatgpt-and-more/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-5-stories-of-the-week-ml-meets-google-sheets-aws-eyes-trends-dangers-of-chatgpt-and-more/amp/"
 type: article
-quality: 54
-heat: 54
-published: false
+quality: 94
+heat: 94
+published: true
 
 provider:
   name: VentureBeat
@@ -23,6 +25,12 @@ topics:
   - AI
   - Machine Learning
 
-secured: "ttDAtxXAq8hYRHBmmhH4jkt3u+F9btszsC4ajPQx0P+aKjQqJNTxIZHnNl1gXJsgHYsaN3q+sYl0l6SG3zBjvyAP/tYwUckr0QiTOoiyS/bkbAdoF9c2mibCXO2/zQ9Vk6kl3z+u7QbuNxVTPG+4o9GbExq+NgOuq3KsNiNxig8vmCzgGJtrCJNdNI9lanz1Jz1ZcLn06OmymXmC9s3aqA2hQ/Y3rdDWLZFawTAoH4+CgmCtHvn52YagV4Hw3rFqIHPH39LT7ZL1b99hkN93rEM1oX3aBWBW6YTLT5vIrJgaZ8YJYs8PRnLPcHLVt0q9CsCC3Fq0Rilb7P14hDKtIbi3EN6cHwVcoENGaGETglk=;eeXvGaB8L8dD5qgkfxdxuA=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2022/12/number_5.jpg?w=1200&strip=all"
+    width: 1200
+    height: 900
+    isCached: true
+
+secured: "3dUrq/S4sn8cSKkdrf1F+Htlpj0grdIytq/5vS5vG+sNaxhXj+F4N/EejOZhgax0kofRfmkQzNcszXaEXSQtIyumzuoS9cK2BRA+8OC58zdUh/E1iMekprEAtsrEURgDg20+2D6ZFEWa45m51gQyJYUDvWrSw3RkC7bjd/quvbqfdMlDVj7WH6w2GtWRsuO6LeG1xtEcS8DdjLF3kfNypXkcVAJwreDS88/rX6J7q9Yia7ic9jNJQ2nbFC6JDt/i0E08NIfbZyTpA87Ey0rZrmkJc60EreOyaGjVGzDKTz+4FwOqBtlYy/BrMGLtzgonFOH5V3/NeGXCKJmKraYoKWifoQgSU5VdrhNtqbH+Lgc=;L9+Jg/6z+F6xXkkHzPtWRg=="
 ---
 

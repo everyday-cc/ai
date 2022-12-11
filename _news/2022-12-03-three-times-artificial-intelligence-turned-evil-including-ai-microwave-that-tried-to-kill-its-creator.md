@@ -1,32 +1,28 @@
 ---
 category: news
 title: "Three times artificial intelligence turned ‘evil’ – including AI microwave that tried to kill its creator"
-excerpt: "ARTIFICIAL intelligence has been making serious progress in recent years, although not all of its achievements are necessarily positive. Sometimes, AI can make human functions and our daily lives"
-publishedDateTime: 2022-12-02T20:09:00Z
-originalUrl: "https://www.thesun.co.uk/tech/20635592/three-times-artificial-intelligence-turned-evil/"
-webUrl: "https://www.thesun.co.uk/tech/20635592/three-times-artificial-intelligence-turned-evil/"
-ampWebUrl: "https://www.thesun.co.uk/tech/20635592/three-times-artificial-intelligence-turned-evil/amp/"
-cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/20635592/three-times-artificial-intelligence-turned-evil/amp/"
+excerpt: "ARTIFICIAL intelligence has been making serious progress in recent years, although not all of its achievements are necessarily positive. Sometimes, AI can make human functions and our daily lives ..."
+publishedDateTime: 2022-12-02T23:27:00Z
+originalUrl: "https://www.thesun.ie/tech/news-tech/9840764/three-times-artificial-intelligence-turned-evil/"
+webUrl: "https://www.thesun.ie/tech/news-tech/9840764/three-times-artificial-intelligence-turned-evil/"
+ampWebUrl: "https://www.thesun.ie/tech/news-tech/9840764/three-times-artificial-intelligence-turned-evil/amp/"
+cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/news-tech/9840764/three-times-artificial-intelligence-turned-evil/amp/"
 type: article
-quality: 57
-heat: 57
-published: false
 
 provider:
-  name: The Sun
-  domain: thesun.co.uk
+  name: Irish Sun
+  domain: thesun.ie
 
 topics:
-  - AI in Robotics
-  - AI
   - AI in Autos
+  - AI
 
 images:
-  - url: "https://www.thesun.co.uk/wp-content/uploads/2022/12/KS-killer-ai-op.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+  - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2022/12/KS-killer-ai-op.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
     width: 1920
     height: 1080
     isCached: true
 
-secured: "mqWHsrZHycTpca8eIREIJbEK4ZUZRt0mmoaLK4AldI3h9wA4IW5e2G5yysBAuGwgiuY+sWRsptWIBUAdtvHUTAmCI/lg7RHa65JysvpxthO86sl7nQoj77yohTa2tgbg/re9SWfq5Iq8QbFH6cL9zQGJ+LXS02kfy2/Dp2VUTofENav+bLINhiNv5eaI53LDEjPMSJNsBE2jeiaSVxwdCDMILV642zgaX+pULO3hzIH4cd5cNpHzFaeJZO7teHa4c3tIKrwMontUoqRXE6Rmt+nBlssSlzHBggbScDghIu1C9r9Yd00AsHx/aN0xWZh2OoBeal1iHDOZzPZ9T4CS881buvnTwquUvGAwmKb0YCQ=;WvAbJ4QQ19fIEtyEq2kRtQ=="
+secured: "a82uHv8qMub9GSThEK5PndEu3vuvTZqjs2Pgub9mNt34VYywB3MW2W6Uy90K0gaH4TD/4zH0tTdMfSu1e/4CvzSn1iGGlQmu5kOuhkADT9iCuuDM/2JZiiac1lwdBJGrSam5yPdUjz0eBT1n5++qcwGRxLAVyttukw9KPQcKITaYpvHlxCklKguV0KOAvhuPFQ0QamzcTfDhp38gYVCEpwkJvSyuTSfkf1VBHNyiq+7jwna6EDAVN4/ntr1rlDyYRgpX+hdKayyB3EVGkyLDBQlcg/NpqmhxWtEDXdJMxR32lrkfGwfhvumYpw9RYeRjUOXyk2eJgTxV8wKSqYC+YyNZq9JbWUnNmtj06XmCcYg=;8IAj3yiScDGy2Ok25t719g=="
 ---
 

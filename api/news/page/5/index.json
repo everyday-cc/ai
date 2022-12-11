@@ -2,6 +2,151 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-12-06-foursquare-to-power-geospatial-data-visualization-in-amazon-sagemaker.md",
+      "title": "Foursquare to Power Geospatial Data Visualization in Amazon SageMaker",
+      "excerpt": "Foursquare, the leading independent location technology company, exclusively powers data visualization for the new Amazon SageMaker geospatial capabilities announced last week at Amazon Web ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/foursquare-to-power-geospatial-data-visualization-in-amazon-sagemaker/article_05b4e866-819b-5223-b9c6-e076963b7f23.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/foursquare-to-power-geospatial-data-visualization-in-amazon-sagemaker/article_05b4e866-819b-5223-b9c6-e076963b7f23.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg",
+          "width": 350,
+          "height": 455,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T10:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-meta-is-expanding-its-use-of-ai-face-scanning-to-verify-users-age-on-facebook-dating.md",
+      "title": "Meta is expanding its use of AI face scanning to verify users’ age on Facebook Dating",
+      "excerpt": "Facebook is testing ways for people to verify their age when using the platform’s dating app, including using an AI face scanning tool. In a blog post today, Meta announced it would start prompting users on Facebook Dating to verify that they’re over 18 if the platform suspects a user is underage (you must be over 18 to use the dating service).",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/12/5/23494175/facebook-dating-ai-face-scanning-age-verification-expansion-yoti",
+      "originalUrl": "https://www.theverge.com/2022/12/5/23494175/facebook-dating-ai-face-scanning-age-verification-expansion-yoti",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/JNI9XWA_zSfNW0L1lUvgQhNvc8I=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951346/STK040_VRG_Illo_N_Barclay_2_facebook.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T10:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-with-3m-new-funding-egyptian-startup-oneorder-sets-out-on-growth-drive.md",
+      "title": "With $3M new funding, Egyptian startup OneOrder sets out on growth drive",
+      "excerpt": "OneOrder plans to use the funding to scale its operations in Egypt , and to explore growth opportunities within the GCC region, and Africa.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/12/05/with-3m-new-funding-egyptian-startup-oneorder-sets-out-on-growth-drive/",
+      "originalUrl": "https://techcrunch.com/2022/12/05/with-3m-new-funding-egyptian-startup-oneorder-sets-out-on-growth-drive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/12/OneOrder-Team-min.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/12/05/with-3m-new-funding-egyptian-startup-oneorder-sets-out-on-growth-drive/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/05/with-3m-new-funding-egyptian-startup-oneorder-sets-out-on-growth-drive/amp/",
+      "publishedDateTime": "2022-12-05T10:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-why-designing-ai-for-humans-requires-productive-discomfort.md",
       "title": "Why designing AI for humans requires 'productive discomfort'",
       "excerpt": "When the consumer version of Google Glass appeared on the scene in 2014, it was heralded as the start of a new era of human-computer ... Just remember Google Glass when you're thinking about what can AI do -- people have to want it.\"",
@@ -752,6 +897,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-04-artificial-intelligence-in-diagnostics-market-2022-comprehensive-study-by-top-key-players-aidoc-medical-alivecor-ge-healthcare.md",
+      "title": "Artificial Intelligence in Diagnostics Market 2022: Comprehensive Study by Top Key Players Aidoc Medical, AliveCor, GE Healthcare",
+      "excerpt": "Artificial intelligence can support providers in a variety of patient care and smart healthcare systems. Artificial intelligence techniques ranging from machine learning to deep learning are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-diagnostics-market-2022-comprehensive-study-by-top-key-players-aidoc-medical-alivecor-ge-healthcare",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-diagnostics-market-2022-comprehensive-study-by-top-key-players-aidoc-medical-alivecor-ge-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.market-news.org/wp-content/uploads/2022/12/Artificial-Intelligence-in-Diagnostics.jpg",
+          "width": 500,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-04T06:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-04-scientists-facial-recognition-could-help-to-save-rare-seals.md",
       "title": "Scientists: Facial recognition could help to save rare seals",
       "excerpt": "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for it",
@@ -889,6 +1077,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-03-10-best-artificial-intelligence-stocks-under-10.md",
+      "title": "10 Best Artificial Intelligence Stocks Under $10",
+      "excerpt": "In this article, we discuss the 10 best artificial intelligence stocks under $10. If you want to see more stocks in this selection, check out the 5 Best Artificial Intelligence Stocks Under $10.",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/10-best-artificial-intelligence-stocks-under-10-1092529/",
+      "originalUrl": "https://www.insidermonkey.com/blog/10-best-artificial-intelligence-stocks-under-10-1092529/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/04/12052842/neonbrand-5afenxnLDjs-unsplash.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-03T03:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-03-at-neurips-2022-generative-ai-and-llms-are-hot-topics.md",
       "title": "At NeurIPS 2022, generative AI and LLMs are hot topics",
       "excerpt": "At the first week of NeurIPS 2022, generative AI and LLMs were hot topics — along with a Geoffrey Hinton keynote in honor of ImageNet.",
@@ -938,257 +1169,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-12-03-this-ai-powered-fintech-is-making-strides-is-it-time-to-buy.md",
-      "title": "This AI-Powered Fintech Is Making Strides: Is It Time to Buy?",
-      "excerpt": "Lemonade is on a mission to reimagine the insurance business. It leverages artificial intelligence (AI) to help people buy renters, homeowners, pet, and car insurance with just a few questions ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/12/02/this-ai-powered-fintech-is-making-strides-is-it-ti/",
-      "originalUrl": "https://www.fool.com/investing/2022/12/02/this-ai-powered-fintech-is-making-strides-is-it-ti/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-02T16:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-03-dataai-mobile-gaming-starts-to-wane-after-pandemic-spike.md",
-      "title": "Data.ai: Mobile gaming starts to wane after pandemic spike",
-      "excerpt": "Data.ai's latest report shows that mobile games are declining, but the numbers are still higher than they were pre-pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/data-ai-mobile-gaming-starts-to-wane-after-pandemic-spike/",
-      "originalUrl": "https://venturebeat.com/games/data-ai-mobile-gaming-starts-to-wane-after-pandemic-spike/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/12/Screen-Shot-2022-12-01-at-9.22.12-AM.png?w=1200&strip=all",
-          "width": 880,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/data-ai-mobile-gaming-starts-to-wane-after-pandemic-spike/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/data-ai-mobile-gaming-starts-to-wane-after-pandemic-spike/amp/",
-      "publishedDateTime": "2022-12-02T16:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-03-the-story-of-neuralink-elon-musks-ai-brain-chip-company-where-he-had-twins-with-a-top-executive.md",
-      "title": "The story of Neuralink: Elon Musk's AI brain chip company where he had twins with a top executive",
-      "excerpt": "He says he started one of them to achieve \"symbiosis\" between the human brain and artificial intelligence ... treatment of the monkeys used in its research. In February 2022, animal-rights ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/neuralink-elon-musk-microchips-brains-ai-2021-2",
-      "originalUrl": "https://www.businessinsider.com/neuralink-elon-musk-microchips-brains-ai-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fcd5470eadd8400183df66e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/neuralink-elon-musk-microchips-brains-ai-2021-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/neuralink-elon-musk-microchips-brains-ai-2021-2?amp",
-      "publishedDateTime": "2022-12-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-12-03-nvidia-and-amd-gpu-prices-could-skyrocket-again-in-2023-heres-why.md",
-      "title": "Nvidia and AMD GPU prices could skyrocket again in 2023. Here’s why",
-      "excerpt": "That could hurt badly, especially since, after several years of rapidly increasing GPU prices and limited availability, graphics cards supplies have somewhat stabilized, along with prices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/nvidia-amd-gpu-prices-could-skyrocket-in-2023/",
-      "originalUrl": "https://www.digitaltrends.com/computing/nvidia-amd-gpu-prices-could-skyrocket-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2021/08/best-1080p-gpu-featured.jpg?p=1",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/nvidia-amd-gpu-prices-could-skyrocket-in-2023/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/nvidia-amd-gpu-prices-could-skyrocket-in-2023/?amp",
-      "publishedDateTime": "2022-12-02T15:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-03-apple-slices-its-ai-image-synthesis-times-in-half-with-new-stable-diffusion-fix.md",
-      "title": "Apple slices its AI image synthesis times in half with new Stable Diffusion fix",
-      "excerpt": "On Wednesday, Apple released optimizations that allow the Stable Diffusion AI image generator to run on Apple Silicon ... SD optimizations can generate a 512×512 50-step image on an M1 chip in 35 seconds. An M2 does the task in 23 seconds, and Apple's ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/12/apple-slices-its-ai-image-synthesis-times-in-half-with-new-stable-diffusion-fix/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/12/apple-slices-its-ai-image-synthesis-times-in-half-with-new-stable-diffusion-fix/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/apple_stable_diffusion_hero_1-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2022/12/apple-slices-its-ai-image-synthesis-times-in-half-with-new-stable-diffusion-fix/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/12/apple-slices-its-ai-image-synthesis-times-in-half-with-new-stable-diffusion-fix/amp/",
-      "publishedDateTime": "2022-12-02T14:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

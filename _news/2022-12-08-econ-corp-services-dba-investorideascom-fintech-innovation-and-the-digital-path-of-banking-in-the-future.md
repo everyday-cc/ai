@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Future Of AI Is Finally Here – And A Lot Of People Are Going To Be Out Of A Job"
+    excerpt: "For years, folks have been talking about the coming AI revolution, about how it’s going to change everything, and about how it is going to cost a lot of people their jobs. Well, the future is now – and business leaders need to take note."
+    publishedDateTime: 2022-12-11T17:55:00Z
+    webUrl: "https://www.forbes.com/sites/brycehoffman/2022/12/11/the-future-of-ai-is-finally-here--and-a-lot-of-people-are-going-to-be-out-of-a-job/"
+    ampWebUrl: "https://www.forbes.com/sites/brycehoffman/2022/12/11/the-future-of-ai-is-finally-here--and-a-lot-of-people-are-going-to-be-out-of-a-job/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brycehoffman/2022/12/11/the-future-of-ai-is-finally-here--and-a-lot-of-people-are-going-to-be-out-of-a-job/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/639618d36b2bd6c01b620ebf/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Fintech: 4 Essential Skills To Achieve Success In The Industry"
     excerpt: "What you need to succeed, however, are the right skills in the fast-expanding fintech sector. You may use your current skills to get a job in fintech whether you've recently graduated or looking to switch careers."
     publishedDateTime: 2022-12-07T11:03:00Z

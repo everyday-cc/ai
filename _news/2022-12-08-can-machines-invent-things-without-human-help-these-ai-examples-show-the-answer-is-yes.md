@@ -41,6 +41,22 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "Can machines invent new things without human help? Yes, they already have"
+    excerpt: "Artificial intelligence could reduce the time and costs associated with inventing, while increasing the technical depth of inventions."
+    publishedDateTime: 2022-12-11T18:00:00Z
+    webUrl: "https://scroll.in/article/1039326/can-artificial-intelligence-invent-new-things-without-human-help-yes-it-already-has"
+    ampWebUrl: "https://amp.scroll.in/article/1039326/can-artificial-intelligence-invent-new-things-without-human-help-yes-it-already-has"
+    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1039326/can-artificial-intelligence-invent-new-things-without-human-help-yes-it-already-has"
+    type: article
+    provider:
+      name: Scroll
+      domain: scroll.in
+    quality: 43
+    images:
+      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/184063-xuflmfghbz-1670499652.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Not Even AI Can Beat the Market These Days"
     excerpt: "A tireless machine able to digest all information and immune to biases should be clearly superior to humans when it comes to investing. Except it’s not."
     publishedDateTime: 2022-12-09T11:32:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-natural-language-
 webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-share-size-and-forecast-till-2028-2022-12-07"
 type: article
 quality: 78
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence In Military Market Size: Global Revenue, Volume, Market Revenue and Market status Forecast from 2022 - 2028."
+    excerpt: "The \" Artificial Intelligence In Military Market \" has taken a step to understand the consumer base with consumer's preferences and aims to do the needful 2022 to 2028. Talking about the reports and data analysis,"
+    publishedDateTime: 2022-12-09T14:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-size-global-revenue-volume-market-revenue-and-market-status-forecast-from-2022---2028-2022-12-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Food and Beverage Market : Share, Industry Size, Opportunities, Analysis and Forecast to 2028 with Top Countries Data"
     excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence in Food and Beverage Market will have significant change from previous year. By the m"
     publishedDateTime: 2022-12-09T12:55:00Z

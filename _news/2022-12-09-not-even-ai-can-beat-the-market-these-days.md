@@ -34,6 +34,22 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "Can machines invent new things without human help? Yes, they already have"
+    excerpt: "Artificial intelligence could reduce the time and costs associated with inventing, while increasing the technical depth of inventions."
+    publishedDateTime: 2022-12-11T18:00:00Z
+    webUrl: "https://scroll.in/article/1039326/can-artificial-intelligence-invent-new-things-without-human-help-yes-it-already-has"
+    ampWebUrl: "https://amp.scroll.in/article/1039326/can-artificial-intelligence-invent-new-things-without-human-help-yes-it-already-has"
+    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1039326/can-artificial-intelligence-invent-new-things-without-human-help-yes-it-already-has"
+    type: article
+    provider:
+      name: Scroll
+      domain: scroll.in
+    quality: 43
+    images:
+      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/184063-xuflmfghbz-1670499652.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Can machines invent things without human help? These AI examples show the answer is ‘yes’"
     excerpt: "The question of whether artificial intelligence (AI) can invent is nearly 200 years old, going back to the very beginning of computing. Victorian mathematician Ada Lovelace wrote whats generally considered the"
     publishedDateTime: 2022-12-08T10:44:00Z

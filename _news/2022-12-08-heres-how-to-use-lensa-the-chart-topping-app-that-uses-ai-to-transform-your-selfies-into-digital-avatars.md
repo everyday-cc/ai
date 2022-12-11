@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnbc.com/amp/2022/12/07/lensa-app-turns-selfies-into-ava
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/12/07/lensa-app-turns-selfies-into-avatars-with-artificial-intelligence.html"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: CNBC
@@ -30,35 +30,35 @@ images:
     isCached: true
 
 related:
-  - title: "UPDATED: It’s way too easy to trick Lensa AI into making NSFW images"
-    excerpt: "Lensa has been climbing the app store hit lists with its avatar-generating AI that is making artists wave the red flag. Now there’s another reason to fly the flag: As it turns out, it’s possible — and way too easy — to use the platform to generate non-consensual soft porn."
-    publishedDateTime: 2022-12-07T01:05:00Z
-    webUrl: "https://techcrunch.com/2022/12/06/lensa-goes-nsfw/"
-    ampWebUrl: "https://techcrunch.com/2022/12/06/lensa-goes-nsfw/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/06/lensa-goes-nsfw/amp/"
+  - title: "Lensa: The Trendy Photo App Celebrities are Using is Storing People’s Data"
+    excerpt: "Lensa, a photo editing app, has seen a huge rise in popularity as people post AI-generated avatars using the app's latest 'Magic Avatars' feature. For an"
+    publishedDateTime: 2022-12-09T08:12:00Z
+    webUrl: "https://propakistani.pk/2022/12/09/lensa-the-trendy-photo-app-celebrities-are-using-is-storing-peoples-data/"
+    ampWebUrl: "https://propakistani.pk/2022/12/09/lensa-the-trendy-photo-app-celebrities-are-using-is-storing-peoples-data/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2022/12/09/lensa-the-trendy-photo-app-celebrities-are-using-is-storing-peoples-data/amp/"
     type: article
     provider:
-      name: YAHOO!News
-      domain: techcrunch.com
-    quality: 87
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 42
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/12/Lensa-AI-shoulder-Large.jpeg?resize=1200,675"
-        width: 1200
-        height: 675
+      - url: "https://propakistani.pk/wp-content/uploads/2022/12/AI-Art-1.jpg"
+        width: 1000
+        height: 560
         isCached: true
-  - title: "Lensa AI Created a Viral Meme, But How Legal Is It?"
-    excerpt: "Social media has been inundated with AI-generated selfie portraits from Lensa AI's new magic avatar feature. Now, artists cite it as another example of how AI technology is engaging in copyright infri"
-    publishedDateTime: 2022-12-08T21:41:00Z
-    webUrl: "https://www.law.com/legaltechnews/2022/12/08/lensa-ai-created-a-viral-meme-but-how-legal-is-it/"
+  - title: "What’s The Lensa AI Craze About, Who’s Using It, And What Do Its Critics Say?"
+    excerpt: "To sum up, AI produces unique images based on the principles derived from data, but it can’t ideate and imagine things on its own. As cinema didn’t kill theater and accounting software hasn’t eradicated the profession, AI won’t replace artists but can become a great assisting tool"
+    publishedDateTime: 2022-12-07T21:11:00Z
+    webUrl: "https://uproxx.com/culture/how-to-make-an-ai-magic-avatar-selfie-lensa/"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 41
+      name: Uproxx
+      domain: uproxx.com
+    quality: 36
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2022/12/Artificial-Intelligence-Portrait-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://uproxx.com/wp-content/uploads/2022/12/AI2-grid-uproxx.jpg?w=710"
+        width: 710
+        height: 400
         isCached: true
 
 secured: "8B8Pa9d2jHyJAW/ZUhaZmjoUzdwKIbh4fvYUKnN1LdbUdfHbYJiMYVJNNYDpwZL3VpGsf7gmq9ef0NdZc2l8qii/28ulCuw8fwzSQQZOO7xXvW9UhBsSYpa1ZNCLDIreIt1EH6gifcqbevlUOlKmX7Zohc9HSihQkpK5wtscWQKtB4IfhwGD/jpVIedkk9i6GG9kFnTR6mqXTPG4uF+vtv6IIfBzIjlQLsGKyEa7LY9b+35D8hFE+JeSR3mjDO1QSELP/DIjOIe6WjHnlh6dIhz8ktr3hr4vmpqC5/PmKeFpgu+bhcoj6pi36exvKdrIxywmSozfrtYIJK9PCKNoaVlfHXLm5vpWu+r3uxiHWqLCtkB2pe3OTl+JrWHRM+TsEpvtRZbrJ7wUnMEC+Gx3Lz+s3GNCWr1biWQpqXxDFcuZVMmr5khEVqGe3fcDBsew+W2pRiEwboZ5z8n7Kd1bXH/Wm5w8t8S0m+fvA3F7WXKdqld8kNUnffk0XIEtSYPlfVLDPi3ctANL9WxWciZPhQ==;cccJYXycnSYwA7avgrFz1A=="

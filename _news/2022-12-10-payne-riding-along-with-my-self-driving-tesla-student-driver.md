@@ -19,35 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Tesla says it is adding radar in its cars next month amid self-driving suite concerns"
-    excerpt: "Tesla told the FCC that it plans to market a new radar starting next month. The move raises even more concerns about self-driving concerns."
-    publishedDateTime: 2022-12-07T02:25:00Z
-    webUrl: "https://electrek.co/2022/12/06/tesla-radar-car-next-month-self-driving-suite-concerns/"
+  - title: "Smoothly driving towards the holy grail of self-driving"
+    excerpt: "Cadillac Escalade promises assistance rather than autonomy, but a highway test drive shows its remarkable capability is a step in the right direction."
+    publishedDateTime: 2022-12-08T18:00:00Z
+    webUrl: "https://www.afr.com/companies/transport/smoothly-driving-towards-the-holy-grail-of-self-driving-20221205-p5c3n7"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 62
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 39
     images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Autopilot-Radar-e1603395743425.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      - url: "https://static.ffx.io/images/$zoom_0.1858%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_85/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/b5f0d31f6474091e6bed8ce2f5b6960cac06732b"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Apple Delays Self-Driving Car Until 2026"
-    excerpt: "Apple Inc. has postponed the target launch of its self-driving car by about a year to 2026, Bloomberg reports, citing people familiar with the matter. The project, known internally as Titan, has been in limbo for several months as executives reconcile the project's vision with the fact that current technology simply isn't advanced enough to pull it off."
-    publishedDateTime: 2022-12-07T14:30:00Z
-    webUrl: "https://oilprice.com/Latest-Energy-News/World-News/Apple-Delays-Self-Driving-Car-Until-2026.html"
-    ampWebUrl: "https://oilprice.com/Latest-Energy-News/World-News/Apple-Delays-Self-Driving-Car-Until-2026.amp.html"
-    cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Latest-Energy-News/World-News/Apple-Delays-Self-Driving-Car-Until-2026.amp.html"
-    type: article
-    provider:
-      name: Crude Oil Prices
-      domain: oilprice.com
-    quality: 44
-    images:
-      - url: "https://d32r1sh890xpii.cloudfront.net/news/718x300/2022-12-07_jfh8wmuyto.jpg"
-        width: 718
-        height: 300
         isCached: true
 
 secured: "rHjg5+qtA4QQuw3/SjTkGCipWkIrcOLcy+1/96CGYLoX/2omn9KhlE9yyNVBFKoChv6J2YB22bPI/EADTTLX5zFtRmqwpnaxiyGmkYbTyTG3oigdjGVfAqJur+q5oOzXNaA7/nQyPI9TBgp2fCtstc9ZnVX/wmKPoX0wHFmeNjtGIWAzlpBlRxcaGXhc4Mbm5ZXOEeo3atr4cfwRkPZjgWcW/TCQHTUNtjNAEZot2kR04QG1jVvomDWDaRIewjlJs30Rs1m3X60pXIjZHfmKZVmZl2//wl29s9IJwyUL5/1KQ2CSkmm4pmEkiXcwpWmQQdeVmeEZgZByRWzJYGo+CPMJ3JodPHUJeZXFsuD0uK0=;rpwbAy1kpYkvIFKuPqUVug=="

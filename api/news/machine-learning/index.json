@@ -90,6 +90,59 @@
       ]
     },
     {
+      "path": "_news/2022-12-11-top-5-stories-of-the-week-ml-meets-google-sheets-aws-eyes-trends-dangers-of-chatgpt-and-more.md",
+      "title": "Top 5 stories of the week: ML meets Google Sheets, AWS eyes trends, dangers of ChatGPT and more",
+      "excerpt": "This week brought new twists on established products as Google rolled out a beta version of Simple ML for Sheets, its cloud-based spreadsheet -- and much more.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-ml-meets-google-sheets-aws-eyes-trends-dangers-of-chatgpt-and-more/",
+      "originalUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-ml-meets-google-sheets-aws-eyes-trends-dangers-of-chatgpt-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/12/number_5.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-ml-meets-google-sheets-aws-eyes-trends-dangers-of-chatgpt-and-more/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-5-stories-of-the-week-ml-meets-google-sheets-aws-eyes-trends-dangers-of-chatgpt-and-more/amp/",
+      "publishedDateTime": "2022-12-10T11:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-12-10-ai-generated-avatars-are-quirky-and-easy-to-make-but-are-they-ethical.md",
       "title": "AI Generated Avatars Are Quirky and Easy to Make, but Are They Ethical?",
       "excerpt": "While AI is a fascinating tool, it comes with its own sets of problems. The neural network used by the app relies on the data from images on the intern",
@@ -142,7 +195,7 @@
       "originalUrl": "https://techxplore.com/news/2022-12-machines-human-ai-examples.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -1405,58 +1458,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-disneys-new-neural-network-can-change-an-actors-age-with-ease.md",
-      "title": "Disney’s new neural network can change an actor’s age with ease",
-      "excerpt": "Disney researchers have created a new neural network that can alter the visual age of actors in TV or film, reports Gizmodo. The technology will allow TV or film producers to make actors appear ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/11/disney-creates-ai-fountain-of-youth-for-actors/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/11/disney-creates-ai-fountain-of-youth-for-actors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/disney_fran_hero_1-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2022/11/disney-creates-ai-fountain-of-youth-for-actors/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/disney-creates-ai-fountain-of-youth-for-actors/amp/",
-      "publishedDateTime": "2022-11-30T15:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

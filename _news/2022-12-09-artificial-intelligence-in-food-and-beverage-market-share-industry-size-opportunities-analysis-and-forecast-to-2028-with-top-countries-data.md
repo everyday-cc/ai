@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In Military Market Size: Global Revenue, Volume, Market Revenue and Market status Forecast from 2022 - 2028."
+    excerpt: "The \" Artificial Intelligence In Military Market \" has taken a step to understand the consumer base with consumer's preferences and aims to do the needful 2022 to 2028. Talking about the reports and data analysis,"
+    publishedDateTime: 2022-12-09T14:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-size-global-revenue-volume-market-revenue-and-market-status-forecast-from-2022---2028-2022-12-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Computer Networks Market Growth of Leading Players 2023: Future Trends, Regional Demand and Global Share Forecast to 2029"
     excerpt: "Dec 07, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Artificial Intelligence in"
     publishedDateTime: 2022-12-07T06:54:00Z

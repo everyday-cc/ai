@@ -2,6 +2,313 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-12-02-i-interviewed-an-ai-about-the-ethics-of-ai-and-it-lied-to-me.md",
+      "title": "I Interviewed An AI About The Ethics Of AI - And It Lied To Me",
+      "excerpt": "Do you think AI will prove to be a positive development for the world? I am a machine learning model trained to assist with a wide range of tasks, but I do not have the ability to",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-an-ai-about-the-ethics-of-aiand-it-lied-to-me/",
+      "originalUrl": "https://www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-an-ai-about-the-ethics-of-aiand-it-lied-to-me/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6389dcaa5d08cabf3b20296e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-an-ai-about-the-ethics-of-aiand-it-lied-to-me/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-an-ai-about-the-ethics-of-aiand-it-lied-to-me/amp/",
+      "publishedDateTime": "2022-12-02T02:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-top-10-chinese-ai-chip-companies-in-2022.md",
+      "title": "Top 10 Chinese AI chip companies in 2022",
+      "excerpt": "MediaTek Inc grabbed second spot on this year's ranking of top 50 Chinese AI chip companies, followed by Horizon Robotics. Let's take a look at the top 10 Chinese AI chip companies in 2022. Copyright 1995 - 2022 .",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202212/02/WS63892d40a31057c47eba233a.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202212/02/WS63892d40a31057c47eba233a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202212/02/638938f0a31057c4b4b0cb36.jpeg",
+          "width": 698,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-02T01:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-artificial-intelligence-robots-market-share-projections-future-opportunities-recorded-for-the-period-until-2022-2030.md",
+      "title": "Artificial Intelligence Robots Market Share, Projections & Future Opportunities Recorded For The Period Until 2022-2030",
+      "excerpt": "The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-share-projections-future-opportunities-recorded-for-the-period-until-2022-2030-2022-12-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-share-projections-future-opportunities-recorded-for-the-period-until-2022-2030-2022-12-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-02T01:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-nvidia-rtx-6000-gpu-price-leak-confirms-your-worst-fears.md",
+      "title": "Nvidia RTX 6000 GPU price leak confirms your worst fears",
+      "excerpt": "confirms the GPU memory runs 48GB GDDR6 ECC RAM on a 384-bit bus, and boasts fourth-generation Tensor Cores that, says Nvidia, “provide faster AI compute performance, delivering more than 2X the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/nvidia-rtx-6000-gpu-price-leak-confirms-your-worst-fears",
+      "originalUrl": "https://www.techradar.com/news/nvidia-rtx-6000-gpu-price-leak-confirms-your-worst-fears",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/u5cQfLYSiowmqKvnqYQM3H-1200-80.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-02T01:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-artificial-intelligence-in-security-market-research-reports-industry-size-growth-opportunity-regional-analysis-2022-2031.md",
+      "title": "Artificial Intelligence in Security Market Research Reports, Industry Size, Growth Opportunity, Regional Analysis 2022-2031",
+      "excerpt": "The global Artificial Intelligence in Security market is segregated on the basis of Security as Network Security, and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-reports-industry-size-growth-opportunity-regional-analysis-2022-2031-2022-12-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-reports-industry-size-growth-opportunity-regional-analysis-2022-2031-2022-12-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-02T01:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-artificial-intelligence-chipset-market-2022-industry-size-shares-segment-forecast-up-to-2028.md",
+      "title": "Artificial Intelligence Chipset Market 2022 Industry Size, Shares, Segment & Forecast up to 2028",
+      "excerpt": "The global Artificial Intelligence Chipset market report provides geographic analysis covering regions, such as",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-2022-industry-size-shares-segment-forecast-up-to-2028-2022-12-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-2022-industry-size-shares-segment-forecast-up-to-2028-2022-12-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-02T01:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-12-02-government-introduces-digiyatra-facial-recognition-for-entry-into-airports-netizens-call-it-scary-and-dystopian.md",
       "title": "Government Introduces ‘DigiYatra’ Facial Recognition For Entry Into Airports; Netizens Call It Scary And Dystopian",
       "excerpt": "The Ministry of Civil Aviation of the Government of India, has now introduced ‘DigiYatra’, an initiative to make your travel swift and seamless. Flyers will only need to check in with facial recognition that will allow quick airport entry and pre-security check.",
@@ -947,303 +1254,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-ai-could-have-20-chance-of-sentience-in-10-years-says-philosopher-david-chalmers.md",
-      "title": "AI could have 20% chance of sentience in 10 years, says philosopher David Chalmers",
-      "excerpt": "AI programs that combine sensing and action and world models might achieve fish-level intelligence, says the NeurIPS 2022 keynote speaker.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-could-have-20-percent-chance-of-sentience-in-10-years-says-philosopher-david-chalmers/",
-      "originalUrl": "https://www.zdnet.com/article/ai-could-have-20-percent-chance-of-sentience-in-10-years-says-philosopher-david-chalmers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/4540138c5a94e1211ab4775544b48650380c3b89/2022/12/01/9bb85d12-1a32-4015-8f8a-d1f852c5e3cc/david-chalmers-2022-5.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-could-have-20-percent-chance-of-sentience-in-10-years-says-philosopher-david-chalmers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-could-have-20-percent-chance-of-sentience-in-10-years-says-philosopher-david-chalmers/",
-      "publishedDateTime": "2022-12-01T10:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-artificial-intelligence-and-robotics-to-help-early-detect-urinary-tract-infections.md",
-      "title": "Artificial intelligence and robotics to help early detect urinary tract infections",
-      "excerpt": "A team of researchers at the University of Edinburgh and Heriot-Watt University are developing AI and robots to detect urinary tract infections (UTIs) earlier.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hw.ac.uk/news/articles/2022/artificial-intelligence-and-robotics-to-help.htm",
-      "originalUrl": "https://www.hw.ac.uk/news/articles/2022/artificial-intelligence-and-robotics-to-help.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hw.ac.uk/img/Pepper.png",
-          "width": 705,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T09:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Heriot-Watt University",
-        "domain": "hw.ac.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-using-advanced-technology-and-analytics-to-fight-financial-crime.md",
-      "title": "Using Advanced Technology And Analytics To Fight Financial Crime",
-      "excerpt": "Financial services organizations increasingly are using advanced ... to increase efficiency in identifying suspicious activities. Among various analytics, machine learning (ML) has been particularly effective, as it can identify patterns of behavior ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/crowe/2022/12/01/using-advanced-technology-and-analytics-to-fight-financial-crime/",
-      "originalUrl": "https://www.forbes.com/sites/crowe/2022/12/01/using-advanced-technology-and-analytics-to-fight-financial-crime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/637cff7eadf891a4d51a9f12/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/crowe/2022/12/01/using-advanced-technology-and-analytics-to-fight-financial-crime/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/crowe/2022/12/01/using-advanced-technology-and-analytics-to-fight-financial-crime/amp/",
-      "publishedDateTime": "2022-12-01T08:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-new-orleans-reverses-facial-recognition-ban-to-help-police-fight-crime-privacy-experts-are-wary.md",
-      "title": "New Orleans reverses facial recognition ban to help police fight crime; privacy experts are wary",
-      "excerpt": "The City of New Orleans has ended a ban on the use of facial recognition technology by police amid a surge in violent crime. Critics of the move have questions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-help-police-fight-crime-privacy-experts-are-wary",
-      "originalUrl": "https://www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-help-police-fight-crime-privacy-experts-are-wary",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/10/340/340/Louis-Casiano.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-help-police-fight-crime-privacy-experts-are-wary.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-help-police-fight-crime-privacy-experts-are-wary.amp",
-      "publishedDateTime": "2022-12-01T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-aws-ceo-selipsky-we-are-making-cloud-easier-to-use.md",
-      "title": "AWS CEO Selipsky: We Are Making Cloud Easier To Use",
-      "excerpt": "What businesses need from cloud computing is the power to work on their data without having to transport it around between different clouds, different databases and different repositories, different integrations to third-party applications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2022/12/01/aws-ceo-selipsky-we-are-making-cloud-easier-to-use/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2022/12/01/aws-ceo-selipsky-we-are-making-cloud-easier-to-use/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6388600de6a886c1265b6467/0x0.jpg?format=jpg&width=1200",
-          "width": 640,
-          "height": 404,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2022/12/01/aws-ceo-selipsky-we-are-making-cloud-easier-to-use/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2022/12/01/aws-ceo-selipsky-we-are-making-cloud-easier-to-use/amp/",
-      "publishedDateTime": "2022-12-01T07:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-n-ix-obtains-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization.md",
-      "title": "N-iX obtains the Modernization of Web Applications to Microsoft Azure Advanced Specialization",
-      "excerpt": "N-iX, a leading European software development company, has earned the Modernization of Web Applications to Microsoft Azure advanced specialization. It is a validation of the company's deep knowledge and extensive experience in migrating and modernizing production web application workloads and managing app services in Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/n-ix-obtains-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1031948094",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/n-ix-obtains-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1031948094",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T07:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

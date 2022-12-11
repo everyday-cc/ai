@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-11-top-5-stories-of-the-week-ml-meets-google-sheets-aws-eyes-trends-dangers-of-chatgpt-and-more.md",
+      "title": "Top 5 stories of the week: ML meets Google Sheets, AWS eyes trends, dangers of ChatGPT and more",
+      "excerpt": "This week brought new twists on established products as Google rolled out a beta version of Simple ML for Sheets, its cloud-based spreadsheet -- and much more.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-ml-meets-google-sheets-aws-eyes-trends-dangers-of-chatgpt-and-more/",
+      "originalUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-ml-meets-google-sheets-aws-eyes-trends-dangers-of-chatgpt-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/12/number_5.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-ml-meets-google-sheets-aws-eyes-trends-dangers-of-chatgpt-and-more/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-5-stories-of-the-week-ml-meets-google-sheets-aws-eyes-trends-dangers-of-chatgpt-and-more/amp/",
+      "publishedDateTime": "2022-12-10T11:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-12-08-exafunction-supports-aws-inferentia-to-unlock-best-price-performance-for-machine-learning-inference.md",
       "title": "Exafunction supports AWS Inferentia to unlock best price performance for machine learning inference",
       "excerpt": "Across all industries, machine learning (ML) models are getting deeper, workflows are getting more complex, and workloads are operating at larger scales. Significant effort and resources are put into making these models more accurate since this investment directly results in better products and experiences.",
@@ -1408,59 +1461,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-aws-adds-ai-features-to-textract-transcribe-and-kendra.md",
-      "title": "AWS adds AI features to Textract, Transcribe and Kendra",
-      "excerpt": "Amazon Web Services (AWS) on Tuesday added new artificial intelligence (AI) features to some of its services including Textract, Transcribe, Kendra, CodeWhisperer, and HealthLake. The new updates, according to the company,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3681662/aws-adds-ai-features-to-textract-transcribe-and-kendra.html",
-      "originalUrl": "https://www.infoworld.com/article/3681662/aws-adds-ai-features-to-textract-transcribe-and-kendra.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/idgnsImport/2015/08/id-2958856-reinvent_2015_03_keynote_1-100601984-large.jpg?auto=webp&quality=85,70",
-          "width": 700,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3681662/aws-adds-ai-features-to-textract-transcribe-and-kendra.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3681662/aws-adds-ai-features-to-textract-transcribe-and-kendra.amp.html",
-      "publishedDateTime": "2022-11-30T03:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

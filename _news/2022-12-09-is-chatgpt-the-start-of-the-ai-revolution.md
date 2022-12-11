@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Is ChatGPT the Start of the AI Revolution?"
-excerpt: "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skillset. On"
-publishedDateTime: 2022-12-09T12:40:00Z
-originalUrl: "https://www.washingtonpost.com/business/is-chatgpt-the-start-of-the-ai-revolution/2022/12/09/9eb9dfec-77b5-11ed-a199-927b334b939f_story.html"
-webUrl: "https://www.washingtonpost.com/business/is-chatgpt-the-start-of-the-ai-revolution/2022/12/09/9eb9dfec-77b5-11ed-a199-927b334b939f_story.html"
+excerpt: "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skill"
+publishedDateTime: 2022-12-09T10:30:00Z
+originalUrl: "https://www.bloomberg.com/opinion/articles/2022-12-09/is-chatgpt-the-start-of-the-ai-revolution"
+webUrl: "https://www.bloomberg.com/opinion/articles/2022-12-09/is-chatgpt-the-start-of-the-ai-revolution"
 type: article
-quality: 37
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: The Washington Post
-  domain: washingtonpost.com
+  name: Bloomberg L.P.
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TYKMLGDXWUI63IMZSJ5TGS4TT4.jpg&w=1440"
-    width: 1440
-    height: 963
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifzBIsn2zMPo/v1/1200x802.jpg"
+    width: 1200
+    height: 802
     isCached: true
 
 related:
@@ -334,6 +338,6 @@ related:
       domain: newyorker.com
     quality: 4
 
-secured: "7a2wcDZt53y/EFHN6O6dg5BB3/EDV7Jg9jmpQTcvX3v5Rvb8RktNfmWgpLSTlCQuVEV8/zd47PvIhvanIsrwaa+Aw+vDB+p0ebEW+LP14CVI+QTTnKI36KDcHu7iRbl+TDiKyjl9R+URAov5AfQzp3zstOZQC+okowbxe/JaRnJwdjHRxD0POzqWgZqcyZtwxkM5CVX9I8KDd4L+Y5d3VtjjyytYOtVgOFxWD9YZwBDY1KkjuRyZLbZMjQCNYwEtrnXUkzZeQ/6bDlEKRNpMzRqMKkVXQTeqBl7yuUZtAO+bFuLtJV0cpD1+MivoaOR/Zqmf5c0cBDK62M0/O8Ma6oRip6MNKFUfbeyP9h3ddj0=;AADKGAoQmG6FddtGoTYNdw=="
+secured: "6w6aPbBHMHXRS7SvAw1ODN4JdmwJYmnLPtRGpL0pIohcVBiFeIGLcpS0MGi6gKu+JQy5xeW7mj7Sea4EfvZFc7JjudUzNJ7zVKQNi9wfV+xzVYtmltGrWLSXExBod9ot4h6L0TAF07vho8rrRhISWuQI8tabECRl/DXiJ0gFPlItS8E8sdCBsknvTOm6dMegLNcyd56p6Idd/lC+gse65gW+caA9YjKKWWVJBUybhF5peNn/AxoIpc4kui8RFVd6f5dLnU9aQPh10H7Aj6Xp7ftXRppWibN43GTlMy+e4q5c+mlsa+1cjioChs/fncBOkPB+iT7gJ3vy/Iyvu/dZxwHk5jl1o+DB95ltgpgjZj0=;bshlQWa9UI7JHQJCeDRSNQ=="
 ---
 
