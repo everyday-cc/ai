@@ -849,7 +849,7 @@
             "AI",
             "AWS AI"
           ],
-          "heat": 538,
+          "heat": 539,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1587352380454338561/Uav_0HHn_400x400.jpg",
@@ -1502,7 +1502,7 @@
       "twitter": {
         "username": "collectivei",
         "url": "https://twitter.com/collectivei",
-        "followers": 1238
+        "followers": 1237
       },
       "yearFounded": 0,
       "locations": [
@@ -1540,7 +1540,7 @@
       "twitter": {
         "username": "solvemit",
         "url": "https://www.twitter.com/solvemit",
-        "followers": 16694
+        "followers": 16693
       },
       "yearFounded": 0,
       "locations": [
@@ -2138,7 +2138,7 @@
       "twitter": {
         "username": "promobot",
         "url": "https://twitter.com/promobot",
-        "followers": 3144
+        "followers": 3145
       },
       "yearFounded": 2015,
       "locations": [
@@ -2188,7 +2188,7 @@
       "twitter": {
         "username": "pymetrics",
         "url": "https://twitter.com/pymetrics",
-        "followers": 3472
+        "followers": 3471
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
