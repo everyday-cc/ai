@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-natural-language-
 webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-share-size-and-forecast-till-2028-2022-12-07"
 type: article
 quality: 78
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Retail Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028"
-    excerpt: "Retail is a $3.2 trillion global industry and artificial intelligence (AI) is quickly becoming an important part"
-    publishedDateTime: 2022-12-06T11:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-12-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice And Speech Recognition Software Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028"
     excerpt: "The market research study demonstrates the varied and extensive character of the \" Voice And Speech Recognition Software market \" and how the market will develop over the ensuing years. The report emphasizes information obtained 2022 to 2028 regarding the Voice And Speech Recognition Software market."
     publishedDateTime: 2022-12-06T20:36:00Z

@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI Offers Fintech Much More Than Curb Appeal"
-    excerpt: "Ultimately, AI serves as a catalyst for customer-focused products and services. When used in place of antiquated strategies, the ease felt by both the customer and the institution is undeniable and lasting."
-    publishedDateTime: 2022-12-06T12:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/06/ai-offers-fintech-much-more-than-curb-appeal/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Lessons for launching an African fintech in 2023"
     excerpt: "Anyone looking to launch an African start-up in 2023 must be sorely tempted to do so in the fintech space, writes Justin Asher."
     publishedDateTime: 2022-12-07T10:48:00Z

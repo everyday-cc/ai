@@ -1,31 +1,29 @@
 ---
 category: news
-title: "A massive report highlights fundamental problems with facial recognition and how police lie about its uses."
-excerpt: "The anecdote opens a landmark report on facial recognition from the Georgetown Law Center on Privacy & Technology, which found that law enforcement agencies are often using the technology as the sole basis for putting people in jail despite claiming they don’t and despite a growing body of evidence that the technology has serious problems with accuracy and bias."
-publishedDateTime: 2022-12-06T18:55:00Z
-originalUrl: "https://gizmodo.com/facial-recognition-cops-police-sole-basis-arrests-study-1849859483"
-webUrl: "https://gizmodo.com/facial-recognition-cops-police-sole-basis-arrests-study-1849859483"
+title: "Facial recognition attendance for teachers, students in state"
+excerpt: "Uttar Pradesh government has rolled out a facial recognition-based teacher and student attendance monitoring system for public schools in the state."
+publishedDateTime: 2022-12-11T03:09:00Z
+originalUrl: "https://timesofindia.indiatimes.com/city/lucknow/facial-recognition-attendance-for-teachers-students-in-state/articleshow/96143984.cms"
+webUrl: "https://timesofindia.indiatimes.com/city/lucknow/facial-recognition-attendance-for-teachers-students-in-state/articleshow/96143984.cms"
+ampWebUrl: "https://m.timesofindia.com/city/lucknow/facial-recognition-attendance-for-teachers-students-in-state/amp_articleshow/96143984.cms"
+cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/lucknow/facial-recognition-attendance-for-teachers-students-in-state/amp_articleshow/96143984.cms"
 type: article
-quality: 51
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Gizmodo
-  domain: gizmodo.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Indiatimes
+  domain: indiatimes.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3d2dfea7d2f1ffb43d9b27160d2ee8cc.jpg"
-    width: 1200
-    height: 675
+  - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+    width: 1070
+    height: 579
     isCached: true
 
 related:
@@ -59,22 +57,6 @@ related:
         width: 2096
         height: 2794
         isCached: true
-  - title: "Facial recognition attendance for teachers, students in state"
-    excerpt: "Uttar Pradesh government has rolled out a facial recognition-based teacher and student attendance monitoring system for public schools in the state."
-    publishedDateTime: 2022-12-11T03:09:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/lucknow/facial-recognition-attendance-for-teachers-students-in-state/articleshow/96143984.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/lucknow/facial-recognition-attendance-for-teachers-students-in-state/amp_articleshow/96143984.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/lucknow/facial-recognition-attendance-for-teachers-students-in-state/amp_articleshow/96143984.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1070
-        height: 579
-        isCached: true
   - title: "Cops Say They Only Use Facial Recognition for Leads, But It’s Often the Sole Basis for Arrests"
     excerpt: "The anecdote opens a landmark report on facial recognition from the Georgetown Law Center on Privacy & Technology, which found that law enforcement agencies are often using the technology as the sole basis for putting people in jail despite claiming they don’t and despite a growing body of evidence that the technology has serious problems with accuracy and bias."
     publishedDateTime: 2022-12-06T22:55:00Z
@@ -84,6 +66,20 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 57
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3d2dfea7d2f1ffb43d9b27160d2ee8cc.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "A massive report highlights fundamental problems with facial recognition and how police lie about its uses."
+    excerpt: "The anecdote opens a landmark report on facial recognition from the Georgetown Law Center on Privacy & Technology, which found that law enforcement agencies are often using the technology as the sole basis for putting people in jail despite claiming they don’t and despite a growing body of evidence that the technology has serious problems with accuracy and bias."
+    publishedDateTime: 2022-12-06T18:55:00Z
+    webUrl: "https://gizmodo.com/facial-recognition-cops-police-sole-basis-arrests-study-1849859483"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 51
     images:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3d2dfea7d2f1ffb43d9b27160d2ee8cc.jpg"
         width: 1200
@@ -216,6 +212,6 @@ related:
         height: 450
         isCached: true
 
-secured: "6LPIK90DHto0y/xFR7XMB1u1vGqITQDauQCOR6vuZrroIzpsXfy23eeVG+Gy5uTlZj0u/8Mh1FqUwLL7kr1p4sK8eQMEqTDbgC+94YR5ka1uXtemUTDFK52TcJSQRmSOUEjIcKCwiKCJp3b79Px8A9CuVGs9/fT8gEuvg1L/cd/dGxNW6GRF0zMa0X+nyF+qCSWHOUeG/K+9YGbDrNpKTAJMajwvt/MpD2GxvSNbdq5vfXKL/hgFwKDZ647gxif4jynSbYZfo9Vf0UoYYdGUPbpsqb8N6kefIXO6go8uSR17RCckiTHmgEcpkLOQgTq8a8BAcsmZw3gy/pR6VGF72HsISQLr8//ZM0Ql2i9DoALYbX/6GcHey2sAl2XHokTW9qjU9Ae71JUzDZvjnLyMZW1gn7erf4pMunqtWTxEOHXChs6Uh64n8zC5Rmt8qahFhHp5I2cz86jOioQQXQogSfSG6vprsWpBs9bGbH4zAC0CkFMYNHA2oLSY/cpTuFU4XmsMAczlAq3wcqoO3ZDvYQ==;8ftKbouXRgfohPn9UhYCSg=="
+secured: "aDKgrPpTT9+UZOMhVt0fM6xC5B/bgP+R7Rw1w8QQ72i2TOQkQPNa/JIitYEZqDnecagFFUHDhgMjLlBivhJscLx8EkaHzZPLbbLLu0cMdD4qfiXxg1lCJ6JEgXRI/YJHancFol+KR34QQorDhGJjoDNsQ2lEqH2dFI7CRV0Yh+CaZUMdW1/bwvsA1Br+uRm4SBiIf/E82kkOA4w5PFQ702t4QYem+bAfVejQqALXluo4DM/6isu4kshpyFDKicc9uvuAo06dDK9MiNh34ukxZsTmgMkKTUJYdWR4gAqTeFxbLQbtPaaLuIMrNcUKaIYOP09GVLOVQSjThJylkPyFvdXHjQFouqWbab1fyEVQiBQ=;XcRRhiUFcTE43bVc9qROTA=="
 ---
 

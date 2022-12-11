@@ -98,15 +98,6 @@ related:
       name: Windows Central
       domain: windowscentral.com
     quality: 16
-  - title: "We Asked ChatGPT Questions About the Language Industry…It Had a Lot to Say"
-    excerpt: "OpenAI invited people on Twitter to try the AI conversation interface ChatGPT and provide feedback. Usage soon exploded. The chat app reached over one million users in just five days. ChatGPT builds on OpenAI’s Large Model (LLM) and is next-level for AI dialogue iterations."
-    publishedDateTime: 2022-12-06T11:56:00Z
-    webUrl: "https://slator.com/we-asked-chatgpt-questions-about-language-industry/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 2
 
 secured: "unJ4oFRcdH+kPaC44vvh+v+TgR/aCjjiWOheYOj7NTbwLGHWBFeXsaPh9Vrwf425Q32jobLuGXPyySIMf+IzxIp1cut720mGnbdrTv+tp2rzOr8ruRKzKk6GFzMKJrEX9fJlgm8Wne0U25FIFbvBoZy+1UDKbAF5oOGn3dLNZCT3qAhC2tO3L3qhHoOCm5E0J2tNv+VoYpbV7a8V8CNz2Z9cyXQus+KopMr0h04LCIaORtIqg8+bw2XgfCeYgSAAMb4Ugl4j9LWrmgo1/kWf6RVVqBpdhKU19UE9TTghJCCdgEW8HKOTyMy1EdW3hypf3OURUIIovvqM97ymevz3RxPqgm9k2AOHRDuxdFvIbfcMXz/SBfHIeXIql8VFC1wPpZoPlOkwfX486oYDOfOI393F//I7Wgvo1Ao+aOLGR+SSb6bd7QlrZSOY6IsVG+Pqa7h+wugBmPWEctG3ndftbBHwHBwaEihZZ2BFuIjUxzEeJKCc01VItDu6X6mf3A89dswJR4vf08U79ApJQ8VPOg==;eJkyv/y9dgEm5OCDv2KFlA=="
 ---

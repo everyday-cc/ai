@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI Offers Fintech Much More Than Curb Appeal"
-    excerpt: "Ultimately, AI serves as a catalyst for customer-focused products and services. When used in place of antiquated strategies, the ease felt by both the customer and the institution is undeniable and lasting."
-    publishedDateTime: 2022-12-06T12:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/06/ai-offers-fintech-much-more-than-curb-appeal/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Fintech: 4 Essential Skills To Achieve Success In The Industry"
     excerpt: "What you need to succeed, however, are the right skills in the fast-expanding fintech sector. You may use your current skills to get a job in fintech whether you've recently graduated or looking to switch careers."
     publishedDateTime: 2022-12-07T11:03:00Z

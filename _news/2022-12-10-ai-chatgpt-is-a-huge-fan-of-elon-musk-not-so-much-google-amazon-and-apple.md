@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/martineparis/2022/12/09/ai-chatgpt-is-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2022/12/09/ai-chatgpt-is-a-huge-fan-of-elon-musk-not-so-much-google-amazon-and-apple/amp/"
 type: article
 quality: 85
-heat: 155
+heat: 145
 published: true
 
 provider:
@@ -98,15 +98,6 @@ related:
       name: Windows Central
       domain: windowscentral.com
     quality: 16
-  - title: "We Asked ChatGPT Questions About the Language Industry…It Had a Lot to Say"
-    excerpt: "OpenAI invited people on Twitter to try the AI conversation interface ChatGPT and provide feedback. Usage soon exploded. The chat app reached over one million users in just five days. ChatGPT builds on OpenAI’s Large Model (LLM) and is next-level for AI dialogue iterations."
-    publishedDateTime: 2022-12-06T11:56:00Z
-    webUrl: "https://slator.com/we-asked-chatgpt-questions-about-language-industry/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 2
 
 secured: "+lojzTjiJNqd6rLrtaPVrWkKyYs2YoLejNu3n99DRUJKizIfI8apVku0Mk12O2g4n1n/sXEJoBPulsgLVjFq9jeyPPdxQjWSBCbwz4m94fnnZzq/JrCOKfFw9xFIGD7ZjQkwhXo8krzfQ9UvQ5aVZ5dUQH1mAIguFDALcDIUQSQZi65CXSfo55ppmsFSRhW0HoplioFMy91X1rAHZMcGcFHv0aoQZIYNHU/KKmgjeEuJC1UGT1Dr4kbNHUQpA1XEdrrjHjCwDnvPCZA8koVtEClzP3PnLBmtnvvp4HJCh0XOeGRH6kv6P4lbrUHS660tI6i1jWZzM2Ju8GQr6OE77ppx3C7UJjaCFfsLe/2JcLk=;P47HjwtkmobfJ1JRr+tEtw=="
 ---

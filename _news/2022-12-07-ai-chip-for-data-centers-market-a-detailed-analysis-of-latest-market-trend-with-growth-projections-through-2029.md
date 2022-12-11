@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-chip-for-data-centers
 webUrl: "https://www.marketwatch.com/press-release/ai-chip-for-data-centers-market-a-detailed-analysis-of-latest-market-trend-with-growth-projections-through-2029-2022-12-07"
 type: article
 quality: 63
-heat: 163
+heat: 153
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI In Medical Imaging Market : Reliable Business Data Analysis and Forecast by 2028 with Top Countries Data"
-    excerpt: "\" AI In Medical Imaging Market \" Insights 2022 - By Applications (Hospitals, Clinics), By Types (Software, Hardware), By Segmentation analysis, Regions and Forecast to 2028. The Global AI In Medical Imaging market Report provides In-depth analysis on the market status of the AI In Medical Imaging Top manufacturers with best facts and figures,"
-    publishedDateTime: 2022-12-06T11:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-reliable-business-data-analysis-and-forecast-by-2028-with-top-countries-data-2022-12-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -75,20 +75,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 18
-  - title: "Five9 Elevates Omni-Channel Customer Engagement with Innovations in Digital Self-Service, AI Design, and Analytics"
-    excerpt: "(NASDAQ: FIVN), a leading provider of the intelligent cloud contact center, today announced new capabilities that help businesses deliver more engaging and unified customer journeys across digital and voice channels and between virtual and live agents."
-    publishedDateTime: 2022-12-06T13:01:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/five9-elevates-omni-channel-customer-engagement-with-innovations-in-digital-self-service-ai-design-and/article_083c6744-4594-55d2-addd-604b33bac43f.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 17
-    images:
-      - url: "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg"
-        width: 350
-        height: 455
-        isCached: true
   - title: "New Opaque Systems platform offers advances in confidential AI and analytics"
     excerpt: "Secure data analytics startup Opaque Systems Inc. today launched a new platform that includes what it says are the latest advancements in confidential artificial intelligence and analytics. The Opaque platform has been built to unlock use cases in confidential computing to enable data scientists to secure and perform collaborative analytics directly on this encrypted data."
     publishedDateTime: 2022-12-08T14:00:00Z

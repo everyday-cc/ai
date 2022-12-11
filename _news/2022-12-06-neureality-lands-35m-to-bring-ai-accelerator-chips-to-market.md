@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/12/06/neureality-ai-accelerator-chips-st
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/06/neureality-ai-accelerator-chips-startup-raises-35m/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/NeuReality.png"
         width: 718
         height: 400
-        isCached: true
-  - title: "Israeli AI Startup NeuReality Raises $35M Series A"
-    excerpt: "NeuReality, an AI hardware startup specializing in AI inferencing platforms, announced a $35M Series A funding round led by Samsung Ventures, Cardumen Capital, Varana Capital, OurCrowd and XT Hitech."
-    publishedDateTime: 2022-12-06T12:00:00Z
-    webUrl: "https://insidehpc.com/2022/12/israeli-ai-startup-neureality-raises-35m-series-a/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2021/04/Future-of-Data-visualisation-Cover-Image.jpg"
-        width: 643
-        height: 898
         isCached: true
   - title: "AI start-up NeuReality raises $35m in Series A funding round"
     excerpt: "NeuReality, an AI hardware start-up specialising in next generation AI inferencing platforms, has announced a successful $35m Series A funding round."

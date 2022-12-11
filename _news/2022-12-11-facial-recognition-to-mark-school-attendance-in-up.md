@@ -1,31 +1,27 @@
 ---
 category: news
-title: "A massive report highlights fundamental problems with facial recognition and how police lie about its uses."
-excerpt: "The anecdote opens a landmark report on facial recognition from the Georgetown Law Center on Privacy & Technology, which found that law enforcement agencies are often using the technology as the sole basis for putting people in jail despite claiming they don’t and despite a growing body of evidence that the technology has serious problems with accuracy and bias."
-publishedDateTime: 2022-12-06T18:55:00Z
-originalUrl: "https://gizmodo.com/facial-recognition-cops-police-sole-basis-arrests-study-1849859483"
-webUrl: "https://gizmodo.com/facial-recognition-cops-police-sole-basis-arrests-study-1849859483"
+title: "Facial Recognition To Mark School Attendance In UP"
+excerpt: "Uttar Pradesh government has started a facial recognition-based teacher and student attendance monitoring system for the p"
+publishedDateTime: 2022-12-11T04:04:00Z
+originalUrl: "https://menafn.com/1105294130/Facial-Recognition-To-Mark-School-Attendance-In-UP"
+webUrl: "https://menafn.com/1105294130/Facial-Recognition-To-Mark-School-Attendance-In-UP"
 type: article
-quality: 51
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Gizmodo
-  domain: gizmodo.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3d2dfea7d2f1ffb43d9b27160d2ee8cc.jpg"
-    width: 1200
-    height: 675
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?104280"
+    width: 340
+    height: 249
     isCached: true
 
 related:
@@ -84,6 +80,20 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 57
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3d2dfea7d2f1ffb43d9b27160d2ee8cc.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "A massive report highlights fundamental problems with facial recognition and how police lie about its uses."
+    excerpt: "The anecdote opens a landmark report on facial recognition from the Georgetown Law Center on Privacy & Technology, which found that law enforcement agencies are often using the technology as the sole basis for putting people in jail despite claiming they don’t and despite a growing body of evidence that the technology has serious problems with accuracy and bias."
+    publishedDateTime: 2022-12-06T18:55:00Z
+    webUrl: "https://gizmodo.com/facial-recognition-cops-police-sole-basis-arrests-study-1849859483"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 51
     images:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3d2dfea7d2f1ffb43d9b27160d2ee8cc.jpg"
         width: 1200
@@ -151,20 +161,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Facial Recognition To Mark School Attendance In UP"
-    excerpt: "Uttar Pradesh government has started a facial recognition-based teacher and student attendance monitoring system for the p"
-    publishedDateTime: 2022-12-11T04:04:00Z
-    webUrl: "https://menafn.com/1105294130/Facial-Recognition-To-Mark-School-Attendance-In-UP"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?104280"
-        width: 340
-        height: 249
-        isCached: true
   - title: "TSA to Expand Facial Recognition Tested in DFW to Airports Across America"
     excerpt: "American Airlines launched Mobile ID at DFW Airport, enabling customers enrolled in TSA PreCheck to “breeze through the airport with just their phone and their face.” The TSA has since expanded the use of facial recognition technology to 16 airports—and it now plans to roll out the optional service to airports across the U."
     publishedDateTime: 2022-12-06T20:38:00Z
@@ -216,6 +212,6 @@ related:
         height: 450
         isCached: true
 
-secured: "6LPIK90DHto0y/xFR7XMB1u1vGqITQDauQCOR6vuZrroIzpsXfy23eeVG+Gy5uTlZj0u/8Mh1FqUwLL7kr1p4sK8eQMEqTDbgC+94YR5ka1uXtemUTDFK52TcJSQRmSOUEjIcKCwiKCJp3b79Px8A9CuVGs9/fT8gEuvg1L/cd/dGxNW6GRF0zMa0X+nyF+qCSWHOUeG/K+9YGbDrNpKTAJMajwvt/MpD2GxvSNbdq5vfXKL/hgFwKDZ647gxif4jynSbYZfo9Vf0UoYYdGUPbpsqb8N6kefIXO6go8uSR17RCckiTHmgEcpkLOQgTq8a8BAcsmZw3gy/pR6VGF72HsISQLr8//ZM0Ql2i9DoALYbX/6GcHey2sAl2XHokTW9qjU9Ae71JUzDZvjnLyMZW1gn7erf4pMunqtWTxEOHXChs6Uh64n8zC5Rmt8qahFhHp5I2cz86jOioQQXQogSfSG6vprsWpBs9bGbH4zAC0CkFMYNHA2oLSY/cpTuFU4XmsMAczlAq3wcqoO3ZDvYQ==;8ftKbouXRgfohPn9UhYCSg=="
+secured: "QDBkZ2PjhS/l2CxMMbr64WQL1HLwRzkr7JAjpnxTjpB44DQV4mB6SHZxES7SCg9fZqdwDBsNJrAb+eJX9AzZNfybArN5vBaDZuvdQsOU51grUY0FAlKyYn6/fCJurkww2wyYcCM+XsZAz8tSSEOiMx/tTERf4j9XlOPuWzAd4juIB/wXsBYHF9PfT/AeV9f/ARZPnCkj9irUqR3khASN9tChrsjhGwzGS5vHQN3FnNYb3qF7fIDt/09tCe8HKida8ZZ3WHOIgPoGwaFDIenxgz2Iqb5828q9YxxNNxEaevQEYKdnL0gSuEwQ1m/HOddMnIFu3/6ezDGrNR9cEsA3/jC7FJ5a40GvhMsa0eb0j4Y=;vjd1Jg5pZ0JYHXFpJqid6Q=="
 ---
 

@@ -49,6 +49,22 @@ related:
         width: 2096
         height: 2794
         isCached: true
+  - title: "Facial recognition attendance for teachers, students in state"
+    excerpt: "Uttar Pradesh government has rolled out a facial recognition-based teacher and student attendance monitoring system for public schools in the state."
+    publishedDateTime: 2022-12-11T03:09:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/lucknow/facial-recognition-attendance-for-teachers-students-in-state/articleshow/96143984.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/lucknow/facial-recognition-attendance-for-teachers-students-in-state/amp_articleshow/96143984.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/lucknow/facial-recognition-attendance-for-teachers-students-in-state/amp_articleshow/96143984.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1070
+        height: 579
+        isCached: true
   - title: "Cops Say They Only Use Facial Recognition for Leads, But It’s Often the Sole Basis for Arrests"
     excerpt: "The anecdote opens a landmark report on facial recognition from the Georgetown Law Center on Privacy & Technology, which found that law enforcement agencies are often using the technology as the sole basis for putting people in jail despite claiming they don’t and despite a growing body of evidence that the technology has serious problems with accuracy and bias."
     publishedDateTime: 2022-12-06T22:55:00Z
@@ -138,6 +154,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/25124039/Sao-Paulo-metro-scaled.jpg"
         width: 2048
         height: 1365
+        isCached: true
+  - title: "Facial Recognition To Mark School Attendance In UP"
+    excerpt: "Uttar Pradesh government has started a facial recognition-based teacher and student attendance monitoring system for the p"
+    publishedDateTime: 2022-12-11T04:04:00Z
+    webUrl: "https://menafn.com/1105294130/Facial-Recognition-To-Mark-School-Attendance-In-UP"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?104280"
+        width: 340
+        height: 249
         isCached: true
   - title: "Kiwi Educational Robot KaiBot Wins International Recognition On Its First Outing"
     excerpt: "KaiBot may have just come into the world, but it’s already teaching kids and teachers a thing or two about technology. In fact, two months before its official launch date, KaiBot, the little AI-enabled learning robot designed to help five-15-year-old children develop coding skills,"

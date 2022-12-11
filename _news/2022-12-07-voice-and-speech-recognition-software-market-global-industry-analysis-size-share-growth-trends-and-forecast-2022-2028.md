@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Retail Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028"
-    excerpt: "Retail is a $3.2 trillion global industry and artificial intelligence (AI) is quickly becoming an important part"
-    publishedDateTime: 2022-12-06T11:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-12-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Food and Beverage Market : Share, Industry Size, Opportunities, Analysis and Forecast to 2028 with Top Countries Data"
     excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence in Food and Beverage Market will have significant change from previous year. By the m"
     publishedDateTime: 2022-12-09T12:55:00Z

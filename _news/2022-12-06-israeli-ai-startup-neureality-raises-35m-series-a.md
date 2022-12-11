@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - IBM AI
 
 images:
   - url: "https://insidehpc.com/wp-content/uploads/2021/04/Future-of-Data-visualisation-Cover-Image.jpg"

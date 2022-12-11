@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2022/12/07/sin
 webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2022/12/07/singapore-south-korea-sign-mou-on-artificial-intelligence"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1060
     height: 684
     isCached: true
-
-related:
-  - title: "Singapore-based financial admin platform Osome raises $25M Series B"
-    excerpt: "Osome is a corporate “super app” that helps business owners with administrative tasks like payroll, accounting and tax reporting. The company announced today it has raised a $25 million Series B from Illuminate Financial,"
-    publishedDateTime: 2022-12-06T11:20:00Z
-    webUrl: "https://techcrunch.com/2022/12/06/osome-series-b/"
-    ampWebUrl: "https://techcrunch.com/2022/12/06/osome-series-b/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/06/osome-series-b/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1327236972.jpg?resize=1200,801"
-        width: 1200
-        height: 801
-        isCached: true
 
 secured: "UhDAzqG7DQ+vWi16kB7AGU2RxaYwV+9ge/BdfCax5wuC+tH1/KfeO5RCIhHnVTJ3BOIKbcLuJyYzbKnPUSBCh+/FcfM5IX+QvUDTIJ5snx7zCawx2m81WAc/LTqnrN4nyIUYrlhDKRNy1f5Q7wYZI9dzorMBq/Pv0F7Fpa9wReKsqAPMHS/KcOai7Xujc4Uzak0PnwVwcVv2UsTivsCL87EWDU62pKV6q4DYNjRCJnmSvFdnGelY7SfDJh6eg+iLWKrabNJ1X+GSPHYkI98AoS/A0Ds2yfna5wkoimdmYbj4+kZtZo5Ptxt+6N3/J211srOUwvZPLPBG7fnhnZI4rm+99U+a5QpVianaE6I+EfTe1unFIWyCrhBTP6ChNBcI5iIrM8Lke0LNuNGF1/JAUpITAnr8YrqMBfsnO5CEyk9ORCuMnDQMgI9q5otclVij1OgsvDs433drZJWBi3TUaw1Sfkie3K/s0894p7fEdf2gFajafgGDxVqFB809mHhQ3xwu9RRv14ab2nWcZDgRAg==;9q9/WNexyKa2I7gatdHNtA=="
 ---
