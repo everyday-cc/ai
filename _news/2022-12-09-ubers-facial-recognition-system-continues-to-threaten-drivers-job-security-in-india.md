@@ -25,17 +25,6 @@ images:
     height: 2560
     isCached: true
 
-related:
-  - title: "The Download: Uber’s flawed facial recognition, and police drones"
-    excerpt: "Uber’s facial recognition is locking Indian drivers out of their accounts One evening in February last year, a 23-year-old Uber driver named Niradi Srikanth was getting ready to start another shift, ferrying passengers around the south Indian city of Hyderabad."
-    publishedDateTime: 2022-12-06T13:10:00Z
-    webUrl: "https://www.technologyreview.com/2022/12/06/1064334/download-uber-flawed-facial-recognition-police-drones/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 19
-
 secured: "7S2oS90VeRvvwtrMi1L/wA/fUdt47JaZv7UStIG9cMa0ej4qbTgkKxj5E1dzmTRZGC9ZBXYNNttNxYDVinFSwhJ9tPTlQKAiMt0sihgKBfwsCgFL1LhbsgpCom3IMZCp4W69/2z9MFCPoXEQSU3RTpUFwISrlmdEqy3FuXNUu3OFn+LJKlIsGhy4EmQpoQjg2py1oCtZu+W9KzRowLE0XEg4bzWSUK51Tm3cL4cmbeth6Qn4HQkbyP8rF8yk4i60PHOF7j/Yc6sya4jwtEaJFax3R03HwXun1jCl09KOo0/W/aoQy9iGcwKlI90jf1ZGjUQnlDfbX4DovBB5MO1ptNScX3cI+cJnTe346Sjw4XE=;E7Z57RTZKQ9XkoqAYDa8qQ=="
 ---
 

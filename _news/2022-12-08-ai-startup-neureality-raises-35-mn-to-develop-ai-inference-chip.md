@@ -7,8 +7,8 @@ originalUrl: "https://analyticsindiamag.com/ai-startup-neureality-raises-35-mn-t
 webUrl: "https://analyticsindiamag.com/ai-startup-neureality-raises-35-mn-to-develop-ai-inference-chip/"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 86
+published: true
 
 provider:
   name: Analytics India Magazine
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "NeuReality lands $35M to bring AI accelerator chips to market"
-    excerpt: "NeuReality, a startup developing AI inferencing accelerator chips, has raised $35 million in new venture capital."
-    publishedDateTime: 2022-12-06T14:02:00Z
-    webUrl: "https://techcrunch.com/2022/12/06/neureality-ai-accelerator-chips-startup-raises-35m/"
-    ampWebUrl: "https://techcrunch.com/2022/12/06/neureality-ai-accelerator-chips-startup-raises-35m/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/06/neureality-ai-accelerator-chips-startup-raises-35m/amp/"
-    type: article
-    provider:
-      name: YAHOO!Finance
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/07/CircuitBoard-e1656949944955.jpg?resize=1200,600"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "AI chip startup NeuReality raises $35M in funding"
     excerpt: "Startup NeuReality Ltd. today announced that it has raised $35 million in funding to commercialize its NR1 chip, which is designed to speed up artificial intelligence applications. The Series A funding round was led by Samsung Ventures,"
     publishedDateTime: 2022-12-06T22:25:00Z
@@ -79,15 +63,6 @@ related:
       name: enterprisetalk
       domain: enterprisetalk.com
     quality: 34
-  - title: "Israeli AI startup NeuReality raises $35M Series A to bring its novel inferencing chip to the market"
-    excerpt: "The funding will allow NeuReality to bring its first-in-class NAPU, the NR1, to the global market. This next-generation AI chip, which is based on NeuReality’s AI-centric architecture, is pushing the performance and efficiency of AI systems to the next ..."
-    publishedDateTime: 2022-12-06T13:32:00Z
-    webUrl: "https://www.design-reuse.com/news/53141/israeli-ai-startup-neureality-series-a-funding.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 19
 
 secured: "qzBQuQAE6WnN9x4a3wB0V657EclewRnqMWBFXexiuU/rQuLrfhVs6um2hWwn2lP+XFgTajyWxjwEs1wMtTGLajv8km7F4/YWmNkdROMlBcdicB+4G5HCcdAVnSWUUVdx5L2dTlC6EeSayrM0izQjKS4uT16ubG2b5QsF/5uVSj7mhOHRUI9b//HM6aQA2Lxz2/A4hLePWFw5Rw5jaeaJMir8iapGU4YhNL5XwcAYzl1eo/i8D6RkNwlvXc3FMQvH6kTmyJFYUZfYGk8/JOOK6+ux8kzAFzQxM4n6SKXVzA5JHgbhnawHWkNEg2+IdCWb5id4toyeEjTau/SrL0tobXYrcZQb/ssKyh0a7BrNoElSh1TJgXCmW9jK1kWHR8iFB0P5HBIhjm0Zt3Ud6tu0fJqIsvjFUo3i1xozmEm7BeAuRa+BBCBZdUIR6bd+R+g8iyYygKfGiq6fLwJBbrOQt/f5KBq4xw3p4cnRSo+kr0Am/ym7Ff5uKtzljY53Vjom2qsnF2r2SQelbhcBeL2NHQ==;KrXyByO5ZH18a7MAEmv68g=="
 ---

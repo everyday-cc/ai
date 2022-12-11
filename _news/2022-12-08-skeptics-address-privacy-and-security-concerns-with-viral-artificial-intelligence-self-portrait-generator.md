@@ -59,15 +59,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Here's the exclusive 14-slide pitch deck that Veriti used to raise a $12 million Series A for its AI-cybersecurity platform"
-    excerpt: "See the pitch deck that Veriti used to raise its $12 million Series A round. Cybersecurity is getting expensive, with consulting firm Gartner projecting some $169 billion in global spending this year, a more than 14 percent increase since 2021."
-    publishedDateTime: 2022-12-06T14:00:00Z
-    webUrl: "https://www.businessinsider.com/veriti-used-this-14-slide-pitch-deck-to-raise-a-12-million-series-a-2022-11"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 21
 
 secured: "VvHg3t+9AYOJYois+FqcozdVXv1U/Fwe5OGX5bKKG0WY5ydQqdrvW3NkmtdlpcOuWhn6EXQC5TDqH5grvnMcX4XuvZYZ05ISKwRv0BMvgUcqsg+P6Kc10rqKNDz0jj9NK5r14n3CokG3ancnXBHYRNZiMvvaOGrwqqFZ72Qm7XAzMgLpXu8I0bKqGLOOPDzaOHgSNBz8YVFvnDmaBFjDz9BYudMzrmNv20xHHunmS57Bmgm50eAqKxu+bvEDQDAMu1F6vJciXXv6kd64VvDDAFLrPcENWevNq9O6i3+Nw3q3x0jun2rG44g+MA+xvrNgEKMoOUQmaZVYY8B3cODTPs8Gx5WWgUx+ywa6hgsc/QI=;9xREcTu7m1kHstmEVZY7JQ=="
 ---

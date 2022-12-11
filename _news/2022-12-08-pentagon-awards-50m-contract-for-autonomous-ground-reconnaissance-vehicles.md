@@ -85,15 +85,6 @@ related:
       name: Manufacturing
       domain: themanufacturer.com
     quality: 14
-  - title: "Kodiak awarded DOD contract to develop autonomous Army vehicles"
-    excerpt: "Defense Innovation Unit contract calls for trucking technology company Kodiak to help the U.S. Army automate future ground vehicles for high-risk missions such as reconnaissance and surveillance near or behind enemy lines."
-    publishedDateTime: 2022-12-06T14:49:00Z
-    webUrl: "https://www.fleetowner.com/technology/article/21255863/kodiak-awarded-department-of-defense-contract-to-develop-autonomous-army-vehicles"
-    type: article
-    provider:
-      name: Fleet Owner
-      domain: fleetowner.com
-    quality: 4
 
 secured: "9U0rmEjZhsqTvWpH78NSo6TAxuF7QYDbxCIQtOGgSgTN087pRfz2W7VyS7ydAkPHt/7BupDfoIsIRcb3EZaO9cwN43DZ1As2eSD1QLKZCeNOmVDT4Q7WOqzLU2gmcrjihhjb3AFPTYV963HO1BFlLe+SQVTdYemAOacJTD3ks/A1KbCpSS8thStan9EzFgwY1Kg6T8SMUKIsxS6jTIaHtlBW2l6FGS7uJVYKIhax/NyOc5imKjlRabIihWUImwzfLoWOHxRZ5AttqMq00Ed/zGOdnKfFGd2y3tIgn+zuJb0xHGZNQd5C8PvBMGLtvmHDBYjnNGmvh0soz8ZxFUGVcI5EjEebRgi31cpxnVX/q+II1JDvvOO+zzfmHTi5piAhJDXbmN78u1KU5JiYhpUh+mCM4t5W0P2ibNnCoQ+J3m9mIYFa8AnR32ZUjhO6lGnOURGP0pumQw1hI05/Ive8uYmb3+PVyNW8Mk6x6Toe7/oq0c5dxKk1mBFEKqw91AqQK+NCorjR7qtxqbDE62zgAg==;I/j0r0u/10lVKf9y2c30wA=="
 ---

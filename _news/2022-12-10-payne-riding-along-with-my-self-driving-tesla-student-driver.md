@@ -58,15 +58,6 @@ related:
       name: Transport Topics
       domain: ttnews.com
     quality: 4
-  - title: "Audi's Project Artemis Self-Driving Plan Could Be Scrapped As Soon As This Month"
-    excerpt: "Audi's autonomous driving project will likely be laid to rest this month so that the automaker can focus on other software developments. Instead of devoting too many resources to the self-driving dream, Blume is expected to announce a new roadmap for the ..."
-    publishedDateTime: 2022-12-06T13:32:00Z
-    webUrl: "https://carbuzz.com/news/audis-project-artemis-self-driving-plan-could-be-scrapped-as-soon-as-this-month"
-    type: article
-    provider:
-      name: https//carbuzz
-      domain: carbuzz.com
-    quality: 0
 
 secured: "rHjg5+qtA4QQuw3/SjTkGCipWkIrcOLcy+1/96CGYLoX/2omn9KhlE9yyNVBFKoChv6J2YB22bPI/EADTTLX5zFtRmqwpnaxiyGmkYbTyTG3oigdjGVfAqJur+q5oOzXNaA7/nQyPI9TBgp2fCtstc9ZnVX/wmKPoX0wHFmeNjtGIWAzlpBlRxcaGXhc4Mbm5ZXOEeo3atr4cfwRkPZjgWcW/TCQHTUNtjNAEZot2kR04QG1jVvomDWDaRIewjlJs30Rs1m3X60pXIjZHfmKZVmZl2//wl29s9IJwyUL5/1KQ2CSkmm4pmEkiXcwpWmQQdeVmeEZgZByRWzJYGo+CPMJ3JodPHUJeZXFsuD0uK0=;rpwbAy1kpYkvIFKuPqUVug=="
 ---

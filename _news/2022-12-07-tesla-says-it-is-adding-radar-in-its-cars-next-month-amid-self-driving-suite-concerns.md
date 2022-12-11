@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2022/12/06/tesla-radar-car-next-month-self-dri
 webUrl: "https://electrek.co/2022/12/06/tesla-radar-car-next-month-self-driving-suite-concerns/"
 type: article
 quality: 62
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -63,15 +63,6 @@ related:
       name: Transport Topics
       domain: ttnews.com
     quality: 4
-  - title: "Audi's Project Artemis Self-Driving Plan Could Be Scrapped As Soon As This Month"
-    excerpt: "Audi's autonomous driving project will likely be laid to rest this month so that the automaker can focus on other software developments. Instead of devoting too many resources to the self-driving dream, Blume is expected to announce a new roadmap for the ..."
-    publishedDateTime: 2022-12-06T13:32:00Z
-    webUrl: "https://carbuzz.com/news/audis-project-artemis-self-driving-plan-could-be-scrapped-as-soon-as-this-month"
-    type: article
-    provider:
-      name: https//carbuzz
-      domain: carbuzz.com
-    quality: 0
 
 secured: "gTC9hOJnf/yAXEv74rGfhxBV/oUt/Eltr5dCxsbwzKK6fqBiKrdNdI+Xo4CDWlnDZCouwFSQ+mHRrGE8zU5ypTYye+/VF+xRZaLpqLtQ90I/eLv2pdjORr4leVALaKNb5MmYCt8zlZ9ksWI2+t4ZQBLXwj7vnGUKWYdCQdDVW5o8R/zAx7/0+AoT3KqBDrkhb+irNx4qhzkpTPmWoUK8wj18FAKyru54nJglqBpYP9MVfvO7hwnwCVdRcXqLDDb0gu7T05xIcZTslwA+DBBf2yR7L0rsReqMhsjF95Vob2P4hcOt+rFN3nXRxTMAbFi4lMntCZuTKisX0zUz8t5HDRdYSO8pmjkJPItq4l+IvcGj5BpjCR7LTtptrBjw/5sxs/eGN14SrREOzr4id4vDKHFFbc65Lx6LFYqXf/U1fxFZVSe4W3gnmXRhR39EF0Z3IH9CZTA7v5OMuHWNLmi4jJW0fHYZv1qSJ/NRlZi8aPO/085TREprMZ5GP/hzDFl2w+6GMb/mPjtbT/qxU9JU2w==;pJs14GqHZTraM6uljZlWUQ=="
 ---

@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "NeuReality lands $35M to bring AI accelerator chips to market"
-    excerpt: "NeuReality, a startup developing AI inferencing accelerator chips, has raised $35 million in new venture capital."
-    publishedDateTime: 2022-12-06T14:02:00Z
-    webUrl: "https://techcrunch.com/2022/12/06/neureality-ai-accelerator-chips-startup-raises-35m/"
-    ampWebUrl: "https://techcrunch.com/2022/12/06/neureality-ai-accelerator-chips-startup-raises-35m/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/06/neureality-ai-accelerator-chips-startup-raises-35m/amp/"
-    type: article
-    provider:
-      name: YAHOO!Finance
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/07/CircuitBoard-e1656949944955.jpg?resize=1200,600"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "AI Startup Neureality Raises $35 Mn to Develop AI Inference Chip"
     excerpt: "Israeli AI startup Neureality, known for designing AI-as-a-service infrastructure, raises $35 million in Series A funding. The new investment brings their total funding to $48 million. Prominent names like Cardumen Capital, Samsung Ventures, Varana Capital, OurCrowd and XT Hitech led the round."
     publishedDateTime: 2022-12-08T11:38:00Z
@@ -77,15 +61,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Israeli AI startup NeuReality raises $35M Series A to bring its novel inferencing chip to the market"
-    excerpt: "The funding will allow NeuReality to bring its first-in-class NAPU, the NR1, to the global market. This next-generation AI chip, which is based on NeuReality’s AI-centric architecture, is pushing the performance and efficiency of AI systems to the next ..."
-    publishedDateTime: 2022-12-06T13:32:00Z
-    webUrl: "https://www.design-reuse.com/news/53141/israeli-ai-startup-neureality-series-a-funding.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 19
 
 secured: "IiyFEOQ3wjyLb+ZAgoHnvo/0XUI5ZUwZHQdhvWlifIcyfG4skSPOHGeTXK75BKS7UCGk9CpzSCnZdn9qWVpRanafNc4puoW8mSyUOxiLv5eN4CZl1QaUglbuIW/oh+Rdg6LgRC8fy2p4ZQYE7ZLxFOxmJAeK/nP53XBjdtZ+KEuFduGCAVJ5WBNnUpOLRM2RE2c5nvA3ERXESYJ2dEJcz0dkviPbdKtmd6KNrGAsZSYyQLG4RN2nqB1Mu6+9K/Jd2CxvvkL71+iohtUFDQzmtYh2Wo5WfHm0ijH/xOyDancn35+5CTEkZi2LaXar0NDjj27pM6P5hVK+uVqfjSfmmhrkMbYF8tL2nKljdGP09P2TUjvH6i1JpwQpZm/B338t//6rgTSGMRHC4+tKxco7EnO9LwULXa2bdefwSZ7JXkGyRkbvycjSsAolmL13mYiMN6zx7zUdjHG5pEORbm+ImOIYmJP++MqKoJYgzA51o3jHzaM5pBz7fi7S/AmnMExUPrdvn9DnMeVG+9gynZY2Sw==;iWf2k/PhaTuDRMD210yt4w=="
 ---

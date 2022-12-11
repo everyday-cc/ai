@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "NeuReality lands $35M to bring AI accelerator chips to market"
-    excerpt: "NeuReality, a startup developing AI inferencing accelerator chips, has raised $35 million in new venture capital."
-    publishedDateTime: 2022-12-06T14:02:00Z
-    webUrl: "https://techcrunch.com/2022/12/06/neureality-ai-accelerator-chips-startup-raises-35m/"
-    ampWebUrl: "https://techcrunch.com/2022/12/06/neureality-ai-accelerator-chips-startup-raises-35m/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/06/neureality-ai-accelerator-chips-startup-raises-35m/amp/"
-    type: article
-    provider:
-      name: YAHOO!Finance
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/07/CircuitBoard-e1656949944955.jpg?resize=1200,600"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "AI Startup Neureality Raises $35 Mn to Develop AI Inference Chip"
     excerpt: "Israeli AI startup Neureality, known for designing AI-as-a-service infrastructure, raises $35 million in Series A funding. The new investment brings their total funding to $48 million. Prominent names like Cardumen Capital, Samsung Ventures, Varana Capital, OurCrowd and XT Hitech led the round."
     publishedDateTime: 2022-12-08T11:38:00Z
@@ -78,15 +62,6 @@ related:
       name: enterprisetalk
       domain: enterprisetalk.com
     quality: 34
-  - title: "Israeli AI startup NeuReality raises $35M Series A to bring its novel inferencing chip to the market"
-    excerpt: "The funding will allow NeuReality to bring its first-in-class NAPU, the NR1, to the global market. This next-generation AI chip, which is based on NeuReality’s AI-centric architecture, is pushing the performance and efficiency of AI systems to the next ..."
-    publishedDateTime: 2022-12-06T13:32:00Z
-    webUrl: "https://www.design-reuse.com/news/53141/israeli-ai-startup-neureality-series-a-funding.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 19
 
 secured: "jq7OrxIlD2WDwr4gJvXO3z780UYNvad/dn3o8NmbtTCXENsnV80D0pAVAJ2Hn9jyaPm/DgETKDxOWKvftPUdZiUkBBkGkintjN37NfumNiCM+fUeVmIXj1f0J5Q18fOQhiWwS3GzhRnaWb/1MfbViOcSJVOQVZZAuoCLj8wKUgMjWX/0GOVk0T/0kpqFUF5dFue+vvo8dkROw3uWg/ouBeNUdFMr85cS7MfNpBQX1McXDyAOtFb94lhQ62IlIOK4H81NQX86KoBDkZPjRHw0ZK1tocR9Bxt62CwpCVQ+7bp7GaLABpEh2+6/aIQg8M74TjBzMd0kszXEi+/VoYS1YsLCVVcQnch7KcDq+r+elEA=;3j2LeB5FxMueIqHypydlTw=="
 ---

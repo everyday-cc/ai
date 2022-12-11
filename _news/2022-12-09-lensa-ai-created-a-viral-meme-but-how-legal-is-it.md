@@ -58,15 +58,6 @@ related:
         width: 4096
         height: 4096
         isCached: true
-  - title: "It’s way too easy to trick Lensa AI into making NSFW images"
-    excerpt: "Lensa has been climbing the app store hit lists with its avatar-generating AI that is making artists wave the red flag. Now, there’s another reason to fly the flag, as it turns out it’s possible — and way too easy — to use the platform to generate non-consensual soft porn."
-    publishedDateTime: 2022-12-06T14:35:00Z
-    webUrl: "https://techcrunch.com/2022/12/06/lensa-goes-nsfw/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
   - title: "Prisma Labs, maker of Lensa AI, says it is working to prevent accidental generation of nudes"
     excerpt: "We recently uncovered that Lensa AI can be tricked into creating NSFW images. When TechCrunch made the Prisma team aware of its findings, the company’s CEO replied with its findings. Prisma Lab’s CEO and co-founder Andrey Usoltsev told us that the behavior we observed in our article can only happen if the AI is intentionally"
     publishedDateTime: 2022-12-06T19:55:00Z

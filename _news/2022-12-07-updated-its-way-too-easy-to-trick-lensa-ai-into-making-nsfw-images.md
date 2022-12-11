@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/12/06/lensa-goes-nsfw/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/06/lensa-goes-nsfw/amp/"
 type: article
 quality: 87
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 4096
         height: 4096
         isCached: true
-  - title: "It’s way too easy to trick Lensa AI into making NSFW images"
-    excerpt: "Lensa has been climbing the app store hit lists with its avatar-generating AI that is making artists wave the red flag. Now, there’s another reason to fly the flag, as it turns out it’s possible — and way too easy — to use the platform to generate non-consensual soft porn."
-    publishedDateTime: 2022-12-06T14:35:00Z
-    webUrl: "https://techcrunch.com/2022/12/06/lensa-goes-nsfw/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
   - title: "Lensa AI Created a Viral Meme, But How Legal Is It?"
     excerpt: "Social media has been inundated with AI-generated selfie portraits from Lensa AI's new magic avatar feature. Now, artists cite it as another example of how AI technology is engaging in copyright infri"
     publishedDateTime: 2022-12-08T21:41:00Z

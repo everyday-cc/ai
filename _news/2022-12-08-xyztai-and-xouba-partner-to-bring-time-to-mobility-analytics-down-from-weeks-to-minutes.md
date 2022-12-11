@@ -40,29 +40,6 @@ related:
         width: 878
         height: 860
         isCached: true
-  - title: "Invent Analytics Raises $7.5 Million to Further Accelerate Growth of its AI-Driven Retail Planning Solutions"
-    excerpt: "Invent Analytics provides AI-driven software to help retailers profit-optimize supply chain, inventory and merchandising decisions PHILADELPHIA,"
-    publishedDateTime: 2022-12-06T14:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/invent-analytics-raises-7-5-million-to-further-accelerate-growth-of-its-ai-driven-retail-planning-solutions-1031955412"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
-  - title: "dotData Feature Factory Technology Adds Feature Discovery Capabilities to Azure Synapse Analytics"
-    excerpt: "SAN MATEO, Calif., December 6, 2022 – dotData announced that its Feature Factory technology is now integrated with and available on Microsoft’s Azure Synapse Analytics, an integrated, cloud-native platform for data analytics."
-    publishedDateTime: 2022-12-06T15:00:00Z
-    webUrl: "https://insidehpc.com/2022/12/dotdata-feature-factory-technology-adds-feature-discovery-capabilities-to-azure-synapse-analytics/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 26
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2022/08/generic-machine-learning-AI-deep-learning-data-shutterstock-583242211.jpg"
-        width: 690
-        height: 460
-        isCached: true
   - title: "Opaque Systems Unveils 1st Multi-Party Confidential AI and Analytics Platform"
     excerpt: "Opaque Systems, pioneers of secure multi-party analytics and AI for Confidential Computing, today announced the latest"
     publishedDateTime: 2022-12-08T17:54:00Z

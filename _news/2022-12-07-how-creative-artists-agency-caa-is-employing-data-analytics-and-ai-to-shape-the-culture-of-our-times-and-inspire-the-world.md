@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/randybean/2022/12/07/how-creative-artis
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/randybean/2022/12/07/how-creative-artists-agency-caa-is-employing-data-analytics-and-ai-to-shape-the-culture-of-our-times-and-inspire-the-world/amp/"
 type: article
 quality: 59
-heat: 129
+heat: 109
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Invent Analytics Raises $7.5 Million to Further Accelerate Growth of its AI-Driven Retail Planning Solutions"
-    excerpt: "Invent Analytics provides AI-driven software to help retailers profit-optimize supply chain, inventory and merchandising decisions PHILADELPHIA,"
-    publishedDateTime: 2022-12-06T14:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/invent-analytics-raises-7-5-million-to-further-accelerate-growth-of-its-ai-driven-retail-planning-solutions-1031955412"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
   - title: "xyzt.ai and Xouba partner to bring time to mobility analytics down from weeks to minutes"
     excerpt: "Xouba, an innovative Spanish road safety and mobility analytics company, to help government agencies gain insights into the main road safety issues through an efficient no-code/low-code data analysis workflow."
     publishedDateTime: 2022-12-08T12:56:00Z
@@ -52,20 +43,6 @@ related:
       - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2022/December/8/7/a6ece00c-90b9-42bb-9986-79f01f6d38da-sized"
         width: 800
         height: 487
-        isCached: true
-  - title: "dotData Feature Factory Technology Adds Feature Discovery Capabilities to Azure Synapse Analytics"
-    excerpt: "SAN MATEO, Calif., December 6, 2022 – dotData announced that its Feature Factory technology is now integrated with and available on Microsoft’s Azure Synapse Analytics, an integrated, cloud-native platform for data analytics."
-    publishedDateTime: 2022-12-06T15:00:00Z
-    webUrl: "https://insidehpc.com/2022/12/dotdata-feature-factory-technology-adds-feature-discovery-capabilities-to-azure-synapse-analytics/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 26
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2022/08/generic-machine-learning-AI-deep-learning-data-shutterstock-583242211.jpg"
-        width: 690
-        height: 460
         isCached: true
   - title: "Opaque Systems Unveils 1st Multi-Party Confidential AI and Analytics Platform"
     excerpt: "Opaque Systems, pioneers of secure multi-party analytics and AI for Confidential Computing, today announced the latest"

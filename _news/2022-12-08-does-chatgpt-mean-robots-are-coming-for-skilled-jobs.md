@@ -101,6 +101,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Is ChatGPT the Start of the AI Revolution?"
+    excerpt: "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skill"
+    publishedDateTime: 2022-12-09T10:30:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2022-12-09/is-chatgpt-the-start-of-the-ai-revolution"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifzBIsn2zMPo/v1/1200x802.jpg"
+        width: 1200
+        height: 802
+        isCached: true
   - title: "ChatGPT proves AI is finally mainstream — and things are only going to get weirder"
     excerpt: "He knows I write about AI and is the sort of guy who keeps up with whatever’s trending online. We chatted a bit, and I asked him: “and what do you think of ChatGPT?” To which he replied: “Well, I wrote a half-decent Excel macro with it this morning that saved me a few hours at work” — and my jaw dropped."
     publishedDateTime: 2022-12-08T15:31:00Z
@@ -215,20 +229,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
-  - title: "Is ChatGPT the Start of the AI Revolution?"
-    excerpt: "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skillset. On"
-    publishedDateTime: 2022-12-09T12:40:00Z
-    webUrl: "https://www.washingtonpost.com/business/is-chatgpt-the-start-of-the-ai-revolution/2022/12/09/9eb9dfec-77b5-11ed-a199-927b334b939f_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TYKMLGDXWUI63IMZSJ5TGS4TT4.jpg&w=1440"
-        width: 1440
-        height: 963
-        isCached: true
   - title: "We Prompted ChatGPT to be a Translation Manager"
     excerpt: "After Slator tested the waters by asking ChatGPT questions about the language industry, we took it a few steps forward by producing a video with ChatGPT, Synthesia, and Descript. First, we asked ChatGPT to answer questions as if they were a translation manager on a podcast."
     publishedDateTime: 2022-12-09T10:41:00Z

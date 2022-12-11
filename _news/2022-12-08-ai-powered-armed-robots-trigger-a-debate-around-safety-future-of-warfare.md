@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/international/ai-power
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/ai-powered-armed-robots-trigger-a-debate-around-safety-future-of-warfare-122120800481_1.html"
 type: article
 quality: 58
-heat: -1
+heat: 58
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 480
     height: 359
     isCached: true
-
-related:
-  - title: "Robo Truckers and the AI-Fueled Future of Transport"
-    excerpt: "Concerns about artificial intelligence replacing long-haul drivers are not new, but the real story is more nuanced."
-    publishedDateTime: 2022-12-06T14:00:00Z
-    webUrl: "https://www.wired.com/story/autonomous-vehicles-transportation-truckers-employment/"
-    ampWebUrl: "https://www.wired.com/story/autonomous-vehicles-transportation-truckers-employment/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/autonomous-vehicles-transportation-truckers-employment/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 91
-    images:
-      - url: "https://media.wired.com/photos/638e52b0fefa29ce257ada8f/master/pass/artificial-intelligence-trucker-transport.jpg"
-        width: 2400
-        height: 1350
-        isCached: true
 
 secured: "5sdJoC5NCMGz/h5BNUTwTSEqE4IXysBzjepZSRlKzmtQb3FiGbANdXWckHdXZXLB6z7eOkL0MmGEKoRvgOFWT990A6DW0s5dM1/dPxRAK+pSe0afeA3eR9YdljZDgtmRacHBOB2PF5GpkAWoI49Q0rcOnMuaAhYCV0HlI9D3hDyiorxpyYhX0fkMPd08mp6zyFwuezn7ga/bdBMK6BD0nB/7WRG04gVIVaQvOjsGrGgFC43Sdi0J4r55oT7GGEPW9VUql/Y9blj8W+Syf6jbWD1CO+HuJX5Vy7bzF4Hxodl/d7XgDsHAdf3zV0sy4ANpZkPok1ahj5HlIqzKstY6XuGvJlMAidyqE5zJUHWvqnC4JI0WPx2k983ho8rY+ENWJNWUuzjT1x5Imddtpz7JAM7WR/s7oRjNQtkF591awTecMfZHMb2E1NjovzkPGljE0bnx4EsrSFHswkPMYJXZ8uBszOgjPFFXLgsvMJ5nBBuwCJ8fhwZGET4/bwcw+Q99lm4JhVIPSdIDkVG2p1tKHQ==;H9RS15rz8LCzZPoz8s1uwg=="
 ---
