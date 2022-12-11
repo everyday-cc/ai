@@ -43,22 +43,6 @@ related:
         width: 2096
         height: 2794
         isCached: true
-  - title: "How Businesses Are Using Artificial Intelligence To Make Better Decisions"
-    excerpt: "It is likely that even without knowing it you have already experienced some of the benefits of Artificial intelligence (AI). This technology is present in our daily lives in the shape of voice assistants,"
-    publishedDateTime: 2022-12-07T05:36:00Z
-    webUrl: "https://www.scoop.co.nz/stories/BU2212/S00103/how-businesses-are-using-artificial-intelligence-to-make-better-decisions.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/BU2212/S00103/how-businesses-are-using-artificial-intelligence-to-make-better-decisions.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2212/S00103/how-businesses-are-using-artificial-intelligence-to-make-better-decisions.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 58
-    images:
-      - url: "https://m.scoop.co.nz/stories/images/1606/ocvinofq_400x400.jpeg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "US Customs agents use facial recognition system at Orlando International Airport to speed up lines"
     excerpt: "U.S. Customs and Border Protection agents at Orlando International Airport are using facial recognition technology to help speed up screening lines that often stretch to 600 passengers deep."
     publishedDateTime: 2022-12-09T22:00:00Z

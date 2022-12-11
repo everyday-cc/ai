@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-11T18:56:00Z
 originalUrl: "https://www.theguardian.com/australia-news/2022/dec/12/morning-mail-lehrmann-prosecutors-concerns-a-dozen-climate-protesters-face-jail-ai-art-anger"
 webUrl: "https://www.theguardian.com/australia-news/2022/dec/12/morning-mail-lehrmann-prosecutors-concerns-a-dozen-climate-protesters-face-jail-ai-art-anger"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Guardian

@@ -40,6 +40,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "What to know about Lensa, the AI portrait app all over social media"
+    excerpt: "If you've logged on to any social media app this week, you've probably seen pictures of your friends, but re-imagined as fairy princesses, animé characters, or celestial beings."
+    publishedDateTime: 2022-12-11T20:18:00Z
+    webUrl: "https://www.cnn.com/style/article/lensa-ai-app-art-explainer-trnd"
+    ampWebUrl: "https://www.cnn.com/style/amp/lensa-ai-app-art-explainer-trnd"
+    cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/lensa-ai-app-art-explainer-trnd"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 87
+    images:
+      - url: "http://cdn.cnn.com/cnnnext/dam/assets/221211114012-01-lensa-selfie-121122-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Here’s Why People Are Speaking Out Against The Instagram Trend Of AI Art Apps Like Lensa"
     excerpt: "There’s a debate about data, intellectual property, and identity brewing in regard to an app that charges you $8 to turn your selfies into art."
     publishedDateTime: 2022-12-08T17:43:00Z

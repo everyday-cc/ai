@@ -41,31 +41,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Apple scales back its self driving plans, postponing the launch date to 2026"
-    excerpt: "The changes come after reports of Apple being in talks with automakers and other manufacturers for over a year."
-    publishedDateTime: 2022-12-07T06:02:00Z
-    webUrl: "https://techstory.in/apple-scales-back-its-self-driving-plans-postponing-the-launch-date-to-2026/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 36
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/12/2022-12-06T153737Z_1_VA7_RTRLXPP_2_LYNXPACKAGER.jpeg"
-        width: 720
-        height: 400
-        isCached: true
-  - title: "Apple Car delayed to 2026"
-    excerpt: "The car project, dubbed Titan inside the company, has been in limbo for the past several months as Apple executives grappled with the reality that its vision for a fully autonomous vehicle — without a steering wheel or pedals — isn’t feasible with current technology."
-    publishedDateTime: 2022-12-07T06:29:00Z
-    webUrl: "https://mybroadband.co.za/news/motoring/472967-apple-car-delayed-to-2026.html"
-    ampWebUrl: "https://mybroadband.co.za/news/motoring/472967-apple-car-delayed-to-2026.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/motoring/472967-apple-car-delayed-to-2026.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 24
   - title: "Apple's self-driving electric car will need a human driver"
     excerpt: "A super-cool feature that no one else has invented Fruity cargo-cult Apple will try to flog a \"super-cool\" self-driving electric car with the unique feature not thought of by those in the car industry -- its cars will use a human to drive them."
     publishedDateTime: 2022-12-07T10:38:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.commondreams.org/views/2022/12/08/victory-over-killer-
 webUrl: "https://www.commondreams.org/views/2022/12/08/victory-over-killer-robots-san-francisco-agrees-ban-them-now"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "San Francisco Backtracks on Plan to Allow Police Robots to Use Deadly Force"
-    excerpt: "Opponents of the proposed policy said it could lead to more police violence. The Police Department, however, said the policy would allow robots to use deadly force only in extreme situations."
-    publishedDateTime: 2022-12-07T03:46:00Z
-    webUrl: "https://www.nytimes.com/2022/12/06/us/police-robots-san-francisco.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 47
   - title: "What San Francisco’s Killer Robots Debate Tells Us About Policing"
     excerpt: "We all saw that movie…no killer robots,” San Francisco protesters wrote on a picket sign last week, as they opposed a move by city leaders to authorize police use of lethal force with department-issued robots."
     publishedDateTime: 2022-12-10T17:00:00Z

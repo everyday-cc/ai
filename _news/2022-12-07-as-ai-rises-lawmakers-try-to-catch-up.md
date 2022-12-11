@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/news/as-ai-rises-lawmakers-try-to-catch-
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "As artificial intelligence rises, lawmakers try to catch up"
-    excerpt: "Experts cite China’s widespread use of digital surveillance as a harbinger of AI-enabled totalitarianism. Read more at straitstimes.com."
-    publishedDateTime: 2022-12-07T05:44:00Z
-    webUrl: "https://www.straitstimes.com/world/as-artificial-intelligence-rises-lawmakers-try-to-catch-up"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/12/07/CHINAPROTESTSSURVEILLANCE2_3.JPG?VersionId=5qt_zDP3kd2UOu48ysfkWHeQROvhcj9O"
-        width: 860
-        height: 573
-        isCached: true
   - title: "As AI rises, lawmakers try to catch up"
     excerpt: "PARIS: From \"intelligent\" vacuum cleaners and driverless cars to advanced techniques for diagnosing diseases, artificial intelligence has burrowed its way into every arena of modern life. Its pr"
     publishedDateTime: 2022-12-07T17:34:00Z

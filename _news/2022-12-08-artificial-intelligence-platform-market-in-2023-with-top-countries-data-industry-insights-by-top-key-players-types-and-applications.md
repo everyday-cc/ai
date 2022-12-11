@@ -98,20 +98,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "FinTech Market | Key Player, Competition Weakness and Strengths from 2023 to 2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"FinTech"
-    publishedDateTime: 2022-12-07T04:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/fintech-market-key-player-competition-weakness-and-strengths-from-2023-to-2028-2022-12-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Self-Propelled Belt Loader Market 2022 Driving Factor Analysis with Trend and Forecast to 2028"
     excerpt: "Further, the SWOT analysis & other techniques are utilized to investigate this data & provide an informed perspective on the state of the business to assist design the best growth strategy for any vendors or to current penetration into the present & and likely direction of the global Self-Propelled Belt Loader market."
     publishedDateTime: 2022-12-08T01:38:00Z
@@ -135,6 +121,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Food and Beverage Market : Share, Industry Size, Opportunities, Analysis and Forecast to 2028 with Top Countries Data"
+    excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence in Food and Beverage Market will have significant change from previous year. By the m"
+    publishedDateTime: 2022-12-09T12:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-food-and-beverage-market-share-industry-size-opportunities-analysis-and-forecast-to-2028-with-top-countries-data-2022-12-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

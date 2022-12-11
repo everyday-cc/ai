@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-08T10:31:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-fico-wins-machine-learning-award-scams-detection-model-/2022/12/08/9726734.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-fico-wins-machine-learning-award-scams-detection-model-/2022/12/08/9726734.htm"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: TMCnet

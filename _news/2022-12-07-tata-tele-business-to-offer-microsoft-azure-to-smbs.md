@@ -37,17 +37,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Tata Tele Business Services offers Microsoft Azure to Small and Medium Businesses"
-    excerpt: "SMBs are increasingly realigning their business models to respond to dynamic business environments by moving their core operations to the cloud. With TTBS now offering Microsoft Azure, SMBs can look f"
-    publishedDateTime: 2022-12-07T05:47:00Z
-    webUrl: "https://www.business-standard.com/article/news-cm/tata-tele-business-services-offers-microsoft-azure-to-small-and-medium-businesses-122120700385_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/tata-tele-business-services-offers-microsoft-azure-to-small-and-medium-businesses-122120700385_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/tata-tele-business-services-offers-microsoft-azure-to-small-and-medium-businesses-122120700385_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 49
 
 secured: "fxlFPKBTByTbEjo5hSZKkGyz3ldvmzE4dgX/dYVrg3FOyhIFF1Y71NV4h0DnVhl8Fcr2sZWdWSsdcvj+0GbkqwT4d+j+KCCH/bp3beOFh7T76Xp15N068A03hkjV9iLBSN5ctmxkEfQ1EOpNIFHpXiw6hJ/8fshfzg1bjxjwFx+ZJzIMzKHdutR8KCmfn+zmm62Q6gaDJ40zBUap9G8hKe3IYbJQEV845n2Py6pa245HMu0PeMILYCkmSKpGHdSj9meC4XvN1+BXYfMjLDCkiPV7GK6YIoOGaIVLK5uEkS3rx7nKRGqvRaepK9GxjkP0YX+8ZsAAGGsBr2z9BWxDEK3nRjIxM5Mt67Ygbsu8iaI=;aAJp+XhmcpIaeVxhewVyOA=="
 ---

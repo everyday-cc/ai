@@ -103,6 +103,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial recognition to mark school attendance"
+    excerpt: "Uttar Pradesh government has started a facial recognition-based teacher and student attendance monitoring system for the public schools in the state."
+    publishedDateTime: 2022-12-11T19:09:00Z
+    webUrl: "https://www.thehansindia.com/hans/young-hans/facial-recognition-to-mark-school-attendance-772943"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 19
 
 secured: "LTgyP1Ph11fOBSEmfJdONTztldVCa1nbijpW9CayQzGDkBZ16Ky1+ia6rvrwcGV9zjtIxCqpP4CQYTCWzp0CHpUDDLutPp/XdqHzgmJpvY2lZAmpIU01PvE0VAsrmaJ+L08hxf1XPCYcD3SBzz6pTn5WgfR01HUoda8euBuy/HGh45Q29kohirXMIZbucsqj3Qo4dW3Oy2zOh+vb1uZc+pTSag463dr1hSGWoQO1yNjdQZqqpxR5kOtTTgguLDcDnTaGP0kynY8z4dIm0P2+iVWLXAAgh3bHCFo3Mwgn0zC95aWYs8I64w9c7cksxE6BGOsz0nzAGfTe/gaI8WADWYWNJ3eG6lim8+5Knj7j1jyJEZEteoTtRipNd1eu4hYWvSBMJLBWuhCQiIu/BInD8aU8uvnMB/4LkkRceYbOZ4b4H3qHuH8QkE58YXnC7087RE1TfxM9MlnA7koWrwr7fViOKKOi/Veni7mdZAgCe8XlUBupnJ3kFnWIHzdd1+t25B6QLgvJiI4WpeVoxH4rWg==;VoQdKwK9zz6n48ydzpx30w=="
 ---

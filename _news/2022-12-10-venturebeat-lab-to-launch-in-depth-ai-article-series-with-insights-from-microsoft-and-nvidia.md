@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/venturebeat-lab-to-launch-in-depth-ai-art
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/venturebeat-lab-to-launch-in-depth-ai-article-series-with-insights-from-microsoft-and-nvidia/amp/"
 type: article
 quality: 93
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://aviationweek.com/sites/default/files/styles/crop_freeform/public/2022-12/azure.jpg?itok=C2P4lXOP"
         width: 1193
         height: 787
-        isCached: true
-  - title: "Microsoft Announces Future Ready Champions Of Code Program To Empower India's Developer Community"
-    excerpt: "Microsoft today announced the launch of Future Ready Champions of Code, a pan India program for developers, focused o"
-    publishedDateTime: 2022-12-07T03:39:00Z
-    webUrl: "https://menafn.com/1105276380/Microsoft-Announces-Future-Ready-Champions-Of-Code-Program-To-Empower-Indias-Developer-Community"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 26
-    images:
-      - url: "https://menafn.com/updates/pr/2022-12/06/F_b9964image_story.jpg"
-        width: 600
-        height: 313
         isCached: true
 
 secured: "+202qMII080VTaI4+EIgHSYkaeJnwHxCqBWeK0aQt+4slkZQ5sgD2jWJT8/Vnf1yvAUowo7xT+Ok1W0xB8VMxo2Zn3Kwb5uOaP4Z7lfIjmiE6XzBLF2NlLbtdtT4o+fqhpDrkc3HFjMuFcgjnMsM5esTU+0fyIRy18Z67EnclqglVnkperOGrTGVvX0QSI94Bc3TzhEc8EZHJ87prHldMz0brBybbkC8iEpoBp9Yy8ZgDubiJy6FbRWq4GF4CQvZenx3SkFh85ku8cKQ1qbx2ex+h2Fvx6V5OU1lteSrKQwg1ThNPPYAQq7drTrVWJSAxdAHYbmSUoZvPygHElMXax5Ex2jftSKJr1GWXLQu9Igfm8JXxdrnvvbb4AoL5EHP+yQIjD7UI3JXafbtcNIUf08SPebrqMi+VvH3crjwGvlFMTdd1RoermvOY8ne6b5FgLOl4zvk4MlKyww0vvK+8fJdMROJi/ugzA2vzIZOemSPDB/bpRnYYYVLYaexNN/E2C+P1k+nAhaSFtAM6ezLsQ==;vLpRIYWToyxDqVLvn71G0Q=="

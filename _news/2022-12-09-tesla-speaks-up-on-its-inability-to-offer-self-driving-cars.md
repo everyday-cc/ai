@@ -141,15 +141,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 4
-  - title: "Uber and Motional launch self-driving rides in Las Vegas, with plans to expand to Los Angeles"
-    excerpt: "Initially, the companies aren’t charging for the autonomous rides, though they plan to charge for the driverless commercial launch later on."
-    publishedDateTime: 2022-12-07T06:00:00Z
-    webUrl: "https://www.fastcompany.com/90820656/uber-and-motional-launch-self-driving-rides-in-las-vegas-with-plans-to-expand-to-los-angeles"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 0
 
 secured: "CMQzrcCx/Z2keRwtmPQ6ixAvyXMgCcvtv+Db9tfG4gmeL31KzpECJQdQ40U9MrZnV3nUdqgMa4VpRly2K1oi3xM4psAH5wwfkSnL5kgBufEk0rIZnASanjU3tM91eaIWdngStcLuxw0q6UF1SQGiFA2C+SMj1+xLSmbzoGTO7ret999re2MTC21eVughV4DDlCFRVss9mlbeyFc/AOxYtpcGNW32gC2G8pFvTUfjyalYaw59UH4mtIJgzmgiX8q87Bv7KHTjaFNs+gFK5IudK32fecOgx9+Lj8alKZFpqELePX5rN09FHEW98Z3PZ+lQ9zCSqCTOEVATS+vedRWeGVmi42kMHbomSBFqYVWnOwI=;uiV0zOrlrhtH55JG5cTzvg=="
 ---

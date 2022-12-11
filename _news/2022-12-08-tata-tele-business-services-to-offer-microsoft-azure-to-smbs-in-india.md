@@ -87,20 +87,6 @@ related:
         width: 1193
         height: 787
         isCached: true
-  - title: "Microsoft Announces Future Ready Champions Of Code Program To Empower India's Developer Community"
-    excerpt: "Microsoft today announced the launch of Future Ready Champions of Code, a pan India program for developers, focused o"
-    publishedDateTime: 2022-12-07T03:39:00Z
-    webUrl: "https://menafn.com/1105276380/Microsoft-Announces-Future-Ready-Champions-Of-Code-Program-To-Empower-Indias-Developer-Community"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 26
-    images:
-      - url: "https://menafn.com/updates/pr/2022-12/06/F_b9964image_story.jpg"
-        width: 600
-        height: 313
-        isCached: true
 
 secured: "nwOHxT3jp1FSjeNXun/2k88guf10Ex1DJK1IW1irASCxRhsW/ZorNHrrPsxrvP0yfhAgEwUk2SCvuDqxmoW73ErLkOGTg3a5t8jHvMX6JLaiLQa0bpfIahI7v/ICntvHULGzeEkEIj5E9oVmiCyxbb6yekIMSNQJihDR5Eq/27WwGIak8BoYR/bvP5ubmwSUfJSD/bfa6e/HDlejVJ1XyWbYHFbiDU66xqCmTpf2pQqiHnJ7ctRQ043Rx/ND+aUyFrtxstSRnT1mrrnycMFFr/DiisxtB+NFC3FOPPpjQ2WElOgUKIbANO7NkLnxI/BNA7uzclcbWmDm4ygGmWzY/3vJoCs2VcpyxHTQ5b43cIy8GtKEUcagGjksvL6zLoAYRzLrd5PyLXIb2laEMQhmb2Bm0Icln0HYmMhTDkY/pF0V3Chb0US3AQ5mxtZglZhAAaqDuNPtuWGOszc2LmYfN1FgModf0/v1ePkTogPvdh+VRL6fDSJR7VXTtxOdyIymjec+I4f2KpdGkWIOffSXSg==;GRQHZNfaXysB/d/5ZxR9Ng=="
 ---

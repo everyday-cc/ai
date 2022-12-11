@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/face-recognition-technol
 webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-size-trends-and-forecast-2028-with-top-countries-data-2022-12-08"
 type: article
 quality: 60
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -107,6 +107,15 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
+    quality: 19
+  - title: "Facial recognition to mark school attendance"
+    excerpt: "Uttar Pradesh government has started a facial recognition-based teacher and student attendance monitoring system for the public schools in the state."
+    publishedDateTime: 2022-12-11T19:09:00Z
+    webUrl: "https://www.thehansindia.com/hans/young-hans/facial-recognition-to-mark-school-attendance-772943"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
     quality: 19
 
 secured: "ZBiN0M6pGmfpy6kFb/0QGs8qC+LBxXqcXgcnOOOoWeOjUSm0P6n8x8nw/zTXVQQkr+uGe+5p0TJnQ9p2wOsxGucS9wYYkf9JLsCAcIgqVTx7Ylsql2d3cI9Iw+0JSdUT/K+YAF3EjlUATsB2Zm6Hzi6MJxfX/einMnl1lmYevUaVSPvSPi/nh94U6kwe/XCcNMJAXJBYaVr8WCU6IfDpiWOuitvQV4WddaztcXNhrnVnFzM1cNgzhcEsNuFa26wVb5IWqpGSWhqZIGUhQIoF1d3iGgjQsJqX0O/DGaKFoUISxwIeriaOnBl/9ktLpJxrwhxKtPUyvigdTwjGgpEVtK8HjTfLPvK68fq7KO3Y13U=;jY/134K5iE8fLDzCOavtkQ=="

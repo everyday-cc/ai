@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "San Francisco Backtracks on Plan to Allow Police Robots to Use Deadly Force"
-    excerpt: "Opponents of the proposed policy said it could lead to more police violence. The Police Department, however, said the policy would allow robots to use deadly force only in extreme situations."
-    publishedDateTime: 2022-12-07T03:46:00Z
-    webUrl: "https://www.nytimes.com/2022/12/06/us/police-robots-san-francisco.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 47
   - title: "Victory Over Killer Robots as San Francisco Agrees to Ban Them—For Now"
     excerpt: "San Francisco and the greater Bay Area rallied to tell the Board that this policy was unacceptable. That rallying cry was so loud and undeniable that it was impossible for the Board, and the world, to ignore."
     publishedDateTime: 2022-12-08T13:52:00Z
