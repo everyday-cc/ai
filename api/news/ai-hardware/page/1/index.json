@@ -54,50 +54,6 @@
       ]
     },
     {
-      "path": "_news/2022-12-08-ai-startup-neureality-raises-35-mn-to-develop-ai-inference-chip.md",
-      "title": "AI Startup Neureality Raises $35 Mn to Develop AI Inference Chip",
-      "excerpt": "Israeli AI startup Neureality, known for designing AI-as-a-service infrastructure, raises $35 million in Series A funding. The new investment brings their total funding to $48 million. Prominent names like Cardumen Capital, Samsung Ventures, Varana Capital, OurCrowd and XT Hitech led the round.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/ai-startup-neureality-raises-35-mn-to-develop-ai-inference-chip/",
-      "originalUrl": "https://analyticsindiamag.com/ai-startup-neureality-raises-35-mn-to-develop-ai-inference-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/Untitled-design-17.jpg",
-          "width": 2240,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-08T03:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2022-12-08-why-everyones-obsessed-with-chatgpt-a-mindblowing-ai-chatbot.md",
       "title": "Why Everyone's Obsessed With ChatGPT, a Mindblowing AI Chatbot",
       "excerpt": "This artificial intelligence bot is an impressive writer, but you should still be careful how much you trust its answers.",
@@ -106,7 +62,7 @@
       "originalUrl": "https://www.cnet.com/tech/computing/why-everyones-obsessed-with-chatgpt-a-mindblowing-ai-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 359,
+      "heat": 329,
       "tags": null,
       "images": [
         {
@@ -265,7 +221,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-chip-for-data-centers-market-a-detailed-analysis-of-latest-market-trend-with-growth-projections-through-2029-2022-12-07",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -1478,6 +1434,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-28-non-snapdragon-devices-at-risk-from-gpu-exploits-that-have-already-been-patched.md",
+      "title": "Non-Snapdragon devices at risk from GPU exploits that have already been patched",
+      "excerpt": "That said, if your phone's using a Mali GPU, you might want to take extra care for the next while as plugs for some recently-disclosed security holes are still making their way across devices..",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidpolice.com/exploit-patch-gap-arm-mali-gpu-driver-project-zero-google/",
+      "originalUrl": "https://www.androidpolice.com/exploit-patch-gap-arm-mali-gpu-driver-project-zero-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/11/arm-ap-hero.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-27T12:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Police",
+        "domain": "androidpolice.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

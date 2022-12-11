@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "ChatGPT: New AI chatbot has everyone talking to it"
-    excerpt: "A new chatbot has passed one million users in less than a week, the project behind it says. ChatGPT was publicly released on Wednesday by OpenAI, an artificial intelligence research firm whose founders included Elon Musk."
-    publishedDateTime: 2022-12-07T00:14:00Z
-    webUrl: "https://www.bbc.com/news/technology-63861322?at_link_origin=BBCWorld&at_format=link&at_ptr_name=twitter&at_campaign_type=owned&at_bbc_team=editorial&at_link_type=web_link&at_link_id=809AAB2E-75C4-11ED-A552-98A34744363C"
-    ampWebUrl: "https://www.bbc.com/news/technology-63861322.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-63861322.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/16953/production/_127899429_gettyimages-991619332.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Why Everyone's Obsessed With ChatGPT, a Mind-Blowing AI Chatbot"
     excerpt: "This artificial intelligence bot is an impressive writer, but you should still be careful how much you trust its answers."
     publishedDateTime: 2022-12-07T18:31:00Z
@@ -288,17 +272,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
-  - title: "How AI chatbot ChatGPT measures up on Seattle knowledge"
-    excerpt: "The artificial intelligence chatbot has gone viral for its precise answers. We set out to see what it really knows by asking questions about Seattle culture."
-    publishedDateTime: 2022-12-06T22:29:00Z
-    webUrl: "https://www.seattletimes.com/seattle-news/how-ai-chatbot-chatgbt-measures-up-on-seattle-knowledge/"
-    ampWebUrl: "https://www.seattletimes.com/seattle-news/how-ai-chatbot-chatgbt-measures-up-on-seattle-knowledge/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/how-ai-chatbot-chatgbt-measures-up-on-seattle-knowledge/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
   - title: "Is ChatGPT the Start of the AI Revolution?"
     excerpt: "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skillset. On"
     publishedDateTime: 2022-12-09T12:40:00Z
@@ -336,15 +309,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "ChatGPT, the big-brain AI writing tool coming for our jobs, explains itself"
-    excerpt: "Meet 'ChatGPT: the powerful NLP tool that could automate jobs and spread misinformation, if we're not careful.'"
-    publishedDateTime: 2022-12-07T00:45:00Z
-    webUrl: "https://thespinoff.co.nz/internet/07-12-2022/we-asked-chatgpt-to-write-about-chatgpt"
-    type: article
-    provider:
-      name: The Spinoff
-      domain: thespinoff.co.nz
-    quality: 17
   - title: "AI bot ChatGPT writes smart essays — should academics worry?"
     excerpt: "The bot is free for now and can produce uncannily natural, well-referenced writing in response to homework questions."
     publishedDateTime: 2022-12-09T13:06:00Z

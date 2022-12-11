@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-11T13:04:00Z
 originalUrl: "https://www.theaustralian.com.au/commentary/nastiness-must-stop-in-our-debate-over-the-voice/news-story/8763baf90f6a7e00b57518dfb986859d"
 webUrl: "https://www.theaustralian.com.au/commentary/nastiness-must-stop-in-our-debate-over-the-voice/news-story/8763baf90f6a7e00b57518dfb986859d"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Australian

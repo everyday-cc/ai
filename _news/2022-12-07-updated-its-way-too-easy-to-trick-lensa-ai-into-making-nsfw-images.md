@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/12/06/lensa-goes-nsfw/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/06/lensa-goes-nsfw/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 107
 published: true
 
 provider:

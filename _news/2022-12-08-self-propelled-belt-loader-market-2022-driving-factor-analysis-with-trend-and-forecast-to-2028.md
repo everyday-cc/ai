@@ -141,6 +141,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Driverless Car Market : Outlook, In-depth Analysis, Industry Drivers, Key Trends, Projections, and Future opportunities for the period 2023-2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Driverless"
+    publishedDateTime: 2022-12-11T10:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/driverless-car-market-outlook-in-depth-analysis-industry-drivers-key-trends-projections-and-future-opportunities-for-the-period-2023-2028-2022-12-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 12
 
 secured: "7UczwV4i103riwQ1/7rN+oRpY/I3dj+1fEIAwOsS2R4S2ZjYMQ0oHBv/zQ2qWOA+s2410jX6BQEUJ75jK8zo8xwJ/tRDsdWRts8aXk4voXkJM1kt+LBXKihl+21UPvuMn2TVfAineDL75xeCL41fbICzAErxhIi/7N5ycb8mZArXegm58XaB4Yq6HDHOjPh2s+sGqd1kT5kOyPI0Y1PmzWib4zHJykTuAKNwOsCDQUOfXHvMRE6RzRhhXSTrbfz9gvfYp1dXNikD9cXRinZbLqXYbgqyovHhIxaSGWAQlZcjoeDNo97u1QmkLAzYPkHlHlT3DvJ/dYZCukFbnz9cUEt03RQeJl9MJTTiNE53/sg=;dEA2EGP0zp/HV6ggZvnb0Q=="
 ---

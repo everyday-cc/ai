@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-11T10:00:00Z
 originalUrl: "https://www.autonews.com/shift-podcast-about-mobility/auroras-kendra-phillips-writes-playbook-self-driving-truck-service"
 webUrl: "https://www.autonews.com/shift-podcast-about-mobility/auroras-kendra-phillips-writes-playbook-self-driving-truck-service"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Automotive News

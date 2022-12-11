@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-11T13:41:00Z
 originalUrl: "https://theconversation.com/nfts-in-the-art-world-a-revolution-or-ripoff-191299"
 webUrl: "https://theconversation.com/nfts-in-the-art-world-a-revolution-or-ripoff-191299"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Conversation

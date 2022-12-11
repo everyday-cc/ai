@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-chip-for-data-centers
 webUrl: "https://www.marketwatch.com/press-release/ai-chip-for-data-centers-market-a-detailed-analysis-of-latest-market-trend-with-growth-projections-through-2029-2022-12-07"
 type: article
 quality: 63
-heat: 143
+heat: 153
 published: true
 
 provider:
@@ -141,6 +141,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Driverless Car Market : Outlook, In-depth Analysis, Industry Drivers, Key Trends, Projections, and Future opportunities for the period 2023-2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Driverless"
+    publishedDateTime: 2022-12-11T10:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/driverless-car-market-outlook-in-depth-analysis-industry-drivers-key-trends-projections-and-future-opportunities-for-the-period-2023-2028-2022-12-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 12
 
 secured: "YNpYh+TFISEHx8AmjIDXHjTWq89GQqu3uE7FFJN57kwmklpPwGqCgMTqNtIJ44yY3gS7DiW6tAu7pwPn4AoavIyaDYJJMr6H39E6p2uaYUWvIJOeO1ac0qWRw++MsZu4L5rNx8IlYG/0hZXTLX7D//ody88Sg5s8j/gVj7wBe/dMnhX4AyxH44/P+K5Y5Z38b7SHHjuf8FBx1gUbCXRSxQxm/2/E+9opDsf8wQqwFhAfoqu1iuG7biTTbgfaS12tg/qV6z4X9dXE16XzCREYncT7z54it6G9I78WhYIqZDMrs5OzUABxVDs4VaHueTs234fuhDbzIEpqCa6GhjyDR2KV2PQn7iSxiMyIWwPA5Eg=;fJ1B/0Pz8cizAt2MxXfKxg=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-09T00:00:00Z
 originalUrl: "https://www.business.com/articles/machine-learning-boosts-business-growth/"
 webUrl: "https://www.business.com/articles/machine-learning-boosts-business-growth/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Business.com

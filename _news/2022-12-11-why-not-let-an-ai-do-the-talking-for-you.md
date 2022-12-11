@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-11T14:00:00Z
 originalUrl: "https://www.postguam.com/business/why-not-let-an-ai-do-the-talking-for-you/article_d4c92f0c-78f5-11ed-8aca-0729f1aff26e.html"
 webUrl: "https://www.postguam.com/business/why-not-let-an-ai-do-the-talking-for-you/article_d4c92f0c-78f5-11ed-8aca-0729f1aff26e.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Guam Daily Post

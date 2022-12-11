@@ -184,50 +184,6 @@
       ]
     },
     {
-      "path": "_news/2022-12-08-ai-startup-neureality-raises-35-mn-to-develop-ai-inference-chip.md",
-      "title": "AI Startup Neureality Raises $35 Mn to Develop AI Inference Chip",
-      "excerpt": "Israeli AI startup Neureality, known for designing AI-as-a-service infrastructure, raises $35 million in Series A funding. The new investment brings their total funding to $48 million. Prominent names like Cardumen Capital, Samsung Ventures, Varana Capital, OurCrowd and XT Hitech led the round.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/ai-startup-neureality-raises-35-mn-to-develop-ai-inference-chip/",
-      "originalUrl": "https://analyticsindiamag.com/ai-startup-neureality-raises-35-mn-to-develop-ai-inference-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/Untitled-design-17.jpg",
-          "width": 2240,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-08T03:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2022-12-07-improve-scalability-for-amazon-rekognition-stateless-apis-using-multiple-regions.md",
       "title": "Improve scalability for Amazon Rekognition stateless APIs using multiple regions",
       "excerpt": "In previous blog post, we described an end-to-end identity verification solution in a single AWS Region. The solution uses the Amazon Rekognition APIs DetectFaces for face detection and CompareFaces for face comparison. We think of those APIs as stateless APIs because they don’t depend on an Amazon Rekognition",
@@ -1386,6 +1342,58 @@
         "AWS AI",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-11-24-computer-vision-market-revenue-growth-rate-market-size-restraints-and-forecast-analysis-by-2028.md",
+      "title": "Computer Vision Market : Revenue, Growth Rate, Market Size, Restraints and Forecast Analysis by 2028",
+      "excerpt": "Nov 24, 2022 (The Expresswire) -- \"Computer Vision Market\" research provides significant and in-depth information on the global market. This",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-revenue-growth-rate-market-size-restraints-and-forecast-analysis-by-2028-2022-11-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-revenue-growth-rate-market-size-restraints-and-forecast-analysis-by-2028-2022-11-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-24T03:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

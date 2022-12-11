@@ -2,6 +2,179 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-10-24-5-modelops-capabilities-that-boost-data-science-productivity.md",
+      "title": "5 modelops capabilities that boost data science productivity",
+      "excerpt": "Organizations are hiring data scientists to develop ML models and experiment with AI, but the business impact is lagging for many large enterprises.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3677368/5-modelops-capabilities-that-boost-data-science-productivity.html",
+      "originalUrl": "https://www.infoworld.com/article/3677368/5-modelops-capabilities-that-boost-data-science-productivity.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2015/09/productive-over-worked-over-load-brainstorm-100613878-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 819,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3677368/5-modelops-capabilities-that-boost-data-science-productivity.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3677368/5-modelops-capabilities-that-boost-data-science-productivity.amp.html",
+      "publishedDateTime": "2022-10-24T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-23-the-amazing-race-fans-speculate-which-season-34-racer-contracts-covid-19.md",
+      "title": "‘The Amazing Race’ Fans Speculate Which Season 34 Racer Contracts COVID-19",
+      "excerpt": "Following the premiere of The Amazing Race Season 34 Episode 5, CBS aired a preview for episode 6. It appears as though the teams will stay in Jordan for the fifth leg of the race. The pairs will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cheatsheet.com/entertainment/the-amazing-race-fans-speculate-season-34-racer-contracts-covid-19.html/",
+      "originalUrl": "https://www.cheatsheet.com/entertainment/the-amazing-race-fans-speculate-season-34-racer-contracts-covid-19.html/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cheatsheet.com/wp-content/uploads/2022/10/The-Amazing-Race-Season-34-1.jpg?w=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-22T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Cheat Sheet",
+        "domain": "cheatsheet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-22-dev-of-incredible-f-zero-inspired-aero-gpx-wants-to-bring-racer-to-switch.md",
+      "title": "Dev Of Incredible F-Zero-Inspired 'Aero GPX' Wants To Bring Racer To Switch",
+      "excerpt": "We desperately want to see Captain Falcon and the F-Zero franchise return to our screens — the game's appearance in Smash Bros. just isn't enough! Luckily, there are some fantastic indie games ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nintendolife.com/news/2022/10/dev-of-incredible-f-zero-inspired-aero-gpx-wants-to-bring-racer-to-switch",
+      "originalUrl": "https://www.nintendolife.com/news/2022/10/dev-of-incredible-f-zero-inspired-aero-gpx-wants-to-bring-racer-to-switch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-22T02:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nintendo Life",
+        "domain": "nintendolife.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-22-f4-racer-austin-teenager-inspired-by-us-grand-prix.md",
+      "title": "F4 racer, Austin teenager inspired by U.S. Grand Prix",
+      "excerpt": "AUSTIN (KXAN) – On Friday, 17-year-old racecar driver and Austinite Ryan Shehan returned to the Formula One U.S. Grand Prix as a guest speaker for COTA’s “Best in Texas STEM”—a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kxan.com/sports/f1-austin/f4-racer-austin-teenager-inspired-by-u-s-grand-prix/",
+      "originalUrl": "https://www.kxan.com/sports/f1-austin/f4-racer-austin-teenager-inspired-by-u-s-grand-prix/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2022/10/7980062CA1C1BB8B5F5AB34F2D5E2586-e1666396408832.jpg?w=1280",
+          "width": 1280,
+          "height": 881,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kxan.com/sports/f1-austin/f4-racer-austin-teenager-inspired-by-u-s-grand-prix/amp/",
+      "cdnAmpWebUrl": "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/sports/f1-austin/f4-racer-austin-teenager-inspired-by-u-s-grand-prix/amp/",
+      "publishedDateTime": "2022-10-21T21:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXAN",
+        "domain": "kxan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-21-billiondollarbreaks-d-wave-quantum-inc-nyse-qbts-now-available-in-aws-marketplace.md",
       "title": "BillionDollarBreaks - D-Wave Quantum Inc. (NYSE: QBTS) Now Available in AWS Marketplace",
       "excerpt": "D-Wave Quantum Inc. (NYSE: QBTS), a leader in quantum computing systems, software and services, and the only quantum computing company building both annealing and gate-model quantum computers, has launched in AWS Marketplace.",
@@ -1209,170 +1382,6 @@
         "Machine Learning",
         "AI",
         "Google AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-local-racer-involved-in-crash-at-findlay-stadium-stateline-speedway-died-on-sunday.md",
-      "title": "Local racer involved in crash at Findlay Stadium Stateline Speedway died on Sunday",
-      "excerpt": "POST FALLS, ID. — A local racer was involved in an crash during a race at Findlay Stadium Stateline Speedway died on Sunday. Scott Eldredge got in the crash Saturday night. Findlay Stadium ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kxly.com/local-racer-dies-from-crash-at-findlay-stadium-stateline-speedway/",
-      "originalUrl": "https://www.kxly.com/local-racer-dies-from-crash-at-findlay-stadium-stateline-speedway/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.kxly.com/content/uploads/2022/10/l/m/scott-eldredge.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-16T17:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KXLY 4 News",
-        "domain": "kxly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-aws-to-launch-an-infrastructure-region-in-thailand.md",
-      "title": "AWS to Launch an Infrastructure Region in Thailand",
-      "excerpt": "(NASDAQ:AMZN), today announced plans to open an infrastructure Region in Thailand. The new AWS Asia Pacific (Bangkok) Region will consist of three Availability Zones, adding to the existing 87 Availability Zones across 27 geographic regions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-aws-launch-an-infrastructure-region-thailand-/2022/10/17/9693971.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-aws-launch-an-infrastructure-region-thailand-/2022/10/17/9693971.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-16T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-this-salon-favorite-hack-will-make-your-deep-conditioner-even-more-hydratingjust-in-time-for-dry-hair-season.md",
-      "title": "This Salon-Favorite Hack Will Make Your Deep Conditioner Even More Hydrating—Just in Time for Dry Hair Season",
-      "excerpt": "With the Well+Good SHOP, our editors put their years of know-how to work in order to pick products (from skin care to self care and beyond) they’re betting you’ll love. While our editors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wellandgood.com/deep-conditioning-tools/",
-      "originalUrl": "https://www.wellandgood.com/deep-conditioning-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wellandgood.com/wp-content/uploads/2022/10/BONNINSTUDIO-1.jpg",
-          "width": 1170,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wellandgood.com/deep-conditioning-tools/amp/",
-      "cdnAmpWebUrl": "https://www-wellandgood-com.cdn.ampproject.org/c/s/www.wellandgood.com/deep-conditioning-tools/amp/",
-      "publishedDateTime": "2022-10-16T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Well+Good",
-        "domain": "wellandgood.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-15-amazon-ec2-trn1-instances-for-high-performance-on-deep-learning-training-models-now-available.md",
-      "title": "Amazon EC2 Trn1 Instances for High Performance on Deep Learning Training Models Now Available",
-      "excerpt": "Subscribe for free. AWS Trainium is the second-generation of machine learning chips that AWS purpose built for deep learning training. Each Amazon EC2 Trn1 instance deploys up to 16 AWS Trainium ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/10/aws-trn1-chip-deep-learning/",
-      "originalUrl": "https://www.infoq.com/news/2022/10/aws-trn1-chip-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2022/10/aws-trn1-chip-deep-learning/en/headerimage/generatedHeaderImage-1665697443428.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-15T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
         "AWS AI"
       ]
     }

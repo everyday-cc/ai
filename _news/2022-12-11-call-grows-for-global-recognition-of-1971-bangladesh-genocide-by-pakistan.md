@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Call grows for global recognition of 1971 Bangladesh genocide by Pakistan"
-excerpt: "UN Secretary-General Antonio Guterres this week urged countries to take concrete steps to protect minorities and other communities at risk of genocide in wake"
-publishedDateTime: 2022-12-11T03:38:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/273190062/call-grows-for-global-recognition-of-1971-bangladesh-genocide-by-pakistan"
-webUrl: "https://www.bignewsnetwork.com/news/273190062/call-grows-for-global-recognition-of-1971-bangladesh-genocide-by-pakistan"
+excerpt: "Guterres made the appeal in his message to mark the International Day of Commemoration and Dignity of the Victims of the Crime of Genocide and of the Prevention of this Crime, observed on Friday. \"States have the primary obligation for preventing genocide,"
+publishedDateTime: 2022-12-11T15:30:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/World/20221211/4013424.html"
+webUrl: "https://news.webindia123.com/news/Articles/World/20221211/4013424.html"
 type: article
-quality: 23
-heat: 23
+quality: 3
+heat: 3
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://cdn.bignewsnetwork.com/ani1670729171.jpg"
-    width: 630
-    height: 420
-    isCached: true
-
-secured: "0LpQPGRHUepi41vFtdJio+xVg5P4CdQ36dJbJYu/iLByQUUpTeEu7UaOIe5lB0DEeOonuAmBqG6OhVdFCma0Axa3eOM6wIyStCIye8zjqzu0EI687Q1nPUswmoLJ5n1gL7j6f0j8j+rXO1ahYx0l8LKgzXkmNpfPzqFeLGuetB0dtexqV2bvLDsX2e2V6rpsZ2F8V5F/RzN7xhgw+ZhAbkDNDfPiEa6Nr6IOFa4mKyHPK0sa2NQ/qGG8LDBx7804xiWN5IDFtJq/LE6mgBEcBUHg7gvvItRXAjCX69xuUu3SZV9R+ugK9L53IQv/9qTTxq7l7ITlAsEAz56+IHqYuzrWDuBrqqL9mqmveQtZGaM=;JxlC/EglxB+uQ2QHYUDJ8g=="
+secured: "6fFVJop/PCKdG3kA4gnS7frqoxOFIf1PJlo9CJqwy6Pb54zwqyQdJOYZtAp2VF+j1vqo/bh/zD3m1+aliBhnvUcJ3fhZE4UcUZB3T3Nrl6gQ9LOVSFEMNACsrnCpUEI2w1+nQfownKM+gKgIR7cw+n22SpX7fD2Ih1SB1gMKX9ZLE5vfeCDkGsvtR1S6J/lrILmpBrcXW+51C623CBgXn/GxduIlOtvibsUBL9aWq9Wdc+L5wR594EcpSqpmKP88JPtM773AnNtFxIZGEdMmQUbsheYVMmn0+rcCJj8ByLBLHuZEOn/vWvjz8Ne1+ztANnGzWIaXRiSUPMupDWmRY56x1BHNT461OtfpEc2ToV0=;ms9HeOFO6tBnqNH3Gz82qA=="
 ---
 

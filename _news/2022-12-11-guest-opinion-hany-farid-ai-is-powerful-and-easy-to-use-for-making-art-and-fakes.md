@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-11T12:00:00Z
 originalUrl: "https://www.dailycamera.com/2022/12/11/guest-opinion-hany-farid-ai-is-powerful-and-easy-to-use-for-making-art-and-fakes/"
 webUrl: "https://www.dailycamera.com/2022/12/11/guest-opinion-hany-farid-ai-is-powerful-and-easy-to-use-for-making-art-and-fakes/"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Daily Camera

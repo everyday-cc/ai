@@ -1,23 +1,21 @@
 ---
 category: news
-title: "Best's Review Spotlights Machine Learning and AI Risk Opportunities, DUAE’s Expansion Plan"
-excerpt: "OLDWICK, N.J.--(BUSINESS WIRE)--The November issue of Best’s Review includes features on Pie Insurance’s expansion plans, how risk professionals are turning to machine learning and AI to forecast financial risks of extreme events, and more: Best’s ..."
-publishedDateTime: 2022-11-29T20:45:00Z
-originalUrl: "https://www.businesswire.com/news/home/20221129006061/en/Bests-Review-Spotlights-Machine-Learning-and-AI-Risk-Opportunities-DUAE’s-Expansion-Plan"
-webUrl: "https://www.businesswire.com/news/home/20221129006061/en/Bests-Review-Spotlights-Machine-Learning-and-AI-Risk-Opportunities-DUAE’s-Expansion-Plan"
+title: "Best’s Review Spotlights Machine Learning and AI Risk Opportunities, DUAE’s Expansion Plan"
+excerpt: "Best’s Review is AM Best’s monthly insurance magazine, covering emerging issues and trends and evaluating their impact on the marketplace. Access to the complete content of Best’s Review is available here. AM Best is a global credit rating agency ..."
+publishedDateTime: 2022-11-30T04:42:00Z
+originalUrl: "https://www.01net.it/bests-review-spotlights-machine-learning-and-ai-risk-opportunities-duaes-expansion-plan/"
+webUrl: "https://www.01net.it/bests-review-spotlights-machine-learning-and-ai-risk-opportunities-duaes-expansion-plan/"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
-  name: newsroom.businesswire.com
-  domain: businesswire.com
+  name: 01Net
+  domain: 01net.it
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
-secured: "APnkRUgygkD03Ez7PS0avQd+aF3r3ZDqwAhKTgeZYa5Xg6aDhJiBOBX2u2A8lMT7PFXmVAP+PZXj4mnzcmldVmt0T/3jJqUnD5NZLNPOtmMjYMYpkFQ2WyqRHOL4j8xDdU6aMrgGQe8VU0MXHi5TSNSz+0mEDm/kIiQNFKnI4cAQ6pZGGBE8PvOOdUFtyhG3W+GXILFaourxWFSToekYWm2VGl2b5hPexY/KztjsVdeXDYlvxT5PxShfo+2w/uvhGVu9lICzGS6SmInHQcuOBWcouYcw5rzaNvV41O3Y8uumNE22Z2Yvp8Wxw3vT+DPjvkdDnSxEeBJ+6m8IupzCTa7o2PLZdK4igJ4GUgN5L146UJRRC+sQccd4JA68fjbotKwWOgCPmjfRCqFc5y7BIg8ziWJQFnoXSkoYPzoNVGdUreTavAG29wX53dqi3U5Mi8EnkaLYpS0V7q61ULpedSmomLUVpfBdF99M3plKBa5CnFzt54dYyXfRL2bliCG+d+rjfRoGV3ebdneFo5s+kA==;sTfUDS/jMdm/40QGcF1x6A=="
+secured: "U+tHYnWH7c0l9H1QvQeCqN6/fFgf3qzxsGV9lybB720Llo2Ih0fMeO7668aBpfaQm8qN9k7Ic7omCJt95bkwwi7sCUUw3p/ZwfKjqwNwi9aEN0HnJISgaaJ9jUcoPsfdzE1RGWsBHkl66ReG6/kYxXwI45/Q1GCijQI71W5mpu4FPFw04VAijC36T/Shw2VgE/Jf0XdXJtFU8KPSZ1qV7Vkp4SAzsL77nmHyYp+/4OZIuqPY8r8uRcq/qlOwCMc0clwwrbbRL4V5baoBE/B6UD22Vgxi6sznEuOZFQ5klKk6Zfd+09y1VGXx7PhiYsBWyG+UzDMMuvUDhDFs4UfQ+EUHhskBxo4N/PFaBtQqQBs=;JCqEmrthXtbafrCIFqY4yA=="
 ---
 

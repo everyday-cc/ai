@@ -33,6 +33,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Australian artists accuse popular AI imaging app of stealing content, call for stricter copyright laws"
+    excerpt: "Developer of software denies allegations, saying Lensa learns to create portraits just as a human would – by learning different artistic styles"
+    publishedDateTime: 2022-12-11T13:02:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2022/dec/12/australian-artists-accuse-popular-ai-imaging-app-of-stealing-content-call-for-stricter-copyright-laws"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 1
 
 secured: "NNUy5kk+ogzG3+Q9cPBjkZZTz6gdcvmYEuM93oQMsFVRUIgCsb6Xd0pqmsivrg8EBVm9GnEt4UxuUnYMlnYBLpawgnQofoxKLIX44eRIjetqXUBQcbxHpy0kSgOsGikR+11qdP/HiR5VWtNFvyuyHb7ibYd0ikhtA561QyATVXztum8ClAWYn91lnxp7x1mYdFZvPSWzrGCPNunFz4U+hmT9VuVMOsSlcIUkwiv8f5LWd6ma4G59+M2sGavq10bh+sxBBT3ie1nMfcSM+MD4B8wqQXXLoC8cy5QPIFAWwdYBkq0ULakoHFKHmhxaDZs4HhPmbbKJmNsXDevZDtm+bfz6LuOH7QbxaFVDLsslE6xXirQQJeGLz1TiXcIoIcr6XcWS9cV9vjtyMBaxRJSGiCPdcX28oQvsxc7vESHYeOIhd2y/5Jwng3WNl31uyF4Wz0neMjlWSnkDOJTa8b2ZHO1sGnKGZ0y9kjovwtTpDiwHuIawZgYBdXhLtO7MnOmmM4KCK70ma77UTPLnJ+Ev8A==;VCfz7iriftR7JABiz15o9w=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://analyticsindiamag.com/ai-startup-neureality-raises-35-mn-t
 webUrl: "https://analyticsindiamag.com/ai-startup-neureality-raises-35-mn-to-develop-ai-inference-chip/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Analytics India Magazine
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI chip startup NeuReality raises $35M in funding"
-    excerpt: "Startup NeuReality Ltd. today announced that it has raised $35 million in funding to commercialize its NR1 chip, which is designed to speed up artificial intelligence applications. The Series A funding round was led by Samsung Ventures,"
-    publishedDateTime: 2022-12-06T22:25:00Z
-    webUrl: "https://siliconangle.com/2022/12/06/ai-chip-startup-neureality-raises-35m-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/NeuReality.png"
-        width: 718
-        height: 400
-        isCached: true
   - title: "AI Chip Startup NeuReality Raises USD 35M in Funding"
     excerpt: "The startup NeuReality Ltd. has disclosed that it has raised USD 35 million in funding to market its NR1 chip, which is intended"
     publishedDateTime: 2022-12-07T13:10:00Z

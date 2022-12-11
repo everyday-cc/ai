@@ -33,20 +33,6 @@ related:
         width: 2240
         height: 1260
         isCached: true
-  - title: "AI chip startup NeuReality raises $35M in funding"
-    excerpt: "Startup NeuReality Ltd. today announced that it has raised $35 million in funding to commercialize its NR1 chip, which is designed to speed up artificial intelligence applications. The Series A funding round was led by Samsung Ventures,"
-    publishedDateTime: 2022-12-06T22:25:00Z
-    webUrl: "https://siliconangle.com/2022/12/06/ai-chip-startup-neureality-raises-35m-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/NeuReality.png"
-        width: 718
-        height: 400
-        isCached: true
 
 secured: "IiyFEOQ3wjyLb+ZAgoHnvo/0XUI5ZUwZHQdhvWlifIcyfG4skSPOHGeTXK75BKS7UCGk9CpzSCnZdn9qWVpRanafNc4puoW8mSyUOxiLv5eN4CZl1QaUglbuIW/oh+Rdg6LgRC8fy2p4ZQYE7ZLxFOxmJAeK/nP53XBjdtZ+KEuFduGCAVJ5WBNnUpOLRM2RE2c5nvA3ERXESYJ2dEJcz0dkviPbdKtmd6KNrGAsZSYyQLG4RN2nqB1Mu6+9K/Jd2CxvvkL71+iohtUFDQzmtYh2Wo5WfHm0ijH/xOyDancn35+5CTEkZi2LaXar0NDjj27pM6P5hVK+uVqfjSfmmhrkMbYF8tL2nKljdGP09P2TUjvH6i1JpwQpZm/B338t//6rgTSGMRHC4+tKxco7EnO9LwULXa2bdefwSZ7JXkGyRkbvycjSsAolmL13mYiMN6zx7zUdjHG5pEORbm+ImOIYmJP++MqKoJYgzA51o3jHzaM5pBz7fi7S/AmnMExUPrdvn9DnMeVG+9gynZY2Sw==;iWf2k/PhaTuDRMD210yt4w=="
 ---

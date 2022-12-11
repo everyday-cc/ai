@@ -9,7 +9,7 @@ ampWebUrl: "https://www.delcotimes.com/2022/12/08/apple-scales-back-self-driving
 cdnAmpWebUrl: "https://www-delcotimes-com.cdn.ampproject.org/c/s/www.delcotimes.com/2022/12/08/apple-scales-back-self-driving-car-and-delays-debut-till-26/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple scales back self-driving car and delays debut until 2026"
-    excerpt: "Apple has scaled back ambitious self-driving plans for its future electric vehicle and postponed the car’s target launch date by about a year to 2026, according to people with knowledge of the matter."
-    publishedDateTime: 2022-12-06T23:46:00Z
-    webUrl: "https://www.latimes.com/business/story/2022-12-06/apple-scales-back-self-driving-car-debut-2026"
-    ampWebUrl: "https://www.latimes.com/business/story/2022-12-06/apple-scales-back-self-driving-car-debut-2026?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2022-12-06/apple-scales-back-self-driving-car-debut-2026?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 44
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/f3255b5/2147483647/strip/true/crop/2898x1938+51+0/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fcf%2F5b%2F1d2de50b4dde8de0ea8a693fb1f3%2Fap18040590951897.jpg"
-        width: 320
-        height: 214
-        isCached: true
   - title: "Apple scales back its self driving plans, postponing the launch date to 2026"
     excerpt: "The changes come after reports of Apple being in talks with automakers and other manufacturers for over a year."
     publishedDateTime: 2022-12-07T06:02:00Z
@@ -68,20 +52,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 24
-  - title: "Apple Car Reportedly Won’t Be Self-Driving and Now Delayed Until 2026"
-    excerpt: "The car will now have a steering wheel, pedals, and just about everything like a normal car, but a bevy of driver-assistance hardware and a price around $100K."
-    publishedDateTime: 2022-12-06T21:09:00Z
-    webUrl: "https://www.thedrive.com/news/apple-car-reportedly-wont-be-self-driving-and-now-delayed-until-2026"
-    type: article
-    provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 24
-    images:
-      - url: "https://www.thedrive.com/uploads/2022/12/06/Apple-WWDC22-iOS16-CarPlay-220606.jpg?auto=webp"
-        width: 1960
-        height: 1102
-        isCached: true
   - title: "Apple's self-driving car debut pushed back and may be less advanced"
     excerpt: "The Apple Car's release date has reportedly been pushed back by a year, from 2025 to 2026, and its self-driving capabilities will be scaled back."
     publishedDateTime: 2022-12-07T15:53:00Z

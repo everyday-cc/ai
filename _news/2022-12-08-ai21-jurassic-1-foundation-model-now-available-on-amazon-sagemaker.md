@@ -70,20 +70,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 78
-  - title: "AWS updates machine learning service SageMaker"
-    excerpt: "AWS has added new features to its managed machine learning​ service Amazon SageMaker​, designed to improve governance attributes within the service."
-    publishedDateTime: 2022-12-07T00:46:00Z
-    webUrl: "https://www.reseller.co.nz/article/703755/aws-updates-machine-learning-service-sagemaker/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 71
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/aws_dreamstime_4_11.jpg"
-        width: 504
-        height: 315
-        isCached: true
   - title: "AI21 Jurassic-1 Foundation Model Now Available on Amazon SageMaker"
     excerpt: "AI21 Labs, an Israeli startup aiming to fundamentally change the way people read and write using Generative AI, announced today that its Jurassic-1 Foundation Model used to power chatbots, answer questions,"
     publishedDateTime: 2022-12-08T16:54:00Z

@@ -34,6 +34,15 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 4
+  - title: "Australian artists accuse popular AI imaging app of stealing content, call for stricter copyright laws"
+    excerpt: "Developer of software denies allegations, saying Lensa learns to create portraits just as a human would – by learning different artistic styles"
+    publishedDateTime: 2022-12-11T13:02:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2022/dec/12/australian-artists-accuse-popular-ai-imaging-app-of-stealing-content-call-for-stricter-copyright-laws"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 1
 
 secured: "qQXazUJZiwu+HcBslrbd5FSseDYYPV3mG4g+Q2vq2XA/5pluFLbIGxi8hNlxIkdxn+SH+lTjL4MdGmXX2TW1W3o7GW03m5nbHqGcd5p7+z9nmLtkPS6Uzw7nws2Drp5mJdrLwJAZoO8ySreaF47T4wYoQPLSRSe2ErOh8fYyUobTkZF8VBJyAnoG7ynVZsM4wzKcUnW6qqZMotZAIXyOUXC/LMpN4BK1bwTN2W1CSGN77KgZbXtep/bDUNadmEwIxXLdFskIa/kaMeD9M8yLnlS+jDR97tVD1/lAHylq1HUMDxpf5sBBeaS+8dWhq7M0ymicN2jbLH/f7MetuPjhBQIFBuijK93WmQ+KWN2/k1k=;oFViUUELhy4tje3ZGZGngw=="
 ---
