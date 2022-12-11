@@ -23,22 +23,6 @@ topics:
   - AI
   - Facebook AI
 
-related:
-  - title: "Alternative Health Inc.: AHAI, the AI Based Multi Symptom Check and Therapy Recommendation Platform to be Released in the First Quarter of 2023"
-    excerpt: "LAS VEGAS, NV / ACCESSWIRE / December 6, 2022 / Alternative Health, Inc, the US based medical company announced that it will be releasing its evidence based diagnostic and recommendation platform to t"
-    publishedDateTime: 2022-12-06T17:51:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-12/57774816-alternative-health-inc-ahai-the-ai-based-multi-symptom-check-and-therapy-recommendation-platform-to-be-released-in-the-first-quarter-of-2023-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 18
-    images:
-      - url: "https://www.accesswire.com/users/newswire/images/730462/kpvw3onlpimll72idprqlvo2pftwml3r1hdijq68xwcg9rmzcm.jpg"
-        width: 1600
-        height: 948
-        isCached: true
-
 secured: "oUrrfVLdJbxax8YrckQ3SOfuM70ionCc0ud2W2EirGHpFG8fnFKpoED+Odnb74REbbkInZeRgyI+x5DpXjNA7BxjqM3cZfyfWU1Tyq/TOrbhHG9pMvi2bOIYpDxOBVUAApI9vZO0uDg7KzBdQf7JzkeEJGdijQYUncm55FqamvEsNBxDo/eZLr4TNHAbfECQAyqjq6VR8c+0C5axES23hWm954ATGU1KRZYp7tV+IcaJom/shF1TqKlcvrw9fh+ufiqsGWyVM7qTqTBbdV4vDUp3nIf7fU9cHCA/0hyh1iSrBghJ0gUhUB8qqbWDWwqZKgo6nGdFndg79nL2t5lJ4P3a9wO7zSUVdNWmhbe0U+s=;DiWiT6/2s02wSOJopSn26Q=="
 ---
 

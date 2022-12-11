@@ -7,7 +7,7 @@ originalUrl: "https://www.sbs.com.au/news/article/tough-road-ahead-self-driving-
 webUrl: "https://www.sbs.com.au/news/article/tough-road-ahead-self-driving-cars-are-taking-off-in-the-us-but-australians-might-be-waiting-a-while-yet/a5ebp93on"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning tool can help predict pre-frailty in screening of middle aged and older Australians"
-    excerpt: "Machine learning could be the key component in developing effective early screening systems identifying frailty in middle aged and older Australians."
-    publishedDateTime: 2022-12-06T18:18:00Z
-    webUrl: "https://medicalxpress.com/news/2022-12-machine-tool-pre-frailty-screening-middle.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-12-machine-tool-pre-frailty-screening-middle.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-machine-tool-pre-frailty-screening-middle.amp"
+  - title: "Watch How A Self-Driving Truck Reacts To A Catastrophic Tire Blowout"
+    excerpt: "One firm working on that problem, Kodiak, a self-driving trucking startup, just showed how well its software can handle a tire blowout. Kodiak Robotics is just one of many companies working on autonomous trucking but it’s one of very few showing off results."
+    publishedDateTime: 2022-12-10T13:09:00Z
+    webUrl: "https://www.carscoops.com/2022/12/watch-how-a-self-driving-truck-reacts-to-a-catastrophic-tire-blowout/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/older-couple.jpg"
-        width: 1920
-        height: 1474
-        isCached: true
+      name: Carscoops
+      domain: carscoops.com
+    quality: 4
 
 secured: "qQXazUJZiwu+HcBslrbd5FSseDYYPV3mG4g+Q2vq2XA/5pluFLbIGxi8hNlxIkdxn+SH+lTjL4MdGmXX2TW1W3o7GW03m5nbHqGcd5p7+z9nmLtkPS6Uzw7nws2Drp5mJdrLwJAZoO8ySreaF47T4wYoQPLSRSe2ErOh8fYyUobTkZF8VBJyAnoG7ynVZsM4wzKcUnW6qqZMotZAIXyOUXC/LMpN4BK1bwTN2W1CSGN77KgZbXtep/bDUNadmEwIxXLdFskIa/kaMeD9M8yLnlS+jDR97tVD1/lAHylq1HUMDxpf5sBBeaS+8dWhq7M0ymicN2jbLH/f7MetuPjhBQIFBuijK93WmQ+KWN2/k1k=;oFViUUELhy4tje3ZGZGngw=="
 ---

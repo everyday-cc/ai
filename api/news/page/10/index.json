@@ -2,6 +2,101 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-11-30-first-minister-speech-disrupted-by-gender-recognition-protester.md",
+      "title": "First Minister speech disrupted by gender recognition protester",
+      "excerpt": "NICOLA Sturgeon’s keynote address to mark the 30th anniversary of the Zero Tolerance campaign was disrupted by a heckler protesting against",
+      "sourceUrl": null,
+      "webUrl": "https://www.heraldscotland.com/politics/23159210.first-minister-speech-disrupted-gender-recognition-protester/?ref=rss",
+      "originalUrl": "https://www.heraldscotland.com/politics/23159210.first-minister-speech-disrupted-gender-recognition-protester/?ref=rss",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.heraldscotland.com/resources/images/16138459/?type=og-image",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T02:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "heraldscotland",
+        "domain": "heraldscotland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-us-backed-researchers-use-ai-to-probe-for-weaknesses-in-drug-supply-chains.md",
+      "title": "U.S.-Backed Researchers Use AI to Probe for Weaknesses in Drug Supply Chains",
+      "excerpt": "The U.S. Department of Homeland Security has approved research that will use artificial intelligence to delve into drug supply chains and probe for weaknesses, including foreign influence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/u-s-backed-researchers-use-ai-to-probe-for-weaknesses-in-drug-supply-chains-11669757763",
+      "originalUrl": "https://www.wsj.com/articles/u-s-backed-researchers-use-ai-to-probe-for-weaknesses-in-drug-supply-chains-11669757763",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-675403/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/u-s-backed-researchers-use-ai-to-probe-for-weaknesses-in-drug-supply-chains-11669757763",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-backed-researchers-use-ai-to-probe-for-weaknesses-in-drug-supply-chains-11669757763",
+      "publishedDateTime": "2022-11-30T01:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-samsung-to-hire-over-1000-engineers-for-ai-machine-learning-space.md",
       "title": "Samsung To Hire Over 1,000 Engineers For AI, Machine Learning Space",
       "excerpt": "The young engineers will join the company in 2023, and will work on new-age technologies at its R&D institutes in Bengaluru, Noida, Delhi and at Samsung Semiconductor India Research in Bengaluru.",
@@ -44,49 +139,6 @@
         "AI",
         "Facebook AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-baidu-to-supply-l2-driver-assisting-anp-30-mid-2023.md",
-      "title": "Baidu to supply L2+ driver-assisting ANP 3.0 mid-2023",
-      "excerpt": "Baidu unveiled its latest progress on unifying L4 and L2+ autonomous driving technology on Apollo Day held on November 29 and announced that it will deliver L2+ driver-assisting product \"ANP 3.0\" in the summer of 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20221130VL211/adas-baidu.html?chid=13",
-      "originalUrl": "https://www.digitimes.com/news/a20221130VL211/adas-baidu.html?chid=13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20221130vl211_files/2_2b.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T23:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -1043,57 +1095,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-amazons-new-alexa-feature-uses-ai-to-create-animated-stories-on-echo-show.md",
-      "title": "Amazon’s new Alexa feature uses AI to create animated stories on Echo Show",
-      "excerpt": "Amazon announced today the launch of “Create with Alexa,” a new AI tool for kids that generates animated stories. The company first revealed the feature in September. “Create with Alexa” launched in the U.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/29/amazons-alexa-ai-animated-kids-stories-echo-show/",
-      "originalUrl": "https://techcrunch.com/2022/11/29/amazons-alexa-ai-animated-kids-stories-echo-show/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/assets.aboutamazon.webp",
-          "width": 1189,
-          "height": 743,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/29/amazons-alexa-ai-animated-kids-stories-echo-show/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/29/amazons-alexa-ai-animated-kids-stories-echo-show/amp/",
-      "publishedDateTime": "2022-11-29T09:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Is ChatGPT the Start of the AI Revolution?"
-excerpt: "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skillset. On"
-publishedDateTime: 2022-12-09T12:40:00Z
-originalUrl: "https://www.washingtonpost.com/business/is-chatgpt-the-start-of-the-ai-revolution/2022/12/09/9eb9dfec-77b5-11ed-a199-927b334b939f_story.html"
-webUrl: "https://www.washingtonpost.com/business/is-chatgpt-the-start-of-the-ai-revolution/2022/12/09/9eb9dfec-77b5-11ed-a199-927b334b939f_story.html"
+excerpt: "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skill"
+publishedDateTime: 2022-12-09T10:30:00Z
+originalUrl: "https://www.bloomberg.com/opinion/articles/2022-12-09/is-chatgpt-the-start-of-the-ai-revolution"
+webUrl: "https://www.bloomberg.com/opinion/articles/2022-12-09/is-chatgpt-the-start-of-the-ai-revolution"
 type: article
-quality: 37
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: The Washington Post
-  domain: washingtonpost.com
+  name: Bloomberg L.P.
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TYKMLGDXWUI63IMZSJ5TGS4TT4.jpg&w=1440"
-    width: 1440
-    height: 963
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifzBIsn2zMPo/v1/1200x802.jpg"
+    width: 1200
+    height: 802
     isCached: true
 
 related:
@@ -117,22 +121,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/yNkf9v3sccBTTXEe8JonTcXyZfc=/0x0:2650x1767/1200x628/filters:focal(1325x884:1326x885)/cdn.vox-cdn.com/uploads/chorus_asset/file/24275829/CatherineBreslin_SiliconCloseup_2650x1767.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "The workings of ChatGPT, the latest natural language processing tool"
-    excerpt: "The latest artificial intelligence tool is creating a buzz among computer scientists and programmers due to its creative capabilities. The tool has been developed by OpenAI, a research institute found"
-    publishedDateTime: 2022-12-06T17:10:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/the-workings-of-chatgpt-the-latest-natural-language-processing-tool/article66230152.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/the-workings-of-chatgpt-the-latest-natural-language-processing-tool/article66230152.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/the-workings-of-chatgpt-the-latest-natural-language-processing-tool/article66230152.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/5jpiou/article66232021.ece/alternates/FREE_1200/iStock-1206801125.jpg"
-        width: 1200
-        height: 608
         isCached: true
   - title: "AI chatbot ChatGPT provides the internet with new meme machine"
     excerpt: "Artificial intelligence (AI) chatbot ChatGPT has gone viral online, with the bot able to write entire songs, essays and poems on demand."
@@ -253,6 +241,6 @@ related:
       domain: thespinoff.co.nz
     quality: 17
 
-secured: "TkJmjPFlGmHuYPFJ6XjiWlNycXX+P+1wd+y3fIAA/nN92fA4wGQ6C91oFDcoDhK6KtuXlxBdNe0ig0OIWPcjAU1xaTeVvrqfERSHPhbyMnQ3lcnzHBiPDJ4ROs3PlSBUm03PsVVK10eVTv+oTCuwkEmikzO8CafegLeg9/aOZgNIyPVIszwO+xPDM/oKY33EB4Ot9ZUzjndWL1F0HmXm7PDofJwcrrLiuRZI/rIXaz7xYdQyNTKfIXOiunDNv8tiV8kesQEHojVR/vQYFyRbuqR9Afaz20PlVm2ee9Cv8bryCewwcjb4DJRNrn0HF4SEVtP0wKQdKEbYWhpAZCbOuMGblvdYoa9BXgLBZB9oVLk=;55t3593Oe40F6Naf2ZsKJA=="
+secured: "rystCDHP09AizfjzHSL0DtFsZyJ9IAsYk8/e/QdFPqvVdsV2sCtP1qwLJTcmc8+jcZL962WhPx9bP9990TaSUUMYsYKoO9X84LXR7flhARbmxbUrebYZp+0HXFv4p1mCVk21Xgzkl26C7mQMZq2CFg8YLBBYdPKr/lYWODP432uqBYcMBH05crl2zwYGU+birAow8Ls41SSJh1nvkZJ6PRDT3KdV290Ovu/Ty0n4SwZ1TCWB0yJtmL/EkOjbhckxMfWPff0oauYXjvf2+SeLNjj7EJIHmXNygNOiXyidcEPKVkL/4tKLIh+EoSxICuA6BjcAS5glDuiHMrgzQrpzrreWIwkaHGxyARbpzcYZtz8=;3DkaC8ZBzn8MjoQEJyNtbQ=="
 ---
 

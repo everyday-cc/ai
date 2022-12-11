@@ -56,15 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Mental Health Global Market Report 2022: Ever-Surging Prevalence of Mental Health Issues Worldwide Drives Growth"
-    excerpt: "Global Market Outlook\" report has been added to ResearchAndMarkets.com's offering. The rise of digital approaches to mental health has led to the development of predictions, detections, and treatment solutions based on artificial intelligence (AI) and machine learning (ML)."
-    publishedDateTime: 2022-12-06T17:37:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/12/06/9725490.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "mzd7nyuzqmLd+fy67xLRuf+frAtM/5T+K9OZ3llrTeySA5lUKKZ1kJ1FshNT4u1s3AwCPosuNdIkzHb3gLKLjad0m/ixlknKCSevywCXbr0O0ANp4ghQIRDYOMSGOnjxN2rCRwqMzxSgaoInD0cmJUhEp/eHAy9KqlQXvFvSs9MxjaagtJGes3htMKQ0bPEDOc21uJMu2DAjXVfSqmlzzyB89UIv/rGp3dSwFIxIgULgiQz0K5s6wp23RiynYFoW6ImwY83PMMoAOzvdP3vebyA8nYcznEUWs6t4Y6sLtgn7S4DrwMSiRVHbTWVByfdq27PwuK2aEgTzRQDKmKBRUmB/12VKLvSwX7KFb3616dc=;bEDTv+Zx001+d+lfTIlDuQ=="
 ---

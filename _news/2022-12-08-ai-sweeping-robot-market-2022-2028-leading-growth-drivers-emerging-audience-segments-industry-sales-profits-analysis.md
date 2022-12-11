@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-sweeping-robot-market
 webUrl: "https://www.marketwatch.com/press-release/ai-sweeping-robot-market-2022-2028-leading-growth-drivers-emerging-audience-segments-industry-sales-profits-analysis-2022-12-07"
 type: article
 quality: 75
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Mental Health Global Market Report 2022: Ever-Surging Prevalence of Mental Health Issues Worldwide Drives Growth"
-    excerpt: "Global Market Outlook\" report has been added to ResearchAndMarkets.com's offering. The rise of digital approaches to mental health has led to the development of predictions, detections, and treatment solutions based on artificial intelligence (AI) and machine learning (ML)."
-    publishedDateTime: 2022-12-06T17:37:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/12/06/9725490.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
   - title: "Global Digital Transformation Markets Report 2022: Social Media, AI, Digital Payments, IoT Driving a Staggering $2000+ Billion Industry by 2027"
     excerpt: "Telemedicine, AI-driven medical devices and patient care robots, and electronic health records are some ... to special purpose acquisition companies (SPACs) and start-ups operating worldwide. Some of the strategies among key players in the market for ..."
     publishedDateTime: 2022-12-07T13:49:00Z

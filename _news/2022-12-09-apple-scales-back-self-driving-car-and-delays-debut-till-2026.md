@@ -9,7 +9,7 @@ ampWebUrl: "https://www.delcotimes.com/2022/12/08/apple-scales-back-self-driving
 cdnAmpWebUrl: "https://www-delcotimes-com.cdn.ampproject.org/c/s/www.delcotimes.com/2022/12/08/apple-scales-back-self-driving-car-and-delays-debut-till-26/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,36 @@ images:
     isCached: true
 
 related:
+  - title: "Apple scales back self-driving car and delays debut until 2026"
+    excerpt: "Apple has scaled back ambitious self-driving plans for its future electric vehicle and postponed the car’s target launch date by about a year to 2026, according to people with knowledge of the matter."
+    publishedDateTime: 2022-12-06T23:46:00Z
+    webUrl: "https://www.latimes.com/business/story/2022-12-06/apple-scales-back-self-driving-car-debut-2026"
+    ampWebUrl: "https://www.latimes.com/business/story/2022-12-06/apple-scales-back-self-driving-car-debut-2026?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2022-12-06/apple-scales-back-self-driving-car-debut-2026?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 44
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/f3255b5/2147483647/strip/true/crop/2898x1938+51+0/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fcf%2F5b%2F1d2de50b4dde8de0ea8a693fb1f3%2Fap18040590951897.jpg"
+        width: 320
+        height: 214
+        isCached: true
+  - title: "Apple scales back its self driving plans, postponing the launch date to 2026"
+    excerpt: "The changes come after reports of Apple being in talks with automakers and other manufacturers for over a year."
+    publishedDateTime: 2022-12-07T06:02:00Z
+    webUrl: "https://techstory.in/apple-scales-back-its-self-driving-plans-postponing-the-launch-date-to-2026/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 36
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/12/2022-12-06T153737Z_1_VA7_RTRLXPP_2_LYNXPACKAGER.jpeg"
+        width: 720
+        height: 400
+        isCached: true
   - title: "Apple Reportedly Taps the Brakes on Its Self-Driving Car"
     excerpt: "Along with the delayed release, the car will reportedly now only have full autonomous capabilities while on the highway. Consequently, the initial design -- void of a steering wheel and pedals -- will have to be modified to accommodate manual driving."
     publishedDateTime: 2022-12-06T20:20:00Z
@@ -117,6 +147,20 @@ related:
         width: 626
         height: 313
         isCached: true
+  - title: "Apple delays Apple Car until at least 2026 and drops self-driving ambitions"
+    excerpt: "Apple is seemingly accepting temporary defeat and scaling back some of its ambition with the long-rumored Apple Car project. As reported by Bloomberg, the company has again delayed the launch of the Apple Car,"
+    publishedDateTime: 2022-12-06T20:07:00Z
+    webUrl: "https://www.imore.com/apple/apple-delays-apple-car-until-at-least-2026-and-drops-self-driving-ambitions"
+    type: article
+    provider:
+      name: iMore
+      domain: imore.com
+    quality: 22
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/hW3tCxUSeUh3ZpntFvAm4P-1200-80.jpg"
+        width: 1200
+        height: 646
+        isCached: true
   - title: "Apple scales back self-driving car and delays debut till ’26"
     excerpt: "The car project, dubbed Titan inside the company, has been in limbo for the past several months as Apple executives grappled with the reality that its vision for a fully autonomous vehicle —"
     publishedDateTime: 2022-12-07T13:35:00Z
@@ -134,6 +178,15 @@ related:
     provider:
       name: Pocket-lint
       domain: pocket-lint.com
+    quality: 4
+  - title: "Apple Car Delayed Until 2026, Self-Driving Plans Scaled Back"
+    excerpt: "California-based tech giant Apple is pulling back on its plans to launch a fully autonomous vehicle, and will instead seek to launch a more traditional all-electric car with some semi-autonomous capabilities around the 2026 calendar year."
+    publishedDateTime: 2022-12-08T15:34:00Z
+    webUrl: "https://gmauthority.com/blog/2022/12/apple-car-delayed-until-2026-self-driving-plans-scaled-back/"
+    type: article
+    provider:
+      name: GM Authority
+      domain: gmauthority.com
     quality: 4
 
 secured: "/5Ws6NmB+ycNDRFLy5NnlK+N1GHHwMwW238l2f9vVUGJdumpSvW40PhqZNruaV8dCwpP7rdMFjeGp1GqOIgJxYrVUE+nL+esIqXux1Fq5Z+vQdK4LSEbKLxP3SxzK6mlMaJp7grxv182liLV6l4W9+iyIerJPs7RM+SSo+zdAy1HIHXrCmRjRx7n0Qgn9kXBMyCQ91fmhP2qb1hkU3z1gclSsX3m3Y8iy+jjL6MJEmlUHMZaXv8/bVknOFZHdn1zt7h5JM/cUK3zSzjXI7np8IvubCsSrr5JgsXV1KMmo0ASess3haIdWZfkkuMiTlryU1yF9ay0BW5McdNZsa5TuN0nqRsCalO6hVev2dGZx8NVViyDSmyo7Kxalfq86gJS8VA4iXbP/R5+nIuVbsfC0gq2RrEkullJJzVkQeP5Woo0N6pRjXnr+lOQxoTdJb8AUB8j7wPvUheDfkR3q9OMUnlPkWnIoDlgFWYKwQD2CJtCPajJzjPsHQNq386kJ6bGG8+J355KZ6yhjKCFVTTAgg==;xoTsP5H8flY5wAFBX2lcAg=="

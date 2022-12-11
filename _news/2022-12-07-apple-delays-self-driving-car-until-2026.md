@@ -50,15 +50,6 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 19
-  - title: "Apple Scales Back Self-Driving Car, Delays Debut Until 2026"
-    excerpt: "Apple Inc. has scaled back ambitious self-driving plans for its future electric vehicle and postponed the car’s target launch date by about a year to 2026, according to people with knowledge of the matter."
-    publishedDateTime: 2022-12-06T18:22:00Z
-    webUrl: "https://www.ttnews.com/articles/apple-scales-back-self-driving-car-delays-debut-until-2026"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 4
 
 secured: "D0K9BSBIw9p0KkSUtuJRH1dN9IW5lgZRfah0R4n4UF788m6Rtm5+hhKIvSHJGzS5dri5vivyMnR8+GnaSjA7DG/HlH3XobBy5kDnd5vRCfgt4Olb/6fZtG4Xr+79VU0wbZH72/JeRxVZ316KImV5Kvsj0I2gT078CRyTWc+J0BToS0RjNXm8rqZRbT0RSdfKxjQBNeo8TXgIEAQ4bcc+ITd/6sWEfJBu1rigGMPHwNaBLERAzmxz0A99lu+mJgDs4hBsGW/4MFQJIlCPqC2jR+DUtxPh3Fl7RGRgsY2C2OM3ui5U1a4j4i1H7JdbQPi9F74J53+NichY3gDIRGpCjhSwf9bcJXI5bCS/uMpoOc0ZrYHUXCelwEuBTxdyCQsHVceRkZ0kAZ5l4hEb/t5jg26BYa2Fe6wOeMJq6hPgQ1UzXKf+nVOzq/fY7uB+4HLKBGPdjGJl/dFMO8h2EbxX8KLssx6xogSthQOd+x57FtoBKDms1xMCjkq7hMW/f/1IEGuWnVLv8itnc+W3WCAyJw==;a0rWm5WPlRcQLqnQHyOOAA=="
 ---

@@ -2,6 +2,40 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-11-28-has-amd-replaced-nvidia-as-a-top-semiconductor-company.md",
+      "title": "Has AMD Replaced Nvidia as a Top Semiconductor Company?",
+      "excerpt": "Whether the GPUs are used for gaming, data centers, artificial intelligence, self-driving cars, or crypto mining, Nvidia's products are as good as it gets. AMD produces GPUs but also makes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/has-amd-replaced-nvidia-as-a-top-semiconductor-company",
+      "originalUrl": "https://www.nasdaq.com/articles/has-amd-replaced-nvidia-as-a-top-semiconductor-company",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-28T07:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-28-tesla-makes-automated-driving-available-to-north-american-owners.md",
       "title": "Tesla makes automated driving available to North American owners",
       "excerpt": "Tesla is making its controversial driver-assistance system available to customers previously deemed not safe enough behind the wheel to test it out.",
@@ -1073,58 +1107,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-28-teslas-full-self-driving-beta-available-to-anyone-that-pays-in-north-america.md",
-      "title": "Tesla's Full Self-Driving Beta Available to Anyone That Pays in North America",
-      "excerpt": "The software is available to everyone in North America, Tesla’s CEO Elon Musk announced this week. Tesla Inc’s Full Self-Driving Beta software is available to everyone in North America, Tesla’s CEO Elon Musk announced this week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/teslas-full-self-driving-beta-available-to-anyone-that-pays-in-north-america",
-      "originalUrl": "https://www.pcmag.com/news/teslas-full-self-driving-beta-available-to-anyone-that-pays-in-north-america",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/02OshWCfdI1EhLBcurR6BqR-1.fit_lim.size_1200x630.v1669587586.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-27T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

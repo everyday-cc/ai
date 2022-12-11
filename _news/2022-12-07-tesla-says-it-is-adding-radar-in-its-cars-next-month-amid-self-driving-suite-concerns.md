@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2022/12/06/tesla-radar-car-next-month-self-dri
 webUrl: "https://electrek.co/2022/12/06/tesla-radar-car-next-month-self-driving-suite-concerns/"
 type: article
 quality: 62
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 19
-  - title: "Apple Scales Back Self-Driving Car, Delays Debut Until 2026"
-    excerpt: "Apple Inc. has scaled back ambitious self-driving plans for its future electric vehicle and postponed the car’s target launch date by about a year to 2026, according to people with knowledge of the matter."
-    publishedDateTime: 2022-12-06T18:22:00Z
-    webUrl: "https://www.ttnews.com/articles/apple-scales-back-self-driving-car-delays-debut-until-2026"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 4
 
 secured: "gTC9hOJnf/yAXEv74rGfhxBV/oUt/Eltr5dCxsbwzKK6fqBiKrdNdI+Xo4CDWlnDZCouwFSQ+mHRrGE8zU5ypTYye+/VF+xRZaLpqLtQ90I/eLv2pdjORr4leVALaKNb5MmYCt8zlZ9ksWI2+t4ZQBLXwj7vnGUKWYdCQdDVW5o8R/zAx7/0+AoT3KqBDrkhb+irNx4qhzkpTPmWoUK8wj18FAKyru54nJglqBpYP9MVfvO7hwnwCVdRcXqLDDb0gu7T05xIcZTslwA+DBBf2yR7L0rsReqMhsjF95Vob2P4hcOt+rFN3nXRxTMAbFi4lMntCZuTKisX0zUz8t5HDRdYSO8pmjkJPItq4l+IvcGj5BpjCR7LTtptrBjw/5sxs/eGN14SrREOzr4id4vDKHFFbc65Lx6LFYqXf/U1fxFZVSe4W3gnmXRhR39EF0Z3IH9CZTA7v5OMuHWNLmi4jJW0fHYZv1qSJ/NRlZi8aPO/085TREprMZ5GP/hzDFl2w+6GMb/mPjtbT/qxU9JU2w==;pJs14GqHZTraM6uljZlWUQ=="
 ---

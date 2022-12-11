@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-12-01-aws-announces-eight-new-amazon-sagemaker-capabilities.md",
+      "title": "AWS Announces Eight New Amazon SageMaker Capabilities",
+      "excerpt": "At AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced eight new capabilities for Amazon SageMaker, its end-to-end machine learning (ML ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-eight-new-amazon-sagemaker-capabilities/article_fe16b955-2c7f-5b55-b556-bd4a4f9351ea.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-eight-new-amazon-sagemaker-capabilities/article_fe16b955-2c7f-5b55-b556-bd4a4f9351ea.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg",
+          "width": 350,
+          "height": 455,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T11:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-asia-pacific-fintech-as-a-service-market-report-2022-key-players-paypal-mastercard-sofi-technologies-and-more-fueling-174-annual-growth.md",
       "title": "Asia Pacific Fintech-as-a-Service Market Report 2022: Key Players PayPal, Mastercard, SoFi Technologies and More Fueling 17.4% Annual Growth",
       "excerpt": "The Asia Pacific Fintech-as-a-Service Market is expected to witness market growth of 17.4% CAGR during the forecast period (2022-2028). The debut of ARDEN in May 2022 was announced by Brightwell Payments,",
@@ -456,6 +499,49 @@
       ],
       "topics": [
         "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-baidu-to-supply-l2-driver-assisting-anp-30-mid-2023.md",
+      "title": "Baidu to supply L2+ driver-assisting ANP 3.0 mid-2023",
+      "excerpt": "Baidu unveiled its latest progress on unifying L4 and L2+ autonomous driving technology on Apollo Day held on November 29 and announced that it will deliver L2+ driver-assisting product \"ANP 3.0 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20221130VL211/adas-baidu.html",
+      "originalUrl": "https://www.digitimes.com/news/a20221130VL211/adas-baidu.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20221130vl211_files/2_2b.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T07:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1092,101 +1178,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-first-minister-speech-disrupted-by-gender-recognition-protester.md",
-      "title": "First Minister speech disrupted by gender recognition protester",
-      "excerpt": "NICOLA Sturgeon’s keynote address to mark the 30th anniversary of the Zero Tolerance campaign was disrupted by a heckler protesting against",
-      "sourceUrl": null,
-      "webUrl": "https://www.heraldscotland.com/politics/23159210.first-minister-speech-disrupted-gender-recognition-protester/?ref=rss",
-      "originalUrl": "https://www.heraldscotland.com/politics/23159210.first-minister-speech-disrupted-gender-recognition-protester/?ref=rss",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.heraldscotland.com/resources/images/16138459/?type=og-image",
-          "width": 945,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T02:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "heraldscotland",
-        "domain": "heraldscotland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-us-backed-researchers-use-ai-to-probe-for-weaknesses-in-drug-supply-chains.md",
-      "title": "U.S.-Backed Researchers Use AI to Probe for Weaknesses in Drug Supply Chains",
-      "excerpt": "The U.S. Department of Homeland Security has approved research that will use artificial intelligence to delve into drug supply chains and probe for weaknesses, including foreign influence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/u-s-backed-researchers-use-ai-to-probe-for-weaknesses-in-drug-supply-chains-11669757763",
-      "originalUrl": "https://www.wsj.com/articles/u-s-backed-researchers-use-ai-to-probe-for-weaknesses-in-drug-supply-chains-11669757763",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-675403/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/u-s-backed-researchers-use-ai-to-probe-for-weaknesses-in-drug-supply-chains-11669757763",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-backed-researchers-use-ai-to-probe-for-weaknesses-in-drug-supply-chains-11669757763",
-      "publishedDateTime": "2022-11-30T01:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

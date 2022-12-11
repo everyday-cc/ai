@@ -99,15 +99,6 @@ related:
         width: 640
         height: 362
         isCached: true
-  - title: "Apple to scale back self-driving car ambitions, delay car launch to 2026 - Bloomberg News"
-    excerpt: "Apple Inc is scaling back its self-driving car ambitions and delaying the car's launch date to 2026, a Bloomberg News reporter said in a tweet on Tuesday."
-    publishedDateTime: 2022-12-06T18:05:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/apple-scale-back-self-driving-car-ambitions-delay-car-launch-2026-bloomberg-news-2022-12-06/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 25
   - title: "Apple Delays the Launch and Lowers the Ambitions for its Self-Driving Car"
     excerpt: "Apple is modifying the design of its first self-driving vehicle to include a steering wheel and pedals, which earlier plans left out."
     publishedDateTime: 2022-12-07T15:27:00Z
@@ -176,15 +167,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 4
-  - title: "Apple pushes self-driving car launch to 2026 but still eyes major EV industry disruption"
-    excerpt: "The wait for Apple (NASDAQ:AAPL) to bring a self-driving car to the market has been pushed back until 2026. Sources indicate the tech giant has also moved away from producing an electric car without steering wheel or pedals in favor of a less ambitious design that still offers full autonomous capabilities on highways."
-    publishedDateTime: 2022-12-06T19:00:00Z
-    webUrl: "https://seekingalpha.com/news/3914508-apple-pushes-self-driving-car-launch-to-2026-but-still-eyes-major-ev-industry-disruption"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 0
 
 secured: "Qt6phiPolNjy+/+7aPy/eyZEJbxkoxoL3LE/c5qsJG6lgwIJpxiYG23Cm/tSe4UAAP+ZPQGWoAFUqvsEIrpAdFFGQ/357Bjpelv+w+edFiaDUyQ+U1b4hCGO4GvDnadgqQP3lfN0LlzF/iXsHKu8cSVTeDL/RYmD6Txk9XaC/XRc52J4T06SlK8goNNDhE/pXjRAdNEduMhv0WX/UXRiFSDb//8NGPiO0wleOqnUfakt5X045/LugghhYswwv02bUWK/PK9M0RHuAYYJuHubLDgle3vk4TU7y23yRg0L+8I2JGo4N7lFv2jfi5dv9qd7xbpo8dywfuww4EKkyzGkiCGMPa1649PHinxwPgznxN/+4gdXXRDrsuap1N8ZxvCiEfPCdD/aFRpy8qHtiimSp4mSrcwZuAoUhlnwREv4EcA3g46DCpfvaj+A63SOD/v1ONgwj0EXEyvF16Hs8zhlDkmQEy2G+QpgMY6wyYHuusvKY+zXQZXRpNL33YqDuu9PtC/rn9fYuvp0cur1bvexag==;HUzlHtu2OhxntRqx2dtvOA=="
 ---

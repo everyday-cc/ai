@@ -49,15 +49,6 @@ related:
         width: 718
         height: 300
         isCached: true
-  - title: "Apple Scales Back Self-Driving Car, Delays Debut Until 2026"
-    excerpt: "Apple Inc. has scaled back ambitious self-driving plans for its future electric vehicle and postponed the car’s target launch date by about a year to 2026, according to people with knowledge of the matter."
-    publishedDateTime: 2022-12-06T18:22:00Z
-    webUrl: "https://www.ttnews.com/articles/apple-scales-back-self-driving-car-delays-debut-until-2026"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 4
 
 secured: "rHjg5+qtA4QQuw3/SjTkGCipWkIrcOLcy+1/96CGYLoX/2omn9KhlE9yyNVBFKoChv6J2YB22bPI/EADTTLX5zFtRmqwpnaxiyGmkYbTyTG3oigdjGVfAqJur+q5oOzXNaA7/nQyPI9TBgp2fCtstc9ZnVX/wmKPoX0wHFmeNjtGIWAzlpBlRxcaGXhc4Mbm5ZXOEeo3atr4cfwRkPZjgWcW/TCQHTUNtjNAEZot2kR04QG1jVvomDWDaRIewjlJs30Rs1m3X60pXIjZHfmKZVmZl2//wl29s9IJwyUL5/1KQ2CSkmm4pmEkiXcwpWmQQdeVmeEZgZByRWzJYGo+CPMJ3JodPHUJeZXFsuD0uK0=;rpwbAy1kpYkvIFKuPqUVug=="
 ---

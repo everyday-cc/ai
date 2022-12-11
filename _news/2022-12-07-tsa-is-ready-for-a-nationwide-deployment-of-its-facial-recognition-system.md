@@ -83,20 +83,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "A massive report highlights fundamental problems with facial recognition and how police lie about its uses."
-    excerpt: "The anecdote opens a landmark report on facial recognition from the Georgetown Law Center on Privacy & Technology, which found that law enforcement agencies are often using the technology as the sole basis for putting people in jail despite claiming they don’t and despite a growing body of evidence that the technology has serious problems with accuracy and bias."
-    publishedDateTime: 2022-12-06T18:55:00Z
-    webUrl: "https://gizmodo.com/facial-recognition-cops-police-sole-basis-arrests-study-1849859483"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 51
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3d2dfea7d2f1ffb43d9b27160d2ee8cc.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Gulfport-Biloxi International Airport testing facial recognition technology at TSA checkpoints"
     excerpt: "The Gulfport-Biloxi International Airport (GPT) is one of 16 airports around the United States testing facial recognition software as a part of identity verification at TSA checkpoints. “The Transportation Security Administration is always implementing ..."
     publishedDateTime: 2022-12-09T11:52:00Z
@@ -173,15 +159,6 @@ related:
       name: Dallas Innovates
       domain: dallasinnovates.com
     quality: 33
-  - title: "Kiwi Educational Robot KaiBot Wins International Recognition On Its First Outing"
-    excerpt: "KaiBot may have just come into the world, but it’s already teaching kids and teachers a thing or two about technology. In fact, two months before its official launch date, KaiBot, the little AI-enabled learning robot designed to help five-15-year-old children develop coding skills,"
-    publishedDateTime: 2022-12-06T18:07:00Z
-    webUrl: "https://www.scoop.co.nz/stories/ED2212/S00014/kiwi-educational-robot-kaibot-wins-international-recognition-on-its-first-outing.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 29
   - title: "TSA set to use facial recognition technology in airports across US 'as soon as next year'"
     excerpt: "The decision follows the federal agency having tested the technology for years and offering it as an option to travelers."
     publishedDateTime: 2022-12-09T18:46:00Z

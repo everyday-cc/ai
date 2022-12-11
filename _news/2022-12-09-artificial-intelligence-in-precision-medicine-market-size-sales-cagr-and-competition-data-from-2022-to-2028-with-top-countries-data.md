@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Image Recognition Market Size: Generate Revenue, Market Status, and Forecast from 2022 - 2028."
+    excerpt: "In this \" Image Recognition market ,\" the patterns from one year to the next have been evaluated for each sector. For example, the research and company profile provides detailed descriptions of the major factors influencing the demand for the Image Recognition market."
+    publishedDateTime: 2022-12-10T05:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-size-generate-revenue-market-status-and-forecast-from-2022---2028-2022-12-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice Recognition Biometrics Market Dynamics with Top Players, Gross Margin, Regional Demand, Plans and Demand Status Forecast to 2028"
     excerpt: "\" Voice Recognition Biometrics Market \" Insights 2022 - By Applications (IT And Telecom, BFSI, Automotive, Healthcare, Education, Others), By Types (Physiological Biometrics, Behavioral Biometrics), By Segmentation analysis,"
     publishedDateTime: 2022-12-09T01:45:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/12/06/sellscale-funding/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/06/sellscale-funding/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/12/ai_adobe_swirl-800x450.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Stable Diffusion developer Runway raises $50M to create AI multimedia tools"
-    excerpt: "Runway AI Inc., one of the two companies behind the artificial intelligence art generator Stable Diffusion, announced Monday that it has raised $50 million in fresh funds led by Felicis to continue building the next generation of AI tools for art."
-    publishedDateTime: 2022-12-06T18:02:00Z
-    webUrl: "https://siliconangle.com/2022/12/06/stable-diffusion-developer-runway-raises-50m-create-ai-multimedia-tools/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/stable-diffusion-silicon-angle-in-a-futuristic-city.jpg"
-        width: 900
-        height: 507
         isCached: true
 
 secured: "bXAp8nT3rDbHOviUQl6B75rghleD99fHmw0OKsngO4XGI9HDedBXTeC711a2ErDvPhQXdEBzIDoxlDLxj39ZimvpPQ1+XGsZ8SiDp5OtjthihGrTPTb9A5zDPeQbHKtb5en0lka+Dztv63MSvhwB6zt0XRy8FTP7yxGua4W9edT+vVUbROSUR3zdI61l+Y8XTFjflgrSRKTnjF/rwNgsv+qSMoVNcZUDcwneuhdOtKvkwgH/LncFAiqAo3GQ7LxBHLVyEb1xaACFTOqvyZK1Pw3GPrqFwle8xvV4+9Ww4KnIbaY6IV96BCrMDsgYLWqKixAEYhq41y5p00RwYX9lzbpQGSxrIT8oD8fpn9ZVlr6cpIilsBEmpgFh/o93CXo9cs8xqLJygKkykJnBB082Wgt13s4wwPUrgWZoy9A1jkmryuXE/pOvHaq3IE7SHQ8nFPS2Lo+uJWjcg8bYsFsbcxVSNq7h0qhDKYfoM/HYI7m+7uiBzO92SdfxYF0Jzw81gBqHZlXIHBO7FUXUxG+S1A==;aae0kyogJssDTgUkneUjfg=="

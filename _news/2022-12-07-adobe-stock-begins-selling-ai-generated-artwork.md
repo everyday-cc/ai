@@ -62,20 +62,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Stable Diffusion developer Runway raises $50M to create AI multimedia tools"
-    excerpt: "Runway AI Inc., one of the two companies behind the artificial intelligence art generator Stable Diffusion, announced Monday that it has raised $50 million in fresh funds led by Felicis to continue building the next generation of AI tools for art."
-    publishedDateTime: 2022-12-06T18:02:00Z
-    webUrl: "https://siliconangle.com/2022/12/06/stable-diffusion-developer-runway-raises-50m-create-ai-multimedia-tools/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/stable-diffusion-silicon-angle-in-a-futuristic-city.jpg"
-        width: 900
-        height: 507
-        isCached: true
 
 secured: "n56kHEz+ols+LxCC1kyNhyF5dpd4Wk2S9svO0PHKw11XEzG7jS7/1AdtfJczywbQDr27RD+5YGmaRz3Ripz1mkyXTsUyrVtfqjj5I6pAiAH3lnu9jUaPGFC4168bt5+etp/20alNGrzSLu20TXYWbLSapQGrMrUAXc1qQwS3Bg71yjh8rc2e5UMNJ0C46NILzOHAOd/jI2REmggEPqtLFmafil+F7v3jtKsOcoZAXO36+oUq9LT0TVvClFqfZ4H5U2j50ufCRlg7Db93cP77Blv9exBTSF/sb4tXGETTvT2mgPEUBZCTyGeiMoDZxf32OErXMgrlkSMj9pB3hLkE+fsJG89RfQjKXAe8oGD+zrvwAZdnE6VPLEwD4AL8hdOLS90bOXSLmzEjOMlvlsim4/z4MfGQPtyptg5N1a0+9pZstv3DLDFKKDrXn0sT4Bg9Kh9SP/hTdq0S3qE1tj4YgX396SvY0vI4gwJVbdaeXNyJXGUXA0TnlxyqjFZnmzmv2HAlueh8JYyq81gA2TLbcw==;WoyhyOOGPVR/S0s/R/0C/A=="
 ---

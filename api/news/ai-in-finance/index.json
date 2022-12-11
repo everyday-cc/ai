@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-11-rbi-shortlists-7-global-consultancy-firms-to-use-artificial-intelligence-and-machine-learning.md",
+      "title": "RBI shortlists 7 global consultancy firms to use artificial intelligence and machine learning",
+      "excerpt": "The bank now intends to upscale it to ensure that the benefits of advanced analytics can accrue to Department of Supervision in central bank",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraphindia.com/business/reserve-bank-of-india-shortlists-7-global-consultancy-firms-to-use-artificial-intelligence-and-machine-learning-to-improve-regulatory-supervision/cid/1903251",
+      "originalUrl": "https://www.telegraphindia.com/business/reserve-bank-of-india-shortlists-7-global-consultancy-firms-to-use-artificial-intelligence-and-machine-learning-to-improve-regulatory-supervision/cid/1903251",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telegraphindia.com/telegraph/2021/Feb/1612296852_reserve-bank-of-india.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraphindia.com/amp/business/reserve-bank-of-india-shortlists-7-global-consultancy-firms-to-use-artificial-intelligence-and-machine-learning-to-improve-regulatory-supervision/cid/1903251",
+      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/reserve-bank-of-india-shortlists-7-global-consultancy-firms-to-use-artificial-intelligence-and-machine-learning-to-improve-regulatory-supervision/cid/1903251",
+      "publishedDateTime": "2022-12-11T02:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-12-10-the-future-of-fintech-according-to-ai.md",
       "title": "The Future Of Fintech, According To AI",
       "excerpt": "To much fanfare, Open AI released Chat GPT, an interface to interact with their AI model. So this naturally felt like an opportunity to learn about the future of fintech - according to AI. At the end,",
@@ -1295,49 +1339,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-ai-in-fintech-market-size-development-possibilities-income-investigation-future-interest-advancement-patterns-deals-channel-and-estimate.md",
-      "title": "AI in FinTech Market Size, Development Possibilities, Income Investigation, Future Interest, Advancement Patterns, Deals Channel, and Estimate to 2027",
-      "excerpt": "AI in FinTech Report Customization and Knowledge of Russian Invasion of Ukraine & Post-Pre Covid-19 covered in this report. The “AI in FinTech Market” added with the data set of superb bits of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-size-development-possibilities-income-investigation-future-interest-advancement-patterns-deals-channel-and-estimate-to-2027",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-size-development-possibilities-income-investigation-future-interest-advancement-patterns-deals-channel-and-estimate-to-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/09/537bbad174a1296d7f244920f70d57b9c23a60cc-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T04:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null

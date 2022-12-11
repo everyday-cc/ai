@@ -9,7 +9,7 @@ ampWebUrl: "https://ehrintelligence.com/news/amp/using-machine-learning-to-help-
 cdnAmpWebUrl: "https://ehrintelligence-com.cdn.ampproject.org/c/s/ehrintelligence.com/news/amp/using-machine-learning-to-help-characterize-clinician-ehr-behavior-workflows"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 600
     height: 347
     isCached: true
-
-related:
-  - title: "Deep-Learning Model Assists Researchers in Obtaining Useable EHR Data"
-    excerpt: "MIT researchers found that a deep-learning model can help extract information from clinical notes recorded in EHRs, ultimately enabling clinicians to provide more personalized recommendations."
-    publishedDateTime: 2022-12-06T17:31:00Z
-    webUrl: "https://healthitanalytics.com/news/deep-learning-model-assists-researchers-in-obtaining-useable-ehr-data"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 19
 
 secured: "/GQAanWZClx7WlUgTYQtUg5gsUe8KXy4SW1ypVQBpDd6mkjJD0vhB0HjQP+lr218Rrr5Ly4feuQtFgpE2vXxqL/nerz73vPxNK5y94B8U9i8Xy+NOGsm4LY+iPPQljw3HE9e7YlE4EIsRyROwEYffrpFfzhJNy3+eu6USzaPHN/yhfs6THKNjkI2Eizswzx3FY6LM5DekIQ2AXSo/BLBdJx2PFMPnBU9irKmatACfCa6SQ0mVFZ9crAXeLs5Z2xNyE+0DzP/KYc5CgfIbxOmrsZYSGfRfxH4LHRQBUWj6kGFRk/Kfyc8wllkHbDK8vYPM+Ew5AhWWqVDPe5grkayoq+EugYKrsWW4qTId6cBrDU=;KTuYv6nLqrPvvomsdSqyUg=="
 ---
