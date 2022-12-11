@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Brazil deploys ISS facial recognition to secure São Paulo metro"
+    excerpt: "The system connects to a centralized control center enabling real-time detection of suspicious activity and automatically triggers alerts for operators."
+    publishedDateTime: 2022-12-09T18:20:00Z
+    webUrl: "https://www.biometricupdate.com/202212/brazil-deploys-iss-facial-recognition-to-secure-sao-paulo-metro"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/25124039/Sao-Paulo-metro-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "UYtB/7ICIdVCKn0E2F/SPnO6uifSLhjyu7oLkAdlMxSpUWcXyQZemYfXB0YRz2H2n8uInvFmYG/VdCh7Kfje0LbYqDAK8vK5unwBt8MP+ytEFGx2WX24wLW8mtthMM+J/mecNbZrwRPJp/ULxVz7hNa0FWLLYhwSp7jtMDUa9AEz4wg8r8odWeVBwYsF/lbXtBpf1/qDsY/EAArpJSW1UxQnvj0nCL55OgHNt/D5mGRGOdrg0G37o3vOyCxVD4PENkXNaU4Fsoc0TfKf+LDi2LP7TXb/YeTgoqICi1GgT5mN66+QcXBJXId2I9UogxhyhC0xo4ZFQsUxgQ7f3+OZKD+bZ3aOqkzsxy492QCE8bA=;Zz0ZQCA9GYA3Q9P/7a1r9Q=="
 ---

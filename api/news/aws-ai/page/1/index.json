@@ -302,6 +302,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-06-foursquare-to-power-geospatial-data-visualization-in-amazon-sagemaker.md",
+      "title": "Foursquare to Power Geospatial Data Visualization in Amazon SageMaker",
+      "excerpt": "Foursquare, the leading independent location technology company, exclusively powers data visualization for the new Amazon SageMaker geospatial capabilities announced last week at Amazon Web ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/foursquare-to-power-geospatial-data-visualization-in-amazon-sagemaker/article_05b4e866-819b-5223-b9c6-e076963b7f23.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/foursquare-to-power-geospatial-data-visualization-in-amazon-sagemaker/article_05b4e866-819b-5223-b9c6-e076963b7f23.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg",
+          "width": 350,
+          "height": 455,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T10:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-05-metrics-for-evaluating-an-identity-verification-solution.md",
       "title": "Metrics for evaluating an identity verification solution",
       "excerpt": "Globally, there has been an accelerated shift toward frictionless digital user experiences. Whether it’s registering at a website, transacting online, or simply logging in to your bank account, organizations are actively trying to reduce the friction their customers experience while at the same time",
@@ -810,33 +853,24 @@
     {
       "path": "_news/2022-12-01-domo-joins-the-amazon-sagemaker-ready-program.md",
       "title": "Domo Joins the Amazon SageMaker Ready Program",
-      "excerpt": "Today Domo (Nasdaq: DOMO) announced it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner software solutions that are validated by Amazon Web Services ...",
+      "excerpt": "Domo (Nasdaq: DOMO) announced it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner software solutions that are validated by Amazon Web Services (AWS) Partner Solutions Architects to integrate with Amazon SageMaker.",
       "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/domo-joins-the-amazon-sagemaker-ready-program/article_6242ae1d-7680-5d90-8e69-4e80187adef3.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/domo-joins-the-amazon-sagemaker-ready-program/article_6242ae1d-7680-5d90-8e69-4e80187adef3.html",
+      "webUrl": "https://technews.tmcnet.com/news/2022/12/01/9723034.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/12/01/9723034.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg",
-          "width": 350,
-          "height": 455,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T06:06:00-08:00",
+      "publishedDateTime": "2022-12-01T06:28:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1406,49 +1440,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-tcs-partners-with-aws-in-new-quantum-computing-initiative.md",
-      "title": "TCS partners with AWS in new quantum computing initiative",
-      "excerpt": "Tata Consultancy Services today launched the TCS Quantum Computing Lab on AWS, a new service designed to provide enterprise customers with insight into what it described as “one of the most promising technologies of the decade.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/tcs-partners-with-aws-in-new-quantum-computing-initiative/123471",
-      "originalUrl": "https://www.itbusiness.ca/news/tcs-partners-with-aws-in-new-quantum-computing-initiative/123471",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2022/11/GettyImages-13469255221.jpg",
-          "width": 788,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/tcs-partners-with-aws-in-new-quantum-computing-initiative/123471?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/tcs-partners-with-aws-in-new-quantum-computing-initiative/123471?amp=1",
-      "publishedDateTime": "2022-11-29T09:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

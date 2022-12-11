@@ -2,6 +2,152 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-12-07-pixel-7-update-adds-ai-powered-noise-reduction-to-incoming-phone-calls.md",
+      "title": "Pixel 7 update adds AI-powered noise reduction to incoming phone calls",
+      "excerpt": "Rolling out to Pixel phones now is Android 13 Quarterly Platform Release 1 (QPR1), which contains a few new features, 77 bug fixes named in a huge support post, 151 Pixel-specific security issues outlined in the December Security Bulletin for Pixels,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2022/12/pixel-7-update-adds-ai-powered-noise-reduction-to-incoming-phone-calls/",
+      "originalUrl": "https://arstechnica.com/gadgets/2022/12/pixel-7-update-adds-ai-powered-noise-reduction-to-incoming-phone-calls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/Pixel7-8-800x488.jpg",
+          "width": 800,
+          "height": 488,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2022/12/pixel-7-update-adds-ai-powered-noise-reduction-to-incoming-phone-calls/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2022/12/pixel-7-update-adds-ai-powered-noise-reduction-to-incoming-phone-calls/amp/",
+      "publishedDateTime": "2022-12-06T10:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-artificial-intelligence-is-everywhereeven-the-warehouse.md",
+      "title": "Artificial intelligence is everywhere—even the warehouse",
+      "excerpt": "Artificial intelligence (AI)-based technologies are just about everywhere these days, making electronic devices, equipment, and business processes more streamlined and, of course, smarter. As it is commonly understood, AI uses computers and machines to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dcvelocity.com/articles/56025-artificial-intelligence-is-everywhereeven-the-warehouse",
+      "originalUrl": "https://www.dcvelocity.com/articles/56025-artificial-intelligence-is-everywhereeven-the-warehouse",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dcvelocity.com/ext/resources/images/articles/2022/202212/DCV22_12_ai.jpg?height=635&t=1670302866&width=1200",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T10:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DC Velocity",
+        "domain": "dcvelocity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-a-conversation-with-kevin-scott-whats-next-in-ai.md",
+      "title": "A conversation with Kevin Scott: What’s next in AI",
+      "excerpt": "The post A conversation with Kevin Scott: What’s next in AI appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/",
+      "originalUrl": "https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blogs.microsoft.com/wp-content/uploads/prod/sites/3/2022/12/A-conversation-with-Kevin-Scott-social-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T09:29:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-07-ahai-the-ai-based-multi-symptom-check-and-therapy-recommendation-platform-to-be-released-in-the-first-quarter-of-2023.md",
       "title": "AHAI, the AI Based Multi Symptom Check and Therapy Recommendation Platform to be Released in the First Quarter of 2023",
       "excerpt": "LAS VEGAS, NV / ACCESSWIRE / / Alternative Health, Inc, the US based medical company announced that it will be releasing its evidence based diagnostic and recommendation platform to the public in the",
@@ -930,6 +1076,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-06-foursquare-to-power-geospatial-data-visualization-in-amazon-sagemaker.md",
+      "title": "Foursquare to Power Geospatial Data Visualization in Amazon SageMaker",
+      "excerpt": "Foursquare, the leading independent location technology company, exclusively powers data visualization for the new Amazon SageMaker geospatial capabilities announced last week at Amazon Web ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/foursquare-to-power-geospatial-data-visualization-in-amazon-sagemaker/article_05b4e866-819b-5223-b9c6-e076963b7f23.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/foursquare-to-power-geospatial-data-visualization-in-amazon-sagemaker/article_05b4e866-819b-5223-b9c6-e076963b7f23.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg",
+          "width": 350,
+          "height": 455,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T10:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-meta-is-expanding-its-use-of-ai-face-scanning-to-verify-users-age-on-facebook-dating.md",
       "title": "Meta is expanding its use of AI face scanning to verify users’ age on Facebook Dating",
       "excerpt": "Facebook is testing ways for people to verify their age when using the platform’s dating app, including using an AI face scanning tool. In a blog post today, Meta announced it would start prompting users on Facebook Dating to verify that they’re over 18 if the platform suspects a user is underage (you must be over 18 to use the dating service).",
@@ -1028,204 +1217,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-why-designing-ai-for-humans-requires-productive-discomfort.md",
-      "title": "Why designing AI for humans requires 'productive discomfort'",
-      "excerpt": "When the consumer version of Google Glass appeared on the scene in 2014, it was heralded as the start of a new era of human-computer ... Just remember Google Glass when you're thinking about what can AI do -- people have to want it.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/why-designing-ai-for-humans-requires-productive-discomfort/",
-      "originalUrl": "https://www.zdnet.com/article/why-designing-ai-for-humans-requires-productive-discomfort/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/f748509203a5703ad1ec5ad7840e4842cdb63d79/2022/12/02/4631c01c-b209-4b8c-a497-091a6049e34c/artificial-intelligence.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/why-designing-ai-for-humans-requires-productive-discomfort/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-designing-ai-for-humans-requires-productive-discomfort/",
-      "publishedDateTime": "2022-12-05T09:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-05-metrics-for-evaluating-an-identity-verification-solution.md",
-      "title": "Metrics for evaluating an identity verification solution",
-      "excerpt": "Globally, there has been an accelerated shift toward frictionless digital user experiences. Whether it’s registering at a website, transacting online, or simply logging in to your bank account, organizations are actively trying to reduce the friction their customers experience while at the same time",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/metrics-for-evaluating-an-identity-verification-solution/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/metrics-for-evaluating-an-identity-verification-solution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/05/metrics-identity-verification.jpg",
-          "width": 2366,
-          "height": 1177,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-05T09:48:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-medical-studies-get-tech-edge-with-ai-machine-learning-remote-care.md",
-      "title": "Medical studies get tech edge with AI, machine learning, remote care",
-      "excerpt": "New-age technologies like Artificial Intelligence (AI) and Machine Learning (ML) have taken diagnosis, treatment, post-operative care, remote patient care and palliative care to a whole new level.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgetsnow.com/tech-news/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care/articleshow/96010436.cms",
-      "originalUrl": "https://www.gadgetsnow.com/tech-news/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care/articleshow/96010436.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-96010436,imgsize-60926,width-800/96010436.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care/amp_articleshow/96010436.cms",
-      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care/amp_articleshow/96010436.cms",
-      "publishedDateTime": "2022-12-05T09:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gadgets Now",
-        "domain": "gadgetsnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-14-innovative-ways-agencies-are-leveraging-machine-learning-ad-tools.md",
-      "title": "14 Innovative Ways Agencies Are Leveraging Machine Learning Ad Tools",
-      "excerpt": "Here, members of Forbes Agency Council share impactful ways agencies are leveraging ML advertising tools. Read on to learn about a variety of innovative ways agency pros are using ML to better reach consumers and attract more targeted audiences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/12/05/14-innovative-ways-agencies-are-leveraging-machine-learning-ad-tools/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/12/05/14-innovative-ways-agencies-are-leveraging-machine-learning-ad-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/638e23847ed4f1a8cd55d451/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/12/05/14-innovative-ways-agencies-are-leveraging-machine-learning-ad-tools/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/12/05/14-innovative-ways-agencies-are-leveraging-machine-learning-ad-tools/amp/",
-      "publishedDateTime": "2022-12-05T09:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

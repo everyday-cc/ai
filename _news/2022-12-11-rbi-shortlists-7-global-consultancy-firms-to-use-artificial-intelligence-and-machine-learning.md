@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraphindia.com/amp/business/reserve-bank-of-india-sh
 cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/reserve-bank-of-india-shortlists-7-global-consultancy-firms-to-use-artificial-intelligence-and-machine-learning-to-improve-regulatory-supervision/cid/1903251"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "RBI Shortlists 7 Global Consultancy Firms To Use Artificial Intelligence, Machine Learning To Improve Regulatory Supervision"
+    excerpt: "RBI invited expressions of interest (EoI) for engaging consultants for use of advanced analytics, artificial intelligence and machine learning for generating supervisory inputs"
+    publishedDateTime: 2022-12-11T10:41:00Z
+    webUrl: "https://www.outlookindia.com/business/rbi-shortlists-7-global-consultancy-firms-to-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision-news-244089"
+    ampWebUrl: "https://www.outlookindia.com/business/rbi-shortlists-7-global-consultancy-firms-to-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision-news-244089/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/rbi-shortlists-7-global-consultancy-firms-to-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision-news-244089/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 49
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1645020939.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Startup aims to use AI to help rebuild manufacturing at U.S. machine shops"
     excerpt: "Adam Ellis, a seasoned software entrepreneur, thinks his Harmoni device can help machine shops cut costs, reduce waste and improve the skills and performance of their workers."
     publishedDateTime: 2022-12-09T10:00:00Z
@@ -43,6 +59,6 @@ related:
         height: 600
         isCached: true
 
-secured: "g2gnw9+bCueqSoxwakHrPHC38jxoEbZ82UbJhV4c/P3VIZt4GytxAdbYPJxqOGazchDBiDFiXkFnrryy2/hfYWZ/VTp5FaYVLTwDrMACqXw1BUEkUy3xU34yOZ/fnwB63G2mYChNbattV/khLJ4lSXENixXaim0Oq1r6ygiIEco1k+W2cESkr+OFQ5idcyoeEvW7zMH64L4Idgve3VWryaK1+zBnv5iKHQ5BbwGpbCvBOGaYkW9DEA+tOpRgnKAGuFc5BZSNIaytozuI3+qorUcnltf9jlaElyVmCDNGCRMMku2cZYVayo1nJi20bFZjQbWcw+rn4v847yAxj6wVkkOy5hS5PRg32u5S0LKY+LI=;3CRYJhrBnaPNUhsDk+SUcw=="
+secured: "R/sB+PzNM8vbPl+lIiihoNLdphK1CB4vxg/x1SvJCJk/C5F4yVdr/whvhVGzob82NZ9NebjQ8q3v1iEiupezj1LI3HujF4+8ezAv3NTwz27WBvP5UgEltMk6cnGIOPl5H+0fk8kauEnttW6Ie4K/hoffNtdzHvVIFLIm0hxLSxLmAokBq2i8HKWml99V9J/vpRp3Aq4T0L75mKDnW/YSvgavIhkRCNd15mkkKZo+pf/JPYo3B1Yoirdz4dxZDhRW5YP9wJcUTpR2ebayF6au3ASsRdTT7KxtbgSzhy4VckSTIfovta6VaDxohrJGtVVkSGwm4moZBihM21gBDd9mkUYE3JfWgVNaBwsFm2yg7rQt4FT9FdeOyhRXz91Tf47s85KstfrW9KzQldV0AnR0RopM2iIfbH7ZOZa+Ym4cmOqRkoiMVQktjoOOp6CjJa2Af7VQZT55vhDUYKZAxGG5NU4wVB3DRk09p3EP/awto2+NscBZMRMD4XbeKcCE8bKDe3osrhlHCcqyX8Z7Hx9jLA==;bnFBcz71e7TK6G1whKeu7A=="
 ---
 

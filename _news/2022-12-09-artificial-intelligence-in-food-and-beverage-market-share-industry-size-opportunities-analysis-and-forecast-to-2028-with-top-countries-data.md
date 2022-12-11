@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice And Speech Recognition Software Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028"
-    excerpt: "The market research study demonstrates the varied and extensive character of the \" Voice And Speech Recognition Software market \" and how the market will develop over the ensuing years. The report emphasizes information obtained 2022 to 2028 regarding the Voice And Speech Recognition Software market."
-    publishedDateTime: 2022-12-06T20:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022---2028-2022-12-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Computer Networks Market Growth of Leading Players 2023: Future Trends, Regional Demand and Global Share Forecast to 2029"
     excerpt: "Dec 07, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Artificial Intelligence in"
     publishedDateTime: 2022-12-07T06:54:00Z

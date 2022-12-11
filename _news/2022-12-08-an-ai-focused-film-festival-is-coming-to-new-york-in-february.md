@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "A new film festival will only show movies made using AI"
+    excerpt: "Runway ML, the artificial intelligence startup that was instrumental in creating the text-to-image tool Stable Diffusion, began taking submissions today for an AI Film Festival slated for February that will only showcase movies created with the help of AI."
+    publishedDateTime: 2022-12-07T09:00:00Z
+    webUrl: "https://www.fastcompany.com/90820457/a-new-film-festival-will-only-show-movies-made-using-ai"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
+
 secured: "m0Y5ubCV4HkruwVHW65wpwfBk37+dXkmaLYC4wZqndUqlIWNk7EvaA/c0wgML8pkE+wJ2w3GcJ6vCSfZBogPJ7np2rvCQEKJStCU1kQhHzuKEUHW/xMqtqD3lgHVHWrJ6Yj4G5wsw6HY6IkAuxVQaFUnLblLvku/IdDy+Av0/+NMFe8E9j5JL8F1dM0x1y9C6AlDJPfLWzZNVASkeoqsdr10j0NRxqwq9QvwuuRX4OVC/i0xHgrpeWez0T/tnvbUssbjWTboXi9Q5lnsI6fGmGTKJnnvXhdQ7BXhk86R38rqEdKRGVoIQ/ETA1zVBsgyybNKnZIswEMI6IZJM9dix+N6iI044Wbm6cqxN5NIigSXV+N4feewilCAdtM0WlFDMyvYgQMCKfIC44cEcdf5T4llp1UV2mnyKRllRaFdtc/+Vi/FPVKFo5f8RIoDf3pMGgmwj/ZkPnOeRPKIPLXcd6+OyFbz1uIixnzqBIvbSaybrPVVSQmx4T0T9hcwex2HuI48NVc3983knB3Oc0cJ6w==;bgkTrr61xcgs/scoTpR7eQ=="
 ---
 

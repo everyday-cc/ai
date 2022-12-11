@@ -60,15 +60,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "Prisma Labs, maker of Lensa AI, says it is working to prevent accidental generation of nudes"
-    excerpt: "We recently uncovered that Lensa AI can be tricked into creating NSFW images. When TechCrunch made the Prisma team aware of its findings, the company’s CEO replied with its findings. Prisma Lab’s CEO and co-founder Andrey Usoltsev told us that the behavior we observed in our article can only happen if the AI is intentionally"
-    publishedDateTime: 2022-12-06T19:55:00Z
-    webUrl: "https://techcrunch.com/2022/12/06/prisma-ai-regulation/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 36
 
 secured: "8B8Pa9d2jHyJAW/ZUhaZmjoUzdwKIbh4fvYUKnN1LdbUdfHbYJiMYVJNNYDpwZL3VpGsf7gmq9ef0NdZc2l8qii/28ulCuw8fwzSQQZOO7xXvW9UhBsSYpa1ZNCLDIreIt1EH6gifcqbevlUOlKmX7Zohc9HSihQkpK5wtscWQKtB4IfhwGD/jpVIedkk9i6GG9kFnTR6mqXTPG4uF+vtv6IIfBzIjlQLsGKyEa7LY9b+35D8hFE+JeSR3mjDO1QSELP/DIjOIe6WjHnlh6dIhz8ktr3hr4vmpqC5/PmKeFpgu+bhcoj6pi36exvKdrIxywmSozfrtYIJK9PCKNoaVlfHXLm5vpWu+r3uxiHWqLCtkB2pe3OTl+JrWHRM+TsEpvtRZbrJ7wUnMEC+Gx3Lz+s3GNCWr1biWQpqXxDFcuZVMmr5khEVqGe3fcDBsew+W2pRiEwboZ5z8n7Kd1bXH/Wm5w8t8S0m+fvA3F7WXKdqld8kNUnffk0XIEtSYPlfVLDPi3ctANL9WxWciZPhQ==;cccJYXycnSYwA7avgrFz1A=="
 ---

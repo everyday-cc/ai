@@ -41,6 +41,22 @@ related:
         width: 1199
         height: 682
         isCached: true
+  - title: "Drone Express Partners with Microsoft to Develop Artificial Intelligence (AI) Delivery Drones"
+    excerpt: "Drone Express, an innovative last-mile logistics company, has partnered with Microsoft to launch a new version of their DE-2020 drone using Artificial Intelligence (AI) for"
+    publishedDateTime: 2022-12-07T17:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/12/n29996460/drone-express-partners-with-microsoft-to-develop-artificial-intelligence-ai-delivery-drones"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29996460"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29996460"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 78
+    images:
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
+        width: 800
+        height: 313
+        isCached: true
   - title: "Tata Tele Business Services to offer Microsoft Azure to SMBs in India"
     excerpt: "This will enable SMBs to modernize their operations with smooth movement of business workloads to the cloud on a pay-as-you-go model and deliver better experience to their customers even as they scale faster,"
     publishedDateTime: 2022-12-07T10:46:00Z
@@ -72,20 +88,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-96065486,imgsize-195728,width-1200,height=765,overlay-etbrandequity/digital/tata-tele-business-services-to-offer-microsoft-azure-to-smbs-in-india.jpg"
         width: 1200
         height: 765
-        isCached: true
-  - title: "Drone Express Partners with Microsoft to Develop Artificial Intelligence (AI) Delivery Drones"
-    excerpt: "Drone Express, an innovative last-mile logistics company, has partnered with Microsoft to launch a new version of their DE-2020 drone using Artificial Intelligence (AI) for in-flight navigation systems."
-    publishedDateTime: 2022-12-08T14:24:00Z
-    webUrl: "https://www.aviationpros.com/aircraft/news/21289353/drone-express-partners-with-microsoft-to-develop-artificial-intelligence-ai-delivery-drones"
-    type: article
-    provider:
-      name: AviationPros
-      domain: aviationpros.com
-    quality: 58
-    images:
-      - url: "https://img.aviationpros.com/files/base/cygnus/cavc/image/static/logo/site_logo.png?auto=format,compress&fit=fill&fill=solid&fill-color=000000&w=1200&h=627"
-        width: 1200
-        height: 627
         isCached: true
   - title: "Drone Express To Use Microsoft AI For New Cargo Drone Navigation"
     excerpt: "Drone Express, a drone cargo delivery startup, plans to begin manufacturing a new version of its DE-2020 multicopter drone by year’s end that will use Microsoft’s (AI) software, Azure Machine Learning,"

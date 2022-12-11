@@ -40,6 +40,22 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "RBI Shortlists 7 Global Consultancy Firms To Use Artificial Intelligence, Machine Learning To Improve Regulatory Supervision"
+    excerpt: "RBI invited expressions of interest (EoI) for engaging consultants for use of advanced analytics, artificial intelligence and machine learning for generating supervisory inputs"
+    publishedDateTime: 2022-12-11T10:41:00Z
+    webUrl: "https://www.outlookindia.com/business/rbi-shortlists-7-global-consultancy-firms-to-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision-news-244089"
+    ampWebUrl: "https://www.outlookindia.com/business/rbi-shortlists-7-global-consultancy-firms-to-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision-news-244089/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/rbi-shortlists-7-global-consultancy-firms-to-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision-news-244089/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 49
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1645020939.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "63Gmf52Bzsennz3R8cQyKTuv5jkP57SiCVg4o5rBqmbDcgen9p8Kv+/st1869E/G14Q/jbTFUotKfDchsJzbTRsx0OT5ACNakxGp1Y00NbpB5xHSBa17p1M9g6JThCKZ/SsnDQTB6MB2viSJVaNq3HjqNGhCDPUd4mRSS/QlL83esZE3rainBsDq8V4vSNKY43B+i1qXqES4DztwI3Kih9jEfSokYGMAbupblnh5+XHsuZW0Api1yG7TMMZLC3MfmTTz5kHzL0vieAvdWBIx27AqsJJ7ki5/1F4EBGDGkeu6OCiHg9QLwIZtTUrBBhDFuQBg1RyP26JuB/G7eVUSVX7ZUDQDBkwJrIB6o5FlY4eZYFH0oTR29UG87XZpKHET8etiAPgnuwSacoXQuwpzMD7Ssi6gfq2dDyo/qhFS1b8TEbjBHS1IWc4f9oNXBRamCj7emUK6cGMn7HRLsl79QKQRrcvIYIAwtNu/CH8NfYDqYclTOc8QlwhUgXenCuZVaJmSJ92uwANJdjwqqoN5Cg==;ZeCem+4cUAS6XzFtZDshvw=="
 ---

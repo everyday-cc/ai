@@ -71,15 +71,6 @@ related:
         width: 720
         height: 400
         isCached: true
-  - title: "Apple Reportedly Taps the Brakes on Its Self-Driving Car"
-    excerpt: "Along with the delayed release, the car will reportedly now only have full autonomous capabilities while on the highway. Consequently, the initial design -- void of a steering wheel and pedals -- will have to be modified to accommodate manual driving."
-    publishedDateTime: 2022-12-06T20:20:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/apple-reportedly-taps-the-brakes-on-its-self-driving-car/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 34
   - title: "Apple Car delayed to 2026"
     excerpt: "The car project, dubbed Titan inside the company, has been in limbo for the past several months as Apple executives grappled with the reality that its vision for a fully autonomous vehicle — without a steering wheel or pedals — isn’t feasible with current technology."
     publishedDateTime: 2022-12-07T06:29:00Z
@@ -147,20 +138,6 @@ related:
         width: 2115
         height: 1191
         isCached: true
-  - title: "Apple delays Apple Car until at least 2026 and drops self-driving ambitions"
-    excerpt: "Apple is seemingly accepting temporary defeat and scaling back some of its ambition with the long-rumored Apple Car project. As reported by Bloomberg, the company has again delayed the launch of the Apple Car,"
-    publishedDateTime: 2022-12-06T20:07:00Z
-    webUrl: "https://www.imore.com/apple/apple-delays-apple-car-until-at-least-2026-and-drops-self-driving-ambitions"
-    type: article
-    provider:
-      name: iMore
-      domain: imore.com
-    quality: 22
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/hW3tCxUSeUh3ZpntFvAm4P-1200-80.jpg"
-        width: 1200
-        height: 646
-        isCached: true
   - title: "Apple scales back self-driving car and delays debut till ’26"
     excerpt: "The car project, dubbed Titan inside the company, has been in limbo for the past several months as Apple executives grappled with the reality that its vision for a fully autonomous vehicle —"
     publishedDateTime: 2022-12-07T13:35:00Z
@@ -169,15 +146,6 @@ related:
     provider:
       name: East Bay Times
       domain: eastbaytimes.com
-    quality: 4
-  - title: "Apple's self-driving car reportedly won't be - and it'll be late too"
-    excerpt: "Apple's rumoured autonomous car isn't going to be quite as capable as we'd been told to expect according to a new report that says it'll be late, too."
-    publishedDateTime: 2022-12-06T20:18:00Z
-    webUrl: "https://www.pocket-lint.com/cars/news/apple/163729-apple-s-self-driving-car-reportedly-won-t-be-and-it-ll-be-late-too"
-    type: article
-    provider:
-      name: Pocket-lint
-      domain: pocket-lint.com
     quality: 4
   - title: "Apple Car Delayed Until 2026, Self-Driving Plans Scaled Back"
     excerpt: "California-based tech giant Apple is pulling back on its plans to launch a fully autonomous vehicle, and will instead seek to launch a more traditional all-electric car with some semi-autonomous capabilities around the 2026 calendar year."

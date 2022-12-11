@@ -2,6 +2,195 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-12-03-how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent.md",
+      "title": "How BMW Group has embraced AI for positive use cases and to improve sustainability | AWS re:Invent",
+      "excerpt": "Among the most exciting use cases is for fully autonomous vehicles, but that’s not the only area where AI is having an impact. For example, Microsoft and Mercedes-Benz are working together to improve automobile production efficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent/",
+      "originalUrl": "https://venturebeat.com/ai/how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/12/VB_BMW_AWS_reinvent_120223.png?w=1200&strip=all",
+          "width": 837,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent/amp/",
+      "publishedDateTime": "2022-12-02T14:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-03-ai-art-generator-dreamup-illustrates-the-collision-between-artistic-consent-and-ai-datasets.md",
+      "title": "AI art generator DreamUp illustrates the collision between artistic consent and AI datasets",
+      "excerpt": "Should it be an issue that countless data points of artwork are used to train AI that spits out art in under a minute?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-art-generator-dreamup-illustrates-the-collision-between-artistic-consent-and-ai-datasets/",
+      "originalUrl": "https://www.zdnet.com/article/ai-art-generator-dreamup-illustrates-the-collision-between-artistic-consent-and-ai-datasets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/8c387c6a4b16c7635ba9109a41651949dd2173a4/2022/12/02/7bbadddd-18f8-4d59-b938-767f92783867/dreamup.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-art-generator-dreamup-illustrates-the-collision-between-artistic-consent-and-ai-datasets/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-art-generator-dreamup-illustrates-the-collision-between-artistic-consent-and-ai-datasets/",
+      "publishedDateTime": "2022-12-02T13:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-03-this-new-artificial-intelligence-can-help-you-lie.md",
+      "title": "This New Artificial Intelligence Can Help You Lie",
+      "excerpt": "The artificial intelligence research company, OpenAI, recently released ChatGPT, an enormously capable AI system that can communicate with people using natural language. ChatGPT can answer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/the-nature-deception/202212/new-artificial-intelligence-can-help-you-lie",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-nature-deception/202212/new-artificial-intelligence-can-help-you-lie",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-12/gerd_altman.jpg?itok=GbKDRrBY",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-nature-deception/202212/new-artificial-intelligence-can-help-you-lie?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-nature-deception/202212/new-artificial-intelligence-can-help-you-lie?amp",
+      "publishedDateTime": "2022-12-02T13:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-03-armed-police-robots-will-be-a-threat-to-public-safety-heres-why.md",
+      "title": "Armed police robots will be a threat to public safety. Here’s why.",
+      "excerpt": "The vote and authorization, which caught national attention, speaks directly to the real fears and perils regarding the use of robotics and remote-control tools domestically. The vote took place ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/technology/armed-police-robots-san-francisco/",
+      "originalUrl": "https://www.popsci.com/technology/armed-police-robots-san-francisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2022/12/01/3724639.jpg?auto=webp",
+          "width": 2000,
+          "height": 1545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/technology/armed-police-robots-san-francisco/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/armed-police-robots-san-francisco/?amp",
+      "publishedDateTime": "2022-12-02T12:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-03-google-shuts-down-duplex-on-the-web-its-attempt-to-bring-ai-smarts-to-retail-sites-and-more.md",
       "title": "Google shuts down Duplex on the Web, its attempt to bring AI smarts to retail sites and more",
       "excerpt": "Google is shutting down Duplex on the Web, its AI-powered set of services that navigated sites to simplify the process of ordering food, purchasing movie tickets and more. According to a note on a Google support page, Google on the Web and any automation features enabled by it will no longer be supported as of this month.",
@@ -1027,197 +1216,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-transfer-learning-for-video-classification-with-movinet.md",
-      "title": "Transfer learning for video classification with MoViNet",
-      "excerpt": "MoViNets (Mobile Video Networks) provide a family of efficient video classification models, supporting inference on streaming video. In this tutorial, you will use a pre-trained MoViNet model to classify videos, specifically for an action recognition task ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tutorials/video/transfer_learning_with_movinet",
-      "originalUrl": "https://www.tensorflow.org/tutorials/video/transfer_learning_with_movinet",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/static/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T21:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-artificial-intelligence-ai-market-2023-is-flourishing-around-the-world-by-2026.md",
-      "title": "Artificial Intelligence (AI) Market 2023 Is Flourishing Around the World by 2026",
-      "excerpt": "Pre and Post Covid is Covered and Report Customization is Available. [131 Pages Report]\"Artificial Intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-2023-is-flourishing-around-the-world-by-2026-2022-12-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-2023-is-flourishing-around-the-world-by-2026-2022-12-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T20:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-san-francisco-police-defend-killer-robots-plan.md",
-      "title": "San Francisco police defend 'killer robots' plan",
-      "excerpt": "Police in San Francisco defended their potential use of killer robots on Thursday, insisting they would be a \"last resort\" and only for very dangerous situations. Detectives in the California city, where residents complain of a spike in crime,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602",
-      "originalUrl": "https://www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/12/02/killer_bots.png",
-          "width": 600,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602?amp",
-      "cdnAmpWebUrl": "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/worldbiz/usa/san-francisco-police-defend-killer-robots-plan-543602?amp",
-      "publishedDateTime": "2022-12-01T19:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tbsnews",
-        "domain": "tbsnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-artificial-intelligence-machine-learning-will-strengthen-firms-it-security-report.md",
-      "title": "Artificial intelligence, machine learning will strengthen firms’ IT security: Report",
-      "excerpt": "The company has been receiving many enquiries about cyber security, said Shailesh Davey, Co-Founder and Vice President of Engineering at Zoho.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/business/2022/dec/02/artificial-intelligence-machine-learning-will-strengthen-firms-it-security-report-2524302.html",
-      "originalUrl": "https://www.newindianexpress.com/business/2022/dec/02/artificial-intelligence-machine-learning-will-strengthen-firms-it-security-report-2524302.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/9/9/w600X390/The_Risks_an.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/business/2022/dec/02/artificial-intelligence-machine-learning-will-strengthen-firms-it-security-report-2524302.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2022/dec/02/artificial-intelligence-machine-learning-will-strengthen-firms-it-security-report-2524302.amp",
-      "publishedDateTime": "2022-12-01T17:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

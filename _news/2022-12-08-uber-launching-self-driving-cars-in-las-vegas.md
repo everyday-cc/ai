@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/12/07/tech/uber-motional-self-driving-v
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/12/07/tech/uber-motional-self-driving-vegas/index.html"
 type: article
 quality: 74
-heat: 194
+heat: 174
 published: true
 
 provider:
@@ -118,15 +118,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 23
-  - title: "Apple’s self-driving car delayed once again to 2026"
-    excerpt: "According to a new report, Apple is scaling back its ambitious self-driving car, which is now scheduled to launch in 2026."
-    publishedDateTime: 2022-12-06T19:33:00Z
-    webUrl: "https://bgr.com/tech/apples-self-driving-car-delayed-once-again-to-2026/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 19
   - title: "Uber launches robotaxi service using fleet of Hyundai IONIQ 5"
     excerpt: "Taking the driverless experience to a whole new level, ride-hailing giant Uber has launched a Level Four autonomous taxi service in Las Vegas, United States"
     publishedDateTime: 2022-12-08T13:34:00Z
@@ -136,15 +127,6 @@ related:
       name: newsbytesapp.com
       domain: newsbytesapp.com
     quality: 19
-  - title: "Apple Pushes Self-Driving Vehicle Launch To 2026"
-    excerpt: "Sources indicate Apple's plan to bring a self-driving car to the market has been pushed back until 2026. \"Sources indicate the tech giant has also moved away from producing an electric car without steering wheel or pedals in favor of a less ambitious design that still offers full autonomous capabilities on highways,"
-    publishedDateTime: 2022-12-06T19:32:00Z
-    webUrl: "https://www.mediapost.com/publications/article/380425/apples-pushes-self-driving-vehicle-launch-to-2026.html"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 4
   - title: "Why you may never be able to buy your own self-driving car"
     excerpt: "Despite recent claims of vehicles having full automation, it is no more possible to buy a truly self-driving car now than it was 15 years ago. Will private cars that never need a driver ever reach the market?"
     publishedDateTime: 2022-12-07T13:45:00Z

@@ -16,7 +16,14 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
-secured: "K4DxO7sJqxy1yM1jKBDiqmNi4mNhcy6FcrWP9nY5RNl2rkbBfZdZEDF9LjFBMkRQ5RQn1PhLWyXCpw/KjOH3MeoBxKX1rhb+blB3vyJx6hgHUPOnVYKgsgXMeG3988oi6tyWx7xiTIoGYN4L/t2LZGsz7QnyJD0kvVBiEci9tKstLgwTu/paWgglqNoa73+E5pax74oTJH4BRFbG6bXKx6nlGUR2/BMwJBqd+c10IKmE5DoFPahgPSDyyyw+b/tLpP7LMxx+ZFO1rsKpptO1FpPjiCL0wr2Ey6HNpJsHtgHqZRKFyB9+nunMtM5vo+BoXnVf8vuh9WeHxnjqQJqh/+SPuc1JjGusXGshOcpt4g3hDRgKlskXcHyU87odTEnY8x5uHcM8W4YOOfbnyOoBnwHTdXg9/F3Zd5fNYf8M/p2eln5gU81PjjOeN1aAezkr+w4hD6Kt/Ho/tbWFrX612ZAfOjOvptb/EGMjhglsm7NvQjhjjthy9AHhslwVNjmZ/IyLOtBXE3BCVx6kfNUmuw==;MhH7pqoeiwNB0w8OXjjrJA=="
+images:
+  - url: "https://static.tweaktown.com/news/8/9/89774_900_artificial-intelligence-gives-instructions-on-how-to-shoplift-and-build-bomb.jpg"
+    width: 620
+    height: 350
+    isCached: true
+
+secured: "YDIjhJ9k3bbARlvy4V8VCtnB8y23V+BdKJbG9ifc1wTz/uo7gcY8tdTpQnhx9l1mpWRPNuwVD04yAo0yySk1LHZ6WwBYSpH/YyRipQEo3tz8OU5P8sXkKfWG+6w3fW3ci78d0htEHkaBjP5BGgyVC9jgLEWg+cCqKmlsEjqEgM79627+xL6JSh6lo0EQVzDhayXyzs+g08JYRH0rUcVofrSbjwdhutQTrDfkwQhtpGVjbCQ7qImLXslXrUnEi0yfX7W7C/WcwIPCxmm14AkTbUVhZqysJi+7leh4EiNX4ryOCz4xSAwAs4O22vBp45weBsWr73RRiwe96AfJvP28lJgZamAOJf/QfLG4nxZemms=;M9VUAtN+jbXOtCf7Grih6A=="
 ---
 

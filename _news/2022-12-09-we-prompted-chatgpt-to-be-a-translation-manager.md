@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Does ChatGPT Mean Robots Are Coming For the Skilled Jobs?"
-    excerpt: "Will robots take away our jobs? People have been asking that question for an astonishingly long time. The Regency-era British economist David Ricardo added to the third edition of his classic “Principles of Political Economy,"
-    publishedDateTime: 2022-12-06T20:25:00Z
-    webUrl: "https://www.nytimes.com/2022/12/06/opinion/chatgpt-ai-skilled-jobs-automation.html"
-    ampWebUrl: "https://www.nytimes.com/2022/12/06/opinion/chatgpt-ai-skilled-jobs-automation.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/06/opinion/chatgpt-ai-skilled-jobs-automation.amp.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 89
-    images:
-      - url: "https://static01.nyt.com/images/2022/12/06/opinion/06krugman-newsletter-image/06krugman-newsletter-image-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Why Everyone's Obsessed With ChatGPT, a Mindblowing AI Chatbot"
     excerpt: "This artificial intelligence bot is an impressive writer, but you should still be careful how much you trust its answers."
     publishedDateTime: 2022-12-07T18:31:00Z
@@ -105,19 +89,93 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Is ChatGPT the Start of the AI Revolution?"
-    excerpt: "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skill"
-    publishedDateTime: 2022-12-09T10:30:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2022-12-09/is-chatgpt-the-start-of-the-ai-revolution"
+  - title: "AI ChatGPT Is A Huge Fan Of Elon Musk, Not-So-Much Google, Amazon And Apple"
+    excerpt: "Silicon Valley has been obsessed with ChatGPT since it launched on Nov. 30. The impressive chatbot, created by Elon Musk founded startup OpenAI, has racked up more than a million users in its first five days and is likely to report astounding session times as people find themselves drawn more and more to this charming AI."
+    publishedDateTime: 2022-12-09T21:01:00Z
+    webUrl: "https://www.forbes.com/sites/martineparis/2022/12/09/ai-chatgpt-is-a-huge-fan-of-elon-musk-not-so-much-google-amazon-and-apple/"
+    ampWebUrl: "https://www.forbes.com/sites/martineparis/2022/12/09/ai-chatgpt-is-a-huge-fan-of-elon-musk-not-so-much-google-amazon-and-apple/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2022/12/09/ai-chatgpt-is-a-huge-fan-of-elon-musk-not-so-much-google-amazon-and-apple/amp/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/639396616b1ddb747792f2ca/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "ChatGPT Is A Huge Fan Of Elon Musk And AI, But Not Google, Amazon And Apple"
+    excerpt: "Silicon Valley has been obsessed with ChatGPT since it launched on Nov. 30. The impressive chatbot, created by Elon Musk founded startup OpenAI, has racked up more than a million users in its first five days and is likely to report astounding session times as people find themselves drawn more and more to this charming AI."
+    publishedDateTime: 2022-12-09T21:01:00Z
+    webUrl: "https://www.forbes.com/sites/martineparis/2022/12/09/ai-chatgpt-is-a-huge-fan-of-elon-musk-not-so-much-google-amazon-and-apple/"
+    ampWebUrl: "https://www.forbes.com/sites/martineparis/2022/12/09/ai-chatgpt-is-a-huge-fan-of-elon-musk-not-so-much-google-amazon-and-apple/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2022/12/09/ai-chatgpt-is-a-huge-fan-of-elon-musk-not-so-much-google-amazon-and-apple/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/639396616b1ddb747792f2ca/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How AI That Powers Chatbots and Search Queries Could Discover New Drugs"
+    excerpt: "Natural language processing algorithms like the ones used in Google searches and OpenAI’s ChatGPT promise to slash the time required to bring medications to market"
+    publishedDateTime: 2022-12-07T14:59:00Z
+    webUrl: "https://www.wsj.com/articles/how-ai-that-powers-chatbots-and-search-queries-could-discover-new-drugs-11670428795"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 67
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifzBIsn2zMPo/v1/1200x802.jpg"
-        width: 1200
-        height: 802
+      - url: "https://images.wsj.net/im-679549/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Can You Tell a Real Tweet From One Written by an AI Chatbot?"
+    excerpt: "Take the quiz to see how much artificial intelligence resembles the real thing"
+    publishedDateTime: 2022-12-08T14:00:00Z
+    webUrl: "https://www.wsj.com/articles/chatgpt-twitter-quiz-ai-openai-11670511559?mod=tech_lead_pos11"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-680711/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "ChatGPT and Lensa: Why Everyone Is Playing With Artificial Intelligence"
+    excerpt: "Two internet sensations give non-nerds a turn with powerful software, yielding surprising wit and stunning avatars."
+    publishedDateTime: 2022-12-08T01:09:00Z
+    webUrl: "https://www.wsj.com/articles/everyone-in-your-feed-is-talking-about-chatgpt-and-lensa-and-heres-why-11670356499?mod=latest_headlines"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-680021/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "I Entered a Pun Competition. My Jokes Were Written by an AI Chatbot."
+    excerpt: "ChatGPT, a trendy new artificial intelligence robot, can generate all sorts of writing. But is it punny?"
+    publishedDateTime: 2022-12-09T15:23:00Z
+    webUrl: "https://www.wsj.com/articles/chatgpt-ai-chatbot-punderdome-jokes-11670602696"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-682317/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "ChatGPT proves AI is finally mainstream — and things are only going to get weirder"
     excerpt: "He knows I write about AI and is the sort of guy who keeps up with whatever’s trending online. We chatted a bit, and I asked him: “and what do you think of ChatGPT?” To which he replied: “Well, I wrote a half-decent Excel macro with it this morning that saved me a few hours at work” — and my jaw dropped."
@@ -149,15 +207,22 @@ related:
         width: 960
         height: 600
         isCached: true
-  - title: "Top 5 stories of the week: ML meets Google Sheets, AWS eyes trends, dangers of ChatGPT and more"
-    excerpt: "This week brought new twists on established products as Google rolled out a beta version of Simple ML for Sheets, its cloud-based spreadsheet -- and much more."
-    publishedDateTime: 2022-12-10T19:07:00Z
-    webUrl: "https://venturebeat.com/ai/top-5-stories-of-the-week-ml-meets-google-sheets-aws-eyes-trends-dangers-of-chatgpt-and-more/"
+  - title: "As chatbot sophistication grows, AI debate intensifies"
+    excerpt: "California start-up OpenAI has released a chatbot capable of answering a variety of questions, but its impressive performance has reopened the debate on the risks linked to artificial intelligence (AI) technologies."
+    publishedDateTime: 2022-12-07T12:08:00Z
+    webUrl: "https://www.forbesindia.com/article/lifes/as-chatbot-sophistication-grows-ai-debate-intensifies/81759/1"
+    ampWebUrl: "https://www.forbesindia.com/amp/article/lifes/as-chatbot-sophistication-grows-ai-debate-intensifies/81759/1"
+    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/as-chatbot-sophistication-grows-ai-debate-intensifies/81759/1"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 54
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 57
+    images:
+      - url: "https://www.forbesindia.com/media/images/2022/Dec/img_199207_chatboat.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "‘It works very well, but it’s not magic’: This is ChatGPT, the groundbreaking AI chatbot"
     excerpt: "The latest evolution in text generation systems has surprised hundreds of thousands of users with coherent conversations and a humanlike finesse"
     publishedDateTime: 2022-12-09T04:26:00Z
@@ -192,6 +257,24 @@ related:
       name: CNET
       domain: cnet.com
     quality: 49
+  - title: "ChatGPT and Lensa: Why Everyone Is Playing With Artificial Intelligence"
+    excerpt: "Two internet sensations give non-nerds a turn with powerful software, yielding surprising wit and stunning avatars."
+    publishedDateTime: 2022-12-07T15:38:00Z
+    webUrl: "https://www.wsj.com/articles/everyone-in-your-feed-is-talking-about-chatgpt-and-lensa-and-heres-why-11670356499"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
+  - title: "How These AI-Powered Chatbots Keep Getting Better"
+    excerpt: "This week on “Gadget Lab,” we discuss the advances in generative AI tools like ChatGPT that make computer-enabled conversations seem more human than ever."
+    publishedDateTime: 2022-12-08T13:00:00Z
+    webUrl: "https://www.wired.com/story/gadget-lab-podcast-577/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
   - title: "ChatGPT is the clearest example of how seamless AI has become"
     excerpt: "OpenAI's new program creates stories, poems and other text that can be mistaken for human made. That comes with issues."
     publishedDateTime: 2022-12-07T21:00:00Z
@@ -228,6 +311,29 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "Is ChatGPT the Start of the AI Revolution?"
+    excerpt: "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skillset. On"
+    publishedDateTime: 2022-12-09T12:40:00Z
+    webUrl: "https://www.washingtonpost.com/business/is-chatgpt-the-start-of-the-ai-revolution/2022/12/09/9eb9dfec-77b5-11ed-a199-927b334b939f_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TYKMLGDXWUI63IMZSJ5TGS4TT4.jpg&w=1440"
+        width: 1440
+        height: 963
+        isCached: true
+  - title: "The AI chatbot coming for your job, ‘Swifties’ take on Ticketmaster, and Apple sued for AirTag stalking"
+    excerpt: "Nightcap's Jon Sarlin talks to futurist Amy Webb about the implications for ChatGPT, the next-gen AI tool that's blowing everyone's minds. Plus, Morgan Harper of the American Economic Liberties Project on whether Ticketmaster has met its match in Taylor Swift and her legion of devoted fans."
+    publishedDateTime: 2022-12-08T20:10:00Z
+    webUrl: "https://edition.cnn.com/videos/business/2022/12/08/nightcap-ticketmaster-airtag-stalking-full-orig-nb.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 31
   - title: "ChatGPT, the big-brain AI writing tool coming for our jobs, explains itself"
     excerpt: "Meet 'ChatGPT: the powerful NLP tool that could automate jobs and spread misinformation, if we're not careful.'"
     publishedDateTime: 2022-12-07T00:45:00Z
@@ -237,6 +343,33 @@ related:
       name: The Spinoff
       domain: thespinoff.co.nz
     quality: 17
+  - title: "AI bot ChatGPT writes smart essays — should academics worry?"
+    excerpt: "The bot is free for now and can produce uncannily natural, well-referenced writing in response to homework questions."
+    publishedDateTime: 2022-12-09T13:06:00Z
+    webUrl: "https://www.nature.com/articles/d41586-022-04397-7"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 17
+  - title: "A week since launch, OpenAI's ChatGPT has shown the power, and horror, of AI"
+    excerpt: "In fact, there's a good chance that you've used something that relied on AI in the last 24 hours. But when OpenAI launched ChatGPT last week, it lowered the entry requirements for using AI. ChatGPT is a chatbot that's accessible through any web browser."
+    publishedDateTime: 2022-12-07T14:27:00Z
+    webUrl: "https://www.windowscentral.com/software-apps/a-week-since-launch-openais-chatgpt-has-shown-the-power-and-horror-of-ai"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 16
+  - title: "Could an A.I. Chatbot Rewrite My Novel?"
+    excerpt: "As a young fiction writer, I dreamed of a technology that would tell me how to get my characters from point A to point B. Could ChatGPT be it?"
+    publishedDateTime: 2022-12-09T19:50:00Z
+    webUrl: "https://www.newyorker.com/news/our-columnists/could-an-ai-chatbot-rewrite-my-novel"
+    type: article
+    provider:
+      name: The New Yorker
+      domain: newyorker.com
+    quality: 4
 
 secured: "7QyFxFzDQ73tR6FyqyAxL/KiTSRwZF2/67tnMzib4pCs5gKKmRDMfPjRiK+N2tcXQ/UMoOCTx2jwTsDdVxSdXN8E3yyfePLEQVk3okfi1IflPNbDPNphpY+FvZtmsvL9CXx1h6jCt4sSuWzllG86D5QIEVFxn8jGXheCKQP4Ar6a3Ie+t3GTzv/FVFxaLmec1Vn+6uVvdcqy3FHLQxoBGISpV5SDzo56j46pgd3tEaI34yn1hv3xFzQMQyhIQKiyIIXAvZHk3LG8hzO9Wy0nPHeiUa9qTbXbx7DlM+C0E2auY00MREDLwTMgLfZq/KfzxGfXOSwTfmE5wuTov54n2dvE0mobXkv9OOMGNe3vXXuWpO1RaTT+qzmrfT3fNRK0nWiz04hr8mQAX1zb7HLSXgOmTqVdI6q3QsV81vCv8npfSWK9bMi4jfpALs6LY79oye6CJ14Yvixe/QNoBhtDN/ZQtmAoRzEpnFKhTb8nO2sT33X00L0PFwMYfdkIuytIHV9UwUJCnSDeW/k5uW7OCg==;vq34DXN2865cNSzpyYwD6w=="
 ---

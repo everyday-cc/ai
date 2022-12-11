@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/12/06/lensa-goes-nsfw/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/06/lensa-goes-nsfw/amp/"
 type: article
 quality: 87
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "Prisma Labs, maker of Lensa AI, says it is working to prevent accidental generation of nudes"
-    excerpt: "We recently uncovered that Lensa AI can be tricked into creating NSFW images. When TechCrunch made the Prisma team aware of its findings, the company’s CEO replied with its findings. Prisma Lab’s CEO and co-founder Andrey Usoltsev told us that the behavior we observed in our article can only happen if the AI is intentionally"
-    publishedDateTime: 2022-12-06T19:55:00Z
-    webUrl: "https://techcrunch.com/2022/12/06/prisma-ai-regulation/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 36
 
 secured: "teXjx415DPxC5lpaqxu7JOnK261gqclnw5tZzG79FYSZrd/rtzIEFiJvO7pn5dscYvrsXqDB+DS323sPTfw7wygJfd2WrII87f50AiPPtokb424f6yQJcDVdFC1Y7jr9Bjmi+XZQ/0vcN6ymccAb71gnFy9Y6vomo/ZG6XFtSlIgjR6pXAQjDyDGrz1EoSWDQOnfYYNflG6qpaje6Cz1CqW6l35iLgQE6ZjTfzfSZVdrYPIc2CJRJWcXrZ4piQGzJ0eNTRuuXhJrl0Hc/97z/YdurXrYSNOmeiQI3SaSN3ZjHVXXXpv4asB1v0e9b7MRK80SVHxElBAiaOno9VCwv53kSg4V3E6GAHgJ3ZQYC4c=;z6vzlV/q0B2vIYbXoLY5tA=="
 ---

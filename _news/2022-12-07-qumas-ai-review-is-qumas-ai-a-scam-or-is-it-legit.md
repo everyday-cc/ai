@@ -7,7 +7,7 @@ originalUrl: "https://www.outlookindia.com/outlook-spotlight/qumas-ai-review-is-
 webUrl: "https://www.outlookindia.com/outlook-spotlight/qumas-ai-review-is-qumas-ai-a-scam-or-is-it-legit--news-242823"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qumas AI Review – Is This Trending Crypto Trading Bot Genuine?"
-    excerpt: "Qumas AI is one of the most trending crypto trading bot tools in 2022, with high interest in online trading circles. We review Qumas AI."
-    publishedDateTime: 2022-12-06T20:53:00Z
-    webUrl: "https://insidebitcoins.com/bitcoin-robot/qumas-ai-review"
-    type: article
-    provider:
-      name: Inside Bitcoins
-      domain: insidebitcoins.com
-    quality: 41
-    images:
-      - url: "https://insidebitcoins.com/wp-content/uploads/2022/12/qumas-ai-bot.png"
-        width: 346
-        height: 201
-        isCached: true
   - title: "Qumas AI Robot Review 2023 – Scam or Legit?"
     excerpt: "This Qumas AI review analyzes the available trading features, supported cryptocurrencies and advantages of this new crypto trading bot."
     publishedDateTime: 2022-12-07T12:18:00Z

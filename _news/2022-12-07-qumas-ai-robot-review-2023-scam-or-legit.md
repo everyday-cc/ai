@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Qumas AI Review – Is This Trending Crypto Trading Bot Genuine?"
-    excerpt: "Qumas AI is one of the most trending crypto trading bot tools in 2022, with high interest in online trading circles. We review Qumas AI."
-    publishedDateTime: 2022-12-06T20:53:00Z
-    webUrl: "https://insidebitcoins.com/bitcoin-robot/qumas-ai-review"
-    type: article
-    provider:
-      name: Inside Bitcoins
-      domain: insidebitcoins.com
-    quality: 41
-    images:
-      - url: "https://insidebitcoins.com/wp-content/uploads/2022/12/qumas-ai-bot.png"
-        width: 346
-        height: 201
-        isCached: true
   - title: "Qumas AI Review - Is Qumas AI A Scam Or Is It Legit?"
     excerpt: "Qumas is an AI-powered trading platform that uses advanced artificial intelligence to analyze all KPIs and makes the best trades automatically. Users can create unique automated strategies, and Qumas AI will run them automatically,"
     publishedDateTime: 2022-12-06T22:58:00Z
