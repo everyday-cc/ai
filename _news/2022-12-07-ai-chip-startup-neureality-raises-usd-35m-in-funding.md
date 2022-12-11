@@ -47,20 +47,6 @@ related:
         width: 718
         height: 400
         isCached: true
-  - title: "AI start-up NeuReality raises $35m in Series A funding round"
-    excerpt: "NeuReality, an AI hardware start-up specialising in next generation AI inferencing platforms, has announced a successful $35m Series A funding round."
-    publishedDateTime: 2022-12-06T16:53:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/ai-start-up-neureality-raises-35m-in-series-a-funding-round"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 37
-    images:
-      - url: "https://www.newelectronics.co.uk/media/ycudamx5/0x0.jpg?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "IiyFEOQ3wjyLb+ZAgoHnvo/0XUI5ZUwZHQdhvWlifIcyfG4skSPOHGeTXK75BKS7UCGk9CpzSCnZdn9qWVpRanafNc4puoW8mSyUOxiLv5eN4CZl1QaUglbuIW/oh+Rdg6LgRC8fy2p4ZQYE7ZLxFOxmJAeK/nP53XBjdtZ+KEuFduGCAVJ5WBNnUpOLRM2RE2c5nvA3ERXESYJ2dEJcz0dkviPbdKtmd6KNrGAsZSYyQLG4RN2nqB1Mu6+9K/Jd2CxvvkL71+iohtUFDQzmtYh2Wo5WfHm0ijH/xOyDancn35+5CTEkZi2LaXar0NDjj27pM6P5hVK+uVqfjSfmmhrkMbYF8tL2nKljdGP09P2TUjvH6i1JpwQpZm/B338t//6rgTSGMRHC4+tKxco7EnO9LwULXa2bdefwSZ7JXkGyRkbvycjSsAolmL13mYiMN6zx7zUdjHG5pEORbm+ImOIYmJP++MqKoJYgzA51o3jHzaM5pBz7fi7S/AmnMExUPrdvn9DnMeVG+9gynZY2Sw==;iWf2k/PhaTuDRMD210yt4w=="
 ---

@@ -77,6 +77,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "The new chatbots could change the world. Can you trust them?"
+    excerpt: "After the release of ChatGPT - which has been used by more than 1 million people - many experts believe the new chatbots are poised to reinvent or even replace internet search engines such as Google and Bing."
+    publishedDateTime: 2022-12-11T07:47:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/the-new-chatbots-could-change-the-world-can-you-trust-them/articleshow/96147634.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 24
+    images:
+      - url: "https://img.etimg.com/thumb/msid-96147655,width-1070,height-580,imgsize-91608,overlay-ettech/photo.jpg"
+        width: 1070
+        height: 580
+        isCached: true
 
 secured: "56bgX2WZVOfXe0Yt+fNJWUQgVQhGlg+FXK22+21hc3BtAc1UAcXfWMTUNakesnyBncDLxMQIMtdeBlfhfstHj0mfltNYNhDh7kzj7kt5OfR/0zqxfFaVG+XaJS53NLugk7gZ9/ntDa9gzkthefo70gjwDb4O59lzhZq9jMXahUu4S28xnE4Voc9Czx+2KHEe1VfGmd124Yf52X04NSeXtj/KRhjvllYtpaZmUQ/GfjL6bieOotz4cnNDXpfJ0lv4/3/SlAnnH8JAG+tjHjBL2Q15yhN4KQUHmz43A6YqrDLJIG+h24O7UFb8KX13whrdBz1hI2U/eUudHKzIC00jpqTkjZOuSZUEa8HeaEGO5j/hSvF86ozNrucZaj6DIEHfuENdNZC4/T22RKAfUTAYlITWwdzrxcDEy5eQM4PeJoepodBbWoOMKTG6vmavUpbEz2p7AXK7RcFy2ZKjn1mF0sP0AyXJ1Zjla/bzAUdnhjxw9UdWxzYuGjF6Fpmpf0ZL33sPKkkvFrbnJMlHrVR5uA==;HRw8EIfsx5vOcmobBwg0wg=="
 ---

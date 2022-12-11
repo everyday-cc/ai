@@ -1,28 +1,27 @@
 ---
 category: news
-title: "As chatbot sophistication grows, AI debate intensifies"
-excerpt: "California start-up OpenAI has released a chatbot capable of answering a variety of questions, but its impressive performance has reopened the debate on the risks linked to artificial intelligence (AI) technologies."
-publishedDateTime: 2022-12-07T12:08:00Z
-originalUrl: "https://www.forbesindia.com/article/lifes/as-chatbot-sophistication-grows-ai-debate-intensifies/81759/1"
-webUrl: "https://www.forbesindia.com/article/lifes/as-chatbot-sophistication-grows-ai-debate-intensifies/81759/1"
-ampWebUrl: "https://www.forbesindia.com/amp/article/lifes/as-chatbot-sophistication-grows-ai-debate-intensifies/81759/1"
-cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/as-chatbot-sophistication-grows-ai-debate-intensifies/81759/1"
+title: "The new chatbots could change the world. Can you trust them?"
+excerpt: "After the release of ChatGPT - which has been used by more than 1 million people - many experts believe the new chatbots are poised to reinvent or even replace internet search engines such as Google and Bing."
+publishedDateTime: 2022-12-11T07:47:00Z
+originalUrl: "https://economictimes.indiatimes.com/tech/technology/the-new-chatbots-could-change-the-world-can-you-trust-them/articleshow/96147634.cms"
+webUrl: "https://economictimes.indiatimes.com/tech/technology/the-new-chatbots-could-change-the-world-can-you-trust-them/articleshow/96147634.cms"
 type: article
-quality: 57
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Forbes India
-  domain: forbesindia.com
+  name: Indiatimes
+  domain: indiatimes.com
 
 topics:
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://www.forbesindia.com/media/images/2022/Dec/img_199207_chatboat.jpg"
-    width: 900
-    height: 600
+  - url: "https://img.etimg.com/thumb/msid-96147655,width-1070,height-580,imgsize-91608,overlay-ettech/photo.jpg"
+    width: 1070
+    height: 580
     isCached: true
 
 related:
@@ -68,19 +67,21 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "The new chatbots could change the world. Can you trust them?"
-    excerpt: "After the release of ChatGPT - which has been used by more than 1 million people - many experts believe the new chatbots are poised to reinvent or even replace internet search engines such as Google and Bing."
-    publishedDateTime: 2022-12-11T07:47:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/the-new-chatbots-could-change-the-world-can-you-trust-them/articleshow/96147634.cms"
+  - title: "As chatbot sophistication grows, AI debate intensifies"
+    excerpt: "California start-up OpenAI has released a chatbot capable of answering a variety of questions, but its impressive performance has reopened the debate on the risks linked to artificial intelligence (AI) technologies."
+    publishedDateTime: 2022-12-07T12:08:00Z
+    webUrl: "https://www.forbesindia.com/article/lifes/as-chatbot-sophistication-grows-ai-debate-intensifies/81759/1"
+    ampWebUrl: "https://www.forbesindia.com/amp/article/lifes/as-chatbot-sophistication-grows-ai-debate-intensifies/81759/1"
+    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/as-chatbot-sophistication-grows-ai-debate-intensifies/81759/1"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 24
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 57
     images:
-      - url: "https://img.etimg.com/thumb/msid-96147655,width-1070,height-580,imgsize-91608,overlay-ettech/photo.jpg"
-        width: 1070
-        height: 580
+      - url: "https://www.forbesindia.com/media/images/2022/Dec/img_199207_chatboat.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "Could an A.I. Chatbot Rewrite My Novel?"
     excerpt: "As a young fiction writer, I dreamed of a technology that would tell me how to get my characters from point A to point B. Could ChatGPT be it?"
@@ -92,6 +93,6 @@ related:
       domain: newyorker.com
     quality: 4
 
-secured: "9Dd7HD1IhOXKpDvsNaRy+nLJw8q5sYdulpaixlUbiquAY74UcU/11gHjWAZ2FzjAlwylj6DdSu1FWrJfS4Brz933ACNI6VS5cpQgpPQPRHTkBN9dBB3paYwRHPmJcJ00mhpytA0YHRB9wYucX29EX2IXD/vh+5UQNDSN9eZS2PduCZNsgUtt5bLkOOywD+sMLwywWSlfpQ8c9f2ycdVuERIClQVvOnDxUYowRCCLLUqbmghDEsvRTqWYg5BxrPSv8+5jYEaQo/wbCcsp71NJl4MLmcouiwct+jyD/6gS8ty3rDn8Bm3aUkrCmdEHNa4XI2UXPlnHKVCd74HkFKTiltopRhPNeAQbHFaHsP4jWQ8=;0s0beXi+xbcUnmZ1/MS6Gw=="
+secured: "u1Cdq5tnmdx7oAyKf6i7kt4pTpSJK6YrfxpGscKlSAbmXRo4mcRFqSG/fpdCcSYf6oNUOnB6nRsu+12AtGXN1zm89aP2H+qokATfokP9hcufZw8PdWbUvkx3AXyYt0DgZsI7nK+8rUHQvFE11RVKosp9aPR8p9W105Fu2ANRSzyL09EVS8j0rQb8am50cPzSh+RbJUWKFe/6ajR5gIEEDPgHZ+wNKIWhi4Qen15yUUKIl/WOk7J46DrKq0x521aCd7FhbbUEtckrzyyzoXOLIZp286zwNPXVP83eaqvdqNkXQTmjyuOJwnST+JrEA9a52fzJeUvVnNfdVZ3N7Fv00UpEsAXL/rGBoOizFOsGT/8=;RUcD8aeBdR05D7bpnvWuFQ=="
 ---
 

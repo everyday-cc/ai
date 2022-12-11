@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/gilpress/2022/12/08/analysts-predicti
 webUrl: "https://www.forbes.com/sites/gilpress/2022/12/08/analysts-predictions-about-ai-in-2023/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,15 @@ topics:
   - AI
 
 related:
+  - title: "3 Ways Artificial Intelligence Will Transform The World in 2023"
+    excerpt: "As we continue to see high rates of positions needing to be filled in 2023, AI is likely going to see quick adoption, development and more."
+    publishedDateTime: 2022-12-09T19:30:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/the-3-biggest-artificial-intelligence-ai-trends-in-2023/439434"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 49
   - title: "Top AI Predictions for 2023"
     excerpt: "The year 2022 was dedicated to large language models and generative art, let’s see what's in the AI goody bag for 2023"
     publishedDateTime: 2022-12-08T06:38:00Z

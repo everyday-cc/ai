@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/how-ai-that-powers-chatbots-and-searc
 webUrl: "https://www.wsj.com/articles/how-ai-that-powers-chatbots-and-search-queries-could-discover-new-drugs-11670428795"
 type: article
 quality: 67
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://www.forbesindia.com/media/images/2022/Dec/img_199207_chatboat.jpg"
         width: 900
         height: 600
+        isCached: true
+  - title: "The new chatbots could change the world. Can you trust them?"
+    excerpt: "After the release of ChatGPT - which has been used by more than 1 million people - many experts believe the new chatbots are poised to reinvent or even replace internet search engines such as Google and Bing."
+    publishedDateTime: 2022-12-11T07:47:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/the-new-chatbots-could-change-the-world-can-you-trust-them/articleshow/96147634.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 24
+    images:
+      - url: "https://img.etimg.com/thumb/msid-96147655,width-1070,height-580,imgsize-91608,overlay-ettech/photo.jpg"
+        width: 1070
+        height: 580
         isCached: true
   - title: "Could an A.I. Chatbot Rewrite My Novel?"
     excerpt: "As a young fiction writer, I dreamed of a technology that would tell me how to get my characters from point A to point B. Could ChatGPT be it?"

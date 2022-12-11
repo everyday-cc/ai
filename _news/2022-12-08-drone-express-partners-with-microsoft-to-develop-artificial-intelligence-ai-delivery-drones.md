@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Drone Express Partners with Microsoft to Develop Artificial Intelligence (AI) Delivery Drones"
-excerpt: "Drone Express, an innovative last-mile logistics company, has partnered with Microsoft to launch a new version of their DE-2020 drone using Artificial Intelligence (AI) for in-flight navigation systems."
-publishedDateTime: 2022-12-07T19:56:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-drone-express-partners-with-microsoft-develop-artificial-intelligence-/2022/12/07/9726476.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-drone-express-partners-with-microsoft-develop-artificial-intelligence-/2022/12/07/9726476.htm"
+excerpt: "Drone Express, an innovative last-mile logistics company, has partnered with Microsoft to launch a new version of their DE-2020 drone using Artificial Intelligence (AI) for"
+publishedDateTime: 2022-12-07T17:30:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/12/n29996460/drone-express-partners-with-microsoft-to-develop-artificial-intelligence-ai-delivery-drones"
+webUrl: "https://www.benzinga.com/pressreleases/22/12/n29996460/drone-express-partners-with-microsoft-to-develop-artificial-intelligence-ai-delivery-drones"
+ampWebUrl: "https://www.benzinga.com/amp/content/29996460"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29996460"
 type: article
-quality: 38
+quality: 78
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
+    width: 800
+    height: 313
+    isCached: true
 
 related:
   - title: "VentureBeat Lab to launch in-depth AI article series with insights from Microsoft and Nvidia"
@@ -96,6 +104,6 @@ related:
         height: 313
         isCached: true
 
-secured: "jCsQOvsTlgTBGgkpCdf+qjzFRCm8ph0+Thxw9xOgtSnsBbImYv3tkkHmVjaMRbTG9JcdQ9xSi3+ugf+tbvYQMgCg0AKYp+0NccpMfhOnDVy+YQ8ZsJ3Tf6gWtCgAzezpT6H6Lm0mGADjuna98m/Fi8r1ENrUvEyjHBPsh5mI63VHVJzr6MiMLnse0uB075Bq86J4YBuXHBoR7elH0rTTmPnuCWPg+DLgy6wYf1gPf0l+1fOx7legSH8czjb7QTMqNU8KFpMEqlU40fPBAuQ7QPxjrS9veNNQpvsHC/Eipj1HIkIJWxCo38ZZd/kzPBy1HAKGyR/XQZQ5qJ2nCuyPO/tR80nU2mAuSa/L43pGIqg=;nmUo4NX72BDkyWXMiH5AlA=="
+secured: "iKrSbUp0cmk4qa7XkE+h6T9PzeQrQAwpc658OsC8Hf4wf+9zrETd9sZbcjCj2EFCnPdxTH8pW9WxmwiWag97r1mqcvCtquET4HlXyS4p+eIY/Ufk/0mvKDiffgVreT5bmqfHjeqXQ4QcbHb66deluT4mvn7k2x+XowU3FDnuvD1/VxcGoQDQMmLfNhLBs5YR3ItVFaLSKatL+NdF05x0clb3SlN7kzAaOg0g0vM7u9PWS1pfEqEztZ2FwcEGI779anj3SuvOl6irdjv19Sy8PkzcPyJx6lDRcatsiU/YZ5QQ+ktc8PRPb9yeuaqQNK5fxoAQoALaFThyJha3eJ8JCaOoG1lFW43dXax9i1EIXKE=;Gqz0ceUDf96VfwotSHUOQg=="
 ---
 

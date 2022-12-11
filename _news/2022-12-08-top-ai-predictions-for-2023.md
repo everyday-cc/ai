@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "3 Ways Artificial Intelligence Will Transform The World in 2023"
+    excerpt: "As we continue to see high rates of positions needing to be filled in 2023, AI is likely going to see quick adoption, development and more."
+    publishedDateTime: 2022-12-09T19:30:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/the-3-biggest-artificial-intelligence-ai-trends-in-2023/439434"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 49
   - title: "Analysts Predictions About AI In 2023"
     excerpt: "As the ample supply of 2023 predictions affirms, humans still win in the futures market. Or maybe they are just not as modest as Alexa (or the Amazonians feeding it with answers to common queries). Observes of the IT landscape and AI developments are certainly far from being modest,"
     publishedDateTime: 2022-12-08T13:00:00Z

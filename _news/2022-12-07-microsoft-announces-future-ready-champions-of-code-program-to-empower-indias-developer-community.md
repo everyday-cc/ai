@@ -41,6 +41,22 @@ related:
         width: 1199
         height: 682
         isCached: true
+  - title: "Drone Express Partners with Microsoft to Develop Artificial Intelligence (AI) Delivery Drones"
+    excerpt: "Drone Express, an innovative last-mile logistics company, has partnered with Microsoft to launch a new version of their DE-2020 drone using Artificial Intelligence (AI) for"
+    publishedDateTime: 2022-12-07T17:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/12/n29996460/drone-express-partners-with-microsoft-to-develop-artificial-intelligence-ai-delivery-drones"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29996460"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29996460"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 78
+    images:
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
+        width: 800
+        height: 313
+        isCached: true
   - title: "Tata Tele Business Services to offer Microsoft Azure to SMBs in India"
     excerpt: "This will enable SMBs to modernize their operations with smooth movement of business workloads to the cloud on a pay-as-you-go model and deliver better experience to their customers even as they scale faster,"
     publishedDateTime: 2022-12-07T10:46:00Z
@@ -87,15 +103,6 @@ related:
         width: 1193
         height: 787
         isCached: true
-  - title: "Drone Express Partners with Microsoft to Develop Artificial Intelligence (AI) Delivery Drones"
-    excerpt: "Drone Express, an innovative last-mile logistics company, has partnered with Microsoft to launch a new version of their DE-2020 drone using Artificial Intelligence (AI) for in-flight navigation systems."
-    publishedDateTime: 2022-12-07T19:56:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-drone-express-partners-with-microsoft-develop-artificial-intelligence-/2022/12/07/9726476.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 38
 
 secured: "X/QNb9NIg9Tm72YB88hgtZ/AwS8Tf8Arg0fM2wnvZVi38aLVrhH+2Z28mdcmPDIxZw5A1H+k1IOBDZGXbk5TSu9X3uV+NrV3S/yTCByf7apzm+Ou+I0Y821dw6L7HLVTT3y4ssSTun+VLALi3nKb/yYCZY81gI20wtaU1plmnLJMuY+LWJm/54ZfFLPAG3OjxlTSb04tSHTLHv5d0dySn7q/wzeN82EtQhuassyG4hPMzBFBj2ER2P+liJKz4c4fBNnVWgTaCUUWWkcf+HBa8WIj83/WWCVCJssznpxiFWAe6/u+JFdvgyLkaDzW2Aq8rUWxNeRfa/0gkXBP4RHLtCWhphTnilcDDsi6TjV1xsJRMBzPIwzGRFBEG75OqRtxbaXEc0zMBBBx2yZxIbJVgnCzrD4GdEQt4/UFVD3zmumlD+0i5+7t+fV7Xnk6Da6yf0j+QboKk/FIM+lEvrR6Qo1Xq9bbXO8Pt4PfeovfPKwDk9NNZ/4wPKdfeykRA+ctVfrm6rmDVSg1E/q1uSQeKg==;eC6AD0YdbiKYNhTzOEh4tg=="
 ---

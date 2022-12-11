@@ -72,22 +72,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Operative Intelligence, a startup with an AI-based management platform, raises USD 3.5M"
-    excerpt: "Operative Intelligence Pty. Ltd., a startup with an artificial intelligence-based operational management platform, announced today that it has raised USD 3.5 million in new funding to expand the capabilities of its customer intelligence product line."
-    publishedDateTime: 2022-12-06T16:46:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/operative-intelligence-a-startup-with-an-ai-based-management-platform-raises-usd-3-5m/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/operative-intelligence-a-startup-with-an-ai-based-management-platform-raises-usd-3-5m/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/operative-intelligence-a-startup-with-an-ai-based-management-platform-raises-usd-3-5m/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 49
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/12/Operative-Intelligence_-a-startup-with-an-AI-based-management-platform_-raises-USD-3.5M.jpg"
-        width: 1500
-        height: 844
-        isCached: true
 
 secured: "OWqkvqRLWEFHZ8J6Pr1uyHeTr7HfHzLQcmTfD6BoXDttt2zpODGslFtg/81mz1s1iBOsRL/tYTo38JrnYIErP2rWCaam/OfkCm9a9rx04KOxbb9sn3ZlVIwGCCC6gymk5pkL9xIT+EnITlLWhUSnWW9IVqWwSTbveqSGrkbm+UgIv/JhnHYmV2azDyfDH9PCAiZ8w6f/p44vDwy+zQ893SyfP1YXeEEa8BmLkYo7Ry1RpvVVbzJz0Vvn88rVTVedU3Xuy8WG8qdrlzgDn15h86Y5FAeQtEY9R1rwHR7dge2kDXlGkyCoLO6E24+MTeysHD7jiT8eBYtSR3Zps/V3CroBdLh8Eh8TW8sGqRCrx0eavItNm5K9x+kmu9WzP+dKE6ftwq4DkaKn6pM2hJpNPMmkYji5WFn6jnr/xhPWGc90PS3vxtS+rnRPGSS5fz5svBIq6re4Em8AXAdIZhA67KfzQBt9kOL6UH2ZCwxHO0xln8fCMC8vnYERbeIM6OVDyzY7sehdDQLrHVQlhBm7Mg==;8HooOBYYt2Hfu71omS9ibw=="
 ---

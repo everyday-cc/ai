@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/science/2022/12/deepminds-latest-ai-project-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2022/12/deepminds-latest-ai-project-solves-programming-challenges-like-a-newb/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/computing.jpg"
         width: 1920
         height: 1282
+        isCached: true
+  - title: "DeepMind creates AI tool that generates rough film, stage scripts"
+    excerpt: "Dramatron will generate film titles, characters, settings and dialogues, using plot story that has been written in"
+    publishedDateTime: 2022-12-11T06:29:00Z
+    webUrl: "https://tribune.com.pk/story/2390604/deepmind-creates-ai-tool-that-generates-rough-film-stage-scripts"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 54
+    images:
+      - url: "https://i.tribune.com.pk/media/images/AP7X5BUWQ5JXZL6W6Q23VXJ6FQ1670741708-0/AP7X5BUWQ5JXZL6W6Q23VXJ6FQ1670741708-0.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Alphabet's DeepMind creates AI for drafting film scripts"
     excerpt: "DeepMind Technologies, part of Alphabet Inc., the parent company of Google, has created an AI that can be used to draft scripts for film and stage plays.  \"Language models are increasingly attracting interest from writers."

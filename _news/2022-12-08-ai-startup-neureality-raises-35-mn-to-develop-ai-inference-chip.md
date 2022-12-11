@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/ai-startup-neureality-raises-35-mn-t
 webUrl: "https://analyticsindiamag.com/ai-startup-neureality-raises-35-mn-to-develop-ai-inference-chip/"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/NeuReality.png"
         width: 718
         height: 400
-        isCached: true
-  - title: "AI start-up NeuReality raises $35m in Series A funding round"
-    excerpt: "NeuReality, an AI hardware start-up specialising in next generation AI inferencing platforms, has announced a successful $35m Series A funding round."
-    publishedDateTime: 2022-12-06T16:53:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/ai-start-up-neureality-raises-35m-in-series-a-funding-round"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 37
-    images:
-      - url: "https://www.newelectronics.co.uk/media/ycudamx5/0x0.jpg?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
         isCached: true
   - title: "AI Chip Startup NeuReality Raises USD 35M in Funding"
     excerpt: "The startup NeuReality Ltd. has disclosed that it has raised USD 35 million in funding to market its NR1 chip, which is intended"
