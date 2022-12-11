@@ -43,22 +43,6 @@ related:
         width: 480
         height: 359
         isCached: true
-  - title: "Samsung, Naver to develop AI chip solutions"
-    excerpt: "Samsung Electronics decided to work together with Naver, the country's top internet company, in developing artificial intelligence (AI), they said Tuesday. The two companies' goal is to develop new semiconductor solutions that will lead to innovation in the emerging AI industry and further boost the country's AI capabilities to compete with global big tech firms."
-    publishedDateTime: 2022-12-06T07:47:00Z
-    webUrl: "https://koreatimes.co.kr/www/tech/2022/12/133_341223.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=341223"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=341223"
-    type: article
-    provider:
-      name: The Korea Times
-      domain: koreatimes.co.kr
-    quality: 74
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202212/02e91f583f3741b187f898bee2100cf1.jpg"
-        width: 980
-        height: 662
-        isCached: true
   - title: "Samsung partners with NAVER on AI chips"
     excerpt: "NAVER say never Samsung has partnered with NAVER to develop semiconductors that can better handle AI workloads. The deal will cross  Samsung’s semiconductor design abilities and NAVER’s expertise in AI algorithms and AI services."
     publishedDateTime: 2022-12-06T10:14:00Z

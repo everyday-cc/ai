@@ -41,20 +41,6 @@ related:
         width: 420
         height: 416
         isCached: true
-  - title: "Multimedia Intelligence: Confluence of Multimedia and Artificial Intelligence"
-    excerpt: "In contrast to traditional mass media, such as printed material or audio recordings, which feature little to no interaction between users, a multimedia is a form of communication that uses a combination of different content forms such as audio,"
-    publishedDateTime: 2022-12-06T08:48:00Z
-    webUrl: "https://www.design-reuse.com/articles/53138/multimedia-intelligence-confluence-of-multimedia-and-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 34
-    images:
-      - url: "https://www.design-reuse.com/news_img2/homepage53138/soft.jpg"
-        width: 1008
-        height: 410
-        isCached: true
 
 secured: "6M/OfvVTiwBKFW7w6ec2spMa1uZQviMOID+hYljJCmYQYveckSp10BF3/ImvYpdU4w+kD+X/1WPIaPHEHywT1OmtuMDZ8LsFWqkoh5oPh+6SjMLdqHU5HDqEQ3oL1h+12wwc/rvO4WfUCTAOoNdxtyqAkpgYawcGMl6uaFDxQ3jx+B6Y4zT+mBMdy+lNlDspb+pQKg41s0dYgiw7a0TaiinXbDl/6PRezXyVKc8IhKMfIY83QbVvbyTD43RRYHUIpzYEd/paPt24FhTa5gKt9aL1QPHGSB1sSOyhDpJGLwIxSmNR4yudsR9zZK60Cezbeaio5jMI7zSlOD0TYWgvivqhF+YLvXANRsjBYYjoH1w=;EE+3e8h41YXCVXjRwI+ECw=="
 ---

@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Stability AI Selects AWS as Its Preferred Cloud Provider to Build Artificial Intelligence for the Future"
-excerpt: "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Stability AI, a community-driven, open-source artificial intelligence (AI) company, has selected AWS as its preferred ..."
-publishedDateTime: 2022-11-30T21:21:00Z
-originalUrl: "https://www.bakersfield.com/ap/news/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the/article_ba31c368-9cb5-59ae-b8ca-f429474c58d5.html"
-webUrl: "https://www.bakersfield.com/ap/news/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the/article_ba31c368-9cb5-59ae-b8ca-f429474c58d5.html"
+excerpt: "Leading open-source artificial intelligence startup trains foundational models 58% faster and more cost efficiently using Amazon SageMaker on AWS At AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced ..."
+publishedDateTime: 2022-11-30T21:02:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2022/11/30/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial"
+webUrl: "https://stockhouse.com/news/press-releases/2022/11/30/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial"
 type: article
 
 provider:
-  name: The Bakersfield Californian
-  domain: bakersfield.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "oZj62rlqyZKTF364kbYmEZ/y7DktkPcnRp77RNZXg6iP8pqNlXiR+rstQdA877G1n1EJ0TaVbYloUFbl8NfikjT7R2lhXAuKK9IiOUXUgd/+rAtQ8q2/Yotf707cEn1StzgfBRQMVveZv+zDW7SkkoadQpA5GGO6mrI201mJudh+ZTKbT5ycQLB93pjWQF0SZ7rRPzlF+OYTliXH7fWbTTru78SbZBH+Pf3/JQb7tUt5GyIuvgRyPGPwFihu2+iEPrhVl3CowdhNYGFx20PE8cMgN4VilszGoLMAvPG2RNQ9NczvpvBjHF5rxeG3q36w5I/C/3TVX91CypHu23yArgsEfOMGo8b8k0yz99tX/bI=;V8D6qaUV0KryzdYdaqm8mw=="
+secured: "orpOglGULImnDeaG3nPWUyuD7cy+94l9iNJplCDTGo2lp7kDD1To4Si0xyI2b25MghIgdy9rfBRDKS75vMNKZ/getm/o6CL06ZS0HtTcH5OzD5A29DPDc7GxM0z0S5X87loLn43QbZ0AZtM6SjtYNRmRQQQ1rxsgRwtTW+7N+H6s1ZJeZ+qw/6O7xfqv7U3tRufOeR1Ckhc4WAMz5zbkAj8GxjwiWlm7PVatwag7yi8PEJHb6SUJWGXuTY+HgcSHBwLq6zPAK0/0udDraCVuL4rqwKAiR3adll2tWm4I3ocN2LXr7Jz2xe6dXjLFUqPOvjlWbUumg3SURdBVrvzw0hrXZ5UyWHKxtzfJ784EJto=;cTRh+KfxRGYkRY0ngzHpww=="
 ---
 

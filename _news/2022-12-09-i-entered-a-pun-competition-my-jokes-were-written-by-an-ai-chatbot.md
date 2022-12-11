@@ -42,10 +42,10 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Can You Tell a Real Tweet From One Written By an AI Chatbot?"
-    excerpt: "Can You Tell a Real Tweet From One Written By an AI Chatbot?"
+  - title: "Can You Tell a Real Tweet From One Written by an AI Chatbot?"
+    excerpt: "Take the quiz to see how much artificial intelligence resembles the real thing"
     publishedDateTime: 2022-12-08T14:00:00Z
-    webUrl: "https://www.wsj.com/articles/chatgpt-twitter-quiz-ai-openai-11670511559"
+    webUrl: "https://www.wsj.com/articles/chatgpt-twitter-quiz-ai-openai-11670511559?mod=tech_lead_pos11"
     type: article
     provider:
       name: Wall Street Journal

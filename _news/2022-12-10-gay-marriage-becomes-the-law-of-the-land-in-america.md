@@ -28,7 +28,7 @@ related:
   - title: "Amazon, Ashton Kutcher And America’s Surveillance Of The Sex Trade"
     excerpt: "Huge police databases armed with Amazon’s facial recognition are harvesting online sex ads of exploited children and consenting sex workers alike. Forbes finds that even when wielding a mass surveillance arsenal,"
     publishedDateTime: 2022-12-09T10:59:00Z
-    webUrl: "https://www.forbes.com/sites/thomasbrewster/2022/12/08/amazon-ashton-kutcher-sex-work-surveillance/"
+    webUrl: "https://www.forbes.com/sites/thomasbrewster/2022/12/09/amazon-ashton-kutcher-sex-work-surveillance/"
     type: article
     provider:
       name: Forbes

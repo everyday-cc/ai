@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Baidu Plans to Expand Driverless Ride-Hailing Service Area"
-excerpt: "Chinese internet-services and artificial-intelligence company Baidu Inc. is planning to build what it says will be the biggest driverless car-hailing area in the world as it looks to keep growing ..."
-publishedDateTime: 2022-11-29T07:19:00Z
-originalUrl: "https://www.marketwatch.com/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188"
-webUrl: "https://www.marketwatch.com/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188"
+excerpt: "By Fabiana Negrin Ochoa Chinese internet-services and artificial-intelligence company Baidu Inc. is planning to build what it says will be the"
+publishedDateTime: 2022-11-29T06:16:00Z
+originalUrl: "https://www.marketwatch.com/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188?mod=markets"
+webUrl: "https://www.marketwatch.com/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188?mod=markets"
 ampWebUrl: "https://www.marketwatch.com/amp/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188"
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 630
     isCached: true
 
-secured: "Te+FBsmPRm2y4vGErvNAIrPDZf/0OjP5WYT31PllOVZZMgFLyBSmcgWM2KDKxu7BIBl+RuaaXrcNQil+ItODpJ7EX2hSAfVan3kGGrq5Gru5hZP4zHifqzHwGDtmfIV8KpyWde6lwUz00iRsdep9DJj8C45hdBVoJksHNOvKir9R7N58sjdylJz3mbc9hlvXl6qdnhMoFlRYitYAUjNj49ABlIxwslwjhpLP6teC2jj81DjN3Huv3NlDDhnr1NfUEGz4ToKuxvBTC0IHgPvQQ6K18HKhaWZ1tA9Fcf7mnGpoFrWyFxQLuzgXgN7aK5AZLgx0GxrU8a2RdQrxOeLS/J/2av8Gy6Bc49Dfe8GPuH0=;CYizURSy8uDch12cOgTasA=="
+secured: "Fc66wni57XkEwhUUpd4XXnBUfgHOUV/PXFvwcYicMuvxGSbLiZkhPXJN291KahEAU7EZFBt8DS8TGrRxt0erE526XYldfOpBhAu/0FjcZh14ORUSNoqYSkdHUfYu4OCBfifXttXv5CGhmq3rsCLySHV//5SUqqcveErMVb3S096FZiYnMKvGQ4fU1A6o3efv1uYp7lS9wLJrhLAGtho0FC3mcCUOlX2a1K6ZcLz2rR5KiFddyuoWHo97y3x4cssXsyksUxV/aHIIRyR8mddi7c0R/hZqsfkRZWDb6e9oSRtgTnzplmw+FKnU53USY/MTc1pDz13OVbYhVcWQ5YR5v89oqYCZVdsG7UjauA5cuzU=;xgJvBWDGl0pXwTIU0IGoeA=="
 ---
 

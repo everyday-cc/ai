@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Can You Tell a Real Tweet From One Written By an AI Chatbot?"
-excerpt: "Can You Tell a Real Tweet From One Written By an AI Chatbot?"
+title: "Can You Tell a Real Tweet From One Written by an AI Chatbot?"
+excerpt: "Take the quiz to see how much artificial intelligence resembles the real thing"
 publishedDateTime: 2022-12-08T14:00:00Z
-originalUrl: "https://www.wsj.com/articles/chatgpt-twitter-quiz-ai-openai-11670511559"
-webUrl: "https://www.wsj.com/articles/chatgpt-twitter-quiz-ai-openai-11670511559"
+originalUrl: "https://www.wsj.com/articles/chatgpt-twitter-quiz-ai-openai-11670511559?mod=tech_lead_pos11"
+webUrl: "https://www.wsj.com/articles/chatgpt-twitter-quiz-ai-openai-11670511559?mod=tech_lead_pos11"
 type: article
 quality: 67
 heat: -1
@@ -82,6 +82,6 @@ related:
       domain: newyorker.com
     quality: 4
 
-secured: "L18XmNcYIlnZGRIZzKPylrRWcGmXMdwZAct3dakj9RqnVTwtqom0kKIy698M8eKnhZFJHXIitTVZvfBZ7dmKne8xhFulrtCcnoqvsQFLcGCgI4mDAQwI7JP6pYFGIL6miPjlsmwI3pE4CaMaBnArgRhLxRP0QBLj66nD9Ux+lGNrDHLe4cucbht5CkfUBehT1bl9jU2bDD66bJCBFvMX2aBpsmZqVhxktP92J251KueMBqQjZB6qr/FeDAEMskWam2kQCiBvL1hYQPtuSbmCMpOmCnNam509bvfTInhLnpRk2xgy4PinbCABpNVpWKdhDP3CKK5AjjNErBNlgZQiQ+GjpFVn1xg2wVn/qgNBgWzB2ClZnsJZchHLDhPxicSJkYkbwxzCUG5Dwmt58N6mWT9gKp6WOe3/sE2dfEZfgxi6sqElu99hUiNNC8K3OOTk4C0vtPPhLCmtoo/HOIZ3XUwjMkxNHjvOKwCKR2uqldDOBUhVdO6o8e48DQTfYd9Uchm2R02Wy6MV1iPnGlLZ1Q==;Yusk8xp2pqoyRPXHE6EuiQ=="
+secured: "+3Tihb+tRzKiuZ+JDp1ujfhtvPaX9XWanm22wj7jD9KwOS2e3fxM5M1Wy71ymIRMO797unxfFfn5Jlvj1clrAoWu/viiqSS08O4G0xUBZZWwurWXQtsiX/Bf4UQDp8ZjtlkxcnQ6KtILukDBdX79fZ2n5Xpg1OgDkpN+9CMcil7iAJ0lgRP8SNJPIzmyEFFdgBQ23v8kEpL5+YT4sae3fx7WgeiCbRSjWR1QA+4uUo5ViWnoTtJZmfAKPZCGsNRGFL3sSR8gkMTtKPc1XOLH4/dNJ4rgqhQqskw34mIAp+sGbq1E1ctU6oHgKrVb8sTVdc8nw7Qyite7aqd/eAZLBO+lb5txqojZuJ+94nUPEZo=;MB38FkWPL2PTxLpWdH0s4w=="
 ---
 

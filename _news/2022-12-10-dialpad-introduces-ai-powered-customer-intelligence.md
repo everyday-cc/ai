@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/networking/dialpad-introduces-ai-powered-cus
 webUrl: "https://www.eweek.com/networking/dialpad-introduces-ai-powered-customer-intelligence/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://enterprisetalk.com/wp-content/uploads/2022/12/Plainsight-and-Connection-Introduce-AI-Alliance-To-Bring-Computer-Vision-To-Enterprises-Across-Industries.jpg"
         width: 1500
         height: 844
-        isCached: true
-  - title: "Multimedia Intelligence: Confluence of Multimedia and Artificial Intelligence"
-    excerpt: "In contrast to traditional mass media, such as printed material or audio recordings, which feature little to no interaction between users, a multimedia is a form of communication that uses a combination of different content forms such as audio,"
-    publishedDateTime: 2022-12-06T08:48:00Z
-    webUrl: "https://www.design-reuse.com/articles/53138/multimedia-intelligence-confluence-of-multimedia-and-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 34
-    images:
-      - url: "https://www.design-reuse.com/news_img2/homepage53138/soft.jpg"
-        width: 1008
-        height: 410
         isCached: true
 
 secured: "VlqyhDnB4ur8nvhrhhao717PTjvZan0NyDxpKQGe/NFR5nVrIpULJ6rs+W+FaW9f/WMbA+BRMExJsiHHMyvtvff6MUlbjM4zuKOPFF5bp0F3dLMqFkoSFJqqq94Ou/9Ljr9zQZDq3emR/mp0FdfcFo2bwwntFJbPgYv0dGy4SYplhnjI8Y/2WVOfS0exh9TIry7WO03FDsqliHL+Ijbgmer3zNT4Iz7if2/nMsf5/oIj7lykNI3HU1V6gWj+XIf3vDyR5ZEUZGAF9RZHqmXjcMDzRBclGZ+xX6LPsV3HnuPzBSLt5gzVaf85aKO1fQwHkR5Vqe02UwuAz3qpTr/2flBp3W0ex17ZX8PLTmIMAvYih/7TDXHeqcv1xyutrWjnY6yQ3AUFc+xSll9HtfYWkPX7SFr0/m4uU4zbAdMX93OSr/fzxewj+xzx4YXsKVOQv/lw2rjBte6088LuOCct19Sy67HT1eX4e/TFCBN+F5hMBwHK3ux2yNqlJfA1jMuC+lWv8TaErNYE/jC+Mzz/Ww==;QFKUF+lh6Eyr1Su+r7xQaQ=="

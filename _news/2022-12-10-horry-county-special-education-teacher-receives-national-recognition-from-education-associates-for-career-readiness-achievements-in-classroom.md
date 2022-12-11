@@ -70,22 +70,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Hashtag Trending Dec 6 – TSA facial recognition system; Adobe to sell AI made stock images; Darknet markets"
-    excerpt: "TSA may expand its facial recognition ID system, Adobe expands creations made with generative AI, and vendors selling stolen data products on darknet markets had more than $140 million in revenue. That’s all the tech news that’s trending right now,"
-    publishedDateTime: 2022-12-06T09:00:00Z
-    webUrl: "https://www.itworldcanada.com/article/hashtag-trending-dec-6-tsa-facial-recognition-system-adobe-to-sell-ai-made-stock-images-darknet-markets/517175"
-    ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-dec-6-tsa-facial-recognition-system-adobe-to-sell-ai-made-stock-images-darknet-markets/517175?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-dec-6-tsa-facial-recognition-system-adobe-to-sell-ai-made-stock-images-darknet-markets/517175?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 56
-    images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png"
-        width: 1500
-        height: 1500
-        isCached: true
   - title: "A massive report highlights fundamental problems with facial recognition and how police lie about its uses."
     excerpt: "The anecdote opens a landmark report on facial recognition from the Georgetown Law Center on Privacy & Technology, which found that law enforcement agencies are often using the technology as the sole basis for putting people in jail despite claiming they don’t and despite a growing body of evidence that the technology has serious problems with accuracy and bias."
     publishedDateTime: 2022-12-06T18:55:00Z
@@ -133,20 +117,6 @@ related:
       - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/12-09-2022/t_f352d53d54e5459cb619075bf2c225bc_name_image.jpg?_a=ATO2Bfe0"
         width: 700
         height: 394
-        isCached: true
-  - title: "Facial Recognition Back on FB Dating"
-    excerpt: "Meta is extending its use of AI facial scanning to confirm users' ages on Facebook Dating which is a contrast to their 2021 move of banning facial recognition."
-    publishedDateTime: 2022-12-06T08:57:00Z
-    webUrl: "https://analyticsindiamag.com/facial-recognition-back-on-fb-dating/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/news-1.jpg"
-        width: 2240
-        height: 1260
         isCached: true
   - title: "Ring keeps pushing the boundaries for facial recognition in US policing"
     excerpt: "The number of United States law enforcement agencies using Ring's social media application Neighbors is large and growing."
