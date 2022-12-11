@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rogerdooley/2022/12/08/the-ai-revolutio
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogerdooley/2022/12/08/the-ai-revolution-is-closer-than-you-think/amp/"
 type: article
 quality: 87
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 680
     height: 383
     isCached: true
-
-related:
-  - title: "Revolutionary AI advances are transforming the world"
-    excerpt: "Artificial Intelligence (AI) has been making incredible strides lately. From driverless cars to voice assistants, the potential of AI has never been greater."
-    publishedDateTime: 2022-12-06T09:18:00Z
-    webUrl: "https://www.redsharknews.com/ai-revolution-how-artificial-intelligence-is-transforming-our-world"
-    ampWebUrl: "https://www.redsharknews.com/ai-revolution-how-artificial-intelligence-is-transforming-our-world?hs_amp=true"
-    cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/ai-revolution-how-artificial-intelligence-is-transforming-our-world?hs_amp=true"
-    type: article
-    provider:
-      name: redsharknews.com
-      domain: redsharknews.com
-    quality: 59
-    images:
-      - url: "https://www.redsharknews.com/hs-fs/hubfs/AI_Generated_Robot.jpg?width=1280&height=720&name=AI_Generated_Robot.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "Jupzvd5vistuCLuoxYyrfbWQv2vZLVU/qelW1vboxsR6AnK87qBDURRcmjeJAWT+NG1KBxpRMtq/6dHakyxnkdWRJDwHDYgoAjxWhYiiI0RqlxDqHjNlo4A4LlEav+baLkv9+1qzumbGL/ZCAdDSR3URdZMdYy2cOWZnsj7Cp0urrvVh9h/ZeuV+UxhMcVj2L2jpCtdESPjhnPp3nJ4/S1RlPjFi5IXgTtlrL50hp9N7V5R1NXJ5F4rlAi5vvTNWPDcqIciaxDOEs8ldlsgdaFtIUuFGC4BmWCLJ8S/Afxu3sx0LkTuT4vSH0ncO/56dboVwrdjQM32y2StZH0+I+V3p31xey0phZH4HUds7NXF+GwaK/VHlqVniYllJ8IBBg0w97kcMNWMwwlkbEOio74axXk88LCCwR+PTa+a+h77/8QUucUOQwncuEC3sSzD0rtGmug/dgHMicCOtbhM4XTZWmGSIOjCqox0ROhxZ/PofLFxQHMGX4LTtUpQ9Jiy0Te5b5GbkYh64yM3kyOBHeg==;/IyKpchCLTPtzYj3XCHIXA=="
 ---

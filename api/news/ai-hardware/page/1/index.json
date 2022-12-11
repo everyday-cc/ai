@@ -213,6 +213,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-07-samsung-naver-team-on-next-gen-ai-chips.md",
+      "title": "Samsung, Naver team on next-gen AI chips",
+      "excerpt": "Samsung Electronics and online platform Naver unveiled plans to jointly develop chips designed to increase the handling of large AI workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobileworldlive.com/asia/asia-news/samsung-naver-team-on-next-gen-ai-chips/",
+      "originalUrl": "https://www.mobileworldlive.com/asia/asia-news/samsung-naver-team-on-next-gen-ai-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mobileworldlive.com/wp-content/uploads/2022/12/Samsung-NAVER-AI-partnership.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mobileworldlive.com/asia/asia-news/samsung-naver-team-on-next-gen-ai-chips/amp/",
+      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/asia/asia-news/samsung-naver-team-on-next-gen-ai-chips/amp/",
+      "publishedDateTime": "2022-12-07T00:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-neureality-lands-35m-to-bring-ai-accelerator-chips-to-market.md",
       "title": "NeuReality lands $35M to bring AI accelerator chips to market",
       "excerpt": "NeuReality, a startup developing AI inferencing accelerator chips, has raised $35 million in new venture capital.",
@@ -1434,49 +1477,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-25-nvidia-geforce-rtx-4080-gpu-unlocks-16x-performance-for-creators.md",
-      "title": "NVIDIA GeForce RTX 4080 GPU unlocks 1.6x performance for creators",
-      "excerpt": "State-of-the-art AI technology — including AI image generators ... Expand creative possibilities and pick up the GeForce RTX 4080 GPU today from retailers in the region. Get Breaking News ...",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/business/corporate-news/nvidia-geforce-rtx-4080-gpu-unlocks-16x-performance-for-creators-1.1669372071180",
-      "originalUrl": "https://gulfnews.com/business/corporate-news/nvidia-geforce-rtx-4080-gpu-unlocks-16x-performance-for-creators-1.1669372071180",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2022/11/25/The-new-GeForce-RTX-4080-GPU---GN--1-_184ae53c852_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/business/corporate-news/nvidia-geforce-rtx-4080-gpu-unlocks-16x-performance-for-creators-1.1669372071180",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/corporate-news/nvidia-geforce-rtx-4080-gpu-unlocks-16x-performance-for-creators-1.1669372071180",
-      "publishedDateTime": "2022-11-25T02:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

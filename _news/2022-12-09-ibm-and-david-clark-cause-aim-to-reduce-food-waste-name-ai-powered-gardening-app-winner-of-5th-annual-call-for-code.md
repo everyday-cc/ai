@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-08T20:00:00Z
 originalUrl: "https://www.asiaone.com/business/ibm-and-david-clark-cause-aim-reduce-food-waste-name-ai-powered-gardening-app-winner-5th"
 webUrl: "https://www.asiaone.com/business/ibm-and-david-clark-cause-aim-reduce-food-waste-name-ai-powered-gardening-app-winner-5th"
 type: article
-quality: 0
+quality: 16
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - IBM AI
   - AI
+
+images:
+  - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Dec2022/IBM_GardenMate_Team_0.jpg?itok=KQNip_Os"
+    width: 600
+    height: 450
+    isCached: true
 
 related:
   - title: "IBM and David Clark Cause Aim to Reduce Food Waste"
@@ -34,6 +40,6 @@ related:
         height: 800
         isCached: true
 
-secured: "f7XKQEwLIcu+C3B5Hvzf1XqbSX3vrDnBWcJQeMyNCKQu6u+6c4rZXixbbR2XkXpoF3+VwWcUFF6Xf9cSw1kb/6lDALxfaPIBTHbHM0gnZBL4CxlI7VptrBN5MDfqy4DtOqzcFtRPM5CYkbeCZFJnQJ25HJxzKiY3nGHhKcx2HZo6SV7UYEoB+ButQo/cQ6JBEzKZL6oYZTXIUbp2mERJwTqCWKX9MmJleGf3cIM760KpCg3GKgelWhNdpk5OawCAQ5aY0CSHGMj2slEdJIR5aTVB41O7EhpHxbwyxJ8jTnoC7QxN2IqTkWQfcSDfOopHToW8HcsVFaxfm8n6E5ENYqF3iZgcVTksPN9C+rYkWTM=;HsnGYuKyb6UwshIAjLZf2Q=="
+secured: "xK98KhV6r+NdjjYmye2wcH63kc/HbnDGjJxZ4Ur7uYvFTIk8DeFYx9t+ux2fLB+gs0Uh2g8x2mDYsFnIaH6C0HWBvdF/fN4ctj697icrU/ENEtbcr+kBFoKrFp6o4f9a2VU9phqjBKxYHGbWnwkVjcOJaMlZt1J8yOfezILfqw3BbfWfCo8YZRjOeWNbYzRwbeXQUz9FqsJeGMXAVCCl/WaCJLO4gkWNpO1Ewvfvln7B8zamMQ9puUUyljRd/vv5cgkUJ9lNEWObAyQcSOzl4glGrzBt7cjLscntroN4ga2c2mpgkLQmTe7p3aXfMUYZk+/r/CdLhepbQb46Pu7GTxcUX/ngkrWukjp9046nXk8=;4Lz1PobhcmDwcXm3EPgaWg=="
 ---
 

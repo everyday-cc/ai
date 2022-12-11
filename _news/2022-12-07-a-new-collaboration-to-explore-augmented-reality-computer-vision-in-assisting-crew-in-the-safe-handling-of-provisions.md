@@ -1,23 +1,29 @@
 ---
 category: news
 title: "A new collaboration to explore augmented reality & computer vision in assisting crew in the safe handling of provisions"
-excerpt: "Safetytech Accelerator has announced a collaboration with CYENS Centre of Excellence and Oceanic Ltd, to explore augmented reality and computer vision in assisting crew in"
-publishedDateTime: 2022-12-07T14:11:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/12/n29992754/a-new-collaboration-to-explore-augmented-reality-computer-vision-in-assisting-crew-in-the-safe-han"
-webUrl: "https://www.benzinga.com/pressreleases/22/12/n29992754/a-new-collaboration-to-explore-augmented-reality-computer-vision-in-assisting-crew-in-the-safe-han"
+excerpt: "Safetytech Accelerator has announced a collaboration with CYENS Centre of Excellence and Oceanic Ltd, to explore augmented reality and computer vision in assisting crew in the safe handling and storage of vessel provisions."
+publishedDateTime: 2022-12-07T15:20:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/12/07/9726332.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/12/07/9726332.htm"
 type: article
-quality: 0
-heat: 0
+quality: 15
+heat: 15
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "0fh2LgX283jN6IWWmZYBAQLjQKesDI2uq4GfnMjuXpvU9hZNbAgIL+zAO6UUl95qDp5hqNNGR0aaAg2rjK/rHhJdVeysxFIBEXSHD3IPTQQ0CnoZl1CDHbBMr/L3/yliXFVLCOEZf88f3WN2OHd2DQPmwXS0Rlyx0Ucc5q0HnzPA/LmosPo+fyVE4ZhzVFj6zHar2EwQkdqUVQPXfNTcsq0wLMLt2VZ7invnd0UZ1fDZmk2/XkcA2CCTPVsFVGWFJqtIJTQxm70WBmhD7ObCty+Ujp5E++oy0+UCy2V4Fcbhv0CeBXQB5Mie4eSoKiZtHh5A02medEpwZYnYWt41A6lDaJKsIMWZznljoSWfrTU=;Gd6/wutpW07vJ7eYd8YuAA=="
+images:
+  - url: "https://mma.prnewswire.com/media/1774630/CYENS_Centre_of_Excellence_Logo.jpg"
+    width: 400
+    height: 225
+    isCached: true
+
+secured: "X9s4I0kjf5/5RGSSwQFU3cvpW99u1gxo73hanPEPSt4SRsoam2TDyaYXavlnxXD9nK8NW11Pgti7eDoTORPrr/4bExYOUgfPelsWwQz0SYmz/Xi6PR9IdSwc+EMvOlpUVC4QlyHtWBX+j+1t2k00DkXJ5cOQFlWGh1+FbmtaniPz2tlcT51tjYgqhAV5VDseFkVI8SDf4D4WBDUeFmsBOltGDWqgAB9iM0cXtDoL8wUMp8lHdFuIAutKNNIUMwZlVHutPNZb/fmRuzaKzF2eTW45rZS8knHzeAWaJvZIDRJ2qMIwHMYOyvVCm/S3HlcKNZUd+PlMBwNCTTk7dcvvAVjXRQ1wMVFYE1g9nbptjr0=;bdKKpf4fHNQIme+U9l0/ug=="
 ---
 

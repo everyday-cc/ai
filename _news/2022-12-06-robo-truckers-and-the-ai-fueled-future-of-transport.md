@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wired.com/story/autonomous-vehicles-transportation-truck
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/autonomous-vehicles-transportation-truckers-employment/amp"
 type: article
 quality: 91
-heat: -1
-published: false
+heat: 101
+published: true
 
 provider:
   name: Wired
@@ -32,47 +32,22 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence, Machine Learning, And The Future Of Entertainment"
-    excerpt: "By 2030, the AI in media and entertainment industry is set to be worth a staggering $99.3 billion with the current compound annual growth rate being 26%."
-    publishedDateTime: 2022-12-06T09:34:00Z
-    webUrl: "https://www.forbes.com/sites/joshwilson/2022/12/06/artificial-intelligence-machine-learning-and-the-future-of-entertainment/"
-    ampWebUrl: "https://www.forbes.com/sites/joshwilson/2022/12/06/artificial-intelligence-machine-learning-and-the-future-of-entertainment/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joshwilson/2022/12/06/artificial-intelligence-machine-learning-and-the-future-of-entertainment/amp/"
+  - title: "AI-powered armed robots trigger a debate around safety, future of warfare"
+    excerpt: "The San Francisco Police Department’s (SFPD’s) decision to induct robots that can use deadly force has led to controversy in America’s civil society and upped decibel levels in an ongoing debate about “killer robots” – that is,"
+    publishedDateTime: 2022-12-08T07:01:00Z
+    webUrl: "https://www.business-standard.com/article/international/ai-powered-armed-robots-trigger-a-debate-around-safety-future-of-warfare-122120800481_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/international/ai-powered-armed-robots-trigger-a-debate-around-safety-future-of-warfare-122120800481_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/ai-powered-armed-robots-trigger-a-debate-around-safety-future-of-warfare-122120800481_1.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 117
+      name: Business Standard
+      domain: business-standard.com
+    quality: 58
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/638f08b7ec3141a8f50d997c/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 814
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-12/08/full/1670482481-7619.jpg?im=Resize,width=480"
+        width: 480
+        height: 359
         isCached: true
-  - title: "The Future Of Fintech, According To AI"
-    excerpt: "To much fanfare, Open AI released Chat GPT, an interface to interact with their AI model. So this naturally felt like an opportunity to learn about the future of fintech - according to AI. At the end,"
-    publishedDateTime: 2022-12-10T14:29:00Z
-    webUrl: "https://www.forbes.com/sites/alexlazarow/2022/12/10/the-future-of-fintech-according-to-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/alexlazarow/2022/12/10/the-future-of-fintech-according-to-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexlazarow/2022/12/10/the-future-of-fintech-according-to-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6393b7e45ce951dad64ea391/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Pondering the legitimacy of AI art"
-    excerpt: "The more AI art is generated, the more valuable human-created art.” - Alex Roy Listen, I don’t want to argue. Art created by artificial intelligence, if it’s even really art at all, is sketchy and problematic."
-    publishedDateTime: 2022-12-09T18:01:00Z
-    webUrl: "https://www.thefabricator.com/thefabricator/blog/cadcamsoftware/pondering-the-legitimacy-of-ai-art"
-    type: article
-    provider:
-      name: The Fabricator
-      domain: thefabricator.com
-    quality: 19
 
 secured: "/DE7OxQ/+QFOvwLNSREvlimLAtcEyjwerKvDed09JAz/85XvVHm09LmVE9LCxD5t8c0B/ZyJRIG+TG7FM0ZsndHRAeZr+26Ap1T8rr3qBvka5DrrElsHBwltcr0GQJ/TDTYbiyfDxaLTJDW2xBtkx3zgU4aFkXZo+w3lcle65ykHEJ548VrKHULsrNviSmNaJo9M+IRj/ezAdUE3lPOtevEEjgKRLvnQy1kzw0mw1ojTKkJf+J72zZe4hWmc34FM10KXLJtrHOexmTV1FcD6gY6FiGE+jgR+UxiIWmqGNUTtfIninsD1MDg9h03tkdYM8+3/gngJa4NwarGZ69JRI+PwDGUmOjdujSso7szo0WV5X2bG1xj5GM6E+gpoaGTJg1scJUjYG8lz+5NiFlqV7nvxTOvpL3a1zvkg9zz1fMto7O0y+/N3b9fzeio23hQadOLrooiR2CHqMZL6nBa7+gF3X8ReraukjgZfbidftsDOFEQwKUCeEl+JXllgNd4KCl4BOkTpNkbWcBF3FyLPkA==;GBvpg8mMOUBO1ZSz4kMAeA=="
 ---

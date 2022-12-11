@@ -150,6 +150,59 @@
       ]
     },
     {
+      "path": "_news/2022-12-06-robo-truckers-and-the-ai-fueled-future-of-transport.md",
+      "title": "Robo Truckers and the AI-Fueled Future of Transport",
+      "excerpt": "Concerns about artificial intelligence replacing long-haul drivers are not new, but the real story is more nuanced.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/autonomous-vehicles-transportation-truckers-employment/",
+      "originalUrl": "https://www.wired.com/story/autonomous-vehicles-transportation-truckers-employment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/638e52b0fefa29ce257ada8f/master/pass/artificial-intelligence-trucker-transport.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/autonomous-vehicles-transportation-truckers-employment/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/autonomous-vehicles-transportation-truckers-employment/amp",
+      "publishedDateTime": "2022-12-06T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-bank-of-america-sees-ai-transforming-the-internet-over-the-next-five-yearstop-stocks-to-ride-trend.md",
       "title": "Bank of America sees AI transforming the internet over the next five years—top stocks to ride trend",
       "excerpt": "AI and machine learning will be a \"critical driver of all things Internet,\" Bank of America said in a note Monday.",
@@ -1349,49 +1402,6 @@
         "name": "Android",
         "domain": "androidheadlines.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-fractal-announces-launch-of-asperai.md",
-      "title": "Fractal Announces Launch of Asper.ai",
-      "excerpt": "Fractal launches Asper.ai - a purpose-built interconnected AI product for consumer goods, manufacturing, and retail NEW YORK, Nov. 16, 2022 /PRNewswire/ -- Fractal (www.fractal.ai), a global ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/fractal-announces-launch-of-asper-ai-1031917691",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/fractal-announces-launch-of-asper-ai-1031917691",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T06:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

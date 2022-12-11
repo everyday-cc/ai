@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Samsung announces partnership with Naver to develop next-gen AI chips"
-    excerpt: "Samsung Electronics on Tuesday announced that it has partnered with internet portal giant Naver Corporation to develop next-generation artificial intelligence (AI) chips"
-    publishedDateTime: 2022-12-06T10:23:00Z
-    webUrl: "https://www.business-standard.com/article/technology/samsung-announces-partnership-with-naver-to-develop-next-gen-ai-chips-122120600618_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/samsung-announces-partnership-with-naver-to-develop-next-gen-ai-chips-122120600618_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/samsung-announces-partnership-with-naver-to-develop-next-gen-ai-chips-122120600618_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 74
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-12/05/full/1670217737-84.jpg?im=Resize,width=480"
-        width: 480
-        height: 359
-        isCached: true
   - title: "Samsung, Naver team on next-gen AI chips"
     excerpt: "Samsung Electronics and online platform Naver unveiled plans to jointly develop chips designed to increase the handling of large AI workloads."
     publishedDateTime: 2022-12-07T08:36:00Z
@@ -50,20 +34,6 @@ related:
       - url: "https://www.mobileworldlive.com/wp-content/uploads/2022/12/Samsung-NAVER-AI-partnership.jpg"
         width: 650
         height: 400
-        isCached: true
-  - title: "Samsung partners with NAVER on AI chips"
-    excerpt: "NAVER say never Samsung has partnered with NAVER to develop semiconductors that can better handle AI workloads. The deal will cross  Samsung’s semiconductor design abilities and NAVER’s expertise in AI algorithms and AI services."
-    publishedDateTime: 2022-12-06T10:14:00Z
-    webUrl: "https://fudzilla.com/news/ai/55950-samsung-partners-with-naver-on-ai-chips"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://fudzilla.com/media/k2/items/cache/73f3fd2924b1fb3eb173de96705dad7c_L.jpg"
-        width: 620
-        height: 465
         isCached: true
   - title: "Samsung, Naver join forces to develop chip solutions for AI"
     excerpt: "Samsung Electronics and Naver Corporation have teamed up to jointly develop semiconductors for artificial intelligence (AI) hyperscale computing. This will be an AI chip solution needed for large-scale"

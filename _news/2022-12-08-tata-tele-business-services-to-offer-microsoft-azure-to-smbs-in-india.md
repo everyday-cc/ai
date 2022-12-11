@@ -75,20 +75,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Snowflake becomes available in UK on Microsoft Azure"
-    excerpt: "UK organisations using Snowflake services will maintain data residency while embracing the potential of the data cloud thanks to availability on Microsoft Azure."
-    publishedDateTime: 2022-12-06T10:46:00Z
-    webUrl: "https://www.cloudcomputing-news.net/news/2022/dec/06/snowflake-becomes-available-in-uk-on-microsoft-azure/"
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 69
-    images:
-      - url: "https://www.cloudcomputing-news.net/wp-content/uploads/sites/2/2020/03/real-snowflakes-closeup-picture-id1183438449.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Drone Express To Use Microsoft AI For New Cargo Drone Navigation"
     excerpt: "Drone Express, a drone cargo delivery startup, plans to begin manufacturing a new version of its DE-2020 multicopter drone by year’s end that will use Microsoft’s (AI) software, Azure Machine Learning,"
     publishedDateTime: 2022-12-09T22:23:00Z
