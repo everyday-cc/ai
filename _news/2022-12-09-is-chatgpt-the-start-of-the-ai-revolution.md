@@ -214,15 +214,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 49
-  - title: "ChatGPT and Lensa: Why Everyone Is Playing With Artificial Intelligence"
-    excerpt: "Two internet sensations give non-nerds a turn with powerful software, yielding surprising wit and stunning avatars."
-    publishedDateTime: 2022-12-07T15:38:00Z
-    webUrl: "https://www.wsj.com/articles/everyone-in-your-feed-is-talking-about-chatgpt-and-lensa-and-heres-why-11670356499"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
   - title: "How These AI-Powered Chatbots Keep Getting Better"
     excerpt: "This week on “Gadget Lab,” we discuss the advances in generative AI tools like ChatGPT that make computer-enabled conversations seem more human than ever."
     publishedDateTime: 2022-12-08T13:00:00Z
@@ -327,6 +318,6 @@ related:
       domain: newyorker.com
     quality: 4
 
-secured: "tHB85k/NpBIXN8IYQxL8xkp+oHxrni42PIpQr0q2DXA4UaPkpMtoi+k6kkY9X4OHeGTU/Yl6g9lIMSq1sxVTslVxwH+UoWcP34ERi+5WvZ7TRh0QmRYNhwyIXB0Ssd6sv07XqBZp7/Kxz/dvcpb1Z2ws5XUt/u3T4B1Gff3Xgp5p38LbAt5X9OPtI1qGLWpkl3HeLVqFuTLeXAkibNOMRoyHWuYKaRZqG7mNrfK42UA71Danir0oMnNffML8FbSdB92bdYPZ8SbT5FhSWRlJ1nXB9xwYTAmUd2YPPUotoUCahlIlBmzn7KFnJN+IiWlM6uBTssi0IYh58txNr40Q69+tIozaTAKOL3F3vIL71cY=;Ga0xWMJSeI8md/EZHRtcug=="
+secured: "z2pUC7R+IUyNOAQiSWKfO8NuySJFp47lI5Zbod+5yppokZ9+HK7frvMGMP+yUmhizlpgclhglF7UWAPSc+4EftoW0kOoMrcjMn7GZw8DB98ShIbJTFjVKIgZPTVJeovpIP2KjXLSuL/FJrbQK5arBe56eeUBKoZa4+v8QjmxoS58fHidy07MlPeIuL5aaya3OWLJxc19uAeWqhPgRdPf8pKobzE20kqGRZsZGe+GU+KHgLvsJb28/yYuC5Hp/L8FlwoE5z5PqZP9fN6FGFcc6u94ABEUwmgA30JJUcJ8Hl7jYur6eCTQj9CuRK4sBNRlxnezRBhFCssDKOwFE3P6ppF7eLXd2IYkRjjeJ4IOtk8=;+rNQEGW83f5WQ4woyRctUA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.americanbanker.com/news/deutsche-commits-to-using-ai-t
 webUrl: "https://www.americanbanker.com/news/deutsche-commits-to-using-ai-tech-from-nvidia-throughout-the-bank"
 type: article
 quality: 58
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://www.newelectronics.co.uk/media/ngbph4qk/future-of-banking.jpg?width=1200&height=630&mode=crop"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Nvidia And Deutsche Bank AI Gambit Targets $1 Trillion Financial Services Opportunity"
-    excerpt: "NVIDIA’s Manuvir Das, vice president of enterprise computing, said channel partners should pay close attention to advancements born out of the collaboration, noting that McKinsey expects the annual global economic impact of AI in the financial services sector to grow to a whopping $1 trillion."
-    publishedDateTime: 2022-12-07T15:12:00Z
-    webUrl: "https://www.crn.com/news/computing/nvidia-and-deutsche-bank-ai-gambit-targets-1-trillion-financial-services-opportunity"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 47
-    images:
-      - url: "https://www.crn.com/resources/027c-16c50efb30cd-d8b9b69168aa-1000/ai-400.jpg"
-        width: 399
-        height: 399
         isCached: true
   - title: "Deutsche Bank, NVIDIA to Embed AI into Financial Services"
     excerpt: "Deutsche Bank, NVIDIA aim \"to accelerate the use of artificial intelligence (AI) and machine learning (ML) in the financial services sector.\""

@@ -64,6 +64,20 @@ related:
         width: 496
         height: 326
         isCached: true
+  - title: "Where Machine Meets Mankind: Can We Leverage The Power Of AI Without Losing Our Humanity?"
+    excerpt: "To determine whether this fear is founded, we need to determine whether AI can truly emulate the thinking processes of humans, by taking a look at the landscape."
+    publishedDateTime: 2022-12-12T08:26:00Z
+    webUrl: "https://techfinancials.co.za/2022/12/12/where-machine-meets-mankind-can-we-leverage-the-power-of-ai-without-losing-our-humanity/"
+    type: article
+    provider:
+      name: techfinancials
+      domain: techfinancials.co.za
+    quality: 30
+    images:
+      - url: "https://techfinancials.co.za/wp-content/uploads/2022/12/Berniece-Hieckmann.jpg"
+        width: 853
+        height: 1280
+        isCached: true
 
 secured: "8ObAdmayUDtO1B1ME1inPfgvDLLmdBCM9JVHXlE2Z5nlxk0NCgdVbI6gcZteCn6TRxkHr60J795mbHacXDV8DNxywD+w17WNx5xOdxkDXq3JYHSNv7lUe3m+q6m2rHhBPrn6wk1Z48aeKWOjsXnklceBjjZS1fuH1FvzNli7eGDp4Wt4cr1qSWyxvlB+qaT5o/aZm47XVpG3MSWwtG/HQWBNY9x6WynrWcGxju88Jk61Q5jwH092YFTQY3cQrmcQ8p7J/eegxgkqlPmKr+mngsfCbrbPAEJgwkfd7AFRJsewgry8+jgY4P5z/wFomyCWJ8MCOLdm8zGDwVvhSHwo+Wy016PinBBVIFEe6im9XAb/2DMjYbCH3LNU3Eonb0Q8Jv14HBz4lLtbIBBboW30vdrdCE9xmx7LjIn0iwONc/wxdVMpJofh7vGGiPCjp7SxhfRK+ytdqzSEOAAr+d9r4j4nT6ojOdGbI9zdcZYX7UjzCpW9/4/rikJxTroJd5nrMBVnFusbRDi1WxA29ZX6PQ==;gOea/EC5M36bJWrpQfs/sQ=="
 ---

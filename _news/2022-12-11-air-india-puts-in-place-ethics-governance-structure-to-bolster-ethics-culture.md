@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Crashing in Other Parts of the World, Self-driving Cars Might Win the Race in India"
+    excerpt: "If we can get self-driving cars to work on Silk Board Junction—infamous for long traffic jams—in Bengaluru, it will work in the US, it will work in Europe, and it will work in the backyard of Elon Musk as well,"
+    publishedDateTime: 2022-12-12T07:42:00Z
+    webUrl: "https://analyticsindiamag.com/crashing-in-other-parts-of-the-world-self-driving-cars-might-win-the-race-in-india/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 18
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/The-moral-dilemma-of-embedding-ethics-into-autonomous-vehicles.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "IBM to harness India’s potential for artificial intelligence"
     excerpt: "Technology major, IBM, is set to increasingly focus on leveraging the power of artificial intelligence (AI) and automation to help businesses. Sandip Patel, Managing Director, IBM India and South Asia said, India is well-poised to lead the AI revolution and establish itself as an AI innovation garage of the world."
     publishedDateTime: 2022-12-08T14:25:00Z

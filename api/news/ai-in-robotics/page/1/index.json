@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-12-rich-lowry-an-emphatic-yes-to-killer-robots.md",
+      "title": "RICH LOWRY: An emphatic 'yes' to killer robots",
+      "excerpt": "Cyberdyne Systems Corporation created an artificial intelligence-based defense system called Skynet. When the system achieved self-awareness on Aug. 29, 1997, it decided that humanity was the enemy an",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/opinion/rich-lowry-an-emphatic-yes-to-killer-robots/article_c4381adc-780e-11ed-a941-97d3ab21316e.html",
+      "originalUrl": "https://www.bakersfield.com/opinion/rich-lowry-an-emphatic-yes-to-killer-robots/article_c4381adc-780e-11ed-a941-97d3ab21316e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/8/fe/8fef732a-1b25-11ec-a822-f72505c09ba1/614a5371a5839.image.jpg?crop=505%2C679%2C172%2C43",
+          "width": 505,
+          "height": 679,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bakersfield.com/opinion/rich-lowry-an-emphatic-yes-to-killer-robots/article_c4381adc-780e-11ed-a941-97d3ab21316e.amp.html",
+      "cdnAmpWebUrl": "https://www-bakersfield-com.cdn.ampproject.org/c/s/www.bakersfield.com/opinion/rich-lowry-an-emphatic-yes-to-killer-robots/article_c4381adc-780e-11ed-a941-97d3ab21316e.amp.html",
+      "publishedDateTime": "2022-12-11T23:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-12-kerala-infrastructure-for-technology-and-education-to-bring-robotics-to-students-in-ernakulam-district.md",
       "title": "Kerala Infrastructure for Technology and Education to bring robotics to students in Ernakulam district",
       "excerpt": "The Ernakulam unit of Kerala Infrastructure for Technology and Education (Kite) has begun the work on setting up robotics labs in the schools in the",
@@ -1337,49 +1380,6 @@
         "name": "The Robot Report",
         "domain": "therobotreport.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-san-francisco-approves-use-of-remote-controlled-robots-to-kill-suspects.md",
-      "title": "San Francisco approves use of remote-controlled robots to kill suspects",
-      "excerpt": "San Francisco’s police will be allowed to use remote-controlled robots to kill suspects. The city’s board of supervisors last night approved a controversial policy that lets police robots ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/11/30/23486090/robots-deadly-force-kill-san-francisco-police-approve",
-      "originalUrl": "https://www.theverge.com/2022/11/30/23486090/robots-deadly-force-kill-san-francisco-police-approve",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T09:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

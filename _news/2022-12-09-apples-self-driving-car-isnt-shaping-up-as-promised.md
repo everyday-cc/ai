@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Apple's self-driving car debut pushed back and may be less advanced"
-    excerpt: "The Apple Car's release date has reportedly been pushed back by a year, from 2025 to 2026, and its self-driving capabilities will be scaled back."
-    publishedDateTime: 2022-12-07T15:53:00Z
-    webUrl: "https://interestingengineering.com/innovation/apple-car-less-advanced-debut-pushed-back"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 24
-    images:
-      - url: "https://inteng-storage-us.s3.amazonaws.com/2022/12/07/image/jpeg/SzPhTjZKIXbUDcg4ODlIB2ABV0oKGfvXttBn13GI.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Apple Self-Driving EV Delayed to 2026, Likely to Start under $100,000"
     excerpt: "The tech corporation aims for the car to be fully autonomous on the highway, but has ditched a pod-like design and will include traditional driving controls in the cabin."
     publishedDateTime: 2022-12-09T16:47:00Z

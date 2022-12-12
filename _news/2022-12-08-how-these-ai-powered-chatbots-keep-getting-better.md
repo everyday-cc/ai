@@ -222,15 +222,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 49
-  - title: "ChatGPT and Lensa: Why Everyone Is Playing With Artificial Intelligence"
-    excerpt: "Two internet sensations give non-nerds a turn with powerful software, yielding surprising wit and stunning avatars."
-    publishedDateTime: 2022-12-07T15:38:00Z
-    webUrl: "https://www.wsj.com/articles/everyone-in-your-feed-is-talking-about-chatgpt-and-lensa-and-heres-why-11670356499"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
   - title: "ChatGPT is the clearest example of how seamless AI has become"
     excerpt: "OpenAI's new program creates stories, poems and other text that can be mistaken for human made. That comes with issues."
     publishedDateTime: 2022-12-07T21:00:00Z

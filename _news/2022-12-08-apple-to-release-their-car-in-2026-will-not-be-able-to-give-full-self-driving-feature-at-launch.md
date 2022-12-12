@@ -43,22 +43,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Apple's electric self-driving car delayed again, to debut in 2026"
-    excerpt: "Apple is now planning to use a less-ambitious design for its vehicle that includes a steering wheel and pedals."
-    publishedDateTime: 2022-12-07T16:31:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/apples-electric-self-driving-car-delayed-again-to-debut-in-2026-41670386901498.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/apples-electric-self-driving-car-delayed-again-to-debut-in-2026/amp-41670386901498.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/apples-electric-self-driving-car-delayed-again-to-debut-in-2026/amp-41670386901498.html"
-    type: article
-    provider:
-      name: Auto News India
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2022/12/07/1600x900/Apple_car_1657603020858_1670387060040_1670387060040.JPG"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Tesla speaks up on its inability to offer self-driving cars"
     excerpt: "Tesla is being used by a customer for not offering self-driving cars yet. The company has filed a motion to dismiss the lawsuit as it is currently still working on the software."
     publishedDateTime: 2022-12-09T12:41:00Z
@@ -74,36 +58,6 @@ related:
       - url: "https://static.digit.in/default/fea-9-11-1280-1fc3fd6142.jpeg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Apple scales back self-driving car and delays debut till 2026"
-    excerpt: "Apple executives are grappling with the reality that its vision for a fully autonomous vehicle — without a steering wheel or pedals — isn’t feasible with current technology."
-    publishedDateTime: 2022-12-07T16:31:00Z
-    webUrl: "https://www.dailynews.com/2022/12/07/apple-scales-back-self-driving-car-and-delays-debut-till-26/"
-    ampWebUrl: "https://www.dailynews.com/2022/12/07/apple-scales-back-self-driving-car-and-delays-debut-till-26/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2022/12/07/apple-scales-back-self-driving-car-and-delays-debut-till-26/amp/"
-    type: article
-    provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 44
-    images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2022/12/Apple_App_Store_Antitrust_Battle_93202-1.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Apple Delays the Launch and Lowers the Ambitions for its Self-Driving Car"
-    excerpt: "Apple is modifying the design of its first self-driving vehicle to include a steering wheel and pedals, which earlier plans left out."
-    publishedDateTime: 2022-12-07T15:27:00Z
-    webUrl: "https://observer.com/2022/12/apple-delay-autonomous-electric-car-design/"
-    type: article
-    provider:
-      name: observer
-      domain: observer.com
-    quality: 23
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2022/12/GettyImages-180224599.jpg?quality=80&#038;strip"
-        width: 4207
-        height: 2805
         isCached: true
   - title: "Uber launches robotaxi service using fleet of Hyundai IONIQ 5"
     excerpt: "Taking the driverless experience to a whole new level, ride-hailing giant Uber has launched a Level Four autonomous taxi service in Las Vegas, United States"

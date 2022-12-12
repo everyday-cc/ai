@@ -57,6 +57,20 @@ related:
         width: 496
         height: 326
         isCached: true
+  - title: "Where Machine Meets Mankind: Can We Leverage The Power Of AI Without Losing Our Humanity?"
+    excerpt: "To determine whether this fear is founded, we need to determine whether AI can truly emulate the thinking processes of humans, by taking a look at the landscape."
+    publishedDateTime: 2022-12-12T08:26:00Z
+    webUrl: "https://techfinancials.co.za/2022/12/12/where-machine-meets-mankind-can-we-leverage-the-power-of-ai-without-losing-our-humanity/"
+    type: article
+    provider:
+      name: techfinancials
+      domain: techfinancials.co.za
+    quality: 30
+    images:
+      - url: "https://techfinancials.co.za/wp-content/uploads/2022/12/Berniece-Hieckmann.jpg"
+        width: 853
+        height: 1280
+        isCached: true
   - title: "Not Even AI Can Beat the Market These Days"
     excerpt: "A tireless machine able to digest all information and immune to biases should be clearly superior to humans when it comes to investing. Except it’s not."
     publishedDateTime: 2022-12-09T11:32:00Z
