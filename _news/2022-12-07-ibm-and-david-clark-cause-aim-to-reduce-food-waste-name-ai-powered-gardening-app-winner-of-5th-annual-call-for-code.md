@@ -15,12 +15,6 @@ topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/3/a9/3a9fdfcf-13f4-56d6-a3a6-d6c929aa9d63/638ff0474f17c.image.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "/0uRxjtNKlPQ5Api6f/vvQyfm5G8TsTQ8vqbVuUZjknDBeD296lBRmm+/EkRPU06iAvz+/OgN8DxeXul1QI0eEcV1Br0KgtQykVjBS5VQDAxm16VTANSW4j3+seJX8BsMP88i9V7IZ+tpQTRTFvojvUwJv0/aMdFqxK0rhz1/AWc0xDfoaJ3fYtinWucw9DgqLjW6Nrgs6XhVCcBBaP1y2YtS7IBO8x5NxLDXnTAOk9kjGZsmI/CPdNwToKC8yzO8IMDE/BUvb6xbdGsA2PmFMA1wjQNHODV/gXGLMKrk9B/VqxOs/Jrpv7S0k1pNlzdxOUYbyzP245izszd5w63xCVxTaUY0nXt7MVJ0xRC5mo=;l7zmNWpNOWXldkmzyoR/iQ=="
+secured: "I4FySfR9XjCWxIX34jh4p3TqpIh7vCL0DtJ/lGsOjYibQAkrb0PqXBvkSugBsRqeF/xDrdkZNXZu70+01wp1raTr+Wddwd4U1R8PdU7oeMdzmoKYG9m5NWix4eGemaP+ctHAb7bzO1iNXG1XkxiP4LhQjHUaq75v0i98NtAd+DjmPsZMQyGrkU50wlXGD8mGbRX4UH55STNUACw7EPh+bwrQYRWfiT+5Nu/prAUduSyaKdnXdqSifXrdeMLhdwah8O2SjjMmDxGS2CT83HG/v10bqbDYInW4jhgyQFIBmu4XyMs73uPVzJCGla0n3a1qwzqTidMLnfhL6uacaNuAjBhZc0dS4HQwF98LwfKA364=;TZL/srPsbNUxp2pBih6okA=="
 ---
 

@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1670412621.jpg"

@@ -18,6 +18,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.reuters.com/resizer/g4FkAeB1syg6dyJxBiAxlo2QyzQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SWHRVR65DJLWVK4B3D4PTWA5FY.jpg"
