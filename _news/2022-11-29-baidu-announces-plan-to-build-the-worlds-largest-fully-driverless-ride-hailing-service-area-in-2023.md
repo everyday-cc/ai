@@ -1,24 +1,20 @@
 ---
 category: news
-title: "Baidu Announces Plan to Build the World's Largest Fully Driverless Ride-Hailing Service Area in 2023"
-excerpt: "Baidu plans to establish the world's largest fully driverless ride-hailing service area in 2023Baidu continues to show growth momentum as the"
-publishedDateTime: 2022-11-29T07:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/baidu-announces-plan-to-build-the-world-s-largest-fully-driverless-ride-hailing-service-area-in-2023-1031941173"
-webUrl: "https://markets.businessinsider.com/news/stocks/baidu-announces-plan-to-build-the-world-s-largest-fully-driverless-ride-hailing-service-area-in-2023-1031941173"
+title: "Baidu Announces Plan To Build The World's Largest Fully Driverless Ride-Hailing Service Area In 2023"
+excerpt: "This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday. Want the fastest, most accurate stock market intelligence? Want EXCLUSIVE ..."
+publishedDateTime: 2022-11-29T07:04:00Z
+originalUrl: "https://www.benzinga.com/news/22/11/29881998/baidu-announces-plan-to-build-the-worlds-largest-fully-driverless-ride-hailing-service-area-in-2023"
+webUrl: "https://www.benzinga.com/news/22/11/29881998/baidu-announces-plan-to-build-the-worlds-largest-fully-driverless-ride-hailing-service-area-in-2023"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "8KFn4QFyTjSVTMpDsqpWxcllZBr0VA+5VcCMGENck28IRRd06mSxO+rmSXuGedWnV3cqnGY4OQUEjEzvvoWn62kl21V9nlcKfG4Bp1TBtHyXY8vOCf5Z3E+hkc8AtMs4+ly4GZ/9C9rtSXMWoeFsgnmcK4Wbe6mtYtqXDpNh9eYpUFMzZ/yDWN6o+2slu4KAPQOz05xK2Fx5DET0jjNM5/Ph0NFOXrOoSnRzi97Wh1oWjC5Bg5wi+WK0/rwlBe1629mqbwZeOCZIqL/HdBhpWmtvtflafHFXBUJZ4gScKEUZv+Q82DtBtXW3ocUuSUfMPngfOPkHYMCtwjbOhLSBFyJ8FntdtCnnb5MwvvHc8iY=;/GbLTa/oiDeyXbImIilBZw=="
+secured: "J+dtfZ6K8olQiclY4qe8SRAmZaL4E8fvOoChoWggbGJjwBmeEKmVlXRXSJcqmhlw5vjQv3ho49F3vcJFy4ON9rhPl1g1YdKAChAZloioON9Zn9aNqXjs39AF50rDsQkLZ8vp6m+9LdMzNaf8nQ0LJ0H0qYcbQNdHBPFjZRfD29OmidFJH32DrsGJxlbHqTFPCWxoVa2Z/EUG4gDBgbV9wnUqvgLP7gt1n4ZRD5ygeCI2Grt6Q5uNHYYRvpRx5Ci7r9hnA6w0HKDc4KIM/ryLslKiNJOKtiXbpjdJ1cvGbydQ+sbcv/MhyRkHIviGbs2w/1ZeG1JJ3qx9PTqrKPIkP69tdTVtOTw1Cj1fGml9Ezc=;VHv3K/5xtkNhGpyGdIcFvg=="
 ---
 

@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.thenation.com/wp-content/uploads/2022/12/chatgptdialogue-img.jpg"
