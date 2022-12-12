@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Alzheimer’s Applications Market Growth, Industry Analysis, Share, Trend, Top Key Players and Forecast by 2030"
-    excerpt: "A new business intelligence report released by Infinity Business Insights with title Global Artificial Intelligence (AI) in Alzheimer’s Applications Market research report provides a thorough examination of the industry."
-    publishedDateTime: 2022-12-08T04:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-alzheimers-applications-market-growth-industry-analysis-share-trend-top-key-players-and-forecast-by-2030-2022-12-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial intelligence (AI) in Supply Chain and Logistics Market 2022 : Regional Scope, Growth Statistics, Demand and Regional Outlook 2028"
     excerpt: "\"Artificial intelligence (AI) in Supply Chain and Logistics Market\" Insights 2022 - By Applications (Inventory control and planning, Transportation network design, Purchasing and supply management, Demand planning and forecasting,"
     publishedDateTime: 2022-12-12T04:19:00Z

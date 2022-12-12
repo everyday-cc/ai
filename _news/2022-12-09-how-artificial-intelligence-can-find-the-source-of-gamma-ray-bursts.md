@@ -8,8 +8,8 @@ webUrl: "https://phys.org/news/2022-12-artificial-intelligence-source-gamma-ray.
 ampWebUrl: "https://phys.org/news/2022-12-artificial-intelligence-source-gamma-ray.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-12-artificial-intelligence-source-gamma-ray.amp"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:

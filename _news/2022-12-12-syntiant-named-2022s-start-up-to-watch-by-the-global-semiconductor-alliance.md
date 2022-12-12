@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-12T15:10:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/12/g30044740/syntiant-named-2022s-start-up-to-watch-by-the-global-semiconductor-alliance"
 webUrl: "https://www.benzinga.com/pressreleases/22/12/g30044740/syntiant-named-2022s-start-up-to-watch-by-the-global-semiconductor-alliance"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

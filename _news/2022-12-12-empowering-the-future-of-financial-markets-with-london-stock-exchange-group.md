@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-12T07:59:00Z
 originalUrl: "https://blogs.microsoft.com/blog/2022/12/11/empowering-the-future-of-financial-markets-with-london-stock-exchange-group/"
 webUrl: "https://blogs.microsoft.com/blog/2022/12/11/empowering-the-future-of-financial-markets-with-london-stock-exchange-group/"
 type: article
-quality: 22
+quality: 24
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI in Finance
 
 images:
   - url: "https://blogs.microsoft.com/wp-content/uploads/prod/2022/12/MSC22_Getty_UK_Finance_1312551627_1773x997-1024x576.jpg"

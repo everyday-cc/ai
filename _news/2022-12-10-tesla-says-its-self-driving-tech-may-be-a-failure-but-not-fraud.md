@@ -41,6 +41,20 @@ related:
         width: 320
         height: 214
         isCached: true
+  - title: "Tesla ordered to upgrade self-driving computer for free due to ‘false advertising’"
+    excerpt: "A judge has ordered Tesla to upgrade a customer's self-driving computer for free in order to subscribe to Tesla's Full Self-Driving program."
+    publishedDateTime: 2022-12-12T22:18:00Z
+    webUrl: "https://electrek.co/2022/12/12/tesla-ordered-upgrade-self-driving-computer-for-free-false-advertising/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 63
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/01/elon-musk-twitter1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla speaks up on its inability to offer self-driving cars"
     excerpt: "Tesla is being used by a customer for not offering self-driving cars yet. The company has filed a motion to dismiss the lawsuit as it is currently still working on the software."
     publishedDateTime: 2022-12-09T12:41:00Z

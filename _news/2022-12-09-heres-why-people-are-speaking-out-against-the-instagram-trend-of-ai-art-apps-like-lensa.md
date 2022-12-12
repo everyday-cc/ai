@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "AI art apps are cluttering the App Store’s Top Charts following Lensa AI’s success"
+    excerpt: "Consumer demand for Lensa AI, and for AI edits more broadly, has now pushed numerous other \"AI\" apps into the U.S. App Store's Top Charts."
+    publishedDateTime: 2022-12-12T21:37:00Z
+    webUrl: "https://techcrunch.com/2022/12/12/ai-art-apps-are-cluttering-the-app-stores-top-charts-following-lensa-ais-success/"
+    ampWebUrl: "https://techcrunch.com/2022/12/12/ai-art-apps-are-cluttering-the-app-stores-top-charts-following-lensa-ais-success/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/12/ai-art-apps-are-cluttering-the-app-stores-top-charts-following-lensa-ais-success/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 81
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/12/lensa-ai-magic-avatar.jpg?resize=1200,730"
+        width: 1200
+        height: 730
+        isCached: true
   - title: "'It's not just fun': Lensa AI portrait app raises ethical, privacy concerns"
     excerpt: "Magic avatars' are the latest internet craze, but one expert says individuals uploading photos of themselves onto the Lensa AI portrait app may not be aware of the ethical and privacy concerns involved."
     publishedDateTime: 2022-12-12T14:26:00Z

@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Kinetix combines AI and 3D animation to automate user-generated emotes for games"
-    excerpt: "Kinetix is combining 3D animation and AI to automate the process of creating user-generated emotes for video games and virtual worlds."
-    publishedDateTime: 2022-12-08T04:00:00Z
-    webUrl: "https://venturebeat.com/games/kinetix/"
-    ampWebUrl: "https://venturebeat.com/games/kinetix/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/kinetix/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/12/kinetix-2.jpg?w=1200&strip=all"
-        width: 1200
-        height: 669
-        isCached: true
   - title: "Artificial intelligence creating new value-generation ways for operators of infrastructure networks"
     excerpt: "The use of artificial intelligence (AI) techniques in the operation of infrastructure networks and within industries is leading to new ways of generating value for the companies and the users, says AI solutions company ExploreAI CTO Aidan Helmbold."
     publishedDateTime: 2022-12-08T21:59:00Z

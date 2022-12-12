@@ -52,6 +52,15 @@ related:
         width: 1561
         height: 779
         isCached: true
+  - title: "Image augmentation pipeline for Amazon Lookout for Vision"
+    excerpt: "Amazon Lookout for Vision provides a machine learning (ML)-based anomaly detection service to identify normal images (i.e., images of objects without defects) vs anomalous images (i.e., images of objects with defects), types of anomalies (e.g., missing piece), and the location of these anomalies. Therefore,"
+    publishedDateTime: 2022-12-12T19:03:41Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/image-augmentation-pipeline-for-amazon-lookout-for-vision/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 54
   - title: "AI21 Jurassic-1 Foundation Model Now Available on Amazon SageMaker"
     excerpt: "The integration will simplify the use of state-of-the-art large language models, allowing enterprises to integrate Jurassic-1 directly to their data TEL AVIV, Israel, /PRNewswire/ -- AI21 Labs, an Isr"
     publishedDateTime: 2022-12-08T15:37:00Z

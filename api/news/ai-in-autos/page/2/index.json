@@ -2,6 +2,61 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-12-02-ai-could-have-20-chance-of-sentience-in-10-years-says-philosopher-david-chalmers.md",
+      "title": "AI could have 20% chance of sentience in 10 years, says philosopher David Chalmers",
+      "excerpt": "AI programs that combine sensing and action and world models might achieve fish-level intelligence, says the NeurIPS 2022 keynote speaker.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-could-have-20-percent-chance-of-sentience-in-10-years-says-philosopher-david-chalmers/",
+      "originalUrl": "https://www.zdnet.com/article/ai-could-have-20-percent-chance-of-sentience-in-10-years-says-philosopher-david-chalmers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/4540138c5a94e1211ab4775544b48650380c3b89/2022/12/01/9bb85d12-1a32-4015-8f8a-d1f852c5e3cc/david-chalmers-2022-5.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-could-have-20-percent-chance-of-sentience-in-10-years-says-philosopher-david-chalmers/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-could-have-20-percent-chance-of-sentience-in-10-years-says-philosopher-david-chalmers/",
+      "publishedDateTime": "2022-12-01T10:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-12-02-how-the-collapse-of-sam-bankman-frieds-crypto-empire-has-disrupted-ai.md",
       "title": "How the Collapse of Sam Bankman-Fried’s Crypto Empire Has Disrupted A.I.",
       "excerpt": "Mr. Bankman-Fried and his colleagues spent more than $530 million to battle what they saw as the dangers of artificial intelligence. Now those efforts are reeling. Send any friend a story As a ...",
@@ -914,6 +969,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-29-baidu-plans-to-expand-driverless-ride-hailing-service-area.md",
+      "title": "Baidu Plans to Expand Driverless Ride-Hailing Service Area",
+      "excerpt": "Chinese internet-services and artificial-intelligence company Baidu Inc. is planning to build what it says will be the biggest driverless car-hailing area in the world as it looks to keep growing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188",
+      "originalUrl": "https://www.marketwatch.com/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-28T23:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-29-baidu-announces-plan-to-build-the-worlds-largest-fully-driverless-ride-hailing-service-area-in-2023.md",
       "title": "Baidu Announces Plan To Build The World's Largest Fully Driverless Ride-Hailing Service Area In 2023",
       "excerpt": "This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday. Want the fastest, most accurate stock market intelligence? Want EXCLUSIVE ...",
@@ -935,58 +1033,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-baidu-plans-to-expand-driverless-ride-hailing-service-area.md",
-      "title": "Baidu Plans to Expand Driverless Ride-Hailing Service Area",
-      "excerpt": "By Fabiana Negrin Ochoa Chinese internet-services and artificial-intelligence company Baidu Inc. is planning to build what it says will be the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188?mod=markets",
-      "originalUrl": "https://www.marketwatch.com/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188?mod=markets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188",
-      "publishedDateTime": "2022-11-28T22:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -1324,59 +1370,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-28-the-future-of-ai-and-medical-imaging-from-nvidia-to-harvard.md",
-      "title": "The future of AI and medical imaging, from Nvidia to Harvard",
-      "excerpt": "New initiatives are scaling AI models related to medical imaging and making diverse medical imaging data available to all.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/the-future-of-ai-and-medical-imaging-from-nvidia-to-harvard/",
-      "originalUrl": "https://venturebeat.com/ai/the-future-of-ai-and-medical-imaging-from-nvidia-to-harvard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/11/bigstock-Bioengineering-And-Medical-Edu-455940277.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/the-future-of-ai-and-medical-imaging-from-nvidia-to-harvard/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-future-of-ai-and-medical-imaging-from-nvidia-to-harvard/amp/",
-      "publishedDateTime": "2022-11-28T06:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     }
   ],

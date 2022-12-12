@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnn.com/style/amp/lensa-ai-app-art-explainer-trnd/index.
 cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/lensa-ai-app-art-explainer-trnd/index.html"
 type: article
 quality: 89
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI art apps are cluttering the App Store’s Top Charts following Lensa AI’s success"
+    excerpt: "Consumer demand for Lensa AI, and for AI edits more broadly, has now pushed numerous other \"AI\" apps into the U.S. App Store's Top Charts."
+    publishedDateTime: 2022-12-12T21:37:00Z
+    webUrl: "https://techcrunch.com/2022/12/12/ai-art-apps-are-cluttering-the-app-stores-top-charts-following-lensa-ais-success/"
+    ampWebUrl: "https://techcrunch.com/2022/12/12/ai-art-apps-are-cluttering-the-app-stores-top-charts-following-lensa-ais-success/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/12/ai-art-apps-are-cluttering-the-app-stores-top-charts-following-lensa-ais-success/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 81
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/12/lensa-ai-magic-avatar.jpg?resize=1200,730"
+        width: 1200
+        height: 730
+        isCached: true
   - title: "Here’s Why People Are Speaking Out Against The Instagram Trend Of AI Art Apps Like Lensa"
     excerpt: "There’s a debate about data, intellectual property, and identity brewing in regard to an app that charges you $8 to turn your selfies into art."
     publishedDateTime: 2022-12-08T17:43:00Z

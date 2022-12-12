@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Sounds can change the way we see things"
-    excerpt: "One way that it does this is by making inferences about what sorts of information should be expected.” In the natural world, sounds are reliable predictors of the objects that cause them – dogs bark and cats meow."
-    publishedDateTime: 2022-12-09T18:25:00Z
-    webUrl: "https://www.earth.com/news/sounds-can-change-the-way-we-see-things/"
+  - title: "Extrasensory Robots: How Do You Feel About Them?"
+    excerpt: "He then told me, “You have no sensation in this area.” My knee-jerk reaction (no pun intended) was to say, “That can’t be right because I can feel it when I touch myself with my finger.” He responded that the only sensation I was really getting was from my finger—my brain was augmenting this with what it expected to feel from my leg."
+    publishedDateTime: 2022-12-12T20:09:00Z
+    webUrl: "https://www.designnews.com/robotics/extrasensory-robots-how-do-you-feel-about-them"
     type: article
     provider:
-      name: earth
-      domain: earth.com
-    quality: 24
+      name: Design News
+      domain: designnews.com
+    quality: 41
     images:
-      - url: "https://cff2.earth.com/uploads/2022/12/09112454/Sounds-scaled.jpg"
-        width: 2560
-        height: 1907
+      - url: "https://www.designnews.com/sites/designnews.com/files/max-0037-featured-image-roboskin.jpg"
+        width: 770
+        height: 400
         isCached: true
 
 secured: "u1Cdq5tnmdx7oAyKf6i7kt4pTpSJK6YrfxpGscKlSAbmXRo4mcRFqSG/fpdCcSYf6oNUOnB6nRsu+12AtGXN1zm89aP2H+qokATfokP9hcufZw8PdWbUvkx3AXyYt0DgZsI7nK+8rUHQvFE11RVKosp9aPR8p9W105Fu2ANRSzyL09EVS8j0rQb8am50cPzSh+RbJUWKFe/6ajR5gIEEDPgHZ+wNKIWhi4Qen15yUUKIl/WOk7J46DrKq0x521aCd7FhbbUEtckrzyyzoXOLIZp286zwNPXVP83eaqvdqNkXQTmjyuOJwnST+JrEA9a52fzJeUvVnNfdVZ3N7Fv00UpEsAXL/rGBoOizFOsGT/8=;RUcD8aeBdR05D7bpnvWuFQ=="

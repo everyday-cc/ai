@@ -26,22 +26,6 @@ images:
     height: 529
     isCached: true
 
-related:
-  - title: "Tough road ahead: Self-driving cars are taking off in the US, but Australians might be waiting a while yet"
-    excerpt: "More self-driving cars are hitting the road in America, letting drivers relax behind the wheel. But when will Australians be driven around by their own cars?"
-    publishedDateTime: 2022-12-11T01:12:00Z
-    webUrl: "https://www.sbs.com.au/news/article/tough-road-ahead-self-driving-cars-are-taking-off-in-the-us-but-australians-might-be-waiting-a-while-yet/a5ebp93on"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 21
-    images:
-      - url: "https://images.sbs.com.au/dims4/default/49cd67f/2147483647/strip/true/crop/4032x2268+0+378/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fad%2F88%2F42549de54729aaa842334c04fa4e%2F20221209001740523176-original.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-
 secured: "LVanTLBkghTbyGlKHv29dJxFweHU1PGsM6K8e5r82aiNFMt/rPQYemxgcf4PyAHkTE5pWw1bKYJBwKpzbZldgKl7pGJVkn2V7SGkHCcJUVB1V97oyaVg6mXBa//v36JXKZelHhVxXsvTD6nQgViVhZ2SEhMEL8D5STZn4AhVgX7I52J4W0lcKhKg/MY2gpgTs37a+vC4VsAptaPzd5DPp1vfDoOCJte3hNn59B7wPBTLXp4ll5EZjdipHCFZySWid9e6Yv9XQA4k9z1ficl2Z32jB/OSJJXuQowNp6qkmN7zLQkGalOik+b7mzS/2h46pnu/m7P1J9HNXXR46aRxiX2ik7yO1M2An4xYFicVfys=;Y2DpgVpjaQJoZdl4VNYlVA=="
 ---
 

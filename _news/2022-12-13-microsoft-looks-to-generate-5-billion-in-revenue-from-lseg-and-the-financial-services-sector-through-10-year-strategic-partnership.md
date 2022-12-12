@@ -56,7 +56,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 22
+    quality: 24
     images:
       - url: "https://blogs.microsoft.com/wp-content/uploads/prod/2022/12/MSC22_Getty_UK_Finance_1312551627_1773x997-1024x576.jpg"
         width: 1024

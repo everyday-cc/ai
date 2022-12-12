@@ -126,20 +126,6 @@ related:
         width: 340
         height: 249
         isCached: true
-  - title: "Artificial Intelligence Platform Market in 2023: with Top Countries Data, Industry Insights by Top Key Players, Types and Applications"
-    excerpt: "Global “Artificial Intelligence Platform Market” 2023 Research report is an in-depth study of the market Analysis."
-    publishedDateTime: 2022-12-08T06:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-in-2023-with-top-countries-data-industry-insights-by-top-key-players-types-and-applications-2022-12-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice Recognition Biometrics Market Dynamics with Top Players, Gross Margin, Regional Demand, Plans and Demand Status Forecast to 2028"
     excerpt: "\" Voice Recognition Biometrics Market \" Insights 2022 - By Applications (IT And Telecom, BFSI, Automotive, Healthcare, Education, Others), By Types (Physiological Biometrics, Behavioral Biometrics), By Segmentation analysis,"
     publishedDateTime: 2022-12-09T01:45:00Z
@@ -175,12 +161,21 @@ related:
   - title: "Facial Recognition Technology Scans Your Ear"
     excerpt: "University of Georgia (UGA) scientists have created an ear recognition system that can authenticate individuals with up to 97.25% accuracy."
     publishedDateTime: 2022-12-12T17:55:00Z
-    webUrl: "https://cacm.acm.org/news/267660-facial-recognition-technology-scans-your-ear/fulltext"
+    webUrl: "https://cacm.acm.org/news/267660-facial-recognition-technology-scans-your-ear"
     type: article
     provider:
       name: acm.org
       domain: acm.org
     quality: 19
+  - title: "Iris Recognition Global Market Report 2022: Increasing Penetration of Iris Recognition Technology into Consumer Electronics Industry Drives Growth"
+    excerpt: "The iris recognition market is projected to grow from USD 3.7 billion in 2022 to USD 8.4 billion by 2027, registering a CAGR of 15.4% during the forecast period. Increased adoptio"
+    publishedDateTime: 2022-12-12T21:03:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/12/12/9728748.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "F3StN8iLzjcyirp3m51PjmH+PKJfvmCeyP0Cc4+FiCl1wXjZR1eXyq3QQlcZ5wQ9dGfC9UwWffdwcYHBofX2piyIhn7/vOs8Oe5Wn7kvOiDmk8F36WjUfCrXo7T67SPwqEn2y0WZZabtNW0Xo0ztNpWm4u2lPSgkrhMUV+hSIir1XOFSZKYyXTGvRnWzpNGmpKkuqzQYjsWdzrRa9xZLFXjkyZv84XGhQpj1Swa9VFvJSapXkPzTJsLW23uxil7eKEYm1G5c8yieuXShxKiuE2g115pTi77mjZrRgwRoPZfT0/U0ViqtTmMHaBmkNsGklfrvpLZMGVi/OO/785GmS94+l/6BEDgD12AQkNpxL84=;B+f7ODrVmZRs25xKqzC8WQ=="
 ---

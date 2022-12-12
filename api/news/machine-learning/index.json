@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-13-bolstering-the-safety-of-self-driving-cars-with-a-deep-learning-based-object-detection-system.md",
+      "title": "Bolstering the safety of self-driving cars with a deep learning-based object detection system",
+      "excerpt": "Self-driving cars, or autonomous vehicles, have long been earmarked as the next generation mode of transport. To enable the autonomous navigation of such vehicles in different environments, many different technologies relating to signal processing,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-12-bolstering-safety-self-driving-cars-deep.html",
+      "originalUrl": "https://techxplore.com/news/2022-12-bolstering-safety-self-driving-cars-deep.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/self-driving-car-1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-12-bolstering-safety-self-driving-cars-deep.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-bolstering-safety-self-driving-cars-deep.amp",
+      "publishedDateTime": "2022-12-12T13:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-12-12-large-language-model-expands-natural-language-understanding-moves-beyond-english.md",
       "title": "Large language model expands natural language understanding, moves beyond English",
       "excerpt": "Cohere released its natural language LLM that understands over 100 languages in a step toward multilingual content moderation.",
@@ -589,6 +633,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-08-nano-magnets-to-restore-damaged-nerve-cells.md",
+      "title": "Nano-magnets to restore damaged nerve cells",
+      "excerpt": "Restoring neural networks and their normal function ... and as a way to build artificial networks for interfaces between engineering and biological components. In addition, the model suggests ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221129111829.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221129111829.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T11:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-08-new-advances-in-neural-interfaces-research-at-johns-hopkins.md",
       "title": "New Advances in Neural Interfaces Research at Johns Hopkins",
       "excerpt": "Johns Hopkins APL and the Johns Hopkins School of Medicine have reported research progress on multiple neural interface technologies for functional restoration, rehabilitation and augmentation for people affected by spinal cord injury,",
@@ -736,6 +823,49 @@
         "Machine Learning",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-deep-learning-market-worldwide-market-is-growing-at-a-cagr-of-391-from-2021-to-2030-douglas-insights.md",
+      "title": "Deep Learning Market - Worldwide Market is Growing at a CAGR of 39.1% from 2021 to 2030 | Douglas Insights",
+      "excerpt": "Market Overview The global deep learning market is projected to expand exponentially in the coming years, with a whopping estimated compound annual growth rate (CAGR) of 39.1% from 2021 to 2030 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/12/g29986689/deep-learning-market-worldwide-market-is-growing-at-a-cagr-of-39-1-from-2021-to-2030-douglas-insig",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/g29986689/deep-learning-market-worldwide-market-is-growing-at-a-cagr-of-39-1-from-2021-to-2030-douglas-insig",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
+          "width": 800,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29986689",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29986689",
+      "publishedDateTime": "2022-12-06T23:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -928,6 +1058,49 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-text-to-image-ai-powerful-easy-to-use-technology-for-making-art-and-fakes.md",
+      "title": "Text-to-image AI: powerful, easy-to-use technology for making art – and fakes",
+      "excerpt": "Seemingly bound by only your imagination, this latest trend in synthetic media has delighted many, inspired others and struck fear in some. Google, research firm OpenAI and AI vendor Stability AI have each developed a text-to-image image generator powerful enough that some observers are questioning whether in the future people will be able to trust the photographic record.",
+      "sourceUrl": null,
+      "webUrl": "https://www.normantranscript.com/region/text-to-image-ai-powerful-easy-to-use-technology-for-making-art-and-fakes/article_da8fd641-82d7-5d21-9042-6c32cac9243f.html",
+      "originalUrl": "https://www.normantranscript.com/region/text-to-image-ai-powerful-easy-to-use-technology-for-making-art-and-fakes/article_da8fd641-82d7-5d21-9042-6c32cac9243f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/normantranscript.com/content/tncms/custom/image/ccdfcfb2-9d11-11e9-a40f-c347810e33cd.jpg?resize=600%2C319",
+          "width": 600,
+          "height": 319,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T12:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Norman Transcript",
+        "domain": "normantranscript.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1259,209 +1432,6 @@
         "Natural Language Processing",
         "AI",
         "AI Ethics",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-artificial-intelligence-chipset-market-2022-industry-size-shares-segment-forecast-up-to-2028.md",
-      "title": "Artificial Intelligence Chipset Market 2022 Industry Size, Shares, Segment & Forecast up to 2028",
-      "excerpt": "The global Artificial Intelligence Chipset market report provides geographic analysis covering regions, such as",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-2022-industry-size-shares-segment-forecast-up-to-2028-2022-12-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-2022-industry-size-shares-segment-forecast-up-to-2028-2022-12-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-02T01:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-artificial-intelligence-machine-learning-will-strengthen-firms-it-security-report.md",
-      "title": "Artificial intelligence, machine learning will strengthen firms’ IT security: Report",
-      "excerpt": "The company has been receiving many enquiries about cyber security, said Shailesh Davey, Co-Founder and Vice President of Engineering at Zoho.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/business/2022/dec/02/artificial-intelligence-machine-learning-will-strengthen-firms-it-security-report-2524302.html",
-      "originalUrl": "https://www.newindianexpress.com/business/2022/dec/02/artificial-intelligence-machine-learning-will-strengthen-firms-it-security-report-2524302.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/9/9/w600X390/The_Risks_an.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/business/2022/dec/02/artificial-intelligence-machine-learning-will-strengthen-firms-it-security-report-2524302.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2022/dec/02/artificial-intelligence-machine-learning-will-strengthen-firms-it-security-report-2524302.amp",
-      "publishedDateTime": "2022-12-01T17:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-we-will-see-a-completely-new-type-of-computer-says-ai-pioneer-geoff-hinton.md",
-      "title": "We will see a completely new type of computer, says AI pioneer Geoff Hinton",
-      "excerpt": "Analog computers marrying AI software closely to hardware will put GPT-3 in your toaster for $1 running on a few watts of power.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/we-will-see-a-completely-new-type-of-computer-says-ai-pioneer-geoff-hinton-mortal-computation/",
-      "originalUrl": "https://www.zdnet.com/article/we-will-see-a-completely-new-type-of-computer-says-ai-pioneer-geoff-hinton-mortal-computation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/0a19bb566649fd8d18c2b36ca0198795889b9026/2022/12/01/ddffbe4b-cb5f-4c65-a47a-498fb4190ac2/geoff-hinton-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/we-will-see-a-completely-new-type-of-computer-says-ai-pioneer-geoff-hinton-mortal-computation/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/we-will-see-a-completely-new-type-of-computer-says-ai-pioneer-geoff-hinton-mortal-computation/",
-      "publishedDateTime": "2022-12-01T16:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-improve-governance-of-your-machine-learning-models-with-amazon-sagemaker.md",
-      "title": "Improve governance of your machine learning models with Amazon SageMaker",
-      "excerpt": "As companies are increasingly adopting machine learning (ML) for their mainstream enterprise applications, more of their business decisions are influenced by ML models. As a result of this, having simplified access control and enhanced transparency across all your ML models makes it easier to validate",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-governance-of-your-machine-learning-models-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-governance-of-your-machine-learning-models-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/30/improve-governance-ml-models-sagemaker.jpg",
-          "width": 1565,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T10:53:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
         "Machine Learning"
       ]
     }

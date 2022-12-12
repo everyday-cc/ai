@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "OpenAI CEO admits ChatGPT risks. What now? | The AI Beat"
+    excerpt: "It's a mistake to be relying on [ChatGPT] for anything important right now,' tweeted the OpenAI CEO. So what now for AI-produced prose?"
+    publishedDateTime: 2022-12-12T20:42:00Z
+    webUrl: "https://venturebeat.com/ai/openai-ceo-admits-chatgpt-risks-what-now-the-ai-beat/"
+    ampWebUrl: "https://venturebeat.com/ai/openai-ceo-admits-chatgpt-risks-what-now-the-ai-beat/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/openai-ceo-admits-chatgpt-risks-what-now-the-ai-beat/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/02/GettyImages-545523518.jpg?w=1200&strip=all"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "AI ChatGPT Is A Huge Fan Of Elon Musk, Not-So-Much Google, Amazon And Apple"
     excerpt: "Silicon Valley has been obsessed with ChatGPT since it launched on Nov. 30. The impressive chatbot, created by Elon Musk founded startup OpenAI, has racked up more than a million users in its first five days and is likely to report astounding session times as people find themselves drawn more and more to this charming AI."
     publishedDateTime: 2022-12-09T21:01:00Z
@@ -155,17 +171,6 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
-  - title: "Could a ’scary good’ AI chatbot backed by Elon Musk steal your job?"
-    excerpt: "University as we know it will cease to exist. It genuinely feels like having a personal assistant. One of the most disruptive technologies ever created. Google is dead."
-    publishedDateTime: 2022-12-08T04:11:00Z
-    webUrl: "https://www.news.com.au/technology/innovation/could-a-scary-good-ai-chatbot-backed-by-elon-musk-steal-your-job/news-story/269954d2b424e56168f30782d5d223fa"
-    ampWebUrl: "https://www.news.com.au/technology/innovation/could-a-scary-good-ai-chatbot-backed-by-elon-musk-steal-your-job/news-story/269954d2b424e56168f30782d5d223fa?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/innovation/could-a-scary-good-ai-chatbot-backed-by-elon-musk-steal-your-job/news-story/269954d2b424e56168f30782d5d223fa?amp"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 39
   - title: "Is ChatGPT the Start of the AI Revolution?"
     excerpt: "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skillset. On"
     publishedDateTime: 2022-12-09T12:40:00Z

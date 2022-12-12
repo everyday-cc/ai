@@ -117,20 +117,6 @@ related:
         width: 340
         height: 249
         isCached: true
-  - title: "Artificial Intelligence Platform Market in 2023: with Top Countries Data, Industry Insights by Top Key Players, Types and Applications"
-    excerpt: "Global “Artificial Intelligence Platform Market” 2023 Research report is an in-depth study of the market Analysis."
-    publishedDateTime: 2022-12-08T06:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-in-2023-with-top-countries-data-industry-insights-by-top-key-players-types-and-applications-2022-12-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Food and Beverage Market : Share, Industry Size, Opportunities, Analysis and Forecast to 2028 with Top Countries Data"
     excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence in Food and Beverage Market will have significant change from previous year. By the m"
     publishedDateTime: 2022-12-09T12:55:00Z
@@ -171,12 +157,21 @@ related:
   - title: "Facial Recognition Technology Scans Your Ear"
     excerpt: "University of Georgia (UGA) scientists have created an ear recognition system that can authenticate individuals with up to 97.25% accuracy."
     publishedDateTime: 2022-12-12T17:55:00Z
-    webUrl: "https://cacm.acm.org/news/267660-facial-recognition-technology-scans-your-ear/fulltext"
+    webUrl: "https://cacm.acm.org/news/267660-facial-recognition-technology-scans-your-ear"
     type: article
     provider:
       name: acm.org
       domain: acm.org
     quality: 19
+  - title: "Iris Recognition Global Market Report 2022: Increasing Penetration of Iris Recognition Technology into Consumer Electronics Industry Drives Growth"
+    excerpt: "The iris recognition market is projected to grow from USD 3.7 billion in 2022 to USD 8.4 billion by 2027, registering a CAGR of 15.4% during the forecast period. Increased adoptio"
+    publishedDateTime: 2022-12-12T21:03:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/12/12/9728748.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "LTgyP1Ph11fOBSEmfJdONTztldVCa1nbijpW9CayQzGDkBZ16Ky1+ia6rvrwcGV9zjtIxCqpP4CQYTCWzp0CHpUDDLutPp/XdqHzgmJpvY2lZAmpIU01PvE0VAsrmaJ+L08hxf1XPCYcD3SBzz6pTn5WgfR01HUoda8euBuy/HGh45Q29kohirXMIZbucsqj3Qo4dW3Oy2zOh+vb1uZc+pTSag463dr1hSGWoQO1yNjdQZqqpxR5kOtTTgguLDcDnTaGP0kynY8z4dIm0P2+iVWLXAAgh3bHCFo3Mwgn0zC95aWYs8I64w9c7cksxE6BGOsz0nzAGfTe/gaI8WADWYWNJ3eG6lim8+5Knj7j1jyJEZEteoTtRipNd1eu4hYWvSBMJLBWuhCQiIu/BInD8aU8uvnMB/4LkkRceYbOZ4b4H3qHuH8QkE58YXnC7087RE1TfxM9MlnA7koWrwr7fViOKKOi/Veni7mdZAgCe8XlUBupnJ3kFnWIHzdd1+t25B6QLgvJiI4WpeVoxH4rWg==;VoQdKwK9zz6n48ydzpx30w=="
 ---

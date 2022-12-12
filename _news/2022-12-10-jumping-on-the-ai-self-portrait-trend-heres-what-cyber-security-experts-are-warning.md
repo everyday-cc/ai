@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo156881477556"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo156881477556"
 type: article
 quality: 96
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Lensa AI Selfies: What to Know About the Photo-Editing App Your Friends Are Using"
+    excerpt: "You've likely seen the new filter your friends have been using on social media that transforms their photos into artwork. It's called Lensa AI, and the viral photo-editing app takes your uploaded photos and creates \"magic avatars\" using your face."
+    publishedDateTime: 2022-12-12T19:30:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/lensa-ai-selfies-what-to-know-about-the-photo-editing-app-your-friends-are-using/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 42
 
 secured: "6lI6mVg/waE0ohqG/Q7zzTs20/uUtgK3Sfj/PJsL4/DXzSpPehAwn6MVX47QDYz+WLIQSN59h3GtcqGb9Y98WlwDwqifMAbcS7FAlUTbaGV93WM7uVfWhtdj9LR4dByxWVfRYHeYaZ2FBruPowkGNS/Ea0zA+DVS0IAD5ViJXPfw40dnZyMOuF7ePI8Plao3XHI+Ya9Dr5GnPK7n7y703QxytbV9lhKORRiH+6mqr04kNFx4Mj0x8aoXZUNXohyBV+tKaSP4wEimi55pcKxmWd/dinEegh/GoE3B11pO+4/DSCdfLMTG8Deb3UX6QkIa+DM0Z7uMBrYmYnjjjWtd7n8++ClAOJCaGHR0yoyPVV9W1bV3kN/eNu8yaF3uSGVcPUIHVyAE3oENTBP2WxvPc5F8a0f0eQITm2TZI5sNoX/B8ixLhtKxqQRvd0UjR1Rem6OQR4Rh7DH60QAJxRIrUiH5JEG/tTEWZLIQiVSQ6yHTxAU/koYLSCHBtQpE1Xq0ybK/jaRj07pXIBEH0LMMVg==;/Bj2Mg+qArV0aMOH86/xWQ=="
 ---

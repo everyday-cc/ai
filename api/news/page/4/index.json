@@ -2,6 +2,257 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-12-08-this-robotics-technology-market-research-report-factors-limiting-the-market-growth.md",
+      "title": "THIS Robotics Technology MARKET RESEARCH REPORT: Factors limiting the market growth.",
+      "excerpt": "Robotics technology is a branch of engineering that deals with the design, construction, operation, and control",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/this-robotics-technology-market-research-report-factors-limiting-the-market-growth-2022-12-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/this-robotics-technology-market-research-report-factors-limiting-the-market-growth-2022-12-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-howie-mandel-gets-a-digital-twin-from-deepbrain-ai.md",
+      "title": "Howie Mandel gets a digital twin from DeepBrain AI",
+      "excerpt": "Howie Mandel is stepping into the metaverse. DeepBrain AI has created a pretty realistic AI version of comedian and actor Mandel.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/howie-mandel-gets-a-digital-twin-from-deepbrain-ai/",
+      "originalUrl": "https://venturebeat.com/games/howie-mandel-gets-a-digital-twin-from-deepbrain-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/12/howie-AI-Studios-with-AI-Howie.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 592,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/howie-mandel-gets-a-digital-twin-from-deepbrain-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/howie-mandel-gets-a-digital-twin-from-deepbrain-ai/amp/",
+      "publishedDateTime": "2022-12-07T08:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-bidscale-connect-linking-government-and-industry-through-an-ai-powered-platform.md",
+      "title": "Bidscale Connect: Linking Government and Industry Through an AI-Powered Platform",
+      "excerpt": "Bidscale Connect is now live in Beta with an AI-powered market intelligence platform to power Federal contracting. Bidscale Connect is tailor-made to accelerate the contracting process for Government buyers and Industry vendors.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/bidscale-connect-linking-government-and-industry-through-an-ai-powered-platform-1031958377",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/bidscale-connect-linking-government-and-industry-through-an-ai-powered-platform-1031958377",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1878605/Bidscale_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T08:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-hearing-aids-may-help-prevent-cognitive-decline-study-says.md",
+      "title": "Hearing aids may help prevent cognitive decline, study says",
+      "excerpt": "(CNN) - A new study indicates that hearing aids may help delay or reduce dementia and cognitive decline. The findings were published Monday in JAMA Neurology. Research has shown that hearing loss ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wcax.com/2022/12/06/hearing-aids-may-help-prevent-cognitive-decline-study-says/",
+      "originalUrl": "https://www.wcax.com/2022/12/06/hearing-aids-may-help-prevent-cognitive-decline-study-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/SmEwfcRj9VGp1UYvYzrlv6CeDUs=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/CDB3NJQQPZBX3PQP2KHRXTQMMI.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wcax.com/2022/12/06/hearing-aids-may-help-prevent-cognitive-decline-study-says/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wcax-com.cdn.ampproject.org/c/s/www.wcax.com/2022/12/06/hearing-aids-may-help-prevent-cognitive-decline-study-says/?outputType=amp",
+      "publishedDateTime": "2022-12-07T06:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WCAX3",
+        "domain": "wcax.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-nvidia-ai-enterprise-30-adds-new-application-workflows-partners-with-deutsche-bank.md",
+      "title": "Nvidia AI Enterprise 3.0 adds new application workflows, partners with Deutsche Bank",
+      "excerpt": "Nvidia AI Enterprise 3.0 released today, with new software capabilities to help effectively build and deploy AI-driven applications.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nvidia-ai-enterprise-3-0-released-today-adds-new-application-workflows-and-partnership-with-deutsche-bank/",
+      "originalUrl": "https://venturebeat.com/ai/nvidia-ai-enterprise-3-0-released-today-adds-new-application-workflows-and-partnership-with-deutsche-bank/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/nvidia-e1670388516651.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/nvidia-ai-enterprise-3-0-released-today-adds-new-application-workflows-and-partnership-with-deutsche-bank/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-ai-enterprise-3-0-released-today-adds-new-application-workflows-and-partnership-with-deutsche-bank/amp/",
+      "publishedDateTime": "2022-12-07T06:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-12-07-googles-10-week-accelerator-is-on-the-hunt-for-green-start-ups.md",
       "title": "Google's 10-week accelerator is on the hunt for green start-ups",
       "excerpt": "Google's two new startup accelerator programs support companies whose goal is to create technology that combats climate change.",
@@ -91,6 +342,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-african-credit-led-fintech-finclusion-raises-additional-capital-amidst-rebrand.md",
+      "title": "African credit-led fintech Finclusion raises additional capital amidst rebrand",
+      "excerpt": "The news follows a January announcement that the fintech, which uses AI algorithms to provide financial services to African customers via an array of credit-centric products, raised $20 million in ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/12/07/african-credit-led-fintech-finclusion-raises-additional-capital-amidst-rebrand/",
+      "originalUrl": "https://techcrunch.com/2022/12/07/african-credit-led-fintech-finclusion-raises-additional-capital-amidst-rebrand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -581,6 +875,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-07-deep-learning-market-worldwide-market-is-growing-at-a-cagr-of-391-from-2021-to-2030-douglas-insights.md",
+      "title": "Deep Learning Market - Worldwide Market is Growing at a CAGR of 39.1% from 2021 to 2030 | Douglas Insights",
+      "excerpt": "Market Overview The global deep learning market is projected to expand exponentially in the coming years, with a whopping estimated compound annual growth rate (CAGR) of 39.1% from 2021 to 2030 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/12/g29986689/deep-learning-market-worldwide-market-is-growing-at-a-cagr-of-39-1-from-2021-to-2030-douglas-insig",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/g29986689/deep-learning-market-worldwide-market-is-growing-at-a-cagr-of-39-1-from-2021-to-2030-douglas-insig",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
+          "width": 800,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29986689",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29986689",
+      "publishedDateTime": "2022-12-06T23:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-07-study-links-ultra-processed-foods-to-dementia-and-cognitive-decline.md",
       "title": "Study links ultra-processed foods to dementia and cognitive decline",
       "excerpt": "Ultra-processed foods might go easy on a person's taste buds and wallet, but a new study now suggests they are linked to dementia and cognitive decline. The study, titled \"Association Between ...",
@@ -853,350 +1190,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-updated-its-way-too-easy-to-trick-lensa-ai-into-making-nsfw-images.md",
-      "title": "UPDATED: It’s way too easy to trick Lensa AI into making NSFW images",
-      "excerpt": "Lensa has been climbing the app store hit lists with its avatar-generating AI that is making artists wave the red flag. Now there’s another reason to fly the flag: As it turns out, it’s possible — and way too easy — to use the platform to generate non-consensual soft porn.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/06/lensa-goes-nsfw/",
-      "originalUrl": "https://techcrunch.com/2022/12/06/lensa-goes-nsfw/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/Lensa-AI-shoulder-Large.jpeg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/06/lensa-goes-nsfw/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/06/lensa-goes-nsfw/amp/",
-      "publishedDateTime": "2022-12-06T17:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-daily-crunch-lensa-ai-can-transform-photoshopped-fakes-into-nonconsensual-pornography.md",
-      "title": "Daily Crunch: Lensa AI can transform Photoshopped fakes into nonconsensual pornography",
-      "excerpt": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/06/daily-crunch-lensa-ai-can-transform-photoshopped-fakes-into-nonconsensual-pornography/",
-      "originalUrl": "https://techcrunch.com/2022/12/06/daily-crunch-lensa-ai-can-transform-photoshopped-fakes-into-nonconsensual-pornography/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/lensa-ai-magic-avatar.jpg?resize=1200,730",
-          "width": 1200,
-          "height": 730,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/06/daily-crunch-lensa-ai-can-transform-photoshopped-fakes-into-nonconsensual-pornography/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/06/daily-crunch-lensa-ai-can-transform-photoshopped-fakes-into-nonconsensual-pornography/amp/",
-      "publishedDateTime": "2022-12-06T15:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-aisera-founder-offers-perspective-on-latest-moves-from-aws-in-aiml.md",
-      "title": "Aisera founder offers perspective on latest moves from AWS in AI/ML",
-      "excerpt": "The founder and chief executive of Aisera Inc. identified four key areas of focus by Amazon Web Service Inc. during the recently concluded re:Invent gathering in Las Vegas. “First, the most important things Amazon has announced are in artificial intelligence and machine learning,",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/12/06/aisera-founder-offers-perspective-on-latest-moves-from-aws-in-ai-ml-reinvent/",
-      "originalUrl": "https://siliconangle.com/2022/12/06/aisera-founder-offers-perspective-on-latest-moves-from-aws-in-ai-ml-reinvent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/Muddu-Sudhakar-Aisera.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-06T15:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-ai-haikus-are-getting-better-at-least-in-japanese.md",
-      "title": "AI Haikus Are Getting Better - At Least In Japanese",
-      "excerpt": "Researchers at Kyoto University discovered that people find it difficult to distinguish AI-generated haikus from those written by human poets, and that human/AI collaborations led to the most interesting haikus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/evaamsen/2022/12/06/ai-haikus-are-getting-betterat-least-in-japanese/",
-      "originalUrl": "https://www.forbes.com/sites/evaamsen/2022/12/06/ai-haikus-are-getting-betterat-least-in-japanese/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/638fcf00bf23bdd1660d99a0/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/evaamsen/2022/12/06/ai-haikus-are-getting-betterat-least-in-japanese/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evaamsen/2022/12/06/ai-haikus-are-getting-betterat-least-in-japanese/amp/",
-      "publishedDateTime": "2022-12-06T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-sellscale-uses-generative-ai-to-create-better-marketing-emails.md",
-      "title": "Sellscale uses generative AI to create better marketing emails",
-      "excerpt": "SellScale announced today it has raised $3 million in funding led by Pear.VC’s Pejman Nozad, with participation from Ovo Fund’s Eric Chen and Browder Capital’s Joshua Browder. The startup claims its revenue has doubled month over month for the last three months.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/06/sellscale-funding/",
-      "originalUrl": "https://techcrunch.com/2022/12/06/sellscale-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1358638101.jpg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/06/sellscale-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/06/sellscale-funding/amp/",
-      "publishedDateTime": "2022-12-06T14:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-how-startups-can-help-build-a-sustainable-future.md",
-      "title": "How startups can help build a sustainable future",
-      "excerpt": "Google's Startups for Sustainable Development program supports impact-driven startups who are building a more sustainable future.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/outreach-initiatives/sustainability/startups-for-sustainable-development/",
-      "originalUrl": "https://blog.google/outreach-initiatives/sustainability/startups-for-sustainable-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sfsd-crop-hero.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-06T13:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-chess-study-shows-masks-can-put-cognitive-performance-in-check.md",
-      "title": "Chess study shows masks can put cognitive performance in check",
-      "excerpt": "Dr. Smerdon, an Australian chess Grandmaster, said while mask mandates had helped to curb the spread of COVID-19, almost nothing was known about their impact on cognitive performance. \"At the ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-12-chess-masks-cognitive.html",
-      "originalUrl": "https://phys.org/news/2022-12-chess-masks-cognitive.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2017/chess.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-12-chess-masks-cognitive.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-12-chess-masks-cognitive.amp",
-      "publishedDateTime": "2022-12-06T13:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

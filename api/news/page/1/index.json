@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-13-bolstering-the-safety-of-self-driving-cars-with-a-deep-learning-based-object-detection-system.md",
+      "title": "Bolstering the safety of self-driving cars with a deep learning-based object detection system",
+      "excerpt": "Self-driving cars, or autonomous vehicles, have long been earmarked as the next generation mode of transport. To enable the autonomous navigation of such vehicles in different environments, many different technologies relating to signal processing,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-12-bolstering-safety-self-driving-cars-deep.html",
+      "originalUrl": "https://techxplore.com/news/2022-12-bolstering-safety-self-driving-cars-deep.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/self-driving-car-1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-12-bolstering-safety-self-driving-cars-deep.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-bolstering-safety-self-driving-cars-deep.amp",
+      "publishedDateTime": "2022-12-12T13:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-12-12-amazon-sagemaker-jumpstart-now-offers-amazon-comprehend-notebooks-for-custom-classification-and-custom-entity-detection.md",
       "title": "Amazon SageMaker JumpStart now offers Amazon Comprehend notebooks for custom classification and custom entity detection",
       "excerpt": "Amazon Comprehend is a natural language processing (NLP) service that uses machine learning (ML) to discover insights from text. Amazon Comprehend provides customized features, custom entity recognition, custom classification, and pre-trained APIs such as key phrase extraction, sentiment analysis, entity",
@@ -10,7 +54,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-now-offers-amazon-comprehend-notebooks-for-custom-classification-and-custom-entity-detection/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -52,6 +96,57 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-scott-belsky-adobe-vp-talks-ai-creativity-and-superpowers.md",
+      "title": "Scott Belsky: Adobe VP Talks AI, Creativity And Superpowers",
+      "excerpt": "Creativity is at the heart of the products that Adobe makes, from Photoshop to Lightroom, Fresco to Illustrator. Scott Belsky is the company’s Chief Product Officer and Executive Vice President for Creative Cloud and I talked to him and Gavin Miller,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidphelan/2022/12/12/scott-belsky-adobe-vp-talks-ai-creativity-and-superpowers/",
+      "originalUrl": "https://www.forbes.com/sites/davidphelan/2022/12/12/scott-belsky-adobe-vp-talks-ai-creativity-and-superpowers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/639759ff390c0523343405cb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidphelan/2022/12/12/scott-belsky-adobe-vp-talks-ai-creativity-and-superpowers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidphelan/2022/12/12/scott-belsky-adobe-vp-talks-ai-creativity-and-superpowers/amp/",
+      "publishedDateTime": "2022-12-12T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -265,7 +360,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-solution-market-size-share-financial-analysis-from-2022-2027-2022-12-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -490,7 +585,7 @@
       "originalUrl": "https://www.cnn.com/style/article/lensa-ai-app-art-explainer-trnd/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -985,7 +1080,7 @@
       "originalUrl": "https://www.nbcnews.com/nightly-news/video/jumping-on-the-ai-self-portrait-trend-here-s-what-cyber-security-experts-are-warning-156881477556",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -1028,7 +1123,7 @@
       "originalUrl": "https://venturebeat.com/ai/venturebeat-lab-to-launch-in-depth-ai-article-series-with-insights-from-microsoft-and-nvidia/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -1080,7 +1175,7 @@
       "originalUrl": "https://www.entrepreneur.com/science-technology/the-3-biggest-artificial-intelligence-ai-trends-in-2023/439434",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -1122,100 +1217,6 @@
         "AI",
         "AI in Robotics",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-10-how-businesses-are-deploying-facial-recognition.md",
-      "title": "How businesses are deploying facial recognition",
-      "excerpt": "As facial recognition software becomes easier to acquire, businesses are using it to surveil and analyze customers. Bloomberg's Parmy Olson explains where and how the technology is being deployed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wuwm.com/economy-business/economy-business/2022-12-09/how-businesses-are-deploying-facial-recognition",
-      "originalUrl": "https://www.wuwm.com/economy-business/economy-business/2022-12-09/how-businesses-are-deploying-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2020/03/04/manoush-zomorodi_bio_photo-1_vert-bf366cf2e0a689ea87422c5de657f381d9d43437.jpg",
-          "width": 2096,
-          "height": 2794,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wuwm.com/economy-business/economy-business/2022-12-09/how-businesses-are-deploying-facial-recognition?_amp=true",
-      "cdnAmpWebUrl": "https://www-wuwm-com.cdn.ampproject.org/c/s/www.wuwm.com/economy-business/economy-business/2022-12-09/how-businesses-are-deploying-facial-recognition?_amp=true",
-      "publishedDateTime": "2022-12-09T10:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WUWM",
-        "domain": "wuwm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-10-toastmasters-adopts-ai-powered-speech-analytics-technology-from-seattle-startup-yoodli.md",
-      "title": "Toastmasters adopts AI-powered speech analytics technology from Seattle startup Yoodli",
-      "excerpt": "Can artificial intelligence strengthen human connections by improving public speaking? That’s the ambition of a new partnership between Toastmasters International and Yoodli. Toastmasters this week rolled out the Seattle",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2022/toastmasters-adopts-ai-powered-speech-analytics-technology-from-seattle-startup-yoodli/",
-      "originalUrl": "https://www.geekwire.com/2022/toastmasters-adopts-ai-powered-speech-analytics-technology-from-seattle-startup-yoodli/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2022/12/toastmasters-adopts-ai-powered-p.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-09T10:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

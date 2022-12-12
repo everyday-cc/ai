@@ -759,6 +759,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-30-artificial-intelligence-for-healthcare-applications-market-report-covers-research-with-future-trends-2022-2027-intel-google-general-vision.md",
+      "title": "Artificial Intelligence for Healthcare Applications Market Report Covers Research with Future Trends 2022-2027 | Intel, Google, General Vision",
+      "excerpt": "A common use of artificial intelligence in healthcare involves NLP applications that can understand and classify clinical documentation. NLP systems can analyze unstructured clinical notes on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-for-healthcare-applications-market-report-covers-research-with-future-trends-2022-2027-intel-google-general-vision",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-for-healthcare-applications-market-report-covers-research-with-future-trends-2022-2027-intel-google-general-vision",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://xherald.com/wp-content/uploads/2022/11/Artificial-Intelligence-Heal-2.jpg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T03:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-us-backed-researchers-use-ai-to-probe-for-weaknesses-in-drug-supply-chains.md",
       "title": "U.S.-Backed Researchers Use AI to Probe for Weaknesses in Drug Supply Chains",
       "excerpt": "The U.S. Department of Homeland Security has approved research that will use artificial intelligence to delve into drug supply chains and probe for weaknesses, including foreign influence.",
@@ -1415,59 +1458,6 @@
       "topics": [
         "Computer Vision",
         "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-28-the-future-of-ai-and-medical-imaging-from-nvidia-to-harvard.md",
-      "title": "The future of AI and medical imaging, from Nvidia to Harvard",
-      "excerpt": "New initiatives are scaling AI models related to medical imaging and making diverse medical imaging data available to all.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/the-future-of-ai-and-medical-imaging-from-nvidia-to-harvard/",
-      "originalUrl": "https://venturebeat.com/ai/the-future-of-ai-and-medical-imaging-from-nvidia-to-harvard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/11/bigstock-Bioengineering-And-Medical-Edu-455940277.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/the-future-of-ai-and-medical-imaging-from-nvidia-to-harvard/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-future-of-ai-and-medical-imaging-from-nvidia-to-harvard/amp/",
-      "publishedDateTime": "2022-11-28T06:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
         "AI in Healthcare"
       ]
     }

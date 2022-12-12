@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/2022/toastmasters-adopts-ai-powered-speec
 webUrl: "https://www.geekwire.com/2022/toastmasters-adopts-ai-powered-speech-analytics-technology-from-seattle-startup-yoodli/"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 14
+  - title: "Opaque Systems unveils a unique multi-party confidential AI and analytics platform"
+    excerpt: "“The Opaque Confidential AI and Analytics Platform solves this challenge by enabling ... Confidential Computing is supported by all major cloud vendors including Microsoft Azure, Google Cloud and Amazon Web Services and major chip manufacturers including ..."
+    publishedDateTime: 2022-12-12T19:07:00Z
+    webUrl: "https://www.securityinfowatch.com/cybersecurity/information-security/press-release/21289765/opaque-systems-opaque-systems-unveils-a-unique-multiparty-confidential-ai-and-analytics-platform"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 13
   - title: "Opaque Systems, Pioneer in Confidential Computing, Unveils the First Multi-Party Confidential AI and Analytics Platform"
     excerpt: "Opaque Systems, the pioneers of secure multi-party analytics and AI for Confidential Computing, today announced the latest ad vancements in Confidential AI and Analytics with the unveiling of its platform."
     publishedDateTime: 2022-12-08T17:02:00Z

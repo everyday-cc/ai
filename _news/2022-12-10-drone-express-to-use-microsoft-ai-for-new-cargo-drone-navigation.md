@@ -41,22 +41,6 @@ related:
         width: 1199
         height: 682
         isCached: true
-  - title: "Tata Tele Business Services to offer Microsoft Azure to SMBs in India"
-    excerpt: "This will enable SMBs to modernize their operations with smooth movement of business workloads to the cloud on a pay-as-you-go model and deliver better experience to their customers even as they scale faster,"
-    publishedDateTime: 2022-12-08T03:49:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/tata-tele-business-services-to-offer-microsoft-azure-to-smbs-in-india/96065486"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/tata-tele-business-services-to-offer-microsoft-azure-to-smbs-in-india/96065486"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/tata-tele-business-services-to-offer-microsoft-azure-to-smbs-in-india/96065486"
-    type: article
-    provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-96065486,imgsize-195728,width-1200,height=765,overlay-etbrandequity/digital/tata-tele-business-services-to-offer-microsoft-azure-to-smbs-in-india.jpg"
-        width: 1200
-        height: 765
-        isCached: true
 
 secured: "joaB6VvPEBqUZdjKG2dw1q3jks1Ksh7o8TpLqSGValw4y4+O+cjbIKle3Z8pbtShoDMuJDKpa+OKI54c1c9RW5Th9BHj1K4B6/1XdvR1F4RSsK/YRVF+/USW+94E0dyX+tZ41IgTzYydf5M6ZJbJQcbWwqoNNOgVNE0DKx21Sa5mn5f+EmGOK+3VtBYhJ1ecz7R8QRMDknrxBxT+tntFVOQ1igucjZzqj3ZFa9NPZuT5PI2SMcsBRON2aSkUgy5ce52Xa4YAiXdT7t4kEUI7n7hChsGsS2llxQfUszYQ8D/ukub8PSSqnJ63vs2GKqdVnEh7l7BQT6d+wlmoq0ly6XfJKe86xqDlgiyeWZPOWyY=;EaDO+njwTix9Y/2r+yIlow=="
 ---

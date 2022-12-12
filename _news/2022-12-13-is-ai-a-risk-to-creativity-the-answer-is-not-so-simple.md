@@ -6,8 +6,8 @@ publishedDateTime: 2022-12-12T16:00:00Z
 originalUrl: "https://www.entrepreneur.com/science-technology/is-ai-a-risk-to-creativity-the-answer-is-not-so-simple/439525"
 webUrl: "https://www.entrepreneur.com/science-technology/is-ai-a-risk-to-creativity-the-answer-is-not-so-simple/439525"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://assets.entrepreneur.com/content/3x2/2000/1670516007-GettyImages-1359993111.jpg"
@@ -27,6 +28,6 @@ images:
     height: 1333
     isCached: true
 
-secured: "ZmeuG/qYZcxn5mKNLVNdyXY9ARuXAaBigQX2iQDkMzHeXtTNfWXSH+6vppENw5uOT4Y8YQr1q2Y8s8jBvBjQk5UuQ+fZ4B0gEyW9u71HHZD75wBLCnSJeABpPixOA3V7z5OqkDCgHqUgjzimUVVFqqWYBxipNlMqtE7WKozPPFuQv94OZ1/dcJCqxKPTFoBah0uzT8N5qwgC4Me0phAcYMCZZ05Fj3JqvKShCHjpzst+JV4mMbB1EKayK7OMFHcyKXBrykZ8661gS9NDMYSk9xrJzQZgizKagGQNKcKMXl5xnTEjtCroFDXDwXE21/7A6t23bvSoyM8J9NZHulteOZumO918U9tcI9okR/W6c0U=;+Nv5i7ZPDP0gMtTFyTvA7Q=="
+secured: "jyXXjmGcnXs0R/ZHfwSt3jaygCgljdAVB0EmOjRrNLEoPXg8AJvOXEfXkOpxkFoS7ninIBGOPdjLfCXt9O60cj/Vw1YgpcNVFXg2gWMa3ak/W8TSOQE4wtbZ+cItyjH3/TWTTaz57nUU7urMcoF7id2Aw1uoYt2kuxu6k2AmNfmZJSgWtgapUyYO3aAqYZXhEUa7KZAQlhyJ1OxPwL120Ee4rjgcutz04Zrae67NRwfyY2GWILbR2oL3x5cMMD8LBTeDUDkRgm/B4C+5xKSKbLsEk1HUPqYgVa5+/Xbj3G/2R9w/Uwkbfh1UN6mpcxni7I0Cu6k8x2c0j9bnfwF87xHmF2KOCqtVZaaHXNi0VFBAVSuFNLTX4dXBGbTwPUYrJ2tw9Mc4qpUYIJUs9hKeNdDX/su5mvSYasggCRLT1dhzygdLpXki4p3LNiPUbLWHoSAzwGphNQO6b9ZEQ5GbbzyEIPUWFN7AL9tKX6H9W85NSWa+m+5UeVSCUwaH2mU8sRFlWumgHFBPbPxkzzYSEw==;CJQ+19yN1hKgkvhEMNPfpA=="
 ---
 

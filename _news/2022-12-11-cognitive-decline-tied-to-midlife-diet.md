@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-11T03:52:00Z
 originalUrl: "https://www.medpagetoday.com/neurology/dementia/102063"
 webUrl: "https://www.medpagetoday.com/neurology/dementia/102063"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: MedPage Today

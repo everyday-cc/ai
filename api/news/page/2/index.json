@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-12-10-how-businesses-are-deploying-facial-recognition.md",
+      "title": "How businesses are deploying facial recognition",
+      "excerpt": "As facial recognition software becomes easier to acquire, businesses are using it to surveil and analyze customers. Bloomberg's Parmy Olson explains where and how the technology is being deployed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wuwm.com/economy-business/economy-business/2022-12-09/how-businesses-are-deploying-facial-recognition",
+      "originalUrl": "https://www.wuwm.com/economy-business/economy-business/2022-12-09/how-businesses-are-deploying-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2020/03/04/manoush-zomorodi_bio_photo-1_vert-bf366cf2e0a689ea87422c5de657f381d9d43437.jpg",
+          "width": 2096,
+          "height": 2794,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wuwm.com/economy-business/economy-business/2022-12-09/how-businesses-are-deploying-facial-recognition?_amp=true",
+      "cdnAmpWebUrl": "https://www-wuwm-com.cdn.ampproject.org/c/s/www.wuwm.com/economy-business/economy-business/2022-12-09/how-businesses-are-deploying-facial-recognition?_amp=true",
+      "publishedDateTime": "2022-12-09T10:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WUWM",
+        "domain": "wuwm.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-10-toastmasters-adopts-ai-powered-speech-analytics-technology-from-seattle-startup-yoodli.md",
+      "title": "Toastmasters adopts AI-powered speech analytics technology from Seattle startup Yoodli",
+      "excerpt": "Can artificial intelligence strengthen human connections by improving public speaking? That’s the ambition of a new partnership between Toastmasters International and Yoodli. Toastmasters this week rolled out the Seattle",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2022/toastmasters-adopts-ai-powered-speech-analytics-technology-from-seattle-startup-yoodli/",
+      "originalUrl": "https://www.geekwire.com/2022/toastmasters-adopts-ai-powered-speech-analytics-technology-from-seattle-startup-yoodli/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2022/12/toastmasters-adopts-ai-powered-p.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T10:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-10-a-new-soft-robot-is-able-to-spot-injuries-and-self-heal.md",
       "title": "A New Soft Robot Is Able to Spot Injuries and Self-Heal",
       "excerpt": "A new study by Cornell University researchers published in Science Advances introduces an autonomous, self-healing soft robot that is not only able to identify injuries but also heal itself. The scientists plan to integrate these soft robots with artificial intelligence (AI) machine learning in the future.",
@@ -97,7 +191,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/09/is-ai-generated-art-true-art-implications-and-considerations-for-businesses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -555,7 +649,7 @@
       "originalUrl": "https://www.latimes.com/business/story/2022-12-08/tesla-lawsuit-full-self-driving-technology-failure-not-fraud",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -674,6 +768,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-pixyle-ai-wants-to-make-visual-search-more-intuitive-for-online-retailers.md",
+      "title": "Pixyle AI wants to make visual search more intuitive for online retailers",
+      "excerpt": "When Svetlana Kordumova was studying for her doctorate in AI and computer vision, she grew frustrated by the process of looking for items to buy online. Search results were often inaccurate, and she knew the tech she was learning could improve the experience.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/12/07/pixyle-ai/",
+      "originalUrl": "https://techcrunch.com/2022/12/07/pixyle-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/12/Pixyle-AI-product-data-enrichment.png?resize=1200,685",
+          "width": 1200,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/12/07/pixyle-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/07/pixyle-ai/amp/",
+      "publishedDateTime": "2022-12-08T12:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1095,163 +1240,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-aws-advances-financial-services-in-the-cloud-news-from-reinvent-2022.md",
-      "title": "AWS Advances Financial Services In The Cloud: News From Re:Invent 2022",
-      "excerpt": "Principal Analyst, Fintech and Retail Tech Melody Brue dives in as last week, 50,000 people convened in Las Vegas, and another 300,000 gathered virtually around the world for AWS re: Invent, one of the most anticipated tech events of the year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/12/08/aws-advances-financial-services-in-the-cloud-news-from-reinvent-2022/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/12/08/aws-advances-financial-services-in-the-cloud-news-from-reinvent-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63921db02060714e1b08ccfe/0x0.jpg?format=jpg&width=1200",
-          "width": 936,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/12/08/aws-advances-financial-services-in-the-cloud-news-from-reinvent-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/12/08/aws-advances-financial-services-in-the-cloud-news-from-reinvent-2022/amp/",
-      "publishedDateTime": "2022-12-08T08:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-factors-to-consider-when-adopting-artificial-intelligence-and-machine-learning-what-businesses-need-to-know.md",
-      "title": "Factors To Consider When Adopting Artificial Intelligence And Machine Learning: What Businesses Need To Know",
-      "excerpt": "Artificial intelligence (AI) and machine learning (ML), or AI/ML, are quickly becoming a crucial next step for business growth. Recent years have seen more and more businesses adopting this technology and witnessing significant benefits in several areas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/08/factors-to-consider-when-adopting-artificial-intelligence-and-machine-learning-what-businesses-need-to-know/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/08/factors-to-consider-when-adopting-artificial-intelligence-and-machine-learning-what-businesses-need-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6390d461115ce3b59c08ccfa/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/08/factors-to-consider-when-adopting-artificial-intelligence-and-machine-learning-what-businesses-need-to-know/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/08/factors-to-consider-when-adopting-artificial-intelligence-and-machine-learning-what-businesses-need-to-know/amp/",
-      "publishedDateTime": "2022-12-08T04:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-the-broken-promise-of-ai-what-went-wrong-between-2012-and-2022.md",
-      "title": "The Broken Promise Of AI: What Went Wrong Between 2012 And 2022",
-      "excerpt": "AI is a worthwhile pursuit. The premise that lots of data plus lots of modeling equals interesting stuff isn’t flawed; it just ignores the necessity of starting with a problem and working toward fixing it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/08/the-broken-promise-of-ai-what-went-wrong-between-2012-and-2022/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/08/the-broken-promise-of-ai-what-went-wrong-between-2012-and-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61549381e6d4424cc52c8592/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/08/the-broken-promise-of-ai-what-went-wrong-between-2012-and-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/08/the-broken-promise-of-ai-what-went-wrong-between-2012-and-2022/amp/",
-      "publishedDateTime": "2022-12-08T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

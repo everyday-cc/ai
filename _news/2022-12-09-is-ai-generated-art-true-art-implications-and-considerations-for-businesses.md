@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/09/is-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/09/is-ai-generated-art-true-art-implications-and-considerations-for-businesses/amp/"
 type: article
 quality: 85
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63933ecc024703627d65ce91/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Kinetix combines AI and 3D animation to automate user-generated emotes for games"
-    excerpt: "Kinetix is combining 3D animation and AI to automate the process of creating user-generated emotes for video games and virtual worlds."
-    publishedDateTime: 2022-12-08T04:00:00Z
-    webUrl: "https://venturebeat.com/games/kinetix/"
-    ampWebUrl: "https://venturebeat.com/games/kinetix/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/kinetix/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/12/kinetix-2.jpg?w=1200&strip=all"
-        width: 1200
-        height: 669
         isCached: true
   - title: "Nations Trading Their AI As Geopolitical Bargaining Chips Raises Angst For AI Ethics And AI Law"
     excerpt: "AI is increasingly going to become a type of horse trading between nations. Do we want this to occur? Should there be special limits imposed? A plethora of AI Ethics and AI Law ramifications arise. Read all about it."

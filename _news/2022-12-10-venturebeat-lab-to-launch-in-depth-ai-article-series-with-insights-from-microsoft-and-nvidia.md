@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/venturebeat-lab-to-launch-in-depth-ai-art
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/venturebeat-lab-to-launch-in-depth-ai-article-series-with-insights-from-microsoft-and-nvidia/amp/"
 type: article
 quality: 93
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tata Tele Business Services to offer Microsoft Azure to SMBs in India"
-    excerpt: "This will enable SMBs to modernize their operations with smooth movement of business workloads to the cloud on a pay-as-you-go model and deliver better experience to their customers even as they scale faster,"
-    publishedDateTime: 2022-12-08T03:49:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/tata-tele-business-services-to-offer-microsoft-azure-to-smbs-in-india/96065486"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/tata-tele-business-services-to-offer-microsoft-azure-to-smbs-in-india/96065486"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/tata-tele-business-services-to-offer-microsoft-azure-to-smbs-in-india/96065486"
-    type: article
-    provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-96065486,imgsize-195728,width-1200,height=765,overlay-etbrandequity/digital/tata-tele-business-services-to-offer-microsoft-azure-to-smbs-in-india.jpg"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "Drone Express To Use Microsoft AI For New Cargo Drone Navigation"
     excerpt: "Drone Express, a drone cargo delivery startup, plans to begin manufacturing a new version of its DE-2020 multicopter drone by year’s end that will use Microsoft’s (AI) software, Azure Machine Learning,"
     publishedDateTime: 2022-12-09T22:23:00Z

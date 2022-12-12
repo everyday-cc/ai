@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-12T04:03:00Z
 originalUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-analysis-highlighting-opportunities-and-development-status-during-2023-2026-2022-12-12"
 webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-analysis-highlighting-opportunities-and-development-status-during-2023-2026-2022-12-12"
 type: article
-quality: 26
+quality: 28
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/apple-self-driving-ev-delayed-144700201.html"
 webUrl: "https://www.aol.com/apple-self-driving-ev-delayed-144700201.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,70 +23,6 @@ images:
     width: 626
     height: 313
     isCached: true
-
-related:
-  - title: "Apple scales back self-driving car and delays debut till 2026"
-    excerpt: "Apple executives are grappling with the reality that its vision for a fully autonomous vehicle — without a steering wheel or pedals — isn’t feasible with current technology."
-    publishedDateTime: 2022-12-08T17:47:00Z
-    webUrl: "https://www.delcotimes.com/2022/12/08/apple-scales-back-self-driving-car-and-delays-debut-till-26/"
-    ampWebUrl: "https://www.delcotimes.com/2022/12/08/apple-scales-back-self-driving-car-and-delays-debut-till-26/amp/"
-    cdnAmpWebUrl: "https://www-delcotimes-com.cdn.ampproject.org/c/s/www.delcotimes.com/2022/12/08/apple-scales-back-self-driving-car-and-delays-debut-till-26/amp/"
-    type: article
-    provider:
-      name: Delaware County Daily Times
-      domain: delcotimes.com
-    quality: 44
-    images:
-      - url: "https://www.delcotimes.com/wp-content/uploads/2022/12/Apple_App_Store_Antitrust_Battle_93202-1.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Apple's \"Self-Driving\" Car Isn't Shaping Up As Promised"
-    excerpt: "Apple's Project Titan \"self-driving\" car reveal pushed back to 2026 with some ambitious plans for the model now apparently scrapped"
-    publishedDateTime: 2022-12-08T22:31:00Z
-    webUrl: "https://www.topspeed.com/apple-pushes-back-launch-of-self-driving-car-to-2026/"
-    type: article
-    provider:
-      name: TopSpeed
-      domain: topspeed.com
-    quality: 24
-    images:
-      - url: "https://static1.topspeedimages.com/wordpress/wp-content/uploads/jpg/201609/apple-car-3.jpg"
-        width: 2115
-        height: 1191
-        isCached: true
-  - title: "Apple is Ditching Full Self-Driving on its Long-Promised Car"
-    excerpt: "Apple has reportedly been working towards an electric vehicle – an endeavor famed investor Carl Icahn said would serve as “the ultimate mobile device.” Part of Icahn’s bullishness on the Apple car stemmed from the rumors that it would be fully autonomous,"
-    publishedDateTime: 2022-12-12T17:35:00Z
-    webUrl: "https://www.manufacturing.net/video/video/22604673/apple-is-ditching-full-selfdriving-on-its-longpromised-car"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 24
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/12/MM_THumb.639761bf95989.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Apple Car Delayed Until 2026, Self-Driving Plans Scaled Back"
-    excerpt: "California-based tech giant Apple is pulling back on its plans to launch a fully autonomous vehicle, and will instead seek to launch a more traditional all-electric car with some semi-autonomous capabilities around the 2026 calendar year."
-    publishedDateTime: 2022-12-08T15:34:00Z
-    webUrl: "https://gmauthority.com/blog/2022/12/apple-car-delayed-until-2026-self-driving-plans-scaled-back/"
-    type: article
-    provider:
-      name: GM Authority
-      domain: gmauthority.com
-    quality: 4
-  - title: "Apple scales back self-driving car and delays debut till ’26"
-    excerpt: "Apple has scaled back ambitious self-driving plans for its future electric vehicle and postponed the car’s target launch date by about a year to 2026, according to people with knowledge of the matter."
-    publishedDateTime: 2022-12-12T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/apple-scales-back-self-driving-car-and-delays-debut-till-26/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 4
 
 secured: "N5Q3bfOwvRx1ZPbLn1LKJeh4PJi31Hh54hLJGxTGs4x67k8Y87aCiCSJK2KVsvKPteUYefFEpTiAUKsfKMMSciB40GsRQxj3kEZ543Fw1LTC9RGxEsyHnX/6dohO3vZrFiXqEyz44agNP2nxmLmGkyYvOfN8eMYb1DAARxVloYSjVmCAiYQaENA0n5JiKo5Jnh3oeAISDfnV+qnZFhan4nuAPonvOjw9j8Z9HPI3f67oLR5y3L0IfCqfaHC20bYCP57jRHU21MpdC/qJ+FAd8/cSHTbUR5ofv+LDClwOR2fLidePKmgJY06qIXMFdegdxR7bB2WEimKcpK3lnaO+PcczWAck+hmAjO2xF0yHySg=;Hb6KJq/n/y2Y90xk0tzSxw=="
 ---

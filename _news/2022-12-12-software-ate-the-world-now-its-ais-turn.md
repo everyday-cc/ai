@@ -48,20 +48,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Top AI Predictions for 2023"
-    excerpt: "The year 2022 was dedicated to large language models and generative art, let’s see what's in the AI goody bag for 2023"
-    publishedDateTime: 2022-12-08T06:38:00Z
-    webUrl: "https://analyticsindiamag.com/top-ai-predictions-for-2023/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/predict.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "How AI found the words to kill cancer cells"
     excerpt: "Putting the right receptor into a type of immune cell called a T cell can reprogram it to recognize and kill cancer cells. These so-called chimeric antigen receptors (CARs) have been effective against some cancers but not others."
     publishedDateTime: 2022-12-08T19:30:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-12T19:19:00Z
 originalUrl: "https://www.windowscentral.com/software-apps/childrens-book-created-with-ai-sparks-controversy-and-accusations-of-plagiarism"
 webUrl: "https://www.windowscentral.com/software-apps/childrens-book-created-with-ai-sparks-controversy-and-accusations-of-plagiarism"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Windows Central

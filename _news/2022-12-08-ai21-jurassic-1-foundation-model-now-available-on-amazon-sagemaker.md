@@ -56,6 +56,15 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 78
+  - title: "Image augmentation pipeline for Amazon Lookout for Vision"
+    excerpt: "Amazon Lookout for Vision provides a machine learning (ML)-based anomaly detection service to identify normal images (i.e., images of objects without defects) vs anomalous images (i.e., images of objects with defects), types of anomalies (e.g., missing piece), and the location of these anomalies. Therefore,"
+    publishedDateTime: 2022-12-12T19:03:41Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/image-augmentation-pipeline-for-amazon-lookout-for-vision/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 54
   - title: "AI21 Jurassic-1 Foundation Model Now Available on Amazon SageMaker"
     excerpt: "AI21 Labs, an Israeli startup aiming to fundamentally change the way people read and write using Generative AI, announced today that its Jurassic-1 Foundation Model used to power chatbots, answer questions,"
     publishedDateTime: 2022-12-08T16:54:00Z
