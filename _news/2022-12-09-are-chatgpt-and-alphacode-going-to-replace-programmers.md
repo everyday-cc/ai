@@ -26,33 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Competitive programming with AlphaCode"
-    excerpt: "Solving novel problems and setting a new milestone in competitive programming."
-    publishedDateTime: 2022-12-08T00:00:00Z
-    webUrl: "https://www.deepmind.com/blog/competitive-programming-with-alphacode"
+  - title: "Will artificial intelligence spell the end of the programmer?"
+    excerpt: "Artificial intelligence (AI) is changing the way we work. New tools and systems are making powerful algorithms that allow machines to learn from experience or human input to streamline processes without a team of programmers."
+    publishedDateTime: 2022-12-08T12:00:00Z
+    webUrl: "https://www.theglobeandmail.com/business/article-will-artificial-intelligence-spell-the-end-of-the-programmer/"
+    ampWebUrl: "https://www.theglobeandmail.com/amp/business/article-will-artificial-intelligence-spell-the-end-of-the-programmer/"
+    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/business/article-will-artificial-intelligence-spell-the-end-of-the-programmer/"
     type: article
     provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 74
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 59
     images:
-      - url: "https://assets-global.website-files.com/621e749a546b7592125f38ed/6221e6c759f19819bd5bec04_CodeGen.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "DeepMind’s AlphaCode is Now Available on GitHub"
-    excerpt: "AlphaCode has already made waves through its potential to beat computer programmers by analysing algorithm and generating complex programmes."
-    publishedDateTime: 2022-12-09T09:34:00Z
-    webUrl: "https://analyticsindiamag.com/deepminds-alphacode-is-now-available-on-github/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/deep-1.png"
-        width: 1366
-        height: 768
+      - url: "https://www.theglobeandmail.com/resizer/fNS6fTKq26SDWfTaJaLbxfMt1kU=/1200x720/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/4IMLBPBM55BS3MW44YVDGTXZTQ.jpg"
+        width: 1200
+        height: 720
         isCached: true
 
 secured: "RAKIiY4arTapZAtB8kylQsZq9/T5FXgQgRMlJPHS75DmYsGsFnHJIGtzUyfjEifWwmcYn0/HNehQJKuis8E4NEWejAwhLUYiCCQhzP/d9FLn3mmQa8+9SX5x/exhvt7cHB/klOqWFlLrb2h6Ocuovjgjw1HIfooRtvlBQRRoZStl0VGYZRsZanWcTphVI341gyQJ9SsC4i+lIqVdTaTu1pDM2HQwbCotSrI9q4LlI5HDTzif1mzj2UKrFqXjpIlGz3J9oFIzKuwjRt2aAVyXehcybAXl+iPLSR3stEb4vpDpfQJs3GrYwNAloZynQYSHiHRYhHmk+krJR3rUwPweVnVx81FfySJRL4QbvDMahko/C74MjQ3eTccxavbl3/IpgDMTEoXPZnTu2ONyF9VmKWn7KpOD9D/Llcs73nGhazfM2fKJ+88laOWyrfT/NQPj3Yqz+ueD00yemMm8O5kWtLpG58aSUINplInVxTVHwba3vCov4KXO1hnyoLbFbHDvxLQGW47BmZ4V1vt36Pj8qw==;jdYFenhuEpAMUlR5g0pFMQ=="

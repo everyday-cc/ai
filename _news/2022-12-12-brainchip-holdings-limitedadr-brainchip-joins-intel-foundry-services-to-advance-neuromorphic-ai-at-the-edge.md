@@ -35,6 +35,15 @@ related:
         width: 800
         height: 313
         isCached: true
+  - title: "Computer engineering becomes part of inaugural program focused on neuromorphic technologies"
+    excerpt: "As part of the university-corporate partnership, RIT’s computer engineering program will receive hardware—neuromorphic chips—as well as lecture modules for classes detailing how the novel chips can be programmed and used to provide neuromorphic computing solutions to real-world problems."
+    publishedDateTime: 2022-12-12T14:03:00Z
+    webUrl: "https://www.rit.edu/news/computer-engineering-becomes-part-inaugural-program-focused-neuromorphic-technologies"
+    type: article
+    provider:
+      name: Rochester Institute of Technology
+      domain: rit.edu
+    quality: 0
 
 secured: "Q9nc0EMM6g8C4KoLrOGTI3ZYpDYMBkkmnCsbnzNbHbZSc4vFQxFqhRjH8wQTk+YMdf06l1mWFtnfrbvFtglNXV3dchE4u2mPKPvEnvoyZGLOs7QOQ1W8nyYiqzeT4He/iWAai7j/XksR2kNZjihs2ChFN1qtsW3fGM4TG8UDVFTNGKlGN856OCcJdqqSTjZypsCBrC+4k/z+E2hXXOL7HkTbk3WyNGTMxDhaJzF3NvwCGSOOBJ94+koMbPHSchgU30z0qOZK1LJ84rLhrdRert/VkLwEmnaFr3aPZXRVjOqhH0kkrGvkZEaGW2GnLxBLFV3JlCeFJWeLl+5AbFEIGVOnXnpeudr5kFVEp1Rxcec=;qcRN0zRw0D6+UWSA71hHqg=="
 ---

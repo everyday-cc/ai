@@ -57,6 +57,20 @@ related:
         width: 1920
         height: 1282
         isCached: true
+  - title: "DeepMind Builds AI That Codes as Well as the Average Human Programmer"
+    excerpt: "In an apparent effort to put themselves out of a job, DeepMind researchers have created an AI that can write code, and it performs surprisingly well in programming challenges."
+    publishedDateTime: 2022-12-12T13:24:00Z
+    webUrl: "https://www.extremetech.com/computing/341451-deepmind-builds-ai-that-codes-as-well-as-the-average-human-programmer"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 54
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2022/12/alphacode-deepmind-640x353.jpg"
+        width: 640
+        height: 353
+        isCached: true
   - title: "Alphabet's DeepMind creates AI for drafting film scripts"
     excerpt: "DeepMind Technologies, part of Alphabet Inc., the parent company of Google, has created an AI that can be used to draft scripts for film and stage plays.  \"Language models are increasingly attracting interest from writers."
     publishedDateTime: 2022-12-10T12:16:00Z

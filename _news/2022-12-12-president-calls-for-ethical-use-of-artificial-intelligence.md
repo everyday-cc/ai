@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-12T13:49:00Z
 originalUrl: "https://www.radio.gov.pk/12-12-2022/president-calls-for-ethical-use-of-artificial-intelligence"
 webUrl: "https://www.radio.gov.pk/12-12-2022/president-calls-for-ethical-use-of-artificial-intelligence"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Radio Pakistan

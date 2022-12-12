@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla on self-driving claims: ‘failure to realize long-term, aspirational goal is not fraud’"
-    excerpt: "Tesla, defending itself in a lawsuit over self-driving claims, said, “Mere failure to realize a long-term, aspirational goal is not fraud.”"
-    publishedDateTime: 2022-12-07T21:48:00Z
-    webUrl: "https://electrek.co/2022/12/07/tesla-self-driving-claims-failure-realize-long-term-aspirational-goal-not-fraud/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 73
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla says its self-driving technology may be a ‘failure’ — but not fraud"
     excerpt: "In a class-action lawsuit, customers say they were duped by Tesla's $15,000 Full Self-Driving feature. Lawyers for the company say failure doesn't equal fraud."
     publishedDateTime: 2022-12-08T21:25:00Z
@@ -55,6 +41,31 @@ related:
         width: 320
         height: 214
         isCached: true
+  - title: "Tesla speaks up on its inability to offer self-driving cars"
+    excerpt: "Tesla is being used by a customer for not offering self-driving cars yet. The company has filed a motion to dismiss the lawsuit as it is currently still working on the software."
+    publishedDateTime: 2022-12-09T12:41:00Z
+    webUrl: "https://www.digit.in/news/car-tech/tesla-speaks-up-on-its-inability-to-offer-self-driving-cars-66311.html"
+    ampWebUrl: "https://www.digit.in/article/amp/car-tech/66311/tesla-speaks-up-on-its-inability-to-offer-self-driving-cars"
+    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/car-tech/66311/tesla-speaks-up-on-its-inability-to-offer-self-driving-cars"
+    type: article
+    provider:
+      name: Digit
+      domain: digit.in
+    quality: 59
+    images:
+      - url: "https://static.digit.in/default/fea-9-11-1280-1fc3fd6142.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Payne: Riding along with my self-driving Tesla student driver"
+    excerpt: "Payne's Model 3 carries Full Self Driving, Tesla's ambitious software that enables the car to drive itself on public roads, an upgrade over Autopilot."
+    publishedDateTime: 2022-12-10T03:00:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2022/12/10/payne-rides-along-with-his-self-driving-tesla-student-driver/69710439007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 19
 
 secured: "udLjIqta1IQ69ZB5qIXSf9pUHlpq4yKQnJ8Cd33NgBOpT0P0MLbit5LJY10sq8Wks3KoZNWz23mJSQUjLgZLvuh/jzIrimjU3QGLZp7Xu42VAi+RHSEsR46M/nQh8lauIN3feI0UnPut21rG/V3kVC/CwQ5LfAUoLQIlgi927AJewwsBgccC1lStHN/ygyItq41SL5HPAFgMC8inlATXvYeeI3M7qQpD2oMcYUVYz9eD6SQ58hffbn4rj6rWanI3Up92HsoGaeg+6dGWlZI5KCqSG8I/O6z4uH/0scnQe8TXioWX8L/HwLk+2aAH3ZPLqV/dL2GNPgfOS0D6ZgSiGvFvY/l6ygkecXSjxievKjg=;yqWYYNiCqlL//UqkE9TfCA=="
 ---

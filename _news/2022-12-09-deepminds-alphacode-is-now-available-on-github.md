@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/deepminds-alphacode-is-now-available
 webUrl: "https://analyticsindiamag.com/deepminds-alphacode-is-now-available-on-github/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 1366
     height: 768
     isCached: true
-
-related:
-  - title: "Competitive programming with AlphaCode"
-    excerpt: "Solving novel problems and setting a new milestone in competitive programming."
-    publishedDateTime: 2022-12-08T00:00:00Z
-    webUrl: "https://www.deepmind.com/blog/competitive-programming-with-alphacode"
-    type: article
-    provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 74
-    images:
-      - url: "https://assets-global.website-files.com/621e749a546b7592125f38ed/6221e6c759f19819bd5bec04_CodeGen.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Are ChatGPT and AlphaCode going to replace programmers?"
-    excerpt: "OpenAI and DeepMind systems can now produce meaningful lines of code, but software engineers shouldn’t switch careers quite yet."
-    publishedDateTime: 2022-12-08T19:48:00Z
-    webUrl: "https://www.nature.com/articles/d41586-022-04383-z"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 26
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-04383-z/d41586-022-04383-z_23802782.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "/mrPjal2MVketA20uXvzYe/veyXNxRxI0uAofuLNRW/tS3hjaHOazrBgRYt7/sW5Hgyid8Dp+9jviFTYL0E07M95rRnoYztWK7LMaaBLa2w3wKPMuMeKji+ASzLi9D8AzsOawltoOLasWGJ/CG6PZZTgRfvHWuvj8EOhUvhakR54myM7ot0T1K5byvKBfc0bpa4SxVYz9dr7NkGk4dwx4P+n/dqbibJCzlOwXoYf6qyBg53CbpHavoIpUjClssWePRkZ7Wr3CdlF7YFMBifBRKAh1sAbpwrN3LoPYKQwHfb2ZiLJl5nHzfAbwLE8LAZgKRWBR1XS3Cumh/aDVs96GV7ahZbyR9Or3hn5pSZguObvJfE2+fL3Q0ysRjbniQoYMXLN7WoZ/rXGwBGRSnD7mE2Y2nNX02P1SOfiFw/bKtsEhc+FJ5Q1YR6zEoZhjrBIJ3VkYio/orpf/gWniI4IWlE92+XmeUwwJMgF7leCpeoH6qOpFJ0y2MX8IUNreLPe6zHYYaS11CmWFQ+Bogmf0g==;cILxaDWZQ+i+Npx5a8VHRw=="
 ---

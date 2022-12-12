@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-12T10:34:00Z
 originalUrl: "https://www.theaustralian.com.au/nation/indigenous/indigenous-voice-model-to-be-decided-after-referendum/news-story/063bab9c6caf70ac8bbdb80ca7a6ac3c"
 webUrl: "https://www.theaustralian.com.au/nation/indigenous/indigenous-voice-model-to-be-decided-after-referendum/news-story/063bab9c6caf70ac8bbdb80ca7a6ac3c"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Australian

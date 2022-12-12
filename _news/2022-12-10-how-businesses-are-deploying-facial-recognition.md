@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wuwm.com/economy-business/economy-business/2022-12-09/ho
 cdnAmpWebUrl: "https://www-wuwm-com.cdn.ampproject.org/c/s/www.wuwm.com/economy-business/economy-business/2022-12-09/how-businesses-are-deploying-facial-recognition?_amp=true"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "How facial recognition allowed the Chinese government to target minority groups"
+    excerpt: "Journalist Alison Killing explains her investigation in Xinjiang, China, where the government has used facial recognition cameras to track Uyghurs and detain them in camps across the region."
+    publishedDateTime: 2022-12-09T13:43:00Z
+    webUrl: "https://www.wwno.org/npr-news/2022-12-09/how-facial-recognition-allowed-the-chinese-government-to-target-minority-groups"
+    ampWebUrl: "https://www.wwno.org/npr-news/npr-news/2022-12-09/how-facial-recognition-allowed-the-chinese-government-to-target-minority-groups?_amp=true"
+    cdnAmpWebUrl: "https://www-wwno-org.cdn.ampproject.org/c/s/www.wwno.org/npr-news/npr-news/2022-12-09/how-facial-recognition-allowed-the-chinese-government-to-target-minority-groups?_amp=true"
+    type: article
+    provider:
+      name: WWNO
+      domain: wwno.org
+    quality: 55
+    images:
+      - url: "https://media.npr.org/assets/img/2020/03/04/manoush-zomorodi_bio_photo-1_vert-bf366cf2e0a689ea87422c5de657f381d9d43437.jpg"
+        width: 2096
+        height: 2794
+        isCached: true
   - title: "How facial recognition allowed the Chinese government to target minority groups"
     excerpt: "Journalist Alison Killing explains her investigation in Xinjiang, China, where the government has used facial recognition cameras to track Uyghurs and detain them in camps across the region."
     publishedDateTime: 2022-12-09T18:43:00Z
@@ -57,20 +73,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "Ring keeps pushing the boundaries for facial recognition in US policing"
-    excerpt: "The number of United States law enforcement agencies using Ring's social media application Neighbors is large and growing."
-    publishedDateTime: 2022-12-07T21:36:00Z
-    webUrl: "https://www.biometricupdate.com/202212/ring-keeps-pushing-the-boundaries-for-facial-recognition-in-us-policing"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/27132556/data-privacy-scaled.jpg"
-        width: 2048
-        height: 1257
-        isCached: true
   - title: "How businesses are deploying facial recognition"
     excerpt: "As facial recognition software becomes easier to acquire, businesses are using it to surveil and analyze customers. Bloomberg's Parmy Olson explains where and how the technology is being deployed."
     publishedDateTime: 2022-12-09T14:57:00Z
@@ -80,15 +82,6 @@ related:
       name: Capital Public Radio
       domain: capradio.org
     quality: 19
-  - title: "How facial recognition allowed the Chinese government to target minority groups"
-    excerpt: "Journalist Alison Killing explains her investigation in Xinjiang, China, where the government has used facial recognition cameras to track Uyghurs and detain them in camps across the region."
-    publishedDateTime: 2022-12-09T13:43:00Z
-    webUrl: "https://www.wwno.org/npr-news/2022-12-09/how-facial-recognition-allowed-the-chinese-government-to-target-minority-groups"
-    type: article
-    provider:
-      name: WWNO
-      domain: wwno.org
-    quality: 15
 
 secured: "GXg5RR5hzYk2IIy3N4RpQNRvBitX01V5Kmh8i0YN5Nn1fZsWo9HgD6T9AMQGCaoJDPt9chH59KRH/DHPcY/EbbW2lyO5gEATGPsxG2v1KwAtHJZQz0ZUn5GQCQPmABHOEqxsU1jSmFWZX2YgsjwqxgBbw0ozBTAHrslwwPdNl4QKNcGCMfWuxRSVrdmp+uuqxOEGyp7fkd8udU603PlmZ8ME6YeQUCZTnemt5JHu1Iqf4H/EaRirEKA6YFWLMqvZvwG2PU5SzUOKxiZfpnMdUwDPAznHpmd1oOkJr9fXQU00lM0NQReNSauu7GUC89MEnfQvAvAhpHur10/YUOo+TVHi+PExMxXMtEgqZMy+kkA=;jMC3hJR+hf4+pZ1CcWKBlg=="
 ---

@@ -19,11 +19,11 @@ topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/93/b9333c31-f82d-52ee-95a3-86b77c27d855/63938d3369a5e.image.jpg?resize=1920%2C1080"
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/e/39/e3913e9a-3fff-5432-ab98-0706d598d42f/6397539cae26e.image.jpg?resize=1920%2C1080"
     width: 1920
     height: 1080
     isCached: true
 
-secured: "Awi7v2NFFascjT549VUS81vSMjrVbbHLyZ00I4haD2c/5sXGZVWCiWAP0L8+DOOf0QICN65mwPK2P8DY21FErkjwLLrwc/rpeCTmdoBDf1baUwm6NqZCT6kO6toQdGBTAaZQ9du6h/bBUC5ZTzVSOJL5KBP1oLds1R2nnxmH1aMnAgOFGidfjl5csfkWikv5e2j5IhJuVXg+OmnJbwU1ltDfOgm2ut65jgC8uJAfJUs4JgTLA5P/RLvToXidcYu4cS/4ee06tpcSivQwJNnEi0hfskEXPlSN/44ObZNpVUGeV297qb4exDv6B4w79PxgByabY63IHe3h0lpqDiutupGrLPRkerpa8dsDb+LNkBM=;DNmIkr3lIry6juAHWtnEgQ=="
+secured: "Hzuapo5IlHr6GKTFKqdK2gRpOIj0XObZuU2NtATUR73ghPbrGIP0sEmUzjHpOJGexx3QuQf/pmDU839oDx/E4oLcV7hpasn0KJ5UMxYvmFOEokzVYBesQ1XLWesxrF3/6BJ9ukcssQXo08qvCS5oZjs8xom0RGOcFAs5TNeZmZ7drdCq/+tMeCD8sHSUYgbKsBPZW4s9Dxvv/c3XZRBmKxK8zc3XOiMhB338r2AamPAM2kgRLYpaYsc9W1fgeqSqss23QXKnVCHcdaai4cdfm8L8+dZisEyN19NrmFKgsNDmaOwgkXsh9YtVNRW3fNgXLRxk1c7NTjJYUcRcnMl/8NHBchE6S58ot02Q0626pPs=;D3K4nsMV84CPlDlv/utmNQ=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-12T13:48:00Z
 originalUrl: "https://thenextweb.com/news/what-you-need-to-know-about-aiops"
 webUrl: "https://thenextweb.com/news/what-you-need-to-know-about-aiops"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: The Next Web

@@ -34,7 +34,7 @@ related:
     provider:
       name: The Nation
       domain: thenation.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://www.thenation.com/wp-content/uploads/2022/12/chatgptdialogue-img.jpg"
         width: 1440

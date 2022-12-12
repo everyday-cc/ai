@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-12T12:01:00Z
 originalUrl: "https://www.forbes.com/sites/lanceeliot/2022/12/12/emerging-rise-of-ai-localism-is-getting-bigger-bolder-and-badder-says-ai-ethics-and-ai-law/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2022/12/12/emerging-rise-of-ai-localism-is-getting-bigger-bolder-and-badder-says-ai-ethics-and-ai-law/"
 type: article
+quality: 52
+heat: 52
+published: false
 
 provider:
   name: Forbes

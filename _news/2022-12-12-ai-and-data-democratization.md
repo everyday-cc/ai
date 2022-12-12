@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-12T08:31:00Z
 originalUrl: "https://www.fastcompany.com/90822887/ai-and-data-democratization"
 webUrl: "https://www.fastcompany.com/90822887/ai-and-data-democratization"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Fast Company

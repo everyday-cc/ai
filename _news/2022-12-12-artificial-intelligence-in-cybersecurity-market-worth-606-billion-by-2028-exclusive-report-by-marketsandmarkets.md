@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-12T13:36:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-12/57820062-artificial-intelligence-in-cybersecurity-market-worth-dollar-60-6-billion-by-2028-exclusive-report-by-marketsandmarkets-008.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2022-12/57820062-artificial-intelligence-in-cybersecurity-market-worth-dollar-60-6-billion-by-2028-exclusive-report-by-marketsandmarkets-008.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Finanznachrichten

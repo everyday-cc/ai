@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft buys stake in London Stock Exchange, will see company move to Azure"
+    excerpt: "Microsoft has acquired a stake in the London Stock Exchange, and in return will see the financial company use the cloud firm’s technologies. The company this week announced a 10-year strategic partnership with the London Stock Exchange Group (LSEG)."
+    publishedDateTime: 2022-12-12T13:17:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-buys-stake-in-london-stock-exchange-will-see-company-move-to-azure/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 31
   - title: "Empowering the future of financial markets with London Stock Exchange Group"
     excerpt: "Microsoft looks to generate $5 billion in revenue from LSEG and the financial services sector through 10-year strategic partnership. Today, we announced a 10-year strategic partnership with the London Stock Exchange Group (LSEG),"
     publishedDateTime: 2022-12-12T07:59:00Z

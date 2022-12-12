@@ -7,8 +7,8 @@ originalUrl: "https://www.itpro.co.uk/business/business-strategy/369672/google-b
 webUrl: "https://www.itpro.co.uk/business/business-strategy/369672/google-brings-no-code-machine-learning-to-sheets-with-simpleml"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: IT Pro
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google brings machine learning to online spreadsheets with Simple ML for Sheets"
-    excerpt: "Google announced a beta release of Simple ML for Sheets, which allows users without ML experience to try ML out on their spreadsheets."
-    publishedDateTime: 2022-12-08T00:16:00Z
-    webUrl: "https://venturebeat.com/ai/google-brings-machine-learning-to-online-spreadsheets-with-simple-ml-for-sheets/"
-    ampWebUrl: "https://venturebeat.com/ai/google-brings-machine-learning-to-online-spreadsheets-with-simple-ml-for-sheets/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-brings-machine-learning-to-online-spreadsheets-with-simple-ml-for-sheets/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 100
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/05/Google-Sheets-e1670458165366.png?w=1200&strip=all"
-        width: 1198
-        height: 640
-        isCached: true
   - title: "Google Introduces Simple ML for Sheets to bring machine learning to online spreadsheets"
     excerpt: "Google is now trying to change that paradigm for its Google Sheets online spreadsheet program. The Simple ML for Sheets"
     publishedDateTime: 2022-12-08T13:39:00Z

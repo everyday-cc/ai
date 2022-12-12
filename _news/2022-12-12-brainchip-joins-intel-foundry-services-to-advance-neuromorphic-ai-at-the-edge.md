@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/30033830"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30033830"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -36,6 +36,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 15
+  - title: "Computer engineering becomes part of inaugural program focused on neuromorphic technologies"
+    excerpt: "As part of the university-corporate partnership, RIT’s computer engineering program will receive hardware—neuromorphic chips—as well as lecture modules for classes detailing how the novel chips can be programmed and used to provide neuromorphic computing solutions to real-world problems."
+    publishedDateTime: 2022-12-12T14:03:00Z
+    webUrl: "https://www.rit.edu/news/computer-engineering-becomes-part-inaugural-program-focused-neuromorphic-technologies"
+    type: article
+    provider:
+      name: Rochester Institute of Technology
+      domain: rit.edu
+    quality: 0
 
 secured: "FAAt+ZVAzPWSm7O95znbUeizjEamh571EPGRExg73rNijY0ljXzYm1KJNtVyhj9eP8QBtdqR4jQC5cC65LVJM0ULc+hTXlR8jkGwY94kVh3AJCxpRsewnzuOUoica8JHLBSXtIbWvpPVzqnFLCy03fgJGYP3W8/6ulG0H0TZeAPgqhAzh4e46TyrmJDNmdyusjxaYsYVf8R4yKABBIi5C1U0/KXVUKEN9HBVAoAppTXn/JC4TUI2Wt8FEhfvQhP0ZsZ8sykRpX08R3SvIV7meP1sryylYOjG+WEm9+BiXsgbz7GR8DSAjjLjbzkKcD7M0PZD03VphogRrqOI09Bhii5E36kXccSrur9rbLqjAYE=;K/ISL08z0boV3YIkFwgrMA=="
 ---

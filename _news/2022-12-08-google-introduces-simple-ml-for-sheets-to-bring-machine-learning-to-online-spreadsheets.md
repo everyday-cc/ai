@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Google brings machine learning to online spreadsheets with Simple ML for Sheets"
-    excerpt: "Google announced a beta release of Simple ML for Sheets, which allows users without ML experience to try ML out on their spreadsheets."
-    publishedDateTime: 2022-12-08T00:16:00Z
-    webUrl: "https://venturebeat.com/ai/google-brings-machine-learning-to-online-spreadsheets-with-simple-ml-for-sheets/"
-    ampWebUrl: "https://venturebeat.com/ai/google-brings-machine-learning-to-online-spreadsheets-with-simple-ml-for-sheets/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-brings-machine-learning-to-online-spreadsheets-with-simple-ml-for-sheets/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 100
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/05/Google-Sheets-e1670458165366.png?w=1200&strip=all"
-        width: 1198
-        height: 640
-        isCached: true
   - title: "Google brings no-code machine learning to Sheets with SimpleML"
     excerpt: "Businesses looking to automate their Google workspaces could benefit from the tool which requires no programming experience and is now in beta"
     publishedDateTime: 2022-12-08T16:59:00Z

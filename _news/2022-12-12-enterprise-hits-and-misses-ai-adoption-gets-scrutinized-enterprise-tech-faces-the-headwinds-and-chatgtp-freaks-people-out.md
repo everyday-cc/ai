@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-12T13:46:00Z
 originalUrl: "https://diginomica.com/enterprise-hits-and-misses-ai-adoption-gets-scrutinized-enterprise-tech-faces-headwinds-and-chatgtp"
 webUrl: "https://diginomica.com/enterprise-hits-and-misses-ai-adoption-gets-scrutinized-enterprise-tech-faces-headwinds-and-chatgtp"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Diginomica

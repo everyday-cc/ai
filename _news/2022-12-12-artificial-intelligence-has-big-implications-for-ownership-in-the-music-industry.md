@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/artificia
 ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/artificial-intelligence-has-big-implications-for-ownership-in-the-music-industry/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/artificial-intelligence-has-big-implications-for-ownership-in-the-music-industry/amp/"
 type: article
-quality: 82
+quality: 84
 heat: -1
 published: false
 

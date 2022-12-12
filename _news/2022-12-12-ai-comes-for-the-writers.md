@@ -8,9 +8,9 @@ webUrl: "https://www.thenation.com/article/culture/chatgpt-ai-writers/"
 ampWebUrl: "https://www.thenation.com/article/culture/chatgpt-ai-writers/tnamp/"
 cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/culture/chatgpt-ai-writers/tnamp/"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: The Nation
@@ -43,6 +43,6 @@ related:
         height: 450
         isCached: true
 
-secured: "wFTiasTIIWqqxwe+hyomjUk3ykclM76VpGFKrvxqsVNQ4rTtKl7EjUIs1klpJIb0ieE4di9ya++5FQn1VC/VmDe8WrIBhHljZuEhIfx6FNRHhORmUoy1rlk/oQPIC7qfqMVF+jJ2bk9ijxiLx9uXmrD+ExyVpMPn3MgGc6xMDtgHTql2tlqPjmr812AFbzqKtd8DlT6FMSR3XQd1oLx3uiqPCV+kTIiIVOiZJDlkAUOR8KmNYqUrx5V3eKYEAJcMucYUErBHDhgnk9DIbmYE3wh+MhijjC6v/yxeNeQZ8f+YiJZMnFup5KaEHRI76nYhAk/n74Ni+G4k/9hPpbJ4FDTEVEYRsrrC6j6DdTjzfqI=;QLG03p+sOmIpwmjnxSxbkQ=="
+secured: "i5L4huasv4R5Ffg64n2IcCEijffw1qcWZuOGSmypLZHC7/iwIDkvdYdWSe4YL3JvZtVt6fmJp1QA6OcUSIbwgp1Beq3ubMz6OzouoCozMK6YwD5QZuHM/126N++hn/Ufd4ITOL2q93N5+LLa5uIJ5b59i1nTECqL+3RZFgK47quA6g+A1nLoBKT3nw55pbl66zStGb0zYZBV3CtJmVSBiKqT70eNL4yLjmxRTAC/BFMaryH1P1zGC7GbxGll7+xHJ8snqI5zXF48U4UH+DlQ75ACvSVqKLdnrXi7UbE8m9mWk6OxtDggkBtiNOE9G6DwWi+SSPTPoxhunQvMmQCd8xH6IHThr98puJKikOZq8jYDAEVi0/vSfX9/BPjag3YzDlOr2PkqZicRgZ2d8gHQBl+gyIR2SuzzilpM3DUvcm/MTCaNEnieX8xhJnldftEAT+e8LTxhCjdUIqRYuvg9KoT6FccXgyWcYZAqCMZ8sYWVl64ZeWo85fS3fMH9zgLNH4+czGBLNHi6ZQGJha2Uqw==;QOMWdz2ZK6A3GWtf//55SA=="
 ---
 

@@ -43,6 +43,22 @@ related:
         isCached: true
   - title: "How facial recognition allowed the Chinese government to target minority groups"
     excerpt: "Journalist Alison Killing explains her investigation in Xinjiang, China, where the government has used facial recognition cameras to track Uyghurs and detain them in camps across the region."
+    publishedDateTime: 2022-12-09T13:43:00Z
+    webUrl: "https://www.wwno.org/npr-news/2022-12-09/how-facial-recognition-allowed-the-chinese-government-to-target-minority-groups"
+    ampWebUrl: "https://www.wwno.org/npr-news/npr-news/2022-12-09/how-facial-recognition-allowed-the-chinese-government-to-target-minority-groups?_amp=true"
+    cdnAmpWebUrl: "https://www-wwno-org.cdn.ampproject.org/c/s/www.wwno.org/npr-news/npr-news/2022-12-09/how-facial-recognition-allowed-the-chinese-government-to-target-minority-groups?_amp=true"
+    type: article
+    provider:
+      name: WWNO
+      domain: wwno.org
+    quality: 55
+    images:
+      - url: "https://media.npr.org/assets/img/2020/03/04/manoush-zomorodi_bio_photo-1_vert-bf366cf2e0a689ea87422c5de657f381d9d43437.jpg"
+        width: 2096
+        height: 2794
+        isCached: true
+  - title: "How facial recognition allowed the Chinese government to target minority groups"
+    excerpt: "Journalist Alison Killing explains her investigation in Xinjiang, China, where the government has used facial recognition cameras to track Uyghurs and detain them in camps across the region."
     publishedDateTime: 2022-12-09T18:43:00Z
     webUrl: "https://www.wuwm.com/health-science/health-science/2022-12-09/how-facial-recognition-allowed-the-chinese-government-to-target-minority-groups"
     ampWebUrl: "https://www.wuwm.com/health-science/health-science/2022-12-09/how-facial-recognition-allowed-the-chinese-government-to-target-minority-groups?_amp=true"
@@ -57,20 +73,6 @@ related:
         width: 2096
         height: 2794
         isCached: true
-  - title: "Ring keeps pushing the boundaries for facial recognition in US policing"
-    excerpt: "The number of United States law enforcement agencies using Ring's social media application Neighbors is large and growing."
-    publishedDateTime: 2022-12-07T21:36:00Z
-    webUrl: "https://www.biometricupdate.com/202212/ring-keeps-pushing-the-boundaries-for-facial-recognition-in-us-policing"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/27132556/data-privacy-scaled.jpg"
-        width: 2048
-        height: 1257
-        isCached: true
   - title: "How businesses are deploying facial recognition"
     excerpt: "As facial recognition software becomes easier to acquire, businesses are using it to surveil and analyze customers. Bloomberg's Parmy Olson explains where and how the technology is being deployed."
     publishedDateTime: 2022-12-09T14:57:00Z
@@ -80,15 +82,6 @@ related:
       name: Capital Public Radio
       domain: capradio.org
     quality: 19
-  - title: "How facial recognition allowed the Chinese government to target minority groups"
-    excerpt: "Journalist Alison Killing explains her investigation in Xinjiang, China, where the government has used facial recognition cameras to track Uyghurs and detain them in camps across the region."
-    publishedDateTime: 2022-12-09T13:43:00Z
-    webUrl: "https://www.wwno.org/npr-news/2022-12-09/how-facial-recognition-allowed-the-chinese-government-to-target-minority-groups"
-    type: article
-    provider:
-      name: WWNO
-      domain: wwno.org
-    quality: 15
 
 secured: "Kpli7yj25N1FFOnStv8f4PdzKILpR4Srs9iANc0y9TiBXGa0ti1aQ8RfEyYsRB9G3bFrmrN4/3ePVkqefJgMg2ncU5S7blPKaHitjsdegd3TEPaimnpq0ht0qgpOwLmfIBSMSkxuPpCLWYnEF6mmrubKkgPQjrttUdGzaTUuJBTZqcJVz8QtiEKwzlRVqduVBXCRFq3FPys/cjaCABDVoKdkV8GrEQCjdcUaeFx4D22ZPu92z+z+UfF9SIg5+7i7JuZMT8WvpWXFggdMh5yjt9g5z6xopayr0EzBiARB9oiYFy+u9HbioMpfEr93uloT6jPPbwR9G6DOodREw24zjWIgej+ic17zqBHxjO7Q2ys=;XRvAPJfc/4yfFCbRpnr3TA=="
 ---

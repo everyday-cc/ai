@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-12T13:00:00Z
 originalUrl: "https://venturebeat.com/ai/for-nycs-new-ai-bias-law-unanswered-questions-remain/"
 webUrl: "https://venturebeat.com/ai/for-nycs-new-ai-bias-law-unanswered-questions-remain/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

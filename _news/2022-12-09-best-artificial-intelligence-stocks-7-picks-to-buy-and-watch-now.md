@@ -36,6 +36,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "C3.ai Analysts Mixed After FQ2 Print: 'Investors Justifiably Skeptical,' But Long-Term Opportunity Looks Promising"
+    excerpt: "Shares of C3.ai Inc (NYSE: AI) remained highly volatile in Wednesday's after-hours session, although the company reported better-than-expected fiscal second-quarter results."
+    publishedDateTime: 2022-12-08T16:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/c3-ai-analysts-mixed-after-fq2-print-investors-justifiably-skeptical-but-long-term-opportunity-looks-promising-1031961027"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/12/08/screen_shot_2022-12-08_at_13.24.08.png"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "C3.ai Rebuild Starts Now"
     excerpt: "Back in FQ1'23, C3.ai switched the business to a consumption pricing model, with the initial phase involving early adopters and high investment costs. The company is now quickly shifting into Phase 2 where deals start to ramp and early consumption builds with a major inflection point in a few quarters."
     publishedDateTime: 2022-12-09T01:31:00Z

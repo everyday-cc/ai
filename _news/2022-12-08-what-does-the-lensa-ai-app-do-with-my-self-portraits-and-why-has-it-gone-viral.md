@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Lensa, the AI portrait app, has soared in popularity. But many artists question the ethics of AI art."
-    excerpt: "For many online, Lensa AI is a cheap, accessible profile picture generator. But in digital art circles, the popularity of artificial intelligence-generated art has raised major privacy and ethics concerns."
-    publishedDateTime: 2022-12-07T21:55:00Z
-    webUrl: "https://www.nbcnews.com/tech/internet/lensa-ai-artist-controversy-ethics-privacy-rcna60242"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna60242"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna60242"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 91
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-12/221206-lensa-selfies-ai-celebrities-cs-548f22.jpg"
-        width: 2500
-        height: 1250
-        isCached: true
   - title: "What to know about Lensa, the AI portrait app all over social media"
     excerpt: "If you've logged on to any social media app this week, you've probably seen pictures of your friends, but re-imagined as fairy princesses, animé characters, or celestial beings."
     publishedDateTime: 2022-12-11T20:18:00Z
@@ -70,6 +54,22 @@ related:
         width: 625
         height: 415
         isCached: true
+  - title: "This Week in Apps: Apple App Store’s new pricing, Twitter app makers shift to Mastodon, debate over Lensa AI"
+    excerpt: "This Week in Apps offers a way to keep up with the latest from the world of apps, including news, updates, startup fundings, M&As and much more."
+    publishedDateTime: 2022-12-10T19:30:00Z
+    webUrl: "https://techcrunch.com/2022/12/10/this-week-in-apps-apple-app-stores-new-pricing-twitter-app-makers-shift-to-mastodon-debate-over-lensa-ai/"
+    ampWebUrl: "https://techcrunch.com/2022/12/10/this-week-in-apps-apple-app-stores-new-pricing-twitter-app-makers-shift-to-mastodon-debate-over-lensa-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/10/this-week-in-apps-apple-app-stores-new-pricing-twitter-app-makers-shift-to-mastodon-debate-over-lensa-ai/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 68
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/07/this-week-in-apps-splash-2022.webp?resize=1200,637"
+        width: 1200
+        height: 637
+        isCached: true
   - title: "Apps like Lensa ensure that we keep falling for the shady ethics of AI-generated art"
     excerpt: "A wide range of platforms such as Lensa AI can now bypass copyrighted artworks of living artists but we keep celebrating them for Instagram likes"
     publishedDateTime: 2022-12-09T05:09:00Z
@@ -86,6 +86,22 @@ related:
         width: 1080
         height: 1080
         isCached: true
+  - title: "Lensa AI: The photo-editing app everyone's using to create magical AI avatars"
+    excerpt: "I tried the hottest app in the market right now, Lensa AI, to create Magic AI avatars of myself. Here's all you need to know about the tool that has the potential of taking over digital art."
+    publishedDateTime: 2022-12-12T10:00:00Z
+    webUrl: "https://www.bgr.in/features/lensa-ai-the-photo-editing-app-everyones-using-to-create-magical-ai-avatars-1348355/"
+    ampWebUrl: "https://www.bgr.in/features/lensa-ai-the-photo-editing-app-everyones-using-to-create-magical-ai-avatars-1348355/amp/"
+    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/features/lensa-ai-the-photo-editing-app-everyones-using-to-create-magical-ai-avatars-1348355/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: www.bgr.in
+    quality: 54
+    images:
+      - url: "https://st1.bgr.in/wp-content/uploads/2022/12/Lensa-AI-features.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "What You Should Know Before Using the Lensa AI App"
     excerpt: "Are you thinking about uploading some selfies and buying a pack of ‘Magic Avatars’? Consider these expert tips first."
     publishedDateTime: 2022-12-09T12:00:00Z
@@ -95,6 +111,20 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
+  - title: "Lensa AI Created a Viral Meme, But How Legal Is It?"
+    excerpt: "Social media has been inundated with AI-generated selfie portraits from Lensa AI's new magic avatar feature. Now, artists cite it as another example of how AI technology is engaging in copyright infri"
+    publishedDateTime: 2022-12-08T21:41:00Z
+    webUrl: "https://www.law.com/legaltechnews/2022/12/08/lensa-ai-created-a-viral-meme-but-how-legal-is-it/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 41
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2022/12/Artificial-Intelligence-Portrait-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "Image Apps Like Lensa AI Are Sweeping the Internet, and Stealing From Artists"
     excerpt: "Artists] are often in the position to justify our profession, and every time something like this comes… we feel angry, frustrated, and exhausted,” she said. “After everything that’s been going on, I mainly feel exhausted and powerless,"
     publishedDateTime: 2022-12-10T07:42:00Z

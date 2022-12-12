@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-12T13:44:00Z
 originalUrl: "https://healthitsecurity.com/news/hc3-explores-cybersecurity-implications-of-automation-in-healthcare"
 webUrl: "https://healthitsecurity.com/news/hc3-explores-cybersecurity-implications-of-automation-in-healthcare"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: IT Security

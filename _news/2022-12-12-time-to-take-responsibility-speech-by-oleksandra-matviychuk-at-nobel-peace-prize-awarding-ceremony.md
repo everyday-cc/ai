@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-12T11:40:00Z
 originalUrl: "https://www.ukrinform.net/rubric-society/3632538-time-to-take-responsibility-speech-by-oleksandra-matviychuk-at-nobel-peace-prize-awarding-ceremony.html"
 webUrl: "https://www.ukrinform.net/rubric-society/3632538-time-to-take-responsibility-speech-by-oleksandra-matviychuk-at-nobel-peace-prize-awarding-ceremony.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Ukrinform

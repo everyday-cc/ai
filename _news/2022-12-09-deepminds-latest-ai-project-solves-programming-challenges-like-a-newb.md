@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/science/2022/12/deepminds-latest-ai-project-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2022/12/deepminds-latest-ai-project-solves-programming-challenges-like-a-newb/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://i.tribune.com.pk/media/images/AP7X5BUWQ5JXZL6W6Q23VXJ6FQ1670741708-0/AP7X5BUWQ5JXZL6W6Q23VXJ6FQ1670741708-0.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "DeepMind Builds AI That Codes as Well as the Average Human Programmer"
+    excerpt: "In an apparent effort to put themselves out of a job, DeepMind researchers have created an AI that can write code, and it performs surprisingly well in programming challenges."
+    publishedDateTime: 2022-12-12T13:24:00Z
+    webUrl: "https://www.extremetech.com/computing/341451-deepmind-builds-ai-that-codes-as-well-as-the-average-human-programmer"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 54
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2022/12/alphacode-deepmind-640x353.jpg"
+        width: 640
+        height: 353
         isCached: true
   - title: "Alphabet's DeepMind creates AI for drafting film scripts"
     excerpt: "DeepMind Technologies, part of Alphabet Inc., the parent company of Google, has created an AI that can be used to draft scripts for film and stage plays.  \"Language models are increasingly attracting interest from writers."

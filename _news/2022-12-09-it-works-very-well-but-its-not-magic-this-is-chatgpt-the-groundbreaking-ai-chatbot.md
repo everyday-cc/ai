@@ -131,22 +131,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "AI chatbot ChatGPT provides the internet with new meme machine"
-    excerpt: "Artificial intelligence (AI) chatbot ChatGPT has gone viral online, with the bot able to write entire songs, essays and poems on demand."
-    publishedDateTime: 2022-12-08T00:00:00Z
-    webUrl: "https://thenewdaily.com.au/life/tech/2022/12/08/chatgpt-artificial-intelligence/"
-    ampWebUrl: "https://thenewdaily.com.au/life/tech/2022/12/08/chatgpt-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/life/tech/2022/12/08/chatgpt-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: thenewdaily
-      domain: thenewdaily.com.au
-    quality: 59
-    images:
-      - url: "https://thenewdaily.com.au/wp-content/uploads/2022/12/1670477681-GettyImages-1258096414.jpg?resize=960,600"
-        width: 960
-        height: 600
-        isCached: true
   - title: "The 5 Best Uses (So Far) for ChatGPT's AI Chatbot"
     excerpt: "The new AI tool ChatGPT has inspired excitement and worry with its ability to instantly answer complex questions. In the days after its debut, people have discovered many ways it can make their lives easier -- including five we've found that rise above the rest."
     publishedDateTime: 2022-12-10T13:34:00Z
@@ -174,20 +158,6 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
-  - title: "Smashing Security podcast #301: AI chatbot or the start of Skynet? Eufy privacy, and hot desks"
-    excerpt: "An AI chatbot is causing a stir – both impressing and terrifying users in equal measure. A security researcher discovers that a “smart” cam that doesn’t use the internet is err.. using the internet. And university students revolt over under-the-belt surveillance."
-    publishedDateTime: 2022-12-08T00:00:00Z
-    webUrl: "https://grahamcluley.com/smashing-security-podcast-301/"
-    type: article
-    provider:
-      name: Graham Cluley
-      domain: grahamcluley.com
-    quality: 42
-    images:
-      - url: "https://grahamcluley.com/wp-content/uploads/2022/12/ss-episode-301.jpeg"
-        width: 730
-        height: 380
-        isCached: true
   - title: "Could a ’scary good’ AI chatbot backed by Elon Musk steal your job?"
     excerpt: "University as we know it will cease to exist. It genuinely feels like having a personal assistant. One of the most disruptive technologies ever created. Google is dead."
     publishedDateTime: 2022-12-08T04:11:00Z
@@ -198,17 +168,6 @@ related:
     provider:
       name: Couriermail
       domain: news.com.au
-    quality: 39
-  - title: "Does ChatGPT mean robots are coming for skilled jobs?"
-    excerpt: "Productivity gains in knowledge industries, like past gains in traditional industries, will make society richer and improve our lives in general."
-    publishedDateTime: 2022-12-07T22:22:00Z
-    webUrl: "https://www.seattletimes.com/opinion/does-chatgpt-mean-robots-are-coming-for-skilled-jobs/"
-    ampWebUrl: "https://www.seattletimes.com/opinion/does-chatgpt-mean-robots-are-coming-for-skilled-jobs/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/opinion/does-chatgpt-mean-robots-are-coming-for-skilled-jobs/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
     quality: 39
   - title: "Is ChatGPT the Start of the AI Revolution?"
     excerpt: "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skillset. On"
@@ -223,6 +182,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TYKMLGDXWUI63IMZSJ5TGS4TT4.jpg&w=1440"
         width: 1440
         height: 963
+        isCached: true
+  - title: "Is ChatGPT the start of the AI revolution? 聊天機器人ChatGPT 將掀起人工智慧革命？"
+    excerpt: "Have you heard of ChatGPT yet? It’s a thrilling, vexing, ontologically mesmerizing new technology created by the research group OpenAI. It can solve all your problems and answer all your questions. Or at least it will try to."
+    publishedDateTime: 2022-12-12T16:00:00Z
+    webUrl: "https://www.taipeitimes.com/News/lang/archives/2022/12/13/2003790595"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 37
+    images:
+      - url: "https://www.taipeitimes.com/images/2022/12/13/P14-221213-340.jpg"
+        width: 800
+        height: 800
         isCached: true
   - title: "We asked ChatGPT, A Groundbreaking AI Bot, Whether President Ramaphosa Should Resign?"
     excerpt: "ChatGPT, created by a company called OpenAi, is the viral AI tool that is immensely powerful and useful in many ways."
@@ -270,6 +243,15 @@ related:
       name: Nature
       domain: nature.com
     quality: 17
+  - title: "Artificial intelligence chatbot can code, compose music, write essays, and more"
+    excerpt: "We will increasingly have conversations with our computers to get the information we need or get them to do what we want them to do."
+    publishedDateTime: 2022-12-12T14:00:00Z
+    webUrl: "https://www.iol.co.za/business-report/economy/artificial-intelligence-chatbot-can-code-compose-music-write-essays-and-more-965dc588-9547-42c6-9ff1-d70568ebb01b"
+    type: article
+    provider:
+      name: Independent Online
+      domain: iol.co.za
+    quality: 15
   - title: "Could an A.I. Chatbot Rewrite My Novel?"
     excerpt: "As a young fiction writer, I dreamed of a technology that would tell me how to get my characters from point A to point B. Could ChatGPT be it?"
     publishedDateTime: 2022-12-09T19:50:00Z

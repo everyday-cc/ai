@@ -80,6 +80,15 @@ related:
       name: GM Authority
       domain: gmauthority.com
     quality: 4
+  - title: "Apple scales back self-driving car and delays debut till ’26"
+    excerpt: "Apple has scaled back ambitious self-driving plans for its future electric vehicle and postponed the car’s target launch date by about a year to 2026, according to people with knowledge of the matter."
+    publishedDateTime: 2022-12-12T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/apple-scales-back-self-driving-car-and-delays-debut-till-26/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 4
 
 secured: "/5Ws6NmB+ycNDRFLy5NnlK+N1GHHwMwW238l2f9vVUGJdumpSvW40PhqZNruaV8dCwpP7rdMFjeGp1GqOIgJxYrVUE+nL+esIqXux1Fq5Z+vQdK4LSEbKLxP3SxzK6mlMaJp7grxv182liLV6l4W9+iyIerJPs7RM+SSo+zdAy1HIHXrCmRjRx7n0Qgn9kXBMyCQ91fmhP2qb1hkU3z1gclSsX3m3Y8iy+jjL6MJEmlUHMZaXv8/bVknOFZHdn1zt7h5JM/cUK3zSzjXI7np8IvubCsSrr5JgsXV1KMmo0ASess3haIdWZfkkuMiTlryU1yF9ay0BW5McdNZsa5TuN0nqRsCalO6hVev2dGZx8NVViyDSmyo7Kxalfq86gJS8VA4iXbP/R5+nIuVbsfC0gq2RrEkullJJzVkQeP5Woo0N6pRjXnr+lOQxoTdJb8AUB8j7wPvUheDfkR3q9OMUnlPkWnIoDlgFWYKwQD2CJtCPajJzjPsHQNq386kJ6bGG8+J355KZ6yhjKCFVTTAgg==;xoTsP5H8flY5wAFBX2lcAg=="
 ---
