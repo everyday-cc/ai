@@ -19,20 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "Smoothly driving towards the holy grail of self-driving"
-    excerpt: "Cadillac Escalade promises assistance rather than autonomy, but a highway test drive shows its remarkable capability is a step in the right direction."
-    publishedDateTime: 2022-12-08T18:00:00Z
-    webUrl: "https://www.afr.com/companies/transport/smoothly-driving-towards-the-holy-grail-of-self-driving-20221205-p5c3n7"
+  - title: "Tesla speaks up on its inability to offer self-driving cars"
+    excerpt: "Tesla is being used by a customer for not offering self-driving cars yet. The company has filed a motion to dismiss the lawsuit as it is currently still working on the software."
+    publishedDateTime: 2022-12-09T12:41:00Z
+    webUrl: "https://www.digit.in/news/car-tech/tesla-speaks-up-on-its-inability-to-offer-self-driving-cars-66311.html"
+    ampWebUrl: "https://www.digit.in/article/amp/car-tech/66311/tesla-speaks-up-on-its-inability-to-offer-self-driving-cars"
+    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/car-tech/66311/tesla-speaks-up-on-its-inability-to-offer-self-driving-cars"
     type: article
     provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 39
+      name: Digit
+      domain: digit.in
+    quality: 59
     images:
-      - url: "https://static.ffx.io/images/$zoom_0.1858%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_85/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/b5f0d31f6474091e6bed8ce2f5b6960cac06732b"
-        width: 1200
-        height: 628
+      - url: "https://static.digit.in/default/fea-9-11-1280-1fc3fd6142.jpeg"
+        width: 1280
+        height: 720
         isCached: true
+  - title: "Watch How A Self-Driving Truck Reacts To A Catastrophic Tire Blowout"
+    excerpt: "One firm working on that problem, Kodiak, a self-driving trucking startup, just showed how well its software can handle a tire blowout. Kodiak Robotics is just one of many companies working on autonomous trucking but it’s one of very few showing off results."
+    publishedDateTime: 2022-12-10T13:09:00Z
+    webUrl: "https://www.carscoops.com/2022/12/watch-how-a-self-driving-truck-reacts-to-a-catastrophic-tire-blowout/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 4
 
 secured: "rHjg5+qtA4QQuw3/SjTkGCipWkIrcOLcy+1/96CGYLoX/2omn9KhlE9yyNVBFKoChv6J2YB22bPI/EADTTLX5zFtRmqwpnaxiyGmkYbTyTG3oigdjGVfAqJur+q5oOzXNaA7/nQyPI9TBgp2fCtstc9ZnVX/wmKPoX0wHFmeNjtGIWAzlpBlRxcaGXhc4Mbm5ZXOEeo3atr4cfwRkPZjgWcW/TCQHTUNtjNAEZot2kR04QG1jVvomDWDaRIewjlJs30Rs1m3X60pXIjZHfmKZVmZl2//wl29s9IJwyUL5/1KQ2CSkmm4pmEkiXcwpWmQQdeVmeEZgZByRWzJYGo+CPMJ3JodPHUJeZXFsuD0uK0=;rpwbAy1kpYkvIFKuPqUVug=="
 ---

@@ -43,20 +43,6 @@ related:
         width: 1561
         height: 781
         isCached: true
-  - title: "Use your own training scripts and automatically select the best model using hyperparameter optimization in Amazon SageMaker"
-    excerpt: "The success of any machine learning (ML) pipeline depends not just on the quality of model used, but also the ability to train and iterate upon this model. One of the key ways to improve an ML model is by choosing better tunable parameters, known as hyperparameters. This is known as hyperparameter optimization"
-    publishedDateTime: 2022-12-07T17:14:26Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-your-own-training-scripts-and-automatically-select-the-best-model-using-hyperparameter-optimization-in-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 78
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/07/use-your-own-training-scripts-sagemaker.jpg"
-        width: 1550
-        height: 772
-        isCached: true
   - title: "Prepare data from Amazon EMR for machine learning using Amazon SageMaker Data Wrangler"
     excerpt: "Data preparation is a principal component of machine learning (ML) pipelines. In fact, it is estimated that data professionals spend about 80 percent of their time on data preparation. In this intensive competitive market, teams want to analyze data and extract more meaningful insights quickly. Customers"
     publishedDateTime: 2022-12-08T18:59:46Z

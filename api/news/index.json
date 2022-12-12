@@ -132,6 +132,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-12-brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge.md",
+      "title": "BrainChip Joins Intel Foundry Services to Advance Neuromorphic AI at the Edge",
+      "excerpt": "LAGUNA HILLS, CA / ACCESSWIRE / / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(OTC:BCHPY), the world's first commercial producer of ultra-low power neuromorphic AI IP, today announced that it has",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/12/ac30033830/brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/ac30033830/brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
+          "width": 800,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30033830",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30033830",
+      "publishedDateTime": "2022-12-11T13:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-12-business-leaders-are-still-nervous-about-the-side-effects-of-artificial-intelligence.md",
       "title": "Business Leaders Are Still Nervous About the Side Effects Of Artificial Intelligence",
       "excerpt": "Real money — and lots of it — is on the line, and, ultimately, there is fear that AI may be more fad than substance.",
@@ -311,6 +354,57 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-11-this-week-in-apps-apple-app-stores-new-pricing-twitter-app-makers-shift-to-mastodon-debate-over-lensa-ai.md",
+      "title": "This Week in Apps: Apple App Store’s new pricing, Twitter app makers shift to Mastodon, debate over Lensa AI",
+      "excerpt": "This Week in Apps offers a way to keep up with the latest from the world of apps, including news, updates, startup fundings, M&As and much more.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/12/10/this-week-in-apps-apple-app-stores-new-pricing-twitter-app-makers-shift-to-mastodon-debate-over-lensa-ai/",
+      "originalUrl": "https://techcrunch.com/2022/12/10/this-week-in-apps-apple-app-stores-new-pricing-twitter-app-makers-shift-to-mastodon-debate-over-lensa-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/this-week-in-apps-splash-2022.webp?resize=1200,637",
+          "width": 1200,
+          "height": 637,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/12/10/this-week-in-apps-apple-app-stores-new-pricing-twitter-app-makers-shift-to-mastodon-debate-over-lensa-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/10/this-week-in-apps-apple-app-stores-new-pricing-twitter-app-makers-shift-to-mastodon-debate-over-lensa-ai/amp/",
+      "publishedDateTime": "2022-12-10T11:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -626,7 +720,7 @@
       "originalUrl": "https://venturebeat.com/ai/venturebeat-lab-to-launch-in-depth-ai-article-series-with-insights-from-microsoft-and-nvidia/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -869,7 +963,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/09/is-ai-generated-art-true-art-implications-and-considerations-for-businesses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1017,6 +1111,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-09-tesla-speaks-up-on-its-inability-to-offer-self-driving-cars.md",
+      "title": "Tesla speaks up on its inability to offer self-driving cars",
+      "excerpt": "Tesla is being used by a customer for not offering self-driving cars yet. The company has filed a motion to dismiss the lawsuit as it is currently still working on the software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digit.in/news/car-tech/tesla-speaks-up-on-its-inability-to-offer-self-driving-cars-66311.html",
+      "originalUrl": "https://www.digit.in/news/car-tech/tesla-speaks-up-on-its-inability-to-offer-self-driving-cars-66311.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.digit.in/default/fea-9-11-1280-1fc3fd6142.jpeg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digit.in/article/amp/car-tech/66311/tesla-speaks-up-on-its-inability-to-offer-self-driving-cars",
+      "cdnAmpWebUrl": "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/car-tech/66311/tesla-speaks-up-on-its-inability-to-offer-self-driving-cars",
+      "publishedDateTime": "2022-12-09T04:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digit",
+        "domain": "digit.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-09-four-steps-for-building-an-ai-center-of-excellence.md",
       "title": "Four Steps For Building An AI Center Of Excellence",
       "excerpt": "The road to digital transformation is long and complex—but a solid AI program is a step in the right direction.",
@@ -1064,154 +1201,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-the-final-freedom-the-role-of-artificial-intelligence-in-the-workplace.md",
-      "title": "The Final Freedom: The Role Of Artificial Intelligence In The Workplace",
-      "excerpt": "The reality is that AI does something unique in our technological evolution because rather than simply replicate and improve our interactions with the physical world, or accelerate rote tasks through automation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/09/the-final-freedom-the-role-of-artificial-intelligence-in-the-workplace/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/09/the-final-freedom-the-role-of-artificial-intelligence-in-the-workplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f93379ac3fffcbce128eacc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/09/the-final-freedom-the-role-of-artificial-intelligence-in-the-workplace/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/09/the-final-freedom-the-role-of-artificial-intelligence-in-the-workplace/amp/",
-      "publishedDateTime": "2022-12-09T02:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-ai-where-do-ethics-stop-and-regulations-begin.md",
-      "title": "AI - where do ethics stop, and regulations begin?",
-      "excerpt": "When it comes to artificial intelligence (AI) and its growing impact on our lives ... takes away their agency and doesn't leave them feeling empowered. Our public research shows again and again that people would like to see more regulation, even if ...",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/ai-where-do-ethics-stop-and-regulations-begin",
-      "originalUrl": "https://diginomica.com/ai-where-do-ethics-stop-and-regulations-begin",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2022-12/79C074A5-39C0-49A0-A419-160B1EAFFC00.jpeg",
-          "width": 640,
-          "height": 369,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/ai-where-do-ethics-stop-and-regulations-begin?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-where-do-ethics-stop-and-regulations-begin?amp",
-      "publishedDateTime": "2022-12-09T02:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-privacy-compute-market-next-big-thing-with-major-giants-basebitai-google-cloud-microsoft-azure-ibm-cloud.md",
-      "title": "Privacy Compute Market Next Big Thing With Major Giants Basebit.ai, Google Cloud, Microsoft Azure, IBM Cloud",
-      "excerpt": "United State- Infinity Business Insights, a leading market research firm, has announced the release of its latest report",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/privacy-compute-market-next-big-thing-with-major-giants-basebitai-google-cloud-microsoft-azure-ibm-cloud-2022-12-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/privacy-compute-market-next-big-thing-with-major-giants-basebitai-google-cloud-microsoft-azure-ibm-cloud-2022-12-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-08T21:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

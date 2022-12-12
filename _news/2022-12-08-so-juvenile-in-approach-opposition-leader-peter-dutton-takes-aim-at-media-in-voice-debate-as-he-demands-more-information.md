@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Indigenous voice model to be decided after referendum"
+    excerpt: "The Albanese government will not introduce legislation on a ­proposed model for the Indigenous voice until after Australians go to a referendum in the second half of 2023."
+    publishedDateTime: 2022-12-12T10:34:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-model-to-be-decided-after-referendum/news-story/063bab9c6caf70ac8bbdb80ca7a6ac3c"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
 
 secured: "CE4a5mHsryM9QMmolFFPqk49KN65teOiDLPJQJNZlJRpjA1DLVgaxsIl8EqDiBEKNxmqxHm2yR3It0T+8UFVhWtE/caYLHImRnyAIiZ/2Ol4ZOdcom6zI48hlDEi97uNVLXDkuhSbr4coYcGvqjGJVOiounDRqlAHULvay/4a8Z0kZtgrdqpC94D8YxDk+d3PjjLhiQTDW2T9FT4EBD24xQzbRzWwn52CA1X0vxBXR4UuHIofiL8DuUSMnfnEEYL+J717sq7uS7WwwiIVpnvZUDxD7FDjVJnDX8dt3F6KStBHVTgWiqExWkgs2hR8lpVdqdq+NZa8xAzMtmEDlsOmAULWUcLuonzmluHKXvkhH2emfTS+PBQNssEc+N4BBul4OsQW65Fpc4a8HsXU4gY7qofiNZIFM69W4LvAmJvUK/QpZ+9DQohMrEQ1GTixGq2fTRt45g2rWrHOf6FqCS/mv/ywxBrSCc0jDTnBPLUiSMwSWTBbyEUHbQOZvi+M+muks3Vc0e56GD2VmGOGmLylQ==;lDd/80gESmNuUjzxhlYjIQ=="
 ---

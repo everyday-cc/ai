@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/09/is-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/09/is-ai-generated-art-true-art-implications-and-considerations-for-businesses/amp/"
 type: article
 quality: 85
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Startup pioneers new use case for generative AI: Building business applications"
-    excerpt: "Qatalog 2.0 deploys generative AI to automatically generate workspaces for specific industry verticals based on each client's needs."
-    publishedDateTime: 2022-12-07T18:07:00Z
-    webUrl: "https://venturebeat.com/ai/startup-deploys-generative-ai-to-help-build-business-applications/"
-    ampWebUrl: "https://venturebeat.com/ai/startup-deploys-generative-ai-to-help-build-business-applications/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/startup-deploys-generative-ai-to-help-build-business-applications/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/Generative-AI-e1668186981244.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Kinetix combines AI and 3D animation to automate user-generated emotes for games"
     excerpt: "Kinetix is combining 3D animation and AI to automate the process of creating user-generated emotes for video games and virtual worlds."
     publishedDateTime: 2022-12-08T04:00:00Z

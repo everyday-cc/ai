@@ -1,65 +1,29 @@
 ---
 category: news
 title: "Is ChatGPT the Start of the AI Revolution?"
-excerpt: "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skill"
-publishedDateTime: 2022-12-09T10:30:00Z
-originalUrl: "https://www.bloomberg.com/opinion/articles/2022-12-09/is-chatgpt-the-start-of-the-ai-revolution"
-webUrl: "https://www.bloomberg.com/opinion/articles/2022-12-09/is-chatgpt-the-start-of-the-ai-revolution"
+excerpt: "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skillset. On"
+publishedDateTime: 2022-12-09T12:40:00Z
+originalUrl: "https://www.washingtonpost.com/business/is-chatgpt-the-start-of-the-ai-revolution/2022/12/09/9eb9dfec-77b5-11ed-a199-927b334b939f_story.html"
+webUrl: "https://www.washingtonpost.com/business/is-chatgpt-the-start-of-the-ai-revolution/2022/12/09/9eb9dfec-77b5-11ed-a199-927b334b939f_story.html"
 type: article
-quality: 67
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg L.P.
-  domain: bloomberg.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Washington Post
+  domain: washingtonpost.com
 
 topics:
   - AI
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifzBIsn2zMPo/v1/1200x802.jpg"
-    width: 1200
-    height: 802
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TYKMLGDXWUI63IMZSJ5TGS4TT4.jpg&w=1440"
+    width: 1440
+    height: 963
     isCached: true
 
 related:
-  - title: "Why Everyone's Obsessed With ChatGPT, a Mindblowing AI Chatbot"
-    excerpt: "This artificial intelligence bot is an impressive writer, but you should still be careful how much you trust its answers."
-    publishedDateTime: 2022-12-07T18:31:00Z
-    webUrl: "https://www.cnet.com/tech/computing/why-everyones-obsessed-with-chatgpt-a-mindblowing-ai-chatbot/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/why-everyones-obsessed-with-chatgpt-a-mindblowing-ai-chatbot/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/why-everyones-obsessed-with-chatgpt-a-mindblowing-ai-chatbot/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://www.cnet.com/a/img/resize/084641681c8362c3ce0c3eb8a53365351adcaaac/hub/2022/12/06/3dd7180c-d0e7-47ca-bc37-b5df15a41a25/ai-chat-gettyimages.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Why Everyone's Obsessed With ChatGPT, a Mind-Blowing AI Chatbot"
-    excerpt: "This artificial intelligence bot is an impressive writer, but you should still be careful how much you trust its answers."
-    publishedDateTime: 2022-12-07T18:31:00Z
-    webUrl: "https://www.cnet.com/tech/computing/why-everyones-obsessed-with-chatgpt-a-mindblowing-ai-chatbot/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/why-everyones-obsessed-with-chatgpt-a-mindblowing-ai-chatbot/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/why-everyones-obsessed-with-chatgpt-a-mindblowing-ai-chatbot/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://www.cnet.com/a/img/resize/084641681c8362c3ce0c3eb8a53365351adcaaac/hub/2022/12/06/3dd7180c-d0e7-47ca-bc37-b5df15a41a25/ai-chat-gettyimages.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "ChatGPT: Why Everyone's Obsessed With This Mind-Blowing AI Chatbot"
     excerpt: "This artificial intelligence bot is an impressive writer and conversationalist. But be careful how much you trust its answers."
     publishedDateTime: 2022-12-08T18:47:00Z
@@ -223,6 +187,20 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
+  - title: "Smashing Security podcast #301: AI chatbot or the start of Skynet? Eufy privacy, and hot desks"
+    excerpt: "An AI chatbot is causing a stir – both impressing and terrifying users in equal measure. A security researcher discovers that a “smart” cam that doesn’t use the internet is err.. using the internet. And university students revolt over under-the-belt surveillance."
+    publishedDateTime: 2022-12-08T00:00:00Z
+    webUrl: "https://grahamcluley.com/smashing-security-podcast-301/"
+    type: article
+    provider:
+      name: Graham Cluley
+      domain: grahamcluley.com
+    quality: 42
+    images:
+      - url: "https://grahamcluley.com/wp-content/uploads/2022/12/ss-episode-301.jpeg"
+        width: 730
+        height: 380
+        isCached: true
   - title: "ChatGPT is the clearest example of how seamless AI has become"
     excerpt: "OpenAI's new program creates stories, poems and other text that can be mistaken for human made. That comes with issues."
     publishedDateTime: 2022-12-07T21:00:00Z
@@ -237,6 +215,17 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "Could a ’scary good’ AI chatbot backed by Elon Musk steal your job?"
+    excerpt: "University as we know it will cease to exist. It genuinely feels like having a personal assistant. One of the most disruptive technologies ever created. Google is dead."
+    publishedDateTime: 2022-12-08T04:11:00Z
+    webUrl: "https://www.news.com.au/technology/innovation/could-a-scary-good-ai-chatbot-backed-by-elon-musk-steal-your-job/news-story/269954d2b424e56168f30782d5d223fa"
+    ampWebUrl: "https://www.news.com.au/technology/innovation/could-a-scary-good-ai-chatbot-backed-by-elon-musk-steal-your-job/news-story/269954d2b424e56168f30782d5d223fa?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/innovation/could-a-scary-good-ai-chatbot-backed-by-elon-musk-steal-your-job/news-story/269954d2b424e56168f30782d5d223fa?amp"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 39
   - title: "Does ChatGPT mean robots are coming for skilled jobs?"
     excerpt: "Productivity gains in knowledge industries, like past gains in traditional industries, will make society richer and improve our lives in general."
     publishedDateTime: 2022-12-07T22:22:00Z
@@ -271,20 +260,6 @@ related:
       name: CNN
       domain: cnn.com
     quality: 31
-  - title: "If you think ChatGPT could make Google or knowledge jobs obsolete, wait till GPT-4 arrives"
-    excerpt: "It is the first time such a powerful tool has been made available to the general public through a free, easy-to-use Web interface. Read more at straitstimes.com."
-    publishedDateTime: 2022-12-11T23:26:00Z
-    webUrl: "https://www.straitstimes.com/tech/tech-news/if-you-think-chatgpt-could-make-google-or-knowledge-jobs-obsolete-wait-till-gpt-4-arrives"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 29
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/12/12/artificial-intelligence-2167835150.jpg_0.png?VersionId=PCKMbY8dBX45eL9xsLKnR600ElLv0h5n"
-        width: 860
-        height: 573
-        isCached: true
   - title: "We Prompted ChatGPT to be a Translation Manager"
     excerpt: "After Slator tested the waters by asking ChatGPT questions about the language industry, we took it a few steps forward by producing a video with ChatGPT, Synthesia, and Descript. First, we asked ChatGPT to answer questions as if they were a translation manager on a podcast."
     publishedDateTime: 2022-12-09T10:41:00Z
@@ -318,6 +293,6 @@ related:
       domain: newyorker.com
     quality: 4
 
-secured: "z2pUC7R+IUyNOAQiSWKfO8NuySJFp47lI5Zbod+5yppokZ9+HK7frvMGMP+yUmhizlpgclhglF7UWAPSc+4EftoW0kOoMrcjMn7GZw8DB98ShIbJTFjVKIgZPTVJeovpIP2KjXLSuL/FJrbQK5arBe56eeUBKoZa4+v8QjmxoS58fHidy07MlPeIuL5aaya3OWLJxc19uAeWqhPgRdPf8pKobzE20kqGRZsZGe+GU+KHgLvsJb28/yYuC5Hp/L8FlwoE5z5PqZP9fN6FGFcc6u94ABEUwmgA30JJUcJ8Hl7jYur6eCTQj9CuRK4sBNRlxnezRBhFCssDKOwFE3P6ppF7eLXd2IYkRjjeJ4IOtk8=;+rNQEGW83f5WQ4woyRctUA=="
+secured: "jjFH4Q1Kv5cuz2MTTEkyKhTQlgQXPpSxU4AtDhOgLm5tT88DA8Hx4X4esBgQcwBR6cz4ES9U4Fi0/dL50DpwKeCncGEtpwLS/NqjODVJwet4xYi6eppX3V0EXf2KFMITRhv+yYmQHwQaZrnOEI03yhWbfPV8ocv0/SvbwjbMD68TvZ/3uen9/4k6n1/EXp1qZDab0xwL4Eiyqp0R6GrfGVYB54do+UFYEqvp/2TprauthCfGUvqLcaaZkVziTe/MwUQAezTf4U5GS6A1BPy/qNPGBMrOoXLainJo+eZJQT/uU98JMwF2RHpHZMm/WFwITuVlhguxnkfhTMif0M/MSUggKM2x9fPt70+yloFJQ5Q=;yDMy0KTp66Wm118KV3G3tA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/venturebeat-lab-to-launch-in-depth-ai-art
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/venturebeat-lab-to-launch-in-depth-ai-article-series-with-insights-from-microsoft-and-nvidia/amp/"
 type: article
 quality: 93
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Drone Express Partners with Microsoft to Develop Artificial Intelligence (AI) Delivery Drones"
-    excerpt: "Drone Express, an innovative last-mile logistics company, has partnered with Microsoft to launch a new version of their DE-2020 drone using Artificial Intelligence (AI) for"
-    publishedDateTime: 2022-12-07T17:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/12/n29996460/drone-express-partners-with-microsoft-to-develop-artificial-intelligence-ai-delivery-drones"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29996460"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29996460"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 78
-    images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
-        width: 800
-        height: 313
-        isCached: true
   - title: "Tata Tele Business Services to offer Microsoft Azure to SMBs in India"
     excerpt: "This will enable SMBs to modernize their operations with smooth movement of business workloads to the cloud on a pay-as-you-go model and deliver better experience to their customers even as they scale faster,"
     publishedDateTime: 2022-12-08T03:49:00Z

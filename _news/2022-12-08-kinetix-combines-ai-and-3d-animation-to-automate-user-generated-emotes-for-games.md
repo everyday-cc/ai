@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 688
         isCached: true
-  - title: "Startup pioneers new use case for generative AI: Building business applications"
-    excerpt: "Qatalog 2.0 deploys generative AI to automatically generate workspaces for specific industry verticals based on each client's needs."
-    publishedDateTime: 2022-12-07T18:07:00Z
-    webUrl: "https://venturebeat.com/ai/startup-deploys-generative-ai-to-help-build-business-applications/"
-    ampWebUrl: "https://venturebeat.com/ai/startup-deploys-generative-ai-to-help-build-business-applications/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/startup-deploys-generative-ai-to-help-build-business-applications/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/Generative-AI-e1668186981244.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Nations Trading Their AI As Geopolitical Bargaining Chips Raises Angst For AI Ethics And AI Law"
     excerpt: "AI is increasingly going to become a type of horse trading between nations. Do we want this to occur? Should there be special limits imposed? A plethora of AI Ethics and AI Law ramifications arise. Read all about it."
     publishedDateTime: 2022-12-09T13:00:00Z

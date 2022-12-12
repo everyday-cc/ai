@@ -3,12 +3,12 @@ category: news
 title: "What to know about Lensa, the AI portrait app all over social media"
 excerpt: "If you've logged on to any social media app this week, you've probably seen pictures of your friends, but re-imagined as fairy princesses, animé characters, or celestial beings."
 publishedDateTime: 2022-12-11T20:18:00Z
-originalUrl: "https://www.cnn.com/style/article/lensa-ai-app-art-explainer-trnd"
-webUrl: "https://www.cnn.com/style/article/lensa-ai-app-art-explainer-trnd"
-ampWebUrl: "https://www.cnn.com/style/amp/lensa-ai-app-art-explainer-trnd"
-cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/lensa-ai-app-art-explainer-trnd"
+originalUrl: "https://www.cnn.com/style/article/lensa-ai-app-art-explainer-trnd/index.html"
+webUrl: "https://www.cnn.com/style/article/lensa-ai-app-art-explainer-trnd/index.html"
+ampWebUrl: "https://www.cnn.com/style/amp/lensa-ai-app-art-explainer-trnd/index.html"
+cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/lensa-ai-app-art-explainer-trnd/index.html"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - AI in Autos
   - AI
 
 images:
@@ -111,6 +112,6 @@ related:
       domain: theguardian.com
     quality: 13
 
-secured: "5Pr0ujYKjjOzBGCpKULjjRqszRQPkgNU6yNZrsHj5q21tcvtdqqZJI9vDHS4JuW6DU51MxIrpTepidow8XOEYSjOwoGpMIgJqfXD7xe+lwehFuPbEc9/Paa1G+/BE4gLA/tvtK+NmZ/iL3EGq5nmqHwviqVauBsDaGdXcAS4CFi3v6AW5dOsmiZedunN5ls/fxvA17RJHosXOqYWcbs0d5AZKe5sxhpJ/IDdSOjwkYxSI2ofd4H9nbvWv4A6VV69kKF05XmxbW2+f+H7Kzqh0CP06JO0bLvfJ01PPLX45S78SAubO0Iv5mlq3OykVBhFmsnYSLh3ug7gABNpx2gRDnCTLdVze0SXuf5oub54Ww4=;aexOOI92+TZBnOOF0ti7zw=="
+secured: "pZRwQvmphAi676zkhbaTPGBIsSgSOK1EFi8X5XY5tiuZLStYwnjpRq0d1Pf+yIWpC++xz8EF2reFTmGe7nZ/mFiKTcwqQLz7v3wU3AN7ZQBwT10wxgNqNdmKsxVub2gm8ENX1SIxS5OKsIfmUAHL2ab2i168gF/fJpb7/tv+IH5c8eNtniiD3/UJ82Rkzk3wJ0O+Jw8XTk8BDodEFue/EhkN0fj8ZjMPvQpc/Xl/+i9Y3K+aiV97vMAGN3k+rQCDgpK6PxaM/0skIhUofBQ4m2H7Hif0eALf9hJ1o97GNRwvGwdG5xPkFwZmS2MH3d05hlbf/xWVYH7KUnJSI9aqxi6F8jgDFkZcjGyhz9jakZM=;pIOy+cTg4TFyZEApkiPFZA=="
 ---
 

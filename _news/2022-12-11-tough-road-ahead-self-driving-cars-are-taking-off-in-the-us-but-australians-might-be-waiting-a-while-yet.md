@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Watch How A Self-Driving Truck Reacts To A Catastrophic Tire Blowout"
-    excerpt: "One firm working on that problem, Kodiak, a self-driving trucking startup, just showed how well its software can handle a tire blowout. Kodiak Robotics is just one of many companies working on autonomous trucking but it’s one of very few showing off results."
-    publishedDateTime: 2022-12-10T13:09:00Z
-    webUrl: "https://www.carscoops.com/2022/12/watch-how-a-self-driving-truck-reacts-to-a-catastrophic-tire-blowout/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 4
   - title: "Australian artists accuse popular AI imaging app of stealing content, call for stricter copyright laws"
     excerpt: "Developer of software denies allegations, saying Lensa learns to create portraits just as a human would – by learning different artistic styles"
     publishedDateTime: 2022-12-11T13:02:00Z

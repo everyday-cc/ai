@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-22-how-spotify-trained-an-ai-to-transcribe-music.md",
+      "title": "How Spotify trained an AI to transcribe music",
+      "excerpt": "This tool uses a machine learning model to detect the different notes in an audio clip and turn it into a MIDI file.",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/technology/spotify-basic-pitch/",
+      "originalUrl": "https://www.popsci.com/technology/spotify-basic-pitch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2022/11/21/parsoa-khorsand-OhHPxRrhBIM-unsplash-scaled.jpg?auto=webp",
+          "width": 2560,
+          "height": 1755,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/technology/spotify-basic-pitch/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/spotify-basic-pitch/?amp",
+      "publishedDateTime": "2022-11-21T15:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-11-22-beyond-the-banhammer-how-ai-is-changing-content-moderation.md",
       "title": "Beyond the banhammer: How AI is changing content moderation",
       "excerpt": "NLP can help manage player-generated content at scale to increase retention, promote positivity, and build a fun game community.",
@@ -1325,40 +1368,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-05-google-wants-ai-in-one-thousand-languages.md",
-      "title": "Google wants AI in one thousand languages",
-      "excerpt": "Data is crucial to advances in AI, and Google and its big ... this year announced a similar plan called No Language Left Behind designed to create translation systems to cover hundreds of world ...",
-      "sourceUrl": null,
-      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/google-wants-ai-in-one-thousand-languages/95276087",
-      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/google-wants-ai-in-one-thousand-languages/95276087",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-05T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "brandequity.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

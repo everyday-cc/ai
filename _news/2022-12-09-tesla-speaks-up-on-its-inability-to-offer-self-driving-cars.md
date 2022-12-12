@@ -9,8 +9,8 @@ ampWebUrl: "https://www.digit.in/article/amp/car-tech/66311/tesla-speaks-up-on-i
 cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/car-tech/66311/tesla-speaks-up-on-its-inability-to-offer-self-driving-cars"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Digit
@@ -27,55 +27,23 @@ images:
     isCached: true
 
 related:
-  - title: "Uber launching self-driving cars in Las Vegas"
-    excerpt: "Ridehailing giant Uber is now offering Las Vegas riders the option on its app to hail a self-driving taxis developed by another company, according to a press release Wednesday. While the autonomous vehicles are currently only available for ride hailing in Las Vegas,"
-    publishedDateTime: 2022-12-07T17:59:00Z
-    webUrl: "https://www.cnn.com/2022/12/07/tech/uber-motional-self-driving-vegas"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/12/07/tech/uber-motional-self-driving-vegas/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/12/07/tech/uber-motional-self-driving-vegas/index.html"
+  - title: "Payne: Riding along with my self-driving Tesla student driver"
+    excerpt: "Payne's Model 3 carries Full Self Driving, Tesla's ambitious software that enables the car to drive itself on public roads, an upgrade over Autopilot."
+    publishedDateTime: 2022-12-10T03:00:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2022/12/10/payne-rides-along-with-his-self-driving-tesla-student-driver/69710439007/"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 74
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/221207085819-01-uber-robotaxi-las-vegas-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Apple to release their car in 2026, will not be able to give full self-driving feature at launch"
-    excerpt: "Apple will be launching their first car in 2026. The car will cost about $100,000, use specially designed Apple silicon and will not have full self-driving features."
-    publishedDateTime: 2022-12-08T02:41:00Z
-    webUrl: "https://www.firstpost.com/tech/news-analysis/apple-to-release-their-car-in-2026-will-not-be-able-to-give-full-self-driving-feature-at-launch-11770371.html"
-    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/apple-to-release-their-car-in-2026-will-not-be-able-to-give-full-self-driving-feature-at-launch-11770371.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/apple-to-release-their-car-in-2026-will-not-be-able-to-give-full-self-driving-feature-at-launch-11770371.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 31
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2022/12/Apple-to-release-their-car-in-2026-will-not-be-able-to-give-full-self-driving-feature-at-launch.jpg"
-        width: 640
-        height: 362
-        isCached: true
-  - title: "Uber launches robotaxi service using fleet of Hyundai IONIQ 5"
-    excerpt: "Taking the driverless experience to a whole new level, ride-hailing giant Uber has launched a Level Four autonomous taxi service in Las Vegas, United States"
-    publishedDateTime: 2022-12-08T13:34:00Z
-    webUrl: "https://www.newsbytesapp.com/news/auto/uber-launches-level-four-self-driving-taxis-features-technology/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
+      name: Detroit News
+      domain: detroitnews.com
     quality: 19
-  - title: "2023 CES: 200 French Tech start-ups on their way to Las Vegas"
-    excerpt: "Business France is supporting a large French delegation with 200 start-ups1 Tech pavilion: Eureka Park – Hall G booth 602001 Vehicle pavilion: LVCC – West Hall booth 54005th January: French Tech eveni"
-    publishedDateTime: 2022-12-08T17:13:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/12/n30012069/2023-ces-200-french-tech-start-ups-on-their-way-to-las-vegas"
+  - title: "Watch How A Self-Driving Truck Reacts To A Catastrophic Tire Blowout"
+    excerpt: "One firm working on that problem, Kodiak, a self-driving trucking startup, just showed how well its software can handle a tire blowout. Kodiak Robotics is just one of many companies working on autonomous trucking but it’s one of very few showing off results."
+    publishedDateTime: 2022-12-10T13:09:00Z
+    webUrl: "https://www.carscoops.com/2022/12/watch-how-a-self-driving-truck-reacts-to-a-catastrophic-tire-blowout/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Carscoops
+      domain: carscoops.com
     quality: 4
 
 secured: "CMQzrcCx/Z2keRwtmPQ6ixAvyXMgCcvtv+Db9tfG4gmeL31KzpECJQdQ40U9MrZnV3nUdqgMa4VpRly2K1oi3xM4psAH5wwfkSnL5kgBufEk0rIZnASanjU3tM91eaIWdngStcLuxw0q6UF1SQGiFA2C+SMj1+xLSmbzoGTO7ret999re2MTC21eVughV4DDlCFRVss9mlbeyFc/AOxYtpcGNW32gC2G8pFvTUfjyalYaw59UH4mtIJgzmgiX8q87Bv7KHTjaFNs+gFK5IudK32fecOgx9+Lj8alKZFpqELePX5rN09FHEW98Z3PZ+lQ9zCSqCTOEVATS+vedRWeGVmi42kMHbomSBFqYVWnOwI=;uiV0zOrlrhtH55JG5cTzvg=="

@@ -36,15 +36,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Watch How A Self-Driving Truck Reacts To A Catastrophic Tire Blowout"
-    excerpt: "One firm working on that problem, Kodiak, a self-driving trucking startup, just showed how well its software can handle a tire blowout. Kodiak Robotics is just one of many companies working on autonomous trucking but it’s one of very few showing off results."
-    publishedDateTime: 2022-12-10T13:09:00Z
-    webUrl: "https://www.carscoops.com/2022/12/watch-how-a-self-driving-truck-reacts-to-a-catastrophic-tire-blowout/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 4
 
 secured: "7idApxgfeD73B8GSOtcihcfFfxFlfpqZ4FzBsRHwMYFWFwappepLrC99gG2m3B2XWsowY491K74QdCg3NldTPgtnAOJyIMYmtFM6bUvzghHqt1TW8qqZ3ozZKV2NSxbpgcljvL/8j9TxpeUPaNeOuldf75r0IlIr+Ku/d1YB+IlsOhFrjHokoVLJmKMfhi9tH8KTnUdxOMJ8ybwRN1p0XaK5ydYZaFX2+JDQDjZHbYLyKi+Qacw2Gm112aetKEh/H91VKBJ/y642NTrh2knIrvW1UkSSkJndHGYMETzUjOJ7tmnGbolhFO/ZCSRxAVzNtyyrtgVsVABtXyScIcEK4MOnFx30RcX9ez/NCzA6WoeFE5kTsQaZm/kKchhsxCsNnag+5wSpdPhKHq2irKNYek/SMoi19HANOoV/7dnOEAuFE5HWJDS6MVc+d4hPATiscHMDKvWknXKyESqzrPbDFsjfTGdzy6T74hU2jEDFQMwsZTAT/TTIAdHKAyJq00MGBnVYvfNQ/aLeXvMCAjYETg==;xvLg7kOADflOxDqeooWxYA=="
 ---

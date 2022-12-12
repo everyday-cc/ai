@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/chatgpt-why-everyones-obsessed-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/chatgpt-why-everyones-obsessed-with-this-mind-blowing-ai-chatbot/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 297
+published: true
 
 provider:
   name: CNET
@@ -30,38 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why Everyone's Obsessed With ChatGPT, a Mindblowing AI Chatbot"
-    excerpt: "This artificial intelligence bot is an impressive writer, but you should still be careful how much you trust its answers."
-    publishedDateTime: 2022-12-07T18:31:00Z
-    webUrl: "https://www.cnet.com/tech/computing/why-everyones-obsessed-with-chatgpt-a-mindblowing-ai-chatbot/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/why-everyones-obsessed-with-chatgpt-a-mindblowing-ai-chatbot/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/why-everyones-obsessed-with-chatgpt-a-mindblowing-ai-chatbot/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://www.cnet.com/a/img/resize/084641681c8362c3ce0c3eb8a53365351adcaaac/hub/2022/12/06/3dd7180c-d0e7-47ca-bc37-b5df15a41a25/ai-chat-gettyimages.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Why Everyone's Obsessed With ChatGPT, a Mind-Blowing AI Chatbot"
-    excerpt: "This artificial intelligence bot is an impressive writer, but you should still be careful how much you trust its answers."
-    publishedDateTime: 2022-12-07T18:31:00Z
-    webUrl: "https://www.cnet.com/tech/computing/why-everyones-obsessed-with-chatgpt-a-mindblowing-ai-chatbot/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/why-everyones-obsessed-with-chatgpt-a-mindblowing-ai-chatbot/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/why-everyones-obsessed-with-chatgpt-a-mindblowing-ai-chatbot/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://www.cnet.com/a/img/resize/084641681c8362c3ce0c3eb8a53365351adcaaac/hub/2022/12/06/3dd7180c-d0e7-47ca-bc37-b5df15a41a25/ai-chat-gettyimages.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI ChatGPT Is A Huge Fan Of Elon Musk, Not-So-Much Google, Amazon And Apple"
     excerpt: "Silicon Valley has been obsessed with ChatGPT since it launched on Nov. 30. The impressive chatbot, created by Elon Musk founded startup OpenAI, has racked up more than a million users in its first five days and is likely to report astounding session times as people find themselves drawn more and more to this charming AI."
     publishedDateTime: 2022-12-09T21:01:00Z
@@ -136,20 +104,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Is ChatGPT the Start of the AI Revolution?"
-    excerpt: "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skill"
-    publishedDateTime: 2022-12-09T10:30:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2022-12-09/is-chatgpt-the-start-of-the-ai-revolution"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifzBIsn2zMPo/v1/1200x802.jpg"
-        width: 1200
-        height: 802
-        isCached: true
   - title: "ChatGPT proves AI is finally mainstream — and things are only going to get weirder"
     excerpt: "He knows I write about AI and is the sort of guy who keeps up with whatever’s trending online. We chatted a bit, and I asked him: “and what do you think of ChatGPT?” To which he replied: “Well, I wrote a half-decent Excel macro with it this morning that saved me a few hours at work” — and my jaw dropped."
     publishedDateTime: 2022-12-08T15:31:00Z
@@ -223,6 +177,20 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
+  - title: "Smashing Security podcast #301: AI chatbot or the start of Skynet? Eufy privacy, and hot desks"
+    excerpt: "An AI chatbot is causing a stir – both impressing and terrifying users in equal measure. A security researcher discovers that a “smart” cam that doesn’t use the internet is err.. using the internet. And university students revolt over under-the-belt surveillance."
+    publishedDateTime: 2022-12-08T00:00:00Z
+    webUrl: "https://grahamcluley.com/smashing-security-podcast-301/"
+    type: article
+    provider:
+      name: Graham Cluley
+      domain: grahamcluley.com
+    quality: 42
+    images:
+      - url: "https://grahamcluley.com/wp-content/uploads/2022/12/ss-episode-301.jpeg"
+        width: 730
+        height: 380
+        isCached: true
   - title: "ChatGPT is the clearest example of how seamless AI has become"
     excerpt: "OpenAI's new program creates stories, poems and other text that can be mistaken for human made. That comes with issues."
     publishedDateTime: 2022-12-07T21:00:00Z
@@ -237,6 +205,17 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "Could a ’scary good’ AI chatbot backed by Elon Musk steal your job?"
+    excerpt: "University as we know it will cease to exist. It genuinely feels like having a personal assistant. One of the most disruptive technologies ever created. Google is dead."
+    publishedDateTime: 2022-12-08T04:11:00Z
+    webUrl: "https://www.news.com.au/technology/innovation/could-a-scary-good-ai-chatbot-backed-by-elon-musk-steal-your-job/news-story/269954d2b424e56168f30782d5d223fa"
+    ampWebUrl: "https://www.news.com.au/technology/innovation/could-a-scary-good-ai-chatbot-backed-by-elon-musk-steal-your-job/news-story/269954d2b424e56168f30782d5d223fa?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/innovation/could-a-scary-good-ai-chatbot-backed-by-elon-musk-steal-your-job/news-story/269954d2b424e56168f30782d5d223fa?amp"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 39
   - title: "Does ChatGPT mean robots are coming for skilled jobs?"
     excerpt: "Productivity gains in knowledge industries, like past gains in traditional industries, will make society richer and improve our lives in general."
     publishedDateTime: 2022-12-07T22:22:00Z
@@ -248,6 +227,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "Is ChatGPT the Start of the AI Revolution?"
+    excerpt: "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skillset. On"
+    publishedDateTime: 2022-12-09T12:40:00Z
+    webUrl: "https://www.washingtonpost.com/business/is-chatgpt-the-start-of-the-ai-revolution/2022/12/09/9eb9dfec-77b5-11ed-a199-927b334b939f_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TYKMLGDXWUI63IMZSJ5TGS4TT4.jpg&w=1440"
+        width: 1440
+        height: 963
+        isCached: true
   - title: "We asked ChatGPT, A Groundbreaking AI Bot, Whether President Ramaphosa Should Resign?"
     excerpt: "ChatGPT, created by a company called OpenAi, is the viral AI tool that is immensely powerful and useful in many ways."
     publishedDateTime: 2022-12-12T05:58:00Z
@@ -271,20 +264,6 @@ related:
       name: CNN
       domain: cnn.com
     quality: 31
-  - title: "If you think ChatGPT could make Google or knowledge jobs obsolete, wait till GPT-4 arrives"
-    excerpt: "It is the first time such a powerful tool has been made available to the general public through a free, easy-to-use Web interface. Read more at straitstimes.com."
-    publishedDateTime: 2022-12-11T23:26:00Z
-    webUrl: "https://www.straitstimes.com/tech/tech-news/if-you-think-chatgpt-could-make-google-or-knowledge-jobs-obsolete-wait-till-gpt-4-arrives"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 29
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/12/12/artificial-intelligence-2167835150.jpg_0.png?VersionId=PCKMbY8dBX45eL9xsLKnR600ElLv0h5n"
-        width: 860
-        height: 573
-        isCached: true
   - title: "We Prompted ChatGPT to be a Translation Manager"
     excerpt: "After Slator tested the waters by asking ChatGPT questions about the language industry, we took it a few steps forward by producing a video with ChatGPT, Synthesia, and Descript. First, we asked ChatGPT to answer questions as if they were a translation manager on a podcast."
     publishedDateTime: 2022-12-09T10:41:00Z

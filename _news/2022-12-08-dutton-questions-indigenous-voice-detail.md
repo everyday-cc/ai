@@ -9,8 +9,8 @@ ampWebUrl: "https://www.perthnow.com.au/news/indigenous-australians/dutton-quest
 cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/news/indigenous-australians/dutton-questions-indigenous-voice-detail-c-9096241.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Perth Now
@@ -43,6 +43,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Indigenous voice model to be decided after referendum"
+    excerpt: "The Albanese government will not introduce legislation on a ­proposed model for the Indigenous voice until after Australians go to a referendum in the second half of 2023."
+    publishedDateTime: 2022-12-12T10:34:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-model-to-be-decided-after-referendum/news-story/063bab9c6caf70ac8bbdb80ca7a6ac3c"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
 
 secured: "KtgL6YczyVvVSWTFTgbM2soXiw2kzOAx22uphTgSmSFFsuGrbwlKskG2zsd6+hO0Tgz+jluR8VxpxYBXxXjfkO1Yjrsy6uEqoNcnAahB1PZoZMGkCkp5qXWt5bN0PJE2T26F+cEpwIVSSzD2CBEnqB7HQ6TCvYLN2XKAyKfyMiC2JBcCp3gmqcioHmtevHisAz7I1hBO+hcHN3fcyDUlSwt12Lcap2rduHmZGVHZNw0BJHP211yvKCT0T4miAAvfBzCKDeUqi7xT7Gw4SLiy1RKWHrA24+0Q+BoddpeYzGrFonuodNx4Y3/YqMcbZXOGzz4dxqLh69+i6kwKjzxzM5so4g3BA5qpwnp+TfrhpM8=;n+qiJ4/kQ3YvUq3VGY+TXg=="
 ---

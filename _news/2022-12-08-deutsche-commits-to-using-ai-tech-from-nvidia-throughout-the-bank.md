@@ -7,7 +7,7 @@ originalUrl: "https://www.americanbanker.com/news/deutsche-commits-to-using-ai-t
 webUrl: "https://www.americanbanker.com/news/deutsche-commits-to-using-ai-tech-from-nvidia-throughout-the-bank"
 type: article
 quality: 58
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -49,15 +49,6 @@ related:
     provider:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
-    quality: 34
-  - title: "Deutsche Bank Tag Teams With Nvidia On Financial Services AI"
-    excerpt: "In many industries, embracing AI in the application software stack it is not just a matter of training some large language models or recommender systems"
-    publishedDateTime: 2022-12-07T18:53:00Z
-    webUrl: "https://www.nextplatform.com/2022/12/07/deutsche-bank-tag-teams-with-nvidia-on-financial-services-ai/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
     quality: 34
 
 secured: "OMYB6h63ls4hOfH87hQ+wUyXqJXTGA19OaNl/aXfwuTKJK2ZXPch2MXGnbon8cNDogO3OluPB2ikUShwsTlJ9MstDCLejsu+BekmMx84IF7V0RefaV8cgFNyotVA5R0+TKt6SnRzRoUrWSNFb2j4Y8ObsXzvJ5/YDXCKj51yQUQUyfqg0Hnebf84ZBL1U15rjEqPs9FU4Ng7PcB0j6SnuJSwLvAXkdWeo/Jd9VzEe5rNLXrOESKA/Sr2hesaw5ysqZ6u31W02x4vrXmasyGmurQTOqnSAiM3KwISZV2KmtFGSdiMdlhu1taC33vaAE63RUHBJ17Wy1TWjB3eHiOmRxtWekJEHzfrGPMBK/nHWmW66Ic6j/4O0tlQ2DTxtkQm/zeF62ys1dhLgk9r70Mu7tXmvBqIY3ulRjT6JK85ZZqU7il36LbhOiaN8NZU/HdIzg5UjILzV8amqr99VX6sl0enbuWAv3otgNjeLepN/xM3a2rPwE/YTsByZGeCFy6IJNx9s/7fXIhnACKrc0cT/Q==;sJdgWQ11nZs3fT9xUubmaA=="

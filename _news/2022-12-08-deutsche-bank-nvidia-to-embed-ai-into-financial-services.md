@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deutsche Bank Tag Teams With Nvidia On Financial Services AI"
-    excerpt: "In many industries, embracing AI in the application software stack it is not just a matter of training some large language models or recommender systems"
-    publishedDateTime: 2022-12-07T18:53:00Z
-    webUrl: "https://www.nextplatform.com/2022/12/07/deutsche-bank-tag-teams-with-nvidia-on-financial-services-ai/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 34
 
 secured: "1NzU+qF77gycyJrxeYu+16rinhTbBCdnexql5IzlFQC9d0oH4M8dwT7lVUADxHK/6T+Mo005Ae0XP5P+xC24OyO5JyAcIkerzg6cCyY4OdNd97CZN6D+g9YdyhTEgGPrxNcn9rSDxzNfeeUimnShR2djmZlImfrgcGhnTOOAC74zASe0GqLkYipkBjarBCoDUqcTX3tLdUaQWMpOjAeqcR/uePhJJPOPR7SL+ltEgiW5MZg3eoGYza7qpYOr+YlTi+qgh7FKOcrljzbCD2ASsR0fFMt+IJ0aK1+X3Nt2oihbwHc6rX40mKMlUVp9gnvyRs7xtWz2QgXo9bDTg0u71UeYiP2FWEgPOq90NmS9/XkRmRDqWhWDuXprfPJjqe8G7wj8Kp3O5n34JhsPYquje8Eg2YsdTc3fibPtbHjLzrajTlL+79ClZVKomADhAtmfn5HqQ3hNLFKlJ59RcgQcDHvPp1K6OjAF44zU0H8OU2m7Zm6bEC5GH0NDFavrevQJhDZ3IiUc24UYrC0NDr7cFQ==;XzfDZTHDyrGI9Iufu7iMTA=="
 ---

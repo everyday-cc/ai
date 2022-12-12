@@ -27,55 +27,58 @@ images:
     isCached: true
 
 related:
-  - title: "Uber launching self-driving cars in Las Vegas"
-    excerpt: "Ridehailing giant Uber is now offering Las Vegas riders the option on its app to hail a self-driving taxis developed by another company, according to a press release Wednesday. While the autonomous vehicles are currently only available for ride hailing in Las Vegas,"
-    publishedDateTime: 2022-12-07T17:59:00Z
-    webUrl: "https://www.cnn.com/2022/12/07/tech/uber-motional-self-driving-vegas"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/12/07/tech/uber-motional-self-driving-vegas/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/12/07/tech/uber-motional-self-driving-vegas/index.html"
+  - title: "Apple scales back self-driving car and delays debut till 2026"
+    excerpt: "Apple executives are grappling with the reality that its vision for a fully autonomous vehicle — without a steering wheel or pedals — isn’t feasible with current technology."
+    publishedDateTime: 2022-12-08T17:47:00Z
+    webUrl: "https://www.delcotimes.com/2022/12/08/apple-scales-back-self-driving-car-and-delays-debut-till-26/"
+    ampWebUrl: "https://www.delcotimes.com/2022/12/08/apple-scales-back-self-driving-car-and-delays-debut-till-26/amp/"
+    cdnAmpWebUrl: "https://www-delcotimes-com.cdn.ampproject.org/c/s/www.delcotimes.com/2022/12/08/apple-scales-back-self-driving-car-and-delays-debut-till-26/amp/"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 74
+      name: Delaware County Daily Times
+      domain: delcotimes.com
+    quality: 44
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/221207085819-01-uber-robotaxi-las-vegas-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://www.delcotimes.com/wp-content/uploads/2022/12/Apple_App_Store_Antitrust_Battle_93202-1.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "Tesla speaks up on its inability to offer self-driving cars"
-    excerpt: "Tesla is being used by a customer for not offering self-driving cars yet. The company has filed a motion to dismiss the lawsuit as it is currently still working on the software."
-    publishedDateTime: 2022-12-09T12:41:00Z
-    webUrl: "https://www.digit.in/news/car-tech/tesla-speaks-up-on-its-inability-to-offer-self-driving-cars-66311.html"
-    ampWebUrl: "https://www.digit.in/article/amp/car-tech/66311/tesla-speaks-up-on-its-inability-to-offer-self-driving-cars"
-    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/car-tech/66311/tesla-speaks-up-on-its-inability-to-offer-self-driving-cars"
+  - title: "Apple's \"Self-Driving\" Car Isn't Shaping Up As Promised"
+    excerpt: "Apple's Project Titan \"self-driving\" car reveal pushed back to 2026 with some ambitious plans for the model now apparently scrapped"
+    publishedDateTime: 2022-12-08T22:31:00Z
+    webUrl: "https://www.topspeed.com/apple-pushes-back-launch-of-self-driving-car-to-2026/"
     type: article
     provider:
-      name: Digit
-      domain: digit.in
-    quality: 59
+      name: TopSpeed
+      domain: topspeed.com
+    quality: 24
     images:
-      - url: "https://static.digit.in/default/fea-9-11-1280-1fc3fd6142.jpeg"
-        width: 1280
-        height: 720
+      - url: "https://static1.topspeedimages.com/wordpress/wp-content/uploads/jpg/201609/apple-car-3.jpg"
+        width: 2115
+        height: 1191
         isCached: true
-  - title: "Uber launches robotaxi service using fleet of Hyundai IONIQ 5"
-    excerpt: "Taking the driverless experience to a whole new level, ride-hailing giant Uber has launched a Level Four autonomous taxi service in Las Vegas, United States"
-    publishedDateTime: 2022-12-08T13:34:00Z
-    webUrl: "https://www.newsbytesapp.com/news/auto/uber-launches-level-four-self-driving-taxis-features-technology/story"
+  - title: "Apple Self-Driving EV Delayed to 2026, Likely to Start under $100,000"
+    excerpt: "The tech corporation aims for the car to be fully autonomous on the highway, but has ditched a pod-like design and will include traditional driving controls in the cabin."
+    publishedDateTime: 2022-12-09T16:47:00Z
+    webUrl: "https://www.aol.com/apple-self-driving-ev-delayed-144700201.html"
     type: article
     provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 19
-  - title: "2023 CES: 200 French Tech start-ups on their way to Las Vegas"
-    excerpt: "Business France is supporting a large French delegation with 200 start-ups1 Tech pavilion: Eureka Park – Hall G booth 602001 Vehicle pavilion: LVCC – West Hall booth 54005th January: French Tech eveni"
-    publishedDateTime: 2022-12-08T17:13:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/12/n30012069/2023-ces-200-french-tech-start-ups-on-their-way-to-las-vegas"
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://media.zenfs.com/en/car_and_driver_581/d8d9076b5e16b2172a0d9337e5e9d4d0"
+        width: 626
+        height: 313
+        isCached: true
+  - title: "Apple Car Delayed Until 2026, Self-Driving Plans Scaled Back"
+    excerpt: "California-based tech giant Apple is pulling back on its plans to launch a fully autonomous vehicle, and will instead seek to launch a more traditional all-electric car with some semi-autonomous capabilities around the 2026 calendar year."
+    publishedDateTime: 2022-12-08T15:34:00Z
+    webUrl: "https://gmauthority.com/blog/2022/12/apple-car-delayed-until-2026-self-driving-plans-scaled-back/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: GM Authority
+      domain: gmauthority.com
     quality: 4
 
 secured: "rhjiE2IWTcVGK2LXuoXCc5SiCtCk+euYk4UM4Rmxk7+IZMt+oJs0Fhwxubmr8KeQgKPBAFlbnrJefMEbKZzk9itJ6eqdJ8UdZ/Pko/IIRRX7TPZyNeuO/ALtgcbT2XF/VUgiRC3Oq+t11hvTOzsh3FoT9pYzkC1e+FFzNONObVd2rxZ7GjNrINjeDVGv0s7YDZtB7+y4e++olaMlj0LnGQDgtYxrjscfukzAJQkQs8kun7R33D7R+FOjTTNciiL1LS5xbPkPQE3AJ28+dxdUGmaaKCjYyoLe14WSQ3/vyqmQb7CsN8i2yReLPk/fnaOMjObVVbgTAxIomlHn/r8khstAd36RX2KhcBZyGE7l7ig=;lk+1dIWO9vTyZLtlOZBdcQ=="

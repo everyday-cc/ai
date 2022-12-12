@@ -48,15 +48,6 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 34
-  - title: "Deutsche Bank Tag Teams With Nvidia On Financial Services AI"
-    excerpt: "In many industries, embracing AI in the application software stack it is not just a matter of training some large language models or recommender systems"
-    publishedDateTime: 2022-12-07T18:53:00Z
-    webUrl: "https://www.nextplatform.com/2022/12/07/deutsche-bank-tag-teams-with-nvidia-on-financial-services-ai/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 34
 
 secured: "CCKCcCwvgqmbBEezbFqzTghTsshcvBKw1uVKCiDII++CG9n3OmTSenHhcXrKEAzbpoA/XPFAJSSpJgcLe2FhkWt0WNH2hSRooewOQilS5pKqnApUVDpdy82/lEcJFkrw+k6AKHHnjs9NMTHoWpmCBg2jt1ply/s4S27aZo+ayCvbwGcylS8mV+7rxPwqvN+ZWHQUzG2ckBQ+OtXxXB24K9Zlq8JsjSft+NSRtx8HB8gA5EJgVzzUxVmscvDaSfXGzRkiz7ZmE0lCFumJUAEPyncjQ8BpwMnGqXDgbNdmcoy2EuEWv+t44XD+Sh7S/P0Ys4KjloFKw0Fwb1koJqumrv76HxGHiNSmoOuWiwM2p/w=;+0PbVFOV0cuB+b1jLe/YAQ=="
 ---
