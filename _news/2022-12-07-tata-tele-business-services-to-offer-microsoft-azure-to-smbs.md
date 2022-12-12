@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/industry/telecom/telecom-news/tata-tele-
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/telecom/telecom-news/tata-tele-business-services-to-offer-microsoft-azure-to-smbs/amp_articleshow/96054290.cms"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,19 +25,6 @@ images:
     width: 600
     height: 450
     isCached: true
-
-related:
-  - title: "Tata Tele Business to offer Microsoft Azure to SMBs"
-    excerpt: "Microsoft Azure offers essential compute, storage and networking resources on demand, on a pay-as-you-go-basis."
-    publishedDateTime: 2022-12-07T07:32:00Z
-    webUrl: "https://www.business-standard.com/article/news-cm/tata-tele-business-to-offer-microsoft-azure-to-smbs-122120700565_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/tata-tele-business-to-offer-microsoft-azure-to-smbs-122120700565_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/tata-tele-business-to-offer-microsoft-azure-to-smbs-122120700565_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 54
 
 secured: "4ebS52z9ESJKxMch0wlDodGZrYRo6rwmZCElRiN3XV8iYBpZsW/ZItjkJEvK+BuO/vEyvJqtcwuU2iJhtB2dCUNskMfqqHQNfNHdYytiavzqwJj4lLTGp5oSbyRGnfFu1ErKvpBSeKsFjbG+8nNSgCluRADZfCalNEpxu0OrSlCqWzJI4v5JXxz5Fkcs8o8GUSpWH19W3OyhoL6B8prlGOpYZhy1BzPIPX532uDGE1mPmnJrKg9USUvb2HAvxZnOy0rk6ueQI9IjpqlZJEeI8U2RDsqeiT6WF3dly4Tm46pMwUi8LoJMR7gos3prB9Bk5Hm3mfSKVMt4dSicfH6mA/6pGOYudYsFVCGf7FLLLJbz2HxBBsG2vbJO+grqTMzt7d7fZKFsrBWdCkJIC2pJig+U3vkfkobp/dfa9ACoGTPznMOqbEcxEUujwgJ/OI1YqIQpL7uOX2ug8KHoncG0DSSHJNH7opmCFDDdJhrZgFxL+iUjncR4EZmEsi+BvqOU5EPbNuGmJrVV1tUAlgqP7Q==;TMr9KGzCbcBChhyktye31g=="
 ---

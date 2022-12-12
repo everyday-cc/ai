@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Drone Express Partners with Microsoft to Develop Artificial Intelligence (AI) Delivery Drones"
-excerpt: "Drone Express, an innovative last-mile logistics company, has partnered with Microsoft to launch a new version of their DE-2020 drone using Artificial Intelligence (AI) for in-flight navigation systems."
-publishedDateTime: 2022-12-08T14:24:00Z
-originalUrl: "https://www.aviationpros.com/aircraft/news/21289353/drone-express-partners-with-microsoft-to-develop-artificial-intelligence-ai-delivery-drones"
-webUrl: "https://www.aviationpros.com/aircraft/news/21289353/drone-express-partners-with-microsoft-to-develop-artificial-intelligence-ai-delivery-drones"
+excerpt: "Drone Express, an innovative last-mile logistics company, has partnered with Microsoft to launch a new version of their DE-2020 drone using Artificial Intelligence (AI) for"
+publishedDateTime: 2022-12-07T17:30:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/12/n29996460/drone-express-partners-with-microsoft-to-develop-artificial-intelligence-ai-delivery-drones"
+webUrl: "https://www.benzinga.com/pressreleases/22/12/n29996460/drone-express-partners-with-microsoft-to-develop-artificial-intelligence-ai-delivery-drones"
+ampWebUrl: "https://www.benzinga.com/amp/content/29996460"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29996460"
 type: article
-quality: 58
+quality: 78
 heat: -1
 published: false
 
 provider:
-  name: AviationPros
-  domain: aviationpros.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://img.aviationpros.com/files/base/cygnus/cavc/image/static/logo/site_logo.png?auto=format,compress&fit=fill&fill=solid&fill-color=000000&w=1200&h=627"
-    width: 1200
-    height: 627
+  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
+    width: 800
+    height: 313
     isCached: true
 
 related:
@@ -88,6 +90,6 @@ related:
         height: 787
         isCached: true
 
-secured: "ibg9seD3l/KOj6Ei9oqxd9WT+oNsx8sjxCU3lgjRd3SwgCH6LE869GBk/DkdPSlj2W8R013g0NxC8QmUhyr+qC7nC4fQqY1qVPLydQWiA/44orpqE2IJDkOWj1OllZgDa7/aMmWt+LyyfOCZpTFz8bHMl/mJM7x90xI8y9nWOHlMNAK4ytmUyN4u6/a8pwml6yqYa0mnKt7rDAhn0Ol9r5yE2ZIFLMhpuAnz+oPbEHgdvfw8QK5x+ZEzSwpRTofYrCUS6ecMTGoyenFFA5cAv+ucL/uoNfmEnHBtCC2v8Zcwum6PYw5ONw/B1PDzH4BR3PFIvhTrRsg+42r85s77aQTKs4X4Aao0yaONYXKwyqU=;bZM4fL0rjJob8XvMgsAu/Q=="
+secured: "W4QcQR0K0gTnScyJMN8S2/DPuvlrrOhwG53y9+CE0gkogVmcc3aI59JCHQZvdfXneO3MLOzzhp8reP9VX76MVwvmRyma7K1uKE/owsf7hqaGDDGB1VJB7FZMIWgy4/EoRKD1FBVgNh7J9uKNRMPPRbsrnW+8jGWAxJvaXt6e5E6nYYT5RGLcffIqEmVZFeXGy2/xivhWPUP75brzeMBIomy74Jd1dgy/SE8MtgfEoutXF5d9lPJALCckxrh67/jHzsfjOyTy4QcYoWyAiDpneEZFwZhwr6YH5Dwgn/jIRYvBYYso7FhLcrfhu1XkO4GrP/JOEQf2sHXW3KMSJ6ZFNiwymvVLUM3uT70QTeM+5Wg=;oAy7cPPTgiFGlbCvxAJSZw=="
 ---
 

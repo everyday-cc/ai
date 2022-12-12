@@ -50,6 +50,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "Canva’s Magic Write AI generator won’t be stealing jobs anytime soon"
+    excerpt: "Canva just released its new AI text generator, Magic Write. We tried it and you don't need to worry about it replacing jobs anytime soon."
+    publishedDateTime: 2022-12-12T00:24:00Z
+    webUrl: "https://www.smartcompany.com.au/technology/canvas-magic-write-ai-generator/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 37
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2022/12/canva-magic-write.jpg"
+        width: 733
+        height: 355
+        isCached: true
 
 secured: "ZD6tmXdmXzmXvhXNgZJ+1jUx93ntF6uujH3YekSBGufU6cgH2jAFjL/rfYk96W2vJAbshxTjhVIDXD/zJI/Tk0ztzZ6DtgOObAHIYUTsU3uXnxp5t+Hpgu1mvzOA0I9S3s44W2DECVEpG2UjysK5WadK0twIrTy/X9OyAI8TV8b7jcZNUdSDsIafoP++RMR3V2X5uNmbgFmGiaVZ8yhKjvPnzarDIsMGksVd7nba5B71kqfoOoqpJ7PVEMLRUBAjR/NlcppjyhgLs4pK0VXc099o59lsZiKhwgJu4P05EEqTxglM2dolqnaCVCgyqYixXscMzaPoQZNDX2cowZi/q+gyCVf2pxmTaTZRog+WhHffoKi3WQpzohh+fKnfo5sJJn58eRv4ASsWLXqK9sUXD2maNnbA7gful7HaSBfp2Drzk1zaXU51dP5YKFkMmiOwics+ZETKMSZfZ15HlWRpWT4n0wVg96U3hBczd8RbBKkA2w8ykLqK82wMonE3AWSbG+bEVhKRTWsYVVq+8xsU2Q==;q3ss1OXOF9e4H9vppwuJPw=="
 ---

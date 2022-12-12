@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-11-30-startup-uses-ai-to-deliver-custom-investment-portfolios-and-usher-in-wealth-30.md",
-      "title": "Startup Uses AI To Deliver Custom Investment Portfolios And Usher In \"wealth 3.0\"",
-      "excerpt": "The next generation of investors aren’t looking to go down the same beaten path; they understand the importance of personalization and real-time decision-making. When done manually, this can be very expensive and time-consuming,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/garydrenik/2022/11/30/startup-uses-ai-to-deliver-custom-investment-portfolios-and-usher-in-wealth-30/",
-      "originalUrl": "https://www.forbes.com/sites/garydrenik/2022/11/30/startup-uses-ai-to-deliver-custom-investment-portfolios-and-usher-in-wealth-30/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63840c971af0e7b9960b4382/0x0.jpg?format=jpg&width=1200",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2022/11/30/startup-uses-ai-to-deliver-custom-investment-portfolios-and-usher-in-wealth-30/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/11/30/startup-uses-ai-to-deliver-custom-investment-portfolios-and-usher-in-wealth-30/amp/",
-      "publishedDateTime": "2022-11-30T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2022-11-30-how-zero-shot-ai-is-poised-to-revolutionize-the-chatbot-industry.md",
       "title": "How ‘Zero-Shot’ AI Is Poised To Revolutionize The Chatbot Industry",
       "excerpt": "\"AI will change the way that we work and run our businesses. Those who are best prepared, and who take advantage of new opportunities now, will reap the rewards.\"",
@@ -200,6 +148,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-baidu-to-supply-l2-driver-assisting-anp-30-mid-2023.md",
+      "title": "Baidu to supply L2+ driver-assisting ANP 3.0 mid-2023",
+      "excerpt": "Baidu unveiled its latest progress on unifying L4 and L2+ autonomous driving technology on Apollo Day held on November 29 and announced that it will deliver L2+ driver-assisting product \"ANP 3.0\" in the summer of 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20221130VL211/adas-baidu.html?chid=13",
+      "originalUrl": "https://www.digitimes.com/news/a20221130VL211/adas-baidu.html?chid=13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20221130vl211_files/2_2b.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T23:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -552,12 +543,12 @@
       ]
     },
     {
-      "path": "_news/2022-11-29-baidu-plans-to-expand-driverless-ride-hailing-service-area.md",
-      "title": "Baidu Plans to Expand Driverless Ride-Hailing Service Area",
-      "excerpt": "Chinese internet-services and artificial-intelligence company Baidu Inc. is planning to build what it says will be the biggest driverless car-hailing area in the world as it looks to keep growing ...",
+      "path": "_news/2022-11-29-baidu-announces-plan-to-build-the-worlds-largest-fully-driverless-ride-hailing-service-area-in-2023.md",
+      "title": "Baidu Announces Plan to Build the World's Largest Fully Driverless Ride-Hailing Service Area in 2023",
+      "excerpt": "Baidu plans to establish the world's largest fully driverless ride-hailing service area in 2023Baidu continues to show growth momentum as the",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188",
-      "originalUrl": "https://www.marketwatch.com/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/baidu-announces-plan-to-build-the-world-s-largest-fully-driverless-ride-hailing-service-area-in-2023-1031941173",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/baidu-announces-plan-to-build-the-world-s-largest-fully-driverless-ride-hailing-service-area-in-2023-1031941173",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -567,14 +558,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T23:35:00-08:00",
+      "publishedDateTime": "2022-11-28T23:13:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -595,27 +586,45 @@
       ]
     },
     {
-      "path": "_news/2022-11-29-baidu-announces-plan-to-build-the-worlds-largest-fully-driverless-ride-hailing-service-area-in-2023.md",
-      "title": "Baidu Announces Plan To Build The World's Largest Fully Driverless Ride-Hailing Service Area In 2023",
-      "excerpt": "This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday. Want the fastest, most accurate stock market intelligence? Want EXCLUSIVE ...",
+      "path": "_news/2022-11-29-baidu-plans-to-expand-driverless-ride-hailing-service-area.md",
+      "title": "Baidu Plans to Expand Driverless Ride-Hailing Service Area",
+      "excerpt": "By Fabiana Negrin Ochoa Chinese internet-services and artificial-intelligence company Baidu Inc. is planning to build what it says will be the",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/22/11/29881998/baidu-announces-plan-to-build-the-worlds-largest-fully-driverless-ride-hailing-service-area-in-2023",
-      "originalUrl": "https://www.benzinga.com/news/22/11/29881998/baidu-announces-plan-to-build-the-worlds-largest-fully-driverless-ride-hailing-service-area-in-2023",
+      "webUrl": "https://www.marketwatch.com/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188?mod=markets",
+      "originalUrl": "https://www.marketwatch.com/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188?mod=markets",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T23:04:00-08:00",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-plans-to-expand-driverless-ride-hailing-service-area-271669706188",
+      "publishedDateTime": "2022-11-28T22:16:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

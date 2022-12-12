@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/data-infrastructure/3-questions-you-should-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/3-questions-you-should-ask-to-get-the-most-out-of-edge-data/amp/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

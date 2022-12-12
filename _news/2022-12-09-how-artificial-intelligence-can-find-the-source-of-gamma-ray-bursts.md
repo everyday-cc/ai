@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2022-12-artificial-intelligence-source-gamma-r
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-12-artificial-intelligence-source-gamma-ray.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Phys.org
@@ -26,6 +26,17 @@ images:
     isCached: true
 
 related:
+  - title: "Adobe Embraces AI Art, Can Get In The Bin"
+    excerpt: "I’m bringing this up today because, less than a week after forcing people to check they weren’t reading an Onion story when learning about the colours thing, the company has announced that it is embracing AI art,"
+    publishedDateTime: 2022-12-11T23:01:00Z
+    webUrl: "https://kotaku.com/adobe-ai-generated-art-photoshop-stock-bad-sucks-1849880495"
+    ampWebUrl: "https://kotaku.com/adobe-ai-generated-art-photoshop-stock-bad-sucks-1849880495/amp"
+    cdnAmpWebUrl: "https://kotaku-com.cdn.ampproject.org/c/s/kotaku.com/adobe-ai-generated-art-photoshop-stock-bad-sucks-1849880495/amp"
+    type: article
+    provider:
+      name: Kotaku
+      domain: kotaku.com
+    quality: 37
   - title: "How AI found the words to kill cancer cells"
     excerpt: "Putting the right receptor into a type of immune cell called a T cell can reprogram it to recognize and kill cancer cells. These so-called chimeric antigen receptors (CARs) have been effective against some cancers but not others."
     publishedDateTime: 2022-12-08T19:30:00Z

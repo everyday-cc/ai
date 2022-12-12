@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2022/12/07/canva-opens-up-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/12/07/canva-opens-up-access-to-docs-in-beta-adds-magic-write-generative-ai-copywriting-tools/amp/"
 type: article
 quality: 78
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "Canva’s Magic Write AI generator won’t be stealing jobs anytime soon"
+    excerpt: "Canva just released its new AI text generator, Magic Write. We tried it and you don't need to worry about it replacing jobs anytime soon."
+    publishedDateTime: 2022-12-12T00:24:00Z
+    webUrl: "https://www.smartcompany.com.au/technology/canvas-magic-write-ai-generator/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 37
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2022/12/canva-magic-write.jpg"
+        width: 733
+        height: 355
+        isCached: true
   - title: "Free AI Writing Tools Can Write Essays in Minutes. What Does That Mean for Teachers?"
     excerpt: "AI writing tools are widely available and getting better every day. Your students may already be using them. Stanford professors Rob Reich, Mehran Sahami, and Jeremy M. Weinstein are sounding the alarm on a new method for student cheating: AI-generated papers."
     publishedDateTime: 2022-12-07T10:05:00Z

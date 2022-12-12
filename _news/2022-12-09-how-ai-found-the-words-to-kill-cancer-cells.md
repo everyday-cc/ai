@@ -35,6 +35,17 @@ related:
         width: 1024
         height: 585
         isCached: true
+  - title: "Adobe Embraces AI Art, Can Get In The Bin"
+    excerpt: "I’m bringing this up today because, less than a week after forcing people to check they weren’t reading an Onion story when learning about the colours thing, the company has announced that it is embracing AI art,"
+    publishedDateTime: 2022-12-11T23:01:00Z
+    webUrl: "https://kotaku.com/adobe-ai-generated-art-photoshop-stock-bad-sucks-1849880495"
+    ampWebUrl: "https://kotaku.com/adobe-ai-generated-art-photoshop-stock-bad-sucks-1849880495/amp"
+    cdnAmpWebUrl: "https://kotaku-com.cdn.ampproject.org/c/s/kotaku.com/adobe-ai-generated-art-photoshop-stock-bad-sucks-1849880495/amp"
+    type: article
+    provider:
+      name: Kotaku
+      domain: kotaku.com
+    quality: 37
 
 secured: "WrxlkRMSsSS2/isu3+ucBO2O0xj6ErnCvkF9qtZg+TSmIfTDmbkW1dGapOrFK0qQGtHRjapIf048zbf8rVBL4Dq+3BniorWSzTFclFTp3ZCtpS4kleJtHlNFV1YqHSsvr/Guu8olFyPCH8rsa3l0ItxaM1r5e0TsSxhguzYp17N1wAmNzQCpIsOwXvabCD0XZuNLaSFe3L+/3vufItbKnRMUDE4Zy51dazC9/D0smwT4w7V2OozaCCye8m2epbnwUekrFLg1MTzGz6fanyOkbzGDllKE/EuWfg8cAXit7K8sYFjJFO+4PUt+wkWlIneFVLSz3+w70ogYIjCjSwoZ2SdThN97YPrf8tKeuomXzizYylzfadtzNttN6SxaFlpQl2m9SDZnwCXQ80dZI1L8dt5rn8WCE+uU8TSWV+FMGinLn7sFS3Vv2jkI3bLZIv29Ikgihyf19SIIh/xAjgEEg1eb+vjh0smPOKUav9XrWlOfA1w7TG0OE6WWT/rtca5+LqKEy/8YmcKqtFQgBGFH5g==;JcHP6fuMeTplYOUBdWt1mA=="
 ---

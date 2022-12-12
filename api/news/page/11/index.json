@@ -2,6 +2,40 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-11-30-alzheimers-drug-lecanemab-slows-cognitive-decline-among-patients-in-early-stages-study-finds.md",
+      "title": "Alzheimer's drug lecanemab slows cognitive decline among patients in early stages, study finds",
+      "excerpt": "A study released Tuesday showed a closely-watched Alzheimer's drug slowed cognitive decline among people with early signs of the disease but also carries safety risks for some patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/health/2022/11/29/drug-manufacturers-eisai-and-biogen-recruited-1-795-people-earlier-alzheimers-disease-and-amyloid-be/10751248002/",
+      "originalUrl": "https://www.usatoday.com/story/news/health/2022/11/29/drug-manufacturers-eisai-and-biogen-recruited-1-795-people-earlier-alzheimers-disease-and-amyloid-be/10751248002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T20:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-bests-review-spotlights-machine-learning-and-ai-risk-opportunities-duaes-expansion-plan.md",
       "title": "Best’s Review Spotlights Machine Learning and AI Risk Opportunities, DUAE’s Expansion Plan",
       "excerpt": "Best’s Review is AM Best’s monthly insurance magazine, covering emerging issues and trends and evaluating their impact on the marketplace. Access to the complete content of Best’s Review is available here. AM Best is a global credit rating agency ...",
@@ -1043,49 +1077,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-anyscale-unveils-new-tool-for-building-and-scaling-ai-and-ml-development.md",
-      "title": "Anyscale unveils new tool for building and scaling AI and ML development",
-      "excerpt": "Anyscale Workspaces, available today in early preview, provides users with a cloud-managed developer environment for building and scaling AI in a repeatable approach.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/anyscale-unveils-new-tool-for-building-and-scaling-ai-and-ml-development/",
-      "originalUrl": "https://venturebeat.com/ai/anyscale-unveils-new-tool-for-building-and-scaling-ai-and-ml-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/anyscale-unveils-new-tool-for-building-and-scaling-ai-and-ml-development/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/anyscale-unveils-new-tool-for-building-and-scaling-ai-and-ml-development/amp/",
-      "publishedDateTime": "2022-11-29T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
