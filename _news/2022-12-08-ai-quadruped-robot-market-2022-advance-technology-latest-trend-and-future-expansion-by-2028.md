@@ -51,15 +51,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Digital Transformation Markets Report 2022: Social Media, AI, Digital Payments, IoT Driving a Staggering $2000+ Billion Industry by 2027"
-    excerpt: "Telemedicine, AI-driven medical devices and patient care robots, and electronic health records are some ... to special purpose acquisition companies (SPACs) and start-ups operating worldwide. Some of the strategies among key players in the market for ..."
-    publishedDateTime: 2022-12-07T13:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/12/g29990671/global-digital-transformation-markets-report-2022-social-media-ai-digital-payments-iot-driving-a-s"
+  - title: "Data Science and Machine-Learning Platforms Market Analysis Highlighting Opportunities and Development Status During 2023-2026"
+    excerpt: "Pre and Post Covid Report is Covered | Final Report will add the analysis of the impact of Russia-Ukraine War and"
+    publishedDateTime: 2022-12-12T04:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-analysis-highlighting-opportunities-and-development-status-during-2023-2026-2022-12-12"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "LF2nsth8fudkTwDpTALwmZ7n81DBhDfIi51IzMg7l36QYiVL1SD2GCRmOX1QzZI7W8yVJNpogNTSl2EmYDoTjzbEeAqdZnpW0dEQS7PYsYXcS9x/Gb1oHl7yAx8yppa8N5PQ6iXz8/ZrqV+hLsdK2ike9xI2glvXLcW7eZvUNctoMC7IujaM8jk2PLcoK6slUsAYkaNbBWnXZQ5NoCGAS/C5VfpFPVwwa+8rcmmnuw8W/PRNDBmY3N5KEazivFy2XQAgmI5VaOCBros/XW0sh4JOOQGNIMRK4vVBsJNwEmV4+UI/nQ0o5NGSOcBbXgyTpKTyDmF2sK5IqWXU+efdvBgl1vEe4NAJkMGQgholMI0=;jsBdB8joOknT7NPEvIHLYg=="
 ---

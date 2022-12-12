@@ -69,15 +69,6 @@ related:
         width: 626
         height: 313
         isCached: true
-  - title: "Apple scales back self-driving car and delays debut till ’26"
-    excerpt: "The car project, dubbed Titan inside the company, has been in limbo for the past several months as Apple executives grappled with the reality that its vision for a fully autonomous vehicle —"
-    publishedDateTime: 2022-12-07T13:35:00Z
-    webUrl: "https://www.eastbaytimes.com/2022/12/07/apple-scales-back-self-driving-car-and-delays-debut-till-26/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 4
   - title: "Apple Car Delayed Until 2026, Self-Driving Plans Scaled Back"
     excerpt: "California-based tech giant Apple is pulling back on its plans to launch a fully autonomous vehicle, and will instead seek to launch a more traditional all-electric car with some semi-autonomous capabilities around the 2026 calendar year."
     publishedDateTime: 2022-12-08T15:34:00Z

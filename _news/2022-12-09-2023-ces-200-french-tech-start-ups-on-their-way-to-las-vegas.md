@@ -113,15 +113,6 @@ related:
         width: 4207
         height: 2805
         isCached: true
-  - title: "The Apple car might not be fully self-driving, now set to launch in 2026 for around $100,000"
-    excerpt: "Bloomberg writes that Apple has scaled back the self-driving plans for its future electric vehicle, which looked set to be fully autonomous with no steering wheel"
-    publishedDateTime: 2022-12-07T13:45:00Z
-    webUrl: "https://www.techspot.com/news/96886-apple-car-might-not-fully-self-driving-now.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 23
   - title: "Uber launches robotaxi service using fleet of Hyundai IONIQ 5"
     excerpt: "Taking the driverless experience to a whole new level, ride-hailing giant Uber has launched a Level Four autonomous taxi service in Las Vegas, United States"
     publishedDateTime: 2022-12-08T13:34:00Z
@@ -131,15 +122,6 @@ related:
       name: newsbytesapp.com
       domain: newsbytesapp.com
     quality: 19
-  - title: "Why you may never be able to buy your own self-driving car"
-    excerpt: "Despite recent claims of vehicles having full automation, it is no more possible to buy a truly self-driving car now than it was 15 years ago. Will private cars that never need a driver ever reach the market?"
-    publishedDateTime: 2022-12-07T13:45:00Z
-    webUrl: "https://www.newscientist.com/article/2349786-why-you-may-never-be-able-to-buy-your-own-self-driving-car/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 4
 
 secured: "+Lu+nxXFGwrzKPp+HcfbtcSTqDUJ9eRAcQhpRWUE4cBYmbViIgZp5xVf+qgj2z96a4QIofLriJXxNiqred/B+dMF9RCsMrJoNmtq9Z3mNX3T1Gm9Ik8B0YHnTM3EBHFki31bKOiQcbDoTf2AvYFDyy3Q+oWMqOtiP3wnvFhwtSRIKOyT9sV0ExXNZhdyekVdB5Pjv6nA7ghNH12W3RordJvZpgdbg8ZSMVPAeQE1GpxAQunzrfC9BIZL6sDUmNnZs4CQoDn8H+DnpgWl+BU26XFu4eBaof7vl5+i+FbO0gWxG1rEGF7vP9CfWMwFZb3oGr1rWuvusG3pLV36YO4ae11ekJL9MGtJVi12w4YhJu0=;WhRwqenAOVNtpQwdvsfhQw=="
 ---

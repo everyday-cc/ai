@@ -7,7 +7,7 @@ originalUrl: "https://www.smartcompany.com.au/technology/canvas-magic-write-ai-g
 webUrl: "https://www.smartcompany.com.au/technology/canvas-magic-write-ai-generator/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 733
     height: 355
     isCached: true
-
-related:
-  - title: "Canva targets business users with generative AI-powered tools"
-    excerpt: "Canva is boosting its efforts to target enterprise business users with today’s release of Canva Docs and the AI-powered Magic Write."
-    publishedDateTime: 2022-12-07T14:41:00Z
-    webUrl: "https://venturebeat.com/ai/canva-targets-business-users-with-generative-ai-powered-tools/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
 
 secured: "aTjCGQ+ahtpxlRHzwKWmbnqkga/3mg0aqrx51zf7SOYp9E6kaTZswX3fGfBp3I6rdhbUq8RTWhRs/9v/P/H7K1GaXLNDFnMK5xc3zhfLxaerh3NUFv+XeF85wCkBNbbgx/LghFJvdzrnwO+UUlSK3NyEs/ZflIzOR46IMn6FhXUZi7NlveGosxWgPbzmTRDbZLzvnjKXfUOGAqzdFeDnYgbenM3tI6OhPck6STpacKihPVGAK233PeyXnEX3lzMWSY71uyTEFXfzawGaORVDAw1cfSS8oUx+OpjtQorXizht+jZgH+K8enHiD+vRuGCsE00RfRseVBtIVVvWPMaRwsOZP/H2bxWElz1R/34C1+s=;lPLe98NiUx1CwHtSKYcAyQ=="
 ---

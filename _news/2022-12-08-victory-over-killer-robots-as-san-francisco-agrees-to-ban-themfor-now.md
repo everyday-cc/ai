@@ -53,15 +53,6 @@ related:
         width: 1560
         height: 1040
         isCached: true
-  - title: "San Francisco Rolls Back Its Plan for Killer Robots"
-    excerpt: "After an uproar, the city board voted to rescind last week's bill to allow police to use robots to deliver deadly force. The fight isn't over, but there's a good reason it should be."
-    publishedDateTime: 2022-12-07T14:52:00Z
-    webUrl: "https://www.darkreading.com/edge-articles/san-francisco-rolls-back-its-plan-for-killer-robots"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 19
 
 secured: "ZcHMAMLtaBTCU+NPFS7P186D/xm2NvayHXzIirCKXSATh6ph/1+C9t0442ffVh5drfanv1/ODdYhpjGlYPbQHoLsR5p1myVydDl9sGGxq/Cbaq+rRInnsrQfOO2oJ8Lb3MAcmMkQan/hVqIFWVO/6XLGWg973q1Ft4EA4zzgRLb0Ywz+JYYGYie7EyFYCIxQF4LC4B4Vp4BC7e4tF1nxFnlmAwO26aQ2lj8d+AjI0q6GXxQkl9WpyqqNsATqHngKMzauzEREQu1IFL5uRXx8sKmwtS1VMQHcOrYJVBTW+0pni3kEPTvGbI4kowBrCq6q4OrhBfvY5hA7D3Fkkfo7hgJQ1fX4HLc/J9Y0UAnTSNI=;cpAM41RIrytQf7Sgi/U8+w=="
 ---

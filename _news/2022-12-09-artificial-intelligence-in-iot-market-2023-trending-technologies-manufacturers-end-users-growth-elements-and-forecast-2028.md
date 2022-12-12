@@ -51,15 +51,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
-  - title: "Global Digital Transformation Markets Report 2022: Social Media, AI, Digital Payments, IoT Driving a Staggering $2000+ Billion Industry by 2027"
-    excerpt: "Telemedicine, AI-driven medical devices and patient care robots, and electronic health records are some ... to special purpose acquisition companies (SPACs) and start-ups operating worldwide. Some of the strategies among key players in the market for ..."
-    publishedDateTime: 2022-12-07T13:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/12/g29990671/global-digital-transformation-markets-report-2022-social-media-ai-digital-payments-iot-driving-a-s"
+  - title: "Data Science and Machine-Learning Platforms Market Analysis Highlighting Opportunities and Development Status During 2023-2026"
+    excerpt: "Pre and Post Covid Report is Covered | Final Report will add the analysis of the impact of Russia-Ukraine War and"
+    publishedDateTime: 2022-12-12T04:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-analysis-highlighting-opportunities-and-development-status-during-2023-2026-2022-12-12"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "+3VNn+Sgz7z45uTLbvziQ45gqvpiI10XO8JKsAAy+Jw2jM188ZjpMHMhs0CcTM4hUYrkhOUvWRZyazIx4pdx5fsC7yGpysEf1gbPdKgwSSeyfWHMkKvrEzgYuV8yi3gF4YIy9HFACJIa3OFyN9FNSrhBbmfPmHo90H4VwowNH933Qw0HLRpvoMWvOCxo+BkcpqP1Tb2csMSWCrjz6rwTTvAYQXW587wNC+rNZDC2TFxBvzxEGCv3ec5eC4Rnw0FuqcUWgKAVYTbumbSBV7HwKNqDXgfscQXV06FT+MQr3fymshtfx+FriMgD5OiLfPKCVlebEl+o50lRPsK6xS+grSM1njrRwu7rx36eDz2y/mQ=;GQwmPGnH87h4rapRVgzpxA=="
 ---

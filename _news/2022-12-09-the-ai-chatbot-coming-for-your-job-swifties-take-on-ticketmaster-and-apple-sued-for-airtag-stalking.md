@@ -102,20 +102,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How AI That Powers Chatbots and Search Queries Could Discover New Drugs"
-    excerpt: "Natural language processing algorithms like the ones used in Google searches and OpenAI’s ChatGPT promise to slash the time required to bring medications to market"
-    publishedDateTime: 2022-12-07T14:59:00Z
-    webUrl: "https://www.wsj.com/articles/how-ai-that-powers-chatbots-and-search-queries-could-discover-new-drugs-11670428795"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-679549/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Can You Tell a Real Tweet From One Written by an AI Chatbot?"
     excerpt: "Take the quiz to see how much artificial intelligence resembles the real thing"
     publishedDateTime: 2022-12-08T14:00:00Z
@@ -157,6 +143,20 @@ related:
       - url: "https://images.wsj.net/im-682317/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Is ChatGPT the Start of the AI Revolution?"
+    excerpt: "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skill"
+    publishedDateTime: 2022-12-09T10:30:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2022-12-09/is-chatgpt-the-start-of-the-ai-revolution"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifzBIsn2zMPo/v1/1200x802.jpg"
+        width: 1200
+        height: 802
         isCached: true
   - title: "ChatGPT proves AI is finally mainstream — and things are only going to get weirder"
     excerpt: "He knows I write about AI and is the sort of guy who keeps up with whatever’s trending online. We chatted a bit, and I asked him: “and what do you think of ChatGPT?” To which he replied: “Well, I wrote a half-decent Excel macro with it this morning that saved me a few hours at work” — and my jaw dropped."
@@ -265,19 +265,19 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
-  - title: "Is ChatGPT the Start of the AI Revolution?"
-    excerpt: "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skillset. On"
-    publishedDateTime: 2022-12-09T12:40:00Z
-    webUrl: "https://www.washingtonpost.com/business/is-chatgpt-the-start-of-the-ai-revolution/2022/12/09/9eb9dfec-77b5-11ed-a199-927b334b939f_story.html"
+  - title: "We asked ChatGPT, A Groundbreaking AI Bot, Whether President Ramaphosa Should Resign?"
+    excerpt: "ChatGPT, created by a company called OpenAi, is the viral AI tool that is immensely powerful and useful in many ways."
+    publishedDateTime: 2022-12-12T05:58:00Z
+    webUrl: "https://techfinancials.co.za/2022/12/12/we-asked-chatgpt-a-groundbreaking-ai-bot-whether-president-ramaphosa-should-resign/"
     type: article
     provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
+      name: techfinancials
+      domain: techfinancials.co.za
+    quality: 32
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TYKMLGDXWUI63IMZSJ5TGS4TT4.jpg&w=1440"
-        width: 1440
-        height: 963
+      - url: "https://techfinancials.co.za/wp-content/uploads/2022/12/pexels-kindel-media-8566470.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "If you think ChatGPT could make Google or knowledge jobs obsolete, wait till GPT-4 arrives"
     excerpt: "It is the first time such a powerful tool has been made available to the general public through a free, easy-to-use Web interface. Read more at straitstimes.com."
@@ -316,15 +316,6 @@ related:
       name: Nature
       domain: nature.com
     quality: 17
-  - title: "A week since launch, OpenAI's ChatGPT has shown the power, and horror, of AI"
-    excerpt: "In fact, there's a good chance that you've used something that relied on AI in the last 24 hours. But when OpenAI launched ChatGPT last week, it lowered the entry requirements for using AI. ChatGPT is a chatbot that's accessible through any web browser."
-    publishedDateTime: 2022-12-07T14:27:00Z
-    webUrl: "https://www.windowscentral.com/software-apps/a-week-since-launch-openais-chatgpt-has-shown-the-power-and-horror-of-ai"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 16
   - title: "Could an A.I. Chatbot Rewrite My Novel?"
     excerpt: "As a young fiction writer, I dreamed of a technology that would tell me how to get my characters from point A to point B. Could ChatGPT be it?"
     publishedDateTime: 2022-12-09T19:50:00Z

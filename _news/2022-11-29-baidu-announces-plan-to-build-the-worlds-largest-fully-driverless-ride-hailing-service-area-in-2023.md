@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Baidu Announces Plan to Build the World's Largest Fully Driverless Ride-Hailing Service Area in 2023"
-excerpt: "Baidu plans to establish the world's largest fully driverless ride-hailing service area in 2023; Baidu continues to show growth momentum as the world's largest robotaxi service pr"
-publishedDateTime: 2022-11-29T06:29:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/11/29/9720421.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/11/29/9720421.htm"
+title: "Baidu Announces Plan To Build The World's Largest Fully Driverless Ride-Hailing Service Area In 2023"
+excerpt: "This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday. Want the fastest, most accurate stock market intelligence? Want EXCLUSIVE ..."
+publishedDateTime: 2022-11-29T07:04:00Z
+originalUrl: "https://www.benzinga.com/news/22/11/29881998/baidu-announces-plan-to-build-the-worlds-largest-fully-driverless-ride-hailing-service-area-in-2023"
+webUrl: "https://www.benzinga.com/news/22/11/29881998/baidu-announces-plan-to-build-the-worlds-largest-fully-driverless-ride-hailing-service-area-in-2023"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "DTQHZZpg/O5MEiq9TlJ4AMgMPyPGO+k5V1pCgf4lAeAgIKE5w2N5zVJ+2zemaF1iwZr9cMON5FUAs/7qk203HeFSe3SlualXQ6W/aveq+MyepZA6+3ky4lou5sSaW2azLQTwC7gnqr8ZDtsi4rWApEG48J80X+N6hvkbQF+JSKma+xN8vowBPOnSYaXO5a55LbugYcgS5B3f1/vuwfO6fkWv3yzSu6kGMMGSiIJvcxGTQPF0ggV60ib0awhmuZRfYp9agqbzGBPh7OWmZSC46gUQ8/5LSbGx1FgfzzSmslOgoLOxPfsFzh9zn9yvY4ZyehABoKt8Smb7Ew8TV8s1CgVW1QWtmdgAlBeI0zF/Zc0=;rXFNQr1YeHqGaKKg6kBaYA=="
+secured: "ggIqP68RwOPQ8iW+mDY1KrNmv+35AyrXResKB8OLtlR5Q/dT+DT7SVLH3R1oacQXDOSZ4vvmCWJ+hS4Xed3G5pp0CB7GiyOe71nbVjJrkd/GPbciJDBmXbXwpRCyawG6h0v6MUQqj3ohWxaqTBd7fiiAaZsdeVa/JkyeFI88rhpgfNoobF22tx1k76TXyIsl3KHzyH9XgreJZejeTKN6ypG4hf62EnEQb/1zEpPNvvcRPjPnP4tMT8P7lKQ87DM+6EhuHOkFJT5vm8g0kaLktL2XLRIeytsimoD+JY7n5q7yeI28Rq8Dn8nz2xOrEie/WsTY1m0X/0me+8SXvMAtKnICIb+2kkuU62AO1Cl60mk=;O9KrME3HiQIqas4TVx0bQg=="
 ---
 

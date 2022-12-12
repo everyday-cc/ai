@@ -113,24 +113,6 @@ related:
         width: 4207
         height: 2805
         isCached: true
-  - title: "The Apple car might not be fully self-driving, now set to launch in 2026 for around $100,000"
-    excerpt: "Bloomberg writes that Apple has scaled back the self-driving plans for its future electric vehicle, which looked set to be fully autonomous with no steering wheel"
-    publishedDateTime: 2022-12-07T13:45:00Z
-    webUrl: "https://www.techspot.com/news/96886-apple-car-might-not-fully-self-driving-now.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 23
-  - title: "Why you may never be able to buy your own self-driving car"
-    excerpt: "Despite recent claims of vehicles having full automation, it is no more possible to buy a truly self-driving car now than it was 15 years ago. Will private cars that never need a driver ever reach the market?"
-    publishedDateTime: 2022-12-07T13:45:00Z
-    webUrl: "https://www.newscientist.com/article/2349786-why-you-may-never-be-able-to-buy-your-own-self-driving-car/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 4
   - title: "2023 CES: 200 French Tech start-ups on their way to Las Vegas"
     excerpt: "Business France is supporting a large French delegation with 200 start-ups1 Tech pavilion: Eureka Park – Hall G booth 602001 Vehicle pavilion: LVCC – West Hall booth 54005th January: French Tech eveni"
     publishedDateTime: 2022-12-08T17:13:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.outlookindia.com/business/air-india-puts-in-place-ethics
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/air-india-puts-in-place-ethics-governance-structure-news-244200/amp"
 type: article
 quality: 74
-heat: 94
+heat: 95
 published: true
 
 provider:
@@ -53,6 +53,6 @@ related:
       domain: thehindubusinessline.com
     quality: 17
 
-secured: "Wi07C4UU2h3TlSoRQ6oTfq7B1pmpxJeFiHmZ4938/yZXTPle/v+Pd9o/Iqp+zt7VJEL0RRrWKmurNV8YWaW/iBoTCFTYC7XBlH5R3HzRO15T7kPu6CtHOAnxqLtWaPWMlhv8oV8/TnQNAroVXJN9lUbBNnM6Vd/OI/gOxvXdAhzQ/UxsK8TtRvf621JUTIzU+U9icd1Mnc6o9pl/tXHScSY9mUuEDVPJfkdgpicDxXxPB3Pesuq2wuICUxJDbv2phyGRa9EZhQGzXZEZrbpYJh9IDjYoiEX/rXSvLQo0CDZFXcd7qg4M8mi2vr8lbv+QIPOeZknY3/TnZRXcnVnJLwX8BncRSxmnwmUYNWEnQls=;yxSqnrNay/nj7OZvmvp+Ag=="
+secured: "JRs76HaKh6rDDV6IGlzLc0Hm6gS5UjBm69uUAfWk1yfMISpq1+k2BwDdEsSam6U4z0mRlfScxZGT5J43UHoetuovJeuijwQWGyjDYUM3d0xlXV6UARTM5VU89uTc6HVCrYRFurVTk1TAxy6TDCHYNS73clO8vGt0DqQgrZnn3m2j1y+VM95LHtgUrzF5LU4o5i6yvdkoEYCkX6uM3MI6lmPrzS+qV/LWM1tfH1D/2TVA9MeKljdr4qV9vmtEJXS+0wZ+ivLqWZ5/DvTimTNcqKWNAcc1gZrfehHgpXzPSqBYXzDQWBoOUQev+y4gs/nNfh9RO1/gxLkhQ1vt3Ei1STRlBEDB7yPaRkSEE4iK3xLLMLircVZA7mYKhUrBzAjQfkwFO9SnPYkXPH2Spx8IQw28S6d9rL5epuJUUC3A2DYnJdCdbJ6/XsTmIwjk8KYkRrQEnxQhY5Oc0BdmGnWiBeXEQd7OoRb49nXoiDKsQgtUbNpyIzbQy501v62Yj0j8BkpDPTfUuiqYZmZiFcMopA==;4ygdXNPy/8nL+8dLnti/Xw=="
 ---
 

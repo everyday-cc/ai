@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/public-safety/public-outcry-prompts-sfpd-to-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/public-outcry-prompts-sfpd-to-pause-lethal-robot-policy?_amp=true"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 840
     height: 438
     isCached: true
-
-related:
-  - title: "San Francisco changes course, bans police use of 'killer robots' amid public outrage"
-    excerpt: "Tuesday's vote came a week after the San Francisco Board of Supervisors voted 8-3 to initially approve allowing \"killer robots\" in emergencies."
-    publishedDateTime: 2022-12-07T14:22:00Z
-    webUrl: "https://www.indystar.com/story/news/nation/2022/12/07/san-francisco-rejects-police-killer-robots/10850743002/"
-    type: article
-    provider:
-      name: The Indianapolis Star
-      domain: indystar.com
-    quality: 12
 
 secured: "DX9rk+GsuCFVVlnaCfszQX0CFgxYEiCmXMxGcvg0BbGg0//A2ncgzLMXfHTL97a/KwEoEv9HcwVBej/B4HrSdihCQwxbKv4YtCuhxDEVwBsFzbgyJ6mco0gBqruMw38wezrP1f0FvJp+JWE6MmKF3NI9IJPy4AJxjEf0R9rICwaIyc1u2rWKmqlrs94XStYisRtIe4xe5gAh63THFWbocSzWxKKq2OWqRUFgP6HAoGea/z2AtV0heSkuNtTbJcz62zQLk1aABHAevAQQKdb+WiDsl6A6vdSzXRHM9zSDMPn0t471szHLra/ImvBmTtsaKrCdsH5DYM4gLy7nuq/AH68BwQUIYZIUv+L4G/Gki6I=;g/M8ech17arKqZGVIv5uAA=="
 ---

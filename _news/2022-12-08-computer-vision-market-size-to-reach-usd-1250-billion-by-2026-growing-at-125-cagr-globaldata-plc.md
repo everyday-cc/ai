@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Chatbots Market Size to Surpass USD 543.65 Million by 2027 at 19.5% CAGR – Report by Market Research Future (MRFR)"
-    excerpt: "According to a Comprehensive Research Report by Market Research Future (MRFR), \" Healthcare Chatbots Market Information By Component, Deployment, Application, End-User, And Region - Forecast till 2027 \", the market will reach USD 543.65 million by 2027, at 19.5% CAGR during the forecast period."
-    publishedDateTime: 2022-12-07T14:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/12/g29993256/healthcare-chatbots-market-size-to-surpass-usd-543-65-million-by-2027-at-19-5-cagr-report-by-marke"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29993256"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29993256"
+  - title: "AI-based Surgical Robots Global Market to Reach $8.81 Billion by 2026 at a CAGR of 16.99%"
+    excerpt: "The global AI based surgical robots market is expected to grow from $4.03 billion in 2021 to $4.70 billion in 2022 at a compound annual growth rate (CAGR) of 16.76%. The AI based"
+    publishedDateTime: 2022-12-08T19:26:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ai-based-surgical-robots-global-market-reach-881-/2022/12/08/9727451.htm"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 32
-    images:
-      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
-        width: 800
-        height: 313
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 25
 
 secured: "zFwD347JmMiKbUf6pesahZiWmPqBqHEDOJbaXeJFevLXzFObWdkC6dhg5ZorDWxTD+w6ZJybcKN8/TTMlhtgx1zt0wpwuZ4wcaj3ez4ADg6FiksFmBSgozi0+O47TI48W+PWHRJCdXD1ChG8gBXtwJbFn5rF8b4gK1oerNmDXy5WwhcQN34VPwVOEw7X9PXrOOrqT3UgH8/JFd856Y2/58D6XoFswGxLq3xASuraKUVEd1sLtkffIaLcEDkLN0Lz1xGG/LHZsDe5Ha0CRf1WYR2s4STqufySOV5Ssy90KurX63B+nQf/iR0Zt5LIoDPPGmSCnP3AhyAfRB72YOdl94QJR4gOy7gFaLLK3QxahOw=;SoOglnuuoBP4Rc2n7Np0pQ=="
 ---

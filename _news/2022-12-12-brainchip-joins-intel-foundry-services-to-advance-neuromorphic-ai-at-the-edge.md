@@ -1,29 +1,27 @@
 ---
 category: news
 title: "BrainChip Joins Intel Foundry Services to Advance Neuromorphic AI at the Edge"
-excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(OTC:BCHPY), the world's first commercial producer of ultra-low power neuromorphic AI IP, today announced that it has"
-publishedDateTime: 2022-12-11T21:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/12/ac30033830/brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge"
-webUrl: "https://www.benzinga.com/pressreleases/22/12/ac30033830/brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge"
-ampWebUrl: "https://www.benzinga.com/amp/content/30033830"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30033830"
+excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / December 11, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world’s first commercial producer of ultra-low power neuromorphic AI IP, today announced that it has become a member of the Intel Foundry Services (IFS) ecosystem alliance to help advance innovation on Intel’s foundry manufacturing platform."
+publishedDateTime: 2022-12-11T22:31:00Z
+originalUrl: "https://apnews.com/article/technology-science-2c43e08ce7066c0297384c7355c8ef96"
+webUrl: "https://apnews.com/article/technology-science-2c43e08ce7066c0297384c7355c8ef96"
 type: article
-quality: 71
-heat: 81
-published: true
+quality: 51
+heat: 61
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
-    width: 800
-    height: 313
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -37,6 +35,6 @@ related:
       domain: finanznachrichten.de
     quality: 15
 
-secured: "w4Lg3hgnFcavCN4M2I3rjdb5xlik0vFSNG86WqVIaEYNjnBhZM7ypN9tQxg9kbfRCXseFxtFgdA1I17TVznSUVMxgQHZL6rYvX0SRtX3rybkYs57/WOkj3PQVmS53Wj2WMx1DIs5gThiyAVLQw8953UsRg3qC9kA5E/zBwt4MXiVyUImkfgLlP+un79NB+om42Yuo/sSKeH6ftw8mKBq6f4pTaXbBigrpUYJ5PiqclH6FmYi3GEPzOlvcPPjj5/XylxrNbC4wmR6BRZIWDdV4dV4Jwhq+X1gEo3uBr57PWa6/ck3g3Gy1IFSHrvsPwZFEWrl0Z7aEcZyj4vVJqdHYoY7Uw0fQfrifUh9WujLbhk=;W6mN8bY8vfMcfbzQDBZv3A=="
+secured: "UpE/MmoxPNqrWVLYXvjjHf7n+gU0OrmbJoCjOIS8m1zkwwdqWoAqnj4dZhW7hCrtkKWlgfWv7voQLxvgnZ7PAXILwC7L0DVSmn6leNdYV/oiQ94tVoQtx9Gqn3Ehcud6nWqZCRLLqjf6dlIRzZe9bx+k1h0i+x9PBSXB2tzYRg5LzvDJWApq1HPUkAiEcuaedUIJ7WsvV+ZbH7oaKys09Ka531G5Cf9fQASlx1rHBwb3K7watEyLYB+YBCONviYfxWxcHTAQZphdDiAt/88pZgVCh83qxPf8EsbliaeHMbeNZo10v8UJMR/Oi7uA9X7yRsMmaVBwvvpGefwh4oQ9h0mpO0tR7IpMqjsD849gc+8=;uR/TThIOf7O7dKyUWaQHTg=="
 ---
 

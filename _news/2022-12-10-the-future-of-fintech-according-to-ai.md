@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alexlazarow/2022/12/10/the-future-of-fi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexlazarow/2022/12/10/the-future-of-fintech-according-to-ai/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/639618d36b2bd6c01b620ebf/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Deploying AI Strategies to Mitigate Banking and Fintech Fraud"
+    excerpt: "Research shows that 43 per cent of financial services organizations expect the cost-of-living crisis to increase the risk of financial crime and fraud over the next 12 months, as scammers target vulne"
+    publishedDateTime: 2022-12-12T05:49:00Z
+    webUrl: "https://financialit.net/blog/ai-baking-fintech/deploying-ai-strategies-mitigate-banking-and-fintech-fraud"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 54
+    images:
+      - url: "https://financialit.net/sites/default/files/carol_hamilton_-_provenir.png"
+        width: 3024
+        height: 3024
         isCached: true
   - title: "7 FinTech funding rounds that occurred in the Americas in November 2022"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
