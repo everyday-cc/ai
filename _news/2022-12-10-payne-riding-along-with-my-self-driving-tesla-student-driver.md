@@ -35,6 +35,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Apple Ditching Innovation In Favor Of Pragmatism With MR Offering, Self-Driving Car, Gurman Says"
+    excerpt: "Two products in Apple Inc.’s (NASDAQ: AAPL) pipeline have seen delays and a new report suggests that the company is compromising on innovation just to get these two p"
+    publishedDateTime: 2022-12-12T11:03:00Z
+    webUrl: "https://www.benzinga.com/news/22/12/30034710/apple-ditching-innovation-in-favor-of-pragmatism-with-mr-offering-self-driving-car-gurman-says"
+    ampWebUrl: "https://www.benzinga.com/amp/content/30034710"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30034710"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 31
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2022/12/12/apple_photo_by_tishomir_on_shutterstock.jpg?width=1200&height=800&fit=crop"
+        width: 771
+        height: 514
+        isCached: true
   - title: "Watch How A Self-Driving Truck Reacts To A Catastrophic Tire Blowout"
     excerpt: "One firm working on that problem, Kodiak, a self-driving trucking startup, just showed how well its software can handle a tire blowout. Kodiak Robotics is just one of many companies working on autonomous trucking but it’s one of very few showing off results."
     publishedDateTime: 2022-12-10T13:09:00Z

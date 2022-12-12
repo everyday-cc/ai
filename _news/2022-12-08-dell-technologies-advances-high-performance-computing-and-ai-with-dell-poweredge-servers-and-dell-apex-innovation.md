@@ -43,15 +43,6 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "TIFIN Announces Asset Management Industry’s SaaS-based AI Platform for Modern Distribution"
-    excerpt: "As noted in the update, TIFIN is “an AI-powered fintech that leverages data science, investment intelligence, and technology to deliver engaging and personalized investor experiences.” By connecting individuals to advice and investments, TIFIN ..."
-    publishedDateTime: 2022-12-07T19:33:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/12/199596-tifin-announces-asset-management-industrys-saas-based-ai-platform-for-modern-distribution/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 9
 
 secured: "UqTHC3IIVIay9ZnUBzhy3pSJ1lJ9lR0V/FJJ7Ye3HHIrfVoyfGaTXjnXsUgiSOAX8L6ks2lJmg4Ml8HiXPXQXwnZBG8VY6aNaxAZHC0Ub6HFEfUwNBUdatZEiydfG55S8TalChK6dbpil1VW5uXZwpW0yP45lox/ueOcqHBTibRdr7fSbrYB7cZUa4BrTd1QtzTrG58nfK6Gz2mX7iNpofGIp0jLIy26xQwPATHAL2xgN+Ac1iXXOA06ZJzuWdnuUzYO9VlPcIGv5Dv91atRaH0xoufbegLbj1JtRgAyPDUbtKlD+NMULRMtq3VUYNttogwXQrqVP0slKpZxlfdpXa12CDNF1D+c9eO37bVPARY=;68JKlOCes/hAgsrl97aWOA=="
 ---

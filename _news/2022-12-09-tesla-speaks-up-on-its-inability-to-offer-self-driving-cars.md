@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digit.in/article/amp/car-tech/66311/tesla-speaks-up-on-i
 cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/car-tech/66311/tesla-speaks-up-on-its-inability-to-offer-self-driving-cars"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple Ditching Innovation In Favor Of Pragmatism With MR Offering, Self-Driving Car, Gurman Says"
+    excerpt: "Two products in Apple Inc.’s (NASDAQ: AAPL) pipeline have seen delays and a new report suggests that the company is compromising on innovation just to get these two p"
+    publishedDateTime: 2022-12-12T11:03:00Z
+    webUrl: "https://www.benzinga.com/news/22/12/30034710/apple-ditching-innovation-in-favor-of-pragmatism-with-mr-offering-self-driving-car-gurman-says"
+    ampWebUrl: "https://www.benzinga.com/amp/content/30034710"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30034710"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 31
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2022/12/12/apple_photo_by_tishomir_on_shutterstock.jpg?width=1200&height=800&fit=crop"
+        width: 771
+        height: 514
+        isCached: true
   - title: "Payne: Riding along with my self-driving Tesla student driver"
     excerpt: "Payne's Model 3 carries Full Self Driving, Tesla's ambitious software that enables the car to drive itself on public roads, an upgrade over Autopilot."
     publishedDateTime: 2022-12-10T03:00:00Z

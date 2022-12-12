@@ -142,6 +142,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-10-a-new-soft-robot-is-able-to-spot-injuries-and-self-heal.md",
+      "title": "A New Soft Robot Is Able to Spot Injuries and Self-Heal",
+      "excerpt": "A new study by Cornell University researchers published in Science Advances introduces an autonomous, self-healing soft robot that is not only able to identify injuries but also heal itself. The scientists plan to integrate these soft robots with artificial intelligence (AI) machine learning in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202212/new-soft-robot-is-able-spot-injuries-and-self-heal",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202212/new-soft-robot-is-able-spot-injuries-and-self-heal",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-12/pic0231.gif.jpg?itok=vtdBTh6f",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202212/new-soft-robot-is-able-spot-injuries-and-self-heal?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202212/new-soft-robot-is-able-spot-injuries-and-self-heal?amp",
+      "publishedDateTime": "2022-12-09T09:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-09-why-robots-are-taking-over-the-world-and-thats-a-good-thing.md",
       "title": "Why Robots Are Taking Over The World - And That's A Good Thing",
       "excerpt": "Robots and automation are not \"taking jobs\" in this latest economic downturn but are instead doing the work that few people want to do — from weeding fields to cleaning floors to stacking boxes.",
@@ -742,6 +785,60 @@
       ]
     },
     {
+      "path": "_news/2022-12-03-the-story-of-neuralink-elon-musks-ai-brain-chip-company-where-he-had-twins-with-a-top-executive.md",
+      "title": "The story of Neuralink: Elon Musk's AI brain chip company where he had twins with a top executive",
+      "excerpt": "He says he started one of them to achieve \"symbiosis\" between the human brain and artificial intelligence ... treatment of the monkeys used in its research. In February 2022, animal-rights ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/neuralink-elon-musk-microchips-brains-ai-2021-2",
+      "originalUrl": "https://www.businessinsider.com/neuralink-elon-musk-microchips-brains-ai-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fcd5470eadd8400183df66e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/neuralink-elon-musk-microchips-brains-ai-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/neuralink-elon-musk-microchips-brains-ai-2021-2?amp",
+      "publishedDateTime": "2022-12-02T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-12-03-armed-police-robots-will-be-a-threat-to-public-safety-heres-why.md",
       "title": "Armed police robots will be a threat to public safety. Here’s why.",
       "excerpt": "The vote and authorization, which caught national attention, speaks directly to the real fears and perils regarding the use of robotics and remote-control tools domestically. The vote took place ...",
@@ -1293,92 +1390,6 @@
       "provider": {
         "name": "New York Post",
         "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-san-francisco-will-allow-police-to-deploy-robots-that-kill-in-extreme-circumstances.md",
-      "title": "San Francisco will allow police to deploy robots that kill 'in extreme circumstances'",
-      "excerpt": "SAN FRANCISCO – Supervisors in San Francisco voted Tuesday to give city police the ability to use potentially lethal, remote-controlled robots in emergency situations – following an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2022/11/30/california-police-deploy-robots-kill/10801825002/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2022/11/30/california-police-deploy-robots-kill/10801825002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2022/11/30/USAT/919c69c3-daac-40d7-9a4c-af72bb516870-AP22333707907710.jpg?auto=webp&crop=2999,1687,x1,y184&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T12:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-verdant-robotics-cultivates-465m-in-series-a-funding.md",
-      "title": "Verdant Robotics cultivates $46.5M in Series A funding",
-      "excerpt": "Verdant Robotics' Series A raised $46.5 million. The money will speed up the company's robotic farm manufacturing and market launch.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/verdant-robotics-cultivates-46-5m-in-series-a-funding/",
-      "originalUrl": "https://www.therobotreport.com/verdant-robotics-cultivates-46-5m-in-series-a-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/11/Verdant-fleet-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T09:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
         "images": null,
         "publishers": null,
         "authors": null

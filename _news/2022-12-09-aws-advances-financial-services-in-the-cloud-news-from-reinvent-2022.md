@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2022/12/08/aws-advances-fi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/12/08/aws-advances-financial-services-in-the-cloud-news-from-reinvent-2022/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS re:Invent Recap: 20 Biggest Products And Announcements"
-    excerpt: "Invent 2022 new products, partnerships and big news announcements focus on AI, security, data, IBM, Red Hat, Accenture, AWS Marketplace and cloud innovation."
-    publishedDateTime: 2022-12-07T19:13:00Z
-    webUrl: "https://www.crn.com/news/cloud/aws-re-invent-recap-20-biggest-products-and-announcements"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/0274-1500bd72672e-acf899082c06-1000/aws-sign-summit.jpg"
-        width: 610
-        height: 458
-        isCached: true
   - title: "Announcements you might have missed from AWS reInvent 2022"
     excerpt: "Attendees at this year’s AWS reInvent witnessed the cloud giant unveiling a multitude of new products and services."
     publishedDateTime: 2022-12-08T23:44:00Z

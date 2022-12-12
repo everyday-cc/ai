@@ -201,20 +201,6 @@ related:
         width: 730
         height: 380
         isCached: true
-  - title: "ChatGPT is the clearest example of how seamless AI has become"
-    excerpt: "OpenAI's new program creates stories, poems and other text that can be mistaken for human made. That comes with issues."
-    publishedDateTime: 2022-12-07T21:00:00Z
-    webUrl: "https://technical.ly/software-development/chatgpt-openai-ethics-artificial-intelligence/"
-    type: article
-    provider:
-      name: Technical
-      domain: technical.ly
-    quality: 39
-    images:
-      - url: "https://technical.ly/wp-content/uploads/2022/12/pexels-pixabay-373543-e1670436461110.jpg"
-        width: 1000
-        height: 666
-        isCached: true
   - title: "Could a ’scary good’ AI chatbot backed by Elon Musk steal your job?"
     excerpt: "University as we know it will cease to exist. It genuinely feels like having a personal assistant. One of the most disruptive technologies ever created. Google is dead."
     publishedDateTime: 2022-12-08T04:11:00Z
@@ -293,6 +279,6 @@ related:
       domain: newyorker.com
     quality: 4
 
-secured: "jjFH4Q1Kv5cuz2MTTEkyKhTQlgQXPpSxU4AtDhOgLm5tT88DA8Hx4X4esBgQcwBR6cz4ES9U4Fi0/dL50DpwKeCncGEtpwLS/NqjODVJwet4xYi6eppX3V0EXf2KFMITRhv+yYmQHwQaZrnOEI03yhWbfPV8ocv0/SvbwjbMD68TvZ/3uen9/4k6n1/EXp1qZDab0xwL4Eiyqp0R6GrfGVYB54do+UFYEqvp/2TprauthCfGUvqLcaaZkVziTe/MwUQAezTf4U5GS6A1BPy/qNPGBMrOoXLainJo+eZJQT/uU98JMwF2RHpHZMm/WFwITuVlhguxnkfhTMif0M/MSUggKM2x9fPt70+yloFJQ5Q=;yDMy0KTp66Wm118KV3G3tA=="
+secured: "u2UeMgw+OMw0OepqUvz0VpYHmCZF/WKJSCXCX7wmDdmf1Z+GGLYE6BzEIqhn5e5FTdetv2Fnl98HIi04xPyg40a877Y24xnOdRilY6ngBR6X53yOrTEiLqs+V2H7LmVr8HxpPgdyj7T5W9Q6+VYG8JEmVhdA1Oyj6ZDcuFP74Oc+OWGDsKRkLCZ4M6wXMO8mov6n2mGdbnVzndo6zQ+HwltYHVKY7MoVmTrzgihsGnsZ9gp7lhtUbyNBUs6cziBxhuZJPY85C+Pazo/xgK+IXxYsd8ixNy7njAjjwMmE0LWyVKVqSZn5OIWN70aid78GVgMt8dI5RmBrjEfLzf46BQWNMhyTEAgffMB2/D92PCkitqqvm+vS+1DiPOQduBGs0zzAQnUol0jzER/npcFGOcIBnw8PZPrnGCVfVQABWnTCex2ksgkoNNu7zdpGSQSLeW8JHuwjYg5c6qXmo8mY26/lzWH9OSTlVUHGX+KLnP0wVa1OBV2qeKMJL4nREcUAs+nxM9oeiQvnLU7um3Uiqw==;aNpZ1eUFZWx55teCr3M2DA=="
 ---
 

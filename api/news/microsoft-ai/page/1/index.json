@@ -255,6 +255,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-07-hearing-aids-may-help-prevent-cognitive-decline-study-says.md",
+      "title": "Hearing aids may help prevent cognitive decline, study says",
+      "excerpt": "(CNN) - A new study indicates that hearing aids may help delay or reduce dementia and cognitive decline. The findings were published Monday in JAMA Neurology. Research has shown that hearing loss ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wcax.com/2022/12/06/hearing-aids-may-help-prevent-cognitive-decline-study-says/",
+      "originalUrl": "https://www.wcax.com/2022/12/06/hearing-aids-may-help-prevent-cognitive-decline-study-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/SmEwfcRj9VGp1UYvYzrlv6CeDUs=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/CDB3NJQQPZBX3PQP2KHRXTQMMI.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wcax.com/2022/12/06/hearing-aids-may-help-prevent-cognitive-decline-study-says/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wcax-com.cdn.ampproject.org/c/s/www.wcax.com/2022/12/06/hearing-aids-may-help-prevent-cognitive-decline-study-says/?outputType=amp",
+      "publishedDateTime": "2022-12-07T06:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WCAX3",
+        "domain": "wcax.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-07-tata-tele-business-services-to-offer-microsoft-azure-to-smbs.md",
       "title": "Tata Tele Business Services to offer Microsoft Azure to SMBs",
       "excerpt": "Microsoft Azure offers essential compute, storage and networking resources on demand, on a pay-as-you-go-basis including services like On-Prem to Azure Migration, Microsoft Azure Managed Services, Public Cloud to Azure Migration,",
@@ -284,6 +327,49 @@
       "provider": {
         "name": "Indiatimes",
         "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-study-links-ultra-processed-foods-to-dementia-and-cognitive-decline.md",
+      "title": "Study links ultra-processed foods to dementia and cognitive decline",
+      "excerpt": "Ultra-processed foods might go easy on a person's taste buds and wallet, but a new study now suggests they are linked to dementia and cognitive decline. The study, titled \"Association Between ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonexaminer.com/news/study-links-ultra-processed-foods-to-dementia-and-cognitive-decline",
+      "originalUrl": "https://www.washingtonexaminer.com/news/study-links-ultra-processed-foods-to-dementia-and-cognitive-decline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediadc.brightspotcdn.com/dims4/default/05f6b89/2147483647/strip/true/crop/2290x1202+0+79/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F89%2Fb3%2Fa4f148c84b9f9ea2a5f97d18530e%2Fmcdonalds-cop.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T22:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -347,6 +433,230 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-ultra-processed-foods-linked-to-cognitive-decline-dementia-study.md",
+      "title": "Ultra-processed foods linked to cognitive decline, dementia: study",
+      "excerpt": "A new study published in JAMA Neurology on Monday found that people could be at a higher risk of cognitive decline if more than 20% of their daily caloric intake is ultra-processed foods.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2022/12/06/ultra-processed-foods-linked-to-cognitive-decline-dementia/",
+      "originalUrl": "https://nypost.com/2022/12/06/ultra-processed-foods-linked-to-cognitive-decline-dementia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/12/bad-food-comp.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2022/12/06/ultra-processed-foods-linked-to-cognitive-decline-dementia/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/12/06/ultra-processed-foods-linked-to-cognitive-decline-dementia/amp/",
+      "publishedDateTime": "2022-12-06T09:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-study-hearing-aids-may-help-slow-cognitive-decline.md",
+      "title": "Study: Hearing aids may help slow cognitive decline",
+      "excerpt": "A new study indicates that hearing aids may help delay or reduce dementia and cognitive decline. The findings were published Monday in the medical journal JAMA Neurology. Research has shown that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kshb.com/news/national/study-hearing-aids-may-help-slow-cognitive-decline",
+      "originalUrl": "https://www.kshb.com/news/national/study-hearing-aids-may-help-slow-cognitive-decline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/bf26fc3/2147483647/strip/true/crop/5000x2813+0+261/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F05%2Faf%2F9457e6804e6cb66a3c6e41cdead0%2Fap22334703657980.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kshb.com/news/national/study-hearing-aids-may-help-slow-cognitive-decline?_amp=true",
+      "cdnAmpWebUrl": "https://www-kshb-com.cdn.ampproject.org/c/s/www.kshb.com/news/national/study-hearing-aids-may-help-slow-cognitive-decline?_amp=true",
+      "publishedDateTime": "2022-12-06T07:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSHB Kansas City",
+        "domain": "kshb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-how-are-hearing-aids-and-dementia-related-a-new-study-explains.md",
+      "title": "How are hearing aids and dementia related? A new study explains",
+      "excerpt": "Hearing aids might be an important tool in the effort to prevent cognitive decline and dementia, according to a new study. Research has established that hearing loss in an important risk factor in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/12/05/health/hearing-loss-dementia-study-wellness/index.html",
+      "originalUrl": "https://www.cnn.com/2022/12/05/health/hearing-loss-dementia-study-wellness/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221205095708-hearing-loss-dementia-wellness-stock-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/12/05/health/hearing-loss-dementia-study-wellness/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/12/05/health/hearing-loss-dementia-study-wellness/index.html",
+      "publishedDateTime": "2022-12-05T14:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-use-it-or-lose-it-hearing-aids-linked-to-cognitive-benefit.md",
+      "title": "Use It, or Lose It: Hearing Aids Linked to Cognitive Benefit",
+      "excerpt": "Opens in a new tab or window Restoring hearing loss with hearing aids or cochlear implants was linked with less long-term cognitive decline and even some gain, a systematic review and meta ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/geriatrics/dementia/102061",
+      "originalUrl": "https://www.medpagetoday.com/geriatrics/dementia/102061",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.medpagetoday.net/media/images/102xxx/102061.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T13:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-05-cuttlefish-passed-a-cognitive-test-designed-for-humans.md",
+      "title": "Cuttlefish passed a cognitive test designed for humans",
+      "excerpt": "This discovery, the researchers say, is an example of advanced self-control and shows that the creatures perform better in cognitive tasks. It has also been hypothesized that these positive ...",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/science/cuttlefish-passed-a-cognitive-test-designed-for-humans/",
+      "originalUrl": "https://bgr.com/science/cuttlefish-passed-a-cognitive-test-designed-for-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2022/12/AdobeStock_159088227.jpeg?quality=82&strip=all",
+          "width": 2400,
+          "height": 1596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-04T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1044,312 +1354,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-11-29T03:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-slow-cognitive-decline-with-flavonols-study-says.md",
-      "title": "Slow cognitive decline with flavonols, study says",
-      "excerpt": "The cognitive score of people in the study who ate the most flavonols declined 0.4 units per decade more slowly than those who ate the fewest flavonols. The results held even after adjusting for other factors that can affect memory, such as age ...",
-      "sourceUrl": null,
-      "webUrl": "https://egyptindependent.com/slow-cognitive-decline-with-flavonols-study-says/",
-      "originalUrl": "https://egyptindependent.com/slow-cognitive-decline-with-flavonols-study-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T01:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Egypt Independent",
-        "domain": "egyptindependent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-these-video-games-for-dogs-might-have-cognitive-benefits-for-aging-pups.md",
-      "title": "These Video Games For Dogs Might Have Cognitive Benefits For Aging Pups",
-      "excerpt": "After reading a 2017 report that touchscreen games could have cognitive benefits for dogs, he realized the project might have wider applications. The first challenge is getting and keeping the dog ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gamespot.com/articles/these-video-games-for-dogs-might-have-cognitive-benefits-for-aging-pups/1100-6509524/",
-      "originalUrl": "https://www.gamespot.com/articles/these-video-games-for-dogs-might-have-cognitive-benefits-for-aging-pups/1100-6509524/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/original/1690/16904437/4068560-joipaw.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/these-video-games-for-dogs-might-have-cognitive-benefits-for-aging-pups/1100-6509524/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/these-video-games-for-dogs-might-have-cognitive-benefits-for-aging-pups/1100-6509524/",
-      "publishedDateTime": "2022-11-29T00:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-how-immune-cells-prevent-cognitive-decline.md",
-      "title": "How immune cells prevent cognitive decline",
-      "excerpt": "Could the underproduction of poorly understood immune cells contribute to Alzheimer's disease and other forms of cognitive decline? A Rutgers study in Nature Immunology suggests it may -- and that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221129134422.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221129134422.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-microsoft-announces-quarterly-dividend.md",
-      "title": "Microsoft announces quarterly dividend",
-      "excerpt": "REDMOND, Wash. — Nov. 29, 2022 — Microsoft Corp. on Tuesday announced that its board of directors declared a quarterly dividend of $0.68 per share. The dividend is payable March 9, 2023, to shareholders of record on Feb. 16, 2023. The ex-dividend date ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/2022/11/29/microsoft-announces-quarterly-dividend-19/",
-      "originalUrl": "https://news.microsoft.com/2022/11/29/microsoft-announces-quarterly-dividend-19/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity.md",
-      "title": "Where CISOs rely on AI and machine learning to strengthen cybersecurity",
-      "excerpt": "However, artificial intelligence (AI) and machine learning (ML) are proving effective in strengthening cybersecurity by scaling data analysis volume while increasing response speeds and securing digital transformation projects under construction. “",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/",
-      "originalUrl": "https://venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1401124210-Thinkhubstudio-e1669658425465.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 606,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity/amp/",
-      "publishedDateTime": "2022-11-28T14:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare",
-        "Microsoft AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-enzyme-drives-cognitive-decline-in-mice-provides-new-target-for-alzheimers.md",
-      "title": "Enzyme drives cognitive decline in mice, provides new target for Alzheimer's",
-      "excerpt": "In a new study, researchers at University of California San Diego School of Medicine found that the subtle increase in PKCα was sufficient to produce biochemical, cellular and cognitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-11-enzyme-cognitive-decline-mice-alzheimer.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-11-enzyme-cognitive-decline-mice-alzheimer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/enzyme-drives-cognitiv-1.jpg",
-          "width": 650,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-11-enzyme-cognitive-decline-mice-alzheimer.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-enzyme-cognitive-decline-mice-alzheimer.amp",
-      "publishedDateTime": "2022-11-28T11:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-artificial-intelligenceai-in-retail-market-by-2022-size-business-improvement-offer-and-valuable-opportunities-2029-ibm-microsoft-nvidia.md",
-      "title": "Artificial Intelligence(AI) in Retail Market By 2022: Size, Business Improvement, Offer and Valuable Opportunities 2029 | IBM, Microsoft, Nvidia",
-      "excerpt": "The Artificial Intelligence(AI) in Retail Market research report provides all the information related to the industry. It gives the market’s outlook by giving authentic data to its client, which ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligenceai-in-retail-market-by-2022-size-business-improvement-offer-and-valuable-opportunities-2029-ibm-microsoft-nvidia",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligenceai-in-retail-market-by-2022-size-business-improvement-offer-and-valuable-opportunities-2029-ibm-microsoft-nvidia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://xherald.com/wp-content/uploads/2022/11/Artificial-IntelligenceAI-in-Retail.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T10:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Digital Journal",

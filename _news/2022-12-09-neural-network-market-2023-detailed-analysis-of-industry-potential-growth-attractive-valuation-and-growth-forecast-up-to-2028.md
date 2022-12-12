@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/neural-network-market-20
 webUrl: "https://www.marketwatch.com/press-release/neural-network-market-2023-detailed-analysis-of-industry-potential-growth-attractive-valuation-and-growth-forecast-up-to-2028-2022-12-09"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Alzheimer’s Applications Market Growth, Industry Analysis, Share, Trend, Top Key Players and Forecast by 2030"
-    excerpt: "A new business intelligence report released by Infinity Business Insights with title Global Artificial Intelligence (AI) in Alzheimer’s Applications Market research report provides a thorough examination of the industry."
-    publishedDateTime: 2022-12-08T04:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-alzheimers-applications-market-growth-industry-analysis-share-trend-top-key-players-and-forecast-by-2030-2022-12-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in BFSI Market To Show Incredible Growth And Forecast By 2028 Segment, Privacy Tools And Key Players Information"
     excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence in BFSI Market will have significant change from previous year. By the most conservati"
     publishedDateTime: 2022-12-11T10:26:00Z

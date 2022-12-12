@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 669
         isCached: true
+  - title: "Artificial Intelligence Has Big Implications For Ownership In The Music Industry"
+    excerpt: "It'll be a performer whose lyrics, melodies and voice are solely created by artificial intelligence (AI). We’re already seeing hints of this with virtual artists such as metaverse avatars, hybrid performers that rely on a combination of AI and human talent."
+    publishedDateTime: 2022-12-12T12:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/artificial-intelligence-has-big-implications-for-ownership-in-the-music-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/artificial-intelligence-has-big-implications-for-ownership-in-the-music-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/artificial-intelligence-has-big-implications-for-ownership-in-the-music-industry/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 82
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63933ecc024703627d65ce91/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Artificial intelligence creating new value-generation ways for operators of infrastructure networks"
     excerpt: "The use of artificial intelligence (AI) techniques in the operation of infrastructure networks and within industries is leading to new ways of generating value for the companies and the users, says AI solutions company ExploreAI CTO Aidan Helmbold."
     publishedDateTime: 2022-12-08T21:59:00Z

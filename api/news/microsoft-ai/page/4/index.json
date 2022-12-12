@@ -2,6 +2,325 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-11-cognitive-function-at-older-ages-linked-to-childhood-lead-exposure.md",
+      "title": "Cognitive Function at Older Ages Linked to Childhood Lead Exposure",
+      "excerpt": "Older adults who lived as children in cities with lead pipes and acidic or alkaline water that would leach it had lower cognitive functioning at age 72 than others (β -0.408, P<0.01), reported ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/neurology/dementia/101689",
+      "originalUrl": "https://www.medpagetoday.com/neurology/dementia/101689",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.medpagetoday.net/media/images/101xxx/101689.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T15:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-11-openai-leads-235m-round-in-mem-an-ai-powered-note-taking-app.md",
+      "title": "OpenAI leads $23.5M round in Mem, an AI-powered note-taking app",
+      "excerpt": "Mem, an AI-powered note-taking app, has raised capital from OpenAI's startup fund -- one of the first companies to do so.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/10/ai-powered-note-taking-app-mem-raises-23-5m-openai/",
+      "originalUrl": "https://techcrunch.com/2022/11/10/ai-powered-note-taking-app-mem-raises-23-5m-openai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1130532319.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/10/ai-powered-note-taking-app-mem-raises-23-5m-openai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/10/ai-powered-note-taking-app-mem-raises-23-5m-openai/amp/",
+      "publishedDateTime": "2022-11-10T15:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-11-microsoft-is-testing-new-ads-in-windows-11.md",
+      "title": "Microsoft is testing new ads in Windows 11",
+      "excerpt": "it's ads appearing in the operating system—said no one other than Microsoft. The Redmond firm appears to be testing a feature in preview builds that shows ads for its services in the flyout menu ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/96601-microsoft-testing-ads-services-windows-11.html",
+      "originalUrl": "https://www.techspot.com/news/96601-microsoft-testing-ads-services-windows-11.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/08/2020-08-14-image-5.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T11:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-10-cybersecurity-cloud-and-coding-why-these-three-skills-will-lead-demand-in-2023.md",
+      "title": "Cybersecurity, cloud and coding: Why these three skills will lead demand in 2023",
+      "excerpt": "Simon Hepburn, CEO of the UK's Cyber Security Council, says the demand of cybersecurity skills in the UK is particularly pronounced, with an estimated 14,100 roles currently sitting unfilled. According to Hepburn,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/cybersecurity-cloud-and-coding-why-these-three-skills-will-lead-demand-in-2023/",
+      "originalUrl": "https://www.zdnet.com/article/cybersecurity-cloud-and-coding-why-these-three-skills-will-lead-demand-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/022a9e75158c7a25c5e2dbc704e5d5f91f910a2e/2021/11/23/f6662bee-270f-4251-b276-b64006654183/it-leadership-project-collaboration-office-workforce.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cybersecurity-cloud-and-coding-why-these-three-skills-will-lead-demand-in-2023/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cybersecurity-cloud-and-coding-why-these-three-skills-will-lead-demand-in-2023/",
+      "publishedDateTime": "2022-11-10T06:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-10-altec-and-accel-works-partner-to-enhance-enterprise-digitalisation-in-southeast-asia-via-integrated-document-and-data-management.md",
+      "title": "Altec And Accel Works Partner To Enhance Enterprise Digitalisation In Southeast Asia Via Integrated Document And Data Management",
+      "excerpt": "SINGAPORE - - 10 November 2022 - , a leading provider of enterprise content platform and process automation solutions and Accel Works, a professio",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105162269/Altec-And-Accel-Works-Partner-To-Enhance-Enterprise-Digitalisation-In-Southeast-Asia-Via-Integrated-Document-And-Data-Management",
+      "originalUrl": "https://menafn.com/1105162269/Altec-And-Accel-Works-Partner-To-Enhance-Enterprise-Digitalisation-In-Southeast-Asia-Via-Integrated-Document-And-Data-Management",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-11/10/MOL_d6ef1007-1_Image_In_Body.jpg",
+          "width": 318,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T05:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-10-tech-giant-microsoft-to-invest-1b-plus-in-north-carolina-data-center-operations.md",
+      "title": "Tech giant Microsoft to invest $1B-plus in North Carolina data center operations",
+      "excerpt": "Microsoft Corp. will invest at least $1 billion within 10 years in data center operations in Catawba County, the technology giant revealed Wednesday. The announcement came after the Catawba County Board of Commissioners,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/triad/news/2022/11/10/catawba-county-microsoft-expansion-data-center.html",
+      "originalUrl": "https://www.bizjournals.com/triad/news/2022/11/10/catawba-county-microsoft-expansion-data-center.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-10T03:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-10-use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says.md",
+      "title": "Use of government food benefits may slow cognitive aging in eligible seniors, study says",
+      "excerpt": "Nutrition benefits could be an effective way to slow age-related cognitive decline, according to a new study.The study, published Wednesday in the journal Neurology, found that eligible seniors ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wlwt.com/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252",
+      "originalUrl": "https://www.wlwt.com/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-90d814141c79d2c1ae6043eeb2472008-h-2b8641cbdfa05e06661d58c5c0f151bd-1668041453.jpg?crop=1.00xw:0.846xh;0,0&resize=1200:*",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wlwt.com/amp/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252",
+      "cdnAmpWebUrl": "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/use-of-government-food-benefits-may-slow-cognitive-aging-in-eligible-seniors-study-says/41915252",
+      "publishedDateTime": "2022-11-09T23:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WLWT",
+        "domain": "wlwt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-10-column-music-powerful-tool-for-joy-improves-cognitive-processing-speed.md",
       "title": "Column: Music powerful tool for joy, improves cognitive processing speed",
       "excerpt": "In addition, music can help slow age-related cognitive decline by improving aging adults’ cognitive processing speed. Think about that for a moment. We are all part of the \"aging population,\" right?",
@@ -993,318 +1312,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-researchers-corroborate-the-importance-of-exercise-for-cognitive-function.md",
-      "title": "Researchers corroborate the importance of exercise for cognitive function",
-      "excerpt": "A special issue of Brain Plasticity presents new research and insights on neural plasticity and the role of peripheral factors in cognitive health. At least a dozen peripheral factors have been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20221102/Researchers-corroborate-the-importance-of-exercise-for-cognitive-function.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20221102/Researchers-corroborate-the-importance-of-exercise-for-cognitive-function.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/87802400-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-tomahawk-robotics-successfully-hosts-microsoft-azure-sdk-on-kxm-body-worn-edge-processor.md",
-      "title": "Tomahawk Robotics Successfully Hosts Microsoft Azure SDK on KxM Body-Worn Edge Processor",
-      "excerpt": "Tomahawk Robotics, a leading innovator of common control solutions, is pleased to share we have successfully hosted Microsoft Azure SDK on our KxM edge device, a body-worn Kinesis Ecosystem extension to provide processing and network management at the edge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-tomahawk-robotics-successfully-hosts-microsoft-azure-sdk-kxm-/2022/11/01/9703942.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-tomahawk-robotics-successfully-hosts-microsoft-azure-sdk-kxm-/2022/11/01/9703942.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1935465/Tomahawk_Robotics_KxM.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-01T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-microsoft-wants-ai-to-change-your-jobif-it-can-work-out-the-kinks.md",
-      "title": "Microsoft Wants AI To Change Your Job—If It Can Work Out the Kinks",
-      "excerpt": "Microsoft believes its artificial intelligence tools are poised to reshape ‘thousands’ of professions. There are just a few legal and ethical hazards",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-71667305701663.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-71667305701663.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2022/11/01/1600x900/EU-MICROSOFT-ALPHABET-AMAZON-COM-0_1667311964389_1667311964389_1667311995511_1667311995511.JPG",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-71667305701663.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-71667305701663.html",
-      "publishedDateTime": "2022-11-01T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times Tech",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-nuvance-health-launches-cognitive-care-at-home-program.md",
-      "title": "Nuvance Health launches cognitive care-at-home program",
-      "excerpt": "Danbury, Conn.-based Nuvance Health has started a remote patient monitoring program for patients with mild cognitive impairment that aims to improve their condition at home. The health system is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/innovation/nuvance-health-launches-cognitive-care-at-home-program.html",
-      "originalUrl": "https://www.beckershospitalreview.com/innovation/nuvance-health-launches-cognitive-care-at-home-program.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-01T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-sophia-genetics-partners-with-microsoft-to-accelerate-multimodal-health-data-analysis.md",
-      "title": "SOPHiA GENETICS Partners with Microsoft to Accelerate Multimodal Health Data Analysis",
-      "excerpt": "The agreement is to expand and reinforce data-driven medicine through the SOPHiA DDM™ health data analysis platform available with Microsoft",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sophia-genetics-partners-with-microsoft-to-accelerate-multimodal-health-data-analysis-1031858654",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sophia-genetics-partners-with-microsoft-to-accelerate-multimodal-health-data-analysis-1031858654",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1935064/SG_Microsoft_Partnership.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-01T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-trubrain-review-yummy-cognitive-goodness-does-it-really-work.md",
-      "title": "TruBrain Review: Yummy Cognitive Goodness-Does It Really Work",
-      "excerpt": "One is Oxiracetam, and the other is Piracetam. Both support the neural pathway and boost the neurons for better cognitive functions. In multiple studies conducted by neuroscientists, they found ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/outlook-spotlight/trubrain-review-yummy-cognitive-goodness-does-it-really-work-news-233945",
-      "originalUrl": "https://www.outlookindia.com/outlook-spotlight/trubrain-review-yummy-cognitive-goodness-does-it-really-work-news-233945",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/TruBrain_1667297858.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/outlook-spotlight/trubrain-review-yummy-cognitive-goodness-does-it-really-work-news-233945/amp",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/outlook-spotlight/trubrain-review-yummy-cognitive-goodness-does-it-really-work-news-233945/amp",
-      "publishedDateTime": "2022-11-01T03:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-autonomous-vehicle-startup-argo-ai-is-shutting-down.md",
-      "title": "Autonomous vehicle startup Argo AI is shutting down",
-      "excerpt": "Investors Ford and VW will absorb the company's tech and hire some of its employees, according to TechCrunch..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/autonomous-vehicle-startup-argo-ai-shutting-down-203250200.html",
-      "originalUrl": "https://www.engadget.com/autonomous-vehicle-startup-argo-ai-shutting-down-203250200.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-10/4f5ebfd0-5569-11ed-b7a7-463230a7765b",
-          "width": 1536,
-          "height": 999,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/autonomous-vehicle-startup-argo-ai-shutting-down-203250200.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/autonomous-vehicle-startup-argo-ai-shutting-down-203250200.html",
-      "publishedDateTime": "2022-11-01T00:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

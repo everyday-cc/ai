@@ -21,6 +21,7 @@ topics:
   - Facebook AI
   - AI
   - AI Hardware
+  - AI in Robotics
 
 images:
   - url: "https://i.insider.com/5fcd5470eadd8400183df66e?width=1200&format=jpeg"

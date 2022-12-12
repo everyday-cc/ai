@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1105288719/Himax-Wiseeyetm-Solution-EarnsMost-P
 webUrl: "https://menafn.com/1105288719/Himax-Wiseeyetm-Solution-EarnsMost-Promising-Product-At-EE-Awards-Asia-2022"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 387
     height: 250
     isCached: true
+
+related:
+  - title: "Himax WiseEye™ Solution Earns “Most Promising Product” at EE Awards Asia 2022"
+    excerpt: "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax” or “Company”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced its WiseEye™ Always-On smart image sensing total solution (“WiseEye”) received the award for “Most Promising Product” at the EE Awards Asia 2022 hosted by EE Times and EDN Asia on December 8,"
+    publishedDateTime: 2022-12-09T07:22:00Z
+    webUrl: "https://apnews.com/article/science-business-asia-himax-technologies-inc-0d0872ead48e8afd09efb60b72b02e4d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 21
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "ACQAeTQkNHSDmQRCHqyedkR745Vq9ukr1SMYONOKTrCFcG0IF4ujYW9vrnH8ANqQM+Zfz2WABs7xWXFpp3TWQ1KyqGqmXY8HiS2CTedqM1fhU1kIb9aGEcLr1ba2xWvOb8WWU1uBj30DLOe82DhCyK2UIHyXRABJ1yQ/+Xeey79PB+swPNsA07ucX36skzpedwcZVP2NhywxXp9YRWcZdUDLCbpXtLgea++NKzsfXFR0sFnzI2Is3eiQG4XFoqZNhSPNPrO2W3Hw2qaJ+Iwsp8MqoH+25v3zstmqtZudX1Ptc1EY5RwOYgbcyCECddJLywKnJZqqBpXieYar7h7gG1+csBAREdXggTkkPVal/bU=;39OWy3Fn0RtkUnEHODHq8w=="
 ---

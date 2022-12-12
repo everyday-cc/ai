@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/chatgpt-why-everyones-obsessed-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/chatgpt-why-everyones-obsessed-with-this-mind-blowing-ai-chatbot/"
 type: article
 quality: 87
-heat: 297
+heat: 287
 published: true
 
 provider:
@@ -190,20 +190,6 @@ related:
       - url: "https://grahamcluley.com/wp-content/uploads/2022/12/ss-episode-301.jpeg"
         width: 730
         height: 380
-        isCached: true
-  - title: "ChatGPT is the clearest example of how seamless AI has become"
-    excerpt: "OpenAI's new program creates stories, poems and other text that can be mistaken for human made. That comes with issues."
-    publishedDateTime: 2022-12-07T21:00:00Z
-    webUrl: "https://technical.ly/software-development/chatgpt-openai-ethics-artificial-intelligence/"
-    type: article
-    provider:
-      name: Technical
-      domain: technical.ly
-    quality: 39
-    images:
-      - url: "https://technical.ly/wp-content/uploads/2022/12/pexels-pixabay-373543-e1670436461110.jpg"
-        width: 1000
-        height: 666
         isCached: true
   - title: "Could a ’scary good’ AI chatbot backed by Elon Musk steal your job?"
     excerpt: "University as we know it will cease to exist. It genuinely feels like having a personal assistant. One of the most disruptive technologies ever created. Google is dead."

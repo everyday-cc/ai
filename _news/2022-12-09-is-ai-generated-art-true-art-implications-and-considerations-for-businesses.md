@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/09/is-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/09/is-ai-generated-art-true-art-implications-and-considerations-for-businesses/amp/"
 type: article
 quality: 85
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/12/kinetix-2.jpg?w=1200&strip=all"
         width: 1200
         height: 669
+        isCached: true
+  - title: "Artificial Intelligence Has Big Implications For Ownership In The Music Industry"
+    excerpt: "It'll be a performer whose lyrics, melodies and voice are solely created by artificial intelligence (AI). We’re already seeing hints of this with virtual artists such as metaverse avatars, hybrid performers that rely on a combination of AI and human talent."
+    publishedDateTime: 2022-12-12T12:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/artificial-intelligence-has-big-implications-for-ownership-in-the-music-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/artificial-intelligence-has-big-implications-for-ownership-in-the-music-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/artificial-intelligence-has-big-implications-for-ownership-in-the-music-industry/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 82
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63933ecc024703627d65ce91/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Nations Trading Their AI As Geopolitical Bargaining Chips Raises Angst For AI Ethics And AI Law"
     excerpt: "AI is increasingly going to become a type of horse trading between nations. Do we want this to occur? Should there be special limits imposed? A plethora of AI Ethics and AI Law ramifications arise. Read all about it."

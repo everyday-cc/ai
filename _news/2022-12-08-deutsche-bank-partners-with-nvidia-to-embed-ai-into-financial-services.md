@@ -7,8 +7,8 @@ originalUrl: "https://www.newelectronics.co.uk/content/news/deutsche-bank-partne
 webUrl: "https://www.newelectronics.co.uk/content/news/deutsche-bank-partners-with-nvidia-to-embed-ai-into-financial-services"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: New Electronics
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Deutsche commits to using AI tech from Nvidia throughout the bank"
-    excerpt: "Deutsche Bank has doubled down on its use of artificial intelligence. The Frankfurt-based bank announced on Wednesday a multi-year partnership with Santa Clara, California-based tech company Nvidia to accelerate and improve artificial intelligence and machine learning throughout the bank."
-    publishedDateTime: 2022-12-07T19:51:00Z
-    webUrl: "https://www.americanbanker.com/news/deutsche-commits-to-using-ai-tech-from-nvidia-throughout-the-bank"
+  - title: "Leopard Imaging to Showcase Advanced Embedded Vision Systems with Latest NVIDIA Jetson Edge AI Platform at CES 2023"
+    excerpt: "Leopard Imaging will showcase several embedded vision system demos running on the NVIDIA Jetson edge AI platform. Earlier this year, the two companies developed Hawk 3D camera stereo cameras that provide real-time and accurate depth perception,"
+    publishedDateTime: 2022-12-08T18:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/leopard-imaging-to-showcase-advanced-embedded-vision-systems-with-latest-nvidia-jetson-edge-ai-platform-at-ces-2023-1031961256"
     type: article
     provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 58
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
     images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/95eab24/2147483647/strip/true/crop/3998x2099+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F2e%2Fab%2F08937d7a40b4b2df5be665b66e8d%2F394007626.jpg"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/1964138/Leopard_Imaging_2.jpg"
+        width: 400
+        height: 300
         isCached: true
   - title: "Deutsche Bank, NVIDIA to Embed AI into Financial Services"
     excerpt: "Deutsche Bank, NVIDIA aim \"to accelerate the use of artificial intelligence (AI) and machine learning (ML) in the financial services sector.\""

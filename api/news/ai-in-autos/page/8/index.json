@@ -2,6 +2,50 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-10-25-your-health-brain-like-ai-no-internet-needed.md",
+      "title": "YOUR HEALTH: Brain-like AI, no internet needed",
+      "excerpt": "The scientists say with no need for internet connection, the AI would also work in space, where no AI technology has gone before.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wafb.com/2022/10/25/your-health-brain-like-ai-no-internet-needed/",
+      "originalUrl": "https://www.wafb.com/2022/10/25/your-health-brain-like-ai-no-internet-needed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wafb-prod.cdn.arcpublishing.com/resizer/mJT1ZA4do6crwyKcA266GlU_m7g=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/56TBXSJTO5AKLMJVGDMLBKZETU.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wafb.com/2022/10/25/your-health-brain-like-ai-no-internet-needed/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wafb-com.cdn.ampproject.org/c/s/www.wafb.com/2022/10/25/your-health-brain-like-ai-no-internet-needed/?outputType=amp",
+      "publishedDateTime": "2022-10-25T01:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WAFB",
+        "domain": "wafb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-25-the-value-of-artificial-intelligence-isnt-just-insights.md",
       "title": "The Value Of Artificial Intelligence Isn’t Just Insights",
       "excerpt": "The impact of AI will take time until it is felt, argue Aja Agrawal, Joshua Gans, and Avi Goldfarb, co-authors of Power and Prediction: The Disruptive Economics of Artificial Intelligence. Right now,",
@@ -1323,59 +1367,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-16-ai-ethics-and-ai-law-clarifying-what-in-fact-is-trustworthy-ai.md",
-      "title": "AI Ethics And AI Law Clarifying What In Fact Is Trustworthy AI",
-      "excerpt": "There is a lot of talk about trustworthy AI, which needs clarification and also more so additional walk-the-talk attainment by AI builders and fielders, including the case of autonomous self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/16/ai-ethics-and-ai-law-clarifying-what-in-fact-is-trustworthy-ai/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/16/ai-ethics-and-ai-law-clarifying-what-in-fact-is-trustworthy-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/626ddc92dca052a0c9ab771e/0x0.jpg?format=jpg&crop=4134,3039,x366,y0,safe&width=1200",
-          "width": 1200,
-          "height": 882,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/16/ai-ethics-and-ai-law-clarifying-what-in-fact-is-trustworthy-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/10/16/ai-ethics-and-ai-law-clarifying-what-in-fact-is-trustworthy-ai/amp/",
-      "publishedDateTime": "2022-10-16T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Autos"
       ]
     }
   ],
