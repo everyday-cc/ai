@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Is ChatGPT the Start of the AI Revolution?"
-excerpt: "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skillset. On"
-publishedDateTime: 2022-12-09T12:40:00Z
-originalUrl: "https://www.washingtonpost.com/business/is-chatgpt-the-start-of-the-ai-revolution/2022/12/09/9eb9dfec-77b5-11ed-a199-927b334b939f_story.html"
-webUrl: "https://www.washingtonpost.com/business/is-chatgpt-the-start-of-the-ai-revolution/2022/12/09/9eb9dfec-77b5-11ed-a199-927b334b939f_story.html"
+excerpt: "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skill"
+publishedDateTime: 2022-12-09T10:30:00Z
+originalUrl: "https://www.bloomberg.com/opinion/articles/2022-12-09/is-chatgpt-the-start-of-the-ai-revolution"
+webUrl: "https://www.bloomberg.com/opinion/articles/2022-12-09/is-chatgpt-the-start-of-the-ai-revolution"
 type: article
-quality: 37
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: The Washington Post
-  domain: washingtonpost.com
+  name: Bloomberg L.P.
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TYKMLGDXWUI63IMZSJ5TGS4TT4.jpg&w=1440"
-    width: 1440
-    height: 963
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifzBIsn2zMPo/v1/1200x802.jpg"
+    width: 1200
+    height: 802
     isCached: true
 
 related:
@@ -292,6 +296,20 @@ related:
       name: CNN
       domain: cnn.com
     quality: 31
+  - title: "If you think ChatGPT could make Google or knowledge jobs obsolete, wait till GPT-4 arrives"
+    excerpt: "It is the first time such a powerful tool has been made available to the general public through a free, easy-to-use Web interface. Read more at straitstimes.com."
+    publishedDateTime: 2022-12-11T23:26:00Z
+    webUrl: "https://www.straitstimes.com/tech/tech-news/if-you-think-chatgpt-could-make-google-or-knowledge-jobs-obsolete-wait-till-gpt-4-arrives"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 29
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/12/12/artificial-intelligence-2167835150.jpg_0.png?VersionId=PCKMbY8dBX45eL9xsLKnR600ElLv0h5n"
+        width: 860
+        height: 573
+        isCached: true
   - title: "We Prompted ChatGPT to be a Translation Manager"
     excerpt: "After Slator tested the waters by asking ChatGPT questions about the language industry, we took it a few steps forward by producing a video with ChatGPT, Synthesia, and Descript. First, we asked ChatGPT to answer questions as if they were a translation manager on a podcast."
     publishedDateTime: 2022-12-09T10:41:00Z
@@ -334,6 +352,6 @@ related:
       domain: newyorker.com
     quality: 4
 
-secured: "/S3neWT8YpAooQglDFHBIW5P4lgDB/hqXK4QBwWicqqRobm1Di8Izd3aN4ePnq/7sjvecHRUgqZr4w3uWy++jKcc19t86nUb77Qk9j7U2bkBk3gMvKLVcQqsJjrzKxF5XMtStUj4aYoZa4ERaMzPWFdVlzqrfMjgdzQnJgOYC7vKvotFEHiArKPDm7D7rELpAKkTd6asH+iRHubkaUinou4fL3OBzo9DJfLfIdQXE18BgC26m7We/49XTmMHRBYjGR6VD8O0RpHDBcUueTo80chPg2S3rmJ5j9QBRh7vCFmAXqGezW3iwakXZLPeVi0mxVM+CtIHznNGCLCQburfrfyjZQblAMSzIZb9/VQjwVs=;CSd+u0aHMfE+j0X5/6sNeQ=="
+secured: "T+f0pEkt9FpJOsikW5kWL3L427rzk9xMN6FMH6RNRJUwzy3eXm5do8wBN5icyunRzjGhoR1Vb0bsSXb3VijP8oAzVQI2LfftYkxbvCH6WghcT4DDyHX8acs5QQvB/VI4Fw7O5hkKWPv9RjvRUDWaRqxfgZbn4brzCFOsTBBshPaT8CTnEkIBD27yfTsjZ4beu1Gq1GHjoFgAOTsvEKkT0lFva6CIoK2CUPz5yUWUx7ywsOfqWaOqOslOIkHSqEDg0y3WzFSLtQOizNzSNFYagBmuhudznm1LlrI05Z/uC83wEDxt+slZE9RDwVKHPaOXEs6R+ATl9+obfx+DnK5mrhd+WaB7OmC2BcYznGqw0LM=;J/GRVO+GHFNQ1w/rzz1aGA=="
 ---
 

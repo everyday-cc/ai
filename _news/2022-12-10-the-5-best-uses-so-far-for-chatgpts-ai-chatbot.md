@@ -159,6 +159,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Is ChatGPT the Start of the AI Revolution?"
+    excerpt: "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skill"
+    publishedDateTime: 2022-12-09T10:30:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2022-12-09/is-chatgpt-the-start-of-the-ai-revolution"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifzBIsn2zMPo/v1/1200x802.jpg"
+        width: 1200
+        height: 802
+        isCached: true
   - title: "ChatGPT proves AI is finally mainstream — and things are only going to get weirder"
     excerpt: "He knows I write about AI and is the sort of guy who keeps up with whatever’s trending online. We chatted a bit, and I asked him: “and what do you think of ChatGPT?” To which he replied: “Well, I wrote a half-decent Excel macro with it this morning that saved me a few hours at work” — and my jaw dropped."
     publishedDateTime: 2022-12-08T15:31:00Z
@@ -273,20 +287,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
-  - title: "Is ChatGPT the Start of the AI Revolution?"
-    excerpt: "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skillset. On"
-    publishedDateTime: 2022-12-09T12:40:00Z
-    webUrl: "https://www.washingtonpost.com/business/is-chatgpt-the-start-of-the-ai-revolution/2022/12/09/9eb9dfec-77b5-11ed-a199-927b334b939f_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TYKMLGDXWUI63IMZSJ5TGS4TT4.jpg&w=1440"
-        width: 1440
-        height: 963
-        isCached: true
   - title: "The AI chatbot coming for your job, ‘Swifties’ take on Ticketmaster, and Apple sued for AirTag stalking"
     excerpt: "Nightcap's Jon Sarlin talks to futurist Amy Webb about the implications for ChatGPT, the next-gen AI tool that's blowing everyone's minds. Plus, Morgan Harper of the American Economic Liberties Project on whether Ticketmaster has met its match in Taylor Swift and her legion of devoted fans."
     publishedDateTime: 2022-12-08T20:10:00Z
@@ -296,6 +296,20 @@ related:
       name: CNN
       domain: cnn.com
     quality: 31
+  - title: "If you think ChatGPT could make Google or knowledge jobs obsolete, wait till GPT-4 arrives"
+    excerpt: "It is the first time such a powerful tool has been made available to the general public through a free, easy-to-use Web interface. Read more at straitstimes.com."
+    publishedDateTime: 2022-12-11T23:26:00Z
+    webUrl: "https://www.straitstimes.com/tech/tech-news/if-you-think-chatgpt-could-make-google-or-knowledge-jobs-obsolete-wait-till-gpt-4-arrives"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 29
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/12/12/artificial-intelligence-2167835150.jpg_0.png?VersionId=PCKMbY8dBX45eL9xsLKnR600ElLv0h5n"
+        width: 860
+        height: 573
+        isCached: true
   - title: "We Prompted ChatGPT to be a Translation Manager"
     excerpt: "After Slator tested the waters by asking ChatGPT questions about the language industry, we took it a few steps forward by producing a video with ChatGPT, Synthesia, and Descript. First, we asked ChatGPT to answer questions as if they were a translation manager on a podcast."
     publishedDateTime: 2022-12-09T10:41:00Z

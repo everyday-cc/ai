@@ -6,9 +6,9 @@ publishedDateTime: 2022-12-09T19:30:00Z
 originalUrl: "https://www.entrepreneur.com/science-technology/the-3-biggest-artificial-intelligence-ai-trends-in-2023/439434"
 webUrl: "https://www.entrepreneur.com/science-technology/the-3-biggest-artificial-intelligence-ai-trends-in-2023/439434"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 71
+heat: 111
+published: true
 
 provider:
   name: Entrepreneur
@@ -21,6 +21,13 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI in Autos
+
+images:
+  - url: "https://assets.entrepreneur.com/content/3x2/2000/1670362779-GettyImages-1249613157.jpg"
+    width: 2000
+    height: 1333
+    isCached: true
 
 related:
   - title: "Analysts Predictions About AI In 2023"
@@ -60,7 +67,16 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "How AI found the words to kill cancer cells"
+    excerpt: "Putting the right receptor into a type of immune cell called a T cell can reprogram it to recognize and kill cancer cells. These so-called chimeric antigen receptors (CARs) have been effective against some cancers but not others."
+    publishedDateTime: 2022-12-08T19:30:00Z
+    webUrl: "https://phys.org/news/2022-12-ai-words-cancer-cells.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 19
 
-secured: "+WWVVIDkEKfzRU0RSWgr0R0xY2KvmaYXyLb/V6jZC2MVep7Hnkin2APYYtcBrMN1Tm2zcMwTGaF59S9LWJ6xMRaQ510e/JQgaOmMKj5cNT+XEh4jVEaqtUWzPiqKfn/vIsYBRrArlnI/HPaHWPJl3l7pWvIfKPeQZYQV7xI7Nq0C+m/7JoipU5vukT6lXzz2pNqoXpDslKBEdthiPmRP2V1ExnzmW8RTpVfQz/GHijomcq+UAmepoO4lMV45DusJ+SHtwy2MyXd8mOFovR3oJorZ9m5C3fQqGTG+cIRaik9HHmcH1z8p5fFAGven7n/APp07bS/gT7/YjhGJfQe/LyEiRiRydPHWVaSRaQ5LFAxUzqI8/9QTtaDTbpd5BXXSSdcM97mimfOTzAGgPcusyNK0vJZ1MK3l2uoPlI8TUwljWMwYV6iH2qkejprYIvFbVWvt2CsMRgWqGCdI2IJbI7g1fFrHn6SLbhRZTe13eKmZNUIBFZWBjsVVSbZ0AARVfem/bCOZPdLyBVc7MuomGA==;1swG4LSlP7gupQHDnUzScw=="
+secured: "w5IEzMWU2I1DJjYEWG/df64HHLfYKKIlbs2XcwPEjoLWQjtG21xRoomzFiDlb2mFdYJSOcfq+mQhhYq6pn+XNNRN4O9lsaHIqmbB736S+/fdaRnVlmQmXOi+UXpK6mJxZieZ4GcCwV4cECZAc4uqj8ZkPGkbVbyQ1Wmmb6RmboN0i4xbEcm2SQKLOEFZ2rYSVcGEIPfx42f+4HnghiE4KF7cTSewd1TvArhG+ht2wscP/v6Yq0T6a2fLpbiA2RrceL1sOF+49KzB0ewwjBTnw1GJHfggDoksFhNQs4gAVM4Qph9UZkPcqwBeoa1GmluMR4PobmNzhzCUV2IP7u4sOsTf8iOqJRm9zCdbqr0/qVo=;nKSPTTVBmieP6+/MHM4/cQ=="
 ---
 

@@ -55,20 +55,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Apple's self-driving electric car will need a human driver"
-    excerpt: "A super-cool feature that no one else has invented Fruity cargo-cult Apple will try to flog a \"super-cool\" self-driving electric car with the unique feature not thought of by those in the car industry -- its cars will use a human to drive them."
-    publishedDateTime: 2022-12-07T10:38:00Z
-    webUrl: "https://www.fudzilla.com/news/55956-apple-s-self-driving-electric-car-will-need-a-human-driver"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 24
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/eef1faa4a7cbfe16b72c5369c9ae7fa3_L.jpg"
-        width: 620
-        height: 484
-        isCached: true
   - title: "Apple Self-Driving EV Delayed to 2026, Likely to Start under $100,000"
     excerpt: "The tech corporation aims for the car to be fully autonomous on the highway, but has ditched a pod-like design and will include traditional driving controls in the cabin."
     publishedDateTime: 2022-12-09T16:47:00Z

@@ -59,22 +59,6 @@ related:
         width: 800
         height: 313
         isCached: true
-  - title: "Tata Tele Business Services to offer Microsoft Azure to SMBs in India"
-    excerpt: "This will enable SMBs to modernize their operations with smooth movement of business workloads to the cloud on a pay-as-you-go model and deliver better experience to their customers even as they scale faster,"
-    publishedDateTime: 2022-12-07T10:46:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/tata-tele-business-services-to-offer-microsoft-azure-to-smbs-in-india/96056935"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/tata-tele-business-services-to-offer-microsoft-azure-to-smbs-in-india/96056935"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/tata-tele-business-services-to-offer-microsoft-azure-to-smbs-in-india/96056935"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-96056935,imgsize-18972,width-1200,height-628,overlay-ettelecom/tata-tele-business-services-to-offer-microsoft-azure-to-smbs-in-india.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Drone Express To Use Microsoft AI For New Cargo Drone Navigation"
     excerpt: "Drone Express, a drone cargo delivery startup, plans to begin manufacturing a new version of its DE-2020 multicopter drone by year’s end that will use Microsoft’s (AI) software, Azure Machine Learning,"
     publishedDateTime: 2022-12-09T22:23:00Z

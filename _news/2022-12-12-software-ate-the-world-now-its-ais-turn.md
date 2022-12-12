@@ -33,7 +33,12 @@ related:
     provider:
       name: Entrepreneur
       domain: entrepreneur.com
-    quality: 49
+    quality: 71
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1670362779-GettyImages-1249613157.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Analysts Predictions About AI In 2023"
     excerpt: "As the ample supply of 2023 predictions affirms, humans still win in the futures market. Or maybe they are just not as modest as Alexa (or the Amazonians feeding it with answers to common queries). Observes of the IT landscape and AI developments are certainly far from being modest,"
     publishedDateTime: 2022-12-08T13:00:00Z
@@ -57,6 +62,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "How AI found the words to kill cancer cells"
+    excerpt: "Putting the right receptor into a type of immune cell called a T cell can reprogram it to recognize and kill cancer cells. These so-called chimeric antigen receptors (CARs) have been effective against some cancers but not others."
+    publishedDateTime: 2022-12-08T19:30:00Z
+    webUrl: "https://phys.org/news/2022-12-ai-words-cancer-cells.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 19
 
 secured: "IxNcaRr4F3k6DtM5cnT1ji2Dzt2nNgHUb4UWAcd3E5Ny1qO6zkr2073rBZZpzWXX+z3R57MPLLR8Sm6QuLsccslWQDbliB4L9UKEJfNaQrUFHuFF1Ayct5SCpshQIOTiLV9WKsqU0NbNnb8R2YoZ+W3EeiDBGCUm9KxY7TnmL3KdmhgYMq8G8/+NifvIlB8m5cC+5yFxypBSrazEvyrDhLPWatzS/QH6cJ0jM42qgLmHKxUvIp9Pj9W/Mq9OOrt6W2OhGiCHrQgmNvdOh2es1WrUCOMwO8gQ3KADqFGmjDL7dBf+iF632ckmNQyAh+YOZtPrbg8Ql1rn/wOoh1Jk/tvCfvWYjeSPPiLyAXxFSKfE9oivJfO3ZsIZn+0Nff+0mx18jngE9br4YQPgZaXwLXSreU87bLlKNG3Z5EelqOvXtMsySuaHtkqO08kfft1MjNb1bvNZ25aZJPeSrmkoXln+/J4sTLB07xZBeO67HLSL739uLQ+mHD1qrr5i8pBYILtORWT0ujmXX7yRVeTRQA==;u/0TX5R/EJBnYhaZfqpDgQ=="
 ---

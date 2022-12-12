@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2022-12-artificial-intelligence-source-gamma-r
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-12-artificial-intelligence-source-gamma-ray.amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Phys.org
@@ -37,15 +37,6 @@ related:
       name: Kotaku
       domain: kotaku.com
     quality: 37
-  - title: "How AI found the words to kill cancer cells"
-    excerpt: "Putting the right receptor into a type of immune cell called a T cell can reprogram it to recognize and kill cancer cells. These so-called chimeric antigen receptors (CARs) have been effective against some cancers but not others."
-    publishedDateTime: 2022-12-08T19:30:00Z
-    webUrl: "https://phys.org/news/2022-12-ai-words-cancer-cells.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 19
 
 secured: "LTW9yYy03iW3XJ6oRolVqo/K1DG53/NKWasGfTixMbA9Ypp0suKkhrawCg0t88DV0tOIYBjj95YzRDNNt3RgmKmd9uDXFP65oB8qhO3tFjya43/hZLPJkXY2yDbnRnq4Gsw1mwu1iaKTvlFw204XWGhEj0dibxTCJX9PN5gH5JXfk7npcMnPYWqRzLheRubTcN3F5CBGbxNQM4nuHVMLcRGyw8ARFCajualIb9GJxqkaDExJMv5gEnhCOyu+h19+TzDZ3Ot8f/9//mkdKOC1bomRQDtIjiUax/qktR+TRPbjcn3pvpxDId1Qy66bVcxackm2F0oW7eW6rm45EUxNDHAZUOgfmU3G90rOl0tqYviyTIcJw/m/Mws10YDzR6/l3IwGTna7yI+qkqeyEKNGcp6lBv1OCyQIZLRfaRTHliA012st9Aw2v99tdS2N1SMyRCAv90yOJ4/CD1431w64XXB9uhSmpuwrwXi+fu0qt0OqZkDo3XEq+fmyjmm2zUui2pWqBSS3thOSFH3XAUnXAw==;F2L31GRh3uedgokqGP6Oqg=="
 ---

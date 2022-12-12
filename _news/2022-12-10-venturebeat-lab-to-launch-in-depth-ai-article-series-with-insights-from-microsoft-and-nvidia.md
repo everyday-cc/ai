@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/venturebeat-lab-to-launch-in-depth-ai-art
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/venturebeat-lab-to-launch-in-depth-ai-article-series-with-insights-from-microsoft-and-nvidia/amp/"
 type: article
 quality: 93
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
         width: 800
         height: 313
-        isCached: true
-  - title: "Tata Tele Business Services to offer Microsoft Azure to SMBs in India"
-    excerpt: "This will enable SMBs to modernize their operations with smooth movement of business workloads to the cloud on a pay-as-you-go model and deliver better experience to their customers even as they scale faster,"
-    publishedDateTime: 2022-12-07T10:46:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/tata-tele-business-services-to-offer-microsoft-azure-to-smbs-in-india/96056935"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/tata-tele-business-services-to-offer-microsoft-azure-to-smbs-in-india/96056935"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/tata-tele-business-services-to-offer-microsoft-azure-to-smbs-in-india/96056935"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-96056935,imgsize-18972,width-1200,height-628,overlay-ettelecom/tata-tele-business-services-to-offer-microsoft-azure-to-smbs-in-india.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Tata Tele Business Services to offer Microsoft Azure to SMBs in India"
     excerpt: "This will enable SMBs to modernize their operations with smooth movement of business workloads to the cloud on a pay-as-you-go model and deliver better experience to their customers even as they scale faster,"

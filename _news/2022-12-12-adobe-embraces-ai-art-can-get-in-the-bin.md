@@ -36,15 +36,6 @@ related:
         width: 1024
         height: 585
         isCached: true
-  - title: "How AI found the words to kill cancer cells"
-    excerpt: "Putting the right receptor into a type of immune cell called a T cell can reprogram it to recognize and kill cancer cells. These so-called chimeric antigen receptors (CARs) have been effective against some cancers but not others."
-    publishedDateTime: 2022-12-08T19:30:00Z
-    webUrl: "https://phys.org/news/2022-12-ai-words-cancer-cells.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 19
 
 secured: "JEQ3X3Vkr2lNEwt72j6Kne4T6RIIeZ6pt6H0jiWGGTB15Ehwdw6ls8hJj/ZlvuAu22Bku1HWa+A3FHM7XmJ78qPoHYzkm2/XYEegfxsBHrVOBKt2IDWnmpO1rIANCdJKjBNr4qxyyFQBWUizSewGmzruJu6+mgrVYifidJAyRRRvvqZ8Cqy7WL6cP2Lr4E5LnAPOx4d/cYQ9K1U2TGJMt+/iBMZzkP0nohqLOAWba26C6XJZtuih4xGCkGohp25zy1H04aKw43OTd0KqvLTjEnN6YIPFIHfRLkQtID2zoTjx0rOXLYgu00hoJtosEpzmUzpX2HfLA1EfbJsEqTGZ2OZ7jkPEpIlA36hnCKkVou4dxt1t315ejdLQ8sDciK3Q6DXUXA2E6hwGzhddsB9nZfjLi2w9nH640z9zutXXWvelTgtFQG12wkN+meagjRPN+78iItYzuBsl0iKSDiQi0FngUKJ+R8uMFDMLT7e/W3hK5M2NC+VFeUrM1ieFT0VpWjaWmyS9beI/iHlR9JyTGg==;dRynoEI+h1eKkK5ec3CFTQ=="
 ---

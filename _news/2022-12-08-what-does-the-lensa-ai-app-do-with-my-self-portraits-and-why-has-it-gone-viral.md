@@ -38,6 +38,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "What to know about Lensa, the AI portrait app all over social media"
+    excerpt: "If you've logged on to any social media app this week, you've probably seen pictures of your friends, but re-imagined as fairy princesses, animé characters, or celestial beings."
+    publishedDateTime: 2022-12-11T20:18:00Z
+    webUrl: "https://www.cnn.com/style/article/lensa-ai-app-art-explainer-trnd"
+    ampWebUrl: "https://www.cnn.com/style/amp/lensa-ai-app-art-explainer-trnd"
+    cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/lensa-ai-app-art-explainer-trnd"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 87
+    images:
+      - url: "http://cdn.cnn.com/cnnnext/dam/assets/221211114012-01-lensa-selfie-121122-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Here’s Why People Are Speaking Out Against The Instagram Trend Of AI Art Apps Like Lensa"
     excerpt: "There’s a debate about data, intellectual property, and identity brewing in regard to an app that charges you $8 to turn your selfies into art."
     publishedDateTime: 2022-12-08T17:43:00Z
@@ -70,22 +86,6 @@ related:
         width: 1080
         height: 1080
         isCached: true
-  - title: "Lensa AI, self-portrait app generates non-consensual soft porn if provoked"
-    excerpt: "One of the major reasons for the backlash is that the app can be used to generate non-consensual soft porn. There are quite a few pictures that can be seen on Twitter, with breasts and nipples clearly visible in the images."
-    publishedDateTime: 2022-12-07T09:49:00Z
-    webUrl: "https://www.freepressjournal.in/business/lensa-ai-self-portrait-app-can-be-provoked-to-generate-non-consensual-soft-porn"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/lensa-ai-self-portrait-app-can-be-provoked-to-generate-non-consensual-soft-porn"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/lensa-ai-self-portrait-app-can-be-provoked-to-generate-non-consensual-soft-porn"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 57
-    images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2022-12/59fcfa7d-a625-4ada-a3a7-dbac686539d8/1500x500.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 462
-        isCached: true
   - title: "What You Should Know Before Using the Lensa AI App"
     excerpt: "Are you thinking about uploading some selfies and buying a pack of ‘Magic Avatars’? Consider these expert tips first."
     publishedDateTime: 2022-12-09T12:00:00Z
@@ -95,20 +95,6 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
-  - title: "What to know about Lensa, the AI portrait app all over social media"
-    excerpt: "It is all because of Lensa, an app which uses artificial intelligence to render digital portraits based ... This was surprising, but I’m not the only woman who experienced it. Olivia Snow, a research fellow at UCLA’s center for critical internet ..."
-    publishedDateTime: 2022-12-11T20:21:00Z
-    webUrl: "https://localnews8.com/news/2022/12/11/what-to-know-about-lensa-the-ai-portrait-app-all-over-social-media/"
-    type: article
-    provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 39
-    images:
-      - url: "https://localnews8.b-cdn.net/2020/12/Joint-KIFI-Local-News-8-and-MIFI-Eyewitness-News-3-Now-logo-scaled.jpg"
-        width: 2560
-        height: 1441
-        isCached: true
   - title: "Image Apps Like Lensa AI Are Sweeping the Internet, and Stealing From Artists"
     excerpt: "Artists] are often in the position to justify our profession, and every time something like this comes… we feel angry, frustrated, and exhausted,” she said. “After everything that’s been going on, I mainly feel exhausted and powerless,"
     publishedDateTime: 2022-12-10T07:42:00Z
