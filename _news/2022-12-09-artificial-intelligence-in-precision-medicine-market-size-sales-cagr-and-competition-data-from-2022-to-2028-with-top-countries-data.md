@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Underwater Computer Vision Market Trends, Business Overview, Industry Growth, and Forecast 2022 To 2028"
+    excerpt: "Underwater Computer Vision Market Research Report is spread across 83 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector."
+    publishedDateTime: 2022-12-09T06:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/underwater-computer-vision-market-trends-business-overview-industry-growth-and-forecast-2022-to-2028-2022-12-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Drug Discovery Market : New Business Strategies And Forecast By 2028 with Top Countries Data"
     excerpt: "\" Artificial Intelligence in Drug Discovery Market \" Insights 2022 - By Applications (Pharmaceutical and Biotechnology Companies, Contract Research Organizations, Research Centers and Academic and Government Institutes),"
     publishedDateTime: 2022-12-09T12:52:00Z
@@ -67,6 +81,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in IoT Market 2023 : Trending Technologies, Manufacturers, End-Users, Growth Elements and Forecast 2028"
+    excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence in IoT Market will have significant change from previous year. By the most conservati"
+    publishedDateTime: 2022-12-09T12:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-2023-trending-technologies-manufacturers-end-users-growth-elements-and-forecast-2028-2022-12-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -145,6 +173,15 @@ related:
     provider:
       name: The Hans India
       domain: thehansindia.com
+    quality: 19
+  - title: "Facial Recognition Technology Scans Your Ear"
+    excerpt: "University of Georgia (UGA) scientists have created an ear recognition system that can authenticate individuals with up to 97.25% accuracy."
+    publishedDateTime: 2022-12-12T17:55:00Z
+    webUrl: "https://cacm.acm.org/news/267660-facial-recognition-technology-scans-your-ear/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
     quality: 19
 
 secured: "yMX3IQaO15QupwmuYeelBMI2G1cG2gevVv9+oVyfnUdM9bqsN6qnqb20Mev2Him6LJ3u2KqAC+tI64CZM72b4+hRyX7pJKJ8XKOb1Zx4uHn1cL6dzHOx+SKreUAIjKfQsQkzFw+WbHqDOklbWPP57p1T+OFjNKZX8NAEEql47attIw8TUULbEYf64sLRiW/yj1mtatSMgM+TeiH1fRNRPMF8C95YJFh1lM//LUcOOHzJ6HzH36q09cAtXL7twTw1f+VTf0GURbBfTnjxualpUjulJ30rTZEOkImM86vRgvk1oxfAOkhOTdUbNcOnse/JoLEcGnoQl8Y7Sg0+c61IRwHVpMcgGUBKilphq376NJs=;oOrDR7p5cacMPER0Th4hJw=="

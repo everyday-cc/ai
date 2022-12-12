@@ -85,20 +85,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "ChatGPT and Lensa: Why Everyone Is Playing With Artificial Intelligence"
-    excerpt: "Two internet sensations give non-nerds a turn with powerful software, yielding surprising wit and stunning avatars."
-    publishedDateTime: 2022-12-08T01:09:00Z
-    webUrl: "https://www.wsj.com/articles/everyone-in-your-feed-is-talking-about-chatgpt-and-lensa-and-heres-why-11670356499?mod=latest_headlines"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-680021/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "I Entered a Pun Competition. My Jokes Were Written by an AI Chatbot."
     excerpt: "ChatGPT, a trendy new artificial intelligence robot, can generate all sorts of writing. But is it punny?"
     publishedDateTime: 2022-12-09T15:23:00Z

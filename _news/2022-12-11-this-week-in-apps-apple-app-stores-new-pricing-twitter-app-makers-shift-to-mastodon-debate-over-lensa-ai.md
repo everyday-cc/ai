@@ -62,6 +62,22 @@ related:
         width: 625
         height: 415
         isCached: true
+  - title: "'It's not just fun': Lensa AI portrait app raises ethical, privacy concerns"
+    excerpt: "Magic avatars' are the latest internet craze, but one expert says individuals uploading photos of themselves onto the Lensa AI portrait app may not be aware of the ethical and privacy concerns involved."
+    publishedDateTime: 2022-12-12T14:26:00Z
+    webUrl: "https://www.ctvnews.ca/sci-tech/it-s-not-just-fun-lensa-ai-portrait-app-raises-ethical-privacy-concerns-1.6190874"
+    ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2022/12/12/1_6190874.amp.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2022/12/12/1_6190874.amp.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 72
+    images:
+      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2022/12/12/2582392/_jcr_content/renditions/videothumbnail.1670858793517.jpg"
+        width: 1020
+        height: 574
+        isCached: true
   - title: "Apps like Lensa ensure that we keep falling for the shady ethics of AI-generated art"
     excerpt: "A wide range of platforms such as Lensa AI can now bypass copyrighted artworks of living artists but we keep celebrating them for Instagram likes"
     publishedDateTime: 2022-12-09T05:09:00Z
@@ -77,6 +93,22 @@ related:
       - url: "https://assets.vogue.in/photos/639300b8d62519510a986b8d/master/pass/Megan%20Fox.jpg"
         width: 1080
         height: 1080
+        isCached: true
+  - title: "The viral AI avatar app Lensa undressed me—without my consent"
+    excerpt: "My avatars were cartoonishly pornified, while my male colleagues got to be astronauts, explorers, and inventors."
+    publishedDateTime: 2022-12-12T17:44:00Z
+    webUrl: "https://www.technologyreview.com/2022/12/12/1064751/the-viral-ai-avatar-app-lensa-undressed-me-without-my-consent/"
+    ampWebUrl: "https://www.technologyreview.com/2022/12/12/1064751/the-viral-ai-avatar-app-lensa-undressed-me-without-my-consent/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/12/1064751/the-viral-ai-avatar-app-lensa-undressed-me-without-my-consent/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/12/lensa-mh-grid.jpeg?w=3000"
+        width: 3000
+        height: 1688
         isCached: true
   - title: "Lensa AI: The photo-editing app everyone's using to create magical AI avatars"
     excerpt: "I tried the hottest app in the market right now, Lensa AI, to create Magic AI avatars of myself. Here's all you need to know about the tool that has the potential of taking over digital art."

@@ -86,20 +86,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "ChatGPT and Lensa: Why Everyone Is Playing With Artificial Intelligence"
-    excerpt: "Two internet sensations give non-nerds a turn with powerful software, yielding surprising wit and stunning avatars."
-    publishedDateTime: 2022-12-08T01:09:00Z
-    webUrl: "https://www.wsj.com/articles/everyone-in-your-feed-is-talking-about-chatgpt-and-lensa-and-heres-why-11670356499?mod=latest_headlines"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-680021/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "I Entered a Pun Competition. My Jokes Were Written by an AI Chatbot."
     excerpt: "ChatGPT, a trendy new artificial intelligence robot, can generate all sorts of writing. But is it punny?"
     publishedDateTime: 2022-12-09T15:23:00Z
@@ -261,6 +247,6 @@ related:
       domain: newyorker.com
     quality: 4
 
-secured: "dvxDb8G8o2Ulecrp9GVtZwUVisuJ+9Fq0wgxdDNms7E1UxpDA+qThFBVNd9vOp+oYZzU9adMybJDS+9UKG5ONgLTqYwEEfuGQuy+EtzzuZtP7QUv5PhFQIw3IY38wJtsBAm8TVsFX/heJheqB6lCmEaFmdfkZ4hxqi87oFLtTQ1L4Mf1St59NGgUXR9L1ELyLjtDHM2EZIoG9QienfIbXQ5NZ/DZAXajCu5EGh+rjZdB0pKGWXBVqpDrni+3OIZcGOaEyOEOdWZxKP2muxWmMUCCmLBbHIwN4P4I7XneEO1xuVG5C/5AVgNS5/w9zPB8OKiF4wbMHvH7urL2cpeBaj19+584KO363VQkd59DwZA=;j6zFczn2fvrob35TITM+mQ=="
+secured: "I3kaYN64wIDd1eKOe41lJ7RmZC/QgZC2stOCCXDqatDYRj4asSKGX0usj+uUbnps23aJIH9YNDyZykWfJ/4yAHeRYA/FLSGDPTV4m2B4qY9kh2lz6vkZUiuuFPSjDE0ScONcHboZd2DYp5fsXHR/gskYgXXJMp90TGXvf4UeAYceP3QVVuC4XB50KcMyWsCiAtGpyZvYh5EteqcPW2d8ad2wqbQp42YoigDQINLTtEaks6GcZ40nDqP+bvV1MD7kvXUz8E7v9lDfYRhE/4f2UHhs0WIg/XAjiE+vgMnNAcMT2wJzgHppW+AViAKU8xpWSGLodiMnuh/IC434gonkx2ZPPOxQCRrk/jJBVbfDRgNCw/LJU0iaWscSZGdUcAC7zBD2BlE/veuvTfZYitbf/NomJ74/t0lsVL+YCGWAPhL3/61tTmOzkMnBs4gmGNC57ppsFjrokH134a+oumEhoTDQl9aBn7OBRPro+3oPPCqVmbag7HrDxNnV1TSNqd3i2GzYGaurMneFdeVrZwWGow==;1CB4mKVzWIqe1DvA0irV3Q=="
 ---
 

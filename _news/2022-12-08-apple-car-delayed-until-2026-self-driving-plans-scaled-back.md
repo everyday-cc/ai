@@ -35,22 +35,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Apple to release their car in 2026, will not be able to give full self-driving feature at launch"
-    excerpt: "Apple will be launching their first car in 2026. The car will cost about $100,000, use specially designed Apple silicon and will not have full self-driving features."
-    publishedDateTime: 2022-12-08T02:41:00Z
-    webUrl: "https://www.firstpost.com/tech/news-analysis/apple-to-release-their-car-in-2026-will-not-be-able-to-give-full-self-driving-feature-at-launch-11770371.html"
-    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/apple-to-release-their-car-in-2026-will-not-be-able-to-give-full-self-driving-feature-at-launch-11770371.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/apple-to-release-their-car-in-2026-will-not-be-able-to-give-full-self-driving-feature-at-launch-11770371.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 31
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2022/12/Apple-to-release-their-car-in-2026-will-not-be-able-to-give-full-self-driving-feature-at-launch.jpg"
-        width: 640
-        height: 362
-        isCached: true
   - title: "Apple's \"Self-Driving\" Car Isn't Shaping Up As Promised"
     excerpt: "Apple's Project Titan \"self-driving\" car reveal pushed back to 2026 with some ambitious plans for the model now apparently scrapped"
     publishedDateTime: 2022-12-08T22:31:00Z
@@ -78,6 +62,20 @@ related:
       - url: "https://media.zenfs.com/en/car_and_driver_581/d8d9076b5e16b2172a0d9337e5e9d4d0"
         width: 626
         height: 313
+        isCached: true
+  - title: "Apple is Ditching Full Self-Driving on its Long-Promised Car"
+    excerpt: "Apple has reportedly been working towards an electric vehicle – an endeavor famed investor Carl Icahn said would serve as “the ultimate mobile device.” Part of Icahn’s bullishness on the Apple car stemmed from the rumors that it would be fully autonomous,"
+    publishedDateTime: 2022-12-12T17:35:00Z
+    webUrl: "https://www.manufacturing.net/video/video/22604673/apple-is-ditching-full-selfdriving-on-its-longpromised-car"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 24
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/12/MM_THumb.639761bf95989.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Apple scales back self-driving car and delays debut till ’26"
     excerpt: "Apple has scaled back ambitious self-driving plans for its future electric vehicle and postponed the car’s target launch date by about a year to 2026, according to people with knowledge of the matter."

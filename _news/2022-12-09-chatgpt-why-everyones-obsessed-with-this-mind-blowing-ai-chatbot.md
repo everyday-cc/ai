@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/chatgpt-why-everyones-obsessed-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/chatgpt-why-everyones-obsessed-with-this-mind-blowing-ai-chatbot/"
 type: article
 quality: 87
-heat: 277
+heat: 267
 published: true
 
 provider:
@@ -73,20 +73,6 @@ related:
     quality: 67
     images:
       - url: "https://images.wsj.net/im-680711/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "ChatGPT and Lensa: Why Everyone Is Playing With Artificial Intelligence"
-    excerpt: "Two internet sensations give non-nerds a turn with powerful software, yielding surprising wit and stunning avatars."
-    publishedDateTime: 2022-12-08T01:09:00Z
-    webUrl: "https://www.wsj.com/articles/everyone-in-your-feed-is-talking-about-chatgpt-and-lensa-and-heres-why-11670356499?mod=latest_headlines"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-680021/social"
         width: 1280
         height: 640
         isCached: true

@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Deploy Amazon SageMaker Autopilot models to serverless inference endpoints"
-    excerpt: "Amazon SageMaker Autopilot automatically builds, trains, and tunes the best machine learning (ML) models based on your data, while allowing you to maintain full control and visibility. Autopilot can also deploy trained models to real-time inference endpoints automatically. If you have workloads with"
-    publishedDateTime: 2022-12-08T17:26:57Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-amazon-sagemaker-autopilot-models-to-serverless-inference-endpoints/"
+  - title: "Amazon SageMaker JumpStart now offers Amazon Comprehend notebooks for custom classification and custom entity detection"
+    excerpt: "Amazon Comprehend is a natural language processing (NLP) service that uses machine learning (ML) to discover insights from text. Amazon Comprehend provides customized features, custom entity recognition, custom classification, and pre-trained APIs such as key phrase extraction, sentiment analysis, entity"
+    publishedDateTime: 2022-12-12T17:04:52Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-now-offers-amazon-comprehend-notebooks-for-custom-classification-and-custom-entity-detection/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
-    quality: 87
+    quality: 97
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/08/deploy-sagemaker-autopilot-models-serverless-endpoints.jpg"
-        width: 1561
-        height: 781
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/12/sagemaker-jumpstart-comprehend-notebooks.jpg"
+        width: 1564
+        height: 779
         isCached: true
   - title: "Prepare data from Amazon EMR for machine learning using Amazon SageMaker Data Wrangler"
     excerpt: "Data preparation is a principal component of machine learning (ML) pipelines. In fact, it is estimated that data professionals spend about 80 percent of their time on data preparation. In this intensive competitive market, teams want to analyze data and extract more meaningful insights quickly. Customers"

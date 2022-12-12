@@ -3,8 +3,8 @@ category: news
 title: "SymphonyAI's Sensa financial crime prevention solution to be available in Microsoft Azure Marketplace"
 excerpt: "Sensa joins SymphonyAI NetReveal for transaction filtering and sanctions screening, along with three other SymphonyAI vertical solution areas — manufacturing, retail, and IT service management — already available in the Azure Marketplace."
 publishedDateTime: 2022-12-12T16:00:00Z
-originalUrl: "https://www.securityinfowatch.com/cybersecurity/information-security/press-release/21289708/symphonyais-sensa-financial-crime-prevention-solution-to-be-available-in-microsoft-azure-marketplace"
-webUrl: "https://www.securityinfowatch.com/cybersecurity/information-security/press-release/21289708/symphonyais-sensa-financial-crime-prevention-solution-to-be-available-in-microsoft-azure-marketplace"
+originalUrl: "https://www.securityinfowatch.com/cybersecurity/information-security/press-release/21289708/symphony-ai-symphonyais-sensa-financial-crime-prevention-solution-to-be-available-in-microsoft-azure-marketplace"
+webUrl: "https://www.securityinfowatch.com/cybersecurity/information-security/press-release/21289708/symphony-ai-symphonyais-sensa-financial-crime-prevention-solution-to-be-available-in-microsoft-azure-marketplace"
 type: article
 quality: 54
 heat: 64
@@ -35,6 +35,6 @@ related:
       domain: businessinsider.com
     quality: 48
 
-secured: "SHPgOy2bnDNdgka6vu2q7+LQEGBDoQJng7HJAj6U85J4jjFVgTbQyLAT1eNB/WgXKVSecUavpj44PJeP71Z08i1UPZyTTXpng658Y77/mXkp1uvHvZdlM3zH+XG2MCM0iUI/L/apbp3dCVLuHLWLtkCBeSCGfA/zyStRajMzVhCfNRh4KpjcmVQDbe2MIBunhwRNm0RkAisgQl9UDORl8gH7X5xdtfUsSqfuID0o54dewZajIudkI8nngObiqnXEkCI+kos5g1QEnZeFFwIGooVRSgtGDt3FHJLS+c2KQjoP3LQofQJ/4+ByhYIhL7mvoCOJmmn/QHFyMk7ZBfkZ2mJ9KmKjW4BgaS82Ug+j1MM=;10VCLEyXxNrMIlza0VQ3UA=="
+secured: "qhl9qsa/8Zuta/o2L7lPcn9H9bXGQKdgfD0NLp29eA3osBzG0KNSF7WunmnVf5vzTxsOIpqdKFp3K+pqMZ7ETjzWuX/7a6qEpKmMirig6jCFJYtmKc8QY1ukpv0PqgKe6wZ5ikTmtIUsS+WNVIdtQBd5xIJ6oHKtn1ZywE5n84S73cfV78thq1qnvQ2qpZUdbUtEs3bJtrrpSUixmpkvlXsrCmBlRZeFBGAz3DSaldCa9RTPWIpSUvOQ+c38GU37qHIraroeGOHnJ5Ozl3Bv3+hnldq6DjDS2TMY97kr2Q14gxhOaKBupyB4KUGAmZFuPzC8y5FApm5f2ONMO3N2kE3XeetNeNtc74dxzDBc5bs=;vGf+QfjCEIhgGDbLnBRcjA=="
 ---
 

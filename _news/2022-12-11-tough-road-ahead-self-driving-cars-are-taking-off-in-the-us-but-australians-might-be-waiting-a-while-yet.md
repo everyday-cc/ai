@@ -7,7 +7,7 @@ originalUrl: "https://www.sbs.com.au/news/article/tough-road-ahead-self-driving-
 webUrl: "https://www.sbs.com.au/news/article/tough-road-ahead-self-driving-cars-are-taking-off-in-the-us-but-australians-might-be-waiting-a-while-yet/a5ebp93on"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -25,24 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Watch How A Self-Driving Truck Reacts To A Catastrophic Tire Blowout"
-    excerpt: "One firm working on that problem, Kodiak, a self-driving trucking startup, just showed how well its software can handle a tire blowout. Kodiak Robotics is just one of many companies working on autonomous trucking but it’s one of very few showing off results."
-    publishedDateTime: 2022-12-10T13:09:00Z
-    webUrl: "https://www.carscoops.com/2022/12/watch-how-a-self-driving-truck-reacts-to-a-catastrophic-tire-blowout/"
+  - title: "These Mini, Futuristic Self-Driving Taxis Might Be the Future of Urban Transportation"
+    excerpt: "The first-to-market opportunity for those that get it right could be one of the biggest in decades. Self-driving taxis provide a multibillion-dollar market opportunity because they effectively take the costs associated with paying drivers out of the global $200 billion taxi and ride-share market."
+    publishedDateTime: 2022-12-12T15:43:00Z
+    webUrl: "https://www.benzinga.com/news/22/12/30044835/these-mini-futuristic-self-driving-taxis-might-be-the-future-of-urban-transportation"
+    ampWebUrl: "https://www.benzinga.com/amp/content/30044835"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30044835"
     type: article
     provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 4
-  - title: "Australian artists accuse popular AI imaging app of stealing content, call for stricter copyright laws"
-    excerpt: "Developer of software denies allegations, saying Lensa learns to create portraits just as a human would – by learning different artistic styles"
-    publishedDateTime: 2022-12-11T13:02:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2022/dec/12/australian-artists-accuse-popular-ai-imaging-app-of-stealing-content-call-for-stricter-copyright-laws"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 1
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2022/12/12/0000000000000000.png?width=1200&height=800&fit=crop"
+        width: 793
+        height: 529
+        isCached: true
 
 secured: "qQXazUJZiwu+HcBslrbd5FSseDYYPV3mG4g+Q2vq2XA/5pluFLbIGxi8hNlxIkdxn+SH+lTjL4MdGmXX2TW1W3o7GW03m5nbHqGcd5p7+z9nmLtkPS6Uzw7nws2Drp5mJdrLwJAZoO8ySreaF47T4wYoQPLSRSe2ErOh8fYyUobTkZF8VBJyAnoG7ynVZsM4wzKcUnW6qqZMotZAIXyOUXC/LMpN4BK1bwTN2W1CSGN77KgZbXtep/bDUNadmEwIxXLdFskIa/kaMeD9M8yLnlS+jDR97tVD1/lAHylq1HUMDxpf5sBBeaS+8dWhq7M0ymicN2jbLH/f7MetuPjhBQIFBuijK93WmQ+KWN2/k1k=;oFViUUELhy4tje3ZGZGngw=="
 ---

@@ -47,6 +47,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Microsoft Looks to Generate $5 Billion in Revenue from LSEG and the Financial Services Sector Through 10-year Strategic Partnership"
+    excerpt: "Microsoft announced a 10-year strategic partnership with the London Stock Exchange Group (LSEG), a world-leading financial markets infrastructure and data provider. Following LSEG’s acquisition of Refinitiv,"
+    publishedDateTime: 2022-12-12T17:52:00Z
+    webUrl: "https://financialit.net/news/infrastructure/microsoft-looks-generate-5-billion-revenue-lseg-and-financial-services-sector"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 9
+    images:
+      - url: "https://financialit.net/sites/default/files/copy_of_financial_it_-_news_template_updated2_40.png"
+        width: 900
+        height: 480
+        isCached: true
 
 secured: "9bH4ur+N56jR0pWSKo32b7Os8Mp8b5SYvKBxr7JO1pYzsUi3N8dVJV6CLPjP01+ek2qaCzoFiIUzgQI0R6udQpHv3bnDZDYT0oAtGy6NkUIaNHup/iPextbUKqnytwDco4APtuvvYh8sIsu1fc/XejXmCqJYjN+HVkjrDU5kEY7esquNZ3zQyE/ICGcvjbSfP+rasQqzgU171jb0Bk/7NJfGQDfBUkUQl3VP0UyZ2Bb6NDPreaHuXQ+YQdtBwnQ0TjJKG+XmS7AiZvCfBqRjClfFidDoMdtRCjRLYIth7hXjIQEHH9ROhojfW7aPh0qYIG+axi+V0q9PC0FOoGExwZgBwA22us37qGTZ5/82tns=;50bLJ1AYQxnZbvL1hq6jhA=="
 ---
