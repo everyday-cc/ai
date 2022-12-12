@@ -18,17 +18,38 @@ topics:
   - AI
 
 related:
-  - title: "India has a significant stake in Artificial Intelligence technology, says IBM India head"
-    excerpt: "When deployed appropriately, AI and Automation can transform government services India has a significant stake in Artificial Intelligence technology and the country is at a point where it can become a major AI innovation hub with more than 5,"
-    publishedDateTime: 2022-12-08T12:33:00Z
-    webUrl: "https://www.theweek.in/news/biz-tech/2022/12/08/india-has-a-significant-stake-in-artificial-intelligence-technology-says-ibm-india-head.html"
-    ampWebUrl: "https://www.theweek.in/news/biz-tech/2022/12/08/india-has-a-significant-stake-in-artificial-intelligence-technology-says-ibm-india-head.amp.html"
-    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/biz-tech/2022/12/08/india-has-a-significant-stake-in-artificial-intelligence-technology-says-ibm-india-head.amp.html"
+  - title: "Air India Puts In Place Ethics Governance Structure"
+    excerpt: "This committee has the mandate to formalise ethics-related guidelines, approve policies and procedures related to ethics, and will be the final escalation point for the regional ethics committees"
+    publishedDateTime: 2022-12-12T03:16:00Z
+    webUrl: "https://www.outlookindia.com/business/air-india-puts-in-place-ethics-governance-structure-news-244200"
+    ampWebUrl: "https://www.outlookindia.com/business/air-india-puts-in-place-ethics-governance-structure-news-244200/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/air-india-puts-in-place-ethics-governance-structure-news-244200/amp"
     type: article
     provider:
-      name: The Week
-      domain: theweek.in
-    quality: 30
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 74
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1656938538.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Air India puts in place ethics governance structure to bolster ethics culture"
+    excerpt: "As per the internal document, the committee has the mandate to formalise ethics-related guidelines, approve policies and procedures related to ethics."
+    publishedDateTime: 2022-12-11T11:47:00Z
+    webUrl: "https://www.livemint.com/companies/news/air-india-puts-in-place-ethics-governance-structure-to-bolster-ethics-culture-11670759086812.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/air-india-puts-in-place-ethics-governance-structure-to-bolster-ethics-culture/amp-11670759086812.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/air-india-puts-in-place-ethics-governance-structure-to-bolster-ethics-culture/amp-11670759086812.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 71
+    images:
+      - url: "https://images.livemint.com/img/2022/12/11/600x338/Air_India_1670759160059_1670759160166_1670759160166.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "AaMKn7XLix8m50z+4qxUZ9KAO3jxeIngM0LK63tTEPxywZg2RXnujKgezUK6b/3H4cLaABDVohrmn/a+hT8QuC819Kg7KS+fWhda65b6p/XhsIcUj4IN3lMKBN9bdf0g5kDE42RATkjAcV37lrIjLBAnit9SqMeljwtQMGJz0JTAWIYUIN7aJXJ9HfiMNOdxnFK0QdvZH0Kfv9dddZtL9doXW0l7E1X1yi49ayTnsCwhGJUJWVCkQdSCizcEdbmU0DvxfkwWqCk1VoEO6MtdfL+UWIKLfr9gTMO3dOMc3H1qXXNxFDF6zDFTZYKQ3DCTiLvgOKMThFYhoB6Z65kC+jsKTLrbfUxNWi+Jckpah2S03xgOU2L11XVLvxK+wmm+ga+8iX2GcssNINl1dR5cdshd4H2nu7viEe+3+Fne2NUOrloyTJlFzZFa/cHC29o2OEG1ltSfDZ0SY2X9gw8cE5hEWlaz4Z+NDspuHFadECG8qq7wn4f8UCRH4OiHBUinJ5STAunp1LJNBHOqELTiJg==;IQ5Py2nc08wXKxbbNb9qkA=="
 ---

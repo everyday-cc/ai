@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/companies/news/air-india-puts-in-place-ethi
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/air-india-puts-in-place-ethics-governance-structure-to-bolster-ethics-culture/amp-11670759086812.html"
 type: article
 quality: 71
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: Mint
@@ -25,6 +25,33 @@ images:
     width: 600
     height: 337
     isCached: true
+
+related:
+  - title: "Air India Puts In Place Ethics Governance Structure"
+    excerpt: "This committee has the mandate to formalise ethics-related guidelines, approve policies and procedures related to ethics, and will be the final escalation point for the regional ethics committees"
+    publishedDateTime: 2022-12-12T03:16:00Z
+    webUrl: "https://www.outlookindia.com/business/air-india-puts-in-place-ethics-governance-structure-news-244200"
+    ampWebUrl: "https://www.outlookindia.com/business/air-india-puts-in-place-ethics-governance-structure-news-244200/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/air-india-puts-in-place-ethics-governance-structure-news-244200/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 74
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1656938538.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "IBM to harness India’s potential for artificial intelligence"
+    excerpt: "Technology major, IBM, is set to increasingly focus on leveraging the power of artificial intelligence (AI) and automation to help businesses. Sandip Patel, Managing Director, IBM India and South Asia said, India is well-poised to lead the AI revolution and establish itself as an AI innovation garage of the world."
+    publishedDateTime: 2022-12-08T14:25:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/ibm-to-harness-indias-potential-for-artificial-intelligence/article66239376.ece"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 17
 
 secured: "V4LW4ZpgOqR0H3H+BIkU/oomONCbOHDPyqnfk1sTc/z5CZsOARmN3MoFCeAk3Qk0/9eUc/TeclBJSMMgi5+ybbmXiypxEQZyOS5Q7R3dyyP6Ezav95Q9EfbN/t95LC7VjKq1OCEwbdjC5/106sB5dYA4I3qH1YePfRvUmIPqSANZO0YgucwIbWf80/qASzvzlozIHWarQyMXM94JWpcuutfYj1/rXVguLCtACMuPQJs2h3E/oNPOeksO/jwRYATgDGxcTMOE5iSvBa3ByqjrbAGgH9BuCOl6RxNBw3GUVmqol5a+8ZWTa+7dTWQUoywZ+99vUR2zAtYHmvcCzs95KXS2SaOCHwQq0q/G/4PlPiiDw7CEs3I67cwcMx0AyT4e/K8h/UYJ8rM3lQBp/ovzoLHWG/9T7KEoJ0zk4OfgTeFG5nR0eUgO36O3DyNyy/Yo3IVijbL71Cgov1BF3MrXn1lWCgOavb+pooQqr01kSq0t2b6Wp2yY5hf0WyCWMSsIomNxfWcM8DNMrZnK5pJ61g==;BLYW5qbVeiYKnqbs7Zh/IA=="
 ---

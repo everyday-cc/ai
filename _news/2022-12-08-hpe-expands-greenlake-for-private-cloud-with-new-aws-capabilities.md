@@ -25,22 +25,6 @@ images:
     height: 428
     isCached: true
 
-related:
-  - title: "New HPE GreenLake For Private Cloud To Accelerate Hybrid Cloud Adoption: Partners"
-    excerpt: "Partners expect the latest version of HPE GreenLake for Private Cloud Enterprise to form the basis of a modern application and workload platform."
-    publishedDateTime: 2022-12-07T12:30:00Z
-    webUrl: "https://www.crn.com/news/cloud/new-hpe-greenlake-for-private-cloud-to-accelerate-hybrid-cloud-adoption-partners"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 19
-    images:
-      - url: "https://www.crn.com/resources/027c-16c3bff4866b-e3418362eec5-1000/hpe-greenlake-logo.jpg"
-        width: 608
-        height: 457
-        isCached: true
-
 secured: "d148cvCNG7aQpOfj2pbKLBKMuXf1+9i64FsyZfNO1+LEwsvnWYt7iKd5BoiEc2VC6gyQdmrinYqlPM2xPBDzrJBPKzIh1e3b/ypDl4Glk+aSnETe7w1g9o4kNoQ5c6UEwaWPQtXUCI0uZQnceTqQjmS3w7m24Qi6YDteA7X1X/HEaQbceuXdoQYYN2hQt77ktlfJz/GOF1Jbfg8EVWSXdHaYagviUlqB8Y4OVQ/A1cYzyvoR+LNoTsc8sBhnQlxB8wZ/BAQHkdPRaeIKwCKnHW0BOZwyamkVpYDZOvmYhurJPRBrsCJnp5HJ67Fp8NGWuq6fEPpL/wtyrW5GDV/Sa3X/xNT9xqSiClQRwyANuIc=;XAJH7Ro3c+ScfVM4QzbG1A=="
 ---
 

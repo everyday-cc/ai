@@ -158,20 +158,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Is ChatGPT the Start of the AI Revolution?"
-    excerpt: "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skill"
-    publishedDateTime: 2022-12-09T10:30:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2022-12-09/is-chatgpt-the-start-of-the-ai-revolution"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifzBIsn2zMPo/v1/1200x802.jpg"
-        width: 1200
-        height: 802
-        isCached: true
   - title: "ChatGPT proves AI is finally mainstream — and things are only going to get weirder"
     excerpt: "He knows I write about AI and is the sort of guy who keeps up with whatever’s trending online. We chatted a bit, and I asked him: “and what do you think of ChatGPT?” To which he replied: “Well, I wrote a half-decent Excel macro with it this morning that saved me a few hours at work” — and my jaw dropped."
     publishedDateTime: 2022-12-08T15:31:00Z
@@ -200,22 +186,6 @@ related:
     images:
       - url: "https://thenewdaily.com.au/wp-content/uploads/2022/12/1670477681-GettyImages-1258096414.jpg?resize=960,600"
         width: 960
-        height: 600
-        isCached: true
-  - title: "As chatbot sophistication grows, AI debate intensifies"
-    excerpt: "California start-up OpenAI has released a chatbot capable of answering a variety of questions, but its impressive performance has reopened the debate on the risks linked to artificial intelligence (AI) technologies."
-    publishedDateTime: 2022-12-07T12:08:00Z
-    webUrl: "https://www.forbesindia.com/article/lifes/as-chatbot-sophistication-grows-ai-debate-intensifies/81759/1"
-    ampWebUrl: "https://www.forbesindia.com/amp/article/lifes/as-chatbot-sophistication-grows-ai-debate-intensifies/81759/1"
-    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/as-chatbot-sophistication-grows-ai-debate-intensifies/81759/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 57
-    images:
-      - url: "https://www.forbesindia.com/media/images/2022/Dec/img_199207_chatboat.jpg"
-        width: 900
         height: 600
         isCached: true
   - title: "‘It works very well, but it’s not magic’: This is ChatGPT, the groundbreaking AI chatbot"
@@ -295,6 +265,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "Is ChatGPT the Start of the AI Revolution?"
+    excerpt: "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skillset. On"
+    publishedDateTime: 2022-12-09T12:40:00Z
+    webUrl: "https://www.washingtonpost.com/business/is-chatgpt-the-start-of-the-ai-revolution/2022/12/09/9eb9dfec-77b5-11ed-a199-927b334b939f_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TYKMLGDXWUI63IMZSJ5TGS4TT4.jpg&w=1440"
+        width: 1440
+        height: 963
+        isCached: true
   - title: "If you think ChatGPT could make Google or knowledge jobs obsolete, wait till GPT-4 arrives"
     excerpt: "It is the first time such a powerful tool has been made available to the general public through a free, easy-to-use Web interface. Read more at straitstimes.com."
     publishedDateTime: 2022-12-11T23:26:00Z

@@ -19,35 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "How Creative Artists Agency (CAA) Is Employing Data, Analytics, And AI To Shape The Culture Of Our Times And Inspire The World"
-    excerpt: "Data, analytics, and AI might seem unnatural in this setting. This assumption couldn’t be further from the truth. André Vargas, an eleven-year veteran of CAA, currently serves as its Chief Data Officer, a role he has held for over three years."
-    publishedDateTime: 2022-12-07T11:55:00Z
-    webUrl: "https://www.forbes.com/sites/randybean/2022/12/07/how-creative-artists-agency-caa-is-employing-data-analytics-and-ai-to-shape-the-culture-of-our-times-and-inspire-the-world/"
-    ampWebUrl: "https://www.forbes.com/sites/randybean/2022/12/07/how-creative-artists-agency-caa-is-employing-data-analytics-and-ai-to-shape-the-culture-of-our-times-and-inspire-the-world/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/randybean/2022/12/07/how-creative-artists-agency-caa-is-employing-data-analytics-and-ai-to-shape-the-culture-of-our-times-and-inspire-the-world/amp/"
+  - title: "Toastmasters adopts AI-powered speech analytics technology from Seattle startup Yoodli"
+    excerpt: "Can artificial intelligence strengthen human connections by improving public speaking? That’s the ambition of a new partnership between Toastmasters International and Yoodli. Toastmasters this week rolled out the Seattle"
+    publishedDateTime: 2022-12-09T18:35:00Z
+    webUrl: "https://www.geekwire.com/2022/toastmasters-adopts-ai-powered-speech-analytics-technology-from-seattle-startup-yoodli/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: GeekWire
+      domain: geekwire.com
     quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63908cf88019c0488e2539e4/0x0.jpg?format=jpg&width=1200"
-        width: 878
-        height: 860
-        isCached: true
-  - title: "xyzt.ai and Xouba partner to bring time to mobility analytics down from weeks to minutes"
-    excerpt: "Xouba, an innovative Spanish road safety and mobility analytics company, to help government agencies gain insights into the main road safety issues through an efficient no-code/low-code data analysis workflow."
-    publishedDateTime: 2022-12-08T12:56:00Z
-    webUrl: "https://www.directionsmag.com/pressrelease/11977"
-    type: article
-    provider:
-      name: Directions Magazine
-      domain: directionsmag.com
-    quality: 28
-    images:
-      - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2022/December/8/7/a6ece00c-90b9-42bb-9986-79f01f6d38da-sized"
-        width: 800
-        height: 487
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2022/12/toastmasters-adopts-ai-powered-p.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Opaque Systems Unveils 1st Multi-Party Confidential AI and Analytics Platform"
     excerpt: "Opaque Systems, pioneers of secure multi-party analytics and AI for Confidential Computing, today announced the latest"
@@ -67,15 +51,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 14
-  - title: "dotData Feature Factory Tech Adds Feature Discovery Capabilities to Azure Synapse Analytics"
-    excerpt: "SAN MATEO, Calif., Dec. 7, 2022 -- dotData, a pioneer and leader of the feature discovery platform announced that its Feature Factory technology is now"
-    publishedDateTime: 2022-12-07T17:39:00Z
-    webUrl: "https://www.datanami.com/this-just-in/dotdata-feature-factory-tech-adds-feature-discovery-capabilities-to-azure-synapse-analytics/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 9
 
 secured: "v5YFHukcjaIWf5e0FsipIkJlYVsI2LZBdqzCv4ZXenS5DkDHRZ7AFt1ISqLiPhKWKkaWPLWcIfUqe0vj48/1iGr+JEiatALR7Z6otkHuSh/dlj9ghUTh5TpxlP8XjgXC6g17VHg/Aeps1pp5pXRx7hMc4me7kjTb+7pBGAU46ktlfty8yQY6xOvb1rEr2vlbEn9VMAt8xxQS05pZkPWe43LrSUbURV/0q0QyMEBTAXCOsbOz3qkN0W8ITfboA1LX2Eg2gQoNMvP5rhtrEUmTT+YBcTa2lAUqgZExKXBvE68puDHA2vN51XX7FAanuffQE2ABtIs6joxDBBC831+wD1rIhNZgZ5ZnSs0I+0Mey4Y=;4DJLF3Kikx0sBHZB+Nh4sg=="
 ---

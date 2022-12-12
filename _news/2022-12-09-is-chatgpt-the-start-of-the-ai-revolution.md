@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Is ChatGPT the Start of the AI Revolution?"
-excerpt: "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skill"
-publishedDateTime: 2022-12-09T10:30:00Z
-originalUrl: "https://www.bloomberg.com/opinion/articles/2022-12-09/is-chatgpt-the-start-of-the-ai-revolution"
-webUrl: "https://www.bloomberg.com/opinion/articles/2022-12-09/is-chatgpt-the-start-of-the-ai-revolution"
+excerpt: "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skillset. On"
+publishedDateTime: 2022-12-09T12:40:00Z
+originalUrl: "https://www.washingtonpost.com/business/is-chatgpt-the-start-of-the-ai-revolution/2022/12/09/9eb9dfec-77b5-11ed-a199-927b334b939f_story.html"
+webUrl: "https://www.washingtonpost.com/business/is-chatgpt-the-start-of-the-ai-revolution/2022/12/09/9eb9dfec-77b5-11ed-a199-927b334b939f_story.html"
 type: article
-quality: 67
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg L.P.
-  domain: bloomberg.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Washington Post
+  domain: washingtonpost.com
 
 topics:
   - AI
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifzBIsn2zMPo/v1/1200x802.jpg"
-    width: 1200
-    height: 802
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TYKMLGDXWUI63IMZSJ5TGS4TT4.jpg&w=1440"
+    width: 1440
+    height: 963
     isCached: true
 
 related:
@@ -194,22 +190,6 @@ related:
         width: 960
         height: 600
         isCached: true
-  - title: "As chatbot sophistication grows, AI debate intensifies"
-    excerpt: "California start-up OpenAI has released a chatbot capable of answering a variety of questions, but its impressive performance has reopened the debate on the risks linked to artificial intelligence (AI) technologies."
-    publishedDateTime: 2022-12-07T12:08:00Z
-    webUrl: "https://www.forbesindia.com/article/lifes/as-chatbot-sophistication-grows-ai-debate-intensifies/81759/1"
-    ampWebUrl: "https://www.forbesindia.com/amp/article/lifes/as-chatbot-sophistication-grows-ai-debate-intensifies/81759/1"
-    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/as-chatbot-sophistication-grows-ai-debate-intensifies/81759/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 57
-    images:
-      - url: "https://www.forbesindia.com/media/images/2022/Dec/img_199207_chatboat.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "‘It works very well, but it’s not magic’: This is ChatGPT, the groundbreaking AI chatbot"
     excerpt: "The latest evolution in text generation systems has surprised hundreds of thousands of users with coherent conversations and a humanlike finesse"
     publishedDateTime: 2022-12-09T04:26:00Z
@@ -352,6 +332,6 @@ related:
       domain: newyorker.com
     quality: 4
 
-secured: "T+f0pEkt9FpJOsikW5kWL3L427rzk9xMN6FMH6RNRJUwzy3eXm5do8wBN5icyunRzjGhoR1Vb0bsSXb3VijP8oAzVQI2LfftYkxbvCH6WghcT4DDyHX8acs5QQvB/VI4Fw7O5hkKWPv9RjvRUDWaRqxfgZbn4brzCFOsTBBshPaT8CTnEkIBD27yfTsjZ4beu1Gq1GHjoFgAOTsvEKkT0lFva6CIoK2CUPz5yUWUx7ywsOfqWaOqOslOIkHSqEDg0y3WzFSLtQOizNzSNFYagBmuhudznm1LlrI05Z/uC83wEDxt+slZE9RDwVKHPaOXEs6R+ATl9+obfx+DnK5mrhd+WaB7OmC2BcYznGqw0LM=;J/GRVO+GHFNQ1w/rzz1aGA=="
+secured: "qaKBGI/xh1IkVHO1e8JZyLSYfWgrdkz0aCFRUQ4d+iyxNGi84f8mGbM0Pbsk+Xrzr9bOIEIIDA3X/4VM3BaO/csEO2LAIwsgncml4q1/i69liqVCQdbwkJ/EaUm5mi24rYX6o6r/c7lrX5VMK7jMEiukbqv+yo0HnSVG1s6dfZzgSslzYDP4GnisTxsOWtyD15U85agE1sDJxsHw7tKz7tMO/G5NDwRPnUj1GhRxmRgldvahc/99VH5DYGqSer6M3iZqUFgXSQLuM3+9lH8COp29Rrz53Ld8Wh+Wyp75c1QXfYGMvIiXJHG2dGg3s5rOBuBnGE4hMJ1gnyv9RWts5S7zKFsaI59uzToTjuR633Y=;E4Gj4zvrqbO640sSiiQu3Q=="
 ---
 

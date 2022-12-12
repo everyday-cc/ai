@@ -38,22 +38,6 @@ related:
         width: 2500
         height: 1250
         isCached: true
-  - title: "What to know about Lensa, the AI portrait app all over social media"
-    excerpt: "If you've logged on to any social media app this week, you've probably seen pictures of your friends, but re-imagined as fairy princesses, animé characters, or celestial beings."
-    publishedDateTime: 2022-12-11T20:18:00Z
-    webUrl: "https://www.cnn.com/style/article/lensa-ai-app-art-explainer-trnd"
-    ampWebUrl: "https://www.cnn.com/style/amp/lensa-ai-app-art-explainer-trnd"
-    cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/lensa-ai-app-art-explainer-trnd"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 87
-    images:
-      - url: "http://cdn.cnn.com/cnnnext/dam/assets/221211114012-01-lensa-selfie-121122-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Here’s Why People Are Speaking Out Against The Instagram Trend Of AI Art Apps Like Lensa"
     excerpt: "There’s a debate about data, intellectual property, and identity brewing in regard to an app that charges you $8 to turn your selfies into art."
     publishedDateTime: 2022-12-08T17:43:00Z
@@ -95,6 +79,20 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
+  - title: "What to know about Lensa, the AI portrait app all over social media"
+    excerpt: "It is all because of Lensa, an app which uses artificial intelligence to render digital portraits based ... This was surprising, but I’m not the only woman who experienced it. Olivia Snow, a research fellow at UCLA’s center for critical internet ..."
+    publishedDateTime: 2022-12-12T03:44:00Z
+    webUrl: "https://krdo.com/entertainment/cnn-style/2022/12/11/what-to-know-about-lensa-the-ai-portrait-app-all-over-social-media/"
+    type: article
+    provider:
+      name: KRDO
+      domain: krdo.com
+    quality: 39
+    images:
+      - url: "https://krdo.b-cdn.net/2021/06/krdo-entertainment.png"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Image Apps Like Lensa AI Are Sweeping the Internet, and Stealing From Artists"
     excerpt: "Artists] are often in the position to justify our profession, and every time something like this comes… we feel angry, frustrated, and exhausted,” she said. “After everything that’s been going on, I mainly feel exhausted and powerless,"
     publishedDateTime: 2022-12-10T07:42:00Z

@@ -1,32 +1,27 @@
 ---
 category: news
 title: "What to know about Lensa, the AI portrait app all over social media"
-excerpt: "If you've logged on to any social media app this week, you've probably seen pictures of your friends, but re-imagined as fairy princesses, animé characters, or celestial beings."
-publishedDateTime: 2022-12-11T20:18:00Z
-originalUrl: "https://www.cnn.com/style/article/lensa-ai-app-art-explainer-trnd"
-webUrl: "https://www.cnn.com/style/article/lensa-ai-app-art-explainer-trnd"
-ampWebUrl: "https://www.cnn.com/style/amp/lensa-ai-app-art-explainer-trnd"
-cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/lensa-ai-app-art-explainer-trnd"
+excerpt: "It is all because of Lensa, an app which uses artificial intelligence to render digital portraits based ... This was surprising, but I’m not the only woman who experienced it. Olivia Snow, a research fellow at UCLA’s center for critical internet ..."
+publishedDateTime: 2022-12-12T03:44:00Z
+originalUrl: "https://krdo.com/entertainment/cnn-style/2022/12/11/what-to-know-about-lensa-the-ai-portrait-app-all-over-social-media/"
+webUrl: "https://krdo.com/entertainment/cnn-style/2022/12/11/what-to-know-about-lensa-the-ai-portrait-app-all-over-social-media/"
 type: article
-quality: 87
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KRDO
+  domain: krdo.com
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "http://cdn.cnn.com/cnnnext/dam/assets/221211114012-01-lensa-selfie-121122-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://krdo.b-cdn.net/2021/06/krdo-entertainment.png"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -111,6 +106,6 @@ related:
       domain: theguardian.com
     quality: 13
 
-secured: "fWyEq7pr6GZMag/SzPP3mvoEBfXevvh0a9UQ7YKEX23kIZCgKr9a6cmqOzngH30HGSLBtvs/LpUI2gv6VK/ER8EA41dNWJUnRqATEBtqurhbSd0QUKSIR/4fuPz+8YM4Ur+sPJp0JXudHGUHGW8n1b4SBLMuWWCo7r+f2Tdp9e2tCVKVj73gipV0sZtv4O/fMAnF3QYfoc2NpbLCFJekcTe/mvgu2lw3ywV/4liIWMXxaVFVGcvKurRDbdizgULXAveS92bec9K/05Wt1l989/gsXCrOiFzgoyqdrQI/b4UPUgs0ZfED8kMuOnbfn9rtUdsmMCPp64SvIZmcUMugpzHSVyCIYlx6M4WFZGKCgKI=;cRiv14OsccwyX6U3JEoFfA=="
+secured: "3fGK/4c/jdBZzf1Cbe4xF2G5raTP0C3Nd0HTfmAed65ArsMWx+mFPV34+iujFfem92VdKcx9rObv3Y9rbRTJ5avdODd0LCaiTM35yYY1759u+KHs8oza8AjcHT/ub/aG6pIulVVr7TH6J5lXDlZUEMOt+k0L6wVre7oe3AIB9fF3IDbDNN+MAtglH6ZYZktfhA5VBCM6fC6MUwvHvGifOqmeBQlqoXn8mLvmQFNBu4tridryRI+PdxbnxuTk6KQ6xPt1JJeIKnk/7sqrPQDeRf7ZzXRTf8Mx/KlmDg3M31ZsXp/SZ6d63N3pIbXBJ8uqt7c4z6aSgjyPR5hYC7iE474lNR/BFxgzbbNuf2TdzAQ=;4zkiG3h0apMe0qC/AB0Ekw=="
 ---
 

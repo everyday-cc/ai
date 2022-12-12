@@ -53,15 +53,6 @@ related:
         width: 1560
         height: 1040
         isCached: true
-  - title: "San Francisco Bans Police 'Killer Robots' after Backlash—for Now"
-    excerpt: "San Francisco's Board of Supervisors reversed course and voted to explicitly prohibit police from using remote-controlled robots with lethal force after a swell of public outcry."
-    publishedDateTime: 2022-12-07T13:01:00Z
-    webUrl: "https://www.officer.com/tactical/swat/robotic-equipment/video/21289218/san-francisco-bans-police-killer-robots-for-now"
-    type: article
-    provider:
-      name: Officer
-      domain: officer.com
-    quality: 19
   - title: "San Francisco Rolls Back Its Plan for Killer Robots"
     excerpt: "After an uproar, the city board voted to rescind last week's bill to allow police to use robots to deliver deadly force. The fight isn't over, but there's a good reason it should be."
     publishedDateTime: 2022-12-07T14:52:00Z

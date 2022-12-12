@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/2022/12/08/9726893.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2022/12/08/9726893.htm"
 type: article
 quality: 7
-heat: -1
+heat: 7
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 400
     height: 225
     isCached: true
-
-related:
-  - title: "Artificial Intelligence Is Rising To Prominence In The Plastic Waste Management Market - By The Business Research Company"
-    excerpt: "Use of artificial intelligence is a key trend gaining popularity in the plastic waste management market, as per the plastic waste management market trend analysis. AI enables more efficient management of recycling and waste sorting plants."
-    publishedDateTime: 2022-12-07T12:48:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/12/07/9725835.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
-    images:
-      - url: "https://mma.prnewswire.com/media/1751581/tbrc_logo.jpg"
-        width: 400
-        height: 225
-        isCached: true
 
 secured: "HqfSVdtPMOr1L6KbBjhBz//7bw5me4W16jUaxzqx++eRC06Y3Q8yZe3Xgvt0T4NKeahj27MNKsnKK+NbzPktUEzpCBXAP0SAsQxpPku71w25iKMe89QtN+SSWpFHt4+WlRh0eQ+woxAA8krT1ZijvfAxbf4yVqx7PEo4OQSPR0TUMOKwDr5u6bGJSYcvIA5/5nEe13QSdWfUa2HdJNYWijyrx+/JjwJs6/nl0Z2mQw+ozJDqxWV9T+s32rvIVTE9imAAIX3RVGZWwYnbC9pfkehdYiUNp66zsFvm051W35ZibNsTQGgTgkVLtF6sgxJ0TiftGh/cD/HU5YuNo2A3uzGIj4gyjnlcoJxbv3LZq6AEeKNtkWPkNyxe2M6L33eK4FuEq8KM+CN47TQVkpoBk7j5SSBimAaYUwYoIgrcZezPq3EdcNN++KscXlR/lZD5i3a2llMmilwUIZbhlbg40cEu9vpiJDbcTIPjjLP23jxDP6RDXZoTlF6XvSTf5EuuHcQsnScKHIlPrFvimRQEEQ==;bkBBW4z93DTGBUif6Z5wrQ=="
 ---
