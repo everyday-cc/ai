@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Technology Market Size, Trends and Forecast 2028 with Top Countries Data"
-    excerpt: "\" Face Recognition Technology Market \" Insights 2022 - By Applications (Emotion Recognition, Law Enforcement, Surveillance, and Monitoring), By Types (2D Facial Recognition, 3D Facial Recognition, Thermal Facial Recognition),"
-    publishedDateTime: 2022-12-09T01:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-size-trends-and-forecast-2028-with-top-countries-data-2022-12-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial intelligence (AI) in Supply Chain and Logistics Solution Market Size, Share, Financial Analysis from 2022-2027"
     excerpt: "The Global Artificial intelligence (AI) in Supply Chain and Logistics Market research combines extensive quantitative analysis and exhaustive qualitative analysis. It ranges from a macro overview of total market size,"
     publishedDateTime: 2022-12-12T08:35:00Z
@@ -66,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Precision Medicine Market Size, Sales, CAGR And Competition Data from 2022 To 2028 with Top Countries Data"
-    excerpt: "\" Artificial Intelligence in Precision Medicine Market \" Insights 2022 - By Applications (Oncology, Neurosciences, Immunology, Respiratory), By Types (Hardware, Software, Services), By Segmentation analysis,"
-    publishedDateTime: 2022-12-09T01:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-medicine-market-size-sales-cagr-and-competition-data-from-2022-to-2028-with-top-countries-data-2022-12-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -136,20 +108,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Biometrics Market Dynamics with Top Players, Gross Margin, Regional Demand, Plans and Demand Status Forecast to 2028"
-    excerpt: "\" Voice Recognition Biometrics Market \" Insights 2022 - By Applications (IT And Telecom, BFSI, Automotive, Healthcare, Education, Others), By Types (Physiological Biometrics, Behavioral Biometrics), By Segmentation analysis,"
-    publishedDateTime: 2022-12-09T01:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-biometrics-market-dynamics-with-top-players-gross-margin-regional-demand-plans-and-demand-status-forecast-to-2028-2022-12-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

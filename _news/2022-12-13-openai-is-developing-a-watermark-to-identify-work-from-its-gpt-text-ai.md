@@ -40,6 +40,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Why Everyone's Obsessed With ChatGPT, the Mind-Blowing AI Chatbot"
+    excerpt: "This artificial intelligence bot can converse, write student essays and program computers. Careful how much you trust it, though."
+    publishedDateTime: 2022-12-13T16:06:00Z
+    webUrl: "https://www.cnet.com/tech/computing/why-everyones-obsessed-with-chatgpt-the-mind-blowing-ai-chatbot/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/why-everyones-obsessed-with-chatgpt-the-mind-blowing-ai-chatbot/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/why-everyones-obsessed-with-chatgpt-the-mind-blowing-ai-chatbot/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/084641681c8362c3ce0c3eb8a53365351adcaaac/hub/2022/12/06/3dd7180c-d0e7-47ca-bc37-b5df15a41a25/ai-chat-gettyimages.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI ChatGPT Is A Huge Fan Of Elon Musk, Not-So-Much Google, Amazon And Apple"
     excerpt: "Silicon Valley has been obsessed with ChatGPT since it launched on Nov. 30. The impressive chatbot, created by Elon Musk founded startup OpenAI, has racked up more than a million users in its first five days and is likely to report astounding session times as people find themselves drawn more and more to this charming AI."
     publishedDateTime: 2022-12-09T21:01:00Z
@@ -153,6 +169,6 @@ related:
       domain: nature.com
     quality: 17
 
-secured: "PdOjr+Q08bAJKfXzVCIb9hLAkAMB2uPEbyxQMqSRDqUGK9QuoCEcgeEaZXIAnWl4uxtV5f8GmcwkhXpfHL+KYKOo5qn/IdueJGruXAGZJYLcCSwdWEpcoTFCc7rRamkDeryXL57BSsjcmMrBa8FxctXKn9PrR35kWQUPN2TrP0mCxEkqlkOlm7273cCi98qlMKo79Ea6gIF5CcbUHpYHm1o/uh0yGLQ5cNC6kNqXaRPmidAGIQS2Mc/DdNf3OF/p8I4pU2+S6gV1A9RpuGw7eL3mQYGryYJX6R5nwprzwwQR81nV7LULtgqmGORSjYPHw0TJqX/WqRzrcT20jl5GWSiYqnyuV0BuJRj2mRkAdVI=;Pp/Md1Zq1F6cCDGoFN24GQ=="
+secured: "tsf+NaeD/uAJkpS+0olL0lCEpLrKsFtYk+cuDTWDzTixxissm5S4y9pQPHPzXwKL9wcLktv8T81MoxG1aj5SwqLBfJHohOIpHjDd8KvK48ytv17bVYpYBIu5ize5PyZHBDBgGTPB5Px+5UUbcdb+0TA8Ew/RdS4CSJSfsOOXZVM8U3D4cumVWCiYMXqXatWCPJdka2+GL1PRbDPWPBj6B5Bv59RPVFtbox3XctMFuict+L4Dgq/EN0SrMMvmzEfff00Gj3LsouCMDG2kQ8+8pW7JQVRbRJ2CzLIRMUFaLrkkKISa04RmEyeEhr7QoK813qVsDO93dsUZLFsGudsKkzeEoPsLcDs17QdjhoIeGMInDeXNJNf99jVJtlcPQO2qnDMcZRCFkO9wLa6iajbt4cLs/AcUCB7x+I8dsAmwqx/QPA7GrvavBdvrnMnJHBRApzwe8g3saUPtz8z1GiSKcLhU4k4MtxlTN+ZDAc3WGACL3VVPd8VHU0O2qR2WcW8nLiGBIn/Trktlw64YiAjA7w==;4xKgw4wU438EkrnD8gcOig=="
 ---
 

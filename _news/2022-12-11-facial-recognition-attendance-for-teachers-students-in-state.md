@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/city/lucknow/facial-recognition-attendanc
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/lucknow/facial-recognition-attendance-for-teachers-students-in-state/amp_articleshow/96143984.cms"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       name: MacTech
       domain: mactech.com
     quality: 39
+  - title: "Genesis launches face recognition for cars"
+    excerpt: "Come to CAR magazine to find out more about the new keyless entry facial recognition technology launching in 2023 on the updated Genesis GV60 electric SUV"
+    publishedDateTime: 2022-12-13T18:30:00Z
+    webUrl: "https://www.carmagazine.co.uk/car-news/tech/facial-recognition-key/"
+    type: article
+    provider:
+      name: CAR Magazine
+      domain: carmagazine.co.uk
+    quality: 39
+    images:
+      - url: "https://car-images.bauersecure.com/wp-images/158633/092-genesis-car-face-recognition-reflected-face-indicator.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
 
 secured: "aDKgrPpTT9+UZOMhVt0fM6xC5B/bgP+R7Rw1w8QQ72i2TOQkQPNa/JIitYEZqDnecagFFUHDhgMjLlBivhJscLx8EkaHzZPLbbLLu0cMdD4qfiXxg1lCJ6JEgXRI/YJHancFol+KR34QQorDhGJjoDNsQ2lEqH2dFI7CRV0Yh+CaZUMdW1/bwvsA1Br+uRm4SBiIf/E82kkOA4w5PFQ702t4QYem+bAfVejQqALXluo4DM/6isu4kshpyFDKicc9uvuAo06dDK9MiNh34ukxZsTmgMkKTUJYdWR4gAqTeFxbLQbtPaaLuIMrNcUKaIYOP09GVLOVQSjThJylkPyFvdXHjQFouqWbab1fyEVQiBQ=;XcRRhiUFcTE43bVc9qROTA=="
 ---

@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Watch DoNotPay's AI Chatbot Renegotiate a Comcast Bill to Be $120 Lower"
+    excerpt: "The AI can also cancel subscriptions, fight parking tickets, and potentially get medical bills reduced on your behalf."
+    publishedDateTime: 2022-12-13T17:46:00Z
+    webUrl: "https://www.pcmag.com/news/watch-donotpays-ai-chatbot-renegotiate-a-comcast-bill-to-be-120-lower"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/00ZaBxaOfz9e0AbGjo57PIh-1.fit_lim.size_1200x630.v1670953103.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Becoming a chatbot: my life as a real estate AI’s human backup"
     excerpt: "For one weird year, I was the human who stepped in to make sure a property chatbot didn’t blow its cover – I was a person pretending to be a computer pretending to be a person"
     publishedDateTime: 2022-12-13T05:00:00Z

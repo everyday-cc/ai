@@ -41,6 +41,20 @@ related:
         width: 1199
         height: 682
         isCached: true
+  - title: "Microsoft Tech Community Blogs gets text to speech feature"
+    excerpt: "Microsoft has announced that it is making it easier for you to listen to your favorite Microsoft Tech Community Blog articles. The company is introducing a"
+    publishedDateTime: 2022-12-13T16:22:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-tech-community-blogs-gets-text-to-speech-feature"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 39
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2022/12/Untitled-design-3.jpg"
+        width: 1028
+        height: 768
+        isCached: true
   - title: "NTT DATA Launches Energy Efficiency and Sustainability Solution with e-Magic on Microsoft Azure"
     excerpt: "The end-to-end solution utilizes Azure digital twin technology to reduce carbon footprint and increase efficiency NTT DATA, a global digital business and IT services leader, today announced an end-to-"
     publishedDateTime: 2022-12-13T13:06:00Z

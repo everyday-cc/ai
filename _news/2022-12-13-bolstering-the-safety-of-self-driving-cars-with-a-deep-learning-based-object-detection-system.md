@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-12-bolstering-safety-self-driving-c
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-bolstering-safety-self-driving-cars-deep.amp"
 type: article
 quality: 50
-heat: 121
+heat: 112
 published: true
 
 provider:
@@ -68,20 +68,6 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2022/12/12/apple_photo_by_tishomir_on_shutterstock.jpg?width=1200&height=800&fit=crop"
         width: 771
         height: 514
-        isCached: true
-  - title: "Get Ready to Share the Road with a Self-Driving Vehicle"
-    excerpt: "Tech companies in California have been testing their new self-driving vehicles, and similar experiments are hitting the road elsewhere as the new technology moves onto streets. Capable of sensing ..."
-    publishedDateTime: 2022-12-09T01:40:00Z
-    webUrl: "https://www.webmd.com/a-to-z-guides/news/20221208/sharing-roads-self-driving-vehicle"
-    type: article
-    provider:
-      name: WebMD
-      domain: webmd.com
-    quality: 24
-    images:
-      - url: "https://img.webmd.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/tips_safe_driving_with_idiopathic_hypersomnia_slideshow/1800x1200_tips_safe_driving_with_idiopathic_hypersomnia_slideshow.jpg"
-        width: 1800
-        height: 1200
         isCached: true
   - title: "Apple is Ditching Full Self-Driving on its Long-Promised Car"
     excerpt: "Apple has reportedly been working towards an electric vehicle – an endeavor famed investor Carl Icahn said would serve as “the ultimate mobile device.” Part of Icahn’s bullishness on the Apple car stemmed from the rumors that it would be fully autonomous,"
