@@ -2,17 +2,17 @@
 category: news
 title: "How businesses are deploying facial recognition"
 excerpt: "As facial recognition software becomes easier to acquire, businesses are using it to surveil and analyze customers. Bloomberg's Parmy Olson explains where and how the technology is being deployed."
-publishedDateTime: 2022-12-09T14:57:00Z
-originalUrl: "https://www.capradio.org/news/npr/story?storyid=1141616057"
-webUrl: "https://www.capradio.org/news/npr/story?storyid=1141616057"
+publishedDateTime: 2022-12-09T13:41:00Z
+originalUrl: "https://www.tspr.org/2022-12-09/how-businesses-are-deploying-facial-recognition"
+webUrl: "https://www.tspr.org/2022-12-09/how-businesses-are-deploying-facial-recognition"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Capital Public Radio
-  domain: capradio.org
+  name: Tri States Public Radio
+  domain: tspr.org
 
 topics:
   - Computer Vision
@@ -95,15 +95,6 @@ related:
         width: 340
         height: 249
         isCached: true
-  - title: "New facial recognition technology scans your ear"
-    excerpt: "In the post-COVID world of face coverings and heightened hygiene awareness, the need for new authentication methods that don't require a person's full face to be visible has arisen."
-    publishedDateTime: 2022-12-08T19:13:00Z
-    webUrl: "https://techxplore.com/news/2022-12-facial-recognition-technology-scans-ear.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 19
   - title: "Facial recognition to mark school attendance"
     excerpt: "Uttar Pradesh government has started a facial recognition-based teacher and student attendance monitoring system for the public schools in the state."
     publishedDateTime: 2022-12-11T19:09:00Z
@@ -116,13 +107,13 @@ related:
   - title: "Facial Recognition Technology Scans Your Ear"
     excerpt: "University of Georgia (UGA) scientists have created an ear recognition system that can authenticate individuals with up to 97.25% accuracy."
     publishedDateTime: 2022-12-12T17:55:00Z
-    webUrl: "https://cacm.acm.org/news/267660-facial-recognition-technology-scans-your-ear"
+    webUrl: "https://cacm.acm.org/news/267660-facial-recognition-technology-scans-your-ear/fulltext"
     type: article
     provider:
       name: acm.org
       domain: acm.org
     quality: 19
 
-secured: "X4tCwE7BMNzQGZfokRr+JozUzovKbiLbGFVbn0AfLIV8KzSfGgjn7RYtZXDIg+550KoWYmS4877L1OhMJ3WDBZWnyiuq+TDpBTVeXjtjkrm/jLECeGe/xp+M+RtLPQ/Nphyrxwmq4QFmXDsfAIp4VnUndqBT+76t2BBiJHQmNZVWz0ostv2EWpDxfENAxSl3v6535riIp/qeX+X09U/dt0wWNNKbFzKVtVyagHHxXmyKi/+RiPr1U+2DW8JUW7jckwpi68zOuXm+OH9P98a+JeWeIHD3ss+XctVKgevCGSOapvBO/tOZ7mFJZ+Q+7VCe97ErVDPIl252r896Pa7GOszXge61fTgnvm96K+jbgIzbaOd4oWGEFFFrMAeAdVi5/nPXSpaF7imO8b75Ym7ZlRsIaG0UNWEX8At+9qKz8e6maCbcYMES2gG+Sp0zHxmCPAW1N9oW4aZpJHuqr+C+9vbYTcbUlXX+CvEQfK8kns0VM9bov9eAkqFthSK8emqXFkP59jIgf/XlH3yXJG6lnw==;qNAF0zZ3/gpc8Wla4Rr3Kw=="
+secured: "HtLdScbkNZBccXwe3llumwQMMi2wy0AN6UoH6ZA0B6oN0aGri0wEFb/pS/Z5Bw5SNpBGsA4SpotBVy4kBGZOqT11Zz7FJzB8byqokBE63rZMACxXbndA4kody8d9Um2F93nzvvvhY8xwKWsInd5O/JRFpIrDDyKKhsR+uNUuzlHf5x5YauoswAnf2CH7yggQa4H45o3m64DwVStyyMf+lxZv9apbMJj/ptk2tNuVizWWJOUjsTuTHc7pXJy+TpxHERmu/39/MzHmW7oiS1g3ByGnrXsb+aCdB0FN+ObsNgvfCZ+NHUdDBmji78TRn1AyY5OC46IqHTw4HlqT+CfdieRtFsaH9ynCgaelAQSufpM=;vGi0W0FdWyZgn7o0ZBE4SQ=="
 ---
 

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Violation of Right to Privacy: Karti Chidambaram on 'Orwellian' usage of facial recognition by Chennai police"
+    excerpt: "This comes a few days after the GCP admitted to using the technology in response to a tweet by a Chennai resident."
+    publishedDateTime: 2022-12-13T11:55:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/violation-of-right-to-privacy-karti-chidambaram-on-orwellian-usage-of-facial-recognition-by-chennai-police-9698351.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/violation-of-right-to-privacy-karti-chidambaram-on-orwellian-usage-of-facial-recognition-by-chennai-police-9698351.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/violation-of-right-to-privacy-karti-chidambaram-on-orwellian-usage-of-facial-recognition-by-chennai-police-9698351.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 55
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2019/02/RTX6GAJA.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Indian police use of facial recognition in Chennai may violate privacy: Project Panoptic"
     excerpt: "The use of face biometric technologies by police forces to identify people on the streets may clash with a Supreme Court judgment on privacy."
     publishedDateTime: 2022-12-13T00:20:00Z

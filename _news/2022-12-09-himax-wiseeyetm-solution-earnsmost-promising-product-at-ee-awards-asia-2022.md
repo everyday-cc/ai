@@ -39,6 +39,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "CEVA NeuPro-M Edge AI Processor Architecture Recognized at EE Awards Asia 2022"
+    excerpt: "Aimed at AI/ML applications in automotive, industrial, 5G networks and handsets, surveillance cameras, and Edge Compute - NeuPro-M awarded as 'Most Promising Product' - 3rd gene"
+    publishedDateTime: 2022-12-13T12:29:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/12/13/9729086.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "ACQAeTQkNHSDmQRCHqyedkR745Vq9ukr1SMYONOKTrCFcG0IF4ujYW9vrnH8ANqQM+Zfz2WABs7xWXFpp3TWQ1KyqGqmXY8HiS2CTedqM1fhU1kIb9aGEcLr1ba2xWvOb8WWU1uBj30DLOe82DhCyK2UIHyXRABJ1yQ/+Xeey79PB+swPNsA07ucX36skzpedwcZVP2NhywxXp9YRWcZdUDLCbpXtLgea++NKzsfXFR0sFnzI2Is3eiQG4XFoqZNhSPNPrO2W3Hw2qaJ+Iwsp8MqoH+25v3zstmqtZudX1Ptc1EY5RwOYgbcyCECddJLywKnJZqqBpXieYar7h7gG1+csBAREdXggTkkPVal/bU=;39OWy3Fn0RtkUnEHODHq8w=="
 ---

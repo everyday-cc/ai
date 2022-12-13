@@ -63,15 +63,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "The AI chatbot coming for your job, ‘Swifties’ take on Ticketmaster, and Apple sued for AirTag stalking"
-    excerpt: "Nightcap's Jon Sarlin talks to futurist Amy Webb about the implications for ChatGPT, the next-gen AI tool that's blowing everyone's minds. Plus, Morgan Harper of the American Economic Liberties Project on whether Ticketmaster has met its match in Taylor Swift and her legion of devoted fans."
-    publishedDateTime: 2022-12-08T20:10:00Z
-    webUrl: "https://edition.cnn.com/videos/business/2022/12/08/nightcap-ticketmaster-airtag-stalking-full-orig-nb.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 31
   - title: "Artificial intelligence chatbot can code, compose music, write essays, and more"
     excerpt: "We will increasingly have conversations with our computers to get the information we need or get them to do what we want them to do."
     publishedDateTime: 2022-12-12T14:00:00Z

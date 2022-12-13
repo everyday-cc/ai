@@ -73,6 +73,20 @@ related:
         width: 771
         height: 514
         isCached: true
+  - title: "Get Ready to Share the Road with a Self-Driving Vehicle"
+    excerpt: "Tech companies in California have been testing their new self-driving vehicles, and similar experiments are hitting the road elsewhere as the new technology moves onto streets. Capable of sensing ..."
+    publishedDateTime: 2022-12-09T01:40:00Z
+    webUrl: "https://www.webmd.com/a-to-z-guides/news/20221208/sharing-roads-self-driving-vehicle"
+    type: article
+    provider:
+      name: WebMD
+      domain: webmd.com
+    quality: 24
+    images:
+      - url: "https://img.webmd.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/tips_safe_driving_with_idiopathic_hypersomnia_slideshow/1800x1200_tips_safe_driving_with_idiopathic_hypersomnia_slideshow.jpg"
+        width: 1800
+        height: 1200
+        isCached: true
   - title: "Tough road ahead: Self-driving cars are taking off in the US, but Australians might be waiting a while yet"
     excerpt: "More self-driving cars are hitting the road in America, letting drivers relax behind the wheel. But when will Australians be driven around by their own cars?"
     publishedDateTime: 2022-12-11T01:12:00Z

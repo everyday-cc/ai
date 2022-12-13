@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202212/indian-police-use-of-facial
 webUrl: "https://www.biometricupdate.com/202212/indian-police-use-of-facial-recognition-in-chennai-may-violate-privacy-project-panoptic"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Violation of Right to Privacy: Karti Chidambaram on 'Orwellian' usage of facial recognition by Chennai police"
+    excerpt: "This comes a few days after the GCP admitted to using the technology in response to a tweet by a Chennai resident."
+    publishedDateTime: 2022-12-13T11:55:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/violation-of-right-to-privacy-karti-chidambaram-on-orwellian-usage-of-facial-recognition-by-chennai-police-9698351.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/violation-of-right-to-privacy-karti-chidambaram-on-orwellian-usage-of-facial-recognition-by-chennai-police-9698351.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/violation-of-right-to-privacy-karti-chidambaram-on-orwellian-usage-of-facial-recognition-by-chennai-police-9698351.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 55
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2019/02/RTX6GAJA.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "“Nothing to worry”: Chennai Police Justifies Use of Facial Recognition System on Random Citizens"
     excerpt: "FRS is being used to verify random citizens and identify criminals moving around at night hours, Chennai Police said"
     publishedDateTime: 2022-12-09T09:22:00Z

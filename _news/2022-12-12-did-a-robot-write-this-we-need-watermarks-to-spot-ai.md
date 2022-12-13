@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Opinion: I’ll bet you didn’t write that. An artificial intelligence robot did"
+    excerpt: "Write an 800-word opinion piece about what ChatGPT is, as well as its benefits and drawbacks.” In seconds it delivered a sensible, fair-minded description. No doubt ChatGPT and tools like it will become much more valuable and human-sounding — especially when these products ingest and learn from millions of emails and texts to create more personalized responses."
+    publishedDateTime: 2022-12-13T12:32:00Z
+    webUrl: "https://www.eastbaytimes.com/2022/12/13/opinion-ill-bet-you-didnt-write-that-an-artificial-intelligencer-robot-did/"
+    ampWebUrl: "https://www.eastbaytimes.com/2022/12/13/opinion-ill-bet-you-didnt-write-that-an-artificial-intelligencer-robot-did/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/12/13/opinion-ill-bet-you-didnt-write-that-an-artificial-intelligencer-robot-did/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 71
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2022/12/OPED-ROBOT-WRITING-COMMENTARY-DMT.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "2L+Vi/RZ+lg05l1bk6pSIyLTRTwqJJZKFlW1hIr8pVtfi7mmPR8jWUekEl8STKzHjchk1qA5tFpcUFZMBxCZ0E6I3AeLaCyjiDbh1pPfQW2FcjLA8DbIhqi+yi688lP4G3OXuS6cbQU/2q67eCwMT4zcPG1jOClijbWkrjYLNcCsKW+Gdfgm0ECLP+5riUrUpVWtCsv+8KvbzMKH+s9myFhFuTeRKN1Tc6io3WgxHAEPcKrc9V8FjmxP6o9Gdjug20I+8+VqPHrbE8CyY963DmPvxA6a5RwEFNSvxYHzSRal8h+7j9De0WUw6iJ51PmIIuxbbRD7yNSdBT6b6Xxwz8piim1T8EC6MlYEkjk+Woo=;czgVwto5xGf2yOc86FpH2w=="
 ---

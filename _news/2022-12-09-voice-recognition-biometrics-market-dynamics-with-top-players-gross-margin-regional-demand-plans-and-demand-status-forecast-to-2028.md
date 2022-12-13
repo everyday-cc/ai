@@ -127,6 +127,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Phone Market 2023-Industry Analysis, Size, Share, Trends, Market Demand, Growth, Opportunities and Forecast 2028"
+    excerpt: "The global Facial Recognition Phone Market size, revenue, distinct categories, drivers of development, sources"
+    publishedDateTime: 2022-12-13T07:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-phone-market-2023-industry-analysis-size-share-trends-market-demand-growth-opportunities-and-forecast-2028-2022-12-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence In Military Market Size: Global Revenue, Volume, Market Revenue and Market status Forecast from 2022 - 2028."
     excerpt: "The \" Artificial Intelligence In Military Market \" has taken a step to understand the consumer base with consumer's preferences and aims to do the needful 2022 to 2028. Talking about the reports and data analysis,"
     publishedDateTime: 2022-12-09T14:37:00Z
@@ -136,6 +150,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Software Market Opportunities, Demand and Forecasts, 2023-2028 with Top Countries Data"
+    excerpt: "\" Voice Recognition Software Market \" Insights 2022 - By Applications (Customized PC commands, Medical transcriptions, Others), By Types (Voice commands, dictation, Turning audio into text, Digital assistant,"
+    publishedDateTime: 2022-12-13T10:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-opportunities-demand-and-forecasts-2023-2028-with-top-countries-data-2022-12-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

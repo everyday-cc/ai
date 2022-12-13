@@ -97,26 +97,17 @@ related:
         isCached: true
   - title: "How businesses are deploying facial recognition"
     excerpt: "As facial recognition software becomes easier to acquire, businesses are using it to surveil and analyze customers. Bloomberg's Parmy Olson explains where and how the technology is being deployed."
-    publishedDateTime: 2022-12-09T14:57:00Z
-    webUrl: "https://www.capradio.org/news/npr/story?storyid=1141616057"
+    publishedDateTime: 2022-12-09T13:41:00Z
+    webUrl: "https://www.tspr.org/2022-12-09/how-businesses-are-deploying-facial-recognition"
     type: article
     provider:
-      name: Capital Public Radio
-      domain: capradio.org
-    quality: 19
-  - title: "New facial recognition technology scans your ear"
-    excerpt: "In the post-COVID world of face coverings and heightened hygiene awareness, the need for new authentication methods that don't require a person's full face to be visible has arisen."
-    publishedDateTime: 2022-12-08T19:13:00Z
-    webUrl: "https://techxplore.com/news/2022-12-facial-recognition-technology-scans-ear.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
+      name: Tri States Public Radio
+      domain: tspr.org
     quality: 19
   - title: "Facial Recognition Technology Scans Your Ear"
     excerpt: "University of Georgia (UGA) scientists have created an ear recognition system that can authenticate individuals with up to 97.25% accuracy."
     publishedDateTime: 2022-12-12T17:55:00Z
-    webUrl: "https://cacm.acm.org/news/267660-facial-recognition-technology-scans-your-ear"
+    webUrl: "https://cacm.acm.org/news/267660-facial-recognition-technology-scans-your-ear/fulltext"
     type: article
     provider:
       name: acm.org

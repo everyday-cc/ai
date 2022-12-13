@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-stretch-of-the-imagination/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: Forbes
@@ -30,36 +30,33 @@ images:
     isCached: true
 
 related:
-  - title: "The AI Revolution Is Closer Than You Think"
-    excerpt: "Two recent developments show how rapidly AI creative tools are becoming a practical alternative to human creators."
-    publishedDateTime: 2022-12-08T19:46:00Z
-    webUrl: "https://www.forbes.com/sites/rogerdooley/2022/12/08/the-ai-revolution-is-closer-than-you-think/"
-    ampWebUrl: "https://www.forbes.com/sites/rogerdooley/2022/12/08/the-ai-revolution-is-closer-than-you-think/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogerdooley/2022/12/08/the-ai-revolution-is-closer-than-you-think/amp/"
+  - title: "Pondering the legitimacy of AI art"
+    excerpt: "The more AI art is generated, the more valuable human-created art.” - Alex Roy Listen, I don’t want to argue. Art created by artificial intelligence, if it’s even really art at all, is sketchy and problematic."
+    publishedDateTime: 2022-12-09T18:01:00Z
+    webUrl: "https://www.thefabricator.com/thefabricator/blog/cadcamsoftware/pondering-the-legitimacy-of-ai-art"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63924c996966143e208a1359/0x0.jpg?format=jpg&crop=680,383,x0,y0,safe&width=1200"
-        width: 680
-        height: 383
-        isCached: true
-  - title: "Is ChatGPT the Start of the AI Revolution?"
-    excerpt: "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skillset. On"
-    publishedDateTime: 2022-12-09T12:40:00Z
-    webUrl: "https://www.washingtonpost.com/business/is-chatgpt-the-start-of-the-ai-revolution/2022/12/09/9eb9dfec-77b5-11ed-a199-927b334b939f_story.html"
+      name: The Fabricator
+      domain: thefabricator.com
+    quality: 19
+  - title: "Not Even AI Can Beat the Market These Days"
+    excerpt: "A tireless machine able to digest all information and immune to biases should be clearly superior to humans when it comes to investing. Except it’s not."
+    publishedDateTime: 2022-12-09T11:32:00Z
+    webUrl: "https://www.washingtonpost.com/business/not-even-ai-can-beat-the-market-these-days/2022/12/09/0ae9d85e-77be-11ed-a199-927b334b939f_story.html"
     type: article
     provider:
       name: The Washington Post
       domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TYKMLGDXWUI63IMZSJ5TGS4TT4.jpg&w=1440"
-        width: 1440
-        height: 963
-        isCached: true
+    quality: 17
+  - title: "AI and data democratization"
+    excerpt: "Data democratization is a concept that has taken hold, but what does it actually mean? The simplest definition of “data democratization” is making data accessible and available to all employees and stakeholders without bottlenecks and gates."
+    publishedDateTime: 2022-12-12T08:31:00Z
+    webUrl: "https://www.fastcompany.com/90822887/ai-and-data-democratization"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "raUxy6rMBKNCLDymwrA1FBnS3zc3r4X1LqTwRC6nrRbwrvVQ9i3qNJt/bpOvtQ/Desi+TXfG1yKM4JJEWistpZ7SZwJuWcLPBN7RerCU8aVseKJmB0nib6rSWqVkRhpO7Jhjt/2aTED6ByRNppzTqkgKc1uwAkf9fr+ZcJMA5SRvSkHGme2PprPKEN7k+KWF458jH5qRYoLxlJQEL16Ua50+2MDNeCysZ7usCTJp/tTz37yVjJOfSkSu9CwsgShi/rhAMBqqEGWybDr4WahYkdoTmaN/9iBo+eZyhBh5ITwsi27KKHi/opQ891Q/eBtvIecf1ChsnUNAspC/0oNZ9nGaebuGrmI3XXRfWA/UIXoi3xGyuJVWu1UvB0NHMR3CeUJXuluZrEwcqekl3sk5rH5jvNgWcNbsI/9uNua4XOCxOLg3aQPe3m1gaoQ4PGOExTAD8owk62+J/cc0a2hxxZsVKp8GKGWJ1CWlMaUx9K7BU2z6meX3wRPNvei2RmVxoWWKFc0dKYCSA6UFrUxPBw==;6ee66qhj6O+jEUg2S5hr0Q=="
 ---

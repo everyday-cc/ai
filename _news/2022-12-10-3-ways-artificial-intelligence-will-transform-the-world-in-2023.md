@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/science-technology/the-3-biggest-arti
 webUrl: "https://www.entrepreneur.com/science-technology/the-3-biggest-artificial-intelligence-ai-trends-in-2023/439434"
 type: article
 quality: 71
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "How AI found the words to kill cancer cells"
-    excerpt: "Putting the right receptor into a type of immune cell called a T cell can reprogram it to recognize and kill cancer cells. These so-called chimeric antigen receptors (CARs) have been effective against some cancers but not others."
-    publishedDateTime: 2022-12-08T19:30:00Z
-    webUrl: "https://phys.org/news/2022-12-ai-words-cancer-cells.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 19
 
 secured: "bNjhY0J1seZgy8ikFfX6uE6Yx64OGF5j7fPzbDm5eRz/aukI0G1gq5AfX9GfoPQkmjsW5E8ZiqevcpdWY0ka/XRfBN4+AJ3Jw3WLgJ95RglFCvlTOz9C8nPD9PR1ykZvzvU+t9QeYy9nG8bgoJJt3VY/IV0EsHzBnIKpnJqgBEEb9k5854p6l2FMMUgWHNl2PkiaYAsUy6bY5in3yHKeiBo9STWVSj8x2AcMqcUj0hn0mYGwSZ4g9cfN+RmbejiBn2HMM4sf275+lt4BBF6uoO9HWMckktW0gXfYPUaHcsB7saPhV4Wq4uwM4gfd8zU79mvhBQ4f1hzfFA2XwfwSyaajp9dKmCQ+1f8cNhDmaXo1oFf9wqCxnbw8LaSFZqLsoYQJPsnLBVrHJPO++CO7ST7vN2BXRPFZPpvfrSF3//mVvKGG8I0d71FaNSHMj5AxjvRvSumdBD9qr0p1EAFoQGZe7GJ15fd+XuGVaEZ7TpjQGzFMfjxKFWr0benDc99A94rcVR42HEzufVpGAsJ7LQ==;h+TNM63MD6FRDDl81wPd1Q=="
 ---

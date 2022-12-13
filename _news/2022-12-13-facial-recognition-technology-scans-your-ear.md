@@ -3,8 +3,8 @@ category: news
 title: "Facial Recognition Technology Scans Your Ear"
 excerpt: "University of Georgia (UGA) scientists have created an ear recognition system that can authenticate individuals with up to 97.25% accuracy."
 publishedDateTime: 2022-12-12T17:55:00Z
-originalUrl: "https://cacm.acm.org/news/267660-facial-recognition-technology-scans-your-ear"
-webUrl: "https://cacm.acm.org/news/267660-facial-recognition-technology-scans-your-ear"
+originalUrl: "https://cacm.acm.org/news/267660-facial-recognition-technology-scans-your-ear/fulltext"
+webUrl: "https://cacm.acm.org/news/267660-facial-recognition-technology-scans-your-ear/fulltext"
 type: article
 quality: 19
 heat: -1
@@ -97,21 +97,12 @@ related:
         isCached: true
   - title: "How businesses are deploying facial recognition"
     excerpt: "As facial recognition software becomes easier to acquire, businesses are using it to surveil and analyze customers. Bloomberg's Parmy Olson explains where and how the technology is being deployed."
-    publishedDateTime: 2022-12-09T14:57:00Z
-    webUrl: "https://www.capradio.org/news/npr/story?storyid=1141616057"
+    publishedDateTime: 2022-12-09T13:41:00Z
+    webUrl: "https://www.tspr.org/2022-12-09/how-businesses-are-deploying-facial-recognition"
     type: article
     provider:
-      name: Capital Public Radio
-      domain: capradio.org
-    quality: 19
-  - title: "New facial recognition technology scans your ear"
-    excerpt: "In the post-COVID world of face coverings and heightened hygiene awareness, the need for new authentication methods that don't require a person's full face to be visible has arisen."
-    publishedDateTime: 2022-12-08T19:13:00Z
-    webUrl: "https://techxplore.com/news/2022-12-facial-recognition-technology-scans-ear.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
+      name: Tri States Public Radio
+      domain: tspr.org
     quality: 19
   - title: "Facial recognition to mark school attendance"
     excerpt: "Uttar Pradesh government has started a facial recognition-based teacher and student attendance monitoring system for the public schools in the state."
@@ -123,6 +114,6 @@ related:
       domain: thehansindia.com
     quality: 19
 
-secured: "ucCCk8i+TZZZhD4Eb53/SHf20O1Aca+eb29OVt4ZqEbmuRJS7/Yrj2QXDN+91TNUcD/Z+XA9pEMGxRUfGCd4K7ZP5JXVIt8FofdLYmPqDFctlsNAASYB5I4Bo2pe0Z0lHunbBdSNzXrz7HZs3pU1FNTpoVUk9fQDUUnw3teTpyQXanxLtK97Z+PLQgDQ+o9FaLnXSylyub9AFUKM9WgDEK98zDnuNVc2eS46RMd8JMTd3O5XWRPWRsnHlaXarZ47IbmWaeptrmxivgX+SI+Nv0PSRIVJWjJJTd2Ji+5KPvf9S74y9VPrnMsP8fThYefQXgi1WgaVYPtMS0U125AJCbpHBQJCwlxwVf2xUSfUCFCbst3TugoYxJeglldDEHP0cwqYlaB9YqZ1hYdrdz9an9x61PCH/ermlIdc2Xek+s5G2D6KcVGBYN72gqDN0pqvF4q9tf6kFNx8zLJ4HBN+T4yrsRs5D/XYixjkIqhx5/TAJ3KpCvfHAL+v/0EidXkQD+RkgnjxKnYxp1/8/zyqHQ==;6QZmqSuiadUdxHgGu3uopw=="
+secured: "+nTpHJ6FwJ2cR/FhSyOgwPjprzfIRQo26t0W+RUBQKq9h/AEgmnq7DiqUetKevD1JGvOBbe4BEjUbG3QFwLZx9l5sgn/eBWNn3LQgJYEJtaSteJbbhzTzU55vt7o2x6MuE3U1oKnM/W/VYp8+qii+N3i2pzGzdiknqS7ERmcPw8NI8xD+V1M4/hlpCd/Z2IPiBAlXtbwYfR8lc61OdDWkfDcAVvmuctcQTtJeDT12KUp1zVAqPn97yUQpO180TvXp4yOG7H1mH04HSlNuqP3DC6xB/QIn7wr52RamQ3zWpnKvqX8stPxcJ2rOYp9LkAAprymMAcEaeu5m6TgOpUAoB4dSiLigpJ8uFF7b5qPYxnpnk8VU5Bpn1Kgz7BpZbp/FgTqDI5zk3mXWLG+W6kl2kxBzSl4psPfme8YP5wKDq5Kp7v2Apxg8Av1GCCIrUfF7apzPpI04irmtg/B2AYL7rkY4a4XmKclHuj06nXijYnseW3kl/EK+GblCNN9rDO5N264Jdp4ASBUnEtMDaX12g==;TgCUqSt8hK2kg6Vv2jV0wQ=="
 ---
 
