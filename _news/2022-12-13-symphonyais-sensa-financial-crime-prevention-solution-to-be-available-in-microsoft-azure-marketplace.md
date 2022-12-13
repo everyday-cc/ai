@@ -7,8 +7,8 @@ originalUrl: "https://www.securityinfowatch.com/cybersecurity/information-securi
 webUrl: "https://www.securityinfowatch.com/cybersecurity/information-security/press-release/21289708/symphony-ai-symphonyais-sensa-financial-crime-prevention-solution-to-be-available-in-microsoft-azure-marketplace"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Security
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "SymphonyAI’s Sensa financial crime prevention solution is now available on Microsoft Azure Marketplace"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2022-12-13T07:12:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/symphonyais-sensa-financial-crime-prevention-solution-is-now-available-on-microsoft-azure-marketplace/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 53
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/09/300x250px.gif"
+        width: 300
+        height: 250
+        isCached: true
   - title: "SymphonyAI expands Microsoft collaboration, makes Sensa financial crime prevention solution available in Microsoft Azure Marketplace"
     excerpt: "EnterpriseAI leader accelerating innovation to combat financial crime with transformative, next-generation AI-based solutionPALO ALTO, Calif.,"
     publishedDateTime: 2022-12-12T12:21:00Z

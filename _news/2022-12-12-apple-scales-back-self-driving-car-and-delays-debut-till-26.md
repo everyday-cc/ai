@@ -33,15 +33,6 @@ related:
         width: 2115
         height: 1191
         isCached: true
-  - title: "Apple Car Delayed Until 2026, Self-Driving Plans Scaled Back"
-    excerpt: "California-based tech giant Apple is pulling back on its plans to launch a fully autonomous vehicle, and will instead seek to launch a more traditional all-electric car with some semi-autonomous capabilities around the 2026 calendar year."
-    publishedDateTime: 2022-12-08T15:34:00Z
-    webUrl: "https://gmauthority.com/blog/2022/12/apple-car-delayed-until-2026-self-driving-plans-scaled-back/"
-    type: article
-    provider:
-      name: GM Authority
-      domain: gmauthority.com
-    quality: 4
 
 secured: "VpRt3SbphesXmh0AnAh9mEl3jPEzzuavnZQV3BTw2RR3G/3OIQ+DQMUIa9tLjIBvUJU+gdCfbPkU7I/BUpMdYK6e2lZdUhMnnA7vwapMu9o7iR+orysH58d2ty6yX6QGdFXWIllEWlDTJgkx98fcyDtFexjfYd/0ofF1bz9iWGZm3qIL2EGmXJGXRKClrBAq+Xu9reEYxrFhQ/EcJSqUS93FNEUdMZEcodj6JiAFSQ1Dt/6ebM/LaoRmDJsW/CwaRJMVsieFDyDVV9GEbkw2i/jkvASRCoPa7ZDrgS6YsYeFBTZ/hZMoBIFacmcoDLFih/uEXCKCUpHoJQuTg4DnrTmOAGa1Z4rFBrAe001Kk7+MXa2VZGpTCccyXOcxmt31+hZGofPVMBoOUOmhaUILKV/wzyr8oWyguL8fAXx232rMt0GSGAGFNS0U3NJLPjdQvK4MmcV2u+PZeklYlkYaGc4T9qJbdVepYwbSfWerrDDpvFP1uWfeWcQlfYnG5c7DRxzaWfm+WKWS93xcPLtL7w==;0az+t1wayNA/8ysybyhZ+w=="
 ---

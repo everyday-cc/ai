@@ -108,20 +108,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "ChatGPT proves AI is finally mainstream — and things are only going to get weirder"
-    excerpt: "He knows I write about AI and is the sort of guy who keeps up with whatever’s trending online. We chatted a bit, and I asked him: “and what do you think of ChatGPT?” To which he replied: “Well, I wrote a half-decent Excel macro with it this morning that saved me a few hours at work” — and my jaw dropped."
-    publishedDateTime: 2022-12-08T15:31:00Z
-    webUrl: "https://www.theverge.com/2022/12/8/23499728/ai-capability-accessibility-chatgpt-stable-diffusion-commercialization"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 61
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/yNkf9v3sccBTTXEe8JonTcXyZfc=/0x0:2650x1767/1200x628/filters:focal(1325x884:1326x885)/cdn.vox-cdn.com/uploads/chorus_asset/file/24275829/CatherineBreslin_SiliconCloseup_2650x1767.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "‘It works very well, but it’s not magic’: This is ChatGPT, the groundbreaking AI chatbot"
     excerpt: "The latest evolution in text generation systems has surprised hundreds of thousands of users with coherent conversations and a humanlike finesse"
     publishedDateTime: 2022-12-09T04:26:00Z
@@ -263,6 +249,6 @@ related:
       domain: newyorker.com
     quality: 4
 
-secured: "2gQf7nCMjuW8dpMfgE6XtYEtGMeP67J/URKkWU8fnLfo471R7wz6MNO66rgp+ii7tx0boX0WAW/u7U3XpCrRSyACGSCJ75dQUex5Ez7tpsma9PdV/EzigSpyswANmh7oPBA+5x1Snb9s+2DvlLF4RTuqYBjZYeXnVPPUUTBZOQfpOGbVTOKpA8pmEZP7HKMxdCbxGEKULZ5segSkJePOM2zM733vc+2c38mjF4CSi+1Lj0NKNJduIdoBm/QiE/cGIkpbyB/hRUkO6vDHpmPshVgfM7rfV6MPl0aRO77572cbg22N28dQzIxkDb9swFa1lH7Wy6lvX/Rl+Ne/3MLLu1Fq/HLd8Mav+dWupyOEflQ=;vwtZkeZgWs+2T2oL4VO0PQ=="
+secured: "HMXjn14AtJmc2TgTkWaOFMD10pJwrjI9FQe2HW+M5TQeenX0O54bD3xRW18imJGk7rNbypDiN52LCzkmpjee6De+vioOqz+OW9tlqLy7xkcPW/uZZzjD7f5vPZ6OThxTX1HAcGfLwedLqBbWinzcHZ/u3vIxt0NVBls6USAezDqScRVmurYDiOm+ReP9yw2Iz9V4KfuM8OlIBfpwZG2xOf8lBRFH7Htg03riPWbeUak1ezufnhUAbX0CxclvNYzVyr8taqQE1So08NtNwzvkc3J+ndIePKUwJphA84iwlRbUYm6CIUWAkep9uZuZo0XZHn1x4m+wWDtNBAbObhR0J6JoJsdfMHvbuYCiUIXxSBXRWuLa2L4VskZQW79PGvT+SfNf7vZrUvRrrJnlKH0dxWet2YayFVKPZiUpCiC8TUhvaRvixRRYVd2aEthqD+9LZk1tyn9rA8lyUycK8PPu2kG+wbNO+hfAq0DyUr45FHb0URbKXePc/FfcXSYLiolBG3QES+kpt2pj16RgB5zlOQ==;6t5ke4+/PbUnng+bJmubZA=="
 ---
 

@@ -60,24 +60,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 78
-  - title: "AI21 Jurassic-1 Foundation Model Now Available on Amazon SageMaker"
-    excerpt: "The integration will simplify the use of state-of-the-art large language models, allowing enterprises to integrate Jurassic-1 directly to their data TEL AVIV, Israel, /PRNewswire/ -- AI21 Labs, an Isr"
-    publishedDateTime: 2022-12-08T15:37:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/12/n30010504/ai21-jurassic-1-foundation-model-now-available-on-amazon-sagemaker"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 34
-  - title: "AI21 Jurassic-1 Foundation Model Now Available on Amazon SageMaker"
-    excerpt: "AI21 Labs, an Israeli startup aiming to fundamentally change the way people read and write using Generative AI, announced today that its Jurassic-1 Foundation Model used to power chatbots, answer questions,"
-    publishedDateTime: 2022-12-08T16:54:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/12/08/9727397.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
 
 secured: "GJTQr/itIgEI+6SdC3WozuMPkeGH8ruWy4pOA85cPAaCqVif+8fdryn9mMP0ouCA3ZQxyceCALZW9mIxxkGZM3yqpiHUMdZHNsMKhaQQ+m5czHmGm+NZxDsRolRQfx+0GVLybjHOVeRv6QCCks4FP+eIODnsbqIsr6n8iy5Bdtr8KG6+4+xJYUGIjKBtlr7WbVKvlEACealNMcYSyZHq1f8SssaD31JHyHoonIY2dmtg6IDJZI0herM3477IiXFuLSskka3EdrdXpIAv36Wg4QzAWMy3I8cmkTefxDyiIZfUPZgYLtUlIG/cIqWSBxMO9fSFyJncximO+ZAp9xaeoEOfioMGQo23F5mt80rSFGY=;nOMABWn64NsvSGT5vzHCYw=="
 ---

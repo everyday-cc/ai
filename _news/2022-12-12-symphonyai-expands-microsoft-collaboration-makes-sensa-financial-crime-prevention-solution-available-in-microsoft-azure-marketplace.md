@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "SymphonyAI’s Sensa financial crime prevention solution is now available on Microsoft Azure Marketplace"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2022-12-13T07:12:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/symphonyais-sensa-financial-crime-prevention-solution-is-now-available-on-microsoft-azure-marketplace/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 53
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/09/300x250px.gif"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "DgPVJXqJ3TKbtXVeCCxNSjcUMh3AXz4FIOyBCdFqUsKSSbzESLZgCskhySbD198FwkzNv+dyYk5wjczI20sN04LRE2fcjO4+/I1Hgqta5GqToOtgxzeALPljlcIwDYn9l8L9bt+9yxW+wlmAU2XKl1DIse9H7kCBsfROVqXF/P71t1trj3/IXaBIwFNffw8qnNGZ+7YYPkVcj0YwQ8TzYz0uJAo/zF2ksiK3Z5r1XWyRE32kI6N27kl/qwgXU+Mu4wtHVsuje2hM2PQ/qxTGSbvPWIoNsgPJFXU4SIulz2tBALeopKUwgU97fJqWKVWMPvTv7YgEu8oX2lkOeyCrFiIfNe2Acs/w61m6XntzrUw=;oD2MJROK1JJz8CUXljC/dw=="
 ---

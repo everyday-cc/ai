@@ -92,20 +92,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "ChatGPT proves AI is finally mainstream — and things are only going to get weirder"
-    excerpt: "He knows I write about AI and is the sort of guy who keeps up with whatever’s trending online. We chatted a bit, and I asked him: “and what do you think of ChatGPT?” To which he replied: “Well, I wrote a half-decent Excel macro with it this morning that saved me a few hours at work” — and my jaw dropped."
-    publishedDateTime: 2022-12-08T15:31:00Z
-    webUrl: "https://www.theverge.com/2022/12/8/23499728/ai-capability-accessibility-chatgpt-stable-diffusion-commercialization"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 61
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/yNkf9v3sccBTTXEe8JonTcXyZfc=/0x0:2650x1767/1200x628/filters:focal(1325x884:1326x885)/cdn.vox-cdn.com/uploads/chorus_asset/file/24275829/CatherineBreslin_SiliconCloseup_2650x1767.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Becoming a chatbot: my life as a real estate AI’s human backup"
     excerpt: "For one weird year, I was the human who stepped in to make sure a property chatbot didn’t blow its cover – I was a person pretending to be a computer pretending to be a person"
     publishedDateTime: 2022-12-13T05:00:00Z
