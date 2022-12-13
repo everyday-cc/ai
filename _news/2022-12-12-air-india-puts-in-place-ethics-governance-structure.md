@@ -9,7 +9,7 @@ ampWebUrl: "https://www.outlookindia.com/business/air-india-puts-in-place-ethics
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/air-india-puts-in-place-ethics-governance-structure-news-244200/amp"
 type: article
 quality: 74
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "IBM to harness India’s potential for artificial intelligence"
-    excerpt: "Technology major, IBM, is set to increasingly focus on leveraging the power of artificial intelligence (AI) and automation to help businesses. Sandip Patel, Managing Director, IBM India and South Asia said, India is well-poised to lead the AI revolution and establish itself as an AI innovation garage of the world."
-    publishedDateTime: 2022-12-08T14:25:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/ibm-to-harness-indias-potential-for-artificial-intelligence/article66239376.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 17
 
 secured: "JRs76HaKh6rDDV6IGlzLc0Hm6gS5UjBm69uUAfWk1yfMISpq1+k2BwDdEsSam6U4z0mRlfScxZGT5J43UHoetuovJeuijwQWGyjDYUM3d0xlXV6UARTM5VU89uTc6HVCrYRFurVTk1TAxy6TDCHYNS73clO8vGt0DqQgrZnn3m2j1y+VM95LHtgUrzF5LU4o5i6yvdkoEYCkX6uM3MI6lmPrzS+qV/LWM1tfH1D/2TVA9MeKljdr4qV9vmtEJXS+0wZ+ivLqWZ5/DvTimTNcqKWNAcc1gZrfehHgpXzPSqBYXzDQWBoOUQev+y4gs/nNfh9RO1/gxLkhQ1vt3Ei1STRlBEDB7yPaRkSEE4iK3xLLMLircVZA7mYKhUrBzAjQfkwFO9SnPYkXPH2Spx8IQw28S6d9rL5epuJUUC3A2DYnJdCdbJ6/XsTmIwjk8KYkRrQEnxQhY5Oc0BdmGnWiBeXEQd7OoRb49nXoiDKsQgtUbNpyIzbQy501v62Yj0j8BkpDPTfUuiqYZmZiFcMopA==;4ygdXNPy/8nL+8dLnti/Xw=="
 ---

@@ -42,15 +42,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 18
-  - title: "New Opaque Systems platform offers advances in confidential AI and analytics"
-    excerpt: "Secure data analytics startup Opaque Systems Inc. today launched a new platform that includes what it says are the latest advancements in confidential artificial intelligence and analytics. The Opaque platform has been built to unlock use cases in confidential computing to enable data scientists to secure and perform collaborative analytics directly on this encrypted data."
-    publishedDateTime: 2022-12-08T14:00:00Z
-    webUrl: "https://siliconangle.com/2022/12/08/new-opaque-systems-platform-offers-advances-confidential-ai-analytics/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 14
   - title: "Opaque Systems unveils a unique multi-party confidential AI and analytics platform"
     excerpt: "“The Opaque Confidential AI and Analytics Platform solves this challenge by enabling ... Confidential Computing is supported by all major cloud vendors including Microsoft Azure, Google Cloud and Amazon Web Services and major chip manufacturers including ..."
     publishedDateTime: 2022-12-12T19:07:00Z

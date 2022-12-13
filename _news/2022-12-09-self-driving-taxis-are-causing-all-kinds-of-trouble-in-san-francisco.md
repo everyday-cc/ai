@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Victory Over Killer Robots as San Francisco Agrees to Ban Them—For Now"
-    excerpt: "San Francisco and the greater Bay Area rallied to tell the Board that this policy was unacceptable. That rallying cry was so loud and undeniable that it was impossible for the Board, and the world, to ignore."
-    publishedDateTime: 2022-12-08T13:52:00Z
-    webUrl: "https://www.commondreams.org/views/2022/12/08/victory-over-killer-robots-san-francisco-agrees-ban-them-now"
-    type: article
-    provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 39
-    images:
-      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2022-12/GettyImages-1031974234.jpg?h=67ae01d4&itok=GVCCXib1"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "What San Francisco’s Killer Robots Debate Tells Us About Policing"
     excerpt: "We all saw that movie…no killer robots,” San Francisco protesters wrote on a picket sign last week, as they opposed a move by city leaders to authorize police use of lethal force with department-issued robots."
     publishedDateTime: 2022-12-10T17:00:00Z

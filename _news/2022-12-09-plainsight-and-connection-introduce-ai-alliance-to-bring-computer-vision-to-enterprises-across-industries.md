@@ -41,20 +41,6 @@ related:
         width: 420
         height: 416
         isCached: true
-  - title: "Nvidia and Deutsche Bank collaborate on AI-powered financial services"
-    excerpt: "Nvidia and Deutsche Bank announced a collaboration to offer customers artificial intelligence (AI)-based financial services The two companies have agreed"
-    publishedDateTime: 2022-12-08T14:36:00Z
-    webUrl: "https://www.techzine.eu/news/collaboration/96645/nvidia-and-deutsche-bank-collaborate-on-ai-powered-financial-services/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2022/01/Nvidia-1.png"
-        width: 1500
-        height: 800
-        isCached: true
 
 secured: "6M/OfvVTiwBKFW7w6ec2spMa1uZQviMOID+hYljJCmYQYveckSp10BF3/ImvYpdU4w+kD+X/1WPIaPHEHywT1OmtuMDZ8LsFWqkoh5oPh+6SjMLdqHU5HDqEQ3oL1h+12wwc/rvO4WfUCTAOoNdxtyqAkpgYawcGMl6uaFDxQ3jx+B6Y4zT+mBMdy+lNlDspb+pQKg41s0dYgiw7a0TaiinXbDl/6PRezXyVKc8IhKMfIY83QbVvbyTD43RRYHUIpzYEd/paPt24FhTa5gKt9aL1QPHGSB1sSOyhDpJGLwIxSmNR4yudsR9zZK60Cezbeaio5jMI7zSlOD0TYWgvivqhF+YLvXANRsjBYYjoH1w=;EE+3e8h41YXCVXjRwI+ECw=="
 ---

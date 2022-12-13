@@ -57,15 +57,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "IBM to harness India’s potential for artificial intelligence"
-    excerpt: "Technology major, IBM, is set to increasingly focus on leveraging the power of artificial intelligence (AI) and automation to help businesses. Sandip Patel, Managing Director, IBM India and South Asia said, India is well-poised to lead the AI revolution and establish itself as an AI innovation garage of the world."
-    publishedDateTime: 2022-12-08T14:25:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/ibm-to-harness-indias-potential-for-artificial-intelligence/article66239376.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 17
 
 secured: "azYdh7FAHhTpbhqYc3JDorTimVDc6gqz4J+dgfHq2mU71KhiSS/rFe2lv3niP3kShUOWjk8SUYZCAiehzJDmSLxc37ojZ9MFAewwHhxVRKKOtyR4DG7Z/ZXikaOVKIWj1XWXc/e9GxEki+q7CkTQJIcXhertmOxS3mlW8J6WKaxVq3gJvFZQRig6rbYX5t3JyMtMQgLvz2pK9lpxwhnoHFQbUdINtJNBKUHLUyzw7M9rhGddPNlwzOkgOJ7aUvsiMawVv8nuL/ijPP3Aa/a92Rdcsqh0pkDZx4Kam6SZO/D6+0vciyz+ePRRmjkNMozdgQ38qDwSNM6Aw2XaJICkGOE5nVp8yhIG2tFMehm3vpsCJY3c3lcr+lUusWflU/QSWmBrXaHzsHsujggdTMf+e2+O2nqo0I2ReVkaNotwsc+DumTn/qeT52V0negzn37/DvlOiRyFKeKpvuzFvigZe7tkilIyzdUDQA7JUv+2sXFT/V3IOL85em+VUsVooVrqGr82KTxCWgfl4TKMfd+O3A==;gsH7Ex5+HdRw7jTa3/OwnQ=="
 ---

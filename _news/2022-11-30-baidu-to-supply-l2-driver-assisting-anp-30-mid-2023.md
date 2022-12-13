@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Baidu to supply L2+ driver-assisting ANP 3.0 mid-2023"
-excerpt: "Baidu unveiled its latest progress on unifying L4 and L2+ autonomous driving technology on Apollo Day held on November 29 and announced that it will deliver L2+ driver-assisting product \"ANP 3.0 ..."
-publishedDateTime: 2022-11-30T15:57:00Z
-originalUrl: "https://www.digitimes.com/news/a20221130VL211/adas-baidu.html"
-webUrl: "https://www.digitimes.com/news/a20221130VL211/adas-baidu.html"
+excerpt: "Baidu unveiled its latest progress on unifying L4 and L2+ autonomous driving technology on Apollo Day held on November 29 and announced that it will deliver L2+ driver-assisting product \"ANP 3.0\" in the summer of 2023."
+publishedDateTime: 2022-11-30T07:57:00Z
+originalUrl: "https://www.digitimes.com/news/a20221130VL211/adas-baidu.html?chid=13"
+webUrl: "https://www.digitimes.com/news/a20221130VL211/adas-baidu.html?chid=13"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 853
     isCached: true
 
-secured: "kuWdn4nylvcbTT/TmshDNQRjPwcIJmFqvPG7tIP8u+5xjT5N/xGpACoLvdyot9bsbaiwvUKXIbKRmtMaNZIDW9mZib9T51wpfih+43RpS9xMRfXd4B82SLC/s0cSdVPxs980k1UZ1NhHWShbcJDx1K4S6yUyWBT1H6ZkhPR2CmCDxpAb/A46swr7pPXogncojaeW8sATzrXEcxUoUakDFHiCWZ9kk1TkIy0Z1YaVUAN59cyKXsCw4b7K+BFDxYpVcGp4o/7BvsUEpJM40ksLi8NPGSNBs9NCL5I/PgK8IqawuNRMj64QDXrdcHcvaRK4UwVa97xkNOBJXob+4JXOYXEprAa8ZuvLbeXEBGbeXrY=;1DJN8iX3vlxIcobOkSMy6A=="
+secured: "YAxlCe3k8/JN+Dtr4y821j5pslRH/OlMACuahMP37B6Zy5VEG2QbUzSFEcf0cZrPBDjM3kA0lZRzJzTZnRPy6eDHqVkE6tugCnxkOYCKkKRctlZ7fi9BVCaclacgo7lEHGqX0nbbgHoDU4sNSnasIH1VbFeMzpmqV15xrBIkUmtRh3qVdbsfI4s5+mbmHsOFmRkByNFu/Q1l7Eop03vsBRASIXzNY8BJScDRosWnlzfPv+Lz9gKReeaAyvSJOHqhq4cRzE57H4yNXFTf2IfjMTpJfr89j9BPbxx4GlzOkBOlt1/l4+Iy3LniBD1F100BnBoBhXGFkVZ3qQ6QYk0gq2DqtPGOd7+SKD7rej/Dajw=;6H09qbnX9/Kto7PIx9P6CA=="
 ---
 

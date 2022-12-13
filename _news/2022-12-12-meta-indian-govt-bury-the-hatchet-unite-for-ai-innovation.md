@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/meta-indian-govt-bury-the-hatchet-un
 webUrl: "https://analyticsindiamag.com/meta-indian-govt-bury-the-hatchet-unite-for-ai-innovation/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Victim Participation In Criminal Justice System: An Indian Perspective"
+    excerpt: "The crime victims' rights movement advocates for the rights of the victims of crime in criminal justice process. The concern for victim's rights had long been subdued. Eventually over a"
+    publishedDateTime: 2022-12-13T06:44:00Z
+    webUrl: "https://www.livelaw.in/columns/victims-rights-code-of-criminal-procedure-victim-participatory-rights-216547"
+    ampWebUrl: "https://www.livelaw.in/amp/columns/victims-rights-code-of-criminal-procedure-victim-participatory-rights-216547"
+    cdnAmpWebUrl: "https://www-livelaw-in.cdn.ampproject.org/c/s/www.livelaw.in/amp/columns/victims-rights-code-of-criminal-procedure-victim-participatory-rights-216547"
+    type: article
+    provider:
+      name: Live Law
+      domain: livelaw.in
+    quality: 44
+    images:
+      - url: "https://www.livelaw.in/h-upload/2022/07/21/426867-victim.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "txkqfz/IQMwzP59kdXqFaVxaMY+eauT0FURM1y+Y/DvHTbcdEni0Y4Gb9QuoaiTp+U5pG7L/r0kNAYPDRc0TL3v8J0PIlz2URfKPvpfsMPfaFOgGbRUIdXtv5C8fdhW3GMIGR5b/HjaWu14nNJD/ntPCQCIspVgVSI5JP7Z32Z/M2Fff5onusINeBF60H+b0T38hobF0qA0CEGxU4XpYhqnvwLo/gWwaUoN/MO8f8p3k1p/n8zlCu7VRab/rhn8HRgIUJ0HX4BsQ4rZYRd1MpOWhXw8ubYksTFX1PvxdJLa7X5P/WJOz2A5OBPPvUqm7wQ6dP6/JVKVsOQ5KfwChz3guGSpCcDRznjmPlUZfeAfcGIKWHM6nyyhEDrY3XD1IQVWWErxbNjN2s+E4lbnyGCn3Pt6kXkUfETITtRs+xjnZbdpN3XEAkii75etXss/jsv1uZmO1CyinfWNYhwX8ixlr5heJwzM5VWU6zccDSg1lFK3U/3z1Q6toad+vkB7Xvb9xnY2M3onmlJDDwy3OiA==;6snT6hg6RPczses6k9iJMA=="
 ---
