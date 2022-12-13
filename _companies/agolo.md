@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "agolo"
   url: "https://twitter.com/agolo"
-  followers: 736
+  followers: 737
 
 size: 11-50 employees
 yearFounded: 2013
