@@ -11,7 +11,7 @@ affiliation:
 twitter:
   username: DBonacorsi
   url: https://twitter.com/DBonacorsi
-  followers: 752
+  followers: 753
 
 googleScholar:
   url: https://scholar.google.com/citations?user=7_xEzmUAAAAJ
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Daniele Bonacorsi"
 
-secured: "Dc1ADCitQgQ3Q6NPBNwDdXhSacTKcPyDJSCH1EJVGtuMT4NfJWz8GYGtGEkwVNRMV1VIHoGqQzeGq5ruKmsMTOR683hmqo5aHAy7zKgtmC4E1vhZdTCtyU/C7fmq1gEMutMwRDkoTSpLJPZI776AjzvBCbLHfpibd07XWvtJciMK71Q4Qe84mgNZkLph2BunGjtkbznLBiR+LUD0YnI4NeL7NCOzmu6X0yEftqLfjIieSi+4JmCfpSV2rKtO0ejI/JhzREVa2z+ttNd+gQBSrXaNNyRy+jGOvOkZYdlxgqIoPmCk+Cij8/EGeprf60w3QdgYKpqQr3F7tDT/cL4AgW4uOJbxcanQaO0t4fODYTfIR3peXUlylWPZ2embhN7p6DqeQ4xL6H9tmE8ltUB59V/5pg1ZHTOqHMhrRPn2i3o=;sReN0cWs/fuT7gAY+Ggj5A=="
+secured: "EwE9gwMG54PGXadS4W9tC4t1/EmOLFGRe1QOFyV4pf+8Kzj+BziqM4BYmusnfAS1n1NBiquRGGIrnZV+qcYKiwDa4bR7obAcGbVFp7u8Tj28yfMqGPkmXWlrIciIlANxuONxv7LcgyATDBFOibqWZR5N1+ka2U0MgOsSzCqqf9R9CD3gAHChZHGMgQF5ilqTY4adyt5yJexUeIxYn72h6wFc/s+bVYcHwlwr+raoBqIThcZkX8bL5iR3kL4WV0Q+EXsofOl6ooIAll81VyhmUy7BD9xef4Zcvl/RfDfsLgJWpcbTD6GKSCt3kxjwLCSDIsjrO/t5BBz4vjInxnPhmWRe0MgITdptK5hYivG8ki28hFgu6LTCGb5GErhDRL2FJSxzF0ClqaM2BnIiBaVUAwro1zbQyE8/wr8lvyuYjtI=;L/WyVsRAj8dwg0pQLuMIcA=="
 ---
 
