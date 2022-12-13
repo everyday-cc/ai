@@ -53,6 +53,20 @@ related:
         width: 2240
         height: 1260
         isCached: true
+  - title: "Microsoft acquires 4% stake in London Stock Exchange"
+    excerpt: "Microsoft has announced a 10-year partnership with the London Stock Exchange Group (LSEG) involving next-generation data, analytics and cloud computing products."
+    publishedDateTime: 2022-12-13T07:03:00Z
+    webUrl: "https://www.computing.co.uk/news/4061544/microsoft-acquires-stake-london-stock-exchange"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://image.chitra.live/api/v1/wps/ded2ebb/05f2f119-b892-41e5-a592-6e38ec84d6d6/7/LSEMS-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
   - title: "Empowering the future of financial markets with London Stock Exchange Group"
     excerpt: "Microsoft looks to generate $5 billion in revenue from LSEG and the financial services sector through 10-year strategic partnership. Today, we announced a 10-year strategic partnership with the London Stock Exchange Group (LSEG),"
     publishedDateTime: 2022-12-12T07:59:00Z

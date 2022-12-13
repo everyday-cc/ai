@@ -85,6 +85,20 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "F|T: The FinTech Times – Is CPPI out on crypto?"
+    excerpt: "Welcome to the FinTech Times, a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page."
+    publishedDateTime: 2022-12-13T10:00:00Z
+    webUrl: "https://betakit.com/ft-the-fintech-times-is-cppi-out-on-crypto/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 24
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2022/12/BITCOIN.jpeg"
+        width: 1050
+        height: 700
+        isCached: true
 
 secured: "/gFUUG+13E2mBETTx+RvECeqRPtP0tz8lbbEQDIyvrNZiohLr4FNPvYJzo85vGxNibpsoxnyjDGfvFewltrGyZY0nsU/T55rfWOIoTiyGzHgfGIjoj9YNjj4bvQk1Fq0Wuriy8GEh5kwSNIcuXdzwyIMWBAGHFKCNCsfNan1qDLtc0XdVVH2QPyK1o0pW+LrAFeGpiTc6EdmG5sU3NXB3cp9HyPMYxGML3ZCCPRknj/Yz9QfJz13cN+iakSNvViDB5M49hsjVBVg3/9ev5wD3EBHhi4nysE0XQRlzcIjAirQnhhlKueTEL7CghkFL/n+GQjFcdopg5wlx6cRZg1KPiX2+hgDpvRqlXqg778FJIuOjMGEKy0HoJWQ3BNYQ0SL2aCmT0HC1/OjTVerIbGUfftOpbmQU5RFhIPyC+2+Me3uMwoWu0Xkfq2eUPHEbe4Hon7KUPw/r7RrMUo0d7RDYmKrxdYaDpvY0DaPp+JpGaUvpcX1xtWchggil+L4lv2kPvZl+Ce6vNBN7ZewZtyOdQ==;8+UheMkur1u9elxXqyiHYg=="
 ---

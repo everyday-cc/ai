@@ -3,8 +3,8 @@ category: news
 title: "Facial Recognition Technology Scans Your Ear"
 excerpt: "University of Georgia (UGA) scientists have created an ear recognition system that can authenticate individuals with up to 97.25% accuracy."
 publishedDateTime: 2022-12-12T17:55:00Z
-originalUrl: "https://cacm.acm.org/news/267660-facial-recognition-technology-scans-your-ear/fulltext"
-webUrl: "https://cacm.acm.org/news/267660-facial-recognition-technology-scans-your-ear/fulltext"
+originalUrl: "https://cacm.acm.org/news/267660-facial-recognition-technology-scans-your-ear"
+webUrl: "https://cacm.acm.org/news/267660-facial-recognition-technology-scans-your-ear"
 type: article
 quality: 19
 heat: -1
@@ -123,6 +123,6 @@ related:
       domain: thehansindia.com
     quality: 19
 
-secured: "Vvfhil71n0YD2+A9wqvqmRA7+ZOXcOKYgOFI6BHgF18UCbsIcDnoaRS4+az+LKbQaxzvWbS8gH2U7kpc+uK+KeHISdJdAhLJqCB4pws0uNQm2WPlBt480K2SY9zacWBtwPklcXnpufHKemzfMdwALxaMr0Uneksu8ItdRmda5CL7GjTbTp53hNiY5Jidv8jdeZHRE4cj/hh0tJFtvSIIXTO/JZn0mfjZXXi3/dd/EPBq+vJWsFBDsOS/0wzJbu/3JTzggkmfkQdpi0ajqJ6VEMjUH5TVHKouFywpuw3ZYXb/e9BVax/SqbZG0J6VzeMjkSMs5sP7p3zHuV60I9VCYy6gLnAngB6g/6SIWgIAtuh1i+I8LdLwEo/Bu69E8LAs6Kh1IaylZ4NIQSAeIzyXT1ClXBDxJKO3i7aS0xCbCyHEVv+nsy8ayHkI8eSRJnrqf59rkcD5tGDFks/hGViOeu3xsJ+YRQ/sw0uOISm//KMSm+rQxrVy7t8ABmJh2OXOi+ayys8FnEPQQRXzQSeDZg==;XURC5f9AFkS8V21c0tbA/g=="
+secured: "ucCCk8i+TZZZhD4Eb53/SHf20O1Aca+eb29OVt4ZqEbmuRJS7/Yrj2QXDN+91TNUcD/Z+XA9pEMGxRUfGCd4K7ZP5JXVIt8FofdLYmPqDFctlsNAASYB5I4Bo2pe0Z0lHunbBdSNzXrz7HZs3pU1FNTpoVUk9fQDUUnw3teTpyQXanxLtK97Z+PLQgDQ+o9FaLnXSylyub9AFUKM9WgDEK98zDnuNVc2eS46RMd8JMTd3O5XWRPWRsnHlaXarZ47IbmWaeptrmxivgX+SI+Nv0PSRIVJWjJJTd2Ji+5KPvf9S74y9VPrnMsP8fThYefQXgi1WgaVYPtMS0U125AJCbpHBQJCwlxwVf2xUSfUCFCbst3TugoYxJeglldDEHP0cwqYlaB9YqZ1hYdrdz9an9x61PCH/ermlIdc2Xek+s5G2D6KcVGBYN72gqDN0pqvF4q9tf6kFNx8zLJ4HBN+T4yrsRs5D/XYixjkIqhx5/TAJ3KpCvfHAL+v/0EidXkQD+RkgnjxKnYxp1/8/zyqHQ==;6QZmqSuiadUdxHgGu3uopw=="
 ---
 

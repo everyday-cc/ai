@@ -9,7 +9,7 @@ ampWebUrl: "https://kotaku.com/adobe-ai-generated-art-photoshop-stock-bad-sucks-
 cdnAmpWebUrl: "https://kotaku-com.cdn.ampproject.org/c/s/kotaku.com/adobe-ai-generated-art-photoshop-stock-bad-sucks-1849880495/amp"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -20,22 +20,24 @@ topics:
   - AI
 
 related:
-  - title: "How artificial intelligence can find the source of gamma-ray bursts"
-    excerpt: "Gamma-ray bursts come in two main flavors, short and long. While astronomers believe that they understand what causes these two kinds of bursts, there is still significant overlap between them. A team of researchers have proposed a new way to classify gamma-ray bursts using the aid of machine learning algorithms."
-    publishedDateTime: 2022-12-08T18:15:00Z
-    webUrl: "https://phys.org/news/2022-12-artificial-intelligence-source-gamma-ray.html"
-    ampWebUrl: "https://phys.org/news/2022-12-artificial-intelligence-source-gamma-ray.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-12-artificial-intelligence-source-gamma-ray.amp"
+  - title: "Pondering the legitimacy of AI art"
+    excerpt: "The more AI art is generated, the more valuable human-created art.” - Alex Roy Listen, I don’t want to argue. Art created by artificial intelligence, if it’s even really art at all, is sketchy and problematic."
+    publishedDateTime: 2022-12-09T18:01:00Z
+    webUrl: "https://www.thefabricator.com/thefabricator/blog/cadcamsoftware/pondering-the-legitimacy-of-ai-art"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/how-artificial-intelli-3.jpg"
-        width: 1024
-        height: 585
-        isCached: true
+      name: The Fabricator
+      domain: thefabricator.com
+    quality: 19
+  - title: "Not Even AI Can Beat the Market These Days"
+    excerpt: "A tireless machine able to digest all information and immune to biases should be clearly superior to humans when it comes to investing. Except it’s not."
+    publishedDateTime: 2022-12-09T11:32:00Z
+    webUrl: "https://www.washingtonpost.com/business/not-even-ai-can-beat-the-market-these-days/2022/12/09/0ae9d85e-77be-11ed-a199-927b334b939f_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 17
 
 secured: "JEQ3X3Vkr2lNEwt72j6Kne4T6RIIeZ6pt6H0jiWGGTB15Ehwdw6ls8hJj/ZlvuAu22Bku1HWa+A3FHM7XmJ78qPoHYzkm2/XYEegfxsBHrVOBKt2IDWnmpO1rIANCdJKjBNr4qxyyFQBWUizSewGmzruJu6+mgrVYifidJAyRRRvvqZ8Cqy7WL6cP2Lr4E5LnAPOx4d/cYQ9K1U2TGJMt+/iBMZzkP0nohqLOAWba26C6XJZtuih4xGCkGohp25zy1H04aKw43OTd0KqvLTjEnN6YIPFIHfRLkQtID2zoTjx0rOXLYgu00hoJtosEpzmUzpX2HfLA1EfbJsEqTGZ2OZ7jkPEpIlA36hnCKkVou4dxt1t315ejdLQ8sDciK3Q6DXUXA2E6hwGzhddsB9nZfjLi2w9nH640z9zutXXWvelTgtFQG12wkN+meagjRPN+78iItYzuBsl0iKSDiQi0FngUKJ+R8uMFDMLT7e/W3hK5M2NC+VFeUrM1ieFT0VpWjaWmyS9beI/iHlR9JyTGg==;dRynoEI+h1eKkK5ec3CFTQ=="
 ---

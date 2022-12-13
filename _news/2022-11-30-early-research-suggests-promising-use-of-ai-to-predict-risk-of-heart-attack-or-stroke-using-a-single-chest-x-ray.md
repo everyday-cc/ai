@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Early research suggests promising use of AI to predict risk of heart attack or stroke using a single chest X-ray"
-excerpt: "By Deidre McPhillips, CNN Early research suggests a promising use of artificial intelligence to predict the 10-year risk of death from a heart attack or stroke from a single chest X-ray. The preliminary findings were presented Tuesday at the annual meeting of the Radiological Society of North America."
+excerpt: "Early research suggests promising use of AI to predict risk of heart attack or stroke using a single chest X-ray"
 publishedDateTime: 2022-11-30T01:23:00Z
-originalUrl: "https://ktvz.com/health/cnn-health/2022/11/29/early-research-suggests-promising-use-of-ai-to-predict-risk-of-heart-attack-or-stroke-using-a-single-chest-x-ray/"
-webUrl: "https://ktvz.com/health/cnn-health/2022/11/29/early-research-suggests-promising-use-of-ai-to-predict-risk-of-heart-attack-or-stroke-using-a-single-chest-x-ray/"
+originalUrl: "https://keyt.com/health/2022/11/29/early-research-suggests-promising-use-of-ai-to-predict-risk-of-heart-attack-or-stroke-using-a-single-chest-x-ray/"
+webUrl: "https://keyt.com/health/2022/11/29/early-research-suggests-promising-use-of-ai-to-predict-risk-of-heart-attack-or-stroke-using-a-single-chest-x-ray/"
 type: article
 
 provider:
-  name: KTVZ
-  domain: ktvz.com
+  name: KEYT
+  domain: keyt.com
 
 topics:
-  - Facebook AI
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://ktvz.b-cdn.net/2022/11/hypatia-h_44d1a744c66563ee67e542a225dd4910-h_8fd481471df36eb8a520d96017fe985d-300.jpg"
-    width: 1200
-    height: 800
+  - url: "https://keyt.b-cdn.net/2022/11/hypatia-h_44d1a744c66563ee67e542a225dd4910-h_8fd481471df36eb8a520d96017fe985d-300.jpg"
+    width: 2000
+    height: 1333
     isCached: true
 
-secured: "34nugSdaF7JEHUC2e9gvjc87VhW8c12+qN1B5ETnolNP/McieTKfl8y7sneIr+vCEqvj4vufSkTK/n7sXOTZLM0fCtatF4nooyI54JTZsmT3070VDIj6okXyw2GCFNtbvajNTtSyjEQW0z4Wcj3uo5qUkznXw+PtIayMUBjZM1WinfO66dGP3+xY0zK638/nz1Ag4bT3bT0YxF+XGpKTzH4cNcoq1W/70o+9F2LVMG6ePddZ19C4INdIrcj+ZlBD5P+vT2kCN0cH4rSZyCKfVq3vcakqLkYyaMqNBLmMj1Jwl1vTFADtFTfnbEH/qbwqFqdX1N4UDN9Y9Tx6Tpzko2OGPhegxsUh4AbSB18NgRI=;dzt0OVyNHMh+ir9eurPg9g=="
+secured: "8qT3Lq9AXzDIY87TTnSn5DJVgwiYnzsaFOQb0G9M4QlOJohfzT49RD0rEEstfxpPwo1ep+jhgySxVnmWScdRb2VbkvnCH3SgoZa49ByDcA/lmiFFzFA+IEIclioHpL1IOAC2Vl8N0SjdkbM56ArPnJPbYcfKOwI7CjUHzBiMU6HV/Mt4Kn/OFCJ0Se+gUbfTwpAkE8drFqXXnBgGb2hf++kdJ4q8Cj17yERkdeW92oPzDlHedblIPooHGTnE4UNaL7MPB01leDsrb2MYZyLPw2jCpT22nx4A3jz/LoiyS2BpF90+2vkyWQg70A1HucRH45NKwyMggy++BtjU7K7+60+k4Acp96wON5QGGesmTEI=;f9pTd++XHo87gScsFKSBYA=="
 ---
 

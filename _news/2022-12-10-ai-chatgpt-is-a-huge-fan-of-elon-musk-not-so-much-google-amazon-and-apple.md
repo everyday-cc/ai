@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT: Why Everyone's Obsessed With This Mind-Blowing AI Chatbot"
-    excerpt: "This artificial intelligence bot is an impressive writer and conversationalist. But be careful how much you trust its answers."
-    publishedDateTime: 2022-12-08T18:47:00Z
-    webUrl: "https://www.cnet.com/tech/computing/chatgpt-why-everyones-obsessed-with-this-mind-blowing-ai-chatbot/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/chatgpt-why-everyones-obsessed-with-this-mind-blowing-ai-chatbot/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/chatgpt-why-everyones-obsessed-with-this-mind-blowing-ai-chatbot/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://www.cnet.com/a/img/resize/084641681c8362c3ce0c3eb8a53365351adcaaac/hub/2022/12/06/3dd7180c-d0e7-47ca-bc37-b5df15a41a25/ai-chat-gettyimages.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "OpenAI CEO admits ChatGPT risks. What now? | The AI Beat"
     excerpt: "It's a mistake to be relying on [ChatGPT] for anything important right now,' tweeted the OpenAI CEO. So what now for AI-produced prose?"
     publishedDateTime: 2022-12-12T20:42:00Z
@@ -77,36 +61,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/639396616b1ddb747792f2ca/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "I Entered a Pun Competition. My Jokes Were Written by an AI Chatbot."
-    excerpt: "ChatGPT, a trendy new artificial intelligence robot, can generate all sorts of writing. But is it punny?"
-    publishedDateTime: 2022-12-09T15:23:00Z
-    webUrl: "https://www.wsj.com/articles/chatgpt-ai-chatbot-punderdome-jokes-11670602696"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-682317/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Becoming a chatbot: my life as a real estate AI’s human backup"
-    excerpt: "For one weird year, I was the human who stepped in to make sure a property chatbot didn’t blow its cover – I was a person pretending to be a computer pretending to be a person"
-    publishedDateTime: 2022-12-13T05:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/dec/13/becoming-a-chatbot-my-life-as-a-real-estate-ais-human-backup"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/dec/13/becoming-a-chatbot-my-life-as-a-real-estate-ais-human-backup"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/dec/13/becoming-a-chatbot-my-life-as-a-real-estate-ais-human-backup"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/4cb83fb37dcb0ee9f56bec8d6c894951782066a4/495_608_5670_3401/master/5670.jpg?width=620&quality=85&auto=format&fit=max&s=fe842cee56391de90459ff75c3447efe"
-        width: 620
-        height: 372
         isCached: true
   - title: "‘It works very well, but it’s not magic’: This is ChatGPT, the groundbreaking AI chatbot"
     excerpt: "The latest evolution in text generation systems has surprised hundreds of thousands of users with coherent conversations and a humanlike finesse"
@@ -142,34 +96,15 @@ related:
       name: CNET
       domain: cnet.com
     quality: 49
-  - title: "New AI Chatbot Lands With A Big Splash"
-    excerpt: "Like most nerds who read science fiction, I've spent a lot of time wondering how society will greet true artificial intelligence, if and when it"
-    publishedDateTime: 2022-12-12T22:37:00Z
-    webUrl: "https://menafn.com/1105300545/New-AI-Chatbot-Lands-With-A-Big-Splash"
+  - title: "OpenAI’s attempts to watermark AI text hit limits"
+    excerpt: "OpenAI is working on a way to watermark text, according to a guest researcher working at the lab. But it's limited in key ways."
+    publishedDateTime: 2022-12-10T13:47:00Z
+    webUrl: "https://techcrunch.com/2022/12/10/openais-attempts-to-watermark-ai-text-hit-limits/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2022-12/12/KT_cc77eimage_story.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Is ChatGPT the Start of the AI Revolution?"
-    excerpt: "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skillset. On"
-    publishedDateTime: 2022-12-09T12:40:00Z
-    webUrl: "https://www.washingtonpost.com/business/is-chatgpt-the-start-of-the-ai-revolution/2022/12/09/9eb9dfec-77b5-11ed-a199-927b334b939f_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TYKMLGDXWUI63IMZSJ5TGS4TT4.jpg&w=1440"
-        width: 1440
-        height: 963
-        isCached: true
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
   - title: "Is ChatGPT the start of the AI revolution? 聊天機器人ChatGPT 將掀起人工智慧革命？"
     excerpt: "Have you heard of ChatGPT yet? It’s a thrilling, vexing, ontologically mesmerizing new technology created by the research group OpenAI. It can solve all your problems and answer all your questions. Or at least it will try to."
     publishedDateTime: 2022-12-12T16:00:00Z
@@ -184,43 +119,6 @@ related:
         width: 800
         height: 800
         isCached: true
-  - title: "We asked ChatGPT, A Groundbreaking AI Bot, Whether President Ramaphosa Should Resign?"
-    excerpt: "ChatGPT, created by a company called OpenAi, is the viral AI tool that is immensely powerful and useful in many ways."
-    publishedDateTime: 2022-12-12T05:58:00Z
-    webUrl: "https://techfinancials.co.za/2022/12/12/we-asked-chatgpt-a-groundbreaking-ai-bot-whether-president-ramaphosa-should-resign/"
-    type: article
-    provider:
-      name: techfinancials
-      domain: techfinancials.co.za
-    quality: 32
-    images:
-      - url: "https://techfinancials.co.za/wp-content/uploads/2022/12/pexels-kindel-media-8566470.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "The AI chatbot coming for your job, ‘Swifties’ take on Ticketmaster, and Apple sued for AirTag stalking"
-    excerpt: "Nightcap's Jon Sarlin talks to futurist Amy Webb about the implications for ChatGPT, the next-gen AI tool that's blowing everyone's minds. Plus, Morgan Harper of the American Economic Liberties Project on whether Ticketmaster has met its match in Taylor Swift and her legion of devoted fans."
-    publishedDateTime: 2022-12-08T20:10:00Z
-    webUrl: "https://edition.cnn.com/videos/business/2022/12/08/nightcap-ticketmaster-airtag-stalking-full-orig-nb.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 31
-  - title: "We Prompted ChatGPT to be a Translation Manager"
-    excerpt: "After Slator tested the waters by asking ChatGPT questions about the language industry, we took it a few steps forward by producing a video with ChatGPT, Synthesia, and Descript. First, we asked ChatGPT to answer questions as if they were a translation manager on a podcast."
-    publishedDateTime: 2022-12-09T10:41:00Z
-    webUrl: "https://slator.com/we-prompted-chatgpt-to-be-a-translation-manager/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 24
-    images:
-      - url: "https://slator.com/assets/2022/12/ChatGPT-interviews-as-Translation-Manager.png"
-        width: 600
-        height: 400
-        isCached: true
   - title: "AI bot ChatGPT writes smart essays — should academics worry?"
     excerpt: "The bot is free for now and can produce uncannily natural, well-referenced writing in response to homework questions."
     publishedDateTime: 2022-12-09T13:06:00Z
@@ -230,24 +128,6 @@ related:
       name: Nature
       domain: nature.com
     quality: 17
-  - title: "Artificial intelligence chatbot can code, compose music, write essays, and more"
-    excerpt: "We will increasingly have conversations with our computers to get the information we need or get them to do what we want them to do."
-    publishedDateTime: 2022-12-12T14:00:00Z
-    webUrl: "https://www.iol.co.za/business-report/economy/artificial-intelligence-chatbot-can-code-compose-music-write-essays-and-more-965dc588-9547-42c6-9ff1-d70568ebb01b"
-    type: article
-    provider:
-      name: Independent Online
-      domain: iol.co.za
-    quality: 15
-  - title: "Could an A.I. Chatbot Rewrite My Novel?"
-    excerpt: "As a young fiction writer, I dreamed of a technology that would tell me how to get my characters from point A to point B. Could ChatGPT be it?"
-    publishedDateTime: 2022-12-09T19:50:00Z
-    webUrl: "https://www.newyorker.com/news/our-columnists/could-an-ai-chatbot-rewrite-my-novel"
-    type: article
-    provider:
-      name: The New Yorker
-      domain: newyorker.com
-    quality: 4
 
 secured: "+lojzTjiJNqd6rLrtaPVrWkKyYs2YoLejNu3n99DRUJKizIfI8apVku0Mk12O2g4n1n/sXEJoBPulsgLVjFq9jeyPPdxQjWSBCbwz4m94fnnZzq/JrCOKfFw9xFIGD7ZjQkwhXo8krzfQ9UvQ5aVZ5dUQH1mAIguFDALcDIUQSQZi65CXSfo55ppmsFSRhW0HoplioFMy91X1rAHZMcGcFHv0aoQZIYNHU/KKmgjeEuJC1UGT1Dr4kbNHUQpA1XEdrrjHjCwDnvPCZA8koVtEClzP3PnLBmtnvvp4HJCh0XOeGRH6kv6P4lbrUHS660tI6i1jWZzM2Ju8GQr6OE77ppx3C7UJjaCFfsLe/2JcLk=;P47HjwtkmobfJ1JRr+tEtw=="
 ---

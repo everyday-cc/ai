@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alexlazarow/2022/12/10/the-future-of-fi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexlazarow/2022/12/10/the-future-of-fintech-according-to-ai/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/FinTech-Funding-wealth.jpg"
         width: 300
         height: 300
+        isCached: true
+  - title: "F|T: The FinTech Times – Is CPPI out on crypto?"
+    excerpt: "Welcome to the FinTech Times, a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page."
+    publishedDateTime: 2022-12-13T10:00:00Z
+    webUrl: "https://betakit.com/ft-the-fintech-times-is-cppi-out-on-crypto/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 24
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2022/12/BITCOIN.jpeg"
+        width: 1050
+        height: 700
         isCached: true
 
 secured: "hTEaJmhFfPVmi26k9si2uIy4DzhhP8mk3hR2f/33860F3sY5T8voz5ksDZywBU+cd7ZBiyWwdjEKey0YSaSp28+r/Q7FNdOBVlpOP2CL18OyczxJ8rv2U6Bnvc1z+4AuRYpRHYb9KH2b+XARNJDQ9kvkO6N6P3ODr4k1SzVAobu1OGN+dvhjBlxB8wV8i0yIxXnNRyYr0yWIdF9uYQJTcEVNLmA/bNlWLNlhFrR+nFriy5unfFTyaxmqMKNnpoIet2jUpIVaf+c1rP5/6BTlMKAMpMRrPGOWbOAqf2uGjTisp6ns+SV5Ru25mR6YUNp4uz5pdQlVtVfVHLq4v3Wmc0n47yDsroyk3OVnTKYZCrnlRdTZYfnx7FB9WR60096Z/cYSAID7INGbDfNtQ9HJih4AxXHfJH46002QWbIY9mJshp8KljiteHyJ567NzKWdmJ3tkxaoMeWo2j213HEhkahJOkbqOypH6hk2RMWGxynigVOXerklttaeBStOMZWzRQbCB5iVSSufniY10217MQ==;kWWKHm+AFnFBR4yleQXbIg=="

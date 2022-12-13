@@ -46,22 +46,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Here’s Why People Are Speaking Out Against The Instagram Trend Of AI Art Apps Like Lensa"
-    excerpt: "There’s a debate about data, intellectual property, and identity brewing in regard to an app that charges you $8 to turn your selfies into art."
-    publishedDateTime: 2022-12-08T17:43:00Z
-    webUrl: "https://www.buzzfeednews.com/article/kelseyweekman/ai-art-app-lensa-instagram-photo-trend-problems"
-    ampWebUrl: "https://www.buzzfeednews.com/amphtml/kelseyweekman/ai-art-app-lensa-instagram-photo-trend-problems"
-    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/kelseyweekman/ai-art-app-lensa-instagram-photo-trend-problems"
-    type: article
-    provider:
-      name: buzzfeednews.com
-      domain: buzzfeednews.com
-    quality: 80
-    images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2022-12/8/18/campaign_images/cc58f94f9976/60-of-the-most-mind-bogglingly-dumb-things-people-3-1021-1670525291-37_dblbig.jpg"
-        width: 625
-        height: 415
-        isCached: true
   - title: "'It's not just fun': Lensa AI portrait app raises ethical, privacy concerns"
     excerpt: "Magic avatars' are the latest internet craze, but one expert says individuals uploading photos of themselves onto the Lensa AI portrait app may not be aware of the ethical and privacy concerns involved."
     publishedDateTime: 2022-12-12T14:26:00Z

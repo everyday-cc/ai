@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "São Paulo Metrô deploys facial recognition technology from Intelligent Security Systems"
-    excerpt: "The company's SecurOS FaceX solution will protect passengers traveling on Line 3-Red, which features approximately 1,400 cameras deployed across 18 transit stations, as well as the Itaquera and Belém railyards."
-    publishedDateTime: 2022-12-08T17:04:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/press-release/21289422/intelligent-security-systems-so-paulo-metr-deploys-facial-recognition-technology-from-intelligent-security-systems"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 48
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/12/ISS_logo.6392130f07f83.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Brazil deploys ISS facial recognition to secure São Paulo metro"
     excerpt: "The system connects to a centralized control center enabling real-time detection of suspicious activity and automatically triggers alerts for operators."
     publishedDateTime: 2022-12-09T18:20:00Z

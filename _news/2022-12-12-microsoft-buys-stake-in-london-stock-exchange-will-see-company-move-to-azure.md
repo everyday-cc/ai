@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-buys-stake-in
 webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-buys-stake-in-london-stock-exchange-will-see-company-move-to-azure/"
 type: article
 quality: 51
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/micro.png"
         width: 2240
         height: 1260
+        isCached: true
+  - title: "Microsoft acquires 4% stake in London Stock Exchange"
+    excerpt: "Microsoft has announced a 10-year partnership with the London Stock Exchange Group (LSEG) involving next-generation data, analytics and cloud computing products."
+    publishedDateTime: 2022-12-13T07:03:00Z
+    webUrl: "https://www.computing.co.uk/news/4061544/microsoft-acquires-stake-london-stock-exchange"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://image.chitra.live/api/v1/wps/ded2ebb/05f2f119-b892-41e5-a592-6e38ec84d6d6/7/LSEMS-370x229.jpg"
+        width: 370
+        height: 229
         isCached: true
   - title: "Microsoft plans to buy stake in and partner with London Stock Exchange"
     excerpt: "The U.K. exchange will spend at least $2.8 billion on cloud services from the tech giant over the next decade."

@@ -43,22 +43,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Apple scales back self-driving car and delays debut till 2026"
-    excerpt: "Apple executives are grappling with the reality that its vision for a fully autonomous vehicle — without a steering wheel or pedals — isn’t feasible with current technology."
-    publishedDateTime: 2022-12-08T17:47:00Z
-    webUrl: "https://www.delcotimes.com/2022/12/08/apple-scales-back-self-driving-car-and-delays-debut-till-26/"
-    ampWebUrl: "https://www.delcotimes.com/2022/12/08/apple-scales-back-self-driving-car-and-delays-debut-till-26/amp/"
-    cdnAmpWebUrl: "https://www-delcotimes-com.cdn.ampproject.org/c/s/www.delcotimes.com/2022/12/08/apple-scales-back-self-driving-car-and-delays-debut-till-26/amp/"
-    type: article
-    provider:
-      name: Delaware County Daily Times
-      domain: delcotimes.com
-    quality: 44
-    images:
-      - url: "https://www.delcotimes.com/wp-content/uploads/2022/12/Apple_App_Store_Antitrust_Battle_93202-1.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Apple taps the brake on self-driving car goals to launch in 2026"
     excerpt: "Like many others, Apple also wants to be the first to develop a fully autonomous Level 5 self-driving car – requiring no assistance from human drivers, including pedals and steering. It seems the technology isn't quite there yet,"
     publishedDateTime: 2022-12-13T01:30:00Z
@@ -74,20 +58,6 @@ related:
       - url: "https://regmedia.co.uk/2022/12/12/apple_shutterstock.jpg"
         width: 1000
         height: 665
-        isCached: true
-  - title: "Smoothly driving towards the holy grail of self-driving"
-    excerpt: "Cadillac Escalade promises assistance rather than autonomy, but a highway test drive shows its remarkable capability is a step in the right direction."
-    publishedDateTime: 2022-12-08T18:00:00Z
-    webUrl: "https://www.afr.com/companies/transport/smoothly-driving-towards-the-holy-grail-of-self-driving-20221205-p5c3n7"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 39
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.1858%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_85/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/b5f0d31f6474091e6bed8ce2f5b6960cac06732b"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Apple is Ditching Full Self-Driving on its Long-Promised Car"
     excerpt: "Apple has reportedly been working towards an electric vehicle – an endeavor famed investor Carl Icahn said would serve as “the ultimate mobile device.” Part of Icahn’s bullishness on the Apple car stemmed from the rumors that it would be fully autonomous,"

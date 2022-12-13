@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thenation.com/article/culture/chatgpt-ai-writers/tnamp/"
 cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/culture/chatgpt-ai-writers/tnamp/"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     isCached: true
 
 related:
+  - title: "Leveraging Conversational AI for better business outcomes"
+    excerpt: "The past decade or so has seen technologies become smarter and more intelligent, to the point where it’s now possible to converse with a chatbot or a virtual assistant almost as easily as with"
+    publishedDateTime: 2022-12-13T10:38:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/leveraging-conversational-ai-for-better-business-outcomes/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/leveraging-conversational-ai-for-better-business-outcomes/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/leveraging-conversational-ai-for-better-business-outcomes/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 39
   - title: "New Book Makes the Case for Cheaper Artificial Intelligence"
     excerpt: "Cotton is a brilliant, original, ‘out of the box’ thinker with command of his subject”— Joseph Langsam WEST PALM BEACH, FLORIDA, UNITED STATES, December 10, 2022/ EINPresswire.com / -- In his new book published recently by MIT Press,"
     publishedDateTime: 2022-12-10T23:46:00Z

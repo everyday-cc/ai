@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202212/brazil-deploys-iss-facial-r
 webUrl: "https://www.biometricupdate.com/202212/brazil-deploys-iss-facial-recognition-to-secure-sao-paulo-metro"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "São Paulo Metrô deploys facial recognition technology from Intelligent Security Systems"
-    excerpt: "The company's SecurOS FaceX solution will protect passengers traveling on Line 3-Red, which features approximately 1,400 cameras deployed across 18 transit stations, as well as the Itaquera and Belém railyards."
-    publishedDateTime: 2022-12-08T17:04:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/press-release/21289422/intelligent-security-systems-so-paulo-metr-deploys-facial-recognition-technology-from-intelligent-security-systems"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 48
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/12/ISS_logo.6392130f07f83.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "São Paulo Metrô deploys facial recognition technology from ISS"
     excerpt: "ISS (Intelligent Security Systems), a pioneer provider of video intelligence and data awareness solutions, announced that São Paulo Metrô in Brazil has deployed its SecurOS®"
     publishedDateTime: 2022-12-09T14:42:00Z
