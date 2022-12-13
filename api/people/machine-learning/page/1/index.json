@@ -17,7 +17,7 @@
       "twitter": {
         "username": "LexFridman",
         "url": "https://twitter.com/LexFridman",
-        "followers": 2345626
+        "followers": 2346186
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=wZH_N7cAAAAJ",
@@ -67,11 +67,11 @@
       "twitter": {
         "username": "ylecun",
         "url": "https://twitter.com/ylecun",
-        "followers": 375325
+        "followers": 375378
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=WLN3QrAAAAAJ",
-        "citations": 274805
+        "citations": 275116
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Yann_LeCun"
@@ -113,14 +113,14 @@
       "twitter": {
         "username": "AndrewYNg",
         "url": "https://twitter.com/AndrewYNg",
-        "followers": 707715
+        "followers": 707732
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/andrewyng/"
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=mG4imMEAAAAJ",
-        "citations": 216070
+        "citations": 216281
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Andrew_Ng"
@@ -174,7 +174,7 @@
       "twitter": {
         "username": "alexandr_wang",
         "url": "https://twitter.com/alexandr_wang",
-        "followers": 42848
+        "followers": 42877
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/alexandrwang/"
@@ -214,7 +214,7 @@
       "twitter": {
         "username": "ilyasut",
         "url": "https://twitter.com/ilyasut",
-        "followers": 137993
+        "followers": 138007
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=x04W_mMAAAAJ",
@@ -256,11 +256,11 @@
       "twitter": {
         "username": "geoffreyhinton",
         "url": "https://twitter.com/geoffreyhinton",
-        "followers": 157622
+        "followers": 157643
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=JicYPdAAAAAJ",
-        "citations": 632270
+        "citations": 633048
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Geoffrey_Hinton"
@@ -397,7 +397,7 @@
       "twitter": {
         "username": "soumithchintala",
         "url": "https://twitter.com/soumithchintala",
-        "followers": 112907
+        "followers": 112914
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/soumith"
@@ -439,11 +439,11 @@
       "twitter": {
         "username": "drfeifei",
         "url": "https://twitter.com/drfeifei",
-        "followers": 411371
+        "followers": 411374
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=rDfyQnIAAAAJ",
-        "citations": 186980
+        "citations": 187299
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Fei-Fei_Li"
@@ -499,11 +499,11 @@
       "twitter": {
         "username": "chrmanning",
         "url": "https://twitter.com/chrmanning",
-        "followers": 97765
+        "followers": 97762
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=1zmDOdwAAAAJ",
-        "citations": 203971
+        "citations": 204126
       },
       "affiliation": {
         "path": "",
@@ -554,11 +554,11 @@
       "twitter": {
         "username": "demishassabis",
         "url": "https://twitter.com/demishassabis",
-        "followers": 275734
+        "followers": 275740
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=dYpPMQEAAAAJ",
-        "citations": 95027
+        "citations": 95312
       },
       "affiliation": {
         "path": "",
@@ -649,7 +649,7 @@
       "twitter": {
         "username": "etzioni",
         "url": "https://twitter.com/etzioni",
-        "followers": 26523
+        "followers": 26522
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=-hmxit8AAAAJ",
@@ -695,7 +695,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=DZ-fHPgAAAAJ",
-        "citations": 194878
+        "citations": 195016
       },
       "affiliation": {
         "path": "",
@@ -735,7 +735,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=7_xEzmUAAAAJ",
-        "citations": 170252
+        "citations": 170460
       },
       "affiliation": {
         "path": "",
@@ -776,7 +776,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=GTtW9H0AAAAJ",
-        "citations": 171551
+        "citations": 171757
       },
       "affiliation": {
         "path": "",
@@ -813,7 +813,7 @@
       "twitter": {
         "username": "smolix",
         "url": "https://twitter.com/smolix",
-        "followers": 19843
+        "followers": 19842
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=Tb0ZrYwAAAAJ",
@@ -860,7 +860,7 @@
       "bio": "Michigan State University",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=g-_ZXGsAAAAJ",
-        "citations": 245064
+        "citations": 245186
       },
       "affiliation": {
         "path": "",
@@ -902,7 +902,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=gsr-K3ADUvAC",
-        "citations": 127105
+        "citations": 127281
       },
       "affiliation": {
         "path": "",
@@ -1095,7 +1095,7 @@
       "bio": "Professor of EECS, UC Berkeley. Jitendra is known for his research in computer vision.",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=oY9R5YQAAAAJ",
-        "citations": 190113
+        "citations": 190307
       },
       "affiliation": {
         "path": "",
@@ -1164,7 +1164,7 @@
       "bio": "PhD Physics, Stanford University",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=_EPCKe0AAAAJ",
-        "citations": 236684
+        "citations": 236887
       },
       "affiliation": {
         "path": "",
@@ -1318,7 +1318,7 @@
       "bio": "Royal Society Dorothy Hodgkin Research Fellow, University of Sussex",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=cFhAMkoAAAAJ",
-        "citations": 230617
+        "citations": 230898
       },
       "affiliation": {
         "path": "",
