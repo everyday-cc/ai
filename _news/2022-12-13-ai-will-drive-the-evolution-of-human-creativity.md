@@ -54,6 +54,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Becoming AI-first – How Banks Can Lead in the AI Revolution"
+    excerpt: "By Nischal Tanna, CEO and Founder of TransformHub Consumers today demand smarter, more convenient and safer ways to access, spend, save, and invest their money. Firms in the banking and financial services sector are compelled to up their game to meet these evolving needs and are increasingly turning to Artificial Intelligence (AI) to understand their"
+    publishedDateTime: 2022-12-13T21:05:00Z
+    webUrl: "https://www.globalbankingandfinance.com/becoming-ai-first-how-banks-can-lead-in-the-ai-revolution/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/becoming-ai-first-how-banks-can-lead-in-the-ai-revolution/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/becoming-ai-first-how-banks-can-lead-in-the-ai-revolution/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 59
+    images:
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/12/iStock-1030247680.jpg"
+        width: 750
+        height: 466
+        isCached: true
   - title: "Pondering the legitimacy of AI art"
     excerpt: "The more AI art is generated, the more valuable human-created art.” - Alex Roy Listen, I don’t want to argue. Art created by artificial intelligence, if it’s even really art at all, is sketchy and problematic."
     publishedDateTime: 2022-12-09T18:01:00Z

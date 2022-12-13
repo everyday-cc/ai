@@ -82,22 +82,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "‘It works very well, but it’s not magic’: This is ChatGPT, the groundbreaking AI chatbot"
-    excerpt: "The latest evolution in text generation systems has surprised hundreds of thousands of users with coherent conversations and a humanlike finesse"
-    publishedDateTime: 2022-12-09T04:26:00Z
-    webUrl: "https://english.elpais.com/science-tech/2022-12-09/it-works-very-well-but-its-not-magic-this-is-chatgpt-the-groundbreaking-ai-chatbot.html"
-    ampWebUrl: "https://english.elpais.com/science-tech/2022-12-09/it-works-very-well-but-its-not-magic-this-is-chatgpt-the-groundbreaking-ai-chatbot.html?outputType=amp"
-    cdnAmpWebUrl: "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/science-tech/2022-12-09/it-works-very-well-but-its-not-magic-this-is-chatgpt-the-groundbreaking-ai-chatbot.html?outputType=amp"
-    type: article
-    provider:
-      name: El País in English
-      domain: elpais.com
-    quality: 50
-    images:
-      - url: "https://images.english.elpais.com/resizer/_st3E3G9M6bFDGA48ZdWoHx3RZw=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/XCL2DJWSW5DG3L6KP72CPURJ4I.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "The 5 Best Uses (So Far) for ChatGPT's AI Chatbot"
     excerpt: "The new AI tool ChatGPT has inspired excitement and worry with its ability to instantly answer complex questions. In the days after its debut, people have discovered many ways it can make their lives easier -- including five we've found that rise above the rest."
     publishedDateTime: 2022-12-10T13:34:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2022-12-aging-driven-unbalanced-genes-ai.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-12-aging-driven-unbalanced-genes-ai.amp"
 type: article
 quality: 55
-heat: 65
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Study: Aging is driven by unbalanced genes"
-    excerpt: "The new study finds that most molecular-level changes that occur during aging are associated with gene length (length of a gene is based on the number of nucleotides within it)."
-    publishedDateTime: 2022-12-12T20:48:00Z
-    webUrl: "https://www.digitaljournal.com/tech-science/study-aging-is-driven-by-unbalanced-genes/article"
+  - title: "How AI-driven sentiment analysis can enhance employee satisfaction"
+    excerpt: "Employees, these days, want to know that a company will look after them. One of the ways this shows up sharply is in the training and upskilling programs available."
+    publishedDateTime: 2022-12-13T21:09:00Z
+    webUrl: "https://venturebeat.com/ai/how-ai-driven-sentiment-analysis-can-enhance-employee-satisfaction/"
+    ampWebUrl: "https://venturebeat.com/ai/how-ai-driven-sentiment-analysis-can-enhance-employee-satisfaction/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-driven-sentiment-analysis-can-enhance-employee-satisfaction/amp/"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 24
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/primages/BBB-1_8.jpg"
-        width: 730
-        height: 482
+      - url: "https://venturebeat.com/wp-content/uploads/2015/09/retention.jpg?w=1200&strip=all"
+        width: 1000
+        height: 750
         isCached: true
 
 secured: "KwaauXsWTAgkivQShWYw7GF7Is7rXkvB1NS7e5RB+quA3vI1yk2GvdWy7hw3JcLDGJ+3luwxsfco/kaqwfpgfIn4BceuabrmT8TYe0Vl29CdUguQynookeI+urVxhH0KWRGt75TSaqRJheIe9iglktEKQqHgafk9FkcpT8l1qHpzWZ9O3Y+9PLjjc62Nt2DgV9c9QiCQaTC3bv1muZ509iD94uzgb9eR5uRT2ObKitB5gBhB+bjM6XMHXY1ugFpLD8T/tazA9ljHqbtnDXs0Fpe9tPZrdRrhmWWMogIb9e+pxj8mzRYDVxKdEC1kPIA2PrZnVAFOWas6XmfbVJOjImqkhmrgruwlzbUqfLfv9P4IXRdAH+2F0b3SBUUbfeuB7P+HoCz4+Ni5Iengd+prvoBzCZDRTiVXlpabjTppXdxccWVXgpV6kHkjgj0ZDWp5tYB/QYambHt4OT/sNA6oJCS3e3F1i+EyitVbB15ReEwlgRE1Mnfzo2tRCDI8jx1z15oPsTq4THFXcH2CRV/tkg==;IXmZbG/P0KEnMZ0GXn3uKw=="

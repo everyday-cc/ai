@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-13T15:00:00Z
 originalUrl: "https://siliconangle.com/2022/12/13/meta-ais-updated-data2vec-algorithm-enables-faster-efficient-self-learning-vision-speech-text-ai/"
 webUrl: "https://siliconangle.com/2022/12/13/meta-ais-updated-data2vec-algorithm-enables-faster-efficient-self-learning-vision-speech-text-ai/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: SiliconANGLE

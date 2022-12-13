@@ -87,6 +87,15 @@ related:
         width: 340
         height: 249
         isCached: true
+  - title: "Google Patents System for Using Facial Recognition to Cue Up Content"
+    excerpt: "Google patents a new system that will take advantage of facial recognition technology to present users with a choice of curated content."
+    publishedDateTime: 2022-12-13T20:48:00Z
+    webUrl: "https://gamerant.com/google-facial-recognition-system-patent/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 21
   - title: "How businesses are deploying facial recognition"
     excerpt: "As facial recognition software becomes easier to acquire, businesses are using it to surveil and analyze customers. Bloomberg's Parmy Olson explains where and how the technology is being deployed."
     publishedDateTime: 2022-12-09T13:41:00Z
@@ -123,6 +132,15 @@ related:
       name: Just Auto
       domain: just-auto.com
     quality: 19
+  - title: "Synesis to appeal EU sanctions over misuse of its facial recognition software"
+    excerpt: "The firm will get a hearing to fight sanctions imposed on it for allegedly using its technology to repress protests against President Lukashenko in August 2020."
+    publishedDateTime: 2022-12-13T20:23:00Z
+    webUrl: "https://www.biometricupdate.com/202212/synesis-to-appeal-eu-sanctions-over-misuse-of-its-facial-recognition-software"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 16
 
 secured: "4uxruQTOmqjjpwo8ScS4SJ4rXdzdJGhyDWKNqe5jsDcS8RNMYSYJ6knydSMJpdNHBvX54304Q5bFdkr4qxTOpJ0AsU1Fut+fvquHe6z09y6mE4er/Ch7D68bC5MO6eAB6V3F6GHg/7IkYat4gcahe7yazPBGwmKCB3q+0vYcLAh5YYOz92NHFES3EN6W+RftwiVfvwdP7lJvPblAL9DP/JJMxDaooL7S11PSid0KarhR2GwefY56AxgOlLCl1zwb0FDlFXRZY+hkd90BBnIGOLi9aLOsnzZgWk4GFjBYZLXEnKBV3KgPanOTgNjZYeHNx/sMm3sVgVFvpqspJU0BgWq9i2klqBmMZQn0F0NQDnM=;U+Z0J8/4ENyfGQGzkz5D3g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wuwm.com/economy-business/economy-business/2022-12-09/ho
 cdnAmpWebUrl: "https://www-wuwm-com.cdn.ampproject.org/c/s/www.wuwm.com/economy-business/economy-business/2022-12-09/how-businesses-are-deploying-facial-recognition?_amp=true"
 type: article
 quality: 59
-heat: 139
+heat: 159
 published: true
 
 provider:
@@ -87,6 +87,15 @@ related:
         width: 340
         height: 249
         isCached: true
+  - title: "Google Patents System for Using Facial Recognition to Cue Up Content"
+    excerpt: "Google patents a new system that will take advantage of facial recognition technology to present users with a choice of curated content."
+    publishedDateTime: 2022-12-13T20:48:00Z
+    webUrl: "https://gamerant.com/google-facial-recognition-system-patent/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 21
   - title: "How businesses are deploying facial recognition"
     excerpt: "As facial recognition software becomes easier to acquire, businesses are using it to surveil and analyze customers. Bloomberg's Parmy Olson explains where and how the technology is being deployed."
     publishedDateTime: 2022-12-09T13:41:00Z
@@ -123,6 +132,15 @@ related:
       name: Just Auto
       domain: just-auto.com
     quality: 19
+  - title: "Synesis to appeal EU sanctions over misuse of its facial recognition software"
+    excerpt: "The firm will get a hearing to fight sanctions imposed on it for allegedly using its technology to repress protests against President Lukashenko in August 2020."
+    publishedDateTime: 2022-12-13T20:23:00Z
+    webUrl: "https://www.biometricupdate.com/202212/synesis-to-appeal-eu-sanctions-over-misuse-of-its-facial-recognition-software"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 16
 
 secured: "GXg5RR5hzYk2IIy3N4RpQNRvBitX01V5Kmh8i0YN5Nn1fZsWo9HgD6T9AMQGCaoJDPt9chH59KRH/DHPcY/EbbW2lyO5gEATGPsxG2v1KwAtHJZQz0ZUn5GQCQPmABHOEqxsU1jSmFWZX2YgsjwqxgBbw0ozBTAHrslwwPdNl4QKNcGCMfWuxRSVrdmp+uuqxOEGyp7fkd8udU603PlmZ8ME6YeQUCZTnemt5JHu1Iqf4H/EaRirEKA6YFWLMqvZvwG2PU5SzUOKxiZfpnMdUwDPAznHpmd1oOkJr9fXQU00lM0NQReNSauu7GUC89MEnfQvAvAhpHur10/YUOo+TVHi+PExMxXMtEgqZMy+kkA=;jMC3hJR+hf4+pZ1CcWKBlg=="
 ---

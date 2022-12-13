@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2022/12/13/first-ever-ai-video
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/12/13/first-ever-ai-video-platform-integrating-text-generated-image-and-animation/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 42
+  - title: "Vic.ai raises $52M for its AI-powered accounting automation platform"
+    excerpt: "XFO Financials Inc., an accounting automation startup that does business as Vic.ai, has raised $52 million through a new funding round announced today. Existing Vic.ai investors GGV Capital and ICONIQ Growth led the Series C round."
+    publishedDateTime: 2022-12-13T18:22:00Z
+    webUrl: "https://siliconangle.com/2022/12/13/vic-ai-raises-52m-ai-powered-accounting-automation-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 17
 
 secured: "olQR+yUDeNyzReq62RaJBo0EBLTKT5OEV2UPBB9b6ES7mbex/5aFAwmKX4iHCi7ck8W1p/kFaNf8w8b66ulc8TFEC4DRaWTQ+Yr6Ny6A2ViWUS+8iNJO0Oby86tgwSTucnz+2LLhKrPmC0A8ZRU6EkQLRBbQGnWkvaF6YGPkM26dpu37Ygso1ujVetyjUKru7pI0j9ELxUBl56phO/d+FBIn9cgSEzchTg5+Ya5FYBuDw2PvEx0rlAODcx+psY8/pMs7z1RvgfQmoLjwlZkIs8Avus/CD5baqgBi6XVcONGqOyH1NnbXRy/yMq2U7Ex8XIFyeW1uY/KghcgPA+s7YBecQ5kMHyEZxtSUD8eIYPz+OZxc8vXsK3GyAIHTrXi6Y8cDqF3a+P1R1875SXRBLi3Uj1fOf1VnLsjCR4Uc9lbEUiSfCo9xxD2PI2TNQWp8H6RikNfdmNgtP2L7aSwWrVFNck1EdV9VEGJQMFLFaWRcDAg6sAZgj44vJ1gLzFC/RXtQhL3SDHkF4BPh33R7eg==;Xl8lbr22poTgRKfgrx86gQ=="
 ---

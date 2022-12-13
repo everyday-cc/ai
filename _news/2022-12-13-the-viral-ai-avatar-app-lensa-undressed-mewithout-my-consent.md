@@ -90,22 +90,6 @@ related:
         width: 1200
         height: 637
         isCached: true
-  - title: "Apps like Lensa ensure that we keep falling for the shady ethics of AI-generated art"
-    excerpt: "A wide range of platforms such as Lensa AI can now bypass copyrighted artworks of living artists but we keep celebrating them for Instagram likes"
-    publishedDateTime: 2022-12-09T05:09:00Z
-    webUrl: "https://www.vogue.in/culture-and-living/content/apps-like-lensa-ensure-that-we-keep-falling-for-the-shady-ethics-of-ai-generated-art"
-    ampWebUrl: "https://www.vogue.in/culture-and-living/content/apps-like-lensa-ensure-that-we-keep-falling-for-the-shady-ethics-of-ai-generated-art/amp"
-    cdnAmpWebUrl: "https://www-vogue-in.cdn.ampproject.org/c/s/www.vogue.in/culture-and-living/content/apps-like-lensa-ensure-that-we-keep-falling-for-the-shady-ethics-of-ai-generated-art/amp"
-    type: article
-    provider:
-      name: Vogue India
-      domain: vogue.in
-    quality: 67
-    images:
-      - url: "https://assets.vogue.in/photos/639300b8d62519510a986b8d/master/pass/Megan%20Fox.jpg"
-        width: 1080
-        height: 1080
-        isCached: true
   - title: "Lensa AI: The photo-editing app everyone's using to create magical AI avatars"
     excerpt: "I tried the hottest app in the market right now, Lensa AI, to create Magic AI avatars of myself. Here's all you need to know about the tool that has the potential of taking over digital art."
     publishedDateTime: 2022-12-12T10:00:00Z
@@ -145,6 +129,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Lensa’s AI Avatars Made Me Hot and It’s the Confidence Boost I Needed"
+    excerpt: "If you follow tech news regularly, you’ve likely heard about Lensa and its AI-powered Magic Avatars. Put real simply, you give the AI ten to twenty selfies/photos of you and then it returns a group of avatars for you to use wherever or however you’d like."
+    publishedDateTime: 2022-12-13T18:56:00Z
+    webUrl: "https://www.droid-life.com/2022/12/13/lensas-ai-avatars-made-me-hot-and-its-the-confidence-boost-i-needed/"
+    type: article
+    provider:
+      name: Droid Life
+      domain: droid-life.com
+    quality: 17
 
 secured: "DnyY/OcBTEMID8quHY3XGSH1PJ4MG2sbs8K1wu4JaY3DfwbD1553FjpdJ7A9vm8y+jTYa3e7tRL9bMAP/rEt3NJL270XQmrCJjMiF5q3EdDcvCkwUMWWm6AkrRtZ0wNVC/hDUgC92cKOlfmF/ilDiYRslE6jKSRPvGSkVFCCV3JrGdWUM7JVyUvJmUEYvl172fVOD1g8Zc3xaNqmSxh1YnhbxwdxaVL0wwWKZy6bCEJxvdq1FPagql572IfCO1NDhw5kW9X1ztr/pVTx7IsPgalcLwH+plNG0znaiuuDymWC3EDqWzQ29aE+8XtMG7ywvukPV37ioHXXp/0lz7wkiEUYQupUlBYMiwPnb9VRpoRL0areJGV8hboVfQVYIK1vfRfNu/rrQ12KBQXPDnDe1K5QoGA8dWd9FR7k1VD8GzS4GSHTBiEe+fK3c/aTQAfWMnIU6jDDtD6ojaZ8Qb5zE8wWz69q85NVweapqzAAHklb4KQyAN41brkULIRqaj0iszE99FYk3siLY7Jsxpk7Zw==;1WJ5JTFzY1iuG8a7p9o9uA=="
 ---

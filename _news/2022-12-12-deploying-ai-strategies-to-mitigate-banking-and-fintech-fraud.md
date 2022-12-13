@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Audi Is Using AI To Design The Wheels Of The Future"
+    excerpt: "Known as FelGAN, the AI was tasked with creating new wheels. Once complete, the AI-designed wheels were shown alongside real wheels and a “discriminator” had to decide whether"
+    publishedDateTime: 2022-12-13T21:02:00Z
+    webUrl: "https://www.carscoops.com/2022/12/audi-is-using-ai-to-design-the-wheels-of-the-future/"
+    ampWebUrl: "https://www.carscoops.com/2022/12/audi-is-using-ai-to-design-the-wheels-of-the-future/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/12/audi-is-using-ai-to-design-the-wheels-of-the-future/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 57
+    images:
+      - url: "https://i.ytimg.com/vi/A3KPN4MA5kM/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "AI and the future of venture capital"
     excerpt: "This came in the wake of OpenAI, led by Graham protégé Sam Altman, releasing a generative AI tool that eventually could enable engineers to do more in less time. A big question is if the venture capital market on the verge of a counterintuitive dichotomy,"
     publishedDateTime: 2022-12-12T16:44:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-13T15:29:00Z
 originalUrl: "https://www.nextgov.com/emerging-tech/2022/12/one-most-powerful-ais-ever-created-makes-its-public-debut/380760/"
 webUrl: "https://www.nextgov.com/emerging-tech/2022/12/one-most-powerful-ais-ever-created-makes-its-public-debut/380760/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Nextgov

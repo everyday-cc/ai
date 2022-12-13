@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-buys-stake-in
 webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-buys-stake-in-london-stock-exchange-will-see-company-move-to-azure/"
 type: article
 quality: 51
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -81,6 +81,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "KULR’s CellCheck Battery Monitoring System Launches on Microsoft’s Azure Cloud Computing Service"
+    excerpt: "Built on Azure Cloud, the Modular Battery Management System Platform Leverages Azure Cloud's Advanced AI Functionality to Collect and Analyze Data From all KULR products"
+    publishedDateTime: 2022-12-13T12:30:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/kulr-s-cellcheck-battery-monitoring-system-launches-on-microsoft-s-azure-cloud-computing-service/article_3b0ec9c8-91cc-506c-859f-f415ec63b3ab.html"
+    type: article
+    provider:
+      name: The Bakersfield Californian
+      domain: bakersfield.com
+    quality: 21
   - title: "Microsoft Looks to Generate $5 Billion in Revenue from LSEG and the Financial Services Sector Through 10-year Strategic Partnership"
     excerpt: "Microsoft announced a 10-year strategic partnership with the London Stock Exchange Group (LSEG), a world-leading financial markets infrastructure and data provider. Following LSEG’s acquisition of Refinitiv,"
     publishedDateTime: 2022-12-12T17:52:00Z

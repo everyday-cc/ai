@@ -78,22 +78,6 @@ related:
         width: 1020
         height: 574
         isCached: true
-  - title: "Apps like Lensa ensure that we keep falling for the shady ethics of AI-generated art"
-    excerpt: "A wide range of platforms such as Lensa AI can now bypass copyrighted artworks of living artists but we keep celebrating them for Instagram likes"
-    publishedDateTime: 2022-12-09T05:09:00Z
-    webUrl: "https://www.vogue.in/culture-and-living/content/apps-like-lensa-ensure-that-we-keep-falling-for-the-shady-ethics-of-ai-generated-art"
-    ampWebUrl: "https://www.vogue.in/culture-and-living/content/apps-like-lensa-ensure-that-we-keep-falling-for-the-shady-ethics-of-ai-generated-art/amp"
-    cdnAmpWebUrl: "https://www-vogue-in.cdn.ampproject.org/c/s/www.vogue.in/culture-and-living/content/apps-like-lensa-ensure-that-we-keep-falling-for-the-shady-ethics-of-ai-generated-art/amp"
-    type: article
-    provider:
-      name: Vogue India
-      domain: vogue.in
-    quality: 67
-    images:
-      - url: "https://assets.vogue.in/photos/639300b8d62519510a986b8d/master/pass/Megan%20Fox.jpg"
-        width: 1080
-        height: 1080
-        isCached: true
   - title: "The viral AI avatar app Lensa undressed me—without my consent"
     excerpt: "My avatars were cartoonishly pornified, while my male colleagues got to be astronauts, explorers, and inventors."
     publishedDateTime: 2022-12-12T17:44:00Z
@@ -149,6 +133,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Lensa’s AI Avatars Made Me Hot and It’s the Confidence Boost I Needed"
+    excerpt: "If you follow tech news regularly, you’ve likely heard about Lensa and its AI-powered Magic Avatars. Put real simply, you give the AI ten to twenty selfies/photos of you and then it returns a group of avatars for you to use wherever or however you’d like."
+    publishedDateTime: 2022-12-13T18:56:00Z
+    webUrl: "https://www.droid-life.com/2022/12/13/lensas-ai-avatars-made-me-hot-and-its-the-confidence-boost-i-needed/"
+    type: article
+    provider:
+      name: Droid Life
+      domain: droid-life.com
+    quality: 17
 
 secured: "koh7Hys+TVizHvLqjBAQ3K1vHwJ5iBSQg/Oc96QPzi8a/2YISmLdqnIq7/IVgJZKjCnr+jak+8gfLwGEa1VhAFjOdp347vYt4LjZ3cIcJK22bKhpev4BAHKwMFdwxnjiL9kShhI+huEiW9Bd1MQ/ge9CmVmX54mKMOAuoglDZBFcOT2kLxX8EGSbKIbdB3eVllh4FtnnF6rMKQptMmdXlRS9tT2EzgxjHVB5CQwrqoNHdN9JZtxq5xijgrZn6lm4HedBYwHsArUKcA+ZeLsABAs7s2kh+ICTrHZAXOz0K8bvhyq4n5gQnuQbP+vPCnH92ATxp5QUTeP+4IVrUgxXiAMienqPY+Ko4neRixiOuaPNSHSfXqQfPnamT0BFubxDPAZw1T7uVyaUgu2ypp37Q00s27Qh8EAqVISzf3DCLby4cLPu7UTBuDFc9LicSBUrwmzlivSQXjz6eFhB2zd1mpP3TQesuLB3lmrQCGqodg855ZWHI3xr6/PFyMeSBevUxt8U+dywX6YzH1nFD2Nb/w==;ErZrula/S26ytfq1v3IdlA=="
 ---

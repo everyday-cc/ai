@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/tech-science/study-aging-is-driven-
 webUrl: "https://www.digitaljournal.com/tech-science/study-aging-is-driven-by-unbalanced-genes/article"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 730
     height: 482
     isCached: true
-
-related:
-  - title: "Aging is driven by unbalanced genes, finds AI analysis of multiple species"
-    excerpt: "They also found that aging genes change their activity according to length. More specifically, aging is accompanied by a shift in activity toward short genes. This causes the gene activity in cells to become unbalanced."
-    publishedDateTime: 2022-12-09T16:00:00Z
-    webUrl: "https://phys.org/news/2022-12-aging-driven-unbalanced-genes-ai.html"
-    ampWebUrl: "https://phys.org/news/2022-12-aging-driven-unbalanced-genes-ai.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-12-aging-driven-unbalanced-genes-ai.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 55
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/aging-3.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
 
 secured: "y81IFxb4xhI3pWc95KVCB2mYKoZyWbXXUStJxq3LeMLMm7dk9Xv81oUyNtX7Dm5y97ytZowHb//gihW7Zao+0ED1fbvhY1uDXU1NrL1vnn+/y2oGbj+z2tkkyHSlzvWQ91om8+uBuMQSVcF6JonEhIqbX/f9A4YyNmMK4fmcl/Q1gILxIhCEpqJS8bkXAzpeJ7GucsdZ3S25yQ42EmVlDBLyrk1v678FnBI7TCcThsLiknwQR9nf4XuOH0dcovVZceNeesZ/8QqbFzzl1fRHqr/hoRMhgINPvf6ecA4xXPANSXn5vhVYA4tevYhdSNkQz2rBUXNZ5b50av1bxfFNFZm17C4+cMUU/+GRy6ov/MMf71YbDMjlEWRLSX91cRxEO+DpjPcVnF58QIkYIsMS1E2S7aluc1ilpqIgZ9xys2oRE/PFkYKuivm4MmZKqWuuPzrCs/NeYEXO4wav3wYCVmD4kQJjYJiPizSxFimm+hyw8GhmEP6HIvPdHn3sh5fIt2fSU3ApHZUcifCmhFcj/A==;rNfnjszZt9BvCb3mz2P52Q=="
 ---

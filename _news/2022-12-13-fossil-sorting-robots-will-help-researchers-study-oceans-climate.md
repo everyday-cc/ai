@@ -46,6 +46,15 @@ related:
       name: Phys.org
       domain: phys.org
     quality: 19
+  - title: "This fossil-sorting robot can identify millions-year-old critters for climate researchers"
+    excerpt: "These fossils can provide valuable insights into the past states of the ocean, along with its chemistry and temperature."
+    publishedDateTime: 2022-12-13T20:00:00Z
+    webUrl: "https://www.popsci.com/technology/forabot-sort-foram-fossil/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 10
 
 secured: "j5DXz8l4dp9/ADGs+cxpTUFpbJv/T0OowVlFjmGANbx+WEFsYpmoEAf7xXWT+LONz0LAcHECKs0HaezsX03DJ5Gc+eQe3ZEBXSlDei0EJhr/XTHMsyNYuq/0NuDyyb72Pg7Aem2xhK/6ewbu40nJUkmrPwklexbyvzGApLAFNiBioIc7k2uY32YgtLYpaKjkRmGb9rKUQH/SBLbwO1N78HjPnE9lZUYrEOEpKJ4uDgbfevOhXHBRnLMGQnsTMk+FUnLIt4Fe16NbJp5SMmvg1Z5h+kTO4nPyWi0+E0cEMxSCf7ZXRqYoFHXU5HqZBgMjK0nuchA2R7cVlUD3VintQxQC/V7/RxI9qvgyQ1PRywE=;mDytDcNRDr37bjvZvHS7fA=="
 ---

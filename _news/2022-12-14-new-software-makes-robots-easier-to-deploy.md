@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-13T19:19:00Z
 originalUrl: "https://www.assemblymag.com/articles/97511-new-software-makes-robots-easier-to-deploy"
 webUrl: "https://www.assemblymag.com/articles/97511-new-software-makes-robots-easier-to-deploy"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Assembly Mag

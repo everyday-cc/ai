@@ -39,6 +39,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "7 ways a recession could impact AI and ML in 2023"
+    excerpt: "Experts are predicting a possible recession in 2023. What would that mean for AI users and the vendors that supply AI tools and expertise?"
+    publishedDateTime: 2022-12-13T20:32:00Z
+    webUrl: "https://venturebeat.com/ai/7-ways-a-recession-could-impact-ai-and-ml-in-2023/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
 
 secured: "IxNcaRr4F3k6DtM5cnT1ji2Dzt2nNgHUb4UWAcd3E5Ny1qO6zkr2073rBZZpzWXX+z3R57MPLLR8Sm6QuLsccslWQDbliB4L9UKEJfNaQrUFHuFF1Ayct5SCpshQIOTiLV9WKsqU0NbNnb8R2YoZ+W3EeiDBGCUm9KxY7TnmL3KdmhgYMq8G8/+NifvIlB8m5cC+5yFxypBSrazEvyrDhLPWatzS/QH6cJ0jM42qgLmHKxUvIp9Pj9W/Mq9OOrt6W2OhGiCHrQgmNvdOh2es1WrUCOMwO8gQ3KADqFGmjDL7dBf+iF632ckmNQyAh+YOZtPrbg8Ql1rn/wOoh1Jk/tvCfvWYjeSPPiLyAXxFSKfE9oivJfO3ZsIZn+0Nff+0mx18jngE9br4YQPgZaXwLXSreU87bLlKNG3Z5EelqOvXtMsySuaHtkqO08kfft1MjNb1bvNZ25aZJPeSrmkoXln+/J4sTLB07xZBeO67HLSL739uLQ+mHD1qrr5i8pBYILtORWT0ujmXX7yRVeTRQA==;u/0TX5R/EJBnYhaZfqpDgQ=="
 ---

@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "China will regulate AI-generated content with a new set of regulations"
+    excerpt: "China has issued rules and guidelines that regulate the use of artificial intelligence within the country. The regulations are cautious when it comes to AI. This includes the trending AI chatbots, such as ChatGPT,"
+    publishedDateTime: 2022-12-13T22:00:00Z
+    webUrl: "https://interestingengineering.com/culture/china-will-regulate-ai-generated-content-with-a-new-set-of-regulations"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://inteng-storage-us.s3.amazonaws.com/2022/12/13/image/jpeg/RM70WbRr0fHZqLUBKtKt6KWdG9t7SJFMRP6DGRTP.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "JmUw2BSLg9NQBCsA/zTiT6JcJVDVHlVICdrgg2nMXBEatzWWYLEntWvpvKQSCgQylc5/9ueaWLZ+0mp4k5FOqTZHARStB4uHosrZl9dGrVdMvcNHQ7Gcpv3od2/nVO8rw4fXv8qkQIxKAQw9OD03IVDKUisqWUWZ5rreh48aWj+5a/8EZjXOcOO2lLQ+rbByqRdspD9KfqouxOqUyPZCGDdLZ0bS6P1K2Ny5cPSJUot5UF/rIauT0KlWkM6lajS/leU5E3Tv5PfDWAVzj9UR3h78IHpeeZlpKcJ7/qi/0qxpF7/15qcmNYyI/2lY8+HcUl9FeP3qGPTZeKCP1p9UBM/D6QflFjKUQRI8JMoMff2YeBR8u9ZSQE8hWnTSKqqFA+qIlzPEwXy22vCH74zcGEOaM5qIaMZPRIypCllE5iQ95o0AfgICJaKZRIOw5vTP8YMMKmoCsYT8+n7MR5GdjzytfkjxLuqL7ZZpYBxtC6563VtGBZVwgs2eBpt10lHBiTU103qZOXlPNb6ANvzdXw==;POXxo8NKGqXWtU0Hyk8j0A=="
 ---

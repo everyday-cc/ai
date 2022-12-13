@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-13T20:43:00Z
 originalUrl: "https://abcnews.go.com/Politics/respect-marriage-act-same-sex-interracial-couples/story?id=95181737"
 webUrl: "https://abcnews.go.com/Politics/respect-marriage-act-same-sex-interracial-couples/story?id=95181737"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: ABC

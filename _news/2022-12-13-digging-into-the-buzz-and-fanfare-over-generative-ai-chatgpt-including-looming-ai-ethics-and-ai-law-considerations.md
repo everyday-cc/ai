@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vic.ai raises $52M for its AI-powered accounting automation platform"
+    excerpt: "XFO Financials Inc., an accounting automation startup that does business as Vic.ai, has raised $52 million through a new funding round announced today. Existing Vic.ai investors GGV Capital and ICONIQ Growth led the Series C round."
+    publishedDateTime: 2022-12-13T18:22:00Z
+    webUrl: "https://siliconangle.com/2022/12/13/vic-ai-raises-52m-ai-powered-accounting-automation-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 17
 
 secured: "dbzPF3ysBbLpvnTnChqrnJiE4zD6j+e07LUHd5iVxWYcPThkEEtB/pTZHTcBbEyBqH0zYahW9j8sEs9KID6CtI4Kll8C+E1OAcwe9mQBdGU57kdqTuEOqK7XvxZXrTLC/8udC9anzEXtWE45IOBFumiEU7ckr5QgYPf2DISt8rMOu2CawmjEltoJ6ins82FqvOQ2KOJ47wX8hCzlngMPeg0XP2XZMA53mMnTiKR/46cqSghyqNdxAF4eSerDAp6uEerdite3GPIkM3V3EM9zbq/jocm2F+Hux6OlnUe7+h6PWFi5W+Ma+PEXH3w1e2IuN3rVAdakLcg/xYzPjSjzDL/LQZ+M5TtHFqpRab4keC1wsq2KGhbR3rArW85LOn+jweXeQTtnHkc+jDmA10ItXFjtWQ1qrPj4Hm+rFmPuvD80dCu9UtUDnxUfYFWHlvfDK5CWorcM1mP75Zjj1cdsbSm30y5DOrvJyS8sMGusQDcoLuIx8r7ZOgzVhX1qBGF1A7PVxO49bpS0Hb93ScEt8g==;bW/jf/hnhrdnHxQ7c1iTCw=="
 ---

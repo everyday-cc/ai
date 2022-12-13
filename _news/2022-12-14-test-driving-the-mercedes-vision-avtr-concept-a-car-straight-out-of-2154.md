@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-13T20:51:00Z
 originalUrl: "https://www.thedrive.com/car-reviews/test-driving-the-mercedes-vision-avtr-concept-a-car-straight-out-of-2154"
 webUrl: "https://www.thedrive.com/car-reviews/test-driving-the-mercedes-vision-avtr-concept-a-car-straight-out-of-2154"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: The Drive

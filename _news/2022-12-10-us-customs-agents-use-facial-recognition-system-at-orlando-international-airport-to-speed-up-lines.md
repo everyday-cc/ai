@@ -87,6 +87,15 @@ related:
         width: 340
         height: 249
         isCached: true
+  - title: "Google Patents System for Using Facial Recognition to Cue Up Content"
+    excerpt: "Google patents a new system that will take advantage of facial recognition technology to present users with a choice of curated content."
+    publishedDateTime: 2022-12-13T20:48:00Z
+    webUrl: "https://gamerant.com/google-facial-recognition-system-patent/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 21
   - title: "How businesses are deploying facial recognition"
     excerpt: "As facial recognition software becomes easier to acquire, businesses are using it to surveil and analyze customers. Bloomberg's Parmy Olson explains where and how the technology is being deployed."
     publishedDateTime: 2022-12-09T13:41:00Z
@@ -123,6 +132,15 @@ related:
       name: Just Auto
       domain: just-auto.com
     quality: 19
+  - title: "Synesis to appeal EU sanctions over misuse of its facial recognition software"
+    excerpt: "The firm will get a hearing to fight sanctions imposed on it for allegedly using its technology to repress protests against President Lukashenko in August 2020."
+    publishedDateTime: 2022-12-13T20:23:00Z
+    webUrl: "https://www.biometricupdate.com/202212/synesis-to-appeal-eu-sanctions-over-misuse-of-its-facial-recognition-software"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 16
 
 secured: "hDmzZFfiPAgTWTNZmNsd4WX1+i16YhjMN6ZLx8HsmXjxKymU1XKk9ANk+Fbkkfctl+3yRWAfkifnFx2N8ooLiS/zuFJEjjUaQhc0mvpAhb8GbJ1hPulwvrPwKu8hQY6vdo4rY5kDNB7Zr00NVwSJKti0qK39VwrmF5qhzPfVUcKO9fKNKmmJh7Y6O6G2ObOS/mzL9nF/tHdUMpFZOZapGK7tsO2Y47W1OzAgSGEEavL4J77RX7Bz2NE1/GtJmzcukU8hOyG2b//AGIxfI2fxy7xo+zDFMr41FM8Rvcu+53aqa9tg189OXahhbhvcHm08FA+RI7lg7T/57lQROuNQfbTj8kJ46hOOhe1+fcTNDgkt0YBXBpPlkgWv2wv8o6lsiAsdn5JymETkYrjVL0LYsIpXleeArk9vyMMHxcGN1C1OKCYLFgJmTxqA3xnW7AksAiragMv2Fd1PSuxF1Tcx5iTxdguDuxOf+RDoa9uH/uPbInhuSeKzvxZZhqPRxPPC6T5YdxlVwpn6ACndW+CCqQ==;FF1CpY2smv18vMyBnEMKrA=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-11T06:32:00Z
 originalUrl: "https://www.washingtonpost.com/wellness/2022/12/11/uti-women-ai-robot-diagnosis/"
 webUrl: "https://www.washingtonpost.com/wellness/2022/12/11/uti-women-ai-robot-diagnosis/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: The Washington Post

@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/science-technology/the-3-biggest-arti
 webUrl: "https://www.entrepreneur.com/science-technology/the-3-biggest-artificial-intelligence-ai-trends-in-2023/439434"
 type: article
 quality: 71
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "7 ways a recession could impact AI and ML in 2023"
+    excerpt: "Experts are predicting a possible recession in 2023. What would that mean for AI users and the vendors that supply AI tools and expertise?"
+    publishedDateTime: 2022-12-13T20:32:00Z
+    webUrl: "https://venturebeat.com/ai/7-ways-a-recession-could-impact-ai-and-ml-in-2023/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
   - title: "Software ate the world. Now it’s AI’s turn"
     excerpt: "The CEO of Microsoft-owned GitHub says the sheer complexity of a world dominated by software code means AI is needed to help fill the tech skills gap."
     publishedDateTime: 2022-12-11T18:00:00Z

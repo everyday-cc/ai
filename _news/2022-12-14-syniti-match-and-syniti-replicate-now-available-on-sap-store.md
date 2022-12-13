@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-13T17:26:00Z
 originalUrl: "https://www.datanami.com/this-just-in/syniti-match-and-syniti-replicate-now-available-on-sap-store/"
 webUrl: "https://www.datanami.com/this-just-in/syniti-match-and-syniti-replicate-now-available-on-sap-store/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: datanami.com
