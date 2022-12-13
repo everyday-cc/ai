@@ -6,9 +6,9 @@ publishedDateTime: 2022-12-12T13:17:00Z
 originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-buys-stake-in-london-stock-exchange-will-see-company-move-to-azure/"
 webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-buys-stake-in-london-stock-exchange-will-see-company-move-to-azure/"
 type: article
-quality: 31
-heat: -1
-published: false
+quality: 51
+heat: 91
+published: true
 
 provider:
   name: Datacenter Dynamics
@@ -17,6 +17,12 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://media.datacenterdynamics.com/media/images/London_Stock_Exchange.2e16d0ba.fill-1200x630.jpg"
+    width: 1024
+    height: 539
+    isCached: true
 
 related:
   - title: "Microsoft Acquires A Stake in London Stock Exchange to Offer AI & Analytics Solutions"
@@ -76,6 +82,6 @@ related:
         height: 480
         isCached: true
 
-secured: "9bH4ur+N56jR0pWSKo32b7Os8Mp8b5SYvKBxr7JO1pYzsUi3N8dVJV6CLPjP01+ek2qaCzoFiIUzgQI0R6udQpHv3bnDZDYT0oAtGy6NkUIaNHup/iPextbUKqnytwDco4APtuvvYh8sIsu1fc/XejXmCqJYjN+HVkjrDU5kEY7esquNZ3zQyE/ICGcvjbSfP+rasQqzgU171jb0Bk/7NJfGQDfBUkUQl3VP0UyZ2Bb6NDPreaHuXQ+YQdtBwnQ0TjJKG+XmS7AiZvCfBqRjClfFidDoMdtRCjRLYIth7hXjIQEHH9ROhojfW7aPh0qYIG+axi+V0q9PC0FOoGExwZgBwA22us37qGTZ5/82tns=;50bLJ1AYQxnZbvL1hq6jhA=="
+secured: "ODwYxMPIrkk5kBPJT6ckCgvWdOBZmqHZgfmz+T8VEXVRwZs6/cw/Qik12K1r6/H8kuJOjMFBAV29bf38MloXF1ojKCuIlsWnifnqb58IG47ZyRMy0j8ob05c/osrG1QZ5jZTV/Pg1pWpc4Ng4lfwgBVMUEpgUpBP0lr5BJXkdE/EcobWKBxrqhN/5mdhO5u4tYzmThzYaW6TjI8CFbzMh/d0ZxoEtxvNdE5lRYJvGyH53RF8eFuuJgZXDnHcc5LF7UAf1svyPAi1tksonHXDm84eH0fZovZYzDmPI16Amg8I4WYF4PwII4WpCmi5jtrVyCeTBQcudi8ZSi6g7PYroT7NPnfavdB2xWPbKd6LY5Y=;/XmUpAHO2nwEJHjEOFVO0w=="
 ---
 

@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Final goodbye: Recalling influential people who died in 2022"
-excerpt: "One would have to go back hundreds of years to find a monarch who reigned longer than Queen Elizabeth II. In her 70 years on the throne, she helped modernize"
-publishedDateTime: 2022-12-12T16:58:00Z
-originalUrl: "https://www.stltoday.com/news/national/final-goodbye-recalling-influential-people-who-died-in-2022/article_1505a162-0137-57cc-985c-05ea34cb7892.html"
-webUrl: "https://www.stltoday.com/news/national/final-goodbye-recalling-influential-people-who-died-in-2022/article_1505a162-0137-57cc-985c-05ea34cb7892.html"
+excerpt: "She likely met more people than anyone in history, and her image — on stamps, coins and bank notes — was among the most reproduced in the world. Other world leaders who died in 2022 include former Soviet leader Mikhail Gorbachev,"
+publishedDateTime: 2022-12-12T18:12:00Z
+originalUrl: "https://abcnews.go.com/Entertainment/wireStory/final-goodbye-recalling-influential-people-died-2022-95084294"
+webUrl: "https://abcnews.go.com/Entertainment/wireStory/final-goodbye-recalling-influential-people-died-2022-95084294"
+ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/final-goodbye-recalling-influential-people-died-2022-95084294"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/final-goodbye-recalling-influential-people-died-2022-95084294"
 type: article
-quality: 24
-heat: 24
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/07/f07656f9-1191-54ae-8188-e27bcc0cdc70/638e3551788ac.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
     isCached: true
 
-secured: "HcMH5OULJGBm76LTSuy6ivrHGFzXjRqhuIi9iUSicrDL4rOGcb48kriENfJym9lF9GWHSRG+/VMSTnVCFxsokUcqI6M7ZPiIpIZYRLCtrcVRNgRg6R/jC1AdF5O8Ms2pnHiZgEZODHwGpqLwKU7qVsWZAJRMVEpfDzNjxBhDpoRnH/7d89nUbPra+i/qHpeqcHGgAH4TmIIN6nwyewFdBewOERHLXIvfDyewSNVYAUtMaXlqudM+4Mzd6zOBFs3lXtZMJaj6E1qqFMmkPYoNnABHAq2mHUvl7vv11OjrvKIaBxoT4Up7iI0PtuYRxNFgKL9DpSLXRf00Vzi+LVhmnvfdmCv6sViDnilKmlYpp40=;+z8rT1SBBlTiqr3bPYxMiw=="
+secured: "TJiWk+eSyrgmS4lPBDfsjx+nKw8z48wjE+7FIbDikL5yaAknl9VtzFiLgSPvrecEHMhVXy9VtyPPnX6vegEaLcVilVIvv+t1qrU3urATvpoCg12y5sKnc7sdxCCP0KnPj+/Km2AE+bQhKGmjjj1LVn8x4ikwXKPX56azcdhHebfhhCTlmahTAngNuXwEskLYWoVCgBrsBHQC9baeeVSoLJ0bQIe3EIoBcK5nX/VmcHWV3d9p2tvprho4dPe3aWBjmRzm4fakxgrYcwpvJ8X1moRQbHq9jF9O4/lIXu4w/ZKz2cpgc5o3BE88nIwQ3C/kBSnh2I34qKT4sZCwoSkhLo8zqJ39J2uz1QX1ZMlj3Gc=;WPhDvK0mURJd/jUl32CXlw=="
 ---
 

@@ -57,20 +57,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Can machines invent things without human help? These AI examples show the answer is ‘yes’"
-    excerpt: "The question of whether artificial intelligence (AI) can invent is nearly 200 years old, going back to the very beginning of computing. Victorian mathematician Ada Lovelace wrote whats generally considered the"
-    publishedDateTime: 2022-12-08T10:44:00Z
-    webUrl: "https://www.econotimes.com/Can-machines-invent-things-without-human-help-These-AI-examples-show-the-answer-is-yes-1646839"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 30
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/2022120836535356e59f65745_th_1024x0.jpg"
-        width: 496
-        height: 326
-        isCached: true
   - title: "Not Even AI Can Beat the Market These Days"
     excerpt: "A tireless machine able to digest all information and immune to biases should be clearly superior to humans when it comes to investing. Except it’s not."
     publishedDateTime: 2022-12-09T11:32:00Z

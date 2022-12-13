@@ -57,6 +57,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Apple taps the brake on self-driving car goals to launch in 2026"
+    excerpt: "Like many others, Apple also wants to be the first to develop a fully autonomous Level 5 self-driving car – requiring no assistance from human drivers, including pedals and steering. It seems the technology isn't quite there yet,"
+    publishedDateTime: 2022-12-13T01:30:00Z
+    webUrl: "https://www.theregister.com/2022/12/13/in_brief_ai/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/12/13/in_brief_ai/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/12/13/in_brief_ai/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 44
+    images:
+      - url: "https://regmedia.co.uk/2022/12/12/apple_shutterstock.jpg"
+        width: 1000
+        height: 665
+        isCached: true
   - title: "Apple Ditching Innovation In Favor Of Pragmatism With MR Offering, Self-Driving Car, Gurman Says"
     excerpt: "Two products in Apple Inc.’s (NASDAQ: AAPL) pipeline have seen delays and a new report suggests that the company is compromising on innovation just to get these two p"
     publishedDateTime: 2022-12-12T11:03:00Z

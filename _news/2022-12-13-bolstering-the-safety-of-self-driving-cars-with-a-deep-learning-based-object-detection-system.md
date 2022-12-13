@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-12-bolstering-safety-self-driving-c
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-bolstering-safety-self-driving-cars-deep.amp"
 type: article
 quality: 50
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://www.delcotimes.com/wp-content/uploads/2022/12/Apple_App_Store_Antitrust_Battle_93202-1.jpg?w=1024&h=682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Apple taps the brake on self-driving car goals to launch in 2026"
+    excerpt: "Like many others, Apple also wants to be the first to develop a fully autonomous Level 5 self-driving car – requiring no assistance from human drivers, including pedals and steering. It seems the technology isn't quite there yet,"
+    publishedDateTime: 2022-12-13T01:30:00Z
+    webUrl: "https://www.theregister.com/2022/12/13/in_brief_ai/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/12/13/in_brief_ai/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/12/13/in_brief_ai/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 44
+    images:
+      - url: "https://regmedia.co.uk/2022/12/12/apple_shutterstock.jpg"
+        width: 1000
+        height: 665
         isCached: true
   - title: "Smoothly driving towards the holy grail of self-driving"
     excerpt: "Cadillac Escalade promises assistance rather than autonomy, but a highway test drive shows its remarkable capability is a step in the right direction."

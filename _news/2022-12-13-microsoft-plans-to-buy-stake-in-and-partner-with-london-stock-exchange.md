@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft buys stake in London Stock Exchange, will see company move to Azure"
+    excerpt: "Microsoft has acquired a stake in the London Stock Exchange, and in return will see the financial company use the cloud firm’s technologies. The company this week announced a 10-year strategic partnership with the London Stock Exchange Group (LSEG)."
+    publishedDateTime: 2022-12-12T13:17:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-buys-stake-in-london-stock-exchange-will-see-company-move-to-azure/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 51
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/London_Stock_Exchange.2e16d0ba.fill-1200x630.jpg"
+        width: 1024
+        height: 539
+        isCached: true
   - title: "Microsoft Acquires A Stake in London Stock Exchange to Offer AI & Analytics Solutions"
     excerpt: "Microsoft signs a 10-year partnership with London Stock Exchange Group (LSEG) and buys nearly 4% stake in the UK bourse operator."
     publishedDateTime: 2022-12-12T12:42:00Z
@@ -39,15 +53,6 @@ related:
         width: 2240
         height: 1260
         isCached: true
-  - title: "Microsoft buys stake in London Stock Exchange, will see company move to Azure"
-    excerpt: "Microsoft has acquired a stake in the London Stock Exchange, and in return will see the financial company use the cloud firm’s technologies. The company this week announced a 10-year strategic partnership with the London Stock Exchange Group (LSEG)."
-    publishedDateTime: 2022-12-12T13:17:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-buys-stake-in-london-stock-exchange-will-see-company-move-to-azure/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 31
   - title: "Empowering the future of financial markets with London Stock Exchange Group"
     excerpt: "Microsoft looks to generate $5 billion in revenue from LSEG and the financial services sector through 10-year strategic partnership. Today, we announced a 10-year strategic partnership with the London Stock Exchange Group (LSEG),"
     publishedDateTime: 2022-12-12T07:59:00Z
@@ -77,6 +82,6 @@ related:
         height: 480
         isCached: true
 
-secured: "yYZANUG158XGZs43HhjO5gFh/kVSeR3DqilhybuLeGSWFF4X1GFKGsJ+X5VElrJnY8FhHHrDejGk2ZoIasGFAuoe1Y/+lho5AX7L1OjCmp0MtDPj8iKREeRpjbPPAdP1dXMjGrNJ3eKx0pZNQtzvm0OtTdmI6sKw+k/lz9x/hWTmvkrqiQSj4pn2VALJ7o0S2iZpZUOFf7p57c1xW5xlo3FSQFxRareSdGsqHROKlrIKfjlPNS2s6PI+ljMwMKkZNrfW/sWbXaAWnuOVkq96xSvrkWUrFoA4yfzFdiV0tv5P2hfnjRM2+3WRaeIO6rmKRdOzDIDsGLFgLWQeFlpbFBwJiKqRBN+/UOjk0N9IFGU=;ufVjU0Uwx1FDg97gqc/ylw=="
+secured: "hlefYci0t32YSJSp4qYePDLO2okEExugwE1AGLQazZ88C8jk28RbHxM1XVEQfvHO5DtZIVxOZ7UH0iLLr3K0LvOjn442hTz6ACDTrOPBiRaCXCzGKVdE+a/+Nqr0vJb6VCGicon9U85ooMxCqXvepyInzfP8629LJcuDNEcl45hegiWVFlYu8bsfiX6Q/I9nvkq84veBU6poPA7zDQt1HjdDxCNghw8UqHztHY+0OrkTJI8uaiXTkTr4fpNh/FtkJIzGbMvZL4A+OEgwtVF6zdcg1qEsTBJJuFKLoF0ItgcXWmbgy1EL423LaqjM/qZRD38XuSl2eRVqjxGL16XUsLgXPfhPM5SVKeazSU5/Ivu9NSSXMur+Uhh+Kz9MWdmPiLy+DrVdHz5Z0fv/RegotaIAMqIDZuDW/gnphP6TYE3Pz4p6X/H3pET6f7d2pUKVsUcQW4Fe/a2YsdGP0shhP2UfJdalFGYLP9LXOf3T1AOsacKArULOPnzwi/GgFs1RE1OvJNWna20K7Gm3qxPbFw==;11jpjbIEX3ncAFOX4wjFyA=="
 ---
 
