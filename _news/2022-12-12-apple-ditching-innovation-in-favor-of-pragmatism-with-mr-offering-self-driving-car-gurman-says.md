@@ -73,15 +73,15 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Apple is Ditching Full Self Driving on its Long-Promised Car"
-    excerpt: "Apple is nothing if not revolutionary when it comes to its tech-forward products for consumers, so when rumors began to swirl that the company was getting into the car business, well… it wasn’t so hard to believe."
-    publishedDateTime: 2022-12-12T17:20:00Z
-    webUrl: "https://www.manufacturing.net/video/video/22604673/apple-is-ditching-full-self-driving-on-its-longpromised-car"
+  - title: "Apple is Ditching Full Self-Driving on its Long-Promised Car"
+    excerpt: "Apple has reportedly been working towards an electric vehicle – an endeavor famed investor Carl Icahn said would serve as “the ultimate mobile device.” Part of Icahn’s bullishness on the Apple car stemmed from the rumors that it would be fully autonomous,"
+    publishedDateTime: 2022-12-12T17:35:00Z
+    webUrl: "https://www.manufacturing.net/video/video/22604673/apple-is-ditching-full-selfdriving-on-its-longpromised-car"
     type: article
     provider:
       name: Manufacturing
       domain: manufacturing.net
-    quality: 39
+    quality: 24
     images:
       - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/12/MM_THumb.639761bf95989.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
         width: 1200

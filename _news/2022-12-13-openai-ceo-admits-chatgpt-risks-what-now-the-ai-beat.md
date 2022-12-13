@@ -163,6 +163,20 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
+  - title: "New AI Chatbot Lands With A Big Splash"
+    excerpt: "Like most nerds who read science fiction, I've spent a lot of time wondering how society will greet true artificial intelligence, if and when it"
+    publishedDateTime: 2022-12-12T22:37:00Z
+    webUrl: "https://menafn.com/1105300545/New-AI-Chatbot-Lands-With-A-Big-Splash"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2022-12/12/KT_cc77eimage_story.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Is ChatGPT the Start of the AI Revolution?"
     excerpt: "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skillset. On"
     publishedDateTime: 2022-12-09T12:40:00Z
@@ -256,6 +270,6 @@ related:
       domain: newyorker.com
     quality: 4
 
-secured: "JwU8FykiZUBp8FjJSEee6dx4RnJS0l1ABUtlBDRK7LE7Wijye+7lW2S2dzP2vo5TvxtGgbTQdaP15IvdhDew9+edABbOupbzLNXvw8cNUvEv4sStd4JxLERocNhxawK4iy3aPOxISSq39mn487BlmXbMLm9HxNY0dBZrB1olQGXyFzIPS/4wGYnNA/REbxrVIuEOJNfL9W+f0oFG0iMhY+lh7MKpb+MjTHqRsIi5bCfIsu6kOLbia6SOqaebjQsh2IYaJnRFn3/nz4jqxZ9sXecTOJxb4iU8JIQsuWyG4pt3siOoPL9x6XGX3f0Aq1FeKkplGfyqeH9bxH0168T4kSBnKDQzKV5IgpNmsDtAHqE=;zJ4BzqJTUSAWOkA/iBtetA=="
+secured: "W4WqJO/o8mwmEOaB0hR6AzZnKEqp5wDJ2N2fzsN+REUR7J1+p5OjHecchr2jXQlWNaaQ35ZpH1sDcRDPQ6APFx0PtWJ5bsOtGAm8upqqS3/jEiWaRQeOQdxUoRyISXPtHafywWyWHH2M6nhK8z9j0YmfgVuwoDD2WAS203V4NsnMSU3M694pYZuq1vjF6RRImFFh4g4PhD8gMJaVaWvBFHmHzqe7kpgZSPw9DwJ+tQc3GU2eMlycvHmLYtSlWqALQ/FQcLZ06SyZhDhXh2U4albCQoDfz2iWI7vJkYhxFr36M9KC5B/Xq90DjoFz5iN+bxmte5/g+fKTQ/Lhy2R9pUS8+nitm9c9nk8qYBoXKLqC+4Yj6rwPDyV7wLr9GbD5iecSV962vdQs3t8KIuz9OHWYF7gLlWPso0w2/G4r4folddSUmqUFyY8ay1FG9wXud2GOBRaGy5Bl57gAk9not8OCfSsfcGqoOj76SRaa6rdzNhc9gHHuNue7cR5qpSbaVtd0sze9johuad9b8KD/XQ==;ytBq1E0qFAKvkS7/mhP6DA=="
 ---
 

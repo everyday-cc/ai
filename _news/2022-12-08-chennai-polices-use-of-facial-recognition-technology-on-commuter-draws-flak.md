@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Indian police use of facial recognition in Chennai may violate privacy: Project Panoptic"
+    excerpt: "The use of face biometric technologies by police forces to identify people on the streets may clash with a Supreme Court judgment on privacy."
+    publishedDateTime: 2022-12-13T00:20:00Z
+    webUrl: "https://www.biometricupdate.com/202212/indian-police-use-of-facial-recognition-in-chennai-may-violate-privacy-project-panoptic"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 45
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
+        width: 2048
+        height: 1812
+        isCached: true
   - title: "“Nothing to worry”: Chennai Police Justifies Use of Facial Recognition System on Random Citizens"
     excerpt: "FRS is being used to verify random citizens and identify criminals moving around at night hours, Chennai Police said"
     publishedDateTime: 2022-12-09T09:22:00Z

@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Apple is Ditching Full Self Driving on its Long-Promised Car"
-    excerpt: "Apple is nothing if not revolutionary when it comes to its tech-forward products for consumers, so when rumors began to swirl that the company was getting into the car business, well… it wasn’t so hard to believe."
-    publishedDateTime: 2022-12-12T17:20:00Z
-    webUrl: "https://www.manufacturing.net/video/video/22604673/apple-is-ditching-full-self-driving-on-its-longpromised-car"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/12/MM_THumb.639761bf95989.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Apple Ditching Innovation In Favor Of Pragmatism With MR Offering, Self-Driving Car, Gurman Says"
     excerpt: "Two products in Apple Inc.’s (NASDAQ: AAPL) pipeline have seen delays and a new report suggests that the company is compromising on innovation just to get these two p"
     publishedDateTime: 2022-12-12T11:03:00Z
@@ -88,6 +74,20 @@ related:
         width: 771
         height: 514
         isCached: true
+  - title: "Apple is Ditching Full Self-Driving on its Long-Promised Car"
+    excerpt: "Apple has reportedly been working towards an electric vehicle – an endeavor famed investor Carl Icahn said would serve as “the ultimate mobile device.” Part of Icahn’s bullishness on the Apple car stemmed from the rumors that it would be fully autonomous,"
+    publishedDateTime: 2022-12-12T17:35:00Z
+    webUrl: "https://www.manufacturing.net/video/video/22604673/apple-is-ditching-full-selfdriving-on-its-longpromised-car"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 24
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/12/MM_THumb.639761bf95989.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tough road ahead: Self-driving cars are taking off in the US, but Australians might be waiting a while yet"
     excerpt: "More self-driving cars are hitting the road in America, letting drivers relax behind the wheel. But when will Australians be driven around by their own cars?"
     publishedDateTime: 2022-12-11T01:12:00Z
@@ -103,6 +103,6 @@ related:
         height: 720
         isCached: true
 
-secured: "C1o6vqE0ue1ZQYsRsNgZPXoNvSbfqUQFxwEHLePkVXJ8sSgExW2jN5osgjVpwooGZ8qHhW2JsMe+fxj1Y3Lm8C2u1k5whx8iZk/I7WjQsbK/gsgAanaHrAS7vs3cI4XrG9T1Bo2bTcVWH+eiR2UhKz9o5zFNM35f/AZz9Km2lWL5qrzKiTksYueObTIKbb9o0h0YeQtIfGuiC1tguWIoIwvyrL6lvgtZFbLYOOYzPktvDYg4UicTYLheQ4sfl2CmTCSZRgHSDwHGVzk51l91klaWX9ZuR+at+MgvMJu7w7VL5YNk24oOeZ3Aty2EITCWnjIJbg9flJsmgLifAOm7olo6LGwZa1srcZTuiKba5XA=;scnCSCo6RQVsEirqiCulrQ=="
+secured: "WTim+ZLNcH1DfWLXunxRdzS5ykai7/S958BY51UTBIbKsmuTq+5Ne49PO0eJUkbNGD9AvPg3uWPKWPVNRW4woKNZFWj65SYF3Q0tesdDfdwFIfA16fEdVNB0ZMl/tiIdGLtCkM2/jCECVAdFs3CUY+21H/3vB7zXT760swmfi+gZx4042ufWDOW+9oWLCQ5DD+tDUz5a1KHeuuS93aAcKso3NDlUVsA6T0jLaXVbDo6fAYcCABOS0NvgtCYA5RwOB8y9R7bW1zuSiwJ912Ovj1q1BsbVhJAVBI0DlYTQtZMCIB2jA4mOAAxTlZRaJK1Y6ocvupAuT9Wb71Do63S5ufZL2qwX2N75HfWUiVavC31VJVybsXeANb4Ch9RIZ6hLFGVbkRUqB3nLXZlGrm/+9KTuTK7Lhl6D0BjoAb0UiQtovT8vce5q0pVI3s9Ol5J/r9V/JnHCIBZ0rMSumfo6zsxr+IBW+6HOs/jCgI+kIOMkD2GkgjaZ4XCLZ7H8WYhgaC8HxkxCm3bgUrIyojNyrA==;IuYXT9KWTsAVTZaQ2JsAVg=="
 ---
 

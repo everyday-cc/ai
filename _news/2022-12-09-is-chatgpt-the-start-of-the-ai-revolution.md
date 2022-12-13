@@ -173,6 +173,20 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
+  - title: "New AI Chatbot Lands With A Big Splash"
+    excerpt: "Like most nerds who read science fiction, I've spent a lot of time wondering how society will greet true artificial intelligence, if and when it"
+    publishedDateTime: 2022-12-12T22:37:00Z
+    webUrl: "https://menafn.com/1105300545/New-AI-Chatbot-Lands-With-A-Big-Splash"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2022-12/12/KT_cc77eimage_story.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Is ChatGPT the start of the AI revolution? 聊天機器人ChatGPT 將掀起人工智慧革命？"
     excerpt: "Have you heard of ChatGPT yet? It’s a thrilling, vexing, ontologically mesmerizing new technology created by the research group OpenAI. It can solve all your problems and answer all your questions. Or at least it will try to."
     publishedDateTime: 2022-12-12T16:00:00Z

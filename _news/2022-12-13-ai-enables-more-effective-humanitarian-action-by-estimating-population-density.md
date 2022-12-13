@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2022-12-ai-enables-effective-humanitarian-a
 ampWebUrl: "https://techxplore.com/news/2022-12-ai-enables-effective-humanitarian-action.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-ai-enables-effective-humanitarian-action.amp"
 type: article
-quality: 53
-heat: 53
+quality: 55
+heat: 55
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/ai-enables-more-effect.jpg"
@@ -25,6 +26,6 @@ images:
     height: 387
     isCached: true
 
-secured: "uIOYBS0UyYh6JVuje6JxzDW2xF5iZ4xluP3AnIaJ5qBKcsWF907gDLLTdyrs2HVReBZCQXCqA+MQ0h8okeaLGYB8hDkKbQDYEhd82Pt6uTMupf2sml2dK7TZeuypGxgm3kEZ+j12eU3VOwNogs2Z8w7JPN15wVn6GdiSIHdLo/gTdDrFtHRZbXGTa6qCYf5TTepYc6jO7FHpT6kwNsUWT8w87kWAn+8cBxouwkf0m/55h9exTN8nd+8BH7sMem0PKNcBctB9aDAUtQ8SalJbmqYVw2pcv5LiKNHXE63nodBg7YrYR9vYka5vRDXT3Py71HNqGaRe7t8PeKJnbOsv5jJ/xXwN2WBx2l7Axee6Eec=;GXGyteJ/+Y1UFhILWKIWzg=="
+secured: "FsJbT3sgIKJ/eTBScA9kVDsC2SHHKjEnRWYq/0j5VMFsqjbe2dbsPQzaipj8j+X5ugmcjk5ZG/bRS613yN7jY5QnFhPrBCxI9o3ngAaJNtOaRb7pU56uN1fWw3R2xXfBubrhzS6yYpGqgtnMxnR9X25V5L71vfTHGU9THGwv8jRMMm4ajBVVYZDabcz5DIbgw5EIGkuC+upqrMxnLPOlgKRZrZt8hbOCsIBy0SXZUyJ7W3hSTao8UTaBblATZbI/ufXxxMttx60YiVQAXlqBcY4ICwJncWWId2VLGM5+o8W2AJdlptmTf4Jq7/bl4eNgsToiR47zFdJ9MRiyCqsVwHJOdbvboDbuBDC8svtw0xvLeU0TMiTQPsHuwIvSRZJk41a9axooIrWX0H9ts/5PXxsBl5i329yPtHsZ6RfNJTbMtz/YAGEjr/dCbvtNKyUChIR/GKBYZVx4l+CUBPT7QvR1vqV9kWAznaIKROGzr2G546tm1JJo9PyhKL5d4gn7R/UBYQy5KBvHB9wJ5BQQgg==;pJZz7bY1zjYSCde7gNl/dA=="
 ---
 

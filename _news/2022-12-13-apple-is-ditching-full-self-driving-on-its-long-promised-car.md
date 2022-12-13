@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Apple is Ditching Full Self Driving on its Long-Promised Car"
-excerpt: "Apple is nothing if not revolutionary when it comes to its tech-forward products for consumers, so when rumors began to swirl that the company was getting into the car business, well… it wasn’t so hard to believe."
-publishedDateTime: 2022-12-12T17:20:00Z
-originalUrl: "https://www.manufacturing.net/video/video/22604673/apple-is-ditching-full-self-driving-on-its-longpromised-car"
-webUrl: "https://www.manufacturing.net/video/video/22604673/apple-is-ditching-full-self-driving-on-its-longpromised-car"
+title: "Apple is Ditching Full Self-Driving on its Long-Promised Car"
+excerpt: "Apple has reportedly been working towards an electric vehicle – an endeavor famed investor Carl Icahn said would serve as “the ultimate mobile device.” Part of Icahn’s bullishness on the Apple car stemmed from the rumors that it would be fully autonomous,"
+publishedDateTime: 2022-12-12T17:35:00Z
+originalUrl: "https://www.manufacturing.net/video/video/22604673/apple-is-ditching-full-selfdriving-on-its-longpromised-car"
+webUrl: "https://www.manufacturing.net/video/video/22604673/apple-is-ditching-full-selfdriving-on-its-longpromised-car"
 type: article
-quality: 39
+quality: 24
 heat: -1
 published: false
 
@@ -102,6 +102,6 @@ related:
         height: 720
         isCached: true
 
-secured: "U7KVhmG/QJ8I0VUEZUxS+Nt6yFj84t6CPSKziwc6S0p8Dhweq539V7lief6DzuiNDYZGynKqwC7ZU4VC01WydO5aCRIhiFT+YqN3rwxkErMkeTtKnhk/b8BoDrqYYUbsoSqqVaGE9uLhAzkiR4ncUodKkZoT9YZwM5LheP3gVYTqxQ8zG+N8MpvrEhCRa5Wiwc3PXot0ufW7gndJzXriWItTD479CU9X/BuXp0H0isHnsNsmTy9ZEigHYQir+wo/5A6ytNsFnZM8hL2nArJhM0I+G8TETXyP1iuSpcXWPnYCCAFWs6HlUgX1egdbS+cWgs9wgTsJigIWeFkbmRHumWv+mHdPGNDvw7V0IMkc/W4=;byz8JtaWC7KPcI/JxyhpNA=="
+secured: "tx65j6GznrSGAycZyriSyyrHMDj8+eWF8pYm+zf+rT9E38Ysz6GQEUhcqdqdWNiUOhTNgdHpLrr6Lau1DIj/VwzQ91v0sR44xzzm303hP82Q7lcobxUAa7ULw4Zle+fvXOQNUgN1Gz86vh6u/SZZMVwpajidsQqFhyh1kKbpPlIj2zNubyU9sgZotYpqbdx7pmJVsGkRGbQJxHVSgIeNEWJptkBMvFMfHGunvGu2LAFIR4uxstvPzdcKEyyfeiJgZNcewtIM41gBZwqUt3n9jBYSk0dWQZM3B8myP1OIGWxduyozov1wfVqvKPDAa3/pgCzok5usFiecSMVredm5nwDSH/CdcIrL0ZxTAWQ49Z4=;yYQ+vOB3rYGxJis8b0baBQ=="
 ---
 

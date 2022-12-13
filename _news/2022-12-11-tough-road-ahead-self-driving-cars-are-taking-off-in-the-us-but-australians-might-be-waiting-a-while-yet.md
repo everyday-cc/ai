@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Apple is Ditching Full Self Driving on its Long-Promised Car"
-    excerpt: "Apple is nothing if not revolutionary when it comes to its tech-forward products for consumers, so when rumors began to swirl that the company was getting into the car business, well… it wasn’t so hard to believe."
-    publishedDateTime: 2022-12-12T17:20:00Z
-    webUrl: "https://www.manufacturing.net/video/video/22604673/apple-is-ditching-full-self-driving-on-its-longpromised-car"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/12/MM_THumb.639761bf95989.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Apple Ditching Innovation In Favor Of Pragmatism With MR Offering, Self-Driving Car, Gurman Says"
     excerpt: "Two products in Apple Inc.’s (NASDAQ: AAPL) pipeline have seen delays and a new report suggests that the company is compromising on innovation just to get these two p"
     publishedDateTime: 2022-12-12T11:03:00Z
@@ -100,6 +86,20 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2022/12/12/apple_photo_by_tishomir_on_shutterstock.jpg?width=1200&height=800&fit=crop"
         width: 771
         height: 514
+        isCached: true
+  - title: "Apple is Ditching Full Self-Driving on its Long-Promised Car"
+    excerpt: "Apple has reportedly been working towards an electric vehicle – an endeavor famed investor Carl Icahn said would serve as “the ultimate mobile device.” Part of Icahn’s bullishness on the Apple car stemmed from the rumors that it would be fully autonomous,"
+    publishedDateTime: 2022-12-12T17:35:00Z
+    webUrl: "https://www.manufacturing.net/video/video/22604673/apple-is-ditching-full-selfdriving-on-its-longpromised-car"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 24
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/12/MM_THumb.639761bf95989.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "qQXazUJZiwu+HcBslrbd5FSseDYYPV3mG4g+Q2vq2XA/5pluFLbIGxi8hNlxIkdxn+SH+lTjL4MdGmXX2TW1W3o7GW03m5nbHqGcd5p7+z9nmLtkPS6Uzw7nws2Drp5mJdrLwJAZoO8ySreaF47T4wYoQPLSRSe2ErOh8fYyUobTkZF8VBJyAnoG7ynVZsM4wzKcUnW6qqZMotZAIXyOUXC/LMpN4BK1bwTN2W1CSGN77KgZbXtep/bDUNadmEwIxXLdFskIa/kaMeD9M8yLnlS+jDR97tVD1/lAHylq1HUMDxpf5sBBeaS+8dWhq7M0ymicN2jbLH/f7MetuPjhBQIFBuijK93WmQ+KWN2/k1k=;oFViUUELhy4tje3ZGZGngw=="

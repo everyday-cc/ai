@@ -7,7 +7,7 @@ originalUrl: "https://www.medianama.com/2022/12/223-chennai-police-uses-frs-veri
 webUrl: "https://www.medianama.com/2022/12/223-chennai-police-uses-frs-verify-random-citizens/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Indian police use of facial recognition in Chennai may violate privacy: Project Panoptic"
+    excerpt: "The use of face biometric technologies by police forces to identify people on the streets may clash with a Supreme Court judgment on privacy."
+    publishedDateTime: 2022-12-13T00:20:00Z
+    webUrl: "https://www.biometricupdate.com/202212/indian-police-use-of-facial-recognition-in-chennai-may-violate-privacy-project-panoptic"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 45
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
+        width: 2048
+        height: 1812
+        isCached: true
   - title: "Chennai police’s use of facial recognition technology on commuter draws flak"
     excerpt: "Chennai police received flak for tweeting “nothing to worry” in reply to a commuter who raised concerns over the police using a facial recognition app on him in the city’s Thillai Ganga Nagar. On  8,"
     publishedDateTime: 2022-12-08T14:45:00Z
