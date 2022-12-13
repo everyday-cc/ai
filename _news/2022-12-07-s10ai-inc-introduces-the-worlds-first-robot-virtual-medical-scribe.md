@@ -15,12 +15,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/AI-chatbot-China-AFP-1K-03-600x337.jpg"
-    width: 600
-    height: 337
-    isCached: true
-
-secured: "MTTRllM++dsyu4LfMQwMlIKXQV57Sbtv8VtL2VqOdrvQqQ2K3adSR1A/NWSivkIHrQiJQhhTwJjiWmQw8tsLMuk3ATDHhvc8bZOYO4lvKYJcs2sDNaHV2vIcwRecTqkBOQFe+1OPXe4DMzqdJUyt7Tx59krwQix736ZqUOhZrOLry/2rsMOGj9H+VrdkrrlayhgebtkKqOi1Vc4eKBKu7tBEXIQpsOsRnwLY+uF/o4/yV0iaAODsnJIUQnuWhKSjsiKI8ocD+Oi1zgFK6S3Vuv+V5EOlp+8DG8nkEHwo+sd8DI+hdWuuTpofSg/Iomp3vfe0EABnDuty6V+5V64npqIEPz3C6JOMX+7a8lmjC00=;6gV1liXYxatNudVNJZQkfA=="
+secured: "FSxsYU+SGlxC74xiuwWpzDOOijtwp+7atXxOkX6G4MxWUAABR5GCmPXja3r9xJX611n3r6ZrolMzOTnwKX3+pHCcNHwpFp9rFMOJ3kj5/0UJWDWC6ghOCk76DNfp+nVF0wX0RL67gg3ul9b3bnvVawzT8MsIcdp9uJTaBBIB4UwaZV9kew9zaRIlfVzVsvcWSy1FDoSk2OQBovww2NgShh6tcWsHpsBR/v6Igle9Qa8Y/sDNKz8sSJvA0D8p8zw40RedZRDB78XScai/bY0xvlYtYowadvx1WKx7As1OzJhM07cHJy3vBMU2q3uqO9mb/YVXlvWoS3wXCWovbXmSVxbUX6J1s/sok8ji1wPpDp8=;2p0K8mgY9ljalIQL7PEW/A=="
 ---
 
