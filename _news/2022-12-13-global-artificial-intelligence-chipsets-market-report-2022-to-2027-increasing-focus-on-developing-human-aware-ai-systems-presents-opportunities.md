@@ -23,6 +23,17 @@ images:
     height: 250
     isCached: true
 
+related:
+  - title: "Iris Recognition Global Market Report 2022: Increasing Penetration of Iris Recognition Technology into Consumer Electronics Industry Drives Growth"
+    excerpt: "The iris recognition market is projected to grow from USD 3.7 billion in 2022 to USD 8.4 billion by 2027, registering a CAGR of 15.4% during the forecast period. Increased adoptio"
+    publishedDateTime: 2022-12-12T21:03:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/12/12/9728748.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
 secured: "E2T++V/p/2TyhzjuPl0Ab0yyvvXHC0J/jTBkiOBflWrWNDk7wUxf6hitJq8OhT8FBeLpkWNEu0LuTUCYFvz5FpearOqwdBfPA6Xj2w4XxHZ46Wb+FvoA1RKZDuIkw4DT6aBFGj4auxHzUFqHzljH3SqgE2uFwWmtfG0xIRSGIH9dPrR61Iom8mfNyLRxF3YniXPxTk7ktERVoVi77v99Z/jHw/Z9Y0KXKDlOTaGaROsn8VwTYFtPD5J5zU5ySkW+lWyXffEGVeiAjMRf/SU0C4dwXxkQllkLP/IEDNLnVMI+Ry+l9/jyZHTKLjH81osXhPg3DgDqUF7Kx6SfjIafjL+9wtZNx4huJWDpeVpSg2o=;Nt+sTgOHdHfUYsg8SIGmNw=="
 ---
 

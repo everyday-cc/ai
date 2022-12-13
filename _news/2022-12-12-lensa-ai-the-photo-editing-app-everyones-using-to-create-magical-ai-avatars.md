@@ -175,15 +175,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "What does the Lensa AI app do with my self portraits and why has it gone viral?"
-    excerpt: "Caitlin Cassidy gives Nino Bucci the full picture of the latest ‘magic avatar’ generator and image editing app"
-    publishedDateTime: 2022-12-08T13:00:00Z
-    webUrl: "https://www.theguardian.com/culture/2022/dec/09/what-does-the-lensa-ai-app-do-with-my-selfies-self-portrait-photos-magic-avatar-generator-gone-viral"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 13
 
 secured: "q/6Dn6NOmJJF0EBkWTBUYQy3kPX5ETwnvfWGfRqvzv4YZQM7R6v5ya5OgIXqO0mnbZBdWoz+HamsZN6CdvCKpzkvAM+SKJ9PDd/iUnbBSLPzkSODCpMEldUBS1UKCPyZ2xHApKxylTlgmgA4azRb1y+Q2pUoKNM/rhsFbpQMhZ7Y9GdviRHHzJCkLJQyvG6w5GN1JEvhJFqPAWpzHV9nJwWV96PrHXkJshv0wBGsrhbpcjRvsnZbmWGkIv0DisL13ufwZYmzMGBR20pdmiBRnzbgKfiFMnVH9YjLQ6w9Un+pEdhhMAYDJ7nA+DspIURoLRO6HPuXAP84scmcXSLArM09gZTbwJdshlM+OSmS/vE=;DYSkti/rnUnT9TLjvrra2g=="
 ---

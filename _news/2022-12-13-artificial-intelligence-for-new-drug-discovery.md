@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thisdaylive.com/index.php/2022/12/12/artificial-intellig
 cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2022/12/12/artificial-intelligence-for-new-drug-discovery/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: This Day
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Drug Discovery Market : New Business Strategies And Forecast By 2028 with Top Countries Data"
+    excerpt: "\" Artificial Intelligence in Drug Discovery Market \" Insights 2022 - By Applications (Pharmaceutical and Biotechnology Companies, Contract Research Organizations, Research Centers and Academic and Government Institutes),"
+    publishedDateTime: 2022-12-09T12:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-new-business-strategies-and-forecast-by-2028-with-top-countries-data-2022-12-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Nigeria: Artificial Intelligence for New Drug Discovery"
     excerpt: "Artificial intelligence helps to make pharmaceutical research and new drug discovery less expensive and more productive, argues Julius Adelusi-Adeluyi."
     publishedDateTime: 2022-12-12T04:51:00Z

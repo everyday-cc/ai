@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Agriculture Market 2022 : Latest Industry Trends, Overview of Segments, Opportunities 2028"
+    excerpt: "\" Artificial Intelligence in Agriculture Market \" Insights 2022 - By Applications (Precision Farming, Drone Analytics, Agriculture Robots), By Types (Machine Learning, Computer Vision), By Segmentation analysis,"
+    publishedDateTime: 2022-12-13T02:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-2022-latest-industry-trends-overview-of-segments-opportunities-2028-2022-12-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "mO/v2/jfMMfS4hWx5N8a6Em5j1qfhfqGC5bRUp35lxKnGWIwwfd43t24M7GX5ftt0cjj54Ge4zbLxPlfMqd216QMpg/WXSLmQRC/MYtQBIDr+T1mt9CP3qgHsIzh51wVA6BNdKgmX9lozNTVNUCea9Ioz/fdrYwGMSsOYeKOua5CvKfkUuAintC5oLvekskmPBYPfq/o/AowmDsGtzcJM7NNWH/dSaiAP27jcMtokS4v2Tgud5cM9SdBln6hNMQ7FmUDuU1liJqLMCEAW1AJLotp+RxdtqB+F2RXjH3tCjBdiz0zMAbgV9UBF2veijmT8LeZS7TJ/ZuKFSZTOtAHRK82/RjkXb3P3sTLpK44OM0=;BpLHM+JGDP6B5GlQpiDWmg=="
 ---

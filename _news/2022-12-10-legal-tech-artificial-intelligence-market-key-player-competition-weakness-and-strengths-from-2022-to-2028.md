@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-in
 webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-12-09"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: MarketWatch
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Agriculture Market 2022 : Latest Industry Trends, Overview of Segments, Opportunities 2028"
+    excerpt: "\" Artificial Intelligence in Agriculture Market \" Insights 2022 - By Applications (Precision Farming, Drone Analytics, Agriculture Robots), By Types (Machine Learning, Computer Vision), By Segmentation analysis,"
+    publishedDateTime: 2022-12-13T02:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-2022-latest-industry-trends-overview-of-segments-opportunities-2028-2022-12-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -29,57 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Face Recognition Technology Market Size, Trends and Forecast 2028 with Top Countries Data"
-    excerpt: "\" Face Recognition Technology Market \" Insights 2022 - By Applications (Emotion Recognition, Law Enforcement, Surveillance, and Monitoring), By Types (2D Facial Recognition, 3D Facial Recognition, Thermal Facial Recognition),"
-    publishedDateTime: 2022-12-09T01:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-size-trends-and-forecast-2028-with-top-countries-data-2022-12-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Precision Medicine Market Size, Sales, CAGR And Competition Data from 2022 To 2028 with Top Countries Data"
-    excerpt: "\" Artificial Intelligence in Precision Medicine Market \" Insights 2022 - By Applications (Oncology, Neurosciences, Immunology, Respiratory), By Types (Hardware, Software, Services), By Segmentation analysis,"
-    publishedDateTime: 2022-12-09T01:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-medicine-market-size-sales-cagr-and-competition-data-from-2022-to-2028-with-top-countries-data-2022-12-08"
+  - title: "Neural Network Market 2023 : Detailed Analysis of Industry, Potential Growth, Attractive Valuation and Growth Forecast Up to 2028"
+    excerpt: "Pages Report] According to this latest study, the 2021 growth of Neural Network Market will have significant change from previous year. By the most conservative estimates of g"
+    publishedDateTime: 2022-12-09T13:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-market-2023-detailed-analysis-of-industry-potential-growth-attractive-valuation-and-growth-forecast-up-to-2028-2022-12-09"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Drug Discovery Market : New Business Strategies And Forecast By 2028 with Top Countries Data"
-    excerpt: "\" Artificial Intelligence in Drug Discovery Market \" Insights 2022 - By Applications (Pharmaceutical and Biotechnology Companies, Contract Research Organizations, Research Centers and Academic and Government Institutes),"
-    publishedDateTime: 2022-12-09T12:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-new-business-strategies-and-forecast-by-2028-with-top-countries-data-2022-12-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Image Recognition Market Size: Generate Revenue, Market Status, and Forecast from 2022 - 2028."
-    excerpt: "In this \" Image Recognition market ,\" the patterns from one year to the next have been evaluated for each sector. For example, the research and company profile provides detailed descriptions of the major factors influencing the demand for the Image Recognition market."
-    publishedDateTime: 2022-12-10T05:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-size-generate-revenue-market-status-and-forecast-from-2022---2028-2022-12-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -99,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition To Mark School Attendance In UP"
-    excerpt: "Uttar Pradesh government has started a facial recognition-based teacher and student attendance monitoring system for the p"
-    publishedDateTime: 2022-12-11T04:04:00Z
-    webUrl: "https://menafn.com/1105294130/Facial-Recognition-To-Mark-School-Attendance-In-UP"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?104280"
-        width: 340
-        height: 249
-        isCached: true
   - title: "Artificial Intelligence in Food and Beverage Market : Share, Industry Size, Opportunities, Analysis and Forecast to 2028 with Top Countries Data"
     excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence in Food and Beverage Market will have significant change from previous year. By the m"
     publishedDateTime: 2022-12-09T12:55:00Z
@@ -127,56 +71,24 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Biometrics Market Dynamics with Top Players, Gross Margin, Regional Demand, Plans and Demand Status Forecast to 2028"
-    excerpt: "\" Voice Recognition Biometrics Market \" Insights 2022 - By Applications (IT And Telecom, BFSI, Automotive, Healthcare, Education, Others), By Types (Physiological Biometrics, Behavioral Biometrics), By Segmentation analysis,"
-    publishedDateTime: 2022-12-09T01:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-biometrics-market-dynamics-with-top-players-gross-margin-regional-demand-plans-and-demand-status-forecast-to-2028-2022-12-08"
+  - title: "Artificial Intelligence in BFSI Market To Show Incredible Growth And Forecast By 2028 Segment, Privacy Tools And Key Players Information"
+    excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence in BFSI Market will have significant change from previous year. By the most conservati"
+    publishedDateTime: 2022-12-11T10:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-bfsi-market-to-show-incredible-growth-and-forecast-by-2028-segment-privacy-tools-and-key-players-information-2022-12-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 22
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "New facial recognition technology scans your ear"
-    excerpt: "In the post-COVID world of face coverings and heightened hygiene awareness, the need for new authentication methods that don't require a person's full face to be visible has arisen."
-    publishedDateTime: 2022-12-08T19:13:00Z
-    webUrl: "https://techxplore.com/news/2022-12-facial-recognition-technology-scans-ear.html"
+    quality: 14
+  - title: "Driverless Car Market : Outlook, In-depth Analysis, Industry Drivers, Key Trends, Projections, and Future opportunities for the period 2023-2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Driverless"
+    publishedDateTime: 2022-12-11T10:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/driverless-car-market-outlook-in-depth-analysis-industry-drivers-key-trends-projections-and-future-opportunities-for-the-period-2023-2028-2022-12-11"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 19
-  - title: "Facial recognition to mark school attendance"
-    excerpt: "Uttar Pradesh government has started a facial recognition-based teacher and student attendance monitoring system for the public schools in the state."
-    publishedDateTime: 2022-12-11T19:09:00Z
-    webUrl: "https://www.thehansindia.com/hans/young-hans/facial-recognition-to-mark-school-attendance-772943"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 19
-  - title: "Facial Recognition Technology Scans Your Ear"
-    excerpt: "University of Georgia (UGA) scientists have created an ear recognition system that can authenticate individuals with up to 97.25% accuracy."
-    publishedDateTime: 2022-12-12T17:55:00Z
-    webUrl: "https://cacm.acm.org/news/267660-facial-recognition-technology-scans-your-ear/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
-  - title: "Iris Recognition Global Market Report 2022: Increasing Penetration of Iris Recognition Technology into Consumer Electronics Industry Drives Growth"
-    excerpt: "The iris recognition market is projected to grow from USD 3.7 billion in 2022 to USD 8.4 billion by 2027, registering a CAGR of 15.4% during the forecast period. Increased adoptio"
-    publishedDateTime: 2022-12-12T21:03:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/12/12/9728748.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 12
 
 secured: "ysqnvtBNNyujbwBOqo40Zqep9u/q4tGpCsCpjCgZwZ8zb6SlIWzIAi4KeNZ+lgHZdHhKGzD/3GzIEm4XUf2vMXNo+Q4iOC1TlfkONMuDOUwn4tw8TJ9/hfjcRZDF8JgsCnVUYGo99uZqFiM+p7asN6M0OSbRcO8+/LtzUN0TRk1GBqPpD3wcHG7gWzVW9YTJkYuxl1fP3KC4Kpe/mEqED9zdnRF2Jfks4+C+9HVPfGQinDDdtrmB8jrtVVqNOLLbbFsnf8ihkqSB1puoZwWdEEr6FfUWVj1qfxLaHWglb+oIt1Ph4pH7ebwMonOBRLevpiA54SSV9Pi0SVv0hMtwar51vjmTh0QcJS2yfLU29W4=;7586ZuhtIHDhy/h0u/GBRg=="
 ---

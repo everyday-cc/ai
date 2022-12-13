@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-13-did-a-robot-write-this-we-need-watermarks-to-spot-ai.md",
+      "title": "Did a Robot write this? we need watermarks to spot AI",
+      "excerpt": "And remarkably, it will soon get better. OpenAI is widely expected to release its next iteration known as GPT-4 in the coming months, and early testers say it is better than anything that came before.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/opinion/did-a-robot-write-this-we-need-watermarks-to-spot-ai-9695701.html",
+      "originalUrl": "https://www.moneycontrol.com/news/opinion/did-a-robot-write-this-we-need-watermarks-to-spot-ai-9695701.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2021/05/Robot-rock-n-roll-monkey-FTfjMijq-Ws-unsplash.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/opinion/did-a-robot-write-this-we-need-watermarks-to-spot-ai-9695701.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/did-a-robot-write-this-we-need-watermarks-to-spot-ai-9695701.html/amp",
+      "publishedDateTime": "2022-12-12T20:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-3d-facial-recognition-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028.md",
+      "title": "3D Facial Recognition Market 2022 Size, Revenue Analysis, Sales, Share and Research Depth Study 2028",
+      "excerpt": "\" 3D Facial Recognition Market \" Insights 2022 - By Applications (Banking and Finance, Consumer Electronics, Government and Defense, Healthcare, Commercial Security, Residential, Others), By Types (Hardware,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-2022-12-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-2022-12-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T18:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-12-13-the-dynamic-duo-strong-ui-and-bias-free-ai-technology.md",
       "title": "The dynamic duo: Strong UI and bias-free AI technology",
       "excerpt": "AI that has a strong UI and proactively cuts out bias is key to a long-lasting, highly-adopted, trusted and scalable solution.",
@@ -41,6 +137,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-artificial-intelligence-for-new-drug-discovery.md",
+      "title": "ARTIFICIAL INTELLIGENCE FOR NEW DRUG DISCOVERY",
+      "excerpt": "Artificial intelligence helps to make pharmaceutical research and new drug discovery less expensive and more productive, argues Julius Adelusi-Adeluyi. The world is making rapid p",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisdaylive.com/index.php/2022/12/12/artificial-intelligence-for-new-drug-discovery/",
+      "originalUrl": "https://www.thisdaylive.com/index.php/2022/12/12/artificial-intelligence-for-new-drug-discovery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.thisdaylive.com/wp-content/uploads/Julius-Adelusi-Adeluyi.jpg?w=800&ssl=1&mrf-size=m",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thisdaylive.com/index.php/2022/12/12/artificial-intelligence-for-new-drug-discovery/amp/",
+      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2022/12/12/artificial-intelligence-for-new-drug-discovery/amp/",
+      "publishedDateTime": "2022-12-12T15:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This Day",
+        "domain": "thisdaylive.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -540,58 +678,6 @@
       ]
     },
     {
-      "path": "_news/2022-12-12-artificial-intelligence-ai-in-supply-chain-and-logistics-solution-market-size-share-financial-analysis-from-2022-2027.md",
-      "title": "Artificial intelligence (AI) in Supply Chain and Logistics Solution Market Size, Share, Financial Analysis from 2022-2027",
-      "excerpt": "The Global Artificial intelligence (AI) in Supply Chain and Logistics Market research combines extensive quantitative analysis and exhaustive qualitative analysis. It ranges from a macro overview of total market size,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-solution-market-size-share-financial-analysis-from-2022-2027-2022-12-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-solution-market-size-share-financial-analysis-from-2022-2027-2022-12-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T00:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2022-12-12-rich-lowry-an-emphatic-yes-to-killer-robots.md",
       "title": "RICH LOWRY: An emphatic 'yes' to killer robots",
       "excerpt": "Cyberdyne Systems Corporation created an artificial intelligence-based defense system called Skynet. When the system achieved self-awareness on Aug. 29, 1997, it decided that humanity was the enemy an",
@@ -773,7 +859,7 @@
       "originalUrl": "https://www.cnn.com/style/article/lensa-ai-app-art-explainer-trnd/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -1102,110 +1188,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-12-10-the-future-of-fintech-according-to-ai.md",
-      "title": "The Future Of Fintech, According To AI",
-      "excerpt": "To much fanfare, Open AI released Chat GPT, an interface to interact with their AI model. So this naturally felt like an opportunity to learn about the future of fintech - according to AI. At the end,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexlazarow/2022/12/10/the-future-of-fintech-according-to-ai/",
-      "originalUrl": "https://www.forbes.com/sites/alexlazarow/2022/12/10/the-future-of-fintech-according-to-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6393b7e45ce951dad64ea391/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alexlazarow/2022/12/10/the-future-of-fintech-according-to-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexlazarow/2022/12/10/the-future-of-fintech-according-to-ai/amp/",
-      "publishedDateTime": "2022-12-10T06:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-10-3-questions-you-should-ask-to-get-the-most-out-of-edge-data.md",
-      "title": "3 questions you should ask to get the most out of edge data",
-      "excerpt": "Does the value of edge data stop at the edge? Here's how to think strategically about managing your edge data in a world of big data and IoT.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/3-questions-you-should-ask-to-get-the-most-out-of-edge-data/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/3-questions-you-should-ask-to-get-the-most-out-of-edge-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1332612761.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/data-infrastructure/3-questions-you-should-ask-to-get-the-most-out-of-edge-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/3-questions-you-should-ask-to-get-the-most-out-of-edge-data/amp/",
-      "publishedDateTime": "2022-12-09T17:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

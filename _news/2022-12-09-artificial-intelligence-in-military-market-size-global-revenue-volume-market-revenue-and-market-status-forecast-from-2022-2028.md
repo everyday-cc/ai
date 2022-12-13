@@ -29,6 +29,34 @@ images:
     isCached: true
 
 related:
+  - title: "3D Facial Recognition Market 2022 Size, Revenue Analysis, Sales, Share and Research Depth Study 2028"
+    excerpt: "\" 3D Facial Recognition Market \" Insights 2022 - By Applications (Banking and Finance, Consumer Electronics, Government and Defense, Healthcare, Commercial Security, Residential, Others), By Types (Hardware,"
+    publishedDateTime: 2022-12-13T02:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-2022-12-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Technology Market Size, Trends and Forecast 2028 with Top Countries Data"
+    excerpt: "\" Face Recognition Technology Market \" Insights 2022 - By Applications (Emotion Recognition, Law Enforcement, Surveillance, and Monitoring), By Types (2D Facial Recognition, 3D Facial Recognition, Thermal Facial Recognition),"
+    publishedDateTime: 2022-12-09T01:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-size-trends-and-forecast-2028-with-top-countries-data-2022-12-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial intelligence (AI) in Supply Chain and Logistics Solution Market Size, Share, Financial Analysis from 2022-2027"
     excerpt: "The Global Artificial intelligence (AI) in Supply Chain and Logistics Market research combines extensive quantitative analysis and exhaustive qualitative analysis. It ranges from a macro overview of total market size,"
     publishedDateTime: 2022-12-12T08:35:00Z
@@ -43,10 +71,38 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial intelligence (AI) in Supply Chain and Logistics Market 2022 : Regional Scope, Growth Statistics, Demand and Regional Outlook 2028"
-    excerpt: "\"Artificial intelligence (AI) in Supply Chain and Logistics Market\" Insights 2022 - By Applications (Inventory control and planning, Transportation network design, Purchasing and supply management, Demand planning and forecasting,"
-    publishedDateTime: 2022-12-12T04:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-2022-regional-scope-growth-statistics-demand-and-regional-outlook-2028-2022-12-12"
+  - title: "Artificial Intelligence in Healthcare Market Size 2022 - 2028 Regional development, deployment, growth factor, production cost."
+    excerpt: "Dec 08, 2022 (Reportmines via Comtex) -- Artificial Intelligence has been around for over 50 years, but its applications in healthcare have only recently begun to be explored. Healthcare is a $3 ..."
+    publishedDateTime: 2022-12-08T21:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-2022---2028-regional-development-deployment-growth-factor-production-cost-2022-12-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Precision Medicine Market Size, Sales, CAGR And Competition Data from 2022 To 2028 with Top Countries Data"
+    excerpt: "\" Artificial Intelligence in Precision Medicine Market \" Insights 2022 - By Applications (Oncology, Neurosciences, Immunology, Respiratory), By Types (Hardware, Software, Services), By Segmentation analysis,"
+    publishedDateTime: 2022-12-09T01:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-medicine-market-size-sales-cagr-and-competition-data-from-2022-to-2028-with-top-countries-data-2022-12-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Neural Network Software market research report forecasts market size by type, application, and region."
+    excerpt: "The “ Neural Network Software market research report\" main objective is to give Neural Network Software market players an understanding of the post-COVID-19 effect so they can evaluate their business plans."
+    publishedDateTime: 2022-12-12T15:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-neural-network-software-market-research-report-forecasts-market-size-by-type-application-and-region-2022-12-12"
     type: article
     provider:
       name: MarketWatch
@@ -57,15 +113,34 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI)-Based Digital Pathology Solutions Market"
-    excerpt: "According to the latest research by InsightAce Analytic, the global AI-Based Digital Pathology solutions market is expected to grow with a CAGR of 7.67% during the forecast period of 2022-2030. The prominent market players includes PathAI,"
-    publishedDateTime: 2022-12-08T15:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-based-digital-pathology-solutions-market-/2022/12/08/9727071.htm"
+  - title: "Image Recognition Market Size: Generate Revenue, Market Status, and Forecast from 2022 - 2028."
+    excerpt: "In this \" Image Recognition market ,\" the patterns from one year to the next have been evaluated for each sector. For example, the research and company profile provides detailed descriptions of the major factors influencing the demand for the Image Recognition market."
+    publishedDateTime: 2022-12-10T05:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-size-generate-revenue-market-status-and-forecast-from-2022---2028-2022-12-10"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 38
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Biometrics Market Dynamics with Top Players, Gross Margin, Regional Demand, Plans and Demand Status Forecast to 2028"
+    excerpt: "\" Voice Recognition Biometrics Market \" Insights 2022 - By Applications (IT And Telecom, BFSI, Automotive, Healthcare, Education, Others), By Types (Physiological Biometrics, Behavioral Biometrics), By Segmentation analysis,"
+    publishedDateTime: 2022-12-09T01:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-biometrics-market-dynamics-with-top-players-gross-margin-regional-demand-plans-and-demand-status-forecast-to-2028-2022-12-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "OEuFnFm1OmYoX1pOBiWMciqvwjWOIRtccTP4RBZK8KmQ3HaThmH9sF0OGEly/9T51EP4SNxPtDX/35rEJ/mxnd4mnSX6SYH18lyKOTQ3usp6WEwH1EgsoODGvZX5dQ8DIWJ0MrPs4JqV89SJeOV2BLcV6oJ56dqcBaZ5VHEp3wzHAetSjuD4UQJ1Iw7kWMvsaWAUsNOMB8pziEl4JpzHSC8Ufbwko0IAZ/nxmECGz4ffUGPVT712yD+73bFmJn50THQsTWTx30rULe20cRgeeAMR+RyEIQq3A8NMjVvIWRtZHrWQdNYxRkztmQBJ+/U/kGFKO9V4ex5c+3LuOMhv/qU7ITBWhi06FlBPQfcoJGU=;NwylFZEe7LHznZvht7rwew=="
 ---

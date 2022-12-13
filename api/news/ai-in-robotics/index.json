@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-13-did-a-robot-write-this-we-need-watermarks-to-spot-ai.md",
+      "title": "Did a Robot write this? we need watermarks to spot AI",
+      "excerpt": "And remarkably, it will soon get better. OpenAI is widely expected to release its next iteration known as GPT-4 in the coming months, and early testers say it is better than anything that came before.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/opinion/did-a-robot-write-this-we-need-watermarks-to-spot-ai-9695701.html",
+      "originalUrl": "https://www.moneycontrol.com/news/opinion/did-a-robot-write-this-we-need-watermarks-to-spot-ai-9695701.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2021/05/Robot-rock-n-roll-monkey-FTfjMijq-Ws-unsplash.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/opinion/did-a-robot-write-this-we-need-watermarks-to-spot-ai-9695701.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/did-a-robot-write-this-we-need-watermarks-to-spot-ai-9695701.html/amp",
+      "publishedDateTime": "2022-12-12T20:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-13-top-tech-brains-to-shape-robotics-strategy.md",
       "title": "Top tech brains to shape robotics strategy",
       "excerpt": "Minister for Industry and Science Ed Husic has set up a national robotics strategy committee to advise on boosting automation technologies across the economy.",
@@ -132,6 +175,58 @@
       ]
     },
     {
+      "path": "_news/2022-12-10-legal-tech-artificial-intelligence-market-key-player-competition-weakness-and-strengths-from-2022-to-2028.md",
+      "title": "Legal Tech Artificial Intelligence Market : Key Player, Competition Weakness and Strengths from 2022 to 2028",
+      "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \" Legal Tech Artificial Intelligence Market \" Insights 2022 - By Applications (Lawyers, Clients),",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-12-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-12-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T18:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-12-10-3-ways-artificial-intelligence-will-transform-the-world-in-2023.md",
       "title": "3 Ways Artificial Intelligence Will Transform The World in 2023",
       "excerpt": "As we continue to see high rates of positions needing to be filled in 2023, AI is likely going to see quick adoption, development and more.",
@@ -140,7 +235,7 @@
       "originalUrl": "https://www.entrepreneur.com/science-technology/the-3-biggest-artificial-intelligence-ai-trends-in-2023/439434",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -1301,104 +1396,6 @@
       "provider": {
         "name": "tbsnews",
         "domain": "tbsnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-ai-could-have-20-chance-of-sentience-in-10-years-says-philosopher-david-chalmers.md",
-      "title": "AI could have 20% chance of sentience in 10 years, says philosopher David Chalmers",
-      "excerpt": "AI programs that combine sensing and action and world models might achieve fish-level intelligence, says the NeurIPS 2022 keynote speaker.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-could-have-20-percent-chance-of-sentience-in-10-years-says-philosopher-david-chalmers/",
-      "originalUrl": "https://www.zdnet.com/article/ai-could-have-20-percent-chance-of-sentience-in-10-years-says-philosopher-david-chalmers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/4540138c5a94e1211ab4775544b48650380c3b89/2022/12/01/9bb85d12-1a32-4015-8f8a-d1f852c5e3cc/david-chalmers-2022-5.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-could-have-20-percent-chance-of-sentience-in-10-years-says-philosopher-david-chalmers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-could-have-20-percent-chance-of-sentience-in-10-years-says-philosopher-david-chalmers/",
-      "publishedDateTime": "2022-12-01T10:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-artificial-intelligence-and-robotics-to-help-early-detect-urinary-tract-infections.md",
-      "title": "Artificial intelligence and robotics to help early detect urinary tract infections",
-      "excerpt": "A team of researchers at the University of Edinburgh and Heriot-Watt University are developing AI and robots to detect urinary tract infections (UTIs) earlier.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hw.ac.uk/news/articles/2022/artificial-intelligence-and-robotics-to-help.htm",
-      "originalUrl": "https://www.hw.ac.uk/news/articles/2022/artificial-intelligence-and-robotics-to-help.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hw.ac.uk/img/Pepper.png",
-          "width": 705,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T09:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Heriot-Watt University",
-        "domain": "hw.ac.uk",
         "images": null,
         "publishers": null,
         "authors": null

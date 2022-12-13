@@ -33,15 +33,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Analysts Predictions About AI In 2023"
-    excerpt: "As the ample supply of 2023 predictions affirms, humans still win in the futures market. Or maybe they are just not as modest as Alexa (or the Amazonians feeding it with answers to common queries). Observes of the IT landscape and AI developments are certainly far from being modest,"
-    publishedDateTime: 2022-12-08T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/gilpress/2022/12/08/analysts-predictions-about-ai-in-2023/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Software ate the world. Now it’s AI’s turn"
     excerpt: "The CEO of Microsoft-owned GitHub says the sheer complexity of a world dominated by software code means AI is needed to help fill the tech skills gap."
     publishedDateTime: 2022-12-11T18:00:00Z

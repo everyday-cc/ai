@@ -73,6 +73,20 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "Facial Recognition To Mark School Attendance In UP"
+    excerpt: "Uttar Pradesh government has started a facial recognition-based teacher and student attendance monitoring system for the p"
+    publishedDateTime: 2022-12-11T04:04:00Z
+    webUrl: "https://menafn.com/1105294130/Facial-Recognition-To-Mark-School-Attendance-In-UP"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?104280"
+        width: 340
+        height: 249
+        isCached: true
   - title: "How businesses are deploying facial recognition"
     excerpt: "As facial recognition software becomes easier to acquire, businesses are using it to surveil and analyze customers. Bloomberg's Parmy Olson explains where and how the technology is being deployed."
     publishedDateTime: 2022-12-09T14:57:00Z
@@ -81,6 +95,33 @@ related:
     provider:
       name: Capital Public Radio
       domain: capradio.org
+    quality: 19
+  - title: "New facial recognition technology scans your ear"
+    excerpt: "In the post-COVID world of face coverings and heightened hygiene awareness, the need for new authentication methods that don't require a person's full face to be visible has arisen."
+    publishedDateTime: 2022-12-08T19:13:00Z
+    webUrl: "https://techxplore.com/news/2022-12-facial-recognition-technology-scans-ear.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 19
+  - title: "Facial recognition to mark school attendance"
+    excerpt: "Uttar Pradesh government has started a facial recognition-based teacher and student attendance monitoring system for the public schools in the state."
+    publishedDateTime: 2022-12-11T19:09:00Z
+    webUrl: "https://www.thehansindia.com/hans/young-hans/facial-recognition-to-mark-school-attendance-772943"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 19
+  - title: "Facial Recognition Technology Scans Your Ear"
+    excerpt: "University of Georgia (UGA) scientists have created an ear recognition system that can authenticate individuals with up to 97.25% accuracy."
+    publishedDateTime: 2022-12-12T17:55:00Z
+    webUrl: "https://cacm.acm.org/news/267660-facial-recognition-technology-scans-your-ear/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
     quality: 19
 
 secured: "tM4NJzkGtPh5WIhx6mdjY8+tJrYVWLMhPnvgWxp96z2RB7IMnfujkwTE9HkVisIjC21Bg0pJoRIoxi6W6ZJjALqzVprG6HzHzz39j7NhbUR+pFDzWES15ArQohBeU+Elfr6Oaryv4Pk772RbXwZWIe+EmGThtqXqqY+XsbxNgEzl44mMtBsxDvHPo/CIGwxY6T95Jgv7q65cFHkldJIBntspLsg6LDQjah6D9GKoVYFmjYrMsbi/GMDvM/OBRN0X1KNI6OoJhR9bF9cT4ztvM0HBRtE+l9izdoB7Web1Voi5pL8JM2zD8th2Wc5dbty98nQwyb9cMYKr8f6vUrWrk2h4otT4GStn6OZESNFxa8c=;w0u2982Xe9NiVHCcGZ0Avw=="

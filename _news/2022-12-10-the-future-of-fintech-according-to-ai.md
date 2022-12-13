@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alexlazarow/2022/12/10/the-future-of-fi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexlazarow/2022/12/10/the-future-of-fintech-according-to-ai/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -89,15 +89,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Econ Corp Services DBA Investorideas.com: Fintech Innovation and the Digital Path of Banking in the Future"
-    excerpt: "Investorideas.com, a leading investor news resource covering Fintech stocks, features a snapshot looking at the innovation"
-    publishedDateTime: 2022-12-08T12:06:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-12/57793754-econ-corp-services-dba-investorideas-com-fintech-innovation-and-the-digital-path-of-banking-in-the-future-296.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 1
 
 secured: "hTEaJmhFfPVmi26k9si2uIy4DzhhP8mk3hR2f/33860F3sY5T8voz5ksDZywBU+cd7ZBiyWwdjEKey0YSaSp28+r/Q7FNdOBVlpOP2CL18OyczxJ8rv2U6Bnvc1z+4AuRYpRHYb9KH2b+XARNJDQ9kvkO6N6P3ODr4k1SzVAobu1OGN+dvhjBlxB8wV8i0yIxXnNRyYr0yWIdF9uYQJTcEVNLmA/bNlWLNlhFrR+nFriy5unfFTyaxmqMKNnpoIet2jUpIVaf+c1rP5/6BTlMKAMpMRrPGOWbOAqf2uGjTisp6ns+SV5Ru25mR6YUNp4uz5pdQlVtVfVHLq4v3Wmc0n47yDsroyk3OVnTKYZCrnlRdTZYfnx7FB9WR60096Z/cYSAID7INGbDfNtQ9HJih4AxXHfJH46002QWbIY9mJshp8KljiteHyJ567NzKWdmJ3tkxaoMeWo2j213HEhkahJOkbqOypH6hk2RMWGxynigVOXerklttaeBStOMZWzRQbCB5iVSSufniY10217MQ==;kWWKHm+AFnFBR4yleQXbIg=="
 ---

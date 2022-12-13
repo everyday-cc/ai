@@ -39,15 +39,6 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "Aetina Launches New ASIC-Based Edge AI System Powered by Blaize"
-    excerpt: "Aetina, an edge AI solution provider that offers embedded computing hardware and software for AI and IoT, has launched a new ASIC-based edge AI system powered by the programmable Blaize® Pathfinder P1600 Embedded System on Module (SoM)."
-    publishedDateTime: 2022-12-08T12:22:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-aetina-launches-new-asic-based-edge-ai-system-/2022/12/08/9726781.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "/Qzvw5lvsJ+Qp6HpKnV64wW4kvG+UC/OVfDoJiZaT5FE+JsfUqpzgsV9eqi4Ac54nX42/v68dilnMSMG6Y83Grkl0HKG2V5LrgJYQbCLw5bVAy6cGBI5oTcG2NlbK/3diRN1UQpFNRZpZ8Nw1IYEOeisrEqUlSQPyTqmbLzEZNf6WynltJWWY35yVN7icaayr6LciZXH/VLRzwQj+HrOOkWXti9S90TCiYx8xAxda25R4E9WP7MKGFlyvJIhgmNUCPlx77vYXhXNQksztGyED/DIdlIDkeynsApbacuI4l9S7ISl50r8uiXFtAdGzdxc+2qAgqs0TD8mqokgpjkU1totXMp6MKwHfjAOUF3Ah+c=;GSK3ERcE2QwcMGcED1lvEw=="
 ---

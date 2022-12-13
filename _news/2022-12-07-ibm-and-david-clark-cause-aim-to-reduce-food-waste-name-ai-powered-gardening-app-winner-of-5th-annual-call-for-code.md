@@ -1,26 +1,26 @@
 ---
 category: news
 title: "IBM and David Clark Cause Aim to Reduce Food Waste; Name AI-Powered Gardening App Winner of 5th Annual Call for Code"
-excerpt: "The top prize this year went to GardenMate for creating an app that uses IBM Watson® to connect gardeners ... technologies such as Hybrid Cloud and AI.\" Winning 2022 Call for Code Global ..."
-publishedDateTime: 2022-12-07T02:20:00Z
-originalUrl: "https://www.abc27.com/business/press-releases/cision/20221206NY57463/ibm-and-david-clark-cause-aim-to-reduce-food-waste-name-ai-powered-gardening-app-winner-of-5th-annual-call-for-code/"
-webUrl: "https://www.abc27.com/business/press-releases/cision/20221206NY57463/ibm-and-david-clark-cause-aim-to-reduce-food-waste-name-ai-powered-gardening-app-winner-of-5th-annual-call-for-code/"
+excerpt: "IBM is a leading provider of global hybrid cloud and AI, and consulting expertise. We help clients in more than 175 countries capitalize on insights from their data, streamline business processes ..."
+publishedDateTime: 2022-12-07T02:01:00Z
+originalUrl: "https://www.victoriaadvocate.com/ibm-and-david-clark-cause-aim-to-reduce-food-waste-name-ai-powered-gardening-app/article_c6a08460-61b9-5fd6-8f5d-33f0aca072bf.html"
+webUrl: "https://www.victoriaadvocate.com/ibm-and-david-clark-cause-aim-to-reduce-food-waste-name-ai-powered-gardening-app/article_c6a08460-61b9-5fd6-8f5d-33f0aca072bf.html"
 type: article
 
 provider:
-  name: abc27
-  domain: abc27.com
+  name: The Victoria Advocate
+  domain: victoriaadvocate.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1962901/IBM_GardenMate_Team.jpg"
-    width: 400
-    height: 300
+  - url: "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/3/a9/3a9fdfcf-13f4-56d6-a3a6-d6c929aa9d63/638ff0474f17c.image.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "gJ0l1sc60Fhs6S5WsBRF/Xi5us+D9pCeO97OTlLKfaRwnZ+REBrHzkKyYv2eGEnftQL9XlhuYBzAcr6y3Mv0KLCXBGrG17OLJYUcUKYQWlgEgxipatZVPqBG9cmMw7fg9gw7vHSuKQQ1kVBBnBJOuyDCfdwcq9xZPU1vG4MLr5vSd0Xyq16pd9qQ2dRL5v8pvEv5ryO5mQ4Ymr8oj89fD65wQpAFy8RLUM1Uk39pEtDw+gwRSLS4iX6ziJKTd5eU5NSvShNxr5yDdAIexSHtsOp8vm/P8+ekdIwcRp/VIfr++rrBuSPpzyyo2aMIXIYz5niB/QSVNLfSKooNn6E3q2+hLcpLOAm0oQouxHOuOXs=;qGg+ms6mE81RmAVza0KUmw=="
+secured: "hvsupqb8JIp/0H0DrmHIJVyfOxJFWqlmxQnYOZN8pDvePiQHpovzymoV8E8U/p3G5yGuhlsSHwyFdQtgKRHUn0EdRUEDwYNJy44lSHbWk2N12ymcpJ4kHydl6D0wuemojbtcedVyVc1SONbKzmP1BYAc6SCCwtDZsj06G9CdF42pfSZqoYzjY/jn7ir0eeHuv+7xLJwpf/W/YiIIvcV3G/dWBZupP/XPjjst8Fuvu/YHYmKb9zM5GlmntR8qcRwbxkdcOKrSufzvaJU4FsoG3QDgcIlaCnX11EstIZmououJMQt1ibMTSF1gX3wSL05a1LPPhCetERUCeIHs2rrRuE4uxgZYMgcO8wdnVVXjTLc=;VQIrBMmPaoEgKF+pHBB3dg=="
 ---
 

@@ -2,6 +2,135 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-12-07-ahai-the-ai-based-multi-symptom-check-and-therapy-recommendation-platform-to-be-released-in-the-first-quarter-of-2023.md",
+      "title": "AHAI, the AI Based Multi Symptom Check and Therapy Recommendation Platform to be Released in the First Quarter of 2023",
+      "excerpt": "LAS VEGAS, NV / ACCESSWIRE / / Alternative Health, Inc, the US based medical company announced that it will be releasing its evidence based diagnostic and recommendation platform to the public in the",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/12/ac29979799/ahai-the-ai-based-multi-symptom-check-and-therapy-recommendation-platform-to-be-released-in-the-f",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/ac29979799/ahai-the-ai-based-multi-symptom-check-and-therapy-recommendation-platform-to-be-released-in-the-f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.accesswire.com/users/newswire/images/730462/kpvw3onlpimll72idprqlvo2pftwml3r1hdijq68xwcg9rmzcm.jpg",
+          "width": 1600,
+          "height": 948,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29979799",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29979799",
+      "publishedDateTime": "2022-12-06T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-locomotion-modeling-evolves-with-brain-inspired-neural-networks.md",
+      "title": "Locomotion modeling evolves with brain-inspired neural networks",
+      "excerpt": "A team of scientists at EPFL have built a new neural network system that can help understand how animals adapt their movement to changes in their own body and to create more powerful artificial intelligence systems.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-12-locomotion-evolves-brain-inspired-neural-networks.html",
+      "originalUrl": "https://techxplore.com/news/2022-12-locomotion-evolves-brain-inspired-neural-networks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/locomotion-modeling-ev.jpg",
+          "width": 621,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-12-locomotion-evolves-brain-inspired-neural-networks.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-locomotion-evolves-brain-inspired-neural-networks.amp",
+      "publishedDateTime": "2022-12-06T07:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-study-hearing-aids-may-help-slow-cognitive-decline.md",
+      "title": "Study: Hearing aids may help slow cognitive decline",
+      "excerpt": "A new study indicates that hearing aids may help delay or reduce dementia and cognitive decline. The findings were published Monday in the medical journal JAMA Neurology. Research has shown that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kshb.com/news/national/study-hearing-aids-may-help-slow-cognitive-decline",
+      "originalUrl": "https://www.kshb.com/news/national/study-hearing-aids-may-help-slow-cognitive-decline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/bf26fc3/2147483647/strip/true/crop/5000x2813+0+261/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F05%2Faf%2F9457e6804e6cb66a3c6e41cdead0%2Fap22334703657980.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kshb.com/news/national/study-hearing-aids-may-help-slow-cognitive-decline?_amp=true",
+      "cdnAmpWebUrl": "https://www-kshb-com.cdn.ampproject.org/c/s/www.kshb.com/news/national/study-hearing-aids-may-help-slow-cognitive-decline?_amp=true",
+      "publishedDateTime": "2022-12-06T07:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSHB Kansas City",
+        "domain": "kshb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-neureality-lands-35m-to-bring-ai-accelerator-chips-to-market.md",
       "title": "NeuReality lands $35M to bring AI accelerator chips to market",
       "excerpt": "NeuReality, a startup developing AI inferencing accelerator chips, has raised $35 million in new venture capital.",
@@ -1065,134 +1194,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-abb-opens-robotics-mega-factory-in-shanghai.md",
-      "title": "ABB opens robotics mega factory in Shanghai",
-      "excerpt": "ABB opened a new 67,000-square-meter robotics factory in Kangquiao, Shanghai, China last week. The $150 million facility harnesses virtual planning and production management systems to maximize productivity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/abb-opens-robotics-mega-factory-in-shanghai/",
-      "originalUrl": "https://www.therobotreport.com/abb-opens-robotics-mega-factory-in-shanghai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-05T11:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-foursquare-to-power-geospatial-data-visualization-in-amazon-sagemaker.md",
-      "title": "Foursquare to Power Geospatial Data Visualization in Amazon SageMaker",
-      "excerpt": "Foursquare, the leading independent location technology company, exclusively powers data visualization for the new Amazon SageMaker geospatial capabilities announced last week at Amazon Web ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/foursquare-to-power-geospatial-data-visualization-in-amazon-sagemaker/article_05b4e866-819b-5223-b9c6-e076963b7f23.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/foursquare-to-power-geospatial-data-visualization-in-amazon-sagemaker/article_05b4e866-819b-5223-b9c6-e076963b7f23.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg",
-          "width": 350,
-          "height": 455,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-05T10:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-meta-is-expanding-its-use-of-ai-face-scanning-to-verify-users-age-on-facebook-dating.md",
-      "title": "Meta is expanding its use of AI face scanning to verify users’ age on Facebook Dating",
-      "excerpt": "Facebook is testing ways for people to verify their age when using the platform’s dating app, including using an AI face scanning tool. In a blog post today, Meta announced it would start prompting users on Facebook Dating to verify that they’re over 18 if the platform suspects a user is underage (you must be over 18 to use the dating service).",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/12/5/23494175/facebook-dating-ai-face-scanning-age-verification-expansion-yoti",
-      "originalUrl": "https://www.theverge.com/2022/12/5/23494175/facebook-dating-ai-face-scanning-age-verification-expansion-yoti",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/JNI9XWA_zSfNW0L1lUvgQhNvc8I=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951346/STK040_VRG_Illo_N_Barclay_2_facebook.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-05T10:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

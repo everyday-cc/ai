@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/business/did-a-robot-write-this-we-
 webUrl: "https://www.washingtonpost.com/business/did-a-robot-write-this-we-need-watermarks-to-spotai/2022/12/12/067c6206-79e3-11ed-bb97-f47d47466b9a_story.html"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1484
     height: 779
     isCached: true
+
+related:
+  - title: "Did a Robot write this? we need watermarks to spot AI"
+    excerpt: "And remarkably, it will soon get better. OpenAI is widely expected to release its next iteration known as GPT-4 in the coming months, and early testers say it is better than anything that came before."
+    publishedDateTime: 2022-12-13T04:33:00Z
+    webUrl: "https://www.moneycontrol.com/news/opinion/did-a-robot-write-this-we-need-watermarks-to-spot-ai-9695701.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/opinion/did-a-robot-write-this-we-need-watermarks-to-spot-ai-9695701.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/did-a-robot-write-this-we-need-watermarks-to-spot-ai-9695701.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 74
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/05/Robot-rock-n-roll-monkey-FTfjMijq-Ws-unsplash.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "2L+Vi/RZ+lg05l1bk6pSIyLTRTwqJJZKFlW1hIr8pVtfi7mmPR8jWUekEl8STKzHjchk1qA5tFpcUFZMBxCZ0E6I3AeLaCyjiDbh1pPfQW2FcjLA8DbIhqi+yi688lP4G3OXuS6cbQU/2q67eCwMT4zcPG1jOClijbWkrjYLNcCsKW+Gdfgm0ECLP+5riUrUpVWtCsv+8KvbzMKH+s9myFhFuTeRKN1Tc6io3WgxHAEPcKrc9V8FjmxP6o9Gdjug20I+8+VqPHrbE8CyY963DmPvxA6a5RwEFNSvxYHzSRal8h+7j9De0WUw6iJ51PmIIuxbbRD7yNSdBT6b6Xxwz8piim1T8EC6MlYEkjk+Woo=;czgVwto5xGf2yOc86FpH2w=="
 ---

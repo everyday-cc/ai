@@ -165,15 +165,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 49
-  - title: "How These AI-Powered Chatbots Keep Getting Better"
-    excerpt: "This week on “Gadget Lab,” we discuss the advances in generative AI tools like ChatGPT that make computer-enabled conversations seem more human than ever."
-    publishedDateTime: 2022-12-08T13:00:00Z
-    webUrl: "https://www.wired.com/story/gadget-lab-podcast-577/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 47
   - title: "Is ChatGPT the Start of the AI Revolution?"
     excerpt: "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skillset. On"
     publishedDateTime: 2022-12-09T12:40:00Z

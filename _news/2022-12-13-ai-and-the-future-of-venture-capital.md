@@ -84,15 +84,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Econ Corp Services DBA Investorideas.com: Fintech Innovation and the Digital Path of Banking in the Future"
-    excerpt: "Investorideas.com, a leading investor news resource covering Fintech stocks, features a snapshot looking at the innovation"
-    publishedDateTime: 2022-12-08T12:06:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-12/57793754-econ-corp-services-dba-investorideas-com-fintech-innovation-and-the-digital-path-of-banking-in-the-future-296.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 1
 
 secured: "IijG5j6zzI/3jgXMC1Jri7DjkkvaDXEiLxKywWPyO5oWkH7lZKs+n/tlJxds7jycROWn2IwwzR+5YklUr8HY2uLkjmnSogQZYwCjl1DF7maEIudGI984b4dLiVR6oewwQStm7p6BAMp5+Y5ndWNRUfA6M7QwM29jH/z2qFq+rIml/kFGdJRTm/wP+Z3+YdYl33RHoMVF2ukqVUrXXjZrQ1gpO8TCgD9Cdtt5mNrr6leshUlCmckaHmfpbdEmCW2+0HP6wpHVQSL9aA4d74/9y3O3Uh464wPOTw1QyfSrKLUiKC9ek+zQ5UHfd04CwmOg4ujZep7H1Wp9xCOemplvH2K2zaSqW+I1u7bl61xRNZHSxL94XC16nQXWCOdMYORL1XuuKq4sJ10EIGuZNREERvzJY37NS1oBNDMqh+OayvG0SIhQmZL5jVokQZFpz0sRN7s4xVUrm1t9wZ55345iE4A3kJvvn9jbOaRwu/S7MD+qPOYH3vamDxKCM/YFDPr9Xk4RgytmxfrA9TA4JtSWwA==;do9WqVgTDofeSyZWYDTwYg=="
 ---

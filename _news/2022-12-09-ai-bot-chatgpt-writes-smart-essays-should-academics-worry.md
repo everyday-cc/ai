@@ -158,15 +158,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 49
-  - title: "How These AI-Powered Chatbots Keep Getting Better"
-    excerpt: "This week on “Gadget Lab,” we discuss the advances in generative AI tools like ChatGPT that make computer-enabled conversations seem more human than ever."
-    publishedDateTime: 2022-12-08T13:00:00Z
-    webUrl: "https://www.wired.com/story/gadget-lab-podcast-577/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 47
   - title: "New AI Chatbot Lands With A Big Splash"
     excerpt: "Like most nerds who read science fiction, I've spent a lot of time wondering how society will greet true artificial intelligence, if and when it"
     publishedDateTime: 2022-12-12T22:37:00Z

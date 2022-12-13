@@ -36,6 +36,48 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Underwater Computer Vision Market Trends, Business Overview, Industry Growth, and Forecast 2022 To 2028"
+    excerpt: "Underwater Computer Vision Market Research Report is spread across 83 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector."
+    publishedDateTime: 2022-12-09T06:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/underwater-computer-vision-market-trends-business-overview-industry-growth-and-forecast-2022-to-2028-2022-12-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in IoT Market 2023 : Trending Technologies, Manufacturers, End-Users, Growth Elements and Forecast 2028"
+    excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence in IoT Market will have significant change from previous year. By the most conservati"
+    publishedDateTime: 2022-12-09T12:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-2023-trending-technologies-manufacturers-end-users-growth-elements-and-forecast-2028-2022-12-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Food and Beverage Market : Share, Industry Size, Opportunities, Analysis and Forecast to 2028 with Top Countries Data"
+    excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence in Food and Beverage Market will have significant change from previous year. By the m"
+    publishedDateTime: 2022-12-09T12:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-food-and-beverage-market-share-industry-size-opportunities-analysis-and-forecast-to-2028-with-top-countries-data-2022-12-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Driverless Car Market : Outlook, In-depth Analysis, Industry Drivers, Key Trends, Projections, and Future opportunities for the period 2023-2028"
     excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Driverless"
     publishedDateTime: 2022-12-11T10:49:00Z
