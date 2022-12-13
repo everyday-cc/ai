@@ -18,40 +18,22 @@ topics:
   - AI
 
 related:
-  - title: "An AI-Stretch Of The Imagination"
-    excerpt: "A key tool to de-risk innovation and democratize data. And the best thing about it, is that while businesses can innovate to the max and offer you better products and services, your privacy remains intact."
-    publishedDateTime: 2022-12-12T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-stretch-of-the-imagination/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-stretch-of-the-imagination/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-stretch-of-the-imagination/amp/"
+  - title: "What The Borg And Robocop Can Teach Marketers About The Rise Of AI In Search Marketing"
+    excerpt: "Founder and CEO of BrightBid.com 'The AI engine revolutionising Google PPC.' When I was growing up watching Star Trek, the Borg was one of the most powerful forces in the universe: a mix of organic and technological matter that was linked in a hivemind called the “Collective."
+    publishedDateTime: 2022-12-13T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/13/what-the-borg-and-robocop-can-teach-marketers-about-the-rise-of-ai-in-search-marketing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/13/what-the-borg-and-robocop-can-teach-marketers-about-the-rise-of-ai-in-search-marketing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/13/what-the-borg-and-robocop-can-teach-marketers-about-the-rise-of-ai-in-search-marketing/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 96
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61de03f0b6b2eca035a665be/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/630396cd75ee12eae2f3e80b/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 800
+        height: 875
         isCached: true
-  - title: "Pondering the legitimacy of AI art"
-    excerpt: "The more AI art is generated, the more valuable human-created art.” - Alex Roy Listen, I don’t want to argue. Art created by artificial intelligence, if it’s even really art at all, is sketchy and problematic."
-    publishedDateTime: 2022-12-09T18:01:00Z
-    webUrl: "https://www.thefabricator.com/thefabricator/blog/cadcamsoftware/pondering-the-legitimacy-of-ai-art"
-    type: article
-    provider:
-      name: The Fabricator
-      domain: thefabricator.com
-    quality: 19
-  - title: "AI and data democratization"
-    excerpt: "Data democratization is a concept that has taken hold, but what does it actually mean? The simplest definition of “data democratization” is making data accessible and available to all employees and stakeholders without bottlenecks and gates."
-    publishedDateTime: 2022-12-12T08:31:00Z
-    webUrl: "https://www.fastcompany.com/90822887/ai-and-data-democratization"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
 
 secured: "8ObAdmayUDtO1B1ME1inPfgvDLLmdBCM9JVHXlE2Z5nlxk0NCgdVbI6gcZteCn6TRxkHr60J795mbHacXDV8DNxywD+w17WNx5xOdxkDXq3JYHSNv7lUe3m+q6m2rHhBPrn6wk1Z48aeKWOjsXnklceBjjZS1fuH1FvzNli7eGDp4Wt4cr1qSWyxvlB+qaT5o/aZm47XVpG3MSWwtG/HQWBNY9x6WynrWcGxju88Jk61Q5jwH092YFTQY3cQrmcQ8p7J/eegxgkqlPmKr+mngsfCbrbPAEJgwkfd7AFRJsewgry8+jgY4P5z/wFomyCWJ8MCOLdm8zGDwVvhSHwo+Wy016PinBBVIFEe6im9XAb/2DMjYbCH3LNU3Eonb0Q8Jv14HBz4lLtbIBBboW30vdrdCE9xmx7LjIn0iwONc/wxdVMpJofh7vGGiPCjp7SxhfRK+ytdqzSEOAAr+d9r4j4nT6ojOdGbI9zdcZYX7UjzCpW9/4/rikJxTroJd5nrMBVnFusbRDi1WxA29ZX6PQ==;gOea/EC5M36bJWrpQfs/sQ=="
 ---

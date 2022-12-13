@@ -7,8 +7,8 @@ originalUrl: "https://www.securityinfowatch.com/cybersecurity/information-securi
 webUrl: "https://www.securityinfowatch.com/cybersecurity/information-security/press-release/21289708/symphony-ai-symphonyais-sensa-financial-crime-prevention-solution-to-be-available-in-microsoft-azure-marketplace"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Security
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "SymphonyAI strengthens Microsoft collaboration, makes Sensa financial crime prevention solution available in Microsoft Azure Marketplace"
+    excerpt: "SymphonyAI, a leader in high-value enterprise AI SaaS for strategic industries, announced today it is expanding its role as a Microsoft"
+    publishedDateTime: 2022-12-13T14:49:00Z
+    webUrl: "https://enterprisetalk.com/news/symphonyai-strengthens-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace/"
+    ampWebUrl: "https://enterprisetalk.com/news/symphonyai-strengthens-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/symphonyai-strengthens-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 56
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/12/SymphonyAI-strengthens-Microsoft-collaboration_-makes-Sensa-financial-crime-prevention-solution-available-in-Microsoft-Azure-Marketplace.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "SymphonyAI’s Sensa financial crime prevention solution is now available on Microsoft Azure Marketplace"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2022-12-13T07:12:00Z

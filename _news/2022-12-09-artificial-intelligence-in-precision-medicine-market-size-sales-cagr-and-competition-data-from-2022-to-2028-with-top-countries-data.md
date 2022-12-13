@@ -72,20 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market Size 2022 - 2028 Regional development, deployment, growth factor, production cost."
-    excerpt: "Dec 08, 2022 (Reportmines via Comtex) -- Artificial Intelligence has been around for over 50 years, but its applications in healthcare have only recently begun to be explored. Healthcare is a $3 ..."
-    publishedDateTime: 2022-12-08T21:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-2022---2028-regional-development-deployment-growth-factor-production-cost-2022-12-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The Neural Network Software market research report forecasts market size by type, application, and region."
     excerpt: "The “ Neural Network Software market research report\" main objective is to give Neural Network Software market players an understanding of the post-COVID-19 effect so they can evaluate their business plans."
     publishedDateTime: 2022-12-12T15:38:00Z

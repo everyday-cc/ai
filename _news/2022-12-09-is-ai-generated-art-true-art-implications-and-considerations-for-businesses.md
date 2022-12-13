@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/09/is-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/09/is-ai-generated-art-true-art-implications-and-considerations-for-businesses/amp/"
 type: article
 quality: 85
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 69
-  - title: "Artificial intelligence creating new value-generation ways for operators of infrastructure networks"
-    excerpt: "The use of artificial intelligence (AI) techniques in the operation of infrastructure networks and within industries is leading to new ways of generating value for the companies and the users, says AI solutions company ExploreAI CTO Aidan Helmbold."
-    publishedDateTime: 2022-12-08T21:59:00Z
-    webUrl: "https://www.engineeringnews.co.za/article/ai-use-in-infrastructure-industry-leading-to-new-ways-to-add-value-2022-12-02"
-    type: article
-    provider:
-      name: Engineering News
-      domain: engineeringnews.co.za
-    quality: 23
-    images:
-      - url: "https://cdn.creamermedia.com/assets/articles/images/resized/0001034681_resized_untitled1.jpg"
-        width: 1022
-        height: 575
-        isCached: true
 
 secured: "CKGS2c0x6ZxvazL2fbiKtuBmxFl3VH1jFUqfy28O1udPVOiZ6Qz0Q/XLSwNjvJnd4eMB+g7D53JY6MbLRmLNkvh7HAOjdrkedWqTWHK0qZ1bmn/WYnLibRH9PfJaFkObf5ZAUG3PD0VwTfoVk/KgcqVY2m2eLYAM3JdHqTPH/BArs0VNaZXlPXsnTfiQ0G4g339KPXxkeVyo38MqKjBS1opWgDyTwXbbwSHgW8x2fNU35N31PAZZUewj0O9KnnkR/GVMaJRtJMOoW1nyMAeCgVpKdhUOMr3tdT+6yNRkGSFNZPbU3r2MaqHeKab1LWgfZDjKu2uEbwurfxyYe5aSF0rS5iZx7henRBl+UU5BAZBsKdoIEKLTUpMrdRcnCsGU8/ix0Y83xT0kTYdfbumE2JEzWECp2wa2Q/FwDQEVNXh7s+9YAIlFJc/mLJX/QjS0v9qq/zRysyOFpeETI9Ti03WABxYfYu9Tu3i0OF1oGDrbsy7fWaSJa3luh3yB2kKplqkxRaF4MatUi87abbVgRg==;QvEeEpWt5NCejRccjw8giA=="
 ---

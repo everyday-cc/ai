@@ -26,37 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition attendance for teachers, students in state"
-    excerpt: "Uttar Pradesh government has rolled out a facial recognition-based teacher and student attendance monitoring system for public schools in the state."
-    publishedDateTime: 2022-12-11T03:09:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/lucknow/facial-recognition-attendance-for-teachers-students-in-state/articleshow/96143984.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/lucknow/facial-recognition-attendance-for-teachers-students-in-state/amp_articleshow/96143984.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/lucknow/facial-recognition-attendance-for-teachers-students-in-state/amp_articleshow/96143984.cms"
+  - title: "Emergent color categorization in a neural network trained for object recognition"
+    excerpt: "Color is a prime example of categorical perception, yet it is unclear why and how color categories emerge. On the one hand, prelinguistic infants and several animals treat color categorically. On the other hand,"
+    publishedDateTime: 2022-12-13T16:08:00Z
+    webUrl: "https://elifesciences.org/articles/76472"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
+      name: eLife
+      domain: elifesciences.org
+    quality: 66
     images:
-      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1070
-        height: 579
-        isCached: true
-  - title: "Uttar Pradesh to start marking school attendance using facial recognition"
-    excerpt: "Uttar Pradesh government has started a facial recognition-based teacher and student attendance monitoring system for the public schools in the state. The artificial"
-    publishedDateTime: 2022-12-11T04:10:00Z
-    webUrl: "https://www.businessinsider.in/india/news/uttar-pradesh-to-start-marking-school-attendance-using-facial-recognition/articleshow/96145648.cms"
-    ampWebUrl: "https://www.businessinsider.in/india/news/uttar-pradesh-to-start-marking-school-attendance-using-facial-recognition/amp_articleshow/96145648.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/india/news/uttar-pradesh-to-start-marking-school-attendance-using-facial-recognition/amp_articleshow/96145648.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 58
-    images:
-      - url: "https://www.businessinsider.in/thumb/96145715.cms?height=275&width=412"
-        width: 412
-        height: 275
+      - url: "https://elifesciences.org/assets/images/social/icon-600x600@1.75dbe4c9.png"
+        width: 600
+        height: 600
         isCached: true
 
 secured: "dKbVntNJ2bzjit2dcft3gRh9DYuhocWVjrfiAKS6/QIYq1shftgP0Rl+Rh6zfFCAUFMq3WWQM05Z1r7BQhckvIjezntl3L8kneXs9749infyPzr/BWa4pCVm4k43u7D1dnVNvjJixFGmdtgm77kUskDPI4IwphI5XcGw8vZhlp/U0AJpSxIAGGprZnsvo2gWNpqNJD+wgJD0CKIlJFJqlz2CUbz4fUau6lVM4pDkg0/5glOzeoQWqUOK1WLYct84zmkWcdBcNQaW+IvPpHjQIxffnK8w4FjIZLZONvCBoyvdgegJRON64XAJ3jwu1NTVoHVLZ92zoH+9n5Bvmhy5BM0VXaZt7JHmnp2indw594A=;7Dz2PpA1wkZQ4b2q435ZlA=="

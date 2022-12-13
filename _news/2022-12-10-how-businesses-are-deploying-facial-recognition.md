@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wuwm.com/economy-business/economy-business/2022-12-09/ho
 cdnAmpWebUrl: "https://www-wuwm-com.cdn.ampproject.org/c/s/www.wuwm.com/economy-business/economy-business/2022-12-09/how-businesses-are-deploying-facial-recognition?_amp=true"
 type: article
 quality: 59
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -113,6 +113,15 @@ related:
     provider:
       name: acm.org
       domain: acm.org
+    quality: 19
+  - title: "Genesis launches face recognition entry"
+    excerpt: "Claimed world first face recognition technology for keyless entry is among a number of new features for the 2023 edition of Genesis’ electric GV60 SUV. Digital key and air purification systems are also among the available upgrades."
+    publishedDateTime: 2022-12-13T12:25:00Z
+    webUrl: "https://www.just-auto.com/news/genesis-launches-face-recognition-entry/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
     quality: 19
 
 secured: "GXg5RR5hzYk2IIy3N4RpQNRvBitX01V5Kmh8i0YN5Nn1fZsWo9HgD6T9AMQGCaoJDPt9chH59KRH/DHPcY/EbbW2lyO5gEATGPsxG2v1KwAtHJZQz0ZUn5GQCQPmABHOEqxsU1jSmFWZX2YgsjwqxgBbw0ozBTAHrslwwPdNl4QKNcGCMfWuxRSVrdmp+uuqxOEGyp7fkd8udU603PlmZ8ME6YeQUCZTnemt5JHu1Iqf4H/EaRirEKA6YFWLMqvZvwG2PU5SzUOKxiZfpnMdUwDPAznHpmd1oOkJr9fXQU00lM0NQReNSauu7GUC89MEnfQvAvAhpHur10/YUOo+TVHi+PExMxXMtEgqZMy+kkA=;jMC3hJR+hf4+pZ1CcWKBlg=="

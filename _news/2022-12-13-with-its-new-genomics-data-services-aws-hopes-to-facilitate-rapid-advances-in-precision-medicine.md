@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-13T13:36:00Z
 originalUrl: "https://www.aha.org/aha-center-health-innovation-market-scan/2022-12-13-its-new-genomics-data-services-aws-hopes-facilitate-rapid-advances"
 webUrl: "https://www.aha.org/aha-center-health-innovation-market-scan/2022-12-13-its-new-genomics-data-services-aws-hopes-facilitate-rapid-advances"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: aha.org

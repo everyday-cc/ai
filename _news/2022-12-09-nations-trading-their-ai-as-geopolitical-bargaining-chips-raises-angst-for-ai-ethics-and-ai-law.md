@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Artificial intelligence creating new value-generation ways for operators of infrastructure networks"
-    excerpt: "The use of artificial intelligence (AI) techniques in the operation of infrastructure networks and within industries is leading to new ways of generating value for the companies and the users, says AI solutions company ExploreAI CTO Aidan Helmbold."
-    publishedDateTime: 2022-12-08T21:59:00Z
-    webUrl: "https://www.engineeringnews.co.za/article/ai-use-in-infrastructure-industry-leading-to-new-ways-to-add-value-2022-12-02"
-    type: article
-    provider:
-      name: Engineering News
-      domain: engineeringnews.co.za
-    quality: 23
-    images:
-      - url: "https://cdn.creamermedia.com/assets/articles/images/resized/0001034681_resized_untitled1.jpg"
-        width: 1022
-        height: 575
-        isCached: true
 
 secured: "JmUw2BSLg9NQBCsA/zTiT6JcJVDVHlVICdrgg2nMXBEatzWWYLEntWvpvKQSCgQylc5/9ueaWLZ+0mp4k5FOqTZHARStB4uHosrZl9dGrVdMvcNHQ7Gcpv3od2/nVO8rw4fXv8qkQIxKAQw9OD03IVDKUisqWUWZ5rreh48aWj+5a/8EZjXOcOO2lLQ+rbByqRdspD9KfqouxOqUyPZCGDdLZ0bS6P1K2Ny5cPSJUot5UF/rIauT0KlWkM6lajS/leU5E3Tv5PfDWAVzj9UR3h78IHpeeZlpKcJ7/qi/0qxpF7/15qcmNYyI/2lY8+HcUl9FeP3qGPTZeKCP1p9UBM/D6QflFjKUQRI8JMoMff2YeBR8u9ZSQE8hWnTSKqqFA+qIlzPEwXy22vCH74zcGEOaM5qIaMZPRIypCllE5iQ95o0AfgICJaKZRIOw5vTP8YMMKmoCsYT8+n7MR5GdjzytfkjxLuqL7ZZpYBxtC6563VtGBZVwgs2eBpt10lHBiTU103qZOXlPNb6ANvzdXw==;POXxo8NKGqXWtU0Hyk8j0A=="
 ---

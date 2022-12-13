@@ -43,6 +43,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Bolstering the safety of self-driving cars with a deep learning-based object detection system"
+    excerpt: "Self-driving cars need to implement efficient, effective, and accurate detection systems to provide a safe and reliable experience to its users. To this end, an international research team has now developed an end-to-end neural network that,"
+    publishedDateTime: 2022-12-13T16:45:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/12/221212140800.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 40
   - title: "Apple Ditching Innovation In Favor Of Pragmatism With MR Offering, Self-Driving Car, Gurman Says"
     excerpt: "Two products in Apple Inc.’s (NASDAQ: AAPL) pipeline have seen delays and a new report suggests that the company is compromising on innovation just to get these two p"
     publishedDateTime: 2022-12-12T11:03:00Z
@@ -86,6 +95,20 @@ related:
       - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/12/MM_THumb.639761bf95989.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Technology behind self-driving cars has reached a stalemate"
+    excerpt: "The progress of autonomous vehicles in recent years is negligible. Investors are now starting to pull out and manufacturers are shutting down, all while Tesla struggles with an increasing number of fatal accidents."
+    publishedDateTime: 2022-12-13T14:40:00Z
+    webUrl: "https://ing.dk/artikel/technology-behind-self-driving-cars-has-reached-a-stalemate-264079"
+    type: article
+    provider:
+      name: ing
+      domain: ing.dk
+    quality: 24
+    images:
+      - url: "https://ing.dk/sites/ing/files/styles/large/public/illustration/2022/12/bigstock-car-with-punctured-flat-tire-p-450582011.jpg?itok=-pO1Askr"
+        width: 480
+        height: 320
         isCached: true
   - title: "Tough road ahead: Self-driving cars are taking off in the US, but Australians might be waiting a while yet"
     excerpt: "More self-driving cars are hitting the road in America, letting drivers relax behind the wheel. But when will Australians be driven around by their own cars?"

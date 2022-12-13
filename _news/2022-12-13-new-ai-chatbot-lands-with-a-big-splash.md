@@ -42,19 +42,12 @@ related:
   - title: "Becoming a chatbot: my life as a real estate AI’s human backup"
     excerpt: "For one weird year, I was the human who stepped in to make sure a property chatbot didn’t blow its cover – I was a person pretending to be a computer pretending to be a person"
     publishedDateTime: 2022-12-13T05:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/dec/13/becoming-a-chatbot-my-life-as-a-real-estate-ais-human-backup"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/dec/13/becoming-a-chatbot-my-life-as-a-real-estate-ais-human-backup"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/dec/13/becoming-a-chatbot-my-life-as-a-real-estate-ais-human-backup"
+    webUrl: "https://www.theguardian.com/technology/2022/dec/13/becoming-a-chatbot-my-life-as-a-real-estate-ais-human-backup?ref=upstract.com"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/4cb83fb37dcb0ee9f56bec8d6c894951782066a4/495_608_5670_3401/master/5670.jpg?width=620&quality=85&auto=format&fit=max&s=fe842cee56391de90459ff75c3447efe"
-        width: 620
-        height: 372
-        isCached: true
+    quality: 17
   - title: "Artificial intelligence chatbot can code, compose music, write essays, and more"
     excerpt: "We will increasingly have conversations with our computers to get the information we need or get them to do what we want them to do."
     publishedDateTime: 2022-12-12T14:00:00Z

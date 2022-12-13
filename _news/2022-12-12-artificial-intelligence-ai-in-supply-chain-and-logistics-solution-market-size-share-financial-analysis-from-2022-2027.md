@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market Size 2022 - 2028 Regional development, deployment, growth factor, production cost."
-    excerpt: "Dec 08, 2022 (Reportmines via Comtex) -- Artificial Intelligence has been around for over 50 years, but its applications in healthcare have only recently begun to be explored. Healthcare is a $3 ..."
-    publishedDateTime: 2022-12-08T21:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-2022---2028-regional-development-deployment-growth-factor-production-cost-2022-12-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Precision Medicine Market Size, Sales, CAGR And Competition Data from 2022 To 2028 with Top Countries Data"
     excerpt: "\" Artificial Intelligence in Precision Medicine Market \" Insights 2022 - By Applications (Oncology, Neurosciences, Immunology, Respiratory), By Types (Hardware, Software, Services), By Segmentation analysis,"
     publishedDateTime: 2022-12-09T01:21:00Z

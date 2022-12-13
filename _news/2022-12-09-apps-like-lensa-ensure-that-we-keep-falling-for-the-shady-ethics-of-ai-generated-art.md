@@ -132,20 +132,6 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
-  - title: "Lensa AI Created a Viral Meme, But How Legal Is It?"
-    excerpt: "Social media has been inundated with AI-generated selfie portraits from Lensa AI's new magic avatar feature. Now, artists cite it as another example of how AI technology is engaging in copyright infri"
-    publishedDateTime: 2022-12-08T21:41:00Z
-    webUrl: "https://www.law.com/legaltechnews/2022/12/08/lensa-ai-created-a-viral-meme-but-how-legal-is-it/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 41
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2022/12/Artificial-Intelligence-Portrait-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "Image Apps Like Lensa AI Are Sweeping the Internet, and Stealing From Artists"
     excerpt: "Artists] are often in the position to justify our profession, and every time something like this comes… we feel angry, frustrated, and exhausted,” she said. “After everything that’s been going on, I mainly feel exhausted and powerless,"
     publishedDateTime: 2022-12-10T07:42:00Z

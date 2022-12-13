@@ -137,6 +137,20 @@ related:
         width: 800
         height: 800
         isCached: true
+  - title: "OpenAI is developing a watermark to identify work from its GPT text AI"
+    excerpt: "A cryptographic tool inserts a detectable signature in the words produced by OpenAI’s text-generating artificial intelligence models. It could help teachers stop students using AIs to do their homewor"
+    publishedDateTime: 2022-12-13T15:20:00Z
+    webUrl: "https://www.newscientist.com/article/2350655-openai-is-developing-a-watermark-to-identify-work-from-its-gpt-text-ai/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2022/12/13111159/SEI_137401110.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "IxHxdv1NrXk/yhetvyab9vyXukFkhEy5dmbN+kTyHAfjFB/Fsl2lqdGDVzKJ4vj5Fdu5/3HFI7cYorOg3R+EYu3xEM+PBvHearq9JL2h3G7RxkQ06QwEYPtBlPSAfe5yuJvNFyK+NAJyXz16Sb0vlDBUdD+RwnwA4uuk5BeDlrRVjyFzqdymrY1MmQUOAGILEXCOzNJzo4LxPHap44/Zkh1gBcxVXkYiobzCf4sczzQsa/5lvcljGw+TTlflrAIXaJltBt0/nkWIRhL+ytvCDg1Yu5Sksd5kEDVyTQIq0KIQW+jnsp8ziab4X5G7VqW9mWAgZ9QXIUqD785kyw8gi2Qt5oj5Ygq3L7w0A6eXeLIf39TkjN15r+LPayZeYaFhhlmOMBbFstmluk15E8/x8bJ4lvJHic9HnLyTNXpFUmBTg7EYpFsUVUb6QdjSfnGVokH2Jkp4NwBOehA2UZqbAjSyiY5F0E0wwv5hYaRi1yrCGbqnpfK0BVngtqGiAGNPDbRIewlAbjANoeyWiTQmVQ==;t+p6U4WS4pe+WFYrt15qPQ=="
 ---

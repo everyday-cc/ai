@@ -3,27 +3,27 @@ category: news
 title: "Robots are coming for the lawyers –which may be bad for tomorrow's attorneys but great for anyone in need of cheap legal assistance"
 excerpt: "While technology has been nibbling around the edges of the legal profession for some time, it’s hard to imagine those complex tasks being done by a robot. And it is those complicated, personalized tasks that have led technologists to include lawyers in a broader category of jobs that are considered pretty safe from a future of advanced robotics and artificial intelligence."
 publishedDateTime: 2022-12-11T00:02:00Z
-originalUrl: "https://madison.com/news/science/article_8c91d731-c768-54b8-8e65-acc804979c6b.html"
-webUrl: "https://madison.com/news/science/article_8c91d731-c768-54b8-8e65-acc804979c6b.html"
+originalUrl: "https://www.stltoday.com/news/science/robots-are-coming-for-the-lawyers-which-may-be-bad-for-tomorrows-attorneys-but-great/article_42077328-c253-56ac-b5ea-792789b6f659.html"
+webUrl: "https://www.stltoday.com/news/science/robots-are-coming-for-the-lawyers-which-may-be-bad-for-tomorrows-attorneys-but-great/article_42077328-c253-56ac-b5ea-792789b6f659.html"
 type: article
 quality: 9
 heat: 9
 published: false
 
 provider:
-  name: Madison.com
-  domain: madison.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/custom/image/ce2dd33a-7a28-11ed-bbcf-032e1181320a.png?resize=600%2C315"
-    width: 600
-    height: 315
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/2/81/281394b7-6f6d-565e-963f-79b036658d02/6398a8b83430e.image.png?resize=638%2C430"
+    width: 638
+    height: 430
     isCached: true
 
-secured: "iNpbH1ScbxBf2fzTgL9ulPKco4zYJBksO9K2hP9yB5PgQfWcBPFTzIDJQHRYo7PbxAh5XYw1ghfDoBXOSBX0qBLXmVmqZ1hZPacfVNop6cRygn5Gd73QfVTYuslz6pGTWU+xqTX8s/LSMettaAfdxAmyBX1wkYJF7sKo0u0X7CTCxd9yeM5u+38c/eh9z13ttFtPvYZtZYGNppxSMW5nGar/IJElOYKJx+JfSif7iCIrKFDRqEYSE88Fp9tYL4/Oub6X4FpWc1qMbdLni7pgKZv/n6B6TzCmAB8fprfHed4AXo44BRiMq4VNxig+eD50bsh9lz9Fkguw+xlmPMluisjNO3AArAygaleGFbeXj9IYAA0HTUClz3eBjs/SexdxP4Te2+L2vW80KQl2BG9YBOJ4PVVNdnXaeKu0AEtf7I9v5cUtVgZo0WjQHSYdHSmC7+59EwulEOwnxyjW+rdq438UpxualH1aIlNcR1VCetRvL1BxB1HoAW+//WLDQWpX5Lc1/FdzIMPuU0memvB4EA==;K2KuNTXzFzPkZX5KpQ8cew=="
+secured: "K3lf9vGhEpJKMr+G3YAxUQr2eAXWZXraheOG70mY0xinB0cXyZfEIernTwaPJtAvoFLWjWBTTLukRAeJiiR8/NzAFJDpTv19HrClKLx/+0Yi68LensJADklYBwh/+BJMabvEspBJlsM0e918xWNg8PGXtONEd5TR0iCIZvWvlYfq6gflYmn2gI0Cam/cjh+sowmhhm4UYdzMCH+8uu+Axy8+ezRCBf1zsJFTEL11yDdnLjAC3retSCH0oEyPfHTnY4BHmga06R/3VkgcI4WTtKLdBzlEAe/wMS/Me5ypdls29yFLa9ohzPpvr5q+C7fzj+sSwsyd5euXGLuVlr6r8vpfP1M6jswnJouXCWNXlPU=;46fmtx/LAM9hY5Vv40RF4w=="
 ---
 

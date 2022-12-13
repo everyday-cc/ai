@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind’s latest AI project solves programming challenges like a newb"
-    excerpt: "On an average challenge, the AI system was able to score near the top half of participants. But it had a bit of trouble scaling, being less likely to produce a successful program on problems where more code is typically required."
-    publishedDateTime: 2022-12-08T21:15:00Z
-    webUrl: "https://arstechnica.com/science/2022/12/deepminds-latest-ai-project-solves-programming-challenges-like-a-newb/"
-    ampWebUrl: "https://arstechnica.com/science/2022/12/deepminds-latest-ai-project-solves-programming-challenges-like-a-newb/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2022/12/deepminds-latest-ai-project-solves-programming-challenges-like-a-newb/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 104
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-521369998-800x522.jpg"
-        width: 800
-        height: 522
-        isCached: true
   - title: "DeepMind's AlphaCode attains 'average' rating in programming competition"
     excerpt: "A team of researchers at DeepMind has tackled another difficult task—generating computer code to satisfy a natural language request. In their paper published in the journal Science, the group describes the approach they used in creating their AI app and outline how well it did when pitted against human programmers."
     publishedDateTime: 2022-12-09T15:30:00Z
@@ -57,29 +41,36 @@ related:
         width: 1920
         height: 1282
         isCached: true
-  - title: "DeepMind creates AI tool that generates rough film, stage scripts"
-    excerpt: "Dramatron will generate film titles, characters, settings and dialogues, using plot story that has been written in"
-    publishedDateTime: 2022-12-11T06:29:00Z
-    webUrl: "https://tribune.com.pk/story/2390604/deepmind-creates-ai-tool-that-generates-rough-film-stage-scripts"
+  - title: "DeepMind’s AlphaCode Conquers Coding, Performing as Well as Humans"
+    excerpt: "AlphaCode paves the road for a novel way to design AI coders: forget past experience and just listen to the data."
+    publishedDateTime: 2022-12-13T15:00:00Z
+    webUrl: "https://singularityhub.com/2022/12/13/deepminds-alphacode-conquers-coding-performing-as-well-as-humans/"
+    ampWebUrl: "https://singularityhub.com/2022/12/13/deepminds-alphacode-conquers-coding-performing-as-well-as-humans/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/12/13/deepminds-alphacode-conquers-coding-performing-as-well-as-humans/?amp=1"
     type: article
     provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 59
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2022/12/code-g59512838a_1280.jpg"
+        width: 1068
+        height: 601
+        isCached: true
+  - title: "DeepMind’s AlphaCode is Now Available on GitHub"
+    excerpt: "AlphaCode has already made waves through its potential to beat computer programmers by analysing algorithm and generating complex programmes."
+    publishedDateTime: 2022-12-09T09:34:00Z
+    webUrl: "https://analyticsindiamag.com/deepminds-alphacode-is-now-available-on-github/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 54
     images:
-      - url: "https://i.tribune.com.pk/media/images/AP7X5BUWQ5JXZL6W6Q23VXJ6FQ1670741708-0/AP7X5BUWQ5JXZL6W6Q23VXJ6FQ1670741708-0.jpg"
-        width: 1200
-        height: 628
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/deep-1.png"
+        width: 1366
+        height: 768
         isCached: true
-  - title: "Alphabet's DeepMind creates AI for drafting film scripts"
-    excerpt: "DeepMind Technologies, part of Alphabet Inc., the parent company of Google, has created an AI that can be used to draft scripts for film and stage plays.  \"Language models are increasingly attracting interest from writers."
-    publishedDateTime: 2022-12-10T12:16:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/alphabets-deepmind-creates-ai-for-drafting-film-scripts-9683811.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 34
 
 secured: "Yr9BGcmxN30lncZjxB7l+GlKmVGp+N9ZUQb/rwZR712I0OD9HSNOsifV6p8CyKr6OtxgD3h7GinnejbF4uFwK03CQnQeVX+xeOStejToxbAlPkhdtpn9OGsbKQIlg+4hvBiuFnLJPX7QlQMrWvVujMkAeWqXK6g0u8rPe+IwmASI6vFPFmUOxvKuDYb0NWtVfiN+67OMgSzFtEmqL6eCgs11TosaQkdQgU3SFgYnHdkDjla2wgG8AhDzMmGrpci3RFSvCO5QtvgHBtZGAYxbNc1ggA7f8Z9/6qmhDXXzyD6E7jIjoizpssSz/8N95Pa8iowuZ8llM3BIyzJYLFk7+fmGd9CGNmYTNev6ihkMmm3kZ9o+j6CMTc/WtAjxOEQd1UYkUO4sU0DsNuUKPI/9wlVTZbglmBeRdMcmbH7sqVwp0Z8hVB9jPL8jBDeH5kaESeatfkxtQW68Z/GfDV/uKtCNqjHYQk/AqZtAmByGgYGC1m/XZ7v/52IhBQWs8wqHPOYgPjUFIVsiiVjfnikzzg==;AnT8L+oFfO0t99505kn0Rg=="
 ---

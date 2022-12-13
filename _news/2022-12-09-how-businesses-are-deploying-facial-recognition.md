@@ -113,6 +113,15 @@ related:
       name: acm.org
       domain: acm.org
     quality: 19
+  - title: "Genesis launches face recognition entry"
+    excerpt: "Claimed world first face recognition technology for keyless entry is among a number of new features for the 2023 edition of Genesis’ electric GV60 SUV. Digital key and air purification systems are also among the available upgrades."
+    publishedDateTime: 2022-12-13T12:25:00Z
+    webUrl: "https://www.just-auto.com/news/genesis-launches-face-recognition-entry/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 19
 
 secured: "HtLdScbkNZBccXwe3llumwQMMi2wy0AN6UoH6ZA0B6oN0aGri0wEFb/pS/Z5Bw5SNpBGsA4SpotBVy4kBGZOqT11Zz7FJzB8byqokBE63rZMACxXbndA4kody8d9Um2F93nzvvvhY8xwKWsInd5O/JRFpIrDDyKKhsR+uNUuzlHf5x5YauoswAnf2CH7yggQa4H45o3m64DwVStyyMf+lxZv9apbMJj/ptk2tNuVizWWJOUjsTuTHc7pXJy+TpxHERmu/39/MzHmW7oiS1g3ByGnrXsb+aCdB0FN+ObsNgvfCZ+NHUdDBmji78TRn1AyY5OC46IqHTw4HlqT+CfdieRtFsaH9ynCgaelAQSufpM=;vGi0W0FdWyZgn7o0ZBE4SQ=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2022-12-12T15:00:00Z
 originalUrl: "https://www.labiotech.eu/opinion/rare-disease-diagnosis-ai/"
 webUrl: "https://www.labiotech.eu/opinion/rare-disease-diagnosis-ai/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.labiotech.eu/wp-content/uploads/2022/12/AI-rare-disease-diagnostics-Elena-Resko.jpg"

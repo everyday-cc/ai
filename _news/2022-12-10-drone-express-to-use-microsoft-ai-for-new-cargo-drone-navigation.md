@@ -41,6 +41,15 @@ related:
         width: 1199
         height: 682
         isCached: true
+  - title: "NTT DATA Launches Energy Efficiency and Sustainability Solution with e-Magic on Microsoft Azure"
+    excerpt: "The end-to-end solution utilizes Azure digital twin technology to reduce carbon footprint and increase efficiency NTT DATA, a global digital business and IT services leader, today announced an end-to-"
+    publishedDateTime: 2022-12-13T13:06:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/12/b30058907/ntt-data-launches-energy-efficiency-and-sustainability-solution-with-e-magic-on-microsoft-azure"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
 
 secured: "joaB6VvPEBqUZdjKG2dw1q3jks1Ksh7o8TpLqSGValw4y4+O+cjbIKle3Z8pbtShoDMuJDKpa+OKI54c1c9RW5Th9BHj1K4B6/1XdvR1F4RSsK/YRVF+/USW+94E0dyX+tZ41IgTzYydf5M6ZJbJQcbWwqoNNOgVNE0DKx21Sa5mn5f+EmGOK+3VtBYhJ1ecz7R8QRMDknrxBxT+tntFVOQ1igucjZzqj3ZFa9NPZuT5PI2SMcsBRON2aSkUgy5ce52Xa4YAiXdT7t4kEUI7n7hChsGsS2llxQfUszYQ8D/ukub8PSSqnJ63vs2GKqdVnEh7l7BQT6d+wlmoq0ly6XfJKe86xqDlgiyeWZPOWyY=;EaDO+njwTix9Y/2r+yIlow=="
 ---

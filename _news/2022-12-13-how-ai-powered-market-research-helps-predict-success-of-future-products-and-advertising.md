@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-13T13:00:00Z
 originalUrl: "https://venturebeat.com/ai/how-ai-powered-market-research-helps-predict-success-of-future-products-and-advertising/"
 webUrl: "https://venturebeat.com/ai/how-ai-powered-market-research-helps-predict-success-of-future-products-and-advertising/"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: VentureBeat

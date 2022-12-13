@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-13T14:08:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/koch-engineered-solutions-and-percepto-offer-customers-ai-powered-technology-for-emissions-monitoring-and-reduction-1031969228"
 webUrl: "https://markets.businessinsider.com/news/stocks/koch-engineered-solutions-and-percepto-offer-customers-ai-powered-technology-for-emissions-monitoring-and-reduction-1031969228"
 type: article
+quality: 25
+heat: 25
+published: false
 
 provider:
   name: Business Insider

@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/gilpress/2022/12/13/first-ever-ai-video-pl
 ampWebUrl: "https://www.forbes.com/sites/gilpress/2022/12/13/first-ever-ai-video-platform-integrating-text-generated-image-and-animation/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/12/13/first-ever-ai-video-platform-integrating-text-generated-image-and-animation/amp/"
 type: article
-quality: 85
-heat: 85
+quality: 87
+heat: 98
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Digging Into The Buzz And Fanfare Over Generative AI ChatGPT, Including Looming AI Ethics And AI Law Considerations"
+    excerpt: "Here is your insider look at why Generative AI such as ChatGPT has garnered worldwide attention, including both applause and disdain. Included is an indication of the AI Ethics and AI Law considerations."
+    publishedDateTime: 2022-12-13T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/12/13/digging-into-the-buzz-and-fanfare-over-generative-ai-chatgpt-including-looming-ai-ethics-and-ai-law-considerations/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 42
 
 secured: "olQR+yUDeNyzReq62RaJBo0EBLTKT5OEV2UPBB9b6ES7mbex/5aFAwmKX4iHCi7ck8W1p/kFaNf8w8b66ulc8TFEC4DRaWTQ+Yr6Ny6A2ViWUS+8iNJO0Oby86tgwSTucnz+2LLhKrPmC0A8ZRU6EkQLRBbQGnWkvaF6YGPkM26dpu37Ygso1ujVetyjUKru7pI0j9ELxUBl56phO/d+FBIn9cgSEzchTg5+Ya5FYBuDw2PvEx0rlAODcx+psY8/pMs7z1RvgfQmoLjwlZkIs8Avus/CD5baqgBi6XVcONGqOyH1NnbXRy/yMq2U7Ex8XIFyeW1uY/KghcgPA+s7YBecQ5kMHyEZxtSUD8eIYPz+OZxc8vXsK3GyAIHTrXi6Y8cDqF3a+P1R1875SXRBLi3Uj1fOf1VnLsjCR4Uc9lbEUiSfCo9xxD2PI2TNQWp8H6RikNfdmNgtP2L7aSwWrVFNck1EdV9VEGJQMFLFaWRcDAg6sAZgj44vJ1gLzFC/RXtQhL3SDHkF4BPh33R7eg==;Xl8lbr22poTgRKfgrx86gQ=="
 ---

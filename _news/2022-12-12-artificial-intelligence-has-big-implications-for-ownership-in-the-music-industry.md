@@ -56,20 +56,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 69
-  - title: "Artificial intelligence creating new value-generation ways for operators of infrastructure networks"
-    excerpt: "The use of artificial intelligence (AI) techniques in the operation of infrastructure networks and within industries is leading to new ways of generating value for the companies and the users, says AI solutions company ExploreAI CTO Aidan Helmbold."
-    publishedDateTime: 2022-12-08T21:59:00Z
-    webUrl: "https://www.engineeringnews.co.za/article/ai-use-in-infrastructure-industry-leading-to-new-ways-to-add-value-2022-12-02"
-    type: article
-    provider:
-      name: Engineering News
-      domain: engineeringnews.co.za
-    quality: 23
-    images:
-      - url: "https://cdn.creamermedia.com/assets/articles/images/resized/0001034681_resized_untitled1.jpg"
-        width: 1022
-        height: 575
-        isCached: true
 
 secured: "PJKjY8505kR+ZK9AvhLWRBwqqcyr2axu2h2tJ60/EL2foYqiuZZk8w8MKalJ/afkZFzkXmoVWZ99ywdAOGyiFHXgTvVNvmLinH3bKbcrEFoCh04eFbjmXIpLdVWUIzRJfdghQ/9nhucHu8OghVPkSQ4KniJHrD/sXY8P7VS/Blv91HWKscllcTKmCbhg57CxN+Q2eNUeXYeIiyo2gTYRkbxSHWRGaFfRfI7sQ2G3vEccks678Kgh2tctvX7gcuBZU2WQVnaLx9J5ah7f/YIgSXErWpkAXk6dxkK3Z0hKQjHz9wDefnjgnYRxYYKMDUX23GJdXwloPoGg/e3bCzKt8W0MTXXmHCy9X6mWf8VSV6eF6qEFDJ1+d4SXy8NftKxaapTE57/6cBWBhOAyXkQLv3bDLlYLp82xFOKU7HeR6rMoOabsIpUCVIzFvAS56aujSrSRb/9rLq1xa5sTopoZLcObWN7frI6dbOvF65VSsuWd+1pPEAFupQPBmJCmw3VPyuGyocHMmjEKDpqjF3mNyA==;5h+mCPuUQwmuP21yygCvYg=="
 ---

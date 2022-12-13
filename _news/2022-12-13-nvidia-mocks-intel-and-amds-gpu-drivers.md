@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-13T10:59:00Z
 originalUrl: "https://www.fudzilla.com/news/55990-nvidia-mocks-intel-and-amd-s-gpu-drivers"
 webUrl: "https://www.fudzilla.com/news/55990-nvidia-mocks-intel-and-amd-s-gpu-drivers"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Fudzilla

@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-13T05:36:00Z
 originalUrl: "https://www.supplychainbrain.com/blogs/1-think-tank/post/36256-dont-fear-ai-supply-chain-leaders-need-it-to-be-agile"
 webUrl: "https://www.supplychainbrain.com/blogs/1-think-tank/post/36256-dont-fear-ai-supply-chain-leaders-need-it-to-be-agile"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Supply Chain

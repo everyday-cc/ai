@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alexlazarow/2022/12/10/the-future-of-fi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexlazarow/2022/12/10/the-future-of-fintech-according-to-ai/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 159
 published: true
 
 provider:
@@ -103,6 +103,24 @@ related:
         width: 1050
         height: 700
         isCached: true
+  - title: "Artificial Intelligence and the Future of Travel"
+    excerpt: "Today’s podcast looks at travel and artificial intelligence, Air Asia’s new airline, and e-visa roadblocks in Africa."
+    publishedDateTime: 2022-12-12T09:48:00Z
+    webUrl: "https://skift.com/2022/12/12/artificial-intelligence-and-the-future-of-travel/"
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 19
+  - title: "UAE fintech Xare to set up regional HQ in Silicon Valley in bid for global expansion"
+    excerpt: "The startup will house part of its product management and marketing teams from the US office for its global operations UAE fintech Xare to set up regional HQ in Silicon Valley in bid for global expansion fintech,"
+    publishedDateTime: 2022-12-13T12:52:00Z
+    webUrl: "https://www.arabianbusiness.com/abnews/uae-fintech-xare-to-set-up-regional-hq-in-silicon-valley-in-bid-for-global-expansion"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 0
 
 secured: "hTEaJmhFfPVmi26k9si2uIy4DzhhP8mk3hR2f/33860F3sY5T8voz5ksDZywBU+cd7ZBiyWwdjEKey0YSaSp28+r/Q7FNdOBVlpOP2CL18OyczxJ8rv2U6Bnvc1z+4AuRYpRHYb9KH2b+XARNJDQ9kvkO6N6P3ODr4k1SzVAobu1OGN+dvhjBlxB8wV8i0yIxXnNRyYr0yWIdF9uYQJTcEVNLmA/bNlWLNlhFrR+nFriy5unfFTyaxmqMKNnpoIet2jUpIVaf+c1rP5/6BTlMKAMpMRrPGOWbOAqf2uGjTisp6ns+SV5Ru25mR6YUNp4uz5pdQlVtVfVHLq4v3Wmc0n47yDsroyk3OVnTKYZCrnlRdTZYfnx7FB9WR60096Z/cYSAID7INGbDfNtQ9HJih4AxXHfJH46002QWbIY9mJshp8KljiteHyJ567NzKWdmJ3tkxaoMeWo2j213HEhkahJOkbqOypH6hk2RMWGxynigVOXerklttaeBStOMZWzRQbCB5iVSSufniY10217MQ==;kWWKHm+AFnFBR4yleQXbIg=="
 ---

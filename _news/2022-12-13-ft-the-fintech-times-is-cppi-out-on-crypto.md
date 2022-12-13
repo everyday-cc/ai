@@ -99,6 +99,24 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Artificial Intelligence and the Future of Travel"
+    excerpt: "Today’s podcast looks at travel and artificial intelligence, Air Asia’s new airline, and e-visa roadblocks in Africa."
+    publishedDateTime: 2022-12-12T09:48:00Z
+    webUrl: "https://skift.com/2022/12/12/artificial-intelligence-and-the-future-of-travel/"
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 19
+  - title: "UAE fintech Xare to set up regional HQ in Silicon Valley in bid for global expansion"
+    excerpt: "The startup will house part of its product management and marketing teams from the US office for its global operations UAE fintech Xare to set up regional HQ in Silicon Valley in bid for global expansion fintech,"
+    publishedDateTime: 2022-12-13T12:52:00Z
+    webUrl: "https://www.arabianbusiness.com/abnews/uae-fintech-xare-to-set-up-regional-hq-in-silicon-valley-in-bid-for-global-expansion"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 0
 
 secured: "qzRVQ/UYq98gGEiVk0ZQ94AdBZDS40PFer3d7Ch/4d2iylPgev82xZIy53fXP/G84jpicID7/hsK2fjoz3sCwORu7pAqTCnMzO2xT0pjJrwsnb424cY/58eldBHcdApjQ4oq7T7ra5Hb1G7WL5eMyYlSImeQpKX9QdkyvW51vAwSokt1+/Kgha/I44CaBHrN0eWb++Az0Z4U/X5wpzPNgfvW2kaUSHhYWnyfZQ21CF3uDybl1nvgTK3Fco/zqwsV7Sjmjmbi/op4cuDZGnCkTGNY51hC1z2a+ltWhSVLT8YdPlfUrnYsTYL0XrDWwjT3s4nW4R5SIWrYDmqvQynx8Ji2UoyNR09WLUv0IFpMP/BAjgZfHeILfckOpG3kDwTTyd4+CGMQbseiHs00Tt4tOJvEHYl6emrzHc/S4XvEo4Vw0tjGXvGvUIOIPm+hBEv7Md3FZ2J+w0c+4JadFyXiCx+E3e40ZOGRduMgjN6NbOunsG62mhDdjA5gRKT/YVIIZrCJcVLTn901ACINocVWng==;9sDC0W//tCL5S2X+b+Ddng=="
 ---

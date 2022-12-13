@@ -43,20 +43,17 @@ related:
         width: 412
         height: 275
         isCached: true
-  - title: "Horry County Special Education Teacher Receives National Recognition from Education Associates for Career Readiness Achievements in Classroom"
-    excerpt: "Functional Special Education Teacher Emily Scheffler from Horry County Public Schools attended the 2022 National CASE Conference in Salt Lake City to receive the 2 nd Annual Gary Bates Memorial Award."
-    publishedDateTime: 2022-12-09T20:47:00Z
-    webUrl: "https://apnews.com/article/business-education-schools-2bc3e9e00f2a474c888ec6034f8e3448"
+  - title: "Apple granted patent for ‘on-the-fly’ enrollment for facial recognition"
+    excerpt: "Apple has been granted a patent (number 11527107) for “on-the-fly enrollment for facial recognition” It involves system updates for the company’s various devices that would automatically update Face ID features."
+    publishedDateTime: 2022-12-13T14:46:00Z
+    webUrl: "https://www.mactech.com/2022/12/13/apple-granted-patent-for-on-the-fly-enrollment-for-facial-recognition/"
+    ampWebUrl: "https://www.mactech.com/2022/12/13/apple-granted-patent-for-on-the-fly-enrollment-for-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2022/12/13/apple-granted-patent-for-on-the-fly-enrollment-for-facial-recognition/amp/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 6
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: MacTech
+      domain: mactech.com
+    quality: 39
 
 secured: "aDKgrPpTT9+UZOMhVt0fM6xC5B/bgP+R7Rw1w8QQ72i2TOQkQPNa/JIitYEZqDnecagFFUHDhgMjLlBivhJscLx8EkaHzZPLbbLLu0cMdD4qfiXxg1lCJ6JEgXRI/YJHancFol+KR34QQorDhGJjoDNsQ2lEqH2dFI7CRV0Yh+CaZUMdW1/bwvsA1Br+uRm4SBiIf/E82kkOA4w5PFQ702t4QYem+bAfVejQqALXluo4DM/6isu4kshpyFDKicc9uvuAo06dDK9MiNh34ukxZsTmgMkKTUJYdWR4gAqTeFxbLQbtPaaLuIMrNcUKaIYOP09GVLOVQSjThJylkPyFvdXHjQFouqWbab1fyEVQiBQ=;XcRRhiUFcTE43bVc9qROTA=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-13T14:42:00Z
 originalUrl: "https://www.gizmochina.com/2022/12/13/audi-taps-into-the-power-of-ai-for-revolutionary-auto-design/"
 webUrl: "https://www.gizmochina.com/2022/12/13/audi-taps-into-the-power-of-ai-for-revolutionary-auto-design/"
 type: article
+quality: 51
+heat: 51
+published: false
 
 provider:
   name: Gizmochina

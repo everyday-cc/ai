@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-13T13:15:00Z
 originalUrl: "https://www.smithsonianmag.com/history/who-gets-to-tell-the-story-of-ancient-egypt-180981263/"
 webUrl: "https://www.smithsonianmag.com/history/who-gets-to-tell-the-story-of-ancient-egypt-180981263/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Smithsonian Magazine

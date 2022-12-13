@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "SymphonyAI strengthens Microsoft collaboration, makes Sensa financial crime prevention solution available in Microsoft Azure Marketplace"
+    excerpt: "SymphonyAI, a leader in high-value enterprise AI SaaS for strategic industries, announced today it is expanding its role as a Microsoft"
+    publishedDateTime: 2022-12-13T14:49:00Z
+    webUrl: "https://enterprisetalk.com/news/symphonyai-strengthens-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace/"
+    ampWebUrl: "https://enterprisetalk.com/news/symphonyai-strengthens-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/symphonyai-strengthens-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 56
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/12/SymphonyAI-strengthens-Microsoft-collaboration_-makes-Sensa-financial-crime-prevention-solution-available-in-Microsoft-Azure-Marketplace.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "SymphonyAI's Sensa financial crime prevention solution to be available in Microsoft Azure Marketplace"
     excerpt: "Sensa joins SymphonyAI NetReveal for transaction filtering and sanctions screening, along with three other SymphonyAI vertical solution areas — manufacturing, retail, and IT service management — already available in the Azure Marketplace."
     publishedDateTime: 2022-12-12T16:00:00Z

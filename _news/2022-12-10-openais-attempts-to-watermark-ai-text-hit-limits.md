@@ -132,6 +132,20 @@ related:
         width: 800
         height: 800
         isCached: true
+  - title: "OpenAI is developing a watermark to identify work from its GPT text AI"
+    excerpt: "A cryptographic tool inserts a detectable signature in the words produced by OpenAI’s text-generating artificial intelligence models. It could help teachers stop students using AIs to do their homewor"
+    publishedDateTime: 2022-12-13T15:20:00Z
+    webUrl: "https://www.newscientist.com/article/2350655-openai-is-developing-a-watermark-to-identify-work-from-its-gpt-text-ai/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2022/12/13111159/SEI_137401110.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI bot ChatGPT writes smart essays — should academics worry?"
     excerpt: "The bot is free for now and can produce uncannily natural, well-referenced writing in response to homework questions."
     publishedDateTime: 2022-12-09T13:06:00Z

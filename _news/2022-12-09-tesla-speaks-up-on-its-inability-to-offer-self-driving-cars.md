@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla says its self-driving technology may be a ‘failure’ — but not fraud"
-    excerpt: "In a class-action lawsuit, customers say they were duped by Tesla's $15,000 Full Self-Driving feature. Lawyers for the company say failure doesn't equal fraud."
-    publishedDateTime: 2022-12-08T21:25:00Z
-    webUrl: "https://www.latimes.com/business/story/2022-12-08/tesla-lawsuit-full-self-driving-technology-failure-not-fraud"
-    ampWebUrl: "https://www.latimes.com/business/story/2022-12-08/tesla-lawsuit-full-self-driving-technology-failure-not-fraud?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2022-12-08/tesla-lawsuit-full-self-driving-technology-failure-not-fraud?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 73
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/d3a5473/2147483647/strip/true/crop/1642x1098+0+0/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fac%2Fbc%2Fcbcecd1d40919fc40cc4deb90aee%2F1-courthouse.jpg"
-        width: 320
-        height: 214
-        isCached: true
   - title: "Tesla ordered to upgrade self-driving computer for free due to ‘false advertising’"
     excerpt: "A judge has ordered Tesla to upgrade a customer's self-driving computer for free in order to subscribe to Tesla's Full Self-Driving program."
     publishedDateTime: 2022-12-12T22:18:00Z

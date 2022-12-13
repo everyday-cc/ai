@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-13T13:30:00Z
 originalUrl: "https://healthitanalytics.com/news/deep-learning-mammography-models-at-risk-of-poor-generalizability"
 webUrl: "https://healthitanalytics.com/news/deep-learning-mammography-models-at-risk-of-poor-generalizability"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Analytics

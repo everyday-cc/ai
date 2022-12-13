@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-13T12:28:00Z
 originalUrl: "https://www.proactiveinvestors.com/companies/news/1001083/kulr-technology-group-launches-cellcheck-battery-monitoring-system-on-microsoft-s-azure-cloud-service-1001083.html"
 webUrl: "https://www.proactiveinvestors.com/companies/news/1001083/kulr-technology-group-launches-cellcheck-battery-monitoring-system-on-microsoft-s-azure-cloud-service-1001083.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Proactiveinvestors

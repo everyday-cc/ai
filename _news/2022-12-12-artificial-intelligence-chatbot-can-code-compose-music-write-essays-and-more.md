@@ -33,22 +33,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Becoming a chatbot: my life as a real estate AI’s human backup"
-    excerpt: "For one weird year, I was the human who stepped in to make sure a property chatbot didn’t blow its cover – I was a person pretending to be a computer pretending to be a person"
-    publishedDateTime: 2022-12-13T05:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/dec/13/becoming-a-chatbot-my-life-as-a-real-estate-ais-human-backup"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/dec/13/becoming-a-chatbot-my-life-as-a-real-estate-ais-human-backup"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/dec/13/becoming-a-chatbot-my-life-as-a-real-estate-ais-human-backup"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/4cb83fb37dcb0ee9f56bec8d6c894951782066a4/495_608_5670_3401/master/5670.jpg?width=620&quality=85&auto=format&fit=max&s=fe842cee56391de90459ff75c3447efe"
-        width: 620
-        height: 372
-        isCached: true
   - title: "New AI Chatbot Lands With A Big Splash"
     excerpt: "Like most nerds who read science fiction, I've spent a lot of time wondering how society will greet true artificial intelligence, if and when it"
     publishedDateTime: 2022-12-12T22:37:00Z
@@ -63,6 +47,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Becoming a chatbot: my life as a real estate AI’s human backup"
+    excerpt: "For one weird year, I was the human who stepped in to make sure a property chatbot didn’t blow its cover – I was a person pretending to be a computer pretending to be a person"
+    publishedDateTime: 2022-12-13T05:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/dec/13/becoming-a-chatbot-my-life-as-a-real-estate-ais-human-backup?ref=upstract.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
   - title: "Could an A.I. Chatbot Rewrite My Novel?"
     excerpt: "As a young fiction writer, I dreamed of a technology that would tell me how to get my characters from point A to point B. Could ChatGPT be it?"
     publishedDateTime: 2022-12-09T19:50:00Z
