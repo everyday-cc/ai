@@ -44,6 +44,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 64
+  - title: "EnCharge AI Launches With $21.7M Series A to Enable Edge AI at Scale"
+    excerpt: "EnCharge AI, the company building advanced computers for AI at the Edge, today announced it has raised $21.7M in Series A financing, led by Anzu Partners with participation from AlleyCorp, Scout Ventures,"
+    publishedDateTime: 2022-12-14T17:15:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/12/14/9730478.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "AI-Diagnostics Startup Altris AI Raises $1 Million To Prevent Blindness"
     excerpt: "Altris AI has raised $1 million in a round led by Runa Capital to scale its AI-enabled eye care diagnostics solution. Altris AI, which is a US-based startup originally from Ukraine, is building solutions for the $58 billion global ophthalmology market."
     publishedDateTime: 2022-12-14T14:41:00Z
@@ -53,7 +62,16 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
+  - title: "AI-Diagnostics Startup Altris AI Raises $1 Million To Prevent Blindness"
+    excerpt: "Altris AI has raised $1 million in a round led by Runa Capital to scale its AI-enabled eye care diagnostics solution. Altris AI, which is a US-based startup originally from Ukraine, is building solutions for the $58 billion global ophthalmology market."
+    publishedDateTime: 2022-12-14T18:23:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/12/14/9730396.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
-secured: "/yV3dIFkl8GTol4L7mnbwoWxwrbFPXXfAN2LYc22Xd1z8HjJ6V44yB55CUHMS5Fvo+gR6o5QmqUZDxbuUuoNeJHOTZOg7c/CnT4iKW4GAXlm6EvNyxXZAcoG16UiUR3HOa8AkeekTtB1OpVgT04gr6ZcZqDqhgPJfZfiNHzO6sjweum0TVkF01i32Dar5lDoyTRTpDB2/CMWGYS477ctUB5Bts6N6E6/NyEXEbzIyayiiQk29k+CWlrQTsqaZj1OLeLMOw5BydC/EaLqCe0SNnFunKDruV2IwcWl3J1LWsyg8XkrYFb2HPtNDtflm0jVeVMJUQMpdYzFzozDuOsU0IkZlT1xy7Zn8aTVbjDNrM8=;WMYe8XgVLjALGI4/LANjQQ=="
+secured: "RI9Dn+UZPGRPvm2s4mrUvdmFIkL1MrncWlVYcNthH4B9Bn6V4ybr+tJfuYPsO+N4JQ+UnxjOE7BK5RAQOyww5aGJzh+THzbEHgfo+2mRiYaYZDgV21sdyQQIsQ+NtmvWNAMMC39lukf+4VLnnvkFgB0TcqbjHYbKc8YTUNhTti5f6qFwBCPtojH7CArISRaiBI1hgvCRDsl49caPjopcA27UeEoWT4EirY621BYzm/ToozSkpvrynVBc4nlzBA9ASh+6vmwEkPX/dKskJjY95oxmX9S/b+tZBmr0Nm5GQnw5usdcep0XjE1BdjZwYa+zY60/GsXforSBrkaxNBHfioEYDW+LJz5DnhOcBgINK9v3O+hV1mAQh3C2mIAweJ9An+SwHPBn4SHpkE3DQ0/nQW/+xuiI/PaUteTrGiz8okc5fwER8SuUUJzp/l08lqDj+N11xuvAFvQc+Ylo+X5vjltZqb4BK4Gyjv3WtngUUQJ6Luto0+sHYwl1RTbJ6gQRzrW1DR0R5HGHwpGpSRQXYw==;RaOAI7roQoKnBmJlR4798Q=="
 ---
 

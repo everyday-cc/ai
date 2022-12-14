@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2022/12/10/openais-attempts-to-watermark-ai
 webUrl: "https://techcrunch.com/2022/12/10/openais-attempts-to-watermark-ai-text-hit-limits/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,86 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "OpenAI CEO admits ChatGPT risks. What now? | The AI Beat"
-    excerpt: "It's a mistake to be relying on [ChatGPT] for anything important right now,' tweeted the OpenAI CEO. So what now for AI-produced prose?"
-    publishedDateTime: 2022-12-12T20:42:00Z
-    webUrl: "https://venturebeat.com/ai/openai-ceo-admits-chatgpt-risks-what-now-the-ai-beat/"
-    ampWebUrl: "https://venturebeat.com/ai/openai-ceo-admits-chatgpt-risks-what-now-the-ai-beat/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/openai-ceo-admits-chatgpt-risks-what-now-the-ai-beat/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/02/GettyImages-545523518.jpg?w=1200&strip=all"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Why Everyone's Obsessed With ChatGPT, the Mind-Blowing AI Chatbot"
-    excerpt: "This artificial intelligence bot can converse, write student essays and program computers. Careful how much you trust it, though."
-    publishedDateTime: 2022-12-13T16:06:00Z
-    webUrl: "https://www.cnet.com/tech/computing/why-everyones-obsessed-with-chatgpt-the-mind-blowing-ai-chatbot/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/why-everyones-obsessed-with-chatgpt-the-mind-blowing-ai-chatbot/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/why-everyones-obsessed-with-chatgpt-the-mind-blowing-ai-chatbot/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://www.cnet.com/a/img/resize/084641681c8362c3ce0c3eb8a53365351adcaaac/hub/2022/12/06/3dd7180c-d0e7-47ca-bc37-b5df15a41a25/ai-chat-gettyimages.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "ChatGPT has mastered the confidence trick, and that's a terrible look for AI"
-    excerpt: "ChatGPT appears disarmingly frank about its flaws if you ask it outright. Say you're a lazy journalist who asks it to \"produce a column about ChatGPT's mistakes when writing code.\" \"As a large language model trained by OpenAI,"
-    publishedDateTime: 2022-12-14T00:50:00Z
-    webUrl: "https://www.theregister.com/2022/12/12/chatgpt_has_mastered_the_confidence/?td=rt-9cs"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/12/12/chatgpt_has_mastered_the_confidence/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/12/12/chatgpt_has_mastered_the_confidence/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 56
-    images:
-      - url: "https://regmedia.co.uk/2022/12/09/shutterstock_ai_typing.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "The 5 Best Uses (So Far) for ChatGPT's AI Chatbot"
-    excerpt: "The new AI tool ChatGPT has inspired excitement and worry with its ability to instantly answer complex questions. In the days after its debut, people have discovered many ways it can make their lives easier -- including five we've found that rise above the rest."
-    publishedDateTime: 2022-12-10T13:34:00Z
-    webUrl: "https://www.cnet.com/tech/computing/the-five-best-uses-so-far-for-chatgpts-ai-chatbot/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 49
-  - title: "Why We're All Obsessed With ChatGPT, A Mind-Blowing AI Chatbot"
-    excerpt: "This artificial intelligence bot can converse, write poetry and program computers. Be careful how much you trust it, though."
-    publishedDateTime: 2022-12-10T12:00:00Z
-    webUrl: "https://www.cnet.com/tech/computing/why-were-all-obsessed-with-chatgpt-a-mind-blowing-ai-chatbot/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 49
-  - title: "Is ChatGPT the start of the AI revolution? 聊天機器人ChatGPT 將掀起人工智慧革命？"
-    excerpt: "Have you heard of ChatGPT yet? It’s a thrilling, vexing, ontologically mesmerizing new technology created by the research group OpenAI. It can solve all your problems and answer all your questions. Or at least it will try to."
-    publishedDateTime: 2022-12-12T16:00:00Z
-    webUrl: "https://www.taipeitimes.com/News/lang/archives/2022/12/13/2003790595"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 37
-    images:
-      - url: "https://www.taipeitimes.com/images/2022/12/13/P14-221213-340.jpg"
-        width: 800
-        height: 800
-        isCached: true
   - title: "OpenAI is developing a watermark to identify work from its GPT text AI"
     excerpt: "A cryptographic tool inserts a detectable signature in the words produced by OpenAI’s text-generating artificial intelligence models. It could help teachers stop students using AIs to do their homewor"
     publishedDateTime: 2022-12-13T15:20:00Z
@@ -116,15 +36,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "ChatGPT Is a Tipping Point for AI"
-    excerpt: "With ChatGPT and other AI models that can communicate in plain English, write and revise text, and write code, the technology is suddenly becoming more useful to a broader population of people. This has huge implications."
-    publishedDateTime: 2022-12-14T13:05:00Z
-    webUrl: "https://hbr.org/2022/12/chatgpt-is-a-tipping-point-for-ai"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 17
 
 secured: "VBbePA4FXYs7s6Y95JunWU5Mtat/plJJivCSR/anYJ/37YCIRFOOk3/r2DmqHnIByLnvsfQzZiGmsRPdUk/CWjZG38uG5suib0X+XN0478S+2emsbgcQfODkVS4lGJxQcLNMYFeSW37r9/12P/ZhFYmP6FkT/Xm2mcrP61ncYq4t4ll+J+lIcFTWJbrEfbGFNqU11SnN1BdInur5BB6qWRCQnUJoyzhCjAy0DKsgd24sJl0HQxThssM6DrZmBcPa+3bFMsalnp450GS91j0pXsLrvV7Z9r7U2Qok+EboI1BWuMgYLhRwOQ6OXFmF/+EYK6J1vfKMl5mWno+1vwvZ8ImYIqXNEfh75kOYDvO/QOI879X4pxYZs4yKO/lpLd0SG2Bb5gtEFnlJQqXF88Wvap512XPi5IW5YIjMp6nQk6x+YzT5Pgnqtj5sVrQJEP0Mh5IOR61FDCDhPxEepYpojJsqxoUvrHLvtoc4aARBfNnlJ58gRXCkTcOVz0O0MCHfaKEWPcgRqle1fyRB2Wd3HQ==;vu1UY6rUNcgAn8l/f9jhPw=="
 ---

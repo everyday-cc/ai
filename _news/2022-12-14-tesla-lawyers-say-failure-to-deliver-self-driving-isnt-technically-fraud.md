@@ -67,15 +67,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Payne: Riding along with my self-driving Tesla student driver"
-    excerpt: "Payne's Model 3 carries Full Self Driving, Tesla's ambitious software that enables the car to drive itself on public roads, an upgrade over Autopilot."
-    publishedDateTime: 2022-12-10T03:00:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2022/12/10/payne-rides-along-with-his-self-driving-tesla-student-driver/69710439007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 19
 
 secured: "hEuCZKZXQ9fDc801iR/k3Q7Iraz3ODakjwKNllyStBGDmCgSSieRnFnCzr3h5ibCbJTu9i5GuOgrlzJmHzyK/2TUMIrdcox91gbJ4gvobShImlSk5BJhWPhujo4obT6gTkPUsHGXDGsOKB+gPylnZfUi6h7Qc9ExuUSgZiPEzC1aNn1M21MQ+66CGoArD01WHVTGsJP/qPTSHrG2j/3LCcHt6IYXGKzoxfzBBv0MyFCbVWCfjFgCqntT7wPaS/VPMlMOAM6EUhxIJ04Nfg0X3R7WyGycADsTx+EhHn7OPFkX4kG5jx7aNFbzMfqo+RaZNyMjgzTLhgvZKYw4rxcKoL9x+QXUPT/ie36GZq/7TPeFR+px1pCw7i92U/LV0pAiN0huSSODfmTD3qgtA4MaN0CTddpko5PlSVUV3bzN7QWnQMeK7L8KAe46H2rmYIpa7uyHs1PVcbXpXfnQk5DZqstbSokRIP3pLvKkZJgaIEWZS03udTqkXQRDZIhk+t7uQUtwRQnH4IiMDgxQNLgKZA==;FMoHs6WQccWj32pcKYniZQ=="
 ---

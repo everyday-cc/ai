@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "ChatGPT: Why Everyone Is Obsessed This Mind-Blowing AI Chatbot"
+    excerpt: "This artificial intelligence bot can chat and write essays, poems and computer programs. Careful how much you trust it, though."
+    publishedDateTime: 2022-12-14T18:21:00Z
+    webUrl: "https://www.cnet.com/tech/computing/chatgpt-why-everyone-is-obsessed-this-mind-blowing-ai-chatbot/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/chatgpt-why-everyone-is-obsessed-this-mind-blowing-ai-chatbot/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/chatgpt-why-everyone-is-obsessed-this-mind-blowing-ai-chatbot/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/resize/084641681c8362c3ce0c3eb8a53365351adcaaac/hub/2022/12/06/3dd7180c-d0e7-47ca-bc37-b5df15a41a25/ai-chat-gettyimages.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "OpenAI CEO admits ChatGPT risks. What now? | The AI Beat"
     excerpt: "It's a mistake to be relying on [ChatGPT] for anything important right now,' tweeted the OpenAI CEO. So what now for AI-produced prose?"
     publishedDateTime: 2022-12-12T20:42:00Z
@@ -84,15 +100,29 @@ related:
       name: CNET
       domain: cnet.com
     quality: 49
-  - title: "OpenAI’s attempts to watermark AI text hit limits"
-    excerpt: "OpenAI is working on a way to watermark text, according to a guest researcher working at the lab. But it's limited in key ways."
-    publishedDateTime: 2022-12-10T13:47:00Z
-    webUrl: "https://techcrunch.com/2022/12/10/openais-attempts-to-watermark-ai-text-hit-limits/"
+  - title: "Digging Into The Buzz And Fanfare Over Generative AI ChatGPT, Including Looming AI Ethics And AI Law Considerations"
+    excerpt: "Here is your insider look at why Generative AI such as ChatGPT has garnered worldwide attention, including both applause and disdain. Included is an indication of the AI Ethics and AI Law considerations."
+    publishedDateTime: 2022-12-13T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/12/13/digging-into-the-buzz-and-fanfare-over-generative-ai-chatgpt-including-looming-ai-ethics-and-ai-law-considerations/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
+      name: Forbes
+      domain: forbes.com
+    quality: 42
+  - title: "New AI Chatbot Lands With A Big Splash"
+    excerpt: "Like most nerds who read science fiction, I've spent a lot of time wondering how society will greet true artificial intelligence, if and when it"
+    publishedDateTime: 2022-12-12T22:37:00Z
+    webUrl: "https://menafn.com/1105300545/New-AI-Chatbot-Lands-With-A-Big-Splash"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2022-12/12/KT_cc77eimage_story.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Is ChatGPT the start of the AI revolution? 聊天機器人ChatGPT 將掀起人工智慧革命？"
     excerpt: "Have you heard of ChatGPT yet? It’s a thrilling, vexing, ontologically mesmerizing new technology created by the research group OpenAI. It can solve all your problems and answer all your questions. Or at least it will try to."
     publishedDateTime: 2022-12-12T16:00:00Z
@@ -107,20 +137,38 @@ related:
         width: 800
         height: 800
         isCached: true
-  - title: "OpenAI is developing a watermark to identify work from its GPT text AI"
-    excerpt: "A cryptographic tool inserts a detectable signature in the words produced by OpenAI’s text-generating artificial intelligence models. It could help teachers stop students using AIs to do their homewor"
-    publishedDateTime: 2022-12-13T15:20:00Z
-    webUrl: "https://www.newscientist.com/article/2350655-openai-is-developing-a-watermark-to-identify-work-from-its-gpt-text-ai/"
+  - title: "We asked ChatGPT, A Groundbreaking AI Bot, Whether President Ramaphosa Should Resign?"
+    excerpt: "ChatGPT, created by a company called OpenAi, is the viral AI tool that is immensely powerful and useful in many ways."
+    publishedDateTime: 2022-12-12T05:58:00Z
+    webUrl: "https://techfinancials.co.za/2022/12/12/we-asked-chatgpt-a-groundbreaking-ai-bot-whether-president-ramaphosa-should-resign/"
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
+      name: techfinancials
+      domain: techfinancials.co.za
+    quality: 32
     images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/12/13111159/SEI_137401110.jpg"
-        width: 1200
-        height: 800
+      - url: "https://techfinancials.co.za/wp-content/uploads/2022/12/pexels-kindel-media-8566470.jpg"
+        width: 640
+        height: 480
         isCached: true
+  - title: "Becoming a chatbot: my life as a real estate AI’s human backup"
+    excerpt: "For one weird year, I was the human who stepped in to make sure a property chatbot didn’t blow its cover – I was a person pretending to be a computer pretending to be a person"
+    publishedDateTime: 2022-12-13T05:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/dec/13/becoming-a-chatbot-my-life-as-a-real-estate-ais-human-backup?ref=upstract.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
+  - title: "Artificial intelligence chatbot can code, compose music, write essays, and more"
+    excerpt: "We will increasingly have conversations with our computers to get the information we need or get them to do what we want them to do."
+    publishedDateTime: 2022-12-12T14:00:00Z
+    webUrl: "https://www.iol.co.za/business-report/economy/artificial-intelligence-chatbot-can-code-compose-music-write-essays-and-more-965dc588-9547-42c6-9ff1-d70568ebb01b"
+    type: article
+    provider:
+      name: Independent Online
+      domain: iol.co.za
+    quality: 15
 
 secured: "Y/owN49DQ7kagyGR0magxLtt8gNd832tNuPIR1VcbFfRYCX4xZpg08Xh+/OAvoZwL66FsqThCni8f9kE4gbL7+vBIAEEHodopUZCyoSPhAqbGD7M72pMZC/xjSth/1F0UBQaEyd+Z9Yi/CnzCPc2HZ36ZM/UTVDsjFFu4Uctv3Nv+otfGyoQ4fUSByTDqJbDhxwpM/8sD3twmnvXx+eKa2lHOnLs3sJMc4UVQasp7pLVBqHRnOaaRsyyMxxth64YGbifdejTQmHFSgAya9gFcUf8smGuJBcFdMiwDQccBZC1RKnTAVCKXQuCS5OHvgOYBL/rnXvbpjPQRw/lqZ8zlbldyq88eHDVjds8yLRfiEM/0VnwL5qQ1TcmdfoADqRw0Ng9hJb0nf3ZiynCn9arIdpk3sttW6E3FQOTRZYJ0EbtM6HRdJf4LgAJqBsA38xMrHzYbaN0yk1LFtxMSVa20KcX4fPpefe+mIPraZdr4bitUwGKX5gSI2h/t9XXyDfm+TkuOcrP945zijo36so0Ug==;jLp5YDMvY8LDDAeVRibVvQ=="
 ---

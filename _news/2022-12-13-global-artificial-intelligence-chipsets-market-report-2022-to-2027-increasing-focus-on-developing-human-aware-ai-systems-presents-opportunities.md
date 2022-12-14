@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1105298401/Global-Artificial-Intelligence-Chips
 webUrl: "https://menafn.com/1105298401/Global-Artificial-Intelligence-Chipsets-Market-Report-2022-To-2027-Increasing-Focus-On-Developing-Human-Aware-AI-Systems-Presents-Opportunities"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Iris Recognition Global Market Report 2022: Increasing Penetration of Iris Recognition Technology into Consumer Electronics Industry Drives Growth"
-    excerpt: "The iris recognition market is projected to grow from USD 3.7 billion in 2022 to USD 8.4 billion by 2027, registering a CAGR of 15.4% during the forecast period. Increased adoptio"
-    publishedDateTime: 2022-12-12T21:03:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/12/12/9728748.htm"
+  - title: "Artificial Intelligence in Agriculture Market 2022 : Latest Industry Trends, Overview of Segments, Opportunities 2028"
+    excerpt: "\" Artificial Intelligence in Agriculture Market \" Insights 2022 - By Applications (Precision Farming, Drone Analytics, Agriculture Robots), By Types (Machine Learning, Computer Vision), By Segmentation analysis,"
+    publishedDateTime: 2022-12-13T02:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-2022-latest-industry-trends-overview-of-segments-opportunities-2028-2022-12-12"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "E2T++V/p/2TyhzjuPl0Ab0yyvvXHC0J/jTBkiOBflWrWNDk7wUxf6hitJq8OhT8FBeLpkWNEu0LuTUCYFvz5FpearOqwdBfPA6Xj2w4XxHZ46Wb+FvoA1RKZDuIkw4DT6aBFGj4auxHzUFqHzljH3SqgE2uFwWmtfG0xIRSGIH9dPrR61Iom8mfNyLRxF3YniXPxTk7ktERVoVi77v99Z/jHw/Z9Y0KXKDlOTaGaROsn8VwTYFtPD5J5zU5ySkW+lWyXffEGVeiAjMRf/SU0C4dwXxkQllkLP/IEDNLnVMI+Ry+l9/jyZHTKLjH81osXhPg3DgDqUF7Kx6SfjIafjL+9wtZNx4huJWDpeVpSg2o=;Nt+sTgOHdHfUYsg8SIGmNw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.usnews.com/news/technology/articles/2022-12-14/encharg
 webUrl: "https://www.usnews.com/news/technology/articles/2022-12-14/encharge-ai-a-chip-startup-born-in-princeton-lab-raises-21-7-million"
 type: article
 quality: 64
-heat: 94
+heat: 114
 published: true
 
 provider:
@@ -46,10 +46,28 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "EnCharge AI Launches With $21.7M Series A to Enable Edge AI at Scale"
+    excerpt: "EnCharge AI, the company building advanced computers for AI at the Edge, today announced it has raised $21.7M in Series A financing, led by Anzu Partners with participation from AlleyCorp, Scout Ventures,"
+    publishedDateTime: 2022-12-14T17:15:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/12/14/9730478.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "AI-Diagnostics Startup Altris AI Raises $1 Million To Prevent Blindness"
     excerpt: "Altris AI has raised $1 million in a round led by Runa Capital to scale its AI-enabled eye care diagnostics solution. Altris AI, which is a US-based startup originally from Ukraine, is building solutions for the $58 billion global ophthalmology market."
     publishedDateTime: 2022-12-14T14:41:00Z
     webUrl: "https://technews.tmcnet.com/news/2022/12/14/9730396.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
+  - title: "AI-Diagnostics Startup Altris AI Raises $1 Million To Prevent Blindness"
+    excerpt: "Altris AI has raised $1 million in a round led by Runa Capital to scale its AI-enabled eye care diagnostics solution. Altris AI, which is a US-based startup originally from Ukraine, is building solutions for the $58 billion global ophthalmology market."
+    publishedDateTime: 2022-12-14T18:23:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/12/14/9730396.htm"
     type: article
     provider:
       name: TMCnet

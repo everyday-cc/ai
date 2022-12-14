@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2022/12/12/tesla-ordered-upgrade-self-driving-
 webUrl: "https://electrek.co/2022/12/12/tesla-ordered-upgrade-self-driving-computer-for-free-false-advertising/"
 type: article
 quality: 63
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -71,15 +71,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Payne: Riding along with my self-driving Tesla student driver"
-    excerpt: "Payne's Model 3 carries Full Self Driving, Tesla's ambitious software that enables the car to drive itself on public roads, an upgrade over Autopilot."
-    publishedDateTime: 2022-12-10T03:00:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2022/12/10/payne-rides-along-with-his-self-driving-tesla-student-driver/69710439007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 19
 
 secured: "QB1PVFc5xokBXqWdFltyYY/fw1bYqNbkrV/+5p5S3WULspApLLEar6WLUZadqO8zqESy8zDsmQbEzY0rFfYI0aAqbHQAemOEKU6ZU/niAJ9RfMDUx3b0vX4uuRhSTEaR0BJldEoqihcwBfNhDDoW1J5aKm2ugHDUmIYy8Z5TpSwUR2kFT6MeSJwyWWGozQ37NpZSVtIepypVyHZQ/qkb65Y9bAMbhxu9oPCGOe4xsfpXJr7bxjQkDPa5hSsI/U+BusqT/fScemLxxtII3uxZBmW7c+RlO52VflGH3ZJO3zcdn1OeEDaMdUxdmxBadhqomuOL6jevgozWZtfbsCBdlCCWHBRUqEai6e02MryMU27oe7n0Jbamzf4FT+AdWCIWRRygI8hWRMkudXCykPz+q7G2PDXLB7iv8im3XQ7+xHJwmEjPYrz4lnvu6udkQ6zDn0QpADskeFL7gfN6+ol06vxgB56P5oc6Kf35xQ02Qpj7Nb8oweCSHSWugk51ZbT8cx13wg5GMJEt+zkAVjowww==;qsd2DNIOXYtCmoE+cN9xfA=="
 ---

@@ -27,6 +27,17 @@ images:
     height: 300
     isCached: true
 
+related:
+  - title: "Workplace violence AI startup awarded $75K, mentorship from Henry Ford Health"
+    excerpt: "EyeKnow, an Israeli startup that uses artificial intelligence to reduce workplace violence, won a $75,000 nursing care challenge that enables it to develop its solution and enter the U.S. market with the help of Detroit-based Henry Ford Health."
+    publishedDateTime: 2022-12-14T18:09:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/workplace-violence-ai-startup-awarded-75k-mentorship-from-henry-ford-health.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 14
+
 secured: "gypS3a9nfNOl+vaOq6uKVBe7Et4C+n53tl9g7zw878fiMNOqKQRPoB0vmlsrYtvHFdDyUeeUh7klNtp1/qDkqWRJbW239TSbMMpDq5pm6W1/TJIb5vCHmicIonVi/VydzIzi0hM94aV5yMg3Z8Ef2x2A6qnEJsGYYgJ4cRcBSmOg723AYDE34MGMkcYwd7AP4pfiL/uNdR1pUsNt8iRF7iaW3F1dU51DF67/nZ7yiubHvvx7kTap46IIfoRxiMIscLCMNyIR8Gm07PC5gYV/hv4MP4CXqqUqHyAoxSaaWqgzz29+USe0DG3K+aZOkcESL/2Cs3wLDWMSSLlbE65sETKkh6EfQlWnKeVhQKq2fquU0RAfW+/y15oCGWAQhLzk25WzTuTGwHrKOe2XDjVNn4p1GgFI7QKvX3JMViHiUCJUCt/Z5uMF1b6etKDF/MncvzbB8z6TDZVx97Vtio5YRLXl93gxbTKNQLAPUWX9gQqVguKX4CDQuGgaKzMg2D/0fb3VacI1jCxXve1uNaO+Jg==;s3snjrNxRrxwFRkiGhMO/A=="
 ---
 

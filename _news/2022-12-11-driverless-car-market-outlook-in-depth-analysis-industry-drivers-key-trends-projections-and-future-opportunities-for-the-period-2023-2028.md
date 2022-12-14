@@ -23,10 +23,10 @@ topics:
   - AI
 
 related:
-  - title: "Legal Tech Artificial Intelligence Market : Key Player, Competition Weakness and Strengths from 2022 to 2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \" Legal Tech Artificial Intelligence Market \" Insights 2022 - By Applications (Lawyers, Clients),"
-    publishedDateTime: 2022-12-10T02:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-12-09"
+  - title: "Artificial Intelligence Microscopy Market 2023 Is Flourishing Around the World by 2028 | 123 Pages Report"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2022-12-12T03:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-microscopy-market-2023-is-flourishing-around-the-world-by-2028-123-pages-report-2022-12-11"
     type: article
     provider:
       name: MarketWatch
@@ -37,15 +37,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Agriculture Market 2022 : Latest Industry Trends, Overview of Segments, Opportunities 2028"
-    excerpt: "\" Artificial Intelligence in Agriculture Market \" Insights 2022 - By Applications (Precision Farming, Drone Analytics, Agriculture Robots), By Types (Machine Learning, Computer Vision), By Segmentation analysis,"
-    publishedDateTime: 2022-12-13T02:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-2022-latest-industry-trends-overview-of-segments-opportunities-2028-2022-12-12"
+  - title: "Data Science and Machine-Learning Platforms Market Analysis Highlighting Opportunities and Development Status During 2023-2026"
+    excerpt: "Pre and Post Covid Report is Covered | Final Report will add the analysis of the impact of Russia-Ukraine War and"
+    publishedDateTime: 2022-12-12T04:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-analysis-highlighting-opportunities-and-development-status-during-2023-2026-2022-12-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 28
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

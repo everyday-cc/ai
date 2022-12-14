@@ -33,6 +33,20 @@ related:
         width: 1168
         height: 657
         isCached: true
+  - title: "Face biometrics coming to vehicles will allow keyless access and more"
+    excerpt: "A new biometrics capabilities for keyless access and feature control in automobiles could make that tangle of keys in your pocket obsolete."
+    publishedDateTime: 2022-12-14T17:11:00Z
+    webUrl: "https://www.biometricupdate.com/202212/face-biometrics-coming-to-vehicles-will-allow-keyless-access-and-more"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/10/11140505/car-driver-monitoring-scaled.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
   - title: "Genesis introduces keyless entry with face recognition tech to GV60"
     excerpt: "Another system that will also be available on the 2023 Genesis GV60 is the Digital Key. This allows owners to unlock or lock their vehicle using their smartphone or smartwatch. As"
     publishedDateTime: 2022-12-14T11:16:00Z

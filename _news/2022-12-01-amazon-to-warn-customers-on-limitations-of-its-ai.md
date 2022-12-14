@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Amazon to warn customers on limitations of its AI"
-excerpt: "Amazon chose software touching on sensitive demographic issues as a start for its service cards, which Kearns expects to grow in detail over time. One such service is called \"Rekognition.\""
-publishedDateTime: 2022-11-30T21:44:00Z
-originalUrl: "https://www.reuters.com/technology/amazon-warn-customers-limitations-its-ai-2022-11-30/"
-webUrl: "https://www.reuters.com/technology/amazon-warn-customers-limitations-its-ai-2022-11-30/"
+excerpt: "Amazon chose software touching on sensitive demographic issues as a start for its service cards, which Kearns expects to grow in detail over time. One such service is called “Rekognition.”"
+publishedDateTime: 2022-11-30T17:24:00Z
+originalUrl: "https://www.euronews.com/next/2022/11/30/amazon-com-cloud-ai"
+webUrl: "https://www.euronews.com/next/2022/11/30/amazon-com-cloud-ai"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Euronews
+  domain: euronews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/g4FkAeB1syg6dyJxBiAxlo2QyzQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SWHRVR65DJLWVK4B3D4PTWA5FY.jpg"
-    width: 1200
-    height: 628
+  - url: "https://static.euronews.com/articles/wires/896/14/8961478/1000x563_we9fl.jpg"
+    width: 1000
+    height: 563
     isCached: true
 
-secured: "mBkcFfEIu4Y7P1nW8g23q9Fi4IkBiOun31Yeb5+upIleGHEV1eQ37QKHroFC5iDvmqDH4Ar5LjyqJQPKPODvOdbbwtJllO4JawwIHuSeoqYwKb64M4wB7xQpvmDTjVa63kzzRHHfUfOMpsJp4ST6voUhoxFOWbp+RUBaUkvWYJpEu0luZoiKb3MDrZBijZdwKq/y+jUwmuyB5wnNxyjkdBoZFiia9YvKpX3BGhHY1ldJVYzh2RP3XwLUr7rI/ITtDx9JtN26jrSiZUfuAMQ6MyfxDv1A11PfEs7fmnOzNdNF0KUCFw14675VZ9C0iZ62eQA2kOIJBO7kHTVdSOWbCZv7qW9ASBo0GUl7NLIoGIo=;bKWG3sWL7gg/WulcWJpjzA=="
+secured: "cP4QqW34RBai4sLVkimoMgvEZThK8Wpl7LU41krie9f82QzHHq9mq2QxKDcOPyUZVLg4Tn2dkFxB60ffbcZiCel1pSvhYbrlDcu+gz8LkzaIy9xP4P7CqWu8tCKkuEnm5I2cgcpFebOOW4CnX7rjBcienYWbD81NLGB18N98EvDmjS0cZsYfzNSt6WF307skLcD0RVKLVNCXzceO0iU9loHBR5Y5zpBJAVhi1y7BcRAVnN25ZNsq7dh09GTVP/pYyjtkKLDQMZdebos0ptZ7i84zSYwPOuOCf5NYFlRCcdMhI1BdudGq7yEuJVsqk7m9Exs0JbEQvWc+PCueHmNNC5GGhYeLmSSPLjjNv4Cm7L4=;Emw6mwypsv6/Br8WjgvUTw=="
 ---
 

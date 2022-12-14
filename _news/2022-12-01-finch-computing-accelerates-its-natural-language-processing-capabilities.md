@@ -2,25 +2,27 @@
 category: news
 title: "Finch Computing Accelerates its Natural Language Processing Capabilities"
 excerpt: "LAS VEGAS, Nov. 30, 2022 /PRNewswire/ -- Finch Computing, developers of innovative natural language processing technology used throughout the Federal government and among financial firms ..."
-publishedDateTime: 2022-12-01T03:41:00Z
-originalUrl: "https://www.ksn.com/business/press-releases/cision/20221130PH52017/finch-computing-accelerates-its-natural-language-processing-capabilities/"
-webUrl: "https://www.ksn.com/business/press-releases/cision/20221130PH52017/finch-computing-accelerates-its-natural-language-processing-capabilities/"
+publishedDateTime: 2022-12-01T03:11:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29917271/finch-computing-accelerates-its-natural-language-processing-capabilities"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/n29917271/finch-computing-accelerates-its-natural-language-processing-capabilities"
+ampWebUrl: "https://www.benzinga.com/amp/content/29917271"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29917271"
 type: article
 
 provider:
-  name: ksn.com
-  domain: ksn.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://i0.wp.com/www.ksn.com/wp-content/uploads/sites/13/2022/12/cattle-missouri.png?w=2000&#038;ssl=1"
-    width: 1120
-    height: 630
+  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
+    width: 800
+    height: 313
     isCached: true
 
-secured: "tAwJHo6gZdBLyVsXtm3sxBNDK+wO2eNwYGSc1GPSEoEotWch2g24+Jh3Fhp0ci+ds0YNOTGZ5p0lSBhd3gYYQOKiVDxueS7PeOtbq1T2/lsz82RoclAN15PLLv97t1N/S8vd1/yL9ARXZwu18Ky2UT/hJ92cgIt82Yax27XiaNKYmtzH47S3QVDgLCzMKT/essDdWlamuE0QYhz0zon2bP6Z3gb+ZvmeXn5QVcR8qdy/d3vSlySmQrjS3/4ggteC9h6v2WMe3M+7Qn8sV46ZwDvBdKG3WON5OlrzduGw2q38cedkxSgYjLzLQ7lW59o+A7mTD2AVWQoEfHrDJlSydrswPPwFR4P134AlRwVJ/kg=;P0n4VYzrKApeIfECGYTHXA=="
+secured: "Cq1o+DJwNRQXG3izjok/ESGtPDwfgDdwsEJDU8CDrjeFKe5cd8SXckUfMX11jkvqOwKXkc7lRZhLEsi0ZJWFdzCR0opDEYKgzUDEDkSc3WWBwsTNxAgolhf5CFYBXS76KMA+uPq2BeD5PSW1U8MrWjNHmiz+lMCfaCSWJua1AhmzBqpJ3dFKLikJ8kv8BHrRsm3fMWnCbjfJUs/jHPB93JpenGgBF/skoO6QnEVusGZITbkAM5I4JdwRq5hWbLTHo00A2B3a00tqwj+n4jeQwdcBX/Ko+YfmKaGBk3fumXK7FXHbJ8pnIObBu2sWDGfH3dQY6trzN/LoBjDvnm8hua/YEmfhaV2d7E1k+gERurc=;wFI+sQWVeIohDAwyxDGRHg=="
 ---
 

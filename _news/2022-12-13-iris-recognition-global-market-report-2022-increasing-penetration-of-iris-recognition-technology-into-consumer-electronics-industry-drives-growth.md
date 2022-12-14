@@ -7,7 +7,7 @@ originalUrl: "https://it.tmcnet.com/news/2022/12/12/9728748.htm"
 webUrl: "https://it.tmcnet.com/news/2022/12/12/9728748.htm"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -19,20 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Global Artificial Intelligence Chipsets Market Report 2022 To 2027: Increasing Focus On Developing Human-Aware AI Systems Presents Opportunities"
-    excerpt: "The 'global artificial intelligence chipsets market (2022-2027) by hardware, technology, function, end-user industry, geography, competitive analysis and the impact of covid-19 with ansoff analysis' report has been added to ResearchAndMarkets."
-    publishedDateTime: 2022-12-12T16:19:00Z
-    webUrl: "https://menafn.com/1105298401/Global-Artificial-Intelligence-Chipsets-Market-Report-2022-To-2027-Increasing-Focus-On-Developing-Human-Aware-AI-Systems-Presents-Opportunities"
+  - title: "Call Center AI Market is Poised to Increase at a Stable CAGR of 13.5% from 2022 to 2032 | Future Market Insights, Inc."
+    excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
+    publishedDateTime: 2022-12-14T07:27:00Z
+    webUrl: "https://www.fmiblog.com/2022/12/14/call-center-ai-market-is-poised-to-increase-at-a-stable-cagr-of-13-5-from-2022-to-2032-future-market-insights-inc/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 15
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?738218"
-        width: 502
-        height: 250
-        isCached: true
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 0
 
 secured: "HwisS8SyA2o1+Wk6yucfqF+X4cfTldrNqfOjfJtjmuQhhF4YBS+mUnTTB4lYj/SnkEV2MYIeLqHZ3QXerHZAmvZwpDnNmSRtbWe20/J7mGrLcE06vLyQ8LQ2YOmVyULWmSu3cbdsSC1w4vpxTaeIDcMd697t4jczEKmoW3eazz3fD8Fn+kIHqRIYwD0S6zMELPtje8eWQ7PKKaJuqB0TYHqF5pIe40NtMznoXhvqwEldQbxc1CKU2j7hNKoXe78ERz/iZCBjBuMwObxAq9uVHbUGNTyT06Bep+c/YYka2OVp/dn2OgKgtIUIOXCcWva/v4r02nc5JDg4YuUnqwaYfCepEuGuT3gFjP/fnTItXIY=;vwqPSmGxyOOVSeWqSCnbeQ=="
 ---

@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Digging Into The Buzz And Fanfare Over Generative AI ChatGPT, Including Looming AI Ethics And AI Law Considerations"
-    excerpt: "Here is your insider look at why Generative AI such as ChatGPT has garnered worldwide attention, including both applause and disdain. Included is an indication of the AI Ethics and AI Law considerations."
-    publishedDateTime: 2022-12-13T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/12/13/digging-into-the-buzz-and-fanfare-over-generative-ai-chatgpt-including-looming-ai-ethics-and-ai-law-considerations/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 42
 
 secured: "0GUTX7CHkqwasIjPyuvs0FI528KjPvSECPReB6EwBc3DYzjl34tBQ0gsEvZ5wRQOZuod+npUUWVfWsuP7mVW7hR0LiHGOTWayoByhdckqToU4wbPM/f00LD1SSiAxCmHxyJ0tWM92jPru3Q/pKRrHldRzu7fLiEE0ewQXvdTFZ/SVxwXfNk6dhBoOL9eRMDv8sHulCzCH09e/2FpSkeRYnKurD2a4BvBiiYr/go0tQSpqZuXFfGts0G3DFbw8IisCw42bQk6cpiF2RdRdwMw4GBpiY3PemH95cWNPh6eZg/5WnVPG3W3213cYebE4roO9uyUSlN5eyiHF3Iq4lgkgQE3c1xu5j3nbMA1ENNviig6Rg8NHlMZMIliWzLYASI/K44GIWl7PPRMt6WSyV9b/IEhoVxKG/vscTB1s0NC1RgIVQoRLh3FXlTgwDcJY80fkyP+wR5vUTG7E3WLcZKiTcfMHF+ugLttIYX7QRnH3/OWxQyg1ibxWymDS0dfwoV2Jc/1WF5kFEjmOBzs8jeUOQ==;yZ1J1HfqPaVUfHiYlmk1gA=="
 ---

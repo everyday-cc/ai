@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2022/12/13/first-ever-ai-video
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/12/13/first-ever-ai-video-platform-integrating-text-generated-image-and-animation/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Digging Into The Buzz And Fanfare Over Generative AI ChatGPT, Including Looming AI Ethics And AI Law Considerations"
-    excerpt: "Here is your insider look at why Generative AI such as ChatGPT has garnered worldwide attention, including both applause and disdain. Included is an indication of the AI Ethics and AI Law considerations."
-    publishedDateTime: 2022-12-13T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/12/13/digging-into-the-buzz-and-fanfare-over-generative-ai-chatgpt-including-looming-ai-ethics-and-ai-law-considerations/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 42
   - title: "Vic.ai raises $52M for its AI-powered accounting automation platform"
     excerpt: "XFO Financials Inc., an accounting automation startup that does business as Vic.ai, has raised $52 million through a new funding round announced today. Existing Vic.ai investors GGV Capital and ICONIQ Growth led the Series C round."
     publishedDateTime: 2022-12-13T18:22:00Z

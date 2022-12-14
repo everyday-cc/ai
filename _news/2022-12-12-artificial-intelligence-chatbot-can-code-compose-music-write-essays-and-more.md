@@ -19,20 +19,97 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Watch DoNotPay's AI Chatbot Renegotiate a Comcast Bill to Be $120 Lower"
-    excerpt: "The AI can also cancel subscriptions, fight parking tickets, and potentially get medical bills reduced on your behalf."
-    publishedDateTime: 2022-12-13T17:46:00Z
-    webUrl: "https://www.pcmag.com/news/watch-donotpays-ai-chatbot-renegotiate-a-comcast-bill-to-be-120-lower"
+  - title: "ChatGPT: Why Everyone Is Obsessed This Mind-Blowing AI Chatbot"
+    excerpt: "This artificial intelligence bot can chat and write essays, poems and computer programs. Careful how much you trust it, though."
+    publishedDateTime: 2022-12-14T18:21:00Z
+    webUrl: "https://www.cnet.com/tech/computing/chatgpt-why-everyone-is-obsessed-this-mind-blowing-ai-chatbot/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/chatgpt-why-everyone-is-obsessed-this-mind-blowing-ai-chatbot/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/chatgpt-why-everyone-is-obsessed-this-mind-blowing-ai-chatbot/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
+      name: CNET
+      domain: cnet.com
+    quality: 89
     images:
-      - url: "https://i.pcmag.com/imagery/articles/00ZaBxaOfz9e0AbGjo57PIh-1.fit_lim.size_1200x630.v1670953103.jpg"
-        width: 1120
+      - url: "https://www.cnet.com/a/img/resize/084641681c8362c3ce0c3eb8a53365351adcaaac/hub/2022/12/06/3dd7180c-d0e7-47ca-bc37-b5df15a41a25/ai-chat-gettyimages.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
         height: 630
         isCached: true
+  - title: "OpenAI CEO admits ChatGPT risks. What now? | The AI Beat"
+    excerpt: "It's a mistake to be relying on [ChatGPT] for anything important right now,' tweeted the OpenAI CEO. So what now for AI-produced prose?"
+    publishedDateTime: 2022-12-12T20:42:00Z
+    webUrl: "https://venturebeat.com/ai/openai-ceo-admits-chatgpt-risks-what-now-the-ai-beat/"
+    ampWebUrl: "https://venturebeat.com/ai/openai-ceo-admits-chatgpt-risks-what-now-the-ai-beat/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/openai-ceo-admits-chatgpt-risks-what-now-the-ai-beat/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/02/GettyImages-545523518.jpg?w=1200&strip=all"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Why Everyone's Obsessed With ChatGPT, the Mind-Blowing AI Chatbot"
+    excerpt: "This artificial intelligence bot can converse, write student essays and program computers. Careful how much you trust it, though."
+    publishedDateTime: 2022-12-13T16:06:00Z
+    webUrl: "https://www.cnet.com/tech/computing/why-everyones-obsessed-with-chatgpt-the-mind-blowing-ai-chatbot/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/why-everyones-obsessed-with-chatgpt-the-mind-blowing-ai-chatbot/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/why-everyones-obsessed-with-chatgpt-the-mind-blowing-ai-chatbot/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/084641681c8362c3ce0c3eb8a53365351adcaaac/hub/2022/12/06/3dd7180c-d0e7-47ca-bc37-b5df15a41a25/ai-chat-gettyimages.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "ChatGPT has mastered the confidence trick, and that's a terrible look for AI"
+    excerpt: "ChatGPT appears disarmingly frank about its flaws if you ask it outright. Say you're a lazy journalist who asks it to \"produce a column about ChatGPT's mistakes when writing code.\" \"As a large language model trained by OpenAI,"
+    publishedDateTime: 2022-12-14T00:50:00Z
+    webUrl: "https://www.theregister.com/2022/12/12/chatgpt_has_mastered_the_confidence/?td=rt-9cs"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/12/12/chatgpt_has_mastered_the_confidence/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/12/12/chatgpt_has_mastered_the_confidence/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 56
+    images:
+      - url: "https://regmedia.co.uk/2022/12/09/shutterstock_ai_typing.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "The 5 Best Uses (So Far) for ChatGPT's AI Chatbot"
+    excerpt: "The new AI tool ChatGPT has inspired excitement and worry with its ability to instantly answer complex questions. In the days after its debut, people have discovered many ways it can make their lives easier -- including five we've found that rise above the rest."
+    publishedDateTime: 2022-12-10T13:34:00Z
+    webUrl: "https://www.cnet.com/tech/computing/the-five-best-uses-so-far-for-chatgpts-ai-chatbot/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 49
+  - title: "Why We're All Obsessed With ChatGPT, A Mind-Blowing AI Chatbot"
+    excerpt: "This artificial intelligence bot can converse, write poetry and program computers. Be careful how much you trust it, though."
+    publishedDateTime: 2022-12-10T12:00:00Z
+    webUrl: "https://www.cnet.com/tech/computing/why-were-all-obsessed-with-chatgpt-a-mind-blowing-ai-chatbot/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 49
+  - title: "Digging Into The Buzz And Fanfare Over Generative AI ChatGPT, Including Looming AI Ethics And AI Law Considerations"
+    excerpt: "Here is your insider look at why Generative AI such as ChatGPT has garnered worldwide attention, including both applause and disdain. Included is an indication of the AI Ethics and AI Law considerations."
+    publishedDateTime: 2022-12-13T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/12/13/digging-into-the-buzz-and-fanfare-over-generative-ai-chatgpt-including-looming-ai-ethics-and-ai-law-considerations/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 42
   - title: "New AI Chatbot Lands With A Big Splash"
     excerpt: "Like most nerds who read science fiction, I've spent a lot of time wondering how society will greet true artificial intelligence, if and when it"
     publishedDateTime: 2022-12-12T22:37:00Z
@@ -47,6 +124,52 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Is ChatGPT the start of the AI revolution? 聊天機器人ChatGPT 將掀起人工智慧革命？"
+    excerpt: "Have you heard of ChatGPT yet? It’s a thrilling, vexing, ontologically mesmerizing new technology created by the research group OpenAI. It can solve all your problems and answer all your questions. Or at least it will try to."
+    publishedDateTime: 2022-12-12T16:00:00Z
+    webUrl: "https://www.taipeitimes.com/News/lang/archives/2022/12/13/2003790595"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 37
+    images:
+      - url: "https://www.taipeitimes.com/images/2022/12/13/P14-221213-340.jpg"
+        width: 800
+        height: 800
+        isCached: true
+  - title: "We asked ChatGPT, A Groundbreaking AI Bot, Whether President Ramaphosa Should Resign?"
+    excerpt: "ChatGPT, created by a company called OpenAi, is the viral AI tool that is immensely powerful and useful in many ways."
+    publishedDateTime: 2022-12-12T05:58:00Z
+    webUrl: "https://techfinancials.co.za/2022/12/12/we-asked-chatgpt-a-groundbreaking-ai-bot-whether-president-ramaphosa-should-resign/"
+    type: article
+    provider:
+      name: techfinancials
+      domain: techfinancials.co.za
+    quality: 32
+    images:
+      - url: "https://techfinancials.co.za/wp-content/uploads/2022/12/pexels-kindel-media-8566470.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Becoming a chatbot: my life as a real estate AI’s human backup"
+    excerpt: "For one weird year, I was the human who stepped in to make sure a property chatbot didn’t blow its cover – I was a person pretending to be a computer pretending to be a person"
+    publishedDateTime: 2022-12-13T05:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/dec/13/becoming-a-chatbot-my-life-as-a-real-estate-ais-human-backup?ref=upstract.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
+  - title: "ChatGPT Is a Tipping Point for AI"
+    excerpt: "With ChatGPT and other AI models that can communicate in plain English, write and revise text, and write code, the technology is suddenly becoming more useful to a broader population of people. This has huge implications."
+    publishedDateTime: 2022-12-14T13:05:00Z
+    webUrl: "https://hbr.org/2022/12/chatgpt-is-a-tipping-point-for-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "V4yUvYS9vKpWungd14+5YdoZzdXXWaQo0Hq/uo3zDiybq18iZ+wrysWt/A48guhgTcpXO9g7oLHAU4Dlh2hjIOtkA6AoIJ43U+6hfyJJFdkfnl7r9+OcfFkHfZMQoj75fKzyiQzRaDIA1W9y81NB5zYhhclG6t8GiULK9JdLiwBCMDFi7zfhTglDYW9zjI/trpYg1ZvqCAr3TWjs1l+tgmPnQ07Fpx7jT644gGNMuT+2mV1mZh/AjTGgRz3a0QL1+fQDh4isEU7QB76cLP+7qZHcJMakz1CA5ApQ/gpAfPy+xxohFCEIAjmt66le3OrJ23tx6g9DqqcE/edE5WRla+pfoQK37OaIIMZ6uMOqlueyY9QKoBnCVKVScNA7OWSBNtB45+g+P3jRosIUxXoAwcvfz7FsXJYxLxkN5AUKJlz2w+buvsRf/5nnDpmN8DXdQwu6ilFy8DuJqNOGFraW4pxrdviaUqs3ccfBYwz29btPwC+f0o7i4WDi9JD+SeH/LDQxaulQwwrIH4XpCkHtAg==;FwQ14JwGNquom9XURRXTOA=="
 ---
