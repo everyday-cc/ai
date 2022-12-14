@@ -25,21 +25,81 @@ images:
     isCached: true
 
 related:
-  - title: "Violation of Right to Privacy: Karti Chidambaram on 'Orwellian' usage of facial recognition by Chennai police"
-    excerpt: "This comes a few days after the GCP admitted to using the technology in response to a tweet by a Chennai resident."
-    publishedDateTime: 2022-12-13T11:55:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/violation-of-right-to-privacy-karti-chidambaram-on-orwellian-usage-of-facial-recognition-by-chennai-police-9698351.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/violation-of-right-to-privacy-karti-chidambaram-on-orwellian-usage-of-facial-recognition-by-chennai-police-9698351.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/violation-of-right-to-privacy-karti-chidambaram-on-orwellian-usage-of-facial-recognition-by-chennai-police-9698351.html/amp"
+  - title: "Facial recognition system rollout at Indian airports raises privacy concerns"
+    excerpt: "Since December 2, the Union Ministry of Civil Aviation has started using facial recognition technology for airport security. Airports will now allow travellers to pass through various checkpoints – entry,"
+    publishedDateTime: 2022-12-14T03:30:00Z
+    webUrl: "https://scroll.in/article/1038975/facial-recognition-system-rollout-at-indian-airports-raises-privacy-concerns"
+    ampWebUrl: "https://amp.scroll.in/article/1038975/facial-recognition-system-rollout-at-indian-airports-raises-privacy-concerns"
+    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1038975/facial-recognition-system-rollout-at-indian-airports-raises-privacy-concerns"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 55
+      name: Scroll
+      domain: scroll.in
+    quality: 71
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2019/02/RTX6GAJA.jpg"
+      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/156735-fcmoyjrqax-1616694153.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Gulfport-Biloxi Intl. Using Facial Recognition at Checkpoints"
+    excerpt: "Mississippi’s Gulfport-Biloxi International Airport will be one of 16 airports around the United States testing facial recognition software to identify travelers at TSA security checkpoints."
+    publishedDateTime: 2022-12-12T23:40:00Z
+    webUrl: "https://www.govtech.com/products/gulfport-biloxi-intl-using-facial-recognition-at-checkpoints"
+    ampWebUrl: "https://www.govtech.com/products/gulfport-biloxi-intl-using-facial-recognition-at-checkpoints?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/gulfport-biloxi-intl-using-facial-recognition-at-checkpoints?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/74c445f/2147483647/strip/true/crop/4619x2408+0+113/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F22%2F65%2F2df9d1f3447595f1ca82bf63e351%2Fshutterstock-1008668191.jpg"
+        width: 840
+        height: 438
+        isCached: true
+  - title: "Victim Participation In Criminal Justice System: An Indian Perspective"
+    excerpt: "The crime victims' rights movement advocates for the rights of the victims of crime in criminal justice process. The concern for victim's rights had long been subdued. Eventually over a"
+    publishedDateTime: 2022-12-13T06:44:00Z
+    webUrl: "https://www.livelaw.in/columns/victims-rights-code-of-criminal-procedure-victim-participatory-rights-216547"
+    ampWebUrl: "https://www.livelaw.in/amp/columns/victims-rights-code-of-criminal-procedure-victim-participatory-rights-216547"
+    cdnAmpWebUrl: "https://www-livelaw-in.cdn.ampproject.org/c/s/www.livelaw.in/amp/columns/victims-rights-code-of-criminal-procedure-victim-participatory-rights-216547"
+    type: article
+    provider:
+      name: Live Law
+      domain: livelaw.in
+    quality: 44
+    images:
+      - url: "https://www.livelaw.in/h-upload/2022/07/21/426867-victim.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "US Customs agents use facial recognition system at Orlando International Airport to speed up lines"
+    excerpt: "U.S. Customs and Border Protection agents at Orlando International Airport are using facial recognition technology to help speed up screening lines that often stretch to 600 passengers deep."
+    publishedDateTime: 2022-12-09T22:00:00Z
+    webUrl: "https://www.clickorlando.com/news/investigators/2022/12/09/us-customs-agents-use-facial-recognition-system-at-orlando-international-airport-to-speed-up-lines/"
+    type: article
+    provider:
+      name: News 6 WKMG
+      domain: clickorlando.com
+    quality: 40
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/12-09-2022/t_f352d53d54e5459cb619075bf2c225bc_name_image.jpg?_a=ATO2Bfe0"
+        width: 700
+        height: 394
+        isCached: true
+  - title: "Meta-Indian Govt Bury the Hatchet, Unite for AI Innovation"
+    excerpt: "Using its position as the Chair of the Global Partnership for Artificial Intelligence, India has expressed its desire to collaborate with Meta as a trusted AI partner. In exchange for this, the country will put forward regulations in the GPAI forum that will incentivise innovation in the artificial intelligence field."
+    publishedDateTime: 2022-12-12T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/meta-indian-govt-bury-the-hatchet-unite-for-ai-innovation/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/Meta-To-Collaborate-With-The-Indian-Government.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "XckyoDBabygyIcR9CtQsdTw2NvBC22/yPcEogpt1VHgKpz/IGq4BrGbXdBsQRUsvXFpxRfp6cHVMAu6qI28Tj6h0BBQZav0UeVJrgCQHIqCNxic6U5m/NLlfiQrb6S++D+0LBFhXtHccWcjkApeJF13O1t+fgGe/69YBYvihSwVpcDPkPWUerpcJZltJfuntiV8FuB3i1D2wLMB3k7KJDTiVtGy9Xt0E4tnLHJvVt5lvCYEH06peR8hWBCDwgcBA8SwC0H959vk1ti/DEIOLEo/uxmhzWxWLxGV8UywXDiRODya1pVXDwREJezCC7u0krAdHqjUndR3WiR5AqdU4+EDrVFcB8NV14rWWP9x6gUVBlpZZGbz6jMl3wKT3Q450Csfd5NNpMvG7CpFVTPay+CYa9B/HCOfdYx09OdZZJnNtN6lZYeKu/DH26oM5buUgFYgJb9+EFJdROfsTglm9G4ex/GDHWDRWJ2hXpRsTX7SmlIKqmRAcjTefNXsNemF1VisM85TrSIGy65PmGSbMrA==;ogM3rEYijuxspCNWJ9Rwuw=="

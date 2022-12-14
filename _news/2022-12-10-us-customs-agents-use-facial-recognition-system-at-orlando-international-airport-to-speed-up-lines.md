@@ -25,122 +25,82 @@ images:
     isCached: true
 
 related:
-  - title: "How businesses are deploying facial recognition"
-    excerpt: "As facial recognition software becomes easier to acquire, businesses are using it to surveil and analyze customers. Bloomberg's Parmy Olson explains where and how the technology is being deployed."
-    publishedDateTime: 2022-12-09T18:41:00Z
-    webUrl: "https://www.wuwm.com/economy-business/economy-business/2022-12-09/how-businesses-are-deploying-facial-recognition"
-    ampWebUrl: "https://www.wuwm.com/economy-business/economy-business/2022-12-09/how-businesses-are-deploying-facial-recognition?_amp=true"
-    cdnAmpWebUrl: "https://www-wuwm-com.cdn.ampproject.org/c/s/www.wuwm.com/economy-business/economy-business/2022-12-09/how-businesses-are-deploying-facial-recognition?_amp=true"
+  - title: "Facial recognition system rollout at Indian airports raises privacy concerns"
+    excerpt: "Since December 2, the Union Ministry of Civil Aviation has started using facial recognition technology for airport security. Airports will now allow travellers to pass through various checkpoints – entry,"
+    publishedDateTime: 2022-12-14T03:30:00Z
+    webUrl: "https://scroll.in/article/1038975/facial-recognition-system-rollout-at-indian-airports-raises-privacy-concerns"
+    ampWebUrl: "https://amp.scroll.in/article/1038975/facial-recognition-system-rollout-at-indian-airports-raises-privacy-concerns"
+    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1038975/facial-recognition-system-rollout-at-indian-airports-raises-privacy-concerns"
     type: article
     provider:
-      name: WUWM
-      domain: wuwm.com
+      name: Scroll
+      domain: scroll.in
+    quality: 71
+    images:
+      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/156735-fcmoyjrqax-1616694153.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Gulfport-Biloxi Intl. Using Facial Recognition at Checkpoints"
+    excerpt: "Mississippi’s Gulfport-Biloxi International Airport will be one of 16 airports around the United States testing facial recognition software to identify travelers at TSA security checkpoints."
+    publishedDateTime: 2022-12-12T23:40:00Z
+    webUrl: "https://www.govtech.com/products/gulfport-biloxi-intl-using-facial-recognition-at-checkpoints"
+    ampWebUrl: "https://www.govtech.com/products/gulfport-biloxi-intl-using-facial-recognition-at-checkpoints?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/gulfport-biloxi-intl-using-facial-recognition-at-checkpoints?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
     quality: 59
     images:
-      - url: "https://media.npr.org/assets/img/2020/03/04/manoush-zomorodi_bio_photo-1_vert-bf366cf2e0a689ea87422c5de657f381d9d43437.jpg"
-        width: 2096
-        height: 2794
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/74c445f/2147483647/strip/true/crop/4619x2408+0+113/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F22%2F65%2F2df9d1f3447595f1ca82bf63e351%2Fshutterstock-1008668191.jpg"
+        width: 840
+        height: 438
         isCached: true
-  - title: "How facial recognition allowed the Chinese government to target minority groups"
-    excerpt: "Journalist Alison Killing explains her investigation in Xinjiang, China, where the government has used facial recognition cameras to track Uyghurs and detain them in camps across the region."
-    publishedDateTime: 2022-12-09T13:43:00Z
-    webUrl: "https://www.wwno.org/npr-news/2022-12-09/how-facial-recognition-allowed-the-chinese-government-to-target-minority-groups"
-    ampWebUrl: "https://www.wwno.org/npr-news/npr-news/2022-12-09/how-facial-recognition-allowed-the-chinese-government-to-target-minority-groups?_amp=true"
-    cdnAmpWebUrl: "https://www-wwno-org.cdn.ampproject.org/c/s/www.wwno.org/npr-news/npr-news/2022-12-09/how-facial-recognition-allowed-the-chinese-government-to-target-minority-groups?_amp=true"
-    type: article
-    provider:
-      name: WWNO
-      domain: wwno.org
-    quality: 55
-    images:
-      - url: "https://media.npr.org/assets/img/2020/03/04/manoush-zomorodi_bio_photo-1_vert-bf366cf2e0a689ea87422c5de657f381d9d43437.jpg"
-        width: 2096
-        height: 2794
-        isCached: true
-  - title: "How facial recognition allowed the Chinese government to target minority groups"
-    excerpt: "Journalist Alison Killing explains her investigation in Xinjiang, China, where the government has used facial recognition cameras to track Uyghurs and detain them in camps across the region."
-    publishedDateTime: 2022-12-09T18:43:00Z
-    webUrl: "https://www.wuwm.com/health-science/health-science/2022-12-09/how-facial-recognition-allowed-the-chinese-government-to-target-minority-groups"
-    ampWebUrl: "https://www.wuwm.com/health-science/health-science/2022-12-09/how-facial-recognition-allowed-the-chinese-government-to-target-minority-groups?_amp=true"
-    cdnAmpWebUrl: "https://www-wuwm-com.cdn.ampproject.org/c/s/www.wuwm.com/health-science/health-science/2022-12-09/how-facial-recognition-allowed-the-chinese-government-to-target-minority-groups?_amp=true"
-    type: article
-    provider:
-      name: WUWM
-      domain: wuwm.com
-    quality: 55
-    images:
-      - url: "https://media.npr.org/assets/img/2020/03/04/manoush-zomorodi_bio_photo-1_vert-bf366cf2e0a689ea87422c5de657f381d9d43437.jpg"
-        width: 2096
-        height: 2794
-        isCached: true
-  - title: "Facial Recognition To Mark School Attendance In UP"
-    excerpt: "Uttar Pradesh government has started a facial recognition-based teacher and student attendance monitoring system for the p"
-    publishedDateTime: 2022-12-11T04:04:00Z
-    webUrl: "https://menafn.com/1105294130/Facial-Recognition-To-Mark-School-Attendance-In-UP"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?104280"
-        width: 340
-        height: 249
-        isCached: true
-  - title: "Google Patents System for Using Facial Recognition to Cue Up Content"
-    excerpt: "Google patents a new system that will take advantage of facial recognition technology to present users with a choice of curated content."
-    publishedDateTime: 2022-12-13T20:48:00Z
-    webUrl: "https://gamerant.com/google-facial-recognition-system-patent/"
-    type: article
-    provider:
-      name: Game Rant
-      domain: gamerant.com
-    quality: 21
-  - title: "How businesses are deploying facial recognition"
-    excerpt: "As facial recognition software becomes easier to acquire, businesses are using it to surveil and analyze customers. Bloomberg's Parmy Olson explains where and how the technology is being deployed."
-    publishedDateTime: 2022-12-09T13:41:00Z
-    webUrl: "https://www.tspr.org/2022-12-09/how-businesses-are-deploying-facial-recognition"
-    type: article
-    provider:
-      name: Tri States Public Radio
-      domain: tspr.org
-    quality: 19
-  - title: "Facial recognition to mark school attendance"
-    excerpt: "Uttar Pradesh government has started a facial recognition-based teacher and student attendance monitoring system for the public schools in the state."
-    publishedDateTime: 2022-12-11T19:09:00Z
-    webUrl: "https://www.thehansindia.com/hans/young-hans/facial-recognition-to-mark-school-attendance-772943"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 19
-  - title: "Facial Recognition Technology Scans Your Ear"
-    excerpt: "University of Georgia (UGA) scientists have created an ear recognition system that can authenticate individuals with up to 97.25% accuracy."
-    publishedDateTime: 2022-12-12T17:55:00Z
-    webUrl: "https://cacm.acm.org/news/267660-facial-recognition-technology-scans-your-ear/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
-  - title: "Genesis launches face recognition entry"
-    excerpt: "Claimed world first face recognition technology for keyless entry is among a number of new features for the 2023 edition of Genesis’ electric GV60 SUV. Digital key and air purification systems are also among the available upgrades."
-    publishedDateTime: 2022-12-13T12:25:00Z
-    webUrl: "https://www.just-auto.com/news/genesis-launches-face-recognition-entry/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 19
-  - title: "Synesis to appeal EU sanctions over misuse of its facial recognition software"
-    excerpt: "The firm will get a hearing to fight sanctions imposed on it for allegedly using its technology to repress protests against President Lukashenko in August 2020."
-    publishedDateTime: 2022-12-13T20:23:00Z
-    webUrl: "https://www.biometricupdate.com/202212/synesis-to-appeal-eu-sanctions-over-misuse-of-its-facial-recognition-software"
+  - title: "Indian police use of facial recognition in Chennai may violate privacy: Project Panoptic"
+    excerpt: "The use of face biometric technologies by police forces to identify people on the streets may clash with a Supreme Court judgment on privacy."
+    publishedDateTime: 2022-12-13T00:20:00Z
+    webUrl: "https://www.biometricupdate.com/202212/indian-police-use-of-facial-recognition-in-chennai-may-violate-privacy-project-panoptic"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 16
+    quality: 45
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
+        width: 2048
+        height: 1812
+        isCached: true
+  - title: "Victim Participation In Criminal Justice System: An Indian Perspective"
+    excerpt: "The crime victims' rights movement advocates for the rights of the victims of crime in criminal justice process. The concern for victim's rights had long been subdued. Eventually over a"
+    publishedDateTime: 2022-12-13T06:44:00Z
+    webUrl: "https://www.livelaw.in/columns/victims-rights-code-of-criminal-procedure-victim-participatory-rights-216547"
+    ampWebUrl: "https://www.livelaw.in/amp/columns/victims-rights-code-of-criminal-procedure-victim-participatory-rights-216547"
+    cdnAmpWebUrl: "https://www-livelaw-in.cdn.ampproject.org/c/s/www.livelaw.in/amp/columns/victims-rights-code-of-criminal-procedure-victim-participatory-rights-216547"
+    type: article
+    provider:
+      name: Live Law
+      domain: livelaw.in
+    quality: 44
+    images:
+      - url: "https://www.livelaw.in/h-upload/2022/07/21/426867-victim.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Meta-Indian Govt Bury the Hatchet, Unite for AI Innovation"
+    excerpt: "Using its position as the Chair of the Global Partnership for Artificial Intelligence, India has expressed its desire to collaborate with Meta as a trusted AI partner. In exchange for this, the country will put forward regulations in the GPAI forum that will incentivise innovation in the artificial intelligence field."
+    publishedDateTime: 2022-12-12T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/meta-indian-govt-bury-the-hatchet-unite-for-ai-innovation/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/Meta-To-Collaborate-With-The-Indian-Government.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "hDmzZFfiPAgTWTNZmNsd4WX1+i16YhjMN6ZLx8HsmXjxKymU1XKk9ANk+Fbkkfctl+3yRWAfkifnFx2N8ooLiS/zuFJEjjUaQhc0mvpAhb8GbJ1hPulwvrPwKu8hQY6vdo4rY5kDNB7Zr00NVwSJKti0qK39VwrmF5qhzPfVUcKO9fKNKmmJh7Y6O6G2ObOS/mzL9nF/tHdUMpFZOZapGK7tsO2Y47W1OzAgSGEEavL4J77RX7Bz2NE1/GtJmzcukU8hOyG2b//AGIxfI2fxy7xo+zDFMr41FM8Rvcu+53aqa9tg189OXahhbhvcHm08FA+RI7lg7T/57lQROuNQfbTj8kJ46hOOhe1+fcTNDgkt0YBXBpPlkgWv2wv8o6lsiAsdn5JymETkYrjVL0LYsIpXleeArk9vyMMHxcGN1C1OKCYLFgJmTxqA3xnW7AksAiragMv2Fd1PSuxF1Tcx5iTxdguDuxOf+RDoa9uH/uPbInhuSeKzvxZZhqPRxPPC6T5YdxlVwpn6ACndW+CCqQ==;FF1CpY2smv18vMyBnEMKrA=="
 ---

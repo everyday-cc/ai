@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Drug Discovery Market : New Business Strategies And Forecast By 2028 with Top Countries Data"
-    excerpt: "\" Artificial Intelligence in Drug Discovery Market \" Insights 2022 - By Applications (Pharmaceutical and Biotechnology Companies, Contract Research Organizations, Research Centers and Academic and Government Institutes),"
-    publishedDateTime: 2022-12-09T12:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-new-business-strategies-and-forecast-by-2028-with-top-countries-data-2022-12-09"
+  - title: "Nigeria: Artificial Intelligence for New Drug Discovery"
+    excerpt: "Artificial intelligence helps to make pharmaceutical research and new drug discovery less expensive and more productive, argues Julius Adelusi-Adeluyi."
+    publishedDateTime: 2022-12-12T04:51:00Z
+    webUrl: "https://allafrica.com/stories/202212120014.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 37
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
         isCached: true
 
 secured: "lDsHuan3B2AHCy/G+nDQDTH+E+e/ue0D0ROAF9pEcvI6zv+E5uNvI5yTLexVxk2br+u/FZCqF7GeHWh0z0OidXXT/82wGwMowroYl/uITyqwHitgrGNbl4V8bmizh8g+9hGc+QZwUbf6f6vQTanKuIsfFwJCVHozEWQ4sX5sYNmYWsZFTiWkPvz6QFHbnga5OPtZMJcGhPZEFcrHFJW3vUsU5OMrFQA5s0L3Ny1AERTFNL7XuOqcop1p7qaf5JNE9YzbzGfJVO3lBSEQVXkAXSyxpn7/iytEN7mmCPwIjLCVJsqAiDAFBL0luT/IjE0UsEq8CkhjyPngcVrG0MC9Qgv/TmnnYw6RWW3SlkFTOJw=;XpuST4Hca1rZkvVcCP4CTg=="

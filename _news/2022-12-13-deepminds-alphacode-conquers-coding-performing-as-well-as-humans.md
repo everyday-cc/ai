@@ -43,6 +43,20 @@ related:
         width: 1920
         height: 1282
         isCached: true
+  - title: "Deepmind AI Predicts 214 Million Protein Structures"
+    excerpt: "Deep Mind announced they had identified 214 million 3D protein structure predictions, making them freely available for public use.”— Formaspace AUSTIN, TEXAS, UNITED STATES, December 13, 2022/ EINPresswire."
+    publishedDateTime: 2022-12-13T22:16:00Z
+    webUrl: "https://apnews.com/article/technology-science-austin-efedc7d60ca348160a1d75e2a24c9a95"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 56
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "DeepMind Builds AI That Codes as Well as the Average Human Programmer"
     excerpt: "In an apparent effort to put themselves out of a job, DeepMind researchers have created an AI that can write code, and it performs surprisingly well in programming challenges."
     publishedDateTime: 2022-12-12T13:24:00Z

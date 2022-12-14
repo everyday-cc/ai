@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-12-06-text-to-image-ai-powerful-easy-to-use-technology-for-making-art-and-fakes.md",
+      "title": "Text-to-image AI: powerful, easy-to-use technology for making art – and fakes",
+      "excerpt": "Seemingly bound by only your imagination, this latest trend in synthetic media has delighted many, inspired others and struck fear in some. Google, research firm OpenAI and AI vendor Stability AI have each developed a text-to-image image generator powerful enough that some observers are questioning whether in the future people will be able to trust the photographic record.",
+      "sourceUrl": null,
+      "webUrl": "https://www.normantranscript.com/region/text-to-image-ai-powerful-easy-to-use-technology-for-making-art-and-fakes/article_da8fd641-82d7-5d21-9042-6c32cac9243f.html",
+      "originalUrl": "https://www.normantranscript.com/region/text-to-image-ai-powerful-easy-to-use-technology-for-making-art-and-fakes/article_da8fd641-82d7-5d21-9042-6c32cac9243f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/normantranscript.com/content/tncms/custom/image/ccdfcfb2-9d11-11e9-a40f-c347810e33cd.jpg?resize=600%2C319",
+          "width": 600,
+          "height": 319,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T12:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Norman Transcript",
+        "domain": "normantranscript.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-medical-studies-get-tech-edge-with-ai-machine-learning-remote-care.md",
       "title": "Medical studies get tech edge with AI, machine learning, remote care",
       "excerpt": "New-age technologies like Artificial Intelligence (AI) and Machine Learning (ML) have taken diagnosis, treatment, post-operative care, remote patient care and palliative care to a whole new level.",
@@ -1369,50 +1412,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-finance-provider-sets-up-fund-aimed-at-ai-machine-learning-and-data-science.md",
-      "title": "Finance provider sets up fund aimed at AI, machine learning and data science",
-      "excerpt": "AI will focus specifically on early stage, high growth artificial intelligence (AI), machine learning and data science investment opportunities in the North of the UK. River Capital says Northern data science SMEs are underserved by venture capital,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thebusinessdesk.com/northwest/news/2106804-finance-provider-sets-up-fund-aimed-at-ai-machine-learning-and-data-science",
-      "originalUrl": "https://www.thebusinessdesk.com/northwest/news/2106804-finance-provider-sets-up-fund-aimed-at-ai-machine-learning-and-data-science",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thebusinessdesk.com/_files/images/nov_22/Dr-Marc-dAbbadie-river-capital-e1669722818427.png",
-          "width": 322,
-          "height": 216,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T03:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The UK",
-        "domain": "thebusinessdesk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

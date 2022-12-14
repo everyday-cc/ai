@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla speaks up on its inability to offer self-driving cars"
-    excerpt: "Tesla is being used by a customer for not offering self-driving cars yet. The company has filed a motion to dismiss the lawsuit as it is currently still working on the software."
-    publishedDateTime: 2022-12-09T12:41:00Z
-    webUrl: "https://www.digit.in/news/car-tech/tesla-speaks-up-on-its-inability-to-offer-self-driving-cars-66311.html"
-    ampWebUrl: "https://www.digit.in/article/amp/car-tech/66311/tesla-speaks-up-on-its-inability-to-offer-self-driving-cars"
-    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/car-tech/66311/tesla-speaks-up-on-its-inability-to-offer-self-driving-cars"
-    type: article
-    provider:
-      name: Digit
-      domain: digit.in
-    quality: 59
-    images:
-      - url: "https://static.digit.in/default/fea-9-11-1280-1fc3fd6142.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Tesla to Add Radar in Hopes of Achieving Full Self Driving in Vehicles"
     excerpt: "Chuck Gersham, CEO of Owl Autonomous Imaging, says that radar technology should theoretically be the correct move in pursuit of FSD but doesn’t believe it’ll be the last change by Tesla along this route."
     publishedDateTime: 2022-12-14T00:51:00Z

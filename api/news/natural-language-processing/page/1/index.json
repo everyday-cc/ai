@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-14-ai-based-content-localisation-solutions-provider-ollang-enters-india.md",
+      "title": "AI-based content localisation solutions provider Ollang enters India",
+      "excerpt": "In addition to expanding its footprint to the country, the company is also looking to create a talent pool of AI-Dubbing experts| Marketing News",
+      "sourceUrl": null,
+      "webUrl": "https://bestmediainfo.com/2022/12/aibased-content-localisation-solutions-provider-ollang-enters-india",
+      "originalUrl": "https://bestmediainfo.com/2022/12/aibased-content-localisation-solutions-provider-ollang-enters-india",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bestmediainfo.com/uploads/2022/12/1670991277.olan.jpg",
+          "width": 620,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bestmediainfo.com/amp/2022/12/aibased-content-localisation-solutions-provider-ollang-enters-india",
+      "cdnAmpWebUrl": "https://bestmediainfo-com.cdn.ampproject.org/c/s/bestmediainfo.com/amp/2022/12/aibased-content-localisation-solutions-provider-ollang-enters-india",
+      "publishedDateTime": "2022-12-13T20:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Best Media",
+        "domain": "bestmediainfo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-12-14-4-mind-boggling-technology-advances-in-store-for-2023.md",
       "title": "4 Mind-Boggling Technology Advances In Store For 2023",
       "excerpt": "In 2023 the trend will continue as the pace of innovation and development of potentially disruptive emerging technologies exponentially increases every year",
@@ -10,7 +54,7 @@
       "originalUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -53,7 +97,8 @@
         "AI",
         "Google AI",
         "Computer Vision",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "AI in Robotics"
       ]
     },
     {
@@ -1404,59 +1449,6 @@
         "AI",
         "AI in Healthcare",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-meta-ai-unveils-ai-infused-diplomatic-charmer-which-stirs-ai-ethics-and-ai-law-into-indelicate-tiff.md",
-      "title": "Meta AI Unveils AI-Infused Diplomatic Charmer Which Stirs AI Ethics And AI Law Into Indelicate Tiff",
-      "excerpt": "Meta AI has released a fascinating AI-infused diplomacy acting app that plays the famous board game known as Diplomacy, doing so to a level seemingly on par with human players. We take a close look and assess the AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/11/23/meta-ai-unveils-ai-infused-diplomatic-charmer-which-stirs-ai-ethics-and-ai-law-into-indelicate-tiff/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/11/23/meta-ai-unveils-ai-infused-diplomatic-charmer-which-stirs-ai-ethics-and-ai-law-into-indelicate-tiff/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/637dd91f8792833e25c808cc/0x0.jpg?format=jpg&crop=2117,1410,x20,y37,safe&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/11/23/meta-ai-unveils-ai-infused-diplomatic-charmer-which-stirs-ai-ethics-and-ai-law-into-indelicate-tiff/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/11/23/meta-ai-unveils-ai-infused-diplomatic-charmer-which-stirs-ai-ethics-and-ai-law-into-indelicate-tiff/amp/",
-      "publishedDateTime": "2022-11-23T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

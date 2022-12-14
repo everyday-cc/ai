@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Nations Trading Their AI As Geopolitical Bargaining Chips Raises Angst For AI Ethics And AI Law"
-    excerpt: "AI is increasingly going to become a type of horse trading between nations. Do we want this to occur? Should there be special limits imposed? A plethora of AI Ethics and AI Law ramifications arise. Read all about it."
-    publishedDateTime: 2022-12-09T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/12/09/nations-trading-their-ai-as-geopolitical-bargaining-chips-raises-angst-for-ai-ethics-and-ai-law/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
 
 secured: "ARwICvD1Ir43qosZMwwfk6hPYCnZJWBdvIYpbp2e8Xgo7LitxBquzKahuKJAvE74pszJXpw8ITFF9IZdxIAuTxA9SMX5rnJ1NW923lKsRF+ihhCjs4HxBqvpEKYXIoIVkzlQzZUL8SwxRDozO3oQW2fVcmCQWPvbqEmr+NUK6Dxtk1lR93nAljmpJV3g7wcPVIhiVahlvQuQ5jy17Ot0Kf6iKtVFMBrlD6ozTaRdCDAjD2l06Si2GxPn9S73F6aPGjs5UDp3Zr/zrCgtF9cPqi+R/DDKqtkcmoUzjtzohavLOlBcMOZgS/vwr6bUdc6/mZv+bInDastcKXs0IR9X86n2dm8BMku1Erl+f+1rCNeNUTwe30BAOS6YsQt1a5gbo7Sci7/Ohi0YMwLyQ2fefjy6qlBcLWqnAPHdWkXlU8VGZ5NrGcH89/c8eQKlO0XE/Y1haXMO5jDYV3owYKyMkjRSyD/9f2fnLDUsZ+orZCMK67YvfvpO8PP7O8YoCwpuzLs68TZxjRsx8VEQd9V2RQ==;ER/1DrQTl8VtHkgnCn4fkw=="
 ---

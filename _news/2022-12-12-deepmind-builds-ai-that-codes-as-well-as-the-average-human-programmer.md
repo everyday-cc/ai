@@ -57,6 +57,20 @@ related:
         width: 1068
         height: 601
         isCached: true
+  - title: "Deepmind AI Predicts 214 Million Protein Structures"
+    excerpt: "Deep Mind announced they had identified 214 million 3D protein structure predictions, making them freely available for public use.”— Formaspace AUSTIN, TEXAS, UNITED STATES, December 13, 2022/ EINPresswire."
+    publishedDateTime: 2022-12-13T22:16:00Z
+    webUrl: "https://apnews.com/article/technology-science-austin-efedc7d60ca348160a1d75e2a24c9a95"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 56
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "Yr9BGcmxN30lncZjxB7l+GlKmVGp+N9ZUQb/rwZR712I0OD9HSNOsifV6p8CyKr6OtxgD3h7GinnejbF4uFwK03CQnQeVX+xeOStejToxbAlPkhdtpn9OGsbKQIlg+4hvBiuFnLJPX7QlQMrWvVujMkAeWqXK6g0u8rPe+IwmASI6vFPFmUOxvKuDYb0NWtVfiN+67OMgSzFtEmqL6eCgs11TosaQkdQgU3SFgYnHdkDjla2wgG8AhDzMmGrpci3RFSvCO5QtvgHBtZGAYxbNc1ggA7f8Z9/6qmhDXXzyD6E7jIjoizpssSz/8N95Pa8iowuZ8llM3BIyzJYLFk7+fmGd9CGNmYTNev6ihkMmm3kZ9o+j6CMTc/WtAjxOEQd1UYkUO4sU0DsNuUKPI/9wlVTZbglmBeRdMcmbH7sqVwp0Z8hVB9jPL8jBDeH5kaESeatfkxtQW68Z/GfDV/uKtCNqjHYQk/AqZtAmByGgYGC1m/XZ7v/52IhBQWs8wqHPOYgPjUFIVsiiVjfnikzzg==;AnT8L+oFfO0t99505kn0Rg=="
 ---

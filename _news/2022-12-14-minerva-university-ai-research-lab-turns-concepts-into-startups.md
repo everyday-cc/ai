@@ -8,8 +8,8 @@ webUrl: "https://www.govtech.com/education/higher-ed/minerva-university-ai-resea
 ampWebUrl: "https://www.govtech.com/education/higher-ed/minerva-university-ai-research-lab-turns-concepts-into-startups?_amp=true"
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/minerva-university-ai-research-lab-turns-concepts-into-startups?_amp=true"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Machine Learning
 
 images:
   - url: "https://erepublic.brightspotcdn.com/dims4/default/0a149bf/2147483647/strip/true/crop/1280x667+0+27/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F10%2F5e%2F4a073e77485eaf7354b36982f673%2Fthumbnail-minerva-ai-lab-2.jpg"
@@ -26,6 +27,6 @@ images:
     height: 438
     isCached: true
 
-secured: "kPC06pPLRhFkCsiO5L7YSKGv8TSf819g02tOgsWBdDH6oi3uKxUKiDmCR9VWLpJEzQ8ZMTxsQDy9ZCv2E7KGkuEAvwDxDbyOAYwD8wSpvMrzIOjHkY68bX1s26RNwmEcv1CwC+1eajFI6Ac1KQwdbStm+FkwTDuiLx08lfN8f5kGO1dD71/BJ6Z8i+83iBwbc4l+Qus/QEN7N87NcpdXCvau+GZIHvcZarLkWZo4CFnUgcj4wM2WOzTC5MrFrGVbE92lf7gmRdpVaVMqU7rbZl7crMJdMWYP1E2+Ad4/9+Rj37m7bMtCFdi6to229V5RZB5hSwUODCEeR9zRpr896ufH9tIuhs6TJvdj69619VI=;9RTt42YfHTQtU++DCgkxBA=="
+secured: "bk8wu14YkSfFoZLdJABt+bIpksZlsftuCGDPRhN3ErVLdBAiTm9SCjUgakwXBJisFRcHhSP0+KtrMbohZK9wnbkfKGSqNyD0f3q0Geqm89PF12tCdl63Qh0NzQeZ+8wXHfBWS70T61DqxkJbLbNiwREFC846rD1f31BoD0TzODXQRj+0QhL+AzvbY3JDCKiTmzt29rPccU9hY1KiVjQkJVIapaAZ70ZA0hH5J63XsIYLzNwqUNO3iHUWeyDrXrW8jQL/gn5XOPbgswiAsQjBfs+//UUYKmrVXV01Buhuy9vMw4GOQv/SnKyPuc0pMVfveFUcXD8wJiVQycVr3IkPaZLXOorEImxJsRUWL52jj78RvAgDs4A6JYlykJIGESwQCn1fkPNGWIKtSAQZoXsJPaRFd2AUtjrglJqz9gAPMrIduKptsJrujyCDfPzozHJZVjIqjuAal1KFwG1gJtmFmddZkam2Ds0bOTvbgpNuUM84uNBqq/yh3NUVkClSQjcVLo/JpMqxHqSs5X1uUCsL5g==;UuDaVJen68b7W1w7FI8oMw=="
 ---
 

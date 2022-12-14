@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wuwm.com/economy-business/economy-business/2022-12-09/ho
 cdnAmpWebUrl: "https://www-wuwm-com.cdn.ampproject.org/c/s/www.wuwm.com/economy-business/economy-business/2022-12-09/how-businesses-are-deploying-facial-recognition?_amp=true"
 type: article
 quality: 59
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://media.npr.org/assets/img/2020/03/04/manoush-zomorodi_bio_photo-1_vert-bf366cf2e0a689ea87422c5de657f381d9d43437.jpg"
         width: 2096
         height: 2794
-        isCached: true
-  - title: "US Customs agents use facial recognition system at Orlando International Airport to speed up lines"
-    excerpt: "U.S. Customs and Border Protection agents at Orlando International Airport are using facial recognition technology to help speed up screening lines that often stretch to 600 passengers deep."
-    publishedDateTime: 2022-12-09T22:00:00Z
-    webUrl: "https://www.clickorlando.com/news/investigators/2022/12/09/us-customs-agents-use-facial-recognition-system-at-orlando-international-airport-to-speed-up-lines/"
-    type: article
-    provider:
-      name: News 6 WKMG
-      domain: clickorlando.com
-    quality: 40
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/12-09-2022/t_f352d53d54e5459cb619075bf2c225bc_name_image.jpg?_a=ATO2Bfe0"
-        width: 700
-        height: 394
         isCached: true
   - title: "Facial Recognition To Mark School Attendance In UP"
     excerpt: "Uttar Pradesh government has started a facial recognition-based teacher and student attendance monitoring system for the p"

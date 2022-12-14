@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 688
         isCached: true
-  - title: "Nations Trading Their AI As Geopolitical Bargaining Chips Raises Angst For AI Ethics And AI Law"
-    excerpt: "AI is increasingly going to become a type of horse trading between nations. Do we want this to occur? Should there be special limits imposed? A plethora of AI Ethics and AI Law ramifications arise. Read all about it."
-    publishedDateTime: 2022-12-09T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/12/09/nations-trading-their-ai-as-geopolitical-bargaining-chips-raises-angst-for-ai-ethics-and-ai-law/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
   - title: "China will regulate AI-generated content with a new set of regulations"
     excerpt: "China has issued rules and guidelines that regulate the use of artificial intelligence within the country. The regulations are cautious when it comes to AI. This includes the trending AI chatbots, such as ChatGPT,"
     publishedDateTime: 2022-12-13T22:00:00Z

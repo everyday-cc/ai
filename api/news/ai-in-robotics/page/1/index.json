@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-14-4-mind-boggling-technology-advances-in-store-for-2023.md",
+      "title": "4 Mind-Boggling Technology Advances In Store For 2023",
+      "excerpt": "In 2023 the trend will continue as the pace of innovation and development of potentially disruptive emerging technologies exponentially increases every year",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/",
+      "originalUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63990ad004b32ca023bf8641/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/amp/",
+      "publishedDateTime": "2022-12-13T14:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "Computer Vision",
+        "Natural Language Processing",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-12-13-did-a-robot-write-this-we-need-watermarks-to-spot-ai.md",
       "title": "Did a Robot write this? we need watermarks to spot AI",
       "excerpt": "And remarkably, it will soon get better. OpenAI is widely expected to release its next iteration known as GPT-4 in the coming months, and early testers say it is better than anything that came before.",
@@ -10,7 +66,7 @@
       "originalUrl": "https://www.moneycontrol.com/news/opinion/did-a-robot-write-this-we-need-watermarks-to-spot-ai-9695701.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -750,20 +806,20 @@
     },
     {
       "path": "_news/2022-12-07-s10ai-inc-introduces-the-worlds-first-robot-virtual-medical-scribe.md",
-      "title": "S10.AI Inc Introduces the World’s First Robot Virtual Medical Scribe",
-      "excerpt": "The World’s First Robot Virtual Medical Scribe was created by S10.AI Inc, a startup company. This is a self-contained AI-enabled medical scribe with superior CDI scribing skills that help to ...",
+      "title": "S10.AI Inc Introduces the World's First Robot Virtual Medical Scribe",
+      "excerpt": "The World's First Robot Virtual Medical Scribe was created by S10.AI Inc, a startup company. This is a self-contained AI-enabled medical scribe with superior CDI scribing skills that help to ...",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/s10-ai-inc-introduces-the-worlds-first-robot-virtual-medical-scribe",
-      "originalUrl": "https://www.digitaljournal.com/pr/s10-ai-inc-introduces-the-worlds-first-robot-virtual-medical-scribe",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/12/ab29982507/s10-ai-inc-introduces-the-worlds-first-robot-virtual-medical-scribe",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/ab29982507/s10-ai-inc-introduces-the-worlds-first-robot-virtual-medical-scribe",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/08/AI-chatbot-China-AFP-1K-03-600x337.jpg",
-          "width": 600,
-          "height": 337,
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
+          "width": 800,
+          "height": 313,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -771,13 +827,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-06T12:36:00-08:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29982507",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29982507",
+      "publishedDateTime": "2022-12-06T12:37:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1358,49 +1414,6 @@
         "AI",
         "AI Hardware",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-the-rise-and-regulation-of-killer-police-robots.md",
-      "title": "The rise and regulation of killer police robots",
-      "excerpt": "Larger police departments in the United States have the capacity to arm remote-controlled robots with lethal weaponry and send those robots in to kill suspects. But should they be able to use that ...",
-      "sourceUrl": null,
-      "webUrl": "https://theweek.com/san-francisco/1018852/lethal-police-robots",
-      "originalUrl": "https://theweek.com/san-francisco/1018852/lethal-police-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediacloud.theweek.com/image/upload/f_auto,t_primary-image-mobile@1/v1669910848/SF%20killer%20robot.jpg",
-          "width": 375,
-          "height": 211,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theweek.com/san-francisco/1018852/lethal-police-robots?amp",
-      "cdnAmpWebUrl": "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/san-francisco/1018852/lethal-police-robots?amp",
-      "publishedDateTime": "2022-12-02T06:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "THE WEEK",
-        "domain": "theweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla speaks up on its inability to offer self-driving cars"
-    excerpt: "Tesla is being used by a customer for not offering self-driving cars yet. The company has filed a motion to dismiss the lawsuit as it is currently still working on the software."
-    publishedDateTime: 2022-12-09T12:41:00Z
-    webUrl: "https://www.digit.in/news/car-tech/tesla-speaks-up-on-its-inability-to-offer-self-driving-cars-66311.html"
-    ampWebUrl: "https://www.digit.in/article/amp/car-tech/66311/tesla-speaks-up-on-its-inability-to-offer-self-driving-cars"
-    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/car-tech/66311/tesla-speaks-up-on-its-inability-to-offer-self-driving-cars"
-    type: article
-    provider:
-      name: Digit
-      domain: digit.in
-    quality: 59
-    images:
-      - url: "https://static.digit.in/default/fea-9-11-1280-1fc3fd6142.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Tesla Says Its Self-Driving Tech May Be a ‘Failure,’ but Not Fraud"
     excerpt: "The electric car company is facing a class-action lawsuit from Autopilot and Full Self-Driving (FSD) technology customers. They claim they were ripped off, duped by statements from co-founder and CEO Elon Musk and marketing materials from Tesla over the past six years suggesting full-fledged autonomous driving was imminent."
     publishedDateTime: 2022-12-09T19:04:00Z
@@ -93,6 +77,6 @@ related:
       domain: detroitnews.com
     quality: 19
 
-secured: "7dZi6UEwNltAmQfVEFZL8tf52VmRi7BUsGN/y3+tL4TTPSwFV071i+BJPrMbQ6DNYSy4SsVwKORcUcEaBBh+raCJoEvrbFY05Jpg1gEXI86i8XbYGE+n8kojm0uLiV19fnnHsVCxWXDgo4DgTCSC1k4Ss2cZyBLWUZYvcMSextvpOD/ab9esSuguQTzJOxBKVDqEfk0X4NLM5Pmafc8ik8STPZ3R6r4003NEKm9zog1oB6Pclf4Mja5rYv2Woq29NVUV05SnjnCbk5N+h+742Eb9zYydoGDKEFK0W5H/OwTUhtoCw8HLFK57hAXFJZW4zNdWhJPt+6GErUt4SkGlwii/W9jPU5LoCagReEJMhUo=;OxS2c30N89lxyof2i0W+KQ=="
+secured: "hEuCZKZXQ9fDc801iR/k3Q7Iraz3ODakjwKNllyStBGDmCgSSieRnFnCzr3h5ibCbJTu9i5GuOgrlzJmHzyK/2TUMIrdcox91gbJ4gvobShImlSk5BJhWPhujo4obT6gTkPUsHGXDGsOKB+gPylnZfUi6h7Qc9ExuUSgZiPEzC1aNn1M21MQ+66CGoArD01WHVTGsJP/qPTSHrG2j/3LCcHt6IYXGKzoxfzBBv0MyFCbVWCfjFgCqntT7wPaS/VPMlMOAM6EUhxIJ04Nfg0X3R7WyGycADsTx+EhHn7OPFkX4kG5jx7aNFbzMfqo+RaZNyMjgzTLhgvZKYw4rxcKoL9x+QXUPT/ie36GZq/7TPeFR+px1pCw7i92U/LV0pAiN0huSSODfmTD3qgtA4MaN0CTddpko5PlSVUV3bzN7QWnQMeK7L8KAe46H2rmYIpa7uyHs1PVcbXpXfnQk5DZqstbSokRIP3pLvKkZJgaIEWZS03udTqkXQRDZIhk+t7uQUtwRQnH4IiMDgxQNLgKZA==;FMoHs6WQccWj32pcKYniZQ=="
 ---
 

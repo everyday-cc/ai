@@ -43,6 +43,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "We need digital watermarks to catch AI passing off as human"
+    excerpt: "The better that AI gets, the harder it will be to tell human and machine-made text apart. OpenAI must prioritize efforts to label the work of machines, or we could be overwhelmed with a confusing mishmash of real and fake information online."
+    publishedDateTime: 2022-12-14T04:55:00Z
+    webUrl: "https://www.livemint.com/opinion/columns/we-need-digital-watermarks-to-catch-ai-passing-off-as-human-11670952393283.html"
+    ampWebUrl: "https://www.livemint.com/opinion/columns/we-need-digital-watermarks-to-catch-ai-passing-off-as-human/amp-11670952393283.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/we-need-digital-watermarks-to-catch-ai-passing-off-as-human/amp-11670952393283.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: "https://images.livemint.com/img/2022/12/13/600x338/AI-generated-text-needs-some-kind-of-watermark--li_1670952390499.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Did a Robot Write This? We Need Watermarks to Spot AI"
     excerpt: "The better the AI gets, the harder it will be to distinguish between human and machine-made text. OpenAI needs to prioritize its efforts to label the work of machines or we could soon be overwhelmed with a confusing mishmash of real and fake information online."
     publishedDateTime: 2022-12-12T00:00:00Z

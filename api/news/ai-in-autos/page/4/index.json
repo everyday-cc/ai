@@ -2,6 +2,94 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-24-can-ai-help-ease-traffic-congestion-researchers-say-yes.md",
+      "title": "Can AI help ease traffic congestion? Researchers say yes",
+      "excerpt": "Do you ever wonder why traffic comes to a standstill for no apparent reason? Researchers say the problem is you.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox2detroit.com/news/ai-traffic-congestion-experiment-tennessee",
+      "originalUrl": "https://www.fox2detroit.com/news/ai-traffic-congestion-experiment-tennessee",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2022/11/932/470/GettyImages-1244994996.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox2detroit.com/news/ai-traffic-congestion-experiment-tennessee.amp",
+      "cdnAmpWebUrl": "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/ai-traffic-congestion-experiment-tennessee.amp",
+      "publishedDateTime": "2022-11-23T08:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WJBK",
+        "domain": "fox2detroit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-11-23-the-state-of-artificial-intelligence-at-the-manufacturing-edge.md",
+      "title": "The State of Artificial Intelligence at the Manufacturing Edge",
+      "excerpt": "The WZL is focused on a holistic approach to production engineering, covering the specifics of manufacturing technologies, machine tools, production metrology and production management, helping manufacturers test and refine advanced technology solutions before putting them into production at the manufacturing edge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/413064/the-state-of-artificial-intelligence-at-the-manufacturing-edge.html",
+      "originalUrl": "https://www.cio.com/article/413064/the-state-of-artificial-intelligence-at-the-manufacturing-edge.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2022/11/AI-edge-maufacturing_Philipp-2.jpeg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/413064/the-state-of-artificial-intelligence-at-the-manufacturing-edge.html/amp/",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/413064/the-state-of-artificial-intelligence-at-the-manufacturing-edge.html/amp/",
+      "publishedDateTime": "2022-11-23T06:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-11-23-lawsuit-takes-aim-at-the-way-ai-is-built.md",
       "title": "Lawsuit Takes Aim at the Way A.I. Is Built",
       "excerpt": "A programmer is suing Microsoft, GitHub and OpenAI over artificial intelligence technology that generates its own computer code.",
@@ -1293,83 +1381,6 @@
         "AI in Robotics",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-leading-defence-companies-in-the-artificial-intelligence-theme.md",
-      "title": "Leading defence companies in the artificial intelligence theme",
-      "excerpt": "The future of the defence industry will be shaped by a range of disruptive themes, with artificial intelligence (AI) being one of the themes that will have a significant impact on defence companies. AI technologies are rapidly evolving. The US and China ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.army-technology.com/data-insights/leading-defence-companies-in-the-artificial-intelligence-theme/",
-      "originalUrl": "https://www.army-technology.com/data-insights/leading-defence-companies-in-the-artificial-intelligence-theme/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.army-technology.com/wp-content/uploads/sites/3/2022/11/Aritificial-Intelligence-in-Defence-2.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "army-technology.com",
-        "domain": "army-technology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-artificial-intelligence-aided-colonoscopy-does-not-increase-cancer-detection.md",
-      "title": "Artificial intelligence-aided colonoscopy does not increase cancer detection",
-      "excerpt": "More information: Idan Levy et al, Artificial Intelligence-Aided Colonoscopy Does Not Increase Adenoma Detection Rate in Routine Clinical Practice, American Journal of Gastroenterology (2022). DOI ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-11-artificial-intelligence-aided-colonoscopy-cancer.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-11-artificial-intelligence-aided-colonoscopy-cancer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T15:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

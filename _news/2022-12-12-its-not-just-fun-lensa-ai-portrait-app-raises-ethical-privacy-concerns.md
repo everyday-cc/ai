@@ -107,15 +107,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "What You Should Know Before Using the Lensa AI App"
-    excerpt: "Are you thinking about uploading some selfies and buying a pack of ‘Magic Avatars’? Consider these expert tips first."
-    publishedDateTime: 2022-12-09T12:00:00Z
-    webUrl: "https://www.wired.com/story/lensa-ai-magic-avatars-security-tips/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 47
   - title: "Image Apps Like Lensa AI Are Sweeping the Internet, and Stealing From Artists"
     excerpt: "Artists] are often in the position to justify our profession, and every time something like this comes… we feel angry, frustrated, and exhausted,” she said. “After everything that’s been going on, I mainly feel exhausted and powerless,"
     publishedDateTime: 2022-12-10T07:42:00Z

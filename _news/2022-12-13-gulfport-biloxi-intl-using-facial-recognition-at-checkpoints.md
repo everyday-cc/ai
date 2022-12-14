@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/products/gulfport-biloxi-intl-using-facial-r
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/gulfport-biloxi-intl-using-facial-recognition-at-checkpoints?_amp=true"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,17 +27,80 @@ images:
     isCached: true
 
 related:
-  - title: "Gulfport-Biloxi International Airport testing facial recognition technology at TSA checkpoints"
-    excerpt: "The Gulfport-Biloxi International Airport (GPT) is one of 16 airports around the United States testing facial recognition software as a part of identity verification at TSA checkpoints. “The Transportation Security Administration is always implementing ..."
-    publishedDateTime: 2022-12-09T11:52:00Z
-    webUrl: "https://www.sunherald.com/news/business/article269775097.html"
-    ampWebUrl: "https://amp.sunherald.com/news/business/article269775097.html"
-    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/business/article269775097.html"
+  - title: "Facial recognition system rollout at Indian airports raises privacy concerns"
+    excerpt: "Since December 2, the Union Ministry of Civil Aviation has started using facial recognition technology for airport security. Airports will now allow travellers to pass through various checkpoints – entry,"
+    publishedDateTime: 2022-12-14T03:30:00Z
+    webUrl: "https://scroll.in/article/1038975/facial-recognition-system-rollout-at-indian-airports-raises-privacy-concerns"
+    ampWebUrl: "https://amp.scroll.in/article/1038975/facial-recognition-system-rollout-at-indian-airports-raises-privacy-concerns"
+    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1038975/facial-recognition-system-rollout-at-indian-airports-raises-privacy-concerns"
     type: article
     provider:
-      name: Biloxi Sun Herald
-      domain: sunherald.com
-    quality: 42
+      name: Scroll
+      domain: scroll.in
+    quality: 71
+    images:
+      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/156735-fcmoyjrqax-1616694153.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Indian police use of facial recognition in Chennai may violate privacy: Project Panoptic"
+    excerpt: "The use of face biometric technologies by police forces to identify people on the streets may clash with a Supreme Court judgment on privacy."
+    publishedDateTime: 2022-12-13T00:20:00Z
+    webUrl: "https://www.biometricupdate.com/202212/indian-police-use-of-facial-recognition-in-chennai-may-violate-privacy-project-panoptic"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 45
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
+        width: 2048
+        height: 1812
+        isCached: true
+  - title: "Victim Participation In Criminal Justice System: An Indian Perspective"
+    excerpt: "The crime victims' rights movement advocates for the rights of the victims of crime in criminal justice process. The concern for victim's rights had long been subdued. Eventually over a"
+    publishedDateTime: 2022-12-13T06:44:00Z
+    webUrl: "https://www.livelaw.in/columns/victims-rights-code-of-criminal-procedure-victim-participatory-rights-216547"
+    ampWebUrl: "https://www.livelaw.in/amp/columns/victims-rights-code-of-criminal-procedure-victim-participatory-rights-216547"
+    cdnAmpWebUrl: "https://www-livelaw-in.cdn.ampproject.org/c/s/www.livelaw.in/amp/columns/victims-rights-code-of-criminal-procedure-victim-participatory-rights-216547"
+    type: article
+    provider:
+      name: Live Law
+      domain: livelaw.in
+    quality: 44
+    images:
+      - url: "https://www.livelaw.in/h-upload/2022/07/21/426867-victim.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "US Customs agents use facial recognition system at Orlando International Airport to speed up lines"
+    excerpt: "U.S. Customs and Border Protection agents at Orlando International Airport are using facial recognition technology to help speed up screening lines that often stretch to 600 passengers deep."
+    publishedDateTime: 2022-12-09T22:00:00Z
+    webUrl: "https://www.clickorlando.com/news/investigators/2022/12/09/us-customs-agents-use-facial-recognition-system-at-orlando-international-airport-to-speed-up-lines/"
+    type: article
+    provider:
+      name: News 6 WKMG
+      domain: clickorlando.com
+    quality: 40
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/12-09-2022/t_f352d53d54e5459cb619075bf2c225bc_name_image.jpg?_a=ATO2Bfe0"
+        width: 700
+        height: 394
+        isCached: true
+  - title: "Meta-Indian Govt Bury the Hatchet, Unite for AI Innovation"
+    excerpt: "Using its position as the Chair of the Global Partnership for Artificial Intelligence, India has expressed its desire to collaborate with Meta as a trusted AI partner. In exchange for this, the country will put forward regulations in the GPAI forum that will incentivise innovation in the artificial intelligence field."
+    publishedDateTime: 2022-12-12T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/meta-indian-govt-bury-the-hatchet-unite-for-ai-innovation/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/Meta-To-Collaborate-With-The-Indian-Government.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "Nb7RHv6+tqxn/VhLrBVtGyfgaIJW1WSEgAeL9PwykrLVEXLxn4fTAZBWtt4PP3981ZJPOncQCR7GbcETkQ8yY/2iEMfZ1v8zH8OFhQ0wM8EDh/AySI5AMyDRSwBcaSmkD1XaE7wTdaElWPHtTA3SxKu2C9Hj6u0H/7YxtD3QkvbO5gG+WXQXJhzn91JmLQvKBiOio+69PKnpMwigKG6ABR5EBa6qMWKXmPSikQ+++StTQCnVZg74U9boL4uWBveYT//TPeuA0kADOiBjTjsFFezSwQr/SbF/UJ9RyjpXNK0e6RR7quwpltmUFZN/8JkTpHbR6F1OEQWmKIt7UtOLbfHOw10cDtE1ONiSBkU209gARK2S5p7py3M8yz3ekkA0PM5llaARnVhT9crrlT7nJq6RBYy8nyPAi/PDfvCExNrQ6AVK/ksngzXZvDLNwU0Wg3KPLrctJuPdry/+yn3/V3TKGR1wjRx7mxRulqXRCLy6Yz6RAR8LygLDFFt0ngl3rEU4UAI4jcnu4bjZ1Ywb+g==;DwRm0kJn0PL68agpx8O7EA=="
 ---

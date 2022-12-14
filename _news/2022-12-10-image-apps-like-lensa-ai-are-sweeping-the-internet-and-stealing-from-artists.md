@@ -120,15 +120,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "What You Should Know Before Using the Lensa AI App"
-    excerpt: "Are you thinking about uploading some selfies and buying a pack of ‘Magic Avatars’? Consider these expert tips first."
-    publishedDateTime: 2022-12-09T12:00:00Z
-    webUrl: "https://www.wired.com/story/lensa-ai-magic-avatars-security-tips/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 47
   - title: "Lensa’s AI Avatars Made Me Hot and It’s the Confidence Boost I Needed"
     excerpt: "If you follow tech news regularly, you’ve likely heard about Lensa and its AI-powered Magic Avatars. Put real simply, you give the AI ten to twenty selfies/photos of you and then it returns a group of avatars for you to use wherever or however you’d like."
     publishedDateTime: 2022-12-13T18:56:00Z

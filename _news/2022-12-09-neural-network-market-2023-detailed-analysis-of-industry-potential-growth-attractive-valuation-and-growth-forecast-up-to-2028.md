@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/neural-network-market-20
 webUrl: "https://www.marketwatch.com/press-release/neural-network-market-2023-detailed-analysis-of-industry-potential-growth-attractive-valuation-and-growth-forecast-up-to-2028-2022-12-09"
 type: article
 quality: 55
-heat: 115
+heat: 95
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in IoT Market 2023 : Trending Technologies, Manufacturers, End-Users, Growth Elements and Forecast 2028"
-    excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence in IoT Market will have significant change from previous year. By the most conservati"
-    publishedDateTime: 2022-12-09T12:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-2023-trending-technologies-manufacturers-end-users-growth-elements-and-forecast-2028-2022-12-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Computer Networks Market 2023 Company Challenges, Latest Advancements, Growth Prediction, and Forecast by 2028"
     excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence in Computer Networks Market will have significant change from previous year. By the m"
     publishedDateTime: 2022-12-13T10:11:00Z
@@ -66,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
-  - title: "Artificial Intelligence in Food and Beverage Market : Share, Industry Size, Opportunities, Analysis and Forecast to 2028 with Top Countries Data"
-    excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence in Food and Beverage Market will have significant change from previous year. By the m"
-    publishedDateTime: 2022-12-09T12:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-food-and-beverage-market-share-industry-size-opportunities-analysis-and-forecast-to-2028-with-top-countries-data-2022-12-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in BFSI Market To Show Incredible Growth And Forecast By 2028 Segment, Privacy Tools And Key Players Information"
     excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence in BFSI Market will have significant change from previous year. By the most conservati"
     publishedDateTime: 2022-12-11T10:26:00Z

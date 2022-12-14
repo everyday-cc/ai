@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -53,7 +53,8 @@
         "AI",
         "Google AI",
         "Computer Vision",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "AI in Robotics"
       ]
     },
     {
@@ -293,6 +294,60 @@
       ]
     },
     {
+      "path": "_news/2022-12-12-artificial-intelligence-and-machine-learning-market-size-by-types-by-application-and-forecast-from-2022-2028.md",
+      "title": "Artificial Intelligence and Machine Learning Market Size: By Types, By Application and forecast from 2022 - 2028.",
+      "excerpt": "The “ Artificial Intelligence and Machine Learning Market ” report provides a detailed overview of diversified objectives which includes analytical components, product creation, and staying on track with the competitive field.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-size-by-types-by-application-and-forecast-from-2022---2028-2022-12-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-size-by-types-by-application-and-forecast-from-2022---2028-2022-12-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-12-11-rbi-shortlists-7-global-consultancy-firms-to-use-artificial-intelligence-and-machine-learning.md",
       "title": "RBI shortlists 7 global consultancy firms to use artificial intelligence and machine learning",
       "excerpt": "The bank now intends to upscale it to ensure that the benefits of advanced analytics can accrue to Department of Supervision in central bank",
@@ -486,7 +541,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/neural-network-market-2023-detailed-analysis-of-industry-potential-growth-attractive-valuation-and-growth-forecast-up-to-2028-2022-12-09",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1381,49 +1436,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-text-to-image-ai-powerful-easy-to-use-technology-for-making-art-and-fakes.md",
-      "title": "Text-to-image AI: powerful, easy-to-use technology for making art – and fakes",
-      "excerpt": "Seemingly bound by only your imagination, this latest trend in synthetic media has delighted many, inspired others and struck fear in some. Google, research firm OpenAI and AI vendor Stability AI have each developed a text-to-image image generator powerful enough that some observers are questioning whether in the future people will be able to trust the photographic record.",
-      "sourceUrl": null,
-      "webUrl": "https://www.normantranscript.com/region/text-to-image-ai-powerful-easy-to-use-technology-for-making-art-and-fakes/article_da8fd641-82d7-5d21-9042-6c32cac9243f.html",
-      "originalUrl": "https://www.normantranscript.com/region/text-to-image-ai-powerful-easy-to-use-technology-for-making-art-and-fakes/article_da8fd641-82d7-5d21-9042-6c32cac9243f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/normantranscript.com/content/tncms/custom/image/ccdfcfb2-9d11-11e9-a40f-c347810e33cd.jpg?resize=600%2C319",
-          "width": 600,
-          "height": 319,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-05T12:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Norman Transcript",
-        "domain": "normantranscript.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],
