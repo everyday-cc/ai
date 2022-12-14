@@ -9,8 +9,8 @@ ampWebUrl: "https://www.moneycontrol.com/news/business/violation-of-right-to-pri
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/violation-of-right-to-privacy-karti-chidambaram-on-orwellian-usage-of-facial-recognition-by-chennai-police-9698351.html/amp"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: moneycontrol.com
@@ -40,20 +40,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
         width: 2048
         height: 1812
-        isCached: true
-  - title: "“Nothing to worry”: Chennai Police Justifies Use of Facial Recognition System on Random Citizens"
-    excerpt: "FRS is being used to verify random citizens and identify criminals moving around at night hours, Chennai Police said"
-    publishedDateTime: 2022-12-09T09:22:00Z
-    webUrl: "https://www.medianama.com/2022/12/223-chennai-police-uses-frs-verify-random-citizens/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 41
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2022/12/vadim-bogulov-MjdMKvEEuqo-unsplash.jpg"
-        width: 1600
-        height: 1162
         isCached: true
 
 secured: "3/7xqq6AmVCdYTGM8bK3IcJt4h7ia1htCu0c9iIpHtZv2xE9dGmGQ0ZMGdar5TD5mFJQdlMV+bOf687VmZXRZKCgHE2RJgZkg2wVljqwQOSpZTGuPIDPckFSt9fer9KjpJVif3Q2CyD+Uro5e2w6Cdj/1KgFm0/rRVZInb79eAcPKePS/hIbTB1ot4Rv+DrmkDE92KunWLJ2rAERLdnJE30g+7zGSqbcIXUOi/71hUmYXjcdWgapGmOMJob/AgLA4x+c+TK4vp8FWLKUP28cd7EY9HCQqAQm5EH1LEDvauxgOzzBJxdB02ElD1JaUSMgdDLnUuNn3StLshdufzanJ/pDhr3htrZtcAD8fKtTpenhr6heSpjR+sZVe9O0R+5psA3EYDXebSMliv2V9SirwCKt+tCmC4k9Y9bj8sXlPngURJyuo62HHME+ITce2J+dUC1CiTSWi8gfK9W5fAWyslJ0Kkmm/xEdQ9XaQPKxBJvSAyHhUfKhFPpomS4FSv5ELtM1sxoHQGpMVbbZMpDY1Q==;FiqKEgofc/Goonn4FmS5Ww=="

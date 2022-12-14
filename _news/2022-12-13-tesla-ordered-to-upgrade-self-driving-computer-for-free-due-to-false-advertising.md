@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2022/12/12/tesla-ordered-upgrade-self-driving-
 webUrl: "https://electrek.co/2022/12/12/tesla-ordered-upgrade-self-driving-computer-for-free-false-advertising/"
 type: article
 quality: 63
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2022-12/Tesla-autonomous-1200.jpg"
         width: 470
         height: 246
+        isCached: true
+  - title: "Tesla to Add Radar in Hopes of Achieving Full Self Driving in Vehicles"
+    excerpt: "Chuck Gersham, CEO of Owl Autonomous Imaging, says that radar technology should theoretically be the correct move in pursuit of FSD but doesn’t believe it’ll be the last change by Tesla along this route."
+    publishedDateTime: 2022-12-14T00:51:00Z
+    webUrl: "https://marketscale.com/industries/transportation/tesla-to-add-radar-in-hopes-of-achieving-full-self-driving-in-vehicles/"
+    type: article
+    provider:
+      name: marketscale
+      domain: marketscale.com
+    quality: 54
+    images:
+      - url: "https://marketscale.com/wp-content/uploads/2022/12/shutterstock_1140629366-scaled.jpg"
+        width: 1920
+        height: 1273
         isCached: true
   - title: "Tesla Lawyers Say Failure to Deliver Self-Driving Isn't Technically Fraud"
     excerpt: "A lawsuit filed against Tesla alleges it misled consumers by claiming its cars are self-driving, to which Tesla's lawyers retort: well, it's not fraud."

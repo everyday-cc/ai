@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -50,7 +50,10 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "Google AI",
+        "Computer Vision",
+        "Natural Language Processing"
       ]
     },
     {
@@ -298,7 +301,7 @@
       "originalUrl": "https://www.telegraphindia.com/business/reserve-bank-of-india-shortlists-7-global-consultancy-firms-to-use-artificial-intelligence-and-machine-learning-to-improve-regulatory-supervision/cid/1903251",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 75,
       "tags": null,
       "images": [
         {

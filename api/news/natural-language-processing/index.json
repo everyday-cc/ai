@@ -2,6 +2,61 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-14-4-mind-boggling-technology-advances-in-store-for-2023.md",
+      "title": "4 Mind-Boggling Technology Advances In Store For 2023",
+      "excerpt": "In 2023 the trend will continue as the pace of innovation and development of potentially disruptive emerging technologies exponentially increases every year",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/",
+      "originalUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63990ad004b32ca023bf8641/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/amp/",
+      "publishedDateTime": "2022-12-13T14:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "Computer Vision",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-12-12-amazon-sagemaker-jumpstart-now-offers-amazon-comprehend-notebooks-for-custom-classification-and-custom-entity-detection.md",
       "title": "Amazon SageMaker JumpStart now offers Amazon Comprehend notebooks for custom classification and custom entity detection",
       "excerpt": "Amazon Comprehend is a natural language processing (NLP) service that uses machine learning (ML) to discover insights from text. Amazon Comprehend provides customized features, custom entity recognition, custom classification, and pre-trained APIs such as key phrase extraction, sentiment analysis, entity",
@@ -698,31 +753,22 @@
       "title": "Finch Computing Accelerates its Natural Language Processing Capabilities",
       "excerpt": "LAS VEGAS, Nov. 30, 2022 /PRNewswire/ -- Finch Computing, developers of innovative natural language processing technology used throughout the Federal government and among financial firms ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/11/n29917271/finch-computing-accelerates-its-natural-language-processing-capabilities",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/n29917271/finch-computing-accelerates-its-natural-language-processing-capabilities",
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/markets-news/PR Newswire/12126976/finch-computing-accelerates-its-natural-language-processing-capabilities/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/markets-news/PR Newswire/12126976/finch-computing-accelerates-its-natural-language-processing-capabilities/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
-          "width": 800,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29917271",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29917271",
-      "publishedDateTime": "2022-11-30T19:11:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T19:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1409,49 +1455,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-metas-new-ai-can-use-deceit-to-conquer-a-board-game-world.md",
-      "title": "Meta’s new AI can use deceit to conquer a board game world",
-      "excerpt": "AI has learned to compete against humans in games like chess and Go. But how does it fare in a game that required communication and planning?",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/technology/meta-ai-bot-diplomacy/",
-      "originalUrl": "https://www.popsci.com/technology/meta-ai-bot-diplomacy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2022/11/22/asli-yilmaz-u1PX1Q26Kpo-unsplash-scaled.jpg?auto=webp",
-          "width": 2560,
-          "height": 1596,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/technology/meta-ai-bot-diplomacy/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/meta-ai-bot-diplomacy/?amp",
-      "publishedDateTime": "2022-11-22T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "Natural Language Processing"
       ]

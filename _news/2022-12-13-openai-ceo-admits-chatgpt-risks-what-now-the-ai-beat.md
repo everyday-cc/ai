@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/openai-ceo-admits-chatgpt-risks-what-now-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/openai-ceo-admits-chatgpt-risks-what-now-the-ai-beat/amp/"
 type: article
 quality: 87
-heat: 188
+heat: 198
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/639396616b1ddb747792f2ca/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "ChatGPT has mastered the confidence trick, and that's a terrible look for AI"
+    excerpt: "ChatGPT appears disarmingly frank about its flaws if you ask it outright. Say you're a lazy journalist who asks it to \"produce a column about ChatGPT's mistakes when writing code.\" \"As a large language model trained by OpenAI,"
+    publishedDateTime: 2022-12-14T00:50:00Z
+    webUrl: "https://www.theregister.com/2022/12/12/chatgpt_has_mastered_the_confidence/?td=rt-9cs"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/12/12/chatgpt_has_mastered_the_confidence/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/12/12/chatgpt_has_mastered_the_confidence/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 56
+    images:
+      - url: "https://regmedia.co.uk/2022/12/09/shutterstock_ai_typing.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "The 5 Best Uses (So Far) for ChatGPT's AI Chatbot"
     excerpt: "The new AI tool ChatGPT has inspired excitement and worry with its ability to instantly answer complex questions. In the days after its debut, people have discovered many ways it can make their lives easier -- including five we've found that rise above the rest."

@@ -24,22 +24,6 @@ images:
     height: 573
     isCached: true
 
-related:
-  - title: "We Prompted ChatGPT to be a Translation Manager"
-    excerpt: "After Slator tested the waters by asking ChatGPT questions about the language industry, we took it a few steps forward by producing a video with ChatGPT, Synthesia, and Descript. First, we asked ChatGPT to answer questions as if they were a translation manager on a podcast."
-    publishedDateTime: 2022-12-09T10:41:00Z
-    webUrl: "https://slator.com/we-prompted-chatgpt-to-be-a-translation-manager/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 24
-    images:
-      - url: "https://slator.com/assets/2022/12/ChatGPT-interviews-as-Translation-Manager.png"
-        width: 600
-        height: 400
-        isCached: true
-
 secured: "PlqV+TaX3OvY0xoKJbX/1Vp3tqNO8+LnPTwXJ2bp4MYm2cgvGSauE0KTaAbaqTomorPCj0k87aVj2i8wP6Ku06DMQs5yd4JEYU8cRp0Wm0fmg87XTOKIZUfFYp+VB5/NR0YQ2wy7BLFmi4fbQ2aX/EzYaylhYB6m5J9mTjsXEUPuWQ6+k4O1bQn6okV7N4rRThzq6pn92enUWcOBjId44U22pb0oqx3h/snmJO8Qem+8cukYUeqjrDS93U3sI38y+uU4OrmBQz2iq9oa3a4yYsHOVoqzVEQycv6iGe2jP9NSKsXIJRxs71CuLEL30AUeNt4Qo5qKmhGKOc4PbnntBYFDOf82XtDg2JT7BueoJLO+hQIPUOmWvdpdgmcVh9tGIlRRU2yq6mViBuy93cUepmMKQKcAH19JCcHqwgL/LFHoxhkmxWsg2W2wpUQRwLq5JcxyEjIcptilW/I7px0SYZ6el/43/JQZCjVDCMVX0Acu/o5WXhMsF4hwkjbOHLtYBWk/QtqSKRLy+Bg8QPG4+g==;N6o7s71YWSnZiiMG2Lo8Qg=="
 ---
 

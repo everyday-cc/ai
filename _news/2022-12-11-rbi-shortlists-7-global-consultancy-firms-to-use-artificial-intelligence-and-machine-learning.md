@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraphindia.com/amp/business/reserve-bank-of-india-sh
 cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/reserve-bank-of-india-shortlists-7-global-consultancy-firms-to-use-artificial-intelligence-and-machine-learning-to-improve-regulatory-supervision/cid/1903251"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1645020939.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Startup aims to use AI to help rebuild manufacturing at U.S. machine shops"
-    excerpt: "Adam Ellis, a seasoned software entrepreneur, thinks his Harmoni device can help machine shops cut costs, reduce waste and improve the skills and performance of their workers."
-    publishedDateTime: 2022-12-09T10:00:00Z
-    webUrl: "https://www.crainscleveland.com/manufacturing/akron-entrepreneur-aims-artificial-intelligence-cnc-machining"
-    type: article
-    provider:
-      name: Crain's Cleveland Business
-      domain: crainscleveland.com
-    quality: 35
-    images:
-      - url: "https://s3-prod.crainscleveland.com/s3fs-public/styles/800x600/public/harmoni-001-Edit_i.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "UhNc2IzNZ6P0e96ZTyiMTiGrDpwZqcJzPXL0j3HzlzfpRruasA9nodLdRpSvc1UPGcTxR+QVZ5uKgNCsk1TsogW2atvF7NVAkB8iBVYRTG90Ef8JWc9TKd/kYArIutmom/qCipaVXG8RwPa0dWEGPI8CvfRkhMeInxpfLDOzMgWjXb5vnd1+55edHMaAiU2YVWQDNHPhCtCI4Dj2y8C8B8zxFzgMHKmsa8zBfBSeyOfgV8IMarkq0TGXg0cRVxyDowUvYtgrrGPJerm6A+YrrJotov4DiMblbzdOfD25T5+JgjDuWq0oFPxNL1fhQRSnRqgieZOh2pcam3F6neOtmntH8IQnpGEpoNX+CI5Da30+Z/SVkCgjeVwKiJSMj96gM0TEcITSePhCkoVDgCbMgCJIxjl5QvanIBjq2CbZf7LJmKXsl1+X8mmTFYfxw7tvvyaeuFr7q7Q3H77NKpA0WZkhLQVE9rMK87JB+VHDm4t32bIcVugkeNXiuhnzzPSGkrkUZwVDhEAS8CWyWY/pOA==;fRXk2wASnlNubwaLdXd7/g=="

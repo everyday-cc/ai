@@ -61,7 +61,7 @@
       "originalUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -101,7 +101,10 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "Google AI",
+        "Computer Vision",
+        "Natural Language Processing"
       ]
     },
     {
@@ -651,49 +654,6 @@
       ]
     },
     {
-      "path": "_news/2022-12-13-violation-of-right-to-privacy-karti-chidambaram-on-orwellian-usage-of-facial-recognition-by-chennai-police.md",
-      "title": "Violation of Right to Privacy: Karti Chidambaram on 'Orwellian' usage of facial recognition by Chennai police",
-      "excerpt": "This comes a few days after the GCP admitted to using the technology in response to a tweet by a Chennai resident.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/violation-of-right-to-privacy-karti-chidambaram-on-orwellian-usage-of-facial-recognition-by-chennai-police-9698351.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/violation-of-right-to-privacy-karti-chidambaram-on-orwellian-usage-of-facial-recognition-by-chennai-police-9698351.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2019/02/RTX6GAJA.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/violation-of-right-to-privacy-karti-chidambaram-on-orwellian-usage-of-facial-recognition-by-chennai-police-9698351.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/violation-of-right-to-privacy-karti-chidambaram-on-orwellian-usage-of-facial-recognition-by-chennai-police-9698351.html/amp",
-      "publishedDateTime": "2022-12-13T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-13-is-learning-code-still-necessary-for-businesses.md",
       "title": "Is Learning Code Still Necessary For Businesses?",
       "excerpt": "Whether you rent a storefront or operate fully online, you’ll be in need of the software development know-how required to thrive in the digital realm.",
@@ -1048,7 +1008,7 @@
       "originalUrl": "https://electrek.co/2022/12/12/tesla-ordered-upgrade-self-driving-computer-for-free-false-advertising/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -1196,7 +1156,7 @@
       "originalUrl": "https://venturebeat.com/ai/openai-ceo-admits-chatgpt-risks-what-now-the-ai-beat/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 188,
+      "heat": 198,
       "tags": null,
       "images": [
         {
@@ -1236,6 +1196,59 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-12-amazon-sagemaker-jumpstart-now-offers-amazon-comprehend-notebooks-for-custom-classification-and-custom-entity-detection.md",
+      "title": "Amazon SageMaker JumpStart now offers Amazon Comprehend notebooks for custom classification and custom entity detection",
+      "excerpt": "Amazon Comprehend is a natural language processing (NLP) service that uses machine learning (ML) to discover insights from text. Amazon Comprehend provides customized features, custom entity recognition, custom classification, and pre-trained APIs such as key phrase extraction, sentiment analysis, entity",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-now-offers-amazon-comprehend-notebooks-for-custom-classification-and-custom-entity-detection/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-now-offers-amazon-comprehend-notebooks-for-custom-classification-and-custom-entity-detection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/12/sagemaker-jumpstart-comprehend-notebooks.jpg",
+          "width": 1564,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T09:04:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
       ]
     }
   ],

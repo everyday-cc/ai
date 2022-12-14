@@ -95,20 +95,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "7 FinTech tweets you should see!"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2022-12-09T09:08:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/7-fintech-tweets-you-should-see-6/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/FinTech-Funding-wealth.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "F|T: The FinTech Times – Is CPPI out on crypto?"
     excerpt: "Welcome to the FinTech Times, a weekly newsletter covering the biggest FinTech news from around the globe. If you want to read F|T before anyone else, make sure to subscribe using the form at the bottom of this page."
     publishedDateTime: 2022-12-13T10:00:00Z
@@ -122,6 +108,20 @@ related:
       - url: "https://cdn.betakit.com/wp-content/uploads/2022/12/BITCOIN.jpeg"
         width: 1050
         height: 700
+        isCached: true
+  - title: "This is how fintech is changing the game for young professionals in India"
+    excerpt: "Indian professionals need more than ever is ground-breaking financial services that go beyond the norm to realise their dream of non-discriminatory financial inclusion and stability."
+    publishedDateTime: 2022-12-14T02:00:00Z
+    webUrl: "https://yourstory.com/2022/12/this-is-how-fintech-is-changing-the-game-for-young"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 23
+    images:
+      - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/digital-payments-1588829559718.png?fm=png&auto=format"
+        width: 800
+        height: 400
         isCached: true
   - title: "UAE fintech Xare to set up regional HQ in Silicon Valley in bid for global expansion"
     excerpt: "The startup will house part of its product management and marketing teams from the US office for its global operations UAE fintech Xare to set up regional HQ in Silicon Valley in bid for global expansion fintech,"

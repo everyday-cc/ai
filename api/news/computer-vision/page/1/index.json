@@ -2,6 +2,61 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-14-4-mind-boggling-technology-advances-in-store-for-2023.md",
+      "title": "4 Mind-Boggling Technology Advances In Store For 2023",
+      "excerpt": "In 2023 the trend will continue as the pace of innovation and development of potentially disruptive emerging technologies exponentially increases every year",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/",
+      "originalUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63990ad004b32ca023bf8641/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/amp/",
+      "publishedDateTime": "2022-12-13T14:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "Computer Vision",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-12-13-chronomics-detects-covid-19-test-results-with-amazon-rekognition-custom-labels.md",
       "title": "Chronomics detects COVID-19 test results with Amazon Rekognition Custom Labels",
       "excerpt": "Chronomics is a tech-bio company that uses biomarkers—quantifiable information taken from the analysis of molecules—alongside technology to democratize the use of science and data to improve the lives of people. Their goal is to analyze biological samples and give actionable information to help you make",
@@ -96,49 +151,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-violation-of-right-to-privacy-karti-chidambaram-on-orwellian-usage-of-facial-recognition-by-chennai-police.md",
-      "title": "Violation of Right to Privacy: Karti Chidambaram on 'Orwellian' usage of facial recognition by Chennai police",
-      "excerpt": "This comes a few days after the GCP admitted to using the technology in response to a tweet by a Chennai resident.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/violation-of-right-to-privacy-karti-chidambaram-on-orwellian-usage-of-facial-recognition-by-chennai-police-9698351.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/violation-of-right-to-privacy-karti-chidambaram-on-orwellian-usage-of-facial-recognition-by-chennai-police-9698351.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2019/02/RTX6GAJA.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/violation-of-right-to-privacy-karti-chidambaram-on-orwellian-usage-of-facial-recognition-by-chennai-police-9698351.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/violation-of-right-to-privacy-karti-chidambaram-on-orwellian-usage-of-facial-recognition-by-chennai-police-9698351.html/amp",
-      "publishedDateTime": "2022-12-13T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {

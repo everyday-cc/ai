@@ -43,20 +43,6 @@ related:
         width: 1920
         height: 1282
         isCached: true
-  - title: "DeepMind’s AlphaCode is Now Available on GitHub"
-    excerpt: "AlphaCode has already made waves through its potential to beat computer programmers by analysing algorithm and generating complex programmes."
-    publishedDateTime: 2022-12-09T09:34:00Z
-    webUrl: "https://analyticsindiamag.com/deepminds-alphacode-is-now-available-on-github/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/deep-1.png"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "DeepMind Builds AI That Codes as Well as the Average Human Programmer"
     excerpt: "In an apparent effort to put themselves out of a job, DeepMind researchers have created an AI that can write code, and it performs surprisingly well in programming challenges."
     publishedDateTime: 2022-12-12T13:24:00Z

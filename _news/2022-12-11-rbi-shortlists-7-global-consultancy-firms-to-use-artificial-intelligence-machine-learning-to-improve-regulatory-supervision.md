@@ -44,20 +44,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Startup aims to use AI to help rebuild manufacturing at U.S. machine shops"
-    excerpt: "Adam Ellis, a seasoned software entrepreneur, thinks his Harmoni device can help machine shops cut costs, reduce waste and improve the skills and performance of their workers."
-    publishedDateTime: 2022-12-09T10:00:00Z
-    webUrl: "https://www.crainscleveland.com/manufacturing/akron-entrepreneur-aims-artificial-intelligence-cnc-machining"
-    type: article
-    provider:
-      name: Crain's Cleveland Business
-      domain: crainscleveland.com
-    quality: 35
-    images:
-      - url: "https://s3-prod.crainscleveland.com/s3fs-public/styles/800x600/public/harmoni-001-Edit_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "VHR9G8hpQqqqpdMpHNLbN007qBdV9+WXSpW+prRGtf51s5cCIzAT4KaFkAa+JUnYFbbY2NZAgndy+twgh7YTBJXQsmZ7OJY4s4Am6Ba9xfmdvwThqLThWAu2H44eLGgsXNGyuQvX6xKI6uuHQV2RDNk6+Ar5HGleeCfw/1+O5xHWGZcNEU8Yz56mVrK9eV0KPvLyrYKfn3ZXHMsDzTSS92erkb01Wdu+7LvMMf+Ah51tmLRsepM5w/uJDw2RiYy8QIMnR0LzcerohdA8EjlHulkt7TuvRMcvD+Jokh0nyzAiAHIuXrAghFXdCXfJFNY8eWiOzYF2nx/gpXC20yVvuWIyu/Y4832RE0JDHxyYcqZB8DO9dADUB0eaDpRrUS1mlMmjPDdn4hTreHehhUCVYx4AMFn9rhd58gMze2NVXIbGlEqCGTIrHphNw/gMzzDdfvyJ2RVrWgTcdJXzTXd3fou5VyXRmddBs1EaKBo5RmVytMswfb2LA3EbTzCUWytEb+KSRX/c9L8enqfEVFmK0A==;GTFUL3rHh4B37s7euYDu4w=="
 ---

@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "“Nothing to worry”: Chennai Police Justifies Use of Facial Recognition System on Random Citizens"
-    excerpt: "FRS is being used to verify random citizens and identify criminals moving around at night hours, Chennai Police said"
-    publishedDateTime: 2022-12-09T09:22:00Z
-    webUrl: "https://www.medianama.com/2022/12/223-chennai-police-uses-frs-verify-random-citizens/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 41
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2022/12/vadim-bogulov-MjdMKvEEuqo-unsplash.jpg"
-        width: 1600
-        height: 1162
-        isCached: true
 
 secured: "XckyoDBabygyIcR9CtQsdTw2NvBC22/yPcEogpt1VHgKpz/IGq4BrGbXdBsQRUsvXFpxRfp6cHVMAu6qI28Tj6h0BBQZav0UeVJrgCQHIqCNxic6U5m/NLlfiQrb6S++D+0LBFhXtHccWcjkApeJF13O1t+fgGe/69YBYvihSwVpcDPkPWUerpcJZltJfuntiV8FuB3i1D2wLMB3k7KJDTiVtGy9Xt0E4tnLHJvVt5lvCYEH06peR8hWBCDwgcBA8SwC0H959vk1ti/DEIOLEo/uxmhzWxWLxGV8UywXDiRODya1pVXDwREJezCC7u0krAdHqjUndR3WiR5AqdU4+EDrVFcB8NV14rWWP9x6gUVBlpZZGbz6jMl3wKT3Q450Csfd5NNpMvG7CpFVTPay+CYa9B/HCOfdYx09OdZZJnNtN6lZYeKu/DH26oM5buUgFYgJb9+EFJdROfsTglm9G4ex/GDHWDRWJ2hXpRsTX7SmlIKqmRAcjTefNXsNemF1VisM85TrSIGy65PmGSbMrA==;ogM3rEYijuxspCNWJ9Rwuw=="
 ---
