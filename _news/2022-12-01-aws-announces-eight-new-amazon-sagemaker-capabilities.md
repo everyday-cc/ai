@@ -1,20 +1,20 @@
 ---
 category: news
 title: "AWS Announces Eight New Amazon SageMaker Capabilities"
-excerpt: "Developers, data scientists, and business analysts use Amazon SageMaker to build, train, and deploy ML models quickly and easily using its fully managed infrastructure, tools, and workflows. As customers continue to innovate using ML, they are creating ..."
-publishedDateTime: 2022-11-30T19:22:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2022/11/30/aws-announces-eight-new-amazon-sagemaker-capabilities"
-webUrl: "https://stockhouse.com/news/press-releases/2022/11/30/aws-announces-eight-new-amazon-sagemaker-capabilities"
+excerpt: "Amazon SageMaker Studio Notebook gives practitioners a fully managed notebook experience, from data exploration to deployment. As teams grow in size and"
+publishedDateTime: 2022-11-30T21:21:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/11/30/9722319.htm"
+webUrl: "https://it.tmcnet.com/news/2022/11/30/9722319.htm"
 type: article
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "FdMXKDlRK+maRGmkoKhabwvh2NiKg/iKjBdxvc+RBKYMpbluHJ+MV+yU76o8mfRzeRzFoRj4azauhf9GczgHWnSkXNkcq+15J4sVg5Sbte3DxZ9Fr79XVbRmg6YJawdBOuz950x5l7JYQCx9Jme4cMMtXrunvb4QBp0Ra8o095qi3xovFa6TKav0fuN+mAvawcL3QvGJSUVC0+HlMrbyXuqgbaxd7LLElooXa/wixsle2lBKuR3aSo0HjWyhnuOzfNVnnpcvs0peGkyouz55BGdcQDhsmnuwNKNCIVBSRzpzqTTRt72G1GNeYwsc3p/8KbKjTDThaflHGk9ttV1aM+ML2GBxD4eOyEofFF5oCFQ=;SWBBkNAse8qpCvTBVKBOFQ=="
+secured: "lfBPq6v+7CfWp0/M1fnRqta9s2iBGHzWXeAgELdlvqeTT0wPut5/tKfUqBK/xRA7Sa5Z3HgddKIfKBW1OMJutxY5/LaRQUhI9nZzDtmqmOsxZcg2dgkKGH8Z/i77QM+hYU/ZzWskKaParC/BNB3iBlRXG+0Upmp3PM10V2qF1hWmKayXyLu7kpR0LGlVrPir6XOt7f8DDzwTJkuPK0SLSGKVGyAnZ+Wx4YsAx4TeYs2/dD4YyoZ+Kasz+C2lI7aKvOLjKRXirFVSiIszzb85Rm8hUqH4lWjHiFWbqqqGpY+pQZnKjnsBdDl6Bskr8ysYOY1Bcjg6Bgm7yoBILMcNItBcd88CEcWZeIvHRNOhTAc=;5ruGTBnw5rPBz+r7oaIxJw=="
 ---
 

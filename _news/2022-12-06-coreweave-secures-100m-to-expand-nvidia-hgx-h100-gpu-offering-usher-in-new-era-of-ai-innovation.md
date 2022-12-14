@@ -1,28 +1,20 @@
 ---
 category: news
 title: "CoreWeave Secures $100M to Expand NVIDIA HGX H100 GPU Offering, Usher in New Era of AI Innovation"
-excerpt: "to scale its on-demand GPU compute resources for customers and democratize access to market disruptive AI products. This funding injection is Magnetar's second investment in CoreWeave, following ..."
-publishedDateTime: 2022-12-06T12:19:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/12/b29970509/coreweave-secures-100m-to-expand-nvidia-hgx-h100-gpu-offering-usher-in-new-era-of-ai-innovation"
-webUrl: "https://www.benzinga.com/pressreleases/22/12/b29970509/coreweave-secures-100m-to-expand-nvidia-hgx-h100-gpu-offering-usher-in-new-era-of-ai-innovation"
-ampWebUrl: "https://www.benzinga.com/amp/content/29970509"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29970509"
+excerpt: "NVIDIA HGX H100 supercomputing - joining Amazon, Google, Microsoft and Oracle as the initial cloud providers to supply the trailblazing AI platform. CoreWeave is on pace to grow year-over-year revenue by over 450%,"
+publishedDateTime: 2022-12-06T13:23:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-coreweave-secures-100m-expand-nvidia-hgx-h100-gpu-/2022/12/06/9724756.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-coreweave-secures-100m-expand-nvidia-hgx-h100-gpu-/2022/12/06/9724756.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
-    width: 800
-    height: 313
-    isCached: true
-
-secured: "EhwgIVAMpH9sEw2IbF1OkN3secH6PCDmM3AvWWX2xhh8cz07bm4qyaT/qHNeW4voQ0+QDh7HTLuMylZVMpsfyHRBrJsP2NRVtosbq0GiFhDogXFgjdT49LpcnGX2Q+g+HImyQIndqfWemrAzAOy43eyp7x8Rl7Esvvdk7EgmEGcHx5tuSJTyh1mvk1M18VaHGhLaDiP4eoUT1OrQ0/F3m0hsL5UzG5h33+tMZ4igCpN0k+ZoAMxetCb3HEm8XHfNhlH6VxpK67ZfVQpWtyp+CAb18oEBtw50NFwmbVwo2hqUrB7o4z+65cW2Z4lOOkhSFA3xiiuvDW59/CaQUWKHXPAq6zcFnoQ9pZnLLx6ioEM=;U2nxZQt28PBGOMc29o9VRg=="
+secured: "VQ/jNUwEVGvJNA9dkCkXdKMlHuorkSmJLuXKTppsbMR9MnARHw5H3vxyQGyqK83UwnrLLgfcdAD3FmOqxkMo3vqE5LLMpgkKpSFOpoteBU39uQsjIS84IHKQeEIzdYYDvV80D5+9FW7W3XuqnMgDpnkuLIUhWuWO0OwybR+3bMx7WZyBxE5IVCQUD06gox7v6Dfcdrger5lD9j51hdSmNr14vxdAo4J2Q9fFdtUv46qNWr09dVeA8KEWvv4dR1oBiy70eRATDSx0D+PJVChgZHgAQish7hXsyegi/9BqJTxbEmxYYyKwIO7OyO7zAhOMp0pv+3on7/INUuW3xJGAStyNRaIIgIAqduOI6YxZA7g=;JNx0nUoVPYG1dz8rr54Fuw=="
 ---
 

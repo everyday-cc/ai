@@ -2,27 +2,19 @@
 category: news
 title: "Finch Computing Accelerates its Natural Language Processing Capabilities"
 excerpt: "LAS VEGAS, Nov. 30, 2022 /PRNewswire/ -- Finch Computing, developers of innovative natural language processing technology used throughout the Federal government and among financial firms ..."
-publishedDateTime: 2022-12-01T03:11:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29917271/finch-computing-accelerates-its-natural-language-processing-capabilities"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/n29917271/finch-computing-accelerates-its-natural-language-processing-capabilities"
-ampWebUrl: "https://www.benzinga.com/amp/content/29917271"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29917271"
+publishedDateTime: 2022-12-01T03:41:00Z
+originalUrl: "https://www.ksn.com/business/press-releases/cision/20221130PH52017/finch-computing-accelerates-its-natural-language-processing-capabilities/"
+webUrl: "https://www.ksn.com/business/press-releases/cision/20221130PH52017/finch-computing-accelerates-its-natural-language-processing-capabilities/"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: ksn.com
+  domain: ksn.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
-    width: 800
-    height: 313
-    isCached: true
-
-secured: "Cq1o+DJwNRQXG3izjok/ESGtPDwfgDdwsEJDU8CDrjeFKe5cd8SXckUfMX11jkvqOwKXkc7lRZhLEsi0ZJWFdzCR0opDEYKgzUDEDkSc3WWBwsTNxAgolhf5CFYBXS76KMA+uPq2BeD5PSW1U8MrWjNHmiz+lMCfaCSWJua1AhmzBqpJ3dFKLikJ8kv8BHrRsm3fMWnCbjfJUs/jHPB93JpenGgBF/skoO6QnEVusGZITbkAM5I4JdwRq5hWbLTHo00A2B3a00tqwj+n4jeQwdcBX/Ko+YfmKaGBk3fumXK7FXHbJ8pnIObBu2sWDGfH3dQY6trzN/LoBjDvnm8hua/YEmfhaV2d7E1k+gERurc=;wFI+sQWVeIohDAwyxDGRHg=="
+secured: "r0g+VqgC983+Nzizm/ovEtyo5BoKPqjCnBzfbyrIQzCe09O1uDkT4nSqRFYTpBwXTOsidzfmF61OJVNuiOx6xPZwo+694Y/70Fk/fcsOFEh9Wi/ijOzgTGw2Q2Z5ODcxospu7ULS5qjhT+nGSeD/reafH77ozZ8vNpCCyL5Ia3BkNUXHIZ4xWSBJiRhhIU4k47QRd2WzPbX9Rx/8Cm3fcyFSQPf5sPQbzx/Mox1M5I0aydSHUXNi1Xk537WDu4w4xxjGM4r9CNSs/pnPyRAmwoUjeUxtSEaDHxJAa1bCOuplIKZb6yeQiqq9Mx5/KZ8ti2ykpLpjAzYYKd2nIE8BhU7gXwE+2uMTYERUuH4xKsM=;PnUgvbWDPWCWDth3lcTkHw=="
 ---
 
