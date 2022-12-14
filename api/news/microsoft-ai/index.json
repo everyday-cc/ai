@@ -244,6 +244,50 @@
       ]
     },
     {
+      "path": "_news/2022-12-08-ai-in-fintech-market-to-observe-strong-growth-by-2028-microsoft-google-intel.md",
+      "title": "AI in Fintech Market to Observe Strong Growth by 2028 | Microsoft, Google, Intel",
+      "excerpt": "Latest Study on Industrial Growth of AI in Fintech Market 2023-2029. A detailed study accumulated to offer the Latest insights about acute features of the AI in Fintech market. The report contains ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-to-observe-strong-growth-by-2028-microsoft-google-intel",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-to-observe-strong-growth-by-2028-microsoft-google-intel",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/12/Commuters-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T05:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-08-deutsche-commits-to-using-ai-tech-from-nvidia-throughout-the-bank.md",
       "title": "Deutsche commits to using AI tech from Nvidia throughout the bank",
       "excerpt": "Deutsche Bank has doubled down on its use of artificial intelligence. The Frankfurt-based bank announced on Wednesday a multi-year partnership with Santa Clara, California-based tech company Nvidia to accelerate and improve artificial intelligence and machine learning throughout the bank.",
@@ -328,49 +372,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-hearing-aids-may-help-prevent-cognitive-decline-study-says.md",
-      "title": "Hearing aids may help prevent cognitive decline, study says",
-      "excerpt": "(CNN) - A new study indicates that hearing aids may help delay or reduce dementia and cognitive decline. The findings were published Monday in JAMA Neurology. Research has shown that hearing loss ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wcax.com/2022/12/06/hearing-aids-may-help-prevent-cognitive-decline-study-says/",
-      "originalUrl": "https://www.wcax.com/2022/12/06/hearing-aids-may-help-prevent-cognitive-decline-study-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/SmEwfcRj9VGp1UYvYzrlv6CeDUs=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/CDB3NJQQPZBX3PQP2KHRXTQMMI.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wcax.com/2022/12/06/hearing-aids-may-help-prevent-cognitive-decline-study-says/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wcax-com.cdn.ampproject.org/c/s/www.wcax.com/2022/12/06/hearing-aids-may-help-prevent-cognitive-decline-study-says/?outputType=amp",
-      "publishedDateTime": "2022-12-07T06:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WCAX3",
-        "domain": "wcax.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -594,6 +595,49 @@
       "provider": {
         "name": "New York Post",
         "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-hearing-aids-may-help-prevent-cognitive-decline-study-says.md",
+      "title": "Hearing aids may help prevent cognitive decline, study says",
+      "excerpt": "(CNN) - A new study indicates that hearing aids may help delay or reduce dementia and cognitive decline. The findings were published Monday in JAMA Neurology. Research has shown that hearing loss ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ky3.com/2022/12/06/hearing-aids-may-help-prevent-cognitive-decline-study-says/",
+      "originalUrl": "https://www.ky3.com/2022/12/06/hearing-aids-may-help-prevent-cognitive-decline-study-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-ky3-prod.cdn.arcpublishing.com/resizer/TreLB-DJ5ur8GDCiPwsIctgKCtE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/KAMQ3OZW4NFELO7JTZ3YQLRAMQ.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ky3.com/2022/12/06/hearing-aids-may-help-prevent-cognitive-decline-study-says/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-ky3-com.cdn.ampproject.org/c/s/www.ky3.com/2022/12/06/hearing-aids-may-help-prevent-cognitive-decline-study-says/?outputType=amp",
+      "publishedDateTime": "2022-12-06T08:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KY3",
+        "domain": "ky3.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1305,49 +1349,6 @@
       "provider": {
         "name": "USA Today",
         "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-study-links-mait-cells-to-cognitive-function.md",
-      "title": "Study links MAIT cells to cognitive function",
-      "excerpt": "MAIT cells, which were discovered in the 1990s, were already known to be the most abundant innate-like T cells in humans and to be particularly numerous in the liver and skin. The Rutgers study ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20221129/Study-links-MAIT-cells-to-cognitive-function.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20221129/Study-links-MAIT-cells-to-cognitive-function.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/2/Alzheimers_amyloid_plaque_-_Juan_Gaertner_9638f1223d534b518a192c8478871d65-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20221129/Study-links-MAIT-cells-to-cognitive-function.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20221129/Study-links-MAIT-cells-to-cognitive-function.aspx",
-      "publishedDateTime": "2022-11-29T15:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
         "images": null,
         "publishers": null,
         "authors": null

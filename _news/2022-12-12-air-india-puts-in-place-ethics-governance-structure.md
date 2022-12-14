@@ -9,7 +9,7 @@ ampWebUrl: "https://www.outlookindia.com/business/air-india-puts-in-place-ethics
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/air-india-puts-in-place-ethics-governance-structure-news-244200/amp"
 type: article
 quality: 74
-heat: 95
+heat: 94
 published: true
 
 provider:

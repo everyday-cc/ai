@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Lensa AI app causes a stir with sexy “Magic Avatar” images no one wanted"
+    excerpt: "While Lensa AI has proven popular among people on social media who like to share their AI portraits, the press has widely focused on the app's reported tendency to sexualize depictions of women when Lensa's AI avatar feature launched."
+    publishedDateTime: 2022-12-13T23:36:00Z
+    webUrl: "https://arstechnica.com/information-technology/2022/12/lensa-ai-app-causes-a-stir-with-sexy-magic-avatar-images-no-one-wanted/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2022/12/lensa-ai-app-causes-a-stir-with-sexy-magic-avatar-images-no-one-wanted/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/12/lensa-ai-app-causes-a-stir-with-sexy-magic-avatar-images-no-one-wanted/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 86
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/12/lensa_hero_2-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "‘Magic’ AI Avatars Are Already Losing Their Charm"
     excerpt: "When Lensa, a four-year-old photo-editing app, introduced a new AI-portrait generator in November, the internet was enthralled. But concerns have mounted, particularly among women"
     publishedDateTime: 2022-12-11T12:29:00Z

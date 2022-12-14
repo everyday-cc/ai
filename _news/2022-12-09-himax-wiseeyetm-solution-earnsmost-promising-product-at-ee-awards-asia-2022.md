@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1105288719/Himax-Wiseeyetm-Solution-EarnsMost-P
 webUrl: "https://menafn.com/1105288719/Himax-Wiseeyetm-Solution-EarnsMost-Promising-Product-At-EE-Awards-Asia-2022"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Himax WiseEye™ Solution Earns “Most Promising Product” at EE Awards Asia 2022"
-    excerpt: "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax” or “Company”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced its WiseEye™ Always-On smart image sensing total solution (“WiseEye”) received the award for “Most Promising Product” at the EE Awards Asia 2022 hosted by EE Times and EDN Asia on December 8,"
-    publishedDateTime: 2022-12-09T07:22:00Z
-    webUrl: "https://apnews.com/article/science-business-asia-himax-technologies-inc-0d0872ead48e8afd09efb60b72b02e4d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 21
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "CEVA NeuPro-M Edge AI Processor Architecture Recognized at EE Awards Asia 2022"
     excerpt: "(NASDAQ: CEVA), the leading licensor of wireless connectivity and smart sensing technologies and co-creation solutions announced today that NeuPro-M AI Processor architecture for artificial intelligence and machine learning (AI/ML) inference workloads has received industry recognition with 'Most Promising Product' at the EE Awards Asia 2022."
     publishedDateTime: 2022-12-13T13:23:00Z

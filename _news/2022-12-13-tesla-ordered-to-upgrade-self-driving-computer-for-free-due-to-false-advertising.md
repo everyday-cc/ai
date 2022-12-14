@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2022/12/12/tesla-ordered-upgrade-self-driving-
 webUrl: "https://electrek.co/2022/12/12/tesla-ordered-upgrade-self-driving-computer-for-free-false-advertising/"
 type: article
 quality: 63
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2022-12/Tesla-autonomous-1200.jpg"
         width: 470
         height: 246
+        isCached: true
+  - title: "Tesla Lawyers Say Failure to Deliver Self-Driving Isn't Technically Fraud"
+    excerpt: "A lawsuit filed against Tesla alleges it misled consumers by claiming its cars are self-driving, to which Tesla's lawyers retort: well, it's not fraud."
+    publishedDateTime: 2022-12-13T23:34:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-lawyers-fraud-self-driving"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 53
+    images:
+      - url: "https://wp-assets.futurism.com/2022/12/tessie.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Payne: Riding along with my self-driving Tesla student driver"
     excerpt: "Payne's Model 3 carries Full Self Driving, Tesla's ambitious software that enables the car to drive itself on public roads, an upgrade over Autopilot."

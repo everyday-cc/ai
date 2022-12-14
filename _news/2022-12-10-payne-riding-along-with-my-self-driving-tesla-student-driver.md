@@ -63,6 +63,20 @@ related:
         width: 470
         height: 246
         isCached: true
+  - title: "Tesla Lawyers Say Failure to Deliver Self-Driving Isn't Technically Fraud"
+    excerpt: "A lawsuit filed against Tesla alleges it misled consumers by claiming its cars are self-driving, to which Tesla's lawyers retort: well, it's not fraud."
+    publishedDateTime: 2022-12-13T23:34:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-lawyers-fraud-self-driving"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 53
+    images:
+      - url: "https://wp-assets.futurism.com/2022/12/tessie.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "rHjg5+qtA4QQuw3/SjTkGCipWkIrcOLcy+1/96CGYLoX/2omn9KhlE9yyNVBFKoChv6J2YB22bPI/EADTTLX5zFtRmqwpnaxiyGmkYbTyTG3oigdjGVfAqJur+q5oOzXNaA7/nQyPI9TBgp2fCtstc9ZnVX/wmKPoX0wHFmeNjtGIWAzlpBlRxcaGXhc4Mbm5ZXOEeo3atr4cfwRkPZjgWcW/TCQHTUNtjNAEZot2kR04QG1jVvomDWDaRIewjlJs30Rs1m3X60pXIjZHfmKZVmZl2//wl29s9IJwyUL5/1KQ2CSkmm4pmEkiXcwpWmQQdeVmeEZgZByRWzJYGo+CPMJ3JodPHUJeZXFsuD0uK0=;rpwbAy1kpYkvIFKuPqUVug=="
 ---

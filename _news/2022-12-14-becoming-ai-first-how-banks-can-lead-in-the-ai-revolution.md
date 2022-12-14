@@ -8,7 +8,7 @@ webUrl: "https://www.globalbankingandfinance.com/becoming-ai-first-how-banks-can
 ampWebUrl: "https://www.globalbankingandfinance.com/becoming-ai-first-how-banks-can-lead-in-the-ai-revolution/"
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/becoming-ai-first-how-banks-can-lead-in-the-ai-revolution/"
 type: article
-quality: 59
+quality: 76
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/12/iStock-1030247680.jpg"
@@ -87,6 +88,6 @@ related:
       domain: fastcompany.com
     quality: 17
 
-secured: "DD0ZqXpic1Tzqw+jQrTHDzF5V10jQQC5FoQPjoTIBVSd8qOsVNHAb2Dlcxgo4gLiKiLKfGjDp9aZxweDcbDfXgd2tk5KU3d25a7TN85WhLEISdwSDE6c/ONOXE4NWVVz3GLySzI1/jwesME+OrjElCe/AznSTZsuO0r4qoQAbzYbXsPTQatCsxLQ0JrKoBJN8hvC3E4rPmJ2znexgjA0iFv4qMtQkWW9NTBun3pUJs4BnunT8g83bAFBwhBHsY3KpIXzRsG1Tk+/Z+DycfYTebbJ/6z/hGcA+Wp2uGUycdeYkA0vW0U+vkEY40uHVuIFU716RhmMvBLaEuoq0tisz7Z/ZBQmCji2BHm0t2SDDQk=;4+ojMAJvwtNOLki7LxTogA=="
+secured: "uyI8Wa32B05bCxVtFPFGmnawMxyzKdV7hewEL0RliyRCmw+FIYA9mu7ASH5Rs6tzU3KNfknzGG2k6NZ9mOfWJkPhL2ueezZp9L7y6BJiHms8vtjo8cqQcP9QDiPctcJdYXIX3G5oKt+DvqjEchsVvzAJ0F42fntQUee18DiCKu+jzT6gFd8h37TxdVyq8bh/BBVO+OqB7PhkOHG2jZfqJHPNQ/qZuMlh8Fu2KJrn/o8DVwsLhRlv4gEArvIfXDEf8eHdSgU2nzueWp2YN5FQw7fooH8pwzdHxp54KHoXiCh0vkhbfN5OfYMmh8VxFfh5XS2AAvpnI9RALZv/lrlr3AIut6osEE2Vago7SGmAtto1Aoz4qPKsz3m64KV+0VNRppU2hIyUSprDloiP+7NH25JaRRIfiZE9ngHyaaWNU0IoJhn21iv+Q398x8u0V6P51rZFwpT4a8Oo4/aoJFgqudQI1HReBfaSgopb/qyRkfErIbbC0kw7KuEPWQoKud1NFZWw9m4IPvnLoaX4e9sLew==;EpB+Bu5Em4ixoDwDiWtdXw=="
 ---
 

@@ -2,27 +2,27 @@
 category: news
 title: "Hearing aids may help prevent cognitive decline, study says"
 excerpt: "(CNN) - A new study indicates that hearing aids may help delay or reduce dementia and cognitive decline. The findings were published Monday in JAMA Neurology. Research has shown that hearing loss ..."
-publishedDateTime: 2022-12-07T14:37:00Z
-originalUrl: "https://www.wcax.com/2022/12/06/hearing-aids-may-help-prevent-cognitive-decline-study-says/"
-webUrl: "https://www.wcax.com/2022/12/06/hearing-aids-may-help-prevent-cognitive-decline-study-says/"
-ampWebUrl: "https://www.wcax.com/2022/12/06/hearing-aids-may-help-prevent-cognitive-decline-study-says/?outputType=amp"
-cdnAmpWebUrl: "https://www-wcax-com.cdn.ampproject.org/c/s/www.wcax.com/2022/12/06/hearing-aids-may-help-prevent-cognitive-decline-study-says/?outputType=amp"
+publishedDateTime: 2022-12-06T16:12:00Z
+originalUrl: "https://www.ky3.com/2022/12/06/hearing-aids-may-help-prevent-cognitive-decline-study-says/"
+webUrl: "https://www.ky3.com/2022/12/06/hearing-aids-may-help-prevent-cognitive-decline-study-says/"
+ampWebUrl: "https://www.ky3.com/2022/12/06/hearing-aids-may-help-prevent-cognitive-decline-study-says/?outputType=amp"
+cdnAmpWebUrl: "https://www-ky3-com.cdn.ampproject.org/c/s/www.ky3.com/2022/12/06/hearing-aids-may-help-prevent-cognitive-decline-study-says/?outputType=amp"
 type: article
 
 provider:
-  name: WCAX3
-  domain: wcax.com
+  name: KY3
+  domain: ky3.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/SmEwfcRj9VGp1UYvYzrlv6CeDUs=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/CDB3NJQQPZBX3PQP2KHRXTQMMI.png"
+  - url: "https://gray-ky3-prod.cdn.arcpublishing.com/resizer/TreLB-DJ5ur8GDCiPwsIctgKCtE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/KAMQ3OZW4NFELO7JTZ3YQLRAMQ.png"
     width: 800
     height: 450
     isCached: true
 
-secured: "Et4O33Dov9XToIsTp2IvyeUvt7lZPLjS4BvtfwfVjjuQbx7+QDcGSZs+5x4Ux41ejpHcS9dbjOneZ4rnMNkQK7LPf7MjkaUANxB9Rmgb2zj2cxxwb5IRdWgr0ezYcQ23eJtm49E6rkuguNSsESyzcsm7kUpgTdMLKs/oQOOLCQ1SXeuSy7sMOhIpI4KKsRVbNxOD3eaEvKf+MBxn6O0iuxqAphOULSSDZ5nGKHY8NHLeIzOJqEoR7TNFB7L/fScr+bfYAqiFVykVR6MU5F/+MqxsBfCnsyBGrqu/3m+1yW5YPx6Oy6IRScPHEYMwKA4to0Ks7ngK8B6Ep/RG6iI98m91/D/a1YssJFyrAt0Cypw=;vCPaNCsIonDz0Mtx3IfVZQ=="
+secured: "DDo67Zeh1tAwU/dW1dLsPlkaKDBzzXUKnQeOoMnKTo7Z0hA57UU3BWoOpFphK1GUK71SeUVU4ZOxaMa7ae6f96VxOEnURuc2hneq9TTXpqGc7K1DVJBx+qvRjLZtWEhP3opuLaXQ4Uv3eBh3vcZ+5YYAFDxfPEqljGK6HWtRAW/iFkpmBS0Vcea05sBoKqoYmSqMB1gpE3YZGjK4xznKUZE+ZEKxNh56j5SwpjA/KPIO6CrwxYS+GeG6KNjnr5Z+/tSsw4na5YGzjj+G4FseUKEkyA7hbm/w+MMUr++6ouwB+SGLyy+zKawvassPzbBFpet9s6UezPd+0ObgQhrvV1fNgVMYMwidIKX7VPvwuzU=;hIst5qCTlgvyH62pDS3knA=="
 ---
 

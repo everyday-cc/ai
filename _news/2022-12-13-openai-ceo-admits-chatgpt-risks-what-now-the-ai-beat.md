@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/openai-ceo-admits-chatgpt-risks-what-now-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/openai-ceo-admits-chatgpt-risks-what-now-the-ai-beat/amp/"
 type: article
 quality: 87
-heat: 187
+heat: 188
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/science-technology/the-3-biggest-arti
 webUrl: "https://www.entrepreneur.com/science-technology/the-3-biggest-artificial-intelligence-ai-trends-in-2023/439434"
 type: article
 quality: 71
-heat: 92
+heat: 91
 published: true
 
 provider:
