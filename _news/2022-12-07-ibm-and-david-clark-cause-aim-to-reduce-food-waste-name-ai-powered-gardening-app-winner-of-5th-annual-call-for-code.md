@@ -15,12 +15,6 @@ topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1962901/IBM_GardenMate_Team.jpg"
-    width: 400
-    height: 300
-    isCached: true
-
-secured: "mnwL18j5tDsHaceg1481vyWxJTRNxER48ROXEuIWpXehzoQBDjfUdvq5h+ajS4CovRK5Y+8w5NAj3GxBJ/ShRt4AYDtQ8cNxkkDSD6ycqw2v+lrIkYSCW2R8Ejc69fM4LOQ29cWWhxUOmU5YIQFWb0b4orUPGtUvB7OEw6ZG91SdBH+slT3x2i7iTOLB0EWLkJz6YPUgKs8rW7FZzA8ISk270mhCIluq4L/+xdcWk6NxtBPqzXls+UHJ5KrBNw9tvZvOjS1l6ToNDPccpfxdA2nq3smCb43GF0Z/CSCdvCNTmuxkqZFny+/ey/cLMNuXnQV2sAYYSele7COIJKV+c68aEiZSFstEghMdRTaMlLA=;gHKY/v69LAIhTYvC3X52fg=="
+secured: "nNTQJkVyRLN1QQUwfJa8Y3DgqoM5o1etK+J+G3kwyleOT+ICKWwzZn3hvo2XIsr6asTIgM2Xdmpvzl9igmUxH7Ib9R+om45MyGWMvFq8Il6hwWJvUTYHQ45x7Zsn7oTrF7sj8QKnyjCqyZHdeQxV15/RaPFpTkrMJB0mWJbyA2P8MvUvVnfsIIZ7yoNI5ClPiRV4ZMYXHDhwwPaw1WxwYXIaVf8fi96eUepOKFdDQjLhxD03SMvuU5rSl/v+UZ49UYjCHBZojXW0NZtcO1ow43yOrczkxvnHKyZgwFNP2wV43YfoVADragqyOT+c4bPYCnsnIRo0lgAG3Sh2MeSnOnQV+Xd+p/VAeGyamMhKtUc=;6MLdH3duVhdoKu3GOLfgSg=="
 ---
 
