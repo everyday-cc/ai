@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-ma
 webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-2022-12-12"
 type: article
 quality: 71
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -81,20 +81,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence In Military Market Size: Global Revenue, Volume, Market Revenue and Market status Forecast from 2022 - 2028."
-    excerpt: "The \" Artificial Intelligence In Military Market \" has taken a step to understand the consumer base with consumer's preferences and aims to do the needful 2022 to 2028. Talking about the reports and data analysis,"
-    publishedDateTime: 2022-12-09T14:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-size-global-revenue-volume-market-revenue-and-market-status-forecast-from-2022---2028-2022-12-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

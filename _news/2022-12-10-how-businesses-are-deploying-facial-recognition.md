@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wuwm.com/economy-business/economy-business/2022-12-09/ho
 cdnAmpWebUrl: "https://www-wuwm-com.cdn.ampproject.org/c/s/www.wuwm.com/economy-business/economy-business/2022-12-09/how-businesses-are-deploying-facial-recognition?_amp=true"
 type: article
 quality: 59
-heat: 149
+heat: 129
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How facial recognition allowed the Chinese government to target minority groups"
-    excerpt: "Journalist Alison Killing explains her investigation in Xinjiang, China, where the government has used facial recognition cameras to track Uyghurs and detain them in camps across the region."
-    publishedDateTime: 2022-12-09T13:43:00Z
-    webUrl: "https://www.wwno.org/npr-news/2022-12-09/how-facial-recognition-allowed-the-chinese-government-to-target-minority-groups"
-    ampWebUrl: "https://www.wwno.org/npr-news/npr-news/2022-12-09/how-facial-recognition-allowed-the-chinese-government-to-target-minority-groups?_amp=true"
-    cdnAmpWebUrl: "https://www-wwno-org.cdn.ampproject.org/c/s/www.wwno.org/npr-news/npr-news/2022-12-09/how-facial-recognition-allowed-the-chinese-government-to-target-minority-groups?_amp=true"
-    type: article
-    provider:
-      name: WWNO
-      domain: wwno.org
-    quality: 55
-    images:
-      - url: "https://media.npr.org/assets/img/2020/03/04/manoush-zomorodi_bio_photo-1_vert-bf366cf2e0a689ea87422c5de657f381d9d43437.jpg"
-        width: 2096
-        height: 2794
-        isCached: true
   - title: "How facial recognition allowed the Chinese government to target minority groups"
     excerpt: "Journalist Alison Killing explains her investigation in Xinjiang, China, where the government has used facial recognition cameras to track Uyghurs and detain them in camps across the region."
     publishedDateTime: 2022-12-09T18:43:00Z
@@ -82,15 +66,6 @@ related:
       name: Game Rant
       domain: gamerant.com
     quality: 21
-  - title: "How businesses are deploying facial recognition"
-    excerpt: "As facial recognition software becomes easier to acquire, businesses are using it to surveil and analyze customers. Bloomberg's Parmy Olson explains where and how the technology is being deployed."
-    publishedDateTime: 2022-12-09T13:41:00Z
-    webUrl: "https://www.tspr.org/2022-12-09/how-businesses-are-deploying-facial-recognition"
-    type: article
-    provider:
-      name: Tri States Public Radio
-      domain: tspr.org
-    quality: 19
   - title: "Facial recognition to mark school attendance"
     excerpt: "Uttar Pradesh government has started a facial recognition-based teacher and student attendance monitoring system for the public schools in the state."
     publishedDateTime: 2022-12-11T19:09:00Z

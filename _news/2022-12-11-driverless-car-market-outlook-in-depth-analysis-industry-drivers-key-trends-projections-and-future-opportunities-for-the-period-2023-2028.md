@@ -23,52 +23,34 @@ topics:
   - AI
 
 related:
-  - title: "Neural Network Market 2023 : Detailed Analysis of Industry, Potential Growth, Attractive Valuation and Growth Forecast Up to 2028"
-    excerpt: "Pages Report] According to this latest study, the 2021 growth of Neural Network Market will have significant change from previous year. By the most conservative estimates of g"
-    publishedDateTime: 2022-12-09T13:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-market-2023-detailed-analysis-of-industry-potential-growth-attractive-valuation-and-growth-forecast-up-to-2028-2022-12-09"
+  - title: "Legal Tech Artificial Intelligence Market : Key Player, Competition Weakness and Strengths from 2022 to 2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \" Legal Tech Artificial Intelligence Market \" Insights 2022 - By Applications (Lawyers, Clients),"
+    publishedDateTime: 2022-12-10T02:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-12-09"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Computer Networks Market 2023 Company Challenges, Latest Advancements, Growth Prediction, and Forecast by 2028"
-    excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence in Computer Networks Market will have significant change from previous year. By the m"
-    publishedDateTime: 2022-12-13T10:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-2023-company-challenges-latest-advancements-growth-prediction-and-forecast-by-2028-2022-12-13"
+  - title: "Artificial Intelligence in Agriculture Market 2022 : Latest Industry Trends, Overview of Segments, Opportunities 2028"
+    excerpt: "\" Artificial Intelligence in Agriculture Market \" Insights 2022 - By Applications (Precision Farming, Drone Analytics, Agriculture Robots), By Types (Machine Learning, Computer Vision), By Segmentation analysis,"
+    publishedDateTime: 2022-12-13T02:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-2022-latest-industry-trends-overview-of-segments-opportunities-2028-2022-12-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 34
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Data and AI Ethics Market 2023 Industry Outlook, Current Status, Supply-Demand, Growth Opportunities and Top Players Analysis 2029"
-    excerpt: "Data and AI Ethics Market Research Report is spread across 104 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. Data and AI Ethics Market Size is projected to Reach Multimillion USD by 2029,"
-    publishedDateTime: 2022-12-13T12:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-2023-industry-outlook-current-status-supply-demand-growth-opportunities-and-top-players-analysis-2029-2022-12-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-  - title: "Artificial Intelligence in BFSI Market To Show Incredible Growth And Forecast By 2028 Segment, Privacy Tools And Key Players Information"
-    excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence in BFSI Market will have significant change from previous year. By the most conservati"
-    publishedDateTime: 2022-12-11T10:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-bfsi-market-to-show-incredible-growth-and-forecast-by-2028-segment-privacy-tools-and-key-players-information-2022-12-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 14
 
 secured: "XvLNTxXn3Jh2+QOzvxZaZc85b+fpWrYOG6mBTd1Z8uWerzp6NoXccziDOu6zxnGJIk7yhF7NCnHvCFZdxg94OpKShLtYdcstA44u9Y1y80h+1eLX28VUlR81Ksysxr4lZWy/Ohx8N9ofRLYVFGBVzowQC3zsngElaGYb7l4QLf/saZP9wRb8pwz7oEXMrOJAYTuTVhiBVzMi6vfAOhmAkuXpxeyj87YdixPHi1tyOx44q8hXs4/RTs0Fsq4tSq4sTJKozGH92bjHmdCjdRpeomvjEACczRF27YNhxWb3rx7QSz/eQFVScNAHQZqYAyB89iYoj4Hlsr5Hmp4r0/Fhw/UoefgRDHh+3Lc6xotMVBU=;8bcZx0kA9A71RTK+c0taCw=="
 ---

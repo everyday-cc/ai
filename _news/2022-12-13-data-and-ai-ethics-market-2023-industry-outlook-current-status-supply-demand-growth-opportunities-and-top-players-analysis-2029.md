@@ -23,52 +23,20 @@ topics:
   - AI
 
 related:
-  - title: "Neural Network Market 2023 : Detailed Analysis of Industry, Potential Growth, Attractive Valuation and Growth Forecast Up to 2028"
-    excerpt: "Pages Report] According to this latest study, the 2021 growth of Neural Network Market will have significant change from previous year. By the most conservative estimates of g"
-    publishedDateTime: 2022-12-09T13:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-market-2023-detailed-analysis-of-industry-potential-growth-attractive-valuation-and-growth-forecast-up-to-2028-2022-12-09"
+  - title: "Artificial intelligence (AI) in Supply Chain and Logistics Market 2022 : Regional Scope, Growth Statistics, Demand and Regional Outlook 2028"
+    excerpt: "\"Artificial intelligence (AI) in Supply Chain and Logistics Market\" Insights 2022 - By Applications (Inventory control and planning, Transportation network design, Purchasing and supply management, Demand planning and forecasting,"
+    publishedDateTime: 2022-12-12T04:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-2022-regional-scope-growth-statistics-demand-and-regional-outlook-2028-2022-12-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Computer Networks Market 2023 Company Challenges, Latest Advancements, Growth Prediction, and Forecast by 2028"
-    excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence in Computer Networks Market will have significant change from previous year. By the m"
-    publishedDateTime: 2022-12-13T10:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-2023-company-challenges-latest-advancements-growth-prediction-and-forecast-by-2028-2022-12-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in BFSI Market To Show Incredible Growth And Forecast By 2028 Segment, Privacy Tools And Key Players Information"
-    excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence in BFSI Market will have significant change from previous year. By the most conservati"
-    publishedDateTime: 2022-12-11T10:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-bfsi-market-to-show-incredible-growth-and-forecast-by-2028-segment-privacy-tools-and-key-players-information-2022-12-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 14
-  - title: "Driverless Car Market : Outlook, In-depth Analysis, Industry Drivers, Key Trends, Projections, and Future opportunities for the period 2023-2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Driverless"
-    publishedDateTime: 2022-12-11T10:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/driverless-car-market-outlook-in-depth-analysis-industry-drivers-key-trends-projections-and-future-opportunities-for-the-period-2023-2028-2022-12-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 12
 
 secured: "JN5XjAcehCXMbcweB+epZKQWIGywPLi3GyjGCbnoci0bQ7mC8hcxLsBOP+yVr40H3icMaXb36v+yJ75oUbfIt2zn32FomJ0GjY9vprGduUHCpWVATNwZdpHl8vxzlelxCFvXKpVdP9kcKNp8IULm1wUiFgjXa5vt9ytCr03OjbbujDhpoLJ2j4h9tR5kxIsK8iPUPNCJDGcN6+Ti/suHELx12Wjs/xxIV6UsQRaJ4Q5U1CM7zXZbiCPRP+ydujnYZ6U/LpOI4P8AfVJHhhUYFboYr//uUku2qSI2yv5vXgn44EJBr6PAGQ+vSuQTrU9H7NSvLfniVp4LDseLp0saOlYGznLfDf0XQUNjMyiW8n4=;/QOj/LhcsFHbAbAsqCn/lQ=="
 ---

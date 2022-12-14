@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/technology/2022/12/10/chatgpt-ai-he
 webUrl: "https://www.washingtonpost.com/technology/2022/12/10/chatgpt-ai-helps-written-communication/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Why Robots Are Taking Over The World - And That's A Good Thing"
-    excerpt: "Robots and automation are not \"taking jobs\" in this latest economic downturn but are instead doing the work that few people want to do — from weeding fields to cleaning floors to stacking boxes."
-    publishedDateTime: 2022-12-09T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/garydrenik/2022/12/09/why-robots-are-taking-over-the-worldand-thats-a-good-thing/"
-    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2022/12/09/why-robots-are-taking-over-the-worldand-thats-a-good-thing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/12/09/why-robots-are-taking-over-the-worldand-thats-a-good-thing/amp/"
+  - title: "Why not let an AI do the talking for you?"
+    excerpt: "Ben Whittle, a pool installer and landscaper in rural England, worried his dyslexia would mess up his emails to new clients. Then one of his clients had an idea: Why"
+    publishedDateTime: 2022-12-11T14:00:00Z
+    webUrl: "https://www.postguam.com/business/why-not-let-an-ai-do-the-talking-for-you/article_d4c92f0c-78f5-11ed-8aca-0729f1aff26e.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/638e2b41fa2aa3cd9557066e/0x0.jpg?format=jpg&width=1200"
-        width: 640
-        height: 355
-        isCached: true
+      name: The Guam Daily Post
+      domain: postguam.com
+    quality: 19
 
 secured: "ik5cfNNiG5VAV6YEvGGyKkEHwVJu7vs1jpTKPMzVGKRr0x3Sd2DFd4TXHNI05CvdIs74hnYhvc6tSn5n/xLhurlzcz46TDA1vdjoW19Wc5YOl6IqkcSVvkTiHxtZeAAcaDzkgWXwfukwhFJWZzeZ0k0PRwlO7WmOa9DwFFsejXhZKVSiAZFAhqHnXAiPB+fqEH1js9XjFqNF9CNq7xSqRw+12v3/q66vej/e4cuQplIZK7HfKo7fjU/WTHOnWHH4DMf9awAKa22wwsr3XLJ6P57mKMPqW5OZnQtReD1uHf3oDZtNgtqIaOX/gYYNC2v8zTQXilno6E2I5KEKYN0gCpwYKGKyHO3zYU/oJmqVNo9aB/MHFh1/iqEGEKLcnydkLEaFf94T31vjVb+NPLOHwGYJQqXroclFw/nnG/DPDSFuteRUJNN3dGJFPZRS/Ws6W252WSh1P+HOQpGmyV1MLd05U5VNuLlauIzVIt5tKU8fozdT1/nasEzsCls3mVZB+OKuEpoZut9W6LEaj8qhlA==;N7VZXmThTovQvRRM+Vo5nA=="
 ---

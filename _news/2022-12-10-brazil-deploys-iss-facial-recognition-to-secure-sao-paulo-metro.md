@@ -24,17 +24,6 @@ images:
     height: 1365
     isCached: true
 
-related:
-  - title: "São Paulo Metrô deploys facial recognition technology from ISS"
-    excerpt: "ISS (Intelligent Security Systems), a pioneer provider of video intelligence and data awareness solutions, announced that São Paulo Metrô in Brazil has deployed its SecurOS®"
-    publishedDateTime: 2022-12-09T14:42:00Z
-    webUrl: "https://www.sourcesecurity.com/tags/mobile-access/news/sao-paulo-metro-deploys-facial-recognition-technology-iss-co-4863-ga.1670574794.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 19
-
 secured: "0CpxdUAdyYMCD4FfCGniAgpH726dUwrk79xjvc0HiAe/kl88KjUTdNFHNvMeA52d0IhTsdWHmMyJ/VIHWTrfvuBMYJRns7yXaa3XSon7K7vifyvMDRiRPBfHUIRr7m6JZztLTgtWp0cHABPVGFlrWkbjU5soecWj+UVQpd/gWtvJLgKjIZ+IsgxqpEwVP0Bnodu4V/8ZR43El4vupYc5omGDtDnloEdD9v6rBPhWFv4+O88JzVwR/B72+i2nXD1Hr3+78eIFjRfwwREKjNNH1ffuH1FgnoZ8Kn4cyIEnZc3nH2G2Xqkr1m2Je9/vnx+dKRNvwcO8TBdboYfGyRPF3AxDmg0vWcDVysi28SUOTXuYhvazouVpUWn+fvWXQzlBQqexPZDH8/UdId2jVna1zzjJlIYTlvo70EH2nVLqkc39qEdMwr8Ug/67lilterhsjMDvVJaxDZhJHxK9Y1816huB3YcSsb1TEBVA74xgrHN6tYPgamX4/MebhHAsiI0hwlVz7INe3ovHAXJyHfPH6A==;czu794GI2kvpaZefpJJ2dQ=="
 ---
 

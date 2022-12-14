@@ -149,15 +149,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI bot ChatGPT writes smart essays — should academics worry?"
-    excerpt: "The bot is free for now and can produce uncannily natural, well-referenced writing in response to homework questions."
-    publishedDateTime: 2022-12-09T13:06:00Z
-    webUrl: "https://www.nature.com/articles/d41586-022-04397-7"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 17
 
 secured: "+lojzTjiJNqd6rLrtaPVrWkKyYs2YoLejNu3n99DRUJKizIfI8apVku0Mk12O2g4n1n/sXEJoBPulsgLVjFq9jeyPPdxQjWSBCbwz4m94fnnZzq/JrCOKfFw9xFIGD7ZjQkwhXo8krzfQ9UvQ5aVZ5dUQH1mAIguFDALcDIUQSQZi65CXSfo55ppmsFSRhW0HoplioFMy91X1rAHZMcGcFHv0aoQZIYNHU/KKmgjeEuJC1UGT1Dr4kbNHUQpA1XEdrrjHjCwDnvPCZA8koVtEClzP3PnLBmtnvvp4HJCh0XOeGRH6kv6P4lbrUHS660tI6i1jWZzM2Ju8GQr6OE77ppx3C7UJjaCFfsLe/2JcLk=;P47HjwtkmobfJ1JRr+tEtw=="
 ---

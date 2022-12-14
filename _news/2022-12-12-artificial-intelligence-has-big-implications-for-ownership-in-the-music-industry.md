@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/artifi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/artificial-intelligence-has-big-implications-for-ownership-in-the-music-industry/amp/"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Forbes
@@ -31,35 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Is AI-Generated Art ‘True Art’? Implications And Considerations For Businesses"
-    excerpt: "This topic is being strongly debated within the creative ecosystem, with some companies going so far as banning the use of AI-generated media because they could breach copyright law. This consideration has a significant impact on business."
-    publishedDateTime: 2022-12-09T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/09/is-ai-generated-art-true-art-implications-and-considerations-for-businesses/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/09/is-ai-generated-art-true-art-implications-and-considerations-for-businesses/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/09/is-ai-generated-art-true-art-implications-and-considerations-for-businesses/amp/"
+  - title: "Meta-Indian Govt Bury the Hatchet, Unite for AI Innovation"
+    excerpt: "Using its position as the Chair of the Global Partnership for Artificial Intelligence, India has expressed its desire to collaborate with Meta as a trusted AI partner. In exchange for this, the country will put forward regulations in the GPAI forum that will incentivise innovation in the artificial intelligence field."
+    publishedDateTime: 2022-12-12T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/meta-indian-govt-bury-the-hatchet-unite-for-ai-innovation/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6391f87648c0f9d78408ccf6/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 688
-        isCached: true
-  - title: "China will regulate AI-generated content with a new set of regulations"
-    excerpt: "China has issued rules and guidelines that regulate the use of artificial intelligence within the country. The regulations are cautious when it comes to AI. This includes the trending AI chatbots, such as ChatGPT,"
-    publishedDateTime: 2022-12-13T22:00:00Z
-    webUrl: "https://interestingengineering.com/culture/china-will-regulate-ai-generated-content-with-a-new-set-of-regulations"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 39
     images:
-      - url: "https://inteng-storage-us.s3.amazonaws.com/2022/12/13/image/jpeg/RM70WbRr0fHZqLUBKtKt6KWdG9t7SJFMRP6DGRTP.jpg"
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/Meta-To-Collaborate-With-The-Indian-Government.jpg"
         width: 1920
-        height: 1280
+        height: 1080
         isCached: true
 
 secured: "PJKjY8505kR+ZK9AvhLWRBwqqcyr2axu2h2tJ60/EL2foYqiuZZk8w8MKalJ/afkZFzkXmoVWZ99ywdAOGyiFHXgTvVNvmLinH3bKbcrEFoCh04eFbjmXIpLdVWUIzRJfdghQ/9nhucHu8OghVPkSQ4KniJHrD/sXY8P7VS/Blv91HWKscllcTKmCbhg57CxN+Q2eNUeXYeIiyo2gTYRkbxSHWRGaFfRfI7sQ2G3vEccks678Kgh2tctvX7gcuBZU2WQVnaLx9J5ah7f/YIgSXErWpkAXk6dxkK3Z0hKQjHz9wDefnjgnYRxYYKMDUX23GJdXwloPoGg/e3bCzKt8W0MTXXmHCy9X6mWf8VSV6eF6qEFDJ1+d4SXy8NftKxaapTE57/6cBWBhOAyXkQLv3bDLlYLp82xFOKU7HeR6rMoOabsIpUCVIzFvAS56aujSrSRb/9rLq1xa5sTopoZLcObWN7frI6dbOvF65VSsuWd+1pPEAFupQPBmJCmw3VPyuGyocHMmjEKDpqjF3mNyA==;5h+mCPuUQwmuP21yygCvYg=="

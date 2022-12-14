@@ -25,37 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Is AI-Generated Art ‘True Art’? Implications And Considerations For Businesses"
-    excerpt: "This topic is being strongly debated within the creative ecosystem, with some companies going so far as banning the use of AI-generated media because they could breach copyright law. This consideration has a significant impact on business."
-    publishedDateTime: 2022-12-09T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/09/is-ai-generated-art-true-art-implications-and-considerations-for-businesses/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/09/is-ai-generated-art-true-art-implications-and-considerations-for-businesses/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/09/is-ai-generated-art-true-art-implications-and-considerations-for-businesses/amp/"
+  - title: "Will AI decide if you get your next job? Without legal regulation, you may never even know"
+    excerpt: "The use of artificial intelligence (AI) and other automated decision-making tools in recruitment is on the rise among Australian organizations. However, research shows these tools may be unreliable and discriminatory,"
+    publishedDateTime: 2022-12-12T18:32:00Z
+    webUrl: "https://phys.org/news/2022-12-ai-job-legal.html"
+    ampWebUrl: "https://phys.org/news/2022-12-ai-job-legal.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-12-ai-job-legal.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
+      name: Phys.org
+      domain: phys.org
+    quality: 49
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6391f87648c0f9d78408ccf6/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 688
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/will-ai-decide-if-you.jpg"
+        width: 1356
+        height: 668
         isCached: true
-  - title: "Artificial Intelligence Has Big Implications For Ownership In The Music Industry"
-    excerpt: "It'll be a performer whose lyrics, melodies and voice are solely created by artificial intelligence (AI). We’re already seeing hints of this with virtual artists such as metaverse avatars, hybrid performers that rely on a combination of AI and human talent."
-    publishedDateTime: 2022-12-12T12:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/artificial-intelligence-has-big-implications-for-ownership-in-the-music-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/artificial-intelligence-has-big-implications-for-ownership-in-the-music-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/artificial-intelligence-has-big-implications-for-ownership-in-the-music-industry/amp/"
+  - title: "Will AI decide if you get your next job? Without legal regulation, you may never even know"
+    excerpt: "The use of unreliable, discriminatory automated recruitment tools is on the rise – and they’re completely unregulated."
+    publishedDateTime: 2022-12-12T04:28:00Z
+    webUrl: "https://theconversation.com/will-ai-decide-if-you-get-your-next-job-without-legal-regulation-you-may-never-even-know-196282"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
+      name: The Conversation
+      domain: theconversation.com
+    quality: 29
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63933ecc024703627d65ce91/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://images.theconversation.com/files/500327/original/file-20221212-81291-3fgs0n.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
         isCached: true
 
 secured: "ARwICvD1Ir43qosZMwwfk6hPYCnZJWBdvIYpbp2e8Xgo7LitxBquzKahuKJAvE74pszJXpw8ITFF9IZdxIAuTxA9SMX5rnJ1NW923lKsRF+ihhCjs4HxBqvpEKYXIoIVkzlQzZUL8SwxRDozO3oQW2fVcmCQWPvbqEmr+NUK6Dxtk1lR93nAljmpJV3g7wcPVIhiVahlvQuQ5jy17Ot0Kf6iKtVFMBrlD6ozTaRdCDAjD2l06Si2GxPn9S73F6aPGjs5UDp3Zr/zrCgtF9cPqi+R/DDKqtkcmoUzjtzohavLOlBcMOZgS/vwr6bUdc6/mZv+bInDastcKXs0IR9X86n2dm8BMku1Erl+f+1rCNeNUTwe30BAOS6YsQt1a5gbo7Sci7/Ohi0YMwLyQ2fefjy6qlBcLWqnAPHdWkXlU8VGZ5NrGcH89/c8eQKlO0XE/Y1haXMO5jDYV3owYKyMkjRSyD/9f2fnLDUsZ+orZCMK67YvfvpO8PP7O8YoCwpuzLs68TZxjRsx8VEQd9V2RQ==;ER/1DrQTl8VtHkgnCn4fkw=="

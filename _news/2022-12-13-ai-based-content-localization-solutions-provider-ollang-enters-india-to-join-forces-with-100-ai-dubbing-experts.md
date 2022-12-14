@@ -35,15 +35,6 @@ related:
         width: 620
         height: 350
         isCached: true
-  - title: "MemryX Inc. opens R&D center in Bangalore, India - advancing simple and scalable processing solutions for Edge AI"
-    excerpt: "MemryX Inc., a pioneering startup focused on accelerating artificial intelligence (AI) processing for edge devices, announced today it has opened an engineering center in Bangalore, India. The opening of the Bangalore site is complementary to existing MemryX engineering capabilities in Taipei,"
-    publishedDateTime: 2022-12-09T14:43:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/12/09/9727822.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "syRhM0aMNpaHjPD1q0wR/2h3oALfV1JScs+LDGRm5atKgpTXn9nBjAJhkvzuCiA2G7LdBmzwPQ96b8DXgywAJEXMTLutBJ1LWkqr/GJOyMPbSpgYU0SXOBjl6K6QD1LWcoxXnYm1B2y+HBgkqBi2xFVPw/lfQ/cwglZdRpB4TnIRj8Ht1EnbfkfIDrWWwjg884f9QeBMNVDUJmxPMcQ6by1WZqwrs/lVRsmfIJm7LmzT/7lJr3+ZSQiDLi06oVpEMb+G1S43eooeWwb2GQEF7G6v+IOwvOiuxeetJwXgMd+n/pRZx8aSFeKLNFtYu9yXw7nzT732m87m0O6aKH551PyZ7CqMJ8fhzSVxmamLEROzmJ9Hmy3HP0AE84PYoUHXdo13RkAg13BYY6GDmnADgFaFO98GiQcdlgS7pp7B/3mtaF6JfJxIAxBVFfOYkAvfBr/CIWdP3vD9qM+kWeTGiZV3mL1s/Eh11MZyBOHPSJoQHDMO4mz1Is4/jsmkaMuGOz+I9DjAklneOxZav8ffHA==;PNUZfR3A6ACnia70pnxB9A=="
 ---

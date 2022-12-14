@@ -87,20 +87,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "Meta-Indian Govt Bury the Hatchet, Unite for AI Innovation"
-    excerpt: "Using its position as the Chair of the Global Partnership for Artificial Intelligence, India has expressed its desire to collaborate with Meta as a trusted AI partner. In exchange for this, the country will put forward regulations in the GPAI forum that will incentivise innovation in the artificial intelligence field."
-    publishedDateTime: 2022-12-12T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/meta-indian-govt-bury-the-hatchet-unite-for-ai-innovation/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/Meta-To-Collaborate-With-The-Indian-Government.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "XckyoDBabygyIcR9CtQsdTw2NvBC22/yPcEogpt1VHgKpz/IGq4BrGbXdBsQRUsvXFpxRfp6cHVMAu6qI28Tj6h0BBQZav0UeVJrgCQHIqCNxic6U5m/NLlfiQrb6S++D+0LBFhXtHccWcjkApeJF13O1t+fgGe/69YBYvihSwVpcDPkPWUerpcJZltJfuntiV8FuB3i1D2wLMB3k7KJDTiVtGy9Xt0E4tnLHJvVt5lvCYEH06peR8hWBCDwgcBA8SwC0H959vk1ti/DEIOLEo/uxmhzWxWLxGV8UywXDiRODya1pVXDwREJezCC7u0krAdHqjUndR3WiR5AqdU4+EDrVFcB8NV14rWWP9x6gUVBlpZZGbz6jMl3wKT3Q450Csfd5NNpMvG7CpFVTPay+CYa9B/HCOfdYx09OdZZJnNtN6lZYeKu/DH26oM5buUgFYgJb9+EFJdROfsTglm9G4ex/GDHWDRWJ2hXpRsTX7SmlIKqmRAcjTefNXsNemF1VisM85TrSIGy65PmGSbMrA==;ogM3rEYijuxspCNWJ9Rwuw=="
 ---

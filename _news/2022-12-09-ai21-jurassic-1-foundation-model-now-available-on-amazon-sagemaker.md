@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://i0.wp.com/www.ksn.com/wp-content/uploads/sites/13/2022/12/gettyimages-1245341956-612x612-1.jpg?w=2000&#038;ssl=1"
-    width: 612
-    height: 408
+  - url: "https://i0.wp.com/www.ksn.com/wp-content/uploads/sites/13/2022/12/Untitled-design-98.jpg?w=2000&#038;ssl=1"
+    width: 1920
+    height: 1080
     isCached: true
 
-secured: "/G7qUOy+Di3GMiTxIhoKzgjlhtv4aC6g7kywdcgb6SjGhoYZGqfy62ACXXPnOh2czPcSj5Hxa5FnwyIQbb9c/DBRD+iLxfppVwTYlyTf20hNM93yXv3sZjbGYKaRe2umqLUxDEjtaYN1DWT7grkdMxYElzbRbHOsDqF7bd5UR5NR2abk//jt9yxjO/5+Ha6jX1D6Dxwlc3FG0IuHU5OmVc/TbRZayyxEC8iQ0bKN28NxhX7h/Gcznlgfo3I8PzlOEhLDDPh5o4riPGKLzjFVjUA5kOamweqjKb7xX3DIC/LyzFkO5HduXLspPqCYWohPuHr6hwG0R1gjA7s6N2oMs99lIIM23pAPw17fmq3nu9o=;g+JOjD4eS8HrGTCeS/KmPg=="
+secured: "Oym6Fed34SkpwZ4qcc8JCb0/+yQEJ3wXCdQ80NdTliLdZzYM6E8Ky+JZ2SvEUnNNeoLU1D5Pl5mNFkvSWNB7+z9mXmEr3D7yHrYmeavkx2KwRvbn9c4Ms7YIDCPisxpR+JY/2sRRXfoOZWro0hCk9wsmsk1UNSgwk2gZHspvYsLEtv7qLayVTEV6ZGmSW1l1ELK+G4WPXzSjBYHuvoZUNitEedOgge6pKrdDzHfDvk5ojIbhsZ6V6Vp6CbwKR6yP67mbI1QWviwX9hDf7tvGm2RHbUTjVox2BJmxo6JVfmb4ReV3cXoGigMveQA/4iLKPqbPcFI8wwI7WMgfnU5+1gdLWzw71dA8jPpYdW3XZyE=;zmYt6WLKHLMO4+svrHoZIg=="
 ---
 

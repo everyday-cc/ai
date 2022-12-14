@@ -3,8 +3,8 @@ category: news
 title: "China’s iQiyi Bets Big on Artificial Intelligence to Help Pandemic-Hit Production Sector"
 excerpt: "China-owned streamer iQiyi has been ramping up its use of artificial intelligence across productions as a result of the lasting impact of the pandemic. Kelvin Yau, head of southeast Asia for iQiyi ..."
 publishedDateTime: 2022-12-08T04:52:00Z
-originalUrl: "https://variety.com/2022/digital/asia/iqiyi-artifical-intelligence-ai-production-1235453756/#!"
-webUrl: "https://variety.com/2022/digital/asia/iqiyi-artifical-intelligence-ai-production-1235453756/#!"
+originalUrl: "https://variety.com/2022/digital/asia/iqiyi-artifical-intelligence-ai-production-1235453756/"
+webUrl: "https://variety.com/2022/digital/asia/iqiyi-artifical-intelligence-ai-production-1235453756/"
 ampWebUrl: "https://variety.com/2022/digital/asia/iqiyi-artifical-intelligence-ai-production-1235453756/amp/"
 cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2022/digital/asia/iqiyi-artifical-intelligence-ai-production-1235453756/amp/"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 563
     isCached: true
 
-secured: "GopsE16GQv5UqHOD5uT86eJQrwbRPc/u7TuYJORGuQBuChFuVia8Ol5XXz1i9ty6XK7zAkh/Z8htz4dlNP1RJ9P4OyWzJPlPtS8aMHgWiJdHo+8CquppOUoPM6ZMqIrusKAi6HogXJTZUpRU99SbCSDM+Xi7wVfU5Qp1A6cydEupq0RPormFHs4/2WTXDU9EWAsK30SYxFGju2HIKrPqeTZpI5livrEmZtaNagwwIV1UmtRuNoy+WVl5xlMi+h+nvb+hsodXP4PNfVcdsdiXdD70RAQoVSj4GvKYfwvuoVRwa2ETjFUxysDaw2hjUNA8Nkg8iB3oco/fa3wi4qNs46j0IbB7bu8cA8ysVYw0mWs=;khbKoHL7dz5p4UBgRTxPNg=="
+secured: "fw6/hQRjsTOaUl410Li5pNMJgiHKXPhY/Bnern93SVFJ7OaYi26DKtQjeWX6ma4XG7UvLoBSnKvqK/DjrFVXptrcm4qbsExImztM+c6Bb7RXeT5+dTqp0x9Co8M0p2MU31YTnZAjvVMYpT6TbE3mdK/Of2WdnWT4LyoTsiHUmL5O5IoiRlu2jFYFv1H2iUWYQ9j3UCArip2ZAbgrf8Uo/ol0qGsy0YGICCB0kPIvaIkVabY5jyM4C87dZU1xgQfHevqfEaxT2xgVmarUTHr4bppUwmi/J0iKO0L7w9qWoanifB5zwGdyYxPGoJgIJDqJ0H0fzy1KBSzNvIQH8nBCLCkr/aeNQqdMmLa057swxbE=;1Bg2X7JyUS6MCAdEVI4DEQ=="
 ---
 

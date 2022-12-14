@@ -9,7 +9,7 @@ ampWebUrl: "https://bestmediainfo.com/amp/2022/12/aibased-content-localisation-s
 cdnAmpWebUrl: "https://bestmediainfo-com.cdn.ampproject.org/c/s/bestmediainfo.com/amp/2022/12/aibased-content-localisation-solutions-provider-ollang-enters-india"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "MemryX Inc. opens R&D center in Bangalore, India - advancing simple and scalable processing solutions for Edge AI"
-    excerpt: "MemryX Inc., a pioneering startup focused on accelerating artificial intelligence (AI) processing for edge devices, announced today it has opened an engineering center in Bangalore, India. The opening of the Bangalore site is complementary to existing MemryX engineering capabilities in Taipei,"
-    publishedDateTime: 2022-12-09T14:43:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/12/09/9727822.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
   - title: "AI-based Content Localization Solutions Provider Ollang Enters India, to Join Forces With 100+ AI Dubbing Experts"
     excerpt: "News reports, trends, analysis and Daily Updates on Business, New Emerging Technology, Startups, Funding, and Innovation in India and across the World"
     publishedDateTime: 2022-12-13T14:23:00Z

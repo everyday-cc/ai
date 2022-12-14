@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-12-07-does-chatgpt-mean-robots-are-coming-for-the-skilled-jobs.md",
+      "title": "Does ChatGPT Mean Robots Are Coming For the Skilled Jobs?",
+      "excerpt": "Will robots take away our jobs? People have been asking that question for an astonishingly long time. The Regency-era British economist David Ricardo added to the third edition of his classic “Principles of Political Economy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/12/06/opinion/chatgpt-ai-skilled-jobs-automation.html",
+      "originalUrl": "https://www.nytimes.com/2022/12/06/opinion/chatgpt-ai-skilled-jobs-automation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 249,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/12/06/opinion/06krugman-newsletter-image/06krugman-newsletter-image-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/12/06/opinion/chatgpt-ai-skilled-jobs-automation.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/06/opinion/chatgpt-ai-skilled-jobs-automation.amp.html",
+      "publishedDateTime": "2022-12-06T12:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-tsa-is-ready-for-nationwide-deployment-of-its-facial-recognition-system.md",
+      "title": "TSA is ready for nationwide deployment of its facial recognition system",
+      "excerpt": "The TSA started using its biometric system in 16 US airports as an optional screening procedure requiring the traveler to insert their ID document and have",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/96871-tsa-ready-nationwide-deployment-facial-recognition-system.html",
+      "originalUrl": "https://www.techspot.com/news/96871-tsa-ready-nationwide-deployment-facial-recognition-system.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2022/12/2022-12-06-image-13.jpg",
+          "width": 2048,
+          "height": 1536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T12:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-07-kodiak-robotics-awarded-50-million-contract-to-develop-driverless-army-vehicles.md",
       "title": "Kodiak Robotics Awarded $50 Million Contract to Develop Driverless Army Vehicles",
       "excerpt": "Kodiak Robotics, a leading self-driving truck startup, disclosed that it has been awarded a two-year, USD49 Million contract from the U.S. Department of Defense to help automate U.S. Army ground vehicles.",
@@ -508,6 +612,40 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-five9-elevates-omni-channel-customer-engagement-with-innovations-in-digital-self-service-ai-design-and-analytics.md",
+      "title": "Five9 Elevates Omni-Channel Customer Engagement with Innovations in Digital Self-Service, AI Design, and Analytics",
+      "excerpt": "\"Customers have high expectations when they contact their favorite brands, regardless of whether they employ self-service, digital or voice,\" explains Dan Miller, Lead Analyst at Opus Research. \"Too often,",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/12/06/9725221.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/12/06/9725221.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1029,162 +1167,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-chatgpt-ai-explained-why-everyones-chatting-about-this-new-chatbot.md",
-      "title": "ChatGPT AI Explained: Why Everyone's Chatting About This New Chatbot",
-      "excerpt": "ChatGPT is an AI chatbot system that OpenAI released in November to show off and test what a very large, powerful AI system can accomplish. You can ask it countless questions and often will get an answer that's useful.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/chatgpt-ai-explained-why-everyones-chatting-about-this-new-chatbot/",
-      "originalUrl": "https://www.cnet.com/tech/computing/chatgpt-ai-explained-why-everyones-chatting-about-this-new-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 409,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/084641681c8362c3ce0c3eb8a53365351adcaaac/hub/2022/12/06/3dd7180c-d0e7-47ca-bc37-b5df15a41a25/ai-chat-gettyimages.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/chatgpt-ai-explained-why-everyones-chatting-about-this-new-chatbot/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/chatgpt-ai-explained-why-everyones-chatting-about-this-new-chatbot/",
-      "publishedDateTime": "2022-12-05T22:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-the-top-5-healthcare-trends-in-2023.md",
-      "title": "The Top 5 Healthcare Trends In 2023",
-      "excerpt": "Healthcare never stands still, and new innovations, as well as external factors, are driving continuous change. Here we look at the five biggest healthcare trends in 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/12/06/the-top-5-healthcare-trends-in-2023/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/12/06/the-top-5-healthcare-trends-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/638ee3f77ab30981d50d997c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/12/06/the-top-5-healthcare-trends-in-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/12/06/the-top-5-healthcare-trends-in-2023/amp/",
-      "publishedDateTime": "2022-12-05T21:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-ai-text-generator-market-2023-is-flourishing-around-the-world-by-2026.md",
-      "title": "AI Text Generator Market 2023 Is Flourishing Around the World by 2026",
-      "excerpt": "Pre and Post Covid Report is Covered | Final Report will add the analysis of the impact of Russia-Ukraine War and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-text-generator-market-2023-is-flourishing-around-the-world-by-2026-2022-12-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-text-generator-market-2023-is-flourishing-around-the-world-by-2026-2022-12-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-05T20:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

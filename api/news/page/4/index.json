@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-12-09-how-to-control-windows-11-with-your-voice.md",
+      "title": "How to control Windows 11 with your voice",
+      "excerpt": "With voice access in Windows 11, you can navigate the screen, issue commands, and dictate text by talking. Here's what you need to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-to-use-voice-access-in-windows-11/",
+      "originalUrl": "https://www.zdnet.com/article/how-to-use-voice-access-in-windows-11/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/d15e7416521430eb890114b9c64f035b96e2606e/2017/10/09/a3a771f5-4b7d-4740-a42c-3a11830be5b5/businesswoman-by-window-working-on-laptop.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-use-voice-access-in-windows-11/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-use-voice-access-in-windows-11/",
+      "publishedDateTime": "2022-12-08T11:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-chatgpt-why-everyones-obsessed-with-this-mind-blowing-ai-chatbot.md",
+      "title": "ChatGPT: Why Everyone's Obsessed With This Mind-Blowing AI Chatbot",
+      "excerpt": "This artificial intelligence bot is an impressive writer and conversationalist. But be careful how much you trust its answers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/computing/chatgpt-why-everyones-obsessed-with-this-mind-blowing-ai-chatbot/",
+      "originalUrl": "https://www.cnet.com/tech/computing/chatgpt-why-everyones-obsessed-with-this-mind-blowing-ai-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 257,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/084641681c8362c3ce0c3eb8a53365351adcaaac/hub/2022/12/06/3dd7180c-d0e7-47ca-bc37-b5df15a41a25/ai-chat-gettyimages.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/chatgpt-why-everyones-obsessed-with-this-mind-blowing-ai-chatbot/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/chatgpt-why-everyones-obsessed-with-this-mind-blowing-ai-chatbot/",
+      "publishedDateTime": "2022-12-08T10:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-09-can-machines-invent-things-without-human-help-these-ai-examples-show-the-answer-is-yes.md",
       "title": "Can machines invent things without human help? These AI examples show the answer is 'yes'",
       "excerpt": "The question of whether artificial intelligence (AI) can invent is nearly 200 years old, going back to the very beginning of computing. Victorian mathematician Ada Lovelace wrote what's generally considered the first computer program.",
@@ -214,9 +317,9 @@
       "tags": null,
       "images": [
         {
-          "url": "https://i0.wp.com/www.ksn.com/wp-content/uploads/sites/13/2022/12/gettyimages-1245341956-612x612-1.jpg?w=2000&#038;ssl=1",
-          "width": 612,
-          "height": 408,
+          "url": "https://i0.wp.com/www.ksn.com/wp-content/uploads/sites/13/2022/12/Untitled-design-98.jpg?w=2000&#038;ssl=1",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -803,8 +906,8 @@
       "title": "China’s iQiyi Bets Big on Artificial Intelligence to Help Pandemic-Hit Production Sector",
       "excerpt": "China-owned streamer iQiyi has been ramping up its use of artificial intelligence across productions as a result of the lasting impact of the pandemic. Kelvin Yau, head of southeast Asia for iQiyi ...",
       "sourceUrl": null,
-      "webUrl": "https://variety.com/2022/digital/asia/iqiyi-artifical-intelligence-ai-production-1235453756/#!",
-      "originalUrl": "https://variety.com/2022/digital/asia/iqiyi-artifical-intelligence-ai-production-1235453756/#!",
+      "webUrl": "https://variety.com/2022/digital/asia/iqiyi-artifical-intelligence-ai-production-1235453756/",
+      "originalUrl": "https://variety.com/2022/digital/asia/iqiyi-artifical-intelligence-ai-production-1235453756/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1134,102 +1237,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-polyu-and-hanson-robotics-step-towards-artificial-intelligence-and-robotics.md",
-      "title": "PolyU and Hanson Robotics’ step towards Artificial Intelligence and Robotics",
-      "excerpt": "The Hong Kong Polytechnic University (PolyU) and Hanson Robotics Limited (Hanson) signed a Memorandum of Understanding to establish the Centre for Humanistic Artificial Intelligence and Robotics (CHAi",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/polyu-and-hanson-robotics-step-towards-artificial-intelligence-and-robotics/",
-      "originalUrl": "https://indiaeducationdiary.in/polyu-and-hanson-robotics-step-towards-artificial-intelligence-and-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2021/02/download-5-1.jpg?fit=600%2C315&ssl=1",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/polyu-and-hanson-robotics-step-towards-artificial-intelligence-and-robotics/amp/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/polyu-and-hanson-robotics-step-towards-artificial-intelligence-and-robotics/amp/",
-      "publishedDateTime": "2022-12-07T16:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-competitive-programming-with-alphacode.md",
-      "title": "Competitive programming with AlphaCode",
-      "excerpt": "Solving novel problems and setting a new milestone in competitive programming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/competitive-programming-with-alphacode",
-      "originalUrl": "https://www.deepmind.com/blog/competitive-programming-with-alphacode",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6221e6c759f19819bd5bec04_CodeGen.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

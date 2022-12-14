@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-14T01:40:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-by-product-and-geography-forecast-and-analysis-2023-to-2028-with-top-countries-data-2022-12-13"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-by-product-and-geography-forecast-and-analysis-2023-to-2028-with-top-countries-data-2022-12-13"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - AI in Finance
   - Facebook AI
   - Google AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

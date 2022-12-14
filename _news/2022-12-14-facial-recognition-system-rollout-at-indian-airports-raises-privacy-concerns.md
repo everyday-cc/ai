@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scroll.in/article/1038975/facial-recognition-system-roll
 cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1038975/facial-recognition-system-rollout-at-indian-airports-raises-privacy-concerns"
 type: article
 quality: 71
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -87,21 +87,7 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "Meta-Indian Govt Bury the Hatchet, Unite for AI Innovation"
-    excerpt: "Using its position as the Chair of the Global Partnership for Artificial Intelligence, India has expressed its desire to collaborate with Meta as a trusted AI partner. In exchange for this, the country will put forward regulations in the GPAI forum that will incentivise innovation in the artificial intelligence field."
-    publishedDateTime: 2022-12-12T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/meta-indian-govt-bury-the-hatchet-unite-for-ai-innovation/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/Meta-To-Collaborate-With-The-Indian-Government.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
-secured: "bkFroeIlb3XKR4kzh1oYnW+Fh4vGL4sNbsdYy8YK80wXsdVnv6lmAU0Z3tPkwv1cwjjMgSIkGYgTPia6L0kHMu0qo4L36KRdTu126PfwJvjcSXiSSlnnFFsL0mO8oPAZAikoFF4wGvTASeeslWstXoxvxO9SOSbaBe12Ri1PFDPd7WBP+zC62GH9zuvgd1Q6a7xJI1DGsuyd73cxUPrfF7cBuLkkFkv/KaQvrRRD086BJRVnETe2/m5al6G+evr8dnzYqKfuBnUOECdKgNwxTJskIe0jj2V66aHP3E6beWsR+VJE1OlJcQoWsMvYidihTmMviziGBz+yQqnxH6OLn+27DjrM8mx9Ao5FpOr9Mq4=;96Ss4H1ROOeP20IbWk4IAQ=="
+secured: "Vep091n0LvcTaFmcTozjQNd3S6D21n14etl5/DJ2WckCCDvZhVlvrF+UxI8HR7cGTJtfNi9bnSBHi379qHyldfqSHI/gRVQid633nQY1J0gd+dZvmO/eRSA0hRc8s9gcazHwYd1zX/Jk1szEu3dQdsDq707sQerbPP1vjKpDeVsJNW485r4Yxd/wS7fwDX3UJySv7gSX7KadsYqWXXwNlm1Pk81zmeDuy6KDXnSBptjgZ+c6nz3SZ0P6lB6i1nPd7Dl6YsMSUfGfs0wvskp78nsEfy8XIScARZoUsST/beFE25YT89x5/IrFbNgMZyjZK4jDH7ZpwRIZdcohh/7MKHIFhsTdP9naQoUPLhBhpJi10IajH26SAGlE5yU/1EBxaeGl3IOuQgtgG8TFni/+yOEqfWROC9lB02tzbRjtCTVY7aRFASELggl3NUIiMGM76Y8X+v8FokD6b+6oQJDHWaVi6nFu7bA7WngznlUF/E50VSnqFZ2WKAdBnkzjzMiK1W5AitRgcQnlNcZXUsdszg==;WFACUKtnPRLzn7faFtA62g=="
 ---
 
