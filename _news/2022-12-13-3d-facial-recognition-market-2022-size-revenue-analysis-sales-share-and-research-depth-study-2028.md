@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-ma
 webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-2022-12-12"
 type: article
 quality: 71
-heat: 131
+heat: 151
 published: true
 
 provider:
@@ -109,6 +109,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Facial Recognition Market Trend Insights, Regional Growth Analysis, Major Players Professional Status, Outlook and Forecast 2023-2027"
+    excerpt: "The \"Facial Recognition Market\" research report provides insightful Data, comprehensive statistics, and a thorough"
+    publishedDateTime: 2022-12-13T07:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-facial-recognition-market-trend-insights-regional-growth-analysis-major-players-professional-status-outlook-and-forecast-2023-2027-2022-12-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Market Growing Worldwide By Leading Key Players, Shares, Size, Regional Analysis and Forecast 2023-2028"
+    excerpt: "In the forecast period of 2023-2028, the Global “Speech and Voice Recognition Market” Research report will make detailed analysis mainly on in-depth research on the development environment, Speech and Voice Recognition Market size,"
+    publishedDateTime: 2022-12-13T11:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-growing-worldwide-by-leading-key-players-shares-size-regional-analysis-and-forecast-2023-2028-2022-12-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

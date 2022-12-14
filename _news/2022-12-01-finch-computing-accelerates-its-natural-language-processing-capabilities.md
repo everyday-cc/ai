@@ -2,19 +2,27 @@
 category: news
 title: "Finch Computing Accelerates its Natural Language Processing Capabilities"
 excerpt: "LAS VEGAS, Nov. 30, 2022 /PRNewswire/ -- Finch Computing, developers of innovative natural language processing technology used throughout the Federal government and among financial firms ..."
-publishedDateTime: 2022-12-01T03:49:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/markets-news/PR Newswire/12126976/finch-computing-accelerates-its-natural-language-processing-capabilities/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/markets-news/PR Newswire/12126976/finch-computing-accelerates-its-natural-language-processing-capabilities/"
+publishedDateTime: 2022-12-01T03:11:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29917271/finch-computing-accelerates-its-natural-language-processing-capabilities"
+webUrl: "https://www.benzinga.com/pressreleases/22/11/n29917271/finch-computing-accelerates-its-natural-language-processing-capabilities"
+ampWebUrl: "https://www.benzinga.com/amp/content/29917271"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29917271"
 type: article
 
 provider:
-  name: The Globe and Mail
-  domain: theglobeandmail.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "JMODgc/nh38MWaU9zNCKrcDNhkLsLUvJPPz8tbRmdDRD2TduL2jvLayHQA0Bgn+UyJCh/q3uwVxn7OjYSBsOK400oburzXdsL7V0uRjUPM2vsoDc5uEydUUxwvMQ83cxvwsfICF9LsitJ+OO8T2ZDrc2Yp3j1uuXkNnCaOX0kJPI5KX3C01TYev0Q3aR77bjU4v8Kw8i8jjGD2YTy3PLwnCtffNBJU2GblP+56nWgbO7KAkwPlYfExFfn/F7WnxoBGGVCnWRX0LvqxXdWr77pqsHsDW7YywOL1o8z0DdOQSOGPOQOJ7BMvoO1p7YHP6eCQO39Eh0A5HwkkzIeTVuprJYh27DnL8B+qWQvVs4VUw=;IoAVrTbi4N4fAFFosywlfg=="
+images:
+  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
+    width: 800
+    height: 313
+    isCached: true
+
+secured: "ryNugw7lxNstmB5YphnEo2RoM3p6O+zyKHn6F7jVoBhHjbZrnT4HNArWuofwWh1u4doWMICCpjMcNSp5GKgIrSfMg1eZj5TQ9+jE2w+l1Lbv8y1PEAtw16sbITmHTXC7obd0kYNGJyV4g7zjv+2fJCIfO0mVZn53r+/OVqG/Er7JBF1WeN50KQa0qiYEwvRianQkFlcvf5cgcQij5IFZRiB8nZleOzJexsSbduui7iPk4zj/GNWnwB1xQO/VgB8Eow88QolJ9ic44elGP8ycsb84dwUTas1CbwIM8TT9PJqhNHX1j4UiVZ2QqPkqkip0czN0AcbaL25QC06MDjBaWmpBJhGQA4wnPysoFdeFpL0=;jtBOhG2NFyjJEoSXPgwVzg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/blogposting/23394/the-growing-impact-of-a
 webUrl: "https://www.finextra.com/blogposting/23394/the-growing-impact-of-artificial-intelligence-in-financial-services-in-2023"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,26 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "7 ways a recession could impact AI and ML in 2023"
+    excerpt: "Experts are predicting a possible recession in 2023. What would that mean for AI users and the vendors that supply AI tools and expertise?"
+    publishedDateTime: 2022-12-13T20:32:00Z
+    webUrl: "https://venturebeat.com/ai/7-ways-a-recession-could-impact-ai-and-ml-in-2023/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+  - title: "AI and robots could help detect urinary tract infections earlier"
+    excerpt: "British researchers are working on a new way to recognize urinary tract infections (UTIs) using artificial intelligence and robots. Scientists at the University of Edinburgh and Heriot-Watt University have teamed up with Scotland’s National Robotarium and two Scottish nursing home providers for the collaborative project,"
+    publishedDateTime: 2022-12-11T06:32:00Z
+    webUrl: "https://www.washingtonpost.com/wellness/2022/12/11/uti-women-ai-robot-diagnosis/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 34
 
 secured: "sCUM0FciDnehJQ66EbRg4X+aNV+ccB2JE19ds/mk3wC/KeJU1fjnBNBM4K3tcBmKxSKuzolkblqxFiVNmQFpZO+BorvvJQ3U3VmhQivwIDLzigq4LsLR2JTSR0W8xEJGr8kyYLkKAj9+GNDvl0uycXl/u+JOVgASlKA1vp0Jg6XYqgH1WPCI9KFRhjgX9J4R4cV7tBhi1H32iuYa1yTkFonLfxudpPMSR1AYhV01Ntoj6AZLI0AfwL/PnSsKiDmRBqjxXUAsLbc4eateqdch5zWF37EthQ8s7eMQi3x49e5mEoKhnwTT1THgrTADndZmhqfdwQfmMTbCQ2L5LrNyyiM5TXsMnI4HCps7RBctgYFRRQX2p7G5FBBmfU+N/wvGo2HDXayJu9tqZITiFzx5ukc34mg6TVvmSxnyvMehWBnbwB44la2Pcdg18a+PWBc5jBjlLckqn3m0yE6u76/z2yl62q1r6Ma9Nz8TAoMad+rvH7WDDIzGTjkod0svBnes2wMfy3IE72SekiwhY3lIrA==;ZHYGIWhyQsixPEto32pHlA=="
 ---

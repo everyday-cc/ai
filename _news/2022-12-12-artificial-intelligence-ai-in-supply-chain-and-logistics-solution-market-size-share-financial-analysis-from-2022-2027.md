@@ -113,6 +113,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Facial Recognition Market Trend Insights, Regional Growth Analysis, Major Players Professional Status, Outlook and Forecast 2023-2027"
+    excerpt: "The \"Facial Recognition Market\" research report provides insightful Data, comprehensive statistics, and a thorough"
+    publishedDateTime: 2022-12-13T07:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-facial-recognition-market-trend-insights-regional-growth-analysis-major-players-professional-status-outlook-and-forecast-2023-2027-2022-12-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Market Growing Worldwide By Leading Key Players, Shares, Size, Regional Analysis and Forecast 2023-2028"
+    excerpt: "In the forecast period of 2023-2028, the Global “Speech and Voice Recognition Market” Research report will make detailed analysis mainly on in-depth research on the development environment, Speech and Voice Recognition Market size,"
+    publishedDateTime: 2022-12-13T11:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-growing-worldwide-by-leading-key-players-shares-size-regional-analysis-and-forecast-2023-2028-2022-12-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "fMXwNpmhorphnSSItw8XViDB2qIbeYFS+UN8ESU/kNl84kqtQDKywWg10++xO0+SkLTxfy7M+bii/2pzlrCrc/Qm+/qRiomcbCxQUqbrqskuTODAF44TvXK8Sv/pzH18G3S28SiCl2KYmFuyaQtO17iULCdP0d5jeuoUaX0h5K6w7UIkBDHid5q1lcTCd744NbvEfkyl9muH7DN2Oocbb2S/EXGhB+u1YAGdT92plqs1c672zIT4Abiwr5TVLPuh7/DOzSjraHQmtmNYd8PRZtBP3XdZb/inti9dw+hytJx+vjHMA6Jwj8PFfZrXkH8c0D867brJlocB/bCosj6UmGy9jvZuRZbnRxcxwHoA8ps=;7R9jqHA/nOzrT8u4Zwbilw=="
 ---

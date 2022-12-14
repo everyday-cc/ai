@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla Says Its Self-Driving Tech May Be a ‘Failure,’ but Not Fraud"
-    excerpt: "The electric car company is facing a class-action lawsuit from Autopilot and Full Self-Driving (FSD) technology customers. They claim they were ripped off, duped by statements from co-founder and CEO Elon Musk and marketing materials from Tesla over the past six years suggesting full-fledged autonomous driving was imminent."
-    publishedDateTime: 2022-12-09T19:04:00Z
-    webUrl: "https://www.ttnews.com/articles/tesla-says-its-self-driving-tech-may-be-failure-not-fraud"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 54
-    images:
-      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2022-12/Tesla-autonomous-1200.jpg"
-        width: 470
-        height: 246
-        isCached: true
   - title: "Tesla to Add Radar in Hopes of Achieving Full Self Driving in Vehicles"
     excerpt: "Chuck Gersham, CEO of Owl Autonomous Imaging, says that radar technology should theoretically be the correct move in pursuit of FSD but doesn’t believe it’ll be the last change by Tesla along this route."
     publishedDateTime: 2022-12-14T00:51:00Z

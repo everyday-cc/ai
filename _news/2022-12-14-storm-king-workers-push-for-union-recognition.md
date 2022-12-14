@@ -39,20 +39,15 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "Horry County Special Education Teacher Receives National Recognition from Education Associates for Career Readiness Achievements in Classroom"
-    excerpt: "Functional Special Education Teacher Emily Scheffler from Horry County Public Schools attended the 2022 National CASE Conference in Salt Lake City to receive the 2 nd Annual Gary Bates Memorial Award."
-    publishedDateTime: 2022-12-09T20:47:00Z
-    webUrl: "https://apnews.com/article/business-education-schools-2bc3e9e00f2a474c888ec6034f8e3448"
+  - title: "GBT Filed a Continuation Application for its Facial and Body Recognition Patent"
+    excerpt: "GBT Technologies Inc. (OTC PINK: GTCH) (\"GBT\" or the \"Company\") with GBT Tokenize Corp. (\"GBT/Tokenize\") filed a continuation application with the United States Patent and Trademark Office for its facial and body recognition,"
+    publishedDateTime: 2022-12-14T12:58:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/12/14/9730190.htm"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 6
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "lvVmY6UOebJf9kfYE1o8EXC4fvdoUUVp6cLzmRC08wviCEDTsnOBVgdx1akJe2h8B0cJcyMGhCtBCyYkF/0/ocZ0oNvq6mBLvohwIuRMQ4Bhta8SmG7BODgSBy8fZCjkSssiNfLBt4e/UsMP0sw6DjmDrjY+CwCvGm/lHAwF/ijE/+HWPSzrviLhx+Gv7s08HAsOEbemE20cUCVf/3Y0QKBS2z6FUwMI9ebW5jTd+8nermWIT+yNvI1z4Coba4bKO5FLr+d9oej0orvmTyThjUD3CQxVkZsP0ZmFUJAM66B/E1Mzpmhs6jV61QsxhXBxs0CEsRycGi65Dcox31sgFWrufqyH3gb/hUSmvYgfjeEdwrk+5sGBIgCYv3Y8X32XKdX1bllA8GzJaCI5q2gcTPt4PZrJmAjGEp2rB0S1REtdVBj+CbKwvJjJNnFICEQBrEVdxW4ANuKHY3UAvgeUXUyVy25+qzzTJ2vmsl9bMmwubdN9Vg4Vi25scNkcGF/vsvuXEbJQTxqAYeGTsU0eVQ==;yWR92auIhvXUdfQaaxnuag=="
 ---

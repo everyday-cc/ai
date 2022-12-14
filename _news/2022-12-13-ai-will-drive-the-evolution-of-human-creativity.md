@@ -70,6 +70,20 @@ related:
         width: 750
         height: 466
         isCached: true
+  - title: "Unlocking the potential of AI"
+    excerpt: "If issues around privacy are addressed, AI can revolutionise business and public services by facilitating cost effective, socially beneficial outcomes"
+    publishedDateTime: 2022-12-14T10:14:00Z
+    webUrl: "https://business-reporter.co.uk/technology/unlocking-the-potential-of-ai"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 39
+    images:
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/022/iStock-965072554.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI and data democratization"
     excerpt: "Data democratization is a concept that has taken hold, but what does it actually mean? The simplest definition of “data democratization” is making data accessible and available to all employees and stakeholders without bottlenecks and gates."
     publishedDateTime: 2022-12-12T08:31:00Z

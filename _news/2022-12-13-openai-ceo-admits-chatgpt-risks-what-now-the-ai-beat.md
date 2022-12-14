@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/openai-ceo-admits-chatgpt-risks-what-now-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/openai-ceo-admits-chatgpt-risks-what-now-the-ai-beat/amp/"
 type: article
 quality: 87
-heat: 179
+heat: 159
 published: true
 
 provider:
@@ -45,38 +45,6 @@ related:
       - url: "https://www.cnet.com/a/img/resize/084641681c8362c3ce0c3eb8a53365351adcaaac/hub/2022/12/06/3dd7180c-d0e7-47ca-bc37-b5df15a41a25/ai-chat-gettyimages.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
-        isCached: true
-  - title: "AI ChatGPT Is A Huge Fan Of Elon Musk, Not-So-Much Google, Amazon And Apple"
-    excerpt: "Silicon Valley has been obsessed with ChatGPT since it launched on Nov. 30. The impressive chatbot, created by Elon Musk founded startup OpenAI, has racked up more than a million users in its first five days and is likely to report astounding session times as people find themselves drawn more and more to this charming AI."
-    publishedDateTime: 2022-12-09T21:01:00Z
-    webUrl: "https://www.forbes.com/sites/martineparis/2022/12/09/ai-chatgpt-is-a-huge-fan-of-elon-musk-not-so-much-google-amazon-and-apple/"
-    ampWebUrl: "https://www.forbes.com/sites/martineparis/2022/12/09/ai-chatgpt-is-a-huge-fan-of-elon-musk-not-so-much-google-amazon-and-apple/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2022/12/09/ai-chatgpt-is-a-huge-fan-of-elon-musk-not-so-much-google-amazon-and-apple/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/639396616b1ddb747792f2ca/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "ChatGPT Is A Huge Fan Of Elon Musk And AI, But Not Google, Amazon And Apple"
-    excerpt: "Silicon Valley has been obsessed with ChatGPT since it launched on Nov. 30. The impressive chatbot, created by Elon Musk founded startup OpenAI, has racked up more than a million users in its first five days and is likely to report astounding session times as people find themselves drawn more and more to this charming AI."
-    publishedDateTime: 2022-12-09T21:01:00Z
-    webUrl: "https://www.forbes.com/sites/martineparis/2022/12/09/ai-chatgpt-is-a-huge-fan-of-elon-musk-not-so-much-google-amazon-and-apple/"
-    ampWebUrl: "https://www.forbes.com/sites/martineparis/2022/12/09/ai-chatgpt-is-a-huge-fan-of-elon-musk-not-so-much-google-amazon-and-apple/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2022/12/09/ai-chatgpt-is-a-huge-fan-of-elon-musk-not-so-much-google-amazon-and-apple/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/639396616b1ddb747792f2ca/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "ChatGPT has mastered the confidence trick, and that's a terrible look for AI"
     excerpt: "ChatGPT appears disarmingly frank about its flaws if you ask it outright. Say you're a lazy journalist who asks it to \"produce a column about ChatGPT's mistakes when writing code.\" \"As a large language model trained by OpenAI,"

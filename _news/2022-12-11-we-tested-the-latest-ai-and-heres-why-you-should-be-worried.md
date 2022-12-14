@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Software ate the world. Now it’s AI’s turn"
+    excerpt: "The CEO of Microsoft-owned GitHub says the sheer complexity of a world dominated by software code means AI is needed to help fill the tech skills gap."
+    publishedDateTime: 2022-12-11T18:00:00Z
+    webUrl: "https://www.afr.com/chanticleer/software-ate-the-world-now-it-s-ai-s-turn-20221209-p5c53y"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 39
+    images:
+      - url: "https://static.ffx.io/images/$zoom_1.0779%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1621%2C$y_887/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/7d7afd1600cc8ceaaa0890d16605846b0c0e9c14"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "This AI text generator surpassed 1 million users in less than a week. Should we be worried?"
     excerpt: "Still, ChatGPT has raised concerns about the ethics of the platform from experts in the field. In addition to the usual “robots are going to take our jobs” fear generally associated with AI, some are worried about how it may be misused to chat on the ..."
     publishedDateTime: 2022-12-12T22:10:00Z

@@ -25,29 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "3 Ways Artificial Intelligence Will Transform The World in 2023"
-    excerpt: "As we continue to see high rates of positions needing to be filled in 2023, AI is likely going to see quick adoption, development and more."
-    publishedDateTime: 2022-12-09T19:30:00Z
-    webUrl: "https://www.entrepreneur.com/science-technology/the-3-biggest-artificial-intelligence-ai-trends-in-2023/439434"
+  - title: "We tested the latest AI – and here's why you should be worried"
+    excerpt: "ChatGPT is the most recent revolution in artificial intelligence, with mind-boggling capabilities – but it raises ethical questions"
+    publishedDateTime: 2022-12-11T08:59:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2022/12/11/tested-latest-ai-why-should-worried/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 71
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 39
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1670362779-GettyImages-1249613157.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2022/12/09/TELEMMGLPICT000319185472_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg?impolicy=logo-overlay"
+        width: 1024
+        height: 536
         isCached: true
-  - title: "7 ways a recession could impact AI and ML in 2023"
-    excerpt: "Experts are predicting a possible recession in 2023. What would that mean for AI users and the vendors that supply AI tools and expertise?"
-    publishedDateTime: 2022-12-13T20:32:00Z
-    webUrl: "https://venturebeat.com/ai/7-ways-a-recession-could-impact-ai-and-ml-in-2023/"
+  - title: "This AI text generator surpassed 1 million users in less than a week. Should we be worried?"
+    excerpt: "Still, ChatGPT has raised concerns about the ethics of the platform from experts in the field. In addition to the usual “robots are going to take our jobs” fear generally associated with AI, some are worried about how it may be misused to chat on the ..."
+    publishedDateTime: 2022-12-12T22:10:00Z
+    webUrl: "https://www.crikey.com.au/2022/12/13/chatgpt-ai-text-generator-ethical-questions/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
+      name: Crikey
+      domain: crikey.com.au
+    quality: 29
+    images:
+      - url: "https://www.crikey.com.au/wp-content/uploads/2022/12/AdobeStock_358471433.jpeg"
+        width: 740
+        height: 415
+        isCached: true
 
 secured: "IxNcaRr4F3k6DtM5cnT1ji2Dzt2nNgHUb4UWAcd3E5Ny1qO6zkr2073rBZZpzWXX+z3R57MPLLR8Sm6QuLsccslWQDbliB4L9UKEJfNaQrUFHuFF1Ayct5SCpshQIOTiLV9WKsqU0NbNnb8R2YoZ+W3EeiDBGCUm9KxY7TnmL3KdmhgYMq8G8/+NifvIlB8m5cC+5yFxypBSrazEvyrDhLPWatzS/QH6cJ0jM42qgLmHKxUvIp9Pj9W/Mq9OOrt6W2OhGiCHrQgmNvdOh2es1WrUCOMwO8gQ3KADqFGmjDL7dBf+iF632ckmNQyAh+YOZtPrbg8Ql1rn/wOoh1Jk/tvCfvWYjeSPPiLyAXxFSKfE9oivJfO3ZsIZn+0Nff+0mx18jngE9br4YQPgZaXwLXSreU87bLlKNG3Z5EelqOvXtMsySuaHtkqO08kfft1MjNb1bvNZ25aZJPeSrmkoXln+/J4sTLB07xZBeO67HLSL739uLQ+mHD1qrr5i8pBYILtORWT0ujmXX7yRVeTRQA==;u/0TX5R/EJBnYhaZfqpDgQ=="
 ---

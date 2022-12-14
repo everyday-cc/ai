@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Genesis introduces keyless entry with face recognition tech to GV60"
+    excerpt: "Another system that will also be available on the 2023 Genesis GV60 is the Digital Key. This allows owners to unlock or lock their vehicle using their smartphone or smartwatch. As"
+    publishedDateTime: 2022-12-14T11:15:00Z
+    webUrl: "https://www.shropshirestar.com/news/motors/2022/12/14/genesis-introduces-keyless-entry-with-face-recognition-tech-to-gv60/"
+    type: article
+    provider:
+      name: Shropshire Star
+      domain: shropshirestar.com
+    quality: 39
+    images:
+      - url: "https://www.shropshirestar.com/resizer/tCy4LfNhxLvhD2kGoLYehP8yYBU=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/56BRY7GLWFFDLCYC4AIECRHRQE.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "GENESIS INTRODUCES WORLD FIRST KEYLESS ENTRY FACE RECOGNITION TECHNOLOGY ON 2023 GV60"
     excerpt: "Genesis GV60 will be the first car in the world to feature pioneering face recognition technology as part of biometric vehicle entry and engine start Other new features include Digital Key,"
     publishedDateTime: 2022-12-13T08:29:00Z
