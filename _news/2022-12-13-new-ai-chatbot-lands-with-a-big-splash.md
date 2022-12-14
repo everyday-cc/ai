@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "I Entered a Pun Competition. My Jokes Were Written by an AI Chatbot."
-    excerpt: "ChatGPT, a trendy new artificial intelligence robot, can generate all sorts of writing. But is it punny?"
-    publishedDateTime: 2022-12-09T15:23:00Z
-    webUrl: "https://www.wsj.com/articles/chatgpt-ai-chatbot-punderdome-jokes-11670602696"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-682317/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Watch DoNotPay's AI Chatbot Renegotiate a Comcast Bill to Be $120 Lower"
     excerpt: "The AI can also cancel subscriptions, fight parking tickets, and potentially get medical bills reduced on your behalf."
     publishedDateTime: 2022-12-13T17:46:00Z
@@ -53,15 +39,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Becoming a chatbot: my life as a real estate AI’s human backup"
-    excerpt: "For one weird year, I was the human who stepped in to make sure a property chatbot didn’t blow its cover – I was a person pretending to be a computer pretending to be a person"
-    publishedDateTime: 2022-12-13T05:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/dec/13/becoming-a-chatbot-my-life-as-a-real-estate-ais-human-backup?ref=upstract.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
   - title: "Artificial intelligence chatbot can code, compose music, write essays, and more"
     excerpt: "We will increasingly have conversations with our computers to get the information we need or get them to do what we want them to do."
     publishedDateTime: 2022-12-12T14:00:00Z
@@ -71,15 +48,6 @@ related:
       name: Independent Online
       domain: iol.co.za
     quality: 15
-  - title: "Could an A.I. Chatbot Rewrite My Novel?"
-    excerpt: "As a young fiction writer, I dreamed of a technology that would tell me how to get my characters from point A to point B. Could ChatGPT be it?"
-    publishedDateTime: 2022-12-09T19:50:00Z
-    webUrl: "https://www.newyorker.com/news/our-columnists/could-an-ai-chatbot-rewrite-my-novel"
-    type: article
-    provider:
-      name: The New Yorker
-      domain: newyorker.com
-    quality: 4
 
 secured: "R1dJZJaQVkWBie3hzTeTdpQPUQ4A4G814+a68HCzdzFjP8184eWpjaeckxI71LN7Zhsc1QYCJa4RkkQfEdIxl0Am2TiH9umLrhCHEUxwO3StBV3wpg+NHFeKmu6YR178sL/JeVIjnDMyo2GU7h6zQ2dhaFiX/2Vh5w+yEpq0caICoV1H5BAVNJhXUh0NTbjk8ZgjVhlh/yAJszXY3conjnRpbj0q9mNudfa0Q2vnGOkSZaPieL8NTlbUeV8B+ynDxezys7n5swT3XFO2rW2Loz1aAg2olMUdnmnw9aVthazZWlFu53kcG+oFBcj2tTxVr1pxLrQJnAMZKkVq2XrB8gd9//m47pOfP0/4VJMWug0=;1WazGWs/3uso1JutURHJmw=="
 ---

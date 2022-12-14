@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-12-bolstering-safety-self-driving-c
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-bolstering-safety-self-driving-cars-deep.amp"
 type: article
 quality: 50
-heat: 112
+heat: 124
 published: true
 
 provider:
@@ -96,6 +96,20 @@ related:
       - url: "https://ing.dk/sites/ing/files/styles/large/public/illustration/2022/12/bigstock-car-with-punctured-flat-tire-p-450582011.jpg?itok=-pO1Askr"
         width: 480
         height: 320
+        isCached: true
+  - title: "Meta’s Answer to the Missing Link of Self-Supervised Learning"
+    excerpt: "(SSL) models, which are trained on a single input modality (such as images or text) and require a lot of computational power."
+    publishedDateTime: 2022-12-14T08:31:00Z
+    webUrl: "https://analyticsindiamag.com/metas-answer-to-the-missing-link-of-self-supervised-learning/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/Metas-Answer-to-the-Missing-Link-of-Self-Supervised-Learning-.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Tough road ahead: Self-driving cars are taking off in the US, but Australians might be waiting a while yet"
     excerpt: "More self-driving cars are hitting the road in America, letting drivers relax behind the wheel. But when will Australians be driven around by their own cars?"

@@ -19,19 +19,49 @@ topics:
   - AI
 
 related:
-  - title: "DeepMind creates AI tool that generates rough film, stage scripts"
-    excerpt: "Dramatron will generate film titles, characters, settings and dialogues, using plot story that has been written in"
-    publishedDateTime: 2022-12-11T06:29:00Z
-    webUrl: "https://tribune.com.pk/story/2390604/deepmind-creates-ai-tool-that-generates-rough-film-stage-scripts"
+  - title: "DeepMind’s AlphaCode Conquers Coding, Performing as Well as Humans"
+    excerpt: "AlphaCode paves the road for a novel way to design AI coders: forget past experience and just listen to the data."
+    publishedDateTime: 2022-12-13T15:00:00Z
+    webUrl: "https://singularityhub.com/2022/12/13/deepminds-alphacode-conquers-coding-performing-as-well-as-humans/"
+    ampWebUrl: "https://singularityhub.com/2022/12/13/deepminds-alphacode-conquers-coding-performing-as-well-as-humans/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/12/13/deepminds-alphacode-conquers-coding-performing-as-well-as-humans/?amp=1"
     type: article
     provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 59
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2022/12/code-g59512838a_1280.jpg"
+        width: 1068
+        height: 601
+        isCached: true
+  - title: "DeepMind Builds AI That Codes as Well as the Average Human Programmer"
+    excerpt: "In an apparent effort to put themselves out of a job, DeepMind researchers have created an AI that can write code, and it performs surprisingly well in programming challenges."
+    publishedDateTime: 2022-12-12T13:24:00Z
+    webUrl: "https://www.extremetech.com/computing/341451-deepmind-builds-ai-that-codes-as-well-as-the-average-human-programmer"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
     quality: 54
     images:
-      - url: "https://i.tribune.com.pk/media/images/AP7X5BUWQ5JXZL6W6Q23VXJ6FQ1670741708-0/AP7X5BUWQ5JXZL6W6Q23VXJ6FQ1670741708-0.jpg"
-        width: 1200
-        height: 628
+      - url: "https://www.extremetech.com/wp-content/uploads/2022/12/alphacode-deepmind-640x353.jpg"
+        width: 640
+        height: 353
+        isCached: true
+  - title: "Code like a Pro with DeepMind’s AlphaCode"
+    excerpt: "AlphaCode generates candidate code solutions (in Python or C++) compared to GPT-3 algorithms, and filters out the bad ones."
+    publishedDateTime: 2022-12-14T06:31:00Z
+    webUrl: "https://analyticsindiamag.com/code-like-a-pro-with-deepminds-alphacode/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/Now-Code-like-a-Pro-with-DeepMinds-AlphaCode-.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "h2TKKWY76CCp07gsUohsgrLdg8JdcETsojddV5Jz5PFxCTAKdt/V+zWrW3230y9yPg4vFd5LTPN3LRKTI6sVf2/eVTVQ1xSC6L6XFqr2XnTM3/dkcsJcY/R9pF1+9+di1GX9BurA9lB1nuefvw3PCDzxssN9he24FuLc46EfOS5tGQs2oAHUHD39qnMLieXqRh+SYQCxbjGByC5pPNAEK4yOBL7iYJx8bpgaXU5g2Ie7hyXqp6YZpYKcQK2ai3V4I1A0vuZo0gUczukwNCMfYh7Y37kRdX3lF0Sn9+aqhCWoA7ihJkh/+Rbetcvo15jcgeKYWEyGthWra2SB84l7xi89IRnDCerfJV9G0DML957bt2JUdkK7ssucwhjisnugADl58nopkjQ7t4FFsD0lKDqGBR+vckZ7ZaU4sURoCWbROSsK8fDlhiu9IQ93hmJ1qABB2BSj+G35Nykn34hukEbAkyqNO9mEyuP0DlB2aUJyTKxr3RURkv6AwFi0KMsf8i26fC8s/WGN8gWpZVX2wA==;7HUYNIbE5fB3XsjFDwg6IQ=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://singularityhub.com/2022/12/13/deepminds-alphacode-conquers-c
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/12/13/deepminds-alphacode-conquers-coding-performing-as-well-as-humans/?amp=1"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Singularity Hub
@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind's AlphaCode attains 'average' rating in programming competition"
-    excerpt: "A team of researchers at DeepMind has tackled another difficult task—generating computer code to satisfy a natural language request. In their paper published in the journal Science, the group describes the approach they used in creating their AI app and outline how well it did when pitted against human programmers."
-    publishedDateTime: 2022-12-09T15:30:00Z
-    webUrl: "https://techxplore.com/news/2022-12-deepmind-alphacode-average-competition.html"
-    ampWebUrl: "https://techxplore.com/news/2022-12-deepmind-alphacode-average-competition.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-deepmind-alphacode-average-competition.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 73
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/computing.jpg"
-        width: 1920
-        height: 1282
-        isCached: true
-  - title: "Deepmind AI Predicts 214 Million Protein Structures"
-    excerpt: "Deep Mind announced they had identified 214 million 3D protein structure predictions, making them freely available for public use.”— Formaspace AUSTIN, TEXAS, UNITED STATES, December 13, 2022/ EINPresswire."
-    publishedDateTime: 2022-12-13T22:16:00Z
-    webUrl: "https://apnews.com/article/technology-science-austin-efedc7d60ca348160a1d75e2a24c9a95"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 56
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "DeepMind Builds AI That Codes as Well as the Average Human Programmer"
     excerpt: "In an apparent effort to put themselves out of a job, DeepMind researchers have created an AI that can write code, and it performs surprisingly well in programming challenges."
     publishedDateTime: 2022-12-12T13:24:00Z
@@ -71,6 +41,29 @@ related:
         width: 640
         height: 353
         isCached: true
+  - title: "Code like a Pro with DeepMind’s AlphaCode"
+    excerpt: "AlphaCode generates candidate code solutions (in Python or C++) compared to GPT-3 algorithms, and filters out the bad ones."
+    publishedDateTime: 2022-12-14T06:31:00Z
+    webUrl: "https://analyticsindiamag.com/code-like-a-pro-with-deepminds-alphacode/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/Now-Code-like-a-Pro-with-DeepMinds-AlphaCode-.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Alphabet's DeepMind creates AI for drafting film scripts"
+    excerpt: "DeepMind Technologies, part of Alphabet Inc., the parent company of Google, has created an AI that can be used to draft scripts for film and stage plays.  \"Language models are increasingly attracting interest from writers."
+    publishedDateTime: 2022-12-10T12:16:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/alphabets-deepmind-creates-ai-for-drafting-film-scripts-9683811.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 34
 
 secured: "uPoxFyV2g44uYOEjXaGqFn2ihUGomE/9PE8tNPhj/XETTSZIVSNGhtqFywQvChKfz9OTqApagZarTOH/C06oZaUHWu6wrrsxM3EXFyPaqv8RBS1HQuTLMN6qfiXKVlGpRR+ftl3F4qrqD6qULDUAECujDSk15qX88f/xeLc9UIeCZBXoTZrwAAJN+QwK209BTIshBWg6SFAtFX+ZlEnxj5i0kzsw6fIoucMxgF5/O0Tx2EAtMcXXcddZKhwwEHduIJAIFy9mkMZzvDa8b1Cqs1lH4Lu0pCDNpOl5g0cJqr70jWhJyJdaWjsEKw1SNFR0VG56kV3uewXflmmIQVjDTquatdQijROeEcmLQ9BOODoz9+CRveRQQ4aS0GpxgGZWcqXeJTMI3RnHlsmYcdj41IU7S/4wff8/dU4gJVtbta1dyWSSHkW+9T/Gk0Cynfc7q3YNVX4gOFGFvx5QY2c9Xy24GAwr61EARyY37LqUbY4g9JpkYRXzScmr6CrvgNr345zEvuCh/pQtbhkSuxdtEA==;iwGp0cIn4HauXLihBCZm8Q=="
 ---

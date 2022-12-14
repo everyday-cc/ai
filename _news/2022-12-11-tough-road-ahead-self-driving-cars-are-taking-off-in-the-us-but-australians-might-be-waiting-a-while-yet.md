@@ -110,6 +110,20 @@ related:
         width: 480
         height: 320
         isCached: true
+  - title: "Meta’s Answer to the Missing Link of Self-Supervised Learning"
+    excerpt: "(SSL) models, which are trained on a single input modality (such as images or text) and require a lot of computational power."
+    publishedDateTime: 2022-12-14T08:31:00Z
+    webUrl: "https://analyticsindiamag.com/metas-answer-to-the-missing-link-of-self-supervised-learning/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/Metas-Answer-to-the-Missing-Link-of-Self-Supervised-Learning-.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "qQXazUJZiwu+HcBslrbd5FSseDYYPV3mG4g+Q2vq2XA/5pluFLbIGxi8hNlxIkdxn+SH+lTjL4MdGmXX2TW1W3o7GW03m5nbHqGcd5p7+z9nmLtkPS6Uzw7nws2Drp5mJdrLwJAZoO8ySreaF47T4wYoQPLSRSe2ErOh8fYyUobTkZF8VBJyAnoG7ynVZsM4wzKcUnW6qqZMotZAIXyOUXC/LMpN4BK1bwTN2W1CSGN77KgZbXtep/bDUNadmEwIxXLdFskIa/kaMeD9M8yLnlS+jDR97tVD1/lAHylq1HUMDxpf5sBBeaS+8dWhq7M0ymicN2jbLH/f7MetuPjhBQIFBuijK93WmQ+KWN2/k1k=;oFViUUELhy4tje3ZGZGngw=="
 ---

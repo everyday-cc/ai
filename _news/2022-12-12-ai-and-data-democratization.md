@@ -75,15 +75,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Pondering the legitimacy of AI art"
-    excerpt: "The more AI art is generated, the more valuable human-created art.” - Alex Roy Listen, I don’t want to argue. Art created by artificial intelligence, if it’s even really art at all, is sketchy and problematic."
-    publishedDateTime: 2022-12-09T18:01:00Z
-    webUrl: "https://www.thefabricator.com/thefabricator/blog/cadcamsoftware/pondering-the-legitimacy-of-ai-art"
-    type: article
-    provider:
-      name: The Fabricator
-      domain: thefabricator.com
-    quality: 19
 
 secured: "93gC97tPr8M14Vf1fY+prv0HgXQwX/y8Mv/9JDRYFZ3lNGOjh/MP7ZBVCExh2LQn3w4olJV5w6yF8I1gPHInSuJyZtbyQ0gNHAv1j2rVCi9sCBFR13ijn2CAMEg2UCRFu+UGCFJJKjYqkXijFyvcASXnC3d9ILzPdpZin6nNF2kE6C8EgAQmKXiUIvogk9lVLFc4HtKSHvrGFW+NdbpIyjr9mmpq+CBFJpYUl5r/lj5mduKMHB53CMUuBu635yKufX3lbFW2mKD0laRMMy8ebvKB2PmHgX6vkIwImpOWalBffrfoS5HCmo1bzy6kEETKKoVNqQGuqwbHG8pMYHnlCIuTbCSczMYRoFtXadazKgqox61K1qV4zup7qUDXJePvWC9/JRgqtKFXQyT5YZ07itVxOFG3NN2H5P+GVJLhvtClVj9Qu4PIlvwIX4ovfrZ3j9fVPn9FBpgT56BwWXZakX29RbGawj2mEPDfXzQfBHlElL00OG5/mBLMLA/jALlQsY3gpnUMpwrwCdEPUU75Ig==;1FEk5tUhx2e5NHkV+jiZYg=="
 ---

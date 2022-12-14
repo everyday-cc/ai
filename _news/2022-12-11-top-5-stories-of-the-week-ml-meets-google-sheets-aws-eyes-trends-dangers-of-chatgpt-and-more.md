@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/top-5-stories-of-the-week-ml-meets-google
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-5-stories-of-the-week-ml-meets-google-sheets-aws-eyes-trends-dangers-of-chatgpt-and-more/amp/"
 type: article
 quality: 94
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "This AI Platform will Change the Future of Generative AI – And it’s Not ChatGPT"
+    excerpt: "As the fervour around AI text and image generators grew, another startup developing AI content called Jasper raised USD 125 million in October this year pulling the company’s valuation to USD 1.5 bill"
+    publishedDateTime: 2022-12-14T09:48:00Z
+    webUrl: "https://analyticsindiamag.com/this-ai-platform-will-change-the-future-of-generative-ai-and-its-not-chatgpt/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/break.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "ChatGPT and How AI Disrupts Industries"
     excerpt: "ChatGPT, from OpenAI, shows the power of AI to take on tasks traditionally associated with “knowledge work.” But the future won’t just involve tasks shifting from humans to machines. When technology enables more people to complete a task,"
     publishedDateTime: 2022-12-12T13:39:00Z

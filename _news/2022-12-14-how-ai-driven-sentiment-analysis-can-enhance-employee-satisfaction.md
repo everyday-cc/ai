@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/how-ai-driven-sentiment-analysis-can-enha
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-driven-sentiment-analysis-can-enhance-employee-satisfaction/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1000
     height: 750
     isCached: true
-
-related:
-  - title: "Aging is driven by unbalanced genes, finds AI analysis of multiple species"
-    excerpt: "They also found that aging genes change their activity according to length. More specifically, aging is accompanied by a shift in activity toward short genes. This causes the gene activity in cells to become unbalanced."
-    publishedDateTime: 2022-12-09T16:00:00Z
-    webUrl: "https://phys.org/news/2022-12-aging-driven-unbalanced-genes-ai.html"
-    ampWebUrl: "https://phys.org/news/2022-12-aging-driven-unbalanced-genes-ai.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-12-aging-driven-unbalanced-genes-ai.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 55
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/aging-3.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
 
 secured: "VVI/q9jOp6cbA1RZamoFpX6uCyfD/8XtewesMYAePbRoWUl1VUoKiYVono28uj0C1MC/tHNz2EzGBfx63k8fzoex2H9+PW30T+VA/dhpvwv/a77+ujjhXpv0HxYUtHot+KtjdubiWjvoGqb92cbIrHPwChAizARLkR6lYpY16ZRzmaLochi/VE9y3QJtYMaYnuq53KePW8jALjpYJr9i96400+DBnQYB9ozJ/rb/+ch0Sri4DeaNV179We5ca2K1tzWjwRvSA6tPfZU+8kiFDnBZMlqSiujYODcJfRZyOzKq9qmyZydunahUrQoicK5TADCUlzDW6lBXi8df8dkQ8BUIX4HQRtm97JNwBdiM7PQXcGDQQ92JUBjcSV8DTwUb1ygWokmUC5/8Ivc6MXcjNwAGTnZnG4NX0SEK42hleDQSPS9YHyDcaQerEHrMiAV+iRaNsETa+7TDy6AUGA/e0Az+5dz9e6nMA4gpGZArDZc+ylIYUMv5WHzzmhAbl+E7GX3v7leGhoQkGtLuRd1kIg==;SWJVZNV3ndmHm8rQKLeh7g=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-13T18:22:00Z
 originalUrl: "https://siliconangle.com/2022/12/13/vic-ai-raises-52m-ai-powered-accounting-automation-platform/"
 webUrl: "https://siliconangle.com/2022/12/13/vic-ai-raises-52m-ai-powered-accounting-automation-platform/"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/image-2.png"
+    width: 718
+    height: 400
+    isCached: true
 
 related:
   - title: "First-Ever AI Video Platform Integrating Text-Generated Image And Animation"
@@ -44,6 +50,6 @@ related:
       domain: forbes.com
     quality: 42
 
-secured: "wJOAJDdQnsOy1uM856ym2VIb7JdCz1c9ouWQXwCXier33G75Na/c6SqE5RUgKflbY+OVnR8XoqKsWUNqwVG2sKQJ4cL2O7+lXoCdTtUair+mDrCF847Pz/IVU0vOt8vAdzc8j1OliJjsO5qLQJb2VPUmvgFf7dPpBp/N4FBKyqX1KIYpuTqGkZzdYkezioBtTgbhKYxTEXmnp9Eu2ZWyb2eTqLL9I/bYblirRpRA2IllGoiJjoStchmf1rs98lAwjwtHRBiJUkLmmtl5HzCFIW7VZgz9cO5xj4N+Lm+c5MwlvKb+E2sbd1hzsL5n1i5n8TmalRbtr3hnHfT7qYpX6lKddZmERgwwDxUKpM6NPgs=;3OnVtgq7GfXhb+JuQrQSog=="
+secured: "Od3ilIr4qmAcymhKldGDiU0b53yJFhj3XOvqp5A8ciW/ytqaDQSWZ/uQ3WkE3dT/K5VQvuzVovCxNY0kaARThJ8GqFC6F75EoO8Sy98jTWeGdANzL0b6f6Y9kRlYdghxx9zm2xmb3dq1lpkVU3Gic+sJyrIHRWTEAdXocOiAt3yNd94LSvsPxnXIEpTUnDtVgwLwfNK2J+0VXnhnqxQa7oWWrdPtCJAm8H9HaYVWsAQSZAtTfeS6Yb6hnIlU7VFYigjQecZaPlyKLuw+2t8rgVeNTVT+h7KGKhy+TDpOS9Toc3afNCwyUrxpnm2WtfHY+ar0N9Py76psF7bbZucwKp6ID2WGeqGJdjZMCddst2Y=;KVZzvx9D5t8cy107E99RPA=="
 ---
 

@@ -72,6 +72,20 @@ related:
         width: 3024
         height: 3024
         isCached: true
+  - title: "OpenPayd: The Future of Fintech, Embedded Finance and Crypto in 2023"
+    excerpt: "What are the broad trends you expect the fintech industry to focus on in the upcoming year? Why will these areas be the immediate focus for the industry in your opinion? I hate to use the term, but it's a perfect storm."
+    publishedDateTime: 2022-12-14T08:49:00Z
+    webUrl: "https://financialit.net/content/openpayd-future-fintech-embedded-finance-and-crypto-2023"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 39
+    images:
+      - url: "https://financialit.net/sites/default/files/daniel_belda_headshot.jpg"
+        width: 927
+        height: 1013
+        isCached: true
   - title: "AI and the future of venture capital"
     excerpt: "This came in the wake of OpenAI, led by Graham protégé Sam Altman, releasing a generative AI tool that eventually could enable engineers to do more in less time. A big question is if the venture capital market on the verge of a counterintuitive dichotomy,"
     publishedDateTime: 2022-12-12T16:44:00Z
@@ -99,6 +113,20 @@ related:
       - url: "https://cdn.betakit.com/wp-content/uploads/2022/12/BITCOIN.jpeg"
         width: 1050
         height: 700
+        isCached: true
+  - title: "Top 10 Fintech App Development Companies In 2023"
+    excerpt: "As we all know, fintech isn’t an incredible financial technology that offers automatic delivery of financial services. According to Statista, the financial app development market is expected to reach $305 billion by the end of 2025."
+    publishedDateTime: 2022-12-14T07:33:00Z
+    webUrl: "https://techbullion.com/top-10-fintech-app-development-companies-in-2023/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/12/unnamed-36-1.jpg"
+        width: 512
+        height: 256
         isCached: true
   - title: "This is how fintech is changing the game for young professionals in India"
     excerpt: "Indian professionals need more than ever is ground-breaking financial services that go beyond the norm to realise their dream of non-discriminatory financial inclusion and stability."

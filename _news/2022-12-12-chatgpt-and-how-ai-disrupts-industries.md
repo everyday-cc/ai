@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "This AI Platform will Change the Future of Generative AI – And it’s Not ChatGPT"
+    excerpt: "As the fervour around AI text and image generators grew, another startup developing AI content called Jasper raised USD 125 million in October this year pulling the company’s valuation to USD 1.5 bill"
+    publishedDateTime: 2022-12-14T09:48:00Z
+    webUrl: "https://analyticsindiamag.com/this-ai-platform-will-change-the-future-of-generative-ai-and-its-not-chatgpt/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/break.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "eLjfdpAsfNpE8zuQNtj1UfmBQTbKPjHTFZ7GWdxBdXYt49MDeF/G+GgPQpDyManXmcaybdG/96za+WSo+SL39GgD8f01pS8FnQxEy+GT3OT0XB5XNHmJCh3FM3NkTmvM8ovHbZU2Vc61ACmwDNWb1d8lhby/u0R67Il3ho3bGRlsqSyR5BE7c+GQseZ4h2kOJC1A5bEXhbZOYNza/QHiYehUAuaUTdNC8RewI5tT4sdaVTWWKZb/s3ZiiENHwb+2HyCAE7NXU4BSaRF2qh8v7LUzdIKzmyijETnX2Cfip5igH9WuRcWyHwRlmzPmS6hdP1PBQnkY1GCPFHxIigLU8hrqJzfms8aROT/C9cXDq/r5Lf4VquMkZTdgLGl8f0NjzjgKVPOip0grMUfz7JeuFWBF3WPIi6R1qfzd0WtfPfLuJcpr1lyQR5vj/6xTdzQo843aBpA6ghnRqh3hVprP7/yaL7h4Iye8LDmv3tKW+KYmUOamVU25LAyF2Yfslr6CHIiFhHT3e1+CuherlNM9XQ==;G4adwG676ToOKamZ/NIzAQ=="
 ---
