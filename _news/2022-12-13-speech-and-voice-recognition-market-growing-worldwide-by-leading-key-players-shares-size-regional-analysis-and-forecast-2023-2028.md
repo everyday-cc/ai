@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI In Medical Imaging Market Size, Share, Growth, Revenue, Demand, Future opportunity, analysis and forecast till 2028"
+    excerpt: "AI In Medical Imaging Market\" Research Report explains how the market growth has been unfolding over the recent past"
+    publishedDateTime: 2022-12-14T10:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-size-share-growth-revenue-demand-future-opportunity-analysis-and-forecast-till-2028-2022-12-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Image Recognition Market Size: Generate Revenue, Market Status, and Forecast from 2022 - 2028."
     excerpt: "In this \" Image Recognition market ,\" the patterns from one year to the next have been evaluated for each sector. For example, the research and company profile provides detailed descriptions of the major factors influencing the demand for the Image Recognition market."
     publishedDateTime: 2022-12-10T05:33:00Z
@@ -141,6 +155,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Based Medical Device Market 2023 Share, Size, Sales, Growth Drivers, Opportunities, Industry Trends and Forecast to 2028"
+    excerpt: "New research publishedas theArtificial Intelligence Based Medical Device Marketresearch report provides an in-depth"
+    publishedDateTime: 2022-12-14T09:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-2023-share-size-sales-growth-drivers-opportunities-industry-trends-and-forecast-to-2028-2022-12-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
 
 secured: "e/BVo8G2nSM4cqz5+jzVre1i5WQVZ5oLLz2wh/ea1mK6OkQQL+wdtuoMbsAIiMphDBsnKuv58aDZQLbZWvgzMwDxy0DQgjrP/lNoZ04ZhhIb2zQxRreKbRUe25A9iQGDJBIKD2Vw9zIelGQD3x5hLJX9eSwg35+nuFelnNKc0LafezlISFlKepNOk9iqESDauuSvus5qaSYWIt7EQM21vQ77dMMXWdZ4U+egNbpeqlkCdB/NkzkFyhpWW5qDT0Lj/cZsylwT2nzzXxybUfoouzcQDJOhonxlPIQIX/nIPsVqYgUcwyjh/9VBWU/cxkgb+Iz6EVbRIeb6hPE3hrUzzzF69oHDNDNybdFfQ8qN7EQ=;ybNINkb3qxU9IggouFBdmw=="
 ---

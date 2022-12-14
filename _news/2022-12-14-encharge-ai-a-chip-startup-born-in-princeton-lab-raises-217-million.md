@@ -1,20 +1,61 @@
 ---
 category: news
-title: "EnCharge AI, a chip startup born in Princeton lab, raises $21.7 million"
-excerpt: "Its first products will be cards that can be easily slotted into server racks for companies to run AI applications, said Naveen Verma, CEO and co-founder of EnCharge AI and a professor of electrical and computer engineering at Princeton."
-publishedDateTime: 2022-12-14T14:40:00Z
-originalUrl: "https://telecom.economictimes.indiatimes.com/news/encharge-ai-a-chip-startup-born-in-princeton-lab-raises-21-7-million/96231045"
-webUrl: "https://telecom.economictimes.indiatimes.com/news/encharge-ai-a-chip-startup-born-in-princeton-lab-raises-21-7-million/96231045"
+title: "EnCharge AI, a Chip Startup Born in Princeton Lab, Raises $21.7 Million"
+excerpt: "EnCharge AI, a chip startup born at a Princeton University lab, on Wednesday said it raised $21.7 million as it looks to commercialize its computing technology that is designed to run artificial intelligence applications more efficiently."
+publishedDateTime: 2022-12-14T14:14:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2022-12-14/encharge-ai-a-chip-startup-born-in-princeton-lab-raises-21-7-million"
+webUrl: "https://www.usnews.com/news/technology/articles/2022-12-14/encharge-ai-a-chip-startup-born-in-princeton-lab-raises-21-7-million"
 type: article
+quality: 64
+heat: 94
+published: true
 
 provider:
-  name: telecom.economictimes.indiatimes
-  domain: indiatimes.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
   - AI
+  - AI Hardware
 
-secured: "mWeYGDEzHLWvIt9wbSku7UwNNiMEFP+4ZMBpmkQZAw9YbME3P5Y38nwwmd6f2Rz7DP2LuS4WALRsAYEpd4ZCQ6d6PlRus+I49PjdWe55SVKy4KN12KElD4LNUvMWUSQQT2g5LNThQ6UPymt9fO2us/jcxF0FgfRJXodfjP6Zp5o5gXenrfRfUjpTx1ureBPU6KTBXA7YeZ+KppBPijNUfkAwLi3xIchULuT7k5doTsDPyStCBGO7GrGO/FR6SfvZxiE4wznEmmC/zJOa22r6tApGnvKdANnHxLNDYJoXQqA6Uj5/oPRJuT4kfupaRPw9whULpMP8OkSXV37Lf1nUGOcnuwsJvXBZc26FkUAU8DhEpXAqqJa6wrXkHLU9E7OX51H1yXR/Ypu9nLcOG4szDVxhCBpCgWXStSdxRIPzKjAcPRfhxeDKSbAi9NadBxob5AUY7XbYSiIMI9dMQmQkHqnRxxv4fyJ8wTsT7EOOoAzuy2UGNE7h0Qdud3ru5j8SN+BjGTtE8SCbwGpkpFSHpg==;bvln/osCH0d2bmnUMYlwHg=="
+related:
+  - title: "EnCharge AI, a chip startup born in Princeton lab, raises $21.7 mln"
+    excerpt: "EnCharge AI, a chip startup born at a Princeton University lab, on Wednesday said it raised $21.7 million as it looks to commercialize its computing technology that is designed to run artificial intelligence applications more efficiently."
+    publishedDateTime: 2022-12-14T13:16:00Z
+    webUrl: "https://www.reuters.com/technology/encharge-ai-chip-startup-born-princeton-lab-raises-217-mln-2022-12-14/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 64
+  - title: "AI chip startup EnCharge AI raises $21.7M to build integrated stack for edge uses"
+    excerpt: "The list of startups building hardware to process artificial intelligence applications just grew longer with the addition of EnCharge AI Inc. Today the company announced a $21.7 million Series A funding round to support the development of a semiconductor hardware and software stack it claims can deliver 15 times the performance of competitors in low-power environments."
+    publishedDateTime: 2022-12-14T15:39:00Z
+    webUrl: "https://siliconangle.com/2022/12/14/ai-chip-startup-encharge-ai-raises-21-7m-build-integrated-stack-edge-uses/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/20191003_VermaN_DKC_900.jpg"
+        width: 750
+        height: 422
+        isCached: true
+  - title: "AI-Diagnostics Startup Altris AI Raises $1 Million To Prevent Blindness"
+    excerpt: "Altris AI has raised $1 million in a round led by Runa Capital to scale its AI-enabled eye care diagnostics solution. Altris AI, which is a US-based startup originally from Ukraine, is building solutions for the $58 billion global ophthalmology market."
+    publishedDateTime: 2022-12-14T14:41:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/12/14/9730396.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
+
+secured: "jfjF3KwQQ0YboQLyh+NX2RDNz2bRKXWYz53LYw0rVG3AhNqQUPiGFabFD6ZumegLPM6mgZs288FvYDmMTbP4BClxVkKRJotJT5O2iRf2A8Af8HKoV0TdZxRgYT9SjLYkiPEqeeWFP97yu4B/Apqn+0WFUfPNIl6jWzMDGqfuyL3Ui4StTHRTs7/fpKzeGTjdtE+lkMAn/AIptpi0M0qOK7JEq9Uc1EkKkS49JH/uMYE525L4gIj551PDiTrbRd6mdOcSfk8wLll5acWBtYBe8k999wSYpkGy6ID4Ty2b5Cd59r2/2PzGMktXDKeHJDNDh4RXnJTWm8msPGTrEqmKxXNhog4YoWhon7T8P8rGp8U=;YPWRhgZPqxgCDpmEdX62cw=="
 ---
 

@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Trading Market Provides an In-Depth Insight of Trends and Landscape Outlook 2023-2028"
+    excerpt: "Artificial Intelligence in Trading Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2028. Artificial Intelligence in Trading Market Research Report is spread across 105 Pages and provides exclusive data,"
+    publishedDateTime: 2022-12-14T13:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-trading-market-provides-an-in-depth-insight-of-trends-and-landscape-outlook-2023-2028-2022-12-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "JN5XjAcehCXMbcweB+epZKQWIGywPLi3GyjGCbnoci0bQ7mC8hcxLsBOP+yVr40H3icMaXb36v+yJ75oUbfIt2zn32FomJ0GjY9vprGduUHCpWVATNwZdpHl8vxzlelxCFvXKpVdP9kcKNp8IULm1wUiFgjXa5vt9ytCr03OjbbujDhpoLJ2j4h9tR5kxIsK8iPUPNCJDGcN6+Ti/suHELx12Wjs/xxIV6UsQRaJ4Q5U1CM7zXZbiCPRP+ydujnYZ6U/LpOI4P8AfVJHhhUYFboYr//uUku2qSI2yv5vXgn44EJBr6PAGQ+vSuQTrU9H7NSvLfniVp4LDseLp0saOlYGznLfDf0XQUNjMyiW8n4=;/QOj/LhcsFHbAbAsqCn/lQ=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-14T13:42:00Z
 originalUrl: "https://www.rit.edu/news/rit-develops-interdisciplinary-masters-degree-artificial-intelligence"
 webUrl: "https://www.rit.edu/news/rit-develops-interdisciplinary-masters-degree-artificial-intelligence"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: Rochester Institute of Technology

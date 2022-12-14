@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-2022-regional-scope-growth-statistics-demand-and-regional-outlook-2028-2022-12-12"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: MarketWatch
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Trading Market Provides an In-Depth Insight of Trends and Landscape Outlook 2023-2028"
+    excerpt: "Artificial Intelligence in Trading Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2028. Artificial Intelligence in Trading Market Research Report is spread across 105 Pages and provides exclusive data,"
+    publishedDateTime: 2022-12-14T13:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-trading-market-provides-an-in-depth-insight-of-trends-and-landscape-outlook-2023-2028-2022-12-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Data and AI Ethics Market 2023 Industry Outlook, Current Status, Supply-Demand, Growth Opportunities and Top Players Analysis 2029"
     excerpt: "Data and AI Ethics Market Research Report is spread across 104 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. Data and AI Ethics Market Size is projected to Reach Multimillion USD by 2029,"
     publishedDateTime: 2022-12-13T12:58:00Z

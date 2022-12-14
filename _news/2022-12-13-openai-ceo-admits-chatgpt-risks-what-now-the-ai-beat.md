@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/openai-ceo-admits-chatgpt-risks-what-now-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/openai-ceo-admits-chatgpt-risks-what-now-the-ai-beat/amp/"
 type: article
 quality: 87
-heat: 159
+heat: 168
 published: true
 
 provider:
@@ -117,6 +117,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "ChatGPT Is a Tipping Point for AI"
+    excerpt: "With ChatGPT and other AI models that can communicate in plain English, write and revise text, and write code, the technology is suddenly becoming more useful to a broader population of people. This has huge implications."
+    publishedDateTime: 2022-12-14T13:05:00Z
+    webUrl: "https://hbr.org/2022/12/chatgpt-is-a-tipping-point-for-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "W4WqJO/o8mwmEOaB0hR6AzZnKEqp5wDJ2N2fzsN+REUR7J1+p5OjHecchr2jXQlWNaaQ35ZpH1sDcRDPQ6APFx0PtWJ5bsOtGAm8upqqS3/jEiWaRQeOQdxUoRyISXPtHafywWyWHH2M6nhK8z9j0YmfgVuwoDD2WAS203V4NsnMSU3M694pYZuq1vjF6RRImFFh4g4PhD8gMJaVaWvBFHmHzqe7kpgZSPw9DwJ+tQc3GU2eMlycvHmLYtSlWqALQ/FQcLZ06SyZhDhXh2U4albCQoDfz2iWI7vJkYhxFr36M9KC5B/Xq90DjoFz5iN+bxmte5/g+fKTQ/Lhy2R9pUS8+nitm9c9nk8qYBoXKLqC+4Yj6rwPDyV7wLr9GbD5iecSV962vdQs3t8KIuz9OHWYF7gLlWPso0w2/G4r4folddSUmqUFyY8ay1FG9wXud2GOBRaGy5Bl57gAk9not8OCfSsfcGqoOj76SRaa6rdzNhc9gHHuNue7cR5qpSbaVtd0sze9johuad9b8KD/XQ==;ytBq1E0qFAKvkS7/mhP6DA=="
 ---

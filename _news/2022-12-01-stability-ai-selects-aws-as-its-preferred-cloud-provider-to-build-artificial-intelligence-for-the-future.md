@@ -15,6 +15,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "1QGge9CPmYWnKKSYX8HWNzezZjJ5AXtXNVdq3i72AaueQqg0qKZapZSXjsUmnCRDXkBDIw48JHpg2300GhNTksWvGQ0kC/gyuHqJgWmPpCEPzuGW/R5QHqhrCtvkA5ay24x5p3sUgGxZlom/Bkfi5ej1xIWCLjqT4RoDvSQTZS/gbNEf6yxhXDGcNLlrE8WPim4MWJSE4BFyGJtf/7CkCUK3VzFQezNegvUUY7uyM9NnPPe/2o4VMDpXv1HjDwQmFliPMNckuhe3KzS3frJC2CXlQNl5VTPWuffwAQfPPyt5bewo1NbGOCLM9qDiBC+xyW6QUB4aozjXt9wd7VUa3QHVgMmNdwWNjF2BbXAt+x8=;sE6G7K8unmIGdDg0TQjRtw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "EGAqpLp7pTDACYvJgivPULoLQQ8LrYj+oQuR9d0IZDq2edQVSYsCBEM1iLfY0OllKlciUY2oaTwCO9zPfQxVCqdtba17wcmvgskeo2oKfM50G+pZ+vyLL5jFBs3lZUue+Eqd2+rJaQ3zEWbzQyufeXn3GsfB31uvs6dUytnDz2sezaEb0xsvO7FWnLOJHi/YFvvXJCuFvCbnI+uRs7FDJEBdaBchh9BZsWsG0UDi6qCJecGNTF3KrXcjBP0RF9pINH7mpqklbyhfrpK2tmNx56k3toFaMhXEx9pGIMiZYjihlu96BBiR4X6iKb2NlrqDSirArPrIo7WHkmowMh5ZSYqaJAvSmMBmL+iVIs2T1cs=;zOkURn3FIfhudQBlYzY3tg=="
 ---
 

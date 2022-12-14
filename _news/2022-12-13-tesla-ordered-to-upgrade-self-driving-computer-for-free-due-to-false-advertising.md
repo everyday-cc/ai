@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2022/12/12/tesla-ordered-upgrade-self-driving-
 webUrl: "https://electrek.co/2022/12/12/tesla-ordered-upgrade-self-driving-computer-for-free-false-advertising/"
 type: article
 quality: 63
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://wp-assets.futurism.com/2022/12/tessie.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Judge Orders Tesla To Upgrade Customer's Self-Driving Computer For Free On His Model 3"
+    excerpt: "A US judge has ordered Tesla to perform a free upgrade of the self-driving computer in a customer's Model 3 in order to allow him to have Full-Self Driving without having to pay extra. According to Electrek,"
+    publishedDateTime: 2022-12-14T15:05:00Z
+    webUrl: "https://carbuzz.com/news/judge-orders-tesla-to-upgrade-customers-self-driving-computer-for-free-on-his-model-3"
+    type: article
+    provider:
+      name: https//carbuzz
+      domain: carbuzz.com
+    quality: 31
+    images:
+      - url: "http://cdn.carbuzz.com/gallery-images/900x600/1078000/300/1078361.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "Payne: Riding along with my self-driving Tesla student driver"
     excerpt: "Payne's Model 3 carries Full Self Driving, Tesla's ambitious software that enables the car to drive itself on public roads, an upgrade over Autopilot."

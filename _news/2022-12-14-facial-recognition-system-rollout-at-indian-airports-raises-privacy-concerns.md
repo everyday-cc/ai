@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scroll.in/article/1038975/facial-recognition-system-roll
 cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1038975/facial-recognition-system-rollout-at-indian-airports-raises-privacy-concerns"
 type: article
 quality: 71
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://www.livelaw.in/h-upload/2022/07/21/426867-victim.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "US Customs agents use facial recognition system at Orlando International Airport to speed up lines"
-    excerpt: "U.S. Customs and Border Protection agents at Orlando International Airport are using facial recognition technology to help speed up screening lines that often stretch to 600 passengers deep."
-    publishedDateTime: 2022-12-09T22:00:00Z
-    webUrl: "https://www.clickorlando.com/news/investigators/2022/12/09/us-customs-agents-use-facial-recognition-system-at-orlando-international-airport-to-speed-up-lines/"
-    type: article
-    provider:
-      name: News 6 WKMG
-      domain: clickorlando.com
-    quality: 40
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/12-09-2022/t_f352d53d54e5459cb619075bf2c225bc_name_image.jpg?_a=ATO2Bfe0"
-        width: 700
-        height: 394
         isCached: true
 
 secured: "Vep091n0LvcTaFmcTozjQNd3S6D21n14etl5/DJ2WckCCDvZhVlvrF+UxI8HR7cGTJtfNi9bnSBHi379qHyldfqSHI/gRVQid633nQY1J0gd+dZvmO/eRSA0hRc8s9gcazHwYd1zX/Jk1szEu3dQdsDq707sQerbPP1vjKpDeVsJNW485r4Yxd/wS7fwDX3UJySv7gSX7KadsYqWXXwNlm1Pk81zmeDuy6KDXnSBptjgZ+c6nz3SZ0P6lB6i1nPd7Dl6YsMSUfGfs0wvskp78nsEfy8XIScARZoUsST/beFE25YT89x5/IrFbNgMZyjZK4jDH7ZpwRIZdcohh/7MKHIFhsTdP9naQoUPLhBhpJi10IajH26SAGlE5yU/1EBxaeGl3IOuQgtgG8TFni/+yOEqfWROC9lB02tzbRjtCTVY7aRFASELggl3NUIiMGM76Y8X+v8FokD6b+6oQJDHWaVi6nFu7bA7WngznlUF/E50VSnqFZ2WKAdBnkzjzMiK1W5AitRgcQnlNcZXUsdszg==;WFACUKtnPRLzn7faFtA62g=="

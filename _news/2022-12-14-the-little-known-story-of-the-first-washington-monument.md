@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-14T12:15:00Z
 originalUrl: "https://www.smithsonianmag.com/history/the-little-known-story-of-the-first-washington-monument-180981268/"
 webUrl: "https://www.smithsonianmag.com/history/the-little-known-story-of-the-first-washington-monument-180981268/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Smithsonian Magazine

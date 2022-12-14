@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-14T14:24:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/lg-innotek-developed-two-new-hybrid-lenses-for-high-performance-autonomous-driving-1031971840"
 webUrl: "https://markets.businessinsider.com/news/stocks/lg-innotek-developed-two-new-hybrid-lenses-for-high-performance-autonomous-driving-1031971840"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: Business Insider

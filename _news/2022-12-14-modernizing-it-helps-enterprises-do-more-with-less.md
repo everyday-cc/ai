@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-14T14:02:00Z
 originalUrl: "https://www.technologyreview.com/2022/12/14/1063588/modernizing-it-helps-enterprises-do-more-with-less/"
 webUrl: "https://www.technologyreview.com/2022/12/14/1063588/modernizing-it-helps-enterprises-do-more-with-less/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: MIT Technology Review

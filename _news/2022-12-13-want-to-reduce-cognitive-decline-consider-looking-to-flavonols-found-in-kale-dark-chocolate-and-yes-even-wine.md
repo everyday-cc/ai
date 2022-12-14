@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-13T12:38:00Z
 originalUrl: "https://www.inc.com/melissa-angell/flavonol-consumption-reduce-cognitive-decline.html"
 webUrl: "https://www.inc.com/melissa-angell/flavonol-consumption-reduce-cognitive-decline.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Inc

@@ -1,20 +1,26 @@
 ---
 category: news
 title: "IBM and David Clark Cause Aim to Reduce Food Waste; Name AI-Powered Gardening App Winner of 5th Annual Call for Code"
-excerpt: "and IBM's AI portfolio including IBM Watson Assistant. Since launch, the challenge has garnered participation from a community of 500,000 developers and problem solvers participating across 180 nations. \"Since the inaugural competition in 2018, IBM and ..."
-publishedDateTime: 2022-12-07T01:31:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2022/12/06/ibm-and-david-clark-cause-aim-to-reduce-food-waste-name-ai-powered-gardening-app"
-webUrl: "https://stockhouse.com/news/press-releases/2022/12/06/ibm-and-david-clark-cause-aim-to-reduce-food-waste-name-ai-powered-gardening-app"
+excerpt: "The top prize this year went to GardenMate for creating an app that uses IBM Watson® to connect gardeners ... technologies such as Hybrid Cloud and AI.\" Winning 2022 Call for Code Global ..."
+publishedDateTime: 2022-12-07T02:20:00Z
+originalUrl: "https://www.abc27.com/business/press-releases/cision/20221206NY57463/ibm-and-david-clark-cause-aim-to-reduce-food-waste-name-ai-powered-gardening-app-winner-of-5th-annual-call-for-code/"
+webUrl: "https://www.abc27.com/business/press-releases/cision/20221206NY57463/ibm-and-david-clark-cause-aim-to-reduce-food-waste-name-ai-powered-gardening-app-winner-of-5th-annual-call-for-code/"
 type: article
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: abc27
+  domain: abc27.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "nNTQJkVyRLN1QQUwfJa8Y3DgqoM5o1etK+J+G3kwyleOT+ICKWwzZn3hvo2XIsr6asTIgM2Xdmpvzl9igmUxH7Ib9R+om45MyGWMvFq8Il6hwWJvUTYHQ45x7Zsn7oTrF7sj8QKnyjCqyZHdeQxV15/RaPFpTkrMJB0mWJbyA2P8MvUvVnfsIIZ7yoNI5ClPiRV4ZMYXHDhwwPaw1WxwYXIaVf8fi96eUepOKFdDQjLhxD03SMvuU5rSl/v+UZ49UYjCHBZojXW0NZtcO1ow43yOrczkxvnHKyZgwFNP2wV43YfoVADragqyOT+c4bPYCnsnIRo0lgAG3Sh2MeSnOnQV+Xd+p/VAeGyamMhKtUc=;6MLdH3duVhdoKu3GOLfgSg=="
+images:
+  - url: "https://mma.prnewswire.com/media/1962901/IBM_GardenMate_Team.jpg"
+    width: 400
+    height: 300
+    isCached: true
+
+secured: "/W5I04NPgVN6V4to+8qw4wdMqFfUL+oeGZWso4ftrOSidIpmCORdoz5IuP+dXXZUwgvqQGdo1Yyt4iu3rupqtvprr4njjW6M1Iz45O2AERRIRJgn6CMiTkb0qstNcG7gnsTlj9PpyRZniLopV0wLZou6Z3101Vyszcs1dZ6NhAzmFZxYTNfkQAvvWFdNylIMlQvgd1lhU50rR8qUbu/7HfMJ5jUw1eUIj4RNoOJt482FprXKlx4eV6zE62MxEf1V+PMCY/i+0UNHNmodLXQC5mwZcx7gIh7AD0Qv1IpDePLufpEZ1y2haM/5sKovS7eLkCOzKwM8EwnbmZM3dqUSYA0Cjz6Czrxc3guU7weL5PA=;jTjgBxtqFOn8f9y+LcFuAA=="
 ---
 

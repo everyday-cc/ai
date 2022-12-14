@@ -117,6 +117,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "ChatGPT Is a Tipping Point for AI"
+    excerpt: "With ChatGPT and other AI models that can communicate in plain English, write and revise text, and write code, the technology is suddenly becoming more useful to a broader population of people. This has huge implications."
+    publishedDateTime: 2022-12-14T13:05:00Z
+    webUrl: "https://hbr.org/2022/12/chatgpt-is-a-tipping-point-for-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "mcFxhH+EReKHf7P1Xusq23PgOQ0dhtARlbg1U916VD6evpC53Hb0GyyxVrdibB2JtuM59sLCl+ckB2y6P/7yONOb5AHGq/AFm/gFH7LczhaRGB/1/qDArKMBwQv45CFIhT/jyAVzfIrN2hqs16OOzgWyAvcXMWlQWvYjpPBvUn5ZwhrzxJjy0QQ94jp9t0ocSU6vbjcQuUxPWiabfGk2l1qehuCk3L+sT28G9cBrRarzf5sxi+IIaqmE9XkgzQeksbBFdyT0+UKN9USaRg+w2duZWhAg0auKlMSZYQSFBjMPMqpdDw/8Qch5rwTYNSbb66uiZFljRaJihTMVOyxTZjtULWTQbwU/+cwORBW5SIu3/Le7ecuw1a0ex/vk0pACV4mo4+h9mT/oEE6mtfE+3wSuF6E5O5n9Ew3W5BwcltooxPt0Qm0pBTV69Bccpg6blHHZfxnunJRbji+3ThGWHOF7YPRJtfAass8StcVLxtNBMxtFaHRagxWdH4TgL8bgs9+q9q93puNtiQKmKOjvTw==;fTQ2flFdVRHxLgAF9jUIyw=="
 ---

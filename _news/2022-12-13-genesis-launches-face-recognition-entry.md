@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Genesis introduces keyless entry with face recognition tech to GV60"
-    excerpt: "Another system that will also be available on the 2023 Genesis GV60 is the Digital Key. This allows owners to unlock or lock their vehicle using their smartphone or smartwatch. As"
-    publishedDateTime: 2022-12-14T11:15:00Z
-    webUrl: "https://www.shropshirestar.com/news/motors/2022/12/14/genesis-introduces-keyless-entry-with-face-recognition-tech-to-gv60/"
-    type: article
-    provider:
-      name: Shropshire Star
-      domain: shropshirestar.com
-    quality: 39
-    images:
-      - url: "https://www.shropshirestar.com/resizer/tCy4LfNhxLvhD2kGoLYehP8yYBU=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/56BRY7GLWFFDLCYC4AIECRHRQE.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "GENESIS INTRODUCES WORLD FIRST KEYLESS ENTRY FACE RECOGNITION TECHNOLOGY ON 2023 GV60"
     excerpt: "Genesis GV60 will be the first car in the world to feature pioneering face recognition technology as part of biometric vehicle entry and engine start Other new features include Digital Key,"
     publishedDateTime: 2022-12-13T08:29:00Z
@@ -47,6 +33,15 @@ related:
         width: 1168
         height: 657
         isCached: true
+  - title: "Genesis introduces keyless entry with face recognition tech to GV60"
+    excerpt: "Another system that will also be available on the 2023 Genesis GV60 is the Digital Key. This allows owners to unlock or lock their vehicle using their smartphone or smartwatch. As"
+    publishedDateTime: 2022-12-14T11:16:00Z
+    webUrl: "https://www.expressandstar.com/news/motors/2022/12/14/genesis-introduces-keyless-entry-with-face-recognition-tech-to-gv60/"
+    type: article
+    provider:
+      name: Express & Star
+      domain: expressandstar.com
+    quality: 19
 
 secured: "IcxYtvn+paN9uto5HjiFNGg0qDKMfn434TNkthwvWohuqkWgC5+22Lc1IkfLnP5foi45R6mLpS269S8/JrKPKYlgnL2aAZhr7C604k2c187wj6PRSLkYarbbXCsUN9PigRd9CC+g51lWcJtaOcuyxsK6Cdq43AitGvV2n8eRDqWTEYmZoA3er9hxuI1DLwCDKkn50CtO5ZDYadSr3/BUAXSxDC3VV34PkvkxjUTzJ0ZNveb6uQbI2aGCTUBOmCvgKkub9WvvAMuY5vNDowzJ5nnibgGGLl9QpXXGmQ0wdWGUkcbhWSgvMMKJMUr+HeYKNNSwG8OHtT9pZn1Ul0mWoBD0FjOJoUBQY13vVu5lhxqUKOqOsqqfDjwXvf5ZgQRM8hJUD8voq3frTRVJ1QSHdfqoIx/gZdJSAbIGfSCrrJU/S/UYtH2/bwDg4ymBQdhhhQJF/4Q/VZvF7xpWyp43WSfPeXfEeq29btCPLAzD4ZBr89As9+XauQjr6V1SQjyFltTeMvIdBtjjut+Y+EiMNw==;WRZD8eFIajaoXsmKaYk7TA=="
 ---

@@ -44,6 +44,20 @@ related:
         width: 1024
         height: 539
         isCached: true
+  - title: "Google won't make a competitor to Microsoft Azure-powered ChatGPT, at least for now"
+    excerpt: "Dean explained that Google has similar capabilities to ChatGPT but has taken a more conservative approach due to the \"reputational risk\" that could occur if things went wrong. Chatbots powered by AI are prone to bias,"
+    publishedDateTime: 2022-12-14T15:09:00Z
+    webUrl: "https://www.windowscentral.com/software-apps/google-wont-make-a-competitor-to-microsoft-azure-powered-chatgpt-at-least-for-now"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 48
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/NBgAT2ZHE82EgK9Em2Ze8b-1200-80.jpg"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Microsoft Acquires A Stake in London Stock Exchange to Offer AI & Analytics Solutions"
     excerpt: "Microsoft signs a 10-year partnership with London Stock Exchange Group (LSEG) and buys nearly 4% stake in the UK bourse operator."
     publishedDateTime: 2022-12-12T12:42:00Z
@@ -85,6 +99,20 @@ related:
       - url: "https://arizent.brightspotcdn.com/dims4/default/c98ee1d/2147483647/strip/true/crop/900x473+0+64/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Ff2%2Fe3%2Fd6598c534bb19e51a6d9e43a456c%2F390276691.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft Tech Community Blogs gets text to speech feature"
+    excerpt: "Microsoft has announced that it is making it easier for you to listen to your favorite Microsoft Tech Community Blog articles. The company is introducing a"
+    publishedDateTime: 2022-12-13T16:22:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-tech-community-blogs-gets-text-to-speech-feature"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 39
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2022/12/Untitled-design-3.jpg"
+        width: 1028
+        height: 768
         isCached: true
   - title: "KULR’s CellCheck Battery Monitoring System Launches on Microsoft’s Azure Cloud Computing Service"
     excerpt: "Built on Azure Cloud, the Modular Battery Management System Platform Leverages Azure Cloud's Advanced AI Functionality to Collect and Analyze Data From all KULR products"

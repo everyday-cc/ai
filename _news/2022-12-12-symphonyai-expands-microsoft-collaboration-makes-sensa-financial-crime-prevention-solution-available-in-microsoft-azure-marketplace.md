@@ -81,6 +81,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "NTT DATA Launches Energy Efficiency and Sustainability Solution with e-Magic on Microsoft Azure"
+    excerpt: "The end-to-end solution utilizes Azure digital twin technology to reduce carbon footprint and increase efficiency NTT DATA, a global digital business and IT services leader, today announced an end-to-"
+    publishedDateTime: 2022-12-13T13:06:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/12/b30058907/ntt-data-launches-energy-efficiency-and-sustainability-solution-with-e-magic-on-microsoft-azure"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
+  - title: "DSM chooses LabTwin to advance their digitalization strategy in Science & Innovation with the latest voice and AI solutions."
+    excerpt: "Royal DSM N.V., a global company specializing in health, nutrition, and sustainable living, and LabTwin GmbH, the leading voice and AI-powered digital lab assistant, announce a multi-year license and collaboration agreement."
+    publishedDateTime: 2022-12-14T10:01:00Z
+    webUrl: "https://www.eagletribune.com/region/dsm-chooses-labtwin-to-advance-their-digitalization-strategy-in-science-innovation-with-the-latest-voice/article_c2b1b35e-bd24-505b-9efe-5d2d321f2bfd.html"
+    type: article
+    provider:
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 12
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/7/2b/72ba11ec-080a-59cf-a501-0a4ec064a3d3/6399add4785f4.image.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
+        width: 1196
+        height: 628
+        isCached: true
 
 secured: "DgPVJXqJ3TKbtXVeCCxNSjcUMh3AXz4FIOyBCdFqUsKSSbzESLZgCskhySbD198FwkzNv+dyYk5wjczI20sN04LRE2fcjO4+/I1Hgqta5GqToOtgxzeALPljlcIwDYn9l8L9bt+9yxW+wlmAU2XKl1DIse9H7kCBsfROVqXF/P71t1trj3/IXaBIwFNffw8qnNGZ+7YYPkVcj0YwQ8TzYz0uJAo/zF2ksiK3Z5r1XWyRE32kI6N27kl/qwgXU+Mu4wtHVsuje2hM2PQ/qxTGSbvPWIoNsgPJFXU4SIulz2tBALeopKUwgU97fJqWKVWMPvTv7YgEu8oX2lkOeyCrFiIfNe2Acs/w61m6XntzrUw=;oD2MJROK1JJz8CUXljC/dw=="
 ---

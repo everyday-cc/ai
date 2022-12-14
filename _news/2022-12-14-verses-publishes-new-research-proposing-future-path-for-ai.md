@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-14T14:24:00Z
 originalUrl: "https://it.tmcnet.com/news/2022/12/14/9730138.htm"
 webUrl: "https://it.tmcnet.com/news/2022/12/14/9730138.htm"
 type: article
+quality: 17
+heat: -1
+published: false
 
 provider:
   name: TMCnet
@@ -13,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "How AI-powered market research helps predict success of future products and advertising"
+    excerpt: "Zappi, which uses AI-driven market research to help orgs with marketing advertising and product innovation, has raised $170 million."
+    publishedDateTime: 2022-12-13T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/how-ai-powered-market-research-helps-predict-success-of-future-products-and-advertising/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 41
 
 secured: "kwUoUeaq9SiuG/M0NAD84GhPLB/NyIGlGBfNVXInU1ifmyFnM8VWnPQrBAJ8VOAEy5IK+jnHlkt4g2lf7rVghAiwO9aDAN0fJsNnTba4ilEQbHPX0tsXY9zDCYti2ftCxng7Yn6Sr+RAGmqNkWkLwAIprUAi3wWL6A9BxYz+qUHeq/nSBo/KbL/HVklJrhf74N3IfWFQzuwTVSMX9K4md93rmpmVmcQr5x9l20esEMkk3EGM1pEO9LBFi8PMOIY+eCuFHkmXrivlRrwPlBc3QtpoSoaRKQl2yHYQs2Pf+8CKbLiVoIKfdepJYtxqvRJO+o9jnA8rNYxxIga3iVLLen/XpsG4OLsyX7SmOJhIPd0=;OdFr9o/c4mvlJ/M5suBsQA=="
 ---

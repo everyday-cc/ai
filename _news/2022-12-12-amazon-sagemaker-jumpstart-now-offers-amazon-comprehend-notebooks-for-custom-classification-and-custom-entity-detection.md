@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jum
 webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-now-offers-amazon-comprehend-notebooks-for-custom-classification-and-custom-entity-detection/"
 type: article
 quality: 97
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 54
+  - title: "Planet Makes Its Geospatial Data Available Through Amazon SageMaker"
+    excerpt: "Planet operates the largest constellation of earth observation satellites in the world, with the capacity to provide daily medium- and high-resolution imagery of Earth's landmass every day. Planet is using AWS to better serve its customers who can now benefit from the simplicity and speed of Amazon SageMaker's new geospatial ML capabilities to build,"
+    publishedDateTime: 2022-12-14T14:41:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/12/14/9730513.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
 secured: "Rdjk3mo7ZMrhsz+c/7Vciyr+KiTo9mALZnEnOflCnGHw6dC0c4nsMsVPM3ltvpYwGz7HtzPBnIpKO+NNwJcQY0KofCXFn3mvAcVDG0qXPp5xR2pripPjDe9k78eaVJo9e5QspX49uxcm9dP7yGNZjD3fTiZTfNGtPjNA6NoDU6NmV783ogo0G6hp7ALe3Sy97dcxIXUS6gl1xc3ijQWEuGQQmRPDxGO5nf2G/xa2DHp5uGjFHYA/+t3re25RzOVuiHGPsw3iHpbQvrqpKn5FHvXFkWaOCc/E0MhZG+tEcG5wDIAtf4L3jz6CDEvhpCLJzmNcd6GDhxDaDHQUTOcO4a54ofCH0V7sx8vPMecKvtU=;tp2EDSun91Xl3HaXeSLvKA=="
 ---

@@ -84,6 +84,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Using AI to Streamline the Provider-Payer Relationship"
+    excerpt: "A provider and payer share how an artificial intelligence-based platform helps them improve their information exchange and streamline utilization management."
+    publishedDateTime: 2022-12-14T13:31:00Z
+    webUrl: "https://healthitanalytics.com/features/using-ai-to-streamline-the-provider-payer-relationship"
+    ampWebUrl: "https://healthitanalytics.com/features/amp/using-ai-to-streamline-the-provider-payer-relationship"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/using-ai-to-streamline-the-provider-payer-relationship"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
   - title: "AI and data democratization"
     excerpt: "Data democratization is a concept that has taken hold, but what does it actually mean? The simplest definition of “data democratization” is making data accessible and available to all employees and stakeholders without bottlenecks and gates."
     publishedDateTime: 2022-12-12T08:31:00Z

@@ -52,6 +52,15 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 54
+  - title: "Planet Makes Its Geospatial Data Available Through Amazon SageMaker"
+    excerpt: "Planet operates the largest constellation of earth observation satellites in the world, with the capacity to provide daily medium- and high-resolution imagery of Earth's landmass every day. Planet is using AWS to better serve its customers who can now benefit from the simplicity and speed of Amazon SageMaker's new geospatial ML capabilities to build,"
+    publishedDateTime: 2022-12-14T14:41:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/12/14/9730513.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
 secured: "2ghfunkVbA14rvndJtff19MpJtcRoThz3lobMTvf30UvBdbt2mJ+K5XdSkZ5aPPqNq+6lzdxhbEqhLOwRE7r0NVuQiRCjkVzM0UYKkc2A+mxEdJZduXcupgnBnbjDJTLdPGz4uy/kjmxrwMkD1SJ6DIIjSfs0KTUJ1MLmIddgGERgjq9qg+k83/A+huWv4J2a31gvzSdFhLsLvehFeGX39cbaoGbmZpDs8VdldFuMMOMsZiFwtaay5hh/qvce9mkcDVOR6uh7QUKV4pnTngTbuFkoo43ayJS5ahTj1Q3GXCdXM0Yq5OxRovOtCaq8kQoyHK1olrrbGEmYJmzJ00C45IQEArEio58uRaCk8jD5Zo=;TrhlBktQHkS6+G6mGrK/dg=="
 ---

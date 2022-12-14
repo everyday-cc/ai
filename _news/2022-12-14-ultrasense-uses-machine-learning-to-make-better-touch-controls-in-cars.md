@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-14T14:00:00Z
 originalUrl: "https://venturebeat.com/ai/ultrasense-uses-machine-learning-to-make-better-touch-controls-in-cars/"
 webUrl: "https://venturebeat.com/ai/ultrasense-uses-machine-learning-to-make-better-touch-controls-in-cars/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat

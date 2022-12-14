@@ -39,6 +39,20 @@ related:
         width: 1024
         height: 539
         isCached: true
+  - title: "Google won't make a competitor to Microsoft Azure-powered ChatGPT, at least for now"
+    excerpt: "Dean explained that Google has similar capabilities to ChatGPT but has taken a more conservative approach due to the \"reputational risk\" that could occur if things went wrong. Chatbots powered by AI are prone to bias,"
+    publishedDateTime: 2022-12-14T15:09:00Z
+    webUrl: "https://www.windowscentral.com/software-apps/google-wont-make-a-competitor-to-microsoft-azure-powered-chatgpt-at-least-for-now"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 48
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/NBgAT2ZHE82EgK9Em2Ze8b-1200-80.jpg"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Microsoft Acquires A Stake in London Stock Exchange to Offer AI & Analytics Solutions"
     excerpt: "Microsoft signs a 10-year partnership with London Stock Exchange Group (LSEG) and buys nearly 4% stake in the UK bourse operator."
     publishedDateTime: 2022-12-12T12:42:00Z
@@ -66,6 +80,20 @@ related:
       - url: "https://image.chitra.live/api/v1/wps/ded2ebb/05f2f119-b892-41e5-a592-6e38ec84d6d6/7/LSEMS-370x229.jpg"
         width: 370
         height: 229
+        isCached: true
+  - title: "Microsoft Tech Community Blogs gets text to speech feature"
+    excerpt: "Microsoft has announced that it is making it easier for you to listen to your favorite Microsoft Tech Community Blog articles. The company is introducing a"
+    publishedDateTime: 2022-12-13T16:22:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-tech-community-blogs-gets-text-to-speech-feature"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 39
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2022/12/Untitled-design-3.jpg"
+        width: 1028
+        height: 768
         isCached: true
   - title: "Empowering the future of financial markets with London Stock Exchange Group"
     excerpt: "Microsoft looks to generate $5 billion in revenue from LSEG and the financial services sector through 10-year strategic partnership. Today, we announced a 10-year strategic partnership with the London Stock Exchange Group (LSEG),"

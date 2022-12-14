@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-14T14:35:00Z
 originalUrl: "https://www.business-standard.com/content/press-releases-ani/cambridge-based-deep-tech-start-up-launches-upcopy-ai-writing-assistant-to-make-content-writers-lives-easy-122121401112_1.html"
 webUrl: "https://www.business-standard.com/content/press-releases-ani/cambridge-based-deep-tech-start-up-launches-upcopy-ai-writing-assistant-to-make-content-writers-lives-easy-122121401112_1.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Business Standard

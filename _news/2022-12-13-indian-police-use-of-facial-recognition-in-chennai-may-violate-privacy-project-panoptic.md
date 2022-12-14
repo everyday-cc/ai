@@ -73,20 +73,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "US Customs agents use facial recognition system at Orlando International Airport to speed up lines"
-    excerpt: "U.S. Customs and Border Protection agents at Orlando International Airport are using facial recognition technology to help speed up screening lines that often stretch to 600 passengers deep."
-    publishedDateTime: 2022-12-09T22:00:00Z
-    webUrl: "https://www.clickorlando.com/news/investigators/2022/12/09/us-customs-agents-use-facial-recognition-system-at-orlando-international-airport-to-speed-up-lines/"
-    type: article
-    provider:
-      name: News 6 WKMG
-      domain: clickorlando.com
-    quality: 40
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/12-09-2022/t_f352d53d54e5459cb619075bf2c225bc_name_image.jpg?_a=ATO2Bfe0"
-        width: 700
-        height: 394
-        isCached: true
 
 secured: "XckyoDBabygyIcR9CtQsdTw2NvBC22/yPcEogpt1VHgKpz/IGq4BrGbXdBsQRUsvXFpxRfp6cHVMAu6qI28Tj6h0BBQZav0UeVJrgCQHIqCNxic6U5m/NLlfiQrb6S++D+0LBFhXtHccWcjkApeJF13O1t+fgGe/69YBYvihSwVpcDPkPWUerpcJZltJfuntiV8FuB3i1D2wLMB3k7KJDTiVtGy9Xt0E4tnLHJvVt5lvCYEH06peR8hWBCDwgcBA8SwC0H959vk1ti/DEIOLEo/uxmhzWxWLxGV8UywXDiRODya1pVXDwREJezCC7u0krAdHqjUndR3WiR5AqdU4+EDrVFcB8NV14rWWP9x6gUVBlpZZGbz6jMl3wKT3Q450Csfd5NNpMvG7CpFVTPay+CYa9B/HCOfdYx09OdZZJnNtN6lZYeKu/DH26oM5buUgFYgJb9+EFJdROfsTglm9G4ex/GDHWDRWJ2hXpRsTX7SmlIKqmRAcjTefNXsNemF1VisM85TrSIGy65PmGSbMrA==;ogM3rEYijuxspCNWJ9Rwuw=="
 ---

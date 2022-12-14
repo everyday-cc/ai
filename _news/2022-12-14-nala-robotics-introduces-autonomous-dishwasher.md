@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-14T13:24:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/nala-robotics-introduces-autonomous-dishwasher-1031971636"
 webUrl: "https://markets.businessinsider.com/news/stocks/nala-robotics-introduces-autonomous-dishwasher-1031971636"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: Business Insider

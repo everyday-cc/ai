@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/14/the-fu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/14/the-future-of-retail-four-ways-for-the-industry-to-utilize-ai/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Please Read My Email: What Businesses Should Know About The Future Of Generative AI"
+    excerpt: "While generative AI may open up a lot of possibilities to enhance everyday life, there are also possible downsides to understand."
+    publishedDateTime: 2022-12-14T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/14/please-read-my-email-what-businesses-should-know-about-the-future-of-generative-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 41
 
 secured: "Hnk2KpB+9mxlB3y3moWwJjPLNw7pWARxnQ79QJnycVsNPoN3OhgCvIhupaOdP+FgPxv9AHFv245/oB15YZDG1e+iNgc7sv8yv8/Bmz2wgN5/r05QU48bRmtzrVBqKsx2T1oP+GF+kzddpUmi3XNU2Fx0MGGYEkZEFZK1ylbhwQx/5Dn2UCLrnMMamB0PiJZlyVQZv9g/K+TpP84CRtRboxXvHptAWApghTQJJ3RIPsQNmVrK+Q84z0FT7t4irLxuYGnSzdstaC0xXERmeeKwgFZTTjn21ilNvHOiLpKUfWbb04zhdc35jg+AU9TUK2L/Xj6gdirN4N0TQkcdPZgFGrW5XA6J18VrlnRvgBVXkVs=;9yr9hHzTUyIE0SXnyv0+Fg=="
 ---

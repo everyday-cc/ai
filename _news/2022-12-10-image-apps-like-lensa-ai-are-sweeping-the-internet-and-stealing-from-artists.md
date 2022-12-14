@@ -120,6 +120,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Lensa AI Selfies: What to Know About the Photo-Editing App Your Friends Are Using"
+    excerpt: "You've likely seen the new filter your friends have been using on social media that transforms their photos into artwork. It's called Lensa AI, and the viral photo-editing app takes your uploaded photos and creates \"magic avatars\" using your face."
+    publishedDateTime: 2022-12-12T19:30:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/lensa-ai-selfies-what-to-know-about-the-photo-editing-app-your-friends-are-using/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 42
   - title: "Lensa’s AI Avatars Made Me Hot and It’s the Confidence Boost I Needed"
     excerpt: "If you follow tech news regularly, you’ve likely heard about Lensa and its AI-powered Magic Avatars. Put real simply, you give the AI ten to twenty selfies/photos of you and then it returns a group of avatars for you to use wherever or however you’d like."
     publishedDateTime: 2022-12-13T18:56:00Z

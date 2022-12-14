@@ -18,7 +18,6 @@ provider:
 topics:
   - AWS AI
   - AI
-  - AI Ethics
 
 images:
   - url: "https://www.reuters.com/resizer/g4FkAeB1syg6dyJxBiAxlo2QyzQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SWHRVR65DJLWVK4B3D4PTWA5FY.jpg"
@@ -26,6 +25,6 @@ images:
     height: 628
     isCached: true
 
-secured: "i+YYPR2P7L6GvZqPjKaKXZuiWIAzcNCUoTLPFZyWVNm0/CZ+lues9TNRdApqi+4EmSRrWrjLpe+4gdDxpQnY7Sd/BmkvNzrpRd/sbrNlkSZEAoED+tUmOUm+rQnHdkMglp4xf0g3GZywcBc4kf2Te9JkChuDfBGzM9p8U45D8woF8hgmUPsL8L6VzU3kBBzF4GSCZu5j0kemR3sFfniljh0q9C8Uu8mPdVFPLynvW3YqEJuDeUotMuml59k/RAUe0CKQk344A2nzN8BdVk0Jw5KeFC9iixAuwcG7x+XoP/QDX0ijikDdTJ7FpsAhYxh1yxGVph9VLp3VPrA8DpePklyU6u8AUD2Ilh5F2vYIUMY=;mjqhsOCLQF8b8nBXXKqiNw=="
+secured: "mBkcFfEIu4Y7P1nW8g23q9Fi4IkBiOun31Yeb5+upIleGHEV1eQ37QKHroFC5iDvmqDH4Ar5LjyqJQPKPODvOdbbwtJllO4JawwIHuSeoqYwKb64M4wB7xQpvmDTjVa63kzzRHHfUfOMpsJp4ST6voUhoxFOWbp+RUBaUkvWYJpEu0luZoiKb3MDrZBijZdwKq/y+jUwmuyB5wnNxyjkdBoZFiia9YvKpX3BGhHY1ldJVYzh2RP3XwLUr7rI/ITtDx9JtN26jrSiZUfuAMQ6MyfxDv1A11PfEs7fmnOzNdNF0KUCFw14675VZ9C0iZ62eQA2kOIJBO7kHTVdSOWbCZv7qW9ASBo0GUl7NLIoGIo=;bKWG3sWL7gg/WulcWJpjzA=="
 ---
 

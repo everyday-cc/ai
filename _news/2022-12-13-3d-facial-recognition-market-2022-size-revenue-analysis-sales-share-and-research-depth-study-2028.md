@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-ma
 webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-2022-12-12"
 type: article
 quality: 71
-heat: 151
+heat: 171
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI In Medical Imaging Market Size, Share, Growth, Revenue, Demand, Future opportunity, analysis and forecast till 2028"
+    excerpt: "AI In Medical Imaging Market\" Research Report explains how the market growth has been unfolding over the recent past"
+    publishedDateTime: 2022-12-14T10:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-size-share-growth-revenue-demand-future-opportunity-analysis-and-forecast-till-2028-2022-12-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -128,6 +142,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Based Medical Device Market 2023 Share, Size, Sales, Growth Drivers, Opportunities, Industry Trends and Forecast to 2028"
+    excerpt: "New research publishedas theArtificial Intelligence Based Medical Device Marketresearch report provides an in-depth"
+    publishedDateTime: 2022-12-14T09:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-2023-share-size-sales-growth-drivers-opportunities-industry-trends-and-forecast-to-2028-2022-12-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
   - title: "Speech and Voice Recognition Market Growing Worldwide By Leading Key Players, Shares, Size, Regional Analysis and Forecast 2023-2028"
     excerpt: "In the forecast period of 2023-2028, the Global “Speech and Voice Recognition Market” Research report will make detailed analysis mainly on in-depth research on the development environment, Speech and Voice Recognition Market size,"
     publishedDateTime: 2022-12-13T11:45:00Z

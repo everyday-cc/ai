@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-14T14:00:00Z
 originalUrl: "https://insidebigdata.com/2022/12/14/5-benefits-of-machine-learning-for-manufacturers/"
 webUrl: "https://insidebigdata.com/2022/12/14/5-benefits-of-machine-learning-for-manufacturers/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: insidebigdata.com

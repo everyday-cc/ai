@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/watch-donotpays-ai-chatbot-renegotiate-
 webUrl: "https://www.pcmag.com/news/watch-donotpays-ai-chatbot-renegotiate-a-comcast-bill-to-be-120-lower"
 type: article
 quality: 67
-heat: 87
+heat: 88
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-12-bolstering-safety-self-driving-c
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-bolstering-safety-self-driving-cars-deep.amp"
 type: article
 quality: 50
-heat: 124
+heat: 122
 published: true
 
 provider:

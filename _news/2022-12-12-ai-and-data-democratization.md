@@ -89,6 +89,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Using AI to Streamline the Provider-Payer Relationship"
+    excerpt: "A provider and payer share how an artificial intelligence-based platform helps them improve their information exchange and streamline utilization management."
+    publishedDateTime: 2022-12-14T13:31:00Z
+    webUrl: "https://healthitanalytics.com/features/using-ai-to-streamline-the-provider-payer-relationship"
+    ampWebUrl: "https://healthitanalytics.com/features/amp/using-ai-to-streamline-the-provider-payer-relationship"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/using-ai-to-streamline-the-provider-payer-relationship"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
 
 secured: "93gC97tPr8M14Vf1fY+prv0HgXQwX/y8Mv/9JDRYFZ3lNGOjh/MP7ZBVCExh2LQn3w4olJV5w6yF8I1gPHInSuJyZtbyQ0gNHAv1j2rVCi9sCBFR13ijn2CAMEg2UCRFu+UGCFJJKjYqkXijFyvcASXnC3d9ILzPdpZin6nNF2kE6C8EgAQmKXiUIvogk9lVLFc4HtKSHvrGFW+NdbpIyjr9mmpq+CBFJpYUl5r/lj5mduKMHB53CMUuBu635yKufX3lbFW2mKD0laRMMy8ebvKB2PmHgX6vkIwImpOWalBffrfoS5HCmo1bzy6kEETKKoVNqQGuqwbHG8pMYHnlCIuTbCSczMYRoFtXadazKgqox61K1qV4zup7qUDXJePvWC9/JRgqtKFXQyT5YZ07itVxOFG3NN2H5P+GVJLhvtClVj9Qu4PIlvwIX4ovfrZ3j9fVPn9FBpgT56BwWXZakX29RbGawj2mEPDfXzQfBHlElL00OG5/mBLMLA/jALlQsY3gpnUMpwrwCdEPUU75Ig==;1FEk5tUhx2e5NHkV+jiZYg=="
 ---

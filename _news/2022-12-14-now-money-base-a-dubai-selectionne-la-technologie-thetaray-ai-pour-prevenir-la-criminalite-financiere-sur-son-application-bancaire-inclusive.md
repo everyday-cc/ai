@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-14T11:41:00Z
 originalUrl: "https://www.eagletribune.com/region/now-money-bas-duba-s-lectionne-la-technologie-thetaray-ai-pour-pr-venir-la-criminalit/article_0b7beb00-691d-5728-8d52-ad06895bf400.html"
 webUrl: "https://www.eagletribune.com/region/now-money-bas-duba-s-lectionne-la-technologie-thetaray-ai-pour-pr-venir-la-criminalit/article_0b7beb00-691d-5728-8d52-ad06895bf400.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Eagle-Tribune

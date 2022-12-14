@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Artificial intelligence Market 2023 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2028"
+    excerpt: "Machine Learning Artificial intelligence Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2028. Machine Learning Artificial intelligence Market Research Report is spread across 93 Pages and provides exclusive data,"
+    publishedDateTime: 2022-12-14T10:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-artificial-intelligence-market-2023-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2028-2022-12-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "+HbjxekY1embpgUjOgWHoPk++7Y0tESuvhYqlj2+79WpAaQmDXoD+nBMiiPyXm1uyMv6KjpldqIt26WKCFGSvJ22q+kBgmpgAUyrtbIuTgGiZcNL62N2VIC3aviNOt33duKdM8B+edJ/oLVPyzn3wAN5MVXqYBnboXP2YRTTf9vL7ciYTbxegA8sOxrMmiZxHcFg6HUryNrrB7WBPUU1LuIQNIz4xGbiBIIw2+ARQTrDRfbvCr5d0dJxtBhkqiXGq+cOL57VFXD5IR9FWOOvDQePfHlwJZKiGS+KzdRjY3yGYX8wD9yFMENFyDWwdtVYgYubTJCRP+Rau+fSJpFS04GcIbeZnLunb6cnoTRfTUc=;lFmdA2jYuXYMDFOjQymlAw=="
 ---

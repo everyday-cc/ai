@@ -2,6 +2,237 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-12-07-artificial-intelligence-talking-robots-could-help-detect-utis-at-early-stage.md",
+      "title": "Artificial Intelligence, Talking Robots could help detect UTIs at early stage",
+      "excerpt": "The £1.1 million FEATHER project, led by the School of Informatics, aims to increase an individual’s wellbeing and reduce the number of serious outcomes from incorrect or late diagnoses of urinary tract infections (UTIs).",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/artificial-intelligence-talking-robots-could-help-detect-utis-at-early-stage/",
+      "originalUrl": "https://indiaeducationdiary.in/artificial-intelligence-talking-robots-could-help-detect-utis-at-early-stage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1",
+          "width": 534,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/artificial-intelligence-talking-robots-could-help-detect-utis-at-early-stage/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/artificial-intelligence-talking-robots-could-help-detect-utis-at-early-stage/",
+      "publishedDateTime": "2022-12-06T17:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-updated-its-way-too-easy-to-trick-lensa-ai-into-making-nsfw-images.md",
+      "title": "UPDATED: It’s way too easy to trick Lensa AI into making NSFW images",
+      "excerpt": "Lensa has been climbing the app store hit lists with its avatar-generating AI that is making artists wave the red flag. Now there’s another reason to fly the flag: As it turns out, it’s possible — and way too easy — to use the platform to generate non-consensual soft porn.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/12/06/lensa-goes-nsfw/",
+      "originalUrl": "https://techcrunch.com/2022/12/06/lensa-goes-nsfw/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/12/Lensa-AI-shoulder-Large.jpeg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/12/06/lensa-goes-nsfw/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/06/lensa-goes-nsfw/amp/",
+      "publishedDateTime": "2022-12-06T17:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-hearing-aids-slow-cognitive-decline-but-reasons-why-still-a-mystery.md",
+      "title": "Hearing aids slow cognitive decline, but reasons why still a mystery",
+      "excerpt": "The findings raise the curious suggestion that using hearing restoration devices could somehow slow the progression of cognitive decline. For about a decade researchers have been uncovering ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/health-wellbeing/hearing-aids-slow-cognitive-decline-dementia-metastudy/",
+      "originalUrl": "https://newatlas.com/health-wellbeing/hearing-aids-slow-cognitive-decline-dementia-metastudy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-towards-automatic-detection-of-road-features-with-deep-learning.md",
+      "title": "Towards automatic detection of road features with deep learning",
+      "excerpt": "While a vast amount of point cloud data has been accumulated for Japanese public works, it has little use in the unprocessed state. Researchers from Japan have now proposed a deep learning algorithm that uses high-precision 3D maps to automatically generate training data for constructing a road feature identification model from the point cloud data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/973636",
+      "originalUrl": "https://www.eurekalert.org/news-releases/973636",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/2fb80741-d6ba-46d9-b3bf-d1bdd8e611c6/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-daily-crunch-lensa-ai-can-transform-photoshopped-fakes-into-nonconsensual-pornography.md",
+      "title": "Daily Crunch: Lensa AI can transform Photoshopped fakes into nonconsensual pornography",
+      "excerpt": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/12/06/daily-crunch-lensa-ai-can-transform-photoshopped-fakes-into-nonconsensual-pornography/",
+      "originalUrl": "https://techcrunch.com/2022/12/06/daily-crunch-lensa-ai-can-transform-photoshopped-fakes-into-nonconsensual-pornography/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/12/lensa-ai-magic-avatar.jpg?resize=1200,730",
+          "width": 1200,
+          "height": 730,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/12/06/daily-crunch-lensa-ai-can-transform-photoshopped-fakes-into-nonconsensual-pornography/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/06/daily-crunch-lensa-ai-can-transform-photoshopped-fakes-into-nonconsensual-pornography/amp/",
+      "publishedDateTime": "2022-12-06T15:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-07-aisera-founder-offers-perspective-on-latest-moves-from-aws-in-aiml.md",
       "title": "Aisera founder offers perspective on latest moves from AWS in AI/ML",
       "excerpt": "The founder and chief executive of Aisera Inc. identified four key areas of focus by Amazon Web Service Inc. during the recently concluded re:Invent gathering in Las Vegas. “First, the most important things Amazon has announced are in artificial intelligence and machine learning,",
@@ -867,6 +1098,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-07-parascript-innovates-natural-language-processing-for-unstructured-document-automation.md",
+      "title": "Parascript Innovates Natural Language Processing for Unstructured Document Automation",
+      "excerpt": "LONGMONT, Colo., Dec. 6, 2022 /PRNewswire/ -- Natural Language Processing (NLP) has various use cases within cutting-edge technology, and Parascript, a software company based in Colorado ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/12/n29978984/parascript-innovates-natural-language-processing-for-unstructured-document-automation",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/n29978984/parascript-innovates-natural-language-processing-for-unstructured-document-automation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
+          "width": 800,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29978984",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29978984",
+      "publishedDateTime": "2022-12-06T09:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-07-ahai-the-ai-based-multi-symptom-check-and-therapy-recommendation-platform-to-be-released-in-the-first-quarter-of-2023.md",
       "title": "AHAI, the AI Based Multi Symptom Check and Therapy Recommendation Platform to be Released in the First Quarter of 2023",
       "excerpt": "LAS VEGAS, NV / ACCESSWIRE / / Alternative Health, Inc, the US based medical company announced that it will be releasing its evidence based diagnostic and recommendation platform to the public in the",
@@ -906,265 +1180,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-locomotion-modeling-evolves-with-brain-inspired-neural-networks.md",
-      "title": "Locomotion modeling evolves with brain-inspired neural networks",
-      "excerpt": "A team of scientists at EPFL have built a new neural network system that can help understand how animals adapt their movement to changes in their own body and to create more powerful artificial intelligence systems.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-12-locomotion-evolves-brain-inspired-neural-networks.html",
-      "originalUrl": "https://techxplore.com/news/2022-12-locomotion-evolves-brain-inspired-neural-networks.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/locomotion-modeling-ev.jpg",
-          "width": 621,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-12-locomotion-evolves-brain-inspired-neural-networks.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-locomotion-evolves-brain-inspired-neural-networks.amp",
-      "publishedDateTime": "2022-12-06T07:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-study-hearing-aids-may-help-slow-cognitive-decline.md",
-      "title": "Study: Hearing aids may help slow cognitive decline",
-      "excerpt": "A new study indicates that hearing aids may help delay or reduce dementia and cognitive decline. The findings were published Monday in the medical journal JAMA Neurology. Research has shown that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kshb.com/news/national/study-hearing-aids-may-help-slow-cognitive-decline",
-      "originalUrl": "https://www.kshb.com/news/national/study-hearing-aids-may-help-slow-cognitive-decline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/bf26fc3/2147483647/strip/true/crop/5000x2813+0+261/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F05%2Faf%2F9457e6804e6cb66a3c6e41cdead0%2Fap22334703657980.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kshb.com/news/national/study-hearing-aids-may-help-slow-cognitive-decline?_amp=true",
-      "cdnAmpWebUrl": "https://www-kshb-com.cdn.ampproject.org/c/s/www.kshb.com/news/national/study-hearing-aids-may-help-slow-cognitive-decline?_amp=true",
-      "publishedDateTime": "2022-12-06T07:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSHB Kansas City",
-        "domain": "kshb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-five9-elevates-omni-channel-customer-engagement-with-innovations-in-digital-self-service-ai-design-and-analytics.md",
-      "title": "Five9 Elevates Omni-Channel Customer Engagement with Innovations in Digital Self-Service, AI Design, and Analytics",
-      "excerpt": "\"Customers have high expectations when they contact their favorite brands, regardless of whether they employ self-service, digital or voice,\" explains Dan Miller, Lead Analyst at Opus Research. \"Too often,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/12/06/9725221.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/12/06/9725221.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-06T06:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-neureality-lands-35m-to-bring-ai-accelerator-chips-to-market.md",
-      "title": "NeuReality lands $35M to bring AI accelerator chips to market",
-      "excerpt": "NeuReality, a startup developing AI inferencing accelerator chips, has raised $35 million in new venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/06/neureality-ai-accelerator-chips-startup-raises-35m/",
-      "originalUrl": "https://techcrunch.com/2022/12/06/neureality-ai-accelerator-chips-startup-raises-35m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/CircuitBoard-e1656949944955.jpg?resize=1200,600",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/06/neureality-ai-accelerator-chips-startup-raises-35m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/06/neureality-ai-accelerator-chips-startup-raises-35m/amp/",
-      "publishedDateTime": "2022-12-06T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!Finance",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-robo-truckers-and-the-ai-fueled-future-of-transport.md",
-      "title": "Robo Truckers and the AI-Fueled Future of Transport",
-      "excerpt": "Concerns about artificial intelligence replacing long-haul drivers are not new, but the real story is more nuanced.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/autonomous-vehicles-transportation-truckers-employment/",
-      "originalUrl": "https://www.wired.com/story/autonomous-vehicles-transportation-truckers-employment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/638e52b0fefa29ce257ada8f/master/pass/artificial-intelligence-trucker-transport.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/autonomous-vehicles-transportation-truckers-employment/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/autonomous-vehicles-transportation-truckers-employment/amp",
-      "publishedDateTime": "2022-12-06T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-coreweave-secures-100m-to-expand-nvidia-hgx-h100-gpu-offering-usher-in-new-era-of-ai-innovation.md",
-      "title": "CoreWeave Secures $100M to Expand NVIDIA HGX H100 GPU Offering, Usher in New Era of AI Innovation",
-      "excerpt": "NVIDIA HGX H100 supercomputing - joining Amazon, Google, Microsoft and Oracle as the initial cloud providers to supply the trailblazing AI platform. CoreWeave is on pace to grow year-over-year revenue by over 450%,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-coreweave-secures-100m-expand-nvidia-hgx-h100-gpu-/2022/12/06/9724756.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-coreweave-secures-100m-expand-nvidia-hgx-h100-gpu-/2022/12/06/9724756.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-06T05:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }
