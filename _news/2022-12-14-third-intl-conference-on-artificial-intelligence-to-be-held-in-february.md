@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-14T14:32:00Z
 originalUrl: "https://dailytimes.com.pk/1039261/third-intl-conference-on-artificial-intelligence-to-be-held-in-february/"
 webUrl: "https://dailytimes.com.pk/1039261/third-intl-conference-on-artificial-intelligence-to-be-held-in-february/"
 type: article
+quality: 20
+heat: 20
+published: false
 
 provider:
   name: Daily Times

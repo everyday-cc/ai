@@ -87,6 +87,22 @@ related:
         width: 3024
         height: 3024
         isCached: true
+  - title: "Looking ahead: 2023 FinTech predictions"
+    excerpt: "With 2022 coming to a close, we’ve gathered the thoughts of a number of FinTech experts to share their predictions for the year ahead. Read on to find out what 2023 has in store for the FinTech sector."
+    publishedDateTime: 2022-12-14T21:14:00Z
+    webUrl: "https://www.globalbankingandfinance.com/looking-ahead-2023-fintech-predictions/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/looking-ahead-2023-fintech-predictions/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/looking-ahead-2023-fintech-predictions/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 44
+    images:
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/12/702.jpg"
+        width: 265
+        height: 261
+        isCached: true
   - title: "OpenPayd: The Future of Fintech, Embedded Finance and Crypto in 2023"
     excerpt: "What are the broad trends you expect the fintech industry to focus on in the upcoming year? Why will these areas be the immediate focus for the industry in your opinion? I hate to use the term, but it's a perfect storm."
     publishedDateTime: 2022-12-14T08:49:00Z
@@ -152,6 +168,15 @@ related:
       name: Skift
       domain: skift.com
     quality: 19
+  - title: "Fintech stocks took hammering in 2022, but rebound coming: industry boss"
+    excerpt: "Soaring interest rates tend to hurt growth stocks – and more specifically tech stocks – due to the discounted cash flow models used in their valuations. As a result, fintech, which is part of the broader tech space,"
+    publishedDateTime: 2022-12-14T22:23:00Z
+    webUrl: "https://www.theaustralian.com.au/business/stockhead/fintech-stocks-took-hammering-in-2022-but-rebound-coming-industry-boss/news-story/d951302ea5f22262759959956caaddeb"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 3
   - title: "UAE fintech Xare to set up regional HQ in Silicon Valley in bid for global expansion"
     excerpt: "The startup will house part of its product management and marketing teams from the US office for its global operations UAE fintech Xare to set up regional HQ in Silicon Valley in bid for global expansion fintech,"
     publishedDateTime: 2022-12-13T12:52:00Z

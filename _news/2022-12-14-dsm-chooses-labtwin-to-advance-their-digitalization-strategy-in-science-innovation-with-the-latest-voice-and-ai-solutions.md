@@ -3,23 +3,23 @@ category: news
 title: "DSM chooses LabTwin to advance their digitalization strategy in Science & Innovation with the latest voice and AI solutions."
 excerpt: "Royal DSM N.V., a global company specializing in health, nutrition, and sustainable living, and LabTwin GmbH, the leading voice and AI-powered digital lab assistant, announce a multi-year license and collaboration agreement."
 publishedDateTime: 2022-12-14T10:01:00Z
-originalUrl: "https://www.eagletribune.com/region/dsm-chooses-labtwin-to-advance-their-digitalization-strategy-in-science-innovation-with-the-latest-voice/article_c2b1b35e-bd24-505b-9efe-5d2d321f2bfd.html"
-webUrl: "https://www.eagletribune.com/region/dsm-chooses-labtwin-to-advance-their-digitalization-strategy-in-science-innovation-with-the-latest-voice/article_c2b1b35e-bd24-505b-9efe-5d2d321f2bfd.html"
+originalUrl: "https://www.joplinglobe.com/region/national_business/dsm-chooses-labtwin-to-advance-their-digitalization-strategy-in-science-innovation-with-the-latest-voice/article_beedb03c-8d03-566b-bd27-fe4d1842128b.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/dsm-chooses-labtwin-to-advance-their-digitalization-strategy-in-science-innovation-with-the-latest-voice/article_beedb03c-8d03-566b-bd27-fe4d1842128b.html"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: Eagle-Tribune
-  domain: eagletribune.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/7/2b/72ba11ec-080a-59cf-a501-0a4ec064a3d3/6399add4785f4.image.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/9/d5/9d5f02a7-eb11-503b-81bd-a4f14f014565/6399ae0fe4aae.image.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
     width: 1196
     height: 628
     isCached: true
@@ -102,6 +102,6 @@ related:
       domain: benzinga.com
     quality: 37
 
-secured: "PpzxrXmLoaMQPH6gUqp2EfT9aIO9SJTJc+Du4POlAIYnERkkXT46q+4clvD39aXgsEnCnYAVZH7meDX9j55uNuIYShczOBktLXXlu+CqddIfe+JNW6b298EQjsYi3cUK8LZ/wyXvDHkN1vNScmz2jH4bXLhmEf2amWTek/i6qAFbzeXclY7XQttai1cpJy15dPNwYqZc8+gzKSGJ42fSmfcPW86Ub8JStsbQJB5eLtU8mZDdxxORbUKJY7KVvT4lhM7XfDBKD7TQKaPWOZ4S4UDdc/TTb15i1UWd3O94+oucaXZ/FolvAQX16WQozyuU96Gx+MB92D6MGYaCOVxAP55fZ8lAxu6vPHfFJL/oRvkEc3uMCLmgcyaWkUlZHWiqnWyUp/Nm5PgGWm9b1QOqorjdmbJhX1aLYXn44X7Y3Ngfd/+phWb2a31LbPcfPvM3OMq1KugyLoQQ8srYpQEUVxsQaDxaHxmpiOEmuxPilQW21OK1egarae56LZCjzRS6oMjOQYUspFK3d5Gcqq9FMg==;7tlsNiCbKaDvDU+60gMulQ=="
+secured: "d6Hs51J3cWOWquZ22IAMejLR0bfdYFkZf6bCk0LlJcDiIOEuCP0fE1RsriITGMv63fLnq5wIpEjlI4SnpZstfLUGAE99S5JvY5hl7+TPZmtUDYUysl9HuDe7AAs12N0j9Rp25YtRwKdogxG+sTVHvPspsW2itGC0Vnkh6MQ5zVCnFKdZFWe/8sUcqzu8DZub2u6vLV2QgDe7qcybci4m2Oh3XWnqZ0LRCfbmhHoEAOYK/HsQ9318Mq5iZm4Ne1GniDq8V6rzhlMY6ATjmTfY6xI8AxcmyMaYSCbj3ANNb4syO4zDNzIJftBIn0icbHYTSkzDDeoNK6vFtqnP8GGoPy4xdwEsa79ZQpSDBTlgFiQ=;FzVanz4MCYpBPQcPcUg6bQ=="
 ---
 

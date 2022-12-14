@@ -81,6 +81,22 @@ related:
         width: 3024
         height: 3024
         isCached: true
+  - title: "Looking ahead: 2023 FinTech predictions"
+    excerpt: "With 2022 coming to a close, we’ve gathered the thoughts of a number of FinTech experts to share their predictions for the year ahead. Read on to find out what 2023 has in store for the FinTech sector."
+    publishedDateTime: 2022-12-14T21:14:00Z
+    webUrl: "https://www.globalbankingandfinance.com/looking-ahead-2023-fintech-predictions/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/looking-ahead-2023-fintech-predictions/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/looking-ahead-2023-fintech-predictions/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 44
+    images:
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/12/702.jpg"
+        width: 265
+        height: 261
+        isCached: true
   - title: "OpenPayd: The Future of Fintech, Embedded Finance and Crypto in 2023"
     excerpt: "What are the broad trends you expect the fintech industry to focus on in the upcoming year? Why will these areas be the immediate focus for the industry in your opinion? I hate to use the term, but it's a perfect storm."
     publishedDateTime: 2022-12-14T08:49:00Z
@@ -160,6 +176,15 @@ related:
       name: Skift
       domain: skift.com
     quality: 19
+  - title: "Fintech stocks took hammering in 2022, but rebound coming: industry boss"
+    excerpt: "Soaring interest rates tend to hurt growth stocks – and more specifically tech stocks – due to the discounted cash flow models used in their valuations. As a result, fintech, which is part of the broader tech space,"
+    publishedDateTime: 2022-12-14T22:23:00Z
+    webUrl: "https://www.theaustralian.com.au/business/stockhead/fintech-stocks-took-hammering-in-2022-but-rebound-coming-industry-boss/news-story/d951302ea5f22262759959956caaddeb"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 3
 
 secured: "egMU4SOu0SMY4E4MMCSif4IsRVt0bWEWhlrqX+ZoxcGFTddwAILIesfuRiACMVNwl/pXWf0F3RZ/1sz4Hba+SHrY+Akr0kJ2mPZSZBMc+GMzC39wy+aGFlh+/jpTr57J0crqwJptEqupjcy6r2mv0EVfc//ImJyqL48FqGZ4Fd4PlJpSBL9pE6H56pP0AE1dBz5k5XeF2xrG0IACuXjytW2SK1NfeZMF3bmkXn/IctG7hDP/Ld2UpAf+9f9fHRtE04aIdD5pMtLBetFlScUdr8OFLwaLETsbdbmdU43n+8xW9wPu4p882VkiC/1Y/NbeCoUQlG0CQUIhhb3/dX5+RJnzwEmRGHZW5hukzI9EiEAoHGC60gwb8sJkRwe8A9hEN4wUbDnWLsC6KpS0jEx+d1ljYBWV22LnCJOnt89/Xprp+69Q5ojdBKd76zPslASzuPbXUYId+KRzBVe9lcXlhQiAlZpCLhExJ0xau8e+zvNZ/skRV6L8dcPjo2c7jeXouUJgnudFimIJ6WA9m/wYxw==;MZYwCPWSmCq4A73kLid+dA=="
 ---

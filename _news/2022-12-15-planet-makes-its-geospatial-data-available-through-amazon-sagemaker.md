@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-14T19:03:00Z
 originalUrl: "https://spaceref.com/space-commerce/planet-makes-its-geospatial-data-available-through-amazon-sagemaker/"
 webUrl: "https://spaceref.com/space-commerce/planet-makes-its-geospatial-data-available-through-amazon-sagemaker/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: SpaceRef

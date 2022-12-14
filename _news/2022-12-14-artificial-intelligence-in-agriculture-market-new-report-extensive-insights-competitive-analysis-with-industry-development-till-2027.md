@@ -6,8 +6,8 @@ publishedDateTime: 2022-12-14T15:16:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-new-report-extensive-insights-competitive-analysis-with-industry-development-till-2027-2022-12-14"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-new-report-extensive-insights-competitive-analysis-with-industry-development-till-2027-2022-12-14"
 type: article
-quality: 33
-heat: 33
+quality: 35
+heat: 35
 published: false
 
 provider:

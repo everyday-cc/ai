@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2022/12/13/deepminds-alphacode-conquers-c
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/12/13/deepminds-alphacode-conquers-coding-performing-as-well-as-humans/?amp=1"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -64,6 +64,15 @@ related:
       name: moneycontrol.com
       domain: moneycontrol.com
     quality: 34
+  - title: "Ahoy! More insecure code washes ashore with AlphaCode"
+    excerpt: "Alphabet’s DeepMind brings us AlphaCode — another AI code-generating parlor trick. And, just like its large language model cousins, it can spit out buggy code."
+    publishedDateTime: 2022-12-14T17:07:00Z
+    webUrl: "https://securityboulevard.com/2022/12/ahoy-more-insecure-code-washes-ashore-with-alphacode/"
+    type: article
+    provider:
+      name: Security Boulevard
+      domain: securityboulevard.com
+    quality: 4
 
 secured: "uPoxFyV2g44uYOEjXaGqFn2ihUGomE/9PE8tNPhj/XETTSZIVSNGhtqFywQvChKfz9OTqApagZarTOH/C06oZaUHWu6wrrsxM3EXFyPaqv8RBS1HQuTLMN6qfiXKVlGpRR+ftl3F4qrqD6qULDUAECujDSk15qX88f/xeLc9UIeCZBXoTZrwAAJN+QwK209BTIshBWg6SFAtFX+ZlEnxj5i0kzsw6fIoucMxgF5/O0Tx2EAtMcXXcddZKhwwEHduIJAIFy9mkMZzvDa8b1Cqs1lH4Lu0pCDNpOl5g0cJqr70jWhJyJdaWjsEKw1SNFR0VG56kV3uewXflmmIQVjDTquatdQijROeEcmLQ9BOODoz9+CRveRQQ4aS0GpxgGZWcqXeJTMI3RnHlsmYcdj41IU7S/4wff8/dU4gJVtbta1dyWSSHkW+9T/Gk0Cynfc7q3YNVX4gOFGFvx5QY2c9Xy24GAwr61EARyY37LqUbY4g9JpkYRXzScmr6CrvgNr345zEvuCh/pQtbhkSuxdtEA==;iwGp0cIn4HauXLihBCZm8Q=="
 ---

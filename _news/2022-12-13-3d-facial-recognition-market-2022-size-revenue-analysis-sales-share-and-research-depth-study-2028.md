@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-ma
 webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-2022-12-12"
 type: article
 quality: 71
-heat: 171
+heat: 161
 published: true
 
 provider:
@@ -67,20 +67,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Image Recognition Market Size: Generate Revenue, Market Status, and Forecast from 2022 - 2028."
-    excerpt: "In this \" Image Recognition market ,\" the patterns from one year to the next have been evaluated for each sector. For example, the research and company profile provides detailed descriptions of the major factors influencing the demand for the Image Recognition market."
-    publishedDateTime: 2022-12-10T05:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-size-generate-revenue-market-status-and-forecast-from-2022---2028-2022-12-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bakersfield.com/opinion/rich-lowry-an-emphatic-yes-to-ki
 cdnAmpWebUrl: "https://www-bakersfield-com.cdn.ampproject.org/c/s/www.bakersfield.com/opinion/rich-lowry-an-emphatic-yes-to-killer-robots/article_c4381adc-780e-11ed-a941-97d3ab21316e.amp.html"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/4/9b/49b854e8-3a66-11e7-acf5-5b556962fbc4/591b464b668c7.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Rich Lowry: An emphatic ‘yes’ to killer robots"
-    excerpt: "With the U.S. experiencing lackluster productivity growth since 2010, we need the best robots and AI that we can muster. We shouldn't fear them just because — decades-old spoiler alert — HAL turns out to be a dastardly villain in \"2001: Space Odyssey."
-    publishedDateTime: 2022-12-10T05:00:00Z
-    webUrl: "https://www.sunjournal.com/2022/12/10/rich-lowry-an-emphatic-yes-to-killer-robots/"
-    type: article
-    provider:
-      name: Sun Journal
-      domain: sunjournal.com
-    quality: 39
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/11/2022/10/Rich-Lowry1-1666783569.jpg"
-        width: 747
-        height: 748
         isCached: true
 
 secured: "x4wYPG/D4yNf7klYECGxEyL5Wuz1laW6l+oJZAODBet4edzURMYeCNM0sJOEcGiSmecSyQKxuHmR3mQJPVIOD+EcOoF+Qs0AONAvgoaBJ8WhuKbLTe9xvwMzU5JrrvCZzIcT/ByvG6YPzLmka4tScetH0U+ojw+JzIdB3aKyStGszHkBUk3zAW9/mVve+/DhGko6DiDusyeg++kS0TAbehIRlIxSoeo7XcY4d7rwGgN74GN7m0QUoIe7oYEWysnDIZ+EkNR5ooa8p1jbVdwhuMzhg3UmtnG7CvS0l2GSB6Q8MglI5s/ENVRE1ncGgeQ8L0rSj9ykAIy+2PbhPdYqShsO1SQ1fmiookBhsccFs49iTor7CXQnq0DC2uLNYuquMCLeK1rfP/0KDzFb6GyMOULhRvcwDMwlOK8eDZN1N1iZS2KzCAs+uv5ESYlQRJldGQZNrAvUoa/vk2Pmfa1DZi9br5iTE/mc+dQZ3WS57IrvOMoJeqYuXacfTePopaRmSRkLFIPR8azOcVVyBSl6JA==;e9tg65QYAV1xcMWzmBC/iQ=="

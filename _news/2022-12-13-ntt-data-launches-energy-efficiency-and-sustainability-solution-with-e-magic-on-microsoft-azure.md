@@ -89,14 +89,14 @@ related:
   - title: "DSM chooses LabTwin to advance their digitalization strategy in Science & Innovation with the latest voice and AI solutions."
     excerpt: "Royal DSM N.V., a global company specializing in health, nutrition, and sustainable living, and LabTwin GmbH, the leading voice and AI-powered digital lab assistant, announce a multi-year license and collaboration agreement."
     publishedDateTime: 2022-12-14T10:01:00Z
-    webUrl: "https://www.eagletribune.com/region/dsm-chooses-labtwin-to-advance-their-digitalization-strategy-in-science-innovation-with-the-latest-voice/article_c2b1b35e-bd24-505b-9efe-5d2d321f2bfd.html"
+    webUrl: "https://www.joplinglobe.com/region/national_business/dsm-chooses-labtwin-to-advance-their-digitalization-strategy-in-science-innovation-with-the-latest-voice/article_beedb03c-8d03-566b-bd27-fe4d1842128b.html"
     type: article
     provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
+      name: Joplin Globe
+      domain: joplinglobe.com
     quality: 12
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/7/2b/72ba11ec-080a-59cf-a501-0a4ec064a3d3/6399add4785f4.image.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/9/d5/9d5f02a7-eb11-503b-81bd-a4f14f014565/6399ae0fe4aae.image.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
         width: 1196
         height: 628
         isCached: true

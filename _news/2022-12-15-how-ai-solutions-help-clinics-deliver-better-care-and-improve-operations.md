@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-14T19:57:00Z
 originalUrl: "https://venturebeat.com/ai/how-ai-solutions-help-clinics-deliver-better-care-and-improve-operations/"
 webUrl: "https://venturebeat.com/ai/how-ai-solutions-help-clinics-deliver-better-care-and-improve-operations/"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: VentureBeat

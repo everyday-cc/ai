@@ -64,6 +64,15 @@ related:
       name: moneycontrol.com
       domain: moneycontrol.com
     quality: 34
+  - title: "Ahoy! More insecure code washes ashore with AlphaCode"
+    excerpt: "Alphabet’s DeepMind brings us AlphaCode — another AI code-generating parlor trick. And, just like its large language model cousins, it can spit out buggy code."
+    publishedDateTime: 2022-12-14T17:07:00Z
+    webUrl: "https://securityboulevard.com/2022/12/ahoy-more-insecure-code-washes-ashore-with-alphacode/"
+    type: article
+    provider:
+      name: Security Boulevard
+      domain: securityboulevard.com
+    quality: 4
 
 secured: "Yr9BGcmxN30lncZjxB7l+GlKmVGp+N9ZUQb/rwZR712I0OD9HSNOsifV6p8CyKr6OtxgD3h7GinnejbF4uFwK03CQnQeVX+xeOStejToxbAlPkhdtpn9OGsbKQIlg+4hvBiuFnLJPX7QlQMrWvVujMkAeWqXK6g0u8rPe+IwmASI6vFPFmUOxvKuDYb0NWtVfiN+67OMgSzFtEmqL6eCgs11TosaQkdQgU3SFgYnHdkDjla2wgG8AhDzMmGrpci3RFSvCO5QtvgHBtZGAYxbNc1ggA7f8Z9/6qmhDXXzyD6E7jIjoizpssSz/8N95Pa8iowuZ8llM3BIyzJYLFk7+fmGd9CGNmYTNev6ihkMmm3kZ9o+j6CMTc/WtAjxOEQd1UYkUO4sU0DsNuUKPI/9wlVTZbglmBeRdMcmbH7sqVwp0Z8hVB9jPL8jBDeH5kaESeatfkxtQW68Z/GfDV/uKtCNqjHYQk/AqZtAmByGgYGC1m/XZ7v/52IhBQWs8wqHPOYgPjUFIVsiiVjfnikzzg==;AnT8L+oFfO0t99505kn0Rg=="
 ---

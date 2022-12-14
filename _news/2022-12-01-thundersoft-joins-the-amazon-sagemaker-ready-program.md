@@ -1,28 +1,20 @@
 ---
 category: news
 title: "ThunderSoft Joins the Amazon SageMaker Ready Program"
-excerpt: "ThunderSoft, announced today it has joined the Amazon SageMaker Ready Program.This designation helps customers discover partner software solutions that are validated by Amazon Web Services (AWS ..."
-publishedDateTime: 2022-12-01T04:38:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/11/b29917464/thundersoft-joins-the-amazon-sagemaker-ready-program"
-webUrl: "https://www.benzinga.com/pressreleases/22/11/b29917464/thundersoft-joins-the-amazon-sagemaker-ready-program"
-ampWebUrl: "https://www.benzinga.com/amp/content/29917464"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29917464"
+excerpt: "LAS VEGAS–(BUSINESS WIRE)–ThunderSoft, announced today it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner software solutions that are validated by Amazon Web Services (AWS) Partner Solutions Architects ..."
+publishedDateTime: 2022-12-01T05:03:00Z
+originalUrl: "https://www.01net.it/thundersoft-joins-the-amazon-sagemaker-ready-program/"
+webUrl: "https://www.01net.it/thundersoft-joins-the-amazon-sagemaker-ready-program/"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: 01Net
+  domain: 01net.it
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
-    width: 800
-    height: 313
-    isCached: true
-
-secured: "ZNDcJ+WLvGoP8R44iaGr0tS+ZZs5G51U6NkGbkRSwWWJhcdU2Asus9zNNQjwXpamF8ik2RtHWLesbiSQDiWMPfyt9ss8WdfTcmU68OLEHhooKGKhBV4YjY+oQMTHe6a1DhxJaME2Bn+kjQfr2WqQh0yC1na5F23eNh9NsoMK7N/6q5XefU79pD/4u/AhZqnIDy2xWdCqQLhzI+GMxs3Viqbnh8d58STbadt99QvMZa8D+zTnLk8vHgXYmWISuM/rIZ+OyvWEu+o3+Ni4E3e/Y69IOh4mkmTcLPwrKS14uP+uEZzeLVezFHymsjzRkjfJJ1Bh2atFhbDawnBV+RjSdpdPFG538obvZfLEUO65+9c=;0aM8tg1MqP5v+IrSSjdqsw=="
+secured: "MI8U0p2GIymPDkaomAzMr/5oWZjAfs89NSrA3dR3UEXVbYbxWNCNNeLeOBjeC8iKljzOg5i4DuEolZ1L5pD2yyU9TzN/zYITw1qQn2soN+bDpOb5zN5ZNXj+eZaw69cturh5PLAeaJg9U1+oJ5RDtcvUrjukDKK0FD6T9sDwDIrrJ/YXFKVcot29u9VadaTwZgaVaj14Y7DyBWraGWZqculNTGl9lEOHtYZ78mzmKBbZj9pYLeWOWONMrexRi4a7yYTAuds/Q5ZanZF5YlTZPou1GbPOcm+HwzM2o4RixkxuzV7M4KfQtOMhAvoN59gvWHm21GDJOzJZFMomKGMTNZlf1GvZg9AwPaSxIpeE33E=;KPumVaXaqrSKrEguIICDhg=="
 ---
 

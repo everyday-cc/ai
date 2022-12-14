@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thenation.com/article/culture/chatgpt-ai-writers/tnamp/"
 cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/culture/chatgpt-ai-writers/tnamp/"
 type: article
 quality: 61
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Nation
@@ -28,29 +28,20 @@ images:
     isCached: true
 
 related:
-  - title: "Leveraging Conversational AI for better business outcomes"
-    excerpt: "The past decade or so has seen technologies become smarter and more intelligent, to the point where it’s now possible to converse with a chatbot or a virtual assistant almost as easily as with"
-    publishedDateTime: 2022-12-13T10:38:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/leveraging-conversational-ai-for-better-business-outcomes/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/leveraging-conversational-ai-for-better-business-outcomes/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/leveraging-conversational-ai-for-better-business-outcomes/"
+  - title: "Meet Ghostwriter, a haunted AI-powered typewriter that talks to you"
+    excerpt: "To create Ghostwriter, Sanjeev took apart an electric Brother AX-325 typewriter from the 1990s and reverse-engineered its keyboard signals, then fed them through an Arduino, a low-cost microcontroller that is popular with hobbyists."
+    publishedDateTime: 2022-12-14T21:53:00Z
+    webUrl: "https://arstechnica.com/information-technology/2022/12/meet-ghostwriter-a-haunted-ai-powered-typewriter-that-talks-to-you/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2022/12/meet-ghostwriter-a-haunted-ai-powered-typewriter-that-talks-to-you/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/12/meet-ghostwriter-a-haunted-ai-powered-typewriter-that-talks-to-you/amp/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 39
-  - title: "New Book Makes the Case for Cheaper Artificial Intelligence"
-    excerpt: "Cotton is a brilliant, original, ‘out of the box’ thinker with command of his subject”— Joseph Langsam WEST PALM BEACH, FLORIDA, UNITED STATES, December 10, 2022/ EINPresswire.com / -- In his new book published recently by MIT Press,"
-    publishedDateTime: 2022-12-10T23:46:00Z
-    webUrl: "https://apnews.com/article/technology-science-west-palm-beach-artificial-intelligence-df9c362ea60f1ea7e478ff2ddaac8b95"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 87
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/12/ghostwriter_hero_2-800x450.jpg"
+        width: 800
         height: 450
         isCached: true
 

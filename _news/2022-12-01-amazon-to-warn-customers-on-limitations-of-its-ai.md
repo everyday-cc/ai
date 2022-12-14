@@ -2,19 +2,29 @@
 category: news
 title: "Amazon to warn customers on limitations of its AI"
 excerpt: "Amazon chose software touching on sensitive demographic issues as a start for its service cards, which Kearns expects to grow in detail over time. One such service is called \"Rekognition.\""
-publishedDateTime: 2022-12-01T01:06:00Z
-originalUrl: "https://www.channelnewsasia.com/business/amazon-warn-customers-limitations-its-ai-3113256"
-webUrl: "https://www.channelnewsasia.com/business/amazon-warn-customers-limitations-its-ai-3113256"
+publishedDateTime: 2022-11-30T21:44:00Z
+originalUrl: "https://www.reuters.com/technology/amazon-warn-customers-limitations-its-ai-2022-11-30/"
+webUrl: "https://www.reuters.com/technology/amazon-warn-customers-limitations-its-ai-2022-11-30/"
 type: article
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-secured: "55BgRo1/mJRPyn1HFHzG1Qy15JA+6fo/FPzC5OneNJMUcq8CgzEZ0wh1DR7fg0Ni2V02I9E5XbjTC5pKUQLUOk9RFVXZlSHUAT2SGiMtnUmLdXCH3DYOyOM8MVB7nHJxKJXtQ67Xl6G4XtfXvkowUh0byqNSRn8v0hcb1Q+jWCALiTTTThW7QbV8QJwTQOS6JIRN9KaA5IpD5p5Sf8VatW/yqnAeyQ3HSSCPRpkEVMy3WzMEow1y8JJaHIpqHn0HNxweG34Ikw/h7CER7yV2p8oGCs5Y92/MuY3A7kh5Secpnnwoo7yzQNDkbv0rUb+zm8qTOYxdXU0805yW5sS+D8D7YzwmRPNPxlchV1GW6os=;5MemgPcHCyL9cvFhOHx5fQ=="
+images:
+  - url: "https://www.reuters.com/resizer/g4FkAeB1syg6dyJxBiAxlo2QyzQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SWHRVR65DJLWVK4B3D4PTWA5FY.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "1KzCYOcA64Twr5OvgONUraQWgekwMub9Sm/F2PBf+PN9RH8vhjp9W5jcuDc+hfZpt0SbM5vDDdZM2YQPPsJB87jgd/mJRKMLB0DHHgJKmMq/H6UjpkLlHweZN9zOWA31879s1Bly29sIk+o6ZjM3CegW3D4YMbtHgfxVp1uF5O8wayXMB9I8JKiYwNII5oOr5dgxIbvEbDhXyGmROXKylWIiinF+6xOdXA1PtnvWywDm/4XwtuvuYuurcRJ7Brn3X6u+UnkDYuq4Z1+mAx11auhXWn8EWAgtej930YMaqd/8BU88+NxQTI+Yr+NDePnuu4tv5NlQyT4Ej7Mt4S8qSLe8ROFerBVlPbHNBcbhN8s=;YJtRImMEUSu6FeBFEwiyog=="
 ---
 
