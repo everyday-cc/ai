@@ -2,7 +2,7 @@
 name: "Chorus.ai"
 overview: "Chorus.ai is an AI conversation intelligence cloud platform for sales team that can transform conversations into data and insights."
 type: "profile"
-heat: 42
+heat: 50
 
 website: https://www.chorus.ai/
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "chorus_ai"
   url: "https://twitter.com/chorus_ai"
-  followers: 6711
+  followers: 6710
 
 locations:
   - San Francisco and Tel Aviv
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Chorus.ai"
 
-secured: "Jzt8pl2JP/TnzxchlXGXmiSGQUEQnY8XEwa3GI5VQwumFLpxqzpotAIqO9h9rjfAigFTaNH9H7q0Ent2dq7Bx+juFP5+6JCbgq/DUlNxjjEwGfAZjP+D1TK49WbmSW1ruq4vUTHr9RoB3X9pl6YzIN5H7D+L0QTa+UyGrnwpzNU33EU3jWnP/PtU7RfCmEBIkSOFQL9DH0qWspS4lAUTIg7jATJgqcz188SuHJLkV/lT7ipfKDDoCZZZq04DlJ9LnlIHHSp/rE1OmF3OYxMKChSP+QCiw6hlx46wQcoWMGiRC6SoZ5Nw4ZoOvFxN/S7j6wMFV8NV5F0LN/B2bIBtryShZ+7Ug3QcLtBi819ETcoScmzZWNR00Bnu4leKc+ZCw+N+igI4kO2JixbDs1yeQ5cdHcH/572A8ZomIWx+OqA=;rNYoqWt1ynaZlmSnEuOrvg=="
+secured: "JvukNKozi1UhV9nFg2V684v8YSQHxUH0A/JG372to5BdWSQq45W+M0ZycktNc0XdmK6oyVFLFPoXiz22lwHpv89q0GvldjOq/e4dmq6gHwbK73Pw9kjpaSEP5Pr0wiLd2aQrDX5TnKnZqaUY5fmia8mXctiKrGY7lD23ylGIKFryE/kjwIyxVVHm8UhD1sOxwLoxSEZA+eAzW8wadYdT0UcLJPSjpYyOeoDhJNHTCxbGIpKuPlxwBmwwbQH0Txx0X3Spdu9yb72V2JQvWf71Doy/3PZvVy1PcAhn0qz0OFAyn9wGp9ChgaXEKriv/szOdVlqy0rzrO58Z/e61/MNdpPjISkg5Cdxfcf100iY+o4WKc4EYf89fsMZgOIPsolqThaWf8WYYo7+r/VcRcha0A==;JQeaEa+JNCP6dtNCaq44Lg=="
 ---
 

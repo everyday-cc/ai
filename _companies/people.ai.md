@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "ppl_ai"
   url: "https://twitter.com/ppl_ai"
-  followers: 1793
+  followers: 1794
 
 size: 51-200 employees
 yearFounded: 2016
@@ -42,6 +42,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "Tt5GnQ/YQ5bmRqe5o034Vuj71DUUtdU4BYlsLyNSs+wWjLH5xU3F68M3gUXDZYvcpDd3RZ1kd1+20cnhreU6aN1d9lebb7FdZraDlAKf5KjVs8nFiCi2qIN0LF3eKgSy+wuldRXbiLwybnZpcK84+wsj78TiloG/i1Ss45N7VgM1tMxa2lqnMh5uaAgZ7dCeijDsSwfy21PzIWsILD/kYPvc+9R+lV+nCjsT5UCZhpVeOTDY0EBYxzl9oaJvxiUzila1RGYGA3UIM6ytfWW+EvPDIDnP2hZtrbEP6llSRQzRlITCghyd9bTtvC5mKMPXlP0yMOoZHio3l5Jk/KZPsaEBCzQD2Mtx6I8dw4ZBPJyQ1X2RGicbOHb+mP/k5bVfP1x3XYN5rH8VZTVd7ikhpmUimHFAsRwjElvVLaz2QrY=;BPUXvZrs9OsyaZvsf0qFAg=="
+secured: "qGNhApPa/mbpfsYIx8WXXjla63RGi2N3Y9z6rTX+rwzrMc7AtzkCmHG9I9Tca5KONhM/ovAT/rue5KcpLR0OBr4H71KeQnQMFJQFVLyIvkjQ/9pV8pflWIbFpvVgQlQGmHEzqtTMad1lDVliyKTEXgGf+HZBje8pHntME9Shi+3aVeRxSfnRLQxT4zyzgMntLvMaJXPizvafix0QESC8pLpG6ndaQ64Zkqx4Qm/vWt/NUS3HjTtjTYSgJoSQoItPiWPPmVhwvUidazFlZdPEkagGjMKYxizD79gnAtQ4ve9OVSsqvRoQkba5ifvEWF+DP1374rUAzY4Y7jq3qmr+l0hcJtNSXNVB7gotrtdStkipFsCF+0OcUQzeNu4YdkfDJ+DX8HQE9aQt1hs+iVFa9u+TI+Ika1Rka3POIeiqJpM=;E9ErTlUSCWSGverFXZT9CQ=="
 ---
 

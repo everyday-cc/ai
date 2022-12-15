@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "SparkCognition"
   url: "https://twitter.com/SparkCognition"
-  followers: 6042
+  followers: 6041
 
 size: 201-500 employees
 yearFounded: 2013
@@ -41,6 +41,6 @@ images:
     isCached: true
     title: "SparkCognition"
 
-secured: "zaZejAWNzbX7ZC0y33AXUWItpf4rK1Cz/iK9cFpuX4Wo3m5O7HDhYd4uf5tCac/klo+HsmzPsRedjQCasB5p+Yt8SbJRsPPJa6+uwhy5NL4bOOTMBxRDzJ9Z59btDY3CPANAyUjJfXvFiv9fpipOn47hbrLKxSPbn+AyC+BKZMqbZSBIvwiDoP4lDKeybdHRjWspQ1rt5ZYyDHRLmrkoL0rR7yTODG64hFVb7AwXOzBHBaOqi7PGyHHmBLRXpbfYAg+JKKqS+W97kxgJc5PqeraqMABJldH/PQy70Az9SUgeU/zgOxFJnC4dt7bXhVKw9IGPCi3+x7ggoWMtCFjVrnZ4jRGQRBmYr9FtJz9LPptzrc7er/8nOdkNji7XEzde3ZBKhg4i7jb/M42eWaCaizjBSG6JJi4qCkH9ggJE8dc=;bVXwPvKclmyzfIG24TIBjQ=="
+secured: "Oks2Gq3YCA+Z6z9EDgARegXSAigYfOfjtOOwRAoxcKhr8yP9JjWfEt6YRSV8fnSuCr1N4fVBEFAWtghnd/gDHcdF/ojNeVvpWquB1jtF+P/1sf8WgY/va6CnNWKkpexo431tz4zh1BkzLMXr6VgzBqKaBQeUEl7cbXVAeOgAnuwctrNQ5jx50A74Mh9E8zaaXLp5Ok4Q/4P2hLm8fmMjbT/AV95i2ST2lhXwjy70sPDy7+e5g7sDRgZ13bVAZ09Py1jawsslxRmDhQBkaRxlsFSOKHumjlTYgpLed+lMiRpek+WLmG8VObEt79dje8jgxQ69AXIL4+7HRa5cQs2NWfN2HwW+1av2MBNG9fuM/HXaTtoXwMucGGysq2+oW8RBTQlZhmxC6DYxxQGwp2Sy66KCWjNN8ZvNtbeAkjBmUPU=;jw7r1oGjrVEQnk8izTccog=="
 ---
 
