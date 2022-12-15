@@ -5,8 +5,6 @@ excerpt: "The World's First Robot Virtual Medical Scribe was created by S10.AI I
 publishedDateTime: 2022-12-06T20:37:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/12/ab29982507/s10-ai-inc-introduces-the-worlds-first-robot-virtual-medical-scribe"
 webUrl: "https://www.benzinga.com/pressreleases/22/12/ab29982507/s10-ai-inc-introduces-the-worlds-first-robot-virtual-medical-scribe"
-ampWebUrl: "https://www.benzinga.com/amp/content/29982507"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29982507"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
-    width: 800
-    height: 313
-    isCached: true
-
-secured: "DwAnTKolQY8VGas0wgVM0Ols7JLi2FYA49snhMNM2OgO7O2/F8tMwj4PNWhADRRERU+YLV3jZ+02HQve+5mu2XZxzpvR/uhYou3El5uFtzvooEMQEb0lksbhaAyVQdnK2xUB1ZxPRucKcVbycDb/S/QvKpRKX2DoiNnfIk3LbPYLMPKJBF8vvNjgUuY3w5tIQnvCWOGU1KCXuW5Kzd3ICCSZPO4XHdTOL5mMBTChvU6aqmph9EcfzjWAWdI39xeSwREWAKu6+yserh9K5V2P8i9d/WSe949VQfxYTPgCbiYNglVqYi/TuUzPMclefAZ/jKgs+FsD4s/pDVxaPkjNmu7As7BjJtMsKFQh+K67OfE=;nVeS7JUd6N6V4sNHfds3oA=="
+secured: "0c1QZ3b4bS4uw3VWWKRvHx5DSUFADvFvZrBXaGWppzNsAhopkDCzWW1yh6ktVF9nAkOcrOwOxQlBfhA94/bDeOaqRmBHzf50n1vsBzYBnXzIAHQepaVB82DxgSAfmcBmRbaUICrljIa7lE2A6Z5ngL69rPXb8Hzus50P+++ejr0BHRyho7tQIENslHFeJdab0YTMvPiLxZiHcX6cLPy4L0otzI74syKc5vdXUcKDYT1zLixfpPMTRKO+kqeTnk2wpb9FpLxJadOfPZum5qDEZlb3EpE4WG4lFXY/K1/n6WK9r9R+uywI/emKyb6zwPI9nNG4oJTfPDpjT08kUsFWpEdbIBFgjMQctUK/b581/yc=;Ji3scwNw4Ndnvz+70dxLiw=="
 ---
 

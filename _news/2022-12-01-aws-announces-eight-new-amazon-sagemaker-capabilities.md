@@ -1,20 +1,20 @@
 ---
 category: news
 title: "AWS Announces Eight New Amazon SageMaker Capabilities"
-excerpt: "Amazon SageMaker Studio Notebook gives practitioners a fully managed notebook experience, from data exploration to deployment. As teams grow in size and"
-publishedDateTime: 2022-11-30T21:21:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/11/30/9722319.htm"
-webUrl: "https://it.tmcnet.com/news/2022/11/30/9722319.htm"
+excerpt: "At AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced eight new capabilities for Amazon SageMaker, its end-to-end machine learning (ML ..."
+publishedDateTime: 2022-11-30T19:28:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-eight-new-amazon-sagemaker-capabilities/article_fe16b955-2c7f-5b55-b556-bd4a4f9351ea.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-eight-new-amazon-sagemaker-capabilities/article_fe16b955-2c7f-5b55-b556-bd4a4f9351ea.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "lfBPq6v+7CfWp0/M1fnRqta9s2iBGHzWXeAgELdlvqeTT0wPut5/tKfUqBK/xRA7Sa5Z3HgddKIfKBW1OMJutxY5/LaRQUhI9nZzDtmqmOsxZcg2dgkKGH8Z/i77QM+hYU/ZzWskKaParC/BNB3iBlRXG+0Upmp3PM10V2qF1hWmKayXyLu7kpR0LGlVrPir6XOt7f8DDzwTJkuPK0SLSGKVGyAnZ+Wx4YsAx4TeYs2/dD4YyoZ+Kasz+C2lI7aKvOLjKRXirFVSiIszzb85Rm8hUqH4lWjHiFWbqqqGpY+pQZnKjnsBdDl6Bskr8ysYOY1Bcjg6Bgm7yoBILMcNItBcd88CEcWZeIvHRNOhTAc=;5ruGTBnw5rPBz+r7oaIxJw=="
+secured: "U08NzjOGUE40b1C6uuTWHyCszWFt8hJ10JA3ZfBRFqfP3RqI1cphrIdq3wc5WGg06/PRwKfl1tmtecjl2Tu+uSoonBFBy/bQfl42ATPSjOGyXRvU7XlJZ/fP1FmOMNd6oriAZQpeS+C69my/tcn5FLJntY1KEfdmRB4M0jHvyeWhhQfrHd6K4ZXf1j3/lEZPBacPFLQz6CNhkvK2U3L7CpC4Fbmkqxfg+lF0SPrOi1QpZuHldg5ByjTtBB3I6Eiz4GmWwNHd7C11Gh7Pp/aB4mHA3GAQHkOiBUG774to/XbiB6h3k5PPhOuJuccwMvFL/50O6wyHfYNnPqLmeE+uid7oU9wKDyho+aDDU33744A=;//NsmLq6HuW696up2+RNCg=="
 ---
 
