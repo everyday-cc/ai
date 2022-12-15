@@ -23,33 +23,33 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Microscopy Market 2023 Is Flourishing Around the World by 2028 | 123 Pages Report"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2022-12-12T03:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-microscopy-market-2023-is-flourishing-around-the-world-by-2028-123-pages-report-2022-12-11"
+  - title: "Bank of America names the tech stocks set to benefit from a driverless car boom"
+    excerpt: "Once considered the stuff of science fiction, Bank of America says self-driving cars now have \"real-world visibility.\" The \"feasibility\" of autonomous vehicles has risen significantly in the past decade,"
+    publishedDateTime: 2022-12-14T23:01:00Z
+    webUrl: "https://www.cnbc.com/2022/12/15/bofa-names-2-stocks-with-upside-in-transition-to-self-driving-cars.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
+      name: CNBC
+      domain: cnbc.com
+    quality: 82
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://image.cnbcfm.com/api/v1/image/105249986-GettyImages-659266224.jpg?v=1671066015&w=1920&h=1080"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Data Science and Machine-Learning Platforms Market Analysis Highlighting Opportunities and Development Status During 2023-2026"
-    excerpt: "Pre and Post Covid Report is Covered | Final Report will add the analysis of the impact of Russia-Ukraine War and"
-    publishedDateTime: 2022-12-12T04:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-analysis-highlighting-opportunities-and-development-status-during-2023-2026-2022-12-12"
+  - title: "Gay marriage becomes the law of the land in America"
+    excerpt: "JOE BIDEN will shortly sign the Respect for Marriage Act, closing a chapter that began when Jack Baker and Michael McConnell applied, unsuccessfully, for a marriage licence in Minnesota in 1970. For many gay Americans,"
+    publishedDateTime: 2022-12-10T12:19:00Z
+    webUrl: "https://www.economist.com/leaders/2022/12/10/gay-marriage-becomes-the-law-of-the-land-in-america"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
+      name: The Economist
+      domain: economist.com
+    quality: 24
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20221210_USP508.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "XvLNTxXn3Jh2+QOzvxZaZc85b+fpWrYOG6mBTd1Z8uWerzp6NoXccziDOu6zxnGJIk7yhF7NCnHvCFZdxg94OpKShLtYdcstA44u9Y1y80h+1eLX28VUlR81Ksysxr4lZWy/Ohx8N9ofRLYVFGBVzowQC3zsngElaGYb7l4QLf/saZP9wRb8pwz7oEXMrOJAYTuTVhiBVzMi6vfAOhmAkuXpxeyj87YdixPHi1tyOx44q8hXs4/RTs0Fsq4tSq4sTJKozGH92bjHmdCjdRpeomvjEACczRF27YNhxWb3rx7QSz/eQFVScNAHQZqYAyB89iYoj4Hlsr5Hmp4r0/Fhw/UoefgRDHh+3Lc6xotMVBU=;8bcZx0kA9A71RTK+c0taCw=="

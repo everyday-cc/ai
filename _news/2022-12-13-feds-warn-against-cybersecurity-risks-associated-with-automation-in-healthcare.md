@@ -7,8 +7,8 @@ originalUrl: "https://www.beckershospitalreview.com/cybersecurity/feds-warn-agai
 webUrl: "https://www.beckershospitalreview.com/cybersecurity/feds-warn-against-cybersecurity-risks-associated-with-automation-in-healthcare.html"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: Becker's Hospital Review
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Stellar Cyber integrates with Deep Instinct’s deep learning technology"
+    excerpt: "Open XDR company Stellar Cyber on Wednesday announced a new integration with Deep Instinct aimed at helping enterprises and MSSPs more effectively detect and mitigate attacks. The integration takes advantage of Deep Instinct’s deep learning platform to analyze endpoints,"
+    publishedDateTime: 2022-12-14T23:04:00Z
+    webUrl: "https://www.scmagazine.com/news/threat-intelligence/stellar-cyber-integrates-with-deep-instincts-deep-learning-technology"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 39
+    images:
+      - url: "https://files.scmagazine.com/wp-content/uploads/2022/12/121422_student_cyber_education.jpg"
+        width: 1500
+        height: 900
+        isCached: true
   - title: "HC3 Explores Cybersecurity Implications of Automation in Healthcare"
     excerpt: "HC3’s latest brief dives into the history of automation, its uses in cybersecurity, and how it may impact healthcare."
     publishedDateTime: 2022-12-12T13:44:00Z

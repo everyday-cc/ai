@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bakersfield.com/opinion/rich-lowry-an-emphatic-yes-to-ki
 cdnAmpWebUrl: "https://www-bakersfield-com.cdn.ampproject.org/c/s/www.bakersfield.com/opinion/rich-lowry-an-emphatic-yes-to-killer-robots/article_c4381adc-780e-11ed-a941-97d3ab21316e.amp.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Bakersfield Californian
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "An emphatic 'yes' to killer robots"
-    excerpt: "In the mid-1990s, Cyberdyne Systems Corporation created an artificial intelligence-based defense system called Skynet. When the system achieved self-awareness on August 29, 1997, it decided that human"
-    publishedDateTime: 2022-12-10T11:00:00Z
-    webUrl: "https://www.wyomingnews.com/laramieboomerang/opinion/an-emphatic-yes-to-killer-robots/article_8beabf82-77ef-11ed-9ece-4fba804699b2.html"
-    type: article
-    provider:
-      name: Wyoming News
-      domain: wyomingnews.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/9/c6/9c6730ff-9c56-5200-b684-e53f24cad429/62e433d258e7c.image.jpg"
-        width: 253
-        height: 347
-        isCached: true
   - title: "An emphatic 'yes' to the rise of killer robots"
     excerpt: "In the mid-1990s, Cyberdyne Systems Corporation created an artificial intelligence-based defense system called Skynet. When the system achieved self-awareness on August 29, 1997, it decided that human"
     publishedDateTime: 2022-12-10T14:01:00Z

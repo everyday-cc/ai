@@ -41,20 +41,6 @@ related:
         width: 505
         height: 679
         isCached: true
-  - title: "An emphatic 'yes' to killer robots"
-    excerpt: "In the mid-1990s, Cyberdyne Systems Corporation created an artificial intelligence-based defense system called Skynet. When the system achieved self-awareness on August 29, 1997, it decided that human"
-    publishedDateTime: 2022-12-10T11:00:00Z
-    webUrl: "https://www.wyomingnews.com/laramieboomerang/opinion/an-emphatic-yes-to-killer-robots/article_8beabf82-77ef-11ed-9ece-4fba804699b2.html"
-    type: article
-    provider:
-      name: Wyoming News
-      domain: wyomingnews.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/9/c6/9c6730ff-9c56-5200-b684-e53f24cad429/62e433d258e7c.image.jpg"
-        width: 253
-        height: 347
-        isCached: true
 
 secured: "YpZFMT+QUSXw6bENcspyRx5Nrsi10f0DGaFE/BcWoFoLjF+7OsIMDuiFJ8SYuSezNIla5ez0Lq9/2WWGmuxMleAkxM/TUtysf0I8s9HWmbmCX2YXoCsA8gaflcaW+OlgNLNpzW01rd9Rojjxk6w0JSPiythDQi16DewY3g9JUI2glwCpaRGg/8+5eZujjAO7FNZE82355a2Mis/YRwsXJwsuGm8XReKxNWZlKkG/4+qs1dlsjnr0r5xCiL0WFF3CLiSO3xePXwOe1hsqgKZ/PE8Y43gWizgcgnZH4ev3yZRgX43BsmdNwljKNqXNYRFZugjC7R/MK+fpxI+8Fh4qZAiJPfkLB9qsCg8orh8rEQz1QWL0CDxS1kgDF2Buob4FHFxEHiNxH5o16LdtTw7LNh1FKugQlNSH4zb52cyDaZ/vxOox2DpryUxkJNzx99m72APcdE2UeYwmnnLIc27jU8DY5N9qEBMGe37QK+8g40pqeqKCDhA28TF4Hh24bqpas7XbQy4UamPjQOfJUkXhdw==;N1tU7alb2XpjrAGr3UE9tA=="
 ---

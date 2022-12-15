@@ -8,8 +8,8 @@ webUrl: "https://timesofindia.indiatimes.com/city/delhi/artificial-intelligence-
 ampWebUrl: "https://m.timesofindia.com/city/delhi/artificial-intelligence-delhi-govt-schools-kick-off-era-of-robots-with-new-competition/amp_articleshow/96234299.cms"
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/delhi/artificial-intelligence-delhi-govt-schools-kick-off-era-of-robots-with-new-competition/amp_articleshow/96234299.cms"
 type: article
-quality: 49
-heat: 49
+quality: 66
+heat: 66
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
