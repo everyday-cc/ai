@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-12-bolstering-safety-self-driving-c
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-bolstering-safety-self-driving-cars-deep.amp"
 type: article
 quality: 50
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -141,6 +141,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Shapiro: A moonshot moment for self-driving cars | Opinion"
+    excerpt: "The United States and China are locked in a battle for tech leadership, and self-driving vehicles are on the cutting edge of the AI revolution."
+    publishedDateTime: 2022-12-15T03:00:00Z
+    webUrl: "https://www.detroitnews.com/story/opinion/2022/12/15/shapiro-a-moonshot-moment-for-self-driving-cars-opinion/69725418007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 4
 
 secured: "WTim+ZLNcH1DfWLXunxRdzS5ykai7/S958BY51UTBIbKsmuTq+5Ne49PO0eJUkbNGD9AvPg3uWPKWPVNRW4woKNZFWj65SYF3Q0tesdDfdwFIfA16fEdVNB0ZMl/tiIdGLtCkM2/jCECVAdFs3CUY+21H/3vB7zXT760swmfi+gZx4042ufWDOW+9oWLCQ5DD+tDUz5a1KHeuuS93aAcKso3NDlUVsA6T0jLaXVbDo6fAYcCABOS0NvgtCYA5RwOB8y9R7bW1zuSiwJ912Ovj1q1BsbVhJAVBI0DlYTQtZMCIB2jA4mOAAxTlZRaJK1Y6ocvupAuT9Wb71Do63S5ufZL2qwX2N75HfWUiVavC31VJVybsXeANb4Ch9RIZ6hLFGVbkRUqB3nLXZlGrm/+9KTuTK7Lhl6D0BjoAb0UiQtovT8vce5q0pVI3s9Ol5J/r9V/JnHCIBZ0rMSumfo6zsxr+IBW+6HOs/jCgI+kIOMkD2GkgjaZ4XCLZ7H8WYhgaC8HxkxCm3bgUrIyojNyrA==;IuYXT9KWTsAVTZaQ2JsAVg=="
 ---

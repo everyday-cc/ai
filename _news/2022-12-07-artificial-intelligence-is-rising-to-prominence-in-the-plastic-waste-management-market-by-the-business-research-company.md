@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://mma.prnewswire.com/media/1751581/tbrc_logo.jpg"

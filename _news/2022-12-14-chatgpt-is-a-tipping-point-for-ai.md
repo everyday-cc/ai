@@ -107,15 +107,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 49
-  - title: "Why We're All Obsessed With ChatGPT, A Mind-Blowing AI Chatbot"
-    excerpt: "This artificial intelligence bot can converse, write poetry and program computers. Be careful how much you trust it, though."
-    publishedDateTime: 2022-12-10T12:00:00Z
-    webUrl: "https://www.cnet.com/tech/computing/why-were-all-obsessed-with-chatgpt-a-mind-blowing-ai-chatbot/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 49
   - title: "Digging Into The Buzz And Fanfare Over Generative AI ChatGPT, Including Looming AI Ethics And AI Law Considerations"
     excerpt: "Here is your insider look at why Generative AI such as ChatGPT has garnered worldwide attention, including both applause and disdain. Included is an indication of the AI Ethics and AI Law considerations."
     publishedDateTime: 2022-12-13T12:00:00Z

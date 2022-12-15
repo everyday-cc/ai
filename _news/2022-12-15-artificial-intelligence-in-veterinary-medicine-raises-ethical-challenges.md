@@ -8,8 +8,8 @@ webUrl: "https://phys.org/news/2022-12-artificial-intelligence-veterinary-medici
 ampWebUrl: "https://phys.org/news/2022-12-artificial-intelligence-veterinary-medicine-ethical.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-12-artificial-intelligence-veterinary-medicine-ethical.amp"
 type: article
-quality: 88
-heat: 98
+quality: 90
+heat: 100
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/veterinarian.jpg"

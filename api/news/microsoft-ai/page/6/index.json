@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-10-27-video-games-are-good-for-a-developing-brain-study-shows.md",
+      "title": "Video games are good for a developing brain, study shows",
+      "excerpt": "Huge news for the kids who grew up gaming: There are some cognitive benefits associated with children who play video games. Children who played video games showed \"enhanced cognitive performance ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/video-games-children-study",
+      "originalUrl": "https://mashable.com/article/video-games-children-study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/079RyeM8TLJYWd7KogR8t1J/hero-image.fill.size_1200x675.v1666805636.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-26T19:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-27-parents-of-boys-shown-to-have-faster-rate-of-cognitive-decline-than-those-with-girls.md",
       "title": "Parents of boys shown to have 'faster rate of cognitive decline' than those with girls",
       "excerpt": "But what about your children? A new study has considered whether the gender of the next generation can affect cognitive health. A new study published in the United States has found that parents of ...",
@@ -1303,40 +1346,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-22-microsoft-cloud-gaming-services-are-still-in-their-baby-days.md",
-      "title": "Microsoft: Cloud gaming services are still in their ‘baby days’",
-      "excerpt": "It is investigating whether Microsoft would be interested in cloud computing after the acquisition. The emerging market of game services forms a monopoly. In its 33-page response, Microsoft wrote ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2022/10/21/microsoft-cloud-gaming-services-are-still-in-their-baby-days/",
-      "originalUrl": "https://www.gizchina.com/2022/10/21/microsoft-cloud-gaming-services-are-still-in-their-baby-days/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-21T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

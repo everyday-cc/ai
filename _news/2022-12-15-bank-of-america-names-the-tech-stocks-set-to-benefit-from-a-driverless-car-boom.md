@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2022/12/15/bofa-names-2-stocks-with-upside-in
 webUrl: "https://www.cnbc.com/2022/12/15/bofa-names-2-stocks-with-upside-in-transition-to-self-driving-cars.html"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gay marriage becomes the law of the land in America"
-    excerpt: "JOE BIDEN will shortly sign the Respect for Marriage Act, closing a chapter that began when Jack Baker and Michael McConnell applied, unsuccessfully, for a marriage licence in Minnesota in 1970. For many gay Americans,"
-    publishedDateTime: 2022-12-10T12:19:00Z
-    webUrl: "https://www.economist.com/leaders/2022/12/10/gay-marriage-becomes-the-law-of-the-land-in-america"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 24
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20221210_USP508.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Driverless Car Market : Outlook, In-depth Analysis, Industry Drivers, Key Trends, Projections, and Future opportunities for the period 2023-2028"
     excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Driverless"
     publishedDateTime: 2022-12-11T10:49:00Z
@@ -54,6 +40,6 @@ related:
       domain: marketwatch.com
     quality: 12
 
-secured: "K81BB/TkvLqN50XjDZyjMeuqdplg4BpZj6O0FC4pG4badyVNqV8545ZP1cZ7AifDtrAMbGjiw5buhE82Obgwvqgk4kmWFVBWLy/iQ02dSJYu7Tg/dzj6dj2Z6AM8TplbrKnM7HCR4lWtAcLy9qXSqUs2ECBH21zTGhv5s/E2y3x2WY4tjkaGar8jcgrHprtSzgrc25ZLIE4UxC7W8s3UEjat/R9ZVSR2rZMWPsINrYxHC3fm6TZsj9Oim7lL8gFZd+2KB5ERTEihYbbj7u9ZcUxjjXJbySJBlchIFqWmYvZdOksh5bJ8vmUeLwKvH+NtdMeLofAlek38xPMxRdPFAxrjxGSE6xe17o7MOZLAbO8=;J/c2f9DlBsJpztgjHr1qFA=="
+secured: "u9Aq5X8330kEegrBYyT2ScaCX/qsVdFpMm2qHlKnvlQft/gewx4N6Vw7YDBumnJlXHQtwsvhhS+GAWq1hECosMD6b+m8Fxhj0WsCw2ymOuSn7tZ0SWycOvD9S2uQ39kq4mLuV/LECNX5eQ1as1l5bC2KPQ3EZaCLYwS9GOMUfccqAL8Odhkh0enSNbRTX1YkLb7QThPJK5SwxeNZd/AW0LSYKYOReqbp3xCrb4n4AmSvddB5cmvdDgafYNTqEZADV7WuVzFCet+3Gc9UoMJBk0JZPiHh1vg2yU4iNeJnnJB9m3I7DKlkUe9ky/vOucFZX/qSREPcxBEcBpJlg6997UTnYYhKLUxzAfAhRsDMMZWgzqO5AdAG3nnk28n0A6UYCZ74lpzuVQvZx8pi73M4ls6HVemr0lGNr5FbOFBktRK6JBoy29q2ARPbKV1b74YiTC92NlG8vZ+PtJv6Qcn97nEMOZOAa6z2+uX9kaGi5gJFQcrnIMUf5pcbab+Kf/P7DzMtGKB8BtlygicuA4bTiw==;FcAu9Hfv08wcc6vnd4zUkQ=="
 ---
 

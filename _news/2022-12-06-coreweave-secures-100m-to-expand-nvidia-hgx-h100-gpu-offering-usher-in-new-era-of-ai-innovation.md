@@ -1,20 +1,28 @@
 ---
 category: news
 title: "CoreWeave Secures $100M to Expand NVIDIA HGX H100 GPU Offering, Usher in New Era of AI Innovation"
-excerpt: "NVIDIA HGX H100 supercomputing - joining Amazon, Google, Microsoft and Oracle as the initial cloud providers to supply the trailblazing AI platform. CoreWeave is on pace to grow year-over-year revenue by over 450%,"
-publishedDateTime: 2022-12-06T13:23:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-coreweave-secures-100m-expand-nvidia-hgx-h100-gpu-/2022/12/06/9724756.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-coreweave-secures-100m-expand-nvidia-hgx-h100-gpu-/2022/12/06/9724756.htm"
+excerpt: "to scale its on-demand GPU compute resources for customers and democratize access to market disruptive AI products. This funding injection is Magnetar's second investment in CoreWeave, following ..."
+publishedDateTime: 2022-12-06T12:19:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/12/b29970509/coreweave-secures-100m-to-expand-nvidia-hgx-h100-gpu-offering-usher-in-new-era-of-ai-innovation"
+webUrl: "https://www.benzinga.com/pressreleases/22/12/b29970509/coreweave-secures-100m-to-expand-nvidia-hgx-h100-gpu-offering-usher-in-new-era-of-ai-innovation"
+ampWebUrl: "https://www.benzinga.com/amp/content/29970509"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29970509"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "VQ/jNUwEVGvJNA9dkCkXdKMlHuorkSmJLuXKTppsbMR9MnARHw5H3vxyQGyqK83UwnrLLgfcdAD3FmOqxkMo3vqE5LLMpgkKpSFOpoteBU39uQsjIS84IHKQeEIzdYYDvV80D5+9FW7W3XuqnMgDpnkuLIUhWuWO0OwybR+3bMx7WZyBxE5IVCQUD06gox7v6Dfcdrger5lD9j51hdSmNr14vxdAo4J2Q9fFdtUv46qNWr09dVeA8KEWvv4dR1oBiy70eRATDSx0D+PJVChgZHgAQish7hXsyegi/9BqJTxbEmxYYyKwIO7OyO7zAhOMp0pv+3on7/INUuW3xJGAStyNRaIIgIAqduOI6YxZA7g=;JNx0nUoVPYG1dz8rr54Fuw=="
+images:
+  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
+    width: 800
+    height: 313
+    isCached: true
+
+secured: "cSvoxQ41U7/N7xJ6gln0SBSh4Ty/vqBpoEBFgGjdGd4LAx/z0tV4zTdVZRbpmo/x5IX14dS7HVoS/N/hKBc9IouURfC6epVC8dXD/Mqr5gvPm2hl6dIQrqrxQHgDQDONLCkcE0uAdW9vzXAFjEYNIVngeTQWwTQkMH5CqTcjxUlq8ZtyjmTDrpljWuitYzAAeVfY1PMVLTDthGYBp3VXeXX2cuFDwU6r4iygzfD/0UnZaLsept2YcIJSKmoU4G+XqE4oqU5PVGNpgi7hKQqXUMcPYpNuEU0o/F1J/1e0+LHsV+1trenmPygmE0CD59zxf3mAN9YScrAwua59yUqV6tFf2Ld1rxmnUryZVUtzM6w=;uflptOkoFdAQ941/jsUFXA=="
 ---
 

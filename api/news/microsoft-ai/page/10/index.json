@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-09-27-cognitive-analytics-market-size-share-value-and-competitive-landscape-to-2031.md",
+      "title": "Cognitive Analytics Market Size, Share, Value, and Competitive Landscape to 2031",
+      "excerpt": "Key Companies Covered in the Cognitive Analytics Market Research Report Are Microsoft, IBM, Google, Vicarious,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-size-share-value-and-competitive-landscape-to-2031-2022-09-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-size-share-value-and-competitive-landscape-to-2031-2022-09-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-26T23:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-27-alzheimers-treatment-slowed-cognitive-decline-in-closely-watched-clinical-trial.md",
       "title": "Alzheimer’s treatment slowed cognitive decline in closely watched clinical trial",
       "excerpt": "A n investigational Alzheimer’s disease treatment from Biogen and Eisai slowed the rate of cognitive decline by 27% in a clinical trial, the companies said Tuesday, meeting the goals of a ...",
@@ -1284,58 +1336,6 @@
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-fetterman-campaign-says-dem-nominee-is-healthy-after-two-cognitive-tests-wont-provide-documentation-report.md",
-      "title": "Fetterman campaign says Dem nominee is healthy after two cognitive tests, won't provide documentation: Report",
-      "excerpt": "The campaign for Pennsylvania Democratic Senate nominee John Fetterman has released some results from two recent cognitive tests that he recently took as questions about his ability to serve in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/fetterman-campaign-says-dem-nominee-healthy-two-cognitive-tests-provide-documentation",
-      "originalUrl": "https://www.foxnews.com/politics/fetterman-campaign-says-dem-nominee-healthy-two-cognitive-tests-provide-documentation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/09/340/340/Kyle-Morris.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/fetterman-campaign-says-dem-nominee-healthy-two-cognitive-tests-provide-documentation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fetterman-campaign-says-dem-nominee-healthy-two-cognitive-tests-provide-documentation.amp",
-      "publishedDateTime": "2022-09-16T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

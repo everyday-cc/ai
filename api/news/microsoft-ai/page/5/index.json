@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-11-06-which-doctor-should-i-see-for-dementia-and-cognitive-decline.md",
+      "title": "Which Doctor Should I See for Dementia and Cognitive Decline?",
+      "excerpt": "But, especially in older adults, they could also be early signs of cognitive decline or dementia ... to ensure safety or adding caregiving services. “If you’re considering alternative ...",
+      "sourceUrl": null,
+      "webUrl": "https://health.usnews.com/health-care/patient-advice/which-doctor-should-i-see-for-dementia-and-cognitive-decline",
+      "originalUrl": "https://health.usnews.com/health-care/patient-advice/which-doctor-should-i-see-for-dementia-and-cognitive-decline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-05T17:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-05-github-microsoft-and-openai-sued-over-ai-tools-unprecedented-scale-of-software-piracy.md",
       "title": "GitHub, Microsoft, and OpenAI Sued Over AI Tool’s ‘Unprecedented Scale’ of Software Piracy",
       "excerpt": "A civil suit filed in the Northern District of California by two anonymous software developers on behalf of a class claims that GitHub, Microsoft, and",
@@ -1247,49 +1290,6 @@
         "Computer Vision",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-video-games-are-good-for-a-developing-brain-study-shows.md",
-      "title": "Video games are good for a developing brain, study shows",
-      "excerpt": "Huge news for the kids who grew up gaming: There are some cognitive benefits associated with children who play video games. Children who played video games showed \"enhanced cognitive performance ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/video-games-children-study",
-      "originalUrl": "https://mashable.com/article/video-games-children-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/079RyeM8TLJYWd7KogR8t1J/hero-image.fill.size_1200x675.v1666805636.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-26T19:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

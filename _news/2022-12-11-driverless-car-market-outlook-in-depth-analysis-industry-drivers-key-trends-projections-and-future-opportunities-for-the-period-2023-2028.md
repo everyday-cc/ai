@@ -37,20 +37,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Gay marriage becomes the law of the land in America"
-    excerpt: "JOE BIDEN will shortly sign the Respect for Marriage Act, closing a chapter that began when Jack Baker and Michael McConnell applied, unsuccessfully, for a marriage licence in Minnesota in 1970. For many gay Americans,"
-    publishedDateTime: 2022-12-10T12:19:00Z
-    webUrl: "https://www.economist.com/leaders/2022/12/10/gay-marriage-becomes-the-law-of-the-land-in-america"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 24
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20221210_USP508.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "XvLNTxXn3Jh2+QOzvxZaZc85b+fpWrYOG6mBTd1Z8uWerzp6NoXccziDOu6zxnGJIk7yhF7NCnHvCFZdxg94OpKShLtYdcstA44u9Y1y80h+1eLX28VUlR81Ksysxr4lZWy/Ohx8N9ofRLYVFGBVzowQC3zsngElaGYb7l4QLf/saZP9wRb8pwz7oEXMrOJAYTuTVhiBVzMi6vfAOhmAkuXpxeyj87YdixPHi1tyOx44q8hXs4/RTs0Fsq4tSq4sTJKozGH92bjHmdCjdRpeomvjEACczRF27YNhxWb3rx7QSz/eQFVScNAHQZqYAyB89iYoj4Hlsr5Hmp4r0/Fhw/UoefgRDHh+3Lc6xotMVBU=;8bcZx0kA9A71RTK+c0taCw=="
 ---

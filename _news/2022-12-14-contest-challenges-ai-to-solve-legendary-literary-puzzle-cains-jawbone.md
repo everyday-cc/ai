@@ -41,7 +41,7 @@ related:
     provider:
       name: Phys.org
       domain: phys.org
-    quality: 88
+    quality: 90
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/veterinarian.jpg"
         width: 1920

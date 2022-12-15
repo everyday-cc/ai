@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/chatgpt-why-everyone-is-obsesse
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/chatgpt-why-everyone-is-obsessed-this-mind-blowing-ai-chatbot/"
 type: article
 quality: 89
-heat: 219
+heat: 209
 published: true
 
 provider:
@@ -99,15 +99,6 @@ related:
     excerpt: "The new AI tool ChatGPT has inspired excitement and worry with its ability to instantly answer complex questions. In the days after its debut, people have discovered many ways it can make their lives easier -- including five we've found that rise above the rest."
     publishedDateTime: 2022-12-10T13:34:00Z
     webUrl: "https://www.cnet.com/tech/computing/the-five-best-uses-so-far-for-chatgpts-ai-chatbot/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 49
-  - title: "Why We're All Obsessed With ChatGPT, A Mind-Blowing AI Chatbot"
-    excerpt: "This artificial intelligence bot can converse, write poetry and program computers. Be careful how much you trust it, though."
-    publishedDateTime: 2022-12-10T12:00:00Z
-    webUrl: "https://www.cnet.com/tech/computing/why-were-all-obsessed-with-chatgpt-a-mind-blowing-ai-chatbot/"
     type: article
     provider:
       name: CNET

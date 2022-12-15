@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The dawn of AI has come, and its implications for education couldn’t be more significant"
+    excerpt: "AI models can now produce meaningful responses to exam and assignment questions. We’ll have to embrace them if we want the next few years to go smoothly."
+    publishedDateTime: 2022-12-15T02:24:00Z
+    webUrl: "https://theconversation.com/the-dawn-of-ai-has-come-and-its-implications-for-education-couldnt-be-more-significant-196383"
+    ampWebUrl: "https://theconversation.com/amp/the-dawn-of-ai-has-come-and-its-implications-for-education-couldnt-be-more-significant-196383"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/the-dawn-of-ai-has-come-and-its-implications-for-education-couldnt-be-more-significant-196383"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 67
+    images:
+      - url: "https://images.theconversation.com/files/501197/original/file-20221215-14140-h90pat.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=216&fit=crop"
+        width: 320
+        height: 216
+        isCached: true
 
 secured: "txkqfz/IQMwzP59kdXqFaVxaMY+eauT0FURM1y+Y/DvHTbcdEni0Y4Gb9QuoaiTp+U5pG7L/r0kNAYPDRc0TL3v8J0PIlz2URfKPvpfsMPfaFOgGbRUIdXtv5C8fdhW3GMIGR5b/HjaWu14nNJD/ntPCQCIspVgVSI5JP7Z32Z/M2Fff5onusINeBF60H+b0T38hobF0qA0CEGxU4XpYhqnvwLo/gWwaUoN/MO8f8p3k1p/n8zlCu7VRab/rhn8HRgIUJ0HX4BsQ4rZYRd1MpOWhXw8ubYksTFX1PvxdJLa7X5P/WJOz2A5OBPPvUqm7wQ6dP6/JVKVsOQ5KfwChz3guGSpCcDRznjmPlUZfeAfcGIKWHM6nyyhEDrY3XD1IQVWWErxbNjN2s+E4lbnyGCn3Pt6kXkUfETITtRs+xjnZbdpN3XEAkii75etXss/jsv1uZmO1CyinfWNYhwX8ixlr5heJwzM5VWU6zccDSg1lFK3U/3z1Q6toad+vkB7Xvb9xnY2M3onmlJDDwy3OiA==;6snT6hg6RPczses6k9iJMA=="
 ---

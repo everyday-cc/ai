@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/artifi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/artificial-intelligence-has-big-implications-for-ownership-in-the-music-industry/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The dawn of AI has come, and its implications for education couldn’t be more significant"
+    excerpt: "AI models can now produce meaningful responses to exam and assignment questions. We’ll have to embrace them if we want the next few years to go smoothly."
+    publishedDateTime: 2022-12-15T02:24:00Z
+    webUrl: "https://theconversation.com/the-dawn-of-ai-has-come-and-its-implications-for-education-couldnt-be-more-significant-196383"
+    ampWebUrl: "https://theconversation.com/amp/the-dawn-of-ai-has-come-and-its-implications-for-education-couldnt-be-more-significant-196383"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/the-dawn-of-ai-has-come-and-its-implications-for-education-couldnt-be-more-significant-196383"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 67
+    images:
+      - url: "https://images.theconversation.com/files/501197/original/file-20221215-14140-h90pat.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=216&fit=crop"
+        width: 320
+        height: 216
+        isCached: true
   - title: "Meta-Indian Govt Bury the Hatchet, Unite for AI Innovation"
     excerpt: "Using its position as the Chair of the Global Partnership for Artificial Intelligence, India has expressed its desire to collaborate with Meta as a trusted AI partner. In exchange for this, the country will put forward regulations in the GPAI forum that will incentivise innovation in the artificial intelligence field."
     publishedDateTime: 2022-12-12T11:30:00Z

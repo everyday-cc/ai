@@ -140,6 +140,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Shapiro: A moonshot moment for self-driving cars | Opinion"
+    excerpt: "The United States and China are locked in a battle for tech leadership, and self-driving vehicles are on the cutting edge of the AI revolution."
+    publishedDateTime: 2022-12-15T03:00:00Z
+    webUrl: "https://www.detroitnews.com/story/opinion/2022/12/15/shapiro-a-moonshot-moment-for-self-driving-cars-opinion/69725418007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 4
 
 secured: "qQXazUJZiwu+HcBslrbd5FSseDYYPV3mG4g+Q2vq2XA/5pluFLbIGxi8hNlxIkdxn+SH+lTjL4MdGmXX2TW1W3o7GW03m5nbHqGcd5p7+z9nmLtkPS6Uzw7nws2Drp5mJdrLwJAZoO8ySreaF47T4wYoQPLSRSe2ErOh8fYyUobTkZF8VBJyAnoG7ynVZsM4wzKcUnW6qqZMotZAIXyOUXC/LMpN4BK1bwTN2W1CSGN77KgZbXtep/bDUNadmEwIxXLdFskIa/kaMeD9M8yLnlS+jDR97tVD1/lAHylq1HUMDxpf5sBBeaS+8dWhq7M0ymicN2jbLH/f7MetuPjhBQIFBuijK93WmQ+KWN2/k1k=;oFViUUELhy4tje3ZGZGngw=="
 ---
