@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Delhi Government Schools To Kick Off Robotics Competition For Students"
-excerpt: "According to a DoE statement, the idea of this robotics competition is to nurture excellence in robotics among school students."
-publishedDateTime: 2022-12-15T06:15:00Z
-originalUrl: "https://www.ndtv.com/education/delhi-government-schools-kick-off-robotics-competition-for-students"
-webUrl: "https://www.ndtv.com/education/delhi-government-schools-kick-off-robotics-competition-for-students"
-ampWebUrl: "https://www.ndtv.com/education/delhi-government-schools-kick-off-robotics-competition-for-students/amp"
-cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/education/delhi-government-schools-kick-off-robotics-competition-for-students/amp"
+title: "Delhi government schools to kick off new competition for students to nurture excellence in robotics"
+excerpt: "Delhi government schools to introduce a new completion for students to nurture excellence in the field of robotics. See more details here."
+publishedDateTime: 2022-12-15T06:44:00Z
+originalUrl: "https://www.indiatvnews.com/education/news/delhi-government-schools-to-kick-off-new-competition-for-students-to-nurture-excellence-in-robotics-2022-12-15-831392"
+webUrl: "https://www.indiatvnews.com/education/news/delhi-government-schools-to-kick-off-new-competition-for-students-to-nurture-excellence-in-robotics-2022-12-15-831392"
+ampWebUrl: "https://www.indiatvnews.com/amp/education/news/delhi-government-schools-to-kick-off-new-competition-for-students-to-nurture-excellence-in-robotics-2022-12-15-831392"
+cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/education/news/delhi-government-schools-to-kick-off-new-competition-for-students-to-nurture-excellence-in-robotics-2022-12-15-831392"
 type: article
-quality: 74
+quality: 60
 heat: -1
 published: false
 
 provider:
-  name: NDTV
-  domain: ndtv.com
+  name: India TV
+  domain: indiatvnews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://cache.careers360.mobi/media/article_images/2022/12/15/delhi-schools-robotocs-competition-featured-image.jpg"
-    width: 860
-    height: 430
+  - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2022/12/students-1671086622.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -42,6 +42,22 @@ related:
       - url: "https://img.jagranjosh.com/images/2022/December/15122022/robotics.jpg"
         width: 1200
         height: 674
+        isCached: true
+  - title: "Delhi Government Schools To Kick Off Robotics Competition For Students"
+    excerpt: "According to a DoE statement, the idea of this robotics competition is to nurture excellence in robotics among school students."
+    publishedDateTime: 2022-12-15T06:15:00Z
+    webUrl: "https://www.ndtv.com/education/delhi-government-schools-kick-off-robotics-competition-for-students"
+    ampWebUrl: "https://www.ndtv.com/education/delhi-government-schools-kick-off-robotics-competition-for-students/amp"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/education/delhi-government-schools-kick-off-robotics-competition-for-students/amp"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 74
+    images:
+      - url: "https://cache.careers360.mobi/media/article_images/2022/12/15/delhi-schools-robotocs-competition-featured-image.jpg"
+        width: 860
+        height: 430
         isCached: true
   - title: "Delhi Govt Schools To Kick Off Robotics Competition For Students"
     excerpt: "A unique robotics competition to nurture excellence in the field among Delhi school students will begin Friday, as the state government has been emphasising educational opportunities for students to learn Artificial Intelligence,"
@@ -75,23 +91,7 @@ related:
         width: 1070
         height: 579
         isCached: true
-  - title: "Delhi government schools to kick off new competition for students to nurture excellence in robotics"
-    excerpt: "Delhi government schools to introduce a new completion for students to nurture excellence in the field of robotics. See more details here."
-    publishedDateTime: 2022-12-15T06:44:00Z
-    webUrl: "https://www.indiatvnews.com/education/news/delhi-government-schools-to-kick-off-new-competition-for-students-to-nurture-excellence-in-robotics-2022-12-15-831392"
-    ampWebUrl: "https://www.indiatvnews.com/amp/education/news/delhi-government-schools-to-kick-off-new-competition-for-students-to-nurture-excellence-in-robotics-2022-12-15-831392"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/education/news/delhi-government-schools-to-kick-off-new-competition-for-students-to-nurture-excellence-in-robotics-2022-12-15-831392"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 60
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2022/12/students-1671086622.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
-secured: "l8h80eWFLQTs5SH2E6JU0yTJ396BQpQfCkWa/f/FpvZTVMTYSMYYJOwC0+3ztC1NgS6L++msVW2o3ynZNt8LjNfwexrq/QHxucuLrKSuhjmsbw2Vst41An8nxdgy3ZD9CJqrRn+VRSalFvhDMDwxxVdnU7unprGRwo4VzElOZKQ/EpvBMtdBh+mJVJTQidIWo4kd3OPTPeztDZICchXtlmxQRcRt8t3FRL++MuiFKhFjtmCeZNzLRAx4UeG9iiowvaBpZhbNcPlYj/VO9zqkipN6E50JYezrP0zCUr0+GeP6MYJkKhInsNI4qE62XAx480lme4kxMjKLtCN7bh4GKB4xfCuefKuc0YXC0do3VJk=;UsL5sbugIA/AVTcm0qeZwg=="
+secured: "apF4kGMkIyaBEl1yyqmXwCMEDKavPP91n4EDgAa0RESy5bmA/2AEUrMvrOT82J+j3uag/R9dLxEzYr2wCHkmOAXyHQTh9fnkKLalg2dp0TNaTU+SbLzre3neFv4IUDVO6JD35bp9DZoYfcjeR1s93a5idIMEzZL62yi4C8Yo1WKSJeDd05319l6kf16YEZZPqzje9D1U6O18A62lAW7Rap0LD6z8jXVsfq/MSp/jAnluPcv3MSbHykaYcDlzitF0yoYdOekyGDpyU21GVXdzji2Pwe2W9pqiwn2JEi+bau3CKs+xABEj8wztXQU0lKztMbbmgpDHpmKx8tHvSWNgbYZuHr7Vua07iH3LeiCeJgE=;L4+m2HsnxQ/pctssEPT2oQ=="
 ---
 

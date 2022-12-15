@@ -66,6 +66,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Can the new AI tool ChatGPT replace human work? Judge for yourself"
+    excerpt: "A new artificial intelligence tool using natural language processing has captured the public's imagination, amassing more than a million users. Content Skip to Main Content Accessibility Help"
+    publishedDateTime: 2022-12-11T03:13:00Z
+    webUrl: "https://www.cbc.ca/news/business/chatgpt-artificial-intelligence-1.6681401"
+    ampWebUrl: "https://www.cbc.ca/amp/1.6681401"
+    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6681401"
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 59
+    images:
+      - url: "https://i.cbc.ca/1.6681410.1670642154!/fileImage/httpImage/image.jpg_gen/derivatives/original_620/chatgpt.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "ChatGPT has mastered the confidence trick, and that's a terrible look for AI"
     excerpt: "ChatGPT appears disarmingly frank about its flaws if you ask it outright. Say you're a lazy journalist who asks it to \"produce a column about ChatGPT's mistakes when writing code.\" \"As a large language model trained by OpenAI,"
     publishedDateTime: 2022-12-14T00:50:00Z

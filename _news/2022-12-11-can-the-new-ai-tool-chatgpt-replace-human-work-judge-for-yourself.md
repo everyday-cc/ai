@@ -1,25 +1,30 @@
 ---
 category: news
-title: "Becoming a chatbot: my life as a real estate AI’s human backup"
-excerpt: "For one weird year, I was the human who stepped in to make sure a property chatbot didn’t blow its cover – I was a person pretending to be a computer pretending to be a person"
-publishedDateTime: 2022-12-13T05:00:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/dec/13/becoming-a-chatbot-my-life-as-a-real-estate-ais-human-backup?ref=upstract.com"
-webUrl: "https://www.theguardian.com/technology/2022/dec/13/becoming-a-chatbot-my-life-as-a-real-estate-ais-human-backup?ref=upstract.com"
+title: "Can the new AI tool ChatGPT replace human work? Judge for yourself"
+excerpt: "A new artificial intelligence tool using natural language processing has captured the public's imagination, amassing more than a million users. Content Skip to Main Content Accessibility Help"
+publishedDateTime: 2022-12-11T03:13:00Z
+originalUrl: "https://www.cbc.ca/news/business/chatgpt-artificial-intelligence-1.6681401"
+webUrl: "https://www.cbc.ca/news/business/chatgpt-artificial-intelligence-1.6681401"
+ampWebUrl: "https://www.cbc.ca/amp/1.6681401"
+cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6681401"
 type: article
-quality: 17
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: CBC.ca
+  domain: www.cbc.ca
 
 topics:
+  - Natural Language Processing
   - AI
+
+images:
+  - url: "https://i.cbc.ca/1.6681410.1670642154!/fileImage/httpImage/image.jpg_gen/derivatives/original_620/chatgpt.jpg"
+    width: 620
+    height: 349
+    isCached: true
 
 related:
   - title: "ChatGPT: Why Everyone Is Obsessed This Mind-Blowing AI Chatbot"
@@ -69,22 +74,6 @@ related:
       - url: "https://www.cnet.com/a/img/resize/084641681c8362c3ce0c3eb8a53365351adcaaac/hub/2022/12/06/3dd7180c-d0e7-47ca-bc37-b5df15a41a25/ai-chat-gettyimages.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Can the new AI tool ChatGPT replace human work? Judge for yourself"
-    excerpt: "A new artificial intelligence tool using natural language processing has captured the public's imagination, amassing more than a million users. Content Skip to Main Content Accessibility Help"
-    publishedDateTime: 2022-12-11T03:13:00Z
-    webUrl: "https://www.cbc.ca/news/business/chatgpt-artificial-intelligence-1.6681401"
-    ampWebUrl: "https://www.cbc.ca/amp/1.6681401"
-    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6681401"
-    type: article
-    provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 59
-    images:
-      - url: "https://i.cbc.ca/1.6681410.1670642154!/fileImage/httpImage/image.jpg_gen/derivatives/original_620/chatgpt.jpg"
-        width: 620
-        height: 349
         isCached: true
   - title: "ChatGPT has mastered the confidence trick, and that's a terrible look for AI"
     excerpt: "ChatGPT appears disarmingly frank about its flaws if you ask it outright. Say you're a lazy journalist who asks it to \"produce a column about ChatGPT's mistakes when writing code.\" \"As a large language model trained by OpenAI,"
@@ -169,6 +158,15 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Becoming a chatbot: my life as a real estate AI’s human backup"
+    excerpt: "For one weird year, I was the human who stepped in to make sure a property chatbot didn’t blow its cover – I was a person pretending to be a computer pretending to be a person"
+    publishedDateTime: 2022-12-13T05:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/dec/13/becoming-a-chatbot-my-life-as-a-real-estate-ais-human-backup?ref=upstract.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
   - title: "ChatGPT Is a Tipping Point for AI"
     excerpt: "With ChatGPT and other AI models that can communicate in plain English, write and revise text, and write code, the technology is suddenly becoming more useful to a broader population of people. This has huge implications."
     publishedDateTime: 2022-12-14T13:05:00Z
@@ -188,6 +186,6 @@ related:
       domain: iol.co.za
     quality: 15
 
-secured: "nPjDnXaJvCKTgoew9fHPjrwSc5SRs7v4viKxggg+scvo3QcYeXIai5BljQTiE0sMps55SsUw5GfHDlbfpM4TSdhSlkaGpRRjeLk+qAlZJkbirEXFAbWC43EFlhZGOMthzP8M3HwRFBZIA4xH0I4vDyuTj7IYiLeFxQ3LoH0gBKRWJHREPFn481oih2a8C2XNvGgrvF2WDjth4/57yiuto3NG1dYYiEDvcxibiugtsQb3I9prTGySN9ym2vBACOcVhCbt8IlWGsvQDi0qkDj/puMQ8RFLHyrlpLvvtZzdUnNIE7ZcpfvXn7yp9irCes4Qk7WOCUS2k8wA1iJPtaoCHJFTZwWjFHatRGzqL9rZIfdGDIz8Yc+VQ193osWZTa5QQc2OJI0KeWoxnPUSFhx898Wp7OKKsPWrvAPlu5ZO12rENhVXnfprCoi0oR2QJbTOAfyRdtpbU1ba6t/m+zhMxnsFQHomf5y/xdJ5MC6GVNW/1DeDreCxzXCiJT3J7tTvvxLqi4xa6dabjSsTDfN6UA==;8zRWWxDExhNfQHDi0M12Qg=="
+secured: "kPkYdFydAjdHDgBJaRLO1woul95JrtPXKZdeayNM3ecI8VVjzjt5CQ/hf7aRPvlGRpsN/4Due6zVd1q/y/1phW8FYWhrT8S6hSarO7rfr88gPguGuAq9xKSIELtGjD3ClErvbzo4SGAMxCokJ3T/YmP8ilhUYfcG24kQp6cWilAW1jCgtXZ5H+/mUyrkEw5ecelCIZz9ReIAhe0g9wwA7knhbwR08XqsJlWAr+eoSkrhITgt2J2iZJv13/De2Oui7PIEmJYzo/bFqhWdgCU7O5x1UI1uKcjek1ClxtroPosNXqzGJLGfEMQX6oHn6+F6vWrnxs7XXeGaGSx+QvD/XBayyurDNrEa+Wu2UIK79N8=;YFIBePJr+hkH0y9heOrrAQ=="
 ---
 

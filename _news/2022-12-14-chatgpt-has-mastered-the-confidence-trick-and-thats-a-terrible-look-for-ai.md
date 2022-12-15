@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Can the new AI tool ChatGPT replace human work? Judge for yourself"
+    excerpt: "A new artificial intelligence tool using natural language processing has captured the public's imagination, amassing more than a million users. Content Skip to Main Content Accessibility Help"
+    publishedDateTime: 2022-12-11T03:13:00Z
+    webUrl: "https://www.cbc.ca/news/business/chatgpt-artificial-intelligence-1.6681401"
+    ampWebUrl: "https://www.cbc.ca/amp/1.6681401"
+    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6681401"
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 59
+    images:
+      - url: "https://i.cbc.ca/1.6681410.1670642154!/fileImage/httpImage/image.jpg_gen/derivatives/original_620/chatgpt.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "ChatGPT, AI wonder machine that's taken internet by a storm: Here's how it works"
     excerpt: "As per the company, the AI platform has been trained using the Reinforcement Learning from Human Feedback (RLHF). In simple words, the human AI trainers initially provided conversations in which they played both the AI assistant and the user."
     publishedDateTime: 2022-12-14T22:54:00Z

@@ -1,47 +1,47 @@
 ---
 category: news
-title: "Delhi Government Schools To Kick Off Robotics Competition For Students"
-excerpt: "According to a DoE statement, the idea of this robotics competition is to nurture excellence in robotics among school students."
-publishedDateTime: 2022-12-15T06:15:00Z
-originalUrl: "https://www.ndtv.com/education/delhi-government-schools-kick-off-robotics-competition-for-students"
-webUrl: "https://www.ndtv.com/education/delhi-government-schools-kick-off-robotics-competition-for-students"
-ampWebUrl: "https://www.ndtv.com/education/delhi-government-schools-kick-off-robotics-competition-for-students/amp"
-cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/education/delhi-government-schools-kick-off-robotics-competition-for-students/amp"
+title: "Delhi Government Schools to Begin Delhi Robotics League Event Tomorrow"
+excerpt: "Delhi Government School to initiate a Robotics competition tomorrow for all students of Delhi Schools. The opportunity can give exposure to students in the emerging era of Artificial Intelligence. The event will be held at the BR Ambedkar School of Specialized Excellence,"
+publishedDateTime: 2022-12-15T08:18:00Z
+originalUrl: "https://www.jagranjosh.com/news/delhi-government-school-to-launch-delhi-robotics-league-event-tomorrow-check-details-here-166032"
+webUrl: "https://www.jagranjosh.com/news/delhi-government-school-to-launch-delhi-robotics-league-event-tomorrow-check-details-here-166032"
+ampWebUrl: "https://www.jagranjosh.com/news/amp/delhi-government-school-to-launch-delhi-robotics-league-event-tomorrow-check-details-here-166032"
+cdnAmpWebUrl: "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/news/amp/delhi-government-school-to-launch-delhi-robotics-league-event-tomorrow-check-details-here-166032"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
-  name: NDTV
-  domain: ndtv.com
+  name: jagranjosh.com
+  domain: jagranjosh.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://cache.careers360.mobi/media/article_images/2022/12/15/delhi-schools-robotocs-competition-featured-image.jpg"
-    width: 860
-    height: 430
+  - url: "https://img.jagranjosh.com/images/2022/December/15122022/robotics.jpg"
+    width: 1200
+    height: 674
     isCached: true
 
 related:
-  - title: "Delhi Government Schools to Begin Delhi Robotics League Event Tomorrow"
-    excerpt: "Delhi Government School to initiate a Robotics competition tomorrow for all students of Delhi Schools. The opportunity can give exposure to students in the emerging era of Artificial Intelligence. The event will be held at the BR Ambedkar School of Specialized Excellence,"
-    publishedDateTime: 2022-12-15T08:18:00Z
-    webUrl: "https://www.jagranjosh.com/news/delhi-government-school-to-launch-delhi-robotics-league-event-tomorrow-check-details-here-166032"
-    ampWebUrl: "https://www.jagranjosh.com/news/amp/delhi-government-school-to-launch-delhi-robotics-league-event-tomorrow-check-details-here-166032"
-    cdnAmpWebUrl: "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/news/amp/delhi-government-school-to-launch-delhi-robotics-league-event-tomorrow-check-details-here-166032"
+  - title: "Delhi Government Schools To Kick Off Robotics Competition For Students"
+    excerpt: "According to a DoE statement, the idea of this robotics competition is to nurture excellence in robotics among school students."
+    publishedDateTime: 2022-12-15T06:15:00Z
+    webUrl: "https://www.ndtv.com/education/delhi-government-schools-kick-off-robotics-competition-for-students"
+    ampWebUrl: "https://www.ndtv.com/education/delhi-government-schools-kick-off-robotics-competition-for-students/amp"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/education/delhi-government-schools-kick-off-robotics-competition-for-students/amp"
     type: article
     provider:
-      name: jagranjosh.com
-      domain: jagranjosh.com
+      name: NDTV
+      domain: ndtv.com
     quality: 74
     images:
-      - url: "https://img.jagranjosh.com/images/2022/December/15122022/robotics.jpg"
-        width: 1200
-        height: 674
+      - url: "https://cache.careers360.mobi/media/article_images/2022/12/15/delhi-schools-robotocs-competition-featured-image.jpg"
+        width: 860
+        height: 430
         isCached: true
   - title: "Delhi Govt Schools To Kick Off Robotics Competition For Students"
     excerpt: "A unique robotics competition to nurture excellence in the field among Delhi school students will begin Friday, as the state government has been emphasising educational opportunities for students to learn Artificial Intelligence,"
@@ -92,6 +92,6 @@ related:
         height: 675
         isCached: true
 
-secured: "l8h80eWFLQTs5SH2E6JU0yTJ396BQpQfCkWa/f/FpvZTVMTYSMYYJOwC0+3ztC1NgS6L++msVW2o3ynZNt8LjNfwexrq/QHxucuLrKSuhjmsbw2Vst41An8nxdgy3ZD9CJqrRn+VRSalFvhDMDwxxVdnU7unprGRwo4VzElOZKQ/EpvBMtdBh+mJVJTQidIWo4kd3OPTPeztDZICchXtlmxQRcRt8t3FRL++MuiFKhFjtmCeZNzLRAx4UeG9iiowvaBpZhbNcPlYj/VO9zqkipN6E50JYezrP0zCUr0+GeP6MYJkKhInsNI4qE62XAx480lme4kxMjKLtCN7bh4GKB4xfCuefKuc0YXC0do3VJk=;UsL5sbugIA/AVTcm0qeZwg=="
+secured: "lLTjF+2MXewRltEhrQVD93G1w71c9+uiEQ96P1rL4aDLFXbRMAZHGvN5PjK+FvQ0yd1s/4lW3bEcmjJhe9nvToHTpJe+6kZixuix3PVpD82mhl/1yCPz7ckPtBHzen6FcuhP83uI3npZ8QuBxkzCJueHU9+ywCqonmXAQXTYPJZD7BzhbPcIacpHIlrZ2eGhfUpD8/pHRWyqPk7R9fFkj/Y2NpTXqv1+HKLhUUEdNX4P+YbJAYl66fPFtgxdbXuXai0hqJbDWeOg61fe+Dthg6rh9UKUycj69TCJYW+eYv9pehfP/hlmmeC25/nUO+ZcaLfXsaNul/KVns6aAGyg7geaMWk5sNrVCkIFMN8iw2k=;wNxEHGv/r3TmWUdOgOd0uw=="
 ---
 

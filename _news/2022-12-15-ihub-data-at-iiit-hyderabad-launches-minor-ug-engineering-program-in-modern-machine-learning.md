@@ -1,0 +1,23 @@
+---
+category: news
+title: "iHub-Data at IIIT Hyderabad Launches Minor UG Engineering Program in Modern Machine Learning"
+excerpt: "Data, the technology innovation hub established by IIIT Hyderabad, is embarking on a novel mission to assist technical institutions and universities (possessing academic autonomous status) for offering a BTech (minor) degree program in Modern Machine Learning from the academic year 2023 onwards."
+publishedDateTime: 2022-12-15T07:16:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/12/15/9730948.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/12/15/9730948.htm"
+type: article
+quality: 8
+heat: 8
+published: false
+
+provider:
+  name: TMCnet
+  domain: tmcnet.com
+
+topics:
+  - Machine Learning
+  - AI
+
+secured: "9orAAvgva/esaW7gSumPY4REaif3fa4H7TwYHerlSibWnlTwAQkVNSkcBYNs8RP2W8u7TsWtdUY3IiG1dXVhqUZh4HLII0Cl1obEw//skkfXx2UybFHS8Lg/VJwZwmfmm8hEcE/4IhvS9IP9HBQiemocy6oJuD8hp44L/8LXDH4rV8sP1zgly5YLe1RLcUKjZ1Qo89A2TwLvLZImFjqW4g2KRuWBTxba94Pymcb273HtI50ukxr2E1bpDwqke0xyPK5H7Tt7JtwM9Rqfq0p49IGesdaNO6UlMAEECeyxPsUSu+WpqRqU8Ey4FmNr0RLHoJvynDCJ0KgsZuKHVj2AqTrt6eVKpDkP2VzhUocPNwc0h+oH9GVLld7DsSAzAIDcpRH+Mr9BbqWMOIYO/7dedG14DxTmPtiqFZQGkNDA11qs600ECp+vZSFB6cv1GLxSI8pNR3DZb3wWkITUmA9Lnsm6szLQAPshsaHGwlqWPjjWdFmnKYlD4J6oU1O1HiHbzLgGjlrGhI0XCEdP5Yd6Hw==;yl1M/GP4ed+BN+oShBcUTA=="
+---
+

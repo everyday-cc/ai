@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Delhi Government Schools To Kick Off Robotics Competition For Students"
-excerpt: "According to a DoE statement, the idea of this robotics competition is to nurture excellence in robotics among school students."
-publishedDateTime: 2022-12-15T06:15:00Z
-originalUrl: "https://www.ndtv.com/education/delhi-government-schools-kick-off-robotics-competition-for-students"
-webUrl: "https://www.ndtv.com/education/delhi-government-schools-kick-off-robotics-competition-for-students"
-ampWebUrl: "https://www.ndtv.com/education/delhi-government-schools-kick-off-robotics-competition-for-students/amp"
-cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/education/delhi-government-schools-kick-off-robotics-competition-for-students/amp"
+title: "Delhi Govt Schools To Kick Off Robotics Competition For Students"
+excerpt: "A unique robotics competition to nurture excellence in the field among Delhi school students will begin Friday, as the state government has been emphasising educational opportunities for students to learn Artificial Intelligence,"
+publishedDateTime: 2022-12-15T06:58:00Z
+originalUrl: "https://www.republicworld.com/india-news/general-news/delhi-govt-schools-to-kick-off-robotics-competition-for-students-articleshow.html"
+webUrl: "https://www.republicworld.com/india-news/general-news/delhi-govt-schools-to-kick-off-robotics-competition-for-students-articleshow.html"
+ampWebUrl: "https://www.republicworld.com/amp/india-news/general-news/delhi-govt-schools-to-kick-off-robotics-competition-for-students-articleshow.html"
+cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/delhi-govt-schools-to-kick-off-robotics-competition-for-students-articleshow.html"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: NDTV
-  domain: ndtv.com
+  name: RepublicWorld
+  domain: republicworld.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://cache.careers360.mobi/media/article_images/2022/12/15/delhi-schools-robotocs-competition-featured-image.jpg"
-    width: 860
-    height: 430
+  - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/7vaj3uleqymhries_1671087484.jpeg"
+    width: 768
+    height: 439
     isCached: true
 
 related:
@@ -43,21 +43,21 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Delhi Govt Schools To Kick Off Robotics Competition For Students"
-    excerpt: "A unique robotics competition to nurture excellence in the field among Delhi school students will begin Friday, as the state government has been emphasising educational opportunities for students to learn Artificial Intelligence,"
-    publishedDateTime: 2022-12-15T06:58:00Z
-    webUrl: "https://www.republicworld.com/india-news/general-news/delhi-govt-schools-to-kick-off-robotics-competition-for-students-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/india-news/general-news/delhi-govt-schools-to-kick-off-robotics-competition-for-students-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/delhi-govt-schools-to-kick-off-robotics-competition-for-students-articleshow.html"
+  - title: "Delhi Government Schools To Kick Off Robotics Competition For Students"
+    excerpt: "According to a DoE statement, the idea of this robotics competition is to nurture excellence in robotics among school students."
+    publishedDateTime: 2022-12-15T06:15:00Z
+    webUrl: "https://www.ndtv.com/education/delhi-government-schools-kick-off-robotics-competition-for-students"
+    ampWebUrl: "https://www.ndtv.com/education/delhi-government-schools-kick-off-robotics-competition-for-students/amp"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/education/delhi-government-schools-kick-off-robotics-competition-for-students/amp"
     type: article
     provider:
-      name: RepublicWorld
-      domain: republicworld.com
+      name: NDTV
+      domain: ndtv.com
     quality: 74
     images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/7vaj3uleqymhries_1671087484.jpeg"
-        width: 768
-        height: 439
+      - url: "https://cache.careers360.mobi/media/article_images/2022/12/15/delhi-schools-robotocs-competition-featured-image.jpg"
+        width: 860
+        height: 430
         isCached: true
   - title: "Artificial intelligence: Delhi govt schools kick off era of robots with new competition"
     excerpt: "The era of robots begins now in government schools in Delhi. A robotics competition for students will kickstart from December 16, says a circular issued by the Directorate of Education (DoE). The inaugural function is being organised at a Delhi government school."
@@ -92,6 +92,6 @@ related:
         height: 675
         isCached: true
 
-secured: "l8h80eWFLQTs5SH2E6JU0yTJ396BQpQfCkWa/f/FpvZTVMTYSMYYJOwC0+3ztC1NgS6L++msVW2o3ynZNt8LjNfwexrq/QHxucuLrKSuhjmsbw2Vst41An8nxdgy3ZD9CJqrRn+VRSalFvhDMDwxxVdnU7unprGRwo4VzElOZKQ/EpvBMtdBh+mJVJTQidIWo4kd3OPTPeztDZICchXtlmxQRcRt8t3FRL++MuiFKhFjtmCeZNzLRAx4UeG9iiowvaBpZhbNcPlYj/VO9zqkipN6E50JYezrP0zCUr0+GeP6MYJkKhInsNI4qE62XAx480lme4kxMjKLtCN7bh4GKB4xfCuefKuc0YXC0do3VJk=;UsL5sbugIA/AVTcm0qeZwg=="
+secured: "RLL9fGyoqPhf4I/KBY3kv1RqvZTnexFpTcKOWVEk71GNjNAUVKc9/lhx+/mbui3TXHytr6P4QQqO4nqBefeLYsQfGqn8eO9R0qw5SOkRjlhjvzA0AGLvQdduOdum1V3e08kh5A5HrMX87KvrRf4hLFmseRJ7683UL3CB/MytePQcL958wT/USQp1CVT82+w2b5WUPaBfWp+OWOG37TUr97sMncDW8mc6GQy3+5fg3UJkHHTlySJIjlZAWkNTOhfqCGzM9p3R1DR5/dZXUMeOKRImg+cICo45q9f0DD1IZwg7+SaIQykLZEw07FXdVN8MUxesHpi+hlO7FW+egiaOyoahsY1+mQT7dRXcEKMEfKc=;3d9c1eoOJV03a/cxX4rmjg=="
 ---
 
