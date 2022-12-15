@@ -19,28 +19,42 @@ topics:
   - AI
 
 related:
-  - title: "Will we be using face recognition to unlock our cars?"
-    excerpt: "Genesis, Hyundai’s premium brand, is creating a stir by introducing the first-ever solution for unlocking a car with face recognition, through tech implemented directly into the vehicle."
-    publishedDateTime: 2022-12-15T03:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/12/15/will-we-be-using-face-recognition-to-unlock-our-cars"
+  - title: "GENESIS INTRODUCES WORLD FIRST KEYLESS ENTRY FACE RECOGNITION TECHNOLOGY ON 2023 GV60"
+    excerpt: "Genesis GV60 will be the first car in the world to feature pioneering face recognition technology as part of biometric vehicle entry and engine start Other new features include Digital Key,"
+    publishedDateTime: 2022-12-13T08:29:00Z
+    webUrl: "https://www.thenewsmarket.com/news/genesis-introduces-world-first-keyless-entry-face-recognition-technology-on-2023-gv60/s/68b5a48c-38ba-4a92-b3a0-98525bb5747b"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
+      name: thenewsmarket
+      domain: thenewsmarket.com
+    quality: 32
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/12/15/1863330.jpg"
-        width: 1240
-        height: 826
+      - url: "https://preview.thenewsmarket.com/Previews/GEME/StillAssets/960x540/631144_v2.jpg"
+        width: 1168
+        height: 657
         isCached: true
-  - title: "Will face recognition be used to unlock cars soon?"
-    excerpt: "Genesis, Hyundai's premium brand, is creating a stir by introducing the first-ever solution for unlocking a car with face recognition."
-    publishedDateTime: 2022-12-15T03:40:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/leisure/automotive/2022/12/15/will-face-recognition-be-used-to-unlock-cars-soon/"
+  - title: "Face biometrics coming to vehicles will allow keyless access and more"
+    excerpt: "A new biometrics capabilities for keyless access and feature control in automobiles could make that tangle of keys in your pocket obsolete."
+    publishedDateTime: 2022-12-14T17:11:00Z
+    webUrl: "https://www.biometricupdate.com/202212/face-biometrics-coming-to-vehicles-will-allow-keyless-access-and-more"
     type: article
     provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/10/11140505/car-driver-monitoring-scaled.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
+  - title: "Genesis launches face recognition entry"
+    excerpt: "Claimed world first face recognition technology for keyless entry is among a number of new features for the 2023 edition of Genesis’ electric GV60 SUV. Digital key and air purification systems are also among the available upgrades."
+    publishedDateTime: 2022-12-13T12:25:00Z
+    webUrl: "https://www.just-auto.com/news/genesis-launches-face-recognition-entry/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
     quality: 19
 
 secured: "LaL2Do+qLK+Vyjem9jr3jLWQcEauwRQ+q81iWUqbNOuY7reWJgbEaeHBFsPH3WKF0NsihCU/hq48wNY7y+Uumo0CTieSqfMTnZdDyvS2rzNSmLmqZOBBiG4TQCIeMRTyP8HMffp446T7KCLriPffk7UyvXWCihrZ2JVoBXWcEqoKdIFcgpWYwBTqXBwAeenDkUwQ7pbYJU6Sc992n+rqWNQsAyLtdjKNMu2/gOIpYaDE8wmdARMqiSAFcA5dSEUUIZ0eQCI34EFMT9+QFFzCs8rYEOGeQ0VVRZhDknaIHyxgHSt5mRmeU9tKtFm5GJPikuTmFTuv8SI5Q/f6SS905Xgkof0tYt3bsm1NfxsuISs=;W2oR+meAAQnb2s7QIY8HxA=="

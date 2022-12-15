@@ -48,6 +48,15 @@ related:
       name: Just Auto
       domain: just-auto.com
     quality: 19
+  - title: "Genesis introduces keyless entry with face recognition tech to GV60"
+    excerpt: "Another system that will also be available on the 2023 Genesis GV60 is the Digital Key. This allows owners to unlock or lock their vehicle using their smartphone or smartwatch. As"
+    publishedDateTime: 2022-12-14T11:16:00Z
+    webUrl: "https://www.expressandstar.com/news/motors/2022/12/14/genesis-introduces-keyless-entry-with-face-recognition-tech-to-gv60/"
+    type: article
+    provider:
+      name: Express & Star
+      domain: expressandstar.com
+    quality: 19
 
 secured: "SjlsNNI0bTAWfmPJAyUZO8A27O0SWXa9p8wnaoTlASzeSJc6/7/UOGYMViuQcP78Y0tqXpBwmyiLHcXeHLvVUDHpcW+RxSaMDRDa8N8wgXJE4gZPVN4T9atQfFdpOJQBL3dUoKdoKJIMXVvJNq3KT0/HsucADWmLKXWqGAE+tErxTJOL1rCPBeOqmNQooDSmR1nCHevA0ivXIq1xB+7eCf7cuDHgVmSN3VNfBLgDlk1D+p0CEVn8+h1o1yKGAU3uSaFOkgTJu4a2DV7LVvndDFJhrgnQRioJ++TIg2FhNorWshQjXG0dBfYwZJqzn1g4GSTk5VZcyx3yK0v4ORzLLbGdtrlYrTd/o+Z4hGMPxrv3Zh8pTY+NbAAH5VB/cMlt6s24VreidSJj84K3sHZxe2Ifq/PmkLvCeIkhC0L25ikr2sPpYvj3FLLyp8TI7JhS4vCQrBPJCS1czBKGRMT9p+fAPlXBXaVLVOVB/5KF+YtfaUv/qywE6GRyV+fVVDPDzS0H+0LGAdnGdvz7nQ6/qQ==;/q/9/Cwo4KJMP7Ydqve42A=="
 ---

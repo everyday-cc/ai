@@ -66,6 +66,22 @@ related:
         width: 750
         height: 466
         isCached: true
+  - title: "My Coach, Artificial Intelligence"
+    excerpt: "The mobile coach is on the rise - accelerated by the Covid pandemic. AI is now omnipresent in training and health apps. And in professional sport and marketing? Is artificial intelligence increasingly playing a leading role here as well?"
+    publishedDateTime: 2022-12-15T09:45:00Z
+    webUrl: "https://www.ispo.com/en/news-markets/my-coach-artificial-intelligence"
+    ampWebUrl: "https://www.ispo.com/en/news-markets/my-coach-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://www-ispo-com.cdn.ampproject.org/c/s/www.ispo.com/en/news-markets/my-coach-artificial-intelligence?amp"
+    type: article
+    provider:
+      name: ISPO
+      domain: ispo.com
+    quality: 57
+    images:
+      - url: "https://www.ispo.com/sites/default/files/styles/facebook/public/2020-12/FRE_eRGB2_Dorian000898.jpg?h=1f77ac1a&itok=wzNJOQ6O"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Will Drive The Evolution Of Human Creativity"
     excerpt: "Social and scientific advancements are made by \"outside the box\" creative thinkers, and it is in our interest, as a society, to create tools that empower people with creative ideas and ultimately minimize the need for training or professional tools to express them."
     publishedDateTime: 2022-12-13T12:30:00Z

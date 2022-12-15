@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Image-generating AI can copy and paste from training data, raising IP concerns"
+    excerpt: "A new study offers some evidence that art-generating AI systems like Stable Diffusion copy from the data on which they were trained."
+    publishedDateTime: 2022-12-13T20:12:00Z
+    webUrl: "https://techcrunch.com/2022/12/13/image-generating-ai-can-copy-and-paste-from-training-data-raising-ip-concerns/"
+    ampWebUrl: "https://techcrunch.com/2022/12/13/image-generating-ai-can-copy-and-paste-from-training-data-raising-ip-concerns/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/13/image-generating-ai-can-copy-and-paste-from-training-data-raising-ip-concerns/amp/"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: techcrunch.com
+    quality: 83
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/08/ai-gen-unfiltered.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "0GUTX7CHkqwasIjPyuvs0FI528KjPvSECPReB6EwBc3DYzjl34tBQ0gsEvZ5wRQOZuod+npUUWVfWsuP7mVW7hR0LiHGOTWayoByhdckqToU4wbPM/f00LD1SSiAxCmHxyJ0tWM92jPru3Q/pKRrHldRzu7fLiEE0ewQXvdTFZ/SVxwXfNk6dhBoOL9eRMDv8sHulCzCH09e/2FpSkeRYnKurD2a4BvBiiYr/go0tQSpqZuXFfGts0G3DFbw8IisCw42bQk6cpiF2RdRdwMw4GBpiY3PemH95cWNPh6eZg/5WnVPG3W3213cYebE4roO9uyUSlN5eyiHF3Iq4lgkgQE3c1xu5j3nbMA1ENNviig6Rg8NHlMZMIliWzLYASI/K44GIWl7PPRMt6WSyV9b/IEhoVxKG/vscTB1s0NC1RgIVQoRLh3FXlTgwDcJY80fkyP+wR5vUTG7E3WLcZKiTcfMHF+ugLttIYX7QRnH3/OWxQyg1ibxWymDS0dfwoV2Jc/1WF5kFEjmOBzs8jeUOQ==;yZ1J1HfqPaVUfHiYlmk1gA=="
 ---

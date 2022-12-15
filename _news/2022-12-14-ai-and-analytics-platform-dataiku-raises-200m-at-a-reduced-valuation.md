@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/12/13/ai-and-analytics-platform-dataiku-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/13/ai-and-analytics-platform-dataiku-raises-200m-at-a-reduced-valuation/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/image-2-1.png"
         width: 931
         height: 520
+        isCached: true
+  - title: "AI development startup Dataiku secures $200M funding round"
+    excerpt: "Dataiku, an AI development startup, announced it has secured a $200 million funding round that values the startup at over $2 billion. The funding round"
+    publishedDateTime: 2022-12-15T09:35:00Z
+    webUrl: "https://www.techzine.eu/news/editorial/97153/ai-development-startup-dataiku-secures-200m-funding-round/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 37
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2021/11/dataiku01-scaled.jpg"
+        width: 2560
+        height: 1920
         isCached: true
   - title: "Opaque Systems unveils a unique multi-party confidential AI and analytics platform"
     excerpt: "“The Opaque Confidential AI and Analytics Platform solves this challenge by enabling ... Confidential Computing is supported by all major cloud vendors including Microsoft Azure, Google Cloud and Amazon Web Services and major chip manufacturers including ..."

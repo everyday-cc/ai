@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "AI development startup Dataiku secures $200M funding round"
+    excerpt: "Dataiku, an AI development startup, announced it has secured a $200 million funding round that values the startup at over $2 billion. The funding round"
+    publishedDateTime: 2022-12-15T09:35:00Z
+    webUrl: "https://www.techzine.eu/news/editorial/97153/ai-development-startup-dataiku-secures-200m-funding-round/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 37
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2021/11/dataiku01-scaled.jpg"
+        width: 2560
+        height: 1920
+        isCached: true
   - title: "Opaque Systems unveils a unique multi-party confidential AI and analytics platform"
     excerpt: "“The Opaque Confidential AI and Analytics Platform solves this challenge by enabling ... Confidential Computing is supported by all major cloud vendors including Microsoft Azure, Google Cloud and Amazon Web Services and major chip manufacturers including ..."
     publishedDateTime: 2022-12-12T19:07:00Z

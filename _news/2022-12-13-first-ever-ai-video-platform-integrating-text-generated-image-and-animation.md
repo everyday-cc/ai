@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2022/12/13/first-ever-ai-video
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/12/13/first-ever-ai-video-platform-integrating-text-generated-image-and-animation/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Image-generating AI can copy and paste from training data, raising IP concerns"
+    excerpt: "A new study offers some evidence that art-generating AI systems like Stable Diffusion copy from the data on which they were trained."
+    publishedDateTime: 2022-12-13T20:12:00Z
+    webUrl: "https://techcrunch.com/2022/12/13/image-generating-ai-can-copy-and-paste-from-training-data-raising-ip-concerns/"
+    ampWebUrl: "https://techcrunch.com/2022/12/13/image-generating-ai-can-copy-and-paste-from-training-data-raising-ip-concerns/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/13/image-generating-ai-can-copy-and-paste-from-training-data-raising-ip-concerns/amp/"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: techcrunch.com
+    quality: 83
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/08/ai-gen-unfiltered.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vic.ai raises $52M for its AI-powered accounting automation platform"
     excerpt: "XFO Financials Inc., an accounting automation startup that does business as Vic.ai, has raised $52 million through a new funding round announced today. Existing Vic.ai investors GGV Capital and ICONIQ Growth led the Series C round."
     publishedDateTime: 2022-12-13T18:22:00Z
