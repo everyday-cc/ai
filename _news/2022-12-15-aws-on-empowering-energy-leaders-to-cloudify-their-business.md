@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-15T13:54:00Z
 originalUrl: "https://www.utilities-me.com/power/aws-on-empowering-energy-leaders-to-cloudify-their-business"
 webUrl: "https://www.utilities-me.com/power/aws-on-empowering-energy-leaders-to-cloudify-their-business"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Utilities ME

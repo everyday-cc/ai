@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-15T14:50:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-myrtleai-achieves-unrivalled-latencies-stac-mltrade-benchmarks-with-/2022/12/15/9731264.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-myrtleai-achieves-unrivalled-latencies-stac-mltrade-benchmarks-with-/2022/12/15/9731264.htm"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: TMCnet

@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-15T11:59:00Z
 originalUrl: "https://www.forbes.com/sites/lanceeliot/2022/12/15/ai-year-in-review-roundup-and-analysis-along-with-pearls-and-perils-entailing-ai-ethics-and-ai-law/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2022/12/15/ai-year-in-review-roundup-and-analysis-along-with-pearls-and-perils-entailing-ai-ethics-and-ai-law/"
 type: article
+quality: 50
+heat: 50
+published: false
 
 provider:
   name: Forbes

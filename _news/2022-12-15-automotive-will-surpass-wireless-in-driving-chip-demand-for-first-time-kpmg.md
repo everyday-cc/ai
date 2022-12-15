@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-15T13:00:00Z
 originalUrl: "https://venturebeat.com/ai/automotive-will-surpass-wireless-in-driving-chip-demand-for-first-time-kpmg/"
 webUrl: "https://venturebeat.com/ai/automotive-will-surpass-wireless-in-driving-chip-demand-for-first-time-kpmg/"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: VentureBeat

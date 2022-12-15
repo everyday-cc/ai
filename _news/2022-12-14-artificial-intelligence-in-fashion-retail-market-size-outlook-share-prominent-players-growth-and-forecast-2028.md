@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Fintech Market Report 2023 by Trend, Size, Share, Market Segmentation, Growth Potential and Forecasts Through 2030"
+    excerpt: "In accordance with the recent study\"Global AI in Fintech Market\" is anticipated to grow at a CAGR of 31.5% 2023-2030."
+    publishedDateTime: 2022-12-14T05:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-report-2023-by-trend-size-share-market-segmentation-growth-potential-and-forecasts-through-2030-2022-12-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "+HbjxekY1embpgUjOgWHoPk++7Y0tESuvhYqlj2+79WpAaQmDXoD+nBMiiPyXm1uyMv6KjpldqIt26WKCFGSvJ22q+kBgmpgAUyrtbIuTgGiZcNL62N2VIC3aviNOt33duKdM8B+edJ/oLVPyzn3wAN5MVXqYBnboXP2YRTTf9vL7ciYTbxegA8sOxrMmiZxHcFg6HUryNrrB7WBPUU1LuIQNIz4xGbiBIIw2+ARQTrDRfbvCr5d0dJxtBhkqiXGq+cOL57VFXD5IR9FWOOvDQePfHlwJZKiGS+KzdRjY3yGYX8wD9yFMENFyDWwdtVYgYubTJCRP+Rau+fSJpFS04GcIbeZnLunb6cnoTRfTUc=;lFmdA2jYuXYMDFOjQymlAw=="
 ---

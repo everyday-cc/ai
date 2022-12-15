@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-15T14:31:00Z
 originalUrl: "https://medicalxpress.com/news/2022-12-bioimaging-based-multi-feature-deep.html"
 webUrl: "https://medicalxpress.com/news/2022-12-bioimaging-based-multi-feature-deep.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Medical Xpress

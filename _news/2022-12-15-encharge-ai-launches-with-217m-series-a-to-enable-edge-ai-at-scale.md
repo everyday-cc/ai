@@ -51,6 +51,15 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "EnCharge AI, a chip startup born in Princeton lab, raises $21.7 million"
+    excerpt: "EnCharge AI, a chip startup born at a Princeton University lab, on Wednesday said it raised $21.7 million as it looks to commercialize its computing technology that is designed to run artificial intelligence applications more efficiently."
+    publishedDateTime: 2022-12-15T08:20:00Z
+    webUrl: "https://www.euronews.com/next/2022/12/15/encharge-ai-funding"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 34
   - title: "AI-Diagnostics Startup Altris AI Raises $1 Million To Prevent Blindness"
     excerpt: "Altris AI has raised $1 million in a round led by Runa Capital to scale its AI-enabled eye care diagnostics solution. Altris AI, which is a US-based startup originally from Ukraine, is building solutions for the $58 billion global ophthalmology market."
     publishedDateTime: 2022-12-14T14:41:00Z

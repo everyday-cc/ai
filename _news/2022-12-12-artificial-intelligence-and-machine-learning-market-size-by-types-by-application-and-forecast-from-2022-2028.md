@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-size-by-types-by-application-and-forecast-from-2022---2028-2022-12-12"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Fintech Market Report 2023 by Trend, Size, Share, Market Segmentation, Growth Potential and Forecasts Through 2030"
+    excerpt: "In accordance with the recent study\"Global AI in Fintech Market\" is anticipated to grow at a CAGR of 31.5% 2023-2030."
+    publishedDateTime: 2022-12-14T05:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-report-2023-by-trend-size-share-market-segmentation-growth-potential-and-forecasts-through-2030-2022-12-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "TRANSLATED SRL: The Speed of Progress Towards Singularity in AI Measured for the First Time With Data From Machine Translation Quality Improvements"
-excerpt: "Many AI researchers believe that solving the language translation challenge is equivalent to producing Artificial General Intelligence (AGI). The evidence Translated has provided about reducing the gap between what expert human translators and an optimized machine translation system can produce is quite possibly the most compelling evidence of success at scale seen in both the MT and AI community."
-publishedDateTime: 2022-12-13T17:11:00Z
-originalUrl: "https://www.afp.com/en/news/1313/translated-srl-speed-progress-towards-singularity-ai-measured-first-time-data-machine-translation-quality-improvements-202212130058221"
-webUrl: "https://www.afp.com/en/news/1313/translated-srl-speed-progress-towards-singularity-ai-measured-first-time-data-machine-translation-quality-improvements-202212130058221"
+excerpt: "Many A researchers believe that solving the language translation challenge is equivalent to producing Artificial General Intelligence (AGI). The evidence Translated has provided about reducing the gap between what expert human translators and an optimized machine translation system can produce is quite possibly the most compelling evidence of success at scale seen in both the MT and AI community."
+publishedDateTime: 2022-12-13T17:12:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/12/13/9729759.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/12/13/9729759.htm"
 type: article
 quality: 11
 heat: -1
 published: false
 
 provider:
-  name: AFP
-  domain: afp.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
@@ -29,6 +29,6 @@ related:
       domain: slator.com
     quality: 32
 
-secured: "yqWQybfvHEN7WbC0OgXv/aVfQRTc8H/eIuhMDAfYp8CmVk0/kE7ILmvixVBCkx4CCqII9l009A5NYmazvJAVhQ3RrYAXsm3EJMNYiedUm/+i0Dtrc6nWjs7LmCE8iSFOelPGpV9pQ50XENJ0ZAOXYiaimb1uGNfRgCiDwvWsGqfr/+kQtZSObLB7AbsFvU8Y3WAuUT/qVtm9106WvRAqhuZJPaBn2/pnsYjlms/O+noYDE6yv5MVVVoE7eqKYbQ1TpQXM3IE7Xqrpqnokg8cTxeiW17Cz8g2APD6d33xBit2JTi74Cr6ptRF/YJwovn92bVRmSqn1hjh6/yJYb/jNzpHVHkBZ0ZhJms/Z39/oHfK58lZ3gqhrzrVePLN3/o48Gb0+prPPCvC1c6/y0YwIcux92CYTtZtIS3EhLnS9/fEjCZR8W9igShtGGqUGSaUqkEBKoK6zaSQb28iJk1pXM6GddjvPtr2Abig93vepT10vYcbfPSDv6Hc/gkDv88R7QakRxlz7I/39zc176I4sQ==;taazRNdPCoSwljoFz22kLQ=="
+secured: "43j4/dkphS4B1/0FQMjkfowmd1hWhOjJotELSZYi/Esx7lrpS3R0bJa+fEEvSm2BxT2tuVS9qi/UQ+a/hVcX1fF9PcDbk8iBDDnKUVZazl2hDqPs3s2EmZLo/qkqeZ2ZFsygQhr8pYdRbn12uBD+796ODtJdEgG/LPaGp7eYIPp05jmGq6BJHn4jBQPLsCJNnogynBrZb/uJ/GaaUe2J6nsRjBhE2qokEaMX091TWwTOSlp62n/LiCLW1O7T1BJ7idklaFwQcrdEGCvuWyEViHU7QK7Jhok7pUXXxB0+w1QS3xIQxj9Ab/+uSJJOsYNK5gqcy/h0XJVW/MmWrdCMpTVtXeSdZytFjxqvgdzyQ00oOr0bE/b1OhHxao4QMwZfmy/6rG6Aq4PLqejFUZoRDWAzYhwxaeawZKVCCkPw/rKlKfnuexf+PsMY8gIVIULyygjQz8vp0y9e9FaolHBbbNgFA12BzVt2I7JRlKqe+A2jZTmGu42SEdBD1L1Jppkoyk9nyq+NIPRs4GvYOCcrIA==;yCAUV7izGzE0OPCZicGLtA=="
 ---
 

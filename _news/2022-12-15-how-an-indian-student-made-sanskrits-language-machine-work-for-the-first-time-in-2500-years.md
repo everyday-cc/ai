@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-15T14:00:00Z
 originalUrl: "https://scroll.in/article/1039847/how-an-indian-student-made-sanskrits-language-machine-work-for-the-first-time-in-2500-years"
 webUrl: "https://scroll.in/article/1039847/how-an-indian-student-made-sanskrits-language-machine-work-for-the-first-time-in-2500-years"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Scroll

@@ -47,6 +47,20 @@ related:
         width: 1500
         height: 900
         isCached: true
+  - title: "Cybersecurity startup Protect AI launches with $13.5 million in funding"
+    excerpt: "Artificial intelligence and machine learning systems cybersecurity startup Protect AI has today emerged from stealth mode with $13.5 million in new funding and its first product, NB Defense. NB Defense is a free product that’s claimed to be the industry’s first security solution to address vulnerabilities in a core component used at the beginning of the machine learning supply chain: Jupyter Notebooks."
+    publishedDateTime: 2022-12-15T14:00:00Z
+    webUrl: "https://siliconangle.com/2022/12/15/ai-ml-cybersecurity-startup-protect-ai-launches-13-5-million-funding/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/jupyter.png"
+        width: 765
+        height: 350
+        isCached: true
 
 secured: "dAxBOjKTU/59A+4VeBaLA68iVOYOUFaVjMkZMOVFXGo6cniIesoEL+YjG6EKOjnlfinJYfra/jGeyyfBIYHllrtj00soRCYDRvfs94WJLYyClH7fmMFgbSc1LlAH37qKqSA8qIo1QDr8vsLqaOiZauCxnyWwVYZ0UgaI3yNZpU4HfucW+3HIwvDsUJKyu65YqjbPBqnS5KdKtSMjtcP6trqGFeFJnVDKYXJ8+DTiaAkmTskW9mBXSJO1WDiE2ua+ORn1AfWEjPGmI+EQMMWZFjNNi+z8tTxMGlyo1PS1eqW2FKOKgIHeSamSfR8gV4ATopTYdqeoYdB5Fvek52hJrXn2Tg56O5BOK9DJLeJL/2UDUEmRSU5nO+DnKsge0MQgiUQAtsE9guJVxVFbS2BsAFOhNI80XMFyA6cStRjsZkeaFdZUfXfetb9gU+AkoeaC9hp2XV0hGvPcVntxVKh8yGq4c4snKVeRpz1CwRfpuw7HbYKb8h93DLaG0Y5dEI7c0QmFdiLUsOfj87lY8wZB0w==;LFKRWQIbzmSftJ1YrnAuEA=="
 ---

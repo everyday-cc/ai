@@ -52,6 +52,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+  - title: "Artificial Intelligence (AI) in Automotive Market Trends 2023 Industry Size, Segments, Share, Key Players and Growth Factor Analysis by 2026"
+    excerpt: "Global “Artificial Intelligence (AI) in Automotive Market” 2023 report presents an exclusive analysis of market"
+    publishedDateTime: 2022-12-15T07:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-trends-2023-industry-size-segments-share-key-players-and-growth-factor-analysis-by-2026-2022-12-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
 
 secured: "euvHpqmTEhk7mFFPlsv4VMnEq4oLkIJ3QJVZGzY5SjBxTKEdG/gtA6g52BlbIV45BrBXzvBFrfPWwh0GEZ/opnML2u/9uFl2po4kOGNaRkXnX+xsPu2TVZDPg91heNrsOe/QQ2KnqwHrn9UQ+e8c+Dl1ZmziS/mXHwXuwVR7qo+Ge741Re2Hc2ffT5ll8rLmRDL1ZBJCS/vCvs7bFjwGsIWT7Z6e50TS1tZ6peE7QPzhvkULtzXoGWiXOcUNs6GWodtP1Af98SfqegJiM+vsptc/BdHQM7ej+2wDVp+0dvS6GyAD62bKkNlr9pW8J9pywc17IVTiP6lGk9WQlIFQRhLP/A/sYu6ISjzOx149KZw=;KNNjoHFy6os8Jw2W2YSIlQ=="
 ---

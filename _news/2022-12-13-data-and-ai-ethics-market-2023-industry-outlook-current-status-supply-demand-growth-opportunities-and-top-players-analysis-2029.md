@@ -51,6 +51,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Automotive Market Trends 2023 Industry Size, Segments, Share, Key Players and Growth Factor Analysis by 2026"
+    excerpt: "Global “Artificial Intelligence (AI) in Automotive Market” 2023 report presents an exclusive analysis of market"
+    publishedDateTime: 2022-12-15T07:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-trends-2023-industry-size-segments-share-key-players-and-growth-factor-analysis-by-2026-2022-12-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
 
 secured: "JN5XjAcehCXMbcweB+epZKQWIGywPLi3GyjGCbnoci0bQ7mC8hcxLsBOP+yVr40H3icMaXb36v+yJ75oUbfIt2zn32FomJ0GjY9vprGduUHCpWVATNwZdpHl8vxzlelxCFvXKpVdP9kcKNp8IULm1wUiFgjXa5vt9ytCr03OjbbujDhpoLJ2j4h9tR5kxIsK8iPUPNCJDGcN6+Ti/suHELx12Wjs/xxIV6UsQRaJ4Q5U1CM7zXZbiCPRP+ydujnYZ6U/LpOI4P8AfVJHhhUYFboYr//uUku2qSI2yv5vXgn44EJBr6PAGQ+vSuQTrU9H7NSvLfniVp4LDseLp0saOlYGznLfDf0XQUNjMyiW8n4=;/QOj/LhcsFHbAbAsqCn/lQ=="
 ---

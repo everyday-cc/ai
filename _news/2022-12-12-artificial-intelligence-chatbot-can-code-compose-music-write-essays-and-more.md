@@ -115,6 +115,15 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "As Google weighs in on ChatGPT, You.com enters the AI chat"
+    excerpt: "People may be talking about what ChatGPT means for Google search, but You.com is making its own generative AI search moves."
+    publishedDateTime: 2022-12-15T14:00:00Z
+    webUrl: "https://venturebeat.com/ai/as-google-weighs-in-on-chatgpt-you-com-enters-the-ai-chat/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Digging Into The Buzz And Fanfare Over Generative AI ChatGPT, Including Looming AI Ethics And AI Law Considerations"
     excerpt: "Here is your insider look at why Generative AI such as ChatGPT has garnered worldwide attention, including both applause and disdain. Included is an indication of the AI Ethics and AI Law considerations."
     publishedDateTime: 2022-12-13T12:00:00Z

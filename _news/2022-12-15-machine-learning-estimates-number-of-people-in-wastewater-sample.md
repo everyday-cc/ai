@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-15T14:42:00Z
 originalUrl: "https://www.wwdmag.com/wastewater-treatment/wastewater/press-release/21438964/machine-learning-estimates-number-of-people-in-wastewater-sample"
 webUrl: "https://www.wwdmag.com/wastewater-treatment/wastewater/press-release/21438964/machine-learning-estimates-number-of-people-in-wastewater-sample"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: CEO

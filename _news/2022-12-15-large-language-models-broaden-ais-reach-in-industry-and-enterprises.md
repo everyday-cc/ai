@@ -5,7 +5,12 @@ excerpt: "LLM neural networks have been quietly expanding AI’s impact in healt
 publishedDateTime: 2022-12-15T14:20:00Z
 originalUrl: "https://venturebeat.com/ai/large-language-models-broaden-ais-reach-in-industry-and-enterprises/"
 webUrl: "https://venturebeat.com/ai/large-language-models-broaden-ais-reach-in-industry-and-enterprises/"
+ampWebUrl: "https://venturebeat.com/ai/large-language-models-broaden-ais-reach-in-industry-and-enterprises/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/large-language-models-broaden-ais-reach-in-industry-and-enterprises/amp/"
 type: article
+quality: 91
+heat: 101
+published: true
 
 provider:
   name: VentureBeat
@@ -18,7 +23,32 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
 
-secured: "TTU70jOM6NBXzREAu1AED7ccrjzHUAADCIsO2w8fiUwIbzrbYr7TTUKmlA2GvlJDWApdCWIk9LtdKLzPPnqcNCcakOhoxXHJclYAxiM7bQ6DGn+wsMYeSxUVwFgOCPiPjU5IAXfREct+bc+YCnWsUh/fU4Oldk5O/9X+bki5Xz0Crd8iPQ9UIFApzl8G+7L1yV17TpopBzFO41qs6hITFoGJoVLGAFHhjhuLad3KmFPpXYxDuLMpFPeQJOtPJ1fTzUeujc82eiVMdf1wG/YGp2wmWU+fxGhrqSiUsgJj9BDBYcKGSbLJvUe92c8JfFQfm2Q8Pao7EnEl4NqNOVqNh47hRe7IL68BPTHwpMHHxIJPhDHCTMzZzfFrAXvlr6fJQXbGjuu0gEgVZNxVz0ISxHIhvZdcZMoWv7mOA/0WJA8e81rSJUv89+FkZuoZxqFBqqkbWeghHXLOmk9BlKNBjkFYrY8dOWjDAeGxQa2vUCA+TJjs8CBS0osyLc0wyxD045zLzN5hKrWNDRDoZI1IdQ==;Rzyvp3ZwQHj/JQS6nhAx5A=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2022/12/GettyImages-1357255073.jpg?w=1200&strip=all"
+    width: 1200
+    height: 745
+    isCached: true
+
+related:
+  - title: "Large language model expands natural language understanding, moves beyond English"
+    excerpt: "Cohere released its natural language LLM that understands over 100 languages in a step toward multilingual content moderation."
+    publishedDateTime: 2022-12-12T15:07:00Z
+    webUrl: "https://venturebeat.com/ai/large-language-model-expands-natural-language-understanding-moves-beyond-english/"
+    ampWebUrl: "https://venturebeat.com/ai/large-language-model-expands-natural-language-understanding-moves-beyond-english/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/large-language-model-expands-natural-language-understanding-moves-beyond-english/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 71
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1367728606-e1645809619993.jpg?fit=800%2C547&strip=all"
+        width: 800
+        height: 450
+        isCached: true
+
+secured: "gnfFK7+4i9to9KO7yHj7Mz7uAXJCgr6PNewp4yWcGymOvGUa4Qagj5Ot2dE3BCS8+Ij2VHCP9wQUQU513729BMw5lBypyuMtqUmEmsYQ3FM5iEh+8UyUyiubZyanGfHgt0cpHFeFn2JGSjVXc8kwtRGVUm/lLWyRXNHHJEBJMQ+E++vxy29ixxR7s3+Y+0cFyfWWas5Y6LG9wDI9ODQg6fILCvVHMtEv27MB/N9Rzn+dYDQQ6mgmY4HUYzxKXoBbyalilsTR72fQx/L7EALLGx1tVO+WkXjJkmWjVGezp/rQCovzIUCi8TeSR5tmJGzueNhZBAC5pa2AOYN6lhmwwFD6nRzmo+viMmF4Bccv1NY=;idxnKp09l8GFsRo3oxE0WA=="
 ---
 

@@ -50,6 +50,15 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "EnCharge AI, a chip startup born in Princeton lab, raises $21.7 million"
+    excerpt: "EnCharge AI, a chip startup born at a Princeton University lab, on Wednesday said it raised $21.7 million as it looks to commercialize its computing technology that is designed to run artificial intelligence applications more efficiently."
+    publishedDateTime: 2022-12-15T08:20:00Z
+    webUrl: "https://www.euronews.com/next/2022/12/15/encharge-ai-funding"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 34
   - title: "EnCharge AI Launches With $21.7M Series A to Enable Edge AI at Scale"
     excerpt: "EnCharge AI, the company building advanced computers for AI at the Edge, today announced it has raised $21.7M in Series A financing, led by Anzu Partners with participation from AlleyCorp, Scout Ventures,"
     publishedDateTime: 2022-12-14T17:15:00Z

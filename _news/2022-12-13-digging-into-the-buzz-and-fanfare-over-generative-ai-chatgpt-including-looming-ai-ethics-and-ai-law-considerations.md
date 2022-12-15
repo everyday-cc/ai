@@ -119,6 +119,15 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "As Google weighs in on ChatGPT, You.com enters the AI chat"
+    excerpt: "People may be talking about what ChatGPT means for Google search, but You.com is making its own generative AI search moves."
+    publishedDateTime: 2022-12-15T14:00:00Z
+    webUrl: "https://venturebeat.com/ai/as-google-weighs-in-on-chatgpt-you-com-enters-the-ai-chat/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "New AI Chatbot Lands With A Big Splash"
     excerpt: "Like most nerds who read science fiction, I've spent a lot of time wondering how society will greet true artificial intelligence, if and when it"
     publishedDateTime: 2022-12-12T22:37:00Z

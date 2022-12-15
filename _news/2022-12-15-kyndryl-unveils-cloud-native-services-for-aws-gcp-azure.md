@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-15T14:25:00Z
 originalUrl: "https://www.crn.com/news/cloud/kyndryl-unveils-cloud-native-services-for-aws-gcp-azure"
 webUrl: "https://www.crn.com/news/cloud/kyndryl-unveils-cloud-native-services-for-aws-gcp-azure"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: CRN

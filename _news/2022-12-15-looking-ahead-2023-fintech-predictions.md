@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI in fintech: 4 ways AI impacts on financial industry"
+    excerpt: "A remarkable milestone in fintech has become the deployment of artificial intelligence algorithms, a potential game changer that has revolutionized the financial industry in many ways. The benefits AI brings are huge: this smart tech reduces unnecessary expenses,"
+    publishedDateTime: 2022-12-15T14:53:00Z
+    webUrl: "https://www.finextra.com/blogposting/23418/ai-in-fintech-4-ways-ai-impacts-on-financial-industry"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
   - title: "Fintech stocks took hammering in 2022, but rebound coming: industry boss"
     excerpt: "Soaring interest rates tend to hurt growth stocks – and more specifically tech stocks – due to the discounted cash flow models used in their valuations. As a result, fintech, which is part of the broader tech space,"
     publishedDateTime: 2022-12-14T22:23:00Z

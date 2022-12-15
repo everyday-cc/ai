@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-15T11:59:00Z
 originalUrl: "https://www.forbes.com/sites/brucetulgan/2022/12/15/3-machine-learning-tricks-to-improve-team-performance/"
 webUrl: "https://www.forbes.com/sites/brucetulgan/2022/12/15/3-machine-learning-tricks-to-improve-team-performance/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes

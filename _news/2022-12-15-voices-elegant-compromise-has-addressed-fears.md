@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-15T11:33:00Z
 originalUrl: "https://www.theaustralian.com.au/commentary/voices-elegant-compromise-has-addressed-fears/news-story/4c64babf92b9eef9fd7d74b0122a9577"
 webUrl: "https://www.theaustralian.com.au/commentary/voices-elegant-compromise-has-addressed-fears/news-story/4c64babf92b9eef9fd7d74b0122a9577"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Australian

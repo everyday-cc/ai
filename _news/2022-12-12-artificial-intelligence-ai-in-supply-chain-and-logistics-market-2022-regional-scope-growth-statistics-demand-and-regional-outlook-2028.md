@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-2022-regional-scope-growth-statistics-demand-and-regional-outlook-2028-2022-12-12"
 type: article
 quality: 51
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+  - title: "Artificial Intelligence (AI) in Automotive Market Trends 2023 Industry Size, Segments, Share, Key Players and Growth Factor Analysis by 2026"
+    excerpt: "Global “Artificial Intelligence (AI) in Automotive Market” 2023 report presents an exclusive analysis of market"
+    publishedDateTime: 2022-12-15T07:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-trends-2023-industry-size-segments-share-key-players-and-growth-factor-analysis-by-2026-2022-12-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
 
 secured: "a5iLKPijVtdCJJ8LYlDeAzDaJamYO5aBFRpdMx+JeK+vL12ULk7cKTjQYYMteHE89Nz/9cQEF+lQv7EbD1TuGJdQLQ7+2zlcv8lvF4JUDRTHcFBBbT/wfeLiDCWcvEvgvpYslz8I5agy6t7iiaymdp+ZGBeBFRhMqaKRLX/i0yIBCxC1cj7GmzifnWG5lQsHS74MJWFSQ5MTFAIfh3jVNbcAlaCqooN7AbJDNaV4KxA6i17uRrWCTr01iarHT7SO2U4LJi973XMqCyMRi5gDiVqFurVKo1YitzJEnLRG4vgVjlkOUQ6BIdRLYA75n6xunYA1n9LX4jsLfhAasf8/BfkF+hkGs5q/w6PQOc1y7O8=;12EXs8NHwMiiVUl4CyA97w=="
 ---

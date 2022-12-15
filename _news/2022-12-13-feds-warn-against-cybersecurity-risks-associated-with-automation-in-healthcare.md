@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/cybersecurity/feds-warn-agai
 webUrl: "https://www.beckershospitalreview.com/cybersecurity/feds-warn-against-cybersecurity-risks-associated-with-automation-in-healthcare.html"
 type: article
 quality: 50
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://files.scmagazine.com/wp-content/uploads/2022/12/121422_student_cyber_education.jpg"
         width: 1500
         height: 900
+        isCached: true
+  - title: "Cybersecurity startup Protect AI launches with $13.5 million in funding"
+    excerpt: "Artificial intelligence and machine learning systems cybersecurity startup Protect AI has today emerged from stealth mode with $13.5 million in new funding and its first product, NB Defense. NB Defense is a free product that’s claimed to be the industry’s first security solution to address vulnerabilities in a core component used at the beginning of the machine learning supply chain: Jupyter Notebooks."
+    publishedDateTime: 2022-12-15T14:00:00Z
+    webUrl: "https://siliconangle.com/2022/12/15/ai-ml-cybersecurity-startup-protect-ai-launches-13-5-million-funding/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/jupyter.png"
+        width: 765
+        height: 350
         isCached: true
   - title: "HC3 Explores Cybersecurity Implications of Automation in Healthcare"
     excerpt: "HC3’s latest brief dives into the history of automation, its uses in cybersecurity, and how it may impact healthcare."

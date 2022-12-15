@@ -26,6 +26,24 @@ images:
     height: 1311
     isCached: true
 
+related:
+  - title: "This ancient language puzzle was impossible to solve—until a PhD student cracked the code"
+    excerpt: "A student just solved a grammatical puzzle taught by Pāṇini that has stumped scholars since the fifth century BCE."
+    publishedDateTime: 2022-12-15T15:00:00Z
+    webUrl: "https://www.popsci.com/science/sanskrit-puzzle-2500-years-old/"
+    ampWebUrl: "https://www.popsci.com/science/sanskrit-puzzle-2500-years-old/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/science/sanskrit-puzzle-2500-years-old/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 35
+    images:
+      - url: "https://www.popsci.com/uploads/2022/12/14/SanskirtText.png?auto=webp"
+        width: 2000
+        height: 1125
+        isCached: true
+
 secured: "VBksvr1lMJ9/ao46zku3pUIeYBU/TM1IDOYBpzMU2489ZP8/Dvnr5wvRlAdrc19xuQYyz7fSCkNTDRW3PKZPMlAPXULpdEMVZL9md5PVHmejpWsfQ+sdP/9elqbbWPyPlNBSrK3+b+PG1ZSkJS0Nk30SbBO2eDv0ZN/jjVpBsOF9oADZRMyN5nn4dBtIsqPm3tZI+SXmRFkN9npfhz7HWIiVeeft6tZmWGNVKk0/yDh5YE1TVXSfjofzSTmRvcc8rwBdLstip5b12/dZUhD9OiC4f/xwKkADSZ4Tx3xe143fO9L23tHv2o3ABn18rMDM9JQgoDgCeriG3Hbd8++MfTsdhDFOYYxXnmvOFKHmmAX/BTTBm3DyV3HAT5yeaVFP/fRkHywjt5U3MeiVXcCeMIBws7GCi+VQWrjk+ggshgbA8vFWFUJvsRRFt2VjN3HpvHnzBKcqoF5ZdXAELAgP1Lc3ChLThROibpTyr7TGmumm+buy+VL4OoRL3OWnnYv98GbXdN4O0RYqJDpldJ/BTg==;EB8iZj90GZVRL3Lg0GJzNg=="
 ---
 

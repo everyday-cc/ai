@@ -65,6 +65,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI in fintech: 4 ways AI impacts on financial industry"
+    excerpt: "A remarkable milestone in fintech has become the deployment of artificial intelligence algorithms, a potential game changer that has revolutionized the financial industry in many ways. The benefits AI brings are huge: this smart tech reduces unnecessary expenses,"
+    publishedDateTime: 2022-12-15T14:53:00Z
+    webUrl: "https://www.finextra.com/blogposting/23418/ai-in-fintech-4-ways-ai-impacts-on-financial-industry"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "5b+Mur/WUEV17wJ0nBjvGZbEYZaq1bgMn2ZScXB0uQe1fiPvOW6JIIWG4itvVhYXt1SouJFGRSSRMV5fhU0WNeVhsOSNynNq8IzP/K+X8Xu3nj4fnHaxOoRHlzAixjok4LnKSUZbf3BpJXDU9Skx1IM8sqsiKT7MfoAn49bnKyOo5bxXG/7ICYhmM7oS95PO7A6MiQ3AGJ0IB+AtPaFlhYkfrFTKAiK+CMdh1zYUwbnel62whek54EXniQJgFAvhdYJhf3WnbAqpq5KOPYLTC3rGczoB3IVIuhi5I0tqcAiEoyab1U4VEjKZiRSKL5Y8vPYeQW3BrhqwLSsYEFJ/XLwyBK93iiCWV4p0hAF3+kCRJ2xg+X/xWXABtEJ7Ic8iWQXfeJ848SvhRtwW66GI1Ve2MVoibrbYc1gNn59vQNXR4MuKhHPutf6m7uCR7jWQU+YrMkSly3Dr38m+eQ8+uDTTSlTqchqdHO5OHkDYCH5VDqnNN81Viu0tXOh+UvJIYWrdnFcwfHvNm00QNuSnUQ==;gRhhOTtKNevyRImtOVyHDA=="
 ---

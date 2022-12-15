@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-15T14:44:00Z
 originalUrl: "https://www.straitstimes.com/world/united-states/us-president-biden-to-blacklist-chinas-ymtc-crackdown-on-ai-chip-sector"
 webUrl: "https://www.straitstimes.com/world/united-states/us-president-biden-to-blacklist-chinas-ymtc-crackdown-on-ai-chip-sector"
 type: article
+quality: 34
+heat: -1
+published: false
 
 provider:
   name: The Straits Times
@@ -14,6 +17,54 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "US Blacklists China's Chipmaker Firm, Crackdowns On AI Chip Sector"
+    excerpt: "The Biden administration on Thursday plans to add Chinese memory chipmaker YMTC and 21 \"major\" Chinese players in the artificial intelligence chip industry to a trade blacklist."
+    publishedDateTime: 2022-12-15T15:16:00Z
+    webUrl: "https://www.ndtv.com/world-news/us-blacklists-chinas-chipmaker-firm-ymtc-crackdowns-on-ai-chip-sector-3610429"
+    ampWebUrl: "https://www.ndtv.com/world-news/us-blacklists-chinas-chipmaker-firm-ymtc-crackdowns-on-ai-chip-sector-3610429/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/us-blacklists-chinas-chipmaker-firm-ymtc-crackdowns-on-ai-chip-sector-3610429/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 74
+    images:
+      - url: "https://c.ndtvimg.com/2022-12/otkls578_chip-generic-istock_625x300_15_December_22.jpg"
+        width: 650
+        height: 400
+        isCached: true
+  - title: "(OFFICIAL)-UPDATE 1-Biden blacklists China's YMTC, crackdowns on AI chip sector"
+    excerpt: "As the Chinese government seeks to remove barriers between its military and civilian sectors, \"U.S. national security interests require that we act decisively to deny access to advanced technologies,” Assistant Secretary of Commerce for Export Administration Thea Kendler said in a statement."
+    publishedDateTime: 2022-12-15T15:35:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2287772-official-update-1-biden-blacklists-chinas-ymtc-crackdowns-on-ai-chip-sector"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2287772-official-update-1-biden-blacklists-chinas-ymtc-crackdowns-on-ai-chip-sector?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2287772-official-update-1-biden-blacklists-chinas-ymtc-crackdowns-on-ai-chip-sector?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 70
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_00_20_7172535.jpg?width=1280"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Biden blacklists China's YMTC, cracks down on AI chip sector"
+    excerpt: "The Biden administration on Thursday added Chinese memory chipmaker YMTC and 21 \"major\" Chinese players in the artificial intelligence chip industry to a trade blacklist, broadening its crackdown on China's chip industry."
+    publishedDateTime: 2022-12-15T15:53:00Z
+    webUrl: "https://www.theedgemarkets.com/article/biden-blacklists-chinas-ymtc-cracks-down-ai-chip-sector"
+    type: article
+    provider:
+      name: The Edge
+      domain: theedgemarkets.com
+    quality: 54
+    images:
+      - url: "https://assets.theedgemarkets.com/ymtc-china-chip.jpg?mXGHesiIu4XfEWiPtC2BHNqzWxwydI4M"
+        width: 1202
+        height: 800
+        isCached: true
 
 secured: "UwLqPZ/xcSMV6Y3FE+k3gXiwmT2unWMCBAGlNJfcZrgJvnsOME22x8mdhoiHLMUJp8hG3xTb5GVBb+e+Jzb68mcvQ2Tk6rpSms6rrILluDIiGiW/dQ57aOJo0EYbYq+arjkMNleSRvqELLo/v9MxY6ONULkaPdBhB8KH8V04T4A150Ml2P+9rdUz0Y54NwBK1A40Ck178asL4Xdad5r2KarvjcL1ZWJ3BsLQ5zi5xG3Ed9WMG1gULs2u/RDiO/XQ2buP6z9MRfhyBDqNNop/oIV2AABhFg0rzPmcfJqeD5R9ZH0ybtEjZ0YzhlkjXPinmjm2Qs+ftgxyPtI2H8/K5dG7BnyrfCn59ZvoHTDZj2Y=;2vVCiGUNG+GOQtEWljtZZQ=="
 ---

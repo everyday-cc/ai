@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-15T13:21:00Z
 originalUrl: "https://www.defensenews.com/artificial-intelligence/2022/12/15/coming-soon-dias-new-strategy-for-ai-readiness/"
 webUrl: "https://www.defensenews.com/artificial-intelligence/2022/12/15/coming-soon-dias-new-strategy-for-ai-readiness/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Defense News

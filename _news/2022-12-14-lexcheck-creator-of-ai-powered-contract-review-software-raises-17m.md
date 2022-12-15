@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2022/12/14/lexcheck-creator-ai-powered-co
 webUrl: "https://siliconangle.com/2022/12/14/lexcheck-creator-ai-powered-contract-review-software-raises-17m/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1500
     height: 1000
     isCached: true
+
+related:
+  - title: "AI-powered contract review software developer LexCheck raises USD 17M"
+    excerpt: "LexCheck Inc., a contract intelligence and acceleration startup powered by artificial intelligence, announced today that it is ready"
+    publishedDateTime: 2022-12-15T15:13:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/ai-powered-contract-review-software-developer-lexcheck-raises-usd-17m/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/ai-powered-contract-review-software-developer-lexcheck-raises-usd-17m/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ai-powered-contract-review-software-developer-lexcheck-raises-usd-17m/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/12/AI-powered-contract-review-software-developer-LexCheck-raises-USD-17M.jpg"
+        width: 700
+        height: 400
+        isCached: true
 
 secured: "Fj83z19usDqwrBj9rqzSSxcoFRhTLjtO4OB6GthQEQ0VLGxAobEHuXRlUgeQOlbAmU/jTf52NP9t6OyEPScIePbGhSiwBixahTnQLfWk+rGNB+HO61A6BSfP0uQrQZ+seTmiBjNNXKpn+GXD7XWIzuepMq61nH6OSFD+RDhIVltylRieTff3diXJ/3MY0CTI92aPCEAPZjJEnCu6AArRk7QUUrUYmkkZoWz9AHXwtDUwrP7k2+OaaTA5Oo7d2PXcPwBiwZfsovmCANOAQABYg0ge7rUT8I2TCK39B7OxTQy84jrrcd5lCDQuPrjanES1uBXewzQpjJkfOBN3QSLp2uKZ9DO0GVxjiOO6i01K/0A=;BTs8Bp9i6G4fOs7uTycjzA=="
 ---

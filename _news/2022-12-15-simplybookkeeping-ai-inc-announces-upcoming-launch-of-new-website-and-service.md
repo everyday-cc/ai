@@ -6,8 +6,8 @@ publishedDateTime: 2022-12-15T07:31:00Z
 originalUrl: "https://apnews.com/article/business-artificial-intelligence-727b5bbefcd1a880dabff311bdb9f71f"
 webUrl: "https://apnews.com/article/business-artificial-intelligence-727b5bbefcd1a880dabff311bdb9f71f"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:

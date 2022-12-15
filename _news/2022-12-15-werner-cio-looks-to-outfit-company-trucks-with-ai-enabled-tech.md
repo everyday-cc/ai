@@ -5,7 +5,12 @@ excerpt: "The Omaha, Neb.-based company plans to install dashboard cameras with 
 publishedDateTime: 2022-12-15T11:59:00Z
 originalUrl: "https://www.wsj.com/articles/werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech-11671071051?mod=hp_minor_pos5"
 webUrl: "https://www.wsj.com/articles/werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech-11671071051?mod=hp_minor_pos5"
+ampWebUrl: "https://www.wsj.com/amp/articles/werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech-11671071051"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech-11671071051"
 type: article
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: Wall Street Journal
@@ -17,7 +22,14 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
-secured: "kSorMmfo5vA09hHEmkI0EuP964DPb/o9pZc443SGvxWFvM+7dbdLQr5cDu7+TrLc0JmqvYYrnQ96XwVzd6bMVHcrVf95edTNPuvZ+clcQPFXFopqyhS58PzOcyvBP5f+cTv8P74mLBdnz3wW23ze2+sjfQRs7WHfaCH2QzTshdMADF6Me1ZFFMQ6059IwjJPCwNgpiRlqmDFriHX8lg2qHeffkkcRBRYdY2MlMPD/TMsj70TgfgRrVaCJF1FuncU3nWTkqWQbw6bHSEs2/nzvFTwo+u5avnLCBawOXaqWGaK21ElFOMlpNFQYyv5l+zxr+fZuAQ+61+WVkaP2gYqzOCO2CoNebVsVyCOIp8D3+eYQvKfSF8V0VsTmpV9CA8ktET8SA9iN/S6NpceRP1u0ANT+maE+dYphux9hrAzlS/hIWNfC2zjOpBKmBFSBndLLsimQ32ratZoKDIMzKwo3gGu6pSBB1yV4drdbMN9ApZEHHCWNXuiIMrAAEticJtcvYSb/UEjitn/uaOKPheBfg==;jQ0L+qARyKLHSluiP53Ezg=="
+images:
+  - url: "https://images.wsj.net/im-685993/social"
+    width: 1280
+    height: 640
+    isCached: true
+
+secured: "OlRNG8Sd8ZUrDlItPEKSwusFkFVm53fYXGvwRusHMeQleiiJmmT0qm71risepoSN0ZI15uRnhMQRoRd0/68+Hugs2+bUmO8sm+Qled/V1kQqRCcZeJk48tk0vBDUSsfp6s9VmdfhG9Ksws+WUUiBRexkWcoRaLibWStt1Q/MOpJmovgUkbgPWcQiP4l5rJ9m03lAVRi1FBS8jcbuldKVIbiDYezu6enJe3ah85NoMBH2ky643SxOp8DCZIWkcpfFOH3TBrS9iKmq/r1AnaCYOaqAvymYB0VgM3l/rrIrHk2Gr2vF5KV1vXgO4CUdQqNGSLIFaJX+eItQ1Aict67+nhip6bE3V7XvypJ/J4DN0PQ=;bXamnPnA5hcxltEKcHZ3lg=="
 ---
 
