@@ -123,20 +123,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 42
-  - title: "Image Apps Like Lensa AI Are Sweeping the Internet, and Stealing From Artists"
-    excerpt: "Artists] are often in the position to justify our profession, and every time something like this comes… we feel angry, frustrated, and exhausted,” she said. “After everything that’s been going on, I mainly feel exhausted and powerless,"
-    publishedDateTime: 2022-12-10T07:42:00Z
-    webUrl: "https://www.thedailybeast.com/how-lensa-ai-and-image-generators-steal-from-artists"
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: thedailybeast.com
-    quality: 34
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1670618679/221209-robot-art-hero1_yz6st0"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "QtaX+cFO7q74dq0C1zqu8b4E9yr8OxJ7gxOJc1z3YGPeH7q4G6TDwe+nItm4GziCxby2wtfwZXHYdKbmgwINnAmZz/4gxVzIUt4DEw6UxicTKN93HzXcMrTEZR8a/akVYYMAejhSl0H0xbuLzhgX7zyNR/thA70UMc2iP3Dca11gts+nohRLm8vdCnppobvJ2fn8OWE9vFsWcBAFie5+Vu5ZuRLxYpf172Uvyeasrc74TBUyS7aZKvPSctudwlgtROLGm/YmiEQ4DOzhu5jNBy/BFNLpzWq7oB14gVPsBatlrLrMxcsZAtlmqw5OHhEKnpCZiykfB3gn5mUMzxxGVOKbYkgbXv23XoQvg8NXGkFUfIGpcy8V1n02/aoJhujTCLStBJ4tGYInK71aob8FSuq698NvGFis2xPuijKfdDgxikixn2THIVF/P3u1iTUIdWoxc6QPSWc4YWVYyQ1mYmAPpL1HUVBR0Lq1KYDdOzWYQ0XiZUEb3JUlt5sXluRGKw84WJV9V7VpGnAkzGXGNQ==;JlxhAYCx6L53aZGVtNp61g=="
 ---

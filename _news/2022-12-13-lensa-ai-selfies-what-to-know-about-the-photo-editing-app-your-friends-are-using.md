@@ -118,20 +118,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Image Apps Like Lensa AI Are Sweeping the Internet, and Stealing From Artists"
-    excerpt: "Artists] are often in the position to justify our profession, and every time something like this comes… we feel angry, frustrated, and exhausted,” she said. “After everything that’s been going on, I mainly feel exhausted and powerless,"
-    publishedDateTime: 2022-12-10T07:42:00Z
-    webUrl: "https://www.thedailybeast.com/how-lensa-ai-and-image-generators-steal-from-artists"
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: thedailybeast.com
-    quality: 34
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1670618679/221209-robot-art-hero1_yz6st0"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Lensa’s AI Avatars Made Me Hot and It’s the Confidence Boost I Needed"
     excerpt: "If you follow tech news regularly, you’ve likely heard about Lensa and its AI-powered Magic Avatars. Put real simply, you give the AI ten to twenty selfies/photos of you and then it returns a group of avatars for you to use wherever or however you’d like."
     publishedDateTime: 2022-12-13T18:56:00Z

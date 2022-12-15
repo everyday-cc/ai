@@ -9,7 +9,7 @@ ampWebUrl: "https://thewest.com.au/business/top-tech-brains-to-shape-robotics-st
 cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/business/top-tech-brains-to-shape-robotics-strategy-c-9143460.amp"
 type: article
 quality: 89
-heat: 91
+heat: 89
 published: true
 
 provider:

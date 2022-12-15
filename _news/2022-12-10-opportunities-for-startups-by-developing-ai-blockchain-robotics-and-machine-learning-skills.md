@@ -5,6 +5,8 @@ excerpt: "We are living in an era where everything around us is tech-centered. I
 publishedDateTime: 2022-12-10T07:03:00Z
 originalUrl: "https://www.financialexpress.com/blockchain/opportunities-for-startups-by-developing-ai-blockchain-robotics-and-machine-learning-skills/2908122/"
 webUrl: "https://www.financialexpress.com/blockchain/opportunities-for-startups-by-developing-ai-blockchain-robotics-and-machine-learning-skills/2908122/"
+ampWebUrl: "https://www.financialexpress.com/blockchain/opportunities-for-startups-by-developing-ai-blockchain-robotics-and-machine-learning-skills/2908122/lite/"
+cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/blockchain/opportunities-for-startups-by-developing-ai-blockchain-robotics-and-machine-learning-skills/2908122/lite/"
 type: article
 quality: 54
 heat: 54
@@ -18,7 +20,14 @@ topics:
   - AI in Robotics
   - AI
   - Machine Learning
+  - AI in Finance
 
-secured: "eC4XThRtNSaKlGeHKG6GoUkT5gZL3cWE0h8AGMAvTP08bWzC8AESdLfkwYGmI0n2w7qXjgW7wUjWUvkhQod8V+ONZh12kQF+/dyDwMJz0p5zQ0jAVHTPuURBAr7jcQNFq2/Y5aSMdyGkxtCp5cpf8Rxlk9QQK6bN3LtRhA7D6OzDFmREK9cJuPvUl0/g3lKUWUWP7d0YP6HivspbOTUWcJDrocK0eH5aeONw4+WNzxQAsqOjs14swiXcwEGgqkTvfS57Xw828On1LU1VNDdGGj5Y6lRfhUlkELg2Udj3dPCFj4f+Io++eKKnX1YaYlKM6pxBreN1uV+0i1c9nYLlF5t1zE8maE7KBGXS8y4zLbmWvYjaFivP2xv2K9B+hc0mO5KBYO8Npwjfm5MteO+R/Lqca1l+MVm7s8vYXl+xg3Ka4HZ/5Oy7aK6JXLNh0guC7hCYsJUW9TULJ420zHxDt3pEYNgXjkSdg+UF6YOCsuTXdC+3uGsj+vLECQ7wPJB4b1UIXAi4fFDyq5coGV0LEQ==;8pDlyM/wQ8pyN3KPGoR1Zw=="
+images:
+  - url: "https://www.financialexpress.com/wp-content/uploads/2022/11/Blockchain-Bitcoin-big-620x400-2.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "IyVuvXypSVfhtx/btgXV2ggmIZAra2cY/Me29xM/ma99EgYUnWE/u6s05/yAyxnlob4hfK18Jc9i7xGA9eCAYCQyPBunuRKQ997fsU9YnXo7xCgdI378EwGc7lraXthWlHV3jbYwTPQB46ymJeol5uXXvJ+/iR/N0k93Gl1IGUoB3cH4lE0Lm1IxgAlTsEQF99O3xx8sHmxq1J2s5u+xYXFl2Y5hiwnsY5/qrLtuEWotDDxx1jk1NJXUX94ojcOiPOVmQt+MdtMX7mTql0ytDkkWOC8FCiZf6XR6yBDZRyRWxZnPAFhR78lG8SANebK66Xwj+e5l0584MFCrkj4ApR9aNHfvf1Wqn5G7b8Fhyxs=;hm4/kXKos7WPPYGqDOx33g=="
 ---
 

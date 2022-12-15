@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/china-wants-legal-sector-to
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/china-wants-legal-sector-to-be-ai-powered-by-2025/"
 type: article
 quality: 91
-heat: 103
+heat: 101
 published: true
 
 provider:
