@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-15T19:24:00Z
 originalUrl: "https://www.forbes.com/sites/forrester/2022/12/15/enterprises-beware-of-coherent-nonsense-when-implementing-generative-ai/"
 webUrl: "https://www.forbes.com/sites/forrester/2022/12/15/enterprises-beware-of-coherent-nonsense-when-implementing-generative-ai/"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: Forbes

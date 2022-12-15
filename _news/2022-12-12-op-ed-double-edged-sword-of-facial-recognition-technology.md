@@ -25,6 +25,17 @@ images:
     height: 315
     isCached: true
 
+related:
+  - title: "Facial Recognition Technology Scans Your Ear"
+    excerpt: "University of Georgia (UGA) scientists have created an ear recognition system that can authenticate individuals with up to 97.25% accuracy."
+    publishedDateTime: 2022-12-12T17:55:00Z
+    webUrl: "https://cacm.acm.org/news/267660-facial-recognition-technology-scans-your-ear/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
+
 secured: "JSYcG9b/S1vbwWxzQX+h3mVqFINjfcSWoWXOmbCBS1/szZRadnlB1Vjwcvw2CmmFbenvttYJMoK7GRdr3KwH/hj3NKXMTnXq5XrQgCSDwAO/182GjUsy4O463Fyu+l7lbIsWGSgfJPztwWtM3q2Zd7KS4jvTWhzWHl+EYvni3EZv3iSVDIcVfT8A9ZDsUppmNVZu0eZ/PVA+VT8f6VhV4aEoHztgafohcRTLtMAaBWh7KjJ+HwXky0fZzKJHSScINHYmzYWaV80+GwqIrMe1Jz+RtlVEkTOJ+iIgo2t+LAUDf/d0S8jlXBwqvif9Jqm1VEbz/K+ut0CXIMd5lj67hVxKghFFePWo/Tk2GIlM4eQ=;0b8CyUJZOVpFQpKreIPqjA=="
 ---
 

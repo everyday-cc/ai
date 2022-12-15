@@ -7,7 +7,7 @@ originalUrl: "https://telanganatoday.com/iiit-hyderabad-launches-ug-engineering-
 webUrl: "https://telanganatoday.com/iiit-hyderabad-launches-ug-engineering-programme-in-modern-machine-learning"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "IIIT-H launches UG engineering programme in modern Machine Learning"
+    excerpt: "Hyderabad: Learning is pervading into a multitude of disciplines in engineering and technology. There is a growing need for the foundations of this discipline to be imbibed early on, at undergraduate level in engineering itself,"
+    publishedDateTime: 2022-12-15T19:32:00Z
+    webUrl: "https://www.thehansindia.com/hans/young-hans/iiit-h-launches-ug-engineering-programme-in-modern-machine-learning-773561"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 19
   - title: "iHub-Data at IIIT Hyderabad Launches Minor UG Engineering Program in Modern Machine Learning"
     excerpt: "Data, the technology innovation hub established by IIIT Hyderabad, is embarking on a novel mission to assist technical institutions and universities (possessing academic autonomous status) for offering a BTech (minor) degree program in Modern Machine Learning from the academic year 2023 onwards."
     publishedDateTime: 2022-12-15T07:16:00Z

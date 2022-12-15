@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-15T20:13:00Z
 originalUrl: "https://www.automation.com/en-us/articles/december-2022/ai-reshaping-edge-computing-landscape"
 webUrl: "https://www.automation.com/en-us/articles/december-2022/ai-reshaping-edge-computing-landscape"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Automation

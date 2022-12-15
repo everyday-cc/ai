@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-15T19:10:00Z
 originalUrl: "https://news.crunchbase.com/ai-robotics/venture-funding-startups-openai/"
 webUrl: "https://news.crunchbase.com/ai-robotics/venture-funding-startups-openai/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: news.crunchbase

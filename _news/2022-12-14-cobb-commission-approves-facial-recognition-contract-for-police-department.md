@@ -41,6 +41,20 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Genesis launches face recognition for cars"
+    excerpt: "Come to CAR magazine to find out more about the new keyless entry facial recognition technology launching in 2023 on the updated Genesis GV60 electric SUV"
+    publishedDateTime: 2022-12-13T18:30:00Z
+    webUrl: "https://www.carmagazine.co.uk/car-news/tech/facial-recognition-key/"
+    type: article
+    provider:
+      name: CAR Magazine
+      domain: carmagazine.co.uk
+    quality: 39
+    images:
+      - url: "https://car-images.bauersecure.com/wp-images/158633/092-genesis-car-face-recognition-reflected-face-indicator.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "Cobb County Police will use facial recognition tech to help identify suspects"
     excerpt: "After an extended debate, the Cobb County Board of Commissioners approved a contract with tech company Clearview AI to allow the police department to use their facial recognition software as a crime-fighting tool."
     publishedDateTime: 2022-12-14T12:47:00Z

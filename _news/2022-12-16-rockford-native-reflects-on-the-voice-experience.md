@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-15T20:39:00Z
 originalUrl: "https://www.fox17online.com/fox-17-unfiltered/rockford-native-reflects-on-the-voice-experience"
 webUrl: "https://www.fox17online.com/fox-17-unfiltered/rockford-native-reflects-on-the-voice-experience"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: fox17online

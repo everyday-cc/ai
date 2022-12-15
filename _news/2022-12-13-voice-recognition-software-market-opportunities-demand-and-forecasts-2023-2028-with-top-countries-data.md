@@ -150,6 +150,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Manufacturing Forecast for 2028, Market 2023, Global Industry Trends, Share, Size, Growth, Analysis, Demand"
+    excerpt: "Artificial Intelligence in Manufacturing Market 2023-2028 | Pre and Post-COVID Research is Covered, Report Information"
+    publishedDateTime: 2022-12-15T05:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-forecast-for-2028-market-2023-global-industry-trends-share-size-growth-analysis-demand-2022-12-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
 
 secured: "odKggIg8IoGyrAVFb2whAUo5m6bU7Gc1g2x1rvQYIxcuLcT6QTXPZ0q1PlJ0TFfegbmO0W+irkzM8oDkNhaoCjTvPNwpzM1XnuI56HnpRkHrwLbwB9RZ7Awtk5oqEiqmYFcMEd8EzooAbssuIw+45slgLTZ2lym7flcS/D+j4Rz+tjSwgQQYwGqXZqGLeTw58/huLgdrSVEzqoVUN8QVsfycXqiHuNf5mLQuyABoBJVKwSv4J3LLhxRoIQ9Ffd095xQj4XkhaXp9YbRYgEwYZAXlm6t44EFeHax5etwo/rSeZ2EmPAC0zzKVKDMi/tmdy9Ig1Owch+2iIoZIOOXgndP4k+kOMjIvIG9P5CUwblw=;9u0hj+0I4t0zADvjAz5osg=="
 ---

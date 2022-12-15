@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-15T19:16:00Z
 originalUrl: "https://phys.org/news/2022-12-hot-salt-energy-artificial-intelligence.html"
 webUrl: "https://phys.org/news/2022-12-hot-salt-energy-artificial-intelligence.html"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: Phys.org

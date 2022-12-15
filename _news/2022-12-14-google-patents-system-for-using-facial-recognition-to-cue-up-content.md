@@ -20,52 +20,6 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Facial recognition attendance for teachers, students in state"
-    excerpt: "Uttar Pradesh government has rolled out a facial recognition-based teacher and student attendance monitoring system for public schools in the state."
-    publishedDateTime: 2022-12-11T03:09:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/lucknow/facial-recognition-attendance-for-teachers-students-in-state/articleshow/96143984.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/lucknow/facial-recognition-attendance-for-teachers-students-in-state/amp_articleshow/96143984.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/lucknow/facial-recognition-attendance-for-teachers-students-in-state/amp_articleshow/96143984.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1070
-        height: 579
-        isCached: true
-  - title: "Uttar Pradesh to start marking school attendance using facial recognition"
-    excerpt: "Uttar Pradesh government has started a facial recognition-based teacher and student attendance monitoring system for the public schools in the state. The artificial"
-    publishedDateTime: 2022-12-11T04:10:00Z
-    webUrl: "https://www.businessinsider.in/india/news/uttar-pradesh-to-start-marking-school-attendance-using-facial-recognition/articleshow/96145648.cms"
-    ampWebUrl: "https://www.businessinsider.in/india/news/uttar-pradesh-to-start-marking-school-attendance-using-facial-recognition/amp_articleshow/96145648.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/india/news/uttar-pradesh-to-start-marking-school-attendance-using-facial-recognition/amp_articleshow/96145648.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 58
-    images:
-      - url: "https://www.businessinsider.in/thumb/96145715.cms?height=275&width=412"
-        width: 412
-        height: 275
-        isCached: true
-  - title: "Facial Recognition To Mark School Attendance In UP"
-    excerpt: "Uttar Pradesh government has started a facial recognition-based teacher and student attendance monitoring system for the p"
-    publishedDateTime: 2022-12-11T04:04:00Z
-    webUrl: "https://menafn.com/1105294130/Facial-Recognition-To-Mark-School-Attendance-In-UP"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?104280"
-        width: 340
-        height: 249
-        isCached: true
   - title: "Apple granted patent for ‘on-the-fly’ enrollment for facial recognition"
     excerpt: "Apple has been granted a patent (number 11527107) for “on-the-fly enrollment for facial recognition” It involves system updates for the company’s various devices that would automatically update Face ID features."
     publishedDateTime: 2022-12-13T14:46:00Z
@@ -77,38 +31,6 @@ related:
       name: MacTech
       domain: mactech.com
     quality: 39
-  - title: "Genesis launches face recognition for cars"
-    excerpt: "Come to CAR magazine to find out more about the new keyless entry facial recognition technology launching in 2023 on the updated Genesis GV60 electric SUV"
-    publishedDateTime: 2022-12-13T18:30:00Z
-    webUrl: "https://www.carmagazine.co.uk/car-news/tech/facial-recognition-key/"
-    type: article
-    provider:
-      name: CAR Magazine
-      domain: carmagazine.co.uk
-    quality: 39
-    images:
-      - url: "https://car-images.bauersecure.com/wp-images/158633/092-genesis-car-face-recognition-reflected-face-indicator.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
-  - title: "Facial recognition to mark school attendance"
-    excerpt: "Uttar Pradesh government has started a facial recognition-based teacher and student attendance monitoring system for the public schools in the state."
-    publishedDateTime: 2022-12-11T19:09:00Z
-    webUrl: "https://www.thehansindia.com/hans/young-hans/facial-recognition-to-mark-school-attendance-772943"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 19
-  - title: "Facial Recognition Technology Scans Your Ear"
-    excerpt: "University of Georgia (UGA) scientists have created an ear recognition system that can authenticate individuals with up to 97.25% accuracy."
-    publishedDateTime: 2022-12-12T17:55:00Z
-    webUrl: "https://cacm.acm.org/news/267660-facial-recognition-technology-scans-your-ear/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
 
 secured: "Q4Ojdtj3i1NgBuhwOqdnMO/A/Csm71q1ZJRuTxTNxP/VNbfeLq6ZTQZDTnirJDpPN9ROrmzLWYWUdWTaJKcat2pl4jTrMCPQr1X1BZYldz6CZMvTWYUqtarRgh4BGzVzJbS5UCYxthzL7vgjskgTZ9owYTF+NNBMNitV5my7kJQ19xE7SoVssTFbX8e9qc3YYHuTS+hnKD4e9YHF0BWF/Uy3/Qlcijo97d7oh22CoYbfrTU+8qWDD8Z/wZOt5MPg77YBHyPjLXNNIDBrI+AoCFBz7YNXXAaEhXWMx+FCBS7cjWc3JHngkHEw+qKlMJa2XA79bc8oJ17jE4Ga7JzlzfAFmGy4ipuWF2bUWiIt9jTyNpWqhU9G65Htn7i/bSZwP5CApuOmpN7sJ5PWS9i5mgB0+YogO4WRddPkXYApJ1so2dX+Hdjap9Bxbd68SWhlawR3e7sSo+khXs+4APDtnTIpjz02LnIGi6tDX7rtMHxYQz8rW5A5Pd9ZKOqmxx3/tmWZfnqcaTxn/PcguMtt8A==;k/zYBNNAQ/sshL2mDJKn0w=="
 ---

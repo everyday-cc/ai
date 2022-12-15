@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-ma
 webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-2022-12-12"
 type: article
 quality: 71
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -151,6 +151,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Manufacturing Forecast for 2028, Market 2023, Global Industry Trends, Share, Size, Growth, Analysis, Demand"
+    excerpt: "Artificial Intelligence in Manufacturing Market 2023-2028 | Pre and Post-COVID Research is Covered, Report Information"
+    publishedDateTime: 2022-12-15T05:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-forecast-for-2028-market-2023-global-industry-trends-share-size-growth-analysis-demand-2022-12-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
 
 secured: "htQPhVyTkiA82Np5i4amcbOtNtIDAFc52ySMUbOILqzKPed6VcoTd5W/Qqbp/L76gVIu2DeGzgLwSIzEf/7fkjYWj8YzaYfNz0oXMoEFF9O46EFcCZJrMIjf4dIDDP5RLFSrrQhqxnxTPNBo6Uu9FuXR+3q7mO1Phy6Iyil/cjP3H7A9SiAMzdz9KFov7s4leNGbP81QDLyPotXo3abSgP6ohHItkCJmgFUuxv5X1RZR9HyAI59FyrKw/EviazV7jUGV9fNvZ6le5ufSAPp9JeEEJ9UalRJA7l2CEy9Q7p71mNnXxTBNOL60HDYU7WilaIAoMWxw8lKiQRziWOGZjtpCCXNZFd+OZBzmF8JhR8E=;vvVRr53Jx46FO9FtaV+Vwg=="
 ---

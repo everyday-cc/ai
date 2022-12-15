@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "IIIT-H launches UG engineering programme in modern Machine Learning"
+    excerpt: "Hyderabad: Learning is pervading into a multitude of disciplines in engineering and technology. There is a growing need for the foundations of this discipline to be imbibed early on, at undergraduate level in engineering itself,"
+    publishedDateTime: 2022-12-15T19:32:00Z
+    webUrl: "https://www.thehansindia.com/hans/young-hans/iiit-h-launches-ug-engineering-programme-in-modern-machine-learning-773561"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 19
   - title: "IIIT-Hyderabad launches UG engineering programme in modern Machine Learning"
     excerpt: "The course is currently offered via iHub-Data to Indian UG students pursuing a career in engineering, the IIIT-Hyderabad said."
     publishedDateTime: 2022-12-15T13:10:00Z

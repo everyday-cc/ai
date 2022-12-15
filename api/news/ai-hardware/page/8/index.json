@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-09-15-axiomtek-launches-edge-computer-with-dual-gpu-expansion-for-ai-accelerated-processing-ipc972.md",
+      "title": "Axiomtek Launches Edge Computer with Dual GPU Expansion for AI Accelerated Processing - IPC972",
+      "excerpt": "Axiomtek - a world-renowned leader relentlessly devoted in the research, development, and manufacturing of innovative and reliable industrial computer products of high efficiency – is proud to introduce the IPC972,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/axiomtek-launches-edge-computer-with-dual-gpu-expansion-for-ai-accelerated-processing-ipc972-1031744564",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/axiomtek-launches-edge-computer-with-dual-gpu-expansion-for-ai-accelerated-processing-ipc972-1031744564",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1899399/image_5019367_4377470.jpg",
+          "width": 400,
+          "height": 229,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T00:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-09-15-perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans.md",
       "title": "Perceptron: AI that lights up the moon, improvises grammar and teaches robots to walk like humans",
       "excerpt": "In this edition of Perceptron, TechCrunch's semiregular review of AI research, we take a look at cutting-edge robotics, moon-scanning tech, and more.",

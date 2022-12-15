@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2022/12/15/aws-microsoft-meta-tomtom-laun
 webUrl: "https://siliconangle.com/2022/12/15/aws-microsoft-meta-tomtom-launch-open-map-data-consortium/"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1000
     height: 563
     isCached: true
-
-related:
-  - title: "Microsoft Tech Community Blogs gets text to speech feature"
-    excerpt: "Microsoft has announced that it is making it easier for you to listen to your favorite Microsoft Tech Community Blog articles. The company is introducing a"
-    publishedDateTime: 2022-12-13T16:22:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-tech-community-blogs-gets-text-to-speech-feature"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 39
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2022/12/Untitled-design-3.jpg"
-        width: 1028
-        height: 768
-        isCached: true
 
 secured: "wfZtx0EqQa4uD5S8x+CRECGHfuqFdilF7N/l0B3ex7icns2et/iWiyUzyOWlmxyuQ29qP/dXt4sKQeBYjkdi1VL21f6KJ2kgVAOMUM9pp3DDyDPnPj/2hnuvr9UpDPmoqtfH5zGnOg/ViM7QMfec6KIAh7C79wHbwhFpX1silFtcwq72734r1zWxfiTKt0AZijRCxkkEqMe7MBhgKdi8Wcz3Zpl6klIYmIKRKkelfI5Y+e6yRzJ9nhHeRNPIWIWdFtTmnv+7lo1esS+8g38dOV3EYF00V1aaGfUA3Ti1GHoUs5x2kJ6sEi+pADaTmo8t6lu89C3YP1DrBrB/8+OZLrmPRhnU4wWsMXua4vIMi0P3rwYd/QmuvlUN4Fzb5BwPYbBhS42vly3wF/HLbaGWZPSsQ35LR8L96SxGwBjjbFMIvDgVJEfm33QvBeB+nD0x61/Cs6RgcWXbkxmOAsELqnH03iJmys1CgwwTZRhPIpbMRSD7tcR/A4nayqbacWJ/KgluQTK7tTg/v2EC5s5DSg==;ad0nshLgv6PDToDUAUr6XA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/public-safety/cobb-county-ga-approves-facial
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/cobb-county-ga-approves-facial-recognition-for-police?_amp=true"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Genesis launches face recognition for cars"
+    excerpt: "Come to CAR magazine to find out more about the new keyless entry facial recognition technology launching in 2023 on the updated Genesis GV60 electric SUV"
+    publishedDateTime: 2022-12-13T18:30:00Z
+    webUrl: "https://www.carmagazine.co.uk/car-news/tech/facial-recognition-key/"
+    type: article
+    provider:
+      name: CAR Magazine
+      domain: carmagazine.co.uk
+    quality: 39
+    images:
+      - url: "https://car-images.bauersecure.com/wp-images/158633/092-genesis-car-face-recognition-reflected-face-indicator.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "Cobb Commission approves facial recognition contract for police department"
     excerpt: "Cobb commissioners agreed Tuesday to allow the Cobb County Police Department to enter a three-year contract with Clearview AI — a company that has come under fire for data privacy concerns — to utilize its face recognition software and access its database of 20 billion images worldwide."
     publishedDateTime: 2022-12-14T12:00:00Z

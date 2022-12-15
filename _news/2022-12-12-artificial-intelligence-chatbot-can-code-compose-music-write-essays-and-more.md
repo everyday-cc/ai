@@ -67,21 +67,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Can the new AI tool ChatGPT replace human work? Judge for yourself"
-    excerpt: "A new artificial intelligence tool using natural language processing has captured the public's imagination, amassing more than a million users. Content Skip to Main Content Accessibility Help"
-    publishedDateTime: 2022-12-11T03:13:00Z
-    webUrl: "https://www.cbc.ca/news/business/chatgpt-artificial-intelligence-1.6681401"
-    ampWebUrl: "https://www.cbc.ca/amp/1.6681401"
-    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6681401"
+  - title: "Artificial intelligence chatbots continue to improve. How do they work?"
+    excerpt: "AI chatbots are a software application used to have a conversation that can take on the role of a live human, using technology."
+    publishedDateTime: 2022-12-15T19:51:00Z
+    webUrl: "https://www.wcpo.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work"
+    ampWebUrl: "https://www.wcpo.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work?_amp=true"
+    cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work?_amp=true"
     type: article
     provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 59
+      name: WCPO Cincinnati
+      domain: wcpo.com
+    quality: 57
     images:
-      - url: "https://i.cbc.ca/1.6681410.1670642154!/fileImage/httpImage/image.jpg_gen/derivatives/original_620/chatgpt.jpg"
-        width: 620
-        height: 349
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/fd0738b/2147483647/strip/true/crop/3360x1890+0+175/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F0f%2F48%2F1692e0d8492a82d486bd8f7c4435%2Fap22278412101213.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "ChatGPT has mastered the confidence trick, and that's a terrible look for AI"
     excerpt: "ChatGPT appears disarmingly frank about its flaws if you ask it outright. Say you're a lazy journalist who asks it to \"produce a column about ChatGPT's mistakes when writing code.\" \"As a large language model trained by OpenAI,"

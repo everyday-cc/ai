@@ -41,20 +41,6 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "SymphonyAI's Sensa financial crime prevention solution to be available in Microsoft Azure Marketplace"
-    excerpt: "Sensa joins SymphonyAI NetReveal for transaction filtering and sanctions screening, along with three other SymphonyAI vertical solution areas — manufacturing, retail, and IT service management — already available in the Azure Marketplace."
-    publishedDateTime: 2022-12-12T16:00:00Z
-    webUrl: "https://www.securityinfowatch.com/cybersecurity/information-security/press-release/21289708/symphony-ai-symphonyais-sensa-financial-crime-prevention-solution-to-be-available-in-microsoft-azure-marketplace"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 54
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/12/SymphonyAI.63974c7b0c466.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "SymphonyAI’s Sensa financial crime prevention solution is now available on Microsoft Azure Marketplace"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2022-12-13T07:12:00Z
@@ -92,15 +78,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "NTT DATA Launches Energy Efficiency and Sustainability Solution with e-Magic on Microsoft Azure"
-    excerpt: "The end-to-end solution utilizes Azure digital twin technology to reduce carbon footprint and increase efficiency NTT DATA, a global digital business and IT services leader, today announced an end-to-"
-    publishedDateTime: 2022-12-13T13:06:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/12/b30058907/ntt-data-launches-energy-efficiency-and-sustainability-solution-with-e-magic-on-microsoft-azure"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
 
 secured: "cqc5HOb/GXw9S4JcPDtY4FqSqloAr31FYUhNu9JgTvyesNwk7p2CGed3fW/a+Sb1zHR80QikBbjKFnKVDm5+KGyQU5NqdGGFMy0sqQbb/Da3V/Hj0jXhlU/9QvK821EECmmD+kTdot4TdEjYhx/kfpG5LmVgx9Fid4IpOiaviz07sQ087xz1zpMSaWV8zjS+JB+wiz4eFHhw7YRZuOs/vfsRXWYvSiaHfNeUg8cQkrYg4r6QZ9PnfxOUieczgfeSTMYmlyIAzmJy8X64CwWPWvgFR1Y/bIf+rlVLY+bn5ujk3Q/ySiECJAU9ijzmz83X1wmP8ib+eKeu9buA4cK4LDvp9MznAvjue/YbF0j/kHBCT1JsraNgGRNd4l14rBU6sV44vrqzJRqCR4H6zK8199GGGL6LTx+c3qfbSVN4dWZUoa6xMFrkCCaUhsIDvCPCtaV8nVHg27u04sdCdN6X1m/xKZO5U2R9s5zLgFcoIgTE0v9GcXYVLhRjINtAE8UdAEWpQT6tDmdqOlVxPc5Zbw==;jkj9gUehaqdGhWioS1Q7RA=="
 ---

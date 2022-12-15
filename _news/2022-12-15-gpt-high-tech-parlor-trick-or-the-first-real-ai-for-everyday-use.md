@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-15T07:00:00Z
 originalUrl: "https://www.computerworld.com/article/3683209/gpt-high-tech-parlor-trick-or-first-real-ai-for-everyday-use.html"
 webUrl: "https://www.computerworld.com/article/3683209/gpt-high-tech-parlor-trick-or-first-real-ai-for-everyday-use.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Computerworld

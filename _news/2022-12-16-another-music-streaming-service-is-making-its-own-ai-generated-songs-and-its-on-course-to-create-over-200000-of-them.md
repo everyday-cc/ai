@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-15T19:01:00Z
 originalUrl: "https://www.musicbusinessworldwide.com/another-music-streaming-service-is-releasing-its-own-ai-generated-songs-and-its-on-course-to-host-over-200000-of-them/"
 webUrl: "https://www.musicbusinessworldwide.com/another-music-streaming-service-is-releasing-its-own-ai-generated-songs-and-its-on-course-to-host-over-200000-of-them/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Spotify

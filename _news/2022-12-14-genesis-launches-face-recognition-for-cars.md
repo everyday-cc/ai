@@ -25,90 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition attendance for teachers, students in state"
-    excerpt: "Uttar Pradesh government has rolled out a facial recognition-based teacher and student attendance monitoring system for public schools in the state."
-    publishedDateTime: 2022-12-11T03:09:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/lucknow/facial-recognition-attendance-for-teachers-students-in-state/articleshow/96143984.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/lucknow/facial-recognition-attendance-for-teachers-students-in-state/amp_articleshow/96143984.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/lucknow/facial-recognition-attendance-for-teachers-students-in-state/amp_articleshow/96143984.cms"
+  - title: "Cobb County, Ga., Approves Facial Recognition for Police"
+    excerpt: "Cobb commissioners agreed to allow the county police to enter a three-year contract with Clearview AI — a company that has come under fire for data privacy — to utilize its face recognition software."
+    publishedDateTime: 2022-12-14T17:37:00Z
+    webUrl: "https://www.govtech.com/public-safety/cobb-county-ga-approves-facial-recognition-for-police"
+    ampWebUrl: "https://www.govtech.com/public-safety/cobb-county-ga-approves-facial-recognition-for-police?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/cobb-county-ga-approves-facial-recognition-for-police?_amp=true"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
+      name: Government Technology
+      domain: govtech.com
     quality: 59
     images:
-      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1070
-        height: 579
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/49e944a/2147483647/strip/true/crop/940x490+0+82/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F29%2F48%2Fbaa77fdd2c0d5e2e1b638358070a%2Fshutterstock-797603911.jpg"
+        width: 840
+        height: 438
         isCached: true
-  - title: "Uttar Pradesh to start marking school attendance using facial recognition"
-    excerpt: "Uttar Pradesh government has started a facial recognition-based teacher and student attendance monitoring system for the public schools in the state. The artificial"
-    publishedDateTime: 2022-12-11T04:10:00Z
-    webUrl: "https://www.businessinsider.in/india/news/uttar-pradesh-to-start-marking-school-attendance-using-facial-recognition/articleshow/96145648.cms"
-    ampWebUrl: "https://www.businessinsider.in/india/news/uttar-pradesh-to-start-marking-school-attendance-using-facial-recognition/amp_articleshow/96145648.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/india/news/uttar-pradesh-to-start-marking-school-attendance-using-facial-recognition/amp_articleshow/96145648.cms"
+  - title: "Cobb Commission approves facial recognition contract for police department"
+    excerpt: "Cobb commissioners agreed Tuesday to allow the Cobb County Police Department to enter a three-year contract with Clearview AI — a company that has come under fire for data privacy concerns — to utilize its face recognition software and access its database of 20 billion images worldwide."
+    publishedDateTime: 2022-12-14T12:00:00Z
+    webUrl: "https://www.ajc.com/news/cobb-commission-approves-facial-recognition-contract-for-police-department/TROFRAPC7BDOPIOGL7OLV3D77I/?ecmp=cobbco"
     type: article
     provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 58
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 37
     images:
-      - url: "https://www.businessinsider.in/thumb/96145715.cms?height=275&width=412"
-        width: 412
-        height: 275
+      - url: "https://www.ajc.com/resizer/0RRtRxGcwl1SWh2sGVsT4rvNuXo=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/PILQVBAXRJAMJMLSIOGISKJE7I.jpeg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Facial Recognition To Mark School Attendance In UP"
-    excerpt: "Uttar Pradesh government has started a facial recognition-based teacher and student attendance monitoring system for the p"
-    publishedDateTime: 2022-12-11T04:04:00Z
-    webUrl: "https://menafn.com/1105294130/Facial-Recognition-To-Mark-School-Attendance-In-UP"
+  - title: "Cobb County Police will use facial recognition tech to help identify suspects"
+    excerpt: "After an extended debate, the Cobb County Board of Commissioners approved a contract with tech company Clearview AI to allow the police department to use their facial recognition software as a crime-fighting tool."
+    publishedDateTime: 2022-12-14T12:47:00Z
+    webUrl: "https://www.wsbradio.com/news/local/cobb-county-police-will-use-facial-recognition-tech-help-identify-suspects/ENQTNAAZUBGNDKHBU6BEHAO7JM/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?104280"
-        width: 340
-        height: 249
-        isCached: true
-  - title: "Apple granted patent for ‘on-the-fly’ enrollment for facial recognition"
-    excerpt: "Apple has been granted a patent (number 11527107) for “on-the-fly enrollment for facial recognition” It involves system updates for the company’s various devices that would automatically update Face ID features."
-    publishedDateTime: 2022-12-13T14:46:00Z
-    webUrl: "https://www.mactech.com/2022/12/13/apple-granted-patent-for-on-the-fly-enrollment-for-facial-recognition/"
-    ampWebUrl: "https://www.mactech.com/2022/12/13/apple-granted-patent-for-on-the-fly-enrollment-for-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2022/12/13/apple-granted-patent-for-on-the-fly-enrollment-for-facial-recognition/amp/"
-    type: article
-    provider:
-      name: MacTech
-      domain: mactech.com
-    quality: 39
-  - title: "Google Patents System for Using Facial Recognition to Cue Up Content"
-    excerpt: "Google patents a new system that will take advantage of facial recognition technology to present users with a choice of curated content."
-    publishedDateTime: 2022-12-13T20:48:00Z
-    webUrl: "https://gamerant.com/google-facial-recognition-system-patent/"
-    type: article
-    provider:
-      name: Game Rant
-      domain: gamerant.com
-    quality: 21
-  - title: "Facial recognition to mark school attendance"
-    excerpt: "Uttar Pradesh government has started a facial recognition-based teacher and student attendance monitoring system for the public schools in the state."
-    publishedDateTime: 2022-12-11T19:09:00Z
-    webUrl: "https://www.thehansindia.com/hans/young-hans/facial-recognition-to-mark-school-attendance-772943"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 19
-  - title: "Facial Recognition Technology Scans Your Ear"
-    excerpt: "University of Georgia (UGA) scientists have created an ear recognition system that can authenticate individuals with up to 97.25% accuracy."
-    publishedDateTime: 2022-12-12T17:55:00Z
-    webUrl: "https://cacm.acm.org/news/267660-facial-recognition-technology-scans-your-ear/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
+      name: WSB Radio
+      domain: wsbradio.com
+    quality: 16
 
 secured: "z66vQJqJPkzzUio3JrIfl2NnXC2ReJMkctCKu5XS5wLWVnjVomggItPFHZF//S0P//cSp9iKPnJe0zyXo9KJADf0vOU+JdkwgkJ+hrNvYaZccxnRPjNT/SPj/mmaBiKL6ZHbU2PkiANZ7zHC7VH6IODAvTYk12pfy1dvnPIsrNYD9BKorrNCIUstBQSRh0Vl9imRDpSM1Z8aAQLk3Duc+ofPblSJwVN7j6fPGgg9xdHOvvzUyh+QN79190IAM/GefoZL7Zw7yNhQYHTE4w+yuawmriw+C8izOz0SY6GJJ+S0z6vZWWPxbfcNTKdlkmM/G29O4TrVhtmCyAFfquk1UctvEypthGk2EL1c54OpHok=;nwNjBwH+wiGM/LP0VCAzsQ=="
 ---

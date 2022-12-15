@@ -3,8 +3,8 @@ category: news
 title: "‘It was a gateway for people to get into electronic music’: 30 years of Warp Records’ Artificial Intelligence"
 excerpt: "Taking cues from Detroit techno and showcasing Autechre and Aphex Twin, the famed compilation found hedonism in the wind-down. As it is reissued, famous fans from then and now explain why they love it"
 publishedDateTime: 2022-12-14T17:11:00Z
-originalUrl: "https://www.theguardian.com/music/2022/dec/14/warp-records-artificial-intelligence-aphex-twin-autechre"
-webUrl: "https://www.theguardian.com/music/2022/dec/14/warp-records-artificial-intelligence-aphex-twin-autechre"
+originalUrl: "https://www.theguardian.com/music/2022/dec/14/warp-records-artificial-intelligence-aphex-twin-autechre?amp;amp;amp"
+webUrl: "https://www.theguardian.com/music/2022/dec/14/warp-records-artificial-intelligence-aphex-twin-autechre?amp;amp;amp"
 ampWebUrl: "https://amp.theguardian.com/music/2022/dec/14/warp-records-artificial-intelligence-aphex-twin-autechre"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/music/2022/dec/14/warp-records-artificial-intelligence-aphex-twin-autechre"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "RbnUdUtAteE6koAVqYEuTNnm7JTiWQ1gkWYP9J8y/53vExKFz3QE1EaedvZmmAOo9S3JzI0hNafVvw2LG49V7EcqJExOofCo/O3btDhXAKnwFz6385gL+DBUH9O+7Sws5fSqR7mNKPN9sH8PjnvJZrc4fKtclbP7Nlc5q0Oo7Zs+CQR5bqzMevWzyFMJEQvCwQtQVJaZ+xsfFpKO21rZIrSTmhlLWr+oPAyH0/YklHqIhuL8SpMngrdC74skNp6pM+zw1lbhYZAB531fX5qGyV0Jn3fsij9say538mj14alTcayQr5yh1TU88jW+wBDWH0QV5VP023YxEUK4r0ZyVxQgdKwqkUnojsSOGOmiETyn3NwWqtMiK8w+rGGKEclRaktdJPZEDq1HXVKW4YC1OT/HMvQ3hLoliSyS90zEQhWkNpVU7zOQOxK6ajSjiNFy4jMXHwEYu0BNflZlm/KzRSZu+Ny9cX9KH+jLkrTEbXLCYU6+Ep7OhS2Is32QgAa/uVZX63wxcQCf8mb1xDkt9w==;Nx+Cs50J2++TuceUTfIh3g=="
+secured: "ZmZaAyQPD+vXkRomMWKGOb/KqycHQBI+jFotRJp9v95AoduWKEJpLN3dhyftOAqHTUSHSsHzFCy3JwjREmmvntWjCtS5DjD1plfCsk0/JD7NQ2xBTUNi3o9SXuInujW52xlNigdp7IozqhXXYxB+i6q7Df9/hBB2xnmq9TR4oHWJA1JTZPsMMxtp7QFgwHvTyZXqm2kfpa/zCEtY+3Lbm4/GPEgT44bnwrT68GZNaMry8iB1PpYq4yEKllF4TPT1n78rklXh3XkdX4EabZjV91Zu5xOVvp6mZ7so7k6u4EnRpttQt+1LizQufKxMjhg7j1NAGaJfRBSPph5guCFOBQL8ME9uH5U2uNB6xuSFSA0=;B5RVHgBzUqonBSAH5FBfTQ=="
 ---
 

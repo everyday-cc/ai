@@ -2,6 +2,40 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-09-19-user-clip-chinese-cognitive-warfare.md",
+      "title": "User Clip: Chinese “Cognitive” Warfare",
+      "excerpt": "User-Created Clip by bigxav September 19, 2022 2022-09-19T13:10:32-04:00https://images.c-span.org/Files/61c/002/1663607466_002.jpgHow our adversaries are brainwashing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.c-span.org/video/?c5031762/user-clip-chinese-cognitive-warfare",
+      "originalUrl": "https://www.c-span.org/video/?c5031762/user-clip-chinese-cognitive-warfare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "c-span",
+        "domain": "c-span.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-17-daily-multivitamin-may-slow-down-cognitive-decline-in-older-adults.md",
       "title": "Daily Multivitamin May Slow Down Cognitive Decline in Older Adults",
       "excerpt": "Daily multivitamins may slow down cognitive decline among older adults. The corresponding study was published in Alzheimer's & Dementia. The Alzheimer's Association states that there are 6.5 million Americans living with Alzheimer's disease and that 1 in 3 ...",
@@ -1261,49 +1295,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-cognitive-decline-tied-to-dental-health-monkeypox-and-the-brain-what-is-brain-fog.md",
-      "title": "Cognitive Decline Tied to Dental Health; Monkeypox and the Brain; What Is Brain Fog?",
-      "excerpt": "(Journal of the American Geriatrics Society) The 1-year incidence of cognitive decline was lower among long-term care residents in Canada during the COVID-19 pandemic than before it, which may be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/neurology/generalneurology/100688",
-      "originalUrl": "https://www.medpagetoday.com/neurology/generalneurology/100688",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.medpagetoday.net/media/images/100xxx/100688.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-12-bolstering-safety-self-driving-c
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-bolstering-safety-self-driving-cars-deep.amp"
 type: article
 quality: 50
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 40
+  - title: "Explaining the Sensor Suite in a Self-Driving Car"
+    excerpt: "In this video, a TI engineer at electronica 2022 explains the various sensors that are deployed in a vehicle in order for it to be able to drive itself."
+    publishedDateTime: 2022-12-15T22:24:00Z
+    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/video/21256346/electronic-design-explaining-the-sensor-suite-in-a-selfdriving-car"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 39
+    images:
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/12/TI_1.63989aac6d740.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Apple Ditching Innovation In Favor Of Pragmatism With MR Offering, Self-Driving Car, Gurman Says"
     excerpt: "Two products in Apple Inc.’s (NASDAQ: AAPL) pipeline have seen delays and a new report suggests that the company is compromising on innovation just to get these two p"
     publishedDateTime: 2022-12-12T11:03:00Z

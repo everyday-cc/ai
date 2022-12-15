@@ -2,6 +2,50 @@
   "page": 106,
   "value": [
     {
+      "path": "_news/2022-09-14-ubs-leverages-machine-learning-to-optimise-venue-selection.md",
+      "title": "UBS leverages machine learning to optimise venue selection",
+      "excerpt": "UBS has developed a state-of-the-art machine learning (ML) technique to search for patterns in data that skew the outcome of passive order placement on equities venues towards higher fill rates, lower information leakage, lower market impact and lower ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetradenews.com/thought-leadership/ubs-leverages-machine-learning-to-optimise-venue-selection/",
+      "originalUrl": "https://www.thetradenews.com/thought-leadership/ubs-leverages-machine-learning-to-optimise-venue-selection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thetradenews.com/wp-content/uploads/2022/06/LiT-2022-260x260-1.jpg",
+          "width": 260,
+          "height": 260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The TRADE",
+        "domain": "thetradenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-existential-catastrophe-caused-by-ai-is-likely-unavoidable-deepmind-researcher-warns.md",
       "title": "‘Existential catastrophe’ caused by AI is likely unavoidable, DeepMind researcher warns",
       "excerpt": "Researchers from the University of Oxford and Google’s artificial intelligence division DeepMind have claimed that there is a high probability of advanced forms of AI becoming “existentially ...",
@@ -1002,49 +1046,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-saudi-data-and-ai-authority-and-ministry-of-energy-partner-with-ibm.md",
-      "title": "Saudi Data and AI Authority and Ministry of Energy partner with IBM",
-      "excerpt": "This is the first use case as part of a strategic agreement with SDAIA & Ministry of Energy to partner with IBM to reduce carbon emissions across the country. The AI technology developed with IBM’s will enable the detection and management of Carbon ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/saudi-data-and-ai-authority-and-ministry-of-energy-partner-with-ibm-f53phycf",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/saudi-data-and-ai-authority-and-ministry-of-energy-partner-with-ibm-f53phycf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/version/c:MzRiYmNiMGMtZmEyMy00:NGM4NzMx/r6__8259-2-jpg.JPG?f=3%3A2",
-          "width": 860,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T01:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

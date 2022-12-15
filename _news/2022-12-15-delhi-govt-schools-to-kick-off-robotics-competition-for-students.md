@@ -91,6 +91,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Delhi govt schools to kick off robotics competition for students"
+    excerpt: "Robotics has emerged as a promising field in Education and NEP 2020 has given special emphasis on educational opportunities to learn Robotics and Artificial Intelligence"
+    publishedDateTime: 2022-12-15T19:29:00Z
+    webUrl: "https://www.thehansindia.com/hans/young-hans/delhi-govt-schools-to-kick-off-robotics-competition-for-students-773559"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 34
 
 secured: "RLL9fGyoqPhf4I/KBY3kv1RqvZTnexFpTcKOWVEk71GNjNAUVKc9/lhx+/mbui3TXHytr6P4QQqO4nqBefeLYsQfGqn8eO9R0qw5SOkRjlhjvzA0AGLvQdduOdum1V3e08kh5A5HrMX87KvrRf4hLFmseRJ7683UL3CB/MytePQcL958wT/USQp1CVT82+w2b5WUPaBfWp+OWOG37TUr97sMncDW8mc6GQy3+5fg3UJkHHTlySJIjlZAWkNTOhfqCGzM9p3R1DR5/dZXUMeOKRImg+cICo45q9f0DD1IZwg7+SaIQykLZEw07FXdVN8MUxesHpi+hlO7FW+egiaOyoahsY1+mQT7dRXcEKMEfKc=;3d9c1eoOJV03a/cxX4rmjg=="
 ---

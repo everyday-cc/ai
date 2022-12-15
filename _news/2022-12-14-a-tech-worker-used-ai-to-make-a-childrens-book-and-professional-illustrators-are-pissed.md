@@ -39,6 +39,20 @@ related:
         width: 625
         height: 415
         isCached: true
+  - title: "An AI-created children’s book is being sold by an IT worker this is pissing off the Illustrators who work for living"
+    excerpt: "Reshi had the notion earlier this month to use AI to create a book for the child of his best pals, who was born this year. Reshi created a story using ChatGPT about Alice First, Reshi created a story using ChatGPT about Alice,"
+    publishedDateTime: 2022-12-15T21:59:00Z
+    webUrl: "https://techstory.in/an-ai-created-childrens-book-is-being-sold-by-an-it-worker-this-is-pissing-off-the-illustrators-who-work-for-living/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 18
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/08/betiton.jpeg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "KAVMHUpGMwGSdSJlAD47tFwPPcxaoYYSLSSfsR3KjLZ5IS2fKKmq4vGG2SOLdRxPqpfqTGLXa6eMWHtl7W7Y8ZFQZoJ/Qmfn1EJT3zXT3pPYkua5bV9ffHTfN76m29QWzunjIYbR1uwNfednIN/FLKTlwKVBFRIXPtY4FlfxBNfsGh6mOKrNWnVqaMQsR/kZRUVU9W36uc8omkQ4Nfo4W31supReHe04dlOwBoejBZMgD7KRdiaCYnx9l7motfQLR+aA08ZeyA5yF7Z+XU+M9TOWRHqavodDdjslESqR0HNBqmAituwkrSAYJ4NoynT5MYhaEvcKL0tBknlwFmFU1FjsQ196XkTXLqLFiAZetHA=;XNFDipQUnX3vdRGTDFb70g=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-15T20:06:00Z
 originalUrl: "https://www.businessinsider.com/sc/how-a-data-fabric-can-help-streamline-supply-chain-workflows"
 webUrl: "https://www.businessinsider.com/sc/how-a-data-fabric-can-help-streamline-supply-chain-workflows"
 type: article
+quality: 62
+heat: 62
+published: false
 
 provider:
   name: Business Insider

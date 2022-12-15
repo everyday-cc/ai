@@ -84,6 +84,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 40
+  - title: "Explaining the Sensor Suite in a Self-Driving Car"
+    excerpt: "In this video, a TI engineer at electronica 2022 explains the various sensors that are deployed in a vehicle in order for it to be able to drive itself."
+    publishedDateTime: 2022-12-15T22:24:00Z
+    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/video/21256346/electronic-design-explaining-the-sensor-suite-in-a-selfdriving-car"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 39
+    images:
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/12/TI_1.63989aac6d740.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Apple is Ditching Full Self-Driving on its Long-Promised Car"
     excerpt: "Apple has reportedly been working towards an electric vehicle – an endeavor famed investor Carl Icahn said would serve as “the ultimate mobile device.” Part of Icahn’s bullishness on the Apple car stemmed from the rumors that it would be fully autonomous,"
     publishedDateTime: 2022-12-12T17:35:00Z

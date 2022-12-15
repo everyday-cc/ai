@@ -9,7 +9,7 @@ ampWebUrl: "https://www.jagranjosh.com/news/amp/delhi-government-school-to-launc
 cdnAmpWebUrl: "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/news/amp/delhi-government-school-to-launch-delhi-robotics-league-event-tomorrow-check-details-here-166032"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -91,6 +91,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Delhi govt schools to kick off robotics competition for students"
+    excerpt: "Robotics has emerged as a promising field in Education and NEP 2020 has given special emphasis on educational opportunities to learn Robotics and Artificial Intelligence"
+    publishedDateTime: 2022-12-15T19:29:00Z
+    webUrl: "https://www.thehansindia.com/hans/young-hans/delhi-govt-schools-to-kick-off-robotics-competition-for-students-773559"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 34
 
 secured: "+6QWi0izGI90pwZA3VDeK30WlWogr0bri/hkEwzp409B0ihFmMah1ezWNP0dHK7MWHRR93uyokHiPqvmjwUANtbsTRqKYB1kYGPAIkcw5m3oMXt2KaY0DKLTWFYB9nztfvjdOmVaBe3nHe7wHG9hKyg4IpkVhCogRUMmYn8DHf9CmuUChX4katH+KTbvYA/26IlkBGguhazfyMoxajq/EZg8Oz8+R1qQiHzF5PA7kfyAZ2qPY0buBSOGK3ANDfFpRNUFukSgLm8BAbtiUiRUyf0l7DtpoMIWBX5jHmB6tSpFVP0Rppc9osILxRL5Kx/To+ZaPbJhnoy0fmhUuqEpp2/W5+PrFkHx3CW84IbkGXdL2T0rqhn1NxEMQIMm19TgXPW7sARHr9Rflco8O8aCj/ww+zVYRqnrjMKcSlD9JccfQwQeOAmiPaikdow6yztORj9j8T8f9nZuZNfP1PelzWcZ5XPkOSFTCas9S4x5t1GnHgR+EO1oOBk8iBXTqXCLgSpVrT1FxRckFIAeCmDM1A==;T661PWTT8UFzYhJpxD5S3A=="
 ---

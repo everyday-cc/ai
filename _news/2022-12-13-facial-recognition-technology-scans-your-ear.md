@@ -19,95 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Facial recognition attendance for teachers, students in state"
-    excerpt: "Uttar Pradesh government has rolled out a facial recognition-based teacher and student attendance monitoring system for public schools in the state."
-    publishedDateTime: 2022-12-11T03:09:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/lucknow/facial-recognition-attendance-for-teachers-students-in-state/articleshow/96143984.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/lucknow/facial-recognition-attendance-for-teachers-students-in-state/amp_articleshow/96143984.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/lucknow/facial-recognition-attendance-for-teachers-students-in-state/amp_articleshow/96143984.cms"
+  - title: "OP-ED: Double-edged sword of facial recognition technology"
+    excerpt: "On the television crime drama \"FBI,\" Special Agent Jubal Valentine brusquely orders an underling to run a photograph through facial recognition to identify a suspect. Boom! After a rocket-speed search,"
+    publishedDateTime: 2022-12-12T13:35:00Z
+    webUrl: "https://observer-reporter.com/op-ed-double-edged-sword-of-facial-recognition-technology/article_118420a2-7a2a-11ed-8f13-27680978b860.html"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
+      name: Observer-Reporter
+      domain: observer-reporter.com
+    quality: 41
     images:
-      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1070
-        height: 579
+      - url: "https://bloximages.newyork1.vip.townnews.com/observer-reporter.com/content/tncms/custom/image/0c1e0022-0a8d-11e8-840f-07f27e230b4f.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
-  - title: "Uttar Pradesh to start marking school attendance using facial recognition"
-    excerpt: "Uttar Pradesh government has started a facial recognition-based teacher and student attendance monitoring system for the public schools in the state. The artificial"
-    publishedDateTime: 2022-12-11T04:10:00Z
-    webUrl: "https://www.businessinsider.in/india/news/uttar-pradesh-to-start-marking-school-attendance-using-facial-recognition/articleshow/96145648.cms"
-    ampWebUrl: "https://www.businessinsider.in/india/news/uttar-pradesh-to-start-marking-school-attendance-using-facial-recognition/amp_articleshow/96145648.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/india/news/uttar-pradesh-to-start-marking-school-attendance-using-facial-recognition/amp_articleshow/96145648.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 58
-    images:
-      - url: "https://www.businessinsider.in/thumb/96145715.cms?height=275&width=412"
-        width: 412
-        height: 275
-        isCached: true
-  - title: "Facial Recognition To Mark School Attendance In UP"
-    excerpt: "Uttar Pradesh government has started a facial recognition-based teacher and student attendance monitoring system for the p"
-    publishedDateTime: 2022-12-11T04:04:00Z
-    webUrl: "https://menafn.com/1105294130/Facial-Recognition-To-Mark-School-Attendance-In-UP"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?104280"
-        width: 340
-        height: 249
-        isCached: true
-  - title: "Apple granted patent for ‘on-the-fly’ enrollment for facial recognition"
-    excerpt: "Apple has been granted a patent (number 11527107) for “on-the-fly enrollment for facial recognition” It involves system updates for the company’s various devices that would automatically update Face ID features."
-    publishedDateTime: 2022-12-13T14:46:00Z
-    webUrl: "https://www.mactech.com/2022/12/13/apple-granted-patent-for-on-the-fly-enrollment-for-facial-recognition/"
-    ampWebUrl: "https://www.mactech.com/2022/12/13/apple-granted-patent-for-on-the-fly-enrollment-for-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2022/12/13/apple-granted-patent-for-on-the-fly-enrollment-for-facial-recognition/amp/"
-    type: article
-    provider:
-      name: MacTech
-      domain: mactech.com
-    quality: 39
-  - title: "Genesis launches face recognition for cars"
-    excerpt: "Come to CAR magazine to find out more about the new keyless entry facial recognition technology launching in 2023 on the updated Genesis GV60 electric SUV"
-    publishedDateTime: 2022-12-13T18:30:00Z
-    webUrl: "https://www.carmagazine.co.uk/car-news/tech/facial-recognition-key/"
-    type: article
-    provider:
-      name: CAR Magazine
-      domain: carmagazine.co.uk
-    quality: 39
-    images:
-      - url: "https://car-images.bauersecure.com/wp-images/158633/092-genesis-car-face-recognition-reflected-face-indicator.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
-  - title: "Google Patents System for Using Facial Recognition to Cue Up Content"
-    excerpt: "Google patents a new system that will take advantage of facial recognition technology to present users with a choice of curated content."
-    publishedDateTime: 2022-12-13T20:48:00Z
-    webUrl: "https://gamerant.com/google-facial-recognition-system-patent/"
-    type: article
-    provider:
-      name: Game Rant
-      domain: gamerant.com
-    quality: 21
-  - title: "Facial recognition to mark school attendance"
-    excerpt: "Uttar Pradesh government has started a facial recognition-based teacher and student attendance monitoring system for the public schools in the state."
-    publishedDateTime: 2022-12-11T19:09:00Z
-    webUrl: "https://www.thehansindia.com/hans/young-hans/facial-recognition-to-mark-school-attendance-772943"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 19
 
 secured: "+nTpHJ6FwJ2cR/FhSyOgwPjprzfIRQo26t0W+RUBQKq9h/AEgmnq7DiqUetKevD1JGvOBbe4BEjUbG3QFwLZx9l5sgn/eBWNn3LQgJYEJtaSteJbbhzTzU55vt7o2x6MuE3U1oKnM/W/VYp8+qii+N3i2pzGzdiknqS7ERmcPw8NI8xD+V1M4/hlpCd/Z2IPiBAlXtbwYfR8lc61OdDWkfDcAVvmuctcQTtJeDT12KUp1zVAqPn97yUQpO180TvXp4yOG7H1mH04HSlNuqP3DC6xB/QIn7wr52RamQ3zWpnKvqX8stPxcJ2rOYp9LkAAprymMAcEaeu5m6TgOpUAoB4dSiLigpJ8uFF7b5qPYxnpnk8VU5Bpn1Kgz7BpZbp/FgTqDI5zk3mXWLG+W6kl2kxBzSl4psPfme8YP5wKDq5Kp7v2Apxg8Av1GCCIrUfF7apzPpI04irmtg/B2AYL7rkY4a4XmKclHuj06nXijYnseW3kl/EK+GblCNN9rDO5N264Jdp4ASBUnEtMDaX12g==;TgCUqSt8hK2kg6Vv2jV0wQ=="
 ---

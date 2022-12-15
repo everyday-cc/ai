@@ -2,6 +2,58 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2022-09-28-are-you-a-bad-teacher-this-artificial-intelligence-app-aims-to-tell-you.md",
+      "title": "Are You A Bad Teacher? This Artificial Intelligence App Aims To Tell You",
+      "excerpt": "Administrators aren't privy to the analysis teachers receive using the TeachFX app. “Eighty five percent teacher talk for me—even for an interview that makes me think: yikes!” Jamie Poskin ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/emmawhitford/2022/09/27/are-you-a-bad-teacher-this-artificial-intelligence-app-aims-to-tell-you/",
+      "originalUrl": "https://www.forbes.com/sites/emmawhitford/2022/09/27/are-you-a-bad-teacher-this-artificial-intelligence-app-aims-to-tell-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/633254d6de0e387de2dd5380/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/emmawhitford/2022/09/27/are-you-a-bad-teacher-this-artificial-intelligence-app-aims-to-tell-you/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawhitford/2022/09/27/are-you-a-bad-teacher-this-artificial-intelligence-app-aims-to-tell-you/amp/",
+      "publishedDateTime": "2022-09-27T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-28-sas-viya-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "SAS Viya now available in the Microsoft Azure Marketplace",
       "excerpt": "The SAS ® Viya ® analytics platform is now available in the Microsoft Azure Marketplace with the click of a button on a pay-as-you-go basis. Full-featured SAS Viya on Microsoft Azure equips customers worldwide with access to essential data exploration,",
@@ -1143,49 +1195,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-saudi-data-ai-authority-sdaia-and-ministry-of-energy-partner-with-ibm-to-accelerate-sustainability-initiatives-in-saudi-arabia-using-ai.md",
-      "title": "Saudi Data, AI Authority (SDAIA) and Ministry of Energy Partner with IBM to Accelerate Sustainability Initiatives in Saudi Arabia Using AI",
-      "excerpt": "RIYADH, Saudi Arabia and ARMONK, N.Y., Sept. 27, 2022 /PRNewswire/ -- Saudi Data and Artificial Intelligence Authority (SDAIA) and IBM (NYSE: IBM) announced today the signing of a strategic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbc4i.com/business/press-releases/cision/20220927NY84344/saudi-data-ai-authority-sdaia-and-ministry-of-energy-partner-with-ibm-to-accelerate-sustainability-initiatives-in-saudi-arabia-using-ai/",
-      "originalUrl": "https://www.nbc4i.com/business/press-releases/cision/20220927NY84344/saudi-data-ai-authority-sdaia-and-ministry-of-energy-partner-with-ibm-to-accelerate-sustainability-initiatives-in-saudi-arabia-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1907789/SDAIA_Image.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T02:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC4 Columbus",
-        "domain": "nbc4i.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

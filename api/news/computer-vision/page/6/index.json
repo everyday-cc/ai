@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-10-15-the-multi-billion-dollar-potential-of-synthetic-data.md",
+      "title": "The multi-billion-dollar potential of synthetic data",
+      "excerpt": "Synthetic data, already in use by tech giants, is an accelerator for ML/AI-based products to further penetrate every industry and sector.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/the-multi-billion-dollar-potential-of-synthetic-data/",
+      "originalUrl": "https://venturebeat.com/ai/the-multi-billion-dollar-potential-of-synthetic-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1361681620-Outflow-Designs.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/the-multi-billion-dollar-potential-of-synthetic-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-multi-billion-dollar-potential-of-synthetic-data/amp/",
+      "publishedDateTime": "2022-10-15T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-15-put-latino-heritage-and-history-where-it-belongs.md",
       "title": "Put Latino Heritage and History Where It Belongs",
       "excerpt": "Most of the classes I took focused on Europeans, but there was little to no mention of Latino or African American history in the United States. I learned about Latinx art, culture and history on my own,",
@@ -1362,50 +1414,6 @@
         "AI",
         "AI in Autos",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-global-computer-vision-in-healthcare-market-report.md",
-      "title": "Global Computer Vision in Healthcare Market Report…",
-      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Global Computer Vision in Healthcare Market (2022-2027) by Component, Applications, End-user, and Geography, with Competitive Analysis, Impact of COVID-19, and Ansoff Analysis\" report has been added to ResearchAndMarkets.com's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pharmiweb.com/press-release/2022-10-04/global-computer-vision-in-healthcare-market-report-2022-escalating-need-for-quality-inspection-and",
-      "originalUrl": "https://www.pharmiweb.com/press-release/2022-10-04/global-computer-vision-in-healthcare-market-report-2022-escalating-need-for-quality-inspection-and",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png",
-          "width": 1200,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PharmiWeb",
-        "domain": "pharmiweb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.buzzfeednews.com/amphtml/chrisstokelwalker/tech-worker-a
 cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/chrisstokelwalker/tech-worker-ai-childrens-book-angers-illustrators"
 type: article
 quality: 77
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       name: buzzfeednews.com
       domain: buzzfeednews.com
     quality: 40
+  - title: "An AI-created children’s book is being sold by an IT worker this is pissing off the Illustrators who work for living"
+    excerpt: "Reshi had the notion earlier this month to use AI to create a book for the child of his best pals, who was born this year. Reshi created a story using ChatGPT about Alice First, Reshi created a story using ChatGPT about Alice,"
+    publishedDateTime: 2022-12-15T21:59:00Z
+    webUrl: "https://techstory.in/an-ai-created-childrens-book-is-being-sold-by-an-it-worker-this-is-pissing-off-the-illustrators-who-work-for-living/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 18
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/08/betiton.jpeg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "yWVctsBSOUUO5Fqjbkp3wZ4UFupQuWSaW1fRAvgi8FhgKsZesone5kbJyxILW71iQy3a1/UaLT4KlNPb8tsy9pwW3mCgfNBvt0It3eDVlNMg2fz9iLiO9pevVBytmXuBV3GNYhB/7E0GPTAzUuWMdPQOcYPeKVfpKOeUF6pDUT+Rdh9Zt+fqL56POZAuSkTl+VnWaIEsQkfjULQZFZlCdWztSwKuSjXcRsRCa3KH1jJE6nh9HOqH0YagrnzSOp8P7X5Ulf2YqzaZVoLufX/cX+J324+ZGaC5ec48Jlraw2QwPxetGcjp+frHrwrE043NTDX//DxFPNSVMgtfEAgXmv+ITiPswkfEMuNy4kEPbVLJipf9a0OPiNH3jm1IIzwZ3mIxEx7hvzGtJcig1Q1dTVsndoO8We4Lc/DPR7KFhFM7poDVB2nXt5VEygoefS8AdBOKC4adDL5jQ4QUicq1mQlvUMy052Z8tSphpeJJZQzDb8J2les4sHwGUgsmEatrgIOtVISxfqyqfgsPGd0JZw==;5Ios/SqmLYVMWEw5MiHTYg=="
 ---
