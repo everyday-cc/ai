@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/14/the-fu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/14/the-future-of-retail-four-ways-for-the-industry-to-utilize-ai/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 119
 published: true
 
 provider:
@@ -40,6 +40,29 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 41
+  - title: "AI and the future of venture capital"
+    excerpt: "This came in the wake of OpenAI, led by Graham protégé Sam Altman, releasing a generative AI tool that eventually could enable engineers to do more in less time. A big question is if the venture capital market on the verge of a counterintuitive dichotomy,"
+    publishedDateTime: 2022-12-12T16:44:00Z
+    webUrl: "https://www.axios.com/2022/12/12/ai-and-the-future-of-venture-capital"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 37
+    images:
+      - url: "https://images.axios.com/xrBH8janBcpGIzcf-11h_UJhLgs=/0x0:1920x1080/1366x768/2022/12/12/1670863315999.jpg"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "Artificial Intelligence and the Future of Travel"
+    excerpt: "Today’s podcast looks at travel and artificial intelligence, Air Asia’s new airline, and e-visa roadblocks in Africa."
+    publishedDateTime: 2022-12-12T09:48:00Z
+    webUrl: "https://skift.com/2022/12/12/artificial-intelligence-and-the-future-of-travel/"
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 19
 
 secured: "Hnk2KpB+9mxlB3y3moWwJjPLNw7pWARxnQ79QJnycVsNPoN3OhgCvIhupaOdP+FgPxv9AHFv245/oB15YZDG1e+iNgc7sv8yv8/Bmz2wgN5/r05QU48bRmtzrVBqKsx2T1oP+GF+kzddpUmi3XNU2Fx0MGGYEkZEFZK1ylbhwQx/5Dn2UCLrnMMamB0PiJZlyVQZv9g/K+TpP84CRtRboxXvHptAWApghTQJJ3RIPsQNmVrK+Q84z0FT7t4irLxuYGnSzdstaC0xXERmeeKwgFZTTjn21ilNvHOiLpKUfWbb04zhdc35jg+AU9TUK2L/Xj6gdirN4N0TQkcdPZgFGrW5XA6J18VrlnRvgBVXkVs=;9yr9hHzTUyIE0SXnyv0+Fg=="
 ---

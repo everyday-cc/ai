@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/city/delhi/artificial-intelligence-delhi-
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/delhi/artificial-intelligence-delhi-govt-schools-kick-off-era-of-robots-with-new-competition/amp_articleshow/96234299.cms"
 type: article
 quality: 66
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1070
     height: 579
     isCached: true
+
+related:
+  - title: "Delhi Government Schools To Kick Off Robotics Competition For Students"
+    excerpt: "According to a DoE statement, the idea of this robotics competition is to nurture excellence in robotics among school students."
+    publishedDateTime: 2022-12-15T06:15:00Z
+    webUrl: "https://www.ndtv.com/education/delhi-government-schools-kick-off-robotics-competition-for-students"
+    ampWebUrl: "https://www.ndtv.com/education/delhi-government-schools-kick-off-robotics-competition-for-students/amp"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/education/delhi-government-schools-kick-off-robotics-competition-for-students/amp"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 74
+    images:
+      - url: "https://cache.careers360.mobi/media/article_images/2022/12/15/delhi-schools-robotocs-competition-featured-image.jpg"
+        width: 860
+        height: 430
+        isCached: true
 
 secured: "QKJUUV43llu9hdX6xMs0x6nwOhGVgvSYzSRrsFtZQpGCLzW1+XgmePJf6nLfemSDaNVct5XLCD7irMrZGfPdNfJy8z7b1Hy1NJW1CTps9fOc/BvzVzGUYFPAGNDUTHgqfyXW3urvO7HgrKyY4k7BetoQrMw3pTSY8B6E6Or0yN7boKK1fRbCvSRmqKAZQnG04kdxPxIyHCVp1+4ZxLzObF1SKnJXfoth0ZrbzJMV1EJBJVVoD8iArGb/0tTxkylemWeiZc/uSdSK5OrrBSXigFdzlVSi7FkKLKMTtObkMXooGWzito6iALmQiWo1lOkjR53rXVIg2Jxfg1KO9MBDmjueb0wOCQwaTu5rSoi6xPc=;dARgiLfDb4T72B64ldISrA=="
 ---

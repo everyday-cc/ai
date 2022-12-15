@@ -7,7 +7,7 @@ originalUrl: "https://www.newscientist.com/article/2350655-openai-is-developing-
 webUrl: "https://www.newscientist.com/article/2350655-openai-is-developing-a-watermark-to-identify-work-from-its-gpt-text-ai/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "OpenAI’s attempts to watermark AI text hit limits"
-    excerpt: "OpenAI is working on a way to watermark text, according to a guest researcher working at the lab. But it's limited in key ways."
-    publishedDateTime: 2022-12-10T13:47:00Z
-    webUrl: "https://techcrunch.com/2022/12/10/openais-attempts-to-watermark-ai-text-hit-limits/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
 
 secured: "tsf+NaeD/uAJkpS+0olL0lCEpLrKsFtYk+cuDTWDzTixxissm5S4y9pQPHPzXwKL9wcLktv8T81MoxG1aj5SwqLBfJHohOIpHjDd8KvK48ytv17bVYpYBIu5ize5PyZHBDBgGTPB5Px+5UUbcdb+0TA8Ew/RdS4CSJSfsOOXZVM8U3D4cumVWCiYMXqXatWCPJdka2+GL1PRbDPWPBj6B5Bv59RPVFtbox3XctMFuict+L4Dgq/EN0SrMMvmzEfff00Gj3LsouCMDG2kQ8+8pW7JQVRbRJ2CzLIRMUFaLrkkKISa04RmEyeEhr7QoK813qVsDO93dsUZLFsGudsKkzeEoPsLcDs17QdjhoIeGMInDeXNJNf99jVJtlcPQO2qnDMcZRCFkO9wLa6iajbt4cLs/AcUCB7x+I8dsAmwqx/QPA7GrvavBdvrnMnJHBRApzwe8g3saUPtz8z1GiSKcLhU4k4MtxlTN+ZDAc3WGACL3VVPd8VHU0O2qR2WcW8nLiGBIn/Trktlw64YiAjA7w==;4xKgw4wU438EkrnD8gcOig=="
 ---

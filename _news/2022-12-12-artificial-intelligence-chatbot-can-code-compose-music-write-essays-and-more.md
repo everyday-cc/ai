@@ -99,15 +99,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "The 5 Best Uses (So Far) for ChatGPT's AI Chatbot"
-    excerpt: "The new AI tool ChatGPT has inspired excitement and worry with its ability to instantly answer complex questions. In the days after its debut, people have discovered many ways it can make their lives easier -- including five we've found that rise above the rest."
-    publishedDateTime: 2022-12-10T13:34:00Z
-    webUrl: "https://www.cnet.com/tech/computing/the-five-best-uses-so-far-for-chatgpts-ai-chatbot/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 49
   - title: "Digging Into The Buzz And Fanfare Over Generative AI ChatGPT, Including Looming AI Ethics And AI Law Considerations"
     excerpt: "Here is your insider look at why Generative AI such as ChatGPT has garnered worldwide attention, including both applause and disdain. Included is an indication of the AI Ethics and AI Law considerations."
     publishedDateTime: 2022-12-13T12:00:00Z

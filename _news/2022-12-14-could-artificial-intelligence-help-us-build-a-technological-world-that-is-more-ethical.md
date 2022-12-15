@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2022-12-artificial-intelligence-technologic
 ampWebUrl: "https://techxplore.com/news/2022-12-artificial-intelligence-technological-world-ethical.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-artificial-intelligence-technological-world-ethical.amp"
 type: article
-quality: 70
-heat: 70
+quality: 72
+heat: 72
 published: true
 
 provider:
@@ -21,6 +21,7 @@ topics:
   - AI
   - AI Ethics
   - AI in Robotics
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/could-artificial-intel.jpg"

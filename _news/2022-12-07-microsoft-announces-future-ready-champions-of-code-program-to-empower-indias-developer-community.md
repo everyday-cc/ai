@@ -1,107 +1,28 @@
 ---
 category: news
-title: "Microsoft Announces Future Ready Champions Of Code Program To Empower India's Developer Community"
-excerpt: "Microsoft today announced the launch of Future Ready Champions of Code, a pan India program for developers, focused o"
-publishedDateTime: 2022-12-07T03:39:00Z
-originalUrl: "https://menafn.com/1105276380/Microsoft-Announces-Future-Ready-Champions-Of-Code-Program-To-Empower-Indias-Developer-Community"
-webUrl: "https://menafn.com/1105276380/Microsoft-Announces-Future-Ready-Champions-Of-Code-Program-To-Empower-Indias-Developer-Community"
+title: "Microsoft announces Future Ready Champions of Code Program to empower India’s developer community"
+excerpt: "Microsoft today announced the launch of Future Ready Champions of Code, a pan India program for developers, focused on skilling, certification and building solutions. The program aims to engage over 1"
+publishedDateTime: 2022-12-07T11:35:00Z
+originalUrl: "https://indiaeducationdiary.in/microsoft-announces-future-ready-champions-of-code-program-to-empower-indias-developer-community/"
+webUrl: "https://indiaeducationdiary.in/microsoft-announces-future-ready-champions-of-code-program-to-empower-indias-developer-community/"
+ampWebUrl: "https://indiaeducationdiary.in/microsoft-announces-future-ready-champions-of-code-program-to-empower-indias-developer-community/"
+cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/microsoft-announces-future-ready-champions-of-code-program-to-empower-indias-developer-community/"
 type: article
-quality: 26
-heat: -1
-published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: India Education Diary
+  domain: indiaeducationdiary.in
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-12/06/F_b9964image_story.jpg"
-    width: 600
-    height: 313
+  - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/04/microsoft.jpg?fit=463%2C260&ssl=1"
+    width: 463
+    height: 260
     isCached: true
 
-related:
-  - title: "VentureBeat Lab to launch in-depth AI article series with insights from Microsoft and Nvidia"
-    excerpt: "The series will deliver new industry insights, trends and analyses to VB’s audience of senior business and IT decision-makers."
-    publishedDateTime: 2022-12-09T21:24:00Z
-    webUrl: "https://venturebeat.com/ai/venturebeat-lab-to-launch-in-depth-ai-article-series-with-insights-from-microsoft-and-nvidia/"
-    ampWebUrl: "https://venturebeat.com/ai/venturebeat-lab-to-launch-in-depth-ai-article-series-with-insights-from-microsoft-and-nvidia/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/venturebeat-lab-to-launch-in-depth-ai-article-series-with-insights-from-microsoft-and-nvidia/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 93
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/12/image001-3.png?w=1200&strip=all"
-        width: 1199
-        height: 682
-        isCached: true
-  - title: "Tata Tele Business Services to offer Microsoft Azure to SMBs in India"
-    excerpt: "This will enable SMBs to modernize their operations with smooth movement of business workloads to the cloud on a pay-as-you-go model and deliver better experience to their customers even as they scale faster,"
-    publishedDateTime: 2022-12-07T10:46:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/tata-tele-business-services-to-offer-microsoft-azure-to-smbs-in-india/96056935"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/tata-tele-business-services-to-offer-microsoft-azure-to-smbs-in-india/96056935"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/tata-tele-business-services-to-offer-microsoft-azure-to-smbs-in-india/96056935"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-96056935,imgsize-18972,width-1200,height-628,overlay-ettelecom/tata-tele-business-services-to-offer-microsoft-azure-to-smbs-in-india.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Tata Tele Business Services to offer Microsoft Azure to SMBs in India"
-    excerpt: "This will enable SMBs to modernize their operations with smooth movement of business workloads to the cloud on a pay-as-you-go model and deliver better experience to their customers even as they scale faster,"
-    publishedDateTime: 2022-12-08T03:49:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/tata-tele-business-services-to-offer-microsoft-azure-to-smbs-in-india/96065486"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/tata-tele-business-services-to-offer-microsoft-azure-to-smbs-in-india/96065486"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/tata-tele-business-services-to-offer-microsoft-azure-to-smbs-in-india/96065486"
-    type: article
-    provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-96065486,imgsize-195728,width-1200,height=765,overlay-etbrandequity/digital/tata-tele-business-services-to-offer-microsoft-azure-to-smbs-in-india.jpg"
-        width: 1200
-        height: 765
-        isCached: true
-  - title: "Drone Express Partners with Microsoft to Develop Artificial Intelligence (AI) Delivery Drones"
-    excerpt: "Drone Express, an innovative last-mile logistics company, has partnered with Microsoft to launch a new version of their DE-2020 drone using Artificial Intelligence (AI) for in-flight navigation systems."
-    publishedDateTime: 2022-12-08T14:24:00Z
-    webUrl: "https://www.aviationpros.com/aircraft/news/21289353/drone-express-partners-with-microsoft-to-develop-artificial-intelligence-ai-delivery-drones"
-    type: article
-    provider:
-      name: AviationPros
-      domain: aviationpros.com
-    quality: 58
-    images:
-      - url: "https://img.aviationpros.com/files/base/cygnus/cavc/image/static/logo/site_logo.png?auto=format,compress&fit=fill&fill=solid&fill-color=000000&w=1200&h=627"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Drone Express To Use Microsoft AI For New Cargo Drone Navigation"
-    excerpt: "Drone Express, a drone cargo delivery startup, plans to begin manufacturing a new version of its DE-2020 multicopter drone by year’s end that will use Microsoft’s (AI) software, Azure Machine Learning,"
-    publishedDateTime: 2022-12-09T22:23:00Z
-    webUrl: "https://aviationweek.com/aerospace/advanced-air-mobility/drone-express-use-microsoft-ai-new-cargo-drone-navigation"
-    type: article
-    provider:
-      name: Aviation Week
-      domain: aviationweek.com
-    quality: 54
-    images:
-      - url: "https://aviationweek.com/sites/default/files/styles/crop_freeform/public/2022-12/azure.jpg?itok=C2P4lXOP"
-        width: 1193
-        height: 787
-        isCached: true
-
-secured: "X/QNb9NIg9Tm72YB88hgtZ/AwS8Tf8Arg0fM2wnvZVi38aLVrhH+2Z28mdcmPDIxZw5A1H+k1IOBDZGXbk5TSu9X3uV+NrV3S/yTCByf7apzm+Ou+I0Y821dw6L7HLVTT3y4ssSTun+VLALi3nKb/yYCZY81gI20wtaU1plmnLJMuY+LWJm/54ZfFLPAG3OjxlTSb04tSHTLHv5d0dySn7q/wzeN82EtQhuassyG4hPMzBFBj2ER2P+liJKz4c4fBNnVWgTaCUUWWkcf+HBa8WIj83/WWCVCJssznpxiFWAe6/u+JFdvgyLkaDzW2Aq8rUWxNeRfa/0gkXBP4RHLtCWhphTnilcDDsi6TjV1xsJRMBzPIwzGRFBEG75OqRtxbaXEc0zMBBBx2yZxIbJVgnCzrD4GdEQt4/UFVD3zmumlD+0i5+7t+fV7Xnk6Da6yf0j+QboKk/FIM+lEvrR6Qo1Xq9bbXO8Pt4PfeovfPKwDk9NNZ/4wPKdfeykRA+ctVfrm6rmDVSg1E/q1uSQeKg==;eC6AD0YdbiKYNhTzOEh4tg=="
+secured: "LqGSN8ZUgjsCltSGqTgbPWtwlrG34t+ZDPqwZXhce2+fEwlZpJunJI4z8kCs/PUMvfp2gPJ5pXJ1TXHpjenz+8eQT8HExqblyZpQ6ZLhdipdG1aQhTRowledz8e4QuIxkjymBPbr4vyYJal+w96wVvJDP0EP6Ho6hbDQStFwqrnPnM9Pypp0knUWkxE4jT/ShthcDb55W0zLUnHSHWw709Axp76MEk92OS3/7YiRMcaPCfoNt4e79W6K+0fQJODOGfiPk9Yod6kDd2R1pR3njSRHp5n6VGaWnWTcDNrFKF/H8YmdGCLd9DRWoeRlPEDbSKY0QqmzuMwgjHBVbDnoXF/eiNzgo5PYV29a8UW/Exo=;b25FMG0ygU9Ux6xtCI9f3w=="
 ---
 

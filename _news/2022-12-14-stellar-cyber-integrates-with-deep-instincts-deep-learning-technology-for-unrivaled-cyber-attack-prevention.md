@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Stellar Cyber Integrates with Deep Instinct's Deep Learning Technology for Unrivaled Cyber Attack Prevention"
-excerpt: "Under this latest integration, Deep Instinct's revolutionary approach to leverage deep learning is able to continuously analyze endpoints, servers, and other network assets to detect and prevent more than 99% of potential attacks."
-publishedDateTime: 2022-12-14T14:43:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-stellar-cyber-integrates-with-deep-instincts-deep-learning-/2022/12/14/9730268.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-stellar-cyber-integrates-with-deep-instincts-deep-learning-/2022/12/14/9730268.htm"
+excerpt: "Stellar Cyber, the innovator of Open XDR, today announced a new integration with Deep Instinct, the first company to apply end-to-end deep learning to cybersecurity, and its endpoint solution. This powerful integration makes it easy for enterprise and MSSP customers using the Stellar Cyber Open XDR platform to deliver Deep Instinct's unsurpassed prevention capabilities across the entire attack surface."
+publishedDateTime: 2022-12-14T15:28:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/12/14/9730268.htm"
+webUrl: "https://it.tmcnet.com/news/2022/12/14/9730268.htm"
 type: article
 quality: 0
 heat: 0
@@ -18,6 +18,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "KiGsT0Az62NgeBxgXbzKP2F75xarIdZ2QVn0KOfBrMWO5vAP4P/P7kiCzTJ5eVW78Ut00C89cNlgMetssE/yFWc57hqRECdJLX+yscU+ZxZTd0qSCAMt6htABFV+yuYP45Wxie1DZXRTMgBGMfL/hmBNPhlVgAhrkW+CjzFm72JpBA7BQ3gZaycgmeVFCRpjLWa5LgojUxjr4b6LV592V1Wi0C62trlNsKgSsUt+TDiQ28aQ4irpeO9HZCHynUxjtcokdbRbxpmtOxzkMjdPu2JTkVxf8hsqD3dlFV8c7K3cRvoCahLHxQ85r2bA7VqiGkTInMPobXkUv+eqosJeboPqDJ1yMq0CrxYeLG3WPQk=;PXamqhvtUP5rxpz8TPvoEg=="
+secured: "VGxsET82PJwJWIxwxTUTlRHHuvdMLu1d9Ofn8wexxU9BIIRQr3UUR2+75QF5Cko0CkkofASQV24BL6GJGPXJAmsSDZty26uaIo1rHWys58q6wpo8AcPF0FRxp1nLPgi+SXW9v/Vums1EJV7QSEEoqAeqLkYVpFrLxRx7pozLdR3+HNKUhyGe8W3DY7p/StTD5m/KYY6iwdYuwIAW+jVCnt9hrl49dDPujFejrJMGEunfGsKOCqgef9hpv5w43bT6My/MuU7UgHKftO1D122LG8rsquiXxDM2x9a/jFpIzG9RLk6+ZL7sTtr/Joe7PKEUNbkiVbT3ES757CgMOHzYfZ+i8Tc3EJfBbiGkLKqmEsI=;kTnhmTgCbwSwQ4kR/fc0TQ=="
 ---
 

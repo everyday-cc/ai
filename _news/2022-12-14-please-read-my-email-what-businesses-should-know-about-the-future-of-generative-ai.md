@@ -38,6 +38,29 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI and the future of venture capital"
+    excerpt: "This came in the wake of OpenAI, led by Graham protégé Sam Altman, releasing a generative AI tool that eventually could enable engineers to do more in less time. A big question is if the venture capital market on the verge of a counterintuitive dichotomy,"
+    publishedDateTime: 2022-12-12T16:44:00Z
+    webUrl: "https://www.axios.com/2022/12/12/ai-and-the-future-of-venture-capital"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 37
+    images:
+      - url: "https://images.axios.com/xrBH8janBcpGIzcf-11h_UJhLgs=/0x0:1920x1080/1366x768/2022/12/12/1670863315999.jpg"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "Artificial Intelligence and the Future of Travel"
+    excerpt: "Today’s podcast looks at travel and artificial intelligence, Air Asia’s new airline, and e-visa roadblocks in Africa."
+    publishedDateTime: 2022-12-12T09:48:00Z
+    webUrl: "https://skift.com/2022/12/12/artificial-intelligence-and-the-future-of-travel/"
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 19
 
 secured: "IvKN4tFfqpLGrOrahZAh5I4BqbdH1YLU+I6zQNE9FbVEV8HJ4Z1YcyPmPelLOWhB7EPjo1OPAVUopZ4bMIZFLFRzYuPwOmoAiuj618SukenUtHmBxO3Fb5d6Hf0UPeRshKH3/g8FjLWgGHkygT4eM74NURMzqlJ7SdtTmJftLntmsrbiwSt6cq4WQzYk1tEW9uI6uuYr38MushDCzBsDi5BtjRfMpVWKXwLHAgPgrHanBytZXP0Lv3fWs5qSvDQrHNM+g3WERoUSEjUzuZTn04hAkoQrmZHO+pPSrn3Ubf2k35udza23aIQ+0633z+VhVEZs906LxMHaQ+o2Tt/Tr0n7UHVMwAlezhBE4gAW5Ls=;t/v9i3gSlX+xgDyKP10f1g=="
 ---
