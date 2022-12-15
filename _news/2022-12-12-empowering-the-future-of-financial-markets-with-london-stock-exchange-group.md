@@ -100,20 +100,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft Tech Community Blogs gets text to speech feature"
-    excerpt: "Microsoft has announced that it is making it easier for you to listen to your favorite Microsoft Tech Community Blog articles. The company is introducing a"
-    publishedDateTime: 2022-12-13T16:22:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-tech-community-blogs-gets-text-to-speech-feature"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 39
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2022/12/Untitled-design-3.jpg"
-        width: 1028
-        height: 768
-        isCached: true
   - title: "KULR’s CellCheck Battery Monitoring System Launches on Microsoft’s Azure Cloud Computing Service"
     excerpt: "Built on Azure Cloud, the Modular Battery Management System Platform Leverages Azure Cloud's Advanced AI Functionality to Collect and Analyze Data From all KULR products"
     publishedDateTime: 2022-12-13T12:30:00Z

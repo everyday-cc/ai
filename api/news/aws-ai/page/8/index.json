@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-09-23-fareye-achieves-aws-supply-chain-competency.md",
+      "title": "FarEye Achieves AWS Supply Chain Competency",
+      "excerpt": "FarEye has announced that it is one of the first companies to achieve the Amazon Web Services (AWS) supply chain competency in the Software Offering: Move category. This designation recognizes FarEye for helping customers solve their critical supply chain challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/en-in/news-and-trends/fareye-achieves-aws-supply-chain-competency/435911",
+      "originalUrl": "https://www.entrepreneur.com/en-in/news-and-trends/fareye-achieves-aws-supply-chain-competency/435911",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1663918868-Untitleddesign-2022-09-23T130743482.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-23T00:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-22-detect-population-variance-of-endangered-species-using-amazon-rekognition.md",
       "title": "Detect population variance of endangered species using Amazon Rekognition",
       "excerpt": "Our planet faces a global extinction crisis. UN Report shows a staggering number of more than a million species feared to be on the path of extinction. The most common reasons for extinction include loss of habitat, poaching, and invasive species. Several wildlife conservation foundations, research scientists,",
@@ -1341,49 +1393,6 @@
       "provider": {
         "name": "Morningstar%2c Inc.",
         "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-vmware-cloud-on-aws-expands-to-hong-kong.md",
-      "title": "VMware Cloud on AWS Expands to Hong Kong",
-      "excerpt": "HONG KONG SAR - Media OutReach - 13  2022 - Today, VMware announces VMware Cloud on AWS is now available in the Asia Pacific (Hong Kong) Region.",
-      "sourceUrl": null,
-      "webUrl": "https://www.macaubusiness.com/vmware-cloud-on-aws-expands-to-hong-kong/",
-      "originalUrl": "https://www.macaubusiness.com/vmware-cloud-on-aws-expands-to-hong-kong/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2022/09/DSC00716-DdM9NR.jpeg",
-          "width": 1210,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T18:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Macau Business",
-        "domain": "macaubusiness.com",
         "images": null,
         "publishers": null,
         "authors": null

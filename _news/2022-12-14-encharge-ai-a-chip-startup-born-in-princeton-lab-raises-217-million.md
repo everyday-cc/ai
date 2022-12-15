@@ -7,7 +7,7 @@ originalUrl: "https://www.usnews.com/news/technology/articles/2022-12-14/encharg
 webUrl: "https://www.usnews.com/news/technology/articles/2022-12-14/encharge-ai-a-chip-startup-born-in-princeton-lab-raises-21-7-million"
 type: article
 quality: 64
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -32,6 +32,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 64
+  - title: "AI chip startup EnCharge AI raises USD 21.7M to create an integrated stack for edge applications"
+    excerpt: "EnCharge AI Inc. has announced a USD 21.7 million Series A funding round to support the creation of a semiconductor hardware"
+    publishedDateTime: 2022-12-15T15:13:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/ai-chip-startup-encharge-ai-raises-usd-21-7m-to-create-an-integrated-stack-for-edge-applications/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/ai-chip-startup-encharge-ai-raises-usd-21-7m-to-create-an-integrated-stack-for-edge-applications/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ai-chip-startup-encharge-ai-raises-usd-21-7m-to-create-an-integrated-stack-for-edge-applications/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 61
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/12/AI-chip-startup-EnCharge-AI-raises-USD-21.7M-to-create-an-integrated-stack-for-edge-applications.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "AI chip startup EnCharge AI raises $21.7M to build integrated stack for edge uses"
     excerpt: "The list of startups building hardware to process artificial intelligence applications just grew longer with the addition of EnCharge AI Inc. Today the company announced a $21.7 million Series A funding round to support the development of a semiconductor hardware and software stack it claims can deliver 15 times the performance of competitors in low-power environments."
     publishedDateTime: 2022-12-14T15:39:00Z

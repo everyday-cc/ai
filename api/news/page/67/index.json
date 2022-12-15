@@ -2,6 +2,163 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2022-10-18-run-ensemble-ml-models-on-amazon-sagemaker.md",
+      "title": "Run ensemble ML models on Amazon SageMaker",
+      "excerpt": "Model deployment in machine learning (ML) is becoming increasingly complex. You want to deploy not just one ML model but large groups of ML models represented as ensemble workflows. These workflows are comprised of multiple ML models. Productionizing these ML models is challenging because you need to",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-ensemble-ml-models-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-ensemble-ml-models-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/18/run-ensemble-models-sagemaker.jpg",
+          "width": 1547,
+          "height": 770,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T08:50:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-oracle-cloud-adding-tens-of-thousands-of-nvidia-chips-for-ai.md",
+      "title": "Oracle Cloud adding tens of thousands of Nvidia chips for AI",
+      "excerpt": "Chips that help accelerate computing speed include GPUs and are heavily used in AI work where Nvidia has the lion's share. While there are many AI chip startups challenging Nvidia, Clay Magouyrk ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/oracle-cloud-adding-tens-thousands-nvidia-chips-ai-2022-10-18/",
+      "originalUrl": "https://www.reuters.com/technology/oracle-cloud-adding-tens-thousands-nvidia-chips-ai-2022-10-18/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/auU-eGYlMXaI82GhWXiVQXOg6iA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C3KTSLO2ZRNVLMJPKCCNHB4N44.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-medical-robotic-systems-market-2022-industry-scenario-strategies-growth-factors-and-forecast-to-2028-118-pages-report.md",
+      "title": "Medical Robotic Systems Market 2022 : Industry Scenario, Strategies, Growth Factors and Forecast to 2028 | 118 Pages Report",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Oct 18, 2022 (The Expresswire) -- \"Medical Robotic Systems Market\" Insights 2022 By Types, Applications, Regions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/medical-robotic-systems-market-2022-industry-scenario-strategies-growth-factors-and-forecast-to-2028-118-pages-report-2022-10-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/medical-robotic-systems-market-2022-industry-scenario-strategies-growth-factors-and-forecast-to-2028-118-pages-report-2022-10-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-18-restraining-nvidia-for-china-chips-is-good-for-amazon.md",
       "title": "Restraining Nvidia For China Chips Is Good For Amazon",
       "excerpt": "Restrictions on NVIDIA for exporting its latest AI chips to Chinese big tech Alibaba could be a boon to hyperscaler Amazon with its AWS cloud and eCommerce platforms. The Chinese tech giant ...",
@@ -997,125 +1154,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-aws-to-launch-an-infrastructure-region-in-thailand.md",
-      "title": "AWS to Launch an Infrastructure Region in Thailand",
-      "excerpt": "Region will allow customers to run workloads and securely store data in Thailand while serving end users with even lower latency AWS plans an estimated investment of more than $5 billion",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/b29299246/aws-to-launch-an-infrastructure-region-in-thailand",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/b29299246/aws-to-launch-an-infrastructure-region-in-thailand",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29299246",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29299246",
-      "publishedDateTime": "2022-10-17T20:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-practical-wisdom-and-the-value-of-cognitive-diversity.md",
-      "title": "Practical Wisdom and the Value of Cognitive Diversity",
-      "excerpt": "Practical reasoning would seem to include cognitive capacities such as top-down attentional focus, as we must be able to attend to the salient features of a situation to notice a moral problem. For example, only once a lecturer notices that a student's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/royal-institute-of-philosophy-supplements/article/practical-wisdom-and-the-value-of-cognitive-diversity/6F5246F5D31E82181CDC1061DB772AFE",
-      "originalUrl": "https://www.cambridge.org/core/journals/royal-institute-of-philosophy-supplements/article/practical-wisdom-and-the-value-of-cognitive-diversity/6F5246F5D31E82181CDC1061DB772AFE",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-netapp-ceo-the-promise-of-ai-is-much-more-real-today.md",
-      "title": "NetApp CEO: The Promise of AI is \"Much More Real Today\"",
-      "excerpt": "George Kurian says companies that hold out on AI are missing the opportunity for business success",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/videos/watch/NetApp-CEO-The-Promise-of-AI-is-Much-More-Real-Today/da1118b1-548e-4f1a-b481-99b2086fc502",
-      "originalUrl": "https://fortune.com/videos/watch/NetApp-CEO-The-Promise-of-AI-is-Much-More-Real-Today/da1118b1-548e-4f1a-b481-99b2086fc502",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2byebo1j9i40c.cloudfront.net/da1118b1-548e-4f1a-b481-99b2086fc502/Images/posterImage-ver1-1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/videos/watch/netapp-ceo%3A-the-promise-of-ai-is-%22much-more-real-today%22/da1118b1-548e-4f1a-b481-99b2086fc502/amp",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/netapp-ceo%3A-the-promise-of-ai-is-%22much-more-real-today%22/da1118b1-548e-4f1a-b481-99b2086fc502/amp",
-      "publishedDateTime": "2022-10-17T16:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

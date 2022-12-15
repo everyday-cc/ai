@@ -23,43 +23,38 @@ topics:
   - AWS AI
 
 related:
-  - title: "Amazon SageMaker JumpStart now offers Amazon Comprehend notebooks for custom classification and custom entity detection"
-    excerpt: "Amazon Comprehend is a natural language processing (NLP) service that uses machine learning (ML) to discover insights from text. Amazon Comprehend provides customized features, custom entity recognition, custom classification, and pre-trained APIs such as key phrase extraction, sentiment analysis, entity"
-    publishedDateTime: 2022-12-12T17:04:52Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-now-offers-amazon-comprehend-notebooks-for-custom-classification-and-custom-entity-detection/"
+  - title: "SRM hosts meet on deep learning for image restoration & computer vision"
+    excerpt: "VIJAYAWADA: SRM University-AP hosted the IEEE SPS Winter School on ‘Deep Learning for Image Restoration and Computer Vision’ from December 5 to 10. Department of Electronics and Communication ..."
+    publishedDateTime: 2022-12-11T03:18:00Z
+    webUrl: "https://www.newindianexpress.com/cities/vijayawada/2022/dec/11/srm-hosts-meet-on-deep-learning-for-image-restoration--computer-vision-2527047.html"
+    ampWebUrl: "https://www.newindianexpress.com/cities/vijayawada/2022/dec/11/srm-hosts-meet-on-deep-learning-for-image-restoration--computer-vision-2527047.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/vijayawada/2022/dec/11/srm-hosts-meet-on-deep-learning-for-image-restoration--computer-vision-2527047.amp"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 97
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 76
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/12/sagemaker-jumpstart-comprehend-notebooks.jpg"
-        width: 1564
-        height: 779
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/9/18/w600X390/Computer.jpg"
+        width: 600
+        height: 390
         isCached: true
-  - title: "Introducing Amazon SageMaker Data Wrangler’s new embedded visualizations"
-    excerpt: "Manually inspecting data quality and cleaning data is a painful and time-consuming process that can take a huge chunk of a&nbsp;data scientist’s time on a project.&nbsp;According to a 2020 survey of data scientists conducted by Anaconda, data scientists spend approximately 66% of their time on data preparation"
-    publishedDateTime: 2022-12-13T21:17:31Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-data-wranglers-new-embedded-visualizations/"
+  - title: "SRM-AP hosts meet on deep learning for image restoration, computer vision"
+    excerpt: "Prof Sumantra Dutta Roy from IIT Delhi, a well-acclaimed researcher in computer vision and machine learning, delivered a lecture on ‘Biometrics and Medical Informatics.'"
+    publishedDateTime: 2022-12-11T03:24:00Z
+    webUrl: "https://www.newindianexpress.com/cities/vijayawada/2022/dec/11/srm-ap-hosts-meet-on-deep-learning-for-image-restorationcomputer-vision-2527047.html"
+    ampWebUrl: "https://www.newindianexpress.com/cities/vijayawada/2022/dec/11/srm-ap-hosts-meet-on-deep-learning-for-image-restorationcomputer-vision-2527047.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/vijayawada/2022/dec/11/srm-ap-hosts-meet-on-deep-learning-for-image-restorationcomputer-vision-2527047.amp"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 88
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 75
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/13/sagemaker-data-wrangler-embedded-visualizations.jpg"
-        width: 1564
-        height: 780
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/9/18/w600X390/Computer.jpg"
+        width: 600
+        height: 390
         isCached: true
-  - title: "Planet Makes Its Geospatial Data Available Through Amazon SageMaker"
-    excerpt: "Planet operates the largest constellation of earth observation satellites in the world, with the capacity to provide daily medium- and high-resolution imagery of Earth's landmass every day. Planet is using AWS to better serve its customers who can now benefit from the simplicity and speed of Amazon SageMaker's new geospatial ML capabilities to build,"
-    publishedDateTime: 2022-12-14T14:41:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/12/14/9730513.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
 
 secured: "GJTQr/itIgEI+6SdC3WozuMPkeGH8ruWy4pOA85cPAaCqVif+8fdryn9mMP0ouCA3ZQxyceCALZW9mIxxkGZM3yqpiHUMdZHNsMKhaQQ+m5czHmGm+NZxDsRolRQfx+0GVLybjHOVeRv6QCCks4FP+eIODnsbqIsr6n8iy5Bdtr8KG6+4+xJYUGIjKBtlr7WbVKvlEACealNMcYSyZHq1f8SssaD31JHyHoonIY2dmtg6IDJZI0herM3477IiXFuLSskka3EdrdXpIAv36Wg4QzAWMy3I8cmkTefxDyiIZfUPZgYLtUlIG/cIqWSBxMO9fSFyJncximO+ZAp9xaeoEOfioMGQo23F5mt80rSFGY=;nOMABWn64NsvSGT5vzHCYw=="
 ---

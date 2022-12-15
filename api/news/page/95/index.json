@@ -2,6 +2,136 @@
   "page": 95,
   "value": [
     {
+      "path": "_news/2022-09-22-highbyte-expands-industrial-connectivity-from-microsoft-azure-iot-edge-to-azure-digital-twins.md",
+      "title": "HighByte Expands Industrial Connectivity from Microsoft Azure IoT Edge to Azure Digital Twins",
+      "excerpt": "The industrial software company has expanded cloud connectivity and improved enterprise IT management with HighByte Intelligence Hub version 2.5.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/products/september-2022/highbyte-industrial-connectivity-microsoft-azure",
+      "originalUrl": "https://www.automation.com/en-us/products/september-2022/highbyte-industrial-connectivity-microsoft-azure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/aa63c977-cdce-4db8-9dff-034bafe0dadc/Highbyte-prod-Sept-22-2022-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-22T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-22-falkonry-unveils-gpu-based-high-speed-time-series-anomaly-detection-application.md",
+      "title": "Falkonry Unveils GPU-Based, High-Speed Time Series Anomaly Detection Application",
+      "excerpt": "Falkonry today announced an automated anomaly detection application called Falkonry Insight which operates on high-speed sensor time series data. Insight is the newest addition to Falkonry's Time Series AI Suite to drive higher operational reliability and yield,",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/09/22/9679188.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/09/22/9679188.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-22T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-22-openai-open-sources-whisper-a-multilingual-speech-recognition-system.md",
+      "title": "OpenAI open-sources Whisper, a multilingual speech recognition system",
+      "excerpt": "OpenAI has released Whisper, a robust speech recognition model that can understand and transcribe multiple languages.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/21/openai-open-sources-whisper-a-multilingual-speech-recognition-system/",
+      "originalUrl": "https://techcrunch.com/2022/09/21/openai-open-sources-whisper-a-multilingual-speech-recognition-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/03/lp-logo-3.jpg?resize=1200,812",
+          "width": 1200,
+          "height": 812,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/21/openai-open-sources-whisper-a-multilingual-speech-recognition-system/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/21/openai-open-sources-whisper-a-multilingual-speech-recognition-system/amp/",
+      "publishedDateTime": "2022-09-22T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-09-22-why-you-need-a-digital-champion-to-score-ai-wins.md",
       "title": "Why you need a digital champion to score AI wins",
       "excerpt": "Panelists at Digital Procurement World said making AI work with humans requires an internal digital champion to create a safe environment.",
@@ -982,153 +1112,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-robots-chase-down-balls-in-fun-outdoor-game.md",
-      "title": "Robots Chase Down Balls In Fun Outdoor Game",
-      "excerpt": "The remote-control robots themselves come from an earlier art installation the group built called Bubble Blast. They’re built using a 3D printed chassis, with wheels on each side driven by DC ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2022/09/22/robots-chase-down-balls-in-fun-outdoor-game/",
-      "originalUrl": "https://hackaday.com/2022/09/22/robots-chase-down-balls-in-fun-outdoor-game/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2022/09/Niklas_Roy_Diary_Lores_2417-e1663743531149.jpg",
-          "width": 1023,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T19:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-ibm-watson-from-game-show-champion-to-game-changing-industries.md",
-      "title": "IBM Watson: From game-show champion to game-changing industries",
-      "excerpt": "When last we left IBM’s Watson, the cognitive computing platform was basking in the glow of its victory on the television quiz show “Jeopardy.” Showing off its mastery of trivia, Watson ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/artificial-intelligence/ibm-watson-from-game-show-champion-to-game-changing-industries/",
-      "originalUrl": "https://sdtimes.com/artificial-intelligence/ibm-watson-from-game-show-champion-to-game-changing-industries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2015/09/0922.sdt-watson-hq.jpg",
-          "width": 490,
-          "height": 276,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-syngenta-aims-to-make-its-sap-erp-as-reliable-as-water-from-a-tap.md",
-      "title": "Syngenta Aims To Make Its SAP ERP As Reliable As Water From A Tap",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as he recently talked with Christian Bayer, the Global Head of ERP/SAP and Data and Analytics at Syngenta, and partner Infosys, about moving SAP to the public cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/09/21/syngenta-aims-to-make-its-sap-erp-as-reliable-as-water-from-a-tap/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/09/21/syngenta-aims-to-make-its-sap-erp-as-reliable-as-water-from-a-tap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/632ba19714a25a13177d2c1f/0x0.jpg?format=jpg&width=1200",
-          "width": 560,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/09/21/syngenta-aims-to-make-its-sap-erp-as-reliable-as-water-from-a-tap/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/09/21/syngenta-aims-to-make-its-sap-erp-as-reliable-as-water-from-a-tap/amp/",
-      "publishedDateTime": "2022-09-21T16:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

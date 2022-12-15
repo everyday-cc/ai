@@ -81,20 +81,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft Tech Community Blogs gets text to speech feature"
-    excerpt: "Microsoft has announced that it is making it easier for you to listen to your favorite Microsoft Tech Community Blog articles. The company is introducing a"
-    publishedDateTime: 2022-12-13T16:22:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-tech-community-blogs-gets-text-to-speech-feature"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 39
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2022/12/Untitled-design-3.jpg"
-        width: 1028
-        height: 768
-        isCached: true
   - title: "Empowering the future of financial markets with London Stock Exchange Group"
     excerpt: "Microsoft looks to generate $5 billion in revenue from LSEG and the financial services sector through 10-year strategic partnership. Today, we announced a 10-year strategic partnership with the London Stock Exchange Group (LSEG),"
     publishedDateTime: 2022-12-12T07:59:00Z

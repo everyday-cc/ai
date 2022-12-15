@@ -2,6 +2,163 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2022-11-28-5-risks-of-ai-and-machine-learning-that-modelops-remediates.md",
+      "title": "5 risks of AI and machine learning that modelops remediates",
+      "excerpt": "Modelops improves machine learning model development, testing, deployment, and monitoring. Follow these tips to keep model risks in check and increase the efficiency and usefulness of your ML initiatives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3681208/5-risks-of-ai-and-machine-learning-that-modelops-remediates.html",
+      "originalUrl": "https://www.infoworld.com/article/3681208/5-risks-of-ai-and-machine-learning-that-modelops-remediates.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/10/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3681208/5-risks-of-ai-and-machine-learning-that-modelops-remediates.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3681208/5-risks-of-ai-and-machine-learning-that-modelops-remediates.amp.html",
+      "publishedDateTime": "2022-11-28T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-11-28-as-ai-gets-smarter-creatives-must-continue-to-predict-its-behavior.md",
+      "title": "As AI Gets Smarter, Creatives Must Continue To Predict Its Behavior",
+      "excerpt": "Predicting and influencing human behavior is as old as human beings themselves, but now we’re entering a new territory—one that has never been possible until the advent of AI. Artificial intelligence helped me write the end of that last sentence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/11/28/as-ai-gets-smarter-creatives-must-continue-to-predict-its-behavior/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/11/28/as-ai-gets-smarter-creatives-must-continue-to-predict-its-behavior/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637e2d8f5e5b4ed672588243/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/11/28/as-ai-gets-smarter-creatives-must-continue-to-predict-its-behavior/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/11/28/as-ai-gets-smarter-creatives-must-continue-to-predict-its-behavior/amp/",
+      "publishedDateTime": "2022-11-28T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-11-28-needed-more-worker-involvement-in-artificial-intelligence-initiatives.md",
+      "title": "Needed: More Worker Involvement In Artificial Intelligence Initiatives",
+      "excerpt": "Something very important is missing from the AI picture: the involvement of the employees who will be charged with making AI and data-driven enterprises work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/11/28/needed-more-worker-involvement-in-artificial-intelligence-initiatives/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/11/28/needed-more-worker-involvement-in-artificial-intelligence-initiatives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63842abe661ca5e9043cf512/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/11/28/needed-more-worker-involvement-in-artificial-intelligence-initiatives/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/11/28/needed-more-worker-involvement-in-artificial-intelligence-initiatives/amp/",
+      "publishedDateTime": "2022-11-28T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-11-28-panzura-partners-with-aws-on-ransomware-counter-measures.md",
       "title": "Panzura partners with AWS on ransomware counter-measures",
       "excerpt": "Panzura might have slipped beneath the waves, but it’s come back reinvigorated, and now boasts integration with AWS with ransomware protection and Outposts hardware.",
@@ -978,136 +1135,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-27-commentary-tsa-faces-ethical-limits-in-use-of-ai-but-work-to-improve-the-technology-must-persist.md",
-      "title": "Commentary: TSA faces ethical limits in use of AI. But work to improve the technology must persist",
-      "excerpt": "Artificial intelligence has become a disruptive force in society. Terms such as machine learning, deep learning and neural networks have become commonplace among mainstream media, eliciting visions of",
-      "sourceUrl": null,
-      "webUrl": "https://www.yakimaherald.com/opinion/commentary-tsa-faces-ethical-limits-in-use-of-ai-but-work-to-improve-the-technology/article_fd545cca-6b5e-11ed-9ff9-6f01b48b3dcd.html",
-      "originalUrl": "https://www.yakimaherald.com/opinion/commentary-tsa-faces-ethical-limits-in-use-of-ai-but-work-to-improve-the-technology/article_fd545cca-6b5e-11ed-9ff9-6f01b48b3dcd.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/3/11/311406e6-6b5f-11ed-afac-1b658226b053/637e6ae553d68.image.jpg?resize=1024%2C686",
-          "width": 1024,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.yakimaherald.com/opinion/commentary-tsa-faces-ethical-limits-in-use-of-ai-but-work-to-improve-the-technology/article_fd545cca-6b5e-11ed-9ff9-6f01b48b3dcd.amp.html",
-      "cdnAmpWebUrl": "https://www-yakimaherald-com.cdn.ampproject.org/c/s/www.yakimaherald.com/opinion/commentary-tsa-faces-ethical-limits-in-use-of-ai-but-work-to-improve-the-technology/article_fd545cca-6b5e-11ed-9ff9-6f01b48b3dcd.amp.html",
-      "publishedDateTime": "2022-11-27T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Yakima Herald-Republic",
-        "domain": "yakimaherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-11-27-how-bitcoin-and-artificial-intelligence-will-free-your-time.md",
-      "title": "How Bitcoin And Artificial Intelligence Will Free Your Time",
-      "excerpt": "The use of technology will give humans more time to practice mindfulness and do the things they want to do, without having to worry about making ends meet.",
-      "sourceUrl": null,
-      "webUrl": "https://bitcoinmagazine.com/culture/bitcoin-and-artificial-intelligence-frees-your-time",
-      "originalUrl": "https://bitcoinmagazine.com/culture/bitcoin-and-artificial-intelligence-frees-your-time",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bitcoinmagazine.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTkzMjU1NjA1NDIxNjE0NjU5/city-of-the-future.png",
-          "width": 620,
-          "height": 409,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bitcoinmagazine.com/.amp/culture/bitcoin-and-artificial-intelligence-frees-your-time",
-      "cdnAmpWebUrl": "https://bitcoinmagazine-com.cdn.ampproject.org/c/s/bitcoinmagazine.com/.amp/culture/bitcoin-and-artificial-intelligence-frees-your-time",
-      "publishedDateTime": "2022-11-26T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bitcoin Magazine",
-        "domain": "bitcoinmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-27-seal-conservation-efforts-aided-by-new-facial-recognition-technology.md",
-      "title": "Seal conservation efforts aided by new facial recognition technology",
-      "excerpt": "SealNet, automated facial recognition technology using a database of seal faces, was developed by a research team at Colgate University and will assist in conservation efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/",
-      "originalUrl": "https://nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/11/harbor-seals-comp.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/11/26/seal-conservation-efforts-aided-by-facial-recognition-tech/amp/",
-      "publishedDateTime": "2022-11-26T13:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

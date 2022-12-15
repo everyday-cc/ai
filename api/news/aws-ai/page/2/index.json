@@ -568,6 +568,40 @@
       ]
     },
     {
+      "path": "_news/2022-11-30-thundersoft-joins-the-amazon-sagemaker-ready-program.md",
+      "title": "ThunderSoft Joins the Amazon SageMaker Ready Program",
+      "excerpt": "Joining the Amazon SageMaker Ready Program differentiates ThunderSoft as an AWS Partner Network (APN) member with a product that works with Amazon SageMaker and is generally available for and fully supports AWS customers.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/11/30/9722485.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/11/30/9722485.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-aws-announces-three-amazon-ec2-instances-powered-by-new-aws-designed-chips.md",
       "title": "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips",
       "excerpt": "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads.",
@@ -1286,59 +1320,6 @@
         "AI",
         "AWS AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-how-jpmorgan-chase-co-uses-aws-deepracer-events-to-drive-global-cloud-adoption.md",
-      "title": "How JPMorgan Chase & Co. uses AWS DeepRacer events to drive global cloud adoption",
-      "excerpt": "This is a guest post by Stephen Carrad, Vice President at JP Morgan Chase &amp; Co. JPMorgan &amp; Chase Co. started its cloud journey four years ago, building the integrations required to deploy cloud-native applications into the cloud in a resilient and secure manner. In the first year, three applications",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-jpmorgan-chase-co-uses-aws-deepracer-events-to-drive-global-cloud-adoption/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-jpmorgan-chase-co-uses-aws-deepracer-events-to-drive-global-cloud-adoption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/23/jpmorgan-deepracer.jpg",
-          "width": 1559,
-          "height": 777,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-23T15:45:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Autos"
       ]
     }
   ],

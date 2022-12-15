@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-12-bolstering-safety-self-driving-c
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-bolstering-safety-self-driving-cars-deep.amp"
 type: article
 quality: 50
-heat: 140
+heat: 130
 published: true
 
 provider:
@@ -126,20 +126,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/Metas-Answer-to-the-Missing-Link-of-Self-Supervised-Learning-.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Tough road ahead: Self-driving cars are taking off in the US, but Australians might be waiting a while yet"
-    excerpt: "More self-driving cars are hitting the road in America, letting drivers relax behind the wheel. But when will Australians be driven around by their own cars?"
-    publishedDateTime: 2022-12-11T01:12:00Z
-    webUrl: "https://www.sbs.com.au/news/article/tough-road-ahead-self-driving-cars-are-taking-off-in-the-us-but-australians-might-be-waiting-a-while-yet/a5ebp93on"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 21
-    images:
-      - url: "https://images.sbs.com.au/dims4/default/49cd67f/2147483647/strip/true/crop/4032x2268+0+378/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fad%2F88%2F42549de54729aaa842334c04fa4e%2F20221209001740523176-original.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Shapiro: A moonshot moment for self-driving cars | Opinion"
     excerpt: "The United States and China are locked in a battle for tech leadership, and self-driving vehicles are on the cutting edge of the AI revolution."

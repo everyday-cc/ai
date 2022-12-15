@@ -2,6 +2,134 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2022-10-10-ai-powered-job-recruitment-tools-may-not-improve-hiring-diversity-experts-argue.md",
+      "title": "AI-Powered Job Recruitment Tools May Not Improve Hiring Diversity, Experts Argue",
+      "excerpt": "There is “little accountability for how the products are built or tested,” according to one researcher with The University of Cambridge’s Center for Gender Studies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/madelinehalpert/2022/10/09/ai-powered-job-recruitment-tools-may-not-improve-hiring-diversity-experts-argue/",
+      "originalUrl": "https://www.forbes.com/sites/madelinehalpert/2022/10/09/ai-powered-job-recruitment-tools-may-not-improve-hiring-diversity-experts-argue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/634331499bd9d09c0261f5c2/0x0.jpg?format=jpg&crop=3425,1926,x0,y151,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/madelinehalpert/2022/10/09/ai-powered-job-recruitment-tools-may-not-improve-hiring-diversity-experts-argue/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/madelinehalpert/2022/10/09/ai-powered-job-recruitment-tools-may-not-improve-hiring-diversity-experts-argue/amp/",
+      "publishedDateTime": "2022-10-09T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-10-boston-dynamics-and-five-other-robot-makers-pledge-not-to-weaponize-their-robots.md",
+      "title": "Boston Dynamics and five other robot makers pledge not to weaponize their robots",
+      "excerpt": "Boston Dynamics, Agility Robotics, ANYbotics, Clearpath Robotics, Open Robotics, and Unitree have all signed a pledge to stop robots from being weaponized.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/innovation/robot-makers-pledge-not-to-weaponize-their-robots",
+      "originalUrl": "https://interestingengineering.com/innovation/robot-makers-pledge-not-to-weaponize-their-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-09T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-10-dubais-rta-to-showcase-driverless-taxis-for-the-first-time-during-gitex.md",
+      "title": "Dubai's RTA to showcase driverless taxis for the first time during Gitex",
+      "excerpt": "Dubai's Roads and Transport Authority (RTA) has revealed an extensive collection of smart initiatives, applications, and stations it will showcase at the 4..",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/transport/self-driving-transport-new-gen-taxis-dubai-rta-to-showcase-new-initiatives-at-gitex-2022",
+      "originalUrl": "https://www.khaleejtimes.com/transport/self-driving-transport-new-gen-taxis-dubai-rta-to-showcase-new-initiatives-at-gitex-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.khaleejtimes.com?uuid=7cc4b377-db5c-5fac-9612-25ede4150eb9&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.95339&width=1200&height=675&x=1.0E-5&y=0.02331",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khaleejtimes.com/transport/self-driving-transport-new-gen-taxis-dubai-rta-to-showcase-new-initiatives-at-gitex-2022?amp=1",
+      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/transport/self-driving-transport-new-gen-taxis-dubai-rta-to-showcase-new-initiatives-at-gitex-2022?amp=1",
+      "publishedDateTime": "2022-10-09T10:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-09-iit-mandi-start-up-to-launch-worlds-first-ai-backed-giant-swing-in-manali.md",
       "title": "IIT Mandi start up to launch world's first AI-backed giant swing in Manali",
       "excerpt": "Four engineer friends have claimed to have innovated a giant swing backed by AI which will provide an \"impeccable\" security to the jumpers with more than 100 jump styles",
@@ -1003,162 +1131,6 @@
         "AI Ethics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-ai-music-generators-could-be-a-boon-for-artists-but-also-problematic.md",
-      "title": "AI music generators could be a boon for artists — but also problematic",
-      "excerpt": "Stability AI is funding an effort to create a music-generating system using the same AI techniques behind Stable Diffusion.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/07/ai-music-generator-dance-diffusion/",
-      "originalUrl": "https://techcrunch.com/2022/10/07/ai-music-generator-dance-diffusion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/DALL·E-2022-10-07-00.01.33-a-robot-composing-music-musical-notes-synthesizer-saturated-colors-shadows-trending-on-artstation-abstract-1-e1665150702829.png?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/07/ai-music-generator-dance-diffusion/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/07/ai-music-generator-dance-diffusion/amp/",
-      "publishedDateTime": "2022-10-07T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-cookie-langs-brings-fast-foreign-language-learning-to-fashion.md",
-      "title": "Cookie Langs Brings Fast Foreign Language Learning To Fashion",
-      "excerpt": "The fashion industry continues to become more and more globalized, which is why Cookie Langs, one of the largest AI language learning platforms in the world, wants people in fashion to use their app to quickly learn languages to aid their careers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rebeccasuhrawardi/2022/10/07/cookie-langs-brings-fast-foreign-language-learning-to-fashion/",
-      "originalUrl": "https://www.forbes.com/sites/rebeccasuhrawardi/2022/10/07/cookie-langs-brings-fast-foreign-language-learning-to-fashion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/633ffbebbb739d8f7d6461d8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 812,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rebeccasuhrawardi/2022/10/07/cookie-langs-brings-fast-foreign-language-learning-to-fashion/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccasuhrawardi/2022/10/07/cookie-langs-brings-fast-foreign-language-learning-to-fashion/amp/",
-      "publishedDateTime": "2022-10-07T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-boston-dynamics-we-wont-weaponize-our-robots-and-neither-should-our-customers.md",
-      "title": "Boston Dynamics: We won't weaponize our robots and neither should our customers",
-      "excerpt": "The company's open letter highlights that consumers' trust in robots has waned after seeing weapons combined with autonomous and remotely controlled robots. Also: The White House passes an AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/boston-dynamics-we-wont-weaponize-our-robots-and-neither-should-our-customers/",
-      "originalUrl": "https://www.zdnet.com/article/boston-dynamics-we-wont-weaponize-our-robots-and-neither-should-our-customers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/718372034ce92ee7772a751ee6c975e2498c3e13/2020/06/16/a4a4823e-ca8b-440e-a820-258bff48d5f8/spot.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 961,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/boston-dynamics-we-wont-weaponize-our-robots-and-neither-should-our-customers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/boston-dynamics-we-wont-weaponize-our-robots-and-neither-should-our-customers/",
-      "publishedDateTime": "2022-10-07T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,153 @@
   "page": 96,
   "value": [
     {
+      "path": "_news/2022-09-22-robots-chase-down-balls-in-fun-outdoor-game.md",
+      "title": "Robots Chase Down Balls In Fun Outdoor Game",
+      "excerpt": "The remote-control robots themselves come from an earlier art installation the group built called Bubble Blast. They’re built using a 3D printed chassis, with wheels on each side driven by DC ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2022/09/22/robots-chase-down-balls-in-fun-outdoor-game/",
+      "originalUrl": "https://hackaday.com/2022/09/22/robots-chase-down-balls-in-fun-outdoor-game/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2022/09/Niklas_Roy_Diary_Lores_2417-e1663743531149.jpg",
+          "width": 1023,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T19:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-22-ibm-watson-from-game-show-champion-to-game-changing-industries.md",
+      "title": "IBM Watson: From game-show champion to game-changing industries",
+      "excerpt": "When last we left IBM’s Watson, the cognitive computing platform was basking in the glow of its victory on the television quiz show “Jeopardy.” Showing off its mastery of trivia, Watson ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/artificial-intelligence/ibm-watson-from-game-show-champion-to-game-changing-industries/",
+      "originalUrl": "https://sdtimes.com/artificial-intelligence/ibm-watson-from-game-show-champion-to-game-changing-industries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2015/09/0922.sdt-watson-hq.jpg",
+          "width": 490,
+          "height": 276,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-22-syngenta-aims-to-make-its-sap-erp-as-reliable-as-water-from-a-tap.md",
+      "title": "Syngenta Aims To Make Its SAP ERP As Reliable As Water From A Tap",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as he recently talked with Christian Bayer, the Global Head of ERP/SAP and Data and Analytics at Syngenta, and partner Infosys, about moving SAP to the public cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/09/21/syngenta-aims-to-make-its-sap-erp-as-reliable-as-water-from-a-tap/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/09/21/syngenta-aims-to-make-its-sap-erp-as-reliable-as-water-from-a-tap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/632ba19714a25a13177d2c1f/0x0.jpg?format=jpg&width=1200",
+          "width": 560,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/09/21/syngenta-aims-to-make-its-sap-erp-as-reliable-as-water-from-a-tap/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/09/21/syngenta-aims-to-make-its-sap-erp-as-reliable-as-water-from-a-tap/amp/",
+      "publishedDateTime": "2022-09-21T16:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-22-getty-is-banning-ai-generated-images.md",
       "title": "Getty Is Banning AI-Generated Images",
       "excerpt": "AI-created works. Popular AI image generators such as Dall-E, Stable Diffusion and Midjourney will no longer be allowed on the site, PetaPixel reported. \"We've already started removing content, but this will be an ongoing effort from our teams,",
@@ -1053,154 +1200,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-facial-recognition-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis.md",
-      "title": "Facial Recognition Market Size Is Likely to Experience a Tremendous Growth by 2031 Covid-19 Analysis",
-      "excerpt": "A research report on Facial Recognition Market was added by SDKI in its database which discusses the product as well",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis-2022-09-21-91975832",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis-2022-09-21-91975832",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-wallaroo-labs-launches-in-azure-marketplace-announces-air-gap-support-for-edge-machine-learning-deployment.md",
-      "title": "Wallaroo Labs Launches in Azure Marketplace; Announces Air Gap Support for Edge Machine Learning Deployment",
-      "excerpt": "Wallaroo Labs today announced the availability of Wallaroo Enterprise Edition on Microsoft Azure Marketplace. Wallaroo's model operations platform for deploying, observing, and managing machine learning in production enables customers to easily operationalize ML Models with our purpose-built inference engine,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-wallaroo-labs-launches-azure-marketplace-announces-air-gap-/2022/09/21/9677902.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-wallaroo-labs-launches-azure-marketplace-announces-air-gap-/2022/09/21/9677902.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
-          "width": 476,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-lasso-and-cmi-media-group-announce-first-to-market-partnership-with-ibm-watson.md",
-      "title": "Lasso and CMI Media Group Announce First-To-Market Partnership with IBM Watson",
-      "excerpt": "Lasso and CMI Media Group Announce First-To-Market Partnership with IBM Watson Sep 21, 2022 (PRNewswire via COMTEX) -- PR Newswire AUSTIN, Texas, Sept.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/lasso-and-cmi-media-group-announce-first-to-market-partnership-with-ibm-watson-2022-09-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/lasso-and-cmi-media-group-announce-first-to-market-partnership-with-ibm-watson-2022-09-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T05:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

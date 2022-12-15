@@ -2,6 +2,162 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2022-11-08-id-selfie-improving-digital-identity-verification-using-aws.md",
+      "title": "“ID + Selfie” – Improving digital identity verification using AWS",
+      "excerpt": "The COVID-19 global pandemic has accelerated the need to verify and onboard users online across several industries, such as financial services, insurance, and healthcare. When it comes to user experience it is crucial to provide a frictionless transaction while maintaining a high standard for identity",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/id-selfie-improving-digital-identity-verification-using-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/id-selfie-improving-digital-identity-verification-using-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/08/id-selfie-rekognition.jpg",
+          "width": 1547,
+          "height": 772,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-08T10:55:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-08-getting-started-with-deploying-real-time-models-on-amazon-sagemaker.md",
+      "title": "Getting started with deploying real-time models on Amazon SageMaker",
+      "excerpt": "Amazon SageMaker is a fully-managed service that provides every developer and data scientist with the ability to quickly build, train, and deploy machine learning (ML) models at scale. ML is realized in inference. SageMaker offers four Inference options: Real-Time Inference Serverless Inference Asynchronous",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-deploying-real-time-models-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-deploying-real-time-models-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/08/getting-started-real-time-sagemaker.jpg",
+          "width": 1548,
+          "height": 774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-08T10:51:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-09-why-data-remains-the-greatest-challenge-for-machine-learning-projects.md",
+      "title": "Why data remains the greatest challenge for machine learning projects",
+      "excerpt": "Automated and semi-automated labeling tools use a deep learning model to process the training examples and predict the bounding boxes. The automated labels are not perfect, and a human labeler must review and adjust them, but they speed up the process ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-data-remains-the-greatest-challenge-for-machine-learning-projects/",
+      "originalUrl": "https://venturebeat.com/ai/why-data-remains-the-greatest-challenge-for-machine-learning-projects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/shutterstock_350476919-e1513916353327.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/why-data-remains-the-greatest-challenge-for-machine-learning-projects/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-data-remains-the-greatest-challenge-for-machine-learning-projects/amp/",
+      "publishedDateTime": "2022-11-08T09:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-09-robotics-innovation-leading-companies-in-autopilot-mine-shuttles.md",
       "title": "Robotics innovation: Leading companies in autopilot mine shuttles",
       "excerpt": "The mining industry continues to be a hotbed of innovation, with activity driven by the need to enhance safety,",
@@ -973,135 +1129,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-no-you-cannot-buy-a-self-driving-car-today.md",
-      "title": "No, You Cannot Buy a Self-Driving Car Today",
-      "excerpt": "But unless you have another person drive for you, take public transit, or live in one of the few specific areas where prototype self-driving taxis are in service, you’ll have to drive (or walk ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.consumerreports.org/cars/autonomous-driving/no-you-cannot-buy-a-self-driving-car-today-a4355089516/",
-      "originalUrl": "https://www.consumerreports.org/cars/autonomous-driving/no-you-cannot-buy-a-self-driving-car-today-a4355089516/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://article.images.consumerreports.org/image/upload/t_article_tout/v1667572170/prod/content/dam/CRO-Images-2022/Cars/11November/CR-Cars-InlineHero-Chevrolet-Bolt-EUV-Super-Cruise-11-22",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-07T12:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Consumer Reports",
-        "domain": "consumerreports.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-new-go-playing-trick-defeats-world-class-go-aibut-loses-to-human-amateurs.md",
-      "title": "New Go-playing trick defeats world-class Go AI—but loses to human amateurs",
-      "excerpt": "By playing unexpected moves outside of KataGo's training set, a much weaker adversarial Go-playing program (that amateur humans can defeat) can trick KataGo into losing. To wrap our minds around this achievement and its implications,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/11/new-go-playing-trick-defeats-world-class-go-ai-but-loses-to-human-amateurs/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/11/new-go-playing-trick-defeats-world-class-go-ai-but-loses-to-human-amateurs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/go_board_hero_1200-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2022/11/new-go-playing-trick-defeats-world-class-go-ai-but-loses-to-human-amateurs/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/new-go-playing-trick-defeats-world-class-go-ai-but-loses-to-human-amateurs/amp/",
-      "publishedDateTime": "2022-11-07T11:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-software-used-on-suspected-khashoggi-killers-may-have-identified-missing-british-aristocrat.md",
-      "title": "Software used on suspected Khashoggi killers may have identified missing British aristocrat",
-      "excerpt": "A world-renowned face recognition expert believes his acclaimed software has identified the long-lost Lord Lucan as an 87-year-old man living as a pensioner in Brisbane, Australia, he told the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonexaminer.com/news/crime/facial-recognition-missing-aristocrat",
-      "originalUrl": "https://www.washingtonexaminer.com/news/crime/facial-recognition-missing-aristocrat",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-07T10:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Examiner",
-        "domain": "washingtonexaminer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

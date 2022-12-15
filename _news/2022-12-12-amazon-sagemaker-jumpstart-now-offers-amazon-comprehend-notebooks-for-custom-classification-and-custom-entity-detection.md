@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jum
 webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-now-offers-amazon-comprehend-notebooks-for-custom-classification-and-custom-entity-detection/"
 type: article
 quality: 97
-heat: 127
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "LightOn Lyra-fr model is now available on Amazon SageMaker"
+    excerpt: "We are thrilled to announce the availability of the LightOn Lyra-fr foundation model for customers using Amazon SageMaker. LightOn is a leader in building foundation models specializing in European languages. Lyra-fr is a state-of-the-art French language model that can be used to build conversational"
+    publishedDateTime: 2022-12-15T17:45:28Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/lighton-lyra-fr-model-is-now-available-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 104
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/15/lighton-lyra-fr-sagemaker.jpg"
+        width: 1563
+        height: 782
+        isCached: true
   - title: "Introducing Amazon SageMaker Data Wrangler’s new embedded visualizations"
     excerpt: "Manually inspecting data quality and cleaning data is a painful and time-consuming process that can take a huge chunk of a&nbsp;data scientist’s time on a project.&nbsp;According to a 2020 survey of data scientists conducted by Anaconda, data scientists spend approximately 66% of their time on data preparation"
     publishedDateTime: 2022-12-13T21:17:31Z
@@ -44,15 +58,6 @@ related:
         width: 1564
         height: 780
         isCached: true
-  - title: "Image augmentation pipeline for Amazon Lookout for Vision"
-    excerpt: "Amazon Lookout for Vision provides a machine learning (ML)-based anomaly detection service to identify normal images (i.e., images of objects without defects) vs anomalous images (i.e., images of objects with defects), types of anomalies (e.g., missing piece), and the location of these anomalies. Therefore,"
-    publishedDateTime: 2022-12-12T19:03:41Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/image-augmentation-pipeline-for-amazon-lookout-for-vision/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 54
   - title: "Planet Makes Its Geospatial Data Available Through Amazon SageMaker"
     excerpt: "Planet operates the largest constellation of earth observation satellites in the world, with the capacity to provide daily medium- and high-resolution imagery of Earth's landmass every day. Planet is using AWS to better serve its customers who can now benefit from the simplicity and speed of Amazon SageMaker's new geospatial ML capabilities to build,"
     publishedDateTime: 2022-12-14T14:41:00Z
@@ -61,6 +66,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 34
+  - title: "Planet Makes Its Geospatial Data Available Through Amazon SageMaker"
+    excerpt: "(NYSE: PL), a leading provider of daily data and insights about Earth, today announced it is making geospatial data available through Amazon SageMaker, a fully managed machine learning (ML) service from Amazon Web Services (AWS)."
+    publishedDateTime: 2022-12-14T19:03:00Z
+    webUrl: "https://spaceref.com/space-commerce/planet-makes-its-geospatial-data-available-through-amazon-sagemaker/"
+    type: article
+    provider:
+      name: SpaceRef
+      domain: spaceref.com
     quality: 34
 
 secured: "Rdjk3mo7ZMrhsz+c/7Vciyr+KiTo9mALZnEnOflCnGHw6dC0c4nsMsVPM3ltvpYwGz7HtzPBnIpKO+NNwJcQY0KofCXFn3mvAcVDG0qXPp5xR2pripPjDe9k78eaVJo9e5QspX49uxcm9dP7yGNZjD3fTiZTfNGtPjNA6NoDU6NmV783ogo0G6hp7ALe3Sy97dcxIXUS6gl1xc3ijQWEuGQQmRPDxGO5nf2G/xa2DHp5uGjFHYA/+t3re25RzOVuiHGPsw3iHpbQvrqpKn5FHvXFkWaOCc/E0MhZG+tEcG5wDIAtf4L3jz6CDEvhpCLJzmNcd6GDhxDaDHQUTOcO4a54ofCH0V7sx8vPMecKvtU=;tp2EDSun91Xl3HaXeSLvKA=="

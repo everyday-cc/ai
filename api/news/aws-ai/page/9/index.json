@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-09-13-vmware-cloud-on-aws-expands-to-hong-kong.md",
+      "title": "VMware Cloud on AWS Expands to Hong Kong",
+      "excerpt": "HONG KONG SAR - Media OutReach - 13  2022 - Today, VMware announces VMware Cloud on AWS is now available in the Asia Pacific (Hong Kong) Region.",
+      "sourceUrl": null,
+      "webUrl": "https://www.macaubusiness.com/vmware-cloud-on-aws-expands-to-hong-kong/",
+      "originalUrl": "https://www.macaubusiness.com/vmware-cloud-on-aws-expands-to-hong-kong/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2022/09/DSC00716-DdM9NR.jpeg",
+          "width": 1210,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T18:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macau Business",
+        "domain": "macaubusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-13-oracle-announces-mysql-heatwave-on-aws.md",
       "title": "Oracle Announces MySQL HeatWave on AWS",
       "excerpt": "AWS users can now run transaction processing, real-time analytics, and machine learning in one service with MySQLMySQL HeatWave delivers 7X",

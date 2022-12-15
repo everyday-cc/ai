@@ -2,6 +2,136 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2022-11-18-waymo-shows-off-its-next-truly-driverless-prototype-car.md",
+      "title": "Waymo shows off its next truly driverless prototype car",
+      "excerpt": "So, for the second time now, Waymo is doing a ground-up design of a driverless vehicle, without any of those useless, legacy human controls. The car was originally announced in December ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2022/11/waymo-shows-off-its-futuristic-transportation-as-a-service-vehicle/",
+      "originalUrl": "https://arstechnica.com/gadgets/2022/11/waymo-shows-off-its-futuristic-transportation-as-a-service-vehicle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2022/11/waymo-shows-off-its-futuristic-transportation-as-a-service-vehicle/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2022/11/waymo-shows-off-its-futuristic-transportation-as-a-service-vehicle/amp/",
+      "publishedDateTime": "2022-11-17T11:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-18-lumiq-wins-aws-specialty-partner-of-the-year-2022-for-data-analytics-machine-learning-second-year-in-a-row.md",
+      "title": "LUMIQ wins AWS Specialty Partner of the Year 2022 - for Data, Analytics, & Machine Learning - second year in a row",
+      "excerpt": "India's leading Data & Analytics company bagged the AWS Specialty Partner of the Year 2022 Award for Data, Analytics, and Machine Learning at the recent AWS Partner Summit in Bengaluru. The event saw Anil Kumble talking about his entrepreneurial journey and the evolution of the Indian tech landscape.",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/articles/Business/20221117/4004639.html",
+      "originalUrl": "https://news.webindia123.com/news/articles/Business/20221117/4004639.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T11:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-18-ai-drew-this-gorgeous-comic-series-youd-never-know-it.md",
+      "title": "AI Drew This Gorgeous Comic Series. You'd Never Know It",
+      "excerpt": "The Bestiary Chronicles is both a modern fable on the rise of artificial intelligence and a testament to how shockingly fast AI is evolving. Leslie Katz leads a team that explores the intersection of tech and culture, plus all manner of awe-inspiring ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/culture/ai-tool-midjourney-drew-this-gorgeous-comic-series-youd-never-know-it/",
+      "originalUrl": "https://www.cnet.com/culture/ai-tool-midjourney-drew-this-gorgeous-comic-series-youd-never-know-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/e0fd1ab6f42e20e4794ffe13af3443beba065bfe/hub/2022/11/11/d1211a3a-48a5-4e60-865b-1303693bb8b8/exodus-03-1.jpg?auto=webp",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-tool-midjourney-drew-this-gorgeous-comic-series-youd-never-know-it/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-tool-midjourney-drew-this-gorgeous-comic-series-youd-never-know-it/",
+      "publishedDateTime": "2022-11-17T10:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-artificial-intelligence-based-predictive-analytics-platform-is-gaining.md",
       "title": "Artificial Intelligence Based Predictive Analytics Platform Is Gaining",
       "excerpt": "Increasing focus on Artificial Intelligence (AI)-based predictive analytics platforms is gaining popularity in the healthcare predictive analytics market trends. Players in the healthcare predictive analytics market are focusing on the launch of AI-based predictive analytics platforms to sustain their position in the market.",
@@ -972,135 +1102,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-new-under-screen-facial-recognition-tech-scans-for-real-skin.md",
-      "title": "New under-screen facial recognition tech scans for real skin",
-      "excerpt": "Under-display cameras struggle to gain adoption in smartphones due to poor facial recognition. But that could change soon.",
-      "sourceUrl": null,
-      "webUrl": "https://knowtechie.com/new-under-screen-facial-recognition-tech-scans-for-real-skin/",
-      "originalUrl": "https://knowtechie.com/new-under-screen-facial-recognition-tech-scans-for-real-skin/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T05:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KnowTechie",
-        "domain": "knowtechie.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-flexible-ai-computer-chips-promise-wearable-health-monitors-that-protect-privacy.md",
-      "title": "Flexible AI computer chips promise wearable health monitors that protect privacy",
-      "excerpt": "Rather than working like a typical computer chip, though, the chip we’re working ... Our research aims to make the AI analysis of health data happen within these skinlike wearable devices ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/flexible-ai-computer-chips-promise-wearable-health-monitors-that-protect-privacy-189860",
-      "originalUrl": "https://theconversation.com/flexible-ai-computer-chips-promise-wearable-health-monitors-that-protect-privacy-189860",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/494503/original/file-20221109-13740-snz30g.JPG?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=202&fit=crop",
-          "width": 320,
-          "height": 202,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/flexible-ai-computer-chips-promise-wearable-health-monitors-that-protect-privacy-189860",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/flexible-ai-computer-chips-promise-wearable-health-monitors-that-protect-privacy-189860",
-      "publishedDateTime": "2022-11-17T05:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-this-wife-and-husband-duo-raised-15-million-to-expand-access-to-mental-healthcare.md",
-      "title": "This Wife And Husband Duo Raised $15 Million To Expand Access To Mental Healthcare",
-      "excerpt": "Chrstine Carville and Marc Goldberg have raised a series A round to expand their mental health startup Resilience Lab, which aims to boost the number and diversity of providers in the sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ariannajohnson/2022/11/17/this-wife-and-husband-duo-raised-15-million-to-expand-access-to-mental-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/ariannajohnson/2022/11/17/this-wife-and-husband-duo-raised-15-million-to-expand-access-to-mental-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63753366aa0a1108f7f59b8f/0x0.jpg?format=jpg&crop=1063,597,x84,y0,safe&width=1200",
-          "width": 1063,
-          "height": 597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T04:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

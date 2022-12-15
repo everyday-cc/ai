@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-buys-stake-in
 webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-buys-stake-in-london-stock-exchange-will-see-company-move-to-azure/"
 type: article
 quality: 51
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -80,20 +80,6 @@ related:
       - url: "https://arizent.brightspotcdn.com/dims4/default/c98ee1d/2147483647/strip/true/crop/900x473+0+64/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Ff2%2Fe3%2Fd6598c534bb19e51a6d9e43a456c%2F390276691.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Microsoft Tech Community Blogs gets text to speech feature"
-    excerpt: "Microsoft has announced that it is making it easier for you to listen to your favorite Microsoft Tech Community Blog articles. The company is introducing a"
-    publishedDateTime: 2022-12-13T16:22:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-tech-community-blogs-gets-text-to-speech-feature"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 39
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2022/12/Untitled-design-3.jpg"
-        width: 1028
-        height: 768
         isCached: true
   - title: "Empowering the future of financial markets with London Stock Exchange Group"
     excerpt: "Microsoft looks to generate $5 billion in revenue from LSEG and the financial services sector through 10-year strategic partnership. Today, we announced a 10-year strategic partnership with the London Stock Exchange Group (LSEG),"

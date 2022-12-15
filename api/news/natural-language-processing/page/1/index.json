@@ -251,59 +251,6 @@
       ]
     },
     {
-      "path": "_news/2022-12-12-amazon-sagemaker-jumpstart-now-offers-amazon-comprehend-notebooks-for-custom-classification-and-custom-entity-detection.md",
-      "title": "Amazon SageMaker JumpStart now offers Amazon Comprehend notebooks for custom classification and custom entity detection",
-      "excerpt": "Amazon Comprehend is a natural language processing (NLP) service that uses machine learning (ML) to discover insights from text. Amazon Comprehend provides customized features, custom entity recognition, custom classification, and pre-trained APIs such as key phrase extraction, sentiment analysis, entity",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-now-offers-amazon-comprehend-notebooks-for-custom-classification-and-custom-entity-detection/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-now-offers-amazon-comprehend-notebooks-for-custom-classification-and-custom-entity-detection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/12/sagemaker-jumpstart-comprehend-notebooks.jpg",
-          "width": 1564,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T09:04:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2022-12-09-how-to-control-windows-11-with-your-voice.md",
       "title": "How to control Windows 11 with your voice",
       "excerpt": "With voice access in Windows 11, you can navigate the screen, issue commands, and dictate text by talking. Here's what you need to know.",
@@ -1402,6 +1349,58 @@
         "name": "NHK",
         "domain": "nhk.or.jp",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-26-speech-voice-recognition-systems-market-2022-industry-scenario-strategies-growth-factors-and-forecast-to-2028.md",
+      "title": "Speech & Voice Recognition Systems Market 2022 : Industry Scenario, Strategies, Growth Factors and Forecast to 2028",
+      "excerpt": "\" Speech and Voice Recognition Systems Market \" Insights 2022 - By Applications (Consumer Entertainment, Telematics, Home Applications, Enterprise Applications), By Types (, Hardware, Software, ), By Segmentation analysis,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/speech-voice-recognition-systems-market-2022-industry-scenario-strategies-growth-factors-and-forecast-to-2028-2022-11-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/speech-voice-recognition-systems-market-2022-industry-scenario-strategies-growth-factors-and-forecast-to-2028-2022-11-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-25T10:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

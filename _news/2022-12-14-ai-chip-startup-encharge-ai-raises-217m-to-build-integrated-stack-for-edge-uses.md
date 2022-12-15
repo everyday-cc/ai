@@ -44,6 +44,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 64
+  - title: "AI chip startup EnCharge AI raises USD 21.7M to create an integrated stack for edge applications"
+    excerpt: "EnCharge AI Inc. has announced a USD 21.7 million Series A funding round to support the creation of a semiconductor hardware"
+    publishedDateTime: 2022-12-15T15:13:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/ai-chip-startup-encharge-ai-raises-usd-21-7m-to-create-an-integrated-stack-for-edge-applications/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/ai-chip-startup-encharge-ai-raises-usd-21-7m-to-create-an-integrated-stack-for-edge-applications/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ai-chip-startup-encharge-ai-raises-usd-21-7m-to-create-an-integrated-stack-for-edge-applications/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 61
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/12/AI-chip-startup-EnCharge-AI-raises-USD-21.7M-to-create-an-integrated-stack-for-edge-applications.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "EnCharge AI, a chip startup born in Princeton lab, raises $21.7 million"
     excerpt: "EnCharge AI, a chip startup born at a Princeton University lab, on Wednesday said it raised $21.7 million as it looks to commercialize its computing technology that is designed to run artificial intelligence applications more efficiently."
     publishedDateTime: 2022-12-15T08:20:00Z

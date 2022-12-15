@@ -2,6 +2,61 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-16-tigergraph-cloud-adds-graph-analytics-machine-learning-tools.md",
+      "title": "TigerGraph Cloud adds graph analytics, machine learning tools",
+      "excerpt": "The updated graph database-as-a-service (DBaaS) will come with visual analytics and machine learning tools, made accessible via the TigerGraph Suite.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3680069/tigergraph-cloud-adds-graph-analytics-machine-learning-tools.html",
+      "originalUrl": "https://www.infoworld.com/article/3680069/tigergraph-cloud-adds-graph-analytics-machine-learning-tools.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/08/16/10/hands_type_on_keyboard_of_laptop_displaying_bar_chart_data_metrics_analytics_review_by_peopleimages_gettyimages-1179754541_2400x1600-100857891-large-100931301-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3680069/tigergraph-cloud-adds-graph-analytics-machine-learning-tools.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3680069/tigergraph-cloud-adds-graph-analytics-machine-learning-tools.amp.html",
+      "publishedDateTime": "2022-11-15T11:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-startup-uses-ai-to-turn-textbooks-into-gen-z-friendly-videos.md",
       "title": "Startup Uses AI To Turn Textbooks Into Gen-Z Friendly Videos",
       "excerpt": "Prof Jim aims to make it cheap and easy for textbook publishers to create videos narrated by famous avatars, complete with slides and pop quizzes.",
@@ -1384,49 +1439,6 @@
         "AI",
         "Microsoft AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-30-aws-amplify-for-swift-reaches-20-brings-asyncawait-and-macos-support.md",
-      "title": "AWS Amplify for Swift Reaches 2.0, Brings Async/Await and macOS Support",
-      "excerpt": "Previously known as AWS Amplify iOS, AWS Amplify for Swift now offers a rewritten API to support Swift async/await and make concurrency code more idiomatic. Additionally, the new release ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/10/aws-amplify-2-ios/",
-      "originalUrl": "https://www.infoq.com/news/2022/10/aws-amplify-2-ios/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2022/10/aws-amplify-2-ios/en/headerimage/aws-amplify-2-1667162170262.jpeg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

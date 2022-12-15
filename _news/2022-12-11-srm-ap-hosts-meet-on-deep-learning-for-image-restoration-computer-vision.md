@@ -44,6 +44,15 @@ related:
         width: 600
         height: 390
         isCached: true
+  - title: "Image augmentation pipeline for Amazon Lookout for Vision"
+    excerpt: "Amazon Lookout for Vision provides a machine learning (ML)-based anomaly detection service to identify normal images (i.e., images of objects without defects) vs anomalous images (i.e., images of objects with defects), types of anomalies (e.g., missing piece), and the location of these anomalies. Therefore,"
+    publishedDateTime: 2022-12-12T19:03:41Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/image-augmentation-pipeline-for-amazon-lookout-for-vision/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 54
 
 secured: "JtyXWM2NnH4sZrYNxmj3F/UJzrY7vOTbQkt/1l8rCjOx9P2H2NXIxYDKz/IRcimAOko78XCcBS56HK/FcEZ/kilBcOAcYHoHOcvkJbS5XXy4KfquzScmECf6yolBrwEhkCDBEEO1mnUiHE7kG5yvAjknu9KAsa/LSTFi5dpp0YPsz/YrByaDA9F/QvxvfccmenMoEpkQs+9/ebmkUdGLMOoMhTe8s5O9Ri2X2IrxOcA+J1XRHe/Fv3xKf9bY/LsJPao0fLlkiycSqjlo7NNZP2si7rgtiKA5zIS/4daU55jobmgbkJjcaHLxTiuQH9UbeqVItmSlUVNUGbfY5/TaHip43Bg+ub8m9v7XFX87mbY=;dXw1f3tlD29IEdf4gaLFng=="
 ---

@@ -2,6 +2,109 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-12-01-you-can-use-an-ai-time-machine-to-see-what-youd-look-like-in-different-eras-throughout-history.md",
+      "title": "You can use an AI Time Machine to see what you'd look like in different eras throughout history",
+      "excerpt": "A TikTok trend popularized the MyHeritage's AI Time Machine, which generates realistic photos of what you would have looked like in past eras.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/you-can-use-an-ai-time-machine-to-see-what-youd-look-like-in-different-eras-throughout-history/",
+      "originalUrl": "https://www.zdnet.com/article/you-can-use-an-ai-time-machine-to-see-what-youd-look-like-in-different-eras-throughout-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/86ddfe1750a7efb96b8b25cae5b8ae865ab2da1e/2022/11/30/f0f35286-c582-4dd0-9d7f-646a208b153f/2022.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/you-can-use-an-ai-time-machine-to-see-what-youd-look-like-in-different-eras-throughout-history/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/you-can-use-an-ai-time-machine-to-see-what-youd-look-like-in-different-eras-throughout-history/",
+      "publishedDateTime": "2022-11-30T13:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-amazon-to-warn-customers-on-limitations-of-its-ai.md",
+      "title": "Amazon to warn customers on limitations of its AI",
+      "excerpt": "Amazon chose software touching on sensitive demographic issues as a start for its service cards, which Kearns expects to grow in detail over time. One such service is called \"Rekognition.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/amazon-warn-customers-limitations-its-ai-2022-11-30/",
+      "originalUrl": "https://www.reuters.com/technology/amazon-warn-customers-limitations-its-ai-2022-11-30/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/g4FkAeB1syg6dyJxBiAxlo2QyzQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SWHRVR65DJLWVK4B3D4PTWA5FY.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T13:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-aws-announces-eight-new-amazon-sagemaker-capabilities.md",
       "title": "AWS Announces Eight New Amazon SageMaker Capabilities",
       "excerpt": "Amazon SageMaker Studio Notebook gives practitioners a fully managed notebook experience, from data exploration to deployment. As teams grow in size and",
@@ -1039,113 +1142,6 @@
       ],
       "topics": [
         "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-how-zero-shot-ai-is-poised-to-revolutionize-the-chatbot-industry.md",
-      "title": "How ‘Zero-Shot’ AI Is Poised To Revolutionize The Chatbot Industry",
-      "excerpt": "\"AI will change the way that we work and run our businesses. Those who are best prepared, and who take advantage of new opportunities now, will reap the rewards.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2022/11/30/how-zero-shot-ai-is-poised-to-revolutionize-the-chatbot-industry/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2022/11/30/how-zero-shot-ai-is-poised-to-revolutionize-the-chatbot-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63876f7248308995a1c8a8b8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2022/11/30/how-zero-shot-ai-is-poised-to-revolutionize-the-chatbot-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2022/11/30/how-zero-shot-ai-is-poised-to-revolutionize-the-chatbot-industry/amp/",
-      "publishedDateTime": "2022-11-30T05:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-ai-is-powerless-without-hi-why-human-intelligence-is-irreplaceable.md",
-      "title": "AI Is Powerless Without HI: Why Human Intelligence Is Irreplaceable",
-      "excerpt": "Companies are, by and large, in the early stages of becoming truly digital. Digitization includes fully adopting artificial intelligence (AI) and machine learning, investing in tech, and converting all existing information into digital formats. Over the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/ai-is-powerless-without-hi-why-human-intelligence-is-irreplaceable/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/ai-is-powerless-without-hi-why-human-intelligence-is-irreplaceable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62c43e64efebb056e142918d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/ai-is-powerless-without-hi-why-human-intelligence-is-irreplaceable/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/11/30/ai-is-powerless-without-hi-why-human-intelligence-is-irreplaceable/amp/",
-      "publishedDateTime": "2022-11-30T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare",
         "AI in Autos"
       ]
     }
