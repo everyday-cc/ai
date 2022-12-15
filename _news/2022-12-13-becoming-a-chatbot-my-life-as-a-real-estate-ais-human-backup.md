@@ -155,6 +155,20 @@ related:
         width: 800
         height: 800
         isCached: true
+  - title: "This AI Platform will Change the Future of Generative AI – And it’s Not ChatGPT"
+    excerpt: "As the fervour around AI text and image generators grew, another startup developing AI content called Jasper raised USD 125 million in October this year pulling the company’s valuation to USD 1.5 bill"
+    publishedDateTime: 2022-12-14T09:48:00Z
+    webUrl: "https://analyticsindiamag.com/this-ai-platform-will-change-the-future-of-generative-ai-and-its-not-chatgpt/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/break.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "We asked ChatGPT, A Groundbreaking AI Bot, Whether President Ramaphosa Should Resign?"
     excerpt: "ChatGPT, created by a company called OpenAi, is the viral AI tool that is immensely powerful and useful in many ways."
     publishedDateTime: 2022-12-12T05:58:00Z
@@ -169,6 +183,15 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "ChatGPT and How AI Disrupts Industries"
+    excerpt: "ChatGPT, from OpenAI, shows the power of AI to take on tasks traditionally associated with “knowledge work.” But the future won’t just involve tasks shifting from humans to machines. When technology enables more people to complete a task,"
+    publishedDateTime: 2022-12-12T13:39:00Z
+    webUrl: "https://hbr.org/2022/12/chatgpt-and-how-ai-disrupts-industries"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
   - title: "ChatGPT Is a Tipping Point for AI"
     excerpt: "With ChatGPT and other AI models that can communicate in plain English, write and revise text, and write code, the technology is suddenly becoming more useful to a broader population of people. This has huge implications."
     publishedDateTime: 2022-12-14T13:05:00Z

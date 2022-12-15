@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2022/12/meet-ghostwri
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/12/meet-ghostwriter-a-haunted-ai-powered-typewriter-that-talks-to-you/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

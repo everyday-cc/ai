@@ -37,6 +37,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI expert details fascinating possibilities of driverless vehicles at Midlands transport event"
+    excerpt: "An expert in how artificial intelligence can transform the transport sector gave a fascinating talk at an event which focused… | Transport | Technology | Midlands |"
+    publishedDateTime: 2022-12-15T10:25:00Z
+    webUrl: "https://bdaily.co.uk/articles/2022/12/15/ai-expert-details-fascinating-possibilities-of-driverless-vehicles-at-midlands-transport-event"
+    type: article
+    provider:
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 42
+    images:
+      - url: "https://bdaily.co.uk/images/uploads/9GnHuUoUkZxPtfXE7PFIrIVUAZHzimJteXI6wPyj.jpeg?w=1200&h=627&fm=jpg&fit=crop-50-50&s=f115860fbe6ab6b60e4fba5cac001968"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "XvLNTxXn3Jh2+QOzvxZaZc85b+fpWrYOG6mBTd1Z8uWerzp6NoXccziDOu6zxnGJIk7yhF7NCnHvCFZdxg94OpKShLtYdcstA44u9Y1y80h+1eLX28VUlR81Ksysxr4lZWy/Ohx8N9ofRLYVFGBVzowQC3zsngElaGYb7l4QLf/saZP9wRb8pwz7oEXMrOJAYTuTVhiBVzMi6vfAOhmAkuXpxeyj87YdixPHi1tyOx44q8hXs4/RTs0Fsq4tSq4sTJKozGH92bjHmdCjdRpeomvjEACczRF27YNhxWb3rx7QSz/eQFVScNAHQZqYAyB89iYoj4Hlsr5Hmp4r0/Fhw/UoefgRDHh+3Lc6xotMVBU=;8bcZx0kA9A71RTK+c0taCw=="
 ---

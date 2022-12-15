@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2022/12/15/bofa-names-2-stocks-with-upside-in
 webUrl: "https://www.cnbc.com/2022/12/15/bofa-names-2-stocks-with-upside-in-transition-to-self-driving-cars.html"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI expert details fascinating possibilities of driverless vehicles at Midlands transport event"
+    excerpt: "An expert in how artificial intelligence can transform the transport sector gave a fascinating talk at an event which focused… | Transport | Technology | Midlands |"
+    publishedDateTime: 2022-12-15T10:25:00Z
+    webUrl: "https://bdaily.co.uk/articles/2022/12/15/ai-expert-details-fascinating-possibilities-of-driverless-vehicles-at-midlands-transport-event"
+    type: article
+    provider:
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 42
+    images:
+      - url: "https://bdaily.co.uk/images/uploads/9GnHuUoUkZxPtfXE7PFIrIVUAZHzimJteXI6wPyj.jpeg?w=1200&h=627&fm=jpg&fit=crop-50-50&s=f115860fbe6ab6b60e4fba5cac001968"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Driverless Car Market : Outlook, In-depth Analysis, Industry Drivers, Key Trends, Projections, and Future opportunities for the period 2023-2028"
     excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Driverless"
     publishedDateTime: 2022-12-11T10:49:00Z

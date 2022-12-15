@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "cove.tool Celebrates Significant Achievements in 2022 and Strong Outlook for 2023"
-    excerpt: "In 2022, the startup saw significant growth as it improved its comprehensive suite of easy-to-use, collaborative, and interconnected web-based building simulation tools. The upcoming launch of revgen."
-    publishedDateTime: 2022-12-13T15:27:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-covetool-celebrates-significant-achievements-2022-strong-outlook-2023-/2022/12/13/9729471.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
 secured: "LP5C+dqsVblvGKY1LUgJc3X/X6ly49aBxAovkZNdt51ah78agl36FF+n1C4tCEHs56SmsRiw+qtAXMnj1/Wh42dxwIrvBobNyWvWmQKN5DWzLOKHGK6GGf9ka8OBh81mLhttkZBdSP9VlTPaAyFYaYaccdREOJSzMXfmmb+WOCmUG/LxPDBiHjY+cRiGBLZgxfb9yXbKTPKzq2udUH6M2GIAieM6p8WlHC2rVfYsRxm4F/JIgJYgKtawwxyUNSLatLO/Ar7PHmktTOshJAO2uFnl5IV8r9nH5Wd6+N7hd4/nAA6zAN83EfudVO4LfdhyTwQWrRGHIcGb6OKgsPQE8+ahOcWV4ekQi/dwxOW3O40XwQdV60Af5zkCheMiB09BTOnId5ep1UGEQgnZgEBvaHgnM8wE0KHAYADxZnizGgqYxXvZK/SNlOS6Aoyrp9GZm1CmJAMGAgO40d/Ie4MFhwRYifkV6rTtDkn7POtMiaKvfj8B6k5+cmIPJSkc6NfY5lAMCn4+k0L5LZTWrjQRug==;8H7KjupndJEmsCPy92tUjA=="
 ---
 

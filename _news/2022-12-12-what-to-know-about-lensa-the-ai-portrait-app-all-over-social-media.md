@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnn.com/style/amp/lensa-ai-app-art-explainer-trnd/index.
 cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/lensa-ai-app-art-explainer-trnd/index.html"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2022/12/12/2582392/_jcr_content/renditions/videothumbnail.1670858793517.jpg"
         width: 1020
         height: 574
-        isCached: true
-  - title: "This Week in Apps: Apple App Store’s new pricing, Twitter app makers shift to Mastodon, debate over Lensa AI"
-    excerpt: "This Week in Apps offers a way to keep up with the latest from the world of apps, including news, updates, startup fundings, M&As and much more."
-    publishedDateTime: 2022-12-10T19:30:00Z
-    webUrl: "https://techcrunch.com/2022/12/10/this-week-in-apps-apple-app-stores-new-pricing-twitter-app-makers-shift-to-mastodon-debate-over-lensa-ai/"
-    ampWebUrl: "https://techcrunch.com/2022/12/10/this-week-in-apps-apple-app-stores-new-pricing-twitter-app-makers-shift-to-mastodon-debate-over-lensa-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/10/this-week-in-apps-apple-app-stores-new-pricing-twitter-app-makers-shift-to-mastodon-debate-over-lensa-ai/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 68
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/07/this-week-in-apps-splash-2022.webp?resize=1200,637"
-        width: 1200
-        height: 637
         isCached: true
   - title: "The viral AI avatar app Lensa undressed me—without my consent"
     excerpt: "My avatars were cartoonishly pornified, while my male colleagues got to be astronauts, explorers, and inventors."

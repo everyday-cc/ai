@@ -2,9 +2,9 @@
 category: news
 title: "AI development startup Dataiku secures $200M funding round"
 excerpt: "Dataiku, an AI development startup, announced it has secured a $200 million funding round that values the startup at over $2 billion. The funding round"
-publishedDateTime: 2022-12-15T09:35:00Z
-originalUrl: "https://www.techzine.eu/news/editorial/97153/ai-development-startup-dataiku-secures-200m-funding-round/"
-webUrl: "https://www.techzine.eu/news/editorial/97153/ai-development-startup-dataiku-secures-200m-funding-round/"
+publishedDateTime: 2022-12-15T11:37:00Z
+originalUrl: "https://www.techzine.eu/news/analytics/97153/ai-development-startup-dataiku-secures-200m-funding-round/"
+webUrl: "https://www.techzine.eu/news/analytics/97153/ai-development-startup-dataiku-secures-200m-funding-round/"
 type: article
 quality: 37
 heat: -1
@@ -64,6 +64,6 @@ related:
       domain: securityinfowatch.com
     quality: 13
 
-secured: "BSrlGZUTxH75Z1/ySYKVDFljjOf4NPqdPMThLFBdbYJsThuL2UG0IoaW4NpCEB+bG6wvauzsks47IYe/Wdkphrs/dnaSbW7Byug/0NhJX2I2zdOEWlxnjt8eJpcnALCrGMKbh+vzwQ7UXbCsX/9F476JXSm7RdRpzNemqc8BGIoKsK8eEOXSw5ALG1T7W8VdWN/q8WiH2Xzw7ksBoPBJhX4oqZ77dkyAVN8xXZgTGQHxmmY5bxJMOJ2kL7Zw9dbPprunOA+qbQhCs3pvMPaC+RjvkBrJi2mwpRdHux/My02go1THFX+gjwhoicJlWkuyu7l/acAqhGrz5HUSXPRII7DzYebw0GLGNz3Vp0D1RHo=;pPjSTYX9c/qCUFlvEHmgDQ=="
+secured: "Hn1NSRK46ktHWeptuhYDgNHNXnjHwdZzVLdWbQXstyowXPvVtwvslRvsS3pzwPKbxLiKfnHD3f8ogZCa5YLtJ5GKiEgV5je+yM5OZByUAn16KRg4sHS43AvbN0ScvVA8jfPdX05RmT8VqRiaIa7dKXz8gKX1dgER+Xm5iNFClhe/VzQwFIgHBF6UFDZ/KnLsIfcm2JRzhcCmfUGKaAEfrrSMsABkFgb6fLvt+grSxlGD635+tD8EoPG+q3RH9GMU1wvfrs7esyPTWI/ssI/R1++LIWhFVV1XAflnhvv39h3anLnhj996IVXCgYX+KdkDzNhYj9Yrdg3MbWryTfVB1USF8ZAAUfDV0RTVfC9jDyw=;t8log7hYus2XJdko5Dojeg=="
 ---
 
