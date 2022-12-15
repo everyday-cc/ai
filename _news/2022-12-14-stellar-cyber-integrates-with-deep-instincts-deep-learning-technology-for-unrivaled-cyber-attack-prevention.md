@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Stellar Cyber Integrates with Deep Instinct's Deep Learning Technology for Unrivaled Cyber Attack Prevention"
-excerpt: "Under this latest integration, Deep Instinct's revolutionary approach to leverage deep learning is able to continuously analyze endpoints, servers, and other network assets to detect and prevent more than 99% of potential attacks."
-publishedDateTime: 2022-12-14T14:43:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-stellar-cyber-integrates-with-deep-instincts-deep-learning-/2022/12/14/9730268.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-stellar-cyber-integrates-with-deep-instincts-deep-learning-/2022/12/14/9730268.htm"
+excerpt: "Stellar Cyber, the innovator of Open XDR, today announced a new integration with Deep Instinct, the first company to apply end-to-end deep learning to cybersecurity, and its endpoint solution. This powerful integration makes it easy for enterprise and MSSP customers using the Stellar Cyber Open XDR platform to deliver Deep Instinct's unsurpassed prevention capabilities across the entire attack surface."
+publishedDateTime: 2022-12-14T15:28:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/12/14/9730268.htm"
+webUrl: "https://it.tmcnet.com/news/2022/12/14/9730268.htm"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
   name: TMCnet
@@ -18,6 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "7FYuavDfgTf1zg1yDXfbU7wolSZxD+jrXmDCXM5S8LyjjhLYxX65y5orxVXBxjShSDCuqyoZu2Fz5iITkINUFjB6n6n8QdStc5QPLlDcvsrQolDrPmblPxAMGZLPCBRELw3ql/X6DBYehUz1CyZsCNeMydZW3RBYipuvh5G8ZbbpXXM3yickadTcYbddi9rsZt/A+eS6wunHsHR8xuSLzwOPrUuf9R1IM7wkCLy612I2hcfR72Zp2MNoL61AJFv9UE3OW/xGpeKSca7j5D2coVCeQQeaofieHqXIbryYn4kp6sv8HhA7wI4smb3x82K3rVmb2odJzrOLT45dHNJ5GpYoJfnZ+901IMjjP1OQEvk=;4+TTHzeLIU5rj0LK1Dz+gA=="
+secured: "wsvm0vBzB6sIl+Sndv9HCjRhi5MEAgc6I/fEUbiWMytygXV8HNZB3BaTJ1d5XkLUtzAby8voBkPi1Am1kLnty38/Mbhh3cFGKnWxXizevcB0pmN9jksnuCKKIAWoU6KtrxlADnKXR0u9HC2ObmR8QnjIcn0k+NtPSa2CWVAAmzlHHHqES1O1O0jEX4JmwcPDyRv+m8IH96u79iCCqWC1lpUqa6A3w8Ifqlk/0douzGvaRZCsOty10B9keQDMjhZP/unlUQkqtytqAJAvyAfI247wD5m/Noaxq9qH4ABkvdDwJ4Sq4MIt1R3nAIJyWq/MiNnVicWjpVhsjkBk5VXMhhAoMIuevmloiyGkyEvB1Y0=;5tzIbjeLZjvMcPWf8g5MUQ=="
 ---
 

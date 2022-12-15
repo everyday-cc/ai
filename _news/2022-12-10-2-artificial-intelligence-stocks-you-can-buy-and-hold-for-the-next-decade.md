@@ -18,6 +18,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://g.foolcdn.com/editorial/images/711361/man-networking-at-data-center.jpg"
