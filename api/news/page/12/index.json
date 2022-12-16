@@ -2,6 +2,40 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-12-03-do-you-have-to-use-facial-recognition-in-airports.md",
+      "title": "Do You Have to Use Facial Recognition in Airports?",
+      "excerpt": "If you’ve flown recently, you may have noticed new facial recognition cameras checking IDs against faces, rather than an over worked and underpaid Transportation Security Administration agent.",
+      "sourceUrl": null,
+      "webUrl": "https://jalopnik.com/do-you-have-to-use-facial-recognition-in-airports-1849848222",
+      "originalUrl": "https://jalopnik.com/do-you-have-to-use-facial-recognition-in-airports-1849848222",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://jalopnik.com/do-you-have-to-use-facial-recognition-in-airports-1849848222/amp",
+      "cdnAmpWebUrl": "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/do-you-have-to-use-facial-recognition-in-airports-1849848222/amp",
+      "publishedDateTime": "2022-12-03T07:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jalopnik",
+        "domain": "jalopnik.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-03-10-best-artificial-intelligence-stocks-under-10.md",
       "title": "10 Best Artificial Intelligence Stocks Under $10",
       "excerpt": "In this article, we discuss the 10 best artificial intelligence stocks under $10. If you want to see more stocks in this selection, check out the 5 Best Artificial Intelligence Stocks Under $10.",
@@ -1160,49 +1194,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-the-rise-and-regulation-of-killer-police-robots.md",
-      "title": "The rise and regulation of killer police robots",
-      "excerpt": "Larger police departments in the United States have the capacity to arm remote-controlled robots with lethal weaponry and send those robots in to kill suspects. But should they be able to use that ...",
-      "sourceUrl": null,
-      "webUrl": "https://theweek.com/san-francisco/1018852/lethal-police-robots",
-      "originalUrl": "https://theweek.com/san-francisco/1018852/lethal-police-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediacloud.theweek.com/image/upload/f_auto,t_primary-image-mobile@1/v1669910848/SF%20killer%20robot.jpg",
-          "width": 375,
-          "height": 211,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theweek.com/san-francisco/1018852/lethal-police-robots?amp",
-      "cdnAmpWebUrl": "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/san-francisco/1018852/lethal-police-robots?amp",
-      "publishedDateTime": "2022-12-02T06:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "THE WEEK",
-        "domain": "theweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

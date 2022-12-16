@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-12-06-responsible-ai-is-a-data-protection-necessity-protopia-ai-raises-6m-in-funding.md",
+      "title": "Responsible AI is a data protection necessity, Protopia AI raises $6M in funding",
+      "excerpt": "Protopia AI announces it has raised $6 million in seed funding for a responsible AI solution designed to anonymize personal data.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/responsible-ai-security/",
+      "originalUrl": "https://venturebeat.com/security/responsible-ai-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/data-privacy.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/responsible-ai-security/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/responsible-ai-security/amp/",
+      "publishedDateTime": "2022-12-06T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-singapore-based-financial-admin-platform-osome-raises-25m-series-b.md",
       "title": "Singapore-based financial admin platform Osome raises $25M Series B",
       "excerpt": "Osome is a corporate “super app” that helps business owners with administrative tasks like payroll, accounting and tax reporting. The company announced today it has raised a $25 million Series B from Illuminate Financial,",
@@ -1126,57 +1177,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-why-designing-ai-for-humans-requires-productive-discomfort.md",
-      "title": "Why designing AI for humans requires 'productive discomfort'",
-      "excerpt": "When the consumer version of Google Glass appeared on the scene in 2014, it was heralded as the start of a new era of human-computer ... Just remember Google Glass when you're thinking about what can AI do -- people have to want it.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/why-designing-ai-for-humans-requires-productive-discomfort/",
-      "originalUrl": "https://www.zdnet.com/article/why-designing-ai-for-humans-requires-productive-discomfort/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/f748509203a5703ad1ec5ad7840e4842cdb63d79/2022/12/02/4631c01c-b209-4b8c-a497-091a6049e34c/artificial-intelligence.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/why-designing-ai-for-humans-requires-productive-discomfort/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-designing-ai-for-humans-requires-productive-discomfort/",
-      "publishedDateTime": "2022-12-05T09:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,59 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2022-10-06-self-driving-wheelchair-market-global-industry-overview-sales-revenue-demand-and-analysis-forecast-by-2028.md",
+      "title": "Self Driving Wheelchair Market Global Industry Overview, Sales Revenue, Demand and Analysis, Forecast by 2028",
+      "excerpt": "Self Driving Wheelchair Market New competitors are exploring? Global “Self Driving Wheelchair Market” the research",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-global-industry-overview-sales-revenue-demand-and-analysis-forecast-by-2028-2022-10-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-global-industry-overview-sales-revenue-demand-and-analysis-forecast-by-2028-2022-10-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-06T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-10-06-can-we-reverse-our-psychological-age-and-get-happier-at-the-same-time-using-artificial-intelligence.md",
       "title": "Can We Reverse Our Psychological Age And Get Happier At The Same Time Using Artificial Intelligence?",
       "excerpt": "As the body grows old, our minds are often instigated by mental decline and progressive, natural psychological aging. However, while there are very little we can do about biological aging, there are many ways to reverse psychological aging and get happier at the same time.",
@@ -1125,58 +1178,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/05/preparing-for-artificial-intelligence-enabled-it-services-machine-induced-noise/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/05/preparing-for-artificial-intelligence-enabled-it-services-machine-induced-noise/amp/",
       "publishedDateTime": "2022-10-05T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-gatik-goes-driverless-in-canada-for-grocery-giant-loblaws.md",
-      "title": "Gatik Goes Driverless In Canada For Grocery Giant Loblaws",
-      "excerpt": "based company's driverless delivery operations. Gautam Narang, CEO and co-founder, Gatik “As of today Gatik is the first and only autonomous trucking company operating in a commercial capacity ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/edgarsten/2022/10/05/gatik-goes-driverless-in-canada-for-grocery-giant-loblaws/",
-      "originalUrl": "https://www.forbes.com/sites/edgarsten/2022/10/05/gatik-goes-driverless-in-canada-for-grocery-giant-loblaws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/633c3e6abc7da697deb3ab3f/0x0.jpg?format=jpg&width=1200",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/edgarsten/2022/10/05/gatik-goes-driverless-in-canada-for-grocery-giant-loblaws/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2022/10/05/gatik-goes-driverless-in-canada-for-grocery-giant-loblaws/amp/",
-      "publishedDateTime": "2022-10-05T05:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

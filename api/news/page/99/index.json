@@ -2,6 +2,57 @@
   "page": 99,
   "value": [
     {
+      "path": "_news/2022-09-20-theories-of-ai-liability-its-still-about-the-human-element.md",
+      "title": "Theories of AI liability: It's still about the human element",
+      "excerpt": "William A. Tanenbaum, Kiyong Song and Linda A. Malek of Moses Singer explore theories of contractual and tort theories applicable to AI systems as well as their current limitations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/litigation/theories-ai-liability-its-still-about-human-element-2022-09-20/",
+      "originalUrl": "https://www.reuters.com/legal/litigation/theories-ai-liability-its-still-about-human-element-2022-09-20/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/hT1G3G4YSIrcaWmtvbrwwG_-HNo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5P3BQ4T3WRGRLOYFJDYPA7JHD4.JPG",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-nvidia-wants-to-be-the-brains-of-your-self-driving-car.md",
       "title": "Nvidia Wants to Be the Brains of Your Self-Driving Car",
       "excerpt": "Chip designer Nvidia on Tuesday revealed a new processor called Drive Thor it expects will power the autonomous vehicle revolution. Thor processors should arrive in 2024 for cars hitting the roads in 2025,",
@@ -1079,59 +1130,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-how-tymely-combines-nlp-and-a-human-in-the-loop-approach-to-improve-chatbot-conversations.md",
-      "title": "How Tymely combines NLP and a human-in-the-loop approach to improve chatbot conversations",
-      "excerpt": "The report further showed more businesses (44%) plan to invest in asynchronous chat experiences to manage customer responses and are turning to artificial intelligence (AI) tools like chatbots to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-tymely-aims-to-improve-chatbot-conversations/",
-      "originalUrl": "https://venturebeat.com/ai/how-tymely-aims-to-improve-chatbot-conversations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/04/chatbot-customer-service-shutterstock_664204579.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-tymely-aims-to-improve-chatbot-conversations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-tymely-aims-to-improve-chatbot-conversations/amp/",
-      "publishedDateTime": "2022-09-19T21:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

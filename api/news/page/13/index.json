@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-12-02-the-rise-and-regulation-of-killer-police-robots.md",
+      "title": "The rise and regulation of killer police robots",
+      "excerpt": "Larger police departments in the United States have the capacity to arm remote-controlled robots with lethal weaponry and send those robots in to kill suspects. But should they be able to use that ...",
+      "sourceUrl": null,
+      "webUrl": "https://theweek.com/san-francisco/1018852/lethal-police-robots",
+      "originalUrl": "https://theweek.com/san-francisco/1018852/lethal-police-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediacloud.theweek.com/image/upload/f_auto,t_primary-image-mobile@1/v1669910848/SF%20killer%20robot.jpg",
+          "width": 375,
+          "height": 211,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theweek.com/san-francisco/1018852/lethal-police-robots?amp",
+      "cdnAmpWebUrl": "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/san-francisco/1018852/lethal-police-robots?amp",
+      "publishedDateTime": "2022-12-02T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "THE WEEK",
+        "domain": "theweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-02-ai-reveals-the-most-human-parts-of-writing.md",
       "title": "AI Reveals the Most Human Parts of Writing",
       "excerpt": "When do writers want help finding inspiration? And when do they want full control? Computers could expose the true future of the medium.",
@@ -1155,60 +1198,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-artificial-intelligence-in-education-market-research-2022-growth-trends-outlook-and-future-scope-analysis-2030.md",
-      "title": "Artificial Intelligence in Education Market Research 2022 – Growth, Trends, Outlook and Future Scope Analysis 2030",
-      "excerpt": "Dec 02, 2022 (Heraldkeepers) -- The global Artificial Intelligence in Education market report provides geographic analysis covering regions, such as North America, Europe, Asia-Pacific ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-research-2022-growth-trends-outlook-and-future-scope-analysis-2030-2022-12-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-research-2022-growth-trends-outlook-and-future-scope-analysis-2030-2022-12-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Education",
-        "AWS AI"
       ]
     }
   ],

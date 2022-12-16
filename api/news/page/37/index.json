@@ -2,6 +2,57 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2022-11-15-ai-drew-this-gorgeous-comic-series-can-you-tell.md",
+      "title": "AI Drew This Gorgeous Comic Series. Can You Tell?",
+      "excerpt": "The Bestiary Chronicles is both a modern fable on the rise of artificial intelligence and a testament to how shockingly fast AI is evolving.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/culture/ai-drew-this-gorgeous-comic-series-can-you-tell/",
+      "originalUrl": "https://www.cnet.com/culture/ai-drew-this-gorgeous-comic-series-can-you-tell/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/e0fd1ab6f42e20e4794ffe13af3443beba065bfe/hub/2022/11/11/d1211a3a-48a5-4e60-865b-1303693bb8b8/exodus-03-1.jpg?auto=webp",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-drew-this-gorgeous-comic-series-can-you-tell/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-drew-this-gorgeous-comic-series-can-you-tell/",
+      "publishedDateTime": "2022-11-14T10:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-google-epic-partnering-to-allow-epic-hospital-clients-to-run-ehrs-on-google-cloud.md",
       "title": "Google, Epic partnering to allow Epic hospital clients to run EHRs on Google Cloud",
       "excerpt": "Instead, Cerner elected to go with AWS, despite being offered about $250 million in ... center Mayo Clinic and for-profit behemoth HCA, and building up its artificial intelligence and machine-learning offerings. For example, Google Cloud announced ...",
@@ -1098,49 +1149,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-feinberg-superager-program-examines-exceptional-cognitive-aging.md",
-      "title": "Feinberg SuperAger program examines exceptional cognitive aging",
-      "excerpt": "But an initiative from the Mesulam Center for Cognitive Neurology and Alzheimer’s Disease at the Feinberg School of Medicine is taking the opposite approach. The program studies “SuperAgers ...",
-      "sourceUrl": null,
-      "webUrl": "https://dailynorthwestern.com/2022/11/14/campus/feinberg-superager-program-examines-exceptional-cognitive-aging/",
-      "originalUrl": "https://dailynorthwestern.com/2022/11/14/campus/feinberg-superager-program-examines-exceptional-cognitive-aging/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailynorthwestern.com/wp-content/uploads/2022/11/Feinberg-pic.jpg",
-          "width": 900,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-13T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Northwestern",
-        "domain": "dailynorthwestern.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

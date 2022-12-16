@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Microsoft announces Future Ready Champions of Code Program to empower India’s developer community"
-excerpt: "Microsoft today announced the launch of Future Ready Champions of Code, a pan India program for developers, focused on skilling, certification and building solutions. The program aims to engage over 1"
-publishedDateTime: 2022-12-07T11:35:00Z
-originalUrl: "https://indiaeducationdiary.in/microsoft-announces-future-ready-champions-of-code-program-to-empower-indias-developer-community/"
-webUrl: "https://indiaeducationdiary.in/microsoft-announces-future-ready-champions-of-code-program-to-empower-indias-developer-community/"
-ampWebUrl: "https://indiaeducationdiary.in/microsoft-announces-future-ready-champions-of-code-program-to-empower-indias-developer-community/"
-cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/microsoft-announces-future-ready-champions-of-code-program-to-empower-indias-developer-community/"
+title: "Microsoft Announces Future Ready Champions Of Code Program To Empower India's Developer Community"
+excerpt: "Microsoft today announced the launch of Future Ready Champions of Code, a pan India program for developers, focused o"
+publishedDateTime: 2022-12-07T03:39:00Z
+originalUrl: "https://menafn.com/1105276380/Microsoft-Announces-Future-Ready-Champions-Of-Code-Program-To-Empower-Indias-Developer-Community"
+webUrl: "https://menafn.com/1105276380/Microsoft-Announces-Future-Ready-Champions-Of-Code-Program-To-Empower-Indias-Developer-Community"
 type: article
 
 provider:
-  name: India Education Diary
-  domain: indiaeducationdiary.in
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/04/microsoft.jpg?fit=463%2C260&ssl=1"
-    width: 463
-    height: 260
+  - url: "https://menafn.com/updates/pr/2022-12/06/F_b9964image_story.jpg"
+    width: 600
+    height: 313
     isCached: true
 
-secured: "59ktEuJR83qNQcSPHvLmxL1BiCJI9xrTri3531N9o7EFPen2m4S1AjOvA7JCFvQhCyNrfk+1hDWwighE55Lttpvx5s602zqFYtbJWeRLU/LDcPfHjI0Gm0aYqWAdj1PlSpVZiBFI00Kv9Zqo9xCVAP4enjuPH2VgMojykhWLdP2oQxGpKyM5mTmPJHC6A0kEdPodwMTX/hPYJckaDwatXeyMi+od+MYy0iaFhDKRNZdMBArPn+fxTPvlFFhq7C8Wy48GUWuyZrG3oZbfxrfDsAlEvJUx1Nuq48LapN01uncZAhd/3Dek3DeoZSQC8jnuJyLT2wn4mJKhLdWhHoCzCz/TprrpuqsO9+owEVyqGbw=;aYHx9CNndPP9taCVOsSfJg=="
+secured: "H+RG047E11or75GeSh1ttCm31yMfJynn1xQPXDsmXVZgwV/ndbk363ILFXxZFK4v1ZYpuCnytfRg4nvcRjwBFaY2bMRE8/k+bD8YVsWQ38FsqFjB7T8AgbEfJ/HMBu100GZPPnfbfOg8pBaJqmngAMlbkESRNNI4QnaxduI3H86s3L1s2s7cas5OkLdMhFOvr+Sh/Eji7cFn7V/FKE7GJTimSkEqv+EGO8Nuc+Di1+SObZfi6NYtwfv2KpPNoHfO3t8z28ZRHfmjczNJEmyEHBZNnI3ee/UuIyyVjAmtZh3HO1tR1l5GVBFh6h3BQ4VDPdEnnAlqC/qvf2we7fcycYLdhQiJehqiLXTmD3SksYI=;DDTjdTlL/hOsUNkb0qvMaQ=="
 ---
 

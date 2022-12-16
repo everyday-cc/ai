@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-15T20:16:00Z
 originalUrl: "https://it.tmcnet.com/news/2022/12/15/9731166.htm"
 webUrl: "https://it.tmcnet.com/news/2022/12/15/9731166.htm"
 type: article
-quality: 4
+quality: 2
 heat: -1
 published: false
 
@@ -17,7 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-  - Computer Vision
 
 related:
   - title: "New Tools Suite to Optimizes AD and ADAS AI Software for High Accuracy Object Recognition in R-Car SoCs"
@@ -49,6 +48,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Vwg6TZBdnVSOu3A+RINYNPS9YNXX8G9OGDxuV/GpCywpq+XR3Zb+a2bybO/tRC6rzjs6Brq611NMxQxZNAakKJsb3zOcnM5WguxAGpi+M4S/F7sYbkxm5S8NffKEdGc3b/M0N2QABz81tcjkmt6P06fGPVfHXQC5ExWgxdFMDIagGKmeEWklYYBi1+V5eEKeKxRu5CK+zS2KNzg92k8SNvGDPvGyDfnfoQWKCIzTDSgC3OwjOsQiQw0zgLbYKGzMnmDjKZ3KEgCXwKqUyd8iV3lVv4M947SkF8retwFa+erVXcIO4q3xQ8K/ZlE11aq+Rq2NqDXRj+Mdcgub2XxAlmo9BZgbpLk7u8wZie9+M9PS7Gbqon7HIpAnZUU9HJVYh6Ur4/cVf4tVIuMkjQTdw+56wyucb9XHumtQ6XGKZD/UlW3MZmNPsTQ9z9XIwhW4Q1MhGszUyDwIpzlbMv8s5i2vaMDn+SY6/h6hrZRLp0yQSatdeQmbwHkwbMxDi6jIpdx6Tom17/DX3QWSDm1TPQ==;ImWCHpbyF08JLBOSFITc6g=="
+secured: "Ynop2J1Fqs2IDq06COVWVV9DOJrqGLYA2iM6g4WNakjpRapTyRJHpoKlMPKFh1ZX0R/eAhTHVBGDMVWODwJiboyC1auCKlbKTPPbeQHQw8Mksi5bjRcQOb09YQIiwouU5Ct6jvJpDlN5DKVvkPE0Mpa/d/u8Lpjnd+SPt4ThQ1Si8POfE8P8tkcjVqaBX3e2KZhV8b5Esh5tdembj3AmFItbVP9nEkpTZbn8l7zND5hCeCoabq4nF0U3jGkk/yVsErQQc8i3QfxscxLGzdymtXcWe/TzcgvgQS5CgvuK+8Zrbi37rYdo0oTMPn4KyFY7pyaYp/el+iPJW6pbZAQDiutptPllnZ/q90P5w1iEW0AC+A9t0RPI1V3GSwD16zQQhvkrfMl7Pi6lgl9mqqedGgdb1lgqPFlNUqu/vSSgmrXEPoAStrZhrRFE7Q7ZD5dxtGLgxFJQjMtexTiMGmK+SEAq9LJD1l9UX/+j26MDZgs5hhnyHMy+MdAmQVppbLymCmzlwO8rIL3BxVqmGitOoQ==;p4SQ5zYYiYVFpwfBtdGu4w=="
 ---
 

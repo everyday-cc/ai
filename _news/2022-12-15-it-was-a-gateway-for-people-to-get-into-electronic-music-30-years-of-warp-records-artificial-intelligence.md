@@ -3,8 +3,8 @@ category: news
 title: "‘It was a gateway for people to get into electronic music’: 30 years of Warp Records’ Artificial Intelligence"
 excerpt: "Taking cues from Detroit techno and showcasing Autechre and Aphex Twin, the famed compilation found hedonism in the wind-down. As it is reissued, famous fans from then and now explain why they love it"
 publishedDateTime: 2022-12-14T17:11:00Z
-originalUrl: "https://www.theguardian.com/music/2022/dec/14/warp-records-artificial-intelligence-aphex-twin-autechre?amp;amp;amp"
-webUrl: "https://www.theguardian.com/music/2022/dec/14/warp-records-artificial-intelligence-aphex-twin-autechre?amp;amp;amp"
+originalUrl: "https://www.theguardian.com/music/2022/dec/14/warp-records-artificial-intelligence-aphex-twin-autechre"
+webUrl: "https://www.theguardian.com/music/2022/dec/14/warp-records-artificial-intelligence-aphex-twin-autechre"
 ampWebUrl: "https://amp.theguardian.com/music/2022/dec/14/warp-records-artificial-intelligence-aphex-twin-autechre"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/music/2022/dec/14/warp-records-artificial-intelligence-aphex-twin-autechre"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "ZmZaAyQPD+vXkRomMWKGOb/KqycHQBI+jFotRJp9v95AoduWKEJpLN3dhyftOAqHTUSHSsHzFCy3JwjREmmvntWjCtS5DjD1plfCsk0/JD7NQ2xBTUNi3o9SXuInujW52xlNigdp7IozqhXXYxB+i6q7Df9/hBB2xnmq9TR4oHWJA1JTZPsMMxtp7QFgwHvTyZXqm2kfpa/zCEtY+3Lbm4/GPEgT44bnwrT68GZNaMry8iB1PpYq4yEKllF4TPT1n78rklXh3XkdX4EabZjV91Zu5xOVvp6mZ7so7k6u4EnRpttQt+1LizQufKxMjhg7j1NAGaJfRBSPph5guCFOBQL8ME9uH5U2uNB6xuSFSA0=;B5RVHgBzUqonBSAH5FBfTQ=="
+secured: "VintkrIsSoNXvqyrG29zPRrUf9y5TyfMxw4YgfvYsBuPO6r/SxjKsyN9ivSgovOB8hCKFadJfBgn07mlPJAb7R+NBqASAivC5eKzK94c5fhpuibveoMUxA2b6ybVFdvemTFTc+8R1gky8DbUxSoYV4670KKgFpll4Ab/JXtJzP0sQpT5zf2Vq+fjfi0+MRq51B6mUsZoTL4g2szwIepNcCqlfCPt1Vozp2O8r4rp+ZrasQ49j7t+jtQEVWREVMIg/+IHy/IfpWH/Z095LSQUxOlnKSJDQFZsE4Dw4cl9EGXmbcjz+XBTka+kPEofh+396IpHohJRXel7efERR7pHNUgxTV2wyeU5tOx89ICaQUE=;UipET257QDBpBp+elJQZrA=="
 ---
 

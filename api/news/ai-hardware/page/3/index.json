@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-24-gpu-for-deep-learning-market-2022-technology-type-analysis-size-share-growth-price-trends-and-forecast-to-2028-80-report-pages.md",
+      "title": "GPU for Deep Learning Market 2022 : Technology Type Analysis, Size, Share, Growth, Price Trends and Forecast To 2028 | 80 Report Pages",
+      "excerpt": "According to this latest study, the 2021 growth of GPU for Deep Learning will have significant change from previous",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-2022-technology-type-analysis-size-share-growth-price-trends-and-forecast-to-2028-80-report-pages-2022-11-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-2022-technology-type-analysis-size-share-growth-price-trends-and-forecast-to-2028-80-report-pages-2022-11-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-23T19:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-11-24-edge-ai-chips-market-emerging-economies-are-expected-to-offer-high-growth-opportunities-and-forecast-to-2028.md",
       "title": "Edge AI Chips Market : Emerging economies are expected to offer high growth opportunities and Forecast to 2028",
       "excerpt": "Nov 23, 2022 (The Expresswire) -- \"Edge AI Chips Market\" Research Report gives detailed facts with consideration to market size, cost revenue,",
@@ -1365,58 +1418,6 @@
         "name": "RealClearScience",
         "domain": "realclearscience.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-japan-to-invest-up-to-500-mln-in-new-advanced-chip-development-company.md",
-      "title": "Japan to invest up to $500 mln in new advanced chip development company",
-      "excerpt": "that aims to re-establish Japan as a leading maker of advanced chips. \"Semiconductors are going to be a critical component for the development of new leading edge technologies such as AI, digital industries and in healthcare,\" Minister of Economy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/japan-invest-up-500-mln-new-advanced-chip-development-company-2022-11-11/",
-      "originalUrl": "https://www.reuters.com/technology/japan-invest-up-500-mln-new-advanced-chip-development-company-2022-11-11/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/-HGRp8TetewRZxXkozlMWTm3HlI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WPRHXI73MBPX5J54LYWMQ7XQME.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T16:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

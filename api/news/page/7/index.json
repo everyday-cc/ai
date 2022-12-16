@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-12-08-lensa-the-ai-portrait-app-has-soared-in-popularity-but-many-artists-question-the-ethics-of-ai-art.md",
+      "title": "Lensa, the AI portrait app, has soared in popularity. But many artists question the ethics of AI art.",
+      "excerpt": "For many online, Lensa AI is a cheap, accessible profile picture generator. But in digital art circles, the popularity of artificial intelligence-generated art has raised major privacy and ethics concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/internet/lensa-ai-artist-controversy-ethics-privacy-rcna60242",
+      "originalUrl": "https://www.nbcnews.com/tech/internet/lensa-ai-artist-controversy-ethics-privacy-rcna60242",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-12/221206-lensa-selfies-ai-celebrities-cs-548f22.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna60242",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna60242",
+      "publishedDateTime": "2022-12-07T13:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-12-08-tesla-on-self-driving-claims-failure-to-realize-long-term-aspirational-goal-is-not-fraud.md",
       "title": "Tesla on self-driving claims: ‘failure to realize long-term, aspirational goal is not fraud’",
       "excerpt": "Tesla, defending itself in a lawsuit over self-driving claims, said, “Mere failure to realize a long-term, aspirational goal is not fraud.”",
@@ -1001,49 +1045,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-microsoft-announces-future-ready-champions-of-code-program-to-empower-indias-developer-community.md",
-      "title": "Microsoft announces Future Ready Champions of Code Program to empower India’s developer community",
-      "excerpt": "Microsoft today announced the launch of Future Ready Champions of Code, a pan India program for developers, focused on skilling, certification and building solutions. The program aims to engage over 1",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/microsoft-announces-future-ready-champions-of-code-program-to-empower-indias-developer-community/",
-      "originalUrl": "https://indiaeducationdiary.in/microsoft-announces-future-ready-champions-of-code-program-to-empower-indias-developer-community/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/04/microsoft.jpg?fit=463%2C260&ssl=1",
-          "width": 463,
-          "height": 260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/microsoft-announces-future-ready-champions-of-code-program-to-empower-indias-developer-community/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/microsoft-announces-future-ready-champions-of-code-program-to-empower-indias-developer-community/",
-      "publishedDateTime": "2022-12-07T03:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },

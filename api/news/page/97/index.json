@@ -2,6 +2,49 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2022-09-21-robotics-programming-is-becoming-easier-but-improvements-are-still-needed.md",
+      "title": "Robotics Programming is Becoming Easier, But Improvements are Still Needed",
+      "excerpt": "CPGs also have simpler interfaces on the mind. “We need simpler diagnostics and more ... It also has the benefit of connecting multiple robots to one “shared brain,” allowing robots to be controlled through one centralized system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automationworld.com/factory/robotics/article/22445407/robotics-improvements-in-high-demand-as-technology-progresses",
+      "originalUrl": "https://www.automationworld.com/factory/robotics/article/22445407/robotics-improvements-in-high-demand-as-technology-progresses",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.automationworld.com/files/base/pmmi/all/image/2022/09/Robots_Programming_2.632cc5ad7bb47.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation World",
+        "domain": "automationworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-21-brightflow-ai-aims-to-spotlight-small-business-cash-flow.md",
       "title": "Brightflow AI aims to spotlight small business cash flow",
       "excerpt": "Brightflow AI automates financial services and disseminates that information in a way that a business owner can understand.",
@@ -1175,49 +1218,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-nvidia-unveils-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing.md",
-      "title": "Nvidia unveils gaming chip with AI features, taps TSMC for manufacturing",
-      "excerpt": "Nvidia announced chips for video gamers that use artificial intelligence (AI) to enhance graphics. Nvidia has also selected Taiwan Semiconductor Manufacturing (TSMC) to make the processors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecomlead.com/latest-news/nvidia-unveils-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing-106652",
-      "originalUrl": "https://www.telecomlead.com/latest-news/nvidia-unveils-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing-106652",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telecomlead.com/wp-content/uploads/2021/04/Nvidia-chip-business.jpg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T15:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telecom Lead",
-        "domain": "telecomlead.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

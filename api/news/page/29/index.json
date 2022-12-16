@@ -2,6 +2,58 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2022-11-20-why-employee-recognition-is-more-crucial-than-ever.md",
+      "title": "Why Employee Recognition Is More Crucial Than Ever",
+      "excerpt": "Employee recognition has never mattered more than in today’s workplace. That’s because employees want to feel valued—especially in the context of remote working. And when they don’t ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/carolinecastrillon/2022/11/20/why-employee-recognition-is-more-crucial-than-ever/",
+      "originalUrl": "https://www.forbes.com/sites/carolinecastrillon/2022/11/20/why-employee-recognition-is-more-crucial-than-ever/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62602bba96f40df576fc46ac/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/carolinecastrillon/2022/11/20/why-employee-recognition-is-more-crucial-than-ever/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinecastrillon/2022/11/20/why-employee-recognition-is-more-crucial-than-ever/amp/",
+      "publishedDateTime": "2022-11-19T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-20-waymo-can-now-provide-fully-driverless-rides-in-san-francisco.md",
       "title": "Waymo can now provide fully driverless rides in San Francisco",
       "excerpt": "Waymo can now provide driverless rides to passengers in San Francisco. On Friday, the California Public Utilities Commission (CPUC) said it granted the Alphabet-owned Waymo a permit to participate ...",
@@ -1119,40 +1171,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-roadlink-international-trading-limited-successfully-tests-driverless-car-in-shenzhen.md",
-      "title": "Roadlink International Trading Limited Successfully Tests Driverless Car in Shenzhen",
-      "excerpt": "HONG KONG, Nov. 18, 2022 (GLOBE NEWSWIRE) -- Roadlink International Trading Limited said that the testing in Shenzhen over the past six months included a \"driverless car safely navigating roads ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/11/g29785340/roadlink-international-trading-limited-successfully-tests-driverless-car-in-shenzhen",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/g29785340/roadlink-international-trading-limited-successfully-tests-driverless-car-in-shenzhen",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29785340",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29785340",
-      "publishedDateTime": "2022-11-18T07:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -6,8 +6,8 @@ publishedDateTime: 2022-12-15T21:11:00Z
 originalUrl: "https://venturebeat.com/microsoft-nvidia/"
 webUrl: "https://venturebeat.com/microsoft-nvidia/"
 type: article
-quality: 99
-heat: 159
+quality: 101
+heat: 161
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/12/large-language-header.jpg?resize=750%2C388&#038;strip=all"
@@ -109,6 +110,6 @@ related:
       domain: benzinga.com
     quality: 37
 
-secured: "HW74XFnYOfjkHOOcVHROP/+L6+opbj7xR/pak2WpWhklwpdfwph2+UU1NVA4VQsDYJNon8yF9uxL0q8bTkQKDrgJCWmWqp39DFOpp5yEujFkxq0y4G4wxUIkFgqUNj7QvWY7XVp1q3xXkIJkwJDTvoDVDaicNHyXNdBCenqT7O88fBnUtHzRJNCB+RZAmYRZ4FqUBkkQxhz3Rgah8Y/MlbLr99LGU9wiJChFRcRT9GsK8enmdy+OeLXerKTmTodjM+p78cbhi39+W1SusyYmNRYT5AUXSslUVATlFbx+sfITGUfQm/ROvQeqAGIdZimR94dbkHlzHtqeiyEaGuz3/QROhrOVRnryCJhCDjWqJu8=;/3cqNDYZyg7mQyE2J9y/wQ=="
+secured: "RhwAaHvaaq+hCQoTgOFz1PtW6hzUR+osGMsIPFHhufUbA86peLWn16WA4AqVSh6iO5kHnGlwyXemFcv9rOB4mdzD+WoJkxKffFizNxqS8Psrdn/5yyMH7nUPrhTYlOM5Ogqr2HMtAX1JOFWboKziiaofQatJ4QavrZMV4GlzU+Sb/JZcKKqHEZYoVHhPfoVxoHuVDBdmJHVhJth6+AH7pXW7uclav2nSyfXyb3Bok5CoszE1CxInuPyqbmyOkVNExsyQZqr7vlaSY48xhFIM8tdBg3dO6ZEgjmQfSUMi1mktGwy4C41u2AC2JhPz6zvHeMFV2bcFA1ncPfdOGpDvodTqicXCVHnfM5NhuHzxWlU37rCb3ps3/CtrPXz/y0x2jkuQN4xjeoDzE7XlJC88GNEyH6iWj0wj/cQmwgjUe5CbML0Nr5tMyC7t9lOxbrgBnDXga0LTCX2RC/isoK7ID7RHXHXoi3XJY3xnYc6n2QAICQ6ocTxPFlnUSZKf4ciGMH3mIH72JPCL89BnwOKyZQ==;8wtD0hGxPQqZP4Y24WO+yg=="
 ---
 

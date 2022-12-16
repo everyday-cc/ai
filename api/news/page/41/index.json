@@ -2,6 +2,49 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2022-11-10-ibm-debuts-new-quantum-processor-with-433-qubits.md",
+      "title": "IBM debuts new quantum processor with 433 qubits",
+      "excerpt": "IBM Corp. today debuted a new quantum processor ... could help advance research in areas such as chemistry, artificial intelligence and logistics. “The new 433 qubit ‘Osprey’ processor ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/11/09/ibm-debuts-new-quantum-processor-433-qubits/",
+      "originalUrl": "https://siliconangle.com/2022/11/09/ibm-debuts-new-quantum-processor-433-qubits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/11/ibm.png",
+          "width": 718,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T17:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-10-dentsu-collaborates-with-microsoft-to-build-path-to-the-metaverse-for-brands-business.md",
       "title": "Dentsu Collaborates With Microsoft To Build Path To The Metaverse For Brands & Business",
       "excerpt": "Dentsu International has announced it has collaborated with Microsoft to build a unique collaboration space in the metaverse, designed to excite and inspire brands to innovate and experiment with Web3 technologies.",
@@ -1030,40 +1073,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-gbts-facial-and-body-recognition-patent-application-received-a-notice-of-allowance.md",
-      "title": "GBT's Facial and Body Recognition Patent Application Received a Notice of Allowance",
-      "excerpt": "(\"GBT/Tokenize\") received a notice of allowance for its facial and body recognition non-provisional patent application. The patent describes a pioneering technology for studying, identifying and recognizing features of an image,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/11/09/9709242.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/11/09/9709242.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T05:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

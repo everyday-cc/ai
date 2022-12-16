@@ -2,6 +2,61 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2022-09-15-perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans.md",
+      "title": "Perceptron: AI that lights up the moon, improvises grammar and teaches robots to walk like humans",
+      "excerpt": "In this edition of Perceptron, TechCrunch's semiregular review of AI research, we take a look at cutting-edge robotics, moon-scanning tech, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/14/perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans/",
+      "originalUrl": "https://techcrunch.com/2022/09/14/perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1160995648.jpg?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/14/perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/14/perceptron-ai-that-lights-up-the-moon-improvises-grammar-and-teaches-robots-to-walk-like-humans/amp/",
+      "publishedDateTime": "2022-09-14T17:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "Computer Vision",
+        "Google AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-09-15-daily-multivitamin-may-slow-cognitive-decline-in-older-adults-study-shows.md",
       "title": "Daily multivitamin may slow cognitive decline in older adults, study shows",
       "excerpt": "Yulia Reznikov/Getty Images Older adults experiencing cognitive decline are at risk for Alzheimer’s disease (AD) and other forms of dementia. Experts are still working to understand what factors ...",
@@ -1047,57 +1102,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-zendesk-integrates-ai-with-intelligent-triage-to-speed-up-cx-responses.md",
-      "title": "Zendesk integrates AI with intelligent triage to speed up CX responses",
-      "excerpt": "Customer experience vendor Zendesk is making good use of AI technology it gained via the acquisition of Cleverly AI in 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/zendesk-integrates-ai-with-intelligent-triage-to-speed-up-cx-responses/",
-      "originalUrl": "https://venturebeat.com/ai/zendesk-integrates-ai-with-intelligent-triage-to-speed-up-cx-responses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-zendesk_building_1408739677.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 721,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/zendesk-integrates-ai-with-intelligent-triage-to-speed-up-cx-responses/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/zendesk-integrates-ai-with-intelligent-triage-to-speed-up-cx-responses/amp/",
-      "publishedDateTime": "2022-09-14T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

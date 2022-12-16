@@ -2,6 +2,40 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2022-11-28-bulgari-conquers-artificial-intelligence.md",
+      "title": "Bulgari conquers artificial intelligence",
+      "excerpt": "Next year Bulgari will celebrate the 75th anniversary of its iconic Serpenti bracelets, which have been tangled around the wrists of the rich and famous since Elizabeth Taylor wore them on the set of Cleopatra in 1962.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mffashion.com/news/english/bulgari-conquers-artificial-intelligence-202211281050274501",
+      "originalUrl": "https://www.mffashion.com/news/english/bulgari-conquers-artificial-intelligence-202211281050274501",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-28T04:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MF Fashion",
+        "domain": "mffashion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-28-ai-experts-are-increasingly-afraid-of-what-theyre-creating.md",
       "title": "AI experts are increasingly afraid of what they’re creating",
       "excerpt": "As the veteran video game programmer John Carmack put it in announcing his new investor-backed AI startup, it’s “AGI or bust, by way of Mad Science!” This particular mad science might kill ...",
@@ -1082,58 +1116,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-27-alphabets-deepmind-has-put-a-hiring-freeze-on-new-interns-canceling-one-applicants-interview-with-just-an-hours-notice.md",
-      "title": "Alphabet's DeepMind has put a hiring freeze on new interns, canceling one applicant's interview with just an hour's notice",
-      "excerpt": "An envelope. It indicates the ability to send an email. An curved arrow pointing right. DeepMind has imposed a freeze on hiring for new interns at the Alphabet-owned company. The AI firm told ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/alphabet-deepmind-hiring-freeze-interns-interviews-cancelled-2022-11",
-      "originalUrl": "https://www.businessinsider.com/alphabet-deepmind-hiring-freeze-interns-interviews-cancelled-2022-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/62ac3c35f0eaba0019f2fd1c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/alphabet-deepmind-hiring-freeze-interns-interviews-cancelled-2022-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/alphabet-deepmind-hiring-freeze-interns-interviews-cancelled-2022-11?amp",
-      "publishedDateTime": "2022-11-27T03:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/amp/"
 type: article
 quality: 82
-heat: 93
+heat: 92
 published: true
 
 provider:

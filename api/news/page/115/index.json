@@ -2,6 +2,58 @@
   "page": 115,
   "value": [
     {
+      "path": "_news/2022-09-08-my-journey-from-deepmind-intern-to-mentor.md",
+      "title": "My journey from DeepMind intern to mentor",
+      "excerpt": "Former intern turned intern manager, Richard Everett, describes his journey to DeepMind, sharing tips and advice for aspiring DeepMinders. The 2023 internship applications will open on the 16th September, please visit https://dpmd.ai/internshipsatdeepmind for more information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/my-journey-from-deepmind-intern-to-mentor",
+      "originalUrl": "https://www.deepmind.com/blog/my-journey-from-deepmind-intern-to-mentor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/631a065d45644fd6ab93de07_Richard_Everett__Blog__16x9.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-08-overview-of-the-classic-and-advanced-technologies-of-continuum-robots.md",
       "title": "Overview of the classic and advanced technologies of continuum robots",
       "excerpt": "A review paper by scientists at the Zhejiang University summarized the development of continuum robots from the aspects of design, actuation, modeling and control field. The new review paper ...",

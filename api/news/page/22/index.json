@@ -2,6 +2,58 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2022-11-27-alphabets-deepmind-has-put-a-hiring-freeze-on-new-interns-canceling-one-applicants-interview-with-just-an-hours-notice.md",
+      "title": "Alphabet's DeepMind has put a hiring freeze on new interns, canceling one applicant's interview with just an hour's notice",
+      "excerpt": "An envelope. It indicates the ability to send an email. An curved arrow pointing right. DeepMind has imposed a freeze on hiring for new interns at the Alphabet-owned company. The AI firm told ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/alphabet-deepmind-hiring-freeze-interns-interviews-cancelled-2022-11",
+      "originalUrl": "https://www.businessinsider.com/alphabet-deepmind-hiring-freeze-interns-interviews-cancelled-2022-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/62ac3c35f0eaba0019f2fd1c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/alphabet-deepmind-hiring-freeze-interns-interviews-cancelled-2022-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/alphabet-deepmind-hiring-freeze-interns-interviews-cancelled-2022-11?amp",
+      "publishedDateTime": "2022-11-27T03:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-27-image-recognition-technology-market-2023-in-depth-insights-and-business-scenario-by-analysts-certification-2028-newst-96-pages-report.md",
       "title": "Image Recognition Technology Market 2023 In-Depth Insights and Business Scenario, by Analysts Certification 2028 | Newst 96 Pages Report",
       "excerpt": "Impact on the Image Recognition Technology market, and how it could impact business in the near and distant future. How big is the global Image Recognition Technology market? Who are the Top Image Recognition Technology manufacturer of the Industry?",
@@ -1078,59 +1130,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-25-automated-machine-learning-automl-market-2023-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028.md",
-      "title": "Automated Machine Learning (AutoML) Market 2023 Expected to Witness the Highest Revenue Growth Over Forecast to 2028",
-      "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry. \"Automated Machine Learning (AutoML)",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-2023-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028-2022-11-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-2023-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028-2022-11-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-25T04:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

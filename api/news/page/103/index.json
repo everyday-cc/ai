@@ -2,6 +2,49 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2022-09-16-legendary-cognitive-scientist-daniel-osherson-scientist-of-rare-talent-and-excellent-and-caring-mentor-dies-at-73.md",
+      "title": "'Legendary' cognitive scientist Daniel Osherson, 'scientist of rare talent' and 'excellent and caring mentor,' dies at 73",
+      "excerpt": "4 from complications due to Parkinson’s. He was 73 years old. One of the world’s leading experts on cognitive science, Osherson did foundational work on reasoning, epistemology, inductive logic, probabilistic thinking, concepts and categories.",
+      "sourceUrl": null,
+      "webUrl": "https://www.princeton.edu/news/2022/09/16/legendary-cognitive-scientist-daniel-osherson-scientist-rare-talent-and-excellent",
+      "originalUrl": "https://www.princeton.edu/news/2022/09/16/legendary-cognitive-scientist-daniel-osherson-scientist-rare-talent-and-excellent",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.princeton.edu/sites/default/files/styles/scale_1440/public/images/2022/09/20170607_OshersonD_DJA_005.jpg?itok=XjQ5gfxV",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-16T02:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Princeton University",
+        "domain": "princeton.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-16-the-mysterious-mathematics-of-ai-could-be-decoded-using-the-neural-network-method.md",
       "title": "The Mysterious Mathematics of AI Could be Decoded Using the Neural Network Method",
       "excerpt": "Artificial Intelligence relies on Neural Networks making it think or process information like a human. There is both input and output but it mostly remains unknown what transpires in the processing unit of the Neural Networks.",
@@ -1070,39 +1113,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-alexa-developer-raises-17m-for-unlikely-ai-startup.md",
-      "title": "Alexa developer raises £17m for Unlikely AI startup",
-      "excerpt": "A developer who previously worked on Alexa has raised £17m ($19.5m) for an Unlikely AI startup. The artificial intelligence startup company is in London and headed up by former Alexa boss William ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/alexa-developer-raises-17m-for-unlikely-ai-startup/article_74a4913e-6167-5aeb-afe7-590e53db2d5a.html",
-      "originalUrl": "https://www.victoriaadvocate.com/alexa-developer-raises-17m-for-unlikely-ai-startup/article_74a4913e-6167-5aeb-afe7-590e53db2d5a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T08:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

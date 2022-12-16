@@ -42,7 +42,7 @@ related:
   - title: "GBT Filed a Continuation Application for its Facial and Body Recognition Patent"
     excerpt: "GBT Technologies Inc. (OTC PINK: GTCH) (\"GBT\" or the \"Company\") with GBT Tokenize Corp. (\"GBT/Tokenize\") filed a continuation application with the United States Patent and Trademark Office for its facial and body recognition,"
     publishedDateTime: 2022-12-14T13:52:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-gbt-filed-continuation-application-its-facial-body-recognition-/2022/12/14/9730190.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2022/12/14/9730190.htm"
     type: article
     provider:
       name: TMCnet
