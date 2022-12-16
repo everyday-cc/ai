@@ -1,23 +1,20 @@
 ---
 category: news
-title: "Tesla reportedly claims its failure to deliver self-driving cars isn't fraud"
-excerpt: "Tesla has come under fire once again for its controversially named Full Self-Driving driver-assist feature. Despite what the name alludes to, FSD doesn't enable a car to drive on its own. The feature can handle certain situations but requires a driver to monitor things at all times and to always be ready to correct mistakes."
-publishedDateTime: 2022-12-16T14:26:00Z
-originalUrl: "https://www.motorauthority.com/news/1138168_tesla-reportedly-claims-its-failure-to-deliver-self-driving-cars-isn-t-fraud"
-webUrl: "https://www.motorauthority.com/news/1138168_tesla-reportedly-claims-its-failure-to-deliver-self-driving-cars-isn-t-fraud"
+title: "Tesla reportedly claims its failure to deliver self-driving cars isn’t fraud"
+excerpt: "Tesla has come under fire once again for its controversially named Full Self-Driving driver-assist feature. Despite what the name alludes to, FSD doesn’t enable a car to drive on its own."
+publishedDateTime: 2022-12-16T13:27:00Z
+originalUrl: "https://fox8.com/automotive/internet-brands/tesla-reportedly-claims-its-failure-to-deliver-self-driving-cars-isnt-fraud/"
+webUrl: "https://fox8.com/automotive/internet-brands/tesla-reportedly-claims-its-failure-to-deliver-self-driving-cars-isnt-fraud/"
 type: article
-quality: 31
-heat: 31
-published: false
 
 provider:
-  name: Motor Authority
-  domain: motorauthority.com
+  name: FOX8 Cleveland
+  domain: fox8.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "8mdCMGFgDox75ZpdvmvvakXtm2Mcug6TYIAfrSQe15d0jvu+ZUlO/0hHqIwkL3Xu9/4NKnaIrKRSM/PYpZm7V891m1o7Ta8i0hh44Y4CkDly4FpRjik40tX9CHjz7hmZFcKSDh6pot9vQpYePcHho19XUdq0DqC7/MRwc5Qy8NgRxMAAYbFYR4DabzGEp5m4jg3j2HveSk9rFruxLGzzKr4KUYyCFKlH5E8AOtKjkcRrDiQe/XOQHhmyJebXXW8w5oAVrp0lbBfk+cOzCp9/GB1vTlV9hjC72y67cGd0XGi1LT/JHvJNh6jb/elnRdRgccQXGLv8BQrnC9nyid9MqJcOd/ii9GuVwVYgHnxbZVBE913pzzdQrTU8Njb76ZYo3PaLxbSQ1hl1bNC7P+TQl0Hy9SR3w9zZabins/X32+EMoKPRoIdzDIZPfq1Pq8l5d+ssJR9Qt+abTqlIGypHx02b0sGk2UyZMPJ3T9RBIiIbEYiOKXM8UbTHwgK6cWOIz0WTPOXB5Fuqt13b4IZYUQ==;YalHKyvqBWO8636fJJ1Abw=="
+secured: "gvosqtaOqZvwCAf1Y2y4UXjaqhFOzY2cprEwQaJtA7t9cPB4OUu7cpUtjPtE8mX+Bvi480HJTqRM7kG7CTG2F6BFOgjasfArnIY/sNSP3bjEGwzV89euBpn03oQoLZNXeGFmamNGwhA1joKAHQ+KrOkhGbfTRtu392Mke41KjZjwL2uS5HhDkGqpjlcB6g0/4PDgZZo9rsK7aRgmYEEVlM53mZviSWtUbophxyd4i7HLPcIlN539k/QVqRSLaD3gX1KQCmggKUneY0pdEY4U2K7zUP+wHGET/aIpeJZDde9XC3bwULt+bIWoMLkC264OBhQl6Sqt8xljagPiU/U2Gkc9KVgeyQwojAWtJjWzMOvnT5qMPrgEoaO2On+Docc+zreM8tMmRSqCYO34uViqQcXyR/Im228lQhbenir80IxBCZLneN7wG9KB64LyAu0KBTq4yzXsf/97ZUuJTCwvtOu7lHKBKT3UaqprbOAWNAdICx17XVWm0oPf8mLYnnT6N7EKG9j1hLNkvU9aL918kA==;dbYeY/ucjf3SgTcre2twZw=="
 ---
 
