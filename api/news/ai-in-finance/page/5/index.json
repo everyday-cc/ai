@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2022-09-24-spiros-margaris-and-carl-hedge-fund-platform-partner-to-bring-all-accredited-investors-a-better-hedge-fund-experience.md",
-      "title": "Spiros Margaris and CARL hedge fund platform partner to bring all accredited investors a better hedge fund experience",
-      "excerpt": "He is a senior advisor to – and investor in – several companies in the fintech, insurtech, cybersecurity, health care, and AI sectors. Two of the fintech start-ups he has advised have become ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kxan.com/business/press-releases/ein-presswire/592487755/spiros-margaris-and-carl-hedge-fund-platform-partner-to-bring-all-accredited-investors-a-better-hedge-fund-experience/",
-      "originalUrl": "https://www.kxan.com/business/press-releases/ein-presswire/592487755/spiros-margaris-and-carl-hedge-fund-platform-partner-to-bring-all-accredited-investors-a-better-hedge-fund-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2c0db5b8fb27c1c9887-9b32efc83a6b298bb22e7a1df0837426.ssl.cf2.rackcdn.com/10166998-carl-logo-300x280.png",
-          "width": 300,
-          "height": 280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-23T14:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KXAN",
-        "domain": "kxan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-22-sopra-steria-and-algoan-strengthen-their-partnership-to-accelerate-financial-inclusion.md",
       "title": "Sopra Steria and Algoan Strengthen Their Partnership to Accelerate Financial Inclusion",
       "excerpt": "Sopra Steria, via Sopra Steria Ventures, has invested in Algoan, the leading French fintech in API-based credit scoring. Sopra Banking Software (SBS), a key technology partner to more than 1,500 financial institutions worldwide,",
@@ -1328,7 +1285,41 @@
         "AI in Finance",
         "AI"
       ]
+    },
+    {
+      "path": "_news/2022-09-08-thetaray-ai-tech-to-monitor-african-payments-for-arca.md",
+      "title": "ThetaRay AI Tech to Monitor African Payments for ARCA",
+      "excerpt": "ARCA is the first Nigerian fintech to adopt ThetaRay’s advanced SONAR solution, industry renowned for its ability to detect the very first signs of sophisticated financial crime. ARCA provides advanced digital payments for an open banking ecosystem,",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-8-thetaray-ai-tech-to-monitor-african-payments-for-arca",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-8-thetaray-ai-tech-to-monitor-african-payments-for-arca",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-08T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
     }
   ],
-  "nextPage": 6
+  "nextPage": null
 }
