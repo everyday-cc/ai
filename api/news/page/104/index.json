@@ -2,6 +2,273 @@
   "page": 104,
   "value": [
     {
+      "path": "_news/2022-09-16-oracle-brings-heatwave-to-aws.md",
+      "title": "Oracle Brings HeatWave To AWS",
+      "excerpt": "Senior Analyst, Servers, Matt Kimball, dives as MySQL HeatWave is a cloud database service that has enabled Oracle to create differentiation in the open-source MySQL market. MySQL HeatWave is available natively on AWS,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/09/15/oracle-brings-heatwave-to-aws/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/09/15/oracle-brings-heatwave-to-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6323c5bfd0627c92277a03a5/0x0.png?format=png&width=1200",
+          "width": 936,
+          "height": 444,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/09/15/oracle-brings-heatwave-to-aws/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/09/15/oracle-brings-heatwave-to-aws/amp/",
+      "publishedDateTime": "2022-09-15T17:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-balanced-meal-timing-has-potentially-positive-effects-on-cognitive-health.md",
+      "title": "Balanced meal timing has potentially positive effects on cognitive health",
+      "excerpt": "However, evidence regarding the relationship between TPEI and cognitive function at the population level is relatively lacking. Previous studies in animal models have shown that the disruption in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220916/Balanced-meal-timing-has-potentially-positive-effects-on-cognitive-health.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220916/Balanced-meal-timing-has-potentially-positive-effects-on-cognitive-health.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/10/Breakfast_served_with_coffee%2c_orange_juice%2c_croissants%2c_cereals_and_fruits._Balanced_diet-monticello_75d5748bf4164d1cb1502f79dcbee848-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-how-artificial-intelligence-is-transforming-cx.md",
+      "title": "How Artificial Intelligence Is Transforming CX",
+      "excerpt": "Artificial intelligence (AI) is driving a great wave of contact center system and application overhauls and upgrades. In the past three years, AI has progressed from a concept with great potential to a practical set of technologies that are being used to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154964",
+      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154964",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/148038-CRM_1022_RC-ORG.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Destination CRM",
+        "domain": "destinationcrm.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-will-artificial-intelligence-chatbots-become-our-new-best-friends.md",
+      "title": "Will artificial intelligence chatbots become our new best friends?",
+      "excerpt": "There was a time when the idea of artificial intelligence was confined to the world of distant research labs and little-known technology whizzes. That time has gone. AI-based concepts have slipped ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/independentpremium/long-reads/chat-box-artificial-intelligence-sentience-b2162576.html",
+      "originalUrl": "https://www.independent.co.uk/independentpremium/long-reads/chat-box-artificial-intelligence-sentience-b2162576.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2022/09/09/09/GettyImages-1211994930.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T16:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-alexa-developer-raises-17m-for-unlikely-ai-startup.md",
+      "title": "Alexa developer raises £17m for Unlikely AI startup",
+      "excerpt": "A developer who previously worked on Alexa has raised £17m ($19.5m) for an Unlikely AI startup. The artificial intelligence startup company is in London and headed up by former Alexa boss William ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-journal.com/alexa-developer-raises-17m-for-unlikely-ai-startup/article_09c9f85a-8f5b-565e-baaf-dd7751289191.html",
+      "originalUrl": "https://www.news-journal.com/alexa-developer-raises-17m-for-unlikely-ai-startup/article_09c9f85a-8f5b-565e-baaf-dd7751289191.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://feeds.bangshowbiz.com/i.php?k=aW1hZ2VzMS8yMDE3LzA4LzA3LzA0MDI2NTcwMDE1MDIxMzgyMzMtODUuanBnJjY1MCY2NTA=",
+          "width": 650,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T15:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longview News-Journal",
+        "domain": "news-journal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-soroco-scouttm-now-available-in-microsoft-azure-marketplace.md",
+      "title": "Soroco ScoutTM Now Available in Microsoft Azure Marketplace",
+      "excerpt": "Soroco, the world’s first work graph company, today announced the availability of Soroco ScoutTM, the flagship product powered by work graph in Microsoft Azure Marketplace, an online store providing a",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/soroco-scouttm-now-available-in-microsoft-azure-marketplace/",
+      "originalUrl": "https://indiaeducationdiary.in/soroco-scouttm-now-available-in-microsoft-azure-marketplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1",
+          "width": 534,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/soroco-scouttm-now-available-in-microsoft-azure-marketplace/amp/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/soroco-scouttm-now-available-in-microsoft-azure-marketplace/amp/",
+      "publishedDateTime": "2022-09-15T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-16-truist-launches-ai-enhanced-truist-assist.md",
       "title": "Truist launches AI-enhanced Truist Assist",
       "excerpt": "Truist Financial today launched its artificial intelligence (AI)-enhanced virtual assistant Truist Assist, which introduces a self-service element to the bank’s customer experience offerings. The virtual assistant leverages natural language processing and natural language understanding that helps answer client questions in a digital channel,",
@@ -882,273 +1149,6 @@
         "AI",
         "AI Hardware",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-vonage-launches-ai-studio.md",
-      "title": "Vonage Launches AI Studio",
-      "excerpt": "Founder and CEO of Aragon Research. \"Similarly, businesses need the tools that enable them to easily create these kinds of meaningful connections, augmented by AI capabilities to add efficiencies ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/vonage-launches-ai-studio-1031745371",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/vonage-launches-ai-studio-1031745371",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-get-global-exposure-to-japans-robotics-industry-with-this-etf.md",
-      "title": "Get Global Exposure to Japan’s Robotics Industry With This ETF",
-      "excerpt": "There's no doubt that robotics is going to experience unprecedented growth over the next decade as the world becomes more automated, but certain countries have been leading the charge towards that shift,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/get-global-exposure-to-japans-robotics-industry-with-this-etf",
-      "originalUrl": "https://www.nasdaq.com/articles/get-global-exposure-to-japans-robotics-industry-with-this-etf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/get-global-exposure-to-japans-robotics-industry-with-this-etf?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/get-global-exposure-to-japans-robotics-industry-with-this-etf?amp",
-      "publishedDateTime": "2022-09-15T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-expanding-access-to-technology-by-democratizing-access-to-ai-powered-software.md",
-      "title": "Expanding Access To Technology By Democratizing Access To AI-Powered Software",
-      "excerpt": "AI is now transforming the software development space itself and making it easier for businesses of all sizes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/15/expanding-access-to-technology-by-democratizing-access-to-ai-powered-software/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/15/expanding-access-to-technology-by-democratizing-access-to-ai-powered-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63207effe02c83fcd4d70386/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/15/expanding-access-to-technology-by-democratizing-access-to-ai-powered-software/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/15/expanding-access-to-technology-by-democratizing-access-to-ai-powered-software/amp/",
-      "publishedDateTime": "2022-09-15T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-from-a-robotic-nurse-to-an-ai-actress-meet-the-worlds-most-realistic-humanoid-robots-that-can-mimic-human-speech-and-facial-expressions-with.md",
-      "title": "From a robotic nurse to an AI actress: Meet the world's most realistic humanoid ROBOTS that can mimic human speech and facial expressions with eerie precision",
-      "excerpt": "With AI at its core and a full-size humanoid ... stores across North America and the Middle East. 'A robot with a new appearance will start its activities in 2023, and a selected person's face ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-11211887/Meet-worlds-realistic-humanoid-ROBOTS.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-11211887/Meet-worlds-realistic-humanoid-ROBOTS.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/09/14/16/62406355-0-image-a-143_1663169221048.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-11211887/amp/Meet-worlds-realistic-humanoid-ROBOTS.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11211887/amp/Meet-worlds-realistic-humanoid-ROBOTS.html",
-      "publishedDateTime": "2022-09-15T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-trinity-and-ibm-deal-to-advance-research-in-areas-such-as-quantum-and-ai.md",
-      "title": "Trinity and IBM deal to advance research in areas such as quantum and AI",
-      "excerpt": "TCD and IBM are collaborating on research activities and extending their pre-PhD programme to train next-gen talent in quantum, AI and security. Trinity College Dublin (TCD) has signed a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconrepublic.com/innovation/trinity-tcd-ibm-deal-research-advancement",
-      "originalUrl": "https://www.siliconrepublic.com/innovation/trinity-tcd-ibm-deal-research-advancement",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconrepublic.com/wp-content/uploads/2022/09/IBM-MoU-signing.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T02:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconRepublic",
-        "domain": "siliconrepublic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-latin-america-machine-learning-market-2022-comprehensive-industry-and-vendor-landscape-2030.md",
-      "title": "Latin America Machine Learning Market 2022 Comprehensive Industry and Vendor Landscape 2030",
-      "excerpt": "The value of the Machine Learning market in Latin America is expected to reach USD 0.93 Bn by 2023, expanding at a compound annual growth rate (CAGR) of 24.8% during 2018-2023. Request To Download Free Sample of This Strategic Report: -  Key Companies Covered in the Latin America Machine Learning Market Research are Microsoft,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/latin-america-machine-learning-market-2022-comprehensive-industry-and-vendor-landscape-2030-2022-09-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/latin-america-machine-learning-market-2022-comprehensive-industry-and-vendor-landscape-2030-2022-09-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

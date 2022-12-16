@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-16T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/16/popeye-spinach-and-bad-data-ai-lessons-to-learn-from-the-lie-that-wont-die/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/16/popeye-spinach-and-bad-data-ai-lessons-to-learn-from-the-lie-that-wont-die/"
 type: article
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: Forbes

@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-10-08-ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022.md",
+      "title": "AI, Virtual Reality And Real Estate: Big Ideas Coming Out Of IOi Summit 2022",
+      "excerpt": "Organized by the National Association of Realtors (NAR), the annual conference welcomed professionals from all over the country to explore the latest groundbreaking ideas in the world of PropTech. Topics ranged widely from non-fungible tokens (NFTs) to affordable housing to insurance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbes-global-properties/2022/10/08/ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022/",
+      "originalUrl": "https://www.forbes.com/sites/forbes-global-properties/2022/10/08/ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6340edc837c11a447fde06ad/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbes-global-properties/2022/10/08/ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-global-properties/2022/10/08/ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022/amp/",
+      "publishedDateTime": "2022-10-08T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-06-how-synamedia-uses-amazon-rekognition-video-to-build-advanced-video-search-capabilities-for-long-form-video.md",
       "title": "How Synamedia uses Amazon Rekognition Video to build advanced video search capabilities for long-form video",
       "excerpt": "Synamedia is a leading video technology provider addressing the needs for premium video service providers and direct-to-consumer (D2C) with a comprehensive solution portfolio. Synamedia solutions spread across several pillars such as video networks, TV platforms, advertisement and monetization, and content",
@@ -1376,40 +1428,6 @@
       "provider": {
         "name": "India Education Diary",
         "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-24-sedai-joins-aws-isv-accelerate-program.md",
-      "title": "Sedai Joins AWS ISV Accelerate Program",
-      "excerpt": "SAN FRANCISCO–(BUSINESS WIRE)–#SRE–Sedai, the autonomous cloud management platform, has announced today that it has been accepted into the Amazon Web Services (AWS) Independent Software Vendor (ISV) Accelerate Program, a co-sell program for AWS ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/sedai-joins-aws-isv-accelerate-program/",
-      "originalUrl": "https://www.01net.it/sedai-joins-aws-isv-accelerate-program/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-23T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
         "images": null,
         "publishers": null,
         "authors": null

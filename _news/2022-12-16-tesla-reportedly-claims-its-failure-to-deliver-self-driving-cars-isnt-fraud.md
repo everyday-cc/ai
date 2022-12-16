@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-16T14:26:00Z
 originalUrl: "https://www.motorauthority.com/news/1138168_tesla-reportedly-claims-its-failure-to-deliver-self-driving-cars-isn-t-fraud"
 webUrl: "https://www.motorauthority.com/news/1138168_tesla-reportedly-claims-its-failure-to-deliver-self-driving-cars-isn-t-fraud"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: Motor Authority

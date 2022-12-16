@@ -2,6 +2,255 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-12-08-ai-finally-gives-everyone-a-voice-whether-we-like-it-or-not.md",
+      "title": "AI Finally Gives Everyone A Voice... Whether We Like It Or Not!",
+      "excerpt": "Surveys and focus groups have replaced the ancient forum as a way of gathering perspectives of large number of people but each have their limitations. AI, however, offers new ways of accurately and fairly taking into account many peoples perspectives,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/paulxmccarthy/2022/12/08/ai-finally-gives-everyone-a-voice-whether-we-like-it-or-not/",
+      "originalUrl": "https://www.forbes.com/sites/paulxmccarthy/2022/12/08/ai-finally-gives-everyone-a-voice-whether-we-like-it-or-not/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63917c89344e25a4a18465da/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 803,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paulxmccarthy/2022/12/08/ai-finally-gives-everyone-a-voice-whether-we-like-it-or-not/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulxmccarthy/2022/12/08/ai-finally-gives-everyone-a-voice-whether-we-like-it-or-not/amp/",
+      "publishedDateTime": "2022-12-07T22:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-ai-bot-that-can-do-schoolwork-could-blow-up-us-education-system-with-youngest-at-most-risk-former-teacher.md",
+      "title": "AI bot that can do schoolwork could 'blow up' US education system, with youngest at most risk: former teacher",
+      "excerpt": "Former English teacher, Peter Laffin, predicts OpenAI's new artificial intelligence chatbot will lead to a learning crisis and force teachers to rethink education.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/ai-bot-schoolwork-blow-up-us-education-system-youngest-risk-former-teacher",
+      "originalUrl": "https://www.foxnews.com/tech/ai-bot-schoolwork-blow-up-us-education-system-youngest-risk-former-teacher",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/662f3a8f-1516-43b5-98c7-b9924736eabe/47d6a37b-6ac0-4b19-bdec-d070de9ec558/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/ai-bot-schoolwork-blow-up-us-education-system-youngest-risk-former-teacher.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-bot-schoolwork-blow-up-us-education-system-youngest-risk-former-teacher.amp",
+      "publishedDateTime": "2022-12-07T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-how-pixyle-ai-is-helping-shoppers-find-exactly-what-they-want.md",
+      "title": "How Pixyle AI Is Helping Shoppers Find Exactly What They Want",
+      "excerpt": "Svetlana Kordumova, the founder of Pixyle AI, which is today announcing a €1 million seed funding round, was struck by a frustrating irony. Studying for a PhD in artificial intelligence and computer vision at the University of Amsterdam,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidprosser/2022/12/08/how-pixyle-ai-is-helping-shoppers-find-exactly-what-they-want/",
+      "originalUrl": "https://www.forbes.com/sites/davidprosser/2022/12/08/how-pixyle-ai-is-helping-shoppers-find-exactly-what-they-want/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6390fee7b203b78ec58465da/0x0.jpg?format=jpg&crop=1800,844,x0,y354,safe&width=1200",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2022/12/08/how-pixyle-ai-is-helping-shoppers-find-exactly-what-they-want/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2022/12/08/how-pixyle-ai-is-helping-shoppers-find-exactly-what-they-want/amp/",
+      "publishedDateTime": "2022-12-07T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-chinas-iqiyi-bets-big-on-artificial-intelligence-to-help-pandemic-hit-production-sector.md",
+      "title": "China’s iQiyi Bets Big on Artificial Intelligence to Help Pandemic-Hit Production Sector",
+      "excerpt": "China-owned streamer iQiyi has been ramping up its use of artificial intelligence across productions as a result of the lasting impact of the pandemic. Kelvin Yau, head of southeast Asia for iQiyi ...",
+      "sourceUrl": null,
+      "webUrl": "https://variety.com/2022/digital/asia/iqiyi-artifical-intelligence-ai-production-1235453756/",
+      "originalUrl": "https://variety.com/2022/digital/asia/iqiyi-artifical-intelligence-ai-production-1235453756/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://variety.com/wp-content/uploads/2019/02/iqiyi-hq-frater-res.jpg?w=1000&h=563&crop=1",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://variety.com/2022/digital/asia/iqiyi-artifical-intelligence-ai-production-1235453756/amp/",
+      "cdnAmpWebUrl": "https://variety-com.cdn.ampproject.org/c/s/variety.com/2022/digital/asia/iqiyi-artifical-intelligence-ai-production-1235453756/amp/",
+      "publishedDateTime": "2022-12-07T20:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Variety",
+        "domain": "variety.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-uber-launching-self-driving-cars-in-las-vegas.md",
+      "title": "Uber launching self-driving cars in Las Vegas",
+      "excerpt": "The robocars, made by driverless technology company Motional, are sent with two “vehicle operators” behind the wheel to monitor the technology and provide added support to riders. Uber said it ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/12/07/tech/uber-motional-self-driving-vegas/index.html",
+      "originalUrl": "https://www.cnn.com/2022/12/07/tech/uber-motional-self-driving-vegas/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221207085819-01-uber-robotaxi-las-vegas-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/12/07/tech/uber-motional-self-driving-vegas/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/12/07/tech/uber-motional-self-driving-vegas/index.html",
+      "publishedDateTime": "2022-12-07T18:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-08-ai-sweeping-robot-market-2022-2028-leading-growth-drivers-emerging-audience-segments-industry-sales-profits-analysis.md",
       "title": "AI Sweeping Robot Market 2022-2028 Leading Growth Drivers, Emerging Audience, Segments, Industry Sales, Profits & Analysis",
       "excerpt": "AI Sweeping Robot Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2021, at unexpected",
@@ -944,238 +1193,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-new-advances-in-neural-interfaces-research-at-johns-hopkins.md",
-      "title": "New Advances in Neural Interfaces Research at Johns Hopkins",
-      "excerpt": "Johns Hopkins APL and the Johns Hopkins School of Medicine have reported research progress on multiple neural interface technologies for functional restoration, rehabilitation and augmentation for people affected by spinal cord injury,",
-      "sourceUrl": null,
-      "webUrl": "https://www.jhuapl.edu/NewsStory/221207-apl-advances-neural-interfaces-research",
-      "originalUrl": "https://www.jhuapl.edu/NewsStory/221207-apl-advances-neural-interfaces-research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.jhuapl.edu/Content/images/newsstory/20221207_image1_med.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T08:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "jhuapl",
-        "domain": "jhuapl.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-this-robotics-technology-market-research-report-factors-limiting-the-market-growth.md",
-      "title": "THIS Robotics Technology MARKET RESEARCH REPORT: Factors limiting the market growth.",
-      "excerpt": "Robotics technology is a branch of engineering that deals with the design, construction, operation, and control",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/this-robotics-technology-market-research-report-factors-limiting-the-market-growth-2022-12-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/this-robotics-technology-market-research-report-factors-limiting-the-market-growth-2022-12-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-howie-mandel-gets-a-digital-twin-from-deepbrain-ai.md",
-      "title": "Howie Mandel gets a digital twin from DeepBrain AI",
-      "excerpt": "Howie Mandel is stepping into the metaverse. DeepBrain AI has created a pretty realistic AI version of comedian and actor Mandel.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/howie-mandel-gets-a-digital-twin-from-deepbrain-ai/",
-      "originalUrl": "https://venturebeat.com/games/howie-mandel-gets-a-digital-twin-from-deepbrain-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/12/howie-AI-Studios-with-AI-Howie.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 592,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/howie-mandel-gets-a-digital-twin-from-deepbrain-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/howie-mandel-gets-a-digital-twin-from-deepbrain-ai/amp/",
-      "publishedDateTime": "2022-12-07T08:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-bidscale-connect-linking-government-and-industry-through-an-ai-powered-platform.md",
-      "title": "Bidscale Connect: Linking Government and Industry Through an AI-Powered Platform",
-      "excerpt": "Bidscale Connect is now live in Beta with an AI-powered market intelligence platform to power Federal contracting. Bidscale Connect is tailor-made to accelerate the contracting process for Government buyers and Industry vendors.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/bidscale-connect-linking-government-and-industry-through-an-ai-powered-platform-1031958377",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/bidscale-connect-linking-government-and-industry-through-an-ai-powered-platform-1031958377",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1878605/Bidscale_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T08:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-autonomous-robot-startup-synkar-partners-with-toronto-based-microart-services.md",
-      "title": "Autonomous Robot Startup Synkar Partners With Toronto Based Microart Services",
-      "excerpt": "Synkar’s mission, “To bring robotics, AI, and innovation into everyday logistics ... Evandro Barros joined forces with Lucas Assis to start their strategy and PHd level thinking for real ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/autonomous-robot-startup-synkar-partners-with-toronto-based-microart-services",
-      "originalUrl": "https://www.digitaljournal.com/pr/autonomous-robot-startup-synkar-partners-with-toronto-based-microart-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T08:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

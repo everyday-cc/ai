@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-16T12:39:00Z
 originalUrl: "https://www.benzinga.com/general/movers-shakers/22/12/30108016/automate-the-boring-stuff-with-flash-hire-how-this-artificial-intelligence-driven-platform"
 webUrl: "https://www.benzinga.com/general/movers-shakers/22/12/30108016/automate-the-boring-stuff-with-flash-hire-how-this-artificial-intelligence-driven-platform"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

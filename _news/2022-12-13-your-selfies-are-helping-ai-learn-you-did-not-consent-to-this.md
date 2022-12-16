@@ -17,6 +17,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "This new site uses AI to let you create the brand mashups of your dreams"
+    excerpt: "With mashups like Little Caesars x Hello Kitty, BrXnd.ai lets users dream up amazing—and cursed—brand collabs."
+    publishedDateTime: 2022-12-16T04:29:00Z
+    webUrl: "https://www.fastcompany.com/90825504/brxnd-generative-ai-create-brand-mashups"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 16
+
 secured: "2VCgUgNTxgdcoBYS0bzJXC+NBOBD0X1pZZv4mggYe3l+oFI52dHcpWA7EaLHFqRFWB+nBFOFJUWmolzaLNg0K/2gDMDWIWxLmNAsltU1lSRmzRKChFNg4x68oDz4ucTEJnhSguaeASG5pdAAia5p6UgF+lSk/wcsu8fPXIAFPYYh5SW9/BUrZ+RR0DGPYQK7LNNhMk6qn3EOCeI7ul+MxbHbbbE5kMe5Jsr2RbdwSv57hdgf7w11vu+5BJNGxTuZDN4ThBLduNIPbV5UoLWdD0XAKPBQK/133/HF3pTtcTaO73/vTj1KRr9zagJrwGrkjEUhfxrr0R204rKL9iyOxq0+ggGrMprM4t3MHvRpqm6S3BbAoC8cY5EUFqM+gX8cMNe1A+J3o7xt7ZFeWNkqGyFpgaOk9K0DDDqe+PWceKXvzlU+Pt4aHyQIFAJcQMGeY9eF6SjdKajrV/a5jQ7RZD7sIJRPFOwsZVywwDuU/1l4dIaLx1G6CK7kXxv+gCeyr3y8EBLASZcay2523OKi0g==;v+jT+aXy68932ZBG50+bMg=="
 ---
 

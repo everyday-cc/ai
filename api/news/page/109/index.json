@@ -2,6 +2,257 @@
   "page": 109,
   "value": [
     {
+      "path": "_news/2022-09-13-tesla-ai-day-2022-everything-you-need-to-know.md",
+      "title": "Tesla AI Day 2022: Everything You Need To Know",
+      "excerpt": "The tech obsessed watch to see how Tesla is pushing the envelope in bringing new and exciting innovations to the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/09/13/tesla-ai-day-2022-everything-you-need-to-know/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/09/13/tesla-ai-day-2022-everything-you-need-to-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6320a0f9a400968b15fe585a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/09/13/tesla-ai-day-2022-everything-you-need-to-know/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/09/13/tesla-ai-day-2022-everything-you-need-to-know/amp/",
+      "publishedDateTime": "2022-09-13T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-kyndis-natural-language-search-solution-recognized-as-a-kmworld-top-trend-setting-product-of-2022.md",
+      "title": "Kyndi's Natural Language Search Solution Recognized as a KMWorld Top Trend-Setting Product of 2022",
+      "excerpt": "Kyndi, the leading natural language processing (NLP) company, today announced that KMWorld, the premier knowledge management publication, has acknowledged the Kyndi Natural Language Search Solution as a Top Trend-Setting Product of 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/09/13/9672530.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/09/13/9672530.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1896484/KMWorld_has_acknowledged_the_Kyndi_Natural_Language_Search_Solution_as_a_Top_Trend_Setting_Product_o.jpg",
+          "width": 400,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-ccc-intelligent-solutions-recognized-in-prestigious-idc-fintech-rankings-real-results.md",
+      "title": "CCC Intelligent Solutions Recognized in Prestigious IDC FinTech Rankings Real Results",
+      "excerpt": "CCC Intelligent Solutions Inc. (CCC), a leading SaaS platform powering the P&C insurance economy, has been named a top 100 financial technology provider by market intelligence firm IDC as part of their 19th annual IDC FinTech Ranking Real Results program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/ccc-intelligent-solutions-recognized-in-prestigious-idc-fintech-rankings-real-results/article_051a4f87-8b00-5e38-8bad-4b2e6fa0b3be.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/ccc-intelligent-solutions-recognized-in-prestigious-idc-fintech-rankings-real-results/article_051a4f87-8b00-5e38-8bad-4b2e6fa0b3be.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg",
+          "width": 350,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-ccc-intelligent-solutions-wins-2022-idc-fintech-rankings-real-results-award-for-ccc-safekeep.md",
+      "title": "CCC Intelligent Solutions Wins 2022 IDC FinTech Rankings Real Results Award for CCC® Safekeep",
+      "excerpt": "The AI-Powered Subrogation Platform Recognized for its Work with Root Insurance CCC Intelligent Solutions Inc. (CCC), a leading SaaS platform powering the P&C insurance economy, announced today it is",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/09/b28850758/ccc-intelligent-solutions-wins-2022-idc-fintech-rankings-real-results-award-for-ccc-safekeep",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/b28850758/ccc-intelligent-solutions-wins-2022-idc-fintech-rankings-real-results-award-for-ccc-safekeep",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg",
+          "width": 700,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28850758",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28850758",
+      "publishedDateTime": "2022-09-13T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-verisilicon-ai-isp-delivers-innovative-image-quality-enhancement-that-breaks-the-limits-of-computer-vision.md",
+      "title": "VeriSilicon AI-ISP Delivers Innovative Image Quality Enhancement that Breaks the Limits of Computer Vision",
+      "excerpt": "Low-power, low-latency and low-DDR bandwidth image quality upgrades enabled by VeriSilicon FLEXA VeriSilicon (688521.SH), a leading Silicon Platform as a Service (SiPaaS) company, today announced",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-09/57045723-verisilicon-ai-isp-delivers-innovative-image-quality-enhancement-that-breaks-the-limits-of-computer-vision-004.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-09/57045723-verisilicon-ai-isp-delivers-innovative-image-quality-enhancement-that-breaks-the-limits-of-computer-vision-004.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-msp360-partners-with-deep-instinct-to-fully-integrate-the-worlds-first-deep-learning-cybersecurity-framework-solution.md",
+      "title": "MSP360 Partners with Deep Instinct to Fully Integrate the World's First Deep Learning Cybersecurity Framework Solution",
+      "excerpt": "MSP360, a provider of simple and reliable backup and IT management solutions for managed services providers (MSPs) and IT departments worldwide, is now fully integrated with Deep Instinct, a prevention-first approach to stopping ransomware and other malware using the world's first deep learning cybersecurity framework.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/09/13/9672196.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/09/13/9672196.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-13-between-a-rock-and-a-hard-place-new-research-reveals-us-banking-is-trapped-by-rising-financial-crime-and-perceived-tech-complexity.md",
       "title": "Between a rock and a hard place – new research reveals US Banking is trapped by rising financial crime and perceived tech complexity",
       "excerpt": "Featurespace, the leading provider of enterprise financial crime prevention software, announced the release of a new report, “The State of Fraud and Financial Crime in the U.S.” conducted in conjunction with PYMNTS.",
@@ -838,276 +1089,6 @@
         "AI",
         "Microsoft AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-why-humanity-is-needed-to-propel-conversational-ai.md",
-      "title": "Why humanity is needed to propel conversational AI",
-      "excerpt": "Conversational AI still has some way to go before all users feel accurately represented. Accounting for subtleties of dialect, the time taken for speakers to think, as well as the active nature of a conversation,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-humanity-is-needed-to-propel-conversational-ai/",
-      "originalUrl": "https://venturebeat.com/ai/why-humanity-is-needed-to-propel-conversational-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-593338488-Just_Super.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 634,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-humanity-is-needed-to-propel-conversational-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-humanity-is-needed-to-propel-conversational-ai/amp/",
-      "publishedDateTime": "2022-09-12T21:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-ibm-upgrades-linux-mainframe-boosting-availability-and-ai-performance.md",
-      "title": "IBM upgrades Linux mainframe, boosting availability and AI performance",
-      "excerpt": "Latest IBM mainframe update for Linux provides more power and resilience for mission-critical enterprise workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/ibm-upgrades-linux-mainframe-boosting-availability-and-ai-performance/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/ibm-upgrades-linux-mainframe-boosting-availability-and-ai-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/IBM_linuxone_emperor_4_data_center_091222-e1663022887839.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 901,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/data-infrastructure/ibm-upgrades-linux-mainframe-boosting-availability-and-ai-performance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/ibm-upgrades-linux-mainframe-boosting-availability-and-ai-performance/amp/",
-      "publishedDateTime": "2022-09-12T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-natural-language-processing-nlp-market-report-2022-industry-insights-share-size-market-growth-trends-and-forecast-2029-97-report-pages.md",
-      "title": "Natural Language Processing (NLP) Market Report 2022 | Industry Insights, Share, Size, Market Growth, Trends and Forecast 2029 | 97 Report Pages",
-      "excerpt": "Sep 13, 2022 (The Expresswire) -- Global “Natural Language Processing (NLP)Market”2022 Research report is an in-depth study of the market Analysis. Along with the most recent patterns and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-report-2022-industry-insights-share-size-market-growth-trends-and-forecast-2029-97-report-pages-2022-09-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-report-2022-industry-insights-share-size-market-growth-trends-and-forecast-2029-97-report-pages-2022-09-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T19:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-vmware-cloud-on-aws-expands-to-hong-kong.md",
-      "title": "VMware Cloud on AWS Expands to Hong Kong",
-      "excerpt": "HONG KONG SAR - Media OutReach - 13  2022 - Today, VMware announces VMware Cloud on AWS is now available in the Asia Pacific (Hong Kong) Region.",
-      "sourceUrl": null,
-      "webUrl": "https://www.macaubusiness.com/vmware-cloud-on-aws-expands-to-hong-kong/",
-      "originalUrl": "https://www.macaubusiness.com/vmware-cloud-on-aws-expands-to-hong-kong/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2022/09/DSC00716-DdM9NR.jpeg",
-          "width": 1210,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T18:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Macau Business",
-        "domain": "macaubusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-new-method-for-comparing-neural-networks-exposes-how-artificial-intelligence-works.md",
-      "title": "New method for comparing neural networks exposes how artificial intelligence works",
-      "excerpt": "Neural networks are high performance, but fragile. For example, self-driving cars use neural networks to detect signs. When conditions are ideal, they do this quite well. However, the smallest ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/964598",
-      "originalUrl": "https://www.eurekalert.org/news-releases/964598",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/87aac4f7-8dbc-46a2-a15c-f5e5bf4d2be7/Rendition/thumbnail/Content/Public",
-          "width": 263,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-unlocking-human-like-perception-in-self-driving-vehicles.md",
-      "title": "Unlocking human-like perception in self-driving vehicles",
-      "excerpt": "Researchers at the University of Freiburg have introduced the amodal panoptic segmentation task whose solution may soon enable more human-like environment perception for self-driving vehicles through AI algorithms • Unveiled at the AutoSens conference in the Autoworld Museum in Brussels • “We are confident that novel AI algorithms for this task will enable robots to emulate the visual experience that humans have by perceiving complete physical structures of objects,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/964648",
-      "originalUrl": "https://www.eurekalert.org/news-releases/964648",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-16T13:16:00Z
 originalUrl: "https://www.cnet.com/home/kitchen-and-household/irobot-roomba-combo-j7-plus-vs-roborock-s7-maxv-ultra-which-robot-vac-and-mop-is-best/"
 webUrl: "https://www.cnet.com/home/kitchen-and-household/irobot-roomba-combo-j7-plus-vs-roborock-s7-maxv-ultra-which-robot-vac-and-mop-is-best/"
 type: article
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: CNET

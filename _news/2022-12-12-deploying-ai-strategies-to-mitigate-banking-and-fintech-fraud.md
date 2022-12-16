@@ -7,7 +7,7 @@ originalUrl: "https://financialit.net/blog/ai-baking-fintech/deploying-ai-strate
 webUrl: "https://financialit.net/blog/ai-baking-fintech/deploying-ai-strategies-mitigate-banking-and-fintech-fraud"
 type: article
 quality: 54
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://stockhead.com.au/wp-content/uploads/2022/12/A-look-back-at-FIntech-stocks-and-what-to-expect-in-2023.-Picture-Getty.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "How Artificial Intelligence Can Enhance the Fintech Industry"
+    excerpt: "AI in FinTech has also had a similar impact with enhanced security and banking apps, making the finance industry more customer friendly. Artificial intelligence (AI) significantly impacts practically every part of our daily life,"
+    publishedDateTime: 2022-12-16T16:45:00Z
+    webUrl: "https://www.bbntimes.com/financial/how-artificial-intelligence-can-enhance-the-fintech-industry"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 39
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/How_AI_Can_Enhance_the_Fintech_Industry.png"
+        width: 1888
+        height: 1080
         isCached: true
   - title: "AI in fintech: 4 ways AI impacts on financial industry"
     excerpt: "A remarkable milestone in fintech has become the deployment of artificial intelligence algorithms, a potential game changer that has revolutionized the financial industry in many ways. The benefits AI brings are huge: this smart tech reduces unnecessary expenses,"

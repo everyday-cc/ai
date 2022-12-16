@@ -173,6 +173,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 15
+  - title: "Voice Recognition Market 2023 Size | Share, Forecasts Analysis, Company Profiles, Competitive Landscape and Key Regions 2028 | Top Countries Data"
+    excerpt: "The Voice Recognition market report provides an overall assessment of the market for the forecast period. The report"
+    publishedDateTime: 2022-12-16T10:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2023-size-share-forecasts-analysis-company-profiles-competitive-landscape-and-key-regions-2028-top-countries-data-2022-12-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 0
 
 secured: "fMXwNpmhorphnSSItw8XViDB2qIbeYFS+UN8ESU/kNl84kqtQDKywWg10++xO0+SkLTxfy7M+bii/2pzlrCrc/Qm+/qRiomcbCxQUqbrqskuTODAF44TvXK8Sv/pzH18G3S28SiCl2KYmFuyaQtO17iULCdP0d5jeuoUaX0h5K6w7UIkBDHid5q1lcTCd744NbvEfkyl9muH7DN2Oocbb2S/EXGhB+u1YAGdT92plqs1c672zIT4Abiwr5TVLPuh7/DOzSjraHQmtmNYd8PRZtBP3XdZb/inti9dw+hytJx+vjHMA6Jwj8PFfZrXkH8c0D867brJlocB/bCosj6UmGy9jvZuRZbnRxcxwHoA8ps=;7R9jqHA/nOzrT8u4Zwbilw=="
 ---

@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-16-as-doubts-grow-over-self-driving-vehicles-this-ambitious-upstart-rolls-out-its-first-robot-trucks.md",
+      "title": "As Doubts Grow Over Self-Driving Vehicles, This Ambitious Upstart Rolls Out Its First Robot Trucks",
+      "excerpt": "Self-driving tech startup Waabi has deployed its first robot trucks and intends ... testing with the “Waabi World” simulator CEO Urtasun developed that allows the AI-enabled system to experience nearly limitless types of road conditions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alanohnsman/2022/11/16/as-doubts-grow-over-self-driving-vehicles-this-ambitious-upstart-rolls-out-its-first-robot-trucks/",
+      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2022/11/16/as-doubts-grow-over-self-driving-vehicles-this-ambitious-upstart-rolls-out-its-first-robot-trucks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63743b5c8a22f01209f59b8f/0x0.jpg?format=jpg&crop=3532,1885,x156,y113,safe&width=1200",
+          "width": 1200,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T06:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-artificial-intelligence-technology-solutions-aitx-ceo-testifies-at-criminal-hearing.md",
       "title": "Artificial Intelligence Technology Solutions (AITX) CEO Testifies at Criminal Hearing",
       "excerpt": "Artificial Intelligence Technology Solutions, Inc., (the Company) (OTCPK:AITX), has announced that on November 15, 2022 its CEO, Steve Reinharz provided testimony at a criminal assault hearing. The hearing was regarding an attack on a Trinity Railway Express (TRE) conductor at a Ft.",
@@ -1321,49 +1374,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-pittsburgh-area-tech-companies-look-to-fill-open-roles-following-closure-of-local-robotics-firms.md",
-      "title": "Pittsburgh-area tech companies look to fill open roles following closure of local robotics firms",
-      "excerpt": "The recent closures of Strip District-based autonomous vehicle startup Argo AI LLC and South Side-based vertical farming startup Fifth Season Inc. have resulted in the termination of an estimated 800 jobs in the region,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wpxi.com/news/business/pittsburgh-area-tech-companies-look-fill-open-roles-following-closure-local-robotics-firms/HP5GTJ5XDFCH3KSG6IGQISA7PM/",
-      "originalUrl": "https://www.wpxi.com/news/business/pittsburgh-area-tech-companies-look-fill-open-roles-following-closure-local-robotics-firms/HP5GTJ5XDFCH3KSG6IGQISA7PM/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/H51_Y_684lEtaFXUe48V1-tVinE=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/IOE7T6U4MNGC3AAVT64SJKWN5U.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wpxi.com/news/business/pittsburgh-area-tech-companies-look-fill-open-roles-following-closure-local-robotics-firms/HP5GTJ5XDFCH3KSG6IGQISA7PM/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/business/pittsburgh-area-tech-companies-look-fill-open-roles-following-closure-local-robotics-firms/HP5GTJ5XDFCH3KSG6IGQISA7PM/?outputType=amp",
-      "publishedDateTime": "2022-11-07T08:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WPXI",
-        "domain": "wpxi.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

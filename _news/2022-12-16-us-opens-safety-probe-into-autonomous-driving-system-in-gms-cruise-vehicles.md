@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/us-opens-safety-probe-into-auto
 webUrl: "https://www.reuters.com/technology/us-opens-safety-probe-into-autonomous-driving-system-gms-cruise-vehicles-2022-12-16/"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "NHTSA opens safety probe into GM's Cruise autonomous driving system"
+    excerpt: "NHTSA is opening a formal probe into GM's Cruise autonomous driving system after a series of crashes and complaints of hard braking and immobilization."
+    publishedDateTime: 2022-12-16T13:45:00Z
+    webUrl: "https://www.autoblog.com/2022/12/16/gm-cruise-nhtsa-investigation-autonomous-taxi/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 4
 
 secured: "0Llu4YoApvq3BATRfJzU5bJP00ryasP1gdCmdnCtPFlOI3rnQGzIy8E9WUUnljBRgZP+bqLEHKMFqLuFdLIGCcC/mcCHbGOjZV/cdvByTLLow8slmhpzbh+PaX0AAgVLxsuKJ39K8/ds2njwPjD7rTAYGk8AgJXxJpMZIQ2Vwx6KIPho/NP29kAezhDtarBHQEnHHlYR5MCGf31ITRO8K7CR5YAvhFyk1ToiWp4hLw1Ie14xhBBPoVUL12F3ax/BaQ7Ve1m6MimuLd6IxrCLxdwM/DO1LnwGuBaWyNuChjkg3fOaiWASXClD8AAZmTtQiiYts+7cSbZ5L0ayJqYMO+H6L+CnVd8A8U5E+JK/dKw=;KN3HOgF0xOPV11SRlOnWMQ=="
 ---

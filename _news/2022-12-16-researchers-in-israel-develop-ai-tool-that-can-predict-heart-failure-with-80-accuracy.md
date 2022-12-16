@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-16T14:42:00Z
 originalUrl: "https://www.ndtv.com/feature/researchers-in-israel-develop-ai-tool-that-can-predict-heart-failure-with-80-accuracy-3613565"
 webUrl: "https://www.ndtv.com/feature/researchers-in-israel-develop-ai-tool-that-can-predict-heart-failure-with-80-accuracy-3613565"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: NDTV

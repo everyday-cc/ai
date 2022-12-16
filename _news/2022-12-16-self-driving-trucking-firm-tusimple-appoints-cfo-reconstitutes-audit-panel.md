@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-16T14:07:00Z
 originalUrl: "https://money.usnews.com/investing/news/articles/2022-12-16/self-driving-trucking-firm-tusimple-appoints-cfo-reconstitutes-audit-panel"
 webUrl: "https://money.usnews.com/investing/news/articles/2022-12-16/self-driving-trucking-firm-tusimple-appoints-cfo-reconstitutes-audit-panel"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: U.S. News & World Report

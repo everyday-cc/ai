@@ -2,6 +2,300 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-12-07-self-driving-truck-startup-kodiak-robotics-wins-50-million-deal-to-help-develop-driverless-army-vehicles.md",
+      "title": "Self-driving truck startup Kodiak Robotics wins $50 million deal to help develop driverless Army vehicles",
+      "excerpt": "The company said it won a two-year, $49.9 million contract from the Defense Department to help develop automated combat vehicles for the U.S. Army. The vehicles will be tailored for reconnaissance ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/12/06/kodiak-wins-50m-deal-to-develop-driverless-army-vehicles.html",
+      "originalUrl": "https://www.cnbc.com/2022/12/06/kodiak-wins-50m-deal-to-develop-driverless-army-vehicles.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107136057-1666041195817-Kodiak-Ikea-Back-3.jpg?v=1670335201&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T10:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-pixel-7-update-adds-ai-powered-noise-reduction-to-incoming-phone-calls.md",
+      "title": "Pixel 7 update adds AI-powered noise reduction to incoming phone calls",
+      "excerpt": "Rolling out to Pixel phones now is Android 13 Quarterly Platform Release 1 (QPR1), which contains a few new features, 77 bug fixes named in a huge support post, 151 Pixel-specific security issues outlined in the December Security Bulletin for Pixels,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2022/12/pixel-7-update-adds-ai-powered-noise-reduction-to-incoming-phone-calls/",
+      "originalUrl": "https://arstechnica.com/gadgets/2022/12/pixel-7-update-adds-ai-powered-noise-reduction-to-incoming-phone-calls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/Pixel7-8-800x488.jpg",
+          "width": 800,
+          "height": 488,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2022/12/pixel-7-update-adds-ai-powered-noise-reduction-to-incoming-phone-calls/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2022/12/pixel-7-update-adds-ai-powered-noise-reduction-to-incoming-phone-calls/amp/",
+      "publishedDateTime": "2022-12-06T10:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-artificial-intelligence-is-everywhereeven-the-warehouse.md",
+      "title": "Artificial intelligence is everywhere—even the warehouse",
+      "excerpt": "Artificial intelligence (AI)-based technologies are just about everywhere these days, making electronic devices, equipment, and business processes more streamlined and, of course, smarter. As it is commonly understood, AI uses computers and machines to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dcvelocity.com/articles/56025-artificial-intelligence-is-everywhereeven-the-warehouse",
+      "originalUrl": "https://www.dcvelocity.com/articles/56025-artificial-intelligence-is-everywhereeven-the-warehouse",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dcvelocity.com/ext/resources/images/articles/2022/202212/DCV22_12_ai.jpg?height=635&t=1670302866&width=1200",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T10:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DC Velocity",
+        "domain": "dcvelocity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-gpu-prices-and-availability-december-2022-how-much-are-gpus-today.md",
+      "title": "GPU prices and availability (December 2022): How much are GPUs today?",
+      "excerpt": "The GPU shortage is over, and gamers around the world can breathe a sigh of relief. For those in the market for one of the best graphics cards, we closely looked at graphics card prices and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/gpu-price-tracking/",
+      "originalUrl": "https://www.digitaltrends.com/computing/gpu-price-tracking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/02/amd-radeon-rx-6500-xt-review-10.jpg?p=1",
+          "width": 1500,
+          "height": 1001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/gpu-price-tracking/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/gpu-price-tracking/?amp",
+      "publishedDateTime": "2022-12-06T10:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-a-conversation-with-kevin-scott-whats-next-in-ai.md",
+      "title": "A conversation with Kevin Scott: What’s next in AI",
+      "excerpt": "The post A conversation with Kevin Scott: What’s next in AI appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/",
+      "originalUrl": "https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blogs.microsoft.com/wp-content/uploads/prod/sites/3/2022/12/A-conversation-with-Kevin-Scott-social-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T09:29:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-ultra-processed-foods-linked-to-cognitive-decline-dementia-study.md",
+      "title": "Ultra-processed foods linked to cognitive decline, dementia: study",
+      "excerpt": "A new study published in JAMA Neurology on Monday found that people could be at a higher risk of cognitive decline if more than 20% of their daily caloric intake is ultra-processed foods.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2022/12/06/ultra-processed-foods-linked-to-cognitive-decline-dementia/",
+      "originalUrl": "https://nypost.com/2022/12/06/ultra-processed-foods-linked-to-cognitive-decline-dementia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/12/bad-food-comp.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2022/12/06/ultra-processed-foods-linked-to-cognitive-decline-dementia/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/12/06/ultra-processed-foods-linked-to-cognitive-decline-dementia/amp/",
+      "publishedDateTime": "2022-12-06T09:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-07-parascript-innovates-natural-language-processing-for-unstructured-document-automation.md",
       "title": "Parascript Innovates Natural Language Processing for Unstructured Document Automation",
       "excerpt": "LONGMONT, Colo., Dec. 6, 2022 /PRNewswire/ -- Natural Language Processing (NLP) has various use cases within cutting-edge technology, and Parascript, a software company based in Colorado ...",
@@ -845,302 +1139,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-the-top-5-healthcare-trends-in-2023.md",
-      "title": "The Top 5 Healthcare Trends In 2023",
-      "excerpt": "Healthcare never stands still, and new innovations, as well as external factors, are driving continuous change. Here we look at the five biggest healthcare trends in 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/12/06/the-top-5-healthcare-trends-in-2023/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/12/06/the-top-5-healthcare-trends-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/638ee3f77ab30981d50d997c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/12/06/the-top-5-healthcare-trends-in-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/12/06/the-top-5-healthcare-trends-in-2023/amp/",
-      "publishedDateTime": "2022-12-05T21:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-ai-text-generator-market-2023-is-flourishing-around-the-world-by-2026.md",
-      "title": "AI Text Generator Market 2023 Is Flourishing Around the World by 2026",
-      "excerpt": "Pre and Post Covid Report is Covered | Final Report will add the analysis of the impact of Russia-Ukraine War and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-text-generator-market-2023-is-flourishing-around-the-world-by-2026-2022-12-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-text-generator-market-2023-is-flourishing-around-the-world-by-2026-2022-12-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-05T20:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-bank-of-america-sees-ai-transforming-the-internet-over-the-next-five-yearstop-stocks-to-ride-trend.md",
-      "title": "Bank of America sees AI transforming the internet over the next five years—top stocks to ride trend",
-      "excerpt": "AI and machine learning will be a \"critical driver of all things Internet,\" Bank of America said in a note Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/12/06/bank-of-america-sees-ai-transforming-the-internet-over-the-next-five-yearstop-stocks-to-ride-trend.html",
-      "originalUrl": "https://www.cnbc.com/2022/12/06/bank-of-america-sees-ai-transforming-the-internet-over-the-next-five-yearstop-stocks-to-ride-trend.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107157151-1669394314402-gettyimages-1236198615-BPS01_Tablet_Apps_OC_5JPG.jpeg?v=1670304576&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-05T19:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-ai-for-the-board-game-diplomacy.md",
-      "title": "AI for the board game Diplomacy",
-      "excerpt": "Successful communication and cooperation have been crucial for helping societies advance throughout history. The closed environments of board games can serve as a sandbox for modelling and investigating interaction and communication – and we can learn a lot from playing them. In our recent paper, published",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/ai-for-the-board-game-diplomacy",
-      "originalUrl": "https://www.deepmind.com/blog/ai-for-the-board-game-diplomacy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/638e60318bb6c57c845551ec_eobNu4K3TohLGYbu5pn89kdLUWxXV5e67RaLVWVafh1b9gLgxw7mSPIcYx9ndcJENfSgBAQCdnEfgcYZhpO-4ye83MuKtftKL354Sv10-Dr5bOJFDw9DaxmGlT1Y-304E9seTmp_CeX1mYapEP1m5OIfs7wuE6mGSxb7IgLDATURCNYJh_HKOdmfZzDsKJY.png",
-          "width": 1600,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-global-robot-control-cabinet-market-size-and-market-scenario-2022-by-marketing-channel-distributors-customers-and-forecast-to-2028.md",
-      "title": "Global Robot Control Cabinet Market Size and Market Scenario 2022 by Marketing Channel, Distributors, Customers and Forecast to 2028",
-      "excerpt": "The Global “Robot Control Cabinet Market” research report give detailed expansion of the main growth drivers, market size estimates and forecasts. The report looks at current scenarios ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-robot-control-cabinet-market-size-and-market-scenario-2022-by-marketing-channel-distributors-customers-and-forecast-to-2028-2022-12-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-robot-control-cabinet-market-size-and-market-scenario-2022-by-marketing-channel-distributors-customers-and-forecast-to-2028-2022-12-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-too-much-sodium-not-enough-potassium-may-lead-to-cognitive-decline.md",
-      "title": "Too much sodium, not enough potassium may lead to cognitive decline",
-      "excerpt": "Share on Pinterest A recent study shows that consuming high levels of sodium is associated with cognitive decline while a diet high in potassium is linked to improved cognitive function.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medicalnewstoday.com/articles/too-much-sodium-not-enough-potassium-may-lead-to-cognitive-decline",
-      "originalUrl": "https://www.medicalnewstoday.com/articles/too-much-sodium-not-enough-potassium-may-lead-to-cognitive-decline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical News Today",
-        "domain": "medicalnewstoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -65,6 +65,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How Artificial Intelligence Can Enhance the Fintech Industry"
+    excerpt: "AI in FinTech has also had a similar impact with enhanced security and banking apps, making the finance industry more customer friendly. Artificial intelligence (AI) significantly impacts practically every part of our daily life,"
+    publishedDateTime: 2022-12-16T16:45:00Z
+    webUrl: "https://www.bbntimes.com/financial/how-artificial-intelligence-can-enhance-the-fintech-industry"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 39
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/How_AI_Can_Enhance_the_Fintech_Industry.png"
+        width: 1888
+        height: 1080
+        isCached: true
   - title: "Fintech stocks took hammering in 2022, but rebound coming: industry boss"
     excerpt: "Soaring interest rates tend to hurt growth stocks – and more specifically tech stocks – due to the discounted cash flow models used in their valuations. As a result, fintech, which is part of the broader tech space,"
     publishedDateTime: 2022-12-14T22:23:00Z

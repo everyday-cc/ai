@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-15T19:37:00Z
 originalUrl: "https://home.nzcity.co.nz/news/article.aspx?id=367704"
 webUrl: "https://home.nzcity.co.nz/news/article.aspx?id=367704"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: nzcity.co.nz

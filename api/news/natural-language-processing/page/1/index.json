@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-16-generative-ai-is-changing-everything-but-whats-left-when-the-hype-is-gone.md",
+      "title": "Generative AI is changing everything. But what’s left when the hype is gone?",
+      "excerpt": "They’d built a new version of OpenAI’s text-to-image model, DALL-E, an AI that converts short written descriptions into pictures: a fox painted by Van Gogh, perhaps, or a corgi made of pizza. Now they just had to figure out what to do with it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2022/12/16/1065005/generative-ai-revolution-art/",
+      "originalUrl": "https://www.technologyreview.com/2022/12/16/1065005/generative-ai-revolution-art/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/12/AI_Main_111622.jpg?w=1506",
+          "width": 1506,
+          "height": 1999,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2022/12/16/1065005/generative-ai-revolution-art/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/16/1065005/generative-ai-revolution-art/amp/",
+      "publishedDateTime": "2022-12-16T01:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-16-microsoft-brings-real-time-voice-translation-to-skype-check-details.md",
       "title": "Microsoft brings real-time voice translation to Skype: Check details",
       "excerpt": "Microsoft has launched real-time voice translation in Skype, which can now translate a person's voice in real-time using AI to make the translated voice sound similar to the original speaker.",
@@ -1360,49 +1403,6 @@
         "Machine Learning",
         "AI in Finance",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-11-28-research-trends-in-natural-language-processing-technology-for-content-production-assistance.md",
-      "title": "Research Trends in Natural Language Processing Technology for Content Production Assistance",
-      "excerpt": "Natural language processing, which is one of the fields of computer science, refers to the technology by which computers handle the languages that are written and spoken by people. In broadcast ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nhk.or.jp/strl/english/publica/bt/90/2.html",
-      "originalUrl": "https://www.nhk.or.jp/strl/english/publica/bt/90/2.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nhk.or.jp/strl/english/publica/bt/90/img/2_3.jpg",
-          "width": 720,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-27T15:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NHK",
-        "domain": "nhk.or.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

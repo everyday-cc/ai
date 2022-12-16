@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-10-31-exfo-plans-5g-center-of-excellence-in-montreal.md",
+      "title": "EXFO plans 5G Center of Excellence in Montreal",
+      "excerpt": "Freshly backed with federal development money, test and measurement solutions provider EXFO plans a 5G Center of Excellence in Montreal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rcrwireless.com/20221031/5g/exfo-plans-5g-center-of-excellence-in-montreal",
+      "originalUrl": "https://www.rcrwireless.com/20221031/5g/exfo-plans-5g-center-of-excellence-in-montreal",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-31T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RCR Wireless News",
+        "domain": "rcrwireless.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-31-how-responsible-ai-creates-measurable-roi.md",
       "title": "How responsible AI creates measurable ROI",
       "excerpt": "but focusing on developing an ecosystem of responsible AI might be the place to start, Singh said. This was also a key point throughout its Global Responsible AI Summit, held for the first time ever last week. Overwhelmingly, the event’s sessions ...",
@@ -1375,61 +1409,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-google-adds-a-no-code-computer-vision-platform-to-vertex-ai.md",
-      "title": "Google Adds A No-Code Computer Vision Platform To Vertex AI",
-      "excerpt": "Currently, in preview, Vertex AI Vision is an extension of AutoML Vision that can train models to perform image classification and object detection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2022/10/18/google-adds-a-no-code-computer-vision-platform-to-vertex-ai/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2022/10/18/google-adds-a-no-code-computer-vision-platform-to-vertex-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634f50b726f1d49169c9a291/0x0.jpg?format=jpg&width=1200",
-          "width": 1067,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2022/10/18/google-adds-a-no-code-computer-vision-platform-to-vertex-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2022/10/18/google-adds-a-no-code-computer-vision-platform-to-vertex-ai/amp/",
-      "publishedDateTime": "2022-10-18T18:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "Microsoft AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],

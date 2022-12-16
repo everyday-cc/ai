@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/this-just-in/axelera-ai-announces-metis-a
 webUrl: "https://www.datanami.com/this-just-in/axelera-ai-announces-metis-ai-platform/"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -20,15 +20,20 @@ topics:
   - AI Hardware
 
 related:
-  - title: "Axelera unveils AI acceleration platform"
-    excerpt: "Eindhoven-based Axelera AI has announced its Metis artificial-intelligence platform to accelerate computer vision processing at the edge. It encompasses the Metis AI processing unit (AIPU) chip and the Voyager SDK software stack."
-    publishedDateTime: 2022-12-15T10:03:00Z
-    webUrl: "https://bits-chips.nl/artikel/axelera-unveils-ai-acceleration-platform/"
+  - title: "Canvs AI Announces Translation for Canvs MRX Text Insights Platform"
+    excerpt: "As Canvs has become a more and more indispensable part of our customers’ research processes, support for multi-language text analysis has been one of the most-requested features,” said Canvs Founder & CEO Jared Feldman."
+    publishedDateTime: 2022-12-16T15:07:00Z
+    webUrl: "https://www.marketingdive.com/press-release/20221215-canvs-ai-announces-translation-for-canvs-mrx-text-insights-platform/"
     type: article
     provider:
-      name: Bits&Chips
-      domain: bits-chips.nl
-    quality: 19
+      name: Marketing Dive
+      domain: marketingdive.com
+    quality: 39
+    images:
+      - url: "http://res.cloudinary.com/dmgi9movl/image/upload/v1671196897/press_release/assets/header_images/Translation_for_Canvs_MRX_-_Press_Release_Header_1500_700_px_pnk0hi.png"
+        width: 1500
+        height: 700
+        isCached: true
 
 secured: "xeFDtGE35/DzNFIcFhsnTcqiHUW6hSyMbLw56AUeHDQyim0GunSZ6feEcMmq81KbABV3ffDfu0x+Igfb5eAQw8Fy9GO7T1Hwz72l/8WhS3vE5s8UsG2BvcqWDWAZZnGPX20+imLr+3ePFjzbptZfwOfeeetlescZeQyNWCydQCRY5X+Q9KUVJELitnPxXhMdqBcr4ZI+s6M9YlI/RmZoEyIi8D9tl/FsdXgb9FkMk0eUIs6MrvzWt1sPK+lRJXOiB7MoQ9//EMqWBAOnVxXBObFXVe/EtJjKVkPGe/4tUBmzY8m7vwBDwnlpTINimKg0miHjoecom6UREP0Tk1dSUpefdRMWWzM7wsblOifXOyo=;n6YUmVCheraJdvklCJ57GQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://bits-chips.nl/artikel/axelera-unveils-ai-acceleration-plat
 webUrl: "https://bits-chips.nl/artikel/axelera-unveils-ai-acceleration-platform/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Axelera AI Announces Metis AI Platform"
-    excerpt: "European artificial intelligence startup Axelera AI announced today its Metis AI Platform, encompassing the Metis"
-    publishedDateTime: 2022-12-15T15:38:00Z
-    webUrl: "https://www.datanami.com/this-just-in/axelera-ai-announces-metis-ai-platform/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 21
 
 secured: "pEB/fCIXGkKGtzzYn1esFL7uk94WTvEcnEdlQta1yz/nOXZZUT7IK0CJUWEfmrvWA8/7Bn6a4k8jk+Wu0m/Sq0uKcAJKlGgQdklwdy/KDkGARYU3cfeWMiiQIALyLlNjD2ArkoeVI4u7vgvQzy0EaN8EKrvcsIEinfeLoB91pL7MlPOkZjK684YpO3rTeJ/E98xYhOLA0QZAmqkWfer0LzqTFJVrGp1ARXkr5C4RNL2LFdWu11b8bGcBtfORi+CV20DfO+kPEr0tcqDgYwTFCOHgJOfHpdBQ69R1Y0hcoARGJS2dUJJg1R6+lfhexnwvhK2Z3gqg6Y8O/pMjGCcus0WQoSO2tdmBp5KUFwXkuOX+Nq5kK7FyxvyuULE8Z3uTvw2yz+g+huscDSzKQ5uOy/uvTd/uPBHuGRCsBRt/2R0w6HI0wSOslYtBfexMn4csbP/6Pnea7YnaWdqKot1B83ZhbZ7HOHxq/V4SLQu1sEThfEHlApfZYhjHWn9S7p9teP06ynw3aQbxWMZyN9wFkw==;h0zv3OLTd4aZOp17Jw7klQ=="
 ---

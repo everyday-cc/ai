@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/world-news/us-blacklists-chinas-chipmaker-firm-
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/us-blacklists-chinas-chipmaker-firm-ymtc-crackdowns-on-ai-chip-sector-3610429/amp/1"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -46,13 +46,13 @@ related:
   - title: "Biden administration puts China's YMTC on blacklist, turns focus on AI chip industry"
     excerpt: "Over 20 other significant names in China's artificial intelligence chip sector have been put on a US trade blacklist amid a crackdown."
     publishedDateTime: 2022-12-15T23:23:00Z
-    webUrl: "https://www.wcpo.com/news/national/biden-administration-puts-chinas-ymtc-on-blacklist-turns-focus-on-ai-chip-industry"
-    ampWebUrl: "https://www.wcpo.com/news/national/biden-administration-puts-chinas-ymtc-on-blacklist-turns-focus-on-ai-chip-industry?_amp=true"
-    cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/biden-administration-puts-chinas-ymtc-on-blacklist-turns-focus-on-ai-chip-industry?_amp=true"
+    webUrl: "https://www.fox13now.com/news/national/biden-administration-puts-chinas-ymtc-on-blacklist-turns-focus-on-ai-chip-industry"
+    ampWebUrl: "https://www.fox13now.com/news/national/biden-administration-puts-chinas-ymtc-on-blacklist-turns-focus-on-ai-chip-industry?_amp=true"
+    cdnAmpWebUrl: "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national/biden-administration-puts-chinas-ymtc-on-blacklist-turns-focus-on-ai-chip-industry?_amp=true"
     type: article
     provider:
-      name: WCPO Cincinnati
-      domain: wcpo.com
+      name: fox13now
+      domain: fox13now.com
     quality: 67
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/c1e58b5/2147483647/strip/true/crop/1000x563+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F89%2Fe0%2F630feb764f5d9ebd982116324d09%2Fap21021747656668.jpg"
@@ -73,6 +73,15 @@ related:
         width: 1202
         height: 800
         isCached: true
+  - title: "Tech war: Washington takes another swipe at China’s tech ambitions by adding key chip and AI firms to trade blacklist"
+    excerpt: "It is becoming increasingly doubtful that China will be able to make semiconductor breakthroughs without access to US technologies."
+    publishedDateTime: 2022-12-16T14:30:00Z
+    webUrl: "https://www.scmp.com/tech/tech-war/article/3203631/tech-war-washington-takes-another-swipe-chinas-tech-ambitions-adding-key-chip-and-ai-firms-trade"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 41
   - title: "US government to blacklist China's YMTC, crackdown on AI chip sector"
     excerpt: "YMTC, long in the crosshairs of the US government, will be added to the list over fears it could divert US technology to previously blacklisted Chinese tech giants Huawei and Hikvision. The move will ba The 21 Chinese AI chip entities being added to the trade blacklist,"
     publishedDateTime: 2022-12-15T14:44:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/science-technology/is-ai-a-risk-to-cr
 webUrl: "https://www.entrepreneur.com/science-technology/is-ai-a-risk-to-creativity-the-answer-is-not-so-simple/439525"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Entrepreneur
@@ -27,6 +27,17 @@ images:
     width: 2000
     height: 1333
     isCached: true
+
+related:
+  - title: "3 Limits to Artificial Intelligence's Creativity (and How to Solve Them)"
+    excerpt: "Among other things, 2022 will likely be remembered as the year artificial intelligence took a giant leap forward in the creative field. From the A.I. image-generation application Dall-E, to the customized writing tool ChatGPT,"
+    publishedDateTime: 2022-12-16T16:25:00Z
+    webUrl: "https://www.inc.com/ben-sherry/3-limits-to-artificial-intelligences-creativity-and-how-to-solve-them.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 20
 
 secured: "jyXXjmGcnXs0R/ZHfwSt3jaygCgljdAVB0EmOjRrNLEoPXg8AJvOXEfXkOpxkFoS7ninIBGOPdjLfCXt9O60cj/Vw1YgpcNVFXg2gWMa3ak/W8TSOQE4wtbZ+cItyjH3/TWTTaz57nUU7urMcoF7id2Aw1uoYt2kuxu6k2AmNfmZJSgWtgapUyYO3aAqYZXhEUa7KZAQlhyJ1OxPwL120Ee4rjgcutz04Zrae67NRwfyY2GWILbR2oL3x5cMMD8LBTeDUDkRgm/B4C+5xKSKbLsEk1HUPqYgVa5+/Xbj3G/2R9w/Uwkbfh1UN6mpcxni7I0Cu6k8x2c0j9bnfwF87xHmF2KOCqtVZaaHXNi0VFBAVSuFNLTX4dXBGbTwPUYrJ2tw9Mc4qpUYIJUs9hKeNdDX/su5mvSYasggCRLT1dhzygdLpXki4p3LNiPUbLWHoSAzwGphNQO6b9ZEQ5GbbzyEIPUWFN7AL9tKX6H9W85NSWa+m+5UeVSCUwaH2mU8sRFlWumgHFBPbPxkzzYSEw==;CJQ+19yN1hKgkvhEMNPfpA=="
 ---

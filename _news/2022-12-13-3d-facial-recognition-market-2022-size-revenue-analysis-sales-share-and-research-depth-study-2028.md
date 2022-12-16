@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-ma
 webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-2022-12-12"
 type: article
 quality: 71
-heat: 181
+heat: 191
 published: true
 
 provider:
@@ -174,6 +174,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 15
+  - title: "Voice Recognition Market 2023 Size | Share, Forecasts Analysis, Company Profiles, Competitive Landscape and Key Regions 2028 | Top Countries Data"
+    excerpt: "The Voice Recognition market report provides an overall assessment of the market for the forecast period. The report"
+    publishedDateTime: 2022-12-16T10:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2023-size-share-forecasts-analysis-company-profiles-competitive-landscape-and-key-regions-2028-top-countries-data-2022-12-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 0
 
 secured: "htQPhVyTkiA82Np5i4amcbOtNtIDAFc52ySMUbOILqzKPed6VcoTd5W/Qqbp/L76gVIu2DeGzgLwSIzEf/7fkjYWj8YzaYfNz0oXMoEFF9O46EFcCZJrMIjf4dIDDP5RLFSrrQhqxnxTPNBo6Uu9FuXR+3q7mO1Phy6Iyil/cjP3H7A9SiAMzdz9KFov7s4leNGbP81QDLyPotXo3abSgP6ohHItkCJmgFUuxv5X1RZR9HyAI59FyrKw/EviazV7jUGV9fNvZ6le5ufSAPp9JeEEJ9UalRJA7l2CEy9Q7p71mNnXxTBNOL60HDYU7WilaIAoMWxw8lKiQRziWOGZjtpCCXNZFd+OZBzmF8JhR8E=;vvVRr53Jx46FO9FtaV+Vwg=="
 ---

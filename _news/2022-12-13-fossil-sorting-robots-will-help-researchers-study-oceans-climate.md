@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Fossil-sorting robots will help researchers study oceans, climate"
-    excerpt: "Researchers have developed and demonstrated a robot capable of sorting, manipulating, and identifying microscopic marine fossils. The new technology automates a tedious process that plays a key role in advancing our understanding of the world’s oceans and climate – both today and in the prehistoric past."
-    publishedDateTime: 2022-12-12T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/974091"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/b1e5e33a-52cd-40ad-b228-7d64889012bb/Rendition/low-res/Content/Public"
-        width: 700
-        height: 468
-        isCached: true
   - title: "Fossil-sorting robots could advance ocean studies"
     excerpt: "Researchers in the US have developed a robot that can reportedly sort, manipulate and identify microscopic marine fossils."
     publishedDateTime: 2022-12-13T12:03:00Z

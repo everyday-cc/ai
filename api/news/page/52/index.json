@@ -2,6 +2,307 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2022-11-01-argoai-shuts-down-what-will-happen-to-its-lidar-unit.md",
+      "title": "Argo.ai Shuts Down - What Will Happen To Its LiDAR Unit?",
+      "excerpt": "Argo announced that it would shut down operations on October 25, 2022, impacting ~2100 employees in the United States and Germany. Coincidentally, they acquired New Jersey based Princeton Lightwave for their LIDAR capabilities exactly 5 years ago.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sabbirrangwala/2022/10/31/argoai-shuts-downwhat-will-happen-to-its-lidar-unit/",
+      "originalUrl": "https://www.forbes.com/sites/sabbirrangwala/2022/10/31/argoai-shuts-downwhat-will-happen-to-its-lidar-unit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/635f0460106f8f455f046fef/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 809,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sabbirrangwala/2022/10/31/argoai-shuts-downwhat-will-happen-to-its-lidar-unit/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sabbirrangwala/2022/10/31/argoai-shuts-downwhat-will-happen-to-its-lidar-unit/amp/",
+      "publishedDateTime": "2022-10-31T15:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-01-replits-ghostwriter-ai-can-explain-programs-to-youor-help-write-them.md",
+      "title": "Replit’s Ghostwriter AI can explain programs to you—or help write them",
+      "excerpt": "According to Replit, Ghostwriter works by using a large language model trained on millions of lines of publicly available code. This baked-in data allows Ghostwriter to make suggestions based on what you've already typed while programming in Replit's IDE.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/10/replits-ghostwriter-ai-can-explain-programs-to-you-or-help-write-them/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/10/replits-ghostwriter-ai-can-explain-programs-to-you-or-help-write-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/ghostwriter_hero-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2022/10/replits-ghostwriter-ai-can-explain-programs-to-you-or-help-write-them/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/10/replits-ghostwriter-ai-can-explain-programs-to-you-or-help-write-them/amp/",
+      "publishedDateTime": "2022-10-31T14:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-01-university-at-buffalos-robot-dog-contributes-to-ai-research.md",
+      "title": "University at Buffalo's Robot Dog Contributes to AI Research",
+      "excerpt": "A yellow quadrupedal robot nicknamed Yubie, branded Spot the Agile Mobile Robot, is wandering around campus helping researchers study robotics, computer science, artificial intelligence and other high-tech fields.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/higher-ed/university-at-buffalos-robot-dog-contributes-to-ai-research",
+      "originalUrl": "https://www.govtech.com/education/higher-ed/university-at-buffalos-robot-dog-contributes-to-ai-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/3d04f07/2147483647/strip/true/crop/1000x521+0+72/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F37%2F94%2F85761bbc4a8e928c7748a81f7fd6%2Fspot.png",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/higher-ed/university-at-buffalos-robot-dog-contributes-to-ai-research?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/university-at-buffalos-robot-dog-contributes-to-ai-research?_amp=true",
+      "publishedDateTime": "2022-10-31T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-11-01-self-driving-truck-company-tusimple-fires-ceo-amid-federal-probes.md",
+      "title": "Self-driving truck company TuSimple fires CEO amid federal probes",
+      "excerpt": "TuSimple Holdings Inc., a self-driving trucking company, said Monday it had fired its chief executive and co-founder, Xiaodi Hou.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/self-driving-truck-company-tusimple-fires-ceo-amid-federal-probes-11667249015?mod=emerging-markets",
+      "originalUrl": "https://www.marketwatch.com/story/self-driving-truck-company-tusimple-fires-ceo-amid-federal-probes-11667249015?mod=emerging-markets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-655659/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-31T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-01-robot-truck-developer-tusimple-ousts-ceo-after-report-of-ties-to-chinese-startup.md",
+      "title": "Robot Truck Developer TuSimple Ousts CEO After Report Of Ties To Chinese Startup",
+      "excerpt": "Last week, Ford and Volkswagen decided to stop funding Argo AI, a promising autonomous tech company that had raised more than $3 billion after determining that it would be too many years before ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alanohnsman/2022/10/31/robot-truck-developer-tusimple-ousts-ceo-after-report-of-ties-to-chinese-startup/",
+      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2022/10/31/robot-truck-developer-tusimple-ousts-ceo-after-report-of-ties-to-chinese-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/615e1b93298aca27c94429b4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-31T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-01-digital-assets-marketplace-creative-fabrica-launches-generative-ai-tool.md",
+      "title": "Digital assets marketplace Creative Fabrica launches generative AI tool",
+      "excerpt": "Like other digital assets on the platform, users can put up their generative AI files for paid use by other members, which Creative Fabrica says makes it the first generative AI that also allows creators to make money.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/31/digital-assets-marketplace-creative-fabrica-launches-generative-ai-tool/",
+      "originalUrl": "https://techcrunch.com/2022/10/31/digital-assets-marketplace-creative-fabrica-launches-generative-ai-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/Spark-preview.jpeg?resize=1200,720",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/31/digital-assets-marketplace-creative-fabrica-launches-generative-ai-tool/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/31/digital-assets-marketplace-creative-fabrica-launches-generative-ai-tool/amp/",
+      "publishedDateTime": "2022-10-31T13:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-01-building-more-responsible-ai.md",
       "title": "Building more responsible AI",
       "excerpt": "Dr. Nashlie Sephus, Tech Evangelist, tells us how it’s done The implementation of fair, responsible, and accurate AI is a top management priority for most companies, a recent report by BCG and MIT’s Sloan School has found.",
@@ -865,272 +1166,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-onemeta-ai-stock-soars-after-its-verbum-translation-app-shows-dominant-performance-at-iacsdg-conference-onei.md",
-      "title": "OneMeta AI Stock Soars After Its Verbum Translation App Shows Dominant Performance At IACSDG Conference ($ONEI)",
-      "excerpt": "OneMeta AI ONEI stock soared by over 120% last week to $1.30 after new attention was brought to its AI-empowered Verbum language translation app. And with only about 2.35 million shares ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/ab29475051/onemeta-ai-stock-soars-after-its-verbum-translation-app-shows-dominant-performance-at-iacsdg-conf",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/ab29475051/onemeta-ai-stock-soars-after-its-verbum-translation-app-shows-dominant-performance-at-iacsdg-conf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1666894655.png",
-          "width": 1222,
-          "height": 1091,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29475051",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29475051",
-      "publishedDateTime": "2022-10-31T02:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-todays-news-in-10-minutes.md",
-      "title": "Today’s news in 10 minutes",
-      "excerpt": "Click here to access the printable version of today’s CNN 10 transcript CNN 10 serves a growing audience interested in compact on-demand news broadcasts ideal for explanation seekers on the go or in the classroom.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/10/30/cnn10/ten-content-mon/index.html",
-      "originalUrl": "https://www.cnn.com/2022/10/30/cnn10/ten-content-mon/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221030210210-ten-1031origb-00061919-super-tease.png",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/10/30/cnn10/ten-content-mon/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/30/cnn10/ten-content-mon/index.html",
-      "publishedDateTime": "2022-10-30T18:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-ai-and-human-contact-make-large-workforce-wellbeing-possible.md",
-      "title": "AI and human contact make large workforce wellbeing possible",
-      "excerpt": "Through SCG, a full-service consultancy providing expertise, resources, training, well-being diagnostic tools, and a combination of human and AI technology, employers can identify and resolve well ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.stuff.co.nz/business/better-business/130209975/ai-and-human-contact-make-large-workforce-wellbeing-possible",
-      "originalUrl": "https://www.stuff.co.nz/business/better-business/130209975/ai-and-human-contact-make-large-workforce-wellbeing-possible",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resources.stuff.co.nz/content/dam/images/2/5/i/u/q/u/image.related.StuffLandscapeSixteenByNine.1420x800.25iunr.png/1666131759532.jpg",
-          "width": 1416,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-30T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stuff.co.nz",
-        "domain": "stuff.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-history-of-ai-in-33-breakthroughs-the-first-thinking-machine.md",
-      "title": "History Of AI In 33 Breakthroughs: The First ‘Thinking Machine’",
-      "excerpt": "Catalan poet and theologian Ramon Llull perfected in 1308 his method of using paper-based mechanical means to create new knowledge from combinations of concepts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2022/10/30/history-of-ai-in-33-breakthroughs-the-first-thinking-machine/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2022/10/30/history-of-ai-in-33-breakthroughs-the-first-thinking-machine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/635eef10995a5ba1a8046ff3/0x0.jpg?format=jpg&crop=2200,1238,x0,y138,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2022/10/30/history-of-ai-in-33-breakthroughs-the-first-thinking-machine/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/10/30/history-of-ai-in-33-breakthroughs-the-first-thinking-machine/amp/",
-      "publishedDateTime": "2022-10-30T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-azure-cosmos-db-low-latency-and-high-availability-at-planet-scale.md",
-      "title": "Azure Cosmos DB: Low Latency and High Availability at Planet Scale",
-      "excerpt": "Mei-Chin Tsai and Vinod Sridharan spoke at QCon San Francisco on Azure Cosmos DB: Low Latency and High Availability at Planet Scale. The talk was part of the \"Architectures You've Always Wondered About\" track. After introductions, Tsai started the talk by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/10/azure-cosmos-database-service/",
-      "originalUrl": "https://www.infoq.com/news/2022/10/azure-cosmos-database-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-30T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-microsoft-introduces-azure-savings-plans-for-compute.md",
-      "title": "Microsoft Introduces Azure Savings Plans for Compute",
-      "excerpt": "Microsoft recently announced Azure Savings Plans for Compute, providing customers with an easy and flexible way to save significantly on compute services compared to pay-as-you-go prices by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/10/azure-savings-plan-compute/",
-      "originalUrl": "https://www.infoq.com/news/2022/10/azure-savings-plan-compute/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.infoq.com/statics_s2_20221108063122/styles/static/images/logo/logo-big.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-30T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

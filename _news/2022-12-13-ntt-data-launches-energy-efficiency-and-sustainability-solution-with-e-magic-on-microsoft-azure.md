@@ -133,6 +133,15 @@ related:
         width: 1028
         height: 768
         isCached: true
+  - title: "AI in Fashion Market – Major Technology Giants in Buzz Again : Microsoft, Facebook, Google"
+    excerpt: "The latest study released on the Global AI in Fashion Market by AMA Research evaluates market size, trend, and forecast to 2027. The AI in Fashion market study covers significant research data and proofs to be a handy resource document for managers,"
+    publishedDateTime: 2022-12-16T15:18:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/sbwire-2022-12-16-ai-in-fashion-market-major-technology-giants-in-buzz-again-microsoft-facebook-google"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 26
 
 secured: "gFJwui++Aq7FfcG1olHoVgao8yneunuu8RHLM/nGtrrMDJrhWqQKkG8coF5seCjLtwWPInwlPrR+nY4LVhYjzCO2ic16ZrvJcJXsFgPGvCj7fBRE84EvS+todhYwZFiMjfSHcv9fdeLBeE8Sz/TlC9cIJiR7ooLLmBUIKuAxXvKmyFvibv86s9tbc1YGaBbNV52cJgbUMFF0YR1tSIOUFIQaVxM12qJymGwz6INIvMpNCL7414QcLiGATtxBA2LZ93P1DizSUpiViDak+d2ERKmAt8zWbz0GkIHjIeNV1WP5WCDGc6mHRzI0hRM73q/+GzBRB403plNm64EHUB+EvwDTfrcADUmYWSFUYQYMSR0=;gqU7sfRtCnlNSPVFdLNkUQ=="
 ---

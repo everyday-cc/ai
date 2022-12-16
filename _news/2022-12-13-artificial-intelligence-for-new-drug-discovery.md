@@ -18,20 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "Nigeria: Artificial Intelligence for New Drug Discovery"
-    excerpt: "Artificial intelligence helps to make pharmaceutical research and new drug discovery less expensive and more productive, argues Julius Adelusi-Adeluyi."
-    publishedDateTime: 2022-12-12T04:51:00Z
-    webUrl: "https://allafrica.com/stories/202212120014.html"
+  - title: "Everlaw Wins Industry Awards for Groundbreaking AI in its Ediscovery Platform"
+    excerpt: "Company Achieves Top Industry Rankings at G2 and IDCOAKLAND, Calif., Dec. 16, 2022 /PRNewswire/ -- Everlaw, the cloud-native investigation and"
+    publishedDateTime: 2022-12-16T14:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/everlaw-wins-industry-awards-for-groundbreaking-ai-in-its-ediscovery-platform-1031977386"
     type: article
     provider:
-      name: AllAfrica.com
-      domain: allafrica.com
-    quality: 37
-    images:
-      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
-        width: 664
-        height: 664
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
 
 secured: "lDsHuan3B2AHCy/G+nDQDTH+E+e/ue0D0ROAF9pEcvI6zv+E5uNvI5yTLexVxk2br+u/FZCqF7GeHWh0z0OidXXT/82wGwMowroYl/uITyqwHitgrGNbl4V8bmizh8g+9hGc+QZwUbf6f6vQTanKuIsfFwJCVHozEWQ4sX5sYNmYWsZFTiWkPvz6QFHbnga5OPtZMJcGhPZEFcrHFJW3vUsU5OMrFQA5s0L3Ny1AERTFNL7XuOqcop1p7qaf5JNE9YzbzGfJVO3lBSEQVXkAXSyxpn7/iytEN7mmCPwIjLCVJsqAiDAFBL0luT/IjE0UsEq8CkhjyPngcVrG0MC9Qgv/TmnnYw6RWW3SlkFTOJw=;XpuST4Hca1rZkvVcCP4CTg=="
 ---

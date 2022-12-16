@@ -2,6 +2,283 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2022-10-01-google-pixel-7-and-pro-might-support-secure-face-unlock.md",
+      "title": "Google Pixel 7 and Pro might support secure Face Unlock",
+      "excerpt": "Reports in April hinted that Google is working on face recognition support for its Pixel phones despite ditching its Face ID-like technology. Google introduced its version of 3D face recognition ...",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/tech/google-pixel-7-and-pro-might-support-secure-face-unlock/",
+      "originalUrl": "https://bgr.com/tech/google-pixel-7-and-pro-might-support-secure-face-unlock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2022/05/Pixel-7-and-Pixel-7-Pro.jpg?quality=82&strip=all",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bgr.com/tech/google-pixel-7-and-pro-might-support-secure-face-unlock/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/google-pixel-7-and-pro-might-support-secure-face-unlock/amp/",
+      "publishedDateTime": "2022-09-30T16:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-celebrate-over-20-years-of-aiml-at-innovation-day.md",
+      "title": "Celebrate over 20 years of AI/ML at Innovation Day",
+      "excerpt": "Be our guest as we celebrate 20 years of AI/ML innovation on October 25, 2022, 9:00 AM – 10:30 AM PT. &nbsp;The first 1,500 people to register will receive $50 of AWS credits. Register here. Over the past 20 years, Amazon has delivered many world firsts for artificial intelligence (AI) and machine learning",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/celebrate-over-20-years-of-ai-ml-at-innovation-day/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/celebrate-over-20-years-of-ai-ml-at-innovation-day/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/30/celebrate-ai-ml-innovation.jpg",
+          "width": 1533,
+          "height": 764,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-30T16:23:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-10-01-putins-satanism-speech-compared-to-rhetoric-from-maga-republicans.md",
+      "title": "Putin's 'Satanism' Speech Compared to Rhetoric From MAGA Republicans",
+      "excerpt": "Russian President Vladimir Putin accused the West of \"Satanism\" and bemoaned that \"there are supposedly genders besides women and men\" on Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/putins-satanism-speech-compared-rhetoric-maga-republicans-1748094",
+      "originalUrl": "https://www.newsweek.com/putins-satanism-speech-compared-rhetoric-maga-republicans-1748094",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2126488/vladmir-putin-satanism-republicans-maga-trump-rhetoric.jpg",
+          "width": 1939,
+          "height": 1342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/putins-satanism-speech-compared-rhetoric-maga-republicans-1748094?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/putins-satanism-speech-compared-rhetoric-maga-republicans-1748094?amp=1",
+      "publishedDateTime": "2022-09-30T15:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-01-this-robot-ran-a-world-record-but-its-trainer-says-its-not-dangerous-yet.md",
+      "title": "This robot ran a world record — but its trainer says it's 'not dangerous yet'",
+      "excerpt": "Cassie first made a name for itself in 2021 by completing a 5K on campus with a time of 53 minutes. After months of training, the machine has now set a Guinness World Record for the fastest 100 metre dash by a bipedal robot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbc.ca/radio/asithappens/this-robot-ran-a-world-record-but-its-trainer-says-it-s-not-dangerous-yet-1.6600931",
+      "originalUrl": "https://www.cbc.ca/radio/asithappens/this-robot-ran-a-world-record-but-its-trainer-says-it-s-not-dangerous-yet-1.6600931",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.cbc.ca/1.6601376.1664575671!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/robot-running.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbc.ca/amp/1.6600931",
+      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6600931",
+      "publishedDateTime": "2022-09-30T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-01-microsofts-latest-ai-tool-can-predict-missed-doctors-appointments.md",
+      "title": "Microsoft’s Latest AI Tool Can Predict Missed Doctor’s Appointments",
+      "excerpt": "This piece is exactly what Microsoft’s latest artificial intelligence (AI) tool is trying to address: reducing missed healthcare appointments. Merav Davidson,  Vice President of Industry AI, wrote in the  Industry Blogs: “The annual cost of missed appointments in the healthcare industry is more than $150 billion in the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai-tool-can-predict-missed-doctors-appointments/",
+      "originalUrl": "https://www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai-tool-can-predict-missed-doctors-appointments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63376ab52f11fec9fc57e042/0x0.jpg?format=jpg&crop=3083,1735,x0,y577,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai-tool-can-predict-missed-doctors-appointments/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai-tool-can-predict-missed-doctors-appointments/amp/",
+      "publishedDateTime": "2022-09-30T15:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-01-bruce-willis-has-no-deal-with-company-that-created-his-digital-twin-rep.md",
+      "title": "Bruce Willis has no deal with company that created his 'digital twin': rep",
+      "excerpt": "Bruce Willis has retired from making movies since his aphasia diagnosis, but he may continue to be an action star. How? Well, technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/bruce-willis-may-still-appear-190942819.html",
+      "originalUrl": "https://www.aol.com/bruce-willis-may-still-appear-190942819.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-30T15:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-01-intels-self-driving-car-division-mobileye-files-for-ipo.md",
       "title": "Intel's self-driving car division Mobileye files for IPO",
       "excerpt": "Mobileye, an Intel-owned company that makes key processors for self-driving cars, has filed for an IPO, according to an SEC filing on Friday. The move to list Mobileye on the Nasdaq is part of ...",
@@ -904,302 +1181,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-alphasoc-announces-industry-first-cloud-native-network-traffic-analysis-product-to-identify-compromised-workloads-across-popular-cloud-platforms.md",
-      "title": "AlphaSOC Announces Industry-First Cloud-Native Network Traffic Analysis Product to Identify Compromised Workloads Across Popular Cloud Platforms",
-      "excerpt": "AlphaSOC, Inc., the Security Analytics Company, today announced its new AlphaSOC Analytics Engine (AE) solution, a differentiated cloud-native network traffic analysis (NTA) product that uniquely identifies compromised workloads across Amazon Web Services,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/09/30/9684060.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/09/30/9684060.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
-          "width": 476,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-30T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-10-top-artificial-intelligence-ai-applications-in-healthcare.md",
-      "title": "10 top artificial intelligence (AI) applications in healthcare",
-      "excerpt": "As AI continues to be applied across the healthcare spectrum — from administration to patient interaction and medical research, diagnosis and treatment — here's how it's making an impact.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/",
-      "originalUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/07/Zebra-Medical-FDA-approval-AI-heart-disease.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/amp/",
-      "publishedDateTime": "2022-09-30T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing",
-        "AI in Robotics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-facial-recognition-market-2022-business-overview-new-trends-growth-analysis-and-forecast-to-2030.md",
-      "title": "Facial Recognition Market 2022 | Business Overview, New Trends, Growth Analysis, And Forecast To 2030",
-      "excerpt": "Key Companies Covered in the Facial Recognition Market Research are International Business Machines Corporation (IBM), Aware, Inc., 3M, NEC Corporation, Cognitec Systems GmbH, Daon Crossmatch, Nuance Communications Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-2022-business-overview-new-trends-growth-analysis-and-forecast-to-2030-2022-09-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-2022-business-overview-new-trends-growth-analysis-and-forecast-to-2030-2022-09-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-30T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-how-to-effectively-use-the-computing-power-of-gpu-lets-check-cloudia-exchange.md",
-      "title": "How to Effectively Use the Computing Power of GPU? Let's Check Cloudia Exchange!",
-      "excerpt": "When we look at IT market, we see that, high computing power is the need of the hour. Cloudia Exchange is a new project that connects people who have GPU resources with projects that need those resources.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/how-to-effectively-use-the-computing-power-of-gpu-lets-check-cloudia-exchange-2022-09-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/how-to-effectively-use-the-computing-power-of-gpu-lets-check-cloudia-exchange-2022-09-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-30T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-anyone-can-now-use-powerful-ai-tools-to-make-images-what-could-possibly-go-wrong.md",
-      "title": "Anyone can now use powerful AI tools to make images. What could possibly go wrong?",
-      "excerpt": "If you've ever wanted to use artificial intelligence to quickly design a hybrid between a duck and a corgi, now is your time to shine.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2022/09/30/tech/image-generating-ai-publicly-available",
-      "originalUrl": "https://edition.cnn.com/2022/09/30/tech/image-generating-ai-publicly-available",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220928180903-03-dall-e-ai-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/09/30/tech/image-generating-ai-publicly-available/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/30/tech/image-generating-ai-publicly-available/index.html",
-      "publishedDateTime": "2022-09-30T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-micron-latest-in-japan-chip-crosshairs.md",
-      "title": "Micron latest in Japan chip crosshairs",
-      "excerpt": "Japan offered a massive subsidy to Micron Technology, the country's latest move to bolster domestic semiconductor production.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/micron-latest-in-japan-chip-crosshairs/",
-      "originalUrl": "https://www.mobileworldlive.com/featured-content/top-three/micron-latest-in-japan-chip-crosshairs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mobileworldlive.com/wp-content/uploads/2020/09/Micron_Technology.jpg",
-          "width": 600,
-          "height": 376,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/top-three/micron-latest-in-japan-chip-crosshairs/amp/",
-      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/micron-latest-in-japan-chip-crosshairs/amp/",
-      "publishedDateTime": "2022-09-30T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile World Live",
-        "domain": "mobileworldlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

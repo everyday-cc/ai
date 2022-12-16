@@ -59,20 +59,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Did a Robot Write This? We Need Watermarks to Spot AI"
-    excerpt: "The better the AI gets, the harder it will be to distinguish between human and machine-made text. OpenAI needs to prioritize its efforts to label the work of machines or we could soon be overwhelmed with a confusing mishmash of real and fake information online."
-    publishedDateTime: 2022-12-12T00:00:00Z
-    webUrl: "https://www.washingtonpost.com/business/did-a-robot-write-this-we-need-watermarks-to-spotai/2022/12/12/067c6206-79e3-11ed-bb97-f47d47466b9a_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 54
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
 
 secured: "hEODnvTLgv6yoZ1ywhSt+Hu+2vxohqHgrn7P7C05Li3FRstZo7qwuHhyzzWp4nmFo2Q5/I4JxT4U5e0N/wHwYQDZTjF8dcAgWJ6PCuAV8AIg/M/zSP3I2sznOsIwgb+uqdxcnYWlXA7fnGzDPd/mFgXEkAWS2ymWRCzzMCuA7n0ulhMeen0mhfurUAoIJHy6wP5fR5bnjyjh4CvS7PkXegzaY8E+AdG/iozi6e5U7eGrymNmEzHfwj62rZnH/2lYl7q8NCahneY/FsV1ayTy9asfSDhPysLIKSudXXehyt4KplJbz1rW0YOv9O0leh/o8kRAdfRO2Y2+rUnppPloufsuIdVGi8FTQFq3V/4xIH8HjVUZe6tEslEKAMUZV67DfY+CyflnihEOKBQdqxLgekpN9Ipw0+27LmzsZcIxuUL7SQDLdVOvrtMf3T/wiwzeFFpcC9Gi0OxIg2nfdw9OpTtFyI5i18t9+UXzTws1ZtmOqVxVpXs0pfk5L4TeldMO5dT8TarSCOTk/cOZCSR3rw==;1kOQk9mbIjnoJX6Hdbvsow=="
 ---

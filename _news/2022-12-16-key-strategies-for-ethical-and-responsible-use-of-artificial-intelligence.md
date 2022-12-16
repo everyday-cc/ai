@@ -8,8 +8,8 @@ webUrl: "https://enterprisetalk.com/featured/key-strategies-for-ethical-and-resp
 ampWebUrl: "https://enterprisetalk.com/featured/key-strategies-for-ethical-and-responsible-use-of-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/key-strategies-for-ethical-and-responsible-use-of-artificial-intelligence/amp/"
 type: article
-quality: 73
-heat: 83
+quality: 77
+heat: 87
 published: true
 
 provider:

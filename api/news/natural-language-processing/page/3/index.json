@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-15-new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words.md",
+      "title": "New speech recognition tech uses facial movements to transcribe mouthed words",
+      "excerpt": "However, it might also be helpful to the military or police in situations where radio transmission is challenging due to background noise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/articleshow/95514922.cms",
+      "originalUrl": "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/articleshow/95514922.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-95514922,imgsize-7988,width-800/95514922.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/amp_articleshow/95514922.cms",
+      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/new-speech-recognition-tech-uses-facial-movements-to-transcribe-mouthed-words/amp_articleshow/95514922.cms",
+      "publishedDateTime": "2022-11-14T09:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gadgets Now",
+        "domain": "gadgetsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-14-cerebras-unveils-andromeda-a-135-million-core-ai-supercomputer-that-delivers-near-perfect-linear-scaling-for-large-language-models.md",
       "title": "Cerebras Unveils Andromeda, a 13.5 Million Core AI Supercomputer that Delivers Near-Perfect Linear Scaling for Large Language Models",
       "excerpt": "Cerebras Systems, the pioneer in accelerating artificial intelligence (AI) compute, today unveiled Andromeda, a 13.5 million core AI supercomputer, now available and being used for commercial and academic work.",
@@ -1384,58 +1427,6 @@
         "IBM AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-perceptron-ai-saving-whales-steadying-gaits-and-banishing-traffic.md",
-      "title": "Perceptron: AI saving whales, steadying gaits and banishing traffic",
-      "excerpt": "In this edition of TechCrunch's Perceptron column, we look at efforts to track Parkinson's progression, stop whale-boat collisions, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/25/perceptron-ai-saving-whales-steadying-gaits-and-banishing-traffic/",
-      "originalUrl": "https://techcrunch.com/2022/10/25/perceptron-ai-saving-whales-steadying-gaits-and-banishing-traffic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/MIT-Monitoring-Parkinsons-01-PRESS.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/25/perceptron-ai-saving-whales-steadying-gaits-and-banishing-traffic/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/25/perceptron-ai-saving-whales-steadying-gaits-and-banishing-traffic/amp/",
-      "publishedDateTime": "2022-10-25T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

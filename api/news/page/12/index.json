@@ -2,6 +2,272 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-12-05-artificial-intelligence-in-healthcare-market-to-hit-usd-70-billion-by-2032-says-global-market-insights-inc.md",
+      "title": "Artificial Intelligence In Healthcare Market To Hit USD 70 Billion By 2032, Says Global Market Insights Inc.",
+      "excerpt": "With the rise in clinical research associated with disease development and diagnosis, the application potential of artificial intelligence in healthcare will further expand globally. Despite these ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105268620/Artificial-Intelligence-In-Healthcare-Market-To-Hit-USD-70-Billion-By-2032-Says-Global-Market-Insights-Inc",
+      "originalUrl": "https://menafn.com/1105268620/Artificial-Intelligence-In-Healthcare-Market-To-Hit-USD-70-Billion-By-2032-Says-Global-Market-Insights-Inc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?241302",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T07:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-05-the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence.md",
+      "title": "The Future Is Now: Transforming PCB Manufacturing Using Artificial Intelligence",
+      "excerpt": "Manufacturers are exploring ways to increase the efficiencies by which essential electronic components are produced.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62a797a880eca7dbef9036cc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/05/the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-12-05T05:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-05-ncsoft-leads-ai-powered-ethical-management.md",
+      "title": "NCSoft leads AI-powered ethical management",
+      "excerpt": "NCSoft, a local video game developer, is accelerating efforts to establish ethical management of artificial intelligence (AI) data, a principle defined by privacy, unbiasedness and transparency, the firm said Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://koreatimes.co.kr/www/nation/2022/12/419_340853.html",
+      "originalUrl": "https://koreatimes.co.kr/www/nation/2022/12/419_340853.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202211/7220eb5952ec45e790b30602b134566e.jpg",
+          "width": 980,
+          "height": 703,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=340853",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=340853",
+      "publishedDateTime": "2022-12-05T04:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Times",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-05-top-six-trends-and-recommendations-for-ai-and-ml-in-2023.md",
+      "title": "Top Six Trends (And Recommendations) For AI And ML In 2023",
+      "excerpt": "Manasi Vartak is founder and CEO of Verta, a Palo Alto-based provider of solutions for Operational AI and ML Model Management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/top-six-trends-and-recommendations-for-ai-and-ml-in-2023/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/top-six-trends-and-recommendations-for-ai-and-ml-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-12-05-world-cup-2022-can-you-outguess-our-ai-predictor-robot.md",
+      "title": "World Cup 2022: Can you outguess our AI predictor robot?",
+      "excerpt": "Al Jazeera’s AI robot has made up for a shaky start and has correctly predicted the outcome of all four knockout games.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aljazeera.com/sports/2022/12/5/who-is-going-to-reach-the-quarter-finals-of-world-cup-2022",
+      "originalUrl": "https://www.aljazeera.com/sports/2022/12/5/who-is-going-to-reach-the-quarter-finals-of-world-cup-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aljazeera.com/wp-content/uploads/2022/12/INTERACTIVE-Kashef-prediction-scorecard-December-5.jpg?resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.aljazeera.com/amp/sports/2022/12/5/who-is-going-to-reach-the-quarter-finals-of-world-cup-2022",
+      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/sports/2022/12/5/who-is-going-to-reach-the-quarter-finals-of-world-cup-2022",
+      "publishedDateTime": "2022-12-05T03:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Jazeera English",
+        "domain": "aljazeera.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-05-digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports.md",
+      "title": "DigiYatra: Facial recognition technology is now available at these Indian airports",
+      "excerpt": "With the assistance of a facial recognition software known as \"DigiYatra,\" you will be able to sail through the process of flying, which will now be paperless and contactless.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/news/new-updates/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports/articleshow/96000093.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/news/new-updates/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports/articleshow/96000093.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-53688,msid-96000068/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/news/new-updates/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports/amp_articleshow/96000093.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/new-updates/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports/amp_articleshow/96000093.cms",
+      "publishedDateTime": "2022-12-05T01:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-05-medical-studies-get-tech-edge-with-ai-machine-learning-remote-care.md",
       "title": "Medical studies get tech edge with AI, machine learning, remote care",
       "excerpt": "New-age technologies like Artificial Intelligence (AI) and Machine Learning (ML) have taken diagnosis, treatment, post-operative care, remote patient care and palliative care to a whole new level. Exp",
@@ -870,300 +1136,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-03-nvidia-and-amd-gpu-prices-could-skyrocket-again-in-2023-heres-why.md",
-      "title": "Nvidia and AMD GPU prices could skyrocket again in 2023. Here’s why",
-      "excerpt": "That could hurt badly, especially since, after several years of rapidly increasing GPU prices and limited availability, graphics cards supplies have somewhat stabilized, along with prices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/nvidia-amd-gpu-prices-could-skyrocket-in-2023/",
-      "originalUrl": "https://www.digitaltrends.com/computing/nvidia-amd-gpu-prices-could-skyrocket-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2021/08/best-1080p-gpu-featured.jpg?p=1",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/nvidia-amd-gpu-prices-could-skyrocket-in-2023/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/nvidia-amd-gpu-prices-could-skyrocket-in-2023/?amp",
-      "publishedDateTime": "2022-12-02T15:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-03-apple-slices-its-ai-image-synthesis-times-in-half-with-new-stable-diffusion-fix.md",
-      "title": "Apple slices its AI image synthesis times in half with new Stable Diffusion fix",
-      "excerpt": "On Wednesday, Apple released optimizations that allow the Stable Diffusion AI image generator to run on Apple Silicon ... SD optimizations can generate a 512×512 50-step image on an M1 chip in 35 seconds. An M2 does the task in 23 seconds, and Apple's ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/12/apple-slices-its-ai-image-synthesis-times-in-half-with-new-stable-diffusion-fix/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/12/apple-slices-its-ai-image-synthesis-times-in-half-with-new-stable-diffusion-fix/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/apple_stable_diffusion_hero_1-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2022/12/apple-slices-its-ai-image-synthesis-times-in-half-with-new-stable-diffusion-fix/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/12/apple-slices-its-ai-image-synthesis-times-in-half-with-new-stable-diffusion-fix/amp/",
-      "publishedDateTime": "2022-12-02T14:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-03-how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent.md",
-      "title": "How BMW Group has embraced AI for positive use cases and to improve sustainability | AWS re:Invent",
-      "excerpt": "Among the most exciting use cases is for fully autonomous vehicles, but that’s not the only area where AI is having an impact. For example, Microsoft and Mercedes-Benz are working together to improve automobile production efficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent/",
-      "originalUrl": "https://venturebeat.com/ai/how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/12/VB_BMW_AWS_reinvent_120223.png?w=1200&strip=all",
-          "width": 837,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-bmw-group-has-embraced-ai-for-positive-use-cases-and-to-improve-sustainability-aws-reinvent/amp/",
-      "publishedDateTime": "2022-12-02T14:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-03-ai-art-generator-dreamup-illustrates-the-collision-between-artistic-consent-and-ai-datasets.md",
-      "title": "AI art generator DreamUp illustrates the collision between artistic consent and AI datasets",
-      "excerpt": "Should it be an issue that countless data points of artwork are used to train AI that spits out art in under a minute?",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-art-generator-dreamup-illustrates-the-collision-between-artistic-consent-and-ai-datasets/",
-      "originalUrl": "https://www.zdnet.com/article/ai-art-generator-dreamup-illustrates-the-collision-between-artistic-consent-and-ai-datasets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/8c387c6a4b16c7635ba9109a41651949dd2173a4/2022/12/02/7bbadddd-18f8-4d59-b938-767f92783867/dreamup.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-art-generator-dreamup-illustrates-the-collision-between-artistic-consent-and-ai-datasets/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-art-generator-dreamup-illustrates-the-collision-between-artistic-consent-and-ai-datasets/",
-      "publishedDateTime": "2022-12-02T13:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-03-this-new-artificial-intelligence-can-help-you-lie.md",
-      "title": "This New Artificial Intelligence Can Help You Lie",
-      "excerpt": "The artificial intelligence research company, OpenAI, recently released ChatGPT, an enormously capable AI system that can communicate with people using natural language. ChatGPT can answer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/the-nature-deception/202212/new-artificial-intelligence-can-help-you-lie",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-nature-deception/202212/new-artificial-intelligence-can-help-you-lie",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-12/gerd_altman.jpg?itok=GbKDRrBY",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-nature-deception/202212/new-artificial-intelligence-can-help-you-lie?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-nature-deception/202212/new-artificial-intelligence-can-help-you-lie?amp",
-      "publishedDateTime": "2022-12-02T13:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-03-perrone-robotics-forms-new-partnership-to-create-autonomous-driverless-transit-van.md",
-      "title": "Perrone Robotics forms new partnership to create autonomous, driverless transit van",
-      "excerpt": "Our autonomy kit, or our AV kit that we call ‘Tony’ - short for To Navigate You - that we integrate into these different forms of vehicle that bring this driverless capability into these ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbc29.com/2022/12/02/perrone-robotics-forms-new-partnership-create-autonomous-driverless-transit-van/",
-      "originalUrl": "https://www.nbc29.com/2022/12/02/perrone-robotics-forms-new-partnership-create-autonomous-driverless-transit-van/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wvir-prod.cdn.arcpublishing.com/resizer/HivFCV0Qs27gE6gNKv8dq15DzgA=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/YSABTKTZLZDQFGOY547MEJGAIM.bmp",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbc29.com/2022/12/02/perrone-robotics-forms-new-partnership-create-autonomous-driverless-transit-van/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-nbc29-com.cdn.ampproject.org/c/s/www.nbc29.com/2022/12/02/perrone-robotics-forms-new-partnership-create-autonomous-driverless-transit-van/?outputType=amp",
-      "publishedDateTime": "2022-12-02T12:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC29",
-        "domain": "nbc29.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

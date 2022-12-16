@@ -29,7 +29,7 @@ related:
     provider:
       name: enterprisetalk
       domain: enterprisetalk.com
-    quality: 73
+    quality: 77
     images:
       - url: "https://enterprisetalk.com/wp-content/uploads/2022/12/Key-Strategies-for-Ethical-and-Responsible-Use-of-Artificial-Intelligence.jpg"
         width: 700

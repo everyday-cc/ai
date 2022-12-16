@@ -2,6 +2,245 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-12-09-how-to-send-your-face-back-in-time-with-myheritages-ai-time-machine.md",
+      "title": "How to Send Your Face Back in Time With MyHeritage's 'AI Time Machine'",
+      "excerpt": "It's introduced other intriguing features including Deep Nostalgia, which animates pictures of people to make it look like they're moving, and LiveStory, which takes that a step further and animates a person's face and mouth so it looks like they're telling their life story.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/culture/internet/how-to-send-your-face-back-in-time-with-myheritages-ai-time-machine/",
+      "originalUrl": "https://www.cnet.com/culture/internet/how-to-send-your-face-back-in-time-with-myheritages-ai-time-machine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/2ad5b78d37feb2659b458818b35723610c99cbb5/hub/2022/12/01/325e1577-8baf-4e71-800d-544c302a1674/screen-shot-2022-12-01-at-1-06-14-pm.png?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/how-to-send-your-face-back-in-time-with-myheritages-ai-time-machine/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-to-send-your-face-back-in-time-with-myheritages-ai-time-machine/",
+      "publishedDateTime": "2022-12-08T13:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-pixyle-ai-wants-to-make-visual-search-more-intuitive-for-online-retailers.md",
+      "title": "Pixyle AI wants to make visual search more intuitive for online retailers",
+      "excerpt": "When Svetlana Kordumova was studying for her doctorate in AI and computer vision, she grew frustrated by the process of looking for items to buy online. Search results were often inaccurate, and she knew the tech she was learning could improve the experience.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/12/07/pixyle-ai/",
+      "originalUrl": "https://techcrunch.com/2022/12/07/pixyle-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/12/Pixyle-AI-product-data-enrichment.png?resize=1200,685",
+          "width": 1200,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/12/07/pixyle-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/07/pixyle-ai/amp/",
+      "publishedDateTime": "2022-12-08T12:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-brain-plasticity-study-oxytocin-drives-development-of-neural-connections-in-adult-born-neurons.md",
+      "title": "Brain plasticity study: Oxytocin drives development of neural connections in adult-born neurons",
+      "excerpt": "The researchers discovered that the levels of oxytocin increase in the olfactory bulb, peaking at the time the new neurons incorporate themselves into neural networks. Using viral labeling ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-12-brain-plasticity-oxytocin-neural-adult-born.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-12-brain-plasticity-oxytocin-neural-adult-born.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/4-brain.jpg",
+          "width": 1920,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-12-brain-plasticity-oxytocin-neural-adult-born.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-brain-plasticity-oxytocin-neural-adult-born.amp",
+      "publishedDateTime": "2022-12-08T12:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-the-tsa-plans-to-take-facial-recognition-technology-nationwide.md",
+      "title": "The TSA plans to take facial recognition technology nationwide",
+      "excerpt": "The Transportation Security Administration has been testing facial recognition technology as an option for travelers at select U.S. airports for years, touting it as a way to speed up identity ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/politics/tsa-plans-take-facial-recognition-technology-nationwide",
+      "originalUrl": "https://www.foxbusiness.com/politics/tsa-plans-take-facial-recognition-technology-nationwide",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2022/09/Airport.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/politics/tsa-plans-take-facial-recognition-technology-nationwide.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/tsa-plans-take-facial-recognition-technology-nationwide.amp",
+      "publishedDateTime": "2022-12-08T11:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-the-ai-revolution-is-closer-than-you-think.md",
+      "title": "The AI Revolution Is Closer Than You Think",
+      "excerpt": "Two recent developments show how rapidly AI creative tools are becoming a practical alternative to human creators.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rogerdooley/2022/12/08/the-ai-revolution-is-closer-than-you-think/",
+      "originalUrl": "https://www.forbes.com/sites/rogerdooley/2022/12/08/the-ai-revolution-is-closer-than-you-think/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63924c996966143e208a1359/0x0.jpg?format=jpg&crop=680,383,x0,y0,safe&width=1200",
+          "width": 680,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rogerdooley/2022/12/08/the-ai-revolution-is-closer-than-you-think/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogerdooley/2022/12/08/the-ai-revolution-is-closer-than-you-think/amp/",
+      "publishedDateTime": "2022-12-08T11:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-09-how-to-control-windows-11-with-your-voice.md",
       "title": "How to control Windows 11 with your voice",
       "excerpt": "With voice access in Windows 11, you can navigate the screen, issue commands, and dictate text by talking. Here's what you need to know.",
@@ -351,9 +590,9 @@
       "tags": null,
       "images": [
         {
-          "url": "https://i0.wp.com/www.ksn.com/wp-content/uploads/sites/13/2022/12/Untitled-design-98.jpg?w=2000&#038;ssl=1",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://i0.wp.com/www.ksn.com/wp-content/uploads/sites/13/2022/12/Deland-2-1.jpg?w=2000&#038;ssl=1",
+          "width": 561,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -950,255 +1189,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-ai-finally-gives-everyone-a-voice-whether-we-like-it-or-not.md",
-      "title": "AI Finally Gives Everyone A Voice... Whether We Like It Or Not!",
-      "excerpt": "Surveys and focus groups have replaced the ancient forum as a way of gathering perspectives of large number of people but each have their limitations. AI, however, offers new ways of accurately and fairly taking into account many peoples perspectives,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/paulxmccarthy/2022/12/08/ai-finally-gives-everyone-a-voice-whether-we-like-it-or-not/",
-      "originalUrl": "https://www.forbes.com/sites/paulxmccarthy/2022/12/08/ai-finally-gives-everyone-a-voice-whether-we-like-it-or-not/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63917c89344e25a4a18465da/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paulxmccarthy/2022/12/08/ai-finally-gives-everyone-a-voice-whether-we-like-it-or-not/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulxmccarthy/2022/12/08/ai-finally-gives-everyone-a-voice-whether-we-like-it-or-not/amp/",
-      "publishedDateTime": "2022-12-07T22:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-ai-bot-that-can-do-schoolwork-could-blow-up-us-education-system-with-youngest-at-most-risk-former-teacher.md",
-      "title": "AI bot that can do schoolwork could 'blow up' US education system, with youngest at most risk: former teacher",
-      "excerpt": "Former English teacher, Peter Laffin, predicts OpenAI's new artificial intelligence chatbot will lead to a learning crisis and force teachers to rethink education.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/ai-bot-schoolwork-blow-up-us-education-system-youngest-risk-former-teacher",
-      "originalUrl": "https://www.foxnews.com/tech/ai-bot-schoolwork-blow-up-us-education-system-youngest-risk-former-teacher",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/662f3a8f-1516-43b5-98c7-b9924736eabe/47d6a37b-6ac0-4b19-bdec-d070de9ec558/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/ai-bot-schoolwork-blow-up-us-education-system-youngest-risk-former-teacher.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-bot-schoolwork-blow-up-us-education-system-youngest-risk-former-teacher.amp",
-      "publishedDateTime": "2022-12-07T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-how-pixyle-ai-is-helping-shoppers-find-exactly-what-they-want.md",
-      "title": "How Pixyle AI Is Helping Shoppers Find Exactly What They Want",
-      "excerpt": "Svetlana Kordumova, the founder of Pixyle AI, which is today announcing a €1 million seed funding round, was struck by a frustrating irony. Studying for a PhD in artificial intelligence and computer vision at the University of Amsterdam,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidprosser/2022/12/08/how-pixyle-ai-is-helping-shoppers-find-exactly-what-they-want/",
-      "originalUrl": "https://www.forbes.com/sites/davidprosser/2022/12/08/how-pixyle-ai-is-helping-shoppers-find-exactly-what-they-want/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6390fee7b203b78ec58465da/0x0.jpg?format=jpg&crop=1800,844,x0,y354,safe&width=1200",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2022/12/08/how-pixyle-ai-is-helping-shoppers-find-exactly-what-they-want/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2022/12/08/how-pixyle-ai-is-helping-shoppers-find-exactly-what-they-want/amp/",
-      "publishedDateTime": "2022-12-07T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-chinas-iqiyi-bets-big-on-artificial-intelligence-to-help-pandemic-hit-production-sector.md",
-      "title": "China’s iQiyi Bets Big on Artificial Intelligence to Help Pandemic-Hit Production Sector",
-      "excerpt": "China-owned streamer iQiyi has been ramping up its use of artificial intelligence across productions as a result of the lasting impact of the pandemic. Kelvin Yau, head of southeast Asia for iQiyi ...",
-      "sourceUrl": null,
-      "webUrl": "https://variety.com/2022/digital/asia/iqiyi-artifical-intelligence-ai-production-1235453756/",
-      "originalUrl": "https://variety.com/2022/digital/asia/iqiyi-artifical-intelligence-ai-production-1235453756/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://variety.com/wp-content/uploads/2019/02/iqiyi-hq-frater-res.jpg?w=1000&h=563&crop=1",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://variety.com/2022/digital/asia/iqiyi-artifical-intelligence-ai-production-1235453756/amp/",
-      "cdnAmpWebUrl": "https://variety-com.cdn.ampproject.org/c/s/variety.com/2022/digital/asia/iqiyi-artifical-intelligence-ai-production-1235453756/amp/",
-      "publishedDateTime": "2022-12-07T20:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Variety",
-        "domain": "variety.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-uber-launching-self-driving-cars-in-las-vegas.md",
-      "title": "Uber launching self-driving cars in Las Vegas",
-      "excerpt": "The robocars, made by driverless technology company Motional, are sent with two “vehicle operators” behind the wheel to monitor the technology and provide added support to riders. Uber said it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/12/07/tech/uber-motional-self-driving-vegas/index.html",
-      "originalUrl": "https://www.cnn.com/2022/12/07/tech/uber-motional-self-driving-vegas/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221207085819-01-uber-robotaxi-las-vegas-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/12/07/tech/uber-motional-self-driving-vegas/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/12/07/tech/uber-motional-self-driving-vegas/index.html",
-      "publishedDateTime": "2022-12-07T18:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

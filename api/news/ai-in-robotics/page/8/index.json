@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-10-13-3-unexpected-industries-robots-will-improve.md",
+      "title": "3 Unexpected Industries Robots Will Improve",
+      "excerpt": "Robots may be taking over the world, but in the best way possible. Robotic technology is sparking innovation in several industries, including three you might not have considered.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/serenitygibbons/2022/10/13/3-unexpected-industries-robots-will-improve/",
+      "originalUrl": "https://www.forbes.com/sites/serenitygibbons/2022/10/13/3-unexpected-industries-robots-will-improve/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63472a6e8eddcc8f23de06ad/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/serenitygibbons/2022/10/13/3-unexpected-industries-robots-will-improve/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/serenitygibbons/2022/10/13/3-unexpected-industries-robots-will-improve/amp/",
+      "publishedDateTime": "2022-10-13T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-13-ai-the-ai-times-gatik-and-loblaw-give-canadians-driverless-deliveries.md",
       "title": "A|I: The AI Times – Gatik and Loblaw give Canadians driverless deliveries",
       "excerpt": "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe.",
@@ -1337,60 +1389,6 @@
       "topics": [
         "AI",
         "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-artificial-intelligence-ai-in-fintech-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028.md",
-      "title": "Artificial Intelligence (AI) in Fintech Market landscape, Top Competitor Analysis, Revenue, Sales With Forecast Data from 2022 to 2028",
-      "excerpt": "The \" Artificial Intelligence (AI) in Fintech Market \" is expected to observe the highest growth rate (CAGR Rate) for the forecasted duration between 2022 to 2028. The market research report provides a detailed overview of geography expansion,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-10-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-10-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-06T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Sales",
         "AI in Robotics"
       ]
     }

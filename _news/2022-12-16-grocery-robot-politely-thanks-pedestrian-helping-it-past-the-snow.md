@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-16T13:00:00Z
 originalUrl: "https://metro.co.uk/2022/12/16/grocery-robot-politely-thanks-pedestrian-helping-it-past-the-snow-17951160/"
 webUrl: "https://metro.co.uk/2022/12/16/grocery-robot-politely-thanks-pedestrian-helping-it-past-the-snow-17951160/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Metro

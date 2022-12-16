@@ -134,6 +134,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 37
+  - title: "AI in Fashion Market – Major Technology Giants in Buzz Again : Microsoft, Facebook, Google"
+    excerpt: "The latest study released on the Global AI in Fashion Market by AMA Research evaluates market size, trend, and forecast to 2027. The AI in Fashion market study covers significant research data and proofs to be a handy resource document for managers,"
+    publishedDateTime: 2022-12-16T15:18:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/sbwire-2022-12-16-ai-in-fashion-market-major-technology-giants-in-buzz-again-microsoft-facebook-google"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 26
 
 secured: "uoNonoFPEV4KLi1R0K5uci7tlwD+FoYkpDGM39M2DHepojh7gcKMTU+5eglWur2swa7gjS4zRTQe+w0ihBSo+yWHCN5Xkf4utJ4ylEvkQ+lYijcsEaWFYjeN5uS+nQv+GM9tnt0RO0REVqY/eFv1eZP6auCBRPui3id7c5KyziSI76lSG4fTamdnNCTDst5YoFnNzpVpHcKwOqb9dkdrDrNK4lNIeYp9eiWO+d94HP9f1SkoPhR2t+OOlXFkYKipNw3OZWcMMv4nZysOI4qqqiO5vobgbM96G2qID5t3t0zOuwcvZsyaROQKT39V0t1eVaY8/DQ55VwBAerJOJXRwMNbVe3VO+pngmP/W6sErJ0=;gwakRWx2OSkU13mBVVaBOQ=="
 ---

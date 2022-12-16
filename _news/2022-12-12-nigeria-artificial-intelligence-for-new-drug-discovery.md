@@ -23,17 +23,6 @@ images:
     height: 664
     isCached: true
 
-related:
-  - title: "Artificial Intelligence For New Drug Discovery"
-    excerpt: "The world is making rapid progress in the areas of Big Data, Artificial Intelligence and Machine Learning. These are the core drivers of what many analysts"
-    publishedDateTime: 2022-12-13T14:38:00Z
-    webUrl: "https://leadership.ng/artificial-intelligence-for-new-drug-discovery/"
-    type: article
-    provider:
-      name: LEADERSHIP Newspaper
-      domain: leadership.ng
-    quality: 17
-
 secured: "sC762GURi/hInA7swmJKFO9mpTxKHpTaLwkZN9m69ARMrjtvHTgHwz5wJXadCVg79oCpBBS9F5IS40pIYT8OJcHOtGQQPoSMcuSLBd9XIRxSy7p6pow4se5zY5cPeNJrxg7vVQRj+7ZPH9/NawNd8GrxKd4qX1nogzg9ftv7UPgHoDLEXnhDYd7EfHmu7zgZd5U1BBrzZWXLpHKVGKnLFVbdafzgHXH4FpG46IvCZTb8eMXsFrzNEzcw5OKE759eC531NffiodrBNWaRCFiqROw31/s1dCwz0GFv6cZlhNf53WDhFZ5s7OZJttIrkw0S8id1OY37QgocwBLfQNKJ7eRPsC5fRvm3zB/hUuv5vhY=;fm3wtpHLANv0N9UEYVJbjQ=="
 ---
 
