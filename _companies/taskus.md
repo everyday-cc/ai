@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "taskus"
   url: "https://twitter.com/taskus"
-  followers: 5000
+  followers: 5002
 
 size: 10,001+ employees
 yearFounded: 2008
