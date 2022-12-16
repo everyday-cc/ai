@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Microsoft plans to buy stake in and partner with London Stock Exchange"
-excerpt: "The U.K. exchange will spend at least $2.8 billion on cloud services from the tech giant over the next decade."
-publishedDateTime: 2022-12-12T23:00:00Z
-originalUrl: "https://www.americanbanker.com/news/microsoft-plans-to-buy-stake-in-and-partner-with-london-stock-exchange"
-webUrl: "https://www.americanbanker.com/news/microsoft-plans-to-buy-stake-in-and-partner-with-london-stock-exchange"
+title: "Skype gets real-time voice translation feature, here’s how it works"
+excerpt: "Real-time translations with natural voice will be coming to group video calls and Telephony in the next months."
+publishedDateTime: 2022-12-16T09:35:00Z
+originalUrl: "https://www.dnaindia.com/technology/report-skype-gets-real-time-voice-translation-feature-here-s-how-it-works-3011096"
+webUrl: "https://www.dnaindia.com/technology/report-skype-gets-real-time-voice-translation-feature-here-s-how-it-works-3011096"
+ampWebUrl: "https://www.dnaindia.com/technology/report-skype-gets-real-time-voice-translation-feature-here-s-how-it-works-3011096/amp"
+cdnAmpWebUrl: "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/technology/report-skype-gets-real-time-voice-translation-feature-here-s-how-it-works-3011096/amp"
 type: article
-quality: 39
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: American Banker
-  domain: americanbanker.com
+  name: DNA India
+  domain: dnaindia.com
 
 topics:
-  - Microsoft AI
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://arizent.brightspotcdn.com/dims4/default/c98ee1d/2147483647/strip/true/crop/900x473+0+64/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Ff2%2Fe3%2Fd6598c534bb19e51a6d9e43a456c%2F390276691.jpg"
-    width: 1200
-    height: 630
+  - url: "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2022/12/16/2560989-skype.png"
+    width: 640
+    height: 360
     isCached: true
 
 related:
@@ -55,21 +57,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Skype gets real-time voice translation feature, here’s how it works"
-    excerpt: "Real-time translations with natural voice will be coming to group video calls and Telephony in the next months."
-    publishedDateTime: 2022-12-16T09:35:00Z
-    webUrl: "https://www.dnaindia.com/technology/report-skype-gets-real-time-voice-translation-feature-here-s-how-it-works-3011096"
-    ampWebUrl: "https://www.dnaindia.com/technology/report-skype-gets-real-time-voice-translation-feature-here-s-how-it-works-3011096/amp"
-    cdnAmpWebUrl: "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/technology/report-skype-gets-real-time-voice-translation-feature-here-s-how-it-works-3011096/amp"
+  - title: "Microsoft plans to buy stake in and partner with London Stock Exchange"
+    excerpt: "The U.K. exchange will spend at least $2.8 billion on cloud services from the tech giant over the next decade."
+    publishedDateTime: 2022-12-12T23:00:00Z
+    webUrl: "https://www.americanbanker.com/news/microsoft-plans-to-buy-stake-in-and-partner-with-london-stock-exchange"
     type: article
     provider:
-      name: DNA India
-      domain: dnaindia.com
-    quality: 44
+      name: American Banker
+      domain: americanbanker.com
+    quality: 39
     images:
-      - url: "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2022/12/16/2560989-skype.png"
-        width: 640
-        height: 360
+      - url: "https://arizent.brightspotcdn.com/dims4/default/c98ee1d/2147483647/strip/true/crop/900x473+0+64/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Ff2%2Fe3%2Fd6598c534bb19e51a6d9e43a456c%2F390276691.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "KULR’s CellCheck Battery Monitoring System Launches on Microsoft’s Azure Cloud Computing Service"
     excerpt: "Built on Azure Cloud, the Modular Battery Management System Platform Leverages Azure Cloud's Advanced AI Functionality to Collect and Analyze Data From all KULR products"
@@ -90,6 +90,6 @@ related:
       domain: proactiveinvestors.com
     quality: 19
 
-secured: "hlefYci0t32YSJSp4qYePDLO2okEExugwE1AGLQazZ88C8jk28RbHxM1XVEQfvHO5DtZIVxOZ7UH0iLLr3K0LvOjn442hTz6ACDTrOPBiRaCXCzGKVdE+a/+Nqr0vJb6VCGicon9U85ooMxCqXvepyInzfP8629LJcuDNEcl45hegiWVFlYu8bsfiX6Q/I9nvkq84veBU6poPA7zDQt1HjdDxCNghw8UqHztHY+0OrkTJI8uaiXTkTr4fpNh/FtkJIzGbMvZL4A+OEgwtVF6zdcg1qEsTBJJuFKLoF0ItgcXWmbgy1EL423LaqjM/qZRD38XuSl2eRVqjxGL16XUsLgXPfhPM5SVKeazSU5/Ivu9NSSXMur+Uhh+Kz9MWdmPiLy+DrVdHz5Z0fv/RegotaIAMqIDZuDW/gnphP6TYE3Pz4p6X/H3pET6f7d2pUKVsUcQW4Fe/a2YsdGP0shhP2UfJdalFGYLP9LXOf3T1AOsacKArULOPnzwi/GgFs1RE1OvJNWna20K7Gm3qxPbFw==;11jpjbIEX3ncAFOX4wjFyA=="
+secured: "boqwPiOmJGJpS+xTejEuDUlJtKFuBZ44Be3h5HKv8BHVRkdc0DmPLusOX1wQQuGfQXH7Gi2T6uaL7Ygk6ILfMnl24nfVGKE9hZ+iS56kbSOnd4zM7GbS/I6U/+dtt6lu0wGv9B0AJLn/hgcq/rJr3xfX8fXk9ZsShUxP8JEXEozKRN/EnzJLCzC8OfnS/QPnV1m8+TaPzAN7k2lXFl4PhGL/aO0BaX5tmmGdfUFywVsmVIxX3yWiGYXFZsUWH+YthU4wHT7yhhsFYLmfpjRLGgx3yT/WwTKkTXEZ7e66ut2BgGZuvYLBwB5kue3kljq7i9pEDndcV01I4SNt1WTNXTbTDLBtwkNeJmv50tMrOFo=;6J8WUllh5xUoWNT5bXqvlA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/chatgpt-why-everyone-is-obsesse
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/chatgpt-why-everyone-is-obsessed-this-mind-blowing-ai-chatbot/"
 type: article
 quality: 89
-heat: 239
+heat: 249
 published: true
 
 provider:
@@ -170,6 +170,20 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/break.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "ChatGPT got all the buzz, but beneath it is a $1B developer framework that's quietly fueling the new era of lifelike AI at OpenAI and beyond"
+    excerpt: "The Ray developer framework is used by OpenAI, Amazon, and more to solve one of AI's biggest pain points and make AI tools like ChatGPT possible."
+    publishedDateTime: 2022-12-16T10:00:00Z
+    webUrl: "https://www.businessinsider.com/openai-chatgpt-trained-on-anyscale-ray-generative-lifelike-ai-models-2022-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+    images:
+      - url: "https://i.insider.com/639a263b27c0a700193e267a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "We asked ChatGPT, A Groundbreaking AI Bot, Whether President Ramaphosa Should Resign?"
     excerpt: "ChatGPT, created by a company called OpenAi, is the viral AI tool that is immensely powerful and useful in many ways."

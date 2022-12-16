@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Skype gets real-time voice translation feature, here’s how it works"
+    excerpt: "Real-time translations with natural voice will be coming to group video calls and Telephony in the next months."
+    publishedDateTime: 2022-12-16T09:35:00Z
+    webUrl: "https://www.dnaindia.com/technology/report-skype-gets-real-time-voice-translation-feature-here-s-how-it-works-3011096"
+    ampWebUrl: "https://www.dnaindia.com/technology/report-skype-gets-real-time-voice-translation-feature-here-s-how-it-works-3011096/amp"
+    cdnAmpWebUrl: "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/technology/report-skype-gets-real-time-voice-translation-feature-here-s-how-it-works-3011096/amp"
+    type: article
+    provider:
+      name: DNA India
+      domain: dnaindia.com
+    quality: 44
+    images:
+      - url: "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2022/12/16/2560989-skype.png"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Microsoft plans to buy stake in and partner with London Stock Exchange"
     excerpt: "The U.K. exchange will spend at least $2.8 billion on cloud services from the tech giant over the next decade."
     publishedDateTime: 2022-12-12T23:00:00Z

@@ -1,15 +1,15 @@
 ---
 category: news
 title: "IBM and David Clark Cause Aim to Reduce Food Waste; Name AI-Powered Gardening App Winner of 5th Annual Call for Code"
-excerpt: "and IBM's AI portfolio including IBM Watson Assistant. Since launch, the challenge has garnered participation from a community of 500,000 developers and problem solvers participating across 180 nations. \"Since the inaugural competition in 2018, IBM and ..."
-publishedDateTime: 2022-12-07T01:31:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2022/12/06/ibm-and-david-clark-cause-aim-to-reduce-food-waste-name-ai-powered-gardening-app"
-webUrl: "https://stockhouse.com/news/press-releases/2022/12/06/ibm-and-david-clark-cause-aim-to-reduce-food-waste-name-ai-powered-gardening-app"
+excerpt: "The top prize this year went to GardenMate for creating an app that uses IBM Watson® to connect gardeners ... technologies such as Hybrid Cloud and AI.\" Winning 2022 Call for Code Global ..."
+publishedDateTime: 2022-12-07T02:20:00Z
+originalUrl: "https://www.abc27.com/business/press-releases/cision/20221206NY57463/ibm-and-david-clark-cause-aim-to-reduce-food-waste-name-ai-powered-gardening-app-winner-of-5th-annual-call-for-code/"
+webUrl: "https://www.abc27.com/business/press-releases/cision/20221206NY57463/ibm-and-david-clark-cause-aim-to-reduce-food-waste-name-ai-powered-gardening-app-winner-of-5th-annual-call-for-code/"
 type: article
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: abc27
+  domain: abc27.com
 
 topics:
   - IBM AI
@@ -21,6 +21,6 @@ images:
     height: 300
     isCached: true
 
-secured: "PJnqW4RRNtpFl0gG8XAhz6BBBEp8hapFZWbG1mRco8Ge7DMsiEZdqvjLWhxm9l70n6yO62eNfuSGZDp3aHiDmp1YwjFph8XmglyXqnaMik4wq9za2ojHfzFO9wL1DxIrOkEelYTUuFncQBeD0wA8WYwfSiI48yUwyUpjkQSGFeH6cvPn2lUCGHURKNs5y8hKTKrKaC5J5T1NWAKFgEVOovs7lJAJMaMAxH5p9fXVk3ouM/xecOx5nd/dDiC0X1fbZcZvGlkl9RjyJ7b3mCcuJI8w0z7LivtlV+0prlfIOSnqmp8li1LaS8Z+Zv2TwG2qwiETANCvyGi/ybJhnhm3unahzzyZNK2ap/1C7QA2+mg=;VIis1uiFSh6gr/jOZNFblg=="
+secured: "pyTbqKF7NWQ68j3wNBTMyFnA4+kZwQMYX6zG5ue7wDXNO8qpyAeYOwFXZZxKgfOv0hXfxlN5YnfG7JPDavEf/nQKcUxw0apR/kULMpycP/HmSUsG6s48Aq9HKYov5unV024FCLp4LjNFsMGwIG557UTdCKu/9if5LcpIZmPp3A/aKc/u21Rg0B9e8wf6NkeLQCLfYvidbUfzv3JECTho/ZlIDExtm1HGaVcN2sdHdvYkDsNXPWqLPg85GlBCOQ1PC3bcFKIWFEnVHqebXW/wGgHxg9PmiMmYT2xHFj1UKERAjQPKtVDbmTlai2/IDhHmIJI4MBhNykHyqgwZiPEh9lObqd7dSyLN+oT7dyYssyg=;4mNMYjxnHkmVfhpxMYDVvw=="
 ---
 

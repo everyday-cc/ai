@@ -181,6 +181,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "ChatGPT got all the buzz, but beneath it is a $1B developer framework that's quietly fueling the new era of lifelike AI at OpenAI and beyond"
+    excerpt: "The Ray developer framework is used by OpenAI, Amazon, and more to solve one of AI's biggest pain points and make AI tools like ChatGPT possible."
+    publishedDateTime: 2022-12-16T10:00:00Z
+    webUrl: "https://www.businessinsider.com/openai-chatgpt-trained-on-anyscale-ray-generative-lifelike-ai-models-2022-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+    images:
+      - url: "https://i.insider.com/639a263b27c0a700193e267a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "ChatGPT and How AI Disrupts Industries"
     excerpt: "ChatGPT, from OpenAI, shows the power of AI to take on tasks traditionally associated with “knowledge work.” But the future won’t just involve tasks shifting from humans to machines. When technology enables more people to complete a task,"
     publishedDateTime: 2022-12-12T13:39:00Z

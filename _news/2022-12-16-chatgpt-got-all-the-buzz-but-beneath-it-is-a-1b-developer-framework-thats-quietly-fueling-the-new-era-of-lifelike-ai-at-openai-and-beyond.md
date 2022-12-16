@@ -1,27 +1,31 @@
 ---
 category: news
-title: "New AI Chatbot Lands With A Big Splash"
-excerpt: "Like most nerds who read science fiction, I've spent a lot of time wondering how society will greet true artificial intelligence, if and when it"
-publishedDateTime: 2022-12-12T22:37:00Z
-originalUrl: "https://menafn.com/1105300545/New-AI-Chatbot-Lands-With-A-Big-Splash"
-webUrl: "https://menafn.com/1105300545/New-AI-Chatbot-Lands-With-A-Big-Splash"
+title: "ChatGPT got all the buzz, but beneath it is a $1B developer framework that's quietly fueling the new era of lifelike AI at OpenAI and beyond"
+excerpt: "The Ray developer framework is used by OpenAI, Amazon, and more to solve one of AI's biggest pain points and make AI tools like ChatGPT possible."
+publishedDateTime: 2022-12-16T10:00:00Z
+originalUrl: "https://www.businessinsider.com/openai-chatgpt-trained-on-anyscale-ray-generative-lifelike-ai-models-2022-12"
+webUrl: "https://www.businessinsider.com/openai-chatgpt-trained-on-anyscale-ray-generative-lifelike-ai-models-2022-12"
 type: article
-quality: 39
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-12/12/KT_cc77eimage_story.jpg"
-    width: 600
-    height: 337
+  - url: "https://i.insider.com/639a263b27c0a700193e267a?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -139,6 +143,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 42
+  - title: "New AI Chatbot Lands With A Big Splash"
+    excerpt: "Like most nerds who read science fiction, I've spent a lot of time wondering how society will greet true artificial intelligence, if and when it"
+    publishedDateTime: 2022-12-12T22:37:00Z
+    webUrl: "https://menafn.com/1105300545/New-AI-Chatbot-Lands-With-A-Big-Splash"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2022-12/12/KT_cc77eimage_story.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Is ChatGPT the start of the AI revolution? 聊天機器人ChatGPT 將掀起人工智慧革命？"
     excerpt: "Have you heard of ChatGPT yet? It’s a thrilling, vexing, ontologically mesmerizing new technology created by the research group OpenAI. It can solve all your problems and answer all your questions. Or at least it will try to."
     publishedDateTime: 2022-12-12T16:00:00Z
@@ -166,20 +184,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/break.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "ChatGPT got all the buzz, but beneath it is a $1B developer framework that's quietly fueling the new era of lifelike AI at OpenAI and beyond"
-    excerpt: "The Ray developer framework is used by OpenAI, Amazon, and more to solve one of AI's biggest pain points and make AI tools like ChatGPT possible."
-    publishedDateTime: 2022-12-16T10:00:00Z
-    webUrl: "https://www.businessinsider.com/openai-chatgpt-trained-on-anyscale-ray-generative-lifelike-ai-models-2022-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-    images:
-      - url: "https://i.insider.com/639a263b27c0a700193e267a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "We asked ChatGPT, A Groundbreaking AI Bot, Whether President Ramaphosa Should Resign?"
     excerpt: "ChatGPT, created by a company called OpenAi, is the viral AI tool that is immensely powerful and useful in many ways."
@@ -232,6 +236,6 @@ related:
       domain: iol.co.za
     quality: 15
 
-secured: "R1dJZJaQVkWBie3hzTeTdpQPUQ4A4G814+a68HCzdzFjP8184eWpjaeckxI71LN7Zhsc1QYCJa4RkkQfEdIxl0Am2TiH9umLrhCHEUxwO3StBV3wpg+NHFeKmu6YR178sL/JeVIjnDMyo2GU7h6zQ2dhaFiX/2Vh5w+yEpq0caICoV1H5BAVNJhXUh0NTbjk8ZgjVhlh/yAJszXY3conjnRpbj0q9mNudfa0Q2vnGOkSZaPieL8NTlbUeV8B+ynDxezys7n5swT3XFO2rW2Loz1aAg2olMUdnmnw9aVthazZWlFu53kcG+oFBcj2tTxVr1pxLrQJnAMZKkVq2XrB8gd9//m47pOfP0/4VJMWug0=;1WazGWs/3uso1JutURHJmw=="
+secured: "COOu8bfwn56XEPahytrt95dqXjyal/GdPHxFtGm1qlHpDuG90Witei0DOjtkwzORbJom3y1ujVPJex6hprpo/moW3yARXMSF1Vm4vY9OTig+ZYBPlF4PJaq/F1bDE1INStlfYiM9HXWpQWo1tLfO8IJMjjjmUBaXMs8tl6cUm4jLbu7aVeSYCFwRn4+GHxtkv8gsQOA0Y6MIUawKMejSg6yHhvGfYN3FUqy6lJZbbHS/fHvcihAJP7Vj7hNoAYWYqetepOA6IwV7X3vVwGs9HhKh0cZPIrnpS2Wvp4Hojj6TNJtj9IWVvDcPPdoAWuYcO40ok+W3Y/suP7tVibTBXjF4na1fcCmpdyiD7aALyco=;3zb0Qo9bduMgU3TvpfAeXQ=="
 ---
 
