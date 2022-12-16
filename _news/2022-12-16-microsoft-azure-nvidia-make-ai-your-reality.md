@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/microsoft-nvidia/"
 webUrl: "https://venturebeat.com/microsoft-nvidia/"
 type: article
 quality: 101
-heat: 161
+heat: 181
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft launches real-time voice translation feature in Skype using AI"
+    excerpt: "The new translation feature uses AI to automatically detect the languages being spoken during a video call and translate them in real time"
+    publishedDateTime: 2022-12-16T07:22:00Z
+    webUrl: "https://www.business-standard.com/article/technology/microsoft-launches-real-time-voice-translation-feature-in-skype-using-ai-122121600397_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/microsoft-launches-real-time-voice-translation-feature-in-skype-using-ai-122121600397_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-launches-real-time-voice-translation-feature-in-skype-using-ai-122121600397_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 75
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-07/12/full/1626056584-8778.jpg"
+        width: 620
+        height: 464
+        isCached: true
   - title: "SymphonyAI's Sensa financial crime prevention solution to be available in Microsoft Azure Marketplace"
     excerpt: "Sensa joins SymphonyAI NetReveal for transaction filtering and sanctions screening, along with three other SymphonyAI vertical solution areas — manufacturing, retail, and IT service management — already available in the Azure Marketplace."
     publishedDateTime: 2022-12-12T16:00:00Z
@@ -71,6 +87,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/NBgAT2ZHE82EgK9Em2Ze8b-1200-80.jpg"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Microsoft launches real-time voice translation in Skype"
+    excerpt: "The new translation feature uses AI to automatically detect the languages being spoken during a video call and translate them in real time."
+    publishedDateTime: 2022-12-16T07:11:00Z
+    webUrl: "https://telanganatoday.com/microsoft-launches-real-time-voice-translation-in-skype"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 41
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/12/Microsoft-may-build-super-app-to-fight-Apple-Google.jpg"
+        width: 1280
+        height: 750
         isCached: true
   - title: "Microsoft acquires 4% stake in London Stock Exchange"
     excerpt: "Microsoft has announced a 10-year partnership with the London Stock Exchange Group (LSEG) involving next-generation data, analytics and cloud computing products."

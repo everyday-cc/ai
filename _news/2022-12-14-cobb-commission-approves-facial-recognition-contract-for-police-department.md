@@ -41,6 +41,22 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Cobb County Police will use facial recognition tech to help identify suspects"
+    excerpt: "After an extended debate, the Cobb County Board of Commissioners approved a contract with tech company Clearview AI to allow the police department to use their facial recognition software as a crime-fighting tool."
+    publishedDateTime: 2022-12-14T12:47:00Z
+    webUrl: "https://www.wsbradio.com/news/local/cobb-county-police-will-use-facial-recognition-tech-help-identify-suspects/ENQTNAAZUBGNDKHBU6BEHAO7JM/"
+    ampWebUrl: "https://www.wsbradio.com/news/local/cobb-county-police-will-use-facial-recognition-tech-help-identify-suspects/ENQTNAAZUBGNDKHBU6BEHAO7JM/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wsbradio-com.cdn.ampproject.org/c/s/www.wsbradio.com/news/local/cobb-county-police-will-use-facial-recognition-tech-help-identify-suspects/ENQTNAAZUBGNDKHBU6BEHAO7JM/?outputType=amp"
+    type: article
+    provider:
+      name: WSB Radio
+      domain: wsbradio.com
+    quality: 56
+    images:
+      - url: "https://cmg-cmg-rd-20021-prod.cdn.arcpublishing.com/resizer/2VDIQXRwYUrL93tLVffDDgszSpM=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/RDFEQXLCLREWNPVDHVE3LWZWYQ.jpg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Genesis launches face recognition for cars"
     excerpt: "Come to CAR magazine to find out more about the new keyless entry facial recognition technology launching in 2023 on the updated Genesis GV60 electric SUV"
     publishedDateTime: 2022-12-13T18:30:00Z
@@ -55,15 +71,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Cobb County Police will use facial recognition tech to help identify suspects"
-    excerpt: "After an extended debate, the Cobb County Board of Commissioners approved a contract with tech company Clearview AI to allow the police department to use their facial recognition software as a crime-fighting tool."
-    publishedDateTime: 2022-12-14T12:47:00Z
-    webUrl: "https://www.wsbradio.com/news/local/cobb-county-police-will-use-facial-recognition-tech-help-identify-suspects/ENQTNAAZUBGNDKHBU6BEHAO7JM/"
-    type: article
-    provider:
-      name: WSB Radio
-      domain: wsbradio.com
-    quality: 16
 
 secured: "k8T5q67EJrO6aiIgugS0C55axfOYv+tLgFRj0VWrS1vjnOMx8Ti5WoInDUx43gHLd20mwn7vg9myaQovPYY4cWFLZXc8ooaBGkJ4zX4o9aoqZA2v0F23w4pEq88WpZFimyYUjgWkQ6pwpzYTzvtssvnIC42b4iYiU+pdCVSIfFij3VL4eeuOdcmBsHvcKUXMKHvH/1qcxiuqfOX+3d1tqpuDiMeLBNsZYrRH3Sa5n2jJOE1jcD2qTKl/6GqpeHCO81mx0EHvMlXWPgOsFH7IPpPvx0LR0aIGm6dbPTwcTgOmdnepkROwcKD6iuPeh/Ks017jv8CuDG3i0a2vFDTSWNOKitvFrXKXqYFE33ETM1E=;aZg6Ro7ufAeHOJ4AtOorVQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.windowscentral.com/software-apps/skype-can-now-transla
 webUrl: "https://www.windowscentral.com/software-apps/skype-can-now-translate-your-own-voice-into-different-languages-with-ai"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,56 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Microsoft brings real-time voice translation to Skype: Check details"
+    excerpt: "Microsoft has launched real-time voice translation in Skype, which can now translate a person's voice in real-time using AI to make the translated voice sound similar to the original speaker."
+    publishedDateTime: 2022-12-16T07:23:00Z
+    webUrl: "https://www.bgr.in/apps/microsoft-brings-real-time-voice-translation-to-skype-check-details-1349718/"
+    ampWebUrl: "https://www.bgr.in/apps/microsoft-brings-real-time-voice-translation-to-skype-check-details-1349718/amp/"
+    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/apps/microsoft-brings-real-time-voice-translation-to-skype-check-details-1349718/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: www.bgr.in
+    quality: 76
+    images:
+      - url: "https://st1.bgr.in/wp-content/uploads/2022/12/skype-logo.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft plans to buy stake in and partner with London Stock Exchange"
+    excerpt: "The U.K. exchange will spend at least $2.8 billion on cloud services from the tech giant over the next decade."
+    publishedDateTime: 2022-12-12T23:00:00Z
+    webUrl: "https://www.americanbanker.com/news/microsoft-plans-to-buy-stake-in-and-partner-with-london-stock-exchange"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/c98ee1d/2147483647/strip/true/crop/900x473+0+64/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Ff2%2Fe3%2Fd6598c534bb19e51a6d9e43a456c%2F390276691.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "KULR’s CellCheck Battery Monitoring System Launches on Microsoft’s Azure Cloud Computing Service"
+    excerpt: "Built on Azure Cloud, the Modular Battery Management System Platform Leverages Azure Cloud's Advanced AI Functionality to Collect and Analyze Data From all KULR products"
+    publishedDateTime: 2022-12-13T12:30:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/kulr-s-cellcheck-battery-monitoring-system-launches-on-microsoft-s-azure-cloud-computing-service/article_3b0ec9c8-91cc-506c-859f-f415ec63b3ab.html"
+    type: article
+    provider:
+      name: The Bakersfield Californian
+      domain: bakersfield.com
+    quality: 21
+  - title: "KULR Technology Group launches CellCheck Battery Monitoring System on Microsoft's Azure cloud service"
+    excerpt: "KULR Technology Group Inc (NYSE:KULR) announced that its CellCheck Battery Monitoring System is now running on the Azure cloud"
+    publishedDateTime: 2022-12-13T12:28:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1001083/kulr-technology-group-launches-cellcheck-battery-monitoring-system-on-microsoft-s-azure-cloud-service-1001083.html"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 19
 
 secured: "k5wvbsRBU8nAEo1hMQpdLRSQSkB0z2OSnMJf8iMGXgcoyINxbYIYr+NzjrZZ8Z4F6VegPOwpHLcdD72rtVw04eO648XAPTbTqndZ6PpMkqJn7J4mXe0H6OKRdpof4X6bVWrD5ZQesXm4rwzU+e/eoJEEdZEFDgDX9rRx0sLf3ZSNo4LwyRxdMJeL3B50+viHgghIGe5EUYYndg9Sv4UXWl9Jx9qHQeSdMyZO8FR0L5amw0zMcTx7Q3CHfsLDNB8zDE9Phq5FhBQY4M1edit7/sssqkko3DBa9702XjWeZmtjUQRf08LJXiWNKsOFdpfQieGZwRGUDXKkcfSHOdtu6265ygNnkceJ2cyJB4ACfrw=;VsngJ85myjk1TR/hwoO7ug=="
 ---

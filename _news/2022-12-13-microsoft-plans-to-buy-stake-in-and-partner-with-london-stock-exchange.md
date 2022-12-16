@@ -25,48 +25,54 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Acquires A Stake in London Stock Exchange to Offer AI & Analytics Solutions"
-    excerpt: "Microsoft signs a 10-year partnership with London Stock Exchange Group (LSEG) and buys nearly 4% stake in the UK bourse operator."
-    publishedDateTime: 2022-12-12T12:42:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-acquires-a-stake-in-london-stock-exchange-to-offer-ai-analytics-solutions/"
+  - title: "Microsoft brings real-time voice translation to Skype: Check details"
+    excerpt: "Microsoft has launched real-time voice translation in Skype, which can now translate a person's voice in real-time using AI to make the translated voice sound similar to the original speaker."
+    publishedDateTime: 2022-12-16T07:23:00Z
+    webUrl: "https://www.bgr.in/apps/microsoft-brings-real-time-voice-translation-to-skype-check-details-1349718/"
+    ampWebUrl: "https://www.bgr.in/apps/microsoft-brings-real-time-voice-translation-to-skype-check-details-1349718/amp/"
+    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/apps/microsoft-brings-real-time-voice-translation-to-skype-check-details-1349718/amp/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 47
+      name: BGR
+      domain: www.bgr.in
+    quality: 76
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/micro.png"
-        width: 2240
-        height: 1260
+      - url: "https://st1.bgr.in/wp-content/uploads/2022/12/skype-logo.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Empowering the future of financial markets with London Stock Exchange Group"
-    excerpt: "Microsoft looks to generate $5 billion in revenue from LSEG and the financial services sector through 10-year strategic partnership. Today, we announced a 10-year strategic partnership with the London Stock Exchange Group (LSEG),"
-    publishedDateTime: 2022-12-12T07:59:00Z
-    webUrl: "https://blogs.microsoft.com/blog/2022/12/11/empowering-the-future-of-financial-markets-with-london-stock-exchange-group/"
+  - title: "Skype can now translate your own voice into different languages with AI"
+    excerpt: "Translated voices within Skype can now sound more like the original speaker. Skype can now translate your voice in real-time to other languages. The feature uses AI to make it sound as if you were speaking another language."
+    publishedDateTime: 2022-12-15T15:55:00Z
+    webUrl: "https://www.windowscentral.com/software-apps/skype-can-now-translate-your-own-voice-into-different-languages-with-ai"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 24
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 54
     images:
-      - url: "https://blogs.microsoft.com/wp-content/uploads/prod/2022/12/MSC22_Getty_UK_Finance_1312551627_1773x997-1024x576.jpg"
-        width: 1024
-        height: 576
+      - url: "https://cdn.mos.cms.futurecdn.net/V4RFMb4GJuoDiNE2ZvDgPM-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Microsoft Looks to Generate $5 Billion in Revenue from LSEG and the Financial Services Sector Through 10-year Strategic Partnership"
-    excerpt: "Microsoft announced a 10-year strategic partnership with the London Stock Exchange Group (LSEG), a world-leading financial markets infrastructure and data provider. Following LSEG’s acquisition of Refinitiv,"
-    publishedDateTime: 2022-12-12T17:52:00Z
-    webUrl: "https://financialit.net/news/infrastructure/microsoft-looks-generate-5-billion-revenue-lseg-and-financial-services-sector"
+  - title: "KULR’s CellCheck Battery Monitoring System Launches on Microsoft’s Azure Cloud Computing Service"
+    excerpt: "Built on Azure Cloud, the Modular Battery Management System Platform Leverages Azure Cloud's Advanced AI Functionality to Collect and Analyze Data From all KULR products"
+    publishedDateTime: 2022-12-13T12:30:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/kulr-s-cellcheck-battery-monitoring-system-launches-on-microsoft-s-azure-cloud-computing-service/article_3b0ec9c8-91cc-506c-859f-f415ec63b3ab.html"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 9
-    images:
-      - url: "https://financialit.net/sites/default/files/copy_of_financial_it_-_news_template_updated2_40.png"
-        width: 900
-        height: 480
-        isCached: true
+      name: The Bakersfield Californian
+      domain: bakersfield.com
+    quality: 21
+  - title: "KULR Technology Group launches CellCheck Battery Monitoring System on Microsoft's Azure cloud service"
+    excerpt: "KULR Technology Group Inc (NYSE:KULR) announced that its CellCheck Battery Monitoring System is now running on the Azure cloud"
+    publishedDateTime: 2022-12-13T12:28:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1001083/kulr-technology-group-launches-cellcheck-battery-monitoring-system-on-microsoft-s-azure-cloud-service-1001083.html"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 19
 
 secured: "hlefYci0t32YSJSp4qYePDLO2okEExugwE1AGLQazZ88C8jk28RbHxM1XVEQfvHO5DtZIVxOZ7UH0iLLr3K0LvOjn442hTz6ACDTrOPBiRaCXCzGKVdE+a/+Nqr0vJb6VCGicon9U85ooMxCqXvepyInzfP8629LJcuDNEcl45hegiWVFlYu8bsfiX6Q/I9nvkq84veBU6poPA7zDQt1HjdDxCNghw8UqHztHY+0OrkTJI8uaiXTkTr4fpNh/FtkJIzGbMvZL4A+OEgwtVF6zdcg1qEsTBJJuFKLoF0ItgcXWmbgy1EL423LaqjM/qZRD38XuSl2eRVqjxGL16XUsLgXPfhPM5SVKeazSU5/Ivu9NSSXMur+Uhh+Kz9MWdmPiLy+DrVdHz5Z0fv/RegotaIAMqIDZuDW/gnphP6TYE3Pz4p6X/H3pET6f7d2pUKVsUcQW4Fe/a2YsdGP0shhP2UfJdalFGYLP9LXOf3T1AOsacKArULOPnzwi/GgFs1RE1OvJNWna20K7Gm3qxPbFw==;11jpjbIEX3ncAFOX4wjFyA=="
 ---

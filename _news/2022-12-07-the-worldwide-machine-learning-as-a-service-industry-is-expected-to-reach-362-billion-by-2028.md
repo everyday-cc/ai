@@ -1,27 +1,30 @@
 ---
 category: news
-title: "The Worldwide Machine Learning As A Service Industry Is Expected To Reach $36.2 Billion By 2028'"
-excerpt: "The Global Machine learning as a Service Market size is expected to reach $36.2 billion by 2028, rising at a market growth of 31.6% CAGR during the forecast period. Machine learning is a data analysis method that includes statistical data analysis to create desired prediction output without the use of explicit programming."
-publishedDateTime: 2022-12-07T00:17:00Z
-originalUrl: "https://menafn.com/1105275901/The-Worldwide-Machine-Learning-As-A-Service-Industry-Is-Expected-To-Reach-362-Billion-By-2028"
-webUrl: "https://menafn.com/1105275901/The-Worldwide-Machine-Learning-As-A-Service-Industry-Is-Expected-To-Reach-362-Billion-By-2028"
+title: "The Worldwide Machine Learning as a Service Industry is Expected to Reach $36.2 Billion by 2028"
+excerpt: "American Express (Financial Services); and Tesla and Ford (Automotive), have identified AI and cognitive computing as a key strategic driver and have begun investing in machine learning to develop ..."
+publishedDateTime: 2022-12-06T21:40:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/12/n29983615/the-worldwide-machine-learning-as-a-service-industry-is-expected-to-reach-36-2-billion-by-2028"
+webUrl: "https://www.benzinga.com/pressreleases/22/12/n29983615/the-worldwide-machine-learning-as-a-service-industry-is-expected-to-reach-36-2-billion-by-2028"
+ampWebUrl: "https://www.benzinga.com/amp/content/29983615"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29983615"
 type: article
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - Microsoft AI
+  - AI in Finance
   - AI
   - Machine Learning
+  - Microsoft AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?473269"
-    width: 310
-    height: 250
+  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
+    width: 800
+    height: 313
     isCached: true
 
-secured: "SkSZ4rTAnxCh70cNUgNkf4/JS+ZCezNV2pSlD40bB29XhiQ0BHe5TeUpv4VYiN2G53u3UyG9Xs2mT5i7uIhxD7VJnZsj7W7b4pfJLCp98dpyvZH9nkYCaYx2XDJNs7niLcnsOphbEu2g0m8yhTVDdNYqOgm1ECTp4rm9PeRVv/u6NxpEPKNYu6QObuwz2fhkESDN3oDlJmHlAY4WYNG+D88FOwvYEZnq/3o4L7+8n5vNXpCjbQV8kBmbXBdf+TMZHexi9trTPbb8prA3zqN76VCQsPGNduFimloC9oGYUSH2PQ2dEemtSLe3JaXaGJTnORR/TDzdB2pL0nmKTAvuaqcIfhYXdkWFFnm63ATRb5I=;PnLFZkz2XFBcgvYXhDaZNw=="
+secured: "cH64r3Uo4UoZeUhPNRq/3ApXbcnB6qvAIYFWiNvFk8dpBMnJYCIh80iU0M2VxOO1SpkulnWOjqgbcDSClQMglqoFt4aUTSGn8DHODRTU2HxkTh2KcmcLTPPucqACQm83br+M8heamKWbgpLfGeHsZEdX0SlAZ4FqwrtAO8HLB04TtZ66zkknVmpmebKB9d0tW8Elonhzkvrvfgr1//wUc4WetC9ocx4y4JAvs9aPOrtmzzRqfHzrKhg8sZPy/nAWHnV253yU7wZ41jLx+0U542aPgKn3OIs+ftyqvVW8u4OS+IDFLhj1M9GKheDpKdLCyPy10B/p2ju5pqR4kNRDyLb+paXRozv/edTi/AiLT1Q=;8qY5WoKHduqX5liov+e9OA=="
 ---
 

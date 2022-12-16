@@ -39,20 +39,6 @@ related:
         width: 2240
         height: 1260
         isCached: true
-  - title: "Microsoft plans to buy stake in and partner with London Stock Exchange"
-    excerpt: "The U.K. exchange will spend at least $2.8 billion on cloud services from the tech giant over the next decade."
-    publishedDateTime: 2022-12-12T23:00:00Z
-    webUrl: "https://www.americanbanker.com/news/microsoft-plans-to-buy-stake-in-and-partner-with-london-stock-exchange"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/c98ee1d/2147483647/strip/true/crop/900x473+0+64/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Ff2%2Fe3%2Fd6598c534bb19e51a6d9e43a456c%2F390276691.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Empowering the future of financial markets with London Stock Exchange Group"
     excerpt: "Microsoft looks to generate $5 billion in revenue from LSEG and the financial services sector through 10-year strategic partnership. Today, we announced a 10-year strategic partnership with the London Stock Exchange Group (LSEG),"
     publishedDateTime: 2022-12-12T07:59:00Z

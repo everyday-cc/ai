@@ -20,17 +20,68 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Apple granted patent for ‘on-the-fly’ enrollment for facial recognition"
-    excerpt: "Apple has been granted a patent (number 11527107) for “on-the-fly enrollment for facial recognition” It involves system updates for the company’s various devices that would automatically update Face ID features."
-    publishedDateTime: 2022-12-13T14:46:00Z
-    webUrl: "https://www.mactech.com/2022/12/13/apple-granted-patent-for-on-the-fly-enrollment-for-facial-recognition/"
-    ampWebUrl: "https://www.mactech.com/2022/12/13/apple-granted-patent-for-on-the-fly-enrollment-for-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2022/12/13/apple-granted-patent-for-on-the-fly-enrollment-for-facial-recognition/amp/"
+  - title: "The 2023 Genesis GV60 unlocks using facial recognition and fingerprint ignition"
+    excerpt: "The £54,000 GV60 electric SUV will debut a number of new state-of-the art biometric features - and it means motorists won't need a key to open the doors or drive it."
+    publishedDateTime: 2022-12-16T06:00:00Z
+    webUrl: "https://www.thisismoney.co.uk/money/cars/article-11536991/The-2023-Genesis-GV60-unlocks-using-facial-recognition-fingerprint-ignition.html"
+    ampWebUrl: "https://www.thisismoney.co.uk/money/cars/article-11536991/amp/The-2023-Genesis-GV60-unlocks-using-facial-recognition-fingerprint-ignition.html"
+    cdnAmpWebUrl: "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/cars/article-11536991/amp/The-2023-Genesis-GV60-unlocks-using-facial-recognition-fingerprint-ignition.html"
     type: article
     provider:
-      name: MacTech
-      domain: mactech.com
+      name: This is Money
+      domain: thisismoney.co.uk
+    quality: 55
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/12/16/08/65647741-0-image-a-2_1671178832008.jpg"
+        width: 636
+        height: 382
+        isCached: true
+  - title: "Will we be using face recognition to unlock our cars?"
+    excerpt: "FRANKFURT: Genesis, Hyundai's premium brand, is creating a stir by introducing the first-ever solution for unlocking a car with face recognition, through tech implemented directly into the vehicle. These days it's second nature to unlock your smartphone with face recognition;"
+    publishedDateTime: 2022-12-15T10:01:00Z
+    webUrl: "https://www.carsifu.my/news/will-we-be-using-face-recognition-to-unlock-our-cars"
+    type: article
+    provider:
+      name: CarSifu
+      domain: carsifu.my
     quality: 39
+    images:
+      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/12/631144_v2-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "GENESIS INTRODUCES WORLD FIRST KEYLESS ENTRY FACE RECOGNITION TECHNOLOGY ON 2023 GV60"
+    excerpt: "Genesis GV60 will be the first car in the world to feature pioneering face recognition technology as part of biometric vehicle entry and engine start Other new features include Digital Key,"
+    publishedDateTime: 2022-12-13T08:29:00Z
+    webUrl: "https://www.thenewsmarket.com/news/genesis-introduces-world-first-keyless-entry-face-recognition-technology-on-2023-gv60/s/68b5a48c-38ba-4a92-b3a0-98525bb5747b"
+    type: article
+    provider:
+      name: thenewsmarket
+      domain: thenewsmarket.com
+    quality: 32
+    images:
+      - url: "https://preview.thenewsmarket.com/Previews/GEME/StillAssets/960x540/631144_v2.jpg"
+        width: 1168
+        height: 657
+        isCached: true
+  - title: "Genesis launches face recognition entry"
+    excerpt: "Claimed world first face recognition technology for keyless entry is among a number of new features for the 2023 edition of Genesis’ electric GV60 SUV. Digital key and air purification systems are also among the available upgrades."
+    publishedDateTime: 2022-12-13T12:25:00Z
+    webUrl: "https://www.just-auto.com/news/genesis-launches-face-recognition-entry/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 19
+  - title: "Genesis introduces keyless entry with face recognition tech to GV60"
+    excerpt: "Another system that will also be available on the 2023 Genesis GV60 is the Digital Key. This allows owners to unlock or lock their vehicle using their smartphone or smartwatch. As"
+    publishedDateTime: 2022-12-14T11:16:00Z
+    webUrl: "https://www.expressandstar.com/news/motors/2022/12/14/genesis-introduces-keyless-entry-with-face-recognition-tech-to-gv60/"
+    type: article
+    provider:
+      name: Express & Star
+      domain: expressandstar.com
+    quality: 19
 
 secured: "Q4Ojdtj3i1NgBuhwOqdnMO/A/Csm71q1ZJRuTxTNxP/VNbfeLq6ZTQZDTnirJDpPN9ROrmzLWYWUdWTaJKcat2pl4jTrMCPQr1X1BZYldz6CZMvTWYUqtarRgh4BGzVzJbS5UCYxthzL7vgjskgTZ9owYTF+NNBMNitV5my7kJQ19xE7SoVssTFbX8e9qc3YYHuTS+hnKD4e9YHF0BWF/Uy3/Qlcijo97d7oh22CoYbfrTU+8qWDD8Z/wZOt5MPg77YBHyPjLXNNIDBrI+AoCFBz7YNXXAaEhXWMx+FCBS7cjWc3JHngkHEw+qKlMJa2XA79bc8oJ17jE4Ga7JzlzfAFmGy4ipuWF2bUWiIt9jTyNpWqhU9G65Htn7i/bSZwP5CApuOmpN7sJ5PWS9i5mgB0+YogO4WRddPkXYApJ1so2dX+Hdjap9Bxbd68SWhlawR3e7sSo+khXs+4APDtnTIpjz02LnIGi6tDX7rtMHxYQz8rW5A5Pd9ZKOqmxx3/tmWZfnqcaTxn/PcguMtt8A==;k/zYBNNAQ/sshL2mDJKn0w=="
 ---
