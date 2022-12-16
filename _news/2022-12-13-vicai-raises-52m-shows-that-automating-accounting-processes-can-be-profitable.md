@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/12/13/vic-ai-shows-that-automating-accou
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/13/vic-ai-shows-that-automating-accounting-processes-can-be-profitable-raises-52m/amp/"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 17
+  - title: "Infinity AI Raises $5M to Build Automated Synthetic Training Data"
+    excerpt: "Infinity AI, a startup that generates automated synthetic training data, has announced a $5M seed round led by Matrix"
+    publishedDateTime: 2022-12-16T16:41:00Z
+    webUrl: "https://www.datanami.com/this-just-in/infinity-ai-raises-5m-to-build-automated-synthetic-training-data/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
     quality: 17
 
 secured: "ZCuqAYwBbstB6ciPJOjKQ1jcbKbI50eSBjUhrqWLONNY9lYBL//1HRagU6XXIepxnkV4B+LePUMTAbQFax6gP5d22Qlxu3q82m5oRwlP+7lJmDH6aHVPak1ZyPN16B8pF+tDEKvt+Ubt4+QlHj1jI8wTdy71fK9lQRSte/7XaT13DNAJDQwtxUGMIemcAt/8091h4W9X/NLiJT/rPKd0tn+dK6YeiqHoUHqvG27zJOVX9lNJ8tp1CBg4I7RY1DYEBadFABIs8diIX1bjXp0kuMf+jtElrO3by9XPhLsra8sQ/mYEvYrieCAfBpk7JFYDsZ7PbXATs3NF4pfBcYq8LMbKvuYttG42m/DLe68uA0Y=;ZpQr9vpOt++UwncucArJbA=="

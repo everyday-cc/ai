@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://i0.wp.com/www.ksn.com/wp-content/uploads/sites/13/2022/12/Deland-2-1.jpg?w=2000&#038;ssl=1"
-    width: 561
-    height: 545
+  - url: "https://i0.wp.com/www.ksn.com/wp-content/uploads/sites/13/2021/11/RAW-ILLUMINATION-BOTANICA_frame_14133.jpg?w=2000&#038;ssl=1"
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "HERrUiEYFP0WwhcA2VaMBy+ugM88ArLNarrq5+L1wT5PYPbgAAGjABf1kmaWfA7+VJ+JzLWOBTBP09azuCIGR8fAdWiuH8JXJTloVzkotWCVjggKW5jscynvfkLyTSf2VWqioFh17CO8Qkdguwm82VjPdYKGzXXBkOP5RJul09h4CHJlc4SiWbB7S2mYPqIBRuZpUJXh9zoiculYWYNc2uZJic1yllzqzNhBxXQ5kFuJDOp7nxYn/lGURDz/hr7N/thO1ov6FIzExdQlP/pSTtf/322Njdp6UzSAFvMTRchG2cXZY6GtMnmaLp99E5Ts6trylQIPQvLLzM9d4GHF85oCjikz7GBCuKK0r4hFasY=;Vxq5voB/0hW7ooIjBbsNyQ=="
+secured: "vb3lv2JpqA/I/Jqdtod9fOtVOWRMnjmmySbfsmRCMhGqrco4FzVILxyL6fmXW+7ZmqKNWxBMbcqMkz/gH7pwtJlhi54FKxJYArv7YBG01HXsUJkSpVGkPCndcgkacHFhw8nd/4wlQseidI3C01iy+X7WqC6PktYQmkdcs/2V8VSgb7x/idLH3HKIzHm39ZuPjxuQc6Tqi4tOuYnivicBIwniRtzIHcQl3pF7eBGLUvvdvKE4TixG1VmM6f+y/L6ZmRw9j7WGYfKN4wV/4Pueo1XfjHEjtvUE5n8cjNx1ZrUTVHRHRvaL05/+dD2Bp+PqjQyvfwn9fq/rN6UvTPoMbSkzrJ2+57wPHnwhveqE3kI=;ApRHLe4Yj8y6hSuqbPnJ3g=="
 ---
 

@@ -74,6 +74,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Conversing with my AI friend ChatGPT | The DeanBeat"
+    excerpt: "Dean Takahashi tried out the Vana AI generative art program and it spit out dozens of painterly images. He tried out ChatGPT too."
+    publishedDateTime: 2022-12-16T18:28:00Z
+    webUrl: "https://venturebeat.com/games/conversing-with-my-ai-friend-chatgpt-the-deanbeat/"
+    ampWebUrl: "https://venturebeat.com/games/conversing-with-my-ai-friend-chatgpt-the-deanbeat/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/conversing-with-my-ai-friend-chatgpt-the-deanbeat/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/12/dean-vana-2.jpg?w=1200&strip=all"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "ChatGPT has mastered the confidence trick, and that's a terrible look for AI"
     excerpt: "ChatGPT appears disarmingly frank about its flaws if you ask it outright. Say you're a lazy journalist who asks it to \"produce a column about ChatGPT's mistakes when writing code.\" \"As a large language model trained by OpenAI,"
     publishedDateTime: 2022-12-14T00:50:00Z

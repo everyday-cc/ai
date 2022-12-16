@@ -71,6 +71,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Conversing with my AI friend ChatGPT | The DeanBeat"
+    excerpt: "Dean Takahashi tried out the Vana AI generative art program and it spit out dozens of painterly images. He tried out ChatGPT too."
+    publishedDateTime: 2022-12-16T18:28:00Z
+    webUrl: "https://venturebeat.com/games/conversing-with-my-ai-friend-chatgpt-the-deanbeat/"
+    ampWebUrl: "https://venturebeat.com/games/conversing-with-my-ai-friend-chatgpt-the-deanbeat/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/conversing-with-my-ai-friend-chatgpt-the-deanbeat/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/12/dean-vana-2.jpg?w=1200&strip=all"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Artificial intelligence chatbots continue to improve. How do they work?"
     excerpt: "AI chatbots are a software application used to have a conversation that can take on the role of a live human, using technology."
     publishedDateTime: 2022-12-15T19:51:00Z

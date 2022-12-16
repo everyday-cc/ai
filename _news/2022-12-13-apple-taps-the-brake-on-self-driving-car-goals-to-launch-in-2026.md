@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/12/13/in_brief_ai/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/12/13/in_brief_ai/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bolstering the safety of self-driving cars with a deep learning-based object detection system"
-    excerpt: "Self-driving cars, or autonomous vehicles, have long been earmarked as the next generation mode of transport. To enable the autonomous navigation of such vehicles in different environments, many different technologies relating to signal processing,"
-    publishedDateTime: 2022-12-12T21:27:00Z
-    webUrl: "https://techxplore.com/news/2022-12-bolstering-safety-self-driving-cars-deep.html"
-    ampWebUrl: "https://techxplore.com/news/2022-12-bolstering-safety-self-driving-cars-deep.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-bolstering-safety-self-driving-cars-deep.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 50
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/self-driving-car-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "What Psychology Means for the Future of Self-Driving Cars"
     excerpt: "Short of teleportation, few technological dreams are more appealing than getting from point A to point B in a self-driving car: a vehicle able to whisk you away at a moment’s command, and that grants countless hours of newfound free time en route."
     publishedDateTime: 2022-12-14T17:51:00Z
@@ -59,15 +43,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Bolstering the safety of self-driving cars with a deep learning-based object detection system"
-    excerpt: "Self-driving cars need to implement efficient, effective, and accurate detection systems to provide a safe and reliable experience to its users. To this end, an international research team has now developed an end-to-end neural network that,"
-    publishedDateTime: 2022-12-13T16:45:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/12/221212140800.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 40
   - title: "Explaining the Sensor Suite in a Self-Driving Car"
     excerpt: "In this video, a TI engineer at electronica 2022 explains the various sensors that are deployed in a vehicle in order for it to be able to drive itself."
     publishedDateTime: 2022-12-15T22:24:00Z
@@ -112,42 +87,14 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Technology behind self-driving cars has reached a stalemate"
-    excerpt: "The progress of autonomous vehicles in recent years is negligible. Investors are now starting to pull out and manufacturers are shutting down, all while Tesla struggles with an increasing number of fatal accidents."
-    publishedDateTime: 2022-12-13T14:40:00Z
-    webUrl: "https://ing.dk/artikel/technology-behind-self-driving-cars-has-reached-a-stalemate-264079"
+  - title: "Apple scales back self-driving car and delays debut till ’26"
+    excerpt: "Apple has scaled back ambitious self-driving plans for its future electric vehicle and postponed the car’s target launch date by about a year to 2026, according to people with knowledge of the matter."
+    publishedDateTime: 2022-12-12T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/apple-scales-back-self-driving-car-and-delays-debut-till-26/"
     type: article
     provider:
-      name: ing
-      domain: ing.dk
-    quality: 24
-    images:
-      - url: "https://ing.dk/sites/ing/files/styles/large/public/illustration/2022/12/bigstock-car-with-punctured-flat-tire-p-450582011.jpg?itok=-pO1Askr"
-        width: 480
-        height: 320
-        isCached: true
-  - title: "Meta’s Answer to the Missing Link of Self-Supervised Learning"
-    excerpt: "(SSL) models, which are trained on a single input modality (such as images or text) and require a lot of computational power."
-    publishedDateTime: 2022-12-14T08:31:00Z
-    webUrl: "https://analyticsindiamag.com/metas-answer-to-the-missing-link-of-self-supervised-learning/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 24
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/Metas-Answer-to-the-Missing-Link-of-Self-Supervised-Learning-.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Shapiro: A moonshot moment for self-driving cars | Opinion"
-    excerpt: "The United States and China are locked in a battle for tech leadership, and self-driving vehicles are on the cutting edge of the AI revolution."
-    publishedDateTime: 2022-12-15T03:00:00Z
-    webUrl: "https://www.detroitnews.com/story/opinion/2022/12/15/shapiro-a-moonshot-moment-for-self-driving-cars-opinion/69725418007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 4
 
 secured: "yKdz1eW4ocC7s2MO3K+ho/c5jbwmsJsj2KGSwX1rlvE3epcK931ZunqVe8iYYK4Qk2JEuZdK9cv71nN0PkAYtA4eUYKCxuGsyoYp9m6weQxemysFcHRK3ljd3OaqIg/2oDkPgy/k6ejcjIRevx3R+Q57KV02Swk7LDXjx4BbF6r6WveaDIGGmpOIRoDO9DmXWZClqWAN+2E6ZRk2GH+QTVqI37SbxpGRqRjYWlXGqbAHF1gmEFkkBl6CjhBLTXMqwaGn/Rm/RX1saZTWDQZOpVo1R6t2grn9kdhESKyFmfuOP2b4q4iwBhOXJpXegbhTscpNO2dSv0+4l4C6+Pi1gUfexM+qFPv3kc0YBcbERzA=;HbXLJym7T1j0lq4SmmSD5w=="

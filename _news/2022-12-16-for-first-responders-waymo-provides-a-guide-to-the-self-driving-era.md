@@ -7,7 +7,7 @@ originalUrl: "https://www.autonews.com/mobility-report/waymos-autonomous-vehicle
 webUrl: "https://www.autonews.com/mobility-report/waymos-autonomous-vehicle-guide-first-responders"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Phoenix airport 1st to offer self-driving ride service Waymo"
+    excerpt: "As Phoenix gets ready to host the Super Bowl, Mayor Kate Gallego has announced Sky Harbor International Airport will be the world's first airport to offer the self-driving ride-hailing service Waymo"
+    publishedDateTime: 2022-12-16T17:14:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/phoenix-airport-1st-offer-driving-ride-service-waymo-95427526"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/phoenix-airport-1st-offer-driving-ride-service-waymo-95427526"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/phoenix-airport-1st-offer-driving-ride-service-waymo-95427526"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 74
+    images:
+      - url: "https://s.abcnews.com/images/US/221216_vod_onlocation_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Waymo seeks permit to sell self-driving car rides in San Francisco"
+    excerpt: "Alphabet Inc's Waymo has applied for the final permit it needs in California before it can sell fully autonomous rides, the company told Reuters on Tuesday."
+    publishedDateTime: 2022-12-13T17:51:00Z
+    webUrl: "https://www.reuters.com/technology/waymo-seeks-permit-sell-self-driving-car-rides-san-francisco-2022-12-13/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/pcyvfQBApDvoitbs8OqXNfOqrdM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SL2TPYZOHFNYJBBFVJ5FTHSLQI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "7RsfuZjvzt5H2Ca2hSYPi1UYnPBI2mWLBAppJYihxomB+Hokx6zXCPElO7Iu891tUhQyjAO2/eknwaG+SHRW1cIki4o3/9omTB4jrl0LmX2Luv+A8BxhTBRlfZ+lWljfJxr8/YmR9IpgnfTxas+SKJXsqL6QxRlFH6h2Egx4clZ94OEkVb7fSDy3ODgarC8yzV5NT9L8DaNSUdW/LTfJfpoBoLiacCiCZksEh7m0gyV6+idapx0F0HwrAWQ3GcqElGyNSjJVqou4NV/APCs+SCXNFYYo5nt/6M58v2F3QFhVQX/aeASsMUDjHOHCGFbmeetItjQ2TbQ4R4ERqN0UgbA6AtfuJglZIgZGVvYAUqU=;GPd2g5X0u6U1Pgi6oE5aZQ=="
 ---

@@ -34,6 +34,15 @@ related:
         width: 1200
         height: 855
         isCached: true
+  - title: "Infinity AI Raises $5M to Build Automated Synthetic Training Data"
+    excerpt: "Infinity AI, a startup that generates automated synthetic training data, has announced a $5M seed round led by Matrix"
+    publishedDateTime: 2022-12-16T16:41:00Z
+    webUrl: "https://www.datanami.com/this-just-in/infinity-ai-raises-5m-to-build-automated-synthetic-training-data/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 17
 
 secured: "96s5cZRC+k7ZeG5c/L4xna1iUgTaMwwbGcmfLQrLeEDOT3+ZpbiahuxJEHz4KewDi+qjn4xHNoxuSewp/AWvFHD6DPBQ0dZS2x7qaVHmU5LHIZ6wY8dn9hCLXySHLr4pugkysO2gGxbeyZbERIYvUfY2fAZtjgP8zy+jgEHRksc2/8mAHP1/x4xyu8uk+ZcQcmI01cscfrlLch48sOBDT60VjRGBMKsHiA5emqS9WpaEmwCgUOhpREx4kKSJ2l4WT++ciPhpQofsINNqpDXIbn7GMGV8vAO9TV6SsUHL6mt6EaB05pHSZocV97hfr5KtezEdD6mDfI4c/Vl9CXhs96p68eh2OE+fLp5w4y5zi5I=;oUgnOkiXhWztCoz784FPzQ=="
 ---

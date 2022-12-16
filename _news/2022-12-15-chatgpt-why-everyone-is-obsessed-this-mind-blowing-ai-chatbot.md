@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/chatgpt-why-everyone-is-obsesse
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/chatgpt-why-everyone-is-obsessed-this-mind-blowing-ai-chatbot/"
 type: article
 quality: 89
-heat: 259
+heat: 269
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.cnet.com/a/img/resize/084641681c8362c3ce0c3eb8a53365351adcaaac/hub/2022/12/06/3dd7180c-d0e7-47ca-bc37-b5df15a41a25/ai-chat-gettyimages.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Conversing with my AI friend ChatGPT | The DeanBeat"
+    excerpt: "Dean Takahashi tried out the Vana AI generative art program and it spit out dozens of painterly images. He tried out ChatGPT too."
+    publishedDateTime: 2022-12-16T18:28:00Z
+    webUrl: "https://venturebeat.com/games/conversing-with-my-ai-friend-chatgpt-the-deanbeat/"
+    ampWebUrl: "https://venturebeat.com/games/conversing-with-my-ai-friend-chatgpt-the-deanbeat/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/conversing-with-my-ai-friend-chatgpt-the-deanbeat/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/12/dean-vana-2.jpg?w=1200&strip=all"
+        width: 1200
+        height: 801
         isCached: true
   - title: "Artificial intelligence chatbots continue to improve. How do they work?"
     excerpt: "AI chatbots are a software application used to have a conversation that can take on the role of a live human, using technology."
