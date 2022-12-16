@@ -2,6 +2,188 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2022-10-06-using-ai-to-create-more-efficient-math-algorithms.md",
+      "title": "Using AI to create more efficient math algorithms",
+      "excerpt": "A team of researchers at Google's DeepMind, London, has found that AI can find faster algorithms to solve matrix multiplication problems. In their paper published in the journal Nature, the group describes using reinforcement learning to improve math-based algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-10-ai-efficient-math-algorithms.html",
+      "originalUrl": "https://techxplore.com/news/2022-10-ai-efficient-math-algorithms.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/using-ai-to-create-mor.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-10-ai-efficient-math-algorithms.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-ai-efficient-math-algorithms.amp",
+      "publishedDateTime": "2022-10-06T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-06-microsoft-open-sources-its-farm-of-the-future-toolkit.md",
+      "title": "Microsoft open sources its ‘farm of the future’ toolkit",
+      "excerpt": "The post Microsoft open sources its ‘farm of the future’ toolkit appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://blogs.microsoft.com/ai/microsoft-open-sources-its-farm-of-the-future-toolkit/",
+      "originalUrl": "https://blogs.microsoft.com/ai/microsoft-open-sources-its-farm-of-the-future-toolkit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blogs.microsoft.com/wp-content/uploads/prod/sites/3/2022/10/Untitled-8-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-06T07:58:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-06-how-to-setup-facial-recognition-and-fingerprint-recognition-on-the-genesis-gv60.md",
+      "title": "How to setup Facial Recognition and Fingerprint Recognition on the Genesis GV60",
+      "excerpt": "At Autoblog’s Tech of the Year, Senior Editor John Snyder demonstrates the steps needed to set up Facial Recognition and Fingerprint on the 2023 fully electric Genesis GV60. Transcript JOHN ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoblog.com/setup-facial-recognition-fingerprint-recognition-144507761.html",
+      "originalUrl": "https://www.autoblog.com/setup-facial-recognition-fingerprint-recognition-144507761.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-06T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoblog",
+        "domain": "autoblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-06-miko-robotics-acquires-majority-stake-in-ai-chess-startup-square-off.md",
+      "title": "Miko Robotics acquires majority stake in AI chess startup, Square Off",
+      "excerpt": "courtesy of underlying AI, grabbed the attention of a jaded crowd of showgoers. This morning, it takes the next step in the startup lifecycle, as Bay Area-based kids robotics firm Miko announces ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/06/miko-robotics-acquires-majority-stake-in-ai-chess-startup-square-off/",
+      "originalUrl": "https://techcrunch.com/2022/10/06/miko-robotics-acquires-majority-stake-in-ai-chess-startup-square-off/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/KId-playing-against-AI.jpeg?resize=1200,799",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/06/miko-robotics-acquires-majority-stake-in-ai-chess-startup-square-off/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/06/miko-robotics-acquires-majority-stake-in-ai-chess-startup-square-off/amp/",
+      "publishedDateTime": "2022-10-06T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-06-ai-powered-supply-chain-visibility-platform-altana-bags-100m.md",
       "title": "AI-powered supply chain visibility platform Altana bags $100M",
       "excerpt": "Altana, a supply chain visibility startup, has raised $100 million in a venture funding round, bringing its total raised to $123 million.",
@@ -1000,180 +1182,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-06-tesla-to-remove-sensors-from-the-vehicles-self-driving-system-and-instead-rely-on-eight-cameras-and-artificial-intelligence-after-intense-scrutiny.md",
-      "title": "Tesla to REMOVE sensors from the vehicle's self-driving system and instead rely on eight cameras and artificial intelligence after intense scrutiny following series of crashes",
-      "excerpt": "Tesla is removing sensors from its cars as it shifts toward a system based solely on eight cameras that feed information into its self-driving artificial intelligence. Ultrasonic sensors (USS ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-11283721/Tesla-REMOVE-sensors-new-cars-bet-cameras-AI-amid-scrutiny-crashes.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-11283721/Tesla-REMOVE-sensors-new-cars-bet-cameras-AI-amid-scrutiny-crashes.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/10/05/17/63146475-0-image-a-30_1664988606459.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-11283721/amp/Tesla-REMOVE-sensors-new-cars-bet-cameras-AI-amid-scrutiny-crashes.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11283721/amp/Tesla-REMOVE-sensors-new-cars-bet-cameras-AI-amid-scrutiny-crashes.html",
-      "publishedDateTime": "2022-10-05T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-deepmind-ai-is-able-to-make-algorithms-better-than-humans-have-imagined-creators-claim.md",
-      "title": "DeepMind AI is able to make algorithms better than humans have imagined, creators claim",
-      "excerpt": "DeepMind, the Google sister company that has brought a number of machine learning breakthroughs, says the latest discovery is one step on its mission to use artificial intelligence to advance science.",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/tech/ai-algorithm-deepmind-google-new-alphatensor-b2196214.html",
-      "originalUrl": "https://www.independent.co.uk/tech/ai-algorithm-deepmind-google-new-alphatensor-b2196214.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/2022/09/27/14/artificial%20intelligence%20quantum%20physics%20equation.jpg?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-05T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-deepmind-ai-invents-faster-algorithms-to-solve-tough-maths-puzzles.md",
-      "title": "DeepMind AI invents faster algorithms to solve tough maths puzzles",
-      "excerpt": "Researchers at DeepMind in London have shown that artificial intelligence (AI) can find shortcuts in a fundamental type of mathematical calculation, by turning the problem into a game and then leveraging the machine-learning techniques that another of the company’s AIs used to beat human players in games such as Go and chess.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-022-03166-w",
-      "originalUrl": "https://www.nature.com/articles/d41586-022-03166-w",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-022-03166-w/d41586-022-03166-w_23572390.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-05T09:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Math for AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-scientists-are-perfecting-remote-controlled-cyborg-roaches-that-might-just-save-your-life.md",
-      "title": "Scientists are perfecting remote-controlled 'cyborg' roaches that might just save your life",
-      "excerpt": "Remote controlled cockroaches are real, and researchers in Japan hope they can help find survivors after catastrophic earthquakes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/news/world/2022/10/05/remote-controlled-cockroaches-research-japan/8167715001/",
-      "originalUrl": "https://www.freep.com/story/news/world/2022/10/05/remote-controlled-cockroaches-research-japan/8167715001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2022/10/05/USAT/77e429d9-12b7-422b-9915-4287347c884f-XT4B4647.JPG?auto=webp&crop=6239,3510,x0,y317&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-05T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

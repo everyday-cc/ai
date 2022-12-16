@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/chatgpt-why-everyone-is-obsesse
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/chatgpt-why-everyone-is-obsessed-this-mind-blowing-ai-chatbot/"
 type: article
 quality: 89
-heat: 249
+heat: 259
 published: true
 
 provider:
@@ -235,6 +235,15 @@ related:
       name: Independent Online
       domain: iol.co.za
     quality: 15
+  - title: "Meet ChatGPT: The AI Chatbot That Can Write Code, Pass Exams, and Generate Business Ideas"
+    excerpt: "OpenAI's ChatGPT chatbot has advanced AI technology with its ability to generate original, human-like responses. However, there are significant ethical concerns to consider, including the potential for incorrect or fictitious answers and bias in decision-making."
+    publishedDateTime: 2022-12-16T11:00:00Z
+    webUrl: "https://www.aei.org/technology-and-innovation/meet-chatgpt-the-ai-chatbot-that-can-write-code-pass-exams-and-generate-business-ideas/"
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 10
 
 secured: "bmsDd3KnL6s/aExRiWvqRW7RQ7nm9eclpUmK4qQ6MBJV5fnXCBryMi8QnX0zLefqfsGLtsE8T98icUbsr3LwQFa3v4NXmN5atljmZCJ1v9YX0DwiOokVmcL6GyMR9Rrrhzz9erd7/aDpKlhDsPvsFshsjBKYTLfuEgcq7WR9wu7+otJ0xbLLP4hGMLpsrX/ewHdcG+WYVSTkBDq9wfyo+3cx0xUcXjPmg17gI7aEfn3d+WLQVy6SuSUOvM6lVRshE0TYeo7IFSpoy5ohhl348aktTtRJ/tD+n0VCXMkAKE8I/tDq6AV133QmkVdIqV39wbDNg+pz6taJU2NTeWgR6gIDF+IDliBQnrDrWZ9oLRDW8XOeaNnd9wRmc52R5bma2+322J0V4p98AM67fhYf6X/FnCkTCNCaVx8zlYNckypHigAGfi/KpsV/7qtKKansNLYaaApM0ebI7dEaVg1EfWrClh//OXAyGlY5lc4KJQwXvLL5nk+D0HpQr5KbkVkR0HPcuV08BieprQVTM25eEQ==;jowXtUFH0R56eR/0AewogA=="
 ---

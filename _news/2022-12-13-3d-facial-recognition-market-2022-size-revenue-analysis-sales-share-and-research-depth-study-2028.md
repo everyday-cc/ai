@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-ma
 webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-2022-12-12"
 type: article
 quality: 71
-heat: 171
+heat: 181
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) Consulting Market 2023 : Production Capacity, Restring Drivers, Size and Landscape Outlook 2028"
+    excerpt: "Consulting Market \" Insights 2022 - By Applications (Technology Consulting,Management Consultin), By Types (, Strategy Development, Strategy Execution, Commercial Due Diligence, Customer Training), By Segmentation analysis,"
+    publishedDateTime: 2022-12-16T01:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-consulting-market-2023-production-capacity-restring-drivers-size-and-landscape-outlook-2028-2022-12-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

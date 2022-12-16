@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-10-31-how-responsible-ai-creates-measurable-roi.md",
+      "title": "How responsible AI creates measurable ROI",
+      "excerpt": "but focusing on developing an ecosystem of responsible AI might be the place to start, Singh said. This was also a key point throughout its Global Responsible AI Summit, held for the first time ever last week. Overwhelmingly, the event’s sessions ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-responsible-ai-creates-measurable-roi/",
+      "originalUrl": "https://venturebeat.com/ai/how-responsible-ai-creates-measurable-roi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1267598662.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-responsible-ai-creates-measurable-roi/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-responsible-ai-creates-measurable-roi/amp/",
+      "publishedDateTime": "2022-10-31T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-30-aws-amplify-for-swift-reaches-20-brings-asyncawait-and-macos-support.md",
       "title": "AWS Amplify for Swift Reaches 2.0, Brings Async/Await and macOS Support",
       "excerpt": "Previously known as AWS Amplify iOS, AWS Amplify for Swift now offers a rewritten API to support Swift async/await and make concurrency code more idiomatic. Additionally, the new release ...",
@@ -1377,49 +1430,6 @@
         "Microsoft AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-aero-gpx-is-an-f-zero-like-racer-on-kickstarter-with-a-breakneck-demo-to-try.md",
-      "title": "Aero GPX Is an F-Zero-Like Racer on Kickstarter with a Breakneck Demo to Try",
-      "excerpt": "Solo developer Aaron McDevitt has launched a Kickstarter for Aero GPX, a cel-shaded anti-gravity racing game that takes after Nintendo’s futuristic F-Zero series. Its inspiration is clear from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.escapistmagazine.com/aero-gpx-f-zero-racer-kickstarter-demo/",
-      "originalUrl": "https://www.escapistmagazine.com/aero-gpx-f-zero-racer-kickstarter-demo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.escapistmagazine.com/wp-content/uploads/2022/10/aero-gpx-kickstarter.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Escapist",
-        "domain": "escapistmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

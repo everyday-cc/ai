@@ -20,6 +20,7 @@ topics:
   - AI in Autos
   - IBM AI
   - AI Hardware
+  - AWS AI
 
 images:
   - url: "https://s.yimg.com/ny/api/res/1.2/7VCi8GD_LbeLUonbPT3nXg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/234b65fd65c1a66bcc0af1e622388462"

@@ -2,6 +2,197 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2022-11-23-aws-to-invest-rs-36000-crore-for-new-hyderabad-region-service.md",
+      "title": "AWS to invest Rs 36,000 crore for new Hyderabad region service",
+      "excerpt": "HYDERABAD: Amazon Web Services (AWS) is planning to invest an estimated $4.4 billion (Rs 36,300 crore) in India by 2030 through the new AWS Asia Pacific (Hyderabad) Region. The construction and operation of the AWS Asia Pacific (Hyderabad) Region is estimated to add approximately $7.6 billion to India’s gross domestic product (GDP) by 2030.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/states/telangana/2022/nov/23/aws-to-invest-rs-36000-crore-for-new-hyd-region-service-2521126.html",
+      "originalUrl": "https://www.newindianexpress.com/states/telangana/2022/nov/23/aws-to-invest-rs-36000-crore-for-new-hyd-region-service-2521126.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/11/17/w600X390/Amazon1.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/states/telangana/2022/nov/23/aws-to-invest-rs-36000-crore-for-new-hyd-region-service-2521126.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2022/nov/23/aws-to-invest-rs-36000-crore-for-new-hyd-region-service-2521126.amp",
+      "publishedDateTime": "2022-11-22T15:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-23-baidu-benefits-from-online-advertising-recovery.md",
+      "title": "Baidu Benefits From Online Advertising Recovery",
+      "excerpt": "On Tuesday, the company also announced that Baidu was granted permission to conduct autonomous driving road test with an empty front row in Beijing. Apollo Go, Baidu's autonomous driving ride ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediapost.com/publications/article/380035/baidu-benefits-from-online-advertising-recovery.html",
+      "originalUrl": "https://www.mediapost.com/publications/article/380035/baidu-benefits-from-online-advertising-recovery.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2022/11/22/baiduhq_G7YnEj7.jpg",
+          "width": 600,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-22T14:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-22-identifying-landmarks-with-amazon-rekognition-custom-labels.md",
+      "title": "Identifying landmarks with Amazon Rekognition Custom Labels",
+      "excerpt": "Amazon Rekognition is a computer vision service that makes it simple to add image and video analysis to your applications using proven, highly scalable, deep learning technology that does not require machine learning (ML) expertise. With Amazon Rekognition, you can identify objects, people, text, scenes,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/identifying-landmarks-with-amazon-rekognition-custom-labels/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/identifying-landmarks-with-amazon-rekognition-custom-labels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/09/ML-3632-image001.jpg",
+          "width": 1192,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-22T13:04:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-11-23-om1-aims-to-improve-healthcare-outcomes-through-big-data-and-ai.md",
+      "title": "OM1 Aims To Improve Healthcare Outcomes Through Big Data And AI",
+      "excerpt": "Dr. Richard Gliklich has been working to improve the management of chronic conditions by analysing health outcomes data since 1999. He is the founder and CEO of OM1, a health outcomes and registries company focused on the measurement,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brucerogers/2022/11/22/om1-aims-to-improve-healthcare-outcomes-through-big-data-and-ai/",
+      "originalUrl": "https://www.forbes.com/sites/brucerogers/2022/11/22/om1-aims-to-improve-healthcare-outcomes-through-big-data-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637d3d820a7dd6c1d9817ef0/0x0.jpg?format=jpg&crop=2091,1176,x0,y282,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brucerogers/2022/11/22/om1-aims-to-improve-healthcare-outcomes-through-big-data-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucerogers/2022/11/22/om1-aims-to-improve-healthcare-outcomes-through-big-data-and-ai/amp/",
+      "publishedDateTime": "2022-11-22T12:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-11-23-ces-2023-robotics-innovation-award-winners-announced.md",
       "title": "CES 2023 robotics Innovation Award winners announced",
       "excerpt": "A quick look at the 2023 CES Innovation award winners in the robotics category covers a broad range of solutions that impact consumers.",
@@ -976,179 +1167,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-baidu-beats-revenue-expectations-despite-continued-covid-worries.md",
-      "title": "Baidu Beats Revenue Expectations Despite Continued Covid Worries",
-      "excerpt": "Baidu on Tuesday became the latest Chinese technology company to report a return to annual growth, as it beat expectations for its third-quarter revenue. Baidu (ticker: BIDU)—often referred to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/baidu-beats-revenue-covid-china-51669111455",
-      "originalUrl": "https://www.barrons.com/articles/baidu-beats-revenue-covid-china-51669111455",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-317647/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/baidu-beats-revenue-covid-china-51669111455",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/baidu-beats-revenue-covid-china-51669111455",
-      "publishedDateTime": "2022-11-22T02:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-ai-and-machine-learning-potential-advantages.md",
-      "title": "AI and Machine Learning potential advantages",
-      "excerpt": "AI and Machine Learning are helping businesses to remain competitive in their respective industries FREMONT, CA: As we progress into",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioapplications.com/news/ai-and-machine-learning-potential-advantages-nid-10347.html",
-      "originalUrl": "https://www.cioapplications.com/news/ai-and-machine-learning-potential-advantages-nid-10347.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cioapplications.com/newstransfer/upload/khmjzc2io450-308.jpg",
-          "width": 450,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T01:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO Applications",
-        "domain": "cioapplications.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-connection-between-gut-and-stroke-induced-cognitive-impairment-research.md",
-      "title": "Connection between gut and stroke-induced cognitive impairment: Research",
-      "excerpt": "The American Heart Association revealed that stroke patients are more likely to experience depression, which has a detrimental effect on functional and cognitive restoration. The Texas A&M team ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/lifestyle/health/connection-between-gut-and-stroke-induced-cognitive-impairment-research-101669090354820.html",
-      "originalUrl": "https://www.hindustantimes.com/lifestyle/health/connection-between-gut-and-stroke-induced-cognitive-impairment-research-101669090354820.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2022/11/22/1600x900/intelligence-g5b7c9b1ab_1920_1667638104502_1669090429688_1669090429688.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/lifestyle/health/connection-between-gut-and-stroke-induced-cognitive-impairment-research-101669090354820-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/health/connection-between-gut-and-stroke-induced-cognitive-impairment-research-101669090354820-amp.html",
-      "publishedDateTime": "2022-11-22T01:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-chinas-baidu-beats-q3-revenue-estimates-as-ad-sales-recover.md",
-      "title": "China's Baidu beats Q3 revenue estimates as ad sales recover",
-      "excerpt": "Baidu Core's non-online marketing revenue, an area including cloud and other AI businesses, grew by 25 per cent year on year to 6.5 billion yuan. The company has been focusing on self-driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/business/chinas-baidu-beats-q3-revenue-estimates-ad-sales-recover-3092551",
-      "originalUrl": "https://www.channelnewsasia.com/business/chinas-baidu-beats-q3-revenue-estimates-ad-sales-recover-3092551",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://onecms-res.cloudinary.com/image/upload/s--lD1uZzJ0--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-11-22t090727z_1_lynxmpeial09f_rtroptp_3_china-tech.jpg?itok=VYk1kTUw",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T01:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

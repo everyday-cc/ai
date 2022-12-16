@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Consulting Market 2023 : Production Capacity, Restring Drivers, Size and Landscape Outlook 2028"
+    excerpt: "Consulting Market \" Insights 2022 - By Applications (Technology Consulting,Management Consultin), By Types (, Strategy Development, Strategy Execution, Commercial Due Diligence, Customer Training), By Segmentation analysis,"
+    publishedDateTime: 2022-12-16T01:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-consulting-market-2023-production-capacity-restring-drivers-size-and-landscape-outlook-2028-2022-12-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI In Medical Imaging Market Size, Share, Growth, Revenue, Demand, Future opportunity, analysis and forecast till 2028"
     excerpt: "AI In Medical Imaging Market\" Research Report explains how the market growth has been unfolding over the recent past"
     publishedDateTime: 2022-12-14T10:35:00Z

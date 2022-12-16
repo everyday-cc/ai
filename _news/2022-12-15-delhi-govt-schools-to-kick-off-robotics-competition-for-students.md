@@ -59,6 +59,22 @@ related:
         width: 860
         height: 430
         isCached: true
+  - title: "Robotics competition kicked off for Delhi government school students"
+    excerpt: "A special robotics competition was kicked off today for Delhi government school students. By India Today Web Desk: According to a circular from the Directorate of Education (DoE), a special robotics competition is being started on Friday to foster excellence in the field among Delhi school children."
+    publishedDateTime: 2022-12-16T10:55:00Z
+    webUrl: "https://www.indiatoday.in/education-today/news/story/robotics-competition-kicked-off-for-delhi-government-school-students-2310029-2022-12-16"
+    ampWebUrl: "https://www.indiatoday.in/amp/education-today/news/story/robotics-competition-kicked-off-for-delhi-government-school-students-2310029-2022-12-16"
+    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/news/story/robotics-competition-kicked-off-for-delhi-government-school-students-2310029-2022-12-16"
+    type: article
+    provider:
+      name: India Today
+      domain: indiatoday.in
+    quality: 74
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202212/jelleke-vanooteghem-6nulohm40w8-unsplash-sixteen_nine.jpg?VersionId=q1ETy.V2ObyHT1nAmNcfRDHfT1U9NJdu"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Artificial intelligence: Delhi govt schools kick off era of robots with new competition"
     excerpt: "The era of robots begins now in government schools in Delhi. A robotics competition for students will kickstart from December 16, says a circular issued by the Directorate of Education (DoE). The inaugural function is being organised at a Delhi government school."
     publishedDateTime: 2022-12-14T23:02:00Z

@@ -234,6 +234,15 @@ related:
       name: Independent Online
       domain: iol.co.za
     quality: 15
+  - title: "Meet ChatGPT: The AI Chatbot That Can Write Code, Pass Exams, and Generate Business Ideas"
+    excerpt: "OpenAI's ChatGPT chatbot has advanced AI technology with its ability to generate original, human-like responses. However, there are significant ethical concerns to consider, including the potential for incorrect or fictitious answers and bias in decision-making."
+    publishedDateTime: 2022-12-16T11:00:00Z
+    webUrl: "https://www.aei.org/technology-and-innovation/meet-chatgpt-the-ai-chatbot-that-can-write-code-pass-exams-and-generate-business-ideas/"
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 10
 
 secured: "65LfT3w40UdDEJDINaFVltK+AquT2gkqNNSEMu/2ni4xSxqfxZS2qo6NlQcyHVW5UWorf0nOdlgNCnGSHqz9XSDt9Q0DHtO4lMpofZW3jmV1Z1BiOD8Sg/WxMZhZ6JxCiYGYb8HebUd7bYnUNwDNFRsJKMSoBz58mEmdd8/Fl8SExFpu1blScXRddJDSnLgm85omYDDxDGj4bCe4IhtrzR9nmGOq7YF1wqFi5Srejw4bIH+1PDxRTqC9uUODxJCD80BKfWwh2VgyuUCT/Hf/DGpz0MAgNWN9cKrGnrnHP9TaKpRj+0WPvpIQfT5De6y9jvRyV39E3wnUfT93Bb+sDa72/xPeqHsg/WV7AHnwte8=;ncGrAjQn7n7fNO4ziIqZ7g=="
 ---

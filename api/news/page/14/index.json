@@ -2,6 +2,205 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-12-02-government-introduces-digiyatra-facial-recognition-for-entry-into-airports-netizens-call-it-scary-and-dystopian.md",
+      "title": "Government Introduces ‘DigiYatra’ Facial Recognition For Entry Into Airports; Netizens Call It Scary And Dystopian",
+      "excerpt": "The Ministry of Civil Aviation of the Government of India, has now introduced ‘DigiYatra’, an initiative to make your travel swift and seamless. Flyers will only need to check in with facial recognition that will allow quick airport entry and pre-security check.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/42929/government-introduces-digiyatra-facial-recognition-for-entry-into-airports-netizens-call-it-scary-an",
+      "originalUrl": "https://in.mashable.com/tech/42929/government-introduces-digiyatra-facial-recognition-for-entry-into-airports-netizens-call-it-scary-an",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/cvc_gmmq.620.png",
+          "width": 619,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/42929/government-introduces-digiyatra-facial-recognition-for-entry-into-airports-netizens-call-it-scary-an?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/42929/government-introduces-digiyatra-facial-recognition-for-entry-into-airports-netizens-call-it-scary-an?amp=1",
+      "publishedDateTime": "2022-12-01T23:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "in.mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-electric-robot-tractors-powered-by-nvidia-ai-chips-are-here.md",
+      "title": "Electric robot tractors powered by Nvidia AI chips are here",
+      "excerpt": "It’s the Livermore, California-based startup ... its Jetson Xavier AI computer and the Isaac developer platform that helps companies develop and train autonomous robots. Many tractors out ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/12/1/23487910/nvidia-jetson-mk-v-electric-autonomous-monarch-tractor-delivery",
+      "originalUrl": "https://www.theverge.com/2022/12/1/23487910/nvidia-jetson-mk-v-electric-autonomous-monarch-tractor-delivery",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/CeQ4mrXfCoMxlViNFS8LBzgElJk=/0x0:1731x1193/1200x628/filters:focal(866x597:867x598)/cdn.vox-cdn.com/uploads/chorus_asset/file/24247347/NVIDIA_Jetson_Powers_Monarch_Tractor.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T21:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-transfer-learning-for-video-classification-with-movinet.md",
+      "title": "Transfer learning for video classification with MoViNet",
+      "excerpt": "MoViNets (Mobile Video Networks) provide a family of efficient video classification models, supporting inference on streaming video. In this tutorial, you will use a pre-trained MoViNet model to classify videos, specifically for an action recognition task ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/tutorials/video/transfer_learning_with_movinet",
+      "originalUrl": "https://www.tensorflow.org/tutorials/video/transfer_learning_with_movinet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/static/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T21:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-artificial-intelligence-ai-market-2023-is-flourishing-around-the-world-by-2026.md",
+      "title": "Artificial Intelligence (AI) Market 2023 Is Flourishing Around the World by 2026",
+      "excerpt": "Pre and Post Covid is Covered and Report Customization is Available. [131 Pages Report]\"Artificial Intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-2023-is-flourishing-around-the-world-by-2026-2022-12-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-2023-is-flourishing-around-the-world-by-2026-2022-12-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T20:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-12-02-san-francisco-police-defend-killer-robots-plan.md",
       "title": "San Francisco police defend 'killer robots' plan",
       "excerpt": "Police in San Francisco defended their potential use of killer robots on Thursday, insisting they would be a \"last resort\" and only for very dangerous situations. Detectives in the California city, where residents complain of a spike in crime,",
@@ -1018,187 +1217,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-yahoo-selects-aws-as-its-preferred-public-cloud-provider-for-its-ad-tech-business.md",
-      "title": "Yahoo Selects AWS as Its Preferred Public Cloud Provider for Its Ad Tech Business",
-      "excerpt": "Invent, Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Yahoo has selected AWS as its preferred public cloud provider for its advertising technology business Yahoo Ad Tech.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/12/01/9723025.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/12/01/9723025.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T08:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-how-the-collapse-of-sam-bankman-frieds-crypto-empire-has-disrupted-ai.md",
-      "title": "How the Collapse of Sam Bankman-Fried’s Crypto Empire Has Disrupted A.I.",
-      "excerpt": "Mr. Bankman-Fried and his colleagues spent more than $530 million to battle what they saw as the dangers of artificial intelligence. Now those efforts are reeling. Send any friend a story As a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/12/01/technology/sam-bankman-fried-crypto-artificial-intelligence.html",
-      "originalUrl": "https://www.nytimes.com/2022/12/01/technology/sam-bankman-fried-crypto-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/12/02/business/01ftx-ai-print1/00ftx-ai-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/12/01/technology/sam-bankman-fried-crypto-artificial-intelligence.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/01/technology/sam-bankman-fried-crypto-artificial-intelligence.amp.html",
-      "publishedDateTime": "2022-12-01T08:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-using-advanced-technology-and-analytics-to-fight-financial-crime.md",
-      "title": "Using Advanced Technology And Analytics To Fight Financial Crime",
-      "excerpt": "Financial services organizations increasingly are using advanced ... to increase efficiency in identifying suspicious activities. Among various analytics, machine learning (ML) has been particularly effective, as it can identify patterns of behavior ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/crowe/2022/12/01/using-advanced-technology-and-analytics-to-fight-financial-crime/",
-      "originalUrl": "https://www.forbes.com/sites/crowe/2022/12/01/using-advanced-technology-and-analytics-to-fight-financial-crime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/637cff7eadf891a4d51a9f12/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/crowe/2022/12/01/using-advanced-technology-and-analytics-to-fight-financial-crime/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/crowe/2022/12/01/using-advanced-technology-and-analytics-to-fight-financial-crime/amp/",
-      "publishedDateTime": "2022-12-01T08:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-is-the-gtx-1650-the-best-budget-gpu.md",
-      "title": "Is the GTX 1650 the best budget GPU?",
-      "excerpt": "Do I need a powerful GPU for Minecraft? One fact you should understand about Minecraft is that the CPU is actually the most important piece of hardware, if you don't want to spend a lot of money ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cclonline.com/article/2138/Guide/CCL-Gaming-PCs/Is-the-GTX-1650-the-best-budget-GPU-/",
-      "originalUrl": "https://www.cclonline.com/article/2138/Guide/CCL-Gaming-PCs/Is-the-GTX-1650-the-best-budget-GPU-/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cclonline.com/images/articles/2138_is-the-gtx-1650-the-best-budget-gpu-th.png",
-          "width": 500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T08:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cclonline",
-        "domain": "cclonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }
