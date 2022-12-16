@@ -44,7 +44,7 @@ related:
   - title: "Cobb Commission approves facial recognition contract for police department"
     excerpt: "Cobb commissioners agreed Tuesday to allow the Cobb County Police Department to enter a three-year contract with Clearview AI — a company that has come under fire for data privacy concerns — to utilize its face recognition software and access its database of 20 billion images worldwide."
     publishedDateTime: 2022-12-14T12:00:00Z
-    webUrl: "https://www.ajc.com/news/cobb-commission-approves-facial-recognition-contract-for-police-department/TROFRAPC7BDOPIOGL7OLV3D77I/?ecmp=cobbco"
+    webUrl: "https://www.ajc.com/news/cobb-commission-approves-facial-recognition-contract-for-police-department/TROFRAPC7BDOPIOGL7OLV3D77I/?amp;ecmp=cobb&amp;amp"
     type: article
     provider:
       name: Atlanta Journal-Constitution

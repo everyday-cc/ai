@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "EnCharge AI, a Chip Startup Born in Princeton Lab, Raises $21.7 Million"
-    excerpt: "EnCharge AI, a chip startup born at a Princeton University lab, on Wednesday said it raised $21.7 million as it looks to commercialize its computing technology that is designed to run artificial intelligence applications more efficiently."
-    publishedDateTime: 2022-12-14T14:14:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2022-12-14/encharge-ai-a-chip-startup-born-in-princeton-lab-raises-21-7-million"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
   - title: "EnCharge AI, a chip startup born in Princeton lab, raises $21.7 mln"
     excerpt: "EnCharge AI, a chip startup born at a Princeton University lab, on Wednesday said it raised $21.7 million as it looks to commercialize its computing technology that is designed to run artificial intelligence applications more efficiently."
     publishedDateTime: 2022-12-14T13:16:00Z
@@ -43,6 +34,20 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/9KmWDRJZNcepKm3ZrMb9-KLV0G8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X42T4SWYPZMTXKKXJ36W5F2OGY.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "EnCharge AI, a Chip Startup Born in Princeton Lab, Raises $21.7 Million"
+    excerpt: "EnCharge AI, a chip startup born at a Princeton University lab, on Wednesday said it raised $21.7 million as it looks to commercialize its computing technology that is designed to run artificial intelligence applications more efficiently."
+    publishedDateTime: 2022-12-14T14:14:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2022-12-14/encharge-ai-a-chip-startup-born-in-princeton-lab-raises-21-7-million"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 64
   - title: "AI chip startup EnCharge AI raises USD 21.7M to create an integrated stack for edge applications"
     excerpt: "EnCharge AI Inc. has announced a USD 21.7 million Series A funding round to support the creation of a semiconductor hardware"
@@ -78,24 +83,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "AI-Diagnostics Startup Altris AI Raises $1 Million To Prevent Blindness"
-    excerpt: "Altris AI has raised $1 million in a round led by Runa Capital to scale its AI-enabled eye care diagnostics solution. Altris AI, which is a US-based startup originally from Ukraine, is building solutions for the $58 billion global ophthalmology market."
-    publishedDateTime: 2022-12-14T14:41:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/12/14/9730396.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
-  - title: "AI-Diagnostics Startup Altris AI Raises $1 Million To Prevent Blindness"
-    excerpt: "Altris AI has raised $1 million in a round led by Runa Capital to scale its AI-enabled eye care diagnostics solution. Altris AI, which is a US-based startup originally from Ukraine, is building solutions for the $58 billion global ophthalmology market."
-    publishedDateTime: 2022-12-14T18:23:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/12/14/9730396.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
 secured: "RI9Dn+UZPGRPvm2s4mrUvdmFIkL1MrncWlVYcNthH4B9Bn6V4ybr+tJfuYPsO+N4JQ+UnxjOE7BK5RAQOyww5aGJzh+THzbEHgfo+2mRiYaYZDgV21sdyQQIsQ+NtmvWNAMMC39lukf+4VLnnvkFgB0TcqbjHYbKc8YTUNhTti5f6qFwBCPtojH7CArISRaiBI1hgvCRDsl49caPjopcA27UeEoWT4EirY621BYzm/ToozSkpvrynVBc4nlzBA9ASh+6vmwEkPX/dKskJjY95oxmX9S/b+tZBmr0Nm5GQnw5usdcep0XjE1BdjZwYa+zY60/GsXforSBrkaxNBHfioEYDW+LJz5DnhOcBgINK9v3O+hV1mAQh3C2mIAweJ9An+SwHPBn4SHpkE3DQ0/nQW/+xuiI/PaUteTrGiz8okc5fwER8SuUUJzp/l08lqDj+N11xuvAFvQc+Ylo+X5vjltZqb4BK4Gyjv3WtngUUQJ6Luto0+sHYwl1RTbJ6gQRzrW1DR0R5HGHwpGpSRQXYw==;RaOAI7roQoKnBmJlR4798Q=="
 ---

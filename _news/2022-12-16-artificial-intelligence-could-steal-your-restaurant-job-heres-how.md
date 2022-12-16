@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/artificial-intelligence-could-steal-your-
 ampWebUrl: "https://www.zdnet.com/google-amp/article/artificial-intelligence-could-steal-your-restaurant-job-heres-how/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-could-steal-your-restaurant-job-heres-how/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/bdcf8a7fc5583b41444768b0857c758bafb595a4/2020/03/23/bc89ffa7-bdfe-41e3-8ff1-adb3a9e28676/istock-1141493516.jpg?auto=webp&fit=crop&height=675&width=1200"
@@ -29,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "sr5RLsK5ylyYPciUY2nA4HQi9vIhQsRYFscHuzK0XV+PzN7IYCtPBOPxzvFoq0mURuws/6P62jLuj+g6IQSQtRlI3o4162lhaCkVyz0spE6w+jmUyT2hAREtxPwaXCIkbq/DWb5zOD6hUTrem8kmbN2nFV2KVNL7zhsh0E4jk4St2u55CZ4T6hEOJAhZQN/efYgG+K/5ubXNYfUDx9OK792Kmx3sU96dWZlT2s/Ujcx6wrnvdGRU6MbdYD2Cvu4zL+rezGUKRQ7c5pd2Upx6JgOGBPt+u4JLyyoJ36CjLBnj/Q+Fup3p+aEEn/dIHxPdbN47uXhJ7LBRBExa8rD5u/5Rpdkaol9XMCbJnpD0cn4=;jP6fkRle5NzeoGBTlug7vg=="
+secured: "WUqAzhblbvqW2v/yJXz7ZuWVqsIE2SHvoiB8Ax3+CJNzT66SrUd/gGfLcMJP2IAW/GG3Qo4Xz0AU7xpiZAGMoennMn7jDXv1CL5K9VnEueSzj+nKsq7F/E2xkJwWdnYYdkrXFiI1zIH/4DteFyDMUNSjq/oVwV1o1GQongg3uphu2TNNWnuHG9I269JRdqr+DmNIa+pzGjv82YaAtg+NoBUKPw4tOcSiVzNfli9vwNN7wjtt0ELgjvt5QV0g3m40a3Dnbnf1qU6eDqhgWnKQNuwRUeiRRpTQVQirEFmQqVbq55GAEiXJY0IDsalu26cHShxRlB6DptfqyWx6hmhtdd+Mb9SF91RtSAyecDS1S3XGAsWdwmwB/NLJn5ofc5zyWO+1sbu8EW05M/2eN5aYg/z3358gb9988Cq99XXxd5W3EQr5yd+YsvZzNbZDJwWxyyWe0maoWZYCF/IgEWSartw6Ud8PW7gOvKn85bAl9NjKu3OEQ6GBwSHJ+YzTxFQTYlfM0u1P4B9oee865pjOkA==;YbN8rrcqmehe7oCCpsuf0g=="
 ---
 

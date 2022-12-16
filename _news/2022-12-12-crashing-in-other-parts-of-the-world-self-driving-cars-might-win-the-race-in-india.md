@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Air India puts in place ethics governance structure to bolster ethics culture"
-    excerpt: "As per the internal document, the committee has the mandate to formalise ethics-related guidelines, approve policies and procedures related to ethics."
-    publishedDateTime: 2022-12-11T11:47:00Z
-    webUrl: "https://www.livemint.com/companies/news/air-india-puts-in-place-ethics-governance-structure-to-bolster-ethics-culture-11670759086812.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/air-india-puts-in-place-ethics-governance-structure-to-bolster-ethics-culture/amp-11670759086812.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/air-india-puts-in-place-ethics-governance-structure-to-bolster-ethics-culture/amp-11670759086812.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 71
-    images:
-      - url: "https://images.livemint.com/img/2022/12/11/600x338/Air_India_1670759160059_1670759160166_1670759160166.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "azYdh7FAHhTpbhqYc3JDorTimVDc6gqz4J+dgfHq2mU71KhiSS/rFe2lv3niP3kShUOWjk8SUYZCAiehzJDmSLxc37ojZ9MFAewwHhxVRKKOtyR4DG7Z/ZXikaOVKIWj1XWXc/e9GxEki+q7CkTQJIcXhertmOxS3mlW8J6WKaxVq3gJvFZQRig6rbYX5t3JyMtMQgLvz2pK9lpxwhnoHFQbUdINtJNBKUHLUyzw7M9rhGddPNlwzOkgOJ7aUvsiMawVv8nuL/ijPP3Aa/a92Rdcsqh0pkDZx4Kam6SZO/D6+0vciyz+ePRRmjkNMozdgQ38qDwSNM6Aw2XaJICkGOE5nVp8yhIG2tFMehm3vpsCJY3c3lcr+lUusWflU/QSWmBrXaHzsHsujggdTMf+e2+O2nqo0I2ReVkaNotwsc+DumTn/qeT52V0negzn37/DvlOiRyFKeKpvuzFvigZe7tkilIyzdUDQA7JUv+2sXFT/V3IOL85em+VUsVooVrqGr82KTxCWgfl4TKMfd+O3A==;gsH7Ex5+HdRw7jTa3/OwnQ=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.usnews.com/news/technology/articles/2022-12-14/encharg
 webUrl: "https://www.usnews.com/news/technology/articles/2022-12-14/encharge-ai-a-chip-startup-born-in-princeton-lab-raises-21-7-million"
 type: article
 quality: 64
-heat: 134
-published: true
+heat: -1
+published: false
 
 provider:
   name: U.S. News & World Report
@@ -31,7 +31,12 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 64
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/9KmWDRJZNcepKm3ZrMb9-KLV0G8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X42T4SWYPZMTXKKXJ36W5F2OGY.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "AI chip startup EnCharge AI raises USD 21.7M to create an integrated stack for edge applications"
     excerpt: "EnCharge AI Inc. has announced a USD 21.7 million Series A funding round to support the creation of a semiconductor hardware"
     publishedDateTime: 2022-12-15T15:13:00Z
@@ -80,24 +85,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "AI-Diagnostics Startup Altris AI Raises $1 Million To Prevent Blindness"
-    excerpt: "Altris AI has raised $1 million in a round led by Runa Capital to scale its AI-enabled eye care diagnostics solution. Altris AI, which is a US-based startup originally from Ukraine, is building solutions for the $58 billion global ophthalmology market."
-    publishedDateTime: 2022-12-14T14:41:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/12/14/9730396.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
-  - title: "AI-Diagnostics Startup Altris AI Raises $1 Million To Prevent Blindness"
-    excerpt: "Altris AI has raised $1 million in a round led by Runa Capital to scale its AI-enabled eye care diagnostics solution. Altris AI, which is a US-based startup originally from Ukraine, is building solutions for the $58 billion global ophthalmology market."
-    publishedDateTime: 2022-12-14T18:23:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/12/14/9730396.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
 secured: "jfjF3KwQQ0YboQLyh+NX2RDNz2bRKXWYz53LYw0rVG3AhNqQUPiGFabFD6ZumegLPM6mgZs288FvYDmMTbP4BClxVkKRJotJT5O2iRf2A8Af8HKoV0TdZxRgYT9SjLYkiPEqeeWFP97yu4B/Apqn+0WFUfPNIl6jWzMDGqfuyL3Ui4StTHRTs7/fpKzeGTjdtE+lkMAn/AIptpi0M0qOK7JEq9Uc1EkKkS49JH/uMYE525L4gIj551PDiTrbRd6mdOcSfk8wLll5acWBtYBe8k999wSYpkGy6ID4Ty2b5Cd59r2/2PzGMktXDKeHJDNDh4RXnJTWm8msPGTrEqmKxXNhog4YoWhon7T8P8rGp8U=;YPWRhgZPqxgCDpmEdX62cw=="
 ---

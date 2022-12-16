@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-stretch-of-the-imagination/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6397b655a8bf3d77e33405cd/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Becoming AI-first – How Banks Can Lead in the AI Revolution"
-    excerpt: "By Nischal Tanna, CEO and Founder of TransformHub Consumers today demand smarter, more convenient and safer ways to access, spend, save, and invest their money. Firms in the banking and financial services sector are compelled to up their game to meet these evolving needs and are increasingly turning to Artificial Intelligence (AI) to understand their"
-    publishedDateTime: 2022-12-13T21:05:00Z
-    webUrl: "https://www.globalbankingandfinance.com/becoming-ai-first-how-banks-can-lead-in-the-ai-revolution/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/becoming-ai-first-how-banks-can-lead-in-the-ai-revolution/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/becoming-ai-first-how-banks-can-lead-in-the-ai-revolution/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 76
-    images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/12/iStock-1030247680.jpg"
-        width: 750
-        height: 466
         isCached: true
   - title: "My Coach, Artificial Intelligence"
     excerpt: "The mobile coach is on the rise - accelerated by the Covid pandemic. AI is now omnipresent in training and health apps. And in professional sport and marketing? Is artificial intelligence increasingly playing a leading role here as well?"

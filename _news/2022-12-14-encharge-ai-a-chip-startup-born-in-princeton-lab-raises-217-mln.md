@@ -6,9 +6,9 @@ publishedDateTime: 2022-12-14T13:16:00Z
 originalUrl: "https://www.reuters.com/technology/encharge-ai-chip-startup-born-princeton-lab-raises-217-mln-2022-12-14/"
 webUrl: "https://www.reuters.com/technology/encharge-ai-chip-startup-born-princeton-lab-raises-217-mln-2022-12-14/"
 type: article
-quality: 64
-heat: -1
-published: false
+quality: 84
+heat: 134
+published: true
 
 provider:
   name: Reuters
@@ -21,6 +21,12 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://www.reuters.com/resizer/9KmWDRJZNcepKm3ZrMb9-KLV0G8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X42T4SWYPZMTXKKXJ36W5F2OGY.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "EnCharge AI, a Chip Startup Born in Princeton Lab, Raises $21.7 Million"
@@ -80,25 +86,7 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "AI-Diagnostics Startup Altris AI Raises $1 Million To Prevent Blindness"
-    excerpt: "Altris AI has raised $1 million in a round led by Runa Capital to scale its AI-enabled eye care diagnostics solution. Altris AI, which is a US-based startup originally from Ukraine, is building solutions for the $58 billion global ophthalmology market."
-    publishedDateTime: 2022-12-14T14:41:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/12/14/9730396.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
-  - title: "AI-Diagnostics Startup Altris AI Raises $1 Million To Prevent Blindness"
-    excerpt: "Altris AI has raised $1 million in a round led by Runa Capital to scale its AI-enabled eye care diagnostics solution. Altris AI, which is a US-based startup originally from Ukraine, is building solutions for the $58 billion global ophthalmology market."
-    publishedDateTime: 2022-12-14T18:23:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/12/14/9730396.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
-secured: "OYVo3p4iA5L76MU1agsWf8vOwYGv1Ez4HxTE6zofPoenCLu9wFeijd5rtgcf04VT9Iy1dVgwVxAmpfM4bXRDeZfvrJ6Ng31rbA/LV7zCJmadm3LwmmEDYeTL/jWJw9W6YfFrrwvNfQcMp3pkMb9Sy0t+08D8YvZpbWQbgqW58eDr+Ld6aPjQ5WV4wTLs9RwU2dmH2doD1w1HE2uu0+GnhgmoDDJOZ1m17Vd0R/CO9uqQhMd6MPuWDTby0oPCLahNX1jCsFRegpt7aQ80Hps6YojdqtwSjpboDlGo67s1iBo0Tv5c5M8BZYdnsfZcqLMij03vm33uCpFCX1/Xmm2oL5Vfdw/D9efaSa0K4p/IowQ=;PtFFtkFFkNqAJv60gLPqXQ=="
+secured: "zC2Wy2PP4uKAe83ZulNVBEiPP/qpSrO5wesfifPcEJQlP9myrv+KWlcuO+D6qFf/uUyUJthalsGdJ2rnAyGID5zuUqX5YSKBogIqQFkFTNXPRkdc5ziTB5G9oWyi42BnunTnym9+fFEGH8Zz9SFqHvED+cyVseUmMFOFlYeQV2kxzlNvnVqa8hMBzdc3Uc5vzIFTYe3sHLkGIaWkqDhfO1CWMiPNLQqdvZ8ldrI1WByywGqcQGGLNZd3uD5DIR+z8wlV+eZFOckmAF0pkEYo3uWsQ/WizHeGpq3JDCCnntRoh6fsMxbV+pX8OwaIfSTFGa44l5cfKzN9GsXkHTm4+zuXPLnx+WsJqh7p7uLjjsQ=;oSrsn60s0RjdupIGSzZWSw=="
 ---
 

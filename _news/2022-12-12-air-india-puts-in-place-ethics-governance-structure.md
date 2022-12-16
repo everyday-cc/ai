@@ -9,7 +9,7 @@ ampWebUrl: "https://www.outlookindia.com/business/air-india-puts-in-place-ethics
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/air-india-puts-in-place-ethics-governance-structure-news-244200/amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Air India puts in place ethics governance structure to bolster ethics culture"
-    excerpt: "As per the internal document, the committee has the mandate to formalise ethics-related guidelines, approve policies and procedures related to ethics."
-    publishedDateTime: 2022-12-11T11:47:00Z
-    webUrl: "https://www.livemint.com/companies/news/air-india-puts-in-place-ethics-governance-structure-to-bolster-ethics-culture-11670759086812.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/air-india-puts-in-place-ethics-governance-structure-to-bolster-ethics-culture/amp-11670759086812.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/air-india-puts-in-place-ethics-governance-structure-to-bolster-ethics-culture/amp-11670759086812.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 71
-    images:
-      - url: "https://images.livemint.com/img/2022/12/11/600x338/Air_India_1670759160059_1670759160166_1670759160166.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Crashing in Other Parts of the World, Self-driving Cars Might Win the Race in India"
     excerpt: "If we can get self-driving cars to work on Silk Board Junction—infamous for long traffic jams—in Bengaluru, it will work in the US, it will work in Europe, and it will work in the backyard of Elon Musk as well,"
     publishedDateTime: 2022-12-12T07:42:00Z
