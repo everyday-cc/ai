@@ -1,0 +1,19 @@
+---
+category: news
+title: "Anghami taps Mubert for 170k AI-generated football chants"
+excerpt: "A streaming service teaming up with an AI music startup to create “over 170k songs”? Sound the klaxons! But Anghami’s partnership with Mubert is, for now at least, very specific: they’re making AI-generated football songs."
+publishedDateTime: 2022-12-16T11:46:00Z
+originalUrl: "https://musically.com/2022/12/16/anghami-taps-mubert-for-170k-ai-generated-football-chants/"
+webUrl: "https://musically.com/2022/12/16/anghami-taps-mubert-for-170k-ai-generated-football-chants/"
+type: article
+
+provider:
+  name: Music Ally
+  domain: musically.com
+
+topics:
+  - AI
+
+secured: "WaacDHG010vIb6+GLnXVXZV5+zfq97nngi/38QKkESO6ktwmITbj6jumLIJVRnjHL+sQaTxkNzJmefVgzoDYePJRzYl6h/h+ngSWKmUBA2/T7LQiHu9LwqNL5Y5x+FE2IN3EXiaaIbUjEEiFZlCJCok/dNXsMVsbsNPLwBGaP/LSY/dzUHI3yzFJMl8I7DsEUlOA6/0OiWPf+POZ05p5/a2hblMxOETm/qb/Firg+Ib7R4UEHtA2SqdrKoogql6Jsubk6H3vkw143ll4VcGTwnoLP1xSlgwJ/+Xc1aNWTJlOACwy0cuqx8gwVjEo+PEHjqPQXrsjr4UaltEu+KZ/SKTQE5PZFr/wxBIdkGoVWdfJvdwbPt6ERHwSjcs9V7IY4vqoQBmeKiak29rRK2egw4XHlXsl++tA33ggys6lIwlW8Up/PeyONhiNsMlLX6zuOtKuTIOk8yUmZWVjgG7ANa6chhmaaPI4VT/3aAW9UmrDgaIGyVP7ZvasdYZL44o8htOa/TfwXZCVx7ZrxQqCpw==;DMctNmSpOV0D6jBiCU246Q=="
+---
+

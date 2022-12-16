@@ -1,0 +1,23 @@
+---
+category: news
+title: "Everlaw Wins Industry Awards for Groundbreaking AI in its Ediscovery Platform"
+excerpt: "Company Achieves Top Industry Rankings at G2 and IDCOAKLAND, Calif., Dec. 16, 2022 /PRNewswire/ -- Everlaw, the cloud-native investigation and"
+publishedDateTime: 2022-12-16T14:10:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/everlaw-wins-industry-awards-for-groundbreaking-ai-in-its-ediscovery-platform-1031977386"
+webUrl: "https://markets.businessinsider.com/news/stocks/everlaw-wins-industry-awards-for-groundbreaking-ai-in-its-ediscovery-platform-1031977386"
+type: article
+
+provider:
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+secured: "63Zsb3mFlfAZ2c18e5WrnG1IgAyFZNEHXUdaJKVpiB9W97WKDZPZF2YSF3YpQW2ECgbefbHn3VuTLu2/l1eT87Z6Cy9hSJF8n48u6dB+I5XLdL52epfyTsEdzA9qi1URAVgdQzqJ8zASNLN0creVjCSOdGAGygWuCAbPJ4muBQeaaKDIFjYvkQ/ALWcd/5Bbm/DQSqVPgoGwTcGFRHzlvTC5NKddq+4frb8788wC6AvwF2GRNshed3yEKIPsQZw1dx12wUJo+Ayyz9oHaHWzFRcLiRwyfumAnDxC1qgOFh+S5MbLxD2o85fpBTcY55n87H9D6qzsLqTKiiwlNh7rvBfQu6hFzdX+jPF+oErFwM13ji6S4Bm+AEYPkA0IV2ZWM6sp6iDdG/IArWhjvLVrq8aaDIx8syAuB/L5vbuAYRMQxkKRLYz/bLYy/CirJ/1xtSVhUOMAh3aItUjAvaNrbNoE6V89XBzyF1zkXL/vcDP5SorWDq0SeMjUyRd3CzkXjqy8gd7pdsnYgN8immUqOQ==;afaVUqrZzyKHN1pHIQcmOA=="
+---
+

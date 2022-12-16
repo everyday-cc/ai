@@ -19,6 +19,8 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://enterprisetalk.com/wp-content/uploads/2022/12/Key-Strategies-for-Ethical-and-Responsible-Use-of-Artificial-Intelligence.jpg"
@@ -37,6 +39,6 @@ related:
       domain: radio.gov.pk
     quality: 34
 
-secured: "D82rMRsIlZ+37rovAT2MkRPtvU7qJBpSZovwU4pjIdBMxfNCLv7sv34YDONhbzDdbnhAzM8bbH4N2zfWXiRMUkuRX1G+7VKN8vAM6SwczJnao5dzGsPDa5tb7cSkWAzSy82AnbDVOoVGD9OL8aKDxut/Xm1hCo511JZ2/WZXdnoHHmDm6ClUVQLNFWJFEbOYBSnBHDsq374XGyovC+ztU9dlL/3fKNwDb4IfOC31bj0RRIXlY1Cy2obeJ+UO2ETJ1bCxvJdi3RKE6A99JUPcwGcRCsp4oMQcT9+4tqjSZuxCIVsqdqau2KLfw2Gw8RAODd2wF4ndd0DfmL+dtwqGFjozI/pAVvF27fvnp/K4z5w=;VeCJ3XmUcWsfs0NAqvw1Yg=="
+secured: "QugU0RlGWIJyRFbC0BPdO78r8isbyLGVsefl+O9ujEn7NFedZyuOiRri+NtX4VFeiiVeMJns1o2YhlYiulA+WaUkSjOkxkW0I9RAfHSG9OhdtF7fK9WVVWOeE5nJaFbJFoBQmaGTvfFu3RIPD133R0juVUHZPuSTQQmxy5zLJtfQZFBCNLFkxHUDxz3NMzK4zkBKsBD3C0W1ntotiBSk/d1ez3U6Sjyh4PRK+G7rEV3RPGXPY1Urz/+ck1meYjT7tx1dB6Pxd+Q+GRNUy1d0Kp/4JFjWs7HWc9ievFq5/aWiQl5GqxgjI96ibTgUQ8+l4vpVm0zBxnqezypDBRQ8by/LbYkysM2NhwSeuwOWdq9ynhcawZoRyPiKNSqqsc5W/hIKoc2ULVvodb7QUacwt4ZC0WJ4PfweUkOdsEJ+8Yf/MDERwkRwpfUmR0MaT/13wj6k7wigkk1vvzjh+xguTSo3Ms0eeSrrZ0lV+JNYS8QPCsaDx/YDcgaRQQ9Q3+S6w8o836VmhaQvzez56435TQ==;4ybsoP8CkU97Erv5ynyxdQ=="
 ---
 
