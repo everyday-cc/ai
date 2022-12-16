@@ -28,29 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Microscopy Market 2023 Is Flourishing Around the World by 2028 | 123 Pages Report"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2022-12-12T03:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-microscopy-market-2023-is-flourishing-around-the-world-by-2028-123-pages-report-2022-12-11"
+  - title: "The global GPU as a Service market is anticipated to expand significantly over the projected period of 2022 to 2028."
+    excerpt: "The market research report of the \" GPU as a Service market \" showcases the strategic analysis of the GPU as a Service market. The research report also highlights the contribution of the GPU as a Service market in the development of various businesses and brands."
+    publishedDateTime: 2022-12-12T12:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-global-gpu-as-a-service-market-is-anticipated-to-expand-significantly-over-the-projected-period-of-2022-to-2028-2022-12-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Data Science and Machine-Learning Platforms Market Analysis Highlighting Opportunities and Development Status During 2023-2026"
-    excerpt: "Pre and Post Covid Report is Covered | Final Report will add the analysis of the impact of Russia-Ukraine War and"
-    publishedDateTime: 2022-12-12T04:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-analysis-highlighting-opportunities-and-development-status-during-2023-2026-2022-12-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

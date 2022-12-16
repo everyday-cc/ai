@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-09-30-driverless-delivery-vans-market-trends-key-players-drot-analysis-forecast-till-2028.md",
+      "title": "Driverless Delivery Vans Market Trends, Key Players, DROT, Analysis & Forecast Till 2028",
+      "excerpt": "The driverless delivery vans market is driven by the favorable initiatives and legislation by the governments across the world for self-driving",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/driverless-delivery-vans-market-trends-key-players-drot-analysis-forecast-till-2028-2022-09-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/driverless-delivery-vans-market-trends-key-players-drot-analysis-forecast-till-2028-2022-09-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-30T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-30-tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work.md",
       "title": "Tesla AI Day 2022: How to Watch Elon Musk's Optimus Robot, Self Driving Car Work",
       "excerpt": "There, too, Tesla developed custom AI chips. \"Tesla's inference engine is among the best in performance..., giving them a real advantage,\" said Keith McMillen, CEO of BeBop Sensors, a startup designing touch sensors robots can use. FSD, short for Full ...",
@@ -1343,41 +1386,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-artificial-intelligence-in-marketing-global.md",
-      "title": "Artificial Intelligence In Marketing Global...",
-      "excerpt": "Dublin, Sept. 22, 2022 (GLOBE NEWSWIRE) -- The \"Artificial Intelligence In Marketing Global Market Report 2022\" report has been added to ResearchAndMarkets.com's offering. The global artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/g28960230/artificial-intelligence-in-marketing-global-market-report-2022-increasing-adoption-of-virtual-assi",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/g28960230/artificial-intelligence-in-marketing-global-market-report-2022-increasing-adoption-of-virtual-assi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28960230",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28960230",
-      "publishedDateTime": "2022-09-22T02:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

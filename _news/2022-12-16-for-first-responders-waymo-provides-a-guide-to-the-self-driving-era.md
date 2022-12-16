@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Ticker: Phoenix airport offers self-driving ride service; Wall Street slumps"
+    excerpt: "As Phoenix gets ready to host the Super Bowl, Mayor Kate Gallego announced Friday that Sky Harbor International Airport will be the first to offer the self-driving ride-hailing service Waymo."
+    publishedDateTime: 2022-12-16T21:34:00Z
+    webUrl: "https://www.bostonherald.com/2022/12/16/ticker-phoenix-airport-offers-self-driving-ride-service-wall-street-slumps/"
+    ampWebUrl: "https://www.bostonherald.com/2022/12/16/ticker-phoenix-airport-offers-self-driving-ride-service-wall-street-slumps/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2022/12/16/ticker-phoenix-airport-offers-self-driving-ride-service-wall-street-slumps/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 56
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2022/12/AP22350701095460.jpg?w=1024&h=683"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "7RsfuZjvzt5H2Ca2hSYPi1UYnPBI2mWLBAppJYihxomB+Hokx6zXCPElO7Iu891tUhQyjAO2/eknwaG+SHRW1cIki4o3/9omTB4jrl0LmX2Luv+A8BxhTBRlfZ+lWljfJxr8/YmR9IpgnfTxas+SKJXsqL6QxRlFH6h2Egx4clZ94OEkVb7fSDy3ODgarC8yzV5NT9L8DaNSUdW/LTfJfpoBoLiacCiCZksEh7m0gyV6+idapx0F0HwrAWQ3GcqElGyNSjJVqou4NV/APCs+SCXNFYYo5nt/6M58v2F3QFhVQX/aeASsMUDjHOHCGFbmeetItjQ2TbQ4R4ERqN0UgbA6AtfuJglZIgZGVvYAUqU=;GPd2g5X0u6U1Pgi6oE5aZQ=="
 ---

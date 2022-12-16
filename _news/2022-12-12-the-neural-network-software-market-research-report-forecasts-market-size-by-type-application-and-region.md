@@ -71,6 +71,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Education Market 2022 : Profiling Key Players, Value Estimation and Analysis by Recent Trends to 2028"
+    excerpt: "\"Artificial Intelligence (AI) in Education Market\" Insights 2022 - By Applications (Virtual Facilitators and Learning Environments, Intelligent Tutoring Systems, Content Delivery"
+    publishedDateTime: 2022-12-16T01:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-2022-profiling-key-players-value-estimation-and-analysis-by-recent-trends-to-2028-2022-12-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
   - title: "AI In Medical Imaging Market Size, Share, Growth, Revenue, Demand, Future opportunity, analysis and forecast till 2028"
     excerpt: "AI In Medical Imaging Market\" Research Report explains how the market growth has been unfolding over the recent past"
     publishedDateTime: 2022-12-14T10:35:00Z

@@ -30,13 +30,13 @@ images:
 
 related:
   - title: "TRANSLATED SRL: The Speed of Progress Towards Singularity in AI Measured for the First Time With Data From Machine Translation Quality Improvements"
-    excerpt: "Many AI researchers believe that solving the language translation challenge is equivalent to producing Artificial General Intelligence (AGI). The evidence Translated has provided about reducing the gap between what expert human translators and an optimized machine translation system can produce is quite possibly the most compelling evidence of success at scale seen in both the MT and AI community."
-    publishedDateTime: 2022-12-13T17:11:00Z
-    webUrl: "https://www.afp.com/en/news/1313/translated-srl-speed-progress-towards-singularity-ai-measured-first-time-data-machine-translation-quality-improvements-202212130058221"
+    excerpt: "Many A researchers believe that solving the language translation challenge is equivalent to producing Artificial General Intelligence (AGI). The evidence Translated has provided about reducing the gap between what expert human translators and an optimized machine translation system can produce is quite possibly the most compelling evidence of success at scale seen in both the MT and AI community."
+    publishedDateTime: 2022-12-13T17:12:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/12/13/9729759.htm"
     type: article
     provider:
-      name: AFP
-      domain: afp.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 11
 
 secured: "h6R4mBsMuRnnWSGjXK4z1MD9+9l8Dfl4LpNrxitP+XgmKGTkDjgywE2slD4olh7gs/G/MIloWkAWeQN5Xlm+Ma9ombtSHyZjJWjhllcTyJxT9xTFd2eRT3XWL4mhPZR6V+yALdviabONoyJa5zB/lqH7+FAH03+brecacBvM46pTeLoC2uQA9PGvAaTbEZ/m+Ob/WHzI4usaHnNNnAdOCesLaJrUqa3UhuDiAijpHgDULLk3tG1g7zC3h7Nkk+Howx6TduEuw9/myuDYrL0NY/hEqZeMZON+SzFINaxCUY2U0sr8K/tKfVQnszSWR4C6tWAyCVeT0fU3vz3qQ/W01afrct3cabTU57cKbAx3ZnU=;3abExfeOE6cwvSFDGs+Ctw=="

@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence (AI) in Supply Chain and Logistics Market 2022 : Regional Scope, Growth Statistics, Demand and Regional Outlook 2028"
-    excerpt: "\"Artificial intelligence (AI) in Supply Chain and Logistics Market\" Insights 2022 - By Applications (Inventory control and planning, Transportation network design, Purchasing and supply management, Demand planning and forecasting,"
-    publishedDateTime: 2022-12-12T04:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-2022-regional-scope-growth-statistics-demand-and-regional-outlook-2028-2022-12-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Trading Market Provides an In-Depth Insight of Trends and Landscape Outlook 2023-2028"
     excerpt: "Artificial Intelligence in Trading Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2028. Artificial Intelligence in Trading Market Research Report is spread across 105 Pages and provides exclusive data,"
     publishedDateTime: 2022-12-14T13:44:00Z
@@ -46,6 +32,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Fashion market research report by market watch provides you with social, economic, and global growth opportunities."
+    excerpt: "The global AI in Fashion market size is projected to reach multi million by 2028, in comparision to 2021, at unexpected CAGR during 2022-2028 (Ask for Sample Report). A complete analysis of significant growth strategies,"
+    publishedDateTime: 2022-12-14T20:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fashion-market-research-report-by-market-watch-provides-you-with-social-economic-and-global-growth-opportunities-2022-12-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

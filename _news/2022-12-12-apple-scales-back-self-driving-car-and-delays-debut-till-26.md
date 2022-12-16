@@ -95,6 +95,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Crashing in Other Parts of the World, Self-driving Cars Might Win the Race in India"
+    excerpt: "If we can get self-driving cars to work on Silk Board Junction—infamous for long traffic jams—in Bengaluru, it will work in the US, it will work in Europe, and it will work in the backyard of Elon Musk as well,"
+    publishedDateTime: 2022-12-12T07:42:00Z
+    webUrl: "https://analyticsindiamag.com/crashing-in-other-parts-of-the-world-self-driving-cars-might-win-the-race-in-india/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 18
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/The-moral-dilemma-of-embedding-ethics-into-autonomous-vehicles.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "VpRt3SbphesXmh0AnAh9mEl3jPEzzuavnZQV3BTw2RR3G/3OIQ+DQMUIa9tLjIBvUJU+gdCfbPkU7I/BUpMdYK6e2lZdUhMnnA7vwapMu9o7iR+orysH58d2ty6yX6QGdFXWIllEWlDTJgkx98fcyDtFexjfYd/0ofF1bz9iWGZm3qIL2EGmXJGXRKClrBAq+Xu9reEYxrFhQ/EcJSqUS93FNEUdMZEcodj6JiAFSQ1Dt/6ebM/LaoRmDJsW/CwaRJMVsieFDyDVV9GEbkw2i/jkvASRCoPa7ZDrgS6YsYeFBTZ/hZMoBIFacmcoDLFih/uEXCKCUpHoJQuTg4DnrTmOAGa1Z4rFBrAe001Kk7+MXa2VZGpTCccyXOcxmt31+hZGofPVMBoOUOmhaUILKV/wzyr8oWyguL8fAXx232rMt0GSGAGFNS0U3NJLPjdQvK4MmcV2u+PZeklYlkYaGc4T9qJbdVepYwbSfWerrDDpvFP1uWfeWcQlfYnG5c7DRxzaWfm+WKWS93xcPLtL7w==;0az+t1wayNA/8ysybyhZ+w=="
 ---

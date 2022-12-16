@@ -59,6 +59,22 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Facial recognition system unmasks privacy concerns"
+    excerpt: "CHENNAI: The Chennai police’s use of the Facial Recognition System (FRS) in recent times has raised questions of legality and concerns of data privacy from politicians and experts. This comes after a man took to the social media platform Twitter on December 8,"
+    publishedDateTime: 2022-12-16T21:02:00Z
+    webUrl: "https://www.newindianexpress.com/states/tamil-nadu/2022/dec/17/facial-recognition-system-unmasks-privacy-concerns-2528937.html"
+    ampWebUrl: "https://www.newindianexpress.com/states/tamil-nadu/2022/dec/17/facial-recognition-system-unmasks-privacy-concerns-2528937.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/tamil-nadu/2022/dec/17/facial-recognition-system-unmasks-privacy-concerns-2528937.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/11/20/w600X390/cyber_security.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "Indian police use of facial recognition in Chennai may violate privacy: Project Panoptic"
     excerpt: "The use of face biometric technologies by police forces to identify people on the streets may clash with a Supreme Court judgment on privacy."
     publishedDateTime: 2022-12-13T00:20:00Z

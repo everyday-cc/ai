@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-26-the-best-black-friday-robot-vacuum-and-smart-home-deals.md",
+      "title": "The best Black Friday robot vacuum and smart home deals",
+      "excerpt": "Going from zero to a fully outfitted smart home is a huge undertaking — and it can get expensive fast. While we don't recommend grabbing every possible smart home device in one go, Black Friday makes smartening up areas of your home a lot easier on your wallet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/the-best-black-friday-robot-vacuum-and-smart-home-deals-161542090.html",
+      "originalUrl": "https://www.engadget.com/the-best-black-friday-robot-vacuum-and-smart-home-deals-161542090.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/b8640800-6abd-11ed-bfee-1c74ea8ab846",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/the-best-black-friday-robot-vacuum-and-smart-home-deals-161542090.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-best-black-friday-robot-vacuum-and-smart-home-deals-161542090.html",
+      "publishedDateTime": "2022-11-25T08:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-26-shark-prime-day-deal-save-250-off-av2501ae-robot-vacuum-with-xl-hepa-self-empty-base.md",
       "title": "Shark Prime Day Deal: Save $250 Off AV2501AE Robot Vacuum with XL HEPA Self-Empty Base",
       "excerpt": "Several Shark robot vacuum cleaners empty themselves. Here’s everything you need to know if you’re trying to figure out which vacuum cleaner is right for you. We’ll start with the AI robot ...",
@@ -1390,40 +1442,6 @@
       "provider": {
         "name": "Seeking Alpha",
         "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-amp-robotics-establishes-new-headquarters-in-louisville.md",
-      "title": "AMP Robotics establishes new headquarters in Louisville",
-      "excerpt": "DENVER--(BUSINESS WIRE)--AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has opened its new corporate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20221116005337/en/AMP-Robotics-establishes-new-headquarters-in-Louisville",
-      "originalUrl": "https://www.businesswire.com/news/home/20221116005337/en/AMP-Robotics-establishes-new-headquarters-in-Louisville",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "newsroom.businesswire.com",
-        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

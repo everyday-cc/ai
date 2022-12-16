@@ -67,6 +67,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Tesla reportedly claims its failure to deliver self-driving cars isn’t fraud"
+    excerpt: "Tesla has come under fire once again for its controversially named Full Self-Driving driver-assist feature. Despite what the name alludes to, FSD doesn’t enable a car to drive on its own."
+    publishedDateTime: 2022-12-16T13:27:00Z
+    webUrl: "https://fox8.com/automotive/internet-brands/tesla-reportedly-claims-its-failure-to-deliver-self-driving-cars-isnt-fraud/"
+    type: article
+    provider:
+      name: FOX8 Cleveland
+      domain: fox8.com
+    quality: 31
 
 secured: "ypoVUabVVk9LFmpVKwpa2YRM0y+TnQPbiblYHfdg0W6ggnCx7R/XS9Z/lL+NAHdMPiaF5zAXlTyFQ+UBc/kZYol9tLfEZVb1g6wEwWVCf4/UWCeisZZKNvvSlQZHQzr4VFzjPmzMumB8sjqlyuFxyyWL5kGJQ3Odq3AUyMrABsnNAsZlmxWDcaVASPztUB77eOYP6gALd0XXWxIJDLM08KagiLS6rIp9lI6hC1dfODZ1DBWFD/GRFmRsXDe4j6A3D193kq6vgDt3+6K7y/mcvHMLj8yAt3dOtF9K3d4Gba0o+ErVDbP1ozWxl6q9qxYfLLtEdOGm2O2s1kEdXmw0wL8quWDHXwRBptTwTFk1e99szsak0RUzeQ5E2YwfnwXSG+oTBzvBtoPNESgEt77eJty4y+Y0H9zYI6DFYW7nEZliaXNp7IIp84/94iL23HgUMjfjHfyG13VkCr0nnRWgAerZKe9g2y0IJx+W1OEuNDnI9WBbz7AolygTYI8K6epM2yjSfvxrZ958oYPIdq0dfQ==;Mt9WKfc+e/4NfB13AdKAVQ=="
 ---

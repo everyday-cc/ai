@@ -2,6 +2,208 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-12-02-we-will-see-a-completely-new-type-of-computer-says-ai-pioneer-geoff-hinton.md",
+      "title": "We will see a completely new type of computer, says AI pioneer Geoff Hinton",
+      "excerpt": "Analog computers marrying AI software closely to hardware will put GPT-3 in your toaster for $1 running on a few watts of power.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/we-will-see-a-completely-new-type-of-computer-says-ai-pioneer-geoff-hinton-mortal-computation/",
+      "originalUrl": "https://www.zdnet.com/article/we-will-see-a-completely-new-type-of-computer-says-ai-pioneer-geoff-hinton-mortal-computation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0a19bb566649fd8d18c2b36ca0198795889b9026/2022/12/01/ddffbe4b-cb5f-4c65-a47a-498fb4190ac2/geoff-hinton-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/we-will-see-a-completely-new-type-of-computer-says-ai-pioneer-geoff-hinton-mortal-computation/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/we-will-see-a-completely-new-type-of-computer-says-ai-pioneer-geoff-hinton-mortal-computation/",
+      "publishedDateTime": "2022-12-01T16:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-now-ai-can-outmaneuver-you-at-both-stratego-and-diplomacy.md",
+      "title": "Now AI can outmaneuver you at both Stratego and Diplomacy",
+      "excerpt": "Stratego and Diplomacy were human-dominated, but now AI has become table-flipping good at one and passably human at the other.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/12/01/now-ai-can-outmaneuver-you-at-both-stratego-and-diplomacy/",
+      "originalUrl": "https://techcrunch.com/2022/12/01/now-ai-can-outmaneuver-you-at-both-stratego-and-diplomacy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/12/deepmind-stratego-j.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/12/01/now-ai-can-outmaneuver-you-at-both-stratego-and-diplomacy/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/01/now-ai-can-outmaneuver-you-at-both-stratego-and-diplomacy/amp/",
+      "publishedDateTime": "2022-12-01T16:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-artificial-intelligence-in-education-market-research-2022-growth-trends-outlook-and-future-scope-analysis-2030.md",
+      "title": "Artificial Intelligence in Education Market Research 2022 – Growth, Trends, Outlook and Future Scope Analysis 2030",
+      "excerpt": "Dec 02, 2022 (Heraldkeepers) -- The global Artificial Intelligence in Education market report provides geographic analysis covering regions, such as North America, Europe, Asia-Pacific ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-research-2022-growth-trends-outlook-and-future-scope-analysis-2030-2022-12-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-research-2022-growth-trends-outlook-and-future-scope-analysis-2030-2022-12-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Education",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-netscout-announces-interoperability-of-omnis-cyber-intelligence-with-amazon-security-lake.md",
+      "title": "NETSCOUT Announces Interoperability of Omnis Cyber Intelligence with Amazon Security Lake",
+      "excerpt": "NETSCOUT SYSTEMS, a leading provider of cybersecurity, service assurance, and business analytics solutions, announced the successful interoperability of Omnis™ Cyber Intelligence (OCI) with Amazon Security Lake,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thefastmode.com/technology-solutions/29259-netscout-announces-interoperability-of-omnis-cyber-intelligence-with-amazon-security-lake",
+      "originalUrl": "https://www.thefastmode.com/technology-solutions/29259-netscout-announces-interoperability-of-omnis-cyber-intelligence-with-amazon-security-lake",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thefastmode.com/media/k2/items/src/36612b52014decb243e4df20b5abe8af.jpg?t=20221202_054038",
+          "width": 752,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deep",
+        "domain": "thefastmode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-12-02-playing-the-piano-boosts-brain-processing-power-and-helps-lift-the-blues.md",
       "title": "Playing the piano boosts brain processing power and helps lift the blues",
       "excerpt": "A randomized control trial led by psychologists shows the positive effects learning to play music for just a few weeks has on cognitive abilities. A new study published by researchers at the ...",
@@ -996,171 +1198,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-domo-joins-the-amazon-sagemaker-ready-program.md",
-      "title": "Domo Joins the Amazon SageMaker Ready Program",
-      "excerpt": "Domo (Nasdaq: DOMO) announced it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner software solutions that are validated by Amazon Web Services (AWS) Partner Solutions Architects to integrate with Amazon SageMaker.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/12/01/9723034.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/12/01/9723034.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T06:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-targeting-ai-and-computer-vision-innodisk-launches-new-camera-module-series.md",
-      "title": "Targeting AI and computer vision, Innodisk launches new camera module series",
-      "excerpt": "Industrial-grade storage and embedded peripherals developer Innodisk recently announced its shift toward the artificial intelligence (AI) industry. As 50% of Innodisk's AI development is related to image recognition,",
-      "sourceUrl": null,
-      "webUrl": "https://electronics360.globalspec.com/article/18977/targeting-ai-and-computer-vision-innodisk-launches-new-camera-module-series",
-      "originalUrl": "https://electronics360.globalspec.com/article/18977/targeting-ai-and-computer-vision-innodisk-launches-new-camera-module-series",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electronics360.globalspec.com/images/assets/977/18977/61340_Innodisk_Launches_New_Camera_Module.jpg",
-          "width": 700,
-          "height": 245,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "electronics360.globalspec",
-        "domain": "globalspec.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-first-minister-speech-disrupted-by-gender-recognition-protester.md",
-      "title": "First Minister speech disrupted by gender recognition protester",
-      "excerpt": "The woman who interrupted the First Minister's speech said the change in law would ... that the request not to discuss the Gender Recognition Reform Bill was made by the First Minister or officials.",
-      "sourceUrl": null,
-      "webUrl": "https://www.heraldscotland.com/politics/23159210.first-minister-speech-disrupted-gender-recognition-protester/?ref=twtrec",
-      "originalUrl": "https://www.heraldscotland.com/politics/23159210.first-minister-speech-disrupted-gender-recognition-protester/?ref=twtrec",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.heraldscotland.com/resources/images/16138459/?type=og-image",
-          "width": 945,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T04:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "heraldscotland",
-        "domain": "heraldscotland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-artificial-intelligence-ai-in-precision-farming-market-demand-and-growth-analysis-report-2022-2028-microsoft-ibm.md",
-      "title": "Artificial Intelligence (AI) in Precision Farming Market Demand and Growth Analysis Report 2022-2028 | Microsoft, IBM",
-      "excerpt": "Artificial intelligence (AI) plays an important role in precision farming, helping farmers make better decisions to optimize their crops and operations. AI can be used to gather data from the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-precision-farming-market-demand-and-growth-analysis-report-2022-2028-microsoft-ibm",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-precision-farming-market-demand-and-growth-analysis-report-2022-2028-microsoft-ibm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://xherald.com/wp-content/uploads/2022/12/Artificial-Intelligence-AI-in-Precision-Farming-Image1-1.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T03:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

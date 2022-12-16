@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-16T20:52:00Z
 originalUrl: "https://executivegov.com/2022/12/iarpa-to-hold-proposers-day-on-analytics-intelligence-program/"
 webUrl: "https://executivegov.com/2022/12/iarpa-to-hold-proposers-day-on-analytics-intelligence-program/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Executive Gov

@@ -85,6 +85,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Education Market 2022 : Profiling Key Players, Value Estimation and Analysis by Recent Trends to 2028"
+    excerpt: "\"Artificial Intelligence (AI) in Education Market\" Insights 2022 - By Applications (Virtual Facilitators and Learning Environments, Intelligent Tutoring Systems, Content Delivery"
+    publishedDateTime: 2022-12-16T01:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-2022-profiling-key-players-value-estimation-and-analysis-by-recent-trends-to-2028-2022-12-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
   - title: "Facial Recognition Phone Market 2023-Industry Analysis, Size, Share, Trends, Market Demand, Growth, Opportunities and Forecast 2028"
     excerpt: "The global Facial Recognition Phone Market size, revenue, distinct categories, drivers of development, sources"
     publishedDateTime: 2022-12-13T07:56:00Z

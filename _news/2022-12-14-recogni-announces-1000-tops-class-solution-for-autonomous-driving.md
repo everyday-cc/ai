@@ -24,6 +24,22 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "NEC Corp. Announces VP of Operations for Advanced Recognition Business"
+    excerpt: "Irving-based NEC Corp. of America announced Carmelo Lisciotto has joined the company as Vice President of Operations for its Advanced Recognition Systems business. A leading provider and integrator of advanced IT,"
+    publishedDateTime: 2022-12-16T22:53:00Z
+    webUrl: "https://dallasinnovates.com/nec-corp-announces-vp-of-operations-for-advanced-recognition-business/"
+    type: article
+    provider:
+      name: Dallas Innovates
+      domain: dallasinnovates.com
+    quality: 24
+    images:
+      - url: "https://s24806.pcdn.co/wp-content/uploads/2022/10/300_x_250_dallas_innovates_sponsor_campaign1-1.png"
+        width: 300
+        height: 250
+        isCached: true
+
 secured: "fddBmV65pCc4eOCED+18LIXcYvXWD7bscnMmQs08sbUzj74QqtONRnmSKcu/RQC9FDcBY03R5HwwEQTGtdWF1UZzkROeSVq2aqqiVkVkKykcBWfRS+RPdj2Y/cRsxDd9vXjl4jpzScG+YaFLKj1wsEW2+2aYSFmACjl/KhG61xomkgl3xUN73ISpMas9v6R2F2ODBqfGeaGl1Ub7g8EMkCwhUEop+Zn0XH1LThDJ/taNmkZTXxB+a1/3YaopupAPKyOtB2FBGBEHaJrzTW2hYkSZWVOXCyIyLpu4JmLBzAU+47/lYWn2TvAEcsg8t+C5l9J4+agtjYt9MQCTusiUrcDElA2mY72migcVXAAk+z8=;m5kRARuqwb6wGUAGlZ7dJA=="
 ---
 

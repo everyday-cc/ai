@@ -3,9 +3,12 @@ category: news
 title: "Why Technology Alone Can't Solve AI's Bias Problem"
 excerpt: "Engineers designed \"fair-ranking algorithms\" to prevent artificial intelligence from marginalizing certain groups. While these tools help, research by Himabindu Lakkaraju finds that they can't completely override the most stubborn source of bias: people."
 publishedDateTime: 2022-12-16T16:25:00Z
-originalUrl: "https://hbswk.hbs.edu/item/why-technology-alone-cant-solve-ais-bias-problem?cid=wk-rss"
-webUrl: "https://hbswk.hbs.edu/item/why-technology-alone-cant-solve-ais-bias-problem?cid=wk-rss"
+originalUrl: "https://hbswk.hbs.edu/item/why-technology-alone-cant-solve-ais-bias-problem"
+webUrl: "https://hbswk.hbs.edu/item/why-technology-alone-cant-solve-ais-bias-problem"
 type: article
+quality: 39
+heat: -1
+published: false
 
 provider:
   name: Harvard Business School
@@ -15,6 +18,46 @@ topics:
   - AI Ethics
   - AI
 
-secured: "GnKcDRShtTDIJERce47i+siug8gd6463Rh/OxZ0OimKK4iUWLC6p5xy3aYNxiG4NSSPHZUQSR/lP8yxck4WBIyJBeldlonMhk345WZxzmKQtP2rG7ugUzBl+xzSGhYgQewPTnxcEBDKm3hJopLtpglIKA8maQyBqbvdDxrctPQ6wm8NE8rgG07b5LLMapJbtXG4uA+G89X5/OFPrPtuacTq5k9MNl106v/DX5EsDC68XA+LxTd1R3wwzYdGH5dqWzzvRIc1gdOy+yY7QEwCaOZ9BOsSbclX8xNFF03gDHNOuTt53fZlofaLbccX0swW1PteEF2wQ1QU+NNcMTA/is3D+EQF515Q5vY9QXXFZgFHjRtREn/9LE5WtdnPj1doCznJj7cuS7BkmKWgmgNw5nCy3I4QUws2XhjKxHLpOnJToUTAE9Bd8T8EN92nGyjkigliZrPgyeJnLRbtYkAonLzBFxqe72k+grey3xyBS+zh0/ji0OHHfhgP08Whk35VA5a4mk8K240TOiEVxlehFRQ==;mPxHHE8AJJg+mHxBJ8sbgg=="
+images:
+  - url: "https://d3vgmmrg377kge.cloudfront.net/Style%20Library/api/resize.aspx?imgpath=https://hbswk.hbs.edu/PublishingImages/lakkaraju-outcomes-1280x720.jpg&w=1200&h=630"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Toxic waste is becoming a massive problem that AI can solve"
+    excerpt: "The issue of hazardous waste should not be taken lightly; if left unchecked, there are serious repercussions. Here's how AI can help."
+    publishedDateTime: 2022-12-16T04:07:00Z
+    webUrl: "https://venturebeat.com/business/toxic-waste-is-becoming-a-massive-problem-that-ai-can-solve/"
+    ampWebUrl: "https://venturebeat.com/business/toxic-waste-is-becoming-a-massive-problem-that-ai-can-solve/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/toxic-waste-is-becoming-a-massive-problem-that-ai-can-solve/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1340683804.jpg?w=1200&strip=all"
+        width: 1200
+        height: 704
+        isCached: true
+  - title: "Becoming AI-first – How Banks Can Lead in the AI Revolution"
+    excerpt: "By Nischal Tanna, CEO and Founder of TransformHub Consumers today demand smarter, more convenient and safer ways to access, spend, save, and invest their money. Firms in the banking and financial services sector are compelled to up their game to meet these evolving needs and are increasingly turning to Artificial Intelligence (AI) to understand their"
+    publishedDateTime: 2022-12-13T21:05:00Z
+    webUrl: "https://www.globalbankingandfinance.com/becoming-ai-first-how-banks-can-lead-in-the-ai-revolution/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/becoming-ai-first-how-banks-can-lead-in-the-ai-revolution/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/becoming-ai-first-how-banks-can-lead-in-the-ai-revolution/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 76
+    images:
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/12/iStock-1030247680.jpg"
+        width: 750
+        height: 466
+        isCached: true
+
+secured: "Jwfd+iy7VGzrm1qp5Fing0H0ENCKU9bk5WckVaK3qn6rQcd+eb8cRueFZVIMlq7nloXzMNpKtZd+I+bTQGbHPwwQvVRD0hoGO90YalcA2S7MFvtnz40oG1s3p9IGAt97d/WJSda8dqn6zkX6injZVJQt3K0U41xCH9RvGbR70uXRENO544BIyR6hty00BuIde83NZ415uVKBkGJUGclgXt4N7XZYB2DUIeRfS5iVtBEdbnjWcUlvwfETZ6BgytRZ5keZqn3yGHZ+nOAJxLWwCaFYPUpLsbEV3kblbUdeTpy/Z54a+/UYt/qTj+JoZ56FmULCUqXD8DqT7qjBI95aRAzKXM6PbxyG4utnKyMD0Ik=;4ChgRnWQ0J67pETejrUACA=="
 ---
 

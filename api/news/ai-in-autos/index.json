@@ -62,7 +62,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/phoenix-airport-1st-offer-driving-ride-service-waymo-95427526",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -493,7 +493,7 @@
       "originalUrl": "https://electrek.co/2022/12/12/tesla-ordered-upgrade-self-driving-computer-for-free-false-advertising/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -904,6 +904,49 @@
         "AI",
         "AI in Healthcare",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-10-tesla-full-self-driving-not-launching-is-a-failure-but-not-a-fraud.md",
+      "title": "Tesla: Full Self-Driving Not Launching Is a ‘Failure’ But Not a Fraud",
+      "excerpt": "Tesla hasn’t met its goal of a fully self-driving car, but it says failing to meet that goal isn’t the same as fraud. Back in September, a Tesla customer filed a lawsuit against the electric ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedrive.com/news/tesla-full-self-driving-not-launching-is-a-failure-but-not-a-fraud",
+      "originalUrl": "https://www.thedrive.com/news/tesla-full-self-driving-not-launching-is-a-failure-but-not-a-fraud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thedrive.com/uploads/2022/12/09/20201209-Tesla-Model-S-Hero.jpg?auto=webp",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T13:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Drive",
+        "domain": "thedrive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1423,58 +1466,6 @@
         "name": "Transport Topics",
         "domain": "ttnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-tesla-on-self-driving-claims-failure-to-realize-long-term-aspirational-goal-is-not-fraud.md",
-      "title": "Tesla on self-driving claims: ‘failure to realize long-term, aspirational goal is not fraud’",
-      "excerpt": "Tesla, defending itself in a lawsuit over self-driving claims, said, “Mere failure to realize a long-term, aspirational goal is not fraud.”",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/12/07/tesla-self-driving-claims-failure-realize-long-term-aspirational-goal-not-fraud/",
-      "originalUrl": "https://electrek.co/2022/12/07/tesla-self-driving-claims-failure-realize-long-term-aspirational-goal-not-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T13:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

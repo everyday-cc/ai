@@ -83,22 +83,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Artificial intelligence chatbots continue to improve. How do they work?"
-    excerpt: "AI chatbots are a software application used to have a conversation that can take on the role of a live human, using technology."
-    publishedDateTime: 2022-12-15T19:51:00Z
-    webUrl: "https://www.wcpo.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work"
-    ampWebUrl: "https://www.wcpo.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work?_amp=true"
-    cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work?_amp=true"
-    type: article
-    provider:
-      name: WCPO Cincinnati
-      domain: wcpo.com
-    quality: 57
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/fd0738b/2147483647/strip/true/crop/3360x1890+0+175/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F0f%2F48%2F1692e0d8492a82d486bd8f7c4435%2Fap22278412101213.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "ChatGPT has mastered the confidence trick, and that's a terrible look for AI"
     excerpt: "ChatGPT appears disarmingly frank about its flaws if you ask it outright. Say you're a lazy journalist who asks it to \"produce a column about ChatGPT's mistakes when writing code.\" \"As a large language model trained by OpenAI,"
     publishedDateTime: 2022-12-14T00:50:00Z
@@ -205,20 +189,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "We asked ChatGPT, A Groundbreaking AI Bot, Whether President Ramaphosa Should Resign?"
-    excerpt: "ChatGPT, created by a company called OpenAi, is the viral AI tool that is immensely powerful and useful in many ways."
-    publishedDateTime: 2022-12-12T05:58:00Z
-    webUrl: "https://techfinancials.co.za/2022/12/12/we-asked-chatgpt-a-groundbreaking-ai-bot-whether-president-ramaphosa-should-resign/"
-    type: article
-    provider:
-      name: techfinancials
-      domain: techfinancials.co.za
-    quality: 32
-    images:
-      - url: "https://techfinancials.co.za/wp-content/uploads/2022/12/pexels-kindel-media-8566470.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "ChatGPT and How AI Disrupts Industries"
     excerpt: "ChatGPT, from OpenAI, shows the power of AI to take on tasks traditionally associated with “knowledge work.” But the future won’t just involve tasks shifting from humans to machines. When technology enables more people to complete a task,"
     publishedDateTime: 2022-12-12T13:39:00Z
@@ -245,6 +215,15 @@ related:
     provider:
       name: Harvard Business Review
       domain: hbr.org
+    quality: 17
+  - title: "Artificial intelligence chatbots continue to improve. How do they work?"
+    excerpt: "AI chatbots are a software application used to have a conversation that can take on the role of a live human, using technology."
+    publishedDateTime: 2022-12-15T19:51:00Z
+    webUrl: "https://www.lex18.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work"
+    type: article
+    provider:
+      name: lex18
+      domain: lex18.com
     quality: 17
   - title: "Artificial intelligence chatbot can code, compose music, write essays, and more"
     excerpt: "We will increasingly have conversations with our computers to get the information we need or get them to do what we want them to do."

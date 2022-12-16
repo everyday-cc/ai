@@ -2,6 +2,171 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-12-01-domo-joins-the-amazon-sagemaker-ready-program.md",
+      "title": "Domo Joins the Amazon SageMaker Ready Program",
+      "excerpt": "Domo (Nasdaq: DOMO) announced it has joined the Amazon SageMaker Ready Program. This designation helps customers discover partner software solutions that are validated by Amazon Web Services (AWS) Partner Solutions Architects to integrate with Amazon SageMaker.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/12/01/9723034.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/12/01/9723034.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T06:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-targeting-ai-and-computer-vision-innodisk-launches-new-camera-module-series.md",
+      "title": "Targeting AI and computer vision, Innodisk launches new camera module series",
+      "excerpt": "Industrial-grade storage and embedded peripherals developer Innodisk recently announced its shift toward the artificial intelligence (AI) industry. As 50% of Innodisk's AI development is related to image recognition,",
+      "sourceUrl": null,
+      "webUrl": "https://electronics360.globalspec.com/article/18977/targeting-ai-and-computer-vision-innodisk-launches-new-camera-module-series",
+      "originalUrl": "https://electronics360.globalspec.com/article/18977/targeting-ai-and-computer-vision-innodisk-launches-new-camera-module-series",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electronics360.globalspec.com/images/assets/977/18977/61340_Innodisk_Launches_New_Camera_Module.jpg",
+          "width": 700,
+          "height": 245,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "electronics360.globalspec",
+        "domain": "globalspec.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-first-minister-speech-disrupted-by-gender-recognition-protester.md",
+      "title": "First Minister speech disrupted by gender recognition protester",
+      "excerpt": "The woman who interrupted the First Minister's speech said the change in law would ... that the request not to discuss the Gender Recognition Reform Bill was made by the First Minister or officials.",
+      "sourceUrl": null,
+      "webUrl": "https://www.heraldscotland.com/politics/23159210.first-minister-speech-disrupted-gender-recognition-protester/?ref=twtrec",
+      "originalUrl": "https://www.heraldscotland.com/politics/23159210.first-minister-speech-disrupted-gender-recognition-protester/?ref=twtrec",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.heraldscotland.com/resources/images/16138459/?type=og-image",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T04:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "heraldscotland",
+        "domain": "heraldscotland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-artificial-intelligence-ai-in-precision-farming-market-demand-and-growth-analysis-report-2022-2028-microsoft-ibm.md",
+      "title": "Artificial Intelligence (AI) in Precision Farming Market Demand and Growth Analysis Report 2022-2028 | Microsoft, IBM",
+      "excerpt": "Artificial intelligence (AI) plays an important role in precision farming, helping farmers make better decisions to optimize their crops and operations. AI can be used to gather data from the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-precision-farming-market-demand-and-growth-analysis-report-2022-2028-microsoft-ibm",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-precision-farming-market-demand-and-growth-analysis-report-2022-2028-microsoft-ibm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://xherald.com/wp-content/uploads/2022/12/Artificial-Intelligence-AI-in-Precision-Farming-Image1-1.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T03:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-how-fintech-can-help-you-weather-a-recession.md",
       "title": "How Fintech Can Help You Weather A Recession",
       "excerpt": "With many in fear of a recession, a growing number of businesses are in need of grant funding, and there are not many search engines that are cataloging the grants offered by thousands of organizations. Very few opportunities are in the marketplace that offers fintech services to help growing businesses with this catalog of offerings.",
@@ -940,206 +1105,6 @@
       "provider": {
         "name": "SpaceNews",
         "domain": "spacenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-stability-ai-doubles-down-on-aws.md",
-      "title": "Stability AI doubles down on AWS",
-      "excerpt": "Generative AI startups Stability AI today announced that AWS is now its preferred cloud partner for building and deploying its models.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/",
-      "originalUrl": "https://techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/2_4x.png?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/30/stability-ai-doubles-down-on-aws/amp/",
-      "publishedDateTime": "2022-11-30T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-disneys-new-neural-network-can-change-an-actors-age-with-ease.md",
-      "title": "Disney’s new neural network can change an actor’s age with ease",
-      "excerpt": "Disney researchers have created a new neural network that can alter the visual age of actors in TV or film, reports Gizmodo. The technology will allow TV or film producers to make actors appear ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/11/disney-creates-ai-fountain-of-youth-for-actors/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/11/disney-creates-ai-fountain-of-youth-for-actors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/disney_fran_hero_1-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2022/11/disney-creates-ai-fountain-of-youth-for-actors/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/disney-creates-ai-fountain-of-youth-for-actors/amp/",
-      "publishedDateTime": "2022-11-30T15:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-san-franciscos-killer-robots-threaten-the-citys-most-vulnerable.md",
-      "title": "San Francisco's Killer Robots Threaten the City's Most Vulnerable",
-      "excerpt": "Law enforcement says that in some scenarios a lethal robot is the only way to protect public safety. Experts say the policy will harm communities of color.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/san-franciscos-killer-police-robots-threaten-the-citys-most-vulnerable/",
-      "originalUrl": "https://www.wired.com/story/san-franciscos-killer-police-robots-threaten-the-citys-most-vulnerable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6387ab9b112650bb61bedb4b/master/pass/Security-SFPD-Lethal-Force-1367945379.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/san-franciscos-killer-police-robots-threaten-the-citys-most-vulnerable/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/san-franciscos-killer-police-robots-threaten-the-citys-most-vulnerable/amp",
-      "publishedDateTime": "2022-11-30T14:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-experimental-alzheimers-drug-slows-cognitive-decline.md",
-      "title": "Experimental Alzheimer’s Drug Slows Cognitive Decline",
-      "excerpt": "The experimental Alzheimer’s disease drug lecanemab slowed cognitive decline in some people with early Alzheimer’s disease but also caused serious side effects in some patients, according to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.everydayhealth.com/alzheimers-disease/experimental-alzheimers-drug-slows-cognitive-decline/",
-      "originalUrl": "https://www.everydayhealth.com/alzheimers-disease/experimental-alzheimers-drug-slows-cognitive-decline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.everydayhealth.com/images/experimental-alzheimers-drug-lecanemab-slows-decline-1440x810.jpg?sfvrsn=ff019268_1",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T14:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Everyday Health",
-        "domain": "everydayhealth.com",
         "images": null,
         "publishers": null,
         "authors": null

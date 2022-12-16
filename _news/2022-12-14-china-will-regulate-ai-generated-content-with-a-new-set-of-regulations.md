@@ -41,20 +41,6 @@ related:
         width: 1356
         height: 668
         isCached: true
-  - title: "Will AI decide if you get your next job? Without legal regulation, you may never even know"
-    excerpt: "The use of unreliable, discriminatory automated recruitment tools is on the rise – and they’re completely unregulated."
-    publishedDateTime: 2022-12-12T04:28:00Z
-    webUrl: "https://theconversation.com/will-ai-decide-if-you-get-your-next-job-without-legal-regulation-you-may-never-even-know-196282"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 29
-    images:
-      - url: "https://images.theconversation.com/files/500327/original/file-20221212-81291-3fgs0n.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
-        isCached: true
 
 secured: "ARwICvD1Ir43qosZMwwfk6hPYCnZJWBdvIYpbp2e8Xgo7LitxBquzKahuKJAvE74pszJXpw8ITFF9IZdxIAuTxA9SMX5rnJ1NW923lKsRF+ihhCjs4HxBqvpEKYXIoIVkzlQzZUL8SwxRDozO3oQW2fVcmCQWPvbqEmr+NUK6Dxtk1lR93nAljmpJV3g7wcPVIhiVahlvQuQ5jy17Ot0Kf6iKtVFMBrlD6ozTaRdCDAjD2l06Si2GxPn9S73F6aPGjs5UDp3Zr/zrCgtF9cPqi+R/DDKqtkcmoUzjtzohavLOlBcMOZgS/vwr6bUdc6/mZv+bInDastcKXs0IR9X86n2dm8BMku1Erl+f+1rCNeNUTwe30BAOS6YsQt1a5gbo7Sci7/Ohi0YMwLyQ2fefjy6qlBcLWqnAPHdWkXlU8VGZ5NrGcH89/c8eQKlO0XE/Y1haXMO5jDYV3owYKyMkjRSyD/9f2fnLDUsZ+orZCMK67YvfvpO8PP7O8YoCwpuzLs68TZxjRsx8VEQd9V2RQ==;ER/1DrQTl8VtHkgnCn4fkw=="
 ---

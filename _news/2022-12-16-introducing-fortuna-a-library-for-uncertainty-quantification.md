@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-16T19:27:47Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-fortuna-a-library-for-uncertainty-quantification/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-fortuna-a-library-for-uncertainty-quantification/"
 type: article
+quality: 69
+heat: 69
+published: false
 
 provider:
   name: AWS

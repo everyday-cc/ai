@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scroll.in/article/1038975/facial-recognition-system-roll
 cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1038975/facial-recognition-system-rollout-at-indian-airports-raises-privacy-concerns"
 type: article
 quality: 71
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/74c445f/2147483647/strip/true/crop/4619x2408+0+113/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F22%2F65%2F2df9d1f3447595f1ca82bf63e351%2Fshutterstock-1008668191.jpg"
         width: 840
         height: 438
+        isCached: true
+  - title: "Facial recognition system unmasks privacy concerns"
+    excerpt: "CHENNAI: The Chennai police’s use of the Facial Recognition System (FRS) in recent times has raised questions of legality and concerns of data privacy from politicians and experts. This comes after a man took to the social media platform Twitter on December 8,"
+    publishedDateTime: 2022-12-16T21:02:00Z
+    webUrl: "https://www.newindianexpress.com/states/tamil-nadu/2022/dec/17/facial-recognition-system-unmasks-privacy-concerns-2528937.html"
+    ampWebUrl: "https://www.newindianexpress.com/states/tamil-nadu/2022/dec/17/facial-recognition-system-unmasks-privacy-concerns-2528937.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/tamil-nadu/2022/dec/17/facial-recognition-system-unmasks-privacy-concerns-2528937.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/11/20/w600X390/cyber_security.jpg"
+        width: 600
+        height: 390
         isCached: true
   - title: "Indian police use of facial recognition in Chennai may violate privacy: Project Panoptic"
     excerpt: "The use of face biometric technologies by police forces to identify people on the streets may clash with a Supreme Court judgment on privacy."

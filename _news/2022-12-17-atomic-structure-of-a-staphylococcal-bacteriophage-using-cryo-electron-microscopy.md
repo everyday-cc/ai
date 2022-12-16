@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-16T20:53:00Z
 originalUrl: "https://phys.org/news/2022-12-atomic-staphylococcal-bacteriophage-cryo-electron-microscopy.html"
 webUrl: "https://phys.org/news/2022-12-atomic-staphylococcal-bacteriophage-cryo-electron-microscopy.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Phys.org

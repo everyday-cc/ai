@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-16T18:46:00Z
 originalUrl: "https://www.dailydot.com/unclick/ai-art-creators-divided/"
 webUrl: "https://www.dailydot.com/unclick/ai-art-creators-divided/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Daily Dot

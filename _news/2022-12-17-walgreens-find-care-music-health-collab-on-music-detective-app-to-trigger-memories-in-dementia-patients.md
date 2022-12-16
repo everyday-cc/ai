@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-16T17:58:00Z
 originalUrl: "https://www.mmm-online.com/home/channel/walgreens-find-care-music-health-collab-on-music-detective-app-to-trigger-memories-in-dementia-patients/"
 webUrl: "https://www.mmm-online.com/home/channel/walgreens-find-care-music-health-collab-on-music-detective-app-to-trigger-memories-in-dementia-patients/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: MM&M

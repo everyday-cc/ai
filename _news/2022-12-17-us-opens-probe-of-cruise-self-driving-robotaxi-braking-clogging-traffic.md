@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-16T19:45:00Z
 originalUrl: "https://abc7news.com/cruise-robotaxis-autonomous-cars-stopping-too-quickly-self-driving-taxis-braking/12579700/"
 webUrl: "https://abc7news.com/cruise-robotaxis-autonomous-cars-stopping-too-quickly-self-driving-taxis-braking/12579700/"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: ABC7 San Francisco

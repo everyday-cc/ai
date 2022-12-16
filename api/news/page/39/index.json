@@ -2,6 +2,188 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2022-11-14-global-t-cell-therapy-market-growth-potential-2022-with-industry-trends-top-manufacturers-sales-revenue-and-cagr-status-forecast-to-2029.md",
+      "title": "Global T-cell Therapy Market Growth Potential 2022 with Industry Trends, Top Manufacturers, Sales Revenue and CAGR Status Forecast to 2029",
+      "excerpt": "Nov (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “T-cell Therapy Market” is expected",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-t-cell-therapy-market-growth-potential-2022-with-industry-trends-top-manufacturers-sales-revenue-and-cagr-status-forecast-to-2029-2022-11-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-t-cell-therapy-market-growth-potential-2022-with-industry-trends-top-manufacturers-sales-revenue-and-cagr-status-forecast-to-2029-2022-11-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-13T19:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-11-14-brain-area-thought-to-impart-consciousness-behaves-instead-like-an-internet-router.md",
+      "title": "Brain area thought to impart consciousness, behaves instead like an Internet router",
+      "excerpt": "This insight may help lead to better therapies to address cognitive dysfunction in these disorders. \"The brain is the most complex system in the known universe. It is these data-driven theoretical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221114190629.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221114190629.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-13T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-14-feinberg-superager-program-examines-exceptional-cognitive-aging.md",
+      "title": "Feinberg SuperAger program examines exceptional cognitive aging",
+      "excerpt": "But an initiative from the Mesulam Center for Cognitive Neurology and Alzheimer’s Disease at the Feinberg School of Medicine is taking the opposite approach. The program studies “SuperAgers ...",
+      "sourceUrl": null,
+      "webUrl": "https://dailynorthwestern.com/2022/11/14/campus/feinberg-superager-program-examines-exceptional-cognitive-aging/",
+      "originalUrl": "https://dailynorthwestern.com/2022/11/14/campus/feinberg-superager-program-examines-exceptional-cognitive-aging/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dailynorthwestern.com/wp-content/uploads/2022/11/Feinberg-pic.jpg",
+          "width": 900,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-13T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Northwestern",
+        "domain": "dailynorthwestern.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-14-intel-unveils-prototype-neuromorphic-chip-for-ai-on-the-edge.md",
+      "title": "Intel Unveils Prototype Neuromorphic Chip for AI on the Edge",
+      "excerpt": "For example, a common fruit fly, an insect studied for AI research, has about 250,000 neurons and 10 million synapses. “This has been a major research effort by Intel and today we have a fully functioning neuromorphic research chip,” Intel CEO Brian ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/intel-unveils-prototype-neuromorphic-chip-ai-edge",
+      "originalUrl": "https://www.designnews.com/electronics-test/intel-unveils-prototype-neuromorphic-chip-ai-edge",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Intel-Neuromorphic-chip-Loihi-2.jpg",
+          "width": 1709,
+          "height": 1722,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-13T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-14-deviantart-launches-ai-art-generator.md",
       "title": "DeviantArt Launches AI Art Generator",
       "excerpt": "DeviantArt has joined the AI art space through the launch of its AI generator DreamUp (Opens in a new window). The online art community site has promised concerned creators that t",
@@ -981,187 +1163,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-how-2022-became-the-year-of-generative-ai.md",
-      "title": "How 2022 became the year of generative AI",
-      "excerpt": "In 2022, generative AI saw better algorithms and larger models and datasets, which created better images and higher-quality software code.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/",
-      "originalUrl": "https://venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/Generative-AI-e1668186981244.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-2022-became-the-year-of-generative-ai/amp/",
-      "publishedDateTime": "2022-11-11T09:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-hucuai-joins-startup-health-perks-program-to-help-health-tech-companies-achieve-health-moonshots.md",
-      "title": "Hucu.ai Joins StartUp Health Perks Program to Help Health-Tech Companies Achieve Health Moonshots",
-      "excerpt": "Hucu.ai joins the StartUp Health Perks Program, alongside existing vendors including Google, Amazon, Microsoft, ADP, Twilio, Hubspot, to easily connect and partner with other StartUp Health portfolio companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-hucuai-joins-startup-health-perks-program-help-health-/2022/11/11/9711556.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-hucuai-joins-startup-health-perks-program-help-health-/2022/11/11/9711556.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-11T09:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-ibms-new-23-billion-transistor-aiu-could-establish-a-trend-in-the-ai-hardware-market.md",
-      "title": "IBM’s New 23 Billion Transistor AIU Could Establish A Trend In The AI Hardware Market",
-      "excerpt": "IBM provided no release date for the AIU The IBM Research AI Hardware Center developed the new AIU chip over five years. The center focuses on developing next-gen chips and AI systems to improve AI hardware efficiency by 2.5x annually and be able to train ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/11/11/ibms-new-23-billion-transistor-aiu-could-establish-a-trend-in-the-ai-hardware-market/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/11/11/ibms-new-23-billion-transistor-aiu-could-establish-a-trend-in-the-ai-hardware-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/636e6f1b79421870b17fde5f/0x0.png?format=png&width=1200",
-          "width": 1200,
-          "height": 754,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/11/11/ibms-new-23-billion-transistor-aiu-could-establish-a-trend-in-the-ai-hardware-market/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/11/11/ibms-new-23-billion-transistor-aiu-could-establish-a-trend-in-the-ai-hardware-market/amp/",
-      "publishedDateTime": "2022-11-11T08:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-the-rise-of-the-robots-and-the-impact-on-dubais-economy.md",
-      "title": "The rise of the robots and the impact on Dubai's economy",
-      "excerpt": "Experts have noted that increased efficiency means a serious addition to the economy, while reports suggest AI could add up to 13 trillion Euros to the global economy by 2030.",
-      "sourceUrl": null,
-      "webUrl": "https://www.euronews.com/next/2022/11/11/the-rise-of-the-robots-and-the-impact-on-dubais-economy",
-      "originalUrl": "https://www.euronews.com/next/2022/11/11/the-rise-of-the-robots-and-the-impact-on-dubais-economy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.euronews.com/articles/stories/07/17/42/50/1000x563_cmsv2_693a1a49-5f55-5ad8-b104-0ea65f309f3c-7174250.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.euronews.com/next/amp/2022/11/11/the-rise-of-the-robots-and-the-impact-on-dubais-economy",
-      "cdnAmpWebUrl": "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2022/11/11/the-rise-of-the-robots-and-the-impact-on-dubais-economy",
-      "publishedDateTime": "2022-11-11T06:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Euronews",
-        "domain": "euronews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

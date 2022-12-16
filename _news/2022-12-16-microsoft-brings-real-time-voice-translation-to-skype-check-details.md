@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bgr.in/apps/microsoft-brings-real-time-voice-translation
 cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/apps/microsoft-brings-real-time-voice-translation-to-skype-check-details-1349718/amp/"
 type: article
 quality: 76
-heat: 126
+heat: 127
 published: true
 
 provider:

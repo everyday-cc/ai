@@ -7,7 +7,7 @@ originalUrl: "https://it.tmcnet.com/news/2022/12/12/9728748.htm"
 webUrl: "https://it.tmcnet.com/news/2022/12/12/9728748.htm"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -19,29 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "AI in Fashion market research report by market watch provides you with social, economic, and global growth opportunities."
-    excerpt: "The global AI in Fashion market size is projected to reach multi million by 2028, in comparision to 2021, at unexpected CAGR during 2022-2028 (Ask for Sample Report). A complete analysis of significant growth strategies,"
-    publishedDateTime: 2022-12-14T20:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fashion-market-research-report-by-market-watch-provides-you-with-social-economic-and-global-growth-opportunities-2022-12-14"
+  - title: "Call Center AI Market is Poised to Increase at a Stable CAGR of 13.5% from 2022 to 2032 | Future Market Insights, Inc."
+    excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
+    publishedDateTime: 2022-12-14T07:27:00Z
+    webUrl: "https://www.fmiblog.com/2022/12/14/call-center-ai-market-is-poised-to-increase-at-a-stable-cagr-of-13-5-from-2022-to-2032-future-market-insights-inc/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning as a Service (MlaaS) Market 2023 Analytical Research Report with Size till 2030 Including Growth Prospect for New Players"
-    excerpt: "Market research report covers complete data of the various segments in the Machine Learning as a Service (MlaaS) market study. The assessment contains the descriptions of the market dynamics, environmental analysis,"
-    publishedDateTime: 2022-12-13T17:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2023-analytical-research-report-with-size-till-2030-including-growth-prospect-for-new-players-2022-12-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 0
 
 secured: "HwisS8SyA2o1+Wk6yucfqF+X4cfTldrNqfOjfJtjmuQhhF4YBS+mUnTTB4lYj/SnkEV2MYIeLqHZ3QXerHZAmvZwpDnNmSRtbWe20/J7mGrLcE06vLyQ8LQ2YOmVyULWmSu3cbdsSC1w4vpxTaeIDcMd697t4jczEKmoW3eazz3fD8Fn+kIHqRIYwD0S6zMELPtje8eWQ7PKKaJuqB0TYHqF5pIe40NtMznoXhvqwEldQbxc1CKU2j7hNKoXe78ERz/iZCBjBuMwObxAq9uVHbUGNTyT06Bep+c/YYka2OVp/dn2OgKgtIUIOXCcWva/v4r02nc5JDg4YuUnqwaYfCepEuGuT3gFjP/fnTItXIY=;vwqPSmGxyOOVSeWqSCnbeQ=="
 ---
