@@ -6,8 +6,8 @@ publishedDateTime: 2022-12-15T16:05:00Z
 originalUrl: "https://siliconangle.com/2022/12/15/infinity-ai-lands-5m-funding-synthetic-data-generation-tools/"
 webUrl: "https://siliconangle.com/2022/12/15/infinity-ai-lands-5m-funding-synthetic-data-generation-tools/"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/infinity-AI.png"

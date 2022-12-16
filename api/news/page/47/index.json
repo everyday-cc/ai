@@ -2,6 +2,126 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2022-11-04-what-makes-baidu-bidu-an-attractive-investment.md",
+      "title": "What Makes Baidu (BIDU) an Attractive Investment?",
+      "excerpt": "Beyond its core search business, Baidu has invested heavily in cutting-edge technologies including cloud, autonomous driving, smart devices, and AI semiconductor chips. The company’s cloud ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/what-makes-baidu-bidu-an-attractive-investment-1082937/",
+      "originalUrl": "https://www.insidermonkey.com/blog/what-makes-baidu-bidu-an-attractive-investment-1082937/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2015/05/shutterstock_171252059.jpg",
+          "width": 1000,
+          "height": 688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T20:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-more-than-300-industry-leaders-and-researchers-will-speak-this-month-at-weavesphere-canadas-preeminent-technology-innovation-conference.md",
+      "title": "More than 300 industry leaders and researchers will speak this month at WeaveSphere, Canada’s preeminent technology innovation conference",
+      "excerpt": "Keynote speakers include Dr. William Barry, an artificial intelligence (AI ... Marcel Mitran, IBM Fellow, IBM Master Inventor and the CTO for Cloud Platform for zSystems and LinuxONE, will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newswire.ca/news-releases/ibm-canada-announces-robots-ai-avatars-and-more-than-300-industry-leaders-and-researchers-will-speak-this-month-at-weavesphere-canada-s-preeminent-technology-innovation-conference-888336195.html",
+      "originalUrl": "https://www.newswire.ca/news-releases/ibm-canada-announces-robots-ai-avatars-and-more-than-300-industry-leaders-and-researchers-will-speak-this-month-at-weavesphere-canada-s-preeminent-technology-innovation-conference-888336195.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T17:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newswire",
+        "domain": "newswire.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-abarth-uses-facial-recognition-tech-to-analyze-emotions-of-drivers-and-passengers.md",
+      "title": "Abarth Uses Facial Recognition Tech To Analyze Emotions Of Drivers And Passengers",
+      "excerpt": "Abarth has started trialing facial recognition technology to better understand the emotions that drivers and passengers experience in its cars. The car manufacturer partnered with Loughborough University for the project, sending participants out in an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/",
+      "originalUrl": "https://www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2022/11/Abarth-Study-3.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/11/abarth-uses-facial-recognition-technology-to-analyze-emotions-of-drivers-and-passengers/amp/",
+      "publishedDateTime": "2022-11-03T16:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-04-amd-unveils-new-radeon-rx-7900-xtx-gpu-with-rdna-3-to-take-on-nvidia-rtx-4000.md",
       "title": "AMD unveils new Radeon RX 7900 XTX GPU with RDNA 3 to take on Nvidia RTX 4000",
       "excerpt": "In addition to powering AMD's PC graphics cards, the company's GPU cores are also found on consoles ... that shares resources between rendering AI and ray tracing to make most effective use ...",
@@ -1009,137 +1129,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-executive.md",
-      "title": "AI chip startup SiMa.ai launches auto business with former Bosch, Mercedes executive",
-      "excerpt": "SiMa.ai CEO Krishna Rangasayee poses for a picture with his machine learning system used for processing video and images for security cameras, satellite images, drones, industrial robots ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-2022-11-03/",
-      "originalUrl": "https://www.reuters.com/technology/ai-chip-startup-simaai-launches-auto-business-with-former-bosch-mercedes-2022-11-03/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/24_tgXJU2gl0aA1bv0s_dssDj9M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/75ZGXFQI5RMK7F44HYF3HGB6WY.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-machine-learning-market-analytical-overview-and-size-value-and-volume-by-2030.md",
-      "title": "Machine learning Market Analytical Overview and Size (Value and Volume) by 2030",
-      "excerpt": "financial services and insurance (BFSI), automotive, healthcare, government and others. The trend of using machine learning techniques in the healthcare sector, financial sector and retail sector ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/machine-learning-market-analytical-overview-and-size-value-and-volume-by-2030",
-      "originalUrl": "https://www.digitaljournal.com/pr/machine-learning-market-analytical-overview-and-size-value-and-volume-by-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/11/caeb17642ba63e541976d733a2d5bd53ec7092bd-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-if-youre-a-facebook-user-youre-also-a-research-subject.md",
-      "title": "If you're a Facebook user, you're also a research subject",
-      "excerpt": "According to its public database of published research, Facebook's written more than 180 public papers about artificial intelligence but just one study about elections, based on an experiment ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.inforum.com/business/if-youre-a-facebook-user-youre-also-a-research-subject",
-      "originalUrl": "https://www.inforum.com/business/if-youre-a-facebook-user-youre-also-a-research-subject",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inforum",
-        "domain": "inforum.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

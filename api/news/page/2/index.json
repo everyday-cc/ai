@@ -2,6 +2,144 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-12-14-encharge-ai-a-chip-startup-born-in-princeton-lab-raises-217-million.md",
+      "title": "EnCharge AI, a Chip Startup Born in Princeton Lab, Raises $21.7 Million",
+      "excerpt": "EnCharge AI, a chip startup born at a Princeton University lab, on Wednesday said it raised $21.7 million as it looks to commercialize its computing technology that is designed to run artificial intelligence applications more efficiently.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2022-12-14/encharge-ai-a-chip-startup-born-in-princeton-lab-raises-21-7-million",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2022-12-14/encharge-ai-a-chip-startup-born-in-princeton-lab-raises-21-7-million",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-14T06:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-avra-medical-robotics-inc-otc-avmr-provides-update-on-merger.md",
+      "title": "AVRA Medical Robotics, Inc. (OTC: AVMR) PROVIDES UPDATE ON MERGER",
+      "excerpt": "AVRA Medical Robotics, Inc. (\"AVRA\" or \"the Company\") (OTC:AVMR), a medical robotics software and artificial intelligence company announced that it is continuing to",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/12/g30076650/avra-medical-robotics-inc-otc-avmr-provides-update-on-merger",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/g30076650/avra-medical-robotics-inc-otc-avmr-provides-update-on-merger",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
+          "width": 800,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30076650",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30076650",
+      "publishedDateTime": "2022-12-14T05:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-the-future-of-retail-four-ways-for-the-industry-to-utilize-ai.md",
+      "title": "The Future Of Retail: Four Ways For The Industry To Utilize AI",
+      "excerpt": "It’s only a matter of time before AI-powered checkouts, improved planograms and enhanced in-store engagement will be widely adopted to enhance the shopping experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/14/the-future-of-retail-four-ways-for-the-industry-to-utilize-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/14/the-future-of-retail-four-ways-for-the-industry-to-utilize-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63987a772c2281472c7ab5e5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/14/the-future-of-retail-four-ways-for-the-industry-to-utilize-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/14/the-future-of-retail-four-ways-for-the-industry-to-utilize-ai/amp/",
+      "publishedDateTime": "2022-12-14T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-14-oppo-claims-its-bluetooth-audio-chip-delivers-wired-quality.md",
       "title": "Oppo claims its Bluetooth audio chip delivers wired quality",
       "excerpt": "The first day of Inno Day 2022 was filled with announcements including Oppo's new Bluetooth audio SoC, health monitor, and AR glasses.",
@@ -1069,162 +1207,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-is-learning-code-still-necessary-for-businesses.md",
-      "title": "Is Learning Code Still Necessary For Businesses?",
-      "excerpt": "Whether you rent a storefront or operate fully online, you’ll be in need of the software development know-how required to thrive in the digital realm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/13/is-learning-code-still-necessary-for-businesses/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/13/is-learning-code-still-necessary-for-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5fb2b1a203edc9665484d31e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/13/is-learning-code-still-necessary-for-businesses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/13/is-learning-code-still-necessary-for-businesses/amp/",
-      "publishedDateTime": "2022-12-13T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-first-ever-ai-video-platform-integrating-text-generated-image-and-animation.md",
-      "title": "First-Ever AI Video Platform Integrating Text-Generated Image And Animation",
-      "excerpt": "Tel Aviv-based DI-D released today the first multimodal generative AI video platform to combine text, image and animation in one interface. The self-service video platform integrates D-ID’s proprietary generative AI technology with GPT-3 from Open AI and Stable Diffusion from Stability AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2022/12/13/first-ever-ai-video-platform-integrating-text-generated-image-and-animation/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2022/12/13/first-ever-ai-video-platform-integrating-text-generated-image-and-animation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/639785f66713c491c4620eb9/0x0.jpg?format=jpg&crop=2860,1609,x0,y16,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2022/12/13/first-ever-ai-video-platform-integrating-text-generated-image-and-animation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/12/13/first-ever-ai-video-platform-integrating-text-generated-image-and-animation/amp/",
-      "publishedDateTime": "2022-12-13T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability.md",
-      "title": "Amid controversy and emerging regulations around AI for talent management, Beamery emphasizes explainability",
-      "excerpt": "Helping bring explainability to AI in talent management, Beamery announced it has raised $50 million in a series D round of funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability/",
-      "originalUrl": "https://venturebeat.com/ai/amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/09/now-hiring-e1670889718739.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 698,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability/amp/",
-      "publishedDateTime": "2022-12-12T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

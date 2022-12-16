@@ -2,6 +2,154 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2022-10-31-how-responsible-ai-creates-measurable-roi.md",
+      "title": "How responsible AI creates measurable ROI",
+      "excerpt": "but focusing on developing an ecosystem of responsible AI might be the place to start, Singh said. This was also a key point throughout its Global Responsible AI Summit, held for the first time ever last week. Overwhelmingly, the event’s sessions ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-responsible-ai-creates-measurable-roi/",
+      "originalUrl": "https://venturebeat.com/ai/how-responsible-ai-creates-measurable-roi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1267598662.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-responsible-ai-creates-measurable-roi/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-responsible-ai-creates-measurable-roi/amp/",
+      "publishedDateTime": "2022-10-31T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-31-as-automakers-adjust-why-are-we-still-waiting-for-driverless-cars.md",
+      "title": "As automakers adjust, why are we still waiting for driverless cars?",
+      "excerpt": "Anthony’s company, which shut down earlier this year, sought to solve the problem through an artificial intelligence system that trained cars to spot visual clues to what pedestrians are going ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonglobe.com/2022/10/31/business/automakers-adjust-why-are-we-still-waiting-driverless-cars/",
+      "originalUrl": "https://www.bostonglobe.com/2022/10/31/business/automakers-adjust-why-are-we-still-waiting-driverless-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/cA79I_m8-REToeKBKMhKRSmGL3E=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/K5YFTNSB7PBEHGAV6BOIHT2TJU.JPG",
+          "width": 506,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-31T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Boston Globe",
+        "domain": "bostonglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-31-how-ai-and-nlp-accelerate-contract-lifecycle-management-clm-icertis-raises-150m.md",
+      "title": "How AI and NLP accelerate contract lifecycle management (CLM), Icertis raises $150M",
+      "excerpt": "Icertis, specializing in contract lifecycle management (CLM) and manager of over 10 million contracts, has raised $150M in funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-ai-and-nlp-accelerate-contract-lifecycle-management-clm-icertis-raises-150m/",
+      "originalUrl": "https://venturebeat.com/ai/how-ai-and-nlp-accelerate-contract-lifecycle-management-clm-icertis-raises-150m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1185188027-e1651849778407.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-ai-and-nlp-accelerate-contract-lifecycle-management-clm-icertis-raises-150m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-and-nlp-accelerate-contract-lifecycle-management-clm-icertis-raises-150m/amp/",
+      "publishedDateTime": "2022-10-31T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-10-31-mediateks-dimensity-9200-crushes-the-competition-in-gpu-performance.md",
       "title": "MediaTek's Dimensity 9200 Crushes The Competition In GPU Performance",
       "excerpt": "Ahead of its debut, some key details about the processor have leaked online, hinting at big improvements in GPU performance. According to noted tipster Ice Universe, the Dimensity 9200 will ...",
@@ -995,152 +1143,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-29-how-to-manage-risk-as-ai-spreads-throughout-your-organization.md",
-      "title": "How to manage risk as AI spreads throughout your organization",
-      "excerpt": "AI has many possibilities. But organizations must strategically implement AI to gain benefits and avoid risk and harmful consequences.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-to-manage-risk-as-ai-spreads-throughout-your-organization/",
-      "originalUrl": "https://venturebeat.com/ai/how-to-manage-risk-as-ai-spreads-throughout-your-organization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1339968369.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 522,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-to-manage-risk-as-ai-spreads-throughout-your-organization/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-to-manage-risk-as-ai-spreads-throughout-your-organization/amp/",
-      "publishedDateTime": "2022-10-29T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-29-tesla-and-argo-ai-setbacks-sap-momentum-for-driverless-tech.md",
-      "title": "Tesla and Argo AI setbacks sap momentum for driverless tech",
-      "excerpt": "The driverless tech industry hit a couple of snags this week. First came news in Ford’s (F) Q3 earnings report that the automaker was shutting down its Argo AI autonomous driving joint venture.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/finance/tesla-argo-ai-setbacks-sap-145810466.html",
-      "originalUrl": "https://www.aol.com/finance/tesla-argo-ai-setbacks-sap-145810466.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/PjszFwy462T9BOJ7cFK3bQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Njk-/https://media.zenfs.com/en/aol_yahoo_finance_433/9113db93c990a4cb7e94c8aa550cb8be",
-          "width": 1200,
-          "height": 769,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-29T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-29-you-think-your-customers-want-a-humanlike-ai-you-may-be-wrong.md",
-      "title": "You think your customers want a humanlike AI; you may be wrong",
-      "excerpt": "There’s a wide variety in how brands are approaching the design of VA experiences today, and there seems special interest in the highly humanlike ones—VAs that aim for the appearance and behavior of the real humans who previously fielded these inquiries.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/you-think-your-customers-want-a-humanlike-ai-you-may-be-wrong/",
-      "originalUrl": "https://venturebeat.com/ai/you-think-your-customers-want-a-humanlike-ai-you-may-be-wrong/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1338009807.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 617,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/you-think-your-customers-want-a-humanlike-ai-you-may-be-wrong/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/you-think-your-customers-want-a-humanlike-ai-you-may-be-wrong/amp/",
-      "publishedDateTime": "2022-10-29T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

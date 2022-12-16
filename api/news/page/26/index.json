@@ -2,6 +2,144 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2022-11-23-cognitive-scores-lower-for-children-with-iron-deficiency.md",
+      "title": "Cognitive scores lower for children with iron deficiency",
+      "excerpt": "Children with chronic iron deficiency have lower cognitive scores even at four and 12 months after an intervention, according to a study published online Nov. 22 in Pediatrics. Argie Gingoyon ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-11-cognitive-scores-children-iron-deficiency.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-11-cognitive-scores-children-iron-deficiency.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/cognitive-scores-lower.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-11-cognitive-scores-children-iron-deficiency.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-cognitive-scores-children-iron-deficiency.amp",
+      "publishedDateTime": "2022-11-22T11:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-23-aws-to-invest-44-bn-in-hyderabad-data-centre.md",
+      "title": "AWS to invest $4.4 bn in Hyderabad data centre",
+      "excerpt": "Amazon Web Service (AWS) on Tuesday announced an investment of USD 4.4 billion (about Rs 36,300 crore) by 2030 in building in Hyderabad its second data center cluster in India.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/technology/tech-news/aws-to-invest-44-bn-in-hyderabad-data-centre-770314",
+      "originalUrl": "https://www.thehansindia.com/technology/tech-news/aws-to-invest-44-bn-in-hyderabad-data-centre-770314",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2022/11/22/1321759-aws.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/aws-to-invest-44-bn-in-hyderabad-data-centre-770314",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/aws-to-invest-44-bn-in-hyderabad-data-centre-770314",
+      "publishedDateTime": "2022-11-22T10:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-22-implementing-amazon-forecast-in-the-retail-industry-a-journey-from-poc-to-production.md",
+      "title": "Implementing Amazon Forecast in the retail industry: A journey from POC to production",
+      "excerpt": "Amazon Forecast is a fully managed service that uses statistical and machine learning (ML) algorithms to deliver highly accurate time-series forecasts. Recently, based on Amazon Forecast, we helped one of our retail customers achieve accurate demand forecasting, within 8 weeks. The solution improved",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/implementing-amazon-forecast-in-the-retail-industry-a-journey-from-poc-to-production/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/implementing-amazon-forecast-in-the-retail-industry-a-journey-from-poc-to-production/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/22/implementingamazon-forecast-retail-industry.jpg",
+          "width": 1564,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-22T10:35:18-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-22-accelerate-multilingual-workflows-with-a-customizable-translation-solution-built-with-amazon-translate.md",
       "title": "Accelerate multilingual workflows with a customizable translation solution built with Amazon Translate",
       "excerpt": "Enterprises often need to communicate effectively to a large base of customers, partners, and stakeholders across several different languages. They need to translate and localize content such as marketing materials, product content assets, operational manuals, and legal documents. Each business unit",
@@ -1013,144 +1151,6 @@
         "AI",
         "AI in Robotics",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-the-speech-jfk-never-gave.md",
-      "title": "The Speech JFK Never Gave",
-      "excerpt": "While the bulk of the speech is no longer timely – budget spending, politics, issues of the day, and so forth – his main ideas and philosophies most certainly are, especially in our current political and social environment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/eliamdur/2022/11/22/the-speech-jfk-never-gave/",
-      "originalUrl": "https://www.forbes.com/sites/eliamdur/2022/11/22/the-speech-jfk-never-gave/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63715fb816756bee83fa64ef/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 970,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/eliamdur/2022/11/22/the-speech-jfk-never-gave/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2022/11/22/the-speech-jfk-never-gave/amp/",
-      "publishedDateTime": "2022-11-21T21:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-waymo-launches-fully-driverless-rides-in-san-francisco.md",
-      "title": "Waymo launches fully driverless rides in San Francisco",
-      "excerpt": "Driverless rides will soon be taking to the streets of San Francisco. The California Public Utilities Commission granted Waymo, a subsidiary of Alphabet Inc., a permit to participate in its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sfexaminer.com/news/waymo-offers-fully-driverless-rides-in-san-francisco/article_fac08082-69b1-11ed-b013-43cf9e6fd703.html",
-      "originalUrl": "https://www.sfexaminer.com/news/waymo-offers-fully-driverless-rides-in-san-francisco/article_fac08082-69b1-11ed-b013-43cf9e6fd703.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/assets/v3/editorial/d/ce/dce695e0-4ffa-11ed-a102-a3739e1956a2/6350760db606a.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-21T19:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Francisco Examiner",
-        "domain": "sfexaminer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all.md",
-      "title": "Artificial neural networks learn better when they spend time not learning at all",
-      "excerpt": "Ryan Golden , Jean Erik Delanois, et al, (2022, November 18), Artificial neural networks learn better when they spend time not learning at all, PLOS Computational Biology, DOI: 10.1371/journal.pcbi.1010628.",
-      "sourceUrl": null,
-      "webUrl": "https://medicaldialogues.in/mdtv/neurology-neurosurgery/videos/artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all-102720",
-      "originalUrl": "https://medicaldialogues.in/mdtv/neurology-neurosurgery/videos/artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all-102720",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medicaldialogues.in/h-upload/2022/11/22/191602-why-sudden-increase-in-melioidosis-cases-in-india-1500-900px.jpg",
-          "width": 1500,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicaldialogues.in/amp/mdtv/neurology-neurosurgery/videos/artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all-102720",
-      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/mdtv/neurology-neurosurgery/videos/artificial-neural-networks-learn-better-when-they-spend-time-not-learning-at-all-102720",
-      "publishedDateTime": "2022-11-21T19:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily",
-        "domain": "medicaldialogues.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

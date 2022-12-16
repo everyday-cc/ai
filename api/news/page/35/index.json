@@ -2,6 +2,142 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2022-11-16-israels-ourcrowd-to-launch-ai-business-in-uae.md",
+      "title": "Israel’s OurCrowd to Launch AI Business in U.A.E.",
+      "excerpt": "The venture-capital firm is partnering with Abu Dhabi entity to invest $60 million to expand its operations in the Arab country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/israels-ourcrowd-to-launch-ai-business-in-u-a-e-11668574940",
+      "originalUrl": "https://www.wsj.com/articles/israels-ourcrowd-to-launch-ai-business-in-u-a-e-11668574940",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-667365/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-15T20:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-16-comparing-neural-networks-provides-a-look-into-the-black-box-of-artificial-intelligence.md",
+      "title": "Comparing Neural Networks Provides a Look Into the 'Black Box' of Artificial Intelligence",
+      "excerpt": "Artificial intelligence is everywhere. Once the domain of science fiction, it’s used in everything from virtual assistants, to facial recognition systems, to self-driving cars. But how, exactly, does it work? The answer has actually not been well ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearscience.com/articles/2022/11/16/comparing_neural_networks_provides_a_look_into_the_black_box_of_artificial_intelligence_865086.html#!",
+      "originalUrl": "https://www.realclearscience.com/articles/2022/11/16/comparing_neural_networks_provides_a_look_into_the_black_box_of_artificial_intelligence_865086.html#!",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-15T18:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearScience",
+        "domain": "realclearscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-16-art-project-translates-music-from-teenage-engineerings-op-z-synth-into-ai-generated-imagery.md",
+      "title": "Art project translates music from Teenage Engineering's OP-Z synth into AI-generated imagery",
+      "excerpt": "AI-generated art is a new frontier rife with potential. But for every thorny question about copyright and the potential for widespread manipulation, generated art can also inspire wonder and awe. For example,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/teenage-engineering-op-z-stable-diffusion-synesthesia-ai-music-233016737.html",
+      "originalUrl": "https://www.engadget.com/teenage-engineering-op-z-stable-diffusion-synesthesia-ai-music-233016737.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/870fb8e0-6535-11ed-957e-bd695d44829f",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/teenage-engineering-op-z-stable-diffusion-synesthesia-ai-music-233016737.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/teenage-engineering-op-z-stable-diffusion-synesthesia-ai-music-233016737.html",
+      "publishedDateTime": "2022-11-15T16:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-can-a-multicultural-healthy-diet-reduce-cognitive-decline-and-alzheimers-disease-risk.md",
       "title": "Can a multicultural healthy diet reduce cognitive decline and Alzheimer's disease risk?",
       "excerpt": "Study: Multicultural healthy diet to reduce cognitive decline & Alzheimer's disease risk: Study protocol for a pilot randomized controlled trial. Image Credit: Olga Klochanko/Shutterstock They ...",
@@ -1042,153 +1178,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-startup-uses-ai-to-turn-textbooks-into-gen-z-friendly-videos.md",
-      "title": "Startup Uses AI To Turn Textbooks Into Gen-Z Friendly Videos",
-      "excerpt": "Prof Jim aims to make it cheap and easy for textbook publishers to create videos narrated by famous avatars, complete with slides and pop quizzes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/emmawhitford/2022/11/15/startup-uses-ai-to-turn-textbooks-into-gen-z-friendly-videos/",
-      "originalUrl": "https://www.forbes.com/sites/emmawhitford/2022/11/15/startup-uses-ai-to-turn-textbooks-into-gen-z-friendly-videos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6373aabf337fdbfd9b61196b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-15T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-ai-driven-fashion-platform-shoptrue-constantly-learns-its-users-shopping-habits.md",
-      "title": "AI-driven fashion platform Shoptrue constantly learns its users shopping habits",
-      "excerpt": "The startup raised $6 million in seed funding in 2021 to help build ... Shoptrue’s launch is another example of how AI technology is transforming the e-commerce industry. In June, Pinterest acquired the AI-powered shopping platform The Yes, which ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/15/ai-driven-fashion-platform-shoptrue/",
-      "originalUrl": "https://techcrunch.com/2022/11/15/ai-driven-fashion-platform-shoptrue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/Shoptrue-PR-Imagery-v3.1-no-brand.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/15/ai-driven-fashion-platform-shoptrue/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/15/ai-driven-fashion-platform-shoptrue/amp/",
-      "publishedDateTime": "2022-11-15T07:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-arterys-awarded-artificial-intelligence-solutions-for-healthcare-agreement-with-premier-inc.md",
-      "title": "Arterys Awarded Artificial Intelligence Solutions for Healthcare Agreement With Premier, Inc.",
-      "excerpt": "has been awarded a national group purchasing agreement for the Artificial Intelligence Solutions for Healthcare Category with Premier Inc. Effective Oct. 1, 2022, the new agreement allows Premier ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/arterys-awarded-artificial-intelligence-solutions-for-healthcare-agreement-with-premier-inc",
-      "originalUrl": "https://www.digitaljournal.com/pr/arterys-awarded-artificial-intelligence-solutions-for-healthcare-agreement-with-premier-inc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/08/Cuba-CyberSecurity-Law-AFP-1K-01-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-15T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/world-news/us-blacklists-chinas-chipmaker-firm-
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/us-blacklists-chinas-chipmaker-firm-ymtc-crackdowns-on-ai-chip-sector-3610429/amp/1"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_00_20_7172535.jpg?width=1280"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Biden administration puts China's YMTC on blacklist, turns focus on AI chip industry"
+    excerpt: "Over 20 other significant names in China's artificial intelligence chip sector have been put on a US trade blacklist amid a crackdown."
+    publishedDateTime: 2022-12-15T23:23:00Z
+    webUrl: "https://www.fox13now.com/news/national/biden-administration-puts-chinas-ymtc-on-blacklist-turns-focus-on-ai-chip-industry"
+    ampWebUrl: "https://www.fox13now.com/news/national/biden-administration-puts-chinas-ymtc-on-blacklist-turns-focus-on-ai-chip-industry?_amp=true"
+    cdnAmpWebUrl: "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national/biden-administration-puts-chinas-ymtc-on-blacklist-turns-focus-on-ai-chip-industry?_amp=true"
+    type: article
+    provider:
+      name: fox13now
+      domain: fox13now.com
+    quality: 67
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/c1e58b5/2147483647/strip/true/crop/1000x563+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F89%2Fe0%2F630feb764f5d9ebd982116324d09%2Fap21021747656668.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden blacklists China's YMTC, cracks down on AI chip sector"
     excerpt: "The Biden administration on Thursday added Chinese memory chipmaker YMTC and 21 \"major\" Chinese players in the artificial intelligence chip industry to a trade blacklist, broadening its crackdown on China's chip industry."

@@ -2,6 +2,153 @@
   "page": 112,
   "value": [
     {
+      "path": "_news/2022-09-10-survey-majority-of-pennsylvanians-not-comfortable-sharing-road-with-driverless-cars.md",
+      "title": "Survey: Majority of Pennsylvanians not comfortable sharing road with driverless cars",
+      "excerpt": "PITTSBURGH (KDKA) — A new survey shows a majority of Pennsylvanians are not comfortable sharing the road with driverless cars. A bipartisan polling firm found more than half of respondents said ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/pittsburgh/news/survey-majority-of-pennsylvanians-not-comfortable-sharing-road-driverless-cars/",
+      "originalUrl": "https://www.cbsnews.com/pittsburgh/news/survey-majority-of-pennsylvanians-not-comfortable-sharing-road-driverless-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2018/11/13/2090d1a1-84ad-4e28-a6b6-955429a72c73/thumbnail/1200x630/8d226a809d4524bfc474efea5f88a7f8/self-driving.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/pittsburgh/news/survey-majority-of-pennsylvanians-not-comfortable-sharing-road-driverless-cars/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/pittsburgh/news/survey-majority-of-pennsylvanians-not-comfortable-sharing-road-driverless-cars/",
+      "publishedDateTime": "2022-09-09T21:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-10-deloittes-beena-ammanath-on-ethics-in-artificial-intelligence.md",
+      "title": "Deloitte’s Beena Ammanath on Ethics in Artificial Intelligence",
+      "excerpt": "Does the torrid pace of investment in AI create challenges for the development of an ethical practice in this emerging technology?",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/video/deloitte-ethics-in-artificial-intelligence/",
+      "originalUrl": "https://www.eweek.com/video/deloitte-ethics-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/09/eSPEAKS-thumbnail-2.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-09T13:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-10-nvidias-flagship-ai-chip-reportedly-up-to-45x-faster-than-the-previous-champ.md",
+      "title": "Nvidia’s flagship AI chip reportedly up to 4.5x faster than the previous champ",
+      "excerpt": "No GPUs for you: US blocks sales of AI chips to China and Russia Nvidia positions the H100 as a high-end data center GPU chip designed for AI and supercomputer applications such as image ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/09/nvidias-flagship-ai-chip-reportedly-4-5x-faster-than-the-previous-champ/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/09/nvidias-flagship-ai-chip-reportedly-4-5x-faster-than-the-previous-champ/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/nvidia_h100_hero_3-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-09T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-10-eu-ai-acts-possible-open-source-regulation-sparks-twitter-debate.md",
       "title": "EU AI Act’s possible open-source regulation sparks Twitter debate",
       "excerpt": "Alex Engler never expected his Brookings article about the EU’s attempt to regulate open-source AI to stir up Twitter debate.",
@@ -1003,148 +1150,6 @@
       "provider": {
         "name": "Lincoln Journal Star",
         "domain": "journalstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-neural-magics-sparsity-nvidias-hopper-and-alibabas-network-among-firsts-in-latest-mlperf-ai-benchmarks.md",
-      "title": "Neural Magic's sparsity, Nvidia's Hopper, and Alibaba's network among firsts in latest MLPerf AI benchmarks",
-      "excerpt": "The latest benchmark tests of chips for AI showed new approaches to dealing with ever-increasing scale, including clusters of machines, and sparsity, the pruning of neural nets to make them more efficient.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/neural-magics-sparsity-nvidias-hopper-and-alibabas-network-among-firsts-in-latest-mlperf-ai-benchmarks/",
-      "originalUrl": "https://www.zdnet.com/article/neural-magics-sparsity-nvidias-hopper-and-alibabas-network-among-firsts-in-latest-mlperf-ai-benchmarks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/165cf796993b915bf3d6ac71f4ffcb91020a663b/2022/09/08/fa74566e-d9f2-440f-b2cd-b9565104404e/nvidia-hopper-die-crop-for-twitter.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/neural-magics-sparsity-nvidias-hopper-and-alibabas-network-among-firsts-in-latest-mlperf-ai-benchmarks/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/neural-magics-sparsity-nvidias-hopper-and-alibabas-network-among-firsts-in-latest-mlperf-ai-benchmarks/",
-      "publishedDateTime": "2022-09-08T17:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI",
-        "Machine Learning",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-arm-ibm-team-on-low-power-analog-ai-chip.md",
-      "title": "ARM, IBM team on low power analog AI chip",
-      "excerpt": "Researchers at ARM and IBM have developed a 14nm analog compute in memory chip for low power always on machine learning. These always-on perception tasks in IoT applications, dubbed TinyML, require very high energy efficiency. Analog compute-in-memory (CiM ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/news/52639/arm-ibm-low-power-analog-ai-chip.html",
-      "originalUrl": "https://www.design-reuse.com/news/52639/arm-ibm-low-power-analog-ai-chip.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.design-reuse.com/news_img2/homepage52639/ibm.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-multiple-cognitive-abilities-may-be-empirically-measured-from-complex-video-game-experiences.md",
-      "title": "Multiple cognitive abilities may be empirically measured from complex video game experiences",
-      "excerpt": "Parents and pundits may no longer argue that gamers are indulging in brainless activities in front of their screens. And gamers may finally feel a sense of vindication. Kyoto University and BonBon ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-09-multiple-cognitive-abilities-empirically-complex.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-09-multiple-cognitive-abilities-empirically-complex.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/gamers-can-have-their.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-09-multiple-cognitive-abilities-empirically-complex.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-multiple-cognitive-abilities-empirically-complex.amp",
-      "publishedDateTime": "2022-09-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

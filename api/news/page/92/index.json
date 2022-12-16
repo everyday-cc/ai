@@ -2,6 +2,154 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2022-09-27-heres-what-happens-when-ai-gets-ahold-of-homer-and-marge-simpson.md",
+      "title": "Here's What Happens When AI Gets Ahold of Homer and Marge Simpson",
+      "excerpt": "A muscle-bound, rage-filled Homer looks ready to Hulk-smash his way through Springfield; Marge has morphed into the bride of Frankenstein; and Krusty the Clown's menacing face will be the nightmare of children and clown PR teams everywhere.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/culture/internet/heres-what-happens-when-ai-gets-ahold-of-homer-and-marge-simpson/",
+      "originalUrl": "https://www.cnet.com/culture/internet/heres-what-happens-when-ai-gets-ahold-of-homer-and-marge-simpson/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/ecf4a3226bb84838b30962de84e7626f3150294e/hub/2022/09/26/4031b775-1b21-44aa-8b8a-5e8d8e22afbc/collage-maker-26-sep-2022-01-56-pm-1.jpg?auto=webp",
+          "width": 886,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/heres-what-happens-when-ai-gets-ahold-of-homer-and-marge-simpson/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/heres-what-happens-when-ai-gets-ahold-of-homer-and-marge-simpson/",
+      "publishedDateTime": "2022-09-26T15:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-why-advances-in-neural-3d-rendering-arent-reaching-the-market.md",
+      "title": "Why advances in neural 3D rendering aren’t reaching the market",
+      "excerpt": "Neural 3D rendering uses optics and linear algebra to potentially meet the demand for efficient 3D images for the hyperrealistic metaverse.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/whats-keeping-advances-neural-3d-rendering-from-market/",
+      "originalUrl": "https://venturebeat.com/ai/whats-keeping-advances-neural-3d-rendering-from-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1332177687-e1651777358698.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/whats-keeping-advances-neural-3d-rendering-from-market/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/whats-keeping-advances-neural-3d-rendering-from-market/amp/",
+      "publishedDateTime": "2022-09-26T15:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-how-artificial-intelligence-can-transform-finance-departments-seeking-agility.md",
+      "title": "How Artificial Intelligence Can Transform Finance Departments Seeking Agility",
+      "excerpt": "By Dan Drees, Chief Growth Officer of AvidXchange It’s no secret that agile companies, those that can quickly respond and pivot when necessary, fare better than those that falter when faced with uncertainty or change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/how-artificial-intelligence-can-transform-finance-departments-seeking-agility/",
+      "originalUrl": "https://www.globalbankingandfinance.com/how-artificial-intelligence-can-transform-finance-departments-seeking-agility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/09/193.jpg",
+          "width": 360,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalbankingandfinance.com/how-artificial-intelligence-can-transform-finance-departments-seeking-agility/",
+      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-artificial-intelligence-can-transform-finance-departments-seeking-agility/",
+      "publishedDateTime": "2022-09-26T14:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-09-27-hugging-face-and-servicenow-launch-bigcode-a-project-to-open-source-code-generating-ai-systems.md",
       "title": "Hugging Face and ServiceNow launch BigCode, a project to open source code-generating AI systems",
       "excerpt": "Hugging Face is teaming up with ServiceNow to launch BigCode, an effort to develop and release a code-generating AI system akin to OpenAI's Codex.",
@@ -1022,126 +1170,6 @@
         "IBM AI",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-industrial-uav-startup-aiseed-offers-aidrone-to-tackle-toughest-challenges.md",
-      "title": "Industrial UAV startup AiSeed offers AI+Drone to tackle toughest challenges",
-      "excerpt": "robotics, and AI backgrounds. Most of them have worked in the U.S. for many years after getting their master's degrees from American universities or were born or raised in the U.S. Why set up the startup in Taiwan? \"Taiwan has a very well-developed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20220925VL202.html",
-      "originalUrl": "https://www.digitimes.com/news/a20220925VL202.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20220925vl202_files/1_2b.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-26T00:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto.md",
-      "title": "It is time to shun C, C++ languages for new projects: Microsoft Azure CTO",
-      "excerpt": "\"Rust\" is now being used within the Android Open Source Project (AOSP) at Meta, at Amazon Web Services (AWS) and Microsoft, reports ZDNet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestatesman.com/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto-1503115247.html",
-      "originalUrl": "https://www.thestatesman.com/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto-1503115247.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestatesman.com/wp-content/uploads/2022/09/0da9bd4f8fc06cb457a2a9b3d6a6f0cc.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestatesman.com/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto-1503115247.html/amp",
-      "cdnAmpWebUrl": "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto-1503115247.html/amp",
-      "publishedDateTime": "2022-09-25T22:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Statesman",
-        "domain": "thestatesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-baden-bower-firework-games-collaborates-with-aws-on-the-upcoming-release-of-its-first-3d-space-battle-royale-game.md",
-      "title": "Baden Bower: Firework Games Collaborates with AWS on the Upcoming Release of Its First 3D Space Battle Royale Game",
-      "excerpt": "Firework Games has been working with Amazon Web Services (AWS), the largest cloud infrastructure provider, on the imminent release",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-09/57140797-baden-bower-firework-games-collaborates-with-aws-on-the-upcoming-release-of-its-first-3d-space-battle-royale-game-296.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-09/57140797-baden-bower-firework-games-collaborates-with-aws-on-the-upcoming-release-of-its-first-3d-space-battle-royale-game-296.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-25T19:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

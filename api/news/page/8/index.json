@@ -2,6 +2,154 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-12-07-uber-launches-driverless-rides-with-av-company-motional.md",
+      "title": "Uber launches driverless rides with AV company Motional",
+      "excerpt": "Uber's rival is also partnered with Motional and launched driverless rides in Las Vegas at CES in 2018. They also plan to become fully driverless in 2023. Needless to say, the race is on.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/uber-launches-driverless-rides-av-110000428.html",
+      "originalUrl": "https://www.aol.com/news/uber-launches-driverless-rides-av-110000428.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_mashable_370/16eb380bff4dcecc9f6f03365ad6f717",
+          "width": 1026,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T03:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-googles-vertex-ai-vision-brings-no-code-to-computer-vision.md",
+      "title": "Google's Vertex AI Vision brings no-code to computer vision",
+      "excerpt": "Vertex AI Vision combines video sources, machine learning models, and data warehouses to deliver rich insights and computer vision",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3680148/googles-vertex-ai-vision-brings-no-code-to-computer-vision.html",
+      "originalUrl": "https://www.infoworld.com/article/3680148/googles-vertex-ai-vision-brings-no-code-to-computer-vision.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/28/10/shutterstock_561931702-100932824-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 741,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3680148/googles-vertex-ai-vision-brings-no-code-to-computer-vision.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3680148/googles-vertex-ai-vision-brings-no-code-to-computer-vision.amp.html",
+      "publishedDateTime": "2022-12-07T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-ai-chip-for-data-centers-market-a-detailed-analysis-of-latest-market-trend-with-growth-projections-through-2029.md",
+      "title": "AI Chip for Data Centers Market: A Detailed Analysis of Latest Market Trend with Growth Projections Through 2029",
+      "excerpt": "Dec 07, 2022 (The Expresswire) -- \"Final Report will add the analysis of the COVID-19 and Russia Ukraine war impact on this industry.\" The \"AI Chip for",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-chip-for-data-centers-market-a-detailed-analysis-of-latest-market-trend-with-growth-projections-through-2029-2022-12-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-chip-for-data-centers-market-a-detailed-analysis-of-latest-market-trend-with-growth-projections-through-2029-2022-12-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T02:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-07-canva-opens-up-access-to-docs-in-beta-adds-magic-write-generative-ai-copywriting-tools.md",
       "title": "Canva Opens Up Access To Docs In Beta, Adds “Magic Write” Generative AI Copywriting Tools",
       "excerpt": "Canva launched Canva Docs in an open beta today, a cloud-based hybrid of a word processor and publishing tool. In addition, Canva Docs will be adding \"Magic Write,\" a generative AI copywriting tool.",
@@ -999,161 +1147,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-ai-haikus-are-getting-better-at-least-in-japanese.md",
-      "title": "AI Haikus Are Getting Better - At Least In Japanese",
-      "excerpt": "Researchers at Kyoto University discovered that people find it difficult to distinguish AI-generated haikus from those written by human poets, and that human/AI collaborations led to the most interesting haikus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/evaamsen/2022/12/06/ai-haikus-are-getting-betterat-least-in-japanese/",
-      "originalUrl": "https://www.forbes.com/sites/evaamsen/2022/12/06/ai-haikus-are-getting-betterat-least-in-japanese/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/638fcf00bf23bdd1660d99a0/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/evaamsen/2022/12/06/ai-haikus-are-getting-betterat-least-in-japanese/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evaamsen/2022/12/06/ai-haikus-are-getting-betterat-least-in-japanese/amp/",
-      "publishedDateTime": "2022-12-06T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-sellscale-uses-generative-ai-to-create-better-marketing-emails.md",
-      "title": "Sellscale uses generative AI to create better marketing emails",
-      "excerpt": "SellScale announced today it has raised $3 million in funding led by Pear.VC’s Pejman Nozad, with participation from Ovo Fund’s Eric Chen and Browder Capital’s Joshua Browder. The startup claims its revenue has doubled month over month for the last three months.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/06/sellscale-funding/",
-      "originalUrl": "https://techcrunch.com/2022/12/06/sellscale-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1358638101.jpg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/06/sellscale-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/06/sellscale-funding/amp/",
-      "publishedDateTime": "2022-12-06T14:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-how-startups-can-help-build-a-sustainable-future.md",
-      "title": "How startups can help build a sustainable future",
-      "excerpt": "Google's Startups for Sustainable Development program supports impact-driven startups who are building a more sustainable future.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/outreach-initiatives/sustainability/startups-for-sustainable-development/",
-      "originalUrl": "https://blog.google/outreach-initiatives/sustainability/startups-for-sustainable-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sfsd-crop-hero.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-06T13:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

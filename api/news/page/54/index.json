@@ -2,6 +2,126 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2022-10-28-usd-681-billion-growth-in-ai-market-size-in-2021-expected-to-record-a-cagr-of-148-during-2021-2026-predicts-globaldata.md",
+      "title": "USD 68.1 Billion Growth In AI Market Size In 2021, Expected To Record A CAGR Of 14.8% During 2021-2026, Predicts Globaldata",
+      "excerpt": "The latest market research report titled has been published by GlobalData Plc on their report store. The report estimates the market witnessed a gro",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105094742/USD-681-Billion-Growth-In-AI-Market-Size-In-2021-Expected-To-Record-A-CAGR-Of-148-During-2021-2026-Predicts-Globaldata",
+      "originalUrl": "https://menafn.com/1105094742/USD-681-Billion-Growth-In-AI-Market-Size-In-2021-Expected-To-Record-A-CAGR-Of-148-During-2021-2026-Predicts-Globaldata",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?420875",
+          "width": 374,
+          "height": 249,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-28T00:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-tesla-ford-and-vw-sound-the-death-knell-for-driverless-car-hype.md",
+      "title": "Tesla, Ford and VW Sound the Death Knell for Driverless Car Hype",
+      "excerpt": "By contrast, Argo CEO Bryan Salesky emphasized the need for safe and limited deployments of test vehicles and close partnerships with cities and stakeholders that its driverless cars would share the road with. Neither the scorched-earth nor the nice-guy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.supplychainbrain.com/articles/35963-tesla-ford-and-vw-sound-the-death-knell-for-driverless-car-hype",
+      "originalUrl": "https://www.supplychainbrain.com/articles/35963-tesla-ford-and-vw-sound-the-death-knell-for-driverless-car-hype",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.supplychainbrain.com/ext/resources/2022/10/27/AI-DRIVERLESS-CAR-SELF-DRIVING-AUTOMOBILE-BLOOMBER.jpg?height=635&t=1666931214&width=1200",
+          "width": 953,
+          "height": 635,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-27T21:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Supply Chain",
+        "domain": "supplychainbrain.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-long-covid-how-lost-connections-between-nerve-cells-in-the-brain-may-explain-cognitive-symptoms.md",
+      "title": "Long COVID: how lost connections between nerve cells in the brain may explain cognitive symptoms",
+      "excerpt": "Some people with long COVID complain of “brain fog”, which includes a wide variety of cognitive symptoms affecting memory, concentration, sleep and speech. There’s also growing concern about ...",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/long-covid-how-lost-connections-between-nerve-cells-in-the-brain-may-explain-cognitive-symptoms-192702",
+      "originalUrl": "https://theconversation.com/long-covid-how-lost-connections-between-nerve-cells-in-the-brain-may-explain-cognitive-symptoms-192702",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/long-covid-how-lost-connections-between-nerve-cells-in-the-brain-may-explain-cognitive-symptoms-192702",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/long-covid-how-lost-connections-between-nerve-cells-in-the-brain-may-explain-cognitive-symptoms-192702",
+      "publishedDateTime": "2022-10-27T20:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-28-artificial-intelligence-has-an-achilles-heel-data.md",
       "title": "Artificial Intelligence Has An Achilles Heel: Data",
       "excerpt": "Artificial intelligence just doesn’t pop up when you install tools and software. It takes planning and, most of all, it takes data. But getting the right data to make AI and machine learning algorithms — and understanding it — is where many organizations are slipping up,",
@@ -1038,144 +1158,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-trust-and-ethics-in-ai-systems-possible.md",
-      "title": "Trust and ethics in AI systems - possible?",
-      "excerpt": "I asked the question whether we should fear the accelerating AI systems. My answer was: yes, we should be scared.",
-      "sourceUrl": null,
-      "webUrl": "https://www.philstar.com/the-freeman/cebu-business/2022/10/28/2219896/trust-and-ethics-ai-systems-possible",
-      "originalUrl": "https://www.philstar.com/the-freeman/cebu-business/2022/10/28/2219896/trust-and-ethics-ai-systems-possible",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.philstar.com/photos/2022/10/24/watsons-club_2022-10-24_13-36-56343_thumbnail.jpg",
-          "width": 686,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.philstar.com/the-freeman/cebu-business/2022/10/28/2219896/trust-and-ethics-ai-systems-possible/amp/",
-      "cdnAmpWebUrl": "https://www-philstar-com.cdn.ampproject.org/c/s/www.philstar.com/the-freeman/cebu-business/2022/10/28/2219896/trust-and-ethics-ai-systems-possible/amp/",
-      "publishedDateTime": "2022-10-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "philstar.com",
-        "domain": "philstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-lego-to-discontinue-mindstorms-robot-line-after-a-24-year-run.md",
-      "title": "Lego to discontinue Mindstorms robot line after a 24-year run",
-      "excerpt": "Lego Mindstorms debuted on September 1, 1998, as a breakthrough educational tool—originally developed at MIT—that allowed kids and adults alike to craft robotic systems using",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2022/10/lego-to-discontinue-mindstorms-robot-line-after-a-24-year-run/",
-      "originalUrl": "https://arstechnica.com/gadgets/2022/10/lego-to-discontinue-mindstorms-robot-line-after-a-24-year-run/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/lego_mindstorms_hero-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-your-guide-to-robotic-prostatectomy-procedure-recovery-and-alternatives.md",
-      "title": "Your Guide to Robotic Prostatectomy: Procedure, Recovery, and Alternatives",
-      "excerpt": "During this procedure, a surgeon removes your prostate by guiding a robotic arm from behind a control panel. The robotic arm allows for greater precision than if they perform the surgery by hand.",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthline.com/health/prostate-cancer/robotic-prostatectomy",
-      "originalUrl": "https://www.healthline.com/health/prostate-cancer/robotic-prostatectomy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://post.healthline.com/wp-content/uploads/2022/09/Doctor-Robotic-surgery-facebook-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healthline",
-        "domain": "healthline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

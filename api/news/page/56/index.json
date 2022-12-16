@@ -2,6 +2,152 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2022-10-27-ford-posts-loss-as-it-takes-27-billion-charge-on-argo-driverless-venture.md",
+      "title": "Ford Posts Loss as It Takes $2.7 Billion Charge on Argo Driverless Venture",
+      "excerpt": "Ford Motor Co. swung to a third-quarter loss because of a hefty charge associated with the shutdown of the auto maker’s autonomous-driving venture Argo AI, the latest setback in the pursuit of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ford-to-take-2-7-billion-charge-on-argo-driverless-startup-stake-11666816138",
+      "originalUrl": "https://www.wsj.com/articles/ford-to-take-2-7-billion-charge-on-argo-driverless-startup-stake-11666816138",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-652612/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-26T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-autonomous-vehicle-startup-argo-ai-is-shutting-down.md",
+      "title": "Autonomous vehicle startup Argo AI is shutting down",
+      "excerpt": "In an earnings report, Ford (a major investor in Argo AI) noted that the company is being wound down and that it will hire engineers from the startup to expand and speed up development of Level 2 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/autonomous-vehicle-startup-argo-ai-shutting-down-203250200.html",
+      "originalUrl": "https://www.aol.com/news/autonomous-vehicle-startup-argo-ai-shutting-down-203250200.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/N23kYSCPfLUp_7gqNB_8vA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODA-/https://s.yimg.com/os/creatr-uploaded-images/2022-10/4f5ebfd0-5569-11ed-b7a7-463230a7765b",
+          "width": 1199,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-26T14:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-how-ai-powers-sams-clubs-holiday-product-assortment.md",
+      "title": "How AI powers Sam’s Club’s holiday product assortment",
+      "excerpt": "“We have patented models around object detection which have roughly about 90% accuracy ... Club associates, he insists, love the inventory intelligence and item recognition technology. “Instead of having to manually find out all of these details ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-sams-club-uses-ai-to-get-pumpkin-pie-to-holiday-tables/",
+      "originalUrl": "https://venturebeat.com/ai/how-sams-club-uses-ai-to-get-pumpkin-pie-to-holiday-tables/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1132704475.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-sams-club-uses-ai-to-get-pumpkin-pie-to-holiday-tables/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-sams-club-uses-ai-to-get-pumpkin-pie-to-holiday-tables/amp/",
+      "publishedDateTime": "2022-10-26T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-27-tesla-is-reportedly-under-doj-criminal-probe-over-self-driving-claims.md",
       "title": "Tesla is reportedly under DoJ criminal probe over self-driving claims",
       "excerpt": "Tesla is reportedly under criminal investigation by the Department of Justice in the United States over self-driving claims.",
@@ -1069,153 +1215,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-introducing-vision-studio-a-ui-based-demo-interface-for-computer-vision.md",
-      "title": "Introducing Vision Studio, a UI-based demo interface for Computer Vision",
-      "excerpt": "Are you looking to improve the analysis and management of images and videos? The Computer Vision API provides access to advanced algorithms for processing media and returning information.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/introducing-vision-studio-a-uibased-demo-interface-for-computer-vision/",
-      "originalUrl": "https://azure.microsoft.com/blog/introducing-vision-studio-a-uibased-demo-interface-for-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/97d85a19-b0dc-47b0-8532-dc8f7b366e05.png",
-          "width": 1024,
-          "height": 607,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-26T01:00:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-hebrew-u-to-open-joint-phd-program-research-partnership-with-meta-ai.md",
-      "title": "Hebrew U to open joint PhD program, research partnership with Meta AI",
-      "excerpt": "Doctoral program to provide students with mentors from the Facebook parent company, access to facilities and computational infrastructure",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/hebrew-u-to-open-joint-phd-program-research-partnership-with-meta-ai/",
-      "originalUrl": "https://www.timesofisrael.com/hebrew-u-to-open-joint-phd-program-research-partnership-with-meta-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2022/08/AP22239576829786-640x400.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/hebrew-u-to-open-joint-phd-program-research-partnership-with-meta-ai/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/hebrew-u-to-open-joint-phd-program-research-partnership-with-meta-ai/amp/",
-      "publishedDateTime": "2022-10-26T00:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-latticeflow-raises-12m-to-eliminate-computer-vision-blind-spots.md",
-      "title": "LatticeFlow raises $12M to eliminate computer vision blind spots",
-      "excerpt": "LatticeFlow, a startup that was spun out of Zurich’s ETH in 2020, helps machine learning teams improve their AI vision models by automatically diagnosing issues and improving both the data and ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/26/latticeflow-raises-12m-to-eliminate-computer-vision-blind-spots/",
-      "originalUrl": "https://techcrunch.com/2022/10/26/latticeflow-raises-12m-to-eliminate-computer-vision-blind-spots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1382834268.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/26/latticeflow-raises-12m-to-eliminate-computer-vision-blind-spots/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/26/latticeflow-raises-12m-to-eliminate-computer-vision-blind-spots/amp/",
-      "publishedDateTime": "2022-10-26T00:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

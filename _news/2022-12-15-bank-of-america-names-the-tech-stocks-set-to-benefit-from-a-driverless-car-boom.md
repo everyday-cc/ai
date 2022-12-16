@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2022/12/15/bofa-names-2-stocks-with-upside-in
 webUrl: "https://www.cnbc.com/2022/12/15/bofa-names-2-stocks-with-upside-in-transition-to-self-driving-cars.html"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Driverless Car Market : Outlook, In-depth Analysis, Industry Drivers, Key Trends, Projections, and Future opportunities for the period 2023-2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Driverless"
-    publishedDateTime: 2022-12-11T10:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/driverless-car-market-outlook-in-depth-analysis-industry-drivers-key-trends-projections-and-future-opportunities-for-the-period-2023-2028-2022-12-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 12
 
 secured: "u9Aq5X8330kEegrBYyT2ScaCX/qsVdFpMm2qHlKnvlQft/gewx4N6Vw7YDBumnJlXHQtwsvhhS+GAWq1hECosMD6b+m8Fxhj0WsCw2ymOuSn7tZ0SWycOvD9S2uQ39kq4mLuV/LECNX5eQ1as1l5bC2KPQ3EZaCLYwS9GOMUfccqAL8Odhkh0enSNbRTX1YkLb7QThPJK5SwxeNZd/AW0LSYKYOReqbp3xCrb4n4AmSvddB5cmvdDgafYNTqEZADV7WuVzFCet+3Gc9UoMJBk0JZPiHh1vg2yU4iNeJnnJB9m3I7DKlkUe9ky/vOucFZX/qSREPcxBEcBpJlg6997UTnYYhKLUxzAfAhRsDMMZWgzqO5AdAG3nnk28n0A6UYCZ74lpzuVQvZx8pi73M4ls6HVemr0lGNr5FbOFBktRK6JBoy29q2ARPbKV1b74YiTC92NlG8vZ+PtJv6Qcn97nEMOZOAa6z2+uX9kaGi5gJFQcrnIMUf5pcbab+Kf/P7DzMtGKB8BtlygicuA4bTiw==;FcAu9Hfv08wcc6vnd4zUkQ=="
 ---
