@@ -6,8 +6,8 @@ publishedDateTime: 2022-12-16T21:15:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2022/12/221215161557.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/12/221215161557.htm"
 type: article
-quality: 42
-heat: 42
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 related:
   - title: "Artificial intelligence searches an early sign of osteoarthritis from an X-ray image – might save from unnecessary treatments and examination"

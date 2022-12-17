@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-stretch-of-the-imagination/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -96,15 +96,6 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 39
-  - title: "AI and data democratization"
-    excerpt: "Data democratization is a concept that has taken hold, but what does it actually mean? The simplest definition of “data democratization” is making data accessible and available to all employees and stakeholders without bottlenecks and gates."
-    publishedDateTime: 2022-12-12T08:31:00Z
-    webUrl: "https://www.fastcompany.com/90822887/ai-and-data-democratization"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
 
 secured: "raUxy6rMBKNCLDymwrA1FBnS3zc3r4X1LqTwRC6nrRbwrvVQ9i3qNJt/bpOvtQ/Desi+TXfG1yKM4JJEWistpZ7SZwJuWcLPBN7RerCU8aVseKJmB0nib6rSWqVkRhpO7Jhjt/2aTED6ByRNppzTqkgKc1uwAkf9fr+ZcJMA5SRvSkHGme2PprPKEN7k+KWF458jH5qRYoLxlJQEL16Ua50+2MDNeCysZ7usCTJp/tTz37yVjJOfSkSu9CwsgShi/rhAMBqqEGWybDr4WahYkdoTmaN/9iBo+eZyhBh5ITwsi27KKHi/opQ891Q/eBtvIecf1ChsnUNAspC/0oNZ9nGaebuGrmI3XXRfWA/UIXoi3xGyuJVWu1UvB0NHMR3CeUJXuluZrEwcqekl3sk5rH5jvNgWcNbsI/9uNua4XOCxOLg3aQPe3m1gaoQ4PGOExTAD8owk62+J/cc0a2hxxZsVKp8GKGWJ1CWlMaUx9K7BU2z6meX3wRPNvei2RmVxoWWKFc0dKYCSA6UFrUxPBw==;6ee66qhj6O+jEUg2S5hr0Q=="
 ---

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Stellar Cyber Integrates with Deep Instinct's Deep Learning Technology for Unrivaled Cyber Attack Prevention"
-excerpt: "Under this latest integration, Deep Instinct's revolutionary approach to leverage deep learning is able to continuously analyze endpoints, servers, and other network assets to detect and prevent more than 99% of potential attacks."
-publishedDateTime: 2022-12-14T14:43:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-stellar-cyber-integrates-with-deep-instincts-deep-learning-/2022/12/14/9730268.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-stellar-cyber-integrates-with-deep-instincts-deep-learning-/2022/12/14/9730268.htm"
+excerpt: "Stellar Cyber, the innovator of Open XDR, today announced a new integration with Deep Instinct, the first company to apply end-to-end deep learning to cybersecurity, and its endpoint solution. This powerful integration makes it easy for enterprise and MSSP customers using the Stellar Cyber Open XDR platform to deliver Deep Instinct's unsurpassed prevention capabilities across the entire attack surface."
+publishedDateTime: 2022-12-14T15:28:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/12/14/9730268.htm"
+webUrl: "https://it.tmcnet.com/news/2022/12/14/9730268.htm"
 type: article
 quality: 0
 heat: 0
@@ -18,6 +18,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "o2EKgPysW+kXMmrUx9M+HrCDAiByd2QbRwYmK+9scdGT0EzvyW6z8XnczBih/Eyb4xz4qMl478mvEIZl2JhkW2HHs5vletbzWbN9RIG28bfI6p2SZza1yP/5bvWpZoRkUA6cZZQfOKnWrtV20n0iQG8gsf8zP72orqeUFuttLvyh2txAgpjEHd3iPSGvl7m9/7Z/k78i8LUhTTjjYW8SQcBtoCDaZKaUM9LJCV7dM5iwEkDIZUp9RTvLgyoMTvy10KsqdCes46B+0PH9pjlReuxR8h5MtupLhNdQmW2n96BIBGn9ZFfuB+uXv/I36zNkqZOuEUzdqF5NpJpTfG+FO4+9pUI1F6YZhA9n9WPfUV0=;nu/HOfTzdoM7ltYL42+2mw=="
+secured: "wUpE5pjmA8JpLrEld4Wnudkgkpm5V/LezQj+QpRq4NOgNQqucDwLjcea47bdt43hNInQNva6lvVHkL/gaTKY403iYM/nseUhQknyNcYkDlJUTxr4mWp1DvHUgkJcwvSYXxmwZFvmAdMTOq5fT37qwM08DA2D2ZEwVubQr7pPCFDLLosYSPE1xYz/Sg6RyPk+yo48k+fke4xWLxwZOA9TVhhjylbI+VV7XtBX3uSDXzRE41P6MLfhjtboAjwZuVRqo5evRQPlVfSVjZEaO6klXrvPpN4ode4La8oALKfUEMRARx9FQgUruBbp90wQu7O61GRB075gm2h5S1CQVAWeBub3U3BjHwJDjL6rINfxhPY=;VtWTf/lh+ZK3bIyBEZ2dIg=="
 ---
 

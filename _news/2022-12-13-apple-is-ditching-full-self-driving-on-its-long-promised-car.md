@@ -87,20 +87,6 @@ related:
         width: 771
         height: 514
         isCached: true
-  - title: "Crashing in Other Parts of the World, Self-driving Cars Might Win the Race in India"
-    excerpt: "If we can get self-driving cars to work on Silk Board Junction—infamous for long traffic jams—in Bengaluru, it will work in the US, it will work in Europe, and it will work in the backyard of Elon Musk as well,"
-    publishedDateTime: 2022-12-12T07:42:00Z
-    webUrl: "https://analyticsindiamag.com/crashing-in-other-parts-of-the-world-self-driving-cars-might-win-the-race-in-india/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 18
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/The-moral-dilemma-of-embedding-ethics-into-autonomous-vehicles.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Apple scales back self-driving car and delays debut till ’26"
     excerpt: "Apple has scaled back ambitious self-driving plans for its future electric vehicle and postponed the car’s target launch date by about a year to 2026, according to people with knowledge of the matter."
     publishedDateTime: 2022-12-12T13:00:00Z

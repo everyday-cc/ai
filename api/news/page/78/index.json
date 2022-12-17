@@ -2,6 +2,103 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2022-10-10-from-chatbots-to-predictive-analytics-6-ways-ai-can-help-your-business.md",
+      "title": "From Chatbots to Predictive Analytics: 6 Ways AI Can Help Your Business",
+      "excerpt": "Artificial intelligence, or AI, is one of the most talked about technologies today. And for a good reason – it has the potential to change the way we live and work. In business, there are endless ways that AI can be used to improve efficiency,",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/from-chatbots-to-predictive-analytics-6-ways-ai-can-help-your-business/",
+      "originalUrl": "https://techbullion.com/from-chatbots-to-predictive-analytics-6-ways-ai-can-help-your-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2022/10/Chatbots-to-Predictive-Analytics.jpg",
+          "width": 512,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/from-chatbots-to-predictive-analytics-6-ways-ai-can-help-your-business/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/from-chatbots-to-predictive-analytics-6-ways-ai-can-help-your-business/amp/",
+      "publishedDateTime": "2022-10-10T00:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-10-machine-learning-vs-deep-learning-vs-neural-networks-whats-the-difference.md",
+      "title": "Machine learning vs deep learning vs neural networks: What’s the difference?",
+      "excerpt": "The terms machine learning and deep learning can seem interchangeable to most people, but they aren’t. Both considered subdivisions within the world of artificial intelligence (AI), the two have many differences,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/machine-learning/369163/machine-learning-vs-deep-learning-vs-neural-networks",
+      "originalUrl": "https://www.itpro.co.uk/technology/machine-learning/369163/machine-learning-vs-deep-learning-vs-neural-networks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816707/itpro/2019/01/ai_shutterstock_1089540200.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-10T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-10-10-deep-learning-chipset-market-highly-favourable-to-the-growth-rate-by-2028.md",
       "title": "Deep Learning Chipset Market Highly Favourable To The Growth Rate By 2028",
       "excerpt": "Deep Learning Chipset market trends from 2022 to 2028 The Global Deep Learning Chipset research report 2022-2028 provides",
@@ -1024,92 +1121,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-08-wike-signs-legislative-instrument-revoking-omehias-recognition-as-ex-rivers-gov.md",
-      "title": "Wike signs legislative instrument revoking Omehia’s recognition as ex-Rivers gov",
-      "excerpt": "“That in the first instance, the recognition was extra-judicial ... ordinarily should serve as the bastion of democracy, the voice and conscience of Rivers people, be reduced to the Governor ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vanguardngr.com/2022/10/wike-signs-legislative-instrument-revoking-omehias-recognition-as-ex-rivers-gov/",
-      "originalUrl": "https://www.vanguardngr.com/2022/10/wike-signs-legislative-instrument-revoking-omehias-recognition-as-ex-rivers-gov/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vanguardngr.com/wp-content/uploads/2020/06/Nyesom-Wike-APC-the-juicy-blog.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vanguardngr.com/2022/10/wike-signs-legislative-instrument-revoking-omehias-recognition-as-ex-rivers-gov/",
-      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2022/10/wike-signs-legislative-instrument-revoking-omehias-recognition-as-ex-rivers-gov/",
-      "publishedDateTime": "2022-10-07T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vanguard",
-        "domain": "vanguardngr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-08-chip-stocks-crushed-to-two-year-low-as-more-tech-ai-ban-to-china-add-to-woes.md",
-      "title": "Chip stocks crushed to two-year low as more tech, AI ban to China add to woes",
-      "excerpt": "The chip sector melted down Friday for its third ... ambitions as it issued wider restrictions on semiconductor and AI technology that can be sold to the world’s second-largest economy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/chip-stocks-slammed-by-new-ban-on-chip-and-ai-technology-for-china-11665168715",
-      "originalUrl": "https://www.marketwatch.com/story/chip-stocks-slammed-by-new-ban-on-chip-and-ai-technology-for-china-11665168715",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-07T12:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

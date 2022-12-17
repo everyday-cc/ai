@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Empowering the future of financial markets with London Stock Exchange Group"
-    excerpt: "Microsoft looks to generate $5 billion in revenue from LSEG and the financial services sector through 10-year strategic partnership. Today, we announced a 10-year strategic partnership with the London Stock Exchange Group (LSEG),"
-    publishedDateTime: 2022-12-12T07:59:00Z
-    webUrl: "https://blogs.microsoft.com/blog/2022/12/11/empowering-the-future-of-financial-markets-with-london-stock-exchange-group/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 24
-    images:
-      - url: "https://blogs.microsoft.com/wp-content/uploads/prod/2022/12/MSC22_Getty_UK_Finance_1312551627_1773x997-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Microsoft Looks to Generate $5 Billion in Revenue from LSEG and the Financial Services Sector Through 10-year Strategic Partnership"
     excerpt: "Microsoft announced a 10-year strategic partnership with the London Stock Exchange Group (LSEG), a world-leading financial markets infrastructure and data provider. Following LSEG’s acquisition of Refinitiv,"
     publishedDateTime: 2022-12-12T17:52:00Z

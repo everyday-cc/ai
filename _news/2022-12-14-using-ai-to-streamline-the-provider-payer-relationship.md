@@ -92,15 +92,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI and data democratization"
-    excerpt: "Data democratization is a concept that has taken hold, but what does it actually mean? The simplest definition of “data democratization” is making data accessible and available to all employees and stakeholders without bottlenecks and gates."
-    publishedDateTime: 2022-12-12T08:31:00Z
-    webUrl: "https://www.fastcompany.com/90822887/ai-and-data-democratization"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
 
 secured: "ypIHTy8rfEv8ElBkgLfiZO2WxvGb09WtAbEtGHIc7mRnV2vbeYDQm03qvHzCDkSTVov6gV/ty3hqI89szABq6yAo6sp7LSDo0i1nuVeghAGzFjtMJMbVZVMZkEoor89C/MONa4gvnXDQCiDXqQKyW1sVIAD65mGn9umBokWj0Yo0zWhEfZe6vdmU6T3r4LyJeyq720X4KZmfm5PDaB8SN+i1Fqlxpt4zpPLBeRTgg+cIXJqsE0FR5lcHewsm1VFRbq7zHKnGJ/psTT80nJNj1+B+Hbt8NahMe79FrxDThHd2VEzNRChpCpdWBORnat7JhmbxsGo/+IQpntTZt5IK/l3xLh+44BdssJ9fLvSbQIE=;0xxJE4OA2+6UR5uEa6s0Ig=="
 ---

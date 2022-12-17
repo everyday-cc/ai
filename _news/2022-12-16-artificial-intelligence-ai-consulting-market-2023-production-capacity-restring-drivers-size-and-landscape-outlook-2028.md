@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial intelligence (AI) in Supply Chain and Logistics Solution Market Size, Share, Financial Analysis from 2022-2027"
-    excerpt: "The Global Artificial intelligence (AI) in Supply Chain and Logistics Market research combines extensive quantitative analysis and exhaustive qualitative analysis. It ranges from a macro overview of total market size,"
-    publishedDateTime: 2022-12-12T08:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-solution-market-size-share-financial-analysis-from-2022-2027-2022-12-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The Neural Network Software market research report forecasts market size by type, application, and region."
     excerpt: "The “ Neural Network Software market research report\" main objective is to give Neural Network Software market players an understanding of the post-COVID-19 effect so they can evaluate their business plans."
     publishedDateTime: 2022-12-12T15:38:00Z

@@ -23,6 +23,22 @@ images:
     height: 768
     isCached: true
 
+related:
+  - title: "Artificial Intelligence Helps Streamline Assembly"
+    excerpt: "Engineers at the Massachusetts Institute of Technology have developed a new algorithm that can be applied to a wide range of complex real-world assemblies."
+    publishedDateTime: 2022-12-17T00:35:00Z
+    webUrl: "https://www.assemblymag.com/articles/97515-artificial-intelligence-helps-streamline-assembly"
+    type: article
+    provider:
+      name: Assembly Mag
+      domain: assemblymag.com
+    quality: 37
+    images:
+      - url: "https://www.assemblymag.com/ext/resources/images/MIT.jpeg?height=635&t=1671232805&width=1200"
+        width: 825
+        height: 550
+        isCached: true
+
 secured: "6XrZJgeRMlQqFRPkUq0p47rpuCkrUdtZCRgCSzwZpThg0F3xtE9G9blWRoUhym1z/IcbV5SYNHw4ANTGEwprIrwSsbhskg2V6agCq4qGJ2VisIVaO/dfCw8bzeVK1QyoG5n6wHKYV/H4fuActkN69Qv11WbjqBncHBXWbOSWroS34sVN23LOuVIE4QDGIFsfppd8a40Hr8khVZ9mH6nmfUFufd38bVhMpmoq1yNc+vUfnKt1ax2vAIgHQ0xySTK5L/+xlwEHTABpUAOGXh9hQqBIyxs36kxP+mwzUI4LLEL8DNsy4qKVCucn7/Df1OBdeBBNabNQ2EPEcZFMxxMbsyy2t31+dNa5hNd3LLgofskf/bkzCRZ8hDEYZ+rMjM7DWMiHPC61cdvvgczyQaMT3SnskjyEpy+dNkiKKqPq9Qx1q26SJG8hEz3b+y+wUWm8Lz3EWXBMdIN2DhFgVyYs8oos+YZBjzqBXIvogHqThrfBA8/ULozZxkCCv6vSylwHKoH9tEpbdGPwO82vzJWvIw==;rl0Wnphwh4plo3okxaa13A=="
 ---
 

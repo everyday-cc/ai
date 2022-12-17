@@ -93,15 +93,6 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 39
-  - title: "AI and data democratization"
-    excerpt: "Data democratization is a concept that has taken hold, but what does it actually mean? The simplest definition of “data democratization” is making data accessible and available to all employees and stakeholders without bottlenecks and gates."
-    publishedDateTime: 2022-12-12T08:31:00Z
-    webUrl: "https://www.fastcompany.com/90822887/ai-and-data-democratization"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
 
 secured: "N1LYri9dt1YKq3xid6Ny2H5S9zmXdE/0g5y2BNxxOhvbtiilVFsQjN2xiR7TVjWA8O/xd0OKinJAaG9wPTCMLlbdgVamhugfehxBjGcVxi9/dieyV4wnttuDMaXhluMRrV1SowQh1/v9lJW35slhTptFRGhVB2iArdaV4dYiR7OWHdFwuRP0SUArLwgeyBCKrLMgu1UEQJ4hsWZUjWVzCEchTuViJpR7dlnDBarbqMBr3M7eYXLOkZ3SqqNVagiKbFD9uyP2vfxx/F5pAn8C7vqAojZyLxNelnqmW0iVyrW2kPgf0puPqLbhN1f6sk+tZsTnO2zVlSJBJ2d0O8QUYh/qRAxUb1k4kxMFKJ4YQYg=;Ld95FW1QwqaWWByhPexuWw=="
 ---

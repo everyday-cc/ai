@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-ma
 webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-2022-12-12"
 type: article
 quality: 71
-heat: 201
+heat: 191
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence (AI) in Supply Chain and Logistics Solution Market Size, Share, Financial Analysis from 2022-2027"
-    excerpt: "The Global Artificial intelligence (AI) in Supply Chain and Logistics Market research combines extensive quantitative analysis and exhaustive qualitative analysis. It ranges from a macro overview of total market size,"
-    publishedDateTime: 2022-12-12T08:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-solution-market-size-share-financial-analysis-from-2022-2027-2022-12-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) Consulting Market 2023 : Production Capacity, Restring Drivers, Size and Landscape Outlook 2028"
     excerpt: "Consulting Market \" Insights 2022 - By Applications (Technology Consulting,Management Consultin), By Types (, Strategy Development, Strategy Execution, Commercial Due Diligence, Customer Training), By Segmentation analysis,"
     publishedDateTime: 2022-12-16T01:36:00Z
