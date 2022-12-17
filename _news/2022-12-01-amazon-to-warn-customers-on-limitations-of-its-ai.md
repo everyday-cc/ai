@@ -15,6 +15,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "MMiFR0JXTkH7XaGLEvdK9vxx68ZU17f+HDlF3mTxMPcWjtrvYnueFuuDBr1S/tmdExjB5A/tFGfdazaDEkFBQDI7BnS+70g3x3yCpuY/rYa5hirbMrasY6dRUjsjIgShMU07xm+l7CY7vhO1WIQaNfWGaNrk1DTMFzSRd9KLP8EKqTkyuzh4BkdeyunAGDzMQ6+sRGM9jcJTWNck944tM94VJ5W7HeH4ji90j0jhkNR9Ey313vneaWcDxirpUUKv8yN0wXMjwfDlO5eyEvuWm8/X0TgmPlduHfsUBa8n4KAtczDARR6GaASMdNRIArOPN62OB60leht3IWlSclUr1Z2L5VrDxdT4jGC/b6wYYI4=;7C8PMV8X6KSadG0v/lDifw=="
+images:
+  - url: "https://static.euronews.com/articles/wires/896/14/8961478/1000x563_we9fl.jpg"
+    width: 1000
+    height: 563
+    isCached: true
+
+secured: "XXlo7+LKAhTD3yDdSNOwyZMDmFDd6RnkQlfmj3IfqpYBuVwqBK8erDqV7XdVzauJWlkh/+D4P8DCXicRDMp4tEQYBx9T2edgXsCPmXWF9EZDUimzM4yDevAZvHpK1JLUFr2i9nRP4Y58Fma5+lgtg1pI7lz8xLxPm0u4fISpwXmRiEqkMG3JcIhVnYARDv/3NEu31V8oGuPKnfifkK11FadTvcjQXV6KUNp1QqSYSlXbLLXmJfIz2dKW4qwn0SVjsLZ6S5eoedV6KJKBOvCTbGS/rsIti2XF2/SJ5Blb1Uh7kcUIaU3NLX7IDXlHoV3oXgpYxleVReg+Gj1gBFjplcgG0DkklrI4W8JAOQRNH5A=;vfO8LSYMQHyiR+BF06R3ag=="
 ---
 

@@ -46,6 +46,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 50
+  - title: "AI in Fintech Market Research Report: Key Trends and Opportunities by State and Territory for period 2022 to 2028."
+    excerpt: "Given that the \" AI in Fintech Market \" is one of the industries growing at the quickest rate, it is essential for market participants to do a thorough study of the industry beforehand. The industry analysis and market research report for the AI in Fintech sector look at the global market from 2022 to 2028."
+    publishedDateTime: 2022-12-17T16:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-research-report-key-trends-and-opportunities-by-state-and-territory-for-period-2022-to-2028-2022-12-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Face Recognition Device Market Is Likely to Experience a Strong Growth in Forth Coming Years with Top Countries Data"
     excerpt: "The \"Face Recognition Device Market\" Exploration Report features significant top key participant’s investigation"
     publishedDateTime: 2022-12-14T14:36:00Z

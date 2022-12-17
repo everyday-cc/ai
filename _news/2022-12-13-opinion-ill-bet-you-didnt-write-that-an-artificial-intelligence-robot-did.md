@@ -9,8 +9,8 @@ ampWebUrl: "https://www.eastbaytimes.com/2022/12/13/opinion-ill-bet-you-didnt-wr
 cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/12/13/opinion-ill-bet-you-didnt-write-that-an-artificial-intelligencer-robot-did/amp/"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: East Bay Times
@@ -27,37 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Did a Robot write this? we need watermarks to spot AI"
-    excerpt: "And remarkably, it will soon get better. OpenAI is widely expected to release its next iteration known as GPT-4 in the coming months, and early testers say it is better than anything that came before."
-    publishedDateTime: 2022-12-13T04:33:00Z
-    webUrl: "https://www.moneycontrol.com/news/opinion/did-a-robot-write-this-we-need-watermarks-to-spot-ai-9695701.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/opinion/did-a-robot-write-this-we-need-watermarks-to-spot-ai-9695701.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/did-a-robot-write-this-we-need-watermarks-to-spot-ai-9695701.html/amp"
+  - title: "Glenn Kramon: I’ll bet you didn’t write that — a robot did"
+    excerpt: "I found the AI-generated work amazing — then breathed a sigh of relief. These early attempts at AI, at best, automate mediocrity. And sometimes they get it wrong entirely. My former student Matt Gibstein,"
+    publishedDateTime: 2022-12-17T16:43:00Z
+    webUrl: "https://www.postbulletin.com/opinion/columns/name-3"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 74
+      name: Post-Bulletin
+      domain: postbulletin.com
+    quality: 39
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/05/Robot-rock-n-roll-monkey-FTfjMijq-Ws-unsplash.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "We need digital watermarks to catch AI passing off as human"
-    excerpt: "The better that AI gets, the harder it will be to tell human and machine-made text apart. OpenAI must prioritize efforts to label the work of machines, or we could be overwhelmed with a confusing mishmash of real and fake information online."
-    publishedDateTime: 2022-12-14T04:55:00Z
-    webUrl: "https://www.livemint.com/opinion/columns/we-need-digital-watermarks-to-catch-ai-passing-off-as-human-11670952393283.html"
-    ampWebUrl: "https://www.livemint.com/opinion/columns/we-need-digital-watermarks-to-catch-ai-passing-off-as-human/amp-11670952393283.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/we-need-digital-watermarks-to-catch-ai-passing-off-as-human/amp-11670952393283.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: "https://images.livemint.com/img/2022/12/13/600x338/AI-generated-text-needs-some-kind-of-watermark--li_1670952390499.jpg"
-        width: 600
-        height: 338
+      - url: "https://cdn.forumcomm.com/dims4/default/642ea17/2147483647/strip/true/crop/3000x1458+0+272/resize/1440x700!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.amazonaws.com%2Fbrightspot%2F1d%2Fe9%2Fa737e7864a079275e7b5ecd705ed%2Foped-robot-writing-commentary-dmt.jpg"
+        width: 1440
+        height: 700
         isCached: true
 
 secured: "hEODnvTLgv6yoZ1ywhSt+Hu+2vxohqHgrn7P7C05Li3FRstZo7qwuHhyzzWp4nmFo2Q5/I4JxT4U5e0N/wHwYQDZTjF8dcAgWJ6PCuAV8AIg/M/zSP3I2sznOsIwgb+uqdxcnYWlXA7fnGzDPd/mFgXEkAWS2ymWRCzzMCuA7n0ulhMeen0mhfurUAoIJHy6wP5fR5bnjyjh4CvS7PkXegzaY8E+AdG/iozi6e5U7eGrymNmEzHfwj62rZnH/2lYl7q8NCahneY/FsV1ayTy9asfSDhPysLIKSudXXehyt4KplJbz1rW0YOv9O0leh/o8kRAdfRO2Y2+rUnppPloufsuIdVGi8FTQFq3V/4xIH8HjVUZe6tEslEKAMUZV67DfY+CyflnihEOKBQdqxLgekpN9Ipw0+27LmzsZcIxuUL7SQDLdVOvrtMf3T/wiwzeFFpcC9Gi0OxIg2nfdw9OpTtFyI5i18t9+UXzTws1ZtmOqVxVpXs0pfk5L4TeldMO5dT8TarSCOTk/cOZCSR3rw==;1kOQk9mbIjnoJX6Hdbvsow=="

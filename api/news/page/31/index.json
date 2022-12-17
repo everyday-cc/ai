@@ -2,6 +2,145 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2022-11-20-nvidia-microsoft-to-create-artificial-intelligence-supercomputer.md",
+      "title": "Nvidia, Microsoft to create artificial intelligence supercomputer",
+      "excerpt": "A \"multi-year collaboration\" between Nvidia and Microsoft is underway to create \"one of the most powerful AI supercomputers in the world,\" which will be",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/nvidia-microsoft-create-artificial-intelligence-supercomputer-1499211",
+      "originalUrl": "https://www.albawaba.com/business/nvidia-microsoft-create-artificial-intelligence-supercomputer-1499211",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2022-11/shutterstock_1819606709.jpg?itok=ER5-7BLd",
+          "width": 5120,
+          "height": 2880,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/nvidia-microsoft-create-artificial-intelligence-supercomputer-1499211",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/nvidia-microsoft-create-artificial-intelligence-supercomputer-1499211",
+      "publishedDateTime": "2022-11-19T21:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-20-robustel-5g-iot-edge-computing-gateway-certified-by-microsoft-azure-and-amazon-web-services-aws.md",
+      "title": "Robustel 5G IoT EDGE Computing Gateway certified by Microsoft Azure and Amazon Web Services (AWS)",
+      "excerpt": "Robustel's latest IoT device the EG5120 5G Edge Computing Gateway is now listed in the Microsoft Azure certified device catalogue and also Amazon Web Services (AWS) IoT Greengrass. The EG5120 helps to seamlessly extend Azure & AWS based IoT cloud services and intelligence to the network edge,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-robustel-5g-iot-edge-computing-gateway-certified-microsoft-/2022/11/20/9717214.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-robustel-5g-iot-edge-computing-gateway-certified-microsoft-/2022/11/20/9717214.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1951114/EG5120_5G_Edge_Computing_Gateway.jpg",
+          "width": 400,
+          "height": 222,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-19T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-20-why-employee-recognition-is-more-crucial-than-ever.md",
+      "title": "Why Employee Recognition Is More Crucial Than Ever",
+      "excerpt": "Employee recognition has never mattered more than in today’s workplace. That’s because employees want to feel valued—especially in the context of remote working. And when they don’t ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/carolinecastrillon/2022/11/20/why-employee-recognition-is-more-crucial-than-ever/",
+      "originalUrl": "https://www.forbes.com/sites/carolinecastrillon/2022/11/20/why-employee-recognition-is-more-crucial-than-ever/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62602bba96f40df576fc46ac/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/carolinecastrillon/2022/11/20/why-employee-recognition-is-more-crucial-than-ever/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinecastrillon/2022/11/20/why-employee-recognition-is-more-crucial-than-ever/amp/",
+      "publishedDateTime": "2022-11-19T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-20-waymo-can-now-provide-fully-driverless-rides-in-san-francisco.md",
       "title": "Waymo can now provide fully driverless rides in San Francisco",
       "excerpt": "Waymo can now provide driverless rides to passengers in San Francisco. On Friday, the California Public Utilities Commission (CPUC) said it granted the Alphabet-owned Waymo a permit to participate ...",
@@ -1031,127 +1170,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-can-artificial-intelligence-solve-datas-consent-problem.md",
-      "title": "Can artificial intelligence solve data’s consent problem?",
-      "excerpt": "Artificial intelligence (AI) has long been used by auction-based ad platforms such as Google to model how users behave, so that ads can be targeted more effectively. But the data privacy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedrum.com/opinion/2022/11/18/can-artificial-intelligence-solve-data-s-consent-problem",
-      "originalUrl": "https://www.thedrum.com/opinion/2022/11/18/can-artificial-intelligence-solve-data-s-consent-problem",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-assets-05.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-666306-pawel-czerwinski-iuqbc3am5sw-unsplash--default--1280.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-18T07:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Drum",
-        "domain": "thedrum.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-how-artificial-intelligence-is-being-used-to-stop-retail-theft.md",
-      "title": "How artificial intelligence is being used to stop retail theft",
-      "excerpt": "One of those tools is artificial intelligence. It's used at Lunardi's, a Bay Area grocery store. “We actually have an alert right now,\" said Rick Sanchez, director of Lunardi's. The security ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft",
-      "originalUrl": "https://www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/cec511c/2147483647/strip/true/crop/2315x1302+15+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fd2%2F79%2Ff6ae98ae406d97772336693fbbf4%2Fscreen-shot-2022-11-18-at-8.00.58%20AM.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true",
-      "cdnAmpWebUrl": "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true",
-      "publishedDateTime": "2022-11-18T07:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fox13now",
-        "domain": "fox13now.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-roadlink-international-trading-limited-successfully-tests-driverless-car-in-shenzhen.md",
-      "title": "Roadlink International Trading Limited Successfully Tests Driverless Car in Shenzhen",
-      "excerpt": "HONG KONG, Nov. 18, 2022 (GLOBE NEWSWIRE) -- Roadlink International Trading Limited said that the testing in Shenzhen over the past six months included a \"driverless car safely navigating roads ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/11/g29785340/roadlink-international-trading-limited-successfully-tests-driverless-car-in-shenzhen",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/g29785340/roadlink-international-trading-limited-successfully-tests-driverless-car-in-shenzhen",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29785340",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29785340",
-      "publishedDateTime": "2022-11-18T07:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

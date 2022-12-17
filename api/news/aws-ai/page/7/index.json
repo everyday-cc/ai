@@ -2,6 +2,59 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-10-10-ai-in-fintech-market-to-eyewitness-massive-growth-by-2030-amazon-web-services-inc-complyadvantage-google-llc.md",
+      "title": "AI in fintech Market to Eyewitness Massive Growth by 2030 | Amazon Web Services, Inc., ComplyAdvantage, Google LLC",
+      "excerpt": "The research serves as a manual and road map for doing an exhaustive investigation of the worldwide AI in fintech, target market, rivalry, and other factors. The AI in fintech market offers a quantitative analysis of the relevant industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-to-eyewitness-massive-growth-by-2030-amazon-web-services-inc-complyadvantage-google-llc-2022-10-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-to-eyewitness-massive-growth-by-2030-amazon-web-services-inc-complyadvantage-google-llc-2022-10-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-10T04:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-10-artificial-intelligence-in-fintech-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-2030.md",
       "title": "Artificial Intelligence In Fintech Market Projections and Regional Outlook, Set for Rapid Growth and Trend by 2022-2030",
       "excerpt": "The Global Artificial Intelligence In Fintech Market size is expected to reach $25.8 billion by 2028, rising at a market growth of 16.8% CAGR during the forecast period. This study offers information for creating plans to increase the market’s growth and effectiveness and is a comprehensive quantitative survey of the market.",
@@ -1414,40 +1467,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-baden-bower-firework-games-collaborates-with-aws-on-the-upcoming-release-of-its-first-3d-space-battle-royale-game.md",
-      "title": "Baden Bower: Firework Games Collaborates with AWS on the Upcoming Release of Its First 3D Space Battle Royale Game",
-      "excerpt": "Firework Games has been working with Amazon Web Services (AWS), the largest cloud infrastructure provider, on the imminent release",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-09/57140797-baden-bower-firework-games-collaborates-with-aws-on-the-upcoming-release-of-its-first-3d-space-battle-royale-game-296.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-09/57140797-baden-bower-firework-games-collaborates-with-aws-on-the-upcoming-release-of-its-first-3d-space-battle-royale-game-296.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-25T19:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/14/the-fu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/14/the-future-of-retail-four-ways-for-the-industry-to-utilize-ai/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Wild Future of Artificial Intelligence"
-    excerpt: "This is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here."
-    publishedDateTime: 2022-12-13T06:52:00Z
-    webUrl: "https://www.theatlantic.com/newsletters/archive/2022/12/the-wild-future-of-artificial-intelligence/672442/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 69
-    images:
-      - url: "https://cdn.theatlantic.com/thumbor/Pzfq0fUpsHS4099IKTJ1VNtFAt0=/0x440:5990x3560/1200x625/media/img/mt/2022/12/GettyImages_1289635135/original.jpg"
-        width: 1200
-        height: 625
-        isCached: true
   - title: "Please Read My Email: What Businesses Should Know About The Future Of Generative AI"
     excerpt: "While generative AI may open up a lot of possibilities to enhance everyday life, there are also possible downsides to understand."
     publishedDateTime: 2022-12-14T13:15:00Z

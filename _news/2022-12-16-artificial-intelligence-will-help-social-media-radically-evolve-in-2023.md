@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/johnbbrandon/2022/12/15/artificial-intelli
 ampWebUrl: "https://www.forbes.com/sites/johnbbrandon/2022/12/15/artificial-intelligence-will-help-social-media-radically-evolve-in-2023/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2022/12/15/artificial-intelligence-will-help-social-media-radically-evolve-in-2023/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/639b5b9e36621a9dd42f2a94/0x0.jpg?format=jpg&width=1200"

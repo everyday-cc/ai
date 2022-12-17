@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2022/12/lensa-ai-app-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/12/lensa-ai-app-causes-a-stir-with-sexy-magic-avatar-images-no-one-wanted/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "‘Magic’ AI avatars are already losing their charm"
-    excerpt: "When Lensa introduced a new AI-portrait generator in November, the internet was enthralled. But concerns have mounted, especially among women."
-    publishedDateTime: 2022-12-13T06:05:00Z
-    webUrl: "https://www.theaustralian.com.au/the-oz/internet/magic-ai-avatars-are-already-losing-their-charm/news-story/bb71ee4d43a4d30a9ed10f1fba2b1880"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
   - title: "Lensa’s AI Avatars Made Me Hot and It’s the Confidence Boost I Needed"
     excerpt: "If you follow tech news regularly, you’ve likely heard about Lensa and its AI-powered Magic Avatars. Put real simply, you give the AI ten to twenty selfies/photos of you and then it returns a group of avatars for you to use wherever or however you’d like."
     publishedDateTime: 2022-12-13T18:56:00Z

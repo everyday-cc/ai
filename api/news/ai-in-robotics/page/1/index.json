@@ -10,7 +10,7 @@
       "originalUrl": "https://wraltechwire.com/2022/12/17/new-ncsu-developed-fossil-sorting-robots-to-help-climate-ocean-research/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -194,7 +194,7 @@
       "originalUrl": "https://www.forbes.com/sites/johnbbrandon/2022/12/15/artificial-intelligence-will-help-social-media-radically-evolve-in-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -234,7 +234,8 @@
       ],
       "topics": [
         "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI in Autos"
       ]
     },
     {
@@ -475,6 +476,49 @@
         "AI Ethics",
         "AI in Robotics",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-opinion-ill-bet-you-didnt-write-that-an-artificial-intelligence-robot-did.md",
+      "title": "Opinion: I’ll bet you didn’t write that. An artificial intelligence robot did",
+      "excerpt": "Write an 800-word opinion piece about what ChatGPT is, as well as its benefits and drawbacks.” In seconds it delivered a sensible, fair-minded description. No doubt ChatGPT and tools like it will become much more valuable and human-sounding — especially when these products ingest and learn from millions of emails and texts to create more personalized responses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2022/12/13/opinion-ill-bet-you-didnt-write-that-an-artificial-intelligencer-robot-did/",
+      "originalUrl": "https://www.eastbaytimes.com/2022/12/13/opinion-ill-bet-you-didnt-write-that-an-artificial-intelligencer-robot-did/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2022/12/OPED-ROBOT-WRITING-COMMENTARY-DMT.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2022/12/13/opinion-ill-bet-you-didnt-write-that-an-artificial-intelligencer-robot-did/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/12/13/opinion-ill-bet-you-didnt-write-that-an-artificial-intelligencer-robot-did/amp/",
+      "publishedDateTime": "2022-12-13T04:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1303,20 +1347,20 @@
     },
     {
       "path": "_news/2022-12-07-s10ai-inc-introduces-the-worlds-first-robot-virtual-medical-scribe.md",
-      "title": "S10.AI Inc Introduces the World’s First Robot Virtual Medical Scribe",
-      "excerpt": "The World’s First Robot Virtual Medical Scribe was created by S10.AI Inc, a startup company. This is a self-contained AI-enabled medical scribe with superior CDI scribing skills that help to ...",
+      "title": "S10.AI Inc Introduces the World's First Robot Virtual Medical Scribe",
+      "excerpt": "The World's First Robot Virtual Medical Scribe was created by S10.AI Inc, a startup company. This is a self-contained AI-enabled medical scribe with superior CDI scribing skills that help to ...",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/s10-ai-inc-introduces-the-worlds-first-robot-virtual-medical-scribe",
-      "originalUrl": "https://www.digitaljournal.com/pr/s10-ai-inc-introduces-the-worlds-first-robot-virtual-medical-scribe",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/12/ab29982507/s10-ai-inc-introduces-the-worlds-first-robot-virtual-medical-scribe",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/ab29982507/s10-ai-inc-introduces-the-worlds-first-robot-virtual-medical-scribe",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/08/AI-chatbot-China-AFP-1K-03-600x337.jpg",
-          "width": 600,
-          "height": 337,
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
+          "width": 800,
+          "height": 313,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1324,66 +1368,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-06T12:36:00-08:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29982507",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29982507",
+      "publishedDateTime": "2022-12-06T12:37:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-does-chatgpt-mean-robots-are-coming-for-the-skilled-jobs.md",
-      "title": "Does ChatGPT Mean Robots Are Coming For the Skilled Jobs?",
-      "excerpt": "Will robots take away our jobs? People have been asking that question for an astonishingly long time. The Regency-era British economist David Ricardo added to the third edition of his classic “Principles of Political Economy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/12/06/opinion/chatgpt-ai-skilled-jobs-automation.html",
-      "originalUrl": "https://www.nytimes.com/2022/12/06/opinion/chatgpt-ai-skilled-jobs-automation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 249,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/12/06/opinion/06krugman-newsletter-image/06krugman-newsletter-image-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/12/06/opinion/chatgpt-ai-skilled-jobs-automation.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/06/opinion/chatgpt-ai-skilled-jobs-automation.amp.html",
-      "publishedDateTime": "2022-12-06T12:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-26-sd-times-news-digest-amazon-announces-rekognition-custom-labs-scalajs-100-rc1-and-julia-13.md",
+      "title": "SD Times news digest: Amazon announces Rekognition Custom Labs, Scala.js 1.0.0-RC1, and Julia 1.3",
+      "excerpt": "Amazon announced Amazon Rekognition Custom Labels, which enables customers to build specialized ML-based image analysis capabilities that detect objects and scenes integral to their specific use case.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-amazon-announces-rekognition-custom-labs-scala-js-1-0-0-rc1-and-julia-1-3/",
+      "originalUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-amazon-announces-rekognition-custom-labs-scala-js-1-0-0-rc1-and-julia-1-3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2019/11/custom-labels-pre-3.gif",
+          "width": 589,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-25T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-11-25-optimize-hyperparameters-with-amazon-sagemaker-automatic-model-tuning.md",
       "title": "Optimize hyperparameters with Amazon SageMaker Automatic Model Tuning",
       "excerpt": "Machine learning (ML) models are taking the world by storm. Their performance relies on using the right training data and choosing the right model and algorithm. But it doesn’t end here. Typically, algorithms defer some design decisions to the ML practitioner to adopt for their specific data and task.",
@@ -1380,50 +1433,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-malware-detection-and-classification-with-amazon-rekognition.md",
-      "title": "Malware detection and classification with Amazon Rekognition",
-      "excerpt": "According to an article by Cybersecurity Ventures, the damage caused by Ransomware (a type of malware that can block users from accessing their data unless they pay a ransom) increased by 57 times in 2021 as compared to 2015. Furthermore, it’s predicted to cost its victims $265 billion (USD) annually",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/malware-detection-and-classification-with-amazon-rekognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/malware-detection-and-classification-with-amazon-rekognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T11:10:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -104,6 +104,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-13-opinion-ill-bet-you-didnt-write-that-an-artificial-intelligence-robot-did.md",
+      "title": "Opinion: I’ll bet you didn’t write that. An artificial intelligence robot did",
+      "excerpt": "Write an 800-word opinion piece about what ChatGPT is, as well as its benefits and drawbacks.” In seconds it delivered a sensible, fair-minded description. No doubt ChatGPT and tools like it will become much more valuable and human-sounding — especially when these products ingest and learn from millions of emails and texts to create more personalized responses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2022/12/13/opinion-ill-bet-you-didnt-write-that-an-artificial-intelligencer-robot-did/",
+      "originalUrl": "https://www.eastbaytimes.com/2022/12/13/opinion-ill-bet-you-didnt-write-that-an-artificial-intelligencer-robot-did/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2022/12/OPED-ROBOT-WRITING-COMMENTARY-DMT.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2022/12/13/opinion-ill-bet-you-didnt-write-that-an-artificial-intelligencer-robot-did/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/12/13/opinion-ill-bet-you-didnt-write-that-an-artificial-intelligencer-robot-did/amp/",
+      "publishedDateTime": "2022-12-13T04:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-13-is-learning-code-still-necessary-for-businesses.md",
       "title": "Is Learning Code Still Necessary For Businesses?",
       "excerpt": "Whether you rent a storefront or operate fully online, you’ll be in need of the software development know-how required to thrive in the digital realm.",
@@ -1188,59 +1231,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-china-wants-legal-sector-to-be-ai-powered-by-2025.md",
-      "title": "China wants legal sector to be AI-powered by 2025",
-      "excerpt": "Supreme People's Court issues directive for an artificial intelligence network to be in place by 2025 to support and enhance legal services, but says court rulings will remain decisions made by judges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/china-wants-legal-sector-to-be-ai-powered-by-2025/",
-      "originalUrl": "https://www.zdnet.com/article/china-wants-legal-sector-to-be-ai-powered-by-2025/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ed0d09975caf456f58e6cfec15973859a91de6bf/2017/01/11/5e64bad5-a595-4751-a2b0-860b74abaa08/legal-digital-code.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/china-wants-legal-sector-to-be-ai-powered-by-2025/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/china-wants-legal-sector-to-be-ai-powered-by-2025/",
-      "publishedDateTime": "2022-12-12T02:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI",
         "AI in Autos"
       ]

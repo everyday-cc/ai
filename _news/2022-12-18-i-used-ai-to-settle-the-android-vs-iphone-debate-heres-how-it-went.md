@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-17T19:00:00Z
 originalUrl: "https://www.androidauthority.com/chatgpt-android-vs-iphone-3250623/"
 webUrl: "https://www.androidauthority.com/chatgpt-android-vs-iphone-3250623/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Android Authority

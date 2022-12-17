@@ -2,6 +2,40 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-09-26-baden-bower-firework-games-collaborates-with-aws-on-the-upcoming-release-of-its-first-3d-space-battle-royale-game.md",
+      "title": "Baden Bower: Firework Games Collaborates with AWS on the Upcoming Release of Its First 3D Space Battle Royale Game",
+      "excerpt": "Firework Games has been working with Amazon Web Services (AWS), the largest cloud infrastructure provider, on the imminent release",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-09/57140797-baden-bower-firework-games-collaborates-with-aws-on-the-upcoming-release-of-its-first-3d-space-battle-royale-game-296.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-09/57140797-baden-bower-firework-games-collaborates-with-aws-on-the-upcoming-release-of-its-first-3d-space-battle-royale-game-296.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-25T19:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-26-bosch-sventa-and-phantom-edge-now-available-in-aws-marketplace.md",
       "title": "Bosch SVENTA and Phantom Edge now available in AWS Marketplace",
       "excerpt": "Bangalore: Bosch Global Software Technologies (BGSW), formerly known as Robert Bosch Engineering and Business Solutions (RBEI), and an Amazon Web Services (AWS) Advanced Consulting Partner, today anno",
@@ -1339,59 +1373,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-oracle-mysql-heatwave-comes-to-aws.md",
-      "title": "Oracle MySQL HeatWave comes to AWS",
-      "excerpt": "Oracle’s MySQL database service supporting mixed analytical, transaction processing, and machine learning workloads is now available on Amazon Web Services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3673372/oracle-mysql-heatwave-comes-to-aws.html",
-      "originalUrl": "https://www.infoworld.com/article/3673372/oracle-mysql-heatwave-comes-to-aws.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/11/apples_oranges_slices_mixture_puzzle_balance_opposites_fruit__savatore-gersace_flickr-100779885-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3673372/oracle-mysql-heatwave-comes-to-aws.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3673372/oracle-mysql-heatwave-comes-to-aws.amp.html",
-      "publishedDateTime": "2022-09-13T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI",
         "AWS AI"
       ]

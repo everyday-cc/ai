@@ -2,6 +2,134 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2022-11-16-comparing-neural-networks-provides-a-look-into-the-black-box-of-artificial-intelligence.md",
+      "title": "Comparing Neural Networks Provides a Look Into the 'Black Box' of Artificial Intelligence",
+      "excerpt": "Artificial intelligence is everywhere. Once the domain of science fiction, it’s used in everything from virtual assistants, to facial recognition systems, to self-driving cars. But how, exactly, does it work? The answer has actually not been well ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearscience.com/articles/2022/11/16/comparing_neural_networks_provides_a_look_into_the_black_box_of_artificial_intelligence_865086.html#!",
+      "originalUrl": "https://www.realclearscience.com/articles/2022/11/16/comparing_neural_networks_provides_a_look_into_the_black_box_of_artificial_intelligence_865086.html#!",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-15T18:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearScience",
+        "domain": "realclearscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-16-art-project-translates-music-from-teenage-engineerings-op-z-synth-into-ai-generated-imagery.md",
+      "title": "Art project translates music from Teenage Engineering's OP-Z synth into AI-generated imagery",
+      "excerpt": "AI-generated art is a new frontier rife with potential. But for every thorny question about copyright and the potential for widespread manipulation, generated art can also inspire wonder and awe. For example,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/teenage-engineering-op-z-stable-diffusion-synesthesia-ai-music-233016737.html",
+      "originalUrl": "https://www.engadget.com/teenage-engineering-op-z-stable-diffusion-synesthesia-ai-music-233016737.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/870fb8e0-6535-11ed-957e-bd695d44829f",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/teenage-engineering-op-z-stable-diffusion-synesthesia-ai-music-233016737.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/teenage-engineering-op-z-stable-diffusion-synesthesia-ai-music-233016737.html",
+      "publishedDateTime": "2022-11-15T16:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-16-can-a-multicultural-healthy-diet-reduce-cognitive-decline-and-alzheimers-disease-risk.md",
+      "title": "Can a multicultural healthy diet reduce cognitive decline and Alzheimer's disease risk?",
+      "excerpt": "Study: Multicultural healthy diet to reduce cognitive decline & Alzheimer's disease risk: Study protocol for a pilot randomized controlled trial. Image Credit: Olga Klochanko/Shutterstock They ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20221116/Can-a-multicultural-healthy-diet-reduce-cognitive-decline-and-Alzheimers-disease-risk.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20221116/Can-a-multicultural-healthy-diet-reduce-cognitive-decline-and-Alzheimers-disease-risk.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_731251_16686023275581223.jpg",
+          "width": 2000,
+          "height": 904,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-15T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-cruise-has-expanded-its-driverless-robotaxi-service-to-daytime-hours.md",
       "title": "Cruise has expanded its driverless robotaxi service to daytime hours",
       "excerpt": "Cruise is expanding its driverless ride-hailing service in San Francisco to daytime hours, Cruise CEO Kyle Vogt tweeted Wednesday. The robotaxi service is now available to employees 24 hours a day.",
@@ -1053,134 +1181,6 @@
         "AI in Robotics",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-ai-driven-fashion-platform-shoptrue-constantly-learns-its-users-shopping-habits.md",
-      "title": "AI-driven fashion platform Shoptrue constantly learns its users shopping habits",
-      "excerpt": "The startup raised $6 million in seed funding in 2021 to help build ... Shoptrue’s launch is another example of how AI technology is transforming the e-commerce industry. In June, Pinterest acquired the AI-powered shopping platform The Yes, which ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/15/ai-driven-fashion-platform-shoptrue/",
-      "originalUrl": "https://techcrunch.com/2022/11/15/ai-driven-fashion-platform-shoptrue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/Shoptrue-PR-Imagery-v3.1-no-brand.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/15/ai-driven-fashion-platform-shoptrue/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/15/ai-driven-fashion-platform-shoptrue/amp/",
-      "publishedDateTime": "2022-11-15T07:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-arterys-awarded-artificial-intelligence-solutions-for-healthcare-agreement-with-premier-inc.md",
-      "title": "Arterys Awarded Artificial Intelligence Solutions for Healthcare Agreement With Premier, Inc.",
-      "excerpt": "has been awarded a national group purchasing agreement for the Artificial Intelligence Solutions for Healthcare Category with Premier Inc. Effective Oct. 1, 2022, the new agreement allows Premier ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/arterys-awarded-artificial-intelligence-solutions-for-healthcare-agreement-with-premier-inc",
-      "originalUrl": "https://www.digitaljournal.com/pr/arterys-awarded-artificial-intelligence-solutions-for-healthcare-agreement-with-premier-inc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/08/Cuba-CyberSecurity-Law-AFP-1K-01-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-15T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-gotransverse-offers-premier-data-access-for-enhanced-billing-data-insights.md",
-      "title": "Gotransverse Offers Premier Data Access for Enhanced Billing Data Insights",
-      "excerpt": "Gotransverse Premier Data Access provides direct access to billing data and allows customers to export data to business applications from the Gotransverse Snowflake data repository. Premier Data Access,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/11/15/9713406.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/11/15/9713406.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-15T05:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

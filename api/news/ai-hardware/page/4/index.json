@@ -2,6 +2,60 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-16-making-data-available-on-demand-for-ai-and-ml-workloads-weka-lands-135m.md",
+      "title": "Making data available on demand for AI and ML workloads, Weka lands $135M",
+      "excerpt": "The company has partnered with leading cloud providers, including AWS, Azure, GCP and Oracle ... s first multi-cloud data platform for next-generation workloads like AI, ML and HPC,” he said. By 2026, large enterprises will triple their unstructured ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/making-data-available-on-demand-for-ai-and-ml-workloads-weka-lands-135m/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/making-data-available-on-demand-for-ai-and-ml-workloads-weka-lands-135m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1124400900.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/data-infrastructure/making-data-available-on-demand-for-ai-and-ml-workloads-weka-lands-135m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/making-data-available-on-demand-for-ai-and-ml-workloads-weka-lands-135m/amp/",
+      "publishedDateTime": "2022-11-15T09:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-11-14-silicon-valley-chip-startup-cerebras-unveils-ai-supercomputer.md",
       "title": "Silicon Valley chip startup Cerebras unveils AI supercomputer",
       "excerpt": "Nov 14(Reuters) - Silicon Valley startup Cerebras Systems, known in the industry for its dinner plate-sized chip made for artificial intelligence work, on Monday unveiled its AI supercomputer ...",
@@ -1393,49 +1447,6 @@
         "AI in Autos",
         "AI in Healthcare",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-01-amd-rdna3-gpu-revealed-with-two-eight-pin-connectors.md",
-      "title": "AMD RDNA3 GPU Revealed With Two Eight-Pin Connectors",
-      "excerpt": "That seems kind of quaint in the current environment. It also flies in the face of rumors that AMD would be unleashing a monster GPU in the same vein that Nvidia has with the 4090. The other ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.extremetech.com/gaming/340580-amd-rdna3-gpu-revealed-with-two-eight-pin-connectors",
-      "originalUrl": "https://www.extremetech.com/gaming/340580-amd-rdna3-gpu-revealed-with-two-eight-pin-connectors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.extremetech.com/wp-content/uploads/2022/10/Screenshot-2022-10-31-at-10.19.02-AM-640x360.png",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-01T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ExtremeTech",
-        "domain": "extremetech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

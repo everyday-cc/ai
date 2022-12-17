@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-12-09-computer-vision-technology-startup-brodmann17-has-shut-down.md",
+      "title": "Computer vision technology startup Brodmann17 has shut down",
+      "excerpt": "Brodmann17, an Israeli computer vision technology startup that developed a novel approach to take on a marketplace dominated by Mobileye, shut down this week. Brodmann17’s co-founder and CEO Adi ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/12/09/computer-vision-technology-startup-brodmann17-has-shut-down/",
+      "originalUrl": "https://techcrunch.com/2022/12/09/computer-vision-technology-startup-brodmann17-has-shut-down/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/03/brodmann17.png?resize=1200,628",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/12/09/computer-vision-technology-startup-brodmann17-has-shut-down/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/09/computer-vision-technology-startup-brodmann17-has-shut-down/amp/",
+      "publishedDateTime": "2022-12-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-09-smartynames-uses-ai-to-find-you-the-perfect-domain-name.md",
       "title": "Smartynames uses AI to find you the perfect domain name",
       "excerpt": "Smartynames.com is free and easy to use; type in a prompt and the AI will process it and come up with a bunch of ideas, then check if they are available.",
@@ -724,49 +776,6 @@
       ]
     },
     {
-      "path": "_news/2022-12-09-ai21-jurassic-1-foundation-model-now-available-on-amazon-sagemaker.md",
-      "title": "AI21 Jurassic-1 Foundation Model Now Available on Amazon SageMaker",
-      "excerpt": "SageMaker provides a curated list of foundation models that are pre-trained, cutting down on expenses and time for customers, while being hosted and deployed securely on Amazon's AWS platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ksn.com/business/press-releases/cision/20221208LN60463/ai21-jurassic-1-foundation-model-now-available-on-amazon-sagemaker/",
-      "originalUrl": "https://www.ksn.com/business/press-releases/cision/20221208LN60463/ai21-jurassic-1-foundation-model-now-available-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.ksn.com/wp-content/uploads/sites/13/2022/12/shooting-1.jpg?w=2000&#038;ssl=1",
-          "width": 2000,
-          "height": 1126,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-08T09:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ksn.com",
-        "domain": "ksn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-09-google-brings-no-code-machine-learning-to-sheets-with-simpleml.md",
       "title": "Google brings no-code machine learning to Sheets with SimpleML",
       "excerpt": "Businesses looking to automate their Google workspaces could benefit from the tool which requires no programming experience and is now in beta",
@@ -815,6 +824,40 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-ai21-jurassic-1-foundation-model-now-available-on-amazon-sagemaker.md",
+      "title": "AI21 Jurassic-1 Foundation Model Now Available on Amazon SageMaker",
+      "excerpt": "AI21 Labs, an Israeli startup aiming to fundamentally change the way people read and write using Generative AI, announced today that its Jurassic-1 Foundation Model used to power chatbots, answer questions,",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/12/08/9727397.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/12/08/9727397.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T08:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -1136,58 +1179,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-four-person-dev-team-gets-apples-m-series-gpu-working-in-linux.md",
-      "title": "Four-person dev team gets Apple’s M-series GPU working in Linux",
-      "excerpt": "For the brave people running Linux on Apple Silicon, their patience has paid off. GPU drivers that provide desktop hardware acceleration are now available in Asahi Linux, unleashing more of the M ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2022/12/four-person-dev-team-gets-apples-m-series-gpu-working-in-linux/",
-      "originalUrl": "https://arstechnica.com/gadgets/2022/12/four-person-dev-team-gets-apples-m-series-gpu-working-in-linux/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/asahi1-800x450.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2022/12/four-person-dev-team-gets-apples-m-series-gpu-working-in-linux/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2022/12/four-person-dev-team-gets-apples-m-series-gpu-working-in-linux/amp/",
-      "publishedDateTime": "2022-12-08T02:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

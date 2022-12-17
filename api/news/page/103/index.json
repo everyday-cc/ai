@@ -2,6 +2,135 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2022-09-19-new-artificial-intelligence-recycling-technology-can-sort-plastics-on-its-own.md",
+      "title": "New artificial intelligence recycling technology can sort plastics on its own",
+      "excerpt": "The AI is meant to help the world overcome its struggle with sending recyclable plastics to landfills. New recycling technology has been developed using artifi",
+      "sourceUrl": null,
+      "webUrl": "https://www.hydrogenfuelnews.com/recycling-technology-ai/8554399/",
+      "originalUrl": "https://www.hydrogenfuelnews.com/recycling-technology-ai/8554399/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.hydrogenfuelnews.com/wp-content/uploads/2022/09/Recycling-technology-New-Tech.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hydrogen Fuel News",
+        "domain": "hydrogenfuelnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-19-muxi-to-give-china-its-first-fully-dedicated-gaming-gpu-in-2025-check-details.md",
+      "title": "Muxi To Give China Its First Fully-Dedicated Gaming GPU In 2025; Check Details",
+      "excerpt": "Muxi’s 7nm chipset, billed as the companys most powerful GPU to date, is primarily intended to meet the needs of high-end gaming PCs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizbot.com/news/muxi-to-give-china-its-first-fully-dedicated-gaming-gpu-in-2025-check-details-082672.html",
+      "originalUrl": "https://www.gizbot.com/news/muxi-to-give-china-its-first-fully-dedicated-gaming-gpu-in-2025-check-details-082672.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizbot.com/img/1200x60x675/img/2022/09/muxi-gpu-card-2025-1663574244.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizbot.com/amphtml/news/muxi-to-give-china-its-first-fully-dedicated-gaming-gpu-in-2025-check-details-082672.html",
+      "cdnAmpWebUrl": "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/news/muxi-to-give-china-its-first-fully-dedicated-gaming-gpu-in-2025-check-details-082672.html",
+      "publishedDateTime": "2022-09-19T00:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GIZBOT",
+        "domain": "gizbot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-19-frontline-systems-releases-rasonr-v2023-cloud-platform-with-advanced-model-management-and-decision-intelligence.md",
+      "title": "Frontline Systems Releases RASON(R) V2023 Cloud Platform with Advanced Model Management and Decision Intelligence",
+      "excerpt": "V2023 Cloud Platform with Advanced Model Management and Decision Intelligence Sep 19, 2022 (PRNewswire via COMTEX) --",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/frontline-systems-releases-rasonr-v2023-cloud-platform-with-advanced-model-management-and-decision-intelligence-2022-09-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/frontline-systems-releases-rasonr-v2023-cloud-platform-with-advanced-model-management-and-decision-intelligence-2022-09-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-19-weride-launches-the-first-self-driving-robobus-test-ride-in-saudi-arabia-at-2022-global-ai-summit.md",
       "title": "WeRide Launches the First Self-driving Robobus Test Ride in Saudi Arabia at 2022 Global AI Summit",
       "excerpt": "WeRide launched the first driverless public Robotaxi service in the Middle East in Abu Dhabi, capital of the United Arab Emirates. The launch of the driverless robobus in Riyadh becomes another important milestone in WeRide's global footprint,",
@@ -982,144 +1111,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-artists-begin-selling-ai-generated-artwork-on-stock-photography-websites.md",
-      "title": "Artists begin selling AI-generated artwork on stock photography websites",
-      "excerpt": "Seeking ways to \"monetize\" AI-generated art, some artists have already begun submitting their AI-generated pieces to stock photography websites like Shutterstock.com. Searches for \"AI generated\" or \"Midjourney\" (a popular image synthesis service) produce thousands of results on the site.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/09/artists-begin-selling-ai-generated-artwork-on-stock-photography-websites/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/09/artists-begin-selling-ai-generated-artwork-on-stock-photography-websites/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/ai_art_on_shutterstock_hero-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-16T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-global-artificial-intelligence-ai-in-automotive-and-transportation-market-to-grow-at-20-through-2026.md",
-      "title": "Global Artificial Intelligence (AI) in Automotive and Transportation Market to Grow at 20% Through 2026",
-      "excerpt": "The \"Global Artificial Intelligence (AI) in Automotive and Transportation Market Research Report: Forecast (2021-2026)\" report has been added to ResearchAndMarkets.com's offering. This market is likely to grow at a CAGR of around 20% during 2021-26.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/09/16/9675469.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/09/16/9675469.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
-          "width": 476,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-16T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-a-new-holographic-microscope-allows-scientists-to-see-through-the-skull-and-image-the-brain.md",
-      "title": "A new holographic microscope allows scientists to see through the skull and image the brain",
-      "excerpt": "The new label-free deep-tissue imaging with the wave correction algorithm retrieves the fine neural network of the mouse brain with the intact skull by focusing the light and filtering out ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/09/220916112500.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/09/220916112500.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-16T12:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -78,22 +78,6 @@ related:
         width: 320
         height: 239
         isCached: true
-  - title: "Artificial intelligence chatbots continue to improve. How do they work?"
-    excerpt: "AI chatbots are a software application used to have a conversation that can take on the role of a live human, using technology."
-    publishedDateTime: 2022-12-15T19:51:00Z
-    webUrl: "https://www.lex18.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work"
-    ampWebUrl: "https://www.lex18.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work?_amp=true"
-    cdnAmpWebUrl: "https://www-lex18-com.cdn.ampproject.org/c/s/www.lex18.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work?_amp=true"
-    type: article
-    provider:
-      name: lex18
-      domain: lex18.com
-    quality: 57
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/fd0738b/2147483647/strip/true/crop/3360x1890+0+175/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F0f%2F48%2F1692e0d8492a82d486bd8f7c4435%2Fap22278412101213.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "ChatGPT has mastered the confidence trick, and that's a terrible look for AI"
     excerpt: "ChatGPT appears disarmingly frank about its flaws if you ask it outright. Say you're a lazy journalist who asks it to \"produce a column about ChatGPT's mistakes when writing code.\" \"As a large language model trained by OpenAI,"
     publishedDateTime: 2022-12-14T00:50:00Z
@@ -172,15 +156,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Becoming a chatbot: my life as a real estate AI’s human backup"
-    excerpt: "For one weird year, I was the human who stepped in to make sure a property chatbot didn’t blow its cover – I was a person pretending to be a computer pretending to be a person"
-    publishedDateTime: 2022-12-13T05:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/dec/13/becoming-a-chatbot-my-life-as-a-real-estate-ais-human-backup?ref=upstract.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
   - title: "ChatGPT Is a Tipping Point for AI"
     excerpt: "With ChatGPT and other AI models that can communicate in plain English, write and revise text, and write code, the technology is suddenly becoming more useful to a broader population of people. This has huge implications."
     publishedDateTime: 2022-12-14T13:05:00Z
@@ -189,6 +164,15 @@ related:
     provider:
       name: Harvard Business Review
       domain: hbr.org
+    quality: 17
+  - title: "Artificial intelligence chatbots continue to improve. How do they work?"
+    excerpt: "AI chatbots are a software application used to have a conversation that can take on the role of a live human, using technology."
+    publishedDateTime: 2022-12-15T20:46:00Z
+    webUrl: "https://www.10news.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work"
+    type: article
+    provider:
+      name: ABC 10 News
+      domain: 10news.com
     quality: 17
   - title: "Meet ChatGPT: The AI Chatbot That Can Write Code, Pass Exams, and Generate Business Ideas"
     excerpt: "OpenAI's ChatGPT chatbot has advanced AI technology with its ability to generate original, human-like responses. However, there are significant ethical concerns to consider, including the potential for incorrect or fictitious answers and bias in decision-making."

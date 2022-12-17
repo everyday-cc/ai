@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-10-14-cobb-douglas-robot-announces-the-launch-of-conga-an-ai-powered-autonomous-robotic-lawn-mower.md",
+      "title": "Cobb Douglas Robot Announces the Launch of Conga: An AI-Powered, Autonomous Robotic Lawn Mower",
+      "excerpt": "With a single click to start, Conga sets users free from the tedious task of lawn mowing. Unlike the first-generation robots, this highly advanced lawn care robot does not require the installation of copper boundary wire or the use of remote control to manually map the areas to be cut.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cobb-douglas-robot-announces-the-launch-of-conga-an-ai-powered-autonomous-robotic-lawn-mower-2022-10-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/cobb-douglas-robot-announces-the-launch-of-conga-an-ai-powered-autonomous-robotic-lawn-mower-2022-10-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-13T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-13-a-remote-controlled-car-with-a-flag-on-a-pole-can-herd-cattle.md",
       "title": "A remote-controlled car with a flag on a pole can herd cattle",
       "excerpt": "A small remote-controlled vehicle proved effective at keeping cows away from overgrazed areas, and the animals showed few signs of fear or aggression",
@@ -1345,49 +1397,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-robot-ai-da-will-speak-to-the-house-of-lords-in-westminster.md",
-      "title": "Robot Ai-Da will speak to the House of Lords in Westminster",
-      "excerpt": "A robot called Ai-Da will become the first robot to speak in the House of Lords in Westminster. The robot will speak to the Lords about Artificial Intelligence (AI) and the future of arts, design, fashion and music industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/newsround/63173407",
-      "originalUrl": "https://www.bbc.co.uk/newsround/63173407",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/640/cpsprodpb/101C6/production/_127009956_gettyimages-1404663363.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/newsround/63173407.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/63173407.amp",
-      "publishedDateTime": "2022-10-07T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

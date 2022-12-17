@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scroll.in/article/1038975/facial-recognition-system-roll
 cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1038975/facial-recognition-system-rollout-at-indian-airports-raises-privacy-concerns"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/11/20/w600X390/cyber_security.jpg"
         width: 600
         height: 390
-        isCached: true
-  - title: "Victim Participation In Criminal Justice System: An Indian Perspective"
-    excerpt: "The crime victims' rights movement advocates for the rights of the victims of crime in criminal justice process. The concern for victim's rights had long been subdued. Eventually over a"
-    publishedDateTime: 2022-12-13T06:44:00Z
-    webUrl: "https://www.livelaw.in/columns/victims-rights-code-of-criminal-procedure-victim-participatory-rights-216547"
-    ampWebUrl: "https://www.livelaw.in/amp/columns/victims-rights-code-of-criminal-procedure-victim-participatory-rights-216547"
-    cdnAmpWebUrl: "https://www-livelaw-in.cdn.ampproject.org/c/s/www.livelaw.in/amp/columns/victims-rights-code-of-criminal-procedure-victim-participatory-rights-216547"
-    type: article
-    provider:
-      name: Live Law
-      domain: livelaw.in
-    quality: 44
-    images:
-      - url: "https://www.livelaw.in/h-upload/2022/07/21/426867-victim.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "Vep091n0LvcTaFmcTozjQNd3S6D21n14etl5/DJ2WckCCDvZhVlvrF+UxI8HR7cGTJtfNi9bnSBHi379qHyldfqSHI/gRVQid633nQY1J0gd+dZvmO/eRSA0hRc8s9gcazHwYd1zX/Jk1szEu3dQdsDq707sQerbPP1vjKpDeVsJNW485r4Yxd/wS7fwDX3UJySv7gSX7KadsYqWXXwNlm1Pk81zmeDuy6KDXnSBptjgZ+c6nz3SZ0P6lB6i1nPd7Dl6YsMSUfGfs0wvskp78nsEfy8XIScARZoUsST/beFE25YT89x5/IrFbNgMZyjZK4jDH7ZpwRIZdcohh/7MKHIFhsTdP9naQoUPLhBhpJi10IajH26SAGlE5yU/1EBxaeGl3IOuQgtgG8TFni/+yOEqfWROC9lB02tzbRjtCTVY7aRFASELggl3NUIiMGM76Y8X+v8FokD6b+6oQJDHWaVi6nFu7bA7WngznlUF/E50VSnqFZ2WKAdBnkzjzMiK1W5AitRgcQnlNcZXUsdszg==;WFACUKtnPRLzn7faFtA62g=="

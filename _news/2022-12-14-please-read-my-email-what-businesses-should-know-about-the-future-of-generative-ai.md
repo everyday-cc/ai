@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The Wild Future of Artificial Intelligence"
-    excerpt: "This is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here."
-    publishedDateTime: 2022-12-13T06:52:00Z
-    webUrl: "https://www.theatlantic.com/newsletters/archive/2022/12/the-wild-future-of-artificial-intelligence/672442/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 69
-    images:
-      - url: "https://cdn.theatlantic.com/thumbor/Pzfq0fUpsHS4099IKTJ1VNtFAt0=/0x440:5990x3560/1200x625/media/img/mt/2022/12/GettyImages_1289635135/original.jpg"
-        width: 1200
-        height: 625
-        isCached: true
 
 secured: "IvKN4tFfqpLGrOrahZAh5I4BqbdH1YLU+I6zQNE9FbVEV8HJ4Z1YcyPmPelLOWhB7EPjo1OPAVUopZ4bMIZFLFRzYuPwOmoAiuj618SukenUtHmBxO3Fb5d6Hf0UPeRshKH3/g8FjLWgGHkygT4eM74NURMzqlJ7SdtTmJftLntmsrbiwSt6cq4WQzYk1tEW9uI6uuYr38MushDCzBsDi5BtjRfMpVWKXwLHAgPgrHanBytZXP0Lv3fWs5qSvDQrHNM+g3WERoUSEjUzuZTn04hAkoQrmZHO+pPSrn3Ubf2k35udza23aIQ+0633z+VhVEZs906LxMHaQ+o2Tt/Tr0n7UHVMwAlezhBE4gAW5Ls=;t/v9i3gSlX+xgDyKP10f1g=="
 ---

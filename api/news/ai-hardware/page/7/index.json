@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-09-30-micron-latest-in-japan-chip-crosshairs.md",
+      "title": "Micron latest in Japan chip crosshairs",
+      "excerpt": "Japan offered a massive subsidy to Micron Technology, the country's latest move to bolster domestic semiconductor production.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/micron-latest-in-japan-chip-crosshairs/",
+      "originalUrl": "https://www.mobileworldlive.com/featured-content/top-three/micron-latest-in-japan-chip-crosshairs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mobileworldlive.com/wp-content/uploads/2020/09/Micron_Technology.jpg",
+          "width": 600,
+          "height": 376,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/top-three/micron-latest-in-japan-chip-crosshairs/amp/",
+      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/micron-latest-in-japan-chip-crosshairs/amp/",
+      "publishedDateTime": "2022-09-30T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-29-tech-war-china-chip-start-ups-clamour-to-tout-ai-chip-breakthroughs-after-nvidia-sales-ban-prompting-analyst-scepticism.md",
       "title": "Tech war: China chip start-ups clamour to tout AI chip breakthroughs after Nvidia sales ban, prompting analyst scepticism",
       "excerpt": "Chinese semiconductor start-ups are rushing to claim breakthroughs in artificial intelligence (AI) chips after the US restricted the export of advanced chips from Nvidia Corp and Advanced Micro ...",
@@ -1379,58 +1422,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-edge-artificial-intelligence-ai-chip-market-2022-trends-industry-size-share-emerging-trends-top-leading-players-and-forecast-2028.md",
-      "title": "Edge Artificial Intelligence (AI) Chip Market 2022 Trends, Industry Size, Share, Emerging Trends, Top Leading Players, and Forecast 2028",
-      "excerpt": "Sep 20, 2022 (The Expresswire) -- Number of Tables and Figures :157 | The global \"Edge Artificial Intelligence (AI) Chip Market\"size is projected to reach Multimillion USD by 2028, In comparison ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-2022-trends-industry-size-share-emerging-trends-top-leading-players-and-forecast-2028-2022-09-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-2022-trends-industry-size-share-emerging-trends-top-leading-players-and-forecast-2028-2022-09-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T22:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

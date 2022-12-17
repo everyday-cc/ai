@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/news/symphonyai-strengthens-microsoft-col
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/symphonyai-strengthens-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace/amp/"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Dubai-based NOW Money Selects ThetaRay AI Tech to Prevent Financial Crime on the Inclusive Banking App"
+    excerpt: "Money, the GCC’s first mobile banking solution focused on financial inclusion, and ThetaRay, a leading provider of AI-powered transaction monitoring technology, today announced a collaboration to implement ThetaRay’s cloud-based AML solution to monitor cross-border payments and support in the prevention of financial crimes and money laundering on the fintech’s payments platform."
+    publishedDateTime: 2022-12-14T05:00:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/dubai-based-now-money-selects-thetaray-ai-tech-to-prevent-financial-crime-on-the-inclusive/article_d18eab8a-b531-5291-ac8f-0e1cd33c064f.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 18
   - title: "DSM chooses LabTwin to advance their digitalization strategy in Science & Innovation with the latest voice and AI solutions."
     excerpt: "Royal DSM N.V., a global company specializing in health, nutrition, and sustainable living, and LabTwin GmbH, the leading voice and AI-powered digital lab assistant, announce a multi-year license and collaboration agreement."
     publishedDateTime: 2022-12-14T10:01:00Z

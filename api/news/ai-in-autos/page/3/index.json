@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-12-02-how-ai-could-help-boost-help-desk-productivity-in-2023.md",
+      "title": "How AI Could Help Boost Help Desk Productivity In 2023",
+      "excerpt": "As businesses develop their IT budgets for 2023, with the specter of an economic slowdown looming, artificial intelligence (AI)-related projects will figure prominently in the discretionary spending plans of many organizations. In most cases, their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-help-boost-help-desk-productivity-in-2023/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-help-boost-help-desk-productivity-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6064dbb8610333ea7f4c8408/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-help-boost-help-desk-productivity-in-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-help-boost-help-desk-productivity-in-2023/amp/",
+      "publishedDateTime": "2022-12-02T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-jr-east-developing-system-for-future-driverless-trains.md",
+      "title": "JR East developing system for future driverless trains",
+      "excerpt": "Japan's largest railway operator is experimenting with a system that it hopes will lead to the introduction of driverless trains. The technology is designed to detect obstacles on train tracks.",
+      "sourceUrl": null,
+      "webUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20221202_46/",
+      "originalUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20221202_46/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20221202_46/amp.html",
+      "cdnAmpWebUrl": "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20221202_46/amp.html",
+      "publishedDateTime": "2022-12-02T02:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NHK",
+        "domain": "nhk.or.jp",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-02-stop-your-public-cloud-ai-projects-from-dripping-you-dry.md",
       "title": "Stop your public-cloud AI projects from dripping you dry",
       "excerpt": "The public cloud helped bring AI into the mainstream, but that doesn't mean every AI application should run there. Here's how to decide.",
@@ -1289,103 +1376,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-baidu-announces-plan-to-build-the-worlds-largest-fully-driverless-ride-hailing-service-area-in-2023.md",
-      "title": "Baidu Announces Plan to Build the World's Largest Fully Driverless Ride-Hailing Service Area in 2023",
-      "excerpt": "Baidu plans to establish the world's largest fully driverless ride-hailing service area in 2023Baidu continues to show growth momentum as the",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/baidu-announces-plan-to-build-the-world-s-largest-fully-driverless-ride-hailing-service-area-in-2023-1031941173",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/baidu-announces-plan-to-build-the-world-s-largest-fully-driverless-ride-hailing-service-area-in-2023-1031941173",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T23:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-artificial-intelligence-ai-in-cyber-security-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2028.md",
-      "title": "Artificial Intelligence (AI) in Cyber Security Market : Research Report Provides an In-Depth Insight of Trends 2022 To 2028",
-      "excerpt": "\"Artificial Intelligence (AI) in Cyber Security Market\" Insights 2022 - By Applications (BFSI, Government, IT and Telecom, Healthcare, Aerospace and Defense, Other), By Types (Mac",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2028-2022-11-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2028-2022-11-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T18:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Security",
-        "AI in Autos"
       ]
     }
   ],

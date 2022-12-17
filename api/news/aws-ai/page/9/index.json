@@ -2,6 +2,59 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-09-14-oracle-mysql-heatwave-comes-to-aws.md",
+      "title": "Oracle MySQL HeatWave comes to AWS",
+      "excerpt": "Oracle’s MySQL database service supporting mixed analytical, transaction processing, and machine learning workloads is now available on Amazon Web Services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3673372/oracle-mysql-heatwave-comes-to-aws.html",
+      "originalUrl": "https://www.infoworld.com/article/3673372/oracle-mysql-heatwave-comes-to-aws.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/11/apples_oranges_slices_mixture_puzzle_balance_opposites_fruit__savatore-gersace_flickr-100779885-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3673372/oracle-mysql-heatwave-comes-to-aws.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3673372/oracle-mysql-heatwave-comes-to-aws.amp.html",
+      "publishedDateTime": "2022-09-13T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-13-get-better-insight-from-reviews-using-amazon-comprehend.md",
       "title": "Get better insight from reviews using Amazon Comprehend",
       "excerpt": "“85% of buyers trust online reviews as much as a personal recommendation” – Gartner Consumers are increasingly engaging with businesses through digital surfaces and multiple touchpoints. Statistics show that the majority of shoppers use reviews to determine what products to buy and which services to",

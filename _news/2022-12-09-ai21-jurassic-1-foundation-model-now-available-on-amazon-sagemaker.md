@@ -1,20 +1,20 @@
 ---
 category: news
 title: "AI21 Jurassic-1 Foundation Model Now Available on Amazon SageMaker"
-excerpt: "SageMaker provides a curated list of foundation models that are pre-trained, cutting down on expenses and time for customers, while being hosted and deployed securely on Amazon's AWS platform."
-publishedDateTime: 2022-12-08T17:08:00Z
-originalUrl: "https://www.ksn.com/business/press-releases/cision/20221208LN60463/ai21-jurassic-1-foundation-model-now-available-on-amazon-sagemaker/"
-webUrl: "https://www.ksn.com/business/press-releases/cision/20221208LN60463/ai21-jurassic-1-foundation-model-now-available-on-amazon-sagemaker/"
+excerpt: "AI21 Labs, an Israeli startup aiming to fundamentally change the way people read and write using Generative AI, announced today that its Jurassic-1 Foundation Model used to power chatbots, answer questions,"
+publishedDateTime: 2022-12-08T16:54:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/12/08/9727397.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/12/08/9727397.htm"
 type: article
 
 provider:
-  name: ksn.com
-  domain: ksn.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "H1rwBTRBFYNdshwFGZy9VTLfKr3A7V9zP5BSmm0kLZzh5C/95nJ0bD791DJB39iadTpmt23ogzonNqcXKc7+lK7xuH0eaVR/8ZxIB4wLauJr1CLPezRCU8cFBQ0sQ6s362eGm89CoDhfdlVPeC/z/gs2ADWZT8pueJYlusFC/Z96OJxDzcaPngTvOFMOW6boYwIf0K5HzpqjrU0uFjhOnVfBhx3yUeNuDonp88drxOdQhqOJ1Ox+2ZMVCdq8vR5aL8VSKt/bhYkrk+KR8dp1tjhMSIMZjdzdw7tMJapjfZ+XU7kfOakomvf6+B952+IElhYMVHPlDWOCSzua++3s4BEMzRGBo7s2PQbEHWZBaac=;LY4m6uZBki7RhwtyX7vfXg=="
+secured: "Axpp1OclWzQLpUzZuuoypPCJuxL9qyhIta32sQazJ5dqLIwnxk45RaLoR8J3wmlQEP1Yc+rsibEyF+cC0fE0fJviA4gNFK3pHrHEUujwg+bxARBR2GD4w9tIgqVzin7E0RfXuN8fbtSPRxwkfx8FFcZtntPi0EXdlt5lboESz9JsZ2lcCproASIkClSxxJ8LQ8+WGsXhaGJlJqj638QXjfPIdCcr0BocQ1q7QwWYqkombKjO4WZ8lRDDNDdlWJTDWKsBDQldRqyzS9iCZ/O7i8VXs185tcqs48p4y80f8PiIizznbuK5sJJYl7/+ou5TfGE2aQHl09V+Fe+s8JzlnaL+MdfYG278zQUArThlEBc=;9JthTYsIMploLS0THgOr4Q=="
 ---
 

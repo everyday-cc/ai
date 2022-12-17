@@ -2,6 +2,146 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2022-10-04-dont-laugh-off-the-tesla-bot-elon-musks-optimus-is-the-real-deal.md",
+      "title": "Don't Laugh Off the Tesla Bot. Elon Musk's Optimus Is the Real Deal",
+      "excerpt": "With humanoid robots, AI has to work from the start. And the AI challenge is harder with robots. A quick primer on today's AI technology: Instead of programming computers with narrow, rigid if ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/seeing-teslas-optimus-robot-up-close-has-me-taking-it-seriously/",
+      "originalUrl": "https://www.cnet.com/news/seeing-teslas-optimus-robot-up-close-has-me-taking-it-seriously/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/50d07895f0e23f1cf03194ab4cc567a7daa60d93/hub/2022/10/04/a47f255e-4d70-4847-979b-981ddb5b9d92/tesla-optimus-robot-2.jpg?auto=webp",
+          "width": 2840,
+          "height": 1598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/dont-laugh-off-the-tesla-bot-elon-musks-optimus-is-the-real-deal/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/dont-laugh-off-the-tesla-bot-elon-musks-optimus-is-the-real-deal/",
+      "publishedDateTime": "2022-10-04T05:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-behind-the-story-navigating-san-francisco-in-a-driverless-car.md",
+      "title": "Behind the Story: Navigating San Francisco in a Driverless Car",
+      "excerpt": "A Times technology reporter in San Francisco, Cade recently wrote about his first ride in a truly driverless car, an experience “by turns spooky, impressive, perplexing and a little stressful.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/10/04/us/san-francisco-driverless-cars.html",
+      "originalUrl": "https://www.nytimes.com/2022/10/04/us/san-francisco-driverless-cars.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/02/business/04californiatoday-car/04californiatoday-car-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/10/04/us/san-francisco-driverless-cars.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/10/04/us/san-francisco-driverless-cars.amp.html",
+      "publishedDateTime": "2022-10-04T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-children-with-food-allergy-related-anxiety-can-benefit-from-cognitive-behavioral-therapy.md",
+      "title": "Children with food allergy-related anxiety can benefit from cognitive behavioral therapy",
+      "excerpt": "A new study in Annals of Allergy, Asthma and Immunology, the scientific journal of the American College of Allergy, Asthma and Immunology (ACAAI), shows that targeted cognitive behavioral therapy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/966745",
+      "originalUrl": "https://www.eurekalert.org/news-releases/966745",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-techstars-ceo-on-the-future-of-fintech.md",
       "title": "TechStars CEO On The Future Of FinTech",
       "excerpt": "Meeting up with TechStars CEO Maëlle Gavet at the Collision conference in Toronto. Here’s what she is excited about in financial technology.",
@@ -1032,155 +1172,6 @@
         "Machine Learning",
         "Natural Language Processing",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-geelys-europe-expansion-continues-argo-robotaxis-on-the-lyft-app-and-tesla-ai-day-takeaways.md",
-      "title": "Geely’s Europe expansion continues, Argo robotaxis on the Lyft app and Tesla AI Day takeaways",
-      "excerpt": "The Station weekly newsletter is the central hub for all past, present and future means of moving people and packages from Point A to Point B.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/03/geelys-europe-expansion-continues-argo-robotaxis-on-the-lyft-app-and-tesla-ai-day-takeaways/",
-      "originalUrl": "https://techcrunch.com/2022/10/03/geelys-europe-expansion-continues-argo-robotaxis-on-the-lyft-app-and-tesla-ai-day-takeaways/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/09/tesla-robot-hand.jpg?resize=1200,744",
-          "width": 1200,
-          "height": 744,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/03/geelys-europe-expansion-continues-argo-robotaxis-on-the-lyft-app-and-tesla-ai-day-takeaways/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/03/geelys-europe-expansion-continues-argo-robotaxis-on-the-lyft-app-and-tesla-ai-day-takeaways/amp/",
-      "publishedDateTime": "2022-10-03T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-tesla-unveils-functional-prototypes-of-its-planned-humanoid-robot.md",
-      "title": "Tesla unveils functional prototypes of its planned humanoid robot",
-      "excerpt": "Elon Musk announced that Tesla was working on a bipedal humanoid robot that could perform boring and/or dangerous tasks for humans. His company has now unveiled two prototypes, one of which can already walk on its own.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/tesla-prototypes-humanoid-robot/",
-      "originalUrl": "https://newatlas.com/robotics/tesla-prototypes-humanoid-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/5a22619/2147483647/strip/true/crop/717x376+0+51/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F94%2Fdd%2F7b7d0d4e475cae67c88e9c3fd3e2%2Fscreen-shot-2022-10-03-at-9.10.30%20AM.jpeg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-the-best-robot-vacuums-of-2022-tested-and-rated.md",
-      "title": "The best robot vacuums of 2022 tested and rated",
-      "excerpt": "We spent hundreds of hours testing dozens of robot vacuums, both in a controlled environment and ... who value convenience above all, and don’t mind paying top dollar for it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tomsguide.com/us/best-robot-vacuums,review-2000.html",
-      "originalUrl": "https://www.tomsguide.com/us/best-robot-vacuums,review-2000.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/its2Ps4RMjDGBkHtngK9S7-1200-80.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

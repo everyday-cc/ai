@@ -2,6 +2,144 @@
   "page": 110,
   "value": [
     {
+      "path": "_news/2022-09-14-cognitive-decline-tied-to-dental-health-monkeypox-and-the-brain-what-is-brain-fog.md",
+      "title": "Cognitive Decline Tied to Dental Health; Monkeypox and the Brain; What Is Brain Fog?",
+      "excerpt": "(Journal of the American Geriatrics Society) The 1-year incidence of cognitive decline was lower among long-term care residents in Canada during the COVID-19 pandemic than before it, which may be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/neurology/generalneurology/100688",
+      "originalUrl": "https://www.medpagetoday.com/neurology/generalneurology/100688",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.medpagetoday.net/media/images/100xxx/100688.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-what-the-eu-ai-act-means-for-the-insurance-industry.md",
+      "title": "What the EU AI Act means for the insurance industry",
+      "excerpt": "A new EU AI Act draft shows that regulatory oversight of AI and the data fed into AI systems will increase in Europe and also globally.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/what-the-eu-ai-act-means-for-the-insurance-industry/",
+      "originalUrl": "https://venturebeat.com/ai/what-the-eu-ai-act-means-for-the-insurance-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1037155966.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/what-the-eu-ai-act-means-for-the-insurance-industry/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/what-the-eu-ai-act-means-for-the-insurance-industry/amp/",
+      "publishedDateTime": "2022-09-13T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-ai-eye-podcast-722-stocks-discussed-nyse-ai-nasdaqgs-goog-otc-mrnj.md",
+      "title": "AI Eye Podcast 722: Stocks discussed: (NYSE: $AI) (NasdaqGS: $GOOG) (OTC: $MRNJ)",
+      "excerpt": "Investorideas.com, a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news, deal tracker and advancements in artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.investorideas.com/news/2022/artificial-intelligence/09131AI-GOOG-MRNJ.asp",
+      "originalUrl": "https://www.investorideas.com/news/2022/artificial-intelligence/09131AI-GOOG-MRNJ.asp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.investorideas.com/images/AI-Eye.jpg",
+          "width": 1280,
+          "height": 1206,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T10:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investor ideas",
+        "domain": "investorideas.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-kyndis-natural-language-search-solution-recognized-as-a-kmworld-top-trend-setting-product-of-2022.md",
       "title": "Kyndi's Natural Language Search Solution Recognized as a KMWorld Top Trend-Setting Product of 2022",
       "excerpt": "SAN MATEO, Calif., Sept. 13, 2022 /PRNewswire/ -- Kyndi, the leading natural language processing (NLP) company, today announced that KMWorld, the premier knowledge management publication ...",
@@ -959,145 +1097,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-heres-the-exclusive-16-slide-pitch-deck-that-startup-alcatraz-ai-used-to-raise-25-million-to-open-doors-with-facial-recognition.md",
-      "title": "Here's the exclusive 16-slide pitch deck that startup Alcatraz AI used to raise $25 million to open doors with facial recognition",
-      "excerpt": "AI startup Alcatraz AI's funding was led by global VC firm Almaz Capital, and involved several new and existing investors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-startup-alcatraz-ai-tech-pitch-deck-2022-9",
-      "originalUrl": "https://www.businessinsider.com/ai-startup-alcatraz-ai-tech-pitch-deck-2022-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/631f9683e8b500001850e508?width=1200&format=jpeg",
-          "width": 963,
-          "height": 481,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-europe-self-driving-car-market-2022-top-players-emerging-demand-business-profit-analysis-and-expansion-strategies-by-2030.md",
-      "title": "Europe Self-driving Car Market 2022 Top Players, Emerging Demand, Business Profit Analysis and Expansion Strategies by 2030",
-      "excerpt": "The Europe Self-driving Car Market is expected to expand at a CAGR of 49.9%, leading to global revenue of USD 38.51 Bn by 2024. The key players in the Europe Self-driving Car Market are Apple, Microsoft,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/europe-self-driving-car-market-2022-top-players-emerging-demand-business-profit-analysis-and-expansion-strategies-by-2030-2022-09-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/europe-self-driving-car-market-2022-top-players-emerging-demand-business-profit-analysis-and-expansion-strategies-by-2030-2022-09-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T03:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-natural-language-processing-nlp-market-research-2030-key-growth-factors-and-opportunity-analysis.md",
-      "title": "Natural Language Processing (NLP) Market Research, 2030 | Key Growth Factors And Opportunity Analysis",
-      "excerpt": "The high implementation cost is one of the major factors for businesses accessing natural language processing solutions through cloud-based deployments. PORTLAND , PORTLAND, OR, UNITED STATE ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104855393/Natural-Language-Processing-NLP-Market-Research-2030-Key-Growth-Factors-And-Opportunity-Analysis",
-      "originalUrl": "https://menafn.com/1104855393/Natural-Language-Processing-NLP-Market-Research-2030-Key-Growth-Factors-And-Opportunity-Analysis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-09/13/EP_e1e64image_story.jpeg",
-          "width": 738,
-          "height": 386,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MENAFN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

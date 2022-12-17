@@ -39,6 +39,20 @@ related:
         width: 1920
         height: 1273
         isCached: true
+  - title: "Tesla Lawyers Say Failure to Deliver Self-Driving Isn't Technically Fraud"
+    excerpt: "A lawsuit filed against Tesla alleges it misled consumers by claiming its cars are self-driving, to which Tesla's lawyers retort: well, it's not fraud."
+    publishedDateTime: 2022-12-13T23:34:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-lawyers-fraud-self-driving"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 53
+    images:
+      - url: "https://wp-assets.futurism.com/2022/12/tessie.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tesla Full Self-Driving data looks awful: We challenge Elon Musk to prove otherwise"
     excerpt: "The little data that is coming out of Tesla's Full Self-Driving Beta looks awful, and that's putting it mildly."
     publishedDateTime: 2022-12-14T16:21:00Z
@@ -76,6 +90,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Tesla reportedly claims its failure to deliver self-driving cars isn’t fraud"
+    excerpt: "Tesla has come under fire once again for its controversially named Full Self-Driving driver-assist feature. Despite what the name alludes to, FSD doesn’t enable a car to drive on its own."
+    publishedDateTime: 2022-12-16T13:27:00Z
+    webUrl: "https://fox8.com/automotive/internet-brands/tesla-reportedly-claims-its-failure-to-deliver-self-driving-cars-isnt-fraud/"
+    type: article
+    provider:
+      name: FOX8 Cleveland
+      domain: fox8.com
+    quality: 31
 
 secured: "ENF9Rb8ZFPbRC4nWorPodrKxtill7zcY2TmZ1h99kgqCsHt3Ge1fmixiSyYiGVwJqdOLxMuXkyu4H9aVjkjNJxV6kYTKgtTgDqieHTEWcWdAr8klv2th2ybldAdqG00IUtKVaVXH4kIH7x1sLWhvdUqx5KS5SvekSsxcKl/CL8fyTCvtKeOhUD/PCQdGyNOW9MBL+QdcaHXS+y6EaVtrl9YGioakX62OqGRc3u1MFmrqdvHds2IfXWRmJTbs3EOQaxVD0rKOtMIC74GwWbhMUUkPwc8oPEi3W2W/mk5VdhL+KCvqI1RmeUpth0Zb0wci7kjlVg/92HcEJhYho2ahLM06ncFlI+DWJKpc6lTkvs3zrkf4CVpGKW36Bgcbigmyt5C1VHQSR1rRyKWDSSVxUsqapELbwprVFFS5gstrUqju9vQ+6vH+Iv+7METNiJ8+T3spX15yMGAt7haTyGKCVX3pGmwscyrdIAmPRRwveRx1GQMyazy0VK8zRpDo8MhZgNWoCH1C2LcZ4Stq/d146Q==;1KYCDiPvLpEEzpACGeO8pg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://marketscale.com/industries/transportation/tesla-to-add-rad
 webUrl: "https://marketscale.com/industries/transportation/tesla-to-add-radar-in-hopes-of-achieving-full-self-driving-in-vehicles/"
 type: article
 quality: 54
-heat: 94
+heat: 114
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla Lawyers Say Failure to Deliver Self-Driving Isn't Technically Fraud"
+    excerpt: "A lawsuit filed against Tesla alleges it misled consumers by claiming its cars are self-driving, to which Tesla's lawyers retort: well, it's not fraud."
+    publishedDateTime: 2022-12-13T23:34:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-lawyers-fraud-self-driving"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 53
+    images:
+      - url: "https://wp-assets.futurism.com/2022/12/tessie.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tesla Full Self-Driving data looks awful: We challenge Elon Musk to prove otherwise"
     excerpt: "The little data that is coming out of Tesla's Full Self-Driving Beta looks awful, and that's putting it mildly."
     publishedDateTime: 2022-12-14T16:21:00Z
@@ -76,6 +90,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Tesla reportedly claims its failure to deliver self-driving cars isn’t fraud"
+    excerpt: "Tesla has come under fire once again for its controversially named Full Self-Driving driver-assist feature. Despite what the name alludes to, FSD doesn’t enable a car to drive on its own."
+    publishedDateTime: 2022-12-16T13:27:00Z
+    webUrl: "https://fox8.com/automotive/internet-brands/tesla-reportedly-claims-its-failure-to-deliver-self-driving-cars-isnt-fraud/"
+    type: article
+    provider:
+      name: FOX8 Cleveland
+      domain: fox8.com
+    quality: 31
 
 secured: "ypoVUabVVk9LFmpVKwpa2YRM0y+TnQPbiblYHfdg0W6ggnCx7R/XS9Z/lL+NAHdMPiaF5zAXlTyFQ+UBc/kZYol9tLfEZVb1g6wEwWVCf4/UWCeisZZKNvvSlQZHQzr4VFzjPmzMumB8sjqlyuFxyyWL5kGJQ3Odq3AUyMrABsnNAsZlmxWDcaVASPztUB77eOYP6gALd0XXWxIJDLM08KagiLS6rIp9lI6hC1dfODZ1DBWFD/GRFmRsXDe4j6A3D193kq6vgDt3+6K7y/mcvHMLj8yAt3dOtF9K3d4Gba0o+ErVDbP1ozWxl6q9qxYfLLtEdOGm2O2s1kEdXmw0wL8quWDHXwRBptTwTFk1e99szsak0RUzeQ5E2YwfnwXSG+oTBzvBtoPNESgEt77eJty4y+Y0H9zYI6DFYW7nEZliaXNp7IIp84/94iL23HgUMjfjHfyG13VkCr0nnRWgAerZKe9g2y0IJx+W1OEuNDnI9WBbz7AolygTYI8K6epM2yjSfvxrZ958oYPIdq0dfQ==;Mt9WKfc+e/4NfB13AdKAVQ=="
 ---

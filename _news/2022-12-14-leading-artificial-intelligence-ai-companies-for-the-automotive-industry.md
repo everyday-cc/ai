@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-13T19:42:00Z
 originalUrl: "https://www.just-auto.com/buyers-guide/top-ranked-ai-companies-automotive-industry/"
 webUrl: "https://www.just-auto.com/buyers-guide/top-ranked-ai-companies-automotive-industry/"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: Just Auto

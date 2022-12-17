@@ -2,6 +2,143 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2022-10-05-meta-made-dall-e-for-video-and-theres-no-way-this-ends-well.md",
+      "title": "Meta Made DALL-E for Video and There’s No Way This Ends Well",
+      "excerpt": "Now Meta (Facebook’s parent company ... a Superhero outfit with red cape flying through the sky. “Generative AI research is pushing creative expression forward by giving people tools to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailybeast.com/facebooks-parent-company-meta-unveils-make-a-video-an-ai-content-creator-like-dall-e-with-the-same-flaws",
+      "originalUrl": "https://www.thedailybeast.com/facebooks-parent-company-meta-unveils-make-a-video-an-ai-content-creator-like-dall-e-with-the-same-flaws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1664918545/100522-tran-meta-hero_ikuxsq",
+          "width": 1480,
+          "height": 832,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T15:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Beast",
+        "domain": "thedailybeast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-05-white-house-unveils-artificial-intelligence-bill-of-rights.md",
+      "title": "White House unveils artificial intelligence ‘Bill of Rights’",
+      "excerpt": "The Biden administration unveiled a set of far-reaching goals Tuesday aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s personal data and limit surveillance.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/technology-business-artificial-intelligence-7a39848340d210592aeea2478225f489",
+      "originalUrl": "https://apnews.com/article/technology-business-artificial-intelligence-7a39848340d210592aeea2478225f489",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/e3eccfa44df44341aa00bc70404178c4/3000.jpeg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T15:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-05-protestor-suffering-from-vision-loss-awarded-1m-in-lawsuit-against-or-police.md",
+      "title": "Protestor suffering from vision loss awarded $1M in lawsuit against OR police",
+      "excerpt": "A racial justice demonstrator will be awarded $1 million in a lawsuit against Salem, Oregon. The protestor suffered from permanent vision loss and chest injury by the city police.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/protestor-suffering-vision-loss-awarded-1m-lawsuit-against-or-police",
+      "originalUrl": "https://www.foxnews.com/us/protestor-suffering-vision-loss-awarded-1m-lawsuit-against-or-police",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/818f86fb-741c-403f-82c8-4531bb4369de/2bd411d9-3125-48af-9f7f-1b2a6929879f/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/protestor-suffering-vision-loss-awarded-1m-lawsuit-against-or-police.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/protestor-suffering-vision-loss-awarded-1m-lawsuit-against-or-police.amp",
+      "publishedDateTime": "2022-10-04T15:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-05-tesla-announces-its-moving-away-from-ultrasonic-sensors-in-favor-of-tesla-vision.md",
       "title": "Tesla announces it’s moving away from ultrasonic sensors in favor of ‘Tesla Vision’",
       "excerpt": "Tesla announced today that it is moving away from using ultrasonic sensors in its suite of Autopilot sensors in favor of its camera-only “Tesla Vision” system. Last year, Tesla announced it would transition to its “Tesla Vision” Autopilot without radar and start producing vehicles without a front-facing radar.",
@@ -1004,146 +1141,6 @@
         "Machine Learning",
         "AWS AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-dont-laugh-off-the-tesla-bot-elon-musks-optimus-is-the-real-deal.md",
-      "title": "Don't Laugh Off the Tesla Bot. Elon Musk's Optimus Is the Real Deal",
-      "excerpt": "With humanoid robots, AI has to work from the start. And the AI challenge is harder with robots. A quick primer on today's AI technology: Instead of programming computers with narrow, rigid if ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/seeing-teslas-optimus-robot-up-close-has-me-taking-it-seriously/",
-      "originalUrl": "https://www.cnet.com/news/seeing-teslas-optimus-robot-up-close-has-me-taking-it-seriously/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/50d07895f0e23f1cf03194ab4cc567a7daa60d93/hub/2022/10/04/a47f255e-4d70-4847-979b-981ddb5b9d92/tesla-optimus-robot-2.jpg?auto=webp",
-          "width": 2840,
-          "height": 1598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/dont-laugh-off-the-tesla-bot-elon-musks-optimus-is-the-real-deal/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/dont-laugh-off-the-tesla-bot-elon-musks-optimus-is-the-real-deal/",
-      "publishedDateTime": "2022-10-04T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-behind-the-story-navigating-san-francisco-in-a-driverless-car.md",
-      "title": "Behind the Story: Navigating San Francisco in a Driverless Car",
-      "excerpt": "A Times technology reporter in San Francisco, Cade recently wrote about his first ride in a truly driverless car, an experience “by turns spooky, impressive, perplexing and a little stressful.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/10/04/us/san-francisco-driverless-cars.html",
-      "originalUrl": "https://www.nytimes.com/2022/10/04/us/san-francisco-driverless-cars.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/10/02/business/04californiatoday-car/04californiatoday-car-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/10/04/us/san-francisco-driverless-cars.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/10/04/us/san-francisco-driverless-cars.amp.html",
-      "publishedDateTime": "2022-10-04T05:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-children-with-food-allergy-related-anxiety-can-benefit-from-cognitive-behavioral-therapy.md",
-      "title": "Children with food allergy-related anxiety can benefit from cognitive behavioral therapy",
-      "excerpt": "A new study in Annals of Allergy, Asthma and Immunology, the scientific journal of the American College of Allergy, Asthma and Immunology (ACAAI), shows that targeted cognitive behavioral therapy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/966745",
-      "originalUrl": "https://www.eurekalert.org/news-releases/966745",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

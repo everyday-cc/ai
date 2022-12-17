@@ -2,6 +2,152 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2022-10-27-autonomous-vehicle-startup-argo-ai-is-shutting-down.md",
+      "title": "Autonomous vehicle startup Argo AI is shutting down",
+      "excerpt": "In an earnings report, Ford (a major investor in Argo AI) noted that the company is being wound down and that it will hire engineers from the startup to expand and speed up development of Level 2 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/autonomous-vehicle-startup-argo-ai-shutting-down-203250200.html",
+      "originalUrl": "https://www.aol.com/news/autonomous-vehicle-startup-argo-ai-shutting-down-203250200.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/N23kYSCPfLUp_7gqNB_8vA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODA-/https://s.yimg.com/os/creatr-uploaded-images/2022-10/4f5ebfd0-5569-11ed-b7a7-463230a7765b",
+          "width": 1199,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-26T14:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-how-ai-powers-sams-clubs-holiday-product-assortment.md",
+      "title": "How AI powers Sam’s Club’s holiday product assortment",
+      "excerpt": "“We have patented models around object detection which have roughly about 90% accuracy ... Club associates, he insists, love the inventory intelligence and item recognition technology. “Instead of having to manually find out all of these details ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-sams-club-uses-ai-to-get-pumpkin-pie-to-holiday-tables/",
+      "originalUrl": "https://venturebeat.com/ai/how-sams-club-uses-ai-to-get-pumpkin-pie-to-holiday-tables/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1132704475.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-sams-club-uses-ai-to-get-pumpkin-pie-to-holiday-tables/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-sams-club-uses-ai-to-get-pumpkin-pie-to-holiday-tables/amp/",
+      "publishedDateTime": "2022-10-26T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-tesla-is-reportedly-under-doj-criminal-probe-over-self-driving-claims.md",
+      "title": "Tesla is reportedly under DoJ criminal probe over self-driving claims",
+      "excerpt": "Tesla is reportedly under criminal investigation by the Department of Justice in the United States over self-driving claims.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/10/26/tesla-doj-criminal-probe-self-driving-claims/",
+      "originalUrl": "https://electrek.co/2022/10/26/tesla-doj-criminal-probe-self-driving-claims/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 274,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/04/Tesla-Full-Self-Driving-ad-e1650418988158.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/10/26/tesla-doj-criminal-probe-self-driving-claims/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/10/26/tesla-doj-criminal-probe-self-driving-claims/amp/",
+      "publishedDateTime": "2022-10-26T13:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-27-volkswagen-no-longer-investing-in-self-driving-startup-argo-ai.md",
       "title": "Volkswagen no longer investing in self-driving startup Argo AI",
       "excerpt": "Volkswagen disclosed a $2.6 billion investment in Argo AI, the Pittsburgh-based self-driving startup, in June 2020. The investment meant the startup was jointly controlled by the German carmaker ...",
@@ -1070,152 +1216,6 @@
       "topics": [
         "Microsoft AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-hebrew-u-to-open-joint-phd-program-research-partnership-with-meta-ai.md",
-      "title": "Hebrew U to open joint PhD program, research partnership with Meta AI",
-      "excerpt": "Doctoral program to provide students with mentors from the Facebook parent company, access to facilities and computational infrastructure",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/hebrew-u-to-open-joint-phd-program-research-partnership-with-meta-ai/",
-      "originalUrl": "https://www.timesofisrael.com/hebrew-u-to-open-joint-phd-program-research-partnership-with-meta-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2022/08/AP22239576829786-640x400.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/hebrew-u-to-open-joint-phd-program-research-partnership-with-meta-ai/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/hebrew-u-to-open-joint-phd-program-research-partnership-with-meta-ai/amp/",
-      "publishedDateTime": "2022-10-26T00:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-latticeflow-raises-12m-to-eliminate-computer-vision-blind-spots.md",
-      "title": "LatticeFlow raises $12M to eliminate computer vision blind spots",
-      "excerpt": "LatticeFlow, a startup that was spun out of Zurich’s ETH in 2020, helps machine learning teams improve their AI vision models by automatically diagnosing issues and improving both the data and ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/26/latticeflow-raises-12m-to-eliminate-computer-vision-blind-spots/",
-      "originalUrl": "https://techcrunch.com/2022/10/26/latticeflow-raises-12m-to-eliminate-computer-vision-blind-spots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1382834268.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/26/latticeflow-raises-12m-to-eliminate-computer-vision-blind-spots/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/26/latticeflow-raises-12m-to-eliminate-computer-vision-blind-spots/amp/",
-      "publishedDateTime": "2022-10-26T00:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-shutterstock-will-soon-offer-licensed-dall-e-2-images-showing-what-the-future-of-generative-ai-might-look-like.md",
-      "title": "Shutterstock Will Soon Offer Licensed DALL-E 2 Images, Showing What The Future Of Generative AI Might Look Like",
-      "excerpt": "Shutterstock announced it unveiled its action plan to launch its AI-generated content capabilities in a manner that is responsible and transparent for its customers and contributors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johanmoreno/2022/10/26/shutterstock-will-soon-offer-ai-generated-images-showing-what-the-future-of-dall-e-might-look-like/",
-      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2022/10/26/shutterstock-will-soon-offer-ai-generated-images-showing-what-the-future-of-dall-e-might-look-like/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6358cacc53a52234563671f1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2022/10/26/shutterstock-will-soon-offer-ai-generated-images-showing-what-the-future-of-dall-e-might-look-like/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/10/26/shutterstock-will-soon-offer-ai-generated-images-showing-what-the-future-of-dall-e-might-look-like/amp/",
-      "publishedDateTime": "2022-10-25T22:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

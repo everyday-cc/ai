@@ -38,6 +38,15 @@ related:
         width: 1280
         height: 750
         isCached: true
+  - title: "Artificial Intelligence searches for early sign of osteoarthritis: Research"
+    excerpt: "Researchers from the University of Jyvaskyla and the Central Finland Health Care District have developed an AI based neural network to detect an early knee osteoarthritis from x-ray images. AI was able to match a doctors' diagnosis in 87 per cent of cases."
+    publishedDateTime: 2022-12-17T22:31:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Health/20221217/4015893.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 15
   - title: "Artificial intelligence searches an early sign of osteoarthritis from an X-ray image – might save from unnecessary treatments and examination"
     excerpt: "Researchers from the University of Jyväskylä and the Central Finland Health Care District have developed an AI based neural network to detect an early knee osteoarthritis from x-ray images."
     publishedDateTime: 2022-12-16T17:18:00Z
