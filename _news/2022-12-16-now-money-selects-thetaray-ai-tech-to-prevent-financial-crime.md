@@ -41,6 +41,15 @@ related:
         width: 640
         height: 428
         isCached: true
+  - title: "Dubai-based NOW Money Selects ThetaRay AI Tech to Prevent Financial Crime on the Inclusive Banking App"
+    excerpt: "NOW Money selected ThetaRay's advanced SONAR anti-money laundering solution with combined transaction monitoring and sanctions list screening to stay a step ahead of financial crime by uncovering both known and unknown money-laundering crimes,"
+    publishedDateTime: 2022-12-14T06:28:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/12/14/9730006.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
 
 secured: "Ka8aD6Xx38yt6aVy4ioJTVAAPG4hJAvF5ORX1mEI4GAbuiSS8SGGA/NHQRwtZ+ETFa9oma9Ha0u2x3Hz4id/Y3BGRucgvsC0hwVuhLQC8Oq4mgO9b6+jKrX0lpC4QjUcc+WjO7Zg9ygF0uk3jjicFzpl7b8cCluR4PJj9prHIc4HNWM52xndJ8evETSl6AWa1ExY1M7x1UeE9vWcMTcZaVjZzMMQn79GUikYcNM0x3CAKQQXDPkB1C9i8Roejo/WLrrnbPg54GdgOQj5e5uVZTSHsm3D499jivtDnAHk9NL4dHYImZ8whD8O/VLbqsNqHYajRp48vT+PQGN2TNsR7c3tmpcZZPMnjKatMPujZz5rWp4u74EdhutSwnjSFxkIz0qM1QdLY8Tha5WWOEMtot+18dRlwxDdRbK9YjqREY9XLD9dOEwTxgPqCaVBkGqZQGdzdVWsDKQOOfBIDBLnYJLknMgnHvappJ8ak4e8NqJ271sq+wZoLnOjvRWMvZQsIMRqKXOjNQCss34Q5xohvQ==;tB/zX+34CGORTHJ1Qk7yPQ=="
 ---

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-18-get-ready-for-wireless-docking-monitors-architecture-wars-and-better-chip-supplies-synaptics-ceo.md",
+      "title": "Get ready for wireless docking monitors, architecture wars and better chip supplies | Synaptics CEO",
+      "excerpt": "Michael Hurlston, CEO of Synaptics, talked about the easing of the chip shortage and other tech topics ahead of CES.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/get-ready-for-wireless-docking-monitors-architecture-wars-and-better-chip-supplies-synaptics-ceo/",
+      "originalUrl": "https://venturebeat.com/ai/get-ready-for-wireless-docking-monitors-architecture-wars-and-better-chip-supplies-synaptics-ceo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/12/synaptics-6.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 831,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/get-ready-for-wireless-docking-monitors-architecture-wars-and-better-chip-supplies-synaptics-ceo/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/get-ready-for-wireless-docking-monitors-architecture-wars-and-better-chip-supplies-synaptics-ceo/amp/",
+      "publishedDateTime": "2022-12-17T08:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-17-top-tip-if-you-want-more-of-that-vc-money-stick-some-ai-in-your-chips.md",
       "title": "Top tip: If you want more of that VC money, stick some AI in your chips",
       "excerpt": "Analysis Some AI chip startups are managing to raise capital from investors despite operating in a crowded market of competitors where venture capital funding has plummeted in the past year. Venture-backed AI chip designers that have raised funding rounds in recent months include Israel-based NeuReality,",
@@ -245,7 +297,7 @@
       "originalUrl": "https://www.cnet.com/tech/computing/chatgpt-why-everyone-is-obsessed-this-mind-blowing-ai-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -1424,49 +1476,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-coreweave-secures-100m-to-expand-nvidia-hgx-h100-gpu-offering-usher-in-new-era-of-ai-innovation.md",
-      "title": "CoreWeave Secures $100M to Expand NVIDIA HGX H100 GPU Offering, Usher in New Era of AI Innovation",
-      "excerpt": "to scale its on-demand GPU compute resources for customers and democratize access to market disruptive AI products. This funding injection is Magnetar's second investment in CoreWeave, following ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/12/b29970509/coreweave-secures-100m-to-expand-nvidia-hgx-h100-gpu-offering-usher-in-new-era-of-ai-innovation",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/b29970509/coreweave-secures-100m-to-expand-nvidia-hgx-h100-gpu-offering-usher-in-new-era-of-ai-innovation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
-          "width": 800,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29970509",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29970509",
-      "publishedDateTime": "2022-12-06T04:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

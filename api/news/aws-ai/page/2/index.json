@@ -403,58 +403,6 @@
       ]
     },
     {
-      "path": "_news/2022-12-01-amazon-to-warn-customers-on-limitations-of-its-ai.md",
-      "title": "Amazon to warn customers on limitations of its AI",
-      "excerpt": "Amazon chose software touching on sensitive demographic issues as a start for its service cards, which Kearns expects to grow in detail over time. One such service is called \"Rekognition.\" In 2019, Amazon contested a study saying the technology struggled ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/amazon-warn-customers-limitations-its-ai-2022-11-30/",
-      "originalUrl": "https://www.reuters.com/technology/amazon-warn-customers-limitations-its-ai-2022-11-30/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/g4FkAeB1syg6dyJxBiAxlo2QyzQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SWHRVR65DJLWVK4B3D4PTWA5FY.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T13:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-01-stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the-future.md",
       "title": "Stability AI Selects AWS as Its Preferred Cloud Provider to Build Artificial Intelligence for the Future",
       "excerpt": "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Stability AI, a community-driven, open-source artificial intelligence (AI) company, has selected AWS as its preferred ...",
@@ -625,6 +573,49 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-amazon-to-warn-customers-on-limitations-of-its-ai.md",
+      "title": "Amazon to warn customers on limitations of its AI",
+      "excerpt": "Amazon chose software touching on sensitive demographic issues as a start for its service cards, which Kearns expects to grow in detail over time. One such service is called “Rekognition.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.euronews.com/next/2022/11/30/amazon-com-cloud-ai",
+      "originalUrl": "https://www.euronews.com/next/2022/11/30/amazon-com-cloud-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.euronews.com/articles/wires/896/14/8961478/1000x563_we9fl.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T09:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euronews",
+        "domain": "euronews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {

@@ -15,6 +15,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "ZjJFrAjpfEjGbErR/m/gvZtO9zjrAYPwAV1xz+3rPykeIXJnt3jP2+9xor+T37I/DqH9UYspuaP6dsZVE7a3XZfwBMrfW8yN8NQK85iA5CZeHUI2vgtEqcatrmU0/N12h7ie8aZMBMh1Mf01hb55wRqS3i85Z7kPcP5loV7iZKrVrfB+n0zUKLTGsrjIC3dKw38VpsCmR+4M/U7DA+lcwXaoyKj+k0o/4hi8t9wOnvux+Y5TKudYlGNJyERNpDH1lZGvurHDjJ5AssIcPiudcf580cNBMpgJZOwc0hNMpaL2xcY9QEsSMAksU/2l6JtVWF8+gyld3FC7TC5QbrJ0yXqcixYoj6h6uBiozQpoBFU=;bsjePGhEVR0OS1NfBb9V2A=="
+images:
+  - url: "https://i0.wp.com/www.ksn.com/wp-content/uploads/sites/13/2022/12/Dellrose-Shooting00.jpg?w=2000&#038;ssl=1"
+    width: 1920
+    height: 1080
+    isCached: true
+
+secured: "aZhPb+pstOsMvSkO/xLQuH85Zd3gAWWHAxeDqPcgw4Z9ixe59u4bBGb3TEUvXRvaJp9BuMDoFU2WH6fHJmRKBbKe55OofYoN96mlFX4C2KFDnmzKV5zf+2nRqbz9mCfoTscXs0VLoucyj6mmXl/C0GF57RRRTs3KFEiH+lvJAJEab/sgKrNe2daP8G94unT7CMnoCYdiSZUnciTNOkpMoBEV17pv3e0+bTB0TTLzg2x8D2bnNgb7AG/1zUwVbZ3WkyDzLz8W0/K5zgUw56ZtHuysU8NsCFuykAMA74pJlQvF+sJ3aydrp4G9gzedi0xIlFQ8URfA7L3XbSjrWw5iftGwUaF0BczNNHEwoNM3M+s=;5zpe4dL5hcofUKcZcsPR2A=="
 ---
 

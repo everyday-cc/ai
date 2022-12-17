@@ -40,22 +40,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Bolstering the safety of self-driving cars with a deep learning-based object detection system"
-    excerpt: "Self-driving cars, or autonomous vehicles, have long been earmarked as the next generation mode of transport. To enable the autonomous navigation of such vehicles in different environments, many different technologies relating to signal processing,"
-    publishedDateTime: 2022-12-12T21:27:00Z
-    webUrl: "https://techxplore.com/news/2022-12-bolstering-safety-self-driving-cars-deep.html"
-    ampWebUrl: "https://techxplore.com/news/2022-12-bolstering-safety-self-driving-cars-deep.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-bolstering-safety-self-driving-cars-deep.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 50
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/self-driving-car-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Why GM's self-driving robotaxis are facing a federal probe"
     excerpt: "The probe of GM's Cruise comes as federal regulations for self-driving cars remain unclear and the business case for them remains unproven, Axios' Joann Muller writes. Driving the news: The Cruise vehicles are being reviewed because they \"may engage in inappropriately hard braking or become immobilized while operating,"
     publishedDateTime: 2022-12-16T15:41:00Z

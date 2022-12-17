@@ -2,6 +2,274 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-12-12-deploying-ai-strategies-to-mitigate-banking-and-fintech-fraud.md",
+      "title": "Deploying AI Strategies to Mitigate Banking and Fintech Fraud",
+      "excerpt": "Research shows that 43 per cent of financial services organizations expect the cost-of-living crisis to increase the risk of financial crime and fraud over the next 12 months, as scammers target vulne",
+      "sourceUrl": null,
+      "webUrl": "https://financialit.net/blog/ai-baking-fintech/deploying-ai-strategies-mitigate-banking-and-fintech-fraud",
+      "originalUrl": "https://financialit.net/blog/ai-baking-fintech/deploying-ai-strategies-mitigate-banking-and-fintech-fraud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://financialit.net/sites/default/files/carol_hamilton_-_provenir.png",
+          "width": 3024,
+          "height": 3024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-11T21:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial IT",
+        "domain": "financialit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-12-artificial-intelligence-ai-in-supply-chain-and-logistics-market-2022-regional-scope-growth-statistics-demand-and-regional-outlook-2028.md",
+      "title": "Artificial intelligence (AI) in Supply Chain and Logistics Market 2022 : Regional Scope, Growth Statistics, Demand and Regional Outlook 2028",
+      "excerpt": "\"Artificial intelligence (AI) in Supply Chain and Logistics Market\" Insights 2022 - By Applications (Inventory control and planning, Transportation network design, Purchasing and supply management, Demand planning and forecasting,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-2022-regional-scope-growth-statistics-demand-and-regional-outlook-2028-2022-12-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-2022-regional-scope-growth-statistics-demand-and-regional-outlook-2028-2022-12-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-11T20:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-12-artificial-intelligence-microscopy-market-2023-is-flourishing-around-the-world-by-2028-123-pages-report.md",
+      "title": "Artificial Intelligence Microscopy Market 2023 Is Flourishing Around the World by 2028 | 123 Pages Report",
+      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-microscopy-market-2023-is-flourishing-around-the-world-by-2028-123-pages-report-2022-12-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-microscopy-market-2023-is-flourishing-around-the-world-by-2028-123-pages-report-2022-12-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-11T19:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-12-air-india-puts-in-place-ethics-governance-structure.md",
+      "title": "Air India Puts In Place Ethics Governance Structure",
+      "excerpt": "This committee has the mandate to formalise ethics-related guidelines, approve policies and procedures related to ethics, and will be the final escalation point for the regional ethics committees",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/business/air-india-puts-in-place-ethics-governance-structure-news-244200",
+      "originalUrl": "https://www.outlookindia.com/business/air-india-puts-in-place-ethics-governance-structure-news-244200",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1656938538.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/business/air-india-puts-in-place-ethics-governance-structure-news-244200/amp",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/air-india-puts-in-place-ethics-governance-structure-news-244200/amp",
+      "publishedDateTime": "2022-12-11T19:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-12-driverless-cars-on-cruise-control-are-coming-to-a-street-near-you.md",
+      "title": "Driverless cars on cruise control are coming to a street near you",
+      "excerpt": "Driverless cars have yet to reach the streets of Halifax, but perhaps residents should keep their eyes peeled. Though its cobblestones “might prove to be challenging”, Oliver Cameron, the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetimes.co.uk/article/driverless-cars-on-cruise-control-are-coming-to-a-street-near-you-0dg8x8h8x",
+      "originalUrl": "https://www.thetimes.co.uk/article/driverless-cars-on-cruise-control-are-coming-to-a-street-near-you-0dg8x8h8x",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F55e9d2c8-7976-11ed-bcd8-855e06175970.jpg?crop=5382%2C3028%2C1307%2C1417&resize=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-11T16:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times",
+        "domain": "thetimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-12-bolstering-the-safety-of-self-driving-cars-with-a-deep-learning-based-object-detection-system.md",
+      "title": "Bolstering the safety of self-driving cars with a deep learning-based object detection system",
+      "excerpt": "Self-driving cars need to implement efficient, effective, and accurate detection systems to provide a safe and reliable experience to its users. To this end, an international research team has now developed an end-to-end neural network that,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/974123",
+      "originalUrl": "https://www.eurekalert.org/news-releases/974123",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-11T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-12-12-brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge.md",
       "title": "BrainChip Joins Intel Foundry Services to Advance Neuromorphic AI at the Edge",
       "excerpt": "LAGUNA HILLS, CA / ACCESSWIRE / / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(OTC:BCHPY), the world's first commercial producer of ultra-low power neuromorphic AI IP, today announced that it has",
@@ -919,292 +1187,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-12-10-deepmind-created-an-ai-tool-that-can-help-generate-rough-film-and-stage-scripts.md",
-      "title": "DeepMind created an AI tool that can help generate rough film and stage scripts",
-      "excerpt": "Alphabet's DeepMind has built an AI tool that can help get you started. Dramatron is a so-called \"co-writing\" tool that can generate character descriptions, plot points, location descriptions and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/deepmind-ai-tool-film-theater-scripts-dramatron-212328597.html",
-      "originalUrl": "https://www.engadget.com/deepmind-ai-tool-film-theater-scripts-dramatron-212328597.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-12/ed82e680-7802-11ed-a59f-bc23be79c645",
-          "width": 5645,
-          "height": 3634,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/deepmind-ai-tool-film-theater-scripts-dramatron-212328597.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/deepmind-ai-tool-film-theater-scripts-dramatron-212328597.html",
-      "publishedDateTime": "2022-12-09T14:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-10-tesla-full-self-driving-not-launching-is-a-failure-but-not-a-fraud.md",
-      "title": "Tesla: Full Self-Driving Not Launching Is a ‘Failure’ But Not a Fraud",
-      "excerpt": "Tesla hasn’t met its goal of a fully self-driving car, but it says failing to meet that goal isn’t the same as fraud. Back in September, a Tesla customer filed a lawsuit against the electric ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedrive.com/news/tesla-full-self-driving-not-launching-is-a-failure-but-not-a-fraud",
-      "originalUrl": "https://www.thedrive.com/news/tesla-full-self-driving-not-launching-is-a-failure-but-not-a-fraud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thedrive.com/uploads/2022/12/09/20201209-Tesla-Model-S-Hero.jpg?auto=webp",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-09T13:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Drive",
-        "domain": "thedrive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-10-venturebeat-lab-to-launch-in-depth-ai-article-series-with-insights-from-microsoft-and-nvidia.md",
-      "title": "VentureBeat Lab to launch in-depth AI article series with insights from Microsoft and Nvidia",
-      "excerpt": "The series will deliver new industry insights, trends and analyses to VB’s audience of senior business and IT decision-makers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/venturebeat-lab-to-launch-in-depth-ai-article-series-with-insights-from-microsoft-and-nvidia/",
-      "originalUrl": "https://venturebeat.com/ai/venturebeat-lab-to-launch-in-depth-ai-article-series-with-insights-from-microsoft-and-nvidia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/12/image001-3.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/venturebeat-lab-to-launch-in-depth-ai-article-series-with-insights-from-microsoft-and-nvidia/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/venturebeat-lab-to-launch-in-depth-ai-article-series-with-insights-from-microsoft-and-nvidia/amp/",
-      "publishedDateTime": "2022-12-09T13:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-10-3-ways-artificial-intelligence-will-transform-the-world-in-2023.md",
-      "title": "3 Ways Artificial Intelligence Will Transform The World in 2023",
-      "excerpt": "As we continue to see high rates of positions needing to be filled in 2023, AI is likely going to see quick adoption, development and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/science-technology/the-3-biggest-artificial-intelligence-ai-trends-in-2023/439434",
-      "originalUrl": "https://www.entrepreneur.com/science-technology/the-3-biggest-artificial-intelligence-ai-trends-in-2023/439434",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1670362779-GettyImages-1249613157.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-09T11:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-10-how-businesses-are-deploying-facial-recognition.md",
-      "title": "How businesses are deploying facial recognition",
-      "excerpt": "As facial recognition software becomes easier to acquire, businesses are using it to surveil and analyze customers. Bloomberg's Parmy Olson explains where and how the technology is being deployed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wuwm.com/economy-business/economy-business/2022-12-09/how-businesses-are-deploying-facial-recognition",
-      "originalUrl": "https://www.wuwm.com/economy-business/economy-business/2022-12-09/how-businesses-are-deploying-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2020/03/04/manoush-zomorodi_bio_photo-1_vert-bf366cf2e0a689ea87422c5de657f381d9d43437.jpg",
-          "width": 2096,
-          "height": 2794,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wuwm.com/economy-business/economy-business/2022-12-09/how-businesses-are-deploying-facial-recognition?_amp=true",
-      "cdnAmpWebUrl": "https://www-wuwm-com.cdn.ampproject.org/c/s/www.wuwm.com/economy-business/economy-business/2022-12-09/how-businesses-are-deploying-facial-recognition?_amp=true",
-      "publishedDateTime": "2022-12-09T10:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WUWM",
-        "domain": "wuwm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-10-your-robo-taxi-has-arrived.md",
-      "title": "Your Robo-Taxi Has Arrived",
-      "excerpt": "Not long ago, driverless vehicles were the stuff of science fiction. Today, the rollout of autonomous vehicles is rapidly gathering pace across the globe. The global transportation industry ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4563579-your-robo-taxi-has-arrived",
-      "originalUrl": "https://seekingalpha.com/article/4563579-your-robo-taxi-has-arrived",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1392926882/image_1392926882.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 484,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-09T10:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

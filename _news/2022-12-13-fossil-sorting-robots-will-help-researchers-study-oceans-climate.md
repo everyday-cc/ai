@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/12/221212140715.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/12/221212140715.htm"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "New NCSU-developed fossil-sorting robots to help climate, ocean research"
+    excerpt: "Researchers at NC State have developed and demonstrated a robot capable of sorting, manipulating, and identifying microscopic marine fossils."
+    publishedDateTime: 2022-12-17T15:30:00Z
+    webUrl: "https://wraltechwire.com/2022/12/17/new-ncsu-developed-fossil-sorting-robots-to-help-climate-ocean-research/"
+    ampWebUrl: "https://wraltechwire.com/2022/12/17/new-ncsu-developed-fossil-sorting-robots-to-help-climate-ocean-research/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/12/17/new-ncsu-developed-fossil-sorting-robots-to-help-climate-ocean-research/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 58
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2022/12/Close-up_image_of_part_of_a_Forbot.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Fossil-sorting robots could advance ocean studies"
     excerpt: "Researchers in the US have developed a robot that can reportedly sort, manipulate and identify microscopic marine fossils."
     publishedDateTime: 2022-12-13T12:03:00Z

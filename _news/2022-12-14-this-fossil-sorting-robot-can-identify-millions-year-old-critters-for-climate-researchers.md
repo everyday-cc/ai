@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "New NCSU-developed fossil-sorting robots to help climate, ocean research"
+    excerpt: "Researchers at NC State have developed and demonstrated a robot capable of sorting, manipulating, and identifying microscopic marine fossils."
+    publishedDateTime: 2022-12-17T15:30:00Z
+    webUrl: "https://wraltechwire.com/2022/12/17/new-ncsu-developed-fossil-sorting-robots-to-help-climate-ocean-research/"
+    ampWebUrl: "https://wraltechwire.com/2022/12/17/new-ncsu-developed-fossil-sorting-robots-to-help-climate-ocean-research/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/12/17/new-ncsu-developed-fossil-sorting-robots-to-help-climate-ocean-research/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 58
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2022/12/Close-up_image_of_part_of_a_Forbot.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Fossil-sorting robots will help researchers study oceans, climate"
     excerpt: "Researchers have developed and demonstrated a robot capable of sorting, manipulating, and identifying microscopic marine fossils. The new technology automates a tedious process that plays a key role in advancing our understanding of the world's oceans and climate -- both today and in the prehistoric past."
     publishedDateTime: 2022-12-13T03:47:00Z

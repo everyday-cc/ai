@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-29-how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang.md",
+      "title": "How generative AI could create assets for the metaverse | Jensen Huang",
+      "excerpt": "Jensen Huang, CEO of AI and graphics chip maker Nvidia, believes that generative AI will be transformational and it’s just getting started. One of its biggest applications could be with the metaverse, which has huge demands for content as developers need ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang/",
+      "originalUrl": "https://venturebeat.com/games/how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Jensen_GTC-keynote_Omniverse.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 582,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang/amp/",
+      "publishedDateTime": "2022-11-28T08:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-28-non-snapdragon-devices-at-risk-from-gpu-exploits-that-have-already-been-patched.md",
       "title": "Non-Snapdragon devices at risk from GPU exploits that have already been patched",
       "excerpt": "That said, if your phone's using a Mali GPU, you might want to take extra care for the next while as plugs for some recently-disclosed security holes are still making their way across devices..",
@@ -1383,58 +1435,6 @@
         "AI",
         "Machine Learning",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-11-14-silicon-valley-chip-startup-cerebras-unveils-ai-supercomputer.md",
-      "title": "Silicon Valley chip startup Cerebras unveils AI supercomputer",
-      "excerpt": "Nov 14(Reuters) - Silicon Valley startup Cerebras Systems, known in the industry for its dinner plate-sized chip made for artificial intelligence work, on Monday unveiled its AI supercomputer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/silicon-valley-chip-startup-cerebras-unveils-ai-supercomputer-2022-11-14/",
-      "originalUrl": "https://www.reuters.com/technology/silicon-valley-chip-startup-cerebras-unveils-ai-supercomputer-2022-11-14/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/X6BvTKg1qgtNP1KK2SsEO00zaJM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WYSQLIVVLRILDAPGVO3O6B37DI.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-14T06:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

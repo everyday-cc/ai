@@ -2,6 +2,110 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-10-12-lyft-exec-was-wrong-about-driverless-vehicles-but-he-still-believes-in-their-potential.md",
+      "title": "Lyft exec was wrong about driverless vehicles — but he still believes in their potential",
+      "excerpt": "\"I really think in the next two to three years that kind of actual no driver, driverless vehicle will be something you can order pretty easily on the Lyft platform,\" he told CNBC last week in Detroit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/10/11/lyft-president-still-thinks-driverless-cars-will-dominate-ride-share.html",
+      "originalUrl": "https://www.cnbc.com/2022/10/11/lyft-president-still-thinks-driverless-cars-will-dominate-ride-share.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106305984-1576793205346gettyimages-1133498390.jpeg?v=1665486001",
+          "width": 5255,
+          "height": 3402,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/10/11/lyft-president-still-thinks-driverless-cars-will-dominate-ride-share.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/10/11/lyft-president-still-thinks-driverless-cars-will-dominate-ride-share.html",
+      "publishedDateTime": "2022-10-11T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-the-newest-enabler-of-dangerous-driving-partially-automated-systems.md",
+      "title": "The Newest ‘Enabler’ Of Dangerous Driving: Partially Automated Systems",
+      "excerpt": "Partial automation systems available in today’s market aren’t meant to replace the human driver, or to make it safe for drivers to perform other activities that take their focus away from the road.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tanyamohn/2022/10/11/the-newest-enabler-of-dangerous-driving-partially-automated-systems/",
+      "originalUrl": "https://www.forbes.com/sites/tanyamohn/2022/10/11/the-newest-enabler-of-dangerous-driving-partially-automated-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6345958eb856c002e26bc1fd/0x0.jpg?format=jpg&width=1200",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tanyamohn/2022/10/11/the-newest-enabler-of-dangerous-driving-partially-automated-systems/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2022/10/11/the-newest-enabler-of-dangerous-driving-partially-automated-systems/amp/",
+      "publishedDateTime": "2022-10-11T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-11-top-nine-ethical-issues-in-artificial-intelligence.md",
       "title": "Top Nine Ethical Issues In Artificial Intelligence",
       "excerpt": "Some of today’s tech giants believe that artificial intelligence (AI) should be more widely utilized. However, there are many ethical and risk assessment issues to be considered before this can become reality.",
@@ -1283,102 +1387,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-06-tesla-to-remove-sensors-from-the-vehicles-self-driving-system-and-instead-rely-on-eight-cameras-and-artificial-intelligence-after-intense-scrutiny.md",
-      "title": "Tesla to REMOVE sensors from the vehicle's self-driving system and instead rely on eight cameras and artificial intelligence after intense scrutiny following series of crashes",
-      "excerpt": "Tesla is removing sensors from its cars as it shifts toward a system based solely on eight cameras that feed information into its self-driving artificial intelligence. Ultrasonic sensors (USS ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-11283721/Tesla-REMOVE-sensors-new-cars-bet-cameras-AI-amid-scrutiny-crashes.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-11283721/Tesla-REMOVE-sensors-new-cars-bet-cameras-AI-amid-scrutiny-crashes.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/10/05/17/63146475-0-image-a-30_1664988606459.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-11283721/amp/Tesla-REMOVE-sensors-new-cars-bet-cameras-AI-amid-scrutiny-crashes.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11283721/amp/Tesla-REMOVE-sensors-new-cars-bet-cameras-AI-amid-scrutiny-crashes.html",
-      "publishedDateTime": "2022-10-05T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-dont-laugh-off-the-tesla-bot-elon-musks-optimus-is-the-real-deal.md",
-      "title": "Don't Laugh Off the Tesla Bot. Elon Musk's Optimus Is the Real Deal",
-      "excerpt": "With humanoid robots, AI has to work from the start. And the AI challenge is harder with robots. A quick primer on today's AI technology: Instead of programming computers with narrow, rigid if ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/home/smart-home/dont-laugh-off-the-tesla-bot-elon-musks-optimus-is-the-real-deal/",
-      "originalUrl": "https://www.cnet.com/home/smart-home/dont-laugh-off-the-tesla-bot-elon-musks-optimus-is-the-real-deal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/50d07895f0e23f1cf03194ab4cc567a7daa60d93/hub/2022/10/04/a47f255e-4d70-4847-979b-981ddb5b9d92/tesla-optimus-robot-2.jpg?auto=webp",
-          "width": 2840,
-          "height": 1598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/dont-laugh-off-the-tesla-bot-elon-musks-optimus-is-the-real-deal/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/dont-laugh-off-the-tesla-bot-elon-musks-optimus-is-the-real-deal/",
-      "publishedDateTime": "2022-10-05T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

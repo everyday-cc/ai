@@ -2,6 +2,110 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-10-27-ford-cant-afford-other-bets-like-driverless-cars.md",
+      "title": "Ford Can’t Afford Other Bets Like Driverless Cars",
+      "excerpt": "Ford’s decision to reverse out of the driverless-taxi business shows a laudable focus on delivering tangible products—but also the company’s financial weakness relative to crosstown rival ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ford-cant-afford-other-bets-like-driverless-cars-11666861656",
+      "originalUrl": "https://www.wsj.com/articles/ford-cant-afford-other-bets-like-driverless-cars-11666861656",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-652054/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-27T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims.md",
+      "title": "Exclusive: Tesla faces U.S. criminal probe over self-driving claims",
+      "excerpt": "The U.S. Department of Justice launched the probe last year following more than a dozen crashes, some fatal, involving Tesla’s driver assistance system Autopilot, people familiar with the matter say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims-sources-2022-10-26/?ref=upstract.com",
+      "originalUrl": "https://www.reuters.com/legal/exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims-sources-2022-10-26/?ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/Pc83Ei_m8ULxEdqo8XyYwlSi_f0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/S72XIA724ZL7BKAKEXM3RWBDYM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-26T21:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-27-teslas-optimus-bot-are-humaniform-robots-the-right-path-forward.md",
       "title": "Tesla’s Optimus Bot: Are Humaniform Robots The Right Path Forward?",
       "excerpt": "One thing is undeniable: there’s an abiding appeal to human shaped and human sized robots. Part of the value of copying the human form: the world is built for humans. Cars, homes, machines, factories,",
@@ -1298,111 +1402,6 @@
         "name": "CBS News",
         "domain": "cbsnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-7-ways-to-better-sell-artificial-intelligence-to-the-business.md",
-      "title": "7 Ways To Better Sell Artificial Intelligence To The Business",
-      "excerpt": "AI transforms the systems and processes that have defined the way business is done. Selling AI as a new way requires some degree of finesse and business sense.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/19/7-ways-to-better-sell-artificial-intelligence-to-the-business/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/19/7-ways-to-better-sell-artificial-intelligence-to-the-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634f37c78835ec41abc9a291/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/19/7-ways-to-better-sell-artificial-intelligence-to-the-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/10/19/7-ways-to-better-sell-artificial-intelligence-to-the-business/amp/",
-      "publishedDateTime": "2022-10-19T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-latin-america-artificial-intelligence-market-2022-27-trends-share-size-growth-and-forecast.md",
-      "title": "Latin America Artificial Intelligence Market 2022-27: Trends, Share, Size, Growth and Forecast",
-      "excerpt": "According to the latest report by IMARC Group, titled \"Latin America Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027,\" the latin america artificial intelligence market is expected to continue its moderate growth during the forecast period (2022-2027).",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/latin-america-artificial-intelligence-market-2022-27-trends-share-size-growth-and-forecast-2022-10-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/latin-america-artificial-intelligence-market-2022-27-trends-share-size-growth-and-forecast-2022-10-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T22:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,282 @@
   "page": 100,
   "value": [
     {
+      "path": "_news/2022-09-21-microsoft-starts-rolling-out-windows-11-update-with-video-editor-and-start-menu-folders.md",
+      "title": "Microsoft starts rolling out Windows 11 update with video editor and Start menu folders",
+      "excerpt": "Support for Windows 10 doesn't end until 2025, but that isn't stopping Microsoft from rolling out changes to attract people to the newer version, Windows 11.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/09/20/microsoft-windows-11-2022-update-with-clipchamp-available.html",
+      "originalUrl": "https://www.cnbc.com/2022/09/20/microsoft-windows-11-2022-update-with-clipchamp-available.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107120861-1663619141845-gettyimages-1173107604-MICROSOFT_HARDWARE.jpeg?v=1663693201",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/09/20/microsoft-windows-11-2022-update-with-clipchamp-available.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/09/20/microsoft-windows-11-2022-update-with-clipchamp-available.html",
+      "publishedDateTime": "2022-09-20T14:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-nvidia-rtx-40-series-graphics-cards-featuring-neural-rendering-announced-at-gtc-2022.md",
+      "title": "NVIDIA RTX 40 Series graphics cards featuring Neural Rendering announced at GTC 2022",
+      "excerpt": "Ada Optical Flow Accelerator with 2x faster performance allows DLSS 3 to predict movement in a scene, enabling the neural network to boost frame rates while maintaining image quality ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digit.in/news/pc-components/nvidia-rtx-40-series-graphics-cards-featuring-neural-rendering-announced-at-gtc-2022-65315.html",
+      "originalUrl": "https://www.digit.in/news/pc-components/nvidia-rtx-40-series-graphics-cards-featuring-neural-rendering-announced-at-gtc-2022-65315.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.digit.in/default/bd40753e91ed368544b99f2e7395022fbd8fb187.jpeg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digit.in/article/amp/pc-components/65315/nvidia-rtx-40-series-graphics-cards-featuring-neural-rendering-announced-at-gtc-2022",
+      "cdnAmpWebUrl": "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/pc-components/65315/nvidia-rtx-40-series-graphics-cards-featuring-neural-rendering-announced-at-gtc-2022",
+      "publishedDateTime": "2022-09-20T14:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digit",
+        "domain": "digit.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-robotic-eyes-attached-to-front-of-self-driving-cars-may-improve-safety.md",
+      "title": "Robotic Eyes Attached to Front of Self-Driving Cars May Improve Safety",
+      "excerpt": "Scientists in Japan have found that sticking giant googly-looking eyes in front of self-driving cars may improve safety for pedestrians. Tesla still does not classify Autopilot-enabled vehicles as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595",
+      "originalUrl": "https://www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2119247/pedestrians-crossing-road.jpg",
+          "width": 2058,
+          "height": 1330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595?amp=1",
+      "publishedDateTime": "2022-09-20T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-study-suggests-older-adults-show-greater-mental-well-being-despite-cognitive-decline.md",
+      "title": "Study suggests older adults show greater mental well-being despite cognitive decline",
+      "excerpt": "Despite displaying signs of poorer cognitive performance, older adults tend to have greater mental well-being compared to younger adults, according to a new study. A study published this month in ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2022/09/20/study-suggests-older-adults-show-greater-mental-well-being-despite-cognitive-decline/",
+      "originalUrl": "https://nypost.com/2022/09/20/study-suggests-older-adults-show-greater-mental-well-being-despite-cognitive-decline/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-in-order-to-make-driverless-cars-safer-give-them-big-eyes.md",
+      "title": "In order to make driverless cars safer ... give them big eyes?",
+      "excerpt": "That person was hidden from outside view by a one-way mirror film on the windshield, making the cart appear to be driverless. Next, an omnidirectional camera was used to shoot four videos in which ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/automotive/driverless-cars-pedestrians-eyes/",
+      "originalUrl": "https://newatlas.com/automotive/driverless-cars-pedestrians-eyes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/00d364d/2147483647/strip/true/crop/1013x532+0+72/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd8%2Fd7%2F303b402d423799e21acb61a483d9%2Fscreen-shot-2022-09-20-at-9.37.13%20AM.jpeg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-global-artificial-neural-network-market-to-reach-25845-million-by-2027-researchandmarketscom.md",
+      "title": "Global Artificial Neural Network Market to Reach $258.45 Million by 2027 - ResearchAndMarkets.com",
+      "excerpt": "The \"Global Artificial Neural Network Market (2022-2027) by Component, Organization Size, Application, Deployment Mode, Industry Vertical, and Geography, with Competitive Analysis, Impact of COVID ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/global-artificial-neural-network-market-to-reach-258-45-million-by-2027---researchandmarkets/article_1fda7ac2-1da7-5258-8e45-0390d21a9fa8.html",
+      "originalUrl": "https://www.eagletribune.com/region/global-artificial-neural-network-market-to-reach-258-45-million-by-2027---researchandmarkets/article_1fda7ac2-1da7-5258-8e45-0390d21a9fa8.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
+          "width": 600,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-21-lets-investigate-a-way-to-invest-in-artificial-intelligence-and-robotics.md",
       "title": "Let's Investigate a Way to Invest in Artificial Intelligence and Robotics",
       "excerpt": "A Real Money subscriber wants to be involved with robotics and artificial intelligence in the years to come but doesn't believe he is a good stock picker. So what should he do? Let's check out the charts of the Global X Robotics & Artificial Intelligence ETF (BOTZ) .",
@@ -910,263 +1186,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-nvidias-new-ada-lovelace-rtx-gpu-arrives-for-designers-and-creators.md",
-      "title": "NVIDIA's New Ada Lovelace RTX GPU Arrives for Designers and Creators",
-      "excerpt": "RTX 6000 GPU Provides 2-4x Performance Improvement in Enterprise Workflows;Global Manufacturers to Ship Starting in Q4 SANTA CLARA, Calif., Sept. (GLOBE NEWSWIRE) -- GTC—Opening a new era of neural gr",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/g28934515/nvidias-new-ada-lovelace-rtx-gpu-arrives-for-designers-and-creators",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/g28934515/nvidias-new-ada-lovelace-rtx-gpu-arrives-for-designers-and-creators",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28934515",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28934515",
-      "publishedDateTime": "2022-09-20T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-asias-first-driverless-cimc-made-boarding-bridge-comes-into-operation-in-china.md",
-      "title": "Asia’s First Driverless CIMC-made Boarding Bridge Comes Into Operation in China",
-      "excerpt": "The first driverless boarding bridge in Asia has been officially put into operation at Chengdu Tianfu International Airport in southwest China, marking a milestone in the intelligent upgrade of Chinese civil aviation industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aviationpros.com/gse/passenger-loading-systems-boarding-bridges-stairs-jetways/press-release/21281316/cimc-asias-first-driverless-cimcmade-boarding-bridge-comes-into-operation-in-china",
-      "originalUrl": "https://www.aviationpros.com/gse/passenger-loading-systems-boarding-bridges-stairs-jetways/press-release/21281316/cimc-asias-first-driverless-cimcmade-boarding-bridge-comes-into-operation-in-china",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.aviationpros.com/files/base/cygnus/cavc/image/2022/09/image_2.6329cb1045302.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AviationPros",
-        "domain": "aviationpros.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-dogs-and-humans-interpret-what-they-see-differently.md",
-      "title": "Dogs and Humans Interpret What They See Differently",
-      "excerpt": "Naturalistic video clips from a dog's point of view were shown to dogs undergoing fMRI brain scans. Artificial neural network programming was used to analyze how the brains of humans and dogs process visual inputs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/za/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently",
-      "originalUrl": "https://www.psychologytoday.com/za/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-09/brain_scan.jpg?itok=XgF-NOdq",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/za/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/canine-corner/202209/dogs-and-humans-interpret-what-they-see-differently?amp",
-      "publishedDateTime": "2022-09-20T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-how-ai-is-changing-the-way-students-learn.md",
-      "title": "How AI Is Changing The Way Students Learn",
-      "excerpt": "In our increasingly fast-moving world, many schools are still facing the challenge of integrating the latest digital technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/20/how-ai-is-changing-the-way-students-learn/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/20/how-ai-is-changing-the-way-students-learn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/608b1e8f685217f6a56050b2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 775,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/20/how-ai-is-changing-the-way-students-learn/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/20/how-ai-is-changing-the-way-students-learn/amp/",
-      "publishedDateTime": "2022-09-20T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-artificial-intelligence-robots-market-size-to-record-213-cagr-through-2028.md",
-      "title": "Artificial Intelligence Robots Market Size to Record 21.3% CAGR Through 2028",
-      "excerpt": "Sep 20, 2022 (Market Insight Reports) -- Market Study Report presents latest report on global Artificial Intelligence (AI) Robots Market, which evaluates the growth trends of the industry through historical study and estimates future prospects based on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-size-to-record-213-cagr-through-2028-2022-09-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-size-to-record-213-cagr-through-2028-2022-09-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-therapy-music-and-spas-the-non-drug-startups-in-psychedelics.md",
-      "title": "Therapy, Music And Spas: The Non-Drug Startups In Psychedelics",
-      "excerpt": "Startups in the psychedelic space that aren't drug related are gaining funding. We look at the niche within a niche.",
-      "sourceUrl": null,
-      "webUrl": "https://news.crunchbase.com/business/psychedelic-startup-venture-capital/",
-      "originalUrl": "https://news.crunchbase.com/business/psychedelic-startup-venture-capital/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news.crunchbase",
-        "domain": "crunchbase.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -2,6 +2,264 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-12-13-vicai-raises-52m-shows-that-automating-accounting-processes-can-be-profitable.md",
+      "title": "Vic.ai raises $52M, shows that automating accounting processes can be profitable",
+      "excerpt": "Vic.ai, a startup offering AI tech to automate accounts payable processes, has raised $52 million in a venture round.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/12/13/vic-ai-shows-that-automating-accounting-processes-can-be-profitable-raises-52m/",
+      "originalUrl": "https://techcrunch.com/2022/12/13/vic-ai-shows-that-automating-accounting-processes-can-be-profitable-raises-52m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/12/Vic.jpg?resize=1200,855",
+          "width": 1200,
+          "height": 855,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/12/13/vic-ai-shows-that-automating-accounting-processes-can-be-profitable-raises-52m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/13/vic-ai-shows-that-automating-accounting-processes-can-be-profitable-raises-52m/amp/",
+      "publishedDateTime": "2022-12-13T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-how-the-new-lands-end-movable-ink-partnership-leverages-ai-for-customization.md",
+      "title": "How the new Lands’ End-Movable Ink partnership leverages AI for customization",
+      "excerpt": "Lands' End announced it will leverage Movable Ink's AI-powered Da Vinci platform to bolster the retailer's email marketing program.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-the-new-lands-end-movable-ink-partnership-leverages-ai-for-customization/",
+      "originalUrl": "https://venturebeat.com/ai/how-the-new-lands-end-movable-ink-partnership-leverages-ai-for-customization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/12/2018-lands-end-logo.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-the-new-lands-end-movable-ink-partnership-leverages-ai-for-customization/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-the-new-lands-end-movable-ink-partnership-leverages-ai-for-customization/amp/",
+      "publishedDateTime": "2022-12-13T05:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-is-learning-code-still-necessary-for-businesses.md",
+      "title": "Is Learning Code Still Necessary For Businesses?",
+      "excerpt": "Whether you rent a storefront or operate fully online, you’ll be in need of the software development know-how required to thrive in the digital realm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/13/is-learning-code-still-necessary-for-businesses/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/13/is-learning-code-still-necessary-for-businesses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5fb2b1a203edc9665484d31e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/13/is-learning-code-still-necessary-for-businesses/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/13/is-learning-code-still-necessary-for-businesses/amp/",
+      "publishedDateTime": "2022-12-13T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-first-ever-ai-video-platform-integrating-text-generated-image-and-animation.md",
+      "title": "First-Ever AI Video Platform Integrating Text-Generated Image And Animation",
+      "excerpt": "Tel Aviv-based DI-D released today the first multimodal generative AI video platform to combine text, image and animation in one interface. The self-service video platform integrates D-ID’s proprietary generative AI technology with GPT-3 from Open AI and Stable Diffusion from Stability AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2022/12/13/first-ever-ai-video-platform-integrating-text-generated-image-and-animation/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2022/12/13/first-ever-ai-video-platform-integrating-text-generated-image-and-animation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/639785f66713c491c4620eb9/0x0.jpg?format=jpg&crop=2860,1609,x0,y16,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2022/12/13/first-ever-ai-video-platform-integrating-text-generated-image-and-animation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/12/13/first-ever-ai-video-platform-integrating-text-generated-image-and-animation/amp/",
+      "publishedDateTime": "2022-12-13T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability.md",
+      "title": "Amid controversy and emerging regulations around AI for talent management, Beamery emphasizes explainability",
+      "excerpt": "Helping bring explainability to AI in talent management, Beamery announced it has raised $50 million in a series D round of funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability/",
+      "originalUrl": "https://venturebeat.com/ai/amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/09/now-hiring-e1670889718739.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability/amp/",
+      "publishedDateTime": "2022-12-12T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-12-13-did-a-robot-write-this-we-need-watermarks-to-spot-ai.md",
       "title": "Did a Robot write this? we need watermarks to spot AI",
       "excerpt": "And remarkably, it will soon get better. OpenAI is widely expected to release its next iteration known as GPT-4 in the coming months, and early testers say it is better than anything that came before.",
@@ -977,239 +1235,6 @@
         "AI in Robotics",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-deploying-ai-strategies-to-mitigate-banking-and-fintech-fraud.md",
-      "title": "Deploying AI Strategies to Mitigate Banking and Fintech Fraud",
-      "excerpt": "Research shows that 43 per cent of financial services organizations expect the cost-of-living crisis to increase the risk of financial crime and fraud over the next 12 months, as scammers target vulne",
-      "sourceUrl": null,
-      "webUrl": "https://financialit.net/blog/ai-baking-fintech/deploying-ai-strategies-mitigate-banking-and-fintech-fraud",
-      "originalUrl": "https://financialit.net/blog/ai-baking-fintech/deploying-ai-strategies-mitigate-banking-and-fintech-fraud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://financialit.net/sites/default/files/carol_hamilton_-_provenir.png",
-          "width": 3024,
-          "height": 3024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-11T21:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial IT",
-        "domain": "financialit.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-artificial-intelligence-ai-in-supply-chain-and-logistics-market-2022-regional-scope-growth-statistics-demand-and-regional-outlook-2028.md",
-      "title": "Artificial intelligence (AI) in Supply Chain and Logistics Market 2022 : Regional Scope, Growth Statistics, Demand and Regional Outlook 2028",
-      "excerpt": "\"Artificial intelligence (AI) in Supply Chain and Logistics Market\" Insights 2022 - By Applications (Inventory control and planning, Transportation network design, Purchasing and supply management, Demand planning and forecasting,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-2022-regional-scope-growth-statistics-demand-and-regional-outlook-2028-2022-12-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-2022-regional-scope-growth-statistics-demand-and-regional-outlook-2028-2022-12-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-11T20:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-artificial-intelligence-microscopy-market-2023-is-flourishing-around-the-world-by-2028-123-pages-report.md",
-      "title": "Artificial Intelligence Microscopy Market 2023 Is Flourishing Around the World by 2028 | 123 Pages Report",
-      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-microscopy-market-2023-is-flourishing-around-the-world-by-2028-123-pages-report-2022-12-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-microscopy-market-2023-is-flourishing-around-the-world-by-2028-123-pages-report-2022-12-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-11T19:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-air-india-puts-in-place-ethics-governance-structure.md",
-      "title": "Air India Puts In Place Ethics Governance Structure",
-      "excerpt": "This committee has the mandate to formalise ethics-related guidelines, approve policies and procedures related to ethics, and will be the final escalation point for the regional ethics committees",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/business/air-india-puts-in-place-ethics-governance-structure-news-244200",
-      "originalUrl": "https://www.outlookindia.com/business/air-india-puts-in-place-ethics-governance-structure-news-244200",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1656938538.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/business/air-india-puts-in-place-ethics-governance-structure-news-244200/amp",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/air-india-puts-in-place-ethics-governance-structure-news-244200/amp",
-      "publishedDateTime": "2022-12-11T19:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-driverless-cars-on-cruise-control-are-coming-to-a-street-near-you.md",
-      "title": "Driverless cars on cruise control are coming to a street near you",
-      "excerpt": "Driverless cars have yet to reach the streets of Halifax, but perhaps residents should keep their eyes peeled. Though its cobblestones “might prove to be challenging”, Oliver Cameron, the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetimes.co.uk/article/driverless-cars-on-cruise-control-are-coming-to-a-street-near-you-0dg8x8h8x",
-      "originalUrl": "https://www.thetimes.co.uk/article/driverless-cars-on-cruise-control-are-coming-to-a-street-near-you-0dg8x8h8x",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F55e9d2c8-7976-11ed-bcd8-855e06175970.jpg?crop=5382%2C3028%2C1307%2C1417&resize=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-11T16:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

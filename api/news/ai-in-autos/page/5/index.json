@@ -2,6 +2,102 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-11-22-chinas-baidu-beats-q3-revenue-estimates-as-ad-sales-recover.md",
+      "title": "China's Baidu beats Q3 revenue estimates as ad sales recover",
+      "excerpt": "Baidu Core's non-online marketing revenue, an area including cloud and other AI businesses, grew by 25 per cent year on year to 6.5 billion yuan. The company has been focusing on self-driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnewsasia.com/business/chinas-baidu-beats-q3-revenue-estimates-ad-sales-recover-3092551",
+      "originalUrl": "https://www.channelnewsasia.com/business/chinas-baidu-beats-q3-revenue-estimates-ad-sales-recover-3092551",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--lD1uZzJ0--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-11-22t090727z_1_lynxmpeial09f_rtroptp_3_china-tech.jpg?itok=VYk1kTUw",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-22T01:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-11-22-innovation-showdown-crypto-and-meta-vs-industry-40.md",
+      "title": "Innovation Showdown: Crypto And Meta Vs. Industry 4.0",
+      "excerpt": "Digital-industrial applications did not completely escape the hype, of course, and have triggered their share of disappointments. The reality of self-driving cars, for example, lags far behind the promise of a fully driver-less future — a future that ten years ago might have sounded almost within reach.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marcoannunziata/2022/11/22/innovation-showdown-crypto-and-meta-vs-industry-40/",
+      "originalUrl": "https://www.forbes.com/sites/marcoannunziata/2022/11/22/innovation-showdown-crypto-and-meta-vs-industry-40/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637bebf143f2b4ffba1a9f12/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marcoannunziata/2022/11/22/innovation-showdown-crypto-and-meta-vs-industry-40/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcoannunziata/2022/11/22/innovation-showdown-crypto-and-meta-vs-industry-40/amp/",
+      "publishedDateTime": "2022-11-21T23:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-22-can-an-artificial-intelligence-be-considered-an-artist.md",
       "title": "Can an artificial intelligence be considered an artist?",
       "excerpt": "In the majority of fiction that concerns artificial intelligence (AI), it replaces us in almost every industry. Often, only the artistic fields are left untouched. Usually, a robot or AI showing capabilities to create a work is seen as a completion ...",
@@ -1259,110 +1355,6 @@
         "AI in Autos",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-co-founder-takes-control-of-tusimple-amid-federal-probe-into-self-driving-trucking-company.md",
-      "title": "Co-founder takes control of TuSimple amid federal probe into self-driving trucking company",
-      "excerpt": "TuSimple Holdings Inc. co-founder Mo Chen has taken control of the self-driving trucking company as federal authorities continue to investigate",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/co-founder-takes-control-of-tusimple-amid-federal-probe-into-self-driving-trucking-company-11668648691?mod=hp_minor_pos26",
-      "originalUrl": "https://www.marketwatch.com/story/co-founder-takes-control-of-tusimple-amid-federal-probe-into-self-driving-trucking-company-11668648691?mod=hp_minor_pos26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-315600/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T16:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data.md",
-      "title": "Parallel Domain says autonomous driving won’t scale without synthetic data",
-      "excerpt": "Parallel Domain raised $30 million to advance its synthetic data platform beyond autonomous driving and into drones & mobile computer vision.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/",
-      "originalUrl": "https://techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/PD-Team.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/amp/",
-      "publishedDateTime": "2022-11-16T12:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

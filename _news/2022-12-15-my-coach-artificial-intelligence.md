@@ -26,52 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI art apps are cluttering the App Store’s Top Charts following Lensa AI’s success"
-    excerpt: "Consumer demand for Lensa AI, and for AI edits more broadly, has now pushed numerous other \"AI\" apps into the U.S. App Store's Top Charts."
-    publishedDateTime: 2022-12-12T21:37:00Z
-    webUrl: "https://techcrunch.com/2022/12/12/ai-art-apps-are-cluttering-the-app-stores-top-charts-following-lensa-ais-success/"
-    ampWebUrl: "https://techcrunch.com/2022/12/12/ai-art-apps-are-cluttering-the-app-stores-top-charts-following-lensa-ais-success/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/12/ai-art-apps-are-cluttering-the-app-stores-top-charts-following-lensa-ais-success/amp/"
+  - title: "7 ways a recession could impact AI and ML in 2023"
+    excerpt: "Experts are predicting a possible recession in 2023. What would that mean for AI users and the vendors that supply AI tools and expertise?"
+    publishedDateTime: 2022-12-13T20:32:00Z
+    webUrl: "https://venturebeat.com/ai/7-ways-a-recession-could-impact-ai-and-ml-in-2023/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 81
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/12/lensa-ai-magic-avatar.jpg?resize=1200,730"
-        width: 1200
-        height: 730
-        isCached: true
-  - title: "The good and the bad of Lensa’s AI portraits"
-    excerpt: "As neat as it looks, Lensa's creations, like those from most AI-generators, aren’t free from gender, racial, and other biases."
-    publishedDateTime: 2022-12-16T15:00:00Z
-    webUrl: "https://www.popsci.com/technology/lensa-ai-portrait/"
-    ampWebUrl: "https://www.popsci.com/technology/lensa-ai-portrait/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/lensa-ai-portrait/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 57
-    images:
-      - url: "https://www.popsci.com/uploads/2022/12/15/lensa-harry.jpg?auto=webp"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Unlocking the potential of AI"
-    excerpt: "If issues around privacy are addressed, AI can revolutionise business and public services by facilitating cost effective, socially beneficial outcomes"
-    publishedDateTime: 2022-12-14T10:14:00Z
-    webUrl: "https://business-reporter.co.uk/technology/unlocking-the-potential-of-ai"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 39
-    images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/022/iStock-965072554.jpg"
-        width: 1200
-        height: 800
-        isCached: true
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
 
 secured: "/+XKcDErLwwLBtWTRHdXxiT7w7ZIIxMsvMAfc6jEfcVcNMqtVw2FMjLzCgmvBxHhjv+LAOk/wlUII8YylTS+Q0gT9a1ZrIiEiHlfV4QRtZ96Lr8tFU2KUexxx5UOWyA5oRiWE/PgaPAaAmMkIbVFMyqd2l1Pzi7e2ybSrRFGFNo84SkhuJQi8zpV8fqgD8nRLQRninvj2fDpTtN3QEnfmeA97g2GmrTxuTDHMsPwUl6uWQaxmo7g06Lc1ZEMomfPoItlnl9yp/fvwIOR6oZElmf2npNIIiXQZskvboISoEu3TUspWqCmfAi1OBcv6ml9hTTFfREjiB+e/pVEYTvpqgFZfdiGzKT174ngZtDmUiA=;w/Ga4HKaCP74OyNh5+ywjg=="
 ---

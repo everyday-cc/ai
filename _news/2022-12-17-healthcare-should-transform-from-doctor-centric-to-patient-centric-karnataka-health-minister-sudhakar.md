@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-17T14:26:00Z
 originalUrl: "https://www.devdiscourse.com/article/headlines/2290200-healthcare-should-transform-from-doctor-centric-to-patient-centric-karnataka-health-minister-sudhakar"
 webUrl: "https://www.devdiscourse.com/article/headlines/2290200-healthcare-should-transform-from-doctor-centric-to-patient-centric-karnataka-health-minister-sudhakar"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: devdiscourse

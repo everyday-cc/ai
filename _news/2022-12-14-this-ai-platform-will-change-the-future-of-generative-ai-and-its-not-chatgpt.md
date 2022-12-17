@@ -140,20 +140,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 42
-  - title: "New AI Chatbot Lands With A Big Splash"
-    excerpt: "Like most nerds who read science fiction, I've spent a lot of time wondering how society will greet true artificial intelligence, if and when it"
-    publishedDateTime: 2022-12-12T22:37:00Z
-    webUrl: "https://menafn.com/1105300545/New-AI-Chatbot-Lands-With-A-Big-Splash"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2022-12/12/KT_cc77eimage_story.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "ChatGPT got all the buzz, but beneath it is a $1B developer framework that's quietly fueling the new era of lifelike AI at OpenAI and beyond"
     excerpt: "The Ray developer framework is used by OpenAI, Amazon, and more to solve one of AI's biggest pain points and make AI tools like ChatGPT possible."
     publishedDateTime: 2022-12-16T10:00:00Z

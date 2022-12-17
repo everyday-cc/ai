@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-17T14:43:00Z
 originalUrl: "https://timesofindia.indiatimes.com/education/online-schooling/ways-in-which-ai-can-lead-to-disruption-of-the-edtech-sector/articleshow/96247360.cms"
 webUrl: "https://timesofindia.indiatimes.com/education/online-schooling/ways-in-which-ai-can-lead-to-disruption-of-the-edtech-sector/articleshow/96247360.cms"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Indiatimes

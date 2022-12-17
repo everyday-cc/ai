@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-17T13:00:00Z
 originalUrl: "https://www.zdnet.com/article/metas-data2vec-two-dot-oh-second-time-around-is-faster/"
 webUrl: "https://www.zdnet.com/article/metas-data2vec-two-dot-oh-second-time-around-is-faster/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: ZDNet
@@ -18,6 +21,17 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Meta AI’s updated data2vec algorithm enables faster, more efficient self-learning for vision, speech and text AI"
+    excerpt: "Meta AI's updated data2vec algorithm enables faster, more efficient self-learning for vision, speech and text AI - SiliconANGLE"
+    publishedDateTime: 2022-12-13T15:00:00Z
+    webUrl: "https://siliconangle.com/2022/12/13/meta-ais-updated-data2vec-algorithm-enables-faster-efficient-self-learning-vision-speech-text-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 0
 
 secured: "1M1/S1FZkdfGp2txoHUyuU4JHQrMOUVOiWoVGxj4Hg452R2pwAMv5tkCRkotXyhGDwVFeMAPz8x1P4Nd+ESkQfcOAt9GFfRx14/UYf4TSVc9i2+g5Se3m06oALD9dqSEp2GSQaUBGnTBfB4/VCtqFvfl7r+BFN/BLGIaxXLjZeV90hIrtJEmCbIYSe9D+q6cYGhvNY4LoiXSjMuXkVjUO+07GILw4tfB8jn/TWyv5bynUDrMy4601LYbm5h036Tq7pV1VexW6DuyUSezHljIfeA2TFpUP+oFVZuWlc+ODd/0wq3yLwMO5bOx/q3Js6VgeCQz0EzDqj0jqU/MA6DvF/KL1m8rjoQ7qqpnfzcZnSk7LvHMZzWcdMTNHoiHCtXwGV9ANSCIITTh9Ie3Stt2+8rkPktbTCHuOxk9RaoqbOuj3LvrkiIZ3EHGvBTMAgHhBTEI83ZwEEU2g5IapR4Kh3pAqCV05CpxqEJSfbrepyuPQKFVj8++UXZtp5sK7SqLTlaQAW6b1/Xu+N8hImCxOw==;lfUpwY8qZbAPgnU/5uIYRQ=="
 ---

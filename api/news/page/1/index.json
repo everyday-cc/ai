@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-18-get-ready-for-wireless-docking-monitors-architecture-wars-and-better-chip-supplies-synaptics-ceo.md",
+      "title": "Get ready for wireless docking monitors, architecture wars and better chip supplies | Synaptics CEO",
+      "excerpt": "Michael Hurlston, CEO of Synaptics, talked about the easing of the chip shortage and other tech topics ahead of CES.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/get-ready-for-wireless-docking-monitors-architecture-wars-and-better-chip-supplies-synaptics-ceo/",
+      "originalUrl": "https://venturebeat.com/ai/get-ready-for-wireless-docking-monitors-architecture-wars-and-better-chip-supplies-synaptics-ceo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/12/synaptics-6.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 831,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/get-ready-for-wireless-docking-monitors-architecture-wars-and-better-chip-supplies-synaptics-ceo/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/get-ready-for-wireless-docking-monitors-architecture-wars-and-better-chip-supplies-synaptics-ceo/amp/",
+      "publishedDateTime": "2022-12-17T08:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-17-new-ncsu-developed-fossil-sorting-robots-to-help-climate-ocean-research.md",
+      "title": "New NCSU-developed fossil-sorting robots to help climate, ocean research",
+      "excerpt": "Researchers at NC State have developed and demonstrated a robot capable of sorting, manipulating, and identifying microscopic marine fossils.",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2022/12/17/new-ncsu-developed-fossil-sorting-robots-to-help-climate-ocean-research/",
+      "originalUrl": "https://wraltechwire.com/2022/12/17/new-ncsu-developed-fossil-sorting-robots-to-help-climate-ocean-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2022/12/Close-up_image_of_part_of_a_Forbot.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2022/12/17/new-ncsu-developed-fossil-sorting-robots-to-help-climate-ocean-research/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/12/17/new-ncsu-developed-fossil-sorting-robots-to-help-climate-ocean-research/?amp=1",
+      "publishedDateTime": "2022-12-17T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-17-machine-learning-is-the-key-component-to-predict-frailty-in-australians.md",
       "title": "Machine Learning Is The Key Component To Predict Frailty In Australians",
       "excerpt": "Machine learning could be the key component in developing effective early screening systems identifying frailty in middle aged and older Australians.With increasing evidence showing physiological decl",
@@ -295,7 +390,7 @@
       "originalUrl": "https://www.nytimes.com/2022/12/16/business/gm-cruise-self-driving-cars-investigation.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -729,7 +824,7 @@
       "originalUrl": "https://www.bgr.in/apps/microsoft-brings-real-time-voice-translation-to-skype-check-details-1349718/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1106,104 +1201,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-microsoft-azure-nvidia-make-ai-your-reality.md",
-      "title": "Microsoft Azure, NVidia – Make AI Your Reality",
-      "excerpt": "Artificial Intelligence can transform businesses and customer experiences but many companies struggle with how to build, operationalize and deploy AI-enabled products and services.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/microsoft-nvidia/",
-      "originalUrl": "https://venturebeat.com/microsoft-nvidia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/12/large-language-header.jpg?resize=750%2C388&#038;strip=all",
-          "width": 750,
-          "height": 388,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-15T13:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-eys3d-hits-ces-with-computer-vision-and-ai-for-medical-aiot-industrial-and-retail-robotics.md",
-      "title": "eYs3D Hits CES with Computer Vision and AI for Medical, AIoT, Industrial and Retail Robotics",
-      "excerpt": "Intelligent Heterogeneous Integration Gives Machines Brains, Eyes and SensesTAIPEI, TAIWAN / ACCESSWIRE / December 15, 2022 / eYs3D, a silicon-plus-AI computer vision solutions company, will showcase",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/12/ac30100933/eys3d-hits-ces-with-computer-vision-and-ai-for-medical-aiot-industrial-and-retail-robotics",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/ac30100933/eys3d-hits-ces-with-computer-vision-and-ai-for-medical-aiot-industrial-and-retail-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
-          "width": 800,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30100933",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30100933",
-      "publishedDateTime": "2022-12-15T12:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Computer Vision",
-        "AI in Robotics"
       ]
     }
   ],

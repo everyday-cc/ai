@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-12-06-coreweave-secures-100m-to-expand-nvidia-hgx-h100-gpu-offering-usher-in-new-era-of-ai-innovation.md",
+      "title": "CoreWeave Secures $100M to Expand NVIDIA HGX H100 GPU Offering, Usher in New Era of AI Innovation",
+      "excerpt": "to scale its on-demand GPU compute resources for customers and democratize access to market disruptive AI products. This funding injection is Magnetar's second investment in CoreWeave, following ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/12/b29970509/coreweave-secures-100m-to-expand-nvidia-hgx-h100-gpu-offering-usher-in-new-era-of-ai-innovation",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/b29970509/coreweave-secures-100m-to-expand-nvidia-hgx-h100-gpu-offering-usher-in-new-era-of-ai-innovation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
+          "width": 800,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29970509",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29970509",
+      "publishedDateTime": "2022-12-06T04:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-samsung-announces-partnership-with-naver-to-develop-next-gen-ai-chips.md",
       "title": "Samsung announces partnership with Naver to develop next-gen AI chips",
       "excerpt": "Samsung Electronics on Tuesday announced that it has partnered with internet portal giant Naver Corporation to develop next-generation artificial intelligence (AI) chips",
@@ -1389,58 +1432,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang.md",
-      "title": "How generative AI could create assets for the metaverse | Jensen Huang",
-      "excerpt": "Jensen Huang, CEO of AI and graphics chip maker Nvidia, believes that generative AI will be transformational and it’s just getting started. One of its biggest applications could be with the metaverse, which has huge demands for content as developers need ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang/",
-      "originalUrl": "https://venturebeat.com/games/how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Jensen_GTC-keynote_Omniverse.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 582,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/how-generative-ai-could-create-assets-for-the-metaverse-jensen-huang/amp/",
-      "publishedDateTime": "2022-11-28T08:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

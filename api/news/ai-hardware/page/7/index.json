@@ -2,6 +2,59 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-09-29-tech-war-china-chip-start-ups-clamour-to-tout-ai-chip-breakthroughs-after-nvidia-sales-ban-prompting-analyst-scepticism.md",
+      "title": "Tech war: China chip start-ups clamour to tout AI chip breakthroughs after Nvidia sales ban, prompting analyst scepticism",
+      "excerpt": "Chinese semiconductor start-ups are rushing to claim breakthroughs in artificial intelligence (AI) chips after the US restricted the export of advanced chips from Nvidia Corp and Advanced Micro ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-war/article/3194277/tech-war-china-chip-start-ups-clamour-tout-ai-chip-breakthroughs?module=live&pgtype=homepage",
+      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3194277/tech-war-china-chip-start-ups-clamour-tout-ai-chip-breakthroughs?module=live&pgtype=homepage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/09/29/2efa418f-b879-4b0a-a971-cfb50affbc28_a8f831fa.jpg?itok=UuUUxdeN&v=1664448172",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-29T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-09-29-edge-computing-ai-chips-market-growth-business-overview-2022-and-forecast-to-2028-nvidia-huawei-qualcomm.md",
       "title": "Edge Computing AI Chips Market Growth, Business Overview 2022, and Forecast to 2028 | Nvidia, Huawei, Qualcomm",
       "excerpt": "Edge Computing AI Chips Market 2022 Global Industry Share, Trends, Segmentation & Forecast To 2028 Sep 29, 2022 (Heraldkeepers) -- Global Edge",
@@ -1371,58 +1424,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-the-human-brain-is-far-more-complex-than-ai-researchers-imagine.md",
-      "title": "The human brain is far more complex than AI researchers imagine",
-      "excerpt": "leads some AI chip designers towards hybrid digital/analog architectures. The physical properties of a circuit, like current and resistance, perform the additions and multiplications on data in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/369061/the-human-brain-is-far-more-complex-than-ai",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/369061/the-human-brain-is-far-more-complex-than-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816534/itpro/2018/11/shutterstock_25991188.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-19T18:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

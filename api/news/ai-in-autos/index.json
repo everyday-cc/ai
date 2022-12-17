@@ -10,7 +10,7 @@
       "originalUrl": "https://www.nytimes.com/2022/12/16/business/gm-cruise-self-driving-cars-investigation.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -279,6 +279,49 @@
         "AI in Autos",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-tesla-to-add-radar-in-hopes-of-achieving-full-self-driving-in-vehicles.md",
+      "title": "Tesla to Add Radar in Hopes of Achieving Full Self Driving in Vehicles",
+      "excerpt": "Chuck Gersham, CEO of Owl Autonomous Imaging, says that radar technology should theoretically be the correct move in pursuit of FSD but doesn’t believe it’ll be the last change by Tesla along this route.",
+      "sourceUrl": null,
+      "webUrl": "https://marketscale.com/industries/transportation/tesla-to-add-radar-in-hopes-of-achieving-full-self-driving-in-vehicles/",
+      "originalUrl": "https://marketscale.com/industries/transportation/tesla-to-add-radar-in-hopes-of-achieving-full-self-driving-in-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://marketscale.com/wp-content/uploads/2022/12/shutterstock_1140629366-scaled.jpg",
+          "width": 1920,
+          "height": 1273,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T16:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "marketscale",
+        "domain": "marketscale.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -921,6 +964,41 @@
       ]
     },
     {
+      "path": "_news/2022-12-12-bolstering-the-safety-of-self-driving-cars-with-a-deep-learning-based-object-detection-system.md",
+      "title": "Bolstering the safety of self-driving cars with a deep learning-based object detection system",
+      "excerpt": "Self-driving cars need to implement efficient, effective, and accurate detection systems to provide a safe and reliable experience to its users. To this end, an international research team has now developed an end-to-end neural network that,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/974123",
+      "originalUrl": "https://www.eurekalert.org/news-releases/974123",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-11T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-12-12-what-to-know-about-lensa-the-ai-portrait-app-all-over-social-media.md",
       "title": "What to know about Lensa, the AI portrait app all over social media",
       "excerpt": "If you've logged on to any social media app this week, you've probably seen pictures of your friends, but re-imagined as fairy princesses, animé characters, or celestial beings.",
@@ -1343,101 +1421,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-the-final-freedom-the-role-of-artificial-intelligence-in-the-workplace.md",
-      "title": "The Final Freedom: The Role Of Artificial Intelligence In The Workplace",
-      "excerpt": "The reality is that AI does something unique in our technological evolution because rather than simply replicate and improve our interactions with the physical world, or accelerate rote tasks through automation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/09/the-final-freedom-the-role-of-artificial-intelligence-in-the-workplace/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/09/the-final-freedom-the-role-of-artificial-intelligence-in-the-workplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f93379ac3fffcbce128eacc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/09/the-final-freedom-the-role-of-artificial-intelligence-in-the-workplace/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/09/the-final-freedom-the-role-of-artificial-intelligence-in-the-workplace/amp/",
-      "publishedDateTime": "2022-12-09T02:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-tesla-says-its-self-driving-technology-may-be-a-failure-but-not-fraud.md",
-      "title": "Tesla says its self-driving technology may be a ‘failure’ — but not fraud",
-      "excerpt": "In a class-action lawsuit, customers say they were duped by Tesla's $15,000 Full Self-Driving feature. Lawyers for the company say failure doesn't equal fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/business/story/2022-12-08/tesla-lawsuit-full-self-driving-technology-failure-not-fraud",
-      "originalUrl": "https://www.latimes.com/business/story/2022-12-08/tesla-lawsuit-full-self-driving-technology-failure-not-fraud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/d3a5473/2147483647/strip/true/crop/1642x1098+0+0/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fac%2Fbc%2Fcbcecd1d40919fc40cc4deb90aee%2F1-courthouse.jpg",
-          "width": 320,
-          "height": 214,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/business/story/2022-12-08/tesla-lawsuit-full-self-driving-technology-failure-not-fraud?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2022-12-08/tesla-lawsuit-full-self-driving-technology-failure-not-fraud?_amp=true",
-      "publishedDateTime": "2022-12-08T13:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

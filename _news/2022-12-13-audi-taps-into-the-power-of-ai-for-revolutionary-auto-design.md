@@ -40,6 +40,20 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "Unlocking the potential of AI"
+    excerpt: "If issues around privacy are addressed, AI can revolutionise business and public services by facilitating cost effective, socially beneficial outcomes"
+    publishedDateTime: 2022-12-14T10:14:00Z
+    webUrl: "https://business-reporter.co.uk/technology/unlocking-the-potential-of-ai"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 39
+    images:
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/022/iStock-965072554.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "wzgWJ4rve2JZUbnTg5fIvkqxapalw7FMsruZZ7wjs4eWcg3gnssWqZttDOGPvOOdDrx5723cqdAFZf53JNucPU/1FvmMYFcgAx6JwlNJPR5ylhbPqJ30mih5Gepz0iuAuGjm3pc+E6i++uquM78ZR+NYQ4EhIc9n0eENsSS1T9UZTaGPDEJScuyNIvHmBT33XjLW72QyvLOlg5+O9EvuqiVJkVltlSsctBsi9DavbBlELEl4/qPgJTBUVZadyGwvLGwqQ/OYfJ99woSPk5XIFs4cEOzp78GoAg81kPzaJZafqb5/kBjbyeBNTgcarCMksmALCtnbzcsbqGay7nHQ1TSc0oc7oUqJijNT51TkbZ23I1WT5Zo7DWrezPJV1Isyh4tkqqHZFWFX98zsIohrL4ksxCyzaJBUjIa1mgnj+FczAiWbvHIPV0GWA58+tWZISaXLn1ifckQL2i1VQAXFjFr+crKMBOYpXxBU4M3BcZw+YhmEeNBpGjR2p3bQlUEGjxtrTz/m08aQXkKhETurUQ==;T6bBiEf8fGHJs/h5sGvQDw=="
 ---

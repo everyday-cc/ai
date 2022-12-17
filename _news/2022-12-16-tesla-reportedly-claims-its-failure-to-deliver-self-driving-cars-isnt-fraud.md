@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Tesla ordered to upgrade self-driving computer for free due to ‘false advertising’"
-    excerpt: "A judge has ordered Tesla to upgrade a customer's self-driving computer for free in order to subscribe to Tesla's Full Self-Driving program."
-    publishedDateTime: 2022-12-12T22:18:00Z
-    webUrl: "https://electrek.co/2022/12/12/tesla-ordered-upgrade-self-driving-computer-for-free-false-advertising/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 63
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/01/elon-musk-twitter1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla to Add Radar in Hopes of Achieving Full Self Driving in Vehicles"
     excerpt: "Chuck Gersham, CEO of Owl Autonomous Imaging, says that radar technology should theoretically be the correct move in pursuit of FSD but doesn’t believe it’ll be the last change by Tesla along this route."
     publishedDateTime: 2022-12-14T00:51:00Z
@@ -58,6 +44,43 @@ related:
     quality: 53
     images:
       - url: "https://wp-assets.futurism.com/2022/12/tessie.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Tesla Full Self-Driving data looks awful: We challenge Elon Musk to prove otherwise"
+    excerpt: "The little data that is coming out of Tesla's Full Self-Driving Beta looks awful, and that's putting it mildly."
+    publishedDateTime: 2022-12-14T16:21:00Z
+    webUrl: "https://electrek.co/2022/12/14/tesla-full-self-driving-data-awful-challenge-elon-musk-prove-otherwise/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 43
+  - title: "Tesla Full Self-Driving Beta data not upto the mark over the years"
+    excerpt: "The Tesla FSD Beta data is actually behind. Compared to other autonomous software in the market, Tesla is barely on the charts."
+    publishedDateTime: 2022-12-15T03:21:00Z
+    webUrl: "https://techstory.in/tesla-full-self-driving-beta-data-not-upto-the-mark-over-the-years/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/12/0x0-2.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "What riding in a self-driving Tesla tells us about the future of autonomy"
+    excerpt: "Companies have invested billions and made huge advances but technology that mimics human reasoning is still far away."
+    publishedDateTime: 2022-12-15T04:45:00Z
+    webUrl: "https://www.irishtimes.com/technology/2022/12/15/what-riding-in-a-self-driving-tesla-tells-us-about-the-future-of-autonomy/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 38
+    images:
+      - url: "https://www.irishtimes.com/resizer/KnnC2TOKqPqug3fVNH03vsgyIC8=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/BOLIQOWKUUHMS23MUEJPV6KQCE.jpg"
         width: 1200
         height: 630
         isCached: true

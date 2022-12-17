@@ -411,6 +411,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-14-7-ways-a-recession-could-impact-ai-and-ml-in-2023.md",
+      "title": "7 ways a recession could impact AI and ML in 2023",
+      "excerpt": "Experts are predicting a possible recession in 2023. What would that mean for AI users and the vendors that supply AI tools and expertise?",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/7-ways-a-recession-could-impact-ai-and-ml-in-2023/",
+      "originalUrl": "https://venturebeat.com/ai/7-ways-a-recession-could-impact-ai-and-ml-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T12:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-12-14-emergent-color-categorization-in-a-neural-network-trained-for-object-recognition.md",
       "title": "Emergent color categorization in a neural network trained for object recognition",
       "excerpt": "Color is a prime example of categorical perception, yet it is unclear why and how color categories emerge. On the one hand, prelinguistic infants and several animals treat color categorically. On the other hand,",
@@ -654,6 +697,41 @@
         "Machine Learning",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-12-bolstering-the-safety-of-self-driving-cars-with-a-deep-learning-based-object-detection-system.md",
+      "title": "Bolstering the safety of self-driving cars with a deep learning-based object detection system",
+      "excerpt": "Self-driving cars need to implement efficient, effective, and accurate detection systems to provide a safe and reliable experience to its users. To this end, an international research team has now developed an end-to-end neural network that,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/974123",
+      "originalUrl": "https://www.eurekalert.org/news-releases/974123",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-11T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1352,92 +1430,6 @@
         "Machine Learning",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-sync-neural-synchronised-impact-fund-the-ultimate-investment-vehicle-to-save-the-world-algodynamix-ltd.md",
-      "title": "Sync Neural Synchronised Impact Fund: The Ultimate Investment Vehicle To Save The World? -- Algodynamix Ltd.",
-      "excerpt": "(MENAFN- PRLog) 1 2 Syncneural Logo Horizontal Color Smaller Algodynamixlogo1smaller Dec. 7, 2022 - prlog -- Sync Neural and AlgoDynamix are pleased to announce their partnership that will include ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105280707/Sync-Neural-Synchronised-Impact-Fund-The-Ultimate-Investment-Vehicle-To-Save-The-World-Algodynamix-Ltd",
-      "originalUrl": "https://menafn.com/1105280707/Sync-Neural-Synchronised-Impact-Fund-The-Ultimate-Investment-Vehicle-To-Save-The-World-Algodynamix-Ltd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?613554",
-          "width": 443,
-          "height": 249,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T11:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-nano-magnets-to-restore-damaged-nerve-cells.md",
-      "title": "Nano-magnets to restore damaged nerve cells",
-      "excerpt": "Restoring neural networks and their normal function ... and as a way to build artificial networks for interfaces between engineering and biological components. In addition, the model suggests ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221129111829.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221129111829.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T11:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

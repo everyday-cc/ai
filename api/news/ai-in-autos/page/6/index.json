@@ -2,6 +2,110 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-11-17-co-founder-takes-control-of-tusimple-amid-federal-probe-into-self-driving-trucking-company.md",
+      "title": "Co-founder takes control of TuSimple amid federal probe into self-driving trucking company",
+      "excerpt": "TuSimple Holdings Inc. co-founder Mo Chen has taken control of the self-driving trucking company as federal authorities continue to investigate",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/co-founder-takes-control-of-tusimple-amid-federal-probe-into-self-driving-trucking-company-11668648691?mod=hp_minor_pos26",
+      "originalUrl": "https://www.marketwatch.com/story/co-founder-takes-control-of-tusimple-amid-federal-probe-into-self-driving-trucking-company-11668648691?mod=hp_minor_pos26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-315600/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T16:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data.md",
+      "title": "Parallel Domain says autonomous driving won’t scale without synthetic data",
+      "excerpt": "Parallel Domain raised $30 million to advance its synthetic data platform beyond autonomous driving and into drones & mobile computer vision.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/",
+      "originalUrl": "https://techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/PD-Team.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/16/parallel-domain-says-autonomous-driving-wont-scale-without-synthetic-data/amp/",
+      "publishedDateTime": "2022-11-16T12:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-report-michigan-must-boost-investments-grow-workforce-to-lead-in-mobility.md",
       "title": "Report: Michigan must boost investments, grow workforce to lead in mobility",
       "excerpt": "The state's Council on Future Mobility and Electrification recommends growing the mobility workforce, implementing state-level consumer EV incentive.",
@@ -1224,110 +1328,6 @@
         "name": "Mena FN",
         "domain": "menafn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-enterprise-artificial-intelligence-market-share-size-competitive-strategies-and-forecast-2022-2028.md",
-      "title": "Enterprise Artificial Intelligence Market Share, Size, Competitive Strategies and Forecast 2022 – 2028",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Nov 08, 2022 (Heraldkeepers) -- The global Enterprise Artificial Intelligence market is segregated on the basis of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-share-size-competitive-strategies-and-forecast-2022-2028-2022-11-08?tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-share-size-competitive-strategies-and-forecast-2022-2028-2022-11-08?tesla=y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-08T20:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-waymo-can-now-charge-for-fully-driverless-services-in-san-francisco.md",
-      "title": "Waymo can now charge for fully driverless services in San Francisco",
-      "excerpt": "The California Department of Motor Vehicles approved an amendment to Waymo’s existing deployment permit Wednesday to include driverless, as well as drivered, operations. Now, Waymo will be able ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/09/waymo-can-now-charge-for-fully-driverless-services-in-san-francisco/",
-      "originalUrl": "https://techcrunch.com/2022/11/09/waymo-can-now-charge-for-fully-driverless-services-in-san-francisco/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/IPACE_3.jpeg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/09/waymo-can-now-charge-for-fully-driverless-services-in-san-francisco/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/09/waymo-can-now-charge-for-fully-driverless-services-in-san-francisco/amp/",
-      "publishedDateTime": "2022-11-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

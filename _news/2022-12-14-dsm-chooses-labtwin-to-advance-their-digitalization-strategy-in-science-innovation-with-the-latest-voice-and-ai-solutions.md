@@ -55,20 +55,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Dubai-based NOW Money Selects ThetaRay AI Tech to Prevent Financial Crime on the Inclusive Banking App"
-    excerpt: "Money, the GCC’s first mobile banking solution focused on financial inclusion, and ThetaRay, a leading provider of AI-powered transaction monitoring technology, today announced a collaboration to implement ThetaRay’s cloud-based AML solution to monitor cross-border payments and support in the prevention of financial crimes and money laundering on the fintech’s payments platform."
-    publishedDateTime: 2022-12-14T05:00:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/dubai-based-now-money-selects-thetaray-ai-tech-to-prevent-financial-crime-on-the-inclusive/article_d18eab8a-b531-5291-ac8f-0e1cd33c064f.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 38
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/8/af/8aff6abe-fbdb-5685-b84b-cf5722cd3652/639966f7a397d.image.jpg?crop=1277%2C670%2C0%2C476&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "cqc5HOb/GXw9S4JcPDtY4FqSqloAr31FYUhNu9JgTvyesNwk7p2CGed3fW/a+Sb1zHR80QikBbjKFnKVDm5+KGyQU5NqdGGFMy0sqQbb/Da3V/Hj0jXhlU/9QvK821EECmmD+kTdot4TdEjYhx/kfpG5LmVgx9Fid4IpOiaviz07sQ087xz1zpMSaWV8zjS+JB+wiz4eFHhw7YRZuOs/vfsRXWYvSiaHfNeUg8cQkrYg4r6QZ9PnfxOUieczgfeSTMYmlyIAzmJy8X64CwWPWvgFR1Y/bIf+rlVLY+bn5ujk3Q/ySiECJAU9ijzmz83X1wmP8ib+eKeu9buA4cK4LDvp9MznAvjue/YbF0j/kHBCT1JsraNgGRNd4l14rBU6sV44vrqzJRqCR4H6zK8199GGGL6LTx+c3qfbSVN4dWZUoa6xMFrkCCaUhsIDvCPCtaV8nVHg27u04sdCdN6X1m/xKZO5U2R9s5zLgFcoIgTE0v9GcXYVLhRjINtAE8UdAEWpQT6tDmdqOlVxPc5Zbw==;jkj9gUehaqdGhWioS1Q7RA=="
 ---

@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-12-14-the-best-gpus-for-4k-to-make-your-games-look-the-best.md",
+      "title": "The best GPUs for 4K to make your games look the best",
+      "excerpt": "Fortunately, the state of the GPU market has improved lately, making 4K gaming more affordable (though not cheap). Here are our picks for the best GPU for 4K.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/best-gpu-for-4k/",
+      "originalUrl": "https://www.digitaltrends.com/computing/best-gpu-for-4k/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2021/08/best-1080p-gpu-featured.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/best-gpu-for-4k/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/best-gpu-for-4k/?amp",
+      "publishedDateTime": "2022-12-13T21:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-ai-based-content-localisation-solutions-provider-ollang-enters-india.md",
+      "title": "AI-based content localisation solutions provider Ollang enters India",
+      "excerpt": "In addition to expanding its footprint to the country, the company is also looking to create a talent pool of AI-Dubbing experts| Marketing News",
+      "sourceUrl": null,
+      "webUrl": "https://bestmediainfo.com/2022/12/aibased-content-localisation-solutions-provider-ollang-enters-india",
+      "originalUrl": "https://bestmediainfo.com/2022/12/aibased-content-localisation-solutions-provider-ollang-enters-india",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bestmediainfo.com/uploads/2022/12/1670991277.olan.jpg",
+          "width": 620,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bestmediainfo.com/amp/2022/12/aibased-content-localisation-solutions-provider-ollang-enters-india",
+      "cdnAmpWebUrl": "https://bestmediainfo-com.cdn.ampproject.org/c/s/bestmediainfo.com/amp/2022/12/aibased-content-localisation-solutions-provider-ollang-enters-india",
+      "publishedDateTime": "2022-12-13T20:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Best Media",
+        "domain": "bestmediainfo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-12-14-facial-recognition-system-rollout-at-indian-airports-raises-privacy-concerns.md",
       "title": "Facial recognition system rollout at Indian airports raises privacy concerns",
       "excerpt": "Since December 2, the Union Ministry of Civil Aviation has started using facial recognition technology for airport security. Airports will now allow travellers to pass through various checkpoints – entry,",
@@ -10,7 +106,7 @@
       "originalUrl": "https://scroll.in/article/1038975/facial-recognition-system-rollout-at-indian-airports-raises-privacy-concerns",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -148,6 +244,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-tesla-to-add-radar-in-hopes-of-achieving-full-self-driving-in-vehicles.md",
+      "title": "Tesla to Add Radar in Hopes of Achieving Full Self Driving in Vehicles",
+      "excerpt": "Chuck Gersham, CEO of Owl Autonomous Imaging, says that radar technology should theoretically be the correct move in pursuit of FSD but doesn’t believe it’ll be the last change by Tesla along this route.",
+      "sourceUrl": null,
+      "webUrl": "https://marketscale.com/industries/transportation/tesla-to-add-radar-in-hopes-of-achieving-full-self-driving-in-vehicles/",
+      "originalUrl": "https://marketscale.com/industries/transportation/tesla-to-add-radar-in-hopes-of-achieving-full-self-driving-in-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://marketscale.com/wp-content/uploads/2022/12/shutterstock_1140629366-scaled.jpg",
+          "width": 1920,
+          "height": 1273,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T16:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "marketscale",
+        "domain": "marketscale.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -403,6 +542,91 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-audi-is-using-ai-to-design-the-wheels-of-the-future.md",
+      "title": "Audi Is Using AI To Design The Wheels Of The Future",
+      "excerpt": "Known as FelGAN, the AI was tasked with creating new wheels. Once complete, the AI-designed wheels were shown alongside real wheels and a “discriminator” had to decide whether",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2022/12/audi-is-using-ai-to-design-the-wheels-of-the-future/",
+      "originalUrl": "https://www.carscoops.com/2022/12/audi-is-using-ai-to-design-the-wheels-of-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/A3KPN4MA5kM/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2022/12/audi-is-using-ai-to-design-the-wheels-of-the-future/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/12/audi-is-using-ai-to-design-the-wheels-of-the-future/amp/",
+      "publishedDateTime": "2022-12-13T13:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-7-ways-a-recession-could-impact-ai-and-ml-in-2023.md",
+      "title": "7 ways a recession could impact AI and ML in 2023",
+      "excerpt": "Experts are predicting a possible recession in 2023. What would that mean for AI users and the vendors that supply AI tools and expertise?",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/7-ways-a-recession-could-impact-ai-and-ml-in-2023/",
+      "originalUrl": "https://venturebeat.com/ai/7-ways-a-recession-could-impact-ai-and-ml-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T12:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -902,7 +1126,7 @@
       "originalUrl": "https://enterprisetalk.com/news/symphonyai-strengthens-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -986,264 +1210,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-vicai-raises-52m-shows-that-automating-accounting-processes-can-be-profitable.md",
-      "title": "Vic.ai raises $52M, shows that automating accounting processes can be profitable",
-      "excerpt": "Vic.ai, a startup offering AI tech to automate accounts payable processes, has raised $52 million in a venture round.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/13/vic-ai-shows-that-automating-accounting-processes-can-be-profitable-raises-52m/",
-      "originalUrl": "https://techcrunch.com/2022/12/13/vic-ai-shows-that-automating-accounting-processes-can-be-profitable-raises-52m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/Vic.jpg?resize=1200,855",
-          "width": 1200,
-          "height": 855,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/13/vic-ai-shows-that-automating-accounting-processes-can-be-profitable-raises-52m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/13/vic-ai-shows-that-automating-accounting-processes-can-be-profitable-raises-52m/amp/",
-      "publishedDateTime": "2022-12-13T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-how-the-new-lands-end-movable-ink-partnership-leverages-ai-for-customization.md",
-      "title": "How the new Lands’ End-Movable Ink partnership leverages AI for customization",
-      "excerpt": "Lands' End announced it will leverage Movable Ink's AI-powered Da Vinci platform to bolster the retailer's email marketing program.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-the-new-lands-end-movable-ink-partnership-leverages-ai-for-customization/",
-      "originalUrl": "https://venturebeat.com/ai/how-the-new-lands-end-movable-ink-partnership-leverages-ai-for-customization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/12/2018-lands-end-logo.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-the-new-lands-end-movable-ink-partnership-leverages-ai-for-customization/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-the-new-lands-end-movable-ink-partnership-leverages-ai-for-customization/amp/",
-      "publishedDateTime": "2022-12-13T05:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-is-learning-code-still-necessary-for-businesses.md",
-      "title": "Is Learning Code Still Necessary For Businesses?",
-      "excerpt": "Whether you rent a storefront or operate fully online, you’ll be in need of the software development know-how required to thrive in the digital realm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/13/is-learning-code-still-necessary-for-businesses/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/13/is-learning-code-still-necessary-for-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5fb2b1a203edc9665484d31e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/13/is-learning-code-still-necessary-for-businesses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/13/is-learning-code-still-necessary-for-businesses/amp/",
-      "publishedDateTime": "2022-12-13T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-first-ever-ai-video-platform-integrating-text-generated-image-and-animation.md",
-      "title": "First-Ever AI Video Platform Integrating Text-Generated Image And Animation",
-      "excerpt": "Tel Aviv-based DI-D released today the first multimodal generative AI video platform to combine text, image and animation in one interface. The self-service video platform integrates D-ID’s proprietary generative AI technology with GPT-3 from Open AI and Stable Diffusion from Stability AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2022/12/13/first-ever-ai-video-platform-integrating-text-generated-image-and-animation/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2022/12/13/first-ever-ai-video-platform-integrating-text-generated-image-and-animation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/639785f66713c491c4620eb9/0x0.jpg?format=jpg&crop=2860,1609,x0,y16,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2022/12/13/first-ever-ai-video-platform-integrating-text-generated-image-and-animation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/12/13/first-ever-ai-video-platform-integrating-text-generated-image-and-animation/amp/",
-      "publishedDateTime": "2022-12-13T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability.md",
-      "title": "Amid controversy and emerging regulations around AI for talent management, Beamery emphasizes explainability",
-      "excerpt": "Helping bring explainability to AI in talent management, Beamery announced it has raised $50 million in a series D round of funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability/",
-      "originalUrl": "https://venturebeat.com/ai/amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/09/now-hiring-e1670889718739.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 698,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability/amp/",
-      "publishedDateTime": "2022-12-12T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

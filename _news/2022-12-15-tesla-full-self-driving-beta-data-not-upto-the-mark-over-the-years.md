@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla to Add Radar in Hopes of Achieving Full Self Driving in Vehicles"
+    excerpt: "Chuck Gersham, CEO of Owl Autonomous Imaging, says that radar technology should theoretically be the correct move in pursuit of FSD but doesn’t believe it’ll be the last change by Tesla along this route."
+    publishedDateTime: 2022-12-14T00:51:00Z
+    webUrl: "https://marketscale.com/industries/transportation/tesla-to-add-radar-in-hopes-of-achieving-full-self-driving-in-vehicles/"
+    type: article
+    provider:
+      name: marketscale
+      domain: marketscale.com
+    quality: 54
+    images:
+      - url: "https://marketscale.com/wp-content/uploads/2022/12/shutterstock_1140629366-scaled.jpg"
+        width: 1920
+        height: 1273
+        isCached: true
+  - title: "Tesla Lawyers Say Failure to Deliver Self-Driving Isn't Technically Fraud"
+    excerpt: "A lawsuit filed against Tesla alleges it misled consumers by claiming its cars are self-driving, to which Tesla's lawyers retort: well, it's not fraud."
+    publishedDateTime: 2022-12-13T23:34:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-lawyers-fraud-self-driving"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 53
+    images:
+      - url: "https://wp-assets.futurism.com/2022/12/tessie.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tesla Full Self-Driving data looks awful: We challenge Elon Musk to prove otherwise"
     excerpt: "The little data that is coming out of Tesla's Full Self-Driving Beta looks awful, and that's putting it mildly."
     publishedDateTime: 2022-12-14T16:21:00Z
@@ -48,6 +76,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Judge Orders Tesla To Upgrade Customer's Self-Driving Computer For Free On His Model 3"
+    excerpt: "A US judge has ordered Tesla to perform a free upgrade of the self-driving computer in a customer's Model 3 in order to allow him to have Full-Self Driving without having to pay extra. According to Electrek,"
+    publishedDateTime: 2022-12-14T15:05:00Z
+    webUrl: "https://carbuzz.com/news/judge-orders-tesla-to-upgrade-customers-self-driving-computer-for-free-on-his-model-3"
+    type: article
+    provider:
+      name: https//carbuzz
+      domain: carbuzz.com
+    quality: 31
+    images:
+      - url: "http://cdn.carbuzz.com/gallery-images/900x600/1078000/300/1078361.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "Tesla reportedly claims its failure to deliver self-driving cars isn’t fraud"
+    excerpt: "Tesla has come under fire once again for its controversially named Full Self-Driving driver-assist feature. Despite what the name alludes to, FSD doesn’t enable a car to drive on its own."
+    publishedDateTime: 2022-12-16T13:27:00Z
+    webUrl: "https://fox8.com/automotive/internet-brands/tesla-reportedly-claims-its-failure-to-deliver-self-driving-cars-isnt-fraud/"
+    type: article
+    provider:
+      name: FOX8 Cleveland
+      domain: fox8.com
+    quality: 31
 
 secured: "FavWszCrRMunyHT2uSh37qR8Y5BSAOrECYO3qkrH8kl+Col57pcReTfxR0Ex3vqg2aR56kgXs2o8PZJ3YTL4AlJFMpJdJuMAM0KAtrbbUAnCVUBUEAbyDdM/cJ8yIZYUeNpGjJ/vDbP+3khUXa7K3guG5Eh0EdAgZB6rSYgx8qRuHHdYijPHs5BILrkh7vhvmb2b7jiOCC3vptTXsxEefeyvHWCfhrBtWsXx6TS4zsJPVDc/OjWa1sDMUY2dXLsLUPNaY2ww3Jg2OaeEn5fA8I9qavs9y0D9unYS++IgXOokISXkE6I1PX1RhtehFGs393C0tI6cX/P8GBtqdYyKkILW7ox5Q8Ia/kmmhkCsoMu1mReOUs742gdXN0h6LzaLbAMo5jdqNDQicRs8RZN62ZqSU4b9nOuWrScstU+n5MlErLR+moz9jfQpeCGFR0IyBQOXklWWdI6jB2pgFoZeY0kEeJxlq8kZETb6Qr4AxNxLp3dDqWE9Nh42atxTG6rl+Xti5PhpuDGiNm/v89CSgw==;X8IUKhjRoVlrYMlmCKGrnQ=="
 ---

@@ -2,6 +2,101 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-10-07-this-ai-powered-deep-learning-firefighter-helmet-could-help-save-lives.md",
+      "title": "This AI-powered, deep learning firefighter helmet could help save lives",
+      "excerpt": "The helmet allows firefighters literally see through smoke. Veuer’s Tony Spitz has the details. Get up-to-the-minute news sent straight to your device.",
+      "sourceUrl": null,
+      "webUrl": "https://omaha.com/news/video_48f0f46b-a94e-5866-87f1-9ee642bd6983.html",
+      "originalUrl": "https://omaha.com/news/video_48f0f46b-a94e-5866-87f1-9ee642bd6983.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/4/8f/48f0f46b-a94e-5866-87f1-9ee642bd6983/633efb996ab23.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-06T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Omaha.com",
+        "domain": "omaha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-07-ai-vs-deep-learning.md",
+      "title": "AI vs. Deep Learning",
+      "excerpt": "Deep learning finally allows machines to tackle problems of similar complexity to those humans can solve, and has been responsible for impressive AI achievements in recent years. Deep learning has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/ai-vs-deep-learning/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/ai-vs-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-Servers-01-1088x725-1.jpg",
+          "width": 1088,
+          "height": 725,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-06T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-06-increase-ml-model-performance-and-reduce-training-time-using-amazon-sagemaker-built-in-algorithms-with-pre-trained-models.md",
       "title": "Increase ML model performance and reduce training time using Amazon SageMaker built-in algorithms with pre-trained models",
       "excerpt": "Model training forms the core of any machine learning (ML) project, and having a trained ML model is essential to adding intelligence to a modern application. A performant model is the output of a rigorous and diligent data science methodology. Not implementing a proper model training process can lead",
@@ -1338,102 +1433,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-machine-learning-helps-scientists-peer-a-second-into-the-future.md",
-      "title": "Machine learning helps scientists peer (a second) into the future",
-      "excerpt": "The past may be a fixed and immutable point, but with the help of machine learning, the future can at times be more easily divined.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-09-machine-scientists-peer-future.html",
-      "originalUrl": "https://phys.org/news/2022-09-machine-scientists-peer-future.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/machine-learning-helps-2.jpg",
-          "width": 700,
-          "height": 403,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-09-machine-scientists-peer-future.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-machine-scientists-peer-future.amp",
-      "publishedDateTime": "2022-09-28T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-ibm-and-linux-foundation-ai-and-data-announce-machine-learning-exchange.md",
-      "title": "IBM and Linux Foundation AI and Data announce Machine Learning eXchange",
-      "excerpt": "IBM and Linux Foundation AI (LFAI) launched Machine Learning eXchange ... and a pipelines engine powered by Kubeflow Pipelines on Tekton, the core of Watson Studio Pipelines.",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/ibm-and-linux-foundation-ai-and-data-announce-machine-learning-exchange/",
-      "originalUrl": "https://sdtimes.com/ai/ibm-and-linux-foundation-ai-and-data-announce-machine-learning-exchange/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2021/09/97bf82391c9f884f4ea785b3ffccb6de.png",
-          "width": 954,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI",
         "Machine Learning"
       ]

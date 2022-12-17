@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/7-ways-a-recession-could-impact-ai-and-
 webUrl: "https://venturebeat.com/ai/7-ways-a-recession-could-impact-ai-and-ml-in-2023/"
 type: article
 quality: 64
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: VentureBeat
@@ -21,6 +21,24 @@ provider:
 topics:
   - AI
   - Machine Learning
+
+related:
+  - title: "My Coach, Artificial Intelligence"
+    excerpt: "The mobile coach is on the rise - accelerated by the Covid pandemic. AI is now omnipresent in training and health apps. And in professional sport and marketing? Is artificial intelligence increasingly playing a leading role here as well?"
+    publishedDateTime: 2022-12-15T09:45:00Z
+    webUrl: "https://www.ispo.com/en/news-markets/my-coach-artificial-intelligence"
+    ampWebUrl: "https://www.ispo.com/en/news-markets/my-coach-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://www-ispo-com.cdn.ampproject.org/c/s/www.ispo.com/en/news-markets/my-coach-artificial-intelligence?amp"
+    type: article
+    provider:
+      name: ISPO
+      domain: ispo.com
+    quality: 57
+    images:
+      - url: "https://www.ispo.com/sites/default/files/styles/facebook/public/2020-12/FRE_eRGB2_Dorian000898.jpg?h=1f77ac1a&itok=wzNJOQ6O"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "yilwGy9RiPbE/8K5qZhdXndXw4NR7xgrUWrTi/deDxEXn4YSsGvS2adDAic5ziIj3ShPMe61AWp4KBj3Ktvt13u4hpZaUp7bHCxJgOo/z3r1eC0i20HCHRVidGub/G+IsKuTfqW3ULr1fE3EZLQiDntdYdqsklU0DQPY3dEh4VF3pEi1kXE/RYAt4NfEIioZvGTvHSKQqVek/a92d0I7+VmMxQum14zWu003SL4B8cPgv6n0qEJaO9oc0Z15mrj5d4N6oG0/92gfzuwFxQZAMTOEk+vPg3UIhHK5ZCe1Kwv/KUqKX5kyGwRBiV2X48JOW1KfBaBgrsUkuNAZ8JvufQ2S1HD6o08iacXmlxYNxnSSyFSas/lcTKz9b2FVR2JeWiKKtKW/tgxVgpXUCJ+8yE8yuIcBg/u9D435D6gacyOd///59uXkIrraixfKJek/JDTafI5sVcHFJZPlGyjAXr/9kEN3b2Kufd3HWffNIIhal2FJeTWlcn6qbCLwmB9kp6VLppRo5VkMWYF76CWc3w==;xrjmtBz4cT48xER4xo7l7Q=="
 ---

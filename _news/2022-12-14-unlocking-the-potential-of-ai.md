@@ -25,54 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "AI art apps are cluttering the App Store’s Top Charts following Lensa AI’s success"
-    excerpt: "Consumer demand for Lensa AI, and for AI edits more broadly, has now pushed numerous other \"AI\" apps into the U.S. App Store's Top Charts."
-    publishedDateTime: 2022-12-12T21:37:00Z
-    webUrl: "https://techcrunch.com/2022/12/12/ai-art-apps-are-cluttering-the-app-stores-top-charts-following-lensa-ais-success/"
-    ampWebUrl: "https://techcrunch.com/2022/12/12/ai-art-apps-are-cluttering-the-app-stores-top-charts-following-lensa-ais-success/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/12/ai-art-apps-are-cluttering-the-app-stores-top-charts-following-lensa-ais-success/amp/"
+  - title: "Audi Is Using AI To Design The Wheels Of The Future"
+    excerpt: "Known as FelGAN, the AI was tasked with creating new wheels. Once complete, the AI-designed wheels were shown alongside real wheels and a “discriminator” had to decide whether"
+    publishedDateTime: 2022-12-13T21:02:00Z
+    webUrl: "https://www.carscoops.com/2022/12/audi-is-using-ai-to-design-the-wheels-of-the-future/"
+    ampWebUrl: "https://www.carscoops.com/2022/12/audi-is-using-ai-to-design-the-wheels-of-the-future/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/12/audi-is-using-ai-to-design-the-wheels-of-the-future/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 81
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/12/lensa-ai-magic-avatar.jpg?resize=1200,730"
-        width: 1200
-        height: 730
-        isCached: true
-  - title: "My Coach, Artificial Intelligence"
-    excerpt: "The mobile coach is on the rise - accelerated by the Covid pandemic. AI is now omnipresent in training and health apps. And in professional sport and marketing? Is artificial intelligence increasingly playing a leading role here as well?"
-    publishedDateTime: 2022-12-15T09:45:00Z
-    webUrl: "https://www.ispo.com/en/news-markets/my-coach-artificial-intelligence"
-    ampWebUrl: "https://www.ispo.com/en/news-markets/my-coach-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-ispo-com.cdn.ampproject.org/c/s/www.ispo.com/en/news-markets/my-coach-artificial-intelligence?amp"
-    type: article
-    provider:
-      name: ISPO
-      domain: ispo.com
+      name: Carscoops
+      domain: carscoops.com
     quality: 57
     images:
-      - url: "https://www.ispo.com/sites/default/files/styles/facebook/public/2020-12/FRE_eRGB2_Dorian000898.jpg?h=1f77ac1a&itok=wzNJOQ6O"
-        width: 1200
-        height: 630
+      - url: "https://i.ytimg.com/vi/A3KPN4MA5kM/hqdefault.jpg"
+        width: 480
+        height: 360
         isCached: true
-  - title: "The good and the bad of Lensa’s AI portraits"
-    excerpt: "As neat as it looks, Lensa's creations, like those from most AI-generators, aren’t free from gender, racial, and other biases."
-    publishedDateTime: 2022-12-16T15:00:00Z
-    webUrl: "https://www.popsci.com/technology/lensa-ai-portrait/"
-    ampWebUrl: "https://www.popsci.com/technology/lensa-ai-portrait/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/lensa-ai-portrait/?amp"
+  - title: "Audi Taps into the Power of AI for Revolutionary Auto Design"
+    excerpt: "Audi has revealed that it is using artificial intelligence (AI) for the first time in its design process, with the development of an AI-based software called FelGAN. The software uses generative adversarial networks (GANs) to provide designers with new sources of inspiration and ideas for their work."
+    publishedDateTime: 2022-12-13T14:42:00Z
+    webUrl: "https://www.gizmochina.com/2022/12/13/audi-taps-into-the-power-of-ai-for-revolutionary-auto-design/"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 57
-    images:
-      - url: "https://www.popsci.com/uploads/2022/12/15/lensa-harry.jpg?auto=webp"
-        width: 1200
-        height: 800
-        isCached: true
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 51
 
 secured: "N1LYri9dt1YKq3xid6Ny2H5S9zmXdE/0g5y2BNxxOhvbtiilVFsQjN2xiR7TVjWA8O/xd0OKinJAaG9wPTCMLlbdgVamhugfehxBjGcVxi9/dieyV4wnttuDMaXhluMRrV1SowQh1/v9lJW35slhTptFRGhVB2iArdaV4dYiR7OWHdFwuRP0SUArLwgeyBCKrLMgu1UEQJ4hsWZUjWVzCEchTuViJpR7dlnDBarbqMBr3M7eYXLOkZ3SqqNVagiKbFD9uyP2vfxx/F5pAn8C7vqAojZyLxNelnqmW0iVyrW2kPgf0puPqLbhN1f6sk+tZsTnO2zVlSJBJ2d0O8QUYh/qRAxUb1k4kxMFKJ4YQYg=;Ld95FW1QwqaWWByhPexuWw=="
 ---

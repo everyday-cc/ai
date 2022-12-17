@@ -1,75 +1,55 @@
 ---
 category: news
 title: "Dubai-based NOW Money Selects ThetaRay AI Tech to Prevent Financial Crime on the Inclusive Banking App"
-excerpt: "Money, the GCC’s first mobile banking solution focused on financial inclusion, and ThetaRay, a leading provider of AI-powered transaction monitoring technology, today announced a collaboration to implement ThetaRay’s cloud-based AML solution to monitor cross-border payments and support in the prevention of financial crimes and money laundering on the fintech’s payments platform."
-publishedDateTime: 2022-12-14T05:00:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/dubai-based-now-money-selects-thetaray-ai-tech-to-prevent-financial-crime-on-the-inclusive/article_d18eab8a-b531-5291-ac8f-0e1cd33c064f.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/dubai-based-now-money-selects-thetaray-ai-tech-to-prevent-financial-crime-on-the-inclusive/article_d18eab8a-b531-5291-ac8f-0e1cd33c064f.html"
+excerpt: "NOW Money selected ThetaRay's advanced SONAR anti-money laundering solution with combined transaction monitoring and sanctions list screening to stay a step ahead of financial crime by uncovering both known and unknown money-laundering crimes,"
+publishedDateTime: 2022-12-14T06:28:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/12/14/9730006.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/12/14/9730006.htm"
 type: article
-quality: 38
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/8/af/8aff6abe-fbdb-5685-b84b-cf5722cd3652/639966f7a397d.image.jpg?crop=1277%2C670%2C0%2C476&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
-
 related:
-  - title: "SymphonyAI strengthens Microsoft collaboration, makes Sensa financial crime prevention solution available in Microsoft Azure Marketplace"
-    excerpt: "SymphonyAI, a leader in high-value enterprise AI SaaS for strategic industries, announced today it is expanding its role as a Microsoft"
-    publishedDateTime: 2022-12-13T14:49:00Z
-    webUrl: "https://enterprisetalk.com/news/symphonyai-strengthens-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace/"
-    ampWebUrl: "https://enterprisetalk.com/news/symphonyai-strengthens-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/symphonyai-strengthens-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace/amp/"
+  - title: "Collaboration between NOW Money and ThetaRay puts more Israeli Fintech in the UAE"
+    excerpt: "The collaboration's aim is to enable NOW Money to prevent financial crimes and money laundering as the number of overbroad money transfers continues."
+    publishedDateTime: 2022-12-15T13:48:00Z
+    webUrl: "https://www.jpost.com/business-and-innovation/banking-and-finance/article-724948"
+    ampWebUrl: "https://m.jpost.com/business-and-innovation/banking-and-finance/article-724948/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/business-and-innovation/banking-and-finance/article-724948/amp"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 56
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 39
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/12/SymphonyAI-strengthens-Microsoft-collaboration_-makes-Sensa-financial-crime-prevention-solution-available-in-Microsoft-Azure-Marketplace.jpg"
-        width: 1500
-        height: 844
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/464188"
+        width: 640
+        height: 428
         isCached: true
-  - title: "SymphonyAI’s Sensa financial crime prevention solution is now available on Microsoft Azure Marketplace"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2022-12-13T07:12:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/symphonyais-sensa-financial-crime-prevention-solution-is-now-available-on-microsoft-azure-marketplace/"
+  - title: "NOW Money Selects ThetaRay AI Tech to Prevent Financial Crime"
+    excerpt: "Money, the mobile banking solution focused on financial inclusion, teams up with ThetaRay, a provider of transaction monitoring tech,"
+    publishedDateTime: 2022-12-16T03:48:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/12/199933-now-money-selects-thetaray-ai-tech-to-prevent-financial-crime/"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 53
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 39
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/09/300x250px.gif"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "DSM chooses LabTwin to advance their digitalization strategy in Science & Innovation with the latest voice and AI solutions."
-    excerpt: "Royal DSM N.V., a global company specializing in health, nutrition, and sustainable living, and LabTwin GmbH, the leading voice and AI-powered digital lab assistant, announce a multi-year license and collaboration agreement."
-    publishedDateTime: 2022-12-14T10:01:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/dsm-chooses-labtwin-to-advance-their-digitalization-strategy-in-science-innovation-with-the-latest-voice/article_beedb03c-8d03-566b-bd27-fe4d1842128b.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 12
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/9/d5/9d5f02a7-eb11-503b-81bd-a4f14f014565/6399ae0fe4aae.image.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
-        width: 1196
-        height: 628
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Hands-Up-Arrest-Halt-Stop.jpeg"
+        width: 1122
+        height: 1280
         isCached: true
 
-secured: "T7eRgHv31vdJ0mKx8dwgt0L0pdsxqlMDWvJ8+0LqYq6U5XIMVaERK5Hfgy/Kl7C3DLIQ1oEyauwxmbZY5sEnBYmeYyW2TmH4a9/33u2I+KVHJfDdDUoeGCl/xmHxvTUyj2nYJAR/qSshvzziRqHd3Vc/M2fydW8lD2rB+wqAHP7ekEhfj6VluNE4ck5Br2IvOctIcibu5hpNK4ZvISLjFycoT0jFBJoPRzK0pMOhEnpP0XVLv3YkU9UXUx3pixdQinzgYF01f4eZzIIzG2w5N1DYj5VoDflDARZ+op4/r1nOQg0KQ31HK7xeI6F95q8kjLpQ6MlgHRBoyTiyeSJqlXl3cQXCRCiSmbSWSuQj58c=;w4hG1P8EAWvb0mLFxYYvcA=="
+secured: "LeeiA6X6yet36Te758Ch6cWqyIYSPUv+4RSfGDor0y3lyElviHEQWYJOtBjTq9VoqY4CbSLZFFl/zBzfwxODb/Bxru3EY1F+l5n9LKatwTovk+YvydST+0mRwa1tBUHEOyYzdUgImfcn4bSEcjB+4reqdUlCD7iLNqWg25TIVq8kHLT57jpk1ecL/hwfD6bgdd9zurx82wnP1doNQS1Zmo4I5v79DQfGZ1QYzfBW+6t43hAYHisvsbUwMdfIqcdcjK2/l6DUmW+Pg153VOOUMQBZccBYf+QoNRD3S84kSXDTAqC2mW2Enqnp7ABfq0et9HKLZFGfXHUiusNfc3d/wxnQaOI/0hWd6PQGgf7h2mo=;xuFFmnh+QMiNO14/8Gq0bA=="
 ---
 

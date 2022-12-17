@@ -43,36 +43,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Gulfport-Biloxi Intl. Using Facial Recognition at Checkpoints"
-    excerpt: "Mississippi’s Gulfport-Biloxi International Airport will be one of 16 airports around the United States testing facial recognition software to identify travelers at TSA security checkpoints."
-    publishedDateTime: 2022-12-12T23:40:00Z
-    webUrl: "https://www.govtech.com/products/gulfport-biloxi-intl-using-facial-recognition-at-checkpoints"
-    ampWebUrl: "https://www.govtech.com/products/gulfport-biloxi-intl-using-facial-recognition-at-checkpoints?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/gulfport-biloxi-intl-using-facial-recognition-at-checkpoints?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/74c445f/2147483647/strip/true/crop/4619x2408+0+113/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F22%2F65%2F2df9d1f3447595f1ca82bf63e351%2Fshutterstock-1008668191.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "Indian police use of facial recognition in Chennai may violate privacy: Project Panoptic"
-    excerpt: "The use of face biometric technologies by police forces to identify people on the streets may clash with a Supreme Court judgment on privacy."
-    publishedDateTime: 2022-12-13T00:20:00Z
-    webUrl: "https://www.biometricupdate.com/202212/indian-police-use-of-facial-recognition-in-chennai-may-violate-privacy-project-panoptic"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 45
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
-        width: 2048
-        height: 1812
-        isCached: true
   - title: "Victim Participation In Criminal Justice System: An Indian Perspective"
     excerpt: "The crime victims' rights movement advocates for the rights of the victims of crime in criminal justice process. The concern for victim's rights had long been subdued. Eventually over a"
     publishedDateTime: 2022-12-13T06:44:00Z

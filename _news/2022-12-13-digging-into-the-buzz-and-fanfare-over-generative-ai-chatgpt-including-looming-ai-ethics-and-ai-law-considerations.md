@@ -128,20 +128,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "New AI Chatbot Lands With A Big Splash"
-    excerpt: "Like most nerds who read science fiction, I've spent a lot of time wondering how society will greet true artificial intelligence, if and when it"
-    publishedDateTime: 2022-12-12T22:37:00Z
-    webUrl: "https://menafn.com/1105300545/New-AI-Chatbot-Lands-With-A-Big-Splash"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2022-12/12/KT_cc77eimage_story.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "This AI Platform will Change the Future of Generative AI – And it’s Not ChatGPT"
     excerpt: "As the fervour around AI text and image generators grew, another startup developing AI content called Jasper raised USD 125 million in October this year pulling the company’s valuation to USD 1.5 bill"
     publishedDateTime: 2022-12-14T09:48:00Z

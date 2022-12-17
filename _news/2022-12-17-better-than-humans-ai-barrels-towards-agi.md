@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-17T14:40:00Z
 originalUrl: "https://venturebeat.com/ai/better-than-humans-ai-barrels-towards-agi/"
 webUrl: "https://venturebeat.com/ai/better-than-humans-ai-barrels-towards-agi/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat

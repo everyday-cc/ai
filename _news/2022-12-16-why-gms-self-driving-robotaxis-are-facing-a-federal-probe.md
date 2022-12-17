@@ -42,22 +42,6 @@ related:
         height: 550
         isCached: true
   - title: "Bolstering the safety of self-driving cars with a deep learning-based object detection system"
-    excerpt: "Self-driving cars, or autonomous vehicles, have long been earmarked as the next generation mode of transport. To enable the autonomous navigation of such vehicles in different environments, many different technologies relating to signal processing,"
-    publishedDateTime: 2022-12-12T21:27:00Z
-    webUrl: "https://techxplore.com/news/2022-12-bolstering-safety-self-driving-cars-deep.html"
-    ampWebUrl: "https://techxplore.com/news/2022-12-bolstering-safety-self-driving-cars-deep.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-bolstering-safety-self-driving-cars-deep.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 50
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/self-driving-car-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Bolstering the safety of self-driving cars with a deep learning-based object detection system"
     excerpt: "Self-driving cars need to implement efficient, effective, and accurate detection systems to provide a safe and reliable experience to its users. To this end, an international research team has now developed an end-to-end neural network that,"
     publishedDateTime: 2022-12-13T16:45:00Z
     webUrl: "https://www.sciencedaily.com/releases/2022/12/221212140800.htm"

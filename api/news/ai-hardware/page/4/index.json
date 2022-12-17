@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-14-silicon-valley-chip-startup-cerebras-unveils-ai-supercomputer.md",
+      "title": "Silicon Valley chip startup Cerebras unveils AI supercomputer",
+      "excerpt": "Nov 14(Reuters) - Silicon Valley startup Cerebras Systems, known in the industry for its dinner plate-sized chip made for artificial intelligence work, on Monday unveiled its AI supercomputer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/silicon-valley-chip-startup-cerebras-unveils-ai-supercomputer-2022-11-14/",
+      "originalUrl": "https://www.reuters.com/technology/silicon-valley-chip-startup-cerebras-unveils-ai-supercomputer-2022-11-14/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/X6BvTKg1qgtNP1KK2SsEO00zaJM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WYSQLIVVLRILDAPGVO3O6B37DI.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-14T06:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-14-intel-unveils-prototype-neuromorphic-chip-for-ai-on-the-edge.md",
       "title": "Intel Unveils Prototype Neuromorphic Chip for AI on the Edge",
       "excerpt": "For example, a common fruit fly, an insect studied for AI research, has about 250,000 neurons and 10 million synapses. “This has been a major research effort by Intel and today we have a fully functioning neuromorphic research chip,” Intel CEO Brian ...",
@@ -1373,49 +1425,6 @@
       "provider": {
         "name": "ExtremeTech",
         "domain": "extremetech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-mediateks-dimensity-9200-crushes-the-competition-in-gpu-performance.md",
-      "title": "MediaTek's Dimensity 9200 Crushes The Competition In GPU Performance",
-      "excerpt": "Ahead of its debut, some key details about the processor have leaked online, hinting at big improvements in GPU performance. According to noted tipster Ice Universe, the Dimensity 9200 will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2022/10/mediateks-dimensity-9200-crushes-competition-gpu-performance.html",
-      "originalUrl": "https://www.androidheadlines.com/2022/10/mediateks-dimensity-9200-crushes-competition-gpu-performance.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2021/09/MediaTek-Dimensity-5G-SoC.jpg",
-          "width": 1816,
-          "height": 1116,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2022/10/mediateks-dimensity-9200-crushes-competition-gpu-performance.html?amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/10/mediateks-dimensity-9200-crushes-competition-gpu-performance.html?amp",
-      "publishedDateTime": "2022-10-31T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
         "images": null,
         "publishers": null,
         "authors": null

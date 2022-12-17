@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-15T18:00:00Z
 originalUrl: "https://www.kunm.org/npr-news/2022-12-15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations"
 webUrl: "https://www.kunm.org/npr-news/2022-12-15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: KUNM
