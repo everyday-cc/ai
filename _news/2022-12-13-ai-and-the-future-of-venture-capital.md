@@ -49,15 +49,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 41
-  - title: "Artificial Intelligence and the Future of Travel"
-    excerpt: "Today’s podcast looks at travel and artificial intelligence, Air Asia’s new airline, and e-visa roadblocks in Africa."
-    publishedDateTime: 2022-12-12T09:48:00Z
-    webUrl: "https://skift.com/2022/12/12/artificial-intelligence-and-the-future-of-travel/"
-    type: article
-    provider:
-      name: Skift
-      domain: skift.com
-    quality: 19
 
 secured: "IijG5j6zzI/3jgXMC1Jri7DjkkvaDXEiLxKywWPyO5oWkH7lZKs+n/tlJxds7jycROWn2IwwzR+5YklUr8HY2uLkjmnSogQZYwCjl1DF7maEIudGI984b4dLiVR6oewwQStm7p6BAMp5+Y5ndWNRUfA6M7QwM29jH/z2qFq+rIml/kFGdJRTm/wP+Z3+YdYl33RHoMVF2ukqVUrXXjZrQ1gpO8TCgD9Cdtt5mNrr6leshUlCmckaHmfpbdEmCW2+0HP6wpHVQSL9aA4d74/9y3O3Uh464wPOTw1QyfSrKLUiKC9ek+zQ5UHfd04CwmOg4ujZep7H1Wp9xCOemplvH2K2zaSqW+I1u7bl61xRNZHSxL94XC16nQXWCOdMYORL1XuuKq4sJ10EIGuZNREERvzJY37NS1oBNDMqh+OayvG0SIhQmZL5jVokQZFpz0sRN7s4xVUrm1t9wZ55345iE4A3kJvvn9jbOaRwu/S7MD+qPOYH3vamDxKCM/YFDPr9Xk4RgytmxfrA9TA4JtSWwA==;do9WqVgTDofeSyZWYDTwYg=="
 ---

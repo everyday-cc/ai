@@ -52,15 +52,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "Artificial Intelligence and the Future of Travel"
-    excerpt: "Today’s podcast looks at travel and artificial intelligence, Air Asia’s new airline, and e-visa roadblocks in Africa."
-    publishedDateTime: 2022-12-12T09:48:00Z
-    webUrl: "https://skift.com/2022/12/12/artificial-intelligence-and-the-future-of-travel/"
-    type: article
-    provider:
-      name: Skift
-      domain: skift.com
-    quality: 19
 
 secured: "IvKN4tFfqpLGrOrahZAh5I4BqbdH1YLU+I6zQNE9FbVEV8HJ4Z1YcyPmPelLOWhB7EPjo1OPAVUopZ4bMIZFLFRzYuPwOmoAiuj618SukenUtHmBxO3Fb5d6Hf0UPeRshKH3/g8FjLWgGHkygT4eM74NURMzqlJ7SdtTmJftLntmsrbiwSt6cq4WQzYk1tEW9uI6uuYr38MushDCzBsDi5BtjRfMpVWKXwLHAgPgrHanBytZXP0Lv3fWs5qSvDQrHNM+g3WERoUSEjUzuZTn04hAkoQrmZHO+pPSrn3Ubf2k35udza23aIQ+0633z+VhVEZs906LxMHaQ+o2Tt/Tr0n7UHVMwAlezhBE4gAW5Ls=;t/v9i3gSlX+xgDyKP10f1g=="
 ---

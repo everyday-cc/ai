@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2022/12/meet-ghostwri
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/12/meet-ghostwriter-a-haunted-ai-powered-typewriter-that-talks-to-you/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "AI Comes for the Writers"
-    excerpt: "Kai-Fu Lee, AI expert and the author of AI Superpowers, has gone even further, predicting that in the next few decades most doctors would find themselves relegated to a vestigial function as the “warm” human customer service representative for largely AI-conducted treatment,"
-    publishedDateTime: 2022-12-12T10:30:00Z
-    webUrl: "https://www.thenation.com/article/culture/chatgpt-ai-writers/"
-    ampWebUrl: "https://www.thenation.com/article/culture/chatgpt-ai-writers/tnamp/"
-    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/culture/chatgpt-ai-writers/tnamp/"
-    type: article
-    provider:
-      name: The Nation
-      domain: thenation.com
-    quality: 61
-    images:
-      - url: "https://www.thenation.com/wp-content/uploads/2022/12/chatgptdialogue-img.jpg"
-        width: 1440
-        height: 907
-        isCached: true
 
 secured: "Dqt415NamSJnJxzLL/UsFhljk2sknlVX3eBsjxiWMwApfnawquyr0G9pUe73zQoPeoURLQylDpFrByhT6s9Ye44cb6ZbnIrQN7vrCqJHNBKMJHZHa6PlACykyIWukKC51UKISwyw1TOzMVWFghs7bQ1RmWmDyRaFCQdPwZ2Q/cmc/UZnHHpoTv+tit4yCVgJqa1gwbXhggAK9Q6m3LEUjMbhIyCmlYv3O3ZhGppqv12CW2D8Ex5n0foHnpHm4eiZCISYomTQqLBD1mXpA3kFSdIBujLR4SQBCtJet8uKXNADYViECZLyEaM1ud9fWgcH+s0Nm2sh7ymxxoCkZIqpbsovFnX0oJQZ5W9pboM9rvGCH1/ngOaF9jEOOSccjychK2VSJ5P/GFSVNPEFxzt1nEfYYNIKLFDKXN83DJH1R+C+sDrSAR0ZugZtK966saPT3SLpywhv9vpnk/G/dz3ULbVO8nHM9gvs9yFTd0ShlTfn5v48MVZFdwZwGxkTYzbxhYsZbgmXXa4eXS4vsjAlXQ==;muovdOCZSQYZhkUkvy44lw=="
 ---

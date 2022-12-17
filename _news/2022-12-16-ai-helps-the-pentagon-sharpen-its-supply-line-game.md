@@ -7,7 +7,7 @@ originalUrl: "https://www.axios.com/2022/12/16/ai-pentagon-supply-lines-simulati
 webUrl: "https://www.axios.com/2022/12/16/ai-pentagon-supply-lines-simulation"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -32,7 +32,7 @@ related:
     provider:
       name: Assembly Mag
       domain: assemblymag.com
-    quality: 37
+    quality: 41
     images:
       - url: "https://www.assemblymag.com/ext/resources/images/MIT.jpeg?height=635&t=1671232805&width=1200"
         width: 825

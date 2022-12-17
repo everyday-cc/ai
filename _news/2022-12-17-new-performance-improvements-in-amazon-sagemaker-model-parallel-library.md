@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Introducing Amazon SageMaker Data Wrangler’s new embedded visualizations"
-excerpt: "Manually inspecting data quality and cleaning data is a painful and time-consuming process that can take a huge chunk of a&nbsp;data scientist’s time on a project.&nbsp;According to a 2020 survey of data scientists conducted by Anaconda, data scientists spend approximately 66% of their time on data preparation"
-publishedDateTime: 2022-12-13T21:17:31Z
-originalUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-data-wranglers-new-embedded-visualizations/"
-webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-data-wranglers-new-embedded-visualizations/"
+title: "New performance improvements in Amazon SageMaker model parallel library"
+excerpt: "Foundation models are large deep learning models trained on a vast quantity of data at scale. They can be further fine-tuned to perform a variety of downstream tasks and form the core backbone of enabling several AI applications. The most prominent category is large-language models (LLM), including&nbsp;auto-regressive"
+publishedDateTime: 2022-12-17T01:09:32Z
+originalUrl: "https://aws.amazon.com/blogs/machine-learning/new-performance-improvements-in-amazon-sagemaker-model-parallel-library/"
+webUrl: "https://aws.amazon.com/blogs/machine-learning/new-performance-improvements-in-amazon-sagemaker-model-parallel-library/"
 type: article
-quality: 88
+quality: 89
 heat: -1
 published: false
 
@@ -23,9 +23,9 @@ topics:
   - AWS AI
 
 images:
-  - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/13/sagemaker-data-wrangler-embedded-visualizations.jpg"
-    width: 1564
-    height: 780
+  - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/17/Featured-images-for-ml-12792.jpg"
+    width: 800
+    height: 400
     isCached: true
 
 related:
@@ -85,19 +85,19 @@ related:
         width: 1565
         height: 781
         isCached: true
-  - title: "New performance improvements in Amazon SageMaker model parallel library"
-    excerpt: "Foundation models are large deep learning models trained on a vast quantity of data at scale. They can be further fine-tuned to perform a variety of downstream tasks and form the core backbone of enabling several AI applications. The most prominent category is large-language models (LLM), including&nbsp;auto-regressive"
-    publishedDateTime: 2022-12-17T01:09:32Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/new-performance-improvements-in-amazon-sagemaker-model-parallel-library/"
+  - title: "Introducing Amazon SageMaker Data Wrangler’s new embedded visualizations"
+    excerpt: "Manually inspecting data quality and cleaning data is a painful and time-consuming process that can take a huge chunk of a&nbsp;data scientist’s time on a project.&nbsp;According to a 2020 survey of data scientists conducted by Anaconda, data scientists spend approximately 66% of their time on data preparation"
+    publishedDateTime: 2022-12-13T21:17:31Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-data-wranglers-new-embedded-visualizations/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
-    quality: 89
+    quality: 88
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/17/Featured-images-for-ml-12792.jpg"
-        width: 800
-        height: 400
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/13/sagemaker-data-wrangler-embedded-visualizations.jpg"
+        width: 1564
+        height: 780
         isCached: true
   - title: "Planet Makes Its Geospatial Data Available Through Amazon SageMaker"
     excerpt: "Planet operates the largest constellation of earth observation satellites in the world, with the capacity to provide daily medium- and high-resolution imagery of Earth's landmass every day. Planet is using AWS to better serve its customers who can now benefit from the simplicity and speed of Amazon SageMaker's new geospatial ML capabilities to build,"
@@ -118,6 +118,6 @@ related:
       domain: spaceref.com
     quality: 34
 
-secured: "2ghfunkVbA14rvndJtff19MpJtcRoThz3lobMTvf30UvBdbt2mJ+K5XdSkZ5aPPqNq+6lzdxhbEqhLOwRE7r0NVuQiRCjkVzM0UYKkc2A+mxEdJZduXcupgnBnbjDJTLdPGz4uy/kjmxrwMkD1SJ6DIIjSfs0KTUJ1MLmIddgGERgjq9qg+k83/A+huWv4J2a31gvzSdFhLsLvehFeGX39cbaoGbmZpDs8VdldFuMMOMsZiFwtaay5hh/qvce9mkcDVOR6uh7QUKV4pnTngTbuFkoo43ayJS5ahTj1Q3GXCdXM0Yq5OxRovOtCaq8kQoyHK1olrrbGEmYJmzJ00C45IQEArEio58uRaCk8jD5Zo=;TrhlBktQHkS6+G6mGrK/dg=="
+secured: "jd4n/9Hgu2pRN0T5pAZ9SVYq3Ss50yPINTefIjFuW3sHR7KmPN1YmBbU25tB/PrrmRdCBLYeMtRYxTh1MOzR2JF/oqT6iHFlqzRtVqTOkfC90fdbgJmGS7sx6PgkCv0Mngdk71a9ly6M5HJbMifEYU7nfLr7le/IwVfXwit5ZMucQeHhGM6McYvxll+eC7DZfEVtlyp9Gxjbgo7RRVRNZZTM8Ryh3KKwAVoTUlZhtmBOw5LSPmXwwCJP48r7KnzSD9fU3C8vG5Tijz/Ohjap6syTMpuIfVkJ6INogvBx9+02hcrJfYcF3HZl0TyhDmnOi9EX/7XulqvZZXlHRJYND7MqoTiPgQZPjBlUf3xdgJU=;S5aMeZFxfFrvX6zNfmBnhQ=="
 ---
 

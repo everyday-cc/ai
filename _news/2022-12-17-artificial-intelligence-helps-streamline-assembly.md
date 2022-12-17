@@ -6,8 +6,8 @@ publishedDateTime: 2022-12-17T00:35:00Z
 originalUrl: "https://www.assemblymag.com/articles/97515-artificial-intelligence-helps-streamline-assembly"
 webUrl: "https://www.assemblymag.com/articles/97515-artificial-intelligence-helps-streamline-assembly"
 type: article
-quality: 37
-heat: -1
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+  - AI in Robotics
 
 images:
   - url: "https://www.assemblymag.com/ext/resources/images/MIT.jpeg?height=635&t=1671232805&width=1200"
@@ -39,6 +41,6 @@ related:
         height: 768
         isCached: true
 
-secured: "QE/J7mc8Flzehau5eORm0zzkUyyFQHlkYBxMYcA6IkgK6T1Sa0NEJQBdca/a93MFqHRQOuEV08NLeZKdstmGx+bv7vw+jyxGWGqOFdokDeqbSuRF8u7b4qWY2oQXRbOgswRUqoReKiRH6Ce2kfX4KEigeoL4dHbp1GYJUpip1mSMxtBFVEfPq9KvGS0t25PI/2TSnQJx6GqIQBI/H0Bskhibde04XBsxwsDOXj0113FlADxJoIi9yE0Qgi3h2qotsS1k5uLHPzPMgiewHYUFbAq67o3dudT1YBoV1fIzo+snebn4ALafS8oV3yvFBSYkI3E2Hx4bwyZjByj0pYvVtGA5A3HfTpyUjl2fpHgTo7A=;gS9I7kd+TCFWRjYxgyS3lA=="
+secured: "9Prh24PQJMKJqNn8CzK2OXqWffPZSuh9tRx+A5mnyrNbnzDJ8E6WznXFEk2pkvU6thPO2F4RbIzKN9Vf+msAz2+3s4gtIMLCIuHV53ZnqHw8meweKnEAN3UMmevVhMfeN0En/eruZzSAmAoIRy0sdhnQOYv4coy4D0DgIGSCyU8S4j9bMVNh9syph8+jc2NFfjlYQgQ1WoxgGuBy5LrmgQnpnQWbWM7gdsRkCazyBbtC4UuN8nMwyg75uO2YZlcFLNzgP8zPBO7Is+y9+WMSAJR27zVa2LoEc9DuE6b8GOasV/+vT7OHZqU31UrVvOP0gkLXe9XJYaKbUD76VnHu/Sefff/0Up3eozTv/IisMUc8mBrgl9GpoepbQ+/waDtGUQOh6uqpR2XQPX0uscemCM9NIfpwXRiaqAXN5r9Xrj0THysMoMqJ/kL8YdcXSiakqKrTIM0jrPCQMRMKLX7aetKxcCvIafffG7D2AsT65pXSbjDNQfkzkwZ2pmCjHSb949o0h7pYs+SEqIwzYfRQrg==;nYhH8eDCU4WNoi5IEadRgQ=="
 ---
 

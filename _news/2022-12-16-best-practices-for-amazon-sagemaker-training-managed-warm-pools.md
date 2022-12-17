@@ -71,6 +71,20 @@ related:
         width: 1565
         height: 781
         isCached: true
+  - title: "New performance improvements in Amazon SageMaker model parallel library"
+    excerpt: "Foundation models are large deep learning models trained on a vast quantity of data at scale. They can be further fine-tuned to perform a variety of downstream tasks and form the core backbone of enabling several AI applications. The most prominent category is large-language models (LLM), including&nbsp;auto-regressive"
+    publishedDateTime: 2022-12-17T01:09:32Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/new-performance-improvements-in-amazon-sagemaker-model-parallel-library/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/17/Featured-images-for-ml-12792.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Introducing Amazon SageMaker Data Wrangler’s new embedded visualizations"
     excerpt: "Manually inspecting data quality and cleaning data is a painful and time-consuming process that can take a huge chunk of a&nbsp;data scientist’s time on a project.&nbsp;According to a 2020 survey of data scientists conducted by Anaconda, data scientists spend approximately 66% of their time on data preparation"
     publishedDateTime: 2022-12-13T21:17:31Z

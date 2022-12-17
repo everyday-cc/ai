@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2022/12/lensa-ai-app-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/12/lensa-ai-app-causes-a-stir-with-sexy-magic-avatar-images-no-one-wanted/amp/"
 type: article
 quality: 86
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2022/12/lensa-mh-grid.jpeg?w=3000"
         width: 3000
         height: 1688
-        isCached: true
-  - title: "Lensa AI: The photo-editing app everyone's using to create magical AI avatars"
-    excerpt: "I tried the hottest app in the market right now, Lensa AI, to create Magic AI avatars of myself. Here's all you need to know about the tool that has the potential of taking over digital art."
-    publishedDateTime: 2022-12-12T10:00:00Z
-    webUrl: "https://www.bgr.in/features/lensa-ai-the-photo-editing-app-everyones-using-to-create-magical-ai-avatars-1348355/"
-    ampWebUrl: "https://www.bgr.in/features/lensa-ai-the-photo-editing-app-everyones-using-to-create-magical-ai-avatars-1348355/amp/"
-    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/features/lensa-ai-the-photo-editing-app-everyones-using-to-create-magical-ai-avatars-1348355/amp/"
-    type: article
-    provider:
-      name: BGR
-      domain: www.bgr.in
-    quality: 54
-    images:
-      - url: "https://st1.bgr.in/wp-content/uploads/2022/12/Lensa-AI-features.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "‘Magic’ AI avatars are already losing their charm"
     excerpt: "When Lensa introduced a new AI-portrait generator in November, the internet was enthralled. But concerns have mounted, especially among women."
