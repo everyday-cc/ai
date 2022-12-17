@@ -15,12 +15,6 @@ topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://i0.wp.com/www.ksn.com/wp-content/uploads/sites/13/2022/12/shooting-1.jpg?w=2000&#038;ssl=1"
-    width: 2000
-    height: 1126
-    isCached: true
-
-secured: "CcSD5y1cp3pXc0rvohGiBSc4zeXRJhAJaEdnSIFE90FYBNcDNg7weSaWuZEFnKy8SGA2eTN289/fndUMVCNXrHQjmww4GQAnkt95CwvbfMffEZGScdx0wfqw6/hFHQcwUkGBWFdyzYSr70aQvBMHgB0E5qh8Ii0oh7YXg5njFggn7QaIoTQU6qzM38tF+Cd4IyNIirRJKkok/o+unr/GEkDFLvQbVcd1pnD6ipPZdrNanBeEdVT3B5wecXrGDPQBUoCppL+hbGTOGIuzFt0R72mH69YHlgB22hhev9oV0Mp4OfQaN8IabsB7J1AHrDKKY/Ci+7H6ajhmS5tObqnQjdR0EHiurgqps5W1xftPidk=;2NhQjw7NaNf3pSDjKG5FfQ=="
+secured: "H1rwBTRBFYNdshwFGZy9VTLfKr3A7V9zP5BSmm0kLZzh5C/95nJ0bD791DJB39iadTpmt23ogzonNqcXKc7+lK7xuH0eaVR/8ZxIB4wLauJr1CLPezRCU8cFBQ0sQ6s362eGm89CoDhfdlVPeC/z/gs2ADWZT8pueJYlusFC/Z96OJxDzcaPngTvOFMOW6boYwIf0K5HzpqjrU0uFjhOnVfBhx3yUeNuDonp88drxOdQhqOJ1Ox+2ZMVCdq8vR5aL8VSKt/bhYkrk+KR8dp1tjhMSIMZjdzdw7tMJapjfZ+XU7kfOakomvf6+B952+IElhYMVHPlDWOCSzua++3s4BEMzRGBo7s2PQbEHWZBaac=;LY4m6uZBki7RhwtyX7vfXg=="
 ---
 
