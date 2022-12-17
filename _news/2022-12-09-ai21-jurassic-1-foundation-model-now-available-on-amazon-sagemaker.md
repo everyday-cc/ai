@@ -15,12 +15,6 @@ topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://i0.wp.com/www.ksn.com/wp-content/uploads/sites/13/2022/06/Fatal20Crash1_1530122343014-1-1-1.jpg_46926451_ver1.0-1-1-1.jpg?w=2000&#038;ssl=1"
-    width: 640
-    height: 360
-    isCached: true
-
-secured: "sVZm1KaeC9idLn//dXxFsD2/4kKmCsJnnYbqq00WA4oM1TNCvwRcRXJqeKEa11DUMRNkuMy78gbBWS3CRF5B7jwY4vGlKz6QtlDbWvdVsc7Bc/7hcxOG1GBYdWOPSEUHGXQ9VnEEIYLkxOIZ/PlH6xkw5b/xLpkKiYqGsbDJCIe3kKAAwcs2Hqrdv8ZQx1GbB7GAVs++gfOcewZlnPfWDvhiV1fZZzRgNFSsORJDRruWAYkN90sk4NLS530ajv2gYj4f5oV4ksr6UoPRmksh4GDao23k975TgSZywg2xBTzhcfNawfiwdt7hg6KFQhtPEUX5kIBT4Ip5JJaQ5MgwPljgzAQsuf+HK05ktrsnjas=;CXL2lEijIz7i38MV0O1Uhw=="
+secured: "ZjJFrAjpfEjGbErR/m/gvZtO9zjrAYPwAV1xz+3rPykeIXJnt3jP2+9xor+T37I/DqH9UYspuaP6dsZVE7a3XZfwBMrfW8yN8NQK85iA5CZeHUI2vgtEqcatrmU0/N12h7ie8aZMBMh1Mf01hb55wRqS3i85Z7kPcP5loV7iZKrVrfB+n0zUKLTGsrjIC3dKw38VpsCmR+4M/U7DA+lcwXaoyKj+k0o/4hi8t9wOnvux+Y5TKudYlGNJyERNpDH1lZGvurHDjJ5AssIcPiudcf580cNBMpgJZOwc0hNMpaL2xcY9QEsSMAksU/2l6JtVWF8+gyld3FC7TC5QbrJ0yXqcixYoj6h6uBiozQpoBFU=;bsjePGhEVR0OS1NfBb9V2A=="
 ---
 
