@@ -23,29 +23,57 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Trading Market Provides an In-Depth Insight of Trends and Landscape Outlook 2023-2028"
-    excerpt: "Artificial Intelligence in Trading Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2028. Artificial Intelligence in Trading Market Research Report is spread across 105 Pages and provides exclusive data,"
-    publishedDateTime: 2022-12-14T13:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-trading-market-provides-an-in-depth-insight-of-trends-and-landscape-outlook-2023-2028-2022-12-14"
+  - title: "Artificial Intelligence In Fashion Retail Market Size, Outlook, Share, Prominent Players, Growth, and Forecast 2028"
+    excerpt: "Artificial Intelligence In Fashion Retail Market\" is sectioned top to bottom in this review. Worldwide and geological"
+    publishedDateTime: 2022-12-14T01:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-fashion-retail-market-size-outlook-share-prominent-players-growth-and-forecast-2028-2022-12-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 48
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Fashion market research report by market watch provides you with social, economic, and global growth opportunities."
-    excerpt: "The global AI in Fashion market size is projected to reach multi million by 2028, in comparision to 2021, at unexpected CAGR during 2022-2028 (Ask for Sample Report). A complete analysis of significant growth strategies,"
-    publishedDateTime: 2022-12-14T20:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fashion-market-research-report-by-market-watch-provides-you-with-social-economic-and-global-growth-opportunities-2022-12-14"
+  - title: "Machine Learning Artificial intelligence Market 2023 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2028"
+    excerpt: "Machine Learning Artificial intelligence Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2028. Machine Learning Artificial intelligence Market Research Report is spread across 93 Pages and provides exclusive data,"
+    publishedDateTime: 2022-12-14T10:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-artificial-intelligence-market-2023-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2028-2022-12-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Fintech Market Report 2023 by Trend, Size, Share, Market Segmentation, Growth Potential and Forecasts Through 2030"
+    excerpt: "In accordance with the recent study\"Global AI in Fintech Market\" is anticipated to grow at a CAGR of 31.5% 2023-2030."
+    publishedDateTime: 2022-12-14T05:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-report-2023-by-trend-size-share-market-segmentation-growth-potential-and-forecasts-through-2030-2022-12-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Computer Networks Market 2023 Company Challenges, Latest Advancements, Growth Prediction, and Forecast by 2028"
+    excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence in Computer Networks Market will have significant change from previous year. By the m"
+    publishedDateTime: 2022-12-13T10:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-2023-company-challenges-latest-advancements-growth-prediction-and-forecast-by-2028-2022-12-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

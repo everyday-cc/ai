@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-new-report-extensive-insights-competitive-analysis-with-industry-development-till-2027-2022-12-14"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Exercise Therapy Device Market with Top Leading Companies, Industry Analysis, CAGR Value, Business Outlook Forecast to 2029"
-    excerpt: "Dec 14, 2022 (The Expresswire) -- \"Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 104 Pages Report\" Global"
-    publishedDateTime: 2022-12-14T07:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/exercise-therapy-device-market-with-top-leading-companies-industry-analysis-cagr-value-business-outlook-forecast-to-2029-2022-12-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Mo+aQhqEgDua+xNGUEe/OIOb3mhdOplMgVeO2rUf0vboM4Fn8maAzo8RJvYKXy01JSELXC+HH+xHpIQRe1Nj7ZpGc38HN9RYIgYDY1wUmhBmOUIZ7NRaVAjhW7LWp5voABEwUeuYaLI0kK7BbCHpcTzDoa+drK48deZqAdpJB5jW+ei1HezYUqtwEt+INUJJ5cQaTm7Yac8rpMbWobn2+H5EJhQd1C8HUVLYZlslSu3tYbKGOsQYwCA0dkbijrEUhEOWz5yoKHkt5Nq1YqR4yO0VoYaT/e+hW+9ZTfYOpsNkPo+OKKU96pljP+iSyoiV8rz/1W5QdNVo/2jN7ZK8IUbHQNXWW1hs4EvmZHBALs0=;g0+LNJYv7TOcrgs2ui0tUQ=="
 ---

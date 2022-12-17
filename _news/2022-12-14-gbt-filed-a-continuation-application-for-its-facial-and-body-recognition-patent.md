@@ -19,33 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Emergent color categorization in a neural network trained for object recognition"
-    excerpt: "Color is a prime example of categorical perception, yet it is unclear why and how color categories emerge. On the one hand, prelinguistic infants and several animals treat color categorically. On the other hand,"
-    publishedDateTime: 2022-12-13T16:08:00Z
-    webUrl: "https://elifesciences.org/articles/76472"
+  - title: "The dawn of AI has come, and its implications for education couldn’t be more significant"
+    excerpt: "AI models can now produce meaningful responses to exam and assignment questions. We’ll have to embrace them if we want the next few years to go smoothly."
+    publishedDateTime: 2022-12-15T02:24:00Z
+    webUrl: "https://theconversation.com/the-dawn-of-ai-has-come-and-its-implications-for-education-couldnt-be-more-significant-196383"
+    ampWebUrl: "https://theconversation.com/amp/the-dawn-of-ai-has-come-and-its-implications-for-education-couldnt-be-more-significant-196383"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/the-dawn-of-ai-has-come-and-its-implications-for-education-couldnt-be-more-significant-196383"
     type: article
     provider:
-      name: eLife
-      domain: elifesciences.org
-    quality: 66
+      name: The Conversation
+      domain: theconversation.com
+    quality: 67
     images:
-      - url: "https://elifesciences.org/assets/images/social/icon-600x600@1.75dbe4c9.png"
-        width: 600
-        height: 600
-        isCached: true
-  - title: "Storm King Workers Push for Union Recognition"
-    excerpt: "Staff members at the Storm King Art Center in New York’s Hudson Valley announced their intent to unionize nearly a month ago, but management and the board of trustees have yet to voluntarily recognize their efforts."
-    publishedDateTime: 2022-12-13T20:21:00Z
-    webUrl: "https://hyperallergic.com/787122/storm-king-workers-push-for-union-recognition/"
-    type: article
-    provider:
-      name: Hyperallergic
-      domain: hyperallergic.com
-    quality: 24
-    images:
-      - url: "https://hyperallergic-newspack.s3.amazonaws.com/uploads/2022/12/Amber-Bowen.jpg"
-        width: 2000
-        height: 1500
+      - url: "https://images.theconversation.com/files/501197/original/file-20221215-14140-h90pat.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=216&fit=crop"
+        width: 320
+        height: 216
         isCached: true
 
 secured: "pHZ48sC/XAJGaF0vPIEWsp+vboQyh2uEWDR3KY6PoQi8RR6gL9xBL1MNqrL+5ryium4iAK+ZsapTE++rWZnbf/FgCrUMFXNzoe8ppJY76hwSXV1AexOHOtwofJHF+rISLHo/asX9Lmblj8NAdbWFsSzIpdysTxoO/4gXZrGm6oQIuYOF4POTORNkc9bxcBzXfhuzmGORyOQbB+ty7pWjFj7C26OBcheC0a0js9XZHtw8qGBLOa+XcVdMLWDvXDvmeJ3BMXq3rkFLuqAINxIM6limrFqEM6MSh1ynFxqWUiMIW12lqz3eNos+DhCDcm1nKoUQetknxjqlpgxI7GK39PSX4Fu7oCpFSqSX9mYSXqI=;EkfqybI7loIjnlvtM6WL7Q=="

@@ -8,8 +8,8 @@ webUrl: "https://www.newsday.com/opinion/columnists/randi-f-marshall/chatgpt-art
 ampWebUrl: "https://www.newsday.com/amp/opinion/columnists/randi-f-marshall/chatgpt-artificial-intelligence-openai-tft8zf5e"
 cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/opinion/columnists/randi-f-marshall/chatgpt-artificial-intelligence-openai-tft8zf5e"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cdn.newsday.com/ace/c:ODgzMzNlNmItN2FiNS00:MzBkNGU3/landscape/1280"

@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence and Machine Learning Market Size: By Types, By Application and forecast from 2022 - 2028."
-    excerpt: "The “ Artificial Intelligence and Machine Learning Market ” report provides a detailed overview of diversified objectives which includes analytical components, product creation, and staying on track with the competitive field."
-    publishedDateTime: 2022-12-12T12:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-size-by-types-by-application-and-forecast-from-2022---2028-2022-12-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence In Fashion Retail Market Size, Outlook, Share, Prominent Players, Growth, and Forecast 2028"
     excerpt: "Artificial Intelligence In Fashion Retail Market\" is sectioned top to bottom in this review. Worldwide and geological"
     publishedDateTime: 2022-12-14T01:40:00Z
@@ -52,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence and Machine Learning Market by Product and Geography : Forecast and Analysis 2023 to 2028 with Top Countries Data"
-    excerpt: "Artificial Intelligence and Machine Learning Market\" Research report encompasses a thorough study of the current"
-    publishedDateTime: 2022-12-14T01:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-by-product-and-geography-forecast-and-analysis-2023-to-2028-with-top-countries-data-2022-12-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -85,6 +57,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Computer Networks Market 2023 Company Challenges, Latest Advancements, Growth Prediction, and Forecast by 2028"
+    excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence in Computer Networks Market will have significant change from previous year. By the m"
+    publishedDateTime: 2022-12-13T10:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-2023-company-challenges-latest-advancements-growth-prediction-and-forecast-by-2028-2022-12-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Data and AI Ethics Market 2023 Industry Outlook, Current Status, Supply-Demand, Growth Opportunities and Top Players Analysis 2029"
+    excerpt: "Data and AI Ethics Market Research Report is spread across 104 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. Data and AI Ethics Market Size is projected to Reach Multimillion USD by 2029,"
+    publishedDateTime: 2022-12-13T12:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-2023-industry-outlook-current-status-supply-demand-growth-opportunities-and-top-players-analysis-2029-2022-12-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+  - title: "Artificial Intelligence (AI) in Automotive Market Trends 2023 Industry Size, Segments, Share, Key Players and Growth Factor Analysis by 2026"
+    excerpt: "Global “Artificial Intelligence (AI) in Automotive Market” 2023 report presents an exclusive analysis of market"
+    publishedDateTime: 2022-12-15T07:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-trends-2023-industry-size-segments-share-key-players-and-growth-factor-analysis-by-2026-2022-12-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
 
 secured: "eDuktPdw6AtDLCvdtwVg/F80M5UvdpyjIIPh2PJRdBZVaTyozaG4WbhnabUTo83zVJ1acP88bX0g+x9EqbmH1pQr3tqS0P3HMyDPq/dqNfn/OzxrDdTYlL9h/88rrslIGLak739vg6RlfIB8yY8dlEG3I3q8ll8ku2uVRfSYUHPiH9lCc1H0uxI9oWTPOqknxQfgPDnVC316tkWfHkV1SUnQXGi58tMKVxIki8Fgk08tP0BbsA0qQ4WadoIcptUJrZjDLZ7sVgMVUNla6lQrR1jM4UtR9dv3BoYhkI2uXgzzyDQ/76MhxCjnERKrig/vlEoqjLGTpAHnW3s1IfU9nZCA0AkniYPVIOu7LpTFLKw=;mz76cYv+d5brz9/fET+KUg=="
 ---

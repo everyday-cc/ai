@@ -57,22 +57,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Apple Ditching Innovation In Favor Of Pragmatism With MR Offering, Self-Driving Car, Gurman Says"
-    excerpt: "Two products in Apple Inc.’s (NASDAQ: AAPL) pipeline have seen delays and a new report suggests that the company is compromising on innovation just to get these two p"
-    publishedDateTime: 2022-12-12T11:03:00Z
-    webUrl: "https://www.benzinga.com/news/22/12/30034710/apple-ditching-innovation-in-favor-of-pragmatism-with-mr-offering-self-driving-car-gurman-says"
-    ampWebUrl: "https://www.benzinga.com/amp/content/30034710"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30034710"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 31
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2022/12/12/apple_photo_by_tishomir_on_shutterstock.jpg?width=1200&height=800&fit=crop"
-        width: 771
-        height: 514
-        isCached: true
   - title: "Apple is Ditching Full Self-Driving on its Long-Promised Car"
     excerpt: "Apple has reportedly been working towards an electric vehicle – an endeavor famed investor Carl Icahn said would serve as “the ultimate mobile device.” Part of Icahn’s bullishness on the Apple car stemmed from the rumors that it would be fully autonomous,"
     publishedDateTime: 2022-12-12T17:35:00Z
@@ -87,15 +71,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Apple scales back self-driving car and delays debut till ’26"
-    excerpt: "Apple has scaled back ambitious self-driving plans for its future electric vehicle and postponed the car’s target launch date by about a year to 2026, according to people with knowledge of the matter."
-    publishedDateTime: 2022-12-12T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/apple-scales-back-self-driving-car-and-delays-debut-till-26/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 4
 
 secured: "N+CYgUXiZL2vccNk00xUGvxARqzjvxtWpYQUwtIqwggW5fOWpPu3q2D7bQMasI2ivN/f+k1ZiIsQ4WXmaq/JwRelQ5h+23xjr1uWaNCE4Z61/OpIa19aSMqIOjfgQj+Pqg4HqwPCTnR7B+CgrC6SFbhJzJTBGOGyfuYP7LzUhaK0CswC0/x3X/nxyx1nfRIkLvL+na0dCGX0azNZpft74GMqBUUx4v7oCGqC3wNRKVXDVQ384IqXj1gFQj8Z8dAmqS0x9MPidAd1vMTMy+nv8/enEsKyt27bO+MJoNO2YLiorDXiH+RP9/rtwUYpt5AWizqsVdmbAHh/Fs5jiZebqyT+FW6FouYUdqtlu4YzfudKdw/get+j3F5rivSf4Vz0aoX3xOJVSRdWftkbdfVPDlCPvjBrJ4qdBKk4J5SyRmy0vtzJG0mAmnDZIwibeQmcU3q0MJCatsTzhXFL4PtvFv5zZa+yDGpGlxoXb8EHbtSR5RgrS+yNKxQ2n9dFHORAXHGKR2ia1a/m0d0Y+GfS4g==;CtPrEkh0o23WBbvSrP8xkg=="
 ---

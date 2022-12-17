@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Wild Future of Artificial Intelligence"
+    excerpt: "This is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here."
+    publishedDateTime: 2022-12-13T06:52:00Z
+    webUrl: "https://www.theatlantic.com/newsletters/archive/2022/12/the-wild-future-of-artificial-intelligence/672442/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 69
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/Pzfq0fUpsHS4099IKTJ1VNtFAt0=/0x440:5990x3560/1200x625/media/img/mt/2022/12/GettyImages_1289635135/original.jpg"
+        width: 1200
+        height: 625
+        isCached: true
   - title: "AI and the future of venture capital"
     excerpt: "This came in the wake of OpenAI, led by Graham protégé Sam Altman, releasing a generative AI tool that eventually could enable engineers to do more in less time. A big question is if the venture capital market on the verge of a counterintuitive dichotomy,"
     publishedDateTime: 2022-12-12T16:44:00Z

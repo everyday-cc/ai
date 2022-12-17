@@ -71,31 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Apple Ditching Innovation In Favor Of Pragmatism With MR Offering, Self-Driving Car, Gurman Says"
-    excerpt: "Two products in Apple Inc.’s (NASDAQ: AAPL) pipeline have seen delays and a new report suggests that the company is compromising on innovation just to get these two p"
-    publishedDateTime: 2022-12-12T11:03:00Z
-    webUrl: "https://www.benzinga.com/news/22/12/30034710/apple-ditching-innovation-in-favor-of-pragmatism-with-mr-offering-self-driving-car-gurman-says"
-    ampWebUrl: "https://www.benzinga.com/amp/content/30034710"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30034710"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 31
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2022/12/12/apple_photo_by_tishomir_on_shutterstock.jpg?width=1200&height=800&fit=crop"
-        width: 771
-        height: 514
-        isCached: true
-  - title: "Apple scales back self-driving car and delays debut till ’26"
-    excerpt: "Apple has scaled back ambitious self-driving plans for its future electric vehicle and postponed the car’s target launch date by about a year to 2026, according to people with knowledge of the matter."
-    publishedDateTime: 2022-12-12T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/apple-scales-back-self-driving-car-and-delays-debut-till-26/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 4
 
 secured: "/bGAzIfNewSWPsllVUuCSnQGgVPdVxopVu/D5PpP82rVsyUtmnQOcQFw0/WZL8cTmEE/1JmL/kkUutk5zjd/FvGBDJr4jbZtkDguqOfhEt2NqA4kNv5jKiR2XfbhT0n95330I49aYc3eTzsf7sCw2G/vhL/eKi7JYXL3OqNZLN43zsgdTsvW2TGU/bXnn+OhDgYMZ2HrvT/Qbb2r0NKE/cr12HjTegXL9kkNrnh7VGzeAGjzo1ee7VV01nXPizWptH0xeqwUCILMgkSV/i49SKeG87/kaZknex6EZQAdHHbRW/NJDAbDiL2LPwVbr8FLgFIsyGD/S/f8/H5ol8hvwJoQQQZQkutUQ+eqvMs09b9YdNA7GV4/5+M3e9XvmRR79EVf66n4jYZWRpqjiG9gw7fTVef2nVa8LV1AhqxT2cQFkNSjkejFN1WGtmgvz0YvqrHBH/TmjRFDeb8K0tIRoC8eXrTXur1uorISg9hhC7yCI71DDcZSVfiDGlmGhPplkSfeUOgPf1ERDWH4mpP+2Q==;gZh9APCAlEYMM6Rf3siMXQ=="
 ---

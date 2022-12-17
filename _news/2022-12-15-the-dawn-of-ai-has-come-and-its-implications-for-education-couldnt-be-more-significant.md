@@ -9,8 +9,8 @@ ampWebUrl: "https://theconversation.com/amp/the-dawn-of-ai-has-come-and-its-impl
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/the-dawn-of-ai-has-come-and-its-implications-for-education-couldnt-be-more-significant-196383"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Conversation
@@ -28,36 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Has Big Implications For Ownership In The Music Industry"
-    excerpt: "It'll be a performer whose lyrics, melodies and voice are solely created by artificial intelligence (AI). We’re already seeing hints of this with virtual artists such as metaverse avatars, hybrid performers that rely on a combination of AI and human talent."
-    publishedDateTime: 2022-12-12T12:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/artificial-intelligence-has-big-implications-for-ownership-in-the-music-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/artificial-intelligence-has-big-implications-for-ownership-in-the-music-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/artificial-intelligence-has-big-implications-for-ownership-in-the-music-industry/amp/"
+  - title: "GBT Filed a Continuation Application for its Facial and Body Recognition Patent"
+    excerpt: "GBT Technologies Inc. (OTC PINK: GTCH) (\"GBT\" or the \"Company\") with GBT Tokenize Corp. (\"GBT/Tokenize\") filed a continuation application with the United States Patent and Trademark Office for its facial and body recognition,"
+    publishedDateTime: 2022-12-14T13:52:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-gbt-filed-continuation-application-its-facial-body-recognition-/2022/12/14/9730190.htm"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63933ecc024703627d65ce91/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Meta-Indian Govt Bury the Hatchet, Unite for AI Innovation"
-    excerpt: "Using its position as the Chair of the Global Partnership for Artificial Intelligence, India has expressed its desire to collaborate with Meta as a trusted AI partner. In exchange for this, the country will put forward regulations in the GPAI forum that will incentivise innovation in the artificial intelligence field."
-    publishedDateTime: 2022-12-12T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/meta-indian-govt-bury-the-hatchet-unite-for-ai-innovation/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/Meta-To-Collaborate-With-The-Indian-Government.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "HA70BFmK9xpFVRf+E43v/p2U5OmkD2d+9J7gfEuTRVas9kdLf2QR3D+QIYiBfIruLJHoCy31H673ZkbyGjDh6GJDROXv4IWTaVPwYilp4FSKA/Lznh+brmq7SejayPCE4l6rb6tbdRal9J1cB0Fqkfq3xw/hUXnn067zNnLAKlVkw6B/pdku9d+Vbj41I/yQ/7pGAP23WaD332f5xHMHOf8F+VqZ4tWgVT7b+adJKiR2vbktxTgQXrd8W9L38GZqBBaGEHehZqiixXsB/hhqLTlT+AlMm2VeaU+BTIcJj7OGc0tXOaGlWjRUCkSF4J6XuZOHKnCnLDBSqG+vQHLbH0wJ5QY3Lji3JvLGboIfuxMnbJI3JVrJyS/Yv4twn3ECExxYFZwQAswJi/FYQdd5Jj2tw/xCKfWz6WsnWFhz3Q8oHe8oZaTViva3jOI5UhASk+ItkAGSGsCWiT3ej62kZe7kbCL9NGJ46qu/UiBdKwNAQK0G+CU/86yaZgTtIWUVhBbNemSebc1HWx4X6+RLFA==;ZlZCoxetw9mQZHk7gdDK+Q=="
 ---

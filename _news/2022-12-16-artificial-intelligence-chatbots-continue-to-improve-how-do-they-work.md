@@ -3,19 +3,27 @@ category: news
 title: "Artificial intelligence chatbots continue to improve. How do they work?"
 excerpt: "AI chatbots are a software application used to have a conversation that can take on the role of a live human, using technology."
 publishedDateTime: 2022-12-15T19:51:00Z
-originalUrl: "https://www.lex18.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work"
-webUrl: "https://www.lex18.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work"
+originalUrl: "https://www.wcpo.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work"
+webUrl: "https://www.wcpo.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work"
+ampWebUrl: "https://www.wcpo.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work?_amp=true"
+cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work?_amp=true"
 type: article
-quality: 17
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: lex18
-  domain: lex18.com
+  name: WCPO Cincinnati
+  domain: wcpo.com
 
 topics:
   - AI
+
+images:
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/fd0738b/2147483647/strip/true/crop/3360x1890+0+175/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F0f%2F48%2F1692e0d8492a82d486bd8f7c4435%2Fap22278412101213.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "ChatGPT: Why Everyone Is Obsessed This Mind-Blowing AI Chatbot"
@@ -234,6 +242,6 @@ related:
       domain: aei.org
     quality: 10
 
-secured: "JE8U9ooHYwNcz3MTi4aRuArNgJU4u+BoklBA/oEKVAiSFUDb3eULuoGaQysvKD52jlFNPD5abnrUyYiFzUQtc4SF5dpnLRaSLDlkV4Rl7K48wvfuUngUUkVA9HQ1b1RBozOFYpxmOJd+Lyo09FwbsNJ8x0b8V1MWbnL/ieORiHPb1ORFJvxsspv+yNC5mjBbmgvoH1+5JqHlUB6nSZimNMfd6aADzr7F/41evQKlklfr+CSaoqix98AaVtdO2dSQQOQLwWqBpZaszVT82K5dJh9+EoAKBm7kin2+SmRveBF/DGrlsZPDm4TAfE/xPj3TdLdwflgsYMbEERxzsw2Y6FmuRzoxP5qDXRbmzVv6HdB4WvAla4mqROkFROqXuz3PcSJw6P2rzZ43LM+Ys5qMszKe1qou1gfNBhYNe6fR3dYjpdnVLjxZJDNAyXaw24HHbNgLGrOe5nBNHvoF0H6ShGibrhIQFNNE1aiWD36YVPomoUPB2z3MTIoOfqYebTeGm3xFJoAezQQiMHvZay2PDg==;1MvwQoF1UFdHakv41dkHAw=="
+secured: "Tf7CTyNnXqyBMZUyru8X0TnHmz1+9vD7reUxJkFL3j6Zs3y2w57Z816yqhBYm5Ure9XsSPKaOhVZcKgVKrreOA73zlamV0lyX71afdnfgH/yKMdzGAvj60kGF6YeUgx2nCL5KdCC4ytYa+JNQjLTeoSLCvyrMKmHaAWXgXx750VZvUNW4obhzuOG/1o8knqu7Gd+EBEOTCMOwhX645yOnB6Mq9Tb5maDcNhkoat732ak6OiWML+tCM6f1D6qdu9kDWU1vPH6W4dNyJbFn4yT8Yhi9bky2r7CXBw17InyvaWrCIFxSOrPwuKynymhO8feRRcCEDqXnga5Fff9sTR+5V3ZxHQkYlEi+94oeP2Qz4I=;qL676aiP7Tzv1j01Kza8ag=="
 ---
 
