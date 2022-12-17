@@ -10,7 +10,7 @@ website: https://www.katecrawford.net/
 twitter:
   username: katecrawford
   url: https://twitter.com/katecrawford
-  followers: 77226
+  followers: 77223
 
 topics:
   - AI
@@ -22,6 +22,6 @@ images:
     isCached: true
     title: "Kate Crawford"
 
-secured: "32KqaNOVPhG00eA7ZwdYkxKaxHfaWKnT30jfzTpjz2qbzCvPEid/88qeoOsi7B4cuGXLROKlvvkkadpJyC8Lzdj8UP0Mvy13qEDMiPNRY83fpJ4JrQWA0mEV6mdyOGSfX0HjScKuCqIG9xtj57zwoBU8mLx0BdDFhlKInrKdclCdZmvuzzM3LJalLpkUG1dEDS1rsnPvLfdTsqEmZiUX+AzNCq1tOzwxojv8Bxezeb5vpzwMaIBzsU/GpAEqAWsaX4kSozYhPUajgvdNkj/t5td5phXBluOseVrF9YgMJ5nJTAn8jr74WGSw6AIVvWOGtWQbhXAKucuFYi61Rd/0iTVggYMAsg6v9HSJgq9TvGjPkBbDy9y+5f+VeCGR6KRBcb4Ee656MGI6Imp0f+mAjciGDNBDXp+TzJmTFNOToOQ=;vLMpYZEjPURIK2/bp2HeaA=="
+secured: "aU5T28XWir+7GPW79q4a0skUwfJ7cszl5p35kqE5hxtojrEPz79hSwfG5k2aUTkKS81z2hlPvwBKO/RUPQCMB3XVqDbDF3Kc1G/bV9VOdf03WQ2iwyRd0qVyK+7VDRpZiiDbV5EV8AcAM4+faZDjdpctXZBoYXcA3apVkwEIKEru3rnLUmdCkmil/iGveSdYLJukL7ha7vdul6wGUd3oFCIKTMkxCEgOfEaAY1qGaRNVDWjME6iux9m6jiGzP4cwfNjERvoxcvKq+KNdfph87tXGJM+A0/3/yYfo/iXvfiqHW2pScsAIcMu4vFTb6IZai4OGPbRMYX+7v7FayOuHCLEeu400NHkuvC7qHxft8ZnDjjyX7l1Dpr4JJI7rIIy9sWNOoWRUOFpFjvKycRFqjmu8Q6dNSfr152N5dr39Jm0=;+vcYqAJ5ViPwid0D75DOiw=="
 ---
 
