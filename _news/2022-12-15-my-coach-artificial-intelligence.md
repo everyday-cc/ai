@@ -26,47 +26,47 @@ images:
     isCached: true
 
 related:
-  - title: "An AI-Stretch Of The Imagination"
-    excerpt: "A key tool to de-risk innovation and democratize data. And the best thing about it, is that while businesses can innovate to the max and offer you better products and services, your privacy remains intact."
-    publishedDateTime: 2022-12-12T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-stretch-of-the-imagination/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-stretch-of-the-imagination/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-stretch-of-the-imagination/amp/"
+  - title: "AI art apps are cluttering the App Store’s Top Charts following Lensa AI’s success"
+    excerpt: "Consumer demand for Lensa AI, and for AI edits more broadly, has now pushed numerous other \"AI\" apps into the U.S. App Store's Top Charts."
+    publishedDateTime: 2022-12-12T21:37:00Z
+    webUrl: "https://techcrunch.com/2022/12/12/ai-art-apps-are-cluttering-the-app-stores-top-charts-following-lensa-ais-success/"
+    ampWebUrl: "https://techcrunch.com/2022/12/12/ai-art-apps-are-cluttering-the-app-stores-top-charts-following-lensa-ais-success/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/12/ai-art-apps-are-cluttering-the-app-stores-top-charts-following-lensa-ais-success/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 81
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61de03f0b6b2eca035a665be/0x0.jpg?format=jpg&width=1200"
+      - url: "https://techcrunch.com/wp-content/uploads/2022/12/lensa-ai-magic-avatar.jpg?resize=1200,730"
+        width: 1200
+        height: 730
+        isCached: true
+  - title: "The good and the bad of Lensa’s AI portraits"
+    excerpt: "As neat as it looks, Lensa's creations, like those from most AI-generators, aren’t free from gender, racial, and other biases."
+    publishedDateTime: 2022-12-16T15:00:00Z
+    webUrl: "https://www.popsci.com/technology/lensa-ai-portrait/"
+    ampWebUrl: "https://www.popsci.com/technology/lensa-ai-portrait/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/lensa-ai-portrait/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
+    images:
+      - url: "https://www.popsci.com/uploads/2022/12/15/lensa-harry.jpg?auto=webp"
         width: 1200
         height: 800
         isCached: true
-  - title: "Beware The Downsides Of AI Data Collection Applications"
-    excerpt: "Voice engines are building an extensive database about a user's interests, likes and dislikes, personal feelings, and even political leanings. The vendors say it is anonymous, and to a point that’s probably true."
-    publishedDateTime: 2022-12-13T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/timbajarin/2022/12/13/beware-the-downsides-of-ai-data-collection-applications/"
-    ampWebUrl: "https://www.forbes.com/sites/timbajarin/2022/12/13/beware-the-downsides-of-ai-data-collection-applications/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2022/12/13/beware-the-downsides-of-ai-data-collection-applications/amp/"
+  - title: "Lensa AI Selfies: What to Know About the Photo-Editing App Your Friends Are Using"
+    excerpt: "You've likely seen the new filter your friends have been using on social media that transforms their photos into artwork. It's called Lensa AI, and the viral photo-editing app takes your uploaded photos and creates \"magic avatars\" using your face."
+    publishedDateTime: 2022-12-12T19:30:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/lensa-ai-selfies-what-to-know-about-the-photo-editing-app-your-friends-are-using/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6397b655a8bf3d77e33405cd/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AI Will Drive The Evolution Of Human Creativity"
-    excerpt: "Social and scientific advancements are made by \"outside the box\" creative thinkers, and it is in our interest, as a society, to create tools that empower people with creative ideas and ultimately minimize the need for training or professional tools to express them."
-    publishedDateTime: 2022-12-13T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/13/ai-will-drive-the-evolution-of-human-creativity/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: CNET
+      domain: cnet.com
+    quality: 42
   - title: "Unlocking the potential of AI"
     excerpt: "If issues around privacy are addressed, AI can revolutionise business and public services by facilitating cost effective, socially beneficial outcomes"
     publishedDateTime: 2022-12-14T10:14:00Z
@@ -81,17 +81,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Using AI to Streamline the Provider-Payer Relationship"
-    excerpt: "A provider and payer share how an artificial intelligence-based platform helps them improve their information exchange and streamline utilization management."
-    publishedDateTime: 2022-12-14T13:31:00Z
-    webUrl: "https://healthitanalytics.com/features/using-ai-to-streamline-the-provider-payer-relationship"
-    ampWebUrl: "https://healthitanalytics.com/features/amp/using-ai-to-streamline-the-provider-payer-relationship"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/using-ai-to-streamline-the-provider-payer-relationship"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
 
 secured: "/+XKcDErLwwLBtWTRHdXxiT7w7ZIIxMsvMAfc6jEfcVcNMqtVw2FMjLzCgmvBxHhjv+LAOk/wlUII8YylTS+Q0gT9a1ZrIiEiHlfV4QRtZ96Lr8tFU2KUexxx5UOWyA5oRiWE/PgaPAaAmMkIbVFMyqd2l1Pzi7e2ybSrRFGFNo84SkhuJQi8zpV8fqgD8nRLQRninvj2fDpTtN3QEnfmeA97g2GmrTxuTDHMsPwUl6uWQaxmo7g06Lc1ZEMomfPoItlnl9yp/fvwIOR6oZElmf2npNIIiXQZskvboISoEu3TUspWqCmfAi1OBcv6ml9hTTFfREjiB+e/pVEYTvpqgFZfdiGzKT174ngZtDmUiA=;w/Ga4HKaCP74OyNh5+ywjg=="
 ---

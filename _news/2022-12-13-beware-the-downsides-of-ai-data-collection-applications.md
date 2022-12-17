@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/timbajarin/2022/12/13/beware-the-downsi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2022/12/13/beware-the-downsides-of-ai-data-collection-applications/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: Forbes
@@ -30,72 +30,31 @@ images:
     isCached: true
 
 related:
-  - title: "An AI-Stretch Of The Imagination"
-    excerpt: "A key tool to de-risk innovation and democratize data. And the best thing about it, is that while businesses can innovate to the max and offer you better products and services, your privacy remains intact."
-    publishedDateTime: 2022-12-12T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-stretch-of-the-imagination/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-stretch-of-the-imagination/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-stretch-of-the-imagination/amp/"
+  - title: "The dawn of AI has come, and its implications for education couldn’t be more significant"
+    excerpt: "AI models can now produce meaningful responses to exam and assignment questions. We’ll have to embrace them if we want the next few years to go smoothly."
+    publishedDateTime: 2022-12-15T02:24:00Z
+    webUrl: "https://theconversation.com/the-dawn-of-ai-has-come-and-its-implications-for-education-couldnt-be-more-significant-196383"
+    ampWebUrl: "https://theconversation.com/amp/the-dawn-of-ai-has-come-and-its-implications-for-education-couldnt-be-more-significant-196383"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/the-dawn-of-ai-has-come-and-its-implications-for-education-couldnt-be-more-significant-196383"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: The Conversation
+      domain: theconversation.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61de03f0b6b2eca035a665be/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://images.theconversation.com/files/501197/original/file-20221215-14140-h90pat.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=216&fit=crop"
+        width: 320
+        height: 216
         isCached: true
-  - title: "My Coach, Artificial Intelligence"
-    excerpt: "The mobile coach is on the rise - accelerated by the Covid pandemic. AI is now omnipresent in training and health apps. And in professional sport and marketing? Is artificial intelligence increasingly playing a leading role here as well?"
-    publishedDateTime: 2022-12-15T09:45:00Z
-    webUrl: "https://www.ispo.com/en/news-markets/my-coach-artificial-intelligence"
-    ampWebUrl: "https://www.ispo.com/en/news-markets/my-coach-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-ispo-com.cdn.ampproject.org/c/s/www.ispo.com/en/news-markets/my-coach-artificial-intelligence?amp"
+  - title: "The Download: AI objectification, and SBF charged"
+    excerpt: "When Melissa Heikkilä, our senior AI reporter, tried the new viral AI avatar app Lensa, she was hoping to get results similar to other colleagues at MIT Technology Review, who got realistic yet flattering avatars—think astronauts,"
+    publishedDateTime: 2022-12-13T13:11:00Z
+    webUrl: "https://www.technologyreview.com/2022/12/13/1064841/download-ai-objectification-sbf-charged/"
     type: article
     provider:
-      name: ISPO
-      domain: ispo.com
-    quality: 57
-    images:
-      - url: "https://www.ispo.com/sites/default/files/styles/facebook/public/2020-12/FRE_eRGB2_Dorian000898.jpg?h=1f77ac1a&itok=wzNJOQ6O"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Will Drive The Evolution Of Human Creativity"
-    excerpt: "Social and scientific advancements are made by \"outside the box\" creative thinkers, and it is in our interest, as a society, to create tools that empower people with creative ideas and ultimately minimize the need for training or professional tools to express them."
-    publishedDateTime: 2022-12-13T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/13/ai-will-drive-the-evolution-of-human-creativity/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Unlocking the potential of AI"
-    excerpt: "If issues around privacy are addressed, AI can revolutionise business and public services by facilitating cost effective, socially beneficial outcomes"
-    publishedDateTime: 2022-12-14T10:14:00Z
-    webUrl: "https://business-reporter.co.uk/technology/unlocking-the-potential-of-ai"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 39
-    images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/022/iStock-965072554.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Using AI to Streamline the Provider-Payer Relationship"
-    excerpt: "A provider and payer share how an artificial intelligence-based platform helps them improve their information exchange and streamline utilization management."
-    publishedDateTime: 2022-12-14T13:31:00Z
-    webUrl: "https://healthitanalytics.com/features/using-ai-to-streamline-the-provider-payer-relationship"
-    ampWebUrl: "https://healthitanalytics.com/features/amp/using-ai-to-streamline-the-provider-payer-relationship"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/using-ai-to-streamline-the-provider-payer-relationship"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
 
 secured: "S2SvuI0cAGJu2O0jtMnJr9kS9rc7bcIRpzkYIRNnXJXcosPMfMKupP1Vsa4WSjaLGPCXEQcGnIUtG/w7CdhLr6NmcHTthuupOSJVYV6eEs5eEdn0MBZSx3FwVHopFRLsXozLhm4pAPRS7IEnYETKSx0DGTk69srU6/woFuc6N3S4qYH27LQpP55XCYW5nmPHVR5v3DgFgl0kEG2x5zE/qE0O7pAZhgPk0t19/vCuhwm7P3d/ZH6RkdvyUvdROwgPBz4viiPS0HKZqPSTiAV0KLIwcNXwjq6G9nduEYOXhLFRvieglNpeiEzUemn9BVG80Df4UAYo8uDCM/EVmW5qZ7EkuhnaiQ8wG9iJPNCuCCIz1g8bhfl20h6ghbtGeLq0vVExtIjyHUYi5yZm2qxuBbzi5S7rHcz5/MGCZnffklstB1FVm+N6OKOK8FmL2TdYLzgndlipGMFuTKbjQ9BGuCLDhjCyK40XtfZ9GCC0lo+fdXw74Od7QhFiynyc2dGTyry05z8oNmcGFq8hgY6lZg==;74Jcp9lhZluNlUdumzLZbg=="
 ---

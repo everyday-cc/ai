@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft buys stake in London Stock Exchange, will see company move to Azure"
-    excerpt: "Microsoft has acquired a stake in the London Stock Exchange, and in return will see the financial company use the cloud firm’s technologies. The company this week announced a 10-year strategic partnership with the London Stock Exchange Group (LSEG)."
-    publishedDateTime: 2022-12-12T13:17:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-buys-stake-in-london-stock-exchange-will-see-company-move-to-azure/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 51
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/London_Stock_Exchange.2e16d0ba.fill-1200x630.jpg"
-        width: 1024
-        height: 539
-        isCached: true
   - title: "Google won't make a competitor to Microsoft Azure-powered ChatGPT, at least for now"
     excerpt: "Dean explained that Google has similar capabilities to ChatGPT but has taken a more conservative approach due to the \"reputational risk\" that could occur if things went wrong. Chatbots powered by AI are prone to bias,"
     publishedDateTime: 2022-12-14T15:09:00Z

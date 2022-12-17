@@ -35,20 +35,6 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "DeepMind Builds AI That Codes as Well as the Average Human Programmer"
-    excerpt: "In an apparent effort to put themselves out of a job, DeepMind researchers have created an AI that can write code, and it performs surprisingly well in programming challenges."
-    publishedDateTime: 2022-12-12T13:24:00Z
-    webUrl: "https://www.extremetech.com/computing/341451-deepmind-builds-ai-that-codes-as-well-as-the-average-human-programmer"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 54
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2022/12/alphacode-deepmind-640x353.jpg"
-        width: 640
-        height: 353
-        isCached: true
   - title: "Code like a Pro with DeepMind’s AlphaCode"
     excerpt: "AlphaCode generates candidate code solutions (in Python or C++) compared to GPT-3 algorithms, and filters out the bad ones."
     publishedDateTime: 2022-12-14T06:31:00Z

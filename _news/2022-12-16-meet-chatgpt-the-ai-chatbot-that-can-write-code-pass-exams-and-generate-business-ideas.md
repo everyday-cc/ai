@@ -205,15 +205,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "ChatGPT and How AI Disrupts Industries"
-    excerpt: "ChatGPT, from OpenAI, shows the power of AI to take on tasks traditionally associated with “knowledge work.” But the future won’t just involve tasks shifting from humans to machines. When technology enables more people to complete a task,"
-    publishedDateTime: 2022-12-12T13:39:00Z
-    webUrl: "https://hbr.org/2022/12/chatgpt-and-how-ai-disrupts-industries"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 17
   - title: "Becoming a chatbot: my life as a real estate AI’s human backup"
     excerpt: "For one weird year, I was the human who stepped in to make sure a property chatbot didn’t blow its cover – I was a person pretending to be a computer pretending to be a person"
     publishedDateTime: 2022-12-13T05:00:00Z
@@ -232,15 +223,6 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 17
-  - title: "Artificial intelligence chatbot can code, compose music, write essays, and more"
-    excerpt: "We will increasingly have conversations with our computers to get the information we need or get them to do what we want them to do."
-    publishedDateTime: 2022-12-12T14:00:00Z
-    webUrl: "https://www.iol.co.za/business-report/economy/artificial-intelligence-chatbot-can-code-compose-music-write-essays-and-more-965dc588-9547-42c6-9ff1-d70568ebb01b"
-    type: article
-    provider:
-      name: Independent Online
-      domain: iol.co.za
-    quality: 15
 
 secured: "XPJYbmd/ksip3r7Y5j6xeIwCBVBP8imkrGAiCHucN9ROWx3f0MwWbflHUMdgGH/SfNpDgLAN1vEZxw6HkAHCOlz5hlNI4siiwoAswqXcTNWpq6aPj1hMAJ6H9yGZF2OMAlZOnVXE78zyLBq3CIiqjcMutSdpqD0xx/D4a6mDFnqgo7EbjnQgUKzqR1usMTcG3+nWfj9JoUvktTE3iPaSK6w/GNE2hZ/qhEDjYSFlMxi5rTbEyzqsfr+z+P5BRdh8IE6wnHNZBsEjBUFhV6XUDI9dEP6NZVx66+u0p6NEd81+jxQSO/Icu77E31cbmX7QQGKU0txRjWiZkoaIJLvqmja3+KZiybEBPZfsUNnjuZw=;juJ4FLxHMlmaXWvn0AW2RQ=="
 ---

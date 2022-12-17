@@ -2,6 +2,92 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2022-09-26-augnito-records-rapid-growth-in-uk-clinical-speech-recognition-deployments-in-first-year-of-sales.md",
+      "title": "Augnito records rapid growth in UK clinical speech recognition deployments (in first year of sales)",
+      "excerpt": "Radiology departments have been the early adopters and pioneers of speech recognition technology to accommodate the ever-increasing levels of a wide variety of diagnostic reporting and the ever ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbc4i.com/business/press-releases/ein-presswire/592436200/augnito-records-rapid-growth-in-uk-clinical-speech-recognition-deployments-in-first-year-of-sales/",
+      "originalUrl": "https://www.nbc4i.com/business/press-releases/ein-presswire/592436200/augnito-records-rapid-growth-in-uk-clinical-speech-recognition-deployments-in-first-year-of-sales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.nbc4i.com/wp-content/uploads/sites/18/2022/10/Fall-Snow.jpg?w=2000&#038;ssl=1",
+          "width": 1280,
+          "height": 1008,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-26T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC4 Columbus",
+        "domain": "nbc4i.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-09-26-compared-to-hex-coin-and-vechain-feed3-provides-artificial-intelligence.md",
+      "title": "Compared to Hex Coin and VeChain, Feed3 Provides Artificial Intelligence",
+      "excerpt": "The next big innovation, Feed (FD3) will remake the web and digital world well. This will happen by permitting users to possess and maintain their data while working in a domain that is decentralized,",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/brand-stories/compared-to-hex-coin-and-vechain-feed3-provides-artificial-intelligence-11664200182119.html",
+      "originalUrl": "https://www.livemint.com/brand-stories/compared-to-hex-coin-and-vechain-feed3-provides-artificial-intelligence-11664200182119.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/09/26/600x338/08_1664200579673_1664200579839_1664200579839.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/brand-stories/compared-to-hex-coin-and-vechain-feed3-provides-artificial-intelligence/amp-11664200182119.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/compared-to-hex-coin-and-vechain-feed3-provides-artificial-intelligence/amp-11664200182119.html",
+      "publishedDateTime": "2022-09-26T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-26-machine-learning-infrastructure-as-a-service-market-size-share-and-forecast-till-2031.md",
       "title": "Machine Learning Infrastructure As A Service Market Size, Share and Forecast till 2031",
       "excerpt": "The Machine Learning Infrastructure as a Service Market has encountered significant development over the recent years",
@@ -1055,83 +1141,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-24-what-it-means-for-responsible-ai-and-why-deepmind-isnt-deploying-its-new-ai-chatbot.md",
-      "title": "What it means for responsible AI and why DeepMind isn’t deploying its new AI chatbot",
-      "excerpt": "Irving argued that the complexity of conversational AI stems from the need to account for a great deal of contextual nuance in every interaction. A system like DeepMind’s AlphaFold, he explained, is “embedded in a clear scientific task” in which “you have data like what the folded protein looks like” and “a rigorous notion of what the answer is” (such as,",
-      "sourceUrl": null,
-      "webUrl": "https://bestgamingpro.com/what-it-means-for-responsible-ai-and-why-deepmind-isnt-deploying-its-new-ai-chatbot/",
-      "originalUrl": "https://bestgamingpro.com/what-it-means-for-responsible-ai-and-why-deepmind-isnt-deploying-its-new-ai-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bestgamingpro.com/wp-content/uploads/2022/09/Why-DeepMind-isnt-deploying-its-new-AI-chatbot-—-and-what-it-means-for-responsible-AI.png",
-          "width": 600,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-24T01:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bestgamingpro",
-        "domain": "bestgamingpro.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-24-vw-group-gentravel-concept-predicts-a-true-level-5-full-self-driving-car.md",
-      "title": "VW Group Gen.Travel concept predicts a true Level 5, full self-driving car",
-      "excerpt": "What might private vehicle ownership look like in a world where driving is no longer necessary ... Voice activation and artificial intelligence can be used to control various functions.",
-      "sourceUrl": null,
-      "webUrl": "https://fox4kc.com/automotive/internet-brands/vw-group-gen-travel-concept-predicts-a-true-level-5-full-self-driving-car/",
-      "originalUrl": "https://fox4kc.com/automotive/internet-brands/vw-group-gen-travel-concept-predicts-a-true-level-5-full-self-driving-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-23T22:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WDAF-TV",
-        "domain": "fox4kc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

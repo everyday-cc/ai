@@ -21,74 +21,26 @@ topics:
   - AI
 
 related:
-  - title: "An AI-Stretch Of The Imagination"
-    excerpt: "A key tool to de-risk innovation and democratize data. And the best thing about it, is that while businesses can innovate to the max and offer you better products and services, your privacy remains intact."
-    publishedDateTime: 2022-12-12T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-stretch-of-the-imagination/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-stretch-of-the-imagination/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-stretch-of-the-imagination/amp/"
+  - title: "How AI solutions help clinics deliver better care and improve operations"
+    excerpt: "AI is a crucial tool for healthcare providers today, from revenue cycle management and patient engagement to operational efficiencies."
+    publishedDateTime: 2022-12-14T19:57:00Z
+    webUrl: "https://venturebeat.com/ai/how-ai-solutions-help-clinics-deliver-better-care-and-improve-operations/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 46
+  - title: "How AI, Automation, and Zero Trust Can Improve Enterprise Networks"
+    excerpt: "IT teams have a lot on their plates in terms of managing their organizations’ corporate networks. The good news: certain technologies can help."
+    publishedDateTime: 2022-12-16T17:06:00Z
+    webUrl: "https://www.networkworld.com/article/3683592/how-ai-automation-and-zero-trust-can-improve-enterprise-networks.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 37
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61de03f0b6b2eca035a665be/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Beware The Downsides Of AI Data Collection Applications"
-    excerpt: "Voice engines are building an extensive database about a user's interests, likes and dislikes, personal feelings, and even political leanings. The vendors say it is anonymous, and to a point that’s probably true."
-    publishedDateTime: 2022-12-13T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/timbajarin/2022/12/13/beware-the-downsides-of-ai-data-collection-applications/"
-    ampWebUrl: "https://www.forbes.com/sites/timbajarin/2022/12/13/beware-the-downsides-of-ai-data-collection-applications/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2022/12/13/beware-the-downsides-of-ai-data-collection-applications/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6397b655a8bf3d77e33405cd/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "My Coach, Artificial Intelligence"
-    excerpt: "The mobile coach is on the rise - accelerated by the Covid pandemic. AI is now omnipresent in training and health apps. And in professional sport and marketing? Is artificial intelligence increasingly playing a leading role here as well?"
-    publishedDateTime: 2022-12-15T09:45:00Z
-    webUrl: "https://www.ispo.com/en/news-markets/my-coach-artificial-intelligence"
-    ampWebUrl: "https://www.ispo.com/en/news-markets/my-coach-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-ispo-com.cdn.ampproject.org/c/s/www.ispo.com/en/news-markets/my-coach-artificial-intelligence?amp"
-    type: article
-    provider:
-      name: ISPO
-      domain: ispo.com
-    quality: 57
-    images:
-      - url: "https://www.ispo.com/sites/default/files/styles/facebook/public/2020-12/FRE_eRGB2_Dorian000898.jpg?h=1f77ac1a&itok=wzNJOQ6O"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Will Drive The Evolution Of Human Creativity"
-    excerpt: "Social and scientific advancements are made by \"outside the box\" creative thinkers, and it is in our interest, as a society, to create tools that empower people with creative ideas and ultimately minimize the need for training or professional tools to express them."
-    publishedDateTime: 2022-12-13T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/13/ai-will-drive-the-evolution-of-human-creativity/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Unlocking the potential of AI"
-    excerpt: "If issues around privacy are addressed, AI can revolutionise business and public services by facilitating cost effective, socially beneficial outcomes"
-    publishedDateTime: 2022-12-14T10:14:00Z
-    webUrl: "https://business-reporter.co.uk/technology/unlocking-the-potential-of-ai"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 39
-    images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/022/iStock-965072554.jpg"
+      - url: "https://images.idgesg.net/images/article/2022/12/digital-screen-with-encryption-data-background-big-data-with-binary-computer-code-safe-your.jpgs1024x1024wisk20cmtysnluefd7hzkzsotmeu47w5xziudegbcuvut6tosw-100935571-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
         isCached: true

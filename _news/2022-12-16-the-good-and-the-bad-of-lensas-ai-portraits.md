@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 730
         isCached: true
+  - title: "My Coach, Artificial Intelligence"
+    excerpt: "The mobile coach is on the rise - accelerated by the Covid pandemic. AI is now omnipresent in training and health apps. And in professional sport and marketing? Is artificial intelligence increasingly playing a leading role here as well?"
+    publishedDateTime: 2022-12-15T09:45:00Z
+    webUrl: "https://www.ispo.com/en/news-markets/my-coach-artificial-intelligence"
+    ampWebUrl: "https://www.ispo.com/en/news-markets/my-coach-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://www-ispo-com.cdn.ampproject.org/c/s/www.ispo.com/en/news-markets/my-coach-artificial-intelligence?amp"
+    type: article
+    provider:
+      name: ISPO
+      domain: ispo.com
+    quality: 57
+    images:
+      - url: "https://www.ispo.com/sites/default/files/styles/facebook/public/2020-12/FRE_eRGB2_Dorian000898.jpg?h=1f77ac1a&itok=wzNJOQ6O"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Lensa AI Selfies: What to Know About the Photo-Editing App Your Friends Are Using"
     excerpt: "You've likely seen the new filter your friends have been using on social media that transforms their photos into artwork. It's called Lensa AI, and the viral photo-editing app takes your uploaded photos and creates \"magic avatars\" using your face."
     publishedDateTime: 2022-12-12T19:30:00Z
@@ -51,6 +67,20 @@ related:
       name: CNET
       domain: cnet.com
     quality: 42
+  - title: "Unlocking the potential of AI"
+    excerpt: "If issues around privacy are addressed, AI can revolutionise business and public services by facilitating cost effective, socially beneficial outcomes"
+    publishedDateTime: 2022-12-14T10:14:00Z
+    webUrl: "https://business-reporter.co.uk/technology/unlocking-the-potential-of-ai"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 39
+    images:
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/022/iStock-965072554.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "34wRvdsogezl/2JKoK/cUyIkbmcvRPW2Igm0rEKj6k8OFnzTGDE/naFwsLNJSZYrbF7BEXA3q/G9Y3g/wGxdP5nELZ5mq4ZyOJnzpPNoCXdHrJhNZ0ejEgkf2K3tCHKEUYMonEHLD99ZvklTUrhIz9GL/aNWe2SqIwSC66xromrRMKOpciQh1xQvGftt9soCE9qt9fvHqk0i8phXhGYqdp63XKEY8XB3xmUsbLFez4pe+Q/g5NmhMkqVtAxL17CcpyEDY0zwriXSCpnWNDG0zNHG4mpqsZgfK41MXSsc1gHRGyqnzW7TElaIS9APnAvY2vRzBvEoGr1fdTQ3ZmmueYBKWMmEXeRrcQU4Vhz78CcEhT2JtGQ+lj9pD0vA1KX4LvAgD7rks9XrLTtlltZxxmSaw4WYPVDOXEZp5IYwRcQ62DkyZUpitD0WyzfHvm58fpd1++EpEKocNVlIBCCqgnLYmcmOf1HSp/n2PEMO/dQ7xmRf9iOV1LTgUDcHCywwgdHog5CfqNRBa+nocqm6Fw==;cL59G5NaG4IAT0JPKOKPkw=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2022-12-17T04:49:00Z
 originalUrl: "https://www.reuters.com/brandfeature/the-business-reporter/technology-hub/artificial-intelligence-is-making-dramatic-changes-in-insurance"
 webUrl: "https://www.reuters.com/brandfeature/the-business-reporter/technology-hub/artificial-intelligence-is-making-dramatic-changes-in-insurance"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.prismic.io/reuterscustomhubs/50137161-11d4-4d81-be72-47a44450aebb_tbr-ventiv-main-image.jpg?auto=compress,format"
@@ -27,6 +28,6 @@ images:
     height: 2160
     isCached: true
 
-secured: "EgzVkiF3uQxw0p6rg/TUBi79LCPVXq8+4NGyMR5gXHsGmD9laeTuPcEFUTbpJWhQgOqDf9PbrL/AZ/Gi/li3DFgVv11WhoKZ7rYf1RSsPYlNE0lxcrS3f0E3p1H6CrRIggs13O1HGcBNLcV9F9MsySN/eYdOMB4Y93LgpTggwABfW6k8DtFsUKfCJ3djgI83e0FmnVMOJXS3rlwMticUPpbVmp+40eX1WZB63JewfQ1t19pfPC7O1d4TJM1uf8+qEHBk4YsUSj2oZfVtTSLGpVKPmdiLxNrUV4v7ij1fxrOmHdZNilvbPE7FMN3Mzg10pzRYVetFspuYVh3+QtEWxRin5Hh0MAOVLFHkZyqT7C8=;RRDeN3uX1DTAUeBNlYRy1g=="
+secured: "efUK/ReyPA4OjBcG6dm+0ukVfLMKHwPyCAfNzales7jAXUsX9hfuHrW/weFfKusI8jhAGXd+ZjZcQezBYGRlFuKM5QMryVEE1uIZoys2hCtmirvzOAupAZl3/dLS73jr4BbzIgsH3rNruWP6WlPT9HN4jsOKvogoqj7fRHitibq1Jbb+Ivo0JLTc/fb81Rcg5o4j7LspHZZScRe1qH2sSMfNxYJTc8OxEmgC8mYFKvo8kfNSBz1RW6v5IRA5pbHDGa87HIUu06UNSzKvVHkfpE4kUVpI2F2oHexYudIrGyI2ZWeQub9rS7y/kTDYJF5XNVWJ/4HyYv0wPTvTlDH1MVX0MPuMs2P1kuolC8QRaScvYpL2OFcvV6xEtq9O3NMg3krdFZ/yiCHD90bqw5cNeszv4J1d0BoAVUlcg5e8exCaMs3o43RwXhDcPn1hBp/fwKngzzcUd1gCgmRvqEcoD80xKl3MRGrT1qfFvjWy/7TmAhGWhpFc3y8aXP4YjrhbORpTpyDMQcDJ+ZXyUl96Yw==;hFzNH5/dkr8FmRrnD1PlDA=="
 ---
 

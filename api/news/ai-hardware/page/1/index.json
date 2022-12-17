@@ -245,7 +245,7 @@
       "originalUrl": "https://www.cnet.com/tech/computing/chatgpt-why-everyone-is-obsessed-this-mind-blowing-ai-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 259,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -425,6 +425,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-amd-launches-rdna-3-rx-7900-xt-and-xtx-its-next-gen-gpu-and-tech.md",
+      "title": "AMD Launches RDNA 3, RX 7900 XT and XTX, Its Next-Gen GPU and Tech",
+      "excerpt": "It's the first GPU built from chiplets ... It enables AMD to add dedicated AI acceleration and improved raytracing accelerators -- a weakness it's traditionally had versus Nvidia's RTX cores ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/computing/amd-launches-rdna-3-rx-7900-xt-and-xtx-its-next-gen-gpu-and-tech/",
+      "originalUrl": "https://www.cnet.com/tech/computing/amd-launches-rdna-3-rx-7900-xt-and-xtx-its-next-gen-gpu-and-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/2a4131d4a1ba02aba09a3d7a5983127ede479eed/hub/2022/11/03/2bd5ceb3-2182-494e-8e36-9419850d260c/amd-radeon-rx-7900-series-gpu-3.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/amd-launches-rdna-3-rx-7900-xt-and-xtx-its-next-gen-gpu-and-tech/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amd-launches-rdna-3-rx-7900-xt-and-xtx-its-next-gen-gpu-and-tech/",
+      "publishedDateTime": "2022-12-12T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1414,49 +1466,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-samsung-announces-partnership-with-naver-to-develop-next-gen-ai-chips.md",
-      "title": "Samsung announces partnership with Naver to develop next-gen AI chips",
-      "excerpt": "Samsung Electronics on Tuesday announced that it has partnered with internet portal giant Naver Corporation to develop next-generation artificial intelligence (AI) chips",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/technology/samsung-announces-partnership-with-naver-to-develop-next-gen-ai-chips-122120600618_1.html",
-      "originalUrl": "https://www.business-standard.com/article/technology/samsung-announces-partnership-with-naver-to-develop-next-gen-ai-chips-122120600618_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-12/05/full/1670217737-84.jpg?im=Resize,width=480",
-          "width": 480,
-          "height": 359,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/samsung-announces-partnership-with-naver-to-develop-next-gen-ai-chips-122120600618_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/samsung-announces-partnership-with-naver-to-develop-next-gen-ai-chips-122120600618_1.html",
-      "publishedDateTime": "2022-12-06T02:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
         "images": null,
         "publishers": null,
         "authors": null

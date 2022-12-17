@@ -3,8 +3,8 @@ category: news
 title: "‘It was a gateway for people to get into electronic music’: 30 years of Warp Records’ Artificial Intelligence"
 excerpt: "Taking cues from Detroit techno and showcasing Autechre and Aphex Twin, the famed compilation found hedonism in the wind-down. As it is reissued, famous fans from then and now explain why they love it"
 publishedDateTime: 2022-12-14T17:11:00Z
-originalUrl: "https://www.theguardian.com/music/2022/dec/14/warp-records-artificial-intelligence-aphex-twin-autechre?amp;amp;amp"
-webUrl: "https://www.theguardian.com/music/2022/dec/14/warp-records-artificial-intelligence-aphex-twin-autechre?amp;amp;amp"
+originalUrl: "https://www.theguardian.com/music/2022/dec/14/warp-records-artificial-intelligence-aphex-twin-autechre"
+webUrl: "https://www.theguardian.com/music/2022/dec/14/warp-records-artificial-intelligence-aphex-twin-autechre"
 ampWebUrl: "https://amp.theguardian.com/music/2022/dec/14/warp-records-artificial-intelligence-aphex-twin-autechre"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/music/2022/dec/14/warp-records-artificial-intelligence-aphex-twin-autechre"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "VUiQpJitW5MDhDu84y3FBiekvAtyQfPL08SwJkT+5X1VZuraCu+AzMzLLaUjwLfOhJQO8kSljrGM4rQtselLDqlFjddO/Pc4z80pByR9t6AP7nAVgriNIj+KHEoVRJ3OwY9gQKMs16hEHlr8QxdlhPaV5Q1OCJ+QAW31yEYqww7XwcKccEP27H/pe3kf+4KOCFvrIrb6NUzKfeq0RxLeMhn165z/fKDSW0ED1QcUuo4m8SS+pI+egXvexVchfyofYOU5cZ/E6fWXNQ2KPw1rji4WxMojtKA3hur9h8vXj85gxNFLzC5s1FiHfFrJXLpGO8XQRz1VCVWEGrfbb3cqllItGRvGRrRnAG1PQcsCDG0=;FFcjG1hSQMG+RKPIftGs7g=="
+secured: "PXBGpyCZQTZmRoJSL3Uu/avPvVE/bNDQYJ5WujRwSJekoIpR5ucv6a+QtlMdGdMBFWChnk99W1jxFCyp10TbPqhsgYSbHCVEEDcLwsRP5VzmGDRJtQyj2QyOk18P16Q2lJoOHNNtNxG4EF7CObYhlWnWpG1LetkW812rNKndckluxRuMiz2FhHNyuTXrlZ47tk+b9s3Pecx3XhYzVybXfrh9GwMSdioV9nuG7xaNvVnz2jgOGtIWxqwdqke481QZX5150Gcc75gG0a8mVXBuNJ4Ar74baIShX0HqJe+NWHkT4lYgp2ekc9y0kBvYJDawUJmAhYDR+a0RyAVt/q533R6HQhEI2rkDATgaSvjNh7g=;naDCIekU+d8O2FbGY/FjuQ=="
 ---
 

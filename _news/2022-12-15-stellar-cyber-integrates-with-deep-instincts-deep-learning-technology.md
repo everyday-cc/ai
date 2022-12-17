@@ -53,15 +53,6 @@ related:
         width: 765
         height: 350
         isCached: true
-  - title: "HC3 Explores Cybersecurity Implications of Automation in Healthcare"
-    excerpt: "HC3’s latest brief dives into the history of automation, its uses in cybersecurity, and how it may impact healthcare."
-    publishedDateTime: 2022-12-12T13:44:00Z
-    webUrl: "https://healthitsecurity.com/news/hc3-explores-cybersecurity-implications-of-automation-in-healthcare"
-    type: article
-    provider:
-      name: IT Security
-      domain: healthitsecurity.com
-    quality: 19
 
 secured: "UPrWxlgKXhbE95nKwCxGArbfa0hA6p+BdXk35l/4JlwyHF+O7Wb3dwdJdbTCINNTt5hK/6E29ASD5yXcE1KmJNxv+p7MGV51x1XbeoI0cGtOwVoE5PdMQTcmNQXjB1iM2xuRkK2/yA1qk6NoHPZ3i6559X5tenci2PmzfAWDYZFaoZPM3jmdsHYCVP5bXTZHJGtqH7KF77/XyLulHzWNVZQ5EDWiOaRNDebb+zpY6axl3LvSz7DSpttM+shD7atiRrPonZtKaa5XOvnZ91xRz4ErSXPio8UUrZVfZEnnrDJfQ9IKLkRnxhaEbMSsrmDlNyojyGxC7Z2JcEpcXdJC1cai+2TuZLcfT+nTSePFiIgrndjLfc/tCJ4m4uFTIM7tpZrs6nhwFl9MMoR5wA+QYqr45QEO6FIpJLc4naT3FKdVolGYdFQIhKglfkc3pE5GHDGvygO5B1WfKBKnwYB5dvmecai1DCt1euLsIXOdgvpDuN7epoBfN5IGug9xVn0mgfQoOrcvBmrihI8+n0A00A==;xlg46opZ20rZ+tvYzDSiug=="
 ---

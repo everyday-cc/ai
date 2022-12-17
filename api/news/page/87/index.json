@@ -2,6 +2,92 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2022-10-01-bruce-willis-has-no-deal-with-company-that-created-his-digital-twin-rep.md",
+      "title": "Bruce Willis has no deal with company that created his 'digital twin': rep",
+      "excerpt": "Bruce Willis has retired from making movies since his aphasia diagnosis, but he may continue to be an action star. How? Well, technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/bruce-willis-may-still-appear-190942819.html",
+      "originalUrl": "https://www.aol.com/bruce-willis-may-still-appear-190942819.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-30T15:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-01-intels-self-driving-car-division-mobileye-files-for-ipo.md",
+      "title": "Intel's self-driving car division Mobileye files for IPO",
+      "excerpt": "Mobileye, an Intel-owned company that makes key processors for self-driving cars, has filed for an IPO, according to an SEC filing on Friday. The move to list Mobileye on the Nasdaq is part of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/09/30/intel-owned-mobileye-files-s-1-for-ipo.html",
+      "originalUrl": "https://www.cnbc.com/2022/09/30/intel-owned-mobileye-files-s-1-for-ipo.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106913978-16268192682021-07-20t192606z_1895303704_rc2ioo9l1187_rtrmadp_0_mobileye-autonomous.jpeg?v=1664573981",
+          "width": 3500,
+          "height": 2334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/09/30/intel-owned-mobileye-files-s-1-for-ipo.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/09/30/intel-owned-mobileye-files-s-1-for-ipo.html",
+      "publishedDateTime": "2022-09-30T15:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-01-rit-researchers-develop-humanoid-robotic-system-to-teach-tai-chi.md",
       "title": "RIT researchers develop humanoid robotic system to teach Tai Chi",
       "excerpt": "RIT researchers develop humanoid robotic system to teach Tai Chi Sep 30, 2022 (PRNewswire via COMTEX) -- PR Newswire ROCHESTER, N.Y., September 30, 2022",
@@ -1105,92 +1191,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-micron-latest-in-japan-chip-crosshairs.md",
-      "title": "Micron latest in Japan chip crosshairs",
-      "excerpt": "Japan offered a massive subsidy to Micron Technology, the country's latest move to bolster domestic semiconductor production.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/micron-latest-in-japan-chip-crosshairs/",
-      "originalUrl": "https://www.mobileworldlive.com/featured-content/top-three/micron-latest-in-japan-chip-crosshairs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mobileworldlive.com/wp-content/uploads/2020/09/Micron_Technology.jpg",
-          "width": 600,
-          "height": 376,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/top-three/micron-latest-in-japan-chip-crosshairs/amp/",
-      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/micron-latest-in-japan-chip-crosshairs/amp/",
-      "publishedDateTime": "2022-09-30T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile World Live",
-        "domain": "mobileworldlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-pg-turns-to-ai-to-create-digital-manufacturing-of-the-future.md",
-      "title": "P&G turns to AI to create digital manufacturing of the future",
-      "excerpt": "The consumer goods multinational company, with help from Microsoft, is adopting the industrial internet of things, digital twin, AI, and machine learning to transform manufacturing at scale.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/408351/pg-turns-to-ai-to-create-digital-manufacturing-of-the-future.html",
-      "originalUrl": "https://www.cio.com/article/408351/pg-turns-to-ai-to-create-digital-manufacturing-of-the-future.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/09/Vittoiro_Cretella_48569.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/408351/pg-turns-to-ai-to-create-digital-manufacturing-of-the-future.html/amp/",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/408351/pg-turns-to-ai-to-create-digital-manufacturing-of-the-future.html/amp/",
-      "publishedDateTime": "2022-09-30T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

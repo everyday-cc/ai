@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-12-06-samsung-announces-partnership-with-naver-to-develop-next-gen-ai-chips.md",
+      "title": "Samsung announces partnership with Naver to develop next-gen AI chips",
+      "excerpt": "Samsung Electronics on Tuesday announced that it has partnered with internet portal giant Naver Corporation to develop next-generation artificial intelligence (AI) chips",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/technology/samsung-announces-partnership-with-naver-to-develop-next-gen-ai-chips-122120600618_1.html",
+      "originalUrl": "https://www.business-standard.com/article/technology/samsung-announces-partnership-with-naver-to-develop-next-gen-ai-chips-122120600618_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-12/05/full/1670217737-84.jpg?im=Resize,width=480",
+          "width": 480,
+          "height": 359,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/samsung-announces-partnership-with-naver-to-develop-next-gen-ai-chips-122120600618_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/samsung-announces-partnership-with-naver-to-develop-next-gen-ai-chips-122120600618_1.html",
+      "publishedDateTime": "2022-12-06T02:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-taiwans-tsmc-will-make-3-nanometer-chips-in-12b-factory-in-arizona.md",
       "title": "Taiwan’s TSMC will make 3-nanometer chips in $12B factory in Arizona",
       "excerpt": "Check out the on-demand sessions from the Low-Code/No-Code Summit to learn how to successfully innovate and achieve efficiency by upskilling and scaling citizen developers. Watch now. Taiwanese chipmaker TSMC announced with President Joe Biden that it will build a $12 billion factory in Arizona where it will build three-nanometer chips.",
@@ -1405,49 +1448,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-28-non-snapdragon-devices-at-risk-from-gpu-exploits-that-have-already-been-patched.md",
-      "title": "Non-Snapdragon devices at risk from GPU exploits that have already been patched",
-      "excerpt": "That said, if your phone's using a Mali GPU, you might want to take extra care for the next while as plugs for some recently-disclosed security holes are still making their way across devices..",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidpolice.com/exploit-patch-gap-arm-mali-gpu-driver-project-zero-google/",
-      "originalUrl": "https://www.androidpolice.com/exploit-patch-gap-arm-mali-gpu-driver-project-zero-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/11/arm-ap-hero.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-27T12:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Police",
-        "domain": "androidpolice.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

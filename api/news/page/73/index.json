@@ -2,6 +2,110 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2022-10-13-microsoft-debuts-postgresql-support-for-cosmos-db-multiple-azure-updates.md",
+      "title": "Microsoft debuts PostgreSQL support for Cosmos DB, multiple Azure updates",
+      "excerpt": "Microsoft on Wednesday kicked off its annual Ignite conference with multiple updates to Azure cloud services including additions to its Dev Box developer environment, PostgreSQL support for Cosmos ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3676508/microsoft-adds-azure-services-postgresql-support-for-cosmos-db.html",
+      "originalUrl": "https://www.infoworld.com/article/3676508/microsoft-adds-azure-services-postgresql-support-for-cosmos-db.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2017/02/p1200405-100708005-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3676508/microsoft-adds-azure-services-postgresql-support-for-cosmos-db.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3676508/microsoft-adds-azure-services-postgresql-support-for-cosmos-db.amp.html",
+      "publishedDateTime": "2022-10-13T05:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-13-ai-transforms-linkedin-workplace-conversations.md",
+      "title": "AI Transforms LinkedIn Workplace Conversations",
+      "excerpt": "An in-the-moment diversity coaching tool from Workhuman helps employees use language that makes everyone feel at home",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/sponsored/story/ai-transforms-linkedin-workplace-conversations/",
+      "originalUrl": "https://www.wired.com/sponsored/story/ai-transforms-linkedin-workplace-conversations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/633b3c50dc2b0a44046db89d/master/pass/Workhuman_HeaderImage.jpeg",
+          "width": 5151,
+          "height": 3488,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/sponsored/story/ai-transforms-linkedin-workplace-conversations/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/sponsored/story/ai-transforms-linkedin-workplace-conversations/amp",
+      "publishedDateTime": "2022-10-13T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-13-volkswagen-to-invest-23-bln-in-china-self-driving-tech-jv.md",
       "title": "Volkswagen to Invest $2.3 Bln in China Self-Driving Tech JV",
       "excerpt": "By Joshua Kirby Volkswagen AG said Thursday that it will invest more than 2 billion euros ($1.94 billion) in a joint venture in China that aims to",
@@ -1091,109 +1195,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-pixel-7-pro-review-googles-best-flagship-phone-gets-better.md",
-      "title": "Pixel 7 Pro Review: Google's Best Flagship Phone Gets Better",
-      "excerpt": "The $899 Pixel 7 Pro may feel familiar to the 6 Pro, but it's still fantastic. Google's $899 (£849, AU$1,299) Pixel 7 Pro only has a few changes from last year's Pixel 6 Pro, but that's because a complete overhaul isn't something the company needed to do this time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/mobile/pixel-7-pro-review-googles-best-flagship-phone-gets-better/",
-      "originalUrl": "https://www.cnet.com/tech/mobile/pixel-7-pro-review-googles-best-flagship-phone-gets-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/4cf905eed562580af9097870448c30b2b61a6a13/hub/2022/10/11/045aec54-0c3c-463d-8416-a49cae733942/pixel-7-pro-watch-lanxon-promo-11.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/pixel-7-pro-review-googles-best-flagship-phone-gets-better/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/pixel-7-pro-review-googles-best-flagship-phone-gets-better/",
-      "publishedDateTime": "2022-10-12T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-fake-joe-rogan-and-steve-jobs-ai-powered-interview-freaks-out-the-internet.md",
-      "title": "Fake Joe Rogan and Steve Jobs AI-Powered Interview Freaks Out the Internet",
-      "excerpt": "A recent episode of podcast.ai pairs Jobs with Joe Rogan, whose own podcast The Joe Rogan Experience has been a runaway success. \"Hello, freak b**ches,\" the fake Rogan said in opening. \"Welcome to another episode of The Bro Jogan Experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/fake-joe-rogan-steve-jobs-ai-powered-interview-freaks-out-internet-1751275",
-      "originalUrl": "https://www.newsweek.com/fake-joe-rogan-steve-jobs-ai-powered-interview-freaks-out-internet-1751275",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2132825/steve-jobs-joe-rogan-split-photo.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/fake-joe-rogan-steve-jobs-ai-powered-interview-freaks-out-internet-1751275?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fake-joe-rogan-steve-jobs-ai-powered-interview-freaks-out-internet-1751275?amp=1",
-      "publishedDateTime": "2022-10-12T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

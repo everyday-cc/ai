@@ -2,6 +2,111 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2022-11-29-how-ai-adoption-has-yet-to-reveal-its-real-potential.md",
+      "title": "How AI adoption has yet to reveal its real potential",
+      "excerpt": "New book, Power and Prediction, says the power of AI is evident now, but widespread AI adoption has yet to come.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-ai-adoption-has-yet-to-reveal-its-real-potential/",
+      "originalUrl": "https://venturebeat.com/ai/how-ai-adoption-has-yet-to-reveal-its-real-potential/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1321461813-e1669649385546.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-ai-adoption-has-yet-to-reveal-its-real-potential/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-adoption-has-yet-to-reveal-its-real-potential/amp/",
+      "publishedDateTime": "2022-11-28T09:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-could-amazon-be-replacing-recruiters-with-artificial-intelligence-software.md",
+      "title": "Could Amazon Be Replacing Recruiters With Artificial Intelligence Software?",
+      "excerpt": "According to a confidential internal document viewed by Recode, Amazon has been working on an Automated Applicant Evaluation system that will determine which job applicants possess the most potential for success.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackkelly/2022/11/28/could-amazon-be-replacing-recruiters-with-artificial-intelligence-software/",
+      "originalUrl": "https://www.forbes.com/sites/jackkelly/2022/11/28/could-amazon-be-replacing-recruiters-with-artificial-intelligence-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6384fda39f75f08c7a459796/0x0.jpg?format=jpg&crop=4594,2583,x0,y123,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2022/11/28/could-amazon-be-replacing-recruiters-with-artificial-intelligence-software/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2022/11/28/could-amazon-be-replacing-recruiters-with-artificial-intelligence-software/amp/",
+      "publishedDateTime": "2022-11-28T09:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-28-deploy-an-mlops-solution-that-hosts-your-model-endpoints-in-aws-lambda.md",
       "title": "Deploy an MLOps solution that hosts your model endpoints in AWS Lambda",
       "excerpt": "In 2019, Amazon co-founded the climate pledge. The pledge’s goal is to achieve net zero carbon by 2040. This is 10 years earlier than the Paris agreement outlines. Companies who sign up are committed to regular reporting, carbon elimination, and credible offsets. At the time of this writing, 377 companies",
@@ -1038,92 +1143,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-28-klotho-protein-levels-protect-against-cognitive-decline-in-alzheimer-patients.md",
-      "title": "Klotho protein levels protect against cognitive decline in Alzheimer patients",
-      "excerpt": "The lack of this protein within the brains of klotho knockout mice led to cognitive deficits, premature death, and synaptic loss. Conversely, the overexpression of the Klotho protein in mice is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20221127/Klotho-protein-levels-protect-against-cognitive-decline-in-Alzheimer-patients.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20221127/Klotho-protein-levels-protect-against-cognitive-decline-in-Alzheimer-patients.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_732076_16695937424557873.jpg",
-          "width": 1000,
-          "height": 556,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-27T17:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-28-enzyme-drives-cognitive-decline-in-mice-provides-new-target-for-alzheimers.md",
-      "title": "Enzyme drives cognitive decline in mice, provides new target for Alzheimer's",
-      "excerpt": "Enhanced activity of Alzheimer disease-associated variant of protein kinase Cα drives cognitive decline in a mouse model. Nature Communications , 2022; 13 (1) DOI: 10.1038/s41467-022-34679-7 Cite ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221128162143.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221128162143.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-27T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -208,15 +208,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "ChatGPT and How AI Disrupts Industries"
-    excerpt: "ChatGPT, from OpenAI, shows the power of AI to take on tasks traditionally associated with “knowledge work.” But the future won’t just involve tasks shifting from humans to machines. When technology enables more people to complete a task,"
-    publishedDateTime: 2022-12-12T13:39:00Z
-    webUrl: "https://hbr.org/2022/12/chatgpt-and-how-ai-disrupts-industries"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 17
   - title: "ChatGPT Is a Tipping Point for AI"
     excerpt: "With ChatGPT and other AI models that can communicate in plain English, write and revise text, and write code, the technology is suddenly becoming more useful to a broader population of people. This has huge implications."
     publishedDateTime: 2022-12-14T13:05:00Z
@@ -226,15 +217,6 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 17
-  - title: "Artificial intelligence chatbot can code, compose music, write essays, and more"
-    excerpt: "We will increasingly have conversations with our computers to get the information we need or get them to do what we want them to do."
-    publishedDateTime: 2022-12-12T14:00:00Z
-    webUrl: "https://www.iol.co.za/business-report/economy/artificial-intelligence-chatbot-can-code-compose-music-write-essays-and-more-965dc588-9547-42c6-9ff1-d70568ebb01b"
-    type: article
-    provider:
-      name: Independent Online
-      domain: iol.co.za
-    quality: 15
   - title: "Meet ChatGPT: The AI Chatbot That Can Write Code, Pass Exams, and Generate Business Ideas"
     excerpt: "OpenAI's ChatGPT chatbot has advanced AI technology with its ability to generate original, human-like responses. However, there are significant ethical concerns to consider, including the potential for incorrect or fictitious answers and bias in decision-making."
     publishedDateTime: 2022-12-16T11:00:00Z

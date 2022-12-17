@@ -2,6 +2,100 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2022-10-14-artificial-intelligence-ai-in-agriculture-market-size-share-and-forecast-till-2028.md",
+      "title": "Artificial Intelligence (AI) in Agriculture Market Size, Share and Forecast till 2028",
+      "excerpt": "The \"Artificial Intelligence (AI) in Agriculture Market\" for the manufacturer's goods consists of the following factors: shipping, pricing, gross profit margin, revenue, company distribution, and interview history.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-size-share-and-forecast-till-2028-2022-10-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-size-share-and-forecast-till-2028-2022-10-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-14T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-14-ai-language-models-show-bias-against-people-with-disabilities.md",
+      "title": "AI language models show bias against people with disabilities",
+      "excerpt": "Natural language processing (NLP) is a sort of artificial intelligence that allows machines to utilise written and spoken phrases in a variety of appl..",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-language-models-show-bias-against-people-with-disabilities/94855381",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-language-models-show-bias-against-people-with-disabilities/94855381",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-94855381,imgsize-23140,width-1200,height-628,overlay-etcio/ai-language-models-show-bias-against-people-with-disabilities.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-language-models-show-bias-against-people-with-disabilities/94855381",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-language-models-show-bias-against-people-with-disabilities/94855381",
+      "publishedDateTime": "2022-10-14T02:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cio.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-14-singapore-identifies-ai-iot-as-emerging-key-skillsets-with-infrastructure-support-set-for-displacement.md",
       "title": "Singapore identifies AI, IoT as emerging key skillsets, with infrastructure support set for displacement",
       "excerpt": "G, cloud computing, artificial intelligence, and Internet of Things are amongst industry trends that Singapore believes will drive demand for skillsets over the next three to five years, while roles in infrastructure and operations are at risk of displacement and require reskilling.",
@@ -1094,110 +1188,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-microsoft-debuts-postgresql-support-for-cosmos-db-multiple-azure-updates.md",
-      "title": "Microsoft debuts PostgreSQL support for Cosmos DB, multiple Azure updates",
-      "excerpt": "Microsoft on Wednesday kicked off its annual Ignite conference with multiple updates to Azure cloud services including additions to its Dev Box developer environment, PostgreSQL support for Cosmos ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3676508/microsoft-adds-azure-services-postgresql-support-for-cosmos-db.html",
-      "originalUrl": "https://www.infoworld.com/article/3676508/microsoft-adds-azure-services-postgresql-support-for-cosmos-db.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2017/02/p1200405-100708005-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3676508/microsoft-adds-azure-services-postgresql-support-for-cosmos-db.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3676508/microsoft-adds-azure-services-postgresql-support-for-cosmos-db.amp.html",
-      "publishedDateTime": "2022-10-13T05:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-ai-transforms-linkedin-workplace-conversations.md",
-      "title": "AI Transforms LinkedIn Workplace Conversations",
-      "excerpt": "An in-the-moment diversity coaching tool from Workhuman helps employees use language that makes everyone feel at home",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/sponsored/story/ai-transforms-linkedin-workplace-conversations/",
-      "originalUrl": "https://www.wired.com/sponsored/story/ai-transforms-linkedin-workplace-conversations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/633b3c50dc2b0a44046db89d/master/pass/Workhuman_HeaderImage.jpeg",
-          "width": 5151,
-          "height": 3488,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/sponsored/story/ai-transforms-linkedin-workplace-conversations/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/sponsored/story/ai-transforms-linkedin-workplace-conversations/amp",
-      "publishedDateTime": "2022-10-13T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

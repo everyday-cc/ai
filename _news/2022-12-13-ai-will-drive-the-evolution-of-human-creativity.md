@@ -22,79 +22,20 @@ topics:
   - AI
 
 related:
-  - title: "An AI-Stretch Of The Imagination"
-    excerpt: "A key tool to de-risk innovation and democratize data. And the best thing about it, is that while businesses can innovate to the max and offer you better products and services, your privacy remains intact."
-    publishedDateTime: 2022-12-12T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-stretch-of-the-imagination/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-stretch-of-the-imagination/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-stretch-of-the-imagination/amp/"
+  - title: "Is AI A Risk To Creativity? The Answer Is Not So Simple"
+    excerpt: "As AI continues to advance, some may be wondering whether or not AI is a risk or a resource. But the answer isn't so simple."
+    publishedDateTime: 2022-12-12T16:00:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/is-ai-a-risk-to-creativity-the-answer-is-not-so-simple/439525"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61de03f0b6b2eca035a665be/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1670516007-GettyImages-1359993111.jpg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "Beware The Downsides Of AI Data Collection Applications"
-    excerpt: "Voice engines are building an extensive database about a user's interests, likes and dislikes, personal feelings, and even political leanings. The vendors say it is anonymous, and to a point that’s probably true."
-    publishedDateTime: 2022-12-13T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/timbajarin/2022/12/13/beware-the-downsides-of-ai-data-collection-applications/"
-    ampWebUrl: "https://www.forbes.com/sites/timbajarin/2022/12/13/beware-the-downsides-of-ai-data-collection-applications/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2022/12/13/beware-the-downsides-of-ai-data-collection-applications/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6397b655a8bf3d77e33405cd/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "My Coach, Artificial Intelligence"
-    excerpt: "The mobile coach is on the rise - accelerated by the Covid pandemic. AI is now omnipresent in training and health apps. And in professional sport and marketing? Is artificial intelligence increasingly playing a leading role here as well?"
-    publishedDateTime: 2022-12-15T09:45:00Z
-    webUrl: "https://www.ispo.com/en/news-markets/my-coach-artificial-intelligence"
-    ampWebUrl: "https://www.ispo.com/en/news-markets/my-coach-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-ispo-com.cdn.ampproject.org/c/s/www.ispo.com/en/news-markets/my-coach-artificial-intelligence?amp"
-    type: article
-    provider:
-      name: ISPO
-      domain: ispo.com
-    quality: 57
-    images:
-      - url: "https://www.ispo.com/sites/default/files/styles/facebook/public/2020-12/FRE_eRGB2_Dorian000898.jpg?h=1f77ac1a&itok=wzNJOQ6O"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Unlocking the potential of AI"
-    excerpt: "If issues around privacy are addressed, AI can revolutionise business and public services by facilitating cost effective, socially beneficial outcomes"
-    publishedDateTime: 2022-12-14T10:14:00Z
-    webUrl: "https://business-reporter.co.uk/technology/unlocking-the-potential-of-ai"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 39
-    images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/022/iStock-965072554.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Using AI to Streamline the Provider-Payer Relationship"
-    excerpt: "A provider and payer share how an artificial intelligence-based platform helps them improve their information exchange and streamline utilization management."
-    publishedDateTime: 2022-12-14T13:31:00Z
-    webUrl: "https://healthitanalytics.com/features/using-ai-to-streamline-the-provider-payer-relationship"
-    ampWebUrl: "https://healthitanalytics.com/features/amp/using-ai-to-streamline-the-provider-payer-relationship"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/using-ai-to-streamline-the-provider-payer-relationship"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
 
 secured: "5bZGSUCpwa2OtUpOIa+4dZToEuWy25OjZ25FFO0FIQgzzM3wfeJnwKkXkEvjqjJ6kfwaJe9/i/spJcJm1bEQT3XBlfH78FC2pxu+/gpU7zIuJ7Xa0AZVT+yob1IUn9f6mkDNLhIF/Njqq5Y9sa+FiBRjD6x8llhe2dCIqwzFbQ73BPt2MSPNR1ScQoCs6OqPm1634W7+TmJAgjXtgKq470M3cukdzn/XlZa5JPrc5UTG6w7tFB0vnry93eMokKnpkw9cr3QquIiN6kfdbqm68o8nj3A8SBeAqb3Ophoq+E6z0I12fBtx9WKrpV4z6G6HH4x9LdTXk7UHWUFTjO4GOKnuuAZcikaTtXZCGe2+D5XhUrQEWuEG2NKdE2Y+AjCwhaJ7NhxUfW/OwvDuPA0mfWeUjpsqdU3bt9MfIEggOMaIlDe7R41HvDplHnGSZy+X1WgmW2fR5RqZE03d5jXPuD1ekHRgbhWkAJAXUFI5E/ggDGDHYcVoZKXUOY8YsBk02A5V+mt+7qpaB4ZxEce/WQ==;MBTKd+bpDLZQTyu1T2XBRQ=="
 ---

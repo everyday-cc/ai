@@ -18,17 +18,6 @@ topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "Livento Group (NUGN) Signs A Binding LOI to Acquire a Company That Specializes in AI and Robotics Software Development"
-    excerpt: "We are excited to announce that we finalized our due diligence and valuation negotiations,” commented David Stybr Livento Group CEO. “We are at the stage where we have confirmed our intentions in the transaction,"
-    publishedDateTime: 2022-12-12T14:22:00Z
-    webUrl: "https://apnews.com/article/europe-business-european-union-e726855a0012903bc508ebf108415a54"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 25
-
 secured: "0+I/PlPDDDxeQkcmmZPFFPce2hdMOH42Y7TB0BYfpJhXOyRvf3k+DKHpaE0Far6ss+qWIEPiP7lR0jdRQKouOhLGl6OJsq4j844qrDq194kiL4LLzoWFDLuWm/p1mL1kpOHKBcbUZHl6K5VZ852VDFWb8YpneNFRTxK/FZZG3TbJIGqAJ1KeKHJdMEhaKi3IFvzVzaLh2zFRgQKC6e8RV/eJAkMC1RZUYuZPAh+4nMjNn3ts4KcKLbMhS+0e8GJpDNMuTQM9ZM2xdFAj2TBbywLAVGKx8Inh9A6oNXEHN3p4J2TYAI8sn/A+zSewMRA2lVZKImTIpNIAnd2RliIyRyMNrQQkEHeRmwKvmrFjVYn+YlkIW9O3fm/EY66qU9cmSv5hcOAzeZAfL8SDokRUrMFK3ed0l10JsbTU9hPWBaAxQvTr5a6dy6aEEE7u1uj8iK2xOeY6w6FRcLWOhQpo3lJ2+NZktu7mQhwJRuHTKBQlVcoRfvS/ROttaT9FafeMuIpnfJtidOE+FGPvxM2q+w==;ol4aU8CqB7ZaYilBTtNKsQ=="
 ---
 

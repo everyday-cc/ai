@@ -495,50 +495,6 @@
       ]
     },
     {
-      "path": "_news/2022-12-15-the-dawn-of-ai-has-come-and-its-implications-for-education-couldnt-be-more-significant.md",
-      "title": "The dawn of AI has come, and its implications for education couldn’t be more significant",
-      "excerpt": "AI models can now produce meaningful responses to exam and assignment questions. We’ll have to embrace them if we want the next few years to go smoothly.",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/the-dawn-of-ai-has-come-and-its-implications-for-education-couldnt-be-more-significant-196383",
-      "originalUrl": "https://theconversation.com/the-dawn-of-ai-has-come-and-its-implications-for-education-couldnt-be-more-significant-196383",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/501197/original/file-20221215-14140-h90pat.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=216&fit=crop",
-          "width": 320,
-          "height": 216,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/the-dawn-of-ai-has-come-and-its-implications-for-education-couldnt-be-more-significant-196383",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/the-dawn-of-ai-has-come-and-its-implications-for-education-couldnt-be-more-significant-196383",
-      "publishedDateTime": "2022-12-14T18:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
       "path": "_news/2022-12-15-bank-of-america-names-the-tech-stocks-set-to-benefit-from-a-driverless-car-boom.md",
       "title": "Bank of America names the tech stocks set to benefit from a driverless car boom",
       "excerpt": "Once considered the stuff of science fiction, Bank of America says self-driving cars now have \"real-world visibility.\" The \"feasibility\" of autonomous vehicles has risen significantly in the past decade,",
@@ -739,7 +695,7 @@
       "originalUrl": "https://www.cnet.com/tech/computing/chatgpt-why-everyone-is-obsessed-this-mind-blowing-ai-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 259,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -1221,6 +1177,49 @@
         "AI in Autos",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-facial-recognition-system-rollout-at-indian-airports-raises-privacy-concerns.md",
+      "title": "Facial recognition system rollout at Indian airports raises privacy concerns",
+      "excerpt": "Since December 2, the Union Ministry of Civil Aviation has started using facial recognition technology for airport security. Airports will now allow travellers to pass through various checkpoints – entry,",
+      "sourceUrl": null,
+      "webUrl": "https://scroll.in/article/1038975/facial-recognition-system-rollout-at-indian-airports-raises-privacy-concerns",
+      "originalUrl": "https://scroll.in/article/1038975/facial-recognition-system-rollout-at-indian-airports-raises-privacy-concerns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s01.sgp1.cdn.digitaloceanspaces.com/book/156735-fcmoyjrqax-1616694153.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scroll.in/article/1038975/facial-recognition-system-rollout-at-indian-airports-raises-privacy-concerns",
+      "cdnAmpWebUrl": "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1038975/facial-recognition-system-rollout-at-indian-airports-raises-privacy-concerns",
+      "publishedDateTime": "2022-12-13T19:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scroll",
+        "domain": "scroll.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],
