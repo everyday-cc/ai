@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2022/12/16/business/gm-cruise-self-driving-c
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/16/business/gm-cruise-self-driving-cars-investigation.amp.html"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -56,22 +56,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 40
-  - title: "These Mini, Futuristic Self-Driving Taxis Might Be the Future of Urban Transportation"
-    excerpt: "The first-to-market opportunity for those that get it right could be one of the biggest in decades. Self-driving taxis provide a multibillion-dollar market opportunity because they effectively take the costs associated with paying drivers out of the global $200 billion taxi and ride-share market."
-    publishedDateTime: 2022-12-12T15:43:00Z
-    webUrl: "https://www.benzinga.com/news/22/12/30044835/these-mini-futuristic-self-driving-taxis-might-be-the-future-of-urban-transportation"
-    ampWebUrl: "https://www.benzinga.com/amp/content/30044835"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30044835"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2022/12/12/0000000000000000.png?width=1200&height=800&fit=crop"
-        width: 793
-        height: 529
-        isCached: true
   - title: "Why GM's self-driving robotaxis are facing a federal probe"
     excerpt: "The probe of GM's Cruise comes as federal regulations for self-driving cars remain unclear and the business case for them remains unproven, Axios' Joann Muller writes. Driving the news: The Cruise vehicles are being reviewed because they \"may engage in inappropriately hard braking or become immobilized while operating,"
     publishedDateTime: 2022-12-16T15:41:00Z

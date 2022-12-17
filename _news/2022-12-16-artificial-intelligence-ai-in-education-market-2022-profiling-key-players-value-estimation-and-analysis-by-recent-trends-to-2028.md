@@ -52,20 +52,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Neural Network Software market research report forecasts market size by type, application, and region."
-    excerpt: "The “ Neural Network Software market research report\" main objective is to give Neural Network Software market players an understanding of the post-COVID-19 effect so they can evaluate their business plans."
-    publishedDateTime: 2022-12-12T15:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-neural-network-software-market-research-report-forecasts-market-size-by-type-application-and-region-2022-12-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI In Medical Imaging Market Size, Share, Growth, Revenue, Demand, Future opportunity, analysis and forecast till 2028"
     excerpt: "AI In Medical Imaging Market\" Research Report explains how the market growth has been unfolding over the recent past"
     publishedDateTime: 2022-12-14T10:35:00Z

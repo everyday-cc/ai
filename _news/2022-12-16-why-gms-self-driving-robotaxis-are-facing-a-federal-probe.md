@@ -66,22 +66,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 40
-  - title: "These Mini, Futuristic Self-Driving Taxis Might Be the Future of Urban Transportation"
-    excerpt: "The first-to-market opportunity for those that get it right could be one of the biggest in decades. Self-driving taxis provide a multibillion-dollar market opportunity because they effectively take the costs associated with paying drivers out of the global $200 billion taxi and ride-share market."
-    publishedDateTime: 2022-12-12T15:43:00Z
-    webUrl: "https://www.benzinga.com/news/22/12/30044835/these-mini-futuristic-self-driving-taxis-might-be-the-future-of-urban-transportation"
-    ampWebUrl: "https://www.benzinga.com/amp/content/30044835"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30044835"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2022/12/12/0000000000000000.png?width=1200&height=800&fit=crop"
-        width: 793
-        height: 529
-        isCached: true
   - title: "Feds Looking Into Cruise Self-Driving Taxis That Suddenly Stop and Clog Roads"
     excerpt: "Widespread attention for Cruise \"swarms\" and crashes involving robotaxis have prompted officials to look into the driverless cars."
     publishedDateTime: 2022-12-16T15:40:00Z

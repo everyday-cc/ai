@@ -1,26 +1,20 @@
 ---
 category: news
 title: "AI21 Jurassic-1 Foundation Model Now Available on Amazon SageMaker"
-excerpt: "SageMaker provides a curated list of foundation models that are pre-trained, cutting down on expenses and time for customers, while being hosted and deployed securely on Amazon's AWS platform."
-publishedDateTime: 2022-12-08T17:08:00Z
-originalUrl: "https://www.ksn.com/business/press-releases/cision/20221208LN60463/ai21-jurassic-1-foundation-model-now-available-on-amazon-sagemaker/"
-webUrl: "https://www.ksn.com/business/press-releases/cision/20221208LN60463/ai21-jurassic-1-foundation-model-now-available-on-amazon-sagemaker/"
+excerpt: "AI21 Labs, an Israeli startup aiming to fundamentally change the way people read and write using Generative AI, announced today that its Jurassic-1 Foundation Model used to power chatbots, answer questions,"
+publishedDateTime: 2022-12-08T16:54:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/12/08/9727397.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/12/08/9727397.htm"
 type: article
 
 provider:
-  name: ksn.com
-  domain: ksn.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://i0.wp.com/www.ksn.com/wp-content/uploads/sites/13/2021/11/RAW-ILLUMINATION-BOTANICA_frame_14133.jpg?w=2000&#038;ssl=1"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "vb3lv2JpqA/I/Jqdtod9fOtVOWRMnjmmySbfsmRCMhGqrco4FzVILxyL6fmXW+7ZmqKNWxBMbcqMkz/gH7pwtJlhi54FKxJYArv7YBG01HXsUJkSpVGkPCndcgkacHFhw8nd/4wlQseidI3C01iy+X7WqC6PktYQmkdcs/2V8VSgb7x/idLH3HKIzHm39ZuPjxuQc6Tqi4tOuYnivicBIwniRtzIHcQl3pF7eBGLUvvdvKE4TixG1VmM6f+y/L6ZmRw9j7WGYfKN4wV/4Pueo1XfjHEjtvUE5n8cjNx1ZrUTVHRHRvaL05/+dD2Bp+PqjQyvfwn9fq/rN6UvTPoMbSkzrJ2+57wPHnwhveqE3kI=;ApRHLe4Yj8y6hSuqbPnJ3g=="
+secured: "iTIiPL4bmaUOcmL0cYsjvIMcj8MgP5S/qAqFx+7gBEhjb4qIB58S/FQvdy1PFChLmpX+QCT63F/XrWyDnLp/XuTyKh5kBp+Uike8wdRp8k7aunLwQvQwfOgF697ZMKenNm9eqeJglU2k1uGWrwwQK3GcRpShuL3WJZoadA+inpqVPjGwl6rdZrj8zX9lZ4Nh2udPk1T4lOzkvdLZYTjyP/mFtgRhlvp777+6ShVZJ3XuUH0N6jwY4W9lk/NzZxkl9pdyYtAkJk21uRKW7JR8WoKgOePirInPPeCbf3wwOtBL4mnlms5j51EQuxJqdm+I2u99BHGmMcZUjCWB8kANXo1H4ce1a4FVvRoouLgu6Rc=;uc82U4Xnsin26Xe1aSEkCg=="
 ---
 

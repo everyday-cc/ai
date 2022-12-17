@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/large-language-models-broaden-ais-reach-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/large-language-models-broaden-ais-reach-in-industry-and-enterprises/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,24 +30,6 @@ images:
     width: 1200
     height: 745
     isCached: true
-
-related:
-  - title: "Large language model expands natural language understanding, moves beyond English"
-    excerpt: "Cohere released its natural language LLM that understands over 100 languages in a step toward multilingual content moderation."
-    publishedDateTime: 2022-12-12T15:07:00Z
-    webUrl: "https://venturebeat.com/ai/large-language-model-expands-natural-language-understanding-moves-beyond-english/"
-    ampWebUrl: "https://venturebeat.com/ai/large-language-model-expands-natural-language-understanding-moves-beyond-english/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/large-language-model-expands-natural-language-understanding-moves-beyond-english/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 71
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1367728606-e1645809619993.jpg?fit=800%2C547&strip=all"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "bIrVadxmqFImjU7cvlTQLvHzX5ZTo7lKKDwBg1PlnXM6vPTlmp8cowVUvIrdxLY+YYW8cEr0dTsaUFA5hkkmutwWLurIWeq+SfXEqMeseHs70u5wOrK1XaN8KJR7YqmaN+pXdc+vkxzpzg9LcFjuFhlt/SU4CIk7zvz3ei2Z4PwAHzndUH+K6OYzDVjQ6/t4sfR1+oLFSgIN4MUkDO503FN6BHDDHjD7pIdqWE1RxjhFs8izOVQmv25v0+lnxNI5theN1RAxl1bimiUL4Lnyg98KOz/P4rXXazFrZedsZhsFRBT0XvrPrbp74eU5lFEFG8w3gFcSb/93u9EFzR4HIgH9zzXi4lh8Bpi1s8SOiYWSX0AMfvrVh68RqEZqN73/dUkkLEtL8o+7e49DHs07ziJZ8ZR9Vedc7sXRkyWRbqX8J+hhNDJ0SzBeBhCc88Ip3Hf/ElJS/Q8naJTG76rP+KrXY58yEoUnNQOgKAizyy+wPSKXGaUK1AtKQayMY8Y+zOF73+r2iL/4pO+R+9ANoA==;a+uOngoPz2JyMf/lGh1NbA=="
 ---

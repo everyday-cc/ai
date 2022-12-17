@@ -28,22 +28,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Global Artificial Intelligence Chipsets Market Report 2022 To 2027: Increasing Focus On Developing Human-Aware AI Systems Presents Opportunities"
-    excerpt: "The 'global artificial intelligence chipsets market (2022-2027) by hardware, technology, function, end-user industry, geography, competitive analysis and the impact of covid-19 with ansoff analysis' report has been added to ResearchAndMarkets."
-    publishedDateTime: 2022-12-12T16:19:00Z
-    webUrl: "https://menafn.com/1105298401/Global-Artificial-Intelligence-Chipsets-Market-Report-2022-To-2027-Increasing-Focus-On-Developing-Human-Aware-AI-Systems-Presents-Opportunities"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 15
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?738218"
-        width: 502
-        height: 250
-        isCached: true
-
 secured: "5OGuB6E0PcaFHSMRsX2lXGB2JQDihJhZlYYucAdQiBKsrL3ERrc1dhk5L9pXwTuTuOY6zq+IQxarP5l6EHzHuDfPhGzbNuGh7G9HTisQThLcccAzSkcKqyZrpLMOoDTURlJ7AINH/YDqcWvIgZDPA/Qj1u2UNlyqpcQzWGYj7anaEDGdoJWmcRfzZcOC5XXl/+Mx6twnFDGd8ZjEli/vhkxJwB/oBM3yb0/6NINejgB7vKPd/Fx/XrKBmbOe9iYJpugigaYZsAjdorvDLWLPhCvzBbroe2Rv5CCIO7D23K3SwGiZd90brZFS0bEPGEsnCfCrqdamlcJHvTuMEuU3bufpEdegeJJAb+N6PcJ90mc=;PGQuP8x89eAqMprCT5anJQ=="
 ---
 

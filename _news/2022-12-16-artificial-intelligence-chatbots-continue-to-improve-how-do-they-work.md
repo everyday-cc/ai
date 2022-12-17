@@ -2,19 +2,19 @@
 category: news
 title: "Artificial intelligence chatbots continue to improve. How do they work?"
 excerpt: "AI chatbots are a software application used to have a conversation that can take on the role of a live human, using technology."
-publishedDateTime: 2022-12-15T19:51:00Z
-originalUrl: "https://www.wcpo.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work"
-webUrl: "https://www.wcpo.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work"
-ampWebUrl: "https://www.wcpo.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work?_amp=true"
-cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work?_amp=true"
+publishedDateTime: 2022-12-15T20:46:00Z
+originalUrl: "https://www.10news.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work"
+webUrl: "https://www.10news.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work"
+ampWebUrl: "https://www.10news.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work?_amp=true"
+cdnAmpWebUrl: "https://www-10news-com.cdn.ampproject.org/c/s/www.10news.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work?_amp=true"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: WCPO Cincinnati
-  domain: wcpo.com
+  name: ABC 10 News
+  domain: 10news.com
 
 topics:
   - AI
@@ -154,20 +154,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Is ChatGPT the start of the AI revolution? 聊天機器人ChatGPT 將掀起人工智慧革命？"
-    excerpt: "Have you heard of ChatGPT yet? It’s a thrilling, vexing, ontologically mesmerizing new technology created by the research group OpenAI. It can solve all your problems and answer all your questions. Or at least it will try to."
-    publishedDateTime: 2022-12-12T16:00:00Z
-    webUrl: "https://www.taipeitimes.com/News/lang/archives/2022/12/13/2003790595"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 37
-    images:
-      - url: "https://www.taipeitimes.com/images/2022/12/13/P14-221213-340.jpg"
-        width: 800
-        height: 800
-        isCached: true
   - title: "This AI Platform will Change the Future of Generative AI – And it’s Not ChatGPT"
     excerpt: "As the fervour around AI text and image generators grew, another startup developing AI content called Jasper raised USD 125 million in October this year pulling the company’s valuation to USD 1.5 bill"
     publishedDateTime: 2022-12-14T09:48:00Z
@@ -224,6 +210,6 @@ related:
       domain: aei.org
     quality: 10
 
-secured: "Tf7CTyNnXqyBMZUyru8X0TnHmz1+9vD7reUxJkFL3j6Zs3y2w57Z816yqhBYm5Ure9XsSPKaOhVZcKgVKrreOA73zlamV0lyX71afdnfgH/yKMdzGAvj60kGF6YeUgx2nCL5KdCC4ytYa+JNQjLTeoSLCvyrMKmHaAWXgXx750VZvUNW4obhzuOG/1o8knqu7Gd+EBEOTCMOwhX645yOnB6Mq9Tb5maDcNhkoat732ak6OiWML+tCM6f1D6qdu9kDWU1vPH6W4dNyJbFn4yT8Yhi9bky2r7CXBw17InyvaWrCIFxSOrPwuKynymhO8feRRcCEDqXnga5Fff9sTR+5V3ZxHQkYlEi+94oeP2Qz4I=;qL676aiP7Tzv1j01Kza8ag=="
+secured: "d7vOVj90pkjPhWtyUL3fn1yCxL7uU2p2T+3wQ342CH+fsjg6GMLHQL3g0hO/o/F55dya46xmC4i6ePJeVKIuVfJN3FvH1VQwzsULXsY3dcH0syLYLtgq2W7JKyYkMUqQ037QGuA+Te+ksWBq3It25h890u6LiwvnDWxSuCgtzJ6Z3YdZ1c7DfNapkMXPzYIPo3sCcrtU+7AiLHZCMOb5ugGV1dKFcWunppgxt1EuWbcU4d7plUgeV61ubfTnSZU7KY/TlchZt6pAMVoB34EQ06rAA+FhOJaCmzzI2+KvJteDEbzT3Sb5jHT6/05Zb6Nkev2GQiB54u0PuFLSApr+mrn21S2C6VzKMGtUShE8tOM=;XbmeyvLKw086JpEgAC+DZg=="
 ---
 

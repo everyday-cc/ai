@@ -55,20 +55,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "SymphonyAI's Sensa financial crime prevention solution to be available in Microsoft Azure Marketplace"
-    excerpt: "Sensa joins SymphonyAI NetReveal for transaction filtering and sanctions screening, along with three other SymphonyAI vertical solution areas — manufacturing, retail, and IT service management — already available in the Azure Marketplace."
-    publishedDateTime: 2022-12-12T16:00:00Z
-    webUrl: "https://www.securityinfowatch.com/cybersecurity/information-security/press-release/21289708/symphony-ai-symphonyais-sensa-financial-crime-prevention-solution-to-be-available-in-microsoft-azure-marketplace"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 54
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/12/SymphonyAI.63974c7b0c466.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft launches real-time voice translation in Skype"
     excerpt: "The new translation feature uses AI to automatically detect the languages being spoken during a video call and translate them in real time."
     publishedDateTime: 2022-12-16T07:11:00Z
