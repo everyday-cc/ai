@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/your-internet-brain/202212
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/your-internet-brain/202212/what-psychology-means-for-the-future-of-self-driving-cars?amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple taps the brake on self-driving car goals to launch in 2026"
-    excerpt: "Like many others, Apple also wants to be the first to develop a fully autonomous Level 5 self-driving car – requiring no assistance from human drivers, including pedals and steering. It seems the technology isn't quite there yet,"
-    publishedDateTime: 2022-12-13T01:30:00Z
-    webUrl: "https://www.theregister.com/2022/12/13/in_brief_ai/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/12/13/in_brief_ai/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/12/13/in_brief_ai/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 44
-    images:
-      - url: "https://regmedia.co.uk/2022/12/12/apple_shutterstock.jpg"
-        width: 1000
-        height: 665
-        isCached: true
   - title: "Explaining the Sensor Suite in a Self-Driving Car"
     excerpt: "In this video, a TI engineer at electronica 2022 explains the various sensors that are deployed in a vehicle in order for it to be able to drive itself."
     publishedDateTime: 2022-12-15T22:24:00Z
@@ -57,6 +41,52 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Technology behind self-driving cars has reached a stalemate"
+    excerpt: "The progress of autonomous vehicles in recent years is negligible. Investors are now starting to pull out and manufacturers are shutting down, all while Tesla struggles with an increasing number of fatal accidents."
+    publishedDateTime: 2022-12-13T14:40:00Z
+    webUrl: "https://ing.dk/artikel/technology-behind-self-driving-cars-has-reached-a-stalemate-264079"
+    type: article
+    provider:
+      name: ing
+      domain: ing.dk
+    quality: 24
+    images:
+      - url: "https://ing.dk/sites/ing/files/styles/large/public/illustration/2022/12/bigstock-car-with-punctured-flat-tire-p-450582011.jpg?itok=-pO1Askr"
+        width: 480
+        height: 320
+        isCached: true
+  - title: "The self-driving era is here, the question is what comes next"
+    excerpt: "The self-driving era is here, just not the one that was promised. Instead of sleek pods without steering wheels ready to chauffeur buyers off the lot, there are mostly driverless Chevy compacts, Chrysler minivans,"
+    publishedDateTime: 2022-12-15T14:23:00Z
+    webUrl: "https://www.canadianunderwriter.ca/insurance/the-self-driving-era-is-here-the-question-is-what-comes-next-1004229083/"
+    type: article
+    provider:
+      name: Canadian Underwriter
+      domain: canadianunderwriter.ca
+    quality: 24
+    images:
+      - url: "https://media.canadianunderwriter.ca/uploads/2022/12/autonomous-delivery-robot-driverless-on-street-smart-vehicle-technology-concept-3d-render.jpg-s1024x1024wisk20cmMRGsXAoI1Ywu2RTp93k4lQnAj2JoUta6m1uy_Erskc.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "The self driving era is here, just not for the masses"
+    excerpt: "Instead of sleek pods without steering wheels ready to chauffeur buyers off the lot, there are mostly driverless Chevy compacts, Chrysler minivans, and Ford box trucks with bolted-on hardware trundling around bits of the U."
+    publishedDateTime: 2022-12-15T12:42:00Z
+    webUrl: "https://canada.autonews.com/technology/self-driving-era-here-just-not-masses"
+    type: article
+    provider:
+      name: canada.autonews
+      domain: autonews.com
+    quality: 19
+  - title: "Shapiro: A moonshot moment for self-driving cars | Opinion"
+    excerpt: "The United States and China are locked in a battle for tech leadership, and self-driving vehicles are on the cutting edge of the AI revolution."
+    publishedDateTime: 2022-12-15T03:00:00Z
+    webUrl: "https://www.detroitnews.com/story/opinion/2022/12/15/shapiro-a-moonshot-moment-for-self-driving-cars-opinion/69725418007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 4
 
 secured: "S5NotNDpuLwbbhSAelg4BnKZMxpXjmzOvoRX96VaRs4IKJvONULaucU7RNSKBuW5UyogQ0mxvbviRkkcpxH8rv6t6+dC2k0WBJrrp1NCSTuyDYFQywBDIPLtT0G1yNRPClLIGwORo3wxlAGRvDn/v/3n4ktOhyIdj4HUEmJU+PAKlXmxZBHPoXaOLl7Eoq/XgAch6TlcDy6IumF/2MdULeCfIgw77dlBnIOZi2yW1GSQvNxLmkLlCwdXH5kIc3D71YmCpJNHEI0Kx9LrGGzAPKjdBj/JpluUu7EG0lqwCVoUaJdAGfYsDIC+V9AntE1G3BqdupFX6So6E3kDPYOX8Ew1mip9dFRZrtg3bRmWP4NHYkL7DfAwLtB22TYz+fc05qtMrdzW+XOgqgKc6WN9Rz+JQs7743sq2mwJ77EecjtWE9pQeph5pggBai79xI2BuhR1w6o7V3etxu4pNlTcbtpFf3XENz7bozg/9kVE7H6wVzo+7oI/Omf9IAq8Muju2U1jEDkoUPIOp3LxuByCVg==;2Bk42t2aab/UAhD0C4ua9w=="
 ---

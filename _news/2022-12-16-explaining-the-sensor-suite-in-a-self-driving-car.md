@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple taps the brake on self-driving car goals to launch in 2026"
-    excerpt: "Like many others, Apple also wants to be the first to develop a fully autonomous Level 5 self-driving car – requiring no assistance from human drivers, including pedals and steering. It seems the technology isn't quite there yet,"
-    publishedDateTime: 2022-12-13T01:30:00Z
-    webUrl: "https://www.theregister.com/2022/12/13/in_brief_ai/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/12/13/in_brief_ai/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/12/13/in_brief_ai/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 44
-    images:
-      - url: "https://regmedia.co.uk/2022/12/12/apple_shutterstock.jpg"
-        width: 1000
-        height: 665
-        isCached: true
   - title: "What Psychology Means for the Future of Self-Driving Cars"
     excerpt: "Short of teleportation, few technological dreams are more appealing than getting from point A to point B in a self-driving car: a vehicle able to whisk you away at a moment’s command, and that grants countless hours of newfound free time en route."
     publishedDateTime: 2022-12-14T17:51:00Z
@@ -57,6 +41,52 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "Technology behind self-driving cars has reached a stalemate"
+    excerpt: "The progress of autonomous vehicles in recent years is negligible. Investors are now starting to pull out and manufacturers are shutting down, all while Tesla struggles with an increasing number of fatal accidents."
+    publishedDateTime: 2022-12-13T14:40:00Z
+    webUrl: "https://ing.dk/artikel/technology-behind-self-driving-cars-has-reached-a-stalemate-264079"
+    type: article
+    provider:
+      name: ing
+      domain: ing.dk
+    quality: 24
+    images:
+      - url: "https://ing.dk/sites/ing/files/styles/large/public/illustration/2022/12/bigstock-car-with-punctured-flat-tire-p-450582011.jpg?itok=-pO1Askr"
+        width: 480
+        height: 320
+        isCached: true
+  - title: "The self-driving era is here, the question is what comes next"
+    excerpt: "The self-driving era is here, just not the one that was promised. Instead of sleek pods without steering wheels ready to chauffeur buyers off the lot, there are mostly driverless Chevy compacts, Chrysler minivans,"
+    publishedDateTime: 2022-12-15T14:23:00Z
+    webUrl: "https://www.canadianunderwriter.ca/insurance/the-self-driving-era-is-here-the-question-is-what-comes-next-1004229083/"
+    type: article
+    provider:
+      name: Canadian Underwriter
+      domain: canadianunderwriter.ca
+    quality: 24
+    images:
+      - url: "https://media.canadianunderwriter.ca/uploads/2022/12/autonomous-delivery-robot-driverless-on-street-smart-vehicle-technology-concept-3d-render.jpg-s1024x1024wisk20cmMRGsXAoI1Ywu2RTp93k4lQnAj2JoUta6m1uy_Erskc.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "The self driving era is here, just not for the masses"
+    excerpt: "Instead of sleek pods without steering wheels ready to chauffeur buyers off the lot, there are mostly driverless Chevy compacts, Chrysler minivans, and Ford box trucks with bolted-on hardware trundling around bits of the U."
+    publishedDateTime: 2022-12-15T12:42:00Z
+    webUrl: "https://canada.autonews.com/technology/self-driving-era-here-just-not-masses"
+    type: article
+    provider:
+      name: canada.autonews
+      domain: autonews.com
+    quality: 19
+  - title: "Shapiro: A moonshot moment for self-driving cars | Opinion"
+    excerpt: "The United States and China are locked in a battle for tech leadership, and self-driving vehicles are on the cutting edge of the AI revolution."
+    publishedDateTime: 2022-12-15T03:00:00Z
+    webUrl: "https://www.detroitnews.com/story/opinion/2022/12/15/shapiro-a-moonshot-moment-for-self-driving-cars-opinion/69725418007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 4
 
 secured: "N+CYgUXiZL2vccNk00xUGvxARqzjvxtWpYQUwtIqwggW5fOWpPu3q2D7bQMasI2ivN/f+k1ZiIsQ4WXmaq/JwRelQ5h+23xjr1uWaNCE4Z61/OpIa19aSMqIOjfgQj+Pqg4HqwPCTnR7B+CgrC6SFbhJzJTBGOGyfuYP7LzUhaK0CswC0/x3X/nxyx1nfRIkLvL+na0dCGX0azNZpft74GMqBUUx4v7oCGqC3wNRKVXDVQ384IqXj1gFQj8Z8dAmqS0x9MPidAd1vMTMy+nv8/enEsKyt27bO+MJoNO2YLiorDXiH+RP9/rtwUYpt5AWizqsVdmbAHh/Fs5jiZebqyT+FW6FouYUdqtlu4YzfudKdw/get+j3F5rivSf4Vz0aoX3xOJVSRdWftkbdfVPDlCPvjBrJ4qdBKk4J5SyRmy0vtzJG0mAmnDZIwibeQmcU3q0MJCatsTzhXFL4PtvFv5zZa+yDGpGlxoXb8EHbtSR5RgrS+yNKxQ2n9dFHORAXHGKR2ia1a/m0d0Y+GfS4g==;CtPrEkh0o23WBbvSrP8xkg=="
 ---

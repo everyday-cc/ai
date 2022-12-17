@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://i0.wp.com/www.ksn.com/wp-content/uploads/sites/13/2022/12/Dellrose-Shooting00.jpg?w=2000&#038;ssl=1"
-    width: 1920
-    height: 1080
+  - url: "https://i0.wp.com/www.ksn.com/wp-content/uploads/sites/13/2022/12/shooting-1.jpg?w=2000&#038;ssl=1"
+    width: 2000
+    height: 1126
     isCached: true
 
-secured: "aZhPb+pstOsMvSkO/xLQuH85Zd3gAWWHAxeDqPcgw4Z9ixe59u4bBGb3TEUvXRvaJp9BuMDoFU2WH6fHJmRKBbKe55OofYoN96mlFX4C2KFDnmzKV5zf+2nRqbz9mCfoTscXs0VLoucyj6mmXl/C0GF57RRRTs3KFEiH+lvJAJEab/sgKrNe2daP8G94unT7CMnoCYdiSZUnciTNOkpMoBEV17pv3e0+bTB0TTLzg2x8D2bnNgb7AG/1zUwVbZ3WkyDzLz8W0/K5zgUw56ZtHuysU8NsCFuykAMA74pJlQvF+sJ3aydrp4G9gzedi0xIlFQ8URfA7L3XbSjrWw5iftGwUaF0BczNNHEwoNM3M+s=;5zpe4dL5hcofUKcZcsPR2A=="
+secured: "CcSD5y1cp3pXc0rvohGiBSc4zeXRJhAJaEdnSIFE90FYBNcDNg7weSaWuZEFnKy8SGA2eTN289/fndUMVCNXrHQjmww4GQAnkt95CwvbfMffEZGScdx0wfqw6/hFHQcwUkGBWFdyzYSr70aQvBMHgB0E5qh8Ii0oh7YXg5njFggn7QaIoTQU6qzM38tF+Cd4IyNIirRJKkok/o+unr/GEkDFLvQbVcd1pnD6ipPZdrNanBeEdVT3B5wecXrGDPQBUoCppL+hbGTOGIuzFt0R72mH69YHlgB22hhev9oV0Mp4OfQaN8IabsB7J1AHrDKKY/Ci+7H6ajhmS5tObqnQjdR0EHiurgqps5W1xftPidk=;2NhQjw7NaNf3pSDjKG5FfQ=="
 ---
 

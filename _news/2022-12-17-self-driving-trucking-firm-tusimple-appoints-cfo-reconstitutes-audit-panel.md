@@ -28,6 +28,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 32
+  - title: "TuSimple, a self-driving truck company, will fire hundreds of workers"
+    excerpt: "The job cut of TuSimple would likely affect at least 700 employees, the report said citing people familiar with the matter"
+    publishedDateTime: 2022-12-17T18:22:00Z
+    webUrl: "https://techstory.in/tusimple-a-self-driving-truck-company-will-fire-hundreds-of-workers/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 24
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/08/betiton.jpeg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "cjL6hqDwGzlZ9gCrbO9wJvB//+T2jkmbSn/gY1BM8LYv88flJQSIUSN9BaZly3Qi7PXvYjpZg4qOBK03gwTIubhWVHGzV0w6t7+gmEuAQKNk8VpDdcXp2ND+PzmhQR33OHvOUvdBE0ioaAFQrHwlJaIcnOZpitnGTFVl6bnJboLsAwb3vL3cr9snPBTJCHbg4IAa3CRF6pcSR8b2/z1ZMYAJJTy7S6RkLnyJzU5+EKChSTXnfb2JYwSQ3yqdG/zIseNr4TvTlDIoJ7FtUvRtjUQfHeIcPt1Nul5salq51lIT+bTK0LDIbT3D2bzZFCiSgaQkT0ctUWw4rDVhcHaVS0y2o1rmg2DB4p8N/oo2IsZ5EGo4l/wZnA28l+P3icW2BGtylVsEWpul4ejPw5LMkytIojB9GXRh5IchianHSDHrisIqNl9S4M9qbBfQ/caGr6zLrrvzeUb3WfMh2ZUuO9GPHoaFkLc3NFAVocUJNi9YECz+0s6L/phI28Re8/ESVVygEgvkkjnU7iR6hZ8feg==;8vdMmwd98cFgRd+vB2ecow=="
 ---

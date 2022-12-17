@@ -37,20 +37,6 @@ related:
         width: 1920
         height: 1273
         isCached: true
-  - title: "Tesla Lawyers Say Failure to Deliver Self-Driving Isn't Technically Fraud"
-    excerpt: "A lawsuit filed against Tesla alleges it misled consumers by claiming its cars are self-driving, to which Tesla's lawyers retort: well, it's not fraud."
-    publishedDateTime: 2022-12-13T23:34:00Z
-    webUrl: "https://futurism.com/the-byte/tesla-lawyers-fraud-self-driving"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 53
-    images:
-      - url: "https://wp-assets.futurism.com/2022/12/tessie.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tesla Full Self-Driving Beta data not upto the mark over the years"
     excerpt: "The Tesla FSD Beta data is actually behind. Compared to other autonomous software in the market, Tesla is barely on the charts."
     publishedDateTime: 2022-12-15T03:21:00Z
@@ -93,15 +79,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Tesla reportedly claims its failure to deliver self-driving cars isn’t fraud"
-    excerpt: "Tesla has come under fire once again for its controversially named Full Self-Driving driver-assist feature. Despite what the name alludes to, FSD doesn’t enable a car to drive on its own."
-    publishedDateTime: 2022-12-16T13:27:00Z
-    webUrl: "https://fox8.com/automotive/internet-brands/tesla-reportedly-claims-its-failure-to-deliver-self-driving-cars-isnt-fraud/"
-    type: article
-    provider:
-      name: FOX8 Cleveland
-      domain: fox8.com
-    quality: 31
 
 secured: "74v4HDAIix2pZjoOjw2pP5jZYcZAxFX9E6kUBbcwOeoqhjwjW5BYIR3x6QfM2yZSVUIcS2FoYWJXTix5zwKMIsm48D2/JEJLAJehbinitPtEi3PyBLqy7VeZzzl1JjMdBO6a6s9VHYgFysFpVB+W8yEE5j4mhI+ne2vOGclhLGfOAdA5iuMxBjUPkLWJRCY242TnfBZTZxMlYqEm+rNhRi9eZTfrdbFP/jK3i1TbZ10C/ERTvt6ikLRXMXEVitcA+b8BCidbOVGdUZqaIa5kwthwz6oUWiRAlIfkYfesSoYYWgiSPH4+1rT5/HJqIhS+60OKZD7iq1xUvFDI0X+PZALXJ0JFI93NizEFbG6sKDLZRwieLGTXHEZNE0wcybguJuXF+0qk91clSJkvd65QtQv0PbEOVVChl9GpP1+Das2jPkbv/sAVePJ+uPnETGOGyktsYJyxL8KVTFMBPL9h0CU1rwtwE/6NJmRirIq3Wrmc4wrpvHSNHulapFdZAT3gPVpETMMq1JZx87+W33ouiA==;I+HYmrojWj8ee4SUJ/JEuA=="
 ---

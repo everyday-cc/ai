@@ -57,6 +57,62 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Consulting Market 2023 : Production Capacity, Restring Drivers, Size and Landscape Outlook 2028"
+    excerpt: "Consulting Market \" Insights 2022 - By Applications (Technology Consulting,Management Consultin), By Types (, Strategy Development, Strategy Execution, Commercial Due Diligence, Customer Training), By Segmentation analysis,"
+    publishedDateTime: 2022-12-16T01:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-consulting-market-2023-production-capacity-restring-drivers-size-and-landscape-outlook-2028-2022-12-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI In Medical Imaging Market Size, Share, Growth, Revenue, Demand, Future opportunity, analysis and forecast till 2028"
+    excerpt: "AI In Medical Imaging Market\" Research Report explains how the market growth has been unfolding over the recent past"
+    publishedDateTime: 2022-12-14T10:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-size-share-growth-revenue-demand-future-opportunity-analysis-and-forecast-till-2028-2022-12-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Phone Market 2023-Industry Analysis, Size, Share, Trends, Market Demand, Growth, Opportunities and Forecast 2028"
+    excerpt: "The global Facial Recognition Phone Market size, revenue, distinct categories, drivers of development, sources"
+    publishedDateTime: 2022-12-13T07:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-phone-market-2023-industry-analysis-size-share-trends-market-demand-growth-opportunities-and-forecast-2028-2022-12-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Law Market Growing Worldwide By Leading Key Players, Shares, Size, Regional Analysis and Forecast 2023-2028"
+    excerpt: "In the forecast period of 2023-2028, the Global “Artificial Intelligence in Law Market” is expected to grow at a steady rate, according to the Artificial Intelligence in Law Market report, which summarizes the key aspects of the Artificial Intelligence in Law market Share,"
+    publishedDateTime: 2022-12-13T11:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-law-market-growing-worldwide-by-leading-key-players-shares-size-regional-analysis-and-forecast-2023-2028-2022-12-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Computer Networks Market 2023 Company Challenges, Latest Advancements, Growth Prediction, and Forecast by 2028"
     excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence in Computer Networks Market will have significant change from previous year. By the m"
     publishedDateTime: 2022-12-13T10:11:00Z
@@ -80,6 +136,29 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+  - title: "Global Facial Recognition Market Trend Insights, Regional Growth Analysis, Major Players Professional Status, Outlook and Forecast 2023-2027"
+    excerpt: "The \"Facial Recognition Market\" research report provides insightful Data, comprehensive statistics, and a thorough"
+    publishedDateTime: 2022-12-13T07:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-facial-recognition-market-trend-insights-regional-growth-analysis-major-players-professional-status-outlook-and-forecast-2023-2027-2022-12-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Based Medical Device Market 2023 Share, Size, Sales, Growth Drivers, Opportunities, Industry Trends and Forecast to 2028"
+    excerpt: "New research publishedas theArtificial Intelligence Based Medical Device Marketresearch report provides an in-depth"
+    publishedDateTime: 2022-12-14T09:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-2023-share-size-sales-growth-drivers-opportunities-industry-trends-and-forecast-to-2028-2022-12-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
   - title: "Artificial Intelligence (AI) in Automotive Market Trends 2023 Industry Size, Segments, Share, Key Players and Growth Factor Analysis by 2026"
     excerpt: "Global “Artificial Intelligence (AI) in Automotive Market” 2023 report presents an exclusive analysis of market"
     publishedDateTime: 2022-12-15T07:02:00Z
@@ -89,6 +168,29 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
+  - title: "Speech and Voice Recognition Market Growing Worldwide By Leading Key Players, Shares, Size, Regional Analysis and Forecast 2023-2028"
+    excerpt: "In the forecast period of 2023-2028, the Global “Speech and Voice Recognition Market” Research report will make detailed analysis mainly on in-depth research on the development environment, Speech and Voice Recognition Market size,"
+    publishedDateTime: 2022-12-13T11:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-growing-worldwide-by-leading-key-players-shares-size-regional-analysis-and-forecast-2023-2028-2022-12-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Manufacturing Forecast for 2028, Market 2023, Global Industry Trends, Share, Size, Growth, Analysis, Demand"
+    excerpt: "Artificial Intelligence in Manufacturing Market 2023-2028 | Pre and Post-COVID Research is Covered, Report Information"
+    publishedDateTime: 2022-12-15T05:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-forecast-for-2028-market-2023-global-industry-trends-share-size-growth-analysis-demand-2022-12-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
 
 secured: "eDuktPdw6AtDLCvdtwVg/F80M5UvdpyjIIPh2PJRdBZVaTyozaG4WbhnabUTo83zVJ1acP88bX0g+x9EqbmH1pQr3tqS0P3HMyDPq/dqNfn/OzxrDdTYlL9h/88rrslIGLak739vg6RlfIB8yY8dlEG3I3q8ll8ku2uVRfSYUHPiH9lCc1H0uxI9oWTPOqknxQfgPDnVC316tkWfHkV1SUnQXGi58tMKVxIki8Fgk08tP0BbsA0qQ4WadoIcptUJrZjDLZ7sVgMVUNla6lQrR1jM4UtR9dv3BoYhkI2uXgzzyDQ/76MhxCjnERKrig/vlEoqjLGTpAHnW3s1IfU9nZCA0AkniYPVIOu7LpTFLKw=;mz76cYv+d5brz9/fET+KUg=="
 ---

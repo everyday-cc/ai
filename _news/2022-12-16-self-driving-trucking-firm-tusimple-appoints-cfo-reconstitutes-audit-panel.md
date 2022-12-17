@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "TuSimple, a self-driving truck company, will fire hundreds of workers"
+    excerpt: "The job cut of TuSimple would likely affect at least 700 employees, the report said citing people familiar with the matter"
+    publishedDateTime: 2022-12-17T18:22:00Z
+    webUrl: "https://techstory.in/tusimple-a-self-driving-truck-company-will-fire-hundreds-of-workers/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 24
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/08/betiton.jpeg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Self-driving trucking firm TuSimple appoints CFO, reconstitutes audit panel"
     excerpt: "The company reappointed former CEO Cheng Lu as its top boss last month after it fired his predecessor Xiaodi Hou following an investigation."
     publishedDateTime: 2022-12-16T20:29:00Z

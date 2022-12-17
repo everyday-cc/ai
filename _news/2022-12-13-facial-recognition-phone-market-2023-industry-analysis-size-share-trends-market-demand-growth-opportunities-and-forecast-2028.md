@@ -29,15 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "3D Facial Recognition Market 2022 Size, Revenue Analysis, Sales, Share and Research Depth Study 2028"
-    excerpt: "\" 3D Facial Recognition Market \" Insights 2022 - By Applications (Banking and Finance, Consumer Electronics, Government and Defense, Healthcare, Commercial Security, Residential, Others), By Types (Hardware,"
-    publishedDateTime: 2022-12-13T02:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-2022-12-12"
+  - title: "Artificial Intelligence In Fashion Retail Market Size, Outlook, Share, Prominent Players, Growth, and Forecast 2028"
+    excerpt: "Artificial Intelligence In Fashion Retail Market\" is sectioned top to bottom in this review. Worldwide and geological"
+    publishedDateTime: 2022-12-14T01:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-fashion-retail-market-size-outlook-share-prominent-players-growth-and-forecast-2028-2022-12-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 71
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning Artificial intelligence Market 2023 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2028"
+    excerpt: "Machine Learning Artificial intelligence Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2028. Machine Learning Artificial intelligence Market Research Report is spread across 93 Pages and provides exclusive data,"
+    publishedDateTime: 2022-12-14T10:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-artificial-intelligence-market-2023-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2028-2022-12-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -57,15 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Education Market 2022 : Profiling Key Players, Value Estimation and Analysis by Recent Trends to 2028"
-    excerpt: "\"Artificial Intelligence (AI) in Education Market\" Insights 2022 - By Applications (Virtual Facilitators and Learning Environments, Intelligent Tutoring Systems, Content Delivery"
-    publishedDateTime: 2022-12-16T01:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-2022-profiling-key-players-value-estimation-and-analysis-by-recent-trends-to-2028-2022-12-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
   - title: "AI In Medical Imaging Market Size, Share, Growth, Revenue, Demand, Future opportunity, analysis and forecast till 2028"
     excerpt: "AI In Medical Imaging Market\" Research Report explains how the market growth has been unfolding over the recent past"
     publishedDateTime: 2022-12-14T10:35:00Z
@@ -75,6 +80,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Fintech Market Report 2023 by Trend, Size, Share, Market Segmentation, Growth Potential and Forecasts Through 2030"
+    excerpt: "In accordance with the recent study\"Global AI in Fintech Market\" is anticipated to grow at a CAGR of 31.5% 2023-2030."
+    publishedDateTime: 2022-12-14T05:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-report-2023-by-trend-size-share-market-segmentation-growth-potential-and-forecasts-through-2030-2022-12-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -94,20 +113,29 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Software Market Opportunities, Demand and Forecasts, 2023-2028 with Top Countries Data"
-    excerpt: "\" Voice Recognition Software Market \" Insights 2022 - By Applications (Customized PC commands, Medical transcriptions, Others), By Types (Voice commands, dictation, Turning audio into text, Digital assistant,"
-    publishedDateTime: 2022-12-13T10:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-opportunities-demand-and-forecasts-2023-2028-with-top-countries-data-2022-12-13"
+  - title: "Artificial Intelligence in Computer Networks Market 2023 Company Challenges, Latest Advancements, Growth Prediction, and Forecast by 2028"
+    excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence in Computer Networks Market will have significant change from previous year. By the m"
+    publishedDateTime: 2022-12-13T10:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-2023-company-challenges-latest-advancements-growth-prediction-and-forecast-by-2028-2022-12-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 37
+    quality: 34
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Data and AI Ethics Market 2023 Industry Outlook, Current Status, Supply-Demand, Growth Opportunities and Top Players Analysis 2029"
+    excerpt: "Data and AI Ethics Market Research Report is spread across 104 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. Data and AI Ethics Market Size is projected to Reach Multimillion USD by 2029,"
+    publishedDateTime: 2022-12-13T12:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-2023-industry-outlook-current-status-supply-demand-growth-opportunities-and-top-players-analysis-2029-2022-12-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
   - title: "Global Facial Recognition Market Trend Insights, Regional Growth Analysis, Major Players Professional Status, Outlook and Forecast 2023-2027"
     excerpt: "The \"Facial Recognition Market\" research report provides insightful Data, comprehensive statistics, and a thorough"
     publishedDateTime: 2022-12-13T07:29:00Z
@@ -126,6 +154,15 @@ related:
     excerpt: "New research publishedas theArtificial Intelligence Based Medical Device Marketresearch report provides an in-depth"
     publishedDateTime: 2022-12-14T09:17:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-2023-share-size-sales-growth-drivers-opportunities-industry-trends-and-forecast-to-2028-2022-12-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+  - title: "Artificial Intelligence (AI) in Automotive Market Trends 2023 Industry Size, Segments, Share, Key Players and Growth Factor Analysis by 2026"
+    excerpt: "Global “Artificial Intelligence (AI) in Automotive Market” 2023 report presents an exclusive analysis of market"
+    publishedDateTime: 2022-12-15T07:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-trends-2023-industry-size-segments-share-key-players-and-growth-factor-analysis-by-2026-2022-12-15"
     type: article
     provider:
       name: MarketWatch
@@ -154,15 +191,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 15
-  - title: "Voice Recognition Market 2023 Size | Share, Forecasts Analysis, Company Profiles, Competitive Landscape and Key Regions 2028 | Top Countries Data"
-    excerpt: "The Voice Recognition market report provides an overall assessment of the market for the forecast period. The report"
-    publishedDateTime: 2022-12-16T10:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2023-size-share-forecasts-analysis-company-profiles-competitive-landscape-and-key-regions-2028-top-countries-data-2022-12-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 0
 
 secured: "72JO7ktkfF9OW00xDUQhxDmwr/Tri1hvIHt4LNkYEpg+ntPOT0zVFdDwSwhbco10Ywdc3wYiElqzFQEp0UdEvC8pAVybCQ/E54VRtalU3pEfCXOU/PZywAa9DDz35cxr2vn6ZxjlJ4pWzAYwaMQkrXKfUAdd3V7183AT0t1B0UEvOwz/WJQCIRqkF/ugMRr6mUV0/Zaua8x2AgmBSZ/XN1nvgli0E/0IlBJZ0R5IQw2FaTtJzoe1LQAszMcI6zTqrMjfFbtbj+l2dFMqFrTnRDAbfGznHyff8XNCagB9o+s6518G18GQDfT0/fqRNR4CI5sWCl5h3G0A+gRmpcxSI5f1BVHqI2ubkuCHDDPHKUI=;WjimM3BhbvgiQPP+/lkXGw=="
 ---

@@ -37,6 +37,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Education Market 2022 : Profiling Key Players, Value Estimation and Analysis by Recent Trends to 2028"
+    excerpt: "\"Artificial Intelligence (AI) in Education Market\" Insights 2022 - By Applications (Virtual Facilitators and Learning Environments, Intelligent Tutoring Systems, Content Delivery"
+    publishedDateTime: 2022-12-16T01:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-2022-profiling-key-players-value-estimation-and-analysis-by-recent-trends-to-2028-2022-12-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
   - title: "Face Recognition Device Market Is Likely to Experience a Strong Growth in Forth Coming Years with Top Countries Data"
     excerpt: "The \"Face Recognition Device Market\" Exploration Report features significant top key participant’s investigation"
     publishedDateTime: 2022-12-14T14:36:00Z
@@ -65,6 +74,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice Recognition Software Market Opportunities, Demand and Forecasts, 2023-2028 with Top Countries Data"
+    excerpt: "\" Voice Recognition Software Market \" Insights 2022 - By Applications (Customized PC commands, Medical transcriptions, Others), By Types (Voice commands, dictation, Turning audio into text, Digital assistant,"
+    publishedDateTime: 2022-12-13T10:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-opportunities-demand-and-forecasts-2023-2028-with-top-countries-data-2022-12-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Market 2023 Size | Share, Forecasts Analysis, Company Profiles, Competitive Landscape and Key Regions 2028 | Top Countries Data"
+    excerpt: "The Voice Recognition market report provides an overall assessment of the market for the forecast period. The report"
+    publishedDateTime: 2022-12-16T10:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2023-size-share-forecasts-analysis-company-profiles-competitive-landscape-and-key-regions-2028-top-countries-data-2022-12-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 0
 
 secured: "k26ktGi/SCc9QiOdQ+tnmadCS6XFN77lI3TGZxd8dJzxtBhJFkNEtx/hku07mY2xAJAHJjvV+uYB/+6NvVI3BIInaAit5Dob4gXdkPro1eio9v1Wi5PXZ9FceBxYD6K6owspbYLkFpnDUsp2O5wRMQTTk65Vm7p8ABSg3DXBIJ7MQ1xi8bipx7gyKEzCuGmalez8w1HWNGJCYR9+2gTTcpplNpcwUSLNs5M22LXBavJnQ66deJMmh5+zr+KkCUdZeBpB9mGhLy+O0Kkc9Njvwx66hSYQtNpc23UzbEJkc8frm02JgedKeuOHs03uA+KEALOj8z3BBo/0X5A/YesSiiEURHkobB5gjRJ0REyWuEc=;9kPjaUVNZxdvO6FbYnAmxA=="
 ---

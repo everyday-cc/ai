@@ -71,6 +71,22 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "ChatGPT: What if students outsource all assignments to this AI tool?"
+    excerpt: "Educational institutions will have to figure out a way to integrate these advanced AI tools into learning without banning them, he says. “While it is still in its very early days, it is important for educational institutions to understand its strengths and limitations,"
+    publishedDateTime: 2022-12-17T12:33:00Z
+    webUrl: "https://bloncampus.thehindubusinessline.com/b-school-corner/chatgpt-what-if-students-outsource-all-assignments-to-this-ai-tool/article66276055.ece"
+    ampWebUrl: "https://bloncampus.thehindubusinessline.com/b-school-corner/chatgpt-what-if-students-outsource-all-assignments-to-this-ai-tool/article66276055.ece/amp/"
+    cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/b-school-corner/chatgpt-what-if-students-outsource-all-assignments-to-this-ai-tool/article66276055.ece/amp/"
+    type: article
+    provider:
+      name: bloncampus.thehindubusinessline
+      domain: thehindubusinessline.com
+    quality: 59
+    images:
+      - url: "https://bloc-i.thgim.com/public/incoming/n7ji8/article66276057.ece/alternates/FREE_320/Generative%20AI.jpg"
+        width: 320
+        height: 239
+        isCached: true
   - title: "Artificial intelligence chatbots continue to improve. How do they work?"
     excerpt: "AI chatbots are a software application used to have a conversation that can take on the role of a live human, using technology."
     publishedDateTime: 2022-12-15T19:51:00Z
