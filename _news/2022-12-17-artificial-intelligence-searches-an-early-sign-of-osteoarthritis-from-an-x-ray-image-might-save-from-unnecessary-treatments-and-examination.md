@@ -35,6 +35,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 44
+  - title: "Artificial Intelligence searches for early sign of osteoarthritis: Research"
+    excerpt: "In practice, the AI tries to detect whether there is spiking on the tibial tubercles in the knee joint or not. Tibial spiking can be a sign of osteoarthritis."
+    publishedDateTime: 2022-12-17T10:29:00Z
+    webUrl: "https://telanganatoday.com/artificial-intelligence-searches-for-early-sign-of-osteoarthritis-research"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 37
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/12/Artificial-Intelligence.jpg"
+        width: 1280
+        height: 750
+        isCached: true
 
 secured: "yT20lTlONwDgg2GrM4dzpJuj5x26UxKJJsxBUrha1lfL6mJ5R1kuCyEtPUaES2OkCcH4EQvyAbAhG4/lY15/Dx+U3LwMkUS66tcToCN2ImEnIjC51L2eItiHegMS34cDtCojLurQUgiqUDOwGbKH4zWz7941PdzOWRJqK10liVoXEsQjaee5YvJ38ts10NrRmA/rUWRHMSH5R1FUI8anAeKM09d+XXaCOsKT4/4tZxhPXx3GCAtiPT0oQIkBkn9BWRZVpvER8eQ7tmIxPP95PWEDI3WkSKQ022iVSkvsBDb509i+dsnjfFepCJqAY/yO+B8fIdNTg1W2+p6WQxjE4WbGgGFTRhI6jZrkE2O8Zb4=;4PCSe0Z05whlu20wZZYNKg=="
 ---

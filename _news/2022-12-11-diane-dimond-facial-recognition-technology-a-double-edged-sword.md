@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
 
 images:
   - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/f/65/f65ddc69-75eb-5a47-94a4-81ee7853d1a8/5dc78edd184b2.image.jpg?crop=600%2C315%2C0%2C142&resize=600%2C315&order=crop%2Cresize"

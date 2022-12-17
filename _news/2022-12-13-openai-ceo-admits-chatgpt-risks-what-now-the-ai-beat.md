@@ -80,14 +80,14 @@ related:
         isCached: true
   - title: "Artificial intelligence chatbots continue to improve. How do they work?"
     excerpt: "AI chatbots are a software application used to have a conversation that can take on the role of a live human, using technology."
-    publishedDateTime: 2022-12-15T20:46:00Z
-    webUrl: "https://www.10news.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work"
-    ampWebUrl: "https://www.10news.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work?_amp=true"
-    cdnAmpWebUrl: "https://www-10news-com.cdn.ampproject.org/c/s/www.10news.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work?_amp=true"
+    publishedDateTime: 2022-12-15T19:51:00Z
+    webUrl: "https://www.lex18.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work"
+    ampWebUrl: "https://www.lex18.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work?_amp=true"
+    cdnAmpWebUrl: "https://www-lex18-com.cdn.ampproject.org/c/s/www.lex18.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work?_amp=true"
     type: article
     provider:
-      name: ABC 10 News
-      domain: 10news.com
+      name: lex18
+      domain: lex18.com
     quality: 57
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/fd0738b/2147483647/strip/true/crop/3360x1890+0+175/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F0f%2F48%2F1692e0d8492a82d486bd8f7c4435%2Fap22278412101213.jpg"

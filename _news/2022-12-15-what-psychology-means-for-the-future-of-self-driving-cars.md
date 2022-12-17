@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Apple is Ditching Full Self-Driving on its Long-Promised Car"
-    excerpt: "Apple has reportedly been working towards an electric vehicle – an endeavor famed investor Carl Icahn said would serve as “the ultimate mobile device.” Part of Icahn’s bullishness on the Apple car stemmed from the rumors that it would be fully autonomous,"
-    publishedDateTime: 2022-12-12T17:35:00Z
-    webUrl: "https://www.manufacturing.net/video/video/22604673/apple-is-ditching-full-selfdriving-on-its-longpromised-car"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 24
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/12/MM_THumb.639761bf95989.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "S5NotNDpuLwbbhSAelg4BnKZMxpXjmzOvoRX96VaRs4IKJvONULaucU7RNSKBuW5UyogQ0mxvbviRkkcpxH8rv6t6+dC2k0WBJrrp1NCSTuyDYFQywBDIPLtT0G1yNRPClLIGwORo3wxlAGRvDn/v/3n4ktOhyIdj4HUEmJU+PAKlXmxZBHPoXaOLl7Eoq/XgAch6TlcDy6IumF/2MdULeCfIgw77dlBnIOZi2yW1GSQvNxLmkLlCwdXH5kIc3D71YmCpJNHEI0Kx9LrGGzAPKjdBj/JpluUu7EG0lqwCVoUaJdAGfYsDIC+V9AntE1G3BqdupFX6So6E3kDPYOX8Ew1mip9dFRZrtg3bRmWP4NHYkL7DfAwLtB22TYz+fc05qtMrdzW+XOgqgKc6WN9Rz+JQs7743sq2mwJ77EecjtWE9pQeph5pggBai79xI2BuhR1w6o7V3etxu4pNlTcbtpFf3XENz7bozg/9kVE7H6wVzo+7oI/Omf9IAq8Muju2U1jEDkoUPIOp3LxuByCVg==;2Bk42t2aab/UAhD0C4ua9w=="
 ---

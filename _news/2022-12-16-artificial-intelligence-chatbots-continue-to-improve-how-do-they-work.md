@@ -2,19 +2,19 @@
 category: news
 title: "Artificial intelligence chatbots continue to improve. How do they work?"
 excerpt: "AI chatbots are a software application used to have a conversation that can take on the role of a live human, using technology."
-publishedDateTime: 2022-12-15T20:46:00Z
-originalUrl: "https://www.10news.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work"
-webUrl: "https://www.10news.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work"
-ampWebUrl: "https://www.10news.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work?_amp=true"
-cdnAmpWebUrl: "https://www-10news-com.cdn.ampproject.org/c/s/www.10news.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work?_amp=true"
+publishedDateTime: 2022-12-15T19:51:00Z
+originalUrl: "https://www.lex18.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work"
+webUrl: "https://www.lex18.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work"
+ampWebUrl: "https://www.lex18.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work?_amp=true"
+cdnAmpWebUrl: "https://www-lex18-com.cdn.ampproject.org/c/s/www.lex18.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work?_amp=true"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: ABC 10 News
-  domain: 10news.com
+  name: lex18
+  domain: lex18.com
 
 topics:
   - AI
@@ -210,6 +210,6 @@ related:
       domain: aei.org
     quality: 10
 
-secured: "d7vOVj90pkjPhWtyUL3fn1yCxL7uU2p2T+3wQ342CH+fsjg6GMLHQL3g0hO/o/F55dya46xmC4i6ePJeVKIuVfJN3FvH1VQwzsULXsY3dcH0syLYLtgq2W7JKyYkMUqQ037QGuA+Te+ksWBq3It25h890u6LiwvnDWxSuCgtzJ6Z3YdZ1c7DfNapkMXPzYIPo3sCcrtU+7AiLHZCMOb5ugGV1dKFcWunppgxt1EuWbcU4d7plUgeV61ubfTnSZU7KY/TlchZt6pAMVoB34EQ06rAA+FhOJaCmzzI2+KvJteDEbzT3Sb5jHT6/05Zb6Nkev2GQiB54u0PuFLSApr+mrn21S2C6VzKMGtUShE8tOM=;XbmeyvLKw086JpEgAC+DZg=="
+secured: "43wDbaGlHFD7T3t3/qZBlV2464sZHf7N6jB7gnjWieD6T0ay9suLDPENfjYmKITte9aB3HS9u38ymiR2msECwMlMcPFX9Z1MWrzEUne6hhg8dEN4x6R9DDZJfE0xWWg8ZoiFygkTqTxyTM50Dw+BUS+67JmFKkgMna60E1hKMbQtW2E7jMNZaCQ4N2/nzvZwm4ZKjpR21vmI9sEo8uO48gYInJ75jLQ5stbvTErAMD3kjOhqzclvPKoIphvqKcyd07DraN/o0lxQLvH6KvPxy4DyJa+Swv5t6E/JCouQUZoNEoph7Ui9OIn7epmjwGI46zD5ZCBrXqGjaHxJHM+HWmrous8kpNvt03QVonC3+KM=;0vR5pUfhhRqy9VZI4+xRNg=="
 ---
 

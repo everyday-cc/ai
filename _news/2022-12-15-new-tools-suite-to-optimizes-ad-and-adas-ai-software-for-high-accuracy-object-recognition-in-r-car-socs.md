@@ -41,8 +41,8 @@ related:
         isCached: true
   - title: "Renesas and Fixstars to Jointly Develop Tools Suite that Optimizes AD and ADAS AI Software for R-Car SoCs"
     excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, and Fixstars Corporation, a global leader in multi-core CPU/GPU/FPGA acceleration technology, today announced the joint development of a suite of tools that allows optimization and fast simulation of software for autonomous driving (AD) systems and advanced driver-assistance systems (ADAS) specifically designed for the R-Car system-on-chip (SoC) devices from Renesas."
-    publishedDateTime: 2022-12-15T20:16:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/12/15/9731166.htm"
+    publishedDateTime: 2022-12-15T18:42:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/12/15/9731166.htm"
     type: article
     provider:
       name: TMCnet

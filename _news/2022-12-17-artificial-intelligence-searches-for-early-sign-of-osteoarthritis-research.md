@@ -1,0 +1,54 @@
+---
+category: news
+title: "Artificial Intelligence searches for early sign of osteoarthritis: Research"
+excerpt: "In practice, the AI tries to detect whether there is spiking on the tibial tubercles in the knee joint or not. Tibial spiking can be a sign of osteoarthritis."
+publishedDateTime: 2022-12-17T10:29:00Z
+originalUrl: "https://telanganatoday.com/artificial-intelligence-searches-for-early-sign-of-osteoarthritis-research"
+webUrl: "https://telanganatoday.com/artificial-intelligence-searches-for-early-sign-of-osteoarthritis-research"
+type: article
+quality: 37
+heat: -1
+published: false
+
+provider:
+  name: Telangana Today
+  domain: telanganatoday.com
+
+topics:
+  - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/12/Artificial-Intelligence.jpg"
+    width: 1280
+    height: 750
+    isCached: true
+
+related:
+  - title: "Artificial Intelligence searches an early sign of osteoarthritis from an x-ray image"
+    excerpt: "Researchers have developed an AI based neural network to detect an early knee osteoarthritis from x-ray images. AI was able to match a doctors' diagnosis in 87% of cases. The result is important because x-rays are the primary diagnostic method for early knee osteoarthritis."
+    publishedDateTime: 2022-12-16T21:15:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/12/221215161557.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 44
+  - title: "Artificial intelligence searches an early sign of osteoarthritis from an X-ray image – might save from unnecessary treatments and examination"
+    excerpt: "Researchers from the University of Jyväskylä and the Central Finland Health Care District have developed an AI based neural network to detect an early knee osteoarthritis from x-ray images."
+    publishedDateTime: 2022-12-16T17:18:00Z
+    webUrl: "https://www.news-medical.net/news/20221216/Artificial-intelligence-searches-an-early-sign-of-osteoarthritis-from-an-X-ray-image-e28093-might-save-from-unnecessary-treatments-and-examination.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 6
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+
+secured: "Yfchk/NXL4RwxPjLReCUXeFCgHLsyh/cqXARX+n7ovNx2/Z5T/1TsciCJs8lNpcSbqRuV3WmX8CHiLHjs9Wk0VwdJ39WQrXGKuZHgmdcRZLYufV9iW1zkZUmaI05sJn+EUN4KVAZgsAfQc8IZLAhDetPJIH3ZlFBa8sEttyrexwS5MY8zdz6zB/nph+ptdaWVkJatJrvhwB7ceEWD/0nP5kxElbUwQ88I/6QR4XUwRIH7Wkgz+F5ytT0LOiwvXoGp8RptWvpmp6ZU30Pa/ilVnsNTgqPJI7ksLhG3uvAJid11ab3CM02p6D73YWr2l+GXl7qaUGROxudxsQenPQnJipTC1RbwogoCMM7Ejk4iLs=;simLqMJLPY1dsMp7X+YYNQ=="
+---
+

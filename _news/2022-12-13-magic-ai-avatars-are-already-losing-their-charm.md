@@ -35,22 +35,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "The viral AI avatar app Lensa undressed me—without my consent"
-    excerpt: "My avatars were cartoonishly pornified, while my male colleagues got to be astronauts, explorers, and inventors."
-    publishedDateTime: 2022-12-12T17:44:00Z
-    webUrl: "https://www.technologyreview.com/2022/12/12/1064751/the-viral-ai-avatar-app-lensa-undressed-me-without-my-consent/"
-    ampWebUrl: "https://www.technologyreview.com/2022/12/12/1064751/the-viral-ai-avatar-app-lensa-undressed-me-without-my-consent/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/12/1064751/the-viral-ai-avatar-app-lensa-undressed-me-without-my-consent/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/12/lensa-mh-grid.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
   - title: "Lensa’s AI Avatars Made Me Hot and It’s the Confidence Boost I Needed"
     excerpt: "If you follow tech news regularly, you’ve likely heard about Lensa and its AI-powered Magic Avatars. Put real simply, you give the AI ten to twenty selfies/photos of you and then it returns a group of avatars for you to use wherever or however you’d like."
     publishedDateTime: 2022-12-13T18:56:00Z

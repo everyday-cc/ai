@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2022/12/lensa-ai-app-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/12/lensa-ai-app-causes-a-stir-with-sexy-magic-avatar-images-no-one-wanted/amp/"
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The viral AI avatar app Lensa undressed me—without my consent"
-    excerpt: "My avatars were cartoonishly pornified, while my male colleagues got to be astronauts, explorers, and inventors."
-    publishedDateTime: 2022-12-12T17:44:00Z
-    webUrl: "https://www.technologyreview.com/2022/12/12/1064751/the-viral-ai-avatar-app-lensa-undressed-me-without-my-consent/"
-    ampWebUrl: "https://www.technologyreview.com/2022/12/12/1064751/the-viral-ai-avatar-app-lensa-undressed-me-without-my-consent/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/12/1064751/the-viral-ai-avatar-app-lensa-undressed-me-without-my-consent/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/12/lensa-mh-grid.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
   - title: "‘Magic’ AI avatars are already losing their charm"
     excerpt: "When Lensa introduced a new AI-portrait generator in November, the internet was enthralled. But concerns have mounted, especially among women."
     publishedDateTime: 2022-12-13T06:05:00Z

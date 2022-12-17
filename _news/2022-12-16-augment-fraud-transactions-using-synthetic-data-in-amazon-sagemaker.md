@@ -57,20 +57,6 @@ related:
         width: 1564
         height: 781
         isCached: true
-  - title: "Amazon SageMaker JumpStart now offers Amazon Comprehend notebooks for custom classification and custom entity detection"
-    excerpt: "Amazon Comprehend is a natural language processing (NLP) service that uses machine learning (ML) to discover insights from text. Amazon Comprehend provides customized features, custom entity recognition, custom classification, and pre-trained APIs such as key phrase extraction, sentiment analysis, entity"
-    publishedDateTime: 2022-12-12T17:04:52Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-now-offers-amazon-comprehend-notebooks-for-custom-classification-and-custom-entity-detection/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 97
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/12/sagemaker-jumpstart-comprehend-notebooks.jpg"
-        width: 1564
-        height: 779
-        isCached: true
   - title: "New performance improvements in Amazon SageMaker model parallel library"
     excerpt: "Foundation models are large deep learning models trained on a vast quantity of data at scale. They can be further fine-tuned to perform a variety of downstream tasks and form the core backbone of enabling several AI applications. The most prominent category is large-language models (LLM), including&nbsp;auto-regressive"
     publishedDateTime: 2022-12-17T01:09:32Z

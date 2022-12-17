@@ -6,9 +6,6 @@ publishedDateTime: 2022-12-12T19:00:00Z
 originalUrl: "https://markets.buffalonews.com/buffnews/article/sbwire-2022-12-12-commercial-artificial-intelligence-market-2022-latest-innovations-future-technology-driving-factors-and-demand-over-the-worldwide-to-2028"
 webUrl: "https://markets.buffalonews.com/buffnews/article/sbwire-2022-12-12-commercial-artificial-intelligence-market-2022-latest-innovations-future-technology-driving-factors-and-demand-over-the-worldwide-to-2028"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
   name: The Buffalo News
@@ -18,6 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "BLDAjlltdXJYZQtCwKeYqRhx1LuM0khGkgSVO8p5SqJMF52Gk8mB/+6eqMnZkAxo7Crsmd8zZmDeVUPDS65oMZfMgJMyeMGQC2VLtZ68HWgVwwQYf6D3piyj47/4G9003krzGwUMHVM/Vfi0PCdDuz638UAPIc6dh0YWmE1hKl/ppcWAwRGpeTVa4XyPrafjZzZGmK/Vq6g893HiYun+VaschLYCqwKhUJNuCfIGz0aw4yaDVHtIgEEjes1pl+C/hC0xW6L3eqg9x91GudtiijXF7GsQ0cFMM3ocmLlhfPTkIvoBl/VEu1CT/ToxeybZFyzxmJVp+nS1qK9g7CWcsutzhiK4dd5DsLQJ1Q2P1SA=;X5dnKEkgmVdfMotkJXMdkQ=="
+secured: "N6kve8WO0jy7I3ztMfd1JFQqOfuctiSedv/1OlU4OV6F1nLftZsMspWGNHwjsKWe8I05mTZDhx06FlGBZV2oENgP+aD5N0R0WWXM9W465WQme2M3MZ6EmAK/Ob8nC1S9u3+G/rfMDieD8JU7vFmDzZmOBvu0P7dwT9nrpyTKyQzdmYySD4B3PTCE7kd6HmKIv/IflhVqy8Dwy1XhIR2EG3eiNPhpL+xsR2cqum4w9NNnj5Nx5ZFmVhHRrOBsUkbMJ8wLPb3MPJNKw65jLEmijEks/jwXMMWG4TtAHg5hIt1NONCi8Pybem35mO2k9w5a2SLRl0X6EAtzFHNz3U8uNj8hjp2g5G2oKt8bhVVSzy8=;On3/w9Xayf8F/kL/PIdq1A=="
 ---
 
