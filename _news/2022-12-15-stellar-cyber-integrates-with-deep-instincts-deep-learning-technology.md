@@ -7,7 +7,7 @@ originalUrl: "https://www.scmagazine.com/news/threat-intelligence/stellar-cyber-
 webUrl: "https://www.scmagazine.com/news/threat-intelligence/stellar-cyber-integrates-with-deep-instincts-deep-learning-technology"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,34 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Feds warn against cybersecurity risks associated with automation in healthcare"
-    excerpt: "Examples of automation in cybersecurity include machine learning and artificial intelligence, penetration testing, and automated intelligence collection. HHS said using automated technologies can help healthcare organizations detect threats more quickly and fill gaps in the cybersecurity workforce."
-    publishedDateTime: 2022-12-12T19:26:00Z
-    webUrl: "https://www.beckershospitalreview.com/cybersecurity/feds-warn-against-cybersecurity-risks-associated-with-automation-in-healthcare.html"
+  - title: "Stellar Cyber Integrates with Deep Instinct's Deep Learning Technology for Unrivaled Cyber Attack Prevention"
+    excerpt: "Under this latest integration, Deep Instinct's revolutionary approach to leverage deep learning is able to continuously analyze endpoints, servers, and other network assets to detect and prevent more than 99% of potential attacks."
+    publishedDateTime: 2022-12-14T14:43:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-stellar-cyber-integrates-with-deep-instincts-deep-learning-/2022/12/14/9730268.htm"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 50
-    images:
-      - url: "https://www.beckershospitalreview.com/images/13thAnnualReviewerButton.png"
-        width: 2200
-        height: 900
-        isCached: true
-  - title: "Cybersecurity startup Protect AI launches with $13.5 million in funding"
-    excerpt: "Artificial intelligence and machine learning systems cybersecurity startup Protect AI has today emerged from stealth mode with $13.5 million in new funding and its first product, NB Defense. NB Defense is a free product that’s claimed to be the industry’s first security solution to address vulnerabilities in a core component used at the beginning of the machine learning supply chain: Jupyter Notebooks."
-    publishedDateTime: 2022-12-15T14:00:00Z
-    webUrl: "https://siliconangle.com/2022/12/15/ai-ml-cybersecurity-startup-protect-ai-launches-13-5-million-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/jupyter.png"
-        width: 765
-        height: 350
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "UPrWxlgKXhbE95nKwCxGArbfa0hA6p+BdXk35l/4JlwyHF+O7Wb3dwdJdbTCINNTt5hK/6E29ASD5yXcE1KmJNxv+p7MGV51x1XbeoI0cGtOwVoE5PdMQTcmNQXjB1iM2xuRkK2/yA1qk6NoHPZ3i6559X5tenci2PmzfAWDYZFaoZPM3jmdsHYCVP5bXTZHJGtqH7KF77/XyLulHzWNVZQ5EDWiOaRNDebb+zpY6axl3LvSz7DSpttM+shD7atiRrPonZtKaa5XOvnZ91xRz4ErSXPio8UUrZVfZEnnrDJfQ9IKLkRnxhaEbMSsrmDlNyojyGxC7Z2JcEpcXdJC1cai+2TuZLcfT+nTSePFiIgrndjLfc/tCJ4m4uFTIM7tpZrs6nhwFl9MMoR5wA+QYqr45QEO6FIpJLc4naT3FKdVolGYdFQIhKglfkc3pE5GHDGvygO5B1WfKBKnwYB5dvmecai1DCt1euLsIXOdgvpDuN7epoBfN5IGug9xVn0mgfQoOrcvBmrihI8+n0A00A==;xlg46opZ20rZ+tvYzDSiug=="
 ---

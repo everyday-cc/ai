@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "OpenAI CEO admits ChatGPT risks. What now? | The AI Beat"
-    excerpt: "It's a mistake to be relying on [ChatGPT] for anything important right now,' tweeted the OpenAI CEO. So what now for AI-produced prose?"
-    publishedDateTime: 2022-12-12T20:42:00Z
-    webUrl: "https://venturebeat.com/ai/openai-ceo-admits-chatgpt-risks-what-now-the-ai-beat/"
-    ampWebUrl: "https://venturebeat.com/ai/openai-ceo-admits-chatgpt-risks-what-now-the-ai-beat/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/openai-ceo-admits-chatgpt-risks-what-now-the-ai-beat/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/02/GettyImages-545523518.jpg?w=1200&strip=all"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Conversing with my AI friend ChatGPT | The DeanBeat"
     excerpt: "Dean Takahashi tried out the Vana AI generative art program and it spit out dozens of painterly images. He tried out ChatGPT too."
     publishedDateTime: 2022-12-16T18:28:00Z

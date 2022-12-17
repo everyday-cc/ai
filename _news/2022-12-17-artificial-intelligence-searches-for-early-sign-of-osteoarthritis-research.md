@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-17T10:29:00Z
 originalUrl: "https://telanganatoday.com/artificial-intelligence-searches-for-early-sign-of-osteoarthritis-research"
 webUrl: "https://telanganatoday.com/artificial-intelligence-searches-for-early-sign-of-osteoarthritis-research"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/12/Artificial-Intelligence.jpg"
@@ -49,6 +50,6 @@ related:
         height: 480
         isCached: true
 
-secured: "Yfchk/NXL4RwxPjLReCUXeFCgHLsyh/cqXARX+n7ovNx2/Z5T/1TsciCJs8lNpcSbqRuV3WmX8CHiLHjs9Wk0VwdJ39WQrXGKuZHgmdcRZLYufV9iW1zkZUmaI05sJn+EUN4KVAZgsAfQc8IZLAhDetPJIH3ZlFBa8sEttyrexwS5MY8zdz6zB/nph+ptdaWVkJatJrvhwB7ceEWD/0nP5kxElbUwQ88I/6QR4XUwRIH7Wkgz+F5ytT0LOiwvXoGp8RptWvpmp6ZU30Pa/ilVnsNTgqPJI7ksLhG3uvAJid11ab3CM02p6D73YWr2l+GXl7qaUGROxudxsQenPQnJipTC1RbwogoCMM7Ejk4iLs=;simLqMJLPY1dsMp7X+YYNQ=="
+secured: "QDZQd3Xv2Eldz8GJdNILQnnIGelG7ZB1Ic1N+qrHG2M1ptFJ4H4s5JgN/2PkkOTVthpOOBMvHT1sKitp+giP+tvyCP+JlTFkCF/tySjaTHOXuA2U58auvGYtreTPJUzWzqurdC5wrXS6xz/8uBnMxvxEVO3DCX+oi7K4mGzVomZZ7cK5atzqbdPol4Tv757zbejAJcuIHC+ahgDhPmw6wPBh+FnEdn+JDn4fjDRJc2VCkd/313sh87gCUmEJtSdHl4WXm1xQyoV/Yibh6gTklXCOShckkyGi47N7wg50AEr3FplCJJFoMdzUJmqRG1O1hpAjVReCQykqatDvP971j2oIuS+XcXGm0EGc2zRFpPMLm9Y+CYZv7JxBCLMBPYaTSnMrwKTN79MqnMkmFN4bUuH9PxnN3C4BVUQZWIkkj53xqdvYcjOtUMnnJGiGI7VzCB19HL9I8kFmqlIBoi5hIXRLmrYkeENhM6rRFJvNd326duG63P3FMAPgV5p85VVHaUYZe42OlKLCDjzbrVs0kw==;Vgv8oAYLNnnV7toYp/61ZA=="
 ---
 

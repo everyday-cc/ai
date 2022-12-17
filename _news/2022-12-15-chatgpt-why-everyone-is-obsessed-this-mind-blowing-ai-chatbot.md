@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/chatgpt-why-everyone-is-obsesse
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/chatgpt-why-everyone-is-obsessed-this-mind-blowing-ai-chatbot/"
 type: article
 quality: 89
-heat: 229
+heat: 219
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI CEO admits ChatGPT risks. What now? | The AI Beat"
-    excerpt: "It's a mistake to be relying on [ChatGPT] for anything important right now,' tweeted the OpenAI CEO. So what now for AI-produced prose?"
-    publishedDateTime: 2022-12-12T20:42:00Z
-    webUrl: "https://venturebeat.com/ai/openai-ceo-admits-chatgpt-risks-what-now-the-ai-beat/"
-    ampWebUrl: "https://venturebeat.com/ai/openai-ceo-admits-chatgpt-risks-what-now-the-ai-beat/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/openai-ceo-admits-chatgpt-risks-what-now-the-ai-beat/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/02/GettyImages-545523518.jpg?w=1200&strip=all"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Why Everyone's Obsessed With ChatGPT, the Mind-Blowing AI Chatbot"
     excerpt: "This artificial intelligence bot can converse, write student essays and program computers. Careful how much you trust it, though."
     publishedDateTime: 2022-12-13T16:06:00Z

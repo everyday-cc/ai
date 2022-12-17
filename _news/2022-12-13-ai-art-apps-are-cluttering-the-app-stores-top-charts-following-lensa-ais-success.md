@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/12/12/ai-art-apps-are-cluttering-the-app
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/12/ai-art-apps-are-cluttering-the-app-stores-top-charts-following-lensa-ais-success/amp/"
 type: article
 quality: 81
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Lensa AI Selfies: What to Know About the Photo-Editing App Your Friends Are Using"
-    excerpt: "You've likely seen the new filter your friends have been using on social media that transforms their photos into artwork. It's called Lensa AI, and the viral photo-editing app takes your uploaded photos and creates \"magic avatars\" using your face."
-    publishedDateTime: 2022-12-12T19:30:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/lensa-ai-selfies-what-to-know-about-the-photo-editing-app-your-friends-are-using/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 42
   - title: "Unlocking the potential of AI"
     excerpt: "If issues around privacy are addressed, AI can revolutionise business and public services by facilitating cost effective, socially beneficial outcomes"
     publishedDateTime: 2022-12-14T10:14:00Z

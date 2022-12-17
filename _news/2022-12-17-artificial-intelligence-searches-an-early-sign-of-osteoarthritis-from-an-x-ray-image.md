@@ -32,7 +32,7 @@ related:
     provider:
       name: Telangana Today
       domain: telanganatoday.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/12/Artificial-Intelligence.jpg"
         width: 1280

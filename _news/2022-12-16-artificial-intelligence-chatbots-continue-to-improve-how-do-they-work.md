@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "OpenAI CEO admits ChatGPT risks. What now? | The AI Beat"
-    excerpt: "It's a mistake to be relying on [ChatGPT] for anything important right now,' tweeted the OpenAI CEO. So what now for AI-produced prose?"
-    publishedDateTime: 2022-12-12T20:42:00Z
-    webUrl: "https://venturebeat.com/ai/openai-ceo-admits-chatgpt-risks-what-now-the-ai-beat/"
-    ampWebUrl: "https://venturebeat.com/ai/openai-ceo-admits-chatgpt-risks-what-now-the-ai-beat/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/openai-ceo-admits-chatgpt-risks-what-now-the-ai-beat/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/02/GettyImages-545523518.jpg?w=1200&strip=all"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Why Everyone's Obsessed With ChatGPT, the Mind-Blowing AI Chatbot"
     excerpt: "This artificial intelligence bot can converse, write student essays and program computers. Careful how much you trust it, though."
     publishedDateTime: 2022-12-13T16:06:00Z
@@ -210,6 +194,6 @@ related:
       domain: aei.org
     quality: 10
 
-secured: "43wDbaGlHFD7T3t3/qZBlV2464sZHf7N6jB7gnjWieD6T0ay9suLDPENfjYmKITte9aB3HS9u38ymiR2msECwMlMcPFX9Z1MWrzEUne6hhg8dEN4x6R9DDZJfE0xWWg8ZoiFygkTqTxyTM50Dw+BUS+67JmFKkgMna60E1hKMbQtW2E7jMNZaCQ4N2/nzvZwm4ZKjpR21vmI9sEo8uO48gYInJ75jLQ5stbvTErAMD3kjOhqzclvPKoIphvqKcyd07DraN/o0lxQLvH6KvPxy4DyJa+Swv5t6E/JCouQUZoNEoph7Ui9OIn7epmjwGI46zD5ZCBrXqGjaHxJHM+HWmrous8kpNvt03QVonC3+KM=;0vR5pUfhhRqy9VZI4+xRNg=="
+secured: "NDKrV6oU1AQapu06AF3QSk0GIfBYsWiPvFdDwTDmCNxzCl1uuPWLKhTlP4iBOGLeCQOzRvkq1NhegeCkZig4zX0jSS1VkryjnyDD+r8z+O2iG8HbGxDdjptbpnroM4nBc0ZFO5Y84iqcnmdfmlmT/S8fPqTe3Jwo4+tOjlX+qqedcz2+1ADikU1ALiMI+fJ1m9pKMzRep6Nu9FhBwx9h2/BJt1vQ1ZmXVmFKXw289m889soVIaLEvRdnlr2r0Qi8SDNiTJzk4Ca0jRc9NHjq7J1nbsfPj4a/KcWEhqE1Tlg2ay/sfcEvEX4pobWWUNmtURpsCGq5eXYWbITnTqAvFLaYM2c2gykyZKPDJV3xzGGXWnthYneM7PaEXIFfk5Sau7dLbqooSnaGw/iQqPrSAeAJ2bZSjUdxL/nNp+R3CHeTo4BRRvmO7g+J/6pmTYhyjsGSdCjMtwJAoQv0VXtEHvc3ibeQCFuSq8Xrrg2cNpyV97UxosGuifh6svyHAMJe0dERzJFWfo7iZkQwf77GkA==;6oulQgcytGaXeWRsYQl4Mw=="
 ---
 

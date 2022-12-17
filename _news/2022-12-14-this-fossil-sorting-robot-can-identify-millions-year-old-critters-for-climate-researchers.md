@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Fossil-sorting robots will help researchers study oceans and climate"
-    excerpt: "Researchers have developed and demonstrated a robot capable of sorting, manipulating, and identifying microscopic marine fossils. The new technology automates a tedious process that plays a key role in advancing our understanding of the world's oceans and climate—both today and in the prehistoric past."
-    publishedDateTime: 2022-12-12T19:44:00Z
-    webUrl: "https://phys.org/news/2022-12-fossil-sorting-robots-oceans-climate.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 19
 
 secured: "czmAyswoSoO8fJzgaQZzNKW7magFm66EJViy5ABFFh1sTTBMxYcyzbvgSLA8380ddvQCwjveU4X94pPQw57Qg7RD8I2QBgwLo05ETLp8+CV1ksOlQXqNDiG47ZaV/nKLYrO8dZQEdMf2+3063SgoY4d2aV4oKi3wAcCOia5GFaz8tQM09mfXhR+KAROr6qKKAFXPhpAmAB6usq/YTF2XTnVl3xXISCRlGRkoKfttwdQlasUiTmgU7Mijpq6V8oPuBbCu9tpKoWnyFOMKlTLSZ/Iwqu8DJJCTwrLFjw6V0EMMEMRrwdl0tHaip4FlxP4G+0y7oKyzIWWa2wr2+3naPCIitdnCCrRiDA7lVtdxQM3Zm81daS7/0bx8+lDbdXjUv5TlrD6DD2Z6AXb8tT7j1LlGMGFbEOTO67OQMuJ30BSTZjBD6v9SfpHXHJj2eCmlTmSxWD6KAFs8vtttB++SYpyyN4KIhfEccm31/nPIW5fK+BkW2bhWH4+BT3pktitZRGRM4uzMn+pPxZJqOAAGsA==;BC7mljEQVqqZLLnaxHSJbg=="
 ---

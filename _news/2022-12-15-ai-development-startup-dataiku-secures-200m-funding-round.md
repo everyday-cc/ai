@@ -54,15 +54,6 @@ related:
         width: 931
         height: 520
         isCached: true
-  - title: "Opaque Systems unveils a unique multi-party confidential AI and analytics platform"
-    excerpt: "“The Opaque Confidential AI and Analytics Platform solves this challenge by enabling ... Confidential Computing is supported by all major cloud vendors including Microsoft Azure, Google Cloud and Amazon Web Services and major chip manufacturers including ..."
-    publishedDateTime: 2022-12-12T19:07:00Z
-    webUrl: "https://www.securityinfowatch.com/cybersecurity/information-security/press-release/21289765/opaque-systems-opaque-systems-unveils-a-unique-multiparty-confidential-ai-and-analytics-platform"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 13
 
 secured: "G7E4Y0RoEQRFSSYSpjVQf9fW7M0NFQ3ogxgYcroeyZpce8XBLG9gjAHV3FUJmo+r38RrblNzPYnEhFz7EWKmKuPevIP/KBeVYbeVgvvlPksGw67dz7bLw5ZgJp7kcK44gHnRwPPF7/A/6PhnFrgHqA42uDKK6llZghp4ziETkZE3zjtgof7WDbS6x3Zdp8iH/vJ4TnS+3W1Aqo7Rats2XShadsTMhoOPco3IPB5PUToAs5m02f0mzUWZ7Dxs0X3IpDXXLtC4hyc4/FIsYdYUoIGFSmGA6pqu3DHFAL5IZc1L4mEuLd0+dQ9LXKxI2cjZf1zdIpWmbQz0DxABsvMhNVjuuWQtwEzdMdyxysx9IPE97lBRlAixZL2C/Xmo7xGMwLlaGUNLv9r8sJfK/Vc6V9gsMZEE4hqQ76ModtSaGhv2oqnuId9JrDry9B0cihXOpweGS4QwuKazC/wnsuMWCSjTZxb7/XNlDVUlQ8hhefMftkpXCUX5UQ+wWDTkmLrln5NKQP66V7CV3Ql2TzS8hw==;GZyDnlY1/s/ovMh9XmZ17A=="
 ---

@@ -73,15 +73,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Lensa AI Selfies: What to Know About the Photo-Editing App Your Friends Are Using"
-    excerpt: "You've likely seen the new filter your friends have been using on social media that transforms their photos into artwork. It's called Lensa AI, and the viral photo-editing app takes your uploaded photos and creates \"magic avatars\" using your face."
-    publishedDateTime: 2022-12-12T19:30:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/lensa-ai-selfies-what-to-know-about-the-photo-editing-app-your-friends-are-using/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 42
 
 secured: "N1LYri9dt1YKq3xid6Ny2H5S9zmXdE/0g5y2BNxxOhvbtiilVFsQjN2xiR7TVjWA8O/xd0OKinJAaG9wPTCMLlbdgVamhugfehxBjGcVxi9/dieyV4wnttuDMaXhluMRrV1SowQh1/v9lJW35slhTptFRGhVB2iArdaV4dYiR7OWHdFwuRP0SUArLwgeyBCKrLMgu1UEQJ4hsWZUjWVzCEchTuViJpR7dlnDBarbqMBr3M7eYXLOkZ3SqqNVagiKbFD9uyP2vfxx/F5pAn8C7vqAojZyLxNelnqmW0iVyrW2kPgf0puPqLbhN1f6sk+tZsTnO2zVlSJBJ2d0O8QUYh/qRAxUb1k4kxMFKJ4YQYg=;Ld95FW1QwqaWWByhPexuWw=="
 ---

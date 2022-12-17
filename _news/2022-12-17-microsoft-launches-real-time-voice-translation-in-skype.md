@@ -1,35 +1,47 @@
 ---
 category: news
-title: "Microsoft Azure, NVidia – Make AI Your Reality"
-excerpt: "Artificial Intelligence can transform businesses and customer experiences but many companies struggle with how to build, operationalize and deploy AI-enabled products and services."
-publishedDateTime: 2022-12-15T21:11:00Z
-originalUrl: "https://venturebeat.com/microsoft-nvidia/"
-webUrl: "https://venturebeat.com/microsoft-nvidia/"
+title: "Microsoft launches real-time voice translation in Skype"
+excerpt: "The new translation feature uses AI to automatically detect the languages being spoken during a video call and translate them in real time"
+publishedDateTime: 2022-12-17T12:06:00Z
+originalUrl: "https://www.mid-day.com/technology/article/microsoft-launches-real-time-voice-translation-in-skype-23261056"
+webUrl: "https://www.mid-day.com/technology/article/microsoft-launches-real-time-voice-translation-in-skype-23261056"
+ampWebUrl: "https://www.mid-day.com/amp/technology/article/microsoft-launches-real-time-voice-translation-in-skype-23261056"
+cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/technology/article/microsoft-launches-real-time-voice-translation-in-skype-23261056"
 type: article
-quality: 101
-heat: 181
-published: true
+quality: 61
+heat: -1
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Mid Day
+  domain: mid-day.com
 
 topics:
-  - Microsoft AI
+  - Natural Language Processing
   - AI
-  - Machine Learning
+  - Microsoft AI
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2022/12/large-language-header.jpg?resize=750%2C388&#038;strip=all"
-    width: 750
-    height: 388
+  - url: "https://images.mid-day.com/images/images/2022/dec/apple-seventeen-dec_d.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
+  - title: "Microsoft Azure, NVidia – Make AI Your Reality"
+    excerpt: "Artificial Intelligence can transform businesses and customer experiences but many companies struggle with how to build, operationalize and deploy AI-enabled products and services."
+    publishedDateTime: 2022-12-15T21:11:00Z
+    webUrl: "https://venturebeat.com/microsoft-nvidia/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 101
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/12/large-language-header.jpg?resize=750%2C388&#038;strip=all"
+        width: 750
+        height: 388
+        isCached: true
   - title: "Microsoft launches real-time voice translation feature in Skype using AI"
     excerpt: "The new translation feature uses AI to automatically detect the languages being spoken during a video call and translate them in real time"
     publishedDateTime: 2022-12-16T07:22:00Z
@@ -45,22 +57,6 @@ related:
       - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-07/12/full/1626056584-8778.jpg"
         width: 620
         height: 464
-        isCached: true
-  - title: "Microsoft launches real-time voice translation in Skype"
-    excerpt: "The new translation feature uses AI to automatically detect the languages being spoken during a video call and translate them in real time"
-    publishedDateTime: 2022-12-17T12:06:00Z
-    webUrl: "https://www.mid-day.com/technology/article/microsoft-launches-real-time-voice-translation-in-skype-23261056"
-    ampWebUrl: "https://www.mid-day.com/amp/technology/article/microsoft-launches-real-time-voice-translation-in-skype-23261056"
-    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/technology/article/microsoft-launches-real-time-voice-translation-in-skype-23261056"
-    type: article
-    provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 61
-    images:
-      - url: "https://images.mid-day.com/images/images/2022/dec/apple-seventeen-dec_d.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Google won't make a competitor to Microsoft Azure-powered ChatGPT, at least for now"
     excerpt: "Dean explained that Google has similar capabilities to ChatGPT but has taken a more conservative approach due to the \"reputational risk\" that could occur if things went wrong. Chatbots powered by AI are prone to bias,"
@@ -137,6 +133,6 @@ related:
       domain: buffalonews.com
     quality: 26
 
-secured: "RhwAaHvaaq+hCQoTgOFz1PtW6hzUR+osGMsIPFHhufUbA86peLWn16WA4AqVSh6iO5kHnGlwyXemFcv9rOB4mdzD+WoJkxKffFizNxqS8Psrdn/5yyMH7nUPrhTYlOM5Ogqr2HMtAX1JOFWboKziiaofQatJ4QavrZMV4GlzU+Sb/JZcKKqHEZYoVHhPfoVxoHuVDBdmJHVhJth6+AH7pXW7uclav2nSyfXyb3Bok5CoszE1CxInuPyqbmyOkVNExsyQZqr7vlaSY48xhFIM8tdBg3dO6ZEgjmQfSUMi1mktGwy4C41u2AC2JhPz6zvHeMFV2bcFA1ncPfdOGpDvodTqicXCVHnfM5NhuHzxWlU37rCb3ps3/CtrPXz/y0x2jkuQN4xjeoDzE7XlJC88GNEyH6iWj0wj/cQmwgjUe5CbML0Nr5tMyC7t9lOxbrgBnDXga0LTCX2RC/isoK7ID7RHXHXoi3XJY3xnYc6n2QAICQ6ocTxPFlnUSZKf4ciGMH3mIH72JPCL89BnwOKyZQ==;8wtD0hGxPQqZP4Y24WO+yg=="
+secured: "C5O6GdA72LxQMFu+Sclnow5nXoDJOrUDsthv5ytv7tcFD1AAaIq0mqoew+ivWSAG43xyOfS8+el0OjFxW7xBeWiSq+IKd5cLHWn8qzCUAg/7xSw+e6WJ9qwBGGIuHafvETSNmN3YY82RQ00wMacIYTYVH//tDYqoEiUxlXXt6XTBtHe+YgdF5NtQO/3v2g0LuY+CdiqxWKA9a2qd667auwo9LgvM6GIenjJCLcCsJy/hgmjwlPlW8m+k+LBAkw/LnGK8ao4WW88qT40ODDsen4rmx9YwGSi7aoOSCvVOsKd1o1bucAkaRrZGWBnorxHJCXNdL7C+xy1BNoA8njFZTOsK+cVj0JvIpJKlUUC82bE=;QcyuRwAxDuhl243cvpyWuQ=="
 ---
 

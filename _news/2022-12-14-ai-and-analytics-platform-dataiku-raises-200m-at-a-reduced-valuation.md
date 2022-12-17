@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/12/13/ai-and-analytics-platform-dataiku-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/13/ai-and-analytics-platform-dataiku-raises-200m-at-a-reduced-valuation/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
         width: 2560
         height: 1920
         isCached: true
-  - title: "Opaque Systems unveils a unique multi-party confidential AI and analytics platform"
-    excerpt: "“The Opaque Confidential AI and Analytics Platform solves this challenge by enabling ... Confidential Computing is supported by all major cloud vendors including Microsoft Azure, Google Cloud and Amazon Web Services and major chip manufacturers including ..."
-    publishedDateTime: 2022-12-12T19:07:00Z
-    webUrl: "https://www.securityinfowatch.com/cybersecurity/information-security/press-release/21289765/opaque-systems-opaque-systems-unveils-a-unique-multiparty-confidential-ai-and-analytics-platform"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 13
 
 secured: "Xhjce8BLv/FuaQFnLINtsklFg9Pax4LIWbH0X5jGjwg+1L+d+pVpFzcy3cLpY+CpencvDbqVMTUSQmynL2828j8PTRPi5J9IXeOOKwoZ/N69Zoes2Mu7upO25zDfXewjft6aO5QRmlHpQdzabFg/JT/4QazcMqyNWDJNjQHamEdIteV+Jg+tiT8k6ePjcu6jflZdiLdK8TdMfD0daqOMCWlWdGcVRSXWxhzY4jjDGaNDvrOwm5b8P8V19CNiZs1E2ut8xn082rZH02mQp/dZIYn6u4IlSDwOoMX6SYQU+h9Xbh8OG9o+xMa536GMh6fwqblRbpqdDsI1dYPzRoQ7UG1ZXhGupQ+P0Q0FLRLh4rxnSE/RF8HRFuYxXAorW1PFoRu6mV7/fAY4YB4tXjOQZ5wo7BbvyCFx8gVv/kpqzvK3DvwJo5C/DFQgCzIjbYWnJWwUdAKtnxjeLUtPmwMpKyGkG0KcoeNCG22CgV5mA82QWmv8AslRrh7fn3f7I+uNKLyrgJ2Wnl314hhhPYlH0g==;TJGNNa+3lSz9KD7xAiv/RQ=="
 ---
