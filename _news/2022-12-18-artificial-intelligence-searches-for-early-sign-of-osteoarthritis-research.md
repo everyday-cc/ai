@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-17T22:31:00Z
 originalUrl: "https://news.webindia123.com/news/Articles/Health/20221217/4015893.html"
 webUrl: "https://news.webindia123.com/news/Articles/Health/20221217/4015893.html"
 type: article
-quality: 15
+quality: 17
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Artificial Intelligence searches an early sign of osteoarthritis from an x-ray image"

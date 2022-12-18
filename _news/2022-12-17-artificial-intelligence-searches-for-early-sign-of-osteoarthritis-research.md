@@ -43,7 +43,7 @@ related:
     provider:
       name: Webindia 123
       domain: webindia123.com
-    quality: 15
+    quality: 17
   - title: "Artificial intelligence searches an early sign of osteoarthritis from an X-ray image – might save from unnecessary treatments and examination"
     excerpt: "Researchers from the University of Jyväskylä and the Central Finland Health Care District have developed an AI based neural network to detect an early knee osteoarthritis from x-ray images."
     publishedDateTime: 2022-12-16T17:18:00Z

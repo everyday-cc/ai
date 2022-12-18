@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/12/15/try-riffusion-an-ai-model-that-com
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/15/try-riffusion-an-ai-model-that-composes-music-by-visualizing-it/amp/"
 type: article
 quality: 89
-heat: 101
+heat: 99
 published: true
 
 provider:

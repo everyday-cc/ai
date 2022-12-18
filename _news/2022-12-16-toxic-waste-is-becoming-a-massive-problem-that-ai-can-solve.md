@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/business/toxic-waste-is-becoming-a-massive-p
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/toxic-waste-is-becoming-a-massive-problem-that-ai-can-solve/amp/"
 type: article
 quality: 89
-heat: 110
+heat: 109
 published: true
 
 provider:

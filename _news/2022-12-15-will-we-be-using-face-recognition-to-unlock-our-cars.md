@@ -41,20 +41,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "GENESIS INTRODUCES WORLD FIRST KEYLESS ENTRY FACE RECOGNITION TECHNOLOGY ON 2023 GV60"
-    excerpt: "Genesis GV60 will be the first car in the world to feature pioneering face recognition technology as part of biometric vehicle entry and engine start Other new features include Digital Key,"
-    publishedDateTime: 2022-12-13T08:29:00Z
-    webUrl: "https://www.thenewsmarket.com/news/genesis-introduces-world-first-keyless-entry-face-recognition-technology-on-2023-gv60/s/68b5a48c-38ba-4a92-b3a0-98525bb5747b"
-    type: article
-    provider:
-      name: thenewsmarket
-      domain: thenewsmarket.com
-    quality: 32
-    images:
-      - url: "https://preview.thenewsmarket.com/Previews/GEME/StillAssets/960x540/631144_v2.jpg"
-        width: 1168
-        height: 657
-        isCached: true
   - title: "Google Patents System for Using Facial Recognition to Cue Up Content"
     excerpt: "Google patents a new system that will take advantage of facial recognition technology to present users with a choice of curated content."
     publishedDateTime: 2022-12-13T20:48:00Z

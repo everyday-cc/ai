@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Phone Market 2023-Industry Analysis, Size, Share, Trends, Market Demand, Growth, Opportunities and Forecast 2028"
-    excerpt: "The global Facial Recognition Phone Market size, revenue, distinct categories, drivers of development, sources"
-    publishedDateTime: 2022-12-13T07:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-phone-market-2023-industry-analysis-size-share-trends-market-demand-growth-opportunities-and-forecast-2028-2022-12-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Computer Networks Market 2023 Company Challenges, Latest Advancements, Growth Prediction, and Forecast by 2028"
     excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence in Computer Networks Market will have significant change from previous year. By the m"
     publishedDateTime: 2022-12-13T10:11:00Z
@@ -136,20 +122,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
-  - title: "Global Facial Recognition Market Trend Insights, Regional Growth Analysis, Major Players Professional Status, Outlook and Forecast 2023-2027"
-    excerpt: "The \"Facial Recognition Market\" research report provides insightful Data, comprehensive statistics, and a thorough"
-    publishedDateTime: 2022-12-13T07:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-facial-recognition-market-trend-insights-regional-growth-analysis-major-players-professional-status-outlook-and-forecast-2023-2027-2022-12-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Based Medical Device Market 2023 Share, Size, Sales, Growth Drivers, Opportunities, Industry Trends and Forecast to 2028"
     excerpt: "New research publishedas theArtificial Intelligence Based Medical Device Marketresearch report provides an in-depth"
     publishedDateTime: 2022-12-14T09:17:00Z

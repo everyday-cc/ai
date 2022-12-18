@@ -2,11 +2,11 @@
 category: news
 title: "Renesas and Fixstars to Jointly Develop Tools Suite that Optimizes AD and ADAS AI Software for R-Car SoCs"
 excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, and Fixstars Corporation, a global leader in multi-core CPU/GPU/FPGA acceleration technology, today announced the joint development of a suite of tools that allows optimization and fast simulation of software for autonomous driving (AD) systems and advanced driver-assistance systems (ADAS) specifically designed for the R-Car system-on-chip (SoC) devices from Renesas."
-publishedDateTime: 2022-12-15T18:42:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/12/15/9731166.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/12/15/9731166.htm"
+publishedDateTime: 2022-12-15T20:16:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/12/15/9731166.htm"
+webUrl: "https://it.tmcnet.com/news/2022/12/15/9731166.htm"
 type: article
-quality: 4
+quality: 2
 heat: -1
 published: false
 
@@ -17,7 +17,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-  - AI Hardware
 
 related:
   - title: "New Tools Suite to Optimizes AD and ADAS AI Software for High Accuracy Object Recognition in R-Car SoCs"
@@ -49,6 +48,6 @@ related:
         height: 630
         isCached: true
 
-secured: "gAMG3bORrsDxTiObHFKT7/mD4/OYCO4ojFbvNmgrNqRLGd6WwQrTnh0aZfgp9OvUoFGrxijCzZZyflrxejCYMqJYs0+T+2XVvpTi+T8U7pC5p7bv8ll24X+pOMi5gv0DisIVvydsm4UgXxrdKhTcLammqBSOK+AZyZ+Nl3Wci8uPToovA7+bxQKvBEtwnB6EhYNCZIcYenvIXWGqGVj6/OaebBYjsi4hyDgOkZkv+ZetPnmf6GjUZIkzdElHTyIUUXCra02hfUvsU20jL3VsydShcM7chdEbRbOwOXiNWr3eOMNvGkJz9Dr3un7u75IAIOON4e7yqalXShRs0s2WGx5G2iKUDVdNDsITTUeK2/f5ZjIUMHrof5Bf1x82JY80MS6+dBoDnLWKVM7BnNNNVRMKLsgDYMgy0P7ZnqvlRyxDCfqgYBecktyT2Yc2Rqrb303IsWSJgvucwDo5Ldn2l5yOm2Nt1GcerdY+RRBkI6LbXhNxa0dc+pFEonroDJVPkrX1GDyy0sEfFU4g7B0udA==;esnmq8wwulfXrLafzS9qGQ=="
+secured: "ECxWcXdn8xzZVauxD30C3W3ZOiixVfA2L7td6evgJjmLxg4SP0SOBDqE+N5Gt4/xNvrQpxfmzwlD1OfsneI6wrB2lpBH9134QfrfuNnke5f/bPr2FCBXWJesKakU3BfwEqpnSU0aAfz+8BzOUU3pl8BCtp5BslbPJIGIUPi7DGjjTXw1OVleQUhSYmqGE7ntf/E/bVm+IT1KHhGNs5DPL3wfK77dG4cYGCN6sX+/FL2OocuHkhc4rgRM2cmgNaWoYgFhH9xIX8XKyfzojHoY8lpJ2fxxzw5hxIsyJzulhI2SR323D7Shd6WNI/JTLoKPTgMxRdGJH/BEnWlUidttvFqebezPBbnBy4uGISNEBgLFhFAKuvHbkO03jmbXfZrbMkCg+USBNmceTwSfG1S0raeHYh6xPsDbRPdU0UJk/1DJno+Tgc/qLi3aSS7xSEb5ub7WqbH7OFHBPsPqFsileiwTIlFzf60NHCjlbGO4P9+sApsjyPW5KxeEpm5VaFnuo1r7CP9IqUKwv1hFtwFqpw==;xD/mhj2/UGTnZYw+PlkBTw=="
 ---
 

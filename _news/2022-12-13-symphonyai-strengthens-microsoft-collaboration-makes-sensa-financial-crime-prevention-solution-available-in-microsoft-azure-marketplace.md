@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/news/symphonyai-strengthens-microsoft-col
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/symphonyai-strengthens-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace/amp/"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "SymphonyAI’s Sensa financial crime prevention solution is now available on Microsoft Azure Marketplace"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2022-12-13T07:12:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/symphonyais-sensa-financial-crime-prevention-solution-is-now-available-on-microsoft-azure-marketplace/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 53
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/09/300x250px.gif"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Dubai-based NOW Money Selects ThetaRay AI Tech to Prevent Financial Crime on the Inclusive Banking App"
     excerpt: "Money, the GCC’s first mobile banking solution focused on financial inclusion, and ThetaRay, a leading provider of AI-powered transaction monitoring technology, today announced a collaboration to implement ThetaRay’s cloud-based AML solution to monitor cross-border payments and support in the prevention of financial crimes and money laundering on the fintech’s payments platform."
     publishedDateTime: 2022-12-14T05:00:00Z

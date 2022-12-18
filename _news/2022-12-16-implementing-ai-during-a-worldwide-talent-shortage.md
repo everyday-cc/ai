@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/implementing-ai-during-a-worldwide-talent
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/implementing-ai-during-a-worldwide-talent-shortage/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:
