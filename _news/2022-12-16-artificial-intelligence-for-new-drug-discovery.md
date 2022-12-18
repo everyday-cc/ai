@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thisdaylive.com/index.php/2022/12/12/artificial-intellig
 cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2022/12/12/artificial-intelligence-for-new-drug-discovery/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: This Day
@@ -36,15 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 44
-  - title: "Artificial Intelligence For New Drug Discovery"
-    excerpt: "The world is making rapid progress in the areas of Big Data, Artificial Intelligence and Machine Learning. These are the core drivers of what many analysts"
-    publishedDateTime: 2022-12-13T14:38:00Z
-    webUrl: "https://leadership.ng/artificial-intelligence-for-new-drug-discovery/"
-    type: article
-    provider:
-      name: LEADERSHIP Newspaper
-      domain: leadership.ng
-    quality: 17
 
 secured: "hFXByZTL30cdzz4UYLpYif5VkxS+W9FWrlBAWnKcpERGognAJaOpr2doCYRbUHbiTN4p0XegsN1xVSbelaB2FyLSXD250AfY7uk8sKWJXOBZz0PMNxJzLIEtfx5923gwp0iMrvwrOyZlxrxPjfygYbh4TglsuogwuCAXLziG4t11SNdNJ0uDgbvZrdtBOAl2/VQW77lILPy0MDYR8WkKHqkesvRD7et3/4bwGPGq/H799Cb3VvWqBQZ4bVNZQX/oLKKyONdpcJj/RrbP3vAjmnQjQXQRAJJGO1mB9uyjrVEXojz5UaPbLjZZd8sFKAVYjm4vQ5ObJLtNPOnd1WeaIPqO9tKK5e1NP8JkV5T0xrE=;6FZ7Wwkv17Rk19cyDB/Yfw=="
 ---

@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Technology behind self-driving cars has reached a stalemate"
-    excerpt: "The progress of autonomous vehicles in recent years is negligible. Investors are now starting to pull out and manufacturers are shutting down, all while Tesla struggles with an increasing number of fatal accidents."
-    publishedDateTime: 2022-12-13T14:40:00Z
-    webUrl: "https://ing.dk/artikel/technology-behind-self-driving-cars-has-reached-a-stalemate-264079"
-    type: article
-    provider:
-      name: ing
-      domain: ing.dk
-    quality: 24
-    images:
-      - url: "https://ing.dk/sites/ing/files/styles/large/public/illustration/2022/12/bigstock-car-with-punctured-flat-tire-p-450582011.jpg?itok=-pO1Askr"
-        width: 480
-        height: 320
-        isCached: true
   - title: "The self-driving era is here, the question is what comes next"
     excerpt: "The self-driving era is here, just not the one that was promised. Instead of sleek pods without steering wheels ready to chauffeur buyers off the lot, there are mostly driverless Chevy compacts, Chrysler minivans,"
     publishedDateTime: 2022-12-15T14:23:00Z

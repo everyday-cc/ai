@@ -41,15 +41,6 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "Audi Taps into the Power of AI for Revolutionary Auto Design"
-    excerpt: "Audi has revealed that it is using artificial intelligence (AI) for the first time in its design process, with the development of an AI-based software called FelGAN. The software uses generative adversarial networks (GANs) to provide designers with new sources of inspiration and ideas for their work."
-    publishedDateTime: 2022-12-13T14:42:00Z
-    webUrl: "https://www.gizmochina.com/2022/12/13/audi-taps-into-the-power-of-ai-for-revolutionary-auto-design/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 51
 
 secured: "N1LYri9dt1YKq3xid6Ny2H5S9zmXdE/0g5y2BNxxOhvbtiilVFsQjN2xiR7TVjWA8O/xd0OKinJAaG9wPTCMLlbdgVamhugfehxBjGcVxi9/dieyV4wnttuDMaXhluMRrV1SowQh1/v9lJW35slhTptFRGhVB2iArdaV4dYiR7OWHdFwuRP0SUArLwgeyBCKrLMgu1UEQJ4hsWZUjWVzCEchTuViJpR7dlnDBarbqMBr3M7eYXLOkZ3SqqNVagiKbFD9uyP2vfxx/F5pAn8C7vqAojZyLxNelnqmW0iVyrW2kPgf0puPqLbhN1f6sk+tZsTnO2zVlSJBJ2d0O8QUYh/qRAxUb1k4kxMFKJ4YQYg=;Ld95FW1QwqaWWByhPexuWw=="
 ---

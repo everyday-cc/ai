@@ -7,7 +7,7 @@ originalUrl: "https://elifesciences.org/articles/76472"
 webUrl: "https://elifesciences.org/articles/76472"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -40,15 +40,6 @@ related:
         width: 2000
         height: 1500
         isCached: true
-  - title: "GBT Filed a Continuation Application for its Facial and Body Recognition Patent"
-    excerpt: "GBT Technologies Inc. (OTC PINK: GTCH) (\"GBT\" or the \"Company\") with GBT Tokenize Corp. (\"GBT/Tokenize\") filed a continuation application with the United States Patent and Trademark Office for its facial and body recognition,"
-    publishedDateTime: 2022-12-14T13:52:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-gbt-filed-continuation-application-its-facial-body-recognition-/2022/12/14/9730190.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "eAeQ6fRLXhODt+1E5qSqh6FA3NIASuOJ0qR1U6OkzRVJU1+8DJz/wrbq/q/zJcrbQMFswF4hhMrFAtpVH+N8lw+7RYKGMTCPIO4IzjnlZB3/MrWtjHQIwvbbl4KNSDad0xExIvQKc5tNlmPuB4a5aDsgiVhMLd6ydt5mn1VYH46hvaJgWtdn82jeNVkIb8Gv2hno2FJQcl0lJB11SyML60ZNGpixswEaPrC04aoDnbTLBj3hQaRYUMj9038p4WyuOqO/oApKnKKQI0olcHx7qvX+XydNE5TUMCrseH6Pe56Ht3+j9Whtu6dA/snHEBKWl9+6kjmsRvuH7cpmSDZa7QSj63zMrFoZbB1sH2mI+zA=;UFdte//XqLKim0Karhvs9A=="
 ---

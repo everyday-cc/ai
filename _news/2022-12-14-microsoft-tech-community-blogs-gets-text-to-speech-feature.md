@@ -99,15 +99,6 @@ related:
         width: 1280
         height: 750
         isCached: true
-  - title: "NTT DATA Launches Energy Efficiency and Sustainability Solution with e-Magic on Microsoft Azure"
-    excerpt: "The end-to-end solution utilizes Azure digital twin technology to reduce carbon footprint and increase efficiency NTT DATA, a global digital business and IT services leader, today announced an end-to-"
-    publishedDateTime: 2022-12-13T13:06:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/12/b30058907/ntt-data-launches-energy-efficiency-and-sustainability-solution-with-e-magic-on-microsoft-azure"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
   - title: "AI in Fashion Market – Major Technology Giants in Buzz Again : Microsoft, Facebook, Google"
     excerpt: "The latest study released on the Global AI in Fashion Market by AMA Research evaluates market size, trend, and forecast to 2027. The AI in Fashion market study covers significant research data and proofs to be a handy resource document for managers,"
     publishedDateTime: 2022-12-16T15:18:00Z

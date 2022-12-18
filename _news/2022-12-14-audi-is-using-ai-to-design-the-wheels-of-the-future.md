@@ -9,8 +9,8 @@ ampWebUrl: "https://www.carscoops.com/2022/12/audi-is-using-ai-to-design-the-whe
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/12/audi-is-using-ai-to-design-the-wheels-of-the-future/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Carscoops
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Audi Taps into the Power of AI for Revolutionary Auto Design"
-    excerpt: "Audi has revealed that it is using artificial intelligence (AI) for the first time in its design process, with the development of an AI-based software called FelGAN. The software uses generative adversarial networks (GANs) to provide designers with new sources of inspiration and ideas for their work."
-    publishedDateTime: 2022-12-13T14:42:00Z
-    webUrl: "https://www.gizmochina.com/2022/12/13/audi-taps-into-the-power-of-ai-for-revolutionary-auto-design/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 51
   - title: "Unlocking the potential of AI"
     excerpt: "If issues around privacy are addressed, AI can revolutionise business and public services by facilitating cost effective, socially beneficial outcomes"
     publishedDateTime: 2022-12-14T10:14:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/amp/"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -35,6 +35,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-Driving Truck Technology Market Insights : Industry dynamics, New Technologies and Forecast to 2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Self-Driving"
+    publishedDateTime: 2022-12-18T01:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-truck-technology-market-insights-industry-dynamics-new-technologies-and-forecast-to-2028-2022-12-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Top 10 Fintech App Development Companies In 2023"
     excerpt: "As we all know, fintech isn’t an incredible financial technology that offers automatic delivery of financial services. According to Statista, the financial app development market is expected to reach $305 billion by the end of 2025."
     publishedDateTime: 2022-12-14T07:33:00Z

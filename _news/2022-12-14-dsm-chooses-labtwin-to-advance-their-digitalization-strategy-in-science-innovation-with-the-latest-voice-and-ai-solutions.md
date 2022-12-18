@@ -7,7 +7,7 @@ originalUrl: "https://www.joplinglobe.com/region/national_business/dsm-chooses-l
 webUrl: "https://www.joplinglobe.com/region/national_business/dsm-chooses-labtwin-to-advance-their-digitalization-strategy-in-science-innovation-with-the-latest-voice/article_beedb03c-8d03-566b-bd27-fe4d1842128b.html"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -23,33 +23,6 @@ images:
     width: 1196
     height: 628
     isCached: true
-
-related:
-  - title: "SymphonyAI strengthens Microsoft collaboration, makes Sensa financial crime prevention solution available in Microsoft Azure Marketplace"
-    excerpt: "SymphonyAI, a leader in high-value enterprise AI SaaS for strategic industries, announced today it is expanding its role as a Microsoft"
-    publishedDateTime: 2022-12-13T14:49:00Z
-    webUrl: "https://enterprisetalk.com/news/symphonyai-strengthens-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace/"
-    ampWebUrl: "https://enterprisetalk.com/news/symphonyai-strengthens-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/symphonyai-strengthens-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 56
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/12/SymphonyAI-strengthens-Microsoft-collaboration_-makes-Sensa-financial-crime-prevention-solution-available-in-Microsoft-Azure-Marketplace.jpg"
-        width: 1500
-        height: 844
-        isCached: true
-  - title: "Dubai-based NOW Money Selects ThetaRay AI Tech to Prevent Financial Crime on the Inclusive Banking App"
-    excerpt: "Money, the GCC’s first mobile banking solution focused on financial inclusion, and ThetaRay, a leading provider of AI-powered transaction monitoring technology, today announced a collaboration to implement ThetaRay’s cloud-based AML solution to monitor cross-border payments and support in the prevention of financial crimes and money laundering on the fintech’s payments platform."
-    publishedDateTime: 2022-12-14T05:00:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/dubai-based-now-money-selects-thetaray-ai-tech-to-prevent-financial-crime-on-the-inclusive/article_d18eab8a-b531-5291-ac8f-0e1cd33c064f.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 18
 
 secured: "cqc5HOb/GXw9S4JcPDtY4FqSqloAr31FYUhNu9JgTvyesNwk7p2CGed3fW/a+Sb1zHR80QikBbjKFnKVDm5+KGyQU5NqdGGFMy0sqQbb/Da3V/Hj0jXhlU/9QvK821EECmmD+kTdot4TdEjYhx/kfpG5LmVgx9Fid4IpOiaviz07sQ087xz1zpMSaWV8zjS+JB+wiz4eFHhw7YRZuOs/vfsRXWYvSiaHfNeUg8cQkrYg4r6QZ9PnfxOUieczgfeSTMYmlyIAzmJy8X64CwWPWvgFR1Y/bIf+rlVLY+bn5ujk3Q/ySiECJAU9ijzmz83X1wmP8ib+eKeu9buA4cK4LDvp9MznAvjue/YbF0j/kHBCT1JsraNgGRNd4l14rBU6sV44vrqzJRqCR4H6zK8199GGGL6LTx+c3qfbSVN4dWZUoa6xMFrkCCaUhsIDvCPCtaV8nVHg27u04sdCdN6X1m/xKZO5U2R9s5zLgFcoIgTE0v9GcXYVLhRjINtAE8UdAEWpQT6tDmdqOlVxPc5Zbw==;jkj9gUehaqdGhWioS1Q7RA=="
 ---

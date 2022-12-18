@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Self-Driving Truck Technology Market Insights : Industry dynamics, New Technologies and Forecast to 2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Self-Driving"
+    publishedDateTime: 2022-12-18T01:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-truck-technology-market-insights-industry-dynamics-new-technologies-and-forecast-to-2028-2022-12-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "MiSpv3qFRGuE1nS6blD1FtNMLZQmL9tj5K7L+CghGL5D9j9T8LNEuL1nVuZkjTo2jbZRLFvGZZ9LKvcTDYEiVH40qqGu/Vy2lEVMpyrVQinft/AzuEkeFzep82R0mBQLPYRZal53JDMpBDd4at2nBo+9ZaB+2868Nz67qFrGb1W04tGQ7q4vNSwQXGlRiB9ebB9P9UICDaDq8uoifwned6mL+7diKmEwx3KOLXpT/oxsU3Iq9CaoGtVwFwW9riDW+LRoeFHnTfJTR9dLdvUEM/DVfBJtxbn5ajsMXLdEljRlbkzK+AA/EQe1erwqCLFfo/eiY14rTTj7DYpjpVsjstDXe4Bgf3LCK8jw1o7IdUo=;NScfAsfu8tEN5OuvfEMU4w=="
 ---

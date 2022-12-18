@@ -91,6 +91,22 @@ related:
         width: 320
         height: 239
         isCached: true
+  - title: "Artificial intelligence chatbots continue to improve. How do they work?"
+    excerpt: "AI chatbots are a software application used to have a conversation that can take on the role of a live human, using technology."
+    publishedDateTime: 2022-12-15T19:51:00Z
+    webUrl: "https://www.lex18.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work"
+    ampWebUrl: "https://www.lex18.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work?_amp=true"
+    cdnAmpWebUrl: "https://www-lex18-com.cdn.ampproject.org/c/s/www.lex18.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work?_amp=true"
+    type: article
+    provider:
+      name: lex18
+      domain: lex18.com
+    quality: 57
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/fd0738b/2147483647/strip/true/crop/3360x1890+0+175/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F0f%2F48%2F1692e0d8492a82d486bd8f7c4435%2Fap22278412101213.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "All you need to know about ChatGPT, a prototype Artificial Intelligence chatbot"
     excerpt: "ChatGPT is becoming your friend and guide on the Internet, giving advice and information almost like a human being. But can it be trusted?"
     publishedDateTime: 2022-12-18T03:56:00Z
@@ -169,14 +185,14 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 17
-  - title: "Artificial intelligence chatbots continue to improve. How do they work?"
-    excerpt: "AI chatbots are a software application used to have a conversation that can take on the role of a live human, using technology."
-    publishedDateTime: 2022-12-15T20:46:00Z
-    webUrl: "https://www.10news.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work"
+  - title: "AI breakthrough ChatGPT raises alarm over student cheating"
+    excerpt: "Academics urge universities to develop new forms of assessment after launch of program that imitates essay-writing"
+    publishedDateTime: 2022-12-18T05:00:00Z
+    webUrl: "https://www.ft.com/content/2e97b7ce-8223-431e-a61d-1e462b6893c3"
     type: article
     provider:
-      name: ABC 10 News
-      domain: 10news.com
+      name: The Financial Times
+      domain: ft.com
     quality: 17
   - title: "Meet ChatGPT: The AI Chatbot That Can Write Code, Pass Exams, and Generate Business Ideas"
     excerpt: "OpenAI's ChatGPT chatbot has advanced AI technology with its ability to generate original, human-like responses. However, there are significant ethical concerns to consider, including the potential for incorrect or fictitious answers and bias in decision-making."

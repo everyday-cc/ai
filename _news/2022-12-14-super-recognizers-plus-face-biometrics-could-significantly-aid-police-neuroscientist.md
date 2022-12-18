@@ -34,15 +34,6 @@ related:
       name: Biometric Companies
       domain: biometricupdate.com
     quality: 19
-  - title: "Voice Biometrics Market Size 2022 Significant Aspects and Emerging Vendors"
-    excerpt: "As per the report published by Fior Markets, the voice biometrics market is expected to grow from USD 1.13 billion in 2020 to USD 5.96 billion by 2028, at a CAGR of 23.12% during the forecast period 2021-2028."
-    publishedDateTime: 2022-12-13T14:48:00Z
-    webUrl: "https://techbullion.com/voice-biometrics-market-size-2022-significant-aspects-and-emerging-vendors/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 2
 
 secured: "eMaxibW42mnFhyrAeAEAT/eDzFtOJ/lUiNtRxdBgwhHSzewHyczdivMmsxqqQoNYvNIQmF9REdyRGlA7aZkR6Unnkr9SL3YkZY8zhUohqHWDCwHutipjvevOjtsl5jVvpiepXV+/bYV9LpkF+EtQpYammFMgtKAm84HGEevJ5lDFbZs0tqXCRTNm6HhRGguXvYUpDveq5OQ5Pu4z8SJO6XhYXZmKOWaChCi3gfste/mKH/F3Nwp4b0llzy3iC24Wh1x8CSKte2LiYX40lnsDisFWcGU6PMWcoqgW1yK55Zza9s6o/sYpGPCkASHCA/NMk7mbCMLYjNu+NZuveKpLYQFJkEUmIwPQpoS7SfOAWYo=;+XT4PLM4w3+ptb2GTVerYg=="
 ---

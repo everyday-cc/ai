@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Uber Eats Deploys Sidewalk Delivery Robots In Miami And Robotaxis In Vegas Just In Time For CES"
+    excerpt: "Autonomous rides are now available in Las Vegas and Uber Eats is now being delivered by sidewalk robots in Miami."
+    publishedDateTime: 2022-12-16T21:47:00Z
+    webUrl: "https://www.forbes.com/sites/martineparis/2022/12/16/uber-is-back-in-the-robot-business-just-in-time-for-ces/"
+    ampWebUrl: "https://www.forbes.com/sites/martineparis/2022/12/16/uber-is-back-in-the-robot-business-just-in-time-for-ces/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2022/12/16/uber-is-back-in-the-robot-business-just-in-time-for-ces/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 77
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/639cacc15d7d2538098cea7f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "UberEats is rolling out a fleet of self-driving delivery robots in Miami"
     excerpt: "Uber and Cartken have announced a partnership to introduce Miami to a fleet of tiny autonomous delivery vehicles."
     publishedDateTime: 2022-12-15T20:00:00Z

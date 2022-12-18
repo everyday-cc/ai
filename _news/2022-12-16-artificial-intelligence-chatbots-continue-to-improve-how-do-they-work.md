@@ -2,20 +2,28 @@
 category: news
 title: "Artificial intelligence chatbots continue to improve. How do they work?"
 excerpt: "AI chatbots are a software application used to have a conversation that can take on the role of a live human, using technology."
-publishedDateTime: 2022-12-15T20:46:00Z
-originalUrl: "https://www.10news.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work"
-webUrl: "https://www.10news.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work"
+publishedDateTime: 2022-12-15T19:51:00Z
+originalUrl: "https://www.lex18.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work"
+webUrl: "https://www.lex18.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work"
+ampWebUrl: "https://www.lex18.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work?_amp=true"
+cdnAmpWebUrl: "https://www-lex18-com.cdn.ampproject.org/c/s/www.lex18.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work?_amp=true"
 type: article
-quality: 17
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: ABC 10 News
-  domain: 10news.com
+  name: lex18
+  domain: lex18.com
 
 topics:
   - AI
+
+images:
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/fd0738b/2147483647/strip/true/crop/3360x1890+0+175/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F0f%2F48%2F1692e0d8492a82d486bd8f7c4435%2Fap22278412101213.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "ChatGPT: Why Everyone Is Obsessed This Mind-Blowing AI Chatbot"
@@ -176,6 +184,15 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 17
+  - title: "AI breakthrough ChatGPT raises alarm over student cheating"
+    excerpt: "Academics urge universities to develop new forms of assessment after launch of program that imitates essay-writing"
+    publishedDateTime: 2022-12-18T05:00:00Z
+    webUrl: "https://www.ft.com/content/2e97b7ce-8223-431e-a61d-1e462b6893c3"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
   - title: "Meet ChatGPT: The AI Chatbot That Can Write Code, Pass Exams, and Generate Business Ideas"
     excerpt: "OpenAI's ChatGPT chatbot has advanced AI technology with its ability to generate original, human-like responses. However, there are significant ethical concerns to consider, including the potential for incorrect or fictitious answers and bias in decision-making."
     publishedDateTime: 2022-12-16T11:00:00Z
@@ -186,6 +203,6 @@ related:
       domain: aei.org
     quality: 10
 
-secured: "AF0A+c8O2Fl7/18PlyY6dyFZuRmaaFci91+UkTXOdvg0Auj3opALM9l66o/EEHm0Rt8BnnS5yhs44aHeHlD/qFUe5RXWK4eqkFw4JkKmHTHoaAauePVJ8vyH1nzcfRbsdsJvTP24gdEWSuDHtXmdFlt1dg1jcmkDtyTs4WxH7j5xtU2pgYyg23svIjxQYRjhnFkDEMxa2dHOBBRjw68k2ADpF1unyPVz4NxHDSHP/zmoaq5SB2ujVq6y/ty6OhBdSrIX8WAe0hNl3qtJIhuYJtZl3X+d94CrItUfIm+BriRpq6eNhr0VkwMW6HyI4belUqnlxnYDmveEdrL+3PBa+flUi6RV4MDX5PZHvtgiv04rQjcgfrxAk3f/r8LlaN3i2GS0jeIp69FhEPVBO7f+0jzOCyKsr3RTGaZyDjD1/q9CgvIUVCP4C3D4u1GpFdObJKlucii+vqMs3C/5L0uYy5b5HbsTQ01LaZX8CIfB5VEQdJv98bK/3rbUyK7VOmcqVAWT6nuL6x6KXTF5AjWnSg==;UU6SfLMbM7Liy5CqPCT5mQ=="
+secured: "ytU6WOhz9eRVkWRG3xTAQ2f0DEo/nTn5bRBVTxheOeNaJLhCY/FdglIkCIqBnsMPqedSL72XMHmYyVNApaB59wClABQJyp36AVoV0iguwRz9iLK9y7oHeCgwE7BHb7Ba5OdUjt1e5YtEH37OtG1X1AzySz8cZzXf8IB9sn8Lh3+MmR8yBH80SDOdcVXQTHbyvIewwxJpUBsKBzQso+D9et8C8bAzoXpDSHcclrOsdu3VZNh72sy6TBrvnLoQg4m2C8vbLv0UgRioz9GjaTCZQ0AGoeBu5BODlNVTwv8IDO8YJpNrWVbe+dbvpxtIVA6S2lQktWVL7bkMq+5WUB5ULC3c+OiUDTSxk0OfRHs0x0c=;ce2eUhq7HhxtZ9afd0yh3w=="
 ---
 
