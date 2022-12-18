@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-09-26-machine-learning-in-banking-market-to-garner-2127-billion-globally-by-2031-at-322-cagr-allied-market-research.md",
+      "title": "Machine Learning in Banking Market to Garner $21.27 Billion, Globally, By 2031 at 32.2% CAGR: Allied Market Research",
+      "excerpt": "Allied Market Research recently published a report, titled, \"Machine Learning in Banking Market By Component (Solution and Service), Enterprise Size (Large Enterprises, Small and Medium-Sized Enterprises [SMEs]),",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-banking-market-to-garner-2127-billion-globally-by-2031-at-322-cagr-allied-market-research-2022-09-26-11203318",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-banking-market-to-garner-2127-billion-globally-by-2031-at-322-cagr-allied-market-research-2022-09-26-11203318",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-26T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-09-26-machine-learning-infrastructure-as-a-service-market-size-share-and-forecast-till-2031.md",
       "title": "Machine Learning Infrastructure As A Service Market Size, Share and Forecast till 2031",
       "excerpt": "The Machine Learning Infrastructure as a Service Market has encountered significant development over the recent years",
@@ -1284,40 +1337,6 @@
       "provider": {
         "name": "YourStory",
         "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-uk-based-reall-invests-in-syntellect-global-affordable-housing-fintech-startup-in-a-pre-series-a-round.md",
-      "title": "UK-based Reall invests in Syntellect - global affordable housing fintech startup in a Pre Series A Round",
-      "excerpt": "UK-based Reall invests in Syntellect - global affordable housing fintech startup in a Pre Series A Round. Updated:",
-      "sourceUrl": null,
-      "webUrl": "https://www.ptinews.com/pti/uk-based-reall-invests-in-syntellect-global-affordable-housing-fintech-startup-in-a-pre-series-a-round/57377.html",
-      "originalUrl": "https://www.ptinews.com/pti/uk-based-reall-invests-in-syntellect-global-affordable-housing-fintech-startup-in-a-pre-series-a-round/57377.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PTI",
-        "domain": "ptinews.com",
         "images": null,
         "publishers": null,
         "authors": null

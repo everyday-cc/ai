@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-28-along-with-data-analytics-machine-learning-intelligent-automation-poised-to-solve-global-business-problems.md",
+      "title": "Along with Data Analytics & Machine Learning, Intelligent Automation poised to solve global business problems",
+      "excerpt": "In the last few years, along with Data Analytics, Machine Learning (ML), Artificial ... Benefits of IA in finance While the global financial services industry – be it asset managers, hedge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/industry/along-with-data-analytics-machine-learning-intelligent-automation-poised-to-solve-global-business-problems/2893671/",
+      "originalUrl": "https://www.financialexpress.com/industry/along-with-data-analytics-machine-learning-intelligent-automation-poised-to-solve-global-business-problems/2893671/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/11/double-exposure-businessman-using-tablet-with-cityscape-financial-graph-blurred-buildi.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/industry/along-with-data-analytics-machine-learning-intelligent-automation-poised-to-solve-global-business-problems/2893671/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/along-with-data-analytics-machine-learning-intelligent-automation-poised-to-solve-global-business-problems/2893671/lite/",
+      "publishedDateTime": "2022-11-27T14:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-11-28-tsa-faces-ethical-limits-on-ai-but-advancement-work-must-persist.md",
       "title": "TSA faces ethical limits on AI, but advancement work must persist",
       "excerpt": "The potential competitive advantage offered by AI is enormous. Yet transitions from the research lab to practice will remain choppy and uncertain, which will help ensure that progress is measured, methodical and slow.",
@@ -1296,49 +1340,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-adludio-adds-deep-learning-to-its-ad-platform.md",
-      "title": "Adludio Adds Deep Learning to Its Ad Platform",
-      "excerpt": "Adludio, providers of an artificial intelligence powered interactive mobile advertising platform, has added deep learning to its platform to give users additional measurement and actionable insights. Using Adludio's platform, clients can input desired ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=155989",
-      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=155989",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/149236-1122_ConvoAI_480x610_v2-ORG.png",
-          "width": 480,
-          "height": 610,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T07:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

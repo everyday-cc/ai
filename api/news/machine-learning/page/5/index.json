@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-11-17-adludio-adds-deep-learning-to-its-ad-platform.md",
+      "title": "Adludio Adds Deep Learning to Its Ad Platform",
+      "excerpt": "Adludio, providers of an artificial intelligence powered interactive mobile advertising platform, has added deep learning to its platform to give users additional measurement and actionable insights. Using Adludio's platform, clients can input desired ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=155989",
+      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=155989",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/149236-1122_ConvoAI_480x610_v2-ORG.png",
+          "width": 480,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T07:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Destination CRM",
+        "domain": "destinationcrm.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-ai-startup-snorkel-preps-a-new-kind-of-expert-for-enterprise-ai.md",
       "title": "AI startup Snorkel preps a new kind of expert for enterprise AI",
       "excerpt": "and also too arduous to build and maintain — they didn't scale, in other words. In an intriguing twist on that earlier approach, Snorkel, a three-year-old AI startup based in San Francisco, Wednesday unveiled tools to, as they put it, bring the human ...",
@@ -1323,58 +1366,6 @@
         "name": "India Education Diary",
         "domain": "indiaeducationdiary.in",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-deep-learning-camera-market-reliable-business-data-analysis-and-forecast-by-2028-with-top-countries-data.md",
-      "title": "Deep Learning Camera Market : Reliable Business Data Analysis and Forecast by 2028 with Top Countries Data",
-      "excerpt": "Number of Tables and Figures :128 | The global \"Deep Learning Camera Market\"size is projected to reach Multimillion USD",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-camera-market-reliable-business-data-analysis-and-forecast-by-2028-with-top-countries-data-2022-11-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-camera-market-reliable-business-data-analysis-and-forecast-by-2028-with-top-countries-data-2022-11-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-08T19:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

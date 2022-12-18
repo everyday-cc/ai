@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-12-10-3-ways-artificial-intelligence-will-transform-the-world-in-2023.md",
+      "title": "3 Ways Artificial Intelligence Will Transform The World in 2023",
+      "excerpt": "As we continue to see high rates of positions needing to be filled in 2023, AI is likely going to see quick adoption, development and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/science-technology/the-3-biggest-artificial-intelligence-ai-trends-in-2023/439434",
+      "originalUrl": "https://www.entrepreneur.com/science-technology/the-3-biggest-artificial-intelligence-ai-trends-in-2023/439434",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1670362779-GettyImages-1249613157.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T11:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-12-10-your-robo-taxi-has-arrived.md",
       "title": "Your Robo-Taxi Has Arrived",
       "excerpt": "Not long ago, driverless vehicles were the stuff of science fiction. Today, the rollout of autonomous vehicles is rapidly gathering pace across the globe. The global transportation industry ...",
@@ -1361,59 +1414,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-03-how-artificial-intelligence-swayed-the-midterm-elections-and-will-become-a-permanent-feature-of-democracy.md",
-      "title": "How Artificial Intelligence Swayed The Midterm Elections - And Will Become A Permanent Feature Of Democracy",
-      "excerpt": "Artificial Intelligence helped give Democrats a fundraising edge this election season, allowing the blue party to retain control of the Senate and blunt a Republican takeover of the House.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/craigsmith/2022/12/02/how-artificial-intelligence-swayed-the-midterm-electionsand-will-become-a-permanent-feature-of-democracy/",
-      "originalUrl": "https://www.forbes.com/sites/craigsmith/2022/12/02/how-artificial-intelligence-swayed-the-midterm-electionsand-will-become-a-permanent-feature-of-democracy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/638a3fd6ebe47b4c2020296e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/craigsmith/2022/12/02/how-artificial-intelligence-swayed-the-midterm-electionsand-will-become-a-permanent-feature-of-democracy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2022/12/02/how-artificial-intelligence-swayed-the-midterm-electionsand-will-become-a-permanent-feature-of-democracy/amp/",
-      "publishedDateTime": "2022-12-02T10:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
       ]
     }
   ],

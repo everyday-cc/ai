@@ -2,6 +2,94 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2022-10-12-is-artificial-intelligence-inching-closer-to-sentience.md",
+      "title": "Is artificial intelligence inching closer to sentience?",
+      "excerpt": "Chatbots are starting to muse about life, death and religion. But could these silicon philosophers one day gain consciousness? Or are they just getting good at mimicking it?",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com/business/mars/2022/10/11/is-ai-inching-closer-to-sentience.html",
+      "originalUrl": "https://www.thestar.com/business/mars/2022/10/11/is-ai-inching-closer-to-sentience.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestar.com/content/dam/thestar/business/mars/2022/10/06/tech-update-torontos-fintech-ecosystem-on-the-rise-canadian-jet-fuel-is-going-green/_2_mars_discovery_district.jpg.size.custom.crop.640x360.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestar.com/amp/business/mars/2022/10/11/is-ai-inching-closer-to-sentience.html",
+      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/mars/2022/10/11/is-ai-inching-closer-to-sentience.html",
+      "publishedDateTime": "2022-10-11T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Toronto Star",
+        "domain": "thestar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-automate-classification-of-it-service-requests-with-an-amazon-comprehend-custom-classifier.md",
+      "title": "Automate classification of IT service requests with an Amazon Comprehend custom classifier",
+      "excerpt": "Enterprises often deal with large volumes of IT service requests. Traditionally, the burden is put on the requester to choose the correct category for every issue. A manual error or misclassification of a ticket usually means a delay in resolving the IT service request. This can result in reduced productivity,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-classification-of-it-service-requests-with-an-amazon-comprehend-custom-classifier/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-classification-of-it-service-requests-with-an-amazon-comprehend-custom-classifier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T12:08:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-10-11-how-were-using-machine-learning-to-understand-proteins.md",
       "title": "How we’re using machine learning to understand proteins",
       "excerpt": "When most people think of proteins, their mind typically goes to protein-rich foods such as steak or tofu. But proteins are so much more. They’re essential to how living things operate and thrive, and studying them can help improve lives. For example, insulin treatments are life-changing for people with",
@@ -1079,100 +1167,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-ironvest-bets-on-biometric-ai-to-stop-identity-theft.md",
-      "title": "IronVest bets on biometric AI to stop identity theft",
-      "excerpt": "IronVest releases a biometric AI solution designed to prevent identity theft with $23 million in seed funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/ironvest-biometric-ai/",
-      "originalUrl": "https://venturebeat.com/security/ironvest-biometric-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/06/identity_theft-shutterstock_174324230.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/ironvest-biometric-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/ironvest-biometric-ai/amp/",
-      "publishedDateTime": "2022-10-11T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-autonomous-self-driving-cars-market-future-of-automobile-industry-to-forecast-2029.md",
-      "title": "Autonomous / Self-Driving Cars Market: Future of Automobile Industry To Forecast 2029",
-      "excerpt": "Self-driving cars use a combination of sensors, cameras, radar, and artificial intelligence (AI) to navigate between destinations without a human driver (also known as an autonomous car or ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/autonomous-self-driving-cars-market-future-of-automobile-industry-to-forecast-2029",
-      "originalUrl": "https://www.digitaljournal.com/pr/autonomous-self-driving-cars-market-future-of-automobile-industry-to-forecast-2029",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/10/Glassy_carbon_and_a_1cm3_graphite_cube_HP68-79-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T02:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

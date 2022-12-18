@@ -57,48 +57,6 @@ related:
         width: 927
         height: 1013
         isCached: true
-  - title: "How Artificial Intelligence Can Enhance the Fintech Industry"
-    excerpt: "AI in FinTech has also had a similar impact with enhanced security and banking apps, making the finance industry more customer friendly. Artificial intelligence (AI) significantly impacts practically every part of our daily life,"
-    publishedDateTime: 2022-12-16T16:45:00Z
-    webUrl: "https://www.bbntimes.com/financial/how-artificial-intelligence-can-enhance-the-fintech-industry"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 39
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/How_AI_Can_Enhance_the_Fintech_Industry.png"
-        width: 1888
-        height: 1080
-        isCached: true
-  - title: "Top 10 Fintech App Development Companies In 2023"
-    excerpt: "As we all know, fintech isn’t an incredible financial technology that offers automatic delivery of financial services. According to Statista, the financial app development market is expected to reach $305 billion by the end of 2025."
-    publishedDateTime: 2022-12-14T07:33:00Z
-    webUrl: "https://techbullion.com/top-10-fintech-app-development-companies-in-2023/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/12/unnamed-36-1.jpg"
-        width: 512
-        height: 256
-        isCached: true
-  - title: "This is how fintech is changing the game for young professionals in India"
-    excerpt: "Indian professionals need more than ever is ground-breaking financial services that go beyond the norm to realise their dream of non-discriminatory financial inclusion and stability."
-    publishedDateTime: 2022-12-14T02:00:00Z
-    webUrl: "https://yourstory.com/2022/12/this-is-how-fintech-is-changing-the-game-for-young"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 23
-    images:
-      - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/digital-payments-1588829559718.png?fm=png&auto=format"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Fintech stocks took hammering in 2022, but rebound coming: industry boss"
     excerpt: "Soaring interest rates tend to hurt growth stocks – and more specifically tech stocks – due to the discounted cash flow models used in their valuations. As a result, fintech, which is part of the broader tech space,"
     publishedDateTime: 2022-12-14T22:23:00Z

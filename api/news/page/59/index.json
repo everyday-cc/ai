@@ -2,6 +2,111 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2022-10-26-deploy-a-machine-learning-inference-data-capture-solution-on-aws-lambda.md",
+      "title": "Deploy a machine learning inference data capture solution on AWS Lambda",
+      "excerpt": "Monitoring machine learning (ML) predictions can help improve the quality of deployed models. Capturing the data from inferences made in production can enable you to monitor your deployed models and detect deviations in model quality. Early and proactive detection of these deviations enables you to take",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-a-machine-learning-inference-data-capture-solution-on-aws-lambda/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-a-machine-learning-inference-data-capture-solution-on-aws-lambda/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/26/deploy-machine-learning-inference-lambda.jpg",
+          "width": 1342,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-26T08:54:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-the-ai-bill-of-rights-a-technology-perspective.md",
+      "title": "The AI Bill Of Rights - A Technology Perspective",
+      "excerpt": "The White House recently unveiled the AI Bill of Rights. What is this, why is it needed, and what does it do? In this post, I provide some perspective - from a technology and business standpoint, about this document and what it can or should mean for businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nishatalagala/2022/10/26/the-ai-bill-of-rightsa-technology-perspective/",
+      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2022/10/26/the-ai-bill-of-rightsa-technology-perspective/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63594c110c272daef33671f1/0x0.jpg?format=jpg&width=1200",
+          "width": 1088,
+          "height": 662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2022/10/26/the-ai-bill-of-rightsa-technology-perspective/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2022/10/26/the-ai-bill-of-rightsa-technology-perspective/amp/",
+      "publishedDateTime": "2022-10-26T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-26-artificial-intelligenceai-in-healthcare-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-125-pages-report.md",
       "title": "Artificial Intelligence(AI) in Healthcare Market : Industry Analysis 2022 To 2028 based on Sales, Revenue, Size and Share | 125 Pages Report",
       "excerpt": "Oct 26, 2022 (The Expresswire) -- \"Artificial Intelligence(AI) in Healthcare Market\" valuation is Projected to reach USD 13240 Mn USD by 2027, From 2222.5",
@@ -1111,83 +1216,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-aizen-global-to-introduce-ai-banking-service-at-singapore-fintech-festival.md",
-      "title": "AIZEN Global to introduce AI banking service at Singapore Fintech Festival",
-      "excerpt": "The company is also planning to demonstrate its AI service-type banking and share examples of banking service applications in various industries at this fintech event, which is the largest in Asia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/aizen-global-introduce-ai-banking-service-singapore-fintech-festival",
-      "originalUrl": "https://www.asiaone.com/business/aizen-global-introduce-ai-banking-service-singapore-fintech-festival",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2022/image_1049.jpg?h=04d92ac6&itok=93pX9W6n",
-          "width": 600,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T20:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-how-to-be-a-super-ager-and-improve-your-memory-and-cognitive-function-as-you-age.md",
-      "title": "How to be a 'super-ager' and improve your memory and cognitive function as you age",
-      "excerpt": "but I was so alarmed by my forgetfulness I Googled to see if there was any way to improve my memory and cognitive function. Like what you see? Sign up to our bodyandsoul.com.au newsletter for more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bodyandsoul.com.au/health/how-to-be-a-superager-and-improve-your-memory-and-cognitive-function-as-you-age/news-story/27b3ea8304b4c610c9b61f66defc1392",
-      "originalUrl": "https://www.bodyandsoul.com.au/health/how-to-be-a-superager-and-improve-your-memory-and-cognitive-function-as-you-age/news-story/27b3ea8304b4c610c9b61f66defc1392",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bodyandsoul.com.au/health/how-to-be-a-superager-and-improve-your-memory-and-cognitive-function-as-you-age/news-story/27b3ea8304b4c610c9b61f66defc1392?amp",
-      "cdnAmpWebUrl": "https://www-bodyandsoul-com-au.cdn.ampproject.org/c/s/www.bodyandsoul.com.au/health/how-to-be-a-superager-and-improve-your-memory-and-cognitive-function-as-you-age/news-story/27b3ea8304b4c610c9b61f66defc1392?amp",
-      "publishedDateTime": "2022-10-25T19:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bodyandsoul.com.au",
-        "domain": "bodyandsoul.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

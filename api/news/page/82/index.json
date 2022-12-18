@@ -2,6 +2,102 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2022-10-07-better-cognitive-predictor-in-people-at-high-risk-of-alzheimers-disease.md",
+      "title": "Better Cognitive Predictor in People at High Risk of Alzheimer’s Disease",
+      "excerpt": "while people with low levels of soluble amyloid-beta were more likely to experience cognitive impairment. In the current study, conducted on patients with the highest risk of developing AD ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.genengnews.com/topics/translational-medicine/better-cognitive-predictor-in-people-at-high-risk-of-alzheimers-disease/",
+      "originalUrl": "https://www.genengnews.com/topics/translational-medicine/better-cognitive-predictor-in-people-at-high-risk-of-alzheimers-disease/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.genengnews.com/wp-content/uploads/2022/10/CO_MarApr17_Getty_485261444_selvanegra_Neurons.jpg",
+          "width": 2000,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-06T10:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GEN",
+        "domain": "genengnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-06-increase-ml-model-performance-and-reduce-training-time-using-amazon-sagemaker-built-in-algorithms-with-pre-trained-models.md",
+      "title": "Increase ML model performance and reduce training time using Amazon SageMaker built-in algorithms with pre-trained models",
+      "excerpt": "Model training forms the core of any machine learning (ML) project, and having a trained ML model is essential to adding intelligence to a modern application. A performant model is the output of a rigorous and diligent data science methodology. Not implementing a proper model training process can lead",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/increase-ml-model-performance-and-reduce-training-time-using-amazon-sagemaker-built-in-algorithms-with-pre-trained-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/increase-ml-model-performance-and-reduce-training-time-using-amazon-sagemaker-built-in-algorithms-with-pre-trained-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/06/increase-ml-model-performance.jpg",
+          "width": 1549,
+          "height": 769,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-06T09:59:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-10-06-informediq-automates-verifications-for-origences-auto-lending-using-machine-learning.md",
       "title": "InformedIQ automates verifications for Origence’s auto lending using machine learning",
       "excerpt": "This post was co-written with Robert Berger and Adine Deford from InformedIQ. InformedIQ is the leader in AI-based software used by the nation’s largest financial institutions to automate loan processing verifications and consumer credit applications in real time per the lenders’ policies. They improve",
@@ -1116,91 +1212,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-06-an-ai-model-reveals-how-the-bodys-defense-system-recognizes-skin-cancer.md",
-      "title": "An AI model reveals how the body’s defense system recognizes skin cancer",
-      "excerpt": "The artificial intelligence model could be utilized to enable more effective care for skin cancer patients and could lead to similar breakthroughs in the diagnosis and treatment of other cancers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/967586",
-      "originalUrl": "https://www.eurekalert.org/news-releases/967586",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-06-how-ai-can-help-companies-beat-inflation-and-avoid-shrinkflation.md",
-      "title": "How AI can help companies beat inflation and avoid shrinkflation",
-      "excerpt": "Shrinkflation efforts are being noticed by consumers. Orgs are realizing it doesn’t have the restorative impact on margins they hoped for.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-ai-can-help-companies-beat-inflation-and-avoid-shrinkflation/",
-      "originalUrl": "https://venturebeat.com/ai/how-ai-can-help-companies-beat-inflation-and-avoid-shrinkflation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-shrinkflation_1401710653-e1665013208837.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-ai-can-help-companies-beat-inflation-and-avoid-shrinkflation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-can-help-companies-beat-inflation-and-avoid-shrinkflation/amp/",
-      "publishedDateTime": "2022-10-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

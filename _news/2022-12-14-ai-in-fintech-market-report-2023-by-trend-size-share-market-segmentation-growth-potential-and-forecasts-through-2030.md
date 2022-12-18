@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-rep
 webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-report-2023-by-trend-size-share-market-segmentation-growth-potential-and-forecasts-through-2030-2022-12-14"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -29,112 +29,52 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence In Fashion Retail Market Size, Outlook, Share, Prominent Players, Growth, and Forecast 2028"
-    excerpt: "Artificial Intelligence In Fashion Retail Market\" is sectioned top to bottom in this review. Worldwide and geological"
-    publishedDateTime: 2022-12-14T01:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-fashion-retail-market-size-outlook-share-prominent-players-growth-and-forecast-2028-2022-12-13"
+  - title: "How Artificial Intelligence Can Enhance the Fintech Industry"
+    excerpt: "AI in FinTech has also had a similar impact with enhanced security and banking apps, making the finance industry more customer friendly. Artificial intelligence (AI) significantly impacts practically every part of our daily life,"
+    publishedDateTime: 2022-12-16T16:45:00Z
+    webUrl: "https://www.bbntimes.com/financial/how-artificial-intelligence-can-enhance-the-fintech-industry"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.bbntimes.com/images/articles/global-economy/How_AI_Can_Enhance_the_Fintech_Industry.png"
+        width: 1888
+        height: 1080
         isCached: true
-  - title: "Machine Learning Artificial intelligence Market 2023 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2028"
-    excerpt: "Machine Learning Artificial intelligence Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2028. Machine Learning Artificial intelligence Market Research Report is spread across 93 Pages and provides exclusive data,"
-    publishedDateTime: 2022-12-14T10:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-artificial-intelligence-market-2023-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2028-2022-12-14"
+  - title: "Top 10 Fintech App Development Companies In 2023"
+    excerpt: "As we all know, fintech isn’t an incredible financial technology that offers automatic delivery of financial services. According to Statista, the financial app development market is expected to reach $305 billion by the end of 2025."
+    publishedDateTime: 2022-12-14T07:33:00Z
+    webUrl: "https://techbullion.com/top-10-fintech-app-development-companies-in-2023/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://techbullion.com/wp-content/uploads/2022/12/unnamed-36-1.jpg"
+        width: 512
+        height: 256
         isCached: true
-  - title: "AI In Computer Vision Market 2023 Statistics, Industry Share, Latest Trends, Growth Drivers, Size Estimate and Forecast till 2028"
-    excerpt: "\" AI In Computer Vision Market \" Insights 2022 - By Applications (JHGJGHealthcare, Automotive, Agriculture), By Types (JHGJG Hardware, Software), By Segmentation analysis, Regions and Forecast to 2028."
-    publishedDateTime: 2022-12-18T01:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2023-statistics-industry-share-latest-trends-growth-drivers-size-estimate-and-forecast-till-2028-2022-12-17"
+  - title: "AI in fintech: 4 ways AI impacts on financial industry"
+    excerpt: "A remarkable milestone in fintech has become the deployment of artificial intelligence algorithms, a potential game changer that has revolutionized the financial industry in many ways. The benefits AI brings are huge: this smart tech reduces unnecessary expenses,"
+    publishedDateTime: 2022-12-15T14:53:00Z
+    webUrl: "https://www.finextra.com/blogposting/23418/ai-in-fintech-4-ways-ai-impacts-on-financial-industry"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Consulting Market 2023 : Production Capacity, Restring Drivers, Size and Landscape Outlook 2028"
-    excerpt: "Consulting Market \" Insights 2022 - By Applications (Technology Consulting,Management Consultin), By Types (, Strategy Development, Strategy Execution, Commercial Due Diligence, Customer Training), By Segmentation analysis,"
-    publishedDateTime: 2022-12-16T01:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-consulting-market-2023-production-capacity-restring-drivers-size-and-landscape-outlook-2028-2022-12-15"
+      name: Finextra
+      domain: finextra.com
+    quality: 19
+  - title: "Call Center AI Market is Poised to Increase at a Stable CAGR of 13.5% from 2022 to 2032 | Future Market Insights, Inc."
+    excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
+    publishedDateTime: 2022-12-14T07:27:00Z
+    webUrl: "https://www.fmiblog.com/2022/12/14/call-center-ai-market-is-poised-to-increase-at-a-stable-cagr-of-13-5-from-2022-to-2032-future-market-insights-inc/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI In Medical Imaging Market Size, Share, Growth, Revenue, Demand, Future opportunity, analysis and forecast till 2028"
-    excerpt: "AI In Medical Imaging Market\" Research Report explains how the market growth has been unfolding over the recent past"
-    publishedDateTime: 2022-12-14T10:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-size-share-growth-revenue-demand-future-opportunity-analysis-and-forecast-till-2028-2022-12-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Based Medical Device Market 2023 Share, Size, Sales, Growth Drivers, Opportunities, Industry Trends and Forecast to 2028"
-    excerpt: "New research publishedas theArtificial Intelligence Based Medical Device Marketresearch report provides an in-depth"
-    publishedDateTime: 2022-12-14T09:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-2023-share-size-sales-growth-drivers-opportunities-industry-trends-and-forecast-to-2028-2022-12-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-  - title: "Artificial Intelligence (AI) in Automotive Market Trends 2023 Industry Size, Segments, Share, Key Players and Growth Factor Analysis by 2026"
-    excerpt: "Global “Artificial Intelligence (AI) in Automotive Market” 2023 report presents an exclusive analysis of market"
-    publishedDateTime: 2022-12-15T07:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-trends-2023-industry-size-segments-share-key-players-and-growth-factor-analysis-by-2026-2022-12-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-  - title: "Artificial Intelligence (AI) Consulting Market Market Size 2023 Industry Analysis, Key Players, Regional Demand, Opportunity and Forecast 2028"
-    excerpt: "Consulting Market \" Insights 2022 - By Applications (Technology Consulting, Management Consulting), By Types (, Strategy Development, Strategy Execution, Commercial Due Diligence, Customer Training, ),"
-    publishedDateTime: 2022-12-18T11:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-consulting-market-market-size-2023-industry-analysis-key-players-regional-demand-opportunity-and-forecast-2028-2022-12-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
-  - title: "Artificial Intelligence in Manufacturing Forecast for 2028, Market 2023, Global Industry Trends, Share, Size, Growth, Analysis, Demand"
-    excerpt: "Artificial Intelligence in Manufacturing Market 2023-2028 | Pre and Post-COVID Research is Covered, Report Information"
-    publishedDateTime: 2022-12-15T05:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-forecast-for-2028-market-2023-global-industry-trends-share-size-growth-analysis-demand-2022-12-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 0
 
 secured: "eDuktPdw6AtDLCvdtwVg/F80M5UvdpyjIIPh2PJRdBZVaTyozaG4WbhnabUTo83zVJ1acP88bX0g+x9EqbmH1pQr3tqS0P3HMyDPq/dqNfn/OzxrDdTYlL9h/88rrslIGLak739vg6RlfIB8yY8dlEG3I3q8ll8ku2uVRfSYUHPiH9lCc1H0uxI9oWTPOqknxQfgPDnVC316tkWfHkV1SUnQXGi58tMKVxIki8Fgk08tP0BbsA0qQ4WadoIcptUJrZjDLZ7sVgMVUNla6lQrR1jM4UtR9dv3BoYhkI2uXgzzyDQ/76MhxCjnERKrig/vlEoqjLGTpAHnW3s1IfU9nZCA0AkniYPVIOu7LpTFLKw=;mz76cYv+d5brz9/fET+KUg=="
 ---
