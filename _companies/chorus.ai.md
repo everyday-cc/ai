@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "chorus_ai"
   url: "https://twitter.com/chorus_ai"
-  followers: 6713
+  followers: 6712
 
 locations:
   - San Francisco and Tel Aviv
