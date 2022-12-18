@@ -49,29 +49,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Storm King Workers Push for Union Recognition"
-    excerpt: "Staff members at the Storm King Art Center in New York’s Hudson Valley announced their intent to unionize nearly a month ago, but management and the board of trustees have yet to voluntarily recognize their efforts."
-    publishedDateTime: 2022-12-13T20:21:00Z
-    webUrl: "https://hyperallergic.com/787122/storm-king-workers-push-for-union-recognition/"
-    type: article
-    provider:
-      name: Hyperallergic
-      domain: hyperallergic.com
-    quality: 24
-    images:
-      - url: "https://hyperallergic-newspack.s3.amazonaws.com/uploads/2022/12/Amber-Bowen.jpg"
-        width: 2000
-        height: 1500
-        isCached: true
-  - title: "Google Patents System for Using Facial Recognition to Cue Up Content"
-    excerpt: "Google patents a new system that will take advantage of facial recognition technology to present users with a choice of curated content."
-    publishedDateTime: 2022-12-13T20:48:00Z
-    webUrl: "https://gamerant.com/google-facial-recognition-system-patent/"
-    type: article
-    provider:
-      name: Game Rant
-      domain: gamerant.com
-    quality: 21
 
 secured: "LaL2Do+qLK+Vyjem9jr3jLWQcEauwRQ+q81iWUqbNOuY7reWJgbEaeHBFsPH3WKF0NsihCU/hq48wNY7y+Uumo0CTieSqfMTnZdDyvS2rzNSmLmqZOBBiG4TQCIeMRTyP8HMffp446T7KCLriPffk7UyvXWCihrZ2JVoBXWcEqoKdIFcgpWYwBTqXBwAeenDkUwQ7pbYJU6Sc992n+rqWNQsAyLtdjKNMu2/gOIpYaDE8wmdARMqiSAFcA5dSEUUIZ0eQCI34EFMT9+QFFzCs8rYEOGeQ0VVRZhDknaIHyxgHSt5mRmeU9tKtFm5GJPikuTmFTuv8SI5Q/f6SS905Xgkof0tYt3bsm1NfxsuISs=;W2oR+meAAQnb2s7QIY8HxA=="
 ---

@@ -3,13 +3,13 @@ category: news
 title: "Werner CIO Looks to Outfit Company Trucks With AI-Enabled Tech"
 excerpt: "The Omaha, Neb.-based company plans to install dashboard cameras with artificial-intelligence capabilities from Samsara in its fleet of 8,500 trucks"
 publishedDateTime: 2022-12-15T11:59:00Z
-originalUrl: "https://www.wsj.com/articles/werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech-11671071051?mod=hp_minor_pos5"
-webUrl: "https://www.wsj.com/articles/werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech-11671071051?mod=hp_minor_pos5"
+originalUrl: "https://www.wsj.com/articles/werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech-11671071051"
+webUrl: "https://www.wsj.com/articles/werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech-11671071051"
 ampWebUrl: "https://www.wsj.com/amp/articles/werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech-11671071051"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech-11671071051"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - Microsoft AI
   - AI
 
 images:
@@ -29,6 +30,6 @@ images:
     height: 640
     isCached: true
 
-secured: "LlMenmwWMRvIOLd+OouGXJIzEQ2Xc8VDttK0P3qg9OZ9wLsMRTpArWkChMdMG3FIsXxXZ+MXDEbB1AqAM/RxOYly4FcS2bhJkUwMmUhjn1+yuGxqVgp1Q6oaaHeZsukFvnomNQMtHlCMxDwM9KFlHQQINqfMKoZ73dKY82h1rllJ+lh0O3l+OIHy0Eq4YKIRFzI3AUVgVnEIKcyvAJp/rrT7sWoJnYrPFZE1CtIX3wHR3D+DCI+roJkRuAk7XtqHAYeYloRTdo/KmQxx70qzGxK5MMq/nWbDwcHRc0pYb3TLwM2dn742uRZin4xTu2F/GwyJlY5yHRTYyDfYAZWHEoSJfcWbG8DY1kJhRdCLvsA=;q6P3y7FwHGz4ctuv8sPtIg=="
+secured: "xWjEGOS6ueHAWHDRU2E6c/WG+TD7EBwDdDehsydunk4Qvg4c28qsjoppEKObMwDFYONAOgPKO2S1aPtbdiXzzCJDwSi78kCWiDfpaZSjdu2UPbpbP9OYuIR9DUpNsydYBRUkRpJvVre5eiP/n4wRsmMbPCggMSEObodWlIG95ZFqLb+GSXpkb1sz0WY67hlWgocTWPgHAhLeX+woTWe4vm4HPKflz+P7HwQi+T48lXQ8sECTar5kle/nC7j2BhzjQ/iyD1xtYXj3GkeJSqYUO2ztpxJVkD4orfs7Kj8d8rvVQynJY30S6F+ua7IceQuMgnZbci5pKbULjgLdsJgS2mXWBkJsEqmueNO6qnadZjc=;BmI8TdZj7vSAInfKOMUgdA=="
 ---
 

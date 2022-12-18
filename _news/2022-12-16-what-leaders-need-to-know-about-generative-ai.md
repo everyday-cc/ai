@@ -22,31 +22,36 @@ topics:
   - AI
 
 related:
-  - title: "Generative AI is changing everything. But what’s left when the hype is gone?"
-    excerpt: "They’d built a new version of OpenAI’s text-to-image model, DALL-E, an AI that converts short written descriptions into pictures: a fox painted by Van Gogh, perhaps, or a corgi made of pizza. Now they just had to figure out what to do with it."
-    publishedDateTime: 2022-12-16T09:13:00Z
-    webUrl: "https://www.technologyreview.com/2022/12/16/1065005/generative-ai-revolution-art/"
-    ampWebUrl: "https://www.technologyreview.com/2022/12/16/1065005/generative-ai-revolution-art/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/16/1065005/generative-ai-revolution-art/amp/"
+  - title: "How Generative AI Will Change All Knowledge Work"
+    excerpt: "The acceleration of applications around generative AI is showing us how quickly and broadly our work will change."
+    publishedDateTime: 2022-12-18T12:30:00Z
+    webUrl: "https://time.com/charter/6242075/how-generative-ai-will-change-all-knowledge-work/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 56
+      name: Time
+      domain: time.com
+    quality: 69
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/12/AI_Main_111622.jpg?w=1506"
-        width: 1506
-        height: 1999
+      - url: "https://api.time.com/wp-content/uploads/2022/12/image-7.png?w&#x3D;1600"
+        width: 1600
+        height: 1200
         isCached: true
-  - title: "The Download: generative AI, and psychedelic hype"
-    excerpt: "Generative AI is changing everything. But what’s left when the hype is gone? It was clear that OpenAI was on to something. In late 2021, a small team of researchers was playing around with a new version of OpenAI’s text-to-image model,"
-    publishedDateTime: 2022-12-16T13:09:00Z
-    webUrl: "https://www.technologyreview.com/2022/12/16/1065266/download-generative-ai-psychedelic-hype/"
+  - title: "How AI will change our workplace"
+    excerpt: "Artificial intelligence is already omnipresent in our private everyday life, through the likes of voice-controlled household helpers, self-driving cars, and optimized adverts that stem from the behavioural analysis of our smartphone and internet history."
+    publishedDateTime: 2022-12-16T16:55:00Z
+    webUrl: "https://bmmagazine.co.uk/business/how-ai-will-change-our-workplace/"
+    ampWebUrl: "https://bmmagazine.co.uk/business/how-ai-will-change-our-workplace/?amp"
+    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/business/how-ai-will-change-our-workplace/?amp"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
+      name: Business Matters
+      domain: bmmagazine.co.uk
+    quality: 59
+    images:
+      - url: "https://bmmagazine.co.uk/wp-content/uploads/2021/08/shutterstock_1182748681-scaled.jpg"
+        width: 850
+        height: 523
+        isCached: true
 
 secured: "SilixKRKMVDS3Wfv030eMaEP0VfU0yB8buGt5OVOrFSIWEQ8MN2VabyPy7j4Xx9JmfpWiabgXA4pP2Oen+dXAO/H/KprYWWRd/ZE5BRDatP0W/pDGUGSWGltVfpShX8+g9ovzst53Kwvx4w746mZJgHm9XrHZVrIKYfllxChKh7DWtPoAu52JT/0U6OKcLSpAxJptDqoxccOAj+AMAp3yteqwSBWA/QmgcG2T8ARt+h8AKTCT7ZDhtFNopwYEt/5/S7w8S38PBQ2AvXPAFNqWuqey0Nqj+KdPcfbPiCaiI7vloUgS/6RZ9/Ndm0muM7daDdpj47Fa5snhcgsFKCooZF9d6e4RwGcW99asCwo+bTMEdlpPAYtY2AOc83bq3u2fbtMWFy37JEHJflIlePNFb4ySaE8ZHk108qwoLLR26J5gVPZ+GrvvtuUZTxde1haynTjSZDHn+hzepGdCGYHJHALI2l3YUId6gjUINp7B8St1140cd6TK/g2E8v8vME0gBhl8oDmSnvM3ILfolO3rQ==;h6v+jHRpgfI3Ga8lLvl5IQ=="
 ---

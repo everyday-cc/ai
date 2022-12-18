@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ispo.com/en/news-markets/my-coach-artificial-intelligenc
 cdnAmpWebUrl: "https://www-ispo-com.cdn.ampproject.org/c/s/www.ispo.com/en/news-markets/my-coach-artificial-intelligence?amp"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,15 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "7 ways a recession could impact AI and ML in 2023"
-    excerpt: "Experts are predicting a possible recession in 2023. What would that mean for AI users and the vendors that supply AI tools and expertise?"
-    publishedDateTime: 2022-12-13T20:32:00Z
-    webUrl: "https://venturebeat.com/ai/7-ways-a-recession-could-impact-ai-and-ml-in-2023/"
+  - title: "AI safety technology aims to flip the script on driver coaching"
+    excerpt: "The survey aims to highlight the need for positive reinforcement to improve driver behavior and ultimately safety and cost savings"
+    publishedDateTime: 2022-12-15T15:57:00Z
+    webUrl: "https://www.ccjdigital.com/technology/driver-coaching-and-scorecarding/article/15304064/survey-shows-safety-finances-top-concerns-for-some-fleets"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
+      name: CCJ
+      domain: ccjdigital.com
+    quality: 39
+    images:
+      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2022/12/GreenZone_Score_driver_congrats.6390e7aa90765.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 938
+        height: 879
+        isCached: true
 
 secured: "/+XKcDErLwwLBtWTRHdXxiT7w7ZIIxMsvMAfc6jEfcVcNMqtVw2FMjLzCgmvBxHhjv+LAOk/wlUII8YylTS+Q0gT9a1ZrIiEiHlfV4QRtZ96Lr8tFU2KUexxx5UOWyA5oRiWE/PgaPAaAmMkIbVFMyqd2l1Pzi7e2ybSrRFGFNo84SkhuJQi8zpV8fqgD8nRLQRninvj2fDpTtN3QEnfmeA97g2GmrTxuTDHMsPwUl6uWQaxmo7g06Lc1ZEMomfPoItlnl9yp/fvwIOR6oZElmf2npNIIiXQZskvboISoEu3TUspWqCmfAi1OBcv6ml9hTTFfREjiB+e/pVEYTvpqgFZfdiGzKT174ngZtDmUiA=;w/Ga4HKaCP74OyNh5+ywjg=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2022/12/16/1065005/generative-ai-re
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/16/1065005/generative-ai-revolution-art/amp/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: MIT Technology Review
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "What Leaders Need To Know About Generative AI"
-    excerpt: "Cognitive algorithms, such as generative AI, have the potential to help companies achieve their goals more efficiently. Here's what leaders need to know"
-    publishedDateTime: 2022-12-16T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/benjaminlaker/2022/12/16/what-leaders-need-to-know-about-generative-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "The Download: generative AI, and psychedelic hype"
     excerpt: "Generative AI is changing everything. But what’s left when the hype is gone? It was clear that OpenAI was on to something. In late 2021, a small team of researchers was playing around with a new version of OpenAI’s text-to-image model,"
     publishedDateTime: 2022-12-16T13:09:00Z

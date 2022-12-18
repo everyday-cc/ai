@@ -9,7 +9,7 @@ ampWebUrl: "https://bmmagazine.co.uk/business/how-ai-will-change-our-workplace/?
 cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/business/how-ai-will-change-our-workplace/?amp"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,15 +27,29 @@ images:
     isCached: true
 
 related:
-  - title: "Will AI replace human workers?"
-    excerpt: "Is generative AI any different from a human artist who is directly influenced by another’s work? It also poses a financial risk. What will happen to those who create art to make a living, now that everyone has the ability to input text or images into a model that spits out original results?"
-    publishedDateTime: 2022-12-14T17:43:00Z
-    webUrl: "https://www.ft.com/content/24f07261-f95d-4bb3-8aa4-3799f1f75e52"
+  - title: "How Generative AI Will Change All Knowledge Work"
+    excerpt: "The acceleration of applications around generative AI is showing us how quickly and broadly our work will change."
+    publishedDateTime: 2022-12-18T12:30:00Z
+    webUrl: "https://time.com/charter/6242075/how-generative-ai-will-change-all-knowledge-work/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
+      name: Time
+      domain: time.com
+    quality: 69
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2022/12/image-7.png?w&#x3D;1600"
+        width: 1600
+        height: 1200
+        isCached: true
+  - title: "What Leaders Need To Know About Generative AI"
+    excerpt: "Cognitive algorithms, such as generative AI, have the potential to help companies achieve their goals more efficiently. Here's what leaders need to know"
+    publishedDateTime: 2022-12-16T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/benjaminlaker/2022/12/16/what-leaders-need-to-know-about-generative-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "cfmCkXsJpDVf8Fm2q7nWyCTjdI9DdW1zTp06D237zNr8AhvLDG2D6x+CC78eH9S3p8wu1bfERodGv4iBFVwQcW0Z05CYX5HcYdd/xxMj9kYnYzBheyU1CkedL0jHwm42fgs+vv9sOsTW0MTyvgLtuXGYtsUrDw6q9jXF5YNcG1HjL8OITjMhu82y73S8lY+dsND9yyx9GP1p302/5Vx0hyBQqFffSP+qOSBkv8U1JzgCipefLhdm0l16+PeDWtuSIswqIeJggSftsMUZsSEiF43XRzfqbkMqIFpf7CSWLhQw2iRtc5qEgRyiSe8DPVKblBq5V4tvpaUds9f7Kp8wMEpm5cPAxk4oIU3k0faDtjs=;ECJnvhXPgPZJltVlcQccyQ=="
 ---

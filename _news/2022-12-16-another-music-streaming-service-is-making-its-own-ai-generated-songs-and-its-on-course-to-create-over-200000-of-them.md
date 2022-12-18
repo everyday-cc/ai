@@ -18,15 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "Anghami taps Mubert for 170k AI-generated football chants"
-    excerpt: "A streaming service teaming up with an AI music startup to create “over 170k songs”? Sound the klaxons! But Anghami’s partnership with Mubert is, for now at least, very specific: they’re making AI-generated football songs."
-    publishedDateTime: 2022-12-16T11:46:00Z
-    webUrl: "https://musically.com/2022/12/16/anghami-taps-mubert-for-170k-ai-generated-football-chants/"
+  - title: "An AI-created children’s book is being sold by an IT worker this is pissing off the Illustrators who work for living"
+    excerpt: "Reshi had the notion earlier this month to use AI to create a book for the child of his best pals, who was born this year. Reshi created a story using ChatGPT about Alice First, Reshi created a story using ChatGPT about Alice,"
+    publishedDateTime: 2022-12-15T21:59:00Z
+    webUrl: "https://techstory.in/an-ai-created-childrens-book-is-being-sold-by-an-it-worker-this-is-pissing-off-the-illustrators-who-work-for-living/"
     type: article
     provider:
-      name: Music Ally
-      domain: musically.com
-    quality: 17
+      name: tech
+      domain: techstory.in
+    quality: 18
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/08/betiton.jpeg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "redjGRN6n7Qx9IPc7wb0Spscj4rf/Sdc0XjXHY8exQ0JCyrLNf8Nkrgm5JRnJ0YJQ5fyMuJ7QAFflBnOMblmw4ltI6avYiMssyWCy/WxPXGzfKVAbI9iRfCguC/v8QXx+CBvXltv6XzTY6rjFIDOieMpD3hw4oxE0LA0eMZVXdCJNO7OPTuwLOtSC8Bahx9QwWR/q/fCwNnvYz3+5Py32c2lScl+LSU/MlN0v/rHDyoMuMWEHQroEpnNC2Y/Nk6SMX6b+NFo4MF29MFsba3oRisRkhWBN+R8XYvoGwmShwOE5cwM9mUbKJiEFlyam+NTWjKBmtN9u6FBc10juuSFk/CjiATa9Uds4kD2aeBQKjAqqlF3FpMwR/y4OIbamEXk9mVne7LjblRle4MZ2LW/nGqxE7WIA5PftKDEMkys2lYuTDXNOguzor3YOjQQCrVoKINtPvkaN32tq6B8dfYGHbqLjEU8Bmfak50yutWxPGi0533+uKZJJRcZbi7AqsdUJ0drq/LKAFCzO2kF1DtUgw==;qh57iwTqEZC/eWM3+3w+TA=="
 ---
