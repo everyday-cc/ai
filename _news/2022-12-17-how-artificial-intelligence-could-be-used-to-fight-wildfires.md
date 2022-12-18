@@ -2,22 +2,23 @@
 category: news
 title: "How artificial intelligence could be used to fight wildfires"
 excerpt: "A tech company is developing a new type of artificial intelligence to fight wildfires by using predictive analysis before the fires even start and AI logistics to help contain them."
-publishedDateTime: 2022-12-16T19:58:00Z
-originalUrl: "https://www.fox5ny.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires"
-webUrl: "https://www.fox5ny.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires"
+publishedDateTime: 2022-12-16T20:07:00Z
+originalUrl: "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires"
+webUrl: "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires"
+ampWebUrl: "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp"
+cdnAmpWebUrl: "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp"
 type: article
-quality: 19
-heat: 19
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Fox 5 NY
-  domain: fox5ny.com
+  name: q13fox
+  domain: q13fox.com
 
 topics:
-  - AI in Autos
   - AI
 
-secured: "UGi5i0JN0H8SnoHmzTh0P/JQdRxy+KCHr/1MJi3bfVVrEork7epP6dVH1GNxzLAExNFfJTZYZaxtI39rzbjmi00on/g4BKtO7jhqbTgVXqZ/Cs3FGb9/xDORT1Mj0hBsijJ3zVrU4sKMRAogv314EzzzBt2SA5IEltvT12rJ/6M9TH61W4ia7VGDUj8vCmBydHeGKJtsu1FX1o/1fRnuELurmsuMCNBPL8EIe4GhyA3thoixhbKI378quydWQOPewe53QBCRkLOZbh7PKf3SgWvRCgEo+EvxN6YPgGw0UFmNp+FayOoPxJSDP7xzEQXpXWMVtDaKzX7vCiTJcMXHT9W7ZPsns/fU81F6ULFMpx0=;wEsusS0YBvNsXeR2vi7vqA=="
+secured: "Ajf/ME5p790QmAm20F325gtLujg7/6jHUvSamcLFZY9q2iB9aisF9frMvDP7yoC3hbg3I1ZDnhlQt8wNljGajs40HIE0CfHcbRn7uL+zh6EQr/5uszPbSNiAZZzC5dHMvjsH6l/iSB9dYfdBM2Ah5ImVib9rzY3ydSAa4DtKIC6ebmHgInKxj8SBBt4qPvttkhNx9y3W+si0OLOW03wGRH8n0okjS83YC+2HuwfC8yYslLx7PxdZ9ag5s5nrZY8S+IEjHBWtBVLZbopuhExv1q9fI9cT7A0QePK3jGPrFrIGsK1B1KNfHXTUtA3WxklW+0T2/9NGQJhIt4Aa7a0Yk1W3/Y9yZNTNXGJNIpakuAQVJk40eG2NrWuQXGifo92hjo4zvOtgoUpvULqW1zFE9UwDsFtt6emwnSkrpzqyIBxyoakdp36MRvDuyYHsJade0rwX89Xb/CDMRF1G6nT0Pa3jfQ5KY/psv3mtWCuZc0pozHKWQ6YuLN9GXjU8UucgIlDihnf8gBzLqgLVWs5g9g==;FgIUOrjgiQPMVDTzw+2HJw=="
 ---
 

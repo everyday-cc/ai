@@ -41,15 +41,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Bolstering the safety of self-driving cars with a deep learning-based object detection system"
-    excerpt: "Self-driving cars need to implement efficient, effective, and accurate detection systems to provide a safe and reliable experience to its users. To this end, an international research team has now developed an end-to-end neural network that,"
-    publishedDateTime: 2022-12-13T16:45:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/12/221212140800.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 40
   - title: "Feds Looking Into Cruise Self-Driving Taxis That Suddenly Stop and Clog Roads"
     excerpt: "Widespread attention for Cruise \"swarms\" and crashes involving robotaxis have prompted officials to look into the driverless cars."
     publishedDateTime: 2022-12-16T15:40:00Z

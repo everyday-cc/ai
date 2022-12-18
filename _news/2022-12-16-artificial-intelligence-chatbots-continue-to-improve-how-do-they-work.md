@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Why Everyone's Obsessed With ChatGPT, the Mind-Blowing AI Chatbot"
-    excerpt: "This artificial intelligence bot can converse, write student essays and program computers. Careful how much you trust it, though."
-    publishedDateTime: 2022-12-13T16:06:00Z
-    webUrl: "https://www.cnet.com/tech/computing/why-everyones-obsessed-with-chatgpt-the-mind-blowing-ai-chatbot/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/why-everyones-obsessed-with-chatgpt-the-mind-blowing-ai-chatbot/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/why-everyones-obsessed-with-chatgpt-the-mind-blowing-ai-chatbot/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://www.cnet.com/a/img/resize/084641681c8362c3ce0c3eb8a53365351adcaaac/hub/2022/12/06/3dd7180c-d0e7-47ca-bc37-b5df15a41a25/ai-chat-gettyimages.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Conversing with my AI friend ChatGPT | The DeanBeat"
     excerpt: "Dean Takahashi tried out the Vana AI generative art program and it spit out dozens of painterly images. He tried out ChatGPT too."
     publishedDateTime: 2022-12-16T18:28:00Z
@@ -203,6 +187,6 @@ related:
       domain: aei.org
     quality: 10
 
-secured: "ytU6WOhz9eRVkWRG3xTAQ2f0DEo/nTn5bRBVTxheOeNaJLhCY/FdglIkCIqBnsMPqedSL72XMHmYyVNApaB59wClABQJyp36AVoV0iguwRz9iLK9y7oHeCgwE7BHb7Ba5OdUjt1e5YtEH37OtG1X1AzySz8cZzXf8IB9sn8Lh3+MmR8yBH80SDOdcVXQTHbyvIewwxJpUBsKBzQso+D9et8C8bAzoXpDSHcclrOsdu3VZNh72sy6TBrvnLoQg4m2C8vbLv0UgRioz9GjaTCZQ0AGoeBu5BODlNVTwv8IDO8YJpNrWVbe+dbvpxtIVA6S2lQktWVL7bkMq+5WUB5ULC3c+OiUDTSxk0OfRHs0x0c=;ce2eUhq7HhxtZ9afd0yh3w=="
+secured: "+uUU4JSvhbf0pGZ/LupZLoLR+z5/pn3pC/Xea/Pu3YzEaGP31OA+szvN0FRjP+8fifd+Z+EDEv5BpToG+SqKL6GGbsDj3Gc85DRW0JnSaNZ/d8eambHL02Z0arx7czL5XSI8k6Dg0pg3aGlH7AptRhZn28EB4aYFfn6z/0JdUNqcEkwI28PlMgYH64e8tduxRMXPpvaWgP63/ZbWV/WvwTDvvszjrxU3drXzdyPr6BTj/1tbEN7zZGhrar76vyMjmAggW18NAk2nCdZde1yg6MDBF07UcGu+hTq0Nhn4N2pDborHSdpoSMSDa8kEYqjOcLeXZ4hk/H9GaRJM8ekJRUmTpJEC8qIwAPBqMx1vwrL6smbFJaudMOMC+JznZO8YEqYjbraY/KC4GDUenwAufGrp4pOJZ6mm+97p8VhxI82BFly4XF4R8FF7AA4TvNf2p20ZuW2W9gRFAu7/5Sl1BeadHX74x3E5iFI3PcD8Yyiea3e9vyApW05u12pj399YojK/S7XdUerPjwWJeOSoUQ==;5I4qCiRtT3E+Cv95KfleOQ=="
 ---
 

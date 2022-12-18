@@ -34,22 +34,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Why Everyone's Obsessed With ChatGPT, the Mind-Blowing AI Chatbot"
-    excerpt: "This artificial intelligence bot can converse, write student essays and program computers. Careful how much you trust it, though."
-    publishedDateTime: 2022-12-13T16:06:00Z
-    webUrl: "https://www.cnet.com/tech/computing/why-everyones-obsessed-with-chatgpt-the-mind-blowing-ai-chatbot/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/why-everyones-obsessed-with-chatgpt-the-mind-blowing-ai-chatbot/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/why-everyones-obsessed-with-chatgpt-the-mind-blowing-ai-chatbot/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://www.cnet.com/a/img/resize/084641681c8362c3ce0c3eb8a53365351adcaaac/hub/2022/12/06/3dd7180c-d0e7-47ca-bc37-b5df15a41a25/ai-chat-gettyimages.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Conversing with my AI friend ChatGPT | The DeanBeat"
     excerpt: "Dean Takahashi tried out the Vana AI generative art program and it spit out dozens of painterly images. He tried out ChatGPT too."
     publishedDateTime: 2022-12-16T18:28:00Z

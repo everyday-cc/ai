@@ -2,9 +2,9 @@
 category: news
 title: "Renesas and Fixstars to Jointly Develop Tools Suite that Optimizes AD and ADAS AI Software for R-Car SoCs"
 excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, and Fixstars Corporation, a global leader in multi-core CPU/GPU/FPGA acceleration technology, today announced the joint development of a suite of tools that allows optimization and fast simulation of software for autonomous driving (AD) systems and advanced driver-assistance systems (ADAS) specifically designed for the R-Car system-on-chip (SoC) devices from Renesas."
-publishedDateTime: 2022-12-15T20:16:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/12/15/9731166.htm"
-webUrl: "https://it.tmcnet.com/news/2022/12/15/9731166.htm"
+publishedDateTime: 2022-12-15T18:42:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/12/15/9731166.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/12/15/9731166.htm"
 type: article
 quality: 2
 heat: -1
@@ -15,7 +15,7 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - Computer Vision
+  - AI Hardware
   - AI
 
 related:
@@ -48,6 +48,6 @@ related:
         height: 630
         isCached: true
 
-secured: "YMBvr+Dm0qXNbfk+9U5nNDE+In70xFPQYhS7D9eEnfTIrohKIcXI6LIwxlzUhHNMnlLstTpYi87S5NG0c+XSaaBRLMh7Yr5H2jjjA9YYIV/oxu7zTKwume9KNy8KmyVbko5RiKDi2LEY0NejAuQgeZ9wI6irJ/pV8BjEUDVtlju9as5tm5AUlVVhoRrffbkNUB7EZsIYbB2wzBkbLAUPgNyhYJu4oxnfuoATviwCt6zOKQbA/d1DRagSVX+9vSSTyETNH9oLUYwmp7VQAafg8p4ypmT2eFPcEkjZrgW/OSFTKxjK2l9mZ113Iqcxp/+wYsxdIBtLMUG0zkioYbQaoYG/hzJTadBt+JToNjLPgAzB9A9o9fVyX0vuQyO/H4EpyMr8kZS+mkOrOaRcFTdUZGaP5yGXx7cIYfT5o6xyuNnhaveEF6Lw7z8XNSpgDO30FzPCLCogoYz4bqOHztp12POF7ohgK8t3JduWEoTCEr5NEA20m5BEvy7aE0RSdb6vmKrsntt6XLJvSK18+P+FSg==;ukGjEkUxb1K5qR9aSMnXZg=="
+secured: "iygDpr0Nz5DCe7o0bAVRS7PsLWigp7vVjGK2iscgtYtkDniHz4r8/V65qbJIW6wMfxVYxmfGkea0nkIxlCrUrEfB35mAFXnWdk+8d4ZdI+VDKPXMb9yVxz8NfmLZyQ4Jffz/rl5Vg3tsh5BnE8LCxhhICNGfBYsbJIwsbpX/Q8TvZs8CP1lnbpimvqTxw4rDz5s0tRkyOOoJjbzKBJxfHYlJ/pnsoEP0vkL6hZmVMlDZJ9zavtyLYlBohZvsMAaqM4U/emiWBMhZGrePqeohwhuULmG6gO1xb801t3DC+cfkGSrJaMfMe7VYzDs83WH11XdkDNaUev+mty3fEXXE0E2p1kP2GgXHh9DNj0jmhS5XCaqoLzA8fwFt9APcXYqjR8HxlAQJHg+8T+Knl4L5WirjRMx8vfUlc0vJx99NAxPwebEc7RUa5GOJJEpCAXDk3M7M1e+Yyk5nlg8rhVJEhP9uh9EBhsf63Bet1AeGmwuwIsf+G0Tcxnu4esmVJMV8R510IH/9Rl88NJvgkvGsBQ==;kBjO+H6AyWuwsNsnIoSI/g=="
 ---
 

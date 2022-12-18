@@ -1,26 +1,20 @@
 ---
 category: news
 title: "AWS Announces Eight New Amazon SageMaker Capabilities"
-excerpt: "At AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced eight new capabilities for Amazon SageMaker, its end-to-end machine learning (ML ..."
-publishedDateTime: 2022-11-30T19:36:00Z
-originalUrl: "https://www.bakersfield.com/ap/news/aws-announces-eight-new-amazon-sagemaker-capabilities/article_7b1c60f6-02d1-5814-b19f-8df28848f46e.html"
-webUrl: "https://www.bakersfield.com/ap/news/aws-announces-eight-new-amazon-sagemaker-capabilities/article_7b1c60f6-02d1-5814-b19f-8df28848f46e.html"
+excerpt: "Developers, data scientists, and business analysts use Amazon SageMaker to build, train, and deploy ML models quickly and easily using its fully managed infrastructure, tools, and workflows. As customers continue to innovate using ML, they are creating ..."
+publishedDateTime: 2022-11-30T19:22:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2022/11/30/aws-announces-eight-new-amazon-sagemaker-capabilities"
+webUrl: "https://stockhouse.com/news/press-releases/2022/11/30/aws-announces-eight-new-amazon-sagemaker-capabilities"
 type: article
 
 provider:
-  name: The Bakersfield Californian
-  domain: bakersfield.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "+JlDGFn93bE0mDbI2LiRh0dxtMdO6INR07Zd4Wt4SHmJihWRipCi+TRa1MHOHDD8q7kA41jEAplhc7kQJbTtZHPS7Bg6wjqSNsXVqwJK+R1welOVdm9oTpUsa43Zeg+8orh9eK3BWnlJzwZcqjn9AarRe30q07yn5nVPU77dnI4S0rfpXW9hPuCEgN88rJL+AVHyq9ea1DBF8N1yLow7j41s9RhFFCPVu2UTpWcFg0cASBpBKlqG/iX/SxlGm98BS26Adc1uzi4YG9TspJw05y+UxQ13WEoMphLWeNZoPK4WzBO+pi6A67CbI9Gva6/YLNfJJrI205Ep0ncuyxt0SxhteMJFh6ps+SLY/an9i8s=;rZhyrpUQsuiC88//rgNg0g=="
+secured: "ZlyEbp3+cfkiVBZ7ESnDtv8xy++akntJnf9mOdbUvY6MxyDrHoi6ZPKHU6/8nhCLY04g5o3Mxv/7caziLB1PC4Dz9chNEp7IzyxRCMuNbZ0vT0jvUnBEI/j0zMb3g5jRxTJlU6OagIlkHpEZBHiagqIdePNjiCf3RRfNvm7gRuhF0SWZrFe8Fsukzujtxu5f2X/0cB/cWgZvZS+eGirtZK9aCUFziT7G3SaDPK2b+YnHoE/PZ/OuYDV7ovO/ZTkffRF1M912Yaq2o/TATlSB1wmTBm8yr/+fEcV8Tl9XuN651Fpg4lof3F33pbtVc4KFg8gSwWQ1q++q5q0L4N6h+xg/SlMQsybJpKh/9JPamMk=;V3bNtpfHwXBs4PDOEspZQg=="
 ---
 

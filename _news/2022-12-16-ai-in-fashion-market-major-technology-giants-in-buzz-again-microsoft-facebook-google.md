@@ -94,20 +94,6 @@ related:
         width: 1280
         height: 750
         isCached: true
-  - title: "Microsoft Tech Community Blogs gets text to speech feature"
-    excerpt: "Microsoft has announced that it is making it easier for you to listen to your favorite Microsoft Tech Community Blog articles. The company is introducing a"
-    publishedDateTime: 2022-12-13T16:22:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-tech-community-blogs-gets-text-to-speech-feature"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 39
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2022/12/Untitled-design-3.jpg"
-        width: 1028
-        height: 768
-        isCached: true
 
 secured: "bNdBzoSReFQvpYEILdAR2ZWgVeACP17guGhXW4EKJJqWaIazYO6biI5zCJHxarizwRpY9h0XvOqtbasCSLaWv5fG5DjE2HYD11rNGimcZqzOfBAVHWc8dExeoe6Z7k+ttJoymt4ZeZTbg2OAaypHILGKTKqlGNNh/L49YzKNicRsU7pmFwKHwDHTMPAK9mOGqM+rl1l0XQ8NxdZfeqdgFpV4PCE+iwAL5QeL69L9MzV+jQ4oBd6uBWgE7+TGLayUG55/wliAYNmbBP9/4LUlbxGM6e4YlQR4dvXHxugg2eutJn8bKfOb5GUkmgr5cVueukLqy2/tk5tCnaUvpZ9bwm6U9TvBazORtZbIbnq2HIM=;8eKbPW5gRRKJlUMGN4/fwQ=="
 ---

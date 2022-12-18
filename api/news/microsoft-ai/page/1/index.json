@@ -54,7 +54,7 @@
       "originalUrl": "https://venturebeat.com/microsoft-nvidia/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -152,6 +152,58 @@
       ]
     },
     {
+      "path": "_news/2022-12-15-werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech.md",
+      "title": "Werner CIO Looks to Outfit Company Trucks With AI-Enabled Tech",
+      "excerpt": "The Omaha, Neb.-based company plans to install dashboard cameras with artificial-intelligence capabilities from Samsara in its fleet of 8,500 trucks",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech-11671071051",
+      "originalUrl": "https://www.wsj.com/articles/werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech-11671071051",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-685993/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech-11671071051",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech-11671071051",
+      "publishedDateTime": "2022-12-15T03:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-13-symphonyai-strengthens-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace.md",
       "title": "SymphonyAI strengthens Microsoft collaboration, makes Sensa financial crime prevention solution available in Microsoft Azure Marketplace",
       "excerpt": "SymphonyAI, a leader in high-value enterprise AI SaaS for strategic industries, announced today it is expanding its role as a Microsoft",
@@ -197,10 +249,10 @@
     {
       "path": "_news/2022-12-12-symphonyai-expands-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace.md",
       "title": "SymphonyAI expands Microsoft collaboration, makes Sensa financial crime prevention solution available in Microsoft Azure Marketplace",
-      "excerpt": "EnterpriseAI leader accelerating innovation to combat financial crime with transformative, next-generation AI-based solution PALO ALTO, Calif., Dec. 12, 2022 /PRNewswire/ -- SymphonyAI, a leader ...",
+      "excerpt": "EnterpriseAI leader accelerating innovation to combat financial crime with transformative, next-generation AI-based solutionPALO ALTO, Calif.,",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/symphonyai-expands-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace-1031964947",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/symphonyai-expands-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace-1031964947",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/symphonyai-expands-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace-1031964946",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/symphonyai-expands-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace-1031964946",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -210,7 +262,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T04:07:00-08:00",
+      "publishedDateTime": "2022-12-12T04:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -1309,59 +1361,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-stop-your-public-cloud-ai-projects-from-dripping-you-dry.md",
-      "title": "Stop your public-cloud AI projects from dripping you dry",
-      "excerpt": "The public cloud helped bring AI into the mainstream, but that doesn't mean every AI application should run there. Here's how to decide.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/stop-your-public-cloud-ai-projects-from-dripping-you-dry/",
-      "originalUrl": "https://venturebeat.com/ai/stop-your-public-cloud-ai-projects-from-dripping-you-dry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1225889323.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 646,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/stop-your-public-cloud-ai-projects-from-dripping-you-dry/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stop-your-public-cloud-ai-projects-from-dripping-you-dry/amp/",
-      "publishedDateTime": "2022-12-01T17:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

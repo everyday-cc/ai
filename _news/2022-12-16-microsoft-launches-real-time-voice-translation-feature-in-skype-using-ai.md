@@ -86,20 +86,6 @@ related:
         width: 1280
         height: 750
         isCached: true
-  - title: "Microsoft Tech Community Blogs gets text to speech feature"
-    excerpt: "Microsoft has announced that it is making it easier for you to listen to your favorite Microsoft Tech Community Blog articles. The company is introducing a"
-    publishedDateTime: 2022-12-13T16:22:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-tech-community-blogs-gets-text-to-speech-feature"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 39
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2022/12/Untitled-design-3.jpg"
-        width: 1028
-        height: 768
-        isCached: true
   - title: "AI in Fashion Market – Major Technology Giants in Buzz Again : Microsoft, Facebook, Google"
     excerpt: "The latest study released on the Global AI in Fashion Market by AMA Research evaluates market size, trend, and forecast to 2027. The AI in Fashion market study covers significant research data and proofs to be a handy resource document for managers,"
     publishedDateTime: 2022-12-16T15:18:00Z

@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-23-unexpected-declines-in-cognitive-performance-after-epilepsy-surgery.md",
+      "title": "Unexpected declines in cognitive performance after epilepsy surgery",
+      "excerpt": "While neuropsychological performance can recover in the long term after successful surgery, on rare occasions, unexpected declines in cognitive performance occur. Researchers at the University of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20221122/Unexpected-declines-in-cognitive-performance-after-epilepsy-surgery.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20221122/Unexpected-declines-in-cognitive-performance-after-epilepsy-surgery.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Neurology-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-22T10:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-22-biggest-myths-of-ai.md",
       "title": "Biggest myths of AI",
       "excerpt": "“The notion that AI will be so smart that it will take over our lives. At the end of the day, AI is just a tool. Pretty much like the shovel or kitchen knife, it can be used both in good ways ...",
@@ -1310,59 +1353,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-cohesity-leapfrogging-the-competition-in-data-security-and-management.md",
-      "title": "Cohesity - Leapfrogging The Competition In Data Security And Management",
-      "excerpt": "The latest member to join the Cohesity Security Advisory Council is Kelly Bissell, leader of Microsoft Security Services. I've watched this market ... Cloudera, Clumio, Cognitive Systems, CompuCom, Cradlepoint, CyberArk, Dell, Dell EMC, Dell Technologies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/11/15/cohesityleapfrogging-the-competition-in-data-security-and-management/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/11/15/cohesityleapfrogging-the-competition-in-data-security-and-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63741f3da82aacc952f59b8f/0x0.jpg?format=jpg&width=1200",
-          "width": 936,
-          "height": 702,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/11/15/cohesityleapfrogging-the-competition-in-data-security-and-management/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/11/15/cohesityleapfrogging-the-competition-in-data-security-and-management/amp/",
-      "publishedDateTime": "2022-11-15T15:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

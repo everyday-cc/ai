@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2022/12/16/business/gm-cruise-self-driving-c
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/16/business/gm-cruise-self-driving-cars-investigation.amp.html"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bolstering the safety of self-driving cars with a deep learning-based object detection system"
-    excerpt: "Self-driving cars need to implement efficient, effective, and accurate detection systems to provide a safe and reliable experience to its users. To this end, an international research team has now developed an end-to-end neural network that,"
-    publishedDateTime: 2022-12-13T16:45:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/12/221212140800.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 40
   - title: "Why GM's self-driving robotaxis are facing a federal probe"
     excerpt: "The probe of GM's Cruise comes as federal regulations for self-driving cars remain unclear and the business case for them remains unproven, Axios' Joann Muller writes. Driving the news: The Cruise vehicles are being reviewed because they \"may engage in inappropriately hard braking or become immobilized while operating,"
     publishedDateTime: 2022-12-16T15:41:00Z

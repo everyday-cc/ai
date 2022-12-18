@@ -7,7 +7,7 @@ originalUrl: "https://www.medindia.net/news/artificial-intelligence-predicting-t
 webUrl: "https://www.medindia.net/news/artificial-intelligence-predicting-the-positivity-of-covid-19-test-209668-1.htm"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 300
     height: 250
     isCached: true
+
+related:
+  - title: "Machine-Learning Models Can Help Predict COVID-19 Test Results"
+    excerpt: "Florida Atlantic University researchers leveraged ML-based predictive analytics to identify the key symptom features associated with COVID-19 infection."
+    publishedDateTime: 2022-12-16T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-models-can-help-predict-covid-19-test-results"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/machine-learning-models-can-help-predict-covid-19-test-results"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/machine-learning-models-can-help-predict-covid-19-test-results"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 44
+    images:
+      - url: "https://healthitanalytics.com/images/sized/2020-03-16-CDC-coronavirus-visualization-e4b00c1efb9503a805928b101c78b499.jpg"
+        width: 480
+        height: 278
+        isCached: true
 
 secured: "i6ma9FSrVHgPanXxxP4SLmjhph1gtc9jMzGY/5DcnNY+p5pmGlBtuVzIHMnivKNSm+dZqlEadqECo5qQTCLUvlPY7LiiUQno4ILuFd4+Kb66NKY3hL//TWQN+RI1hFTjgfbsrsF4yNdAsNe5EY5JWYhobUWebqXxsqDJUzaL5Z9oIvv3bImZ1pZq5p67fpJvz0I9DcG75Onr5J+kKyXc1hHMwcy7aLjCpz1ePHApSu5rpaT5R55oGOnGkhXJjOMA8a+F8s4xGpZu77svMVX/astPGagqBsChawhy5fDF7Vls9LaA1s0J71xtZzI6MEBt7ZEvDSS1GQbFfBBlIkwzyXyHIMhQ5jpsTX/rDtYjFuw=;W60D7FIM3iqA96SgFA0yyg=="
 ---

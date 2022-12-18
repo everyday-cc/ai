@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-18T02:11:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-service-market-2023-production-capacity-restring-drivers-size-and-landscape-outlook-2028-2022-12-17"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-service-market-2023-production-capacity-restring-drivers-size-and-landscape-outlook-2028-2022-12-17"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Healthcare
+  - Machine Learning
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

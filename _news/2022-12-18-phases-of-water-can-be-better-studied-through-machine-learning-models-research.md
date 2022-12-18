@@ -1,47 +1,31 @@
 ---
 category: news
 title: "Phases of water can be better studied through machine learning models: Research"
-excerpt: "For decades water has baffled scientists They have speculated for the past 30 years or so that water would be able to divide into two liquid phases of differe"
-publishedDateTime: 2022-12-17T21:35:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/273226964/phases-of-water-can-be-better-studied-through-machine-learning-models-research"
-webUrl: "https://www.bignewsnetwork.com/news/273226964/phases-of-water-can-be-better-studied-through-machine-learning-models-research"
+excerpt: "As per a research published in the journal 'Physical Review Letters', molecular simulations run via supercomputers help better understand how water interacts."
+publishedDateTime: 2022-12-18T03:27:00Z
+originalUrl: "https://www.devdiscourse.com/article/science-environment/2290484-phases-of-water-can-be-better-studied-through-machine-learning-models-research"
+webUrl: "https://www.devdiscourse.com/article/science-environment/2290484-phases-of-water-can-be-better-studied-through-machine-learning-models-research"
+ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2290484-phases-of-water-can-be-better-studied-through-machine-learning-models-research?amp"
+cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2290484-phases-of-water-can-be-better-studied-through-machine-learning-models-research?amp"
 type: article
-quality: 35
-heat: -1
+quality: 55
+heat: 55
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: devdiscourse
+  domain: devdiscourse.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/ani1671313283.jpg"
-    width: 630
-    height: 420
+  - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/18_12_2022_03_27_12_8937689.jpg?width=1280"
+    width: 1280
+    height: 960
     isCached: true
 
-related:
-  - title: "Using machine learning to better understand how water behaves"
-    excerpt: "Water has puzzled scientists for decades. For the last 30 years or so, they have theorized that when cooled down to a very low temperature like -100C, water might be able to separate into two liquid phases of different densities."
-    publishedDateTime: 2022-12-17T08:24:00Z
-    webUrl: "https://phys.org/news/2022-12-machine.html"
-    ampWebUrl: "https://phys.org/news/2022-12-machine.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-12-machine.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/using-machine-learning-9.jpg"
-        width: 800
-        height: 773
-        isCached: true
-
-secured: "Ser+lYzOWYXDmP4CDNbI6Yd6w6OJVUP6PpPCzFcrht1ENKFgj39rMF0O/Wy5rh/e/1XyLeo8CrH9xp79tqjt1LcA2f2eiFP8BdnmTik+KT6IbhKXKHPe82c4WUhF4cLMwAItt12X7L/5R+hYO/Yzic+ic8ZgvqjxjNcpQlkNEMji6yoQRGJy+548N1+54V7rqdpMXTRw+HzpGghMHH4/hkeRUq5mM7sNBYjmMNwd4zBq6+QMlmavWvPck3DFKfaXb20gXuxZtiB+FddvugXjwHNSRLU7oYtdpyCsFudSt9qc34lB2A0Z8WEulRoRA/BTZCp8yuwBvI2fkI35Uw0NoFhleiKhV3+HUEmmMJ1/2RY=;xDQAVJNEQlvmL5t5F8mVcQ=="
+secured: "opT/gIzHyZQVH8lSYkEGyXbg2NEEhUhnmanAx6FDliErDoWULPdkfroQAYAi6WTxY2Fgy7LL49K5+0gEGAZHtcwgViKgfKHcPTOhd0WqlvTULUKtgxoUZCsQuf7BtVv+MfYTvoP7E5SH3OaZbzp9T1YLusQ6ep+V1COzMHp+obkJX6BQK8CF75XY8ro9wngBgLOqX2WKfHf6M3gGNwFZq6ICloDvo1mSMLfUGy1it5sQ8/v+TlyiX4WchCtIrs9yUJxb8IKnWWmLsn1HhxNOEMQB7ts+LjoyzKA/3ajkpTz+kPpyQUcSJfhJUPWgD6AYM6z4OK6Q08a7DNyeQKKI3X8bO9iCVaEcOpgb76GaX7k=;DwmipX7+maP6rOMi+HPHZg=="
 ---
 

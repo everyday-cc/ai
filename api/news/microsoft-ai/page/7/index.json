@@ -2,6 +2,40 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-10-24-new-oracle-interconnect-for-microsoft-azure-region-opens-in-sa.md",
+      "title": "New Oracle Interconnect for Microsoft Azure region opens in SA",
+      "excerpt": "Oracle has announced the opening of a new Oracle Interconnect for Microsoft Azure location in Johannesburg, providing direct connectivity between the Oracle Cloud Johannesburg region and the Microsoft Azure South Africa North region.",
+      "sourceUrl": null,
+      "webUrl": "https://it-online.co.za/2022/10/24/new-oracle-interconnect-for-microsoft-azure-region-opens-in-sa/",
+      "originalUrl": "https://it-online.co.za/2022/10/24/new-oracle-interconnect-for-microsoft-azure-region-opens-in-sa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT-Online",
+        "domain": "it-online.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-24-azure-scales-530b-parameter-gpt-3-model-with-nvidia-nemo-megatron.md",
       "title": "Azure Scales 530B Parameter GPT-3 Model with NVIDIA NeMo Megatron",
       "excerpt": "Combining NVIDIA NeMo Megatron with our Azure AI infrastructure offers a powerful platform that anyone can spin up in minutes without having to incur the costs and burden of managing their own on-premises infrastructure. And of course, we have taken our benchmarking of the new framework to a new level,",
@@ -1258,49 +1292,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-nutanix-launches-cloud-clusters-nc2-on-microsoft-azure.md",
-      "title": "Nutanix Launches Cloud Clusters (NC2) on Microsoft Azure",
-      "excerpt": "Nutanix has announced the general availability of Nutanix Cloud Clusters (NC2) on Microsoft Azure, extending its hybrid cloud environment to Microsoft Azure dedicated bare metal nodes. NC2 on Azure offers a seamless hyperconverged infrastructure and unified management spanning private and public cloud environments to accelerate hybrid cloud adoption.",
-      "sourceUrl": null,
-      "webUrl": "https://financialit.net/news/cloud/nutanix-launches-cloud-clusters-nc2-microsoft-azure",
-      "originalUrl": "https://financialit.net/news/cloud/nutanix-launches-cloud-clusters-nc2-microsoft-azure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://financialit.net/sites/default/files/nutanix_12.png",
-          "width": 1366,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T04:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial IT",
-        "domain": "financialit.net",
         "images": null,
         "publishers": null,
         "authors": null
