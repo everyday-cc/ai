@@ -9,8 +9,8 @@ ampWebUrl: "https://wraltechwire.com/2022/12/17/new-ncsu-developed-fossil-sortin
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/12/17/new-ncsu-developed-fossil-sorting-robots-to-help-climate-ocean-research/?amp=1"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: WRAL TechWire
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fossil-sorting robots could advance ocean studies"
-    excerpt: "Researchers in the US have developed a robot that can reportedly sort, manipulate and identify microscopic marine fossils."
-    publishedDateTime: 2022-12-13T12:03:00Z
-    webUrl: "https://www.theengineer.co.uk/content/news/fossil-sorting-robots-could-advance-ocean-studies"
-    type: article
-    provider:
-      name: The Engineer
-      domain: theengineer.co.uk
-    quality: 39
-    images:
-      - url: "https://www.theengineer.co.uk/media/5knlo1si/low-res_lobaton-forabot-header-full-jpg.png?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "This fossil-sorting robot can identify millions-year-old critters for climate researchers"
     excerpt: "These fossils can provide valuable insights into the past states of the ocean, along with its chemistry and temperature."
     publishedDateTime: 2022-12-13T20:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bgr.in/apps/microsoft-brings-real-time-voice-translation
 cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/apps/microsoft-brings-real-time-voice-translation-to-skype-check-details-1349718/amp/"
 type: article
 quality: 76
-heat: 116
+heat: 96
 published: true
 
 provider:
@@ -58,24 +58,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "KULR’s CellCheck Battery Monitoring System Launches on Microsoft’s Azure Cloud Computing Service"
-    excerpt: "Built on Azure Cloud, the Modular Battery Management System Platform Leverages Azure Cloud's Advanced AI Functionality to Collect and Analyze Data From all KULR products"
-    publishedDateTime: 2022-12-13T12:30:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/kulr-s-cellcheck-battery-monitoring-system-launches-on-microsoft-s-azure-cloud-computing-service/article_3b0ec9c8-91cc-506c-859f-f415ec63b3ab.html"
-    type: article
-    provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 21
-  - title: "KULR Technology Group launches CellCheck Battery Monitoring System on Microsoft's Azure cloud service"
-    excerpt: "KULR Technology Group Inc (NYSE:KULR) announced that its CellCheck Battery Monitoring System is now running on the Azure cloud"
-    publishedDateTime: 2022-12-13T12:28:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1001083/kulr-technology-group-launches-cellcheck-battery-monitoring-system-on-microsoft-s-azure-cloud-service-1001083.html"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 19
 
 secured: "K5B6eMQbokEmXHbGRVdCg2zlbL/4FKOASqd/34L28j4gAUHJrL9fb7AcrTSMYSKpkqEI4h1psJnfhr136Ji99aHiz6TzB3KEsl36a/4+jH2yhtjHx9CMWNZgybkvZWB4R07uibOGxdTFXTS3ub7x9i3XFu201aGj1LdWhIx77qQNxZy+IyOa/0GbMJiJyWM+/Cr/u3T+xrkZYPsS87FRInRIKGyy/ooi9Brq8PhsIv9Mftt/3Pcp0FVI+azuKz141gsrdlh1U4TpUPzjA2Sz47oEYCHe+y9wRQZUdxODTzGMB79HekXnUhwpXYlyhuQr3R94rjlC7q3oixext48f+4iqjnJKuIc3CCkrjP24YR0=;YxGlNRqwXmcnG/yxDVlVHw=="
 ---

@@ -39,6 +39,20 @@ related:
         width: 1920
         height: 885
         isCached: true
+  - title: "Why We Should Regulate AI Like We Do Drugs and Guns"
+    excerpt: "We have the FDA for drugs, the FAA for airspace, the EPA for pollution… why not an agency for regulating bots?"
+    publishedDateTime: 2022-12-17T07:05:00Z
+    webUrl: "https://www.thedailybeast.com/why-the-government-should-regulate-ai-like-we-do-drugs-and-guns"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1671249865/121722-tran-bots-hero_csckaw"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "ARwICvD1Ir43qosZMwwfk6hPYCnZJWBdvIYpbp2e8Xgo7LitxBquzKahuKJAvE74pszJXpw8ITFF9IZdxIAuTxA9SMX5rnJ1NW923lKsRF+ihhCjs4HxBqvpEKYXIoIVkzlQzZUL8SwxRDozO3oQW2fVcmCQWPvbqEmr+NUK6Dxtk1lR93nAljmpJV3g7wcPVIhiVahlvQuQ5jy17Ot0Kf6iKtVFMBrlD6ozTaRdCDAjD2l06Si2GxPn9S73F6aPGjs5UDp3Zr/zrCgtF9cPqi+R/DDKqtkcmoUzjtzohavLOlBcMOZgS/vwr6bUdc6/mZv+bInDastcKXs0IR9X86n2dm8BMku1Erl+f+1rCNeNUTwe30BAOS6YsQt1a5gbo7Sci7/Ohi0YMwLyQ2fefjy6qlBcLWqnAPHdWkXlU8VGZ5NrGcH89/c8eQKlO0XE/Y1haXMO5jDYV3owYKyMkjRSyD/9f2fnLDUsZ+orZCMK67YvfvpO8PP7O8YoCwpuzLs68TZxjRsx8VEQd9V2RQ==;ER/1DrQTl8VtHkgnCn4fkw=="
 ---

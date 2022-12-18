@@ -106,6 +106,22 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "All you need to know about ChatGPT, a prototype Artificial Intelligence chatbot"
+    excerpt: "ChatGPT is becoming your friend and guide on the Internet, giving advice and information almost like a human being. But can it be trusted?"
+    publishedDateTime: 2022-12-18T03:56:00Z
+    webUrl: "https://www.mid-day.com/sunday-mid-day/article/the-ai-will-see-you-now-23261139"
+    ampWebUrl: "https://www.mid-day.com/amp/sunday-mid-day/article/the-ai-will-see-you-now-23261139"
+    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/sunday-mid-day/article/the-ai-will-see-you-now-23261139"
+    type: article
+    provider:
+      name: Mid Day
+      domain: mid-day.com
+    quality: 53
+    images:
+      - url: "https://images.mid-day.com/images/images/2022/dec/Christmas-nh_d.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "As Google weighs in on ChatGPT, You.com enters the AI chat"
     excerpt: "People may be talking about what ChatGPT means for Google search, but You.com is making its own generative AI search moves."
     publishedDateTime: 2022-12-15T14:00:00Z
@@ -115,15 +131,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "Digging Into The Buzz And Fanfare Over Generative AI ChatGPT, Including Looming AI Ethics And AI Law Considerations"
-    excerpt: "Here is your insider look at why Generative AI such as ChatGPT has garnered worldwide attention, including both applause and disdain. Included is an indication of the AI Ethics and AI Law considerations."
-    publishedDateTime: 2022-12-13T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/12/13/digging-into-the-buzz-and-fanfare-over-generative-ai-chatgpt-including-looming-ai-ethics-and-ai-law-considerations/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 42
   - title: "This AI Platform will Change the Future of Generative AI – And it’s Not ChatGPT"
     excerpt: "As the fervour around AI text and image generators grew, another startup developing AI content called Jasper raised USD 125 million in October this year pulling the company’s valuation to USD 1.5 bill"
     publishedDateTime: 2022-12-14T09:48:00Z

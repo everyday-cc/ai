@@ -52,6 +52,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 50
+  - title: "Artificial Intelligence (AI) in Fintech Market Analysis Research Report, Challenges, Scopes, Market Share, Revenue, and Forecasts 2023 to 2028"
+    excerpt: "\" Artificial Intelligence (AI) in Fintech Market \" Insights 2022 - By Applications (Bank, Insurance, Securities and Funds, Third-party Financial Company, Others), By Types (Deep Learning, Machine Learning,"
+    publishedDateTime: 2022-12-18T01:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-analysis-research-report-challenges-scopes-market-share-revenue-and-forecasts-2023-to-2028-2022-12-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Fintech Market Research Report: Key Trends and Opportunities by State and Territory for period 2022 to 2028."
     excerpt: "Given that the \" AI in Fintech Market \" is one of the industries growing at the quickest rate, it is essential for market participants to do a thorough study of the industry beforehand. The industry analysis and market research report for the AI in Fintech sector look at the global market from 2022 to 2028."
     publishedDateTime: 2022-12-17T16:03:00Z
@@ -75,6 +89,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Accounting Market 2023 : Business Scenario, Corporate Profiles, Size and Dynamic Innovation by 2028"
+    excerpt: "\" Artificial Intelligence in Accounting Market \" Insights 2022 - By Applications (BFSI, Retail and eCommerce, Government and Defense, Healthcare and Life Sciences, Manufacturing), By Types (On-Premise,"
+    publishedDateTime: 2022-12-17T01:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-2023-business-scenario-corporate-profiles-size-and-dynamic-innovation-by-2028-2022-12-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

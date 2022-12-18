@@ -37,20 +37,6 @@ related:
       name: YAHOO!News
       domain: techcrunch.com
     quality: 39
-  - title: "AI-powered consumer insights platform Zappi raises $170M"
-    excerpt: "Zappi, as the company likes to be known, is the creator of a novel ad testing platform that provides creators with centralized access to modern research methodologies, allowing them to test their ideas quickly,"
-    publishedDateTime: 2022-12-13T13:00:00Z
-    webUrl: "https://siliconangle.com/2022/12/13/ai-powered-consumer-insights-platform-zappi-raises-170m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/zappi.png"
-        width: 1452
-        height: 785
-        isCached: true
 
 secured: "V0cbhtwqNRxeVAFhOtJ/Lgnfwfwr3ZIc9QerLqFahQIwXlVJsx+ihaTrgzWEoMgkg/F50MISXg/VYUOch4GoM38hCqC3hxmWDjJIzJXj617Gx8mpEuzjv4K9Cy9kQxQJsuZI7b2i8WnzdRlCZwQAwHgVL3D//nJc0WCN3LZwCz5qt27+f6lkXcJn7cR3jF8nMDyM2KvCoB7Qkp3adNRwsHpNThJiqjpKJ/yIB7yPXusDosKR369kd9QPGXpTIzG5HkGag49G8ryKkl6wmnHWhvzu848cebydUs5hRVygCucP1VsI7YlMvFpwjRdCjCbcQNEqmFL2wTVGlN5aEq//TsaKM9QUSatQ0GPCIDz/yfjBzZW5zvME1GmY+VPzM2U1YKI+H10M/viuQcyKM3BS7varSELtWXU9I/Fosdq/VqgagQjfBwohaaWXogOpsv9zzCqmifYkcJLG4g8a2CFe1a/y8nwnFv2vHmOKQe/SP2sJdq6atDMNxlT6gSvYnXU3/ItdLUISO9DtdNB/55vVrg==;wztVCr2IKNZR2vQAZrJHUQ=="
 ---

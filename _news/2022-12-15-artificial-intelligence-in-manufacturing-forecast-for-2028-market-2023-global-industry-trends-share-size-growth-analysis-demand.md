@@ -50,6 +50,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI In Computer Vision Market 2023 Statistics, Industry Share, Latest Trends, Growth Drivers, Size Estimate and Forecast till 2028"
+    excerpt: "\" AI In Computer Vision Market \" Insights 2022 - By Applications (JHGJGHealthcare, Automotive, Agriculture), By Types (JHGJG Hardware, Software), By Segmentation analysis, Regions and Forecast to 2028."
+    publishedDateTime: 2022-12-18T01:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2023-statistics-industry-share-latest-trends-growth-drivers-size-estimate-and-forecast-till-2028-2022-12-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) Consulting Market 2023 : Production Capacity, Restring Drivers, Size and Landscape Outlook 2028"
     excerpt: "Consulting Market \" Insights 2022 - By Applications (Technology Consulting,Management Consultin), By Types (, Strategy Development, Strategy Execution, Commercial Due Diligence, Customer Training), By Segmentation analysis,"
     publishedDateTime: 2022-12-16T01:36:00Z
@@ -92,29 +106,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Law Market Growing Worldwide By Leading Key Players, Shares, Size, Regional Analysis and Forecast 2023-2028"
-    excerpt: "In the forecast period of 2023-2028, the Global “Artificial Intelligence in Law Market” is expected to grow at a steady rate, according to the Artificial Intelligence in Law Market report, which summarizes the key aspects of the Artificial Intelligence in Law market Share,"
-    publishedDateTime: 2022-12-13T11:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-law-market-growing-worldwide-by-leading-key-players-shares-size-regional-analysis-and-forecast-2023-2028-2022-12-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Data and AI Ethics Market 2023 Industry Outlook, Current Status, Supply-Demand, Growth Opportunities and Top Players Analysis 2029"
-    excerpt: "Data and AI Ethics Market Research Report is spread across 104 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. Data and AI Ethics Market Size is projected to Reach Multimillion USD by 2029,"
-    publishedDateTime: 2022-12-13T12:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-2023-industry-outlook-current-status-supply-demand-growth-opportunities-and-top-players-analysis-2029-2022-12-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
   - title: "Artificial Intelligence Based Medical Device Market 2023 Share, Size, Sales, Growth Drivers, Opportunities, Industry Trends and Forecast to 2028"
     excerpt: "New research publishedas theArtificial Intelligence Based Medical Device Marketresearch report provides an in-depth"
     publishedDateTime: 2022-12-14T09:17:00Z
@@ -133,20 +124,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
-  - title: "Speech and Voice Recognition Market Growing Worldwide By Leading Key Players, Shares, Size, Regional Analysis and Forecast 2023-2028"
-    excerpt: "In the forecast period of 2023-2028, the Global “Speech and Voice Recognition Market” Research report will make detailed analysis mainly on in-depth research on the development environment, Speech and Voice Recognition Market size,"
-    publishedDateTime: 2022-12-13T11:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-growing-worldwide-by-leading-key-players-shares-size-regional-analysis-and-forecast-2023-2028-2022-12-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 23
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "C5NIMFoUNrYynKWaNWonRzqF/BE1OvVlV7YZd7tULDMarlG6zjjWoLTgCfVWqqFbjVaIxXRJ2WbPraJcqQLkuQSt+UBi+UFc56x96vvRgdwMBloOXCc2E1D/AD05aXrtSL+d9EMoDExlqtk4yIDFauMPnBb4Rvy+8G3McQQvb4QmNqm/6Z9zV1WdAxcdD0toxlvYZsU6Vkbl7zBpbouAzzFej/Tlhr662oKR9es82rNpCDzff+smJ0nd2sIBsFvKM6jFkWn8hpdqq2JN0hzr/tEq2vnZQAGXYJhxxX2+kqkjoxXtO/N3nF7KdMYpwCrAuBu4gqfgvYUybfqOINSGpOKEMWBP+ocYLTmhPVMX28Y=;YrETSNdJ6Mep7ZNGP3VeBQ=="
 ---

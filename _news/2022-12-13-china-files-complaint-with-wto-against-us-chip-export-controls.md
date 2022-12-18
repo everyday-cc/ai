@@ -18,17 +18,6 @@ topics:
   - AI Hardware
   - AI
 
-related:
-  - title: "The Right Time For Chip Export Controls"
-    excerpt: "The United States’ new chip export controls on China launched an unprecedented strategy to constrain China’s technological ambitions. Despite some flaws, the Biden administration got the scope, scale,"
-    publishedDateTime: 2022-12-13T12:16:00Z
-    webUrl: "https://www.lawfareblog.com/right-time-chip-export-controls"
-    type: article
-    provider:
-      name: Lawfare
-      domain: lawfareblog.com
-    quality: 19
-
 secured: "goQxqXqiLJDRtf0oQYEkVDhAdDYMLwvpLMNHNjzVNWveWfSznmom2hU31quIudbOZummIjrvDNSvQePlgwmrnyTH9cLsdZmxsIoyD1Kxp/2DVNXzCTqIrG8hbIaGXCjOBOc9lwGBYINrel6pbERaHXn0eBd9ppYHDxLKz9NwuCj4ICu7m8YUogAsydIYqpW/wofk0rvwD4U+GQc8Y9FNQzU3LGEtOQwRlfCazds27IBF6GVneGIkhG88tRTQThTWES9VwbFCzfrIelCoTDVzUWVSTAJCoPECeUATUmJWf7ogSzpinpOSE/xJ9d4vfIu2QEqanPTQMI/bcYklErag+RQfhm8zRs/wNv2m6cKKh6fQ1KrHOheLkxN46IIpXcRP1bJ8ksUtehhda/hgua1wR5eRp9lxzBKP53s17uyZCN1MMFEUrCuNHJ3bP65Lnx2DdPVLUS2RinlROTPErk3Qpf0PzMr4N6aNZiQIiehVcZSHsag3RSGqTTVMyP5aGlSQiQS/capZfCI4AbeAPhYmiw==;M5NGj2llOE6yUTWRzJmB0w=="
 ---
 

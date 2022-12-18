@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2022-12-machine.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-12-machine.amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 800
     height: 773
     isCached: true
-
-related:
-  - title: "Phases of water can be better studied through machine learning models: Research"
-    excerpt: "For decades water has baffled scientists They have speculated for the past 30 years or so that water would be able to divide into two liquid phases of differe"
-    publishedDateTime: 2022-12-17T21:35:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273226964/phases-of-water-can-be-better-studied-through-machine-learning-models-research"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 35
-    images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "MEuWgwSaGCLrvCJvlxkkzunRybGOJMI79Udm1zaZs3NUPr8kQZwE340jUHDFxnLPN2h1U2M5hboCDIBn2SmbXRXXzBBgeYJ9NT+Aock6jkVh5SJOymXDqRx+G0P17j25jHl01TrLQDhcjUkLcs1AW22MDIsrgHuClTXkY8cayaUL1ylIeLpFZ/rLYIN4zhWClWpKbYDC62Fvlnao21X9cEX9QLNzT7zh8ROB56XlCHePPrdCOv3IORAfxvZoljTsEiclqFFYSloIdZap2xLqehoPr8ImWcESOnUib7WooLcZ7UsDY4jcYohwS1FdGewzPWhwRi0vbz38wKfRpTSf2erj4RaN3XzunRGD/tc9xNKYf+C+fSXEiJvv/r6iwlqfKvs0dKc1cF82gfuetM4c0WNBC34FZzHfk517jEGNQjk16Yy64d5qZnjwDhgBVLpt/EOFLUZO9a6u+Fy+Ik927pIGcCQS9eTTUajYS5U9PQCpSYV2bMDWNI+BVDZUZdzQj/4tw4kJ6lBU0WkdlEmeog==;1hqrgb+qqynfQeXDfSDTCg=="
 ---

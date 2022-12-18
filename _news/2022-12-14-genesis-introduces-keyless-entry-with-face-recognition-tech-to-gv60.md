@@ -58,15 +58,6 @@ related:
       name: Game Rant
       domain: gamerant.com
     quality: 21
-  - title: "Genesis launches face recognition entry"
-    excerpt: "Claimed world first face recognition technology for keyless entry is among a number of new features for the 2023 edition of Genesis’ electric GV60 SUV. Digital key and air purification systems are also among the available upgrades."
-    publishedDateTime: 2022-12-13T12:25:00Z
-    webUrl: "https://www.just-auto.com/news/genesis-launches-face-recognition-entry/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 19
 
 secured: "LaL2Do+qLK+Vyjem9jr3jLWQcEauwRQ+q81iWUqbNOuY7reWJgbEaeHBFsPH3WKF0NsihCU/hq48wNY7y+Uumo0CTieSqfMTnZdDyvS2rzNSmLmqZOBBiG4TQCIeMRTyP8HMffp446T7KCLriPffk7UyvXWCihrZ2JVoBXWcEqoKdIFcgpWYwBTqXBwAeenDkUwQ7pbYJU6Sc992n+rqWNQsAyLtdjKNMu2/gOIpYaDE8wmdARMqiSAFcA5dSEUUIZ0eQCI34EFMT9+QFFzCs8rYEOGeQ0VVRZhDknaIHyxgHSt5mRmeU9tKtFm5GJPikuTmFTuv8SI5Q/f6SS905Xgkof0tYt3bsm1NfxsuISs=;W2oR+meAAQnb2s7QIY8HxA=="
 ---

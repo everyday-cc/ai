@@ -57,24 +57,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "KULR’s CellCheck Battery Monitoring System Launches on Microsoft’s Azure Cloud Computing Service"
-    excerpt: "Built on Azure Cloud, the Modular Battery Management System Platform Leverages Azure Cloud's Advanced AI Functionality to Collect and Analyze Data From all KULR products"
-    publishedDateTime: 2022-12-13T12:30:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/kulr-s-cellcheck-battery-monitoring-system-launches-on-microsoft-s-azure-cloud-computing-service/article_3b0ec9c8-91cc-506c-859f-f415ec63b3ab.html"
-    type: article
-    provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 21
-  - title: "KULR Technology Group launches CellCheck Battery Monitoring System on Microsoft's Azure cloud service"
-    excerpt: "KULR Technology Group Inc (NYSE:KULR) announced that its CellCheck Battery Monitoring System is now running on the Azure cloud"
-    publishedDateTime: 2022-12-13T12:28:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1001083/kulr-technology-group-launches-cellcheck-battery-monitoring-system-on-microsoft-s-azure-cloud-service-1001083.html"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 19
 
 secured: "k5wvbsRBU8nAEo1hMQpdLRSQSkB0z2OSnMJf8iMGXgcoyINxbYIYr+NzjrZZ8Z4F6VegPOwpHLcdD72rtVw04eO648XAPTbTqndZ6PpMkqJn7J4mXe0H6OKRdpof4X6bVWrD5ZQesXm4rwzU+e/eoJEEdZEFDgDX9rRx0sLf3ZSNo4LwyRxdMJeL3B50+viHgghIGe5EUYYndg9Sv4UXWl9Jx9qHQeSdMyZO8FR0L5amw0zMcTx7Q3CHfsLDNB8zDE9Phq5FhBQY4M1edit7/sssqkko3DBa9702XjWeZmtjUQRf08LJXiWNKsOFdpfQieGZwRGUDXKkcfSHOdtu6265ygNnkceJ2cyJB4ACfrw=;VsngJ85myjk1TR/hwoO7ug=="
 ---

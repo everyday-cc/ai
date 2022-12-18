@@ -35,20 +35,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Fossil-sorting robots could advance ocean studies"
-    excerpt: "Researchers in the US have developed a robot that can reportedly sort, manipulate and identify microscopic marine fossils."
-    publishedDateTime: 2022-12-13T12:03:00Z
-    webUrl: "https://www.theengineer.co.uk/content/news/fossil-sorting-robots-could-advance-ocean-studies"
-    type: article
-    provider:
-      name: The Engineer
-      domain: theengineer.co.uk
-    quality: 39
-    images:
-      - url: "https://www.theengineer.co.uk/media/5knlo1si/low-res_lobaton-forabot-header-full-jpg.png?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "czmAyswoSoO8fJzgaQZzNKW7magFm66EJViy5ABFFh1sTTBMxYcyzbvgSLA8380ddvQCwjveU4X94pPQw57Qg7RD8I2QBgwLo05ETLp8+CV1ksOlQXqNDiG47ZaV/nKLYrO8dZQEdMf2+3063SgoY4d2aV4oKi3wAcCOia5GFaz8tQM09mfXhR+KAROr6qKKAFXPhpAmAB6usq/YTF2XTnVl3xXISCRlGRkoKfttwdQlasUiTmgU7Mijpq6V8oPuBbCu9tpKoWnyFOMKlTLSZ/Iwqu8DJJCTwrLFjw6V0EMMEMRrwdl0tHaip4FlxP4G+0y7oKyzIWWa2wr2+3naPCIitdnCCrRiDA7lVtdxQM3Zm81daS7/0bx8+lDbdXjUv5TlrD6DD2Z6AXb8tT7j1LlGMGFbEOTO67OQMuJ30BSTZjBD6v9SfpHXHJj2eCmlTmSxWD6KAFs8vtttB++SYpyyN4KIhfEccm31/nPIW5fK+BkW2bhWH4+BT3pktitZRGRM4uzMn+pPxZJqOAAGsA==;BC7mljEQVqqZLLnaxHSJbg=="
 ---
