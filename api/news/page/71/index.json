@@ -2,6 +2,233 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2022-10-17-hexagon-adds-ai-capabilities-to-power-real-time-crime-and-operations-centers.md",
+      "title": "Hexagon Adds AI Capabilities to Power Real-Time Crime and Operations Centers",
+      "excerpt": "Hexagon's Safety, Infrastructure & Geospatial division today announced the addition of artificial intelligence (AI) capabilities to HxGN Connect, Hexagon's real-time incident center as a service solution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/10/b29288352/hexagon-adds-ai-capabilities-to-power-real-time-crime-and-operations-centers",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/b29288352/hexagon-adds-ai-capabilities-to-power-real-time-crime-and-operations-centers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-17T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-17-nutanix-launches-cloud-clusters-nc2-on-microsoft-azure.md",
+      "title": "Nutanix Launches Cloud Clusters (NC2) on Microsoft Azure",
+      "excerpt": "Nutanix has announced the general availability of Nutanix Cloud Clusters (NC2) on Microsoft Azure, extending its hybrid cloud environment to Microsoft Azure dedicated bare metal nodes. NC2 on Azure offers a seamless hyperconverged infrastructure and unified management spanning private and public cloud environments to accelerate hybrid cloud adoption.",
+      "sourceUrl": null,
+      "webUrl": "https://financialit.net/news/cloud/nutanix-launches-cloud-clusters-nc2-microsoft-azure",
+      "originalUrl": "https://financialit.net/news/cloud/nutanix-launches-cloud-clusters-nc2-microsoft-azure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://financialit.net/sites/default/files/nutanix_12.png",
+          "width": 1366,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-17T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial IT",
+        "domain": "financialit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-17-four-thoughts-on-ai-deep-learning-in-2022.md",
+      "title": "Four thoughts on AI deep learning in 2022",
+      "excerpt": "As we wrap up 2022 and prepare to embrace 2023, here are some of the most notable overarching trends that marked this year in deep learning.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/four-thoughts-on-ai-deep-learning-in-2022/",
+      "originalUrl": "https://venturebeat.com/ai/four-thoughts-on-ai-deep-learning-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/03/deeplearninglimits_VB_1200px_web.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/four-thoughts-on-ai-deep-learning-in-2022/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/four-thoughts-on-ai-deep-learning-in-2022/amp/",
+      "publishedDateTime": "2022-10-17T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-17-machine-learning-as-a-service-market-worth-usd-320-billion-by-2030.md",
+      "title": "Machine Learning-as-a-Service Market worth USD 32.0 billion by 2030",
+      "excerpt": "Hence, fraud detection is expected to become one of the core spaces for machine learning applications. Global Machine Learning-as-a-Service Market Segmentation The machine learning-as-a-service market has been segmented into the application,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-worth-usd-320-billion-by-2030-2022-10-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-worth-usd-320-billion-by-2030-2022-10-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-17T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-10-17-object-recognition-imaging-systems-market-size-growth-2022-global-trends-market-demand-industry-analysis-opportunities-and-forecast-2029.md",
+      "title": "Object Recognition Imaging Systems Market Size, Growth 2022-Global Trends, Market Demand, Industry Analysis, Opportunities and Forecast 2029",
+      "excerpt": "Object Recognition Imaging Systems Market report contains type, application, regions, revenue, and offers just as the thorough computation of the business chain structure, opportunities ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/object-recognition-imaging-systems-market-size-growth-2022-global-trends-market-demand-industry-analysis-opportunities-and-forecast-2029",
+      "originalUrl": "https://www.digitaljournal.com/pr/object-recognition-imaging-systems-market-size-growth-2022-global-trends-market-demand-industry-analysis-opportunities-and-forecast-2029",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/10/07fab5a54c84b2812fe98ca367355ae6b17bc253-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-17T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-17-the-google-self-driving-car-all-you-need-to-know-about-waymo.md",
       "title": "The Google Self-Driving Car: All you need to know about Waymo",
       "excerpt": "But happy or not, self-driving cars are real ... and machine-learning-based artificial intelligence, both of which have proved to be a step-change in mapping environments. Computer scientists ...",
@@ -908,249 +1135,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-15-amazon-ec2-trn1-instances-for-high-performance-on-deep-learning-training-models-now-available.md",
-      "title": "Amazon EC2 Trn1 Instances for High Performance on Deep Learning Training Models Now Available",
-      "excerpt": "Subscribe for free. AWS Trainium is the second-generation of machine learning chips that AWS purpose built for deep learning training. Each Amazon EC2 Trn1 instance deploys up to 16 AWS Trainium ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/10/aws-trn1-chip-deep-learning/",
-      "originalUrl": "https://www.infoq.com/news/2022/10/aws-trn1-chip-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2022/10/aws-trn1-chip-deep-learning/en/headerimage/generatedHeaderImage-1665697443428.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-15T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-15-software-wont-solve-the-climate-crisis-deep-tech-investment-is-needed.md",
-      "title": "Software won’t solve the climate crisis: Deep tech investment is needed",
-      "excerpt": "Register now for your free virtual pass to the Low-Code/No-Code Summit this November 9. Hear from executives from Service Now, Credit Karma, Stitch Fix, Appian, and more. Learn more. In 2011, Marc ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/software-wont-solve-the-climate-crisis-deep-tech-investment-is-needed/",
-      "originalUrl": "https://venturebeat.com/business/software-wont-solve-the-climate-crisis-deep-tech-investment-is-needed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1058793846-shark_749.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/business/software-wont-solve-the-climate-crisis-deep-tech-investment-is-needed/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/software-wont-solve-the-climate-crisis-deep-tech-investment-is-needed/amp/",
-      "publishedDateTime": "2022-10-15T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-15-artificial-intelligence-ai-in-cyber-security-market-2022-future-demand-emerging-trends-and-latest-technology-forecast-research-report-2028.md",
-      "title": "Artificial Intelligence AI in Cyber Security Market 2022 Future Demand, Emerging Trends and Latest Technology, Forecast Research Report 2028",
-      "excerpt": "However, this scenario is expected to change owing to decreasing COVID-19 cases. The Artificial Intelligence AI in Cyber Security market is expected register a robust revenue CAGR of 26.56% during the forecast period and reach USD 75976.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-2022-future-demand-emerging-trends-and-latest-technology-forecast-research-report-2028-2022-10-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-2022-future-demand-emerging-trends-and-latest-technology-forecast-research-report-2028-2022-10-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-14T20:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-15-phoenix-street-racer-sentenced-to-25-years-in-prison-after-pleading-guilty.md",
-      "title": "Phoenix street racer sentenced to 2.5 years in prison after pleading guilty",
-      "excerpt": "PHOENIX – A man known for organizing illicit street racing activities in Phoenix was sentenced to 2½ years in prison this week, authorities said Thursday. Jessie Ray Luna-Espinoza pleaded ...",
-      "sourceUrl": null,
-      "webUrl": "https://ktar.com/story/5291801/phoenix-street-racer-sentenced-to-2-5-years-in-prison-after-pleading-guilty/",
-      "originalUrl": "https://ktar.com/story/5291801/phoenix-street-racer-sentenced-to-2-5-years-in-prison-after-pleading-guilty/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ktar.com/wp-content/uploads/2022/10/Jessie-Luna-Espinoza.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ktar.com/story/5291801/phoenix-street-racer-sentenced-to-2-5-years-in-prison-after-pleading-guilty/amp/",
-      "cdnAmpWebUrl": "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/5291801/phoenix-street-racer-sentenced-to-2-5-years-in-prison-after-pleading-guilty/amp/",
-      "publishedDateTime": "2022-10-14T20:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTAR News",
-        "domain": "ktar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-15-the-ai-beat-big-tech-ai-wars-heat-up.md",
-      "title": "The AI Beat: Big Tech AI wars heat up",
-      "excerpt": "Welcome to the AI Beat – my new column digging into some of the week’s AI news and attempting to put it into context.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/the-ai-beat-big-tech-ai-wars-heat-up/",
-      "originalUrl": "https://venturebeat.com/ai/the-ai-beat-big-tech-ai-wars-heat-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1254431708.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 848,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/the-ai-beat-big-tech-ai-wars-heat-up/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-ai-beat-big-tech-ai-wars-heat-up/amp/",
-      "publishedDateTime": "2022-10-14T17:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

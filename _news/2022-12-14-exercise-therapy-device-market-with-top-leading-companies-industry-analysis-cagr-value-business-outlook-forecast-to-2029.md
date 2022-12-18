@@ -80,20 +80,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Software Market Opportunities, Demand and Forecasts, 2023-2028 with Top Countries Data"
-    excerpt: "\" Voice Recognition Software Market \" Insights 2022 - By Applications (Customized PC commands, Medical transcriptions, Others), By Types (Voice commands, dictation, Turning audio into text, Digital assistant,"
-    publishedDateTime: 2022-12-13T10:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-opportunities-demand-and-forecasts-2023-2028-with-top-countries-data-2022-12-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning as a Service (MlaaS) Market 2023 Analytical Research Report with Size till 2030 Including Growth Prospect for New Players"
     excerpt: "Market research report covers complete data of the various segments in the Machine Learning as a Service (MlaaS) market study. The assessment contains the descriptions of the market dynamics, environmental analysis,"
     publishedDateTime: 2022-12-13T17:09:00Z

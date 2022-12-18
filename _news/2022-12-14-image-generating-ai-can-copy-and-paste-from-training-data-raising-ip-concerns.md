@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2022/12/13/image-generating-ai-can-copy-and-p
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/13/image-generating-ai-can-copy-and-paste-from-training-data-raising-ip-concerns/amp/"
 type: article
 quality: 83
-heat: -1
-published: false
+heat: 113
+published: true
 
 provider:
   name: YAHOO!News
@@ -30,36 +30,40 @@ images:
     isCached: true
 
 related:
-  - title: "First-Ever AI Video Platform Integrating Text-Generated Image And Animation"
-    excerpt: "Tel Aviv-based DI-D released today the first multimodal generative AI video platform to combine text, image and animation in one interface. The self-service video platform integrates D-ID’s proprietary generative AI technology with GPT-3 from Open AI and Stable Diffusion from Stability AI,"
-    publishedDateTime: 2022-12-13T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/gilpress/2022/12/13/first-ever-ai-video-platform-integrating-text-generated-image-and-animation/"
-    ampWebUrl: "https://www.forbes.com/sites/gilpress/2022/12/13/first-ever-ai-video-platform-integrating-text-generated-image-and-animation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/12/13/first-ever-ai-video-platform-integrating-text-generated-image-and-animation/amp/"
+  - title: "Spotting plastic waste from space and counting the fish in the seas: here's how AI can help protect the oceans"
+    excerpt: "You've seen the art AI image generators can create, and you may have played with natural language AI chatbots. You've benefited from artificial intelligence tools recommending you music and suggesting your next streaming show."
+    publishedDateTime: 2022-12-15T16:19:00Z
+    webUrl: "https://phys.org/news/2022-12-plastic-space-fish-seas-ai.html"
+    ampWebUrl: "https://phys.org/news/2022-12-plastic-space-fish-seas-ai.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-12-plastic-space-fish-seas-ai.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/639785f66713c491c4620eb9/0x0.jpg?format=jpg&crop=2860,1609,x0,y16,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Vic.ai raises $52M for its AI-powered accounting automation platform"
-    excerpt: "XFO Financials Inc., an accounting automation startup that does business as Vic.ai, has raised $52 million through a new funding round announced today. Existing Vic.ai investors GGV Capital and ICONIQ Growth led the Series C round."
-    publishedDateTime: 2022-12-13T18:22:00Z
-    webUrl: "https://siliconangle.com/2022/12/13/vic-ai-raises-52m-ai-powered-accounting-automation-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: Phys.org
+      domain: phys.org
     quality: 37
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/image-2.png"
-        width: 718
-        height: 400
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/spotting-plastic-waste.jpg"
+        width: 1000
+        height: 563
         isCached: true
+  - title: "Infinity AI raises $5M to build automated synthetic training data"
+    excerpt: "Infinity AI, a startup that generates automated synthetic training data, announced today a $5M seed round led by Matrix with participation from founders and operators from companies like Snorkel AI, Tesla,"
+    publishedDateTime: 2022-12-15T17:03:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/12/15/9731520.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
+  - title: "Infinity AI Raises $5M to Build Automated Synthetic Training Data"
+    excerpt: "Infinity AI, a startup that generates automated synthetic training data, has announced a $5M seed round led by Matrix"
+    publishedDateTime: 2022-12-16T16:41:00Z
+    webUrl: "https://www.datanami.com/this-just-in/infinity-ai-raises-5m-to-build-automated-synthetic-training-data/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 17
 
 secured: "12s0ecMd64my9kFiKp2hibJkpN7GFb7QYxqMzDlFK5S9TZNST+kfHLadyrdTlv0FPHDxwOJaEwxKZjgq5Fzi+jLyVpnaZH/U9qrD+N7FuZ94y7UsvxZaJuMsngTQw3Thb5yQeEdfHkOlcyNha6B0r491Sz9yIa3ZhVI+X0Eu5Pa1NXzy75+mVdmCMM2pesBW8MpK/aAyq2Jg1//dZrdjP9PlzdN47NeGH7bARtcMhU8tNrUefsSEJm8X/8/1G50020MGsHfZ36drYcjpTxEKkdJLVm8pr8BVIIjJ+O3hEbwkTwby5EzdTAX9cAazxP7O8ZK13zjeC8AFULbIHYjtLYIS1tywWWBSMDKnYU080q7Tb4I8aeluLDK7Ttb55+R0Mcv+qDz4nvbID0v7j7utwqpQpQ0MAAeCvYNwo20BQkS5wYbKN2faQXn2WyQBZZ6keMD1C2WgqQG+ZRVNnHeTfNBrXB7NXGn8Afc1rGdF0LDzD0defnxCpaGfKHHPemX2s5Hw3sRxuzzSCRiNmIZo9A==;PcBdhObahCyjPlB1xl3p+w=="
 ---

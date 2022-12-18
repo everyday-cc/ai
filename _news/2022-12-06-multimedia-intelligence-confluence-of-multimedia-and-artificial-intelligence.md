@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.design-reuse.com/news_img2/homepage53138/soft.jpg"

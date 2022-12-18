@@ -26,9 +26,9 @@ images:
 
 related:
   - title: "Stellar Cyber Integrates with Deep Instinct's Deep Learning Technology for Unrivaled Cyber Attack Prevention"
-    excerpt: "Under this latest integration, Deep Instinct's revolutionary approach to leverage deep learning is able to continuously analyze endpoints, servers, and other network assets to detect and prevent more than 99% of potential attacks."
-    publishedDateTime: 2022-12-14T14:43:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-stellar-cyber-integrates-with-deep-instincts-deep-learning-/2022/12/14/9730268.htm"
+    excerpt: "Stellar Cyber, the innovator of Open XDR, today announced a new integration with Deep Instinct, the first company to apply end-to-end deep learning to cybersecurity, and its endpoint solution. This powerful integration makes it easy for enterprise and MSSP customers using the Stellar Cyber Open XDR platform to deliver Deep Instinct's unsurpassed prevention capabilities across the entire attack surface."
+    publishedDateTime: 2022-12-14T15:28:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/12/14/9730268.htm"
     type: article
     provider:
       name: TMCnet

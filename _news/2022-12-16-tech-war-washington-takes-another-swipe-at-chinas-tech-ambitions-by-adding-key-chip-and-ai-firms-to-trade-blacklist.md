@@ -55,6 +55,22 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Biden administration puts China's YMTC on blacklist, turns focus on AI chip industry"
+    excerpt: "Over 20 other significant names in China's artificial intelligence chip sector have been put on a US trade blacklist amid a crackdown."
+    publishedDateTime: 2022-12-15T23:23:00Z
+    webUrl: "https://www.tmj4.com/news/national/biden-administration-puts-chinas-ymtc-on-blacklist-turns-focus-on-ai-chip-industry"
+    ampWebUrl: "https://www.tmj4.com/news/national/biden-administration-puts-chinas-ymtc-on-blacklist-turns-focus-on-ai-chip-industry?_amp=true"
+    cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/national/biden-administration-puts-chinas-ymtc-on-blacklist-turns-focus-on-ai-chip-industry?_amp=true"
+    type: article
+    provider:
+      name: TMJ4
+      domain: tmj4.com
+    quality: 67
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/c1e58b5/2147483647/strip/true/crop/1000x563+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F89%2Fe0%2F630feb764f5d9ebd982116324d09%2Fap21021747656668.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden blacklists China's YMTC, cracks down on AI chip sector"
     excerpt: "The Biden administration on Thursday added Chinese memory chipmaker YMTC and 21 \"major\" Chinese players in the artificial intelligence chip industry to a trade blacklist, broadening its crackdown on China's chip industry."
     publishedDateTime: 2022-12-15T15:53:00Z
@@ -78,15 +94,6 @@ related:
       name: The Straits Times
       domain: straitstimes.com
     quality: 34
-  - title: "Biden administration puts China's YMTC on blacklist, turns focus on AI chip industry"
-    excerpt: "Over 20 other significant names in China's artificial intelligence chip sector have been put on a US trade blacklist amid a crackdown."
-    publishedDateTime: 2022-12-15T23:32:00Z
-    webUrl: "https://www.10news.com/news/national/biden-administration-puts-chinas-ymtc-on-blacklist-turns-focus-on-ai-chip-industry"
-    type: article
-    provider:
-      name: ABC 10 News
-      domain: 10news.com
-    quality: 27
 
 secured: "fD/RGrzoher4SG5wxyaweau+kzbFdAbUd1F0EWM8Lg4ve89hqSvBehMhv70pc0d9KhEzAkpJ8M6e1LJfK9UhVfHAEezYr3bRS7dHErcsv+BFNw94z+npNnlpSSHB+BsnlozqMNqdAkpWVabQ98j82rHCcCr9JPlnkm8a/eO+/pzqCNeDDRGQxIzNmZzrBsmNGZ04YWofNjj4Pbjkt8Z1ufjsGIemE/6IfzxpqqvFqw2bmb5+65vh5KtQtbr2VPRlwgy+SjujiQhOTpiCEVzU2PJfzLbdqYuL/Tr0YfUKbbD6hlZmkavAgVJT6qQ94nX//ihVsOMV0JC2IpbURuTGPaJMM/gkMAdA1nZRRFD0bApLJxJKRnE8nCj1aR7q4bjqVsWrOq1Dy4L3Mmb9NaNrOA3m3ilFan8WoC0s3HS5dMuFvb38NolIkJSuT24lWPXhaum9AL3GmgHOZyP/rK1auyHwoKeiNdZwLcXyzO35bW556HkX33LjAA4NIYn0EaFn9889k2tRMnIS4c+poOPHvA==;yA1qwKuaegR5iIR2OEoF9w=="
 ---

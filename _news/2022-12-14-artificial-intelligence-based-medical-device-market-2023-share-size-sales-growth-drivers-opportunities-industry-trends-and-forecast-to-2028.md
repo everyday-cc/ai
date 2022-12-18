@@ -107,20 +107,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Computer Networks Market 2023 Company Challenges, Latest Advancements, Growth Prediction, and Forecast by 2028"
-    excerpt: "Pages Report] According to this latest study, the 2021 growth of Artificial Intelligence in Computer Networks Market will have significant change from previous year. By the m"
-    publishedDateTime: 2022-12-13T10:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-2023-company-challenges-latest-advancements-growth-prediction-and-forecast-by-2028-2022-12-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Data and AI Ethics Market 2023 Industry Outlook, Current Status, Supply-Demand, Growth Opportunities and Top Players Analysis 2029"
     excerpt: "Data and AI Ethics Market Research Report is spread across 104 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. Data and AI Ethics Market Size is projected to Reach Multimillion USD by 2029,"
     publishedDateTime: 2022-12-13T12:58:00Z

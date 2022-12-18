@@ -38,15 +38,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Sonix Releases New Generative AI Summarization Tool"
-    excerpt: "Sonix has released the world's first tool that automatically transcribes audio or video and creates summaries using generative AI. This new feature revolutionizes the way people interact with their audio and video by analyzing content and extracting key information."
-    publishedDateTime: 2022-12-13T11:00:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/newswire-2022-12-13-sonix-releases-new-generative-ai-summarization-tool"
-    type: article
-    provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 19
 
 secured: "bzlHXcxT3NbuMQ3LDffd6rKF38P7ndy9NV9zia/uQxrpnN8nuZrg6ukBMJMKlOuiXyivucBw5CgbQRYPMkIOtmD4OyIYtY1bLCqGJoFLSSRSVf4ymw/SozaxYr0vJOCVt9qjSsAxOH34mtW7Nh//9yKodPIuQS3n9A8KHhawh/cYYZVFwK0aMLMDJ7ZBrit/7m83hqYx/XGUuVeJi+SbXysAtCgcSTnSHcuS8KarKmVWomtek2drfQhiUC0hXKUfFTF2SnVKUAvURkvPVRrj/mJG9ZB+AJlCv4Q+O5vO/hDZGlpK0yzOcNkQDIUuHGAN2y6f7ONHADfzCYZNcINnRN2gc8fr7KrhFw7LcqGPj9cmGq6md4zAj1jxiFPShspF8opDAvWJv6V0CJCZgXyoRWpifIwuodxvAOK3jAxmoXt6EeDWndM4U0pqXdu+bHx696ZBydqMjbo2XEAnIIWTey0E2vAIbPJmoJOzIcY9/hX1pH/Q0xtgakwrrPi4oK+bFSSR2L0uxiJwjCTe7kVg6A==;+DV3f6HLfsKJK/b02IejHw=="
 ---

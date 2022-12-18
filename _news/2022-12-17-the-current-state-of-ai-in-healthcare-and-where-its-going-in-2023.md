@@ -9,7 +9,7 @@ ampWebUrl: "https://healthtechmagazine.net/article/2022/12/ai-healthcare-2023-ml
 cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2022/12/ai-healthcare-2023-ml-nlp-more-perfcon?amp"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 772
     height: 409
     isCached: true
-
-related:
-  - title: "The Growing Impact of Artificial Intelligence in Financial Services in 2023"
-    excerpt: "NVIDIA’s 2022 State of AI in Financial Services survey found that artificial intelligence (AI) in particular is an enabling technology for financial institutions to protect their customers, data, and bottom line. Below, we’ll discuss how AI can aid ..."
-    publishedDateTime: 2022-12-13T10:06:00Z
-    webUrl: "https://www.finextra.com/blogposting/23394/the-growing-impact-of-artificial-intelligence-in-financial-services-in-2023"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
 
 secured: "5E0vxe5SBak5Oqqj+M2bdndjZBR4PnZbnDo/Ntv06u2iGdF8U1Tb/TYCZwwI6pIhlXKlxStYt1gnasnjo5x3tT+x59cGVMIFQ0+vspR2xBrv+XFLCoZMVJas52sLhrVHAL45GHWF1lnD+sf5EnzfV7zMEN/KLSL7NxQurOM+sQiDHqQaT/ABPAn4OLaYnDLawljdTAGQyQY6jHNELx2hOj27kGpIgou32/kOTgMEJ8Pn+nNVtXFx5tn+fqUIPHOpqhS9TXGHHGKInATM1Kv0pf1beFKizKaNSSOn5r3dm1svgdjkHbAE7xd5ZyWcXd/U/C2yYr+goiLz8P2dbNSFzIG9OSo9xHtKsHInYozzfxTzUobWDO5jg/X9iil6yQyVItQViqjoTR0f5OphmpvUrdDGdEC3tqCov7zG37FRI8JVW91GMsUFLZqy7mGOFiVdhEdEvm/RE6TQW9/01YSUBJA8+Jfwyxgd8+31cXCtt0OIbI6K+UFIwfXJWQfP3OCLuPunyBRn+7stTnbKr5elEg==;G3vGAEcEQ84xkTm5VGQF+w=="
 ---

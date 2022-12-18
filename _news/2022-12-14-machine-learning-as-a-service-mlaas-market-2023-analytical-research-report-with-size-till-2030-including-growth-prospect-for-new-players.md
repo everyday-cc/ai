@@ -88,20 +88,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Software Market Opportunities, Demand and Forecasts, 2023-2028 with Top Countries Data"
-    excerpt: "\" Voice Recognition Software Market \" Insights 2022 - By Applications (Customized PC commands, Medical transcriptions, Others), By Types (Voice commands, dictation, Turning audio into text, Digital assistant,"
-    publishedDateTime: 2022-12-13T10:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-opportunities-demand-and-forecasts-2023-2028-with-top-countries-data-2022-12-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice Recognition Market 2023 Size | Share, Forecasts Analysis, Company Profiles, Competitive Landscape and Key Regions 2028 | Top Countries Data"
     excerpt: "The Voice Recognition market report provides an overall assessment of the market for the forecast period. The report"
     publishedDateTime: 2022-12-16T10:33:00Z
