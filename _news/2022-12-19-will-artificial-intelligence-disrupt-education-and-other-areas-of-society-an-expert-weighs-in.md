@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-18T20:20:00Z
 originalUrl: "https://www.tpr.org/news/2022-12-18/will-artificial-intelligence-disrupt-education-and-other-areas-of-society-an-expert-weighs-in"
 webUrl: "https://www.tpr.org/news/2022-12-18/will-artificial-intelligence-disrupt-education-and-other-areas-of-society-an-expert-weighs-in"
 type: article
+quality: 22
+heat: 22
+published: false
 
 provider:
   name: Texas Public Radio

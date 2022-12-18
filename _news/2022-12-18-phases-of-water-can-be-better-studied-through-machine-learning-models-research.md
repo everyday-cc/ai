@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-18T03:27:00Z
 originalUrl: "https://www.devdiscourse.com/article/science-environment/2290484-phases-of-water-can-be-better-studied-through-machine-learning-models-research"
 webUrl: "https://www.devdiscourse.com/article/science-environment/2290484-phases-of-water-can-be-better-studied-through-machine-learning-models-research"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: devdiscourse

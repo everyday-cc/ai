@@ -19,35 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "The 2023 Genesis GV60 unlocks using facial recognition and fingerprint ignition"
-    excerpt: "The £54,000 GV60 electric SUV will debut a number of new state-of-the art biometric features - and it means motorists won't need a key to open the doors or drive it."
-    publishedDateTime: 2022-12-16T06:00:00Z
-    webUrl: "https://www.thisismoney.co.uk/money/cars/article-11536991/The-2023-Genesis-GV60-unlocks-using-facial-recognition-fingerprint-ignition.html"
-    ampWebUrl: "https://www.thisismoney.co.uk/money/cars/article-11536991/amp/The-2023-Genesis-GV60-unlocks-using-facial-recognition-fingerprint-ignition.html"
-    cdnAmpWebUrl: "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/cars/article-11536991/amp/The-2023-Genesis-GV60-unlocks-using-facial-recognition-fingerprint-ignition.html"
+  - title: "Face biometrics coming to vehicles will allow keyless access and more"
+    excerpt: "A new biometrics capabilities for keyless access and feature control in automobiles could make that tangle of keys in your pocket obsolete."
+    publishedDateTime: 2022-12-14T17:11:00Z
+    webUrl: "https://www.biometricupdate.com/202212/face-biometrics-coming-to-vehicles-will-allow-keyless-access-and-more"
     type: article
     provider:
-      name: This is Money
-      domain: thisismoney.co.uk
-    quality: 55
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
     images:
-      - url: "https://i.dailymail.co.uk/1s/2022/12/16/08/65647741-0-image-a-2_1671178832008.jpg"
-        width: 636
-        height: 382
-        isCached: true
-  - title: "Will we be using face recognition to unlock our cars?"
-    excerpt: "FRANKFURT: Genesis, Hyundai's premium brand, is creating a stir by introducing the first-ever solution for unlocking a car with face recognition, through tech implemented directly into the vehicle. These days it's second nature to unlock your smartphone with face recognition;"
-    publishedDateTime: 2022-12-15T10:01:00Z
-    webUrl: "https://www.carsifu.my/news/will-we-be-using-face-recognition-to-unlock-our-cars"
-    type: article
-    provider:
-      name: CarSifu
-      domain: carsifu.my
-    quality: 39
-    images:
-      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/12/631144_v2-1024x576.jpg"
-        width: 1024
-        height: 576
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/10/11140505/car-driver-monitoring-scaled.jpg"
+        width: 2048
+        height: 1152
         isCached: true
 
 secured: "LaL2Do+qLK+Vyjem9jr3jLWQcEauwRQ+q81iWUqbNOuY7reWJgbEaeHBFsPH3WKF0NsihCU/hq48wNY7y+Uumo0CTieSqfMTnZdDyvS2rzNSmLmqZOBBiG4TQCIeMRTyP8HMffp446T7KCLriPffk7UyvXWCihrZ2JVoBXWcEqoKdIFcgpWYwBTqXBwAeenDkUwQ7pbYJU6Sc992n+rqWNQsAyLtdjKNMu2/gOIpYaDE8wmdARMqiSAFcA5dSEUUIZ0eQCI34EFMT9+QFFzCs8rYEOGeQ0VVRZhDknaIHyxgHSt5mRmeU9tKtFm5GJPikuTmFTuv8SI5Q/f6SS905Xgkof0tYt3bsm1NfxsuISs=;W2oR+meAAQnb2s7QIY8HxA=="

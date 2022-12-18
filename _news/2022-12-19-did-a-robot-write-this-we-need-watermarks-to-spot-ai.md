@@ -7,7 +7,7 @@ originalUrl: "https://www.taipeitimes.com/News/editorials/archives/2022/12/19/20
 webUrl: "https://www.taipeitimes.com/News/editorials/archives/2022/12/19/2003790974"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1200
     height: 1200
     isCached: true
-
-related:
-  - title: "We need digital watermarks to catch AI passing off as human"
-    excerpt: "The better that AI gets, the harder it will be to tell human and machine-made text apart. OpenAI must prioritize efforts to label the work of machines, or we could be overwhelmed with a confusing mishmash of real and fake information online."
-    publishedDateTime: 2022-12-14T04:55:00Z
-    webUrl: "https://www.livemint.com/opinion/columns/we-need-digital-watermarks-to-catch-ai-passing-off-as-human-11670952393283.html"
-    ampWebUrl: "https://www.livemint.com/opinion/columns/we-need-digital-watermarks-to-catch-ai-passing-off-as-human/amp-11670952393283.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/we-need-digital-watermarks-to-catch-ai-passing-off-as-human/amp-11670952393283.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: "https://images.livemint.com/img/2022/12/13/600x338/AI-generated-text-needs-some-kind-of-watermark--li_1670952390499.jpg"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "09mCkcD+QDKjRqJyV4lfKErQpLeyMwSscKDWnR1uhK2RIxgUOjoUGpRkqHlc/gOsI6XwUNdh6hvbqL1kvdIoe+0AZ6QsNmIN+lnogD0kpLjXE16UDWC84C9RGq5yXHrjbLZNi6ShzJqTJHiJGngH+U15EBZV04jf8yLpNnyMaPGAS5PdCuhTgdUif548zhEpdkIFegjkzEOzMbBse0Uk2WoDEiHFinLRScDbTZQGq9xDxrDvfyF6ptYRIbyUjkto1nQUdbaPehpQXUcnPmjmeOB6aQLxUaHNG5qhLOEP/xs0aMf19LxY7N94rQwKTYTEVPKC7OkptyUnjdIbvERYJnmriiIo8xQ+V5y2i5mgUTk=;gQHUciug0rvrWWE/jHfYVg=="
 ---

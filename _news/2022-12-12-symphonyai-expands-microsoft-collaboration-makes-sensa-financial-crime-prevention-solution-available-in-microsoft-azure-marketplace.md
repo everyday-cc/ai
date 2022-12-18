@@ -1,10 +1,10 @@
 ---
 category: news
 title: "SymphonyAI expands Microsoft collaboration, makes Sensa financial crime prevention solution available in Microsoft Azure Marketplace"
-excerpt: "EnterpriseAI leader accelerating innovation to combat financial crime with transformative, next-generation AI-based solution PALO ALTO, Calif., Dec. 12, 2022 /PRNewswire/ -- SymphonyAI, a leader ..."
-publishedDateTime: 2022-12-12T12:07:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-expands-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace-1031964947"
-webUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-expands-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace-1031964947"
+excerpt: "EnterpriseAI leader accelerating innovation to combat financial crime with transformative, next-generation AI-based solutionPALO ALTO, Calif.,"
+publishedDateTime: 2022-12-12T12:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-expands-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace-1031964946"
+webUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-expands-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace-1031964946"
 type: article
 
 provider:
@@ -19,6 +19,6 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "wo95E6W/O6yr0jJ0Tip/WrB3zRwFz4++kqkJR+nB/ip06blbVxuBzBQnXirprH4ScEBgFTycbfb8WeYQyk/OHShUigR/h6kYJBL0KYcP1pXN1V0GPZt1hsoG1e3PMT1uQAj51a/jBNS/xG8R105qET1LKGQzUNX5kIO41FzMgaffiz+10p8XdRafPI51bpKSr708F7+x1qxaEk5/yJW/t0G/bHAWPK8OTDr95TERk+ITIP3TdBYVVJjXpSFMmxZXSWPRbTF9qDuLAcvR88RRUTzbuxC41JyFTLpfjbJsw7ZKuklBZHXgkbQDWl+AMQ5Q5HCQo0fob62fiR3gOLDjnwzcr86JhB/iDttdv6EdtzM=;AtE08Ha7W1cYx4HGAV5njA=="
+secured: "5JM1cgyC3kMbxfChiBkafLpXZGPUwOmVNNKspYct65cl7O93WvS8BS2u6IZpMVkXN8zEc5RCq8h8v0/w7Y811l5LiWLdRaE8Lf0t4t3MQglhRrICFvKiDtPUWGdBPQfsCd8MegCOXt2oZ18D4tICQIar8Pj+AWQzYBqs0/l0MszGKZpZDSzY03YByuS7SPTEdKbZRAE6d44ezRzLPPBWylJ4i4IClgE/C3TDdGOzMUmC7M2hxla/SGuFb2J9fxqYItZrrAGq4u7XDfaS1p6GpTadhbqAeapgzYDskaZ1RKTcba2TkVeYxhciTW3sx+At5FuycwEUB71Bafu6QYVA0q8PrruhQpsH4kEpCWwQg38=;BKKTbP8p0/NWDakEWy7a1g=="
 ---
 

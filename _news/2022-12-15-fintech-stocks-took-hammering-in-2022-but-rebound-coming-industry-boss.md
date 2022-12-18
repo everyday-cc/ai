@@ -65,6 +65,34 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How Artificial Intelligence Can Enhance the Fintech Industry"
+    excerpt: "AI in FinTech has also had a similar impact with enhanced security and banking apps, making the finance industry more customer friendly. Artificial intelligence (AI) significantly impacts practically every part of our daily life,"
+    publishedDateTime: 2022-12-16T16:45:00Z
+    webUrl: "https://www.bbntimes.com/financial/how-artificial-intelligence-can-enhance-the-fintech-industry"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 39
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/How_AI_Can_Enhance_the_Fintech_Industry.png"
+        width: 1888
+        height: 1080
+        isCached: true
+  - title: "Top 10 Fintech App Development Companies In 2023"
+    excerpt: "As we all know, fintech isn’t an incredible financial technology that offers automatic delivery of financial services. According to Statista, the financial app development market is expected to reach $305 billion by the end of 2025."
+    publishedDateTime: 2022-12-14T07:33:00Z
+    webUrl: "https://techbullion.com/top-10-fintech-app-development-companies-in-2023/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/12/unnamed-36-1.jpg"
+        width: 512
+        height: 256
+        isCached: true
 
 secured: "5b+Mur/WUEV17wJ0nBjvGZbEYZaq1bgMn2ZScXB0uQe1fiPvOW6JIIWG4itvVhYXt1SouJFGRSSRMV5fhU0WNeVhsOSNynNq8IzP/K+X8Xu3nj4fnHaxOoRHlzAixjok4LnKSUZbf3BpJXDU9Skx1IM8sqsiKT7MfoAn49bnKyOo5bxXG/7ICYhmM7oS95PO7A6MiQ3AGJ0IB+AtPaFlhYkfrFTKAiK+CMdh1zYUwbnel62whek54EXniQJgFAvhdYJhf3WnbAqpq5KOPYLTC3rGczoB3IVIuhi5I0tqcAiEoyab1U4VEjKZiRSKL5Y8vPYeQW3BrhqwLSsYEFJ/XLwyBK93iiCWV4p0hAF3+kCRJ2xg+X/xWXABtEJ7Ic8iWQXfeJ848SvhRtwW66GI1Ve2MVoibrbYc1gNn59vQNXR4MuKhHPutf6m7uCR7jWQU+YrMkSly3Dr38m+eQ8+uDTTSlTqchqdHO5OHkDYCH5VDqnNN81Viu0tXOh+UvJIYWrdnFcwfHvNm00QNuSnUQ==;gRhhOTtKNevyRImtOVyHDA=="
 ---
