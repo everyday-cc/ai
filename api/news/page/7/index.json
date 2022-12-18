@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-12-09-the-final-freedom-the-role-of-artificial-intelligence-in-the-workplace.md",
+      "title": "The Final Freedom: The Role Of Artificial Intelligence In The Workplace",
+      "excerpt": "The reality is that AI does something unique in our technological evolution because rather than simply replicate and improve our interactions with the physical world, or accelerate rote tasks through automation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/09/the-final-freedom-the-role-of-artificial-intelligence-in-the-workplace/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/09/the-final-freedom-the-role-of-artificial-intelligence-in-the-workplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f93379ac3fffcbce128eacc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/09/the-final-freedom-the-role-of-artificial-intelligence-in-the-workplace/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/09/the-final-freedom-the-role-of-artificial-intelligence-in-the-workplace/amp/",
+      "publishedDateTime": "2022-12-09T02:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-09-is-chatgpt-the-next-big-threat-to-googles-dominance-in-the-ai-market.md",
       "title": "Is ChatGPT the next big threat to Google’s dominance in the AI market?",
       "excerpt": "With its ability to produce natural language text quickly and accurately ... to say the least. This new powerful language processing technology has the potential to revolutionise the way we interact with computers. But is it really that much of a big ...",
@@ -992,6 +1044,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-09-ai21-jurassic-1-foundation-model-now-available-on-amazon-sagemaker.md",
+      "title": "AI21 Jurassic-1 Foundation Model Now Available on Amazon SageMaker",
+      "excerpt": "SageMaker provides a curated list of foundation models that are pre-trained, cutting down on expenses and time for customers, while being hosted and deployed securely on Amazon's AWS platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ksn.com/business/press-releases/cision/20221208LN60463/ai21-jurassic-1-foundation-model-now-available-on-amazon-sagemaker/",
+      "originalUrl": "https://www.ksn.com/business/press-releases/cision/20221208LN60463/ai21-jurassic-1-foundation-model-now-available-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.ksn.com/wp-content/uploads/sites/13/2022/12/American-Legion-toy-run.png?w=2000&#038;ssl=1",
+          "width": 1214,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T09:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ksn.com",
+        "domain": "ksn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-09-google-brings-no-code-machine-learning-to-sheets-with-simpleml.md",
       "title": "Google brings no-code machine learning to Sheets with SimpleML",
       "excerpt": "Businesses looking to automate their Google workspaces could benefit from the tool which requires no programming experience and is now in beta",
@@ -1040,40 +1135,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-ai21-jurassic-1-foundation-model-now-available-on-amazon-sagemaker.md",
-      "title": "AI21 Jurassic-1 Foundation Model Now Available on Amazon SageMaker",
-      "excerpt": "AI21 Labs, an Israeli startup aiming to fundamentally change the way people read and write using Generative AI, announced today that its Jurassic-1 Foundation Model used to power chatbots, answer questions,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/12/08/9727397.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/12/08/9727397.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-08T08:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     },
@@ -1128,58 +1189,6 @@
         "AI in Finance",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-gpu-vendor-colorful-accidentally-leaks-nvidias-rtx-4070-ti.md",
-      "title": "GPU Vendor Colorful Accidentally Leaks Nvidia's RTX 4070 Ti",
-      "excerpt": "The product matches the specs of the canceled RTX 4080 12GB. So the upcoming RTX 4070 Ti will probably just be a rebrand of the unlaunched card. I've been with PCMag since October 2017, covering a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/gpu-vendor-colorful-accidentally-leaks-nvidias-rtx-4070-ti",
-      "originalUrl": "https://www.pcmag.com/news/gpu-vendor-colorful-accidentally-leaks-nvidias-rtx-4070-ti",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/03Nkq6nopZxnwQAiYa6WYgR-1.fit_lim.size_1200x630.v1670504293.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-08T08:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

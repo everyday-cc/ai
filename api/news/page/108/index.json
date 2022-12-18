@@ -2,6 +2,100 @@
   "page": 108,
   "value": [
     {
+      "path": "_news/2022-09-15-machine-learning-predicts-porosity-effects-on-zr-alloys-corrosion.md",
+      "title": "Machine Learning Predicts Porosity Effects on Zr Alloys Corrosion",
+      "excerpt": "Study: Nano-Porosity effects on Corrosion Rate of Zr Alloys Using Nanoscale Microscopy Coupled to Machine Learning. Image Credit: Korawat photo shoot/Shutterstock.com In a study published in Corrosion Science, the team exposed Zircaloy-4 to oxidation for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.azonano.com/news.aspx?newsID=39679",
+      "originalUrl": "https://www.azonano.com/news.aspx?newsID=39679",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1otjdv2bf0507.cloudfront.net/images/news/SocialSharingImage_39679_16631616235793625.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azonano.com/amp/news.aspx?newsID=39679",
+      "cdnAmpWebUrl": "https://www-azonano-com.cdn.ampproject.org/c/s/www.azonano.com/amp/news.aspx?newsID=39679",
+      "publishedDateTime": "2022-09-14T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AZoNano",
+        "domain": "azonano.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-silicon-valley-startup-sambanova-offers-new-ai-system-triples-previous-system-speed.md",
+      "title": "Silicon Valley startup SambaNova offers new AI system, triples previous system speed",
+      "excerpt": "Sept 14 (Reuters) - SambaNova Systems, a SoftBank-backed Silicon Valley artificial intelligence chip and systems startup, said on Wednesday it has started offering its new AI system called ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/silicon-valley-startup-sambanova-offers-new-ai-system-triples-previous-system-2022-09-14/",
+      "originalUrl": "https://www.reuters.com/technology/silicon-valley-startup-sambanova-offers-new-ai-system-triples-previous-system-2022-09-14/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/X1FhAbpl2CFPcOFqhIJPqtP3Aqc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LB5THJQFTFPU7EPDZ7L5BMVSFM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-14T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-15-intel-arm-and-nvidia-propose-new-standard-to-make-ai-processing-more-efficient.md",
       "title": "Intel, Arm and Nvidia propose new standard to make AI processing more efficient",
       "excerpt": "Intel, Arm and Nvidia have proposed a standard that they say can reduce the amount of memory and processing power required for AI workloads.",
@@ -934,107 +1028,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-artificial-intelligence-in-healthcare-market-is-expected-to-undergo-a-cagr-of-5137-by-2029.md",
-      "title": "Artificial Intelligence In Healthcare Market Is Expected To Undergo A CAGR Of 51.37% By 2029",
-      "excerpt": "Artificial Intelligence in Healthcare market would rocket up to USD 175.22 billion by 2029 PUNE, MAHARASHTRA, INDIA, September 14, 2022 /EINPresswire.com / -- A systematic discussion in the top ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104863364/Artificial-Intelligence-In-Healthcare-Market-Is-Expected-To-Undergo-A-CAGR-Of-5137-By-2029",
-      "originalUrl": "https://menafn.com/1104863364/Artificial-Intelligence-In-Healthcare-Market-Is-Expected-To-Undergo-A-CAGR-Of-5137-By-2029",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-09/14/EP_be8c9image_story.jpeg",
-          "width": 600,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MENAFN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-10-years-later-deep-learning-revolution-rages-on-say-ai-pioneers-hinton-lecun-and-li.md",
-      "title": "10 years later, deep learning ‘revolution’ rages on, say AI pioneers Hinton, LeCun and Li",
-      "excerpt": "On the 10th anniversary of key research that led to deep learning breakthroughs, AI luminaries say the 'revolution' will continue.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/10-years-on-ai-pioneers-hinton-lecun-li-say-deep-learning-revolution-will-continue/",
-      "originalUrl": "https://venturebeat.com/ai/10-years-on-ai-pioneers-hinton-lecun-li-say-deep-learning-revolution-will-continue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1004013312.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/10-years-on-ai-pioneers-hinton-lecun-li-say-deep-learning-revolution-will-continue/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/10-years-on-ai-pioneers-hinton-lecun-li-say-deep-learning-revolution-will-continue/amp/",
-      "publishedDateTime": "2022-09-14T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing",
-        "AI Ethics",
-        "Computer Vision",
-        "AI Hardware",
-        "Facebook AI"
       ]
     }
   ],

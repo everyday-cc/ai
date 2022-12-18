@@ -2,6 +2,84 @@
   "page": 102,
   "value": [
     {
+      "path": "_news/2022-09-20-tecnotree-to-accelerate-digital-transition-to-the-cloud-with-microsoft-azure-integration.md",
+      "title": "Tecnotree to Accelerate Digital Transition to the Cloud with Microsoft Azure Integration",
+      "excerpt": "Tecnotree's Digital Suite-5 for consumers and business monetization is built natively to run on Kubernetes and is aligned with the Microsoft Azure cloud to drive multi-tenant, multi-region transformations that allow enterprises to lower total-cost-of-ownership (TCO) by eliminating significant upfront investments.",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-20-tecnotree-to-accelerate-digital-transition-to-the-cloud-with-microsoft-azure-integration",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-20-tecnotree-to-accelerate-digital-transition-to-the-cloud-with-microsoft-azure-integration",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-20T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-iit-guwahatis-tic-incubates-42-start-ups-in-sectors-like-robotics-it-machine-learning-and-more.md",
+      "title": "IIT Guwahati’s TIC incubates 42 start-ups in sectors like Robotics, IT, Machine Learning and more",
+      "excerpt": "Guwahati’s Technology Incubation Centre (TIC) has incubated 42 start-ups that will work in different sectors such as robotics, IT, water, oil sector, biotechnology, Machine Learning, IoT, renewable energy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraphindia.com/edugraph/news/iit-guwahatis-tic-incubates-42-start-ups-in-sectors-like-robotics-it-machine-learning-and-more/cid/1887755",
+      "originalUrl": "https://www.telegraphindia.com/edugraph/news/iit-guwahatis-tic-incubates-42-start-ups-in-sectors-like-robotics-it-machine-learning-and-more/cid/1887755",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telegraphindia.com/telegraph/2022/Sep/1663669122_iit-guwahati-1.jpg",
+          "width": 560,
+          "height": 352,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraphindia.com/amp/edugraph/news/iit-guwahatis-tic-incubates-42-start-ups-in-sectors-like-robotics-it-machine-learning-and-more/cid/1887755",
+      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/news/iit-guwahatis-tic-incubates-42-start-ups-in-sectors-like-robotics-it-machine-learning-and-more/cid/1887755",
+      "publishedDateTime": "2022-09-20T03:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-their-teacher-is-a-robot-named-sophia-the-lesson-is-their-humanity.md",
       "title": "Their teacher is a robot named Sophia. The lesson is their humanity.",
       "excerpt": "So I've been primed to imagine AI-powered robots as indestructible killing machines ... development of our digital helpers. \"People should start questioning whether they should do these things ...",
@@ -1028,110 +1106,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-inflation-problems-persist-and-ai-makes-headlines-forbes-ai-newsletter-september-17th.md",
-      "title": "Inflation Problems Persist And AI Makes Headlines: Forbes AI Newsletter - September 17th",
-      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/09/19/inflation-problems-persist-and-ai-makes-headlines-forbes-ai-newsletterseptember-17th/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/09/19/inflation-problems-persist-and-ai-makes-headlines-forbes-ai-newsletterseptember-17th/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6328702c4f81b1ab9e7a03a5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/09/19/inflation-problems-persist-and-ai-makes-headlines-forbes-ai-newsletterseptember-17th/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/09/19/inflation-problems-persist-and-ai-makes-headlines-forbes-ai-newsletterseptember-17th/amp/",
-      "publishedDateTime": "2022-09-19T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-19-ai-ethics-and-the-quest-for-self-awareness-in-ai.md",
-      "title": "AI Ethics And The Quest For Self-Awareness In AI",
-      "excerpt": "One of the most evocative areas that vividly presents this ethical AI quandary is the advent of AI-based true self-driving cars. This will serve as a handy use case or exemplar for ample ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/09/18/ai-ethics-and-the-quest-for-self-awareness-in-ai/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/09/18/ai-ethics-and-the-quest-for-self-awareness-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62227e18d8a6304b2d957a48/0x0.jpg?format=jpg&crop=2559,1847,x381,y77,safe&width=1200",
-          "width": 1200,
-          "height": 866,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/09/18/ai-ethics-and-the-quest-for-self-awareness-in-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/09/18/ai-ethics-and-the-quest-for-self-awareness-in-ai/amp/",
-      "publishedDateTime": "2022-09-19T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

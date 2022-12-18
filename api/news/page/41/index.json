@@ -2,6 +2,101 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2022-11-12-are-airports-the-ideal-testbed-for-the-newest-technologies.md",
+      "title": "Are Airports the Ideal Testbed for the Newest Technologies?",
+      "excerpt": "Aman Nalavade, product manager for Waymo, said this is something that Phoenix residents ... First introduced in June 2021, Iris is an artificial intelligence-powered “digital concierge” that can answer questions through voice-based technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/products/are-airports-the-ideal-testbed-for-the-newest-technologies",
+      "originalUrl": "https://www.govtech.com/products/are-airports-the-ideal-testbed-for-the-newest-technologies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/5031646/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fec%2F28%2F09773cf00d8d10ada26a5abfbac2%2Fshutterstock-530657836.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/products/are-airports-the-ideal-testbed-for-the-newest-technologies?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/are-airports-the-ideal-testbed-for-the-newest-technologies?_amp=true",
+      "publishedDateTime": "2022-11-11T15:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-12-deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup-updated.md",
+      "title": "DeviantArt upsets artists with its new AI art generator, DreamUp [Updated]",
+      "excerpt": "As for DreamUp itself? We experimented with the service, which feels like a vanilla Stable Diffusion model. DeviantArt members get five free prompts to try it out, and members can",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/?ref=biztoc.com",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/?ref=biztoc.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/dreamup_hero_1-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/?ref=biztoc.com&amp",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/?ref=biztoc.com&amp",
+      "publishedDateTime": "2022-11-11T14:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-12-deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup.md",
       "title": "DeviantArt upsets artists with its new AI art generator, DreamUp",
       "excerpt": "Also, DeviantArt will let artists opt out of letting their images train DreamUp in the future, but each artist must fill out a form that requires human review first. This policy h",
@@ -1054,112 +1149,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-mediatek-upgrades-flagship-4k-120hz-tv-experiences-with-new-pentonic-1000-chipset.md",
-      "title": "MediaTek Upgrades Flagship 4K 120Hz TV Experiences with New Pentonic 1000 Chipset",
-      "excerpt": "New chipset packs all the latest features for Cloud gaming and 4K streaming SONOMA, Calif., Nov. 10, 2022 /PRNewswire/ -- MediaTek today launched",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mediatek-upgrades-flagship-4k-120hz-tv-experiences-with-new-pentonic-1000-chipset-1031900798",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/mediatek-upgrades-flagship-4k-120hz-tv-experiences-with-new-pentonic-1000-chipset-1031900798",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1942241/MediaTek_Pentonic_1000_1022.jpg",
-          "width": 400,
-          "height": 264,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T15:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-groq-reimagining-high-performance-computing.md",
-      "title": "Groq – Reimagining High Performance Computing",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead sits down with the CEO and founder of Groq, Jonathan Ross, and discusses the next generation of computational AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/11/10/groq--reimagining-high-performance-computing/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/11/10/groq--reimagining-high-performance-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/636d1f9240cdc45744555971/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/11/10/groq--reimagining-high-performance-computing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/11/10/groq--reimagining-high-performance-computing/amp/",
-      "publishedDateTime": "2022-11-10T15:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],

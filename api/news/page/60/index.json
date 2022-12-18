@@ -2,6 +2,102 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2022-10-26-ibm-announces-three-new-ai-libraries-for-natural-language-processing.md",
+      "title": "IBM announces three new AI libraries for natural language processing",
+      "excerpt": "IBM unveiled three new embeddable AI libraries to reduce the barriers for AI adoption and to address the AI skills shortage.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/ibm-announces-three-new-ai-libraries-for-natural-language-processing/",
+      "originalUrl": "https://sdtimes.com/ai/ibm-announces-three-new-ai-libraries-for-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-25-at-1.12.13-PM.png",
+          "width": 1202,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-microsoft-celebrates-10-years-of-surface-at-its-2022-surface-event.md",
+      "title": "Microsoft Celebrates 10 Years Of Surface At Its 2022 Surface Event",
+      "excerpt": "I believe Microsoft has made some incredible innovations for its hardware and software over the past 10 years and with its Surface Brand. That path is marked by the Surface teams",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-celebrates-10-years-of-surface-at-its-2022-surface-event/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-celebrates-10-years-of-surface-at-its-2022-surface-event/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-26-ibm-expands-embeddable-ai-portfolio-with-plug-and-play-watson-libraries.md",
       "title": "IBM expands embeddable AI portfolio with plug-and-play Watson libraries",
       "excerpt": "The new offerings announced today provide customers with access to the same AI libraries that IBM uses to power its own IBM Watson products. In other words, they enable developers to build extremely sophisticated AI capabilities directly into their ...",
@@ -1034,102 +1130,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-vara-raises-44-million-in-funding-to-bring-its-groundbreaking-ai-breast-cancer-screening-platform-to-millions-more-women.md",
-      "title": "Vara Raises $4.4 Million In Funding To Bring Its Groundbreaking AI Breast Cancer Screening Platform To Millions More Women",
-      "excerpt": "There are more lost disability-adjusted life years (DALYs) by women to breast cancer globally than any other type of cancer. Vara, a startup building an intelligent platform that infuses state-of-the-art AI into routine breast screenings,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marijabutkovic/2022/10/25/vara-raises-44-million-in-funding-to-bring-its-groundbreaking-ai-breast-cancer-screening-platform-to-millions-more-women/",
-      "originalUrl": "https://www.forbes.com/sites/marijabutkovic/2022/10/25/vara-raises-44-million-in-funding-to-bring-its-groundbreaking-ai-breast-cancer-screening-platform-to-millions-more-women/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6357aa205c30294b7fa133ef/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marijabutkovic/2022/10/25/vara-raises-44-million-in-funding-to-bring-its-groundbreaking-ai-breast-cancer-screening-platform-to-millions-more-women/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marijabutkovic/2022/10/25/vara-raises-44-million-in-funding-to-bring-its-groundbreaking-ai-breast-cancer-screening-platform-to-millions-more-women/amp/",
-      "publishedDateTime": "2022-10-25T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-your-health-brain-like-ai-no-internet-needed.md",
-      "title": "YOUR HEALTH: Brain-like AI, no internet needed",
-      "excerpt": "The scientists say with no need for internet connection, the AI would also work in space, where no AI technology has gone before.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wafb.com/2022/10/25/your-health-brain-like-ai-no-internet-needed/",
-      "originalUrl": "https://www.wafb.com/2022/10/25/your-health-brain-like-ai-no-internet-needed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wafb-prod.cdn.arcpublishing.com/resizer/mJT1ZA4do6crwyKcA266GlU_m7g=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/56TBXSJTO5AKLMJVGDMLBKZETU.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wafb.com/2022/10/25/your-health-brain-like-ai-no-internet-needed/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wafb-com.cdn.ampproject.org/c/s/www.wafb.com/2022/10/25/your-health-brain-like-ai-no-internet-needed/?outputType=amp",
-      "publishedDateTime": "2022-10-25T01:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WAFB",
-        "domain": "wafb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

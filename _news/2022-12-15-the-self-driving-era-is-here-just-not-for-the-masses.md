@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "The self-driving era is here, the question is what comes next"
+    excerpt: "TORONTO - The self-driving era is here, just not the one that was promised. Instead of sleek pods without steering wheels ready to chauffeur buyers off the lot, there are mostly driverless Chevy compacts,"
+    publishedDateTime: 2022-12-15T09:05:00Z
+    webUrl: "https://www.thestar.com/business/2022/12/15/the-self-driving-era-is-here-the-question-is-what-comes-next.html"
+    ampWebUrl: "https://www.thestar.com/amp/business/2022/12/15/the-self-driving-era-is-here-the-question-is-what-comes-next.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/2022/12/15/the-self-driving-era-is-here-the-question-is-what-comes-next.html"
+    type: article
+    provider:
+      name: Toronto Star
+      domain: thestar.com
+    quality: 44
+    images:
+      - url: "https://www.thestar.com/content/dam/thestar/business/2022/12/17/grocery-shoplifting-on-the-rise-in-canada-amid-inflation-industry-insiders-say/20221216191224-639d0c6256ac9025d918232bjpeg.jpg.size.custom.crop.640x360.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "What Psychology Means for the Future of Self-Driving Cars"
     excerpt: "Short of teleportation, few technological dreams are more appealing than getting from point A to point B in a self-driving car: a vehicle able to whisk you away at a moment’s command, and that grants countless hours of newfound free time en route."
     publishedDateTime: 2022-12-14T17:51:00Z
@@ -35,43 +51,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Explaining the Sensor Suite in a Self-Driving Car"
-    excerpt: "In this video, a TI engineer at electronica 2022 explains the various sensors that are deployed in a vehicle in order for it to be able to drive itself."
-    publishedDateTime: 2022-12-15T22:24:00Z
-    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/video/21256346/electronic-design-explaining-the-sensor-suite-in-a-selfdriving-car"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 39
-    images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/12/TI_1.63989aac6d740.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The self-driving era is here, the question is what comes next"
-    excerpt: "The self-driving era is here, just not the one that was promised. Instead of sleek pods without steering wheels ready to chauffeur buyers off the lot, there are mostly driverless Chevy compacts, Chrysler minivans,"
-    publishedDateTime: 2022-12-15T14:23:00Z
-    webUrl: "https://www.canadianunderwriter.ca/insurance/the-self-driving-era-is-here-the-question-is-what-comes-next-1004229083/"
-    type: article
-    provider:
-      name: Canadian Underwriter
-      domain: canadianunderwriter.ca
-    quality: 24
-    images:
-      - url: "https://media.canadianunderwriter.ca/uploads/2022/12/autonomous-delivery-robot-driverless-on-street-smart-vehicle-technology-concept-3d-render.jpg-s1024x1024wisk20cmMRGsXAoI1Ywu2RTp93k4lQnAj2JoUta6m1uy_Erskc.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Shapiro: A moonshot moment for self-driving cars | Opinion"
-    excerpt: "The United States and China are locked in a battle for tech leadership, and self-driving vehicles are on the cutting edge of the AI revolution."
-    publishedDateTime: 2022-12-15T03:00:00Z
-    webUrl: "https://www.detroitnews.com/story/opinion/2022/12/15/shapiro-a-moonshot-moment-for-self-driving-cars-opinion/69725418007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 4
 
 secured: "hpGFoQFLJAoYbVulgQtIQ44vZ5kfPmGJUHitSLSyh4t0lMBrV2V7/JK2XE04hpP2zbrbNg3ilrlez5bglYty6XCCs4tBnVFzhJUwfFcd37a2Xc7mPjsQOUEEbLYNoFRyl2VswXs6xz5Sq8R7o/y0cWjESRvQRpDHNxdaV3HoXqSjTwbdd5GEP8VFOjTQVBFHCJAXmQ7Wk4qAT7Xe4T2aaG0rH5qxp0vhbOlZJzq4RyGOLbi/jBsoDrv+NGNf/eS2uemCB8pG/CQi0+slbBlIfr316B6aYrUzs2x4r4MEcGVyFPhzguV6AN6u2gQQwomVp6fQMIqLbNqTAfbJeAGmd0xzQ8JtFRr950hp98MnB9+3V88201XhNp669x2rxJdpAO057XB5o3lgUbLCb9NiBMjjMvV2GiH4lVMEDW6zlFXPADFBvsi1K0fs5bvofuIlsHmpDjojzaXJIDAAOoS1bwjQB6xcPz8mr2XLnz2yxu67XMlAZdZQi+q5hsSZ6AfqkrUYRO06MYEt8Lr5tZPgqg==;16ohLMU2LXh58JQFL+XBBQ=="
 ---

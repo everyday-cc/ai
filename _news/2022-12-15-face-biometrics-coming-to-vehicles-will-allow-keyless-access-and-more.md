@@ -24,6 +24,17 @@ images:
     height: 1152
     isCached: true
 
+related:
+  - title: "Face biometrics app aids Dominican police in 800 arrests"
+    excerpt: "The Citizen Purging and Biometric Identification System reportedly can issue warnings when a scanned individual has a pending arrest warrant."
+    publishedDateTime: 2022-12-13T20:50:00Z
+    webUrl: "https://www.biometricupdate.com/202212/face-biometrics-app-aids-dominican-police-in-800-arrests"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
+
 secured: "rFp3hnGB/qLV2SSk7pWvRzbQB/yBGOjyviBV9/J9OcCrlkFJktLZRqrsCcIg1wZBSrSFZmUf5CDRpVdCnQGiKCvAtpjPZQrJLXou2sbN1oJLqauHJsjOhoxYb5Q3eAf4Poj/lj8G5BQN301cfhSsZRjGVXRQaXW53mzJ2J0m72bjkbl4hbhHtflPUR2LAVhtOA/7IxL96JjB9wSxy4JfN0NMdRLAtuUhqpGsCZb0inZpKDkv0w9kJ0q99r7LIqRCnt86bP878cfmh8AqbYYmL8YrMDMsxMUa3Lt8/Vxu5nK865nBLMUp2sWyR4wdpURyPd6wNkzBAbcURTfgYG3R4BbcV7qCpjRYXH/EWBte3O8=;rd2uU9m6BHbE4CwWA0no/w=="
 ---
 

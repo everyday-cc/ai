@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/12/13/ai-and-analytics-platform-dataiku-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/13/ai-and-analytics-platform-dataiku-raises-200m-at-a-reduced-valuation/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/image-2-1.png"
         width: 931
         height: 520
-        isCached: true
-  - title: "Vic.ai raises $52M for its AI-powered accounting automation platform"
-    excerpt: "XFO Financials Inc., an accounting automation startup that does business as Vic.ai, has raised $52 million through a new funding round announced today. Existing Vic.ai investors GGV Capital and ICONIQ Growth led the Series C round."
-    publishedDateTime: 2022-12-13T18:22:00Z
-    webUrl: "https://siliconangle.com/2022/12/13/vic-ai-raises-52m-ai-powered-accounting-automation-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/image-2.png"
-        width: 718
-        height: 400
         isCached: true
   - title: "AI development startup Dataiku secures $200M funding round"
     excerpt: "Dataiku, an AI development startup, announced it has secured a $200 million funding round that values the startup at over $2 billion. The funding round"

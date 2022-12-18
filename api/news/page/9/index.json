@@ -2,6 +2,57 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-12-08-why-c3ai-shares-are-moving-in-wednesdays-after-hours-session.md",
+      "title": "Why C3.ai Shares Are Moving In Wednesday's After-Hours Session",
+      "excerpt": "C3.Ai Inc (NYSE: AI) shares are volatile in Wednesday's after-hours session after the company reported better-than-expected",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/why-c3-ai-shares-are-moving-in-wednesday-s-after-hours-session-1031958991",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/why-c3-ai-shares-are-moving-in-wednesday-s-after-hours-session-1031958991",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/12/07/artificial-intelligence-gc56b6d204_1920.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T14:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-08-lensa-the-ai-portrait-app-has-soared-in-popularity-but-many-artists-question-the-ethics-of-ai-art.md",
       "title": "Lensa, the AI portrait app, has soared in popularity. But many artists question the ethics of AI art.",
       "excerpt": "For many online, Lensa AI is a cheap, accessible profile picture generator. But in digital art circles, the popularity of artificial intelligence-generated art has raised major privacy and ethics concerns.",
@@ -755,6 +806,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-07-microsoft-announces-future-ready-champions-of-code-program-a-pan-india-program-for-developers.md",
+      "title": "Microsoft announces Future Ready Champions of Code Program a pan India program for developers",
+      "excerpt": "The program will provide opportunities to over 100K+ developers to earn or renew Microsoft cloud certifications over a period of 30 days",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/technology-science/microsoft-announces-future-ready-champions-of-code-program-a-pan-india-program-for-developers-article-96062574",
+      "originalUrl": "https://www.timesnownews.com/technology-science/microsoft-announces-future-ready-champions-of-code-program-a-pan-india-program-for-developers-article-96062574",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tnn.in/thumb/msid-96062574,imgsize-100,updatedat-1670423783327,width-1280,height-720,resizemode-75/96062574.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/technology-science/microsoft-announces-future-ready-champions-of-code-program-a-pan-india-program-for-developers-article-96062574/amp",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/microsoft-announces-future-ready-champions-of-code-program-a-pan-india-program-for-developers-article-96062574/amp",
+      "publishedDateTime": "2022-12-07T06:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-07-san-francisco-changes-course-bans-police-use-of-killer-robots-amid-public-outrage.md",
       "title": "San Francisco changes course, bans police use of 'killer robots' amid public outrage",
       "excerpt": "Tuesday's vote came a week after the San Francisco Board of Supervisors voted 8-3 to initially approve allowing \"killer robots\" in emergencies.",
@@ -1070,112 +1164,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-intel-just-gave-your-arc-gpu-double-the-frames-per-second-performance.md",
-      "title": "Intel just gave your Arc GPU double the frames-per-second performance",
-      "excerpt": "It’s no secret that Intel’s Arc graphics cards had a rough launch, with multiple delays and even cancellation rumors plaguing Intel’s efforts. But now the company finally has some good news ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/intel-arc-driver-doubles-fps-performance/",
-      "originalUrl": "https://www.digitaltrends.com/computing/intel-arc-driver-doubles-fps-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/07/Intel-Arc-A750-Limited-Edition.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/intel-arc-driver-doubles-fps-performance/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/intel-arc-driver-doubles-fps-performance/?amp",
-      "publishedDateTime": "2022-12-07T04:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-ai-shake-up-as-prominent-ai-guru-proposes-mind-bending-mortal-computers-which-also-gets-ai-ethics-and-ai-law-dug-in.md",
-      "title": "AI Shake-Up As Prominent AI Guru Proposes Mind-Bending “Mortal Computers” Which Also Gets AI Ethics And AI Law Dug In",
-      "excerpt": "A major AI conference raised eyebrows when a top AI guru proposed that we need mortal computers in addition to immortal computers. What is this all about? What are the AI ramifications? Are there AI Ethics and AI Law concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/12/07/ai-shake-up-as-prominent-ai-guru-proposes-mind-bending-mortal-computers-which-also-gets-ai-ethics-and-ai-law-dug-in/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/12/07/ai-shake-up-as-prominent-ai-guru-proposes-mind-bending-mortal-computers-which-also-gets-ai-ethics-and-ai-law-dug-in/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62427f3c055f1d39bb6f0b2a/0x0.jpg?format=jpg&crop=3992,2661,x540,y0,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/12/07/ai-shake-up-as-prominent-ai-guru-proposes-mind-bending-mortal-computers-which-also-gets-ai-ethics-and-ai-law-dug-in/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/12/07/ai-shake-up-as-prominent-ai-guru-proposes-mind-bending-mortal-computers-which-also-gets-ai-ethics-and-ai-law-dug-in/amp/",
-      "publishedDateTime": "2022-12-07T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI Hardware",
-        "Machine Learning"
       ]
     }
   ],

@@ -57,20 +57,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Genesis launches face recognition for cars"
-    excerpt: "Come to CAR magazine to find out more about the new keyless entry facial recognition technology launching in 2023 on the updated Genesis GV60 electric SUV"
-    publishedDateTime: 2022-12-13T18:30:00Z
-    webUrl: "https://www.carmagazine.co.uk/car-news/tech/facial-recognition-key/"
-    type: article
-    provider:
-      name: CAR Magazine
-      domain: carmagazine.co.uk
-    quality: 39
-    images:
-      - url: "https://car-images.bauersecure.com/wp-images/158633/092-genesis-car-face-recognition-reflected-face-indicator.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
 
 secured: "k8T5q67EJrO6aiIgugS0C55axfOYv+tLgFRj0VWrS1vjnOMx8Ti5WoInDUx43gHLd20mwn7vg9myaQovPYY4cWFLZXc8ooaBGkJ4zX4o9aoqZA2v0F23w4pEq88WpZFimyYUjgWkQ6pwpzYTzvtssvnIC42b4iYiU+pdCVSIfFij3VL4eeuOdcmBsHvcKUXMKHvH/1qcxiuqfOX+3d1tqpuDiMeLBNsZYrRH3Sa5n2jJOE1jcD2qTKl/6GqpeHCO81mx0EHvMlXWPgOsFH7IPpPvx0LR0aIGm6dbPTwcTgOmdnepkROwcKD6iuPeh/Ks017jv8CuDG3i0a2vFDTSWNOKitvFrXKXqYFE33ETM1E=;aZg6Ro7ufAeHOJ4AtOorVQ=="
 ---

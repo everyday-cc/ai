@@ -152,58 +152,6 @@
       ]
     },
     {
-      "path": "_news/2022-12-15-werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech.md",
-      "title": "Werner CIO Looks to Outfit Company Trucks With AI-Enabled Tech",
-      "excerpt": "The Omaha, Neb.-based company plans to install dashboard cameras with artificial-intelligence capabilities from Samsara in its fleet of 8,500 trucks",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech-11671071051",
-      "originalUrl": "https://www.wsj.com/articles/werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech-11671071051",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-685993/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech-11671071051",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech-11671071051",
-      "publishedDateTime": "2022-12-15T03:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-13-symphonyai-strengthens-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace.md",
       "title": "SymphonyAI strengthens Microsoft collaboration, makes Sensa financial crime prevention solution available in Microsoft Azure Marketplace",
       "excerpt": "SymphonyAI, a leader in high-value enterprise AI SaaS for strategic industries, announced today it is expanding its role as a Microsoft",
@@ -608,6 +556,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-microsoft-announces-future-ready-champions-of-code-program-a-pan-india-program-for-developers.md",
+      "title": "Microsoft announces Future Ready Champions of Code Program a pan India program for developers",
+      "excerpt": "The program will provide opportunities to over 100K+ developers to earn or renew Microsoft cloud certifications over a period of 30 days",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/technology-science/microsoft-announces-future-ready-champions-of-code-program-a-pan-india-program-for-developers-article-96062574",
+      "originalUrl": "https://www.timesnownews.com/technology-science/microsoft-announces-future-ready-champions-of-code-program-a-pan-india-program-for-developers-article-96062574",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tnn.in/thumb/msid-96062574,imgsize-100,updatedat-1670423783327,width-1280,height-720,resizemode-75/96062574.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/technology-science/microsoft-announces-future-ready-champions-of-code-program-a-pan-india-program-for-developers-article-96062574/amp",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/microsoft-announces-future-ready-champions-of-code-program-a-pan-india-program-for-developers-article-96062574/amp",
+      "publishedDateTime": "2022-12-07T06:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews",
+        "domain": "timesnownews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,92 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2022-11-18-another-opinion-facial-recognition-use-must-be-accurate-fair.md",
+      "title": "ANOTHER OPINION: Facial recognition use must be accurate, fair",
+      "excerpt": "The action requires a facial recognition system using biometrics, which generally use body measurements to match a photo with a person. Those systems are not as reliable as Batman or Jason Bourne ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.goshennews.com/opinion/another-opinion-facial-recognition-use-must-be-accurate-fair/article_1fac2e5e-66c0-11ed-b0d0-478b9bc39009.html",
+      "originalUrl": "https://www.goshennews.com/opinion/another-opinion-facial-recognition-use-must-be-accurate-fair/article_1fac2e5e-66c0-11ed-b0d0-478b9bc39009.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/goshennews.com/content/tncms/custom/image/b3e2ff74-9933-11e5-a144-bfe0ad02fa0b.jpg?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T21:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Goshen News",
+        "domain": "goshennews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-18-ai-cant-cut-it-correcting-language-learners-writing-still-has-to-be-done-by-hand.md",
+      "title": "AI Can’t Cut It: Correcting Language Learners’ Writing Still Has to Be Done by Hand",
+      "excerpt": "Besides well-known applications that translate texts into many different languages ... is a trained philosopher and physicist. He works as an AI consultant at the Goethe-Institut’s Language Lab, a unit tasked with developing the institute’s online ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.goethe.de/en/spr/spr/24347140.html",
+      "originalUrl": "https://www.goethe.de/en/spr/spr/24347140.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.goethe.de/resources/files/jpg1195/rotstift_teaser-formatkey-jpg-w1920.jpg",
+          "width": 1920,
+          "height": 835,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T20:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Goethe",
+        "domain": "goethe.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-crime-and-public-safety.md",
       "title": "Crime and Public Safety",
       "excerpt": "The case in Aurora is one of hundreds of times Colorado law enforcement in the past few years have accessed facial recognition software through the DMV or by using a program more than 80 Colorado ...",
@@ -1045,92 +1131,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-adludio-adds-deep-learning-to-its-ad-platform.md",
-      "title": "Adludio Adds Deep Learning to Its Ad Platform",
-      "excerpt": "Adludio, providers of an artificial intelligence powered interactive mobile advertising platform, has added deep learning to its platform to give users additional measurement and actionable insights. Using Adludio's platform, clients can input desired ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=155989",
-      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=155989",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/149236-1122_ConvoAI_480x610_v2-ORG.png",
-          "width": 480,
-          "height": 610,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T07:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-brains-memory-center-flags-autistic-adults-at-risk-for-cognitive-decline.md",
-      "title": "Brain’s memory center flags autistic adults at risk for cognitive decline",
-      "excerpt": "Braden and her team have been scanning the brains of autistic people aged 40 and older and administering a battery of cognitive tests every two years. “We collect lots of data,” she says. Relatively little research has looked into how autistic adults ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.spectrumnews.org/news/brains-memory-center-flags-autistic-adults-at-risk-for-cognitive-decline/",
-      "originalUrl": "https://www.spectrumnews.org/news/brains-memory-center-flags-autistic-adults-at-risk-for-cognitive-decline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://spectrumnews-web-assets.s3.amazonaws.com/wp-content/uploads/2022/11/17100905/844-autism-memory-cognitive-decline-aging.jpg",
-          "width": 844,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T07:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Spectrum",
-        "domain": "spectrumnews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

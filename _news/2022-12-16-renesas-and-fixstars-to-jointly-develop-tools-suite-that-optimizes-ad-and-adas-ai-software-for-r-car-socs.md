@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-15T18:42:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/2022/12/15/9731166.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2022/12/15/9731166.htm"
 type: article
-quality: 2
+quality: 4
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Computer Vision
 
 related:
   - title: "New Tools Suite to Optimizes AD and ADAS AI Software for High Accuracy Object Recognition in R-Car SoCs"

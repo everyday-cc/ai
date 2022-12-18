@@ -2,6 +2,101 @@
   "page": 99,
   "value": [
     {
+      "path": "_news/2022-09-22-microsofts-october-12-surface-launch-whats-on-tap.md",
+      "title": "Microsoft's October 12 Surface launch: What's on tap",
+      "excerpt": "Surface launch event now has an official date but not a lot of other hints. Expectations are there could be a couple of Arm-based devices unveiled.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsofts-october-12-surface-launch-whats-on-tap/",
+      "originalUrl": "https://www.zdnet.com/article/microsofts-october-12-surface-launch-whats-on-tap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/3b60b27b90d76587e4582ccec59f95db8ce99f36/2022/09/21/684b5819-4efb-4fff-8f1b-08c53a4ca7e6/oct12savethedate.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-october-12-surface-launch-whats-on-tap/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-october-12-surface-launch-whats-on-tap/",
+      "publishedDateTime": "2022-09-21T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-voxel51-raises-125m-series-a-to-bring-transparency-and-clarity-to-computer-vision-data.md",
+      "title": "Voxel51 Raises $12.5M Series A to Bring Transparency and Clarity to Computer Vision Data",
+      "excerpt": "The recent explosion of computer vision data—there are an estimated 45 billion cameras in the world today—creates a tremendous opportunity for machine learning products, but only if it can be ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/voxel51-raises-12-5m-series-a-to-bring-transparency-and-clarity-to-computer-vision-data-1031757242",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/voxel51-raises-12-5m-series-a-to-bring-transparency-and-clarity-to-computer-vision-data-1031757242",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-21-run-machine-learning-enablement-events-at-scale-using-aws-deepracer-multi-user-account-mode.md",
       "title": "Run machine learning enablement events at scale using AWS DeepRacer multi-user account mode",
       "excerpt": "This post was co-written by Marius Cealera, Senior Partner Solutions Architect at AWS, Zdenko Estok, Cloud Architect at Accenture and Sakar Selimcan, Cloud Architect at Accenture. Machine learning (ML) is a high-stakes business priority, with companies spending $306 billion on ML applications in the",
@@ -1129,102 +1224,6 @@
         "AI",
         "AI in Robotics",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-elon-musks-tesla-to-unveil-humanoid-robot-next-week.md",
-      "title": "Elon Musk’s Tesla to unveil humanoid robot next week",
-      "excerpt": "Tesla is preparing to unveil a humanoid robot. Really. Plans are underway to launch a prototype of the mannequin-shaped droid — known as Tesla Bot or Optimus — at it’s ‘AI Day’ on 30 September, Reuters reports.",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2022/09/21/elon-musks-tesla-to-unveil-humanoid-robot-next-week-17419356/",
-      "originalUrl": "https://metro.co.uk/2022/09/21/elon-musks-tesla-to-unveil-humanoid-robot-next-week-17419356/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2022/09/HK3GFOZNRJJNHFHO4TNPIOP7WM-ed19.jpeg?quality=90&strip=all&zoom=1&resize=600%2C400",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2022/09/21/elon-musks-tesla-to-unveil-humanoid-robot-next-week-17419356/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/09/21/elon-musks-tesla-to-unveil-humanoid-robot-next-week-17419356/amp/",
-      "publishedDateTime": "2022-09-21T00:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-ai-computer-vision-market-share-size-financial-summaries-analysis-from-2022-2030-by-netapp-ibm-sas.md",
-      "title": "AI Computer Vision Market Share, Size, Financial Summaries Analysis from 2022-2030 | By -NetApp, IBM, SAS",
-      "excerpt": "The Global AI Computer Vision Market investigation report contains Types ( Standard, Customised ), Segmentation & all logical and factual briefs about the Market 2022 Overview, CAGR, Production Volume,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-computer-vision-market-share-size-financial-summaries-analysis-from-2022-2030-by--netapp-ibm-sas-2022-09-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-computer-vision-market-share-size-financial-summaries-analysis-from-2022-2030-by--netapp-ibm-sas-2022-09-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T00:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

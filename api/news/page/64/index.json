@@ -2,6 +2,101 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2022-10-22-over-30-lakh-officials-to-be-trained-in-artificial-intelligence-minister.md",
+      "title": "Over 30 Lakh Officials To Be Trained In Artificial Intelligence: Minister",
+      "excerpt": "Union Minister Jitendra Singh on Friday said more than 30 lakh central and state government officials will be trained and exposed to emerging technologies such as artificial intelligence (AI), machine learning,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/india-news/over-30-lakh-officials-to-be-trained-in-artificial-intelligence-minister-jitendra-singh-3453748",
+      "originalUrl": "https://www.ndtv.com/india-news/over-30-lakh-officials-to-be-trained-in-artificial-intelligence-minister-jitendra-singh-3453748",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2022-08/6uvni4e_jitendra-singh-650-_625x300_21_August_22.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/india-news/over-30-lakh-officials-to-be-trained-in-artificial-intelligence-minister-jitendra-singh-3453748/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/over-30-lakh-officials-to-be-trained-in-artificial-intelligence-minister-jitendra-singh-3453748/amp/1",
+      "publishedDateTime": "2022-10-21T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-22-why-generative-ai-legal-battles-are-brewing-the-ai-beat.md",
+      "title": "Why generative AI legal battles are brewing | The AI Beat",
+      "excerpt": "Behind this week's firehose of news around generative AI tools, legal battles around \"fair use\" of training data are brewing, say experts.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-generative-ai-legal-battles-are-brewing-the-ai-beat/",
+      "originalUrl": "https://venturebeat.com/ai/why-generative-ai-legal-battles-are-brewing-the-ai-beat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-824294832.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 863,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/why-generative-ai-legal-battles-are-brewing-the-ai-beat/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-generative-ai-legal-battles-are-brewing-the-ai-beat/amp/",
+      "publishedDateTime": "2022-10-21T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-22-dalle-mini-and-the-future-of-artificial-intelligence-art.md",
       "title": "Dall·E Mini And The Future Of Artificial Intelligence Art",
       "excerpt": "With many companies investing in artificial intelligence, it’s no surprise that there are AI-powered graphic generators that can create original works of art. Dall-E 2 is particularly good at making photorealistic images from text prompts.",
@@ -1051,101 +1146,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-texas-ag-sues-google-over-its-facial-data-collection-practices-updated.md",
-      "title": "Texas AG sues Google over its facial data collection practices (Updated)",
-      "excerpt": "Texas AG, Ken Paxton, is once again suing Google -- this time over the company's use of facial and voice biometric data gathered from the state's residents..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/texas-attorney-general-sues-google-over-its-facial-recognition-practices-161942788.html",
-      "originalUrl": "https://www.engadget.com/texas-attorney-general-sues-google-over-its-facial-recognition-practices-161942788.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-09/98e07ce0-2aa6-11ed-bfef-4161b140f90d",
-          "width": 5000,
-          "height": 2964,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/texas-attorney-general-sues-google-over-its-facial-recognition-practices-161942788.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/texas-attorney-general-sues-google-over-its-facial-recognition-practices-161942788.html",
-      "publishedDateTime": "2022-10-20T18:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-weight-loss-in-early-parkinson-linked-to-cognitive-decline.md",
-      "title": "Weight Loss in Early Parkinson Linked to Cognitive Decline",
-      "excerpt": "THURSDAY, Oct. 20, 2022 (HealthDay News) -- Weight loss in early Parkinson disease (PD) is associated with a decline in cognitive function, according to a study published online Oct. 19 in Neurology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kpvi.com/interests/weight-loss-in-early-parkinson-linked-to-cognitive-decline/article_e58ebdf7-b049-5c83-8435-6b68275bde2b.html",
-      "originalUrl": "https://www.kpvi.com/interests/weight-loss-in-early-parkinson-linked-to-cognitive-decline/article_e58ebdf7-b049-5c83-8435-6b68275bde2b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/kpvi.com/content/tncms/assets/v3/editorial/c/80/c802b23b-58c1-50e8-8c20-79c45aff8b67/6351f2b4671d4.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T18:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "kpvi",
-        "domain": "kpvi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }
