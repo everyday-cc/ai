@@ -247,6 +247,50 @@
       ]
     },
     {
+      "path": "_news/2022-12-15-revealed-the-ai-systems-and-training-models-of-tesla-waymo.md",
+      "title": "Revealed: The AI Systems and Training Models of Tesla, Waymo",
+      "excerpt": "The best-known manufacturer in the autonomous vehicles space is Tesla, and for a good reason. It has innovated extensively for powering capable on-vehicle computers through its collaboration with TSMC.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/revealed-the-ai-systems-and-training-models-of-tesla-googles-waymo/",
+      "originalUrl": "https://analyticsindiamag.com/revealed-the-ai-systems-and-training-models-of-tesla-googles-waymo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/The-Self-Driving-Force-Behind-Tesla-Googles-Waymo.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-15T03:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-12-15-the-dawn-of-ai-has-come-and-its-implications-for-education-couldnt-be-more-significant.md",
       "title": "The dawn of AI has come, and its implications for education couldn’t be more significant",
       "excerpt": "AI models can now produce meaningful responses to exam and assignment questions. We’ll have to embrace them if we want the next few years to go smoothly.",
@@ -1407,49 +1451,6 @@
         "AI",
         "AI in Robotics",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-10-your-robo-taxi-has-arrived.md",
-      "title": "Your Robo-Taxi Has Arrived",
-      "excerpt": "Not long ago, driverless vehicles were the stuff of science fiction. Today, the rollout of autonomous vehicles is rapidly gathering pace across the globe. The global transportation industry ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4563579-your-robo-taxi-has-arrived",
-      "originalUrl": "https://seekingalpha.com/article/4563579-your-robo-taxi-has-arrived",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1392926882/image_1392926882.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 484,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-09T10:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

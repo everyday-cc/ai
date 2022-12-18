@@ -85,6 +85,20 @@ related:
         width: 1888
         height: 1080
         isCached: true
+  - title: "Top 10 Fintech App Development Companies In 2023"
+    excerpt: "As we all know, fintech isn’t an incredible financial technology that offers automatic delivery of financial services. According to Statista, the financial app development market is expected to reach $305 billion by the end of 2025."
+    publishedDateTime: 2022-12-14T07:33:00Z
+    webUrl: "https://techbullion.com/top-10-fintech-app-development-companies-in-2023/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/12/unnamed-36-1.jpg"
+        width: 512
+        height: 256
+        isCached: true
   - title: "Fintech stocks took hammering in 2022, but rebound coming: industry boss"
     excerpt: "Soaring interest rates tend to hurt growth stocks – and more specifically tech stocks – due to the discounted cash flow models used in their valuations. As a result, fintech, which is part of the broader tech space,"
     publishedDateTime: 2022-12-14T22:23:00Z

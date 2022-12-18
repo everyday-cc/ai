@@ -15,6 +15,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "hekvGzA4fn/55fZ/SUzkuTe3VhoaEOL6MscZjmgXvl4iacYALXkc6xqKqWierK2szkstzviG2wyFziuMfXICD6SPN4BeA1KYzSOPiJrEXkNFdtvtCCenz9yzEYVZXkTTszug8EexoXg7C/O6PBHk91vXqZUBGbLmlRMOdDpy1h5cG2HxDGloQJwmkEcqBrM3NY+huNiLhB0Hih9BWsZbP9+lyVdIMIh+w2fl3ppWOY9OV3Srd34+tW4D7MNuHQX5zwY1mFnos440a5X0hVzB/WfKNUPzqaHFoLSjd/pmKal09JVin2EdPTZ42idvpv89TQ6nLD/WRz70cfQlF/VPZzaBo+8wALKd4m36RF761dc=;cV+Nf5jGCxH6aSr/EY9TxA=="
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/10/IBM-investment-semiconductors-AFP-1K-01-e1665082038425-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
+
+secured: "CAhn3aIe9Q/DeAzUDDe7ELDgs7QT02i+MAqMnaSCdr8lDHIcdYc93Ex4lovsvzN9PhcmwN/0Hdspdr/NJ+sZMWdm9LwnwJSR0azXNXGCYSmsMlWbQWGHWWz/AL94gXv/IG5R0R5kzGStM8aMjTYjcIYm4KyS0SNdTY3UjvENV6NBKNja7d755+Z08Y8EcMlyyU1I97nn0CzmSh1xbLkIbmazJkAktJn29prQcI/hqS383RZ/Mq7q0lg/rQ0qMsl00TzEuHxxtwbLS3Mrf9CevnsFzZTNXUAbesHtsoHoMuu42+tdsTzemrFCWhGlhkhjbvK6NGlVgeJLJq+0UNQDBWQDMoVVQi0F8D9pIq7BNKc=;2nEXLYmB8zHLY85e9E3JIA=="
 ---
 

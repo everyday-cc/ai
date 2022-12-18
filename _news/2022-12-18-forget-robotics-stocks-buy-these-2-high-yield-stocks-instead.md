@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-18T13:01:00Z
 originalUrl: "https://seekingalpha.com/article/4564503-forget-robotics-stocks-buy-these-2-high-yield-stocks-instead"
 webUrl: "https://seekingalpha.com/article/4564503-forget-robotics-stocks-buy-these-2-high-yield-stocks-instead"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Seeking Alpha

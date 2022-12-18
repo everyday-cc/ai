@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-18T12:10:00Z
 originalUrl: "https://www.carscoops.com/2022/12/forgot-your-keys-if-youve-remembered-your-head-genesis-facial-recognition-has-got-your-back/"
 webUrl: "https://www.carscoops.com/2022/12/forgot-your-keys-if-youve-remembered-your-head-genesis-facial-recognition-has-got-your-back/"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: Carscoops

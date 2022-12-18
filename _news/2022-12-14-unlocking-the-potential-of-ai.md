@@ -25,21 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Audi Is Using AI To Design The Wheels Of The Future"
-    excerpt: "Known as FelGAN, the AI was tasked with creating new wheels. Once complete, the AI-designed wheels were shown alongside real wheels and a “discriminator” had to decide whether"
-    publishedDateTime: 2022-12-13T21:02:00Z
-    webUrl: "https://www.carscoops.com/2022/12/audi-is-using-ai-to-design-the-wheels-of-the-future/"
-    ampWebUrl: "https://www.carscoops.com/2022/12/audi-is-using-ai-to-design-the-wheels-of-the-future/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/12/audi-is-using-ai-to-design-the-wheels-of-the-future/amp/"
+  - title: "My Coach, Artificial Intelligence"
+    excerpt: "The mobile coach is on the rise - accelerated by the Covid pandemic. AI is now omnipresent in training and health apps. And in professional sport and marketing? Is artificial intelligence increasingly playing a leading role here as well?"
+    publishedDateTime: 2022-12-15T09:45:00Z
+    webUrl: "https://www.ispo.com/en/news-markets/my-coach-artificial-intelligence"
+    ampWebUrl: "https://www.ispo.com/en/news-markets/my-coach-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://www-ispo-com.cdn.ampproject.org/c/s/www.ispo.com/en/news-markets/my-coach-artificial-intelligence?amp"
     type: article
     provider:
-      name: Carscoops
-      domain: carscoops.com
+      name: ISPO
+      domain: ispo.com
     quality: 57
     images:
-      - url: "https://i.ytimg.com/vi/A3KPN4MA5kM/hqdefault.jpg"
-        width: 480
-        height: 360
+      - url: "https://www.ispo.com/sites/default/files/styles/facebook/public/2020-12/FRE_eRGB2_Dorian000898.jpg?h=1f77ac1a&itok=wzNJOQ6O"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI safety technology aims to flip the script on driver coaching"
+    excerpt: "The survey aims to highlight the need for positive reinforcement to improve driver behavior and ultimately safety and cost savings"
+    publishedDateTime: 2022-12-15T15:57:00Z
+    webUrl: "https://www.ccjdigital.com/technology/driver-coaching-and-scorecarding/article/15304064/survey-shows-safety-finances-top-concerns-for-some-fleets"
+    type: article
+    provider:
+      name: CCJ
+      domain: ccjdigital.com
+    quality: 39
+    images:
+      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2022/12/GreenZone_Score_driver_congrats.6390e7aa90765.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 938
+        height: 879
         isCached: true
 
 secured: "N1LYri9dt1YKq3xid6Ny2H5S9zmXdE/0g5y2BNxxOhvbtiilVFsQjN2xiR7TVjWA8O/xd0OKinJAaG9wPTCMLlbdgVamhugfehxBjGcVxi9/dieyV4wnttuDMaXhluMRrV1SowQh1/v9lJW35slhTptFRGhVB2iArdaV4dYiR7OWHdFwuRP0SUArLwgeyBCKrLMgu1UEQJ4hsWZUjWVzCEchTuViJpR7dlnDBarbqMBr3M7eYXLOkZ3SqqNVagiKbFD9uyP2vfxx/F5pAn8C7vqAojZyLxNelnqmW0iVyrW2kPgf0puPqLbhN1f6sk+tZsTnO2zVlSJBJ2d0O8QUYh/qRAxUb1k4kxMFKJ4YQYg=;Ld95FW1QwqaWWByhPexuWw=="

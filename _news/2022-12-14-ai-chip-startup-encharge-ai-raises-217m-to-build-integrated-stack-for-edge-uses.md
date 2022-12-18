@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-14T15:39:00Z
 originalUrl: "https://siliconangle.com/2022/12/14/ai-chip-startup-encharge-ai-raises-21-7m-build-integrated-stack-edge-uses/"
 webUrl: "https://siliconangle.com/2022/12/14/ai-chip-startup-encharge-ai-raises-21-7m-build-integrated-stack-edge-uses/"
 type: article
-quality: 51
+quality: 53
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI in Autos
   - AI
   - AI Hardware
+  - Google AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/20191003_VermaN_DKC_900.jpg"

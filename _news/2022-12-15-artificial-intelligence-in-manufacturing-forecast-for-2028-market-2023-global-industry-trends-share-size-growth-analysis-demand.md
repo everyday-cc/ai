@@ -124,6 +124,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
+  - title: "Artificial Intelligence (AI) Consulting Market Market Size 2023 Industry Analysis, Key Players, Regional Demand, Opportunity and Forecast 2028"
+    excerpt: "Consulting Market \" Insights 2022 - By Applications (Technology Consulting, Management Consulting), By Types (, Strategy Development, Strategy Execution, Commercial Due Diligence, Customer Training, ),"
+    publishedDateTime: 2022-12-18T11:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-consulting-market-market-size-2023-industry-analysis-key-players-regional-demand-opportunity-and-forecast-2028-2022-12-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
 
 secured: "C5NIMFoUNrYynKWaNWonRzqF/BE1OvVlV7YZd7tULDMarlG6zjjWoLTgCfVWqqFbjVaIxXRJ2WbPraJcqQLkuQSt+UBi+UFc56x96vvRgdwMBloOXCc2E1D/AD05aXrtSL+d9EMoDExlqtk4yIDFauMPnBb4Rvy+8G3McQQvb4QmNqm/6Z9zV1WdAxcdD0toxlvYZsU6Vkbl7zBpbouAzzFej/Tlhr662oKR9es82rNpCDzff+smJ0nd2sIBsFvKM6jFkWn8hpdqq2JN0hzr/tEq2vnZQAGXYJhxxX2+kqkjoxXtO/N3nF7KdMYpwCrAuBu4gqfgvYUybfqOINSGpOKEMWBP+ocYLTmhPVMX28Y=;YrETSNdJ6Mep7ZNGP3VeBQ=="
 ---

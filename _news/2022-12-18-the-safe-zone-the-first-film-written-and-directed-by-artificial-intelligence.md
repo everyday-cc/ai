@@ -6,8 +6,8 @@ publishedDateTime: 2022-12-18T11:19:00Z
 originalUrl: "https://entertainment.inquirer.net/477117/the-safe-zone-the-first-film-written-and-directed-by-artificial-intelligence"
 webUrl: "https://entertainment.inquirer.net/477117/the-safe-zone-the-first-film-written-and-directed-by-artificial-intelligence"
 type: article
-quality: 33
-heat: 33
+quality: 35
+heat: 35
 published: false
 
 provider:

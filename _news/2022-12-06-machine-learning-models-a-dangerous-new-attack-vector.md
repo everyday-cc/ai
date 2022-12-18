@@ -17,7 +17,14 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
-secured: "NJ/TSdAex8O0DwCH7G4dRbvBSSSnanQIsmcxFpOxF/ElnKmJ888kfT4wfsxtuOTwnLK3PyE0aD1B7qkg0++XuDO5cX9OO54klXPkvK6O4HrVpz7RoqOvay8kb38zcHeWFNAnVD4xHCbk1CDYn8Ng09MzGrbUvjGEDBMxUW7lMSwfBbC0g+Lg6LIPjWancH2ThgesrN1cha1JtewUXxxlu/AzLP1ZJRiLbO4/bvLB1D85QoXXR8pdFbe4Ju8PC1P8BZdoo1aT/0MntrWqrIgrM0YoI6R9Dxc+EGJwZBzblOHIos3iXN86D1VZGvcK5feK5a7l107EH/Cf8Fm2KQK/l2L8Fyd0T6eZXB5w4VTPDDjUY8ybheNGwJz3UI1CXcF3czCuU4D6AU7ukaP1j3aoc/Zklgvsz+n9iDUkUVYFPiFcKAVd4tFQIJUOjTievuiUOSLO2JPJQ2l6OLE2OKI6ANeYRb+qhXBtDvhXP9YrkPFBr/sbSupTHNYc0ItviSjl41ixr2H1udmx5aVoK8Twcg==;WIteHw4N5OGoHyb/e8neRw=="
+images:
+  - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt241f75b5025a89ea/62e7e3b2e49d4a6983cc3d16/Cyberattack3_Skorzewiak_Alamy.jpg"
+    width: 1200
+    height: 632
+    isCached: true
+
+secured: "+eA0Kfb74tNpm1P4lVx3yFI2oGonn+selzGipNNMFUMEUMXXPDmFLDfOwBl1S/QvBu73uKv591KH/hF3EW/YUxiLQscfoEyY4zZcPbV7igbXKCy4CE1QtnilJB6sTqHCwHGvWVXJhKRgrn5RF1/sx0nUtOLvtOffH9Gpkm+KKn4mAYb15fj/3egwDIXq1U76W/NsRMtKR+dTbaicK5Qb1J92Y+ko1NCDIIWVS72JIPqggDeD5/9T0Q45F8QJTXxmQURzvH3+XAq6pu2wYzNsNmfxFFVvBxDV+esrRbe1pmm4J1GVBqXXMjuCr3QF2dT9WRA4eQhqFhKfDl+PU3sNSalr30KhOMmrW0iIBjT9bEw=;NPgRKtgFT7+Y96jrF6Nuyg=="
 ---
 

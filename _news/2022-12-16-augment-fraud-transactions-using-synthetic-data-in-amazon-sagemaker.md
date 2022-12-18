@@ -71,20 +71,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Introducing Amazon SageMaker Data Wrangler’s new embedded visualizations"
-    excerpt: "Manually inspecting data quality and cleaning data is a painful and time-consuming process that can take a huge chunk of a&nbsp;data scientist’s time on a project.&nbsp;According to a 2020 survey of data scientists conducted by Anaconda, data scientists spend approximately 66% of their time on data preparation"
-    publishedDateTime: 2022-12-13T21:17:31Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-data-wranglers-new-embedded-visualizations/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 88
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/13/sagemaker-data-wrangler-embedded-visualizations.jpg"
-        width: 1564
-        height: 780
-        isCached: true
   - title: "Planet Makes Its Geospatial Data Available Through Amazon SageMaker"
     excerpt: "Planet operates the largest constellation of earth observation satellites in the world, with the capacity to provide daily medium- and high-resolution imagery of Earth's landmass every day. Planet is using AWS to better serve its customers who can now benefit from the simplicity and speed of Amazon SageMaker's new geospatial ML capabilities to build,"
     publishedDateTime: 2022-12-14T14:41:00Z

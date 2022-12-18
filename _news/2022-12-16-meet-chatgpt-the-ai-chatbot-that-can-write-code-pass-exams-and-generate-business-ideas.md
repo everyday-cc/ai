@@ -83,22 +83,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "ChatGPT has mastered the confidence trick, and that's a terrible look for AI"
-    excerpt: "ChatGPT appears disarmingly frank about its flaws if you ask it outright. Say you're a lazy journalist who asks it to \"produce a column about ChatGPT's mistakes when writing code.\" \"As a large language model trained by OpenAI,"
-    publishedDateTime: 2022-12-14T00:50:00Z
-    webUrl: "https://www.theregister.com/2022/12/12/chatgpt_has_mastered_the_confidence/?td=rt-9cs"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/12/12/chatgpt_has_mastered_the_confidence/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/12/12/chatgpt_has_mastered_the_confidence/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 56
-    images:
-      - url: "https://regmedia.co.uk/2022/12/09/shutterstock_ai_typing.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "All you need to know about ChatGPT, a prototype Artificial Intelligence chatbot"
     excerpt: "ChatGPT is becoming your friend and guide on the Internet, giving advice and information almost like a human being. But can it be trusted?"
     publishedDateTime: 2022-12-18T03:56:00Z
@@ -168,6 +152,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Enraged Worries That Generative AI ChatGPT Spurs Students To Vastly Cheat When Writing Essays, Spawns Spellbound Attention For AI Ethics And AI Law"
+    excerpt: "Generative AI such as the ChatGPT app has gotten a huge backlash that students will readily now be able to cheat when writing essays and that we are doomed accordingly. We take a close look, considering both AI Ethics and AI Law considerations on this weighty concern."
+    publishedDateTime: 2022-12-18T11:59:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/12/18/enraged-worries-that-generative-ai-chatgpt-spurs-students-to-vastly-cheat-when-writing-essays-spawns-spellbound-attention-for-ai-ethics-and-ai-law/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 26
   - title: "ChatGPT Is a Tipping Point for AI"
     excerpt: "With ChatGPT and other AI models that can communicate in plain English, write and revise text, and write code, the technology is suddenly becoming more useful to a broader population of people. This has huge implications."
     publishedDateTime: 2022-12-14T13:05:00Z

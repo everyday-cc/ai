@@ -5,6 +5,8 @@ excerpt: "Google is now trying to change that paradigm for its Google Sheets onl
 publishedDateTime: 2022-12-08T13:39:00Z
 originalUrl: "https://enterprisetalk.com/quick-bytes/google-introduces-simple-ml-for-sheets-to-bring-machine-learning-to-online-spreadsheets/"
 webUrl: "https://enterprisetalk.com/quick-bytes/google-introduces-simple-ml-for-sheets-to-bring-machine-learning-to-online-spreadsheets/"
+ampWebUrl: "https://enterprisetalk.com/quick-bytes/google-introduces-simple-ml-for-sheets-to-bring-machine-learning-to-online-spreadsheets/amp/"
+cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/google-introduces-simple-ml-for-sheets-to-bring-machine-learning-to-online-spreadsheets/amp/"
 type: article
 quality: 26
 heat: -1
@@ -17,6 +19,13 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
+
+images:
+  - url: "https://enterprisetalk.com/wp-content/uploads/2022/12/Google-Introduces-Simple-ML-for-Sheets-to-bring-machine-learning-to-online-spreadsheets.jpg"
+    width: 1500
+    height: 844
+    isCached: true
 
 related:
   - title: "Google brings no-code machine learning to Sheets with SimpleML"

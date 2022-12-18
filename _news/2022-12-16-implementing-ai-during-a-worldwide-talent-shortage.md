@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/implementing-ai-during-a-worldwide-talent-sh
 ampWebUrl: "https://venturebeat.com/ai/implementing-ai-during-a-worldwide-talent-shortage/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/implementing-ai-during-a-worldwide-talent-shortage/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1313178434.jpg?w=1200&strip=all"
