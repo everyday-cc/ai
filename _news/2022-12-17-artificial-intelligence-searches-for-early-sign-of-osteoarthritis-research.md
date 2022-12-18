@@ -1,64 +1,20 @@
 ---
 category: news
 title: "Artificial Intelligence searches for early sign of osteoarthritis: Research"
-excerpt: "In practice, the AI tries to detect whether there is spiking on the tibial tubercles in the knee joint or not. Tibial spiking can be a sign of osteoarthritis."
-publishedDateTime: 2022-12-17T10:29:00Z
-originalUrl: "https://telanganatoday.com/artificial-intelligence-searches-for-early-sign-of-osteoarthritis-research"
-webUrl: "https://telanganatoday.com/artificial-intelligence-searches-for-early-sign-of-osteoarthritis-research"
+excerpt: "Researchers from the University of Jyvaskyla and the Central Finland Health Care District have developed an AI based neural network to detect an early knee oste"
+publishedDateTime: 2022-12-17T11:02:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/273223818/artificial-intelligence-searches-for-early-sign-of-osteoarthritis-research"
+webUrl: "https://www.bignewsnetwork.com/news/273223818/artificial-intelligence-searches-for-early-sign-of-osteoarthritis-research"
 type: article
-quality: 39
-heat: -1
-published: false
 
 provider:
-  name: Telangana Today
-  domain: telanganatoday.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
-  - AI in Healthcare
-  - AI
   - Machine Learning
+  - AI
 
-images:
-  - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/12/Artificial-Intelligence.jpg"
-    width: 1280
-    height: 750
-    isCached: true
-
-related:
-  - title: "Artificial Intelligence searches an early sign of osteoarthritis from an x-ray image"
-    excerpt: "Researchers have developed an AI based neural network to detect an early knee osteoarthritis from x-ray images. AI was able to match a doctors' diagnosis in 87% of cases. The result is important because x-rays are the primary diagnostic method for early knee osteoarthritis."
-    publishedDateTime: 2022-12-16T21:15:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/12/221215161557.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 44
-  - title: "Artificial Intelligence searches for early sign of osteoarthritis: Research"
-    excerpt: "Researchers from the University of Jyvaskyla and the Central Finland Health Care District have developed an AI based neural network to detect an early knee osteoarthritis from x-ray images. AI was able to match a doctors' diagnosis in 87 per cent of cases."
-    publishedDateTime: 2022-12-17T22:31:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Health/20221217/4015893.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 17
-  - title: "Artificial intelligence searches an early sign of osteoarthritis from an X-ray image – might save from unnecessary treatments and examination"
-    excerpt: "Researchers from the University of Jyväskylä and the Central Finland Health Care District have developed an AI based neural network to detect an early knee osteoarthritis from x-ray images."
-    publishedDateTime: 2022-12-16T17:18:00Z
-    webUrl: "https://www.news-medical.net/news/20221216/Artificial-intelligence-searches-an-early-sign-of-osteoarthritis-from-an-X-ray-image-e28093-might-save-from-unnecessary-treatments-and-examination.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 6
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-
-secured: "QDZQd3Xv2Eldz8GJdNILQnnIGelG7ZB1Ic1N+qrHG2M1ptFJ4H4s5JgN/2PkkOTVthpOOBMvHT1sKitp+giP+tvyCP+JlTFkCF/tySjaTHOXuA2U58auvGYtreTPJUzWzqurdC5wrXS6xz/8uBnMxvxEVO3DCX+oi7K4mGzVomZZ7cK5atzqbdPol4Tv757zbejAJcuIHC+ahgDhPmw6wPBh+FnEdn+JDn4fjDRJc2VCkd/313sh87gCUmEJtSdHl4WXm1xQyoV/Yibh6gTklXCOShckkyGi47N7wg50AEr3FplCJJFoMdzUJmqRG1O1hpAjVReCQykqatDvP971j2oIuS+XcXGm0EGc2zRFpPMLm9Y+CYZv7JxBCLMBPYaTSnMrwKTN79MqnMkmFN4bUuH9PxnN3C4BVUQZWIkkj53xqdvYcjOtUMnnJGiGI7VzCB19HL9I8kFmqlIBoi5hIXRLmrYkeENhM6rRFJvNd326duG63P3FMAPgV5p85VVHaUYZe42OlKLCDjzbrVs0kw==;Vgv8oAYLNnnV7toYp/61ZA=="
+secured: "5wOMuuhoRyn1mdk9HLJAn5mOdXEJ00krIy8J9q6wkgtlilNvzfSrvmlbcGOXMbuytJiZcjGQI/BmBXGuUMnb+eYbVpSgCrZ1zcsXBI86S1+lwRWyWw1NAqwZKQgTi/ES4dRJ5Alht1duQGaEDGmKPf7G8Z1AAKrgxnd1qAnQR05MHXbncivyLjCbTafKMw5UVHUfIhv/kqyYLGF+GE7M7LLcx84vawdJzuvVSe6F/6ozLDP8q22J/rEWKCtWBDXI31taknQZQ/CRzU0rn6OaLmPpPnZIfXM0bHLLrbYMjOCSQeYaOMIg65eGqYQPo5zsYwTk09JWIN6fHWTkhNG2ObiDzN40GlGiaZOUgOdHOaKCurYlBLYmbyYKMnIiRcnvc7lXv7HnGYG/axV3SMFnTIO/oU7MIKZwVKCQU8Vo79AtLv2xN0PAAr2ljhPKXt/HseAff6pk+nFSmYxiVIqD5iJQN/A7uTETOLutPc1D23PVs3O12+ExkJI9jblgxCeEOygbIXui4Ut8ZIhRI/PigA==;c9SZYf6YaSffATaS8emjBQ=="
 ---
 

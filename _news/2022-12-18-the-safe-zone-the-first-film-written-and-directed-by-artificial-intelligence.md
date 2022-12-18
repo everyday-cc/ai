@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://entertainment.inquirer.net/files/2022/12/Screen-Shot-2022-12-18-at-7.06.52-PM-620x260.png"
@@ -23,6 +24,6 @@ images:
     height: 260
     isCached: true
 
-secured: "sTg/V7yTsuAkRiOhikL8yzCtspBPhic8LTnDcbzT/25R6H3SdEEJmORtgzWsOWL4shG6TCQaTOTWqXB/cdzS4b72F3SexMX6u5U//JzEK9AAvTXgg4+L1AZ5Kmygk5Nt04fSL/SieaUgEiGcJCBzDMa6w8NlfFFIcgYX9bz+ngRHPdkaAATHOsfW23PsLdRvFa4KP4t+WgQxLqFYh8O4Anii/P8vSYRiZpsBnuV2268UGMD7g6p3vBhH3daeZ1WUaQVw4wxuYd3GQVo0oSqPWIfCSR96pApq3f5zSyStRaf87X7HYjzZIiuzGUrURjr6z0tGVcgFO6C3Cyo6otGgJgni4xz+jthrCP5iDgYXyrg=;HvPrlRKWBBc7geBjq+EoIg=="
+secured: "EVCP1mvH3acG1UFfco3c4aq1k4o3Vm2YqUaLl93d6Kb95tzbWK1DCuyT6MtH5n3BEEUr0vkscnw7BZ3iHVQSpYmxQoF6ze63jZ2+OuZBrgDtz95DE5Mqq4WCEiQ5ZgfnaAhCDBo0ReBmuxoqLw38s15uDL7K8r0k7zO3H40gSk9QSTdggD2bj//xyR3cViLkmn72FUh8i0kPWzMQLjf5kpB55zI++DDN2e039mCx4mnndjjslKS6zndkM5Y9vZ05+DOWIjZfclPhUMOQRE23vRIoxxxOWBGxdg7ApwYH8vDa7RWqd/GLBisrZrIFmDLSUDuezzYyjG9rvFf2ZqYwSE3vtXA9GT0tzlYvYza7+rXjFbeY9hP7ZaCzCXY6CARaincDRhBWqX0OP+aNhaP+VNHnYXGMcH0pz/ip+aC0gzBJBA+zLY4Hehri5MAT9hrnaaeuV+jMRXvC/xeTfs7L4Gl13Czc19UXexNuYsKniptPowtQT/aBcra1Q5XeSQXP4dddgwDSO3V0XElpMjVQgA==;y/J+7mOOW4qjbUUgzPnaIQ=="
 ---
 
