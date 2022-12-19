@@ -8,9 +8,9 @@ webUrl: "https://singularityhub.com/2022/12/18/ai-timelines-what-do-experts-in-a
 ampWebUrl: "https://singularityhub.com/2022/12/18/ai-timelines-what-do-experts-in-artificial-intelligence-expect-for-the-future/?amp=1"
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/12/18/ai-timelines-what-do-experts-in-artificial-intelligence-expect-for-the-future/?amp=1"
 type: article
-quality: 68
-heat: 68
-published: false
+quality: 70
+heat: 70
+published: true
 
 provider:
   name: Singularity Hub
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://singularityhub.com/wp-content/uploads/2022/12/deepmind-unsplash-ai.jpeg"

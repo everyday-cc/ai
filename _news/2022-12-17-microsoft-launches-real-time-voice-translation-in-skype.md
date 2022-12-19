@@ -58,6 +58,20 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Microsoft CTO Kevin Scott on 5 Ways Generative AI Will Transform Work in 2023"
+    excerpt: "From helping write code to conjuring images seemingly out of the air, this new form of computing will change the nature of creativity and productivity"
+    publishedDateTime: 2022-12-19T18:35:00Z
+    webUrl: "https://www.microsoft.com/en-us/worklab/kevin-scott-on-5-ways-generative-ai-will-transform-work-in-2023"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 53
+    images:
+      - url: "https://images.ctfassets.net/y8fb0rhks3b3/5mzmBPIGHbx1UoaiG6Nlu1/95405aae00953b3407b39047c28309de/MSFT_workLab_agile_KevinScott_article_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft launches real-time voice translation in Skype"
     excerpt: "The new translation feature uses AI to automatically detect the languages being spoken during a video call and translate them in real time."
     publishedDateTime: 2022-12-16T07:11:00Z

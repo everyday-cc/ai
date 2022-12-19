@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Google To Translate Doctor’s Handwritten Prescriptions Soon | Check Details Here"
+    excerpt: "The AI tool will be created in Google Lens that can decode badly written medical notes. The company showcased the feature during its 'AI for India' event."
+    publishedDateTime: 2022-12-19T16:41:00Z
+    webUrl: "https://www.india.com/technology/google-to-translate-doctors-handwritten-prescriptions-soon-check-details-here-5812403/"
+    ampWebUrl: "https://www.india.com/technology/google-to-translate-doctors-handwritten-prescriptions-soon-check-details-here-5812403/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/google-to-translate-doctors-handwritten-prescriptions-soon-check-details-here-5812403/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 69
+    images:
+      - url: "https://static.india.com/wp-content/uploads/2022/12/google-search-2022-list.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Google Will Soon Help Translate Doctor's Handwritten Prescription"
     excerpt: "Google on Monday announced an artificial intelligence (AI) and machine learning (ML) model that can identify and highligh"
     publishedDateTime: 2022-12-19T13:11:00Z

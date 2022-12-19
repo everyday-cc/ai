@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Create Amazon SageMaker models using the PyTorch Model Zoo"
+    excerpt: "Deploying high-quality, trained machine learning (ML) models to perform either batch or real-time inference is a critical piece of bringing value to customers. However, the ML experimentation process can be tedious—there are a lot of approaches requiring a significant amount of time to implement. That’s"
+    publishedDateTime: 2022-12-19T17:46:23Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-amazon-sagemaker-models-using-the-pytorch-model-zoo/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 106
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/19/sagemaker-models-pytorch-model-zoo.jpg"
+        width: 2000
+        height: 1001
+        isCached: true
   - title: "LightOn Lyra-fr model is now available on Amazon SageMaker"
     excerpt: "We are thrilled to announce the availability of the LightOn Lyra-fr foundation model for customers using Amazon SageMaker. LightOn is a leader in building foundation models specializing in European languages. Lyra-fr is a state-of-the-art French language model that can be used to build conversational"
     publishedDateTime: 2022-12-15T17:45:28Z

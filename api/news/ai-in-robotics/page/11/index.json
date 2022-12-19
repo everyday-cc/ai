@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-09-26-industrial-uav-startup-aiseed-offers-aidrone-to-tackle-toughest-challenges.md",
+      "title": "Industrial UAV startup AiSeed offers AI+Drone to tackle toughest challenges",
+      "excerpt": "robotics, and AI backgrounds. Most of them have worked in the U.S. for many years after getting their master's degrees from American universities or were born or raised in the U.S. Why set up the startup in Taiwan? \"Taiwan has a very well-developed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20220925VL202.html",
+      "originalUrl": "https://www.digitimes.com/news/a20220925VL202.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20220925vl202_files/1_2b.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-26T00:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-26-robots-and-artificial-intelligence.md",
       "title": "Robots and Artificial Intelligence",
       "excerpt": "Why DoD’s New Approach to Data and Artificial Intelligence Should Enhance National Defense The DoD’s updated efforts on artificial intelligence (AI) are requiring some disruptive ...",
@@ -1344,40 +1387,6 @@
         "AI in Robotics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-these-tiny-robots-are-faster-than-a-bugatti-chiron.md",
-      "title": "These Tiny Robots Are Faster Than a Bugatti Chiron",
-      "excerpt": "There have been some fascinating developments in the world of tiny robots recently. We’ve already had the world’s smallest remote control robot, and now a group of scientists has created one ...",
-      "sourceUrl": null,
-      "webUrl": "https://jalopnik.com/these-tiny-robots-are-faster-than-a-bugatti-chiron-1849539483",
-      "originalUrl": "https://jalopnik.com/these-tiny-robots-are-faster-than-a-bugatti-chiron-1849539483",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://jalopnik.com/these-tiny-robots-are-faster-than-a-bugatti-chiron-1849539483/amp",
-      "cdnAmpWebUrl": "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/these-tiny-robots-are-faster-than-a-bugatti-chiron-1849539483/amp",
-      "publishedDateTime": "2022-09-15T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jalopnik",
-        "domain": "jalopnik.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

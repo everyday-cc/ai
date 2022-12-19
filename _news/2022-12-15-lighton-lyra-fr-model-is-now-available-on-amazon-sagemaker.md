@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/lighton-lyra-fr-mode
 webUrl: "https://aws.amazon.com/blogs/machine-learning/lighton-lyra-fr-model-is-now-available-on-amazon-sagemaker/"
 type: article
 quality: 104
-heat: 134
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Create Amazon SageMaker models using the PyTorch Model Zoo"
+    excerpt: "Deploying high-quality, trained machine learning (ML) models to perform either batch or real-time inference is a critical piece of bringing value to customers. However, the ML experimentation process can be tedious—there are a lot of approaches requiring a significant amount of time to implement. That’s"
+    publishedDateTime: 2022-12-19T17:46:23Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-amazon-sagemaker-models-using-the-pytorch-model-zoo/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 106
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/19/sagemaker-models-pytorch-model-zoo.jpg"
+        width: 2000
+        height: 1001
+        isCached: true
   - title: "Best practices for Amazon SageMaker Training Managed Warm Pools"
     excerpt: "Amazon SageMaker Training Managed Warm Pools gives you the flexibility to opt in to reuse and hold on to the underlying infrastructure for a user-defined period of time. This is done while also maintaining the benefit of passing the undifferentiated heavy lifting of managing compute instances in to Amazon"
     publishedDateTime: 2022-12-16T18:30:04Z

@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Engineers help artificial intelligence to learn more safely in the real world"
+    excerpt: "Penn State researchers are looking for a safer and more efficient way to use machine learning in the real world. Using a simulated high-rise office building, they developed and tested a new reinforcement learning algorithm aimed at improving energy consumption and occupant comfort in a real-world setting."
+    publishedDateTime: 2022-12-19T18:35:00Z
+    webUrl: "https://techxplore.com/news/2022-12-artificial-intelligence-safely-real-world.html"
+    ampWebUrl: "https://techxplore.com/news/2022-12-artificial-intelligence-safely-real-world.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-artificial-intelligence-safely-real-world.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 56
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/ai-building.jpg"
+        width: 1176
+        height: 1920
+        isCached: true
 
 secured: "5E0vxe5SBak5Oqqj+M2bdndjZBR4PnZbnDo/Ntv06u2iGdF8U1Tb/TYCZwwI6pIhlXKlxStYt1gnasnjo5x3tT+x59cGVMIFQ0+vspR2xBrv+XFLCoZMVJas52sLhrVHAL45GHWF1lnD+sf5EnzfV7zMEN/KLSL7NxQurOM+sQiDHqQaT/ABPAn4OLaYnDLawljdTAGQyQY6jHNELx2hOj27kGpIgou32/kOTgMEJ8Pn+nNVtXFx5tn+fqUIPHOpqhS9TXGHHGKInATM1Kv0pf1beFKizKaNSSOn5r3dm1svgdjkHbAE7xd5ZyWcXd/U/C2yYr+goiLz8P2dbNSFzIG9OSo9xHtKsHInYozzfxTzUobWDO5jg/X9iil6yQyVItQViqjoTR0f5OphmpvUrdDGdEC3tqCov7zG37FRI8JVW91GMsUFLZqy7mGOFiVdhEdEvm/RE6TQW9/01YSUBJA8+Jfwyxgd8+31cXCtt0OIbI6K+UFIwfXJWQfP3OCLuPunyBRn+7stTnbKr5elEg==;G3vGAEcEQ84xkTm5VGQF+w=="
 ---

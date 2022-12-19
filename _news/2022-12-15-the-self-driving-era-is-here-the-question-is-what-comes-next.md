@@ -1,42 +1,29 @@
 ---
 category: news
 title: "The self-driving era is here, the question is what comes next"
-excerpt: "TORONTO - The self-driving era is here, just not the one that was promised. Instead of sleek pods without steering wheels ready to chauffeur buyers off the lot, there are mostly driverless Chevy compacts,"
-publishedDateTime: 2022-12-15T09:05:00Z
-originalUrl: "https://www.thestar.com/business/2022/12/15/the-self-driving-era-is-here-the-question-is-what-comes-next.html"
-webUrl: "https://www.thestar.com/business/2022/12/15/the-self-driving-era-is-here-the-question-is-what-comes-next.html"
-ampWebUrl: "https://www.thestar.com/amp/business/2022/12/15/the-self-driving-era-is-here-the-question-is-what-comes-next.html"
-cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/2022/12/15/the-self-driving-era-is-here-the-question-is-what-comes-next.html"
+excerpt: "The self-driving era is here, just not the one that was promised. Instead of sleek pods without steering wheels ready to chauffeur buyers off the lot, there are mostly driverless Chevy compacts, Chrysler minivans,"
+publishedDateTime: 2022-12-15T14:23:00Z
+originalUrl: "https://www.canadianunderwriter.ca/insurance/the-self-driving-era-is-here-the-question-is-what-comes-next-1004229083/"
+webUrl: "https://www.canadianunderwriter.ca/insurance/the-self-driving-era-is-here-the-question-is-what-comes-next-1004229083/"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Toronto Star
-  domain: thestar.com
+  name: Canadian Underwriter
+  domain: canadianunderwriter.ca
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.thestar.com/content/dam/thestar/business/2022/12/17/grocery-shoplifting-on-the-rise-in-canada-amid-inflation-industry-insiders-say/20221216191224-639d0c6256ac9025d918232bjpeg.jpg.size.custom.crop.640x360.jpg"
-    width: 640
-    height: 360
+  - url: "https://media.canadianunderwriter.ca/uploads/2022/12/autonomous-delivery-robot-driverless-on-street-smart-vehicle-technology-concept-3d-render.jpg-s1024x1024wisk20cmMRGsXAoI1Ywu2RTp93k4lQnAj2JoUta6m1uy_Erskc.jpg"
+    width: 800
+    height: 600
     isCached: true
 
-related:
-  - title: "The self driving era is here, just not for the masses"
-    excerpt: "Instead of sleek pods without steering wheels ready to chauffeur buyers off the lot, there are mostly driverless Chevy compacts, Chrysler minivans, and Ford box trucks with bolted-on hardware trundling around bits of the U."
-    publishedDateTime: 2022-12-15T12:42:00Z
-    webUrl: "https://canada.autonews.com/technology/self-driving-era-here-just-not-masses"
-    type: article
-    provider:
-      name: canada.autonews
-      domain: autonews.com
-    quality: 19
-
-secured: "aiO6wLaSua83AHM1OS2H3/xPZzXHTor/RVehUwYRwH5UtYS2s4DKyOje8HjGghATvYti2OlDf3cLqE1SEyiw2v3KyBMuVvoHOjMN9kuHvu0Yx5s3+53c0d1ahn84BZTeo50DJu2I50ABpkvO3Ol+Q8dm8HBTACmTKGDbnp1yMp0FpyrM8lHA/o3Mvh9JoKxP4zNbETslrLMT+t1asQWIltK1dFX5Q+44uPOg3g0gv0EnIsRUKhzT+2jb0pWkjH5+bHP6oCn+uyN2Mp0o4288Jez+RBh4uTliSX4wpd8D5jkTBRF00Hp8yC4qgMrvWbmF0WWdtI2WWkQvIaaOLa6LA5C+qC65YMqWRd8dAEyMUBg=;7Ep6H2x9G27iJmYjTL1ECA=="
+secured: "C2WHD/dNyWqYceQ3dKlBUVkLZGy+k5VRIoWht1e3ZhMVZw4w63svC+nTXMzRHrjCmoWRJ8gK3EDJlcFNUx0yfK7Zb4qd3Kqxoey2yvDkie2cm8uQFTjDmanR/oxcX46kZijhGEuMU3HOMXU+x+fJ9AuVXlojJ5dvhg1//0LOq7jS6Gs+SI2YSy6JEZT3W6Dt7P7jr4B4hukDabULTJA/kwK6FDOegYZG9cE5ARPh03O5FZ4WWT6OAzLFCg8ftM/shSH1QQTZRysrWlMax3RC6zhxytL9QwIJp8K1LcgR0M4OkragD4wFLtghZt3NufQ0E6ZPX4rixlvp87Rk/KtWPQsp6CZ2xwW0/Qb5OGMSs/U=;PcZbEpkS8MwdbwypWOGXvg=="
 ---
 

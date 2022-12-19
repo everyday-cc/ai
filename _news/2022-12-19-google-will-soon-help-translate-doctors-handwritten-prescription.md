@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1105327280/Google-Will-Soon-Help-Translate-Doct
 webUrl: "https://menafn.com/1105327280/Google-Will-Soon-Help-Translate-Doctors-Handwritten-Prescription"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Google To Translate Doctor’s Handwritten Prescriptions Soon | Check Details Here"
+    excerpt: "The AI tool will be created in Google Lens that can decode badly written medical notes. The company showcased the feature during its 'AI for India' event."
+    publishedDateTime: 2022-12-19T16:41:00Z
+    webUrl: "https://www.india.com/technology/google-to-translate-doctors-handwritten-prescriptions-soon-check-details-here-5812403/"
+    ampWebUrl: "https://www.india.com/technology/google-to-translate-doctors-handwritten-prescriptions-soon-check-details-here-5812403/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/google-to-translate-doctors-handwritten-prescriptions-soon-check-details-here-5812403/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 69
+    images:
+      - url: "https://static.india.com/wp-content/uploads/2022/12/google-search-2022-list.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Google will translate doctor's handwritten prescriptions soon: Know more"
     excerpt: "Google to decode doctor's handwriting with a new AI software the tech giant is working on. The assistive technology for digitising handwritten medical documents will help the humans in the loop like pharmacists,"
     publishedDateTime: 2022-12-19T13:09:00Z

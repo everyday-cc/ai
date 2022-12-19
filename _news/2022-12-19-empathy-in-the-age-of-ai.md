@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/artificial-intelligence-animals-anthropo
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-animals-anthropomorphism/amp"
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -80,7 +80,23 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Engineers help artificial intelligence to learn more safely in the real world"
+    excerpt: "Penn State researchers are looking for a safer and more efficient way to use machine learning in the real world. Using a simulated high-rise office building, they developed and tested a new reinforcement learning algorithm aimed at improving energy consumption and occupant comfort in a real-world setting."
+    publishedDateTime: 2022-12-19T18:35:00Z
+    webUrl: "https://techxplore.com/news/2022-12-artificial-intelligence-safely-real-world.html"
+    ampWebUrl: "https://techxplore.com/news/2022-12-artificial-intelligence-safely-real-world.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-artificial-intelligence-safely-real-world.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 56
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/ai-building.jpg"
+        width: 1176
+        height: 1920
+        isCached: true
 
-secured: "U2q5vzWsg5lbUsbHF12jwPoQCsE2XZ8txnUUoHf9LDKdE/asV0aBCnP5CLSK1CIa6UHANfwnvBVRnvVbf2aZTmMf3h9tFlxThwKI9lr1/CxpISoHi1b8yGjENOd4dWerygbTa1xRJARGntTCW1hEl/J9hWw4t6enStqm3avOdApRei+/YdaF7Ui9rpqxumBpmS3JAB8eKZgCuazwkugNqUrDDJoo4pUBt0okBN1PU57AsT5maRNDPYtLEqPY6PuliCoyLUzZNvyxtT5iUlaTRdQ20r8PNdTqewAS6pguUdD7lkHPY8LQdqkohwMSJwdPnSHw5sFBPU16+8fg+53v5zU/W6XOTHucsD1CT91fS9k=;xOkw7DaRTwmtgjFDboJKpA=="
+secured: "+dqeGlKcIPzyPlD8/DB7TR8p/I3HmRQmcWS/ieBU9QJimPA/Fybh4E61ODvF4Kg+S0DWjt+/bM0WgEZByPXjLzyiYG1t5vtUtU7uM3fWHIAZg0YjlwAD/kqfZsya4U4wksLLBil0R+8DMzP69X8vS3FBnrPLfyUVMAJsyigB5NmmtHZVuSauv+il75jNkcZ4EsttRUsLQPntOGVhKHzh62tuTZP8K8J2IbngG4JvEV9YWtpqGqKLm1WTBuAlhoOcQZudY8HIe9MdnoQhd+mFoB+Nvaj2x6LrjHEGqZ4/cF0DtAN2pkPHDBnpkyLm3bQVAS4Slx48iZ4/Tgjl36G9emL6acUMEHq6sFNqX2jjjVhbzut1wpVpDCegV4v6lZSRIfFvdQeUVIS6Ix5ehe5r4sJaUfTPQNFEVC0g3uSKdPS1g7FnU3Oc3Gv5lRc1XCIusbEGAF2DT1um5VfMZxBR44/mFOPUyyRy2jObW3ZrBVN6pLhVzQH2wbSV+78RPUnsWEdgaGVVMgJOxcsqgqyKag==;UMSq3kHtFFGXqCzpzzraVg=="
 ---
 
