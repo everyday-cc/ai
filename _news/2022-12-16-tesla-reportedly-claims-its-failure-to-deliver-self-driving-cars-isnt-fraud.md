@@ -9,7 +9,7 @@ ampWebUrl: "https://fox8.com/automotive/internet-brands/tesla-reportedly-claims-
 cdnAmpWebUrl: "https://fox8-com.cdn.ampproject.org/c/s/fox8.com/automotive/internet-brands/tesla-reportedly-claims-its-failure-to-deliver-self-driving-cars-isnt-fraud/amp/"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://www.irishtimes.com/resizer/KnnC2TOKqPqug3fVNH03vsgyIC8=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/BOLIQOWKUUHMS23MUEJPV6KQCE.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Judge Orders Tesla To Upgrade Customer's Self-Driving Computer For Free On His Model 3"
-    excerpt: "A US judge has ordered Tesla to perform a free upgrade of the self-driving computer in a customer's Model 3 in order to allow him to have Full-Self Driving without having to pay extra. According to Electrek,"
-    publishedDateTime: 2022-12-14T15:05:00Z
-    webUrl: "https://carbuzz.com/news/judge-orders-tesla-to-upgrade-customers-self-driving-computer-for-free-on-his-model-3"
-    type: article
-    provider:
-      name: https//carbuzz
-      domain: carbuzz.com
-    quality: 31
-    images:
-      - url: "http://cdn.carbuzz.com/gallery-images/900x600/1078000/300/1078361.jpg"
-        width: 900
-        height: 600
         isCached: true
 
 secured: "KhNVqP83pwaj9s7TJ3BVvpQkkdq0W6OX7IMV9OhpsLNIs/7EAP0Zpok1C2UXuMI1gGQVA4ja77VgHGjBAm5d5nanqHhbFGe1PVYow6af1rBVS9se1Fb6LDt10Q/0vUB/571zb+LmQpHZt5VHevXlytERUowGp1YVI0VH08yZBDFkoRTuVKmeBT7aymdffBlSRvBSRK0F8YefAo4gYGPx4uLpPEiAzMzaAfMcI2hAjlWEurbqYz7Cxk2pjDJUf0ZYLETX5H/pAAF3ZfgZdzwPOp1wERnB9M1lnuXwuYHnwlfVp2JUjvKPR+XDv1Ki3zUg+A5mdhnW6wdxGHPqUbAwEXaXz4Wf3diHQbmmT9Ad2E8M9VO303vB7J7w8rhb2L0jzzeGgiRO+q5uiKzUbcVmZJd9krswa0pwNUkaTiX+i8uy/SldWe8kgENLQl0DvtwC+A5o2R666b8y3bxSc46tmDdajXykf9jlvF3sCNBpZ61LlPgc57JC4HkDDCab/RvJGh5HSuNlzFD/242tSpQ0OA==;jHObSv+kToSh8jKAOIFw4g=="

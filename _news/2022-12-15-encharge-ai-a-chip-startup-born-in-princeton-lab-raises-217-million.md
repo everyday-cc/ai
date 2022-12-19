@@ -35,20 +35,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "AI chip startup EnCharge AI raises $21.7M to build integrated stack for edge uses"
-    excerpt: "The list of startups building hardware to process artificial intelligence applications just grew longer with the addition of EnCharge AI Inc. Today the company announced a $21.7 million Series A funding round to support the development of a semiconductor hardware and software stack it claims can deliver 15 times the performance of competitors in low-power environments."
-    publishedDateTime: 2022-12-14T15:39:00Z
-    webUrl: "https://siliconangle.com/2022/12/14/ai-chip-startup-encharge-ai-raises-21-7m-build-integrated-stack-edge-uses/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 53
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/20191003_VermaN_DKC_900.jpg"
-        width: 750
-        height: 422
-        isCached: true
   - title: "EnCharge AI Launches With $21.7M Series A to Enable Edge AI at Scale"
     excerpt: "EnCharge AI, the company building advanced computers for AI at the Edge, today announced it has raised $21.7M in Series A financing, led by Anzu Partners with participation from AlleyCorp, Scout Ventures,"
     publishedDateTime: 2022-12-14T17:15:00Z

@@ -45,12 +45,12 @@ related:
         isCached: true
   - title: "TSA trying out facial recognition system at several new airports"
     excerpt: "It is the new technology facing travelers as they fly for the holidays. RELATED: How does facial recognition technology work? The Transportation Security Administration is now scanning your face at select airport checkpoints as part of a growing test with passengers as the subjects."
-    publishedDateTime: 2022-12-19T04:51:00Z
-    webUrl: "https://abc7news.com/airport-facial-recognition-tsa-technology-search/12588271/"
+    publishedDateTime: 2022-12-19T07:48:00Z
+    webUrl: "https://abc7chicago.com/airport-facial-recognition-tsa-technology-search/12588271/"
     type: article
     provider:
-      name: ABC7 San Francisco
-      domain: abc7news.com
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
     quality: 54
     images:
       - url: "https://cdn.abcotvs.com/dip/images/12588274_121822-wls-face-recognition-img.jpg?w=1600"

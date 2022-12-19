@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Judge Orders Tesla To Upgrade Customer's Self-Driving Computer For Free On His Model 3"
-    excerpt: "A US judge has ordered Tesla to perform a free upgrade of the self-driving computer in a customer's Model 3 in order to allow him to have Full-Self Driving without having to pay extra. According to Electrek,"
-    publishedDateTime: 2022-12-14T15:05:00Z
-    webUrl: "https://carbuzz.com/news/judge-orders-tesla-to-upgrade-customers-self-driving-computer-for-free-on-his-model-3"
-    type: article
-    provider:
-      name: https//carbuzz
-      domain: carbuzz.com
-    quality: 31
-    images:
-      - url: "http://cdn.carbuzz.com/gallery-images/900x600/1078000/300/1078361.jpg"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "ENF9Rb8ZFPbRC4nWorPodrKxtill7zcY2TmZ1h99kgqCsHt3Ge1fmixiSyYiGVwJqdOLxMuXkyu4H9aVjkjNJxV6kYTKgtTgDqieHTEWcWdAr8klv2th2ybldAdqG00IUtKVaVXH4kIH7x1sLWhvdUqx5KS5SvekSsxcKl/CL8fyTCvtKeOhUD/PCQdGyNOW9MBL+QdcaHXS+y6EaVtrl9YGioakX62OqGRc3u1MFmrqdvHds2IfXWRmJTbs3EOQaxVD0rKOtMIC74GwWbhMUUkPwc8oPEi3W2W/mk5VdhL+KCvqI1RmeUpth0Zb0wci7kjlVg/92HcEJhYho2ahLM06ncFlI+DWJKpc6lTkvs3zrkf4CVpGKW36Bgcbigmyt5C1VHQSR1rRyKWDSSVxUsqapELbwprVFFS5gstrUqju9vQ+6vH+Iv+7METNiJ8+T3spX15yMGAt7haTyGKCVX3pGmwscyrdIAmPRRwveRx1GQMyazy0VK8zRpDo8MhZgNWoCH1C2LcZ4Stq/d146Q==;1KYCDiPvLpEEzpACGeO8pg=="
 ---

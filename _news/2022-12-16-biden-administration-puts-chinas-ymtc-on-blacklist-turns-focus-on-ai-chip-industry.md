@@ -3,18 +3,18 @@ category: news
 title: "Biden administration puts China's YMTC on blacklist, turns focus on AI chip industry"
 excerpt: "Over 20 other significant names in China's artificial intelligence chip sector have been put on a US trade blacklist amid a crackdown."
 publishedDateTime: 2022-12-15T23:23:00Z
-originalUrl: "https://www.wcpo.com/news/national/biden-administration-puts-chinas-ymtc-on-blacklist-turns-focus-on-ai-chip-industry"
-webUrl: "https://www.wcpo.com/news/national/biden-administration-puts-chinas-ymtc-on-blacklist-turns-focus-on-ai-chip-industry"
-ampWebUrl: "https://www.wcpo.com/news/national/biden-administration-puts-chinas-ymtc-on-blacklist-turns-focus-on-ai-chip-industry?_amp=true"
-cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/biden-administration-puts-chinas-ymtc-on-blacklist-turns-focus-on-ai-chip-industry?_amp=true"
+originalUrl: "https://www.tmj4.com/news/national/biden-administration-puts-chinas-ymtc-on-blacklist-turns-focus-on-ai-chip-industry"
+webUrl: "https://www.tmj4.com/news/national/biden-administration-puts-chinas-ymtc-on-blacklist-turns-focus-on-ai-chip-industry"
+ampWebUrl: "https://www.tmj4.com/news/national/biden-administration-puts-chinas-ymtc-on-blacklist-turns-focus-on-ai-chip-industry?_amp=true"
+cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/national/biden-administration-puts-chinas-ymtc-on-blacklist-turns-focus-on-ai-chip-industry?_amp=true"
 type: article
 quality: 67
 heat: -1
 published: false
 
 provider:
-  name: WCPO Cincinnati
-  domain: wcpo.com
+  name: TMJ4
+  domain: tmj4.com
 
 topics:
   - AI Hardware
@@ -92,6 +92,6 @@ related:
       domain: straitstimes.com
     quality: 34
 
-secured: "sVfbp+QdRCNLup2DXqn8JnGcf/zGUpreLV3cj7TNOZ+oO4WtEcpQkhIf0Pe0UmedECf9rAZ8GLOUKTcS6OHOvWK7XKTRwCntC0X/mUtUxj7x671CMVdkf43IP4nsVN500izRDdwhUj5z+Sdv2RdQGGCkJ8hifVxuFeLuxW1/DB/7vIvZDZeloihszM++7hMaWOtn1r+Q7KVAr3y/0v54348budx6KTDi/tymUhBTQJwpA+8BpWlzUMPsN+rzohuachaqqALeTZPDnxW63buBR5XhICpqmGpeCRbbyK4QoDVbHQ7chbBLtrWhlIIu8BUiWGST+6TUemX6PoAXrx5BF+hYcXaPvIPUT3+g/H8Q+U7WOcff/bp+8H5R0jUhFOwvZlxBGTVTueyTHX/ltYA/nWKopctL/iq67mpdEJWAbKlubh0u9AFfP76wUmAX7Jylsd0+mWnjcLqqMYaev+EN8Qv+TQe8tkZ7HH6H0swFCZfe6JrHYPmfceeU7h5puq2xb6O4O63pYyLN7PdWExy8pQ==;MA6mrn+c+gMy00bfwkG+7Q=="
+secured: "Tcf34IW0QCxZXVBwsWPEyNzlrsEDy7JUHFWC180Enylm+EwtUQ+cyM0BFpxsfD00p4+WeBJ9ktUh4xYxzRYkz0Ue/H4+WOmc4IG9vpXPlg8LPfkBA+sqtBiCBLi8BobijyyRDvRe/D8PMTBxxUWD7PqfQ4nJis9GCl0sNHRFTDLF1kiNvllYRefksnCZHJKa+T+te/xrVx+bxXm5fPwOhPXHyoZ6rp+b3Iqzu8HCqWpzAAxIstBJYkQw+5rsF4TwYTmgsQbFynT7hJsuMr7quRVS1W8HS1q1iJ3D/CeLNhMDq7qJBjEtHEK2boh0PJA+gKjuoUrxUssD+/SRQ0Ul4QoKu1nLcLYzDB372ewdNZI=;rQKI5bMHLZy36NthY1GwTg=="
 ---
 

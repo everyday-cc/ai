@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/microsoft-nvidia/"
 webUrl: "https://venturebeat.com/microsoft-nvidia/"
 type: article
 quality: 101
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://images.mid-day.com/images/images/2022/dec/apple-seventeen-dec_d.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Google won't make a competitor to Microsoft Azure-powered ChatGPT, at least for now"
-    excerpt: "Dean explained that Google has similar capabilities to ChatGPT but has taken a more conservative approach due to the \"reputational risk\" that could occur if things went wrong. Chatbots powered by AI are prone to bias,"
-    publishedDateTime: 2022-12-14T15:09:00Z
-    webUrl: "https://www.windowscentral.com/software-apps/google-wont-make-a-competitor-to-microsoft-azure-powered-chatgpt-at-least-for-now"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 48
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/NBgAT2ZHE82EgK9Em2Ze8b-1200-80.jpg"
-        width: 1200
-        height: 676
         isCached: true
   - title: "Microsoft launches real-time voice translation in Skype"
     excerpt: "The new translation feature uses AI to automatically detect the languages being spoken during a video call and translate them in real time."

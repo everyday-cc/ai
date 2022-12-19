@@ -80,20 +80,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Agriculture Market [ NEW REPORT ] Extensive Insights & Competitive Analysis with Industry Development till 2027"
-    excerpt: "Dec (The Expresswire) -- \"Artificial Intelligence in Agriculture Market\" New Research Insights Report 2023 | [ Artificial Intelligence"
-    publishedDateTime: 2022-12-14T15:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-new-report-extensive-insights-competitive-analysis-with-industry-development-till-2027-2022-12-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in Automotive Market Trends 2023 Industry Size, Segments, Share, Key Players and Growth Factor Analysis by 2026"
     excerpt: "Global “Artificial Intelligence (AI) in Automotive Market” 2023 report presents an exclusive analysis of market"
     publishedDateTime: 2022-12-15T07:02:00Z

@@ -87,20 +87,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Agriculture Market [ NEW REPORT ] Extensive Insights & Competitive Analysis with Industry Development till 2027"
-    excerpt: "Dec (The Expresswire) -- \"Artificial Intelligence in Agriculture Market\" New Research Insights Report 2023 | [ Artificial Intelligence"
-    publishedDateTime: 2022-12-14T15:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-new-report-extensive-insights-competitive-analysis-with-industry-development-till-2027-2022-12-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) Consulting Market Market Size 2023 Industry Analysis, Key Players, Regional Demand, Opportunity and Forecast 2028"
     excerpt: "Consulting Market \" Insights 2022 - By Applications (Technology Consulting, Management Consulting), By Types (, Strategy Development, Strategy Execution, Commercial Due Diligence, Customer Training, ),"
     publishedDateTime: 2022-12-18T11:50:00Z
