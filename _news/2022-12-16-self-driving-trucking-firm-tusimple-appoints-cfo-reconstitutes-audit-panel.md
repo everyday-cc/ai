@@ -7,7 +7,7 @@ originalUrl: "https://money.usnews.com/investing/news/articles/2022-12-16/self-d
 webUrl: "https://money.usnews.com/investing/news/articles/2022-12-16/self-driving-trucking-firm-tusimple-appoints-cfo-reconstitutes-audit-panel"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Layoffs are coming for self-driving truck company TuSimple"
+    excerpt: "Autonomous trucking technology company TuSimple reportedly plans to lay off a chunk of its staff as early as this week."
+    publishedDateTime: 2022-12-19T22:46:00Z
+    webUrl: "https://techcrunch.com/2022/12/19/layoffs-are-coming-for-self-driving-truck-company-tusimple/"
+    ampWebUrl: "https://techcrunch.com/2022/12/19/layoffs-are-coming-for-self-driving-truck-company-tusimple/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/19/layoffs-are-coming-for-self-driving-truck-company-tusimple/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/01/tusimple-truck-close-up.jpg?resize=1200,801"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "TuSimple, a self-driving truck company, will fire hundreds of workers"
     excerpt: "The job cut of TuSimple would likely affect at least 700 employees, the report said citing people familiar with the matter"
     publishedDateTime: 2022-12-17T18:22:00Z

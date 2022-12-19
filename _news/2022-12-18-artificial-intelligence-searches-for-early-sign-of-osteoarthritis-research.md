@@ -42,6 +42,20 @@ related:
         width: 1280
         height: 750
         isCached: true
+  - title: "Artificial Intelligence Searches an Early Sign of Knee Osteoarthritis from X-Rays"
+    excerpt: "Researchers have developed an artificial intelligence-based neural network to detect an early knee osteoarthritis from x-ray images."
+    publishedDateTime: 2022-12-19T22:03:00Z
+    webUrl: "https://ptproductsonline.com/orthopedics/arthritis/artificial-intelligence-searches-an-early-sign-of-knee-osteoarthritis-from-x-rays/"
+    type: article
+    provider:
+      name: Physical Therapy Products
+      domain: ptproductsonline.com
+    quality: 34
+    images:
+      - url: "https://ptproductsonline.com/wp-content/uploads/2022/12/x-ray.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Artificial intelligence searches an early sign of osteoarthritis from an X-ray image – might save from unnecessary treatments and examination"
     excerpt: "Researchers from the University of Jyväskylä and the Central Finland Health Care District have developed an AI based neural network to detect an early knee osteoarthritis from x-ray images."
     publishedDateTime: 2022-12-16T17:18:00Z

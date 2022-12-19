@@ -35,38 +35,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Delhi Government Schools To Kick Off Robotics Competition For Students"
-    excerpt: "According to a DoE statement, the idea of this robotics competition is to nurture excellence in robotics among school students."
-    publishedDateTime: 2022-12-15T06:15:00Z
-    webUrl: "https://www.ndtv.com/education/delhi-government-schools-kick-off-robotics-competition-for-students"
-    ampWebUrl: "https://www.ndtv.com/education/delhi-government-schools-kick-off-robotics-competition-for-students/amp"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/education/delhi-government-schools-kick-off-robotics-competition-for-students/amp"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 74
-    images:
-      - url: "https://cache.careers360.mobi/media/article_images/2022/12/15/delhi-schools-robotocs-competition-featured-image.jpg"
-        width: 860
-        height: 430
-        isCached: true
-  - title: "Delhi Govt Schools To Kick Off Robotics Competition For Students"
-    excerpt: "A unique robotics competition to nurture excellence in the field among Delhi school students will begin Friday, as the state government has been emphasising educational opportunities for students to learn Artificial Intelligence,"
-    publishedDateTime: 2022-12-15T06:58:00Z
-    webUrl: "https://www.republicworld.com/india-news/general-news/delhi-govt-schools-to-kick-off-robotics-competition-for-students-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/india-news/general-news/delhi-govt-schools-to-kick-off-robotics-competition-for-students-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/delhi-govt-schools-to-kick-off-robotics-competition-for-students-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 74
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/7vaj3uleqymhries_1671087484.jpeg"
-        width: 768
-        height: 439
-        isCached: true
   - title: "Robotics competition kicked off for Delhi government school students"
     excerpt: "A special robotics competition was kicked off today for Delhi government school students. By India Today Web Desk: According to a circular from the Directorate of Education (DoE), a special robotics competition is being started on Friday to foster excellence in the field among Delhi school children."
     publishedDateTime: 2022-12-16T10:55:00Z
@@ -80,22 +48,6 @@ related:
     quality: 74
     images:
       - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202212/jelleke-vanooteghem-6nulohm40w8-unsplash-sixteen_nine.jpg?VersionId=q1ETy.V2ObyHT1nAmNcfRDHfT1U9NJdu"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Delhi government schools to kick off new competition for students to nurture excellence in robotics"
-    excerpt: "Delhi government schools to introduce a new completion for students to nurture excellence in the field of robotics. See more details here."
-    publishedDateTime: 2022-12-15T06:44:00Z
-    webUrl: "https://www.indiatvnews.com/education/news/delhi-government-schools-to-kick-off-new-competition-for-students-to-nurture-excellence-in-robotics-2022-12-15-831392"
-    ampWebUrl: "https://www.indiatvnews.com/amp/education/news/delhi-government-schools-to-kick-off-new-competition-for-students-to-nurture-excellence-in-robotics-2022-12-15-831392"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/education/news/delhi-government-schools-to-kick-off-new-competition-for-students-to-nurture-excellence-in-robotics-2022-12-15-831392"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 60
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2022/12/students-1671086622.jpg"
         width: 1200
         height: 675
         isCached: true

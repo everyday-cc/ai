@@ -120,15 +120,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
-  - title: "Artificial Intelligence in Manufacturing Forecast for 2028, Market 2023, Global Industry Trends, Share, Size, Growth, Analysis, Demand"
-    excerpt: "Artificial Intelligence in Manufacturing Market 2023-2028 | Pre and Post-COVID Research is Covered, Report Information"
-    publishedDateTime: 2022-12-15T05:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-forecast-for-2028-market-2023-global-industry-trends-share-size-growth-analysis-demand-2022-12-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
 
 secured: "LuCP0wp8YoOLgjoIv1DmPqqSG+JXkHTVjqv0DmvFQn65b8RHBIyQEozV3WTeeJifFyCMkdJ+hzGGjZECh6RrSrqhCEOU/d2Df56X+YQv1uEJ5h6T8NWYrbYuslcaK6AcAHH29vw4zKKPEmI8PHGidojH585cJaBnBKV/w7cVQZDeL7bBDC1cOTvsq8zSp+35zT0ryIpn9+1GKz/1kOHhITINH9OQkQmhuibpQI2E7LYC8YPr43Fq8cYnnDC//IjHikPOunYNYgoarizdxO9Y8M7bhPUjh/Xy8u2I6s56WYWKQ1hN1+G4K1qzuSv4qkPvaln2lPeGgUZJvNp/VMQFPMgrxmhxwreeNkz+i6XUUV8=;wB79yipAo2XLHeUJ412UNQ=="
 ---

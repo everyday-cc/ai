@@ -6,8 +6,8 @@ publishedDateTime: 2022-12-17T22:59:00Z
 originalUrl: "https://www.digitaljournal.com/business/will-2023-be-the-year-ai-truly-takes-off-for-manufacturing/article"
 webUrl: "https://www.digitaljournal.com/business/will-2023-be-the-year-ai-truly-takes-off-for-manufacturing/article"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:

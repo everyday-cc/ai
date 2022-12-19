@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-19T20:42:00Z
 originalUrl: "https://www.pcmag.com/news/google-teases-ai-tool-that-can-decipher-your-doctors-messy-handwriting"
 webUrl: "https://www.pcmag.com/news/google-teases-ai-tool-that-can-decipher-your-doctors-messy-handwriting"
 type: article
+quality: 49
+heat: -1
+published: false
 
 provider:
   name: PC Magazine
@@ -18,6 +21,51 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Google To Translate Doctor’s Handwritten Prescriptions Soon | Check Details Here"
+    excerpt: "The AI tool will be created in Google Lens that can decode badly written medical notes. The company showcased the feature during its 'AI for India' event."
+    publishedDateTime: 2022-12-19T16:41:00Z
+    webUrl: "https://www.india.com/technology/google-to-translate-doctors-handwritten-prescriptions-soon-check-details-here-5812403/"
+    ampWebUrl: "https://www.india.com/technology/google-to-translate-doctors-handwritten-prescriptions-soon-check-details-here-5812403/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/google-to-translate-doctors-handwritten-prescriptions-soon-check-details-here-5812403/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 69
+    images:
+      - url: "https://static.india.com/wp-content/uploads/2022/12/google-search-2022-list.png"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Google Will Soon Help Translate Doctor's Handwritten Prescription"
+    excerpt: "Google on Monday announced an artificial intelligence (AI) and machine learning (ML) model that can identify and highligh"
+    publishedDateTime: 2022-12-19T13:11:00Z
+    webUrl: "https://menafn.com/1105327280/Google-Will-Soon-Help-Translate-Doctors-Handwritten-Prescription"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
+  - title: "Google will translate doctor's handwritten prescriptions soon: Know more"
+    excerpt: "Google to decode doctor's handwriting with a new AI software the tech giant is working on. The assistive technology for digitising handwritten medical documents will help the humans in the loop like pharmacists,"
+    publishedDateTime: 2022-12-19T13:09:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/google-will-translate-doctor-s-handwritten-prescriptions-soon-know-more-2022-12-19-832450"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 18
+  - title: "Do You Struggle To Read A Doctor's Prescription? Google To Now Help You Decode It"
+    excerpt: "The feature which will be rolled out on Google Lens will allow users to either take a picture of the prescription or upload one from the photo library."
+    publishedDateTime: 2022-12-19T13:51:00Z
+    webUrl: "https://www.ndtv.com/feature/do-you-struggle-to-read-a-doctors-prescription-google-to-now-help-you-decode-it-3620519"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 0
 
 secured: "UL9oOmZVPA16fdKcFoytHssNMRRUMLzfH5ygpsgIC8Dq7GVZeQ485JdB8MQlyyNq3ohUjSYE11OQwKzeobelSttRcM0cPLy8b7nbPv6dxE/IqvdxfR96YHVrIcnpfesWZwM2640tpGAVgrk32xqR+rs/msOT+VN8YuDMg8zp33gSUC7WpHnSNmJ8SRiygJJjb0NWp6fIKCTkJhHHyBb+5LM6VmEYvNARNMBs+xs/vgOwO6fW+WESYoPYtWjgEtfX6JBzE7OZXus1PqMYGdJ4XsGy+zbGjR6na2tXA9EbBgui2u9yE2LxYkhXE+0gld2Vlo/TVkvdRoBZSDctBei7znz5x23urnVp1nRsUE6/CKXjaMKAOD76AnAjH2UEETyO0zucno/Oty6JY9b03J3mi4IC12GK5QvQhe7Mw5pYYkHaG8oASQQ3UxoKp0oi7DkAqFP0+YOZs38fJR3OdvlcJO6w4SgiaPZfZi+2r5F3sczfZSxBNc2Mu/IVYYLgNFMb7MZeblxKFe7rn8tPiBZ7gw==;Hs2yRZiDqx1yBwAcs1EKnA=="
 ---

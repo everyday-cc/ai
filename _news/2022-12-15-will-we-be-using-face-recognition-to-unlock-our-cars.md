@@ -24,17 +24,6 @@ images:
     height: 576
     isCached: true
 
-related:
-  - title: "Will face recognition be used to unlock cars soon?"
-    excerpt: "Genesis, Hyundai's premium brand, is creating a stir by introducing the first-ever solution for unlocking a car with face recognition."
-    publishedDateTime: 2022-12-15T03:40:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/leisure/automotive/2022/12/15/will-face-recognition-be-used-to-unlock-cars-soon/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 19
-
 secured: "8dUJuEEPZL4V2c7GYRBT7H/7T/7GsRMjDWYA3a939YIq2kXRfCoeOAMtQoenfLdlspMNhxObvwOX5LwIZRvP7RbZV6w3VSjrNakDLjxRfn0L6E7YYnXHvtEoeqqshjqNQWOJKbfwwoiKmikpLXxEcvil1AMAJ6VkSpb3gfvB6FsIux9WNJw8hkyD2Zonaao4vbiPXRVa9LPhe6B+T2kZyKbNHUHazKOIvv4w2QLjY8DMFPMV2kHCQ8MbcK2GGqSORcnIFMWlMlafCfTeZe+fXZrAb6btnyJkXzFF1ZwvFUGiGm2jjRn0HBm46ahJ2mzIYzy9+0MOZX1gnVbyQ8tnWHKqy0UcWpKpJ+BSq9waZkh+sB+/bNa4ZTvici0zCJhiYFm6PQfXOaQwbh5kfX58LVoG0nftHP2/tmcZqeTNkYqi50BXc19UpkxlZPFn0r4WWxrS3Sr0Rq7KCVjscMsGE51Naw8eAMRshIBgvIbYUt3dNIQksfur6vJmn5qwZ2R7T3wgeXKpX0CKhpx8o8npng==;gxhOmgGRDNA2nnO6DYlIuQ=="
 ---
 

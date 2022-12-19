@@ -51,6 +51,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "From DALL-E 2 to ChatGPT, covering AI’s wild year | The AI Beat"
+    excerpt: "From DALL-E 2 to ChatGPT, the AI beat was challenging and overwhelming in 2022. It's been humbling. And awesome."
+    publishedDateTime: 2022-12-19T19:58:00Z
+    webUrl: "https://venturebeat.com/ai/from-dall-e-2-to-chatgpt-covering-ais-wild-year-the-ai-beat/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "ChatGPT got all the buzz, but beneath it is a $1B developer framework that's quietly fueling the new era of lifelike AI at OpenAI and beyond"
     excerpt: "The Ray developer framework is used by OpenAI, Amazon, and more to solve one of AI's biggest pain points and make AI tools like ChatGPT possible."
     publishedDateTime: 2022-12-16T10:00:00Z

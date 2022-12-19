@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-19T19:02:00Z
 originalUrl: "https://gizmodo.com/chatgpt-dall-e-ai-art-sci-fi-hp-lovecraft-story-1849904617"
 webUrl: "https://gizmodo.com/chatgpt-dall-e-ai-art-sci-fi-hp-lovecraft-story-1849904617"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Gizmodo

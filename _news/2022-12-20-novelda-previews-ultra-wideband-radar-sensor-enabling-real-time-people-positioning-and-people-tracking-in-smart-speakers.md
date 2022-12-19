@@ -1,20 +1,31 @@
 ---
 category: news
 title: "NOVELDA Previews Ultra-Wideband Radar Sensor, Enabling Real-Time People Positioning and People Tracking in Smart Speakers"
-excerpt: "CES, NOVELDA, a world leader in ultra-wideband (UWB) human presence sensing, announced today that NOVELDA will give a preview of the people positioning and people tracking capabilities of its UWB radar sensors at CES 2023."
-publishedDateTime: 2022-12-19T19:54:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-novelda-previews-ultra-wideband-radar-sensor-enabling-real-/2022/12/19/9732951.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-novelda-previews-ultra-wideband-radar-sensor-enabling-real-/2022/12/19/9732951.htm"
+excerpt: "NOVELDA to demonstrate new UWB radar sensor at CES 2023 LAS VEGAS and OSLO, Norway, Dec. /PRNewswire/ -- CES, NOVELDA, a world leader in ultra-wideband (UWB) human presence sensing, announced today th"
+publishedDateTime: 2022-12-19T17:29:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/12/n30133267/novelda-previews-ultra-wideband-radar-sensor-enabling-real-time-people-positioning-and-people-trac"
+webUrl: "https://www.benzinga.com/pressreleases/22/12/n30133267/novelda-previews-ultra-wideband-radar-sensor-enabling-real-time-people-positioning-and-people-trac"
+ampWebUrl: "https://www.benzinga.com/amp/content/30133267"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30133267"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "4ZcEb1pNRuI9NBMaaBwFF9c5niL91MymGdBTflK7qEnRhG8i6dEuG0eYclFVgnSRxp44tq70BZeo2DgIad/itN525tIJR2hE3C+h/mb6yjiKPO1aEzgTo8HpIaL0shGrMwymK2YgmBZNJRneEoKXmu8StBW3taC5yCTEieWG6QYVeVSoBOcagJmyJ4nBR5dAOnXHrILFMzmHe54IJcC6oebw8X3MX3Jzp2YStUb/7iTZtH0BaUC1VhCDRgaqIA2eC8tNFYacCHwdIbGFiJ0Sva5qttBCdTC9tUzmGgUB8sh9vxSBumYIQOAbO8B5FgBgdLnOm/dRYmOe+fIOQR5C/PLeTvxIwWiKEdvQ0WOQ+lt66LUZuY2SL0yEsVzX3ZnG86HBBixI6w5U2PAV+qlgSZin6r4MR3ZHUcLFrBnXZ+Knu9W8Pv6UxvuU3JNVMB0opu36dY4me3RVwneKrH2LOrvIWtibYyP2YFsAHjJoxKzTazHdQZpitpgU7YSAHkg2DJ7mbme9sQzvP6vyBOZrtw==;edRc+1cfHgx4rP+9wZAI7w=="
+images:
+  - url: "https://mma.prnewswire.com/media/1711327/NOVELDA_logo.jpg"
+    width: 400
+    height: 333
+    isCached: true
+
+secured: "/oEM66Jwhg3VFjOPE6R8PC5mHgkeO1chjwgoYnXp7VGnPqlHHr9NoYyn+qSvnyTT5oKABksvemVdmm4Ow/b/JhK6ZrNzZRLGsGLGd2jkhxrcSF4k9IpI9BYTo2heFxSZ1LL6ZBFg1A0xPNA+Hz7C1IZeORfSnBloXxAhA4QK9lV+XkTe+v+KWd27RnkLR5z1wZEeXgdTfnsrQZThbjOQz24758jlKNwVbB4WVj13GvCF4lHW76OlbLbvAlxTjE1MeWgSGTLsxMA+UFjTd0lGg+eu/74AlsVyXqDg34uMj5oQ+H1KoHJsTqxBQq9Qa4JRepm/IWD+SjJB0EoLfgj40mtMyfJULDJCoUlhXdBqVJc=;v/kWd8A8gJMe2hQMjkB/XA=="
 ---
 

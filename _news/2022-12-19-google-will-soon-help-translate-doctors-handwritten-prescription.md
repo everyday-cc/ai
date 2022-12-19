@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google Teases AI Tool That Can Decipher Your Doctor's Messy Handwriting"
+    excerpt: "The feature will allow people to upload or take a photo of a prescription to Google Lens, which will detect the medicines mentioned in the note."
+    publishedDateTime: 2022-12-19T20:42:00Z
+    webUrl: "https://www.pcmag.com/news/google-teases-ai-tool-that-can-decipher-your-doctors-messy-handwriting"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 49
   - title: "Google will translate doctor's handwritten prescriptions soon: Know more"
     excerpt: "Google to decode doctor's handwriting with a new AI software the tech giant is working on. The assistive technology for digitising handwritten medical documents will help the humans in the loop like pharmacists,"
     publishedDateTime: 2022-12-19T13:09:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-19T20:41:00Z
 originalUrl: "https://www.scientificamerican.com/article/ai-platforms-like-chatgpt-are-easy-to-use-but-also-potentially-dangerous/"
 webUrl: "https://www.scientificamerican.com/article/ai-platforms-like-chatgpt-are-easy-to-use-but-also-potentially-dangerous/"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Scientific American

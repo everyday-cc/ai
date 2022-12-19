@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-19T19:03:00Z
 originalUrl: "https://www.dailypioneer.com/2022/page1/now--ai-to-decipher-your--doctor---s-illegible-scrawl.html"
 webUrl: "https://www.dailypioneer.com/2022/page1/now--ai-to-decipher-your--doctor---s-illegible-scrawl.html"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: The Pioneer

@@ -24,6 +24,17 @@ images:
     height: 3000
     isCached: true
 
+related:
+  - title: "AI Is Coming for White-Collar Jobs, Too"
+    excerpt: "Think AI is just coming for customer service jobs? Think again, say AI experts, who point to recent advances in large language models as evidence that"
+    publishedDateTime: 2022-12-19T19:18:00Z
+    webUrl: "https://www.datanami.com/2022/12/19/ai-is-coming-for-white-collar-jobs-too/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 17
+
 secured: "zUq+SpXb6TUF20+UgihM9/zul11VefbO5rijyj3qadHKf6tbHsqNtiv2APWZlgfgzdGQOChAP7NSrhrik9ts7QyKrerXCVdun8ITs5bJta5Oy1UczY13++0w4bt++QZW4OFW5CEJX08mvcZCc69aWbb8V+Ow5vqbMLO+mZzo2+wkg68hSM0F+hT4+I/06HtZC49ivgLCPKDjkh+9MZTPLoFszsdtm/pGDn469IqCIkKjbokWlHsJc+ZsmPUXFcDL77l8ZYBfYJMO9kU7Zue1hlhf8oKhwLaiyJjrA9KXS7W5UjEq3NINB4a00OhuMKtkJJ50GHosfxZcdCP4UbB/+Fsc51awCZZTQnoEq3D5Sv0=;I/8qd5S7VRRmthwsERn/dA=="
 ---
 

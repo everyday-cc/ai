@@ -39,6 +39,15 @@ related:
         width: 2048
         height: 845
         isCached: true
+  - title: "ValidSoft launches new voice biometrics solution, receives 2 awards"
+    excerpt: "The software tool is aimed at countering credential theft, social engineering hacks, replay attacks, and synthetic voice deepfake attacks."
+    publishedDateTime: 2022-12-19T18:56:00Z
+    webUrl: "https://www.biometricupdate.com/202212/validsoft-launches-new-voice-biometrics-solution-receives-2-awards"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 4
 
 secured: "sd4G0RUSQLhS/eMsoMtRVVc7jOjTTa5bigiR6jgz17NcLEk9mj5jcNn1jXRTwkPlpMAxF+WEkEIZFVuPwfedJiWR1YcXTCI0beX7PKfsiPx/Zv5s0abquSph+v3HEL+mVZgLsiVvJibwusNZMO6K/84pSCNyMeWvYfbOB3xvyogVvex5gcL6m0dmTkjnvx9GfpM/a06OWNNWeFH84IeAPI+8xY0b3yKES5L7kcdOPMah9avNNgfYhdWaCibc8mjD2GJsaOz+MfQELshoALrINwuY2C3b/GLqNvO/eUrI4ErTTeIvO2kEM9vtKEBce3F02jTZm16OEAbNwL54emUlSuvptkNPF25CNqs5TOXXSyToWNG+yQHj6enEYn75t+YRiqi7dGjbbjRspcrlrsDIq0AwDJ/L1suhNYiiLvYiq58CL8dVY0gpKGokorU+aLB/ZgU4B03CtefBbxMhsfxUf/2d2o3pr6bfIQpHC2a5xLHmfA1RRmo+Lk05V/S2GmUrrP1Mjr6c+K15OctOVJr0/g==;xaeaeQaaq77fnpww+G4yZg=="
 ---

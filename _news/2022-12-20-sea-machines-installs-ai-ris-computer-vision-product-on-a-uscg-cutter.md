@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-19T20:46:00Z
 originalUrl: "https://www.marinelink.com/news/sea-machines-installs-airis-computer-501693"
 webUrl: "https://www.marinelink.com/news/sea-machines-installs-airis-computer-501693"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Marine Link

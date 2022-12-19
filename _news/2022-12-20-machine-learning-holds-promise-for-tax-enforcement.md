@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-19T20:16:00Z
 originalUrl: "https://www.accountingtoday.com/news/machine-learning-holds-promise-for-tax-audits-enforcement"
 webUrl: "https://www.accountingtoday.com/news/machine-learning-holds-promise-for-tax-audits-enforcement"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Accounting Today

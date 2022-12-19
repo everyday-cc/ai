@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/technology/lensa-ai-portrait/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/lensa-ai-portrait/?amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "How to use Lensa and its AI art features on iPhone"
+    excerpt: "Lensa is a photo and video editor that offers facial retouching tools for selfies, and it has a feature that processes photos with artificial intelligence. Here's how to use Lensa on iPhone."
+    publishedDateTime: 2022-12-19T20:12:00Z
+    webUrl: "https://appleinsider.com/inside/iphone/tips/how-to-use-lensa-and-its-ai-art-features-on-iphone"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 17
 
 secured: "34wRvdsogezl/2JKoK/cUyIkbmcvRPW2Igm0rEKj6k8OFnzTGDE/naFwsLNJSZYrbF7BEXA3q/G9Y3g/wGxdP5nELZ5mq4ZyOJnzpPNoCXdHrJhNZ0ejEgkf2K3tCHKEUYMonEHLD99ZvklTUrhIz9GL/aNWe2SqIwSC66xromrRMKOpciQh1xQvGftt9soCE9qt9fvHqk0i8phXhGYqdp63XKEY8XB3xmUsbLFez4pe+Q/g5NmhMkqVtAxL17CcpyEDY0zwriXSCpnWNDG0zNHG4mpqsZgfK41MXSsc1gHRGyqnzW7TElaIS9APnAvY2vRzBvEoGr1fdTQ3ZmmueYBKWMmEXeRrcQU4Vhz78CcEhT2JtGQ+lj9pD0vA1KX4LvAgD7rks9XrLTtlltZxxmSaw4WYPVDOXEZp5IYwRcQ62DkyZUpitD0WyzfHvm58fpd1++EpEKocNVlIBCCqgnLYmcmOf1HSp/n2PEMO/dQ7xmRf9iOV1LTgUDcHCywwgdHog5CfqNRBa+nocqm6Fw==;cL59G5NaG4IAT0JPKOKPkw=="
 ---
