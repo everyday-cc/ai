@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla reportedly claims its failure to deliver self-driving cars isn't fraud"
-    excerpt: "Tesla has come under fire once again for its controversially named Full Self-Driving driver-assist feature. Despite what the name alludes to, FSD doesn't enable a car to drive on its own. The feature can handle certain situations but requires a driver to monitor things at all times and to always be ready to correct mistakes."
-    publishedDateTime: 2022-12-16T14:26:00Z
-    webUrl: "https://www.motorauthority.com/news/1138168_tesla-reportedly-claims-its-failure-to-deliver-self-driving-cars-isn-t-fraud"
+  - title: "Tesla reportedly claims its failure to deliver self-driving cars isn’t fraud"
+    excerpt: "Tesla has come under fire once again for its controversially named Full Self-Driving driver-assist feature. Despite what the name alludes to, FSD doesn’t enable a car to drive on its own."
+    publishedDateTime: 2022-12-16T13:27:00Z
+    webUrl: "https://fox8.com/automotive/internet-brands/tesla-reportedly-claims-its-failure-to-deliver-self-driving-cars-isnt-fraud/"
+    ampWebUrl: "https://fox8.com/automotive/internet-brands/tesla-reportedly-claims-its-failure-to-deliver-self-driving-cars-isnt-fraud/amp/"
+    cdnAmpWebUrl: "https://fox8-com.cdn.ampproject.org/c/s/fox8.com/automotive/internet-brands/tesla-reportedly-claims-its-failure-to-deliver-self-driving-cars-isnt-fraud/amp/"
     type: article
     provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 51
+      name: FOX8 Cleveland
+      domain: fox8.com
+    quality: 71
     images:
-      - url: "https://images.hgmsites.net/hug/2022-tesla-model-3_100827310_h.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "What Psychology Means for the Future of Self-Driving Cars"
-    excerpt: "Short of teleportation, few technological dreams are more appealing than getting from point A to point B in a self-driving car: a vehicle able to whisk you away at a moment’s command, and that grants countless hours of newfound free time en route."
-    publishedDateTime: 2022-12-14T17:51:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/your-internet-brain/202212/what-psychology-means-for-the-future-of-self-driving-cars"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/your-internet-brain/202212/what-psychology-means-for-the-future-of-self-driving-cars?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/your-internet-brain/202212/what-psychology-means-for-the-future-of-self-driving-cars?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 44
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2022-12/junior-reis-98AVD0fctzA-unsplash.jpeg.jpg?itok=S2707TvJ"
-        width: 1528
-        height: 800
+      - url: "https://fox8.com/wp-content/uploads/sites/12/2022/12/2022-tesla-model-3_100827310_m.jpg?w=1280"
+        width: 640
+        height: 360
         isCached: true
   - title: "What riding in a self-driving Tesla tells us about the future of autonomy"
     excerpt: "Companies have invested billions and made huge advances but technology that mimics human reasoning is still far away."

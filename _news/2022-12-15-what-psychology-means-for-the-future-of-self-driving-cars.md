@@ -27,62 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla reportedly claims its failure to deliver self-driving cars isn't fraud"
-    excerpt: "Tesla has come under fire once again for its controversially named Full Self-Driving driver-assist feature. Despite what the name alludes to, FSD doesn't enable a car to drive on its own. The feature can handle certain situations but requires a driver to monitor things at all times and to always be ready to correct mistakes."
-    publishedDateTime: 2022-12-16T14:26:00Z
-    webUrl: "https://www.motorauthority.com/news/1138168_tesla-reportedly-claims-its-failure-to-deliver-self-driving-cars-isn-t-fraud"
+  - title: "The self-driving era is here, the question is what comes next"
+    excerpt: "TORONTO - The self-driving era is here, just not the one that was promised. Instead of sleek pods without steering wheels ready to chauffeur buyers off the lot, there are mostly driverless Chevy compacts,"
+    publishedDateTime: 2022-12-15T09:05:00Z
+    webUrl: "https://www.thestar.com/business/2022/12/15/the-self-driving-era-is-here-the-question-is-what-comes-next.html"
+    ampWebUrl: "https://www.thestar.com/amp/business/2022/12/15/the-self-driving-era-is-here-the-question-is-what-comes-next.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/2022/12/15/the-self-driving-era-is-here-the-question-is-what-comes-next.html"
     type: article
     provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 51
+      name: Toronto Star
+      domain: thestar.com
+    quality: 44
     images:
-      - url: "https://images.hgmsites.net/hug/2022-tesla-model-3_100827310_h.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.thestar.com/content/dam/thestar/business/2022/12/17/grocery-shoplifting-on-the-rise-in-canada-amid-inflation-industry-insiders-say/20221216191224-639d0c6256ac9025d918232bjpeg.jpg.size.custom.crop.640x360.jpg"
+        width: 640
+        height: 360
         isCached: true
-  - title: "Tesla Full Self-Driving Beta data not upto the mark over the years"
-    excerpt: "The Tesla FSD Beta data is actually behind. Compared to other autonomous software in the market, Tesla is barely on the charts."
-    publishedDateTime: 2022-12-15T03:21:00Z
-    webUrl: "https://techstory.in/tesla-full-self-driving-beta-data-not-upto-the-mark-over-the-years/"
+  - title: "The self driving era is here, just not for the masses"
+    excerpt: "Instead of sleek pods without steering wheels ready to chauffeur buyers off the lot, there are mostly driverless Chevy compacts, Chrysler minivans, and Ford box trucks with bolted-on hardware trundling around bits of the U."
+    publishedDateTime: 2022-12-15T12:42:00Z
+    webUrl: "https://canada.autonews.com/technology/self-driving-era-here-just-not-masses"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/12/0x0-2.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "What riding in a self-driving Tesla tells us about the future of autonomy"
-    excerpt: "Companies have invested billions and made huge advances but technology that mimics human reasoning is still far away."
-    publishedDateTime: 2022-12-15T04:45:00Z
-    webUrl: "https://www.irishtimes.com/technology/2022/12/15/what-riding-in-a-self-driving-tesla-tells-us-about-the-future-of-autonomy/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 38
-    images:
-      - url: "https://www.irishtimes.com/resizer/KnnC2TOKqPqug3fVNH03vsgyIC8=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/BOLIQOWKUUHMS23MUEJPV6KQCE.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Judge Orders Tesla To Upgrade Customer's Self-Driving Computer For Free On His Model 3"
-    excerpt: "A US judge has ordered Tesla to perform a free upgrade of the self-driving computer in a customer's Model 3 in order to allow him to have Full-Self Driving without having to pay extra. According to Electrek,"
-    publishedDateTime: 2022-12-14T15:05:00Z
-    webUrl: "https://carbuzz.com/news/judge-orders-tesla-to-upgrade-customers-self-driving-computer-for-free-on-his-model-3"
-    type: article
-    provider:
-      name: https//carbuzz
-      domain: carbuzz.com
-    quality: 31
-    images:
-      - url: "http://cdn.carbuzz.com/gallery-images/900x600/1078000/300/1078361.jpg"
-        width: 900
-        height: 600
-        isCached: true
+      name: canada.autonews
+      domain: autonews.com
+    quality: 19
 
 secured: "S5NotNDpuLwbbhSAelg4BnKZMxpXjmzOvoRX96VaRs4IKJvONULaucU7RNSKBuW5UyogQ0mxvbviRkkcpxH8rv6t6+dC2k0WBJrrp1NCSTuyDYFQywBDIPLtT0G1yNRPClLIGwORo3wxlAGRvDn/v/3n4ktOhyIdj4HUEmJU+PAKlXmxZBHPoXaOLl7Eoq/XgAch6TlcDy6IumF/2MdULeCfIgw77dlBnIOZi2yW1GSQvNxLmkLlCwdXH5kIc3D71YmCpJNHEI0Kx9LrGGzAPKjdBj/JpluUu7EG0lqwCVoUaJdAGfYsDIC+V9AntE1G3BqdupFX6So6E3kDPYOX8Ew1mip9dFRZrtg3bRmWP4NHYkL7DfAwLtB22TYz+fc05qtMrdzW+XOgqgKc6WN9Rz+JQs7743sq2mwJ77EecjtWE9pQeph5pggBai79xI2BuhR1w6o7V3etxu4pNlTcbtpFf3XENz7bozg/9kVE7H6wVzo+7oI/Omf9IAq8Muju2U1jEDkoUPIOp3LxuByCVg==;2Bk42t2aab/UAhD0C4ua9w=="
 ---

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Amazon to warn customers on limitations of its AI"
-excerpt: "Amazon chose software touching on sensitive demographic issues as a start for its service cards, which Kearns expects to grow in detail over time. One such service is called “Rekognition.”"
-publishedDateTime: 2022-11-30T17:24:00Z
-originalUrl: "https://www.euronews.com/next/2022/11/30/amazon-com-cloud-ai"
-webUrl: "https://www.euronews.com/next/2022/11/30/amazon-com-cloud-ai"
+excerpt: "Amazon chose software touching on sensitive demographic issues as a start for its service cards, which Kearns expects to grow in detail over time. One such service is called \"Rekognition.\""
+publishedDateTime: 2022-12-01T01:06:00Z
+originalUrl: "https://www.channelnewsasia.com/business/amazon-warn-customers-limitations-its-ai-3113256"
+webUrl: "https://www.channelnewsasia.com/business/amazon-warn-customers-limitations-its-ai-3113256"
 type: article
 
 provider:
-  name: Euronews
-  domain: euronews.com
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://static.euronews.com/articles/wires/896/14/8961478/1000x563_we9fl.jpg"
-    width: 1000
-    height: 563
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--ChyNQ6ox--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-11-30t214432z_2_lynxmpeiat0y5_rtroptp_3_amazon-com-layoffs.jpg?itok=iZxgCCnS"
+    width: 1200
+    height: 676
     isCached: true
 
-secured: "nz4DEAuLimnNkVt34IN4hyThu1M+4p8CYPK90IFv4UVeoc9Pq/3C3pwbPjPOftTqfX99UA3wmJnjxDQpG7Ht7MYWZzE4q/VseekC5PtIF7MP4UaGL552oMBIfzW/bRP2bXT/NQkYZA5cVwnuGqcOXru49M8q/8ZUmlO+tknPeL6GtzV3WJ3ZIcS0/eJiFKPsraP8Xtr3QzZg7U6ZLBZqKmGX/37kObLTjEMSsi7an5GuIv6Dwua5thXqgFslJUPPM51K/5bTTqyrs+KSkFrwH5R4rzDIV7A4aeI38dtftxnQ2O44+2sTB82kRPfHOspUVz5TunDOThXelVaqT4rr/DR5IvAE0oiYMSu8pxbUuaU=;JRHhg9qv5ye3vIZJKs+gyg=="
+secured: "pLAAic30b3yBiDhIkSc08Cz3L/6wcNyKA6/HNlTWTb3mt0fXzu96r2C3lCGJpu8M5KdyhCdNkYrcTJ0HZGIRLUS33xYI2TEK0wgFMrieUDfdVh9fBd4wbAiz3NhnNF2v9XKMfLRzrQSg4pmznE+zLIDs/xHRaqu2AKOgUwMwf5H8xWCxBAs7ZNJ6wnl206RFurJPlqQIzx0Y2LbhVgSVOBdnXA5UdKDzIC3Fk+SOdhDc7KZtHjS/O+BoDPo+jcaii5OTYwUY0yQQnReUydEr88xaJOnOh49/fTgk/iuxh0AoHoVpR4kfffsEGPtcbY/D5G1DqhFGkXxy55QGLKmB+5cXIFG5wqjh65zgRUH9vWs=;Mcsv3Kv7EWiNubSyprAGzQ=="
 ---
 

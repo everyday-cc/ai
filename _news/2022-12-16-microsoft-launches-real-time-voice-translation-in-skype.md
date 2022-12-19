@@ -95,6 +95,20 @@ related:
       name: The Buffalo News
       domain: buffalonews.com
     quality: 26
+  - title: "Microsoft announces Future Ready Champions of Code Program to empower India’s developer community"
+    excerpt: "Microsoft today announced the launch of Future Ready Champions of Code, a pan India program for developers, focused on sk"
+    publishedDateTime: 2022-12-19T04:12:00Z
+    webUrl: "https://menafn.com/1105325067/Microsoft-announces-Future-Ready-Champions-of-Code-Program-to-empower-Indias-developer-community"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 26
+    images:
+      - url: "https://menafn.com/updates/pr/2022-12/18/pr_13449_ac98fc28_image_story.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "WXwuUVKH72mc50Mfu8YGNLWaA3idY3ZHz4+Xdi9T5WaZdBLWpsBk4QvZSZS/9EVTT9Mi1It6wxN+ANmujmH9PHLCvMvt6v0t1LojSyTyKT65n02bbfGuRDmkHDCA3M25cpMzH+fXGR11SXVbeoLvQegIo0vB5xIOK6DtALDGV3D0tdAO0VgQwVtXPHqfNv87KK2vuzh3ownWDN4k5BDAZW+1bLDIRpja1eVrSgxhZ8G16TPJB9YHEVolu2WK5oXHSI/td/WzwaL8XRE9qw2OBkRqnFvRp/0cjDXjMYcLbpDu5T+qmMg8qMbLIl6O32uE/4c0RtQUWCc2Hllxrm1wtWfPT1IhO3hD/1d7guvgDLaZa+KEtluB1ZtNuPcWywJKzINc50b4LZCWMuDRpm1fu0IbGeB+oS8JE1QS8dG3aMjMFWN9Dq0ECHKoi9AJISlB854Nd6Fi7o0zLLHswsPvbxhSL0Cu2KH0b0gbITLzGjDL2i1SfDG4eoS5I1GILPek8jRS9slAJZsQ4e60DmMVOA==;Mw5dd1jeN3yT+LKPIGd1tw=="
 ---

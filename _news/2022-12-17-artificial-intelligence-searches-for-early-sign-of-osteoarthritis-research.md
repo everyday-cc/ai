@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence searches for early sign of osteoarthritis: Research"
-excerpt: "Researchers from the University of Jyvaskyla and the Central Finland Health Care District have developed an AI based neural network to detect an early knee oste"
-publishedDateTime: 2022-12-17T11:02:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/273223818/artificial-intelligence-searches-for-early-sign-of-osteoarthritis-research"
-webUrl: "https://www.bignewsnetwork.com/news/273223818/artificial-intelligence-searches-for-early-sign-of-osteoarthritis-research"
+excerpt: "In practice, the AI tries to detect whether there is spiking on the tibial tubercles in the knee joint or not. Tibial spiking can be a sign of osteoarthritis."
+publishedDateTime: 2022-12-17T10:29:00Z
+originalUrl: "https://telanganatoday.com/artificial-intelligence-searches-for-early-sign-of-osteoarthritis-research"
+webUrl: "https://telanganatoday.com/artificial-intelligence-searches-for-early-sign-of-osteoarthritis-research"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Telangana Today
+  domain: telanganatoday.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/ani1671275121.jpg"
-    width: 630
-    height: 420
+  - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/12/Artificial-Intelligence.jpg"
+    width: 1280
+    height: 750
     isCached: true
 
 related:
@@ -58,6 +58,6 @@ related:
         height: 480
         isCached: true
 
-secured: "ldFdptyioHIXpnVfWLvE43W9kU4iN2Ru0q2ycpxRJLCM4sIn9wdLFM71DU+sFKxOGkLzDvUD8bxMp33XcXPxow7wPrQ3AjazP1JfddHbOKwSte2EnefA/x6z5Otbhe/zlA11lEu17aGG7LbMtgeb4pIljYBccHRtgs38/rxhz8dv0RDJrPhRr0zKVml+07J0m2jwkWcTd0M/hsB70lyht4eZE30w5FqWCY3ls4E6CFNW8gUie8QoORWLFDBkBHFKivWczP6libbGgDeVVtdocencjf1WM8nXH7sWs3fYanj2cKm6/X2vrrOMpv62ouuOxFF3P72LdgMBFtoE9YiYLM33AP25e+VumPHQKL2I5Xc=;DB8aaRSMV+KPSowFllbojw=="
+secured: "/fpO1B/L2S0kHKFwgW4sivAdppK1Rf+XTmvXL1WwGtjbqJHGHiXMgjO8SjeFmaZqsZUn/dON3MEt8+iHl90Qd1kHjEX8naEwsRuDQO+nTDYYUw2s/bKyExFgq9rd8+o6d2oC0pHEQrpnLS8tvStYyJkoXjoxZsDD1ggfHhw8zLDzqpbfNJvCU4NKb+zk4BXjYwMRJoW+lrMDaIxqWK6EQXFoBmSu5IpKVK8mRZTll7l2s+yEvDkElQWeNNIwyBPP0uqm5HjwZRMt8ZoF1LGGfqk835Y6vkGZ0pmRrdG9xcj6NaNnn3BywSWaLSHrAlqBNE1P76DpR64NHU30SlN4++SM7mT5ZB9Ws3KVX7z/jAE=;9MPWdxrk8K6EV8sSyWuvcA=="
 ---
 

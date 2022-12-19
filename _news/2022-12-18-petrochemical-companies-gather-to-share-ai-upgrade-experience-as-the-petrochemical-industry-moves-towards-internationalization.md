@@ -24,6 +24,22 @@ images:
     height: 222
     isCached: true
 
+related:
+  - title: "Petrochemical companies gather to share AI upgrade experience as the petrochemical industry moves towards internationalization"
+    excerpt: "As a petrochemical hub, Kaohsiung has played the role of the backbone of other industries over the years. Amid multiple global uncertainties"
+    publishedDateTime: 2022-12-19T02:27:00Z
+    webUrl: "https://www.asiaone.com/business/petrochemical-companies-gather-share-ai-upgrade-experience-petrochemical-industry-moves"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 11
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Dec2022/From_left_right__Jonathan_Yu_Sales_Director_Profet_AI__William.jpg?itok=3TZ5qN4H"
+        width: 599
+        height: 333
+        isCached: true
+
 secured: "aehddrM1lbuspI/HbSyXic2FePYwx9VQQDKfMUKT7wZ+YT9FDg2OWuhDA8sLREbX4rp0asqkwR1QA1JPCYdGPmfwuo/nJxsfmVYOOwRsXSocTektNHkKAGZM4sl8KTP4F57UKU0ZDrMB20DIeJmdta1jCiXGEAGQH9nWzQpiC5DZPgTtK7kXaJ43+KySEaqeJsdci9YXjKuaXHVvypuoRd+NLF64WokpC0CtSsXJPprGjqdXm0lmwmENOYu1WudjFnQmMVMXOgxssP00/xOdFhPSQZaK+3c1/Uxmp7pSMITwClqsGqGpjEuGgDfORG7BTbSlWm4qSthPpYcAblpf6wIqi8p7IsFpCXk9c2VmHq8=;MMcbbhcOYiJ6ABywMOAHUQ=="
 ---
 

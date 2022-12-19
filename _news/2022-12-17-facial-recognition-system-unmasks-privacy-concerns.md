@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newindianexpress.com/states/tamil-nadu/2022/dec/17/facia
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/tamil-nadu/2022/dec/17/facial-recognition-system-unmasks-privacy-concerns-2528937.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The New Indian Express
@@ -42,6 +42,20 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2022/12/16/08/65647741-0-image-a-2_1671178832008.jpg"
         width: 636
         height: 382
+        isCached: true
+  - title: "TSA trying out facial recognition system at several new airports"
+    excerpt: "It is the new technology facing travelers as they fly for the holidays. RELATED: How does facial recognition technology work? The Transportation Security Administration is now scanning your face at select airport checkpoints as part of a growing test with passengers as the subjects."
+    publishedDateTime: 2022-12-19T02:48:00Z
+    webUrl: "https://abc7chicago.com/airport-facial-recognition-tsa-technology-search/12588271/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 54
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/12588274_121822-wls-face-recognition-img.jpg?w=1600"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "R/BNRTmamauU8A9YiJWQCl/5Z7SYRo9p6W2GmlP6f5PKpr/PkJoYj3UeTJvatwbPbna/W/rDoEGiW1W+AU1Smqv6lCZ264Lw0APnXHJNLXSPJSmynTHSFKJ+M34xFoJRkLDXNGu/vCID3WARi0TyEilVCt0vvOl2yrBzSIOSRXJzteiK0iBB4Vii3eQ/V2QpdQj1pfwa6UuMv4MAkG3Eiq4mkTgRMR+xf3YXNQSfnB1LHhd76nKvMJwXz2CXDSW7a8CigAfcCKEbkaMTpNlaJXORgjtFVA+y0msAA+ZHYwS4HEi2enbvJu8msJe+pvWJA/ww72znb9XKodJIauFVAybroyJg7aRdJuHhxcv60dg=;fwmVR3ckumjJ+AU9Va3FSg=="

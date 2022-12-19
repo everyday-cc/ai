@@ -29,18 +29,18 @@ related:
       domain: sciencedaily.com
     quality: 44
   - title: "Artificial Intelligence searches for early sign of osteoarthritis: Research"
-    excerpt: "Researchers from the University of Jyvaskyla and the Central Finland Health Care District have developed an AI based neural network to detect an early knee oste"
-    publishedDateTime: 2022-12-17T11:02:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273223818/artificial-intelligence-searches-for-early-sign-of-osteoarthritis-research"
+    excerpt: "In practice, the AI tries to detect whether there is spiking on the tibial tubercles in the knee joint or not. Tibial spiking can be a sign of osteoarthritis."
+    publishedDateTime: 2022-12-17T10:29:00Z
+    webUrl: "https://telanganatoday.com/artificial-intelligence-searches-for-early-sign-of-osteoarthritis-research"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
+      name: Telangana Today
+      domain: telanganatoday.com
     quality: 37
     images:
-      - url: "https://cdn.bignewsnetwork.com/ani1671275121.jpg"
-        width: 630
-        height: 420
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/12/Artificial-Intelligence.jpg"
+        width: 1280
+        height: 750
         isCached: true
   - title: "Artificial intelligence searches an early sign of osteoarthritis from an X-ray image – might save from unnecessary treatments and examination"
     excerpt: "Researchers from the University of Jyväskylä and the Central Finland Health Care District have developed an AI based neural network to detect an early knee osteoarthritis from x-ray images."

@@ -35,6 +35,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "What Psychology Means for the Future of Self-Driving Cars"
+    excerpt: "Short of teleportation, few technological dreams are more appealing than getting from point A to point B in a self-driving car: a vehicle able to whisk you away at a moment’s command, and that grants countless hours of newfound free time en route."
+    publishedDateTime: 2022-12-14T17:51:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/your-internet-brain/202212/what-psychology-means-for-the-future-of-self-driving-cars"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/your-internet-brain/202212/what-psychology-means-for-the-future-of-self-driving-cars?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/your-internet-brain/202212/what-psychology-means-for-the-future-of-self-driving-cars?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 44
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2022-12/junior-reis-98AVD0fctzA-unsplash.jpeg.jpg?itok=S2707TvJ"
+        width: 1528
+        height: 800
+        isCached: true
 
 secured: "hpGFoQFLJAoYbVulgQtIQ44vZ5kfPmGJUHitSLSyh4t0lMBrV2V7/JK2XE04hpP2zbrbNg3ilrlez5bglYty6XCCs4tBnVFzhJUwfFcd37a2Xc7mPjsQOUEEbLYNoFRyl2VswXs6xz5Sq8R7o/y0cWjESRvQRpDHNxdaV3HoXqSjTwbdd5GEP8VFOjTQVBFHCJAXmQ7Wk4qAT7Xe4T2aaG0rH5qxp0vhbOlZJzq4RyGOLbi/jBsoDrv+NGNf/eS2uemCB8pG/CQi0+slbBlIfr316B6aYrUzs2x4r4MEcGVyFPhzguV6AN6u2gQQwomVp6fQMIqLbNqTAfbJeAGmd0xzQ8JtFRr950hp98MnB9+3V88201XhNp669x2rxJdpAO057XB5o3lgUbLCb9NiBMjjMvV2GiH4lVMEDW6zlFXPADFBvsi1K0fs5bvofuIlsHmpDjojzaXJIDAAOoS1bwjQB6xcPz8mr2XLnz2yxu67XMlAZdZQi+q5hsSZ6AfqkrUYRO06MYEt8Lr5tZPgqg==;16ohLMU2LXh58JQFL+XBBQ=="
 ---

@@ -1,46 +1,32 @@
 ---
 category: news
-title: "Tesla reportedly claims its failure to deliver self-driving cars isn't fraud"
-excerpt: "Tesla has come under fire once again for its controversially named Full Self-Driving driver-assist feature. Despite what the name alludes to, FSD doesn't enable a car to drive on its own. The feature can handle certain situations but requires a driver to monitor things at all times and to always be ready to correct mistakes."
-publishedDateTime: 2022-12-16T14:26:00Z
-originalUrl: "https://www.motorauthority.com/news/1138168_tesla-reportedly-claims-its-failure-to-deliver-self-driving-cars-isn-t-fraud"
-webUrl: "https://www.motorauthority.com/news/1138168_tesla-reportedly-claims-its-failure-to-deliver-self-driving-cars-isn-t-fraud"
+title: "Tesla reportedly claims its failure to deliver self-driving cars isn’t fraud"
+excerpt: "Tesla has come under fire once again for its controversially named Full Self-Driving driver-assist feature. Despite what the name alludes to, FSD doesn’t enable a car to drive on its own."
+publishedDateTime: 2022-12-16T13:27:00Z
+originalUrl: "https://fox8.com/automotive/internet-brands/tesla-reportedly-claims-its-failure-to-deliver-self-driving-cars-isnt-fraud/"
+webUrl: "https://fox8.com/automotive/internet-brands/tesla-reportedly-claims-its-failure-to-deliver-self-driving-cars-isnt-fraud/"
+ampWebUrl: "https://fox8.com/automotive/internet-brands/tesla-reportedly-claims-its-failure-to-deliver-self-driving-cars-isnt-fraud/amp/"
+cdnAmpWebUrl: "https://fox8-com.cdn.ampproject.org/c/s/fox8.com/automotive/internet-brands/tesla-reportedly-claims-its-failure-to-deliver-self-driving-cars-isnt-fraud/amp/"
 type: article
-quality: 51
-heat: 91
+quality: 71
+heat: 101
 published: true
 
 provider:
-  name: Motor Authority
-  domain: motorauthority.com
+  name: FOX8 Cleveland
+  domain: fox8.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.hgmsites.net/hug/2022-tesla-model-3_100827310_h.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://fox8.com/wp-content/uploads/sites/12/2022/12/2022-tesla-model-3_100827310_m.jpg?w=1280"
+    width: 640
+    height: 360
     isCached: true
 
 related:
-  - title: "What Psychology Means for the Future of Self-Driving Cars"
-    excerpt: "Short of teleportation, few technological dreams are more appealing than getting from point A to point B in a self-driving car: a vehicle able to whisk you away at a moment’s command, and that grants countless hours of newfound free time en route."
-    publishedDateTime: 2022-12-14T17:51:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/your-internet-brain/202212/what-psychology-means-for-the-future-of-self-driving-cars"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/your-internet-brain/202212/what-psychology-means-for-the-future-of-self-driving-cars?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/your-internet-brain/202212/what-psychology-means-for-the-future-of-self-driving-cars?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 44
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2022-12/junior-reis-98AVD0fctzA-unsplash.jpeg.jpg?itok=S2707TvJ"
-        width: 1528
-        height: 800
-        isCached: true
   - title: "Tesla Full Self-Driving Beta data not upto the mark over the years"
     excerpt: "The Tesla FSD Beta data is actually behind. Compared to other autonomous software in the market, Tesla is barely on the charts."
     publishedDateTime: 2022-12-15T03:21:00Z
@@ -84,6 +70,6 @@ related:
         height: 600
         isCached: true
 
-secured: "FAZEMAXBGsbf70p/CSNUop7KfrEMxHBDg3YS5E4FQscBtz6S3m1W+SN0Zfh3YIFyWwoqbHiDcOX+ipLzCSqYwVFFApfCkBD0RcuahUZVNvcfYcQDMeGsEeOB5mp5yhfwlEIMdsB/NOEyR0BAu4flNc4FexXLEJskZIoY/p05epTJ7bECeAVdA+xAAu+iNwrdujnf+LokBOoufgIEDESR05l+rs2qSQezDtjirZe5LAikgAg8nbBFpPWQVHuCo49owXjhv3JKxIe+fKjGNlqI9C/FyXbJaKBNqnHNKvo+PdOK0nDT+MKJJj1hvawcq/VvQumklOKORGZOG+nO7CRu0edBWZTqu65NlBbmC4LnlVe2yFYTdwX6T+l/3J5ZlNEzu8vbjB25/qu5/GfOX4oF9UATmU8+ToI7RKpt2q18oq0nzpatQHi1dqirdUwhiLVrLHouLSnD7BF6IrLbjUF464ZnN7C03a0NSwfrgath5f+OKrc1tmt67VhIokASPNvPDzHivwHPxw29UYbwxkv2FQ==;Yw3XpOESPwMGlgsiSpaJOg=="
+secured: "4Tv48gbUcH1VwLbwx5HtB1oELTCuUiUnlq5Lfz2njMAMuXwvt5RNlJxP/9tXpsACwcRVgc6EUm45nqHif5NKLQSgPjVBQkGBTl6TRuwumY8thPVbG6aQaiMZZdEFhBaUei3WBaimlKoKJACskLyml9UF2sJrs5lRp+8bWmzeN7FoycQr3yNPcDClJFvoP5hXnj2QIITJDR0oV+azQYpHgdqaDQL6wfKemkHP10UhCHTpWaRe9//QhYQTVGsZlIJfIQrSrnbWYDp+j4B7d1+v7nRidPzzjvtsZguFSfozPZ9UGM8IbjzdEDMS1Q2WHmHBg4k0B1Ps0OTtlqHxe72nHzQsYVohW82W46YUPZWam2U=;MacUnBJHdboz/s1Irb2ZLQ=="
 ---
 

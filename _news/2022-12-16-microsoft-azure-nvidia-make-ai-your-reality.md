@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/microsoft-nvidia/"
 webUrl: "https://venturebeat.com/microsoft-nvidia/"
 type: article
 quality: 101
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -99,6 +99,20 @@ related:
       name: The Buffalo News
       domain: buffalonews.com
     quality: 26
+  - title: "Microsoft announces Future Ready Champions of Code Program to empower India’s developer community"
+    excerpt: "Microsoft today announced the launch of Future Ready Champions of Code, a pan India program for developers, focused on sk"
+    publishedDateTime: 2022-12-19T04:12:00Z
+    webUrl: "https://menafn.com/1105325067/Microsoft-announces-Future-Ready-Champions-of-Code-Program-to-empower-Indias-developer-community"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 26
+    images:
+      - url: "https://menafn.com/updates/pr/2022-12/18/pr_13449_ac98fc28_image_story.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "RhwAaHvaaq+hCQoTgOFz1PtW6hzUR+osGMsIPFHhufUbA86peLWn16WA4AqVSh6iO5kHnGlwyXemFcv9rOB4mdzD+WoJkxKffFizNxqS8Psrdn/5yyMH7nUPrhTYlOM5Ogqr2HMtAX1JOFWboKziiaofQatJ4QavrZMV4GlzU+Sb/JZcKKqHEZYoVHhPfoVxoHuVDBdmJHVhJth6+AH7pXW7uclav2nSyfXyb3Bok5CoszE1CxInuPyqbmyOkVNExsyQZqr7vlaSY48xhFIM8tdBg3dO6ZEgjmQfSUMi1mktGwy4C41u2AC2JhPz6zvHeMFV2bcFA1ncPfdOGpDvodTqicXCVHnfM5NhuHzxWlU37rCb3ps3/CtrPXz/y0x2jkuQN4xjeoDzE7XlJC88GNEyH6iWj0wj/cQmwgjUe5CbML0Nr5tMyC7t9lOxbrgBnDXga0LTCX2RC/isoK7ID7RHXHXoi3XJY3xnYc6n2QAICQ6ocTxPFlnUSZKf4ciGMH3mIH72JPCL89BnwOKyZQ==;8wtD0hGxPQqZP4Y24WO+yg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://phys.org/news/2022-12-atomic-staphylococcal-bacteriophage-
 webUrl: "https://phys.org/news/2022-12-atomic-staphylococcal-bacteriophage-cryo-electron-microscopy.html"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Cryo-electron microscopy reveals atomic structure of Staphylococcus epidermidis bacteriophage"
+    excerpt: "Cryo-electron microscopy by University of Alabama at Birmingham researchers has exposed the structure of a bacterial virus with unprecedented detail."
+    publishedDateTime: 2022-12-19T03:58:00Z
+    webUrl: "https://www.news-medical.net/news/20221218/Cryo-electron-microscopy-reveals-atomic-structure-of-Staphylococcus-epidermidis-bacteriophage.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 13
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Bacteriophage_viruses_infecting_bacterial_cells_%2c_Bacterial_viruses-nobeastsofierce_1f9734ecc24b48b18edf321551d48376-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "A23Nfp7jyb73qsuunAp5xp8/p8O9VC5XjkQHkxWkDPrkHLlXAJ7aPEyKQdsPnJB7ADJu8UYk79wGdpQ2g+WJZT0Y38F6UvJndUARwje2CbPgbgLGHCTZH0QEdxPFcm1ZzL9HXFtvpRVmzHtdoxgaeYwh3m68fQE/dlN85ApArGvB3Jcs7ss3tcN99FmS/O1WsNkc2/Im8+kl2SQpc3rvzqtOfx9Dtwp2DIW4mE4HTbwadrIvGQBuLm9M3mrMLqF3l8QkWjnsJZkPEvKutKbsVUh1nXMIPxgIHVz/zhrMB61M9oN1tInSc1xrF76amcqwFK0CVdkrAT5qNkoEbKrOvH0jqWv1fCmCuK7BV+QnqHwRak/ZPOWFk9x5zBJJ2wmgy9KQQcnnFbFsuCnSfxsfrbEvFi5Bj9OAu4qGWLKY0MLiB8L8hO+iF77DOR+zRtEzKFyO92O7DfiukAeQrJh/6bjSfgvoNEtrnwZgkfaVJR5GYlYXSYpXzXtC6T7hbe7He1gip8fsMkl1+WLHTO4EGA==;Ft8PDYHnpjx/6NrMJ56emg=="
 ---
