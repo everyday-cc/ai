@@ -4,6 +4,278 @@
   "page": 2,
   "value": [
     {
+      "path": "_people/carol-e-reiley.md",
+      "title": "Carol E. Reiley",
+      "excerpt": "Entrepreneur/Scientist/Roboticist. Saving the world, one robot at a time. Cofounder & CEO of healthcare startup. Board member & Advisor of http://drive.ai.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/carol-e-reiley/index.json",
+      "webUrl": "https://everyday.cc/ai/people/carol-e-reiley/",
+      "type": "profile",
+      "name": "Carol E. Reiley",
+      "bio": "Entrepreneur/Scientist/Roboticist. Saving the world, one robot at a time. Cofounder & CEO of healthcare startup. Board member & Advisor of http://drive.ai.",
+      "location": "Los Altos, CA",
+      "website": "https://t.co/wvvOUl1h5W",
+      "twitter": {
+        "username": "robot_MD",
+        "url": "https://twitter.com/robot_MD",
+        "followers": 11640
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/carol-reiley-7a91072/"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/999169921744486400/Vo0GZHaC_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Carol E. Reiley",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/chuen-tsai-sun.md",
+      "title": "Chuen-Tsai Sun",
+      "excerpt": "Professor of Computer Science, National Chiao Tung University",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/chuen-tsai-sun/index.json",
+      "webUrl": "https://everyday.cc/ai/people/chuen-tsai-sun/",
+      "type": "profile",
+      "name": "Chuen-Tsai Sun",
+      "bio": "Professor of Computer Science, National Chiao Tung University",
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=_0PCbyUAAAAJ",
+        "citations": 54226
+      },
+      "affiliation": {
+        "path": "",
+        "name": "nctu.edu.tw",
+        "domain": "nctu.edu.tw"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://scholar.google.com/citations/images/avatar_scholar_128.png",
+          "width": 128,
+          "height": 128,
+          "title": "Chuen-Tsai Sun",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/daniela-l-rus.md",
+      "title": "Daniela L. Rus",
+      "excerpt": "Daniela L. Rus is a roboticist, the Director of the MIT Computer Science and Artificial Intelligence Laboratory, and Andrew and Erna Viterbi Professor in the Department of Electrical Engineering and Computer Science at the Massachusetts Institute of Technology.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/daniela-l-rus/index.json",
+      "webUrl": "https://everyday.cc/ai/people/daniela-l-rus/",
+      "type": "profile",
+      "name": "Daniela L. Rus",
+      "bio": "Daniela L. Rus is a roboticist, the Director of the MIT Computer Science and Artificial Intelligence Laboratory, and Andrew and Erna Viterbi Professor in the Department of Electrical Engineering and Computer Science at the Massachusetts Institute of Technology.",
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/daniela-rus-220b3/"
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=910z20QAAAAJ",
+        "citations": 60668
+      },
+      "wikipedia": {
+        "url": "http://en.wikipedia.org/wiki/Daniela_L._Rus"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "MIT",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          },
+          {
+            "url": "/assets/images/organizations/mit.edu-400x400.jpg",
+            "width": 400,
+            "height": 400,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://scholar.google.com/citations?view_op=medium_photo&user=910z20QAAAAJ&citpid=3",
+          "width": 140,
+          "height": 140,
+          "title": "Daniela L. Rus",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/daniele-bonacorsi.md",
+      "title": "Daniele Bonacorsi",
+      "excerpt": "High-Energy Physics at CERN. Software and Computing for the CMS experiment at the LHC. Big Data Analytics, {M,D}Learning. University of Bologna, INFN, CERN.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/daniele-bonacorsi/index.json",
+      "webUrl": "https://everyday.cc/ai/people/daniele-bonacorsi/",
+      "type": "profile",
+      "name": "Daniele Bonacorsi",
+      "bio": "High-Energy Physics at CERN. Software and Computing for the CMS experiment at the LHC. Big Data Analytics, {M,D}Learning. University of Bologna, INFN, CERN.",
+      "twitter": {
+        "username": "DBonacorsi",
+        "url": "https://twitter.com/DBonacorsi",
+        "followers": 752
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=7_xEzmUAAAAJ",
+        "citations": 170831
+      },
+      "affiliation": {
+        "path": "",
+        "name": "infn.it",
+        "domain": "infn.it"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1841900580/twitter_image_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Daniele Bonacorsi",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/david-lopez-mateos.md",
+      "title": "David Lopez Mateos",
+      "excerpt": "Chief Science Officer at Pace. Formerly VP of Research at Winton, particle physics researcher at Harvard and CERN",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/david-lopez-mateos/index.json",
+      "webUrl": "https://everyday.cc/ai/people/david-lopez-mateos/",
+      "type": "profile",
+      "name": "David Lopez Mateos",
+      "bio": "Chief Science Officer at Pace. Formerly VP of Research at Winton, particle physics researcher at Harvard and CERN",
+      "location": "London, England",
+      "twitter": {
+        "username": "SenorScience",
+        "url": "https://twitter.com/SenorScience",
+        "followers": 16
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=P6krKIkAAAAJ",
+        "citations": 194914
+      },
+      "affiliation": {
+        "path": "",
+        "name": "harvard.edu",
+        "domain": "harvard.edu"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1082941401040650241/SSPcU9t1_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "David Lopez Mateos",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/erekle-magradze.md",
+      "title": "Erekle Magradze",
+      "excerpt": "Director Of Engineering at MaxinAI.  Co-founder of DevOps Georgia",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/erekle-magradze/index.json",
+      "webUrl": "https://everyday.cc/ai/people/erekle-magradze/",
+      "type": "profile",
+      "name": "Erekle Magradze",
+      "bio": "Director Of Engineering at MaxinAI.  Co-founder of DevOps Georgia",
+      "website": "https://georgia.sdsu.edu/en/instructors/erekle-magradze/78",
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/erekle-magradze-73303650/"
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=4mF2FgcAAAAJ",
+        "citations": 364563
+      },
+      "affiliation": {
+        "path": "",
+        "name": "iliauni.edu.ge",
+        "domain": "iliauni.edu.ge"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://scholar.google.com/citations?view_op=view_photo&user=4mF2FgcAAAAJ&citpid=1",
+          "width": 128,
+          "height": 128,
+          "title": "Erekle Magradze",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/fedor-ratnikov.md",
+      "title": "Fedor Ratnikov",
+      "excerpt": "National Research University Higher School of Economics",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/fedor-ratnikov/index.json",
+      "webUrl": "https://everyday.cc/ai/people/fedor-ratnikov/",
+      "type": "profile",
+      "name": "Fedor Ratnikov",
+      "bio": "National Research University Higher School of Economics",
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=vbLFLLEAAAAJ",
+        "citations": 161713
+      },
+      "affiliation": {
+        "path": "",
+        "name": "hse.ru",
+        "domain": "hse.ru"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://scholar.google.com/citations?view_op=view_photo&user=vbLFLLEAAAAJ&citpid=1",
+          "width": 128,
+          "height": 128,
+          "title": "Fedor Ratnikov",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/francisco-matorras.md",
       "title": "Francisco Matorras",
       "excerpt": "Pofessor of Physics, IFCA, Universidad de Cantabria - Consejo Superior de Investigaciones …",
@@ -37,6 +309,50 @@
           "width": 400,
           "height": 400,
           "title": "Francisco Matorras",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/huahai-yang.md",
+      "title": "Huahai Yang",
+      "excerpt": "A technologist and an entrepreneur. Used to be a professor and a research scientist.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/huahai-yang/index.json",
+      "webUrl": "https://everyday.cc/ai/people/huahai-yang/",
+      "type": "profile",
+      "name": "Huahai Yang",
+      "bio": "A technologist and an entrepreneur. Used to be a professor and a research scientist.",
+      "location": "San Jose, CA",
+      "website": "https://t.co/s5ydlRJnm8",
+      "twitter": {
+        "username": "huahaiy",
+        "url": "https://twitter.com/huahaiy",
+        "followers": 946
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/huahaiyang/"
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=KvPSD8EAAAAJ",
+        "citations": 18581
+      },
+      "affiliation": {
+        "path": "",
+        "name": "juji.io",
+        "domain": "juji.io"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1189433763953950721/9-Nr_tN-_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Huahai Yang",
           "isCached": true
         }
       ],
@@ -219,6 +535,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_people/john-krafcik.md",
+      "title": "John Krafcik",
+      "excerpt": "We're building the world's most experienced driver.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/john-krafcik/index.json",
+      "webUrl": "https://everyday.cc/ai/people/john-krafcik/",
+      "type": "profile",
+      "name": "John Krafcik",
+      "bio": "We're building the world's most experienced driver.",
+      "location": "Mountain View, CA",
+      "website": "https://t.co/i1uBCCpct5",
+      "twitter": {
+        "username": "johnkrafcik",
+        "url": "https://twitter.com/johnkrafcik",
+        "followers": 15447
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/johnkrafcik/"
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/John_Krafcik"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1536876629091295238/bJYw0phe_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "John Krafcik",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/jonathan-hays.md",
       "title": "Jonathan Hays",
       "excerpt": "Queen Mary University of London",
@@ -371,6 +725,48 @@
           "height": 400,
           "title": "Karl Iagnemma",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/kyle-cranmer.md",
+      "title": "Kyle Cranmer",
+      "excerpt": "Particle physics, LHC, stats/ML/AI, collaborative & open science. Executive Director Moore-Sloan Data Science Environment at NYU.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/kyle-cranmer/index.json",
+      "webUrl": "https://everyday.cc/ai/people/kyle-cranmer/",
+      "type": "profile",
+      "name": "Kyle Cranmer",
+      "bio": "Particle physics, LHC, stats/ML/AI, collaborative & open science. Executive Director Moore-Sloan Data Science Environment at NYU.",
+      "location": "New York",
+      "website": "https://t.co/OiHC3bfPoX",
+      "twitter": {
+        "username": "KyleCranmer",
+        "url": "https://twitter.com/KyleCranmer",
+        "followers": 14168
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=EZjSxgwAAAAJ",
+        "citations": 215794
+      },
+      "affiliation": {
+        "path": "",
+        "name": "nyu.edu",
+        "domain": "nyu.edu"
+      },
+      "topics": [
+        "AI",
+        "Math for AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1570833173897953280/vPMcsGeY_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Kyle Cranmer",
+          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -591,38 +987,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/madeline-gannon.md",
-      "title": "Madeline Gannon",
-      "excerpt": "Inventing better ways to communicate with machines.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/madeline-gannon/index.json",
-      "webUrl": "https://everyday.cc/ai/people/madeline-gannon/",
-      "type": "profile",
-      "name": "Madeline Gannon",
-      "bio": "Inventing better ways to communicate with machines.",
-      "location": "Pittsburgh, PA",
-      "website": "https://t.co/It4puKUIPF",
-      "twitter": {
-        "username": "madelinegannon",
-        "url": "https://twitter.com/madelinegannon",
-        "followers": 3107
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1564265202266394624/s-FSAQiw_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Madeline Gannon",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/maja-j-mataric.md",
       "title": "Maja J Mataric",
       "excerpt": "Maja J. Matarić is an American computer scientist and roboticist, and the Chan Soon-Shiong Chaired Professor of Computer Science, Neuroscience, and Pediatrics at the University of Southern California.",
@@ -763,363 +1127,6 @@
           "height": 128,
           "title": "Michael I. Jordan",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/nick-bostrom.md",
-      "title": "Nick Bostrom",
-      "excerpt": "Professor at University of Oxford; Director of Future of Humanity Institute; Director of Governance of AI program",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/nick-bostrom/index.json",
-      "webUrl": "https://everyday.cc/ai/people/nick-bostrom/",
-      "type": "profile",
-      "name": "Nick Bostrom",
-      "bio": "Professor at University of Oxford; Director of Future of Humanity Institute; Director of Governance of AI program",
-      "website": "https://nickbostrom.com/",
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=oQwpz3QAAAAJ",
-        "citations": 23562
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Nick_Bostrom"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "ac.uk - Homepage",
-        "domain": "ac.uk - Homepage"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=oQwpz3QAAAAJ&citpid=3",
-          "width": 249,
-          "height": 250,
-          "title": "Nick Bostrom",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/ray-kurzweil.md",
-      "title": "Ray Kurzweil",
-      "excerpt": "Raymond Kurzweil is an American inventor and futurist. He is involved in fields such as optical character recognition, text-to-speech synthesis, speech recognition technology, and electronic keyboard instruments.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/ray-kurzweil/index.json",
-      "webUrl": "https://everyday.cc/ai/people/ray-kurzweil/",
-      "type": "profile",
-      "name": "Ray Kurzweil",
-      "bio": "Raymond Kurzweil is an American inventor and futurist. He is involved in fields such as optical character recognition, text-to-speech synthesis, speech recognition technology, and electronic keyboard instruments.",
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Ray_Kurzweil"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Raymond_Kurzweil_Fantastic_Voyage.jpg/440px-Raymond_Kurzweil_Fantastic_Voyage.jpg",
-          "width": 440,
-          "height": 546,
-          "title": "Ray Kurzweil",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/stuart-j-russell.md",
-      "title": "Stuart J. Russell",
-      "excerpt": "Stuart Jonathan Russell is a computer scientist known for his contributions to artificial intelligence. He is a Professor of Computer Science at the University of California, Berkeley and Adjunct Professor of Neurological Surgery at the University of California, San Francisco. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/stuart-j-russell/index.json",
-      "webUrl": "https://everyday.cc/ai/people/stuart-j-russell/",
-      "type": "profile",
-      "name": "Stuart J. Russell",
-      "bio": "Stuart Jonathan Russell is a computer scientist known for his contributions to artificial intelligence. He is a Professor of Computer Science at the University of California, Berkeley and Adjunct Professor of Neurological Surgery at the University of California, San Francisco. ",
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=2oy3OXYAAAAJ",
-        "citations": 100643
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Stuart_J._Russell"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "berkeley.edu",
-        "domain": "berkeley.edu"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 50,
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/yoshua-bengio.md",
-      "title": "Yoshua Bengio",
-      "excerpt": "Yoshua Bengio OC FRSC is a Canadian computer scientist, most noted for his work on artificial neural networks and deep learning. He was a co-recipient of the 2018 ACM A.M. Turing Award for his work in deep learning.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/yoshua-bengio/index.json",
-      "webUrl": "https://everyday.cc/ai/people/yoshua-bengio/",
-      "type": "profile",
-      "name": "Yoshua Bengio",
-      "bio": "Yoshua Bengio OC FRSC is a Canadian computer scientist, most noted for his work on artificial neural networks and deep learning. He was a co-recipient of the 2018 ACM A.M. Turing Award for his work in deep learning.",
-      "website": "https://mila.quebec/en/yoshua-bengio/",
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=kukA0LcAAAAJ",
-        "citations": 599878
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Yoshua_Bengio"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "mila.quebec - Homepage",
-        "domain": "mila.quebec - Homepage"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Deep Learning"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://scholar.google.com/citations?view_op=view_photo&user=kukA0LcAAAAJ&citpid=3",
-          "width": 105,
-          "height": 128,
-          "title": "Yoshua Bengio",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/christopher-d-manning.md",
-      "title": "Christopher D Manning",
-      "excerpt": "Director, @StanfordAILab. Prof. CS & Linguistics, @Stanford. 🇦🇺 Do #NLProc. Find out what I'm up to at @stanfordnlp. 👋",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/christopher-d-manning/index.json",
-      "webUrl": "https://everyday.cc/ai/people/christopher-d-manning/",
-      "type": "profile",
-      "name": "Christopher D Manning",
-      "bio": "Director, @StanfordAILab. Prof. CS & Linguistics, @Stanford. 🇦🇺 Do #NLProc. Find out what I'm up to at @stanfordnlp. 👋",
-      "location": "Palo Alto",
-      "website": "https://nlp.stanford.edu/~manning/",
-      "twitter": {
-        "username": "chrmanning",
-        "url": "https://twitter.com/chrmanning",
-        "followers": 97825
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=1zmDOdwAAAAJ",
-        "citations": 204393
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Stanford",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          },
-          {
-            "url": "/assets/images/organizations/stanford.edu-400x400.jpg",
-            "width": 400,
-            "height": 400,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Machine Learning"
-      ],
-      "heat": 42,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/512256295542333440/8Jo4w8kV_400x400.jpeg",
-          "width": 400,
-          "height": 400,
-          "title": "Christopher D Manning",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/huahai-yang.md",
-      "title": "Huahai Yang",
-      "excerpt": "A technologist and an entrepreneur. Used to be a professor and a research scientist.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/huahai-yang/index.json",
-      "webUrl": "https://everyday.cc/ai/people/huahai-yang/",
-      "type": "profile",
-      "name": "Huahai Yang",
-      "bio": "A technologist and an entrepreneur. Used to be a professor and a research scientist.",
-      "location": "San Jose, CA",
-      "website": "https://t.co/s5ydlRJnm8",
-      "twitter": {
-        "username": "huahaiy",
-        "url": "https://twitter.com/huahaiy",
-        "followers": 946
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/huahaiyang/"
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=KvPSD8EAAAAJ",
-        "citations": 18581
-      },
-      "affiliation": {
-        "path": "",
-        "name": "juji.io",
-        "domain": "juji.io"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "heat": 42,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1189433763953950721/9-Nr_tN-_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Huahai Yang",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/rosalind-picard.md",
-      "title": "Rosalind Picard",
-      "excerpt": "Rosalind Wright Picard is an American scholar who is Professor of Media Arts and Sciences at MIT, founder and director of the Affective Computing Research Group at the MIT Media Lab, and co-founder of the startups Affectiva and Empatica.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/rosalind-picard/index.json",
-      "webUrl": "https://everyday.cc/ai/people/rosalind-picard/",
-      "type": "profile",
-      "name": "Rosalind Picard",
-      "bio": "Rosalind Wright Picard is an American scholar who is Professor of Media Arts and Sciences at MIT, founder and director of the Affective Computing Research Group at the MIT Media Lab, and co-founder of the startups Affectiva and Empatica.",
-      "location": "Cambridge, MA",
-      "website": "http://t.co/M6c0l3S5lb",
-      "twitter": {
-        "username": "rosalindpicard",
-        "url": "https://twitter.com/rosalindpicard",
-        "followers": 12508
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/rosalind-picard-0111bb/"
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=1-hcASEAAAAJ",
-        "citations": 67127
-      },
-      "affiliation": {
-        "path": "",
-        "name": "MIT",
-        "domain": "mit.edu"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 42,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/423189890545643520/w6Fjk14f_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Rosalind Picard",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/sonja-betschart.md",
-      "title": "Sonja Betschart",
-      "excerpt": "Passionate about using technology to make the world a better place and create new businesses and experiences",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/sonja-betschart/index.json",
-      "webUrl": "https://everyday.cc/ai/people/sonja-betschart/",
-      "type": "profile",
-      "name": "Sonja Betschart",
-      "bio": "Passionate about using technology to make the world a better place and create new businesses and experiences",
-      "location": "Geneva, Switzerland",
-      "twitter": {
-        "username": "sobetschart",
-        "url": "https://twitter.com/sobetschart",
-        "followers": 414
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/sonjabetschart/"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 42,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/722006548713771008/EVgIvepe_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Sonja Betschart",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/alex-smola.md",
-      "title": "Alex Smola",
-      "excerpt": "Director for machine learning at Amazon Web Services, building exciting machine learning tools for data scientists, computer vision, NLP, deep learning and beyond.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/alex-smola/index.json",
-      "webUrl": "https://everyday.cc/ai/people/alex-smola/",
-      "type": "profile",
-      "name": "Alex Smola",
-      "bio": "Director for machine learning at Amazon Web Services, building exciting machine learning tools for data scientists, computer vision, NLP, deep learning and beyond.",
-      "location": "Palo Alto, CA",
-      "website": "http://alex.smola.org/",
-      "twitter": {
-        "username": "smolix",
-        "url": "https://twitter.com/smolix",
-        "followers": 19835
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=Tb0ZrYwAAAAJ",
-        "citations": 152787
-      },
-      "affiliation": {
-        "path": "",
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ],
-      "heat": 20,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1168185464420892672/nxFMdN95_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Alex Smola",
-          "isCached": true
         }
       ],
       "content": "\r\n"
