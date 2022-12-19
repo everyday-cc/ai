@@ -120,20 +120,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Exercise Therapy Device Market with Top Leading Companies, Industry Analysis, CAGR Value, Business Outlook Forecast to 2029"
-    excerpt: "Dec 14, 2022 (The Expresswire) -- \"Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 104 Pages Report\" Global"
-    publishedDateTime: 2022-12-14T07:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/exercise-therapy-device-market-with-top-leading-companies-industry-analysis-cagr-value-business-outlook-forecast-to-2029-2022-12-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence as a Service Market is expected to witness impressive growth between 2023 and 2028 | Including 126 Pages Report"
     excerpt: "Market Updates (360marketupdates.com) published a new research report on Artificial Intelligence as a Service Market 2023 with 126 Pages Report enhance with self-explained tables, pie chart and graph in smart format."
     publishedDateTime: 2022-12-16T02:44:00Z

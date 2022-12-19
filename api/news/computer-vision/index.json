@@ -625,49 +625,6 @@
       ]
     },
     {
-      "path": "_news/2022-12-09-the-tsa-plans-to-take-facial-recognition-technology-nationwide.md",
-      "title": "The TSA plans to take facial recognition technology nationwide",
-      "excerpt": "The Transportation Security Administration has been testing facial recognition technology as an option for travelers at select U.S. airports for years, touting it as a way to speed up identity verification at security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox7austin.com/news/tsa-facial-recognition-technology-nationwide",
-      "originalUrl": "https://www.fox7austin.com/news/tsa-facial-recognition-technology-nationwide",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2022/12/932/470/GettyImages-1159430283.jpg?ve=1&tl=1",
-          "width": 932,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox7austin.com/news/tsa-facial-recognition-technology-nationwide.amp",
-      "cdnAmpWebUrl": "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/news/tsa-facial-recognition-technology-nationwide.amp",
-      "publishedDateTime": "2022-12-09T06:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX 7 Austin KTBC",
-        "domain": "fox7austin.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-09-computer-vision-technology-startup-brodmann17-has-shut-down.md",
       "title": "Computer vision technology startup Brodmann17 has shut down",
       "excerpt": "Brodmann17, an Israeli computer vision technology startup that developed a novel approach to take on a marketplace dominated by Mobileye, shut down this week. Brodmann17’s co-founder and CEO Adi ...",
@@ -707,6 +664,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-the-tsa-plans-to-take-facial-recognition-technology-nationwide.md",
+      "title": "The TSA plans to take facial recognition technology nationwide",
+      "excerpt": "The Transportation Security Administration has been testing facial recognition technology as an option for travelers at select U.S. airports for years, touting it as a way to speed up identity ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/politics/tsa-plans-take-facial-recognition-technology-nationwide",
+      "originalUrl": "https://www.foxbusiness.com/politics/tsa-plans-take-facial-recognition-technology-nationwide",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2022/09/Airport.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/politics/tsa-plans-take-facial-recognition-technology-nationwide.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/tsa-plans-take-facial-recognition-technology-nationwide.amp",
+      "publishedDateTime": "2022-12-08T11:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

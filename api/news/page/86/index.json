@@ -2,6 +2,196 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2022-10-04-techstars-ceo-on-the-future-of-fintech.md",
+      "title": "TechStars CEO On The Future Of FinTech",
+      "excerpt": "Meeting up with TechStars CEO Maëlle Gavet at the Collision conference in Toronto. Here’s what she is excited about in financial technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/633b75a5d5779d3d6278b209/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 835,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/amp/",
+      "publishedDateTime": "2022-10-04T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-robot-that-makes-french-fries-faster-than-humans-developed-in-us.md",
+      "title": "Robot That Makes French Fries \"Faster\" Than Humans Developed In US",
+      "excerpt": "Miso Robotics Inc in Pasadena has started rolling out its Flippy 2 robot, which automates the process of deep frying potatoes, onions and other foods.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602",
+      "originalUrl": "https://www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2022-10/u91evqeo_french-fries-robot-650_625x300_04_October_22.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602/amp/1",
+      "publishedDateTime": "2022-10-04T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-aiello-inc-raises-us58m-to-expand-its-voice-ai-solutions-internationally.md",
+      "title": "Aiello Inc. raises US$5.8M to expand its Voice AI solutions internationally",
+      "excerpt": "Aiello Inc.(Aiello), a leading Natural Language Processing and Voice AI startup, announced it has raised US$5.8M in a Series Pre-A+ funding round led by two major institutional investors, JAFCO Asia and Wistron Corporation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-aiello-inc-raises-us58m-expand-its-voice-ai-/2022/10/04/9685332.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aiello-inc-raises-us58m-expand-its-voice-ai-/2022/10/04/9685332.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1913638/Image__The_Aiello_Voice_Assistant__AVA__has_been_introduced_in_several_international_hotel_brands_in.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-edge-artificial-intelligence-ai-chip-market-research-report-analysis-size-share-growth-research-report-by-regional-and-forecast-2022-to.md",
+      "title": "Edge Artificial Intelligence AI Chip Market Research Report, Analysis, Size, Share, Growth | Research Report by Regional and Forecast 2022 to 2028",
+      "excerpt": "The \"Edge Artificial Intelligence AI Chip market\" report offers a comprehensive analysis, market size and forecast from year to year, trends, growth drivers, challenges, and vendor analysis ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-research-report-analysis-size-share-growth-research-report-by-regional-and-forecast-2022-to-2028-2022-10-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-research-report-analysis-size-share-growth-research-report-by-regional-and-forecast-2022-to-2028-2022-10-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-tesla-ai-day-robots-and-full-self-driving-equals-more-upside.md",
       "title": "Tesla: AI Day, Robots And Full Self-Driving Equals More Upside",
       "excerpt": "Tesla recently announced AI Day with robots and supercomputers. See how TSLA stock's announcements have only heightened the upside potential for the future.",
@@ -990,178 +1180,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-long-term-study-supports-link-between-inflammation-and-cognitive-problems-in-older-breast-cancer-survivors.md",
-      "title": "Long-term study supports link between inflammation and cognitive problems in older breast cancer survivors",
-      "excerpt": "Elevated C-Reactive Protein and Subsequent Patient-Reported Cognitive Problems in Older Breast Cancer Survivors: The Thinking and Living With Cancer Study. Journal of Clinical Oncology , 2022; DOI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/09/220930163202.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/09/220930163202.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-future-of-ai-in-fintech-market-a-comprehensive-study-by-key-players-microsoft-ibm-intel.md",
-      "title": "Future of AI in Fintech Market – A comprehensive study by Key Players: Microsoft, IBM, Intel",
-      "excerpt": "The latest study released on the Global AI in Fintech Market by AMA Research evaluates market size, trend, and forecast to 2027. The AI in Fintech market study covers significant research data and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/future-of-ai-in-fintech-market-a-comprehensive-study-by-key-players-microsoft-ibm-intel",
-      "originalUrl": "https://www.digitaljournal.com/pr/future-of-ai-in-fintech-market-a-comprehensive-study-by-key-players-microsoft-ibm-intel",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/Online-privacy-Meta-AFP-1K-01-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-after-hurricane-ian-robots-to-the-rescue.md",
-      "title": "After Hurricane Ian, Robots To The Rescue",
-      "excerpt": "Flying, swimming, and even crawling robots are becoming vital tools in disaster response. How data from robotic partners can help steer scarce human resources in dangerous terrain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencefriday.com/segments/hurricane-ian-robots-rescue/",
-      "originalUrl": "https://www.sciencefriday.com/segments/hurricane-ian-robots-rescue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Friday",
-        "domain": "sciencefriday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-after-selling-startup-to-baidu-tech-vets-launch-company-building-ai-tools-for-call-centers.md",
-      "title": "After selling startup to Baidu, tech vets launch company building AI tools for call centers",
-      "excerpt": "After selling their last startup to Baidu, a pair of tech vets are jumping back into the crowded space of voice and speech recognition with a company called Seasalt.AI. The startup sells a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2022/after-selling-startup-to-baidu-tech-vets-launch-new-company-building-ai-tools-for-call-centers/",
-      "originalUrl": "https://www.geekwire.com/2022/after-selling-startup-to-baidu-tech-vets-launch-new-company-building-ai-tools-for-call-centers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2016/05/PicMonkey-Collage.jpg",
-          "width": 3000,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T07:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

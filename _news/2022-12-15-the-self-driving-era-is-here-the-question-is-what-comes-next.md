@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "What Psychology Means for the Future of Self-Driving Cars"
-    excerpt: "Short of teleportation, few technological dreams are more appealing than getting from point A to point B in a self-driving car: a vehicle able to whisk you away at a moment’s command, and that grants countless hours of newfound free time en route."
-    publishedDateTime: 2022-12-14T17:51:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/your-internet-brain/202212/what-psychology-means-for-the-future-of-self-driving-cars"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/your-internet-brain/202212/what-psychology-means-for-the-future-of-self-driving-cars?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/your-internet-brain/202212/what-psychology-means-for-the-future-of-self-driving-cars?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 44
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2022-12/junior-reis-98AVD0fctzA-unsplash.jpeg.jpg?itok=S2707TvJ"
-        width: 1528
-        height: 800
-        isCached: true
   - title: "The self driving era is here, just not for the masses"
     excerpt: "Instead of sleek pods without steering wheels ready to chauffeur buyers off the lot, there are mostly driverless Chevy compacts, Chrysler minivans, and Ford box trucks with bolted-on hardware trundling around bits of the U."
     publishedDateTime: 2022-12-15T12:42:00Z

@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-10-31-microsoft-introduces-azure-savings-plans-for-compute.md",
+      "title": "Microsoft Introduces Azure Savings Plans for Compute",
+      "excerpt": "Microsoft recently announced Azure Savings Plans for Compute, providing customers with an easy and flexible way to save significantly on compute services compared to pay-as-you-go prices by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2022/10/azure-savings-plan-compute/",
+      "originalUrl": "https://www.infoq.com/news/2022/10/azure-savings-plan-compute/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.infoq.com/statics_s2_20221108063122/styles/static/images/logo/logo-big.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-30T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-29-why-generative-ai-is-suddenly-on-everyones-lips-its-an-open-field.md",
       "title": "Why “generative AI” is suddenly on everyone’s lips: it’s an “open field”",
       "excerpt": "There's a lot of confusion about generative AI, including how new exactly it is, and whether it's becoming massively overhyped.",
@@ -1259,49 +1302,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-video-gaming-may-be-associated-with-better-cognitive-performance-in-children.md",
-      "title": "Video gaming may be associated with better cognitive performance in children",
-      "excerpt": "A study of nearly 2,000 children found that those who reported playing video games for three hours per day or more performed better on cognitive skills tests involving impulse control and working ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-10-video-gaming-cognitive-children.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-10-video-gaming-cognitive-children.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/child-gaming.jpg",
-          "width": 2880,
-          "height": 1917,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-10-video-gaming-cognitive-children.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-video-gaming-cognitive-children.amp",
-      "publishedDateTime": "2022-10-24T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,40 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-09-20-will-servicenow-be-worth-more-than-microsoft-by-2030.md",
+      "title": "Will ServiceNow Be Worth More Than Microsoft by 2030?",
+      "excerpt": "Just like other richly valued tech stocks, ServiceNow lost some luster as interest rates rose over the past year. Image source: . Nevertheless, ServiceNow has still generated massive gains for its initial investors and will likely continue to generate double-digit sales growth for years to come.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/will-servicenow-be-worth-more-than-microsoft-by-2030",
+      "originalUrl": "https://www.nasdaq.com/articles/will-servicenow-be-worth-more-than-microsoft-by-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/will-servicenow-be-worth-more-than-microsoft-by-2030?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-servicenow-be-worth-more-than-microsoft-by-2030?amp",
+      "publishedDateTime": "2022-09-20T02:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-oracles-short-term-pain-could-be-your-long-term-gain.md",
       "title": "Oracle’s Short-Term Pain Could Be Your Long-Term Gain",
       "excerpt": "Database and cloud solutions provider Oracle (NASDAQ: ORCL) stock got smoked on its fiscal Q1 2023 earnings report. Shares were holding up relatively",
@@ -1222,40 +1256,6 @@
       "provider": {
         "name": "Belfast Telegraph",
         "domain": "belfasttelegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-david-lawrence-centers-and-university-of-south-florida-in-tampa-considering-affiliation.md",
-      "title": "David Lawrence Centers and University of South Florida in Tampa considering affiliation",
-      "excerpt": "The David Lawrence Centers is wading into new territory that could bring clinical trials to local residents diagnosed with Alzheimer’s disease and other cognitive disorders. The nonprofit and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.naplesnews.com/story/news/health/2022/09/14/clinical-trials-dementia-prevention-treatment-could-come-southwest-florida/10360034002/",
-      "originalUrl": "https://www.naplesnews.com/story/news/health/2022/09/14/clinical-trials-dementia-prevention-treatment-could-come-southwest-florida/10360034002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Naples Daily News",
-        "domain": "naplesnews.com",
         "images": null,
         "publishers": null,
         "authors": null

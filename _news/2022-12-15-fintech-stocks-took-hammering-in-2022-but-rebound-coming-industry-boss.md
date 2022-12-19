@@ -35,20 +35,6 @@ related:
         width: 265
         height: 261
         isCached: true
-  - title: "OpenPayd: The Future of Fintech, Embedded Finance and Crypto in 2023"
-    excerpt: "What are the broad trends you expect the fintech industry to focus on in the upcoming year? Why will these areas be the immediate focus for the industry in your opinion? I hate to use the term, but it's a perfect storm."
-    publishedDateTime: 2022-12-14T08:49:00Z
-    webUrl: "https://financialit.net/content/openpayd-future-fintech-embedded-finance-and-crypto-2023"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 39
-    images:
-      - url: "https://financialit.net/sites/default/files/daniel_belda_headshot.jpg"
-        width: 927
-        height: 1013
-        isCached: true
   - title: "Fintech stocks took a hammering in 2022, can they bounce back in 2023 and beyond?"
     excerpt: "After hitting pandemic peaks, the fintech sector has been down for most of 2022. What does the future hold for BNPL and Non Bank stocks?"
     publishedDateTime: 2022-12-14T17:11:00Z
@@ -78,20 +64,6 @@ related:
       - url: "https://www.bbntimes.com/images/articles/global-economy/How_AI_Can_Enhance_the_Fintech_Industry.png"
         width: 1888
         height: 1080
-        isCached: true
-  - title: "Top 10 Fintech App Development Companies In 2023"
-    excerpt: "As we all know, fintech isn’t an incredible financial technology that offers automatic delivery of financial services. According to Statista, the financial app development market is expected to reach $305 billion by the end of 2025."
-    publishedDateTime: 2022-12-14T07:33:00Z
-    webUrl: "https://techbullion.com/top-10-fintech-app-development-companies-in-2023/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/12/unnamed-36-1.jpg"
-        width: 512
-        height: 256
         isCached: true
 
 secured: "5b+Mur/WUEV17wJ0nBjvGZbEYZaq1bgMn2ZScXB0uQe1fiPvOW6JIIWG4itvVhYXt1SouJFGRSSRMV5fhU0WNeVhsOSNynNq8IzP/K+X8Xu3nj4fnHaxOoRHlzAixjok4LnKSUZbf3BpJXDU9Skx1IM8sqsiKT7MfoAn49bnKyOo5bxXG/7ICYhmM7oS95PO7A6MiQ3AGJ0IB+AtPaFlhYkfrFTKAiK+CMdh1zYUwbnel62whek54EXniQJgFAvhdYJhf3WnbAqpq5KOPYLTC3rGczoB3IVIuhi5I0tqcAiEoyab1U4VEjKZiRSKL5Y8vPYeQW3BrhqwLSsYEFJ/XLwyBK93iiCWV4p0hAF3+kCRJ2xg+X/xWXABtEJ7Ic8iWQXfeJ848SvhRtwW66GI1Ve2MVoibrbYc1gNn59vQNXR4MuKhHPutf6m7uCR7jWQU+YrMkSly3Dr38m+eQ8+uDTTSlTqchqdHO5OHkDYCH5VDqnNN81Viu0tXOh+UvJIYWrdnFcwfHvNm00QNuSnUQ==;gRhhOTtKNevyRImtOVyHDA=="

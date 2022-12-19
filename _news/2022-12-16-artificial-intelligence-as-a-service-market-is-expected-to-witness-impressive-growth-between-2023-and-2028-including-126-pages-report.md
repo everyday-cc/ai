@@ -126,20 +126,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Exercise Therapy Device Market with Top Leading Companies, Industry Analysis, CAGR Value, Business Outlook Forecast to 2029"
-    excerpt: "Dec 14, 2022 (The Expresswire) -- \"Pre and Post-COVID Research is Covered and Report Customization is Available | Latest 104 Pages Report\" Global"
-    publishedDateTime: 2022-12-14T07:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/exercise-therapy-device-market-with-top-leading-companies-industry-analysis-cagr-value-business-outlook-forecast-to-2029-2022-12-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Based Medical Device Market 2023 Share, Size, Sales, Growth Drivers, Opportunities, Industry Trends and Forecast to 2028"
     excerpt: "New research publishedas theArtificial Intelligence Based Medical Device Marketresearch report provides an in-depth"
     publishedDateTime: 2022-12-14T09:17:00Z

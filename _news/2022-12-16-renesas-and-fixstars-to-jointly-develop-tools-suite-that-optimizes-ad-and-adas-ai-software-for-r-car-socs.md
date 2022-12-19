@@ -2,9 +2,9 @@
 category: news
 title: "Renesas and Fixstars to Jointly Develop Tools Suite that Optimizes AD and ADAS AI Software for R-Car SoCs"
 excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, and Fixstars Corporation, a global leader in multi-core CPU/GPU/FPGA acceleration technology, today announced the joint development of a suite of tools that allows optimization and fast simulation of software for autonomous driving (AD) systems and advanced driver-assistance systems (ADAS) specifically designed for the R-Car system-on-chip (SoC) devices from Renesas."
-publishedDateTime: 2022-12-15T20:16:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/12/15/9731166.htm"
-webUrl: "https://it.tmcnet.com/news/2022/12/15/9731166.htm"
+publishedDateTime: 2022-12-15T18:42:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/12/15/9731166.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/12/15/9731166.htm"
 type: article
 quality: 2
 heat: -1
@@ -15,7 +15,7 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - Computer Vision
+  - AI Hardware
   - AI
 
 related:
@@ -48,6 +48,6 @@ related:
         height: 630
         isCached: true
 
-secured: "qk0CqoEYwDZeCxO/Iwx40FTO6qbAD6qzmWpu+7HTqE1JyygeNdOCTUZDN0wNOgktcSk68bd83Q7YLe+UXvsmGOsJo2Ydbu9gc3+Xz7NR8Q2OZaYzlem8BT1aAvH0C84bhc6axWpKCGZsikRLOmK4/sLvhlayf0dgnlEnCu+irxhlGgUVebtXteV4lYCu7xHhuaq9PKp27NNkOQ6NkTJ4wn8/7UuSCGSknr38Zud5QHCD402uedENxhFzsPshamS6/T4oyg33brT0Us6jOZZQ0WoptYeu1hrENoSVj+d+CXxuJFoPjTjA3TiC3VPl5gfLKjaER5gYo8Q1OK7lIAQdd0P5g7Bxun9YlPiZS2iB06rH/ZJLXYMk6riQnCN4esL2qL/Hx6Ks6fH8xIp3v/iN1NBaQHE02qzjoqRsh9NqF1RH/oq6mCiweBc7sZb35gpRdjnIrnY6KZRz/QcwsZtxm8BC3hVaK2bLdW5zyyMdeC2fVE1YPOWPrVyM4aul5PMf6ez1PrZaJEbBq53vTY5hJA==;h4l7Qh+BK/ASMYMDf4Rsfw=="
+secured: "AGZmehQAzDLIpJUkKoPJw10uKQd2BEphTlsPYVO7N61DSrKPBJYXQayt8E2eX2lR6sj4Tub6El0DU32Xn6/ArTyrfo6PRzKCgxrLhGeHoa+Jdv1NvKJOzFvT27AEESJT8zi+z4xjymUaZ2I0qjuK4ZNlOsSWXwEX/9oKDkqGVzUQs8swv4ieNGLNENlJ6GEnYO6LZ3Nj/gvttICaH/uAdjC6RcwuyDabENRHOwnaP45aYAr6v4dXHrHAKH1E7m7ZTbBvvkcQs5SeijIsHBLf0heIVxfSAcU/DcFA2yfnQZKuFnYFlH3PHvuSMDCMIQRcLE7YbDSucif+2dl/7G2hdVQHlZVOt8DaFHRuS0VSFmlFJihx/Gyp0rS92NYSMVrkQ3iQA21rqs1E80Dn7UoAV3trXDW3E20IoihfhbJvovHwiEwNPcMEASe8INd0AgjDRS8CwaGxmZecENOKjyo9EXg26mQu4wtk+zXKD4i69ZJB0cXC0NcxbRw6Tpe5FTXOmMXZFChZR7p1Pv5C0HL16Q==;1wVATPUcOddTbBgY24acsw=="
 ---
 

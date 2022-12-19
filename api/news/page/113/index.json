@@ -2,6 +2,168 @@
   "page": 113,
   "value": [
     {
+      "path": "_news/2022-09-12-tech-war-why-the-us-nvidia-chip-ban-is-a-direct-threat-to-beijings-artificial-intelligence-ambitions.md",
+      "title": "Tech war: Why the US Nvidia chip ban is a direct threat to Beijing’s artificial intelligence ambitions",
+      "excerpt": "Nvidia has said that it can continue to ship AI chips from its Hong Kong facility through September 2023. “Most cloud service providers in China use Nvidia chips in their GPU-based products ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3192213/tech-war-why-us-nvidia-chip-ban-direct-threat-beijings-artificial",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3192213/tech-war-why-us-nvidia-chip-ban-direct-threat-beijings-artificial",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-driverless-cars-may-be-impossible-without-drivers-claim-intelligent-serious-people.md",
+      "title": "'Driverless Cars May Be Impossible Without Drivers' Claim Intelligent, Serious People",
+      "excerpt": "Photo: Dietmar Rabich / Wikimedia Commons / “San Francisco (CA, USA), Point Lobos Avenue, Autonomes Auto — 2022 — 3049” / CC BY-SA 4.0 Reuters spoke with Kyle Vogt, CEO of GM’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://jalopnik.com/driverless-cars-may-be-impossible-without-drivers-claim-1849524087",
+      "originalUrl": "https://jalopnik.com/driverless-cars-may-be-impossible-without-drivers-claim-1849524087",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jalopnik",
+        "domain": "jalopnik.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-how-diveplane-uses-explainable-ai-to-bolster-ai-adoption.md",
+      "title": "How Diveplane uses explainable AI to bolster AI adoption",
+      "excerpt": "Diveplane has raised $25M in series A funding for its explainable AI solutions supporting transparent decision-making and data privacy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-diveplane-uses-explainable-ai-to-bolster-ai-adoption/",
+      "originalUrl": "https://venturebeat.com/ai/how-diveplane-uses-explainable-ai-to-bolster-ai-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-black_box_AI_explainable_AI_1324510115-e1662994691115.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-diveplane-uses-explainable-ai-to-bolster-ai-adoption/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-diveplane-uses-explainable-ai-to-bolster-ai-adoption/amp/",
+      "publishedDateTime": "2022-09-12T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-third-paris-metro-line-introduces-driverless-trains.md",
+      "title": "Third Paris Metro line introduces driverless trains",
+      "excerpt": "Almost half (20) of the trains on the line will be driverless by the end of 2022 and the entire line is expected to be fully automated by the end of 2023, as the RATP promises a “70 percent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thelocal.fr/20220912/third-paris-metro-line-introduces-driverless-trains/",
+      "originalUrl": "https://www.thelocal.fr/20220912/third-paris-metro-line-introduces-driverless-trains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Local",
+        "domain": "thelocal.fr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-12-how-technologies-such-as-ai-ml-and-deep-learning-are-paving-the-way-for-the-digitalization-of-the-construction-industry.md",
       "title": "How technologies such as AI, ML, and deep learning are paving the way for the digitalization of the construction industry?",
       "excerpt": "The construction industry has been long reliant on tedious manual work, obsolete practices, legacy systems and exhausting paperwork. Moreover, the global construction industry has been relatively slow to adopt the technology.",
@@ -984,177 +1146,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up.md",
-      "title": "Amazon’s Alexa inventor Tunstall-Pedoe raises $20m for AI start-up",
-      "excerpt": "Cambridge- and London-based company, Unlikely AI, will start hiring developers of a new type of artificial-intelligence software",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesslive.co.za/bloomberg/news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up/",
-      "originalUrl": "https://www.businesslive.co.za/bloomberg/news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/VLjtmzFKD1z7eYCoxeEx4CSKQc3U5rT_BbleCyhZwv2isWzzu350eDYF39-ksetybKmDelGAp7n4RKSik2_tBDFVpU659CtMRRsFhP2KW0F8vAI=s512",
-          "width": 512,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businesslive.co.za/amp/bloomberg/news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up/",
-      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bloomberg/news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up/",
-      "publishedDateTime": "2022-09-12T02:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businesslive.co.za",
-        "domain": "businesslive.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch.md",
-      "title": "INSIGHT-Truly autonomous cars may be impossible without helpful human touch",
-      "excerpt": "Autonomous vehicle (AV) startups have raised tens of billions of dollars based on promises to develop truly self-driving cars, but industry executives and experts say remote human supervisors may be needed permanently to help robot drivers in trouble.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-0",
-      "originalUrl": "https://www.nasdaq.com/articles/insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-0?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-0?amp",
-      "publishedDateTime": "2022-09-12T01:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-best-interactive-voice-response-services-of-2022.md",
-      "title": "Best Interactive Voice Response services of 2022",
-      "excerpt": "The IVR feature aims to provide an intuitive self-service using advanced voice recognition technology, to help improve the customer experience whilst freeing up agents to handle more complex queries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/best/best-interactive-voice-response-ivr-services",
-      "originalUrl": "https://www.techradar.com/best/best-interactive-voice-response-ivr-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/yu9btmXK2MPsv5ZFBBcGAg-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-11T23:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-on-kennedys-moonshot-speech-anniversary-biden-to-push-fight-against-cancer.md",
-      "title": "On Kennedy's moonshot speech anniversary, Biden to push fight against cancer",
-      "excerpt": "In 2022, the American Cancer Society estimates, 1.9 million new cancer cases will be diagnosed and 609,360 people will die of cancer diseases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/world-news/on-kennedy-s-moonshot-speech-anniversary-biden-to-push-fight-against-cancer-101662958934994.html",
-      "originalUrl": "https://www.hindustantimes.com/world-news/on-kennedy-s-moonshot-speech-anniversary-biden-to-push-fight-against-cancer-101662958934994.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2022/09/12/1600x900/Biden-Cancer-Moonshot-0_1662960013318_1662960013318_1662960065439_1662960065439.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/world-news/on-kennedy-s-moonshot-speech-anniversary-biden-to-push-fight-against-cancer-101662958934994-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/on-kennedy-s-moonshot-speech-anniversary-biden-to-push-fight-against-cancer-101662958934994-amp.html",
-      "publishedDateTime": "2022-09-11T22:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

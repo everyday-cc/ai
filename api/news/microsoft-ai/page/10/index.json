@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-09-28-atscale-announces-data-science-and-enterprise-ai-capabilities-within-semantic-layer-platform.md",
+      "title": "AtScale Announces Data Science and Enterprise AI Capabilities Within Semantic Layer Platform",
+      "excerpt": "AtScale, the leading provider of semantic layer solutions for modern business intelligence and data science teams, today",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/atscale-announces-data-science-and-enterprise-ai-capabilities-within-semantic-layer-platform-2022-09-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/atscale-announces-data-science-and-enterprise-ai-capabilities-within-semantic-layer-platform-2022-09-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-28T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-28-3-cognitive-errors-that-can-lead-to-rumination.md",
       "title": "3 Cognitive Errors That Can Lead to Rumination",
       "excerpt": "Alice Boyes, Ph.D., translates principles from Cognitive Behavioral Therapy and social psychology into tips people can use in their everyday lives.",
@@ -1338,40 +1390,6 @@
       "provider": {
         "name": "Daily Herald",
         "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-will-servicenow-be-worth-more-than-microsoft-by-2030.md",
-      "title": "Will ServiceNow Be Worth More Than Microsoft by 2030?",
-      "excerpt": "Just like other richly valued tech stocks, ServiceNow lost some luster as interest rates rose over the past year. Image source: . Nevertheless, ServiceNow has still generated massive gains for its initial investors and will likely continue to generate double-digit sales growth for years to come.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/will-servicenow-be-worth-more-than-microsoft-by-2030",
-      "originalUrl": "https://www.nasdaq.com/articles/will-servicenow-be-worth-more-than-microsoft-by-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/will-servicenow-be-worth-more-than-microsoft-by-2030?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-servicenow-be-worth-more-than-microsoft-by-2030?amp",
-      "publishedDateTime": "2022-09-20T02:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

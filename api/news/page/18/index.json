@@ -2,6 +2,198 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-12-01-artificial-intelligence-ai-in-precision-farming-market-demand-and-growth-analysis-report-2022-2028-microsoft-ibm.md",
+      "title": "Artificial Intelligence (AI) in Precision Farming Market Demand and Growth Analysis Report 2022-2028 | Microsoft, IBM",
+      "excerpt": "Artificial intelligence (AI) plays an important role in precision farming, helping farmers make better decisions to optimize their crops and operations. AI can be used to gather data from the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-precision-farming-market-demand-and-growth-analysis-report-2022-2028-microsoft-ibm",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-precision-farming-market-demand-and-growth-analysis-report-2022-2028-microsoft-ibm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://xherald.com/wp-content/uploads/2022/12/Artificial-Intelligence-AI-in-Precision-Farming-Image1-1.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T03:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-how-fintech-can-help-you-weather-a-recession.md",
+      "title": "How Fintech Can Help You Weather A Recession",
+      "excerpt": "With many in fear of a recession, a growing number of businesses are in need of grant funding, and there are not many search engines that are cataloging the grants offered by thousands of organizations. Very few opportunities are in the marketplace that offers fintech services to help growing businesses with this catalog of offerings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/01/how-fintech-can-help-you-weather-a-recession/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/01/how-fintech-can-help-you-weather-a-recession/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61b210016811815c378fdd64/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/01/how-fintech-can-help-you-weather-a-recession/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/01/how-fintech-can-help-you-weather-a-recession/amp/",
+      "publishedDateTime": "2022-12-01T03:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-aws-updates-its-machine-learning-service-sagemaker.md",
+      "title": "AWS updates its machine learning service SageMaker",
+      "excerpt": "Invent 2022, the cloud services provider updated its managed machine learning service to include new notebook and governance features.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3681891/aws-updates-its-machine-learning-service-sagemaker.html",
+      "originalUrl": "https://www.infoworld.com/article/3681891/aws-updates-its-machine-learning-service-sagemaker.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 291,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/10/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3681891/aws-updates-its-machine-learning-service-sagemaker.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3681891/aws-updates-its-machine-learning-service-sagemaker.amp.html",
+      "publishedDateTime": "2022-12-01T03:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-mercedes-bosch-open-worlds-first-self-driving-valet.md",
+      "title": "Mercedes, Bosch open world's first self-driving valet",
+      "excerpt": "Mercedes-Benz and Bosch will initially operate their automated valet in the parking garage of Stuttgart Airport.",
+      "sourceUrl": null,
+      "webUrl": "https://www.motorauthority.com/news/1124163_mercedes-bosch-open-world-s-first-self-driving-valet",
+      "originalUrl": "https://www.motorauthority.com/news/1124163_mercedes-bosch-open-world-s-first-self-driving-valet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hgmsites.net/hug/mercedes-benz-and-bosch-automated-valet-parking-at-stuttgart-airport_100867370_h.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Motor Authority",
+        "domain": "motorauthority.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-digiyatra-facial-recognition-system-launches-at-airports-how-this-will-change-security.md",
       "title": "DigiYatra facial recognition system launches at airports: How this will change security",
       "excerpt": "DigiYatra, the brainchild of the Ministry of Civil Aviation, allows airline passengers to be automatically processed based on a facial recognition system at several checkpoints including entry, security check and boarding aircraft.",
@@ -950,168 +1142,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-experimental-alzheimers-drug-slows-cognitive-decline.md",
-      "title": "Experimental Alzheimer’s Drug Slows Cognitive Decline",
-      "excerpt": "The experimental Alzheimer’s disease drug lecanemab slowed cognitive decline in some people with early Alzheimer’s disease but also caused serious side effects in some patients, according to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.everydayhealth.com/alzheimers-disease/experimental-alzheimers-drug-slows-cognitive-decline/",
-      "originalUrl": "https://www.everydayhealth.com/alzheimers-disease/experimental-alzheimers-drug-slows-cognitive-decline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.everydayhealth.com/images/experimental-alzheimers-drug-lecanemab-slows-decline-1440x810.jpg?sfvrsn=ff019268_1",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T14:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Everyday Health",
-        "domain": "everydayhealth.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-you-can-use-an-ai-time-machine-to-see-what-youd-look-like-in-different-eras-throughout-history.md",
-      "title": "You can use an AI Time Machine to see what you'd look like in different eras throughout history",
-      "excerpt": "A TikTok trend popularized the MyHeritage's AI Time Machine, which generates realistic photos of what you would have looked like in past eras.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/you-can-use-an-ai-time-machine-to-see-what-youd-look-like-in-different-eras-throughout-history/",
-      "originalUrl": "https://www.zdnet.com/article/you-can-use-an-ai-time-machine-to-see-what-youd-look-like-in-different-eras-throughout-history/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/86ddfe1750a7efb96b8b25cae5b8ae865ab2da1e/2022/11/30/f0f35286-c582-4dd0-9d7f-646a208b153f/2022.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/you-can-use-an-ai-time-machine-to-see-what-youd-look-like-in-different-eras-throughout-history/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/you-can-use-an-ai-time-machine-to-see-what-youd-look-like-in-different-eras-throughout-history/",
-      "publishedDateTime": "2022-11-30T13:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the-future.md",
-      "title": "Stability AI Selects AWS as Its Preferred Cloud Provider to Build Artificial Intelligence for the Future",
-      "excerpt": "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Stability AI, a community-driven, open-source artificial intelligence (AI) company, has selected AWS as its preferred ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the/article_ba31c368-9cb5-59ae-b8ca-f429474c58d5.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/stability-ai-selects-aws-as-its-preferred-cloud-provider-to-build-artificial-intelligence-for-the/article_ba31c368-9cb5-59ae-b8ca-f429474c58d5.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T13:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-san-francisco-votes-to-allow-police-to-deploy-robots-that-kill.md",
-      "title": "San Francisco votes to allow police to deploy robots that kill",
-      "excerpt": "City supervisors in San Francisco on Tuesday voted to give police the ability to deploy potentially lethal, remote-controlled robots in emergency situations. The move would allow officers to use ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2022/11/30/san-francisco-police-killer-robots-motion-passes/",
-      "originalUrl": "https://nypost.com/2022/11/30/san-francisco-police-killer-robots-motion-passes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T13:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

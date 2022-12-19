@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-12-07-asus-confirms-tuf-gaming-radeon-rx-7900-xtx-gpu-clock-speeds-up-to-2615mhz.md",
+      "title": "ASUS confirms TUF Gaming Radeon RX 7900 XTX GPU clock speeds: up to 2615MHz",
+      "excerpt": "ASUS has officially confirmed some specifications -- and, more importantly, the GPU clock frequencies -- of its upcoming TUF Gaming Radeon RX 7900 series graphics cards. The upcoming ASUS TUF ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/89766/asus-confirms-tuf-gaming-radeon-rx-7900-xtx-gpu-clock-speeds-up-to-2615mhz/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/89766/asus-confirms-tuf-gaming-radeon-rx-7900-xtx-gpu-clock-speeds-up-to-2615mhz/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/8/9/89766_507_asus-confirms-tuf-gaming-radeon-rx-7900-xtx-gpu-clock-speeds-up-to-2615mhz.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T14:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-07-gpu-prices-and-availability-december-2022-how-much-are-gpus-today.md",
       "title": "GPU prices and availability (December 2022): How much are GPUs today?",
       "excerpt": "The GPU shortage is over, and gamers around the world can breathe a sigh of relief. For those in the market for one of the best graphics cards, we closely looked at graphics card prices and ...",
@@ -1398,58 +1441,6 @@
         "AI",
         "Facebook AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-predictions-for-ai-video-chips-and-more-in-2023-deloitte.md",
-      "title": "Predictions for AI, video, chips and more in 2023 | Deloitte",
-      "excerpt": "The new year will see AI tools for chip design, video streams with ad support, and a crowd of satellites in space, according to Deloitte.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/predictions-for-ai-video-chips-and-more-in-2023-deloitte/",
-      "originalUrl": "https://venturebeat.com/ai/predictions-for-ai-video-chips-and-more-in-2023-deloitte/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/11/deloitte-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/predictions-for-ai-video-chips-and-more-in-2023-deloitte/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/predictions-for-ai-video-chips-and-more-in-2023-deloitte/amp/",
-      "publishedDateTime": "2022-11-29T21:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,198 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-12-12-business-leaders-are-still-nervous-about-the-side-effects-of-artificial-intelligence.md",
+      "title": "Business Leaders Are Still Nervous About the Side Effects Of Artificial Intelligence",
+      "excerpt": "Real money — and lots of it — is on the line, and, ultimately, there is fear that AI may be more fad than substance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/12/11/business-leaders-are-still-nervous-about-the-side-effects-of-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/12/11/business-leaders-are-still-nervous-about-the-side-effects-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63962194b4116abe893ef9b2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/12/11/business-leaders-are-still-nervous-about-the-side-effects-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/12/11/business-leaders-are-still-nervous-about-the-side-effects-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-12-11T09:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-12-11-rbi-shortlists-7-global-consultancy-firms-to-use-artificial-intelligence-and-machine-learning.md",
+      "title": "RBI shortlists 7 global consultancy firms to use artificial intelligence and machine learning",
+      "excerpt": "The bank now intends to upscale it to ensure that the benefits of advanced analytics can accrue to Department of Supervision in central bank",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraphindia.com/business/reserve-bank-of-india-shortlists-7-global-consultancy-firms-to-use-artificial-intelligence-and-machine-learning-to-improve-regulatory-supervision/cid/1903251",
+      "originalUrl": "https://www.telegraphindia.com/business/reserve-bank-of-india-shortlists-7-global-consultancy-firms-to-use-artificial-intelligence-and-machine-learning-to-improve-regulatory-supervision/cid/1903251",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telegraphindia.com/telegraph/2021/Feb/1612296852_reserve-bank-of-india.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraphindia.com/amp/business/reserve-bank-of-india-shortlists-7-global-consultancy-firms-to-use-artificial-intelligence-and-machine-learning-to-improve-regulatory-supervision/cid/1903251",
+      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/reserve-bank-of-india-shortlists-7-global-consultancy-firms-to-use-artificial-intelligence-and-machine-learning-to-improve-regulatory-supervision/cid/1903251",
+      "publishedDateTime": "2022-12-11T02:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-12-11-common-gpu-problems-and-how-to-fix-them.md",
+      "title": "Common GPU problems and how to fix them",
+      "excerpt": "If you use a desktop PC or laptop for long enough, chances are you’re going to come across one of the common GPU problems that have plagued gamers and workers since the humble graphics card ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/common-gpu-problems-how-to-fix/",
+      "originalUrl": "https://www.digitaltrends.com/computing/common-gpu-problems-how-to-fix/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/10/rtx-4090-suprim-x-5.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/common-gpu-problems-how-to-fix/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/common-gpu-problems-how-to-fix/?amp",
+      "publishedDateTime": "2022-12-10T23:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-11-srm-hosts-meet-on-deep-learning-for-image-restoration-computer-vision.md",
+      "title": "SRM hosts meet on deep learning for image restoration & computer vision",
+      "excerpt": "VIJAYAWADA: SRM University-AP hosted the IEEE SPS Winter School on ‘Deep Learning for Image Restoration and Computer Vision’ from December 5 to 10. Department of Electronics and Communication ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/cities/vijayawada/2022/dec/11/srm-hosts-meet-on-deep-learning-for-image-restoration--computer-vision-2527047.html",
+      "originalUrl": "https://www.newindianexpress.com/cities/vijayawada/2022/dec/11/srm-hosts-meet-on-deep-learning-for-image-restoration--computer-vision-2527047.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/9/18/w600X390/Computer.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/cities/vijayawada/2022/dec/11/srm-hosts-meet-on-deep-learning-for-image-restoration--computer-vision-2527047.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/vijayawada/2022/dec/11/srm-hosts-meet-on-deep-learning-for-image-restoration--computer-vision-2527047.amp",
+      "publishedDateTime": "2022-12-10T19:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-12-11-facial-recognition-attendance-for-teachers-students-in-state.md",
       "title": "Facial recognition attendance for teachers, students in state",
       "excerpt": "Uttar Pradesh government has rolled out a facial recognition-based teacher and student attendance monitoring system for public schools in the state.",
@@ -1004,187 +1196,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-10-ai-generated-avatars-are-quirky-and-easy-to-make-but-are-they-ethical.md",
-      "title": "AI Generated Avatars Are Quirky and Easy to Make, but Are They Ethical?",
-      "excerpt": "While AI is a fascinating tool, it comes with its own sets of problems. The neural network used by the app relies on the data from images on the intern",
-      "sourceUrl": null,
-      "webUrl": "https://www.thequint.com/neon/hot-take/magic-avatars-lensa-app-ai-generated-pictures-criticised-by-artists",
-      "originalUrl": "https://www.thequint.com/neon/hot-take/magic-avatars-lensa-app-ai-generated-pictures-criticised-by-artists",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thequint.com/thequint%2F2022-12%2F2fb99c95-25d1-4f6d-8a4d-4f77edf9d86f%2FNeon_Hero_Image__5_.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thequint.com/amp/story/neon/hot-take/magic-avatars-lensa-app-ai-generated-pictures-criticised-by-artists",
-      "cdnAmpWebUrl": "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/neon/hot-take/magic-avatars-lensa-app-ai-generated-pictures-criticised-by-artists",
-      "publishedDateTime": "2022-12-09T08:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Quint",
-        "domain": "thequint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-deepminds-alphacode-attains-average-rating-in-programming-competition.md",
-      "title": "DeepMind's AlphaCode attains 'average' rating in programming competition",
-      "excerpt": "A team of researchers at DeepMind has tackled another difficult task—generating computer code to satisfy a natural language request. In their paper published in the journal Science, the group describes the approach they used in creating their AI app and outline how well it did when pitted against human programmers.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-12-deepmind-alphacode-average-competition.html",
-      "originalUrl": "https://techxplore.com/news/2022-12-deepmind-alphacode-average-competition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/computing.jpg",
-          "width": 1920,
-          "height": 1282,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-12-deepmind-alphacode-average-competition.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-deepmind-alphacode-average-competition.amp",
-      "publishedDateTime": "2022-12-09T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-i-entered-a-pun-competition-my-jokes-were-written-by-an-ai-chatbot.md",
-      "title": "I Entered a Pun Competition. My Jokes Were Written by an AI Chatbot.",
-      "excerpt": "ChatGPT, a trendy new artificial intelligence robot, can generate all sorts of writing. But is it punny?",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/chatgpt-ai-chatbot-punderdome-jokes-11670602696",
-      "originalUrl": "https://www.wsj.com/articles/chatgpt-ai-chatbot-punderdome-jokes-11670602696",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-682317/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-09T07:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-apple-self-driving-ev-delayed-to-2026-likely-to-start-under-100000.md",
-      "title": "Apple Self-Driving EV Delayed to 2026, Likely to Start under $100,000",
-      "excerpt": "Apple has also scaled back its self-driving plans, with the car including traditional driving controls and only planned to be capable of autonomous driving on highways. The target is to sell the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/apple-self-driving-ev-delayed-144700351.html",
-      "originalUrl": "https://www.aol.com/apple-self-driving-ev-delayed-144700351.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_car_and_driver_636/d8d9076b5e16b2172a0d9337e5e9d4d0",
-          "width": 626,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-09T07:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

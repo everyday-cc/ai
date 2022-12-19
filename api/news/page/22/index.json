@@ -2,6 +2,170 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2022-11-29-andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital.md",
+      "title": "Andrew Ng’s Netail offers AI for retailers to ease change from physical to digital",
+      "excerpt": "Netail, which closed $5M in seed funding, enables retailers to identify competitors, track their inventory, and optimize prices.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/",
+      "originalUrl": "https://venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/amp/",
+      "publishedDateTime": "2022-11-29T07:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-quantiphi-awarded-two-2022-regional-and-global-aws-partner-awards.md",
+      "title": "Quantiphi Awarded Two 2022 Regional and Global AWS Partner Awards",
+      "excerpt": "Invent 2022, the Regional and Global AWS Partner Awards recognize a wide range of AWS Partners whose business models have embraced specialization, innovation, and cooperation over the past year. Regional and Global Partner Awards recognize partners whose business models continue to evolve and thrive on AWS as they work with customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-quantiphi-awarded-two-2022-regional-global-aws-partner-/2022/11/29/9720600.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-quantiphi-awarded-two-2022-regional-global-aws-partner-/2022/11/29/9720600.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T05:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-cyber-monday-gpu-deals-2022-all-the-best-offers-still-iive-now.md",
+      "title": "Cyber Monday GPU deals 2022 - all the best offers still Iive now",
+      "excerpt": "There are price cuts, deals, and discounts up and down the GPU hierarchy, so no matter what you're after you'll find something here for you. And with the staggered release of the 40 series GPUs ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gamesradar.com/cyber-monday-graphics-cards-deals-gpu/",
+      "originalUrl": "https://www.gamesradar.com/cyber-monday-graphics-cards-deals-gpu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/P57auWpH2nRytYvAZoKSM8-1200-80.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T05:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GamesRadar+",
+        "domain": "gamesradar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-29-bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem.md",
+      "title": "BAE Systems adds Microsoft to modeling and simulation ecosystem",
+      "excerpt": "BAE Systems is expanding the network of companies in its modeling and simulations ecosystem to include Microsoft. With this addition,  This press release features multimedia. View the full release here:   (Credit: BAE Systems) “Microsoft Azure is widely regarded as a prominent provider of cloud computing services for government,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem/article_09a8296f-2a89-5be5-8852-247c6e7dd5f6.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem/article_09a8296f-2a89-5be5-8852-247c6e7dd5f6.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/a/da/ada8d6f0-eb7c-548b-a469-7bc080bd4580/638614d0a1fa1.image.jpg",
+          "width": 633,
+          "height": 1140,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bakersfield.com/ap/news/bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem/article_09a8296f-2a89-5be5-8852-247c6e7dd5f6.amp.html",
+      "cdnAmpWebUrl": "https://www-bakersfield-com.cdn.ampproject.org/c/s/www.bakersfield.com/ap/news/bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem/article_09a8296f-2a89-5be5-8852-247c6e7dd5f6.amp.html",
+      "publishedDateTime": "2022-11-29T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-29-deepgram-lands-new-cash-to-grow-its-enterprise-voice-recognition-business.md",
       "title": "Deepgram lands new cash to grow its enterprise voice-recognition business",
       "excerpt": "Deepgram, a company developing voice-recognition tech for the enterprise, today raised $47 million in new funding led by Madrona Venture Group with participation from Citi Ventures and Alkeon.",
@@ -933,178 +1097,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-new-artificial-intelligence-could-help-humans-actually-talk-to-animals.md",
-      "title": "New Artificial Intelligence Could Help Humans Actually Talk To Animals",
-      "excerpt": "New developments in artificial intelligence and technology could help humans communicate with their pets and any other animal species that calls Earth home. Outside of the field of science ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsy.com/stories/artificial-intelligence-could-help-humans-talk-to-pets/",
-      "originalUrl": "https://www.newsy.com/stories/artificial-intelligence-could-help-humans-talk-to-pets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.newsy.com/images/videos/m/1669756816_CgX8sG.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsy",
-        "domain": "newsy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-researchers-propose-competencies-for-proper-use-of-artificial-intelligence-in-healthcare.md",
-      "title": "Researchers propose competencies for proper use of artificial intelligence in healthcare",
-      "excerpt": "Competencies for the Use of Artificial Intelligence in Primary Care Winston Liaw, MD, MPH; Department of Health Systems and Population Health Sciences, University of Houston College of Medicine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/972641",
-      "originalUrl": "https://www.eurekalert.org/news-releases/972641",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-why-ai-in-healthcare-is-critical-to-improve-mental-health-and-wellness.md",
-      "title": "Why AI In Healthcare Is Critical To Improve Mental Health And Wellness",
-      "excerpt": "This article focuses on Why AI in Healthcare is critical to improve mental health. With depression and anxiety on the rise, board directors and C - levels must innovate to provide more self- guiding toolkits and also recognize that mood and happiness tracking is as important as financial results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/11/28/why-ai-in-healthcare-is-critical-to-improve-mental-health-and-wellness/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/11/28/why-ai-in-healthcare-is-critical-to-improve-mental-health-and-wellness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63852a261ca64d2156db9778/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/11/28/why-ai-in-healthcare-is-critical-to-improve-mental-health-and-wellness/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/11/28/why-ai-in-healthcare-is-critical-to-improve-mental-health-and-wellness/amp/",
-      "publishedDateTime": "2022-11-28T15:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-ucl-computer-science-to-explore-natural-language-processing-on-quantum-computers-for-content-discovery-and-archive-retrieval.md",
-      "title": "UCL Computer Science To Explore Natural Language Processing On Quantum Computers For Content Discovery and Archive Retrieval",
-      "excerpt": "to explore the industrial relevance of quantum natural language processing (QNLP) and quantum-inspired natural language processing. The BBC hopes to find new ways to represent content in forms ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/ucl-computer-science-explore-natural-language-processing-quantum-computers-content",
-      "originalUrl": "https://www.asiaone.com/business/ucl-computer-science-explore-natural-language-processing-quantum-computers-content",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Nov2022/pr-newswire_500_4_1738.jpg?h=7de12b8a&itok=hzg9EbjN",
-          "width": 600,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T15:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
