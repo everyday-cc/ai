@@ -1,31 +1,20 @@
 ---
 category: news
 title: "AI can potentially assist future firefighting operations: Research"
-excerpt: "Flashovers tend to suddenly flare up at approximately 600 degrees celsius (1,100 degrees Fahrenheit) and can then cause temperatures to shoot up further"
-publishedDateTime: 2022-12-19T03:06:00Z
-originalUrl: "https://www.business-standard.com/article/international/ai-can-potentially-assist-future-firefighting-operations-research-122121900088_1.html"
-webUrl: "https://www.business-standard.com/article/international/ai-can-potentially-assist-future-firefighting-operations-research-122121900088_1.html"
-ampWebUrl: "https://wap.business-standard.com/article-amp/international/ai-can-potentially-assist-future-firefighting-operations-research-122121900088_1.html"
-cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/ai-can-potentially-assist-future-firefighting-operations-research-122121900088_1.html"
+excerpt: "The worst flames in firefighting are the ones you don't see coming. In the midst of the chaos of a burning building, it's difficult to spot the warning signs of impending flashover -- a deadly fire phenomenon in which nearly all combustible items in a room spontaneously ignite."
+publishedDateTime: 2022-12-19T13:01:00Z
+originalUrl: "https://news.webindia123.com/news/articles/Science/20221219/4016425.html"
+webUrl: "https://news.webindia123.com/news/articles/Science/20221219/4016425.html"
 type: article
-quality: 59
-heat: 59
-published: false
 
 provider:
-  name: Business Standard
-  domain: business-standard.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-12/04/full/1670176949-3148.jpg"
-    width: 620
-    height: 302
-    isCached: true
-
-secured: "mtzmJU0DndbCxlqrIetVFpBbgE6dOpFtOAoQgEMnI6T8/Dj/1MBvnNhQug1+qyElGgWTYpOjb0BVeFEeSOkaSR9dQlLQbyEr3YbYtJD+sHZH8mz6fHIVa78DmQxjg3+7u2OtIHZ9Ckf6HP0eFaELUIeV62K3fw+fqMkaEJeqztkYsHgp/csVuwmQYVjDdEXnzKRtj/NWdastxlWtNiFEqRUlHwmbX315sM9peCZqOevMFWOpPsxOI1aexgRTNoFOOXp6C6HAlSICu96xWcjVxpIrnlTWgYH6AwaURT7d3xLCUBTgm81r4NLHUyrBpnetr5mn3LMpaGBKb68qVFpHdsD7tzMimz3d8hahphK25rM=;dLQe6WeO2oNg/MfMEBv6Vw=="
+secured: "uAXElViKood85Qmfe/P9Db/gTYoYRniBo2MzyzjlyXZb7uChguSlphxDqosgoWnud1GsuwceRVQFHZ4bqtKFH50GWAdeKr5rDt/2GRc6ctGpBEKqIYRkfygM2+Nq5RLtaRyBUpBbPWG+SHoFNEG/BqpV1S4LhYLCBfY7SdRD9JUC2aA4AEYtjcougR3PmUX0Ql5aBhn/POwUWoM27bwiF/M6G3/7igfE7KSFiO8sTgrOe/8lMgJt8yX95DroAkliMheVEAJIhOnHDcjaWdcjyeeVVze5ANMFCyXgNs6RZS6wUqqPHVzpixSb1h8664xjUXek1ooEyQFvz1jq29TXsWWXYrJbCJsrwuHIgIzm1PY=;REv34vyjdVWmF7tKNwg49Q=="
 ---
 

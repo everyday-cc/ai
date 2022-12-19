@@ -1,31 +1,20 @@
 ---
 category: news
 title: "Google building AI model to support over 100 Indian languages: Sundar Pichai"
-excerpt: "Pichai, who is visiting India, said the pace of technological change in the country has been extraordinary and Google is supporting small businesses and startups, investing in cybersecurity, providing education and skills training,"
-publishedDateTime: 2022-12-19T12:55:00Z
-originalUrl: "https://www.moneycontrol.com/news/business/google-building-ai-model-to-support-over-100-indian-languages-sundar-pichai-9731521.html"
-webUrl: "https://www.moneycontrol.com/news/business/google-building-ai-model-to-support-over-100-indian-languages-sundar-pichai-9731521.html"
-ampWebUrl: "https://www.moneycontrol.com/news/business/google-building-ai-model-to-support-over-100-indian-languages-sundar-pichai-9731521.html/amp"
-cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/google-building-ai-model-to-support-over-100-indian-languages-sundar-pichai-9731521.html/amp"
+excerpt: "We're also supporting a new, multidisciplinary centre for responsible Artificial Intelligence with IIT Madras'"
+publishedDateTime: 2022-12-19T13:24:00Z
+originalUrl: "https://www.telegraphindia.com/business/google-building-ai-model-to-support-over-100-indian-languages-sundar-pichai/cid/1904716"
+webUrl: "https://www.telegraphindia.com/business/google-building-ai-model-to-support-over-100-indian-languages-sundar-pichai/cid/1904716"
 type: article
-quality: 56
-heat: 56
-published: false
 
 provider:
-  name: moneycontrol.com
-  domain: moneycontrol.com
+  name: The Telegraph
+  domain: telegraphindia.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://images.moneycontrol.com/static-mcnews/2017/11/RTR28T6L.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "4o3GY8q+BW6g+OU9e2TUSk6SZt9zjtuauXLCUKgqL0eC1vjtxkZK1ZGUwIyBTZ64OkJS30mqJ3nWS3ENnR0AA57gRaS1OYMLRyTvw3FYppCfMRvJi/Ve69DpREtoqYiYBWn8PRZ+VelorufI0pGxpEq8qIna72cmg+gaYs/cvkAgDg15lGY/KNRr29IDWfmUWEo7xBK0nPxAo8bW5gBKYhafsiii4lmIcZzs3q4yh+ENGXEbPpQE+/rSXAFuWEOQ+llyUqUji5DUoIyjB9I4sUVUCWUtWkaiPXhuV706FVIZOuDE+9mbgqHFR/xKhmWJYU/g24XMcFL+SKRWMFBdQaKe3mcw7NrAXaQDHSbqfQg=;DJCqVHUkGGeGkV3YTggF7g=="
+secured: "WIcfIs9OQ8qDhFOxOh+mKtx/xXaw5oWMeiGvUDeTrtHUZRIorir6N9MRoPAgX1IUFlzyYenhm59svB70BBc95B3uBb2T839tAwX0nBpCu1xfqYAb/KOdzuDV8pwwzKgNac2HniBgt/keukrPQoF3vJPMpSXHSYn93Hfv2gNZEimrCuPqXJDyFQyZUH8k95vB1qIGY0wzYu8tmck3nxTLGawd61SMel3xOmdSkDPcCb4fqXIGlAnNX1m5CoxFX6GEjnM5HiIhsNeEShLcEIDpHxnaIX4PBqSXiMfZf+mbCotsBWEzRcGSfL03YjASC/Ad6aZW6+iIO5HqGoFmQ9xLQp8L0BVZRmXtFs7skkLF8L6+NYjItBfbTCZm/V3eqj5k0GHj/v1yuMmXc9cH7uAzXHvX1OB2O0wqOXRMrDXrGD1Izy0AjFNR8aI4baq/4+NDRY+j6Jnb8wf3cdl4aF02yxyGwjbrjoanQi+uI+imb+SA/k9licowJn83D/4KhUQiC9i4iuZU5F79TqtludBmWw==;VU4pVDqa+t9NxQVbU8josQ=="
 ---
 

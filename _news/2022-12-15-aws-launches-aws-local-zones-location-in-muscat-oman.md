@@ -1,23 +1,20 @@
 ---
 category: news
-title: "AWS Launches AWS Local Zones location in Muscat Oman"
-excerpt: "AWS Local Zones are a type of infrastructure deployment that places AWS compute, storage, database and other services near large population, industry and information technology (IT) centres⁠"
-publishedDateTime: 2022-12-15T11:24:00Z
-originalUrl: "https://www.zawya.com/en/business/technology-and-telecom/aws-launches-aws-local-zones-location-in-muscat-oman-gxupgem4"
-webUrl: "https://www.zawya.com/en/business/technology-and-telecom/aws-launches-aws-local-zones-location-in-muscat-oman-gxupgem4"
+title: "AWS Launches AWS Local Zones location in Muscat, Oman"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the launch of a new AWS Local Zones location in Muscat, Oma"
+publishedDateTime: 2022-12-15T09:06:00Z
+originalUrl: "https://www.albawaba.com/business/pr/aws-launches-aws-local-zones-location-muscat-oman-1502486"
+webUrl: "https://www.albawaba.com/business/pr/aws-launches-aws-local-zones-location-muscat-oman-1502486"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
-  name: Zawya
-  domain: zawya.com
+  name: Al Bawaba News
+  domain: albawaba.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "nYoVvifCCYwPPQ27F2uvV37JHo9TfLWkYdBURMvQo/R1bjQ9hYvdKroAo+/QNwet6xlCmTuTWyBQj0gAcWHIN+oUYOpJysIWUzaLiyoG1jG8OTNP0RGjdPqfztQNQWcRCV14sz1E/6WZ9aGvf/t6IR0P5lm88DAntjI9cYlFQmU/RJk9WX/nzYM+v/rPBaWbkY5ZBKb5buDvRtbtVOLkARgN/tsBBwtJFayZAo4rLSvzI9LziInQF3WCLymwAZ/d3zg1iix7yHsEnDlWtzGhFDUKaE67Re66161k1s5wA1MpXur/VPvrKr8GGvwKDBp5slcjUONV6p4hw7pjgjrRHaPK8vktrkDZVpTHw6a5M2I=;aloVtHyOTVoRG8zwpHm6Qg=="
+secured: "twHLHtvFFf+XCAVikjN5EQlY2RSrUgSlLX01cZmHH2NLSwON6/FJTGhTyn5n9JWTkr4xDOHJ8cfvi826re35w5Eb+kt92kydcPecBjVlWWDTfcFVKFHIL5YStkyKsPiscBbedZM2Gr1rz9s1wpcafaJZ1HHMqqbGgska1yolYbOGkbn4wV1SUFfXUCUcqY/U4xg3cVPvJVXCPYOeDJC8jlaBqefD5LwdFLRBEKKfclbzOie7If5uP/OlJqwJpNFUh58pXoy83cf92mqGoOpBS3EiR87UQOWrTLh5260XZH/lFxUpE7sSH11qUPf15k8sqKUCHK+jqKrYe9xqQ4aasW84cFvLRH7lEaSt/akXoPoUVpyAz2GghEzR19xEut+YNLHOp4x2Z2SOANQR5iuM/yIX1GEeSEJol1ezsQSo1KqgAqLTAzUfMcX8cZTMO34F5JMzf8ahSRa+uFn8Pstofe2SWYB4HaSxYItfx/jhbtBeqGUAnNQA1PgtHw1iXoHASQp0kno50AuiO9ME7q/lFA==;9CkAKbq08SGO1IzjzVs5ow=="
 ---
 
