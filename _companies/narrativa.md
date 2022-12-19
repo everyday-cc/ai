@@ -2,7 +2,7 @@
 name: "Narrativa"
 overview: "The Narrative Clip is a tiny, automatic camera and app that gives you a searchable and shareable photographic memory. Support @NarrativeCare"
 type: "profile"
-heat: 71
+heat: 57
 
 website: http://www.narrativa.com/
 
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=Cztoxp9-4ZA"
 
-secured: "tAu8a6CEsNqXtCw1dUbolbmvatO1EXgAJteTEzYoDDx+i7mZRlLAXXth5LGSa+CW6Ty6auFwkopQ7a+skjw5mzSXdidmMQc1Z+JZmNRXJa4OXGiILKuI07QMEjySCIFT4oMfMU2PXOMaOX5slZaShIMdNRAmWrbzqI8UWwtXLxr2yHyo2It2Rm0a/ElkrX3VX/tivK0H1phqbf0XlIu6DUwlq/vfUffLyCczrAaszjGgaErmA7qFAbA5lYMjZM3TFi7xAba35eV5SR5H5eQBlHNEZ9DeUywF9A3EqQ587O7gwlUMCQv04gxcNuwJnf8+nI1i7evYHqgq1bCQ5Kjo3ps5ShkRw9qx1vEeN18Vx3Su/NZYy1p64EHrBttvzVOcsLMQjrFR4n4Nun5mtA7vTp+8Kz8KVxvz7VII4HcED6k=;OCpqBgguz1B2gSBEOJfxDw=="
+secured: "AtKD0o8eaQEWPtSfDg6zCifrARcELDIca7T9H1w6RYfa2EzN2tpxA6b7ZjW8GVWDEl8Q0KgCBgdIqU+qG0iDfRFIxJp2rDdzQJEA+bfzIi3iPPhbQFaKRPiqYwzb0KBxgUd4VypUQnD8Wc7N8tUU6nhUi+3Xo0DJiuacdXiUcpK6B6DWeVqiNNT2WjSVx8/azi0Pa567pGNYjQ6lN7lO94rqB7jNvnfbi1260AVV5VckQWVJkmCUCkObjpx+SrPRCeyv7pEL7CXrqoziOdFBdyACWA+cNXPW945jCWqpHP77z5YNY8vTEP1/Q4i541ayd1BuSc4nu3zD1T9nhMqQIByKY9jjTmw3M6c0vPFjAXDObyPFs6bHBnN+4QZGkLDeg1+0vKy2MprYl7J26fUEhnLz3+JozdIOoRWqBGSmLMM=;Dt+Kb5TDexdhN1fh2sDRTg=="
 ---
 

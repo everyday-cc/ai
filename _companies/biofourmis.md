@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 64
+heat: 50
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "imQOKJch3qSvTN/1sM6O8fwc679/a5AcLwIbXybBW1215aW5oOWOSMRv8362CQXWU1Zn7joGo/KmWx3uaUQ89tZJrMLntdDc5C8yoLGf3gxwotGENF2CUKN9eeak1bqHBr8/QSotgiMFCjoqx6wsuvn5hUdxqzQ+GzZ54thu4uTOA4J63JJRdk3wkQq/V7OAJjuF4Sh/7LEUU7xBdA9glXP9LvY5n6eY/v1NAplbZJ6T6XhwcZ4xscJEMTVFc4U61t/hsmLGaZxc2leKuuH0LKis3G6W1WsEhRfEykGneN4nn/5LT4TZdQYoWvkoE7S8SPOqDZhazZ2FgFOVeTKYauU7/qdAQXZiiTrB/UBTj3eFXdIuCFo5FGilU22sCcHYggZd7FB2u9NJncq3X9rJ2XqTsadyYHCMdOOCZMAsjgw=;ll8s1vizaK32T/SaU1w9fQ=="
+secured: "w0L9eo6TUy6QYBgN8pCOsNwCX3w7Tv1AZAZFcYcPKtb8hetOSjVnrV5F3Z3tsB9ITm5inqhg+B5PkjGsoJcPJpJzSlwSOKfR6/NjdgeSuX2Gs1kVE+OtznV0e/o8L3cCdrlwpdGDq4nQKUSgpVb9T4eIXgUnQePyYcuJOGUVqTtiImXmGtxh+wZXB9KWXlF1/Py+NJJgIWfQUXSMn1cF+S52O4OhXQV8dkKKmUafdxhUm4aJgv45S5Ucoq2CpmInvsTB9fXSOeTDyJgrONd97fi7TzzfoC1uKXVKfHdqd4tCGWbGuiPO2steewuAVg9MXFf60h4mp9s24FmUf6uomVZWz1EIFjpsmqzWhZGMGqmJAwniaFECRNASxVeU7/j0dlgbZgei5VVV9ohqj3Ih4mfKz1s6sgp+8XMui6X7OYc=;VZFhcm4ngNmX59C1jZyUkQ=="
 ---
 

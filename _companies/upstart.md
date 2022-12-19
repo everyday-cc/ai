@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Upstart"
   url: "https://twitter.com/Upstart"
-  followers: 17693
+  followers: 17691
 
 size: 201-500 employees
 yearFounded: 2012
@@ -45,6 +45,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "t2TwlybJ9u2H+chWh9yWp299Dv4d7gxlXQXuWYuV+BPAh6LvsIiYqsW81UzCoL+l3Bc9qTcoATOBjmjNVBzS9Si8NjvyU7PVHQmzSSuMzzGaiPM0xH1ZByZo1PURvgivjD3/Z3Mir9nPywQKylMHGJz6FjUa0VdedLq5ptOgqPqXJuEg1LUustLhGN+NyyFWhm95KIJ7P0kv0NN8Vwt3qvfxDZ2T4+BRP2GgZAc8KerZ2NRAbBbUABVW2AhTI9MSlxCOJakzXdX1OqMVxWRr5PQyvMZ3veQs1KmthsSiAWrHQGmsXB3Ved7zYY3kJOZMGWkQANzEdjqJCsrh9kb9GrtF+8yrm9TOAuSmKGvXfHnF9+K+hk4G/AgFCcAYGcSdKmkJ/PclZhgkgd9NCpb9paqmOOBjOLMdqqJ/zwj27Q8=;OGLqcW/qsTt/cMV2WmRlLw=="
+secured: "Tmn7kYgaykfpRMQyE2HXdh8a/xZEnx/Z12/qRe7dpB+RnOZws/k+S/DWBbOfwUJthk7igV7wNIU/uSbr/cVzexJhRAJxVkOt/43xZvgEcJosmKLk+dCbjslErc8eBTDwoUSKyW5VstfJtMUYofC7ZLqdlvW3Qz/DvJ7qdYyioc3VzZ7oEn6l3+N+K/CsdjkdDhDp8jCgmzPujMPG6lXXoQLDz96hpd0V0Keoel5B9G3vr7I3XgWc2i99M9KpEF42G+xmh9DHd8XrePnRrfeudNojgmT+nqWE574VnZ28l0S9sKxHA8I3eLriZPcLNgbGGs6eBdempgsJ2xgDia5UABLvfeOrryxVHj1I5TRHS6Z3Coq0XFR6+Q6kNsfPslZv/iA7vL8UwZoXLjNxN/a6zAJ1VhxZTm1QDc8FZxUXVlw=;HyjwCrbORSSY/thMAzP8qA=="
 ---
 
