@@ -37,6 +37,20 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Self-driving truck startup TuSimple to cut half of workforce: report"
+    excerpt: "TuSimple is planning a major headcount reduction which could affect 50% of its staff as the self-driving truck startup looks to cut costs"
+    publishedDateTime: 2022-12-19T08:54:00Z
+    webUrl: "https://technode.com/2022/12/19/self-driving-truck-startup-tusimple-to-cut-half-of-workforce-report/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 24
+    images:
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
+        width: 540
+        height: 540
+        isCached: true
   - title: "Self-driving trucking firm TuSimple appoints CFO, reconstitutes audit panel"
     excerpt: "The company reappointed former CEO Cheng Lu as its top boss last month after it fired his predecessor Xiaodi Hou following an investigation."
     publishedDateTime: 2022-12-16T20:29:00Z

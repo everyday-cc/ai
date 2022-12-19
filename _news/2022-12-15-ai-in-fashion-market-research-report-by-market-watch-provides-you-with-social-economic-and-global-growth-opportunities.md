@@ -57,6 +57,20 @@ related:
         width: 1888
         height: 1080
         isCached: true
+  - title: "The case for optimism: encouraging fintech trends in 2023"
+    excerpt: "Fintech vendors leveraging data and cloud automation rapidly become the new security standard-bearers in various verticals. There is a fundamental and radical improvement in the tools available to assess risk and fraud."
+    publishedDateTime: 2022-12-19T10:08:00Z
+    webUrl: "https://www.finextra.com/blogposting/23430/the-case-for-optimism-encouraging-fintech-trends-in-2023"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/visible_pictures/741715aa-3c6c-47b7-8c75-a21f366cb9b5.jpg"
+        width: 500
+        height: 333
+        isCached: true
 
 secured: "qDKiO1NkMXNhAzd+laFhpxwG1YxMdn1lRtYOWe1wWkTdfrCu7NdR4btTpRilXN23dOEerQzwmht+dewijwofMUC66f0D2WZNGJ4B+9cCxfwlZzqvDIjFqkZQ7xJ1BAZTo+I22sc1kcWMiCT3vfKDBLLFsfvLwHU0Smc8jHOKYN9rFFN7kd8cDp4ulwaJ4CuEl9sMvM+zUxhsLfFzxDdhca2JNu0zgdD/4EuVhTjIwQE7EH59kfLHl2wS3iBG/S0Sjjd7NbQ9yxbdT6cEAnvrGN27vdkRGVqle9/EoR5BR3HZEAlenwk0eseD4n+fBls+9GOzi4K5OKUVWX3KSKWKLD6K7Z1tXYWZh1W6a+I+XUo=;jfR1qYKpxYBMerOnts1MkQ=="
 ---

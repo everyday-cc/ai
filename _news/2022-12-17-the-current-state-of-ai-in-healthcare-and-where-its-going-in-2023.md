@@ -9,7 +9,7 @@ ampWebUrl: "https://healthtechmagazine.net/article/2022/12/ai-healthcare-2023-ml
 cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2022/12/ai-healthcare-2023-ml-nlp-more-perfcon?amp"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "33 healthcare and biotech startups investors expect to take off in 2023"
+    excerpt: "We asked investors to name the startups poised for success in a tough market, from young upstarts to companies on the brink of going public."
+    publishedDateTime: 2022-12-19T10:00:00Z
+    webUrl: "https://www.businessinsider.com/biotech-healthtech-healthcare-startups-companies-to-watch-2023-2022-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://i.insider.com/63920e37a6556b001802efdd?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Artificial Intelligence In Healthcare Service Market 2023 : Production Capacity, Restring Drivers, Size and Landscape Outlook 2028"
     excerpt: "\" Artificial Intelligence In Healthcare Service Market \" Insights 2022 - By Applications (Patient Data and Risk Analysis, Lifestyle Management and Monitoring, Precision Medicine, In-Patient Care and Hospital Management,"
     publishedDateTime: 2022-12-18T02:11:00Z

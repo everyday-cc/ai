@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/ai-chip-startup-encharge-ai-r
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ai-chip-startup-encharge-ai-raises-usd-21-7m-to-create-an-integrated-stack-for-edge-applications/amp/"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -36,15 +36,6 @@ related:
       name: Euronews
       domain: euronews.com
     quality: 34
-  - title: "EnCharge AI Launches With $21.7M Series A to Enable Edge AI at Scale"
-    excerpt: "EnCharge AI, the company building advanced computers for AI at the Edge, today announced it has raised $21.7M in Series A financing, led by Anzu Partners with participation from AlleyCorp, Scout Ventures,"
-    publishedDateTime: 2022-12-14T17:15:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/12/14/9730478.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "kqorY//rZqoXqiKpS4sYxNHv9ZnK5DjMCwTkShfgx4byEkYOxGlIFU8DX3JlupMJ4YitQEft1rvusNJtPdjVcIVF0UWVD1EUu4h7OkhaB+QqoPeWxAdFoE+wTMvrjn/e4W3NSOrK3LKg6FFvJOvxOUu3oqWFu8UwlErrW1RpasckbteiU4cpOIHlDR53v4oK0x7J2qeWrQSI88z+Vum9J4H+sM5Om2gH4qxnmEukBFduyR4esENo2h5ZloMCvK8YFAxyZZuN7MP7pmV1vBu/wmtgerBNJTEQaBIZF3YFNl2eYQuDV0QJ35EwTgjobSWNzR/l0uhZGLdRADoLD2SyNj8wid7JntkvnhGcpjsoD8whazYIS45GaCteRhubCwvJVdCmVb9aw0SJWkG/snUVjiWoLCGkyrznNWhdNyaN2Zgzn0QyKiXpP9zZ/OVTc8b2dc7KfRQgsLqhNvWXe4Wy07ZDf6fOm+MVQdG7Vpj4RI0+a5DXNedbACS2Y64KmyhXhVtxBZzX4Zr9L4qzrGqUJA==;iWs/tbcOZ3+MJqO1AO8jww=="
 ---

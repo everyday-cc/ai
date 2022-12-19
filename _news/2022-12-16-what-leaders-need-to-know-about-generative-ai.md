@@ -52,6 +52,36 @@ related:
         width: 850
         height: 523
         isCached: true
+  - title: "How to spot AI-generated text"
+    excerpt: "The internet is increasingly awash with text written by AI software. We need new tools to detect it. This sentence was written by an AI—or was it? OpenAI’s new chatbot, ChatGPT, presents us with a problem: How will we know whether what we read online ..."
+    publishedDateTime: 2022-12-19T10:32:00Z
+    webUrl: "https://www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/"
+    ampWebUrl: "https://www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/12/pencils2a_1.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
+  - title: "This Generative AI Platform Empowers Marketing Teams to Generate Premium Videos"
+    excerpt: "Marketing teams know a thing or two about multitasking. From brand optimization, and content generation, to implementing strategies and tactics, their cross-functional roles are integral to the growth and success of every organization."
+    publishedDateTime: 2022-12-19T09:00:00Z
+    webUrl: "https://techbullion.com/this-generative-ai-platform-empowers-marketing-teams-to-generate-premium-videos/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 50
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/12/This-Generative-AI-Platform-Empowers-Marketing-Teams-to-Generate-Premium-Videos.jpg"
+        width: 700
+        height: 466
+        isCached: true
 
 secured: "SilixKRKMVDS3Wfv030eMaEP0VfU0yB8buGt5OVOrFSIWEQ8MN2VabyPy7j4Xx9JmfpWiabgXA4pP2Oen+dXAO/H/KprYWWRd/ZE5BRDatP0W/pDGUGSWGltVfpShX8+g9ovzst53Kwvx4w746mZJgHm9XrHZVrIKYfllxChKh7DWtPoAu52JT/0U6OKcLSpAxJptDqoxccOAj+AMAp3yteqwSBWA/QmgcG2T8ARt+h8AKTCT7ZDhtFNopwYEt/5/S7w8S38PBQ2AvXPAFNqWuqey0Nqj+KdPcfbPiCaiI7vloUgS/6RZ9/Ndm0muM7daDdpj47Fa5snhcgsFKCooZF9d6e4RwGcW99asCwo+bTMEdlpPAYtY2AOc83bq3u2fbtMWFy37JEHJflIlePNFb4ySaE8ZHk108qwoLLR26J5gVPZ+GrvvtuUZTxde1haynTjSZDHn+hzepGdCGYHJHALI2l3YUId6gjUINp7B8St1140cd6TK/g2E8v8vME0gBhl8oDmSnvM3ILfolO3rQ==;h6v+jHRpgfI3Ga8lLvl5IQ=="
 ---

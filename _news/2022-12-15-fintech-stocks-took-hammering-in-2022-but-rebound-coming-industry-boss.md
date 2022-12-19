@@ -35,22 +35,6 @@ related:
         width: 265
         height: 261
         isCached: true
-  - title: "Fintech stocks took a hammering in 2022, can they bounce back in 2023 and beyond?"
-    excerpt: "After hitting pandemic peaks, the fintech sector has been down for most of 2022. What does the future hold for BNPL and Non Bank stocks?"
-    publishedDateTime: 2022-12-14T17:11:00Z
-    webUrl: "https://stockhead.com.au/tech/fintech-stocks-took-a-hammering-in-2022-can-they-bounce-back-in-2023-and-beyond/"
-    ampWebUrl: "https://stockhead.com.au/tech/fintech-stocks-took-a-hammering-in-2022-can-they-bounce-back-in-2023-and-beyond/?amp"
-    cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/fintech-stocks-took-a-hammering-in-2022-can-they-bounce-back-in-2023-and-beyond/?amp"
-    type: article
-    provider:
-      name: stockhead
-      domain: stockhead.com.au
-    quality: 39
-    images:
-      - url: "https://stockhead.com.au/wp-content/uploads/2022/12/A-look-back-at-FIntech-stocks-and-what-to-expect-in-2023.-Picture-Getty.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Salter Brothers tips into payments fintech IP Solutions"
     excerpt: "Ex-Bombora stockpicker Gregg Taylor has ruled off his first unlisted investment in his new role as head of equities at Salter Brothers."
     publishedDateTime: 2022-12-19T03:47:00Z

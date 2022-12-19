@@ -41,22 +41,6 @@ related:
         width: 265
         height: 261
         isCached: true
-  - title: "Fintech stocks took a hammering in 2022, can they bounce back in 2023 and beyond?"
-    excerpt: "After hitting pandemic peaks, the fintech sector has been down for most of 2022. What does the future hold for BNPL and Non Bank stocks?"
-    publishedDateTime: 2022-12-14T17:11:00Z
-    webUrl: "https://stockhead.com.au/tech/fintech-stocks-took-a-hammering-in-2022-can-they-bounce-back-in-2023-and-beyond/"
-    ampWebUrl: "https://stockhead.com.au/tech/fintech-stocks-took-a-hammering-in-2022-can-they-bounce-back-in-2023-and-beyond/?amp"
-    cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/fintech-stocks-took-a-hammering-in-2022-can-they-bounce-back-in-2023-and-beyond/?amp"
-    type: article
-    provider:
-      name: stockhead
-      domain: stockhead.com.au
-    quality: 39
-    images:
-      - url: "https://stockhead.com.au/wp-content/uploads/2022/12/A-look-back-at-FIntech-stocks-and-what-to-expect-in-2023.-Picture-Getty.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Top Fintech Events Taking Place in Asia in Q1 2023"
     excerpt: "With 2023 just around the corner, we’ve curated a list of the most highly anticipated fintech events and conferences taking place in the region in first quarter of the year that will help industry professionals and stakeholders keep up with this fast-evolving landscape."
     publishedDateTime: 2022-12-19T02:47:00Z

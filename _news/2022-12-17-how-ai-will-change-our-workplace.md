@@ -41,6 +41,36 @@ related:
         width: 1600
         height: 1200
         isCached: true
+  - title: "How to spot AI-generated text"
+    excerpt: "The internet is increasingly awash with text written by AI software. We need new tools to detect it. This sentence was written by an AI—or was it? OpenAI’s new chatbot, ChatGPT, presents us with a problem: How will we know whether what we read online ..."
+    publishedDateTime: 2022-12-19T10:32:00Z
+    webUrl: "https://www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/"
+    ampWebUrl: "https://www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/12/pencils2a_1.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
+  - title: "This Generative AI Platform Empowers Marketing Teams to Generate Premium Videos"
+    excerpt: "Marketing teams know a thing or two about multitasking. From brand optimization, and content generation, to implementing strategies and tactics, their cross-functional roles are integral to the growth and success of every organization."
+    publishedDateTime: 2022-12-19T09:00:00Z
+    webUrl: "https://techbullion.com/this-generative-ai-platform-empowers-marketing-teams-to-generate-premium-videos/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 50
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/12/This-Generative-AI-Platform-Empowers-Marketing-Teams-to-Generate-Premium-Videos.jpg"
+        width: 700
+        height: 466
+        isCached: true
   - title: "What Leaders Need To Know About Generative AI"
     excerpt: "Cognitive algorithms, such as generative AI, have the potential to help companies achieve their goals more efficiently. Here's what leaders need to know"
     publishedDateTime: 2022-12-16T13:00:00Z

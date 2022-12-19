@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "ChatGPT: Why Everyone Is Obsessed This Mind-Blowing AI Chatbot"
-    excerpt: "This artificial intelligence bot can chat and write essays, poems and computer programs. Careful how much you trust it, though."
-    publishedDateTime: 2022-12-14T18:21:00Z
-    webUrl: "https://www.cnet.com/tech/computing/chatgpt-why-everyone-is-obsessed-this-mind-blowing-ai-chatbot/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/chatgpt-why-everyone-is-obsessed-this-mind-blowing-ai-chatbot/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/chatgpt-why-everyone-is-obsessed-this-mind-blowing-ai-chatbot/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://www.cnet.com/a/img/resize/084641681c8362c3ce0c3eb8a53365351adcaaac/hub/2022/12/06/3dd7180c-d0e7-47ca-bc37-b5df15a41a25/ai-chat-gettyimages.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Conversing with my AI friend ChatGPT | The DeanBeat"
     excerpt: "Dean Takahashi tried out the Vana AI generative art program and it spit out dozens of painterly images. He tried out ChatGPT too."
     publishedDateTime: 2022-12-16T18:28:00Z
@@ -53,38 +37,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/12/dean-vana-2.jpg?w=1200&strip=all"
         width: 1200
         height: 801
-        isCached: true
-  - title: "ChatGPT: What if students outsource all assignments to this AI tool?"
-    excerpt: "Educational institutions will have to figure out a way to integrate these advanced AI tools into learning without banning them, he says. “While it is still in its very early days, it is important for educational institutions to understand its strengths and limitations,"
-    publishedDateTime: 2022-12-17T12:33:00Z
-    webUrl: "https://bloncampus.thehindubusinessline.com/b-school-corner/chatgpt-what-if-students-outsource-all-assignments-to-this-ai-tool/article66276055.ece"
-    ampWebUrl: "https://bloncampus.thehindubusinessline.com/b-school-corner/chatgpt-what-if-students-outsource-all-assignments-to-this-ai-tool/article66276055.ece/amp/"
-    cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/b-school-corner/chatgpt-what-if-students-outsource-all-assignments-to-this-ai-tool/article66276055.ece/amp/"
-    type: article
-    provider:
-      name: bloncampus.thehindubusinessline
-      domain: thehindubusinessline.com
-    quality: 59
-    images:
-      - url: "https://bloc-i.thgim.com/public/incoming/n7ji8/article66276057.ece/alternates/FREE_320/Generative%20AI.jpg"
-        width: 320
-        height: 239
-        isCached: true
-  - title: "Artificial intelligence chatbots continue to improve. How do they work?"
-    excerpt: "AI chatbots are a software application used to have a conversation that can take on the role of a live human, using technology."
-    publishedDateTime: 2022-12-15T19:51:00Z
-    webUrl: "https://www.lex18.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work"
-    ampWebUrl: "https://www.lex18.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work?_amp=true"
-    cdnAmpWebUrl: "https://www-lex18-com.cdn.ampproject.org/c/s/www.lex18.com/news/national/artificial-intelligence-chatbots-continue-to-improve-how-do-they-work?_amp=true"
-    type: article
-    provider:
-      name: lex18
-      domain: lex18.com
-    quality: 57
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/fd0738b/2147483647/strip/true/crop/3360x1890+0+175/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F0f%2F48%2F1692e0d8492a82d486bd8f7c4435%2Fap22278412101213.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "All you need to know about ChatGPT, a prototype Artificial Intelligence chatbot"
     excerpt: "ChatGPT is becoming your friend and guide on the Internet, giving advice and information almost like a human being. But can it be trusted?"

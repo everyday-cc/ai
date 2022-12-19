@@ -47,6 +47,20 @@ related:
         width: 772
         height: 409
         isCached: true
+  - title: "33 healthcare and biotech startups investors expect to take off in 2023"
+    excerpt: "We asked investors to name the startups poised for success in a tough market, from young upstarts to companies on the brink of going public."
+    publishedDateTime: 2022-12-19T10:00:00Z
+    webUrl: "https://www.businessinsider.com/biotech-healthtech-healthcare-startups-companies-to-watch-2023-2022-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://i.insider.com/63920e37a6556b001802efdd?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "Mz9AbQJc8PQU+jvov4wVR4MLgftEiMLPHk1NWDY+Emsvl6UonIYhLtFVGGaCQnsilhoFRdqMHqBFAmgUMtBG2QLlE3UN2e7oD2QoQmeRelhS3yjIAUmjJDWSDRPvPOd2x3u6mQv/q6T2cu4nmC38eq8+e5oVs959Bxoooe6N/pxKUaGC5wN/ll95st9j1dXZoOmwHpLNWthN/3ce6QdDDpM1Ym/NmYEwpjdWKUcvv3uBPJjSoKoQLjUoZTZJLYVVv8hEGjHfnAwuQMogzT2u/FK0IJt+1RAaRYEKO5bgJqEjYFO8cojtINd8TKlTPzOMR06F4PEGsf/1FecOK4S+nINfyvfCMF3uRcCw1an5+1A=;z5m4TLN1lhUKMGJ0PooefA=="
 ---
