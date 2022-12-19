@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-19T14:28:00Z
 originalUrl: "https://nocamels.com/2022/12/ai-can-see-invisible-clues-in-breast-cancer-biopsies/"
 webUrl: "https://nocamels.com/2022/12/ai-can-see-invisible-clues-in-breast-cancer-biopsies/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: NoCamels - Israeli Innovation News

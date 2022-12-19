@@ -23,6 +23,17 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "AI Startup Nomad Data closes seed round and launches new tools to get businesses the data they need"
+    excerpt: "That is where Nomad Data, the data relationship management and discovery platform, comes in. For organizations looking to enhance data-driven decision-making, Nomad Data quickly puts the right data into the right knowledge worker’s hands at the right time."
+    publishedDateTime: 2022-12-19T12:00:00Z
+    webUrl: "https://www.benzinga.com/startups/22/12/30126448/ai-startup-nomad-data-closes-seed-round-and-launches-new-tools-to-get-businesses-the-data-they-need"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 3
+
 secured: "3xmkt+uRujSvxdaR3hLdiPFyNST0A1WQG2wVdKu3RXNBGaFDzqRvlJSqBwFTN1FOC/yCAKJ/mrhx+5C/uyk0SA5tcpWqBR46Q4G+VbflYYoAH6tgN3UTxGSy0H+CtY8jU5rfPu2FWtbqAR9gtFp/2//f7xJvIX6ciA3CwAsm48cSPWjD70eBxMU0ZTApmPLbwc3MaAU1CSuILVbLJRZ1N6seBAQhGoa/t1f85wERwJHjecM3hrn3xtpmaTmbFBHY0bK/jkG0dcqi6Eok1QWBLCSxaZnaETpahdytaVpMwL4NvuXkFADC6f4a0oL3l6YdZ0V+4XZchPx/RVCgpKxwgdtm8xDW93hFnszl1PpNvcs=;6NU6uhHXNpzWHF7w1EhEvQ=="
 ---
 

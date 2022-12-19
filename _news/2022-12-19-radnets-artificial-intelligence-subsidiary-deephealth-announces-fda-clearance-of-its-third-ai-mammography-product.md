@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-19T10:00:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/12/g30124570/radnets-artificial-intelligence-subsidiary-deephealth-announces-fda-clearance-of-its-third-ai-mamm"
 webUrl: "https://www.benzinga.com/pressreleases/22/12/g30124570/radnets-artificial-intelligence-subsidiary-deephealth-announces-fda-clearance-of-its-third-ai-mamm"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: Benzinga.com

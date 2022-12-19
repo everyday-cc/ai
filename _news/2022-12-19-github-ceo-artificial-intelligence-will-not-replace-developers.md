@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-19T07:15:00Z
 originalUrl: "https://www.computerweekly.com/news/252528476/GitHub-CEO-Artificial-intelligence-will-not-replace-developers"
 webUrl: "https://www.computerweekly.com/news/252528476/GitHub-CEO-Artificial-intelligence-will-not-replace-developers"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Computer Weekly

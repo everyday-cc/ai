@@ -2,59 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-12-18-ai-in-computer-vision-market-2023-statistics-industry-share-latest-trends-growth-drivers-size-estimate-and-forecast-till-2028.md",
-      "title": "AI In Computer Vision Market 2023 Statistics, Industry Share, Latest Trends, Growth Drivers, Size Estimate and Forecast till 2028",
-      "excerpt": "\" AI In Computer Vision Market \" Insights 2022 - By Applications (JHGJGHealthcare, Automotive, Agriculture), By Types (JHGJG Hardware, Software), By Segmentation analysis, Regions and Forecast to 2028.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2023-statistics-industry-share-latest-trends-growth-drivers-size-estimate-and-forecast-till-2028-2022-12-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2023-statistics-industry-share-latest-trends-growth-drivers-size-estimate-and-forecast-till-2028-2022-12-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-17T17:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2022-12-14-artificial-intelligence-and-machine-learning-market-by-product-and-geography-forecast-and-analysis-2023-to-2028-with-top-countries-data.md",
       "title": "Artificial Intelligence and Machine Learning Market by Product and Geography : Forecast and Analysis 2023 to 2028 with Top Countries Data",
       "excerpt": "Artificial Intelligence and Machine Learning Market\" Research report encompasses a thorough study of the current",
@@ -214,6 +161,58 @@
         "Machine Learning",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-10-i-used-lensa-the-chart-topping-app-to-make-myself-a-masterpiece-digital-work-of-art-heres-how-it-works.md",
+      "title": "I used Lensa, the chart-topping app, to make myself a masterpiece digital work of art — here's how it works",
+      "excerpt": "So I downloaded Lensa, the wildly popular app behind the digital self-portraits, made with AI technology that renders selfies into artwork. Lensa first launched in 2018 as a photo editing tool ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/lensa-app-review-turn-selfies-digital-art-ai-technology-photos-2022-12",
+      "originalUrl": "https://www.businessinsider.com/lensa-app-review-turn-selfies-digital-art-ai-technology-photos-2022-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/638cf2a3e2929d001815165e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/lensa-app-review-turn-selfies-digital-art-ai-technology-photos-2022-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lensa-app-review-turn-selfies-digital-art-ai-technology-photos-2022-12?amp",
+      "publishedDateTime": "2022-12-09T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     },
     {

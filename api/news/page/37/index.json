@@ -2,6 +2,326 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2022-11-17-co-founder-takes-control-of-tusimple-amid-federal-probe-into-self-driving-trucking-company.md",
+      "title": "Co-founder takes control of TuSimple amid federal probe into self-driving trucking company",
+      "excerpt": "TuSimple Holdings Inc. co-founder Mo Chen has taken control of the self-driving trucking company as federal authorities continue to investigate",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/co-founder-takes-control-of-tusimple-amid-federal-probe-into-self-driving-trucking-company-11668648691?mod=hp_minor_pos26",
+      "originalUrl": "https://www.marketwatch.com/story/co-founder-takes-control-of-tusimple-amid-federal-probe-into-self-driving-trucking-company-11668648691?mod=hp_minor_pos26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-315600/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T16:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-handing-off-control-while-keeping-the-human-engaged-is-a-constant-challenge-with-surgical-robotics-says-industry-expert.md",
+      "title": "Handing Off Control While Keeping the Human Engaged Is a Constant Challenge with Surgical Robotics, Says Industry Expert",
+      "excerpt": "As surgical robotics get smaller, more flexible, and more mechanically complex, new challenges arise, such as whether we should rely on the doctor to sort out the control of the devices, or if control should be offloaded to a semi or fully autonomous ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/robotics/handing-control-while-keeping-human-engaged-constant-challenge-surgical-robotics-says",
+      "originalUrl": "https://www.mddionline.com/robotics/handing-control-while-keeping-human-engaged-constant-challenge-surgical-robotics-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/hand-3685829_640_web.jpg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-how-ai-is-being-used-in-our-daily-lives.md",
+      "title": "How AI is being used in our daily lives",
+      "excerpt": "This article aims to explain some of the ways in which AI is being used in our daily lives. Social media platforms such as Twitter, Instagram, and Facebook all use AI behind the scenes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2022/11/how-ai-is-being-used-in-our-daily-lives.html",
+      "originalUrl": "https://www.androidheadlines.com/2022/11/how-ai-is-being-used-in-our-daily-lives.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-kkr-backs-aussie-robotics-company-in-blockbuster-108m-raise.md",
+      "title": "KKR backs Aussie robotics company in blockbuster $108m raise",
+      "excerpt": "Renowned US private equity fund KKR has made its first growth technology investment in Australia, backing Advanced Navigation after an introduction from Malcolm Turnbull.",
+      "sourceUrl": null,
+      "webUrl": "https://www.afr.com/technology/kkr-backs-aussie-robotics-company-in-blockbuster-108m-raise-20221115-p5byf4",
+      "originalUrl": "https://www.afr.com/technology/kkr-backs-aussie-robotics-company-in-blockbuster-108m-raise-20221115-p5byf4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.ffx.io/images/$zoom_0.1393%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_exclusive_no_age_social_wm/da2baa5c74f26b79165bf3fd016b34f6a0977fc7",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T14:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Australian Financial Review",
+        "domain": "afr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-nvidia-and-microsoft-team-up-to-build-massive-ai-cloud-computer.md",
+      "title": "Nvidia and Microsoft team up to build massive AI cloud computer",
+      "excerpt": "Nvidia announced a collaboration with Microsoft to build a \"massive\" cloud computer focused on AI. It will reportedly use tens of thousands of high-end Nvidia GPUs for applications like deep learning and large language models.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/11/nvidia-and-microsoft-team-up-to-build-massive-ai-cloud-computer/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/11/nvidia-and-microsoft-team-up-to-build-massive-ai-cloud-computer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 356,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/nvidia_logo_hero_1-800x448.jpg",
+          "width": 800,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2022/11/nvidia-and-microsoft-team-up-to-build-massive-ai-cloud-computer/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/nvidia-and-microsoft-team-up-to-build-massive-ai-cloud-computer/amp/",
+      "publishedDateTime": "2022-11-16T14:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-new-study-discovers-pre-treatment-cognitive-impairment-in-younger-cancer-patients.md",
+      "title": "New study discovers pre-treatment cognitive impairment in younger cancer patients",
+      "excerpt": "Cancer in those aged 15 to 39 is rare. Only about 70,000 cases are diagnosed annually in the U.S., so there is little information about cognitive toxicity in this population. However, as cure ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-11-pre-treatment-cognitive-impairment-younger-cancer.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-11-pre-treatment-cognitive-impairment-younger-cancer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/hospital-patient-3.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-11-pre-treatment-cognitive-impairment-younger-cancer.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-pre-treatment-cognitive-impairment-younger-cancer.amp",
+      "publishedDateTime": "2022-11-16T14:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-snapdragon-ar2-chip-set-to-accelerate-ar-glasses.md",
+      "title": "Snapdragon AR2 Chip Set To Accelerate AR Glasses",
+      "excerpt": "Qualcomm unveiled its AR2 Gen 1 Platform at Snapdragon Summit 2022 in Hawaii today. The new chipset will enable distributed processing, which",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2022/11/16/snapdragon-ar2-chip-set-to-accelerate-ar-glasses/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2022/11/16/snapdragon-ar2-chip-set-to-accelerate-ar-glasses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637414810444d6781321ad4d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 754,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2022/11/16/snapdragon-ar2-chip-set-to-accelerate-ar-glasses/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2022/11/16/snapdragon-ar2-chip-set-to-accelerate-ar-glasses/amp/",
+      "publishedDateTime": "2022-11-16T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-build-a-cross-account-mlops-workflow-using-the-amazon-sagemaker-model-registry.md",
       "title": "Build a cross-account MLOps workflow using the Amazon SageMaker model registry",
       "excerpt": "A well-designed CI/CD pipeline is essential to scale any software development workflow effectively. When designing production CI/CD pipelines, AWS recommends leveraging multiple accounts to isolate resources, contain security threats and simplify billing-and data science pipelines are no different. At",
@@ -818,308 +1138,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-report-michigan-must-boost-investments-grow-workforce-to-lead-in-mobility.md",
-      "title": "Report: Michigan must boost investments, grow workforce to lead in mobility",
-      "excerpt": "The state's Council on Future Mobility and Electrification recommends growing the mobility workforce, implementing state-level consumer EV incentive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.detroitnews.com/story/business/autos/2022/11/16/council-recommends-steps-for-michigan-to-bolster-mobility-leadership/69652023007/",
-      "originalUrl": "https://www.detroitnews.com/story/business/autos/2022/11/16/council-recommends-steps-for-michigan-to-bolster-mobility-leadership/69652023007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2022/08/24/PDTN/21f0962a-4f67-41f5-b104-f4e26448dba6-082422-tm-Toyota_NA-151.jpg?auto=webp&crop=5393,3034,x623,y13&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T07:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-toronto-startup-waabi-starts-testing-its-driverless-trucks-on-the-road-with-humans-on-board.md",
-      "title": "Toronto startup Waabi starts testing its driverless trucks on the road, with humans on board",
-      "excerpt": "Ms. Urtasun’s Waabi Innovation Inc. is officially rolling out its artificial intelligence-powered self ... guards and even to make left terms. Driverless vehicles have caused accidents resulting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/business/article-waabi-driverless-trucks-north-america/",
-      "originalUrl": "https://www.theglobeandmail.com/business/article-waabi-driverless-trucks-north-america/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theglobeandmail.com/resizer/DaZsdVX0TEYEecEy34slzNbqSBU=/1200x694/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/KXNXBRKJKREWVAMLTXQLYCUSPU.jpg",
-          "width": 1200,
-          "height": 694,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T06:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-fractal-announces-launch-of-asperai.md",
-      "title": "Fractal Announces Launch of Asper.ai",
-      "excerpt": "Fractal launches Asper.ai - a purpose-built interconnected AI product for consumer goods, manufacturing, and retail NEW YORK, Nov. 16, 2022 /PRNewswire/ -- Fractal (www.fractal.ai), a global ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/fractal-announces-launch-of-asper-ai-1031917691",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/fractal-announces-launch-of-asper-ai-1031917691",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T06:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-as-doubts-grow-over-self-driving-vehicles-this-ambitious-upstart-rolls-out-its-first-robot-trucks.md",
-      "title": "As Doubts Grow Over Self-Driving Vehicles, This Ambitious Upstart Rolls Out Its First Robot Trucks",
-      "excerpt": "Self-driving tech startup Waabi has deployed its first robot trucks and intends ... testing with the “Waabi World” simulator CEO Urtasun developed that allows the AI-enabled system to experience nearly limitless types of road conditions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alanohnsman/2022/11/16/as-doubts-grow-over-self-driving-vehicles-this-ambitious-upstart-rolls-out-its-first-robot-trucks/",
-      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2022/11/16/as-doubts-grow-over-self-driving-vehicles-this-ambitious-upstart-rolls-out-its-first-robot-trucks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63743b5c8a22f01209f59b8f/0x0.jpg?format=jpg&crop=3532,1885,x156,y113,safe&width=1200",
-          "width": 1200,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T06:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-artificial-intelligence-technology-solutions-aitx-ceo-testifies-at-criminal-hearing.md",
-      "title": "Artificial Intelligence Technology Solutions (AITX) CEO Testifies at Criminal Hearing",
-      "excerpt": "Artificial Intelligence Technology Solutions, Inc., (the Company) (OTCPK:AITX), has announced that on November 15, 2022 its CEO, Steve Reinharz provided testimony at a criminal assault hearing. The hearing was regarding an attack on a Trinity Railway Express (TRE) conductor at a Ft.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/11/16/9714708.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/11/16/9714708.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T05:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-aws-opens-spanish-cloud-region.md",
-      "title": "AWS opens Spanish cloud region",
-      "excerpt": "It becomes AWS' eighth infrastructure region in Europe, with this one located in Aragón. Like other regions, it will have three data centers (or availability zones). The facilities will be the company's first dedicated zones in Spain, though it currently ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.datacenterdynamics.com/en/news/aws-opens-spanish-cloud-region/",
-      "originalUrl": "https://www.datacenterdynamics.com/en/news/aws-opens-spanish-cloud-region/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.datacenterdynamics.com/media/images/AWS_Logos_Small.2e16d0ba.fill-1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T05:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datacenter Dynamics",
-        "domain": "datacenterdynamics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-aws-launches-infrastructure-region-in-spain.md",
-      "title": "AWS Launches Infrastructure Region in Spain",
-      "excerpt": "AWS Europe (Spain) Region allows customers to run workloads and store data securely in Spain while serving end users with even lower latency The new AWS Region is estimated to support more than ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswireindia.com/aws-launches-infrastructure-region-in-spain-81791.html",
-      "originalUrl": "https://www.businesswireindia.com/aws-launches-infrastructure-region-in-spain-81791.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_81791.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-16T04:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswireindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

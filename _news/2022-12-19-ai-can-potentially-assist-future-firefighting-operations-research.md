@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-19T13:01:00Z
 originalUrl: "https://news.webindia123.com/news/articles/Science/20221219/4016425.html"
 webUrl: "https://news.webindia123.com/news/articles/Science/20221219/4016425.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Webindia 123

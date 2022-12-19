@@ -2,6 +2,345 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2022-10-06-increase-ml-model-performance-and-reduce-training-time-using-amazon-sagemaker-built-in-algorithms-with-pre-trained-models.md",
+      "title": "Increase ML model performance and reduce training time using Amazon SageMaker built-in algorithms with pre-trained models",
+      "excerpt": "Model training forms the core of any machine learning (ML) project, and having a trained ML model is essential to adding intelligence to a modern application. A performant model is the output of a rigorous and diligent data science methodology. Not implementing a proper model training process can lead",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/increase-ml-model-performance-and-reduce-training-time-using-amazon-sagemaker-built-in-algorithms-with-pre-trained-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/increase-ml-model-performance-and-reduce-training-time-using-amazon-sagemaker-built-in-algorithms-with-pre-trained-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/06/increase-ml-model-performance.jpg",
+          "width": 1549,
+          "height": 769,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-06T09:59:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-10-06-informediq-automates-verifications-for-origences-auto-lending-using-machine-learning.md",
+      "title": "InformedIQ automates verifications for Origence’s auto lending using machine learning",
+      "excerpt": "This post was co-written with Robert Berger and Adine Deford from InformedIQ. InformedIQ is the leader in AI-based software used by the nation’s largest financial institutions to automate loan processing verifications and consumer credit applications in real time per the lenders’ policies. They improve",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/informediq-automates-verifications-for-origences-auto-lending-using-machine-learning/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/informediq-automates-verifications-for-origences-auto-lending-using-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/06/informediq-automates-verification.jpg",
+          "width": 1546,
+          "height": 772,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-06T09:51:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-10-06-president-biden-visits-ibm-to-announce-20b-investment-in-hudson-valley.md",
+      "title": "President Biden visits IBM to announce $20B investment in Hudson Valley",
+      "excerpt": "artificial intelligence and quantum computing. Thanks to the CHIPS and Science Act, IBM Poughkeepsie will directly benefit and be able to ensure a reliable and secure supply of next-generation ...",
+      "sourceUrl": null,
+      "webUrl": "https://westchester.news12.com/president-biden-to-announce-20b-investment-by-ibm-in-hudson-valley",
+      "originalUrl": "https://westchester.news12.com/president-biden-to-announce-20b-investment-by-ibm-in-hudson-valley",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.chdrstatic.com/media/d58cb652-7d2f-4be8-a0ba-43cd43c5626b.jpg?width=1200&source=backend&auto=webp",
+          "width": 1200,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://westchester.news12.com/amp/president-biden-to-announce-20b-investment-by-ibm-in-hudson-valley",
+      "cdnAmpWebUrl": "https://westchester-news12-com.cdn.ampproject.org/c/s/westchester.news12.com/amp/president-biden-to-announce-20b-investment-by-ibm-in-hudson-valley",
+      "publishedDateTime": "2022-10-06T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News 12 Networks",
+        "domain": "news12.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-06-the-white-house-blueprint-for-an-ai-bill-of-rights-time-for-more.md",
+      "title": "The White House Blueprint For An AI Bill Of Rights – Time For More",
+      "excerpt": "The published blueprint is a nice overview of the issue, but that’s not what should be happening at the federal level. The White House should be doing more to work with Congress to create clear legislation to implement the blueprint.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2022/10/06/the-white-house-blueprint-for-an-ai-bill-of-rights--time-for-more/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2022/10/06/the-white-house-blueprint-for-an-ai-bill-of-rights--time-for-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=876,494,x0,y21,safe&width=1200",
+          "width": 876,
+          "height": 494,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2022/10/06/the-white-house-blueprint-for-an-ai-bill-of-rights--time-for-more/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/10/06/the-white-house-blueprint-for-an-ai-bill-of-rights--time-for-more/amp/",
+      "publishedDateTime": "2022-10-06T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-06-ibm-pumps-20b-into-us-tech-sector.md",
+      "title": "IBM pumps $20B into US tech sector",
+      "excerpt": "IBM announced it would invest $20 billion in the state of New York over the next ten years to increase development and manufacturing of semiconductors, AI, mainframe technology and quantum computing. Chairman and CEO Arvind Krishna stated investing in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/ibm-pumps-20b-into-us-tech-sector/",
+      "originalUrl": "https://www.mobileworldlive.com/featured-content/top-three/ibm-pumps-20b-into-us-tech-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mobileworldlive.com/wp-content/uploads/2022/10/ibm-.jpeg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/top-three/ibm-pumps-20b-into-us-tech-sector/amp/",
+      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/ibm-pumps-20b-into-us-tech-sector/amp/",
+      "publishedDateTime": "2022-10-06T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-06-googles-tensor-g2-chip-is-key-to-many-pixel-7-ai-powered-abilities.md",
+      "title": "Google's Tensor G2 Chip Is Key to Many Pixel 7 AI-Powered Abilities",
+      "excerpt": "AI accelerators and other modules. Tensor G2 keeps the same basic design with a modest CPU upgrade, including its reliance on chip designer Arm. Unchanged from the first-generation Tensor are the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/mobile/googles-tensor-g2-chip-is-key-to-many-pixel-7-ai-powered-abilities/",
+      "originalUrl": "https://www.cnet.com/tech/mobile/googles-tensor-g2-chip-is-key-to-many-pixel-7-ai-powered-abilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/b7d936d8063788b4bd3a13dd3ecc04025b7a86e6/hub/2022/10/05/79af2cc4-06f5-4508-9bdb-75faa4f75b96/google-tensor-g2-pixel-7-processor.jpg?auto=webp",
+          "width": 2312,
+          "height": 1156,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-tensor-g2-chip-is-key-to-many-pixel-7-ai-powered-abilities/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-tensor-g2-chip-is-key-to-many-pixel-7-ai-powered-abilities/",
+      "publishedDateTime": "2022-10-06T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-06-using-ai-to-create-more-efficient-math-algorithms.md",
+      "title": "Using AI to create more efficient math algorithms",
+      "excerpt": "A team of researchers at Google's DeepMind, London, has found that AI can find faster algorithms to solve matrix multiplication problems. In their paper published in the journal Nature, the group describes using reinforcement learning to improve math-based algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-10-ai-efficient-math-algorithms.html",
+      "originalUrl": "https://techxplore.com/news/2022-10-ai-efficient-math-algorithms.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/using-ai-to-create-mor.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-10-ai-efficient-math-algorithms.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-ai-efficient-math-algorithms.amp",
+      "publishedDateTime": "2022-10-06T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-06-microsoft-open-sources-its-farm-of-the-future-toolkit.md",
       "title": "Microsoft open sources its ‘farm of the future’ toolkit",
       "excerpt": "The post Microsoft open sources its ‘farm of the future’ toolkit appeared first on The AI Blog.\n",
@@ -864,323 +1203,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-06-how-ai-can-help-companies-beat-inflation-and-avoid-shrinkflation.md",
-      "title": "How AI can help companies beat inflation and avoid shrinkflation",
-      "excerpt": "Shrinkflation efforts are being noticed by consumers. Orgs are realizing it doesn’t have the restorative impact on margins they hoped for.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-ai-can-help-companies-beat-inflation-and-avoid-shrinkflation/",
-      "originalUrl": "https://venturebeat.com/ai/how-ai-can-help-companies-beat-inflation-and-avoid-shrinkflation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-shrinkflation_1401710653-e1665013208837.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-ai-can-help-companies-beat-inflation-and-avoid-shrinkflation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-can-help-companies-beat-inflation-and-avoid-shrinkflation/amp/",
-      "publishedDateTime": "2022-10-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-06-self-driving-cars-reliability-challenges-solutions-and-social-adoption.md",
-      "title": "Self-Driving Cars: Reliability Challenges, Solutions, and Social Adoption",
-      "excerpt": "Manish Gupta is working on making self-driving cars, machine learning, and artificial intelligence safer and more reliable. (Image source: Manish Gupta) The strict reliability standards are critical for human safety and to help drive social acceptance of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/self-driving-cars-reliability-challenges-solutions-and-social-adoption",
-      "originalUrl": "https://www.designnews.com/electronics-test/self-driving-cars-reliability-challenges-solutions-and-social-adoption",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/01-Manish_GUPTA_0.jpg",
-          "width": 1449,
-          "height": 1449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-06-deepmind-details-new-ai-system-for-developing-algorithms.md",
-      "title": "DeepMind details new AI system for developing algorithms",
-      "excerpt": "Alphabet Inc.’s DeepMind unit today detailed AlphaTensor, an artificial intelligence system capable of discovering new algorithms that can be used to solve mathematical problems. DeepMind ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/10/05/deepmind-details-new-ai-system-developing-algorithms/",
-      "originalUrl": "https://siliconangle.com/2022/10/05/deepmind-details-new-ai-system-developing-algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/deepmind.png",
-          "width": 718,
-          "height": 404,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-05T15:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-06-google-answers-metas-video-generating-ai-with-its-own-dubbed-imagen-video.md",
-      "title": "Google answers Meta’s video-generating AI with its own, dubbed Imagen Video",
-      "excerpt": "Google's Imagen Video model, like Meta's recently detailed Make-A-Video, can generate short looping clips given a text prompt.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/05/google-answers-metas-video-generating-ai-with-its-own-dubbed-imagen-video/",
-      "originalUrl": "https://techcrunch.com/2022/10/05/google-answers-metas-video-generating-ai-with-its-own-dubbed-imagen-video/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1230444599-1-e1660816546129.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/05/google-answers-metas-video-generating-ai-with-its-own-dubbed-imagen-video/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/05/google-answers-metas-video-generating-ai-with-its-own-dubbed-imagen-video/amp/",
-      "publishedDateTime": "2022-10-05T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-06-artificial-intelligence-may-improve-suicide-prevention-in-the-future.md",
-      "title": "Artificial intelligence may improve suicide prevention in the future",
-      "excerpt": "Efforts to improve risk prediction have led to her research using artificial intelligence (AI) to develop suicide risk algorithms. \"Having AI that could take in a lot more data than a clinician ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/depressed-2.jpg",
-          "width": 2880,
-          "height": 1866,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.amp",
-      "publishedDateTime": "2022-10-05T13:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-06-driverless-grocery-delivery-trucks-now-in-toronto.md",
-      "title": "Driverless grocery delivery trucks now in Toronto",
-      "excerpt": "One of Loblaw's driverless delivery trucks is seen ... Glasgow have developed a system that uses thermal imaging and artificial intelligence to guess computer and smartphone passwords in seconds.",
-      "sourceUrl": null,
-      "webUrl": "https://toronto.ctvnews.ca/driverless-grocery-delivery-trucks-now-in-toronto-1.6097451",
-      "originalUrl": "https://toronto.ctvnews.ca/driverless-grocery-delivery-trucks-now-in-toronto-1.6097451",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2022/10/6/1_6097466.jpg",
-          "width": 960,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/local/toronto/2022/10/5/1_6097451.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/toronto/2022/10/5/1_6097451.amp.html",
-      "publishedDateTime": "2022-10-05T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-06-tesla-to-remove-sensors-from-the-vehicles-self-driving-system-and-instead-rely-on-eight-cameras-and-artificial-intelligence-after-intense-scrutiny.md",
-      "title": "Tesla to REMOVE sensors from the vehicle's self-driving system and instead rely on eight cameras and artificial intelligence after intense scrutiny following series of crashes",
-      "excerpt": "Tesla is removing sensors from its cars as it shifts toward a system based solely on eight cameras that feed information into its self-driving artificial intelligence. Ultrasonic sensors (USS ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-11283721/Tesla-REMOVE-sensors-new-cars-bet-cameras-AI-amid-scrutiny-crashes.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-11283721/Tesla-REMOVE-sensors-new-cars-bet-cameras-AI-amid-scrutiny-crashes.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/10/05/17/63146475-0-image-a-30_1664988606459.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-11283721/amp/Tesla-REMOVE-sensors-new-cars-bet-cameras-AI-amid-scrutiny-crashes.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11283721/amp/Tesla-REMOVE-sensors-new-cars-bet-cameras-AI-amid-scrutiny-crashes.html",
-      "publishedDateTime": "2022-10-05T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

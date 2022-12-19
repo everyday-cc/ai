@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-19T13:27:00Z
 originalUrl: "https://www.independent.com.mt/articles/2022-12-19/local-news/Voice-for-Choice-group-urges-MPs-to-vote-yes-on-abortion-law-amendment-bill-6736248342"
 webUrl: "https://www.independent.com.mt/articles/2022-12-19/local-news/Voice-for-Choice-group-urges-MPs-to-vote-yes-on-abortion-law-amendment-bill-6736248342"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: The Malta Independent

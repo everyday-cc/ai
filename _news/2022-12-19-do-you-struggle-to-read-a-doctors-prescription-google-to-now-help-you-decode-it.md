@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-19T13:51:00Z
 originalUrl: "https://www.ndtv.com/feature/do-you-struggle-to-read-a-doctors-prescription-google-to-now-help-you-decode-it-3620519"
 webUrl: "https://www.ndtv.com/feature/do-you-struggle-to-read-a-doctors-prescription-google-to-now-help-you-decode-it-3620519"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: NDTV
@@ -14,6 +17,26 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Google Will Soon Help Translate Doctor's Handwritten Prescription"
+    excerpt: "Google on Monday announced an artificial intelligence (AI) and machine learning (ML) model that can identify and highligh"
+    publishedDateTime: 2022-12-19T13:11:00Z
+    webUrl: "https://menafn.com/1105327280/Google-Will-Soon-Help-Translate-Doctors-Handwritten-Prescription"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
+  - title: "Google will translate doctor's handwritten prescriptions soon: Know more"
+    excerpt: "Google to decode doctor's handwriting with a new AI software the tech giant is working on. The assistive technology for digitising handwritten medical documents will help the humans in the loop like pharmacists,"
+    publishedDateTime: 2022-12-19T13:09:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/google-will-translate-doctor-s-handwritten-prescriptions-soon-know-more-2022-12-19-832450"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 18
 
 secured: "qyLZeKolD+N8aISEsAuaH6U8p7YRttZZUawcPmuOg/WM/bqhBusbEDaEZK94ijGtHwXEQL2Vwjskl0HeSRkslIcefj84Smn6AwDsRRUzsmKjWgq0F2XYG1tc5Z+k9PwAoj5V+Nm/CGh/0MEJzqjdI/nLcHJkxCh5sNKrNO8hq6SnnX6SCIxO0bMVOEnBRSklzaDaP7PeHN5RcG4ZwazMQQkdrZ68/Oms4DBWNLapbJPSl5RT0yhiH2dn/HBYVTqcmmi3de67tLYnRf4xr7Qi6IxTQpwuwEvx6DsnYowPaEgOxHwjylwYFCAJcEdo56Mzj8cTFtVYjJu6Qp7lHuFdp2oTbIfBVhfYO1SKQwxRRfD2mubiEj3W58i7KMoto8f0cHigSobkPwKwwl/1yaSr8/prYML+YQ3EYK1T1BJcmT8zEigiXDbzQObZJPyHlVaDuawBapGtqHApXqHpjLKrHaXIMFZDeHYUNOjXeQacouZEBn5WDIdFvg63B58k6W+W3a4Wi4RVm4oTKu7OK0et0A==;De6DTieamVgc44ZTMBOPqA=="
 ---

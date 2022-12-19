@@ -25,21 +25,44 @@ images:
     isCached: true
 
 related:
-  - title: "Looking ahead: 2023 FinTech predictions"
-    excerpt: "With 2022 coming to a close, we’ve gathered the thoughts of a number of FinTech experts to share their predictions for the year ahead. Read on to find out what 2023 has in store for the FinTech sector."
-    publishedDateTime: 2022-12-14T21:14:00Z
-    webUrl: "https://www.globalbankingandfinance.com/looking-ahead-2023-fintech-predictions/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/looking-ahead-2023-fintech-predictions/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/looking-ahead-2023-fintech-predictions/"
+  - title: "UNO Digital Bank partners with fintech Trusting Social"
+    excerpt: "UNO DIGITAL BANK has partnered with technology firm Trusting Social to offer more Filipino consumers greater access to loans with the help of data science tools. “Our partnership with Trusting Social will allow us to offer our services to unbanked Filipinos who otherwise won’t have access to formal lending services,"
+    publishedDateTime: 2022-12-19T15:01:00Z
+    webUrl: "https://www.bworldonline.com/banking-finance/2022/12/20/494019/uno-digital-bank-partners-with-fintech-trusting-social/"
+    ampWebUrl: "https://www.bworldonline.com/banking-finance/2022/12/20/494019/uno-digital-bank-partners-with-fintech-trusting-social/?amp"
+    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/banking-finance/2022/12/20/494019/uno-digital-bank-partners-with-fintech-trusting-social/?amp"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 44
+      name: BusinessWorld
+      domain: bworldonline.com
+    quality: 39
+  - title: "Patrick Sells' new gig: helping banks innovate and find fintech partners"
+    excerpt: "The former chief innovation officer at Quontic Bank and American Banker's 2020 Digital Banker of the Year is offering seminars, a bank-fintech matchmaking platform and fintech investment fund."
+    publishedDateTime: 2022-12-16T18:02:00Z
+    webUrl: "https://www.americanbanker.com/news/patrick-sells-new-gig-helping-banks-innovate-and-find-fintech-partners"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 38
     images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/12/702.jpg"
-        width: 265
-        height: 261
+      - url: "https://arizent.brightspotcdn.com/dims4/default/042c2d9/2147483647/strip/true/crop/1400x735+0+34/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F1e%2F50%2Fdf3ece014ce1af3aef905050ccff%2Fpatrick-sells.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Patrick Sells's new gig: Helping banks innovate and find fintech partners"
+    excerpt: "The former chief innovation officer at Quontic Bank and American Banker's 2020 Digital Banker of the Year is offering seminars, a bank-fintech matchmaking platform and a fintech investment fund."
+    publishedDateTime: 2022-12-16T18:02:00Z
+    webUrl: "https://www.americanbanker.com/news/patrick-sells-new-gig-helping-banks-innovate-and-find-fintech-partners"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 38
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/042c2d9/2147483647/strip/true/crop/1400x735+0+34/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F1e%2F50%2Fdf3ece014ce1af3aef905050ccff%2Fpatrick-sells.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Salter Brothers tips into payments fintech IP Solutions"
     excerpt: "Ex-Bombora stockpicker Gregg Taylor has ruled off his first unlisted investment in his new role as head of equities at Salter Brothers."
@@ -55,15 +78,43 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Fintech stocks took hammering in 2022, but rebound coming: industry boss"
-    excerpt: "Soaring interest rates tend to hurt growth stocks – and more specifically tech stocks – due to the discounted cash flow models used in their valuations. As a result, fintech, which is part of the broader tech space,"
-    publishedDateTime: 2022-12-14T22:23:00Z
-    webUrl: "https://www.theaustralian.com.au/business/stockhead/fintech-stocks-took-hammering-in-2022-but-rebound-coming-industry-boss/news-story/d951302ea5f22262759959956caaddeb"
+  - title: "The case for optimism: encouraging fintech trends in 2023"
+    excerpt: "Fintech vendors leveraging data and cloud automation rapidly become the new security standard-bearers in various verticals. There is a fundamental and radical improvement in the tools available to assess risk and fraud."
+    publishedDateTime: 2022-12-19T10:08:00Z
+    webUrl: "https://www.finextra.com/blogposting/23430/the-case-for-optimism-encouraging-fintech-trends-in-2023"
     type: article
     provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 3
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/visible_pictures/741715aa-3c6c-47b7-8c75-a21f366cb9b5.jpg"
+        width: 500
+        height: 333
+        isCached: true
+  - title: "Moomoo wins Best Investment Research Tech at the Benzinga Global Fintech Awards"
+    excerpt: "Moomoo Recognized for 2nd Straight Year at Benzinga Global Fintech Awards PALO ALTO, Calif., Dec. 16, 2022 /PRNewswire/ -- Moomoo, the tech-driven online financial services platform, was"
+    publishedDateTime: 2022-12-16T13:59:00Z
+    webUrl: "https://www.asiaone.com/business/moomoo-wins-best-investment-research-tech-benzinga-global-fintech-awards"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 20
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Dec2022/Bemzinga_Award_2022.jpg?h=c66d06c9&itok=hosEw0uB"
+        width: 600
+        height: 316
+        isCached: true
+  - title: "AI in fintech: 4 ways AI impacts on financial industry"
+    excerpt: "A remarkable milestone in fintech has become the deployment of artificial intelligence algorithms, a potential game changer that has revolutionized the financial industry in many ways. The benefits AI brings are huge: this smart tech reduces unnecessary expenses,"
+    publishedDateTime: 2022-12-15T14:53:00Z
+    webUrl: "https://www.finextra.com/blogposting/23418/ai-in-fintech-4-ways-ai-impacts-on-financial-industry"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "6VJ4BvBjCxJ7tyHN7ecczFn+38mzpopxOxKQ1ZFE0NUFFqJDD7xyhadR8hiW0u2PmdoBKMNJFWqtVTeNIanRqUqZ2oPgqi38D8fsCNWT1WDFYc9rm/z4awnHodTGlg5jT44Nx+0cZ6JqFkhZ/Ocehxkzp1RhAdFu4HL7Oa5rBwLBRA2tIw73Qg/bmZX0DKXtGQ0XF++cz380l5lVe8XUgyphdqIFJIZ/mffJOCisv2MR9Gt9Tz22KQn1ayozSqkK68xdu+VZyZJA+8bLJhQK4Kuk1GmlTWCmIzChJhWFlWrvCrB2E55k1p5QS/NdxRfVZnNsrsbDBME8YkAW8ozdGFK8igSQ32GJYCHJgVKNFng=;dDXnf8DvuNSsdVOgOw4a4Q=="
 ---

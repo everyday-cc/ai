@@ -2,6 +2,83 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-10-07-artificial-intelligence-in-healthcare-market-is-going-to-boom-at-a-cagr-of-5137-in-the-forecast-of-2029.md",
+      "title": "Artificial Intelligence in Healthcare Market is going to boom at a CAGR of 51.37% in the forecast of 2029",
+      "excerpt": "Not to mention, Artificial Intelligence in Healthcare market document delivers an in-depth study with respect to present and upcoming opportunities which puts light on the future investment in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-is-going-to-boom-at-a-cagr-of-51-37-in-the-forecast-of-2029",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-is-going-to-boom-at-a-cagr-of-51-37-in-the-forecast-of-2029",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-07T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-07-ai-model-study-may-lead-to-identifying-skin-cancer-from-blood-test.md",
+      "title": "AI model study may lead to identifying skin cancer from blood test",
+      "excerpt": "Researchers say an AI model can predict which skin cancer patients will benefit from treatments activating the immune defense system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.labiotech.eu/trends-news/ai-model-study-may-lead-to-identifying-skin-cancer-from-blood-test/",
+      "originalUrl": "https://www.labiotech.eu/trends-news/ai-model-study-may-lead-to-identifying-skin-cancer-from-blood-test/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.labiotech.eu/wp-content/uploads/2022/10/shutterstock-1407175277.jpg",
+          "width": 1000,
+          "height": 625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-07T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "labiotech",
+        "domain": "labiotech.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-06-can-we-reverse-our-psychological-age-and-get-happier-at-the-same-time-using-artificial-intelligence.md",
       "title": "Can We Reverse Our Psychological Age And Get Happier At The Same Time Using Artificial Intelligence?",
       "excerpt": "As the body grows old, our minds are often instigated by mental decline and progressive, natural psychological aging. However, while there are very little we can do about biological aging, there are many ways to reverse psychological aging and get happier at the same time.",
@@ -1233,101 +1310,6 @@
       "provider": {
         "name": "Indiatimes",
         "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-artificial-intelligence-in-healthcare-market-is-expected-to-undergo-a-cagr-of-5137-by-2029.md",
-      "title": "Artificial Intelligence in Healthcare Market is expected to undergo a CAGR of 51.37% by 2029",
-      "excerpt": "The professional and detailed Artificial Intelligence in Healthcare market analysis report underlines the primary",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-is-expected-to-undergo-a-cagr-of-5137-by-2029-2022-09-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-is-expected-to-undergo-a-cagr-of-5137-by-2029-2022-09-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T01:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-dementia-diagnosis-could-be-fast-tracked-using-artificial-intelligence.md",
-      "title": "Dementia diagnosis could be fast-tracked using artificial intelligence",
-      "excerpt": "Dr Roman Bauer, senior author of the study from the University of Surrey, said: \"Our study shows that using artificial intelligence analysis of EEG data as a diagnostic tool to identify dementia could be life-changing for many people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.surrey.ac.uk/news/dementia-diagnosis-could-be-fast-tracked-using-artificial-intelligence",
-      "originalUrl": "https://www.surrey.ac.uk/news/dementia-diagnosis-could-be-fast-tracked-using-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.surrey.ac.uk/sites/default/files/styles/image_gallery/public/2022-09/GettyImages-1132352689.jpg?itok=slQvzZv_",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T02:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "University of Surrey",
-        "domain": "surrey.ac.uk",
         "images": null,
         "publishers": null,
         "authors": null

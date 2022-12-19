@@ -43,20 +43,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "TSA trying out facial recognition system at several new airports"
-    excerpt: "It is the new technology facing travelers as they fly for the holidays. RELATED: How does facial recognition technology work? The Transportation Security Administration is now scanning your face at select airport checkpoints as part of a growing test with passengers as the subjects."
-    publishedDateTime: 2022-12-19T05:24:00Z
-    webUrl: "https://6abc.com/airport-facial-recognition-tsa-technology-search/12588271/"
-    type: article
-    provider:
-      name: 6abc News
-      domain: 6abc.com
-    quality: 54
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/12588274_121822-wls-face-recognition-img.jpg?w=1600"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "wJRrlXGLjWGx6CvtiyXg0flITSZD98lbS5XhADdukb40iawE3XpDq4fsdFHA+Gmarsy125AaRZGZffNUa79RKZr5Th6mMPmOG5k4PINuD7nVkeDosvJVtVMhVHxB7ENW/jIpYeqIazDDkr8b2xFKkFpGg09XJkZADrm+Ycimx2XrJTdwoR/MlcuyY9XKdG6TgElHWPcXWmdb1xZQXrdhSgHy7oGqtOAw9DjZ+X7mSAAPIZMwEoF3vP/l+H6I2UBZeGo/h1/UypAioYuyAe6vSNGUkyDiZ7tZtHs4dk2kLIp6snXOFr4rwZhcRw++LFTovee8Ed1kTxeGQ+tg7ytvckQXCk8ZEsqJ3lfqyg+QhazlCCzAEziZ5nXETJ84vbX8Qtim41Cr+ctbJ9TaF2jdCGiDIlPsFmraaRMelnv+tu6yIOWCJ2F5di1eBnaIEinTFYWi/zyKyCYAiTUvON+qkZ4QOs7rm38rhcHmveyNZC7OUsFYTElok/EmELStEqABlVm/kdcQhdn2ZoLpKs6brA==;rNYlX0dBxzyvI4gJ3DSAyg=="
 ---

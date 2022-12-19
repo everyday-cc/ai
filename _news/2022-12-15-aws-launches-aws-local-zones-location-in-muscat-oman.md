@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-15T09:06:00Z
 originalUrl: "https://www.albawaba.com/business/pr/aws-launches-aws-local-zones-location-muscat-oman-1502486"
 webUrl: "https://www.albawaba.com/business/pr/aws-launches-aws-local-zones-location-muscat-oman-1502486"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Al Bawaba News

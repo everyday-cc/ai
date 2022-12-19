@@ -91,22 +91,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial intelligence: Delhi govt schools kick off era of robots with new competition"
-    excerpt: "The era of robots begins now in government schools in Delhi. A robotics competition for students will kickstart from December 16, says a circular issued by the Directorate of Education (DoE). The inaugural function is being organised at a Delhi government school."
-    publishedDateTime: 2022-12-14T23:02:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/delhi/artificial-intelligence-delhi-govt-schools-kick-off-era-of-robots-with-new-competition/articleshow/96234299.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/delhi/artificial-intelligence-delhi-govt-schools-kick-off-era-of-robots-with-new-competition/amp_articleshow/96234299.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/delhi/artificial-intelligence-delhi-govt-schools-kick-off-era-of-robots-with-new-competition/amp_articleshow/96234299.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 66
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1070
-        height: 579
-        isCached: true
   - title: "Delhi govt schools to kick off robotics competition for students"
     excerpt: "Robotics has emerged as a promising field in Education and NEP 2020 has given special emphasis on educational opportunities to learn Robotics and Artificial Intelligence"
     publishedDateTime: 2022-12-15T19:29:00Z

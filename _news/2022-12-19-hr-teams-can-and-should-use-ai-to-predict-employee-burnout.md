@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-19T13:02:00Z
 originalUrl: "https://www.forbes.com/sites/esmtberlin/2022/12/19/hr-teams-can-and-should-use-ai-to-predict-employee-burnout/"
 webUrl: "https://www.forbes.com/sites/esmtberlin/2022/12/19/hr-teams-can-and-should-use-ai-to-predict-employee-burnout/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

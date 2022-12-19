@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-12-18-ai-in-computer-vision-market-2023-statistics-industry-share-latest-trends-growth-drivers-size-estimate-and-forecast-till-2028.md",
-      "title": "AI In Computer Vision Market 2023 Statistics, Industry Share, Latest Trends, Growth Drivers, Size Estimate and Forecast till 2028",
-      "excerpt": "\" AI In Computer Vision Market \" Insights 2022 - By Applications (JHGJGHealthcare, Automotive, Agriculture), By Types (JHGJG Hardware, Software), By Segmentation analysis, Regions and Forecast to 2028.",
+      "path": "_news/2022-12-19-tsa-tests-facial-recognition-technology-at-more-airports.md",
+      "title": "TSA tests facial recognition technology at more airports",
+      "excerpt": "That’s because the Transportation Security Administration is expanding its facial recognition pilot program. The goal is to match a passenger’s face with a photo ID at security checkpoints. The program is still in the testing phase, but it’s already ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2023-statistics-industry-share-latest-trends-growth-drivers-size-estimate-and-forecast-till-2028-2022-12-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2023-statistics-industry-share-latest-trends-growth-drivers-size-estimate-and-forecast-till-2028-2022-12-17",
+      "webUrl": "https://www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/",
+      "originalUrl": "https://www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 94,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://gray-ktre-prod.cdn.arcpublishing.com/resizer/rJtC5wJXGKCN8WlDF2uXxgTJqTc=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/FO6PWOKSHVCMJF5Q6UGNWYBJBU.jpg",
+          "width": 800,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,66 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-17T17:59:00-08:00",
+      "ampWebUrl": "https://www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-ktre-com.cdn.ampproject.org/c/s/www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/?outputType=amp",
+      "publishedDateTime": "2022-12-19T07:09:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-12-17-facial-recognition-system-unmasks-privacy-concerns.md",
-      "title": "Facial recognition system unmasks privacy concerns",
-      "excerpt": "CHENNAI: The Chennai police’s use of the Facial Recognition System (FRS) in recent times has raised questions of legality and concerns of data privacy from politicians and experts. This comes after a man took to the social media platform Twitter on December 8,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/states/tamil-nadu/2022/dec/17/facial-recognition-system-unmasks-privacy-concerns-2528937.html",
-      "originalUrl": "https://www.newindianexpress.com/states/tamil-nadu/2022/dec/17/facial-recognition-system-unmasks-privacy-concerns-2528937.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/11/20/w600X390/cyber_security.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/states/tamil-nadu/2022/dec/17/facial-recognition-system-unmasks-privacy-concerns-2528937.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/tamil-nadu/2022/dec/17/facial-recognition-system-unmasks-privacy-concerns-2528937.amp",
-      "publishedDateTime": "2022-12-16T13:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
+        "name": "KTRE",
+        "domain": "ktre.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -713,6 +660,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-10-face-scanning-could-be-coming-to-all-major-us-airports-heres-what-to-know.md",
+      "title": "Face Scanning Could Be Coming to All Major U.S Airports: Here’s What to Know",
+      "excerpt": "The TSA has been using facial recognition software at 16 airports—here's what you need to know about how it works and if you need to do it. It’s not new for the Transportation Security ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.rd.com/article/tsa-facial-recognition/",
+      "originalUrl": "https://www.rd.com/article/tsa-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rd.com/wp-content/uploads/2022/12/GettyImages-1150771095-scaled.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T13:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reader's Digest",
+        "domain": "rd.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-10-how-businesses-are-deploying-facial-recognition.md",
       "title": "How businesses are deploying facial recognition",
       "excerpt": "As facial recognition software becomes easier to acquire, businesses are using it to surveil and analyze customers. Bloomberg's Parmy Olson explains where and how the technology is being deployed.",
@@ -742,6 +732,49 @@
       "provider": {
         "name": "WUWM",
         "domain": "wuwm.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-the-tsa-plans-to-take-facial-recognition-technology-nationwide.md",
+      "title": "The TSA plans to take facial recognition technology nationwide",
+      "excerpt": "The Transportation Security Administration has been testing facial recognition technology as an option for travelers at select U.S. airports for years, touting it as a way to speed up identity verification at security.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox7austin.com/news/tsa-facial-recognition-technology-nationwide",
+      "originalUrl": "https://www.fox7austin.com/news/tsa-facial-recognition-technology-nationwide",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2022/12/932/470/GettyImages-1159430283.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox7austin.com/news/tsa-facial-recognition-technology-nationwide.amp",
+      "cdnAmpWebUrl": "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/news/tsa-facial-recognition-technology-nationwide.amp",
+      "publishedDateTime": "2022-12-09T06:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX 7 Austin KTBC",
+        "domain": "fox7austin.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -795,49 +828,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-the-tsa-plans-to-take-facial-recognition-technology-nationwide.md",
-      "title": "The TSA plans to take facial recognition technology nationwide",
-      "excerpt": "The Transportation Security Administration has been testing facial recognition technology as an option for travelers at select U.S. airports for years, touting it as a way to speed up identity ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/politics/tsa-plans-take-facial-recognition-technology-nationwide",
-      "originalUrl": "https://www.foxbusiness.com/politics/tsa-plans-take-facial-recognition-technology-nationwide",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2022/09/Airport.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/politics/tsa-plans-take-facial-recognition-technology-nationwide.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/tsa-plans-take-facial-recognition-technology-nationwide.amp",
-      "publishedDateTime": "2022-12-08T11:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

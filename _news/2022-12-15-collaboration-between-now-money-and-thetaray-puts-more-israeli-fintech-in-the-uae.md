@@ -41,6 +41,20 @@ related:
         width: 1122
         height: 1280
         isCached: true
+  - title: "How Artificial Intelligence Can Enhance the Fintech Industry"
+    excerpt: "AI in FinTech has also had a similar impact with enhanced security and banking apps, making the finance industry more customer friendly. Artificial intelligence (AI) significantly impacts practically every part of our daily life,"
+    publishedDateTime: 2022-12-16T16:45:00Z
+    webUrl: "https://www.bbntimes.com/financial/how-artificial-intelligence-can-enhance-the-fintech-industry"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 39
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/How_AI_Can_Enhance_the_Fintech_Industry.png"
+        width: 1888
+        height: 1080
+        isCached: true
 
 secured: "ZEvtmjprDmVKoUe0P6Uf5k+xsnaaMW+8Fa+VNVQpSux8BHfU89lSlo+GL550EhLByIuG2AovcxVI/7lACK95FIUsPMQIE0KWUeNDY0J4GCSCyTdOZU5Y9PO6g4tQ7fFruGX93H9RLajE0W6vdM4H//6GazCHwHbdb8OJzQQIREq61dSP79jAsBWXS5xtz7ArOdWNl1LFmdX8KtuE5K4VlQDoQvdxVClbHKGVJ+X+mx605YyAFwGnDJ4aKDpXP6muui5dx26HbpvLQFM4EX+57IA6wtuS5C4fD/iNAcNHM2uYvqF70kWFDjWW/uw40htCVvz10l7x747Ttf31psp/N2bnuDuhrKCzj789nUeEPlM6fotLZo15/V7FH2ADKm7/u6zd84DfA5pV+v6ilz2qJYBGCUKEV0myDK4SLcucDYkWZ2YRZhudiyzBlBtGeYX6VtyKLpTqcqwPuc6uI8onlEuUHg9yNxQBuFLf15VCi5kmLgjghYev7LSXSxV6SpvXRsuwZGW5t+x9MAx0Si+wMA==;0IDHSL/cbzMzLWXjtj60hg=="
 ---

@@ -23,17 +23,6 @@ images:
     height: 696
     isCached: true
 
-related:
-  - title: "IARPA to Discuss Analytics Intelligence Program With Industry"
-    excerpt: "Looking for the latest Government Contracting News? Read about IARPA to Discuss Analytics Intelligence Program With Industry."
-    publishedDateTime: 2022-12-16T20:52:00Z
-    webUrl: "https://executivegov.com/2022/12/iarpa-to-hold-proposers-day-on-analytics-intelligence-program/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 2
-
 secured: "vZa0tzJx52DQREkuoYkQ0wEZ9w1TmGEpZ/rJ2cykwaMVIibP3zs0mTbooiaLClMdAa19aE2frnpLYqz4+tWpBQPJYiuOBFE1l7ivCb5iXJ8UgsQgdaQnfGXI8aFk8N11Qe+Hbe3D2u9/zdsQaQH+FumY959TkCq6v6ySSOBBloeuURa6jaNyoKjQlNCSKkpNy7VAHswqMITkXcmdpevVzhrZZz/YwfQCjYAPbYOicImaJ1gh2rZft96WZwjlyO0WGK2Y+2p6LYmRaZWneGlyyE8s6f5orKyHqqZXk+YabkeYdz/GdU88Z/WyltCngdlDVan1uTfeceRMicApptvQFryslX5bJJse1kx7cMhWFt6+Zq3fCCJKgbeCwGCCKiw80cn2/Awrv1FiDGU+3ag7DPz+L1Hq5C7qlD7dBZzK4b0bo8UWi6xDuFDIfaxiJBXnd1canik6vlAQuF25M36UPGEtmPDHoKv97pomJ4z30HlWjVyzIEN+KmIBG3hSUYBWGxs+8EG+QTXyhKeX1XiB5A==;MOerD460lytUQxOwrh2VwA=="
 ---
 

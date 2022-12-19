@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-19T13:09:00Z
 originalUrl: "https://www.indiatvnews.com/technology/news/google-will-translate-doctor-s-handwritten-prescriptions-soon-know-more-2022-12-19-832450"
 webUrl: "https://www.indiatvnews.com/technology/news/google-will-translate-doctor-s-handwritten-prescriptions-soon-know-more-2022-12-19-832450"
 type: article
+quality: 18
+heat: -1
+published: false
 
 provider:
   name: India TV
@@ -14,6 +17,26 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Google Will Soon Help Translate Doctor's Handwritten Prescription"
+    excerpt: "Google on Monday announced an artificial intelligence (AI) and machine learning (ML) model that can identify and highligh"
+    publishedDateTime: 2022-12-19T13:11:00Z
+    webUrl: "https://menafn.com/1105327280/Google-Will-Soon-Help-Translate-Doctors-Handwritten-Prescription"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
+  - title: "Do You Struggle To Read A Doctor's Prescription? Google To Now Help You Decode It"
+    excerpt: "The feature which will be rolled out on Google Lens will allow users to either take a picture of the prescription or upload one from the photo library."
+    publishedDateTime: 2022-12-19T13:51:00Z
+    webUrl: "https://www.ndtv.com/feature/do-you-struggle-to-read-a-doctors-prescription-google-to-now-help-you-decode-it-3620519"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 0
 
 secured: "/8mx3Q1nLMPelqjebRadAsKCKzIPIcMKEQIDvXAuyh/Rfgxd4XkWibMaQQTzP4IrjPr+VKX5SY+uV8Z/q3wkTQ6Oj5MWMROreBSNG8WDYyhSVSI88EGmqvuxkw0VdvizBfVavupaDaxxukmb8B5kbDxvcuBW1Jg9eHk2djY0Z6xg1ME4QiAVt9cZ0o/89JtO4cGWAjMX1ZHRNzAFoixU/cZ5Dr3JHHgWxglMWA0j9TpEDzlXvy/T3tgsP4ogUE+YcbxX1hUqzS06Ac8ppSR+zdM+AGPA1nskxv71cwxEmCK1BKZiBxhkiW1Oli+XWxP/wZ92MmZJWUDaRU31sHWP/Jf3k5x0BsNGuRUf3xl7lxwdSbmf424VQo3rXX0P4M6RtSaU/aXakksW0pgK3j0uQU6iCUgRPHyoMyqo33HlDjbE90zieyO+Kc+hLTdznbbBbD02pNCCgBLlDSfYNcRu++EfQT3iAGRIzp6d5YrXHYK1pdPjIPRQe3sMlpJYEd9S11XyMYCwZi3R0MW3vMWX2g==;vujLro7GKhvYyBOWQRyvhw=="
 ---

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-12-17-the-current-state-of-ai-in-healthcare-and-where-its-going-in-2023.md",
-      "title": "The Current State of AI in Healthcare and Where It's Going in 2023",
-      "excerpt": "Artificial intelligence is helping doctors diagnose and manage kidney disease and improving diagnostics and analysis of patient data.",
+      "path": "_news/2022-12-19-how-is-artificial-intelligence-shaping-the-audits-of-financial-statements.md",
+      "title": "How Is Artificial Intelligence Shaping The Audits Of Financial Statements?",
+      "excerpt": "A recent study demonstrates that the use of artificial intelligence is significantly improving the quality and efficiency of financial statement audits, as well as displacing audit professionals.",
       "sourceUrl": null,
-      "webUrl": "https://healthtechmagazine.net/article/2022/12/ai-healthcare-2023-ml-nlp-more-perfcon",
-      "originalUrl": "https://healthtechmagazine.net/article/2022/12/ai-healthcare-2023-ml-nlp-more-perfcon",
+      "webUrl": "https://www.forbes.com/sites/josephbrazel/2022/12/19/how-is-artificial-intelligence-shaping-the-audits-of-financial-statements/",
+      "originalUrl": "https://www.forbes.com/sites/josephbrazel/2022/12/19/how-is-artificial-intelligence-shaping-the-audits-of-financial-statements/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://healthtechmagazine.net/themes/cdw/images/audio/cdw_healthtech_audio.png",
-          "width": 772,
-          "height": 409,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6399d4dbc66f19da4ea62f2e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://healthtechmagazine.net/article/2022/12/ai-healthcare-2023-ml-nlp-more-perfcon?amp",
-      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2022/12/ai-healthcare-2023-ml-nlp-more-perfcon?amp",
-      "publishedDateTime": "2022-12-16T09:18:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/josephbrazel/2022/12/19/how-is-artificial-intelligence-shaping-the-audits-of-financial-statements/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/josephbrazel/2022/12/19/how-is-artificial-intelligence-shaping-the-audits-of-financial-statements/amp/",
+      "publishedDateTime": "2022-12-19T02:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "HealthTech",
-        "domain": "healthtechmagazine.net",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,8 +49,62 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-12-18-artificial-intelligence-in-healthcare-service-market-2023-production-capacity-restring-drivers-size-and-landscape-outlook-2028.md",
+      "title": "Artificial Intelligence In Healthcare Service Market 2023 : Production Capacity, Restring Drivers, Size and Landscape Outlook 2028",
+      "excerpt": "\" Artificial Intelligence In Healthcare Service Market \" Insights 2022 - By Applications (Patient Data and Risk Analysis, Lifestyle Management and Monitoring, Precision Medicine, In-Patient Care and Hospital Management,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-service-market-2023-production-capacity-restring-drivers-size-and-landscape-outlook-2028-2022-12-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-service-market-2023-production-capacity-restring-drivers-size-and-landscape-outlook-2028-2022-12-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-17T18:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
         "AI in Healthcare",
-        "AI"
+        "Machine Learning"
       ]
     },
     {
@@ -286,6 +349,41 @@
         "AI Ethics",
         "AI in Robotics",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-could-artificial-intelligence-help-us-build-a-technological-world-that-is-more-ethical.md",
+      "title": "Could artificial intelligence help us build a technological world that is more ethical?",
+      "excerpt": "Technology, and artificial intelligence in particular, could be used to empower users and help us move towards a world that is more ethically desirable",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/974272",
+      "originalUrl": "https://www.eurekalert.org/news-releases/974272",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -1366,101 +1464,6 @@
         "AI in Healthcare",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-artificial-intelligence-for-healthcare-applications-market-report-covers-research-with-future-trends-2022-2027-intel-google-general-vision.md",
-      "title": "Artificial Intelligence for Healthcare Applications Market Report Covers Research with Future Trends 2022-2027 | Intel, Google, General Vision",
-      "excerpt": "A common use of artificial intelligence in healthcare involves NLP applications that can understand and classify clinical documentation. NLP systems can analyze unstructured clinical notes on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-for-healthcare-applications-market-report-covers-research-with-future-trends-2022-2027-intel-google-general-vision",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-for-healthcare-applications-market-report-covers-research-with-future-trends-2022-2027-intel-google-general-vision",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://xherald.com/wp-content/uploads/2022/11/Artificial-Intelligence-Heal-2.jpg",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T03:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-us-backed-researchers-use-ai-to-probe-for-weaknesses-in-drug-supply-chains.md",
-      "title": "U.S.-Backed Researchers Use AI to Probe for Weaknesses in Drug Supply Chains",
-      "excerpt": "The U.S. Department of Homeland Security has approved research that will use artificial intelligence to delve into drug supply chains and probe for weaknesses, including foreign influence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/u-s-backed-researchers-use-ai-to-probe-for-weaknesses-in-drug-supply-chains-11669757763",
-      "originalUrl": "https://www.wsj.com/articles/u-s-backed-researchers-use-ai-to-probe-for-weaknesses-in-drug-supply-chains-11669757763",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-675403/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/u-s-backed-researchers-use-ai-to-probe-for-weaknesses-in-drug-supply-chains-11669757763",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-backed-researchers-use-ai-to-probe-for-weaknesses-in-drug-supply-chains-11669757763",
-      "publishedDateTime": "2022-11-30T01:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

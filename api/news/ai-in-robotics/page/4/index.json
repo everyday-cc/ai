@@ -2,6 +2,102 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-17-the-information-names-shanghai-bangbang-robotics-as-one-of-the-top-50-most-promising-startups-2022.md",
+      "title": "The Information Names Shanghai Bangbang Robotics as One of the Top 50 Most Promising Startups 2022",
+      "excerpt": "BangBang Robotics has a current company valuation of approximately $83 million and is on track to triple its revenue in 2022. With its pioneering development of artificial intelligence (AI) enabled electric wheelchairs, the company has been included in ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-information-names-shanghai-bangbang-robotics-as-one-of-the-top-50-most-promising-startups-2022-1031921280",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-information-names-shanghai-bangbang-robotics-as-one-of-the-top-50-most-promising-startups-2022-1031921280",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1949937/The_Information_IT50_Shanghai_Bangbang_Robotics_A_Wheelchair_Maker.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T01:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-17-israel-deploys-remote-controlled-robotic-guns-in-west-bank.md",
+      "title": "Israel deploys remote-controlled robotic guns in West Bank",
+      "excerpt": "Robotic weapons are increasingly in operation around the world, with militaries expanding their use of drones to carry out lethal strikes from Ukraine to Ethiopia. Remote-controlled guns like the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/world-nation/story/2022-11-16/israel-deploys-remote-controlled-robotic-guns-in-west-bank",
+      "originalUrl": "https://www.latimes.com/world-nation/story/2022-11-16/israel-deploys-remote-controlled-robotic-guns-in-west-bank",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/b3bbc03/2147483647/strip/true/crop/5455x3648+9+0/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6c%2F62%2Ffff55e966143d9ee01ff02211184%2F0d99c1e0017d40e4bd07a61b15c66b8c",
+          "width": 320,
+          "height": 214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/world-nation/story/2022-11-16/israel-deploys-remote-controlled-robotic-guns-in-west-bank?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2022-11-16/israel-deploys-remote-controlled-robotic-guns-in-west-bank?_amp=true",
+      "publishedDateTime": "2022-11-16T17:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-handing-off-control-while-keeping-the-human-engaged-is-a-constant-challenge-with-surgical-robotics-says-industry-expert.md",
       "title": "Handing Off Control While Keeping the Human Engaged Is a Constant Challenge with Surgical Robotics, Says Industry Expert",
       "excerpt": "As surgical robotics get smaller, more flexible, and more mechanically complex, new challenges arise, such as whether we should rely on the doctor to sort out the control of the devices, or if control should be offloaded to a semi or fully autonomous ...",
@@ -1296,85 +1392,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-robotic-vision-platform-luxonis-announces-its-first-open-source-personal-robot-rae.md",
-      "title": "Robotic Vision Platform Luxonis Announces its First Open Source Personal Robot, rae",
-      "excerpt": "OAK Camera Line Creators Launch Kickstarter Campaign to Develop Open Source Robot for Everyone: rae LITTLETON, Colo., Nov. 9, 2022 // -- Luxonis, a Colorado-based robotic vision platform, is thrilled",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/11/n29641695/robotic-vision-platform-luxonis-announces-its-first-open-source-personal-robot-rae",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/n29641695/robotic-vision-platform-luxonis-announces-its-first-open-source-personal-robot-rae",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29641695",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29641695",
-      "publishedDateTime": "2022-11-09T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-11-09-robotics-innovation-leading-companies-in-autopilot-mine-shuttles.md",
-      "title": "Robotics innovation: Leading companies in autopilot mine shuttles",
-      "excerpt": "The mining industry continues to be a hotbed of innovation, with activity driven by the need to enhance safety,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mining-technology.com/data-insights/innovators-autopilot-mine-shuttle-mining-2/",
-      "originalUrl": "https://www.mining-technology.com/data-insights/innovators-autopilot-mine-shuttle-mining-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mining-technology.com/wp-content/uploads/sites/19/2022/11/Autopilot-mine-shuttles.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-08T09:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mining Technology",
-        "domain": "mining-technology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

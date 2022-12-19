@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-19T12:00:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/12/g30126287/edge-ai-hardware-market-is-anticipated-to-grow-2-716-million-units-by-2027-globally-at-a-cagr-of-2"
 webUrl: "https://www.benzinga.com/pressreleases/22/12/g30126287/edge-ai-hardware-market-is-anticipated-to-grow-2-716-million-units-by-2027-globally-at-a-cagr-of-2"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Benzinga.com

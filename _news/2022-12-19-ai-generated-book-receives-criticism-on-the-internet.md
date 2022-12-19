@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-19T12:04:00Z
 originalUrl: "https://www.thedailystar.net/daily-star-books/news/ai-generated-book-receives-criticism-the-internet-3200061"
 webUrl: "https://www.thedailystar.net/daily-star-books/news/ai-generated-book-receives-criticism-the-internet-3200061"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Daily Star

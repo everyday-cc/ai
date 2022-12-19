@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ispo.com/en/news-markets/my-coach-artificial-intelligenc
 cdnAmpWebUrl: "https://www-ispo-com.cdn.ampproject.org/c/s/www.ispo.com/en/news-markets/my-coach-artificial-intelligence?amp"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,53 @@ images:
     isCached: true
 
 related:
-  - title: "AI safety technology aims to flip the script on driver coaching"
-    excerpt: "The survey aims to highlight the need for positive reinforcement to improve driver behavior and ultimately safety and cost savings"
-    publishedDateTime: 2022-12-15T15:57:00Z
-    webUrl: "https://www.ccjdigital.com/technology/driver-coaching-and-scorecarding/article/15304064/survey-shows-safety-finances-top-concerns-for-some-fleets"
+  - title: "Empathy in the Age of AI"
+    excerpt: "According to some scholars, projecting our humanity onto AI could have real consequences, from further obscuring the way these minds actually function to reinforcing a dubious notion of the human mind as a sole,"
+    publishedDateTime: 2022-12-19T13:00:00Z
+    webUrl: "https://www.wired.com/story/artificial-intelligence-animals-anthropomorphism/"
+    ampWebUrl: "https://www.wired.com/story/artificial-intelligence-animals-anthropomorphism/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-animals-anthropomorphism/amp"
     type: article
     provider:
-      name: CCJ
-      domain: ccjdigital.com
-    quality: 39
+      name: Wired
+      domain: wired.com
+    quality: 91
     images:
-      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2022/12/GreenZone_Score_driver_congrats.6390e7aa90765.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 938
-        height: 879
+      - url: "https://media.wired.com/photos/639ccdabfd7f2c34ab1d70e9/master/pass/anthropomorphism-empathy-ai.jpg"
+        width: 2400
+        height: 1350
+        isCached: true
+  - title: "The Current State of AI in Healthcare and Where It's Going in 2023"
+    excerpt: "Artificial intelligence is helping doctors diagnose and manage kidney disease and improving diagnostics and analysis of patient data."
+    publishedDateTime: 2022-12-16T17:18:00Z
+    webUrl: "https://healthtechmagazine.net/article/2022/12/ai-healthcare-2023-ml-nlp-more-perfcon"
+    ampWebUrl: "https://healthtechmagazine.net/article/2022/12/ai-healthcare-2023-ml-nlp-more-perfcon?amp"
+    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2022/12/ai-healthcare-2023-ml-nlp-more-perfcon?amp"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechmagazine.net
+    quality: 74
+    images:
+      - url: "https://healthtechmagazine.net/themes/cdw/images/audio/cdw_healthtech_audio.png"
+        width: 772
+        height: 409
+        isCached: true
+  - title: "Top 10 artificial intelligence stories of 2022"
+    excerpt: "IT strategies have become more data-centric. We look at how this has played out in 2022, with artificial intelligence (AI) deployments."
+    publishedDateTime: 2022-12-19T04:00:00Z
+    webUrl: "https://www.computerweekly.com/news/252528086/Top-10-artificial-intelligence-stories-of-2022"
+    ampWebUrl: "https://www.computerweekly.com/news/252528086/Top-10-artificial-intelligence-stories-of-2022?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252528086/Top-10-artificial-intelligence-stories-of-2022?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 61
+    images:
+      - url: "https://www.computerweekly.com/rms/onlineimages/ai_a264431831.jpg"
+        width: 1200
+        height: 400
         isCached: true
 
 secured: "/+XKcDErLwwLBtWTRHdXxiT7w7ZIIxMsvMAfc6jEfcVcNMqtVw2FMjLzCgmvBxHhjv+LAOk/wlUII8YylTS+Q0gT9a1ZrIiEiHlfV4QRtZ96Lr8tFU2KUexxx5UOWyA5oRiWE/PgaPAaAmMkIbVFMyqd2l1Pzi7e2ybSrRFGFNo84SkhuJQi8zpV8fqgD8nRLQRninvj2fDpTtN3QEnfmeA97g2GmrTxuTDHMsPwUl6uWQaxmo7g06Lc1ZEMomfPoItlnl9yp/fvwIOR6oZElmf2npNIIiXQZskvboISoEu3TUspWqCmfAi1OBcv6ml9hTTFfREjiB+e/pVEYTvpqgFZfdiGzKT174ngZtDmUiA=;w/Ga4HKaCP74OyNh5+ywjg=="

@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-19T14:14:00Z
 originalUrl: "https://abcnews.go.com/Entertainment/wireStory/final-goodbye-recalling-influential-people-died-2022-95539239"
 webUrl: "https://abcnews.go.com/Entertainment/wireStory/final-goodbye-recalling-influential-people-died-2022-95539239"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: ABC

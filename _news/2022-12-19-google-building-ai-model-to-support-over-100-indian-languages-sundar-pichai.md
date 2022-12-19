@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-19T13:24:00Z
 originalUrl: "https://www.telegraphindia.com/business/google-building-ai-model-to-support-over-100-indian-languages-sundar-pichai/cid/1904716"
 webUrl: "https://www.telegraphindia.com/business/google-building-ai-model-to-support-over-100-indian-languages-sundar-pichai/cid/1904716"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: The Telegraph

@@ -54,22 +54,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "ChatGPT, AI wonder machine that's taken internet by a storm: Here's how it works"
-    excerpt: "As per the company, the AI platform has been trained using the Reinforcement Learning from Human Feedback (RLHF). In simple words, the human AI trainers initially provided conversations in which they played both the AI assistant and the user."
-    publishedDateTime: 2022-12-14T22:54:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/chatgpt-ai-wonder-machine-that-s-taken-internet-by-a-storm-here-s-how-it-works-11671016042970.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/chatgpt-ai-wonder-machine-that-s-taken-internet-by-a-storm-here-s-how-it-works/amp-11671016042970.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/chatgpt-ai-wonder-machine-that-s-taken-internet-by-a-storm-here-s-how-it-works/amp-11671016042970.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 52
-    images:
-      - url: "https://images.livemint.com/img/2022/12/14/600x338/chatbot_1670320262338_1671017006134_1671017006134.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "ChatGPT got all the buzz, but beneath it is a $1B developer framework that's quietly fueling the new era of lifelike AI at OpenAI and beyond"
     excerpt: "The Ray developer framework is used by OpenAI, Amazon, and more to solve one of AI's biggest pain points and make AI tools like ChatGPT possible."
     publishedDateTime: 2022-12-16T10:00:00Z

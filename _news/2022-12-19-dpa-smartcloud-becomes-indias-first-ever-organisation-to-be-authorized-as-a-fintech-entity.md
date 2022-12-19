@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-19T12:48:00Z
 originalUrl: "https://theprint.in/ani-press-releases/dpa-smartcloud-becomes-indias-first-ever-organisation-to-be-authorized-as-a-fintech-entity-by-the-international-financial-services-centres-authority-ifsca/1271633/"
 webUrl: "https://theprint.in/ani-press-releases/dpa-smartcloud-becomes-indias-first-ever-organisation-to-be-authorized-as-a-fintech-entity-by-the-international-financial-services-centres-authority-ifsca/1271633/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: ThePrint

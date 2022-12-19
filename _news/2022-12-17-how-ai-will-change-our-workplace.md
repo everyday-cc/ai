@@ -80,6 +80,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Three Ways To Become More Knowledgeable About AI"
+    excerpt: "AI technology, like many new and fast-moving technologies, presents a specific challenge to business leaders to think through how their business could be improved."
+    publishedDateTime: 2022-12-19T13:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/19/three-ways-to-become-more-knowledgeable-about-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "cfmCkXsJpDVf8Fm2q7nWyCTjdI9DdW1zTp06D237zNr8AhvLDG2D6x+CC78eH9S3p8wu1bfERodGv4iBFVwQcW0Z05CYX5HcYdd/xxMj9kYnYzBheyU1CkedL0jHwm42fgs+vv9sOsTW0MTyvgLtuXGYtsUrDw6q9jXF5YNcG1HjL8OITjMhu82y73S8lY+dsND9yyx9GP1p302/5Vx0hyBQqFffSP+qOSBkv8U1JzgCipefLhdm0l16+PeDWtuSIswqIeJggSftsMUZsSEiF43XRzfqbkMqIFpf7CSWLhQw2iRtc5qEgRyiSe8DPVKblBq5V4tvpaUds9f7Kp8wMEpm5cPAxk4oIU3k0faDtjs=;ECJnvhXPgPZJltVlcQccyQ=="
 ---
