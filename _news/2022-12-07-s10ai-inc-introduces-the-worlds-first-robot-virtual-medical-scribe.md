@@ -15,12 +15,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/03/93e7e70b21b64ca3d934369155f662290ef59919-600x337.jpg"
-    width: 600
-    height: 337
-    isCached: true
-
-secured: "nxyA5Lb2ekIuNTBIoKdLzl5vB57BSiy8t633HehS3W7N2x6yGmWK91q85go8+OAUIn9P5krFL5BIuWUmyfpWqWMkka4pEiveTNVvu0of+2tXyy1oXTEN4jsCRV926GZ+CaxsxCmPYmeGD7NMJZmGgC5X5WtllseXlzAyo1a4bxG3mM7D7T07657IIJP/RNU05D+K9tfS/ajHbWOM7sEFADHCmzEeYJJuuNfuf/7Xv03g2NndTYYgv//3IOzpIKXV5gE0rxrKl/Pcp0Y3P5VD29o+B/tsp3xZ8gb1qI64X0zEkm/Bl6BgLizBgc+BnjvKQD+Ncjz+XTKy16ABCNpHDjvAFnlMf12rONh2Sst3s+Q=;4924RqryAe1vXaSn0ioAZw=="
+secured: "QVYSfwSFzHM6xKHEMdsqUxYttdAqO7PjQhrqhBT6d0+i7y6hUNCUlZNDAJvN2ziYMItcF8W4Wb30sCBxU3aj53BfSP9h709giqmTJuI1ANBbLW91v3UmdvI7fNNucNXvoiKnzCT0P4mfZIiTFqCgEcP8S4Vl52w6keXJbJWn0qS/8q48Co0WdzQMlMG79fTfusG3OVQFPeOkBEMxy1d8mjCE9v2GND+NKqQfWOx7A6co9Yw09MyrZQihsKw21oCKUabkQeF9O1Vi7wajUd+YYCLAhg8quipWGC0oPUwwCKgBvw/zV8oteDibnqEC2EJpSfWOprqiv2F8WyW96PcQ+IcBjPp8ja8Vf1zqZ6h4XJU=;BctPfB2AMEBclTtuWf4MuQ=="
 ---
 

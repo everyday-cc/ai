@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2022/10/IBM-investment-semiconductors-AFP-1K-01-e1665082038425.jpg"

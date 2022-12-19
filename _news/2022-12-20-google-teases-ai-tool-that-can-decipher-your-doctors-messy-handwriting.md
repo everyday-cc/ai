@@ -1,0 +1,24 @@
+---
+category: news
+title: "Google Teases AI Tool That Can Decipher Your Doctor's Messy Handwriting"
+excerpt: "The feature will allow people to upload or take a photo of a prescription to Google Lens, which will detect the medicines mentioned in the note."
+publishedDateTime: 2022-12-19T20:42:00Z
+originalUrl: "https://www.pcmag.com/news/google-teases-ai-tool-that-can-decipher-your-doctors-messy-handwriting"
+webUrl: "https://www.pcmag.com/news/google-teases-ai-tool-that-can-decipher-your-doctors-messy-handwriting"
+type: article
+
+provider:
+  name: PC Magazine
+  domain: pcmag.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Computer Vision
+  - AI
+
+secured: "UL9oOmZVPA16fdKcFoytHssNMRRUMLzfH5ygpsgIC8Dq7GVZeQ485JdB8MQlyyNq3ohUjSYE11OQwKzeobelSttRcM0cPLy8b7nbPv6dxE/IqvdxfR96YHVrIcnpfesWZwM2640tpGAVgrk32xqR+rs/msOT+VN8YuDMg8zp33gSUC7WpHnSNmJ8SRiygJJjb0NWp6fIKCTkJhHHyBb+5LM6VmEYvNARNMBs+xs/vgOwO6fW+WESYoPYtWjgEtfX6JBzE7OZXus1PqMYGdJ4XsGy+zbGjR6na2tXA9EbBgui2u9yE2LxYkhXE+0gld2Vlo/TVkvdRoBZSDctBei7znz5x23urnVp1nRsUE6/CKXjaMKAOD76AnAjH2UEETyO0zucno/Oty6JY9b03J3mi4IC12GK5QvQhe7Mw5pYYkHaG8oASQQ3UxoKp0oi7DkAqFP0+YOZs38fJR3OdvlcJO6w4SgiaPZfZi+2r5F3sczfZSxBNc2Mu/IVYYLgNFMb7MZeblxKFe7rn8tPiBZ7gw==;Hs2yRZiDqx1yBwAcs1EKnA=="
+---
+

@@ -5,8 +5,6 @@ excerpt: "IBM is a leading provider of global hybrid cloud and AI, and consultin
 publishedDateTime: 2022-12-07T01:33:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/12/n29985599/ibm-and-david-clark-cause-aim-to-reduce-food-waste-name-ai-powered-gardening-app-winner-of-5th-ann"
 webUrl: "https://www.benzinga.com/pressreleases/22/12/n29985599/ibm-and-david-clark-cause-aim-to-reduce-food-waste-name-ai-powered-gardening-app-winner-of-5th-ann"
-ampWebUrl: "https://www.benzinga.com/amp/content/29985599"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29985599"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1962901/IBM_GardenMate_Team.jpg"
-    width: 400
-    height: 300
-    isCached: true
-
-secured: "FiKRShbVsGgpXAQfbb3Z6yPsH+TJASZwa0m5+FbP7dYr63smZd/SiZFN7jLj5V8NkkcKl4y5CpnZcuHNsLsa9y4Eactnt1+DL6bRZCx/LK5P7ddV1Ls+BjjTcS9Q3LZzM0+cPhwYdEgYhuDRrqoZpoq7+fT2VYIZN3+7BbkMnrykVeudUshE7xq2fdLZ2U58CyDLVHYfwg0LYJiMtJUqHCLur4EMcLptG8w1x3LFoEf9X8VZHb3xrOjYDMC55/3Hpe30EtnvL38UrHy5CYttL2gWFnhClBVb67DbtWRQKeRM9jUplzAX27anEXtBXQzKyR1NjSw3aSDwJKtqFwq0deZ6nSP+JBAKrUZiDYSv5MA=;4aFiBTguCyFLJP9jeKGrsA=="
+secured: "fTPG49a53f3hgr3RmZcrCMucLstOu4SD+pTsjfkKLZS4P4TBVTdD21CWh4oNfUdjhPedZMvsmQ3AfMxgG7ralvUZGaUCKSjH1kXZ/rKcIfkKI63xpqhes5U6Ep3Oom9yRC4hc+Nadwre35ROcIUR2eZV3nVL8ANETzZYmksez++Bs2QpuitIXZ/8+p/b6jp6T9pzjdw5WwXDnYk8dQG3A18ix130Nzq0NqUnx5gxr9zJlzoMj18g/uinzIj4ysjkGq0h3kAZRYWmNekBCvl/MN8GsdwM4Ri0FiYywmGxyPvAT5a/BT/BDhE0pCu8Xg7rO4R3f+6wiJCrz4nqtdpIsHk6Ew+8T8u25Shy3cpfcXw=;PM8JPQSMAb5TM0hyLS1bkw=="
 ---
 

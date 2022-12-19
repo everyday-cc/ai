@@ -1,28 +1,20 @@
 ---
 category: news
 title: "The TSA plans to take facial recognition technology nationwide"
-excerpt: "The Transportation Security Administration has been testing facial recognition technology as an option for travelers at select U.S. airports for years, touting it as a way to speed up identity verification at security."
-publishedDateTime: 2022-12-09T14:25:00Z
-originalUrl: "https://www.fox7austin.com/news/tsa-facial-recognition-technology-nationwide"
-webUrl: "https://www.fox7austin.com/news/tsa-facial-recognition-technology-nationwide"
-ampWebUrl: "https://www.fox7austin.com/news/tsa-facial-recognition-technology-nationwide.amp"
-cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/news/tsa-facial-recognition-technology-nationwide.amp"
+excerpt: "The Transportation Security Administration has been testing facial recognition technology as an option for travelers at select U.S. airports for years, touting it as a way to speed up identity ..."
+publishedDateTime: 2022-12-08T19:59:00Z
+originalUrl: "https://www.foxbusiness.com/politics/tsa-plans-take-facial-recognition-technology-nationwide"
+webUrl: "https://www.foxbusiness.com/politics/tsa-plans-take-facial-recognition-technology-nationwide"
 type: article
 
 provider:
-  name: FOX 7 Austin KTBC
-  domain: fox7austin.com
+  name: Fox Business
+  domain: foxbusiness.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2022/12/932/470/GettyImages-1159430283.jpg?ve=1&tl=1"
-    width: 932
-    height: 470
-    isCached: true
-
-secured: "WVZny0eLIraubMxVZyntU1k1S7wHySCAN6GQM5kIgc9XJOiVIATy1BAgGNa8ecgsAdHNYrEVfKMjpwWIVYToNPvlbpgE2B60oSLFDuFmlcyJt7xpEytIVVZGPiZS3yicGIVZLyqLGfMmTF47VX8gU+XWC7ITay0SQE1UVSwDw6zvsw6gwxwiMyCCFkoOUqckIoxfXNgmDF0Pp8gz/JN6sNPYPb1k5Naq0Lk+66lv2eGp73qcfUJL7aA2zP1kH3JEocrVxOtxNdpwsYGghwNENlgtUaAjiND0Ih21gedwbSuDM2Q6iOdfTMFChcJL8eoPYv2ghkqLeXhaRnM3KGZ/tkzGGjxFhgKbssXy8CwSe8s=;PFoCZvjjQCX9fPk6zAWXrw=="
+secured: "HyRuVPQKwEEwMg7rr0uhxHCRC1OVhMkMiyha+HA09FGB8C22piBx3Tc8Twvawn8mceUK9a2tXi96DOMPCZRklAOF7v3IBPRTzNWw51IuOfMPBvy+TQRCax1bnb0YL865qT2Siglw9+0YrOcR+1BiDKAgszzrLjLO5Oj8fBDf/UnoZ8qPfCmTP/TpgrKZiMwDg/CtNFYZ4O864yML+EfjB4Bsjb1N0TVlNo8ITGMeOayYftZKisqK21iuKObxGIYgXre3kXjGAXdHgG4lUTO3+7V2er50g0R3hcR/oIX5qIeOFYrPu5b3e18bEWVN+inDqC99SpzpwTbOyVR2OXBOQT0M4L3B8GmXR2J936SQylA=;E4CXuO/uPSBIh2quHqZpVA=="
 ---
 

@@ -1,31 +1,20 @@
 ---
 category: news
 title: "Study shows how machine learning could predict rare disastrous events, like earthquakes or pandemics"
-excerpt: "When it comes to predicting disasters brought on by extreme events (think earthquakes, pandemics or \"rogue waves\" that could destroy coastal structures), computational modeling faces an almost insurmountable challenge: Statistically speaking,"
-publishedDateTime: 2022-12-19T16:00:00Z
-originalUrl: "https://techxplore.com/news/2022-12-machine-rare-disastrous-events-earthquakes.html"
-webUrl: "https://techxplore.com/news/2022-12-machine-rare-disastrous-events-earthquakes.html"
-ampWebUrl: "https://techxplore.com/news/2022-12-machine-rare-disastrous-events-earthquakes.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-machine-rare-disastrous-events-earthquakes.amp"
+excerpt: "Researchers from Brown and MIT suggest how scientists can circumvent the need for massive data sets to forecast extreme events with the combination of an advanced machine learning system and sequential sampling techniques."
+publishedDateTime: 2022-12-19T20:33:00Z
+originalUrl: "https://www.brown.edu/news/2022-12-19/extreme-events"
+webUrl: "https://www.brown.edu/news/2022-12-19/extreme-events"
 type: article
-quality: 44
-heat: 44
-published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Brown University
+  domain: brown.edu
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-2.jpg"
-    width: 1920
-    height: 1316
-    isCached: true
-
-secured: "WtI9/Rn0BSpLrfRUI5rrbm1Pajx01df+kihxq9160Yna8zpLMfqxJzy3kSDK7vJ6FObb82dJOWzIQeFgJ9zRsOkOxgvohXkxl4w5j0U4vKa5/hvm8ayqN2pq7bvjXWob31Ywu2UNUi71Uw4yogOx6ujOlb4TXUi0RXvCwh7hBPDgT0U+1+/vPQMXTwPm9aGcTpAkQy/gGlUZtSKkB++Au5P3XoQkqTJGj0p/KS9yS9o+hw5xiNyPX/uVKfgIUeIS82TAaLjvRGBTiJbnp9P1J1eqhhDMLnk82dcUQaKi/a+oUnm7MWEAA8EvFU+h1xYLM/6u4FE69xt4FEiwHF6PpolSyxGNS5Kmr85u/v/me48=;ec5F+l/Jy9abfEUcuca7PA=="
+secured: "Z9bmJU/fbB7E41asUrqkRvtEvWWm132rWgtz4RHQdtCBsajoZzgr4apCnPvo/9/yIvlu6Q+YPSittZmbY4YyzZjqr3Vqy5rbEWJw+2aZJnvT9MpNhybEAcGj83iCubiu2mbpiJZhscStVFclKVkGYWaEbh/XMiFlmq4FG79jyCUUMLiAt8BfbnqxMrwvG1V+R65x8q6v6VhgnugrYjKwDO/6RCxioNx54YTBGDWqbAFYVoLRnszRzHk4STELJMhDxBBt8+yQ+fMXlEIl4iS5Bb9csTmwGMI7rtaN7vGQOpqITQVWkhLGCTMEkxWC+RmpiAKDjOUISynIZdoUHiIMxn7Pf5FNyj+4tDhm8/AhcGgQpO+l9hzpcZjkqIDBo4elgznAbOEY+9D0hT+bLnsD5k99LV+VefjFAP8R63g22U3C1gTEv9lm2AFndR1g+Bw0xHc2cEmLSi2CqIOozEEzXG/012fRwbSASkwb0IMrdHj+LCFoQoXUo1d23Caxy1FnCX6UEyd47fssO4fugQNO3Q==;rNRyeewSgxn0uzx7ANmC9g=="
 ---
 
