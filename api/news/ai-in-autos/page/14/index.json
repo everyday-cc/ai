@@ -2,40 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2022-09-24-vw-group-gentravel-concept-predicts-a-true-level-5-full-self-driving-car.md",
-      "title": "VW Group Gen.Travel concept predicts a true Level 5, full self-driving car",
-      "excerpt": "What might private vehicle ownership look like in a world where driving is no longer necessary ... Voice activation and artificial intelligence can be used to control various functions.",
-      "sourceUrl": null,
-      "webUrl": "https://fox4kc.com/automotive/internet-brands/vw-group-gen-travel-concept-predicts-a-true-level-5-full-self-driving-car/",
-      "originalUrl": "https://fox4kc.com/automotive/internet-brands/vw-group-gen-travel-concept-predicts-a-true-level-5-full-self-driving-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-23T22:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WDAF-TV",
-        "domain": "fox4kc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-24-tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch.md",
       "title": "Tesla AI Day Brings Optimus Robot, Self-Driving Car Updates: Here's How to Watch",
       "excerpt": "Tesla is hiring engineers to build a walking, talking robot called Optimus. Expect Elon Musk to update us on steps toward self-driving cars, too.",
@@ -1414,6 +1380,59 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-19-ai-ethics-and-the-quest-for-self-awareness-in-ai.md",
+      "title": "AI Ethics And The Quest For Self-Awareness In AI",
+      "excerpt": "One of the most evocative areas that vividly presents this ethical AI quandary is the advent of AI-based true self-driving cars. This will serve as a handy use case or exemplar for ample ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/09/18/ai-ethics-and-the-quest-for-self-awareness-in-ai/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/09/18/ai-ethics-and-the-quest-for-self-awareness-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62227e18d8a6304b2d957a48/0x0.jpg?format=jpg&crop=2559,1847,x381,y77,safe&width=1200",
+          "width": 1200,
+          "height": 866,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/09/18/ai-ethics-and-the-quest-for-self-awareness-in-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/09/18/ai-ethics-and-the-quest-for-self-awareness-in-ai/amp/",
+      "publishedDateTime": "2022-09-19T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
       ]
     }
   ],

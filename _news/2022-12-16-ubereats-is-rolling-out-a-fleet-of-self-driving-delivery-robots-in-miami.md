@@ -76,6 +76,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Robots are delivering food to customers in this US city"
+    excerpt: "At present, the artificial intelligence-powered sidewalk delivery robots are used for food and grocery delivery, campus meal delivery and curbside pickup across the country."
+    publishedDateTime: 2022-12-19T06:02:00Z
+    webUrl: "https://www.hindustantimes.com/technology/us-latest-news-robots-are-delivering-food-to-uber-eats-customers-in-this-us-city-miami-florida-101671424883042.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/us-latest-news-robots-are-delivering-food-to-uber-eats-customers-in-this-us-city-miami-florida-101671424883042-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/us-latest-news-robots-are-delivering-food-to-uber-eats-customers-in-this-us-city-miami-florida-101671424883042-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 61
+    images:
+      - url: "https://images.hindustantimes.com/img/2022/12/19/1600x900/Uber_Eats_1671428679735_1671428685111_1671428685111.JPG"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Uber Eats To Use Self-Driving Robots In Miami To Deliver Orders"
     excerpt: "Uber Eats has started using self-driving robots to deliver orders in parts of Miami. The ride-hailing company will have autonomous robots on sidewalks Thursday in the Dadeland area of Miami-Dade County."
     publishedDateTime: 2022-12-15T17:53:00Z

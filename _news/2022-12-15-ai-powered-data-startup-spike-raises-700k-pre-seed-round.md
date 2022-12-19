@@ -26,15 +26,6 @@ images:
 related:
   - title: "AI-Diagnostics Startup Altris AI Raises $1 Million To Prevent Blindness"
     excerpt: "Altris AI has raised $1 million in a round led by Runa Capital to scale its AI-enabled eye care diagnostics solution. Altris AI, which is a US-based startup originally from Ukraine, is building solutions for the $58 billion global ophthalmology market."
-    publishedDateTime: 2022-12-14T14:41:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/12/14/9730396.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
-  - title: "AI-Diagnostics Startup Altris AI Raises $1 Million To Prevent Blindness"
-    excerpt: "Altris AI has raised $1 million in a round led by Runa Capital to scale its AI-enabled eye care diagnostics solution. Altris AI, which is a US-based startup originally from Ukraine, is building solutions for the $58 billion global ophthalmology market."
     publishedDateTime: 2022-12-14T18:23:00Z
     webUrl: "https://it.tmcnet.com/news/2022/12/14/9730396.htm"
     type: article

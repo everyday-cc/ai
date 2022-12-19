@@ -33,17 +33,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 46
-  - title: "Using AI to Streamline the Provider-Payer Relationship"
-    excerpt: "A provider and payer share how an artificial intelligence-based platform helps them improve their information exchange and streamline utilization management."
-    publishedDateTime: 2022-12-14T13:31:00Z
-    webUrl: "https://healthitanalytics.com/features/using-ai-to-streamline-the-provider-payer-relationship"
-    ampWebUrl: "https://healthitanalytics.com/features/amp/using-ai-to-streamline-the-provider-payer-relationship"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/using-ai-to-streamline-the-provider-payer-relationship"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
 
 secured: "FczNISeJvYRtWZiRC/P1e2ZadZm3Wo+tqIGKhX5oEkhychbSipKRcPMXZLuhs5Ox+gIRM1MIm/PmKHJ2Gg9rmsG13F+HOmRJiqQXct3nPHhtOMSklwG5oVbpopKp4H46DAkJUWl4N7iES3WnmbryTTqbL67OtNvd32XUUvszKlmNJuVaJrRMZ6FCDO1JnkS1d5bhLNVj6eDhsX6rkoqnVx/Oc+SG1gXhqQKNdYu0uwmC3/W7JT3qX9Ev9YVsIYoG2vdVhyLlbRQ20ZzNEmniG9FdxhgzQH5TdUsNPLOhslyjaJO/KDwS0XGxu+MgUeSloK4VoV+417uyQhEp6HnIBrbmfNysVCkgYDzB++k1dC4wWB84XdO++nBcOohLIxhKi86kDk90WPEeeJJOP4x9w0bljeseKU7JfSYzDq2yKJbxet5mAgV/0gt2Bk2K9u6hUGDvmu3VMGpfmtVHzhoInTqmyktFXh+lyZRP/Oj84GlQWVpajG9luSCsbWBHxb2H+UMT8zMxz9cb7qovoL+nFA==;fdR4XwI5E6s7JkrmpRbBkw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/uber-eats-will-roll-out-sidewal
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/uber-eats-will-roll-out-sidewalk-robots-for-food-deliveries/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/639cacc15d7d2538098cea7f/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Robots are delivering food to customers in this US city"
+    excerpt: "At present, the artificial intelligence-powered sidewalk delivery robots are used for food and grocery delivery, campus meal delivery and curbside pickup across the country."
+    publishedDateTime: 2022-12-19T06:02:00Z
+    webUrl: "https://www.hindustantimes.com/technology/us-latest-news-robots-are-delivering-food-to-uber-eats-customers-in-this-us-city-miami-florida-101671424883042.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/us-latest-news-robots-are-delivering-food-to-uber-eats-customers-in-this-us-city-miami-florida-101671424883042-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/us-latest-news-robots-are-delivering-food-to-uber-eats-customers-in-this-us-city-miami-florida-101671424883042-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 61
+    images:
+      - url: "https://images.hindustantimes.com/img/2022/12/19/1600x900/Uber_Eats_1671428679735_1671428685111_1671428685111.JPG"
+        width: 1600
+        height: 900
         isCached: true
   - title: "UberEats is rolling out a fleet of self-driving delivery robots in Miami"
     excerpt: "Uber and Cartken have announced a partnership to introduce Miami to a fleet of tiny autonomous delivery vehicles."

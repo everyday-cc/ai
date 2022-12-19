@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-12-07-samsung-naver-team-on-next-gen-ai-chips.md",
+      "title": "Samsung, Naver team on next-gen AI chips",
+      "excerpt": "Samsung Electronics and online platform Naver unveiled plans to jointly develop chips designed to increase the handling of large AI workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobileworldlive.com/asia/asia-news/samsung-naver-team-on-next-gen-ai-chips/",
+      "originalUrl": "https://www.mobileworldlive.com/asia/asia-news/samsung-naver-team-on-next-gen-ai-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mobileworldlive.com/wp-content/uploads/2022/12/Samsung-NAVER-AI-partnership.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mobileworldlive.com/asia/asia-news/samsung-naver-team-on-next-gen-ai-chips/amp/",
+      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/asia/asia-news/samsung-naver-team-on-next-gen-ai-chips/amp/",
+      "publishedDateTime": "2022-12-07T00:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-07-asus-confirms-tuf-gaming-radeon-rx-7900-xtx-gpu-clock-speeds-up-to-2615mhz.md",
       "title": "ASUS confirms TUF Gaming Radeon RX 7900 XTX GPU clock speeds: up to 2615MHz",
       "excerpt": "ASUS has officially confirmed some specifications -- and, more importantly, the GPU clock frequencies -- of its upcoming TUF Gaming Radeon RX 7900 series graphics cards. The upcoming ASUS TUF ...",
@@ -1396,51 +1439,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-samsung-to-hire-over-1000-engineers-for-ai-machine-learning-space.md",
-      "title": "Samsung To Hire Over 1,000 Engineers For AI, Machine Learning Space",
-      "excerpt": "The young engineers will join the company in 2023, and will work on new-age technologies at its R&D institutes in Bengaluru, Noida, Delhi and at Samsung Semiconductor India Research in Bengaluru.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/business/samsung-india-plans-to-hire-1-000-engineers-from-iits-top-institutes-for-r-d-units-3565347",
-      "originalUrl": "https://www.ndtv.com/business/samsung-india-plans-to-hire-1-000-engineers-from-iits-top-institutes-for-r-d-units-3565347",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2022-08/5nb18m7_samsung-reuters_625x300_19_August_22.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=675?ver-20221119.02",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/business/samsung-india-plans-to-hire-1-000-engineers-from-iits-top-institutes-for-r-d-units-3565347/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/samsung-india-plans-to-hire-1-000-engineers-from-iits-top-institutes-for-r-d-units-3565347/amp/1",
-      "publishedDateTime": "2022-11-30T00:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI",
-        "AI Hardware"
       ]
     }
   ],

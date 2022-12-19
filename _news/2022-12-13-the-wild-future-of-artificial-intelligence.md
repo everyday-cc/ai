@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn.theatlantic.com/thumbor/Pzfq0fUpsHS4099IKTJ1VNtFAt0=/0x440:5990x3560/1200x625/media/img/mt/2022/12/GettyImages_1289635135/original.jpg"

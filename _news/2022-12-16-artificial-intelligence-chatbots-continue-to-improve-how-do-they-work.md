@@ -138,15 +138,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 26
-  - title: "ChatGPT Is a Tipping Point for AI"
-    excerpt: "With ChatGPT and other AI models that can communicate in plain English, write and revise text, and write code, the technology is suddenly becoming more useful to a broader population of people. This has huge implications."
-    publishedDateTime: 2022-12-14T13:05:00Z
-    webUrl: "https://hbr.org/2022/12/chatgpt-is-a-tipping-point-for-ai"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 17
   - title: "AI breakthrough ChatGPT raises alarm over student cheating"
     excerpt: "Academics urge universities to develop new forms of assessment after launch of program that imitates essay-writing"
     publishedDateTime: 2022-12-18T05:00:00Z

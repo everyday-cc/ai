@@ -27,29 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "EnCharge AI, a chip startup born in Princeton lab, raises $21.7 mln"
-    excerpt: "EnCharge AI, a chip startup born at a Princeton University lab, on Wednesday said it raised $21.7 million as it looks to commercialize its computing technology that is designed to run artificial intelligence applications more efficiently."
-    publishedDateTime: 2022-12-14T13:16:00Z
-    webUrl: "https://www.reuters.com/technology/encharge-ai-chip-startup-born-princeton-lab-raises-217-mln-2022-12-14/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/9KmWDRJZNcepKm3ZrMb9-KLV0G8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X42T4SWYPZMTXKKXJ36W5F2OGY.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "EnCharge AI, a Chip Startup Born in Princeton Lab, Raises $21.7 Million"
-    excerpt: "EnCharge AI, a chip startup born at a Princeton University lab, on Wednesday said it raised $21.7 million as it looks to commercialize its computing technology that is designed to run artificial intelligence applications more efficiently."
-    publishedDateTime: 2022-12-14T14:14:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2022-12-14/encharge-ai-a-chip-startup-born-in-princeton-lab-raises-21-7-million"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
   - title: "AI chip startup EnCharge AI raises USD 21.7M to create an integrated stack for edge applications"
     excerpt: "EnCharge AI Inc. has announced a USD 21.7 million Series A funding round to support the creation of a semiconductor hardware"
     publishedDateTime: 2022-12-15T15:13:00Z

@@ -1,29 +1,31 @@
 ---
 category: news
 title: "AI can potentially assist future firefighting operations: Research"
-excerpt: "The worst flames in firefighting are the ones you dont see coming In the midst of the chaos of a burning building it difficult to spot the warning signs of"
-publishedDateTime: 2022-12-19T01:07:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/273231855/ai-can-potentially-assist-future-firefighting-operations-research"
-webUrl: "https://www.bignewsnetwork.com/news/273231855/ai-can-potentially-assist-future-firefighting-operations-research"
+excerpt: "Flashovers tend to suddenly flare up at approximately 600 degrees celsius (1,100 degrees Fahrenheit) and can then cause temperatures to shoot up further"
+publishedDateTime: 2022-12-19T03:06:00Z
+originalUrl: "https://www.business-standard.com/article/international/ai-can-potentially-assist-future-firefighting-operations-research-122121900088_1.html"
+webUrl: "https://www.business-standard.com/article/international/ai-can-potentially-assist-future-firefighting-operations-research-122121900088_1.html"
+ampWebUrl: "https://wap.business-standard.com/article-amp/international/ai-can-potentially-assist-future-firefighting-operations-research-122121900088_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/ai-can-potentially-assist-future-firefighting-operations-research-122121900088_1.html"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/ani1671410932.jpg"
-    width: 630
-    height: 420
+  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-12/04/full/1670176949-3148.jpg"
+    width: 620
+    height: 302
     isCached: true
 
-secured: "+8BlHSyHedXMh4Ik91S5EMiq9nkUBDl8eaFrECcMbDDGj+Bb094GLMQnd5t5qnsm8gawxfsi/7LlsVLo8SIsiaT8Qx9O8n9DvlYngpEEKncVbWRQg0tYZ1op8iocSp4OHNRFrGy8UEKpQvYu9bTj/4vlqBee3PU8kqj3nWDol3Dydnd5XxcFBMF4rBx0c3MrytiR+qAdhy6imwld9InHnt9oLjIbzM38Z0tmZcNr20RLA2Xr9FZxtiKjQjeM2DqSF4FHkY5qAfBMSC3vvAhupWhv69vezs30MvvxN/FpI4NkYyLPa2/4CB81B8ticyCDoR5xeOtsOi9KVbdFkNaMrTlhZLGc+vX3+HtxRiolr3J8uNIAOEs/DtCdJtOJQiLFhPRGwvK7vqyFIgr55qlcMSrh6Uhu5pjE+X2b87bMjdpcQF9kP6f3W4c3ka/BNfbsvAV2VxnJO7TZkhOPzcaewCcCBO22vISu76ldMMSJCoJ0mnEwrGd57yDMtyYtUTIKoVtHj1gKPmczl+TU53Y0pQ==;IlmfpzCl5wRhnTiw1myvIw=="
+secured: "mtzmJU0DndbCxlqrIetVFpBbgE6dOpFtOAoQgEMnI6T8/Dj/1MBvnNhQug1+qyElGgWTYpOjb0BVeFEeSOkaSR9dQlLQbyEr3YbYtJD+sHZH8mz6fHIVa78DmQxjg3+7u2OtIHZ9Ckf6HP0eFaELUIeV62K3fw+fqMkaEJeqztkYsHgp/csVuwmQYVjDdEXnzKRtj/NWdastxlWtNiFEqRUlHwmbX315sM9peCZqOevMFWOpPsxOI1aexgRTNoFOOXp6C6HAlSICu96xWcjVxpIrnlTWgYH6AwaURT7d3xLCUBTgm81r4NLHUyrBpnetr5mn3LMpaGBKb68qVFpHdsD7tzMimz3d8hahphK25rM=;dLQe6WeO2oNg/MfMEBv6Vw=="
 ---
 

@@ -1,22 +1,31 @@
 ---
 category: news
-title: "Uber Eats To Use Self-Driving Robots In Miami To Deliver Orders"
-excerpt: "Uber Eats has started using self-driving robots to deliver orders in parts of Miami. The ride-hailing company will have autonomous robots on sidewalks Thursday in the Dadeland area of Miami-Dade County."
-publishedDateTime: 2022-12-15T17:53:00Z
-originalUrl: "https://www.ibtimes.com/uber-eats-use-self-driving-robots-miami-deliver-orders-3647760"
-webUrl: "https://www.ibtimes.com/uber-eats-use-self-driving-robots-miami-deliver-orders-3647760"
+title: "Robots are delivering food to customers in this US city"
+excerpt: "At present, the artificial intelligence-powered sidewalk delivery robots are used for food and grocery delivery, campus meal delivery and curbside pickup across the country."
+publishedDateTime: 2022-12-19T06:02:00Z
+originalUrl: "https://www.hindustantimes.com/technology/us-latest-news-robots-are-delivering-food-to-uber-eats-customers-in-this-us-city-miami-florida-101671424883042.html"
+webUrl: "https://www.hindustantimes.com/technology/us-latest-news-robots-are-delivering-food-to-uber-eats-customers-in-this-us-city-miami-florida-101671424883042.html"
+ampWebUrl: "https://www.hindustantimes.com/technology/us-latest-news-robots-are-delivering-food-to-uber-eats-customers-in-this-us-city-miami-florida-101671424883042-amp.html"
+cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/us-latest-news-robots-are-delivering-food-to-uber-eats-customers-in-this-us-city-miami-florida-101671424883042-amp.html"
 type: article
-quality: 4
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Hindustan Times
+  domain: hindustantimes.com
 
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
+
+images:
+  - url: "https://images.hindustantimes.com/img/2022/12/19/1600x900/Uber_Eats_1671428679735_1671428685111_1671428685111.JPG"
+    width: 1600
+    height: 900
+    isCached: true
 
 related:
   - title: "Uber Eats Will Roll Out Sidewalk Robots For Food Deliveries"
@@ -67,22 +76,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Robots are delivering food to customers in this US city"
-    excerpt: "At present, the artificial intelligence-powered sidewalk delivery robots are used for food and grocery delivery, campus meal delivery and curbside pickup across the country."
-    publishedDateTime: 2022-12-19T06:02:00Z
-    webUrl: "https://www.hindustantimes.com/technology/us-latest-news-robots-are-delivering-food-to-uber-eats-customers-in-this-us-city-miami-florida-101671424883042.html"
-    ampWebUrl: "https://www.hindustantimes.com/technology/us-latest-news-robots-are-delivering-food-to-uber-eats-customers-in-this-us-city-miami-florida-101671424883042-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/us-latest-news-robots-are-delivering-food-to-uber-eats-customers-in-this-us-city-miami-florida-101671424883042-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 61
-    images:
-      - url: "https://images.hindustantimes.com/img/2022/12/19/1600x900/Uber_Eats_1671428679735_1671428685111_1671428685111.JPG"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "UberEats is rolling out a fleet of self-driving delivery robots in Miami"
     excerpt: "Uber and Cartken have announced a partnership to introduce Miami to a fleet of tiny autonomous delivery vehicles."
     publishedDateTime: 2022-12-15T20:00:00Z
@@ -99,7 +92,16 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "Uber Eats To Use Self-Driving Robots In Miami To Deliver Orders"
+    excerpt: "Uber Eats has started using self-driving robots to deliver orders in parts of Miami. The ride-hailing company will have autonomous robots on sidewalks Thursday in the Dadeland area of Miami-Dade County."
+    publishedDateTime: 2022-12-15T17:53:00Z
+    webUrl: "https://www.ibtimes.com/uber-eats-use-self-driving-robots-miami-deliver-orders-3647760"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 4
 
-secured: "vDDSpx1Dt7piZWYZNaOvEatsK7Jld2ktd4J7yp3wEjS5grBunw2dGhpVRgUlIibIfIibGncmVapR0xhHosR0+FJeiUstF9UbP7cgzSMsjeP0yxLTWlx4ONEjBi5YO/JzS7OzQ6FWeRxrPPRU+UKlerw7Dii03KStZfLUTkCDDbnrpXr4kBjhEpFm7x1JrUeYkY5By8HsecqqJAj3AuhEzeXAibYwjOw3IRv0swcW8KnMExtKBqf5cQYeKg3qxjdlTpg7BlOl9onP7GROfHGm2PNgkmnyCxwh0D8Et3A273WD6DGWhKYG8+C15JiWn+XScOmtPpxBGOTrB3HH5AMny28Oaa3AJY8JDBvwWhmW5XgwNf0WZiad3sn9goeZ3wB0neeOp5ZGkZET69qg1TCBaOrDBWYiIqMCvMTV8HXtPQvXwo7+ovge0yeyRI34opg7/JgBx4/t1kLEL6hWbP4ROrKr1NXVsSmZH7qRv740r1H39WYUvmCKTJ1YSrm7GwClw8D4bc+343K0YcFutQ0gIw==;ul6xFD+LCoGXVvG71acfXA=="
+secured: "1auFqE5+ZrKd42+m/JWooeVR1+Qa0xXNls/Z1rRM5YK4Xsow/10g+xjpOFxsJ9zx3fNQ8XrzXtI0uLnpnhhAF31q8kuDkNSiaKYwPitMIXNAuB5Kt/IpTbcDDaibqTAZF4Wk5S3gQJsbh6FGJC1AKKtR9XPL9Fovb+d5WV20LlApqZoiN7wvx4W73U7ZcQV+oKaMDPtf70xcmfar2WpXPund1fk1Ej8/UNHeElrdPI74iNz5jT51Ux2Ljg6paBZ0Hiw1EbWj0RjYWDs34t14zfI/m8dF6i/JDfbDE4kp8hyU1ohZTfsRnvQozS6MGIgxTsbr5r8ox0dkH68k02SUQPvVe1LcClLIP6JKbsNqCBw=;JKCqGab0ycN1QulMt5dxfw=="
 ---
 

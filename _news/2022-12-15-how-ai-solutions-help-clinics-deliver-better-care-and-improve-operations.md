@@ -22,17 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Using AI to Streamline the Provider-Payer Relationship"
-    excerpt: "A provider and payer share how an artificial intelligence-based platform helps them improve their information exchange and streamline utilization management."
-    publishedDateTime: 2022-12-14T13:31:00Z
-    webUrl: "https://healthitanalytics.com/features/using-ai-to-streamline-the-provider-payer-relationship"
-    ampWebUrl: "https://healthitanalytics.com/features/amp/using-ai-to-streamline-the-provider-payer-relationship"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/using-ai-to-streamline-the-provider-payer-relationship"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
   - title: "How AI, Automation, and Zero Trust Can Improve Enterprise Networks"
     excerpt: "IT teams have a lot on their plates in terms of managing their organizations’ corporate networks. The good news: certain technologies can help."
     publishedDateTime: 2022-12-16T17:06:00Z

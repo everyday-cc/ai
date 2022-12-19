@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-10-18-nvidia-and-oracle-announce-expanded-cloud-ai-partnership.md",
+      "title": "Nvidia and Oracle announce expanded cloud AI partnership",
+      "excerpt": "Nvidia and Oracle announced an expanded, multiyear partnership today at Oracle CloudWorld to help customers speed AI adoption.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nvidia-and-oracle-announce-expanded-cloud-ai-partnership/",
+      "originalUrl": "https://venturebeat.com/ai/nvidia-and-oracle-announce-expanded-cloud-ai-partnership/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/NVIDA-H100-SXM-image.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/nvidia-and-oracle-announce-expanded-cloud-ai-partnership/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-and-oracle-announce-expanded-cloud-ai-partnership/amp/",
+      "publishedDateTime": "2022-10-18T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-18-oracle-cloud-adding-tens-of-thousands-of-nvidia-chips-for-ai.md",
       "title": "Oracle Cloud adding tens of thousands of Nvidia chips for AI",
       "excerpt": "Chips that help accelerate computing speed include GPUs and are heavily used in AI work where Nvidia has the lion's share. While there are many AI chip startups challenging Nvidia, Clay Magouyrk ...",
@@ -1393,60 +1445,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-tesla-ai-day-2022-musk-promises-optimus-humanoid-robot-for-under-20000.md",
-      "title": "Tesla AI Day 2022: Musk Promises Optimus Humanoid Robot For Under $20,000",
-      "excerpt": "Elon Musk showed off a working prototype of the Optimus robot at Tesla AI Day 2022, claiming it will cost under $20,000. Synchronized twerking with Elon Musk was not involved.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamesmorris/2022/10/01/tesla-ai-day-2022-musk-promises-optimus-humanoid-robot-for-under-20000/",
-      "originalUrl": "https://www.forbes.com/sites/jamesmorris/2022/10/01/tesla-ai-day-2022-musk-promises-optimus-humanoid-robot-for-under-20000/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 343,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63383717f2eee70962377afb/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamesmorris/2022/10/01/tesla-ai-day-2022-musk-promises-optimus-humanoid-robot-for-under-20000/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2022/10/01/tesla-ai-day-2022-musk-promises-optimus-humanoid-robot-for-under-20000/amp/",
-      "publishedDateTime": "2022-10-01T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics",
-        "AI Hardware"
       ]
     }
   ],
