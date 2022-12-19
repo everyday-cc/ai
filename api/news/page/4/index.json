@@ -2,57 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-12-13-beware-the-downsides-of-ai-data-collection-applications.md",
-      "title": "Beware The Downsides Of AI Data Collection Applications",
-      "excerpt": "Voice engines are building an extensive database about a user's interests, likes and dislikes, personal feelings, and even political leanings. The vendors say it is anonymous, and to a point that’s probably true.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/timbajarin/2022/12/13/beware-the-downsides-of-ai-data-collection-applications/",
-      "originalUrl": "https://www.forbes.com/sites/timbajarin/2022/12/13/beware-the-downsides-of-ai-data-collection-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6397b655a8bf3d77e33405cd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2022/12/13/beware-the-downsides-of-ai-data-collection-applications/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2022/12/13/beware-the-downsides-of-ai-data-collection-applications/amp/",
-      "publishedDateTime": "2022-12-13T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-13-deepminds-alphacode-conquers-coding-performing-as-well-as-humans.md",
       "title": "DeepMind’s AlphaCode Conquers Coding, Performing as Well as Humans",
       "excerpt": "AlphaCode paves the road for a novel way to design AI coders: forget past experience and just listen to the data.",
@@ -1213,6 +1162,40 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-commercial-artificial-intelligence-market-2022-latest-innovations-future-technology-driving-factors-demand-over-the-worldwide-to-2028.md",
+      "title": "Commercial Artificial Intelligence Market 2022 – Latest Innovations, Future Technology, Driving Factors & Demand over the Worldwide to 2028",
+      "excerpt": "The Commercial Artificial Intelligence Market Report Included Analysis by Key Players - IBM, Google, Microsoft, AWS, General Vision & More. Pune, Maharashtra -- -- 12/12/2022 -- C",
+      "sourceUrl": null,
+      "webUrl": "https://markets.buffalonews.com/buffnews/article/sbwire-2022-12-12-commercial-artificial-intelligence-market-2022-latest-innovations-future-technology-driving-factors-and-demand-over-the-worldwide-to-2028",
+      "originalUrl": "https://markets.buffalonews.com/buffnews/article/sbwire-2022-12-12-commercial-artificial-intelligence-market-2022-latest-innovations-future-technology-driving-factors-and-demand-over-the-worldwide-to-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Buffalo News",
+        "domain": "buffalonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

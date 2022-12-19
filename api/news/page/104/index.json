@@ -2,58 +2,6 @@
   "page": 104,
   "value": [
     {
-      "path": "_news/2022-09-19-weride-launches-the-first-self-driving-robobus-test-ride-in-saudi-arabia-at-2022-global-ai-summit.md",
-      "title": "WeRide Launches the First Self-driving Robobus Test Ride in Saudi Arabia at 2022 Global AI Summit",
-      "excerpt": "WeRide launched the first driverless public Robotaxi service in the Middle East in Abu Dhabi, capital of the United Arab Emirates. The launch of the driverless robobus in Riyadh becomes another important milestone in WeRide's global footprint,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/weride-launches-the-first-self-driving-robobus-test-ride-in-saudi-arabia-at-2022-global-ai-summit-2022-09-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/weride-launches-the-first-self-driving-robobus-test-ride-in-saudi-arabia-at-2022-global-ai-summit-2022-09-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-18T23:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-19-name-your-price-on-this-aws-ebook-bundle.md",
       "title": "Name Your Price On This AWS eBook Bundle",
       "excerpt": "As of 2022, AWS Cloud is available in 87 zones and “27 geographic regions around the world, with announced plans for 21 more Availability Zones and 7 more AWS Regions in Australia, Canada ...",
@@ -1120,6 +1068,58 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-17-top-5-stories-of-the-week-ai-revelations-and-apple-moves-to-kill-passwords.md",
+      "title": "Top 5 stories of the week: AI revelations and Apple moves to kill passwords",
+      "excerpt": "Revelations, innovations and questions about AI unfolded in VentureBeat’s news coverage this week. Deep learning turned 10 and insights from the field’s top leaders like Yann LeCun and Geoffrey Hinton predict that there’s no sign of slowdown for deep learning anytime soon.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-ai-revelations-and-apple-moves-to-kill-passwords/",
+      "originalUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-ai-revelations-and-apple-moves-to-kill-passwords/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1349108067.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-ai-revelations-and-apple-moves-to-kill-passwords/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-5-stories-of-the-week-ai-revelations-and-apple-moves-to-kill-passwords/amp/",
+      "publishedDateTime": "2022-09-16T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

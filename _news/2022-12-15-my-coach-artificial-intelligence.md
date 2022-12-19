@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ispo.com/en/news-markets/my-coach-artificial-intelligenc
 cdnAmpWebUrl: "https://www-ispo-com.cdn.ampproject.org/c/s/www.ispo.com/en/news-markets/my-coach-artificial-intelligence?amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: ISPO
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Unlocking the potential of AI"
-    excerpt: "If issues around privacy are addressed, AI can revolutionise business and public services by facilitating cost effective, socially beneficial outcomes"
-    publishedDateTime: 2022-12-14T10:14:00Z
-    webUrl: "https://business-reporter.co.uk/technology/unlocking-the-potential-of-ai"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 39
-    images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/022/iStock-965072554.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI safety technology aims to flip the script on driver coaching"
     excerpt: "The survey aims to highlight the need for positive reinforcement to improve driver behavior and ultimately safety and cost savings"
     publishedDateTime: 2022-12-15T15:57:00Z

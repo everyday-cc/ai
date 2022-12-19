@@ -2,40 +2,6 @@
   "page": 116,
   "value": [
     {
-      "path": "_news/2022-09-09-uk-based-reall-invests-in-syntellect-global-affordable-housing-fintech-startup-in-a-pre-series-a-round.md",
-      "title": "UK-based Reall invests in Syntellect - global affordable housing fintech startup in a Pre Series A Round",
-      "excerpt": "UK-based Reall invests in Syntellect - global affordable housing fintech startup in a Pre Series A Round. Updated:",
-      "sourceUrl": null,
-      "webUrl": "https://www.ptinews.com/pti/uk-based-reall-invests-in-syntellect-global-affordable-housing-fintech-startup-in-a-pre-series-a-round/57377.html",
-      "originalUrl": "https://www.ptinews.com/pti/uk-based-reall-invests-in-syntellect-global-affordable-housing-fintech-startup-in-a-pre-series-a-round/57377.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PTI",
-        "domain": "ptinews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-09-can-artificial-intelligence-help-reduce-side-effects-of-common-drugs.md",
       "title": "Can Artificial Intelligence Help Reduce Side Effects of Common Drugs?",
       "excerpt": "A new artificial intelligence tool developed by researchers is designed to calculate which drugs are more likely to experience adverse anticholinergic effects on the body and brain. These ...",
@@ -1099,6 +1065,59 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-08-qualcomm-is-still-the-most-efficient-ai-accelerator-for-image-processing.md",
+      "title": "Qualcomm Is Still The Most Efficient AI Accelerator For Image Processing",
+      "excerpt": "Company’s recent design wins with leading server vendors indicates strong customer demand, especially in edge image processing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/09/08/qualcomm-is-still-the-most-efficient-ai-accelerator-for-image-processing/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/09/08/qualcomm-is-still-the-most-efficient-ai-accelerator-for-image-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6319090efc2d7f948d213eba/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 614,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/09/08/qualcomm-is-still-the-most-efficient-ai-accelerator-for-image-processing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/09/08/qualcomm-is-still-the-most-efficient-ai-accelerator-for-image-processing/amp/",
+      "publishedDateTime": "2022-09-08T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

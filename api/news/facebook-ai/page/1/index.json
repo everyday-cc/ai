@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-18-ai-in-computer-vision-market-2023-statistics-industry-share-latest-trends-growth-drivers-size-estimate-and-forecast-till-2028.md",
+      "title": "AI In Computer Vision Market 2023 Statistics, Industry Share, Latest Trends, Growth Drivers, Size Estimate and Forecast till 2028",
+      "excerpt": "\" AI In Computer Vision Market \" Insights 2022 - By Applications (JHGJGHealthcare, Automotive, Agriculture), By Types (JHGJG Hardware, Software), By Segmentation analysis, Regions and Forecast to 2028.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2023-statistics-industry-share-latest-trends-growth-drivers-size-estimate-and-forecast-till-2028-2022-12-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2023-statistics-industry-share-latest-trends-growth-drivers-size-estimate-and-forecast-till-2028-2022-12-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-17T17:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-12-14-artificial-intelligence-and-machine-learning-market-by-product-and-geography-forecast-and-analysis-2023-to-2028-with-top-countries-data.md",
       "title": "Artificial Intelligence and Machine Learning Market by Product and Geography : Forecast and Analysis 2023 to 2028 with Top Countries Data",
       "excerpt": "Artificial Intelligence and Machine Learning Market\" Research report encompasses a thorough study of the current",
@@ -1391,59 +1444,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-ibm-research-helps-extend-pytorch-to-enable-open-source-cloud-native-machine-learning.md",
-      "title": "IBM Research helps extend PyTorch to enable open-source cloud-native machine learning",
-      "excerpt": "IBM Research has contributed code to the open-source PyTorch machine learning project that could help to significantly accelerate training.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ibm-research-helps-extend-pytorch-to-enable-open-source-cloud-native-machine-learning/",
-      "originalUrl": "https://venturebeat.com/ai/ibm-research-helps-extend-pytorch-to-enable-open-source-cloud-native-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/IBM2-e1668643364867.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ibm-research-helps-extend-pytorch-to-enable-open-source-cloud-native-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ibm-research-helps-extend-pytorch-to-enable-open-source-cloud-native-machine-learning/amp/",
-      "publishedDateTime": "2022-11-17T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

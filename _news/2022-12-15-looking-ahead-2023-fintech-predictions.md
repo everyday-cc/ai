@@ -43,19 +43,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Artificial Intelligence Can Enhance the Fintech Industry"
-    excerpt: "AI in FinTech has also had a similar impact with enhanced security and banking apps, making the finance industry more customer friendly. Artificial intelligence (AI) significantly impacts practically every part of our daily life,"
-    publishedDateTime: 2022-12-16T16:45:00Z
-    webUrl: "https://www.bbntimes.com/financial/how-artificial-intelligence-can-enhance-the-fintech-industry"
+  - title: "Top Fintech Events Taking Place in Asia in Q1 2023"
+    excerpt: "With 2023 just around the corner, we’ve curated a list of the most highly anticipated fintech events and conferences taking place in the region in first quarter of the year that will help industry professionals and stakeholders keep up with this fast-evolving landscape."
+    publishedDateTime: 2022-12-19T02:47:00Z
+    webUrl: "https://fintechnews.sg/67679/events/top-fintech-events-taking-place-in-asia-in-q1-2023/"
     type: article
     provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 39
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
     images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/How_AI_Can_Enhance_the_Fintech_Industry.png"
-        width: 1888
-        height: 1080
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/12/Top-Fintech-Events-Taking-Place-in-Asia-in-Q1-2023.png?x64868"
+        width: 1024
+        height: 567
         isCached: true
   - title: "Fintech stocks took hammering in 2022, but rebound coming: industry boss"
     excerpt: "Soaring interest rates tend to hurt growth stocks – and more specifically tech stocks – due to the discounted cash flow models used in their valuations. As a result, fintech, which is part of the broader tech space,"

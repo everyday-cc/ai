@@ -115,20 +115,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "This AI Platform will Change the Future of Generative AI – And it’s Not ChatGPT"
-    excerpt: "As the fervour around AI text and image generators grew, another startup developing AI content called Jasper raised USD 125 million in October this year pulling the company’s valuation to USD 1.5 bill"
-    publishedDateTime: 2022-12-14T09:48:00Z
-    webUrl: "https://analyticsindiamag.com/this-ai-platform-will-change-the-future-of-generative-ai-and-its-not-chatgpt/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/break.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "ChatGPT got all the buzz, but beneath it is a $1B developer framework that's quietly fueling the new era of lifelike AI at OpenAI and beyond"
     excerpt: "The Ray developer framework is used by OpenAI, Amazon, and more to solve one of AI's biggest pain points and make AI tools like ChatGPT possible."
     publishedDateTime: 2022-12-16T10:00:00Z

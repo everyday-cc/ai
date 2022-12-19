@@ -2,50 +2,6 @@
   "page": 78,
   "value": [
     {
-      "path": "_news/2022-10-11-top-nine-ethical-issues-in-artificial-intelligence.md",
-      "title": "Top Nine Ethical Issues In Artificial Intelligence",
-      "excerpt": "Some of today’s tech giants believe that artificial intelligence (AI) should be more widely utilized. However, there are many ethical and risk assessment issues to be considered before this can become reality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/11/top-nine-ethical-issues-in-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/11/top-nine-ethical-issues-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2022-10-11-toyota-and-google-cloud-partner-to-bring-ai-powered-speech-services-to-toyota-and-lexus-vehicles.md",
       "title": "Toyota and Google Cloud Partner to Bring AI-Powered Speech Services to Toyota and Lexus Vehicles",
       "excerpt": "Toyota and Google Cloud today announced an expanded partnership that brings together Toyota and Lexus next-generation audio multimedia systems and Google Cloud's AI-based speech services. Customers can now experience the first results of the partnership in the latest generation Toyota Audio Multimedia and Lexus Interface infotainment systems,",
@@ -1115,6 +1071,59 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-how-a-flawed-biometrics-research-project-exposed-ai-ethical-issues-singled-out-lgbtq-individuals.md",
+      "title": "How a flawed biometrics research project exposed AI ethical issues, singled out LGBTQ+ individuals",
+      "excerpt": "Flaws in a facial recognition dataset that was discovered by researchers highlight just some ways in which biometrics tech can cause harm to LGBTQ+ individuals.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-a-flawed-biometrics-research-project-exposed-ai-ethical-issues-singled-out-lgbtq-individuals/",
+      "originalUrl": "https://venturebeat.com/ai/how-a-flawed-biometrics-research-project-exposed-ai-ethical-issues-singled-out-lgbtq-individuals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1164656566-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-a-flawed-biometrics-research-project-exposed-ai-ethical-issues-singled-out-lgbtq-individuals/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-a-flawed-biometrics-research-project-exposed-ai-ethical-issues-singled-out-lgbtq-individuals/amp/",
+      "publishedDateTime": "2022-10-10T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Facebook AI"
       ]
     }
   ],

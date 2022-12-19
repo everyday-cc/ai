@@ -2,48 +2,6 @@
   "page": 114,
   "value": [
     {
-      "path": "_news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up.md",
-      "title": "Amazon’s Alexa inventor Tunstall-Pedoe raises $20m for AI start-up",
-      "excerpt": "Cambridge- and London-based company, Unlikely AI, will start hiring developers of a new type of artificial-intelligence software",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesslive.co.za/bloomberg/news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up/",
-      "originalUrl": "https://www.businesslive.co.za/bloomberg/news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/VLjtmzFKD1z7eYCoxeEx4CSKQc3U5rT_BbleCyhZwv2isWzzu350eDYF39-ksetybKmDelGAp7n4RKSik2_tBDFVpU659CtMRRsFhP2KW0F8vAI=s512",
-          "width": 512,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businesslive.co.za/amp/bloomberg/news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up/",
-      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bloomberg/news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up/",
-      "publishedDateTime": "2022-09-12T02:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businesslive.co.za",
-        "domain": "businesslive.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-12-insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch.md",
       "title": "INSIGHT-Truly autonomous cars may be impossible without helpful human touch",
       "excerpt": "Autonomous vehicle (AV) startups have raised tens of billions of dollars based on promises to develop truly self-driving cars, but industry executives and experts say remote human supervisors may be needed permanently to help robot drivers in trouble.",
@@ -1076,6 +1034,49 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-10-artificial-intelligence-is-now-used-to-track-down-hate-speech.md",
+      "title": "Artificial intelligence is now used to track down hate speech",
+      "excerpt": "AI can help alleviate that burden by scaling up or down to fill in those gaps based on new influxes of users. Facebook, for instance, has seen massive growth, from 400 million users in the early ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newschannel5.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech",
+      "originalUrl": "https://www.newschannel5.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newsy.com/images/videos/m/1660250991_F4WYcV.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newschannel5.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true",
+      "cdnAmpWebUrl": "https://www-newschannel5-com.cdn.ampproject.org/c/s/www.newschannel5.com/news/national-politics/the-race/artificial-intelligence-is-now-used-to-track-down-hate-speech?_amp=true",
+      "publishedDateTime": "2022-09-09T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTVF",
+        "domain": "newschannel5.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     }
   ],

@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Fintech stocks took hammering in 2022, but rebound coming: industry boss"
-excerpt: "Soaring interest rates tend to hurt growth stocks – and more specifically tech stocks – due to the discounted cash flow models used in their valuations. As a result, fintech, which is part of the broader tech space,"
-publishedDateTime: 2022-12-14T22:23:00Z
-originalUrl: "https://www.theaustralian.com.au/business/stockhead/fintech-stocks-took-hammering-in-2022-but-rebound-coming-industry-boss/news-story/d951302ea5f22262759959956caaddeb"
-webUrl: "https://www.theaustralian.com.au/business/stockhead/fintech-stocks-took-hammering-in-2022-but-rebound-coming-industry-boss/news-story/d951302ea5f22262759959956caaddeb"
+title: "Top Fintech Events Taking Place in Asia in Q1 2023"
+excerpt: "With 2023 just around the corner, we’ve curated a list of the most highly anticipated fintech events and conferences taking place in the region in first quarter of the year that will help industry professionals and stakeholders keep up with this fast-evolving landscape."
+publishedDateTime: 2022-12-19T02:47:00Z
+originalUrl: "https://fintechnews.sg/67679/events/top-fintech-events-taking-place-in-asia-in-q1-2023/"
+webUrl: "https://fintechnews.sg/67679/events/top-fintech-events-taking-place-in-asia-in-q1-2023/"
 type: article
-quality: 3
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: The Australian
-  domain: theaustralian.com.au
+  name: Fintech Singapore
+  domain: fintechnews.sg
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/12/Top-Fintech-Events-Taking-Place-in-Asia-in-Q1-2023.png?x64868"
+    width: 1024
+    height: 567
+    isCached: true
 
 related:
   - title: "Looking ahead: 2023 FinTech predictions"
@@ -51,21 +57,16 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Top Fintech Events Taking Place in Asia in Q1 2023"
-    excerpt: "With 2023 just around the corner, we’ve curated a list of the most highly anticipated fintech events and conferences taking place in the region in first quarter of the year that will help industry professionals and stakeholders keep up with this fast-evolving landscape."
-    publishedDateTime: 2022-12-19T02:47:00Z
-    webUrl: "https://fintechnews.sg/67679/events/top-fintech-events-taking-place-in-asia-in-q1-2023/"
+  - title: "Fintech stocks took hammering in 2022, but rebound coming: industry boss"
+    excerpt: "Soaring interest rates tend to hurt growth stocks – and more specifically tech stocks – due to the discounted cash flow models used in their valuations. As a result, fintech, which is part of the broader tech space,"
+    publishedDateTime: 2022-12-14T22:23:00Z
+    webUrl: "https://www.theaustralian.com.au/business/stockhead/fintech-stocks-took-hammering-in-2022-but-rebound-coming-industry-boss/news-story/d951302ea5f22262759959956caaddeb"
     type: article
     provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/12/Top-Fintech-Events-Taking-Place-in-Asia-in-Q1-2023.png?x64868"
-        width: 1024
-        height: 567
-        isCached: true
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 3
 
-secured: "5b+Mur/WUEV17wJ0nBjvGZbEYZaq1bgMn2ZScXB0uQe1fiPvOW6JIIWG4itvVhYXt1SouJFGRSSRMV5fhU0WNeVhsOSNynNq8IzP/K+X8Xu3nj4fnHaxOoRHlzAixjok4LnKSUZbf3BpJXDU9Skx1IM8sqsiKT7MfoAn49bnKyOo5bxXG/7ICYhmM7oS95PO7A6MiQ3AGJ0IB+AtPaFlhYkfrFTKAiK+CMdh1zYUwbnel62whek54EXniQJgFAvhdYJhf3WnbAqpq5KOPYLTC3rGczoB3IVIuhi5I0tqcAiEoyab1U4VEjKZiRSKL5Y8vPYeQW3BrhqwLSsYEFJ/XLwyBK93iiCWV4p0hAF3+kCRJ2xg+X/xWXABtEJ7Ic8iWQXfeJ848SvhRtwW66GI1Ve2MVoibrbYc1gNn59vQNXR4MuKhHPutf6m7uCR7jWQU+YrMkSly3Dr38m+eQ8+uDTTSlTqchqdHO5OHkDYCH5VDqnNN81Viu0tXOh+UvJIYWrdnFcwfHvNm00QNuSnUQ==;gRhhOTtKNevyRImtOVyHDA=="
+secured: "6VJ4BvBjCxJ7tyHN7ecczFn+38mzpopxOxKQ1ZFE0NUFFqJDD7xyhadR8hiW0u2PmdoBKMNJFWqtVTeNIanRqUqZ2oPgqi38D8fsCNWT1WDFYc9rm/z4awnHodTGlg5jT44Nx+0cZ6JqFkhZ/Ocehxkzp1RhAdFu4HL7Oa5rBwLBRA2tIw73Qg/bmZX0DKXtGQ0XF++cz380l5lVe8XUgyphdqIFJIZ/mffJOCisv2MR9Gt9Tz22KQn1ayozSqkK68xdu+VZyZJA+8bLJhQK4Kuk1GmlTWCmIzChJhWFlWrvCrB2E55k1p5QS/NdxRfVZnNsrsbDBME8YkAW8ozdGFK8igSQ32GJYCHJgVKNFng=;dDXnf8DvuNSsdVOgOw4a4Q=="
 ---
 

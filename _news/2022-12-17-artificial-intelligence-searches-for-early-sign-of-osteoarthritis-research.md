@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence searches for early sign of osteoarthritis: Research"
-excerpt: "In practice, the AI tries to detect whether there is spiking on the tibial tubercles in the knee joint or not. Tibial spiking can be a sign of osteoarthritis."
-publishedDateTime: 2022-12-17T10:29:00Z
-originalUrl: "https://telanganatoday.com/artificial-intelligence-searches-for-early-sign-of-osteoarthritis-research"
-webUrl: "https://telanganatoday.com/artificial-intelligence-searches-for-early-sign-of-osteoarthritis-research"
+excerpt: "Researchers from the University of Jyvaskyla and the Central Finland Health Care District have developed an AI based neural network to detect an early knee oste"
+publishedDateTime: 2022-12-17T11:02:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/273223818/artificial-intelligence-searches-for-early-sign-of-osteoarthritis-research"
+webUrl: "https://www.bignewsnetwork.com/news/273223818/artificial-intelligence-searches-for-early-sign-of-osteoarthritis-research"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Telangana Today
-  domain: telanganatoday.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/12/Artificial-Intelligence.jpg"
-    width: 1280
-    height: 750
+  - url: "https://cdn.bignewsnetwork.com/ani1671275121.jpg"
+    width: 630
+    height: 420
     isCached: true
 
 related:
@@ -58,6 +58,6 @@ related:
         height: 480
         isCached: true
 
-secured: "ufTyttkh0oMkAC1mUAHBaxK8iq1tpyL/rmeyfQK7SsKJwkzD2mt7NFctOuR6pCU6Cu0oyJmQmxgaeLAmYzlPpFP/2JpEMzCnpaduGoK89MEpW6kOtA/fMqDRJCDWlW3kfNqGuQ221hlhEm7BSiloaxLLo3ytuDw+9+THE7OxSbyqJ4irHKMyEdIKPxdmXxC64s4sTrafxmLaECU1lQ490fc4jGYCmir8xc5u7+RyKo3yaWYS7gtvwt9Chl+6fEUUcG8Kjv/2wq4pD68YjQsr6OP4w4fThWEzpSJTf9CWXmZozJSOzRsc9BFZ3uDxxOxTI9pLCAQzr/tXArbB6ndkzHboEJKB7vMJ7HwxptAQY+Xd6up11qTYP41jTJJSTu86KCp0znJcf2hUW8e5mSaQT+UPAl6oY4utHNahQoxbgeNoqUYrpDIwJ0FneYoO96Ewxr8wVbMyZQE96iyjlq4+H2jMYMzvWcZl7jRSblwCjI8Nm4fnr6RTB3rY8DYS9Y4Iw0VtGGxf2Pv36K4Ile7wvw==;kWOYaWUrwFjbbgRR1kLNbw=="
+secured: "ldFdptyioHIXpnVfWLvE43W9kU4iN2Ru0q2ycpxRJLCM4sIn9wdLFM71DU+sFKxOGkLzDvUD8bxMp33XcXPxow7wPrQ3AjazP1JfddHbOKwSte2EnefA/x6z5Otbhe/zlA11lEu17aGG7LbMtgeb4pIljYBccHRtgs38/rxhz8dv0RDJrPhRr0zKVml+07J0m2jwkWcTd0M/hsB70lyht4eZE30w5FqWCY3ls4E6CFNW8gUie8QoORWLFDBkBHFKivWczP6libbGgDeVVtdocencjf1WM8nXH7sWs3fYanj2cKm6/X2vrrOMpv62ouuOxFF3P72LdgMBFtoE9YiYLM33AP25e+VumPHQKL2I5Xc=;DB8aaRSMV+KPSowFllbojw=="
 ---
 
