@@ -71,15 +71,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Planet Makes Its Geospatial Data Available Through Amazon SageMaker"
-    excerpt: "(NYSE: PL), a leading provider of daily data and insights about Earth, today announced it is making geospatial data available through Amazon SageMaker, a fully managed machine learning (ML) service from Amazon Web Services (AWS)."
-    publishedDateTime: 2022-12-14T19:03:00Z
-    webUrl: "https://spaceref.com/space-commerce/planet-makes-its-geospatial-data-available-through-amazon-sagemaker/"
-    type: article
-    provider:
-      name: SpaceRef
-      domain: spaceref.com
-    quality: 34
 
 secured: "1sts3n7A98ymNYeMvccLsO9wBqnSuMuo0We6SC9AmZBMKCtf06SmW/UhKsq+Sn5M49faARj1emBJUROSpbPZBforY4yVY2oZXtiwMvhvLt+SQPUiD7XVvw2tb+pQx0Rp0ydnXMaJMC8t9MCYZpn9S6NTiNHGmdDzujWyzJ1EteH0XD9vrZwhdCB/K+aKmaWtqFjDd8amuj9cRQzXVqXU1XdzQAwRwAfWQiYnxdmZMi1Ij5EIKcSQBCCxdZH9BGiqdWLnWDtjEscoHnXSlEDQHpKfvWRtXskJ4punwqlqD6Vhuh/6owcbT3Xwz85F9HRHPFrIoGwFc4Sso4swMu5xuIrtDfZ0yQODNVI3zvlg5HY=;tDXzOWCpyGLxR/XzCxCJKg=="
 ---

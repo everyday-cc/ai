@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Fashion market research report by market watch provides you with social, economic, and global growth opportunities."
-    excerpt: "The global AI in Fashion market size is projected to reach multi million by 2028, in comparision to 2021, at unexpected CAGR during 2022-2028 (Ask for Sample Report). A complete analysis of significant growth strategies,"
-    publishedDateTime: 2022-12-14T20:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fashion-market-research-report-by-market-watch-provides-you-with-social-economic-and-global-growth-opportunities-2022-12-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "How Artificial Intelligence Can Enhance the Fintech Industry"
     excerpt: "AI in FinTech has also had a similar impact with enhanced security and banking apps, making the finance industry more customer friendly. Artificial intelligence (AI) significantly impacts practically every part of our daily life,"
     publishedDateTime: 2022-12-16T16:45:00Z
@@ -68,6 +54,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "MkhUmuUj8VQPGj+bx3CFe7JKNMAm9s+B7yg6JaN2v+cEhioI2bHdLtOfS60D3/VnkbvXmPs1h1fnSprdv2qNTMIkRIbfJIfPMDnIKrUaoMnFnROMA07Ra8Vjya/UV7hSL2VgnGmv8sEA9P1z0JPbQuZJJwypPRAGhu1i7BF4FDr7vT2lx2JNW6mIwoVOJfRBDUS1tZ/iGBpFyfeUp3DysXXbwPCryBUFAK9DL5RZfloKRDkLsrWIEXDWM/Bz2TKyg65bYd6U8HJCu4z8wEfGOkoeZs+QusXZNtEW6cf4uOG/2YS4viKnxmBpZ8dmvDYEXFJLFpSg3b10xKr95sK2+mQJrid6eAa6z14GTEjmOUs=;ZYJB6clechRTuEmBgKZd3A=="
+secured: "gkjvC7FEFg/DxFL6rZccvpy8xGOTJrMbVTQpwfPV8Jd941clImL4zk1ply29MeICW8/LjjsblugxjP3+LK40qJE7sYK8VGYmrInh/jKGUGukie/7hXNOfLk4CHejdX9qG7irVaG4piC6tEiMV4QSxRWPs7smu82HeZM8eVcCiKA+6rHqj/SBhvoI8pfOoaUv6Z7TdfmWnO981Njhb1dW2F9TFKsec4CIaXNth5IXqH8hFVm6PZ0QtQXhHZqR9LUb5RKlT+vA+GHcOJSo958J1otcJRhIXdbVE4/4CzDbL2BC6/CuFiUGYlfPQ4aF43H8/ekjZ3uJynkyU6ImM+aEoHx+ExUO9Ka1CEiSWVbdWAmhXZf56Imh3ATVf++Pl/SFCY0ChVVjrCIvSpxwzLtW//Iqyzug8gFfYk4MplSJrBXJ59Mt55Oqr55ZLe3D2qovQHlFJOL3ZYROONns+3QO39T6+1EzQFzm8k8SOvdqe6gjcoTjCcCXP/FnDVqDN2LIIuL3/8DUxojGILuaq4ms0Q==;2L+0hGYZKy8aC37e8w6RsA=="
 ---
 

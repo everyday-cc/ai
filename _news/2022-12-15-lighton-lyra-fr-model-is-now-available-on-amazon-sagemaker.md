@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/lighton-lyra-fr-mode
 webUrl: "https://aws.amazon.com/blogs/machine-learning/lighton-lyra-fr-model-is-now-available-on-amazon-sagemaker/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -71,15 +71,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Planet Makes Its Geospatial Data Available Through Amazon SageMaker"
-    excerpt: "(NYSE: PL), a leading provider of daily data and insights about Earth, today announced it is making geospatial data available through Amazon SageMaker, a fully managed machine learning (ML) service from Amazon Web Services (AWS)."
-    publishedDateTime: 2022-12-14T19:03:00Z
-    webUrl: "https://spaceref.com/space-commerce/planet-makes-its-geospatial-data-available-through-amazon-sagemaker/"
-    type: article
-    provider:
-      name: SpaceRef
-      domain: spaceref.com
-    quality: 34
 
 secured: "QuXQlNp1ZxPa5OU9JkRWkKGQtjyXvrJzDb2WoVKkLkbssz849HALbq0SpE4hIrlQb38dOdaKSAumf1uhgAZXkhCF5W7iXv9Hq7GpfTena2tmB16kmpOAj+kKL0JIbY98zLqbBxqphXnbp1nKpmXoVDQkeZyiF1DIb/auwQr2dR9sC09Qy0oc0xzDq+oh/Weh8TIWR8XGEKrD20aNoytpzxV8xtS+ElC72wW7rk/93QOwxouyLwHZEaQSW5EUOtWCgHSenxJPIAwTHtTm26dtXXyRmG9QtHc06G3uCnqXYszv+1Zjca3FugQOCg6RITWMnKMI1H9dojKFaMEif+nYMuckYmXyd5tF3MfNNptCaCQ=;9SOy7El1oEDZqZtDpKqKWg=="
 ---

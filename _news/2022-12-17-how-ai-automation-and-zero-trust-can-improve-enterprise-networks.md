@@ -7,7 +7,7 @@ originalUrl: "https://www.networkworld.com/article/3683592/how-ai-automation-and
 webUrl: "https://www.networkworld.com/article/3683592/how-ai-automation-and-zero-trust-can-improve-enterprise-networks.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "How AI solutions help clinics deliver better care and improve operations"
-    excerpt: "AI is a crucial tool for healthcare providers today, from revenue cycle management and patient engagement to operational efficiencies."
-    publishedDateTime: 2022-12-14T19:57:00Z
-    webUrl: "https://venturebeat.com/ai/how-ai-solutions-help-clinics-deliver-better-care-and-improve-operations/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 46
 
 secured: "FczNISeJvYRtWZiRC/P1e2ZadZm3Wo+tqIGKhX5oEkhychbSipKRcPMXZLuhs5Ox+gIRM1MIm/PmKHJ2Gg9rmsG13F+HOmRJiqQXct3nPHhtOMSklwG5oVbpopKp4H46DAkJUWl4N7iES3WnmbryTTqbL67OtNvd32XUUvszKlmNJuVaJrRMZ6FCDO1JnkS1d5bhLNVj6eDhsX6rkoqnVx/Oc+SG1gXhqQKNdYu0uwmC3/W7JT3qX9Ev9YVsIYoG2vdVhyLlbRQ20ZzNEmniG9FdxhgzQH5TdUsNPLOhslyjaJO/KDwS0XGxu+MgUeSloK4VoV+417uyQhEp6HnIBrbmfNysVCkgYDzB++k1dC4wWB84XdO++nBcOohLIxhKi86kDk90WPEeeJJOP4x9w0bljeseKU7JfSYzDq2yKJbxet5mAgV/0gt2Bk2K9u6hUGDvmu3VMGpfmtVHzhoInTqmyktFXh+lyZRP/Oj84GlQWVpajG9luSCsbWBHxb2H+UMT8zMxz9cb7qovoL+nFA==;fdR4XwI5E6s7JkrmpRbBkw=="
 ---

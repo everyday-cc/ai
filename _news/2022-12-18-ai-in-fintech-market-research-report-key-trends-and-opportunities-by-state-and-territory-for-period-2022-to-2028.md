@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Fashion market research report by market watch provides you with social, economic, and global growth opportunities."
-    excerpt: "The global AI in Fashion market size is projected to reach multi million by 2028, in comparision to 2021, at unexpected CAGR during 2022-2028 (Ask for Sample Report). A complete analysis of significant growth strategies,"
-    publishedDateTime: 2022-12-14T20:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fashion-market-research-report-by-market-watch-provides-you-with-social-economic-and-global-growth-opportunities-2022-12-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "How Artificial Intelligence Can Enhance the Fintech Industry"
     excerpt: "AI in FinTech has also had a similar impact with enhanced security and banking apps, making the finance industry more customer friendly. Artificial intelligence (AI) significantly impacts practically every part of our daily life,"
     publishedDateTime: 2022-12-16T16:45:00Z

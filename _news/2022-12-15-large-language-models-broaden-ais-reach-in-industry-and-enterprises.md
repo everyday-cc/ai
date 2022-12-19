@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/large-language-models-broaden-ais-reach-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/large-language-models-broaden-ais-reach-in-industry-and-enterprises/amp/"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 1200
     height: 745
     isCached: true
+
+related:
+  - title: "Flows Integrates Large Language Model to Enhance Automation Capabilities"
+    excerpt: "Flows, a leading no-code automation platform, has announced the integration of a large language model trained by OpenAI. The integration will enable Flows users to easily incorporate natural language processing into their automations,"
+    publishedDateTime: 2022-12-19T12:12:00Z
+    webUrl: "https://igamingbusiness.com/company-news/flows-integrates-large-language-model-to-enhance-automation-capabilities/"
+    type: article
+    provider:
+      name: igamingbusiness
+      domain: igamingbusiness.com
+    quality: 23
+    images:
+      - url: "https://igamingbusiness.com/wp-content/uploads/2022/12/Flows_Logo.png"
+        width: 2048
+        height: 2048
+        isCached: true
 
 secured: "bIrVadxmqFImjU7cvlTQLvHzX5ZTo7lKKDwBg1PlnXM6vPTlmp8cowVUvIrdxLY+YYW8cEr0dTsaUFA5hkkmutwWLurIWeq+SfXEqMeseHs70u5wOrK1XaN8KJR7YqmaN+pXdc+vkxzpzg9LcFjuFhlt/SU4CIk7zvz3ei2Z4PwAHzndUH+K6OYzDVjQ6/t4sfR1+oLFSgIN4MUkDO503FN6BHDDHjD7pIdqWE1RxjhFs8izOVQmv25v0+lnxNI5theN1RAxl1bimiUL4Lnyg98KOz/P4rXXazFrZedsZhsFRBT0XvrPrbp74eU5lFEFG8w3gFcSb/93u9EFzR4HIgH9zzXi4lh8Bpi1s8SOiYWSX0AMfvrVh68RqEZqN73/dUkkLEtL8o+7e49DHs07ziJZ8ZR9Vedc7sXRkyWRbqX8J+hhNDJ0SzBeBhCc88Ip3Hf/ElJS/Q8naJTG76rP+KrXY58yEoUnNQOgKAizyy+wPSKXGaUK1AtKQayMY8Y+zOF73+r2iL/4pO+R+9ANoA==;a+uOngoPz2JyMf/lGh1NbA=="
 ---
