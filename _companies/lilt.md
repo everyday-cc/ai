@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "lilthq"
   url: "https://twitter.com/lilthq"
-  followers: 5661
+  followers: 5662
 
 size: 2-10 employees
 yearFounded: 2015
