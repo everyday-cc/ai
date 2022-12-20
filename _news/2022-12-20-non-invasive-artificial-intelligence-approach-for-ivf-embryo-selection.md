@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20221220/Non-invasive-artificial
 webUrl: "https://www.news-medical.net/news/20221220/Non-invasive-artificial-intelligence-approach-for-IVF-embryo-selection.aspx"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 620
     height: 480
     isCached: true
+
+related:
+  - title: "Harnessing artificial intelligence technology for IVF embryo selection"
+    excerpt: "An artificial intelligence algorithm can determine non-invasively, with about 70 percent accuracy, if an in vitro fertilized embryo has a normal or abnormal number of chromosomes, according to a new study from researchers at Weill Cornell Medicine."
+    publishedDateTime: 2022-12-20T09:09:00Z
+    webUrl: "https://medicalxpress.com/news/2022-12-harnessing-artificial-intelligence-technology-ivf.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-12-harnessing-artificial-intelligence-technology-ivf.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-harnessing-artificial-intelligence-technology-ivf.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/harnessing-artificial.jpg"
+        width: 1500
+        height: 1007
+        isCached: true
 
 secured: "fIisNtitpHG3gS0ln0WsG8MkO0vZdLzMU2043SvxxzZPSUVp2TsK+ERlA1mYwMIjTNF74K0m6RWeUHH6ligB64/LdlSp9wPeO2bbCNxBAXxJd4ww1YZoqQ5zstABf69K1AXq2Dbz3wFWeQ9PKtcvt4FP7xYIQH6mEh/6/0B1Km4DeGJ88yC6T5tMCx/L7y70fsILD9g0vrBJCBPh+cX+AfDFQ/PFKBl9Wgrvyz/qfONtyc+CH1Aa7D45z2MZD+NhOKrQQ30wBkfdwBn0y8nPD61Hlp1NrrDcn1DAQL3Lzbgld13FRu+uWhVbGRe4hwKB1YQGJ/ubsLmi8AO10nMz3qJQkugvADK5pD1tdqcPrT8=;kAerPnn20zqEZ1vXeMbJRw=="
 ---

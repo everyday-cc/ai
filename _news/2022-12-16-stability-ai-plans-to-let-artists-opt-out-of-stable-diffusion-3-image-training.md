@@ -9,8 +9,8 @@ ampWebUrl: "https://arstechnica.com/information-technology/2022/12/stability-ai-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/12/stability-ai-plans-to-let-artists-opt-out-of-stable-diffusion-3-image-training/amp/"
 type: article
 quality: 83
-heat: -1
-published: false
+heat: 83
+published: true
 
 provider:
   name: Ars Technica
@@ -28,40 +28,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "Artists stage mass protest against AI-generated artwork on ArtStation"
-    excerpt: "On Tuesday, members of the online community ArtStation began widely protesting AI-generated artwork by placing \"No AI Art\" images in their portfolios. By Wednesday, the protest images dominated ArtStation's trending page."
-    publishedDateTime: 2022-12-15T18:08:00Z
-    webUrl: "https://arstechnica.com/information-technology/2022/12/artstation-artists-stage-mass-protest-against-ai-generated-artwork/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2022/12/artstation-artists-stage-mass-protest-against-ai-generated-artwork/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/12/artstation-artists-stage-mass-protest-against-ai-generated-artwork/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 89
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/12/artstation_protest_hero-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "ArtStation artists stage mass protest against AI-generated artwork"
-    excerpt: "On Tuesday, members of the online community ArtStation began widely protesting AI-generated artwork by placing \"No AI Art\" images in their portfolios. By Wednesday, the protest images dominated ArtStation's trending page."
-    publishedDateTime: 2022-12-15T18:08:00Z
-    webUrl: "https://arstechnica.com/information-technology/2022/12/artstation-artists-stage-mass-protest-against-ai-generated-artwork/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2022/12/artstation-artists-stage-mass-protest-against-ai-generated-artwork/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/12/artstation-artists-stage-mass-protest-against-ai-generated-artwork/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 89
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/12/artstation_protest_hero-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "w1lJqBdhAZ7MWws77j80A1qs3M3TFUvABtQnynXcl/UGVv6pp5Z20vIg5FiGAj2gEihX9e0kVsUj5VLOK57V0+4I5KqpCbXIZytWKKIegYqLMD6JXU18gt3hgo5TvXmg9A6FbQSqN6tOanlfibqld19Ro+x5itF4pgjFFG5FAB5n4jOJHVIEXm+TM/remnaGn4qj2m/tuLOMcC8U0sf0Ay2OO4CwcbpXR0vou0KIeqHUF+yaIBPjukcYqoW/89NWBzGx8s3w4bFUNot3CRSC61BHdsjzseNs4d2Rhz6FPZMWQO7/9/ufxjB6t5Uu9xJqeCiGcl/zleRBy0f5QgbfDRdzrk5/zJfrukCZyKt8NYBtkLJTYwP2NJBdpNJWs/O5/8EHMNnBAiaIwjdDpXXnvWDhsNST74frxXfQRcJAZO/BxwHR+nWpRiMuWTkuhdwse0oN59qJ9Y+3KPxVhdi5Dbta14UcpqA09Bjtyso2rgiGZsYJ0NhX+B5jn9xwhYrVkFtcWzRmWjWGV6JTLr8lZw==;TXhyyLnKOQoa3Bivt0olng=="
 ---

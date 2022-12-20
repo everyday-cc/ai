@@ -43,6 +43,22 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "Google building AI model to support over 100 Indian languages: Sundar Pichai"
+    excerpt: "Pichai said that the pace of technological change in the country has been extraordinary and Google is supporting small businesses and start-ups, investing in cybersecurity, providing education and ski"
+    publishedDateTime: 2022-12-20T10:01:00Z
+    webUrl: "https://bestmediainfo.com/2022/12/google-building-ai-model-to-support-over-100-indian-languages-sundar-pichai"
+    ampWebUrl: "https://bestmediainfo.com/amp/2022/12/google-building-ai-model-to-support-over-100-indian-languages-sundar-pichai"
+    cdnAmpWebUrl: "https://bestmediainfo-com.cdn.ampproject.org/c/s/bestmediainfo.com/amp/2022/12/google-building-ai-model-to-support-over-100-indian-languages-sundar-pichai"
+    type: article
+    provider:
+      name: Best Media
+      domain: bestmediainfo.com
+    quality: 56
+    images:
+      - url: "https://bestmediainfo.com/uploads/2022/12/1671529698.Sundar-Pichai.jpg"
+        width: 620
+        height: 350
+        isCached: true
 
 secured: "tl9yn3BrBRM039ANz+n9uQiSgnYhLp0A2elGwMIXnnD9oAln7dEFpzraitG9rUoydVmIyS6ZQqSIULhNbgPMl7AEjp3f60LBFxsCerCz/xqd6jUlncfjKq25ir6pfNHLrbpjuqImWHbbw4U+ctbG8OqfS62eMk+O0vVPFOyo2yT5NSRD9z0wKG8KBHtr6jCEb0UqyhOjYmYd14N9X1v0QCZpb3yVVd9EB1ktexN8FupWbPNwkZdhUT9sgATY8qImJ+ECmu1mnAVnA3AhxfnuIh6DzywoBf1HsC8g+J35LrTsIPoLkR7hX1P9pw7YkGDwO4PP3xLgwEP/HSCosiflynlGGimnS3hILjppNDCC4Yg=;XXEM43NWvlFmEB58rIm5Mg=="
 ---

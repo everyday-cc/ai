@@ -26,22 +26,6 @@ images:
     height: 313
     isCached: true
 
-related:
-  - title: "Face Recognition Systems Market Growth and Global Share 2023 | Developing Regions, Emerging Trends and Industry Size Forecast to 2029"
-    excerpt: "Dec (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Face Recognition Systems"
-    publishedDateTime: 2022-12-19T06:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-growth-and-global-share-2023-developing-regions-emerging-trends-and-industry-size-forecast-to-2029-2022-12-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "bmHtRaiIhu08+zgLrmXDkp+J3FYYfhglvvjNzih3HTMHvlCL31jQnw4eQPoOnowPib3sDjThLOOMwAB8e3UJC5kZqGWwIk1fIDnYzA7h3I03rEim+xnXuUckOGZKWwTFn9l1qzqVxrz9jHyJnVu9QckltlKxCluCiqyj9B1UoZKgzATLR0NcxRh7227GFdgA+M48E/eZFZfWHXUrpryqaNagbQbIk6jGcj+T13GgExkoanOqORYoFt8hB/gaQIMDnjTxi4lsRIA6/ps/52Fqoj68tp/PwYueCQdoPs6vL0W660/pQpUxWUVtnXStj7rZi6Zn+hvgD3qGwN/7p9TW+tBBGxeCykxcdavHn9j7cPU=;hUWyQQgKbs+TpoNyxJSl/A=="
 ---
 

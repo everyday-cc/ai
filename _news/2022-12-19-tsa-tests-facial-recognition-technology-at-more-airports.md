@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technol
 cdnAmpWebUrl: "https://www-ktre-com.cdn.ampproject.org/c/s/www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/?outputType=amp"
 type: article
 quality: 74
-heat: 104
+heat: 106
 published: true
 
 provider:

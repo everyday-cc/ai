@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence Can Enhance the Fintech Industry"
-    excerpt: "AI in FinTech has also had a similar impact with enhanced security and banking apps, making the finance industry more customer friendly. Artificial intelligence (AI) significantly impacts practically every part of our daily life,"
-    publishedDateTime: 2022-12-16T16:45:00Z
-    webUrl: "https://www.bbntimes.com/financial/how-artificial-intelligence-can-enhance-the-fintech-industry"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 39
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/How_AI_Can_Enhance_the_Fintech_Industry.png"
-        width: 1888
-        height: 1080
-        isCached: true
   - title: "UNO Digital Bank partners with fintech Trusting Social"
     excerpt: "UNO DIGITAL BANK has partnered with technology firm Trusting Social to offer more Filipino consumers greater access to loans with the help of data science tools. “Our partnership with Trusting Social will allow us to offer our services to unbanked Filipinos who otherwise won’t have access to formal lending services,"
     publishedDateTime: 2022-12-19T15:01:00Z
@@ -50,6 +36,20 @@ related:
       name: BusinessWorld
       domain: bworldonline.com
     quality: 39
+  - title: "Patrick Sells' new gig: helping banks innovate and find fintech partners"
+    excerpt: "The former chief innovation officer at Quontic Bank and American Banker's 2020 Digital Banker of the Year is offering seminars, a bank-fintech matchmaking platform and fintech investment fund."
+    publishedDateTime: 2022-12-16T18:02:00Z
+    webUrl: "https://www.americanbanker.com/news/patrick-sells-new-gig-helping-banks-innovate-and-find-fintech-partners"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 38
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/042c2d9/2147483647/strip/true/crop/1400x735+0+34/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F1e%2F50%2Fdf3ece014ce1af3aef905050ccff%2Fpatrick-sells.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Patrick Sells's new gig: Helping banks innovate and find fintech partners"
     excerpt: "The former chief innovation officer at Quontic Bank and American Banker's 2020 Digital Banker of the Year is offering seminars, a bank-fintech matchmaking platform and a fintech investment fund."
     publishedDateTime: 2022-12-16T18:02:00Z
@@ -78,20 +78,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "The case for optimism: encouraging fintech trends in 2023"
-    excerpt: "Fintech vendors leveraging data and cloud automation rapidly become the new security standard-bearers in various verticals. There is a fundamental and radical improvement in the tools available to assess risk and fraud."
-    publishedDateTime: 2022-12-19T10:08:00Z
-    webUrl: "https://www.finextra.com/blogposting/23430/the-case-for-optimism-encouraging-fintech-trends-in-2023"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/visible_pictures/741715aa-3c6c-47b7-8c75-a21f366cb9b5.jpg"
-        width: 500
-        height: 333
-        isCached: true
   - title: "Top Fintech Events Taking Place in Asia in Q1 2023"
     excerpt: "With 2023 just around the corner, we’ve curated a list of the most highly anticipated fintech events and conferences taking place in the region in first quarter of the year that will help industry professionals and stakeholders keep up with this fast-evolving landscape."
     publishedDateTime: 2022-12-19T02:47:00Z
@@ -119,20 +105,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
         width: 600
         height: 315
-        isCached: true
-  - title: "World Fintech Show features dynamic collaborations set to influence the direction of FinTech in Saudi Arabia"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2022-12-20T06:15:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/world-fintech-show-features-dynamic-collaborations-set-to-influence-the-direction-of-fintech-in-saudi-arabia/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 5
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/12/Event-123.jpg"
-        width: 300
-        height: 300
         isCached: true
 
 secured: "692IuJhXSbw6AboCPLPlizN0cmkaY2o2R/3ZjKRaxIKA5xl7ho5qFNouIjx6aTmUXNL41fqkSb7mz0nuPLPzXadXV+jI9OTyI1vj86Bu+EIghKv0mASjdahhDJllR1Q2i+LSpDo1Z+8LkufEGbhvpCPQHBi1a5iCpreEnNjfm5ErlBkV8YLSP8EaIS/EkRgSX+W4S4osTeD0w9y/V/KCgBN3PWBEHiIloirP6ZD9bWnZUMKc3pAzLHwX54n23NUniaXORW+WLwxoKNYcnjxTGl1DnIEF+D1oeDD2xnzHnZJDOVD3N7papMfQFxAAwQfprcbttfzS4oDTBZNos/fCxnugrN5b7d2o93CutYOiGZM=;nBUBhGqoheQUJ/+9UYdIyw=="

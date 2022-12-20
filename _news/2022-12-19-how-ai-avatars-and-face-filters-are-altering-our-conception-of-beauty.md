@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/annahaines/2022/12/19/how-ai-avatars-an
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/annahaines/2022/12/19/how-ai-avatars-and-face-filters-are-affecting-our-conception-of-beauty/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 90
 published: true
 
 provider:

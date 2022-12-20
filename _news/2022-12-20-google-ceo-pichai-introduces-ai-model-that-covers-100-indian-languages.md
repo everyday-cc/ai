@@ -9,8 +9,8 @@ ampWebUrl: "https://www.devdiscourse.com/article/international/2292610-google-ce
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/international/2292610-google-ceo-pichai-introduces-ai-model-that-covers-100-indian-languages?amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: devdiscourse
@@ -41,6 +41,22 @@ related:
       - url: "https://th-i.thgim.com/public/incoming/fqok6w/article66282504.ece/alternates/FREE_1200/India_Google_56217.jpg"
         width: 1200
         height: 790
+        isCached: true
+  - title: "Google building AI model to support over 100 Indian languages: Sundar Pichai"
+    excerpt: "Pichai said that the pace of technological change in the country has been extraordinary and Google is supporting small businesses and start-ups, investing in cybersecurity, providing education and ski"
+    publishedDateTime: 2022-12-20T10:01:00Z
+    webUrl: "https://bestmediainfo.com/2022/12/google-building-ai-model-to-support-over-100-indian-languages-sundar-pichai"
+    ampWebUrl: "https://bestmediainfo.com/amp/2022/12/google-building-ai-model-to-support-over-100-indian-languages-sundar-pichai"
+    cdnAmpWebUrl: "https://bestmediainfo-com.cdn.ampproject.org/c/s/bestmediainfo.com/amp/2022/12/google-building-ai-model-to-support-over-100-indian-languages-sundar-pichai"
+    type: article
+    provider:
+      name: Best Media
+      domain: bestmediainfo.com
+    quality: 56
+    images:
+      - url: "https://bestmediainfo.com/uploads/2022/12/1671529698.Sundar-Pichai.jpg"
+        width: 620
+        height: 350
         isCached: true
 
 secured: "v0HDt/kDPxveMPPsKhcLb8Id9UXGUoUDSbYvKH9CjgJ9N5nUwJJmX3gxOdsMmqtxCzqxxXhWD6uh5ez3vxPmgqfza+iGvkTIukhELTK9sAx05Ca3uiD6hOBNZQZh309DMXN40YLHol5WRcMILtTEFstBDtQc/jxvmrNBGg2xx3T8Og5MWBl7KpxfRiTo1vHT7m5D9aO2KerEXS0kgrlUdcXGBMdQxEpdh6GybXyFopGaeDdPy2qOmgu3rOmkAzGMQPtpfYMD8uMuab86ZY3MreTeA4Kue40hS44RGpc2cor4R4tDiCA/h8ola/V1pRI9GQ26VLcPziTpVjvhDNcBjPqh2VnhdSfsvY7i/Lb2qcc=;Tv7oXIrUHc8k4NHua1JofA=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/2022/12/19/ai-is-coming-for-white-collar-
 webUrl: "https://www.datanami.com/2022/12/19/ai-is-coming-for-white-collar-jobs-too/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Artificial intelligence is getting better at white collar jobs"
-    excerpt: "We look at a tool that can write convincing advertising copy, produce thorough legal analysis, and offer a simple written explanation of gravity to a child."
-    publishedDateTime: 2022-12-15T17:34:00Z
-    webUrl: "https://www.wbur.org/radioboston/2022/12/15/artificial-intelligence-tech-talk"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 39
-    images:
-      - url: "https://media.wbur.org/wp/2016/06/Radio-Boston-Artwork-Tile-3000px_wbur-1.jpg"
-        width: 3000
-        height: 3000
-        isCached: true
 
 secured: "OkH7m55K8M2o7fGADAl4M45X3aqom7UkZjQMfudZmeiAzlWsec54sCiZvWYNa73yY0pPKsk3Fgjz1UXJbDAirD3TYJtnc/S1rCFq+sjeTRo8+t7qRYTk13811iWXkVnUzYnUN8loyjU6pA4AuUgBj+pitBjeVjcAPxqDBDtir3P6PokCfNoZiqTTSaAkk1hEiySMLJ0aCF1nE3ls3gtCOsDP2uyhMCzVKE0eWaviZIlHb3zym4gJu/YClQDrlOt9fvhPgIYdkO32uDdt+fce9LBwOH4JyJfQw4xYsKeuZSZHPoPSbJcQPr7F+zuDU50wyhimZhGg5RhHD4098QLXEfCrxlpg1GaELv07ysMqj8++zBX8SuTOCLFtbyxtolE4tb7r/RJiDNgf3h3SVU5vAGqzRVkaCqN2reIeuzMYn8Uc4pTA/gJeGXg+6J5MoODxPmwANFXp9P1n7HXHib/YEeTGAEXPLZw+FiSnL/gwA/r/Gar1eo+8iundEAWJ6hAjo/bGj1MhSsJD8H4BLnSXvw==;NkCh2x71eK1jJBMG9VSwZA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-analysis-research-report-challenges-scopes-market-share-revenue-and-forecasts-2023-to-2028-2022-12-17"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -29,29 +29,48 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Fintech Market Research Report: Key Trends and Opportunities by State and Territory for period 2022 to 2028."
-    excerpt: "Given that the \" AI in Fintech Market \" is one of the industries growing at the quickest rate, it is essential for market participants to do a thorough study of the industry beforehand. The industry analysis and market research report for the AI in Fintech sector look at the global market from 2022 to 2028."
-    publishedDateTime: 2022-12-17T16:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-research-report-key-trends-and-opportunities-by-state-and-territory-for-period-2022-to-2028-2022-12-17"
+  - title: "Automotive Artificial Intelligence(AI) Market Research, Development Status, Top Companies, Trends and Growth Analysis 2023 To 2027"
+    excerpt: "The “Automotive Artificial Intelligence(AI) Market” 2023 Research report will make detailed analysis mainly on"
+    publishedDateTime: 2022-12-20T06:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligenceai-market-research-development-status-top-companies-trends-and-growth-analysis-2023-to-2027-2022-12-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Swarm Intelligence Market 2023 : Industry Scenario, Strategies, Growth Factors and Forecast to 2028"
-    excerpt: "By Types (Ant Colony Optimization,Particle Swarm Optimization,Other), By Segmentation analysis, Regions and Forecast to 2028. The Global Swarm Intelligence market Report provides In-depth analysis on the market status of the Swarm Intelligence Top manufacturers with best facts and figures,"
-    publishedDateTime: 2022-12-19T08:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/swarm-intelligence-market-2023-industry-scenario-strategies-growth-factors-and-forecast-to-2028-2022-12-19"
+  - title: "Natural Language Processing for Finance Market Research on Present State and Future Growth Prospects of Key Players, Forecast by 2023 To 2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Natural"
+    publishedDateTime: 2022-12-18T02:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-finance-market-research-on-present-state-and-future-growth-prospects-of-key-players-forecast-by-2023-to-2028-2022-12-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 20
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Systems Market Growth and Global Share 2023 | Developing Regions, Emerging Trends and Industry Size Forecast to 2029"
+    excerpt: "Dec (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Face Recognition Systems"
+    publishedDateTime: 2022-12-19T06:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-growth-and-global-share-2023-developing-regions-emerging-trends-and-industry-size-forecast-to-2029-2022-12-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "6dTChUU+UrcpIqFfSZsrOFxk9qkXvUIp/0LEcsimk9iaFZBYrzzyVdI2UcvGUSktR6ELKizVcqLzJHigVhnRCtLF/s1eXfepP+hAAVxPqjaT/9GmXDGK+Qy0oMFJBoHm5/owkE4qB+xOYLcIb0dmKKDxhuUwE6whpECpZNfHzUJukfOQw6m1W99IrMgaUOlwHLBf6tNhxuGh91olluoDBiDiKNtWOPiMSiId7Io6c1/OWqJ42aMsuEak/MjP8S6lQPFnFedf3xLAssw3Xuju2jXUvK1JGznMbBADnQyHXgnMmhGlxfZ6+awS0WbaWBHFavUSV+HRc0Z9BcgYaXHL9EWN/+e2tGEZ2d95o0qKi0M=;PkwkTDJMphdUPO5sK9SWuw=="
 ---

@@ -28,6 +28,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Artificial Neural Networks Market Dynamics with Top Players, Gross Margin, Regional Demand, Plans and Demand Status Forecast to 2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Artificial"
+    publishedDateTime: 2022-12-19T02:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-networks-market-dynamics-with-top-players-gross-margin-regional-demand-plans-and-demand-status-forecast-to-2028-2022-12-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "bVKGjUbpXtPhTvDm9mDmKMeinX4sR6vqdQi/QT/cHQ4zAreC4oveyTNqXOg1/eDAIM2qKclLnUmlsetf5t5afp+t0AEooLEcQL1fv3Rnbb7lF4kn8M7E9Fgf93xktG3oOwB/JCW9da7BP0gcGPUojDhprVOutY+E7wt1SWUI8L1hI45dUVX+PwTVzsdtif5rROKA+K66SdLTG09Q6TYduzLmL6TbJ8BcihGc39am9YPtnfXRh8/GAlr6YTX8Z1tukOQgR+Obr6MaxPT+ZFCOBMuKOOgWj2MNJxVVeSagScWdfAoPSBwX0KirM9l4+gYg18kY81lcofeY4qYGQUFPsx1cZNnDBBqsRp1z2WwBdK8=;piaOiOggPQ58MWnHaEvYyg=="
 ---
 
