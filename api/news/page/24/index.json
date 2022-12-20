@@ -2,6 +2,135 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2022-11-30-san-francisco-will-allow-police-to-deploy-robots-that-kill.md",
+      "title": "San Francisco will allow police to deploy robots that kill",
+      "excerpt": "SAN FRANCISCO (AP) — Supervisors in San Francisco voted Tuesday to give city police the ability to use potentially lethal, remote-controlled robots in emergency situations — following an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/san-francisco-may-allow-police-050402915.html",
+      "originalUrl": "https://www.aol.com/news/san-francisco-may-allow-police-050402915.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/hMcf.JafE1AZPEPJEXEeCQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjU-/https://media.zenfs.com/en/ap.org/8ed9b8fceb5db338009402ea5cd1aaf0",
+          "width": 1200,
+          "height": 825,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T13:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-aws-announces-three-amazon-ec2-instances-powered-by-new-aws-designed-chips.md",
+      "title": "AWS Announces Three Amazon EC2 Instances Powered by New AWS-Designed Chips",
+      "excerpt": "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by three new AWS-designed chips that offer customers even greater compute performance at a lower cost for a broad range of workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/11/29/9721297.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/11/29/9721297.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T12:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-ai-healthcare-apps-for-companies-that-put-healthfirst.md",
+      "title": "AI HealthCare Apps for Companies That Put HealthFirst",
+      "excerpt": "This blog profiles leading AI Healthcare Apps for companies that are putting health first. With staggering increases in depression and anxiety across the globe, all board directors and CEOs should have mental health as one of their top business priorities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/11/29/ai-healthcare-apps-for-companies-that-put-healthfirst/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/11/29/ai-healthcare-apps-for-companies-that-put-healthfirst/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/638658b2e739943876a067da/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 971,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/11/29/ai-healthcare-apps-for-companies-that-put-healthfirst/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/11/29/ai-healthcare-apps-for-companies-that-put-healthfirst/amp/",
+      "publishedDateTime": "2022-11-29T11:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-can-ai-drive-more-diversity-in-drug-development.md",
       "title": "Can AI Drive More Diversity in Drug Development?",
       "excerpt": "“AI can help with diagnosis and risk prediction, which can mean earlier interventions,\" says Moeller, who's also vice chair of the Alliance for Artificial Intelligence in Healthcare board.",
@@ -978,153 +1107,6 @@
         "IBM AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-six-ai-trends-poised-to-reshape-the-business-landscape.md",
-      "title": "Six AI Trends Poised To Reshape The Business Landscape",
-      "excerpt": "Successfully leveraging even one of these trends can help your organization optimize its competitive advantage while also elevating its growth trajectory.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/29/six-ai-trends-poised-to-reshape-the-business-landscape/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/29/six-ai-trends-poised-to-reshape-the-business-landscape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/637390ed1b7646a9e461196b/0x0.jpg?format=jpg&crop=5700,3206,x0,y294,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/29/six-ai-trends-poised-to-reshape-the-business-landscape/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/29/six-ai-trends-poised-to-reshape-the-business-landscape/amp/",
-      "publishedDateTime": "2022-11-29T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-nvidia-rolls-out-ai-platform-across-nhs-hospitals.md",
-      "title": "Nvidia rolls out AI platform across NHS hospitals",
-      "excerpt": "The platform ensures that patient data never leaves the hospital trust when an AI algorithm analyses medical records",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/369604/nvidia-rolls-out-ai-platform-across-nhs-hospitals",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/369604/nvidia-rolls-out-ai-platform-across-nhs-hospitals",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1669716264/itpro/2022/November/Nvidia_NHS_healthcare_AI_press.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T02:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-indian-techies-write-code-for-driverless-cars.md",
-      "title": "Indian Techies Write Code For Driverless Cars!",
-      "excerpt": "Engineers based in India are estimated to be writing roughly 35 per cent of the 100 million lines of codes required to develop one fully driverless car for global vehicle makers. *IMAGE ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.rediff.com/business/special/indian-techies-write-code-for-driverless-cars/20221129.htm",
-      "originalUrl": "https://www.rediff.com/business/special/indian-techies-write-code-for-driverless-cars/20221129.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://im.rediff.com/345-230/money/2019/jun/24dev-bot-2-2.jpg",
-          "width": 345,
-          "height": 230,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.rediff.com/amp/business/special/indian-techies-write-code-for-driverless-cars/20221129.htm",
-      "cdnAmpWebUrl": "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/special/indian-techies-write-code-for-driverless-cars/20221129.htm",
-      "publishedDateTime": "2022-11-29T02:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "rediff.com",
-        "domain": "rediff.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

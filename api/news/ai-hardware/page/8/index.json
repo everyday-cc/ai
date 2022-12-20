@@ -2,6 +2,111 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-09-21-nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners.md",
+      "title": "Nvidia debuts new high-end RTX 4090 GPU after previous generation gobbled up by crypto miners",
+      "excerpt": "which should allow the new GPUs to perform both AI-powered graphics operations and pure neural network stuff (like running Stable Diffusion) faster and better. The GPU has graduated from being a tool for keeping your games running at high framerates to a ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners/",
+      "originalUrl": "https://techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/nvidia-ceo-jensen-huang-with-geforce-rtx-4090.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners/amp/",
+      "publishedDateTime": "2022-09-20T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-nvidia-and-booz-allen-develop-morpheus-platform-to-supercharge-security-ai.md",
+      "title": "Nvidia and Booz Allen develop Morpheus platform to supercharge security AI",
+      "excerpt": "Nvidia and Booz Allen announce the launch of Morpheus, a security AI solution designed to offer greater data processing capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/nvidia-and-booz-allen-develop-morpheus-platform-to-supercharge-security-ai/",
+      "originalUrl": "https://venturebeat.com/security/nvidia-and-booz-allen-develop-morpheus-platform-to-supercharge-security-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1334595508-popba.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/nvidia-and-booz-allen-develop-morpheus-platform-to-supercharge-security-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/nvidia-and-booz-allen-develop-morpheus-platform-to-supercharge-security-ai/amp/",
+      "publishedDateTime": "2022-09-20T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-runai-certified-to-run-nvidia-ai-enterprise-software-suite.md",
       "title": "Run:ai Certified to Run NVIDIA AI Enterprise Software Suite",
       "excerpt": "Run:ai, the leader in compute orchestration for AI workloads, today announced that its Atlas Platform is certified to run NVIDIA AI Enterprise, an end-to-end, cloud-native",
@@ -1386,111 +1491,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-leadership-in-times-of-ai-driven-automation.md",
-      "title": "Leadership In Times Of AI-Driven Automation",
-      "excerpt": "Sayantan Dasgupta is a Sr. Director of Demand Generation at Gramener | Ex VC Partner | 2x VP Marketing | 15+ years of leadership experience. The global AI market in 2021 reached a staggering value of $327.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/09/12/leadership-in-times-of-ai-driven-automation/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/09/12/leadership-in-times-of-ai-driven-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/611197e7a1fc8d3b4e5a536a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 652,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/09/12/leadership-in-times-of-ai-driven-automation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/09/12/leadership-in-times-of-ai-driven-automation/amp/",
-      "publishedDateTime": "2022-09-12T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-insights-into-gpu-for-deep-learnings-growth-through-2028.md",
-      "title": "Insights into GPU for Deep Learning’s growth through 2028",
-      "excerpt": "GPU for Deep Learning Market From 2022 to 2028 According to the GPU for Deep Learning Market research report, the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/insights-into-gpu-for-deep-learnings-growth-through-2028-2022-09-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/insights-into-gpu-for-deep-learnings-growth-through-2028-2022-09-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T03:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

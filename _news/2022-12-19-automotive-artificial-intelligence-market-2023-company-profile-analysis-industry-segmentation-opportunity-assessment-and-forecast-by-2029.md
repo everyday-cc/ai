@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Consulting Market 2023 : Production Capacity, Restring Drivers, Size and Landscape Outlook 2028"
-    excerpt: "Consulting Market \" Insights 2022 - By Applications (Technology Consulting,Management Consultin), By Types (, Strategy Development, Strategy Execution, Commercial Due Diligence, Customer Training), By Segmentation analysis,"
-    publishedDateTime: 2022-12-16T01:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-consulting-market-2023-production-capacity-restring-drivers-size-and-landscape-outlook-2028-2022-12-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice Recognition Software Market 2023 : Share and Outlook of Regulatory Scenario by 2029 with Top Countries Data"
     excerpt: "A latest extensive market study titled Global “Voice Recognition Software Market\" Outlook from 2023 to 2029 enfolds"
     publishedDateTime: 2022-12-19T13:17:00Z

@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/robtoews/2022/12/20/10-ai-predictions-for-
 ampWebUrl: "https://www.forbes.com/sites/robtoews/2022/12/20/10-ai-predictions-for-2023/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/12/20/10-ai-predictions-for-2023/amp/"
 type: article
-quality: 89
-heat: 109
+quality: 91
+heat: 111
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/63a14945d0e96ccdb4b9f51f/0x0.jpg?format=jpg&crop=1744,981,x0,y53,safe&width=1200"
@@ -62,6 +63,6 @@ related:
         height: 737
         isCached: true
 
-secured: "0kE1Ok6j0I09IdYgmS4ZfkZkh9OMykrtGELH5ytB/2a+fOybTwx77SSlP1kcQkvdGEH2u3botUMfVeP1MNkwzubgm4SY8vUPQqLomd6R5pabltbMqzKFFvQ5WhPVLakWLhUll0BRHkKlaEhhr/T5c9+wSM/NbNBVkJf6FqdXIYPF1f6lRA4u6u+vmH+nnHCpKkduRgL8BMiZKXmDXvPDrsW/5tygM4MbJikLuJ+D2AsQHjNZaSqOh2C411rLifwfOrcsLE5W2AZz23QHl4hRi0XstjO/lAlTLeP+Kmktm+Wtde7iPYObSOT3q94gQMQoC3nTt5jIh6kLOih5pvrJUmxFUCaejgEeIY8mW2WhREw=;wYhiU4ZI3x+8+HzmMUp8NQ=="
+secured: "xN2gTrMrnNjJ3b2XhfolDUkesjOzw5vCWUsdAA4rJUrJL+mQOp7k6k5gF2a51WUjDyJzTo3YFo1988YFUjvV8i7C33DqUpxTGVxN+60hMBoUu5KfaKpPiPIstYqefiEDXyISnF7Ez9XBfS9yz8HEbD1agH/71F3x0w/HancE4Hlj0uUWNvpaPDWSHgAPZYEIoCQ0kWfIZd/EJlI5GbTSclyDniMSATtVtNh7KpnrYQWX7cajdZ4dGJeB3Vh6yd3Jz6rC0f0DxQPdYqiaiCD1z6K9N7nh3xuoLOH4v/1vCl61++clv9LJ8yc6kyy1YD3RBA6R5eOh9bY/0uU1fWjLQQ4vYk490g3fGCKUrCWBz0irk0+Atr/KRcABlCzO4E0+BXJelBbQHOpKfdWOR5vjHRI985++9e12wfMNZyoRPGhQl6YOeOp+gyY989CaB9yUyI5yY+5vF7WKMqo1RfPvpNsk6XaAVb0H2IPn9FnfTc40UHd7BU4J+dX6gHEXBiBLlY3D8gxpLAtWx/lrTIqcTw==;5z0JzoiJDpwpPDqxQ8A/KA=="
 ---
 

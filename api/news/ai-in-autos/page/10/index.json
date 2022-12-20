@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-10-20-waymo-one-brings-self-driving-ride-service-to-los-angeles.md",
+      "title": "Waymo One Brings Self-Driving Ride Service to Los Angeles",
+      "excerpt": "Waymo One is a commercial ride-hailing service like no other. Its driverless vehicles have been shuffling passengers around the Phoenix and San Francisco areas, and soon it'll expand to one of the largest metropolitan areas in the US.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/waymo-one-self-driving-ride-hailing-los-angeles/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/waymo-one-self-driving-ride-hailing-los-angeles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/3017a8e81aefb1d88583a0952d389f56c3f3beec/hub/2022/10/20/5dd1c780-0c5e-4b64-aa75-a7db9f282339/waymo-one-ogi.jpg?auto=webp",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/waymo-one-self-driving-ride-hailing-los-angeles/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-one-self-driving-ride-hailing-los-angeles/",
+      "publishedDateTime": "2022-10-20T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-20-waymo-says-it-plans-to-launch-its-self-driving-service-in-los-angeles.md",
       "title": "Waymo says it plans to launch its self-driving service in Los Angeles",
       "excerpt": "Waymo says it plans to launch its ride-hailing service Waymo One in Los Angeles The company would not specify a timeline for when it expects the service to become available to riders. The company ...",
@@ -1352,51 +1404,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-ai-the-ai-times-gatik-and-loblaw-give-canadians-driverless-deliveries.md",
-      "title": "A|I: The AI Times – Gatik and Loblaw give Canadians driverless deliveries",
-      "excerpt": "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://betakit.com/ai-the-ai-times-gatik-and-loblaw-give-canadians-driverless-deliveries/",
-      "originalUrl": "https://betakit.com/ai-the-ai-times-gatik-and-loblaw-give-canadians-driverless-deliveries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.betakit.com/wp-content/uploads/2022/10/Loblaws-truck.jpeg",
-          "width": 770,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-13T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BetaKit",
-        "domain": "betakit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
       ]
     }
   ],

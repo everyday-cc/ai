@@ -2,58 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2022-10-25-microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022.md",
-      "title": "Microsoft Focuses On Productivity And Workflows With AI Automation And Collaborative Tools At Ignite 2022",
-      "excerpt": "Microsoft held its annual developer event, Microsoft Ignite, where it announced many new features, services, and tools for its ecosystem of developers and IT professionals. Today, Patrick wants to cover the announcements that stuck out to me the most.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6357f7cc516bd094593671f1/0x0.jpg?format=jpg&width=1200",
-          "width": 892,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022/amp/",
-      "publishedDateTime": "2022-10-25T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-25-video-games-may-bring-cognitive-benefits-to-kids-study.md",
       "title": "Video games may bring cognitive benefits to kids: study",
       "excerpt": "School-age kids who spend hours a day playing video games may outperform their peers on certain tests of mental agility, a new study suggests. Researchers found that compared with children who ...",
@@ -1338,6 +1286,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-new-research-paves-way-for-innovative-theory-of-cognitive-processing.md",
+      "title": "New research paves way for innovative theory of cognitive processing",
+      "excerpt": "\"We currently do not understand how neurons and glia work together, or how glial dysfunction contributes to cognitive deficits.\" Glial cells are abundant throughout the brain and play several ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-10-paves-theory-cognitive.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-10-paves-theory-cognitive.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/cognitive.jpg",
+          "width": 1920,
+          "height": 1357,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-10-paves-theory-cognitive.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-paves-theory-cognitive.amp",
+      "publishedDateTime": "2022-10-19T11:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

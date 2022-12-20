@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence as a Service Market is expected to witness impressive growth between 2023 and 2028 | Including 126 Pages Report"
-    excerpt: "Market Updates (360marketupdates.com) published a new research report on Artificial Intelligence as a Service Market 2023 with 126 Pages Report enhance with self-explained tables, pie chart and graph in smart format."
-    publishedDateTime: 2022-12-16T02:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-is-expected-to-witness-impressive-growth-between-2023-and-2028-including-126-pages-report-2022-12-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Chatbots Market 2023 : Business Scenario, Corporate Profiles, Size and Dynamic Innovation by 2028"
     excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Chatbots"
     publishedDateTime: 2022-12-18T11:53:00Z

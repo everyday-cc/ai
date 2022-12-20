@@ -1,28 +1,30 @@
 ---
 category: news
-title: "S10.AI Inc Introduces the World's First Robot Virtual Medical Scribe"
-excerpt: "The World's First Robot Virtual Medical Scribe was created by S10.AI Inc, a startup company. This is a self-contained AI-enabled medical scribe with superior CDI scribing skills that help to ..."
-publishedDateTime: 2022-12-06T20:37:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/12/ab29982507/s10-ai-inc-introduces-the-worlds-first-robot-virtual-medical-scribe"
-webUrl: "https://www.benzinga.com/pressreleases/22/12/ab29982507/s10-ai-inc-introduces-the-worlds-first-robot-virtual-medical-scribe"
-ampWebUrl: "https://www.benzinga.com/amp/content/29982507"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29982507"
+title: "S10.AI Inc Introduces the World’s First Robot Virtual Medical Scribe"
+excerpt: "S10.AI Inc. is a startup that has been in operation since 2022. They are excited to announce their newest development, S10.AI, the World's First Robot Virtual Medical Scribe. The S10.AI robot ..."
+publishedDateTime: 2022-12-06T21:20:00Z
+originalUrl: "https://www.marketwatch.com/press-release/s10ai-inc-introduces-the-worlds-first-robot-virtual-medical-scribe-2022-12-06"
+webUrl: "https://www.marketwatch.com/press-release/s10ai-inc-introduces-the-worlds-first-robot-virtual-medical-scribe-2022-12-06"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
-    width: 800
-    height: 313
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "DAK48ST7nkOvacveAlxLL/tVbZuATxidHc22sR3856F6B2PPfXcbldgRsKfvAqVcNeUKbS0R1WQkJOci+F2UpCrypqv6TKWRZustofxj3b8zL1Bqmb1n9QnHTYmY+5b53AOdcg7YEB8MYysXif7UIBHxh4Q3/A9HliBwwdqEja9L/n/vb/fxu+bo1vYvFjSEDI+jrNzIPsM18+emR2qxLOB46zdpjl+YFW43EKEEf0e4nTs0GR0Fa+cGr2Nz6o6v5zoKmIkmwmfg5M87j9z8y+16nTvINnp6reaiVfWeCf1Zy8q+JmQ/Plw0PC/VUaFF455NnHkSKBqjs4vNOlc3KALbWrLpYON0850jHscz6Ao=;BWa64B92Eur1sYeYkz6mnQ=="
+secured: "2T8X1WVwyOHxXWl9MOWaJbD4vSLK2I3VSJcLLjmwC92SsnTqG4Ms05WygDCMnv55bVH9ZOIUw4wvWbbiTLu8q//dOy97lHT5PhjYJpV3PqeQxRnImEZglofgDSo88ZEe4IchGyZR0aaTv93XmqbLfPiEtdKxss2WYUUUMpj5r56SfU77vpufU7eft6ESZsUoeKyyZceWKKoOYg8pesxCRN+4ZPsJVgHYx4lWX+brQlWXI03YiS5cAu94EmV/dW5wf0xgQTj8cG8HJzZzciCKzQQWGfwS1EldvWSwG1QH+f0pZLP/qmK0ranVnck2SVJLi4E0JWA44qwd/klKCPa7IwW2D14PIRiNNUc65vNxjbg=;pJJwYjH496RgEw5Y7MfCPA=="
 ---
 

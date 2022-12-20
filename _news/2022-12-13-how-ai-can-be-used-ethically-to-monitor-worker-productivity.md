@@ -3,8 +3,8 @@ category: news
 title: "How AI Can Be Used Ethically to Monitor Worker Productivity"
 excerpt: "Morgan Lewis’s Amy Schuh offers guidance for companies looking to employ AI to monitor their workforce. She shares important questions to ask beyond AI’s intended uses, and potential unintended consequences."
 publishedDateTime: 2022-12-13T09:00:00Z
-originalUrl: "https://news.bloomberglaw.com/business-and-practice/how-ai-can-be-used-ethically-to-monitor-worker-productivity"
-webUrl: "https://news.bloomberglaw.com/business-and-practice/how-ai-can-be-used-ethically-to-monitor-worker-productivity"
+originalUrl: "https://news.bloomberglaw.com/us-law-week/how-ai-can-be-used-ethically-to-monitor-worker-productivity"
+webUrl: "https://news.bloomberglaw.com/us-law-week/how-ai-can-be-used-ethically-to-monitor-worker-productivity"
 type: article
 
 provider:
@@ -15,6 +15,12 @@ topics:
   - AI Ethics
   - AI
 
-secured: "qBf/xmPsIokX5Yu+Ff+1T/sZVnIL0TuE/B1OSu22QN+qOTVa8q2MhtcXXjB5eGMRk1z1EPgTWoB8OgwA9taTwsQx4tOi5wsuRa6tYb9ynTdWLV51t7Er1UwAALY/Ai+k1+UcOX7dY2JHgEs7SwE94YpvnTGFw0Dxke/B+aFgtrLimbSkj9dTgrXUwWPiyzySCTfhQzzSqgyNqAluKfj6kuyHkA2ZGhpieRh6Uz4O7j6dErBO7PqEHWrATtI69atnpgc85zDt1iLs4qA4mNZZhg+Htp8PvD2ZD1WALKKH2iA5Ip2T9kuEcSnVUE16q2/4VLfE3LB41KvITV2XcZlvwimc4BNDIv3J15rdSi7p595w81D781Ya4VSHLELrmJYO+XAs0uJyzoI+qJA+QnVT2YhpOHJUT7qCb/PJdK4UrXm2huLoSpSUOKWqIgL+bmvlKZ3nOinUJ6G74NlXU281LbPBsMrjyfBOoxPhhXJCUbbt7QEdCaWwtMu5pm+MXIkmNN9POPc9r9BR/S1JJC2JVw==;pBYXm1mDVqUOG3eg6tp5ow=="
+images:
+  - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/e99279d/2147483647/crop/8140x3134%2B41%2B324/resize/957x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2Fc8%2Ff4%2Fcaf4259d40df8f2a0e40e370f321%2Fgettyimages-883730222.jpg"
+    width: 957
+    height: 368
+    isCached: true
+
+secured: "3VDTaEOCuPphAOHybBKp462cJAZ8I7hoE0OCkheVE6o1zzRhvwMkwfP20mVOKr3vm2x/3ze3EJV/52kKv1oZ0RNSwv87+AUr3IHdCrcK5wWAZQqu96fBeLyNhgF35zZKqMS8fglV+dRfLJED47PmwixuGrTxNaVa3RChxDEcczhDOq2SVELYGfexJJsvdXukayLNnP+Hwy5ExA0XWVYDUYwCTcdAfrzv3XXGrfe5VoMLPNCetjZ1FapJK0RKcoc5yQcxwm7V0ozoqA+/UMfc0XezhWp9RfJzoVi2N45wGXle8c2RhNyp40orKos82ffgOtA9R5gL6q4NOkIiKyf5YRKwRraOyiMNebJ4XobRN8g=;aSwOzvGm5yCJbdtP48Af0Q=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-09-27-how-artificial-intelligence-can-transform-finance-departments-seeking-agility.md",
+      "title": "How Artificial Intelligence Can Transform Finance Departments Seeking Agility",
+      "excerpt": "By Dan Drees, Chief Growth Officer of AvidXchange It’s no secret that agile companies, those that can quickly respond and pivot when necessary, fare better than those that falter when faced with uncertainty or change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/how-artificial-intelligence-can-transform-finance-departments-seeking-agility/",
+      "originalUrl": "https://www.globalbankingandfinance.com/how-artificial-intelligence-can-transform-finance-departments-seeking-agility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/09/193.jpg",
+          "width": 360,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalbankingandfinance.com/how-artificial-intelligence-can-transform-finance-departments-seeking-agility/",
+      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-artificial-intelligence-can-transform-finance-departments-seeking-agility/",
+      "publishedDateTime": "2022-09-26T14:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-09-26-machine-learning-in-banking-market-to-garner-2127-billion-globally-by-2031-at-322-cagr-allied-market-research.md",
       "title": "Machine Learning in Banking Market to Garner $21.27 Billion, Globally, By 2031 at 32.2% CAGR: Allied Market Research",
       "excerpt": "Allied Market Research recently published a report, titled, \"Machine Learning in Banking Market By Component (Solution and Service), Enterprise Size (Large Enterprises, Small and Medium-Sized Enterprises [SMEs]),",
@@ -1305,49 +1348,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-indika-ai-bets-on-synthetic-data-to-overcome-challenges-of-real-world-data.md",
-      "title": "Indika AI bets on synthetic data to overcome challenges of real-world data",
-      "excerpt": "It is also improving fraud detection in the fintech industry and training language systems. High-quality datasets are required to train artificial intelligence (AI) solutions, so that the ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2022/09/indika-ai-synthetic-data-platform-artificial-intelligence/amp",
-      "originalUrl": "https://yourstory.com/2022/09/indika-ai-synthetic-data-platform-artificial-intelligence/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/d99b1110116911ed9e63f54395117598/shutterstock1279483576-1662557345744.jpeg ",
-          "width": 5500,
-          "height": 4125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2022/09/indika-ai-synthetic-data-platform-artificial-intelligence/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/09/indika-ai-synthetic-data-platform-artificial-intelligence/amp",
-      "publishedDateTime": "2022-09-09T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YourStory",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,144 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2022-10-24-leveraging-ai-to-benefit-the-healthcare-ecosystem-for-providers-payers-and-members.md",
+      "title": "Leveraging AI to benefit the healthcare ecosystem for providers, payers and members",
+      "excerpt": "The research revealed that leveraging AI will strategically benefit the entire healthcare ecosystem for providers, payers, and members. “Our analysis suggests that artificial-intelligence-enabled prior authorizations can automate 50 to 75 percent of manual tasks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthcaredive.com/spons/leveraging-ai-to-benefit-the-healthcare-ecosystem-for-providers-payers-and/634407/",
+      "originalUrl": "https://www.healthcaredive.com/spons/leveraging-ai-to-benefit-the-healthcare-ecosystem-for-providers-payers-and/634407/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.healthcaredive.com/imgproxy/6COrMuxCASV8JiU8rhQdVp8JeVmk0HAMu-PSvt1Q6LA/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL3NodXR0ZXJzdG9ja18yMTMyOTk1OTg1XzEuanBn.jpg",
+          "width": 770,
+          "height": 364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-23T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healthcare Dive",
+        "domain": "healthcaredive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-aetina-launches-new-mxm-gpu-modules-for-ai-performance-boost-at-the-edge.md",
+      "title": "Aetina Launches New MXM GPU Modules for AI Performance Boost at the Edge",
+      "excerpt": "The new MXM GPU modules, with their compact designs, can be easily integrated into a variety of AI systems to boost the computing performance and run complex AI inference tasks. For these GPU ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/aetina-launches-new-mxm-gpu-modules-ai-performance-boost-edge",
+      "originalUrl": "https://www.asiaone.com/business/aetina-launches-new-mxm-gpu-modules-ai-performance-boost-edge",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2022/Aetina_Launches_New_MXM_GPU_Modules_Powered_NVIDIA_AI_Performance.jpg?h=5b470aab&itok=CwbJkcju",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-23T20:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-children-may-get-a-cognitive-boost-from-playing-video-games.md",
+      "title": "Children may get a cognitive boost from playing video games",
+      "excerpt": "A compelling new study published in JAMA Network Open suggests there may be some cognitive benefits associated with playing video games. The research looked at around 2,000 children and found ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/science/children-video-games-cognitive-performance/",
+      "originalUrl": "https://newatlas.com/science/children-video-games-cognitive-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/c0c5e38/2147483647/strip/true/crop/3796x1993+0+338/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F7e%2Fbe%2F4156a12a4c70bafd8aedd83e93d7%2Fdepositphotos-12112893-xl.jpg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-24-one-in-10-older-americans-has-dementia.md",
       "title": "One in 10 older Americans has dementia",
       "excerpt": "cognitive impairment is projected to increase significantly over the next few decades, affecting individuals, families, and programs that provide care and services for people with dementia,\" Manly ...",
@@ -995,143 +1133,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-22-how-to-use-midjourney-to-generate-ai-images.md",
-      "title": "How to use Midjourney to generate AI images",
-      "excerpt": "AI-generated images have never been more popular, and Midjourney is one of the best tools. Here's how to access the AI and what to know about using it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/how-to-use-midjourney-to-generate-ai-images/",
-      "originalUrl": "https://www.digitaltrends.com/computing/how-to-use-midjourney-to-generate-ai-images/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/10/Midjourney-River.jpg?p=1",
-          "width": 1664,
-          "height": 1109,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/how-to-use-midjourney-to-generate-ai-images/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-midjourney-to-generate-ai-images/?amp",
-      "publishedDateTime": "2022-10-21T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-22-fiscalnote-provides-a-mission-critical-solution-to-address-regulatory-compliance.md",
-      "title": "FiscalNote Provides A Mission-Critical Solution To Address Regulatory Compliance",
-      "excerpt": "FiscalNote Holdings rides on a strong secular tailwind that provides it with a long runway of growth. Read what investors need to know.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4548212-fiscalnote-provides-a-mission-critical-solution-to-address-regulatory-compliance",
-      "originalUrl": "https://seekingalpha.com/article/4548212-fiscalnote-provides-a-mission-critical-solution-to-address-regulatory-compliance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1370928101/image_1370928101.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-21T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-22-clinical-trials-using-new-cancer-imaging-and-treatment-technology-start-soon-in-ns.md",
-      "title": "Clinical trials using new cancer imaging and treatment technology start soon in N.S.",
-      "excerpt": "It uses artificial intelligence combined with radiation therapy to target tumours with more precision. He said he expects the therapy will result in shorter wait times and result in fewer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbc.ca/news/canada/nova-scotia/cancer-treatment-artificial-intelligence-halifax-varian-1.6619681",
-      "originalUrl": "https://www.cbc.ca/news/canada/nova-scotia/cancer-treatment-artificial-intelligence-halifax-varian-1.6619681",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.cbc.ca/1.6619689.1666046131!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ethos-cancer-treatment.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbc.ca/amp/1.6619681",
-      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6619681",
-      "publishedDateTime": "2022-10-21T12:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBC.ca",
-        "domain": "www.cbc.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

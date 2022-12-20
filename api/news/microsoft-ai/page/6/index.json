@@ -2,40 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2022-11-02-nuvance-health-launches-cognitive-care-at-home-program.md",
-      "title": "Nuvance Health launches cognitive care-at-home program",
-      "excerpt": "Danbury, Conn.-based Nuvance Health has started a remote patient monitoring program for patients with mild cognitive impairment that aims to improve their condition at home. The health system is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/innovation/nuvance-health-launches-cognitive-care-at-home-program.html",
-      "originalUrl": "https://www.beckershospitalreview.com/innovation/nuvance-health-launches-cognitive-care-at-home-program.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-01T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-01-sophia-genetics-partners-with-microsoft-to-accelerate-multimodal-health-data-analysis.md",
       "title": "SOPHiA GENETICS Partners with Microsoft to Accelerate Multimodal Health Data Analysis",
       "excerpt": "The agreement is to expand and reinforce data-driven medicine through the SOPHiA DDM™ health data analysis platform available with Microsoft",
@@ -1284,6 +1250,58 @@
         "news"
       ],
       "topics": [
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022.md",
+      "title": "Microsoft Focuses On Productivity And Workflows With AI Automation And Collaborative Tools At Ignite 2022",
+      "excerpt": "Microsoft held its annual developer event, Microsoft Ignite, where it announced many new features, services, and tools for its ecosystem of developers and IT professionals. Today, Patrick wants to cover the announcements that stuck out to me the most.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6357f7cc516bd094593671f1/0x0.jpg?format=jpg&width=1200",
+          "width": 892,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022/amp/",
+      "publishedDateTime": "2022-10-25T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
         "Microsoft AI"
       ]
     }

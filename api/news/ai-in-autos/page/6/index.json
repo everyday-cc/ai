@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-11-18-full-on-robot-writing-the-artificial-intelligence-challenge-facing-universities.md",
+      "title": "‘Full-on robot writing’: the artificial intelligence challenge facing universities",
+      "excerpt": "“Waiting in front of the lecture hall for my next class to start, and beside me two students ... computer theorist Ben Goertzel proposed what he called the “robot university student test”, arguing that an AI capable of obtaining a degree in a same ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/australia-news/2022/nov/19/full-on-robot-writing-the-artificial-intelligence-challenge-facing-universities",
+      "originalUrl": "https://www.theguardian.com/australia-news/2022/nov/19/full-on-robot-writing-the-artificial-intelligence-challenge-facing-universities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/1143a55bd5f548d54d15ed8041088b5a8bf2f82e/0_0_2500_1500/master/2500.jpg?width=620&quality=85&auto=format&fit=max&s=7707616aa038a0125e220cf9679ed8a0",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/australia-news/2022/nov/19/full-on-robot-writing-the-artificial-intelligence-challenge-facing-universities",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/nov/19/full-on-robot-writing-the-artificial-intelligence-challenge-facing-universities",
+      "publishedDateTime": "2022-11-18T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-5-jobs-that-could-be-taken-by-artificial-intelligence-in-the-next-10-years.md",
       "title": "5 Jobs That Could Be Taken By Artificial Intelligence In The Next 10 Years",
       "excerpt": "The thing is though, the uses of AI go much, much further than making pretty pictures. We’re seeing the use of artificial intelligence grow all the time, across all different sectors of the economy. This is likely to end up with many jobs as we know them ...",
@@ -1317,50 +1370,6 @@
       "topics": [
         "AI",
         "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-artificial-intelligence-the-latest-architecture-and-news.md",
-      "title": "Artificial Intelligence: The Latest Architecture and News",
-      "excerpt": "The promise of the metaverse, this new type of three-dimensional and immersive digital space, is proving to become more and more appealing to architects eager to explore the new realm of virtual ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.archdaily.com/tag/artificial-intelligence",
-      "originalUrl": "https://www.archdaily.com/tag/artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.adsttc.com/doodles/flat/logo-animation.gif",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-11T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ArchDaily",
-        "domain": "archdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
         "AI in Healthcare"
       ]
     }

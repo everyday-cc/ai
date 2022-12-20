@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-12-13-how-ai-can-be-used-ethically-to-monitor-worker-productivity.md",
+      "title": "How AI Can Be Used Ethically to Monitor Worker Productivity",
+      "excerpt": "Morgan Lewis’s Amy Schuh offers guidance for companies looking to employ AI to monitor their workforce. She shares important questions to ask beyond AI’s intended uses, and potential unintended consequences.",
+      "sourceUrl": null,
+      "webUrl": "https://news.bloomberglaw.com/us-law-week/how-ai-can-be-used-ethically-to-monitor-worker-productivity",
+      "originalUrl": "https://news.bloomberglaw.com/us-law-week/how-ai-can-be-used-ethically-to-monitor-worker-productivity",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://db0ip7zd23b50.cloudfront.net/dims4/default/e99279d/2147483647/crop/8140x3134%2B41%2B324/resize/957x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2Fc8%2Ff4%2Fcaf4259d40df8f2a0e40e370f321%2Fgettyimages-883730222.jpg",
+          "width": 957,
+          "height": 368,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news.bloomberglaw",
+        "domain": "bloomberglaw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-tesla-our-failure-to-make-actual-self-driving-cars-is-not-fraud.md",
+      "title": "Tesla: Our ‘failure’ to make actual self-driving cars ‘is not fraud’",
+      "excerpt": "Tesla CEO Elon Musk has said numerous times since 2015 that Tesla cars would be entirely self-driving in two years, or less. But years after his self-imposed deadlines have blown by, it still hasn ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/12/12/business/tesla-fsd-autopilot-lawsuit/index.html",
+      "originalUrl": "https://www.cnn.com/2022/12/12/business/tesla-fsd-autopilot-lawsuit/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221212163026-tesla-car-0630-file-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/12/12/business/tesla-fsd-autopilot-lawsuit/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/12/12/business/tesla-fsd-autopilot-lawsuit/index.html",
+      "publishedDateTime": "2022-12-12T22:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-13-microsoft-now-requires-verification-for-uk-financial-services-advertisers.md",
       "title": "Microsoft now requires verification for UK Financial Services advertisers",
       "excerpt": "Search Engine Land » PPC » Microsoft now requires verification for UK Financial Services advertisers Starting early this year, Microsoft will allow only advertisers duly authorized by the UK ...",
@@ -1057,101 +1152,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-vcs-say-superpowered-software-a-dearth-of-new-funds-and-rampant-ma-among-the-tech-trends-to-watch-in-2023.md",
-      "title": "VCs say superpowered software, a dearth of new funds, and rampant M&A among the tech trends to watch in 2023",
-      "excerpt": "The party round is over, unicorn valuations are coming back as a meaningful metric, and other predictions from venture capitalists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/tech-trends-venture-capital-startup-predictions-2023",
-      "originalUrl": "https://www.businessinsider.com/tech-trends-venture-capital-startup-predictions-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/638fbba28580f70019f7c350?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-symphonyai-expands-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace.md",
-      "title": "SymphonyAI expands Microsoft collaboration, makes Sensa financial crime prevention solution available in Microsoft Azure Marketplace",
-      "excerpt": "EnterpriseAI leader accelerating innovation to combat financial crime with transformative, next-generation AI-based solutionPALO ALTO, Calif.,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/symphonyai-expands-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace-1031964946",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/symphonyai-expands-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace-1031964946",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

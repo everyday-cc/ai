@@ -2,6 +2,111 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-12-09-why-robots-are-taking-over-the-world-and-thats-a-good-thing.md",
+      "title": "Why Robots Are Taking Over The World - And That's A Good Thing",
+      "excerpt": "Robots and automation are not \"taking jobs\" in this latest economic downturn but are instead doing the work that few people want to do — from weeding fields to cleaning floors to stacking boxes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2022/12/09/why-robots-are-taking-over-the-worldand-thats-a-good-thing/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2022/12/09/why-robots-are-taking-over-the-worldand-thats-a-good-thing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/638e2b41fa2aa3cd9557066e/0x0.jpg?format=jpg&width=1200",
+          "width": 640,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2022/12/09/why-robots-are-taking-over-the-worldand-thats-a-good-thing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/12/09/why-robots-are-taking-over-the-worldand-thats-a-good-thing/amp/",
+      "publishedDateTime": "2022-12-09T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-ai-sweeping-robot-market-2022-2028-leading-growth-drivers-emerging-audience-segments-industry-sales-profits-analysis.md",
+      "title": "AI Sweeping Robot Market 2022-2028 Leading Growth Drivers, Emerging Audience, Segments, Industry Sales, Profits & Analysis",
+      "excerpt": "AI Sweeping Robot Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2021, at unexpected",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-sweeping-robot-market-2022-2028-leading-growth-drivers-emerging-audience-segments-industry-sales-profits-analysis-2022-12-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-sweeping-robot-market-2022-2028-leading-growth-drivers-emerging-audience-segments-industry-sales-profits-analysis-2022-12-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T18:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-12-08-ai-startup-datarobot-sued-for-alleged-discrimination-and-retaliation.md",
       "title": "AI startup DataRobot sued for alleged discrimination and retaliation",
       "excerpt": "A former employee of Boston AI startup DataRobot is suing the company, saying she was fired after complaining about alleged financial mismanagement and resisting committing potential accounting fraud.",
@@ -339,6 +444,58 @@
       ]
     },
     {
+      "path": "_news/2022-12-07-s10ai-inc-introduces-the-worlds-first-robot-virtual-medical-scribe.md",
+      "title": "S10.AI Inc Introduces the World’s First Robot Virtual Medical Scribe",
+      "excerpt": "S10.AI Inc. is a startup that has been in operation since 2022. They are excited to announce their newest development, S10.AI, the World's First Robot Virtual Medical Scribe. The S10.AI robot ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/s10ai-inc-introduces-the-worlds-first-robot-virtual-medical-scribe-2022-12-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/s10ai-inc-introduces-the-worlds-first-robot-virtual-medical-scribe-2022-12-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T13:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-07-see-how-mcdonalds-subway-chipotle-and-other-chains-are-using-robots-and-ai-to-make-faster-orders-with-fewer-workers.md",
       "title": "See how McDonald's, Subway, Chipotle and other chains are using robots and AI to make faster orders with fewer workers",
       "excerpt": "In the fall, fast-casual chain Panera Bread began testing AI-powered drive-thru tech at two upstate New York restaurants. An automated bot named \"Tori\" created by the startup OpenCity takes orders ...",
@@ -378,49 +535,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-s10ai-inc-introduces-the-worlds-first-robot-virtual-medical-scribe.md",
-      "title": "S10.AI Inc Introduces the World's First Robot Virtual Medical Scribe",
-      "excerpt": "The World's First Robot Virtual Medical Scribe was created by S10.AI Inc, a startup company. This is a self-contained AI-enabled medical scribe with superior CDI scribing skills that help to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/12/ab29982507/s10-ai-inc-introduces-the-worlds-first-robot-virtual-medical-scribe",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/ab29982507/s10-ai-inc-introduces-the-worlds-first-robot-virtual-medical-scribe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
-          "width": 800,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29982507",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29982507",
-      "publishedDateTime": "2022-12-06T12:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1297,92 +1411,6 @@
         "AI in Healthcare",
         "AI in Autos",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-artificial-intelligence-and-robotics-to-help-early-detect-urinary-tract-infections.md",
-      "title": "Artificial intelligence and robotics to help early detect urinary tract infections",
-      "excerpt": "A team of researchers at the University of Edinburgh and Heriot-Watt University are developing AI and robots to detect urinary tract infections (UTIs) earlier.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hw.ac.uk/news/articles/2022/artificial-intelligence-and-robotics-to-help.htm",
-      "originalUrl": "https://www.hw.ac.uk/news/articles/2022/artificial-intelligence-and-robotics-to-help.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hw.ac.uk/img/Pepper.png",
-          "width": 705,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T09:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Heriot-Watt University",
-        "domain": "hw.ac.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-san-francisco-approves-killer-police-robots-time-to-arm-your-toasters-folks.md",
-      "title": "San Francisco approves killer police robots! Time to arm your toasters, folks.",
-      "excerpt": "I know when most think of modern-day policing, the first thing that comes to mind is: What’s another ... to use potentially lethal, remote-controlled robots in emergency situations,” according ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/columnist/2022/11/30/san-francisco-police-robots-kill-explosives-safety/10804684002/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/columnist/2022/11/30/san-francisco-police-robots-kill-explosives-safety/10804684002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2021/08/29/USATODAY/usatsports/imageForEntry34-Rsf.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T16:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

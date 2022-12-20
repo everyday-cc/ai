@@ -2,6 +2,102 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-10-27-who-the-fck-wants-a-kinder-egg-or-beef-jerky-mid-walk-in-the-parking-lot.md",
+      "title": "'Who the f*ck wants a Kinder Egg or beef jerky mid-walk in the parking lot.'",
+      "excerpt": "Walmart caught headlines earlier in the year after announcing that it would be deploying a team of remote-controlled robots to its parking lots. With help from tech startup Tortoise, the venture ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailydot.com/debug/walmart-snack-robots/",
+      "originalUrl": "https://www.dailydot.com/debug/walmart-snack-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://uploads.dailydot.com/2022/10/walmart-snack-selling-bot-tiktok.jpg?auto=compress&fm=pjpg",
+          "width": 2000,
+          "height": 1001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailydot.com/debug/walmart-snack-robots/",
+      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/walmart-snack-robots/",
+      "publishedDateTime": "2022-10-27T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Dot",
+        "domain": "dailydot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-teslas-optimus-bot-are-humaniform-robots-the-right-path-forward.md",
+      "title": "Tesla’s Optimus Bot: Are Humaniform Robots The Right Path Forward?",
+      "excerpt": "One thing is undeniable: there’s an abiding appeal to human shaped and human sized robots. Part of the value of copying the human form: the world is built for humans. Cars, homes, machines, factories,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2022/10/26/teslas-optimus-bot-are-humaniform-robots-the-right-path-forward/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2022/10/26/teslas-optimus-bot-are-humaniform-robots-the-right-path-forward/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/633885ad873cb08a2c57e040/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2022/10/26/teslas-optimus-bot-are-humaniform-robots-the-right-path-forward/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2022/10/26/teslas-optimus-bot-are-humaniform-robots-the-right-path-forward/amp/",
+      "publishedDateTime": "2022-10-26T15:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-10-27-volkswagen-no-longer-investing-in-self-driving-startup-argo-ai.md",
       "title": "Volkswagen no longer investing in self-driving startup Argo AI",
       "excerpt": "Volkswagen disclosed a $2.6 billion investment in Argo AI, the Pittsburgh-based self-driving startup, in June 2020. The investment meant the startup was jointly controlled by the German carmaker ...",
@@ -1323,101 +1419,6 @@
         "name": "ArcticStartup",
         "domain": "arcticstartup.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-dog-like-robots-will-make-deliveries-on-a-texas-campus-to-see-how-people-robots-interact.md",
-      "title": "Dog-like robots will make deliveries on a Texas campus to see how people, robots interact",
-      "excerpt": "Four-legged autonomous delivery robots will be coming to the University of Texas as part of a study on interactions between people and robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/news/education/2022/10/18/university-texas-dog-robots-deliver/10532562002/",
-      "originalUrl": "https://www.freep.com/story/news/education/2022/10/18/university-texas-dog-robots-deliver/10532562002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2022/10/17/NAAS/a71f36f1-4c32-4b62-a708-193923484ef2-Robot.png?auto=webp&crop=875,493,x0,y49&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-ai-driven-automation-and-human-driven-management-of-the-business-of-data.md",
-      "title": "AI-Driven Automation And Human-Driven Management Of The Business Of Data",
-      "excerpt": "In an interview with Authority Magazine, Seek AI co-founder and CEO Sarah Nagy highlighted the challenge of managing the tradeoff between data accuracy and accessibility: “On one hand, accessibility allows less technical folks to start interacting with the knowledge wellspring that is a company’s data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2022/10/18/ai-driven-automation-and-human-driven-management-of-the-business-of-data/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2022/10/18/ai-driven-automation-and-human-driven-management-of-the-business-of-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634ec5fcfe1d2ae7738e9c70/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2022/10/18/ai-driven-automation-and-human-driven-management-of-the-business-of-data/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/10/18/ai-driven-automation-and-human-driven-management-of-the-business-of-data/amp/",
-      "publishedDateTime": "2022-10-18T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

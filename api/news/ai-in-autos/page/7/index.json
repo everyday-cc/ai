@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-11-11-artificial-intelligence-the-latest-architecture-and-news.md",
+      "title": "Artificial Intelligence: The Latest Architecture and News",
+      "excerpt": "The promise of the metaverse, this new type of three-dimensional and immersive digital space, is proving to become more and more appealing to architects eager to explore the new realm of virtual ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.archdaily.com/tag/artificial-intelligence",
+      "originalUrl": "https://www.archdaily.com/tag/artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.adsttc.com/doodles/flat/logo-animation.gif",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-11T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ArchDaily",
+        "domain": "archdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-11-11-now-anyone-can-hail-a-waymo-robotaxi-in-downtown-phoenix.md",
       "title": "Now anyone can hail a Waymo robotaxi in downtown Phoenix",
       "excerpt": "Waymo has opened up its fully driverless ride-hail service in downtown Phoenix to members of the general public. Previously, the company had only been operating a commercial service with no safety ...",
@@ -1280,49 +1324,6 @@
       "provider": {
         "name": "Express & Star",
         "domain": "expressandstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-what-makes-baidu-bidu-an-attractive-investment.md",
-      "title": "What Makes Baidu (BIDU) an Attractive Investment?",
-      "excerpt": "Beyond its core search business, Baidu has invested heavily in cutting-edge technologies including cloud, autonomous driving, smart devices, and AI semiconductor chips. The company’s cloud ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/what-makes-baidu-bidu-an-attractive-investment-1082937/",
-      "originalUrl": "https://www.insidermonkey.com/blog/what-makes-baidu-bidu-an-attractive-investment-1082937/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2015/05/shutterstock_171252059.jpg",
-          "width": 1000,
-          "height": 688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T20:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
         "images": null,
         "publishers": null,
         "authors": null

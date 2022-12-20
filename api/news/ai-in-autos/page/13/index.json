@@ -2,6 +2,60 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-10-03-tesla-unveils-functional-prototypes-of-its-planned-humanoid-robot.md",
+      "title": "Tesla unveils functional prototypes of its planned humanoid robot",
+      "excerpt": "Elon Musk announced that Tesla was working on a bipedal humanoid robot that could perform boring and/or dangerous tasks for humans. His company has now unveiled two prototypes, one of which can already walk on its own.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/tesla-prototypes-humanoid-robot/",
+      "originalUrl": "https://newatlas.com/robotics/tesla-prototypes-humanoid-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/5a22619/2147483647/strip/true/crop/717x376+0+51/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F94%2Fdd%2F7b7d0d4e475cae67c88e9c3fd3e2%2Fscreen-shot-2022-10-03-at-9.10.30%20AM.jpeg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T09:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-10-03-three-reasons-why-artificial-intelligence-wins-with-specialization.md",
       "title": "Three Reasons Why Artificial Intelligence Wins With Specialization",
       "excerpt": "When I began learning about artificial intelligence (AI) and machine learning (ML), it was from the perspective of trying to help very smart people do challenging tasks. This is opposed to learning about an AI algorithm and trying to see how far I could push it for the sake of science (which has its own merits) and then searching for an application in the real world.",
@@ -1367,40 +1421,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-ponyai-and-saic-ai-lab-to-develop-fully-driverless-ev-robotaxi.md",
-      "title": "Pony.ai and SAIC AI Lab to Develop Fully Driverless EV Robotaxi",
-      "excerpt": "Together with SAIC AI Lab, Pony.ai launched a concept vehicle based on the SAIC Marvel R model and will build out a fleet of autonomous vehicles equipped with Pony.ai’s L4-level driverless ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/pony-ai-and-saic-ai-lab-to-develop-fully-driverless-ev-robotaxi/article_287edbe7-cd51-5d04-9411-799343ed1abf.html",
-      "originalUrl": "https://www.eagletribune.com/region/pony-ai-and-saic-ai-lab-to-develop-fully-driverless-ev-robotaxi/article_287edbe7-cd51-5d04-9411-799343ed1abf.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T01:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

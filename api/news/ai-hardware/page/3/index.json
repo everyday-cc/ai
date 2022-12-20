@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-12-01-ai-accelerator-chip-market-2022-to-eyewitness-massive-growth-by-2028.md",
+      "title": "AI Accelerator Chip Market 2022 to Eyewitness Massive Growth by 2028",
+      "excerpt": "Pre and Post Covid is Covered and Report Customization is Available. \"AI Accelerator Chip Market\" Insights 2022 | By",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-2022-to-eyewitness-massive-growth-by-2028-2022-12-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-2022-to-eyewitness-massive-growth-by-2028-2022-12-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T22:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-intel-arc-graphics-card-performance-is-improving-sort-of.md",
+      "title": "Intel Arc graphics card performance is improving, sort of",
+      "excerpt": "While the Alchemist GPU lineup offers decent performance for the price, driver issues initially caused a bit of a ruckus. Thanks to post-launch updates, A770 performance appears to be on the up, ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcgamesn.com/intel/arc-gpu-performance-improvements",
+      "originalUrl": "https://www.pcgamesn.com/intel/arc-gpu-performance-improvements",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/11/intel-arc-gpu-performance-improvements.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T22:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-stability-ai-doubles-down-on-aws.md",
       "title": "Stability AI doubles down on AWS",
       "excerpt": "Generative AI startups Stability AI today announced that AWS is now its preferred cloud partner for building and deploying its models.",
@@ -1320,102 +1415,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-flexible-ai-computer-chips-promise-wearable-health-monitors-that-protect-privacy.md",
-      "title": "Flexible AI computer chips promise wearable health monitors that protect privacy",
-      "excerpt": "Rather than working like a typical computer chip, though, the chip we’re working ... Our research aims to make the AI analysis of health data happen within these skinlike wearable devices ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/flexible-ai-computer-chips-promise-wearable-health-monitors-that-protect-privacy-189860",
-      "originalUrl": "https://theconversation.com/flexible-ai-computer-chips-promise-wearable-health-monitors-that-protect-privacy-189860",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/494503/original/file-20221109-13740-snz30g.JPG?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=202&fit=crop",
-          "width": 320,
-          "height": 202,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/flexible-ai-computer-chips-promise-wearable-health-monitors-that-protect-privacy-189860",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/flexible-ai-computer-chips-promise-wearable-health-monitors-that-protect-privacy-189860",
-      "publishedDateTime": "2022-11-17T05:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-17-big-challenges-that-ai-can-help-overcome-and-steps-companies-can-take-to-embrace-it.md",
-      "title": "Big Challenges That AI Can Help Overcome And Steps Companies Can Take To Embrace It",
-      "excerpt": "We may be on our way to a greater economic downturn as we look to 2023. Automation software and technologies that increase companies’ insights and efficiencies tend to be contra-cyclical (doing better in down markets) as companies look to do more with less.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/big-challenges-that-ai-can-help-overcome-and-steps-companies-can-take-to-embrace-it/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/big-challenges-that-ai-can-help-overcome-and-steps-companies-can-take-to-embrace-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6374e010b4a17bf67ee85854/0x0.jpg?format=jpg&crop=3426,1928,x0,y176,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/17/big-challenges-that-ai-can-help-overcome-and-steps-companies-can-take-to-embrace-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/17/big-challenges-that-ai-can-help-overcome-and-steps-companies-can-take-to-embrace-it/amp/",
-      "publishedDateTime": "2022-11-17T02:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

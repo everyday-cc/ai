@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/this-report-on-cognitive
 webUrl: "https://www.marketwatch.com/press-release/this-report-on-cognitive-services-market-covers-main-driver-for-the-overall-market-from-2022-to-2028-2022-12-20"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Aviation Market report 2028 focuses on top companys research methodology drivers and opportunities | 115 Pages Report"
-    excerpt: "Market Updates(360marketupdates.com) published a new research report on Artificial Intelligence in Aviation Market"
-    publishedDateTime: 2022-12-16T02:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-report-2028-focuses-on-top-companys-research-methodology-drivers-and-opportunities-115-pages-report-2022-12-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

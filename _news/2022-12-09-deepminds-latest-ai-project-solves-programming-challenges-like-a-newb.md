@@ -1,12 +1,10 @@
 ---
 category: news
 title: "DeepMind’s latest AI project solves programming challenges like a newb"
-excerpt: "Google's DeepMind AI division has tackled everything from StarCraft to protein folding. So it's probably no surprise that its creators have eventually turned to what is undoubtedly a personal ..."
-publishedDateTime: 2022-12-08T21:15:00Z
-originalUrl: "https://arstechnica.com/science/2022/12/deepminds-latest-ai-project-solves-programming-challenges-like-a-newb/"
-webUrl: "https://arstechnica.com/science/2022/12/deepminds-latest-ai-project-solves-programming-challenges-like-a-newb/"
-ampWebUrl: "https://arstechnica.com/science/2022/12/deepminds-latest-ai-project-solves-programming-challenges-like-a-newb/amp/"
-cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2022/12/deepminds-latest-ai-project-solves-programming-challenges-like-a-newb/amp/"
+excerpt: "Interesting that when the AI tackles problems in a field in which we are expert, the solutions seem weak and brittle. But AI is used in many other fields, and there the programmers assure us it ..."
+publishedDateTime: 2022-12-08T16:15:00Z
+originalUrl: "https://arstechnica.com/civis/threads/deepmind’s-latest-ai-project-solves-programming-challenges-like-a-newb.1488454/page-2"
+webUrl: "https://arstechnica.com/civis/threads/deepmind’s-latest-ai-project-solves-programming-challenges-like-a-newb.1488454/page-2"
 type: article
 
 provider:
@@ -22,11 +20,11 @@ topics:
   - AI
 
 images:
-  - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-521369998-800x522.jpg"
-    width: 800
-    height: 522
+  - url: "https://assets-global.website-files.com/621e749a546b7592125f38ed/6221e6c759f19819bd5bec04_CodeGen.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
-secured: "cJpwg7izdlBTFsJrfok4qCPjkvKdZHShPPD91gCqPBKnvnx0TR+qwGWlsfFhmKF/yPlJ+0Dwm3QkbCMbY5pgHR6DWc8WlH+DSJ1O15cq9U/5i5JakrX5xPBOUBTx0IbW3UQ+r0A/Mj9qj9GoMsWv3vywkDk6tJ6grgkhhU/RZ6JFRLkacHP8GXzjURwnSRdcOUOwBGAYD+408g0ND/XKJIB2INAMORn/BF9WBdJ4BgXdCjmjJaddugCaW4RRip0XYjb7aFDW7eKvf27ezjxwt2JrQSZ4DZ5PlTaprIzIxn2scWLDBJwYXDQMim10oDschHMZELAs/rCGscWiyLw3e7QWGf4XOpWCs9Vf1GLARfs=;cOsVul5VNWCA2rWeaa5esg=="
+secured: "YGE2IKQiBU1/rq2lEmpykn4g6Xcm44cSQ5KZr5Q3zXK0FzIObImg7w5fEgmawfpktxfc9wJk39Qf52GogHYacEs0CqS0C/baMxYeBVnJjvvFa1tHn1fl/ePQK/gvklZDGUzFuW9P4TCgGkKbA3ZbF+yOBYFsR+y5RYcqzPMmBPW8ax+XzPfzVJc/Q5xEmfmCVgMTRwyDYVxSzBvZfvTCx0tKpLGl3WklaZ4XmRfME+dgFG2q93ch1C/+7N8jtiUZsApNZKuP1U4MZPQYN97FULELlNeOWkJILVG4CHN1g8ZrHC97/Y/n/Tihf2JQpuxLw7ZfoEDAZuE1RaS4Cad1MExKHpjCUy3z1r8/OSW57gI=;CCB+8n5D1kizpk24RxRYpw=="
 ---
 

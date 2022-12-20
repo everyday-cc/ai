@@ -2,6 +2,111 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-10-04-meta-seeks-to-accelerate-ai-inference-with-open-source-aitemplate.md",
+      "title": "Meta seeks to accelerate AI inference with open-source AITemplate",
+      "excerpt": "Meta is open sourcing its AITemplate technology that enables AI inference to run across multiple hardware vendors, with the claim of better performance.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/meta-seeks-to-accelerate-ai-inference-with-open-source-aitemplate/",
+      "originalUrl": "https://venturebeat.com/ai/meta-seeks-to-accelerate-ai-inference-with-open-source-aitemplate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/04/screen-shot-2017-04-18-at-10-04-14-am.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 660,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/meta-seeks-to-accelerate-ai-inference-with-open-source-aitemplate/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/meta-seeks-to-accelerate-ai-inference-with-open-source-aitemplate/amp/",
+      "publishedDateTime": "2022-10-04T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-3-top-artificial-intelligence-stocks-to-buy-in-october.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in October",
+      "excerpt": "Learn More There's a lot of growth on the horizon. The global artificial intelligence (AI) market is poised to grow into a $1.4 trillion opportunity by 2029, up from around $387 billion now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/10/04/3-artificial-intelligence-stocks-buy-in-october/",
+      "originalUrl": "https://www.fool.com/investing/2022/10/04/3-artificial-intelligence-stocks-buy-in-october/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/702923/gettyimages-1284372450.jpg",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-edge-artificial-intelligence-ai-chip-market-research-report-analysis-size-share-growth-research-report-by-regional-and-forecast-2022-to.md",
       "title": "Edge Artificial Intelligence AI Chip Market Research Report, Analysis, Size, Share, Growth | Research Report by Regional and Forecast 2022 to 2028",
       "excerpt": "The \"Edge Artificial Intelligence AI Chip market\" report offers a comprehensive analysis, market size and forecast from year to year, trends, growth drivers, challenges, and vendor analysis ...",
@@ -1357,111 +1462,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners.md",
-      "title": "Nvidia debuts new high-end RTX 4090 GPU after previous generation gobbled up by crypto miners",
-      "excerpt": "which should allow the new GPUs to perform both AI-powered graphics operations and pure neural network stuff (like running Stable Diffusion) faster and better. The GPU has graduated from being a tool for keeping your games running at high framerates to a ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners/",
-      "originalUrl": "https://techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/09/nvidia-ceo-jensen-huang-with-geforce-rtx-4090.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/20/nvidia-debuts-new-high-end-rtx-4090-gpu-after-previous-generation-gobbled-up-by-crypto-miners/amp/",
-      "publishedDateTime": "2022-09-20T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-nvidia-and-booz-allen-develop-morpheus-platform-to-supercharge-security-ai.md",
-      "title": "Nvidia and Booz Allen develop Morpheus platform to supercharge security AI",
-      "excerpt": "Nvidia and Booz Allen announce the launch of Morpheus, a security AI solution designed to offer greater data processing capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/nvidia-and-booz-allen-develop-morpheus-platform-to-supercharge-security-ai/",
-      "originalUrl": "https://venturebeat.com/security/nvidia-and-booz-allen-develop-morpheus-platform-to-supercharge-security-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1334595508-popba.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/nvidia-and-booz-allen-develop-morpheus-platform-to-supercharge-security-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/nvidia-and-booz-allen-develop-morpheus-platform-to-supercharge-security-ai/amp/",
-      "publishedDateTime": "2022-09-20T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

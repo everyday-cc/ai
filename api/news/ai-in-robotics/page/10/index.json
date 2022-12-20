@@ -2,6 +2,103 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-10-03-tesla-unveils-functional-prototypes-of-its-planned-humanoid-robot.md",
+      "title": "Tesla unveils functional prototypes of its planned humanoid robot",
+      "excerpt": "Elon Musk announced that Tesla was working on a bipedal humanoid robot that could perform boring and/or dangerous tasks for humans. His company has now unveiled two prototypes, one of which can already walk on its own.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/tesla-prototypes-humanoid-robot/",
+      "originalUrl": "https://newatlas.com/robotics/tesla-prototypes-humanoid-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/5a22619/2147483647/strip/true/crop/717x376+0+51/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F94%2Fdd%2F7b7d0d4e475cae67c88e9c3fd3e2%2Fscreen-shot-2022-10-03-at-9.10.30%20AM.jpeg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T09:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-03-the-best-robot-vacuums-of-2022-tested-and-rated.md",
+      "title": "The best robot vacuums of 2022 tested and rated",
+      "excerpt": "We spent hundreds of hours testing dozens of robot vacuums, both in a controlled environment and ... who value convenience above all, and don’t mind paying top dollar for it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tomsguide.com/us/best-robot-vacuums,review-2000.html",
+      "originalUrl": "https://www.tomsguide.com/us/best-robot-vacuums,review-2000.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/its2Ps4RMjDGBkHtngK9S7-1200-80.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-03-after-hurricane-ian-robots-to-the-rescue.md",
       "title": "After Hurricane Ian, Robots To The Rescue",
       "excerpt": "Flying, swimming, and even crawling robots are becoming vital tools in disaster response. How data from robotic partners can help steer scarce human resources in dangerous terrain.",
@@ -1288,103 +1385,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-ai-and-machine-learning-enter-the-kitchen-at-chipotle.md",
-      "title": "AI and Machine Learning Enter the Kitchen at Chipotle",
-      "excerpt": "The first, piloting in select Southern California restaurants, is a cook-to-needs kitchen management system that provides demand-based cooking and ingredient preparation forecasts to “optimize throughput and freshness while minimizing food waste,",
-      "sourceUrl": null,
-      "webUrl": "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-enter-kitchen-chipotle",
-      "originalUrl": "https://www.qsrmagazine.com/fast-casual/ai-and-machine-learning-enter-kitchen-chipotle",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2022-09/Chipotlane.jpg?itok=5BEjL9Eh",
-          "width": 765,
-          "height": 446,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "QSR magazine",
-        "domain": "qsrmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-ai-wont-replace-human-intuition.md",
-      "title": "AI Won’t Replace Human Intuition",
-      "excerpt": "As artificial intelligence (AI) capabilities and applications have expanded, the AI field is fueling fodder for some interesting science-fiction scenarios. Elon Musk, CEO of Tesla—which relies on AI for self-driving and other key functions—has warned the world about “scary outcomes” harnessed by the power of AI-fueled robots akin to those in “Terminator” film series.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/27/ai-wont-replace-human-intuition/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/27/ai-wont-replace-human-intuition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6331ac26332d12458fdd5380/0x0.jpg?format=jpg&width=1200",
-          "width": 980,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/27/ai-wont-replace-human-intuition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/27/ai-wont-replace-human-intuition/amp/",
-      "publishedDateTime": "2022-09-27T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

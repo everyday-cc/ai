@@ -759,6 +759,50 @@
       ]
     },
     {
+      "path": "_news/2022-12-07-the-worldwide-machine-learning-as-a-service-industry-is-expected-to-reach-362-billion-by-2028.md",
+      "title": "The Worldwide Machine Learning as a Service Industry is Expected to Reach $36.2 Billion by 2028",
+      "excerpt": "American Express (Financial Services); and Tesla and Ford (Automotive), have identified AI and cognitive computing as a key strategic driver and have begun investing in machine learning to develop ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/12/n29983615/the-worldwide-machine-learning-as-a-service-industry-is-expected-to-reach-36-2-billion-by-2028",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/n29983615/the-worldwide-machine-learning-as-a-service-industry-is-expected-to-reach-36-2-billion-by-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
+          "width": 800,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29983615",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29983615",
+      "publishedDateTime": "2022-12-06T13:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-singapore-based-financial-admin-platform-osome-raises-25m-series-b.md",
       "title": "Singapore-based financial admin platform Osome raises $25M Series B",
       "excerpt": "Osome is a corporate “super app” that helps business owners with administrative tasks like payroll, accounting and tax reporting. The company announced today it has raised a $25 million Series B from Illuminate Financial,",
@@ -1336,49 +1380,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-acufi-founder-nicholas-kohlschreiber-examines-the-future-of-fintech-with-ai.md",
-      "title": "AcuFi Founder, Nicholas Kohlschreiber, Examines the Future of FinTech with AI",
-      "excerpt": "For the fintech sector, concerns in the security of both user and company data can be addressed by AI. More than ever, the modern age will come with a new variety of bad actors-hackers, viruses, and vulnerabilities waiting to be exploited.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/273135322/acufi-founder-nicholas-kohlschreiber-examines-the-future-of-fintech-with-ai",
-      "originalUrl": "https://www.bignewsnetwork.com/news/273135322/acufi-founder-nicholas-kohlschreiber-examines-the-future-of-fintech-with-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/cus1670210247174.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T18:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

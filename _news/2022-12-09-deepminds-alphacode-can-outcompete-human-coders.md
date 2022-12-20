@@ -1,30 +1,28 @@
 ---
 category: news
 title: "DeepMind’s AlphaCode Can Outcompete Human Coders"
-excerpt: "Alphabet-owned DeepMind did just that with its AlphaCode model. The results? Well, AlphaCode performed well but not exceptional. The model’s overall performance, according to a paper published ..."
-publishedDateTime: 2022-12-09T05:05:00Z
-originalUrl: "https://gizmodo.com/deepmind-ai-google-alphacode-coding-1849869346"
-webUrl: "https://gizmodo.com/deepmind-ai-google-alphacode-coding-1849869346"
+excerpt: "When it comes to tracking the incremental advances of AI potential, humans have an odd tendency to think in terms of board games we probably haven’t played since childhood. Though there’s no ..."
+publishedDateTime: 2022-12-09T06:00:00Z
+originalUrl: "https://www.gizmodo.com.au/2022/12/deepminds-alphacode-can-outcompete-human-coders/"
+webUrl: "https://www.gizmodo.com.au/2022/12/deepminds-alphacode-can-outcompete-human-coders/"
+ampWebUrl: "https://www.gizmodo.com.au/2022/12/deepminds-alphacode-can-outcompete-human-coders/amp/"
+cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/12/deepminds-alphacode-can-outcompete-human-coders/amp/"
 type: article
 
 provider:
-  name: Gizmodo
-  domain: gizmodo.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: gizmodo
+  domain: gizmodo.com.au
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5d83c0898ee04bd95d3ba0e03aa05ceb.jpg"
-    width: 1200
-    height: 675
+  - url: "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/12/09/5d83c0898ee04bd95d3ba0e03aa05ceb.jpg?quality=80&resize=1280,720"
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "3gPLOrNl3DNskQ5Y2tJemSXEiFEFUil6lhW9F99PBnH/zVepzW8pkvzm+fK/sY5dcaoDo/QqDjTQY9arVznRFArGH0KWhfxbxfN+09Jw7HtvU0qlreYamwGRpK8hxyGOL/2Vo6mASX4KDuPQYxxM+EiFIEl9A8kEHPdBPeEiNsZAdlBNVnH70Eb3hqqMFPHH3u4gnn7fI+9wE7S5S9JIl2oc1arunsAJgggkepwv6p4sqbKh09XrnyF3IYG6pWWM2eyc8tcHUSkmZzmlXHigvxsv+eMsAVBWotHOTgkLRgSWHkNzJM98cn4KkfmaME+QnxekC8BfJhW4upyU6arKiPAgULADMf8dTFpfjxT54Ac=;fc/2zk0vhQLuJQGt0Gz/pg=="
+secured: "rCNb1TUkIODq9p3JKj84dJRy1B0zPVe+b/Ni6S/AcjrNuXJDHEhlOk9yJDQwkPgn15jeydN1V6SwBMgiQOJqBdEnq/HOWvavVPbQDV06al6otwLgFrGenoObUo6/qMPxx8peJbSYFHwx6hiy7/fEM8n7818P9hxbWGO/XgJqSUgpkjNfUduAth4cXYJEnae2bllPhg0+XUWeP6HXbBpCfJsNZ3tt7QM6hB9qAtDhR/mK6g8ySjYB15/Dwu5jXDKXfn6c/k4S489c8eIVkJts7UjIWLeZwLEP+FFj0HgwVm6/q9hB5qnzSu75BVFZO2METUkKlzLGg90NYqaWo/W5BI7AZdq8mBvVFidcwnUaaJk=;dgt6ypa9UcYJ2+crm/dU1A=="
 ---
 

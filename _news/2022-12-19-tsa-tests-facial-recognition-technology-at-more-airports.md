@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technol
 cdnAmpWebUrl: "https://www-ktre-com.cdn.ampproject.org/c/s/www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/?outputType=amp"
 type: article
 quality: 74
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2022/12/20/deed59ef-9384-46fa-9d3b-c0d06aa7cf23/thumbnail/1200x630/0a4762dab90bf8ab2503c5d4b0fb455a/06be91a9325e57dee7f452bbb757003f.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Facial recognition software for employee time and attendance reports launched by RecFaces"
+    excerpt: "RecFaces has launched a facial recognition software solution for employee time and attendance tracking with autonomously operating terminals."
+    publishedDateTime: 2022-12-20T17:14:00Z
+    webUrl: "https://www.biometricupdate.com/202212/facial-recognition-software-for-employee-time-and-attendance-reports-launched-by-recfaces"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 30
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
+        width: 2048
+        height: 1812
         isCached: true
 
 secured: "03OFyALQ45uIrvWypUYg6A+F988K2PSAGwpjZKcoP6pruWEFW7/FyhYQnjLG5rQmdWjkiMJN4UrifVxA32NM5XqxcQhfG/at6x/sorQYrKJZHygquL0D07CHCGtzs4sJ6n5M0lHKb5acYT0kqzSO8OEFsi4s9H04adxhAezr9MU6qkBtfaAQUV8JNMBLlHaR3pLhN3eG9CTGVf66Zo7pteAryRXg26e1fyXSH1gSe3775gbQV+Fd7uLeK3qXluHY5q64dBA5RjMy39PaGKLATRZ+U/ADYFe2j43e6ae0T2FwbMUYLwPQKC/+1Hauve3HXWFIqGsqVAwLlVBPqQuUBa3qwpI1pgxV1Z4dFt5P0nE=;zqvlg5zgLkWPUM62WKtRZA=="

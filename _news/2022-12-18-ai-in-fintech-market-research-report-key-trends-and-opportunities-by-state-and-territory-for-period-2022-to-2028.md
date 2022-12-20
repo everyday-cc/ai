@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Aviation Market report 2028 focuses on top companys research methodology drivers and opportunities | 115 Pages Report"
-    excerpt: "Market Updates(360marketupdates.com) published a new research report on Artificial Intelligence in Aviation Market"
-    publishedDateTime: 2022-12-16T02:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-report-2028-focuses-on-top-companys-research-methodology-drivers-and-opportunities-115-pages-report-2022-12-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice Recognition Market 2023 Size | Share, Forecasts Analysis, Company Profiles, Competitive Landscape and Key Regions 2028 | Top Countries Data"
     excerpt: "The Voice Recognition market report provides an overall assessment of the market for the forecast period. The report"
     publishedDateTime: 2022-12-16T10:33:00Z

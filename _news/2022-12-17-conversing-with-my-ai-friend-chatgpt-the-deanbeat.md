@@ -55,19 +55,19 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "ChatGPT got all the buzz, but beneath it is a $1B developer framework that's quietly fueling the new era of lifelike AI at OpenAI and beyond"
-    excerpt: "The Ray developer framework is used by OpenAI, Amazon, and more to solve one of AI's biggest pain points and make AI tools like ChatGPT possible."
-    publishedDateTime: 2022-12-16T10:00:00Z
-    webUrl: "https://www.businessinsider.com/openai-chatgpt-trained-on-anyscale-ray-generative-lifelike-ai-models-2022-12"
+  - title: "ChatGPT is proof the AI chatbots are here to stay"
+    excerpt: "Chat GPT crashed. “I immediately feel like I lost 50 points of IQ,” tweeted one user. “Now I have to use search engines like cavemen did,” exclaimed"
+    publishedDateTime: 2022-12-18T00:00:00Z
+    webUrl: "https://www.thetimes.co.uk/article/006c4ae0-7d4c-11ed-a3d2-203363978915?shareToken=c8bf647aff7eb7655ef38ee11c47fe04"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 39
     images:
-      - url: "https://i.insider.com/639a263b27c0a700193e267a?width=1200&format=jpeg"
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F028dde28-7d61-11ed-a3d2-203363978915.jpg?crop=3000%2C1687%2C0%2C156&resize=1200"
         width: 1200
-        height: 600
+        height: 674
         isCached: true
   - title: "Enraged Worries That Generative AI ChatGPT Spurs Students To Vastly Cheat When Writing Essays, Spawns Spellbound Attention For AI Ethics And AI Law"
     excerpt: "Generative AI such as the ChatGPT app has gotten a huge backlash that students will readily now be able to cheat when writing essays and that we are doomed accordingly. We take a close look, considering both AI Ethics and AI Law considerations on this weighty concern."

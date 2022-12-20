@@ -69,6 +69,20 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "Facial recognition software for employee time and attendance reports launched by RecFaces"
+    excerpt: "RecFaces has launched a facial recognition software solution for employee time and attendance tracking with autonomously operating terminals."
+    publishedDateTime: 2022-12-20T17:14:00Z
+    webUrl: "https://www.biometricupdate.com/202212/facial-recognition-software-for-employee-time-and-attendance-reports-launched-by-recfaces"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 30
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
+        width: 2048
+        height: 1812
+        isCached: true
 
 secured: "RNuWLZr+UB9GR/AwfvB9svfCRjXBjzG3QgK1P+nATGDZcC0G9/OAhFNieLjkpyguN/ZLNBzLYXPZJuVLmRkJtdqQZ6Fd6STeMTourNqDZe2VOiIJEICfCpCt3ZBl07shTumWe566eGH6YU90qaJitCFx1QhDyRFmb5mEE1JmRiZba4+vePaWt/KTdwyxYm+4Ud08P936Uw/hM6F0z35AxA2gZKq6c4X5M+2LzykqL9vum+SSMgfTdf2nN2cr2LR0igNIdyVY4CNHLwT/trMOIDqywDINV/1lEi4En1F5E6IGsYUnGSUZ2IN3pjOkwbklB+cuhdm20SivVlxD/+tl7h6pJQJJuNmd+Kik+Rnm6ejbveYZbnGz0XLMNVrU6SeZeUgt+efKTdyB0c98ZfJsQPq92xCSCpjd/ISuHdMVLhs5/PIpOMPdYimSMZnNsELAQ47UFlORdnkTJUEDr+CkFoS8GQXmSLEvQgshiusYfLtRjLV7/rA/OJwHg2NBOrt1yI2M0MSnM49GjRF6ozzjjg==;HGpGBr2onrNXVUC7JYcCUA=="
 ---

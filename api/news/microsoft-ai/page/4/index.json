@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-11-18-1-in-3-older-americans-have-cognitive-impairment-or-dementia.md",
-      "title": "1 in 3 Older Americans Have Cognitive Impairment or Dementia",
-      "excerpt": "Oct. 25, 2022 – A new study shows one-third of Americans age 65 or older have mild cognitive impairment or dementia. The study, published in the journal JAMA Neurologyon Monday, is the most ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.webmd.com/brain/news/20221025/1-in-3-older-americans-have-cognitive-impairment-dementia",
-      "originalUrl": "https://www.webmd.com/brain/news/20221025/1-in-3-older-americans-have-cognitive-impairment-dementia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.webmd.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/blog_posts/alzheimers_disease/1800x1200_woman_holding_hands_with_senior_woman.jpg",
-          "width": 1800,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T14:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WebMD",
-        "domain": "webmd.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-18-senior-suffering-cognitive-decline-surrenders-72-dogs-in-cabazon.md",
       "title": "Senior Suffering Cognitive Decline Surrenders 72 Dogs in Cabazon",
       "excerpt": "A Cabazon senior suffering cognitive decline surrendered more than 70 canines to the Riverside County Department of Animal Services Wednesday. A Cabazon senior suffering cognitive decline ...",
@@ -1368,6 +1325,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-10-cybersecurity-cloud-and-coding-why-these-three-skills-will-lead-demand-in-2023.md",
+      "title": "Cybersecurity, cloud and coding: Why these three skills will lead demand in 2023",
+      "excerpt": "Simon Hepburn, CEO of the UK's Cyber Security Council, says the demand of cybersecurity skills in the UK is particularly pronounced, with an estimated 14,100 roles currently sitting unfilled. According to Hepburn,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/cybersecurity-cloud-and-coding-why-these-three-skills-will-lead-demand-in-2023/",
+      "originalUrl": "https://www.zdnet.com/article/cybersecurity-cloud-and-coding-why-these-three-skills-will-lead-demand-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/022a9e75158c7a25c5e2dbc704e5d5f91f910a2e/2021/11/23/f6662bee-270f-4251-b276-b64006654183/it-leadership-project-collaboration-office-workforce.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cybersecurity-cloud-and-coding-why-these-three-skills-will-lead-demand-in-2023/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cybersecurity-cloud-and-coding-why-these-three-skills-will-lead-demand-in-2023/",
+      "publishedDateTime": "2022-11-10T06:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
