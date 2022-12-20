@@ -7,7 +7,7 @@ originalUrl: "https://time.com/charter/6242075/how-generative-ai-will-change-all
 webUrl: "https://time.com/charter/6242075/how-generative-ai-will-change-all-knowledge-work/"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -93,6 +93,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "VCs say hybrid work, generative AI, and niche collaboration tools will be some of the top future-of-work trends that dominate 2023"
+    excerpt: "Between the pandemic, Great Resignation, and layoffs, workplaces have changed a lot. Here are the next future-of-work trends VCs say we can expect."
+    publishedDateTime: 2022-12-20T11:30:00Z
+    webUrl: "https://www.businessinsider.com/2023-future-of-work-trend-predictions-vcs-investors-2022-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
+    images:
+      - url: "https://i.insider.com/639cbdd4b5600000185b1a21?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "2RPxh/vQSamXcjMlDUiRbNoGRU9nvlov2EcIq50WzuB940fYBa7aK2y8F2FsPcqEXusfb3+FMCb9HIiW3oTeYM5ROj39EmLVbfzA63z6zZhE974YcQyGC78mXs2A5vApfuCqUFxxN1wqqgmjPw92WawDy2fODs0h4+PQ6BAC18iqPgQS+EerHPvHVK5Q4Pk6Iq6TZz3KhNHSrwF88Lrgm6xNtohhBlyqPisKOxHsA7AIylYHlrEPCTCpahC+344Kzr3DhV01Gs/segX6ILGA3YqBGSin+V8TWUgamK/HLvJNM2r3QJhcFgGFKlllxZi9w1pCsf1gAWixu4Swk3riR9rP9XidTiSNTLpeTnIinpU=;plf7sM/GOdRsDfxSddKFSA=="
 ---

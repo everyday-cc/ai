@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2022/12/20/1065667/how-ai-generated
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/20/1065667/how-ai-generated-text-is-poisoning-the-internet/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: MIT Technology Review
@@ -36,16 +36,7 @@ related:
       name: The Daily Star
       domain: thedailystar.net
     quality: 19
-  - title: "How AI Is Reshaping the Edge Computing Landscape"
-    excerpt: "Nov. 16, 2022 - How much computing power is needed at the edge? How much memory and storage are enough for AI at the edge? Minim"
-    publishedDateTime: 2022-12-15T20:13:00Z
-    webUrl: "https://www.automation.com/en-us/articles/december-2022/ai-reshaping-edge-computing-landscape"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 17
 
-secured: "JTO8svKUO5yY/JvXlZGGe6bG+t0vBwog3aRKDOhwjypaA09rE1LyApa3qCo9WZnXP3dH0PfpD9aR2wxXnbN7m2XPOc7/su05NdMkWUFLymxE3S2me9sOnEOfsN78QGYUqm2IVug8TIZCv2/9MTiLObFTHQVSCEnJbgN5sSsEvjvnad8ppKNoNCIIAOtBxMRmjRH8685LYLOXq4xXG8notKh+rpT1lZ2LfklTtEvqXfuXnABYEcfNiZjg8SgtndXNtV8FL9VFikGcuaT5Hv+fBnDjy4iGH2b7wv6qIEzn1zYJ3JM2sNi3EbadlO1uzgMCv92F170LhxK1cJdUCjbQkyfOKmLpnj4tOn/Xheec1vU=;fPJ/1NmnuNufIN7xoqhzsg=="
+secured: "PF5hnsPEgbWFXED6bbjOhNb5rRCnlcZYxtmFtu07Tzxcqe+d6WrOBau3zv4u5gFfc0KqJ6XDukKwz1k/A6OX1rnveIwQYZ07j3OzkLmX8Jy2DPn2kWUGa6ABEE/gDLZUPxYMhPyooS1U8mKve9+7z6pWwuHkZGtZipRE1Ss5DKou5uGyw9MmVOq3PamfpkAYnc3ILUThQGyASQ9ZsHnUkyiY5OcaMnbQ/ftGCCRQRXAQsDbZjnT5xLEEGSTzzLcDR+AwfmN3wPphCLYp96LENgqgAb5fR2TVafMR7Dg8z7/TtwdNc0QdAxN0TDEfttoE0u9JOHalwSWTFVjmzuEUpQFgC2zmSIoJynH02nwdU8tS5Ch7MxSdyuclQ/lM44KIrh6DhYH1ut/X3TP18D8PydDEBtK1myxzIy43rZ77Ndj7+4BRn/tQ5B8GYW1E943UIudx+cdYJJiU505WnUJSTlevkjEB3M/QCsT2h5g2SzyfZYizv6jWBZY9JLG34v0f58OVA+DgGsk6vp9PEdpbEg==;3nlYfbmfTFLCqBFKxc2Eng=="
 ---
 

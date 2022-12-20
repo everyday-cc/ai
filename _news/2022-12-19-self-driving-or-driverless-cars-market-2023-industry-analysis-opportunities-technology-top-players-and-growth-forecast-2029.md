@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverle
 webUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-2023-industry-analysis-opportunities-technology-top-players-and-growth-forecast-2029-2022-12-19"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -29,20 +29,57 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Truck Technology Market Insights : Industry dynamics, New Technologies and Forecast to 2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Self-Driving"
-    publishedDateTime: 2022-12-18T01:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-truck-technology-market-insights-industry-dynamics-new-technologies-and-forecast-to-2028-2022-12-17"
+  - title: "This report on Cognitive Services market covers main driver for the overall market from 2022 to 2028."
+    excerpt: "The market research report of the \" Cognitive Services market \" focuses on the reforms the Cognitive Services market is undergoing in order to cater to the needs of industries and businesses across the globe."
+    publishedDateTime: 2022-12-20T05:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/this-report-on-cognitive-services-market-covers-main-driver-for-the-overall-market-from-2022-to-2028-2022-12-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 37
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Fintech Market Research Report: Key Trends and Opportunities by State and Territory for period 2022 to 2028."
+    excerpt: "Given that the \" AI in Fintech Market \" is one of the industries growing at the quickest rate, it is essential for market participants to do a thorough study of the industry beforehand. The industry analysis and market research report for the AI in Fintech sector look at the global market from 2022 to 2028."
+    publishedDateTime: 2022-12-17T16:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-research-report-key-trends-and-opportunities-by-state-and-territory-for-period-2022-to-2028-2022-12-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Aviation Market report 2028 focuses on top companys research methodology drivers and opportunities | 115 Pages Report"
+    excerpt: "Market Updates(360marketupdates.com) published a new research report on Artificial Intelligence in Aviation Market"
+    publishedDateTime: 2022-12-16T02:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-report-2028-focuses-on-top-companys-research-methodology-drivers-and-opportunities-115-pages-report-2022-12-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Market 2023 Size | Share, Forecasts Analysis, Company Profiles, Competitive Landscape and Key Regions 2028 | Top Countries Data"
+    excerpt: "The Voice Recognition market report provides an overall assessment of the market for the forecast period. The report"
+    publishedDateTime: 2022-12-16T10:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2023-size-share-forecasts-analysis-company-profiles-competitive-landscape-and-key-regions-2028-top-countries-data-2022-12-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 0
 
 secured: "NdFBDs3yFzpJNfxgIss6DGKD8yfBNVrS0Kg8m+I+ZanPE4QZftOjzpphG8rn9x1wgECY8HgbDGhuJEZIcgNTrmUvKxf4Vw2TrSKFJyO7y5VIi8I4reaR9dFFyz/hTQt+0M1HD3aLMIkrFsGaKnz3Wdi8/YHcvdssUdJ2q4WF7mK6LcHq9mzdvG/MOknhEhsVihz2C/5RFthV7jYwI4HduOY5wr4D/go4imzZvhc/W+9mfbfQ5PmWF9L62wNwQy0mWwfL9EOD4zGKTqVk1vFxXLM+3SBMuMKH62uNv8tN8O1Wc+5Wy8GE0Wc8wsl4OQzErhKz3TfZNIJgSCYP+ID7VQNpFyI7nn95u9D5mMda3Yw=;A6GqCZJerF27VDXs+lWEXQ=="
 ---

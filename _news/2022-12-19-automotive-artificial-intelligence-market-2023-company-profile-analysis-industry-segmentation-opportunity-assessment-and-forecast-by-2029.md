@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice Recognition Software Market 2023 : Share and Outlook of Regulatory Scenario by 2029 with Top Countries Data"
+    excerpt: "A latest extensive market study titled Global “Voice Recognition Software Market\" Outlook from 2023 to 2029 enfolds"
+    publishedDateTime: 2022-12-19T13:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-2023-share-and-outlook-of-regulatory-scenario-by-2029-with-top-countries-data-2022-12-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in BFSI Market Opportunities, Demand and Forecasts 2023-2028 with Top Countries Data"
     excerpt: "\" Artificial Intelligence in BFSI Market \" Insights 2022 - By Applications (Banking,Investment and Securities Management,Insuranc), By Types (Recommendation Engines,Chatbots,Predictive Analytics,Other),"
     publishedDateTime: 2022-12-19T08:36:00Z
@@ -88,15 +102,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
-  - title: "Voice Recognition Market 2023 Size | Share, Forecasts Analysis, Company Profiles, Competitive Landscape and Key Regions 2028 | Top Countries Data"
-    excerpt: "The Voice Recognition market report provides an overall assessment of the market for the forecast period. The report"
-    publishedDateTime: 2022-12-16T10:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2023-size-share-forecasts-analysis-company-profiles-competitive-landscape-and-key-regions-2028-top-countries-data-2022-12-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 0
 
 secured: "Ql1VXUHzEhkShdiM+TV4TMp6Nx+pT4es+2KsWTtSVR/DJJQlmfBcYc4hPieOLc6OMoNk3KvBlt9gCvjTRHiQPjlDfEjVUj0GdMCaBQVLwnDd2VfTYo696K8UXcDfdQIpVMRz/tqi/isSQHmXZmxigXe7B2zEabQFRGkn35NGPgha9KezOAJVQyEW2sSO6ZVokElRzzXdZ/MGQZRRGzleCzgII+RlPhlrIQPGt1a799JqCX9FImKH24alBCtKktYGKJS86RF0wzAMZnk2wxL9FJOkF1bAiOy+8sWbnl3M3KLBfOPKbdpcAb6kFI2dou1gfT8LVcfe3YU6aKIOaF9LQp6F6D7a8SmklGwIPqwA7pM=;2AbWwmeikSd+qRYy3tVdBQ=="
 ---

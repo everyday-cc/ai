@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-is-expected-to-witness-impressive-growth-between-2023-and-2028-including-126-pages-report-2022-12-15"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -28,15 +28,57 @@ images:
     isCached: true
 
 related:
-  - title: "Data Science and Machine Learning Service Market environment development trend in 2023 |102 Report Pages"
-    excerpt: "Market Updates (360marketupdates.com) published a new research report on Data Science and Machine Learning Service Market 2023 with 102 Pages Report and enhance with self-explained tables, pie chart and graph in smart format."
-    publishedDateTime: 2022-12-19T05:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-environment-development-trend-in-2023-102-report-pages-2022-12-19"
+  - title: "Legal Tech Artificial Intelligence Market 2023 Is Flourishing Around the World by 2026 | 113 Pages Report"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2022-12-19T05:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-2023-is-flourishing-around-the-world-by-2026-113-pages-report-2022-12-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 32
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automatic Speech Recognition(ASR) Software Market 2023 Expected to Witness the Highest Revenue Growth Over Forecast to 2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Automatic"
+    publishedDateTime: 2022-12-18T02:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-2023-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028-2022-12-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Systems Market Growth and Global Share 2023 | Developing Regions, Emerging Trends and Industry Size Forecast to 2029"
+    excerpt: "Dec (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Face Recognition Systems"
+    publishedDateTime: 2022-12-19T06:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-growth-and-global-share-2023-developing-regions-emerging-trends-and-industry-size-forecast-to-2029-2022-12-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Chatbots Market 2023 : Business Scenario, Corporate Profiles, Size and Dynamic Innovation by 2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Chatbots"
+    publishedDateTime: 2022-12-18T11:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/chatbots-market-2023-business-scenario-corporate-profiles-size-and-dynamic-innovation-by-2028-2022-12-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
 
 secured: "RaFaoxAtshXZxgOjChEC2X7ovgepjspDp2lcur12QyeGpFGqdI/Nlt0EPlHKZyqLIWuM1Z5cryJe7HPAANO1skxoEghmffSpp0LxEJ1RRLyU9ZquhlC2NW7AJxPXQUoOKY7JsJqItNSasn1dKb2EY6dIcF+HFGKaULXqf3hNsnqrcO8ILBYHhXNoh020RbAsm7YjqQDAT2gefuWSqfspB0YBscfnDkEYXMVFkCE6mFfpAIMYBtw0UJD5jj61Wh3dPaM+lL1f+4PAqBtGil0a35QfWbqXXNUSuLmSFHgEQsjyotGuwwtOlc0kHt6XzWdC4cbMPnGLXmSe/0eWgUbN09xiBkPx8oTIC1eyIL2b0ms=;h38rv+XnwIM/+begWFEYxQ=="
 ---

@@ -60,6 +60,20 @@ related:
         width: 772
         height: 409
         isCached: true
+  - title: "2022 - the year in AI and Robotics"
+    excerpt: "However, ChatGPT’s impressive ability to write poetry to order was often superior to its grasp of physics and other subjects, suggesting that we may face years of false information being accepted as fact simply because an AI gave it in answer to a question."
+    publishedDateTime: 2022-12-20T10:21:00Z
+    webUrl: "https://diginomica.com/2022-year-ai-and-robotics"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 71
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2022-12/Screenshot%202022-12-16%20at%2011.33.54.png"
+        width: 1536
+        height: 726
+        isCached: true
   - title: "Engineers help artificial intelligence to learn more safely in the real world"
     excerpt: "Penn State researchers are looking for a safer and more efficient way to use machine learning in the real world. Using a simulated high-rise office building, they developed and tested a new reinforcement learning algorithm aimed at improving energy consumption and occupant comfort in a real-world setting."
     publishedDateTime: 2022-12-19T18:35:00Z

@@ -59,6 +59,20 @@ related:
         width: 620
         height: 350
         isCached: true
+  - title: "ARTPARK-IISc Launches AI-Powered Project Vaani to Make Internet Language-Inclusive"
+    excerpt: "Project Vaani intends to compile comprehensive datasets of transcribed text and spoken language from each district in India and amplify the Indian government’s ‘Digital India’."
+    publishedDateTime: 2022-12-20T09:50:00Z
+    webUrl: "https://analyticsindiamag.com/artpark-iisc-launch-ai-powered-project-vaani-to-make-internet-language-inclusive/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 33
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/ARTPARK-IISc-Launch-AI-Powered-Project-Vaani-to-Make-Internet-Language-Inclusive.png"
+        width: 2240
+        height: 1260
+        isCached: true
 
 secured: "tl9yn3BrBRM039ANz+n9uQiSgnYhLp0A2elGwMIXnnD9oAln7dEFpzraitG9rUoydVmIyS6ZQqSIULhNbgPMl7AEjp3f60LBFxsCerCz/xqd6jUlncfjKq25ir6pfNHLrbpjuqImWHbbw4U+ctbG8OqfS62eMk+O0vVPFOyo2yT5NSRD9z0wKG8KBHtr6jCEb0UqyhOjYmYd14N9X1v0QCZpb3yVVd9EB1ktexN8FupWbPNwkZdhUT9sgATY8qImJ+ECmu1mnAVnA3AhxfnuIh6DzywoBf1HsC8g+J35LrTsIPoLkR7hX1P9pw7YkGDwO4PP3xLgwEP/HSCosiflynlGGimnS3hILjppNDCC4Yg=;XXEM43NWvlFmEB58rIm5Mg=="
 ---

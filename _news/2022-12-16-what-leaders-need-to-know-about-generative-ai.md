@@ -91,6 +91,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "VCs say hybrid work, generative AI, and niche collaboration tools will be some of the top future-of-work trends that dominate 2023"
+    excerpt: "Between the pandemic, Great Resignation, and layoffs, workplaces have changed a lot. Here are the next future-of-work trends VCs say we can expect."
+    publishedDateTime: 2022-12-20T11:30:00Z
+    webUrl: "https://www.businessinsider.com/2023-future-of-work-trend-predictions-vcs-investors-2022-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
+    images:
+      - url: "https://i.insider.com/639cbdd4b5600000185b1a21?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "SilixKRKMVDS3Wfv030eMaEP0VfU0yB8buGt5OVOrFSIWEQ8MN2VabyPy7j4Xx9JmfpWiabgXA4pP2Oen+dXAO/H/KprYWWRd/ZE5BRDatP0W/pDGUGSWGltVfpShX8+g9ovzst53Kwvx4w746mZJgHm9XrHZVrIKYfllxChKh7DWtPoAu52JT/0U6OKcLSpAxJptDqoxccOAj+AMAp3yteqwSBWA/QmgcG2T8ARt+h8AKTCT7ZDhtFNopwYEt/5/S7w8S38PBQ2AvXPAFNqWuqey0Nqj+KdPcfbPiCaiI7vloUgS/6RZ9/Ndm0muM7daDdpj47Fa5snhcgsFKCooZF9d6e4RwGcW99asCwo+bTMEdlpPAYtY2AOc83bq3u2fbtMWFy37JEHJflIlePNFb4ySaE8ZHk108qwoLLR26J5gVPZ+GrvvtuUZTxde1haynTjSZDHn+hzepGdCGYHJHALI2l3YUId6gjUINp7B8St1140cd6TK/g2E8v8vME0gBhl8oDmSnvM3ILfolO3rQ==;h6v+jHRpgfI3Ga8lLvl5IQ=="
 ---

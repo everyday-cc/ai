@@ -636,8 +636,8 @@
       "title": "Parascript Innovates Natural Language Processing for Unstructured Document Automation",
       "excerpt": "LONGMONT, Colo., Dec. 6, 2022 /PRNewswire/ -- Natural Language Processing (NLP) has various use cases within cutting-edge technology, and Parascript, a software company based in Colorado ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/12/n29978984/parascript-innovates-natural-language-processing-for-unstructured-document-automation",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/n29978984/parascript-innovates-natural-language-processing-for-unstructured-document-automation",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/parascript-innovates-natural-language-processing-for-unstructured-document-automation-1031955996",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/parascript-innovates-natural-language-processing-for-unstructured-document-automation-1031955996",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -647,12 +647,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-06T09:08:00-08:00",
+      "publishedDateTime": "2022-12-06T10:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

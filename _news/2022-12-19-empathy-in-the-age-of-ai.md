@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/artificial-intelligence-animals-anthropo
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-animals-anthropomorphism/amp"
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://healthtechmagazine.net/themes/cdw/images/audio/cdw_healthtech_audio.png"
         width: 772
         height: 409
+        isCached: true
+  - title: "2022 - the year in AI and Robotics"
+    excerpt: "However, ChatGPT’s impressive ability to write poetry to order was often superior to its grasp of physics and other subjects, suggesting that we may face years of false information being accepted as fact simply because an AI gave it in answer to a question."
+    publishedDateTime: 2022-12-20T10:21:00Z
+    webUrl: "https://diginomica.com/2022-year-ai-and-robotics"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 71
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2022-12/Screenshot%202022-12-16%20at%2011.33.54.png"
+        width: 1536
+        height: 726
         isCached: true
   - title: "Top 10 artificial intelligence stories of 2022"
     excerpt: "IT strategies have become more data-centric. We look at how this has played out in 2022, with artificial intelligence (AI) deployments."

@@ -23,80 +23,62 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence In Healthcare Service Market 2023 : Production Capacity, Restring Drivers, Size and Landscape Outlook 2028"
-    excerpt: "\" Artificial Intelligence In Healthcare Service Market \" Insights 2022 - By Applications (Patient Data and Risk Analysis, Lifestyle Management and Monitoring, Precision Medicine, In-Patient Care and Hospital Management,"
-    publishedDateTime: 2022-12-18T02:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-service-market-2023-production-capacity-restring-drivers-size-and-landscape-outlook-2028-2022-12-17"
+  - title: "This report on Cognitive Services market covers main driver for the overall market from 2022 to 2028."
+    excerpt: "The market research report of the \" Cognitive Services market \" focuses on the reforms the Cognitive Services market is undergoing in order to cater to the needs of industries and businesses across the globe."
+    publishedDateTime: 2022-12-20T05:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/this-report-on-cognitive-services-market-covers-main-driver-for-the-overall-market-from-2022-to-2028-2022-12-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI In Computer Vision Market 2023 Statistics, Industry Share, Latest Trends, Growth Drivers, Size Estimate and Forecast till 2028"
-    excerpt: "\" AI In Computer Vision Market \" Insights 2022 - By Applications (JHGJGHealthcare, Automotive, Agriculture), By Types (JHGJG Hardware, Software), By Segmentation analysis, Regions and Forecast to 2028."
-    publishedDateTime: 2022-12-18T01:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2023-statistics-industry-share-latest-trends-growth-drivers-size-estimate-and-forecast-till-2028-2022-12-17"
+  - title: "AI in Fintech Market Research Report: Key Trends and Opportunities by State and Territory for period 2022 to 2028."
+    excerpt: "Given that the \" AI in Fintech Market \" is one of the industries growing at the quickest rate, it is essential for market participants to do a thorough study of the industry beforehand. The industry analysis and market research report for the AI in Fintech sector look at the global market from 2022 to 2028."
+    publishedDateTime: 2022-12-17T16:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-research-report-key-trends-and-opportunities-by-state-and-territory-for-period-2022-to-2028-2022-12-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Consulting Market 2023 : Production Capacity, Restring Drivers, Size and Landscape Outlook 2028"
-    excerpt: "Consulting Market \" Insights 2022 - By Applications (Technology Consulting,Management Consultin), By Types (, Strategy Development, Strategy Execution, Commercial Due Diligence, Customer Training), By Segmentation analysis,"
-    publishedDateTime: 2022-12-16T01:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-consulting-market-2023-production-capacity-restring-drivers-size-and-landscape-outlook-2028-2022-12-15"
+  - title: "Self-Driving or Driverless Cars Market 2023 : Industry Analysis, Opportunities, Technology, Top Players and Growth Forecast 2029"
+    excerpt: "Driving or Driverless Cars Market\" is sectioned top to bottom in this review. Worldwide and geological are two"
+    publishedDateTime: 2022-12-19T13:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-2023-industry-analysis-opportunities-technology-top-players-and-growth-forecast-2029-2022-12-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Artificial Intelligence Market 2023 : Company Profile Analysis, Industry Segmentation, Opportunity Assessment and Forecast by 2029"
-    excerpt: "The recent research report published by 360 Research Reports gives an insight into the “ Automotive Artificial Intelligence Market \". According to this published competitive intelligence analysis, this industry expected to experience a promising annual revenue increase (USD in Mn) in 2022."
-    publishedDateTime: 2022-12-19T13:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-2023-company-profile-analysis-industry-segmentation-opportunity-assessment-and-forecast-by-2029-2022-12-19"
+  - title: "Artificial Intelligence in Aviation Market report 2028 focuses on top companys research methodology drivers and opportunities | 115 Pages Report"
+    excerpt: "Market Updates(360marketupdates.com) published a new research report on Artificial Intelligence in Aviation Market"
+    publishedDateTime: 2022-12-16T02:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-report-2028-focuses-on-top-companys-research-methodology-drivers-and-opportunities-115-pages-report-2022-12-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 32
+    quality: 30
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in BFSI Market Opportunities, Demand and Forecasts 2023-2028 with Top Countries Data"
-    excerpt: "\" Artificial Intelligence in BFSI Market \" Insights 2022 - By Applications (Banking,Investment and Securities Management,Insuranc), By Types (Recommendation Engines,Chatbots,Predictive Analytics,Other),"
-    publishedDateTime: 2022-12-19T08:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-bfsi-market-opportunities-demand-and-forecasts-2023-2028-with-top-countries-data-2022-12-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-  - title: "Artificial Intelligence (AI) Consulting Market Market Size 2023 Industry Analysis, Key Players, Regional Demand, Opportunity and Forecast 2028"
-    excerpt: "Consulting Market \" Insights 2022 - By Applications (Technology Consulting, Management Consulting), By Types (, Strategy Development, Strategy Execution, Commercial Due Diligence, Customer Training, ),"
-    publishedDateTime: 2022-12-18T11:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-consulting-market-market-size-2023-industry-analysis-key-players-regional-demand-opportunity-and-forecast-2028-2022-12-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
 
 secured: "LuCP0wp8YoOLgjoIv1DmPqqSG+JXkHTVjqv0DmvFQn65b8RHBIyQEozV3WTeeJifFyCMkdJ+hzGGjZECh6RrSrqhCEOU/d2Df56X+YQv1uEJ5h6T8NWYrbYuslcaK6AcAHH29vw4zKKPEmI8PHGidojH585cJaBnBKV/w7cVQZDeL7bBDC1cOTvsq8zSp+35zT0ryIpn9+1GKz/1kOHhITINH9OQkQmhuibpQI2E7LYC8YPr43Fq8cYnnDC//IjHikPOunYNYgoarizdxO9Y8M7bhPUjh/Xy8u2I6s56WYWKQ1hN1+G4K1qzuSv4qkPvaln2lPeGgUZJvNp/VMQFPMgrxmhxwreeNkz+i6XUUV8=;wB79yipAo2XLHeUJ412UNQ=="
 ---

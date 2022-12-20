@@ -35,15 +35,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "How AI Is Reshaping the Edge Computing Landscape"
-    excerpt: "Nov. 16, 2022 - How much computing power is needed at the edge? How much memory and storage are enough for AI at the edge? Minim"
-    publishedDateTime: 2022-12-15T20:13:00Z
-    webUrl: "https://www.automation.com/en-us/articles/december-2022/ai-reshaping-edge-computing-landscape"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 17
 
 secured: "1Rcm9Q3C+y613CjmluBYwPNKQ7Pktq2oRbeWSN/LQHQXh1NfCuqCLnQHzgFJiylrGWEOeTCT+1RSo+qvRi7qU+Z46CRHew1Rlo6MrqWDBtRBvB2WOvQf8llP/iWIr9nv1G4fQAtWXJ7EyGhrnocPyUFz9iF/zYbrCvYduwRnHQ1ZObUXIRdjU1JyDRIQmgOsremAiHKzeCbu+xd61jBtklVax4co0qWUwLRFj9WhAKP6UZvs6bYYg41a7f6Z2AARbNsrfGudVtXLhHeZ+O2wtDBfTrBX88lTiu76InQWRpiLGLf4EHxg6nN1FCndmZdt5R6NFGS7vFR2iGLBMbSnfylkKfvDgq6y+aoyAqsIPTxD4HSs/4xSrLbKQ0v1zcAKF5gR/FhltZen4k5woYyZ4H1zPYissuz3tDMxUVt4N/DCHUyqJHTnqZYAekipXQLc+xtzMn60HKpCbE4MRmk3+nJcS93LvOro6J5UnPAUtfVf8xZvYHNUKkrXfw9TWj6GbAZVMZcuF0TqIMus5/2JKQ==;hdjic4O0tCp4wvc9hMaoDw=="
 ---

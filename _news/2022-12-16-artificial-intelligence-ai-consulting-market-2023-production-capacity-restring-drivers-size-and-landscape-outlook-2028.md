@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice Recognition Software Market 2023 : Share and Outlook of Regulatory Scenario by 2029 with Top Countries Data"
+    excerpt: "A latest extensive market study titled Global “Voice Recognition Software Market\" Outlook from 2023 to 2029 enfolds"
+    publishedDateTime: 2022-12-19T13:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-2023-share-and-outlook-of-regulatory-scenario-by-2029-with-top-countries-data-2022-12-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automotive Artificial Intelligence Market 2023 : Company Profile Analysis, Industry Segmentation, Opportunity Assessment and Forecast by 2029"
     excerpt: "The recent research report published by 360 Research Reports gives an insight into the “ Automotive Artificial Intelligence Market \". According to this published competitive intelligence analysis, this industry expected to experience a promising annual revenue increase (USD in Mn) in 2022."
     publishedDateTime: 2022-12-19T13:23:00Z
@@ -88,15 +102,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
-  - title: "Voice Recognition Market 2023 Size | Share, Forecasts Analysis, Company Profiles, Competitive Landscape and Key Regions 2028 | Top Countries Data"
-    excerpt: "The Voice Recognition market report provides an overall assessment of the market for the forecast period. The report"
-    publishedDateTime: 2022-12-16T10:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2023-size-share-forecasts-analysis-company-profiles-competitive-landscape-and-key-regions-2028-top-countries-data-2022-12-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 0
 
 secured: "aeIb0QbYIn8Pdvpl2dA/LsajSTlH69swBs0rx4px7GZE3YZK3RgYQcJ66xVntYswRkxdrjsTO6BrHUzgqOdMcEyjd8JIWwlo/nqEDwhtDH1ew96dN1qFbvC2U6HEEG0Js1bTmctVPuDKQ4Tf5V+gQXuW5zFDanwvpcZPz/sGPBsjxmTD5Jnh08Gf1A7EqIpsVejSS8nEr0Wh/2Y/bdbHYqwhOmI/6zZZJ84Y5PQnFH577z9v3eO2+EktiCdgQOaidJLLz/DKhX7FRjc/PAlgJLvFwB9vb8j80bQYjFe2JlF1d7K+rK2fJ5ko/aONqFn/+9KR4f1Db/7HQkyNS/aiXYCXzIZLcn/jfu4v5dzkjBQ=;wgFkCNTkJlbw2PUQ4bnSgQ=="
 ---

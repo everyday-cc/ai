@@ -7,7 +7,7 @@ originalUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/telc
 webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/telcos-divided-over-artificial-intelligence-big-data-benefits/96363374"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1200
     height: 765
     isCached: true
+
+related:
+  - title: "Telecos divided over benefits of artificial intelligence, big data tech"
+    excerpt: "Operators have taken up conflicting positions on the need to create common AI terminology standards before leveraging the new-age technology in the telecom industry"
+    publishedDateTime: 2022-12-20T12:04:00Z
+    webUrl: "https://www.business-standard.com/article/companies/telecom-players-divided-over-benefits-of-artificial-intelligence-big-data-122122000706_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/telecom-players-divided-over-benefits-of-artificial-intelligence-big-data-122122000706_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/telecom-players-divided-over-benefits-of-artificial-intelligence-big-data-122122000706_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 57
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-12/22/full/1640169511-2828.png"
+        width: 618
+        height: 464
+        isCached: true
 
 secured: "xwTrkJSR5Ky4bihkbcDzq7xzcGE285IurIlCQq/aqc76I/5g0op2XL/+yVxfF03fvm6auXvTzv7mz4lVWs21c/bpJAOB6S5G0I3bssgDrJbQq0qur1mxlEBvMyr04rllKjU7EKfcN0iOf7v5gm47aIbTgElX61E3j1FN6HlWE74TTAk1MdhXE3BZeKyuvSUQsShreezU2HE1dDWN3nD7HZvkHo6oEvXqs5eGx3xKwnnE6SPVdzVpTyCHeqyQodqT5JhB6BgITt8jxAJZkbFacgFTnW7v0b473aPUvk6kzsak4VRGf6HJlLf5UeuuT58FmT8FSWHirBSbfGNp9Tm+l0xZYhnS+LJAyOvKgIJquFRweNXIGRU5249lq38YSd+Z2jPiCKZjEa82GMfVX0hN5DQhgpWihEmGj1apRx+mR/fBDhDp92bIlo1N67hQ2YJv+c1CegG/4+SZOqD6tHSQlRXBie8Z+RJy63WwUwZiROczAGQMZA264XUGDhoOrpjlxFGPWAJKaNWjFt59CVK+4w==;0umpKZZitgE1pCov2gykaQ=="
 ---

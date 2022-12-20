@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/international/2292610-google-ce
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/international/2292610-google-ceo-pichai-introduces-ai-model-that-covers-100-indian-languages?amp"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://bestmediainfo.com/uploads/2022/12/1671529698.Sundar-Pichai.jpg"
         width: 620
         height: 350
+        isCached: true
+  - title: "ARTPARK-IISc Launches AI-Powered Project Vaani to Make Internet Language-Inclusive"
+    excerpt: "Project Vaani intends to compile comprehensive datasets of transcribed text and spoken language from each district in India and amplify the Indian government’s ‘Digital India’."
+    publishedDateTime: 2022-12-20T09:50:00Z
+    webUrl: "https://analyticsindiamag.com/artpark-iisc-launch-ai-powered-project-vaani-to-make-internet-language-inclusive/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 33
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/ARTPARK-IISc-Launch-AI-Powered-Project-Vaani-to-Make-Internet-Language-Inclusive.png"
+        width: 2240
+        height: 1260
         isCached: true
 
 secured: "v0HDt/kDPxveMPPsKhcLb8Id9UXGUoUDSbYvKH9CjgJ9N5nUwJJmX3gxOdsMmqtxCzqxxXhWD6uh5ez3vxPmgqfza+iGvkTIukhELTK9sAx05Ca3uiD6hOBNZQZh309DMXN40YLHol5WRcMILtTEFstBDtQc/jxvmrNBGg2xx3T8Og5MWBl7KpxfRiTo1vHT7m5D9aO2KerEXS0kgrlUdcXGBMdQxEpdh6GybXyFopGaeDdPy2qOmgu3rOmkAzGMQPtpfYMD8uMuab86ZY3MreTeA4Kue40hS44RGpc2cor4R4tDiCA/h8ola/V1pRI9GQ26VLcPziTpVjvhDNcBjPqh2VnhdSfsvY7i/Lb2qcc=;Tv7oXIrUHc8k4NHua1JofA=="
