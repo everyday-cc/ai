@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "SparkCognition"
   url: "https://twitter.com/SparkCognition"
-  followers: 5933
+  followers: 5934
 
 size: 201-500 employees
 yearFounded: 2013
