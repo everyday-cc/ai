@@ -2,7 +2,7 @@
 name: "Grammarly"
 overview: "Grammarly’s digital writing assistant helps more than 20 million people write more clearly and effectively every day. In building a product that scales across multiple platforms and devices, Grammarly works to empower users whenever and wherever they communicate."
 type: "profile"
-heat: 273
+heat: 296
 
 website: http://grammarly.com/
 
@@ -38,6 +38,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=N8_AvBRhIGE"
 
-secured: "9INk2E6OjXqrWPYSEcq5NyeK+/VWR03f98QG28oFDeknct7jEpH06loBUy5+/lbEcWSPb4Gn1pDem3LFCi8I/zApGfly5Dwz5WEIy/Adqj43gEVkRvF2urZPBFxHnV8qt6F7er9i8CPmpILF2Pdih4lGGni3zUUxMXjcRK+rpxcYPu1bO+H0rMLZRQREbnsS5dxkKqypt4x+1wTISgcHiOaSStKk5SBML2NI7GPOQOkvF1ZMt1VhTfBAxo4zHqOiQYtg22BhnxSNbCz4pXlZwEMTVEcO8qd4dpkGsh6iy1YlmdLecyuWp2+tbWq6F/gcEqUH//p6xcOEmWmB83V07jSnKonaOru0lW9PvrxgsPCgyMqmvzAiEy5SU0PizvMjxkOsCl9NnjLvl02icaZk7TxDq78aIjs86gsP6K8auz4=;8OTbRweeQbGnowlrufS2Og=="
+secured: "ZBJBIwvSqlItgG3mN1Hm2M6uMEwH6b51hX/oXOzCNrSVe18DSCQbn7Zn3s5+gygtHTdpaIZ5mW2HSf6/mDkbbN2o1WIoSkKDhtuiSN975GngcCzffkiFyqtCANpvhLlEBkVwVrljBPAt93M3YuHZrgQK8hkY8HIgFubWrM23qwW+DBUQtciKhn+zlLj0qTyJNb29ZVbkvST1ADveKMLDz9Pf3FazO7XaJ/uQWBdttGTubYJUXFLF6WyyfCWXsWSVJbcViBfU1iEJHS2RjLEGx9EiSd+gFY7UTITe4xsBzTw1UI0tzpepSFuJ7btVmXI7XNoprm4jwIJhND6rDYhZ9PPlSbpIWd87B+F/ff1U97G579ggDDwWbYoe71xRfZe3Or1ZtzeyR/lDpwgDhLXvac8UwUm75hUc72XpsYdUGmw=;cboDuc3rmrSYLfje6iqDnA=="
 ---
 

@@ -2,7 +2,7 @@
 name: "Gatik"
 overview: "Gatik creates autonomous solutions to tackle expensive urban logistics for businesses. Focusing on B2B cargo delivery, Gatik uses Level 4 automated light trucks and vans to ensure goods are transported efficiently and affordably in city environments between business locations."
 type: "profile"
-heat: 32
+heat: 71
 
 website: http://www.gatik.ai/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "gatik_ai"
   url: "https://twitter.com/gatik_ai"
-  followers: 1330
+  followers: 1331
 
 size: 11-50 employees
 yearFounded: 2017
@@ -41,6 +41,6 @@ images:
     isCached: true
     title: "Gatik"
 
-secured: "lzPF2GcLtpB0EWeem+DSY0amHGTxf9qJCoAex3HarhfrDiGBB5NWDiIq60zherF5OoYotk3GXpnHjuDqmHC/ZcOoE/nCko4cpW16mQCwrBoffck0UaDfKEYrfriaSv5OOccn7ozTM/teOeh3xWG+BRGRAFkwDaURsk2T2qI4cwhF3Qg2qb1T0GiXjqnD2WM/nqkbNDd3snlZf6riVnGw/Eo0dMNRfYLcw4HgjXv/793EO9jJXkAYJU/9HaGPryHuo3h1lhKzaYTf09hcSooa0LZAStG737rZMkilYxPbkhmZxnC/QIHwSRnIXTrtXQwzaaNnr2XqcVNfZsjEJNNyWMQPOY8IgZsUkRN3s+mUgfVn+GmSnfqayDZOAKtbEKNZmqMwdXf1aTjNwMAWpEMOb9bpviKZpYpVr+id48VkGbs=;E3WnoqMqapdOxT+gyBY3xA=="
+secured: "o5youXoOpOrsuDVtzodk8c0DMeuASvcCZi1yuNbJ+o041LezkYDEf9daVXdCtI+sul745g0mSUs8VJFGTq+3tB4vxRcPy7P34RajhfXNVazOjDkhdiLXju1sBiaXqKe+9N7mPlEksV2+mohpmQI38FzTL8oUESJFeXKtiDK45zWZM+CldyL0JhR3yiVwAB4eBOSY1cNv6Y013j4Juux7f+YyHQFB4eNzQj1tDyum9eEtdj2Iby53hcC4+sStQmdyCr6TtqqXGUw3TDUf265GUzDGepvSxG4FwLBEuRrX99Lb6lbbUK0pX9n1UiLJrI+IQDtjvZZKJch7BNPUNsMQlfqDSzzeAmuT2J4lltbW1hHK3Ns9RhBB8Fi24J3YgMU2WVDbAQUv2mlAkQRvJNOLhxx6B3Zg3dfLx4mCybSGxww=;TLzQSY2UBh/tXkk5HpzEog=="
 ---
 

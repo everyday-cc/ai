@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "May_Mobility"
   url: "https://twitter.com/May_Mobility"
-  followers: 2708
+  followers: 2707
 
 size: 51-200 employees
 yearFounded: 2017
@@ -45,6 +45,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "uZf5LiO7cdNy4P61RxjBofvGgQqK5eA343c/IxExy7WY8OGWi3F9BTT/MozUatyuWmhbD4oJSNpXlTHQ0G6XEcCtgh7pmyYREfnfpYYyudihlFq/ntfaiucuas4GiWi8OL2r7Y3n7NvMHx2S1MtzgyfNSI5IHIqjqJxW3eQMA0wk15R33V1nN4lQYiDHdUqdHmW2uNwHLqUbd32Pk3ihLEbvEab48EXieMlgLwh+o6ENJeSO6CNVU+Xkis8BBsCQpVToAgw+nmunDQcuhQxb8QbcDyRAOl3iCfhhoJg9xmd6qKHTyfwpULSt4X8StRdGh1lnyHLyNQ81oBoPM1WpQje00EO5QsuWOOAhmwVJ+t0TIrhclyEF68iSxIBioEDbIvukggEqs0UyGOOafuZ+F5XPYx/zOn4YoVUEg4VWses=;u85vykoVpe/CemiQnothlQ=="
+secured: "fU2uoBlgjVjubJyhN8RfZhinP/ikaUbd6dtQLGH4+cXWczq+F7ZIc0YCjZiUtR2/ipo2WPjuI0/g+oMtDdvCtig02XcUf3GYMqJ5Uenl+1ALH7PxR+oZRMHX49+oV1BEDZXeubRFVjEANBadS97mkF7/gOpz0oEXRPJ2OjqdokI2AoUuHl0EfTKADyYx56sgKO7ip7AYVEA5Wpy9vzaOW4de2e8HX2qma2hwLx3MDFaEmXbd92JoB40kOaFjLycJwQt2ImBj/h16lkqAK7E+U5pyiE6z0zguZsv20yNpxi07qoQFqGgDsjrTq0ePGJXbr+AJSaTKL8c6gDlgKWz9Fv/cY2+P+0KdBkPCbWQrJdsD8BdMlw9gKFdY/u5eHxVJl7kZlPSAGQ2O8HfP25s81/fscj71yNv9taAumWivDHc=;OhtzQ/hjLsvq1yF5qXLdkg=="
 ---
 
