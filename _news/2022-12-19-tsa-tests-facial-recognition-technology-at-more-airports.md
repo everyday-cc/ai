@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technol
 cdnAmpWebUrl: "https://www-ktre-com.cdn.ampproject.org/c/s/www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/?outputType=amp"
 type: article
 quality: 74
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -69,6 +69,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Stalking-horse report on facial recognition in Indian airports draws arrows"
+    excerpt: "The 74-page report about responsible AI has been quickly criticized by the Software Freedom Law Center and IFF for being incomplete."
+    publishedDateTime: 2022-12-20T19:54:00Z
+    webUrl: "https://www.biometricupdate.com/202212/stalking-horse-report-on-facial-recognition-in-indian-airports-draws-arrows"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 32
   - title: "Facial recognition software for employee time and attendance reports launched by RecFaces"
     excerpt: "RecFaces has launched a facial recognition software solution for employee time and attendance tracking with autonomously operating terminals."
     publishedDateTime: 2022-12-20T17:14:00Z

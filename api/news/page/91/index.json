@@ -2,6 +2,170 @@
   "page": 91,
   "value": [
     {
+      "path": "_news/2022-10-01-tesla-unveils-humanoid-optimus-robot-at-ai-event.md",
+      "title": "Tesla unveils humanoid 'Optimus' robot at AI event",
+      "excerpt": "Musk presented the robot during his display at Tesla's AI Day on Friday. The bot runs on the company's artificial intelligence software, which is used in Tesla vehicles for full self-driving and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonexaminer.com/news/tesla-unveils-humanoid-optimus-robot-ai-event",
+      "originalUrl": "https://www.washingtonexaminer.com/news/tesla-unveils-humanoid-optimus-robot-ai-event",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediadc.brightspotcdn.com/dims4/default/9447613/2147483647/strip/true/crop/2390x1255+0+56/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fa3%2F9d%2F4575bea54fcbbf8d55137e0fa42d%2Ftesla.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-30T19:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-01-two-birds-one-stone-strategy-to-treat-both-joint-pain-and-cognitive-impairment-in-rheumatoid-arthritis.md",
+      "title": "Two birds one stone strategy to treat both joint pain and cognitive impairment in rheumatoid arthritis",
+      "excerpt": "But did you know that the disease is also commonly accompanied by neuropsychiatric complications, such as cognitive impairment and depression? Previous studies show that up to 70% of RA patients ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/09/220929133330.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/09/220929133330.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-30T17:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-01-how-smart-are-ai-chips-really.md",
+      "title": "How Smart Are AI Chips, Really?",
+      "excerpt": "But this is Hackaday, so we’re also going to dig into the guts of some AI chips, including the Kendryte K210 and see how the hardware of today fits into our Glorious Future. Targeted towards ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/",
+      "originalUrl": "https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2019/02/rifroheader.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-01-study-helps-understand-how-brain-pathology-influences-the-development-of-cognitive-fatigue-in-ms-patients.md",
+      "title": "Study helps understand how brain pathology influences the development of cognitive fatigue in MS patients",
+      "excerpt": "Their findings were reported in Frontiers in Neurology on July 04, 2022, in the open access article \"Associations of White Matter and Basal Ganglia Microstructure to Cognitive Fatigue Rate in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20221001/Study-helps-understand-how-brain-pathology-influences-the-development-of-cognitive-fatigue-in-MS-patients.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20221001/Study-helps-understand-how-brain-pathology-influences-the-development-of-cognitive-fatigue-in-MS-patients.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-01-google-pixel-7-and-pro-might-support-secure-face-unlock.md",
       "title": "Google Pixel 7 and Pro might support secure Face Unlock",
       "excerpt": "Reports in April hinted that Google is working on face recognition support for its Pixel phones despite ditching its Face ID-like technology. Google introduced its version of 3D face recognition ...",
@@ -989,199 +1153,6 @@
         "AI",
         "AI in Autos",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-tesla-unveils-the-hands-of-its-humanoid-robot-ahead-of-full-unveil-today.md",
-      "title": "Tesla unveils the hands of its humanoid robot ahead of full unveil today",
-      "excerpt": "Tesla is teasing the hands of its humanoid Optimus robot that is going to be fully unveiled at its AI Day event later today. Today, Tesla is expected to hold its AI Day 2 in Palo Alto starting at 5 p.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/",
-      "originalUrl": "https://electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Robot-hands.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/amp/",
-      "publishedDateTime": "2022-09-30T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-driverless-delivery-vans-market-trends-key-players-drot-analysis-forecast-till-2028.md",
-      "title": "Driverless Delivery Vans Market Trends, Key Players, DROT, Analysis & Forecast Till 2028",
-      "excerpt": "The driverless delivery vans market is driven by the favorable initiatives and legislation by the governments across the world for self-driving",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/driverless-delivery-vans-market-trends-key-players-drot-analysis-forecast-till-2028-2022-09-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/driverless-delivery-vans-market-trends-key-players-drot-analysis-forecast-till-2028-2022-09-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-30T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work.md",
-      "title": "Tesla AI Day 2022: How to Watch Elon Musk's Optimus Robot, Self Driving Car Work",
-      "excerpt": "There, too, Tesla developed custom AI chips. \"Tesla's inference engine is among the best in performance..., giving them a real advantage,\" said Keith McMillen, CEO of BeBop Sensors, a startup designing touch sensors robots can use. FSD, short for Full ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 643,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/59754357fb02580cafd46f1744e2f40d12389a1f/hub/2022/09/23/106011fa-bdbe-45ae-b52c-a9c9d5d218b6/tesla-bot-optimus.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
-      "publishedDateTime": "2022-09-30T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-amazon-vp-explains-how-to-move-past-limits-of-machine-learning.md",
-      "title": "Amazon VP explains how to move past limits of machine learning",
-      "excerpt": "Many companies believe machine learning is the solution to their problems, but it can’t overcome bad data and metrics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/amazon-vp-explains-how-to-move-past-limits-of-machine-learning",
-      "originalUrl": "https://www.freightwaves.com/news/amazon-vp-explains-how-to-move-past-limits-of-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2022/09/Amazons-Matt-Taddy.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/amazon-vp-explains-how-to-move-past-limits-of-machine-learning/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/amazon-vp-explains-how-to-move-past-limits-of-machine-learning/amp",
-      "publishedDateTime": "2022-09-30T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

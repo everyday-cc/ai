@@ -28,66 +28,43 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence In Healthcare Service Market 2023 : Production Capacity, Restring Drivers, Size and Landscape Outlook 2028"
-    excerpt: "\" Artificial Intelligence In Healthcare Service Market \" Insights 2022 - By Applications (Patient Data and Risk Analysis, Lifestyle Management and Monitoring, Precision Medicine, In-Patient Care and Hospital Management,"
-    publishedDateTime: 2022-12-18T02:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-service-market-2023-production-capacity-restring-drivers-size-and-landscape-outlook-2028-2022-12-17"
+  - title: "Healthcare Natural Language Processing (NLP) Market Geographical Segmentation By Forecast Revenue 2023-2029"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Dec 19, 2022 (The Expresswire) -- “Healthcare Natural Language Processing (NLP) Market\" is segmented by Company, Region (country), By Type, Application, stakeholders and ..."
+    publishedDateTime: 2022-12-19T00:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-geographical-segmentation-by-forecast-revenue-2023-2029-2022-12-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
+    quality: 63
+  - title: "Artificial Intelligence in Precision Medicine Market 2023 Recent Developments, Ongoing Trend & Regional Forecast to 2028"
+    excerpt: "Dec (The Expresswire) -- \"\"Artificial Intelligence in Precision Medicine Market\"\" Insights 2023 | New Updated Report [ No of Pages 80 ] The"
+    publishedDateTime: 2022-12-20T16:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-medicine-market-2023-recent-developments-ongoing-trend-regional-forecast-to-2028-2022-12-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI In Computer Vision Market 2023 Statistics, Industry Share, Latest Trends, Growth Drivers, Size Estimate and Forecast till 2028"
-    excerpt: "\" AI In Computer Vision Market \" Insights 2022 - By Applications (JHGJGHealthcare, Automotive, Agriculture), By Types (JHGJG Hardware, Software), By Segmentation analysis, Regions and Forecast to 2028."
-    publishedDateTime: 2022-12-18T01:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2023-statistics-industry-share-latest-trends-growth-drivers-size-estimate-and-forecast-till-2028-2022-12-17"
+  - title: "Face Recognition Systems Market Growth and Global Share 2023 | Developing Regions, Emerging Trends and Industry Size Forecast to 2029"
+    excerpt: "Dec (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Face Recognition Systems"
+    publishedDateTime: 2022-12-19T06:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-growth-and-global-share-2023-developing-regions-emerging-trends-and-industry-size-forecast-to-2029-2022-12-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Software Market 2023 : Share and Outlook of Regulatory Scenario by 2029 with Top Countries Data"
-    excerpt: "A latest extensive market study titled Global “Voice Recognition Software Market\" Outlook from 2023 to 2029 enfolds"
-    publishedDateTime: 2022-12-19T13:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-2023-share-and-outlook-of-regulatory-scenario-by-2029-with-top-countries-data-2022-12-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in BFSI Market Opportunities, Demand and Forecasts 2023-2028 with Top Countries Data"
-    excerpt: "\" Artificial Intelligence in BFSI Market \" Insights 2022 - By Applications (Banking,Investment and Securities Management,Insuranc), By Types (Recommendation Engines,Chatbots,Predictive Analytics,Other),"
-    publishedDateTime: 2022-12-19T08:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-bfsi-market-opportunities-demand-and-forecasts-2023-2028-with-top-countries-data-2022-12-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-  - title: "Artificial Intelligence (AI) Consulting Market Market Size 2023 Industry Analysis, Key Players, Regional Demand, Opportunity and Forecast 2028"
-    excerpt: "Consulting Market \" Insights 2022 - By Applications (Technology Consulting, Management Consulting), By Types (, Strategy Development, Strategy Execution, Commercial Due Diligence, Customer Training, ),"
-    publishedDateTime: 2022-12-18T11:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-consulting-market-market-size-2023-industry-analysis-key-players-regional-demand-opportunity-and-forecast-2028-2022-12-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
 
 secured: "Ql1VXUHzEhkShdiM+TV4TMp6Nx+pT4es+2KsWTtSVR/DJJQlmfBcYc4hPieOLc6OMoNk3KvBlt9gCvjTRHiQPjlDfEjVUj0GdMCaBQVLwnDd2VfTYo696K8UXcDfdQIpVMRz/tqi/isSQHmXZmxigXe7B2zEabQFRGkn35NGPgha9KezOAJVQyEW2sSO6ZVokElRzzXdZ/MGQZRRGzleCzgII+RlPhlrIQPGt1a799JqCX9FImKH24alBCtKktYGKJS86RF0wzAMZnk2wxL9FJOkF1bAiOy+8sWbnl3M3KLBfOPKbdpcAb6kFI2dou1gfT8LVcfe3YU6aKIOaF9LQp6F6D7a8SmklGwIPqwA7pM=;2AbWwmeikSd+qRYy3tVdBQ=="
 ---

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-29-ucl-computer-science-to-explore-natural-language-processing-on-quantum-computers-for-content-discovery-and-archive-retrieval.md",
+      "title": "UCL Computer Science To Explore Natural Language Processing On Quantum Computers For Content Discovery and Archive Retrieval",
+      "excerpt": "to explore the industrial relevance of quantum natural language processing (QNLP) and quantum-inspired natural language processing. The BBC hopes to find new ways to represent content in forms ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/ucl-computer-science-explore-natural-language-processing-quantum-computers-content",
+      "originalUrl": "https://www.asiaone.com/business/ucl-computer-science-explore-natural-language-processing-quantum-computers-content",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Nov2022/pr-newswire_500_4_1738.jpg?h=7de12b8a&itok=hzg9EbjN",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-28T15:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-29-where-cisos-rely-on-ai-and-machine-learning-to-strengthen-cybersecurity.md",
       "title": "Where CISOs rely on AI and machine learning to strengthen cybersecurity",
       "excerpt": "However, artificial intelligence (AI) and machine learning (ML) are proving effective in strengthening cybersecurity by scaling data analysis volume while increasing response speeds and securing digital transformation projects under construction. “",
@@ -1374,49 +1417,6 @@
       "provider": {
         "name": "syncedreview",
         "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-ceva-introduces-voice-user-interface-solution-for-ti-simplelink-wi-fi-wireless-mcus.md",
-      "title": "CEVA Introduces Voice User Interface Solution for TI SimpleLink™ Wi-Fi® Wireless MCUs",
-      "excerpt": "ROCKVILLE, Md., Nov. 15, 2022 -- CEVA, Inc. (NASDAQ: CEVA), the leading licensor of wireless connectivity and smart sensing technologies and co-creation solutions, announced today the availability of its WhisPro™ speech recognition and control software ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/news/53020/ceva-voice-user-interface-solution-for-ti-simplelink-wi-fi-wireless-mcus.html",
-      "originalUrl": "https://www.design-reuse.com/news/53020/ceva-voice-user-interface-solution-for-ti-simplelink-wi-fi-wireless-mcus.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.design-reuse.com/news_img2/homepage53020/cevb.jpg",
-          "width": 1074,
-          "height": 444,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-15T04:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
         "images": null,
         "publishers": null,
         "authors": null

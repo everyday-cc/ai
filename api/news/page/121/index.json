@@ -2,6 +2,186 @@
   "page": 121,
   "value": [
     {
+      "path": "_news/2022-09-08-robotic-assistance-devices-to-unveil-the-long-awaited-rio-project-at-gsx.md",
+      "title": "Robotic Assistance Devices to unveil the long-awaited RIO project at GSX",
+      "excerpt": "Artificial Intelligence Technology Solutions announced that its wholly owned subsidiary Robotic Assistance Devices will formally unveil the long-awaited RIO project at GSX this month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.securityinfowatch.com/gsx/article/21280006/robotic-assistance-devices-rad-robotic-assistance-devices-to-unveil-the-longawaited-rio-project-at-gsx",
+      "originalUrl": "https://www.securityinfowatch.com/gsx/article/21280006/robotic-assistance-devices-rad-robotic-assistance-devices-to-unveil-the-longawaited-rio-project-at-gsx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/09/RIO_Gsx_2022.63190ab78f766.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-07T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security",
+        "domain": "securityinfowatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-08-umethod-getlabs-partner-to-make-personalized-cognitive-decline-care-plans-accessible-in-arizona.md",
+      "title": "uMETHOD, Getlabs partner to make personalized cognitive decline care plans accessible in Arizona",
+      "excerpt": "One of the biggest reasons why cognitive decline patients can’t adhere to their care plans is unfulfilled lab orders, he said in an interview. By adding Getlabs’ at-home phlebotomy services to ...",
+      "sourceUrl": null,
+      "webUrl": "https://medcitynews.com/2022/09/umethod-getlabs-partner-to-make-personalized-cognitive-decline-care-plans-accessible-in-arizona/",
+      "originalUrl": "https://medcitynews.com/2022/09/umethod-getlabs-partner-to-make-personalized-cognitive-decline-care-plans-accessible-in-arizona/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medcitynews.com/uploads/2021/06/GettyImages-1174687693.jpg",
+          "width": 626,
+          "height": 557,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-07T14:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedCity News",
+        "domain": "medcitynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-08-mohali-mc-turns-to-face-recognition-attendance-system-to-rein-in-absence.md",
+      "title": "Mohali MC turns to face recognition attendance system to rein in absence",
+      "excerpt": "Working to curb unauthorised absence at the municipal corporation office, the civic body’s finance and contract committee on Wednesday gave the nod for a face-recognition attendance system for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/cities/chandigarh-news/mohali-mc-turns-to-face-recognition-attendance-system-to-rein-in-absence-101662585164173.html",
+      "originalUrl": "https://www.hindustantimes.com/cities/chandigarh-news/mohali-mc-turns-to-face-recognition-attendance-system-to-rein-in-absence-101662585164173.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/09/07/1600x900/f9dfc766-2eee-11ed-b360-96b459ca4506_1662585162670.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/cities/chandigarh-news/mohali-mc-turns-to-face-recognition-attendance-system-to-rein-in-absence-101662585164173-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/chandigarh-news/mohali-mc-turns-to-face-recognition-attendance-system-to-rein-in-absence-101662585164173-amp.html",
+      "publishedDateTime": "2022-09-07T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-08-hebbia-raises-30m-to-launch-an-ai-powered-document-search-tool.md",
+      "title": "Hebbia raises $30M to launch an AI-powered document search tool",
+      "excerpt": "Hebbia, a startup developing AI-powered search tools, has raised $30 million in a venture funding round as it launches a commercial offering.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/07/hebbia-raises-30m-to-launch-an-ai-powered-document-search-tool/",
+      "originalUrl": "https://techcrunch.com/2022/09/07/hebbia-raises-30m-to-launch-an-ai-powered-document-search-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-618355044.jpg?w=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/07/hebbia-raises-30m-to-launch-an-ai-powered-document-search-tool/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/07/hebbia-raises-30m-to-launch-an-ai-powered-document-search-tool/amp/",
+      "publishedDateTime": "2022-09-07T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-07-transfer-learning-for-tensorflow-image-classification-models-in-amazon-sagemaker.md",
       "title": "Transfer learning for TensorFlow image classification models in Amazon SageMaker",
       "excerpt": "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised",

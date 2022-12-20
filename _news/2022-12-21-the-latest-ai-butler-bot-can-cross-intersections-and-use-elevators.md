@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-20T18:33:00Z
 originalUrl: "https://mashable.com/video/cubot-one-delivery-robot"
 webUrl: "https://mashable.com/video/cubot-one-delivery-robot"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Mashable

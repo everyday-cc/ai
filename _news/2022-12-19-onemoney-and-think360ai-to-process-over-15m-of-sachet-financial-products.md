@@ -7,7 +7,7 @@ originalUrl: "https://ibsintelligence.com/ibsi-news/onemoney-and-think360-ai-to-
 webUrl: "https://ibsintelligence.com/ibsi-news/onemoney-and-think360-ai-to-process-over-15m-of-sachet-financial-products/"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 300
     height: 250
     isCached: true
-
-related:
-  - title: "NOW Money Selects ThetaRay AI Tech to Prevent Financial Crime"
-    excerpt: "Money, the mobile banking solution focused on financial inclusion, teams up with ThetaRay, a provider of transaction monitoring tech,"
-    publishedDateTime: 2022-12-16T03:48:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/12/199933-now-money-selects-thetaray-ai-tech-to-prevent-financial-crime/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 39
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Hands-Up-Arrest-Halt-Stop.jpeg"
-        width: 1122
-        height: 1280
-        isCached: true
 
 secured: "BQCPxTev8QNWRORiDikpNgrXO6mC9isY0ZrATV2Pgqbwq8Uia33lGwb+gZsPV9mSSdtpgH+J+i3+9KBwKyImSWQntqLRcpMIPkcrBdukMvZslGcWrVm18t4OlBmav5h2blD/r6dy1fbOUkARZIRNPgNcFTMvDOsT2AqWl4TFdWkafXMJwDEoZxj2PbbxUaed83j08y9EbRWkjaSPaN0MSYECl/lAt4CQgxakymgc0GZg0S5oYrdv7U+V3p8545zbVHLmtHDZh9qIpwO4+dzlx/Y7AIpbl2DjtO6CIyKLI0cHvqI8mGHbIJ+ioh8ulfbrAWZ5+72z8e+F7pjivtRN/H+L8dIeXxi3SDd8BxCQoMhaG+7jXfaxubNnr6uYVQfmtZBtpurnd/RHkJD1Jg8HPrP3iw7Jyy9bqE7AighyUyF/3uohPqXKn6OFk9pZDeWyN10gEj5KqrtT1vQlOca/mBSK2ILFKGVDzqcz16sHjSA5nCzU90dTRQ/cH7CHpcRU5S3z+DKt807wr7b47SwLSA==;fILNmoqNQ+zXYVi5uArxTw=="
 ---

@@ -61,6 +61,20 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "OpenAI develops AI system capable of generating 3D models"
+    excerpt: "E, a new artificial intelligence system that can generate 3D models based on text prompts. The research group has made the code for POINT-E available on GitHub. There are multiple AI applications that can generate two-dimensional images based on a text description provided by a user."
+    publishedDateTime: 2022-12-20T20:31:00Z
+    webUrl: "https://siliconangle.com/2022/12/20/openai-develops-ai-system-capable-generating-3d-models/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/openai-1.png"
+        width: 859
+        height: 478
+        isCached: true
 
 secured: "CxLf08n7lKL++P9yqXlrvJswpwM7+z3566sVOwXkF3uH+YFQFoqUNNj2GyteQxgQ+VEEDh+FMSQCMR2nzz1Hd6Rb1cximh/oMcR/tqUyGXGKfGCU/u69YzbpBNKSuGUigrdjqhRljUgnEIKdZxaZeUKMFSPgWVgWF2eHyCN3BxtXEV0l+WnnqIDeiTgmPl2fCsb70mY8HSiVa6IYMrDR5Ti5W+Hx17lVrYQ0K83brGlaHAyFuREmC/0pmdJxf6RRdiyD6lVnEJ68neiv3dFGKN5n/j8emrecUykY9y3/OOjmqPdsgKrBo/+X3FObTqyjGplJPRbh8ab83HtsV/lDy0vxIOUkfeKlTv42pFv8kj6LeJHvv8DywwfQBWJEAhi7fUz5T6vCq60Y5n5PrReLxtCaMI2etJxcfTkiSJL16JOmt5bV4OvgNwaAKMHMhGOyOLlJyJhTzqujIFbLiKKyaAPW07zJTUUV7JSlhmbgV5/A+ZTJseS9KcEhNL5sOc6KarLCx9pppDncYntDoEcPvQ==;5k91Iai8da/wmhOv4zXmkQ=="
 ---

@@ -29,43 +29,43 @@ images:
     isCached: true
 
 related:
-  - title: "Legal Tech Artificial Intelligence Market 2023 Is Flourishing Around the World by 2026 | 113 Pages Report"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2022-12-19T05:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-2023-is-flourishing-around-the-world-by-2026-113-pages-report-2022-12-19"
+  - title: "Healthcare Natural Language Processing (NLP) Market Geographical Segmentation By Forecast Revenue 2023-2029"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Dec 19, 2022 (The Expresswire) -- “Healthcare Natural Language Processing (NLP) Market\" is segmented by Company, Region (country), By Type, Application, stakeholders and ..."
+    publishedDateTime: 2022-12-19T00:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-geographical-segmentation-by-forecast-revenue-2023-2029-2022-12-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 63
+  - title: "Artificial Intelligence in Precision Medicine Market 2023 Recent Developments, Ongoing Trend & Regional Forecast to 2028"
+    excerpt: "Dec (The Expresswire) -- \"\"Artificial Intelligence in Precision Medicine Market\"\" Insights 2023 | New Updated Report [ No of Pages 80 ] The"
+    publishedDateTime: 2022-12-20T16:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-medicine-market-2023-recent-developments-ongoing-trend-regional-forecast-to-2028-2022-12-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Automatic Speech Recognition(ASR) Software Market 2023 Expected to Witness the Highest Revenue Growth Over Forecast to 2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Automatic"
-    publishedDateTime: 2022-12-18T02:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-2023-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028-2022-12-17"
+  - title: "Automotive Artificial Intelligence Market 2023 : Company Profile Analysis, Industry Segmentation, Opportunity Assessment and Forecast by 2029"
+    excerpt: "The recent research report published by 360 Research Reports gives an insight into the “ Automotive Artificial Intelligence Market \". According to this published competitive intelligence analysis, this industry expected to experience a promising annual revenue increase (USD in Mn) in 2022."
+    publishedDateTime: 2022-12-19T13:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-2023-company-profile-analysis-industry-segmentation-opportunity-assessment-and-forecast-by-2029-2022-12-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
+    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Chatbots Market 2023 : Business Scenario, Corporate Profiles, Size and Dynamic Innovation by 2028"
-    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Chatbots"
-    publishedDateTime: 2022-12-18T11:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/chatbots-market-2023-business-scenario-corporate-profiles-size-and-dynamic-innovation-by-2028-2022-12-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 21
 
 secured: "HGsIfuS10SvxSM/SCPGh4bc7N5pcycBCCOlEx+qKg6iE07f+Mvf45jcXTCmAhng2btBgZnDNpiyM8NBFiWZC5qnU2lrlEDp7o8KR4BxrGjmFyq3IdnB6QfVhz3Z9FK2ltfYUSVxmOXC8Z7dO0ttinVytElAzSCtWO4H5Egt4KDb6AM2a43e+1CpJhQtWhsyVjMQm196JMJgZoL/1Q/o8mOP7U4ypuRw/RXKYr8Fu/9rBb1czLOH3w1Fdt9I65OQicmyWncdv7zK9Kd1Y61VrqYtFerJnRn+Hxk2ZFTxIq/FwvLLX4RhU+VBPuScLdHRBg/Fwd/cLweQ86qvYK37Y85jHOWxYk2FPeZCKXmRvyAc=;JO/e8n/SYTxjgj0LGO9xBw=="
 ---

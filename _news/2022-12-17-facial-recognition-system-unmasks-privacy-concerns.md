@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newindianexpress.com/states/tamil-nadu/2022/dec/17/facia
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/tamil-nadu/2022/dec/17/facial-recognition-system-unmasks-privacy-concerns-2528937.amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 600
     height: 390
     isCached: true
-
-related:
-  - title: "The 2023 Genesis GV60 unlocks using facial recognition and fingerprint ignition"
-    excerpt: "The £54,000 GV60 electric SUV will debut a number of new state-of-the art biometric features - and it means motorists won't need a key to open the doors or drive it."
-    publishedDateTime: 2022-12-16T06:00:00Z
-    webUrl: "https://www.thisismoney.co.uk/money/cars/article-11536991/The-2023-Genesis-GV60-unlocks-using-facial-recognition-fingerprint-ignition.html"
-    ampWebUrl: "https://www.thisismoney.co.uk/money/cars/article-11536991/amp/The-2023-Genesis-GV60-unlocks-using-facial-recognition-fingerprint-ignition.html"
-    cdnAmpWebUrl: "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/cars/article-11536991/amp/The-2023-Genesis-GV60-unlocks-using-facial-recognition-fingerprint-ignition.html"
-    type: article
-    provider:
-      name: This is Money
-      domain: thisismoney.co.uk
-    quality: 55
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/12/16/08/65647741-0-image-a-2_1671178832008.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "R/BNRTmamauU8A9YiJWQCl/5Z7SYRo9p6W2GmlP6f5PKpr/PkJoYj3UeTJvatwbPbna/W/rDoEGiW1W+AU1Smqv6lCZ264Lw0APnXHJNLXSPJSmynTHSFKJ+M34xFoJRkLDXNGu/vCID3WARi0TyEilVCt0vvOl2yrBzSIOSRXJzteiK0iBB4Vii3eQ/V2QpdQj1pfwa6UuMv4MAkG3Eiq4mkTgRMR+xf3YXNQSfnB1LHhd76nKvMJwXz2CXDSW7a8CigAfcCKEbkaMTpNlaJXORgjtFVA+y0msAA+ZHYwS4HEi2enbvJu8msJe+pvWJA/ww72znb9XKodJIauFVAybroyJg7aRdJuHhxcv60dg=;fwmVR3ckumjJ+AU9Va3FSg=="
 ---

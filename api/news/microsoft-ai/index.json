@@ -954,6 +954,50 @@
       ]
     },
     {
+      "path": "_news/2022-12-08-healthcare-cognitive-computing-market-growth-business-overview-2022-and-forecast-to-2028-ibm-google-microsoft.md",
+      "title": "Healthcare Cognitive Computing Market Growth, Business Overview 2022, and Forecast to 2028| IBM, Google, Microsoft",
+      "excerpt": "The global Healthcare Cognitive Computing Market research provides a comprehensive review of the industry worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-cognitive-computing-market-growth-business-overview-2022-and-forecast-to-2028-ibm-google-microsoft-2022-12-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-cognitive-computing-market-growth-business-overview-2022-and-forecast-to-2028-ibm-google-microsoft-2022-12-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T22:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-12-08-deutsche-commits-to-using-ai-tech-from-nvidia-throughout-the-bank.md",
       "title": "Deutsche commits to using AI tech from Nvidia throughout the bank",
       "excerpt": "Deutsche Bank has doubled down on its use of artificial intelligence. The Frankfurt-based bank announced on Wednesday a multi-year partnership with Santa Clara, California-based tech company Nvidia to accelerate and improve artificial intelligence and machine learning throughout the bank.",
@@ -1306,58 +1350,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-a-conversation-with-kevin-scott-whats-next-in-ai.md",
-      "title": "A conversation with Kevin Scott: What’s next in AI",
-      "excerpt": "The post A conversation with Kevin Scott: What’s next in AI appeared first on The AI Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/",
-      "originalUrl": "https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blogs.microsoft.com/wp-content/uploads/prod/sites/3/2022/12/A-conversation-with-Kevin-Scott-social-1024x538.jpg",
-          "width": 1024,
-          "height": 538,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-06T09:29:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

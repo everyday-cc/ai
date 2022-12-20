@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-20T19:36:00Z
 originalUrl: "https://betakit.com/vector-health-labs-acquires-ai-driven-mental-health-tech-startup-get-a-head/"
 webUrl: "https://betakit.com/vector-health-labs-acquires-ai-driven-mental-health-tech-startup-get-a-head/"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: BetaKit

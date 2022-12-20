@@ -53,7 +53,7 @@
       "originalUrl": "https://www.forbes.com/sites/robtoews/2022/12/20/10-ai-predictions-for-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -298,58 +298,6 @@
       ]
     },
     {
-      "path": "_news/2022-12-19-legal-tech-artificial-intelligence-market-2023-is-flourishing-around-the-world-by-2026-113-pages-report.md",
-      "title": "Legal Tech Artificial Intelligence Market 2023 Is Flourishing Around the World by 2026 | 113 Pages Report",
-      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-2023-is-flourishing-around-the-world-by-2026-113-pages-report-2022-12-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-2023-is-flourishing-around-the-world-by-2026-113-pages-report-2022-12-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-18T21:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-19-with-robots-and-ai-a-five-star-hotel-to-help-honeybees.md",
       "title": "With robots and AI, a “five-star hotel” to help honeybees",
       "excerpt": "Beewise, a 4-year-old startup based in Oakland, California, offers a particularly inspiring example of how robotics and AI might radically slow and even reverse the global honeybee die-off.",
@@ -380,112 +328,6 @@
         "name": "Indiatimes",
         "domain": "indiatimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-18-artificial-intelligence-in-healthcare-service-market-2023-production-capacity-restring-drivers-size-and-landscape-outlook-2028.md",
-      "title": "Artificial Intelligence In Healthcare Service Market 2023 : Production Capacity, Restring Drivers, Size and Landscape Outlook 2028",
-      "excerpt": "\" Artificial Intelligence In Healthcare Service Market \" Insights 2022 - By Applications (Patient Data and Risk Analysis, Lifestyle Management and Monitoring, Precision Medicine, In-Patient Care and Hospital Management,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-service-market-2023-production-capacity-restring-drivers-size-and-landscape-outlook-2028-2022-12-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-service-market-2023-production-capacity-restring-drivers-size-and-landscape-outlook-2028-2022-12-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-17T18:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-17-artificial-intelligence-chipsets-market-to-grow-significantly-by-leading-players-2023-to-2028.md",
-      "title": "Artificial Intelligence Chipsets Market to Grow Significantly by Leading Players 2023 to 2028",
-      "excerpt": "\" Artificial Intelligence Chipsets Market \" Insights 2022 - By Applications (Retail, Transportation, Automation, Manufacturing, Others), By Types (Deep Learning, Robotics, Digital Personal Assistant,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-to-grow-significantly-by-leading-players-2023-to-2028-2022-12-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-to-grow-significantly-by-leading-players-2023-to-2028-2022-12-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-16T17:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -1430,6 +1272,154 @@
       "provider": {
         "name": "Psychology Today",
         "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-why-robots-are-taking-over-the-world-and-thats-a-good-thing.md",
+      "title": "Why Robots Are Taking Over The World - And That's A Good Thing",
+      "excerpt": "Robots and automation are not \"taking jobs\" in this latest economic downturn but are instead doing the work that few people want to do — from weeding fields to cleaning floors to stacking boxes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2022/12/09/why-robots-are-taking-over-the-worldand-thats-a-good-thing/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2022/12/09/why-robots-are-taking-over-the-worldand-thats-a-good-thing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/638e2b41fa2aa3cd9557066e/0x0.jpg?format=jpg&width=1200",
+          "width": 640,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2022/12/09/why-robots-are-taking-over-the-worldand-thats-a-good-thing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/12/09/why-robots-are-taking-over-the-worldand-thats-a-good-thing/amp/",
+      "publishedDateTime": "2022-12-09T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-ai-sweeping-robot-market-2022-2028-leading-growth-drivers-emerging-audience-segments-industry-sales-profits-analysis.md",
+      "title": "AI Sweeping Robot Market 2022-2028 Leading Growth Drivers, Emerging Audience, Segments, Industry Sales, Profits & Analysis",
+      "excerpt": "AI Sweeping Robot Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2021, at unexpected",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-sweeping-robot-market-2022-2028-leading-growth-drivers-emerging-audience-segments-industry-sales-profits-analysis-2022-12-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-sweeping-robot-market-2022-2028-leading-growth-drivers-emerging-audience-segments-industry-sales-profits-analysis-2022-12-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T18:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-ai-startup-datarobot-sued-for-alleged-discrimination-and-retaliation.md",
+      "title": "AI startup DataRobot sued for alleged discrimination and retaliation",
+      "excerpt": "A former employee of Boston AI startup DataRobot is suing the company, saying she was fired after complaining about alleged financial mismanagement and resisting committing potential accounting fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonglobe.com/2022/12/07/business/ai-startup-datarobot-sued-alleged-discrimination-retaliation/",
+      "originalUrl": "https://www.bostonglobe.com/2022/12/07/business/ai-startup-datarobot-sued-alleged-discrimination-retaliation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/rAyaVnh5me-9KWT5xOm5I6cafZM=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/56YUYDFAUVCWRMJRMHVDVUHOAM.jpeg",
+          "width": 506,
+          "height": 379,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T17:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Boston Globe",
+        "domain": "bostonglobe.com",
         "images": null,
         "publishers": null,
         "authors": null

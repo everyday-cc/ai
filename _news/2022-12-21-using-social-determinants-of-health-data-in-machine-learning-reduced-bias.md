@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-20T17:34:00Z
 originalUrl: "https://healthitanalytics.com/news/using-social-determinants-of-health-data-in-machine-learning-reduced-bias"
 webUrl: "https://healthitanalytics.com/news/using-social-determinants-of-health-data-in-machine-learning-reduced-bias"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: Analytics

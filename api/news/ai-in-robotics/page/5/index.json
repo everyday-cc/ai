@@ -2,153 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2022-11-12-luxonis-puts-a-powerful-rolling-robotics-lab-in-your-pocket.md",
-      "title": "Luxonis puts a powerful rolling robotics lab in your pocket",
-      "excerpt": "A Colorado-based computer vision company has launched a hackable, open-source roving robot called rae that packs AI processing and machine learning ... where pledges currently start at US$399. If all goes to plan with the already funded campaign, shipping ...",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/luxonis-rae-robot/",
-      "originalUrl": "https://newatlas.com/robotics/luxonis-rae-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/9a1e525/2147483647/strip/true/crop/3840x2016+0+72/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd1%2F4e%2F0da8d8df4b559c90452be6db0526%2Frae-noglass-front.png&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-11T10:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-the-rise-of-the-robots-and-the-impact-on-dubais-economy.md",
-      "title": "The rise of the robots and the impact on Dubai's economy",
-      "excerpt": "Experts have noted that increased efficiency means a serious addition to the economy, while reports suggest AI could add up to 13 trillion Euros to the global economy by 2030.",
-      "sourceUrl": null,
-      "webUrl": "https://www.euronews.com/next/2022/11/11/the-rise-of-the-robots-and-the-impact-on-dubais-economy",
-      "originalUrl": "https://www.euronews.com/next/2022/11/11/the-rise-of-the-robots-and-the-impact-on-dubais-economy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.euronews.com/articles/stories/07/17/42/50/1000x563_cmsv2_693a1a49-5f55-5ad8-b104-0ea65f309f3c-7174250.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.euronews.com/next/amp/2022/11/11/the-rise-of-the-robots-and-the-impact-on-dubais-economy",
-      "cdnAmpWebUrl": "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2022/11/11/the-rise-of-the-robots-and-the-impact-on-dubais-economy",
-      "publishedDateTime": "2022-11-11T06:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Euronews",
-        "domain": "euronews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-amazons-new-robot-can-handle-most-items-in-the-everything-store.md",
-      "title": "Amazon’s New Robot Can Handle Most Items in the Everything Store",
-      "excerpt": "Sparrow could shift the balance between humans and machines in the company’s warehouses, using machine learning algorithms and a custom gripper.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/amazons-new-robot-sparrow-can-handle-most-items-in-the-everything-store/",
-      "originalUrl": "https://www.wired.com/story/amazons-new-robot-sparrow-can-handle-most-items-in-the-everything-store/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/636d54218480c23aec34bdef/master/pass/Sparrow-Robot-Amazon-Business.jpg",
-          "width": 2400,
-          "height": 1698,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/amazons-new-robot-sparrow-can-handle-most-items-in-the-everything-store/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazons-new-robot-sparrow-can-handle-most-items-in-the-everything-store/amp",
-      "publishedDateTime": "2022-11-10T13:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-11-amazon-debuts-sparrow-a-new-bin-picking-robot-arm.md",
       "title": "Amazon debuts Sparrow, a new bin-picking robot arm",
       "excerpt": "The new arm is a more sophisticated take on the company’s existing robotics, adding the ability to pick and place specific objects from bins.",
@@ -1367,6 +1220,135 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-11-03-best-robot-vacuums-for-pet-hair-in-2022-according-to-reviewers.md",
+      "title": "Best robot vacuums for pet hair in 2022, according to reviewers",
+      "excerpt": "The iRobot Roomba j7+ is designed with the issue of dog poop in mind ... better to control the appliance remotely. Pet owners, including this verified purchaser, love the Lefant robot vacuum.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/the-best-robot-vacuums-for-pet-hair-according-to-reviewers/",
+      "originalUrl": "https://www.cbsnews.com/essentials/the-best-robot-vacuums-for-pet-hair-according-to-reviewers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/07/27/4604bf4c-ab99-4e25-ab66-5d3d51e6e2cc/thumbnail/1200x630/6650ffd64506ce0b99930afb0d07a219/robot-vacuum-pet-header.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/the-best-robot-vacuums-for-pet-hair-according-to-reviewers/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/the-best-robot-vacuums-for-pet-hair-according-to-reviewers/",
+      "publishedDateTime": "2022-11-03T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-03-mtr100-spotlight-armach-robotics.md",
+      "title": "MTR100 Spotlight: Armach Robotics",
+      "excerpt": "autonomous robots. Proactive in-water cleaning is the frequent removal of early stage biofouling through gentle means, reducing the problem at its earliest stages. Management and control of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marinelink.com/news/mtr-spotlight-armach-robotics-500678",
+      "originalUrl": "https://www.marinelink.com/news/mtr-spotlight-armach-robotics-500678",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.marinelink.com/images/maritime/w800/photo-courtesy-armach-136416.jpg",
+          "width": 800,
+          "height": 590,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T03:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marine Link",
+        "domain": "marinelink.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-03-this-indiana-company-is-mixing-straw-mud-limestone-and-robots-to-build-homes.md",
+      "title": "This Indiana company is mixing straw, mud, limestone and robots to build homes",
+      "excerpt": "The AI-controlled robot has pincher-type arms that can scoop ... such as Loren Wood Builders and Bailey Weiler Design. Costs will start to come down once the AI automation technology is refined ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.indystar.com/story/news/local/2022/11/03/bloomington-indiana-startup-debuts-robots-that-build-adobe-walls-housing-crisis/69598248007/",
+      "originalUrl": "https://www.indystar.com/story/news/local/2022/11/03/bloomington-indiana-startup-debuts-robots-that-build-adobe-walls-housing-crisis/69598248007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2022/11/01/NHEN/2acf12fe-d13d-45c4-809f-7f83c857706c-TR-Habitat_renders-3.jpg?auto=webp&crop=3823,2151,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-03T02:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indianapolis Star",
+        "domain": "indystar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

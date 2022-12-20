@@ -2,60 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-12-18-artificial-intelligence-in-healthcare-service-market-2023-production-capacity-restring-drivers-size-and-landscape-outlook-2028.md",
-      "title": "Artificial Intelligence In Healthcare Service Market 2023 : Production Capacity, Restring Drivers, Size and Landscape Outlook 2028",
-      "excerpt": "\" Artificial Intelligence In Healthcare Service Market \" Insights 2022 - By Applications (Patient Data and Risk Analysis, Lifestyle Management and Monitoring, Precision Medicine, In-Patient Care and Hospital Management,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-service-market-2023-production-capacity-restring-drivers-size-and-landscape-outlook-2028-2022-12-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-service-market-2023-production-capacity-restring-drivers-size-and-landscape-outlook-2028-2022-12-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-17T18:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-12-17-machine-learning-is-the-key-component-to-predict-frailty-in-australians.md",
       "title": "Machine Learning Is The Key Component To Predict Frailty In Australians",
       "excerpt": "Machine learning could be the key component in developing effective early screening systems identifying frailty in middle aged and older Australians.With increasing evidence showing physiological decl",
@@ -1441,6 +1387,59 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-factors-to-consider-when-adopting-artificial-intelligence-and-machine-learning-what-businesses-need-to-know.md",
+      "title": "Factors To Consider When Adopting Artificial Intelligence And Machine Learning: What Businesses Need To Know",
+      "excerpt": "Artificial intelligence (AI) and machine learning (ML), or AI/ML, are quickly becoming a crucial next step for business growth. Recent years have seen more and more businesses adopting this technology and witnessing significant benefits in several areas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/08/factors-to-consider-when-adopting-artificial-intelligence-and-machine-learning-what-businesses-need-to-know/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/08/factors-to-consider-when-adopting-artificial-intelligence-and-machine-learning-what-businesses-need-to-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6390d461115ce3b59c08ccfa/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/08/factors-to-consider-when-adopting-artificial-intelligence-and-machine-learning-what-businesses-need-to-know/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/08/factors-to-consider-when-adopting-artificial-intelligence-and-machine-learning-what-businesses-need-to-know/amp/",
+      "publishedDateTime": "2022-12-08T04:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

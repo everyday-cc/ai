@@ -66,6 +66,15 @@ related:
       name: India TV
       domain: indiatvnews.com
     quality: 18
+  - title: "Google coming with initiative which helps translate doctor's handwritten prescription"
+    excerpt: "Google announced an artificial intelligence (AI) and machine learning (ML) model that can identify and highlight medicines within difficult-to-read handwritten prescriptions"
+    publishedDateTime: 2022-12-20T18:40:00Z
+    webUrl: "https://www.thehansindia.com/hans/young-hans/google-coming-with-initiative-which-helps-translate-doctors-handwritten-prescription-774226"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 12
   - title: "Do You Struggle To Read A Doctor's Prescription? Google To Now Help You Decode It"
     excerpt: "The feature which will be rolled out on Google Lens will allow users to either take a picture of the prescription or upload one from the photo library."
     publishedDateTime: 2022-12-19T13:51:00Z

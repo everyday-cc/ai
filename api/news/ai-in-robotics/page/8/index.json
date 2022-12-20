@@ -2,153 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2022-10-18-dog-like-robots-will-make-deliveries-on-a-texas-campus-to-see-how-people-robots-interact.md",
-      "title": "Dog-like robots will make deliveries on a Texas campus to see how people, robots interact",
-      "excerpt": "Four-legged autonomous delivery robots will be coming to the University of Texas as part of a study on interactions between people and robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/news/education/2022/10/18/university-texas-dog-robots-deliver/10532562002/",
-      "originalUrl": "https://www.freep.com/story/news/education/2022/10/18/university-texas-dog-robots-deliver/10532562002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2022/10/17/NAAS/a71f36f1-4c32-4b62-a708-193923484ef2-Robot.png?auto=webp&crop=875,493,x0,y49&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-ai-driven-automation-and-human-driven-management-of-the-business-of-data.md",
-      "title": "AI-Driven Automation And Human-Driven Management Of The Business Of Data",
-      "excerpt": "In an interview with Authority Magazine, Seek AI co-founder and CEO Sarah Nagy highlighted the challenge of managing the tradeoff between data accuracy and accessibility: “On one hand, accessibility allows less technical folks to start interacting with the knowledge wellspring that is a company’s data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2022/10/18/ai-driven-automation-and-human-driven-management-of-the-business-of-data/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2022/10/18/ai-driven-automation-and-human-driven-management-of-the-business-of-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634ec5fcfe1d2ae7738e9c70/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2022/10/18/ai-driven-automation-and-human-driven-management-of-the-business-of-data/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/10/18/ai-driven-automation-and-human-driven-management-of-the-business-of-data/amp/",
-      "publishedDateTime": "2022-10-18T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-medical-robotic-systems-market-2022-industry-scenario-strategies-growth-factors-and-forecast-to-2028-118-pages-report.md",
-      "title": "Medical Robotic Systems Market 2022 : Industry Scenario, Strategies, Growth Factors and Forecast to 2028 | 118 Pages Report",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Oct 18, 2022 (The Expresswire) -- \"Medical Robotic Systems Market\" Insights 2022 By Types, Applications, Regions ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/medical-robotic-systems-market-2022-industry-scenario-strategies-growth-factors-and-forecast-to-2028-118-pages-report-2022-10-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/medical-robotic-systems-market-2022-industry-scenario-strategies-growth-factors-and-forecast-to-2028-118-pages-report-2022-10-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-17-ambi-robotics-raises-32m-in-funding.md",
       "title": "Ambi Robotics Raises $32M in Funding",
       "excerpt": "Ambi Robotics, a Berkeley, CA-based robotics company, raised $32M in funding. The round was led by Tiger Global and Bow Capital with participation from Ahren and Pitney Bowes. The company intends to use the funds to achieve several milestones over the next 12 months,",
@@ -1388,6 +1241,154 @@
       "ampWebUrl": "https://www.forbes.com/sites/stevetengler/2022/10/11/the-growing-influence-of-robots-on-the-auto-industry/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevetengler/2022/10/11/the-growing-influence-of-robots-on-the-auto-industry/amp/",
       "publishedDateTime": "2022-10-11T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-teslas-mass-market-optimus-robot-could-change-humanity-forever.md",
+      "title": "Tesla's Mass Market Optimus Robot Could Change Humanity Forever",
+      "excerpt": "Tesla's Optimus Robot will represent a step change for humanity when it hits the market in five years. Find out the implications for shareholders and the world.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4545818-teslas-mass-market-optimus-robot-could-change-humanity-hold",
+      "originalUrl": "https://seekingalpha.com/article/4545818-teslas-mass-market-optimus-robot-could-change-humanity-hold",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/640351119/image_640351119.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T00:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-save-140-on-the-roborock-e5-an-affordable-robot-vacuum-and-mop-combo.md",
+      "title": "Save $140 On The Roborock E5, An Affordable Robot Vacuum And Mop Combo",
+      "excerpt": "The Roborock E5 Robot Vacuum and Mop vacuums, mops and charges itself. Right now the E5 is on sale for 45% off during Amazon’s second Prime Day event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2022/10/10/roborock-e5-robot-vacuum-prime-day-deal/",
+      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2022/10/10/roborock-e5-robot-vacuum-prime-day-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63443974dbf08bcee0aa314b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2022/10/11/roborock-e5-robot-vacuum-prime-day-deal/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/2022/10/11/roborock-e5-robot-vacuum-prime-day-deal/amp/",
+      "publishedDateTime": "2022-10-10T15:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-the-best-robot-vacuums-based-on-rigorous-testing.md",
+      "title": "The Best Robot Vacuums Based On Rigorous Testing",
+      "excerpt": "After weeks of testing, here are the best robot vacuums with the technology and features to make cleaning your floors a breeze.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2022/10/10/best-robot-vacuums/",
+      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2022/10/10/best-robot-vacuums/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/633f5e6fd4326a3ec4de06ab/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-10T10:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/12/20/openai-releases-point-e-an-ai-that
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/20/openai-releases-point-e-an-ai-that-generates-3d-models/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2022/12/ai-pencils2.jpeg?w=3000"
         width: 3000
         height: 1688
+        isCached: true
+  - title: "OpenAI develops AI system capable of generating 3D models"
+    excerpt: "E, a new artificial intelligence system that can generate 3D models based on text prompts. The research group has made the code for POINT-E available on GitHub. There are multiple AI applications that can generate two-dimensional images based on a text description provided by a user."
+    publishedDateTime: 2022-12-20T20:31:00Z
+    webUrl: "https://siliconangle.com/2022/12/20/openai-develops-ai-system-capable-generating-3d-models/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/openai-1.png"
+        width: 859
+        height: 478
         isCached: true
   - title: "ChatGPT got all the buzz, but beneath it is a $1B developer framework that's quietly fueling the new era of lifelike AI at OpenAI and beyond"
     excerpt: "The Ray developer framework is used by OpenAI, Amazon, and more to solve one of AI's biggest pain points and make AI tools like ChatGPT possible."

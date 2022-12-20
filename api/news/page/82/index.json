@@ -2,6 +2,187 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2022-10-10-we-have-always-been-here-nh-recognition-of-native-american-tribes-unlikely.md",
+      "title": "‘We have always been here’ – NH recognition of Native American tribes unlikely",
+      "excerpt": "While other states have processes for tribes that want recognition, such as pursuing legislative avenues and executive orders, New Hampshire lacks even a path for recognizing Native groups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.concordmonitor.com/State-Recognition-Seems-Unlikely-For-New-Hampshire-Native-Americans-48337671",
+      "originalUrl": "https://www.concordmonitor.com/State-Recognition-Seems-Unlikely-For-New-Hampshire-Native-Americans-48337671",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.concordmonitor.com/getattachment/e744fdae-a17e-4242-91dd-a184d1de7e3f/attachment.aspx",
+          "width": 499,
+          "height": 325,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-10T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Concord Monitor",
+        "domain": "concordmonitor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-10-openstack-from-austin-to-zed.md",
+      "title": "OpenStack from Austin to Zed",
+      "excerpt": "OpenStack has come a long way from its first release to its latest as it has matured from a private cloud to a multi-purpose cloud for any and all purposes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/openstack-from-austin-to-zed/",
+      "originalUrl": "https://www.zdnet.com/article/openstack-from-austin-to-zed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/cd8826c93eadc8d3e7af294532e34b85e2f549f1/2022/01/19/dcd98cf5-4a3e-4344-ad6b-a5822c2e7ac7/cloud-it.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/openstack-from-austin-to-zed/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openstack-from-austin-to-zed/",
+      "publishedDateTime": "2022-10-10T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-10-whats-going-on-with-baidu-stock-today.md",
+      "title": "What's Going On With Baidu Stock Today",
+      "excerpt": "Baidu Inc BIDU shares are trading lower by 3.29% to $116.48 during Monday's trading session. Shares of Chinese stocks at large are trading lower after the US announced export controls ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/trading-ideas/movers/22/10/29202717/whats-going-on-with-baidu-stock-today",
+      "originalUrl": "https://www.benzinga.com/trading-ideas/movers/22/10/29202717/whats-going-on-with-baidu-stock-today",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2022/10/10/man-6205496.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29202717",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29202717",
+      "publishedDateTime": "2022-10-10T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-10-wordly-adds-on-demand-transcript-translation-and-developer-apis-to-ai-powered-translation-platform.md",
+      "title": "Wordly Adds On-Demand Transcript Translation and Developer APIs To AI-Powered Translation Platform",
+      "excerpt": "Wordly Adds On-Demand Transcript Translation and Developer APIs To AI-Powered Translation Platform Oct (PRNewswire via COMTEX) -- PR Newswire",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/wordly-adds-on-demand-transcript-translation-and-developer-apis-to-ai-powered-translation-platform-2022-10-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/wordly-adds-on-demand-transcript-translation-and-developer-apis-to-ai-powered-translation-platform-2022-10-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-10T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-10-the-four-pillars-to-ai-innovation-how-businesses-can-jumpstart-the-ai-journey.md",
       "title": "The Four Pillars To AI Innovation: How Businesses Can Jumpstart The AI Journey",
       "excerpt": "AI solution providers can work with enterprises on these obstacles by keeping these four pillars in mind: creating a center of excellence and a collaborative AI team, prioritizing data modernization,",
@@ -1005,168 +1186,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-10-dubais-rta-to-showcase-driverless-taxis-for-the-first-time-during-gitex.md",
-      "title": "Dubai's RTA to showcase driverless taxis for the first time during Gitex",
-      "excerpt": "Dubai's Roads and Transport Authority (RTA) has revealed an extensive collection of smart initiatives, applications, and stations it will showcase at the 4..",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/transport/self-driving-transport-new-gen-taxis-dubai-rta-to-showcase-new-initiatives-at-gitex-2022",
-      "originalUrl": "https://www.khaleejtimes.com/transport/self-driving-transport-new-gen-taxis-dubai-rta-to-showcase-new-initiatives-at-gitex-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.khaleejtimes.com?uuid=7cc4b377-db5c-5fac-9612-25ede4150eb9&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.95339&width=1200&height=675&x=1.0E-5&y=0.02331",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/transport/self-driving-transport-new-gen-taxis-dubai-rta-to-showcase-new-initiatives-at-gitex-2022?amp=1",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/transport/self-driving-transport-new-gen-taxis-dubai-rta-to-showcase-new-initiatives-at-gitex-2022?amp=1",
-      "publishedDateTime": "2022-10-09T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-09-iit-mandi-start-up-to-launch-worlds-first-ai-backed-giant-swing-in-manali.md",
-      "title": "IIT Mandi start up to launch world's first AI-backed giant swing in Manali",
-      "excerpt": "Four engineer friends have claimed to have innovated a giant swing backed by AI which will provide an \"impeccable\" security to the jumpers with more than 100 jump styles",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/current-affairs/iit-mandi-start-up-to-launch-world-s-first-ai-backed-giant-swing-in-manali-122100900450_1.html",
-      "originalUrl": "https://www.business-standard.com/article/current-affairs/iit-mandi-start-up-to-launch-world-s-first-ai-backed-giant-swing-in-manali-122100900450_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-10/09/full/1665323291-3562.jpg",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/current-affairs/iit-mandi-start-up-to-launch-world-s-first-ai-backed-giant-swing-in-manali-122100900450_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/current-affairs/iit-mandi-start-up-to-launch-world-s-first-ai-backed-giant-swing-in-manali-122100900450_1.html",
-      "publishedDateTime": "2022-10-09T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-09-loblaw-goes-driverless-credit-card-surcharges-and-why-adulting-is-unaffordable-must-read-business-and-investing-stories.md",
-      "title": "Loblaw goes driverless, credit card surcharges and why adulting is unaffordable: Must-read business and investing stories",
-      "excerpt": "Canada’s largest grocer announced this week the launch of driverless delivery trucks on the roads across Toronto and surrounding suburbs, delivering products to its stores. In partnership with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/business/article-loblaw-driverless-trucks-credit-card-surcharges-business-stories/",
-      "originalUrl": "https://www.theglobeandmail.com/business/article-loblaw-driverless-trucks-credit-card-surcharges-business-stories/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theglobeandmail.com/resizer/Cf3tJBON22F-3vh5rfEQxw1ScyM=/1200x798/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/L6MRR6HZ3NHZHBQKV2OFPY56PI.JPG",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-09T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-09-stuck-on-the-streets-of-san-francisco-in-a-driverless-car.md",
-      "title": "Stuck on the streets of San Francisco in a driverless car",
-      "excerpt": "“Who’s driving?” he yelled. “No one,” I yelled back. I was riding in a driverless car operated by Cruise, a company backed by General Motors that is now offering low-cost rides to a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/business/stuck-on-the-streets-of-san-francisco-in-a-driverless-car/",
-      "originalUrl": "https://www.seattletimes.com/business/stuck-on-the-streets-of-san-francisco-in-a-driverless-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/business/stuck-on-the-streets-of-san-francisco-in-a-driverless-car/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/stuck-on-the-streets-of-san-francisco-in-a-driverless-car/?amp=1",
-      "publishedDateTime": "2022-10-09T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

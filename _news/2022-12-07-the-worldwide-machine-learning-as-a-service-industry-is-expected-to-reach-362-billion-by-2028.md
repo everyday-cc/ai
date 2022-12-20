@@ -12,10 +12,16 @@ provider:
   domain: menafn.com
 
 topics:
-  - Microsoft AI
+  - AI in Finance
   - AI
   - Machine Learning
 
-secured: "+LNSda/iBFOpi6vAtkBEJ+DIL/fajwqY7INBO+tpRAhVFqQU/3hIY69h3MvvKEI3XXHJzu0DBl7ipq/bzsgNsffEsYf+XHRCTRp+5BNPsWaXuA/4a64VpO9coMzcQmQubniqIvAjt/Jod83+00ojJpTc4NK4CMXkHfALHN4Hg6xX3rPSHUjjr8M7LmYLaI3S+Cwd15VBbRauDINoxOHTpzQ5FRkQ/pFh8zAHIRqXJ4x1wHKV1Kdkbz4pVatZKh9zAGQAVYTj9jA7ILxG1gzbq2l7yogWxxJIHsxt9r2pys/OBPp9K1SptJu0R8KIbaiz6SgTTt7qO2Y6SiaHqs5TzegQmHahUhI5v2psve72bok=;3c1ckizBL956Y1ZaXUoWww=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?518866"
+    width: 444
+    height: 250
+    isCached: true
+
+secured: "xBdVSZtcsdf3+QPKqG02gunbI91tAjNGeHSYUIgCx4KoLJd92dD4zq1dXGdwfOO14djx5DyPJZ8r6ZF/Uo8lwPgIugDhxZcELFuCJrBT4KlN6mZuIARX40WfjhVNNyTHW7L8bcUbEj0quoFYaMVCIR0Xpkb6dkEoTI29V+FTOx5ErxgOyiddUAHLKME4ebVpAzhPliRCJtV42wjxHZSbyM8pEgp+Hda5cAaZp52FTqb1f5AspNZABlfxNkLeKV+mcX2wT67NVz8SMK7pWtcRYmS3G08ESVNJIUhVg7XqpALMIWqu6Hlln/wZh6Gp7d5UuHBBoopPUfHz8NKZCyjvNrYJWcu5pAIS6hJuMGMS1ro=;nXgpNbApNgpfwttKPdCeXw=="
 ---
 

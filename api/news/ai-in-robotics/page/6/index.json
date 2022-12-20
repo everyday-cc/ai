@@ -2,135 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2022-11-03-best-robot-vacuums-for-pet-hair-in-2022-according-to-reviewers.md",
-      "title": "Best robot vacuums for pet hair in 2022, according to reviewers",
-      "excerpt": "The iRobot Roomba j7+ is designed with the issue of dog poop in mind ... better to control the appliance remotely. Pet owners, including this verified purchaser, love the Lefant robot vacuum.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/the-best-robot-vacuums-for-pet-hair-according-to-reviewers/",
-      "originalUrl": "https://www.cbsnews.com/essentials/the-best-robot-vacuums-for-pet-hair-according-to-reviewers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/07/27/4604bf4c-ab99-4e25-ab66-5d3d51e6e2cc/thumbnail/1200x630/6650ffd64506ce0b99930afb0d07a219/robot-vacuum-pet-header.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/the-best-robot-vacuums-for-pet-hair-according-to-reviewers/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/the-best-robot-vacuums-for-pet-hair-according-to-reviewers/",
-      "publishedDateTime": "2022-11-03T03:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-mtr100-spotlight-armach-robotics.md",
-      "title": "MTR100 Spotlight: Armach Robotics",
-      "excerpt": "autonomous robots. Proactive in-water cleaning is the frequent removal of early stage biofouling through gentle means, reducing the problem at its earliest stages. Management and control of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marinelink.com/news/mtr-spotlight-armach-robotics-500678",
-      "originalUrl": "https://www.marinelink.com/news/mtr-spotlight-armach-robotics-500678",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.marinelink.com/images/maritime/w800/photo-courtesy-armach-136416.jpg",
-          "width": 800,
-          "height": 590,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T03:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marine Link",
-        "domain": "marinelink.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-this-indiana-company-is-mixing-straw-mud-limestone-and-robots-to-build-homes.md",
-      "title": "This Indiana company is mixing straw, mud, limestone and robots to build homes",
-      "excerpt": "The AI-controlled robot has pincher-type arms that can scoop ... such as Loren Wood Builders and Bailey Weiler Design. Costs will start to come down once the AI automation technology is refined ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.indystar.com/story/news/local/2022/11/03/bloomington-indiana-startup-debuts-robots-that-build-adobe-walls-housing-crisis/69598248007/",
-      "originalUrl": "https://www.indystar.com/story/news/local/2022/11/03/bloomington-indiana-startup-debuts-robots-that-build-adobe-walls-housing-crisis/69598248007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2022/11/01/NHEN/2acf12fe-d13d-45c4-809f-7f83c857706c-TR-Habitat_renders-3.jpg?auto=webp&crop=3823,2151,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T02:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indianapolis Star",
-        "domain": "indystar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-11-03-google-wants-robots-to-write-their-own-python-code.md",
       "title": "Google wants robots to write their own Python code",
       "excerpt": "\"Given natural language instructions, current language models are highly proficient at writing not only generic code but, as we've discovered, code that can control robot actions as well.\"",
@@ -1330,6 +1201,154 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-who-the-fck-wants-a-kinder-egg-or-beef-jerky-mid-walk-in-the-parking-lot.md",
+      "title": "'Who the f*ck wants a Kinder Egg or beef jerky mid-walk in the parking lot.'",
+      "excerpt": "Walmart caught headlines earlier in the year after announcing that it would be deploying a team of remote-controlled robots to its parking lots. With help from tech startup Tortoise, the venture ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailydot.com/debug/walmart-snack-robots/",
+      "originalUrl": "https://www.dailydot.com/debug/walmart-snack-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://uploads.dailydot.com/2022/10/walmart-snack-selling-bot-tiktok.jpg?auto=compress&fm=pjpg",
+          "width": 2000,
+          "height": 1001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailydot.com/debug/walmart-snack-robots/",
+      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/walmart-snack-robots/",
+      "publishedDateTime": "2022-10-27T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Dot",
+        "domain": "dailydot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-teslas-optimus-bot-are-humaniform-robots-the-right-path-forward.md",
+      "title": "Tesla’s Optimus Bot: Are Humaniform Robots The Right Path Forward?",
+      "excerpt": "One thing is undeniable: there’s an abiding appeal to human shaped and human sized robots. Part of the value of copying the human form: the world is built for humans. Cars, homes, machines, factories,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2022/10/26/teslas-optimus-bot-are-humaniform-robots-the-right-path-forward/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2022/10/26/teslas-optimus-bot-are-humaniform-robots-the-right-path-forward/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/633885ad873cb08a2c57e040/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2022/10/26/teslas-optimus-bot-are-humaniform-robots-the-right-path-forward/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2022/10/26/teslas-optimus-bot-are-humaniform-robots-the-right-path-forward/amp/",
+      "publishedDateTime": "2022-10-26T15:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-volkswagen-no-longer-investing-in-self-driving-startup-argo-ai.md",
+      "title": "Volkswagen no longer investing in self-driving startup Argo AI",
+      "excerpt": "Volkswagen disclosed a $2.6 billion investment in Argo AI, the Pittsburgh-based self-driving startup, in June 2020. The investment meant the startup was jointly controlled by the German carmaker ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/volkswagen-no-longer-investing-self-driving-startup-argo-ai-2022-10-26/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/volkswagen-no-longer-investing-self-driving-startup-argo-ai-2022-10-26/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/IC2DJmOX2A34sv3TYtdL6tZVSIk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5ZHFHVETGVLZZEMTIDAINVACTQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-26T13:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -33,6 +33,15 @@ related:
         width: 800
         height: 530
         isCached: true
+  - title: "Study shows how machine learning could predict rare disastrous events, like earthquakes or pandemics"
+    excerpt: "Researchers suggest how scientists can circumvent the need for massive data sets to forecast extreme events with the combination of an advanced machine learning system and sequential sampling techniques."
+    publishedDateTime: 2022-12-20T22:33:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/12/221219123859.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
 
 secured: "Gqk6JFrs1cJGum9fI7XrJ9Ld8H2fdsLUuLzvBLfvnmcBOHl29ngERs7Sh19E4H9uB41pIePjvBX3+ngJ6VFcwwZlaiuBZuE7JGVtvWeLCDtnvz8J8JY9DjYaaViDe9lSp51WCZK8w+u9ULm+JsTmnHlpkxrQlB+nzLSjFO3eOzQJ2goABemMqnlgOIDQltYBcAsDL2C4Cd7HrmRn8eo1b5VTMVyCHbEDP9AD320gFGXlob7JeSpt06GmQ1KNxxDOMi0oTmTPeVVsKaG2uPmgHmaebyAybC7NemnKO9F3mrAbl2Cqf7LFZm7McXmZTU8NvHdShaGd/9AL4bsnaumCOy2RANysqn9EkGgZ4cnv4H0=;ifiGiiJSrtCrDnNQ9AncXQ=="
 ---

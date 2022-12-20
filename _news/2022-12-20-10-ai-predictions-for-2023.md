@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2022/12/20/10-ai-predictions-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/12/20/10-ai-predictions-for-2023/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 113
 published: true
 
 provider:

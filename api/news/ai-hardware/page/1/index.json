@@ -10,7 +10,7 @@
       "originalUrl": "https://techcrunch.com/2022/12/20/openai-releases-point-e-an-ai-that-generates-3d-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -785,33 +785,24 @@
     {
       "path": "_news/2022-12-12-brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge.md",
       "title": "BrainChip Joins Intel Foundry Services to Advance Neuromorphic AI at the Edge",
-      "excerpt": "LAGUNA HILLS, CA / ACCESSWIRE / / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(OTC:BCHPY), the world's first commercial producer of ultra-low power neuromorphic AI IP, today announced that it has",
+      "excerpt": "BrainChip’s Akida TM, enables low-latency and ultra-low power AI inference and on-chip learning. “We are proud to partner with Intel as part of its IFS Accelerator – IP Alliance,” said Anil Mankar, Chief Development Officer at BrainChip.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/12/ac30033830/brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/ac30033830/brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge",
+      "webUrl": "https://www.design-reuse.com/news/53169/brainchip-intel-foundry-services-neuromorphic-ai.html",
+      "originalUrl": "https://www.design-reuse.com/news/53169/brainchip-intel-foundry-services-neuromorphic-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
-          "width": 800,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30033830",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30033830",
-      "publishedDateTime": "2022-12-11T13:30:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T00:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
         "images": null,
         "publishers": null,
         "authors": null

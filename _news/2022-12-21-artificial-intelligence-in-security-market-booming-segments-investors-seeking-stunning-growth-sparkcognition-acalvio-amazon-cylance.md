@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-20T20:38:00Z
 originalUrl: "https://markets.buffalonews.com/buffnews/article/sbwire-2022-12-20-artificial-intelligence-in-security-market-booming-segments-investors-seeking-stunning-growth-sparkcognition-acalvio-amazon-cylance"
 webUrl: "https://markets.buffalonews.com/buffnews/article/sbwire-2022-12-20-artificial-intelligence-in-security-market-booming-segments-investors-seeking-stunning-growth-sparkcognition-acalvio-amazon-cylance"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: The Buffalo News

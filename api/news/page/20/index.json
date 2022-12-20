@@ -2,6 +2,186 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2022-12-02-disneys-new-ai-can-make-your-favorite-actor-look-older-or-younger.md",
+      "title": "Disney's New AI Can Make Your Favorite Actor Look Older or Younger",
+      "excerpt": "The process overcomes the \"facial identity loss, poor resolution and unstable results\" that plague other methods, researchers say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/culture/entertainment/disney-ai-can-make-your-favorite-actor-look-older-or-younger/",
+      "originalUrl": "https://www.cnet.com/culture/entertainment/disney-ai-can-make-your-favorite-actor-look-older-or-younger/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/37cc5fef7f5a9a8de450dc85cfd56b9fcb4e29fb/hub/2022/12/01/ab5551c3-7c15-43a9-a8fe-97fda2b142b9/frank.png?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/disney-ai-can-make-your-favorite-actor-look-older-or-younger/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/disney-ai-can-make-your-favorite-actor-look-older-or-younger/",
+      "publishedDateTime": "2022-12-01T15:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-illustrative-notebooks-in-amazon-sagemaker-jumpstart.md",
+      "title": "Illustrative notebooks in Amazon SageMaker JumpStart",
+      "excerpt": "Amazon SageMaker JumpStart is the Machine Learning (ML) hub of SageMaker providing pre-trained, publicly available models for a wide range of problem types to help you get started with machine learning. JumpStart also offers example notebooks that use Amazon SageMaker features like spot instance training",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/illustrative-notebooks-in-amazon-sagemaker-jumpstart/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/illustrative-notebooks-in-amazon-sagemaker-jumpstart/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/01/illustrative-notebooks-sagemaker-jumpstart.jpg",
+          "width": 1549,
+          "height": 774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T15:39:57-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-gms-cruise-seeking-to-test-driverless-origin-robotaxi-on-san-francisco-streets.md",
+      "title": "GM’s Cruise Seeking To Test Driverless Origin Robotaxi On San Francisco Streets",
+      "excerpt": "GM’s autonomous vehicle technology division, Cruise, is moving to test the Cruise Origin robotaxi on the streets of San Francisco without a steering wheel or manual controls. Per a recent report ...",
+      "sourceUrl": null,
+      "webUrl": "https://gmauthority.com/blog/2022/12/gms-cruise-seeking-to-test-driverless-origin-robotaxi-on-san-francisco-streets/",
+      "originalUrl": "https://gmauthority.com/blog/2022/12/gms-cruise-seeking-to-test-driverless-origin-robotaxi-on-san-francisco-streets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T14:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GM Authority",
+        "domain": "gmauthority.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-counting-the-cost-of-training-large-language-models.md",
+      "title": "Counting The Cost Of Training Large Language Models",
+      "excerpt": "There are two drivers of Jasper’s business, which is what is leading it away from the coupled model parallel and data parallel world of distributed GPU AI training, which has some painful processes when it comes to chopping up data and tasks for an AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2022/12/01/counting-the-cost-of-training-large-language-models/",
+      "originalUrl": "https://www.nextplatform.com/2022/12/01/counting-the-cost-of-training-large-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.nextplatform.com/wp-content/uploads/2022/04/cerebras-wafer-logo.jpg",
+          "width": 670,
+          "height": 387,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2022/12/01/counting-the-cost-of-training-large-language-models/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/12/01/counting-the-cost-of-training-large-language-models/amp/",
+      "publishedDateTime": "2022-12-01T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-02-ai-will-thrive-in-3-key-areas-in-2023-despite-economic-conditions.md",
       "title": "AI will thrive in 3 key areas in 2023, despite economic conditions",
       "excerpt": "In 2023, experts predict that AI innovation will continue, focusing on human-centric, data-driven and generative AI.",
@@ -991,197 +1171,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-mercedes-bosch-open-worlds-first-self-driving-valet.md",
-      "title": "Mercedes, Bosch open world's first self-driving valet",
-      "excerpt": "Mercedes-Benz and Bosch will initially operate their automated valet in the parking garage of Stuttgart Airport.",
-      "sourceUrl": null,
-      "webUrl": "https://www.motorauthority.com/news/1124163_mercedes-bosch-open-world-s-first-self-driving-valet",
-      "originalUrl": "https://www.motorauthority.com/news/1124163_mercedes-bosch-open-world-s-first-self-driving-valet",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hgmsites.net/hug/mercedes-benz-and-bosch-automated-valet-parking-at-stuttgart-airport_100867370_h.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motor Authority",
-        "domain": "motorauthority.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-digiyatra-facial-recognition-system-launches-at-airports-how-this-will-change-security.md",
-      "title": "DigiYatra facial recognition system launches at airports: How this will change security",
-      "excerpt": "DigiYatra, the brainchild of the Ministry of Civil Aviation, allows airline passengers to be automatically processed based on a facial recognition system at several checkpoints including entry, security check and boarding aircraft.",
-      "sourceUrl": null,
-      "webUrl": "https://www.firstpost.com/explainers/explained-india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work-10842621.html",
-      "originalUrl": "https://www.firstpost.com/explainers/explained-india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work-10842621.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 233,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.firstpost.com/wp-content/uploads/2022/05/Bengaluru-Kempegowda-International-Airport.jpg",
-          "width": 640,
-          "height": 362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.firstpost.com/explainers/explained-india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work-10842621.html/amp",
-      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/explainers/explained-india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work-10842621.html/amp",
-      "publishedDateTime": "2022-12-01T02:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Firstpost",
-        "domain": "firstpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-natural-language-processing-market-to-witness-a-pronounce-growth-during-2023-2027.md",
-      "title": "Natural Language Processing Market to Witness A Pronounce Growth During 2023-2027",
-      "excerpt": "“Natural Language Processing market size was valued at USD 10873.69 million in 2021 and is expected to expand at a CAGR of 18.29% during the forecast period, reaching USD 29786.67 million by 2027.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-to-witness-a-pronounce-growth-during-2023-2027-2022-12-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-to-witness-a-pronounce-growth-during-2023-2027-2022-12-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T01:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-nvidias-new-rtx-6000-may-bust-engineering-department-budgets-at-over-7000.md",
-      "title": "Nvidia’s new RTX 6000 may bust engineering department budgets at over $7,000",
-      "excerpt": "Nvidia’s about to launch its new for-serious-work-only RTX 6000 graphics card, and it’s going to be expensive. The new workstation card apparently showed up in retail listings on sites like ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/11/30/23485980/nvidia-rtx-6000-ada-workstation-gpu-pricing-leak",
-      "originalUrl": "https://www.theverge.com/2022/11/30/23485980/nvidia-rtx-6000-ada-workstation-gpu-pricing-leak",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/OwGNmZW5Mzw9ekQuyfbLZmlO-VM=/0x0:1360x900/1200x628/filters:focal(680x450:681x451)/cdn.vox-cdn.com/uploads/chorus_asset/file/24040901/nvidia_rtx_6000.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T00:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

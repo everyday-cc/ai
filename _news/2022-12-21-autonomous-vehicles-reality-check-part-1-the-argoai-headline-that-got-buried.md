@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-20T18:38:00Z
 originalUrl: "https://www.forbes.com/sites/richardbishop1/2022/12/20/autonomous-vehicles-reality-check-part-1-the-argoai-headline-that-got-buried/"
 webUrl: "https://www.forbes.com/sites/richardbishop1/2022/12/20/autonomous-vehicles-reality-check-part-1-the-argoai-headline-that-got-buried/"
 type: article
+quality: 43
+heat: 43
+published: false
 
 provider:
   name: Forbes

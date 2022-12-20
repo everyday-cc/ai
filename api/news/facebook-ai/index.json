@@ -55,6 +55,40 @@
       ]
     },
     {
+      "path": "_news/2022-12-16-ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations.md",
+      "title": "AI-generated fake faces have become a hallmark of online influence operations",
+      "excerpt": "As artificial intelligence becomes more widely available, bad actors are turning to computer-generated faces in their attempts to manipulate social media networks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.knau.org/npr-news/2022-12-15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations",
+      "originalUrl": "https://www.knau.org/npr-news/2022-12-15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-15T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KNAU Arizona Public Radio",
+        "domain": "knau.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-15-bright-pattern-named-hot-vendor-by-aragon-research.md",
       "title": "Bright Pattern Named \"Hot Vendor\" by Aragon Research",
       "excerpt": "Vendors selected for the 'Hot Vendor' report are noteworthy, visionary, and innovative. SOUTH SAN FRANCISCO, Calif., Dec. 14, 2022 /PRNewswire/",
@@ -1380,58 +1414,6 @@
         "name": "Press Gazette",
         "domain": "pressgazette.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-21-india-to-take-over-the-chair-of-the-global-partnership-on-artificial-intelligence.md",
-      "title": "India To Take Over the Chair of the Global Partnership on Artificial Intelligence",
-      "excerpt": "France, the outgoing council chair, will hand over the presidency to India. The minister of state for electronics and IT, Rajeev Chandrasekhar will represent India at the GPAI meeting",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/en-in/news-and-trends/india-to-take-over-the-chair-of-the-global-partnership-on/439557",
-      "originalUrl": "https://www.entrepreneur.com/en-in/news-and-trends/india-to-take-over-the-chair-of-the-global-partnership-on/439557",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1669019424-Untitleddesign-2022-11-21T135421056.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-21T00:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

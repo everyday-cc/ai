@@ -2,6 +2,190 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-12-02-how-ai-could-help-boost-help-desk-productivity-in-2023.md",
+      "title": "How AI Could Help Boost Help Desk Productivity In 2023",
+      "excerpt": "As businesses develop their IT budgets for 2023, with the specter of an economic slowdown looming, artificial intelligence (AI)-related projects will figure prominently in the discretionary spending plans of many organizations. In most cases, their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-help-boost-help-desk-productivity-in-2023/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-help-boost-help-desk-productivity-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6064dbb8610333ea7f4c8408/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-help-boost-help-desk-productivity-in-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-help-boost-help-desk-productivity-in-2023/amp/",
+      "publishedDateTime": "2022-12-02T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-disneys-fran-is-a-neural-network-that-can-age-or-de-age-actors-in-five-seconds.md",
+      "title": "Disney's FRAN is a neural network that can age or de-age actors in five seconds",
+      "excerpt": "Disney's Face Re-Aging Network (FRAN) is a neural network that can make actors look older or younger in just five seconds. Artists can still manually adjust the images to make it more realistic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/disneys-fran-is-a-neural-network-that-can-age-or-de-age-actors-in-five-seconds-9641111.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/disneys-fran-is-a-neural-network-that-can-age-or-de-age-actors-in-five-seconds-9641111.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2022/12/Disney-FRAN.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/disneys-fran-is-a-neural-network-that-can-age-or-de-age-actors-in-five-seconds-9641111.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/disneys-fran-is-a-neural-network-that-can-age-or-de-age-actors-in-five-seconds-9641111.html/amp",
+      "publishedDateTime": "2022-12-02T03:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-jr-east-developing-system-for-future-driverless-trains.md",
+      "title": "JR East developing system for future driverless trains",
+      "excerpt": "Japan's largest railway operator is experimenting with a system that it hopes will lead to the introduction of driverless trains. The technology is designed to detect obstacles on train tracks.",
+      "sourceUrl": null,
+      "webUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20221202_46/",
+      "originalUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20221202_46/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20221202_46/amp.html",
+      "cdnAmpWebUrl": "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20221202_46/amp.html",
+      "publishedDateTime": "2022-12-02T02:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NHK",
+        "domain": "nhk.or.jp",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-i-interviewed-an-ai-about-the-ethics-of-ai-and-it-lied-to-me.md",
+      "title": "I Interviewed An AI About The Ethics Of AI - And It Lied To Me",
+      "excerpt": "Do you think AI will prove to be a positive development for the world? I am a machine learning model trained to assist with a wide range of tasks, but I do not have the ability to",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-an-ai-about-the-ethics-of-aiand-it-lied-to-me/",
+      "originalUrl": "https://www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-an-ai-about-the-ethics-of-aiand-it-lied-to-me/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6389dcaa5d08cabf3b20296e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-an-ai-about-the-ethics-of-aiand-it-lied-to-me/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2022/12/02/i-interviewed-an-ai-about-the-ethics-of-aiand-it-lied-to-me/amp/",
+      "publishedDateTime": "2022-12-02T02:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-12-02-top-10-chinese-ai-chip-companies-in-2022.md",
       "title": "Top 10 Chinese AI chip companies in 2022",
       "excerpt": "MediaTek Inc grabbed second spot on this year's ranking of top 50 Chinese AI chip companies, followed by Horizon Robotics. Let's take a look at the top 10 Chinese AI chip companies in 2022. Copyright 1995 - 2022 .",
@@ -1033,186 +1217,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-disneys-new-ai-can-make-your-favorite-actor-look-older-or-younger.md",
-      "title": "Disney's New AI Can Make Your Favorite Actor Look Older or Younger",
-      "excerpt": "The process overcomes the \"facial identity loss, poor resolution and unstable results\" that plague other methods, researchers say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/culture/entertainment/disney-ai-can-make-your-favorite-actor-look-older-or-younger/",
-      "originalUrl": "https://www.cnet.com/culture/entertainment/disney-ai-can-make-your-favorite-actor-look-older-or-younger/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/37cc5fef7f5a9a8de450dc85cfd56b9fcb4e29fb/hub/2022/12/01/ab5551c3-7c15-43a9-a8fe-97fda2b142b9/frank.png?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/disney-ai-can-make-your-favorite-actor-look-older-or-younger/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/disney-ai-can-make-your-favorite-actor-look-older-or-younger/",
-      "publishedDateTime": "2022-12-01T15:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-illustrative-notebooks-in-amazon-sagemaker-jumpstart.md",
-      "title": "Illustrative notebooks in Amazon SageMaker JumpStart",
-      "excerpt": "Amazon SageMaker JumpStart is the Machine Learning (ML) hub of SageMaker providing pre-trained, publicly available models for a wide range of problem types to help you get started with machine learning. JumpStart also offers example notebooks that use Amazon SageMaker features like spot instance training",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/illustrative-notebooks-in-amazon-sagemaker-jumpstart/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/illustrative-notebooks-in-amazon-sagemaker-jumpstart/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/01/illustrative-notebooks-sagemaker-jumpstart.jpg",
-          "width": 1549,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T15:39:57-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-gms-cruise-seeking-to-test-driverless-origin-robotaxi-on-san-francisco-streets.md",
-      "title": "GM’s Cruise Seeking To Test Driverless Origin Robotaxi On San Francisco Streets",
-      "excerpt": "GM’s autonomous vehicle technology division, Cruise, is moving to test the Cruise Origin robotaxi on the streets of San Francisco without a steering wheel or manual controls. Per a recent report ...",
-      "sourceUrl": null,
-      "webUrl": "https://gmauthority.com/blog/2022/12/gms-cruise-seeking-to-test-driverless-origin-robotaxi-on-san-francisco-streets/",
-      "originalUrl": "https://gmauthority.com/blog/2022/12/gms-cruise-seeking-to-test-driverless-origin-robotaxi-on-san-francisco-streets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T14:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GM Authority",
-        "domain": "gmauthority.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-counting-the-cost-of-training-large-language-models.md",
-      "title": "Counting The Cost Of Training Large Language Models",
-      "excerpt": "There are two drivers of Jasper’s business, which is what is leading it away from the coupled model parallel and data parallel world of distributed GPU AI training, which has some painful processes when it comes to chopping up data and tasks for an AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2022/12/01/counting-the-cost-of-training-large-language-models/",
-      "originalUrl": "https://www.nextplatform.com/2022/12/01/counting-the-cost-of-training-large-language-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.nextplatform.com/wp-content/uploads/2022/04/cerebras-wafer-logo.jpg",
-          "width": 670,
-          "height": 387,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2022/12/01/counting-the-cost-of-training-large-language-models/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/12/01/counting-the-cost-of-training-large-language-models/amp/",
-      "publishedDateTime": "2022-12-01T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

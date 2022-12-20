@@ -26,6 +26,15 @@ images:
 
 related:
   - title: "Study shows how machine learning could predict rare disastrous events, like earthquakes or pandemics"
+    excerpt: "Researchers suggest how scientists can circumvent the need for massive data sets to forecast extreme events with the combination of an advanced machine learning system and sequential sampling techniques."
+    publishedDateTime: 2022-12-20T22:33:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/12/221219123859.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
+  - title: "Study shows how machine learning could predict rare disastrous events, like earthquakes or pandemics"
     excerpt: "In a new study in Nature Computational Science, the scientists describe how they combined statistical algorithms — which need less data to make accurate, efficient predictions — with a powerful machine learning technique developed at Brown and trained it to predict scenarios,"
     publishedDateTime: 2022-12-19T23:22:00Z
     webUrl: "https://www.eurekalert.org/news-releases/974778"

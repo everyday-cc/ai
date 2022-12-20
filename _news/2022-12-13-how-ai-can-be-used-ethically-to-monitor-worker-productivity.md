@@ -3,8 +3,8 @@ category: news
 title: "How AI Can Be Used Ethically to Monitor Worker Productivity"
 excerpt: "Morgan Lewis’s Amy Schuh offers guidance for companies looking to employ AI to monitor their workforce. She shares important questions to ask beyond AI’s intended uses, and potential unintended consequences."
 publishedDateTime: 2022-12-13T09:00:00Z
-originalUrl: "https://news.bloomberglaw.com/business-and-practice/how-ai-can-be-used-ethically-to-monitor-worker-productivity"
-webUrl: "https://news.bloomberglaw.com/business-and-practice/how-ai-can-be-used-ethically-to-monitor-worker-productivity"
+originalUrl: "https://news.bloomberglaw.com/us-law-week/how-ai-can-be-used-ethically-to-monitor-worker-productivity"
+webUrl: "https://news.bloomberglaw.com/us-law-week/how-ai-can-be-used-ethically-to-monitor-worker-productivity"
 type: article
 
 provider:
@@ -15,6 +15,12 @@ topics:
   - AI Ethics
   - AI
 
-secured: "wbsLyo+JRZG0h9//lnfpsEvj6qAQcHfrJSuafNjdYKscue3zvGDwPhCbhq7sWKoq7ikY5U4U2fnd5HyWQFZ2lIo5gXhlpKJdjpnuRFiW+zS592+zmxzD2dR+FbcX+mq7XTwPDOReOcUxchCUSN9R7adjSj8TVr8c1oEvjpPrGW5u3iRJEHNSAcy1gkRCLH2A+i549yAF82qdTopVWTbID5mzq4ibae80F8vJFeg7SpS/nh7s0cNDGuIvKgRaEjfBaiugehBlERvilX/pHOj0OD4/SgHfPzE/guSKHhZY1g8qH5lZTDznoDcpK6E2AA84imWDrXgoCcDKDnv1GdQvjLD6eM8UHMELjBCRxm0uRkm6l2Y1DWSl5fT6q60tj7MwSkPg0X1N4WjnmoF+YXXop+DjOWNdXH5QGLQFcrwqzFMFwhEhJeCHd5Je4T51C4SvdLwVKjLQ/ERaW/cx8U0nRsU1hyL66hF0rpBeQduMLGRztWjgTz2m83dRXmN2O8JbrsCHm/IvmalmdkZFHfbHKA==;V0LV59HPVFMs8Aftf2bk5g=="
+images:
+  - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/e99279d/2147483647/crop/8140x3134%2B41%2B324/resize/957x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2Fc8%2Ff4%2Fcaf4259d40df8f2a0e40e370f321%2Fgettyimages-883730222.jpg"
+    width: 957
+    height: 368
+    isCached: true
+
+secured: "QWro/5C7vOBrVsUqMzCHOXESieb3J8Fgb/TtBBY4azXMU7HAMO88wvQM2c53Hva1MQgZq1bOOKOucV0pMNOEQUOgGufRoucqRkI4Hg7ZRUYwqDyyRceagI8gb0Gh+4nd44kSWYKOUofwlZGpI7XWSFfU+8kLAvh3VEcAHQUE8stKPzkMsazmX0Yrmxf9wO7SklpzEPwrq6fhXw5TX1CFmTfCCnny3/j1tJqI39BJBXQ4AYyisNg9mwmWpadwBdn3MtYt87++KzrLHt0OKHyongqQ8uxEcuwkuyx0/UOWiuv/Yiw/gXg2vTp7WnBcwWE+3kiecwgFtBuuUECjlaiaFlzUwrTax5fzk/C5dbzFD78=;o0K/Ow/xyWuakjQotYjXkQ=="
 ---
 

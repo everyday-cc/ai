@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-20T18:52:00Z
 originalUrl: "https://www.embedded.com/yes-elon-radar-is-necessary-for-full-self-driving-fsd/"
 webUrl: "https://www.embedded.com/yes-elon-radar-is-necessary-for-full-self-driving-fsd/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Embedded

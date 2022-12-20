@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-10-24-fmr-google-ceo-raises-ethics-concerns-over-conflict-of-interest-with-ai-investments.md",
+      "title": "Fmr. Google CEO raises ethics concerns over conflict of interest with AI investments",
+      "excerpt": "CNBC's Eamon Javers joins 'Squawk Box' to report on the direct AI investments fmr. Google CEO Eric Schmidt made while chairing the Federal Advisory AI Commission, and the fractures in government oversight and ethics systems that enabled Schmidt's activity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2022/10/24/watchdog-raises-ethics-concerns-over-former-google-ceos-role-in-federal-ai-commission.html",
+      "originalUrl": "https://www.cnbc.com/video/2022/10/24/watchdog-raises-ethics-concerns-over-former-google-ceos-role-in-federal-ai-commission.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107139496-16666188131666618807-26181245313-1080pnbcnews.jpg?v=1666618813&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T04:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-21-the-no-nonsense-comprehensive-compelling-case-for-why-lawyers-need-to-know-about-ai-and-the-law.md",
       "title": "The No-Nonsense Comprehensive Compelling Case For Why Lawyers Need To Know About AI And The Law",
       "excerpt": "This is a no-nonsense comprehensive and compelling case for why lawyers need to know about AI and the law. If you are a lawyer or know a lawyer or perhaps a law student, make sure to see what AI has to offer for those keenly interested in the law.",
@@ -1387,50 +1439,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-unesco-urges-government-to-consider-ethics-of-ai-in-education-as-an-absolute-priority.md",
-      "title": "UNESCO urges government to consider ethics of AI in education as an absolute priority",
-      "excerpt": "The report analysed that the AI market in India has the potential to touch INR 780 crores by 2025 at a compound annual growth rate (CAGR) of 20.2% A report by the United Nations Educational, Scientific and Cultural Organisation (UNESCO) launched in Delhi on Tuesday encouraged an overall regulatory framework for use of artificial intelligence (AI) tools in education.",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraphindia.com/edugraph/news/unesco-urges-government-to-consider-ethics-of-ai-in-education-as-an-absolute-priority/cid/1887943",
-      "originalUrl": "https://www.telegraphindia.com/edugraph/news/unesco-urges-government-to-consider-ethics-of-ai-in-education-as-an-absolute-priority/cid/1887943",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telegraphindia.com/telegraph/2022/Sep/1663753381_unesco.png",
-          "width": 2560,
-          "height": 1907,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraphindia.com/amp/edugraph/news/unesco-urges-government-to-consider-ethics-of-ai-in-education-as-an-absolute-priority/cid/1887943",
-      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/news/unesco-urges-government-to-consider-ethics-of-ai-in-education-as-an-absolute-priority/cid/1887943",
-      "publishedDateTime": "2022-09-21T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Telegraph",
-        "domain": "telegraphindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

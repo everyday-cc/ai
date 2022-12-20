@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-12-harnessing-artificial-intelli
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-harnessing-artificial-intelligence-technology-ivf.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Medical Xpress
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Harnessing artificial intelligence technology for IVF embryo selection"
+    excerpt: "An artificial intelligence algorithm can determine non-invasively, with about 70 percent accuracy, if an in vitro fertilized embryo has a normal or abnormal number of chromosomes, according to a new study."
+    publishedDateTime: 2022-12-20T22:51:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/12/221220113044.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
   - title: "Non-invasive artificial intelligence approach for IVF embryo selection"
     excerpt: "An artificial intelligence algorithm can determine non-invasively, with about 70 percent accuracy, if an in vitro fertilized embryo has a normal or abnormal number of chromosomes, according to a new study from researchers at Weill Cornell Medicine."
     publishedDateTime: 2022-12-20T06:01:00Z

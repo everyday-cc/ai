@@ -2,59 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2022-10-18-3-key-insights-on-competitive-landscape-in-global-machine-learning-as-a-service-mlaas-market-ken-research.md",
-      "title": "3 Key Insights on Competitive Landscape in Global Machine Learning as a Service (MLaaS) Market: Ken Research",
-      "excerpt": "Few Diverse Global Players Dominate the Market Holding Majority Revenue Share Despite the Presence of about ~150",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/3-key-insights-on-competitive-landscape-in-global-machine-learning-as-a-service-mlaas-market-ken-research-2022-10-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/3-key-insights-on-competitive-landscape-in-global-machine-learning-as-a-service-mlaas-market-ken-research-2022-10-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-10-17-deep-learning-tool-identifies-bacteria-in-micrographs.md",
       "title": "Deep learning tool identifies bacteria in micrographs",
       "excerpt": "Omnipose, a deep learning software, is helping to solve the challenge of identifying varied and miniscule bacteria in microscopy images. It has gone beyond this initial goal to identify several other types of tiny objects in micrographs.",
@@ -1482,6 +1429,59 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-07-dominos-mlops-release-focuses-on-gpus-and-deep-learning-offers-multicloud-preview.md",
+      "title": "Domino’s MLops release focuses on GPUs and deep learning, offers multicloud preview",
+      "excerpt": "[Also read: Domino Data Lab announces latest MLops platform to satisfy both data science and IT] GPUs can make lots of ML and deep learning operations go faster because they parallelize massive ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/dominos-mlops-release-focuses-on-gpus-and-deep-learning-offers-multi-cloud-preview/",
+      "originalUrl": "https://venturebeat.com/ai/dominos-mlops-release-focuses-on-gpus-and-deep-learning-offers-multi-cloud-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/fpga-ai-production.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/dominos-mlops-release-focuses-on-gpus-and-deep-learning-offers-multi-cloud-preview/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/dominos-mlops-release-focuses-on-gpus-and-deep-learning-offers-multi-cloud-preview/amp/",
+      "publishedDateTime": "2022-10-06T18:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

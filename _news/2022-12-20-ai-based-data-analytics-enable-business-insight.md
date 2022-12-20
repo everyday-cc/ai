@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2022/12/19/1064921/ai-based-data-an
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/19/1064921/ai-based-data-analytics-enable-business-insight/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: MIT Technology Review
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Advancing artificial intelligence and data analytics"
+    excerpt: "NASA computing and data science people are collaborating to find mission-related applications for artificial intelligence. For their work, they recently received an award from"
+    publishedDateTime: 2022-12-19T22:37:00Z
+    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2022/12/advancing-artificial-intelligence-and-data-analytics/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 37
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2022/08/GettyImages-1345658982.jpg"
+        width: 2309
+        height: 1299
+        isCached: true
   - title: "IARPA to Discuss Analytics Intelligence Program With Industry"
     excerpt: "Looking for the latest Government Contracting News? Read about IARPA to Discuss Analytics Intelligence Program With Industry."
     publishedDateTime: 2022-12-16T20:52:00Z

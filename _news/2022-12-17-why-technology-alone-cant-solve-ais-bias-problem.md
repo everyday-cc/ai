@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-16T16:25:00Z
 originalUrl: "https://hbswk.hbs.edu/item/why-technology-alone-cant-solve-ais-bias-problem"
 webUrl: "https://hbswk.hbs.edu/item/why-technology-alone-cant-solve-ais-bias-problem"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Harvard Business School
