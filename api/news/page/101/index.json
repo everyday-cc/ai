@@ -2,6 +2,110 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2022-09-21-improving-accuracy-of-computer-vision-models-voxel51-raises-125m.md",
+      "title": "Improving accuracy of computer vision models, Voxel51 raises $12.5M",
+      "excerpt": "Computer vision startup, Voxel51, helping data scientists ensure the accuracy of datasets used for computer vision, raises $12.5M series A.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/improving-accuracy-of-computer-vision-models-voxel51-raises-12-5m/",
+      "originalUrl": "https://venturebeat.com/ai/improving-accuracy-of-computer-vision-models-voxel51-raises-12-5m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/06/computer-vision-e1663772711547.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/improving-accuracy-of-computer-vision-models-voxel51-raises-12-5m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/improving-accuracy-of-computer-vision-models-voxel51-raises-12-5m/amp/",
+      "publishedDateTime": "2022-09-21T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-tech-war-nvidia-ceo-jensen-huang-confident-in-china-market-despite-us-ai-chip-ban.md",
+      "title": "Tech war: Nvidia CEO Jensen Huang confident in China market despite US AI chip ban",
+      "excerpt": "Jensen Huang says China continues to present a significant growth opportunity even after Washington restricted the Californian company from exporting two of its top chips to the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-war/article/3193316/tech-war-nvidia-ceo-jensen-huang-confident-china-market-despite-us-ai",
+      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3193316/tech-war-nvidia-ceo-jensen-huang-confident-china-market-despite-us-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/09/21/6b696160-95c0-4607-9999-c01b287baab3_021e4de6.jpg?itok=wesR8G4f&v=1663760466",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T08:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-21-sustainable-and-ai-concrete-startup-aicrete-announces-4-million-seed-funding.md",
       "title": "Sustainable and AI Concrete Startup AICrete Announces $4 Million Seed Funding",
       "excerpt": "Through use of AI, AICrete is poised to reduce concrete emissions by up to 35% and drastically increase industry profit margins. RICHMOND, Calif. , Sept. 21, 2022 /PRNewswire/ --",
@@ -1130,102 +1234,6 @@
         "AI",
         "Machine Learning",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-machine-learning-market-2022-size-share-industry-development-scenario-and-forecast-2030.md",
-      "title": "Machine Learning Market 2022 Size, Share, Industry Development Scenario and Forecast 2030",
-      "excerpt": "The global machine learning market was valued at INR 839.55 Bn in 2020. It is expected to reach INR 7632.45 Bn by 2027, expanding at a CAGR of ~37.16% during the 2021 2027 period. Request To Download Free Sample of This Strategic Report: - Machine learning (ML) is the application of artificial intelligence (AI) for developing systems capability to learn automatically and improve their overall performance through experience,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-2022-size-share-industry-development-scenario-and-forecast-2030-2022-09-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-2022-size-share-industry-development-scenario-and-forecast-2030-2022-09-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T23:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-healthcare-artificial-intelligence-market-to-reach-513-billion-by-2027-growing-at-a-cagr-of-414-from-2020-meticulous-researchr-analysis.md",
-      "title": "Healthcare Artificial Intelligence Market to Reach $51.3 Billion by 2027, Growing at a CAGR of 41.4% from 2020- Meticulous Research(R) Analysis",
-      "excerpt": "Meticulous Research(R) in its latest publication titled \"Healthcare Artificial Intelligence Market by Product and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-to-reach-513-billion-by-2027-growing-at-a-cagr-of-414-from-2020--meticulous-researchr-analysis-2022-09-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-to-reach-513-billion-by-2027-growing-at-a-cagr-of-414-from-2020--meticulous-researchr-analysis-2022-09-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T22:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

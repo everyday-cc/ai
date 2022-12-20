@@ -2,6 +2,92 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2022-10-08-chaos-on-launch-day-for-scotlands-first-driverless-bus-system-as-technical-glitches-saw-one-of-the-electric-shuttles-get-lost-forcing-a.md",
+      "title": "Chaos on launch day for Scotland's first driverless bus system as 'technical glitches' saw one of the electric shuttles get LOST - forcing a human operator to drive instead",
+      "excerpt": "Itsy Bitsy Teenie Weenie Driverless Machiney has a capacity of up to 15 passengers and is a first for Scotland. The vehicle uses sensors to guide its way through a pre-taught route but there are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/news/article-11292833/Scotlands-driverless-bus-launch-delayed-one-shuttles-got-LOST.html",
+      "originalUrl": "https://www.dailymail.co.uk/news/article-11292833/Scotlands-driverless-bus-launch-delayed-one-shuttles-got-LOST.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/10/07/20/63239185-0-image-a-16_1665172533692.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-11292833/amp/Scotlands-driverless-bus-launch-delayed-one-shuttles-got-LOST.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-11292833/amp/Scotlands-driverless-bus-launch-delayed-one-shuttles-got-LOST.html",
+      "publishedDateTime": "2022-10-07T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-08-scotlands-first-driverless-bus-system-launch-delayed-after-one-of-the-shuttles-got-lost.md",
+      "title": "Scotland's first driverless bus system launch delayed after one of the shuttles got LOST",
+      "excerpt": "The shuttle service is nicknamed Itsy Bitsy Teenie Weenie Driverless Machiney The launch day of the driverless busses saw chaos as one shuttle got lost Technical glitches meant the bus was stuck ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/news/article-11292833/amp/Scotlands-driverless-bus-launch-delayed-one-shuttles-got-LOST.html",
+      "originalUrl": "https://www.dailymail.co.uk/news/article-11292833/amp/Scotlands-driverless-bus-launch-delayed-one-shuttles-got-LOST.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/10/07/20/63239185-0-image-a-16_1665172533692.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-11292833/amp/Scotlands-driverless-bus-launch-delayed-one-shuttles-got-LOST.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-11292833/amp/Scotlands-driverless-bus-launch-delayed-one-shuttles-got-LOST.html",
+      "publishedDateTime": "2022-10-07T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-08-wike-signs-legislative-instrument-revoking-omehias-recognition-as-ex-rivers-gov.md",
       "title": "Wike signs legislative instrument revoking Omehia’s recognition as ex-Rivers gov",
       "excerpt": "“That in the first instance, the recognition was extra-judicial ... ordinarily should serve as the bastion of democracy, the voice and conscience of Rivers people, be reduced to the Governor ...",
@@ -1082,100 +1168,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones.md",
-      "title": "In Apple's shadow, Google takes new route to face recognition on Pixel phones",
-      "excerpt": "Oct 6 (Reuters) - Facial recognition returned to the latest Google Pixel phones on Thursday after a short hiatus due to challenges on cost and performance, according to three former employees at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/apples-shadow-google-takes-new-route-face-recognition-pixel-phones-2022-10-06/",
-      "originalUrl": "https://www.reuters.com/technology/apples-shadow-google-takes-new-route-face-recognition-pixel-phones-2022-10-06/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-06T16:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-ai-powered-supply-chain-visibility-boosted-as-altana-raises-100m.md",
-      "title": "AI-powered supply chain visibility boosted as Altana raises $100M",
-      "excerpt": "Altana, which says it's using AI to build a map of the supply chain network, has raised $100M in series B funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-powered-supply-chain-visibility-boosted-as-altana-raises-100m/",
-      "originalUrl": "https://venturebeat.com/ai/ai-powered-supply-chain-visibility-boosted-as-altana-raises-100m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-supply-chain_logistics_infographic_638521560-e1665099850646.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-powered-supply-chain-visibility-boosted-as-altana-raises-100m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-powered-supply-chain-visibility-boosted-as-altana-raises-100m/amp/",
-      "publishedDateTime": "2022-10-06T16:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

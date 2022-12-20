@@ -2,6 +2,101 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2022-10-20-tired-of-laundry-folding-ai-breaks-the-robot-folding-speed-record.md",
+      "title": "Tired of laundry folding? AI breaks the robot folding speed record",
+      "excerpt": "While it's possible that someone out there enjoys folding clothes, it's probably not a beloved pastime. Accordingly, researchers at UC Berkeley's AUTOLAB have developed a new robotic method of folding garments at record speed (for a robot) called SpeedFolding.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/10/tired-of-laundry-folding-ai-breaks-the-robot-folding-speed-record/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/10/tired-of-laundry-folding-ai-breaks-the-robot-folding-speed-record/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/speedfold_hero_1-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-19T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-new-research-paves-way-for-innovative-theory-of-cognitive-processing.md",
+      "title": "New research paves way for innovative theory of cognitive processing",
+      "excerpt": "\"We currently do not understand how neurons and glia work together, or how glial dysfunction contributes to cognitive deficits.\" Glial cells are abundant throughout the brain and play several ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-10-paves-theory-cognitive.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-10-paves-theory-cognitive.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/cognitive.jpg",
+          "width": 1920,
+          "height": 1357,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-10-paves-theory-cognitive.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-paves-theory-cognitive.amp",
+      "publishedDateTime": "2022-10-19T11:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-20-watch-out-models-the-ai-revolution-is-coming-for-your-jobs-too.md",
       "title": "Watch out models, the AI revolution is coming for your jobs too",
       "excerpt": "The AI revolution has already begun with artists and photographers put on notice with the latest image generators and now even models might need new jobs.",
@@ -1119,102 +1214,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-ai-law-and-ai-ethics-deeply-disturbed-by-that-recent-history-making-moment-of-an-ai-robot-testifying-to-the-uk-parliament.md",
-      "title": "AI Law And AI Ethics Deeply Disturbed By That Recent “History-Making Moment” Of An AI Robot Testifying To The UK Parliament",
-      "excerpt": "An AI robot spoke to the UK Parliament in a committee hearing, which has been heralded as historic and meanwhile scoffed at as being nothing more than a cheap stunt. We take a close look at what occurred and examine the true limits of AI and robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/19/ai-law-and-ai-ethics-deeply-disturbed-by-that-recent-history-making-moment-of-an-ai-robot-testifying-to-the-uk-parliament/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/19/ai-law-and-ai-ethics-deeply-disturbed-by-that-recent-history-making-moment-of-an-ai-robot-testifying-to-the-uk-parliament/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634dd406801f9839f3ad84c7/0x0.jpg?format=jpg&crop=3835,2159,x0,y240,safe&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/19/ai-law-and-ai-ethics-deeply-disturbed-by-that-recent-history-making-moment-of-an-ai-robot-testifying-to-the-uk-parliament/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/10/19/ai-law-and-ai-ethics-deeply-disturbed-by-that-recent-history-making-moment-of-an-ai-robot-testifying-to-the-uk-parliament/amp/",
-      "publishedDateTime": "2022-10-19T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-asc-solution-for-compliance-recording-is-first-to-be-listed-in-the-microsoft-cloud-for-financial-services.md",
-      "title": "ASC Solution for Compliance Recording is first to be listed in the Microsoft Cloud for Financial Services",
-      "excerpt": "As Teams becomes increasingly important as a platform for financial services ASC and Microsoft have been working together to make regulatory compliance as easy as possible via a Teams–based ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/asc-solution-for-compliance-recording-is-first-to-be-listed-in-the-microsoft-cloud-for-financial-services-1031816791",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/asc-solution-for-compliance-recording-is-first-to-be-listed-in-the-microsoft-cloud-for-financial-services-1031816791",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T04:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

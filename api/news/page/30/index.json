@@ -2,6 +2,92 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2022-11-23-a-ceos-plan-to-monetize-health-data-rescued-from-ibm-watsons-wreckage.md",
+      "title": "A CEO’s plan to monetize health data rescued from IBM Watson’s wreckage",
+      "excerpt": "A company being built from the ashes of IBM’s Watson Health division is launching new lines of business with a much different message: The real value is in the health data, not the fancy AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthleadersmedia.com/technology/ceo’s-plan-monetize-health-data-rescued-ibm-watson’s-wreckage",
+      "originalUrl": "https://www.healthleadersmedia.com/technology/ceo’s-plan-monetize-health-data-rescued-ibm-watson’s-wreckage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.healthleadersmedia.com/sites/hlmp/files/files/ogdefault.jpg",
+          "width": 820,
+          "height": 312,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-22T12:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HealthLeaders Media",
+        "domain": "healthleadersmedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-23-metas-new-ai-can-use-deceit-to-conquer-a-board-game-world.md",
+      "title": "Meta’s new AI can use deceit to conquer a board game world",
+      "excerpt": "AI has learned to compete against humans in games like chess and Go. But how does it fare in a game that required communication and planning?",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/technology/meta-ai-bot-diplomacy/",
+      "originalUrl": "https://www.popsci.com/technology/meta-ai-bot-diplomacy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2022/11/22/asli-yilmaz-u1PX1Q26Kpo-unsplash-scaled.jpg?auto=webp",
+          "width": 2560,
+          "height": 1596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/technology/meta-ai-bot-diplomacy/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/meta-ai-bot-diplomacy/?amp",
+      "publishedDateTime": "2022-11-22T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-11-23-why-ai-needs-a-steady-diet-of-synthetic-data.md",
       "title": "Why AI needs a steady diet of synthetic data",
       "excerpt": "Experts say AI itself is starving — and needs to change its diet. One company says synthetic data is the answer.",
@@ -1071,92 +1157,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-amazon-web-services-launches-aws-asia-pacific-hyderabad-region.md",
-      "title": "Amazon Web Services launches AWS Asia Pacific (Hyderabad) Region",
-      "excerpt": "Cloud service provider Amazon Web Services, Inc. has launched AWS Asia Pacific (Hyderabad) Region, its second such facility to augment services to customers in India.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/business/Industry/amazon-web-services-launches-aws-asia-pacific-hyderabad-region/article66168118.ece",
-      "originalUrl": "https://www.thehindu.com/business/Industry/amazon-web-services-launches-aws-asia-pacific-hyderabad-region/article66168118.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th-i.thgim.com/public/incoming/ajfcx3/article66168232.ece/alternates/FREE_1200/2022-10-28T005024Z_750891177_RC2UXU9J3955_RTRMADP_3_TECH-RESULTS-CLOUD.JPG",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/business/Industry/amazon-web-services-launches-aws-asia-pacific-hyderabad-region/article66168118.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/Industry/amazon-web-services-launches-aws-asia-pacific-hyderabad-region/article66168118.ece/amp/",
-      "publishedDateTime": "2022-11-21T22:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-aws-launches-second-infrastructure-region-in-india-to-invest-44-billion-by-2030.md",
-      "title": "AWS launches second infrastructure region in India, to invest $4.4 billion by 2030",
-      "excerpt": "The investment is also estimated to create an average of more than 48,000 full-time jobs annually, which will be part of the AWS supply chain in India including construction, facility maintenance, engineering,",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/aws-launches-second-infrastructure-region-in-india-to-invest-4-4-billion-by-2030/2882035/",
-      "originalUrl": "https://www.financialexpress.com/industry/aws-launches-second-infrastructure-region-in-india-to-invest-4-4-billion-by-2030/2882035/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/11/AWS.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/aws-launches-second-infrastructure-region-in-india-to-invest-4-4-billion-by-2030/2882035/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/aws-launches-second-infrastructure-region-in-india-to-invest-4-4-billion-by-2030/2882035/lite/",
-      "publishedDateTime": "2022-11-21T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

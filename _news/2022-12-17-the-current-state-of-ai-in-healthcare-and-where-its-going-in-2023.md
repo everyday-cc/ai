@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 400
         isCached: true
-  - title: "My Coach, Artificial Intelligence"
-    excerpt: "The mobile coach is on the rise - accelerated by the Covid pandemic. AI is now omnipresent in training and health apps. And in professional sport and marketing? Is artificial intelligence increasingly playing a leading role here as well?"
-    publishedDateTime: 2022-12-15T09:45:00Z
-    webUrl: "https://www.ispo.com/en/news-markets/my-coach-artificial-intelligence"
-    ampWebUrl: "https://www.ispo.com/en/news-markets/my-coach-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-ispo-com.cdn.ampproject.org/c/s/www.ispo.com/en/news-markets/my-coach-artificial-intelligence?amp"
-    type: article
-    provider:
-      name: ISPO
-      domain: ispo.com
-    quality: 57
-    images:
-      - url: "https://www.ispo.com/sites/default/files/styles/facebook/public/2020-12/FRE_eRGB2_Dorian000898.jpg?h=1f77ac1a&itok=wzNJOQ6O"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Engineers help artificial intelligence to learn more safely in the real world"
     excerpt: "Penn State researchers are looking for a safer and more efficient way to use machine learning in the real world. Using a simulated high-rise office building, they developed and tested a new reinforcement learning algorithm aimed at improving energy consumption and occupant comfort in a real-world setting."
     publishedDateTime: 2022-12-19T18:35:00Z

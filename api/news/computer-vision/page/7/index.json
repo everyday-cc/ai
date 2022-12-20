@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-10-05-facial-recognition-technology-victimizes-people-of-color-it-must-be-regulated.md",
+      "title": "Facial Recognition Technology Victimizes People of Color. It Must Be Regulated.",
+      "excerpt": "More than a dozen states have enacted laws regulating how law enforcement uses it. But federal legislation is needed: A piecemeal approach doesn't keep all citizens safe from misidentification.",
+      "sourceUrl": null,
+      "webUrl": "https://www.governing.com/now/facial-recognition-technology-victimizes-people-of-color-it-must-be-regulated",
+      "originalUrl": "https://www.governing.com/now/facial-recognition-technology-victimizes-people-of-color-it-must-be-regulated",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/1acc636/2147483647/strip/true/crop/840x438+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F79%2Fb3%2F33bdfb4c4c1f8669693260e57c8e%2Flieu-facial-recognition.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.governing.com/now/facial-recognition-technology-victimizes-people-of-color-it-must-be-regulated?_amp=true",
+      "cdnAmpWebUrl": "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/now/facial-recognition-technology-victimizes-people-of-color-it-must-be-regulated?_amp=true",
+      "publishedDateTime": "2022-10-04T22:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Governing",
+        "domain": "governing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-05-bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores.md",
       "title": "Bunnings denies use of facial recognition technology in New Zealand stores",
       "excerpt": "In Australia, Bunnings and Kmart have put the use of controversial cameras on pause while they are under investigation.",
@@ -1368,49 +1411,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-new-report-offers-blueprint-for-regulation-of-facial-recognition-technology.md",
-      "title": "New report offers blueprint for regulation of facial recognition technology",
-      "excerpt": "Human Technology Institute outlines a model law for facial recognition technology to protect against harmful use of this technology, but also foster innovation for public benefit.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-09-blueprint-facial-recognition-technology.html",
-      "originalUrl": "https://techxplore.com/news/2022-09-blueprint-facial-recognition-technology.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/facial-recognition.jpg",
-          "width": 1920,
-          "height": 1274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-09-blueprint-facial-recognition-technology.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-blueprint-facial-recognition-technology.amp",
-      "publishedDateTime": "2022-09-26T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

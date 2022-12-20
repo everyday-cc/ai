@@ -91,6 +91,20 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "CPS Announces New FinTech-Driven Automotive Financing Platform Enhancements"
+    excerpt: "Consumer Portfolio Services, Inc. (Nasdaq: CPSS) (\"CPS\"), an independent specialty FinTech that provides indirect automobile financing to individuals with past credit"
+    publishedDateTime: 2022-12-19T12:32:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/cps-announces-new-fintech-driven-automotive-financing-platform-enhancements/article_551ced3b-88ef-5b3a-b98b-a0178653e6a6.html"
+    type: article
+    provider:
+      name: The Bakersfield Californian
+      domain: bakersfield.com
+    quality: 22
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Moomoo wins Best Investment Research Tech at the Benzinga Global Fintech Awards"
     excerpt: "Moomoo Recognized for 2nd Straight Year at Benzinga Global Fintech Awards PALO ALTO, Calif., Dec. 16, 2022 /PRNewswire/ -- Moomoo, the tech-driven online financial services platform, was"
     publishedDateTime: 2022-12-16T13:59:00Z

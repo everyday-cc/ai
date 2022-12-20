@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-12-11-common-gpu-problems-and-how-to-fix-them.md",
+      "title": "Common GPU problems and how to fix them",
+      "excerpt": "If you use a desktop PC or laptop for long enough, chances are you’re going to come across one of the common GPU problems that have plagued gamers and workers since the humble graphics card ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/common-gpu-problems-how-to-fix/",
+      "originalUrl": "https://www.digitaltrends.com/computing/common-gpu-problems-how-to-fix/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/10/rtx-4090-suprim-x-5.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/common-gpu-problems-how-to-fix/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/common-gpu-problems-how-to-fix/?amp",
+      "publishedDateTime": "2022-12-10T23:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-11-microsofts-role-in-the-success-of-openai.md",
       "title": "Microsoft’s Role in the Success of OpenAI",
       "excerpt": "The OpenAI–Microsoft partnership began in 2019 when Microsoft announced that it would invest $1 billion into OpenAI's project of building Artificial General Intelligence (AGI) that had wide economic benefits.",
@@ -1143,49 +1195,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-10-popballoons-the-first-serious-mixed-reality-game-for-autistic-children.md",
-      "title": "Pop'Balloons: The first serious mixed-reality game for autistic children",
-      "excerpt": "Demand for mental health assessment and intervention is soaring; available services are stretched to the limit, centralized and difficult for many to access. This is particularly true for children with autism spectrum disorder (ASD).",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-12-popballoons-mixed-reality-game-autistic-children.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-12-popballoons-mixed-reality-game-autistic-children.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/popballoons-the-first.jpg",
-          "width": 795,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-12-popballoons-mixed-reality-game-autistic-children.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-popballoons-mixed-reality-game-autistic-children.amp",
-      "publishedDateTime": "2022-12-09T09:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

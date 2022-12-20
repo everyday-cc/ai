@@ -2,6 +2,110 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-12-07-sellscale-uses-generative-ai-to-create-better-marketing-emails.md",
+      "title": "Sellscale uses generative AI to create better marketing emails",
+      "excerpt": "SellScale announced today it has raised $3 million in funding led by Pear.VC’s Pejman Nozad, with participation from Ovo Fund’s Eric Chen and Browder Capital’s Joshua Browder. The startup claims its revenue has doubled month over month for the last three months.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/12/06/sellscale-funding/",
+      "originalUrl": "https://techcrunch.com/2022/12/06/sellscale-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1358638101.jpg?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/12/06/sellscale-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/06/sellscale-funding/amp/",
+      "publishedDateTime": "2022-12-06T14:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-how-startups-can-help-build-a-sustainable-future.md",
+      "title": "How startups can help build a sustainable future",
+      "excerpt": "Google's Startups for Sustainable Development program supports impact-driven startups who are building a more sustainable future.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/sustainability/startups-for-sustainable-development/",
+      "originalUrl": "https://blog.google/outreach-initiatives/sustainability/startups-for-sustainable-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sfsd-crop-hero.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T13:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-07-see-how-mcdonalds-subway-chipotle-and-other-chains-are-using-robots-and-ai-to-make-faster-orders-with-fewer-workers.md",
       "title": "See how McDonald's, Subway, Chipotle and other chains are using robots and AI to make faster orders with fewer workers",
       "excerpt": "In the fall, fast-casual chain Panera Bread began testing AI-powered drive-thru tech at two upstate New York restaurants. An automated bot named \"Tori\" created by the startup OpenCity takes orders ...",
@@ -1044,102 +1148,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-robo-truckers-and-the-ai-fueled-future-of-transport.md",
-      "title": "Robo Truckers and the AI-Fueled Future of Transport",
-      "excerpt": "Concerns about artificial intelligence replacing long-haul drivers are not new, but the real story is more nuanced.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/autonomous-vehicles-transportation-truckers-employment/",
-      "originalUrl": "https://www.wired.com/story/autonomous-vehicles-transportation-truckers-employment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/638e52b0fefa29ce257ada8f/master/pass/artificial-intelligence-trucker-transport.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/autonomous-vehicles-transportation-truckers-employment/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/autonomous-vehicles-transportation-truckers-employment/amp",
-      "publishedDateTime": "2022-12-06T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-lattice-semi-expands-to-mid-range-fpgas-with-avant-line.md",
-      "title": "Lattice Semi Expands To Mid-Range FPGAs With Avant Line",
-      "excerpt": "Lattice Semiconductor launched a new mid-range line of FPGAs dubbed Avant, significantly growing its potential market and morphing itself into a more complete FPGA provider. Read more here.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4562550-lattice-semi-mid-range-fpga-avant",
-      "originalUrl": "https://seekingalpha.com/article/4562550-lattice-semi-mid-range-fpga-avant",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1350814521/image_1350814521.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-06T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

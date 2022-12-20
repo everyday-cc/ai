@@ -23,43 +23,57 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) in Fintech Market Analysis Research Report, Challenges, Scopes, Market Share, Revenue, and Forecasts 2023 to 2028"
-    excerpt: "\" Artificial Intelligence (AI) in Fintech Market \" Insights 2022 - By Applications (Bank, Insurance, Securities and Funds, Third-party Financial Company, Others), By Types (Deep Learning, Machine Learning,"
-    publishedDateTime: 2022-12-18T01:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-analysis-research-report-challenges-scopes-market-share-revenue-and-forecasts-2023-to-2028-2022-12-17"
+  - title: "Artificial Intelligence Chipsets Market to Grow Significantly by Leading Players 2023 to 2028"
+    excerpt: "\" Artificial Intelligence Chipsets Market \" Insights 2022 - By Applications (Retail, Transportation, Automation, Manufacturing, Others), By Types (Deep Learning, Robotics, Digital Personal Assistant,"
+    publishedDateTime: 2022-12-17T01:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-to-grow-significantly-by-leading-players-2023-to-2028-2022-12-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 48
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Fintech Market Research Report: Key Trends and Opportunities by State and Territory for period 2022 to 2028."
-    excerpt: "Given that the \" AI in Fintech Market \" is one of the industries growing at the quickest rate, it is essential for market participants to do a thorough study of the industry beforehand. The industry analysis and market research report for the AI in Fintech sector look at the global market from 2022 to 2028."
-    publishedDateTime: 2022-12-17T16:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-research-report-key-trends-and-opportunities-by-state-and-territory-for-period-2022-to-2028-2022-12-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Swarm Intelligence Market 2023 : Industry Scenario, Strategies, Growth Factors and Forecast to 2028"
-    excerpt: "By Types (Ant Colony Optimization,Particle Swarm Optimization,Other), By Segmentation analysis, Regions and Forecast to 2028. The Global Swarm Intelligence market Report provides In-depth analysis on the market status of the Swarm Intelligence Top manufacturers with best facts and figures,"
+  - title: "Artificial Intelligence (AI) As a Service Market 2023 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2028"
+    excerpt: "As a Service Market \" Insights 2022 - By Applications (Banking, Financial Services, and Insurance,Healthcare and Life Sciences,Retail,Telecommunication,Government and Defense,Manufacturing,Othe), By Types (Software,"
     publishedDateTime: 2022-12-19T08:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/swarm-intelligence-market-2023-industry-scenario-strategies-growth-factors-and-forecast-to-2028-2022-12-19"
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-as-a-service-market-2023-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2028-2022-12-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 20
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Education Market 2022 : Profiling Key Players, Value Estimation and Analysis by Recent Trends to 2028"
+    excerpt: "\"Artificial Intelligence (AI) in Education Market\" Insights 2022 - By Applications (Virtual Facilitators and Learning Environments, Intelligent Tutoring Systems, Content Delivery"
+    publishedDateTime: 2022-12-16T01:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-2022-profiling-key-players-value-estimation-and-analysis-by-recent-trends-to-2028-2022-12-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+  - title: "Artificial Intelligence in Accounting Market 2023 : Business Scenario, Corporate Profiles, Size and Dynamic Innovation by 2028"
+    excerpt: "\" Artificial Intelligence in Accounting Market \" Insights 2022 - By Applications (BFSI, Retail and eCommerce, Government and Defense, Healthcare and Life Sciences, Manufacturing), By Types (On-Premise,"
+    publishedDateTime: 2022-12-17T01:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-2023-business-scenario-corporate-profiles-size-and-dynamic-innovation-by-2028-2022-12-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "6ThlaTrp69XGm1P+pyxaYIPxqkO8n8OoaRZNFrv2087Y4eVnQ6Kmhbtc5J2l2xGr1US4CYX/M1yAOiOx1x+n2CYCIqGCO9TvzNjFgqQ/Htt/U1w9/o2fEKB7FwTNxI57d3TnpL1M/ALdeg+ZmJR9xZuE69cx2YvSGxAl1ym3Gzag2g7cP0Vm8dw5LBRts+ja0xz5xgj1kn7lSr+W3okp6HTFTT/5Jm/nWJxTfDHl0lOkNm8LJ7OTgLBVkKpyRhn4YhUT7svz1KkyuJtwB2mNohSDQ3yJ5MHNwCOjAUfWJmnyBGi7iAx8jAVxXxHAaYbHByokMQNfRYPabX7NbVVNMoZe10sTwdoh5am38ZFNMic=;SQETcs+O9tUBetgP5HwN7w=="
 ---

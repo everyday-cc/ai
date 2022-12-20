@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-18-how-the-dont-say-gay-law-is-affecting-florida-lgbtq-students-and-teachers.md",
+      "title": "How The “Don’t Say Gay” Law Is Affecting Florida LGBTQ Students And Teachers",
+      "excerpt": "There are many people who contributed to the formation of our country that deserve recognition,” she said ... parents have “the right to object to…materials used in classrooms based upon his or her belief regarding morality, sex, religion, or ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.buzzfeednews.com/article/hallielieberman/dont-say-gay-lgbtq-students-schools-florida",
+      "originalUrl": "https://www.buzzfeednews.com/article/hallielieberman/dont-say-gay-lgbtq-students-schools-florida",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2016-07/5/12/enhanced/buzzfeed-prod-fastlane03/dateline-3772-1467735734-1.png",
+          "width": 275,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/hallielieberman/dont-say-gay-lgbtq-students-schools-florida",
+      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/hallielieberman/dont-say-gay-lgbtq-students-schools-florida",
+      "publishedDateTime": "2022-11-18T06:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "buzzfeednews.com",
+        "domain": "buzzfeednews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-five-ways-android-13-has-supercharged-my-galaxy-s22-experience.md",
       "title": "Five ways Android 13 has supercharged my Galaxy S22 experience",
       "excerpt": "All you need to do is long press in the text area of an image, and the Optical Character Recognition (OCR ... When you draw a shape in an image — say, for highlighting a certain object by drawing around it — and hold on to the outline, it will ...",
@@ -1341,58 +1393,6 @@
         "Computer Vision",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-mediatek-upgrades-flagship-4k-120hz-tv-experiences-with-new-pentonic-1000-chipset.md",
-      "title": "MediaTek Upgrades Flagship 4K 120Hz TV Experiences with New Pentonic 1000 Chipset",
-      "excerpt": "New chipset packs all the latest features for Cloud gaming and 4K streaming SONOMA, Calif., Nov. 10, 2022 /PRNewswire/ -- MediaTek today launched",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mediatek-upgrades-flagship-4k-120hz-tv-experiences-with-new-pentonic-1000-chipset-1031900798",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/mediatek-upgrades-flagship-4k-120hz-tv-experiences-with-new-pentonic-1000-chipset-1031900798",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1942241/MediaTek_Pentonic_1000_1022.jpg",
-          "width": 400,
-          "height": 264,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T15:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

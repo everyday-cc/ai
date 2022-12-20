@@ -4,17 +4,17 @@
     {
       "path": "_news/2022-12-19-tsa-tests-facial-recognition-technology-at-more-airports.md",
       "title": "TSA tests facial recognition technology at more airports",
-      "excerpt": "That’s because the Transportation Security Administration is expanding its facial recognition pilot program. The goal is to match a passenger’s face with a photo ID at security checkpoints. The program is still in the testing phase, but it’s already ...",
+      "excerpt": "There’s a good chance that many people traveling for the holidays through some of the nation’s busiest airports will have their faces scanned. That’s because the Transportation Security Administration is expanding its facial recognition pilot program.",
       "sourceUrl": null,
-      "webUrl": "https://www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/",
-      "originalUrl": "https://www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/",
+      "webUrl": "https://www.wsfa.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/",
+      "originalUrl": "https://www.wsfa.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://gray-ktre-prod.cdn.arcpublishing.com/resizer/rJtC5wJXGKCN8WlDF2uXxgTJqTc=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/FO6PWOKSHVCMJF5Q6UGNWYBJBU.jpg",
+          "url": "https://gray-wsfa-prod.cdn.arcpublishing.com/resizer/8eUkX9QniTbGBUFOErz2ZUoJq_4=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/5E24AXNOPJEKHC4APEXAMO437E.jpg",
           "width": 800,
           "height": 450,
           "title": null,
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-ktre-com.cdn.ampproject.org/c/s/www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/?outputType=amp",
-      "publishedDateTime": "2022-12-19T07:09:00-08:00",
+      "ampWebUrl": "https://www.wsfa.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wsfa-com.cdn.ampproject.org/c/s/www.wsfa.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/?outputType=amp",
+      "publishedDateTime": "2022-12-19T06:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KTRE",
-        "domain": "ktre.com",
+        "name": "WSFA",
+        "domain": "wsfa.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -746,6 +746,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-09-how-businesses-are-deploying-facial-recognition.md",
+      "title": "How businesses are deploying facial recognition",
+      "excerpt": "As facial recognition software becomes easier to acquire, businesses are using it to surveil and analyze customers. Bloomberg's Parmy Olson explains where and how the technology is being deployed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.capradio.org/news/npr/story?storyid=1141616057",
+      "originalUrl": "https://www.capradio.org/news/npr/story?storyid=1141616057",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2022/12/08/parmy-olson-headshot-3d43263a1ecc5b7a8d8bc65de8fe77c579207b3a.jpg?s=6",
+          "width": 948,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T06:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Capital Public Radio",
+        "domain": "capradio.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-09-computer-vision-technology-startup-brodmann17-has-shut-down.md",
       "title": "Computer vision technology startup Brodmann17 has shut down",
       "excerpt": "Brodmann17, an Israeli computer vision technology startup that developed a novel approach to take on a marketplace dominated by Mobileye, shut down this week. Brodmann17’s co-founder and CEO Adi ...",
@@ -1342,49 +1385,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-targeting-ai-and-computer-vision-innodisk-launches-new-camera-module-series.md",
-      "title": "Targeting AI and computer vision, Innodisk launches new camera module series",
-      "excerpt": "Industrial-grade storage and embedded peripherals developer Innodisk recently announced its shift toward the artificial intelligence (AI) industry. As 50% of Innodisk's AI development is related to image recognition,",
-      "sourceUrl": null,
-      "webUrl": "https://electronics360.globalspec.com/article/18977/targeting-ai-and-computer-vision-innodisk-launches-new-camera-module-series",
-      "originalUrl": "https://electronics360.globalspec.com/article/18977/targeting-ai-and-computer-vision-innodisk-launches-new-camera-module-series",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electronics360.globalspec.com/images/assets/977/18977/61340_Innodisk_Launches_New_Camera_Module.jpg",
-          "width": 700,
-          "height": 245,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "electronics360.globalspec",
-        "domain": "globalspec.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

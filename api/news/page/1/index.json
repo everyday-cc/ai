@@ -357,49 +357,6 @@
       ]
     },
     {
-      "path": "_news/2022-12-19-tsa-tests-facial-recognition-technology-at-more-airports.md",
-      "title": "TSA tests facial recognition technology at more airports",
-      "excerpt": "That’s because the Transportation Security Administration is expanding its facial recognition pilot program. The goal is to match a passenger’s face with a photo ID at security checkpoints. The program is still in the testing phase, but it’s already ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/",
-      "originalUrl": "https://www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-ktre-prod.cdn.arcpublishing.com/resizer/rJtC5wJXGKCN8WlDF2uXxgTJqTc=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/FO6PWOKSHVCMJF5Q6UGNWYBJBU.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-ktre-com.cdn.ampproject.org/c/s/www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/?outputType=amp",
-      "publishedDateTime": "2022-12-19T07:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTRE",
-        "domain": "ktre.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-19-how-ai-avatars-and-face-filters-are-altering-our-conception-of-beauty.md",
       "title": "How AI Avatars And Face Filters Are Altering Our Conception Of Beauty",
       "excerpt": "By widening the gap between fantasy and reality, technology that generates the perfect self-image is raising our baseline of beauty. But at what cost?",
@@ -408,7 +365,7 @@
       "originalUrl": "https://www.forbes.com/sites/annahaines/2022/12/19/how-ai-avatars-and-face-filters-are-affecting-our-conception-of-beauty/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -459,7 +416,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/19/how-ai-creativity-affects-human-art-and-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -502,6 +459,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-19-tsa-tests-facial-recognition-technology-at-more-airports.md",
+      "title": "TSA tests facial recognition technology at more airports",
+      "excerpt": "There’s a good chance that many people traveling for the holidays through some of the nation’s busiest airports will have their faces scanned. That’s because the Transportation Security Administration is expanding its facial recognition pilot program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsfa.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/",
+      "originalUrl": "https://www.wsfa.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wsfa-prod.cdn.arcpublishing.com/resizer/8eUkX9QniTbGBUFOErz2ZUoJq_4=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/5E24AXNOPJEKHC4APEXAMO437E.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsfa.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wsfa-com.cdn.ampproject.org/c/s/www.wsfa.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/?outputType=amp",
+      "publishedDateTime": "2022-12-19T06:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WSFA",
+        "domain": "wsfa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-19-empathy-in-the-age-of-ai.md",
       "title": "Empathy in the Age of AI",
       "excerpt": "According to some scholars, projecting our humanity onto AI could have real consequences, from further obscuring the way these minds actually function to reinforcing a dubious notion of the human mind as a sole,",
@@ -510,7 +510,7 @@
       "originalUrl": "https://www.wired.com/story/artificial-intelligence-animals-anthropomorphism/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -805,7 +805,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-service-market-2023-production-capacity-restring-drivers-size-and-landscape-outlook-2028-2022-12-17",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -997,6 +997,58 @@
       ]
     },
     {
+      "path": "_news/2022-12-17-artificial-intelligence-chipsets-market-to-grow-significantly-by-leading-players-2023-to-2028.md",
+      "title": "Artificial Intelligence Chipsets Market to Grow Significantly by Leading Players 2023 to 2028",
+      "excerpt": "\" Artificial Intelligence Chipsets Market \" Insights 2022 - By Applications (Retail, Transportation, Automation, Manufacturing, Others), By Types (Deep Learning, Robotics, Digital Personal Assistant,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-to-grow-significantly-by-leading-players-2023-to-2028-2022-12-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-to-grow-significantly-by-leading-players-2023-to-2028-2022-12-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-16T17:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-16-next-generation-amazon-sagemaker-experiments-organize-track-and-compare-your-machine-learning-trainings-at-scale.md",
       "title": "Next generation Amazon SageMaker Experiments – Organize, track, and compare your machine learning trainings at scale",
       "excerpt": "Today, we’re happy to announce updates to our Amazon SageMaker Experiments capability of&nbsp;Amazon SageMaker that lets you organize, track, compare and evaluate machine learning (ML) experiments and model versions from any integrated development environment (IDE) using the SageMaker Python SDK or boto3,",
@@ -1169,57 +1221,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-17-techcrunch-roundup-new-vc-rules-ai-biotech-investor-survey-instagram-ad-case-study.md",
-      "title": "TechCrunch+ roundup: New VC rules, AI biotech investor survey, Instagram ad case study",
-      "excerpt": "\"Growth at all costs\" is a fairy tale made possible by cheap money that helped VCs set expectations for founders — and each other.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/16/techcrunch-roundup-new-vc-rules-ai-biotech-investor-survey-instagram-ad-case-study/",
-      "originalUrl": "https://techcrunch.com/2022/12/16/techcrunch-roundup-new-vc-rules-ai-biotech-investor-survey-instagram-ad-case-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1245655241.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/16/techcrunch-roundup-new-vc-rules-ai-biotech-investor-survey-instagram-ad-case-study/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/16/techcrunch-roundup-new-vc-rules-ai-biotech-investor-survey-instagram-ad-case-study/amp/",
-      "publishedDateTime": "2022-12-16T10:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

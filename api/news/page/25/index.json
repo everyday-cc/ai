@@ -2,6 +2,83 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2022-11-28-tesla-makes-automated-driving-available-to-north-american-owners.md",
+      "title": "Tesla makes automated driving available to North American owners",
+      "excerpt": "Tesla is making its controversial driver-assistance system available to customers previously deemed not safe enough behind the wheel to test it out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.autonews.com/mobility-report/tesla-makes-automated-driving-available-north-american-owners",
+      "originalUrl": "https://www.autonews.com/mobility-report/tesla-makes-automated-driving-available-north-american-owners",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Tesla%20self%20driving%20BL%20web.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-28T07:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-28-fintech-global-market-to-reach-38593-billion-by-2027-at-a-cagr-of-1971.md",
+      "title": "Fintech Global Market to Reach $385.93 Billion by 2027 at a CAGR of 19.71%",
+      "excerpt": "The publisher provides an analysis of the key trends in each sub-segment of the global fintech market report, along with forecasts at the global, regional",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/11/28/9720005.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/11/28/9720005.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-28T07:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-28-computer-vision-in-healthcare-market-research-2022-growth-trends-outlook-and-future-scope-analysis-2030.md",
       "title": "Computer Vision in Healthcare Market Research 2022 – Growth, Trends, Outlook and Future Scope Analysis 2030",
       "excerpt": "Nov 28, 2022 (Heraldkeepers) -- The global Computer Vision in Healthcare market report provides geographic analysis covering regions, such as North America, Europe, Asia-Pacific, and Rest of the ...",
@@ -1031,101 +1108,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-28-teslas-full-self-driving-beta-available-to-anyone-that-pays-in-north-america.md",
-      "title": "Tesla's Full Self-Driving Beta Available to Anyone That Pays in North America",
-      "excerpt": "The software is available to everyone in North America, Tesla’s CEO Elon Musk announced this week. Tesla Inc’s Full Self-Driving Beta software is available to everyone in North America, Tesla’s CEO Elon Musk announced this week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/teslas-full-self-driving-beta-available-to-anyone-that-pays-in-north-america",
-      "originalUrl": "https://www.pcmag.com/news/teslas-full-self-driving-beta-available-to-anyone-that-pays-in-north-america",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/02OshWCfdI1EhLBcurR6BqR-1.fit_lim.size_1200x630.v1669587586.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-27T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-28-non-snapdragon-devices-at-risk-from-gpu-exploits-that-have-already-been-patched.md",
-      "title": "Non-Snapdragon devices at risk from GPU exploits that have already been patched",
-      "excerpt": "That said, if your phone's using a Mali GPU, you might want to take extra care for the next while as plugs for some recently-disclosed security holes are still making their way across devices..",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidpolice.com/exploit-patch-gap-arm-mali-gpu-driver-project-zero-google/",
-      "originalUrl": "https://www.androidpolice.com/exploit-patch-gap-arm-mali-gpu-driver-project-zero-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/11/arm-ap-hero.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-27T12:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Police",
-        "domain": "androidpolice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

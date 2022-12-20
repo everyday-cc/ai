@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-17-locus-robotics-named-to-fast-companys-second-annual-list-of-the-next-big-things-in-tech.md",
+      "title": "Locus Robotics Named to Fast Company's Second Annual List of the Next Big Things in Tech",
+      "excerpt": "List Recognizes Leader in Warehouse Robotics for its Innovative AMR Robotics Technology Breakthroughs That Transform the WarehouseWILMINGTON,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/locus-robotics-named-to-fast-company-s-second-annual-list-of-the-next-big-things-in-tech-1031921742",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/locus-robotics-named-to-fast-company-s-second-annual-list-of-the-next-big-things-in-tech-1031921742",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1440363/Locus_Robotics_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-17T04:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-the-robots-are-coming-to-address-the-labor-shortage.md",
       "title": "The Robots Are Coming (To Address The Labor Shortage)",
       "excerpt": "Robots can convert dangerous ... From generative design to construction optioneering, the use of artificial intelligence (AI) can help transform your project planning, workflow and efficiency—before you ever break ground. Today’s AI-driven tools ...",
@@ -1349,49 +1401,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-atomic-heart-rewriting-the-soviet-history-book-for-the-robotic-revolution.md",
-      "title": "Atomic Heart: Rewriting the Soviet History Book For the Robotic Revolution",
-      "excerpt": "Thought control over machines is just years away ... he began to design a 2.0 version of the system that would link a human mind with a robot’s operating system via a Polymer implant.",
-      "sourceUrl": null,
-      "webUrl": "https://in.ign.com/atomic-heart/176354/preview/atomic-heart-rewriting-the-soviet-history-book-for-the-robotic-revolution",
-      "originalUrl": "https://in.ign.com/atomic-heart/176354/preview/atomic-heart-rewriting-the-soviet-history-book-for-the-robotic-revolution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.ign.com/t/ign_in/preview/a/atomic-hea/atomic-heart-rewriting-the-soviet-history-book-for-the-robot_xbz2.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-09T22:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

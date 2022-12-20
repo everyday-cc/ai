@@ -2,6 +2,111 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2022-09-28-ibm-and-linux-foundation-ai-and-data-announce-machine-learning-exchange.md",
+      "title": "IBM and Linux Foundation AI and Data announce Machine Learning eXchange",
+      "excerpt": "IBM and Linux Foundation AI (LFAI) launched Machine Learning eXchange ... and a pipelines engine powered by Kubeflow Pipelines on Tekton, the core of Watson Studio Pipelines.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/ibm-and-linux-foundation-ai-and-data-announce-machine-learning-exchange/",
+      "originalUrl": "https://sdtimes.com/ai/ibm-and-linux-foundation-ai-and-data-announce-machine-learning-exchange/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2021/09/97bf82391c9f884f4ea785b3ffccb6de.png",
+          "width": 954,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-new-trial-finds-first-ever-alzheimers-drug-to-slow-cognitive-decline.md",
+      "title": "New trial finds first-ever Alzheimer’s drug to slow cognitive decline",
+      "excerpt": "The drug seems to be successful at slowing cognitive decline ... He also noted health services should begin preparing for how this treatment can be equitably distributed if it does go on to ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/health-wellbeing/lecanemab-alzheimers-drug-slow-cognitive-decline-large-human-trial/",
+      "originalUrl": "https://newatlas.com/health-wellbeing/lecanemab-alzheimers-drug-slow-cognitive-decline-large-human-trial/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/add920d/2147483647/strip/true/crop/7360x3864+0+524/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F92%2Faf%2Fde5ed6104a7ea392a28be31cfb4c%2Fdepositphotos-322004950-xl.jpg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-28-amazon-intros-aws-iot-fleetwise-for-connected-cars.md",
       "title": "Amazon Intros AWS IoT FleetWise for Connected Cars",
       "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of AWS IoT FleetWise, a new service that makes it easier for automotive companies to collect,",
@@ -1083,101 +1188,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-ai-wont-replace-human-intuition.md",
-      "title": "AI Won’t Replace Human Intuition",
-      "excerpt": "As artificial intelligence (AI) capabilities and applications have expanded, the AI field is fueling fodder for some interesting science-fiction scenarios. Elon Musk, CEO of Tesla—which relies on AI for self-driving and other key functions—has warned the world about “scary outcomes” harnessed by the power of AI-fueled robots akin to those in “Terminator” film series.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/27/ai-wont-replace-human-intuition/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/27/ai-wont-replace-human-intuition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6331ac26332d12458fdd5380/0x0.jpg?format=jpg&width=1200",
-          "width": 980,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/27/ai-wont-replace-human-intuition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/27/ai-wont-replace-human-intuition/amp/",
-      "publishedDateTime": "2022-09-27T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-feedzai-named-a-leader-in-idc-marketscape-for-responsible-artificial-intelligence-in-financial-crime-management.md",
-      "title": "Feedzai named a Leader in IDC MarketScape for Responsible Artificial Intelligence in financial crime management",
-      "excerpt": "The IDC MarketScape evaluated the vendors on fairness, explainability, robustness, lineage and transparency - the five foundational elements of responsible Artificial Intelligence (AI), or the framework that builds trust within AI solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/feedzai-named-a-leader-in-idc-marketscape-for-responsible-artificial-intelligence-in-financial-crime-management-2022-09-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/feedzai-named-a-leader-in-idc-marketscape-for-responsible-artificial-intelligence-in-financial-crime-management-2022-09-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

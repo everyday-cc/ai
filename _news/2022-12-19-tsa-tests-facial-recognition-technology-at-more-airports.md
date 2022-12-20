@@ -1,27 +1,27 @@
 ---
 category: news
 title: "TSA tests facial recognition technology at more airports"
-excerpt: "That’s because the Transportation Security Administration is expanding its facial recognition pilot program. The goal is to match a passenger’s face with a photo ID at security checkpoints. The program is still in the testing phase, but it’s already ..."
-publishedDateTime: 2022-12-19T15:09:00Z
-originalUrl: "https://www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/"
-webUrl: "https://www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/"
-ampWebUrl: "https://www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/?outputType=amp"
-cdnAmpWebUrl: "https://www-ktre-com.cdn.ampproject.org/c/s/www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/?outputType=amp"
+excerpt: "There’s a good chance that many people traveling for the holidays through some of the nation’s busiest airports will have their faces scanned. That’s because the Transportation Security Administration is expanding its facial recognition pilot program."
+publishedDateTime: 2022-12-19T14:08:00Z
+originalUrl: "https://www.wsfa.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/"
+webUrl: "https://www.wsfa.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/"
+ampWebUrl: "https://www.wsfa.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/?outputType=amp"
+cdnAmpWebUrl: "https://www-wsfa-com.cdn.ampproject.org/c/s/www.wsfa.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/?outputType=amp"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
-  name: KTRE
-  domain: ktre.com
+  name: WSFA
+  domain: wsfa.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://gray-ktre-prod.cdn.arcpublishing.com/resizer/rJtC5wJXGKCN8WlDF2uXxgTJqTc=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/FO6PWOKSHVCMJF5Q6UGNWYBJBU.jpg"
+  - url: "https://gray-wsfa-prod.cdn.arcpublishing.com/resizer/8eUkX9QniTbGBUFOErz2ZUoJq_4=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/5E24AXNOPJEKHC4APEXAMO437E.jpg"
     width: 800
     height: 450
     isCached: true
@@ -55,7 +55,21 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "TSA expands use of facial recognition airport pilot program"
+    excerpt: "The Transportation Security Administration is now scanning your face at select airport checkpoints, part of a growing test with passengers as the subjects. Pete Muntean reports."
+    publishedDateTime: 2022-12-20T02:41:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/video/tsa-expands-use-of-facial-recognition-airport-pilot-program/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 54
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2022/12/20/deed59ef-9384-46fa-9d3b-c0d06aa7cf23/thumbnail/1200x630/0a4762dab90bf8ab2503c5d4b0fb455a/06be91a9325e57dee7f452bbb757003f.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "0gxyQjheIKytTizX4IQtMGrCCJ1srW1j8Z8kllVXupvC2RMeN+jU0dZkAYJ6V47cAn+LHf3Tyr6cIM1So65rKzToxzuCQX+Qpd4Bl8/ApHdeO2Vtvafr1vYYTzKasCCdaTOo38nynGdlzCpP3hixW1XZW4+Yakk1DhDwpxj8KbNS1FYVJkV3jf/TaLj4D4frUq3DXGWocMVMqeJrd363DADjqC/4a6O9oNVwdPtyUWYINIOH1XIMwedAghgwON6ICJ5o+6A6k8rtMIXSM0jIcNO2SsyIj1smPSovfZxbOeODikzQlmF7vffm3+4W2XYP0sIYO+3tiZVphLM7f+jqa9oNK6L4REj/Tb7ejljU5yS3sJKa3tSIZGLjBGhz3oI4V1TQtuGGeKNr0f50vdOPxLBtvK1B4GSPb+0YdLV5aRsFsYqRjdcuduvxzOqntN//eENeN9VYSPTYs37EtFaE4f2uC5tKQBkrHi5knuWKNFDsDKptKH0N2VgqvzY8CdP+ofarsbtj1Dx+oMij+wO7Iw==;ghe815R6OW0OwFy+AVapSQ=="
+secured: "sYmTmfkgJ5EYOqcx7xr+snSnJCDly7xbcScWdOcYquLhboa/C/OA4ChipJQnqBvlXZS45NKqxlJYvaoGNmor0H66JJiel185fqqjEEygOAitbyQQn3YNSyMC/OVTZKRWhhNURocGzGOEcxfF63y87dVe5fzujfrtqjplZxlFO/p3WN5mJ8P/lEpBBIqSaZTdSI7QeJBbF57wnyl1MtPrOfnQVS/4pycD4pNu2QNAu5oQ6qYv3WHpB1LgSeTUj9JWyPlKbnk8JS8Tez0Y+cxxmdZOGG72i8gHrqg/stFxxb/Ubk2oazcupfV3q/w3XMxAjJjFHGE+hAdI5ESVOB6syezF7+0OLIvhLTJg6QgU9mc=;r6wZzF3EzHQ7U7VibYrihA=="
 ---
 

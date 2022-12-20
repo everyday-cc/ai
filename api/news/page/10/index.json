@@ -2,6 +2,92 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-12-08-deutsche-bank-partners-with-nvidia-to-embed-ai-into-financial-services.md",
+      "title": "Deutsche Bank partners with NVIDIA to embed AI into financial services",
+      "excerpt": "Deutsche Bank has unveiled a multi-year partnership with NVIDIA that’s intended to accelerate the use of artificial intelligence (AI) and machine learning (ML) in the financial services sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newelectronics.co.uk/content/news/deutsche-bank-partners-with-nvidia-to-embed-ai-into-financial-services",
+      "originalUrl": "https://www.newelectronics.co.uk/content/news/deutsche-bank-partners-with-nvidia-to-embed-ai-into-financial-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newelectronics.co.uk/media/ngbph4qk/future-of-banking.jpg?width=1200&height=630&mode=crop",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T00:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Electronics",
+        "domain": "newelectronics.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-google-sheets-gets-an-ai-upgrade.md",
+      "title": "Google Sheets Gets an AI Upgrade",
+      "excerpt": "Google revealed Simple ML, a new tool that will let users create artificial intelligence models in Google Sheets.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/google-sheets-gets-an-ai-upgrade/",
+      "originalUrl": "https://analyticsindiamag.com/google-sheets-gets-an-ai-upgrade/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/12/gsheet.jpg",
+          "width": 2240,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T23:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-08-a-closer-look-at-amds-gorgeous-radeon-rx-7900-xtx.md",
       "title": "A closer look at AMD’s gorgeous Radeon RX 7900 XTX",
       "excerpt": "These GPUs were built using AMD’s new, radical RDNA 3 architecture, complete with a Ryzen-like chiplet design and the introduction of AI cores, and they’re intended to snuff out Nvidia’s ...",
@@ -1081,101 +1167,6 @@
         "name": "Mena FN",
         "domain": "menafn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-no-broadcom-and-hock-tan-arent-going-to-raise-prices-on-vmware-products.md",
-      "title": "No, Broadcom And Hock Tan Aren’t Going To Raise Prices On VMware Products",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as last week, he penned his first formal analysis on Broadcom’s pending acquisition of VMware. Net-net, he encouraged any customers, ecosystem partners,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/12/07/no-broadcom-and-hock-tan-arent-going-to-raise-prices-on-vmware-products/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/12/07/no-broadcom-and-hock-tan-arent-going-to-raise-prices-on-vmware-products/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6390f5e267397d6cfe4072b2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/12/07/no-broadcom-and-hock-tan-arent-going-to-raise-prices-on-vmware-products/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/12/07/no-broadcom-and-hock-tan-arent-going-to-raise-prices-on-vmware-products/amp/",
-      "publishedDateTime": "2022-12-07T11:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-nano-magnets-to-restore-damaged-nerve-cells.md",
-      "title": "Nano-magnets to restore damaged nerve cells",
-      "excerpt": "Restoring neural networks and their normal function ... and as a way to build artificial networks for interfaces between engineering and biological components. In addition, the model suggests ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221129111829.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221129111829.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T11:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
