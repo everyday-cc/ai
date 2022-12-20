@@ -20,6 +20,7 @@ topics:
   - AI in Healthcare
   - AI
   - Facebook AI
+  - AI in Autos
 
 images:
   - url: "https://www.medindia.net/health-images/anti-covid-drug-2-dg.jpg"

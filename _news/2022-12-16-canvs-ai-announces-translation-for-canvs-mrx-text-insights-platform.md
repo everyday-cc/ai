@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Axelera AI Announces Metis AI Platform"
-    excerpt: "European artificial intelligence startup Axelera AI announced today its Metis AI Platform, encompassing the Metis"
-    publishedDateTime: 2022-12-15T15:38:00Z
-    webUrl: "https://www.datanami.com/this-just-in/axelera-ai-announces-metis-ai-platform/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 21
   - title: "Canvs AI Adds Translation for MRX Platform"
     excerpt: "Text analytics specialist Canvs AI has added translation capabilities to Canvs MRX, allowing users to analyze open-ended text from multiple languages, directly on the platform. New York-based Canvs uses a patented AI and machine learning platform to analyze open-ended text from surveys,"
     publishedDateTime: 2022-12-19T00:00:00Z

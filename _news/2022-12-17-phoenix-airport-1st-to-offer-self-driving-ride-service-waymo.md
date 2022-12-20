@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/phoenix-airport-1st-of
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/phoenix-airport-1st-offer-driving-ride-service-waymo-95427526"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.bostonherald.com/wp-content/uploads/2022/12/AP22350701095460.jpg?w=1024&h=683"
         width: 1024
         height: 682
-        isCached: true
-  - title: "For first responders, Waymo provides a guide to the self-driving era"
-    excerpt: "Autonomous vehicles pose specific challenges for first responders. As Waymo expands its service, the company is working to forge connections with police officers, firefighters and rescue crews."
-    publishedDateTime: 2022-12-15T16:15:00Z
-    webUrl: "https://www.autonews.com/mobility-report/waymos-autonomous-vehicle-guide-first-responders"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Waymo-MAIN_i_5.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "Y2P3RAVyjyeuqNe4E7lDj8jzHIKvDEz0lvkDNKQ9BndRJeVmBYpzrJApwyu7EFisYa379bp489YfTlzejV8CdZ0+QzVFcvfbhUOAeMzI7WpDx+rlunXS387/mJeXS0KlVlXG2/7Y3Fy1jmlNRpTdIWezzSShDVvAO5vKOmYgZBayNcVeMq0BXzURhvrC1xC6QfHKz+8BsaYyBZBxbx1j1kotHUR31fs7OGgZCH8wQoW9RQn1VONmDe/IYt1QIG4HPO6HF8dzWjzJ39cSTmhRRf1FxBdTQIj70+Oeg60LSiGIUynwwNBf/SUMPbo5EuVS1k681B4/TYL5SQh5AFPlW8qW6z0ZFnr8v953Lqqazm8=;V/T1y300RVNlLo1FVZ0oYA=="

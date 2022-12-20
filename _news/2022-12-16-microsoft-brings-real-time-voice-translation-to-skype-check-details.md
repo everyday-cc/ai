@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Skype can now translate your own voice into different languages with AI"
-    excerpt: "Translated voices within Skype can now sound more like the original speaker. Skype can now translate your voice in real-time to other languages. The feature uses AI to make it sound as if you were speaking another language."
-    publishedDateTime: 2022-12-15T15:55:00Z
-    webUrl: "https://www.windowscentral.com/software-apps/skype-can-now-translate-your-own-voice-into-different-languages-with-ai"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 54
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/V4RFMb4GJuoDiNE2ZvDgPM-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Skype gets real-time voice translation feature, here’s how it works"
     excerpt: "Real-time translations with natural voice will be coming to group video calls and Telephony in the next months."
     publishedDateTime: 2022-12-16T09:35:00Z
@@ -57,6 +43,20 @@ related:
       - url: "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2022/12/16/2560989-skype.png"
         width: 640
         height: 360
+        isCached: true
+  - title: "Tilde Launches AI-powered Meeting Assistant with Real-time Multilingual Transcription and Translation"
+    excerpt: "This AI-powered virtual assistant enhances the productivity of multilingual meetings with automatic transcriptions, structured meeting notes, and real-time translations"
+    publishedDateTime: 2022-12-20T07:39:00Z
+    webUrl: "https://slator.com/tilde-launches-ai-powered-meeting-assistant-with-real-time-multilingual-transcription-and-translation/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 24
+    images:
+      - url: "https://slator.com/assets/2022/12/Slator_Press-Release_Meeting-Assistant_Dec-2022.jpg"
+        width: 900
+        height: 471
         isCached: true
 
 secured: "K5B6eMQbokEmXHbGRVdCg2zlbL/4FKOASqd/34L28j4gAUHJrL9fb7AcrTSMYSKpkqEI4h1psJnfhr136Ji99aHiz6TzB3KEsl36a/4+jH2yhtjHx9CMWNZgybkvZWB4R07uibOGxdTFXTS3ub7x9i3XFu201aGj1LdWhIx77qQNxZy+IyOa/0GbMJiJyWM+/Cr/u3T+xrkZYPsS87FRInRIKGyy/ooi9Brq8PhsIv9Mftt/3Pcp0FVI+azuKz141gsrdlh1U4TpUPzjA2Sz47oEYCHe+y9wRQZUdxODTzGMB79HekXnUhwpXYlyhuQr3R94rjlC7q3oixext48f+4iqjnJKuIc3CCkrjP24YR0=;YxGlNRqwXmcnG/yxDVlVHw=="

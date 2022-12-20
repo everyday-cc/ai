@@ -43,20 +43,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "For first responders, Waymo provides a guide to the self-driving era"
-    excerpt: "Autonomous vehicles pose specific challenges for first responders. As Waymo expands its service, the company is working to forge connections with police officers, firefighters and rescue crews."
-    publishedDateTime: 2022-12-15T16:15:00Z
-    webUrl: "https://www.autonews.com/mobility-report/waymos-autonomous-vehicle-guide-first-responders"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Waymo-MAIN_i_5.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "ptiu9he6WLCIjpIBscGBagwhGW8ALF4Bp030nL4pdRcOh4bAO/R5pzCn5Kqlu+Gp/+rwEFhNjLGy47sOEfExu24T3qqlze9ypS4l0iRu8ng7+aH0PE6SrbHaUZrwew7N2VgFcAI+Ml/7LU8iG5yUSm/wi3yN1AM2Iib3wp7YwrbZCRLOc1NVvnDdrZvLQ47P9ctGfv//ADOPtvy2LbKTQ9ve42XaGHq8DhCVqTn5oe28K1ZxlHos6V7mzEl+vEPGXl13PWxksW3QeAAKRAxTXsByBkE8eJyFFm7I80dgC0U7Ys9nQupuzIqSeg0/cxZzNM6jvTJr/zqxVvhBCJMpC9Qnh2YMKqmVDtwDCXh1snE=;Ck6B4DrTtT4AJokrcsgNQA=="
 ---

@@ -33,15 +33,6 @@ related:
         width: 1500
         height: 700
         isCached: true
-  - title: "Axelera AI Announces Metis AI Platform"
-    excerpt: "European artificial intelligence startup Axelera AI announced today its Metis AI Platform, encompassing the Metis"
-    publishedDateTime: 2022-12-15T15:38:00Z
-    webUrl: "https://www.datanami.com/this-just-in/axelera-ai-announces-metis-ai-platform/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 21
 
 secured: "I9Hr5T+tiVgGqjhixCuEshnBT1dLFWAnuDpm0TlX67/PoTJKkqHwj1FAbtTj29N0Ya1xR1TyAoENMQ7x0MH32VkHRqGoR+dRTCWEgSi0hXzV7J69YkyZJ37QykbgiG/qUM5ehOh0bLCjORnicT48DmtgY7os6FVv7rGk1m0e6aToVjH7EXb49XYG8i6PiVMxWLRUabCqGO4XQudiHOCi2VIbulueAasWafqxmSG8L2fANOG6frHbERQVDazv47ZIIxYcMpUctzJhsf0/4Hk6ERqoJmRHZIKnkzpMhRI3riF9hXG1TrBosWu8v2HY/keb7U+Ic1x1HU8s+zZrVdk5B0Gl1MXZQCD2XkKGeI1w1uqoPVVEiJFIuCSpJMduu+g0JHIsByWvNJb0FcJVMXWukiDtBXoA9ViBw551gQHaZZqsJryiZfqdWPmTwC2cecC+pHBT3VnSweM+haMhrB7ujBmDwRmubtZbzpE0TwfR/3233+aEps0OylEwuYTdwyLJROq9g8ashBvDByKTKdsuNA==;bpHi8yAdw0XvI0BG2m+Z8w=="
 ---
