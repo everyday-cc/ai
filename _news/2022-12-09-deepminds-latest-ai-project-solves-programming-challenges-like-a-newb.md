@@ -1,10 +1,10 @@
 ---
 category: news
 title: "DeepMind’s latest AI project solves programming challenges like a newb"
-excerpt: "Interesting that when the AI tackles problems in a field in which we are expert, the solutions seem weak and brittle. But AI is used in many other fields, and there the programmers assure us it ..."
-publishedDateTime: 2022-12-08T16:15:00Z
-originalUrl: "https://arstechnica.com/civis/threads/deepmind’s-latest-ai-project-solves-programming-challenges-like-a-newb.1488454/page-2"
-webUrl: "https://arstechnica.com/civis/threads/deepmind’s-latest-ai-project-solves-programming-challenges-like-a-newb.1488454/page-2"
+excerpt: "Google's DeepMind AI division has tackled everything from StarCraft to protein folding. So it's probably no surprise that its creators have eventually turned to what is undoubtedly a personal ..."
+publishedDateTime: 2022-12-08T21:15:00Z
+originalUrl: "https://arstechnica.com/science/2022/12/deepminds-latest-ai-project-solves-programming-challenges-like-a-newb/"
+webUrl: "https://arstechnica.com/science/2022/12/deepminds-latest-ai-project-solves-programming-challenges-like-a-newb/"
 type: article
 
 provider:
@@ -19,12 +19,6 @@ topics:
   - Google AI
   - AI
 
-images:
-  - url: "https://assets-global.website-files.com/621e749a546b7592125f38ed/6221e6c759f19819bd5bec04_CodeGen.jpg"
-    width: 1920
-    height: 1080
-    isCached: true
-
-secured: "YGE2IKQiBU1/rq2lEmpykn4g6Xcm44cSQ5KZr5Q3zXK0FzIObImg7w5fEgmawfpktxfc9wJk39Qf52GogHYacEs0CqS0C/baMxYeBVnJjvvFa1tHn1fl/ePQK/gvklZDGUzFuW9P4TCgGkKbA3ZbF+yOBYFsR+y5RYcqzPMmBPW8ax+XzPfzVJc/Q5xEmfmCVgMTRwyDYVxSzBvZfvTCx0tKpLGl3WklaZ4XmRfME+dgFG2q93ch1C/+7N8jtiUZsApNZKuP1U4MZPQYN97FULELlNeOWkJILVG4CHN1g8ZrHC97/Y/n/Tihf2JQpuxLw7ZfoEDAZuE1RaS4Cad1MExKHpjCUy3z1r8/OSW57gI=;CCB+8n5D1kizpk24RxRYpw=="
+secured: "J8WkaVPEn+zeKvzD3srq2RvZKrUz3/VwLWrZn7Ww0OPAu4IygaiOQB/63BEuR2JdKrwHSYf+OvLT0hThqAWrpXnt3BTjiWrcKu/zYAu1dz6O7x9L+DdJQOdzIfP6D87wJEGzWVTRBjnd1voRlslytXQya3+azRfqlvloBbLunnwn+Vp/N+Kmmx0wHkXvMFXB/TfNr2BVbuL+Ekuz1TeDT0LVzGZsv8Ugnz6Gz4/Dzvw3P8t0XMCvki1H61IyOuVIU7YKpX9OBsOS7hUKQd+leNKpJnAl1TREBPRzVkUdeqKshPQoJMsxq1PYtRgfKs4EKoLwllrPsGjFyFNUt8UdfPFr15bmKcgruJgCM+Cwwus=;iwQKoZF4pyuh23FRosr3eA=="
 ---
 

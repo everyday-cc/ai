@@ -1,29 +1,21 @@
 ---
 category: news
-title: "The Worldwide Machine Learning as a Service Industry is Expected to Reach $36.2 Billion by 2028"
-excerpt: "American Express (Financial Services); and Tesla and Ford (Automotive), have identified AI and cognitive computing as a key strategic driver and have begun investing in machine learning to develop ..."
-publishedDateTime: 2022-12-06T21:40:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/12/n29983615/the-worldwide-machine-learning-as-a-service-industry-is-expected-to-reach-36-2-billion-by-2028"
-webUrl: "https://www.benzinga.com/pressreleases/22/12/n29983615/the-worldwide-machine-learning-as-a-service-industry-is-expected-to-reach-36-2-billion-by-2028"
-ampWebUrl: "https://www.benzinga.com/amp/content/29983615"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29983615"
+title: "The Worldwide Machine Learning As A Service Industry Is Expected To Reach $36.2 Billion By 2028'"
+excerpt: "The Global Machine learning as a Service Market size is expected to reach $36.2 billion by 2028, rising at a market growth of 31.6% CAGR during the forecast period. Machine learning is a data analysis method that includes statistical data analysis to create desired prediction output without the use of explicit programming."
+publishedDateTime: 2022-12-07T00:17:00Z
+originalUrl: "https://menafn.com/1105275901/The-Worldwide-Machine-Learning-As-A-Service-Industry-Is-Expected-To-Reach-362-Billion-By-2028"
+webUrl: "https://menafn.com/1105275901/The-Worldwide-Machine-Learning-As-A-Service-Industry-Is-Expected-To-Reach-362-Billion-By-2028"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
-  - AI in Finance
+  - Microsoft AI
   - AI
   - Machine Learning
 
-images:
-  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
-    width: 800
-    height: 313
-    isCached: true
-
-secured: "wChuRQ9oUyMDFzK/g0ytAoOkipsyFRFoFWE0dMJ6lyrRMYyzi98BTjthTMoIJ2wMZfvDBABjHojzu0FUJcIJG0YMwhdYTikF5uL476NNlFs4x2yvh6r9cskKi3ox+1BdYCensEV5VmA/J4LH+HmKjEr6bXysnOZPuopSUeVWlGbnVun7Dww9g8RVBpbRIvzU2O8MiVGO+/rphdnQbYgMGXqIiyzs4WsPCAzX2s3Xf+ZJ8Z+mxn4EOprtfAeRTj8BydZVqHJ5KMtxctkESNk/juQCjy7mEJeD/WWlgjDuf66UGH27cRAomBm5l98+4UL4hMdV9p4Sp3bVfny7ecsuebySAn6t7jQJHwoJCo9wl7E=;Btd5DkBFXsrmd0AMw1FrBg=="
+secured: "+LNSda/iBFOpi6vAtkBEJ+DIL/fajwqY7INBO+tpRAhVFqQU/3hIY69h3MvvKEI3XXHJzu0DBl7ipq/bzsgNsffEsYf+XHRCTRp+5BNPsWaXuA/4a64VpO9coMzcQmQubniqIvAjt/Jod83+00ojJpTc4NK4CMXkHfALHN4Hg6xX3rPSHUjjr8M7LmYLaI3S+Cwd15VBbRauDINoxOHTpzQ5FRkQ/pFh8zAHIRqXJ4x1wHKV1Kdkbz4pVatZKh9zAGQAVYTj9jA7ILxG1gzbq2l7yogWxxJIHsxt9r2pys/OBPp9K1SptJu0R8KIbaiz6SgTTt7qO2Y6SiaHqs5TzegQmHahUhI5v2psve72bok=;3c1ckizBL956Y1ZaXUoWww=="
 ---
 

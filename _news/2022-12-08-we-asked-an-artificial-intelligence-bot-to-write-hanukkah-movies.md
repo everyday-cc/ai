@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://forward.com/wp-content/uploads/2022/12/ai-movie-prompts-hero-2400-×-1350-px.png"
