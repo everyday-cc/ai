@@ -44,6 +44,15 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 49
+  - title: "Google Is Developing an AI That Can Transcribe Doctors’ Chicken Scratch"
+    excerpt: "Google is trying to rid the world of the scourge of doctor's hastily written prescriptions, with the help of AI."
+    publishedDateTime: 2022-12-20T12:48:00Z
+    webUrl: "https://www.extremetech.com/electronics/341674-google-is-developing-an-ai-that-can-transcribe-doctors-chicken-scratch"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 34
   - title: "Google will translate doctor's handwritten prescriptions soon: Know more"
     excerpt: "Google to decode doctor's handwriting with a new AI software the tech giant is working on. The assistive technology for digitising handwritten medical documents will help the humans in the loop like pharmacists,"
     publishedDateTime: 2022-12-19T13:09:00Z

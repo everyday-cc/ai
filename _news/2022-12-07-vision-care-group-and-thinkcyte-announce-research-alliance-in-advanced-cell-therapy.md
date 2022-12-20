@@ -1,31 +1,20 @@
 ---
 category: news
 title: "Vision Care Group and ThinkCyte Announce Research Alliance in Advanced Cell Therapy"
-excerpt: "Vision Care Group and ThinkCyte today announced a research partnership aimed at advancing cell therapy in retinal disease. The partnership combines Vision Care"
-publishedDateTime: 2022-12-06T16:39:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/12/n29979797/vision-care-group-and-thinkcyte-announce-research-alliance-in-advanced-cell-therapy"
-webUrl: "https://www.benzinga.com/pressreleases/22/12/n29979797/vision-care-group-and-thinkcyte-announce-research-alliance-in-advanced-cell-therapy"
-ampWebUrl: "https://www.benzinga.com/amp/content/29979797"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29979797"
+excerpt: "Vision Care Group and ThinkCyte today announced a research partnership aimed at advancing cell therapy in retinal disease. The partnership combines Vision Care Group's expertise in developing investigative cellular therapies with Ghost Cytometry,"
+publishedDateTime: 2022-12-06T17:47:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/12/06/9725495.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/12/06/9725495.htm"
 type: article
-quality: 53
-heat: 53
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
-    width: 800
-    height: 313
-    isCached: true
-
-secured: "P6CIuNGEtcPmK4U+lyrWGRI7lbcXf6gPoQFDCIZeUhDvCc+F+j931nzDeo/m/+E6tunwrf75eN59Z3AeIav52o/bYJaqpZcTM1JtaS3Gyxu6P1q/v3v84jT51wsaG2LkL6YjOmjcG9ZuFRxvVmpR4+5uiuvj5JCKerSTo9buJyDbuRD/G6X8mgj0tpgq2GhPynHaTq9AJt5198o+FX7Dyoo81COen1dorC3o8H4jbeXVWKnA8Js2mJjnyRKwI/bjIqt/BUzRwaPxnJ/Z5cjaHi1zROTA0x+VE9o1UT2nGZimqeH9or3tzZAoNN3VqwuMmJ2+lDeKitD3p6Lu/hKtnfvggfq8A9IbYK3PvKrDIL0=;WMe/fduz/c4FdXa6Ar0NwQ=="
+secured: "XEbqfLQXOu9iz9D6qaZkEnLfuAKYuJdEQSoJwQHk5HlVJJBAHwzbSa6k0mJFD4z/+8XOv806VTRDtsTBIDFmo7E093zGBmvvWezPjoP9CDMuHsCwot6Akcny2UkqWpUHL/FUfFyZDyDDSdMELJmHElB/sXKFTd/qTb/DK/kNV0k3iuIj4229pm/gNgURH3HMmF2Se+7Mv/Tfbjd/P0lEQHV7d4ZXcE861W/RvuQ+4ps7a4Dg+ZuVedhCApJnLz2J7zolrLzKE4iudaJzkBuhqti81eNejD5lYDsx1AwdVQ3Qv8ldZptNDnzCtZg+78NIPbHsJXcmYU/PkNQWCobq3T6pZsK+13+RLrdApTOw1LI=;iFORFQAPc/BN/cDmG6DVGA=="
 ---
 

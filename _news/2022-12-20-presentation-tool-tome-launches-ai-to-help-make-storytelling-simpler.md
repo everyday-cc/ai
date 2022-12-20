@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-20T09:00:00Z
 originalUrl: "https://www.fastcompany.com/90827339/presentation-tool-tome-launches-ai-to-help-make-storytelling-simpler"
 webUrl: "https://www.fastcompany.com/90827339/presentation-tool-tome-launches-ai-to-help-make-storytelling-simpler"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Fast Company

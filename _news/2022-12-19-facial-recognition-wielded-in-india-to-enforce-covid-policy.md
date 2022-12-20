@@ -9,7 +9,7 @@ ampWebUrl: "https://mynorthwest.com/3755383/facial-recognition-wielded-in-india-
 cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3755383/facial-recognition-wielded-in-india-to-enforce-covid-policy/amp/"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "Hyderabad Symbolizes India’s Embrace of Surveillance, Facial Recognition Tech"
+    excerpt: "India’s National Crime Records Bureau is building what could be among the world’s largest facial recognition systems."
+    publishedDateTime: 2022-12-20T14:19:00Z
+    webUrl: "https://thediplomat.com/2022/12/hyderabad-symbolizes-indias-embrace-of-surveillance-facial-recognition-tech/"
+    type: article
+    provider:
+      name: The Diplomat
+      domain: thediplomat.com
+    quality: 16
 
 secured: "7rEuN2zZarijgDohDSRRHQKHDW4vDNqncWFGiHy7KQcn+0gsO6GA3lbOyEPe3gt4JLZnmb29cv4SBNxfv70NCC96d3Iu8abnbyLwkTK7v/rzAIZBYhIcz5LjHuhNfqBtA8fpgiHzVlGLPb6JpKuYHf9TosVhk85iDNbG1x5W0vWNcpv6aaL1efY/T2/Sk8BlDhSCqJ1NPjwVre/zdC57uFH0LxeDYEIyagjhyRZ8NYs28r9X5vroPetVq6uGBNcesJLRbAPBS6GPgQPgFGCFsZyRKhIJRI4Qntyp1+XBDZDzA84wz8BzkGWVi9nIjglPwlXCoJhZs9uJfWDOKosLQQ8ILVUvGBf0G3alN2k3ikk=;ceg9foDkjoycZaPQ9gJdgQ=="
 ---

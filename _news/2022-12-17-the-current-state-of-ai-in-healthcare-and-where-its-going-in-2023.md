@@ -51,7 +51,7 @@ related:
     provider:
       name: Diginomica
       domain: diginomica.com
-    quality: 71
+    quality: 73
     images:
       - url: "https://diginomica.com/sites/default/files/images/2022-12/Screenshot%202022-12-16%20at%2011.33.54.png"
         width: 1536
@@ -88,6 +88,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/ai-building.jpg"
         width: 1176
         height: 1920
+        isCached: true
+  - title: "Artificial intelligence and the rise of optical computing"
+    excerpt: "An optical computer could likewise do lots of calculations at the same time. Using photons reduces power consumption, too. Electrical resistance generates heat, which wastes energy. The passage of photons through transparent media is resistance-free."
+    publishedDateTime: 2022-12-20T16:00:00Z
+    webUrl: "https://www.economist.com/science-and-technology/2022/12/20/artificial-intelligence-and-the-rise-of-optical-computing"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 39
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20221224_STD001.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "5E0vxe5SBak5Oqqj+M2bdndjZBR4PnZbnDo/Ntv06u2iGdF8U1Tb/TYCZwwI6pIhlXKlxStYt1gnasnjo5x3tT+x59cGVMIFQ0+vspR2xBrv+XFLCoZMVJas52sLhrVHAL45GHWF1lnD+sf5EnzfV7zMEN/KLSL7NxQurOM+sQiDHqQaT/ABPAn4OLaYnDLawljdTAGQyQY6jHNELx2hOj27kGpIgou32/kOTgMEJ8Pn+nNVtXFx5tn+fqUIPHOpqhS9TXGHHGKInATM1Kv0pf1beFKizKaNSSOn5r3dm1svgdjkHbAE7xd5ZyWcXd/U/C2yYr+goiLz8P2dbNSFzIG9OSo9xHtKsHInYozzfxTzUobWDO5jg/X9iil6yQyVItQViqjoTR0f5OphmpvUrdDGdEC3tqCov7zG37FRI8JVW91GMsUFLZqy7mGOFiVdhEdEvm/RE6TQW9/01YSUBJA8+Jfwyxgd8+31cXCtt0OIbI6K+UFIwfXJWQfP3OCLuPunyBRn+7stTnbKr5elEg==;G3vGAEcEQ84xkTm5VGQF+w=="

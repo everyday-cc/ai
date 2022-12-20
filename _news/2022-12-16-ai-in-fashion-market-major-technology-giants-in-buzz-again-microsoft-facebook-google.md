@@ -7,7 +7,7 @@ originalUrl: "https://markets.buffalonews.com/buffnews/article/sbwire-2022-12-16
 webUrl: "https://markets.buffalonews.com/buffnews/article/sbwire-2022-12-16-ai-in-fashion-market-major-technology-giants-in-buzz-again-microsoft-facebook-google"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -18,96 +18,6 @@ topics:
   - Facebook AI
   - AI
   - Microsoft AI
-
-related:
-  - title: "Microsoft Azure, NVidia – Make AI Your Reality"
-    excerpt: "Artificial Intelligence can transform businesses and customer experiences but many companies struggle with how to build, operationalize and deploy AI-enabled products and services."
-    publishedDateTime: 2022-12-15T21:11:00Z
-    webUrl: "https://venturebeat.com/microsoft-nvidia/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 101
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/12/large-language-header.jpg?resize=750%2C388&#038;strip=all"
-        width: 750
-        height: 388
-        isCached: true
-  - title: "Microsoft launches real-time voice translation feature in Skype using AI"
-    excerpt: "The new translation feature uses AI to automatically detect the languages being spoken during a video call and translate them in real time"
-    publishedDateTime: 2022-12-16T07:22:00Z
-    webUrl: "https://www.business-standard.com/article/technology/microsoft-launches-real-time-voice-translation-feature-in-skype-using-ai-122121600397_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/microsoft-launches-real-time-voice-translation-feature-in-skype-using-ai-122121600397_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-launches-real-time-voice-translation-feature-in-skype-using-ai-122121600397_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 75
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-07/12/full/1626056584-8778.jpg"
-        width: 620
-        height: 464
-        isCached: true
-  - title: "Microsoft launches real-time voice translation in Skype"
-    excerpt: "The new translation feature uses AI to automatically detect the languages being spoken during a video call and translate them in real time"
-    publishedDateTime: 2022-12-17T12:06:00Z
-    webUrl: "https://www.mid-day.com/technology/article/microsoft-launches-real-time-voice-translation-in-skype-23261056"
-    ampWebUrl: "https://www.mid-day.com/amp/technology/article/microsoft-launches-real-time-voice-translation-in-skype-23261056"
-    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/technology/article/microsoft-launches-real-time-voice-translation-in-skype-23261056"
-    type: article
-    provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 61
-    images:
-      - url: "https://images.mid-day.com/images/images/2022/dec/apple-seventeen-dec_d.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Microsoft CTO Kevin Scott on 5 Ways Generative AI Will Transform Work in 2023"
-    excerpt: "From helping write code to conjuring images seemingly out of the air, this new form of computing will change the nature of creativity and productivity"
-    publishedDateTime: 2022-12-19T18:35:00Z
-    webUrl: "https://www.microsoft.com/en-us/worklab/kevin-scott-on-5-ways-generative-ai-will-transform-work-in-2023"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 53
-    images:
-      - url: "https://images.ctfassets.net/y8fb0rhks3b3/5mzmBPIGHbx1UoaiG6Nlu1/95405aae00953b3407b39047c28309de/MSFT_workLab_agile_KevinScott_article_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Microsoft launches real-time voice translation in Skype"
-    excerpt: "The new translation feature uses AI to automatically detect the languages being spoken during a video call and translate them in real time."
-    publishedDateTime: 2022-12-16T07:11:00Z
-    webUrl: "https://telanganatoday.com/microsoft-launches-real-time-voice-translation-in-skype"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 41
-    images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/12/Microsoft-may-build-super-app-to-fight-Apple-Google.jpg"
-        width: 1280
-        height: 750
-        isCached: true
-  - title: "Microsoft announces Future Ready Champions of Code Program to empower India’s developer community"
-    excerpt: "Microsoft today announced the launch of Future Ready Champions of Code, a pan India program for developers, focused on sk"
-    publishedDateTime: 2022-12-19T04:12:00Z
-    webUrl: "https://menafn.com/1105325067/Microsoft-announces-Future-Ready-Champions-of-Code-Program-to-empower-Indias-developer-community"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 26
-    images:
-      - url: "https://menafn.com/updates/pr/2022-12/18/pr_13449_ac98fc28_image_story.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "bNdBzoSReFQvpYEILdAR2ZWgVeACP17guGhXW4EKJJqWaIazYO6biI5zCJHxarizwRpY9h0XvOqtbasCSLaWv5fG5DjE2HYD11rNGimcZqzOfBAVHWc8dExeoe6Z7k+ttJoymt4ZeZTbg2OAaypHILGKTKqlGNNh/L49YzKNicRsU7pmFwKHwDHTMPAK9mOGqM+rl1l0XQ8NxdZfeqdgFpV4PCE+iwAL5QeL69L9MzV+jQ4oBd6uBWgE7+TGLayUG55/wliAYNmbBP9/4LUlbxGM6e4YlQR4dvXHxugg2eutJn8bKfOb5GUkmgr5cVueukLqy2/tk5tCnaUvpZ9bwm6U9TvBazORtZbIbnq2HIM=;8eKbPW5gRRKJlUMGN4/fwQ=="
 ---

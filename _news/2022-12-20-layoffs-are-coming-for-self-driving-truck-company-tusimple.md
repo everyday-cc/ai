@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/12/19/layoffs-are-coming-for-self-drivin
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/19/layoffs-are-coming-for-self-driving-truck-company-tusimple/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 115
 published: true
 
 provider:

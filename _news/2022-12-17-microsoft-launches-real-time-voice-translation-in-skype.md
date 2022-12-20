@@ -28,19 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Azure, NVidia – Make AI Your Reality"
-    excerpt: "Artificial Intelligence can transform businesses and customer experiences but many companies struggle with how to build, operationalize and deploy AI-enabled products and services."
-    publishedDateTime: 2022-12-15T21:11:00Z
-    webUrl: "https://venturebeat.com/microsoft-nvidia/"
+  - title: "Microsoft brings real-time voice translation to Skype: Check details"
+    excerpt: "Microsoft has launched real-time voice translation in Skype, which can now translate a person's voice in real-time using AI to make the translated voice sound similar to the original speaker."
+    publishedDateTime: 2022-12-16T07:23:00Z
+    webUrl: "https://www.bgr.in/apps/microsoft-brings-real-time-voice-translation-to-skype-check-details-1349718/"
+    ampWebUrl: "https://www.bgr.in/apps/microsoft-brings-real-time-voice-translation-to-skype-check-details-1349718/amp/"
+    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/apps/microsoft-brings-real-time-voice-translation-to-skype-check-details-1349718/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 101
+      name: BGR
+      domain: www.bgr.in
+    quality: 76
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/12/large-language-header.jpg?resize=750%2C388&#038;strip=all"
-        width: 750
-        height: 388
+      - url: "https://st1.bgr.in/wp-content/uploads/2022/12/skype-logo.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Microsoft launches real-time voice translation feature in Skype using AI"
     excerpt: "The new translation feature uses AI to automatically detect the languages being spoken during a video call and translate them in real time"
@@ -58,19 +60,21 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Microsoft CTO Kevin Scott on 5 Ways Generative AI Will Transform Work in 2023"
-    excerpt: "From helping write code to conjuring images seemingly out of the air, this new form of computing will change the nature of creativity and productivity"
-    publishedDateTime: 2022-12-19T18:35:00Z
-    webUrl: "https://www.microsoft.com/en-us/worklab/kevin-scott-on-5-ways-generative-ai-will-transform-work-in-2023"
+  - title: "Skype gets real-time voice translation feature, here’s how it works"
+    excerpt: "Real-time translations with natural voice will be coming to group video calls and Telephony in the next months."
+    publishedDateTime: 2022-12-16T09:35:00Z
+    webUrl: "https://www.dnaindia.com/technology/report-skype-gets-real-time-voice-translation-feature-here-s-how-it-works-3011096"
+    ampWebUrl: "https://www.dnaindia.com/technology/report-skype-gets-real-time-voice-translation-feature-here-s-how-it-works-3011096/amp"
+    cdnAmpWebUrl: "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/technology/report-skype-gets-real-time-voice-translation-feature-here-s-how-it-works-3011096/amp"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 53
+      name: DNA India
+      domain: dnaindia.com
+    quality: 44
     images:
-      - url: "https://images.ctfassets.net/y8fb0rhks3b3/5mzmBPIGHbx1UoaiG6Nlu1/95405aae00953b3407b39047c28309de/MSFT_workLab_agile_KevinScott_article_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2022/12/16/2560989-skype.png"
+        width: 640
+        height: 360
         isCached: true
   - title: "Microsoft launches real-time voice translation in Skype"
     excerpt: "The new translation feature uses AI to automatically detect the languages being spoken during a video call and translate them in real time."
@@ -86,28 +90,19 @@ related:
         width: 1280
         height: 750
         isCached: true
-  - title: "AI in Fashion Market – Major Technology Giants in Buzz Again : Microsoft, Facebook, Google"
-    excerpt: "The latest study released on the Global AI in Fashion Market by AMA Research evaluates market size, trend, and forecast to 2027. The AI in Fashion market study covers significant research data and proofs to be a handy resource document for managers,"
-    publishedDateTime: 2022-12-16T15:18:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/sbwire-2022-12-16-ai-in-fashion-market-major-technology-giants-in-buzz-again-microsoft-facebook-google"
+  - title: "Tilde Launches AI-powered Meeting Assistant with Real-time Multilingual Transcription and Translation"
+    excerpt: "This AI-powered virtual assistant enhances the productivity of multilingual meetings with automatic transcriptions, structured meeting notes, and real-time translations"
+    publishedDateTime: 2022-12-20T07:39:00Z
+    webUrl: "https://slator.com/tilde-launches-ai-powered-meeting-assistant-with-real-time-multilingual-transcription-and-translation/"
     type: article
     provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 26
-  - title: "Microsoft announces Future Ready Champions of Code Program to empower India’s developer community"
-    excerpt: "Microsoft today announced the launch of Future Ready Champions of Code, a pan India program for developers, focused on sk"
-    publishedDateTime: 2022-12-19T04:12:00Z
-    webUrl: "https://menafn.com/1105325067/Microsoft-announces-Future-Ready-Champions-of-Code-Program-to-empower-Indias-developer-community"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 26
+      name: Slator
+      domain: slator.com
+    quality: 24
     images:
-      - url: "https://menafn.com/updates/pr/2022-12/18/pr_13449_ac98fc28_image_story.jpg"
-        width: 1200
-        height: 627
+      - url: "https://slator.com/assets/2022/12/Slator_Press-Release_Meeting-Assistant_Dec-2022.jpg"
+        width: 900
+        height: 471
         isCached: true
 
 secured: "ciZk19rnamD5oJ2KuxEg2FlnTnOlNECvJ22OZNKqXtHQ3bXC17LrYZr1DlkF5QLcQotrrNV5d8YY+n2ktb/wuKeBQjG8Nbh0F9oUL/mdR8oIS/261XHhAzMy0JOKpAm/thC9ZIZDwA28u6wi/ZhOgI/JTXZ8vLedy1wUntBiBTjjE11GP50hqMFd83c1XDV5b8J1M5W2cHeVvvRRcB116O4EObjYJa2DBNMf5UhXJJ/cy8tqIAB3nTkT1fvP6G7sCpt1ye9goGWqsAE9R/JhAVIrrSuWXAfC7KIkLwMkjksyocyzzhn9gqC0M4L5xM8atJ2/BWk13oa+r5Mp96i6EU/EFJYsSKiYbDUdrsR1Z6nQOPHtTEflDLKNqlZc8BnpQj+rmCjTU9CGF5AFn8vF03rkDM8PcPwAkzz1s2p/udyvRs6jihED99aX2lS02hm2ushrJwNcKsNI1t2Q/ov6GjoNUnrNMyH8swc7aeWrtWYuYXDer7M6DpVZ1972K2SHoy+8YVT+YeZDTMOYfN+GZg==;QgOvysDzaicW5Lqcpx4g1w=="

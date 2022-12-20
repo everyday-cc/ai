@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "CyberLink’s face biometrics gets FIDO certified, Aware receives SOC 2"
-    excerpt: "CyberLink face biometrics engine FaceMe is now certified for the FIDO Alliance’s Universal Authentication Framework level one standard."
-    publishedDateTime: 2022-12-15T22:46:00Z
-    webUrl: "https://www.biometricupdate.com/202212/cyberlinks-face-biometrics-gets-fido-certified-aware-receives-soc-2"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/04155849/certification-standards-scaled.jpg"
-        width: 2048
-        height: 845
-        isCached: true
   - title: "ValidSoft launches new voice biometrics app, receives 2 awards"
     excerpt: "The software tool is aimed at countering credential theft, social engineering hacks, replay attacks, and synthetic voice deepfake attacks."
     publishedDateTime: 2022-12-19T16:28:00Z

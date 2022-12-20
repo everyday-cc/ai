@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-20T14:59:00Z
 originalUrl: "https://www.afp.com/en/news/1313/globality-wins-best-use-natural-language-processing-2022-global-excellence-awards-202212200050341"
 webUrl: "https://www.afp.com/en/news/1313/globality-wins-best-use-natural-language-processing-2022-global-excellence-awards-202212200050341"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: AFP

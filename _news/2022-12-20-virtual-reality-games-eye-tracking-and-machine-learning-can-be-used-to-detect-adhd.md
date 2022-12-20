@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-20T13:58:00Z
 originalUrl: "https://www.news-medical.net/news/20221220/Virtual-reality-games-eye-tracking-and-machine-learning-can-be-used-to-detect-ADHD.aspx"
 webUrl: "https://www.news-medical.net/news/20221220/Virtual-reality-games-eye-tracking-and-machine-learning-can-be-used-to-detect-ADHD.aspx"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: News Medical

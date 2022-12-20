@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/artificial-intelligence-animals-anthropo
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-animals-anthropomorphism/amp"
 type: article
 quality: 91
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -56,7 +56,7 @@ related:
     provider:
       name: Diginomica
       domain: diginomica.com
-    quality: 71
+    quality: 73
     images:
       - url: "https://diginomica.com/sites/default/files/images/2022-12/Screenshot%202022-12-16%20at%2011.33.54.png"
         width: 1536
@@ -93,6 +93,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/ai-building.jpg"
         width: 1176
         height: 1920
+        isCached: true
+  - title: "Artificial intelligence and the rise of optical computing"
+    excerpt: "An optical computer could likewise do lots of calculations at the same time. Using photons reduces power consumption, too. Electrical resistance generates heat, which wastes energy. The passage of photons through transparent media is resistance-free."
+    publishedDateTime: 2022-12-20T16:00:00Z
+    webUrl: "https://www.economist.com/science-and-technology/2022/12/20/artificial-intelligence-and-the-rise-of-optical-computing"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 39
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20221224_STD001.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "+dqeGlKcIPzyPlD8/DB7TR8p/I3HmRQmcWS/ieBU9QJimPA/Fybh4E61ODvF4Kg+S0DWjt+/bM0WgEZByPXjLzyiYG1t5vtUtU7uM3fWHIAZg0YjlwAD/kqfZsya4U4wksLLBil0R+8DMzP69X8vS3FBnrPLfyUVMAJsyigB5NmmtHZVuSauv+il75jNkcZ4EsttRUsLQPntOGVhKHzh62tuTZP8K8J2IbngG4JvEV9YWtpqGqKLm1WTBuAlhoOcQZudY8HIe9MdnoQhd+mFoB+Nvaj2x6LrjHEGqZ4/cF0DtAN2pkPHDBnpkyLm3bQVAS4Slx48iZ4/Tgjl36G9emL6acUMEHq6sFNqX2jjjVhbzut1wpVpDCegV4v6lZSRIfFvdQeUVIS6Ix5ehe5r4sJaUfTPQNFEVC0g3uSKdPS1g7FnU3Oc3Gv5lRc1XCIusbEGAF2DT1um5VfMZxBR44/mFOPUyyRy2jObW3ZrBVN6pLhVzQH2wbSV+78RPUnsWEdgaGVVMgJOxcsqgqyKag==;UMSq3kHtFFGXqCzpzzraVg=="

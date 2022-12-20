@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Lensa AI Is Carrying Gender Bias Into the Future"
+    excerpt: "Instead of training artificial intelligence on the injustices of the past, we need to ensure that it starts from an equitable base."
+    publishedDateTime: 2022-12-20T13:53:00Z
+    webUrl: "https://www.pcmag.com/opinions/lensa-ai-is-carrying-gender-bias-into-the-future"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/00jfIcyNKYSnvTTtliZLKQt-1.fit_lim.size_1200x630.v1671051652.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "The good and the bad of Lensa’s AI portraits"
     excerpt: "As neat as it looks, Lensa's creations, like those from most AI-generators, aren’t free from gender, racial, and other biases."
     publishedDateTime: 2022-12-16T15:00:00Z

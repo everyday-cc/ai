@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-20T10:21:00Z
 originalUrl: "https://diginomica.com/2022-year-ai-and-robotics"
 webUrl: "https://diginomica.com/2022-year-ai-and-robotics"
 type: article
-quality: 71
+quality: 73
 heat: -1
 published: false
 
@@ -90,6 +90,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/ai-building.jpg"
         width: 1176
         height: 1920
+        isCached: true
+  - title: "Artificial intelligence and the rise of optical computing"
+    excerpt: "An optical computer could likewise do lots of calculations at the same time. Using photons reduces power consumption, too. Electrical resistance generates heat, which wastes energy. The passage of photons through transparent media is resistance-free."
+    publishedDateTime: 2022-12-20T16:00:00Z
+    webUrl: "https://www.economist.com/science-and-technology/2022/12/20/artificial-intelligence-and-the-rise-of-optical-computing"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 39
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20221224_STD001.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "xBp6hVVFEcNMUJwNTNOfPX2Vbh9hdHG9S1aqCzQzcVwcU+OYnZZX08kG6SauRUcoYa08XYpjwERVgtU4+h6hPjL/rj/daITHRQ9qJZMqWc8ExcGKMyXG8lp+oqPb2QFKX7gZO42wDJoViGq4kGyURHBgNAzIm6kMFve9AzehrO4TpEoUCD7sn5vUx8Pkmak7sfvwgYR6XeiAfRvpaIzqa/tlshmBXSUq0bIO+mbjhKc3+DvG6Ce9dyAz46yy4N9oR1zDUyOddkOwmyDnSHFWmqO2oEbtzU9KXhVCgeWifE8ggqOpVd07cGEY7qhV0KjWUApdIeyXRcN4yB6iAYDdvCtjjYm2rQmMik/ZPiINOGhH4VbLnLMRI3oiLKDPNAbmHTH6Ar0/5O+p2afxj6PNupJLbXpP3wuFDbbZZsgnMXTlejHtS6IDNfacQih6XC+Y10epAaBalUli/qbmtfN56LuZbsKvStBTw1GFaNz9/tN3jJ2lqPHC7xzyQ460m7vUDQwPYsFgNnHSUpSdGXt/9Q==;isLamxpJw36glYbfl7Tq4g=="

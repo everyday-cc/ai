@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision Development Market : Industry Analysis 2022 To 2028 based on Sales, Revenue, Size and Share"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Computer"
+    publishedDateTime: 2022-12-20T05:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-development-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-12-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
 
 secured: "6dTChUU+UrcpIqFfSZsrOFxk9qkXvUIp/0LEcsimk9iaFZBYrzzyVdI2UcvGUSktR6ELKizVcqLzJHigVhnRCtLF/s1eXfepP+hAAVxPqjaT/9GmXDGK+Qy0oMFJBoHm5/owkE4qB+xOYLcIb0dmKKDxhuUwE6whpECpZNfHzUJukfOQw6m1W99IrMgaUOlwHLBf6tNhxuGh91olluoDBiDiKNtWOPiMSiId7Io6c1/OWqJ42aMsuEak/MjP8S6lQPFnFedf3xLAssw3Xuju2jXUvK1JGznMbBADnQyHXgnMmhGlxfZ6+awS0WbaWBHFavUSV+HRc0Z9BcgYaXHL9EWN/+e2tGEZ2d95o0qKi0M=;PkwkTDJMphdUPO5sK9SWuw=="
 ---

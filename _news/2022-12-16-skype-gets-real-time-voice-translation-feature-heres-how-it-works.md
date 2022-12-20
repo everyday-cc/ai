@@ -43,6 +43,52 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft launches real-time voice translation feature in Skype using AI"
+    excerpt: "The new translation feature uses AI to automatically detect the languages being spoken during a video call and translate them in real time"
+    publishedDateTime: 2022-12-16T07:22:00Z
+    webUrl: "https://www.business-standard.com/article/technology/microsoft-launches-real-time-voice-translation-feature-in-skype-using-ai-122121600397_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/microsoft-launches-real-time-voice-translation-feature-in-skype-using-ai-122121600397_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-launches-real-time-voice-translation-feature-in-skype-using-ai-122121600397_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 75
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-07/12/full/1626056584-8778.jpg"
+        width: 620
+        height: 464
+        isCached: true
+  - title: "Microsoft launches real-time voice translation in Skype"
+    excerpt: "The new translation feature uses AI to automatically detect the languages being spoken during a video call and translate them in real time"
+    publishedDateTime: 2022-12-17T12:06:00Z
+    webUrl: "https://www.mid-day.com/technology/article/microsoft-launches-real-time-voice-translation-in-skype-23261056"
+    ampWebUrl: "https://www.mid-day.com/amp/technology/article/microsoft-launches-real-time-voice-translation-in-skype-23261056"
+    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/technology/article/microsoft-launches-real-time-voice-translation-in-skype-23261056"
+    type: article
+    provider:
+      name: Mid Day
+      domain: mid-day.com
+    quality: 61
+    images:
+      - url: "https://images.mid-day.com/images/images/2022/dec/apple-seventeen-dec_d.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Microsoft launches real-time voice translation in Skype"
+    excerpt: "The new translation feature uses AI to automatically detect the languages being spoken during a video call and translate them in real time."
+    publishedDateTime: 2022-12-16T07:11:00Z
+    webUrl: "https://telanganatoday.com/microsoft-launches-real-time-voice-translation-in-skype"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 41
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/12/Microsoft-may-build-super-app-to-fight-Apple-Google.jpg"
+        width: 1280
+        height: 750
+        isCached: true
   - title: "Tilde Launches AI-powered Meeting Assistant with Real-time Multilingual Transcription and Translation"
     excerpt: "This AI-powered virtual assistant enhances the productivity of multilingual meetings with automatic transcriptions, structured meeting notes, and real-time translations"
     publishedDateTime: 2022-12-20T07:39:00Z

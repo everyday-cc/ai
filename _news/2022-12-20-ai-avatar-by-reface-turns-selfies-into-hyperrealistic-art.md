@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-20T14:17:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/ai-avatar-by-reface-turns-selfies-into-hyperrealistic-art-1031982459"
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-avatar-by-reface-turns-selfies-into-hyperrealistic-art-1031982459"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Business Insider

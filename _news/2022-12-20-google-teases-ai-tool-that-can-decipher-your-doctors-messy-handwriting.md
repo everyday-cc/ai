@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google Is Developing an AI That Can Transcribe Doctors’ Chicken Scratch"
+    excerpt: "Google is trying to rid the world of the scourge of doctor's hastily written prescriptions, with the help of AI."
+    publishedDateTime: 2022-12-20T12:48:00Z
+    webUrl: "https://www.extremetech.com/electronics/341674-google-is-developing-an-ai-that-can-transcribe-doctors-chicken-scratch"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 34
   - title: "Google Will Soon Help Translate Doctor's Handwritten Prescription"
     excerpt: "Google on Monday announced an artificial intelligence (AI) and machine learning (ML) model that can identify and highligh"
     publishedDateTime: 2022-12-19T13:11:00Z

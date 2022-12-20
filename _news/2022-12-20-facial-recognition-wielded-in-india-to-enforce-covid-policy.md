@@ -37,6 +37,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Hyderabad Symbolizes India’s Embrace of Surveillance, Facial Recognition Tech"
+    excerpt: "India’s National Crime Records Bureau is building what could be among the world’s largest facial recognition systems."
+    publishedDateTime: 2022-12-20T14:19:00Z
+    webUrl: "https://thediplomat.com/2022/12/hyderabad-symbolizes-indias-embrace-of-surveillance-facial-recognition-tech/"
+    type: article
+    provider:
+      name: The Diplomat
+      domain: thediplomat.com
+    quality: 16
 
 secured: "y7RSNgysgfX7B5x9O3jnfnw6z8ls8TGxZ3nXox4sA9aPYCOvh6HCDpuuVMNnq1afI8uocXmmbbw75E1guWDfZw/2FQ6W+3r4M+oNAMNiCnMYiZqUQdXOf5/X2bTKCPWh/40neEvPZDIqAXJ1LI+6xdKJFBDz/09gqC2yrSdQPsPW4bQVzb5XDbVkr7or5dY0PuXlF+fajRVb5QdRTxiWfDniEkF1r6F4T75jhXH8u2OyiYbp/g2BC5upRhWFTQpoIDwAwGEZfOlYS87042Pz0rrvPGQSCinPBhGNjfipT3R1vq952zuBsWcAdaDZacOxkQOBTYXJsy967ZxpA75wrzmPHzH3glTLL1ywg2tbqNdXpuXmiHaHlaA2gDpINfL3AvPVh5ZwNkKcvE1XvaoX7G/JWKwH215/DCabUGYLc4v/nvp8l7WKKTcX/HUhjZ2dorYIf0ykBaDwKXTH5MZ1QOQh+UHqdfedgsMiREbWOnZ6RX9agqvoP+fQGD4aec6Dsl3JraXBcsZw7FZGqgdmPw==;jbHoA5bjIWFCiSiL9ifFkg=="
 ---

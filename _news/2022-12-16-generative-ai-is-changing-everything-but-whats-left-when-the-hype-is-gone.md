@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2022/12/16/1065005/generative-ai-re
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/16/1065005/generative-ai-revolution-art/amp/"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1506
     height: 1999
     isCached: true
-
-related:
-  - title: "The Download: generative AI, and psychedelic hype"
-    excerpt: "Generative AI is changing everything. But what’s left when the hype is gone? It was clear that OpenAI was on to something. In late 2021, a small team of researchers was playing around with a new version of OpenAI’s text-to-image model,"
-    publishedDateTime: 2022-12-16T13:09:00Z
-    webUrl: "https://www.technologyreview.com/2022/12/16/1065266/download-generative-ai-psychedelic-hype/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
 
 secured: "vz5f1x5oxvekNooBR1CYJV5cHk1BuKCs5bN2r9Hdm77jc8C5lqPoabzC39T9JumJSLCECIgCEK5Lou3tRgacovUuNxB5VqC8YmoQJl++jyPJZ0DbkZaRthLW/EOX2X9h8q4OZk/Ycf7bkL7eEo34gWccF1ZLDmarMUl5ctW70nIzChfwVV/9UJ/v8mVy9IFKSlwUrwH/FJdUyUDRFCq5cmMXbVWHTdRbOx0+msGK0dw7GP3MoC9pLP7nBuZZWoJ+5PiXa/ZwlUQl/MnzShBKTxMiWvCt7BZA+0FXmrIEajIfk2r6/WOvREnN7SQJB7krZ2eUfRE7/3ARvI2CDYBjQFwteQ+lzh8szio3T0/SwBi3Tt9xyNI3MlKZgIFnC5emC29zhCHzDRRBpOYs/Rm0A20wreK2wcBYm9LAU11xuXVu4468IQUgARVOwwqVeEEoLn1T4mGrz+FOsPWj9gjqv4W636g/veO7C/vUc31yirkpe1cgiZrD2hXl+DEhkvC86VnlWXlk8cwe6Yem7lPO+w==;gkhWR5T4Cx6OexwsaGCepQ=="
 ---

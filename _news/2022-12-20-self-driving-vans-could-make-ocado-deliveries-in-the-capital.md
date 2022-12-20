@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-20T14:45:00Z
 originalUrl: "https://www.standard.co.uk/news/london/self-driving-vans-autonomous-cars-delivery-ocado-asda-wayve-b1048496.html"
 webUrl: "https://www.standard.co.uk/news/london/self-driving-vans-autonomous-cars-delivery-ocado-asda-wayve-b1048496.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: London Evening Standard

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/technology/lensa-ai-portrait/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/lensa-ai-portrait/?amp"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Lensa AI Is Carrying Gender Bias Into the Future"
+    excerpt: "Instead of training artificial intelligence on the injustices of the past, we need to ensure that it starts from an equitable base."
+    publishedDateTime: 2022-12-20T13:53:00Z
+    webUrl: "https://www.pcmag.com/opinions/lensa-ai-is-carrying-gender-bias-into-the-future"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/00jfIcyNKYSnvTTtliZLKQt-1.fit_lim.size_1200x630.v1671051652.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "How to use Lensa and its AI art features on iPhone"
     excerpt: "Lensa is a photo and video editor that offers facial retouching tools for selfies, and it has a feature that processes photos with artificial intelligence. Here's how to use Lensa on iPhone."
     publishedDateTime: 2022-12-19T20:12:00Z

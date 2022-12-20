@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-20T13:29:00Z
 originalUrl: "https://healthitanalytics.com/news/machine-learning-models-predict-6-month-ovarian-cancer-mortality"
 webUrl: "https://healthitanalytics.com/news/machine-learning-models-predict-6-month-ovarian-cancer-mortality"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Analytics

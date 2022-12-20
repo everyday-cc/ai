@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/automotive-artificial-in
 webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligenceai-market-research-development-status-top-companies-trends-and-growth-analysis-2023-to-2027-2022-12-20"
 type: article
 quality: 52
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision Development Market : Industry Analysis 2022 To 2028 based on Sales, Revenue, Size and Share"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Computer"
+    publishedDateTime: 2022-12-20T05:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-development-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-12-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
 
 secured: "sfOKatx97jTeiOE/b77+3JaRx9Z5W/mVz0DWAaJLU81YZXEICalOcBZijmLImGbVgISHaMyCXykUKoe/FTEbfXizgY3lPu+VTk5UAO1layLxlbPDDG7Wzd4d4Ldm8G69pfyQxhtorNtaMemCqkoldRrVQ3GidKQJK56/tiGCdfbNLfyVeINBowQKpJ34Uam8NNSRtpbFovRP5ll3qlK/+sV3tsDJvD1bP24ly5OEhd7PZVaAufD6gXdqMZhHCql14WGwl/BbTT96Lx8YXXSMmwyE9X6iTPuDu4erBySzWfCXiIpOWD0jhNzLZvwBd/3v+w6la1tzNAstHZTzB2MT5CQOXWX5zGCuNSMVkC+vAgA=;XbKRz7c6ZeCWGqWA2rshfg=="
 ---
