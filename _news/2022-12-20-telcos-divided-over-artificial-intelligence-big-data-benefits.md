@@ -1,30 +1,28 @@
 ---
 category: news
 title: "Telcos divided over artificial intelligence, Big Data benefits"
-excerpt: "In its submission to the Trai, Reliance Jio said there are vast opportunities for deploying AI to improve network performance, overall QoS, spectrum management, security and customer services in telecom."
-publishedDateTime: 2022-12-20T03:25:00Z
-originalUrl: "https://economictimes.indiatimes.com/industry/telecom/telecom-news/telcos-divided-over-artificial-intelligence-big-data-benefits/articleshow/96351519.cms"
-webUrl: "https://economictimes.indiatimes.com/industry/telecom/telecom-news/telcos-divided-over-artificial-intelligence-big-data-benefits/articleshow/96351519.cms"
-ampWebUrl: "https://m.economictimes.com/industry/telecom/telecom-news/telcos-divided-over-artificial-intelligence-big-data-benefits/amp_articleshow/96351519.cms"
-cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/telecom/telecom-news/telcos-divided-over-artificial-intelligence-big-data-benefits/amp_articleshow/96351519.cms"
+excerpt: "In its submission to the Telecom Regulatory Authority of India (Trai), Reliance Jio has said there are vast opportunities for deploying AI to improve network performance, overall QoS, spectrum management,"
+publishedDateTime: 2022-12-20T06:50:00Z
+originalUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/telcos-divided-over-artificial-intelligence-big-data-benefits/96363374"
+webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/telcos-divided-over-artificial-intelligence-big-data-benefits/96363374"
 type: article
-quality: 57
-heat: 57
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Indiatimes
+  name: brandequity.economictimes.indiatimes
   domain: indiatimes.com
 
 topics:
   - AI
 
 images:
-  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-25402,msid-96351541/mobile-1.jpg"
-    width: 600
-    height: 450
+  - url: "https://etimg.etb2bimg.com/thumb/msid-96363374,imgsize-28138,width-1200,height=765,overlay-etbrandequity/digital/telcos-divided-over-artificial-intelligence-big-data-benefits.jpg"
+    width: 1200
+    height: 765
     isCached: true
 
-secured: "WRRwPbCjZZaxgyGsu+LpCJYyP2St+Gw980leiVxJ2WKmeSjfaTdHjMmEv5TsWxDX4sRbN4gCfmjwT8TavSEcmWTsAkQ7ux3Q5uNwDGMc9j4HejdH7fdHlA51UIbj3xxcAUDY66lw+na/wDGZ/cxoMdEYAd7u6OawTkMuVZFewKZPGGzzDw38YpifoApmF+HgV0u2lukNNP4KZWohyN74HBrBGN64WsgyeLhn7kLB8G6plvJ0IsCaWsIfmIWU6i4/vsBQXuxQgtt8D0VcTyJOArzr6/VMJk/tPfDY0h2GOsOgva1D2Td5CDiO++On5fXm2DdQfy91E1Exy+4p0eL3BUEIBSYCJQNbhARi8r6dosc=;8ZFhZogdPHyu178iqiNUHw=="
+secured: "mEPiJueNM/dVH+25FLTO0Dg0c8v/tiUDKPV/SLOujl6SA0svYs1XKu6XC+NAxKF1VPMhHS+L0Yl5YxZcRRnB4KYHvhgZaI3peqCwZzwRck2adINKB52fManM8GKBvXV3ibPWC10XXnJPlikEimEZWr52SK3JhVHEhbQakRlF5ZqZ0j2LP3sGqy7zH91PPl4vqMWWhZosKbW2OlM2T9rWR+SpaoH/DUhCRxA1n0vdTGKK3B2NxC+i3K/0JeaL9ZNkNxgAt/UFpwPy1/lCO5ic0nwkMqOiWhe/YMjEYzFXGCz3IlqUqC8hhHrffvjGqdUXgL8AaVre+xlqJCd+KVoa4jgQkOrmnViPIaeqHXm9ml4=;56K4JxeJV3kExVNUre2xAQ=="
 ---
 

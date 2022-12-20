@@ -2,6 +2,135 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-12-06-lattice-semiconductor-expands-to-mid-range-fpgas-goes-after-intels-arria-and-amds-xilinx-offerings.md",
+      "title": "Lattice Semiconductor expands to mid-range FPGAs, goes after Intel's Arria and AMD's Xilinx offerings",
+      "excerpt": "When you have a product that's challenging to explain, it often helps to give simple examples to help people understand what it does and why it",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/96873-lattice-semiconductor-expands-mid-range-fpgas-goes-after.html",
+      "originalUrl": "https://www.techspot.com/news/96873-lattice-semiconductor-expands-mid-range-fpgas-goes-after.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2022/12/2022-12-06-image-6.jpg",
+          "width": 2400,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T07:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-five9-elevates-omni-channel-customer-engagement-with-innovations-in-digital-self-service-ai-design-and-analytics.md",
+      "title": "Five9 Elevates Omni-Channel Customer Engagement with Innovations in Digital Self-Service, AI Design, and Analytics",
+      "excerpt": "\"Customers have high expectations when they contact their favorite brands, regardless of whether they employ self-service, digital or voice,\" explains Dan Miller, Lead Analyst at Opus Research. \"Too often,",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/12/06/9725221.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/12/06/9725221.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-if-you-want-to-improve-your-cognitive-abilities-learn-piano.md",
+      "title": "If you want to improve your cognitive abilities, learn piano",
+      "excerpt": "“We know that playing and listening to music often bring joy to our lives, but with this study, we were interested in learning more about the direct effects a short period of music learning can have on our cognitive abilities,” commented Petrin",
+      "sourceUrl": null,
+      "webUrl": "https://www.biotechniques.com/neuroscience/if-you-want-to-improve-your-cognitive-abilities-learn-the-piano/",
+      "originalUrl": "https://www.biotechniques.com/neuroscience/if-you-want-to-improve-your-cognitive-abilities-learn-the-piano/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.biotechniques.com/wp-content/uploads/2022/12/piano.png",
+          "width": 602,
+          "height": 258,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T06:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BioTechniques",
+        "domain": "biotechniques.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-neureality-lands-35m-to-bring-ai-accelerator-chips-to-market.md",
       "title": "NeuReality lands $35M to bring AI accelerator chips to market",
       "excerpt": "NeuReality, a startup developing AI inferencing accelerator chips, has raised $35 million in new venture capital.",
@@ -775,6 +904,58 @@
       ]
     },
     {
+      "path": "_news/2022-12-06-mysterious-object-emerges-on-a-florida-beach-setting-off-speculation.md",
+      "title": "Mysterious Object Emerges on a Florida Beach, Setting Off Speculation",
+      "excerpt": "The object appears to be about 80 feet long and made of wood and metal. Send any friend a story As a subscriber, you have 10 gift articles to give each month. Anyone can read what you share.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/12/05/us/mysterious-object-florida-beach.html",
+      "originalUrl": "https://www.nytimes.com/2022/12/05/us/mysterious-object-florida-beach.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/12/05/multimedia/05xp-daytona-beach-02/05xp-daytona-beach-02-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/12/05/us/mysterious-object-florida-beach.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/05/us/mysterious-object-florida-beach.amp.html",
+      "publishedDateTime": "2022-12-05T18:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-ai-for-the-board-game-diplomacy.md",
       "title": "AI for the board game Diplomacy",
       "excerpt": "Successful communication and cooperation have been crucial for helping societies advance throughout history. The closed environments of board games can serve as a sandbox for modelling and investigating interaction and communication – and we can learn a lot from playing them. In our recent paper, published",
@@ -1005,205 +1186,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-the-newest-nfl-star-could-be-a-data-scientist-using-ml-and-ai-to-keep-players-safe.md",
-      "title": "The newest NFL star could be a data scientist: Using ML and AI to keep players safe",
-      "excerpt": "In an innovative partnership between the NFL and AWS, data scientists on Kaggle are being commissioned to identify player contact, incentivized by a $50,000 prize.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/heres-how-data-scientists-are-keeping-nfl-stars-safe-using-ai-and-ml/",
-      "originalUrl": "https://www.zdnet.com/article/heres-how-data-scientists-are-keeping-nfl-stars-safe-using-ai-and-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/7b8eab768146a43a8ec7235e8116f15e0f9dfc84/2022/12/05/ad61d4d4-9461-4f68-b1fa-8623791362e4/digitalath2.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/heres-how-data-scientists-are-keeping-nfl-stars-safe-using-ai-and-ml/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/heres-how-data-scientists-are-keeping-nfl-stars-safe-using-ai-and-ml/",
-      "publishedDateTime": "2022-12-05T15:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-no-linux-no-problem-just-get-ai-to-hallucinate-it-for-you.md",
-      "title": "No Linux? No problem. Just get AI to hallucinate it for you",
-      "excerpt": "The simulated rabbit hole goes deep, and ChatGPT can even hallucinate new Linux commands. In a prompting maneuver similar to conjuring up an AI-hallucinated Linux shell, someone named gfodor on Twitter discovered that OpenGPT could simulate calling a vintage dial-up BBS,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/12/openais-new-chatbot-can-hallucinate-a-linux-shell-or-calling-a-bbs/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/12/openais-new-chatbot-can-hallucinate-a-linux-shell-or-calling-a-bbs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/ai_terminal_hero_2-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2022/12/openais-new-chatbot-can-hallucinate-a-linux-shell-or-calling-a-bbs/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/12/openais-new-chatbot-can-hallucinate-a-linux-shell-or-calling-a-bbs/amp/",
-      "publishedDateTime": "2022-12-05T14:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-how-are-hearing-aids-and-dementia-related-a-new-study-explains.md",
-      "title": "How are hearing aids and dementia related? A new study explains",
-      "excerpt": "Hearing aids might be an important tool in the effort to prevent cognitive decline and dementia, according to a new study. Research has established that hearing loss in an important risk factor in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/12/05/health/hearing-loss-dementia-study-wellness/index.html",
-      "originalUrl": "https://www.cnn.com/2022/12/05/health/hearing-loss-dementia-study-wellness/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221205095708-hearing-loss-dementia-wellness-stock-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/12/05/health/hearing-loss-dementia-study-wellness/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/12/05/health/hearing-loss-dementia-study-wellness/index.html",
-      "publishedDateTime": "2022-12-05T14:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-use-it-or-lose-it-hearing-aids-linked-to-cognitive-benefit.md",
-      "title": "Use It, or Lose It: Hearing Aids Linked to Cognitive Benefit",
-      "excerpt": "Opens in a new tab or window Restoring hearing loss with hearing aids or cochlear implants was linked with less long-term cognitive decline and even some gain, a systematic review and meta ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/geriatrics/dementia/102061",
-      "originalUrl": "https://www.medpagetoday.com/geriatrics/dementia/102061",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.medpagetoday.net/media/images/102xxx/102061.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-05T13:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

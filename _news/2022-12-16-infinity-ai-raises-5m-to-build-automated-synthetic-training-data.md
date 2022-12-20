@@ -32,6 +32,15 @@ related:
         width: 739
         height: 494
         isCached: true
+  - title: "With groundbreaking platform for computer vision synthetic data, Rendered.ai looks ahead to 2023 growth"
+    excerpt: "Rendered.ai, the leading platform for physics-based synthetic data, wraps up 2022 by recapping its tremendous progress providing a commercial offering that empowers customers to design and generate customized datasets to train machine learning (ML) and artificial intelligence (AI) systems."
+    publishedDateTime: 2022-12-15T16:32:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/12/15/9731563.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
   - title: "Infinity AI Raises $5M to Build Automated Synthetic Training Data"
     excerpt: "Infinity AI, a startup that generates automated synthetic training data, has announced a $5M seed round led by Matrix"
     publishedDateTime: 2022-12-16T16:41:00Z

@@ -54,15 +54,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "As Google weighs in on ChatGPT, You.com enters the AI chat"
-    excerpt: "People may be talking about what ChatGPT means for Google search, but You.com is making its own generative AI search moves."
-    publishedDateTime: 2022-12-15T14:00:00Z
-    webUrl: "https://venturebeat.com/ai/as-google-weighs-in-on-chatgpt-you-com-enters-the-ai-chat/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "ChatGPT got all the buzz, but beneath it is a $1B developer framework that's quietly fueling the new era of lifelike AI at OpenAI and beyond"
     excerpt: "The Ray developer framework is used by OpenAI, Amazon, and more to solve one of AI's biggest pain points and make AI tools like ChatGPT possible."
     publishedDateTime: 2022-12-16T10:00:00Z

@@ -74,15 +74,6 @@ related:
       name: scmp.com
       domain: scmp.com
     quality: 41
-  - title: "US government to blacklist China's YMTC, crackdown on AI chip sector"
-    excerpt: "YMTC, long in the crosshairs of the US government, will be added to the list over fears it could divert US technology to previously blacklisted Chinese tech giants Huawei and Hikvision. The move will ba The 21 Chinese AI chip entities being added to the trade blacklist,"
-    publishedDateTime: 2022-12-15T14:44:00Z
-    webUrl: "https://www.straitstimes.com/world/united-states/us-president-biden-to-blacklist-chinas-ymtc-crackdown-on-ai-chip-sector"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 34
 
 secured: "Pc/30QJ6zSDiNf4JDFVuV0ZCDnKzp+3hHkgf/+1Qzft0eGJS4t7ej1WPGZkyu+oguOaFwtj5r6q1hS/fnXsB7FoWsRCIn+j4d2DRci+5TmbiiBXJorv4RV1znNtqdHXat0oEgpp7fJsW5fNuBzjUve/ijl4fNwL5+Eq4NI/loC88mGs0DC1tVn3ew7IGT+bfHvZjpmbEV84uNi/jPwmOIJz/5uWJovsxIriHsPYVGDCIkkvLkquZ7JlceL2UCKIOWjPoWZAkcfYKU/B1Gajljxz2EQBYgCtVNBcYBGmxrlpoQ38YyX7Uzr+Huo/6Yalz+gaqo0qynicGERbVHgX1CJOtQB8XBEbrlA9KK4Hn1OeqgG8598DQsb5HUw94v+imZfAPGoMfwsjSfPD2qnObHe1FAc6zFCoEAHyHNIG9P1LAJyJCBE7CSkB4X4J+t/R5XRhkr9N8T5k6EGyg4B7G3LbZNHhDSVZxlsYbhuoDzNYIJFbDnN25rBJ0iKPlhaOTl7kNLzx1ij5A3jwcyJXUjw==;XQeDUC/wGqoUrRSAsC5Weg=="
 ---

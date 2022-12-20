@@ -2,6 +2,187 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2022-12-01-role-of-ai-in-fintech.md",
+      "title": "Role of AI in fintech",
+      "excerpt": "AI has come a long way since then! Innovation has always been a strong pillar of the fintech ecosystem. It is not surprising that in recent years, they have relied heavily on AI and ML to make ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/role-of-ai-in-fintech/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/role-of-ai-in-fintech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/75433510.cms",
+          "width": 330,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/role-of-ai-in-fintech/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/role-of-ai-in-fintech/",
+      "publishedDateTime": "2022-11-30T09:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-verdant-robotics-cultivates-465m-in-series-a-funding.md",
+      "title": "Verdant Robotics cultivates $46.5M in Series A funding",
+      "excerpt": "Verdant Robotics' Series A raised $46.5 million. The money will speed up the company's robotic farm manufacturing and market launch.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/verdant-robotics-cultivates-46-5m-in-series-a-funding/",
+      "originalUrl": "https://www.therobotreport.com/verdant-robotics-cultivates-46-5m-in-series-a-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/11/Verdant-fleet-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T09:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-the-era-of-evolution-for-conversational-ai.md",
+      "title": "The Era of Evolution for Conversational AI",
+      "excerpt": "Conversation AI-powered digital avatars would act as personal shopping assistants or stylists for customers, assisting them in a quick, seamless virtual shopping journey, owing to the lower latency of",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/en-in/technology/the-era-of-evolution-for-conversational-ai/440181",
+      "originalUrl": "https://www.entrepreneur.com/en-in/technology/the-era-of-evolution-for-conversational-ai/440181",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1669870136-Myproject-1155.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-amazon-to-warn-customers-on-limitations-of-its-ai.md",
+      "title": "Amazon to warn customers on limitations of its AI",
+      "excerpt": "Amazon chose software touching on sensitive demographic issues as a start for its service cards, which Kearns expects to grow in detail over time. One such service is called “Rekognition.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.euronews.com/next/2022/11/30/amazon-com-cloud-ai",
+      "originalUrl": "https://www.euronews.com/next/2022/11/30/amazon-com-cloud-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.euronews.com/articles/wires/896/14/8961478/1000x563_we9fl.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T09:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euronews",
+        "domain": "euronews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-san-francisco-approves-use-of-remote-controlled-robots-to-kill-suspects.md",
       "title": "San Francisco approves use of remote-controlled robots to kill suspects",
       "excerpt": "San Francisco’s police will be allowed to use remote-controlled robots to kill suspects. The city’s board of supervisors last night approved a controversial policy that lets police robots ...",
@@ -980,180 +1161,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-samsung-to-hire-over-1000-engineers-for-ai-machine-learning-space.md",
-      "title": "Samsung To Hire Over 1,000 Engineers For AI, Machine Learning Space",
-      "excerpt": "The young engineers will join the company in 2023, and will work on new-age technologies at its R&D institutes in Bengaluru, Noida, Delhi and at Samsung Semiconductor India Research in Bengaluru.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/business/samsung-india-plans-to-hire-1-000-engineers-from-iits-top-institutes-for-r-d-units-3565347",
-      "originalUrl": "https://www.ndtv.com/business/samsung-india-plans-to-hire-1-000-engineers-from-iits-top-institutes-for-r-d-units-3565347",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2022-08/5nb18m7_samsung-reuters_625x300_19_August_22.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=675?ver-20221119.02",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/business/samsung-india-plans-to-hire-1-000-engineers-from-iits-top-institutes-for-r-d-units-3565347/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/samsung-india-plans-to-hire-1-000-engineers-from-iits-top-institutes-for-r-d-units-3565347/amp/1",
-      "publishedDateTime": "2022-11-30T00:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-new-artificial-intelligence-could-help-humans-actually-talk-to-animals.md",
-      "title": "New artificial intelligence could help humans actually talk to animals",
-      "excerpt": "Though humans have tried for thousands of years, modern science has found new ways to communicate with the animal kingdom, albeit with limited success.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wtvr.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals",
-      "originalUrl": "https://www.wtvr.com/news/national/new-artificial-intelligence-could-help-humans-actually-talk-to-animals",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T00:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "wtvr",
-        "domain": "wtvr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-study-shows-alzheimers-drug-moderately-slowed-cognitive-decline.md",
-      "title": "Study shows Alzheimer’s drug ‘moderately’ slowed cognitive decline",
-      "excerpt": "An experimental drug from Biogen and its Japanese partner, Eisai, led to “moderately less” cognitive decline in patients with early symptoms of Alzheimer’s disease, but caused side effects ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonglobe.com/2022/11/29/business/alzheimers-drug/",
-      "originalUrl": "https://www.bostonglobe.com/2022/11/29/business/alzheimers-drug/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/Fp_9Aexwb7QP08vZDSg9ZptDq_A=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/HIJPRU7MVIVDGB44MKAEESRRQI.jpg",
-          "width": 506,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T23:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Boston Globe",
-        "domain": "bostonglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-how-to-capitalize-on-ai-and-data-to-personalize-live-events.md",
-      "title": "How to capitalize on AI and data to personalize live events",
-      "excerpt": "Data-driven AI technology, when correctly deployed and managed, can offer enhanced event experiences for attendees and organizations alike.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-to-capitalize-on-ai-and-data-to-personalize-live-events/",
-      "originalUrl": "https://venturebeat.com/ai/how-to-capitalize-on-ai-and-data-to-personalize-live-events/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/12/data-focus.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-to-capitalize-on-ai-and-data-to-personalize-live-events/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-to-capitalize-on-ai-and-data-to-personalize-live-events/amp/",
-      "publishedDateTime": "2022-11-29T21:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

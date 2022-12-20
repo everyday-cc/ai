@@ -2,6 +2,210 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2022-11-16-tigergraph-cloud-adds-graph-analytics-machine-learning-tools.md",
+      "title": "TigerGraph Cloud adds graph analytics, machine learning tools",
+      "excerpt": "The updated graph database-as-a-service (DBaaS) will come with visual analytics and machine learning tools, made accessible via the TigerGraph Suite.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3680069/tigergraph-cloud-adds-graph-analytics-machine-learning-tools.html",
+      "originalUrl": "https://www.infoworld.com/article/3680069/tigergraph-cloud-adds-graph-analytics-machine-learning-tools.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/08/16/10/hands_type_on_keyboard_of_laptop_displaying_bar_chart_data_metrics_analytics_review_by_peopleimages_gettyimages-1179754541_2400x1600-100857891-large-100931301-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3680069/tigergraph-cloud-adds-graph-analytics-machine-learning-tools.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3680069/tigergraph-cloud-adds-graph-analytics-machine-learning-tools.amp.html",
+      "publishedDateTime": "2022-11-15T11:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-11-16-making-data-available-on-demand-for-ai-and-ml-workloads-weka-lands-135m.md",
+      "title": "Making data available on demand for AI and ML workloads, Weka lands $135M",
+      "excerpt": "The company has partnered with leading cloud providers, including AWS, Azure, GCP and Oracle ... s first multi-cloud data platform for next-generation workloads like AI, ML and HPC,” he said. By 2026, large enterprises will triple their unstructured ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/making-data-available-on-demand-for-ai-and-ml-workloads-weka-lands-135m/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/making-data-available-on-demand-for-ai-and-ml-workloads-weka-lands-135m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1124400900.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/data-infrastructure/making-data-available-on-demand-for-ai-and-ml-workloads-weka-lands-135m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/making-data-available-on-demand-for-ai-and-ml-workloads-weka-lands-135m/amp/",
+      "publishedDateTime": "2022-11-15T09:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-11-16-amazon-to-test-facial-recognition-technology-to-verify-seller-identity.md",
+      "title": "Amazon to test facial recognition technology to verify seller identity",
+      "excerpt": "Amazon will test facial recognition, forgery detection, and other automated technologies as a new alternative for verifying the identities of online sellers. The test will be rolled out as a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2022/amazon-to-test-facial-recognition-technology-to-verify-seller-identity/",
+      "originalUrl": "https://www.geekwire.com/2022/amazon-to-test-facial-recognition-technology-to-verify-seller-identity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2022/11/amazon-id.png",
+          "width": 960,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-15T09:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-16-mrsformer-employs-a-novel-multiresolution-head-attention-mechanism-to-cut-transformers-compute-and-memory-costs.md",
+      "title": "‘MrsFormer’ Employs a Novel Multiresolution-Head Attention Mechanism to Cut Transformers’ Compute and Memory Costs",
+      "excerpt": "Transformer architectures have demonstrated impressive performance improvements since their introduction in 2017 and are now the standard in the natural language processing and computer vision research fields.",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2022/11/14/mrsformer-employs-a-nove-multiresolution-head-attention-mechanism-to-cut-transformers-compute-and-memory-costs/",
+      "originalUrl": "https://syncedreview.com/2022/11/14/mrsformer-employs-a-nove-multiresolution-head-attention-mechanism-to-cut-transformers-compute-and-memory-costs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
+          "width": 790,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://syncedreview.com/2022/11/14/mrsformer-employs-a-nove-multiresolution-head-attention-mechanism-to-cut-transformers-compute-and-memory-costs/amp/",
+      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/11/14/mrsformer-employs-a-nove-multiresolution-head-attention-mechanism-to-cut-transformers-compute-and-memory-costs/amp/",
+      "publishedDateTime": "2022-11-15T09:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-this-market-report-on-iris-recognition-machine-provides-broad-description-of-the-this-industry.md",
       "title": "This market report on Iris Recognition Machine provides broad description of the this industry",
       "excerpt": "Iris recognition is used in various applications such as face recognition, object recognition, and biometric authentication. Iris recognition has become an important part of security and identification systems because it can be used to identify individuals ...",
@@ -975,186 +1179,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-computer-vision-in-artificial-intelligence-ai-market-2022-to-eyewitness-massive-growth-by-2026.md",
-      "title": "Computer Vision in Artificial Intelligence (AI) Market 2022 to Eyewitness Massive Growth by 2026",
-      "excerpt": "Pre and Post Covid is Covered and Report Customization is Available. \"Computer Vision in Artificial Intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-2022-to-eyewitness-massive-growth-by-2026-2022-11-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-2022-to-eyewitness-massive-growth-by-2026-2022-11-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-14T22:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-vuckovich-earns-leadership-recognition.md",
-      "title": "Vuckovich earns leadership recognition",
-      "excerpt": "Indiana Area School District Superintendent Mr. Michael Vuckovich, has been recognized as an outstanding leader in education by the Pennsylvania Association of School Administrators. Mr. Vuckovich ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.citizensvoice.com/news/state/vuckovich-earns-leadership-recognition/article_ca19fc9f-1a27-5959-863b-eb0075a001fd.html",
-      "originalUrl": "https://www.citizensvoice.com/news/state/vuckovich-earns-leadership-recognition/article_ca19fc9f-1a27-5959-863b-eb0075a001fd.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-14T21:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Citizen's Voice",
-        "domain": "citizensvoice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-how-will-ai-and-5g-power-the-next-wave-of-innovation.md",
-      "title": "How Will AI And 5G Power the Next Wave Of Innovation?",
-      "excerpt": "You're reading Entrepreneur India, an international franchise of Entrepreneur Media. Artificial intelligence (AI) continues to permeate every sphere of our society and deliver new and improved experiences. It could be said that AI will transform every ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/en-in/technology/how-will-ai-and-5g-power-the-next-wave-of-innovation/439056",
-      "originalUrl": "https://www.entrepreneur.com/en-in/technology/how-will-ai-and-5g-power-the-next-wave-of-innovation/439056",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1668409539-Myproject-1135.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-14T20:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-elon-musks-new-brain-interface-technology.md",
-      "title": "Elon Musk's New Brain Interface Technology",
-      "excerpt": "Elon Musk has been in the news for having purchased Twitter. However, he also owns another company. I am not referring to Tesla or SpaceX. It is potentially more revolutionary than either of these. This other company,",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/what-would-aristotle-do/202211/elon-musks-new-brain-interface-technology",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/what-would-aristotle-do/202211/elon-musks-new-brain-interface-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-11/neuralink.jpg?itok=oTasHUsX",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/what-would-aristotle-do/202211/elon-musks-new-brain-interface-technology?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/what-would-aristotle-do/202211/elon-musks-new-brain-interface-technology?amp",
-      "publishedDateTime": "2022-11-14T19:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

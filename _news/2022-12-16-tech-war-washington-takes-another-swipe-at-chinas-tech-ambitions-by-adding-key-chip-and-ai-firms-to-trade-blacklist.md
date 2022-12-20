@@ -69,15 +69,6 @@ related:
         width: 1202
         height: 800
         isCached: true
-  - title: "US government to blacklist China's YMTC, crackdown on AI chip sector"
-    excerpt: "YMTC, long in the crosshairs of the US government, will be added to the list over fears it could divert US technology to previously blacklisted Chinese tech giants Huawei and Hikvision. The move will ba The 21 Chinese AI chip entities being added to the trade blacklist,"
-    publishedDateTime: 2022-12-15T14:44:00Z
-    webUrl: "https://www.straitstimes.com/world/united-states/us-president-biden-to-blacklist-chinas-ymtc-crackdown-on-ai-chip-sector"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 34
   - title: "Biden administration puts China's YMTC on blacklist, turns focus on AI chip industry"
     excerpt: "Over 20 other significant names in China's artificial intelligence chip sector have been put on a US trade blacklist amid a crackdown."
     publishedDateTime: 2022-12-15T23:23:00Z

@@ -18,17 +18,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "IIIT-Hyderabad launches UG engineering programme in modern Machine Learning"
-    excerpt: "The course is currently offered via iHub-Data to Indian UG students pursuing a career in engineering, the IIIT-Hyderabad said."
-    publishedDateTime: 2022-12-15T13:10:00Z
-    webUrl: "https://telanganatoday.com/iiit-hyderabad-launches-ug-engineering-programme-in-modern-machine-learning"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 17
-
 secured: "8KDCIC4DId9Z2YwWUoYQ402Zot/ps9oMAlolW2jisMe+0Q7SRI3Yel2xE/LjM2I/nzHdXRUzKRbU8HCVotN7nI+1u8w1igPcp/H2JMCjkpgdj9qCSDR9vwTTKFBJ8bdNTCUq+HCjgt4I8EwE5g0BZmM9SM5OFJCGcBlqxu8hYDxdB6FqZEtqLGeGxS66KQcB69X+c5fWE/3j46KD2k7JxsJ03ZWHJnm5116xVrdRuaHsaq9mPv5Dhp2ttGKSsWHg6idCU5/K8ENB5ZryNqrfBhbaQQdqz9T2KVyZL3XANZRuLbpsWCqLYm0vQwocLvUyZeBNHczubOV9TM4eUr+lWxAKJ3BEQTp8fH3tQpgeIHZ2jjdTBcp1UKPzZX8riB5mqEYRLPpAvBoJ4IU9/S/vguqiDj5AAHsT1wtCsjqPzDCmk64z7ndS929hBLrmY615EphpXrGDqK1ga+LQbOgxGTQLgy6s2V/moy4E2T28e/ZbHsQh2v1/k56nYvyfLjR8Hj1EAn+2P7KEKLNgEBH8qw==;UINLRPoyvVunrBvIAZ5csA=="
 ---
 

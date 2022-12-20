@@ -1,28 +1,28 @@
 ---
 category: news
 title: "The TSA plans to take facial recognition technology nationwide"
-excerpt: "The Transportation Security Administration has been testing facial recognition technology as an option for travelers at select U.S. airports for years, touting it as a way to speed up identity ..."
-publishedDateTime: 2022-12-08T19:59:00Z
-originalUrl: "https://www.foxbusiness.com/politics/tsa-plans-take-facial-recognition-technology-nationwide"
-webUrl: "https://www.foxbusiness.com/politics/tsa-plans-take-facial-recognition-technology-nationwide"
-ampWebUrl: "https://www.foxbusiness.com/politics/tsa-plans-take-facial-recognition-technology-nationwide.amp"
-cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/tsa-plans-take-facial-recognition-technology-nationwide.amp"
+excerpt: "The Transportation Security Administration has been testing facial recognition technology as an option for travelers at select U.S. airports for years, touting it as a way to speed up identity verification at security."
+publishedDateTime: 2022-12-09T14:25:00Z
+originalUrl: "https://www.fox7austin.com/news/tsa-facial-recognition-technology-nationwide"
+webUrl: "https://www.fox7austin.com/news/tsa-facial-recognition-technology-nationwide"
+ampWebUrl: "https://www.fox7austin.com/news/tsa-facial-recognition-technology-nationwide.amp"
+cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/news/tsa-facial-recognition-technology-nationwide.amp"
 type: article
 
 provider:
-  name: Fox Business
-  domain: foxbusiness.com
+  name: FOX 7 Austin KTBC
+  domain: fox7austin.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2022/09/Airport.jpg"
-    width: 1280
-    height: 720
+  - url: "https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2022/12/932/470/GettyImages-1159430283.jpg?ve=1&tl=1"
+    width: 932
+    height: 470
     isCached: true
 
-secured: "bLkZAimjkjyge9TCWZD4juyceH4F6kF10Xaaf4cSopFtk4Cq10dbi5UlS+QhvU+Zrv7r6rqXzMlCotBuq3aYCQnXTkQhleKawsBMa4wzStI106t4H6GMdFij3q1tBCVgpciitvLdVcuIetiJSyfaLZJV6Do+N5vD7BlKVy+8oL9DFqIXcUWx2hw1ARau/VPHtzaSrI7ZMADtoe5d0wR5MnfQXkDS2ePwI/M4MB6i3sIvSzrKw0jsw2Vfl06lJ3wZDC/RH0Vo8iVOe0dYRxyDijXrAz9KaMCcpAEgXRjQg/Zg33x1ABo3UANHHN3RYEcfLzQ26ozMtcor4goaJIhtdQEGrINTGX/+iruWkkqDxGw=;nDMtBUp5VgcX7FmGPjHvBA=="
+secured: "CTeHZXsEZZgsPe2c2k4wgjAnsRl9+OxzRKzBWI5Y23CqaBh4zhtEVD1z3tP9I0m0tTLlXx/IyNTveXzCQGkXyxTWlJDpkSMIHsqfot3shpMDg+LNX3kSSq/c3nCcxXlcFIEYE+k7BV2tPPocy4fUPVWoiaHimFHicTrmCzGCaD/735C8EM1QpZPdfJljSUtsFqIykHbE8NxC0036EaTlalCGuE9QjsbBxDmX39C/AZ3/eNRmwVbAXzjLAHHH9GpV9GAsVO/4m9g1Zr45DYdufNp8wGJuKeI7JHY02n+7S64lR7fUvmPxkPKtB0w3wz+BVEnSY9R5dA3HFKnWkDj50Bx/aiN9KMIrj8L/lY4UXq0=;kz3BCsxOyWT0qW7OSCg+jw=="
 ---
 

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Artificial Intelligence Can Enhance the Fintech Industry"
+    excerpt: "AI in FinTech has also had a similar impact with enhanced security and banking apps, making the finance industry more customer friendly. Artificial intelligence (AI) significantly impacts practically every part of our daily life,"
+    publishedDateTime: 2022-12-16T16:45:00Z
+    webUrl: "https://www.bbntimes.com/financial/how-artificial-intelligence-can-enhance-the-fintech-industry"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 39
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/How_AI_Can_Enhance_the_Fintech_Industry.png"
+        width: 1888
+        height: 1080
+        isCached: true
   - title: "UNO Digital Bank partners with fintech Trusting Social"
     excerpt: "UNO DIGITAL BANK has partnered with technology firm Trusting Social to offer more Filipino consumers greater access to loans with the help of data science tools. “Our partnership with Trusting Social will allow us to offer our services to unbanked Filipinos who otherwise won’t have access to formal lending services,"
     publishedDateTime: 2022-12-19T15:01:00Z
@@ -36,20 +50,6 @@ related:
       name: BusinessWorld
       domain: bworldonline.com
     quality: 39
-  - title: "Patrick Sells' new gig: helping banks innovate and find fintech partners"
-    excerpt: "The former chief innovation officer at Quontic Bank and American Banker's 2020 Digital Banker of the Year is offering seminars, a bank-fintech matchmaking platform and fintech investment fund."
-    publishedDateTime: 2022-12-16T18:02:00Z
-    webUrl: "https://www.americanbanker.com/news/patrick-sells-new-gig-helping-banks-innovate-and-find-fintech-partners"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 38
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/042c2d9/2147483647/strip/true/crop/1400x735+0+34/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F1e%2F50%2Fdf3ece014ce1af3aef905050ccff%2Fpatrick-sells.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Patrick Sells's new gig: Helping banks innovate and find fintech partners"
     excerpt: "The former chief innovation officer at Quontic Bank and American Banker's 2020 Digital Banker of the Year is offering seminars, a bank-fintech matchmaking platform and a fintech investment fund."
     publishedDateTime: 2022-12-16T18:02:00Z
@@ -120,15 +120,20 @@ related:
         width: 600
         height: 316
         isCached: true
-  - title: "AI in fintech: 4 ways AI impacts on financial industry"
-    excerpt: "A remarkable milestone in fintech has become the deployment of artificial intelligence algorithms, a potential game changer that has revolutionized the financial industry in many ways. The benefits AI brings are huge: this smart tech reduces unnecessary expenses,"
-    publishedDateTime: 2022-12-15T14:53:00Z
-    webUrl: "https://www.finextra.com/blogposting/23418/ai-in-fintech-4-ways-ai-impacts-on-financial-industry"
+  - title: "World Fintech Show features dynamic collaborations set to influence the direction of FinTech in Saudi Arabia"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2022-12-20T06:15:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/world-fintech-show-features-dynamic-collaborations-set-to-influence-the-direction-of-fintech-in-saudi-arabia/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 5
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/12/Event-123.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "gkjvC7FEFg/DxFL6rZccvpy8xGOTJrMbVTQpwfPV8Jd941clImL4zk1ply29MeICW8/LjjsblugxjP3+LK40qJE7sYK8VGYmrInh/jKGUGukie/7hXNOfLk4CHejdX9qG7irVaG4piC6tEiMV4QSxRWPs7smu82HeZM8eVcCiKA+6rHqj/SBhvoI8pfOoaUv6Z7TdfmWnO981Njhb1dW2F9TFKsec4CIaXNth5IXqH8hFVm6PZ0QtQXhHZqR9LUb5RKlT+vA+GHcOJSo958J1otcJRhIXdbVE4/4CzDbL2BC6/CuFiUGYlfPQ4aF43H8/ekjZ3uJynkyU6ImM+aEoHx+ExUO9Ka1CEiSWVbdWAmhXZf56Imh3ATVf++Pl/SFCY0ChVVjrCIvSpxwzLtW//Iqyzug8gFfYk4MplSJrBXJ59Mt55Oqr55ZLe3D2qovQHlFJOL3ZYROONns+3QO39T6+1EzQFzm8k8SOvdqe6gjcoTjCcCXP/FnDVqDN2LIIuL3/8DUxojGILuaq4ms0Q==;2L+0hGYZKy8aC37e8w6RsA=="
 ---
