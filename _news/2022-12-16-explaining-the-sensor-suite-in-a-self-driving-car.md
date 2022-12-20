@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "The self driving era is here, just not for the masses"
-    excerpt: "Instead of sleek pods without steering wheels ready to chauffeur buyers off the lot, there are mostly driverless Chevy compacts, Chrysler minivans, and Ford box trucks with bolted-on hardware trundling around bits of the U."
-    publishedDateTime: 2022-12-15T12:42:00Z
-    webUrl: "https://canada.autonews.com/technology/self-driving-era-here-just-not-masses"
-    type: article
-    provider:
-      name: canada.autonews
-      domain: autonews.com
-    quality: 19
-
 secured: "N+CYgUXiZL2vccNk00xUGvxARqzjvxtWpYQUwtIqwggW5fOWpPu3q2D7bQMasI2ivN/f+k1ZiIsQ4WXmaq/JwRelQ5h+23xjr1uWaNCE4Z61/OpIa19aSMqIOjfgQj+Pqg4HqwPCTnR7B+CgrC6SFbhJzJTBGOGyfuYP7LzUhaK0CswC0/x3X/nxyx1nfRIkLvL+na0dCGX0azNZpft74GMqBUUx4v7oCGqC3wNRKVXDVQ384IqXj1gFQj8Z8dAmqS0x9MPidAd1vMTMy+nv8/enEsKyt27bO+MJoNO2YLiorDXiH+RP9/rtwUYpt5AWizqsVdmbAHh/Fs5jiZebqyT+FW6FouYUdqtlu4YzfudKdw/get+j3F5rivSf4Vz0aoX3xOJVSRdWftkbdfVPDlCPvjBrJ4qdBKk4J5SyRmy0vtzJG0mAmnDZIwibeQmcU3q0MJCatsTzhXFL4PtvFv5zZa+yDGpGlxoXb8EHbtSR5RgrS+yNKxQ2n9dFHORAXHGKR2ia1a/m0d0Y+GfS4g==;CtPrEkh0o23WBbvSrP8xkg=="
 ---
 

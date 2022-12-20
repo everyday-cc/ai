@@ -27,17 +27,17 @@ images:
 related:
   - title: "TSA tests facial recognition technology at more airports"
     excerpt: "There’s a good chance that many people traveling for the holidays through some of the nation’s busiest airports will have their faces scanned. That’s because the Transportation Security Administration is expanding its facial recognition pilot program."
-    publishedDateTime: 2022-12-19T14:08:00Z
-    webUrl: "https://www.wsfa.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/"
-    ampWebUrl: "https://www.wsfa.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wsfa-com.cdn.ampproject.org/c/s/www.wsfa.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/?outputType=amp"
+    publishedDateTime: 2022-12-19T13:08:00Z
+    webUrl: "https://www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/"
+    ampWebUrl: "https://www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ktre-com.cdn.ampproject.org/c/s/www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/?outputType=amp"
     type: article
     provider:
-      name: WSFA
-      domain: wsfa.com
+      name: KTRE
+      domain: ktre.com
     quality: 74
     images:
-      - url: "https://gray-wsfa-prod.cdn.arcpublishing.com/resizer/8eUkX9QniTbGBUFOErz2ZUoJq_4=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/5E24AXNOPJEKHC4APEXAMO437E.jpg"
+      - url: "https://gray-ktre-prod.cdn.arcpublishing.com/resizer/rJtC5wJXGKCN8WlDF2uXxgTJqTc=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/FO6PWOKSHVCMJF5Q6UGNWYBJBU.jpg"
         width: 800
         height: 450
         isCached: true

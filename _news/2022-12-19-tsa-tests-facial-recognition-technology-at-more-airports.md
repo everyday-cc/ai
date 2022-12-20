@@ -2,26 +2,26 @@
 category: news
 title: "TSA tests facial recognition technology at more airports"
 excerpt: "There’s a good chance that many people traveling for the holidays through some of the nation’s busiest airports will have their faces scanned. That’s because the Transportation Security Administration is expanding its facial recognition pilot program."
-publishedDateTime: 2022-12-19T14:08:00Z
-originalUrl: "https://www.wsfa.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/"
-webUrl: "https://www.wsfa.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/"
-ampWebUrl: "https://www.wsfa.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/?outputType=amp"
-cdnAmpWebUrl: "https://www-wsfa-com.cdn.ampproject.org/c/s/www.wsfa.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/?outputType=amp"
+publishedDateTime: 2022-12-19T13:08:00Z
+originalUrl: "https://www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/"
+webUrl: "https://www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/"
+ampWebUrl: "https://www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/?outputType=amp"
+cdnAmpWebUrl: "https://www-ktre-com.cdn.ampproject.org/c/s/www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/?outputType=amp"
 type: article
 quality: 74
 heat: 104
 published: true
 
 provider:
-  name: WSFA
-  domain: wsfa.com
+  name: KTRE
+  domain: ktre.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://gray-wsfa-prod.cdn.arcpublishing.com/resizer/8eUkX9QniTbGBUFOErz2ZUoJq_4=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/5E24AXNOPJEKHC4APEXAMO437E.jpg"
+  - url: "https://gray-ktre-prod.cdn.arcpublishing.com/resizer/rJtC5wJXGKCN8WlDF2uXxgTJqTc=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/FO6PWOKSHVCMJF5Q6UGNWYBJBU.jpg"
     width: 800
     height: 450
     isCached: true
@@ -70,6 +70,6 @@ related:
         height: 630
         isCached: true
 
-secured: "sYmTmfkgJ5EYOqcx7xr+snSnJCDly7xbcScWdOcYquLhboa/C/OA4ChipJQnqBvlXZS45NKqxlJYvaoGNmor0H66JJiel185fqqjEEygOAitbyQQn3YNSyMC/OVTZKRWhhNURocGzGOEcxfF63y87dVe5fzujfrtqjplZxlFO/p3WN5mJ8P/lEpBBIqSaZTdSI7QeJBbF57wnyl1MtPrOfnQVS/4pycD4pNu2QNAu5oQ6qYv3WHpB1LgSeTUj9JWyPlKbnk8JS8Tez0Y+cxxmdZOGG72i8gHrqg/stFxxb/Ubk2oazcupfV3q/w3XMxAjJjFHGE+hAdI5ESVOB6syezF7+0OLIvhLTJg6QgU9mc=;r6wZzF3EzHQ7U7VibYrihA=="
+secured: "03OFyALQ45uIrvWypUYg6A+F988K2PSAGwpjZKcoP6pruWEFW7/FyhYQnjLG5rQmdWjkiMJN4UrifVxA32NM5XqxcQhfG/at6x/sorQYrKJZHygquL0D07CHCGtzs4sJ6n5M0lHKb5acYT0kqzSO8OEFsi4s9H04adxhAezr9MU6qkBtfaAQUV8JNMBLlHaR3pLhN3eG9CTGVf66Zo7pteAryRXg26e1fyXSH1gSe3775gbQV+Fd7uLeK3qXluHY5q64dBA5RjMy39PaGKLATRZ+U/ADYFe2j43e6ae0T2FwbMUYLwPQKC/+1Hauve3HXWFIqGsqVAwLlVBPqQuUBa3qwpI1pgxV1Z4dFt5P0nE=;zqvlg5zgLkWPUM62WKtRZA=="
 ---
 

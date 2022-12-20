@@ -27,17 +27,17 @@ images:
 related:
   - title: "TSA tests facial recognition technology at more airports"
     excerpt: "There’s a good chance that many people traveling for the holidays through some of the nation’s busiest airports will have their faces scanned. That’s because the Transportation Security Administration is expanding its facial recognition pilot program."
-    publishedDateTime: 2022-12-19T14:08:00Z
-    webUrl: "https://www.wsfa.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/"
-    ampWebUrl: "https://www.wsfa.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wsfa-com.cdn.ampproject.org/c/s/www.wsfa.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/?outputType=amp"
+    publishedDateTime: 2022-12-19T13:08:00Z
+    webUrl: "https://www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/"
+    ampWebUrl: "https://www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ktre-com.cdn.ampproject.org/c/s/www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/?outputType=amp"
     type: article
     provider:
-      name: WSFA
-      domain: wsfa.com
+      name: KTRE
+      domain: ktre.com
     quality: 74
     images:
-      - url: "https://gray-wsfa-prod.cdn.arcpublishing.com/resizer/8eUkX9QniTbGBUFOErz2ZUoJq_4=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/5E24AXNOPJEKHC4APEXAMO437E.jpg"
+      - url: "https://gray-ktre-prod.cdn.arcpublishing.com/resizer/rJtC5wJXGKCN8WlDF2uXxgTJqTc=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/FO6PWOKSHVCMJF5Q6UGNWYBJBU.jpg"
         width: 800
         height: 450
         isCached: true
@@ -70,6 +70,6 @@ related:
         height: 960
         isCached: true
 
-secured: "IsgQjs1/9pXUecVEsBKKEQ/b/AebbF3kWdowgxG+gdyuC4IoDg3vCCJ01vEwl+PeFjlk/nt4DC7hQ/kY6+jXPv4IQZ/h8fvInUy8PumjAgRAMs2ZXL3ZeaV1DCKxm2IdfYHJ1G1bSQ8SrAV3hK42l76mGiZGp0tv4LC/MlLbi2Uy02m9VOC4xvtwWmLzN9yr0aUHSAicCZhsuonaere2A+Sthq1kEqFwFIbQgsEpTVfNhgri1jIuIfMc8NcIfVb/LIQkERCKlbb21cXNt9SupRqxhPplygkOvK/AFi1qcx47uEBENNO6bGD8f5EHHQleSix/3rCwPvtCHo4pBxlzZjhYNu0rkNe6KWIAzFSs++Y=;P4W2t2zG9hpVoO9ugv3liw=="
+secured: "RNuWLZr+UB9GR/AwfvB9svfCRjXBjzG3QgK1P+nATGDZcC0G9/OAhFNieLjkpyguN/ZLNBzLYXPZJuVLmRkJtdqQZ6Fd6STeMTourNqDZe2VOiIJEICfCpCt3ZBl07shTumWe566eGH6YU90qaJitCFx1QhDyRFmb5mEE1JmRiZba4+vePaWt/KTdwyxYm+4Ud08P936Uw/hM6F0z35AxA2gZKq6c4X5M+2LzykqL9vum+SSMgfTdf2nN2cr2LR0igNIdyVY4CNHLwT/trMOIDqywDINV/1lEi4En1F5E6IGsYUnGSUZ2IN3pjOkwbklB+cuhdm20SivVlxD/+tl7h6pJQJJuNmd+Kik+Rnm6ejbveYZbnGz0XLMNVrU6SeZeUgt+efKTdyB0c98ZfJsQPq92xCSCpjd/ISuHdMVLhs5/PIpOMPdYimSMZnNsELAQ47UFlORdnkTJUEDr+CkFoS8GQXmSLEvQgshiusYfLtRjLV7/rA/OJwHg2NBOrt1yI2M0MSnM49GjRF6ozzjjg==;HGpGBr2onrNXVUC7JYcCUA=="
 ---
 

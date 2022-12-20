@@ -6,8 +6,8 @@ publishedDateTime: 2022-12-19T17:58:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/sans-institute-to-host-webcast-discussing-security-vulnerabilities-of-advanced-ai-openai-chatgpt-and-the-potential-impact-on-society-1031980664"
 webUrl: "https://markets.businessinsider.com/news/stocks/sans-institute-to-host-webcast-discussing-security-vulnerabilities-of-advanced-ai-openai-chatgpt-and-the-potential-impact-on-society-1031980664"
 type: article
-quality: 31
-heat: 31
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI in Security
+  - Facebook AI
 
 secured: "uv0NG4nya0FbhK0bUyfmnlqieT+WnkGp3edwfzc19yk4BknLjNv72ioPxGGAU7pAI9GHHf3OOB+DttB4eBMWZh5hda49f+AKnS27elUiK6jr8EXyaybEJAYRIjcWZlsZAJ7c4UEwfmK3jVxT4eZ/sLjjAG1qyYg4QrwPy0ecgzE9e4X160HYJLgFsYR/7SGPTc3IeAd1RpeWO0XALCI26QJyb6kP/atJf633J/63ZRlo8q9Q63K+8dA2eyp0Cj11WrZs9onA3DFix040uVcNtfyl4jtqNcgj541quElRt+yldJu7bEE0P3tZwXtDqzkcrtOQak2r9xAS9Jmgl58+Mo8UJGVQv577g8QIq7cyv6zrEGFEQlJZxlvE/ANf7jZ5aVN0AarRqGPWK9UemggZy0RBe+XB5wO7l9okNQbhAhGrAHrqbqy1kF5bOgEMWCzzAu/+7HTR4rAoPOHPVJ6foixM5kXr6JB56GMrSkojo1EClRvTXEFWVU1NaCClQFS5xDo5IKFs2LAPnFQ60cnzCA==;gZklrfaLz4E1s1dcigRiwQ=="
 ---
