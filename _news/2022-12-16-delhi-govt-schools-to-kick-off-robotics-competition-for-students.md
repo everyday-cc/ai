@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Delhi Government Schools to Begin Delhi Robotics League Event Tomorrow"
-    excerpt: "Delhi Government School to initiate a Robotics competition tomorrow for all students of Delhi Schools. The opportunity can give exposure to students in the emerging era of Artificial Intelligence. The event will be held at the BR Ambedkar School of Specialized Excellence,"
-    publishedDateTime: 2022-12-15T08:18:00Z
-    webUrl: "https://www.jagranjosh.com/news/delhi-government-school-to-launch-delhi-robotics-league-event-tomorrow-check-details-here-166032"
-    ampWebUrl: "https://www.jagranjosh.com/news/amp/delhi-government-school-to-launch-delhi-robotics-league-event-tomorrow-check-details-here-166032"
-    cdnAmpWebUrl: "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/news/amp/delhi-government-school-to-launch-delhi-robotics-league-event-tomorrow-check-details-here-166032"
-    type: article
-    provider:
-      name: jagranjosh.com
-      domain: jagranjosh.com
-    quality: 74
-    images:
-      - url: "https://img.jagranjosh.com/images/2022/December/15122022/robotics.jpg"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Robotics competition kicked off for Delhi government school students"
     excerpt: "A special robotics competition was kicked off today for Delhi government school students. By India Today Web Desk: According to a circular from the Directorate of Education (DoE), a special robotics competition is being started on Friday to foster excellence in the field among Delhi school children."
     publishedDateTime: 2022-12-16T10:55:00Z

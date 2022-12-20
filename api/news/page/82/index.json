@@ -2,6 +2,249 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2022-10-08-wike-signs-legislative-instrument-revoking-omehias-recognition-as-ex-rivers-gov.md",
+      "title": "Wike signs legislative instrument revoking Omehia’s recognition as ex-Rivers gov",
+      "excerpt": "“That in the first instance, the recognition was extra-judicial ... ordinarily should serve as the bastion of democracy, the voice and conscience of Rivers people, be reduced to the Governor ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vanguardngr.com/2022/10/wike-signs-legislative-instrument-revoking-omehias-recognition-as-ex-rivers-gov/",
+      "originalUrl": "https://www.vanguardngr.com/2022/10/wike-signs-legislative-instrument-revoking-omehias-recognition-as-ex-rivers-gov/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vanguardngr.com/wp-content/uploads/2020/06/Nyesom-Wike-APC-the-juicy-blog.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vanguardngr.com/2022/10/wike-signs-legislative-instrument-revoking-omehias-recognition-as-ex-rivers-gov/",
+      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2022/10/wike-signs-legislative-instrument-revoking-omehias-recognition-as-ex-rivers-gov/",
+      "publishedDateTime": "2022-10-07T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vanguard",
+        "domain": "vanguardngr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-08-chip-stocks-crushed-to-two-year-low-as-more-tech-ai-ban-to-china-add-to-woes.md",
+      "title": "Chip stocks crushed to two-year low as more tech, AI ban to China add to woes",
+      "excerpt": "The chip sector melted down Friday for its third ... ambitions as it issued wider restrictions on semiconductor and AI technology that can be sold to the world’s second-largest economy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/chip-stocks-slammed-by-new-ban-on-chip-and-ai-technology-for-china-11665168715",
+      "originalUrl": "https://www.marketwatch.com/story/chip-stocks-slammed-by-new-ban-on-chip-and-ai-technology-for-china-11665168715",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-07T12:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-08-biden-visits-ibm-to-promote-investments-in-us-semiconductor-production.md",
+      "title": "Biden Visits IBM to Promote Investments in U.S. Semiconductor Production",
+      "excerpt": "President Biden traveled to Poughkeepsie, N.Y., to connect a $20 billion investment by IBM to the bipartisan bill meant to spur production of critical microchips. Send any friend a story As a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/10/06/us/politics/biden-ibm-semiconductors.html",
+      "originalUrl": "https://www.nytimes.com/2022/10/06/us/politics/biden-ibm-semiconductors.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/06/multimedia/06dc-biden-photo02-1-9057/06dc-biden-photo02-1-9057-facebookJumbo-v2.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/10/06/us/politics/biden-ibm-semiconductors.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/10/06/us/politics/biden-ibm-semiconductors.amp.html",
+      "publishedDateTime": "2022-10-07T11:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-08-deep-learning-market-trends-companies-driver-segmentation-and-global-forecast-to-2028.md",
+      "title": "Deep Learning Market Trends, Companies, Driver, Segmentation and Global Forecast to 2028",
+      "excerpt": "Deep Learning Market study by \"The Insight Partners\" provides details about the market dynamics affecting the Deep",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-trends-companies-driver-segmentation-and-global-forecast-to-2028-2022-10-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-trends-companies-driver-segmentation-and-global-forecast-to-2028-2022-10-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-07T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-08-ai-generated-art-a-tool-for-enhancing-creativity.md",
+      "title": "AI-generated art: A tool for enhancing creativity",
+      "excerpt": "Artists should embrace #AI as the next advance in artistic progress, not summarily reject it as a creative tool.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-generated-art-a-tool-for-enhancing-creativity/",
+      "originalUrl": "https://venturebeat.com/ai/ai-generated-art-a-tool-for-enhancing-creativity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/openai-dall-e-2.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 749,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-generated-art-a-tool-for-enhancing-creativity/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-generated-art-a-tool-for-enhancing-creativity/amp/",
+      "publishedDateTime": "2022-10-07T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-07-3-things-the-ai-bill-of-rights-does-and-3-things-it-doesnt.md",
       "title": "3 things the AI Bill of Rights does (and 3 things it doesn’t)",
       "excerpt": "Expectations were high for the White House's Blueprint for an AI Bill of Rights released this week. Here's what what it does and doesn't do.",
@@ -934,232 +1177,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-hanson-an-epidemic-of-cognitive-impairment.md",
-      "title": "HANSON: An epidemic of cognitive impairment?",
-      "excerpt": "Partisan charges grew so intense that Trump voluntarily took — and aced — the Montreal Cognitive Assessment. Strangely, the same Left arm-chair psychiatrists offer no such worries about Biden ...",
-      "sourceUrl": null,
-      "webUrl": "https://torontosun.com/opinion/columnists/hanson-an-epidemic-of-cognitive-impairment",
-      "originalUrl": "https://torontosun.com/opinion/columnists/hanson-an-epidemic-of-cognitive-impairment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2022/10/biden-harris-pelosi-scaled-e1665091450547.jpg?quality=100&strip=all",
-          "width": 2278,
-          "height": 1708,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://torontosun.com/opinion/columnists/hanson-an-epidemic-of-cognitive-impairment/wcm/a541a4f9-7a6d-4a5d-9d48-d7aa51c7f076/amp/",
-      "cdnAmpWebUrl": "https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/opinion/columnists/hanson-an-epidemic-of-cognitive-impairment/wcm/a541a4f9-7a6d-4a5d-9d48-d7aa51c7f076/amp/",
-      "publishedDateTime": "2022-10-06T14:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Toronto Sun",
-        "domain": "torontosun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-moscow-updates-digital-data-library-for-neural-networks-testing-in-medicine.md",
-      "title": "Moscow updates digital data library for neural networks testing in medicine",
-      "excerpt": "The digital library contains datasets — sets of anonymized X-ray images with signs of various diseases. Smart algorithms use them to learn to detect pathologies on their own.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mos.ru/en/news/item/114636073/",
-      "originalUrl": "https://www.mos.ru/en/news/item/114636073/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mos.ru/upload/newsfeed/newsfeed/ucvQRVo8vEC-(27).jpg",
-          "width": 1596,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mos.ru/amp/en/news/item/114636073/",
-      "cdnAmpWebUrl": "https://www-mos-ru.cdn.ampproject.org/c/s/www.mos.ru/amp/en/news/item/114636073/",
-      "publishedDateTime": "2022-10-06T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "mos",
-        "domain": "www.mos.ru",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-loblaws-driverless-trucks-signal-the-beginning-of-a-new-age.md",
-      "title": "Loblaw’s driverless trucks signal the beginning of a new age",
-      "excerpt": "Loblaw’s L-T debut of its driverless delivery trucks this week points to two major phenomena affecting the food industry: how the battle for the proverbial “middle mile” in delivery is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/business/commentary/article-loblaw-driverless-delivery-trucks-new-age/",
-      "originalUrl": "https://www.theglobeandmail.com/business/commentary/article-loblaw-driverless-delivery-trucks-new-age/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-06T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-the-ai-powered-intelligent-edge-is-flourishing-and-its-powered-by-snapdragon.md",
-      "title": "The AI-Powered Intelligent Edge Is Flourishing And It’s Powered By Snapdragon",
-      "excerpt": "Qualcomm AI engines and silicon solutions are powering more and more devices out on the connected, intelligent edge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2022/10/06/the-ai-powered-intelligent-edge-is-flourishing-and-its-powered-by-snapdragon/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2022/10/06/the-ai-powered-intelligent-edge-is-flourishing-and-its-powered-by-snapdragon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/633f386b1d939b4e05d66336/0x0.jpg?format=jpg&width=1200",
-          "width": 1170,
-          "height": 656,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2022/10/06/the-ai-powered-intelligent-edge-is-flourishing-and-its-powered-by-snapdragon/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/10/06/the-ai-powered-intelligent-edge-is-flourishing-and-its-powered-by-snapdragon/amp/",
-      "publishedDateTime": "2022-10-06T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-the-white-house-unveils-a-bill-of-rights-for-artificial-intelligence.md",
-      "title": "The White House unveils a \"Bill of Rights\" for artificial intelligence",
-      "excerpt": "It would be a massive understatement to say artificial intelligence has affected our lives. Whether that's a positive or negative is entirely up to you. Virtual",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/96232-white-house-unveils-bill-rights-artificial-intelligence.html",
-      "originalUrl": "https://www.techspot.com/news/96232-white-house-unveils-bill-rights-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2022/10/2022-10-06-image-19.jpg",
-          "width": 1880,
-          "height": 1258,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-06T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
       ]
     }
   ],

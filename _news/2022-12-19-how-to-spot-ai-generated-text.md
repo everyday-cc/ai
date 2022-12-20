@@ -8,7 +8,7 @@ webUrl: "https://www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-gene
 ampWebUrl: "https://www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/amp/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2022/12/pencils2a_1.jpeg?w=3000"

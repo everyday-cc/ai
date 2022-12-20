@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thisdaylive.com/index.php/2022/12/12/artificial-intellig
 cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2022/12/12/artificial-intelligence-for-new-drug-discovery/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: This Day
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence for new drug discovery"
+    excerpt: "The world is making rapid progress in the areas of big data, artificial intelligence and machine learning. These are the core drivers of what many analysts have come to refer to as the Fourth Industrial Revolution,"
+    publishedDateTime: 2022-12-19T23:17:00Z
+    webUrl: "https://punchng.com/artificial-intelligence-for-new-drug-discovery/"
+    ampWebUrl: "https://punchng.com/artificial-intelligence-for-new-drug-discovery/?amp"
+    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/artificial-intelligence-for-new-drug-discovery/?amp"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 57
+    images:
+      - url: "https://cdn.punchng.com/wp-content/uploads/2016/10/17155511/punchlogo.png"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Everlaw Wins Industry Awards for Groundbreaking AI in its Ediscovery Platform"
     excerpt: "Company Achieves Top Industry Rankings at G2 and IDCOAKLAND, Calif., Dec. 16, 2022 /PRNewswire/ -- Everlaw, the cloud-native investigation and"
     publishedDateTime: 2022-12-16T14:10:00Z

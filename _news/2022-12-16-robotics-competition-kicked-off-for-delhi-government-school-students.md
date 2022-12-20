@@ -9,8 +9,8 @@ ampWebUrl: "https://www.indiatoday.in/amp/education-today/news/story/robotics-co
 cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/news/story/robotics-competition-kicked-off-for-delhi-government-school-students-2310029-2022-12-16"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: India Today
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Delhi Government Schools to Begin Delhi Robotics League Event Tomorrow"
-    excerpt: "Delhi Government School to initiate a Robotics competition tomorrow for all students of Delhi Schools. The opportunity can give exposure to students in the emerging era of Artificial Intelligence. The event will be held at the BR Ambedkar School of Specialized Excellence,"
-    publishedDateTime: 2022-12-15T08:18:00Z
-    webUrl: "https://www.jagranjosh.com/news/delhi-government-school-to-launch-delhi-robotics-league-event-tomorrow-check-details-here-166032"
-    ampWebUrl: "https://www.jagranjosh.com/news/amp/delhi-government-school-to-launch-delhi-robotics-league-event-tomorrow-check-details-here-166032"
-    cdnAmpWebUrl: "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/news/amp/delhi-government-school-to-launch-delhi-robotics-league-event-tomorrow-check-details-here-166032"
-    type: article
-    provider:
-      name: jagranjosh.com
-      domain: jagranjosh.com
-    quality: 74
-    images:
-      - url: "https://img.jagranjosh.com/images/2022/December/15122022/robotics.jpg"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Delhi govt schools to kick off robotics competition for students"
     excerpt: "Robotics has emerged as a promising field in Education and NEP 2020 has given special emphasis on educational opportunities to learn Robotics and Artificial Intelligence"
     publishedDateTime: 2022-12-15T19:29:00Z

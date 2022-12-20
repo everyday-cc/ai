@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-29-andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital.md",
+      "title": "Andrew Ng’s Netail offers AI for retailers to ease change from physical to digital",
+      "excerpt": "Netail, which closed $5M in seed funding, enables retailers to identify competitors, track their inventory, and optimize prices.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/",
+      "originalUrl": "https://venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/amp/",
+      "publishedDateTime": "2022-11-29T07:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-11-29-indian-techies-write-code-for-driverless-cars.md",
       "title": "Indian Techies Write Code For Driverless Cars!",
       "excerpt": "Engineers based in India are estimated to be writing roughly 35 per cent of the 100 million lines of codes required to develop one fully driverless car for global vehicle makers. *IMAGE ...",
@@ -1309,50 +1353,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-the-state-of-artificial-intelligence-at-the-manufacturing-edge.md",
-      "title": "The State of Artificial Intelligence at the Manufacturing Edge",
-      "excerpt": "The WZL is focused on a holistic approach to production engineering, covering the specifics of manufacturing technologies, machine tools, production metrology and production management, helping manufacturers test and refine advanced technology solutions before putting them into production at the manufacturing edge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/413064/the-state-of-artificial-intelligence-at-the-manufacturing-edge.html",
-      "originalUrl": "https://www.cio.com/article/413064/the-state-of-artificial-intelligence-at-the-manufacturing-edge.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/11/AI-edge-maufacturing_Philipp-2.jpeg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/413064/the-state-of-artificial-intelligence-at-the-manufacturing-edge.html/amp/",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/413064/the-state-of-artificial-intelligence-at-the-manufacturing-edge.html/amp/",
-      "publishedDateTime": "2022-11-23T06:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     }
   ],

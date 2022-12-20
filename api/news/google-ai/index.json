@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/theyec/2022/12/16/automls-rise-to-prominence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -409,21 +409,21 @@
       ]
     },
     {
-      "path": "_news/2022-12-09-deepminds-latest-ai-project-solves-programming-challenges-like-a-newb.md",
-      "title": "DeepMind’s latest AI project solves programming challenges like a newb",
-      "excerpt": "On an average challenge, the AI system was able to score near the top half of participants. But it had a bit of trouble scaling, being less likely to produce a successful program on problems where more code is typically required.",
+      "path": "_news/2022-12-09-deepminds-alphacode-can-outcompete-human-coders.md",
+      "title": "DeepMind’s AlphaCode Can Outcompete Human Coders",
+      "excerpt": "When it comes to tracking the incremental advances of AI potential, humans have an odd tendency to think in terms of board games we probably haven’t played since childhood. Though there’s no ...",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2022/12/deepminds-latest-ai-project-solves-programming-challenges-like-a-newb/",
-      "originalUrl": "https://arstechnica.com/science/2022/12/deepminds-latest-ai-project-solves-programming-challenges-like-a-newb/",
+      "webUrl": "https://www.gizmodo.com.au/2022/12/deepminds-alphacode-can-outcompete-human-coders/",
+      "originalUrl": "https://www.gizmodo.com.au/2022/12/deepminds-alphacode-can-outcompete-human-coders/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-521369998-800x522.jpg",
-          "width": 800,
-          "height": 522,
+          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/12/09/5d83c0898ee04bd95d3ba0e03aa05ceb.jpg?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -431,23 +431,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://arstechnica.com/science/2022/12/deepminds-latest-ai-project-solves-programming-challenges-like-a-newb/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2022/12/deepminds-latest-ai-project-solves-programming-challenges-like-a-newb/amp/",
-      "publishedDateTime": "2022-12-08T13:15:00-08:00",
+      "ampWebUrl": "https://www.gizmodo.com.au/2022/12/deepminds-alphacode-can-outcompete-human-coders/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/12/deepminds-alphacode-can-outcompete-human-coders/amp/",
+      "publishedDateTime": "2022-12-08T22:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "gizmodo",
+        "domain": "gizmodo.com.au",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -456,8 +447,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Google AI"
+        "Google AI",
+        "AI"
       ]
     },
     {
@@ -482,6 +473,58 @@
         "name": "EurekAlert!",
         "domain": "eurekalert.org",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-deepminds-latest-ai-project-solves-programming-challenges-like-a-newb.md",
+      "title": "DeepMind’s latest AI project solves programming challenges like a newb",
+      "excerpt": "Interesting that when the AI tackles problems in a field in which we are expert, the solutions seem weak and brittle. But AI is used in many other fields, and there the programmers assure us it ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/civis/threads/deepmind’s-latest-ai-project-solves-programming-challenges-like-a-newb.1488454/page-2",
+      "originalUrl": "https://arstechnica.com/civis/threads/deepmind’s-latest-ai-project-solves-programming-challenges-like-a-newb.1488454/page-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/6221e6c759f19819bd5bec04_CodeGen.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T08:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1442,58 +1485,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-a-conversation-with-thomas-friedman-about-ai.md",
-      "title": "A conversation with Thomas Friedman about AI",
-      "excerpt": "Technology has an unmistakable impact on society — the way we work, learn and play have all changed significantly over the past decade. As SVP of Technology and Society, part of my work at Google is connecting people and ideas to help shape the future of our most ambitious technology and its impact on",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/a-conversation-with-thomas-friedman-about-ai/",
-      "originalUrl": "https://blog.google/technology/ai/a-conversation-with-thomas-friedman-about-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Artboard_1_copy_2.max-1300x1300.png",
-          "width": 1300,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-15T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

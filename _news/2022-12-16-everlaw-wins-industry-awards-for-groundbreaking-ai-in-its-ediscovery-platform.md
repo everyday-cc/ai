@@ -38,6 +38,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Artificial intelligence for new drug discovery"
+    excerpt: "The world is making rapid progress in the areas of big data, artificial intelligence and machine learning. These are the core drivers of what many analysts have come to refer to as the Fourth Industrial Revolution,"
+    publishedDateTime: 2022-12-19T23:17:00Z
+    webUrl: "https://punchng.com/artificial-intelligence-for-new-drug-discovery/"
+    ampWebUrl: "https://punchng.com/artificial-intelligence-for-new-drug-discovery/?amp"
+    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/artificial-intelligence-for-new-drug-discovery/?amp"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 57
+    images:
+      - url: "https://cdn.punchng.com/wp-content/uploads/2016/10/17155511/punchlogo.png"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "63Zsb3mFlfAZ2c18e5WrnG1IgAyFZNEHXUdaJKVpiB9W97WKDZPZF2YSF3YpQW2ECgbefbHn3VuTLu2/l1eT87Z6Cy9hSJF8n48u6dB+I5XLdL52epfyTsEdzA9qi1URAVgdQzqJ8zASNLN0creVjCSOdGAGygWuCAbPJ4muBQeaaKDIFjYvkQ/ALWcd/5Bbm/DQSqVPgoGwTcGFRHzlvTC5NKddq+4frb8788wC6AvwF2GRNshed3yEKIPsQZw1dx12wUJo+Ayyz9oHaHWzFRcLiRwyfumAnDxC1qgOFh+S5MbLxD2o85fpBTcY55n87H9D6qzsLqTKiiwlNh7rvBfQu6hFzdX+jPF+oErFwM13ji6S4Bm+AEYPkA0IV2ZWM6sp6iDdG/IArWhjvLVrq8aaDIx8syAuB/L5vbuAYRMQxkKRLYz/bLYy/CirJ/1xtSVhUOMAh3aItUjAvaNrbNoE6V89XBzyF1zkXL/vcDP5SorWDq0SeMjUyRd3CzkXjqy8gd7pdsnYgN8immUqOQ==;afaVUqrZzyKHN1pHIQcmOA=="
 ---

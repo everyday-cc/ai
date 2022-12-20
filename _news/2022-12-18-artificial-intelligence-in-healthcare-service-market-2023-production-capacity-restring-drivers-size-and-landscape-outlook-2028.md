@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-service-market-2023-production-capacity-restring-drivers-size-and-landscape-outlook-2028-2022-12-17"
 type: article
 quality: 58
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -91,6 +91,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automotive Artificial Intelligence Market 2023 : Company Profile Analysis, Industry Segmentation, Opportunity Assessment and Forecast by 2029"
+    excerpt: "The recent research report published by 360 Research Reports gives an insight into the “ Automotive Artificial Intelligence Market \". According to this published competitive intelligence analysis, this industry expected to experience a promising annual revenue increase (USD in Mn) in 2022."
+    publishedDateTime: 2022-12-19T13:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-2023-company-profile-analysis-industry-segmentation-opportunity-assessment-and-forecast-by-2029-2022-12-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

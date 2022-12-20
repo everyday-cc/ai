@@ -17,6 +17,13 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Facebook AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Government of Canada to invest $30 million in AI in robots"

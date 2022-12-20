@@ -51,15 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Automotive Market Trends 2023 Industry Size, Segments, Share, Key Players and Growth Factor Analysis by 2026"
-    excerpt: "Global “Artificial Intelligence (AI) in Automotive Market” 2023 report presents an exclusive analysis of market"
-    publishedDateTime: 2022-12-15T07:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-trends-2023-industry-size-segments-share-key-players-and-growth-factor-analysis-by-2026-2022-12-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
   - title: "Swarm Intelligence Market 2023 : Industry Scenario, Strategies, Growth Factors and Forecast to 2028"
     excerpt: "By Types (Ant Colony Optimization,Particle Swarm Optimization,Other), By Segmentation analysis, Regions and Forecast to 2028. The Global Swarm Intelligence market Report provides In-depth analysis on the market status of the Swarm Intelligence Top manufacturers with best facts and figures,"
     publishedDateTime: 2022-12-19T08:41:00Z

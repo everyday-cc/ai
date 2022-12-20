@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2022/12/16/automls-rise-to-promi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2022/12/16/automls-rise-to-prominence/amp/"
 type: article
 quality: 91
-heat: 92
+heat: 91
 published: true
 
 provider:

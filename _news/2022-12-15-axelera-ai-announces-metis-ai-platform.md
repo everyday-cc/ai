@@ -34,6 +34,15 @@ related:
         width: 1500
         height: 700
         isCached: true
+  - title: "Canvs AI Adds Translation for MRX Platform"
+    excerpt: "Text analytics specialist Canvs AI has added translation capabilities to Canvs MRX, allowing users to analyze open-ended text from multiple languages, directly on the platform. New York-based Canvs uses a patented AI and machine learning platform to analyze open-ended text from surveys,"
+    publishedDateTime: 2022-12-19T00:00:00Z
+    webUrl: "https://www.mrweb.com/drno/news34354.htm"
+    type: article
+    provider:
+      name: MrWeb
+      domain: mrweb.com
+    quality: 19
 
 secured: "xeFDtGE35/DzNFIcFhsnTcqiHUW6hSyMbLw56AUeHDQyim0GunSZ6feEcMmq81KbABV3ffDfu0x+Igfb5eAQw8Fy9GO7T1Hwz72l/8WhS3vE5s8UsG2BvcqWDWAZZnGPX20+imLr+3ePFjzbptZfwOfeeetlescZeQyNWCydQCRY5X+Q9KUVJELitnPxXhMdqBcr4ZI+s6M9YlI/RmZoEyIi8D9tl/FsdXgb9FkMk0eUIs6MrvzWt1sPK+lRJXOiB7MoQ9//EMqWBAOnVxXBObFXVe/EtJjKVkPGe/4tUBmzY8m7vwBDwnlpTINimKg0miHjoecom6UREP0Tk1dSUpefdRMWWzM7wsblOifXOyo=;n6YUmVCheraJdvklCJ57GQ=="
 ---
