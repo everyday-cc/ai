@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - Facebook AI
+  - AI Ethics
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2022-12/Screenshot%202022-12-16%20at%2011.33.54.png"
