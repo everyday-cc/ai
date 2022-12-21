@@ -44,20 +44,6 @@ related:
         width: 2000
         height: 1001
         isCached: true
-  - title: "New performance improvements in Amazon SageMaker model parallel library"
-    excerpt: "Foundation models are large deep learning models trained on a vast quantity of data at scale. They can be further fine-tuned to perform a variety of downstream tasks and form the core backbone of enabling several AI applications. The most prominent category is large-language models (LLM), including&nbsp;auto-regressive"
-    publishedDateTime: 2022-12-17T01:09:32Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/new-performance-improvements-in-amazon-sagemaker-model-parallel-library/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/17/Featured-images-for-ml-12792.jpg"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "9wRTmu+pH/5PYlRiWOi9e8FxSewKchULfEmQ5KbeINGHpCmb3w6iM4Kc+9fBLRUjIaCXvuvQw9s0m19XN4VxoDl+fG7d2SrUiWN+qrjhgyDJ68wXHm1N25ejgNs8yND/K9Smw/eAQwEbWxU5nPXyx9KRo83+tYqTMOoJe0HE5WZCx42DzzwrI4h3m+lebGzYn+QcAr2jXhqnSC6H2Pu3sTsE6YsfUzTuT/HFCLj7w8GxWJy2woD8x6YjdjqueoL2tMe8XmuKHODnSh29zFBYHQYv8eynSJAvw14qi1yzA75vhMgWVctYjWcU/vg1H2OP7CbiD5jItxJC+HnfUpFvdjKmVhKwcilfzq9bv4Q2Zww=;l4w/771ffzfqzAuVtqS6Xg=="
 ---

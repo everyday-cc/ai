@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 747
         isCached: true
+  - title: "Warner Bros. Working on Virtual Robot to Interact with Players in Video Games"
+    excerpt: "Warner Bros. is publishing a patent for a new social robot that could enhance the way video games understand and interact with players."
+    publishedDateTime: 2022-12-21T17:51:00Z
+    webUrl: "https://gamerant.com/warner-bros-patents-virtual-robot/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 36
+    images:
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/12/multiversus-iron-giant.jpg"
+        width: 1800
+        height: 900
+        isCached: true
 
 secured: "hhJcG5HCK5lPjka9Siwy07UD0gSpAGWVw5qMd7qAJtfmB4+rju+NqNRcEzkf/J7vFU8ME0QroEWQjhCK4gA0PAcKZhFSfuUPA03hYQX3gWyFxNBgd9qHT4z7AHaMO80CgL5KA3pdL0Z3Qo21NLKxCpaPedqKlwiplr/c9HzL4tbtEr4CLTMK9JxMnS4sf/pQhFtSjXIJfuk0C53zcMbzQmwVI3XoUhdfHkfrbKFqs/AwJQSL3Fdex03RpAfpuvS03OsJCj8GPgKGG34NxyyS2MYg+DoQ+MCc1LQNl4pLWEDJO1e6KKu1fUnZVwS1a1XdcB7yPLzfMcvkEjiizkrjg4Hmg241Af8cvURA/AnDfs4=;oIChxrIbhe83yJ26KvKTJw=="
 ---

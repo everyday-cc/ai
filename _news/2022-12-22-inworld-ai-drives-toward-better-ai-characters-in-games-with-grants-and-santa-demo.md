@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/games/inworld-ai-drives-toward-better-ai-cha
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/inworld-ai-drives-toward-better-ai-characters-in-games-with-grants-and-santa-demo/amp/"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -46,7 +46,21 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Warner Bros. Working on Virtual Robot to Interact with Players in Video Games"
+    excerpt: "Warner Bros. is publishing a patent for a new social robot that could enhance the way video games understand and interact with players."
+    publishedDateTime: 2022-12-21T17:51:00Z
+    webUrl: "https://gamerant.com/warner-bros-patents-virtual-robot/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 36
+    images:
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/12/multiversus-iron-giant.jpg"
+        width: 1800
+        height: 900
+        isCached: true
 
-secured: "oQpNakdajrzsBgmX6MaOyvneuRedbFMtm8KDl/Pb6zhv79nk6Buv+3OnU5tw7Yv+PaKg5ciwAYqwwkOXZPbG2sPi1q+20pbTMDlXC3+lB9TG5hQHQX42RJc4wWp0x5JsCPzGpyqPDehz0aBO9OOUlvOle5LqMSrpDvFyty86skorq950YHAYYI7xWLg0hQVdx/5sHzLS9Z4jUgvSQuSbbHxV0bnXM1sdzah15hgJWVuQXM4kkdQMuPlctIVr9k4KkhyKBQmVX8XHVvEtGRJ08+eVWsbQIGM+P757LP10hbjJry2jxay073dksLrd3RNW/e2Q7avCWrCJAz7ovEimpR17iB0ZxrIDIUOE1PpdrJM=;nMYAMY0c4xQOG2b9M+ualw=="
+secured: "hNolud9T4Ib6Ol220u8sz4Gkb+DKEGboqI3NDfnaTUr48lfuut7iWnBwrq7aipbSkN0YvaQLL/4L5gBJesUd5dTPPhy+LjgBDGQl8Zc842HHVu4fKqumuVadYCTHtCjXh8hHmP2AdfEQ1WM5x4s9J8NFPBkgZTXUkmykPZ/fmhi92FPJu/jbkRD65tOP1l5hnROihneWhOzJ8FuI9OdhZxC+lMS9POqGXIiqJmuHpRkdgq4nPq9w7nBHVPHoiFB/5jDizRVdkL6xHmlzsF2AsFsXCF2qDtN+EiEHTUsEIfCDIXAKyygxVWTXbKR/rszW9wSPa19HL8yA5ywLROQP11dYEoVmVKPMj3FcOPmrPxOdB8plDtl4v7vgd4aarwXfC3qd61TSkfnR6YL2cfgwatGwMAo4XY5zmUjM9FILMS9VwD4CLfDqBUHchDaS/K1FeNzWoc6b4KPnw+evJ4lcUDXGxdGF3kSTNTfoZY2JrXF2G0THAslvP+MT///XlWoQKavbiQt3oavxhL7yxm6bhA==;gUcJaSe7k5sLBuTU2WxOlg=="
 ---
 

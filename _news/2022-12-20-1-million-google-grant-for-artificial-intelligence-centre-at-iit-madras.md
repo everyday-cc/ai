@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/city/chennai/1-million-google-grant-for-a
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/chennai/1-million-google-grant-for-artificial-intelligence-centre-at-iit-madras/amp_articleshow/96356642.cms"
 type: article
 quality: 56
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Google Announces $1 Mn Grant to IIT Madras for Responsible AI Initiative"
-    excerpt: "IIT Madras partnership will look to mitigate bias and enable fair use of AI, particularly in the Indian context."
-    publishedDateTime: 2022-12-19T15:31:00Z
-    webUrl: "https://analyticsindiamag.com/google-announces-1-mn-grant-to-iit-madras-for-responsible-ai-initiative/"
+  - title: "Model Engineering College to set up centre of excellence in AI, Robotics"
+    excerpt: "APJ Abdul Kalam Technological University (KTU) has set apart ₹10 crore for the first phase of the project. The centre will come up at a space of around 60,000 sq.ft. The centre has been proposed as a separate entity under the university to undertake advanced research in AI,"
+    publishedDateTime: 2022-12-21T17:54:00Z
+    webUrl: "https://www.thehindu.com/news/cities/Kochi/model-engineering-college-to-set-up-centre-of-excellence-in-ai-robotics/article66288526.ece"
+    ampWebUrl: "https://www.thehindu.com/news/cities/Kochi/model-engineering-college-to-set-up-centre-of-excellence-in-ai-robotics/article66288526.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Kochi/model-engineering-college-to-set-up-centre-of-excellence-in-ai-robotics/article66288526.ece/amp/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 38
+      name: The Hindu
+      domain: thehindu.com
+    quality: 88
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/01/Google-India.jpg"
-        width: 1612
-        height: 806
+      - url: "https://www.thehindu.com/theme/images/amp-og-image.jpg"
+        width: 1200
+        height: 1200
         isCached: true
 
 secured: "d3gzBY8UvE18S5CVMxHWpjv1eB1kgrBe1ydPOb1W+5oP4+xCbMy+0nzAuWC6jMPWFLZBdt7yc7chrqK/HnGIpHYChbzVVqccW9IZPXHBAWgGEUOo0gd+RVFbH/aD0ovZCY3R7PMvRKIDPjJ0aLzKkDiyzoHn5NxwFsfqC0gxyThKjUBpEoc4DnmXTfZh56ZFI3poNQ7B1hpb2dxUy5A0DOoqR5H3vbhyt3nPdxuEQs8VuuBXKL8tGGqTHkXZRdQ2Lu+sPmbbU2MlukwideyrFjFp0GsEkAiNzeclRO5ViaAl/ybMXBFlWc4pHvXpGWtF8oGs93J94OFBv5mncxSMOIdpF1/FEHUpwi162KGAXUo=;XBA7bPLNCto4E6FGtxZlDQ=="

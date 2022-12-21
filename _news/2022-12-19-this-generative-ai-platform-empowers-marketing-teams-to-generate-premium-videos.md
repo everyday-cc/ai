@@ -41,15 +41,6 @@ related:
         width: 1063
         height: 609
         isCached: true
-  - title: "From DALL-E 2 to ChatGPT, covering AI’s wild year | The AI Beat"
-    excerpt: "From DALL-E 2 to ChatGPT, the AI beat was challenging and overwhelming in 2022. It's been humbling. And awesome."
-    publishedDateTime: 2022-12-19T19:58:00Z
-    webUrl: "https://venturebeat.com/ai/from-dall-e-2-to-chatgpt-covering-ais-wild-year-the-ai-beat/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "Machine Learning and AI - Changing the Anti-Money Laundering Solutions Game"
     excerpt: "Money laundering is a crime that generates many costs, from financial losses through to human lives. In an effort to stem the tide of financial crime, financial institutions worldwide are now increasingly investing in AML Solutions."
     publishedDateTime: 2022-12-21T14:46:00Z
@@ -59,15 +50,6 @@ related:
       name: The Buffalo News
       domain: buffalonews.com
     quality: 34
-  - title: "Enraged Worries That Generative AI ChatGPT Spurs Students To Vastly Cheat When Writing Essays, Spawns Spellbound Attention For AI Ethics And AI Law"
-    excerpt: "Generative AI such as the ChatGPT app has gotten a huge backlash that students will readily now be able to cheat when writing essays and that we are doomed accordingly. We take a close look, considering both AI Ethics and AI Law considerations on this weighty concern."
-    publishedDateTime: 2022-12-18T11:59:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/12/18/enraged-worries-that-generative-ai-chatgpt-spurs-students-to-vastly-cheat-when-writing-essays-spawns-spellbound-attention-for-ai-ethics-and-ai-law/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 26
 
 secured: "n5xGOz63e0gn4PSlB0fMDWqwxu4+0AaPoixIHzX4dakqXHH0tbbocZAekjnUoLLm6efhRCWdbIosZH172OILRg9go7JCcVtzrSJrrGmQcYuOyZ2iYgbyzrTXiXihteMpjfZ/t1UsUBZj3R7eQawdtvEfE9uz6G+dw2oaP8qs7wfdeccrbwVb3BxkgBFhein1h+mTjwUiNdMrvsSzf/I2eLkgp3r3HrsgXpLOOo3V+DWXNzpGSGSSSnhhDKxJL20R8N+pLs0pa1Ss1l7A6Qpn6D8bMakC3u7nYP6/8KL1LDFJgMOMsPTk5FqF4GYTMNAFb27YHJrKhmVP4LbeP7ptrvoXIBLAEAS4CzWtrcrclFfSlUeFSh8HfLqOVCx4ygNeUh1KH5oWYXTYNJWogIS3DoRrSdgY9XijhiKCiJ5ee/evk7mnIMDcU+VNSFEQ/2kEl/JNjFtxXiVLDAMhasM2HoQgNCoN4u2MD4lRK3vo4JUukGgKVk/E+uWJIPvTZOJLH9xQftao+gWQGLaP94jbGw==;AZNIZa49sQv4Oh/uJQmkKw=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-20T16:00:00Z
 originalUrl: "https://www.economist.com/science-and-technology/2022/12/20/artificial-intelligence-and-the-rise-of-optical-computing"
 webUrl: "https://www.economist.com/science-and-technology/2022/12/20/artificial-intelligence-and-the-rise-of-optical-computing"
 type: article
-quality: 39
+quality: 43
 heat: -1
 published: false
 
@@ -17,6 +17,8 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20221224_STD001.jpg"

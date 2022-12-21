@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-11-26-loab-is-showing-us-the-unimaginable-future-of-artificial-intelligence.md",
+      "title": "Loab is showing us the unimaginable future of artificial intelligence",
+      "excerpt": "Loab was created entirely by artificial intelligence. Loab(Supplied: Supercomposite) An AI-generated character might not sound so remarkable in an era of deepfakes and all manner of digital alchemy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.abc.net.au/news/2022-11-26/loab-age-of-artificial-intelligence-future/101678206",
+      "originalUrl": "https://www.abc.net.au/news/2022-11-26/loab-age-of-artificial-intelligence-future/101678206",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://live-production.wcms.abc-cdn.net.au/900ccc87eec14abd60b443ebc32e548b?impolicy=wcms_crop_resize&cropH=770&cropW=1369&xPos=0&yPos=0&width=862&height=485",
+          "width": 862,
+          "height": 485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-26T02:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Australian Broadcasting Corporation",
+        "domain": "abc.net.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-26-using-artificial-intelligence-to-spot-breast-cancer.md",
       "title": "Using artificial intelligence to spot breast cancer",
       "excerpt": "Breast cancer is an increasing problem in low and middle-income countries, but screening programmes for early detection are rare. A company in India has developed a cheaper, non-invasive test that ...",
@@ -1299,59 +1342,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-19-ripe-for-disruption-artificial-intelligence-advances-deeper-into-healthcare.md",
-      "title": "Ripe For Disruption: Artificial Intelligence Advances Deeper Into Healthcare",
-      "excerpt": "Healthcare providers now have a better understanding of what patients really want, and are getting better equipped to address their needs,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/11/19/ripe-for-disruption-artificial-intelligence-advances-deeper-into-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/11/19/ripe-for-disruption-artificial-intelligence-advances-deeper-into-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/637808e71034975a4f1a9f1a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 488,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/11/19/ripe-for-disruption-artificial-intelligence-advances-deeper-into-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/11/19/ripe-for-disruption-artificial-intelligence-advances-deeper-into-healthcare/amp/",
-      "publishedDateTime": "2022-11-19T02:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
       ]
     }
   ],

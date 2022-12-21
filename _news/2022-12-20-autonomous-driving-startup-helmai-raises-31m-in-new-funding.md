@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2022/12/19/autonomous-driving-startup-hel
 webUrl: "https://siliconangle.com/2022/12/19/autonomous-driving-startup-helm-ai-raises-31m-new-funding/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI-powered pharmaceutical drug testing startup Quris Technologies raises USD 9M in funding"
+    excerpt: "Quris Technologies Ltd., an Israeli startup in artificial intelligence for the pharmaceutical industry, announced today that it has raised"
+    publishedDateTime: 2022-12-21T16:33:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/ai-powered-pharmaceutical-drug-testing-startup-quris-technologies-raises-usd-9m-in-funding/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/ai-powered-pharmaceutical-drug-testing-startup-quris-technologies-raises-usd-9m-in-funding/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ai-powered-pharmaceutical-drug-testing-startup-quris-technologies-raises-usd-9m-in-funding/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 49
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/12/AI-powered-pharmaceutical-drug-testing-startup-Quris-Technologies-raises-USD-9M-in-funding.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "AI-powered pharmaceutical drug testing startup Quris Technologies raises $9M in funding"
     excerpt: "Quris is a promising startup that has developed AI-powered “patient-on-a-chip” system that provides an alternative to human clinical trials and animal testing in drug development. According to the company,"
     publishedDateTime: 2022-12-20T12:00:00Z

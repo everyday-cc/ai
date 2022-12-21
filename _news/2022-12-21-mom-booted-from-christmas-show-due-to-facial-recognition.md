@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition used in New York to stop woman from seeing Christmas show"
-    excerpt: "The attorney and mother said the security staff knew her name, her place of work, and said their facial recognition had flagged her, before telling her that she wasn’t allowed to be there"
-    publishedDateTime: 2022-12-21T06:20:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/facial-recognition-technology-new-york-stop-woman-attorney-law-christmas-show-msg/article66287817.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/facial-recognition-technology-new-york-stop-woman-attorney-law-christmas-show-msg/article66287817.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/facial-recognition-technology-new-york-stop-woman-attorney-law-christmas-show-msg/article66287817.ece/amp/"
+  - title: "MSG Allegedly Used Facial Recognition to Remove Rival Attorney From Rockettes Show"
+    excerpt: "A privacy expert told Gizmodo this was one of the first instances of a private firm using facial recognition to retaliate against an opposing lawyer."
+    publishedDateTime: 2022-12-21T18:16:00Z
+    webUrl: "https://gizmodo.com/mgs-facial-recognition-msg-rockettes-show-1849919528"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 56
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 63
     images:
-      - url: "https://th-i.thgim.com/public/incoming/vulek9/article66287816.ece/alternates/FREE_1200/BRITAIN%20FACIAL%20RECOGNITION"
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ed4e62703fb59872a94cd9d96d70476a.jpg"
         width: 1200
-        height: 816
+        height: 675
         isCached: true
   - title: "Facial recognition bars lawyer from Girl Scout trip to Rockettes Christmas show"
     excerpt: "Kelly Conlon was blocked because her New York firm is involved in a personal injury claim against operator of Radio City Music Hall"
@@ -57,7 +55,30 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Why a Facial Recognition Device Barred This Woman From a Rockettes Show"
+    excerpt: "Kelly Conlon's bizarre experience gives a glimpse into a future with omnipresent facial recognition systems. Last month, Kelly Conlon arrived with her daughter's Girl Scout troop to watch a Rockettes performance at Radio City Music Hall,"
+    publishedDateTime: 2022-12-21T17:46:00Z
+    webUrl: "https://reason.com/2022/12/21/why-a-facial-recognition-device-barred-this-woman-from-a-rockettes-show/"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 39
+    images:
+      - url: "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2022/12/zumaglobaleleven995570-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Facial scanners flag mom for ejection at Rockettes performance"
+    excerpt: "A mother removed from a Rockettes performance after being flagged by facial recognition scanners is taking legal action. WNBC's Sarah Wallace reports."
+    publishedDateTime: 2022-12-20T20:05:00Z
+    webUrl: "https://www.nbcnews.com/video/facial-scanners-flag-mom-for-ejection-at-rockettes-performance-158248005592"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 34
 
-secured: "SqSC9rwARNIv9QVWdyMu7hIN8FvCuWeBOp8tyxzGUuyptdjF2WHOotw0a6NeosOBpVcTpo2Zxlo6Aoozx1Qi9Zt38x63pwjSF4l2HZCCDPL6g+DoYirWyNSrDcmIr63VQ8AmNYr6dof+z2ZIt/nnYUucQ05Oqim4mhcFXee8Uv7RH/nDGt04i9LJpnMyYv1EtoOqDXTsWqvOIvaFnIHKk6ZRi8fwFHY7/gJDnJrH2bRjvxMPxX4s7wq+PAyXsXWFTqYXpm6W6Yj1hY+ltBlKA3dc7JzTUDLOL2IvB68SGvbLNQxvCId1tdzd9VF//b0xE/wo7QXTTzKuOaJKmhcGT2xnzQ+f5q06qKhLxmHClsA=;g68jSP4PX1ui9qa50uUQIQ=="
+secured: "NESE6O3dKtM21WuW2Acg6XsxB0o+D1xiZpbXjaV4oTGSIdGKgJUyUPHerzm7Ow+KA8cKQN/hj6EJ1mKN19fo3XPWoHqMTV15w8fKByptkVtOwTrDIZ6ETgqr3DL5IRCt8U2AyVZ/HPTnJUvgz5+GzuzWsL4S5iBXl/l5xbWFFj1d604U4uxWwZvzCqad88ijlat2Ek5gPMWTDb5jv+wy7s6FkZ4PYTEoIs8Se9p3hPrCiuKtTc0ULeqdnf+MjMp5xRXQmkBpxWLbhVajehZtxovGUrImrLQOo1neAHqgacnjyHVWq/Xeb1rpQ+6VlsXwe0TMRpIWH+zCWBN1cZvBDbzPWVUe9Hd6mmoaaR+M5WPXxxyYBixLFZC+YYEAKSgMesvYb7OmXgp25xvGrYaHCtS/JmdUF/FexbHh/KXsTJNjdhfnD3ga4CGkyAxEMi/zDaME9aKBbjPwx8d/SEn1NoDbxseytOm3v/t0S1/3mp0/Aq0kiBRJ7Zm8NwUKbhUzhUYbDvOOMw+0gb26RL+zKw==;jpqjJOufCIjCpWGBaDqNOg=="
 ---
 

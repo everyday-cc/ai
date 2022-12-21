@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/12/21/pointedly-asking-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/12/21/pointedly-asking-generative-ai-chatgpt-about-whether-santa-claus-is-real-proves-to-be-eye-opening-for-ai-ethics-and-ai-law/amp/"
 type: article
 quality: 73
-heat: 113
+heat: 93
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 700
         height: 466
         isCached: true
-  - title: "From DALL-E 2 to ChatGPT, covering AI’s wild year | The AI Beat"
-    excerpt: "From DALL-E 2 to ChatGPT, the AI beat was challenging and overwhelming in 2022. It's been humbling. And awesome."
-    publishedDateTime: 2022-12-19T19:58:00Z
-    webUrl: "https://venturebeat.com/ai/from-dall-e-2-to-chatgpt-covering-ais-wild-year-the-ai-beat/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "Machine Learning and AI - Changing the Anti-Money Laundering Solutions Game"
     excerpt: "Money laundering is a crime that generates many costs, from financial losses through to human lives. In an effort to stem the tide of financial crime, financial institutions worldwide are now increasingly investing in AML Solutions."
     publishedDateTime: 2022-12-21T14:46:00Z
@@ -63,16 +54,7 @@ related:
       name: The Buffalo News
       domain: buffalonews.com
     quality: 34
-  - title: "Enraged Worries That Generative AI ChatGPT Spurs Students To Vastly Cheat When Writing Essays, Spawns Spellbound Attention For AI Ethics And AI Law"
-    excerpt: "Generative AI such as the ChatGPT app has gotten a huge backlash that students will readily now be able to cheat when writing essays and that we are doomed accordingly. We take a close look, considering both AI Ethics and AI Law considerations on this weighty concern."
-    publishedDateTime: 2022-12-18T11:59:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/12/18/enraged-worries-that-generative-ai-chatgpt-spurs-students-to-vastly-cheat-when-writing-essays-spawns-spellbound-attention-for-ai-ethics-and-ai-law/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 26
 
-secured: "gb2By97jR92mgpUjVOOfldrWWtnTuCUCH/83AL/SaK/g4gb49msc8J2gJxI0O6XpnRZ4AH/E+0/J4EJvnjOG3ILAacKJozT2ZVho6Fs0sR4Ni7BVcoo6eL6rPxbRyqdqnKYvowPBLLOUcF3cjR7QCMB9sEXaX30NxSAjxD/rz9obYpu/4YwX7Fh35c91nDlADWKlEHTKT8sFtCQd1Buk7r4aYG+Xrz/cQhutheLv4FzN65C+1VS1PNqkTBKzk5czu2ZD4YtHgyH6tJCLIg+8PqugV5cuxX3u4cFCiFmQhivf1n4HUohd4vH6psfU3lLTAg1Z63zOKfvtOICsQs6pted2Gy7mkoF15Eo60CU1EXg=;r2MdfPMXfWlOx6/R1PNEsg=="
+secured: "JoF4sB0d/SsLToMp1+6AwYL5DsI0WIR/sK2HrsZDkACEl5a0kEWV9oXE3Q0+qCROWeSME/n+/HCIuJuBUbqJXJWNWDpT0NQ+YM+CQMLNs2RJEhpEt+AlcGXfeSCXRwxJ3+QmHC0C+30fvSxTCqQjZvvp5Fpu7CRYKafJNgadD/C4usRtOlnE6A4Wj7Y2z/ZLBUVL6uPrgwb8x507rZ2YlGdXGKRffoa1lECDZiOE/UC1t8Odfz8Bd8imnuc2mRMQ6zbMBlEqvL4mUO9E8bylq86oY7gRMXZt0Y/euEAdrC/AQLhXFwx/km0HGfXC/GuNyKzYCnzoYscRt/22JstcTAdpK3GevqYKZ7B/r30/UgPvHrGm4UCOC4d+asCBl0sPLXiMkCSwDyTQT5aGovmHqbl5VrpEX7c5ptqD+djfD5jpX49bhYLZwZnQR8ZpFYfoIlzY3uUkp5HE1NNwTyRe4qapOxvfcYZ4yqhLWwaYudqMLKtRrQlk2D1cqNoMxUXXrpsv1G6qbEveQLLp/ruZwA==;/HyCGk9HZi8EghaguIPJuQ=="
 ---
 
