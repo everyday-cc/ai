@@ -785,24 +785,33 @@
     {
       "path": "_news/2022-12-12-brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge.md",
       "title": "BrainChip Joins Intel Foundry Services to Advance Neuromorphic AI at the Edge",
-      "excerpt": "BrainChip’s Akida TM, enables low-latency and ultra-low power AI inference and on-chip learning. “We are proud to partner with Intel as part of its IFS Accelerator – IP Alliance,” said Anil Mankar, Chief Development Officer at BrainChip.",
+      "excerpt": "BrainChip's Akida TM, enables low-latency and ultra-low power AI inference and on-chip learning. \"We are proud to partner with Intel as part of its IFS Accelerator - IP Alliance,\" said Anil Mankar ...",
       "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/news/53169/brainchip-intel-foundry-services-neuromorphic-ai.html",
-      "originalUrl": "https://www.design-reuse.com/news/53169/brainchip-intel-foundry-services-neuromorphic-ai.html",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/12/ac30033830/brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/ac30033830/brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
+          "width": 800,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T00:23:00-08:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30033830",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30033830",
+      "publishedDateTime": "2022-12-11T14:37:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

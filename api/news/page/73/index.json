@@ -2,6 +2,162 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2022-10-18-stable-diffusion-creator-stability-ai-raises-101m-funding-to-accelerate-open-source-ai.md",
+      "title": "Stable Diffusion creator Stability AI raises $101M funding to accelerate open-source AI",
+      "excerpt": "Stability AI has raised $101M for its open-source Stable Diffusion model, an AI art generator that enables people to instantly create art.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/stable-diffusion-creator-stability-ai-raises-101m-funding-to-accelerate-open-source-ai/",
+      "originalUrl": "https://venturebeat.com/ai/stable-diffusion-creator-stability-ai-raises-101m-funding-to-accelerate-open-source-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/AI-e1666107023652.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/stable-diffusion-creator-stability-ai-raises-101m-funding-to-accelerate-open-source-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stable-diffusion-creator-stability-ai-raises-101m-funding-to-accelerate-open-source-ai/amp/",
+      "publishedDateTime": "2022-10-18T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-run-ensemble-ml-models-on-amazon-sagemaker.md",
+      "title": "Run ensemble ML models on Amazon SageMaker",
+      "excerpt": "Model deployment in machine learning (ML) is becoming increasingly complex. You want to deploy not just one ML model but large groups of ML models represented as ensemble workflows. These workflows are comprised of multiple ML models. Productionizing these ML models is challenging because you need to",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-ensemble-ml-models-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-ensemble-ml-models-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/18/run-ensemble-models-sagemaker.jpg",
+          "width": 1547,
+          "height": 770,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T08:50:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-oracle-cloud-adding-tens-of-thousands-of-nvidia-chips-for-ai.md",
+      "title": "Oracle Cloud adding tens of thousands of Nvidia chips for AI",
+      "excerpt": "Chips that help accelerate computing speed include GPUs and are heavily used in AI work where Nvidia has the lion's share. While there are many AI chip startups challenging Nvidia, Clay Magouyrk ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/oracle-cloud-adding-tens-thousands-nvidia-chips-ai-2022-10-18/",
+      "originalUrl": "https://www.reuters.com/technology/oracle-cloud-adding-tens-thousands-nvidia-chips-ai-2022-10-18/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/auU-eGYlMXaI82GhWXiVQXOg6iA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C3KTSLO2ZRNVLMJPKCCNHB4N44.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-18-medical-robotic-systems-market-2022-industry-scenario-strategies-growth-factors-and-forecast-to-2028-118-pages-report.md",
       "title": "Medical Robotic Systems Market 2022 : Industry Scenario, Strategies, Growth Factors and Forecast to 2028 | 118 Pages Report",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Oct 18, 2022 (The Expresswire) -- \"Medical Robotic Systems Market\" Insights 2022 By Types, Applications, Regions ...",
@@ -1006,117 +1162,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-axiomtek-unveils-advanced-industrial-atx-motherboard-with-12th-gen-intel-core-processor-for-aiot-application-imb540.md",
-      "title": "Axiomtek unveils advanced industrial ATX motherboard with 12th Gen Intel® Core™ processor for AIoT application - IMB540",
-      "excerpt": "This motherboard has a total of five PCIe slots ­– two PCIe 4.0 x16 slots and three PCIe x4 slots ­– for GPU, AI acceleration, frame grabber, NIC, and motion control card configurations.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/axiomtek-unveils-advanced-industrial-atx-motherboard-with-12th-gen-intel-core-processor-for-aiot-application-imb540-1031811520",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/axiomtek-unveils-advanced-industrial-atx-motherboard-with-12th-gen-intel-core-processor-for-aiot-application-imb540-1031811520",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T21:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-aws-to-launch-an-infrastructure-region-in-thailand.md",
-      "title": "AWS to Launch an Infrastructure Region in Thailand",
-      "excerpt": "Region will allow customers to run workloads and securely store data in Thailand while serving end users with even lower latency AWS plans an estimated investment of more than $5 billion",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/b29299246/aws-to-launch-an-infrastructure-region-in-thailand",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/b29299246/aws-to-launch-an-infrastructure-region-in-thailand",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29299246",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29299246",
-      "publishedDateTime": "2022-10-17T20:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-practical-wisdom-and-the-value-of-cognitive-diversity.md",
-      "title": "Practical Wisdom and the Value of Cognitive Diversity",
-      "excerpt": "Practical reasoning would seem to include cognitive capacities such as top-down attentional focus, as we must be able to attend to the salient features of a situation to notice a moral problem. For example, only once a lecturer notices that a student's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/royal-institute-of-philosophy-supplements/article/practical-wisdom-and-the-value-of-cognitive-diversity/6F5246F5D31E82181CDC1061DB772AFE",
-      "originalUrl": "https://www.cambridge.org/core/journals/royal-institute-of-philosophy-supplements/article/practical-wisdom-and-the-value-of-cognitive-diversity/6F5246F5D31E82181CDC1061DB772AFE",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

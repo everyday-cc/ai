@@ -1,27 +1,21 @@
 ---
 category: news
-title: "The Worldwide Machine Learning As A Service Industry Is Expected To Reach $36.2 Billion By 2028'"
+title: "The Worldwide Machine Learning as a Service Industry is Expected to Reach $36.2 Billion by 2028"
 excerpt: "The Global Machine learning as a Service Market size is expected to reach $36.2 billion by 2028, rising at a market growth of 31.6% CAGR during the forecast period. Machine learning is a data analysis method that includes statistical data analysis to create desired prediction output without the use of explicit programming."
-publishedDateTime: 2022-12-07T00:17:00Z
-originalUrl: "https://menafn.com/1105275901/The-Worldwide-Machine-Learning-As-A-Service-Industry-Is-Expected-To-Reach-362-Billion-By-2028"
-webUrl: "https://menafn.com/1105275901/The-Worldwide-Machine-Learning-As-A-Service-Industry-Is-Expected-To-Reach-362-Billion-By-2028"
+publishedDateTime: 2022-12-06T21:38:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/12/06/9725607.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/12/06/9725607.htm"
 type: article
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?518866"
-    width: 444
-    height: 250
-    isCached: true
-
-secured: "xBdVSZtcsdf3+QPKqG02gunbI91tAjNGeHSYUIgCx4KoLJd92dD4zq1dXGdwfOO14djx5DyPJZ8r6ZF/Uo8lwPgIugDhxZcELFuCJrBT4KlN6mZuIARX40WfjhVNNyTHW7L8bcUbEj0quoFYaMVCIR0Xpkb6dkEoTI29V+FTOx5ErxgOyiddUAHLKME4ebVpAzhPliRCJtV42wjxHZSbyM8pEgp+Hda5cAaZp52FTqb1f5AspNZABlfxNkLeKV+mcX2wT67NVz8SMK7pWtcRYmS3G08ESVNJIUhVg7XqpALMIWqu6Hlln/wZh6Gp7d5UuHBBoopPUfHz8NKZCyjvNrYJWcu5pAIS6hJuMGMS1ro=;nXgpNbApNgpfwttKPdCeXw=="
+secured: "imMhDOzpiPpfS6T+b4LUn7iCEFkcOIKJundtS6QFkq1uyCzSG7avCO0CPbuErmj+5Aat+HnSJ/k0kkqETymDvA1tZop2a85Ci0EuA2qgLCJKhV/Wo/gcLastmYrUdu7Ee1ifPoD+oLQIxdadccS7h/4M0pcO6xDy/kENwR/l1isMXyBxEcsoCZHbHxgTG3eqP2mgyb27xb0v63HqFegoZWQWMpYy7fZTaD5Ufnhc8whnVPJTIwpKj8+u+rUhin3uyIKbzX7eAgCfKkZ54f5BTWLe1zBwG/gAbKLDtELobzvfmUjA1BDB/gJxHrVo652fE98AEMZ7uzHoYW5qqQ3peuSUAm4qn5nuwjMBRRFpE+c=;ZlxUCwnc2oU2ewA46FQQIA=="
 ---
 

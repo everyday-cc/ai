@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-10-08-scotlands-first-driverless-bus-system-launch-delayed-after-one-of-the-shuttles-got-lost.md",
+      "title": "Scotland's first driverless bus system launch delayed after one of the shuttles got LOST",
+      "excerpt": "The shuttle service is nicknamed Itsy Bitsy Teenie Weenie Driverless Machiney The launch day of the driverless busses saw chaos as one shuttle got lost Technical glitches meant the bus was stuck ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/news/article-11292833/amp/Scotlands-driverless-bus-launch-delayed-one-shuttles-got-LOST.html",
+      "originalUrl": "https://www.dailymail.co.uk/news/article-11292833/amp/Scotlands-driverless-bus-launch-delayed-one-shuttles-got-LOST.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/10/07/20/63239185-0-image-a-16_1665172533692.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-11292833/amp/Scotlands-driverless-bus-launch-delayed-one-shuttles-got-LOST.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-11292833/amp/Scotlands-driverless-bus-launch-delayed-one-shuttles-got-LOST.html",
+      "publishedDateTime": "2022-10-07T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-07-recent-advancements-in-artificial-intelligence.md",
       "title": "Recent Advancements In Artificial Intelligence",
       "excerpt": "Over the last few years, artificial intelligence (AI) has worked its way into every area of our lives. If you’re a programmer, chances are you’ve started working with GitHubs",
@@ -1410,49 +1453,6 @@
       "provider": {
         "name": "Esquire",
         "domain": "esquire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-self-driving-cars-keep-causing-traffic-jams-in-san-francisco.md",
-      "title": "Self-driving cars keep causing traffic jams in San Francisco",
-      "excerpt": "San Francisco local Emma Becerra happened to catch the incident, and shared pictures of the emperiled vehicle on Twitter. Becerra also provided additional images, showing a worker",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/technology/self-driving-car-blocks-traffic/?view=login",
-      "originalUrl": "https://www.popsci.com/technology/self-driving-car-blocks-traffic/?view=login",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2022/10/03/cruise-self-driving-car-traffic-jam.jpg?auto=webp",
-          "width": 2000,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/technology/self-driving-car-blocks-traffic/?view=login&amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/self-driving-car-blocks-traffic/?view=login&amp",
-      "publishedDateTime": "2022-10-03T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
         "images": null,
         "publishers": null,
         "authors": null

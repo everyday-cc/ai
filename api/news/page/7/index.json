@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-12-13-scott-belsky-adobe-vp-talks-ai-creativity-and-superpowers.md",
+      "title": "Scott Belsky: Adobe VP Talks AI, Creativity And Superpowers",
+      "excerpt": "Creativity is at the heart of the products that Adobe makes, from Photoshop to Lightroom, Fresco to Illustrator. Scott Belsky is the company’s Chief Product Officer and Executive Vice President for Creative Cloud and I talked to him and Gavin Miller,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidphelan/2022/12/12/scott-belsky-adobe-vp-talks-ai-creativity-and-superpowers/",
+      "originalUrl": "https://www.forbes.com/sites/davidphelan/2022/12/12/scott-belsky-adobe-vp-talks-ai-creativity-and-superpowers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/639759ff390c0523343405cb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidphelan/2022/12/12/scott-belsky-adobe-vp-talks-ai-creativity-and-superpowers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidphelan/2022/12/12/scott-belsky-adobe-vp-talks-ai-creativity-and-superpowers/amp/",
+      "publishedDateTime": "2022-12-12T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-12-its-not-just-fun-lensa-ai-portrait-app-raises-ethical-privacy-concerns.md",
       "title": "'It's not just fun': Lensa AI portrait app raises ethical, privacy concerns",
       "excerpt": "Magic avatars' are the latest internet craze, but one expert says individuals uploading photos of themselves onto the Lensa AI portrait app may not be aware of the ethical and privacy concerns involved.",
@@ -532,40 +583,6 @@
       ]
     },
     {
-      "path": "_news/2022-12-12-brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge.md",
-      "title": "BrainChip Joins Intel Foundry Services to Advance Neuromorphic AI at the Edge",
-      "excerpt": "BrainChip’s Akida TM, enables low-latency and ultra-low power AI inference and on-chip learning. “We are proud to partner with Intel as part of its IFS Accelerator – IP Alliance,” said Anil Mankar, Chief Development Officer at BrainChip.",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/news/53169/brainchip-intel-foundry-services-neuromorphic-ai.html",
-      "originalUrl": "https://www.design-reuse.com/news/53169/brainchip-intel-foundry-services-neuromorphic-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T00:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-12-kerala-infrastructure-for-technology-and-education-to-bring-robotics-to-students-in-ernakulam-district.md",
       "title": "Kerala Infrastructure for Technology and Education to bring robotics to students in Ernakulam district",
       "excerpt": "The Ernakulam unit of Kerala Infrastructure for Technology and Education (Kite) has begun the work on setting up robotics labs in the schools in the",
@@ -912,6 +929,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-12-brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge.md",
+      "title": "BrainChip Joins Intel Foundry Services to Advance Neuromorphic AI at the Edge",
+      "excerpt": "BrainChip's Akida TM, enables low-latency and ultra-low power AI inference and on-chip learning. \"We are proud to partner with Intel as part of its IFS Accelerator - IP Alliance,\" said Anil Mankar ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/12/ac30033830/brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/ac30033830/brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
+          "width": 800,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30033830",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30033830",
+      "publishedDateTime": "2022-12-11T14:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-12-what-to-know-about-lensa-the-ai-portrait-app-all-over-social-media.md",
       "title": "What to know about Lensa, the AI portrait app all over social media",
       "excerpt": "If you've logged on to any social media app this week, you've probably seen pictures of your friends, but re-imagined as fairy princesses, animé characters, or celestial beings.",
@@ -1107,58 +1167,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-business-leaders-are-still-nervous-about-the-side-effects-of-artificial-intelligence.md",
-      "title": "Business Leaders Are Still Nervous About the Side Effects Of Artificial Intelligence",
-      "excerpt": "Real money — and lots of it — is on the line, and, ultimately, there is fear that AI may be more fad than substance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/12/11/business-leaders-are-still-nervous-about-the-side-effects-of-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/12/11/business-leaders-are-still-nervous-about-the-side-effects-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63962194b4116abe893ef9b2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/12/11/business-leaders-are-still-nervous-about-the-side-effects-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/12/11/business-leaders-are-still-nervous-about-the-side-effects-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-12-11T09:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

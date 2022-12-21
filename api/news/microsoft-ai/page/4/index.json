@@ -2,6 +2,102 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-18-contentstack-raises-80m-optimizely-launches-dxp-on-microsoft-azure-more-news.md",
+      "title": "Contentstack Raises $80M, Optimizely Launches DXP on Microsoft Azure, More News",
+      "excerpt": "According to company officials, Optimizely DXP provides personalization features powered by artificial intelligence (AI). “We’re pleased to welcome Optimizely to the Microsoft Azure Marketplace which gives our partners great exposure to cloud customers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/customer-experience/contentstack-raises-80m-optimizely-launches-dxp-on-microsoft-azure-more-news/",
+      "originalUrl": "https://www.cmswire.com/customer-experience/contentstack-raises-80m-optimizely-launches-dxp-on-microsoft-azure-more-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/6d901154dbc74b268d0d79aad629f43a.ashx",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/customer-experience/contentstack-raises-80m-optimizely-launches-dxp-on-microsoft-azure-more-news/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/contentstack-raises-80m-optimizely-launches-dxp-on-microsoft-azure-more-news/amp/",
+      "publishedDateTime": "2022-11-18T04:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-18-azure-ml-vs-databricks-machine-learning-comparison.md",
+      "title": "Azure ML vs. Databricks: Machine Learning Comparison",
+      "excerpt": "Microsoft Azure ML and Databricks both offer top-rated ML tools. But which is best for your company? Machine learning (ML) is being incorporated into virtually all aspects of enterprise IT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/azure-ml-vs-databricks/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/azure-ml-vs-databricks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/Poly.headset-1.jpg",
+          "width": 698,
+          "height": 521,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-18T02:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-1-in-3-older-americans-have-cognitive-impairment-or-dementia.md",
       "title": "1 in 3 Older Americans Have Cognitive Impairment or Dementia",
       "excerpt": "Oct. 25, 2022 – A new study shows one-third of Americans age 65 or older have mild cognitive impairment or dementia. The study, published in the journal JAMA Neurologyon Monday, is the most ...",
@@ -1271,110 +1367,6 @@
         "name": "MedPage Today",
         "domain": "medpagetoday.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-openai-leads-235m-round-in-mem-an-ai-powered-note-taking-app.md",
-      "title": "OpenAI leads $23.5M round in Mem, an AI-powered note-taking app",
-      "excerpt": "Mem, an AI-powered note-taking app, has raised capital from OpenAI's startup fund -- one of the first companies to do so.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/10/ai-powered-note-taking-app-mem-raises-23-5m-openai/",
-      "originalUrl": "https://techcrunch.com/2022/11/10/ai-powered-note-taking-app-mem-raises-23-5m-openai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1130532319.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/10/ai-powered-note-taking-app-mem-raises-23-5m-openai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/10/ai-powered-note-taking-app-mem-raises-23-5m-openai/amp/",
-      "publishedDateTime": "2022-11-10T15:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-microsoft-is-testing-new-ads-in-windows-11.md",
-      "title": "Microsoft is testing new ads in Windows 11",
-      "excerpt": "it's ads appearing in the operating system—said no one other than Microsoft. The Redmond firm appears to be testing a feature in preview builds that shows ads for its services in the flyout menu ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/96601-microsoft-testing-ads-services-windows-11.html",
-      "originalUrl": "https://www.techspot.com/news/96601-microsoft-testing-ads-services-windows-11.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/08/2020-08-14-image-5.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T11:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

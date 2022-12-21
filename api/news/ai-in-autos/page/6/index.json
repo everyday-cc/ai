@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-11-18-how-artificial-intelligence-is-being-used-to-stop-retail-theft.md",
+      "title": "How artificial intelligence is being used to stop retail theft",
+      "excerpt": "One of those tools is artificial intelligence. It's used at Lunardi's, a Bay Area grocery store. “We actually have an alert right now,\" said Rick Sanchez, director of Lunardi's. The security ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft",
+      "originalUrl": "https://www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/cec511c/2147483647/strip/true/crop/2315x1302+15+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fd2%2F79%2Ff6ae98ae406d97772336693fbbf4%2Fscreen-shot-2022-11-18-at-8.00.58%20AM.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true",
+      "cdnAmpWebUrl": "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national-politics/the-race/how-artificial-intelligence-is-being-used-to-stop-retail-theft?_amp=true",
+      "publishedDateTime": "2022-11-18T07:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fox13now",
+        "domain": "fox13now.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-roadlink-international-trading-limited-successfully-tests-driverless-car-in-shenzhen.md",
       "title": "Roadlink International Trading Limited Successfully Tests Driverless Car in Shenzhen",
       "excerpt": "HONG KONG, Nov. 18, 2022 (GLOBE NEWSWIRE) -- Roadlink International Trading Limited said that the testing in Shenzhen over the past six months included a \"driverless car safely navigating roads ...",
@@ -1308,49 +1352,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-are-airports-the-ideal-testbed-for-the-newest-technologies.md",
-      "title": "Are Airports the Ideal Testbed for the Newest Technologies?",
-      "excerpt": "Aman Nalavade, product manager for Waymo, said this is something that Phoenix residents ... First introduced in June 2021, Iris is an artificial intelligence-powered “digital concierge” that can answer questions through voice-based technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/products/are-airports-the-ideal-testbed-for-the-newest-technologies",
-      "originalUrl": "https://www.govtech.com/products/are-airports-the-ideal-testbed-for-the-newest-technologies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/5031646/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fec%2F28%2F09773cf00d8d10ada26a5abfbac2%2Fshutterstock-530657836.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/products/are-airports-the-ideal-testbed-for-the-newest-technologies?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/are-airports-the-ideal-testbed-for-the-newest-technologies?_amp=true",
-      "publishedDateTime": "2022-11-11T15:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

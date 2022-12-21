@@ -2,6 +2,83 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-09-22-cognitive-and-motor-functions-may-improve-with-neflamapimod.md",
+      "title": "Cognitive and Motor Functions May Improve with Neflamapimod",
+      "excerpt": "A new study shows inhibiting the kinase p38α using the small molecule drug neflamapimod, could potentially improve cognitive and motor function in patients with neurodegenerative diseases that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.genengnews.com/neurological-disorders/cognitive-and-motor-functions-may-improve-with-neflamapimod/",
+      "originalUrl": "https://www.genengnews.com/neurological-disorders/cognitive-and-motor-functions-may-improve-with-neflamapimod/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.genengnews.com/wp-content/uploads/2022/09/Feb11_2019_Getty_956351734_UpperCellMembrane-scaled.jpg",
+          "width": 2560,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-22T00:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GEN",
+        "domain": "genengnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-22-take-a-cognitive-test-internet-roasts-joe-biden-after-he-became-lost-on-stage.md",
+      "title": "‘Take a cognitive test’: Internet roasts Joe Biden after he became ‘lost’ on stage",
+      "excerpt": "US President Joe Biden has been mocked online after appearing to not know where to go following remarks he delivered at a Global Fund conference in New York.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailytelegraph.com.au/news/world/take-a-cognitive-test-internet-roasts-joe-biden-after-he-became-lost-on-stage/video/9d05892295fde934dbf483b83e10220f",
+      "originalUrl": "https://www.dailytelegraph.com.au/news/world/take-a-cognitive-test-internet-roasts-joe-biden-after-he-became-lost-on-stage/video/9d05892295fde934dbf483b83e10220f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-22T00:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "dailytelegraph.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-22-syngenta-aims-to-make-its-sap-erp-as-reliable-as-water-from-a-tap.md",
       "title": "Syngenta Aims To Make Its SAP ERP As Reliable As Water From A Tap",
       "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as he recently talked with Christian Bayer, the Global Head of ERP/SAP and Data and Analytics at Syngenta, and partner Infosys, about moving SAP to the public cloud.",
@@ -1237,83 +1314,6 @@
       "provider": {
         "name": "ctinsider",
         "domain": "ctinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-summit-design-and-engineering-services-chooses-the-microsoft-cloud-and-aec360-to-fuel-business-growth.md",
-      "title": "Summit Design and Engineering Services Chooses the Microsoft cloud and aec360 to Fuel Business Growth",
-      "excerpt": "Summit Design and Engineering Services, has selected Microsoft Dynamics 365 and aec360 as the firm's new cloud-based business management platform. The organizations have begun the process of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/n28883786/summit-design-and-engineering-services-chooses-the-microsoft-cloud-and-aec360-to-fuel-business-gro",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/n28883786/summit-design-and-engineering-services-chooses-the-microsoft-cloud-and-aec360-to-fuel-business-gro",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg",
-          "width": 700,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28883786",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28883786",
-      "publishedDateTime": "2022-09-15T07:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-study-indicates-a-daily-multivitamin-slows-cognitive-decline.md",
-      "title": "Study indicates a daily multivitamin slows cognitive decline",
-      "excerpt": "Findings recently published in the Alzheimer’s & Dementia: The Journal of the Alzheimer’s Association found that a daily multivitamin could improve cognitive function and physical health for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wtvr.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline",
-      "originalUrl": "https://www.wtvr.com/news/national/study-indicates-a-daily-multivitamin-slows-cognitive-decline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T22:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "wtvr",
-        "domain": "wtvr.com",
         "images": null,
         "publishers": null,
         "authors": null

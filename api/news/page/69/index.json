@@ -2,6 +2,126 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2022-10-21-meta-touts-ai-tool-developed-partly-in-israel-that-translates-spoken-only-language.md",
+      "title": "Meta touts AI tool, developed partly in Israel, that translates spoken-only language",
+      "excerpt": "Tech titan bills work as a 'step toward a future where simultaneous translation between languages is possible'; Tel Aviv R&D center developers among global Meta AI teams in project",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/meta-touts-ai-tool-developed-partly-in-israel-that-translates-spoken-only-language/",
+      "originalUrl": "https://www.timesofisrael.com/meta-touts-ai-tool-developed-partly-in-israel-that-translates-spoken-only-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2022/10/000_32L723X-640x400.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/meta-touts-ai-tool-developed-partly-in-israel-that-translates-spoken-only-language/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/meta-touts-ai-tool-developed-partly-in-israel-that-translates-spoken-only-language/amp/",
+      "publishedDateTime": "2022-10-20T11:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-21-soft-robotics-demonstrates-mgripai-at-pack-expo-international-2022.md",
+      "title": "Soft Robotics Demonstrates mGripAI™ at Pack Expo International 2022",
+      "excerpt": "Today Soft Robotics Inc. announced that they will be showcasing m GripAI in multiple booths at the Pack Expo International Exposition, October 23-26, 2022, at the McCormick Center in Chicago, Illinois.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/soft-robotics-demonstrates-mgripai-at-pack-expo-international-2022-1031822294",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/soft-robotics-demonstrates-mgripai-at-pack-expo-international-2022-1031822294",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T11:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-21-deep-learning-with-light.md",
+      "title": "Deep learning with light",
+      "excerpt": "One reason this latency occurs is because connected devices don’t have enough memory or power to store and run the enormous machine-learning models needed for the device to understand what a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/968327",
+      "originalUrl": "https://www.eurekalert.org/news-releases/968327",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T11:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-21-katakems-robot-chef-speeds-up-drug-development-with-reliable-chemistry.md",
       "title": "Katakem’s ‘robot chef’ speeds up drug development with reliable chemistry",
       "excerpt": "Katakem, which is developing a robot to automate lab tasks, is among the many startups presenting at the TechCrunch Disrupt Battlefield 200.",
@@ -1007,144 +1127,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-cognitive-computing-market-business-opportunities-and-global-forecast-to-2032.md",
-      "title": "Cognitive Computing Market Business Opportunities and Global Forecast to 2032",
-      "excerpt": "According to a recent study done by FMI, the cognitive computing market is expected to reach US$ 3.2 Trillion by 2032, up from US$ 257.1 Billion in 2022, expanding at a high CAGR of 28.7%. This study explains that the key factors such as the rise in big data analytics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fmiblog.com/2022/10/20/cognitive-computing-market-business-opportunities-and-global-forecast-to-2032/",
-      "originalUrl": "https://www.fmiblog.com/2022/10/20/cognitive-computing-market-business-opportunities-and-global-forecast-to-2032/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fmiblog.com/wp-content/uploads/2022/10/Cognitive-Computing-Market.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T00:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Future Market Insights",
-        "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-ikea-is-using-driverless-trucks-to-move-its-furniture-in-texas.md",
-      "title": "IKEA Is Using Driverless Trucks to Move Its Furniture in Texas",
-      "excerpt": "Kodiak has been moving furniture and other IKEA goods since August, but the companies carried out a testing period before making the agreement public. The route runs from an IKEA distribution center in Baytown, east of Houstin, to a store in Frisco, 290 ...",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2022/10/20/ikea-is-using-driverless-trucks-to-move-its-furniture-in-texas/",
-      "originalUrl": "https://singularityhub.com/2022/10/20/ikea-is-using-driverless-trucks-to-move-its-furniture-in-texas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2022/10/Kodiak-Ikea-Back-2.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2022/10/20/ikea-is-using-driverless-trucks-to-move-its-furniture-in-texas/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/10/20/ikea-is-using-driverless-trucks-to-move-its-furniture-in-texas/?amp=1",
-      "publishedDateTime": "2022-10-19T23:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-deepminds-demis-hassabis-is-ais-grandmaster.md",
-      "title": "DeepMind’s Demis Hassabis is AI’s grandmaster",
-      "excerpt": "From mastering games to decoding proteins, Hassabis is shepherding the next generation of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vox.com/future-perfect/23375219/future-perfect-50-demis-hassabis-deepmind",
-      "originalUrl": "https://www.vox.com/future-perfect/23375219/future-perfect-50-demis-hassabis-deepmind",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/MMmycD6S66PtO4TkoYm8vdyfkVw=/0x0:1920x1080/1400x1050/filters:focal(832x304:1138x610):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/71519428/DemisHassabis.0.jpg",
-          "width": 1400,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vox.com/platform/amp/future-perfect/23375219/future-perfect-50-demis-hassabis-deepmind",
-      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/future-perfect/23375219/future-perfect-50-demis-hassabis-deepmind",
-      "publishedDateTime": "2022-10-19T22:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vox",
-        "domain": "vox.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

@@ -6,8 +6,8 @@ publishedDateTime: 2022-12-20T05:35:00Z
 originalUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-research-highlighting-global-opportunities-2023-growth-trends-and-share-forecast-to-2029-2022-12-20"
 webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-research-highlighting-global-opportunities-2023-growth-trends-and-share-forecast-to-2029-2022-12-20"
 type: article
-quality: 61
-heat: 221
+quality: 63
+heat: 223
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

@@ -2,6 +2,136 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2022-10-21-robotics-researchers-turn-the-publics-ideas-into-robo-fish-reality.md",
+      "title": "Robotics researchers turn the public's ideas into 'robo-fish' reality",
+      "excerpt": "A robot fish that filters microplastics has been brought to life after it won the University of Surrey's public competition—The Natural Robotics Contest.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-10-robotics-ideas-robo-fish-reality.html",
+      "originalUrl": "https://techxplore.com/news/2022-10-robotics-ideas-robo-fish-reality.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-21T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-21-2022-senator-paul-simon-award-goes-to-center-for-hearing-speech.md",
+      "title": "2022 Senator Paul Simon Award goes to CENTER FOR HEARING & SPEECH",
+      "excerpt": "Signature Healthcare Foundation is pleased to announce the presentation of the 2022 Senator Paul Simon Award to the Center for Hearing & Speech. Frank DA",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/pr/business/2022-senator-paul-simon-award-goes-to-center-for-hearing-speech/article_830ee5fe-5149-11ed-87d3-fbe4160a8807.html",
+      "originalUrl": "https://www.stltoday.com/pr/business/2022-senator-paul-simon-award-goes-to-center-for-hearing-speech/article_830ee5fe-5149-11ed-87d3-fbe4160a8807.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/7/e2/7e2dd89c-5149-11ed-87d1-8755eb3eeead/6352a748f03e6.image.png?crop=1258%2C660%2C0%2C90&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-21T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-21-healthcare-natural-language-processing-nlp-market-competitive-landscape-and-analysis-by-recent-trends-2022-to-2029-118-pages-report.md",
+      "title": "Healthcare Natural Language Processing (NLP) Market : Competitive Landscape and Analysis by Recent Trends 2022 to 2029 | 118 Pages Report",
+      "excerpt": "According to this latest study, In 2022 the growth of Healthcare Natural Language Processing (NLP) Market is projected",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-competitive-landscape-and-analysis-by-recent-trends-2022-to-2029-118-pages-report-2022-10-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-competitive-landscape-and-analysis-by-recent-trends-2022-to-2029-118-pages-report-2022-10-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 208,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-21T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-10-21-d-wave-launches-in-aws-marketplace.md",
       "title": "D-Wave Launches in AWS Marketplace",
       "excerpt": "D-Wave is listing in AWS Marketplace at a time when organizations are increasingly turning to quantum technology to solve their most challenging business problems. Hyperion Research recently found that nearly 70% of companies surveyed have an in-house quantum computing program,",
@@ -1007,126 +1137,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-meta-touts-ai-tool-developed-partly-in-israel-that-translates-spoken-only-language.md",
-      "title": "Meta touts AI tool, developed partly in Israel, that translates spoken-only language",
-      "excerpt": "Tech titan bills work as a 'step toward a future where simultaneous translation between languages is possible'; Tel Aviv R&D center developers among global Meta AI teams in project",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/meta-touts-ai-tool-developed-partly-in-israel-that-translates-spoken-only-language/",
-      "originalUrl": "https://www.timesofisrael.com/meta-touts-ai-tool-developed-partly-in-israel-that-translates-spoken-only-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2022/10/000_32L723X-640x400.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/meta-touts-ai-tool-developed-partly-in-israel-that-translates-spoken-only-language/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/meta-touts-ai-tool-developed-partly-in-israel-that-translates-spoken-only-language/amp/",
-      "publishedDateTime": "2022-10-20T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-soft-robotics-demonstrates-mgripai-at-pack-expo-international-2022.md",
-      "title": "Soft Robotics Demonstrates mGripAI™ at Pack Expo International 2022",
-      "excerpt": "Today Soft Robotics Inc. announced that they will be showcasing m GripAI in multiple booths at the Pack Expo International Exposition, October 23-26, 2022, at the McCormick Center in Chicago, Illinois.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/soft-robotics-demonstrates-mgripai-at-pack-expo-international-2022-1031822294",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/soft-robotics-demonstrates-mgripai-at-pack-expo-international-2022-1031822294",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T11:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-deep-learning-with-light.md",
-      "title": "Deep learning with light",
-      "excerpt": "One reason this latency occurs is because connected devices don’t have enough memory or power to store and run the enormous machine-learning models needed for the device to understand what a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/968327",
-      "originalUrl": "https://www.eurekalert.org/news-releases/968327",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T11:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

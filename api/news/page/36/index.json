@@ -2,6 +2,145 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2022-11-18-how-the-dont-say-gay-law-is-affecting-florida-lgbtq-students-and-teachers.md",
+      "title": "How The “Don’t Say Gay” Law Is Affecting Florida LGBTQ Students And Teachers",
+      "excerpt": "There are many people who contributed to the formation of our country that deserve recognition,” she said ... parents have “the right to object to…materials used in classrooms based upon his or her belief regarding morality, sex, religion, or ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.buzzfeednews.com/article/hallielieberman/dont-say-gay-lgbtq-students-schools-florida",
+      "originalUrl": "https://www.buzzfeednews.com/article/hallielieberman/dont-say-gay-lgbtq-students-schools-florida",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2016-07/5/12/enhanced/buzzfeed-prod-fastlane03/dateline-3772-1467735734-1.png",
+          "width": 275,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/hallielieberman/dont-say-gay-lgbtq-students-schools-florida",
+      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/hallielieberman/dont-say-gay-lgbtq-students-schools-florida",
+      "publishedDateTime": "2022-11-18T06:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "buzzfeednews.com",
+        "domain": "buzzfeednews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-18-cognitive-stimulation-therapy-cst-and-icst.md",
+      "title": "Cognitive Stimulation Therapy (CST) and iCST",
+      "excerpt": "Saint Louis University’s Geriatric Education Center (GEC) offers Cognitive Stimulation Therapy (CST), a support ... Disclaimer This project is supported by the Health Resources and Services Administration (HRSA) of the U.S. Department of Health and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slu.edu/medicine/internal-medicine/geriatric-medicine/aging-successfully/cognitive-stimulation-therapy.php",
+      "originalUrl": "https://www.slu.edu/medicine/internal-medicine/geriatric-medicine/aging-successfully/cognitive-stimulation-therapy.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-18T06:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Saint Louis University",
+        "domain": "slu.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-11-18-ai-law-and-ai-ethics-are-brooding-over-those-ai-alignment-tax-proposals.md",
+      "title": "AI Law And AI Ethics Are Brooding Over Those AI Alignment Tax Proposals",
+      "excerpt": "Rightfully, ergo, the list of taxes would only be considered complete if we also had AI taxes. Whoa, some say, if you start taxing AI then we are potentially going to harm or maybe even kill the golden goose. AI can be used for the betterment of humanity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/11/18/ai-law-and-ai-ethics-are-brooding-over-those-ai-alignment-tax-proposals/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/11/18/ai-law-and-ai-ethics-are-brooding-over-those-ai-alignment-tax-proposals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63768c8761ae8255072d6c0d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 739,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/11/18/ai-law-and-ai-ethics-are-brooding-over-those-ai-alignment-tax-proposals/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/11/18/ai-law-and-ai-ethics-are-brooding-over-those-ai-alignment-tax-proposals/amp/",
+      "publishedDateTime": "2022-11-18T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-11-18-full-on-robot-writing-the-artificial-intelligence-challenge-facing-universities.md",
       "title": "‘Full-on robot writing’: the artificial intelligence challenge facing universities",
       "excerpt": "“Waiting in front of the lecture hall for my next class to start, and beside me two students ... computer theorist Ben Goertzel proposed what he called the “robot university student test”, arguing that an AI capable of obtaining a degree in a same ...",
@@ -1019,138 +1158,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform.md",
-      "title": "Qualcomm debuts latest flagship Snapdragon chip and a new AI platform",
-      "excerpt": "It’s likely not surprising for those who have been following the space for the last several years that Qualcomm is positioning AI/ML as the centerpiece of its latest system on a chip. With the new Hexagon Processor (that’s a Qualcomm trademark ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform/",
-      "originalUrl": "https://techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1179422887.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform/amp/",
-      "publishedDateTime": "2022-11-17T12:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-waymo-shows-off-its-next-truly-driverless-prototype-car.md",
-      "title": "Waymo shows off its next truly driverless prototype car",
-      "excerpt": "So, for the second time now, Waymo is doing a ground-up design of a driverless vehicle, without any of those useless, legacy human controls. The car was originally announced in December ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2022/11/waymo-shows-off-its-futuristic-transportation-as-a-service-vehicle/",
-      "originalUrl": "https://arstechnica.com/gadgets/2022/11/waymo-shows-off-its-futuristic-transportation-as-a-service-vehicle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2022/11/waymo-shows-off-its-futuristic-transportation-as-a-service-vehicle/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2022/11/waymo-shows-off-its-futuristic-transportation-as-a-service-vehicle/amp/",
-      "publishedDateTime": "2022-11-17T11:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-lumiq-wins-aws-specialty-partner-of-the-year-2022-for-data-analytics-machine-learning-second-year-in-a-row.md",
-      "title": "LUMIQ wins AWS Specialty Partner of the Year 2022 - for Data, Analytics, & Machine Learning - second year in a row",
-      "excerpt": "India's leading Data & Analytics company bagged the AWS Specialty Partner of the Year 2022 Award for Data, Analytics, and Machine Learning at the recent AWS Partner Summit in Bengaluru. The event saw Anil Kumble talking about his entrepreneurial journey and the evolution of the Indian tech landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/articles/Business/20221117/4004639.html",
-      "originalUrl": "https://news.webindia123.com/news/articles/Business/20221117/4004639.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-17T11:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],

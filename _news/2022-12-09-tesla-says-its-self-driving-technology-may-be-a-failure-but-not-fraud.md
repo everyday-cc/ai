@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Tesla says its self-driving technology may be a 'failure' — but not fraud"
-excerpt: "In a class-action lawsuit, customers say they were duped by Tesla's $15,000 Full Self-Driving feature. Lawyers for the company say failure doesn't equal fraud."
-publishedDateTime: 2022-12-08T20:25:00Z
-originalUrl: "https://www.aol.com/news/tesla-troubled-full-self-driving-212551254.html"
-webUrl: "https://www.aol.com/news/tesla-troubled-full-self-driving-212551254.html"
+title: "Tesla says its self-driving technology may be a ‘failure’ — but not fraud"
+excerpt: "Tesla’s Full Self-Driving technology may be a failure, Tesla lawyers admit — but it’s not a fraud. The electric car company is facing a class-action lawsuit from Autopilot and Full Self ..."
+publishedDateTime: 2022-12-08T21:25:00Z
+originalUrl: "https://www.latimes.com/business/story/2022-12-08/tesla-lawsuit-full-self-driving-technology-failure-not-fraud"
+webUrl: "https://www.latimes.com/business/story/2022-12-08/tesla-lawsuit-full-self-driving-technology-failure-not-fraud"
+ampWebUrl: "https://www.latimes.com/business/story/2022-12-08/tesla-lawsuit-full-self-driving-technology-failure-not-fraud?_amp=true"
+cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2022-12-08/tesla-lawsuit-full-self-driving-technology-failure-not-fraud?_amp=true"
 type: article
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: Los Angeles Times
+  domain: latimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.zenfs.com/en/aol_la_times_articles_830/1f659224d78ea7b371bc98cef8f1d7d1"
-    width: 840
-    height: 560
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/d3a5473/2147483647/strip/true/crop/1642x1098+0+0/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fac%2Fbc%2Fcbcecd1d40919fc40cc4deb90aee%2F1-courthouse.jpg"
+    width: 320
+    height: 214
     isCached: true
 
-secured: "dYEeTK544XAlM4xZQ0h2TA0Yqjl1GyUWswqyV6rIkL+Ue/x+x8iuoXdH4wbB9fTXNX1lJNe4wxvt0ND3KJ5u+btQQIhWGh6mSbkC7cXmdnWgs0qD5s1OB53KX8iJgcZB3UVnRfeo48z8Z9eef4fCDyD5yt3xlgiTqBTM0/QLp1VlMe/T02uofZFpewgk67fOaaqXg0uKf6qqkzrkeqQEV3f0c+n9/FBhv5UUIbyoApZwnHZJTM0aqYCYMty2DyLb3vm5K5QNGkvCaXVzVUrl3TjtjzlnWDLCZD1pJhJ9VfVbX56i2IlU2MOSkKw12YAEKw2JKhW+8PoPNVWlmmtukfCtZVC2jvm4X2TUErVfUSVSI0ugE1m/EjO+SehGnJAsfb9LSXqMZ+9l+9y/7KYhu5p6KA6w/CkDFAFiVqRviO9MSubDQqfDNBz1BvPuY07bAdNsllfHq4Zc9986bNpFYzwnEMLxb0i13+UwkIMAKfA7wFrQmYg2/dPPSbsfXv+cmxp0pjQPFK9OP1fl5Jw7BA==;cM3HhHyDzzigU+lkD4ARLw=="
+secured: "5WYCxoKOx1wZudjceltNesw4+bbdkyI55QNhCJ0jP0ld5LtiyBZSyuIInKcwoFb3LPy22VmTjKjAAffUcNyf0MqGIl0mqNbdfEWG2Pmla1qg47G6PRhvTUYb8fR/Pb5od4Iu6he+Mr7UrFL8z8H6IPPDbKCVkWmcy8FxrAapgwGE41udjQcvEYvJ2oPDu6YP2iZpxq5x9OW/eaevmodWfbrqVeZ9I3HWniuyn51f5BuPvtA1Zjsxx2pxNGCsCP6jPRo4c16UCQU2Bquf09lKTNU3Y4WLS/x5dGqYmL6on3piaosNAq1dxqzaReM7fpuBoDuRJNNkhVaNYEAcxe5wTlLD9sjOoAQuXQ3NBI3UIDk=;SZA44CMoPolI1cHlRp60DA=="
 ---
 
