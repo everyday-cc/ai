@@ -5,9 +5,11 @@ excerpt: "The new AI technology is surprising users by generating responses that
 publishedDateTime: 2022-12-18T20:20:00Z
 originalUrl: "https://www.tpr.org/news/2022-12-18/will-artificial-intelligence-disrupt-education-and-other-areas-of-society-an-expert-weighs-in"
 webUrl: "https://www.tpr.org/news/2022-12-18/will-artificial-intelligence-disrupt-education-and-other-areas-of-society-an-expert-weighs-in"
+ampWebUrl: "https://www.tpr.org/news/2022-12-18/will-artificial-intelligence-disrupt-education-and-other-areas-of-society-an-expert-weighs-in?_amp=true"
+cdnAmpWebUrl: "https://www-tpr-org.cdn.ampproject.org/c/s/www.tpr.org/news/2022-12-18/will-artificial-intelligence-disrupt-education-and-other-areas-of-society-an-expert-weighs-in?_amp=true"
 type: article
-quality: 22
-heat: 22
+quality: 64
+heat: 64
 published: false
 
 provider:
@@ -17,7 +19,14 @@ provider:
 topics:
   - AI
   - AI in Education
+  - AI in Healthcare
 
-secured: "3NSuvwlYgCpznv600/4qfxnnDhnVfs1phxnpoWCSMZv7cl8CMlHXYlgwRuSkBCbDXDT3Vc/mbQ0dyutYPVWMfdkZ1P6zd8x6/O1AyLvotZRnffc7gCxV4z3Ugxgmgg9Ij//yjYCZMrph+O/PuLFFONDXZzu8r1Qm1ADxeNzXIuG4TFxOhWUW/EMroSqLUN9U/QV3KGHxfeb2EV7eK4PI8Z2NEMykoW9ZoyGzIr6oQchAcToi1V/J7KVDLqyCesZ/6Pe32niAPpiMafAf72jY3ruoEk7eWCra+o4RoNZR1RP0d2LtqVB7MvCl+NG3YML3lNb7P1RmCWvINos9ec5SZMKNE/WBG1Whsom9cbh2oNXU5S+ceqU6z87smShIH5PqyQUuvcTeuQHuJQXVXNIVEPr2dZUq/YXfNjDHTUtNAwsMy6+hLhXIjN1WoSpYtRTzp76xQ7tc9qrVmGsNQM3zihmRQMji61MNs/XKCHSRxCqIOdWWn8DlDMFU2rkbhgKhhWrq/PWjIwHavtyuMDRvAA==;XPC9Jl0i2qMCmkDQJX80LA=="
+images:
+  - url: "https://npr.brightspotcdn.com/dims4/default/79e1e91/2147483647/strip/true/crop/2728x1535+0+232/resize/480x270!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F12%2F19%2Fgettyimages-1450089209_custom-0745e2c87f05ae34a331174ad95b2cade4720717.jpg"
+    width: 480
+    height: 270
+    isCached: true
+
+secured: "vMerF/o8obyhzCg2UsPTsJoOVfKdh7on3sMrKok8oWUcoEiujnFPojc6sdNoWPLOZQVkk8IJvpzIyK+E58YKZjLexYQtUJ7292iyOhM5NgcYurOAig9ayvIomK5yXMiqyk1EyKZhF5DeKpdWBGvUBdBbscm6f9nvWqngL376+U1XxQZphjpI8I9HZZ3G0jb5lxYCM7fF9Oaba3mHHUXa1N8F0ww20diGBelnfO61Qz79osevyHCJtxRN/2WcXA8ts+1r5GGS40s0lm8WRVwmCbalsS1Qj66mzb+x/gU29KdVMb9XqK8rmTeLuqLrJHFKZ0eYrtO4WICxMdRJqa9F8oEbA7Hy7lbEDtGYgCiU81I=;HQmh6F2lwxAD9XcSywYu8Q=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bworldonline.com/banking-finance/2022/12/20/494019/uno-d
 cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/banking-finance/2022/12/20/494019/uno-digital-bank-partners-with-fintech-trusting-social/?amp"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Three trends that will define India’s fintech sector in 2023"
+    excerpt: "Neobank partnerships driving hyper-personalised financial products, AI-driven efficiency in digital lending services and wealth tech for everyone. These three trends will enable fintech innovation in India and retain its position as the global fintech leader in 2023."
+    publishedDateTime: 2022-12-21T11:20:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/banking/finance/three-trends-that-will-define-indias-fintech-sector-in-2023/articleshow/96398341.cms"
+    ampWebUrl: "https://m.economictimes.com/industry/banking/finance/three-trends-that-will-define-indias-fintech-sector-in-2023/amp_articleshow/96398341.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/three-trends-that-will-define-indias-fintech-sector-in-2023/amp_articleshow/96398341.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-6876,msid-96398756/1649259868823.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Salter Brothers tips into payments fintech IP Solutions"
     excerpt: "Ex-Bombora stockpicker Gregg Taylor has ruled off his first unlisted investment in his new role as head of equities at Salter Brothers."
     publishedDateTime: 2022-12-19T03:47:00Z
@@ -64,18 +80,41 @@ related:
         height: 567
         isCached: true
   - title: "CPS Announces New FinTech-Driven Automotive Financing Platform Enhancements"
-    excerpt: "Consumer Portfolio Services, Inc. (Nasdaq: CPSS) (\"CPS\"), an independent specialty FinTech that provides indirect automobile financing to individuals with past credit"
-    publishedDateTime: 2022-12-19T12:32:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/cps-announces-new-fintech-driven-automotive-financing-platform-enhancements/article_551ced3b-88ef-5b3a-b98b-a0178653e6a6.html"
+    excerpt: "CPS expects Informed.IQ’s AI tools to significantly reduce the funding time. For decades, CPS has focused on bringing improved intelligence to auto lending, becoming a leader in FinTech initiatives that enhance the front-end review and financial decision-making process."
+    publishedDateTime: 2022-12-19T13:31:00Z
+    webUrl: "https://apnews.com/article/artificial-intelligence-b8faff8f405895bbf48750ed5667f360"
     type: article
     provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
+      name: Associated Press
+      domain: apnews.com
     quality: 22
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
-        width: 600
-        height: 315
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "AI In Fintech Market is likely to surge at a 16.5% CAGR from 2022 to 2032"
+    excerpt: "According to an ESOMAR-certified Future Market Insights report, the global artificial intelligence in fintech market is expected to be worth US$ 10.1 billion in 2021 and US$ 11.76 billion by 2022. The market is expected to be worth US$ 54 billion by 2032,"
+    publishedDateTime: 2022-12-20T11:26:00Z
+    webUrl: "https://www.fmiblog.com/2022/12/20/ai-in-fintech-market-is-likely-to-surge-at-a-16-5-cagr-from-2022-to-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 18
+  - title: "World Fintech Show features dynamic collaborations set to influence the direction of FinTech in Saudi Arabia"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2022-12-20T06:15:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/world-fintech-show-features-dynamic-collaborations-set-to-influence-the-direction-of-fintech-in-saudi-arabia/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 5
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/12/Event-123.jpg"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "SLLF+0kBHYXb8NgdIDjIz5TrNsP75a22y9hDqXDecM5eS98Ia9dX3BezZdMRVrOf0zl31v0R6lHsQ3CCr2460pR0yVkDdUn7ZkHXRYZ0PSs9JiFgunahCw1EZrHZXBon2Zj6q+OZxX17pFQkmUhSgqhypJZsmmxmKMm+HcsHpHR88Hmupl3bDC7ICLAf00UVRcsthrcMJf8J0KmqfYxa9djeHpWvxbLJt8ehMInJY+K3ePDYhUf+f1kMMewRsVUJi4jrxSjPLtmqQUaiSVjUIfZ0kvjudYJEgzRPSv7dqEF1A1nXIjlUoL9wYGqvOaU6U6C/J7HSyftHCgoRgXeNLADvhnZyhQXTCfNI+7MtJjqtpSnliNCo7waxQIsl8XBnr0gFuq73VnCIU0fVqTAjrz48SXpjoNk5z/9q2iHzESPWEmNu2Ngj04U2iYlCTUmwNOPIJ3ai/DYaP0keTkZFAEF3f7x615PGQOy+VWrhDVzilq6ef2w3b20B77t2AmmQukyoBIT7fgGQnxD069nC2w==;qhB4ANBQuUaa8uaEMA5Fng=="

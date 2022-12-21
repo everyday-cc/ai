@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Autonomous Robot Startup Synkar Partners With Toronto Based Microart Services"
-excerpt: "Synkar’s mission, “To bring robotics, AI, and innovation into everyday logistics ... Evandro Barros joined forces with Lucas Assis to start their strategy and PHd level thinking for real ..."
-publishedDateTime: 2022-12-07T16:10:00Z
-originalUrl: "https://www.digitaljournal.com/pr/autonomous-robot-startup-synkar-partners-with-toronto-based-microart-services"
-webUrl: "https://www.digitaljournal.com/pr/autonomous-robot-startup-synkar-partners-with-toronto-based-microart-services"
+excerpt: "Synkar's mission, 'To bring robotics, AI, and innovation into everyday logistics ... Matheus Theodoro and Evandro Barros joined forces with Lucas Assis to start their strategy and PHd level ..."
+publishedDateTime: 2022-12-07T21:36:00Z
+originalUrl: "https://menafn.com/1105281270/Autonomous-Robot-Startup-Synkar-Partners-With-Toronto-Based-Microart-Services"
+webUrl: "https://menafn.com/1105281270/Autonomous-Robot-Startup-Synkar-Partners-With-Toronto-Based-Microart-Services"
 type: article
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "s8qgvUbfFDCBGuM1OenZ/O95SFgf1Al4qVBULTT7JoCJhLBvSWXIh0WErgDgiOWSWRrlWPo7C06TElSJNuTRE1LIgkCOR+va71OnDbBR+Fn1Mj00xidOS/yhDPB/aR7Y1WPat8SjWew3FqZ7nN6zYSkielU5JmxjnReNv8ZwYOn3jZ7GCHqM/Xmx5yQZMYx2Rkw7NP0dXvNrSiIVygjLU6fscMp4FJ9Ej/S5HaBSglG2w4+KQX2ZAwA2rQkdwUpu/EvIvqGYtKBrGQe/QysBA2zbiTYBYuqcYu4qvlMZR/2/IrJG3OXXMghRDLfYKsqOi0V4lmb4FOVBTSWPhWzxvV8z71ezKfOjKzT2KEfRknU=;dVEr/dHUouZhlqlP+ccGNw=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?350679"
+    width: 375
+    height: 250
+    isCached: true
+
+secured: "a8l8E4IruPxpAEx41T4wBhECTej8ETbh/O5v64AjlRZMm3sx6PuAvkTwC1YKafgApPl2i0TIM7jBMkoH4WcqimQtf09EQ7Uh13AtTzDhMCQqww5A+3BVqMEEo7/bmitasxOPr8Ny44MgTC/ZIJjsQwvnlJhP87UigEMVD0wfWR7lXikKH0oSWhSLGbiE/8kfxOAz8jNp/SnEgmPzLz7iKUSzQ1TqRrWdekoG1ydaalzsnb0afV/Qotci8HSth1Js96KeWMkYiZT2vE+l7ANxP0F4jwNwhV14iTWOW8NuogUvNVGMOjwiIXAL3VeSnaCcW/7x0bl71Yh4uXDkTWzHp0gQA6wAPaGUhc+36qcjyzU=;SVgNfW8Hf0gFiGsfLbsWxw=="
 ---
 

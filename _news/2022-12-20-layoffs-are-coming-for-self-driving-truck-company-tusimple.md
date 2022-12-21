@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/12/19/layoffs-are-coming-for-self-drivin
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/19/layoffs-are-coming-for-self-driving-truck-company-tusimple/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 540
         height: 540
         isCached: true
-  - title: "Self-driving trucking firm TuSimple appoints CFO, reconstitutes audit panel"
-    excerpt: "The company reappointed former CEO Cheng Lu as its top boss last month after it fired his predecessor Xiaodi Hou following an investigation."
-    publishedDateTime: 2022-12-16T20:29:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-trucking-firm-tusimple-appoints-cfo-reconstitutes-audit-panel"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 2
 
 secured: "FmRLcAMKvZiQlj4dqVROhI/PanRSDkhWQJRQwjWlLWuIP8E/ucBbf8oxPrAofh/gzQPolkHEolr/wBp9Ttb7CmiIL5jGxvQSHJfd+AQTSjyGCvuYj6GoWhmGnCfQINKojqoBFxbJNrNI4gGJWq0hOQiFNQMmdv7JlO+cu9oVzfg3WYjlE8IOKbtw+vrYyK9KjZLPHviDmMYOpleDib9q3KUkWAGSqWXSxtxzo43mokOLyVGqCqNcn+aAQXJsDNhgMPQ5uY9MyiLkw/MhL2hWsocZ/NzgBMmgAOwATUpYp60uX/518ujsb3Rh8/8AsFSTogKXDyPCQtugP1f0dtPy5R+8VnsUJROMOYAczUDeQFM=;BdWip1+C6D+DS86bDDhYkQ=="
 ---

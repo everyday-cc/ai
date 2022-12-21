@@ -2,6 +2,143 @@
   "page": 107,
   "value": [
     {
+      "path": "_news/2022-09-20-observations-in-macaques-provide-new-insights-into-how-mothers-form-attachments-to-their-newborns.md",
+      "title": "Observations in macaques provide new insights into how mothers form attachments to their newborns",
+      "excerpt": "Neurobiologist Margaret Livingstone never expected to publish a study on maternal attachment and bonding in monkeys. However, in the course of her research on how visual object recognition develops in infant macaques,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-09-macaques-insights-mothers-newborns.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-09-macaques-insights-mothers-newborns.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/observations-in-macaqu-1.jpg",
+          "width": 1280,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-09-macaques-insights-mothers-newborns.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-macaques-insights-mothers-newborns.amp",
+      "publishedDateTime": "2022-09-19T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-ai-software-helps-bust-image-fraud-in-academic-papers.md",
+      "title": "AI software helps bust image fraud in academic papers",
+      "excerpt": "Scientific publishers such as the American Association for Cancer Research (AACR) and Taylor & Francis have begun attempting to detect fraud in academic paper submissions with an AI image-checking program called Proofig,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/09/academic-journals-begin-using-ai-to-detect-image-duplication-fraud/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/09/academic-journals-begin-using-ai-to-detect-image-duplication-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/western_blot_3-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T12:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-ai-and-wine-are-not-that-different-says-sass-director-of-ai-ethics.md",
+      "title": "AI and wine are not that different, says SAS’s director of AI ethics",
+      "excerpt": "At the SAS Innovate Roadshow, held in Toronto on Sept. 9, 2022, Reggie Townsend, director of AI Ethics at SAS, compared artificial intelligence's (AI’s) risks and rewards to that of wine. And just like wine,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/ai-and-wine-are-not-that-different-says-sass-director-of-ai-ethics/503456",
+      "originalUrl": "https://www.itworldcanada.com/article/ai-and-wine-are-not-that-different-says-sass-director-of-ai-ethics/503456",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2022/09/sas-innovate-roadshow-feature-scaled.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/ai-and-wine-are-not-that-different-says-sass-director-of-ai-ethics/503456?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/ai-and-wine-are-not-that-different-says-sass-director-of-ai-ethics/503456?amp=1",
+      "publishedDateTime": "2022-09-19T12:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-20-cognitive-impairment-in-hispanic-adults-linked-to-discrimination-experiences.md",
       "title": "Cognitive impairment in Hispanic adults linked to discrimination experiences",
       "excerpt": "Now a new study shows that experiences with discrimination may be playing a role in disproportionate experiences of cognitive decline. In a first-of-its-kind study, published recently in the ...",
@@ -1016,126 +1153,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-18-floating-shoe-display-and-its-optical-flow-with-computer-vision.md",
-      "title": "Floating Shoe Display And Its Optical Flow With Computer Vision",
-      "excerpt": "Digitalzakka brings a revolutionary and Jaw-Dropping Floating Shoe Display, innovatively designed by using the latest technology. Technology has done wonders in almost all businesses and has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/ab28907281/floating-shoe-display-and-its-optical-flow-with-computer-vision",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/ab28907281/floating-shoe-display-and-its-optical-flow-with-computer-vision",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28907281",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28907281",
-      "publishedDateTime": "2022-09-17T22:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-18-low-earth-satellites-with-sensors-ai-to-tame-bushfires.md",
-      "title": "Low-earth satellites with sensors, AI to tame bushfires",
-      "excerpt": "The satellites would be equipped with fire sensors and artificial intelligence to identify and respond quickly to bushfires. The plan, which could have satellites in place this year and be working ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.afr.com/politics/federal/low-earth-satellites-with-sensors-ai-to-tame-bushfires-20220916-p5bild",
-      "originalUrl": "https://www.afr.com/politics/federal/low-earth-satellites-with-sensors-ai-to-tame-bushfires-20220916-p5bild",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.ffx.io/images/$zoom_0.1998%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_89/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/3625ca429bc6c1e880bf15caa67468948197fca2",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-17T22:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Australian Financial Review",
-        "domain": "afr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-18-global-artificial-intelligence-market-to-reach-450-bn-in-2022.md",
-      "title": "Global artificial intelligence market to reach $450 bn in 2022",
-      "excerpt": "The Artificial Intelligence (AI) market value is expected to reach nearly $450 billion this year and maintain a year-over-year growth rate in the next 5 years, a new report has forecast.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/tech/news/global-artificial-intelligence-market-to-reach-450-bn-in-2022/articleshow/94269565.cms",
-      "originalUrl": "https://www.businessinsider.in/tech/news/global-artificial-intelligence-market-to-reach-450-bn-in-2022/articleshow/94269565.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/94269574.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/tech/news/global-artificial-intelligence-market-to-reach-450-bn-in-2022/amp_articleshow/94269565.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/global-artificial-intelligence-market-to-reach-450-bn-in-2022/amp_articleshow/94269565.cms",
-      "publishedDateTime": "2022-09-17T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

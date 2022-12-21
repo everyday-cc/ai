@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-09-16-truist-launches-ai-enhanced-truist-assist.md",
+      "title": "Truist launches AI-enhanced Truist Assist",
+      "excerpt": "Truist Financial today launched its artificial intelligence (AI)-enhanced virtual assistant Truist Assist, which introduces a self-service element to the bank’s customer experience offerings. The virtual assistant leverages natural language processing and natural language understanding that helps answer client questions in a digital channel,",
+      "sourceUrl": null,
+      "webUrl": "https://www.autofinancenews.net/allposts/innovation-technology/truist-launches-ai-enhanced-truist-assist/",
+      "originalUrl": "https://www.autofinancenews.net/allposts/innovation-technology/truist-launches-ai-enhanced-truist-assist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.autofinancenews.net/wp-content/uploads/2019/10/canstockphoto14662879.jpg",
+          "width": 3000,
+          "height": 2126,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.autofinancenews.net/allposts/innovation-technology/truist-launches-ai-enhanced-truist-assist/amp/",
+      "cdnAmpWebUrl": "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/innovation-technology/truist-launches-ai-enhanced-truist-assist/amp/",
+      "publishedDateTime": "2022-09-15T14:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "autofinancenews",
+        "domain": "autofinancenews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-15-speech-voice-recognition-systems-market-size-growth-2022-global-business-industry-revenue-demand-and-applications-market-research-report.md",
       "title": "Speech & Voice Recognition Systems Market Size, Growth 2022 Global Business Industry Revenue, Demand and Applications Market Research Report to 2028",
       "excerpt": "Speech & Voice Recognition Systems Market report covers the manufacturers’ data, including business distribution, cost and price, margin, and gross revenue. This allows a reader to understand ...",

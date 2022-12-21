@@ -1,30 +1,46 @@
 ---
 category: news
 title: "CPS Announces New FinTech-Driven Automotive Financing Platform Enhancements"
-excerpt: "Consumer Portfolio Services, Inc. (Nasdaq: CPSS) (\"CPS\"), an independent specialty FinTech that provides indirect automobile financing to individuals with past credit"
-publishedDateTime: 2022-12-19T12:32:00Z
-originalUrl: "https://www.bakersfield.com/ap/news/cps-announces-new-fintech-driven-automotive-financing-platform-enhancements/article_551ced3b-88ef-5b3a-b98b-a0178653e6a6.html"
-webUrl: "https://www.bakersfield.com/ap/news/cps-announces-new-fintech-driven-automotive-financing-platform-enhancements/article_551ced3b-88ef-5b3a-b98b-a0178653e6a6.html"
+excerpt: "CPS expects Informed.IQ’s AI tools to significantly reduce the funding time. For decades, CPS has focused on bringing improved intelligence to auto lending, becoming a leader in FinTech initiatives that enhance the front-end review and financial decision-making process."
+publishedDateTime: 2022-12-19T13:31:00Z
+originalUrl: "https://apnews.com/article/artificial-intelligence-b8faff8f405895bbf48750ed5667f360"
+webUrl: "https://apnews.com/article/artificial-intelligence-b8faff8f405895bbf48750ed5667f360"
 type: article
 quality: 22
 heat: -1
 published: false
 
 provider:
-  name: The Bakersfield Californian
-  domain: bakersfield.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
+  - title: "Three trends that will define India’s fintech sector in 2023"
+    excerpt: "Neobank partnerships driving hyper-personalised financial products, AI-driven efficiency in digital lending services and wealth tech for everyone. These three trends will enable fintech innovation in India and retain its position as the global fintech leader in 2023."
+    publishedDateTime: 2022-12-21T11:20:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/banking/finance/three-trends-that-will-define-indias-fintech-sector-in-2023/articleshow/96398341.cms"
+    ampWebUrl: "https://m.economictimes.com/industry/banking/finance/three-trends-that-will-define-indias-fintech-sector-in-2023/amp_articleshow/96398341.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/three-trends-that-will-define-indias-fintech-sector-in-2023/amp_articleshow/96398341.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-6876,msid-96398756/1649259868823.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "UNO Digital Bank partners with fintech Trusting Social"
     excerpt: "UNO DIGITAL BANK has partnered with technology firm Trusting Social to offer more Filipino consumers greater access to loans with the help of data science tools. “Our partnership with Trusting Social will allow us to offer our services to unbanked Filipinos who otherwise won’t have access to formal lending services,"
     publishedDateTime: 2022-12-19T15:01:00Z
@@ -78,7 +94,30 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "AI In Fintech Market is likely to surge at a 16.5% CAGR from 2022 to 2032"
+    excerpt: "According to an ESOMAR-certified Future Market Insights report, the global artificial intelligence in fintech market is expected to be worth US$ 10.1 billion in 2021 and US$ 11.76 billion by 2022. The market is expected to be worth US$ 54 billion by 2032,"
+    publishedDateTime: 2022-12-20T11:26:00Z
+    webUrl: "https://www.fmiblog.com/2022/12/20/ai-in-fintech-market-is-likely-to-surge-at-a-16-5-cagr-from-2022-to-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 18
+  - title: "World Fintech Show features dynamic collaborations set to influence the direction of FinTech in Saudi Arabia"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2022-12-20T06:15:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/world-fintech-show-features-dynamic-collaborations-set-to-influence-the-direction-of-fintech-in-saudi-arabia/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 5
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/12/Event-123.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
-secured: "LaKwfQcNEdkZforkgpFPdz9HJ+AoobG3O8BC3CJLf/QkfQxTzn02txsy1OsTc1ynfgD3zMvMX/Uv8kLTRVt4shuSqQNK767bMcMLdj1DTi3Mebzn8Pa5oX5HWJNHlLh6Dtspg2+G3EUNlSCJRx17o8oHF4dkYCMtc/FYyJT2ZJdlVHTESKabmuz+zmh3lM7xAzE3dIE+QBJGLcVfUdq7o1I6eekh1nZTGTecSlMNJV9DEEyBaLnFJxeY817DyreILMB0v+dzewZVQTlttE/b2PkockN3WbT7hedcVT3i+Lr/WZkmMF5TV1/AMKrv1d+SV38miFhvRzb5ZYNpI+FkSvY1Ci6AVuZWl6BBFfr/8Go=;qhcKWcDagP0osUzXuqm+vA=="
+secured: "VfoFULCWtJFHwzoAJ/jMa+nyEXLX6b6FfU1FjtAJz5ekBBfiTGWf4elpHJLtadmx0bmEbDRgyeo3dhUS3V3l0Xo7o7TYMKnJx8lJU7lArLGB5Qeh7px06LqZwbOfiZnDW7oWNGE1x5LhFo1Iz2RTq55EM4z/P667t7oil5e4/cJwJG0iAGsc2CWWCNOALD9YhBQFyMHVsbEWATs5iBjkp3crxrTiYJhxCMc6VEw8aEw1AyCqi/+7SQNtv+8+XpUmOG8NFd7ASAfheuZlRbfCQwuR2h86zWDV0mZE7pll2d8mvdbvh0JuGMTrZhzC0qVwCVZf8tv47ZothWQ/uuPid7LvlqFhoypXy03OwnqVWuU=;YsrSls7ivLJKGvNq4FWvtg=="
 ---
 
