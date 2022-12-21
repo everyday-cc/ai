@@ -26,26 +26,26 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT: What if students outsource all assignments to this AI tool?"
-    excerpt: "Educational institutions will have to figure out a way to integrate these advanced AI tools into learning without banning them, he says. “While it is still in its very early days, it is important for educational institutions to understand its strengths and limitations,"
-    publishedDateTime: 2022-12-17T12:33:00Z
-    webUrl: "https://bloncampus.thehindubusinessline.com/b-school-corner/chatgpt-what-if-students-outsource-all-assignments-to-this-ai-tool/article66276055.ece"
-    ampWebUrl: "https://bloncampus.thehindubusinessline.com/b-school-corner/chatgpt-what-if-students-outsource-all-assignments-to-this-ai-tool/article66276055.ece/amp/"
-    cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/b-school-corner/chatgpt-what-if-students-outsource-all-assignments-to-this-ai-tool/article66276055.ece/amp/"
+  - title: "Is There A ChatGPT Stock? Can You Invest In ChatGPT And Other Types Of Artificial Intelligence?"
+    excerpt: "Can you invest in ChatGPT? We look at this new, revolutionary product that OpenAI released and other readily available AI investment strategies."
+    publishedDateTime: 2022-12-21T15:55:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2022/12/21/is-there-a-chatgpt-stock-can-you-invest-in-chatgpt-and-other-types-of-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2022/12/21/is-there-a-chatgpt-stock-can-you-invest-in-chatgpt-and-other-types-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/12/21/is-there-a-chatgpt-stock-can-you-invest-in-chatgpt-and-other-types-of-artificial-intelligence/amp/"
     type: article
     provider:
-      name: bloncampus.thehindubusinessline
-      domain: thehindubusinessline.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 77
     images:
-      - url: "https://bloc-i.thgim.com/public/incoming/n7ji8/article66276057.ece/alternates/FREE_320/Generative%20AI.jpg"
-        width: 320
-        height: 239
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63a32f86ff6366182c36e6f0/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 728
         isCached: true
   - title: "ChatGPT is proof the AI chatbots are here to stay"
     excerpt: "Chat GPT crashed. “I immediately feel like I lost 50 points of IQ,” tweeted one user. “Now I have to use search engines like cavemen did,” exclaimed"
     publishedDateTime: 2022-12-18T00:00:00Z
-    webUrl: "https://www.thetimes.co.uk/article/006c4ae0-7d4c-11ed-a3d2-203363978915?shareToken=c8bf647aff7eb7655ef38ee11c47fe04"
+    webUrl: "https://www.thetimes.co.uk/article/chatgpt-is-proof-the-ai-chatbots-are-here-to-stay-6jhd2fbgf?shareToken=ef7b4fa70be33e29af1e523c0621c38f"
     type: article
     provider:
       name: The Times
@@ -56,15 +56,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Enraged Worries That Generative AI ChatGPT Spurs Students To Vastly Cheat When Writing Essays, Spawns Spellbound Attention For AI Ethics And AI Law"
-    excerpt: "Generative AI such as the ChatGPT app has gotten a huge backlash that students will readily now be able to cheat when writing essays and that we are doomed accordingly. We take a close look, considering both AI Ethics and AI Law considerations on this weighty concern."
-    publishedDateTime: 2022-12-18T11:59:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/12/18/enraged-worries-that-generative-ai-chatgpt-spurs-students-to-vastly-cheat-when-writing-essays-spawns-spellbound-attention-for-ai-ethics-and-ai-law/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 26
   - title: "AI breakthrough ChatGPT raises alarm over student cheating"
     excerpt: "Academics urge universities to develop new forms of assessment after launch of program that imitates essay-writing"
     publishedDateTime: 2022-12-18T05:00:00Z
@@ -74,6 +65,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
+  - title: "The Architecture Trends of 2023 According to ChatGPT, an AI-trained Model Bot"
+    excerpt: "As a symbol of what AI could achieve in the short term for architecture and humankind, we have 'talked' with OpenGPT about the architecture trends of 2023."
+    publishedDateTime: 2022-12-21T13:01:00Z
+    webUrl: "https://www.archdaily.com/994020/the-architecture-trends-of-2023-according-to-chatgpt-an-ai-trained-model-bot"
+    type: article
+    provider:
+      name: ArchDaily
+      domain: archdaily.com
+    quality: 16
 
 secured: "nPWPdfIexkGU0ulk0peAqe0vVYgsOHTmqq80z5qqM3utqKsuzuEGKEdYlvbPtkBJ1ftpAwScDUAOgKcuD0e0ZuBsUJk3bq1bMd/Zi9fkRI8iIdt72QPK/36jG5Kmgvf1moyoFn9t2k6bSNWzZp3TUKM62WQGBYRd+8YETkVcB4k4uQ348dFz58O7+Px2/EV4jAr7J9kF5QPuK0O063fzzyH5zATvo0MaTtipxUZhAtLoWQii8I6KKRdLv01v5LSQcFw9vMtZ9dZhwWWldZCHDIXAZKglOUVIyW+X6aXLkCWwqVWXMSR3uAcBTCnlVpTulhPq4jRl6FCko6Aaq+hiA7OqI1eGEq3b7rQcx4pQjbg=;FAnvFLvCfAEu54y+kL2+zw=="
 ---

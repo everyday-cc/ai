@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-21T12:15:00Z
 originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/21/how-small-business-owners-can-adopt-ai-solutions-with-limited-resources/"
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/21/how-small-business-owners-can-adopt-ai-solutions-with-limited-resources/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

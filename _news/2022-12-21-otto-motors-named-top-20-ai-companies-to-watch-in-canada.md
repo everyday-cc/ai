@@ -2,18 +2,39 @@
 category: news
 title: "OTTO Motors Named Top 20 AI Companies to Watch in Canada"
 excerpt: "OTTO Motors, a leading provider of autonomous mobile robots (AMRs), has been acknowledged as one of 20 AI companies to watch in 2023 by the Vector Institute, a not-for-profit corporation dedicated to advancing AI."
-publishedDateTime: 2022-12-21T13:14:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/12/21/9734068.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/12/21/9734068.htm"
+publishedDateTime: 2022-12-21T12:01:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/otto-motors-named-top-20-ai-companies-to-watch-in-canada/article_b33848e7-e67e-56f6-bb9f-c54f47cad365.html"
+webUrl: "https://www.bakersfield.com/ap/news/otto-motors-named-top-20-ai-companies-to-watch-in-canada/article_b33848e7-e67e-56f6-bb9f-c54f47cad365.html"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
+  - AI in Robotics
   - AI
 
-secured: "TuLR6B7XnV/I10WREia2rm8oktdVXe3v6F+JmljEEeSD9HnzYrutUT88zXdKwU7KignXwqc84M0xsRKo1xIEfOYk0ZYLDLXOgyhbUUFczmG+DVItAdNCUMNnVChnR4Y4wtItRHfr46mabN1h05TllSEkkdGhCT6KOxn+krVi4jUvncKCCO7FqOSIMTUWLxDgkiAT/8JY6sl3vLm0974PJMdXQclQl8yGPHvHgfsfq3Ixe/8s1cPoPnWHnc89FK+ZSsSy5xEhIgmT1+szBOOw86yHURA6HrByvRXxIqd5sd5mqDU/dt8XGIQ56sgIvzQ06KaHMMvnU95st8Z+KxJS3ucc8fz1L/sD5BqMKKo6Jhw=;rwKUSe3TmDwt9loOkrOxKA=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
+
+related:
+  - title: "What Companies Need to Know Before Investing in AI"
+    excerpt: "Different forms of AI can improve performance through prediction; automation of routines; and identification of images, keywords, and patterns in voice and text. However, organizations often struggle with knowing where investments in AI will really pay off."
+    publishedDateTime: 2022-12-19T13:25:00Z
+    webUrl: "https://hbr.org/2022/12/what-companies-need-to-know-before-investing-in-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
+
+secured: "+n30UDdp/sUrHLQn7iUrW6HA+dTfo9TjB+oFyzYZhdwvnwO17GK7SnD94YpjEjeSJfN63bbU+DSwwvpWKTZbKIl9OalXRfbu1MNfARH73vd7joe2P+fgfByEbaYw07doA19HAzFT8Ko6wK7spUtYWSYNOB5Zxh2Cx/x+qe5MRczq3tgitjyJEZ9etr1CypjsT6gkZO+7i6P4AAzptptOJJxYdCQvcAKdma6aUxiJVu9HMjK2g6YQjKtC0cfshy0iFLA39jusrDFQr99fTGnWRfMK1qWMZNsPLHqRxmeyxbVCG3Tdq97HBWekPBr1EYiGJ+4rTzW+GUmhhok3Lsb/J+iiCbpSYD3aSGjphrKETq4=;DOT0+T4fGtjUHi82SdKSPA=="
 ---
 

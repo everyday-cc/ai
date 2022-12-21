@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence searches an early sign of osteoarthritis from an x-ray image"
-    excerpt: "Researchers have developed an AI based neural network to detect an early knee osteoarthritis from x-ray images. AI was able to match a doctors' diagnosis in 87% of cases. The result is important because x-rays are the primary diagnostic method for early knee osteoarthritis."
-    publishedDateTime: 2022-12-16T21:15:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/12/221215161557.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 44
   - title: "Artificial Intelligence searches for early sign of osteoarthritis: Research"
     excerpt: "In practice, the AI tries to detect whether there is spiking on the tibial tubercles in the knee joint or not. Tibial spiking can be a sign of osteoarthritis."
     publishedDateTime: 2022-12-17T10:29:00Z

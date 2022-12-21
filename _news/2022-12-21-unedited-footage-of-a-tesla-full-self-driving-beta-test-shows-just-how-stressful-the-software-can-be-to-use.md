@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-21T14:27:00Z
 originalUrl: "https://www.businessinsider.com/tesla-full-self-driving-fsd-beta-test-drive-video-stressful-2022-12"
 webUrl: "https://www.businessinsider.com/tesla-full-self-driving-fsd-beta-test-drive-video-stressful-2022-12"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: Business Insider

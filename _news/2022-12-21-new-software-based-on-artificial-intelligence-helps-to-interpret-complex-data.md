@@ -1,19 +1,27 @@
 ---
 category: news
-title: "New software based on artificial intelligence helps to interpret complex data"
-excerpt: "More is not always better—sometimes, it's a problem. With highly complex data, which have many dimensions due to their numerous parameters, correlations are often no longer recognizable. Especially since experimentally obtained data are additionally disturbed and noisy due to influences that cannot be controlled."
-publishedDateTime: 2022-12-20T16:33:00Z
-originalUrl: "https://techxplore.com/news/2022-12-software-based-artificial-intelligence-complex.html"
-webUrl: "https://techxplore.com/news/2022-12-software-based-artificial-intelligence-complex.html"
+title: "New software based on Artificial Intelligence helps to interpret complex data"
+excerpt: "Experimental data is often not only highly dimensional, but also noisy and full of artefacts. This makes it difficult to interpret the data. Now a team has designed software that uses self-learning neural networks to compress the data in a smart way and reconstruct a low-noise version in the next step."
+publishedDateTime: 2022-12-20T19:52:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/12/221220112957.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/12/221220112957.htm"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - Machine Learning
   - AI
 
-secured: "fbhzkxDxtHm1wXzG+FaaAslfbe9PXk20Q3EFwBZlmG3kfmrb0TlMiESrPDXEwbYXJINTm9n//ngzSno0BGG7S3sQoCmTlCByX7I2GajzYpmCpWlMR4SjiWikYB1cS54PlunxzSQgizx823Hz3DM7MxOyHtiQTT9+mnVfexMRu5JfSPeugg9bajY5sCNCk3mDTRg3M7HPEtHYTNvIwjaGsHfXViL7xqkxMVcsVl3efQNA4qBgCBeHywQ/jC4zbZ47WGGhqEZJt7brFPZp7ZVcstvpyQfeVXZb2OD6LNSW3lyHIwoyWR0jd8i/ePnrv3B0iH9n1FGmF/usnnh0tvt+He0KlOd809Gif9SVc2lbqWsul7225n5/3YS5sNxUzyZPnS/05nWj+gzUQl9ig7WtoWa2Y7Vhf29tPTPD7fX3BRk8BpywdlyKpPXQeYlPwotpNyBLlIiU3DPf59iRq5OkjXq8HtbjqIx8sIII2SLF0z7tGDGph3SmBClzi4zhmcvYLzGJXI/HEcXS1NKFosMA7w==;FqvFaWFxMr0QVO+mPqU3zQ=="
+secured: "8Pi6V7cYbUiD1Gok8tXbLKYfyVHqFU4B01OS9M4g3q1qRvFOHrxHEFLRNLY5Gy+OSuvz1ModijcOj7odCZcoTkA08AgVfSLXfaNZOAT5/REDrX/vXpdE2fH9qH6PL40fORyyGeuZ4rnYm8d4k3n+KqW5F1fi737lw8evvEskT1OBWPTRRIOd+6fHdUlElnZtP9r0kVaJKqP8X6cQo5o78expcUq9YZixaSHS7zC74v3YssGixbMjvmZisBi27chQEI8UNmflRHe6hBNkM9NIiaIiMH/JDMmX+263+uRsqLr6CdTJQd8PGT3OS3ikdcc6K3QfPIytHQSoJqCTQwGS5Ao3RcdC4bGgqFU25R3X88o=;hJQ0sSGJtTo8jLdaRSh1ww=="
 ---
 

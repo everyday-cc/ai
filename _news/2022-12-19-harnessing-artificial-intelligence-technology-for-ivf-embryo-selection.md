@@ -64,6 +64,26 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Artificial Intelligence Tool May Improve IVF Embryo Selection"
+    excerpt: "An AI algorithm can help determine if an in vitro fertilized embryo has a normal or abnormal number of chromosomes with about 70 percent accuracy."
+    publishedDateTime: 2022-12-21T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-tool-may-improve-ivf-embryo-selection"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/artificial-intelligence-tool-may-improve-ivf-embryo-selection"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/artificial-intelligence-tool-may-improve-ivf-embryo-selection"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+  - title: "Legal Tech's Milestones for Legal AI and Contract Technology in 2022"
+    excerpt: "Legal industry experts weigh in on the biggest developments in AI and contract technology in the past year. AI continues to be one of the hottest technologies in nearly all industries, including legal."
+    publishedDateTime: 2022-12-21T14:06:00Z
+    webUrl: "https://www.law.com/legaltechnews/2022/12/21/legal-techs-milestones-for-legal-ai-and-contract-technology-in-2022/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 19
 
 secured: "ZNece7dOLLrz6gdw1dwb0aGvT3P6PL2aq/GVAfx+VMBfeo0ibuaiz73f6vSMGt9wDSNd1dhrK1uTjVLDtBtn4FQxp4JgBRoZw2kNPn5gO+lNYLiRuVEVntMcVZLPDsx9O9Geu1YKFhtQfCuILhyltgMkef+eag1Mf8ub8dDJ+z5Bj1QK/KtOqJwR0aiqXtTYMv4F3HtNDjugrgbJ6B9d1JyDYRKjqpYxKj2Y6T3PiL8s541RS+NxDkZ/43+ERLn06tuYRC1+OBR9WvI9uwWtwSbifqt/g6pOTUihJMzlzvRJi7LJcN4pWB5wIwDtKXsvO23Fl4xtMGRfxSR114NiVJhx4i3EVDZ+4behI+u+RKQ=;+V0OkIqyf7/MxBs0e3wpnw=="
 ---

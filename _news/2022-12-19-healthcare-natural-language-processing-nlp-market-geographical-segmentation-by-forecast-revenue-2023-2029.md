@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-natural-langu
 webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-geographical-segmentation-by-forecast-revenue-2023-2029-2022-12-19"
 type: article
 quality: 63
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -66,6 +66,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Products Market 2022 Key Product Segments, Application Analysis, and Industry Growth Forecast by 2028"
+    excerpt: "The study report provides aid to investors in gaining a better analysis of the Artificial Intelligence Products market along with the driving factors, restraints, opportunities, and challenges. The research report provides information on the definition and segmentation and explains the market's scope along with information on applications and end-users."
+    publishedDateTime: 2022-12-20T22:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-2022-key-product-segments-application-analysis-and-industry-growth-forecast-by-2028-2022-12-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 20
 
 secured: "iMelMdQjmGZXbto9dCn4F61KDIIWUbjtTrN3hsueRxoMvkD+7+VRAKguwqvkcP2uMBeRLzZ04NZyRRMS3jx8Ul+jmD0n4wYR36xStHQqa+NMAhV72a0yi5eDKPJsfXTbqNvzUtWX8Z5qfJwLJaconbeJ3LQ3wF1H8WO/L7W47XjZ5lfFZmXsjmYLAXCOYdsAmRNW4rvsETQFvo7MASqrh/pWd/VNImTaMNVNPHzDRbeP790oDwrjqda0ur1f0jfnKy91Q60B6+EUP7Vp3MyMyycrlgaZkgZ5pY0bfT3ARQPW7nns41KkFqcCn8UxEjA7iYgBpTxNr1g3MlQaXPNZiumaV+yk6OKdGFHZlZ/eOnw=;Kb+wOwc70Dgcj77ZOeikrw=="
 ---

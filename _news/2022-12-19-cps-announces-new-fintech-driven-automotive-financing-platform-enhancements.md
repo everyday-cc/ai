@@ -117,6 +117,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Top Fintech Trends in 2023"
+    excerpt: "With rapidly growing demand for financial services, banks are in constant competition with fintech companies, but open banking gives them the opportunity to fight this pressure by partnering with them instead."
+    publishedDateTime: 2022-12-21T13:38:00Z
+    webUrl: "https://www.finextra.com/blogposting/23446/top-fintech-trends-in-2023"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "VfoFULCWtJFHwzoAJ/jMa+nyEXLX6b6FfU1FjtAJz5ekBBfiTGWf4elpHJLtadmx0bmEbDRgyeo3dhUS3V3l0Xo7o7TYMKnJx8lJU7lArLGB5Qeh7px06LqZwbOfiZnDW7oWNGE1x5LhFo1Iz2RTq55EM4z/P667t7oil5e4/cJwJG0iAGsc2CWWCNOALD9YhBQFyMHVsbEWATs5iBjkp3crxrTiYJhxCMc6VEw8aEw1AyCqi/+7SQNtv+8+XpUmOG8NFd7ASAfheuZlRbfCQwuR2h86zWDV0mZE7pll2d8mvdbvh0JuGMTrZhzC0qVwCVZf8tv47ZothWQ/uuPid7LvlqFhoypXy03OwnqVWuU=;YsrSls7ivLJKGvNq4FWvtg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://telanganatoday.com/artificial-intelligence-searches-for-ea
 webUrl: "https://telanganatoday.com/artificial-intelligence-searches-for-early-sign-of-osteoarthritis-research"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence searches an early sign of osteoarthritis from an x-ray image"
-    excerpt: "Researchers have developed an AI based neural network to detect an early knee osteoarthritis from x-ray images. AI was able to match a doctors' diagnosis in 87% of cases. The result is important because x-rays are the primary diagnostic method for early knee osteoarthritis."
-    publishedDateTime: 2022-12-16T21:15:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/12/221215161557.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 44
   - title: "Artificial Intelligence Searches an Early Sign of Knee Osteoarthritis from X-Rays"
     excerpt: "Researchers have developed an artificial intelligence-based neural network to detect an early knee osteoarthritis from x-ray images."
     publishedDateTime: 2022-12-19T22:03:00Z

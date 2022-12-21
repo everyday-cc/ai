@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2022/12/20/10-ai-predictions-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/12/20/10-ai-predictions-for-2023/amp/"
 type: article
 quality: 91
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -32,21 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "FIFA 2023 artificial intelligence predicted victory for Argentina at the World Cup in Qatar"
-    excerpt: "Artificial intelligence sports simulator FIFA 2023 predicted victory for Argentina in the final of the FIFA 2022 World Cup finals, which ended in Qatar."
-    publishedDateTime: 2022-12-19T08:08:00Z
-    webUrl: "https://www.telecomasia.net/news/football/fifa-2023-artificial-intelligence-predicted-victory-for-argentina-at-the-world-cup-in-qatar/"
-    ampWebUrl: "https://www.telecomasia.net/amp/news/football/fifa-2023-artificial-intelligence-predicted-victory-for-argentina-at-the-world-cup-in-qatar/"
-    cdnAmpWebUrl: "https://www-telecomasia-net.cdn.ampproject.org/c/s/www.telecomasia.net/amp/news/football/fifa-2023-artificial-intelligence-predicted-victory-for-argentina-at-the-world-cup-in-qatar/"
+  - title: "8 MLops predictions for enterprise machine learning in 2023"
+    excerpt: "So what trends will emerge in the MLops landscape in 2023? A variety of AI and ML experts shared their predictions with VentureBeat."
+    publishedDateTime: 2022-12-21T15:00:00Z
+    webUrl: "https://venturebeat.com/ai/8-mlops-predictions-for-enterprise-machine-learning-in-2023/"
+    ampWebUrl: "https://venturebeat.com/ai/8-mlops-predictions-for-enterprise-machine-learning-in-2023/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/8-mlops-predictions-for-enterprise-machine-learning-in-2023/amp/"
     type: article
     provider:
-      name: telecomasia.net
-      domain: telecomasia.net
-    quality: 47
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
     images:
-      - url: "https://www.telecomasia.net/upload/iblock/d13/d1315d5c19edbeeb2261efc4e2f2e85f.jpg"
-        width: 4099
-        height: 2626
+      - url: "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_514013068-e1623787978313.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Big Things Ahead for AI in 2023: Predictions"
     excerpt: "The AI train has been gaining steam for several years now, and nothing appears ready to stop it (except for bad data, that is). With momentum building,"

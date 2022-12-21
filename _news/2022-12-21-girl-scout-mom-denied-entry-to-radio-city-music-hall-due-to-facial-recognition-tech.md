@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/business-news/girl-scout-mom-denied-e
 webUrl: "https://www.entrepreneur.com/business-news/girl-scout-mom-denied-entry-to-rockettes-show-due-to-face/441539"
 type: article
 quality: 63
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 48
+  - title: "MSG Facial-Recognition Tech Gets Lawyer Kicked Out of Radio City Show"
+    excerpt: "The woman was reportedly separated from her daughter and escorted out of the venue because the tech identified her as working for a law firm in litigation with MSG Entertainment."
+    publishedDateTime: 2022-12-21T13:04:00Z
+    webUrl: "https://www.pcmag.com/news/msg-facial-recognition-tech-gets-lawyer-kicked-out-of-radio-city-show"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 34
 
 secured: "6tkENZCWRh4c/c4oBptfU1qVrA8JSmRcXCKTzu0Zn+MFzmhWki2P35S7MiLa0asLpwO73k9t7xhI+KqSO8Jb/NnPcF1g/XnqDcLBsbRZBMFFh3hJRMP7uFdEmitomK6+e319zknQRhf6Ze48fHG3xPdFYEolHStZzjAs6qqNQeeZgISula7VSYKGnJDPmRLxBQa1rfkFE2+wC+6I816SqRiTx/bEOylt6W5q8rbbqE8z8fZLz7Zr5h4ogQIZFhp60ut9rCyyijMCqCDKt4AZwiIkI+Y5o3Z7CwH2A+j6J7Tmx0CbM8HGdYjBZf/xHeL0Ax0ReEXXyz68WymDNK0cOfujnzLzuNO1mSjEB5EEQxGCBA69AjlfKHY4ie8TFdLFWlE4PPmkien/R7WAfPLgMDuFJfbgAPTC1B3CF5x59h4kxLP1Jz7NFVPgSQIqdCjqbAhoZPnSkYVhfRS9BgWTYyMFTcgtD7b12sH9897BzsA22sKEjjOh/QDCSdovWGItn8E4JOCav2Io/GWPlpuEVw==;tXjw8UyEGf8mFHA9ERXNog=="
 ---

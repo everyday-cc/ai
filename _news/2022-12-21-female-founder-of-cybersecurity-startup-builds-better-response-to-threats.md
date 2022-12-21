@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/geristengel/2022/12/21/female-founder-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/geristengel/2022/12/21/female-founder-of-cybersecurity-startup-builds-better-response-to-threats/amp/"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
+  - title: "Global Artificial Intelligence In Cybersecurity Market 2022 to 2028: Ability to Predict and Prevent Breaches Drives Growth - ResearchAndMarkets.com"
+    excerpt: "The Global Artificial Intelligence In Cybersecurity Market size is expected to reach $57.1 billion by 2028, rising at a market growth of 24.5% CAGR during the forecast period. AI-powered systems can be set up to automatically respond to dangers and combat online threats more quickly."
+    publishedDateTime: 2022-12-21T12:59:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-12-21-global-artificial-intelligence-in-cybersecurity-market-2022-to-2028-ability-to-predict-and-prevent-breaches-drives-growth-researchandmarketscom"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 0
 
 secured: "hf5I9PUtcRZSgXrXUz12cEGsTYpGX1u+q2nUIobmyS2lqVYo9Rmz/6MsJU2YzK1xp3dgAJVsKhdGfM61hTUMKPOQQr3hvGadDxOkqRCTdD/txL/Gw3WGRKzfzyWiklGuScXJ0nxWJrOnYT4iiLbNgCv1rlbLH3fMm6rOReyGUxyrhoCddd1jU/5/Ftzn0rI4upIOImQyfHoFwObW3uLZ40DEMqMJvHOs7gheW9+MpGM0vv485UptYrjkky4/QgJ6HVifgrmwVcEKnAT4E0GKyeSTex5GiU1BJo9HmOCukATVwuNhOXi+lNISqsME3TbugJyvQAmRWsAh3d7PyyqgDiJVXUsuUi+uvJgDjb+pQo0=;WeEP5/cBi0ShVAOh0U3AmA=="
 ---

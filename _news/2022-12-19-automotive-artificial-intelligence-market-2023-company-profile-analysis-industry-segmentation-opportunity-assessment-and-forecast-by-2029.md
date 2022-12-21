@@ -65,6 +65,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Products Market 2022 Key Product Segments, Application Analysis, and Industry Growth Forecast by 2028"
+    excerpt: "The study report provides aid to investors in gaining a better analysis of the Artificial Intelligence Products market along with the driving factors, restraints, opportunities, and challenges. The research report provides information on the definition and segmentation and explains the market's scope along with information on applications and end-users."
+    publishedDateTime: 2022-12-20T22:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-2022-key-product-segments-application-analysis-and-industry-growth-forecast-by-2028-2022-12-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 20
 
 secured: "Ql1VXUHzEhkShdiM+TV4TMp6Nx+pT4es+2KsWTtSVR/DJJQlmfBcYc4hPieOLc6OMoNk3KvBlt9gCvjTRHiQPjlDfEjVUj0GdMCaBQVLwnDd2VfTYo696K8UXcDfdQIpVMRz/tqi/isSQHmXZmxigXe7B2zEabQFRGkn35NGPgha9KezOAJVQyEW2sSO6ZVokElRzzXdZ/MGQZRRGzleCzgII+RlPhlrIQPGt1a799JqCX9FImKH24alBCtKktYGKJS86RF0wzAMZnk2wxL9FJOkF1bAiOy+8sWbnl3M3KLBfOPKbdpcAb6kFI2dou1gfT8LVcfe3YU6aKIOaF9LQp6F6D7a8SmklGwIPqwA7pM=;2AbWwmeikSd+qRYy3tVdBQ=="
 ---

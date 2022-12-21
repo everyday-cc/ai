@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/12/20/openai-releases-point-e-an-ai-that
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/20/openai-releases-point-e-an-ai-that-generates-3d-models/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "OpenAI announces Point-E, a machine learning system that quickly creates 3D images from a text prompt"
+    excerpt: "A team of researchers at San Francisco-based OpenAI, has announced the development of a machine-learning system that can create 3D images from text much more quickly than other systems. The group has published a paper describing their new system,"
+    publishedDateTime: 2022-12-21T15:32:00Z
+    webUrl: "https://techxplore.com/news/2022-12-openai-point-e-machine-quickly-3d.html"
+    ampWebUrl: "https://techxplore.com/news/2022-12-openai-point-e-machine-quickly-3d.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-openai-point-e-machine-quickly-3d.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 39
   - title: "OpenAI develops AI system capable of generating 3D models"
     excerpt: "E, a new artificial intelligence system that can generate 3D models based on text prompts. The research group has made the code for POINT-E available on GitHub. There are multiple AI applications that can generate two-dimensional images based on a text description provided by a user."
     publishedDateTime: 2022-12-20T20:31:00Z

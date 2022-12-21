@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-21T14:02:00Z
 originalUrl: "https://appleinsider.com/articles/22/12/21/pixelmator-pro-adds-new-machine-learning-deband-feature"
 webUrl: "https://appleinsider.com/articles/22/12/21/pixelmator-pro-adds-new-machine-learning-deband-feature"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: AppleInsider

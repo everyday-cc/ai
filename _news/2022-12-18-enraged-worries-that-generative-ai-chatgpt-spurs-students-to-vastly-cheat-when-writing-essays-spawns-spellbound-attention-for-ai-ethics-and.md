@@ -23,61 +23,54 @@ topics:
   - AI Ethics
 
 related:
-  - title: "ChatGPT: What if students outsource all assignments to this AI tool?"
-    excerpt: "Educational institutions will have to figure out a way to integrate these advanced AI tools into learning without banning them, he says. “While it is still in its very early days, it is important for educational institutions to understand its strengths and limitations,"
-    publishedDateTime: 2022-12-17T12:33:00Z
-    webUrl: "https://bloncampus.thehindubusinessline.com/b-school-corner/chatgpt-what-if-students-outsource-all-assignments-to-this-ai-tool/article66276055.ece"
-    ampWebUrl: "https://bloncampus.thehindubusinessline.com/b-school-corner/chatgpt-what-if-students-outsource-all-assignments-to-this-ai-tool/article66276055.ece/amp/"
-    cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/b-school-corner/chatgpt-what-if-students-outsource-all-assignments-to-this-ai-tool/article66276055.ece/amp/"
+  - title: "Pointedly Asking Generative AI ChatGPT About Whether Santa Claus Is Real Proves To Be Eye-Opening, Including For AI Ethics And AI Law"
+    excerpt: "I went ahead and asked the popular generative AI app ChatGPT about whether Santa Claus is real or not. Doing so provides a bonanza of AI Ethics and AI Law considerations. Enjoy this during especially during the upcoming holidays!"
+    publishedDateTime: 2022-12-21T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/12/21/pointedly-asking-generative-ai-chatgpt-about-whether-santa-claus-is-real-proves-to-be-eye-opening-for-ai-ethics-and-ai-law/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/12/21/pointedly-asking-generative-ai-chatgpt-about-whether-santa-claus-is-real-proves-to-be-eye-opening-for-ai-ethics-and-ai-law/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/12/21/pointedly-asking-generative-ai-chatgpt-about-whether-santa-claus-is-real-proves-to-be-eye-opening-for-ai-ethics-and-ai-law/amp/"
     type: article
     provider:
-      name: bloncampus.thehindubusinessline
-      domain: thehindubusinessline.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 73
     images:
-      - url: "https://bloc-i.thgim.com/public/incoming/n7ji8/article66276057.ece/alternates/FREE_320/Generative%20AI.jpg"
-        width: 320
-        height: 239
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63a2d825fcaa8fcaba0c44d7/0x0.jpg?format=jpg&crop=1063,609,x94,y73,safe&width=1200"
+        width: 1063
+        height: 609
         isCached: true
-  - title: "All you need to know about ChatGPT, a prototype Artificial Intelligence chatbot"
-    excerpt: "ChatGPT is becoming your friend and guide on the Internet, giving advice and information almost like a human being. But can it be trusted?"
-    publishedDateTime: 2022-12-18T03:56:00Z
-    webUrl: "https://www.mid-day.com/sunday-mid-day/article/the-ai-will-see-you-now-23261139"
-    ampWebUrl: "https://www.mid-day.com/amp/sunday-mid-day/article/the-ai-will-see-you-now-23261139"
-    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/sunday-mid-day/article/the-ai-will-see-you-now-23261139"
+  - title: "This Generative AI Platform Empowers Marketing Teams to Generate Premium Videos"
+    excerpt: "Marketing teams know a thing or two about multitasking. From brand optimization, and content generation, to implementing strategies and tactics, their cross-functional roles are integral to the growth and success of every organization."
+    publishedDateTime: 2022-12-19T09:00:00Z
+    webUrl: "https://techbullion.com/this-generative-ai-platform-empowers-marketing-teams-to-generate-premium-videos/"
     type: article
     provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 53
+      name: Impacts
+      domain: techbullion.com
+    quality: 50
     images:
-      - url: "https://images.mid-day.com/images/images/2022/dec/Christmas-nh_d.jpg"
-        width: 1280
-        height: 720
+      - url: "https://techbullion.com/wp-content/uploads/2022/12/This-Generative-AI-Platform-Empowers-Marketing-Teams-to-Generate-Premium-Videos.jpg"
+        width: 700
+        height: 466
         isCached: true
-  - title: "ChatGPT is proof the AI chatbots are here to stay"
-    excerpt: "Chat GPT crashed. “I immediately feel like I lost 50 points of IQ,” tweeted one user. “Now I have to use search engines like cavemen did,” exclaimed"
-    publishedDateTime: 2022-12-18T00:00:00Z
-    webUrl: "https://www.thetimes.co.uk/article/006c4ae0-7d4c-11ed-a3d2-203363978915?shareToken=c8bf647aff7eb7655ef38ee11c47fe04"
+  - title: "From DALL-E 2 to ChatGPT, covering AI’s wild year | The AI Beat"
+    excerpt: "From DALL-E 2 to ChatGPT, the AI beat was challenging and overwhelming in 2022. It's been humbling. And awesome."
+    publishedDateTime: 2022-12-19T19:58:00Z
+    webUrl: "https://venturebeat.com/ai/from-dall-e-2-to-chatgpt-covering-ais-wild-year-the-ai-beat/"
     type: article
     provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F028dde28-7d61-11ed-a3d2-203363978915.jpg?crop=3000%2C1687%2C0%2C156&resize=1200"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "AI breakthrough ChatGPT raises alarm over student cheating"
-    excerpt: "Academics urge universities to develop new forms of assessment after launch of program that imitates essay-writing"
-    publishedDateTime: 2022-12-18T05:00:00Z
-    webUrl: "https://www.ft.com/content/2e97b7ce-8223-431e-a61d-1e462b6893c3"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "Machine Learning and AI - Changing the Anti-Money Laundering Solutions Game"
+    excerpt: "Money laundering is a crime that generates many costs, from financial losses through to human lives. In an effort to stem the tide of financial crime, financial institutions worldwide are now increasingly investing in AML Solutions."
+    publishedDateTime: 2022-12-21T14:46:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/sbwire-2022-12-21-machine-learning-and-ai-changing-the-anti-money-laundering-solutions-game"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 34
 
 secured: "6/LCY77Ic4aCLGOpyGsmm7CHUDOdlmsHPy6AXJvZV3D5LKYQFFZEOk6QC1ANKvG265LKGlCdDw1tbffgP0YhCs451Mr+jeYaYwQ0oZst2YaeE7re0u3LDTME5VHDljvRZ1Q0vGtfvw8hG0OELJt4+hglcfv7cYvB4lTmIpr81GFD3wuFU4NsxIxSXdWs0MUcN2CPw51MQJD9bff29YBTVAcwvVhSAbgUyLff0yIM+nHAMJuQ6sxe2hrEbTbQ+Q2c9aM/bgHzND00ZNFHnWu2PfUqTSKioeIHiL53RznuMQTOSHo220gabVBxpeVGLH6RUyXzVXqZtFkdixJVgRi8eobow75qaKeT2RebaTPUcE1OlnMESjxfMigQbLAMDM2X6m5wf+Mxzpo1PiHMhEzM85S4hOMRLGbDbaJS8FAbw5owSf022B1JboiA4fOEvND16uKfFVbedsqlP5nn4S27g74u8KF+wA9BWa3fgIPE9bY6i0ZCo/PJMEGuvuexmz5kWELxQkp7oyClqiX4fYXGgg==;GR9vRo3k7PEk7Ea0GuzSjw=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-21T13:02:00Z
 originalUrl: "https://www.androidauthority.com/fingerprint-scanners-face-unlock-poll-3250022/"
 webUrl: "https://www.androidauthority.com/fingerprint-scanners-face-unlock-poll-3250022/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Android Authority

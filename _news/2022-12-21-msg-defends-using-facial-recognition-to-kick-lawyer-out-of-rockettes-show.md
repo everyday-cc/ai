@@ -53,6 +53,15 @@ related:
         width: 828
         height: 610
         isCached: true
+  - title: "MSG Facial-Recognition Tech Gets Lawyer Kicked Out of Radio City Show"
+    excerpt: "The woman was reportedly separated from her daughter and escorted out of the venue because the tech identified her as working for a law firm in litigation with MSG Entertainment."
+    publishedDateTime: 2022-12-21T13:04:00Z
+    webUrl: "https://www.pcmag.com/news/msg-facial-recognition-tech-gets-lawyer-kicked-out-of-radio-city-show"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 34
 
 secured: "uGixzNUCbnuBV7A13/6ksG3TWgYOArZ6MUx4MaGZ766yypjVP/JfwCaS9RGlR1D5b3xWsXz0Z3uG/PPFiFToDSPI0eRwwNPC3vTV8OkPdin9kFGkbI64MYIvBRi3n1iirAalSRoin3DxyyAIVWGX0T3Tu1j2q9ydwwLSLnehdsnzZ5oA0AjKoUs1fSR+aaV7Iu6Lk26evahyVmDLc11MezsOokEE/YskCSQPevRPSAkcFe9AB8eqqdeOoNLmFQCSx4XDHmP2Jw4QmKCE14CxLOp487HGx8RG0Ne6uHsi8rT66iiAScKEq+szndj2Cpp9hRtc8jUGGlKkKfoqsb6o7AdKfzwBTKQW5nN3GzPtSmr1HnLODce72h6Xk1yPKGZnMjbZ6ltIePpDtujDObtBnLI72eBza7Jgxq9vxsds+LGakRIW4z2+g0xDlRGxydRxgVQ5BH1DThl6a9KU0tcReAMoC9QlMPuUAc3v1A/Daqn+7GFodL0qcjvFQjDeqrzSXfn5llcrjYqTNS90hbxAzw==;b36J9Yf3wpwzjVmQXOAILw=="
 ---

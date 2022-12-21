@@ -15,6 +15,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "o2fBKFDyB1dFfAt7DcqdlnW8JcTsqR3cEUQUj2hMn5adWkbtOlV2URtQg858E5J6/oB1m8gp6cnpkLQDOI0LvxafReCRAsvxY9xWkLut/g2W3G12zfT9d2oiVDRs6fENodeyK89F5fR5Tu+IuZ6uBxInjiHaHrPfXlQ+BmWxkoKMbHoI/WeBRToU2O5hq6ShxYZGXT0fO+U/TtDPUU1LJrZuBOCUgUmaZZW6PS77QP8AnwoGZqXbtIbtrUxIm4yFJg7hEqCg9qSIPaRWchyKyH6vmIg/HFCq7fVpLJ4aXJ7ZGpvfGBKvmiJ4vsZx+bVJSVJuE+XJKItKxcXWys79X5uGxa7Ykb/4vdhPXfWcUZ0=;6wnYIYiNEYSpgkw/Ze2K5Q=="
+images:
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--ChyNQ6ox--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-11-30t214432z_2_lynxmpeiat0y5_rtroptp_3_amazon-com-layoffs.jpg?itok=iZxgCCnS"
+    width: 1200
+    height: 676
+    isCached: true
+
+secured: "Ec+Sd2dRXM+onDBnRafaPLwb7eYrzHtjvQtYY+0+muRbitFsLqUetnyJ7qa1DbrjZ+uut8rHyb0iJu7mwGGOgAK6q9E1U2jqoueyqopoUmCflzSYDppBI7zVFnCblYkxKhAwaHKmzXVHEmp4E/Yb8KhKCm19MbrEr5imniuIxt2H6ce/rhOx92dTuBcxYrIiautbUKfboX+3cFfArv/irmfRv6PRjPJpXQ4HhmGKe55NJH+VFhNPGaK2xbET1wNh5jjSIrKXJahnro8CrUqE5Lf4KxoKzI0yhmjjxA+L11qd9dZHLmAGCXpYHVNcHnTQWi2OmbflAr4w3Z+nJyaAIhAuNzUs4WU/M4CEEgoG7aQ=;N4M6ZcmXKZXG+iv54aPUIA=="
 ---
 

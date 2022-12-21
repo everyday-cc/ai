@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/cloud/aws-star-innovative-solutions-bets-
 webUrl: "https://www.crn.com/news/cloud/aws-star-innovative-solutions-bets-on-red-hat-openshift-ai-and-cloud-migration-in-2023"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 611
     height: 459
     isCached: true
+
+related:
+  - title: "3 AI Trends IT Must Leverage For Innovation"
+    excerpt: "IT leaders keen on improving operational efficiency—and innovation—should familiarize themselves with AIOps, generative AI and TuringBots in 2023."
+    publishedDateTime: 2022-12-21T15:22:00Z
+    webUrl: "https://www.forbes.com/sites/delltechnologies/2022/12/21/3-ai-trends-it-must-leverage-for-innovation/"
+    ampWebUrl: "https://www.forbes.com/sites/delltechnologies/2022/12/21/3-ai-trends-it-must-leverage-for-innovation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2022/12/21/3-ai-trends-it-must-leverage-for-innovation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63a32fb59c83afbc840c44cf/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "High-frequency trading through artificial intelligence for financial innovation"
+    excerpt: "Professor Chien-Feng Huang, at the National University of Kaohsiung in Taiwan delves into high-frequency trading across Artificial Intelligence"
+    publishedDateTime: 2022-12-21T12:32:00Z
+    webUrl: "https://www.openaccessgovernment.org/article/high-frequency-trading-artificial-intelligence-financial-innovation/149943/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 33
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2022/12/dreamstime_xxl_137795293-scaled.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "FkgPrkmYPvar2FlqZUf1az642VgZTmbc1g6+fC0n3ekgUkPsTTT2gQv4i0NvOPcgcOnp9YJPBMmtyNdW/IKdm0ypouaj3uIS2O2UPJ7qmYm/vpSIZ02D8QymyGJW2xnEFsKy3Sb8G2WD2CARsApnKv79ba3w5Q0gi0Hv26N5FLlW/LAB67N8EX86/mtZNtFeuL7EoRB6P/SO53agchez9iAE55U2xVkOfJqDbMFIiXJ/p51wULiF+ywABdd1+ZY1NBh8nIC1ZLYFBaXAeG9Ipk4Ky1wiZLuPynG/ychyIMIKUzFxEPZWWrPvTnHEQE2GA3rFo9uZeddmgRM81EOw+lU+k+YGAUeUo3qkpw7roflBh3kf8d0VlDrWm5b49UJ5iHog/loFB4DYQeVCjIphFSMKONsMBdeChCnS0cUD8T5jsIJ/I+MgPtBmanClpKBhi5ogvUsQwt8lJfXKPTUIvbChONo/+JPkH6uwHpFxL6nW6l6Yu+J1c+3Ln5reG289r2gBL5Nv/6s5UQxwzDDrAw==;Sei/CjsqQL+PwU8UiCgEJQ=="
 ---

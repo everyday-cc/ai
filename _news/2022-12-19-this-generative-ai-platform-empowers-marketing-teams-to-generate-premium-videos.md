@@ -25,45 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "How Generative AI Will Change All Knowledge Work"
-    excerpt: "The acceleration of applications around generative AI is showing us how quickly and broadly our work will change."
-    publishedDateTime: 2022-12-18T12:30:00Z
-    webUrl: "https://time.com/charter/6242075/how-generative-ai-will-change-all-knowledge-work/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 69
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2022/12/image-7.png?w&#x3D;1600"
-        width: 1600
-        height: 1200
-        isCached: true
-  - title: "How to spot AI-generated text"
-    excerpt: "The internet is increasingly awash with text written by AI software. We need new tools to detect it. This sentence was written by an AI—or was it? OpenAI’s new chatbot, ChatGPT, presents us with a problem: How will we know whether what we read online ..."
-    publishedDateTime: 2022-12-19T10:32:00Z
-    webUrl: "https://www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/"
-    ampWebUrl: "https://www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/12/pencils2a_1.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "Three Ways To Become More Knowledgeable About AI"
-    excerpt: "AI technology, like many new and fast-moving technologies, presents a specific challenge to business leaders to think through how their business could be improved."
-    publishedDateTime: 2022-12-19T13:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/19/three-ways-to-become-more-knowledgeable-about-ai/"
+  - title: "Pointedly Asking Generative AI ChatGPT About Whether Santa Claus Is Real Proves To Be Eye-Opening, Including For AI Ethics And AI Law"
+    excerpt: "I went ahead and asked the popular generative AI app ChatGPT about whether Santa Claus is real or not. Doing so provides a bonanza of AI Ethics and AI Law considerations. Enjoy this during especially during the upcoming holidays!"
+    publishedDateTime: 2022-12-21T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/12/21/pointedly-asking-generative-ai-chatgpt-about-whether-santa-claus-is-real-proves-to-be-eye-opening-for-ai-ethics-and-ai-law/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/12/21/pointedly-asking-generative-ai-chatgpt-about-whether-santa-claus-is-real-proves-to-be-eye-opening-for-ai-ethics-and-ai-law/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/12/21/pointedly-asking-generative-ai-chatgpt-about-whether-santa-claus-is-real-proves-to-be-eye-opening-for-ai-ethics-and-ai-law/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 47
+    quality: 73
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63a2d825fcaa8fcaba0c44d7/0x0.jpg?format=jpg&crop=1063,609,x94,y73,safe&width=1200"
+        width: 1063
+        height: 609
+        isCached: true
   - title: "From DALL-E 2 to ChatGPT, covering AI’s wild year | The AI Beat"
     excerpt: "From DALL-E 2 to ChatGPT, the AI beat was challenging and overwhelming in 2022. It's been humbling. And awesome."
     publishedDateTime: 2022-12-19T19:58:00Z
@@ -73,20 +50,24 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "VCs say hybrid work, generative AI, and niche collaboration tools will be some of the top future-of-work trends that dominate 2023"
-    excerpt: "Between the pandemic, Great Resignation, and layoffs, workplaces have changed a lot. Here are the next future-of-work trends VCs say we can expect."
-    publishedDateTime: 2022-12-20T11:30:00Z
-    webUrl: "https://www.businessinsider.com/2023-future-of-work-trend-predictions-vcs-investors-2022-12"
+  - title: "Machine Learning and AI - Changing the Anti-Money Laundering Solutions Game"
+    excerpt: "Money laundering is a crime that generates many costs, from financial losses through to human lives. In an effort to stem the tide of financial crime, financial institutions worldwide are now increasingly investing in AML Solutions."
+    publishedDateTime: 2022-12-21T14:46:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/sbwire-2022-12-21-machine-learning-and-ai-changing-the-anti-money-laundering-solutions-game"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
-    images:
-      - url: "https://i.insider.com/639cbdd4b5600000185b1a21?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 34
+  - title: "Enraged Worries That Generative AI ChatGPT Spurs Students To Vastly Cheat When Writing Essays, Spawns Spellbound Attention For AI Ethics And AI Law"
+    excerpt: "Generative AI such as the ChatGPT app has gotten a huge backlash that students will readily now be able to cheat when writing essays and that we are doomed accordingly. We take a close look, considering both AI Ethics and AI Law considerations on this weighty concern."
+    publishedDateTime: 2022-12-18T11:59:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/12/18/enraged-worries-that-generative-ai-chatgpt-spurs-students-to-vastly-cheat-when-writing-essays-spawns-spellbound-attention-for-ai-ethics-and-ai-law/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 26
 
 secured: "n5xGOz63e0gn4PSlB0fMDWqwxu4+0AaPoixIHzX4dakqXHH0tbbocZAekjnUoLLm6efhRCWdbIosZH172OILRg9go7JCcVtzrSJrrGmQcYuOyZ2iYgbyzrTXiXihteMpjfZ/t1UsUBZj3R7eQawdtvEfE9uz6G+dw2oaP8qs7wfdeccrbwVb3BxkgBFhein1h+mTjwUiNdMrvsSzf/I2eLkgp3r3HrsgXpLOOo3V+DWXNzpGSGSSSnhhDKxJL20R8N+pLs0pa1Ss1l7A6Qpn6D8bMakC3u7nYP6/8KL1LDFJgMOMsPTk5FqF4GYTMNAFb27YHJrKhmVP4LbeP7ptrvoXIBLAEAS4CzWtrcrclFfSlUeFSh8HfLqOVCx4ygNeUh1KH5oWYXTYNJWogIS3DoRrSdgY9XijhiKCiJ5ee/evk7mnIMDcU+VNSFEQ/2kEl/JNjFtxXiVLDAMhasM2HoQgNCoN4u2MD4lRK3vo4JUukGgKVk/E+uWJIPvTZOJLH9xQftao+gWQGLaP94jbGw==;AZNIZa49sQv4Oh/uJQmkKw=="
 ---

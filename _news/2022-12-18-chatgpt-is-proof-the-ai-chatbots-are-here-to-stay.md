@@ -3,8 +3,8 @@ category: news
 title: "ChatGPT is proof the AI chatbots are here to stay"
 excerpt: "Chat GPT crashed. “I immediately feel like I lost 50 points of IQ,” tweeted one user. “Now I have to use search engines like cavemen did,” exclaimed"
 publishedDateTime: 2022-12-18T00:00:00Z
-originalUrl: "https://www.thetimes.co.uk/article/006c4ae0-7d4c-11ed-a3d2-203363978915?shareToken=c8bf647aff7eb7655ef38ee11c47fe04"
-webUrl: "https://www.thetimes.co.uk/article/006c4ae0-7d4c-11ed-a3d2-203363978915?shareToken=c8bf647aff7eb7655ef38ee11c47fe04"
+originalUrl: "https://www.thetimes.co.uk/article/chatgpt-is-proof-the-ai-chatbots-are-here-to-stay-6jhd2fbgf?shareToken=ef7b4fa70be33e29af1e523c0621c38f"
+webUrl: "https://www.thetimes.co.uk/article/chatgpt-is-proof-the-ai-chatbots-are-here-to-stay-6jhd2fbgf?shareToken=ef7b4fa70be33e29af1e523c0621c38f"
 type: article
 quality: 39
 heat: -1
@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT: What if students outsource all assignments to this AI tool?"
-    excerpt: "Educational institutions will have to figure out a way to integrate these advanced AI tools into learning without banning them, he says. “While it is still in its very early days, it is important for educational institutions to understand its strengths and limitations,"
-    publishedDateTime: 2022-12-17T12:33:00Z
-    webUrl: "https://bloncampus.thehindubusinessline.com/b-school-corner/chatgpt-what-if-students-outsource-all-assignments-to-this-ai-tool/article66276055.ece"
-    ampWebUrl: "https://bloncampus.thehindubusinessline.com/b-school-corner/chatgpt-what-if-students-outsource-all-assignments-to-this-ai-tool/article66276055.ece/amp/"
-    cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/b-school-corner/chatgpt-what-if-students-outsource-all-assignments-to-this-ai-tool/article66276055.ece/amp/"
+  - title: "Is There A ChatGPT Stock? Can You Invest In ChatGPT And Other Types Of Artificial Intelligence?"
+    excerpt: "Can you invest in ChatGPT? We look at this new, revolutionary product that OpenAI released and other readily available AI investment strategies."
+    publishedDateTime: 2022-12-21T15:55:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2022/12/21/is-there-a-chatgpt-stock-can-you-invest-in-chatgpt-and-other-types-of-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2022/12/21/is-there-a-chatgpt-stock-can-you-invest-in-chatgpt-and-other-types-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/12/21/is-there-a-chatgpt-stock-can-you-invest-in-chatgpt-and-other-types-of-artificial-intelligence/amp/"
     type: article
     provider:
-      name: bloncampus.thehindubusinessline
-      domain: thehindubusinessline.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 77
     images:
-      - url: "https://bloc-i.thgim.com/public/incoming/n7ji8/article66276057.ece/alternates/FREE_320/Generative%20AI.jpg"
-        width: 320
-        height: 239
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63a32f86ff6366182c36e6f0/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 728
         isCached: true
   - title: "All you need to know about ChatGPT, a prototype Artificial Intelligence chatbot"
     excerpt: "ChatGPT is becoming your friend and guide on the Internet, giving advice and information almost like a human being. But can it be trusted?"
@@ -57,15 +57,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Enraged Worries That Generative AI ChatGPT Spurs Students To Vastly Cheat When Writing Essays, Spawns Spellbound Attention For AI Ethics And AI Law"
-    excerpt: "Generative AI such as the ChatGPT app has gotten a huge backlash that students will readily now be able to cheat when writing essays and that we are doomed accordingly. We take a close look, considering both AI Ethics and AI Law considerations on this weighty concern."
-    publishedDateTime: 2022-12-18T11:59:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/12/18/enraged-worries-that-generative-ai-chatgpt-spurs-students-to-vastly-cheat-when-writing-essays-spawns-spellbound-attention-for-ai-ethics-and-ai-law/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 26
   - title: "AI breakthrough ChatGPT raises alarm over student cheating"
     excerpt: "Academics urge universities to develop new forms of assessment after launch of program that imitates essay-writing"
     publishedDateTime: 2022-12-18T05:00:00Z
@@ -75,7 +66,16 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
+  - title: "The Architecture Trends of 2023 According to ChatGPT, an AI-trained Model Bot"
+    excerpt: "As a symbol of what AI could achieve in the short term for architecture and humankind, we have 'talked' with OpenGPT about the architecture trends of 2023."
+    publishedDateTime: 2022-12-21T13:01:00Z
+    webUrl: "https://www.archdaily.com/994020/the-architecture-trends-of-2023-according-to-chatgpt-an-ai-trained-model-bot"
+    type: article
+    provider:
+      name: ArchDaily
+      domain: archdaily.com
+    quality: 16
 
-secured: "22mkqcgMESnbxB9EBkRzE8aNEGPdlBHIsNdwaPC/EtAOwyWiAja2O4zDzWDyi/9tagN+N/BCpQwVNyjt0iq9WjEJ8cYVW3n3P+/i83bjdnurO6rtKIEuCBVybMYj0zUvS0lP/AIsd3bUtAA8yj2jWGl3+O5U+xDpG12zWm/gysM7Vd+eioPQOftbaYuHkGaUPpUqeP9mtW/VdUDDyqj9MOCkQz1N/2bLq51kwlB507ZmJGznvK2hZbR2k/783BIPsVDSJaMh/9pfCQ0/oSQf7uFV0XviXfgCdcDV3GMp+XOh9vnZF6EGFSDF0QjyqZ5JE8C8EZTEju6nddoCHctmLLWWbM602ajXTRIbgaWKhoPG70pxtIGfpgP5bEjHgmNdqA0STWM5y1w6ub3cjHPRszmgf7OGXEAqF7jIqgZ0BhMUKDdCHxs/qpixAm2xCyU+0215goIQOWPdZGHHLkCljMCuNiNbNg0ZidQWyRynWurDvSkMW4kEAr5b5mtw7i2FCOBE6Il2tAVvDGhksD9WUA==;9TPhTKkP9fSVPZtuZgXnbA=="
+secured: "XZ64Q7Xqkg1L8T0k4xifoP0AGxdmSgwb2LpjnCuRqZGUsSyYdsdN7BY7LI2ENjMIMiQqQmevKsvYVBzN+X2TuAGU95lB4MnM2vk6nWY0PtbtnrCavzYUdyimRDWl1IP5DUpjKHaaumH3LdU0yj6jYtTwjh3HMB4fQJt+eC/2SeIVFEhR78IQwFpw79GxUNWFkZsxIM2D0IDtBx7iSFVFT7XwuyO8wFmlXcldmNtEdMO8JeejUH9qmE7EehNElSbPQtceHFaSQWSRZYZdM9wNZHZpyI+s3B1T6Jq603WqJQnTf2DyhWcAlGMTP9xhRpSQSEb2pul9kV9DHoQF1C6azStkjv29GPFNmk38EWOvD7E=;FNeGcOFdVsTKwq4zgcYAnQ=="
 ---
 

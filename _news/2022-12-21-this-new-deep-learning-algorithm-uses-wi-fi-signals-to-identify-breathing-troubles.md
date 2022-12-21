@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-21T13:21:00Z
 originalUrl: "https://interestingengineering.com/science/deep-learning-algorithm-wi-fi-signals"
 webUrl: "https://interestingengineering.com/science/deep-learning-algorithm-wi-fi-signals"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Interesting Engineering

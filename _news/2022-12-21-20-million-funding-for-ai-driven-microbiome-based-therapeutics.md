@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-21T13:01:00Z
 originalUrl: "https://www.forbes.com/sites/gilpress/2022/12/21/20-million-funding-for-ai-driven-microbiome-based-therapeutics/"
 webUrl: "https://www.forbes.com/sites/gilpress/2022/12/21/20-million-funding-for-ai-driven-microbiome-based-therapeutics/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

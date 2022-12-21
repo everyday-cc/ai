@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-21T14:00:00Z
 originalUrl: "https://venturebeat.com/ai/ai-for-business-communications-gets-boost-from-50m-investment/"
 webUrl: "https://venturebeat.com/ai/ai-for-business-communications-gets-boost-from-50m-investment/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

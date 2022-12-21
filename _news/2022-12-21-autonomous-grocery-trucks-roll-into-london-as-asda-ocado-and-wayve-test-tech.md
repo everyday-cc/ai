@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-21T12:22:00Z
 originalUrl: "https://www.forbes.com/sites/markfaithfull/2022/12/21/autonomous-grocery-trucks-roll-into-london-as-asda-ocado-and-wayve-test-tech/"
 webUrl: "https://www.forbes.com/sites/markfaithfull/2022/12/21/autonomous-grocery-trucks-roll-into-london-as-asda-ocado-and-wayve-test-tech/"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: Forbes

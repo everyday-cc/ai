@@ -52,29 +52,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "This Generative AI Platform Empowers Marketing Teams to Generate Premium Videos"
-    excerpt: "Marketing teams know a thing or two about multitasking. From brand optimization, and content generation, to implementing strategies and tactics, their cross-functional roles are integral to the growth and success of every organization."
-    publishedDateTime: 2022-12-19T09:00:00Z
-    webUrl: "https://techbullion.com/this-generative-ai-platform-empowers-marketing-teams-to-generate-premium-videos/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 50
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/12/This-Generative-AI-Platform-Empowers-Marketing-Teams-to-Generate-Premium-Videos.jpg"
-        width: 700
-        height: 466
-        isCached: true
-  - title: "From DALL-E 2 to ChatGPT, covering AI’s wild year | The AI Beat"
-    excerpt: "From DALL-E 2 to ChatGPT, the AI beat was challenging and overwhelming in 2022. It's been humbling. And awesome."
-    publishedDateTime: 2022-12-19T19:58:00Z
-    webUrl: "https://venturebeat.com/ai/from-dall-e-2-to-chatgpt-covering-ais-wild-year-the-ai-beat/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "VCs say hybrid work, generative AI, and niche collaboration tools will be some of the top future-of-work trends that dominate 2023"
     excerpt: "Between the pandemic, Great Resignation, and layoffs, workplaces have changed a lot. Here are the next future-of-work trends VCs say we can expect."
     publishedDateTime: 2022-12-20T11:30:00Z

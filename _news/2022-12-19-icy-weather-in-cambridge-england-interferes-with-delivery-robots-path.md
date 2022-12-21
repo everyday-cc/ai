@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-19T12:17:00Z
 originalUrl: "https://www.wwno.org/2022-12-19/icy-weather-in-cambridge-england-interferes-with-delivery-robots-path"
 webUrl: "https://www.wwno.org/2022-12-19/icy-weather-in-cambridge-england-interferes-with-delivery-robots-path"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: WWNO

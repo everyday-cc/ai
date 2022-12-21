@@ -50,6 +50,15 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 48
+  - title: "MSG Facial-Recognition Tech Gets Lawyer Kicked Out of Radio City Show"
+    excerpt: "The woman was reportedly separated from her daughter and escorted out of the venue because the tech identified her as working for a law firm in litigation with MSG Entertainment."
+    publishedDateTime: 2022-12-21T13:04:00Z
+    webUrl: "https://www.pcmag.com/news/msg-facial-recognition-tech-gets-lawyer-kicked-out-of-radio-city-show"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 34
 
 secured: "Cbw2u1F2Cdu0zeC/EMHIJyjg8CvkL6wfHj7kW4xTUCUO/0VjTJM3MmUSsS8pfCb9CiavC1zKjQIBCuNlMMXbwGEpGuiS5taovjhXh9hfk6hnx34PXMNdGNKd1sY1HKAltMwk5ET89fZAXeNMse0cQmMyQbBInRiPyH1HF3oPGlh6HtFOFL6nMyRQiC8wUuInNdH/ylRLi+S+oOHifVwv3xLSTyY0AE0POmxDlvJMXpDJd59xmYZRocgXxe4FdbOtXjqOyt5iACvdxV0wMwP+CHPk8TVXLSa4xsypWJ0c0F4F1P51FQXy/A1RhVdBhqsUxKP3kG9NsLV3LFAHQAM+wsg/VrV7LAXccXEUsmP2q52VIzEAHUDdwUuZGylQeysQhNw4ahvcahFVIMDaeZqukgd5U+BetKVlRPmJUdqrt/mycpNzvJacOxM+OAR88+WwIJzMBi4ivA8UdhIHLBfgeHYoB7yy1+TInRWX8CCEouZKQqplgFoPuRHRdwBwVKD+JU9DoUy+SYK0qWBUOxAgqw==;WrBFHq1Uhf9KORNr2E6zEQ=="
 ---

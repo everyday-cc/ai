@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-21T12:26:00Z
 originalUrl: "https://nocamels.com/2022/12/ai-raises-9m-to-predict-drug-safety-in-patients/"
 webUrl: "https://nocamels.com/2022/12/ai-raises-9m-to-predict-drug-safety-in-patients/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: NoCamels - Israeli Innovation News

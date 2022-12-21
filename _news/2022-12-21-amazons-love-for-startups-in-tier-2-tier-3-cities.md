@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-21T12:32:00Z
 originalUrl: "https://analyticsindiamag.com/amazons-love-for-startups-in-tier-2-tier-3-cities/"
 webUrl: "https://analyticsindiamag.com/amazons-love-for-startups-in-tier-2-tier-3-cities/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Analytics India Magazine
