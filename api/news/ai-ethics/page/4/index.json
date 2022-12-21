@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-09-22-startup-diveplane-wants-to-make-ai-ethical-ceo-explains-what-that-means.md",
+      "title": "Startup Diveplane wants to make AI ethical: CEO explains what that means",
+      "excerpt": "In today's world, artificial intelligence is used to make some big decisions. Colleges rely on it to admit students. Parole boards use it to approve or deny inmate releases.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-09-startup-diveplane-ai-ethical-ceo.html",
+      "originalUrl": "https://techxplore.com/news/2022-09-startup-diveplane-ai-ethical-ceo.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-2.jpg",
+          "width": 1920,
+          "height": 1633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-09-startup-diveplane-ai-ethical-ceo.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-startup-diveplane-ai-ethical-ceo.amp",
+      "publishedDateTime": "2022-09-21T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-21-unesco-urges-government-to-consider-ethics-of-ai-in-education-as-an-absolute-priority.md",
       "title": "UNESCO urges government to consider ethics of AI in education as an absolute priority",
       "excerpt": "The report analysed that the AI market in India has the potential to touch INR 780 crores by 2025 at a compound annual growth rate (CAGR) of 20.2% A report by the United Nations Educational, Scientific and Cultural Organisation (UNESCO) launched in Delhi on Tuesday encouraged an overall regulatory framework for use of artificial intelligence (AI) tools in education.",

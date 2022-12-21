@@ -56,20 +56,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Artificial intelligence searches an early sign of osteoarthritis from an X-ray image – might save from unnecessary treatments and examination"
-    excerpt: "Researchers from the University of Jyväskylä and the Central Finland Health Care District have developed an AI based neural network to detect an early knee osteoarthritis from x-ray images."
-    publishedDateTime: 2022-12-16T17:18:00Z
-    webUrl: "https://www.news-medical.net/news/20221216/Artificial-intelligence-searches-an-early-sign-of-osteoarthritis-from-an-X-ray-image-e28093-might-save-from-unnecessary-treatments-and-examination.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 6
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "TKzRgMhcP64qcta0DP9BZTuuXVyMjMwzHxDeXMmAOv1ejWC39udFoxp429PqRguav7n4E2kI+qaTXdRReflCUibL+8v3jaIsIfcCqZSN/xEMtvo6jel6IvkHZvgvlIHW9ipIgL1cU3OBtDHRvU+yOftt7kh5FcNg0+LrO1nFz+23/hrAIMJXfwPO8W6S2iXaWQjF+gDbUcMyC4FEH3xFgttRH6PqhspZXcqPqbHfxu8Qw/6SbHorEn5MVv8sie3f0RlClgad24HziJK1LIgmSuGE8VQAxihyTpAdSagIZaeHxtZZOxE41ImXsZeXtz1bFk15LI5n8Abq8iGTnjlqcRRzaydVL2xolm4B85ARtE0=;HPIRjL48DN/tBNV1o0Z4NQ=="
 ---

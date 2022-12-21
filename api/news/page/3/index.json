@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-12-17-phoenix-airport-1st-to-offer-self-driving-ride-service-waymo.md",
+      "title": "Phoenix airport 1st to offer self-driving ride service Waymo",
+      "excerpt": "As Phoenix gets ready to host the Super Bowl, Mayor Kate Gallego has announced Sky Harbor International Airport will be the world's first airport to offer the self-driving ride-hailing service Waymo",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/phoenix-airport-1st-offer-driving-ride-service-waymo-95427526",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/phoenix-airport-1st-offer-driving-ride-service-waymo-95427526",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/221216_vod_onlocation_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/phoenix-airport-1st-offer-driving-ride-service-waymo-95427526",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/phoenix-airport-1st-offer-driving-ride-service-waymo-95427526",
+      "publishedDateTime": "2022-12-16T09:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-17-ai-healthcare-bottlenecks-and-how-to-get-through-them.md",
+      "title": "AI healthcare bottlenecks (and how to get through them)",
+      "excerpt": "What are the biggest challenges facing the increasing use of AI in healthcare? Find out — and learn some solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-healthcare-bottlenecks-and-how-to-get-through-them/",
+      "originalUrl": "https://venturebeat.com/ai/ai-healthcare-bottlenecks-and-how-to-get-through-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/ai-weekly-feature-image-ai-and-healthcare.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-healthcare-bottlenecks-and-how-to-get-through-them/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-healthcare-bottlenecks-and-how-to-get-through-them/amp/",
+      "publishedDateTime": "2022-12-16T09:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-12-16-how-safe-do-cities-feel-machine-learning-techniques-could-help-find-out.md",
       "title": "How Safe Do Cities Feel? Machine Learning Techniques Could Help Find Out!",
       "excerpt": "The career path of Colombian physicist Luisa Fernanda Chaparro Sierra took her from studying the Higgs Boson at CERN, to using similar machine learning techniques to gauge perceptions of crime in the Colombian capital of Bogota.",
@@ -729,6 +825,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-16-ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations.md",
+      "title": "AI-generated fake faces have become a hallmark of online influence operations",
+      "excerpt": "As artificial intelligence becomes more widely available, bad actors are turning to computer-generated faces in their attempts to manipulate social media networks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.iowapublicradio.org/news-from-npr/2022-12-15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations",
+      "originalUrl": "https://www.iowapublicradio.org/news-from-npr/2022-12-15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/1e1259e/2147483647/strip/true/crop/3000x1688+0+156/resize/480x270!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F12%2F14%2F20221206-_dsc0676-edit_slide-011681f1256177f8bdb78cf455d05204f9f45d5b.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.iowapublicradio.org/news-from-npr/2022-12-15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations?_amp=true",
+      "cdnAmpWebUrl": "https://www-iowapublicradio-org.cdn.ampproject.org/c/s/www.iowapublicradio.org/news-from-npr/2022-12-15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations?_amp=true",
+      "publishedDateTime": "2022-12-15T15:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Iowa Public Radio",
+        "domain": "iowapublicradio.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-16-stability-ai-plans-to-let-artists-opt-out-of-stable-diffusion-3-image-training.md",
       "title": "Stability AI plans to let artists opt out of Stable Diffusion 3 image training",
       "excerpt": "Stability AI announced it would allow artists to remove their work from the training dataset for an upcoming Stable Diffusion 3.0 release. The move comes as an artist advocacy group called Spawning tweeted that Stability AI would honor opt-out requests collected on its The details of how the plan will be implemented remain incomplete and unclear,",
@@ -1054,153 +1193,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations.md",
-      "title": "AI-generated fake faces have become a hallmark of online influence operations",
-      "excerpt": "As artificial intelligence becomes more widely available, bad actors are turning to computer-generated faces in their attempts to manipulate social media networks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.knau.org/npr-news/2022-12-15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations",
-      "originalUrl": "https://www.knau.org/npr-news/2022-12-15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://npr.brightspotcdn.com/dims4/default/f858da0/2147483647/strip/true/crop/5028x2640+0+356/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F12%2F15%2Fgettyimages-1394271231-1-_slide-f32afdc5778b2c450f3b8322b684688e8d1d638d.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-15T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KNAU Arizona Public Radio",
-        "domain": "knau.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-artificial-intelligence-will-help-social-media-radically-evolve-in-2023.md",
-      "title": "Artificial Intelligence Will Help Social Media Radically Evolve In 2023",
-      "excerpt": "Artificial intelligence might become much more viable in 2023, even if recent history has not been that positive. Sure, Twitter became a hot topic in 2022 for all of the wrong reasons. Some have argued that social media is dead or dying.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnbbrandon/2022/12/15/artificial-intelligence-will-help-social-media-radically-evolve-in-2023/",
-      "originalUrl": "https://www.forbes.com/sites/johnbbrandon/2022/12/15/artificial-intelligence-will-help-social-media-radically-evolve-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/639b5b9e36621a9dd42f2a94/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnbbrandon/2022/12/15/artificial-intelligence-will-help-social-media-radically-evolve-in-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2022/12/15/artificial-intelligence-will-help-social-media-radically-evolve-in-2023/amp/",
-      "publishedDateTime": "2022-12-15T08:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-stability-ai-to-honor-artist-opt-out-requests-for-stable-diffusion-3.md",
-      "title": "Stability AI to honor artist opt-out requests for Stable Diffusion 3",
-      "excerpt": "Stability AI says it will honor artist requests to opt-out of Stable Diffusion 3 training. Will it matter, for artists or the AI model?",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/stability-ai-to-honor-artist-opt-out-requests-for-stable-diffusion-3/",
-      "originalUrl": "https://venturebeat.com/ai/stability-ai-to-honor-artist-opt-out-requests-for-stable-diffusion-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/12/image-3-e1671118819436.png?w=1200&strip=all",
-          "width": 768,
-          "height": 572,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/stability-ai-to-honor-artist-opt-out-requests-for-stable-diffusion-3/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stability-ai-to-honor-artist-opt-out-requests-for-stable-diffusion-3/amp/",
-      "publishedDateTime": "2022-12-15T08:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

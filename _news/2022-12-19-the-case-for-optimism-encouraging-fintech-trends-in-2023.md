@@ -36,34 +36,6 @@ related:
       name: BusinessWorld
       domain: bworldonline.com
     quality: 39
-  - title: "Patrick Sells' new gig: helping banks innovate and find fintech partners"
-    excerpt: "The former chief innovation officer at Quontic Bank and American Banker's 2020 Digital Banker of the Year is offering seminars, a bank-fintech matchmaking platform and fintech investment fund."
-    publishedDateTime: 2022-12-16T18:02:00Z
-    webUrl: "https://www.americanbanker.com/news/patrick-sells-new-gig-helping-banks-innovate-and-find-fintech-partners"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 38
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/042c2d9/2147483647/strip/true/crop/1400x735+0+34/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F1e%2F50%2Fdf3ece014ce1af3aef905050ccff%2Fpatrick-sells.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Patrick Sells's new gig: Helping banks innovate and find fintech partners"
-    excerpt: "The former chief innovation officer at Quontic Bank and American Banker's 2020 Digital Banker of the Year is offering seminars, a bank-fintech matchmaking platform and a fintech investment fund."
-    publishedDateTime: 2022-12-16T18:02:00Z
-    webUrl: "https://www.americanbanker.com/news/patrick-sells-new-gig-helping-banks-innovate-and-find-fintech-partners"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 38
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/042c2d9/2147483647/strip/true/crop/1400x735+0+34/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F1e%2F50%2Fdf3ece014ce1af3aef905050ccff%2Fpatrick-sells.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Salter Brothers tips into payments fintech IP Solutions"
     excerpt: "Ex-Bombora stockpicker Gregg Taylor has ruled off his first unlisted investment in his new role as head of equities at Salter Brothers."
     publishedDateTime: 2022-12-19T03:47:00Z

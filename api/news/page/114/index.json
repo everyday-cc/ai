@@ -2,6 +2,135 @@
   "page": 114,
   "value": [
     {
+      "path": "_news/2022-09-14-researchers-combine-data-science-and-machine-learning-techniques-to-improve-traditional-mri-image-reconstruction.md",
+      "title": "Researchers combine data science and machine learning techniques to improve traditional MRI image reconstruction",
+      "excerpt": "University of Minnesota Twin Cities researchers have found a way to improve the performance of traditional Magnetic Resonance Imaging (MRI) reconstruction techniques, allowing for faster MRIs without relying on the use of newer deep learning methods.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/964576",
+      "originalUrl": "https://www.eurekalert.org/news-releases/964576",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-using-artificial-intelligence-to-improve-tuberculosis-treatments.md",
+      "title": "Using artificial intelligence to improve tuberculosis treatments",
+      "excerpt": "Imagine you have 20 new compounds that have shown some effectiveness in treating a disease like tuberculosis (TB), which affects 10 million people worldwide and kills 1.5 million each year.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.html",
+      "originalUrl": "https://phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/using-artificial-intel-9.jpg",
+          "width": 2880,
+          "height": 2225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-artificial-intelligence-tuberculosis-treatments.amp",
+      "publishedDateTime": "2022-09-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-dynatrace-ceo-rick-mcconnell-on-why-observability-matters-and-how-its-unique.md",
+      "title": "Dynatrace CEO, Rick McConnell, On Why Observability Matters And How Its Unique",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives into a recent conversation with Rick McConnell, Dynatrace CEO. Now, Rick has software that purports to avert the doomsday scenario. In this article, Patrick discusses why observability has become so important.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/09/13/dynatrace-ceo-rick-mcconnell-on-why-observability-matters-and-how-its-unique/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/09/13/dynatrace-ceo-rick-mcconnell-on-why-observability-matters-and-how-its-unique/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/632105023c3f68c5761b8dcc/0x0.jpg?format=jpg&width=1200",
+          "width": 824,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/09/13/dynatrace-ceo-rick-mcconnell-on-why-observability-matters-and-how-its-unique/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/09/13/dynatrace-ceo-rick-mcconnell-on-why-observability-matters-and-how-its-unique/amp/",
+      "publishedDateTime": "2022-09-13T15:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-how-ai-is-being-developed-at-opm-for-cybersecurity-threats.md",
       "title": "How AI is Being Developed at OPM for Cybersecurity Threats",
       "excerpt": "AI in Government event with featured guest speaker Melvin Brown II, Deputy Chief Information Officer in the U.S. Office of Personnel Management and his presentation ‘How… Read More",
@@ -1060,127 +1189,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-ccc-intelligent-solutions-recognized-in-prestigious-idc-fintech-rankings-real-results.md",
-      "title": "CCC Intelligent Solutions Recognized in Prestigious IDC FinTech Rankings Real Results",
-      "excerpt": "CCC Intelligent Solutions Inc. (CCC), a leading SaaS platform powering the P&C insurance economy, has been named a top 100 financial technology provider by market intelligence firm IDC as part of their 19th annual IDC FinTech Ranking Real Results program.",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/ccc-intelligent-solutions-recognized-in-prestigious-idc-fintech-rankings-real-results/article_051a4f87-8b00-5e38-8bad-4b2e6fa0b3be.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/ccc-intelligent-solutions-recognized-in-prestigious-idc-fintech-rankings-real-results/article_051a4f87-8b00-5e38-8bad-4b2e6fa0b3be.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg",
-          "width": 350,
-          "height": 456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-ccc-intelligent-solutions-wins-2022-idc-fintech-rankings-real-results-award-for-ccc-safekeep.md",
-      "title": "CCC Intelligent Solutions Wins 2022 IDC FinTech Rankings Real Results Award for CCC® Safekeep",
-      "excerpt": "The AI-Powered Subrogation Platform Recognized for its Work with Root Insurance CCC Intelligent Solutions Inc. (CCC), a leading SaaS platform powering the P&C insurance economy, announced today it is",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/b28850758/ccc-intelligent-solutions-wins-2022-idc-fintech-rankings-real-results-award-for-ccc-safekeep",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/b28850758/ccc-intelligent-solutions-wins-2022-idc-fintech-rankings-real-results-award-for-ccc-safekeep",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/18171934/email-1.jpg",
-          "width": 700,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28850758",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28850758",
-      "publishedDateTime": "2022-09-13T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-13-verisilicon-ai-isp-delivers-innovative-image-quality-enhancement-that-breaks-the-limits-of-computer-vision.md",
-      "title": "VeriSilicon AI-ISP Delivers Innovative Image Quality Enhancement that Breaks the Limits of Computer Vision",
-      "excerpt": "Low-power, low-latency and low-DDR bandwidth image quality upgrades enabled by VeriSilicon FLEXA VeriSilicon (688521.SH), a leading Silicon Platform as a Service (SiPaaS) company, today announced",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-09/57045723-verisilicon-ai-isp-delivers-innovative-image-quality-enhancement-that-breaks-the-limits-of-computer-vision-004.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-09/57045723-verisilicon-ai-isp-delivers-innovative-image-quality-enhancement-that-breaks-the-limits-of-computer-vision-004.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

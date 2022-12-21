@@ -64,6 +64,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "From DALL-E 2 to ChatGPT, covering AI’s wild year | The AI Beat"
+    excerpt: "From DALL-E 2 to ChatGPT, the AI beat was challenging and overwhelming in 2022. It's been humbling. And awesome."
+    publishedDateTime: 2022-12-19T19:58:00Z
+    webUrl: "https://venturebeat.com/ai/from-dall-e-2-to-chatgpt-covering-ais-wild-year-the-ai-beat/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "VCs say hybrid work, generative AI, and niche collaboration tools will be some of the top future-of-work trends that dominate 2023"
     excerpt: "Between the pandemic, Great Resignation, and layoffs, workplaces have changed a lot. Here are the next future-of-work trends VCs say we can expect."
     publishedDateTime: 2022-12-20T11:30:00Z

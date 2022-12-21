@@ -43,22 +43,6 @@ related:
         width: 2400
         height: 1350
         isCached: true
-  - title: "The Current State of AI in Healthcare and Where It's Going in 2023"
-    excerpt: "Artificial intelligence is helping doctors diagnose and manage kidney disease and improving diagnostics and analysis of patient data."
-    publishedDateTime: 2022-12-16T17:18:00Z
-    webUrl: "https://healthtechmagazine.net/article/2022/12/ai-healthcare-2023-ml-nlp-more-perfcon"
-    ampWebUrl: "https://healthtechmagazine.net/article/2022/12/ai-healthcare-2023-ml-nlp-more-perfcon?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2022/12/ai-healthcare-2023-ml-nlp-more-perfcon?amp"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 74
-    images:
-      - url: "https://healthtechmagazine.net/themes/cdw/images/audio/cdw_healthtech_audio.png"
-        width: 772
-        height: 409
-        isCached: true
   - title: "Top 10 artificial intelligence stories of 2022"
     excerpt: "IT strategies have become more data-centric. We look at how this has played out in 2022, with artificial intelligence (AI) deployments."
     publishedDateTime: 2022-12-19T04:00:00Z

@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-09-09-boston-startup-gets-new-money-to-make-industrial-robots-easier-to-use.md",
+      "title": "Boston startup gets new money to make industrial robots easier to use",
+      "excerpt": "Although Konidaris got his doctorate in computer science at UMass Amherst and spent several years at MIT’s Artificial Intelligence ... But when it was time to start a company, Konidaris returned ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonglobe.com/2022/09/08/business/boston-startup-choreographing-robots-gets-new-money/",
+      "originalUrl": "https://www.bostonglobe.com/2022/09/08/business/boston-startup-choreographing-robots-gets-new-money/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/1uiaMUlvHKlDkbUjgxnww4WKfBg=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/5TM44GFYIFJ6FRS7O4WSMG252A.JPG",
+          "width": 506,
+          "height": 269,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-08T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Boston Globe",
+        "domain": "bostonglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-09-el-paso-artist-diego-robot-martinezs-exhibition-explores-peace-love-dope-death.md",
       "title": "El Paso artist Diego 'Robot' Martinez's exhibition explores 'Peace Love Dope Death'",
       "excerpt": "Diego \"Robot\" Martinez's art show, “Peace Love Dope Death,” will be from 6 to 11 p.m. Friday through Sunday, with food trucks, a light show and music.",

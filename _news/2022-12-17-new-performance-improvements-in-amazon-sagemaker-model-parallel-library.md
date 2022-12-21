@@ -43,34 +43,6 @@ related:
         width: 2000
         height: 1001
         isCached: true
-  - title: "Best practices for Amazon SageMaker Training Managed Warm Pools"
-    excerpt: "Amazon SageMaker Training Managed Warm Pools gives you the flexibility to opt in to reuse and hold on to the underlying infrastructure for a user-defined period of time. This is done while also maintaining the benefit of passing the undifferentiated heavy lifting of managing compute instances in to Amazon"
-    publishedDateTime: 2022-12-16T18:30:04Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/best-practices-for-amazon-sagemaker-training-managed-warm-pools/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/16/best-practices-for-amazon-sagemaker-training-managed-warm-pools.jpg"
-        width: 1564
-        height: 781
-        isCached: true
-  - title: "Augment fraud transactions using synthetic data in Amazon SageMaker"
-    excerpt: "Developing and training successful machine learning (ML) fraud models requires access to large amounts of high-quality data. Sourcing this data is challenging because available datasets are sometimes not large enough or sufficiently unbiased to usefully train the ML model and may require significant"
-    publishedDateTime: 2022-12-16T17:42:02Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/augment-fraud-transactions-using-synthetic-data-in-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/16/augment-fraud-transactions-sagemaker.jpg"
-        width: 1565
-        height: 781
-        isCached: true
 
 secured: "jd4n/9Hgu2pRN0T5pAZ9SVYq3Ss50yPINTefIjFuW3sHR7KmPN1YmBbU25tB/PrrmRdCBLYeMtRYxTh1MOzR2JF/oqT6iHFlqzRtVqTOkfC90fdbgJmGS7sx6PgkCv0Mngdk71a9ly6M5HJbMifEYU7nfLr7le/IwVfXwit5ZMucQeHhGM6McYvxll+eC7DZfEVtlyp9Gxjbgo7RRVRNZZTM8Ryh3KKwAVoTUlZhtmBOw5LSPmXwwCJP48r7KnzSD9fU3C8vG5Tijz/Ohjap6syTMpuIfVkJ6INogvBx9+02hcrJfYcF3HZl0TyhDmnOi9EX/7XulqvZZXlHRJYND7MqoTiPgQZPjBlUf3xdgJU=;S5aMeZFxfFrvX6zNfmBnhQ=="
 ---

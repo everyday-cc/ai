@@ -23,21 +23,21 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Conversing with my AI friend ChatGPT | The DeanBeat"
-    excerpt: "Dean Takahashi tried out the Vana AI generative art program and it spit out dozens of painterly images. He tried out ChatGPT too."
-    publishedDateTime: 2022-12-16T18:28:00Z
-    webUrl: "https://venturebeat.com/games/conversing-with-my-ai-friend-chatgpt-the-deanbeat/"
-    ampWebUrl: "https://venturebeat.com/games/conversing-with-my-ai-friend-chatgpt-the-deanbeat/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/conversing-with-my-ai-friend-chatgpt-the-deanbeat/amp/"
+  - title: "ChatGPT: What if students outsource all assignments to this AI tool?"
+    excerpt: "Educational institutions will have to figure out a way to integrate these advanced AI tools into learning without banning them, he says. “While it is still in its very early days, it is important for educational institutions to understand its strengths and limitations,"
+    publishedDateTime: 2022-12-17T12:33:00Z
+    webUrl: "https://bloncampus.thehindubusinessline.com/b-school-corner/chatgpt-what-if-students-outsource-all-assignments-to-this-ai-tool/article66276055.ece"
+    ampWebUrl: "https://bloncampus.thehindubusinessline.com/b-school-corner/chatgpt-what-if-students-outsource-all-assignments-to-this-ai-tool/article66276055.ece/amp/"
+    cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/b-school-corner/chatgpt-what-if-students-outsource-all-assignments-to-this-ai-tool/article66276055.ece/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: bloncampus.thehindubusinessline
+      domain: thehindubusinessline.com
+    quality: 59
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/12/dean-vana-2.jpg?w=1200&strip=all"
-        width: 1200
-        height: 801
+      - url: "https://bloc-i.thgim.com/public/incoming/n7ji8/article66276057.ece/alternates/FREE_320/Generative%20AI.jpg"
+        width: 320
+        height: 239
         isCached: true
   - title: "All you need to know about ChatGPT, a prototype Artificial Intelligence chatbot"
     excerpt: "ChatGPT is becoming your friend and guide on the Internet, giving advice and information almost like a human being. But can it be trusted?"
@@ -55,15 +55,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "From DALL-E 2 to ChatGPT, covering AI’s wild year | The AI Beat"
-    excerpt: "From DALL-E 2 to ChatGPT, the AI beat was challenging and overwhelming in 2022. It's been humbling. And awesome."
-    publishedDateTime: 2022-12-19T19:58:00Z
-    webUrl: "https://venturebeat.com/ai/from-dall-e-2-to-chatgpt-covering-ais-wild-year-the-ai-beat/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "ChatGPT is proof the AI chatbots are here to stay"
     excerpt: "Chat GPT crashed. “I immediately feel like I lost 50 points of IQ,” tweeted one user. “Now I have to use search engines like cavemen did,” exclaimed"
     publishedDateTime: 2022-12-18T00:00:00Z

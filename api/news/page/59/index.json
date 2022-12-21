@@ -2,6 +2,134 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2022-10-31-ai-and-human-contact-make-large-workforce-wellbeing-possible.md",
+      "title": "AI and human contact make large workforce wellbeing possible",
+      "excerpt": "Through SCG, a full-service consultancy providing expertise, resources, training, well-being diagnostic tools, and a combination of human and AI technology, employers can identify and resolve well ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.stuff.co.nz/business/better-business/130209975/ai-and-human-contact-make-large-workforce-wellbeing-possible",
+      "originalUrl": "https://www.stuff.co.nz/business/better-business/130209975/ai-and-human-contact-make-large-workforce-wellbeing-possible",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resources.stuff.co.nz/content/dam/images/2/5/i/u/q/u/image.related.StuffLandscapeSixteenByNine.1420x800.25iunr.png/1666131759532.jpg",
+          "width": 1416,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-30T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stuff.co.nz",
+        "domain": "stuff.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-31-history-of-ai-in-33-breakthroughs-the-first-thinking-machine.md",
+      "title": "History Of AI In 33 Breakthroughs: The First ‘Thinking Machine’",
+      "excerpt": "Catalan poet and theologian Ramon Llull perfected in 1308 his method of using paper-based mechanical means to create new knowledge from combinations of concepts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2022/10/30/history-of-ai-in-33-breakthroughs-the-first-thinking-machine/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2022/10/30/history-of-ai-in-33-breakthroughs-the-first-thinking-machine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/635eef10995a5ba1a8046ff3/0x0.jpg?format=jpg&crop=2200,1238,x0,y138,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2022/10/30/history-of-ai-in-33-breakthroughs-the-first-thinking-machine/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/10/30/history-of-ai-in-33-breakthroughs-the-first-thinking-machine/amp/",
+      "publishedDateTime": "2022-10-30T14:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-31-azure-cosmos-db-low-latency-and-high-availability-at-planet-scale.md",
+      "title": "Azure Cosmos DB: Low Latency and High Availability at Planet Scale",
+      "excerpt": "Mei-Chin Tsai and Vinod Sridharan spoke at QCon San Francisco on Azure Cosmos DB: Low Latency and High Availability at Planet Scale. The talk was part of the \"Architectures You've Always Wondered About\" track. After introductions, Tsai started the talk by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2022/10/azure-cosmos-database-service/",
+      "originalUrl": "https://www.infoq.com/news/2022/10/azure-cosmos-database-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-30T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-31-microsoft-introduces-azure-savings-plans-for-compute.md",
       "title": "Microsoft Introduces Azure Savings Plans for Compute",
       "excerpt": "Microsoft recently announced Azure Savings Plans for Compute, providing customers with an easy and flexible way to save significantly on compute services compared to pay-as-you-go prices by ...",
@@ -1011,134 +1139,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-29-chinas-new-intelligent-ev-company-jidu-launches-its-limited-edition-robocar-called-the-robo-01-lunar-edition.md",
-      "title": "China's New Intelligent EV company JIDU Launches its Limited-Edition Robocar Called the ‘ROBO-01 Lunar Edition'",
-      "excerpt": "Baidu-backed Chinese electric vehicle company Jidu officially launched its first vehicle, the limited-edition “ROBO-01 Lunar Edition”. It’s a futuristic EV that comes packed with advanced technology and “point-to-point Autopilot” (PPA) autonomous driving capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.futurecar.com/5581/China’s-New-Intelligent-EV-company-JIDU-Launches-its-Limited-Edition-Robocar-Called-the-‘ROBO-01-Lunar-Edition’",
-      "originalUrl": "https://www.futurecar.com/5581/China’s-New-Intelligent-EV-company-JIDU-Launches-its-Limited-Edition-Robocar-Called-the-‘ROBO-01-Lunar-Edition’",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.futurecar.com/202210/28/l_635c2286a71c6.png",
-          "width": 800,
-          "height": 401,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-28T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "futurecar",
-        "domain": "futurecar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-29-automotive-display-market-is-set-to-grow-at-a-rapid-pace-by-securing-a-vital-spot-in-the-driverless-revolution-market-decipher.md",
-      "title": "Automotive Display Market is set to grow at a rapid pace by securing a vital spot in the driverless revolution: Market Decipher",
-      "excerpt": "Pune, Oct. 28, 2022 (GLOBE NEWSWIRE) -- Market decipher has published its report on the \"Automotive Display Market\" Size, Statistics, Growth Trend Analysis, and Forecast Report, 2022 – 2032 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/g29463734/automotive-display-market-is-set-to-grow-at-a-rapid-pace-by-securing-a-vital-spot-in-the-driverles",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/g29463734/automotive-display-market-is-set-to-grow-at-a-rapid-pace-by-securing-a-vital-spot-in-the-driverles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29463734",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29463734",
-      "publishedDateTime": "2022-10-28T11:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-tomiai-selected-for-google-for-startups-cloud-program.md",
-      "title": "Tomi.ai Selected for Google for Startups Cloud Program",
-      "excerpt": "Company's Predictive Targeting Technology Strengthens Digital Customer AcquisitionPALO ALTO, Calif., Oct. 28, 2022 /PRNewswire/ -- Tomi.ai, a",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tomi-ai-selected-for-google-for-startups-cloud-program-1031848739",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/tomi-ai-selected-for-google-for-startups-cloud-program-1031848739",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1932593/Konstantin_Bayandin_Dmitry_Popov_Tomi_ai.jpg",
-          "width": 400,
-          "height": 246,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-28T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

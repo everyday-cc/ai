@@ -22,70 +22,73 @@ topics:
   - AI
 
 related:
-  - title: "Conversing with my AI friend ChatGPT | The DeanBeat"
-    excerpt: "Dean Takahashi tried out the Vana AI generative art program and it spit out dozens of painterly images. He tried out ChatGPT too."
-    publishedDateTime: 2022-12-16T18:28:00Z
-    webUrl: "https://venturebeat.com/games/conversing-with-my-ai-friend-chatgpt-the-deanbeat/"
-    ampWebUrl: "https://venturebeat.com/games/conversing-with-my-ai-friend-chatgpt-the-deanbeat/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/conversing-with-my-ai-friend-chatgpt-the-deanbeat/amp/"
+  - title: "How Generative AI Will Change All Knowledge Work"
+    excerpt: "The acceleration of applications around generative AI is showing us how quickly and broadly our work will change."
+    publishedDateTime: 2022-12-18T12:30:00Z
+    webUrl: "https://time.com/charter/6242075/how-generative-ai-will-change-all-knowledge-work/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Time
+      domain: time.com
+    quality: 69
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/12/dean-vana-2.jpg?w=1200&strip=all"
-        width: 1200
-        height: 801
+      - url: "https://api.time.com/wp-content/uploads/2022/12/image-7.png?w&#x3D;1600"
+        width: 1600
+        height: 1200
         isCached: true
-  - title: "All you need to know about ChatGPT, a prototype Artificial Intelligence chatbot"
-    excerpt: "ChatGPT is becoming your friend and guide on the Internet, giving advice and information almost like a human being. But can it be trusted?"
-    publishedDateTime: 2022-12-18T03:56:00Z
-    webUrl: "https://www.mid-day.com/sunday-mid-day/article/the-ai-will-see-you-now-23261139"
-    ampWebUrl: "https://www.mid-day.com/amp/sunday-mid-day/article/the-ai-will-see-you-now-23261139"
-    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/sunday-mid-day/article/the-ai-will-see-you-now-23261139"
+  - title: "How to spot AI-generated text"
+    excerpt: "The internet is increasingly awash with text written by AI software. We need new tools to detect it. This sentence was written by an AI—or was it? OpenAI’s new chatbot, ChatGPT, presents us with a problem: How will we know whether what we read online ..."
+    publishedDateTime: 2022-12-19T10:32:00Z
+    webUrl: "https://www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/"
+    ampWebUrl: "https://www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/amp/"
     type: article
     provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 53
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
     images:
-      - url: "https://images.mid-day.com/images/images/2022/dec/Christmas-nh_d.jpg"
-        width: 1280
-        height: 720
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/12/pencils2a_1.jpeg?w=3000"
+        width: 3000
+        height: 1688
         isCached: true
-  - title: "ChatGPT is proof the AI chatbots are here to stay"
-    excerpt: "Chat GPT crashed. “I immediately feel like I lost 50 points of IQ,” tweeted one user. “Now I have to use search engines like cavemen did,” exclaimed"
-    publishedDateTime: 2022-12-18T00:00:00Z
-    webUrl: "https://www.thetimes.co.uk/article/006c4ae0-7d4c-11ed-a3d2-203363978915?shareToken=c8bf647aff7eb7655ef38ee11c47fe04"
+  - title: "This Generative AI Platform Empowers Marketing Teams to Generate Premium Videos"
+    excerpt: "Marketing teams know a thing or two about multitasking. From brand optimization, and content generation, to implementing strategies and tactics, their cross-functional roles are integral to the growth and success of every organization."
+    publishedDateTime: 2022-12-19T09:00:00Z
+    webUrl: "https://techbullion.com/this-generative-ai-platform-empowers-marketing-teams-to-generate-premium-videos/"
     type: article
     provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
+      name: Impacts
+      domain: techbullion.com
+    quality: 50
     images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F028dde28-7d61-11ed-a3d2-203363978915.jpg?crop=3000%2C1687%2C0%2C156&resize=1200"
-        width: 1200
-        height: 674
+      - url: "https://techbullion.com/wp-content/uploads/2022/12/This-Generative-AI-Platform-Empowers-Marketing-Teams-to-Generate-Premium-Videos.jpg"
+        width: 700
+        height: 466
         isCached: true
-  - title: "Enraged Worries That Generative AI ChatGPT Spurs Students To Vastly Cheat When Writing Essays, Spawns Spellbound Attention For AI Ethics And AI Law"
-    excerpt: "Generative AI such as the ChatGPT app has gotten a huge backlash that students will readily now be able to cheat when writing essays and that we are doomed accordingly. We take a close look, considering both AI Ethics and AI Law considerations on this weighty concern."
-    publishedDateTime: 2022-12-18T11:59:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/12/18/enraged-worries-that-generative-ai-chatgpt-spurs-students-to-vastly-cheat-when-writing-essays-spawns-spellbound-attention-for-ai-ethics-and-ai-law/"
+  - title: "Three Ways To Become More Knowledgeable About AI"
+    excerpt: "AI technology, like many new and fast-moving technologies, presents a specific challenge to business leaders to think through how their business could be improved."
+    publishedDateTime: 2022-12-19T13:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/12/19/three-ways-to-become-more-knowledgeable-about-ai/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 26
-  - title: "AI breakthrough ChatGPT raises alarm over student cheating"
-    excerpt: "Academics urge universities to develop new forms of assessment after launch of program that imitates essay-writing"
-    publishedDateTime: 2022-12-18T05:00:00Z
-    webUrl: "https://www.ft.com/content/2e97b7ce-8223-431e-a61d-1e462b6893c3"
+    quality: 47
+  - title: "VCs say hybrid work, generative AI, and niche collaboration tools will be some of the top future-of-work trends that dominate 2023"
+    excerpt: "Between the pandemic, Great Resignation, and layoffs, workplaces have changed a lot. Here are the next future-of-work trends VCs say we can expect."
+    publishedDateTime: 2022-12-20T11:30:00Z
+    webUrl: "https://www.businessinsider.com/2023-future-of-work-trend-predictions-vcs-investors-2022-12"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
+    images:
+      - url: "https://i.insider.com/639cbdd4b5600000185b1a21?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "nWeQB1OFUFL84pMPKle7iMaXRTZfXQnKo+VTpHFyJ73oYi1J3Jzyy6X4K+wseOw/Rv/IRoe6T9rNdFWYeiAdONmD4pLOdMgmzuoBWNyhKQLguC/nXRSrMBA4uomLSsVmR17tRe3Bb8Qe+HzP6tCU7VpCWuaVnHA0MlHZuv9ZxLhpK4wYOT7egu8clLTf5Pb2+Y3GyRlXNmjwaTu7ReIEux8noAnydlE5bMbPa5nxAoJpNzAy1wGeaPUWyVZ7TUFiCMSj6os4luBzDEnEDDtZUEiUFsy6hdbSTwn7Shj+cc594W6eNmMJhqMduTjRU9nDPle8+nplVp0qs02QlEO38iAOKQ7J1aKh6dbX3UpZ53L/v4zXJauOQb7ZrYHZFW+St3Ka9rlrsfggor5Js4qablQoc1ay/9DTlU6QqJy6YebnucqLwYLP6IOwz1tBiGQPj0XH0Jl5QvL29ktDZXLd0xDVKPSMHyTKXbEfY2jzo8KQAT0bn28WDpR83QkvbNr1ogbNeXn6YMnK6SBt2xAGVg==;D5X2NvJN785aOpq3fDNYwQ=="
 ---

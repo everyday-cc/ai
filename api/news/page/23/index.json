@@ -2,6 +2,118 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2022-12-01-aws-announces-eight-new-amazon-sagemaker-capabilities.md",
+      "title": "AWS Announces Eight New Amazon SageMaker Capabilities",
+      "excerpt": "Developers, data scientists, and business analysts use Amazon SageMaker to build, train, and deploy ML models quickly and easily using its fully managed infrastructure, tools, and workflows. As customers continue to innovate using ML, they are creating ...",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2022/11/30/aws-announces-eight-new-amazon-sagemaker-capabilities",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2022/11/30/aws-announces-eight-new-amazon-sagemaker-capabilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T11:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-asia-pacific-fintech-as-a-service-market-report-2022-key-players-paypal-mastercard-sofi-technologies-and-more-fueling-174-annual-growth.md",
+      "title": "Asia Pacific Fintech-as-a-Service Market Report 2022: Key Players PayPal, Mastercard, SoFi Technologies and More Fueling 17.4% Annual Growth",
+      "excerpt": "The Asia Pacific Fintech-as-a-Service Market is expected to witness market growth of 17.4% CAGR during the forecast period (2022-2028). The debut of ARDEN in May 2022 was announced by Brightwell Payments,",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/11/30/9722271.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/11/30/9722271.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-30T11:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-here-workspace-the-low-code-platform-tool-for-map-creation-now-comes-with-machine-learning-from-aws.md",
+      "title": "HERE Workspace: The low-code platform tool for map creation now comes with machine learning from AWS",
+      "excerpt": "HERE Workspace adds new low-code mapmaking capabilities and now connects to Amazon SageMaker, AWS's machine learning platform, to further expand the possibilities for customers developing spatial inte",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/g29912625/here-workspace-the-low-code-platform-tool-for-map-creation-now-comes-with-machine-learning-from-aw",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/g29912625/here-workspace-the-low-code-platform-tool-for-map-creation-now-comes-with-machine-learning-from-aw",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/11/29153735/tradeexamples.png",
+          "width": 666,
+          "height": 282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29912625",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29912625",
+      "publishedDateTime": "2022-11-30T10:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-driverless-parking-service-begins-commercial-operation-at-stuttgart-airport.md",
       "title": "Driverless parking service begins commercial operation at Stuttgart Airport",
       "excerpt": "The development partners say that the commercial approval from Germany's Federal Motor Transport Authority to operate its driverless parking system at the APCOA P6 parking garage at Stuttgart ...",
@@ -1039,137 +1151,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-baidu-unvails-ambitious-robotaxi-plan-in-china.md",
-      "title": "Baidu Unvails Ambitious Robotaxi Plan In China",
-      "excerpt": "Announcements came as part of a nearly 3 hour video presentation called “Apollo Day” which delved into technical details on their Apollo self-driving project",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2022/11/30/baidu-unvails-ambitious-robotaxi-plan-in-china/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2022/11/30/baidu-unvails-ambitious-robotaxi-plan-in-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63871313fec72f7aa0db9784/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2022/11/30/baidu-unvails-ambitious-robotaxi-plan-in-china/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/11/30/baidu-unvails-ambitious-robotaxi-plan-in-china/amp/",
-      "publishedDateTime": "2022-11-30T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-first-minister-speech-disrupted-by-gender-recognition-protester.md",
-      "title": "First Minister speech disrupted by gender recognition protester",
-      "excerpt": "NICOLA Sturgeon’s keynote address to mark the 30th anniversary of the Zero Tolerance campaign was disrupted by a heckler protesting against",
-      "sourceUrl": null,
-      "webUrl": "https://www.heraldscotland.com/politics/23159210.first-minister-speech-disrupted-gender-recognition-protester/?ref=rss",
-      "originalUrl": "https://www.heraldscotland.com/politics/23159210.first-minister-speech-disrupted-gender-recognition-protester/?ref=rss",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.heraldscotland.com/resources/images/16138459/?type=og-image",
-          "width": 945,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T02:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "heraldscotland",
-        "domain": "heraldscotland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-artificial-intelligence-in-fmcg-and-retail-market-size-in-2022-business-statistics-with-top-countries-data-ibmmicrosoftnvidiaamazon-web.md",
-      "title": "Artificial Intelligence in FMCG and Retail Market Size In 2022 Business Statistics with Top Countries Data | IBM,Microsoft,Nvidia,Amazon Web Services",
-      "excerpt": "A qualitative report published by Market intelligence data research on “Artificial Intelligence in FMCG and Retail Market” this research report offers an in-depth examination of the current ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-fmcg-and-retail-market-size-in-2022-business-statistics-with-top-countries-data-ibmmicrosoftnvidiaamazon-web-services",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-fmcg-and-retail-market-size-in-2022-business-statistics-with-top-countries-data-ibmmicrosoftnvidiaamazon-web-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T02:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
       ]
     }
   ],

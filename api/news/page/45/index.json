@@ -2,6 +2,144 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2022-11-12-economists-predict-england-will-win-qatar-2022-world-cup-but-ai-backs-brazil.md",
+      "title": "Economists Predict England Will Win Qatar 2022 World Cup But AI Backs Brazil",
+      "excerpt": "Economists from Lloyd's have predicted that England will win the Qatar 2022 World Cup. Their prediction is based on the insurable value of players. But OPTA's artificial intelligence has Brazil as the favorites.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/steveprice/2022/11/12/economists-predict-england-will-win-qatar-2022-world-cup-but-ai-backs-brazil/",
+      "originalUrl": "https://www.forbes.com/sites/steveprice/2022/11/12/economists-predict-england-will-win-qatar-2022-world-cup-but-ai-backs-brazil/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/636f0487da07e02b86214530/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/steveprice/2022/11/12/economists-predict-england-will-win-qatar-2022-world-cup-but-ai-backs-brazil/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveprice/2022/11/12/economists-predict-england-will-win-qatar-2022-world-cup-but-ai-backs-brazil/amp/",
+      "publishedDateTime": "2022-11-12T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-12-amazons-latest-robot-picker-for-warehouses-uses-ai-to-identify-objects.md",
+      "title": "Amazon's latest robot picker for warehouses uses AI to identify objects",
+      "excerpt": "The robotic arm uses AI and computer vision to recognize and handle millions of items, according to Amazon. The company says that, by employing robots in its warehouses, it can conduct operations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/amazon-robot-arm-picker-warehouse-sparrow-ai-computer-vision-210545438.html",
+      "originalUrl": "https://www.engadget.com/amazon-robot-arm-picker-warehouse-sparrow-ai-computer-vision-210545438.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/2A1QEohtCINWhWL0J5q2Bw--~B/Zmk9ZmlsbDtoPTQ5Mzt3PTg3NTthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-11/27eaa530-61fe-11ed-9fcf-a5aa5ef7a4cd.cf.jpg",
+          "width": 875,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-11T21:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-11-12-prevalence-of-computer-vision-syndrome-among-school-age-children-during-the-covid-19-pandemic-saudi-arabia-a-cross-sectional-survey.md",
+      "title": "Prevalence of Computer Vision Syndrome among School-Age Children during the COVID-19 Pandemic, Saudi Arabia: A Cross-Sectional Survey.",
+      "excerpt": "Computer vision syndrome (CVS) can be described as ocular-related symptoms that result from prolonged exposure and use of computers, smartphones, tablets, and other devices with digital displays. The main objective of this study was to investigate the prevalence of CVS among school-age children,",
+      "sourceUrl": null,
+      "webUrl": "https://europepmc.org/article/MED/36360446",
+      "originalUrl": "https://europepmc.org/article/MED/36360446",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-11T21:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Europe PMC",
+        "domain": "europepmc.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-12-artificial-intelligence-goes-vegan.md",
       "title": "Artificial intelligence goes vegan",
       "excerpt": "A New Zealand startup has developed the very first AI tool capable of automatically generating content in support of veganism",
@@ -985,154 +1123,6 @@
         "name": "RealClearScience",
         "domain": "realclearscience.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-computer-vision-development-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028.md",
-      "title": "Computer Vision Development Market 2022 Size, Revenue Analysis, Sales, Share and Research Depth Study 2028",
-      "excerpt": "Nov 11, 2022 (The Expresswire) -- \"Computer Vision Development Market\" Research Report gives detailed facts with consideration to market size, cost",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-2022-11-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-2022-11-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T21:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-young-onset-dementia-how-to-beat-cognitive-decline.md",
-      "title": "Young-onset dementia: how to beat cognitive decline",
-      "excerpt": "Dementia is a disease most often associated with growing old, the consequence of progressive decline in cognitive ability that gradually causes problems with memory, thinking and problem-solving.",
-      "sourceUrl": null,
-      "webUrl": "https://www.irishexaminer.com/lifestyle/healthandwellbeing/arid-41003897.html",
-      "originalUrl": "https://www.irishexaminer.com/lifestyle/healthandwellbeing/arid-41003897.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.irishexaminer.com/cms_media/module_img/6571/3285659_5_seoimageog_GettyImages-1309122635_1_.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T18:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Irish Examiner",
-        "domain": "irishexaminer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-japan-to-invest-up-to-500-mln-in-new-advanced-chip-development-company.md",
-      "title": "Japan to invest up to $500 mln in new advanced chip development company",
-      "excerpt": "that aims to re-establish Japan as a leading maker of advanced chips. \"Semiconductors are going to be a critical component for the development of new leading edge technologies such as AI, digital industries and in healthcare,\" Minister of Economy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/japan-invest-up-500-mln-new-advanced-chip-development-company-2022-11-11/",
-      "originalUrl": "https://www.reuters.com/technology/japan-invest-up-500-mln-new-advanced-chip-development-company-2022-11-11/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/-HGRp8TetewRZxXkozlMWTm3HlI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WPRHXI73MBPX5J54LYWMQ7XQME.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T16:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

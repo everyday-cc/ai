@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-12-19-how-ai-avatars-and-face-filters-are-altering-our-conception-of-beauty.md",
+      "title": "How AI Avatars And Face Filters Are Altering Our Conception Of Beauty",
+      "excerpt": "By widening the gap between fantasy and reality, technology that generates the perfect self-image is raising our baseline of beauty. But at what cost?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/annahaines/2022/12/19/how-ai-avatars-and-face-filters-are-affecting-our-conception-of-beauty/",
+      "originalUrl": "https://www.forbes.com/sites/annahaines/2022/12/19/how-ai-avatars-and-face-filters-are-affecting-our-conception-of-beauty/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/639fcc46a4b3cfdf918cea81/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/annahaines/2022/12/19/how-ai-avatars-and-face-filters-are-affecting-our-conception-of-beauty/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/annahaines/2022/12/19/how-ai-avatars-and-face-filters-are-affecting-our-conception-of-beauty/amp/",
+      "publishedDateTime": "2022-12-19T07:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-19-facial-recognition-wielded-in-india-to-enforce-covid-policy.md",
       "title": "Facial recognition wielded in India to enforce COVID policy",
       "excerpt": "After a pair of Islamist bombings rocked the south-central Indian city of Hyderabad in 2013, officials rushed to install 5,000",
@@ -148,7 +199,7 @@
       "originalUrl": "https://www.wired.com/story/artificial-intelligence-animals-anthropomorphism/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -435,7 +486,7 @@
       "originalUrl": "https://time.com/charter/6242075/how-generative-ai-will-change-all-knowledge-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -578,6 +629,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-17-chatgpt-what-if-students-outsource-all-assignments-to-this-ai-tool.md",
+      "title": "ChatGPT: What if students outsource all assignments to this AI tool?",
+      "excerpt": "Educational institutions will have to figure out a way to integrate these advanced AI tools into learning without banning them, he says. “While it is still in its very early days, it is important for educational institutions to understand its strengths and limitations,",
+      "sourceUrl": null,
+      "webUrl": "https://bloncampus.thehindubusinessline.com/b-school-corner/chatgpt-what-if-students-outsource-all-assignments-to-this-ai-tool/article66276055.ece",
+      "originalUrl": "https://bloncampus.thehindubusinessline.com/b-school-corner/chatgpt-what-if-students-outsource-all-assignments-to-this-ai-tool/article66276055.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloc-i.thgim.com/public/incoming/n7ji8/article66276057.ece/alternates/FREE_320/Generative%20AI.jpg",
+          "width": 320,
+          "height": 239,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bloncampus.thehindubusinessline.com/b-school-corner/chatgpt-what-if-students-outsource-all-assignments-to-this-ai-tool/article66276055.ece/amp/",
+      "cdnAmpWebUrl": "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/b-school-corner/chatgpt-what-if-students-outsource-all-assignments-to-this-ai-tool/article66276055.ece/amp/",
+      "publishedDateTime": "2022-12-17T04:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bloncampus.thehindubusinessline",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
@@ -1114,102 +1208,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-17-phoenix-airport-1st-to-offer-self-driving-ride-service-waymo.md",
-      "title": "Phoenix airport 1st to offer self-driving ride service Waymo",
-      "excerpt": "As Phoenix gets ready to host the Super Bowl, Mayor Kate Gallego has announced Sky Harbor International Airport will be the world's first airport to offer the self-driving ride-hailing service Waymo",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/phoenix-airport-1st-offer-driving-ride-service-waymo-95427526",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/phoenix-airport-1st-offer-driving-ride-service-waymo-95427526",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/221216_vod_onlocation_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/phoenix-airport-1st-offer-driving-ride-service-waymo-95427526",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/phoenix-airport-1st-offer-driving-ride-service-waymo-95427526",
-      "publishedDateTime": "2022-12-16T09:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-17-ai-healthcare-bottlenecks-and-how-to-get-through-them.md",
-      "title": "AI healthcare bottlenecks (and how to get through them)",
-      "excerpt": "What are the biggest challenges facing the increasing use of AI in healthcare? Find out — and learn some solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-healthcare-bottlenecks-and-how-to-get-through-them/",
-      "originalUrl": "https://venturebeat.com/ai/ai-healthcare-bottlenecks-and-how-to-get-through-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/ai-weekly-feature-image-ai-and-healthcare.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-healthcare-bottlenecks-and-how-to-get-through-them/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-healthcare-bottlenecks-and-how-to-get-through-them/amp/",
-      "publishedDateTime": "2022-12-16T09:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

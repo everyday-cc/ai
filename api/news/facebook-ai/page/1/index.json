@@ -10,7 +10,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-research-highlighting-global-opportunities-2023-growth-trends-and-share-forecast-to-2029-2022-12-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 233,
+      "heat": 193,
       "tags": null,
       "images": [
         {
@@ -63,7 +63,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-amazon-sagemaker-models-using-the-pytorch-model-zoo/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -112,17 +112,17 @@
       "title": "AI-generated fake faces have become a hallmark of online influence operations",
       "excerpt": "As artificial intelligence becomes more widely available, bad actors are turning to computer-generated faces in their attempts to manipulate social media networks.",
       "sourceUrl": null,
-      "webUrl": "https://www.knau.org/npr-news/2022-12-15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations",
-      "originalUrl": "https://www.knau.org/npr-news/2022-12-15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations",
+      "webUrl": "https://www.iowapublicradio.org/news-from-npr/2022-12-15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations",
+      "originalUrl": "https://www.iowapublicradio.org/news-from-npr/2022-12-15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://npr.brightspotcdn.com/dims4/default/f858da0/2147483647/strip/true/crop/5028x2640+0+356/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F12%2F15%2Fgettyimages-1394271231-1-_slide-f32afdc5778b2c450f3b8322b684688e8d1d638d.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://npr.brightspotcdn.com/dims4/default/1e1259e/2147483647/strip/true/crop/3000x1688+0+156/resize/480x270!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F12%2F14%2F20221206-_dsc0676-edit_slide-011681f1256177f8bdb78cf455d05204f9f45d5b.jpg",
+          "width": 480,
+          "height": 270,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -130,13 +130,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-15T10:00:00-08:00",
+      "ampWebUrl": "https://www.iowapublicradio.org/news-from-npr/2022-12-15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations?_amp=true",
+      "cdnAmpWebUrl": "https://www-iowapublicradio-org.cdn.ampproject.org/c/s/www.iowapublicradio.org/news-from-npr/2022-12-15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations?_amp=true",
+      "publishedDateTime": "2022-12-15T15:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KNAU Arizona Public Radio",
-        "domain": "knau.org",
+        "name": "Iowa Public Radio",
+        "domain": "iowapublicradio.org",
         "images": null,
         "publishers": null,
         "authors": null

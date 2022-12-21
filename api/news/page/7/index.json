@@ -2,6 +2,101 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-12-13-roadrunner-uses-artificial-intelligence-to-revamp-waste-processing.md",
+      "title": "RoadRunner uses artificial intelligence to revamp waste processing",
+      "excerpt": "CNBC's Diana Olick joins 'Power Lunch' to discuss a clean energy startup making moves to change recycling methods, the logistical considerations involved in waste management, and the value of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2022/12/12/roadrunner-uses-artificial-intelligence-to-revamp-waste-processing.html",
+      "originalUrl": "https://www.cnbc.com/video/2022/12/12/roadrunner-uses-artificial-intelligence-to-revamp-waste-processing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107164843-16708745101670874507-27115159683-1080pnbcnews.jpg?v=1670875361&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T12:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-feds-warn-against-cybersecurity-risks-associated-with-automation-in-healthcare.md",
+      "title": "Feds warn against cybersecurity risks associated with automation in healthcare",
+      "excerpt": "Examples of automation in cybersecurity include machine learning and artificial intelligence, penetration testing, and automated intelligence collection. HHS said using automated technologies can help healthcare organizations detect threats more quickly and fill gaps in the cybersecurity workforce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/cybersecurity/feds-warn-against-cybersecurity-risks-associated-with-automation-in-healthcare.html",
+      "originalUrl": "https://www.beckershospitalreview.com/cybersecurity/feds-warn-against-cybersecurity-risks-associated-with-automation-in-healthcare.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/images/13thAnnualReviewerButton.png",
+          "width": 2200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T11:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-13-commercial-artificial-intelligence-market-2022-latest-innovations-future-technology-driving-factors-demand-over-the-worldwide-to-2028.md",
       "title": "Commercial Artificial Intelligence Market 2022 – Latest Innovations, Future Technology, Driving Factors & Demand over the Worldwide to 2028",
       "excerpt": "The Commercial Artificial Intelligence Market Report Included Analysis by Key Players - IBM, Google, Microsoft, AWS, General Vision & More. Pune, Maharashtra -- -- 12/12/2022 -- C",
@@ -1079,75 +1174,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-bolstering-the-safety-of-self-driving-cars-with-a-deep-learning-based-object-detection-system.md",
-      "title": "Bolstering the safety of self-driving cars with a deep learning-based object detection system",
-      "excerpt": "Self-driving cars need to implement efficient, effective, and accurate detection systems to provide a safe and reliable experience to its users. To this end, an international research team has now developed an end-to-end neural network that,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/974123",
-      "originalUrl": "https://www.eurekalert.org/news-releases/974123",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-pilot-study-finds-computer-vision-technology-effective-at-determining-proper-mask-wearing-in-a-hospital-setting.md",
-      "title": "Pilot study finds computer vision technology effective at determining proper mask wearing in a hospital setting",
-      "excerpt": "In a survey and study of hospital employee volunteers, researchers found that a low-cost computer vision system was feasible and well received",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/974196",
-      "originalUrl": "https://www.eurekalert.org/news-releases/974196",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20221220/Virtual-reality-games-e
 webUrl: "https://www.news-medical.net/news/20221220/Virtual-reality-games-eye-tracking-and-machine-learning-can-be-used-to-detect-ADHD.aspx"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Using deep learning to monitor India's disappearing forest cover"
-    excerpt: "Using satellite monitoring data, researchers have developed a deep learning algorithm that could provide real-time monthly land use and land cover maps for parts of India."
-    publishedDateTime: 2022-12-21T01:43:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/12/221220165222.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "IYt0EAxAzwl7jd6dQB7hs3YNeelvB1wzmTmIGXKsEtOzW409oLdQprXKgTDQrtcz84n9VQWnzfNibgYp5bvCAA/ue20o+GI7AJHYfzwTGw6sf5hA5LPRzYqk9GdTsD3IKViJ/n/2z/knfdR1E4ak9GTZP7nqWkWAMVk+tVzhvftD96LfGVOyl4BHJk92gc0nl2X2DK5Pd74pd0G23BDp6ppiTuMhX4gHCJda40oeTgL/GkVDEFm59gd4aQV4TIvcHaIESrpF0LlAg9nLMbXo+k137uFOB/tGPokF8Z2MkhLtdd4MwmJbCj8sBl09MWj2G0jH2PF+qmM+LZcotIIGX4O7/iTbL1FuHjb8xd648h0=;+y2mHuVp38IdBCtKHPZBAw=="
 ---

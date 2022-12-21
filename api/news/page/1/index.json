@@ -10,7 +10,7 @@
       "originalUrl": "https://auto.economictimes.indiatimes.com/news/commercial-vehicle/eka-mobility-nuport-robotics-release-level-2-enabled-adas-e-bus/96394212",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -144,6 +144,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-21-artificial-intelligenceai-in-healthcare-market-2022-advance-technology-and-highlighted-key-development-by-2028.md",
+      "title": "Artificial Intelligence(AI) in Healthcare Market 2022: Advance Technology and Highlighted Key Development by 2028",
+      "excerpt": "According to the MarketsandResearch.biz report Global Artificial Intelligence(AI) in Healthcare Market is anticipated to experience rapid growth between 2022 and 2028. This study covers the key market parameters and growth possibilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligenceai-in-healthcare-market-2022-advance-technology-and-highlighted-key-development-by-2028-2022-12-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligenceai-in-healthcare-market-2022-advance-technology-and-highlighted-key-development-by-2028-2022-12-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-20T14:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -648,7 +700,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-research-highlighting-global-opportunities-2023-growth-trends-and-share-forecast-to-2029-2022-12-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 233,
+      "heat": 193,
       "tags": null,
       "images": [
         {
@@ -1002,7 +1054,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-amazon-sagemaker-models-using-the-pytorch-model-zoo/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -1180,57 +1232,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-19-how-ai-avatars-and-face-filters-are-altering-our-conception-of-beauty.md",
-      "title": "How AI Avatars And Face Filters Are Altering Our Conception Of Beauty",
-      "excerpt": "By widening the gap between fantasy and reality, technology that generates the perfect self-image is raising our baseline of beauty. But at what cost?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/annahaines/2022/12/19/how-ai-avatars-and-face-filters-are-affecting-our-conception-of-beauty/",
-      "originalUrl": "https://www.forbes.com/sites/annahaines/2022/12/19/how-ai-avatars-and-face-filters-are-affecting-our-conception-of-beauty/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/639fcc46a4b3cfdf918cea81/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/annahaines/2022/12/19/how-ai-avatars-and-face-filters-are-affecting-our-conception-of-beauty/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/annahaines/2022/12/19/how-ai-avatars-and-face-filters-are-affecting-our-conception-of-beauty/amp/",
-      "publishedDateTime": "2022-12-19T07:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

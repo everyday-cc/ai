@@ -26,19 +26,6 @@ images:
     height: 3000
     isCached: true
 
-related:
-  - title: "Pennsylvania's first self-driving shuttle to be tested at Navy Yard in South Philly"
-    excerpt: "Drexel University researchers will analyze the vehicle's ability to safely transport passengers to and from SEPTA's NRG Station"
-    publishedDateTime: 2022-12-16T17:42:00Z
-    webUrl: "https://www.phillyvoice.com/self-driving-shuttle-navy-yard-septa-subway-drexel-pennsylvania/"
-    ampWebUrl: "https://www.phillyvoice.com/self-driving-shuttle-navy-yard-septa-subway-drexel-pennsylvania/amp/"
-    cdnAmpWebUrl: "https://www-phillyvoice-com.cdn.ampproject.org/c/s/www.phillyvoice.com/self-driving-shuttle-navy-yard-septa-subway-drexel-pennsylvania/amp/"
-    type: article
-    provider:
-      name: phillyvoice.com
-      domain: phillyvoice.com
-    quality: 18
-
 secured: "vAWHKUfFm6VwL1TYW5iQgH3VWxIDZ2qaEQI5RuVFs2ljmiymhke1k/NlyI52mA/cqmIpOxEtB0Y89/TzV2Hvk/nThnANiXqFAoJXkkN8DqCI2BQxLisKVXYSVGC1HHEL78keM0ANnfW3QTt88yy8BkCwIoBWR28Q6vedSeI6w1KOQtPpNGUcI3HlFTjS8KCnRLNKP9aufDktAOCzxXnBtCLDoGVGJVysHy45iSNZrZChCcbD0EaQ4He9I4oJwHKGZMi8Yk0cgkeKYvK0wYShHzZpAlgE3qjDiRQed1yLNf2t09kljys+th+8HDGP0sIsy7OQKfE0n+G9E4jqvLqfUuRbcYUe/+Y+zM0kNN1+uUo=;azkTEgCzd5omjTgzp94WDg=="
 ---
 

@@ -2,6 +2,152 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-12-09-four-steps-for-building-an-ai-center-of-excellence.md",
+      "title": "Four Steps For Building An AI Center Of Excellence",
+      "excerpt": "The road to digital transformation is long and complex—but a solid AI program is a step in the right direction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/09/four-steps-for-building-an-ai-center-of-excellence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/09/four-steps-for-building-an-ai-center-of-excellence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/611197e7a1fc8d3b4e5a536a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/09/four-steps-for-building-an-ai-center-of-excellence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/09/four-steps-for-building-an-ai-center-of-excellence/amp/",
+      "publishedDateTime": "2022-12-09T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-the-final-freedom-the-role-of-artificial-intelligence-in-the-workplace.md",
+      "title": "The Final Freedom: The Role Of Artificial Intelligence In The Workplace",
+      "excerpt": "The reality is that AI does something unique in our technological evolution because rather than simply replicate and improve our interactions with the physical world, or accelerate rote tasks through automation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/09/the-final-freedom-the-role-of-artificial-intelligence-in-the-workplace/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/09/the-final-freedom-the-role-of-artificial-intelligence-in-the-workplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f93379ac3fffcbce128eacc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/09/the-final-freedom-the-role-of-artificial-intelligence-in-the-workplace/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/09/the-final-freedom-the-role-of-artificial-intelligence-in-the-workplace/amp/",
+      "publishedDateTime": "2022-12-09T02:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-is-chatgpt-the-next-big-threat-to-googles-dominance-in-the-ai-market.md",
+      "title": "Is ChatGPT the next big threat to Google’s dominance in the AI market?",
+      "excerpt": "With its ability to produce natural language text quickly and accurately ... to say the least. This new powerful language processing technology has the potential to revolutionise the way we interact with computers. But is it really that much of a big ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketingweek.com/ritson-chatgpt-google-ai/",
+      "originalUrl": "https://www.marketingweek.com/ritson-chatgpt-google-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://marketingweek.imgix.net/content/uploads/2022/12/08163116/AI-robots.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T02:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marketing Week",
+        "domain": "marketingweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-09-ai-where-do-ethics-stop-and-regulations-begin.md",
       "title": "AI - where do ethics stop, and regulations begin?",
       "excerpt": "When it comes to artificial intelligence (AI) and its growing impact on our lives ... takes away their agency and doesn't leave them feeling empowered. Our public research shows again and again that people would like to see more regulation, even if ...",
@@ -751,49 +897,6 @@
       ]
     },
     {
-      "path": "_news/2022-12-09-the-tsa-plans-to-take-facial-recognition-technology-nationwide.md",
-      "title": "The TSA plans to take facial recognition technology nationwide",
-      "excerpt": "The Transportation Security Administration has been testing facial recognition technology as an option for travelers at select U.S. airports for years, touting it as a way to speed up identity ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/politics/tsa-plans-take-facial-recognition-technology-nationwide",
-      "originalUrl": "https://www.foxbusiness.com/politics/tsa-plans-take-facial-recognition-technology-nationwide",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2022/09/Airport.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/politics/tsa-plans-take-facial-recognition-technology-nationwide.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/tsa-plans-take-facial-recognition-technology-nationwide.amp",
-      "publishedDateTime": "2022-12-08T11:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-09-the-ai-revolution-is-closer-than-you-think.md",
       "title": "The AI Revolution Is Closer Than You Think",
       "excerpt": "Two recent developments show how rapidly AI creative tools are becoming a practical alternative to human creators.",
@@ -1064,83 +1167,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-why-every-office-needs-a-window-the-influence-of-a-view-on-cognitive-performance.md",
-      "title": "Why every office needs a window: The influence of a view on cognitive performance",
-      "excerpt": "Dr. Baumann, a cognitive neuroscientist, said those in the room with a view performed best. \"When people were able to see the sky and trees they produced more answers in a task that demanded they ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-12-office-window-view-cognitive.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-12-office-window-view-cognitive.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-08T10:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-can-machines-invent-things-without-human-help-these-ai-examples-show-the-answer-is-yes.md",
-      "title": "Can machines invent things without human help? These AI examples show the answer is 'yes'",
-      "excerpt": "The question of whether artificial intelligence (AI) can invent is nearly 200 years old, going back to the very beginning of computing. Victorian mathematician Ada Lovelace wrote what's generally considered the first computer program.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-12-machines-human-ai-examples.html",
-      "originalUrl": "https://techxplore.com/news/2022-12-machines-human-ai-examples.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/can-machines-invent-th.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-12-machines-human-ai-examples.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-machines-human-ai-examples.amp",
-      "publishedDateTime": "2022-12-08T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

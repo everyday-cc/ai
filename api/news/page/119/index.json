@@ -2,6 +2,136 @@
   "page": 119,
   "value": [
     {
+      "path": "_news/2022-09-09-hisense-selects-synaptics-dbm10l-processor-for-first-ai-enabled-always-on-voice-remote-control.md",
+      "title": "Hisense Selects Synaptics' DBM10L Processor For First AI-Enabled Always-On Voice Remote Control",
+      "excerpt": "Synaptics ® Incorporated (Nasdaq: SYNA) today announced that Hisense, a global leader in consumer electronics and home appliances, selected the DBM10L with its dedicated neural processing unit (NPU) to implement the first artificial intelligence (AI)-enabled always-on voice (AOV) remote control unit (RCU),",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/09/09/9670608.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/09/09/9670608.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-09T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-tech-war-shanghai-ai-chip-maker-with-disgraced-chairman-is-now-chinas-new-hope-in-race-to-catch-up-with-nvidia.md",
+      "title": "Tech war: Shanghai AI chip maker with disgraced chairman is now China’s new hope in race to catch up with Nvidia",
+      "excerpt": "Nvidia, the leading global supplier of advanced GPUs, was told by the US to stop exporting two of its high-end artificial intelligence (AI) chips to China, prompting Chinese start-ups to fast ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-war/article/3191978/tech-war-shanghai-ai-chip-maker-disgraced-chairman-now-chinas-new",
+      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3191978/tech-war-shanghai-ai-chip-maker-disgraced-chairman-now-chinas-new",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/09/09/aa9945a1-a557-4eec-a64b-9316da5ae8d6_f414051d.jpg?itok=bnA6W9VB&v=1662717857",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-09T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-09-artificial-intelligence-could-be-a-great-equalizer.md",
+      "title": "Artificial Intelligence Could Be a Great Equalizer",
+      "excerpt": "The benefits of AI will accrue not only to the wealthy and technologists but also to the poor and disadvantaged.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/artificial-intelligence-couldbe-agreat-equalizer/2022/09/09/bd246350-3037-11ed-bcc6-0874b26ae296_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/artificial-intelligence-couldbe-agreat-equalizer/2022/09/09/bd246350-3037-11ed-bcc6-0874b26ae296_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-09T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-09-can-githubs-copilot-ai-put-the-fun-back-into-being-a-developer.md",
       "title": "Can GitHub's Copilot AI put the fun back into being a developer?",
       "excerpt": "GitHub researchers compare how fast developers can code with Copilot's AI assistance versus a group relying on standard developer practices.",
@@ -963,145 +1093,6 @@
         "Microsoft AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-mlcommons-releases-new-benchmarks-to-boost-ml-performance.md",
-      "title": "MLCommons releases new benchmarks to boost ML performance",
-      "excerpt": "MLCommons just released new benchmarks for its latest update, with new ML models and a new testing division for inference over the network.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/mlcommons-releases-new-benchmarks-to-boost-ml-performance/",
-      "originalUrl": "https://venturebeat.com/ai/mlcommons-releases-new-benchmarks-to-boost-ml-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Abstract-AI-4-color-e1638226936634.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 595,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/mlcommons-releases-new-benchmarks-to-boost-ml-performance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/mlcommons-releases-new-benchmarks-to-boost-ml-performance/amp/",
-      "publishedDateTime": "2022-09-08T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-for-triangle-startups-heres-what-ibm-is-looking-for-in-its-next-acquisition.md",
-      "title": "For Triangle startups, here's what IBM is looking for in its next acquisition",
-      "excerpt": "IBM is always looking for potential acquisitions, but is there any chance of another mega-deal like the one for Raleigh-based Red Hat?",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/triangle/inno/stories/news/2022/09/08/ibm-red-hat-next-acquisition-startups-technology.html",
-      "originalUrl": "https://www.bizjournals.com/triangle/inno/stories/news/2022/09/08/ibm-red-hat-next-acquisition-startups-technology.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-12-ways-ai-is-transforming-how-businesses-interact-with-customers.md",
-      "title": "12 Ways AI Is Transforming How Businesses Interact With Customers",
-      "excerpt": "Many businesses leverage AI’s learning abilities to try to make interactions and transactions faster and easier for the customers they serve.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/08/12-ways-ai-is-transforming-how-businesses-interact-with-customers/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/08/12-ways-ai-is-transforming-how-businesses-interact-with-customers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5fb2a32abeab195130fc0917/0x0.jpg?format=jpg&crop=6000,3375,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/08/12-ways-ai-is-transforming-how-businesses-interact-with-customers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/08/12-ways-ai-is-transforming-how-businesses-interact-with-customers/amp/",
-      "publishedDateTime": "2022-09-08T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
