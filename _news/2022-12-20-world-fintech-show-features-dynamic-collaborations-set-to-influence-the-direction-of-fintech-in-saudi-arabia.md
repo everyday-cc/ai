@@ -120,20 +120,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Moomoo wins Best Investment Research Tech at the Benzinga Global Fintech Awards"
-    excerpt: "Moomoo Recognized for 2nd Straight Year at Benzinga Global Fintech Awards PALO ALTO, Calif., Dec. 16, 2022 /PRNewswire/ -- Moomoo, the tech-driven online financial services platform, was"
-    publishedDateTime: 2022-12-16T13:59:00Z
-    webUrl: "https://www.asiaone.com/business/moomoo-wins-best-investment-research-tech-benzinga-global-fintech-awards"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 20
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Dec2022/Bemzinga_Award_2022.jpg?h=c66d06c9&itok=hosEw0uB"
-        width: 600
-        height: 316
-        isCached: true
 
 secured: "wnvuhAxkdhofcGd855Y3wGhRO+WTwzdwYyJsm+hlh/dx2BQ4VPaj7s3TOYUHeJ7yeVOC7kGxS3u89j8Y0ubjuhd+rHCL0jvd+m/TIxit3WxjScQ+QOR2ofwZo+hrFIIEK3VNj+uZGjAUD3FCdQxs/PsiCdYo098zzwQlN6DtusRjj6hf/0SYrROK4u7/letyFvwMMi/s8A4uoUwAYL68h+d9VUCo9f4M/r5Q1iWSPS+H74ZVdh7aI95VmJ3WpnU/TdSXsM1Nke8aB5lNA/9cNAHdRD0pXC2VIugdBkz1Cy8AYIc+qO9kIQUDaN5MZNIUa8+XwnREwDIj6vYA+rsRlhgTc0qJvImeAilyGKu12FGDQW6dibWrgBpZ9msFKP9vTp4JF8g4i9TMFd9BHf57h0gb6fhY/u5wWZCT03FzcC+npQLp5BwNTwDcuS+QS/Ill1zcwlC2HnsnM43h7JdnIsJcFlwJWdj483nNEuJFrSz78QTSlSXHHRY+LxWKxmKzigzQAMZbWu6i9T8B0FjAEQ==;xDqvrgFzyG0y6p+gcbDScw=="
 ---

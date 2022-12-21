@@ -9,7 +9,7 @@ ampWebUrl: "https://punchng.com/artificial-intelligence-for-new-drug-discovery/?
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/artificial-intelligence-for-new-drug-discovery/?amp"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 400
     height: 400
     isCached: true
-
-related:
-  - title: "Everlaw Wins Industry Awards for Groundbreaking AI in its Ediscovery Platform"
-    excerpt: "Company Achieves Top Industry Rankings at G2 and IDCOAKLAND, Calif., Dec. 16, 2022 /PRNewswire/ -- Everlaw, the cloud-native investigation and"
-    publishedDateTime: 2022-12-16T14:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/everlaw-wins-industry-awards-for-groundbreaking-ai-in-its-ediscovery-platform-1031977386"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 44
 
 secured: "Qds3GhC7zhAmc/DbYT0F7Xv3x6G9xIo+n9XvrF08QZ/UEC189V9oYIxGtwPL6PQLK0c/7uGCZAPPw3xTqTXFlAeRu0V+YxwD/rBNZs6k9YVfVrKSOtTjpPg1M9eMY8eSlrkJGfbHm6DmcT1X7XPyWo+pvjNCBv92b7V45nLxIOzUVlggeMrGyiLDSmo/4yYuVznBmGmHbpqmuoO2NF+LoQy8AFZ5VEhfD5k4TanjGtXmxhNhO1UL24OCmzX9GO1y+8r+VdJMeQo6TH8FakKDA9gFd+/teF6DPck91y/+1eJX7fiOBm1sQTj7us2SML4dBxagW3HtTCnZHfj+5aIeSY4v1HyocnoRMO7z03oRgyM=;n45zrnrEgOtEbj5ZvTUolg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/12/16/ai_chip_vc_funding/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/12/16/ai_chip_vc_funding/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

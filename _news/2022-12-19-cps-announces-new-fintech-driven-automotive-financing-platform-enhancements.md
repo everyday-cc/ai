@@ -106,20 +106,6 @@ related:
         width: 1024
         height: 567
         isCached: true
-  - title: "Moomoo wins Best Investment Research Tech at the Benzinga Global Fintech Awards"
-    excerpt: "Moomoo Recognized for 2nd Straight Year at Benzinga Global Fintech Awards PALO ALTO, Calif., Dec. 16, 2022 /PRNewswire/ -- Moomoo, the tech-driven online financial services platform, was"
-    publishedDateTime: 2022-12-16T13:59:00Z
-    webUrl: "https://www.asiaone.com/business/moomoo-wins-best-investment-research-tech-benzinga-global-fintech-awards"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 20
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Dec2022/Bemzinga_Award_2022.jpg?h=c66d06c9&itok=hosEw0uB"
-        width: 600
-        height: 316
-        isCached: true
   - title: "World Fintech Show features dynamic collaborations set to influence the direction of FinTech in Saudi Arabia"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2022-12-20T06:15:00Z

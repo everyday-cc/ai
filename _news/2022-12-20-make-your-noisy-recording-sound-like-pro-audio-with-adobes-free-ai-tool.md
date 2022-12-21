@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2022/12/make-a-bathro
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/12/make-a-bathroom-sound-like-a-pro-audio-booth-with-adobes-free-ai-tool/amp/"
 type: article
 quality: 86
-heat: 87
+heat: 86
 published: true
 
 provider:

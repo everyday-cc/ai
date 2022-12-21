@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2022/12/16/business/gm-cruise-self-driving-c
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/16/business/gm-cruise-self-driving-cars-investigation.amp.html"
 type: article
 quality: 74
-heat: 94
+heat: 96
 published: true
 
 provider:

@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Self-Driving Trucking Firm TuSimple Appoints CFO, Reconstitutes Audit Panel"
-    excerpt: "TuSimple Holdings Inc appointed interim financial chief Eric Tapia on a permanent basis and reconstituted its audit committee, the self-driving trucking firm said on Friday, weeks after an internal probe revealed links to a China-backed firm."
-    publishedDateTime: 2022-12-16T14:07:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2022-12-16/self-driving-trucking-firm-tusimple-appoints-cfo-reconstitutes-audit-panel"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 32
   - title: "TuSimple, a self-driving truck company, will fire hundreds of workers"
     excerpt: "The job cut of TuSimple would likely affect at least 700 employees, the report said citing people familiar with the matter"
     publishedDateTime: 2022-12-17T18:22:00Z

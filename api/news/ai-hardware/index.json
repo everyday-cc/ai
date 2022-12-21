@@ -166,7 +166,7 @@
       "originalUrl": "https://www.theregister.com/2022/12/16/ai_chip_vc_funding/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -302,8 +302,8 @@
       "title": "Renesas and Fixstars to Jointly Develop Tools Suite that Optimizes AD and ADAS AI Software for R-Car SoCs",
       "excerpt": "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, and Fixstars Corporation, a global leader in multi-core CPU/GPU/FPGA acceleration technology, today announced the joint development of a suite of tools that allows optimization and fast simulation of software for autonomous driving (AD) systems and advanced driver-assistance systems (ADAS) specifically designed for the R-Car system-on-chip (SoC) devices from Renesas.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/12/15/9731166.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/12/15/9731166.htm",
+      "webUrl": "https://it.tmcnet.com/news/2022/12/15/9731166.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/12/15/9731166.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -313,7 +313,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-15T10:42:00-08:00",
+      "publishedDateTime": "2022-12-15T12:16:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",

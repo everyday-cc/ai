@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2022/12/20/1065669/download-home-ro
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/20/1065669/download-home-robot-surveillance-problematic-ai-text/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -36,15 +36,6 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 34
-  - title: "The Download: generative AI, and psychedelic hype"
-    excerpt: "Generative AI is changing everything. But what’s left when the hype is gone? It was clear that OpenAI was on to something. In late 2021, a small team of researchers was playing around with a new version of OpenAI’s text-to-image model,"
-    publishedDateTime: 2022-12-16T13:09:00Z
-    webUrl: "https://www.technologyreview.com/2022/12/16/1065266/download-generative-ai-psychedelic-hype/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
 
 secured: "IGJt0hiAQ8nqLGtJK9rdMHYIP+nTW+h7LlBcgnhGzKguHeRtTxSvYy/uTgUwopoeNcBrE7Gwjplqa95+HEj1UVyVKaLWfrnHH10I8IbghEobEJAzt170ZGK1l0YfpJYroKDJyR19FEq24xFbTc95mvUj4sr1vTIvwO3GuSMJnamJHMKNgYiNrXWg+w5GMQ3U7yKp9pIcIseUPVFXgPswrAr1xbw94rcACD3L6M1dmDA8L5RM+G7OSLfOkzOkU2wHpmkxD+677kHp+jtUnim1tm9r5Mq+dwjEQ/spD1ZySiBB3ctlNVzPT1HqapXWFB88pWHeWFxvL2KK1rgLIVurf0HcV0RiveXWMuq9HFpSe4ykiztRgocxzQPG3IciXo2BakhYwUiG3emCgeMe3c+jQ2yZ3dXP7B5kCOmEsB5uL4cjAbykpDoSggBVoxSxUS/TFc4bSH8x7HW78uuHqds7MpTjSmwXStldHLhdddJAIMIHUd8v+Q+XzgOBxQnFup/Dq6MS/9omATUBEr0feZFCjw==;PPpL9D7vcrOuOmMN7NiA3A=="
 ---

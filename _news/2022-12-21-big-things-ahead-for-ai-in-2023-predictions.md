@@ -56,20 +56,6 @@ related:
         width: 4099
         height: 2626
         isCached: true
-  - title: "Start up shares its vision for AI"
-    excerpt: "An M.2 AI edge accelerator module and a PCIe AI edge accelerator card have been announced by Axelera AI, a start up based in the Netherlands. The M.2 AI"
-    publishedDateTime: 2022-12-16T13:33:00Z
-    webUrl: "https://www.electronicsweekly.com/news/products/bus-systems-sbcs/start-up-shares-its-vision-for-ai-2022-12/"
-    type: article
-    provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
-    quality: 37
-    images:
-      - url: "https://static.electronicsweekly.com/wp-content/uploads/2022/12/16133121/axelera_ai_m2_blob-1024x737.png"
-        width: 1024
-        height: 737
-        isCached: true
 
 secured: "im8G015UxeZrxj1aA3Ja9OJB3vYSWz/u9RMW3j3FjB+OSXEipufPekfgBpj1H3bvsIJoQc4JkNK8CC//tcfN9qrbSQ6ra1AIRuJCNc8UmH3f/KPaDtcUfs6/bXAVKNhlPFIzbknDIsSJboyz8KsNfFwRdOXyF+FoyjTpGz1WWu4zJSya+L4f65xfW8vRRpQQeJYr5vdfu4XPSiNVHlqYQ7A1CQ5aYiSv4xv8c4pgnc5fW012tZsjTv4n/RjDVhfSDrF92mDcq6oyrfAae/jwGyd0lO0SpVzFZqQ87DIbb6OCv9/7j1ycX1fTwSZmHSDmQG9hE2oaVQq+M2oVKo3c25Ait37nUMb33MRfn99IUKJO0XY4ZDdpz/w9bM03Z48xNuYcIJ1mHVgtpih71hHQvtnUV7nbCoCkudTcbT/lWhyqLvj7uvHk/8Ul+EDJemIOUC691lJvfcVbjcisu5Y1yDLsVN/SOSkOssAd+ZY9oyKWXXgYlFjv94BS44hueKqWiiSHmSThfaQ7KE0lACtHcg==;vT3IY13+qV8iuJcwoUBJ3w=="
 ---
