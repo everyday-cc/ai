@@ -83,15 +83,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
-  - title: "Meet ChatGPT: The AI Chatbot That Can Write Code, Pass Exams, and Generate Business Ideas"
-    excerpt: "OpenAI's ChatGPT chatbot has advanced AI technology with its ability to generate original, human-like responses. However, there are significant ethical concerns to consider, including the potential for incorrect or fictitious answers and bias in decision-making."
-    publishedDateTime: 2022-12-16T11:00:00Z
-    webUrl: "https://www.aei.org/technology-and-innovation/meet-chatgpt-the-ai-chatbot-that-can-write-code-pass-exams-and-generate-business-ideas/"
-    type: article
-    provider:
-      name: American Enterprise Institute
-      domain: aei.org
-    quality: 10
 
 secured: "nPWPdfIexkGU0ulk0peAqe0vVYgsOHTmqq80z5qqM3utqKsuzuEGKEdYlvbPtkBJ1ftpAwScDUAOgKcuD0e0ZuBsUJk3bq1bMd/Zi9fkRI8iIdt72QPK/36jG5Kmgvf1moyoFn9t2k6bSNWzZp3TUKM62WQGBYRd+8YETkVcB4k4uQ348dFz58O7+Px2/EV4jAr7J9kF5QPuK0O063fzzyH5zATvo0MaTtipxUZhAtLoWQii8I6KKRdLv01v5LSQcFw9vMtZ9dZhwWWldZCHDIXAZKglOUVIyW+X6aXLkCWwqVWXMSR3uAcBTCnlVpTulhPq4jRl6FCko6Aaq+hiA7OqI1eGEq3b7rQcx4pQjbg=;FAnvFLvCfAEu54y+kL2+zw=="
 ---

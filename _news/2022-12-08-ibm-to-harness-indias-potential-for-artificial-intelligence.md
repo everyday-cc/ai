@@ -5,6 +5,8 @@ excerpt: "Technology major, IBM, is set to increasingly focus on leveraging the 
 publishedDateTime: 2022-12-08T14:25:00Z
 originalUrl: "https://www.thehindubusinessline.com/info-tech/ibm-to-harness-indias-potential-for-artificial-intelligence/article66239376.ece"
 webUrl: "https://www.thehindubusinessline.com/info-tech/ibm-to-harness-indias-potential-for-artificial-intelligence/article66239376.ece"
+ampWebUrl: "https://www.thehindubusinessline.com/info-tech/ibm-to-harness-indias-potential-for-artificial-intelligence/article66239376.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ibm-to-harness-indias-potential-for-artificial-intelligence/article66239376.ece/amp/"
 type: article
 quality: 17
 heat: -1
@@ -16,6 +18,13 @@ provider:
 
 topics:
   - AI
+  - IBM AI
+
+images:
+  - url: "https://bl-i.thgim.com/public/incoming/o9ztcj/article66239643.ece/alternates/FREE_1200/IMG_ibm_2_1_TLA9A721.jpg"
+    width: 1200
+    height: 889
+    isCached: true
 
 related:
   - title: "Air India Puts In Place Ethics Governance Structure"
@@ -65,6 +74,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "AaMKn7XLix8m50z+4qxUZ9KAO3jxeIngM0LK63tTEPxywZg2RXnujKgezUK6b/3H4cLaABDVohrmn/a+hT8QuC819Kg7KS+fWhda65b6p/XhsIcUj4IN3lMKBN9bdf0g5kDE42RATkjAcV37lrIjLBAnit9SqMeljwtQMGJz0JTAWIYUIN7aJXJ9HfiMNOdxnFK0QdvZH0Kfv9dddZtL9doXW0l7E1X1yi49ayTnsCwhGJUJWVCkQdSCizcEdbmU0DvxfkwWqCk1VoEO6MtdfL+UWIKLfr9gTMO3dOMc3H1qXXNxFDF6zDFTZYKQ3DCTiLvgOKMThFYhoB6Z65kC+jsKTLrbfUxNWi+Jckpah2S03xgOU2L11XVLvxK+wmm+ga+8iX2GcssNINl1dR5cdshd4H2nu7viEe+3+Fne2NUOrloyTJlFzZFa/cHC29o2OEG1ltSfDZ0SY2X9gw8cE5hEWlaz4Z+NDspuHFadECG8qq7wn4f8UCRH4OiHBUinJ5STAunp1LJNBHOqELTiJg==;IQ5Py2nc08wXKxbbNb9qkA=="
+secured: "gY5Ke+p455j1THqvjygK4x7QYWlV2d8EmkfX1RmmGqXgv4xaG+dzE/kljM+5+Qf8JKsu1MD176HNoj9CYDgv7KE3z8ayDzWBHT1Zv9kRfcrPLTucPCmcYemkidon/pp267dIqMF9E16+Xdd5ubrqmTSQfHmGTHMyrZ1P5+xmv02qZPTEy6lcnNmVtgpsjV50UeWlU4GRmffF4GXV9cqTR4zMwwDFhZoPV5skOgpuYl1uy/mqEm8kgmRDD+F72yAGVuxceLlNPKn+VG1htGOAGX6emGg9OOxGi+89Z/EOEqGW4LF/pesYkebXHmVkescSO/tBhmCKrrxA6r6E9mz+1Tl2SGVP2Hn2Pzs1V+CzSp8=;WdyuI1UEkToZKXwvG0pfbg=="
 ---
 

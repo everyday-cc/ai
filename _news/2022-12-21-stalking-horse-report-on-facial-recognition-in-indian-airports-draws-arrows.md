@@ -35,6 +35,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Face recognition technology to be used for security check at airports"
+    excerpt: "Smart check in’ is provided by ETC for pre-boarding security check at airports. It uses the advanced face recognition technology with high accuracy in authenticating information. This important service was introduced in the 78 th national conference of the police force on December 19-20,"
+    publishedDateTime: 2022-12-21T02:42:00Z
+    webUrl: "https://vietnamnet.vn/en/face-recognition-technology-to-be-used-for-security-check-at-airports-2092849.html"
+    type: article
+    provider:
+      name: Vietnamnet
+      domain: vietnamnet.vn
+    quality: 71
+    images:
+      - url: "https://static-images.vnncdn.net/files/publish/2022/12/21/face-recognition-technology-to-be-used-for-security-check-at-airports-e64411183bc1457dba5508e8aee7a37f.jpg"
+        width: 560
+        height: 380
+        isCached: true
   - title: "TSA trying out facial recognition system at several new airports"
     excerpt: "It is the new technology facing travelers as they fly for the holidays. RELATED: How does facial recognition technology work? The Transportation Security Administration is now scanning your face at select airport checkpoints as part of a growing test with passengers as the subjects."
     publishedDateTime: 2022-12-19T15:34:00Z

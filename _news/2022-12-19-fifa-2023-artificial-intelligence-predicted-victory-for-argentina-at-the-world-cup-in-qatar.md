@@ -56,6 +56,20 @@ related:
         width: 1024
         height: 737
         isCached: true
+  - title: "Big Things Ahead for AI in 2023: Predictions"
+    excerpt: "The AI train has been gaining steam for several years now, and nothing appears ready to stop it (except for bad data, that is). With momentum building,"
+    publishedDateTime: 2022-12-20T22:51:00Z
+    webUrl: "https://www.datanami.com/2022/12/20/big-things-ahead-for-ai-in-2023-predictions/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 37
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2022/12/2023_start_shutterstock_Fit-Ztudio.jpg"
+        width: 664
+        height: 356
+        isCached: true
 
 secured: "42o33b6KvIVT6tkj0x2kAAPuoyP/mK/sgpaWwJj+8k8TdYDnSvJnf8UOz3axrU+50KjtNXE1MkT1Vl6/4drCSTcze7RIS838EZTn3xMwxR1NFpj5XbJSCxUpafFPojdzhPuZyQjeeg/Ywcz2JVvYNFJyu9twbp59UP9h5vcB92TCSLbONJA3ZKDag4w33CC3cnWd8GjupcH1Ph85Ke70fh0HyclK1X4QcbsI/faQ4NSjTFv1ruRej1/1/akHhD/Ox/X9KIkZKecoQJ716fFlMl9oy3PauT7oPLPq5YKQm3uUZoupuL7eupcvdx3daHdX0VeL1m3e0jO9Xjp9PQNFQlfPymRKtTCpWqkLNKYHkriRpLhyrsiWlhojYeWQFEEphQVd2F+3ptYgDHRtk+DLXuv3sluFYZTQrBNydrjsO5l584Vsui0RuPxhun7nGjS0Ra4eUZsL2is+J3hjvEGDJucu8fpWOpJZRaFB2txbHmzElXnzQpRcoLTzy16AL0cQF6PrIYEVMYqLiOIB7LFIMA==;Z+3meJ+8WrukN56d8KSm4A=="
 ---

@@ -38,6 +38,20 @@ related:
         width: 1500
         height: 1007
         isCached: true
+  - title: "Harnessing artificial intelligence technology for IVF embryo selection"
+    excerpt: "An artificial intelligence algorithm can determine non-invasively, with about 70 percent accuracy, if an in vitro fertilized embryo has a normal or abnormal number of chromosomes, according to a new study from researchers at Weill Cornell Medicine."
+    publishedDateTime: 2022-12-19T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/974901"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/2dcce2b4-68eb-41a9-8e62-48d42f435b6e/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 201
+        isCached: true
   - title: "Non-invasive artificial intelligence approach for IVF embryo selection"
     excerpt: "An artificial intelligence algorithm can determine non-invasively, with about 70 percent accuracy, if an in vitro fertilized embryo has a normal or abnormal number of chromosomes, according to a new study from researchers at Weill Cornell Medicine."
     publishedDateTime: 2022-12-20T06:01:00Z

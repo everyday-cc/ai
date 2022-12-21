@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/12/20/openai-releases-point-e-an-ai-that
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/20/openai-releases-point-e-an-ai-that-generates-3d-models/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/openai-1.png"
         width: 859
         height: 478
-        isCached: true
-  - title: "ChatGPT got all the buzz, but beneath it is a $1B developer framework that's quietly fueling the new era of lifelike AI at OpenAI and beyond"
-    excerpt: "The Ray developer framework is used by OpenAI, Amazon, and more to solve one of AI's biggest pain points and make AI tools like ChatGPT possible."
-    publishedDateTime: 2022-12-16T10:00:00Z
-    webUrl: "https://www.businessinsider.com/openai-chatgpt-trained-on-anyscale-ray-generative-lifelike-ai-models-2022-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-    images:
-      - url: "https://i.insider.com/639a263b27c0a700193e267a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "yEEhMvY24hnXiokBMkAkNe5oj47xAl3gicO8+qPBPr8ZYQXnZMtADQMBwZ/9B/bOUGDvRSBCV55ZSn0jVZ7by7JHCnwPpFSPqXIFG3PRaFFSAYo6xDaue2DuzpBbx7R9okrNyLbAj2Ms9F5ctHJvgT4zX5qP5eOUwRrx3mGsozo7sZQ45EY7GxNrULlvCotzeLvTU8iSU0i9JJEGttGhccazdgYMGp+n8Mxeo910dLUkjisBxsuN+pUEy1zwQGTeSd03vIS3nnk5oHh63BxBQ+C0UObOVTsz2PKvae8wHPO85ZbnlR57nTvZr7QtnJdu2LjNkANfs++gLoRgI7dQuTAa5XQ46c82nKUgAVGI3NYSH7RTtMrsxH4lVvLTrdpGDrTn2i1Iu19GQtEJpkP5Eg367Wty1ixQ8VmJn1sz303YlSh6/j7apyZD93LGVeDCVE1yyhJW49aaEYOsGsKYEZBfla6b+eHDZ9v7W30ZsXq4qLQ35brmqUNFnumMNnUFlu1c+gMpiMAkuaGbB3GJPA==;DHwZ3LGZcPJ7TB1qGnL3fQ=="

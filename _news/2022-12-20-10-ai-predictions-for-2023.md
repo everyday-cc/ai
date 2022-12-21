@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2022/12/20/10-ai-predictions-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/12/20/10-ai-predictions-for-2023/amp/"
 type: article
 quality: 91
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://static.electronicsweekly.com/wp-content/uploads/2022/12/16133121/axelera_ai_m2_blob-1024x737.png"
         width: 1024
         height: 737
+        isCached: true
+  - title: "Big Things Ahead for AI in 2023: Predictions"
+    excerpt: "The AI train has been gaining steam for several years now, and nothing appears ready to stop it (except for bad data, that is). With momentum building,"
+    publishedDateTime: 2022-12-20T22:51:00Z
+    webUrl: "https://www.datanami.com/2022/12/20/big-things-ahead-for-ai-in-2023-predictions/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 37
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2022/12/2023_start_shutterstock_Fit-Ztudio.jpg"
+        width: 664
+        height: 356
         isCached: true
 
 secured: "xN2gTrMrnNjJ3b2XhfolDUkesjOzw5vCWUsdAA4rJUrJL+mQOp7k6k5gF2a51WUjDyJzTo3YFo1988YFUjvV8i7C33DqUpxTGVxN+60hMBoUu5KfaKpPiPIstYqefiEDXyISnF7Ez9XBfS9yz8HEbD1agH/71F3x0w/HancE4Hlj0uUWNvpaPDWSHgAPZYEIoCQ0kWfIZd/EJlI5GbTSclyDniMSATtVtNh7KpnrYQWX7cajdZ4dGJeB3Vh6yd3Jz6rC0f0DxQPdYqiaiCD1z6K9N7nh3xuoLOH4v/1vCl61++clv9LJ8yc6kyy1YD3RBA6R5eOh9bY/0uU1fWjLQQ4vYk490g3fGCKUrCWBz0irk0+Atr/KRcABlCzO4E0+BXJelBbQHOpKfdWOR5vjHRI985++9e12wfMNZyoRPGhQl6YOeOp+gyY989CaB9yUyI5yY+5vF7WKMqo1RfPvpNsk6XaAVb0H2IPn9FnfTc40UHd7BU4J+dX6gHEXBiBLlY3D8gxpLAtWx/lrTIqcTw==;5z0JzoiJDpwpPDqxQ8A/KA=="

@@ -7,7 +7,7 @@ originalUrl: "https://abc7news.com/cruise-robotaxis-autonomous-cars-stopping-too
 webUrl: "https://abc7news.com/cruise-robotaxis-autonomous-cars-stopping-too-quickly-self-driving-taxis-braking/12579700/"
 type: article
 quality: 3
-heat: 3
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "NHTSA opens safety probe into GM's Cruise autonomous driving system"
+    excerpt: "NHTSA is opening a formal probe into GM's Cruise autonomous driving system after a series of crashes and complaints of hard braking and immobilization."
+    publishedDateTime: 2022-12-16T13:45:00Z
+    webUrl: "https://www.autoblog.com/2022/12/16/gm-cruise-nhtsa-investigation-autonomous-taxi/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 4
 
 secured: "+d0kc838D40bO3a7jV1E4y/fVldIOdtkz9HO+407LIKULxGF0b3x06u+GYqga4K6RdJaOjFAkE6f9wtD0NA9nrtPBDwgMnVR/mPUDeprzskSMuKa8UkdoHxSao6aw+MCgHb1WMyqkCHAmJIfzASN4QGzmoFLrNBzW4cmy6Mvl3O+OrsY2n5qk5GDf249gODuhnoMm7j8osbOykYtbVyAZt7VuDb94OgHjitsRbG6u1+5YpKVh3oZDGcur08xXja+XGHlidA1t/w6eXJNh5GnQdSjcIndQyvXAHVZo7ioVCPzvjm1Q4FEAg6hEhaDmXO26cidEs9QMhsC0yXVv/OTkPMwcJ1Cl+sW8m/1gxaw1mYxrY16pLmP/4eUYxG2UIh4Xc6q0NrERhfLOZYmw/eVMjSIHEwJjyd0AZ4PM6wBmB0adwKQ7vgVLc0zVfbQypijJBZMZrlMdo/QDDHtysBoqCjOryDVtnU1d/cXzGE1jNn3mL2twDmG+LWgwwKVFo8LcsWlTMtcf1gsz8yKC8Wndw==;uuc6GsZcGmvCb5rFPBJ3uQ=="
 ---

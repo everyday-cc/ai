@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/games/conversing-with-my-ai-friend-chatgpt-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/conversing-with-my-ai-friend-chatgpt-the-deanbeat/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -87,15 +87,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
-  - title: "Meet ChatGPT: The AI Chatbot That Can Write Code, Pass Exams, and Generate Business Ideas"
-    excerpt: "OpenAI's ChatGPT chatbot has advanced AI technology with its ability to generate original, human-like responses. However, there are significant ethical concerns to consider, including the potential for incorrect or fictitious answers and bias in decision-making."
-    publishedDateTime: 2022-12-16T11:00:00Z
-    webUrl: "https://www.aei.org/technology-and-innovation/meet-chatgpt-the-ai-chatbot-that-can-write-code-pass-exams-and-generate-business-ideas/"
-    type: article
-    provider:
-      name: American Enterprise Institute
-      domain: aei.org
-    quality: 10
 
 secured: "pbpu6F+1rpH6UybSqJuQ/En5IcqPhXAOTop78x8dulQp3YDkFL+XY0eQJn0EQy5I4Rxc8ArvRNY4AaGNZClr418YgGohDM+g5r+T/BCTSqsH7fqUz8gBi6a8Rf7UDyx5tSbaJt7Tibx+Moof9cegZZ39LnBls2NMFhPBfZm/d/QnuGyeTYFbCIMc2V7CXqf9f+rt3NGtZJJHh8WNPU3aY1l4oZqf3XggYFzoCWOPboV0tN7JTKOOS7zFnHDSz1skWZzdcOQr1fQtOk/zfGT/nim/Tu9bY+WNS8DXJ0rip/3n8/BjJ/FUHcFkvmXXtJ4YaJQH5DVIKWaq+NibfEb20lS6ANZp2D9C+OT0mi0OrVvKtyv3XcjtW6d3RFf8LdrqkxZKvSeJmCxigdgsY2QoToraBO5tzU5GiLZQ20209b7i8o4d820V+0UIH2Rt+qiqUQUcRT9ks993WSZ15Pq99qvQBNxslsbSKaqtQTF6JwEhAQ3308yHGmG+Y/znh/AfYmR2IeIKsU7mPZfkgduwOA==;n4MqGxS+e2OAsIOKd9r0Kw=="
 ---

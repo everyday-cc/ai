@@ -57,20 +57,6 @@ related:
         width: 859
         height: 478
         isCached: true
-  - title: "ChatGPT got all the buzz, but beneath it is a $1B developer framework that's quietly fueling the new era of lifelike AI at OpenAI and beyond"
-    excerpt: "The Ray developer framework is used by OpenAI, Amazon, and more to solve one of AI's biggest pain points and make AI tools like ChatGPT possible."
-    publishedDateTime: 2022-12-16T10:00:00Z
-    webUrl: "https://www.businessinsider.com/openai-chatgpt-trained-on-anyscale-ray-generative-lifelike-ai-models-2022-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-    images:
-      - url: "https://i.insider.com/639a263b27c0a700193e267a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "PF5hnsPEgbWFXED6bbjOhNb5rRCnlcZYxtmFtu07Tzxcqe+d6WrOBau3zv4u5gFfc0KqJ6XDukKwz1k/A6OX1rnveIwQYZ07j3OzkLmX8Jy2DPn2kWUGa6ABEE/gDLZUPxYMhPyooS1U8mKve9+7z6pWwuHkZGtZipRE1Ss5DKou5uGyw9MmVOq3PamfpkAYnc3ILUThQGyASQ9ZsHnUkyiY5OcaMnbQ/ftGCCRQRXAQsDbZjnT5xLEEGSTzzLcDR+AwfmN3wPphCLYp96LENgqgAb5fR2TVafMR7Dg8z7/TtwdNc0QdAxN0TDEfttoE0u9JOHalwSWTFVjmzuEUpQFgC2zmSIoJynH02nwdU8tS5Ch7MxSdyuclQ/lM44KIrh6DhYH1ut/X3TP18D8PydDEBtK1myxzIy43rZ77Ndj7+4BRn/tQ5B8GYW1E943UIudx+cdYJJiU505WnUJSTlevkjEB3M/QCsT2h5g2SzyfZYizv6jWBZY9JLG34v0f58OVA+DgGsk6vp9PEdpbEg==;3nlYfbmfTFLCqBFKxc2Eng=="
 ---

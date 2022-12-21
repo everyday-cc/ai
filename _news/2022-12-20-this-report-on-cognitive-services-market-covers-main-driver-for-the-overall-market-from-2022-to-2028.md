@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/this-report-on-cognitive
 webUrl: "https://www.marketwatch.com/press-release/this-report-on-cognitive-services-market-covers-main-driver-for-the-overall-market-from-2022-to-2028-2022-12-20"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market 2023 Size | Share, Forecasts Analysis, Company Profiles, Competitive Landscape and Key Regions 2028 | Top Countries Data"
-    excerpt: "The Voice Recognition market report provides an overall assessment of the market for the forecast period. The report"
-    publishedDateTime: 2022-12-16T10:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2023-size-share-forecasts-analysis-company-profiles-competitive-landscape-and-key-regions-2028-top-countries-data-2022-12-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 0
 
 secured: "k3XnPQVHSV6wGfmQ+J6dhY7lfpYeCQOOxLiZy1Cbip+Wh5bT9xN6eaptbB23Daxtqklidb/s2QMIknX0rUmqttOpqOwp0fpIjHWBNjpp/ZpBOTSIJdenobPO5Y+d4TsfKltc+ufQwELRv8sZ+2wxTgikYn0plxjy+QNp/PkBGmgngov19VnMdxN73wKeK0Eo6rmj2aKj0GAXu0EssWR9/MYAURyVlO9eha6Si9V0E2QcKf/ruin9XijbJUqNCFLeYO01+NSKyvJTwf6TWY3qoTjo6M53Tw+nHP43oDMHMiv4Z4bYMFJpezoAhd8teSdw8/4wFcM5f6ZaGvsyn1Klrs6ECn6YMBiVbVMucLWUDlU=;6WG/REezVR2FSnuJaSvhEw=="
 ---

@@ -82,15 +82,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 26
-  - title: "Meet ChatGPT: The AI Chatbot That Can Write Code, Pass Exams, and Generate Business Ideas"
-    excerpt: "OpenAI's ChatGPT chatbot has advanced AI technology with its ability to generate original, human-like responses. However, there are significant ethical concerns to consider, including the potential for incorrect or fictitious answers and bias in decision-making."
-    publishedDateTime: 2022-12-16T11:00:00Z
-    webUrl: "https://www.aei.org/technology-and-innovation/meet-chatgpt-the-ai-chatbot-that-can-write-code-pass-exams-and-generate-business-ideas/"
-    type: article
-    provider:
-      name: American Enterprise Institute
-      domain: aei.org
-    quality: 10
 
 secured: "9ny4Z+YaDmMt7cMq7d8rTR7nbTvmzFMSGHCzQ6EW8jBBbXx3DwQuMzI5uD6cfwp14obPsgWCjOfQ1EwQRgfB7OKTrJhK/pGnjs7PxrFphvzWdIFqZds8QxjKMakpvhHkPgdQiP/3uoVAtWagCudyJ1g8zEmgBN02kadkTiM+qnrPuDev4IT8Bwa+bI9AlGJsHZr9PsTk4BFi84S1C1FNRO041MjWt3k9lfGuDrfz25yxcdMGfzgIfRlnghxTia51UCBb7Kb5+azPgAhFcREhrkZeisoRMEYfkAnYH+eAFth3BatvwhrvqXHgfLVsdyYy6W+PMIDUsafOAMLf31PEvjKCKqSbRvuAs3r94NyK1uVDx4DcFUyyaC8u5ZFQ3Afqqe7QCTr0BAXd6JF8WAuvYs7qK+NvvhKAKauiYtMwrpbKovQC5s1Fnv9hBe+GMeHw1KnVm1NPveKWfXNSSe4puAThY/KD66uPUrVF225fWfoxOaMgQLsWiP0WpsJgyItrR202f9x2MOZS2u0TitLQLQ==;BYIYBgputAgYPvihW+V3Og=="
 ---

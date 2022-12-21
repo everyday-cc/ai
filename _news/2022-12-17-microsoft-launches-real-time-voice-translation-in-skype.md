@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mid-day.com/amp/technology/article/microsoft-launches-re
 cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/technology/article/microsoft-launches-real-time-voice-translation-in-skype-23261056"
 type: article
 quality: 61
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       - url: "https://images.ctfassets.net/y8fb0rhks3b3/5mzmBPIGHbx1UoaiG6Nlu1/95405aae00953b3407b39047c28309de/MSFT_workLab_agile_KevinScott_article_1920x1080.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Skype gets real-time voice translation feature, here’s how it works"
-    excerpt: "Real-time translations with natural voice will be coming to group video calls and Telephony in the next months."
-    publishedDateTime: 2022-12-16T09:35:00Z
-    webUrl: "https://www.dnaindia.com/technology/report-skype-gets-real-time-voice-translation-feature-here-s-how-it-works-3011096"
-    ampWebUrl: "https://www.dnaindia.com/technology/report-skype-gets-real-time-voice-translation-feature-here-s-how-it-works-3011096/amp"
-    cdnAmpWebUrl: "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/technology/report-skype-gets-real-time-voice-translation-feature-here-s-how-it-works-3011096/amp"
-    type: article
-    provider:
-      name: DNA India
-      domain: dnaindia.com
-    quality: 44
-    images:
-      - url: "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2022/12/16/2560989-skype.png"
-        width: 640
-        height: 360
         isCached: true
   - title: "Microsoft announces Future Ready Champions of Code Program to empower India’s developer community"
     excerpt: "Microsoft today announced the launch of Future Ready Champions of Code, a pan India program for developers, focused on sk"

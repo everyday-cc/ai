@@ -49,6 +49,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
+  - title: "Harnessing artificial intelligence technology for IVF embryo selection"
+    excerpt: "An artificial intelligence algorithm can determine non-invasively, with about 70 percent accuracy, if an in vitro fertilized embryo has a normal or abnormal number of chromosomes, according to a new study from researchers at Weill Cornell Medicine."
+    publishedDateTime: 2022-12-19T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/974901"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/2dcce2b4-68eb-41a9-8e62-48d42f435b6e/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 201
+        isCached: true
 
 secured: "fIisNtitpHG3gS0ln0WsG8MkO0vZdLzMU2043SvxxzZPSUVp2TsK+ERlA1mYwMIjTNF74K0m6RWeUHH6ligB64/LdlSp9wPeO2bbCNxBAXxJd4ww1YZoqQ5zstABf69K1AXq2Dbz3wFWeQ9PKtcvt4FP7xYIQH6mEh/6/0B1Km4DeGJ88yC6T5tMCx/L7y70fsILD9g0vrBJCBPh+cX+AfDFQ/PFKBl9Wgrvyz/qfONtyc+CH1Aa7D45z2MZD+NhOKrQQ30wBkfdwBn0y8nPD61Hlp1NrrDcn1DAQL3Lzbgld13FRu+uWhVbGRe4hwKB1YQGJ/ubsLmi8AO10nMz3qJQkugvADK5pD1tdqcPrT8=;kAerPnn20zqEZ1vXeMbJRw=="
 ---
