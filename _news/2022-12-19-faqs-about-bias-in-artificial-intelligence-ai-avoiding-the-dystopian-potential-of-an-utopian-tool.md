@@ -8,8 +8,8 @@ webUrl: "https://www.natlawreview.com/article/faqs-about-bias-artificial-intelli
 ampWebUrl: "https://www.natlawreview.com/article/faqs-about-bias-artificial-intelligence-ai-avoiding-dystopian-potential-utopian-tool?amp"
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/faqs-about-bias-artificial-intelligence-ai-avoiding-dystopian-potential-utopian-tool?amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"

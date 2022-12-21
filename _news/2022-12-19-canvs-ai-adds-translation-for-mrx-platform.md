@@ -7,7 +7,7 @@ originalUrl: "https://www.mrweb.com/drno/news34354.htm"
 webUrl: "https://www.mrweb.com/drno/news34354.htm"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "Canvs AI Announces Translation for Canvs MRX Text Insights Platform"
-    excerpt: "As Canvs has become a more and more indispensable part of our customers’ research processes, support for multi-language text analysis has been one of the most-requested features,” said Canvs Founder & CEO Jared Feldman."
-    publishedDateTime: 2022-12-16T15:07:00Z
-    webUrl: "https://www.marketingdive.com/press-release/20221215-canvs-ai-announces-translation-for-canvs-mrx-text-insights-platform/"
-    type: article
-    provider:
-      name: Marketing Dive
-      domain: marketingdive.com
-    quality: 39
-    images:
-      - url: "http://res.cloudinary.com/dmgi9movl/image/upload/v1671196897/press_release/assets/header_images/Translation_for_Canvs_MRX_-_Press_Release_Header_1500_700_px_pnk0hi.png"
-        width: 1500
-        height: 700
-        isCached: true
 
 secured: "I9Hr5T+tiVgGqjhixCuEshnBT1dLFWAnuDpm0TlX67/PoTJKkqHwj1FAbtTj29N0Ya1xR1TyAoENMQ7x0MH32VkHRqGoR+dRTCWEgSi0hXzV7J69YkyZJ37QykbgiG/qUM5ehOh0bLCjORnicT48DmtgY7os6FVv7rGk1m0e6aToVjH7EXb49XYG8i6PiVMxWLRUabCqGO4XQudiHOCi2VIbulueAasWafqxmSG8L2fANOG6frHbERQVDazv47ZIIxYcMpUctzJhsf0/4Hk6ERqoJmRHZIKnkzpMhRI3riF9hXG1TrBosWu8v2HY/keb7U+Ic1x1HU8s+zZrVdk5B0Gl1MXZQCD2XkKGeI1w1uqoPVVEiJFIuCSpJMduu+g0JHIsByWvNJb0FcJVMXWukiDtBXoA9ViBw551gQHaZZqsJryiZfqdWPmTwC2cecC+pHBT3VnSweM+haMhrB7ujBmDwRmubtZbzpE0TwfR/3233+aEps0OylEwuYTdwyLJROq9g8ashBvDByKTKdsuNA==;bpHi8yAdw0XvI0BG2m+Z8w=="
 ---

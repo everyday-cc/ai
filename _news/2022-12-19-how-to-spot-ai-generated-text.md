@@ -41,22 +41,6 @@ related:
         width: 1600
         height: 1200
         isCached: true
-  - title: "How AI will change our workplace"
-    excerpt: "Artificial intelligence is already omnipresent in our private everyday life, through the likes of voice-controlled household helpers, self-driving cars, and optimized adverts that stem from the behavioural analysis of our smartphone and internet history."
-    publishedDateTime: 2022-12-16T16:55:00Z
-    webUrl: "https://bmmagazine.co.uk/business/how-ai-will-change-our-workplace/"
-    ampWebUrl: "https://bmmagazine.co.uk/business/how-ai-will-change-our-workplace/?amp"
-    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/business/how-ai-will-change-our-workplace/?amp"
-    type: article
-    provider:
-      name: Business Matters
-      domain: bmmagazine.co.uk
-    quality: 59
-    images:
-      - url: "https://bmmagazine.co.uk/wp-content/uploads/2021/08/shutterstock_1182748681-scaled.jpg"
-        width: 850
-        height: 523
-        isCached: true
   - title: "This Generative AI Platform Empowers Marketing Teams to Generate Premium Videos"
     excerpt: "Marketing teams know a thing or two about multitasking. From brand optimization, and content generation, to implementing strategies and tactics, their cross-functional roles are integral to the growth and success of every organization."
     publishedDateTime: 2022-12-19T09:00:00Z

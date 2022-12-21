@@ -2,6 +2,49 @@
   "page": 95,
   "value": [
     {
+      "path": "_news/2022-09-29-intel-reveals-arc-a770-gpu-price-and-availability.md",
+      "title": "Intel Reveals Arc A770 GPU price and availability",
+      "excerpt": "Intel claims that its GPU offers up to 65% better peak performance versus competing products (presumably NVIDIA RTX 3060 series) in ray tracing. In addition, A770 features a full complement of 32 Xe Cores and ray tracing units.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digit.in/news/pc-components/intel-reveals-arc-a770-gpu-price-and-availability-65431.html",
+      "originalUrl": "https://www.digit.in/news/pc-components/intel-reveals-arc-a770-gpu-price-and-availability-65431.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.digit.in/default/6c05faa58515f2a238ad80b12e86c16810dc453c.jpeg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digit.in/article/amp/pc-components/65431/intel-reveals-arc-a770-gpu-price-and-availability",
+      "cdnAmpWebUrl": "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/pc-components/65431/intel-reveals-arc-a770-gpu-price-and-availability",
+      "publishedDateTime": "2022-09-28T18:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digit",
+        "domain": "digit.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-29-experts-warn-ai-assistants-are-hurting-the-social-development-of-children.md",
       "title": "Experts warn AI assistants are hurting the social development of children",
       "excerpt": "An analysis from Cambridge experts suggest that interactions with AI assistants like Alexa is impeding the social development of children and disrupt learning.",
@@ -1129,49 +1172,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-chinas-ponyai-saic-ai-lab-to-advance-marvel-r-robotaxi-partnership.md",
-      "title": "China's Pony.ai, SAIC AI Lab to Advance Marvel-R Robotaxi Partnership",
-      "excerpt": "Pony.ai, a Chinese autonomous driving startup, and an artificial intelligence lab of SAIC Motor Group are deepening joint product development after revealing their driverless concept car Marvel-R. SAIC AI Lab and Pony.",
-      "sourceUrl": null,
-      "webUrl": "https://www.yicaiglobal.com/news/china-ponyai-saic-ai-lab-to-advance-marvel-r-robotaxi-partnership",
-      "originalUrl": "https://www.yicaiglobal.com/news/china-ponyai-saic-ai-lab-to-advance-marvel-r-robotaxi-partnership",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img.yicaiglobal.com/cdn/news/china-ponyai-saic-ai-lab-to-advance-marvel-r-robotaxi-partnership/23913886101189.jpg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-28T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Yicai Global",
-        "domain": "yicaiglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,49 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2022-11-21-googles-machine-learning-software-has-learned-to-replicate-itself.md",
+      "title": "Google's Machine Learning Software Has Learned to Replicate Itself",
+      "excerpt": "Back in May, Google revealed its AutoML project; artificial intelligence (AI) designed to help them create other AIs. Now, Google has announced that AutoML has beaten the human AI engineers at ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/googles-machine-learning-software-has-learned-to-replicate-itself",
+      "originalUrl": "https://futurism.com/googles-machine-learning-software-has-learned-to-replicate-itself",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2017/10/google-1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-20T14:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-21-3-top-tips-to-help-smbs-make-a-successful-home-in-the-ai-space.md",
       "title": "3 top tips to help SMBs make a successful home in the AI space",
       "excerpt": "Not only is AI significantly less depressing than the other two, it’s also produced a number of business innovations and is becoming more affordable as a mass solution. In the startup space, AI has helped predict Covid variant trends, power military ...",
@@ -1115,58 +1158,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-19-robot-delivery-startup-nuro-is-laying-off-20-percent-of-its-workers.md",
-      "title": "Robot delivery startup Nuro is laying off 20 percent of its workers",
-      "excerpt": "The layoffs were the latest piece of bad news to hit the AV industry, which just saw one of its more prominent names, Argo AI, shut down in recent weeks. “Laying off team members is always the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/11/18/23466684/nuro-layoff-av-autonomous-delivery-robot-self-driving",
-      "originalUrl": "https://www.theverge.com/2022/11/18/23466684/nuro-layoff-av-autonomous-delivery-robot-self-driving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/0jNKCIs43kMjc4O7K8C3zpbP-SU=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23161324/Hero_Image_2__Nuro_Groceries.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-18T12:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

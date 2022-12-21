@@ -2,6 +2,49 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2022-11-28-klotho-protein-levels-protect-against-cognitive-decline-in-alzheimer-patients.md",
+      "title": "Klotho protein levels protect against cognitive decline in Alzheimer patients",
+      "excerpt": "The lack of this protein within the brains of klotho knockout mice led to cognitive deficits, premature death, and synaptic loss. Conversely, the overexpression of the Klotho protein in mice is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20221127/Klotho-protein-levels-protect-against-cognitive-decline-in-Alzheimer-patients.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20221127/Klotho-protein-levels-protect-against-cognitive-decline-in-Alzheimer-patients.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_732076_16695937424557873.jpg",
+          "width": 1000,
+          "height": 556,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-27T17:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-28-enzyme-drives-cognitive-decline-in-mice-provides-new-target-for-alzheimers.md",
       "title": "Enzyme drives cognitive decline in mice, provides new target for Alzheimer's",
       "excerpt": "Enhanced activity of Alzheimer disease-associated variant of protein kinase Cα drives cognitive decline in a mouse model. Nature Communications , 2022; 13 (1) DOI: 10.1038/s41467-022-34679-7 Cite ...",
@@ -1070,49 +1113,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-26-leading-retail-companies-in-the-artificial-intelligence-theme.md",
-      "title": "Leading retail companies in the artificial intelligence theme",
-      "excerpt": "Amazon offers a slew of AI and ML services through AWS. These include pre-trained AI services for image and video analysis (Rekognition), conversational agents (Lex), and text-to-speech applications (Polly). Cloud ML platform SageMaker was launched towards ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-style.com/data-insights/top-ranked-retail-companies-in-artificial-intelligence/",
-      "originalUrl": "https://www.just-style.com/data-insights/top-ranked-retail-companies-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-style.com/wp-content/uploads/sites/27/2022/12/Retail-Artificial-intelligence-2.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-25T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Companies",
-        "domain": "just-style.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

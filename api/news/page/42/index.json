@@ -2,6 +2,49 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2022-11-16-aetina-launches-new-systems-and-platforms-powered-by-nvidia-jetson-agx-orin-for-next-generation-ai-and-computer-vision-applications.md",
+      "title": "Aetina Launches New Systems and Platforms Powered by NVIDIA Jetson AGX Orin for Next-Generation AI and Computer Vision Applications",
+      "excerpt": "Aetina has launched new Jetson systems and platforms designed for use in advanced AI and computer vision applications. The systems",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/aetina-launches-new-systems-and-platforms-powered-by-nvidia-jetson-agx-orin-for-next-generation-ai-and-computer-vision-applications-301677473.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/aetina-launches-new-systems-and-platforms-powered-by-nvidia-jetson-agx-orin-for-next-generation-ai-and-computer-vision-applications-301677473.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1946338/Aetina_Launches_New_AI_Inference_Systems_Platforms_Powered_NVIDIA_Jetson.jpg?p=facebook",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-15T11:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-tigergraph-cloud-adds-graph-analytics-machine-learning-tools.md",
       "title": "TigerGraph Cloud adds graph analytics, machine learning tools",
       "excerpt": "The updated graph database-as-a-service (DBaaS) will come with visual analytics and machine learning tools, made accessible via the TigerGraph Suite.",
@@ -1127,58 +1170,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-italy-outlaws-facial-recognition-tech-except-to-fight-crime.md",
-      "title": "Italy outlaws facial recognition tech, except to fight crime",
-      "excerpt": "REUTERS/Guglielmo Mangiapane/File Photo MILAN, Nov 14 (Reuters) - Italy prohibited the use of facial recognition and 'smart glasses' on Monday as its Data Protection Agency issued a rebuke to two ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/italy-outlaws-facial-recognition-tech-except-fight-crime-2022-11-14/",
-      "originalUrl": "https://www.reuters.com/technology/italy-outlaws-facial-recognition-tech-except-fight-crime-2022-11-14/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/edLPTHHNyD8EmVEPl-Rmun3k-ss=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZUEIO4HAIVJHRFNQU5QWPF3VUY.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-14T22:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

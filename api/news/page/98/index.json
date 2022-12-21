@@ -2,6 +2,58 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2022-09-27-nvidia-gtc-highlights-memory-and-storage-importance-for-the-future.md",
+      "title": "NVIDIA GTC Highlights Memory And Storage Importance For The Future",
+      "excerpt": "The NVIDIA GTC brought out new GPU and other hardware that will accelerate data processing in gaming, enterprise computing, cloud computing, automotive and media creation and require large amounts of memory and storage to support the creation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2022/09/26/nvidia-gtc-highlights-memory-and-storage-importance-for-the-future/",
+      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2022/09/26/nvidia-gtc-highlights-memory-and-storage-importance-for-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/633266af606c3425ffdd5382/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2022/09/26/nvidia-gtc-highlights-memory-and-storage-importance-for-the-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2022/09/26/nvidia-gtc-highlights-memory-and-storage-importance-for-the-future/amp/",
+      "publishedDateTime": "2022-09-26T20:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-27-image-recognition-in-retail-market-to-show-impressive-growth-of-1843-cagr-during-the-period-2022-2027-98-report-pages.md",
       "title": "Image Recognition in Retail Market to show impressive growth of 18.43% CAGR during the period 2022-2027 | 98 Report Pages",
       "excerpt": "Sep 27, 2022 (The Expresswire) -- [98 Report Pages] Image Recognition in Retail market size was valued at USD 1456.96 million in 2021 and is expected to expand at a CAGR of 18.43% during the ...",
@@ -1106,50 +1158,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-augnito-records-rapid-growth-in-uk-clinical-speech-recognition-deployments-in-first-year-of-sales.md",
-      "title": "Augnito records rapid growth in UK clinical speech recognition deployments (in first year of sales)",
-      "excerpt": "Radiology departments have been the early adopters and pioneers of speech recognition technology to accommodate the ever-increasing levels of a wide variety of diagnostic reporting and the ever ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbc4i.com/business/press-releases/ein-presswire/592436200/augnito-records-rapid-growth-in-uk-clinical-speech-recognition-deployments-in-first-year-of-sales/",
-      "originalUrl": "https://www.nbc4i.com/business/press-releases/ein-presswire/592436200/augnito-records-rapid-growth-in-uk-clinical-speech-recognition-deployments-in-first-year-of-sales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.nbc4i.com/wp-content/uploads/sites/18/2022/10/Fall-Snow.jpg?w=2000&#038;ssl=1",
-          "width": 1280,
-          "height": 1008,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-26T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC4 Columbus",
-        "domain": "nbc4i.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

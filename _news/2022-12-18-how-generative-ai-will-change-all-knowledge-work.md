@@ -7,7 +7,7 @@ originalUrl: "https://time.com/charter/6242075/how-generative-ai-will-change-all
 webUrl: "https://time.com/charter/6242075/how-generative-ai-will-change-all-knowledge-work/"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI will change our workplace"
-    excerpt: "Artificial intelligence is already omnipresent in our private everyday life, through the likes of voice-controlled household helpers, self-driving cars, and optimized adverts that stem from the behavioural analysis of our smartphone and internet history."
-    publishedDateTime: 2022-12-16T16:55:00Z
-    webUrl: "https://bmmagazine.co.uk/business/how-ai-will-change-our-workplace/"
-    ampWebUrl: "https://bmmagazine.co.uk/business/how-ai-will-change-our-workplace/?amp"
-    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/business/how-ai-will-change-our-workplace/?amp"
-    type: article
-    provider:
-      name: Business Matters
-      domain: bmmagazine.co.uk
-    quality: 59
-    images:
-      - url: "https://bmmagazine.co.uk/wp-content/uploads/2021/08/shutterstock_1182748681-scaled.jpg"
-        width: 850
-        height: 523
-        isCached: true
   - title: "How to spot AI-generated text"
     excerpt: "The internet is increasingly awash with text written by AI software. We need new tools to detect it. This sentence was written by an AI—or was it? OpenAI’s new chatbot, ChatGPT, presents us with a problem: How will we know whether what we read online ..."
     publishedDateTime: 2022-12-19T10:32:00Z

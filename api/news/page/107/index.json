@@ -2,6 +2,40 @@
   "page": 107,
   "value": [
     {
+      "path": "_news/2022-09-19-soft-robot-biodegrades-inside-body.md",
+      "title": "Soft Robot Biodegrades Inside Body",
+      "excerpt": "The device can be controlled using magnetic fields ... and may even lead to soft robots that can carry out surgical procedures within the body. One of the nicest features of the device is its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medgadget.com/2022/09/soft-robot-biodegrades-inside-body.html",
+      "originalUrl": "https://www.medgadget.com/2022/09/soft-robot-biodegrades-inside-body.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medgadget",
+        "domain": "medgadget.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-19-artificial-intelligence-in-healthcare-market-status-and-size-business-growth-2022-to-2030.md",
       "title": "Artificial Intelligence In Healthcare Market Status And Size Business Growth 2022 To 2030",
       "excerpt": "The development of Artificial Intelligence (AI) technology is helping the healthcare ecosystem to flourish. It has been witnessing a lot of transformations and growth with new technological breakthroughs in various applications such as diagnosis,",
@@ -1111,48 +1145,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-global-artificial-intelligence-market-to-reach-450-billion-in-2022.md",
-      "title": "Global artificial intelligence market to reach $450 billion in 2022",
-      "excerpt": "The Artificial Intelligence (AI) market value is expected to reach nearly $450 billion this year and maintain a year-over-year growth rate in the next five years, a new report has forecast. In 2021, the global revenues for the AI market,",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/global-artificial-intelligence-market-to-reach-450-billion-in-2022/articleshow/94268554.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/global-artificial-intelligence-market-to-reach-450-billion-in-2022/articleshow/94268554.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-89644,msid-94268528/ai.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/global-artificial-intelligence-market-to-reach-450-billion-in-2022/amp_articleshow/94268554.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/global-artificial-intelligence-market-to-reach-450-billion-in-2022/amp_articleshow/94268554.cms",
-      "publishedDateTime": "2022-09-17T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

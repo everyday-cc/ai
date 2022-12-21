@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2022/12/16/business/gm-cruise-self-driving-c
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/16/business/gm-cruise-self-driving-cars-investigation.amp.html"
 type: article
 quality: 74
-heat: 96
+heat: 76
 published: true
 
 provider:
@@ -29,36 +29,6 @@ images:
     width: 1050
     height: 550
     isCached: true
-
-related:
-  - title: "Why GM's self-driving robotaxis are facing a federal probe"
-    excerpt: "The probe of GM's Cruise comes as federal regulations for self-driving cars remain unclear and the business case for them remains unproven, Axios' Joann Muller writes. Driving the news: The Cruise vehicles are being reviewed because they \"may engage in inappropriately hard braking or become immobilized while operating,"
-    publishedDateTime: 2022-12-16T15:41:00Z
-    webUrl: "https://www.axios.com/2022/12/16/gm-cruise-self-driving-robotaxi-federal-investigation"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 24
-    images:
-      - url: "https://images.axios.com/jX5gRutxDt4BiNuqKalXHqQM6IQ=/0x94:4000x2344/1366x768/2022/12/16/1671201351047.jpg"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "Feds Looking Into Cruise Self-Driving Taxis That Suddenly Stop and Clog Roads"
-    excerpt: "Widespread attention for Cruise \"swarms\" and crashes involving robotaxis have prompted officials to look into the driverless cars."
-    publishedDateTime: 2022-12-16T15:40:00Z
-    webUrl: "https://www.thedrive.com/news/feds-looking-into-cruise-self-driving-taxis-that-suddenly-stop-and-clog-roads"
-    type: article
-    provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 21
-    images:
-      - url: "https://www.thedrive.com/uploads/2022/07/08/Cruise-car-in-Hayes-Valley-San-Francisco.jpg?auto=webp"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "K+fDOdUN3kkUGnle+VXUiUo4apfBez6f0dnHCM+UK+7w5yDCDMdzz89SS1YKOLQX2Iid+G1AkZRo3sxqHmMwK2O3OXbd9NH+3MfecvvgDBOeQ+8cmdrqUZ7Lonfb6N1ovavo20s6CUxqauqWyumdfX0alk7DnwSvzH8ROqMTZLT+k17kDj/hXqDbq8FbxvIBZVLf+W5LWpwbEKbluhuCJDCm7EnupGwo9VTbCSyrNoOa2pKP5GOdxYe6595yXlhxUsVdPOkpBvZWHFquFtD5jpX7h7ySs7B29rH4XqflTBVRdjbXqbb3PNMLIaJYTcBDEQDt1h5yqs1MmWjIi87LzuIlGqOFpxYUnx8/hDQBWoZAdpMJTjmZjJfSDJA2AWnZ5FISDrNJEG5UNp85EQ9cfhcF/IDMz5zZbOCEFsZfdebx4NO/55qFdMdBBntq7iozEtZOVcQ7GDd54HN3o9vEwSNKjuywq0XyIEBnZMA3jKI9s4hy8QuoEdz3FtJnyn+hTe5FMqfa+9/YRwYPXI9Xbw==;0Nqj4LRX6cw26odPQndfFw=="
 ---

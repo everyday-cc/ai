@@ -2,6 +2,49 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2022-11-16-aws-opens-spanish-cloud-region.md",
+      "title": "AWS opens Spanish cloud region",
+      "excerpt": "It becomes AWS' eighth infrastructure region in Europe, with this one located in Aragón. Like other regions, it will have three data centers (or availability zones). The facilities will be the company's first dedicated zones in Spain, though it currently ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.datacenterdynamics.com/en/news/aws-opens-spanish-cloud-region/",
+      "originalUrl": "https://www.datacenterdynamics.com/en/news/aws-opens-spanish-cloud-region/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.datacenterdynamics.com/media/images/AWS_Logos_Small.2e16d0ba.fill-1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-16T05:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datacenter Dynamics",
+        "domain": "datacenterdynamics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-aws-launches-infrastructure-region-in-spain.md",
       "title": "AWS Launches Infrastructure Region in Spain",
       "excerpt": "AWS Europe (Spain) Region allows customers to run workloads and store data securely in Spain while serving end users with even lower latency The new AWS Region is estimated to support more than ...",
@@ -1113,49 +1156,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-aetina-launches-new-systems-and-platforms-powered-by-nvidia-jetson-agx-orin-for-next-generation-ai-and-computer-vision-applications.md",
-      "title": "Aetina Launches New Systems and Platforms Powered by NVIDIA Jetson AGX Orin for Next-Generation AI and Computer Vision Applications",
-      "excerpt": "Aetina has launched new Jetson systems and platforms designed for use in advanced AI and computer vision applications. The systems",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/aetina-launches-new-systems-and-platforms-powered-by-nvidia-jetson-agx-orin-for-next-generation-ai-and-computer-vision-applications-301677473.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/aetina-launches-new-systems-and-platforms-powered-by-nvidia-jetson-agx-orin-for-next-generation-ai-and-computer-vision-applications-301677473.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1946338/Aetina_Launches_New_AI_Inference_Systems_Platforms_Powered_NVIDIA_Jetson.jpg?p=facebook",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-15T11:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

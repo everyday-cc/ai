@@ -1,43 +1,28 @@
 ---
 category: news
-title: "As AI Rises, Lawmakers Try To Catch Up"
+title: "As AI rises, lawmakers try to catch up"
 excerpt: "From \"intelligent\" vacuum cleaners and driverless cars to advanced techniques for diagnosing diseases, artificial intelligence has burrowed its way into every arena of modern life."
-publishedDateTime: 2022-12-07T07:59:00Z
-originalUrl: "https://www.barrons.com/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610"
-webUrl: "https://www.barrons.com/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610"
-ampWebUrl: "https://www.barrons.com/amp/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/as-ai-rises-lawmakers-try-to-catch-up-01670385610"
+publishedDateTime: 2022-12-07T09:47:00Z
+originalUrl: "https://techxplore.com/news/2022-12-ai-lawmakers.html"
+webUrl: "https://techxplore.com/news/2022-12-ai-lawmakers.html"
+ampWebUrl: "https://techxplore.com/news/2022-12-ai-lawmakers.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-ai-lawmakers.amp"
 type: article
-quality: 61
-heat: 71
-published: true
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - AI in Autos
+  - AI
 
 images:
-  - url: "https://www.barrons.com/asset/external-media/afp/AFP2689439216944067383893578078951981468096---1.jpg"
-    width: 768
-    height: 512
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/ai-promoters-reckon-it.jpg"
+    width: 1024
+    height: 682
     isCached: true
 
-related:
-  - title: "As AI rises, lawmakers try to catch up"
-    excerpt: "PARIS: From \"intelligent\" vacuum cleaners and driverless cars to advanced techniques for diagnosing diseases, artificial intelligence has burrowed its way into every arena of modern life. Its pr"
-    publishedDateTime: 2022-12-07T17:34:00Z
-    webUrl: "https://www.channelnewsasia.com/world/artificial-intelligence-law-ai-bill-rights-technology-3127711"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 19
-
-secured: "X2utewyH7sP2uYHbZpuMG4GZ6cd2mb70Qx5luww+B8rEezpM+36yLL/UATZfkLPw25RP+/cMq5MbK29emlQCCbkLGk2nMG6mxF++ruoWR1PLrs1Z/ZxsVnAqGyxxQdw2sZhIZCdgLRBmekRvbatsPq2fORxpYNxwAMwQJW4PexvX7WrpcioJ/faa8XFKEUjq4v39a/j1hV/CjJLyp8qdaPxPgWVQJlWteVilqQmT9X9io0eka8EXSTF6k3SG4FfcBjIM7RmCx1aQ7lyA8pcQ0sF0in7I8d7V/bWiBqSzG4B4eygKSO31sxbK5IcaQuWB0wsBU4vFegERWuW2O6FCGVMmhdTwMAWXTp3MXDqQCT/LtbNSxJitoJROIMXkVBtbX4LWBLoqEsf2Ag47gdiWGjFEYLvHlQIg+rbziy11j0bM7LmyGzYLOY4HtFUBUfs3hfmCLZ6afk4rKli8+huDdwVK17idYuBSgScH+onxS1Itfu3SzjYBSIbReDwk4GA7aoSng2980GZhLu0/o0Pqmw==;/qBZSO4IRx112qslwy3o3Q=="
+secured: "rAUT1ZtO88HQ7i1w363TwIZ2fBbHSdnq6Is0LocTYQixX++ajqXZGgJG8QQ7oTlmrLKA7cdJGy21bZOBJQoEJyeaekNg6QnYuyBQT1vhn8jMcOQR/pEk2BYhthVNp2CwrtyJQuHNFS0Z/5YAcSUz6sgqint78HjNX75RLm30aN8ijCFiXSkRj6FezTnoizdokHfK5J1wgl/P3NnXxlm/nFDw+r04BtGSuS570OuMXceWxiUnkFy3wAIBOo8cEe6YVRrF2PkgRQBka3xzAJAPVnCBM8LmwM4pUzKSVvYVERxNkKp2mQJMZbdQjcgihd1JfMOCG3X1AWS1RqmpAePLEI6VR0y1zyfljxZ6Eb5GqI0=;mGBWz48WjMjr+vLbEjzC8A=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-marke
 webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-research-highlighting-global-opportunities-2023-growth-trends-and-share-forecast-to-2029-2022-12-20"
 type: article
 quality: 63
-heat: 223
+heat: 233
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Market Outlook 2023 and Forecast to 2029 with Top Countries Data"
+    excerpt: "Artificial Intelligence Market\" is sectioned top to bottom in this review. Worldwide and geological are two key"
+    publishedDateTime: 2022-12-19T18:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-outlook-2023-and-forecast-to-2029-with-top-countries-data-2022-12-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI In Computer Vision Market 2023 Statistics, Industry Share, Latest Trends, Growth Drivers, Size Estimate and Forecast till 2028"
     excerpt: "\" AI In Computer Vision Market \" Insights 2022 - By Applications (JHGJGHealthcare, Automotive, Agriculture), By Types (JHGJG Hardware, Software), By Segmentation analysis, Regions and Forecast to 2028."
     publishedDateTime: 2022-12-18T01:59:00Z

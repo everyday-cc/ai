@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bworldonline.com/banking-finance/2022/12/20/494019/uno-d
 cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/banking-finance/2022/12/20/494019/uno-digital-bank-partners-with-fintech-trusting-social/?amp"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -21,19 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "How Artificial Intelligence Can Enhance the Fintech Industry"
-    excerpt: "AI in FinTech has also had a similar impact with enhanced security and banking apps, making the finance industry more customer friendly. Artificial intelligence (AI) significantly impacts practically every part of our daily life,"
-    publishedDateTime: 2022-12-16T16:45:00Z
-    webUrl: "https://www.bbntimes.com/financial/how-artificial-intelligence-can-enhance-the-fintech-industry"
+  - title: "Patrick Sells' new gig: helping banks innovate and find fintech partners"
+    excerpt: "The former chief innovation officer at Quontic Bank and American Banker's 2020 Digital Banker of the Year is offering seminars, a bank-fintech matchmaking platform and fintech investment fund."
+    publishedDateTime: 2022-12-16T18:02:00Z
+    webUrl: "https://www.americanbanker.com/news/patrick-sells-new-gig-helping-banks-innovate-and-find-fintech-partners"
     type: article
     provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 39
+      name: American Banker
+      domain: americanbanker.com
+    quality: 38
     images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/How_AI_Can_Enhance_the_Fintech_Industry.png"
-        width: 1888
-        height: 1080
+      - url: "https://arizent.brightspotcdn.com/dims4/default/042c2d9/2147483647/strip/true/crop/1400x735+0+34/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F1e%2F50%2Fdf3ece014ce1af3aef905050ccff%2Fpatrick-sells.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Patrick Sells's new gig: Helping banks innovate and find fintech partners"
     excerpt: "The former chief innovation officer at Quontic Bank and American Banker's 2020 Digital Banker of the Year is offering seminars, a bank-fintech matchmaking platform and a fintech investment fund."
@@ -104,20 +104,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
         width: 600
         height: 315
-        isCached: true
-  - title: "World Fintech Show features dynamic collaborations set to influence the direction of FinTech in Saudi Arabia"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2022-12-20T06:15:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/world-fintech-show-features-dynamic-collaborations-set-to-influence-the-direction-of-fintech-in-saudi-arabia/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 5
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/12/Event-123.jpg"
-        width: 300
-        height: 300
         isCached: true
 
 secured: "SLLF+0kBHYXb8NgdIDjIz5TrNsP75a22y9hDqXDecM5eS98Ia9dX3BezZdMRVrOf0zl31v0R6lHsQ3CCr2460pR0yVkDdUn7ZkHXRYZ0PSs9JiFgunahCw1EZrHZXBon2Zj6q+OZxX17pFQkmUhSgqhypJZsmmxmKMm+HcsHpHR88Hmupl3bDC7ICLAf00UVRcsthrcMJf8J0KmqfYxa9djeHpWvxbLJt8ehMInJY+K3ePDYhUf+f1kMMewRsVUJi4jrxSjPLtmqQUaiSVjUIfZ0kvjudYJEgzRPSv7dqEF1A1nXIjlUoL9wYGqvOaU6U6C/J7HSyftHCgoRgXeNLADvhnZyhQXTCfNI+7MtJjqtpSnliNCo7waxQIsl8XBnr0gFuq73VnCIU0fVqTAjrz48SXpjoNk5z/9q2iHzESPWEmNu2Ngj04U2iYlCTUmwNOPIJ3ai/DYaP0keTkZFAEF3f7x615PGQOy+VWrhDVzilq6ef2w3b20B77t2AmmQukyoBIT7fgGQnxD069nC2w==;qhB4ANBQuUaa8uaEMA5Fng=="

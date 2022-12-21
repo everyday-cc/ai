@@ -2,6 +2,49 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2022-10-18-cove-barrel-racer-qualifies-for-rodeo-championships-in-las-vegas.md",
+      "title": "Cove barrel racer qualifies for rodeo championships in Las Vegas",
+      "excerpt": "COVE — In the West, the love of a girl and her horse is a well-known story. For Hayden Johnson, 9, a barrel racer from Cove, that love for horses is taking her to the Vegas Tuffest Jr. World ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.lagrandeobserver.com/news/local/cove-barrel-racer-qualifies-for-rodeo-championships-in-las-vegas/article_673e46c2-4e4b-11ed-a92b-5fc4a7632d1c.html",
+      "originalUrl": "https://www.lagrandeobserver.com/news/local/cove-barrel-racer-qualifies-for-rodeo-championships-in-las-vegas/article_673e46c2-4e4b-11ed-a92b-5fc4a7632d1c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/lagrandeobserver.com/content/tncms/assets/v3/editorial/8/dd/8dd743f6-4973-11ed-8521-2fc10b9b4f55/634582a12f5c9.image.jpg?crop=1703%2C894%2C0%2C161&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "La Grande Observer",
+        "domain": "lagrandeobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-18-kubiya-gives-developers-a-hand-with-conversational-ai-platform.md",
       "title": "Kubiya gives developers a hand with conversational AI platform",
       "excerpt": "Kubiya, a self-serve platform that uses conversational AI to execute devops, launched out of stealth today with $6 million in seed funding.",
@@ -1067,49 +1110,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-driverless-in-phoenix-and-gm-takes-its-ev-offensive-beyond-vehicles.md",
-      "title": "Driverless in Phoenix and GM takes its EV offensive beyond vehicles",
-      "excerpt": "It’s been a minute since I took a driverless ride in a Waymo. And the last time it was a Chrysler Pacifica. This time, I took a spin in downtown Phoenix in a driverless Jaguar I-Pace (sans human ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/17/driverless-in-phoenix-and-gm-takes-its-ev-offensive-beyond-vehicles/",
-      "originalUrl": "https://techcrunch.com/2022/10/17/driverless-in-phoenix-and-gm-takes-its-ev-offensive-beyond-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

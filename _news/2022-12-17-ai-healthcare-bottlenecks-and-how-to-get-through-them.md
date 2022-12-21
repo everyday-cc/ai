@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/ai-healthcare-bottlenecks-and-how-to-get-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-healthcare-bottlenecks-and-how-to-get-through-them/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     width: 1200
     height: 598
     isCached: true
-
-related:
-  - title: "3 Limits to Artificial Intelligence's Creativity (and How to Solve Them)"
-    excerpt: "Among other things, 2022 will likely be remembered as the year artificial intelligence took a giant leap forward in the creative field. From the A.I. image-generation application Dall-E, to the customized writing tool ChatGPT,"
-    publishedDateTime: 2022-12-16T16:25:00Z
-    webUrl: "https://www.inc.com/ben-sherry/3-limits-to-artificial-intelligences-creativity-and-how-to-solve-them.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 22
 
 secured: "ogg3eccFH8BOqaoQKTTAnpuMPNrHt2Tdq4/k4KK2b5VypyKPvTUqbCmvAlM9iB70rUtyKN5tHYU/ArmRQSu0mmlkroAPew9scO80n4CaLCaYFT+FGsMwzVPlO1mOkY/Tx/X/vaSE0jWX/7Np28ZXyF7b7nnJyjVowTpWLZJ0B7VEKyJyLll4GPR4cgDw13cBPNnPwfL2CSE4coj6mGBqOPnOUp+aYTui4QzPucMKgm9OkPIldMtxemUl/3668PaTCNyF9Mh7THPAvNbsi/iTdAleWyDCbfgUv2oe6rt59g8AvjNJkwAJZVJQYb9gNuAgo0gZjIWaOXM6bkv63QAWmyWKJh1oMgnr4OxI3Gs1lw/rwoJNVLHTM+ee93qs6uDh1AQcPkA9IrraMSP+hn0eLRUu+lt9+SwGj57YJ2iUAAb97T9dSBl818A4HcFj0Y4otrwsnN6AuT/Fxn+I4ooTqIuFFPQqw3Am8bToC6Zx0OYpn6nu7K6l27+nMXsRyNbUXmX8Lw+nw4kYnpwRQOWqfg==;TDghF2f2aF97wlBmlLy/SA=="
 ---
