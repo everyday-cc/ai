@@ -1,10 +1,10 @@
 ---
 category: news
 title: "DeepMind’s latest AI project solves programming challenges like a newb"
-excerpt: "Interesting that when the AI tackles problems in a field in which we are expert, the solutions seem weak and brittle. But AI is used in many other fields, and there the programmers assure us it ..."
-publishedDateTime: 2022-12-08T16:15:00Z
-originalUrl: "https://arstechnica.com/civis/threads/deepmind’s-latest-ai-project-solves-programming-challenges-like-a-newb.1488454/page-2"
-webUrl: "https://arstechnica.com/civis/threads/deepmind’s-latest-ai-project-solves-programming-challenges-like-a-newb.1488454/page-2"
+excerpt: "Google's DeepMind AI division has tackled everything from StarCraft to protein folding. So it's probably no surprise that its creators have eventually turned to what is undoubtedly a personal ..."
+publishedDateTime: 2022-12-08T21:15:00Z
+originalUrl: "https://arstechnica.com/science/2022/12/deepminds-latest-ai-project-solves-programming-challenges-like-a-newb/"
+webUrl: "https://arstechnica.com/science/2022/12/deepminds-latest-ai-project-solves-programming-challenges-like-a-newb/"
 type: article
 
 provider:
@@ -19,12 +19,6 @@ topics:
   - Google AI
   - AI
 
-images:
-  - url: "https://assets-global.website-files.com/621e749a546b7592125f38ed/6221e6c759f19819bd5bec04_CodeGen.jpg"
-    width: 1920
-    height: 1080
-    isCached: true
-
-secured: "urOddgwdy73PD3dixXzwTgWc/o/jD3Fh6V7hTi/gB5nD7mUdqd+fBglgV9ewdEpCfHIwZiabG9I7Eht8wX9THYI9jQLPaTrT0P0zE6YpgJBfMZWMo14DZFE4t7/Vve30pjg4PRQgX+pxxj4dUbacj5jzyecUceLfaHvaDwtwnF1pdW8Yw6fzVE4fhXk96w6Rm+p7s1AnLeMtHQwGRKmQitqWx516AYGjjTKi2n19tufKpGcWuzPXJ/4Ju720k4qEdrY89ObeX/wJRFsIVx+KVtYHhBqPv7ZPebUhEwEhLkACK0E1kg2Iiz0STOPM8xChsifVws22I9+5hRUS+wlbc/UyNak0bjTxnfbTV8WWGp0=;VDp1wpCfm7PPVPpYM8N2sA=="
+secured: "QwDR80MFHJOYW4CTYCo9sfBziba8GL90brc0I87tgre32VRVqD4+o0zG/if8uOobmG3kGpi/HMeIyA+V2Ktj0v4JHiW9ltbBiVICYYlLob58/Z0Ox7D45UD4FErI9BEYeBaZjNzWjHKiBnlc3gBNJdTDXnzGXQvffbX63wu/ISuo1MU/AVEpjMlRnvZKKR51jllHvjDzPLv1TtzCy//CaBu9nuzMi9Ry92krSIIwjia/QlfUcu3jZnUIXaop7buBWBWL00iNFOJInPcAFl7jyxuxCKUnwfRKCsXG6kJhQr5liNqJjlBUPwfs8I7ghPt36MFTJUyA1x214N4UbvxvUWxTHU5xnzqHS57b2y1zJ7c=;rA3STnQ14mCBbBJp8uarjQ=="
 ---
 

@@ -5,12 +5,7 @@ excerpt: "More is not always better—sometimes, it's a problem. With highly com
 publishedDateTime: 2022-12-20T16:33:00Z
 originalUrl: "https://techxplore.com/news/2022-12-software-based-artificial-intelligence-complex.html"
 webUrl: "https://techxplore.com/news/2022-12-software-based-artificial-intelligence-complex.html"
-ampWebUrl: "https://techxplore.com/news/2022-12-software-based-artificial-intelligence-complex.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-software-based-artificial-intelligence-complex.amp"
 type: article
-quality: 54
-heat: 54
-published: false
 
 provider:
   name: techxplore
@@ -19,12 +14,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/new-software-based-on.jpg"
-    width: 1424
-    height: 755
-    isCached: true
-
-secured: "KDzSBlkHE6vkkkAAFpaclmwtyM3469kdTGfgkBEiwcPpRywF6pkFgmd5ICjpZvxKS9E4YTab+z3jcTdkNQW8upBpevEuKR8z9I5twcH113rejSIIoPYO8yDNuzfg5Fa2KFU80AOOolReWzr8MDzIvwTU7nV2ipYUoWR1soSBUHDd7Pp7j8T7g/jGRPi1LjUhrXk5yS4hJEMm7tAkCBHlbNhIz7rPQPnWYSNgYxHq0FTsfNA5R/4eKhJwG5seP6vtqXL2o3p97sgijCCtOjIQijYtqDTyDVVFfXdXve9cYKPSrxsRXPMDmSCODL6NHfNn7BRN1dn1D7CMNevx+w6rCWgSvHpT2WMj7YSvU9W2d3k=;b4ibQOliWTr1LbU526lrog=="
+secured: "2wdtnFVvUWOVCprikw2Uo0NATzlmV+lhx969IjvFZtS1ztSICN3+z2tFR1yGHamgIBAY0V2doiV522moahN5kZRHSJi73DaG9kJnaXnl5SS0tFd5utqUmXHigIMKMdcJVOfCDeYoY2y9hb2Fw8f0IZP+Qfgk4gEUgxG+XlMgpJiSIRmGdMftJd95IZC0UeuGabonzRItFbmSnZO2CfZEOmvHWh2O0bqIwcwHIRlC7Am51j5qguDQOgQOe+D7ynx2JWlwxJwk8Npsil52Zko8N9nNf5aHw2BhDbHste3+jHeWbz7bWLzl80CQdW73GfPu3B9Oj0ZFv8UWgwlvF/b9QNJHP4xDTarya6Wp5dAU3/GeUVc2U8IBJwVtBZ3UFW9Nnk5Qh3WKwWkuFoocbm6MnneWC4f3g01PgSSJtp3EhfRSS1l9a9IFzVcT3/4Jl+anb/kSHAZVGQLau0DlWo34Rcobffp74tbrkfDnaSRV9VPCl8YtM7QAAvaKOrGz1Cf3RkbCQrORAEKRj7ZyLuhMFA==;UFuvSzQ8rjYiYnOp34psfA=="
 ---
 
