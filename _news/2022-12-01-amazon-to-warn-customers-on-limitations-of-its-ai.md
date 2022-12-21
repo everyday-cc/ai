@@ -15,12 +15,6 @@ topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--ChyNQ6ox--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-11-30t214432z_2_lynxmpeiat0y5_rtroptp_3_amazon-com-layoffs.jpg?itok=iZxgCCnS"
-    width: 1200
-    height: 676
-    isCached: true
-
-secured: "hYUkNZ7WOlx0so02raZVFmwqvXa5lLGLuazYzrQErgbYY9YnFY6PJdFZBnYov45nJxP3QdPRak7RRnoS6rA5Cilc7IERvyVj9xRFjoQsG3dlYXPAN/whiAZEA1kk2Eja1JY5nFSDaA22a7as1JaN7StEHOcc5BlFy0UpwcZmy2iAigGfrS4Pot9N6Rse3oVgw1CNOD6tA2U8QSrZ7j7rKIODVsxUPfiGylhxythsbZS2b7ydJh/EyreOfJ5MrqC1jWJt8W/lT75RUZJlRc/MKFYB87SFm4ubffFSuW0jLNEVMkL/BrONDZupNDmFEs4Grnv89kAdzu/mF4IZ8sMtePpwNi4EtiIHb2VbaJ+NPAE=;SwS22NPlcLz9CHFMTsyOlA=="
+secured: "o2fBKFDyB1dFfAt7DcqdlnW8JcTsqR3cEUQUj2hMn5adWkbtOlV2URtQg858E5J6/oB1m8gp6cnpkLQDOI0LvxafReCRAsvxY9xWkLut/g2W3G12zfT9d2oiVDRs6fENodeyK89F5fR5Tu+IuZ6uBxInjiHaHrPfXlQ+BmWxkoKMbHoI/WeBRToU2O5hq6ShxYZGXT0fO+U/TtDPUU1LJrZuBOCUgUmaZZW6PS77QP8AnwoGZqXbtIbtrUxIm4yFJg7hEqCg9qSIPaRWchyKyH6vmIg/HFCq7fVpLJ4aXJ7ZGpvfGBKvmiJ4vsZx+bVJSVJuE+XJKItKxcXWys79X5uGxa7Ykb/4vdhPXfWcUZ0=;6wnYIYiNEYSpgkw/Ze2K5Q=="
 ---
 
