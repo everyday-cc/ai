@@ -82,15 +82,6 @@ related:
         width: 700
         height: 466
         isCached: true
-  - title: "What Leaders Need To Know About Generative AI"
-    excerpt: "Cognitive algorithms, such as generative AI, have the potential to help companies achieve their goals more efficiently. Here's what leaders need to know"
-    publishedDateTime: 2022-12-16T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/benjaminlaker/2022/12/16/what-leaders-need-to-know-about-generative-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "VCs say hybrid work, generative AI, and niche collaboration tools will be some of the top future-of-work trends that dominate 2023"
     excerpt: "Between the pandemic, Great Resignation, and layoffs, workplaces have changed a lot. Here are the next future-of-work trends VCs say we can expect."
     publishedDateTime: 2022-12-20T11:30:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Why Technology Alone Can't Solve AI's Bias Problem"
 excerpt: "Engineers designed \"fair-ranking algorithms\" to prevent artificial intelligence from marginalizing certain groups. While these tools help, research by Himabindu Lakkaraju finds that they can't completely override the most stubborn source of bias: people."
 publishedDateTime: 2022-12-16T16:25:00Z
-originalUrl: "https://hbswk.hbs.edu/item/why-technology-alone-cant-solve-ais-bias-problem?cid=wk-rss"
-webUrl: "https://hbswk.hbs.edu/item/why-technology-alone-cant-solve-ais-bias-problem?cid=wk-rss"
+originalUrl: "https://hbswk.hbs.edu/item/why-technology-alone-cant-solve-ais-bias-problem"
+webUrl: "https://hbswk.hbs.edu/item/why-technology-alone-cant-solve-ais-bias-problem"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "mofvnf4XbgoNoBeP0bgFXb0W0jrPSSfSBZPa+DN8UA8DeSvPvrQKKx/RTp6CoOzXXQxQLDPNHduRYgr7m0uUzHS/H3ef5lowQyGIO71ozXh8QCWn4kmAFSjNW0xcVRdFFYdOXEvIvD5t0MFk42XCyGoVddKjpaUg2ljf9AlNOpqgK6w0rfnWHSaqA0lPp4Gkmn95rEbQfqawmgY8UJZy9mYELmRBpMarxFwWuX/SWUm0EGrDKphKbBtpxXNMA2H2c195Wm9U//D1POrt2LTatc4IEov4vYHLnBazM4kc2jnt2IahQZOtBQv/G8r2NjdyJnMFZtAUXG2JQ/aty0LJHc40OtAHj6//EFqcUP+9wWY=;kYF5Bk4H4R70Wf/AupnIew=="
+secured: "bgFUH+fsoDcERcXxKxavGTR9EUkAVt8TzV6GSSSe3e2koaWVLjXmhg4tbExaWQhoYDnA6gp+1PvJZq1b8YfJpqdxGuXQJAUAIZVs3XHDbKAL0acN8q3pdZ0yjXb/zJeO+CwDOW9XoqD6eFGewzTL451iXQghuGv7rnsKblhC43poDK4Jg21YNnGCJRb694pSupEi4zAa1Rn19MQDqXBBFghvj1jBDMBOiu9SdM+KgvN2hUDnRiCL75EV6KrwrsAdoXj+xEdsJyreszp0WgPyJPo/rjiCryCNEAQaQDYDGstQYTyG9s0MjAfHfPrCUo4Bgi6vR+49gSjKg6rFAfMWWhCGWNEH0cHEOyy/ercM2OI=;DdIGLbfAx6vYMwkxUpzE0Q=="
 ---
 

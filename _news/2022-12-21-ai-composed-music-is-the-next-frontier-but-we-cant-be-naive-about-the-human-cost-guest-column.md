@@ -2,9 +2,9 @@
 category: news
 title: "AI-Composed Music Is the Next Frontier – But We Can’t Be Naive About the Human Cost (Guest Column)"
 excerpt: "Human musicians will inevitably lose jobs with the rising use of AI in music creation, says UNI and the Urchins bassist Charlotte Kemp Muhl."
-publishedDateTime: 2022-12-20T21:55:00Z
-originalUrl: "https://www.billboard.com/pro/ai-created-songs-cost-human-musicians-jobs/"
-webUrl: "https://www.billboard.com/pro/ai-created-songs-cost-human-musicians-jobs/"
+publishedDateTime: 2022-12-20T22:42:00Z
+originalUrl: "https://www.billboard.com/pro/ai-created-songs-cost-human-musicians-jobs/?curator=MediaREDEF"
+webUrl: "https://www.billboard.com/pro/ai-created-songs-cost-human-musicians-jobs/?curator=MediaREDEF"
 type: article
 quality: 23
 heat: 23
@@ -23,6 +23,6 @@ images:
     height: 573
     isCached: true
 
-secured: "mtOdcAxlu1xSiZz9UjAVuWewzVismSvsvJO6pgLYD7EoIwSZ7T21Q26j0uv9FUfytCRuD/+vpXFrXkdVCf4xEtIuYt27OMmW8vGk0RXU8rwc0KiBH6BL4AFroqpbsVs+I8wdC+Xdx3JXs73i1VlVq4HxS6sDx9VVAZOwA48XPln8msXfMOnXIy/8Ug6+Ly9OIWNpjS927ptctRaZy+US08LEtL/wJx2I0e4JW0aYTz1sMd7w62v5WV/b2aJhMoElPe/e0VFoFHuhi1LdGXnjJNIxDrBZ0l6jCjwKBF3CKUTCqcJ4F8nNm25gacqa9ezde+fdZmsw3Eq1lUMZurDtg3PLI1kgeAosJPQ50iY6qgXi5AHs65RfBtL1POcuXzzjXhYwE/9NlTB5YlqdrmJErtxf27SUPbJsHjnhRVGiE3mvh9O34jN3fiaBK+jlyLY0l3tx8MACZ0FHSHHUird+WsLU9h9GTpnJFqghpIeYVcOlVr9Gi0TrgYSy6+iGt3HAhcbKjfJLd4rp/Oqp4OAC1A==;TXbJMHXMLtZO1N1o0dS/MA=="
+secured: "SYNgKTTERZRPMiVXoqKnPScg6vQ5+CPFYM2x+hVJvvjaSWzxji9T5cpwS2GEN6M1bDX7HgTerubg0oKbjY7f37wiO/Ta2xHcjpSmD2a3BV98Fovu4kHVIwUJTDOoV/S+S0AqTDIX4q5lqR9kJasdr7l/IHczY45UHCVUv76FU3LWQCjmJl82PXCW8dtPb0ZXehSdBZ+5uo1vMwUQpkop/mivrA9ncemO3ZlboX+OyAs1cAMAEoZJprxsuFF4s6YamDLerVlM7SttWaonC0tseu0DT91MbzkYpaBGC5khasDK8JbMrjgWlrGHLyELL51IzX6MXuIJrjR8yY3HmQ37hxZ4k8eW8txiqZ/3mlnlhaI=;7NXVv5zTVK5oQz9MHvAlHQ=="
 ---
 

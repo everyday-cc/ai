@@ -71,15 +71,6 @@ related:
         width: 700
         height: 466
         isCached: true
-  - title: "What Leaders Need To Know About Generative AI"
-    excerpt: "Cognitive algorithms, such as generative AI, have the potential to help companies achieve their goals more efficiently. Here's what leaders need to know"
-    publishedDateTime: 2022-12-16T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/benjaminlaker/2022/12/16/what-leaders-need-to-know-about-generative-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Three Ways To Become More Knowledgeable About AI"
     excerpt: "AI technology, like many new and fast-moving technologies, presents a specific challenge to business leaders to think through how their business could be improved."
     publishedDateTime: 2022-12-19T13:16:00Z

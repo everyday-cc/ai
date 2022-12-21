@@ -2,22 +2,28 @@
 category: news
 title: "Globality Wins “Best Use of Natural Language Processing” at 2022 Global Excellence Awards"
 excerpt: "Globality, the leader in using artificial intelligence and natural language processing (NLP) to transform the procurement function, today announced it has been named by The AI Journal as the winner of the Best Use of NLP in the 2022 Global Excellence Awards."
-publishedDateTime: 2022-12-20T14:59:00Z
-originalUrl: "https://www.afp.com/en/news/1313/globality-wins-best-use-natural-language-processing-2022-global-excellence-awards-202212200050341"
-webUrl: "https://www.afp.com/en/news/1313/globality-wins-best-use-natural-language-processing-2022-global-excellence-awards-202212200050341"
+publishedDateTime: 2022-12-20T12:02:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/globality-wins-best-use-of-natural-language-processing-at-2022-global-excellence-awards/article_e5ac88d9-1065-5c33-8854-f0d22a82f66d.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/globality-wins-best-use-of-natural-language-processing-at-2022-global-excellence-awards/article_e5ac88d9-1065-5c33-8854-f0d22a82f66d.html"
 type: article
-quality: 10
-heat: 10
+quality: 30
+heat: 30
 published: false
 
 provider:
-  name: AFP
-  domain: afp.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "u3CPLX9dJIcB/gPnQOivA6nTHjQGQAbZmwy24bOZANonkSA6Q1Km5jELfzf7aXjAEzyqmi4qr900GE6jpet1Q/M4jDzwpphE9SsRFYtG6r4++tPFT66VxEQuZzj890ZCCkkKzQJN43HRrh+TlFdAOsB0nMcQTxTg7CDAwJ+fk443fu0qW9yFgcEtN6anwx6oqFqJ6C1/Nlr7WjxuaM29pQvoNe22EzXiNoRk6r9KJoQiv7w3HeDxNxlLfkKZ6BFJTp54zexG8klHLaFyQm8qhO02qj7VfRP3QQqSr7Slq6x0VsAAt4D7Jio2CodeRKLuQpZcyjjonsGNK63Ds64U/fKmOjaQexOHgmQIpAhWTZw=;X0vXJOJ3DR5AdgoTbOLHJw=="
+images:
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg"
+    width: 350
+    height: 455
+    isCached: true
+
+secured: "0Ro8OaimSHExW0FJ4jhAwSn9fojdgVnqpR07m/uT/qwmXGYsIQMR9p+dcLtJDSMNXyhxI/ITYxikJRtYXnymZvP6m6gTD/j1DZpiT0VnBcRfVur0EiOa48HlBA/HUTu9tnLduxLfzXMFwRpeyvPS6mjy6z6KaTX+j5ngE7EnWTSs+/0V1tX4MC4MT+1O0fenX884mfOvutyaQolVYGScaNfV4fLwkoCIrGRG+2cijhXzbqHl+fTdjMzIMSr6WN6JQ5C/pF07Obf/qOo71s9ve0rlNxwCOFLJ243CrAn6cAm4mfz5ZspmP99oKdB2cg7AV72mwi7/qkhiKP6b/qO+j3KMhqKY+TO/weS+1bhGXrE=;0oBjhpaw5peJ4tpLMvWNSg=="
 ---
 
