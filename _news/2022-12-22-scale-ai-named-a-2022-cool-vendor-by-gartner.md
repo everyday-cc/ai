@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-21T16:20:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/12/b30163918/scale-ai-named-a-2022-cool-vendor-by-gartner"
 webUrl: "https://www.benzinga.com/pressreleases/22/12/b30163918/scale-ai-named-a-2022-cool-vendor-by-gartner"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Benzinga.com

@@ -9,7 +9,7 @@ ampWebUrl: "https://punchng.com/artificial-intelligence-for-new-drug-discovery/?
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/artificial-intelligence-for-new-drug-discovery/?amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 400
     height: 400
     isCached: true
+
+related:
+  - title: "New Cloud Platform “STB CLOUD” Disrupts AI Drug Discovery Worldwide"
+    excerpt: "AM Eastern Standard Time. Syntekabio (KOSDAQ:226330.KQ), a global AI drug discovery and development company, has launched STB CLOUD worldw"
+    publishedDateTime: 2022-12-21T20:00:00Z
+    webUrl: "https://www.stock-world.de/nachrichten/dgap/15140142New-Cloud-Platform-STB-CLOUD-Disrupts-AI-Drug-Discovery-Worldwide-n15140142.html"
+    type: article
+    provider:
+      name: Stock World
+      domain: stock-world.de
+    quality: 19
 
 secured: "Qds3GhC7zhAmc/DbYT0F7Xv3x6G9xIo+n9XvrF08QZ/UEC189V9oYIxGtwPL6PQLK0c/7uGCZAPPw3xTqTXFlAeRu0V+YxwD/rBNZs6k9YVfVrKSOtTjpPg1M9eMY8eSlrkJGfbHm6DmcT1X7XPyWo+pvjNCBv92b7V45nLxIOzUVlggeMrGyiLDSmo/4yYuVznBmGmHbpqmuoO2NF+LoQy8AFZ5VEhfD5k4TanjGtXmxhNhO1UL24OCmzX9GO1y+8r+VdJMeQo6TH8FakKDA9gFd+/teF6DPck91y/+1eJX7fiOBm1sQTj7us2SML4dBxagW3HtTCnZHfj+5aIeSY4v1HyocnoRMO7z03oRgyM=;n45zrnrEgOtEbj5ZvTUolg=="
 ---

@@ -2,6 +2,135 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2022-10-18-three-ways-ai-transforms-security.md",
+      "title": "Three Ways AI Transforms Security",
+      "excerpt": "To understand why AI has become so vital to security, consider its use case in regard to application programming interfaces (APIs). APIs support",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/18/three-ways-ai-transforms-security/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/18/three-ways-ai-transforms-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6284f3a56da5d40b8634fcbe/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/18/three-ways-ai-transforms-security/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/18/three-ways-ai-transforms-security/amp/",
+      "publishedDateTime": "2022-10-18T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-cujo-ai-launches-explorer-first-ai-powered-device-intelligence-as-a-service.md",
+      "title": "CUJO AI Launches Explorer, First AI-powered Device Intelligence as a Service",
+      "excerpt": "CUJO AI, a global leader in cybersecurity and network intelligence solutions for network service providers (NSPs), today announced that Explorer, the AI-powered network intelligence solution, is available as a stand-alone Device Intelligence as a Service,",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/10/18/9694211.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/10/18/9694211.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-amazon-to-invest-5-bn-to-boost-cloud-infrastructure-in-thailand.md",
+      "title": "Amazon to invest $5 bn to boost cloud infrastructure in Thailand",
+      "excerpt": "AWS’ cloud platform offers more than 200 services, including storage, robotics and artificial intelligence. AWS last month opened its first cloud data center in UAE and announced plans to setup ...",
+      "sourceUrl": null,
+      "webUrl": "https://infotechlead.com/cloud/amazon-to-invest-5-bn-to-boost-cloud-infrastructure-in-thailand-75068",
+      "originalUrl": "https://infotechlead.com/cloud/amazon-to-invest-5-bn-to-boost-cloud-infrastructure-in-thailand-75068",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://infotechlead.com/wp-content/uploads/2017/09/AWS-event-for-CIOs.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "infotechlead",
+        "domain": "infotechlead.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-18-2bcloud-expands-us-operations.md",
       "title": "2bcloud Expands U.S. Operations",
       "excerpt": "NEW YORK, (BUSINESS WIRE) -- 2bcloud, a leading multi-cloud cost optimization managed service provider for cloud natives from early stage to unicorns,",
@@ -998,136 +1127,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-3-key-insights-on-competitive-landscape-in-global-machine-learning-as-a-service-mlaas-market-ken-research.md",
-      "title": "3 Key Insights on Competitive Landscape in Global Machine Learning as a Service (MLaaS) Market: Ken Research",
-      "excerpt": "Few Diverse Global Players Dominate the Market Holding Majority Revenue Share Despite the Presence of about ~150",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/3-key-insights-on-competitive-landscape-in-global-machine-learning-as-a-service-mlaas-market-ken-research-2022-10-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/3-key-insights-on-competitive-landscape-in-global-machine-learning-as-a-service-mlaas-market-ken-research-2022-10-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-can-adherence-to-covid-19-mitigation-measures-be-predicted-using-cognitive-variables.md",
-      "title": "Can adherence to COVID-19 mitigation measures be predicted using cognitive variables?",
-      "excerpt": "In a recent study published in Vaccine, researchers investigated the correlations between cognitive variables such as self-control, impulsivity, future orientation, and disease mitigation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20221017/Can-adherence-to-COVID-19-mitigation-measures-be-predicted-using-cognitive-variables.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20221017/Can-adherence-to-COVID-19-mitigation-measures-be-predicted-using-cognitive-variables.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-physicianone-urgent-care-adopts-augnitos-voice-recognition-ai-solution-across-its-20-plus-locations-in-the-us.md",
-      "title": "PhysicianOne Urgent Care Adopts Augnito's Voice Recognition AI Solution Across Its 20-Plus locations in the U.S.",
-      "excerpt": "Augnito's medical voice recognition solution will be used by providers across all of PhysicianOne Urgent Care's 20-plus U.S. locations. \"PhysicianOne Urgent Care provides convenient access to high ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/n29292537/physicianone-urgent-care-adopts-augnitos-voice-recognition-ai-solution-across-its-20-plus-location",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/n29292537/physicianone-urgent-care-adopts-augnitos-voice-recognition-ai-solution-across-its-20-plus-location",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1922688/Dr_Jeannie_Kenkare_PhysicianOne.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29292537",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29292537",
-      "publishedDateTime": "2022-10-17T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

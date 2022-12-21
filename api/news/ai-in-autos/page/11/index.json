@@ -2,6 +2,40 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-10-15-opinion-a-driverless-vehicle-update.md",
+      "title": "Opinion: A driverless vehicle update",
+      "excerpt": "Many things are changing in the world today. But if a story on the Bloomberg Businessweek website is correct, one transformative development is not living up to its promise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.yazooherald.net/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fbc3d094d",
+      "originalUrl": "https://www.yazooherald.net/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fbc3d094d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-14T17:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Yazoo Herald",
+        "domain": "yazooherald.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-14-could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so.md",
       "title": "Could self-driving trucks solve the supply chain crisis? Meet the AI trailblazer who thinks so",
       "excerpt": "Prof Raquel Urtasun is the founder of a startup at the cutting edge of driverless technology – and the University of Toronto has been the perfect incubator for her research",
@@ -1370,49 +1404,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-10-dubais-rta-to-showcase-driverless-taxis-for-the-first-time-during-gitex.md",
-      "title": "Dubai's RTA to showcase driverless taxis for the first time during Gitex",
-      "excerpt": "Dubai's Roads and Transport Authority (RTA) has revealed an extensive collection of smart initiatives, applications, and stations it will showcase at the 4..",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/transport/self-driving-transport-new-gen-taxis-dubai-rta-to-showcase-new-initiatives-at-gitex-2022",
-      "originalUrl": "https://www.khaleejtimes.com/transport/self-driving-transport-new-gen-taxis-dubai-rta-to-showcase-new-initiatives-at-gitex-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.khaleejtimes.com?uuid=7cc4b377-db5c-5fac-9612-25ede4150eb9&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.95339&width=1200&height=675&x=1.0E-5&y=0.02331",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/transport/self-driving-transport-new-gen-taxis-dubai-rta-to-showcase-new-initiatives-at-gitex-2022?amp=1",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/transport/self-driving-transport-new-gen-taxis-dubai-rta-to-showcase-new-initiatives-at-gitex-2022?amp=1",
-      "publishedDateTime": "2022-10-09T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligencea
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligenceai-in-healthcare-market-2022-advance-technology-and-highlighted-key-development-by-2028-2022-12-20"
 type: article
 quality: 78
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
     excerpt: "\" Artificial Intelligence and Advanced Machine Learning Market \" Insights 2022 - By Applications (Insurance,Banking and Capital Market), By Types (Smart Wallets,Voice-Assisted Bankin), By Segmentation analysis,"
     publishedDateTime: 2022-12-19T08:36:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-2023-expected-to-witness-the-highest-revenue-growth-over-forecast-to-2028-2022-12-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+  - title: "Artificial Intelligence in Healthcare Market 2022 Trending Technologies, Manufacturers, End-Users, Growth Elements and Forecast 2028"
+    excerpt: "The report on the Artificial Intelligence in Healthcare market is strategically prepared to provide the growth trends, drivers, opportunities, challenges, and restraints along with the latest technological developments in the market and innovation."
+    publishedDateTime: 2022-12-20T21:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2022-trending-technologies-manufacturers-end-users-growth-elements-and-forecast-2028-2022-12-20"
     type: article
     provider:
       name: MarketWatch

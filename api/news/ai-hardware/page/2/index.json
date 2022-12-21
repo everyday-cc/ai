@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-12-07-oss-wins-multi-million-dollar-ai-transportable-program-with-leading-5g-cellular-provider.md",
+      "title": "OSS Wins Multi-Million-Dollar AI Transportable Program with Leading 5G Cellular Provider",
+      "excerpt": "(Nasdaq: OSS), a leader in AI Transportable solutions on the edge, has won a multi-year, multi-million-dollar program with a Fortune 50 cellular provider to supply OSS transportable compute and storage hardware for a mobile 5G AI application.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/12/07/9726055.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/12/07/9726055.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T07:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-07-nvidia-ai-enterprise-30-adds-new-application-workflows-partners-with-deutsche-bank.md",
       "title": "Nvidia AI Enterprise 3.0 adds new application workflows, partners with Deutsche Bank",
       "excerpt": "Nvidia AI Enterprise 3.0 released today, with new software capabilities to help effectively build and deploy AI-driven applications.",
@@ -1378,49 +1412,6 @@
       "provider": {
         "name": "The Next Platform",
         "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-is-the-gtx-1650-the-best-budget-gpu.md",
-      "title": "Is the GTX 1650 the best budget GPU?",
-      "excerpt": "Do I need a powerful GPU for Minecraft? One fact you should understand about Minecraft is that the CPU is actually the most important piece of hardware, if you don't want to spend a lot of money ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cclonline.com/article/2138/Guide/CCL-Gaming-PCs/Is-the-GTX-1650-the-best-budget-GPU-/",
-      "originalUrl": "https://www.cclonline.com/article/2138/Guide/CCL-Gaming-PCs/Is-the-GTX-1650-the-best-budget-GPU-/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cclonline.com/images/articles/2138_is-the-gtx-1650-the-best-budget-gpu-th.png",
-          "width": 500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T08:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cclonline",
-        "domain": "cclonline.com",
         "images": null,
         "publishers": null,
         "authors": null

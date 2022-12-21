@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-26-a-new-common-sense-test-for-ai-could-lead-to-smarter-machines.md",
+      "title": "A new ‘common sense’ test for AI could lead to smarter machines",
+      "excerpt": "Teaching AI common sense will be the next breakthrough in the field. But how exactly can we measure something as intangible as common sense?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/common-sense-test-for-ai-smarter-machines",
+      "originalUrl": "https://thenextweb.com/news/common-sense-test-for-ai-smarter-machines",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F09%2FOL2-1.jpg&signature=6c729ac2330cc240f65fc262dad35684",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-26T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-09-24-3-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade.md",
       "title": "3 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade",
       "excerpt": "IBM could be a cheap value play on the growing AI market. Workday provides balanced growth for patient investors. SentinelOne is growing like a weed -- but it’s also deeply unprofitable and its ...",

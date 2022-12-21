@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-18T11:59:00Z
 originalUrl: "https://www.news-herald.com/2022/12/18/phoenix-airport-1st-to-offer-self-driving-ride-service-waymo"
 webUrl: "https://www.news-herald.com/2022/12/18/phoenix-airport-1st-to-offer-self-driving-ride-service-waymo"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: The News-Herald

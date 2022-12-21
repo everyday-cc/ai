@@ -2,6 +2,101 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-12-13-deep-learning-chipset-market-2023-analysis-business-growth-global-demand-revenue-and-geographical-forecast-to-2029.md",
+      "title": "Deep Learning Chipset Market 2023 Analysis Business Growth, Global Demand, Revenue, and Geographical Forecast To 2029",
+      "excerpt": "In 2023,What is “Deep Learning Chipset Market” Insights? | [Report Pages No120] Market Growth Reports released a report",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-2023-analysis-business-growth-global-demand-revenue-and-geographical-forecast-to-2029-2022-12-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-2023-analysis-business-growth-global-demand-revenue-and-geographical-forecast-to-2029-2022-12-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T02:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-how-ai-can-be-used-ethically-to-monitor-worker-productivity.md",
+      "title": "How AI Can Be Used Ethically to Monitor Worker Productivity",
+      "excerpt": "Morgan Lewis’s Amy Schuh offers guidance for companies looking to employ AI to monitor their workforce. She shares important questions to ask beyond AI’s intended uses, and potential unintended consequences.",
+      "sourceUrl": null,
+      "webUrl": "https://news.bloomberglaw.com/business-and-practice/how-ai-can-be-used-ethically-to-monitor-worker-productivity",
+      "originalUrl": "https://news.bloomberglaw.com/business-and-practice/how-ai-can-be-used-ethically-to-monitor-worker-productivity",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://db0ip7zd23b50.cloudfront.net/dims4/default/e99279d/2147483647/crop/8140x3134%2B41%2B324/resize/957x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2Fc8%2Ff4%2Fcaf4259d40df8f2a0e40e370f321%2Fgettyimages-883730222.jpg",
+          "width": 957,
+          "height": 368,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news.bloomberglaw",
+        "domain": "bloomberglaw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-13-tesla-our-failure-to-make-actual-self-driving-cars-is-not-fraud.md",
       "title": "Tesla: Our ‘failure’ to make actual self-driving cars ‘is not fraud’",
       "excerpt": "Tesla CEO Elon Musk has said numerous times since 2015 that Tesla cars would be entirely self-driving in two years, or less. But years after his self-imposed deadlines have blown by, it still hasn ...",
@@ -754,6 +849,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-13-brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge.md",
+      "title": "BrainChip Joins Intel Foundry Services to Advance Neuromorphic AI at the Edge",
+      "excerpt": "LAGUNA HILLS, CA / ACCESSWIRE / December 11, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of ultra-low power neuromorphic AI IP ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge-01670798126",
+      "originalUrl": "https://www.wsj.com/articles/brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge-01670798126",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T11:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-13-feds-warn-against-cybersecurity-risks-associated-with-automation-in-healthcare.md",
       "title": "Feds warn against cybersecurity risks associated with automation in healthcare",
       "excerpt": "Examples of automation in cybersecurity include machine learning and artificial intelligence, penetration testing, and automated intelligence collection. HHS said using automated technologies can help healthcare organizations detect threats more quickly and fill gaps in the cybersecurity workforce.",
@@ -1024,143 +1162,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-its-not-just-fun-lensa-ai-portrait-app-raises-ethical-privacy-concerns.md",
-      "title": "'It's not just fun': Lensa AI portrait app raises ethical, privacy concerns",
-      "excerpt": "Magic avatars' are the latest internet craze, but one expert says individuals uploading photos of themselves onto the Lensa AI portrait app may not be aware of the ethical and privacy concerns involved.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ctvnews.ca/sci-tech/it-s-not-just-fun-lensa-ai-portrait-app-raises-ethical-privacy-concerns-1.6190874",
-      "originalUrl": "https://www.ctvnews.ca/sci-tech/it-s-not-just-fun-lensa-ai-portrait-app-raises-ethical-privacy-concerns-1.6190874",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2022/12/12/2582392/_jcr_content/renditions/videothumbnail.1670858793517.jpg",
-          "width": 1020,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/national/sci-tech/2022/12/12/1_6190874.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2022/12/12/1_6190874.amp.html",
-      "publishedDateTime": "2022-12-12T06:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-an-ai-stretch-of-the-imagination.md",
-      "title": "An AI-Stretch Of The Imagination",
-      "excerpt": "A key tool to de-risk innovation and democratize data. And the best thing about it, is that while businesses can innovate to the max and offer you better products and services, your privacy remains intact.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-stretch-of-the-imagination/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-stretch-of-the-imagination/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61de03f0b6b2eca035a665be/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-stretch-of-the-imagination/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-stretch-of-the-imagination/amp/",
-      "publishedDateTime": "2022-12-12T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-toggle-ai-introduces-direct-trading-integration-in-partnership-with-interactive-brokers.md",
-      "title": "TOGGLE AI Introduces Direct Trading Integration in Partnership With Interactive Brokers",
-      "excerpt": "TOGGLE AI, the intelligent investing dashboard, introduced today its first direct trading integration in partnership with Interactive Brokers. Interactive Brokers account holders can now execute trades directly on the TOGGLE AI platform,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/technology-science-1b15107c36304fc29d4d2038868f2dac",
-      "originalUrl": "https://apnews.com/article/technology-science-1b15107c36304fc29d4d2038868f2dac",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T05:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

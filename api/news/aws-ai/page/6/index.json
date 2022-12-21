@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-10-22-f4-racer-austin-teenager-inspired-by-us-grand-prix.md",
+      "title": "F4 racer, Austin teenager inspired by U.S. Grand Prix",
+      "excerpt": "AUSTIN (KXAN) – On Friday, 17-year-old racecar driver and Austinite Ryan Shehan returned to the Formula One U.S. Grand Prix as a guest speaker for COTA’s “Best in Texas STEM”—a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kxan.com/sports/f1-austin/f4-racer-austin-teenager-inspired-by-u-s-grand-prix/",
+      "originalUrl": "https://www.kxan.com/sports/f1-austin/f4-racer-austin-teenager-inspired-by-u-s-grand-prix/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2022/10/7980062CA1C1BB8B5F5AB34F2D5E2586-e1666396408832.jpg?w=1280",
+          "width": 1280,
+          "height": 881,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kxan.com/sports/f1-austin/f4-racer-austin-teenager-inspired-by-u-s-grand-prix/amp/",
+      "cdnAmpWebUrl": "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/sports/f1-austin/f4-racer-austin-teenager-inspired-by-u-s-grand-prix/amp/",
+      "publishedDateTime": "2022-10-21T21:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXAN",
+        "domain": "kxan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-21-billiondollarbreaks-d-wave-quantum-inc-nyse-qbts-now-available-in-aws-marketplace.md",
       "title": "BillionDollarBreaks - D-Wave Quantum Inc. (NYSE: QBTS) Now Available in AWS Marketplace",
       "excerpt": "D-Wave Quantum Inc. (NYSE: QBTS), a leader in quantum computing systems, software and services, and the only quantum computing company building both annealing and gate-model quantum computers, has launched in AWS Marketplace.",
@@ -1330,50 +1373,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-15-amazon-ec2-trn1-instances-for-high-performance-on-deep-learning-training-models-now-available.md",
-      "title": "Amazon EC2 Trn1 Instances for High Performance on Deep Learning Training Models Now Available",
-      "excerpt": "Subscribe for free. AWS Trainium is the second-generation of machine learning chips that AWS purpose built for deep learning training. Each Amazon EC2 Trn1 instance deploys up to 16 AWS Trainium ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/10/aws-trn1-chip-deep-learning/",
-      "originalUrl": "https://www.infoq.com/news/2022/10/aws-trn1-chip-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2022/10/aws-trn1-chip-deep-learning/en/headerimage/generatedHeaderImage-1665697443428.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-15T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

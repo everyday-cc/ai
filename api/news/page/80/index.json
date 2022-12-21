@@ -2,6 +2,136 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2022-10-13-last-chance-amazon-has-tons-of-popular-products-on-sale-but-deals-ends-today.md",
+      "title": "Last Chance: Amazon Has Tons Of Popular Products On Sale But Deals Ends Today",
+      "excerpt": "Yesterday, Amazon kicked off its exciting Prime Early Access Sales event for Prime members, and the sale runs through today. The two-day sale has slashed prices on thousands of products ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.elitedaily.com/lifestyle/best-deals-amazon-fall-sale",
+      "originalUrl": "https://www.elitedaily.com/lifestyle/best-deals-amazon-fall-sale",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-12T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Elite Daily",
+        "domain": "elitedaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-13-nvidia-not-cutting-it-google-and-amazons-latest-ai-chips-have-arrived.md",
+      "title": "Nvidia not cutting it? Google and Amazon’s latest AI chips have arrived",
+      "excerpt": "Kicking things off with Amazon, the cloud provider's Trainium chips are now generally available on AWS. First previewed at AWS re:Invent last year, Amazon's Trainium-powered Trn1n instances are designed to train large machine-learning models,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/10/11/google_amazon_ai_chips_nvidia/?td=rt-9cp",
+      "originalUrl": "https://www.theregister.com/2022/10/11/google_amazon_ai_chips_nvidia/?td=rt-9cp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2021/01/12/shutterstock_ai_chip.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/10/11/google_amazon_ai_chips_nvidia/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/10/11/google_amazon_ai_chips_nvidia/",
+      "publishedDateTime": "2022-10-12T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-13-microsoft-ignite-22-focuses-on-employee-engagement-developer-innovation-among-others.md",
+      "title": "Microsoft Ignite ‘22 focuses on employee engagement, developer innovation, among others",
+      "excerpt": "Satya Nadella laid out the five core imperatives that Microsoft is focused on, and then provided updates for each of them.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/microsoft/microsoft-ignite-22-microsoft-focuses-on-employee-engagement-developer-innovation-among-others/",
+      "originalUrl": "https://sdtimes.com/microsoft/microsoft-ignite-22-microsoft-focuses-on-employee-engagement-developer-innovation-among-others/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-12-at-2.03.39-PM.jpg",
+          "width": 969,
+          "height": 537,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-12T11:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-13-robot-artist-ai-da-reset-while-speaking-to-uk-politicians.md",
       "title": "Robot artist Ai-Da reset while speaking to UK politicians",
       "excerpt": "Ai-Da, the world's first ultra-realistic humanoid robot artist, answered questions from UK lawmakers during a session hosted by the House of Lords Communications and Digital Committee, according to Reuters.",
@@ -1061,153 +1191,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-levity-raises-seed-round-debuts-no-code-ai-workflow-automation-platform.md",
-      "title": "Levity raises seed round, debuts no-code AI workflow automation platform",
-      "excerpt": "Using modular AI blocks, the startup aims to help small and mid-sized enterprises to build automated business process workflows.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/levity-raises-seed-round-debuts-no-code-ai-workflow-automation-platform/",
-      "originalUrl": "https://venturebeat.com/ai/levity-raises-seed-round-debuts-no-code-ai-workflow-automation-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-926128842.jpg?fit=800%2C587&strip=all",
-          "width": 800,
-          "height": 587,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/levity-raises-seed-round-debuts-no-code-ai-workflow-automation-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/levity-raises-seed-round-debuts-no-code-ai-workflow-automation-platform/amp/",
-      "publishedDateTime": "2022-10-12T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches.md",
-      "title": "Vectara’s AI-based neural search-as-a-service challenges keyword-based searches",
-      "excerpt": "Vectara, formerly ZIR AI, has emerged from stealth with $20M in seed funding, offering AI-based neural search-as-a-service technology.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches/",
-      "originalUrl": "https://venturebeat.com/ai/vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-search_search-engine_connected_network_1400992296-e1665532643283.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches/amp/",
-      "publishedDateTime": "2022-10-12T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-regulatory-and-legacy-system-contraints-hampering-machine-learning-deployment.md",
-      "title": "Regulatory and legacy system contraints hampering machine learning deployment",
-      "excerpt": "UK financial firms blame a lack of regulatory clarity and legacy systems for constraining deeper deployment of machine learning technology, according to a survey conducted by the Bank of England.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/newsarticle/41125/regulatory-and-legacy-system-contraints-hampering-machine-learning-deployment",
-      "originalUrl": "https://www.finextra.com/newsarticle/41125/regulatory-and-legacy-system-contraints-hampering-machine-learning-deployment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/finextra-images/top_pics/xl/robo-ai.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-12T03:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

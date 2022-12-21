@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-21T19:21:00Z
 originalUrl: "https://www.assemblymag.com/articles/97527-robots-assemble-electric-vehicles"
 webUrl: "https://www.assemblymag.com/articles/97527-robots-assemble-electric-vehicles"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Assembly Mag

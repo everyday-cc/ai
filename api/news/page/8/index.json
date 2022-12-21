@@ -2,6 +2,143 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-12-12-its-not-just-fun-lensa-ai-portrait-app-raises-ethical-privacy-concerns.md",
+      "title": "'It's not just fun': Lensa AI portrait app raises ethical, privacy concerns",
+      "excerpt": "Magic avatars' are the latest internet craze, but one expert says individuals uploading photos of themselves onto the Lensa AI portrait app may not be aware of the ethical and privacy concerns involved.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ctvnews.ca/sci-tech/it-s-not-just-fun-lensa-ai-portrait-app-raises-ethical-privacy-concerns-1.6190874",
+      "originalUrl": "https://www.ctvnews.ca/sci-tech/it-s-not-just-fun-lensa-ai-portrait-app-raises-ethical-privacy-concerns-1.6190874",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2022/12/12/2582392/_jcr_content/renditions/videothumbnail.1670858793517.jpg",
+          "width": 1020,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/national/sci-tech/2022/12/12/1_6190874.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2022/12/12/1_6190874.amp.html",
+      "publishedDateTime": "2022-12-12T06:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-12-an-ai-stretch-of-the-imagination.md",
+      "title": "An AI-Stretch Of The Imagination",
+      "excerpt": "A key tool to de-risk innovation and democratize data. And the best thing about it, is that while businesses can innovate to the max and offer you better products and services, your privacy remains intact.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-stretch-of-the-imagination/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-stretch-of-the-imagination/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61de03f0b6b2eca035a665be/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-stretch-of-the-imagination/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/12/an-ai-stretch-of-the-imagination/amp/",
+      "publishedDateTime": "2022-12-12T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-12-toggle-ai-introduces-direct-trading-integration-in-partnership-with-interactive-brokers.md",
+      "title": "TOGGLE AI Introduces Direct Trading Integration in Partnership With Interactive Brokers",
+      "excerpt": "TOGGLE AI, the intelligent investing dashboard, introduced today its first direct trading integration in partnership with Interactive Brokers. Interactive Brokers account holders can now execute trades directly on the TOGGLE AI platform,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/technology-science-1b15107c36304fc29d4d2038868f2dac",
+      "originalUrl": "https://apnews.com/article/technology-science-1b15107c36304fc29d4d2038868f2dac",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T05:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-12-vcs-say-superpowered-software-a-dearth-of-new-funds-and-rampant-ma-among-the-tech-trends-to-watch-in-2023.md",
       "title": "VCs say superpowered software, a dearth of new funds, and rampant M&A among the tech trends to watch in 2023",
       "excerpt": "The party round is over, unicorn valuations are coming back as a meaningful metric, and other predictions from venture capitalists.",
@@ -1013,152 +1150,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-the-future-of-ai-is-finally-here-and-a-lot-of-people-are-going-to-be-out-of-a-job.md",
-      "title": "The Future Of AI Is Finally Here – And A Lot Of People Are Going To Be Out Of A Job",
-      "excerpt": "For years, folks have been talking about the coming AI revolution, about how it’s going to change everything, and about how it is going to cost a lot of people their jobs. Well, the future is now – and business leaders need to take note.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brycehoffman/2022/12/11/the-future-of-ai-is-finally-here--and-a-lot-of-people-are-going-to-be-out-of-a-job/",
-      "originalUrl": "https://www.forbes.com/sites/brycehoffman/2022/12/11/the-future-of-ai-is-finally-here--and-a-lot-of-people-are-going-to-be-out-of-a-job/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/639618d36b2bd6c01b620ebf/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brycehoffman/2022/12/11/the-future-of-ai-is-finally-here--and-a-lot-of-people-are-going-to-be-out-of-a-job/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brycehoffman/2022/12/11/the-future-of-ai-is-finally-here--and-a-lot-of-people-are-going-to-be-out-of-a-job/amp/",
-      "publishedDateTime": "2022-12-11T09:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-business-leaders-are-still-nervous-about-the-side-effects-of-artificial-intelligence.md",
-      "title": "Business Leaders Are Still Nervous About the Side Effects Of Artificial Intelligence",
-      "excerpt": "Real money — and lots of it — is on the line, and, ultimately, there is fear that AI may be more fad than substance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/12/11/business-leaders-are-still-nervous-about-the-side-effects-of-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/12/11/business-leaders-are-still-nervous-about-the-side-effects-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63962194b4116abe893ef9b2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/12/11/business-leaders-are-still-nervous-about-the-side-effects-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/12/11/business-leaders-are-still-nervous-about-the-side-effects-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-12-11T09:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-artificial-intelligence-ai-in-alzheimers-applications-market-with-tremendous-growth-by-2029-ibm-pfizer-inc.md",
-      "title": "Artificial Intelligence (AI) in Alzheimers Applications Market with Tremendous growth by 2029 IBM, Pfizer, Inc.",
-      "excerpt": "IBM, Pfizer, Inc., Alzheimer, Netflix, Facebook, Aamzon, BenevolentAI, This study estimates the factors that are boosting the development of the global Artificial Intelligence (AI) in Alzheimers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-alzheimers-applications-market-with-tremendous-growth-by-2029-ibm-pfizer-inc",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-alzheimers-applications-market-with-tremendous-growth-by-2029-ibm-pfizer-inc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.market-news.org/wp-content/uploads/2022/12/Artificial-Intelligence-AI-in-Alzheimers-Applications.jpg",
-          "width": 712,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-11T08:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/artificial-intelligence-animals-anthropo
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-animals-anthropomorphism/amp"
 type: article
 quality: 91
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/ai-building.jpg"
         width: 1176
         height: 1920
+        isCached: true
+  - title: "The rise of artificial intelligence in healthcare"
+    excerpt: "Access to data, repetition and continued testing are preconditions for machine learning and – with the breadth and depth of data it"
+    publishedDateTime: 2022-12-21T22:11:00Z
+    webUrl: "https://www.proactiveinvestors.com.au/companies/news/1001830/the-rise-of-artificial-intelligence-in-healthcare-1001830.html"
+    type: article
+    provider:
+      name: Proactiveinvestors UK
+      domain: proactiveinvestors.com.au
+    quality: 54
+    images:
+      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzEyXC8yMDIyLTEyLTIxLTE1LTU1LTIxLTlhMjMyY2Q5MDUzMzU2YmI5MWNhYTQ3NTA4YjE2ZDYwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
+        width: 1200
+        height: 630
         isCached: true
   - title: "Artificial intelligence and the rise of optical computing"
     excerpt: "An optical computer could likewise do lots of calculations at the same time. Using photons reduces power consumption, too. Electrical resistance generates heat, which wastes energy. The passage of photons through transparent media is resistance-free."

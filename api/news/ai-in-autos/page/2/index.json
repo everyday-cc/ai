@@ -2,6 +2,60 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-12-12-artificial-intelligence-and-machine-learning-market-size-by-types-by-application-and-forecast-from-2022-2028.md",
+      "title": "Artificial Intelligence and Machine Learning Market Size: By Types, By Application and forecast from 2022 - 2028.",
+      "excerpt": "The “ Artificial Intelligence and Machine Learning Market ” report provides a detailed overview of diversified objectives which includes analytical components, product creation, and staying on track with the competitive field.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-size-by-types-by-application-and-forecast-from-2022---2028-2022-12-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-size-by-types-by-application-and-forecast-from-2022---2028-2022-12-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-12-12-reimagining-healthcare-with-ai-three-key-areas-for-transformation.md",
       "title": "Reimagining Healthcare With AI: Three Key Areas For Transformation",
       "excerpt": "It's more imperative than ever to bring personalization and efficiency into the patient, physician and operator experience. The positive is that we are now ready with technology powered by AI to speed up this transformation journey.",
@@ -1380,58 +1434,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-tesla-says-it-is-adding-radar-in-its-cars-next-month-amid-self-driving-suite-concerns.md",
-      "title": "Tesla says it is adding radar in its cars next month amid self-driving suite concerns",
-      "excerpt": "Tesla told the FCC that it plans to market a new radar starting next month. The move raises even more concerns about self-driving concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/12/06/tesla-radar-car-next-month-self-driving-suite-concerns/",
-      "originalUrl": "https://electrek.co/2022/12/06/tesla-radar-car-next-month-self-driving-suite-concerns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Autopilot-Radar-e1603395743425.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-06T18:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-18-qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform.md",
+      "title": "Qualcomm debuts latest flagship Snapdragon chip and a new AI platform",
+      "excerpt": "It’s likely not surprising for those who have been following the space for the last several years that Qualcomm is positioning AI/ML as the centerpiece of its latest system on a chip. With the new Hexagon Processor (that’s a Qualcomm trademark ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform/",
+      "originalUrl": "https://techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1179422887.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/17/qualcomm-debuts-latest-flagship-snapdragon-chip-and-a-new-ai-platform/amp/",
+      "publishedDateTime": "2022-11-17T12:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-astera-labs-raises-150m-for-chips-that-deliver-ai-in-the-cloud.md",
       "title": "Astera Labs raises $150M for chips that deliver AI in the cloud",
       "excerpt": "Watch now. Astera Labs provides chips for connecting AI systems in the cloud, and today it has raised $150 million at a $3.15 billion valuation. It makes sure AI processor are fed enough data. In addition to closing the fourth round of funding, Santa Clara ...",
@@ -1393,58 +1446,6 @@
         "AI Hardware",
         "IBM AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-former-iphone-leader-joins-arm-to-bring-more-chips-into-your-life.md",
-      "title": "Former iPhone Leader Joins Arm to Bring More Chips Into Your Life",
-      "excerpt": "Arm licenses chip designs to companies like Qualcomm and technology to others like Apple who design their own processors. Graphics and AI chip giant Nvidia tried to acquire Arm for $40 billion ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/mobile/former-iphone-leader-joins-arm-to-bring-more-chips-into-your-life/",
-      "originalUrl": "https://www.cnet.com/tech/mobile/former-iphone-leader-joins-arm-to-bring-more-chips-into-your-life/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/aafecc487b5fb4d281afcfab3be1714fad9f5b3f/hub/2022/11/02/8858bad7-8337-4e4b-aa39-ae46f7a17449/20141105-tony-fadell-01.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/former-iphone-leader-joins-arm-to-bring-more-chips-into-your-life/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/former-iphone-leader-joins-arm-to-bring-more-chips-into-your-life/",
-      "publishedDateTime": "2022-11-04T01:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

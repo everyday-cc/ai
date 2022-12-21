@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-21T20:05:00Z
 originalUrl: "https://www.zdnet.com/article/the-abcs-of-tech-opportunities-in-the-year-ahead-ai-b2b-cx/"
 webUrl: "https://www.zdnet.com/article/the-abcs-of-tech-opportunities-in-the-year-ahead-ai-b2b-cx/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: ZDNet

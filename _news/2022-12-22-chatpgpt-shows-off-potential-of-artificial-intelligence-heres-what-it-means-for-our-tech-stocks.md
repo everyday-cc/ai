@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-21T17:19:00Z
 originalUrl: "https://www.cnbc.com/2022/12/21/chatpgpt-shows-off-artificial-intelligence-microsoft-nvidia-roles.html"
 webUrl: "https://www.cnbc.com/2022/12/21/chatpgpt-shows-off-artificial-intelligence-microsoft-nvidia-roles.html"
 type: article
+quality: 56
+heat: -1
+published: false
 
 provider:
   name: CNBC
@@ -17,7 +20,32 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
-secured: "cAiynz7dlWT5+jny9o9UjtpsoMPuDqAbR+ZzhLj9lvazCnIT3WoEwW2QcQmHzwxAr5g+2vtxqPauMP3zDKfPGrWWVzSP1bSxETrzz1eQxciV208jHkCYYysJe9s1kOuh4U1uCk10aSBqjkaJtn34NgJwkmRC1zi308lL/bVk0TqkaU9jRa/yAc3T+ttx1/CHKUVdwGFZXbzlLNKhKdNoAE9mSpJyrTCgBAC7Px2qjCtvoFnGNm72C5w2QGh74Rh6LC+xWeTbRRfxGjR43NgQrIaHj6J/woxsy6oFbkgIKmyREsLiXWSdz+URRmw9JG7EcHpajFe3YTHI3ZT6hP/6Yr5KbUfW7GODGz3qJvn0DzZueo+mhwsHCBDZgFUepfeqS5r8f8txcl9HSW1VB760B8ULwKL92W/3NjyDomAS1AsC+arwyL79yqZLDiOUvcemPaLcMQq3OBItZ1jFs5iXzGNshrFaH28VqvU3l02/vsyOg7c3Pn1xX9vIJI87xy1PMzCk1mwBRC/enrnCnq4fRA==;dU3/PEtTiyAa7fF3fNAr+Q=="
+images:
+  - url: "https://image.cnbcfm.com/api/v1/image/106818873-1609806150968-gettyimages-955692278-MS_BUILD_CONFERENCE.jpeg?v=1671649628&w=1920&h=1080"
+    width: 1920
+    height: 1080
+    isCached: true
+
+related:
+  - title: "Is There A ChatGPT Stock? Can You Invest In ChatGPT And Other Types Of Artificial Intelligence?"
+    excerpt: "Can you invest in ChatGPT? We look at this new, revolutionary product that OpenAI released and other readily available AI investment strategies."
+    publishedDateTime: 2022-12-21T15:55:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2022/12/21/is-there-a-chatgpt-stock-can-you-invest-in-chatgpt-and-other-types-of-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2022/12/21/is-there-a-chatgpt-stock-can-you-invest-in-chatgpt-and-other-types-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/12/21/is-there-a-chatgpt-stock-can-you-invest-in-chatgpt-and-other-types-of-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63a32f86ff6366182c36e6f0/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 728
+        isCached: true
+
+secured: "Bm5byQlRAPt0fDFsdrYDfmuPGf0u7AYvEiZ6Ot0Y7NsFwqxyeZRG1pLWyi1Ht4e8CBQy2APJikhSmiOiPx0O1YoWm8T3qRYZ0J9yCur9BXQ93xh1wD596afwiT+oAKZPfBjrUhKjJKbfFDwUm70BFpHTBrcRURQifXHEat3VjddPxCcjNjEL2RH+qiggq2YjBbEPs81c/1C8r325WCZU9lrqHnm/A7MlJWpd23XISCzo772bNO+U6dlooBopDCmzbv7hFZ/aOp5eAm/kgbjn0PKXCDoDpyg8MNBxb7MocmgspO9FbkTlRALVLJNuZEslsr+p1c6TfM8WsHJYtqHFDKNmynS3Z36JuuiYvn64HGQ=;SqurZyAOSabMLoyE2m3MbA=="
 ---
 

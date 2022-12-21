@@ -79,6 +79,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market 2022 Trending Technologies, Manufacturers, End-Users, Growth Elements and Forecast 2028"
+    excerpt: "The report on the Artificial Intelligence in Healthcare market is strategically prepared to provide the growth trends, drivers, opportunities, challenges, and restraints along with the latest technological developments in the market and innovation."
+    publishedDateTime: 2022-12-20T21:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2022-trending-technologies-manufacturers-end-users-growth-elements-and-forecast-2028-2022-12-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
   - title: "Artificial Intelligence (AI) Consulting Market Market Size 2023 Industry Analysis, Key Players, Regional Demand, Opportunity and Forecast 2028"
     excerpt: "Consulting Market \" Insights 2022 - By Applications (Technology Consulting, Management Consulting), By Types (, Strategy Development, Strategy Execution, Commercial Due Diligence, Customer Training, ),"
     publishedDateTime: 2022-12-18T11:50:00Z

@@ -64,20 +64,24 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "Quora launches Poe, a way to talk to AI chatbots like ChatGPT"
+    excerpt: "At launch, Poe provides access to several text-generating AI models, including ChatGPT. (OpenAI doesn’t presently offer a public API for ChatGPT; the Quora spokesperson refused"
+    publishedDateTime: 2022-12-21T19:43:00Z
+    webUrl: "https://techcrunch.com/2022/12/21/quora-launches-poe-a-way-to-talk-to-ai-chatbots-like-chatgpt/"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: techcrunch.com
+    quality: 47
   - title: "ChatGPT is proof the AI chatbots are here to stay"
     excerpt: "Chat GPT crashed. “I immediately feel like I lost 50 points of IQ,” tweeted one user. “Now I have to use search engines like cavemen did,” exclaimed"
     publishedDateTime: 2022-12-18T00:00:00Z
-    webUrl: "https://www.thetimes.co.uk/article/006c4ae0-7d4c-11ed-a3d2-203363978915?shareToken=c8bf647aff7eb7655ef38ee11c47fe04"
+    webUrl: "https://www.thetimes.co.uk/article/chatgpt-is-proof-the-ai-chatbots-are-here-to-stay-6jhd2fbgf?shareToken=ef7b4fa70be33e29af1e523c0621c38f"
     type: article
     provider:
       name: The Times
       domain: thetimes.co.uk
-    quality: 39
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F028dde28-7d61-11ed-a3d2-203363978915.jpg?crop=3000%2C1687%2C0%2C156&resize=1200"
-        width: 1200
-        height: 674
-        isCached: true
+    quality: 19
   - title: "AI breakthrough ChatGPT raises alarm over student cheating"
     excerpt: "Academics urge universities to develop new forms of assessment after launch of program that imitates essay-writing"
     publishedDateTime: 2022-12-18T05:00:00Z

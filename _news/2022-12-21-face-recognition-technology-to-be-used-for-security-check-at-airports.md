@@ -93,6 +93,20 @@ related:
       name: Biometric Companies
       domain: biometricupdate.com
     quality: 32
+  - title: "Madison Square Garden Using Facial Recognition Technology To Kick Out Legal Adversaries"
+    excerpt: "In recent months, Madison Square Garden and its affiliated venues have used facial recognition technology to remove multiple lawyers from the premises because they’re employed by firms in active litigation against MSG."
+    publishedDateTime: 2022-12-21T21:03:00Z
+    webUrl: "https://www.stereogum.com/2209007/madison-square-garden-using-facial-recognition-technology-to-kick-out-legal-adversaries/news/"
+    type: article
+    provider:
+      name: Stereogum
+      domain: stereogum.com
+    quality: 31
+    images:
+      - url: "https://static.stereogum.com/uploads/2022/12/GettyImages-1447005870-1671656449-scaled.jpg"
+        width: 2560
+        height: 1790
+        isCached: true
   - title: "Facial recognition software for employee time and attendance reports launched by RecFaces"
     excerpt: "RecFaces has launched a facial recognition software solution for employee time and attendance tracking with autonomously operating terminals."
     publishedDateTime: 2022-12-20T17:14:00Z
@@ -107,6 +121,29 @@ related:
         width: 2048
         height: 1812
         isCached: true
+  - title: "Facial-Recognition Tech Gets Lawyer Booted From Radio City Music Hall"
+    excerpt: "Kelly Conlon says she purchased tickets for her and her daughter to see the Radio City Music Hall Christmas show as part of a Girl Scout outing. Upon entering, Conlon says she heard an announcement over the PA system describing her physical appearance."
+    publishedDateTime: 2022-12-21T20:36:00Z
+    webUrl: "https://www.extremetech.com/extreme/341741-facial-recognition-tech-gets-lawyer-booted-from-radio-city-music-hall"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 24
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2018/10/598521-facial-recognition-640x360.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Girl Scout mom gets kicked out of Rockettes show due to facial recognition technology"
+    excerpt: "One mom was kicked out of a Rockettes performance after facial recognition technology recognized her at Radio City Music Hall. Category : Viral & Trending"
+    publishedDateTime: 2022-12-21T19:50:00Z
+    webUrl: "https://www.mother.ly/news/viral-trending/facial-recognition-technology-rockettes-show/"
+    type: article
+    provider:
+      name: Mother
+      domain: mother.ly
+    quality: 12
 
 secured: "EE5O62k917w9TJHdrqUMNkQu9pVujasgjOHIMeiOm/gdtVaXOqnqdKMop/yVHOAEFlY4ANyF6BSnH7ZRyJAcqIIsg1cfgPN4QL6uUEMlJEYiJg32plVkFUk+cEC/ALksLAvpEZP0qZoD3ZfFhcTntq0c3jGsyg1P7o/G2JM0qQFn2kEzvSPoM6IbI1hqu22gskYrKg3PH+GKqXb9NbIpjKlmEaXaoHYdCYSkw1AVIUkyyGTiTRkDpGhwS0dUcx0Hk6Apx7vKPJd1roFArbf3KAprrb38RPudjl3Q+FVWMbWObDk/nn+Rigv25oJs2LBI+VnkCiW9lCU42Fb9UOMBlQR1kj4DkVB5pgtGgaVp4d8=;paz0v6ntSGj3sV/QHPLZNw=="
 ---

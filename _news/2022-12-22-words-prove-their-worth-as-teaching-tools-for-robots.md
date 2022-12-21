@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-21T20:40:00Z
 originalUrl: "https://techxplore.com/news/2022-12-words-worth-tools-robots.html"
 webUrl: "https://techxplore.com/news/2022-12-words-worth-tools-robots.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: techxplore

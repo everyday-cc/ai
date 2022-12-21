@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/alexzhavoronkov/2022/12/21/ai-in-big-pharm
 ampWebUrl: "https://www.forbes.com/sites/alexzhavoronkov/2022/12/21/ai-in-big-pharma-the-first-antibody-designed-using-ai-in-the-clinic/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2022/12/21/ai-in-big-pharma-the-first-antibody-designed-using-ai-in-the-clinic/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:

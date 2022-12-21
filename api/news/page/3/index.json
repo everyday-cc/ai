@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-12-19-healthcare-natural-language-processing-nlp-market-geographical-segmentation-by-forecast-revenue-2023-2029.md",
+      "title": "Healthcare Natural Language Processing (NLP) Market Geographical Segmentation By Forecast Revenue 2023-2029",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Dec 19, 2022 (The Expresswire) -- “Healthcare Natural Language Processing (NLP) Market\" is segmented by Company, Region (country), By Type, Application, stakeholders and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-geographical-segmentation-by-forecast-revenue-2023-2029-2022-12-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-geographical-segmentation-by-forecast-revenue-2023-2029-2022-12-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-12-19-ai-timelines-what-do-experts-in-artificial-intelligence-expect-for-the-future.md",
+      "title": "AI Timelines: What Do Experts in Artificial Intelligence Expect for the Future?",
+      "excerpt": "Many AI experts believe there is a chance human-level artificial intelligence will arrive within the next decades—some believe it will exist much sooner.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2022/12/18/ai-timelines-what-do-experts-in-artificial-intelligence-expect-for-the-future/",
+      "originalUrl": "https://singularityhub.com/2022/12/18/ai-timelines-what-do-experts-in-artificial-intelligence-expect-for-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2022/12/deepmind-unsplash-ai.jpeg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2022/12/18/ai-timelines-what-do-experts-in-artificial-intelligence-expect-for-the-future/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/12/18/ai-timelines-what-do-experts-in-artificial-intelligence-expect-for-the-future/?amp=1",
+      "publishedDateTime": "2022-12-18T13:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-12-18-how-generative-ai-will-change-all-knowledge-work.md",
       "title": "How Generative AI Will Change All Knowledge Work",
       "excerpt": "The acceleration of applications around generative AI is showing us how quickly and broadly our work will change.",
@@ -491,8 +578,8 @@
       "title": "How artificial intelligence could be used to fight wildfires",
       "excerpt": "A tech company is developing a new type of artificial intelligence to fight wildfires by using predictive analysis before the fires even start and AI logistics to help contain them.",
       "sourceUrl": null,
-      "webUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
-      "originalUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
+      "webUrl": "https://www.fox5ny.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
+      "originalUrl": "https://www.fox5ny.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -500,13 +587,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
-      "cdnAmpWebUrl": "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
-      "publishedDateTime": "2022-12-16T12:07:00-08:00",
+      "ampWebUrl": "https://www.fox5ny.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
+      "cdnAmpWebUrl": "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
+      "publishedDateTime": "2022-12-16T11:58:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "q13fox",
-        "domain": "q13fox.com",
+        "name": "Fox 5 NY",
+        "domain": "fox5ny.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1105,102 +1192,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-microsoft-brings-real-time-voice-translation-to-skype-check-details.md",
-      "title": "Microsoft brings real-time voice translation to Skype: Check details",
-      "excerpt": "Microsoft has launched real-time voice translation in Skype, which can now translate a person's voice in real-time using AI to make the translated voice sound similar to the original speaker.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bgr.in/apps/microsoft-brings-real-time-voice-translation-to-skype-check-details-1349718/",
-      "originalUrl": "https://www.bgr.in/apps/microsoft-brings-real-time-voice-translation-to-skype-check-details-1349718/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://st1.bgr.in/wp-content/uploads/2022/12/skype-logo.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bgr.in/apps/microsoft-brings-real-time-voice-translation-to-skype-check-details-1349718/amp/",
-      "cdnAmpWebUrl": "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/apps/microsoft-brings-real-time-voice-translation-to-skype-check-details-1349718/amp/",
-      "publishedDateTime": "2022-12-15T23:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "www.bgr.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-taiwanese-startup-writepaths-ai-tech-speeds-up-financial-disclosure-translation.md",
-      "title": "Taiwanese startup WritePath’s AI tech speeds up financial disclosure translation",
-      "excerpt": "In countries where English is not a main language, listed companies not only have to deal with financial disclosure regulations, but make sure their investor materials are available in English for global backers.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/15/writepath-2/",
-      "originalUrl": "https://techcrunch.com/2022/12/15/writepath-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1358049863.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/15/writepath-2/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/15/writepath-2/amp/",
-      "publishedDateTime": "2022-12-15T22:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

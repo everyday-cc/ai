@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-21T20:00:00Z
 originalUrl: "https://vegnews.com/2022/12/vegan-food-robots-ai-food"
 webUrl: "https://vegnews.com/2022/12/vegan-food-robots-ai-food"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: VegNews

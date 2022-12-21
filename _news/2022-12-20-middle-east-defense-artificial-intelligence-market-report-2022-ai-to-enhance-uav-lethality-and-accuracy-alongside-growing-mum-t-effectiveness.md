@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-19T17:00:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/12/n30132855/middle-east-defense-artificial-intelligence-market-report-2022-ai-to-enhance-uav-lethality-and-acc"
 webUrl: "https://www.benzinga.com/pressreleases/22/12/n30132855/middle-east-defense-artificial-intelligence-market-report-2022-ai-to-enhance-uav-lethality-and-acc"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

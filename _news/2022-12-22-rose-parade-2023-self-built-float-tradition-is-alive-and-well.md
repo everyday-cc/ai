@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-21T20:19:00Z
 originalUrl: "https://www.ocregister.com/2022/12/21/rose-parade-2023-self-built-float-tradition-is-alive-and-well/"
 webUrl: "https://www.ocregister.com/2022/12/21/rose-parade-2023-self-built-float-tradition-is-alive-and-well/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Orange County Register

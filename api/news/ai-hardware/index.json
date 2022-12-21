@@ -730,6 +730,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-13-brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge.md",
+      "title": "BrainChip Joins Intel Foundry Services to Advance Neuromorphic AI at the Edge",
+      "excerpt": "LAGUNA HILLS, CA / ACCESSWIRE / December 11, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of ultra-low power neuromorphic AI IP ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge-01670798126",
+      "originalUrl": "https://www.wsj.com/articles/brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge-01670798126",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T11:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-12-china-wants-legal-sector-to-be-ai-powered-by-2025.md",
       "title": "China wants legal sector to be AI-powered by 2025",
       "excerpt": "Supreme People's Court issues directive for an artificial intelligence network to be in place by 2025 to support and enhance legal services, but says court rulings will remain decisions made by judges.",
@@ -1385,40 +1428,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-oss-wins-multi-million-dollar-ai-transportable-program-with-leading-5g-cellular-provider.md",
-      "title": "OSS Wins Multi-Million-Dollar AI Transportable Program with Leading 5G Cellular Provider",
-      "excerpt": "(Nasdaq: OSS), a leader in AI Transportable solutions on the edge, has won a multi-year, multi-million-dollar program with a Fortune 50 cellular provider to supply OSS transportable compute and storage hardware for a mobile 5G AI application.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/12/07/9726055.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/12/07/9726055.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T07:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

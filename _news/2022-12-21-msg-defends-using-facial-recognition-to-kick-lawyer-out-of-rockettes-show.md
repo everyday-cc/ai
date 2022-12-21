@@ -53,6 +53,22 @@ related:
         width: 828
         height: 610
         isCached: true
+  - title: "MSG Policy Uses Facial Recognition To Boot Girl Scout Mom From Rockettes Show"
+    excerpt: "A Girl Scout mom was barred from entering a Rockettes show at Radio City Music Hall in New York City after being identified by facial recognition software. Kelly Conlon, who was traveling with her daughter's Girl Scout troop,"
+    publishedDateTime: 2022-12-21T21:43:00Z
+    webUrl: "https://www.ibtimes.com/msg-policy-uses-facial-recognition-boot-girl-scout-mom-rockettes-show-3649914"
+    ampWebUrl: "https://www.ibtimes.com/msg-policy-uses-facial-recognition-boot-girl-scout-mom-rockettes-show-3649914?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/msg-policy-uses-facial-recognition-boot-girl-scout-mom-rockettes-show-3649914?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 56
+    images:
+      - url: "https://d.ibtimes.com/en/full/3360158/radio-city-rockettes.jpg"
+        width: 2500
+        height: 1636
+        isCached: true
   - title: "MSG Facial-Recognition Tech Gets Lawyer Kicked Out of Radio City Show"
     excerpt: "The woman was reportedly separated from her daughter and escorted out of the venue because the tech identified her as working for a law firm in litigation with MSG Entertainment."
     publishedDateTime: 2022-12-21T13:04:00Z

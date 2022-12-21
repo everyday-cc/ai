@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-22-tesla-full-self-driving-triggered-an-eight-car-crash-a-driver-tells-police.md",
+      "title": "Tesla ‘full self-driving’ triggered an eight-car crash, a driver tells police",
+      "excerpt": "A driver told authorities that their Tesla's \"full-self-driving\" software braked unexpectedly and triggered an eight-car pileup in the San Francisco Bay Area last month that led to nine people being treated for minor injuries including one juvenile who was hospitalized,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/12/21/business/tesla-fsd-8-car-crash/index.html",
+      "originalUrl": "https://www.cnn.com/2022/12/21/business/tesla-fsd-8-car-crash/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220629161230-tesla-vehicle-autopilot-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/12/21/business/tesla-fsd-8-car-crash/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/12/21/business/tesla-fsd-8-car-crash/index.html",
+      "publishedDateTime": "2022-12-21T14:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-22-aws-reinvent-2022-aims-to-evolve-telcos-into-tech-cos.md",
+      "title": "AWS Re:Invent 2022 Aims To Evolve Telcos Into Tech-Cos",
+      "excerpt": "Vice President, Security, Carriers and Enterprise Networking, Will Townsend. The Amazon Web Services (AWS) re:Invent conference is decidedly back post-pandemic. He would like to share his insights into some of the more exciting telecom news and announcements that emerged from re:Invent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/12/21/aws-reinvent-2022-aims-to-evolve-telcos-into-tech-cos/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/12/21/aws-reinvent-2022-aims-to-evolve-telcos-into-tech-cos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63a381e68cc45940bdc9d510/0x0.jpg?format=jpg&width=1200",
+          "width": 936,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/12/21/aws-reinvent-2022-aims-to-evolve-telcos-into-tech-cos/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/12/21/aws-reinvent-2022-aims-to-evolve-telcos-into-tech-cos/amp/",
+      "publishedDateTime": "2022-12-21T13:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-22-msg-allegedly-used-facial-recognition-to-remove-rival-attorney-from-rockettes-show.md",
       "title": "MSG Allegedly Used Facial Recognition to Remove Rival Attorney From Rockettes Show",
       "excerpt": "A privacy expert told Gizmodo this was one of the first instances of a private firm using facial recognition to retaliate against an opposing lawyer.",
@@ -105,7 +209,7 @@
       "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/12/21/who-ultimately-owns-content-generated-by-chatgpt-and-other-ai-platforms/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -311,7 +415,7 @@
       "originalUrl": "https://www.forbes.com/sites/alexzhavoronkov/2022/12/21/ai-in-big-pharma-the-first-antibody-designed-using-ai-in-the-clinic/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -351,7 +455,8 @@
       ],
       "topics": [
         "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "IBM AI"
       ]
     },
     {
@@ -363,7 +468,7 @@
       "originalUrl": "https://www.forbes.com/sites/qai/2022/12/21/is-there-a-chatgpt-stock-can-you-invest-in-chatgpt-and-other-types-of-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -866,7 +971,7 @@
       "originalUrl": "https://www.entrepreneur.com/business-news/girl-scout-mom-denied-entry-to-rockettes-show-due-to-face/441539",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -969,7 +1074,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligenceai-in-healthcare-market-2022-advance-technology-and-highlighted-key-development-by-2028-2022-12-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -1148,110 +1253,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-20-power-recommendation-and-search-using-an-imdb-knowledge-graph-part-1.md",
-      "title": "Power recommendation and search using an IMDb knowledge graph – Part 1",
-      "excerpt": "The IMDb and Box Office Mojo Movies/TV/OTT licensable data package provides a wide range of entertainment metadata, including over 1 billion user ratings; credits for more than 11 million cast and crew members; 9 million movie, TV, and entertainment titles; and global box office reporting data from more",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-power-recommendation-and-search-using-an-imdb-knowledge-graph/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-power-recommendation-and-search-using-an-imdb-knowledge-graph/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/20/imdb-knowledge-graph-part-1.jpg",
-          "width": 1051,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-20T08:33:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-20-accelerate-the-investment-process-with-aws-low-code-no-code-services.md",
-      "title": "Accelerate the investment process with AWS Low Code-No Code services",
-      "excerpt": "The last few years have seen a tremendous paradigm shift in how institutional asset managers source and integrate multiple data sources into their investment process. With frequent shifts in risk correlations, unexpected sources of volatility, and increasing competition from passive strategies, asset",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-the-investment-process-with-aws-low-code-no-code-services/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-the-investment-process-with-aws-low-code-no-code-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/20/accelerate-investment-process.jpg",
-          "width": 1053,
-          "height": 527,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-20T08:13:35-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

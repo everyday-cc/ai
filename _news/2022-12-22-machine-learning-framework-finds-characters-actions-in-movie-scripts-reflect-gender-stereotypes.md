@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-21T18:59:00Z
 originalUrl: "https://techxplore.com/news/2022-12-machine-learning-framework-characters-actions-movie.html"
 webUrl: "https://techxplore.com/news/2022-12-machine-learning-framework-characters-actions-movie.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: techxplore

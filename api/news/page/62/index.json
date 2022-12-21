@@ -2,6 +2,146 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2022-10-28-cruise-opens-robotaxi-waitlist-in-austin-and-phoenix.md",
+      "title": "Cruise opens robotaxi waitlist in Austin and Phoenix",
+      "excerpt": "but a spokesperson told TechCrunch today that Cruise will launch a fully driverless paid service immediately. The company began supervised testing in Austin last month with more than a dozen ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/27/cruise-opens-robotaxi-waitlist-in-austin-and-phoenix/",
+      "originalUrl": "https://techcrunch.com/2022/10/27/cruise-opens-robotaxi-waitlist-in-austin-and-phoenix/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/Cruise_700848.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/27/cruise-opens-robotaxi-waitlist-in-austin-and-phoenix/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/27/cruise-opens-robotaxi-waitlist-in-austin-and-phoenix/amp/",
+      "publishedDateTime": "2022-10-27T13:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-uk-police-fail-to-meet-legal-and-ethical-standards-in-use-of-facial-recognition-say-experts.md",
+      "title": "UK police fail to meet 'legal and ethical standards' in use of facial recognition, say experts",
+      "excerpt": "A team from the University of Cambridge's Minderoo Centre for Technology and Democracy created the new audit tool to evaluate \"compliance with the law and national guidance\" around issues such as privacy,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-10-uk-police-legal-ethical-standards.html",
+      "originalUrl": "https://techxplore.com/news/2022-10-uk-police-legal-ethical-standards.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/uk-police-fail-to-meet.jpg",
+          "width": 1334,
+          "height": 829,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-10-uk-police-legal-ethical-standards.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-uk-police-legal-ethical-standards.amp",
+      "publishedDateTime": "2022-10-27T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-self-driving-wheelchair-market-research-report-analysis-by-competitors-sales-revenue-and-market-size-2022-to-2028.md",
+      "title": "Self Driving Wheelchair Market Research Report Analysis by Competitors, Sales, Revenue, and Market Size 2022 To 2028.",
+      "excerpt": "The \" Self Driving Wheelchair market \" research goes on to discuss the variables influencing and impeding demand throughout the anticipated time frame of 2022 to 2028 as well as their impact on demand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-research-report-analysis-by-competitors-sales-revenue-and-market-size-2022-to-2028-2022-10-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-research-report-analysis-by-competitors-sales-revenue-and-market-size-2022-to-2028-2022-10-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-27T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-10-28-aws-makes-neptune-its-graph-database-service-serverless.md",
       "title": "AWS makes Neptune, its graph database service, serverless",
       "excerpt": "AWS is launching a serverless flavor of its Neptune graph database service that abstracts away managing compute capacity.",
@@ -1034,163 +1174,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-ais-new-creative-streak-sparks-a-silicon-valley-gold-rush.md",
-      "title": "AI's New Creative Streak Sparks a Silicon Valley Gold Rush",
-      "excerpt": "Investors have got the hots for \"generative AI\" that can make text and images. But so far, the hype runs ahead of the business results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/",
-      "originalUrl": "https://www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/635a221f93ea9ed771dc5180/master/pass/Business-AI-Generators-Stephanie-Guo-1177538357.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/amp",
-      "publishedDateTime": "2022-10-27T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-computer-vision-in-artificial-intelligence-ai-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2029-101-pages-report.md",
-      "title": "Computer Vision in Artificial Intelligence (AI) Market : Research Report Provides an In-Depth Insight of Trends 2022 To 2029 | 101 Pages Report",
-      "excerpt": "According to this latest study, In 2022 the growth of Computer Vision in Artificial Intelligence (AI) Market is",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2029-101-pages-report-2022-10-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2029-101-pages-report-2022-10-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-how-technology-is-helping-solve-healthcare-challenges.md",
-      "title": "How Technology Is Helping Solve Healthcare Challenges",
-      "excerpt": "In this article, I'll talk about some of the biggest problems in healthcare and how technology is being used to help solve them, which I hope will inspire you in your own business uses. Let's get going!",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/27/how-technology-is-helping-solve-healthcare-challenges/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/27/how-technology-is-helping-solve-healthcare-challenges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62bc54b6d9785913bcd547b5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/27/how-technology-is-helping-solve-healthcare-challenges/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/27/how-technology-is-helping-solve-healthcare-challenges/amp/",
-      "publishedDateTime": "2022-10-27T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

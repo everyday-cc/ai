@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2022/12/21/who-ultimately
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/12/21/who-ultimately-owns-content-generated-by-chatgpt-and-other-ai-platforms/amp/"
 type: article
 quality: 86
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -55,20 +55,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "ChatGPT is proof the AI chatbots are here to stay"
-    excerpt: "Chat GPT crashed. “I immediately feel like I lost 50 points of IQ,” tweeted one user. “Now I have to use search engines like cavemen did,” exclaimed"
-    publishedDateTime: 2022-12-18T00:00:00Z
-    webUrl: "https://www.thetimes.co.uk/article/006c4ae0-7d4c-11ed-a3d2-203363978915?shareToken=c8bf647aff7eb7655ef38ee11c47fe04"
+  - title: "Quora launches Poe, a way to talk to AI chatbots like ChatGPT"
+    excerpt: "At launch, Poe provides access to several text-generating AI models, including ChatGPT. (OpenAI doesn’t presently offer a public API for ChatGPT; the Quora spokesperson refused"
+    publishedDateTime: 2022-12-21T19:43:00Z
+    webUrl: "https://techcrunch.com/2022/12/21/quora-launches-poe-a-way-to-talk-to-ai-chatbots-like-chatgpt/"
     type: article
     provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F028dde28-7d61-11ed-a3d2-203363978915.jpg?crop=3000%2C1687%2C0%2C156&resize=1200"
-        width: 1200
-        height: 674
-        isCached: true
+      name: YAHOO!News
+      domain: techcrunch.com
+    quality: 47
   - title: "Enraged Worries That Generative AI ChatGPT Spurs Students To Vastly Cheat When Writing Essays, Spawns Spellbound Attention For AI Ethics And AI Law"
     excerpt: "Generative AI such as the ChatGPT app has gotten a huge backlash that students will readily now be able to cheat when writing essays and that we are doomed accordingly. We take a close look, considering both AI Ethics and AI Law considerations on this weighty concern."
     publishedDateTime: 2022-12-18T11:59:00Z
@@ -78,6 +73,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 26
+  - title: "ChatGPT is proof the AI chatbots are here to stay"
+    excerpt: "Chat GPT crashed. “I immediately feel like I lost 50 points of IQ,” tweeted one user. “Now I have to use search engines like cavemen did,” exclaimed"
+    publishedDateTime: 2022-12-18T00:00:00Z
+    webUrl: "https://www.thetimes.co.uk/article/chatgpt-is-proof-the-ai-chatbots-are-here-to-stay-6jhd2fbgf?shareToken=ef7b4fa70be33e29af1e523c0621c38f"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 19
   - title: "AI breakthrough ChatGPT raises alarm over student cheating"
     excerpt: "Academics urge universities to develop new forms of assessment after launch of program that imitates essay-writing"
     publishedDateTime: 2022-12-18T05:00:00Z
@@ -106,6 +110,6 @@ related:
       domain: archdaily.com
     quality: 16
 
-secured: "sMtkJJ4lJsrgYlSCcf7FZ7VEiQflr8R1Jjf2E9fLYMVW2AzjbVzev4W4p+Udmz3ODZBzd6UE2RchLSYmBKsuv4wm2wyKlPv1us5LrTsPczDQUlqhTPeCzQt/35qt+BdsccfNQL9r4cK/i8ZmYuekH7H2vXFVNrECZ0b1ndVhjSrqPEy/InRY1cHS8L2xmEyfD4M6E8XmcAQB5SKyQ1rSPI8USX+6VGnYr+p5HVpPUGKnrsirvDbpQwt7nftF/Gc3IXF9Z23PoyEt288Zz5SDkzSFyL6aBhUP76nIXcX9BFbMzhEbIjNYN4uwEqmWcY2qDRzUZWnVDVYpnd/SShuX7BZSFJUvf5RXWMIf/OtYVOQ=;gMef+IIlZeCVILKuwgBfmQ=="
+secured: "6Z1xcq9sSnTKdx1OleUnT4J3CpwLC7caJlyxw1UISU6yVYx9drxIbrujIDgBJifzSjYEILOpSIDg7ZruirrllDuIFuNfpch19gA2pM9bps3KDKNynFhWe4+7xHpolLeWqgb2hZQoTN9ZY669cJY074hunQzfk8N7A16SX0whCSoTuzOwkvChz8MU0HBXGpm6BzB8wYXPTQYOG9rfdUrISFD70NU9rag6pvXfgrbZ/YuLrlIXHLK7IP0Uv1jZY7iVJ/osOD6UeZm0U1oyqWKeqsMauJrAHjgFsfnJEIH3DVynrobwI6FAPpUO7EtqzOA/esXXsrKkOTqVtlsiFlOK/CB1Tgk0WQJp7lvd+2lk55WCSnfu+Ng6JTrBTUkdxxal5J+Dfd6nmZ2FWZ5sndcT2b++0buu6zonnxhgcYmOP5VRpjWbUsIz1owSY7YYmeS4rWOsewp6KB6kQDNX5UbaG+5YFVYKr+uTo2c4C5LpCWiRFbt6wBjr3/9av3ILDQhfi7SoCieUzn9T3tnF8txpTg==;6kD+vw0H74OT4fPakGZyTQ=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-22-aws-reinvent-2022-aims-to-evolve-telcos-into-tech-cos.md",
+      "title": "AWS Re:Invent 2022 Aims To Evolve Telcos Into Tech-Cos",
+      "excerpt": "Vice President, Security, Carriers and Enterprise Networking, Will Townsend. The Amazon Web Services (AWS) re:Invent conference is decidedly back post-pandemic. He would like to share his insights into some of the more exciting telecom news and announcements that emerged from re:Invent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/12/21/aws-reinvent-2022-aims-to-evolve-telcos-into-tech-cos/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/12/21/aws-reinvent-2022-aims-to-evolve-telcos-into-tech-cos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63a381e68cc45940bdc9d510/0x0.jpg?format=jpg&width=1200",
+          "width": 936,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/12/21/aws-reinvent-2022-aims-to-evolve-telcos-into-tech-cos/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/12/21/aws-reinvent-2022-aims-to-evolve-telcos-into-tech-cos/amp/",
+      "publishedDateTime": "2022-12-21T13:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-21-announcing-the-updated-salesforce-connector-v2-for-amazon-kendra.md",
       "title": "Announcing the updated Salesforce connector (V2) for Amazon Kendra",
       "excerpt": "Amazon Kendra is a highly accurate and simple-to-use intelligent search service powered by machine learning (ML). Amazon Kendra offers a suite of data source connectors to simplify the process of ingesting and indexing your content, wherever it resides. Valuable data in organizations is stored in both",
@@ -1371,49 +1423,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-05-aws-reinvent-2022-round-up-data-management-ai-compute-take-centre-stage.md",
-      "title": "AWS re:Invent 2022 round-up: Data management, AI, compute take centre stage",
-      "excerpt": "AI features added to multiple services To help enterprises get more of a return on their data, AWS added new artificial intelligence (AI) features to a range of other services, including Textract, Transcribe, Kendra, CodeWhisperer, and HealthLake.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/703800/aws-re-invent-2022-round-up-data-management-ai-compute-take-centre-stage/",
-      "originalUrl": "https://www.reseller.co.nz/article/703800/aws-re-invent-2022-round-up-data-management-ai-compute-take-centre-stage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/adam_selipsky_aws_6.jpg",
-          "width": 504,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-04T19:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

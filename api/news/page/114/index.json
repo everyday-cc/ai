@@ -2,6 +2,135 @@
   "page": 114,
   "value": [
     {
+      "path": "_news/2022-09-14-researchers-develop-a-new-way-to-see-how-people-feel-about-artificial-intelligence.md",
+      "title": "Researchers develop a new way to see how people feel about artificial intelligence",
+      "excerpt": "People in Japan, the U.S. and Germany show different concerns regarding artificial intelligence (AI) being used in entertainment, shopping services, or to help find criminals, reports a new study in AI and Ethics.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-09-people-artificial-intelligence.html",
+      "originalUrl": "https://techxplore.com/news/2022-09-people-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/researchers-develop-a-15.jpg",
+          "width": 1100,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-09-people-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-people-artificial-intelligence.amp",
+      "publishedDateTime": "2022-09-14T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-weight-loss-and-ai-how-this-startup-is-accelerating-glucose-monitoring-for-all.md",
+      "title": "Weight Loss And AI: How This Startup Is Accelerating Glucose Monitoring For All",
+      "excerpt": "Having access to the proper tools that support a healthier life is fundamental for overall well-being. Signos is aiming to tackle the obesity epidemic by offering a new way for people to act on their body’s unique response to what and when they eat to lose weight and kickstart a healthier life.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2022/09/14/weight-loss-and-ai-how-this-startup-is-accelerating-glucose-monitoring-for-all/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2022/09/14/weight-loss-and-ai-how-this-startup-is-accelerating-glucose-monitoring-for-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/630d32979a8a3c7794bf73b5/0x0.jpg?format=jpg&width=1200",
+          "width": 640,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2022/09/14/weight-loss-and-ai-how-this-startup-is-accelerating-glucose-monitoring-for-all/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/09/14/weight-loss-and-ai-how-this-startup-is-accelerating-glucose-monitoring-for-all/amp/",
+      "publishedDateTime": "2022-09-14T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-14-major-aws-outage-in-south-africa.md",
+      "title": "Major AWS outage in South Africa",
+      "excerpt": "Amazon Web Services (AWS) appears to be having an outage causing headaches for Elastic Compute Cloud (EC2) customers in its South African region. Some report they can directly connect to existing ...",
+      "sourceUrl": null,
+      "webUrl": "https://mybroadband.co.za/news/cloud-hosting/460648-major-aws-outage-in-south-africa.html",
+      "originalUrl": "https://mybroadband.co.za/news/cloud-hosting/460648-major-aws-outage-in-south-africa.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mybroadband.co.za/news/cloud-hosting/460648-major-aws-outage-in-south-africa.html/amp",
+      "cdnAmpWebUrl": "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/cloud-hosting/460648-major-aws-outage-in-south-africa.html/amp",
+      "publishedDateTime": "2022-09-14T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyBroadband",
+        "domain": "mybroadband.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-14-more-robotaxis-are-coming-to-the-streets-of-us-cities.md",
       "title": "More robotaxis are coming to the streets of US cities",
       "excerpt": "Until now, this type of service was only available in San Francisco, with drivers behind the wheel during the day, but without a driver at night.",
@@ -982,117 +1111,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-aws-open-sources-event-ruler.md",
-      "title": "AWS Open Sources Event Ruler",
-      "excerpt": "AWS recently announced that Event Ruler, the component managing the routing rules of Amazon EventBridge, is now open source. The project is a new option for developers in need to match lots of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/09/aws-event-ruler/",
-      "originalUrl": "https://www.infoq.com/news/2022/09/aws-event-ruler/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-ibm-watson-and-guerbet-want-to-tackle-prostate-cancer-diagnosis-with-ai.md",
-      "title": "IBM Watson and Guerbet Want to Tackle Prostate Cancer Diagnosis with AI",
-      "excerpt": "Guerbet has landed a second co-development agreement with IBM Watson Health. This time around, the two companies will develop an artificial intelligence tool to help clinicians detect, segment, characterize, and monitor prostate cancer. “The main ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/business/ibm-watson-and-guerbet-want-tackle-prostate-cancer-diagnosis-ai",
-      "originalUrl": "https://www.mddionline.com/business/ibm-watson-and-guerbet-want-tackle-prostate-cancer-diagnosis-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/DSC03582.JPG",
-          "width": 5472,
-          "height": 3648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-researchers-combine-data-science-and-machine-learning-techniques-to-improve-traditional-mri-image-reconstruction.md",
-      "title": "Researchers combine data science and machine learning techniques to improve traditional MRI image reconstruction",
-      "excerpt": "University of Minnesota Twin Cities researchers have found a way to improve the performance of traditional Magnetic Resonance Imaging (MRI) reconstruction techniques, allowing for faster MRIs without relying on the use of newer deep learning methods.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/964576",
-      "originalUrl": "https://www.eurekalert.org/news-releases/964576",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

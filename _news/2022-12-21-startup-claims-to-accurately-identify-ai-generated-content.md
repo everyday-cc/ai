@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/startup-claims-to-accurately-
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/startup-claims-to-accurately-identify-ai-generated-content/amp/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1500
     height: 844
     isCached: true
-
-related:
-  - title: "Startup says it can reliably detect AI-generated content"
-    excerpt: "Google isn’t saying whether it has cracked the code of how to detect machine-generated text reliably, but a Canadian content marketer thinks he has come pretty close, even if he isn’t exactly sure how the solution he’s selling actually works."
-    publishedDateTime: 2022-12-17T05:03:00Z
-    webUrl: "https://siliconangle.com/2022/12/16/startup-says-can-reliably-detect-ai-generated-content/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/fantastic-7450426_1920.jpg"
-        width: 1920
-        height: 885
-        isCached: true
 
 secured: "95N1UtqeDGVLr1fEt7xkDlyqm2h5hnBbCZkBljlo2nUf67pVXKzYVwb87GFtzJB36iN6lB4gR8KotwpdTxHYJzY/XJMupeFvn3cT6VohdBKYhUGVNo1qpj8g6tba+Y60MAxPTwLZf6vghixt4e4pQBlkea0UL4LXZhX+6DaVIZYX0m+rpDgh7bwHTHqjnTAg3OtKP4UPnKQWWZWTiThtl8s8xMRIwVezyEoejOqsO4wPGw/n3NJJRJJ0iKYwbluJeSgN6Z5tfV0L2yEmONtAST5NtIMCkehelTKeMlHF27cpyuX0tcYszT7lbDIU9JOXrwBRN8sA1b12cl6QevI0M4Ja5rtqPZBw+xWd+0tE3wbGe6aOpX3WUmLOtPAarYPP2fh/9/RndU+e2FvvhSQXSqy5P7+MA7TXzSt3cDrSYVaBCrF82kpUnQo+/7g+2KV1cpfjpMzilGbBDqnn05AmXahvtTssAKS1zk8WaruHZYqB4BhQ1D3+dbTurdtxKbzKAbDZpF/18lo02k6gFrgxAw==;IGyFArwHlwxidJB15yi2Uw=="
 ---

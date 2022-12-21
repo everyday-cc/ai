@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-10-15-amazon-ec2-trn1-instances-for-high-performance-on-deep-learning-training-models-now-available.md",
+      "title": "Amazon EC2 Trn1 Instances for High Performance on Deep Learning Training Models Now Available",
+      "excerpt": "Subscribe for free. AWS Trainium is the second-generation of machine learning chips that AWS purpose built for deep learning training. Each Amazon EC2 Trn1 instance deploys up to 16 AWS Trainium ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2022/10/aws-trn1-chip-deep-learning/",
+      "originalUrl": "https://www.infoq.com/news/2022/10/aws-trn1-chip-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2022/10/aws-trn1-chip-deep-learning/en/headerimage/generatedHeaderImage-1665697443428.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-15T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-15-software-wont-solve-the-climate-crisis-deep-tech-investment-is-needed.md",
       "title": "Software won’t solve the climate crisis: Deep tech investment is needed",
       "excerpt": "Register now for your free virtual pass to the Low-Code/No-Code Summit this November 9. Hear from executives from Service Now, Credit Karma, Stitch Fix, Appian, and more. Learn more. In 2011, Marc ...",
@@ -1468,50 +1512,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-aws-sk-telecom-develop-computer-vision-platform.md",
-      "title": "AWS, SK Telecom develop computer vision platform",
-      "excerpt": "LIVE FROM MWC LAS VEGAS 2022: SK Telecom and Amazon Web Services (AWS) announced a partnership to develop a cloud-based computer vision platform, designed to make it easier and more cost effective for the mobile operator’s customers to build, use and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mobileworldlive.com/mwc-las-vegas-2022-news/aws-sk-telecom-co-develop-computer-vision-platform/",
-      "originalUrl": "https://www.mobileworldlive.com/mwc-las-vegas-2022-news/aws-sk-telecom-co-develop-computer-vision-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mobileworldlive.com/wp-content/uploads/2020/08/SK_Telecom_SS_Generic.jpg",
-          "width": 650,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mobileworldlive.com/mwc-las-vegas-2022-news/aws-sk-telecom-co-develop-computer-vision-platform/amp/",
-      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/mwc-las-vegas-2022-news/aws-sk-telecom-co-develop-computer-vision-platform/amp/",
-      "publishedDateTime": "2022-09-29T18:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile World Live",
-        "domain": "mobileworldlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

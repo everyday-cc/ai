@@ -1,0 +1,107 @@
+---
+category: news
+title: "The rise of artificial intelligence in healthcare"
+excerpt: "Access to data, repetition and continued testing are preconditions for machine learning and – with the breadth and depth of data it"
+publishedDateTime: 2022-12-21T22:11:00Z
+originalUrl: "https://www.proactiveinvestors.com.au/companies/news/1001830/the-rise-of-artificial-intelligence-in-healthcare-1001830.html"
+webUrl: "https://www.proactiveinvestors.com.au/companies/news/1001830/the-rise-of-artificial-intelligence-in-healthcare-1001830.html"
+type: article
+quality: 54
+heat: -1
+published: false
+
+provider:
+  name: Proactiveinvestors UK
+  domain: proactiveinvestors.com.au
+
+topics:
+  - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzEyXC8yMDIyLTEyLTIxLTE1LTU1LTIxLTlhMjMyY2Q5MDUzMzU2YmI5MWNhYTQ3NTA4YjE2ZDYwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Empathy in the Age of AI"
+    excerpt: "According to some scholars, projecting our humanity onto AI could have real consequences, from further obscuring the way these minds actually function to reinforcing a dubious notion of the human mind as a sole,"
+    publishedDateTime: 2022-12-19T13:00:00Z
+    webUrl: "https://www.wired.com/story/artificial-intelligence-animals-anthropomorphism/"
+    ampWebUrl: "https://www.wired.com/story/artificial-intelligence-animals-anthropomorphism/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-animals-anthropomorphism/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 91
+    images:
+      - url: "https://media.wired.com/photos/639ccdabfd7f2c34ab1d70e9/master/pass/anthropomorphism-empathy-ai.jpg"
+        width: 2400
+        height: 1350
+        isCached: true
+  - title: "2022 - the year in AI and Robotics"
+    excerpt: "However, ChatGPT’s impressive ability to write poetry to order was often superior to its grasp of physics and other subjects, suggesting that we may face years of false information being accepted as fact simply because an AI gave it in answer to a question."
+    publishedDateTime: 2022-12-20T10:21:00Z
+    webUrl: "https://diginomica.com/2022-year-ai-and-robotics"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 73
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2022-12/Screenshot%202022-12-16%20at%2011.33.54.png"
+        width: 1536
+        height: 726
+        isCached: true
+  - title: "Top 10 artificial intelligence stories of 2022"
+    excerpt: "IT strategies have become more data-centric. We look at how this has played out in 2022, with artificial intelligence (AI) deployments."
+    publishedDateTime: 2022-12-19T04:00:00Z
+    webUrl: "https://www.computerweekly.com/news/252528086/Top-10-artificial-intelligence-stories-of-2022"
+    ampWebUrl: "https://www.computerweekly.com/news/252528086/Top-10-artificial-intelligence-stories-of-2022?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252528086/Top-10-artificial-intelligence-stories-of-2022?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 61
+    images:
+      - url: "https://www.computerweekly.com/rms/onlineimages/ai_a264431831.jpg"
+        width: 1200
+        height: 400
+        isCached: true
+  - title: "Engineers help artificial intelligence to learn more safely in the real world"
+    excerpt: "Penn State researchers are looking for a safer and more efficient way to use machine learning in the real world. Using a simulated high-rise office building, they developed and tested a new reinforcement learning algorithm aimed at improving energy consumption and occupant comfort in a real-world setting."
+    publishedDateTime: 2022-12-19T18:35:00Z
+    webUrl: "https://techxplore.com/news/2022-12-artificial-intelligence-safely-real-world.html"
+    ampWebUrl: "https://techxplore.com/news/2022-12-artificial-intelligence-safely-real-world.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-artificial-intelligence-safely-real-world.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 56
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/ai-building.jpg"
+        width: 1176
+        height: 1920
+        isCached: true
+  - title: "Artificial intelligence and the rise of optical computing"
+    excerpt: "An optical computer could likewise do lots of calculations at the same time. Using photons reduces power consumption, too. Electrical resistance generates heat, which wastes energy. The passage of photons through transparent media is resistance-free."
+    publishedDateTime: 2022-12-20T16:00:00Z
+    webUrl: "https://www.economist.com/science-and-technology/2022/12/20/artificial-intelligence-and-the-rise-of-optical-computing"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 43
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20221224_STD001.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "HOzMCIgSR4CD8yQ0cDt91cMYgOCGQtop6wtXgEr5tHOlf7Pf9T+LVqjCanm6bdp6ZiNS32FFqFaq7g392Ub3Ez7ClopZx6idKCxaIecdybc0SSnH4Nl/UzysXIAl/QOCTdwy1Xr7w1O/e49YjaEmAzKeoJl7m/W3iPHQHXJvnx/0h9UOzgfC1hZ9+gFkEeusZn8zACA4BZtSBo5zNQ5kz/CGNLTYRhCZYn3T1KwSY6mUMa2zh5tRYgVDQdAFOPwMFJd2ZHei1vuCEjHyJwYUNiOOeHC7LMtZPmBr2//W5Md/zZkTRYYPQzmOtY+V69/jmj9qNv9FU2i2+s8dyCawGb89vWZnkVxFdfZHgH4mg+w=;uI8uDltN/CjXKKZ3L+kSKg=="
+---
+

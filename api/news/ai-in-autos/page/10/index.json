@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-10-24-why-baidu-dingdong-and-pinduoduo-stocks-crashed-on-monday.md",
+      "title": "Why Baidu, Dingdong, and Pinduoduo Stocks Crashed on Monday",
+      "excerpt": "While it's tempting to think that things can't get much worse for Pinduoduo stock (down 41% over the past year), Baidu (down 48%), and Dingdong (down 87%!), the truth is that there's still a lot ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/10/24/why-baidu-dingdong-and-pinduoduo-stocks-crashed/",
+      "originalUrl": "https://www.fool.com/investing/2022/10/24/why-baidu-dingdong-and-pinduoduo-stocks-crashed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/705951/chinese-flag-superimposed-on-a-stock-market-chart.jpg",
+          "width": 2059,
+          "height": 1456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-23-driverless-tractor-kills-pedestrian-in-southeast-kansas.md",
       "title": "Driverless tractor kills pedestrian in southeast Kansas",
       "excerpt": "CHEROKEE COUNTY, Kan. (KSNW) — A Cherokee, Kansas man has died after being hit by a driverless tractor in eastern Kansas on Saturday. The Kansas Highway Patrol Crash Log says a 190 Allis ...",
@@ -1326,40 +1378,6 @@
         "AI in Robotics",
         "Machine Learning",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-15-opinion-a-driverless-vehicle-update.md",
-      "title": "Opinion: A driverless vehicle update",
-      "excerpt": "Many things are changing in the world today. But if a story on the Bloomberg Businessweek website is correct, one transformative development is not living up to its promise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.yazooherald.net/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fbc3d094d",
-      "originalUrl": "https://www.yazooherald.net/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fbc3d094d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-14T17:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Yazoo Herald",
-        "domain": "yazooherald.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

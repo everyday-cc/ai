@@ -2,6 +2,135 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2022-11-08-miso-robotics-automatic-burger-flippers-plot-european-takeover.md",
+      "title": "Miso Robotics’ automatic burger flippers plot European takeover",
+      "excerpt": "tech startup’s products have been sent to work ... Flippy 2, the modular frying robot; Sippy, the automatic beverage dispenser; and CookRight, the AI-powered sensor system which I assume is the more taciturn of the bunch. To explain how they work would ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.proactiveinvestors.co.uk/companies/news/997572/miso-robotics-automatic-burger-flippers-plot-european-takeover-997572.html",
+      "originalUrl": "https://www.proactiveinvestors.co.uk/companies/news/997572/miso-robotics-automatic-burger-flippers-plot-european-takeover-997572.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzExXC9mbGlwcHkuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjYzMCwiZml0IjoiY292ZXIifX19",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-08T03:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Proactive Investors",
+        "domain": "proactiveinvestors.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-08-onemeta-ais-verbum-is-a-game-changing-app-that-can-translate-82-languages-simultaneously-onei.md",
+      "title": "OneMeta AI's Verbum Is A Game-Changing App That Can Translate 82 Languages Simultaneously ($ONEI)",
+      "excerpt": "OneMeta AI ONEI created an app that is changing the language translation services landscape. And by no small measures. It's demonstrating unrivaled ability and has unequivocally separated itself ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/ab29609438/onemeta-ais-verbum-is-a-game-changing-app-that-can-translate-82-languages-simultaneously-onei",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/ab29609438/onemeta-ais-verbum-is-a-game-changing-app-that-can-translate-82-languages-simultaneously-onei",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1667837662.png",
+          "width": 1222,
+          "height": 1091,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29609438",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29609438",
+      "publishedDateTime": "2022-11-08T03:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-08-robot-with-brain-near-cheltenham-sorting-plastic-waste.md",
+      "title": "Robot with 'brain' near Cheltenham sorting plastic waste",
+      "excerpt": "The Zen Robotics machine learns to remember plastic in a similar way to which humans learn to recognise items. The company hopes the Grundon can capture. The 'Fast Picker' arm is supplied by Helsinki-based supplier of robotic waste separation technology - Zen Robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/uk-england-gloucestershire-63502444.amp",
+      "originalUrl": "https://www.bbc.co.uk/news/uk-england-gloucestershire-63502444.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/15380/production/_127521968_2.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/uk-england-gloucestershire-63502444.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-gloucestershire-63502444.amp",
+      "publishedDateTime": "2022-11-08T01:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-08-what-advantages-does-taiwan-have-in-the-era-of-ai-and-smart-vehicles-knerons-ceo-points-out-three.md",
       "title": "What advantages does Taiwan have in the era of AI and smart vehicles? Kneron's CEO points out three",
       "excerpt": "With an increasing demand for customized AI chips, such components cannot be produced in traditional supply chain models. Both edge and environmental computing also require AI chips with high ...",
@@ -982,135 +1111,6 @@
       "provider": {
         "name": "WPXI",
         "domain": "wpxi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-lacework-2022-top-startups-for-the-enterprise.md",
-      "title": "Lacework: 2022 Top Startups for the Enterprise",
-      "excerpt": "machine learning, software-defined security Lacework: Cybersecurity Lacework is a cybersecurity company that relies on a patented form of machine learning built specifically within the cloud to protect an organization from the inside out. This approach ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/11/07/lacework-cnbc-top-startups-for-the-enterprise.html",
-      "originalUrl": "https://www.cnbc.com/2022/11/07/lacework-cnbc-top-startups-for-the-enterprise.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107144807-1667400664411-Jay_Parikh_1.jpg?v=1667836801",
-          "width": 8192,
-          "height": 5464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/11/07/lacework-cnbc-top-startups-for-the-enterprise.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/11/07/lacework-cnbc-top-startups-for-the-enterprise.html",
-      "publishedDateTime": "2022-11-07T08:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-627-million-in-federal-funding-will-help-pittsburgh-grow-its-autonomy-sector.md",
-      "title": "$62.7 million in federal funding will help Pittsburgh grow its autonomy sector",
-      "excerpt": "RIDC, an economic development nonprofit whose properties are home to numerous leaders in autonomous technology, artificial intelligence and robotics ... The joint testing facility, driverless car legislation, a recent reduction in Pennsylvania’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/austin/news/2022/11/07/funding-will-help-pittsburgh-grow-autonomy-sector.html",
-      "originalUrl": "https://www.bizjournals.com/austin/news/2022/11/07/funding-will-help-pittsburgh-grow-autonomy-sector.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-07T07:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-the-role-of-embedded-vision-in-powering-autonomous-robotics.md",
-      "title": "The role of embedded vision in powering autonomous robotics",
-      "excerpt": "Today’s robotics developers have made enormous strides thanks to developments in artificial intelligence (AI), edge-computing, and camera technology, creating totally autonomous mobile robots (AMRs) that can replicate human activities.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/the-role-of-embedded-vision-in-powering-autonomous-robotics/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/the-role-of-embedded-vision-in-powering-autonomous-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/11/Maharajan-Veerabahu.jpg",
-          "width": 390,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/the-role-of-embedded-vision-in-powering-autonomous-robotics/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-role-of-embedded-vision-in-powering-autonomous-robotics/",
-      "publishedDateTime": "2022-11-07T07:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 63
+  - title: "Global Computer Vision System Market Size and Market Scenario 2022 by Sales, Revenue, Countries, Development Potential and Forecast to 2028"
+    excerpt: "Dec (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global “Computer Vision System"
+    publishedDateTime: 2022-12-21T05:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-system-market-size-and-market-scenario-2022-by-sales-revenue-countries-development-potential-and-forecast-to-2028-2022-12-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Face Recognition Systems Market Growth and Global Share 2023 | Developing Regions, Emerging Trends and Industry Size Forecast to 2029"
     excerpt: "Dec (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Face Recognition Systems"
     publishedDateTime: 2022-12-19T06:30:00Z

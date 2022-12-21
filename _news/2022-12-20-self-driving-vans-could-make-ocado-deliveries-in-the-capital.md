@@ -7,7 +7,7 @@ originalUrl: "https://www.standard.co.uk/news/london/self-driving-vans-autonomou
 webUrl: "https://www.standard.co.uk/news/london/self-driving-vans-autonomous-cars-delivery-ocado-asda-wayve-b1048496.html"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,33 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Tesla ‘full self-driving’ triggered an eight-car crash, a driver tells police"
+    excerpt: "A driver told authorities that their Tesla's \"full-self-driving\" software braked unexpectedly and triggered an eight-car pileup in the San Francisco Bay Area last month that led to nine people being treated for minor injuries including one juvenile who was hospitalized,"
+    publishedDateTime: 2022-12-21T22:40:00Z
+    webUrl: "https://www.cnn.com/2022/12/21/business/tesla-fsd-8-car-crash/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/12/21/business/tesla-fsd-8-car-crash/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/12/21/business/tesla-fsd-8-car-crash/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 86
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220629161230-tesla-vehicle-autopilot-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Unedited footage of a Tesla Full Self-Driving beta test shows just how stressful the software can be to use"
+    excerpt: "YouTuber Marques Brownlee tested Tesla's Full Self-Driving (FSD) capability. Video shows the software made his 23-minute commute stressful."
+    publishedDateTime: 2022-12-21T14:27:00Z
+    webUrl: "https://www.businessinsider.com/tesla-full-self-driving-fsd-beta-test-drive-video-stressful-2022-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
 
 secured: "UDAChDaP5ntxNqaVVclh6pHnkeB7gkuqJfgEVXmBFEUqksxBq6gDadcrIijrWF4KMGOSuStztUC0Qk6DFmvxG5R80aY61yCWpMKQlhwNEJ0lzmwTvFoAUOeVUWQylLsvGf4IYYC2sUMGFBpULwc1T8g9/MoUveHQOAgr7+WFaWiUmUqMjChP8fsxHgv+nj8ozE64ePOuVvp9dXnaLEEMHJFb5fFENlftwNyzt9MhrMgijhmuMqgWjglfnFYL5hVq+ifgmuxjCkyxRMhATCz0qETpWWIoTHkLPVDqc5ixd23wHypAl2ItGZ3uNUAAWEyeckqICDqWZzxtW/cQTrMJ5yf6Kj5JNeUEXLWwCwZC91ZBcUVQ5wf/7rcHP9F9cSPhDIYN/eixj2sRa+ip5ZEa5ehfHvP8OBmCgt24QJfeTGippKpFWO7DmKy8/Z2UGw1pBcF3Sa/dZ2B5ghQeK5X53l0GlFsqV+FtydQA8LR2gzDCKdSrVygiaY9Iun11gtFivbHQJQm600dga7bztF0/qQ==;duwbqi2sO6k6lnDq0taQ+A=="
 ---

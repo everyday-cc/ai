@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-21T20:02:00Z
 originalUrl: "https://www.tmcnet.com/topics/articles/2022/12/21/454396-electrifai-outlines-5-benefits-machine-learning-business-growth.htm"
 webUrl: "https://www.tmcnet.com/topics/articles/2022/12/21/454396-electrifai-outlines-5-benefits-machine-learning-business-growth.htm"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: TMCnet

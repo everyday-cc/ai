@@ -36,16 +36,19 @@ related:
         height: 853
         isCached: true
   - title: "Facial recognition wielded in India to enforce COVID policy"
-    excerpt: "India's city of Hyderabad has become a hotbed of surveillance technology, with a reach that only expanded during the pandemic."
-    publishedDateTime: 2022-12-20T04:53:00Z
-    webUrl: "https://www.seattletimes.com/business/facial-recognition-wielded-in-india-to-enforce-covid-policy/"
-    ampWebUrl: "https://www.seattletimes.com/business/facial-recognition-wielded-in-india-to-enforce-covid-policy/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facial-recognition-wielded-in-india-to-enforce-covid-policy/?amp=1"
+    excerpt: "The technology triggers any available camera in the area, pops up a mugshot database of criminals and can pair images with facial recognition software to scan CCTV footage for known criminals in the vicinity."
+    publishedDateTime: 2022-12-20T03:53:00Z
+    webUrl: "https://www.chron.com/news/article/Facial-recognition-wielded-in-India-to-enforce-17665778.php"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/30/66/27/23291371/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "PrfA3zgHGyY8kmdWPKql22plCVGuxjWJ0yGeqjqQgP0mmz9FY3ypPEEjnJ0sSx0mmFPCeGLwjIJoyEmIiPTL/eyH3MuNAic/8MOPhF7fPv0FiVkF2sl5GUImxgFJxBc8VLQdjZYMNcN3W33kwfuAR4bn2C0ScTde7pQqBUqP+Gdk9ft8sR270NyW7xPyoGS+Xmr/QtPehPFj6Se0r9VV06bxXVj3EqPxvz9VLAf2D/cBjFVwgtntW7Z388Azw7c5xvb5wlpuRdJfH96riY+0/hrA7ltWWkwsMKxVPVF6aKjOM5+lMc0PaiVsvVfUGiy7B5Uk2qshsBbWjSObAQBg/XAHbiiFUpLUQd+qbqyJf0E=;YDPi4EoGt+GjCDz0WncQcw=="
 ---

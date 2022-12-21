@@ -2,6 +2,152 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2022-11-24-report-72-of-us-workers-want-to-delegate-mundane-tasks-to-ai.md",
+      "title": "Report: 72% of U.S. workers want to delegate mundane tasks to AI",
+      "excerpt": "U.S. employees say they'd like to delegate mundane tasks like invoice management, auditing and simple reporting to AI so they can focus on tasks that help them grow at work.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/72-of-u-s-workers-want-to-delegate-mundane-tasks-to-ai/",
+      "originalUrl": "https://venturebeat.com/ai/72-of-u-s-workers-want-to-delegate-mundane-tasks-to-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/data-observability-e1655328076213.jpg?fit=800%2C526&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/72-of-u-s-workers-want-to-delegate-mundane-tasks-to-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/72-of-u-s-workers-want-to-delegate-mundane-tasks-to-ai/amp/",
+      "publishedDateTime": "2022-11-23T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-24-mlnet-20-enhances-text-classification.md",
+      "title": "ML.NET 2.0 enhances text classification",
+      "excerpt": "Upgrade to Microsoft’s machine learning framework for .NET improves model building for text classification, introduces a sentence similarity API, and adds more AutoML capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3681088/mlnet-20-enhances-text-classification.html",
+      "originalUrl": "https://www.infoworld.com/article/3681088/mlnet-20-enhances-text-classification.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/28/10/shutterstock_561931702-100932824-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 741,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3681088/mlnet-20-enhances-text-classification.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3681088/mlnet-20-enhances-text-classification.amp.html",
+      "publishedDateTime": "2022-11-23T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-24-flavonols-linked-to-slower-cognitive-decline.md",
+      "title": "Flavonols Linked to Slower Cognitive Decline",
+      "excerpt": "Opens in a new tab or window Higher dietary intake of total flavonols and individual flavonol constituents was linked with slower cognitive and memory decline in older adults, a longitudinal study ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/neurology/dementia/101921",
+      "originalUrl": "https://www.medpagetoday.com/neurology/dementia/101921",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.medpagetoday.net/media/images/101xxx/101921.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-23T12:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-24-artificial-intelligence-robotic-dogs-market-global-industry-analysis-size-share-growth-trends-and-forecast-2022-2028.md",
       "title": "Artificial Intelligence Robotic Dogs Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2022 - 2028",
       "excerpt": "Artificial intelligence robotic dogs are being deployed in a number of different applications, including search",
@@ -1028,117 +1174,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-california-gave-waymo-the-thumbs-up-to-offer-driverless-rides-in-the-bay-area-and-los-angeles.md",
-      "title": "California gave Waymo the thumbs up to offer driverless rides in the Bay Area and Los Angeles",
-      "excerpt": "State officials have given Waymo LLC the green light to offer driverless rides to the public in autonomous vehicles it's testing. The California Public Utilities Commission announced Friday it has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/sanjose/news/2022/11/22/waymo-gets-states-ok-to-offer-driverless-rides.html",
-      "originalUrl": "https://www.bizjournals.com/sanjose/news/2022/11/22/waymo-gets-states-ok-to-offer-driverless-rides.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T20:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-facebook-says-it-has-created-a-human-level-board-game-ai.md",
-      "title": "Facebook Says It Has Created A 'Human-Level' Board Game AI",
-      "excerpt": "If you’ve never played Diplomacy, and so are maybe wondering what the big deal is, it’s a board game first released in the 1950s that is played mostly by people just sitting around a table (or breaking off into rooms) and negotiating stuff.",
-      "sourceUrl": null,
-      "webUrl": "https://kotaku.com/facebook-meta-ai-artificial-intelligence-board-game-win-1849815368",
-      "originalUrl": "https://kotaku.com/facebook-meta-ai-artificial-intelligence-board-game-win-1849815368",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://kotaku.com/facebook-meta-ai-artificial-intelligence-board-game-win-1849815368/amp",
-      "cdnAmpWebUrl": "https://kotaku-com.cdn.ampproject.org/c/s/kotaku.com/facebook-meta-ai-artificial-intelligence-board-game-win-1849815368/amp",
-      "publishedDateTime": "2022-11-22T19:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kotaku",
-        "domain": "kotaku.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-profet-ai-selected-in-aichi-landing-pad-program-of-accelerate-aichi-by-500.md",
-      "title": "Profet AI Selected in \"Aichi Landing Pad\" - Program of Accelerate Aichi by 500",
-      "excerpt": "Profet AI Technology Co., Ltd. (Profet AI) announced today that it has been selected as one of the 17 international startups to participate in",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/profet-ai-selected-aichi-landing-pad-program-accelerate-aichi-500",
-      "originalUrl": "https://www.asiaone.com/business/profet-ai-selected-aichi-landing-pad-program-accelerate-aichi-500",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Nov2022/02_en.jpg?h=d09b6c17&itok=dpKM1koK",
-          "width": 600,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-22T19:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

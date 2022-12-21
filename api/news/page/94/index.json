@@ -2,6 +2,156 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2022-09-30-alphasoc-announces-industry-first-cloud-native-network-traffic-analysis-product-to-identify-compromised-workloads-across-popular-cloud-platforms.md",
+      "title": "AlphaSOC Announces Industry-First Cloud-Native Network Traffic Analysis Product to Identify Compromised Workloads Across Popular Cloud Platforms",
+      "excerpt": "AlphaSOC, Inc., the Security Analytics Company, today announced its new AlphaSOC Analytics Engine (AE) solution, a differentiated cloud-native network traffic analysis (NTA) product that uniquely identifies compromised workloads across Amazon Web Services,",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/09/30/9684060.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/09/30/9684060.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
+          "width": 476,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-30T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-10-top-artificial-intelligence-ai-applications-in-healthcare.md",
+      "title": "10 top artificial intelligence (AI) applications in healthcare",
+      "excerpt": "As AI continues to be applied across the healthcare spectrum — from administration to patient interaction and medical research, diagnosis and treatment — here's how it's making an impact.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/",
+      "originalUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/07/Zebra-Medical-FDA-approval-AI-heart-disease.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/amp/",
+      "publishedDateTime": "2022-09-30T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Natural Language Processing",
+        "AI in Robotics",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-facial-recognition-market-2022-business-overview-new-trends-growth-analysis-and-forecast-to-2030.md",
+      "title": "Facial Recognition Market 2022 | Business Overview, New Trends, Growth Analysis, And Forecast To 2030",
+      "excerpt": "Key Companies Covered in the Facial Recognition Market Research are International Business Machines Corporation (IBM), Aware, Inc., 3M, NEC Corporation, Cognitec Systems GmbH, Daon Crossmatch, Nuance Communications Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-2022-business-overview-new-trends-growth-analysis-and-forecast-to-2030-2022-09-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-2022-business-overview-new-trends-growth-analysis-and-forecast-to-2030-2022-09-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-30T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-30-how-to-effectively-use-the-computing-power-of-gpu-lets-check-cloudia-exchange.md",
       "title": "How to Effectively Use the Computing Power of GPU? Let's Check Cloudia Exchange!",
       "excerpt": "When we look at IT market, we see that, high computing power is the need of the hour. Cloudia Exchange is a new project that connects people who have GPU resources with projects that need those resources.",
@@ -1023,146 +1173,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-fda-clears-next-gen-deep-learning-mri-software-from-ge-healthcare.md",
-      "title": "FDA clears next-gen deep learning MRI software from GE Healthcare",
-      "excerpt": "GE Healthcare (NYSE:GE) announced today that it received FDA 510(k) clearance for its AIR Recon DL for 3D and Propeller imaging sequences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.massdevice.com/fda-clears-ge-healthcare-deep-learning-mri-software/",
-      "originalUrl": "https://www.massdevice.com/fda-clears-ge-healthcare-deep-learning-mri-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.massdevice.com/wp-content/uploads/2022/09/GE-Healthcare-AIR-Recon-DL-MRI.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MassDevice",
-        "domain": "massdevice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-us-fintech-synapse-expands-in-brazil-looks-to-latam-india-ceo.md",
-      "title": "U.S. fintech Synapse expands in Brazil, looks to Latam, India- CEO",
-      "excerpt": "SAO PAULO, Sept 29 (Reuters) - U.S. fintech Synapse is close to reaching ... faced one question at the company's 'AI Day' event on Friday that momentarily stumped him. Technology Robinhood to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/us-fintech-synapse-expands-brazil-looks-latam-india-ceo-2022-09-29/",
-      "originalUrl": "https://www.reuters.com/technology/us-fintech-synapse-expands-brazil-looks-latam-india-ceo-2022-09-29/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=114",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services.md",
-      "title": "AWS and SK Telecom Collaborate to Co-Develop Computer Vision AI Services",
-      "excerpt": "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), and SK Telecom, the information and communications technology arm of SK Group, the second largest conglomerate in Korea, today announced at Mobile World Congress (MWC) Las Vegas that the two companies will co-develop a new set of computer vision services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services/article_93ce77b3-7cf5-5034-940b-a0ba99e44e50.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services/article_93ce77b3-7cf5-5034-940b-a0ba99e44e50.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

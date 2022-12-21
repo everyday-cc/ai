@@ -2,6 +2,146 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2022-10-11-automate-classification-of-it-service-requests-with-an-amazon-comprehend-custom-classifier.md",
+      "title": "Automate classification of IT service requests with an Amazon Comprehend custom classifier",
+      "excerpt": "Enterprises often deal with large volumes of IT service requests. Traditionally, the burden is put on the requester to choose the correct category for every issue. A manual error or misclassification of a ticket usually means a delay in resolving the IT service request. This can result in reduced productivity,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-classification-of-it-service-requests-with-an-amazon-comprehend-custom-classifier/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-classification-of-it-service-requests-with-an-amazon-comprehend-custom-classifier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T12:08:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-how-were-using-machine-learning-to-understand-proteins.md",
+      "title": "How we’re using machine learning to understand proteins",
+      "excerpt": "When most people think of proteins, their mind typically goes to protein-rich foods such as steak or tofu. But proteins are so much more. They’re essential to how living things operate and thrive, and studying them can help improve lives. For example, insulin treatments are life-changing for people with",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/health/machine-learning-to-understand-proteins/",
+      "originalUrl": "https://blog.google/technology/health/machine-learning-to-understand-proteins/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-lyft-exec-was-wrong-about-driverless-vehicles-but-he-still-believes-in-their-potential.md",
+      "title": "Lyft exec was wrong about driverless vehicles — but he still believes in their potential",
+      "excerpt": "\"I really think in the next two to three years that kind of actual no driver, driverless vehicle will be something you can order pretty easily on the Lyft platform,\" he told CNBC last week in Detroit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/10/11/lyft-president-still-thinks-driverless-cars-will-dominate-ride-share.html",
+      "originalUrl": "https://www.cnbc.com/2022/10/11/lyft-president-still-thinks-driverless-cars-will-dominate-ride-share.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106305984-1576793205346gettyimages-1133498390.jpeg?v=1665486001",
+          "width": 5255,
+          "height": 3402,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/10/11/lyft-president-still-thinks-driverless-cars-will-dominate-ride-share.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/10/11/lyft-president-still-thinks-driverless-cars-will-dominate-ride-share.html",
+      "publishedDateTime": "2022-10-11T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-12-medical-speech-recognition-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028.md",
       "title": "Medical Speech Recognition Market Industry Analysis by Sales, Revenue, Size, Share from 2022 to 2028",
       "excerpt": "This \"Medical Speech Recognition market\" study analysis the top company in the global market and splits the Medical Speech Recognition market by product type and Application/end industries. Global \"Medical Speech Recognition Market\" Industry Report 2022 to 2028 examine the Medical Speech Recognition Market's growth potential and threats in terms of business tactics,",
@@ -1034,136 +1174,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-autonomous-self-driving-cars-market-future-of-automobile-industry-to-forecast-2029.md",
-      "title": "Autonomous / Self-Driving Cars Market: Future of Automobile Industry To Forecast 2029",
-      "excerpt": "Self-driving cars use a combination of sensors, cameras, radar, and artificial intelligence (AI) to navigate between destinations without a human driver (also known as an autonomous car or ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/autonomous-self-driving-cars-market-future-of-automobile-industry-to-forecast-2029",
-      "originalUrl": "https://www.digitaljournal.com/pr/autonomous-self-driving-cars-market-future-of-automobile-industry-to-forecast-2029",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/10/Glassy_carbon_and_a_1cm3_graphite_cube_HP68-79-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T02:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-hsbc-and-silent-eight-expand-machine-learning-partnership.md",
-      "title": "HSBC and Silent Eight Expand Machine Learning Partnership",
-      "excerpt": "Silent Eight announced an extension to its existing partnership with HSBC to tackle financial crime. The new service will cover the deployment of Negative News Screening that leverages machine learning to identify individuals who pose a greater risk for money laundering,",
-      "sourceUrl": null,
-      "webUrl": "https://www.malaysiasun.com/news/272901056/hsbc-and-silent-eight-expand-machine-learning-partnership",
-      "originalUrl": "https://www.malaysiasun.com/news/272901056/hsbc-and-silent-eight-expand-machine-learning-partnership",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1915578/Silent_Eight___Black_for_Screen_Logo.jpg",
-          "width": 400,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Malaysia Sun",
-        "domain": "malaysiasun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-kami-vision-rolls-out-kami-home-smart-detect-to-distinguish-between-humans-vehicles-and-animals.md",
-      "title": "Kami Vision Rolls Out ‘Kami Home Smart Detect’ to Distinguish Between Humans, Vehicles and Animals",
-      "excerpt": "Kami Vision, the computer vision company that provides artificial intelligence (AI) solutions and cameras to enterprises, SMBs and consumers, announces the release of Smart Detect now available on nearly all Kami Home security products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/kami-vision-rolls-out-kami-home-smart-detect-to-distinguish-between-humans-vehicles-and-animals/article_275ad992-ebb3-5bb8-a67e-66783a0ee6c9.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/kami-vision-rolls-out-kami-home-smart-detect-to-distinguish-between-humans-vehicles-and-animals/article_275ad992-ebb3-5bb8-a67e-66783a0ee6c9.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/b/f3/bf3095ee-8942-58d3-b392-9f22be46304b/6345316f26746.image.jpg?crop=605%2C318%2C0%2C497&resize=605%2C318&order=crop%2Cresize",
-          "width": 605,
-          "height": 318,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

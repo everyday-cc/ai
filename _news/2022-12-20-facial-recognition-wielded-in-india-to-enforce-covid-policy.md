@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Facial recognition wielded in India to enforce COVID policy"
-excerpt: "India's city of Hyderabad has become a hotbed of surveillance technology, with a reach that only expanded during the pandemic."
-publishedDateTime: 2022-12-20T04:53:00Z
-originalUrl: "https://www.seattletimes.com/business/facial-recognition-wielded-in-india-to-enforce-covid-policy/"
-webUrl: "https://www.seattletimes.com/business/facial-recognition-wielded-in-india-to-enforce-covid-policy/"
-ampWebUrl: "https://www.seattletimes.com/business/facial-recognition-wielded-in-india-to-enforce-covid-policy/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facial-recognition-wielded-in-india-to-enforce-covid-policy/?amp=1"
+excerpt: "The technology triggers any available camera in the area, pops up a mugshot database of criminals and can pair images with facial recognition software to scan CCTV footage for known criminals in the vicinity."
+publishedDateTime: 2022-12-20T03:53:00Z
+originalUrl: "https://www.chron.com/news/article/Facial-recognition-wielded-in-India-to-enforce-17665778.php"
+webUrl: "https://www.chron.com/news/article/Facial-recognition-wielded-in-India-to-enforce-17665778.php"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://s.hdnux.com/photos/01/30/66/27/23291371/3/rawImage.jpg"
+    width: 2048
+    height: 1365
+    isCached: true
 
 related:
   - title: "Facial recognition wielded in India to enforce COVID policy"
@@ -47,6 +51,6 @@ related:
       domain: thediplomat.com
     quality: 16
 
-secured: "y7RSNgysgfX7B5x9O3jnfnw6z8ls8TGxZ3nXox4sA9aPYCOvh6HCDpuuVMNnq1afI8uocXmmbbw75E1guWDfZw/2FQ6W+3r4M+oNAMNiCnMYiZqUQdXOf5/X2bTKCPWh/40neEvPZDIqAXJ1LI+6xdKJFBDz/09gqC2yrSdQPsPW4bQVzb5XDbVkr7or5dY0PuXlF+fajRVb5QdRTxiWfDniEkF1r6F4T75jhXH8u2OyiYbp/g2BC5upRhWFTQpoIDwAwGEZfOlYS87042Pz0rrvPGQSCinPBhGNjfipT3R1vq952zuBsWcAdaDZacOxkQOBTYXJsy967ZxpA75wrzmPHzH3glTLL1ywg2tbqNdXpuXmiHaHlaA2gDpINfL3AvPVh5ZwNkKcvE1XvaoX7G/JWKwH215/DCabUGYLc4v/nvp8l7WKKTcX/HUhjZ2dorYIf0ykBaDwKXTH5MZ1QOQh+UHqdfedgsMiREbWOnZ6RX9agqvoP+fQGD4aec6Dsl3JraXBcsZw7FZGqgdmPw==;jbHoA5bjIWFCiSiL9ifFkg=="
+secured: "KqqQFBILJfrYuvGjZYIo1WdSjTDQIBf5USIAybD1uD9Nj2YKXvFMjkdrAAxO274cinIt7HOWpYvAwbhJRNo2gvWSDIxcouJcPL5leEeGxLcbZpFqh0JunhopgrmfE7IbqoAGO6+ycl/dUym63jkslRfXMi09TnD+heMPv28E+VZ9xxcGqSGnC2fg8v1qE24t0+AcTbi871UlXAxQJLMs5z+EceEwavmQ5F9IwDrTE8xbOuxIQGRH1cW1FkvFJQJ5oZSsljq8zup6+ITGm/ORUwp4gv1tc/7xyROS20AjkVu91MZc5UB1C2sNz3lkLcn5OR9pnx4V/YnyKAPOxokh9A7dnnIkzQ1OWkg8FKAKQmo=;RCXQ0UW8Y7Zny2SnBQOzUQ=="
 ---
 

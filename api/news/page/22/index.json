@@ -2,6 +2,155 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2022-12-02-ai-will-thrive-in-3-key-areas-in-2023-despite-economic-conditions.md",
+      "title": "AI will thrive in 3 key areas in 2023, despite economic conditions",
+      "excerpt": "In 2023, experts predict that AI innovation will continue, focusing on human-centric, data-driven and generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-will-thrive-in-3-areas-despite-economic-conditions-experts-say/",
+      "originalUrl": "https://venturebeat.com/ai/ai-will-thrive-in-3-areas-despite-economic-conditions-experts-say/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1176838131.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-will-thrive-in-3-areas-despite-economic-conditions-experts-say/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-will-thrive-in-3-areas-despite-economic-conditions-experts-say/amp/",
+      "publishedDateTime": "2022-12-01T11:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-deepmind-ai-uses-deception-to-beat-human-players-in-war-game-stratego.md",
+      "title": "DeepMind AI uses deception to beat human players in war game Stratego",
+      "excerpt": "An AI has learned to deceive human opponents in the war-themed board game Stratego, which involves imperfect information and a huge number of possible game scenarios",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2349484-deepmind-ai-uses-deception-to-beat-human-players-in-war-game-stratego/",
+      "originalUrl": "https://www.newscientist.com/article/2349484-deepmind-ai-uses-deception-to-beat-human-players-in-war-game-stratego/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2022/12/01153333/SEI_135910044.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T11:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-improve-governance-of-your-machine-learning-models-with-amazon-sagemaker.md",
+      "title": "Improve governance of your machine learning models with Amazon SageMaker",
+      "excerpt": "As companies are increasingly adopting machine learning (ML) for their mainstream enterprise applications, more of their business decisions are influenced by ML models. As a result of this, having simplified access control and enhanced transparency across all your ML models makes it easier to validate",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-governance-of-your-machine-learning-models-with-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-governance-of-your-machine-learning-models-with-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/30/improve-governance-ml-models-sagemaker.jpg",
+          "width": 1565,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T10:53:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-12-02-facial-strain-sensor-could-give-a-voice-to-the-voiceless.md",
       "title": "Facial strain sensor could give a voice to the voiceless",
       "excerpt": "While some assistance is available to individuals who lack the power of speech, verbally communicating with other people can still be challenging. A new face-worn strain sensor could help, as it's able to \"read\" the wearer's silently mouthed words.",
@@ -1032,144 +1181,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-weights-and-biases-joins-the-amazon-sagemaker-ready-program.md",
-      "title": "Weights and Biases Joins the Amazon SageMaker Ready Program",
-      "excerpt": "SAN FRANCISCO, Dec. 1, 2022 /PRNewswire/ -- Weights & Biases, the developer-first MLOps platform, announced today it has joined the Amazon SageMaker Ready Program. This designation helps customers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/weights-and-biases-joins-the-amazon-sagemaker-ready-program/article_46046197-7e6a-5a72-8fcd-74b0bf223cc4.html",
-      "originalUrl": "https://www.victoriaadvocate.com/weights-and-biases-joins-the-amazon-sagemaker-ready-program/article_46046197-7e6a-5a72-8fcd-74b0bf223cc4.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-ai-accelerator-chip-market-2022-to-eyewitness-massive-growth-by-2028.md",
-      "title": "AI Accelerator Chip Market 2022 to Eyewitness Massive Growth by 2028",
-      "excerpt": "Pre and Post Covid is Covered and Report Customization is Available. \"AI Accelerator Chip Market\" Insights 2022 | By",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-2022-to-eyewitness-massive-growth-by-2028-2022-12-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-2022-to-eyewitness-massive-growth-by-2028-2022-12-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T22:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-01-facial-recognition-door-lock-market-2023-competitions-by-players-growth-factor-swot-analysis-industry-trends-size-share-and-forecast-to.md",
-      "title": "Facial Recognition Door Lock Market 2023 Competitions by Players, Growth Factor, SWOT Analysis, Industry Trends, Size, Share and Forecast to 2029",
-      "excerpt": "The report can help to understand the market and strategize for business expansion accordingly. In the strategy analysis, it gives insights from marketing channel and market positioning to potential growth strategies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-2023-competitions-by-players-growth-factor-swot-analysis-industry-trends-size-share-and-forecast-to-2029-2022-12-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-2023-competitions-by-players-growth-factor-swot-analysis-industry-trends-size-share-and-forecast-to-2029-2022-12-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-30T22:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

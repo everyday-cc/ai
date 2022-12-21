@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-21T18:39:00Z
 originalUrl: "https://www.ibtimes.com/sundeep-yerapotina-personal-finance-fintech-more-3649874"
 webUrl: "https://www.ibtimes.com/sundeep-yerapotina-personal-finance-fintech-more-3649874"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: International Business Times

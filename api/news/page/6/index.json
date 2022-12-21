@@ -2,6 +2,113 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-12-14-lensa-ai-app-causes-a-stir-with-sexy-magic-avatar-images-no-one-wanted.md",
+      "title": "Lensa AI app causes a stir with sexy “Magic Avatar” images no one wanted",
+      "excerpt": "While Lensa AI has proven popular among people on social media who like to share their AI portraits, the press has widely focused on the app's reported tendency to sexualize depictions of women when Lensa's AI avatar feature launched.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/12/lensa-ai-app-causes-a-stir-with-sexy-magic-avatar-images-no-one-wanted/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/12/lensa-ai-app-causes-a-stir-with-sexy-magic-avatar-images-no-one-wanted/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/lensa_hero_2-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2022/12/lensa-ai-app-causes-a-stir-with-sexy-magic-avatar-images-no-one-wanted/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/12/lensa-ai-app-causes-a-stir-with-sexy-magic-avatar-images-no-one-wanted/amp/",
+      "publishedDateTime": "2022-12-13T15:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-4-mind-boggling-technology-advances-in-store-for-2023.md",
+      "title": "4 Mind-Boggling Technology Advances In Store For 2023",
+      "excerpt": "In 2023 the trend will continue as the pace of innovation and development of potentially disruptive emerging technologies exponentially increases every year",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/",
+      "originalUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63990ad004b32ca023bf8641/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/amp/",
+      "publishedDateTime": "2022-12-13T14:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "Computer Vision",
+        "Natural Language Processing",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-12-14-ai-and-analytics-platform-dataiku-raises-200m-at-a-reduced-valuation.md",
       "title": "AI and analytics platform Dataiku raises $200M at a reduced valuation",
       "excerpt": "AI and analytics startup Dataiku has raised $200 million at a reduced valuation, bringing its total raised to around $600 million.",
@@ -1113,101 +1220,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-deep-learning-chipset-market-2023-analysis-business-growth-global-demand-revenue-and-geographical-forecast-to-2029.md",
-      "title": "Deep Learning Chipset Market 2023 Analysis Business Growth, Global Demand, Revenue, and Geographical Forecast To 2029",
-      "excerpt": "In 2023,What is “Deep Learning Chipset Market” Insights? | [Report Pages No120] Market Growth Reports released a report",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-2023-analysis-business-growth-global-demand-revenue-and-geographical-forecast-to-2029-2022-12-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-2023-analysis-business-growth-global-demand-revenue-and-geographical-forecast-to-2029-2022-12-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T02:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-how-ai-can-be-used-ethically-to-monitor-worker-productivity.md",
-      "title": "How AI Can Be Used Ethically to Monitor Worker Productivity",
-      "excerpt": "Morgan Lewis’s Amy Schuh offers guidance for companies looking to employ AI to monitor their workforce. She shares important questions to ask beyond AI’s intended uses, and potential unintended consequences.",
-      "sourceUrl": null,
-      "webUrl": "https://news.bloomberglaw.com/business-and-practice/how-ai-can-be-used-ethically-to-monitor-worker-productivity",
-      "originalUrl": "https://news.bloomberglaw.com/business-and-practice/how-ai-can-be-used-ethically-to-monitor-worker-productivity",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://db0ip7zd23b50.cloudfront.net/dims4/default/e99279d/2147483647/crop/8140x3134%2B41%2B324/resize/957x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2Fc8%2Ff4%2Fcaf4259d40df8f2a0e40e370f321%2Fgettyimages-883730222.jpg",
-          "width": 957,
-          "height": 368,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news.bloomberglaw",
-        "domain": "bloomberglaw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

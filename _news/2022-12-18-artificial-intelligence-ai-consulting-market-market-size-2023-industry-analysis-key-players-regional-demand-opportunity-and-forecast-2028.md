@@ -87,6 +87,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 33
+  - title: "Artificial Intelligence in Healthcare Market 2022 Trending Technologies, Manufacturers, End-Users, Growth Elements and Forecast 2028"
+    excerpt: "The report on the Artificial Intelligence in Healthcare market is strategically prepared to provide the growth trends, drivers, opportunities, challenges, and restraints along with the latest technological developments in the market and innovation."
+    publishedDateTime: 2022-12-20T21:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2022-trending-technologies-manufacturers-end-users-growth-elements-and-forecast-2028-2022-12-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
 
 secured: "GI4bIMhwxjawIBrhbh4OPsYhX+VZHrR5gkcTs66hYNKj9TzAX/Bccyo9kAT1aJjXP7hxJF8f6yyluFKb58ZVr1r4LHj0Liekaw+9H+5WrET0BWMIlYj5ge9wyQ7aVh3eg20D5hqb4rRpZ7A8HWARWpJnzLPgPEXCMM2Ex7EVWkqV5IeOKgp7zEinMTCu+guhAshqA/o4mUPI0xpLAXPZGiQc/JuwHccRzOHQPKfltpJ/ljt0IzNBHKByXQ8b/OWqcd06fIkzhxrtbYBH3d8zGBXQ8x/Fwtfn40ceoqDdC1VZVjTQYxztzHreSE3Xydbv9ioOphXQ3b01TC21y3Voju9gLM4J+EZWxXSPk9pYndU=;TSxty8RWxWppmu45Fu9BRQ=="
 ---

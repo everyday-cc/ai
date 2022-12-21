@@ -31,6 +31,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 63
+  - title: "Global Computer Vision System Market Size and Market Scenario 2022 by Sales, Revenue, Countries, Development Potential and Forecast to 2028"
+    excerpt: "Dec (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global “Computer Vision System"
+    publishedDateTime: 2022-12-21T05:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-system-market-size-and-market-scenario-2022-by-sales-revenue-countries-development-potential-and-forecast-to-2028-2022-12-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Precision Medicine Market 2023 Recent Developments, Ongoing Trend & Regional Forecast to 2028"
     excerpt: "Dec (The Expresswire) -- \"\"Artificial Intelligence in Precision Medicine Market\"\" Insights 2023 | New Updated Report [ No of Pages 80 ] The"
     publishedDateTime: 2022-12-20T16:33:00Z

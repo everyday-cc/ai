@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-21T20:32:00Z
 originalUrl: "https://techcrunch.com/2022/12/21/kickstarter-shut-down-the-campaign-for-ai-porn-group-unstable-diffusion-amid-changing-guidelines/"
 webUrl: "https://techcrunch.com/2022/12/21/kickstarter-shut-down-the-campaign-for-ai-porn-group-unstable-diffusion-amid-changing-guidelines/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: TechCrunch

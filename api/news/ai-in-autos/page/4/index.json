@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-30-startup-uses-ai-to-deliver-custom-investment-portfolios-and-usher-in-wealth-30.md",
+      "title": "Startup Uses AI To Deliver Custom Investment Portfolios And Usher In \"wealth 3.0\"",
+      "excerpt": "The next generation of investors aren’t looking to go down the same beaten path; they understand the importance of personalization and real-time decision-making. When done manually, this can be very expensive and time-consuming,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2022/11/30/startup-uses-ai-to-deliver-custom-investment-portfolios-and-usher-in-wealth-30/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2022/11/30/startup-uses-ai-to-deliver-custom-investment-portfolios-and-usher-in-wealth-30/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63840c971af0e7b9960b4382/0x0.jpg?format=jpg&width=1200",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2022/11/30/startup-uses-ai-to-deliver-custom-investment-portfolios-and-usher-in-wealth-30/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/11/30/startup-uses-ai-to-deliver-custom-investment-portfolios-and-usher-in-wealth-30/amp/",
+      "publishedDateTime": "2022-11-30T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-how-zero-shot-ai-is-poised-to-revolutionize-the-chatbot-industry.md",
       "title": "How ‘Zero-Shot’ AI Is Poised To Revolutionize The Chatbot Industry",
       "excerpt": "\"AI will change the way that we work and run our businesses. Those who are best prepared, and who take advantage of new opportunities now, will reap the rewards.\"",
@@ -1330,58 +1382,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-26-tech-turmoil-complicates-canadas-policing-of-the-online-world.md",
-      "title": "Tech Turmoil Complicates Canada’s Policing of the Online World",
-      "excerpt": "The government has four bills before Parliament to reign in tech giants at a time when the industry is retrenching.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/11/26/world/canada/tech-turmoil-complicates-canadas-policing-of-the-online-world.html",
-      "originalUrl": "https://www.nytimes.com/2022/11/26/world/canada/tech-turmoil-complicates-canadas-policing-of-the-online-world.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/11/25/us/25CANADA-LETTER-GOOGLE/25CANADA-LETTER-GOOGLE-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/11/26/world/canada/tech-turmoil-complicates-canadas-policing-of-the-online-world.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/11/26/world/canada/tech-turmoil-complicates-canadas-policing-of-the-online-world.amp.html",
-      "publishedDateTime": "2022-11-26T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

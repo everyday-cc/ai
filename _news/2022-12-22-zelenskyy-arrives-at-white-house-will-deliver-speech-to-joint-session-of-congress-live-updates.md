@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-21T19:02:00Z
 originalUrl: "https://www.tennessean.com/story/news/politics/2022/12/21/zelenskyy-ukraine-white-house-congress-live-updates/10937709002/"
 webUrl: "https://www.tennessean.com/story/news/politics/2022/12/21/zelenskyy-ukraine-white-house-congress-live-updates/10937709002/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Tennessean
