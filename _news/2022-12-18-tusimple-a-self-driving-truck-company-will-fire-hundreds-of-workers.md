@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Self-driving truck company TuSimple to lay off 25% of workforce"
+    excerpt: "Autonomous trucking company TuSimple will lay off 25% of staff, or 350 workers, as part of a broader restructuring plan."
+    publishedDateTime: 2022-12-21T22:06:00Z
+    webUrl: "https://techcrunch.com/2022/12/21/self-driving-truck-company-tusimple-to-lay-off-25-of-workforce/"
+    ampWebUrl: "https://techcrunch.com/2022/12/21/self-driving-truck-company-tusimple-to-lay-off-25-of-workforce/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/21/self-driving-truck-company-tusimple-to-lay-off-25-of-workforce/amp/"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/07/TuSimple_Truck_6.jpg?resize=1200,633"
+        width: 1200
+        height: 633
+        isCached: true
   - title: "Self-driving truck startup TuSimple to cut half of workforce: report"
     excerpt: "TuSimple is planning a major headcount reduction which could affect 50% of its staff as the self-driving truck startup looks to cut costs"
     publishedDateTime: 2022-12-19T08:54:00Z

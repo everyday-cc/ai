@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Natural Language Processing Market Size to Reach USD 98.05 Billion in 2030 | Emergen Research"
-excerpt: "The natural language processing market size reached USD 12.43 Billion in 2021 and is expected to register a CAGR of 25.7% during the forecast period, according to latest"
-publishedDateTime: 2022-12-21T18:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/12/n30165721/natural-language-processing-market-size-to-reach-usd-98-05-billion-in-2030-emergen-research"
-webUrl: "https://www.benzinga.com/pressreleases/22/12/n30165721/natural-language-processing-market-size-to-reach-usd-98-05-billion-in-2030-emergen-research"
-ampWebUrl: "https://www.benzinga.com/amp/content/30165721"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30165721"
+excerpt: "The natural language processing market size reached USD 12.43 Billion in 2021 and is expected to register a CAGR of 25.7% during the forecast period, according to latest analysis by Emergen Research."
+publishedDateTime: 2022-12-21T20:53:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-natural-language-processing-market-size-reach-usd-9805-/2022/12/21/9734354.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-natural-language-processing-market-size-reach-usd-9805-/2022/12/21/9734354.htm"
 type: article
-quality: 48
-heat: 48
+quality: 28
+heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
@@ -43,7 +41,16 @@ related:
         width: 800
         height: 313
         isCached: true
+  - title: "Facial Recognition Market 2022 : Top Manufacturers, Key Trends, Progression Status and Business Trends to 2028"
+    excerpt: "By Types (3D facial recognition, 2D facial recognition), By Segmentation analysis, Regions and Forecast to 2028. The Global Facial Recognition market Report provides In-depth analysis on the market status of the Facial Recognition Top manufacturers with best facts and figures,"
+    publishedDateTime: 2022-12-20T05:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2022-top-manufacturers-key-trends-progression-status-and-business-trends-to-2028-2022-12-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
 
-secured: "bEmC2Ur28mtLLmsMEVT7noC9GFGOB163qRbhlsHaTsJ/7zo+OUEpHoN/1s7G6jje5MhszyXG0baDj+NEUv94qGjJNSlf6J3DN+rbhfUy0yzN8pWmhnPVM07IL8h0hLGh0Cr542z5KJpz0KS0+sWxmpkWICGbD3jyOB7U7L2iZRrj6+zfow+tkXo/oa5STXV5Vjz6eV+kD8DfsEL2sUxjP/xYyvb+Wumlkvr4aqgoGUKm1OkHwOWwoDbG6idALJKi/Tdpf2qGid2SQWNqkdiO+MQv2mKq/yXX9wLd2glbkGAVHb0rFzDcjo/XBVLHM/PgE7QXHoB+fFMxmUvZlPwbmblStuhgZopo7CGnjcK7GFQ=;wRyvmyuqLWlzqY4hsBG7/w=="
+secured: "AWNzQ8gev7b6KO7sbsRJiTcLI5VEo4Db5HVak5AeFkvxgVCl+ibrlTwSs/TZN7WVq5pZmjaqvhs7Tes02j+ZasEMSaoPFUtq5cYjgzLnA5Q3zssBBx/VUwH3mtO7N8hXR3/c4lpbrkiwuKZPK2pxELE8FtsfpyazxWECLg91wl48UQ/+PzsBPzqYTInqn8p11gCp5Ew5akjSZfOh8vuwn/lTNBOBXPEPiN/tSBMQOU64HEuldb33eDTz0bT4Rz14SmkKC1rp0mH7E3LrmQ7H3A3LmGk1eVjbX7MLkIcEocVMDJ7VQ0bVBEjS36IykhrK1Ph6QhCwmJkR3W2OTQ37+ZZ4t4XSnS9BnrIeuWs8rl4=;724XlUhV7690RnD/MB+yVg=="
 ---
 

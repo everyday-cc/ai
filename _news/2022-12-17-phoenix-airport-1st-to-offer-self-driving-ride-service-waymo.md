@@ -1,49 +1,26 @@
 ---
 category: news
 title: "Phoenix airport 1st to offer self-driving ride service Waymo"
-excerpt: "As Phoenix gets ready to host the Super Bowl, Mayor Kate Gallego has announced Sky Harbor International Airport will be the world's first airport to offer the self-driving ride-hailing service Waymo"
-publishedDateTime: 2022-12-16T17:14:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/phoenix-airport-1st-offer-driving-ride-service-waymo-95427526"
-webUrl: "https://abcnews.go.com/Business/wireStory/phoenix-airport-1st-offer-driving-ride-service-waymo-95427526"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/phoenix-airport-1st-offer-driving-ride-service-waymo-95427526"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/phoenix-airport-1st-offer-driving-ride-service-waymo-95427526"
+excerpt: "As Phoenix gets ready to host the Super Bowl, Mayor Kate Gallego announced Friday that Sky Harbor International Airport will be the first to offer the self-driving ride-hailing service Waymo. “The future is here,"
+publishedDateTime: 2022-12-16T23:50:00Z
+originalUrl: "https://www.stamfordadvocate.com/living/article/Phoenix-airport-1st-to-offer-self-driving-ride-17659023.php"
+webUrl: "https://www.stamfordadvocate.com/living/article/Phoenix-airport-1st-to-offer-self-driving-ride-17659023.php"
 type: article
-quality: 74
-heat: 84
-published: true
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/US/221216_vod_onlocation_hpMain_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://s.hdnux.com/photos/01/30/64/10/23282182/3/rawImage.jpg"
+    width: 2048
+    height: 1365
     isCached: true
 
-related:
-  - title: "Ticker: Phoenix airport offers self-driving ride service; Wall Street slumps"
-    excerpt: "As Phoenix gets ready to host the Super Bowl, Mayor Kate Gallego announced Friday that Sky Harbor International Airport will be the first to offer the self-driving ride-hailing service Waymo."
-    publishedDateTime: 2022-12-16T21:34:00Z
-    webUrl: "https://www.bostonherald.com/2022/12/16/ticker-phoenix-airport-offers-self-driving-ride-service-wall-street-slumps/"
-    ampWebUrl: "https://www.bostonherald.com/2022/12/16/ticker-phoenix-airport-offers-self-driving-ride-service-wall-street-slumps/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2022/12/16/ticker-phoenix-airport-offers-self-driving-ride-service-wall-street-slumps/amp/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 56
-    images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2022/12/AP22350701095460.jpg?w=1024&h=683"
-        width: 1024
-        height: 682
-        isCached: true
-
-secured: "Y2P3RAVyjyeuqNe4E7lDj8jzHIKvDEz0lvkDNKQ9BndRJeVmBYpzrJApwyu7EFisYa379bp489YfTlzejV8CdZ0+QzVFcvfbhUOAeMzI7WpDx+rlunXS387/mJeXS0KlVlXG2/7Y3Fy1jmlNRpTdIWezzSShDVvAO5vKOmYgZBayNcVeMq0BXzURhvrC1xC6QfHKz+8BsaYyBZBxbx1j1kotHUR31fs7OGgZCH8wQoW9RQn1VONmDe/IYt1QIG4HPO6HF8dzWjzJ39cSTmhRRf1FxBdTQIj70+Oeg60LSiGIUynwwNBf/SUMPbo5EuVS1k681B4/TYL5SQh5AFPlW8qW6z0ZFnr8v953Lqqazm8=;V/T1y300RVNlLo1FVZ0oYA=="
+secured: "/0kIvhiFD8x83gJIYKm7+StdUxaTdRM5etDFeGhRxiWzMGixMy6Z+8ZSzKfPZPoF60l4T05bC3TO/5BO5l2Oee6IpKM5azkW35vD9Id3esD7hLZXP6c8haANwODnOP5YIAP4OecRtf64x9gL8ImWKwaW61Rr5znyhPBbq7bRrcnS76SQm5g5TTo885vwoGKTWXHMSHeO8WI2bG35Dr+8exztrECCJaRqD3GWwwo1uSSGppI73WpB7r6V71YfIhNCGckOv50Dibel4oX/CjFcR91nnX3e/F5hNPq0YabjWI1rQ9f86pkuTKKvKI3Nfd2nhevIe8rkIrPjoGnOnWo+PX039XSA05/835qgGRaCgbU=;PsL67LxmqtXKMhKBZa84gA=="
 ---
 

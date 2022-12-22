@@ -2,6 +2,49 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2022-11-16-pickle-robots-unloading-robots-bring-in-26m.md",
+      "title": "Pickle Robot’s unloading robots bring in $26M",
+      "excerpt": "Pickle Robot Company announced that it closed a $26 million Series A funding round and it has live pilot implementations in the LA area.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/pickle-robots-unloading-robots-bring-in-26m/",
+      "originalUrl": "https://www.therobotreport.com/pickle-robots-unloading-robots-bring-in-26m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/11/feauted-web-pickle-robot.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-15T15:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-16-trinamixs-face-authentication-optimized-for-snapdragon-mobile-processors.md",
       "title": "Trinamix’s face authentication optimized for Snapdragon mobile processors",
       "excerpt": "Trinamix said that its face authentication technology has been optimized for new Qualcomm Snapdragon mobile processors.",
@@ -1127,58 +1170,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-the-hunt-for-the-dark-webs-biggest-kingpin-part-4-face-to-face.md",
-      "title": "The Hunt for the Dark Web’s Biggest Kingpin, Part 4: Face to Face",
-      "excerpt": "The team uses a secret technique to locate AlphaBay’s server. But just as the operation heats up, the agents have an unexpected run-in with their target.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/alphabay-series-part-4-face-to-face/",
-      "originalUrl": "https://www.wired.com/story/alphabay-series-part-4-face-to-face/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6369782f3505151fbc0b01cd/master/pass/WI110122_EX_Tracers_AlphaBay2_01.jpg",
-          "width": 2400,
-          "height": 1632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/alphabay-series-part-4-face-to-face/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/alphabay-series-part-4-face-to-face/amp",
-      "publishedDateTime": "2022-11-15T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

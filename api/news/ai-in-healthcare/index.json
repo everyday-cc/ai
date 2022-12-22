@@ -344,6 +344,40 @@
       ]
     },
     {
+      "path": "_news/2022-12-17-how-artificial-intelligence-could-be-used-to-fight-wildfires.md",
+      "title": "How artificial intelligence could be used to fight wildfires",
+      "excerpt": "A tech company is developing a new type of artificial intelligence to fight wildfires by using predictive analysis before the fires even start and AI logistics to help contain them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
+      "originalUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
+      "cdnAmpWebUrl": "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
+      "publishedDateTime": "2022-12-16T12:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "q13fox",
+        "domain": "q13fox.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-17-ai-healthcare-bottlenecks-and-how-to-get-through-them.md",
       "title": "AI healthcare bottlenecks (and how to get through them)",
       "excerpt": "What are the biggest challenges facing the increasing use of AI in healthcare? Find out — and learn some solutions.",
@@ -1352,59 +1386,6 @@
       "topics": [
         "AI",
         "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-how-ai-could-help-boost-help-desk-productivity-in-2023.md",
-      "title": "How AI Could Help Boost Help Desk Productivity In 2023",
-      "excerpt": "As businesses develop their IT budgets for 2023, with the specter of an economic slowdown looming, artificial intelligence (AI)-related projects will figure prominently in the discretionary spending plans of many organizations. In most cases, their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-help-boost-help-desk-productivity-in-2023/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-help-boost-help-desk-productivity-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6064dbb8610333ea7f4c8408/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-help-boost-help-desk-productivity-in-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-help-boost-help-desk-productivity-in-2023/amp/",
-      "publishedDateTime": "2022-12-02T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
         "AI in Autos"
       ]
     }

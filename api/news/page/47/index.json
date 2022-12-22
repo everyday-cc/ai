@@ -2,6 +2,50 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2022-11-11-parallex-bank-gets-recognition.md",
+      "title": "Parallex Bank gets recognition",
+      "excerpt": "In his acceptance speech, the Managing Director and Chief Executive Officer, Parallex Bank, Mr Olufemi Bakre, described the award as a further testament that the lender is on the right path.",
+      "sourceUrl": null,
+      "webUrl": "https://punchng.com/parallex-bank-gets-recognition-2/",
+      "originalUrl": "https://punchng.com/parallex-bank-gets-recognition-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.punchng.com/wp-content/uploads/2022/11/11041857/Parallex-bak.png",
+          "width": 500,
+          "height": 280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://punchng.com/parallex-bank-gets-recognition-2/?amp",
+      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/parallex-bank-gets-recognition-2/?amp",
+      "publishedDateTime": "2022-11-11T00:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Punch Newspapers",
+        "domain": "punchng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-11-11-global-artificial-intelligence-chipsets-market-2022-to-hit-usd-24450-million-at-a-cagr-of-157-till-2028.md",
       "title": "Global Artificial Intelligence Chipsets Market 2022 to hit USD 24450 Million at a CAGR of 15.7% till 2028",
       "excerpt": "The global market for Artificial Intelligence Chipsets estimated at USD 10200 million in the year 2022, is projected to reach a revised size of USD 24450 million by 2028, growing",
@@ -1151,40 +1195,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-dc-child-and-family-services-agency-to-use-artificial-intelligence-in-support-of-child-welfare-programs.md",
-      "title": "DC Child and Family Services Agency to Use Artificial Intelligence in Support of Child Welfare Programs",
-      "excerpt": "Lyssn.io platform will help expand the use of evidence-based practices for staff and community-based partners. The District of Columbia Child and Family Services Agency (CFSA) today announced that they have signed on to use Lyssn’s unique Artificial Intelligence platform to expand the use of Motivational Interviewing in the programs it delivers and funds.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-10-dc-child-and-family-services-agency-to-use-artificial-intelligence-in-support-of-child-welfare-programs",
-      "originalUrl": "https://markets.buffalonews.com/buffnews/article/bizwire-2022-11-10-dc-child-and-family-services-agency-to-use-artificial-intelligence-in-support-of-child-welfare-programs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Buffalo News",
-        "domain": "buffalonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

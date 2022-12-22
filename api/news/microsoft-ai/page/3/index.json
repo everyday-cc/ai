@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-11-30-study-cognitive-flexibility-enhances-mathematical-reasoning.md",
+      "title": "Study: Cognitive flexibility enhances mathematical reasoning",
+      "excerpt": "The study was published in the Journal of Numerical Cognition. Proportional reasoning is a cognitive process that involves ratios and proportions to solve a mathematical problem. This reasoning is ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-11-cognitive-flexibility-mathematical.html",
+      "originalUrl": "https://phys.org/news/2022-11-cognitive-flexibility-mathematical.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/cognitive-flexibility-1.jpg",
+          "width": 1264,
+          "height": 1264,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-11-cognitive-flexibility-mathematical.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-cognitive-flexibility-mathematical.amp",
+      "publishedDateTime": "2022-11-29T14:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-29-sparking-ml-powered-innovation-in-the-telecommunications-industry.md",
       "title": "Sparking ML-Powered Innovation In The Telecommunications Industry",
       "excerpt": "Interview with machine learning Chapter Leads at Spark New Zealand on how the telecommunications giant leverages AI at scale and improves model performance amid real-world challenges.",
@@ -1322,58 +1365,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-19-super-computing-and-storage-on-earth-and-in-space.md",
-      "title": "Super Computing And Storage On Earth And In Space",
-      "excerpt": "DDN announced enhancements to its DDN Insights monitoring interface. Panasas announced data management and analytics tools for high performance computing applications as part of its PanFS software suite.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2022/11/18/super-computing-and-storage-on-earth-and-in-space/",
-      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2022/11/18/super-computing-and-storage-on-earth-and-in-space/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6378183b6faf13fd0b1a9f12/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 770,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2022/11/18/super-computing-and-storage-on-earth-and-in-space/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2022/11/18/super-computing-and-storage-on-earth-and-in-space/amp/",
-      "publishedDateTime": "2022-11-18T14:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

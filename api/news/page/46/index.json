@@ -2,6 +2,58 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2022-11-13-tesla-starts-rolling-wide-full-self-driving-v11-update-exciting-and-scary.md",
+      "title": "Tesla starts rolling wide Full Self-Driving v11 update: exciting and scary",
+      "excerpt": "Tesla is starting the rollout of its Full Self-Driving (FSD) v11 update, which is supposed to be the wider release to everyone who bought it.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/",
+      "originalUrl": "https://electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/amp/",
+      "publishedDateTime": "2022-11-12T08:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-12-10-predictions-and-a-wishlist-from-aws-reinvent-2022.md",
       "title": "10 Predictions And A Wishlist From AWS Re:Invent 2022",
       "excerpt": "With the help of the OSS community and the partner ecosystem, Amazon may extend EKS-A to run on other public cloud environments such as Azure and Google Cloud ... databases, machine learning, and analytics to Kubernetes to enable customers to run the ...",
@@ -1082,50 +1134,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-parallex-bank-gets-recognition.md",
-      "title": "Parallex Bank gets recognition",
-      "excerpt": "In his acceptance speech, the Managing Director and Chief Executive Officer, Parallex Bank, Mr Olufemi Bakre, described the award as a further testament that the lender is on the right path.",
-      "sourceUrl": null,
-      "webUrl": "https://punchng.com/parallex-bank-gets-recognition-2/",
-      "originalUrl": "https://punchng.com/parallex-bank-gets-recognition-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.punchng.com/wp-content/uploads/2022/11/11041857/Parallex-bak.png",
-          "width": 500,
-          "height": 280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://punchng.com/parallex-bank-gets-recognition-2/?amp",
-      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/parallex-bank-gets-recognition-2/?amp",
-      "publishedDateTime": "2022-11-11T00:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Punch Newspapers",
-        "domain": "punchng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

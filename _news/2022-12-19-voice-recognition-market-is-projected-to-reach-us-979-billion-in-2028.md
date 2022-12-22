@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/30122680"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30122680"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,17 +27,24 @@ images:
     isCached: true
 
 related:
-  - title: "Natural Language Processing Market Size to Reach USD 98.05 Billion in 2030 | Emergen Research"
-    excerpt: "The natural language processing market size reached USD 12.43 Billion in 2021 and is expected to register a CAGR of 25.7% during the forecast period, according to latest"
-    publishedDateTime: 2022-12-21T18:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/12/n30165721/natural-language-processing-market-size-to-reach-usd-98-05-billion-in-2030-emergen-research"
-    ampWebUrl: "https://www.benzinga.com/amp/content/30165721"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30165721"
+  - title: "Facial Recognition Market 2022 : Top Manufacturers, Key Trends, Progression Status and Business Trends to 2028"
+    excerpt: "By Types (3D facial recognition, 2D facial recognition), By Segmentation analysis, Regions and Forecast to 2028. The Global Facial Recognition market Report provides In-depth analysis on the market status of the Facial Recognition Top manufacturers with best facts and figures,"
+    publishedDateTime: 2022-12-20T05:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2022-top-manufacturers-key-trends-progression-status-and-business-trends-to-2028-2022-12-20"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 48
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+  - title: "Natural Language Processing Market Size to Reach USD 98.05 Billion in 2030 | Emergen Research"
+    excerpt: "The natural language processing market size reached USD 12.43 Billion in 2021 and is expected to register a CAGR of 25.7% during the forecast period, according to latest analysis by Emergen Research."
+    publishedDateTime: 2022-12-21T20:53:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-natural-language-processing-market-size-reach-usd-9805-/2022/12/21/9734354.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 28
     images:
       - url: "https://mma.prnewswire.com/media/1579538/Emergen_Research_Logo.jpg"
         width: 400

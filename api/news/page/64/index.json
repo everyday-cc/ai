@@ -2,6 +2,59 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2022-10-26-deploy-a-machine-learning-inference-data-capture-solution-on-aws-lambda.md",
+      "title": "Deploy a machine learning inference data capture solution on AWS Lambda",
+      "excerpt": "Monitoring machine learning (ML) predictions can help improve the quality of deployed models. Capturing the data from inferences made in production can enable you to monitor your deployed models and detect deviations in model quality. Early and proactive detection of these deviations enables you to take",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-a-machine-learning-inference-data-capture-solution-on-aws-lambda/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-a-machine-learning-inference-data-capture-solution-on-aws-lambda/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/26/deploy-machine-learning-inference-lambda.jpg",
+          "width": 1342,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-26T08:54:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-10-26-the-ai-bill-of-rights-a-technology-perspective.md",
       "title": "The AI Bill Of Rights - A Technology Perspective",
       "excerpt": "The White House recently unveiled the AI Bill of Rights. What is this, why is it needed, and what does it do? In this post, I provide some perspective - from a technology and business standpoint, about this document and what it can or should mean for businesses.",
@@ -1154,49 +1207,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-aizen-global-to-introduce-ai-banking-service-at-singapore-fintech-festival.md",
-      "title": "AIZEN Global to introduce AI banking service at Singapore Fintech Festival",
-      "excerpt": "The company is also planning to demonstrate its AI service-type banking and share examples of banking service applications in various industries at this fintech event, which is the largest in Asia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/aizen-global-introduce-ai-banking-service-singapore-fintech-festival",
-      "originalUrl": "https://www.asiaone.com/business/aizen-global-introduce-ai-banking-service-singapore-fintech-festival",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2022/image_1049.jpg?h=04d92ac6&itok=93pX9W6n",
-          "width": 600,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T20:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

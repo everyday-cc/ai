@@ -2,6 +2,57 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2022-12-01-how-the-private-sector-can-help-close-the-public-sector-ai-knowledge-gap.md",
+      "title": "How the Private Sector Can Help Close The Public Sector AI Knowledge Gap",
+      "excerpt": "This blog focuses on how the private sector can help close the public sector knowledge gap in sustainable AI practices. 5 Strategies are positioned for consideration, underlying the security threats we face of not modernizing our government institutions more rapidly with sustaining AI capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/11/30/how-the-private-sector-can-help-close-the-public-sector-knowledge-gap-in-sustainable-ai/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/11/30/how-the-private-sector-can-help-close-the-public-sector-knowledge-gap-in-sustainable-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6387cc1b52738817bac8a8c0/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/11/30/how-the-private-sector-can-help-close-the-public-sector-knowledge-gap-in-sustainable-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/11/30/how-the-private-sector-can-help-close-the-public-sector-knowledge-gap-in-sustainable-ai/amp/",
+      "publishedDateTime": "2022-11-30T12:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-state-of-ai-december-2022.md",
       "title": "State Of AI, December 2022",
       "excerpt": "Sentient or not, MineDojo got Nvidia’s researchers the NeurIPS 2022 Outstanding Datasets and Benchmarks Paper Award, demonstrating their belief that large language models in the future will be “embodied agents that proactively take actions,",
@@ -1088,59 +1139,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-aws-adds-ai-features-to-textract-transcribe-and-kendra.md",
-      "title": "AWS adds AI features to Textract, Transcribe and Kendra",
-      "excerpt": "Amazon Web Services (AWS) on Tuesday added new artificial intelligence (AI) features to some of its services including Textract, Transcribe, Kendra, CodeWhisperer, and HealthLake. The new updates, according to the company,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3681662/aws-adds-ai-features-to-textract-transcribe-and-kendra.html",
-      "originalUrl": "https://www.infoworld.com/article/3681662/aws-adds-ai-features-to-textract-transcribe-and-kendra.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/idgnsImport/2015/08/id-2958856-reinvent_2015_03_keynote_1-100601984-large.jpg?auto=webp&quality=85,70",
-          "width": 700,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3681662/aws-adds-ai-features-to-textract-transcribe-and-kendra.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3681662/aws-adds-ai-features-to-textract-transcribe-and-kendra.amp.html",
-      "publishedDateTime": "2022-11-30T03:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

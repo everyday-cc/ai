@@ -2,6 +2,49 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2022-11-04-global-oncology-information-system-market-report-2022-increasing-adoption-of-ai-to-reshape-sector-and-drive-growth-researchandmarketscom.md",
+      "title": "Global Oncology Information System Market Report 2022: Increasing Adoption of AI to Reshape Sector and Drive Growth - ResearchAndMarkets.com",
+      "excerpt": "The increase in the prevalence of cancer is a key driving factor which expected to boost the global oncology information system market growth over the forecast period. The oncology information system offers various advantages,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fbherald.com/business/global-oncology-information-system-market-report-2022-increasing-adoption-of-ai-to-reshape-sector-and/article_eb063a00-41df-5542-9daa-f5212babb760.html",
+      "originalUrl": "https://www.fbherald.com/business/global-oncology-information-system-market-report-2022-increasing-adoption-of-ai-to-reshape-sector-and/article_eb063a00-41df-5542-9daa-f5212babb760.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/fbherald.com/content/tncms/custom/image/5e06dd4e-3beb-11ec-89e8-ebe74271bae8.jpg?resize=600%2C225",
+          "width": 600,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-04T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fort Bend Herald",
+        "domain": "fbherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-04-novel-deep-learning-method-may-help-predict-cognitive-function.md",
       "title": "Novel deep learning method may help predict cognitive function",
       "excerpt": "Northwestern investigators have developed a deep learning-based method that can predict cognitive function capacity based on brain shape and structure, detailed in a study published in Scientific Reports. The method, which uses graph convolutional neural ...",
@@ -1076,49 +1119,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-03-intelligent-document-processing-with-aws-ai-services-in-the-insurance-industry-part-1.md",
-      "title": "Intelligent document processing with AWS AI services in the insurance industry: Part 1",
-      "excerpt": "The goal of intelligent document processing (IDP) is to help your organization make faster and more accurate decisions by applying AI to process your paperwork. This two-part series highlights the AWS AI technologies that insurance companies can use to speed up their business processes. These AI technologies",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-intelligent-document-processing-with-aws-ai-services-in-the-insurance-industry/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-intelligent-document-processing-with-aws-ai-services-in-the-insurance-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T12:04:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

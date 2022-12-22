@@ -2,6 +2,58 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2022-11-23-apply-fine-grained-data-access-controls-with-aws-lake-formation-and-amazon-emr-from-amazon-sagemaker-studio.md",
+      "title": "Apply fine-grained data access controls with AWS Lake Formation and Amazon EMR from Amazon SageMaker Studio",
+      "excerpt": "Amazon SageMaker Studio is a fully integrated development environment (IDE) for machine learning (ML) that enables data scientists and developers to perform every step of the ML workflow, from preparing data to building, training, tuning, and deploying models. Studio comes with built-in integration with",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/apply-fine-grained-data-access-controls-with-aws-lake-formation-and-amazon-emr-from-amazon-sagemaker-studio/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/apply-fine-grained-data-access-controls-with-aws-lake-formation-and-amazon-emr-from-amazon-sagemaker-studio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/23/apply-fine-grained-data-access-controls.jpg",
+          "width": 1564,
+          "height": 778,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-23T15:01:08-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-24-report-72-of-us-workers-want-to-delegate-mundane-tasks-to-ai.md",
       "title": "Report: 72% of U.S. workers want to delegate mundane tasks to AI",
       "excerpt": "U.S. employees say they'd like to delegate mundane tasks like invoice management, auditing and simple reporting to AI so they can focus on tasks that help them grow at work.",
@@ -1122,49 +1174,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-baidu-posts-65-increase-in-number-of-driverless-taxi-services.md",
-      "title": "Baidu posts 65% increase in number of driverless taxi services",
-      "excerpt": "With no one at the wheel, self-driving taxis developed by tech giant Baidu rolls down the streets of major Chinese cities. When its sensors spot the corner of a delivery cart jutt",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/baidu-posts-65-increase-number-driverless-taxi-services-1499695",
-      "originalUrl": "https://www.albawaba.com/business/baidu-posts-65-increase-number-driverless-taxi-services-1499695",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2022-11/shutterstock_530358448.jpg?itok=77pXLNpo",
-          "width": 2362,
-          "height": 1417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/baidu-posts-65-increase-number-driverless-taxi-services-1499695",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/baidu-posts-65-increase-number-driverless-taxi-services-1499695",
-      "publishedDateTime": "2022-11-22T22:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

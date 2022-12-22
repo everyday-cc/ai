@@ -2,21 +2,21 @@
 category: news
 title: "How artificial intelligence could be used to fight wildfires"
 excerpt: "A tech company is developing a new type of artificial intelligence to fight wildfires by using predictive analysis before the fires even start and AI logistics to help contain them."
-publishedDateTime: 2022-12-16T19:58:00Z
-originalUrl: "https://www.fox5ny.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires"
-webUrl: "https://www.fox5ny.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires"
-ampWebUrl: "https://www.fox5ny.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp"
-cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp"
+publishedDateTime: 2022-12-16T20:07:00Z
+originalUrl: "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires"
+webUrl: "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires"
+ampWebUrl: "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp"
+cdnAmpWebUrl: "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp"
 type: article
 
 provider:
-  name: Fox 5 NY
-  domain: fox5ny.com
+  name: q13fox
+  domain: q13fox.com
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
 
-secured: "dqwJqI+aiWKVr8OIts7Hrtc+VnbgGzpk4b9qbmmsWy6glO4LWKjuSIg9lyS68iqHDLtczgzlLQVZ1traWVE8umA4L5S7JRxyroAzQ/pojvaHng83FIEglvatZ+hCiI/m3DhLUlbP2E+zEbvYG0kJJjxIHlmmlDoHvn9oS0+mzst1Fdi9Ik7/r3plfuk2U1C54crPc/ujQy/Znw1c+vD+gMH7l4wDXg7we1UvKi5bjUoBuAPxmk4x7xuLR2RuWHGRcs3kN4VghmG6rPsYUDc733tAwmb8iia+1zgI3X6GERyjIi2ziZb1Hzkb4PInd900eHWPBwe2e8znRTYNyfCLNzsZbRzQcjnthh63xY1QL8s=;tBFETY+yybvX6VU60h+o9w=="
+secured: "S5Onomn9O09NqfHMdjdt+7xoARyQaOTloKHeiM6/PlvWvpaN3YlWUjiXtsZwVC9hMrJhL517uMVaWGl4wesbv7sHM5C5YvTnKzXsSnbc4gHMhXv3w9ZSfekRT4xHGaoictY2d9uJ2BZqAP3SUsReszyO+zSNqfPGypyooAYNTmPnYYOYlMJc028WrI2vUKnmRVkl37RBaqOitLNqFbSO6W3FCbZ9m1lMGk/bC3016zDgrxhT6372Zl7BYkOOwRgdm/CBle1lO6aZw1gJavzoPohYbX77BXbLvfH3JIuv0ES4eyi3Q+t7hIbU82pClpc89X2FQYtA98v1QQOf7d09dXoyNzPX/Z65ocMGGbR1BgsQHDRzVtVWhxXEUQPpB05DKZLR48/Vxm1eXxDxre+QCFmXtd/sVdRO398Y6a48RkhYgUMKswdPjXw7MKma8eJMhqyVyNjMeQggn8qvAdOGV02RobZ+BR+jZxcbHbKI/210qjVeauQZeCf1nP9EIIzN+0mmT//oM8Ra0UUjTfyetg==;L5c2PnRZP41jHoSCHhYNAg=="
 ---
 

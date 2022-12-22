@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-09-12-sir-ian-mckellen-hints-memory-really-does-get-worse-with-age-mild-cognitive-decline.md",
+      "title": "Sir Ian McKellen hints 'memory really does get worse' with age – mild cognitive decline",
+      "excerpt": "Could McKellen be hinting towards mild cognitive impairment (MCI) or dementia? Both conditions are more likely to occur in older age. McKellen told Radio Times: \"If you were to get to the stage ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/life-style/health/1667246/sir-ian-mckellen-health-memory-mild-cognitive-impairment-symptoms-dementia",
+      "originalUrl": "https://www.express.co.uk/life-style/health/1667246/sir-ian-mckellen-health-memory-mild-cognitive-impairment-symptoms-dementia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/11/590x/Sir-McKellen-is-at-risk-of-mild-cognitive-impairment-1667246.jpg?r=1662748553803",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/life-style/health/1667246/sir-ian-mckellen-health-memory-mild-cognitive-impairment-symptoms-dementia/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/health/1667246/sir-ian-mckellen-health-memory-mild-cognitive-impairment-symptoms-dementia/amp",
+      "publishedDateTime": "2022-09-11T15:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-10-10-hot-new-aws-services-for-microsoft-vmware-kubernetes.md",
       "title": "10 Hot New AWS Services For Microsoft, VMware, Kubernetes",
       "excerpt": "From new Microsoft Windows support and VMware Cloud on AWS for NetApp to AWS Outposts and Amazon Managed Blockchain, here’s 10 hot AWS launches in August and September that channel partners ...",

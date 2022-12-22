@@ -2,6 +2,58 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2022-11-15-cat-pining-after-owner-when-shes-home-alone-breaks-hearts-made-me-cry.md",
+      "title": "Cat Pining After Owner When She's Home Alone Breaks Hearts: 'Made Me Cry'",
+      "excerpt": "A cat named Elie has melted hearts online after a video of her waiting by the door for her owner to come back home went viral on social media. The viral clip shared on TikTok on Sunday by the cat's owner (under the username Eliethehallwaycat) shows Elie following her owner to the door,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/cat-pining-after-owner-when-she-home-alone-breaks-hearts-made-me-cry-1759388",
+      "originalUrl": "https://www.newsweek.com/cat-pining-after-owner-when-she-home-alone-breaks-hearts-made-me-cry-1759388",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2148780/cat-waiting-owner-melts-hearts.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/cat-pining-after-owner-when-she-home-alone-breaks-hearts-made-me-cry-1759388?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cat-pining-after-owner-when-she-home-alone-breaks-hearts-made-me-cry-1759388?amp=1",
+      "publishedDateTime": "2022-11-14T08:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-congress-returns-after-the-2022-midterm-election-with-a-hectic-year-end-agenda.md",
       "title": "Congress returns after the 2022 midterm election with a hectic year-end agenda",
       "excerpt": "Lawmakers’ packed to-do list includes reaching a government funding agreement, passing an election overhaul bill and codifying federal recognition of same-sex marriage.",
@@ -1112,58 +1164,6 @@
         "IBM AI",
         "Microsoft AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-13-tesla-starts-rolling-wide-full-self-driving-v11-update-exciting-and-scary.md",
-      "title": "Tesla starts rolling wide Full Self-Driving v11 update: exciting and scary",
-      "excerpt": "Tesla is starting the rollout of its Full Self-Driving (FSD) v11 update, which is supposed to be the wider release to everyone who bought it.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/",
-      "originalUrl": "https://electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/11/12/tesla-rolling-wide-full-self-driving-v11-update-exciting-scary/amp/",
-      "publishedDateTime": "2022-11-12T08:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

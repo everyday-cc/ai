@@ -331,6 +331,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-17-phoenix-airport-1st-to-offer-self-driving-ride-service-waymo.md",
+      "title": "Phoenix airport 1st to offer self-driving ride service Waymo",
+      "excerpt": "As Phoenix gets ready to host the Super Bowl, Mayor Kate Gallego announced Friday that Sky Harbor International Airport will be the first to offer the self-driving ride-hailing service Waymo. “The future is here,",
+      "sourceUrl": null,
+      "webUrl": "https://www.stamfordadvocate.com/living/article/Phoenix-airport-1st-to-offer-self-driving-ride-17659023.php",
+      "originalUrl": "https://www.stamfordadvocate.com/living/article/Phoenix-airport-1st-to-offer-self-driving-ride-17659023.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/30/64/10/23282182/3/rawImage.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-16T15:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StamfordAdvocate",
+        "domain": "stamfordadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-17-riffusions-ai-generates-music-from-text-using-visual-sonograms.md",
       "title": "Riffusion’s AI generates music from text using visual sonograms",
       "excerpt": "On Thursday, a pair of tech hobbyists released Riffusion, an AI model that generates music from text prompts by creating a visual representation of sound and converting it to audio for playback. It uses a fine-tuned version of the Stable Diffusion 1.",
@@ -578,8 +621,8 @@
       "title": "How artificial intelligence could be used to fight wildfires",
       "excerpt": "A tech company is developing a new type of artificial intelligence to fight wildfires by using predictive analysis before the fires even start and AI logistics to help contain them.",
       "sourceUrl": null,
-      "webUrl": "https://www.fox5ny.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
-      "originalUrl": "https://www.fox5ny.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
+      "webUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
+      "originalUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -587,13 +630,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.fox5ny.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
-      "cdnAmpWebUrl": "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
-      "publishedDateTime": "2022-12-16T11:58:00-08:00",
+      "ampWebUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
+      "cdnAmpWebUrl": "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
+      "publishedDateTime": "2022-12-16T12:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox 5 NY",
-        "domain": "fox5ny.com",
+        "name": "q13fox",
+        "domain": "q13fox.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -603,7 +646,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -800,49 +843,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-17-phoenix-airport-1st-to-offer-self-driving-ride-service-waymo.md",
-      "title": "Phoenix airport 1st to offer self-driving ride service Waymo",
-      "excerpt": "As Phoenix gets ready to host the Super Bowl, Mayor Kate Gallego has announced Sky Harbor International Airport will be the world's first airport to offer the self-driving ride-hailing service Waymo",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/phoenix-airport-1st-offer-driving-ride-service-waymo-95427526",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/phoenix-airport-1st-offer-driving-ride-service-waymo-95427526",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/221216_vod_onlocation_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/phoenix-airport-1st-offer-driving-ride-service-waymo-95427526",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/phoenix-airport-1st-offer-driving-ride-service-waymo-95427526",
-      "publishedDateTime": "2022-12-16T09:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

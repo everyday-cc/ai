@@ -2,6 +2,57 @@
   "page": 123,
   "value": [
     {
+      "path": "_news/2022-09-08-hebbia-raises-30m-to-launch-an-ai-powered-document-search-tool.md",
+      "title": "Hebbia raises $30M to launch an AI-powered document search tool",
+      "excerpt": "Hebbia, a startup developing AI-powered search tools, has raised $30 million in a venture funding round as it launches a commercial offering.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/07/hebbia-raises-30m-to-launch-an-ai-powered-document-search-tool/",
+      "originalUrl": "https://techcrunch.com/2022/09/07/hebbia-raises-30m-to-launch-an-ai-powered-document-search-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-618355044.jpg?w=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/09/07/hebbia-raises-30m-to-launch-an-ai-powered-document-search-tool/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/07/hebbia-raises-30m-to-launch-an-ai-powered-document-search-tool/amp/",
+      "publishedDateTime": "2022-09-07T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-07-transfer-learning-for-tensorflow-image-classification-models-in-amazon-sagemaker.md",
       "title": "Transfer learning for TensorFlow image classification models in Amazon SageMaker",
       "excerpt": "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised",

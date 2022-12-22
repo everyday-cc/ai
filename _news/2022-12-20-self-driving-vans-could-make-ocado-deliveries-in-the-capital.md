@@ -35,6 +35,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Tesla driver in multi-car crash told police self-driving software malfunctioned"
+    excerpt: "The driver of a 2021 Tesla Model S involved in an eight-vehicle crash last month on San Francisco's Bay Bridge told police he was in Full-Self Driving (FSD) mode which had malfunctioned, according to a police report made public Wednesday."
+    publishedDateTime: 2022-12-21T23:45:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/tesla-driver-multi-car-crash-told-police-self-driving-software-malfunctioned-2022-12-22/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 65
+    images:
+      - url: "https://www.reuters.com/resizer/1kgipieDg6sut8wSZk9syGF_-oE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Y3OSX6DIBVMORJAHNK4VN5UGPU.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Unedited footage of a Tesla Full Self-Driving beta test shows just how stressful the software can be to use"
     excerpt: "YouTuber Marques Brownlee tested Tesla's Full Self-Driving (FSD) capability. Video shows the software made his 23-minute commute stressful."
     publishedDateTime: 2022-12-21T14:27:00Z

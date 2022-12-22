@@ -2,49 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2022-10-10-dubais-rta-to-showcase-driverless-taxis-for-the-first-time-during-gitex.md",
-      "title": "Dubai's RTA to showcase driverless taxis for the first time during Gitex",
-      "excerpt": "Dubai's Roads and Transport Authority (RTA) has revealed an extensive collection of smart initiatives, applications, and stations it will showcase at the 4..",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/transport/self-driving-transport-new-gen-taxis-dubai-rta-to-showcase-new-initiatives-at-gitex-2022",
-      "originalUrl": "https://www.khaleejtimes.com/transport/self-driving-transport-new-gen-taxis-dubai-rta-to-showcase-new-initiatives-at-gitex-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.khaleejtimes.com?uuid=7cc4b377-db5c-5fac-9612-25ede4150eb9&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.95339&width=1200&height=675&x=1.0E-5&y=0.02331",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/transport/self-driving-transport-new-gen-taxis-dubai-rta-to-showcase-new-initiatives-at-gitex-2022?amp=1",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/transport/self-driving-transport-new-gen-taxis-dubai-rta-to-showcase-new-initiatives-at-gitex-2022?amp=1",
-      "publishedDateTime": "2022-10-09T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-09-loblaw-goes-driverless-credit-card-surcharges-and-why-adulting-is-unaffordable-must-read-business-and-investing-stories.md",
       "title": "Loblaw goes driverless, credit card surcharges and why adulting is unaffordable: Must-read business and investing stories",
       "excerpt": "Canada’s largest grocer announced this week the launch of driverless delivery trucks on the roads across Toronto and surrounding suburbs, delivering products to its stores. In partnership with ...",
@@ -1414,6 +1371,59 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-3-top-artificial-intelligence-stocks-to-buy-in-october.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in October",
+      "excerpt": "Learn More There's a lot of growth on the horizon. The global artificial intelligence (AI) market is poised to grow into a $1.4 trillion opportunity by 2029, up from around $387 billion now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/10/04/3-artificial-intelligence-stocks-buy-in-october/",
+      "originalUrl": "https://www.fool.com/investing/2022/10/04/3-artificial-intelligence-stocks-buy-in-october/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/702923/gettyimages-1284372450.jpg",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

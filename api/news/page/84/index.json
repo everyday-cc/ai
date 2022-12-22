@@ -2,6 +2,49 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2022-10-10-wordly-adds-on-demand-transcript-translation-and-developer-apis-to-ai-powered-translation-platform.md",
+      "title": "Wordly Adds On-Demand Transcript Translation and Developer APIs To AI-Powered Translation Platform",
+      "excerpt": "Wordly Adds On-Demand Transcript Translation and Developer APIs To AI-Powered Translation Platform Oct (PRNewswire via COMTEX) -- PR Newswire",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/wordly-adds-on-demand-transcript-translation-and-developer-apis-to-ai-powered-translation-platform-2022-10-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/wordly-adds-on-demand-transcript-translation-and-developer-apis-to-ai-powered-translation-platform-2022-10-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-10T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-10-the-four-pillars-to-ai-innovation-how-businesses-can-jumpstart-the-ai-journey.md",
       "title": "The Four Pillars To AI Innovation: How Businesses Can Jumpstart The AI Journey",
       "excerpt": "AI solution providers can work with enterprises on these obstacles by keeping these four pillars in mind: creating a center of excellence and a collaborative AI team, prioritizing data modernization,",
@@ -1123,40 +1166,6 @@
       "provider": {
         "name": "The Globe and Mail",
         "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-09-stuck-on-the-streets-of-san-francisco-in-a-driverless-car.md",
-      "title": "Stuck on the streets of San Francisco in a driverless car",
-      "excerpt": "“Who’s driving?” he yelled. “No one,” I yelled back. I was riding in a driverless car operated by Cruise, a company backed by General Motors that is now offering low-cost rides to a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/business/stuck-on-the-streets-of-san-francisco-in-a-driverless-car/",
-      "originalUrl": "https://www.seattletimes.com/business/stuck-on-the-streets-of-san-francisco-in-a-driverless-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/business/stuck-on-the-streets-of-san-francisco-in-a-driverless-car/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/stuck-on-the-streets-of-san-francisco-in-a-driverless-car/?amp=1",
-      "publishedDateTime": "2022-10-09T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
         "images": null,
         "publishers": null,
         "authors": null

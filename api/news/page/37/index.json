@@ -2,6 +2,40 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2022-11-19-deep-learning-ai-is-getting-better-but-can-regular-users-pay.md",
+      "title": "Deep Learning & AI is getting better but can regular users pay?",
+      "excerpt": "In this article, we will look at the development of AI and the field of deep learning. Deep learning originated in the era of vacuum tube computers. In 1958, Frank Rosenblatt of Cornell University ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2022/11/19/deep-learning-ai-is-getting-better-but-can-regular-users-pay/",
+      "originalUrl": "https://www.gizchina.com/2022/11/19/deep-learning-ai-is-getting-better-but-can-regular-users-pay/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-18T16:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-19-waymo-unveils-autonomous-all-electric-minivan-that-has-no-steering-wheel-or-pedals-but-sports-three-touchscreens-in-further-push-for-ride-hailing.md",
       "title": "Waymo unveils autonomous, all-electric MINIVAN that has no steering wheel or pedals - but sports three touchscreens - in further push for ride-hailing expansion",
       "excerpt": "Waymo currently offers some form of robotaxi ... of hundreds of thousands of clips which are processed using artificial intelligence to accurately identify people, signs and hazards.",
@@ -1139,58 +1173,6 @@
         "AI in Robotics",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-18-five-ways-android-13-has-supercharged-my-galaxy-s22-experience.md",
-      "title": "Five ways Android 13 has supercharged my Galaxy S22 experience",
-      "excerpt": "All you need to do is long press in the text area of an image, and the Optical Character Recognition (OCR ... When you draw a shape in an image — say, for highlighting a certain object by drawing around it — and hold on to the outline, it will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/mobile/samsung-one-ui-5-android-13-update-best-features-galaxy-s22/",
-      "originalUrl": "https://www.digitaltrends.com/mobile/samsung-one-ui-5-android-13-update-best-features-galaxy-s22/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/11/gesture-floating-window.jpg?p=1",
-          "width": 1800,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/mobile/samsung-one-ui-5-android-13-update-best-features-galaxy-s22/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/samsung-one-ui-5-android-13-update-best-features-galaxy-s22/?amp",
-      "publishedDateTime": "2022-11-18T04:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

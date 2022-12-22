@@ -2,6 +2,57 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2022-11-29-chinese-artist-ai-weiwei-says-covid-protests-will-not-shake-government.md",
+      "title": "Chinese artist Ai Weiwei says COVID protests will not shake government",
+      "excerpt": "From his Portuguese home, Ai Weiwei, the high-profile Chinese dissident whose art has often criticized Beijing's policies, said the recent wave of protests would not shake Xi Jinping's government because the police would simply crush them into silence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-china-ai-weiwei/chinese-artist-ai-weiwei-says-covid-protests-will-not-shake-government-idUSKBN2SI1SQ",
+      "originalUrl": "https://www.reuters.com/article/health-coronavirus-china-ai-weiwei/chinese-artist-ai-weiwei-says-covid-protests-will-not-shake-government-idUSKBN2SI1SQ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/4JzXQiiYgBFZoJU8ke76ndbpXlw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VWB3QZJOYNJW5LHEASOY2U5PVE.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-28T11:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-29-enzyme-drives-cognitive-decline-in-mice-provides-new-target-for-alzheimers.md",
       "title": "Enzyme drives cognitive decline in mice, provides new target for Alzheimer's",
       "excerpt": "In a new study, researchers at University of California San Diego School of Medicine found that the subtle increase in PKCα was sufficient to produce biochemical, cellular and cognitive ...",
@@ -1081,61 +1132,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-28-how-ai-ml-are-transforming-asset-management.md",
-      "title": "How AI & ML are transforming Asset Management",
-      "excerpt": "Asset management is the process of managing money by determining your financial objectives and then working to",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/how-ai-ml-are-transforming-asset-management-2022-11-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/how-ai-ml-are-transforming-asset-management-2022-11-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T00:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "AI in Finance",
-        "Computer Vision"
       ]
     }
   ],

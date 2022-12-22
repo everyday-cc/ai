@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-21T22:11:00Z
 originalUrl: "https://www.proactiveinvestors.com.au/companies/news/1001830/the-rise-of-artificial-intelligence-in-healthcare-1001830.html"
 webUrl: "https://www.proactiveinvestors.com.au/companies/news/1001830/the-rise-of-artificial-intelligence-in-healthcare-1001830.html"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Ethics
 
 images:
   - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzEyXC8yMDIyLTEyLTIxLTE1LTU1LTIxLTlhMjMyY2Q5MDUzMzU2YmI5MWNhYTQ3NTA4YjE2ZDYwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
@@ -101,7 +102,21 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Nvidia: Backbone Of The Artificial Intelligence Industry"
+    excerpt: "Nvidia, a leading provider of graphics cards, is facing headwinds due to lower gaming demand, but the industry tends to be cyclical. Read my view on NVDA."
+    publishedDateTime: 2022-12-21T23:30:00Z
+    webUrl: "https://seekingalpha.com/article/4565570-nvidia-backbone-artificial-intelligence-industry"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 37
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2022/12/19/55230498-16714629618030434.png"
+        width: 640
+        height: 560
+        isCached: true
 
-secured: "HOzMCIgSR4CD8yQ0cDt91cMYgOCGQtop6wtXgEr5tHOlf7Pf9T+LVqjCanm6bdp6ZiNS32FFqFaq7g392Ub3Ez7ClopZx6idKCxaIecdybc0SSnH4Nl/UzysXIAl/QOCTdwy1Xr7w1O/e49YjaEmAzKeoJl7m/W3iPHQHXJvnx/0h9UOzgfC1hZ9+gFkEeusZn8zACA4BZtSBo5zNQ5kz/CGNLTYRhCZYn3T1KwSY6mUMa2zh5tRYgVDQdAFOPwMFJd2ZHei1vuCEjHyJwYUNiOOeHC7LMtZPmBr2//W5Md/zZkTRYYPQzmOtY+V69/jmj9qNv9FU2i2+s8dyCawGb89vWZnkVxFdfZHgH4mg+w=;uI8uDltN/CjXKKZ3L+kSKg=="
+secured: "tpMOdWX0/AUkrjr1PGW4M7o4G0y4outRfu37EehN5FIGXGM/dQyg0NIyVcubMa3H7geJqVzl2AkHK5SIYICutOjPtCSzR036pCc9WYwSkJVLy54NOTbPn+erXca99nFIGlaSrMEh409JyWJZs8PriyJWKIhsAu4/l5fPKu/7Q6z5vmuNNA8PN7VW+SIXz/Lasw7YcTcDUGkPQLIFFot18ASq1Vg2mbHn5XevtfKRS4WuvcRkFI6RBo+g9U/2PzXqiF61TFzNOuFjnUuJloED+LTOJYv5eYUHFmgOfeS9oS6Gc3Pn3HzK083G/Z2orVEN81fWmhqgq4MDiUWlV6ER4txgGXOjk741q/xAfwxPLRSGI6hABKSdRfcS4K7X5CuklrJR3pkNgF2lVvLTd8+OyoV9Z+ksQHn5EiJz3UL/sVSHypHXIHeSVWgsndgAAwEwmjCpMQ85cPn69TAVTQOikpx420juBSSFBCilleQ7SbclbDV5WUCFdVEIE1ceyqFAAKD17/FfKLjvFHAZ36wybQ==;8y8svT8u1cu5mSCc6g2Bsg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/19/how-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/19/how-ai-creativity-affects-human-art-and-business/amp/"
 type: article
 quality: 87
-heat: 90
+heat: 87
 published: true
 
 provider:

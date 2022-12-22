@@ -2,6 +2,58 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2022-11-09-data-science-and-machine-learning-platforms-market-2023-share-size-by-global-major-companies-profile-competitive-landscape-and-key-regions.md",
+      "title": "Data Science and Machine-Learning Platforms Market 2023 Share, Size, by Global Major Companies Profile, Competitive Landscape and Key Regions 2028",
+      "excerpt": "Nov 09, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this Data Science and Machine-Learning",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-2023-share-size-by-global-major-companies-profile-competitive-landscape-and-key-regions-2028-2022-11-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/data-science-and-machine-learning-platforms-market-2023-share-size-by-global-major-companies-profile-competitive-landscape-and-key-regions-2028-2022-11-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-09T01:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-09-natural-language-processing-nlp-in-healthcare-sales-industry-2022-market-growth-size-share-demand-trends-and-forecasts-to-2028.md",
       "title": "Natural Language Processing (NLP) in Healthcare Sales Industry 2022 Market Growth, Size, Share, Demand, Trends and Forecasts to 2028",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Nov 09, 2022 (The Expresswire) -- Global Natural Language Processing (NLP) in Healthcare Sales Market (2022-2028) Research Report is a professional and in-depth study on the ...",
@@ -1115,57 +1167,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-08-insta360-dual-sensor-camera-uses-ai-to-make-video-editing-easy.md",
-      "title": "Insta360 dual-sensor camera uses AI to make video editing easy",
-      "excerpt": "In the continuing development of the One RS modular platform, Insta360 launched a variation with two big Leica lenses designed to provide enhanced 360 images.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/insta360-one-rs-1-inch-360-edition-review/",
-      "originalUrl": "https://www.zdnet.com/article/insta360-one-rs-1-inch-360-edition-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ce6ff9233ffc2fbed9d9d5d3af544024a96ce99b/2022/11/07/da7d89aa-1136-474b-a672-1cc531874ee9/one-rs-1-inch-360-3.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/insta360-one-rs-1-inch-360-edition-review/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/insta360-one-rs-1-inch-360-edition-review/",
-      "publishedDateTime": "2022-11-08T06:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

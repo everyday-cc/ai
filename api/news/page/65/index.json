@@ -2,6 +2,49 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2022-10-26-aizen-global-to-introduce-ai-banking-service-at-singapore-fintech-festival.md",
+      "title": "AIZEN Global to introduce AI banking service at Singapore Fintech Festival",
+      "excerpt": "The company is also planning to demonstrate its AI service-type banking and share examples of banking service applications in various industries at this fintech event, which is the largest in Asia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/aizen-global-introduce-ai-banking-service-singapore-fintech-festival",
+      "originalUrl": "https://www.asiaone.com/business/aizen-global-introduce-ai-banking-service-singapore-fintech-festival",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2022/image_1049.jpg?h=04d92ac6&itok=93pX9W6n",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T20:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-26-how-to-be-a-super-ager-and-improve-your-memory-and-cognitive-function-as-you-age.md",
       "title": "How to be a 'super-ager' and improve your memory and cognitive function as you age",
       "excerpt": "but I was so alarmed by my forgetfulness I Googled to see if there was any way to improve my memory and cognitive function. Like what you see? Sign up to our bodyandsoul.com.au newsletter for more ...",
@@ -1078,49 +1121,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-mlsec-could-be-the-answer-to-adversarial-ai-and-machine-learning-attacks.md",
-      "title": "MLSec could be the answer to adversarial AI and machine learning attacks",
-      "excerpt": "Hidden Layer announces the launch of a new MLSec platform designed to detect and respond to adversarial AI and machine learning attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/mlsec-ai-machine-learning/",
-      "originalUrl": "https://venturebeat.com/security/mlsec-ai-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

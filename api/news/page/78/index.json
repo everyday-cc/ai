@@ -2,6 +2,58 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2022-10-14-could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so.md",
+      "title": "Could self-driving trucks solve the supply chain crisis? Meet the AI trailblazer who thinks so",
+      "excerpt": "Prof Raquel Urtasun is the founder of a startup at the cutting edge of driverless technology – and the University of Toronto has been the perfect incubator for her research",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so?amp;amp",
+      "originalUrl": "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so?amp;amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/8d63b3b2dd2fc44b35b12a1d55829a36d4350e92/72_0_2199_1320/master/2199.jpg?width=620&quality=85&auto=format&fit=max&s=201c69131168171b858cbc90e46daa0f",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so",
+      "publishedDateTime": "2022-10-14T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-14-this-ai-based-platform-is-set-to-revolutionize-digital-health-forever.md",
       "title": "This AI-Based Platform Is Set To Revolutionize Digital Health Forever",
       "excerpt": "Jason Mitakidis' AI-based HealthWorks is at the forefront of developing insertable sensor technology that provides data on your body's vitals",
@@ -1136,49 +1188,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-a-remote-controlled-car-with-a-flag-on-a-pole-can-herd-cattle.md",
-      "title": "A remote-controlled car with a flag on a pole can herd cattle",
-      "excerpt": "A small remote-controlled vehicle proved effective at keeping cows away from overgrazed areas, and the animals showed few signs of fear or aggression",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2342409-a-remote-controlled-car-with-a-flag-on-a-pole-can-herd-cattle/",
-      "originalUrl": "https://www.newscientist.com/article/2342409-a-remote-controlled-car-with-a-flag-on-a-pole-can-herd-cattle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2022/10/13133633/SEI_129097097.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-13T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

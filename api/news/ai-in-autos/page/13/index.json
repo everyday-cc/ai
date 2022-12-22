@@ -2,59 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2022-10-04-3-top-artificial-intelligence-stocks-to-buy-in-october.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in October",
-      "excerpt": "Learn More There's a lot of growth on the horizon. The global artificial intelligence (AI) market is poised to grow into a $1.4 trillion opportunity by 2029, up from around $387 billion now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/10/04/3-artificial-intelligence-stocks-buy-in-october/",
-      "originalUrl": "https://www.fool.com/investing/2022/10/04/3-artificial-intelligence-stocks-buy-in-october/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/702923/gettyimages-1284372450.jpg",
-          "width": 3840,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2022-10-04-idtechex-asks-if-teslas-humanoid-robot-optimus-will-really-be-able-to-serve-people.md",
       "title": "IDTechEx Asks if Tesla's Humanoid Robot \"Optimus\" Will Really Be Able to Serve People",
       "excerpt": "Tesla CEO Elon Musk unveiled its \"over-hyped\" humanoid robot \"Optimus\" at the electric vehicle maker's \"AI Day\"",
@@ -1445,6 +1392,40 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-waymo-claims-its-driver-ai-is-safer-than-a-human-and-backs-it-up-with-test-results.md",
+      "title": "Waymo Claims Its Driver AI Is Safer Than a Human and Backs It Up With Test Results",
+      "excerpt": "There are some firms, which we’ll not name, who have taken a more relaxed approach to safety in the name of getting their product to market, and then there’s Waymo. Waymo is a part of Alphabet ...",
+      "sourceUrl": null,
+      "webUrl": "https://jalopnik.com/waymo-claims-its-driver-ai-is-safer-than-a-human-and-ba-1849598194",
+      "originalUrl": "https://jalopnik.com/waymo-claims-its-driver-ai-is-safer-than-a-human-and-ba-1849598194",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://jalopnik.com/waymo-claims-its-driver-ai-is-safer-than-a-human-and-ba-1849598194/amp",
+      "cdnAmpWebUrl": "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/waymo-claims-its-driver-ai-is-safer-than-a-human-and-ba-1849598194/amp",
+      "publishedDateTime": "2022-09-29T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jalopnik",
+        "domain": "jalopnik.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

@@ -81,7 +81,7 @@ related:
     provider:
       name: Proactiveinvestors UK
       domain: proactiveinvestors.com.au
-    quality: 54
+    quality: 56
     images:
       - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzEyXC8yMDIyLTEyLTIxLTE1LTU1LTIxLTlhMjMyY2Q5MDUzMzU2YmI5MWNhYTQ3NTA4YjE2ZDYwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
         width: 1200
@@ -100,6 +100,20 @@ related:
       - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20221224_STD001.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Nvidia: Backbone Of The Artificial Intelligence Industry"
+    excerpt: "Nvidia, a leading provider of graphics cards, is facing headwinds due to lower gaming demand, but the industry tends to be cyclical. Read my view on NVDA."
+    publishedDateTime: 2022-12-21T23:30:00Z
+    webUrl: "https://seekingalpha.com/article/4565570-nvidia-backbone-artificial-intelligence-industry"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 37
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2022/12/19/55230498-16714629618030434.png"
+        width: 640
+        height: 560
         isCached: true
 
 secured: "RG2OR6gjjUxntWTEvoIrEnnC1W/GLAiSMYfj87rI2GkC6mo+ZxhjmM0zdpZGvoDm9UQ4/hhwYWQSAxFcF8XPTqbRrv9qW/B1y0M53VXDlLf01I2iHuhg8Oe5f1B5xyj6Ow0VTIl74rdMlAZiemZH4G5VcYKYCh0tsEoD2DXnXD7We5JHrT3gSu1Lzdg1H0pJ6QjREG305B1zICzEXeR6GzPLvaFlbYLUJUje52I0Xone7BGouTE3yOyW0+dEZl6AHy11d/oTEL30VYYn/1ajztnmFsxjorfWxrcYFVK4EQxaOo+Q7qdOFnLp8T3XC7s/nG/DUpsJMJJC7lfXj2odtbwf6VlRCUqDRO3Oq2X8S+6ULrS56YUPw54rVc9jjSlXaQQdR2XzJT2MTJny0xHFOgnl2xAEwed2bmS7zav6ByzAJhqtsrNa5WGUE9+mB5fqXQxWE5yjNMJtLMYp6i8m+ETlXnb9n2q+aV/nZ3VnjljUWPSF0mY+9hayUIqhIQ/IAK5q9f2KhFkF53KYQb8+NQ==;5sKYHZixGusygBbNLoLeDw=="
