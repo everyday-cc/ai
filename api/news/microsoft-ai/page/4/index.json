@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-20-nvidia-microsoft-to-create-artificial-intelligence-supercomputer.md",
+      "title": "Nvidia, Microsoft to create artificial intelligence supercomputer",
+      "excerpt": "A \"multi-year collaboration\" between Nvidia and Microsoft is underway to create \"one of the most powerful AI supercomputers in the world,\" which will be",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/nvidia-microsoft-create-artificial-intelligence-supercomputer-1499211",
+      "originalUrl": "https://www.albawaba.com/business/nvidia-microsoft-create-artificial-intelligence-supercomputer-1499211",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2022-11/shutterstock_1819606709.jpg?itok=ER5-7BLd",
+          "width": 5120,
+          "height": 2880,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/nvidia-microsoft-create-artificial-intelligence-supercomputer-1499211",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/nvidia-microsoft-create-artificial-intelligence-supercomputer-1499211",
+      "publishedDateTime": "2022-11-19T21:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-20-robustel-5g-iot-edge-computing-gateway-certified-by-microsoft-azure-and-amazon-web-services-aws.md",
       "title": "Robustel 5G IoT EDGE Computing Gateway certified by Microsoft Azure and Amazon Web Services (AWS)",
       "excerpt": "Robustel's latest IoT device the EG5120 5G Edge Computing Gateway is now listed in the Microsoft Azure certified device catalogue and also Amazon Web Services (AWS) IoT Greengrass. The EG5120 helps to seamlessly extend Azure & AWS based IoT cloud services and intelligence to the network edge,",
@@ -1318,50 +1361,6 @@
         "IBM AI",
         "Microsoft AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-10-predictions-and-a-wishlist-from-aws-reinvent-2022.md",
-      "title": "10 Predictions And A Wishlist From AWS Re:Invent 2022",
-      "excerpt": "With the help of the OSS community and the partner ecosystem, Amazon may extend EKS-A to run on other public cloud environments such as Azure and Google Cloud ... databases, machine learning, and analytics to Kubernetes to enable customers to run the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2022/11/12/10-predictions-and-a-wishlist-from-aws-reinvent-2022/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2022/11/12/10-predictions-and-a-wishlist-from-aws-reinvent-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-12T06:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

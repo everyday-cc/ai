@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/this-report-on-cognitive
 webUrl: "https://www.marketwatch.com/press-release/this-report-on-cognitive-services-market-covers-main-driver-for-the-overall-market-from-2022-to-2028-2022-12-20"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Fintech Market Research Report: Key Trends and Opportunities by State and Territory for period 2022 to 2028."
-    excerpt: "Given that the \" AI in Fintech Market \" is one of the industries growing at the quickest rate, it is essential for market participants to do a thorough study of the industry beforehand. The industry analysis and market research report for the AI in Fintech sector look at the global market from 2022 to 2028."
-    publishedDateTime: 2022-12-17T16:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-research-report-key-trends-and-opportunities-by-state-and-territory-for-period-2022-to-2028-2022-12-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Self-Driving or Driverless Cars Market 2023 : Industry Analysis, Opportunities, Technology, Top Players and Growth Forecast 2029"
     excerpt: "Driving or Driverless Cars Market\" is sectioned top to bottom in this review. Worldwide and geological are two"
     publishedDateTime: 2022-12-19T13:20:00Z

@@ -2,6 +2,101 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2022-10-21-billiondollarbreaks-d-wave-quantum-inc-nyse-qbts-now-available-in-aws-marketplace.md",
+      "title": "BillionDollarBreaks - D-Wave Quantum Inc. (NYSE: QBTS) Now Available in AWS Marketplace",
+      "excerpt": "D-Wave Quantum Inc. (NYSE: QBTS), a leader in quantum computing systems, software and services, and the only quantum computing company building both annealing and gate-model quantum computers, has launched in AWS Marketplace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/billiondollarbreaks---d-wave-quantum-inc-nyse-qbts-now-available-in-aws-marketplace-2022-10-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/billiondollarbreaks---d-wave-quantum-inc-nyse-qbts-now-available-in-aws-marketplace-2022-10-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-21T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-21-new-flexible-steerable-device-placed-in-live-brains-by-minimally-invasive-robot.md",
+      "title": "New flexible, steerable device placed in live brains by minimally invasive robot",
+      "excerpt": "Imperial College London scientists have successfully placed a bioinspired steerable catheter into the brain of an animal for the first time.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-10-flexible-steerable-device-brains-minimally.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-10-flexible-steerable-device-brains-minimally.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/new-flexible-steerable.jpg",
+          "width": 1934,
+          "height": 1894,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-10-flexible-steerable-device-brains-minimally.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-flexible-steerable-device-brains-minimally.amp",
+      "publishedDateTime": "2022-10-21T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-21-how-retail-ai-is-helping-sellers-keep-up-this-holiday-shopping-season-and-beyond.md",
       "title": "How retail AI is helping sellers keep up this holiday shopping season (and beyond)",
       "excerpt": "From predictive analytics to demand forecasting, retail AI is helping move inventories, predict trends and adequately price products.",
@@ -1023,110 +1118,6 @@
         "name": "Design News",
         "domain": "designnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-cloud-ai-in-fintech-market-current-scenario-and-future-prospects.md",
-      "title": "Cloud AI in Fintech Market Current Scenario and Future Prospects",
-      "excerpt": "The Cloud AI in Fintech Market Report provides Insightful qualitative and quantitative information along with an",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-current-scenario-and-future-prospects-2022-10-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-current-scenario-and-future-prospects-2022-10-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T16:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-history-of-ai-in-33-breakthroughs-the-first-ai-driven-robot.md",
-      "title": "History Of AI In 33 Breakthroughs: The First AI-Driven Robot",
-      "excerpt": "This robot record was reached half a century after the development of SHAKEY, the world’s first “mobile intelligent robot.” According to the 2017 IEEE Milestone citation, it “could perceive its surroundings,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2022/10/20/history-of-ai-in-33-breakthroughs-the-first-ai-driven-robot/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2022/10/20/history-of-ai-in-33-breakthroughs-the-first-ai-driven-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6351bc0c740210a739dbbaa4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 864,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2022/10/20/history-of-ai-in-33-breakthroughs-the-first-ai-driven-robot/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/10/20/history-of-ai-in-33-breakthroughs-the-first-ai-driven-robot/amp/",
-      "publishedDateTime": "2022-10-20T14:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

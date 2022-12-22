@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"

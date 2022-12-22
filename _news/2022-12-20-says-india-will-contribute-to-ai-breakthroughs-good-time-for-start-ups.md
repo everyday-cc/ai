@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/info-tech/google-ceo-pitches-fo
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/google-ceo-pitches-for-balance-between-regulation-and-innovation/article66281963.ece/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/30/full/1633022084-0788.jpg"
         width: 620
         height: 412
+        isCached: true
+  - title: "India Conducts First 5G Driven, Artificial Intelligence-Guided Colonoscopy Trial"
+    excerpt: "Airtel and Apollo Hospitals conducted India’s first 5G driven, Artificial Intelligence-guided Colonoscopy trial. It resulted in detection of the colon cancer much faster and with greater accuracy."
+    publishedDateTime: 2022-12-22T08:06:00Z
+    webUrl: "https://www.thehealthsite.com/news/india-conducts-first-5g-driven-artificial-intelligence-guided-colonoscopy-trial-937051/"
+    ampWebUrl: "https://www.thehealthsite.com/news/india-conducts-first-5g-driven-artificial-intelligence-guided-colonoscopy-trial-937051/amp/"
+    cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/india-conducts-first-5g-driven-artificial-intelligence-guided-colonoscopy-trial-937051/amp/"
+    type: article
+    provider:
+      name: TheHealthSite
+      domain: thehealthsite.com
+    quality: 54
+    images:
+      - url: "https://st1.thehealthsite.com/wp-content/uploads/2022/12/Untitled-46.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Google introduces AI-based solutions to ensure internet access for all Indians"
     excerpt: "During the 8th Google for India event held on December 19, Google showcased a series of new features and is looking to leverage its AI capabilities to help ensure democratized and secure internet access to all Indians,"

@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-11-04-how-to-submit-digital-life-certificate-jeevan-pramaan-using-face-recognition-service.md",
+      "title": "How to submit digital life certificate (Jeevan Pramaan) using Face Recognition Service",
+      "excerpt": "With the introduction of a Face-Recognition system based on the Aadhar database, the government has now made it possible for anyone with an Android smartphone to submit a DLC.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/wealth/save/how-to-submit-digital-life-certificate-jeevan-pramaan-using-face-recognition-service/articleshow/95292368.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/wealth/save/how-to-submit-digital-life-certificate-jeevan-pramaan-using-face-recognition-service/articleshow/95292368.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-485311,msid-95292371/old-hands.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/wealth/save/how-to-submit-digital-life-certificate-jeevan-pramaan-using-face-recognition-service/amp_articleshow/95292368.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/wealth/save/how-to-submit-digital-life-certificate-jeevan-pramaan-using-face-recognition-service/amp_articleshow/95292368.cms",
+      "publishedDateTime": "2022-11-03T22:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-04-abarth-uses-facial-recognition-tech-to-analyze-emotions-of-drivers-and-passengers.md",
       "title": "Abarth Uses Facial Recognition Tech To Analyze Emotions Of Drivers And Passengers",
       "excerpt": "Abarth has started trialing facial recognition technology to better understand the emotions that drivers and passengers experience in its cars. The car manufacturer partnered with Loughborough University for the project, sending participants out in an ...",
@@ -1352,50 +1395,6 @@
       "topics": [
         "AI",
         "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-texas-attorney-general-sues-google-again-this-time-over-facial-recognition-in-google-photos.md",
-      "title": "Texas Attorney General Sues Google Again, This Time Over Facial Recognition in Google Photos",
-      "excerpt": "To Google, it does not matter that the three-year-olds, the bystanders, and grandma never consented to Google capturing and recording their biometric data,”",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912",
-      "originalUrl": "https://gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 175,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912/amp",
-      "publishedDateTime": "2022-10-20T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
         "Computer Vision"
       ]
     }

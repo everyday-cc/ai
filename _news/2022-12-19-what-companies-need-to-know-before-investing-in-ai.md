@@ -28,7 +28,7 @@ related:
     provider:
       name: The Conversation
       domain: theconversation.com
-    quality: 45
+    quality: 47
   - title: "AI image generators: everything you need to know"
     excerpt: "AI image generators are the most radical new development we've seen in the visual arts for some time – perhaps since the advent of digital photography. The technology has advanced massively in the last year,"
     publishedDateTime: 2022-12-21T10:15:00Z

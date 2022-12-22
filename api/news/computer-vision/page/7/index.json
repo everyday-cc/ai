@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-10-11-kami-vision-rolls-out-kami-home-smart-detect-to-distinguish-between-humans-vehicles-and-animals.md",
+      "title": "Kami Vision Rolls Out ‘Kami Home Smart Detect’ to Distinguish Between Humans, Vehicles and Animals",
+      "excerpt": "Kami Vision, the computer vision company that provides artificial intelligence (AI) solutions and cameras to enterprises, SMBs and consumers, announces the release of Smart Detect now available on nearly all Kami Home security products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/kami-vision-rolls-out-kami-home-smart-detect-to-distinguish-between-humans-vehicles-and-animals/article_275ad992-ebb3-5bb8-a67e-66783a0ee6c9.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/kami-vision-rolls-out-kami-home-smart-detect-to-distinguish-between-humans-vehicles-and-animals/article_275ad992-ebb3-5bb8-a67e-66783a0ee6c9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/b/f3/bf3095ee-8942-58d3-b392-9f22be46304b/6345316f26746.image.jpg?crop=605%2C318%2C0%2C497&resize=605%2C318&order=crop%2Cresize",
+          "width": 605,
+          "height": 318,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-10-machine-learning-vs-deep-learning-vs-neural-networks-whats-the-difference.md",
       "title": "Machine learning vs deep learning vs neural networks: What’s the difference?",
       "excerpt": "The terms machine learning and deep learning can seem interchangeable to most people, but they aren’t. Both considered subdivisions within the world of artificial intelligence (AI), the two have many differences,",
@@ -1359,50 +1402,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services.md",
-      "title": "AWS and SK Telecom Collaborate to Co-Develop Computer Vision AI Services",
-      "excerpt": "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), and SK Telecom, the information and communications technology arm of SK Group, the second largest conglomerate in Korea, today announced at Mobile World Congress (MWC) Las Vegas that the two companies will co-develop a new set of computer vision services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services/article_93ce77b3-7cf5-5034-940b-a0ba99e44e50.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services/article_93ce77b3-7cf5-5034-940b-a0ba99e44e50.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-12-08-researchers-gain-a-better-understanding-of-how-the-most-commonly-used-adhd-medication-works.md",
+      "title": "Researchers gain a better understanding of how the most commonly used ADHD medication works",
+      "excerpt": "Now, a new study seeks to close this gap and understand how methylphenidate interacts with cognitive control networks and attentional behavior. The new study appears in Biological Psychiatry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/973890",
+      "originalUrl": "https://www.eurekalert.org/news-releases/973890",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-08-deutsche-commits-to-using-ai-tech-from-nvidia-throughout-the-bank.md",
       "title": "Deutsche commits to using AI tech from Nvidia throughout the bank",
       "excerpt": "Deutsche Bank has doubled down on its use of artificial intelligence. The Frankfurt-based bank announced on Wednesday a multi-year partnership with Santa Clara, California-based tech company Nvidia to accelerate and improve artificial intelligence and machine learning throughout the bank.",
@@ -1269,40 +1303,6 @@
       "provider": {
         "name": "The Boston Globe",
         "domain": "bostonglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-30-alzheimers-drug-lecanemab-slows-cognitive-decline-among-patients-in-early-stages-study-finds.md",
-      "title": "Alzheimer's drug lecanemab slows cognitive decline among patients in early stages, study finds",
-      "excerpt": "A study released Tuesday showed a closely-watched Alzheimer's drug slowed cognitive decline among people with early signs of the disease but also carries safety risks for some patients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/health/2022/11/29/drug-manufacturers-eisai-and-biogen-recruited-1-795-people-earlier-alzheimers-disease-and-amyloid-be/10751248002/",
-      "originalUrl": "https://www.usatoday.com/story/news/health/2022/11/29/drug-manufacturers-eisai-and-biogen-recruited-1-795-people-earlier-alzheimers-disease-and-amyloid-be/10751248002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T20:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-10-26-microsofts-end-to-end-arm-development-environment-is-here-at-last.md",
+      "title": "Microsoft’s end-to-end Arm development environment is here at last",
+      "excerpt": "It’s just in time, too, as the latest generation of Surface devices puts Microsoft’s Qualcomm-based SQ3 processor in the same hardware as Intel’s i7. What’s perhaps most interesting about Microsoft’s Arm focus is its link to building machine learning–driven applications into Windows.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.html",
+      "originalUrl": "https://www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/08/25/16/istock-1368001929-100931622-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.amp.html",
+      "publishedDateTime": "2022-10-26T03:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-26-introducing-vision-studio-a-ui-based-demo-interface-for-computer-vision.md",
       "title": "Introducing Vision Studio, a UI-based demo interface for Computer Vision",
       "excerpt": "Are you looking to improve the analysis and management of images and videos? The Computer Vision API provides access to advanced algorithms for processing media and returning information.",
@@ -1284,49 +1336,6 @@
       "provider": {
         "name": "CTV News",
         "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-the-cognitive-conditioning-of-the-electoral-mind-by-umar-yakubu.md",
-      "title": "The cognitive conditioning of the electoral mind, By Umar Yakubu",
-      "excerpt": "I sincerely hope and pray that as we move into the elections period with all the possibilities of change that it offers, people’s minds will open up properly to the stark realities around them ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.premiumtimesng.com/opinion/560783-the-cognitive-conditioning-of-the-electoral-mind-by-umar-yakubu.html",
-      "originalUrl": "https://www.premiumtimesng.com/opinion/560783-the-cognitive-conditioning-of-the-electoral-mind-by-umar-yakubu.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.premiumtimesng.com/wp-content/files/2021/05/Umar-Yakubu.jpg",
-          "width": 498,
-          "height": 421,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T23:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Premium Times",
-        "domain": "premiumtimesng.com",
         "images": null,
         "publishers": null,
         "authors": null

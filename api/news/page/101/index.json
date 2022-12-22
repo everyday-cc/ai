@@ -2,6 +2,102 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2022-09-26-a-new-common-sense-test-for-ai-could-lead-to-smarter-machines.md",
+      "title": "A new ‘common sense’ test for AI could lead to smarter machines",
+      "excerpt": "Teaching AI common sense will be the next breakthrough in the field. But how exactly can we measure something as intangible as common sense?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/common-sense-test-for-ai-smarter-machines",
+      "originalUrl": "https://thenextweb.com/news/common-sense-test-for-ai-smarter-machines",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F09%2FOL2-1.jpg&signature=6c729ac2330cc240f65fc262dad35684",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-26T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-26-industrial-uav-startup-aiseed-offers-aidrone-to-tackle-toughest-challenges.md",
+      "title": "Industrial UAV startup AiSeed offers AI+Drone to tackle toughest challenges",
+      "excerpt": "robotics, and AI backgrounds. Most of them have worked in the U.S. for many years after getting their master's degrees from American universities or were born or raised in the U.S. Why set up the startup in Taiwan? \"Taiwan has a very well-developed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20220925VL202.html",
+      "originalUrl": "https://www.digitimes.com/news/a20220925VL202.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20220925vl202_files/1_2b.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-26T00:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-26-it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto.md",
       "title": "It is time to shun C, C++ languages for new projects: Microsoft Azure CTO",
       "excerpt": "\"Rust\" is now being used within the Android Open Source Project (AOSP) at Meta, at Amazon Web Services (AWS) and Microsoft, reports ZDNet.",
@@ -1065,92 +1161,6 @@
         "AI",
         "AI in Robotics",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-24-sedai-joins-aws-isv-accelerate-program.md",
-      "title": "Sedai Joins AWS ISV Accelerate Program",
-      "excerpt": "SAN FRANCISCO–(BUSINESS WIRE)–#SRE–Sedai, the autonomous cloud management platform, has announced today that it has been accepted into the Amazon Web Services (AWS) Independent Software Vendor (ISV) Accelerate Program, a co-sell program for AWS ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/sedai-joins-aws-isv-accelerate-program/",
-      "originalUrl": "https://www.01net.it/sedai-joins-aws-isv-accelerate-program/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-23T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-24-2b3d-aims-to-reduce-veteran-suicide-in-the-metaverse-with-virtual-reality-mental-health-therapies.md",
-      "title": "2B3D Aims To Reduce Veteran Suicide In The Metaverse, With Virtual Reality Mental Health Therapies",
-      "excerpt": "Emerging therapies offer new and democratized, autonomous access for those with post-traumatic stress disorder.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/zengernews/2022/09/23/2b3d-aims-to-reduce-veteran-suicide-in-the-metaverse-with-virtual-reality-mental-health-therapies/",
-      "originalUrl": "https://www.forbes.com/sites/zengernews/2022/09/23/2b3d-aims-to-reduce-veteran-suicide-in-the-metaverse-with-virtual-reality-mental-health-therapies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/632de3a959a4d0977944b13e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/zengernews/2022/09/23/2b3d-aims-to-reduce-veteran-suicide-in-the-metaverse-with-virtual-reality-mental-health-therapies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zengernews/2022/09/23/2b3d-aims-to-reduce-veteran-suicide-in-the-metaverse-with-virtual-reality-mental-health-therapies/amp/",
-      "publishedDateTime": "2022-09-23T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

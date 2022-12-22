@@ -2,6 +2,101 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2022-11-14-computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry.md",
+      "title": "Computer vision and beyond: The future of AI in India’s insurance industry",
+      "excerpt": "Sandeep Bhargava is Managing Director, APJ, Rackspace Technology. Artificial Intelligence (AI) is transforming the Indian auto insurance industry. Computer vision is now applied to improve claims processes, while data and analytics have the potential to ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/11/Rackspace_Sandeep_Bhargava_photo-1.jpg",
+          "width": 753,
+          "height": 929,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/computer-vision-and-beyond-the-future-of-ai-in-indias-insurance-industry/",
+      "publishedDateTime": "2022-11-14T00:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-14-citi-backs-indian-saas-startup-lentra-as-it-plans-to-expand-internationally.md",
+      "title": "Citi backs Indian SaaS startup Lentra as it plans to expand internationally",
+      "excerpt": "Indian SaaS startup Lentra has raised $60 million in a Series B funding round that saw participation from Citi Ventures.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/",
+      "originalUrl": "https://techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/keyboard-typing-image-getty.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/13/citi-india-investment-saas-startup-lentra-funding/amp/",
+      "publishedDateTime": "2022-11-13T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-11-14-global-t-cell-therapy-market-growth-potential-2022-with-industry-trends-top-manufacturers-sales-revenue-and-cagr-status-forecast-to-2029.md",
       "title": "Global T-cell Therapy Market Growth Potential 2022 with Industry Trends, Top Manufacturers, Sales Revenue and CAGR Status Forecast to 2029",
       "excerpt": "Nov (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “T-cell Therapy Market” is expected",
@@ -1076,93 +1171,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-scientists-promote-fair-standards-for-managing-artificial-intelligence-models.md",
-      "title": "Scientists promote FAIR standards for managing artificial intelligence models",
-      "excerpt": "Computational scientists adopt new framework for making AI models more findable, accessible, interoperable and reusable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221110205411.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221110205411.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-11T09:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-childhood-lead-exposure-tied-to-worse-cognitive-function-in-late-life.md",
-      "title": "Childhood lead exposure tied to worse cognitive function in late life",
-      "excerpt": "Exposure to lead in childhood is associated with worse cognitive functioning in late life, according to a study published in the Nov. 11 issue of Science Advances. Haena Lee, Ph.D., from ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-11-childhood-exposure-worse-cognitive-function.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-11-childhood-exposure-worse-cognitive-function.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/childhood-lead-exposur.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-11-childhood-exposure-worse-cognitive-function.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-childhood-exposure-worse-cognitive-function.amp",
-      "publishedDateTime": "2022-11-11T09:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

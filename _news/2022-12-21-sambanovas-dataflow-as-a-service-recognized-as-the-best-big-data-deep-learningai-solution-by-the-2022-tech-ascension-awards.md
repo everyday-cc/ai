@@ -18,6 +18,17 @@ topics:
   - Machine Learning
   - AI
 
+related:
+  - title: "SambaNova Systems: SambaNova's Dataflow-as-a-Service Recognized as the Best Big Data Deep Learning/AI Solution by the 2022 Tech Ascension Awards"
+    excerpt: "SambaNova Systems, the company delivering the industry's only comprehensive software, hardware, and solutions platform to run Artificial Intelligence (AI), deep learning, and foundation models, today"
+    publishedDateTime: 2022-12-20T18:30:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-12/57894527-sambanova-systems-sambanova-s-dataflow-as-a-service-recognized-as-the-best-big-data-deep-learning-ai-solution-by-the-2022-tech-ascension-awards-004.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
+
 secured: "Lb4WEQyvpN3rxGNXf1qT9kQNz5GDZvKcjIwigMU9nwRxoyrzoScFG1sK3CQUoF7y7m8Vq8HTD8M82rM9gXVnvghx0B8pHnrFmHtGujtIn9+2fUCS5/EZzBMP/L5PWrvPrfqBLs5PlR7Q2aT3qqqOfTn42dWdvmg++baEnlTBoD4OsvfO9dC9h1UMtANBRnuN91YpUOnQeliLja/yXG5DF8ZnwRW7jqNNAwmfyke49+hJJByiEbZC4BIGw22Amq/Jrui6I+7jxUnulFdcL8CnyGkdhc+HSP5DtpOkAsJd/A8rjHSrgYiLqvWKo6kri+5yAgf8P1apRc+oeUUQrHsVVsDJseIGkGrjnXHbu8bQLnE5ZNmVULTnCLqBGKN6j94GsbNJdRz+tzv0BekKL9l59IsaEQLyQKWybsPJhrUD5p24zEWJ75aQbIBpnQkzz6i2TMyt8NgIECyAPOD3aAD+fdvmmQrX/Tdc5ECImyMMGNn3tvBFc6PP0S7QUQqERQmDMCcnFoeXY2c/s5YzGRYPBg==;1WoPMr8XhRZ4h0NiqaeI/w=="
 ---
 

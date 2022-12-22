@@ -2,6 +2,101 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2022-10-25-artificial-intelligence-in-accounting-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2029-104-pages-report.md",
+      "title": "Artificial Intelligence in Accounting Market Detailed Analysis of Current Scenario with Growth Forecasts to 2029 | 104 Pages Report",
+      "excerpt": "According to this latest study, In 2022 the growth of Artificial Intelligence in Accounting Market is projected to",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2029-104-pages-report-2022-10-24-2319769",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2029-104-pages-report-2022-10-24-2319769",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T20:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-deal-alert-the-zotac-geforce-rtx-3090-gpu-is-down-to-86999.md",
+      "title": "Deal Alert: The Zotac GeForce RTX 3090 GPU Is Down to $869.99",
+      "excerpt": "Zotac video cards come with a 2 year warranty. However, if you register your GPU within 30 days from the date of purchase, you'll get an additional 1 year extended warranty for a total of 3 years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ign.com/articles/deal-alert-geforce-rtx-3090-gpu",
+      "originalUrl": "https://www.ign.com/articles/deal-alert-geforce-rtx-3090-gpu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-prd.ignimgs.com/2022/10/24/zotacrtx3090-1666638008356.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-25-word-and-face-recognition-can-be-adequately-supported-with-half-a-brain.md",
       "title": "Word and face recognition can be adequately supported with half a brain",
       "excerpt": "The capacity for word and face recognition between control subjects and people with hemispherectomies differed, but the differences were less than 10%, and the average accuracy exceeded 80%.",
@@ -1018,111 +1113,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-ai-coming-of-age-lessons-for-startups.md",
-      "title": "AI Coming Of Age: Lessons For Startups",
-      "excerpt": "Startups might have an advantage over larger organizations in using AI: Building new business processes is a lot easier than changing existing processes that affect thousands of employees.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/24/ai-coming-of-age-lessons-for-startups/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/24/ai-coming-of-age-lessons-for-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f2d686d44b66e05156c5e3c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/24/ai-coming-of-age-lessons-for-startups/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/24/ai-coming-of-age-lessons-for-startups/amp/",
-      "publishedDateTime": "2022-10-24T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-d2iq-simplifies-artificial-intelligence-and-machine-learning-operations-with-industry-first-enhancements-to-kaptain-aiml-platform.md",
-      "title": "D2iQ Simplifies Artificial Intelligence and Machine Learning Operations with Industry-First Enhancements to Kaptain AI/ML Platform",
-      "excerpt": "D2iQ Simplifies Artificial Intelligence and Machine Learning Operations with Industry-First Enhancements to Kaptain AI/ML Platform Oct 24, 2022",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/d2iq-simplifies-artificial-intelligence-and-machine-learning-operations-with-industry-first-enhancements-to-kaptain-aiml-platform-2022-10-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/d2iq-simplifies-artificial-intelligence-and-machine-learning-operations-with-industry-first-enhancements-to-kaptain-aiml-platform-2022-10-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],

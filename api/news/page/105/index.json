@@ -2,6 +2,100 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2022-09-21-sustainable-and-ai-concrete-startup-aicrete-announces-4-million-seed-funding.md",
+      "title": "Sustainable and AI Concrete Startup AICrete Announces $4 Million Seed Funding",
+      "excerpt": "Through use of AI, AICrete is poised to reduce concrete emissions by up to 35% and drastically increase industry profit margins. RICHMOND, Calif. , Sept. 21, 2022 /PRNewswire/ --",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-sustainable-ai-concrete-startup-aicrete-announces-4-million-/2022/09/21/9678215.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-sustainable-ai-concrete-startup-aicrete-announces-4-million-/2022/09/21/9678215.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
+          "width": 476,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-the-unexpected-truth-about-self-driving-cars-according-to-general-motors.md",
+      "title": "The Unexpected Truth About Self-Driving Cars According To General Motors",
+      "excerpt": "The future is self-driving, or so say evangelists that are betting big on a future where AI-powered machines — including vehicles — will perform intended tasks on their own. Self-driving cars ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/1018226/the-unexpected-truth-about-self-driving-cars-according-to-general-motors/",
+      "originalUrl": "https://www.slashgear.com/1018226/the-unexpected-truth-about-self-driving-cars-according-to-general-motors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/the-unexpected-truth-about-self-driving-cars-according-to-general-motors/l-intro-1663772176.jpg",
+          "width": 1600,
+          "height": 897,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-21-arm-continues-its-datacenter-drive-with-neoverse-2.md",
       "title": "Arm Continues Its Datacenter Drive With Neoverse 2",
       "excerpt": "Senior Analyst, Servers, Matt Kimball, dives in as ARM recently announced Neoverse 2 – an updated IP portfolio designed to achieve greater performance, efficiency, and security gains. Matt unpacks Neoverse 2 and what this means for enterprise IT.",
@@ -1131,92 +1225,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-how-machine-learning-stock-market-will-grow-worldwide.md",
-      "title": "How Machine Learning Stock Market will Grow Worldwide?",
-      "excerpt": "Pages Report] The global “Machine Learning Stock Market” is expected to rise with an impressive CAGR and generate",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/how-machine-learning-stock-market-will-grow-worldwide-2022-09-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/how-machine-learning-stock-market-will-grow-worldwide-2022-09-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-nvidia-unveils-new-gaming-chip-with-ai-features-taps-tsmc-for-manufacturing.md",
-      "title": "Nvidia unveils new gaming chip with AI features, taps TSMC for manufacturing",
-      "excerpt": "Nvidia Corp on Tuesday (Sept 20) announced new flagship chips for video gamers that use artificial intelligence (AI) to enhance graphics, saying it has tapped Taiwan Semiconductor Manufacturing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/digital/nvidia-unveils-new-gaming-chip-ai-features-taps-tsmc-manufacturing",
-      "originalUrl": "https://www.asiaone.com/digital/nvidia-unveils-new-gaming-chip-ai-features-taps-tsmc-manufacturing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Sep2022/20220920_nvidia_reuters.jpg?h=21a04224&itok=nv6kzfGz",
-          "width": 600,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T21:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

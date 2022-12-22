@@ -10,7 +10,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/this-report-on-cognitive-services-market-covers-main-driver-for-the-overall-market-from-2022-to-2028-2022-12-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -558,6 +558,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-12-symphonyai-expands-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace.md",
+      "title": "SymphonyAI expands Microsoft collaboration, makes Sensa financial crime prevention solution available in Microsoft Azure Marketplace",
+      "excerpt": "EnterpriseAI leader accelerating innovation to combat financial crime with transformative, next-generation AI-based solutionPALO ALTO, Calif.,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/symphonyai-expands-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace-1031964946",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/symphonyai-expands-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace-1031964946",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-12-cognitive-tests-taken-at-home-are-on-par-with-in-clinic-assessments.md",
       "title": "Cognitive Tests Taken at Home Are on Par with In-Clinic Assessments",
       "excerpt": "Can a cognitive test taken on a computer, in the comfort of one’s home, tell neurologists as much as a pencil-and-paper test done in a clinic? Yes, according to two researchers who presented their work at the Clinical Trials on Alzheimer’s Disease ...",
@@ -588,49 +631,6 @@
         "name": "ALZFORUM",
         "domain": "alzforum.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-symphonyai-expands-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace.md",
-      "title": "SymphonyAI expands Microsoft collaboration, makes Sensa financial crime prevention solution available in Microsoft Azure Marketplace",
-      "excerpt": "EnterpriseAI leader accelerating innovation to combat financial crime with transformative, next-generation AI-based solution PALO ALTO, Calif., Dec. 12, 2022 /PRNewswire/ -- SymphonyAI, a leader ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/symphonyai-expands-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace-1031964947",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/symphonyai-expands-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace-1031964947",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T04:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -897,6 +897,40 @@
       "provider": {
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-consuming-over-processed-foods-may-hasten-cognitive-decline-study.md",
+      "title": "Consuming over-processed foods may hasten cognitive decline: study",
+      "excerpt": "Limiting the consumption of ultra-processed food may reduce cognitive decline in middle-aged and older adults, the results of a new study show. Ultra-processed foods are packaged foods made using ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mcknights.com/news/clinical-news/consuming-over-processed-foods-may-hasten-cognitive-decline-study/",
+      "originalUrl": "https://www.mcknights.com/news/clinical-news/consuming-over-processed-foods-may-hasten-cognitive-decline-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T22:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "McKnight's Long-Term Care News",
+        "domain": "mcknights.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1270,40 +1304,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-researchers-gain-a-better-understanding-of-how-the-most-commonly-used-adhd-medication-works.md",
-      "title": "Researchers gain a better understanding of how the most commonly used ADHD medication works",
-      "excerpt": "Now, a new study seeks to close this gap and understand how methylphenidate interacts with cognitive control networks and attentional behavior. The new study appears in Biological Psychiatry ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/973890",
-      "originalUrl": "https://www.eurekalert.org/news-releases/973890",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

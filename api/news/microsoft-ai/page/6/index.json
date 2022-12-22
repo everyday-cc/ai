@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-11-04-early-deprivation-may-be-more-closely-linked-with-cognitive-and-emotional-functioning-in-adolescence.md",
+      "title": "Early deprivation may be more closely linked with cognitive and emotional functioning in adolescence",
+      "excerpt": "Experiences of early adversity due to poverty, abuse, and neglect are known to interfere with children's cognitive and emotional development. Recent research in Psychological Science expands on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20221103/Early-deprivation-may-be-more-closely-linked-with-cognitive-and-emotional-functioning-in-adolescence.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20221103/Early-deprivation-may-be-more-closely-linked-with-cognitive-and-emotional-functioning-in-adolescence.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Children_playing_sunset_-_Zurijeta_8c5bdac77e44431bb1bfec67b9c87208-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20221103/Early-deprivation-may-be-more-closely-linked-with-cognitive-and-emotional-functioning-in-adolescence.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20221103/Early-deprivation-may-be-more-closely-linked-with-cognitive-and-emotional-functioning-in-adolescence.aspx",
+      "publishedDateTime": "2022-11-03T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-03-openai-will-give-roughly-10-ai-startups-1m-each-and-early-access-to-its-systems.md",
       "title": "OpenAI will give roughly 10 AI startups $1M each and early access to its systems",
       "excerpt": "OpenAI's new Converge program will grant roughly ten AI startups $1 million in funding and access to Open AI resources, including AI systems.",
@@ -1229,58 +1272,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-microsofts-end-to-end-arm-development-environment-is-here-at-last.md",
-      "title": "Microsoft’s end-to-end Arm development environment is here at last",
-      "excerpt": "It’s just in time, too, as the latest generation of Surface devices puts Microsoft’s Qualcomm-based SQ3 processor in the same hardware as Intel’s i7. What’s perhaps most interesting about Microsoft’s Arm focus is its link to building machine learning–driven applications into Windows.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.html",
-      "originalUrl": "https://www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/08/25/16/istock-1368001929-100931622-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.amp.html",
-      "publishedDateTime": "2022-10-26T03:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

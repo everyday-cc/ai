@@ -8,8 +8,8 @@ webUrl: "https://theconversation.com/not-everything-we-call-ai-is-actually-artif
 ampWebUrl: "https://theconversation.com/amp/not-everything-we-call-ai-is-actually-artificial-intelligence-heres-what-you-need-to-know-196732"
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/not-everything-we-call-ai-is-actually-artificial-intelligence-heres-what-you-need-to-know-196732"
 type: article
-quality: 45
-heat: 45
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI Ethics
   - AI
   - AI in Autos
+  - Machine Learning
 
 related:
   - title: "AI image generators: everything you need to know"

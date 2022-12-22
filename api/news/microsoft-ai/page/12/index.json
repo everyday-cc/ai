@@ -2,6 +2,50 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-09-16-oracle-announces-mysql-heatwave-on-aws.md",
+      "title": "Oracle announces MySQL HeatWave on AWS",
+      "excerpt": "Oracle recently announced that MySQL HeatWave is available on Amazon Web Services (AWS). MySQL HeatWave is the only service that combines OLTP,",
+      "sourceUrl": null,
+      "webUrl": "https://manilastandard.net/tech/314260496/oracle-announces-mysql-heatwave-on-aws.html",
+      "originalUrl": "https://manilastandard.net/tech/314260496/oracle-announces-mysql-heatwave-on-aws.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manilastandard.net/wp-content/uploads/2022/09/Mina-Lim-Managing-Director-Oracle-Philippines.jpg",
+          "width": 603,
+          "height": 617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T18:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manilastandard",
+        "domain": "manilastandard.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-16-oracle-brings-heatwave-to-aws.md",
       "title": "Oracle Brings HeatWave To AWS",
       "excerpt": "Senior Analyst, Servers, Matt Kimball, dives as MySQL HeatWave is a cloud database service that has enabled Oracle to create differentiation in the open-source MySQL market. MySQL HeatWave is available natively on AWS,",
@@ -1237,42 +1281,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-meta-transitions-pytorch-to-the-linux-foundation-further-accelerating-aiml-open-source-collaboration.md",
-      "title": "Meta Transitions PyTorch to the Linux Foundation, Further Accelerating AI/ML Open Source Collaboration",
-      "excerpt": "The Linux Foundation, a global nonprofit organization enabling innovation through open source, today announced PyTorch is moving to the Linux Foundation from Meta where it will live under the newly-formed PyTorch Foundation.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-philanthropy-bfe43353bdc4e67ca0619d66400a2691",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-philanthropy-bfe43353bdc4e67ca0619d66400a2691",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "Facebook AI"
       ]
     }
   ],

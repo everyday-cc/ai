@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Google introduces AI-based solutions to ensure internet access for all Indians"
-excerpt: "During the 8th Google for India event held on December 19, Google showcased a series of new features and is looking to leverage its AI capabilities to help ensure democratized and secure internet access to all Indians,"
-publishedDateTime: 2022-12-20T03:24:00Z
-originalUrl: "https://www.digitimes.com/news/a20221220VL201/ai-google.html?chid=10"
-webUrl: "https://www.digitimes.com/news/a20221220VL201/ai-google.html?chid=10"
+title: "India Conducts First 5G Driven, Artificial Intelligence-Guided Colonoscopy Trial"
+excerpt: "Airtel and Apollo Hospitals conducted India’s first 5G driven, Artificial Intelligence-guided Colonoscopy trial. It resulted in detection of the colon cancer much faster and with greater accuracy."
+publishedDateTime: 2022-12-22T08:06:00Z
+originalUrl: "https://www.thehealthsite.com/news/india-conducts-first-5g-driven-artificial-intelligence-guided-colonoscopy-trial-937051/"
+webUrl: "https://www.thehealthsite.com/news/india-conducts-first-5g-driven-artificial-intelligence-guided-colonoscopy-trial-937051/"
+ampWebUrl: "https://www.thehealthsite.com/news/india-conducts-first-5g-driven-artificial-intelligence-guided-colonoscopy-trial-937051/amp/"
+cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/india-conducts-first-5g-driven-artificial-intelligence-guided-colonoscopy-trial-937051/amp/"
 type: article
-quality: 35
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Digi Times
-  domain: digitimes.com
+  name: TheHealthSite
+  domain: thehealthsite.com
 
 topics:
-  - AI Hardware
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://img.digitimes.com/newsshow/20221220vl201_files/1_2b.jpg"
-    width: 1280
-    height: 851
+  - url: "https://st1.thehealthsite.com/wp-content/uploads/2022/12/Untitled-46.jpg"
+    width: 1200
+    height: 900
     isCached: true
 
 related:
@@ -57,23 +59,21 @@ related:
         width: 620
         height: 412
         isCached: true
-  - title: "India Conducts First 5G Driven, Artificial Intelligence-Guided Colonoscopy Trial"
-    excerpt: "Airtel and Apollo Hospitals conducted India’s first 5G driven, Artificial Intelligence-guided Colonoscopy trial. It resulted in detection of the colon cancer much faster and with greater accuracy."
-    publishedDateTime: 2022-12-22T08:06:00Z
-    webUrl: "https://www.thehealthsite.com/news/india-conducts-first-5g-driven-artificial-intelligence-guided-colonoscopy-trial-937051/"
-    ampWebUrl: "https://www.thehealthsite.com/news/india-conducts-first-5g-driven-artificial-intelligence-guided-colonoscopy-trial-937051/amp/"
-    cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/india-conducts-first-5g-driven-artificial-intelligence-guided-colonoscopy-trial-937051/amp/"
+  - title: "Google introduces AI-based solutions to ensure internet access for all Indians"
+    excerpt: "During the 8th Google for India event held on December 19, Google showcased a series of new features and is looking to leverage its AI capabilities to help ensure democratized and secure internet access to all Indians,"
+    publishedDateTime: 2022-12-20T03:24:00Z
+    webUrl: "https://www.digitimes.com/news/a20221220VL201/ai-google.html?chid=10"
     type: article
     provider:
-      name: TheHealthSite
-      domain: thehealthsite.com
-    quality: 54
+      name: Digi Times
+      domain: digitimes.com
+    quality: 35
     images:
-      - url: "https://st1.thehealthsite.com/wp-content/uploads/2022/12/Untitled-46.jpg"
-        width: 1200
-        height: 900
+      - url: "https://img.digitimes.com/newsshow/20221220vl201_files/1_2b.jpg"
+        width: 1280
+        height: 851
         isCached: true
 
-secured: "RDuhdRZiuNeRZN+oqRHULR1NGVFhIJdMHjf6+1S6iyg7rChQ62MuciwqaUYyZDgOPOJL/MxRRvNBTmb0rYtEeA2K4uMBeWNEAYjUgd9RdEqWl2RaaTdLuiaIv9gxRDVH/hMkf07dG2l5AUQQwlurPsVMDZNvBWeY8eV7j+KAJPavrILJmHYCbigBCW5Npbf+bC92uO/PdsjYH0FS9QIdiqVtrCW5lmUFm26hrseMMdTHa96MAltJYFK80CKybc4QDCpE9Q9CW6xh1Pv0aRjN1hd8wXCYdWH5HG4f5/tYkxz7evJO0pY54k5yKzfqYfVX8CU6DzjySMOU7YfBoWxi5I11uq88ejgJ9svWi1gInjg=;vSoLD0UF2UXFpu49UF2fZw=="
+secured: "zua/9IKd3FDlRYOM9Wg2OkwyGkozQWZxIxcvb41LxS68ePwsnaCeCYe9WSWjftodjF1kD+rQrp9WE9RbuchHxj/nS+kqd6BlHmtrTA5iMI5+EJkPDp4lscJWYJk4SWFdZTQ34t/UXMOFJPzGT6oIsf8nOHwc6SgzJFq3iyXikxeMGB8CAc9/MzakEs4rfIqkmTEYdOrAqZRBn5CYe+57IQTdgO4U/Tuh1nYpHJen2k3nlE3O5uLog150A+SBkHnD0TIpXfm7bq+BiVkLtIwNamwXhnIuGLgrexACmPZiZ6hFpW60sDWMx/uxfHOshEX1y9LnCA2WKUXbUJAAEOxOTgFw5o5ybdXBjLGoW5paHDs=;/o/0eYwajz9x0p6XY1mssw=="
 ---
 

@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Fintech Market Research Report: Key Trends and Opportunities by State and Territory for period 2022 to 2028."
-    excerpt: "Given that the \" AI in Fintech Market \" is one of the industries growing at the quickest rate, it is essential for market participants to do a thorough study of the industry beforehand. The industry analysis and market research report for the AI in Fintech sector look at the global market from 2022 to 2028."
-    publishedDateTime: 2022-12-17T16:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-research-report-key-trends-and-opportunities-by-state-and-territory-for-period-2022-to-2028-2022-12-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "NdFBDs3yFzpJNfxgIss6DGKD8yfBNVrS0Kg8m+I+ZanPE4QZftOjzpphG8rn9x1wgECY8HgbDGhuJEZIcgNTrmUvKxf4Vw2TrSKFJyO7y5VIi8I4reaR9dFFyz/hTQt+0M1HD3aLMIkrFsGaKnz3Wdi8/YHcvdssUdJ2q4WF7mK6LcHq9mzdvG/MOknhEhsVihz2C/5RFthV7jYwI4HduOY5wr4D/go4imzZvhc/W+9mfbfQ5PmWF9L62wNwQy0mWwfL9EOD4zGKTqVk1vFxXLM+3SBMuMKH62uNv8tN8O1Wc+5Wy8GE0Wc8wsl4OQzErhKz3TfZNIJgSCYP+ID7VQNpFyI7nn95u9D5mMda3Yw=;A6GqCZJerF27VDXs+lWEXQ=="
 ---

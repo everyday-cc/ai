@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-12-09-why-robots-are-taking-over-the-world-and-thats-a-good-thing.md",
+      "title": "Why Robots Are Taking Over The World - And That's A Good Thing",
+      "excerpt": "Robots and automation are not \"taking jobs\" in this latest economic downturn but are instead doing the work that few people want to do — from weeding fields to cleaning floors to stacking boxes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2022/12/09/why-robots-are-taking-over-the-worldand-thats-a-good-thing/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2022/12/09/why-robots-are-taking-over-the-worldand-thats-a-good-thing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/638e2b41fa2aa3cd9557066e/0x0.jpg?format=jpg&width=1200",
+          "width": 640,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2022/12/09/why-robots-are-taking-over-the-worldand-thats-a-good-thing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/12/09/why-robots-are-taking-over-the-worldand-thats-a-good-thing/amp/",
+      "publishedDateTime": "2022-12-09T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-09-neural-network-market-2023-detailed-analysis-of-industry-potential-growth-attractive-valuation-and-growth-forecast-up-to-2028.md",
       "title": "Neural Network Market 2023 : Detailed Analysis of Industry, Potential Growth, Attractive Valuation and Growth Forecast Up to 2028",
       "excerpt": "Pages Report] According to this latest study, the 2021 growth of Neural Network Market will have significant change from previous year. By the most conservative estimates of g",
@@ -411,6 +463,40 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-consuming-over-processed-foods-may-hasten-cognitive-decline-study.md",
+      "title": "Consuming over-processed foods may hasten cognitive decline: study",
+      "excerpt": "Limiting the consumption of ultra-processed food may reduce cognitive decline in middle-aged and older adults, the results of a new study show. Ultra-processed foods are packaged foods made using ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mcknights.com/news/clinical-news/consuming-over-processed-foods-may-hasten-cognitive-decline-study/",
+      "originalUrl": "https://www.mcknights.com/news/clinical-news/consuming-over-processed-foods-may-hasten-cognitive-decline-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T22:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "McKnight's Long-Term Care News",
+        "domain": "mcknights.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1056,100 +1142,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-pixyle-ai-wants-to-make-visual-search-more-intuitive-for-online-retailers.md",
-      "title": "Pixyle AI wants to make visual search more intuitive for online retailers",
-      "excerpt": "When Svetlana Kordumova was studying for her doctorate in AI and computer vision, she grew frustrated by the process of looking for items to buy online. Search results were often inaccurate, and she knew the tech she was learning could improve the experience.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/07/pixyle-ai/",
-      "originalUrl": "https://techcrunch.com/2022/12/07/pixyle-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/Pixyle-AI-product-data-enrichment.png?resize=1200,685",
-          "width": 1200,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/07/pixyle-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/07/pixyle-ai/amp/",
-      "publishedDateTime": "2022-12-08T12:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-brain-plasticity-study-oxytocin-drives-development-of-neural-connections-in-adult-born-neurons.md",
-      "title": "Brain plasticity study: Oxytocin drives development of neural connections in adult-born neurons",
-      "excerpt": "The researchers discovered that the levels of oxytocin increase in the olfactory bulb, peaking at the time the new neurons incorporate themselves into neural networks. Using viral labeling ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-12-brain-plasticity-oxytocin-neural-adult-born.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-12-brain-plasticity-oxytocin-neural-adult-born.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/4-brain.jpg",
-          "width": 1920,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-12-brain-plasticity-oxytocin-neural-adult-born.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-brain-plasticity-oxytocin-neural-adult-born.amp",
-      "publishedDateTime": "2022-12-08T12:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

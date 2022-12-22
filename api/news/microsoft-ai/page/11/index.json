@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-09-26-it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto.md",
+      "title": "It is time to shun C, C++ languages for new projects: Microsoft Azure CTO",
+      "excerpt": "\"Rust\" is now being used within the Android Open Source Project (AOSP) at Meta, at Amazon Web Services (AWS) and Microsoft, reports ZDNet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestatesman.com/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto-1503115247.html",
+      "originalUrl": "https://www.thestatesman.com/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto-1503115247.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestatesman.com/wp-content/uploads/2022/09/0da9bd4f8fc06cb457a2a9b3d6a6f0cc.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestatesman.com/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto-1503115247.html/amp",
+      "cdnAmpWebUrl": "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto-1503115247.html/amp",
+      "publishedDateTime": "2022-09-25T22:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Statesman",
+        "domain": "thestatesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-24-important-for-brain-health-blueberries-may-reverse-cognitive-decline-study.md",
       "title": "'Important for brain health’: Blueberries may reverse cognitive decline - study",
       "excerpt": "You can unsubscribe at any time. More info Cognitive decline mainly occurs in older people, as the brain ages some of its functions begin to deteriorate, often at different rates in different people.",
@@ -1285,50 +1328,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-oracle-announces-mysql-heatwave-on-aws.md",
-      "title": "Oracle announces MySQL HeatWave on AWS",
-      "excerpt": "Oracle recently announced that MySQL HeatWave is available on Amazon Web Services (AWS). MySQL HeatWave is the only service that combines OLTP,",
-      "sourceUrl": null,
-      "webUrl": "https://manilastandard.net/tech/314260496/oracle-announces-mysql-heatwave-on-aws.html",
-      "originalUrl": "https://manilastandard.net/tech/314260496/oracle-announces-mysql-heatwave-on-aws.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manilastandard.net/wp-content/uploads/2022/09/Mina-Lim-Managing-Director-Oracle-Philippines.jpg",
-          "width": 603,
-          "height": 617,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T18:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manilastandard",
-        "domain": "manilastandard.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

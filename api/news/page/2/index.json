@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-12-20-accelerate-the-investment-process-with-aws-low-code-no-code-services.md",
+      "title": "Accelerate the investment process with AWS Low Code-No Code services",
+      "excerpt": "The last few years have seen a tremendous paradigm shift in how institutional asset managers source and integrate multiple data sources into their investment process. With frequent shifts in risk correlations, unexpected sources of volatility, and increasing competition from passive strategies, asset",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-the-investment-process-with-aws-low-code-no-code-services/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-the-investment-process-with-aws-low-code-no-code-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/20/accelerate-investment-process.jpg",
+          "width": 1053,
+          "height": 527,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-20T08:13:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-20-lensa-ai-is-carrying-gender-bias-into-the-future.md",
       "title": "Lensa AI Is Carrying Gender Bias Into the Future",
       "excerpt": "Instead of training artificial intelligence on the injustices of the past, we need to ensure that it starts from an equitable base.",
@@ -409,7 +461,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/this-report-on-cognitive-services-market-covers-main-driver-for-the-overall-market-from-2022-to-2028-2022-12-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -806,7 +858,7 @@
       "originalUrl": "https://www.thehindubusinessline.com/info-tech/google-ceo-pitches-for-balance-between-regulation-and-innovation/article66281963.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1184,58 +1236,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-12-19-this-mechanical-engineer-is-building-robots-to-harvest-raspberries.md",
-      "title": "This mechanical engineer is building robots to harvest raspberries",
-      "excerpt": "Mechanical engineer Josie Hughes is on a mission to show how robotics can play a role in our everyday lives, particularly when it comes to food. Starting with LEGO robots as a child, the Cambridge graduate now leads the Computational Robot Design & Fabrication Lab (CREATE) at the Swiss Federal Institute of Technology Lausanne (EPFL),",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/12/19/world/raspberry-harvest-robot-josie-hughes-hnk-spc-intl/index.html",
-      "originalUrl": "https://www.cnn.com/2022/12/19/world/raspberry-harvest-robot-josie-hughes-hnk-spc-intl/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221215134817-03-josie-hughes-raspberry-robot-t4g-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/12/19/world/raspberry-harvest-robot-josie-hughes-hnk-spc-intl/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/12/19/world/raspberry-harvest-robot-josie-hughes-hnk-spc-intl/index.html",
-      "publishedDateTime": "2022-12-18T23:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-12-19-this-mechanical-engineer-is-building-robots-to-harvest-raspberries.md",
+      "title": "This mechanical engineer is building robots to harvest raspberries",
+      "excerpt": "Mechanical engineer Josie Hughes is on a mission to show how robotics can play a role in our everyday lives, particularly when it comes to food. Starting with LEGO robots as a child, the Cambridge graduate now leads the Computational Robot Design & Fabrication Lab (CREATE) at the Swiss Federal Institute of Technology Lausanne (EPFL),",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/12/19/world/raspberry-harvest-robot-josie-hughes-hnk-spc-intl/index.html",
+      "originalUrl": "https://www.cnn.com/2022/12/19/world/raspberry-harvest-robot-josie-hughes-hnk-spc-intl/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221215134817-03-josie-hughes-raspberry-robot-t4g-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/12/19/world/raspberry-harvest-robot-josie-hughes-hnk-spc-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/12/19/world/raspberry-harvest-robot-josie-hughes-hnk-spc-intl/index.html",
+      "publishedDateTime": "2022-12-18T23:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-19-with-robots-and-ai-a-five-star-hotel-to-help-honeybees.md",
       "title": "With robots and AI, a “five-star hotel” to help honeybees",
       "excerpt": "Beewise, a 4-year-old startup based in Oakland, California, offers a particularly inspiring example of how robotics and AI might radically slow and even reverse the global honeybee die-off.",
@@ -718,8 +770,8 @@
       "title": "How artificial intelligence could be used to fight wildfires",
       "excerpt": "A tech company is developing a new type of artificial intelligence to fight wildfires by using predictive analysis before the fires even start and AI logistics to help contain them.",
       "sourceUrl": null,
-      "webUrl": "https://www.fox5ny.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
-      "originalUrl": "https://www.fox5ny.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
+      "webUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
+      "originalUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -727,13 +779,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.fox5ny.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
-      "cdnAmpWebUrl": "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
-      "publishedDateTime": "2022-12-16T11:58:00-08:00",
+      "ampWebUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
+      "cdnAmpWebUrl": "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
+      "publishedDateTime": "2022-12-16T12:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox 5 NY",
-        "domain": "fox5ny.com",
+        "name": "q13fox",
+        "domain": "q13fox.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1149,51 +1201,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-key-strategies-for-ethical-and-responsible-use-of-artificial-intelligence.md",
-      "title": "Key Strategies for Ethical and Responsible Use of Artificial Intelligence",
-      "excerpt": "While the issue of how to use AI ethically has been widely discussed for some time, little has been done to put guidelines",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/featured/key-strategies-for-ethical-and-responsible-use-of-artificial-intelligence/",
-      "originalUrl": "https://enterprisetalk.com/featured/key-strategies-for-ethical-and-responsible-use-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/12/Key-Strategies-for-Ethical-and-Responsible-Use-of-Artificial-Intelligence.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/featured/key-strategies-for-ethical-and-responsible-use-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/key-strategies-for-ethical-and-responsible-use-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-12-16T03:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     }
   ],

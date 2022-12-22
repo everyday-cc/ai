@@ -954,6 +954,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-21-facial-recognition-used-in-new-york-to-stop-woman-from-seeing-christmas-show.md",
+      "title": "Facial recognition used in New York to stop woman from seeing Christmas show",
+      "excerpt": "The attorney and mother said the security staff knew her name, her place of work, and said their facial recognition had flagged her, before telling her that she wasn’t allowed to be there",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/facial-recognition-technology-new-york-stop-woman-attorney-law-christmas-show-msg/article66287817.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/facial-recognition-technology-new-york-stop-woman-attorney-law-christmas-show-msg/article66287817.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/incoming/vulek9/article66287816.ece/alternates/FREE_1200/BRITAIN%20FACIAL%20RECOGNITION",
+          "width": 1200,
+          "height": 816,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/facial-recognition-technology-new-york-stop-woman-attorney-law-christmas-show-msg/article66287817.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/facial-recognition-technology-new-york-stop-woman-attorney-law-christmas-show-msg/article66287817.ece/amp/",
+      "publishedDateTime": "2022-12-20T22:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-21-the-retail-ai-industry-takes-stock-as-the-holiday-season-wraps-up.md",
       "title": "The retail AI industry takes stock as the holiday season wraps up",
       "excerpt": "As the holiday season reaches its pinnacle moment, retail AI is facing an uphill battle amid a looming recession and poor Q3 results.",
@@ -1168,58 +1211,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-12-20T08:33:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-20-accelerate-the-investment-process-with-aws-low-code-no-code-services.md",
-      "title": "Accelerate the investment process with AWS Low Code-No Code services",
-      "excerpt": "The last few years have seen a tremendous paradigm shift in how institutional asset managers source and integrate multiple data sources into their investment process. With frequent shifts in risk correlations, unexpected sources of volatility, and increasing competition from passive strategies, asset",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-the-investment-process-with-aws-low-code-no-code-services/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-the-investment-process-with-aws-low-code-no-code-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/20/accelerate-investment-process.jpg",
-          "width": 1053,
-          "height": 527,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-20T08:13:35-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
