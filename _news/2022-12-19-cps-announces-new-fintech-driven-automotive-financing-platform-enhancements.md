@@ -94,6 +94,20 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "What’s in store for FinTech in 2023?"
+    excerpt: "FStech has reached out to thought leaders in the space to get their thoughts and opinions on what to expect in 2023"
+    publishedDateTime: 2022-12-22T10:58:00Z
+    webUrl: "https://www.fstech.co.uk/fst/Whats_In_Store_For_FinTech_2023.php"
+    type: article
+    provider:
+      name: fstech
+      domain: fstech.co.uk
+    quality: 24
+    images:
+      - url: "https://www.fstech.co.uk/fst/images/businessman-buttons-virtual-fintech-m.jpg"
+        width: 5580
+        height: 3138
+        isCached: true
   - title: "AI In Fintech Market is likely to surge at a 16.5% CAGR from 2022 to 2032"
     excerpt: "According to an ESOMAR-certified Future Market Insights report, the global artificial intelligence in fintech market is expected to be worth US$ 10.1 billion in 2021 and US$ 11.76 billion by 2022. The market is expected to be worth US$ 54 billion by 2032,"
     publishedDateTime: 2022-12-20T11:26:00Z

@@ -34,6 +34,22 @@ related:
         width: 1200
         height: 792
         isCached: true
+  - title: "AI Trends For 2023: Industry Experts (And ChatGPT AI) Make Their Predictions"
+    excerpt: "What are the top AI trends and fads for 2023? What’s one thing business leaders must stop doing to unlock business value from AI? Hear predictions from 10 experts, including ChatGPT AI!"
+    publishedDateTime: 2022-12-22T10:46:00Z
+    webUrl: "https://www.forbes.com/sites/ganeskesari/2022/12/22/ai-trends-for-2023-industry-experts-and-chatgpt-ai-make-their-predictions/"
+    ampWebUrl: "https://www.forbes.com/sites/ganeskesari/2022/12/22/ai-trends-for-2023-industry-experts-and-chatgpt-ai-make-their-predictions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2022/12/22/ai-trends-for-2023-industry-experts-and-chatgpt-ai-make-their-predictions/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63a39d438cc45940bdc9d546/0x0.jpg?format=jpg&crop=1755,987,x0,y31,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "All you need to know about ChatGPT, a prototype Artificial Intelligence chatbot"
     excerpt: "ChatGPT is becoming your friend and guide on the Internet, giving advice and information almost like a human being. But can it be trusted?"
     publishedDateTime: 2022-12-18T03:56:00Z

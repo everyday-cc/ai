@@ -88,6 +88,20 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "What’s in store for FinTech in 2023?"
+    excerpt: "FStech has reached out to thought leaders in the space to get their thoughts and opinions on what to expect in 2023"
+    publishedDateTime: 2022-12-22T10:58:00Z
+    webUrl: "https://www.fstech.co.uk/fst/Whats_In_Store_For_FinTech_2023.php"
+    type: article
+    provider:
+      name: fstech
+      domain: fstech.co.uk
+    quality: 24
+    images:
+      - url: "https://www.fstech.co.uk/fst/images/businessman-buttons-virtual-fintech-m.jpg"
+        width: 5580
+        height: 3138
+        isCached: true
   - title: "CPS Announces New FinTech-Driven Automotive Financing Platform Enhancements"
     excerpt: "CPS expects Informed.IQ’s AI tools to significantly reduce the funding time. For decades, CPS has focused on bringing improved intelligence to auto lending, becoming a leader in FinTech initiatives that enhance the front-end review and financial decision-making process."
     publishedDateTime: 2022-12-19T13:31:00Z

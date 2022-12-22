@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/cloud-machine-learning-m
 webUrl: "https://www.marketwatch.com/press-release/cloud-machine-learning-market-2022---swot-analysis-business-standards-value-chain-and-sales-channels-analysis-2028-2022-12-20"
 type: article
 quality: 80
-heat: 190
+heat: 200
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 78
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Computer Vision Market : Competitive Strategy Analysis and Forecast Values 2022-2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Computer"
+    publishedDateTime: 2022-12-22T04:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-competitive-strategy-analysis-and-forecast-values-2022-2028-2022-12-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

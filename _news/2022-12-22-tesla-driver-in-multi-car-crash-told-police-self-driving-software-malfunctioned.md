@@ -75,6 +75,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Driver claims Tesla's self-driving software triggered Thanksgiving Bay Bridge crash"
+    excerpt: "A driver told authorities that their Tesla's \"full-self-driving\" software braked unexpectedly on Thanksgiving, triggering an eight-car injury accident on the Bay Bridge​."
+    publishedDateTime: 2022-12-21T20:11:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/driver-claims-tesla-self-driving-software-triggered-thanksgiving-bay-bridge-crash/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/driver-claims-tesla-self-driving-software-triggered-thanksgiving-bay-bridge-crash/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/driver-claims-tesla-self-driving-software-triggered-thanksgiving-bay-bridge-crash/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 68
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2022/11/24/1e71443c-fa06-413a-a433-1e9b8dc4af98/thumbnail/1200x630/d5dd0144e44c07dab95f73f972d0e49b/bay-bridge-crash-2.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tesla Driver In 8-Vehicle Pileup On Bay Bridge Says Full Self-Driving Malfunctioned"
     excerpt: "The driver of the 2021 Tesla Model S told police that FSD malfunctioned but the accuracy of his statements was yet to be determined, reported Reuters. The police report said if the software malfunctioned,"
     publishedDateTime: 2022-12-22T03:22:00Z
@@ -90,6 +106,20 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2022/12/21/shutterstock_1542182744.jpg?width=1200&height=800&fit=crop"
         width: 1000
         height: 667
+        isCached: true
+  - title: "Tesla Full Self-Driving Linked to Eight-Car Crash"
+    excerpt: "Already facing intense federal scrutiny after a series of previous accidents, a newly reported 8-car crash on San Francisco’s Bay Bridge is setting off new alarm bells after a driver told authorities the incident was triggered by the “Full Self-Driving” system in use by his Tesla Model S."
+    publishedDateTime: 2022-12-22T10:00:00Z
+    webUrl: "https://www.thedetroitbureau.com/2022/12/tesla-full-self-driving-linked-to-eight-car-crash/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 39
+    images:
+      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2020/10/Tesla-full-self-driving-2020.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Tesla 'full self-driving' triggered 8-car crash on Bay Bridge, driver tells police"
     excerpt: "The driver said the Tesla's \"full-self-driving\" software braked unexpectedly and triggered the eight-car pileup that led to nine people being treated for minor injuries, according to a California Highway Patrol traffic crash report."
