@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tusimpleai"
   url: "https://twitter.com/tusimpleai"
-  followers: 5684
+  followers: 5685
 
 size: 201-500 employees
 yearFounded: 2015
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "areAuDBEYp07PUbMbMXh94q9XkTcUddKY11T9pFzc+yhIO+pTigTRtwmdiUoVn5M77RCQqEnFz/dVwSvg0jRLU2Vc/7Ip/85rXu2A6ePr6/kebBmcJcyDJr3iR3+vMb4oyp2IeMh8Nrm4siPiVi5xjuSd4n71NGT6ovLtrdqAYhZqMboeET4RZ0olE86FnHEeFJKPiOl/qm/ztoUJIqKSJHTXGoTJiTGQXBIVlssi5oMHHHf0z61o59MVZivJGK3F61b3UXvkNc3H3wVUSPbAId9AN37LmuWLNH7mwmN3k+26ZKxREPhG/tdWo+YGd5OD5inuWpWmJiomWKGgOl1C04+VD3vI7DyQISDoZhzClVluromN/jubMCGoGpTn3Aa3kxj6mH7pqC0n3DCFafMmsJA1TTuj3cRsLQQfGF4Sss=;y+sz2+KS+3ynXXL94ZgjbQ=="
+secured: "1n6z88cWHyBDlLcMhHFOZs5wrjo9dIKIfAdgn4bgxXz7D4UrRnAvz2RW3k4/4TY1hjx8NCIOm1X0lFL3XYFysQvQAmjjvWBMa5NgNjtY9knFy4+JsFAJ6NiiRT1uR3b+JyWvmyz/3yMUb3yQxm3rx/Ip8awCne5ntVWi9g8EXKUuul718bapOl+dIMrlsCVQfpspBIcLk4irjh5qKhLU1wjM3YUWDXURssq5Ny/FXgvSPSnqOfxxbjA3yHu7dLmNmRVjUeTz/sjr3y9wUutxTda0/MHQ1mNIQpjTc2PuyH6MwNbY0pDW+CAVTgLgAgHeeEnjwbLrrSW1ullhW4h9JK3fQ/uBaZvjAAdbzacYX0rQIBXfwxIBkbg+Lulh8tEXkmNpUXdfvrc9JTitr2M7EkFjrC7ttu7lqFjHh085K9U=;8YEWrKeK1U3+2ukB/wSyiw=="
 ---
 
