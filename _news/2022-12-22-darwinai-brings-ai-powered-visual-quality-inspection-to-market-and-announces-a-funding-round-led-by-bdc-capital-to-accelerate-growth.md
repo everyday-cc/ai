@@ -2,13 +2,10 @@
 category: news
 title: "DarwinAI brings AI-powered Visual Quality Inspection to market and announces a funding round led by BDC Capital to accelerate growth"
 excerpt: "DarwinAI, an innovative Industry 4.0 company that is transforming manufacturing by instilling trust in Artificial Intelligence (AI), today announced a $6M USD investment round led by BDC Capital's Deep Tech Venture Fund with participation from new and existing investors."
-publishedDateTime: 2022-12-22T12:43:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/12/22/9734576.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/12/22/9734576.htm"
+publishedDateTime: 2022-12-22T13:50:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/12/22/9734576.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/12/22/9734576.htm"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
   name: TMCnet
@@ -18,6 +15,6 @@ topics:
   - AI Hardware
   - AI
 
-secured: "TdrU2wVNm16Waf49Pby2FObbbm0wwLzyHR2EdP52TPxvMRETDZSXrYf4/A6LrFMsXwLHKENPkUxuAIDIcHG021W+6Fv35kyLuOgj/mLadRxFuFgNLc+dKkiq2T601bXCoOoA/0UEUDFKLYqTdsGiwv0ehQMlQZkCmhbMj1MMYf4Wd+tIDmCgNskuAfCNSHS6suVsKu/aHQpF3cEQ6hq6ThwY20Xq3ryVCwyFrvjnJr+Db+Sh/XmLogz2JduEGsZsvkDONbqTk/KMK9Qbg2ZhnvWciLqdqt7GwrrCEIJIbYdXe9i/+I3nxiO5hYSCJyH9kDom02ZCyg/uRV5+OoaE/M/RiNfST86V+AvyFfBlx7I=;wTKpFp4maIyZiGVieCqj3g=="
+secured: "pbADlMND2X8h2VVWXXN2VKAjcrFbu4DYcyuYrC4GoBijFNu7paktBCI35yjXGkyVDBj5d7cavj7fmttDc81/HAwWYXLS/ULkP9x1BSr/9nFtw8maKkqqJzAasciaOA/LGFIF9Y1Dn3c6Wum+7wFxLBqTYoHXzWnhCJn+H9wdU9lPfJfGEAHryBrlzXRv3SQm6sWhqdevH+72AR/u2a4a2vHvk8BtsjYl+/1VUWreUYh1FpzDWuC5HisbVUqZwb7wYI0C3yQgKk7jKLRHAyHGPJw2/1eqB8THYiIKnX7zxf+BAG7Xu7vOAMXHsZ6JGQfDDoxfWVCEPuE5ZXB7xisBiPWZ23CvL/awZnDbS5J1FOM=;wtEqRE9Mc5EY5BiPfWCl9Q=="
 ---
 
