@@ -52,6 +52,22 @@ related:
       name: BusinessWorld
       domain: bworldonline.com
     quality: 39
+  - title: "World Fintech Show features dynamic collaborations set to influence the direction of fintech in Saudi Arabia."
+    excerpt: "After two thrillingly eventful days, World Fintech Show, Powered by Revival Lab, Fintactics, and Arbah Capitalconcludes"
+    publishedDateTime: 2022-12-22T15:18:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/12/a30176367/world-fintech-show-features-dynamic-collaborations-set-to-influence-the-direction-of-fintech-in-sa"
+    ampWebUrl: "https://www.benzinga.com/amp/content/30176367"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30176367"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 25
+    images:
+      - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
+        width: 800
+        height: 313
+        isCached: true
   - title: "Salter Brothers tips into payments fintech IP Solutions"
     excerpt: "Ex-Bombora stockpicker Gregg Taylor has ruled off his first unlisted investment in his new role as head of equities at Salter Brothers."
     publishedDateTime: 2022-12-19T03:47:00Z

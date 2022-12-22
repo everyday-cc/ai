@@ -75,20 +75,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Fintech Market Analysis Research Report, Challenges, Scopes, Market Share, Revenue, and Forecasts 2023 to 2028"
-    excerpt: "\" Artificial Intelligence (AI) in Fintech Market \" Insights 2022 - By Applications (Bank, Insurance, Securities and Funds, Third-party Financial Company, Others), By Types (Deep Learning, Machine Learning,"
-    publishedDateTime: 2022-12-18T01:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-analysis-research-report-challenges-scopes-market-share-revenue-and-forecasts-2023-to-2028-2022-12-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Computer Vision Development Market : Industry Analysis 2022 To 2028 based on Sales, Revenue, Size and Share"
     excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Computer"
     publishedDateTime: 2022-12-20T05:11:00Z

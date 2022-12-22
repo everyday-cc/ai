@@ -133,6 +133,34 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Tesla driver alleges ‘full self-driving’ caused eight-car pileup"
+    excerpt: "Tesla warns drivers that “full self-driving” “may do the wrong thing at the worst time.” Tesla’s “full self-driving” software is under investigation after a driver claimed it caused an eight-car collision in San Francisco."
+    publishedDateTime: 2022-12-22T17:12:00Z
+    webUrl: "https://knowtechie.com/tesla-driver-alleges-full-self-driving-caused-eight-car-pileup/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 39
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2022/01/tesla-badge-frunk-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Tesla Driver Blamed ‘Full Self-Driving’ Mode for 8-Car Crash"
+    excerpt: "A Tesla driver told police his car was in “full self-driving” mode when it suddenly braked, leading to an eight-car pileup on the San Francisco Bay Bridge last month, according to a California Highway Patrol traffic crash report."
+    publishedDateTime: 2022-12-22T18:35:00Z
+    webUrl: "https://www.thedailybeast.com/tesla-driver-blamed-full-self-driving-mode-error-for-8-car-bay-bridge-pileup"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 39
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_576,w_1024,x_0,y_106/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1671722489/GettyImages-1244600092_pp1bva"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Tesla 'full self-driving' triggered 8-car crash on Bay Bridge, driver tells police"
     excerpt: "The driver said the Tesla's \"full-self-driving\" software braked unexpectedly and triggered the eight-car pileup that led to nine people being treated for minor injuries, according to a California Highway Patrol traffic crash report."
     publishedDateTime: 2022-12-22T02:14:00Z

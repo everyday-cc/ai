@@ -18,31 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "Not everything we call AI is actually ‘artificial intelligence’. Here’s what you need to know"
-    excerpt: "Artificial intelligence has arrived. But what is it, exactly – and what’s behind some of the most splashy AIs we have encountered to date?"
-    publishedDateTime: 2022-12-22T03:50:00Z
-    webUrl: "https://theconversation.com/not-everything-we-call-ai-is-actually-artificial-intelligence-heres-what-you-need-to-know-196732"
-    ampWebUrl: "https://theconversation.com/amp/not-everything-we-call-ai-is-actually-artificial-intelligence-heres-what-you-need-to-know-196732"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/not-everything-we-call-ai-is-actually-artificial-intelligence-heres-what-you-need-to-know-196732"
+  - title: "OTTO Motors Named Top 20 AI Companies to Watch in Canada"
+    excerpt: "OTTO Motors, a leading provider of autonomous mobile robots (AMRs), has been acknowledged as one of 20 AI companies to watch in 2023 by the Vector Institute, a not-for-profit corporation dedicated to advancing AI."
+    publishedDateTime: 2022-12-21T12:01:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/otto-motors-named-top-20-ai-companies-to-watch-in-canada/article_b33848e7-e67e-56f6-bb9f-c54f47cad365.html"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 47
-  - title: "AI image generators: everything you need to know"
-    excerpt: "AI image generators are the most radical new development we've seen in the visual arts for some time – perhaps since the advent of digital photography. The technology has advanced massively in the last year,"
-    publishedDateTime: 2022-12-21T10:15:00Z
-    webUrl: "https://www.digitalcameraworld.com/features/ai-image-generators-everything-you-need-to-know"
-    type: article
-    provider:
-      name: digitalcameraworld
-      domain: digitalcameraworld.com
-    quality: 37
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/MkLLsUGUEnNwvRRFaygwu3-1200-80.png"
-        width: 1024
-        height: 576
-        isCached: true
+      name: The Bakersfield Californian
+      domain: bakersfield.com
+    quality: 19
 
 secured: "cxBd9+oKCavNyc4Zi0gUaSX9jLlf6kWUlhvrA8vMdzAMCHO8yrYpbnPhsHiC4BJeEfBXkWOahpZIsm3C4lPdce1AezHPONl06tEyaX7GzhcYY/Zo+BNyZDo3RdWaG6Vb1seqp3EOlyWyt/+KNgYdAT41pT+wmpWrcdVAEtwWCCyQ3lqt5FHhu9LVKXO/YrlEmFcSonaW+K9n0KPyDxYUtK8nvad9ym8TZJKS7h3x/FgUw+3ZecB4EcmAbS0yzW59sGPLJbGijfEGLm5R7P+YMSSrociaVwNL1evp9II+1MxH10Dh51sEfHtAdsZPTWrL11TRHW8CAPRfsDoFmzJSFR3g5/CZ2AE8VkpPtMaNGTFhF3Tqa9NDLFQE0i21GzyDOXrFxczH5sLKBoAjfoiKgiSNBQd5WjQrhBq48DVFhIMAGoAfPWvFq70J/thVFFhMjFZBQamzagJvvlBA1hVEorAUsQg+JAgGkyLRkMQJaqoBcIlLNrVu/6sWMFjk1TbyPXngPUh044XYYhFxCIoRtw==;2bbYiuzU6TRQmOoEGT1tdw=="
 ---

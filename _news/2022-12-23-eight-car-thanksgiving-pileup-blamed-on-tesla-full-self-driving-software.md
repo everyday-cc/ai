@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/cars/2022/12/eight-car-thanksgiving-pileup-b
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2022/12/eight-car-thanksgiving-pileup-blamed-on-tesla-full-self-driving-software/amp/"
 type: article
 quality: 87
-heat: 197
+heat: 217
 published: true
 
 provider:
@@ -137,6 +137,34 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Tesla driver alleges ‘full self-driving’ caused eight-car pileup"
+    excerpt: "Tesla warns drivers that “full self-driving” “may do the wrong thing at the worst time.” Tesla’s “full self-driving” software is under investigation after a driver claimed it caused an eight-car collision in San Francisco."
+    publishedDateTime: 2022-12-22T17:12:00Z
+    webUrl: "https://knowtechie.com/tesla-driver-alleges-full-self-driving-caused-eight-car-pileup/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 39
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2022/01/tesla-badge-frunk-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Tesla Driver Blamed ‘Full Self-Driving’ Mode for 8-Car Crash"
+    excerpt: "A Tesla driver told police his car was in “full self-driving” mode when it suddenly braked, leading to an eight-car pileup on the San Francisco Bay Bridge last month, according to a California Highway Patrol traffic crash report."
+    publishedDateTime: 2022-12-22T18:35:00Z
+    webUrl: "https://www.thedailybeast.com/tesla-driver-blamed-full-self-driving-mode-error-for-8-car-bay-bridge-pileup"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 39
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_576,w_1024,x_0,y_106/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1671722489/GettyImages-1244600092_pp1bva"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Tesla 'full self-driving' triggered 8-car crash on Bay Bridge, driver tells police"
     excerpt: "The driver said the Tesla's \"full-self-driving\" software braked unexpectedly and triggered the eight-car pileup that led to nine people being treated for minor injuries, according to a California Highway Patrol traffic crash report."
     publishedDateTime: 2022-12-22T02:14:00Z
@@ -179,6 +207,6 @@ related:
       domain: eastbaytimes.com
     quality: 12
 
-secured: "6A5AwUmmDXgtzNnhm5zJjA9K2KcFt41ZToFxeAaz+zDrO/TWfC2LF04Xlx2+UKQqHVgC0PlHXtf1rKt7g8Pz3agnXiXBW6/Hq36Dp2BCcO0JZ2+ax6r0RqgpIZJzUpBSVfkgOAL7D4jtKQNICqlgGOEWWm0ovLHBZM/UwnWvqCG9/7YVkoVqzNoK0pIjjdnwU8BowgMSht7YLFGQVTB7ZQ40zVrg1vdcRIz2RrCMKq0PlODU86Oy/nUsml4136hPCXsDap226ZHF7yYE1tnTnOIgrk6CHkl4p0ufJaiMvXe+v91HSM+Et9Qw44fs1sTxGEJnVRfYFtHeTAYB4sHTCY1B0qLI0GSNRJvFCyl3Mgw=;iVJ0lB5roFh95yKTbPD31g=="
+secured: "cf2T/2oOx0NFaxkfLDBNqq7QYI7I1+G6qmyCn9IOKgCPYtLz88E8PXgtVjjDGkuqdxWAHLNYuGxR76Y0HVC9h12dPKbt2Jdwai+OuA+emdmJUgf870MdbnSyyYZvE8J9ur4q7G8bhyizcAIv1buR0Gtc2iR6pL6bJr9Y4fd3AOkYoAGny+8rNPO+BRb+/22oCj5ZnFhLcjlu5sK8JPUXWLQ45GkMy4QjJQdR9SFV8py+5LspItPG9e7aKm0pYz4XKC0dcU74NbUe63+IpZ+OnErNPU8AsuGHbe3SdyaXCc9B+sGvJ8lEhVq/PZRdPLAFYlETVVsmNSR/HbouxXW+cTbdRd882i9W1wPgLeyfk0CwvBc+kBcfyfIEdt/3+YrxzKdYrZP2PLNjo9UPMutsW+07KQLGq5V//TEtzFBbXBy6ZzzO5D5l4ouVytFM4fULsl+T0JlRHNF3QZuLTEqqowt0r7oSef67L8PnsvZfZDNsB6yI4xLZM51E/8ZFcJLS7zlv+Gp5/lSRsDtXCagSkw==;ml8gMQFQZQA8Mogzk3BSDg=="
 ---
 

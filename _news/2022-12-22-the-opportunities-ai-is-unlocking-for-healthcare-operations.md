@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/the-opportunities-ai-is-unlocking-for-hea
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-opportunities-ai-is-unlocking-for-healthcare-operations/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 54
+  - title: "Biased Artificial Intelligence Is Costing People Job Opportunities, And Much More"
+    excerpt: "By Damien Philippon, Founder, Zelros Getting a job is already hard enough. And for the 1 in 4 Americans who suffer from a disability, securing one can be even harder. This shouldn’t be the case"
+    publishedDateTime: 2022-12-22T12:02:00Z
+    webUrl: "https://www.cyberdefensemagazine.com/biased-artificial-intelligence/"
+    type: article
+    provider:
+      name: Cyber Defense Magazine
+      domain: cyberdefensemagazine.com
+    quality: 32
+    images:
+      - url: "https://www.cyberdefensemagazine.com/wp-content/uploads/2022/12/Article-Graphics-11.jpg"
+        width: 697
+        height: 526
+        isCached: true
   - title: "AI can potentially assist future firefighting operations: Research"
     excerpt: "The worst flames in firefighting are the ones you don't see coming. In the midst of the chaos of a burning building, it's difficult to spot the warning signs of impending flashover -- a deadly fire phenomenon in which nearly all combustible items in a room spontaneously ignite."
     publishedDateTime: 2022-12-19T13:01:00Z
@@ -66,6 +80,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "0pSp414O6YreCmaMLRtWol7pCebh0/DWp14bGTNR43wGWWOVQ0ssfjU+l1iOX3GC1s9V3eEQxfHxltcwMNg5fRfBJ/CWXAgChWakJrvfmZXBk3bGipoltjT1suXwz6Pw2dHKMkkRHQZ8ckkVy9disI70hMQmMwTxvHMkgXtOZ7+ornwOerbpI5/jeFMZpvNI2Ol96H158wGmbnF+BwT+OeVNzupkoLG4t9hvqKJRG7Nafa/UNhyMwy/dAoI/2WTmAwGZfA0F26KNl/oAOPlo5oZ2lF342hrf20YpfVZsQzq2EOAbK9350SUi/ZrV2PuUWEgnP1FZm3RZF+u7uReBYMwEaSGhk1hbCZsiEhmipK4=;sP5fT726OgfEq5cTrKUwaw=="
+secured: "iLspGm9t49OQC6UTL8Tvp4qmYRxez5XV/y5Ga4jIeGmYZx0Eab4rzcPc1JAAnjblHPNyK5bCNV6VYVM/8MCW081FWbQwWyS4dpzmisLR1bxV3TnnvG0/89Gs5ZbH7tcQ+QabAvrGTsDVMft81oowSnuHpioSNYVF2JY95n6O5O9QgaBXKrgPXXC9cn3jukc2/eJy1Vu5o5jwteUIu8lkPW0swbsS0S9UknUAOegbsJRrAgWpEqG+biPlvpHVxrT9vPQhlYhIg14NxTb5dEvX5SiFmmiwS3ftDU3wfMLWePMeT3Qbzqcypi8hB0TDEztR3VqfTkscSmLeqqagQ7SRS/wgPUVDAiuUdiYA4TAmVA8J42fjbTW03sTWrvQDJP0HPdRRekePqQJorDKPlm7shP/6aO5Y4xtYxCcYq74tt63u63Y6ufZMGNuSjqykrZHhUCSLcrDUT9yhDZwpt5WEe5z6Ri9YNBpLyUo+HGJBEuhgB5gbOZXrLaiMCB26VUoYfVxQyCrxWzGie6Un96MxjQ==;qa2mlz0vDZt22i74ga7wbw=="
 ---
 

@@ -53,6 +53,20 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 54
+  - title: "Biased Artificial Intelligence Is Costing People Job Opportunities, And Much More"
+    excerpt: "By Damien Philippon, Founder, Zelros Getting a job is already hard enough. And for the 1 in 4 Americans who suffer from a disability, securing one can be even harder. This shouldn’t be the case"
+    publishedDateTime: 2022-12-22T12:02:00Z
+    webUrl: "https://www.cyberdefensemagazine.com/biased-artificial-intelligence/"
+    type: article
+    provider:
+      name: Cyber Defense Magazine
+      domain: cyberdefensemagazine.com
+    quality: 32
+    images:
+      - url: "https://www.cyberdefensemagazine.com/wp-content/uploads/2022/12/Article-Graphics-11.jpg"
+        width: 697
+        height: 526
+        isCached: true
   - title: "AI can potentially assist future firefighting operations: Research"
     excerpt: "The worst flames in firefighting are the ones you don't see coming. In the midst of the chaos of a burning building, it's difficult to spot the warning signs of impending flashover -- a deadly fire phenomenon in which nearly all combustible items in a room spontaneously ignite."
     publishedDateTime: 2022-12-19T13:01:00Z

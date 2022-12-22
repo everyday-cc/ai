@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gadgets360.com/laptops/news/intel-graphics-chips-unit-sp
 cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/laptops/news/intel-graphics-chips-unit-split-nvidia-amd-accelerated-computing-competition-3628340/amp"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Intel splits GPU group into two separate units"
+    excerpt: "Restructuring move puts Intel's gaming and data center products into separate categories to better serve both markets."
+    publishedDateTime: 2022-12-22T17:11:00Z
+    webUrl: "https://www.networkworld.com/article/3684112/intel-splits-gpu-group-into-two-separate-units.html"
+    ampWebUrl: "https://www.networkworld.com/article/3684112/intel-splits-gpu-group-into-two-separate-units.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3684112/intel-splits-gpu-group-into-two-separate-units.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2018/02/hardware_circuit_board_cpu_microprocessor_motherboard_binary_code_thinkstock_614863084-100749699-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Intel splits up GPU division AXG Graphics Group"
     excerpt: "Intel will split its Accelerated Computing Systems and Graphics Group (AGX) into two different branches. Consumer GPUs move to the Client Compute Group"
     publishedDateTime: 2022-12-22T13:08:00Z

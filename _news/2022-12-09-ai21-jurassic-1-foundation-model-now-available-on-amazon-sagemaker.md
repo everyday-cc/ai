@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://i0.wp.com/www.ksn.com/wp-content/uploads/sites/13/2022/12/American-Legion-toy-run.png?w=2000&#038;ssl=1"
-    width: 1214
-    height: 678
+  - url: "https://i0.wp.com/www.ksn.com/wp-content/uploads/sites/13/2022/11/Sedgwick-County-Zoo-Chimpanzee-1.jpg?w=2000&#038;ssl=1"
+    width: 1008
+    height: 756
     isCached: true
 
-secured: "I4+WRGxrUhPg6We0C9EtAZQ6SCUB2nbgRJLCD+Sdd6nF/MH6/v2B0eRuoQtFL/TEJ2zf703JcyYbZ5MZy1crlh5wslXdlVE7GV//KJcc6SXmLjY00AF06OKPtXmKjOe1F2Y2fz+ph9vFbjzK+S9H1orrDOU3DYjo7k/HgFmbv0fU0LZt3JLNHaYD/nLII/2aIscLRKxUZE+3/f8nD8apVrdYVrWfMQy7euEubbyvpEvzSk7ornf2JOpBwGMO92aTd3cIMqdr6GVetLoe95rBa0sFdS9pRAVZ48iuj0dqLun42g57LbC95yVZ30ikXHwLjFfEsmFrBPnB/DV2/Y9D/Qj7CwQSs+cpgmAsbWTZdhs=;sKfswrRW+ecqZk8rm8/niw=="
+secured: "B+wcUMVtqlt80voFYEyDQuv713xqdFWxAJnVN8gQTxDg023s02UkMAryPIHO0JkrZ1cSjr4UA8rShvBqjRvdY0pLESeKn3oZcQUDSDjmBWbUXHesJj1VUIZ2T6hEL4ZfsK9TKS5fr8YGNaf7SQ7+ix1eRyTQqqoZbXs7StsgN1p873A69DGj+bmtXxZs8mbThHdfZ5VICvHsMzUZF4dIaAQIEmyyE4njs3awQtY9hNKfoJVGuxtA9EDwCq4q22XT3FdHVdWQV3ArDHem8msYSdytZTiaCCWxDbHT7oePZA1GUlJrjAD1XL+xHH1xvynSPOpsEpEdv6uwM74jHdhoFeZK9YgvCBOY9cN90/B3+aM=;bAx27tZ9+Vvqk1XhrP+/0g=="
 ---
 

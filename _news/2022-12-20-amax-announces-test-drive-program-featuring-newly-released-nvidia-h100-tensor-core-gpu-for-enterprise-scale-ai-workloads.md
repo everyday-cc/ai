@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/30147469"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30147469"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 800
     height: 313
     isCached: true
+
+related:
+  - title: "Nvidia may be working on an enormous quad-slot GPU"
+    excerpt: "The Nvidia RTX 4090 is a great GPU, but Nvidia may have something much more powerful in the works -- a new version of the Titan card."
+    publishedDateTime: 2022-12-21T17:38:00Z
+    webUrl: "https://www.digitaltrends.com/computing/nvidia-titan-ada-gpu-renders-quad-slot-gpu/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/nvidia-titan-ada-gpu-renders-quad-slot-gpu/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/nvidia-titan-ada-gpu-renders-quad-slot-gpu/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2022/12/RTX-4000-TITAN.jpg?resize=1200%2C630&p=1"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "S188Ff+7GR1CLOfzKguqtwptDS3U4Nyq3upvWDIhf4TXSyh92PcuEJVaTtY8iNQH/pI4LGDOBkj+vVZXACV2i+5ggw7uqPy88dVGIItgcOsdlelRm4/PLz90J9JA4mAwDUWM3tJ4Dr72HKp53PGJV58ESuLLs4lPxXxu5ffUgLdg/fkKrwhCrxXwvCIUKIXrEQx15XWc4UmF+6cK8DIt3EaYNz1CdQsMGlQ3RhTPlFOg+I4PVXlVKtDZggLS8LwedgKg+PGIxhELyKJeF/mh791/NdmlmJezmtKNEPgzkURFKq88kFqs5OBLYqUxMBovxIlEqButrcnXSlx7wcI3cIUGgzFQ4yGxJ27tov2vKT8=;4/lvPUwwxYGuO389tv2Azw=="
 ---

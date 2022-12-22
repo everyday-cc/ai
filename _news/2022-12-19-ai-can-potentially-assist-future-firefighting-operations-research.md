@@ -60,6 +60,20 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 54
+  - title: "Biased Artificial Intelligence Is Costing People Job Opportunities, And Much More"
+    excerpt: "By Damien Philippon, Founder, Zelros Getting a job is already hard enough. And for the 1 in 4 Americans who suffer from a disability, securing one can be even harder. This shouldn’t be the case"
+    publishedDateTime: 2022-12-22T12:02:00Z
+    webUrl: "https://www.cyberdefensemagazine.com/biased-artificial-intelligence/"
+    type: article
+    provider:
+      name: Cyber Defense Magazine
+      domain: cyberdefensemagazine.com
+    quality: 32
+    images:
+      - url: "https://www.cyberdefensemagazine.com/wp-content/uploads/2022/12/Article-Graphics-11.jpg"
+        width: 697
+        height: 526
+        isCached: true
 
 secured: "uAXElViKood85Qmfe/P9Db/gTYoYRniBo2MzyzjlyXZb7uChguSlphxDqosgoWnud1GsuwceRVQFHZ4bqtKFH50GWAdeKr5rDt/2GRc6ctGpBEKqIYRkfygM2+Nq5RLtaRyBUpBbPWG+SHoFNEG/BqpV1S4LhYLCBfY7SdRD9JUC2aA4AEYtjcougR3PmUX0Ql5aBhn/POwUWoM27bwiF/M6G3/7igfE7KSFiO8sTgrOe/8lMgJt8yX95DroAkliMheVEAJIhOnHDcjaWdcjyeeVVze5ANMFCyXgNs6RZS6wUqqPHVzpixSb1h8664xjUXek1ooEyQFvz1jq29TXsWWXYrJbCJsrwuHIgIzm1PY=;REv34vyjdVWmF7tKNwg49Q=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/qai/2022/12/22/want-to-invest-in-artificia
 ampWebUrl: "https://www.forbes.com/sites/qai/2022/12/22/want-to-invest-in-artificial-intelligence-here-are-6-front-runners-in-machine-learning/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/12/22/want-to-invest-in-artificial-intelligence-here-are-6-front-runners-in-machine-learning/amp/"
 type: article
-quality: 96
-heat: 96
+quality: 104
+heat: 104
 published: true
 
 provider:
@@ -23,6 +23,10 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Robotics
+  - AI in Healthcare
+  - AI in Autos
+  - AI in Finance
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/63a479ab4db81071989a89e7/0x0.jpg?format=jpg&width=1200"
@@ -30,6 +34,6 @@ images:
     height: 814
     isCached: true
 
-secured: "K66JaA4++OKGle++gtDaTLupR8ZIJQ/be7q+Aq49QarTP8bYxiU5L9a2WW4OWJcUFPsBtmCbbHsNNLBubERxkiDmNmAV56lA0o847zTzr9dyU8VR1jqZTezVzYz7eWW5d2zrwi2fHmaCcu3TNY26u3B6kUMU4U6DOiYjVaAow2/nrEB3q5V0jkeDgwrxDBgr2w6cHe/3io0WtRiivxwoTZNTSnWqDY8UvcyFzslmuNLJyxcmE5kr0tRqOGeiwZyUlSdmT5iJSbZ9EPENRDmbT3+yh1r1p2LFUYUpORIWXymcW2CvBxCyrZY1QdLDq7G0h21Qm48164yy6mtwrTVufdi9xy5Zb30XN5VBmgACYuk=;Oa3n8YxL7Iq10krGlEjANg=="
+secured: "XxgZ5BOVEY7Fi9ceA4AlT4QSSnUFZDU+2UvbO7MSkSLDUKMBKGoQ12JUZxZR9BWP5MkhGr8UAk5/lrRDN4ImL+8unv/61A5UrtlKgGmTD2gT/usqKbgXHPTS0PHbI8Ja9BqwNUf15OrnVZMusLt0MdUz6OnoLYhNQr7JwxMhdRqK6lSGAQBg03I9a9IcliRLPybYQMbYDnZkfLWrutzcyZ38b3qLmam08T8ohyYlJYe7mrFQPDDZ5+LjKUgQWzc9ai72HYl9Xb+zkl8WlSRsZAYHFweDQGpKlRAm09Rhq6npV0BD9zimlRrydBRKUtvHXVikH3s5k40pYXBdgONHm+eL4Xm4dK9Hizf7uWrQi7+2ZWfwjLT2TTUL+qIBKDGsq2aDAk354lUhTilcreRCi6RRr7gfAf2Z0FIraedYz4TrD7F+P+IQPhvgNnY4DEl6P7+9TlgJ9p2TwQjYD+rU0uWNiVGs0xXT4Obbh1IVQXOP+d28kA+bFQ5ajd8LqlqVckrJudhdNmDbqzsj+MVwzw==;vR0HxZ+42SzaXm74Mecr0g=="
 ---
 
