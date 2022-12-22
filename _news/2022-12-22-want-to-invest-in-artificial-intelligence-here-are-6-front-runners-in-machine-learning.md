@@ -27,6 +27,7 @@ topics:
   - AI in Healthcare
   - AI in Autos
   - AI in Finance
+  - IBM AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/63a479ab4db81071989a89e7/0x0.jpg?format=jpg&width=1200"

@@ -15,12 +15,6 @@ topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://i0.wp.com/www.ksn.com/wp-content/uploads/sites/13/2022/11/Sedgwick-County-Zoo-Chimpanzee-1.jpg?w=2000&#038;ssl=1"
-    width: 1008
-    height: 756
-    isCached: true
-
-secured: "B+wcUMVtqlt80voFYEyDQuv713xqdFWxAJnVN8gQTxDg023s02UkMAryPIHO0JkrZ1cSjr4UA8rShvBqjRvdY0pLESeKn3oZcQUDSDjmBWbUXHesJj1VUIZ2T6hEL4ZfsK9TKS5fr8YGNaf7SQ7+ix1eRyTQqqoZbXs7StsgN1p873A69DGj+bmtXxZs8mbThHdfZ5VICvHsMzUZF4dIaAQIEmyyE4njs3awQtY9hNKfoJVGuxtA9EDwCq4q22XT3FdHVdWQV3ArDHem8msYSdytZTiaCCWxDbHT7oePZA1GUlJrjAD1XL+xHH1xvynSPOpsEpEdv6uwM74jHdhoFeZK9YgvCBOY9cN90/B3+aM=;bAx27tZ9+Vvqk1XhrP+/0g=="
+secured: "3tpcHzy4cZSZqpTr2NNwTorm5p9Rgd4Qg3hdRgbNB2seK3qTs/RIG5DWqOIGmbt1AGd01O7Rgx9fHfqG9eM1HjtA/qzafbuN/lOGxsjGmNQQrUnVZnKQhxCTMEDfHbrtinkIQlyECg2+atFrhmaCX4we1jjjhCMyw3cgr0L1X0X7P17LQdzAJ5SBWtPxHp/YV4PY9H3IcNQLXuH+euDz9Qpu0lLhGq+XWSqeph5db60c9kbDy6kcVUx7kVmZISLM31IZYV/FRmzT4zmv66+cNWIsMJ00YK/0x0YDmrzu4qm984ruRdtldAV5WB32K9mlGC3laKabiygHakAJsdHbTAYM0BgaeEjmbMacPH7WLe0=;ZpppSiI0fQ2zbypL319qeg=="
 ---
 

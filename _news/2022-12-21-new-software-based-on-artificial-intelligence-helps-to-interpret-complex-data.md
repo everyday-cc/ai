@@ -6,9 +6,6 @@ publishedDateTime: 2022-12-20T19:52:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2022/12/221220112957.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/12/221220112957.htm"
 type: article
-quality: 46
-heat: 46
-published: false
 
 provider:
   name: Science Daily
@@ -22,6 +19,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "JFjAAUxbxiRwk6bsIlHFGYY117OUrPkYWLjhEHRp5CUNouBEKuxkcWYBnpCMHpSPUfx1OWemCnhFAOhCtJAMpMRcmve1IijVrXNineRQhasmbpdZiGnKao/dT2KoTuvUcGZGZ1gEem+bJ39vbMfpk1GsYNE4PVMk99Hm6mjNNmX1ORKzIjUwEuXIYyT/SYbqafuF9mSrJ/d0xq8aPwh50lNw5/q2aubuHBNqGRtov3NNNvoFXEGpNwS5ZJx/qVBYkztZTb885lBwGg8j5sZkWKJ6lxy5IDvPNL+5VVcbh1MwzvhX9+kStrVaKoumJqPpcde7Y3zgD+Ih7LY7ujyY9uhmMxsTZKw058ZiVgCUsC0=;2gF6i6EFkuLcb2SVYunF5Q=="
+secured: "vGA/2rYyN3evhBbGk1PTjey0x6PiNjNfw6R5WTIJviHjSqD/eXQRlwI2PNt0LLhwtDfreYasqBZRVXSUF5G5Dscp/Br8FdcalrhulUuywr4Z8FcWAo0SFeWafbRABVK/pa0h9qxg4ov8b/F2iDAsKCYObhqmdX2UL52tKYRSLXV0wCcFf/TTpfmCPMZY9dUyq1WEwRme2ylTraRLxDSNIbz1c5PB8p7ju3lY+8IigDmHG0LNYT/CW5y6cikAvjt2YuZKbHx+6qTToTpROwFwnNc9OKpqekvoWli2EVLqD2wR7ChoC7DSsp3gqw+CVqdzpdANI3fOEMasC1B0gjyav+zcjjKEIq1i68gCfVv4nws=;wYUELv4y/THrSHk+LAsxvg=="
 ---
 
