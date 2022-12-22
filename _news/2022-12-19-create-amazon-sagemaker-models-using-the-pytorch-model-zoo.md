@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/create-amazon-sagema
 webUrl: "https://aws.amazon.com/blogs/machine-learning/create-amazon-sagemaker-models-using-the-pytorch-model-zoo/"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1566
         height: 781
         isCached: true
+  - title: "Get to production-grade data faster by using new built-in interfaces with Amazon SageMaker Ground Truth Plus"
+    excerpt: "Launched at AWS re:Invent 2021, Amazon SageMaker Ground Truth Plus helps you create high-quality training datasets by removing the undifferentiated heavy lifting associated with building data labeling applications and managing the labeling workforce. All you do is share data along with labeling requirements,"
+    publishedDateTime: 2022-12-22T19:36:17Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/get-to-production-grade-data-faster-by-using-new-built-in-interfaces-with-amazon-sagemaker-ground-truth-plus/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 50
 
 secured: "TYlcaOTNxVRnToi1+euVff6C15e9jb8U2eEzCFVKac5fXoPvG8m+NcZAogNXqinUhCYDek7s5HzOicxaimDalzugUgYav5HskO7c0aqnQirITBWOFbhHDe5DajdWTPMhBls8nhilyalZ6qvkALtHY7Yv6nW6hOh099uvhOAdnHNOVqAVIAfuV2kLy5Wdhix8XWAVkHoup9pGO5/ZdIZL6oA6eRXoxOHFM6RiF/mpy5ylgPrbNLypOcRskqha6uaybSueNRyYsyxTIOoxzlw9XroFv8/W2zKlAOLx6lvlm+G34b+OYpuWC1l7uckILEucGFWx7d8d31T4Uu+n7PYvGvSINN7mO3gf8cRhxhZg+0E=;KnI1Uml3Up0r+GedNOg5eQ=="
 ---

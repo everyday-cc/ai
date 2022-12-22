@@ -7,7 +7,7 @@ originalUrl: "https://www.electronicsforu.com/news/whats-new/machine-learning-mo
 webUrl: "https://www.electronicsforu.com/news/whats-new/machine-learning-model-to-predict-disastrous-events"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
 
 related:
   - title: "Study shows how machine learning could predict rare disastrous events, like earthquakes or pandemics"
-    excerpt: "When it comes to predicting disasters brought on by extreme events (think earthquakes, pandemics or \"rogue waves\" that could destroy coastal structures), computational modeling faces an almost insurmountable challenge: Statistically speaking,"
-    publishedDateTime: 2022-12-19T16:00:00Z
-    webUrl: "https://techxplore.com/news/2022-12-machine-rare-disastrous-events-earthquakes.html"
-    ampWebUrl: "https://techxplore.com/news/2022-12-machine-rare-disastrous-events-earthquakes.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-machine-rare-disastrous-events-earthquakes.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-2.jpg"
-        width: 1920
-        height: 1316
-        isCached: true
-  - title: "Study shows how machine learning could predict rare disastrous events, like earthquakes or pandemics"
     excerpt: "Researchers suggest how scientists can circumvent the need for massive data sets to forecast extreme events with the combination of an advanced machine learning system and sequential sampling techniques."
     publishedDateTime: 2022-12-20T22:33:00Z
     webUrl: "https://www.sciencedaily.com/releases/2022/12/221219123859.htm"
@@ -50,6 +34,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 34
+  - title: "Study shows how machine learning could predict rare disastrous events, like earthquakes or pandemics"
+    excerpt: "In a new study in Nature Computational Science, the scientists describe how they combined statistical algorithms — which need less data to make accurate, efficient predictions — with a powerful machine learning technique developed at Brown and trained it to predict scenarios,"
+    publishedDateTime: 2022-12-19T23:22:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/974778"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 4
 
 secured: "rd/Yt1F17a+a/81MMF5ENAJXuh+FwdYG7cC4L8cjXwcNOeIhHBSn7sI80CVb6w0KRHz+wFCwrbYTLAScGo7oOmVj/mZB9EFjPMMbQvjqj2isVesDr1etpHNs//YlaAYPvIXrGXYj9ky+4grwKptSzZH0WaDUgUqG6x5h/jTF1soMJAl+u0P/VHtNYjwaYbOMv1+E1vs7SfTbyZImpmPxmvb/pR8JknTorhc31qOylfNC2le/Q8gSLuJE7LCLna8DUGLtyXHDgMLdcrWmq1NHfztQWo3lD6saCOURyV9fpDosQ2ajFbjPEm3ot/vIiVxzwvcEmtVc862qXJcp9GAkExwiwJinkdbGWyzBMa3HTQg=;rkecA7UCNeQiO3LxlZEiyw=="
 ---

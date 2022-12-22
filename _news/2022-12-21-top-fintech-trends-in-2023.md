@@ -155,6 +155,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "World Fintech Show Features Dynamic Collaborations Set To Influence The Direction Of Fintech In Saudi Arabia."
+    excerpt: "World Fintech Show features dynamic collaborations set to influence the direction of fintech in Saudi Arabia. <br /> After two thrillingly eventfu"
+    publishedDateTime: 2022-12-22T21:08:00Z
+    webUrl: "https://menafn.com/1105344144/World-Fintech-Show-Features-Dynamic-Collaborations-Set-To-Influence-The-Direction-Of-Fintech-In-Saudi-Arabia"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 5
+    images:
+      - url: "https://menafn.com/updates/pr/2022-12/22/AN_d1241dbd-b_Image_In_Body.jpg"
+        width: 604
+        height: 430
+        isCached: true
 
 secured: "hg3EnLMFQK8OirqmDlxNGF75mjDbyPM5E45mSnL9xCxH4Z9JmI3mcT240yaQX7xZVtvUUyxS1U3ulcj5AWHb6q0XAjTXV2NswN/qM9rfGCCCycvD/JxWGwUZeZPZlNvPCF9sFq1qfN6P4K6KRN0fUl0HT7axObfoo7wAqqxtXnQZH//uBnSzOQXWW8vafLFNsKe9Q41jlloOFVPfXBq0gE3iRGe7EKNhbwyLV5J0wZj/dxMU0o0T6j+K85YsLdagNqK1+p8wYj7No0hJsVFMhtbU1lx8Hc95htSuugEDlM9OqDz6OdrtH4d+7kc2KvB0IwbgiwhLbYwXCRa3smzEafOHjGAQFmS0ADMs9juHA5k=;TGgVYGj23uz6pPu9ocrsmQ=="
 ---

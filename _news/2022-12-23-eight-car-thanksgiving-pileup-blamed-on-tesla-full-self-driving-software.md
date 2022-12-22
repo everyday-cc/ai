@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/cars/2022/12/eight-car-thanksgiving-pileup-b
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2022/12/eight-car-thanksgiving-pileup-blamed-on-tesla-full-self-driving-software/amp/"
 type: article
 quality: 87
-heat: 217
+heat: 227
 published: true
 
 provider:
@@ -197,6 +197,15 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 16
+  - title: "Tesla Driver Who Caused Eight-Car Pileup Blames Full Self-Driving Mode Malfunction"
+    excerpt: "The Tesla performed a dangerous maneuvre on the highway causing an accident at the San Fransisco Bay bridge on Thanksgiving"
+    publishedDateTime: 2022-12-22T21:00:00Z
+    webUrl: "https://www.carscoops.com/2022/12/tesla-driver-who-caused-eight-car-pileup-blames-full-self-driving-mode-malfunction/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 13
   - title: "Tesla ‘full self-driving’ triggered an eight-car crash, Bay Area driver tells police"
     excerpt: "The crash occurred about lunchtime on Thanksgiving, snarling traffic on Interstate 80 east of the Bay Bridge as two lanes of traffic were closed for about 90 minutes as many people traveled to"
     publishedDateTime: 2022-12-22T13:08:00Z

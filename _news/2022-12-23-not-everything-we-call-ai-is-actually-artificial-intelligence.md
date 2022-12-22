@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2022-12-ai-artificial-intelligence.html"
 ampWebUrl: "https://techxplore.com/news/2022-12-ai-artificial-intelligence.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-ai-artificial-intelligence.amp"
 type: article
-quality: 74
-heat: 84
+quality: 76
+heat: 86
 published: true
 
 provider:

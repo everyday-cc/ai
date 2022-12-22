@@ -2,6 +2,83 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-27-saudi-data-ai-authority-sdaia-and-ministry-of-energy-partner-with-ibm-to-accelerate-sustainability-initiatives-in-saudi-arabia-using-ai.md",
+      "title": "Saudi Data, AI Authority (SDAIA) and Ministry of Energy Partner with IBM to Accelerate Sustainability Initiatives in Saudi Arabia Using AI",
+      "excerpt": "RIYADH, Saudi Arabia and ARMONK, N.Y., Sept. 27, 2022 /PRNewswire/ -- Saudi Data and Artificial Intelligence Authority (SDAIA) and IBM (NYSE: IBM) announced today the signing of a strategic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbc4i.com/business/press-releases/cision/20220927NY84344/saudi-data-ai-authority-sdaia-and-ministry-of-energy-partner-with-ibm-to-accelerate-sustainability-initiatives-in-saudi-arabia-using-ai/",
+      "originalUrl": "https://www.nbc4i.com/business/press-releases/cision/20220927NY84344/saudi-data-ai-authority-sdaia-and-ministry-of-energy-partner-with-ibm-to-accelerate-sustainability-initiatives-in-saudi-arabia-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1907789/SDAIA_Image.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC4 Columbus",
+        "domain": "nbc4i.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-ibm-in-deal-with-saudis-sdaia-ministry-of-energy-to-speed-up-sustainability-initiatives-using-ai.md",
+      "title": "IBM In Deal With Saudi's SDAIA, Ministry Of Energy To Speed Up Sustainability Initiatives Using AI",
+      "excerpt": "(RTTNews) - IBM (IBM) Tuesday said it has signed a strategic agreement with Saudi Arabia's Saudi Data, Artificial Intelligence Authority or SDAIA and Ministry of Energy to accelerate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ibm-in-deal-with-saudis-sdaia-ministry-of-energy-to-speed-up-sustainability-initiatives",
+      "originalUrl": "https://www.nasdaq.com/articles/ibm-in-deal-with-saudis-sdaia-ministry-of-energy-to-speed-up-sustainability-initiatives",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ibm-in-deal-with-saudis-sdaia-ministry-of-energy-to-speed-up-sustainability-initiatives?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-in-deal-with-saudis-sdaia-ministry-of-energy-to-speed-up-sustainability-initiatives?amp",
+      "publishedDateTime": "2022-09-26T22:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-26-a-new-common-sense-test-for-ai-could-lead-to-smarter-machines.md",
       "title": "A new ‘common sense’ test for AI could lead to smarter machines",
       "excerpt": "Teaching AI common sense will be the next breakthrough in the field. But how exactly can we measure something as intangible as common sense?",

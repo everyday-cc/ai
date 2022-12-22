@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Study shows how machine learning could predict rare disastrous events, like earthquakes or pandemics"
-    excerpt: "When it comes to predicting disasters brought on by extreme events (think earthquakes, pandemics or \"rogue waves\" that could destroy coastal structures), computational modeling faces an almost insurmountable challenge: Statistically speaking,"
-    publishedDateTime: 2022-12-19T16:00:00Z
-    webUrl: "https://techxplore.com/news/2022-12-machine-rare-disastrous-events-earthquakes.html"
-    ampWebUrl: "https://techxplore.com/news/2022-12-machine-rare-disastrous-events-earthquakes.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-machine-rare-disastrous-events-earthquakes.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-2.jpg"
-        width: 1920
-        height: 1316
-        isCached: true
   - title: "Machine Learning Model To Predict Disastrous Events"
     excerpt: "Researchers have developed a machine learning model that can predict an upcoming natural calamity like earthquakes and pandemics. The world is a chain of"
     publishedDateTime: 2022-12-20T06:19:00Z
@@ -53,6 +37,15 @@ related:
         width: 800
         height: 530
         isCached: true
+  - title: "Study shows how machine learning could predict rare disastrous events, like earthquakes or pandemics"
+    excerpt: "In a new study in Nature Computational Science, the scientists describe how they combined statistical algorithms — which need less data to make accurate, efficient predictions — with a powerful machine learning technique developed at Brown and trained it to predict scenarios,"
+    publishedDateTime: 2022-12-19T23:22:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/974778"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 4
 
 secured: "mVQklU20soiDFOJUIcv6iMWxNSqk9moX+8A6rUFXfJ/4MwFeC3FAq2GyxqK81v+PLci885hElWKeo4fpjWxPHRZzzVwzN9WhmMZGT41rDCSu0MQMmn6TfcDjdByFDrS7W/MHiVSmoYfiNxnXwJT0H1D9RNON7WTlJx/3/LrpNbEFcGLC+4UhNT6jasZ8JrNCanVCuP6qVGk7riXLE7iNctBLk6xvYZar9Jl0LAup/LuaoacWJUkxE1ou5x2tZxZB4w7OykLo+0YWD420DXMHnlYfybQinGDhr1D6ETC4B3f/OMLeQaJm9rKB3Nv9WkgpxqE/mnbnToyKcqczSPp+wf94+X5QMpdionpuYA/+G+A=;0Of6J2b/fC6uiTRc9G71nw=="
 ---

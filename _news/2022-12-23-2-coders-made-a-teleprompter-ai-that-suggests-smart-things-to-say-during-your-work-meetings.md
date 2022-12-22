@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-22T19:30:00Z
 originalUrl: "https://www.businessinsider.com/tele-prompt-ai-gpt-3-bot-what-to-say-meetings-2022-12"
 webUrl: "https://www.businessinsider.com/tele-prompt-ai-gpt-3-bot-what-to-say-meetings-2022-12"
 type: article
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Business Insider

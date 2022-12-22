@@ -33,7 +33,7 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/not-everything-we-call.jpg"
         width: 1356

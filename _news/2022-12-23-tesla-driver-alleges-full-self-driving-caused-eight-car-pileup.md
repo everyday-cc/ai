@@ -193,6 +193,15 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 16
+  - title: "Tesla Driver Who Caused Eight-Car Pileup Blames Full Self-Driving Mode Malfunction"
+    excerpt: "The Tesla performed a dangerous maneuvre on the highway causing an accident at the San Fransisco Bay bridge on Thanksgiving"
+    publishedDateTime: 2022-12-22T21:00:00Z
+    webUrl: "https://www.carscoops.com/2022/12/tesla-driver-who-caused-eight-car-pileup-blames-full-self-driving-mode-malfunction/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 13
   - title: "Tesla ‘full self-driving’ triggered an eight-car crash, Bay Area driver tells police"
     excerpt: "The crash occurred about lunchtime on Thanksgiving, snarling traffic on Interstate 80 east of the Bay Bridge as two lanes of traffic were closed for about 90 minutes as many people traveled to"
     publishedDateTime: 2022-12-22T13:08:00Z
@@ -203,6 +212,6 @@ related:
       domain: eastbaytimes.com
     quality: 12
 
-secured: "d8lKhvfUqEj6eoqagJYjPkaveXfEvCa1tSPP1jvAqehlrI07l9/3bbzO/8W67H4YqplqhgZF8CuL7lMMMuZNd0QXtfXMzQNcQv+yZasYHm2r6r0ey/xGUtF49FV2YZyBGKT0DzUKkag7xcBAHMUzJ0BvlxITzJy6RE87xtBIDujJC6btAhGqb/FTPFfBAJNUFc+smCYHFpuJm7OcvIy95sY/5dpRfcVIE4qkcJQ7EkwZjspclK0A1/tGScUPbPSHhNtWlLD4N/rB7wNQ3fSDJxMePQ06eyMQRRBGMid8mBNywCb0XYVppWgxwX6UmGDeOaMTIcZYU4c3+eYGjwqMZ9gGh6saYfT3mS/Q/Hm3uIA=;Xh751+mGB1w0Fr61LK0thw=="
+secured: "WVTwjs3XcN+Krh5qmRBa6Omb12oWZx7WDbFKIaJqSAE9HWCa88L4LG5ahLaFezuCB74TUQW536M504IpIg5bwSWUke/kLNH+qdNmR5eD/WL3pTBX9o9zrr7T1BOcB5t7Khuy1FUQ+jzcS1yxYYSVsbgAX7dwIz9Nxkcl9ift51n+OSFPcvtXgWmqZ3lrNQIwkhmhUtEodm5buVNmmysliLUQFvtWxkbIb7b+ppdHcStjFrxOe9SjQnNAQuJArTOY+5kfjDorxl74ua6RkSDk/TwNH213BBZzQEQo/yBMxgfXRoJBfJS1zERtqOosGuzIZqyW/5OyLPYek6rCX+RMMn9mmV3F3id7l7NfXlQw12vJ7DQaJg1uBJY3ELsVlKWkTPwg3aepKVbjCAT938n2pI34XeYUe00JHZ8aVTOei//HeB99qVDunZwA/hCA5Y84vgMsLVhE2UHWDTVzBD0jOvTyH4yNuwRSn5n/+4cTqD05JzgA3HalmeK192X3l8pFOg/nQkPoA80i5bXacwFvpw==;BHOQzcB4hDFiyU1uikuG4w=="
 ---
 

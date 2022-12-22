@@ -7,7 +7,7 @@ originalUrl: "https://www.marinelog.com/technology/sea-machines-and-uscg-partner
 webUrl: "https://www.marinelog.com/technology/sea-machines-and-uscg-partner-on-computer-vision-domain-awareness/"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Sea Machines and USCG partner on computer vision domain awareness"
+    excerpt: "Installation on the cutter was made possible under an ongoing Cooperative Research and Development Agreement (CRADA) between Sea Machines Robotics and the USCG Research and Development Center in an effort to evaluate how computer vision systems can be utilized for autonomous navigation,"
+    publishedDateTime: 2022-12-21T19:42:00Z
+    webUrl: "https://www.marinelog.com/news/sea-machines-and-uscg-partner-on-computer-vision-domain-awareness/"
+    type: article
+    provider:
+      name: Marine Log
+      domain: marinelog.com
+    quality: 54
+    images:
+      - url: "https://www.marinelog.com/wp-content/uploads/2022/12/USCG_Famous_Class_Cutter.jpg"
+        width: 700
+        height: 525
+        isCached: true
   - title: "Sea Machines and Coast Guard Partner to Bring Computer Vision Domain Awareness to Critical Missions"
     excerpt: "BOSTON — Sea Machines Robotics Inc. has installed its new AI-ris computer vision product onboard a U.S. Coast Guard (USCG) 270-foot Famous-class medium-endurance cutter ahead of the vessel’s upcoming deployment."
     publishedDateTime: 2022-12-20T20:38:00Z

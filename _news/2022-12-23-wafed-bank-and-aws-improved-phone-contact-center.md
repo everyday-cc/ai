@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-22T19:56:00Z
 originalUrl: "https://www.forbes.com/sites/tomgroenfeldt/2022/12/22/wafed-bank-and-aws-improved-phone-contact-center/"
 webUrl: "https://www.forbes.com/sites/tomgroenfeldt/2022/12/22/wafed-bank-and-aws-improved-phone-contact-center/"
 type: article
+quality: 66
+heat: 66
+published: false
 
 provider:
   name: Forbes

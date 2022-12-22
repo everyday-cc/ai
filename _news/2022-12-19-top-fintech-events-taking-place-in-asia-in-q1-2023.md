@@ -147,6 +147,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "World Fintech Show Features Dynamic Collaborations Set To Influence The Direction Of Fintech In Saudi Arabia."
+    excerpt: "World Fintech Show features dynamic collaborations set to influence the direction of fintech in Saudi Arabia. <br /> After two thrillingly eventfu"
+    publishedDateTime: 2022-12-22T21:08:00Z
+    webUrl: "https://menafn.com/1105344144/World-Fintech-Show-Features-Dynamic-Collaborations-Set-To-Influence-The-Direction-Of-Fintech-In-Saudi-Arabia"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 5
+    images:
+      - url: "https://menafn.com/updates/pr/2022-12/22/AN_d1241dbd-b_Image_In_Body.jpg"
+        width: 604
+        height: 430
+        isCached: true
   - title: "Top Fintech Trends in 2023"
     excerpt: "With rapidly growing demand for financial services, banks are in constant competition with fintech companies, but open banking gives them the opportunity to fight this pressure by partnering with them instead."
     publishedDateTime: 2022-12-21T13:38:00Z

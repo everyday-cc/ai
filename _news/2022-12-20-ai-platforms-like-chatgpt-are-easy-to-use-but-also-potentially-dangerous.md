@@ -50,22 +50,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "All you need to know about ChatGPT, a prototype Artificial Intelligence chatbot"
-    excerpt: "ChatGPT is becoming your friend and guide on the Internet, giving advice and information almost like a human being. But can it be trusted?"
-    publishedDateTime: 2022-12-18T03:56:00Z
-    webUrl: "https://www.mid-day.com/sunday-mid-day/article/the-ai-will-see-you-now-23261139"
-    ampWebUrl: "https://www.mid-day.com/amp/sunday-mid-day/article/the-ai-will-see-you-now-23261139"
-    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/sunday-mid-day/article/the-ai-will-see-you-now-23261139"
-    type: article
-    provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 53
-    images:
-      - url: "https://images.mid-day.com/images/images/2022/dec/Christmas-nh_d.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "From DALL-E 2 to ChatGPT, covering AI’s wild year | The AI Beat"
     excerpt: "From DALL-E 2 to ChatGPT, the AI beat was challenging and overwhelming in 2022. It's been humbling. And awesome."
     publishedDateTime: 2022-12-19T19:58:00Z
@@ -107,15 +91,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 26
-  - title: "AI breakthrough ChatGPT raises alarm over student cheating"
-    excerpt: "Academics urge universities to develop new forms of assessment after launch of program that imitates essay-writing"
-    publishedDateTime: 2022-12-18T05:00:00Z
-    webUrl: "https://www.ft.com/content/2e97b7ce-8223-431e-a61d-1e462b6893c3"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
   - title: "The Architecture Trends of 2023 According to ChatGPT, an AI-trained Model Bot"
     excerpt: "As a symbol of what AI could achieve in the short term for architecture and humankind, we have 'talked' with OpenGPT about the architecture trends of 2023."
     publishedDateTime: 2022-12-21T13:01:00Z

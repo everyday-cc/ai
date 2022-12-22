@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Gender recognition reforms: A three-day slog to help trans people"
+    excerpt: "MSPs sat well into the night on Tuesday and Wednesday to ensure amendments to the gender recognition reforms were considered in full – in a bid to ensure the legislation was agreed before the Christmas recess."
+    publishedDateTime: 2022-12-22T20:46:00Z
+    webUrl: "https://www.heraldscotland.com/politics/23209852.gender-recognition-reforms-three-day-slog-help-trans-people/"
+    type: article
+    provider:
+      name: heraldscotland
+      domain: heraldscotland.com
+    quality: 24
+    images:
+      - url: "https://www.heraldscotland.com/resources/images/16295467/?type=og-image"
+        width: 945
+        height: 630
+        isCached: true
+
 secured: "RisVGbTtrYMyvCLnN8u1WVt5uzhyCWqyli0SuiDvOzbpM59NgdiK6Y/v75BC1LK754n03t/g+8YZo46JAwzsKwUlnyFaP83UjnnVxZZZBBv8t+PpsOpXHFDFSBNkE4YIyWuny1EOHpR3kg9zPO4xv2F8y6Fj8BgfCnMQtJfFTq5e+0oDaaV43sWDvSnhzQr7Ds3CIYY126tY1fUDlVftSfvGq8YVRYkPZPaMNuFR6K1ZDAumGpAvBIQh8YZdeAX7ssHxZ8Vcd+6xEHfQ8efapWiIHz8Lp26m19JfCiIHmfMfBZU9xgor8fG3nRnz/6SrpMMJraba844yCoIpTVGpSM/cjEUZcJ+5YA+1EqwEhOA=;bS4wzUY7pw1OnvgLhg0p7Q=="
 ---
 

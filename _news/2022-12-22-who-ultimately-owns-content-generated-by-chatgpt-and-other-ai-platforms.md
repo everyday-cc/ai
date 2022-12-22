@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2022/12/21/who-ultimately
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/12/21/who-ultimately-owns-content-generated-by-chatgpt-and-other-ai-platforms/amp/"
 type: article
 quality: 86
-heat: 176
+heat: 156
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63a39d438cc45940bdc9d546/0x0.jpg?format=jpg&crop=1755,987,x0,y31,safe&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "All you need to know about ChatGPT, a prototype Artificial Intelligence chatbot"
-    excerpt: "ChatGPT is becoming your friend and guide on the Internet, giving advice and information almost like a human being. But can it be trusted?"
-    publishedDateTime: 2022-12-18T03:56:00Z
-    webUrl: "https://www.mid-day.com/sunday-mid-day/article/the-ai-will-see-you-now-23261139"
-    ampWebUrl: "https://www.mid-day.com/amp/sunday-mid-day/article/the-ai-will-see-you-now-23261139"
-    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/sunday-mid-day/article/the-ai-will-see-you-now-23261139"
-    type: article
-    provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 53
-    images:
-      - url: "https://images.mid-day.com/images/images/2022/dec/Christmas-nh_d.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "From DALL-E 2 to ChatGPT, covering AI’s wild year | The AI Beat"
     excerpt: "From DALL-E 2 to ChatGPT, the AI beat was challenging and overwhelming in 2022. It's been humbling. And awesome."
@@ -103,15 +87,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 26
-  - title: "AI breakthrough ChatGPT raises alarm over student cheating"
-    excerpt: "Academics urge universities to develop new forms of assessment after launch of program that imitates essay-writing"
-    publishedDateTime: 2022-12-18T05:00:00Z
-    webUrl: "https://www.ft.com/content/2e97b7ce-8223-431e-a61d-1e462b6893c3"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
   - title: "AI Platforms like ChatGPT Are Easy to Use but Also Potentially Dangerous"
     excerpt: "Systems like ChatGPT are enormously entertaining and even mind-bogglingly human-sounding, but they are also unreliable and could create an avalanche of misinformation"
     publishedDateTime: 2022-12-19T20:41:00Z
