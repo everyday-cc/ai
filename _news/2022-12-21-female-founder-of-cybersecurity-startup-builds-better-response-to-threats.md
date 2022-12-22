@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/geristengel/2022/12/21/female-founder-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/geristengel/2022/12/21/female-founder-of-cybersecurity-startup-builds-better-response-to-threats/amp/"
 type: article
 quality: 71
-heat: 91
+heat: 111
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "New Version of HITRUST CSF Helps Healthcare Tackle Emerging Cybersecurity Threats"
+    excerpt: "HITRUST will release CSF version 11 in January 2023, promising improved mitigations against emerging cybersecurity threats and an AI-based standards development toolkit."
+    publishedDateTime: 2022-12-22T13:30:00Z
+    webUrl: "https://healthitsecurity.com/news/new-version-of-hitrust-csf-helps-healthcare-tackle-emerging-cybersecurity-threats"
+    ampWebUrl: "https://healthitsecurity.com/news/amp/new-version-of-hitrust-csf-helps-healthcare-tackle-emerging-cybersecurity-threats"
+    cdnAmpWebUrl: "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/new-version-of-hitrust-csf-helps-healthcare-tackle-emerging-cybersecurity-threats"
+    type: article
+    provider:
+      name: IT Security
+      domain: healthitsecurity.com
+    quality: 54
+    images:
+      - url: "https://healthitsecurity.com/images/sized/GettyImages-1276687348_2-39a26234983c4eca9381530cb872a66d.jpg"
+        width: 480
+        height: 280
+        isCached: true
   - title: "With the help of machine learning, DC’s Security Bulldog wants to build better cyber defense"
     excerpt: "Jeff Majka created the company in 2021 to help cyber professionals reduce the amount of time spent searching for potential problems with their software."
     publishedDateTime: 2022-12-19T22:29:00Z
@@ -53,6 +69,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
+  - title: "The artificial intelligence in cybersecurity market size is"
+    excerpt: "The artificial intelligence in cybersecurity market size is valued at USD 22.4 Billion in 2023 and is anticipated to be USD 60.6 Billion by 2028; growing at a CAGR of 21.9% from 2023 to 2028. The Driving Factors can be attributed to increasing instances of cyber threat,"
+    publishedDateTime: 2022-12-22T15:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-cybersecurity-market-size-valued-usd-224-/2022/12/22/9734686.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "hf5I9PUtcRZSgXrXUz12cEGsTYpGX1u+q2nUIobmyS2lqVYo9Rmz/6MsJU2YzK1xp3dgAJVsKhdGfM61hTUMKPOQQr3hvGadDxOkqRCTdD/txL/Gw3WGRKzfzyWiklGuScXJ0nxWJrOnYT4iiLbNgCv1rlbLH3fMm6rOReyGUxyrhoCddd1jU/5/Ftzn0rI4upIOImQyfHoFwObW3uLZ40DEMqMJvHOs7gheW9+MpGM0vv485UptYrjkky4/QgJ6HVifgrmwVcEKnAT4E0GKyeSTex5GiU1BJo9HmOCukATVwuNhOXi+lNISqsME3TbugJyvQAmRWsAh3d7PyyqgDiJVXUsuUi+uvJgDjb+pQo0=;WeEP5/cBi0ShVAOh0U3AmA=="
 ---

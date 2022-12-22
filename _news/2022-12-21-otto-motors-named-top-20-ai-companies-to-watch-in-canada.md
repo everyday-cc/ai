@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-21T12:01:00Z
 originalUrl: "https://www.bakersfield.com/ap/news/otto-motors-named-top-20-ai-companies-to-watch-in-canada/article_b33848e7-e67e-56f6-bb9f-c54f47cad365.html"
 webUrl: "https://www.bakersfield.com/ap/news/otto-motors-named-top-20-ai-companies-to-watch-in-canada/article_b33848e7-e67e-56f6-bb9f-c54f47cad365.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Bakersfield Californian

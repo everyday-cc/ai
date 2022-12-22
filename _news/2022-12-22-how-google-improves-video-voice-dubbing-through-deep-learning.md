@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-22T14:35:00Z
 originalUrl: "https://sdtimes.com/ai/how-google-improves-video-voice-dubbing-through-deep-learning/"
 webUrl: "https://sdtimes.com/ai/how-google-improves-video-voice-dubbing-through-deep-learning/"
 type: article
+quality: 51
+heat: 51
+published: false
 
 provider:
   name: SD Times

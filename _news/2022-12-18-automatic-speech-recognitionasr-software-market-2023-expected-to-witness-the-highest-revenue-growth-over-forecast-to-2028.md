@@ -216,6 +216,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 20
+  - title: "Autonomous Vehicles Market Growth and Global Share 2023 | Developing Regions, Emerging Trends and Industry Size Forecast to 2029"
+    excerpt: "Dec (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Autonomous Vehicles Market”"
+    publishedDateTime: 2022-12-22T08:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicles-market-growth-and-global-share-2023-developing-regions-emerging-trends-and-industry-size-forecast-to-2029-2022-12-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 5
 
 secured: "bVKGjUbpXtPhTvDm9mDmKMeinX4sR6vqdQi/QT/cHQ4zAreC4oveyTNqXOg1/eDAIM2qKclLnUmlsetf5t5afp+t0AEooLEcQL1fv3Rnbb7lF4kn8M7E9Fgf93xktG3oOwB/JCW9da7BP0gcGPUojDhprVOutY+E7wt1SWUI8L1hI45dUVX+PwTVzsdtif5rROKA+K66SdLTG09Q6TYduzLmL6TbJ8BcihGc39am9YPtnfXRh8/GAlr6YTX8Z1tukOQgR+Obr6MaxPT+ZFCOBMuKOOgWj2MNJxVVeSagScWdfAoPSBwX0KirM9l4+gYg18kY81lcofeY4qYGQUFPsx1cZNnDBBqsRp1z2WwBdK8=;piaOiOggPQ58MWnHaEvYyg=="
 ---

@@ -21,20 +21,45 @@ topics:
   - AI
 
 related:
-  - title: "Navigating the 'Wild West' of AI adoption in healthcare"
-    excerpt: "As regulators struggle to keep up with the rapid development of clinical AI, health systems are forming their own guardrails."
-    publishedDateTime: 2022-12-20T09:00:00Z
-    webUrl: "https://www.modernhealthcare.com/technology/ai-artificial-intelligence-healthcare-guidelines-patient-safety"
+  - title: "The opportunities AI is unlocking for healthcare operations"
+    excerpt: "AI is a crucial tool for healthcare providers today, from revenue cycle management to operational efficiencies and more."
+    publishedDateTime: 2022-12-22T15:06:00Z
+    webUrl: "https://venturebeat.com/ai/the-opportunities-ai-is-unlocking-for-healthcare-operations/"
+    ampWebUrl: "https://venturebeat.com/ai/the-opportunities-ai-is-unlocking-for-healthcare-operations/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-opportunities-ai-is-unlocking-for-healthcare-operations/amp/"
     type: article
     provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 54
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
     images:
-      - url: "https://www.modernhealthcare.com/s3/files/styles/1200x630/public/Wild-West-Futuristic.png"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/12/GettyImages-1272020099.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The rise of artificial intelligence in healthcare"
+    excerpt: "Access to data, repetition and continued testing are preconditions for machine learning and – with the breadth and depth of data it"
+    publishedDateTime: 2022-12-21T22:11:00Z
+    webUrl: "https://www.proactiveinvestors.com.au/companies/news/1001830/the-rise-of-artificial-intelligence-in-healthcare-1001830.html"
+    type: article
+    provider:
+      name: Proactiveinvestors UK
+      domain: proactiveinvestors.com.au
+    quality: 56
+    images:
+      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzEyXC8yMDIyLTEyLTIxLTE1LTU1LTIxLTlhMjMyY2Q5MDUzMzU2YmI5MWNhYTQ3NTA4YjE2ZDYwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
         width: 1200
         height: 630
         isCached: true
+  - title: "AI can potentially assist future firefighting operations: Research"
+    excerpt: "The worst flames in firefighting are the ones you don't see coming. In the midst of the chaos of a burning building, it's difficult to spot the warning signs of impending flashover -- a deadly fire phenomenon in which nearly all combustible items in a room spontaneously ignite."
+    publishedDateTime: 2022-12-19T13:01:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20221219/4016425.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "VdEnHTxlzYgZRd9uB4za7ZfnrIvc6iE+FjRYPE69OxvbRNQI04/RBASxNU3S+6C3olyzGoo9U2Rxel+7wKk6npAf6HFo589JtjJtocRuZp7aMhFYSpZ0N3u+V6KDd1VvrhNSRKXtbSMRN5kMleZVw2TA1IIxyPRVtOVub7dbihOXgjFyj9p0VeU0USGJJDBCcuts83qlTGUW+rWrTRuVfHc1NmSjuHnWxjub5V46yHGclaFhoed3tlSMkilZY33aVBzQiJRuOcxMTG2niCJ+YKAg75FRRml+fvu9DNeJX2hxu9vIxXLsWxeLfE7AB+ZEC5iSRhXPdprwlD0MW5oWQySyoaXKwlpVYKCqLcisye4=;orixxwvbWlY9mZjR11Iaog=="
 ---

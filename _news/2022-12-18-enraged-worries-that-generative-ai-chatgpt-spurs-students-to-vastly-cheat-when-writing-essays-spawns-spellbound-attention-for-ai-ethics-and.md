@@ -89,15 +89,20 @@ related:
       name: YAHOO!News
       domain: techcrunch.com
     quality: 47
-  - title: "ChatGPT is proof the AI chatbots are here to stay"
-    excerpt: "Chat GPT crashed. “I immediately feel like I lost 50 points of IQ,” tweeted one user. “Now I have to use search engines like cavemen did,” exclaimed"
-    publishedDateTime: 2022-12-18T00:00:00Z
-    webUrl: "https://www.thetimes.co.uk/article/chatgpt-is-proof-the-ai-chatbots-are-here-to-stay-6jhd2fbgf?shareToken=ef7b4fa70be33e29af1e523c0621c38f"
+  - title: "Google is reportedly scrambling to match viral AI ChatGPT"
+    excerpt: "ChatGPT is a “code red” event for Google, as the Search giant is struggling to showcase competing products by I/O 2023."
+    publishedDateTime: 2022-12-22T16:33:00Z
+    webUrl: "https://bgr.com/tech/google-is-reportedly-scrambling-to-match-viral-ai-chatgpt/"
     type: article
     provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 19
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2021/07/google-search-history-delete-15-min-1.jpg?quality=82&strip=all"
+        width: 1600
+        height: 892
+        isCached: true
   - title: "AI breakthrough ChatGPT raises alarm over student cheating"
     excerpt: "Academics urge universities to develop new forms of assessment after launch of program that imitates essay-writing"
     publishedDateTime: 2022-12-18T05:00:00Z

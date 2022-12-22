@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2022-12-deep-india-forest.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-12-deep-india-forest.amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1283
     height: 1017
     isCached: true
-
-related:
-  - title: "Using machine learning to better understand how water behaves"
-    excerpt: "New research uses machine learning models to better understand water's phase changes, opening more avenues for a better theoretical understanding of various substances. With this technique, the researchers found strong computational evidence in support of water's liquid-liquid transition that can be applied to real-world systems that use water to operate."
-    publishedDateTime: 2022-12-18T00:44:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/12/221216200854.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "AfS9k9FnjCX19brvaUO/OM1a+zIi/9Q/AMmeaUjF7Avu8sfEuO+/OkTAPNU/vvD2W47mGmcJSEa/O4Ij7WL5/s8laFrRo9yQuzPRKbbTQCxJjK0OBXpguo6wTdxr06BXFLhNBdAoql/ltkkTNPSa2ItSK4RcguNdP31Vg00JVb2D+kc1Mrq07C/jqIoamz8Qb7bZn0ivbZDpQ/6hTggVAnk6zvsMty+6OUiL9WZcIXbuLoMUoKVaR8EEQXU2+qwETj18eeEGeLArcBBIY2DoVx0dV/3LzL8zYCIv8plHY74B4w++EA0uh+VBkkLxyQq/aOuAt94Jh9bnMiroMbi8V7lR7nH7zHF5OimncH6jGftv6A+1cIgCj9LV1XX7TErDkk8FG1cB+HmCSxZ5lNcpQy8K7x7OKTR/u1RDbdse2ZApm6dLxj1kRYdDhsn9cjo7p04kwHBd8B9t87HZYmkT0PJytfPTZDIarrsO3IZYc2uP13siYHrBbPCEfoIizQ0qRUVwuL8Nm37+gQCCb2mAZQ==;uSIvj2N9LbIkl5fPmBVnDA=="
 ---

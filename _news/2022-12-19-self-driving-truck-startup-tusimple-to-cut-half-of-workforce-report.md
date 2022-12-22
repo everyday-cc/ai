@@ -57,6 +57,24 @@ related:
         width: 1200
         height: 633
         isCached: true
+  - title: "Self-Driving Truck Company TuSimple Axed Close To 350 Employees As Macro Uncertainties Weigh"
+    excerpt: "Autonomous driving technology company TuSimple Holdings Inc (NASDAQ:TSP) disclosed a restructuring plan to consolidate its position as a leader in the autonomous trucking industry. The restructuring plan involves a 25% reduction of TuSimple's total workforce,"
+    publishedDateTime: 2022-12-22T13:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/self-driving-truck-company-tusimple-axed-close-to-350-employees-as-macro-uncertainties-weigh-1031986928"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+  - title: "Self Driving Startup TuSimple Slashes Staff in Bid to Right the Ship."
+    excerpt: "TuSimple announced it is cutting about 25% of its staff, or about 350 people, to save $55 to $65 million annually. The company will have about 1,100 people when the restructuring is complete."
+    publishedDateTime: 2022-12-22T13:32:00Z
+    webUrl: "https://www.barrons.com/articles/self-driving-startup-tusimple-cut-staff-restructuring-51671715893?refsec=markets"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 19
 
 secured: "l27bVw7HEEmLzaxAjCe1KlWhxWb0dA/A27xC4IvKAASvEp+Rt/UclEyAJO11QHP9fh8WIc9LrHgvIpt6m2Jj/TCZY/dGOXvQACsO2gJagJ5E0Jn73WZRL1k5vFtEaGynJ5Zyez/chc690Mx6lPLcKA3cvGbObnpVRvyKMWJTEeBuSbHuS/Hk4dk6NNImESO/JTfhZ2yDtPMU58TJ28zGr6pGXhKQQDUoqvZbVVw7m509dW2BQD2h4+S31k1jerP22SM12GdHKotF6wcbrpbpAnpWEvoRjlPf6nXgzOQOHeYT7oMFlvzvB9pa3XNa4uILzWIXki8ihhQs3ev87m6xWxuNwIhHtlokFBeOpR8SosU=;sI5Wil1iXTh+d7dyDvK/vw=="
 ---

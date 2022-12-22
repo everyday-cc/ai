@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 960
         isCached: true
+  - title: "New Version of HITRUST CSF Helps Healthcare Tackle Emerging Cybersecurity Threats"
+    excerpt: "HITRUST will release CSF version 11 in January 2023, promising improved mitigations against emerging cybersecurity threats and an AI-based standards development toolkit."
+    publishedDateTime: 2022-12-22T13:30:00Z
+    webUrl: "https://healthitsecurity.com/news/new-version-of-hitrust-csf-helps-healthcare-tackle-emerging-cybersecurity-threats"
+    ampWebUrl: "https://healthitsecurity.com/news/amp/new-version-of-hitrust-csf-helps-healthcare-tackle-emerging-cybersecurity-threats"
+    cdnAmpWebUrl: "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/new-version-of-hitrust-csf-helps-healthcare-tackle-emerging-cybersecurity-threats"
+    type: article
+    provider:
+      name: IT Security
+      domain: healthitsecurity.com
+    quality: 54
+    images:
+      - url: "https://healthitsecurity.com/images/sized/GettyImages-1276687348_2-39a26234983c4eca9381530cb872a66d.jpg"
+        width: 480
+        height: 280
+        isCached: true
   - title: "With the help of machine learning, DC’s Security Bulldog wants to build better cyber defense"
     excerpt: "Jeff Majka created the company in 2021 to help cyber professionals reduce the amount of time spent searching for potential problems with their software."
     publishedDateTime: 2022-12-19T22:29:00Z
@@ -49,6 +65,15 @@ related:
         width: 750
         height: 882
         isCached: true
+  - title: "The artificial intelligence in cybersecurity market size is"
+    excerpt: "The artificial intelligence in cybersecurity market size is valued at USD 22.4 Billion in 2023 and is anticipated to be USD 60.6 Billion by 2028; growing at a CAGR of 21.9% from 2023 to 2028. The Driving Factors can be attributed to increasing instances of cyber threat,"
+    publishedDateTime: 2022-12-22T15:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-cybersecurity-market-size-valued-usd-224-/2022/12/22/9734686.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "iYw01rnWxNu/w9F+DQSGL9aWi0D63Fjrpc8/4vUCFOiJi9MQeFqRDoVMpHee8eMpUL9sFG15r60alRlTvFL2gvsTHpnT3YsQye8Ib0VCnspZrG4DDaR/hKchq95CHX+z7X7/TgSxBrzusMrWd3ZIHEB1eGWymYjQiT2N6GFHHdW7vOg/yV+GzUi3C+i/Ckko8k6Exy7+Vq03gRSkReqJ1fIsV35RJfby+Y0GxG5X11Z6CVGQz+4ngS7qo8SAVqZI1d5+1DuocprfTUl1VWJeR0QobDYiscrKeePeVVy/83hym/3rWVfLARiJ9+8+8NM6cEKgS+GtOE2VH8aZX3iUqpegj8uheJ4b93Qbo8yNCAiNI4SLwPnV72ejXL4ibd9Bv1+47JkpKJOEmpfyvLGMRfPFWamGlMOW8T4UN3ZXIaiSQ5X3KnRATloYsgGQzKwkliky2u0/7DRS8D9yoHGWgRgkgC8gbtIAHJk3oHcuDs1Zco3lxTetCGuELKaHH+age/YPZTxDeuHfmVNhApZC9g==;2EAFDSi12pHOhGvp/aRhCA=="
 ---

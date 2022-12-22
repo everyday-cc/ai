@@ -8,8 +8,8 @@ webUrl: "https://www.news-medical.net/news/20221222/Artificial-intelligence-not-
 ampWebUrl: "https://www.news-medical.net/amp/news/20221222/Artificial-intelligence-not-yet-ready-to-replace-radiologists-study-finds.aspx"
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20221222/Artificial-intelligence-not-yet-ready-to-replace-radiologists-study-finds.aspx"
 type: article
-quality: 55
-heat: 55
+quality: 57
+heat: 57
 published: false
 
 provider:

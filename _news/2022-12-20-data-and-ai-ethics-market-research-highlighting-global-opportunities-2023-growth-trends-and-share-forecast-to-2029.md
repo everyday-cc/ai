@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-marke
 webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-research-highlighting-global-opportunities-2023-growth-trends-and-share-forecast-to-2029-2022-12-20"
 type: article
 quality: 63
-heat: 213
+heat: 223
 published: true
 
 provider:
@@ -217,6 +217,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 20
+  - title: "Autonomous Vehicles Market Growth and Global Share 2023 | Developing Regions, Emerging Trends and Industry Size Forecast to 2029"
+    excerpt: "Dec (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Autonomous Vehicles Market”"
+    publishedDateTime: 2022-12-22T08:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicles-market-growth-and-global-share-2023-developing-regions-emerging-trends-and-industry-size-forecast-to-2029-2022-12-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 5
 
 secured: "i/5IWUhU/OH+wgNCk2m7tlWGuWeX2LxPrsDUqGm/kDrh/656fCUnFOnyt+8tLlUgH0OJQnHDywpfmsJePwyIgXc3vov3CSr3Qy6LcMLkXJP0HoEBR7oK90sZAPgehiohnNMBf0epDrzYXJN6Kzpt4t5lYj2YptZ+GJeiQztViZBDa6lJwgoQGLAVcJLEjHKIi86gaWOp8nMjiJUMcPUTgW0sFAB3qwHDT37efh7DdHKuWPnFd7N2EmIvUqHvtog2hfVSse+eeScnxNjc+EW2hJSLSsxCSGJ3aqepqfak9P2mID0a8x/e4ZB/Pmy/r0w1tJOXwb2XbeDAW9YkkcGYS135JkTdv0Cg4bdhuZJ26+s=;53ipVjHN/Tk5sMxOwkA9EQ=="
 ---

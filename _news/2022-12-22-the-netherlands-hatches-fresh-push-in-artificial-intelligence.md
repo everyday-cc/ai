@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-22T14:07:00Z
 originalUrl: "https://sciencebusiness.net/news/Artificial-intelligence/The-Netherlands-hatches-fresh-push-in-artificial-intelligence"
 webUrl: "https://sciencebusiness.net/news/Artificial-intelligence/The-Netherlands-hatches-fresh-push-in-artificial-intelligence"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Science|Business

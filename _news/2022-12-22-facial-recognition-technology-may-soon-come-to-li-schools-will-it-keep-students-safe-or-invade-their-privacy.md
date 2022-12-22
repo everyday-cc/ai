@@ -2,11 +2,13 @@
 category: news
 title: "Facial recognition technology may soon come to LI schools. Will it keep students safe or invade their privacy?"
 excerpt: "Two state agencies are looking into the use of the surveillance system that opponents say invades privacy and proponents say helps to keep students safe."
-publishedDateTime: 2022-12-22T10:00:00Z
-originalUrl: "https://www.newsday.com/long-island/facial-recognition-technology-schools-p70v0mx1"
-webUrl: "https://www.newsday.com/long-island/facial-recognition-technology-schools-p70v0mx1"
+publishedDateTime: 2022-12-22T12:56:00Z
+originalUrl: "https://www.newsday.com/long-island/education/facial-recognition-technology-schools-p70v0mx1"
+webUrl: "https://www.newsday.com/long-island/education/facial-recognition-technology-schools-p70v0mx1"
+ampWebUrl: "https://www.newsday.com/amp/long-island/education/facial-recognition-technology-schools-p70v0mx1"
+cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/long-island/education/facial-recognition-technology-schools-p70v0mx1"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -158,6 +160,6 @@ related:
       domain: mother.ly
     quality: 12
 
-secured: "Ns2FBdMmLLleVKvJ9zpZgHYLVBop4fa9r/j27NM5dw2goC7tg+gA4YGowzyQyzvybCXz5TnIvJ2AxY/W9QyYEAxJXBCjhPvMpdIudUl0mIQ7O3hEmrigsmKWlpqIga7JdDn1U3XmPZuPDnNNVr91pXnj4OydTvhyZGdgSRgEyBPWbYgQaDtdk+nSxl5gXN7xFji4QMfCoAQb8Ee7zGNUyCid+Z3mnvZrNUNazKrxj58as/BHte/8z5Gl1UlFfmmf9lkHh3WSheKX0sH9ieyw8cwu5LQzDq0/feCUb2wu9t9QQVWNSS3/L3ADH/BIxUC6YHRl/jUUjXoki97QjdkdxbJQ6SEr0cc3dSs5QK1DcRvZH46ooND+QXugYSDLQENYACdGDKQaeMRhtH8djW+HFAc3CBtzEgnfSY7Q/cWjZ2hAUu+TjOQK9ZVSrFY+kd25ErD+gqg1+D/eqxJ8nzdWGi5R/cG1uU1emRQiIwIv33bkmBQFI6GM2tGUPfveMQDRX71UgVv/Knf4+gk92Yo5CQ==;0gktvZCJJD0KKQI22UNPQw=="
+secured: "eP6muuiX5UX3q9F0YPJj5dv2B5EySBkEDf6zMGUOtpWts3WgK4arZyPf/pNQDaQX/+rCdUCvoa5NKbFP66/XRvp1GdiX/7mwPQ4Mdxf+SyO6QTSQNDgzNf0W/YIYarNtq4FnqhH5VwXjvjzMLIucAYwfACgdXxIZQPuFc0tIkdbO36gKwiYcVHnN3V4veGIboqZLu2y5OT9Whya5pvsCX/QCnXGc7VsAUBn1ccdass5812xDAUslIDnt+CVDhov9PNc4qfmGdZlEC6ziOfVsTRNgOXzVyjOejyCNhx8miujwFjg2G2TQ3GWis99sxywIkKKUT5BQDkcLZuA1KC6aE8emUvYo5JQapglqH4U32Bs=;hmvDlK141m6rJ7NQ/w+Cdg=="
 ---
 

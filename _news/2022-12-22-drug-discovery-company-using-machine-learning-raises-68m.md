@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-22T13:10:00Z
 originalUrl: "https://www.beckershospitalreview.com/innovation/drug-discovery-company-using-machine-learning-raises-68m.html"
 webUrl: "https://www.beckershospitalreview.com/innovation/drug-discovery-company-using-machine-learning-raises-68m.html"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Becker's Hospital Review

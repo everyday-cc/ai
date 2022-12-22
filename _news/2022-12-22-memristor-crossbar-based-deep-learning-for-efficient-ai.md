@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-22T13:25:00Z
 originalUrl: "https://www.electronicsforu.com/news/whats-new/memristor-crossbar-based-deep-learning-for-efficient-ai"
 webUrl: "https://www.electronicsforu.com/news/whats-new/memristor-crossbar-based-deep-learning-for-efficient-ai"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: electronicsforu

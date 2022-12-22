@@ -57,22 +57,6 @@ related:
         width: 620
         height: 412
         isCached: true
-  - title: "India Conducts First 5G Driven, Artificial Intelligence-Guided Colonoscopy Trial"
-    excerpt: "Airtel and Apollo Hospitals conducted India’s first 5G driven, Artificial Intelligence-guided Colonoscopy trial. It resulted in detection of the colon cancer much faster and with greater accuracy."
-    publishedDateTime: 2022-12-22T08:06:00Z
-    webUrl: "https://www.thehealthsite.com/news/india-conducts-first-5g-driven-artificial-intelligence-guided-colonoscopy-trial-937051/"
-    ampWebUrl: "https://www.thehealthsite.com/news/india-conducts-first-5g-driven-artificial-intelligence-guided-colonoscopy-trial-937051/amp/"
-    cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/india-conducts-first-5g-driven-artificial-intelligence-guided-colonoscopy-trial-937051/amp/"
-    type: article
-    provider:
-      name: TheHealthSite
-      domain: thehealthsite.com
-    quality: 56
-    images:
-      - url: "https://st1.thehealthsite.com/wp-content/uploads/2022/12/Untitled-46.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "RDuhdRZiuNeRZN+oqRHULR1NGVFhIJdMHjf6+1S6iyg7rChQ62MuciwqaUYyZDgOPOJL/MxRRvNBTmb0rYtEeA2K4uMBeWNEAYjUgd9RdEqWl2RaaTdLuiaIv9gxRDVH/hMkf07dG2l5AUQQwlurPsVMDZNvBWeY8eV7j+KAJPavrILJmHYCbigBCW5Npbf+bC92uO/PdsjYH0FS9QIdiqVtrCW5lmUFm26hrseMMdTHa96MAltJYFK80CKybc4QDCpE9Q9CW6xh1Pv0aRjN1hd8wXCYdWH5HG4f5/tYkxz7evJO0pY54k5yKzfqYfVX8CU6DzjySMOU7YfBoWxi5I11uq88ejgJ9svWi1gInjg=;vSoLD0UF2UXFpu49UF2fZw=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-22T13:25:00Z
 originalUrl: "https://stratechery.com/2022/an-interview-with-daniel-gross-and-nat-friedman-about-chatgpt-and-the-near-term-future-of-ai/"
 webUrl: "https://stratechery.com/2022/an-interview-with-daniel-gross-and-nat-friedman-about-chatgpt-and-the-near-term-future-of-ai/"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: Stratechery

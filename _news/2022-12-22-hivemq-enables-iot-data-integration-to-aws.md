@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-22T13:24:00Z
 originalUrl: "https://www.controlglobal.com/industry-news/news/21438959/hivemq-enables-iot-data-integration-to-aws"
 webUrl: "https://www.controlglobal.com/industry-news/news/21438959/hivemq-enables-iot-data-integration-to-aws"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: Control Global

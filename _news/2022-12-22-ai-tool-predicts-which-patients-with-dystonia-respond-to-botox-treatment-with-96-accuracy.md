@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-12-ai-tool-patients-dystonia-bot
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-ai-tool-patients-dystonia-botox.amp"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Medical Xpress
@@ -37,6 +37,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 25
+  - title: "Artificial intelligence tool may help predict success of Botox treatment in patients with dystonia"
+    excerpt: "An artificial intelligence platform, DystoniaBoTXNet, used brain MRIs to automatically identify which dystonia patient would respond to botulinum toxin treatment with an accuracy"
+    publishedDateTime: 2022-12-22T14:30:00Z
+    webUrl: "https://medicaldialogues.in/neurology-neurosurgery/news/artificial-intelligence-tool-may-help-predict-success-of-botox-treatment-in-patients-with-dystonia-104456"
+    type: article
+    provider:
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 5
 
 secured: "ARzGPm7LtbF6SK2cXz/684NJVJArZqg57/c10cftKVGMqXOLqtPSOql0QcAXPcPCbDcDyeOOaor9PEOLrRJU6E7tim95l/pMpSXAXYT3FmNQJupHsLz7399/jfoFtxs/P1oyggiibaMmE9hsNEjZN9Ldl+Xn4/m7cZbOmnmX5EJhxX89voubK3cIOd/8i5SVfISt7Ul7PRtgIOuSLquc46WJ19/+JsJ+y/HPd7TUkiLbTABW4s/J/DIsg7bH06QOo0CYd/ezpBDWoyhNEb9IOYAeSFPTQ0kK+UazGAeHmiLRPvF8x9+If2ryBykivHYCK00NxbzpUbhNgZCpFu6isO4aqIsoKaPTFzUT7aHfWfuyHZYp1H2Ti2vsIDEIPLm/LUi0v4U9fHZwO8AByF5IQ/TjqoWhbHznaB4V/T12p0d5039UdnEkkkSrg66L9Fm4ZTX9YazaSmKuaw65LjCIsbk6L8U5RZmYisZGTM3vCaxRpGmh3JPHfbZhiz3+FYmTzNZ2DZ3DTTNoyBO01SFrtg==;mjeEI57WdjpC5d5mZyEo6g=="
 ---

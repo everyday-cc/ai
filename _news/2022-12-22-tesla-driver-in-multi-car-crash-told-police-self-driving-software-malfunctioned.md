@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Eight-car Thanksgiving pileup blamed on Tesla “Full Self-Driving” software"
+    excerpt: "An eight-car collision on Thanksgiving Day (Nov. 24) is now being blamed on Tesla's \"Full Self-Driving\" (FSD) assistance system. The crash took place in the Bay Area in California on I-80 and left one person hospitalized and eight others with minor injuries."
+    publishedDateTime: 2022-12-22T16:40:00Z
+    webUrl: "https://arstechnica.com/cars/2022/12/eight-car-thanksgiving-pileup-blamed-on-tesla-full-self-driving-software/"
+    ampWebUrl: "https://arstechnica.com/cars/2022/12/eight-car-thanksgiving-pileup-blamed-on-tesla-full-self-driving-software/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2022/12/eight-car-thanksgiving-pileup-blamed-on-tesla-full-self-driving-software/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 87
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/11/tesla-warning-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Tesla ‘full self-driving’ triggered an eight-car crash, a driver tells police"
     excerpt: "A driver told authorities that their Tesla's \"full-self-driving\" software braked unexpectedly and triggered an eight-car pileup in the San Francisco Bay Area last month that led to nine people being treated for minor injuries including one juvenile who was hospitalized,"
     publishedDateTime: 2022-12-21T22:40:00Z
@@ -144,15 +160,24 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 31
-  - title: "‘Self-driving’ vans could make Ocado deliveries in the capital"
-    excerpt: "Londoners could have their weekly groceries delivered by “self-driving” vehicles under plans being trialled in the capital."
-    publishedDateTime: 2022-12-20T14:45:00Z
-    webUrl: "https://www.standard.co.uk/news/london/self-driving-vans-autonomous-cars-delivery-ocado-asda-wayve-b1048496.html"
+  - title: "Tesla behind eight-vehicle crash was in ‘full self-driving’ mode, says driver"
+    excerpt: "San Francisco crash is the latest in a series of accidents blamed on Tesla technology, which is facing regulatory scrutiny"
+    publishedDateTime: 2022-12-22T13:22:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/dec/22/tesla-crash-full-self-driving-mode-san-francisco"
     type: article
     provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 4
+      name: The Guardian
+      domain: theguardian.com
+    quality: 16
+  - title: "Tesla ‘full self-driving’ triggered an eight-car crash, Bay Area driver tells police"
+    excerpt: "The crash occurred about lunchtime on Thanksgiving, snarling traffic on Interstate 80 east of the Bay Bridge as two lanes of traffic were closed for about 90 minutes as many people traveled to"
+    publishedDateTime: 2022-12-22T13:08:00Z
+    webUrl: "https://www.eastbaytimes.com/2022/12/22/tesla-full-self-driving-triggered-an-eight-car-crash-bay-area-driver-tells-police/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 12
 
 secured: "qsbh6EgqLj2TbVyI1eNP1gPua9kwHnQccczNjJ8eiF4zDsM5OZIzb+M6sbc0ReP6jYJMn/vsVyKdWu0wqRZifui/xPzweF1saD6DyHjmA0m/4RiALYWpgp940Of3YkrTwatFlKkrVNeRVTtyliXvZRkecfltmQX7LU4wk2uhCaMoDiKQURKE4MHIsGi14eudSRr8nZ3hhmcpKIP2y6EytiEc8lIW4wZEGZlljZV9xEePrP0yQxgMwT6qyIefNNIGzk0xGoq9CNm5R2LS5dB65t5zdB31GPz5TQng4bhkUggFaY2JssmZNyAgB4WteCHMjHxjvxaM8AdpcQN7FBh7yDyqPgNYbWnjBvtmOBi4lL6dwsz1tnUcMC7HeQMDkr4Iq7OmLPa+r5umV4dGqiHE7JsBZ58S/7sXRS/0RoNkoZo4z8q9PYkWXW5tz6OVIPt/1fwNs4E4jET0Ggf2UvhT80SXNrhyxwOLIXEzqYHu8ihZ0nIBNT1sF7rNDtXZbic+CoaeAqO6eDBEu13Brfgntg==;74RbzdPmFIKNLCK4CPoTqQ=="
 ---

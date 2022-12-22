@@ -92,20 +92,6 @@ related:
         width: 1176
         height: 1920
         isCached: true
-  - title: "The rise of artificial intelligence in healthcare"
-    excerpt: "Access to data, repetition and continued testing are preconditions for machine learning and – with the breadth and depth of data it"
-    publishedDateTime: 2022-12-21T22:11:00Z
-    webUrl: "https://www.proactiveinvestors.com.au/companies/news/1001830/the-rise-of-artificial-intelligence-in-healthcare-1001830.html"
-    type: article
-    provider:
-      name: Proactiveinvestors UK
-      domain: proactiveinvestors.com.au
-    quality: 56
-    images:
-      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzEyXC8yMDIyLTEyLTIxLTE1LTU1LTIxLTlhMjMyY2Q5MDUzMzU2YmI5MWNhYTQ3NTA4YjE2ZDYwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial intelligence and the rise of optical computing"
     excerpt: "An optical computer could likewise do lots of calculations at the same time. Using photons reduces power consumption, too. Electrical resistance generates heat, which wastes energy. The passage of photons through transparent media is resistance-free."
     publishedDateTime: 2022-12-20T16:00:00Z
@@ -134,6 +120,15 @@ related:
         width: 640
         height: 560
         isCached: true
+  - title: "The case for ethical AI"
+    excerpt: "With CSR at the top of the corporate agenda, a focus on ensuring AI applications are delivered ethically is essential"
+    publishedDateTime: 2022-12-22T13:16:00Z
+    webUrl: "https://business-reporter.co.uk/ai--automation/the-case-for-ethical-ai"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 34
 
 secured: "xBp6hVVFEcNMUJwNTNOfPX2Vbh9hdHG9S1aqCzQzcVwcU+OYnZZX08kG6SauRUcoYa08XYpjwERVgtU4+h6hPjL/rj/daITHRQ9qJZMqWc8ExcGKMyXG8lp+oqPb2QFKX7gZO42wDJoViGq4kGyURHBgNAzIm6kMFve9AzehrO4TpEoUCD7sn5vUx8Pkmak7sfvwgYR6XeiAfRvpaIzqa/tlshmBXSUq0bIO+mbjhKc3+DvG6Ce9dyAz46yy4N9oR1zDUyOddkOwmyDnSHFWmqO2oEbtzU9KXhVCgeWifE8ggqOpVd07cGEY7qhV0KjWUApdIeyXRcN4yB6iAYDdvCtjjYm2rQmMik/ZPiINOGhH4VbLnLMRI3oiLKDPNAbmHTH6Ar0/5O+p2afxj6PNupJLbXpP3wuFDbbZZsgnMXTlejHtS6IDNfacQih6XC+Y10epAaBalUli/qbmtfN56LuZbsKvStBTw1GFaNz9/tN3jJ2lqPHC7xzyQ460m7vUDQwPYsFgNnHSUpSdGXt/9Q==;isLamxpJw36glYbfl7Tq4g=="
 ---

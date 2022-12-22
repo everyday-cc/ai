@@ -105,20 +105,6 @@ related:
         width: 1176
         height: 1920
         isCached: true
-  - title: "The rise of artificial intelligence in healthcare"
-    excerpt: "Access to data, repetition and continued testing are preconditions for machine learning and – with the breadth and depth of data it"
-    publishedDateTime: 2022-12-21T22:11:00Z
-    webUrl: "https://www.proactiveinvestors.com.au/companies/news/1001830/the-rise-of-artificial-intelligence-in-healthcare-1001830.html"
-    type: article
-    provider:
-      name: Proactiveinvestors UK
-      domain: proactiveinvestors.com.au
-    quality: 56
-    images:
-      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzEyXC8yMDIyLTEyLTIxLTE1LTU1LTIxLTlhMjMyY2Q5MDUzMzU2YmI5MWNhYTQ3NTA4YjE2ZDYwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Nvidia: Backbone Of The Artificial Intelligence Industry"
     excerpt: "Nvidia, a leading provider of graphics cards, is facing headwinds due to lower gaming demand, but the industry tends to be cyclical. Read my view on NVDA."
     publishedDateTime: 2022-12-21T23:30:00Z
@@ -133,6 +119,15 @@ related:
         width: 640
         height: 560
         isCached: true
+  - title: "The case for ethical AI"
+    excerpt: "With CSR at the top of the corporate agenda, a focus on ensuring AI applications are delivered ethically is essential"
+    publishedDateTime: 2022-12-22T13:16:00Z
+    webUrl: "https://business-reporter.co.uk/ai--automation/the-case-for-ethical-ai"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 34
 
 secured: "spU65K3f08t3EFL12ZrkGI0M92iGRRsEfhcXr4KVGNZr9x4K6d4v7PwlZZs3nRyn0Ybcxtl0Dc7CLSCuUME7mHnIdk6D2K/naSHl9dnKg031FJP0qh5EQrQ8LJ+YY+EV/mZQJxTer6fztkr1psdvNlw5l/Ab+ND2v1fm8B4qa66Xi9D3vUtKws+0JYnFcFXUtzy+y9+3q71XLZnlQh6cQ3FK/GNlunO77gZ2PQR1+eD0Xxbs5IvEVL05wubsE92ougbtbOEOYR3wllURLSejHpGx3oM2XWBuBZt9JHPxoI7lRqzaxohXFrVLzTEOq/dVf6Ono9QRNjzk+Y9ADJFMlCsXPdhUfhGj4BtNB+FU3Oc=;hjDQPniiVYOdQXOEIvvPzg=="
 ---

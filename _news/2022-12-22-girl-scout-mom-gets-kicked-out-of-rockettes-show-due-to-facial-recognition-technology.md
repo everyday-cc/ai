@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial recognition technology may soon come to LI schools. Will it keep students safe or invade their privacy?"
+    excerpt: "Two state agencies are looking into the use of the surveillance system that opponents say invades privacy and proponents say helps to keep students safe."
+    publishedDateTime: 2022-12-22T12:56:00Z
+    webUrl: "https://www.newsday.com/long-island/education/facial-recognition-technology-schools-p70v0mx1"
+    ampWebUrl: "https://www.newsday.com/amp/long-island/education/facial-recognition-technology-schools-p70v0mx1"
+    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/long-island/education/facial-recognition-technology-schools-p70v0mx1"
+    type: article
+    provider:
+      name: Newsday
+      domain: newsday.com
+    quality: 39
+    images:
+      - url: "https://cdn.newsday.com/ace/c:NmFhYmM4OWUtZjFiOC00:ODAxNmQ4/landscape/1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Stalking-horse report on facial recognition in Indian airports draws arrows"
     excerpt: "The 74-page report about responsible AI has been quickly criticized by the Software Freedom Law Center and IFF for being incomplete."
     publishedDateTime: 2022-12-20T19:54:00Z
@@ -141,20 +157,6 @@ related:
       - url: "https://www.extremetech.com/wp-content/uploads/2018/10/598521-facial-recognition-640x360.jpg"
         width: 640
         height: 360
-        isCached: true
-  - title: "Facial recognition technology may soon come to LI schools. Will it keep students safe or invade their privacy?"
-    excerpt: "Two state agencies are looking into the use of the surveillance system that opponents say invades privacy and proponents say helps to keep students safe."
-    publishedDateTime: 2022-12-22T10:00:00Z
-    webUrl: "https://www.newsday.com/long-island/facial-recognition-technology-schools-p70v0mx1"
-    type: article
-    provider:
-      name: Newsday
-      domain: newsday.com
-    quality: 19
-    images:
-      - url: "https://cdn.newsday.com/ace/c:NmFhYmM4OWUtZjFiOC00:ODAxNmQ4/landscape/1280"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "LF+US9I9cIakOuaT8o+DDpDsC4gqueCCOOBdNYdLkMCmmR87Fus9outqCpbatD/oilC6NPPnxu+0QvC9mm+yPg/eLj7VLxyWtxAf+pdIPYGULuMHrQL33qb7bcqJ/KAiLNLP3f0L6f/1h+jCskRrdjl9KD6MDd0UhqjiN1XXeKny3gej4kqjYUeOs3x8H64T5vIui6XLkQ13LdoSAVP1mpAWF1RlvkWJ1c5/P+z0rv2eUFyQd2bUKrj2cRNrAl4NuSbdKwaQ+UbYiXdBN3i9KARhbxa5RM8/c79aBgPLaLvDeZAMFpwR1QmGqQAazt19KmsG+eQxWQZvV8RXAs51mNQ0MUq8furSls8Zdqxzt9KAfsu+Un4ejj4Suq2akOL4YgbQDVydcrP/6qTwa5r/98H2Kprjspd1c1qOBDzwzHX5oBv4ToJcL7cz5J2OL1/sLLRkVXp/VXor9dk9jOKDd5Lr6ly4z9jr789fqJLOvbSc6NocJnGJmuTu4MQycNQj0rCGAID6QJzeujzJjue7+g==;qIKk2jNQvFiEgi4S6hWHGA=="

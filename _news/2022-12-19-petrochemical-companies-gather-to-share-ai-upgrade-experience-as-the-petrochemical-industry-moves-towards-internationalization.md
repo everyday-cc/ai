@@ -7,7 +7,7 @@ originalUrl: "https://www.asiaone.com/business/petrochemical-companies-gather-sh
 webUrl: "https://www.asiaone.com/business/petrochemical-companies-gather-share-ai-upgrade-experience-petrochemical-industry-moves"
 type: article
 quality: 11
-heat: -1
+heat: 11
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 599
     height: 333
     isCached: true
-
-related:
-  - title: "Petrochemical companies gather to share AI upgrade experience as the petrochemical industry moves towards internationalization"
-    excerpt: "As a petrochemical hub, Kaohsiung has played the role of the backbone of other industries over the years. Amid multiple global uncertainties facing the petrochemical industry in recent times, including net-zero emissions and global economic slowdown,"
-    publishedDateTime: 2022-12-18T00:00:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/12/18/9732406.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 11
-    images:
-      - url: "https://mma.prnewswire.com/media/1970279/From_left_right__Jonathan_Yu_Sales_Director_Profet_AI__William.jpg"
-        width: 400
-        height: 222
-        isCached: true
 
 secured: "PB5G1DWcy2sXOdS4G5jgdi+koAoFUvXJcFeUHd7RjGPThorbyjSG34HmNs/8du72V5w/TGivzM1urYjOgTqiJCI3Ij3HW4y6OZiEqi70mrBJUem/xSdfEDnW500uqa8Z9T1Ny87dDtBIpDQSGJBddooq07xHGQYuxRzFzxOB8mT6FeLLh7/QwE7q6qlfn5y626no18KWbTXVeB7qT3WFJvkITVG5ntV35clM1IAfGgNW/ccsZVYHCZ+ZM41JQjiOxcC+3tkUoHga2lyI90xKZIIkqOLpCiuXFc0ehm4zqzxlVFBAf90UN8tkkoLyNL5GzVKjIgWAwDHtr2Oe4cZd+OTEzUgz1TyX2JJhHvbqzIha9LTqPSn+0zpmI6z4J7yk2QwA7T/jmDnnm4yWV/akMUb9EkoOWgo2BlBeFurm1Gh1MCulOjaQU0TQOTdAtLlFGVLveaxr1ZPKHTEL+CnfnUjp7jBRN6RfB2RExbRpYBXIUgdR6XjEumTuG7+FfjuhI102yC6p5bigfa134HtnCg==;YO+J4ECpFCy5VGlG20gxJA=="
 ---

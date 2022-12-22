@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-22T14:15:00Z
 originalUrl: "https://www.carsifu.my/news/magna-buying-veoneer-active-safety-to-bolster-self-driving-tech"
 webUrl: "https://www.carsifu.my/news/magna-buying-veoneer-active-safety-to-bolster-self-driving-tech"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: CarSifu

@@ -3,10 +3,10 @@ category: news
 title: "A New Soft Robot Is Able to Spot Injuries and Self-Heal"
 excerpt: "A new study by Cornell University researchers published in Science Advances introduces an autonomous, self-healing soft robot that is not only able to identify injuries but also heal itself. The scientists plan to integrate these soft robots with artificial intelligence (AI) machine learning in the future."
 publishedDateTime: 2022-12-09T17:51:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202212/new-soft-robot-is-able-spot-injuries-and-self-heal"
-webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202212/new-soft-robot-is-able-spot-injuries-and-self-heal"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202212/new-soft-robot-is-able-spot-injuries-and-self-heal?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202212/new-soft-robot-is-able-spot-injuries-and-self-heal?amp"
+originalUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202212/new-soft-robot-is-able-spot-injuries-and-self-heal"
+webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202212/new-soft-robot-is-able-spot-injuries-and-self-heal"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202212/new-soft-robot-is-able-spot-injuries-and-self-heal?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202212/new-soft-robot-is-able-spot-injuries-and-self-heal?amp"
 type: article
 
 provider:
@@ -17,6 +17,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "c379HCz/u0i5hHEZ+vrEI8DxtIPGNjgjFRVOgd+8zP1NZupVnSEGGJ1ND/Bjrtf+KTfA6s8vvnWSG49czuAn0NN4JJgvH2fhbkfkhL5vpfTX11oMYCmp+Pl9zs/qTS3ldQ8eChdKlivfvyhE/V4evMDS7PAC8dcnqBbMGnsJBBOjS02+MeGuMA8TqDi8fPp9PxtERUNrEwcX022/B7EcmRPpvbaVgXxVrhhT2/zLyrH5andjy4GGL9ynQwhFvuE8J+lKzI0X3WPJCDDsucpNBhjQg7rUn9rxiBwpvyqTws1JZ6UKz386rabGnwU1NJbLdLvAAijQ8jEsNBe2dA0xCzgE3nC2gQJ4GzriBWDceFKbbkyTuY3DAUSUsrH8/v+zqM2Zo1wfusPsCHC7FDPiWW4rK2rD/H1zA/h5W7hVsBfgdTfsLVXjV4wsd/2py50zqQphyqNAAHuqv07A4lz1q3q+BFmvzTEP5V+2oNrvaykwfpwvIiIAkNXHco6HDCh1UQLU3Rmmjuku+MNtXsUUag==;YRH6aNOi3uYYztwHxBq58Q=="
+secured: "ST24G1J4K7chGtYH3j5xFMWPZ97atxBEe5HHwg2qToecOgGuxWXzRj7W49gSfcWCUeDPRMFE0KYR7CtlLIR+RaaUT6L1mJEOwOX6D2DnjW7n6TG6gqeXn1fpUtSEf8ptne4frzLAYHQo1N30VRQv4fWG5QBGKp1TRJLsc4nwiVRrEhiT6ZqyZA3wrAnI0csc1Aqfjq/1z3mBWh7hE8PM6W8hmSal/cT2C2HpmPWJ11GV2Mq90P2YGo5b4FQbgxfgRmFFL3zC/OSkpXk1FPQR5b6NsQApz6uI/xuI/f4bpGkZnVFDaGYQsb29RA3KwibV0Z0F8BBX9bPKIcYtlE7TSTdsqj2tItDTdYyGLN5rLaxtYlDGtqUWl4Rywc7uO7l6p9wiKMJbqdltTKg25k6/JQ2tGYL7AJspnPmEmNXWXn/PLiqyM64+8Qm7GGZz/EuiF2l6e83O3MhSzOmjhRapnp1BrNuCa71SGRCtW35gMjxzIXVWAlhNvrQyCms/6qIfd5RQhGDxgWD2/R29KlhHWw==;nvJGNTaEIDK3HhNoH2I+2w=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/12/19/layoffs-are-coming-for-self-drivin
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/19/layoffs-are-coming-for-self-driving-truck-company-tusimple/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 114
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 633
         isCached: true
+  - title: "Self-Driving Truck Company TuSimple Axed Close To 350 Employees As Macro Uncertainties Weigh"
+    excerpt: "Autonomous driving technology company TuSimple Holdings Inc (NASDAQ:TSP) disclosed a restructuring plan to consolidate its position as a leader in the autonomous trucking industry. The restructuring plan involves a 25% reduction of TuSimple's total workforce,"
+    publishedDateTime: 2022-12-22T13:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/self-driving-truck-company-tusimple-axed-close-to-350-employees-as-macro-uncertainties-weigh-1031986928"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
   - title: "Self-driving truck startup TuSimple to cut half of workforce: report"
     excerpt: "TuSimple is planning a major headcount reduction which could affect 50% of its staff as the self-driving truck startup looks to cut costs"
     publishedDateTime: 2022-12-19T08:54:00Z
@@ -61,6 +70,15 @@ related:
         width: 540
         height: 540
         isCached: true
+  - title: "Self Driving Startup TuSimple Slashes Staff in Bid to Right the Ship."
+    excerpt: "TuSimple announced it is cutting about 25% of its staff, or about 350 people, to save $55 to $65 million annually. The company will have about 1,100 people when the restructuring is complete."
+    publishedDateTime: 2022-12-22T13:32:00Z
+    webUrl: "https://www.barrons.com/articles/self-driving-startup-tusimple-cut-staff-restructuring-51671715893?refsec=markets"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 19
 
 secured: "FmRLcAMKvZiQlj4dqVROhI/PanRSDkhWQJRQwjWlLWuIP8E/ucBbf8oxPrAofh/gzQPolkHEolr/wBp9Ttb7CmiIL5jGxvQSHJfd+AQTSjyGCvuYj6GoWhmGnCfQINKojqoBFxbJNrNI4gGJWq0hOQiFNQMmdv7JlO+cu9oVzfg3WYjlE8IOKbtw+vrYyK9KjZLPHviDmMYOpleDib9q3KUkWAGSqWXSxtxzo43mokOLyVGqCqNcn+aAQXJsDNhgMPQ5uY9MyiLkw/MhL2hWsocZ/NzgBMmgAOwATUpYp60uX/518ujsb3Rh8/8AsFSTogKXDyPCQtugP1f0dtPy5R+8VnsUJROMOYAczUDeQFM=;BdWip1+C6D+DS86bDDhYkQ=="
 ---

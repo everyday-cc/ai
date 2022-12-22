@@ -26,6 +26,17 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Intel splits up GPU division AXG Graphics Group"
+    excerpt: "Intel will split its Accelerated Computing Systems and Graphics Group (AGX) into two different branches. Consumer GPUs move to the Client Compute Group"
+    publishedDateTime: 2022-12-22T13:08:00Z
+    webUrl: "https://www.techzine.eu/news/infrastructure/97937/intel-splits-up-gpu-division-axg-graphics-group/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 19
+
 secured: "GrnezT6CC6Ds9QpFjJXtZb12GqxC+26Nlx/L4p64Aqko0812gcDQq64f7bbZKlz0cKmwrh3n+Kebd8bOHywaHY/wzpjThPQAADoorvGT7xhoAKrWHkj+nouw/aXZ621ElPdILqq/RoGxq+B2joPDBlTeFcxozDIVyrY81nDiuwLvdB+Rg13OsO3Q8BiFQLQjdoJ4Bx9GY9WJQcL6ZXDI6tHStL2nOYIPqnP7hkTwkSjuauCsv8lFj/ICWnHlO1VeEBH3oc0J2sjQ1kzR61omP3xOWFfNeCxoD1KRcJp6Bum+gieo7lnpavtsLIdQRkOPvXDjmANboXb5egYKcGoBPRO+98GcOCasjkEA3hN5H8zKdPricgkNFpll/X5jM75Q+Hl30B4rqBW7mgyd5l0iTa/wLgjmziVhm14exa7y+YEcT6oHSTZPRCvtF0mBTkFJMysAP99o6XV/P35pb4quZ15CnRwDhL2ZqqQNY7p+SHIuglKEyS8Cncv7yebiCav679X3R0yyP1DHSSWyTXeiRg==;0xCxvoQCYsWWGLYTuDNLGQ=="
 ---
 
