@@ -34,7 +34,7 @@ related:
     provider:
       name: The Conversation
       domain: theconversation.com
-    quality: 43
+    quality: 45
   - title: "What Companies Need to Know Before Investing in AI"
     excerpt: "Different forms of AI can improve performance through prediction; automation of routines; and identification of images, keywords, and patterns in voice and text. However, organizations often struggle with knowing where investments in AI will really pay off."
     publishedDateTime: 2022-12-19T13:25:00Z

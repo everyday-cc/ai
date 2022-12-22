@@ -27,17 +27,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Ways in which AI can lead to disruption of the EdTech sector"
-    excerpt: "Artificial intelligence (AI) is perhaps the buzzword today in the digital technological domain. AI, the intelligence that can be exhibited by machines"
-    publishedDateTime: 2022-12-17T14:43:00Z
-    webUrl: "https://timesofindia.indiatimes.com/education/online-schooling/ways-in-which-ai-can-lead-to-disruption-of-the-edtech-sector/articleshow/96247360.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 19
-
 secured: "V5Fx+2mg13yZOC6IOvWXoZtUYFG52ZiRQCptg1Y2kKkzTScUq7zqqoUZmGIW/xgNufuc/AcSRaV2o+QcfvDjn8cvHUy8Zhw3J9vtRLRFnV3ZNOyqrW5jaJFGuBkvLG0P6ziMZv5FJCe6E2jGc1OYXKZbUBo5yP/A7289y6rcxXd8LpNrjRehYC2/ueATNgYkZDu/4kIa5Vn72klaB4wv4jcBisLpsjylO7sQUz6NnfSKk13e6LzIEG6sQYRHJWWnDty4Acu2HoeuBbEtS5FZvD02DW18MzY0yKY6EPXM3HLEIDX5pm5pKCMP5Uwnu4//nuxERhDTwNur7gIIZAyWoaa+onnfgbyMvuWo3GkRvNRUDwsv3t5TC0MAZuMNaipd3DB/OHBXDmnP2avsUY6m5P0jNCogaO853catbc1BLeJ3Xa3yegqdBxzj5IhhFO71hskLY80WMYauSnszHO17iZaBznxgfESS5GzOwArBVLI7DYz9QFF1CinnWhUSWe1E+2csf6ANhKaop4QcnGylZQ==;8FNfntxAs6k/JizJ8ajmZw=="
 ---
 
