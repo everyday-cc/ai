@@ -67,7 +67,7 @@ related:
     provider:
       name: TheHealthSite
       domain: thehealthsite.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://st1.thehealthsite.com/wp-content/uploads/2022/12/Untitled-46.jpg"
         width: 1200

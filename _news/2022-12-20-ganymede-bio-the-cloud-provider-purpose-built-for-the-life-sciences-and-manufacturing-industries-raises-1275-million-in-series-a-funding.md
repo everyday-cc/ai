@@ -7,7 +7,7 @@ originalUrl: "https://technews.tmcnet.com/news/2022/12/20/9733334.htm"
 webUrl: "https://technews.tmcnet.com/news/2022/12/20/9733334.htm"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "Ganymede Bio raises $12.75M for data platform"
+    excerpt: "Ganymede Bio, the cloud infrastructure provider for the life sciences and manufacturing industries, has announced a $12.75M series A funding."
+    publishedDateTime: 2022-12-22T09:58:00Z
+    webUrl: "https://www.labiotech.eu/trends-news/ganymede-bio-funding-data-platform/"
+    type: article
+    provider:
+      name: labiotech
+      domain: labiotech.eu
+    quality: 39
+    images:
+      - url: "https://www.labiotech.eu/wp-content/uploads/2022/12/shutterstock-1843398859.jpg"
+        width: 500
+        height: 287
+        isCached: true
 
 secured: "YGsc2pRi4Q9X83cxPqdCRSxnx7PNtcwgdWTlZQUpvN05jU3220N1V0C/808Khj+J83XFItTZg9Wkb7AuHqRDj9jO7SyYL4uw3Fi2me8vztIrb8CrYwzGRRd+xWx12cUWsx8aMP2aVPCNuNJczFfb6fjf5LlfCdKSk3BfXIquTPUaJSGWZrOAR7N/u1vp91xDj6WNCydKtnXzL2Up812LoZhXM/CkOxoljnrGf/+pjNm7dGgqM0PqK1hfGY6cevyuwPK8H0crABHpDbw5GaCY9lyrswJSYf5S7wABgNuXzmfw4X4DDpcI1W00/hmHPIuciishTBZzbFf5qhbtyKRfG1HpxYwc0CWnnRhk9oBihaA=;u2DEgGKzBDkoV0Fben/ryA=="
 ---

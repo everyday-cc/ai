@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/12/21/business/tesla-fsd-8-car-crash/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/12/21/business/tesla-fsd-8-car-crash/index.html"
 type: article
 quality: 86
-heat: 157
+heat: 158
 published: true
 
 provider:

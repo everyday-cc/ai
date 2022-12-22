@@ -135,6 +135,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Facial recognition technology may soon come to LI schools. Will it keep students safe or invade their privacy?"
+    excerpt: "Two state agencies are looking into the use of the surveillance system that opponents say invades privacy and proponents say helps to keep students safe."
+    publishedDateTime: 2022-12-22T10:00:00Z
+    webUrl: "https://www.newsday.com/long-island/facial-recognition-technology-schools-p70v0mx1"
+    type: article
+    provider:
+      name: Newsday
+      domain: newsday.com
+    quality: 19
+    images:
+      - url: "https://cdn.newsday.com/ace/c:NmFhYmM4OWUtZjFiOC00:ODAxNmQ4/landscape/1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Girl Scout mom gets kicked out of Rockettes show due to facial recognition technology"
     excerpt: "One mom was kicked out of a Rockettes performance after facial recognition technology recognized her at Radio City Music Hall. Category : Viral & Trending"
     publishedDateTime: 2022-12-21T19:50:00Z

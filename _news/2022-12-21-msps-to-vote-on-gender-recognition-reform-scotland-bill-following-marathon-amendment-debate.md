@@ -7,7 +7,7 @@ originalUrl: "https://morningstaronline.co.uk/article/h-lead-msps-vote-gender-re
 webUrl: "https://morningstaronline.co.uk/article/h-lead-msps-vote-gender-recognition-reform-bill-following-marathon-amendment-debate"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Voice for Choice group urges MPs to vote yes on abortion law amendment bill"
-    excerpt: "Voice for Choice activists stood in front of Parliament on Monday \"revolted\" by some of the things that were said by some politicians over the past weeks. \"The quality of political debate in our country is already low,"
-    publishedDateTime: 2022-12-19T13:27:00Z
-    webUrl: "https://www.independent.com.mt/articles/2022-12-19/local-news/Voice-for-Choice-group-urges-MPs-to-vote-yes-on-abortion-law-amendment-bill-6736248342"
+  - title: "Scottish parliament vote on gender recognition changes delayed until Thursday"
+    excerpt: "Vote on law that would remove need for diagnosis of gender dysphoria to obtain gender recognition certificate pushed back after fraught debate"
+    publishedDateTime: 2022-12-22T08:31:00Z
+    webUrl: "https://www.theguardian.com/world/2022/dec/21/scotland-set-to-pass-controversial-gender-recognition-reforms?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/world/2022/dec/21/scotland-set-to-pass-controversial-gender-recognition-reforms"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/dec/21/scotland-set-to-pass-controversial-gender-recognition-reforms"
     type: article
     provider:
-      name: The Malta Independent
-      domain: independent.com.mt
-    quality: 2
+      name: The Guardian
+      domain: theguardian.com
+    quality: 41
+    images:
+      - url: "https://i.guim.co.uk/img/media/1d402f8dcbcad776d1791f7b4c009730881485e7/0_182_5472_3283/master/5472.jpg?width=620&quality=85&auto=format&fit=max&s=3e135bdf8af6a55a4ffe6ad6b7f7dbbf"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "lda0HV1TNirYo7B6jfs8r5fUcuHRDOXgGam6wjAYnmDiiyqZ38x9PoQOOaAm5b735eIjq+ARAwxIBVecWJCCtVbUoFagmEvWId5c1OCOTi6xv/mZHPBa8TMBpJxlAq4nX8Xx5wLQR0YEfMG6pqDb+MA06ChfF8QsdaKMPItmI5sYPNggzY8T+ybqs2n9TXRimmh5F6xgkpbkPJoOxa4BttatJE7Uw7C3GxujN3qEwEXpCCHOQUTh3OuslsmAmHV+c8hogQKSQPeSa8iEmMgLAdcwkdXk2X85EsgRCVEpvgXdoEPJrf4czy+eRXS+o/1sxJJlUX8fqOPAQMo1E1Lt2pgvdx9/WLn/jLQcYpMyxwY=;tGQQ1HCimGXLECWHeUkDpQ=="
 ---

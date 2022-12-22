@@ -8,7 +8,7 @@ webUrl: "https://www.thehealthsite.com/news/india-conducts-first-5g-driven-artif
 ampWebUrl: "https://www.thehealthsite.com/news/india-conducts-first-5g-driven-artificial-intelligence-guided-colonoscopy-trial-937051/amp/"
 cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/india-conducts-first-5g-driven-artificial-intelligence-guided-colonoscopy-trial-937051/amp/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AWS AI
 
 images:
   - url: "https://st1.thehealthsite.com/wp-content/uploads/2022/12/Untitled-46.jpg"

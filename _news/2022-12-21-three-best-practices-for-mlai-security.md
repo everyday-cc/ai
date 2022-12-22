@@ -7,7 +7,7 @@ originalUrl: "https://www.scmagazine.com/perspective/emerging-technology/three-b
 webUrl: "https://www.scmagazine.com/perspective/emerging-technology/three-best-practices-for-ml-ai-security"
 type: article
 quality: 73
-heat: 73
+heat: 74
 published: true
 
 provider:

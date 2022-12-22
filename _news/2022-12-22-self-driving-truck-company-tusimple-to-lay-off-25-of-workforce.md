@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "TuSimple, a self-driving truck company, will fire hundreds of workers"
-    excerpt: "The job cut of TuSimple would likely affect at least 700 employees, the report said citing people familiar with the matter"
-    publishedDateTime: 2022-12-17T18:22:00Z
-    webUrl: "https://techstory.in/tusimple-a-self-driving-truck-company-will-fire-hundreds-of-workers/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 24
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/08/betiton.jpeg"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Self-driving truck startup TuSimple to cut half of workforce: report"
     excerpt: "TuSimple is planning a major headcount reduction which could affect 50% of its staff as the self-driving truck startup looks to cut costs"
     publishedDateTime: 2022-12-19T08:54:00Z
