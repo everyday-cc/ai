@@ -30,7 +30,7 @@ related:
     provider:
       name: Kotaku
       domain: kotaku.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e127f386e6caa2a596c7bb95dec0c91b.jpg"
         width: 1200

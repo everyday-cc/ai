@@ -2,59 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-12-02-how-ai-could-help-boost-help-desk-productivity-in-2023.md",
-      "title": "How AI Could Help Boost Help Desk Productivity In 2023",
-      "excerpt": "As businesses develop their IT budgets for 2023, with the specter of an economic slowdown looming, artificial intelligence (AI)-related projects will figure prominently in the discretionary spending plans of many organizations. In most cases, their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-help-boost-help-desk-productivity-in-2023/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-help-boost-help-desk-productivity-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6064dbb8610333ea7f4c8408/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-help-boost-help-desk-productivity-in-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/02/how-ai-could-help-boost-help-desk-productivity-in-2023/amp/",
-      "publishedDateTime": "2022-12-02T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2022-12-02-artificial-intelligence-chipset-market-2022-industry-size-shares-segment-forecast-up-to-2028.md",
       "title": "Artificial Intelligence Chipset Market 2022 Industry Size, Shares, Segment & Forecast up to 2028",
       "excerpt": "The global Artificial Intelligence Chipset market report provides geographic analysis covering regions, such as",
@@ -1452,6 +1399,51 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-24-natural-language-processing-nlp-in-healthcare-market-overview-2022-to-2030-future-trends-and-forecast-by-3m-linguamatics-amazon-aws.md",
+      "title": "Natural Language Processing (NLP) in Healthcare Market Overview 2022 to 2030, Future Trends and Forecast | By -3M, Linguamatics, Amazon AWS",
+      "excerpt": "Browse detailed TOC, Tables, Figures, Charts, and Companies mentioned in the Global Natural Language Processing (NLP) in Healthcare Market research report 2022-2030 The Global Natural Language Processing (NLP) in Healthcare Market investigation report is segmented by Types ( Machine Translation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-overview-2022-to-2030-future-trends-and-forecast-by--3m-linguamatics-amazon-aws-2022-11-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-overview-2022-to-2030-future-trends-and-forecast-by--3m-linguamatics-amazon-aws-2022-11-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-23T19:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare",
+        "AWS AI"
       ]
     }
   ],

@@ -2,6 +2,145 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2022-11-04-ai-image-generator-dall-e-is-coming-to-your-apps.md",
+      "title": "AI image generator DALL-E is coming to your apps",
+      "excerpt": "OpenAI has announced that its AI image generator can now be integrated into apps and products through its new DALL-E API.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/ai-image-generator-dall-e-3231305/",
+      "originalUrl": "https://www.androidauthority.com/ai-image-generator-dall-e-3231305/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2022/11/twitter-1-scaled.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-04T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-transfer-learning-for-tensorflow-object-detection-models-in-amazon-sagemaker.md",
+      "title": "Transfer learning for TensorFlow object detection models in Amazon SageMaker",
+      "excerpt": "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/transfer-learning-for-tensorflow-object-detection-models-in-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/transfer-learning-for-tensorflow-object-detection-models-in-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 200,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/04/transfer-learning-object-models-sagemaker.jpg",
+          "width": 1550,
+          "height": 774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-04T08:28:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2022-11-04-collaborative-robot-cobot-market-worth-92-billion-by-2028-exclusive-report-by-marketsandmarkets.md",
+      "title": "Collaborative Robot (Cobot) Market Worth $9.2 Billion by 2028 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "Collaborative robot (cobot) market is projected to grow from USD 1.1 Billion in 2022 to USD 9.2 Billion by 2028, at a CAGR of 41.5% during the forecast period from 2022 to",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/11/n29572091/collaborative-robot-cobot-market-worth-9-2-billion-by-2028-exclusive-report-by-marketsandmarkets",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/11/n29572091/collaborative-robot-cobot-market-worth-9-2-billion-by-2028-exclusive-report-by-marketsandmarkets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29572091",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29572091",
+      "publishedDateTime": "2022-11-04T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-04-global-oncology-information-system-market-report-2022-increasing-adoption-of-ai-to-reshape-sector-and-drive-growth-researchandmarketscom.md",
       "title": "Global Oncology Information System Market Report 2022: Increasing Adoption of AI to Reshape Sector and Drive Growth - ResearchAndMarkets.com",
       "excerpt": "The increase in the prevalence of cancer is a key driving factor which expected to boost the global oncology information system market growth over the forecast period. The oncology information system offers various advantages,",
@@ -981,143 +1120,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-openai-debuts-dall-e-api-so-devs-can-integrate-its-ai-artwork-into-their-apps.md",
-      "title": "OpenAI debuts DALL-E API so devs can integrate its AI artwork into their apps",
-      "excerpt": "OpenAI announced the introduction of an API for its DALL-E image synthesis model that will allow developers to easily integrate its AI image generation technology into their apps. DALL-E, currently available as a standalone commercial service,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/11/openai-debuts-dall-e-api-so-devs-can-integrate-its-ai-artwork-into-their-apps/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/11/openai-debuts-dall-e-api-so-devs-can-integrate-its-ai-artwork-into-their-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/dalle_openai_corgis_1-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2022/11/openai-debuts-dall-e-api-so-devs-can-integrate-its-ai-artwork-into-their-apps/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/11/openai-debuts-dall-e-api-so-devs-can-integrate-its-ai-artwork-into-their-apps/amp/",
-      "publishedDateTime": "2022-11-03T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-early-deprivation-may-be-more-closely-linked-with-cognitive-and-emotional-functioning-in-adolescence.md",
-      "title": "Early deprivation may be more closely linked with cognitive and emotional functioning in adolescence",
-      "excerpt": "Experiences of early adversity due to poverty, abuse, and neglect are known to interfere with children's cognitive and emotional development. Recent research in Psychological Science expands on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20221103/Early-deprivation-may-be-more-closely-linked-with-cognitive-and-emotional-functioning-in-adolescence.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20221103/Early-deprivation-may-be-more-closely-linked-with-cognitive-and-emotional-functioning-in-adolescence.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Children_playing_sunset_-_Zurijeta_8c5bdac77e44431bb1bfec67b9c87208-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20221103/Early-deprivation-may-be-more-closely-linked-with-cognitive-and-emotional-functioning-in-adolescence.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20221103/Early-deprivation-may-be-more-closely-linked-with-cognitive-and-emotional-functioning-in-adolescence.aspx",
-      "publishedDateTime": "2022-11-03T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-tag-intelligent-object-recognition.md",
-      "title": "Tag: intelligent object recognition",
-      "excerpt": "ST. PAUL, Minn. – Alula, a provider of smart security and system communications for residential and commercial applications has announced several enhanced features for its Alula Smart Security App and AlulaConnect dealer portal. The features and updates ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.securitysystemsnews.com/tag/intelligent-object-recognition",
-      "originalUrl": "https://www.securitysystemsnews.com/tag/intelligent-object-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.securitysystemsnews.com/images/og-default-image.png",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Security Systems News",
-        "domain": "securitysystemsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

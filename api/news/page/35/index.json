@@ -2,6 +2,144 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2022-11-22-teaching-photonic-chips-to-learn.md",
+      "title": "Teaching photonic chips to 'learn'",
+      "excerpt": "A multi-institution research team has developed an optical chip that can train machine learning hardware. Machine learning applications skyrocketed to $165B annually, according to a recent report ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221122221305.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221122221305.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-21T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-22-how-spotify-trained-an-ai-to-transcribe-music.md",
+      "title": "How Spotify trained an AI to transcribe music",
+      "excerpt": "This tool uses a machine learning model to detect the different notes in an audio clip and turn it into a MIDI file.",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/technology/spotify-basic-pitch/",
+      "originalUrl": "https://www.popsci.com/technology/spotify-basic-pitch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2022/11/21/parsoa-khorsand-OhHPxRrhBIM-unsplash-scaled.jpg?auto=webp",
+          "width": 2560,
+          "height": 1755,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/technology/spotify-basic-pitch/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/spotify-basic-pitch/?amp",
+      "publishedDateTime": "2022-11-21T15:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-11-22-beyond-the-banhammer-how-ai-is-changing-content-moderation.md",
+      "title": "Beyond the banhammer: How AI is changing content moderation",
+      "excerpt": "NLP can help manage player-generated content at scale to increase retention, promote positivity, and build a fun game community.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/beyond-the-banhammer-how-ai-is-changing-content-moderation/",
+      "originalUrl": "https://venturebeat.com/games/beyond-the-banhammer-how-ai-is-changing-content-moderation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-1219162009.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/beyond-the-banhammer-how-ai-is-changing-content-moderation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/beyond-the-banhammer-how-ai-is-changing-content-moderation/amp/",
+      "publishedDateTime": "2022-11-21T12:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-11-22-the-challenge-of-cognitive-load-in-platform-engineering-a-discussion-with-paula-kennedy.md",
       "title": "The Challenge of Cognitive Load in Platform Engineering: a Discussion with Paula Kennedy",
       "excerpt": "platform teams can encourage them to use the services and tools that are preferred by the business. This helps to streamline the number of tools offered, reduce the cognitive load of too many ...",
@@ -1032,135 +1170,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-21-ai-applications-with-watson.md",
-      "title": "AI Applications with Watson",
-      "excerpt": "Turbocharge your chatbot's IQ and AI capabilities with IBM Watson Discovery and powered by Watson Assistant. Learn to use and program tools and assitant services such as Tone Analyzer and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/education/skillbuilder/ai-applications-with-watson-1_course_v1:IBM+CB0106EN+3T2022_verified",
-      "originalUrl": "https://www.usnews.com/education/skillbuilder/ai-applications-with-watson-1_course_v1:IBM+CB0106EN+3T2022_verified",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-21T00:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-21-ai-chatbots-without-programming.md",
-      "title": "AI Chatbots without Programming",
-      "excerpt": "Leveraging the AI power of Watson Assistant, you will be able toaccomplish all this without the need to write any code! Please Note: Learners who successfully complete this IBM course can earn a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/education/skillbuilder/ai-chatbots-without-programming-1_course_v1:IBM+CB0103EN+3T2022_verified",
-      "originalUrl": "https://www.usnews.com/education/skillbuilder/ai-chatbots-without-programming-1_course_v1:IBM+CB0103EN+3T2022_verified",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-21T00:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-21-researchers-find-connection-between-gut-and-stroke-induced-cognitive-impairment.md",
-      "title": "Researchers find connection between gut and stroke-induced cognitive impairment",
-      "excerpt": "The American Heart Association revealed that stroke patients are more likely to experience depression, which has a detrimental effect on functional and cognitive restoration. The Texas A&M team ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tribuneindia.com/news/health/researchers-find-connection-between-gut-and-stroke-induced-cognitive-impairment-453202",
-      "originalUrl": "https://www.tribuneindia.com/news/health/researchers-find-connection-between-gut-and-stroke-induced-cognitive-impairment-453202",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/11/2022_11$largeimg_74096273.JPG",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tribuneindia.com/news/health/researchers-find-connection-between-gut-and-stroke-induced-cognitive-impairment-453202",
-      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/health/researchers-find-connection-between-gut-and-stroke-induced-cognitive-impairment-453202",
-      "publishedDateTime": "2022-11-20T23:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tribune",
-        "domain": "tribuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-10-18-google-cloud-next-2022-customers-benefit-from-enhanced-ai-capabilities.md",
+      "title": "Google Cloud Next 2022 – Customers Benefit From Enhanced AI Capabilities",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead covers the announcements that stuck out to him at Google Cloud Next 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/17/google-cloud-next-2022--customers-benefit-from-enhanced-ai-capabilities/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/17/google-cloud-next-2022--customers-benefit-from-enhanced-ai-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/634dc83f37b4033ea58e9c6e/0x0.png?format=png&width=1200",
+          "width": 936,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/17/google-cloud-next-2022--customers-benefit-from-enhanced-ai-capabilities/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/10/17/google-cloud-next-2022--customers-benefit-from-enhanced-ai-capabilities/amp/",
+      "publishedDateTime": "2022-10-17T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-17-physicianone-urgent-care-adopts-augnitos-voice-recognition-ai-solution-across-its-20-plus-locations-in-the-us.md",
       "title": "PhysicianOne Urgent Care Adopts Augnito's Voice Recognition AI Solution Across Its 20-Plus locations in the U.S.",
       "excerpt": "Augnito's medical voice recognition solution will be used by providers across all of PhysicianOne Urgent Care's 20-plus U.S. locations. \"PhysicianOne Urgent Care provides convenient access to high ...",
@@ -1348,58 +1400,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-eight-principles-to-improve-the-effectiveness-of-automation-endeavors.md",
-      "title": "Eight Principles To Improve The Effectiveness Of Automation Endeavors",
-      "excerpt": "With machine learning and natural language processing, the techniques and technologies for process mining and discovery and myriad low-code/no-code platforms, enterprise automation is entering an exciting era of possibilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/04/eight-principles-to-improve-the-effectiveness-of-automation-endeavors/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/04/eight-principles-to-improve-the-effectiveness-of-automation-endeavors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62d5664154e050ad879139f3/0x0.jpg?format=jpg&crop=1680,945,x0,y202,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/04/eight-principles-to-improve-the-effectiveness-of-automation-endeavors/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/04/eight-principles-to-improve-the-effectiveness-of-automation-endeavors/amp/",
-      "publishedDateTime": "2022-10-04T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

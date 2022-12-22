@@ -19,20 +19,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Artificial Intelligence searches for early sign of osteoarthritis: Research"
-    excerpt: "In practice, the AI tries to detect whether there is spiking on the tibial tubercles in the knee joint or not. Tibial spiking can be a sign of osteoarthritis."
-    publishedDateTime: 2022-12-17T10:29:00Z
-    webUrl: "https://telanganatoday.com/artificial-intelligence-searches-for-early-sign-of-osteoarthritis-research"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 37
-    images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/12/Artificial-Intelligence.jpg"
-        width: 1280
-        height: 750
-        isCached: true
   - title: "Artificial Intelligence Searches an Early Sign of Knee Osteoarthritis from X-Rays"
     excerpt: "Researchers have developed an artificial intelligence-based neural network to detect an early knee osteoarthritis from x-ray images."
     publishedDateTime: 2022-12-19T22:03:00Z

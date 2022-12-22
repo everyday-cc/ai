@@ -2,6 +2,137 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2022-11-30-study-cognitive-flexibility-enhances-mathematical-reasoning.md",
+      "title": "Study: Cognitive flexibility enhances mathematical reasoning",
+      "excerpt": "The study was published in the Journal of Numerical Cognition. Proportional reasoning is a cognitive process that involves ratios and proportions to solve a mathematical problem. This reasoning is ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-11-cognitive-flexibility-mathematical.html",
+      "originalUrl": "https://phys.org/news/2022-11-cognitive-flexibility-mathematical.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/cognitive-flexibility-1.jpg",
+          "width": 1264,
+          "height": 1264,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-11-cognitive-flexibility-mathematical.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-cognitive-flexibility-mathematical.amp",
+      "publishedDateTime": "2022-11-29T14:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-chinas-tech-giant-baidu-plans-to-rollout-the-worlds-largest-fully-autonomous-ride-hailing-service-by-next-year.md",
+      "title": "China's Tech Giant Baidu Plans to Rollout the World's Largest Fully Autonomous Ride-Hailing Service by Next Year",
+      "excerpt": "China's internet technology giant Baidu Inc. held its “Apollo Day” live-streamed technology event on Monday where the company shared its latest progress on autonomous driving. Among the announcements at Apollo Day were Baidu’s plans to launch the world's largest fully-autonomous ride-hailing service aptly named “Apollo Go” by next year and become the world’s biggest robotaxi operator.",
+      "sourceUrl": null,
+      "webUrl": "https://www.futurecar.com/5617/Chinas-Tech-Giant-Baidu-Plans-to-Rollout-the-World’s-Largest-Fully-Autonomous-Ride-Hailing-Service-by-Next-Year",
+      "originalUrl": "https://www.futurecar.com/5617/Chinas-Tech-Giant-Baidu-Plans-to-Rollout-the-World’s-Largest-Fully-Autonomous-Ride-Hailing-Service-by-Next-Year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.futurecar.com/202211/29/l_638691bdaaa74.jpeg",
+          "width": 700,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "futurecar",
+        "domain": "futurecar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-how-high-school-should-change-for-an-era-of-ai-and-robots.md",
+      "title": "How High School Should Change for an Era of AI and Robots",
+      "excerpt": "Public high school in America was the product of the time of its invention, which was way back in 1821. But in this era of rapid technological change",
+      "sourceUrl": null,
+      "webUrl": "https://www.edsurge.com/news/2022-11-29-how-high-school-should-change-for-an-era-of-ai-and-robots",
+      "originalUrl": "https://www.edsurge.com/news/2022-11-29-how-high-school-should-change-for-an-era-of-ai-and-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://edsurge.imgix.net/uploads/post/image/15085/robots_and_teachers-1669758372.png?auto=compress%2Cformat&w=640&h=259&fit=crop",
+          "width": 640,
+          "height": 259,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.edsurge.com/amp/news/2022-11-29-how-high-school-should-change-for-an-era-of-ai-and-robots",
+      "cdnAmpWebUrl": "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2022-11-29-how-high-school-should-change-for-an-era-of-ai-and-robots",
+      "publishedDateTime": "2022-11-29T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EdSurge",
+        "domain": "edsurge.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-cerebras-unveils-new-partnerships-for-llm-and-generative-ai-tools.md",
       "title": "Cerebras unveils new partnerships for LLM and generative AI tools",
       "excerpt": "Cerebras Systems announced a new partnership with Cirrascale Cloud Services on an LLM tool and a partnership with Jasper AI on a generative AI tool.",
@@ -974,146 +1105,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem.md",
-      "title": "BAE Systems adds Microsoft to modeling and simulation ecosystem",
-      "excerpt": "BAE Systems is expanding the network of companies in its modeling and simulations ecosystem to include Microsoft. With this addition,  This press release features multimedia. View the full release here:   (Credit: BAE Systems) “Microsoft Azure is widely regarded as a prominent provider of cloud computing services for government,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem/article_09a8296f-2a89-5be5-8852-247c6e7dd5f6.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem/article_09a8296f-2a89-5be5-8852-247c6e7dd5f6.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/a/da/ada8d6f0-eb7c-548b-a469-7bc080bd4580/638614d0a1fa1.image.jpg",
-          "width": 633,
-          "height": 1140,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bakersfield.com/ap/news/bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem/article_09a8296f-2a89-5be5-8852-247c6e7dd5f6.amp.html",
-      "cdnAmpWebUrl": "https://www-bakersfield-com.cdn.ampproject.org/c/s/www.bakersfield.com/ap/news/bae-systems-adds-microsoft-to-modeling-and-simulation-ecosystem/article_09a8296f-2a89-5be5-8852-247c6e7dd5f6.amp.html",
-      "publishedDateTime": "2022-11-29T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-deepgram-lands-new-cash-to-grow-its-enterprise-voice-recognition-business.md",
-      "title": "Deepgram lands new cash to grow its enterprise voice-recognition business",
-      "excerpt": "Deepgram, a company developing voice-recognition tech for the enterprise, today raised $47 million in new funding led by Madrona Venture Group with participation from Citi Ventures and Alkeon.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/29/deepgram-lands-new-cash-to-grow-its-enterprise-voice-recognition-business/",
-      "originalUrl": "https://techcrunch.com/2022/11/29/deepgram-lands-new-cash-to-grow-its-enterprise-voice-recognition-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1024463070.jpg?resize=1200,654",
-          "width": 1200,
-          "height": 654,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/29/deepgram-lands-new-cash-to-grow-its-enterprise-voice-recognition-business/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/29/deepgram-lands-new-cash-to-grow-its-enterprise-voice-recognition-business/amp/",
-      "publishedDateTime": "2022-11-29T04:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-finance-provider-sets-up-fund-aimed-at-ai-machine-learning-and-data-science.md",
-      "title": "Finance provider sets up fund aimed at AI, machine learning and data science",
-      "excerpt": "AI will focus specifically on early stage, high growth artificial intelligence (AI), machine learning and data science investment opportunities in the North of the UK. River Capital says Northern data science SMEs are underserved by venture capital,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thebusinessdesk.com/northwest/news/2106804-finance-provider-sets-up-fund-aimed-at-ai-machine-learning-and-data-science",
-      "originalUrl": "https://www.thebusinessdesk.com/northwest/news/2106804-finance-provider-sets-up-fund-aimed-at-ai-machine-learning-and-data-science",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thebusinessdesk.com/_files/images/nov_22/Dr-Marc-dAbbadie-river-capital-e1669722818427.png",
-          "width": 322,
-          "height": 216,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T03:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The UK",
-        "domain": "thebusinessdesk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

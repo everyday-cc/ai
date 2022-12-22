@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-21T23:30:00Z
 originalUrl: "https://seekingalpha.com/article/4565570-nvidia-backbone-artificial-intelligence-industry"
 webUrl: "https://seekingalpha.com/article/4565570-nvidia-backbone-artificial-intelligence-industry"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://static.seekingalpha.com/uploads/2022/12/19/55230498-16714629618030434.png"
@@ -115,6 +116,6 @@ related:
         height: 720
         isCached: true
 
-secured: "6btkmSzFgUbTnP7OtwHbV7DXAizVpnp67OlanjfRYiArYw0XFcSOb4Kz3jRizo7H4guSTtz8udyIg1RZ6QlRO5RNqz6tCn60MxPP5ynWSiJpXa6TxtwaAFndsPeWwB/K2PrzO669s9/SL8lQNwaqXmSSZyEsK+OgXk5AXh6mKYHnckEsHZvxmOUI8QFupo2gv4WUASskgch+56CLmD7p+5YHGnjTjzDoj/JeQBKgwt+I5J8fNesqJ4H9GRGiJ8JtsHxuJ9Bk+zXvpMNyhBTSLI7lOynOGAUb3//SjtgHfkDCvEn3++KFevkFRsKuDhDf8qqx6OAQabD9Hu5MHqbXrBR+ODHrjFW7GKWOirewZ7Y=;JFzijNLCOtF8/TaylLICxA=="
+secured: "pcGxSwC5kBDx5OCWuVp0MRydvtOs5wA4iRmh+UaS9Z8NGG3kLig1j1Xd9EoLrJ+B7u0QQnAZaYt3qc7iAhrM0bZ/GZKnoIQ4o7tqM/nIgei1TjcWWzhAvnNsNtbotrIpLrvc4jkxqpBLaHacYFlviso4M1AVmpX4aCved+z9qh90Ezqy3J8JzcB7HwyyYaXUK4n/wrWw44z/nkHCDEMB11jfWXDW7QY4EV4EcYqX6EAzqPslaBwyEDxog/qOMVNLGAmGWj2xlWQDwIb8WDqF0sM+kTRYZqEiTcZW5G53dLDQdEmCidSAAinosZrdG2IyAYxwh2l1EDJdHoezFhG+IPlXqKlxEdsWIASqUyeTkYzBmrA0WyJl9AwStmr+dpaVWL+5S45lRd9Ri6ryuIdp9zM9TdMUYtjWblbBUwlS/YwMIKGCGM2jh8LPtoF2hm88qiVEQh1rEe11fD3dKjwAg+Tr8IU8YpLr72bgn6KCstr2nEupIGawrtFflSFYDVvv8kA1FYGQ50r/3KkhvsLE/w==;oESaS8SaYtyK7brBJBgmYg=="
 ---
 

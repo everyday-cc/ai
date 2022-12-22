@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-12-12-how-nvidia-tricked-everyone-into-buying-a-1600-gpu.md",
+      "title": "How Nvidia tricked everyone into buying a $1,600 GPU",
+      "excerpt": "Has Nvidia really managed to trick us into thinking that a $1,600 GPU is a great deal? When Nvidia first launched its Ada Lovelace flagship, the RTX 4090, and the reviews started pouring in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/how-nvidia-tricked-everyone-into-buying-rtx-4090/",
+      "originalUrl": "https://www.digitaltrends.com/computing/how-nvidia-tricked-everyone-into-buying-rtx-4090/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/11/rtx-4080-review-06.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/how-nvidia-tricked-everyone-into-buying-rtx-4090/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-nvidia-tricked-everyone-into-buying-rtx-4090/?amp",
+      "publishedDateTime": "2022-12-11T10:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-12-the-future-of-ai-is-finally-here-and-a-lot-of-people-are-going-to-be-out-of-a-job.md",
       "title": "The Future Of AI Is Finally Here – And A Lot Of People Are Going To Be Out Of A Job",
       "excerpt": "For years, folks have been talking about the coming AI revolution, about how it’s going to change everything, and about how it is going to cost a lot of people their jobs. Well, the future is now – and business leaders need to take note.",
@@ -1094,21 +1146,21 @@
       ]
     },
     {
-      "path": "_news/2022-12-10-deepmind-created-an-ai-tool-that-can-help-generate-rough-film-and-stage-scripts.md",
-      "title": "DeepMind created an AI tool that can help generate rough film and stage scripts",
-      "excerpt": "Alphabet's DeepMind has built an AI tool that can help get you started. Dramatron is a so-called \"co-writing\" tool that can generate character descriptions, plot points, location descriptions and ...",
+      "path": "_news/2022-12-10-we-benchmark-the-snapdragon-8-gen-2-solid-cpu-gains-impressive-gpu-upgrade.md",
+      "title": "We benchmark the Snapdragon 8 Gen 2: solid CPU gains, impressive GPU upgrade",
+      "excerpt": "Here is a summary of the chipsets we are looking at today: The Snapdragon 8 Gen 2 also uses the new Adreno 740 GPU. Qualcomm is secretive about the hardware specifics, but there must have been a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/deepmind-ai-tool-film-theater-scripts-dramatron-212328597.html",
-      "originalUrl": "https://www.engadget.com/deepmind-ai-tool-film-theater-scripts-dramatron-212328597.html",
+      "webUrl": "https://www.gsmarena.com/testing_the_snapdragon_8_gen_2_solid_cpu_gains_impressive_gpu_upgrade-news-56817.php",
+      "originalUrl": "https://www.gsmarena.com/testing_the_snapdragon_8_gen_2_solid_cpu_gains_impressive_gpu_upgrade-news-56817.php",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-12/ed82e680-7802-11ed-a59f-bc23be79c645",
-          "width": 5645,
-          "height": 3634,
+          "url": "https://fdn.gsmarena.com/imgroot/news/22/12/snapdragon-8-gen-2-tested/-1220x526/gsmarena_000.jpg",
+          "width": 1220,
+          "height": 526,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1116,23 +1168,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/deepmind-ai-tool-film-theater-scripts-dramatron-212328597.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/deepmind-ai-tool-film-theater-scripts-dramatron-212328597.html",
-      "publishedDateTime": "2022-12-09T14:08:00-08:00",
+      "ampWebUrl": "https://m.gsmarena.com/testing_the_snapdragon_8_gen_2_solid_cpu_gains_impressive_gpu_upgrade-amp-56817.php",
+      "cdnAmpWebUrl": "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/testing_the_snapdragon_8_gen_2_solid_cpu_gains_impressive_gpu_upgrade-amp-56817.php",
+      "publishedDateTime": "2022-12-09T14:55:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "GSM Arena",
+        "domain": "gsmarena.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1141,59 +1184,7 @@
         "news"
       ],
       "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-10-that-mysterious-object-on-a-florida-beach-its-a-shipwreck.md",
-      "title": "That Mysterious Object on a Florida Beach? It’s a Shipwreck.",
-      "excerpt": "Anyone can read what you share. By Christine Hauser and Jesus Jiménez After the discovery last month of a strange 80-foot-long, wood-and-metal object that had emerged from the sand at Daytona ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/12/09/us/mysterious-object-florida-beach-discovered.html",
-      "originalUrl": "https://www.nytimes.com/2022/12/09/us/mysterious-object-florida-beach-discovered.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/12/09/multimedia/00xp-daytona-1-dbf7/00xp-daytona-1-dbf7-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/12/09/us/mysterious-object-florida-beach-discovered.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/09/us/mysterious-object-florida-beach-discovered.amp.html",
-      "publishedDateTime": "2022-12-09T13:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
+        "AI Hardware",
         "AI"
       ]
     }

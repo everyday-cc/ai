@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-12-20-power-recommendation-and-search-using-an-imdb-knowledge-graph-part-1.md",
-      "title": "Power recommendation and search using an IMDb knowledge graph – Part 1",
-      "excerpt": "The IMDb and Box Office Mojo Movies/TV/OTT licensable data package provides a wide range of entertainment metadata, including over 1 billion user ratings; credits for more than 11 million cast and crew members; 9 million movie, TV, and entertainment titles; and global box office reporting data from more",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-power-recommendation-and-search-using-an-imdb-knowledge-graph/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-power-recommendation-and-search-using-an-imdb-knowledge-graph/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/20/imdb-knowledge-graph-part-1.jpg",
-          "width": 1051,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-20T08:33:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-20-accelerate-the-investment-process-with-aws-low-code-no-code-services.md",
       "title": "Accelerate the investment process with AWS Low Code-No Code services",
       "excerpt": "The last few years have seen a tremendous paradigm shift in how institutional asset managers source and integrate multiple data sources into their investment process. With frequent shifts in risk correlations, unexpected sources of volatility, and increasing competition from passive strategies, asset",
@@ -197,6 +145,58 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-20-artificial-intelligence-platforms-will-drive-the-next-phase-of-trade-finance-growth.md",
+      "title": "Artificial Intelligence Platforms Will Drive The Next Phase Of Trade Finance Growth",
+      "excerpt": "Now is the time for organizations to start considering trade finance software and vetting solutions that can help them digitalize their processes and grow alongside the industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/20/artificial-intelligence-platforms-will-drive-the-next-phase-of-trade-finance-growth/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/20/artificial-intelligence-platforms-will-drive-the-next-phase-of-trade-finance-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63a077ac584d9964d48cea81/0x0.jpg?format=jpg&crop=2176,1451,x0,y53,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/20/artificial-intelligence-platforms-will-drive-the-next-phase-of-trade-finance-growth/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/20/artificial-intelligence-platforms-will-drive-the-next-phase-of-trade-finance-growth/amp/",
+      "publishedDateTime": "2022-12-20T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -796,6 +796,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-20-says-india-will-contribute-to-ai-breakthroughs-good-time-for-start-ups.md",
+      "title": "Says India will contribute to AI breakthroughs; good time for start-ups",
+      "excerpt": "Speaking at the ‘Google for India’ event — where the tech giant launched a slew of products and services for India — Pichai said technology is exponentially expanding and touching lives of people around the world and the moment calls for “responsible and balanced” regulation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/google-ceo-pitches-for-balance-between-regulation-and-innovation/article66281963.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/info-tech/google-ceo-pitches-for-balance-between-regulation-and-innovation/article66281963.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bl-i.thgim.com/public/incoming/rjs1tn/article66281709.ece/alternates/FREE_1200/Google_DSC9372.jpg",
+          "width": 1200,
+          "height": 896,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/google-ceo-pitches-for-balance-between-regulation-and-innovation/article66281963.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/google-ceo-pitches-for-balance-between-regulation-and-innovation/article66281963.ece/amp/",
+      "publishedDateTime": "2022-12-19T08:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-20-imagenai-which-uses-ai-to-personalize-photo-editing-styles-lands-30m.md",
       "title": "ImagenAI, which uses AI to personalize photo editing styles, lands $30M",
       "excerpt": "ImagenAI, a startup offering a service that uses AI to personalize photo editing styles and apply them at scale, has raised $30 million.",
@@ -1181,49 +1224,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-19-with-robots-and-ai-a-five-star-hotel-to-help-honeybees.md",
-      "title": "With robots and AI, a “five-star hotel” to help honeybees",
-      "excerpt": "Beewise, a 4-year-old startup based in Oakland, California, offers a particularly inspiring example of how robotics and AI might radically slow and even reverse the global honeybee die-off.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/small-biz/entrepreneurship/with-robots-and-ai-a-five-star-hotel-to-help-honeybees/articleshow/96332573.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/small-biz/entrepreneurship/with-robots-and-ai-a-five-star-hotel-to-help-honeybees/articleshow/96332573.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-96746,msid-96332564/bees-istock.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/small-biz/entrepreneurship/with-robots-and-ai-a-five-star-hotel-to-help-honeybees/amp_articleshow/96332573.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/entrepreneurship/with-robots-and-ai-a-five-star-hotel-to-help-honeybees/amp_articleshow/96332573.cms",
-      "publishedDateTime": "2022-12-18T20:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

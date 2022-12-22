@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-12-19-with-robots-and-ai-a-five-star-hotel-to-help-honeybees.md",
+      "title": "With robots and AI, a “five-star hotel” to help honeybees",
+      "excerpt": "Beewise, a 4-year-old startup based in Oakland, California, offers a particularly inspiring example of how robotics and AI might radically slow and even reverse the global honeybee die-off.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/small-biz/entrepreneurship/with-robots-and-ai-a-five-star-hotel-to-help-honeybees/articleshow/96332573.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/small-biz/entrepreneurship/with-robots-and-ai-a-five-star-hotel-to-help-honeybees/articleshow/96332573.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-96746,msid-96332564/bees-istock.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/small-biz/entrepreneurship/with-robots-and-ai-a-five-star-hotel-to-help-honeybees/amp_articleshow/96332573.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/entrepreneurship/with-robots-and-ai-a-five-star-hotel-to-help-honeybees/amp_articleshow/96332573.cms",
+      "publishedDateTime": "2022-12-18T20:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-19-healthcare-natural-language-processing-nlp-market-geographical-segmentation-by-forecast-revenue-2023-2029.md",
       "title": "Healthcare Natural Language Processing (NLP) Market Geographical Segmentation By Forecast Revenue 2023-2029",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Dec 19, 2022 (The Expresswire) -- “Healthcare Natural Language Processing (NLP) Market\" is segmented by Company, Region (country), By Type, Application, stakeholders and ...",
@@ -621,8 +664,8 @@
       "title": "How artificial intelligence could be used to fight wildfires",
       "excerpt": "A tech company is developing a new type of artificial intelligence to fight wildfires by using predictive analysis before the fires even start and AI logistics to help contain them.",
       "sourceUrl": null,
-      "webUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
-      "originalUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
+      "webUrl": "https://www.fox5ny.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
+      "originalUrl": "https://www.fox5ny.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -630,13 +673,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
-      "cdnAmpWebUrl": "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
-      "publishedDateTime": "2022-12-16T12:07:00-08:00",
+      "ampWebUrl": "https://www.fox5ny.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
+      "cdnAmpWebUrl": "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
+      "publishedDateTime": "2022-12-16T11:58:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "q13fox",
-        "domain": "q13fox.com",
+        "name": "Fox 5 NY",
+        "domain": "fox5ny.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -646,7 +689,7 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1150,49 +1193,6 @@
         "Machine Learning",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-robotics-competition-kicked-off-for-delhi-government-school-students.md",
-      "title": "Robotics competition kicked off for Delhi government school students",
-      "excerpt": "A special robotics competition was kicked off today for Delhi government school students. By India Today Web Desk: According to a circular from the Directorate of Education (DoE), a special robotics competition is being started on Friday to foster excellence in the field among Delhi school children.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatoday.in/education-today/news/story/robotics-competition-kicked-off-for-delhi-government-school-students-2310029-2022-12-16",
-      "originalUrl": "https://www.indiatoday.in/education-today/news/story/robotics-competition-kicked-off-for-delhi-government-school-students-2310029-2022-12-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202212/jelleke-vanooteghem-6nulohm40w8-unsplash-sixteen_nine.jpg?VersionId=q1ETy.V2ObyHT1nAmNcfRDHfT1U9NJdu",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatoday.in/amp/education-today/news/story/robotics-competition-kicked-off-for-delhi-government-school-students-2310029-2022-12-16",
-      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/news/story/robotics-competition-kicked-off-for-delhi-government-school-students-2310029-2022-12-16",
-      "publishedDateTime": "2022-12-16T02:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Today",
-        "domain": "indiatoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

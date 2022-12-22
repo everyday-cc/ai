@@ -2,50 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2022-10-21-texas-attorney-general-sues-google-again-this-time-over-facial-recognition-in-google-photos.md",
-      "title": "Texas Attorney General Sues Google Again, This Time Over Facial Recognition in Google Photos",
-      "excerpt": "To Google, it does not matter that the three-year-olds, the bystanders, and grandma never consented to Google capturing and recording their biometric data,”",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912",
-      "originalUrl": "https://gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 175,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912/amp",
-      "publishedDateTime": "2022-10-20T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2022-10-20-france-slaps-fine-on-face-recognition-firm-clearview-ai.md",
       "title": "France Slaps Fine On Face Recognition Firm Clearview AI",
       "excerpt": "France on Thursday slapped a 20-million-euro fine on US firm Clearview AI for breaching privacy laws, as pressure mounts on the controversial facial-recognition platform.",
@@ -1414,6 +1370,49 @@
       "provider": {
         "name": "The Bakersfield Californian",
         "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-kami-vision-rolls-out-kami-home-smart-detect-to-distinguish-between-humans-vehicles-and-animals.md",
+      "title": "Kami Vision Rolls Out ‘Kami Home Smart Detect’ to Distinguish Between Humans, Vehicles and Animals",
+      "excerpt": "Kami Vision, the computer vision company that provides artificial intelligence (AI) solutions and cameras to enterprises, SMBs and consumers, announces the release of Smart Detect now available on nearly all Kami Home security products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/kami-vision-rolls-out-kami-home-smart-detect-to-distinguish-between-humans-vehicles-and-animals/article_275ad992-ebb3-5bb8-a67e-66783a0ee6c9.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/kami-vision-rolls-out-kami-home-smart-detect-to-distinguish-between-humans-vehicles-and-animals/article_275ad992-ebb3-5bb8-a67e-66783a0ee6c9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/b/f3/bf3095ee-8942-58d3-b392-9f22be46304b/6345316f26746.image.jpg?crop=605%2C318%2C0%2C497&resize=605%2C318&order=crop%2Cresize",
+          "width": 605,
+          "height": 318,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
         "images": null,
         "publishers": null,
         "authors": null

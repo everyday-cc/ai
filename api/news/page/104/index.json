@@ -2,6 +2,152 @@
   "page": 104,
   "value": [
     {
+      "path": "_news/2022-09-22-syngenta-aims-to-make-its-sap-erp-as-reliable-as-water-from-a-tap.md",
+      "title": "Syngenta Aims To Make Its SAP ERP As Reliable As Water From A Tap",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as he recently talked with Christian Bayer, the Global Head of ERP/SAP and Data and Analytics at Syngenta, and partner Infosys, about moving SAP to the public cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/09/21/syngenta-aims-to-make-its-sap-erp-as-reliable-as-water-from-a-tap/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/09/21/syngenta-aims-to-make-its-sap-erp-as-reliable-as-water-from-a-tap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/632ba19714a25a13177d2c1f/0x0.jpg?format=jpg&width=1200",
+          "width": 560,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/09/21/syngenta-aims-to-make-its-sap-erp-as-reliable-as-water-from-a-tap/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/09/21/syngenta-aims-to-make-its-sap-erp-as-reliable-as-water-from-a-tap/amp/",
+      "publishedDateTime": "2022-09-21T16:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-22-getty-is-banning-ai-generated-images.md",
+      "title": "Getty Is Banning AI-Generated Images",
+      "excerpt": "AI-created works. Popular AI image generators such as Dall-E, Stable Diffusion and Midjourney will no longer be allowed on the site, PetaPixel reported. \"We've already started removing content, but this will be an ongoing effort from our teams,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/getty-is-banning-ai-generated-images/",
+      "originalUrl": "https://www.cnet.com/news/getty-is-banning-ai-generated-images/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/f835513ea991cea316e5bb8b23246e208ecfdc93/hub/2022/09/21/5ef652f0-14d6-484f-b947-13e6ecd9c8aa/gettyimages-1346301198.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/getty-is-banning-ai-generated-images/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/getty-is-banning-ai-generated-images/",
+      "publishedDateTime": "2022-09-21T15:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-22-salesforce-deepens-partnership-with-aws.md",
+      "title": "Salesforce deepens partnership with AWS",
+      "excerpt": "Salesforce has expanded its partnership with Amazon Web Services (AWS) to enable customers to build custom artificial intelligence (AI) models using Amazon SageMaker, AWS’s machine learning (ML) modeling service,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110",
+      "originalUrl": "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2022/09/GettyImages-1040557296-scaled.jpg",
+          "width": 2560,
+          "height": 1161,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110?amp=1",
+      "publishedDateTime": "2022-09-21T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-22-nvidia-ceo-jensen-huang-ai-language-models-as-a-service-potentially-one-of-the-largest-software-opportunities-ever.md",
       "title": "Nvidia CEO Jensen Huang: AI language models as-a-service \"potentially one of the largest software opportunities ever\"",
       "excerpt": "Nvidia co-founder and CEO Jensen Huang opened his company's fall GTC conference with numerous product and service announcements, including the introduction of two cloud computing services the company will operate.",
@@ -1054,163 +1200,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-lasso-and-cmi-media-group-announce-first-to-market-partnership-with-ibm-watson.md",
-      "title": "Lasso and CMI Media Group Announce First-To-Market Partnership with IBM Watson",
-      "excerpt": "Lasso and CMI Media Group Announce First-To-Market Partnership with IBM Watson Sep 21, 2022 (PRNewswire via COMTEX) -- PR Newswire AUSTIN, Texas, Sept.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/lasso-and-cmi-media-group-announce-first-to-market-partnership-with-ibm-watson-2022-09-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/lasso-and-cmi-media-group-announce-first-to-market-partnership-with-ibm-watson-2022-09-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T05:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-edge-ai-chips-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis.md",
-      "title": "Edge AI Chips Market Size Is Likely to Experience a Tremendous Growth by 2031 Covid-19 Analysis",
-      "excerpt": "The total information and communication technology goods (including computers, peripheral devices, communication",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/edge-ai-chips-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis-2022-09-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/edge-ai-chips-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis-2022-09-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-ai-and-ml-have-the-potential-to-revolutionize-how-cmos-conduct-campaigns.md",
-      "title": "AI And ML Have The Potential To Revolutionize How CMOs Conduct Campaigns",
-      "excerpt": "Though people have talked about AI for more than 50 years, only now has it moved from a tech buzzword to part of the common vernacular. Having worked in fintech for the past 10 years, the uptake I’ve witnessed has led me to wholly believe in the immense value these technologies hold for communications professionals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/09/21/ai-and-ml-have-the-potential-to-revolutionize-how-cmos-conduct-campaigns/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/09/21/ai-and-ml-have-the-potential-to-revolutionize-how-cmos-conduct-campaigns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61814ed70e1ae168d212c0bd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/09/21/ai-and-ml-have-the-potential-to-revolutionize-how-cmos-conduct-campaigns/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/09/21/ai-and-ml-have-the-potential-to-revolutionize-how-cmos-conduct-campaigns/amp/",
-      "publishedDateTime": "2022-09-21T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI",
         "Machine Learning"
       ]

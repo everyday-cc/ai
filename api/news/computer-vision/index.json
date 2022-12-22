@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-12-22-msg-allegedly-used-facial-recognition-to-remove-rival-attorney-from-rockettes-show.md",
-      "title": "MSG Allegedly Used Facial Recognition to Remove Rival Attorney From Rockettes Show",
-      "excerpt": "A privacy expert told Gizmodo this was one of the first instances of a private firm using facial recognition to retaliate against an opposing lawyer.",
+      "path": "_news/2022-12-22-girl-scout-mom-kicked-out-of-radio-city-and-barred-from-seeing-rockettes-after-facial-recognition-tech-identified-her.md",
+      "title": "Girl Scout mom kicked out of Radio City and barred from seeing Rockettes after facial recognition tech identified her",
+      "excerpt": "The mom and lawyers like her who work for firms that are suing Radio City's parent company, MSG Entertainment, are barred from setting foot in its venues while litigation is ongoing.",
       "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/mgs-facial-recognition-msg-rockettes-show-1849919528",
-      "originalUrl": "https://gizmodo.com/mgs-facial-recognition-msg-rockettes-show-1849919528",
+      "webUrl": "https://www.nbcnews.com/news/us-news/girl-scout-mom-kicked-radio-city-barred-seeing-rockettes-facial-recogn-rcna62606",
+      "originalUrl": "https://www.nbcnews.com/news/us-news/girl-scout-mom-kicked-radio-city-barred-seeing-rockettes-facial-recogn-rcna62606",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 196,
       "tags": null,
       "images": [
         {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ed4e62703fb59872a94cd9d96d70476a.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-12/221220-rockettes-mn-1500-b52743.jpg",
+          "width": 2500,
+          "height": 1499,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,75 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-21T10:16:00-08:00",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna62606",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna62606",
+      "publishedDateTime": "2022-12-21T17:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-21-girl-scout-mom-denied-entry-to-radio-city-music-hall-due-to-facial-recognition-tech.md",
-      "title": "Girl Scout Mom Denied Entry to Radio City Music Hall Due to Facial Recognition Tech",
-      "excerpt": "Controversy grows as Radio City Music Hall incident involving a Girl Scout's mother sparks criticism that facial recognition tech is being used to target innocent people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/business-news/girl-scout-mom-denied-entry-to-rockettes-show-due-to-face/441539",
-      "originalUrl": "https://www.entrepreneur.com/business-news/girl-scout-mom-denied-entry-to-rockettes-show-due-to-face/441539",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1671605619-GettyImages-1184155312-big-brother.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-20T23:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1374,6 +1313,58 @@
         "name": "Finanznachrichten",
         "domain": "finanznachrichten.de",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-tsa-is-ready-for-nationwide-deployment-of-its-facial-recognition-system.md",
+      "title": "TSA is ready for nationwide deployment of its facial recognition system",
+      "excerpt": "The TSA started using its biometric system in 16 US airports as an optional screening procedure requiring the traveler to insert their ID document and have",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/96871-tsa-ready-nationwide-deployment-facial-recognition-system.html",
+      "originalUrl": "https://www.techspot.com/news/96871-tsa-ready-nationwide-deployment-facial-recognition-system.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2022/12/2022-12-06-image-13.jpg",
+          "width": 2048,
+          "height": 1536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T12:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

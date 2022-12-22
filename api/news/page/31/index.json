@@ -2,6 +2,136 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2022-11-25-teslas-full-self-driving-beta-is-now-available-to-everyone-in-north-america.md",
+      "title": "Tesla’s ‘Full Self-Driving’ Beta is now available to everyone in North America",
+      "excerpt": "Tesla’s “Full Self-Driving” Beta, which has been gradually rolling out over the past couple of years, is now available to anyone who’s paid for the feature in North America, CEO Elon Musk ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/11/24/23476570/teslas-full-self-driving-beta-release-north-america-safety-score",
+      "originalUrl": "https://www.theverge.com/2022/11/24/23476570/teslas-full-self-driving-beta-release-north-america-safety-score",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-25T00:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-25-how-can-ai-robotics-and-blockchain-technology-transform-digital-education-oecds-digital-education-report-2021.md",
+      "title": "How can AI, robotics and blockchain technology transform digital education: OECD’s Digital Education Report 2021",
+      "excerpt": "Artificial intelligence(AI) and robotics and blockchain technology when used in a coordinated and combined manner, can potentially revolutionise the education system. The Organisation for Economic Cooperation and Development(OECD) report of 2021 brought to the fore the growing importance of robotics,",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/consumer-tech/how-can-ai-robotics-and-blockchain-technology-transform-digital-education-oecds-digital-education-report-2021/95754018",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/consumer-tech/how-can-ai-robotics-and-blockchain-technology-transform-digital-education-oecds-digital-education-report-2021/95754018",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-95754018,imgsize-60418,width-1200,height-628,overlay-etcio/how-can-ai-robotics-and-blockchain-technology-transform-digital-education-oecd-s-digital-education-report-2021.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/consumer-tech/how-can-ai-robotics-and-blockchain-technology-transform-digital-education-oecds-digital-education-report-2021/95754018",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/consumer-tech/how-can-ai-robotics-and-blockchain-technology-transform-digital-education-oecds-digital-education-report-2021/95754018",
+      "publishedDateTime": "2022-11-24T19:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cio.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-11-25-future-proof-your-career-by-upskilling-in-robotics-and-artificial-intelligence.md",
+      "title": "Future-proof your career by upskilling in robotics and artificial intelligence",
+      "excerpt": "Sponsored by QUT has responded to the skills gap with a new Master of Robotics and Artificial Intelligence Today’s workforce",
+      "sourceUrl": null,
+      "webUrl": "https://createdigital.org.au/qut-master-robotics-artificial-intelligence/",
+      "originalUrl": "https://createdigital.org.au/qut-master-robotics-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://createdigital.org.au/wp-content/uploads/2000/11/Dimity_Miller_Eng_Robotics_14112022_018.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://createdigital.org.au/qut-master-robotics-artificial-intelligence/?utm_source=ExactTarget&utm_medium=email&utm_campaign=EDM-20221124-Members&amp",
+      "cdnAmpWebUrl": "https://createdigital-org-au.cdn.ampproject.org/c/s/createdigital.org.au/qut-master-robotics-artificial-intelligence/?utm_source=ExactTarget&utm_medium=email&utm_campaign=EDM-20221124-Members&amp",
+      "publishedDateTime": "2022-11-24T19:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "createdigital",
+        "domain": "createdigital.org.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-25-san-francisco-police-proposal-could-allow-cops-to-kill-suspects-with-robots.md",
       "title": "San Francisco police proposal could allow cops to kill suspects with robots",
       "excerpt": "A San Francisco police proposal could give cops in the city the ability to kill suspects using remote-controlled robots. A draft policy that details the controversial proposal states lethal force ...",
@@ -1068,154 +1198,6 @@
         "AI",
         "AWS AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-24-its-time-to-talk-about-killer-robots.md",
-      "title": "It’s time to talk about killer robots",
-      "excerpt": "The topic has been simmering again of late due to the increasing prospect of killer robots in domestic law enforcement. One of the era’s best known robot makers, Boston Dynamics, raised some public policy red flags when it showcased footage of its Spot robot being deployed as part of Massachusetts State Police training exercises on our stage back in 2019.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/23/lets-talk-about-killer-robots/",
-      "originalUrl": "https://techcrunch.com/2022/11/23/lets-talk-about-killer-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/04/gettyimages-167263495.jpg?resize=1200,799",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/23/lets-talk-about-killer-robots/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/23/lets-talk-about-killer-robots/amp/",
-      "publishedDateTime": "2022-11-23T17:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-24-facial-recognition-can-help-conserve-seals-scientists-say.md",
-      "title": "Facial recognition can help conserve seals, scientists say",
-      "excerpt": "FREEPORT, Maine (AP) — Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kshb.com/news/national/facial-recognition-can-help-conserve-seals-scientists-say",
-      "originalUrl": "https://www.kshb.com/news/national/facial-recognition-can-help-conserve-seals-scientists-say",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/f328cbe/2147483647/strip/true/crop/983x553+3+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F26%2Fa5%2F8c8af8954a2cbda5720e88fc5e71%2Fap22321559652379.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kshb.com/news/national/facial-recognition-can-help-conserve-seals-scientists-say?_amp=true",
-      "cdnAmpWebUrl": "https://www-kshb-com.cdn.ampproject.org/c/s/www.kshb.com/news/national/facial-recognition-can-help-conserve-seals-scientists-say?_amp=true",
-      "publishedDateTime": "2022-11-23T16:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSHB Kansas City",
-        "domain": "kshb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-23-how-jpmorgan-chase-co-uses-aws-deepracer-events-to-drive-global-cloud-adoption.md",
-      "title": "How JPMorgan Chase & Co. uses AWS DeepRacer events to drive global cloud adoption",
-      "excerpt": "This is a guest post by Stephen Carrad, Vice President at JP Morgan Chase &amp; Co. JPMorgan &amp; Chase Co. started its cloud journey four years ago, building the integrations required to deploy cloud-native applications into the cloud in a resilient and secure manner. In the first year, three applications",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-jpmorgan-chase-co-uses-aws-deepracer-events-to-drive-global-cloud-adoption/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-jpmorgan-chase-co-uses-aws-deepracer-events-to-drive-global-cloud-adoption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/23/jpmorgan-deepracer.jpg",
-          "width": 1559,
-          "height": 777,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-23T15:45:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Autos"
       ]
     }
   ],

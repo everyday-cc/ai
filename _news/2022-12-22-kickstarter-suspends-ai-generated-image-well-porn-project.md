@@ -6,8 +6,8 @@ publishedDateTime: 2022-12-22T00:25:00Z
 originalUrl: "https://kotaku.com/kickstarter-ai-art-image-porn-unstable-diffusion-nsfw-1849921325"
 webUrl: "https://kotaku.com/kickstarter-ai-art-image-porn-unstable-diffusion-nsfw-1849921325"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e127f386e6caa2a596c7bb95dec0c91b.jpg"
@@ -34,6 +35,6 @@ related:
       domain: techcrunch.com
     quality: 34
 
-secured: "/YmEzqr4yoE16NbT6Fgp8NIIJVWr9WME2ZyfOu8199ZnA5WNebn7IwuMcxhwBd0JAxKLzjV+y1gy2NjtDTyOivXByMf43OMOLsA1YXdEUGgqZO4Pz1ei9uCnw1PHqNyRB+UeTnfUV/BdIxXLXeXOA1jcuTZVXltNTHNScLvnpSuuzJK7JJ1BhZUrnGtBKC35aDIDN913NI2L+OsXcEhO/PUpetxTHjwrnNrMmU1pPfv0BHtu0fwfVUH9CZu4nr9sY1JbdwAY0RMqau/zoqYiDQPfCkUFglosC89sT8+IhB2VQVf6FkSyFWlTm2QBcHSDRGImgJduaUAwYawRdG9dTX63WitSHboWJAPxSkAidbo=;vweo5fiTZyRt2RZUb7TMnA=="
+secured: "euAiYbu48bYKqlQnq7tRv2B5lOzlh2/TBG7GXCDdDVzAuYUUoo723KyNukuQxkET/lY0WJ5pXOl4jtXK1JccojEq3vAN0DStmgz4fkcrMZZBNHQ875W/xAamljU8IDDCPfeUoKggw67gzECLFkfY0Cry2AGOHfGlggFrqBxK4I3yEMeQnaSK6xc+y2jN01g5hVauTw/wFGB9w+kODJNobxWfWrj9PinyXkPgq00KGkjcO2ro3j/3XxPjrjgIHaHaM27EHCWCff69bIIjXdQVO7I8VoJJH6RsyuEznlkQF5hP6SNofCWUN9OUQPSbINXWfdnpPWpcVjYMIZrXYAS/lce+tv07bz2c9rvVcVlHe9Qw4eTOupLHzBZ1rcCjKCoeELI57PE4Lkwikp/26crJiUvlLhtQfLWlHZnKSRBJmR26kr9WFU8JAeQEDYoZbwZVzTam8NXE0x2rIUqH7GhAk2kvRmTPXOH2ZSgPKL7Z38Cma2a3bW60okuuI8WMwjL9SgXjsd4zaikLqrO0yoHrMg==;UfLlyAn38HZwKIMsMW8zQg=="
 ---
 

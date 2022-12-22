@@ -7,7 +7,7 @@ originalUrl: "https://ptproductsonline.com/orthopedics/arthritis/artificial-inte
 webUrl: "https://ptproductsonline.com/orthopedics/arthritis/artificial-intelligence-searches-an-early-sign-of-knee-osteoarthritis-from-x-rays/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence searches for early sign of osteoarthritis: Research"
-    excerpt: "In practice, the AI tries to detect whether there is spiking on the tibial tubercles in the knee joint or not. Tibial spiking can be a sign of osteoarthritis."
-    publishedDateTime: 2022-12-17T10:29:00Z
-    webUrl: "https://telanganatoday.com/artificial-intelligence-searches-for-early-sign-of-osteoarthritis-research"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 37
-    images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/12/Artificial-Intelligence.jpg"
-        width: 1280
-        height: 750
-        isCached: true
   - title: "Artificial Intelligence searches for early sign of osteoarthritis: Research"
     excerpt: "Researchers from the University of Jyvaskyla and the Central Finland Health Care District have developed an AI based neural network to detect an early knee osteoarthritis from x-ray images. AI was able to match a doctors' diagnosis in 87 per cent of cases."
     publishedDateTime: 2022-12-17T22:31:00Z

@@ -2,6 +2,93 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-12-09-is-chatgpt-the-next-big-threat-to-googles-dominance-in-the-ai-market.md",
+      "title": "Is ChatGPT the next big threat to Google’s dominance in the AI market?",
+      "excerpt": "With its ability to produce natural language text quickly and accurately ... to say the least. This new powerful language processing technology has the potential to revolutionise the way we interact with computers. But is it really that much of a big ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketingweek.com/ritson-chatgpt-google-ai/",
+      "originalUrl": "https://www.marketingweek.com/ritson-chatgpt-google-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://marketingweek.imgix.net/content/uploads/2022/12/08163116/AI-robots.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T02:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marketing Week",
+        "domain": "marketingweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-ai-where-do-ethics-stop-and-regulations-begin.md",
+      "title": "AI - where do ethics stop, and regulations begin?",
+      "excerpt": "When it comes to artificial intelligence (AI) and its growing impact on our lives ... takes away their agency and doesn't leave them feeling empowered. Our public research shows again and again that people would like to see more regulation, even if ...",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/ai-where-do-ethics-stop-and-regulations-begin",
+      "originalUrl": "https://diginomica.com/ai-where-do-ethics-stop-and-regulations-begin",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2022-12/79C074A5-39C0-49A0-A419-160B1EAFFC00.jpeg",
+          "width": 640,
+          "height": 369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/ai-where-do-ethics-stop-and-regulations-begin?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-where-do-ethics-stop-and-regulations-begin?amp",
+      "publishedDateTime": "2022-12-09T02:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-12-09-flexible-ai-computer-chips-promise-wearable-health-monitors-that-protect-privacy.md",
       "title": "Flexible AI computer chips promise wearable health monitors that protect privacy",
       "excerpt": "Rather than working like a typical computer chip, though, the chip we’re working ... Our research aims to make the AI analysis of health data happen within these skinlike wearable devices ...",
@@ -992,110 +1079,6 @@
         "name": "EurekAlert!",
         "domain": "eurekalert.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-how-to-control-windows-11-with-your-voice.md",
-      "title": "How to control Windows 11 with your voice",
-      "excerpt": "With voice access in Windows 11, you can navigate the screen, issue commands, and dictate text by talking. Here's what you need to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-to-use-voice-access-in-windows-11/",
-      "originalUrl": "https://www.zdnet.com/article/how-to-use-voice-access-in-windows-11/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/d15e7416521430eb890114b9c64f035b96e2606e/2017/10/09/a3a771f5-4b7d-4740-a42c-3a11830be5b5/businesswoman-by-window-working-on-laptop.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-use-voice-access-in-windows-11/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-use-voice-access-in-windows-11/",
-      "publishedDateTime": "2022-12-08T11:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-ais-next-frontier-alphacode-can-match-programming-prowess-of-average-coders.md",
-      "title": "AI’s next frontier: AlphaCode can match programming prowess of average coders",
-      "excerpt": "BOT or NOT? This special series explores the evolving relationship between humans and machines, examining the ways that robots, artificial intelligence and automation are impacting our work and lives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2022/ai-deepmind-alphacode-average-programming/",
-      "originalUrl": "https://www.geekwire.com/2022/ai-deepmind-alphacode-average-programming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2022/12/221207-alphacode.jpg",
-          "width": 1920,
-          "height": 942,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-08T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

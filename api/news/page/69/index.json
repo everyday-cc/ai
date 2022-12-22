@@ -2,6 +2,144 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2022-10-22-ai-text-generation-in-marketing-must-be-managed-carefully.md",
+      "title": "AI text generation in marketing must be managed carefully",
+      "excerpt": "AI text generation will become mainstream in marketing in the coming years, but human subject matter experts will remain crucial.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-text-generation-in-marketing-must-be-managed-carefully/",
+      "originalUrl": "https://venturebeat.com/ai/ai-text-generation-in-marketing-must-be-managed-carefully/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/office-computer.GettyImages-1084171424.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-text-generation-in-marketing-must-be-managed-carefully/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-text-generation-in-marketing-must-be-managed-carefully/amp/",
+      "publishedDateTime": "2022-10-21T17:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-10-22-researchers-build-neural-networks-with-actual-neurons.md",
+      "title": "Researchers Build Neural Networks With Actual Neurons",
+      "excerpt": "Neural networks have become a hot topic over the last decade, put to work on jobs from recognizing image content to generating text and even playing video games. However, these artificial neural ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2022/03/01/researchers-build-neural-networks-with-actual-neurons/",
+      "originalUrl": "https://hackaday.com/2022/03/01/researchers-build-neural-networks-with-actual-neurons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2022/03/NeuralNerves.jpg",
+          "width": 3000,
+          "height": 1815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-22-how-breaking-the-rules-of-math-will-give-us-an-edge-over-ai.md",
+      "title": "How Breaking the Rules of Math Will Give Us an Edge Over AI",
+      "excerpt": "A close look at how mathematics came to be shows the power of departing from convention, mathematician and author Junaid Mubeen writes in his new book.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/mathematical-intelligence-junaid-mubeen-excerpt-1849689127",
+      "originalUrl": "https://gizmodo.com/mathematical-intelligence-junaid-mubeen-excerpt-1849689127",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/mathematical-intelligence-junaid-mubeen-excerpt-1849689127/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/mathematical-intelligence-junaid-mubeen-excerpt-1849689127/amp",
+      "publishedDateTime": "2022-10-21T15:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-22-ai-tool-colorizes-black-and-white-photos-automatically.md",
       "title": "AI tool colorizes black-and-white photos automatically",
       "excerpt": "A Swedish machine learning researcher named Emil Wallner has released a free web tool called Palette.fm that automatically colorizes black-and-white photos using AI. After uploading a photo, users can choose a color filter or refine the colors using a written text description.",
@@ -1034,135 +1172,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-d-wave-launches-in-aws-marketplace.md",
-      "title": "D-Wave Launches in AWS Marketplace",
-      "excerpt": "D-Wave is listing in AWS Marketplace at a time when organizations are increasingly turning to quantum technology to solve their most challenging business problems. Hyperion Research recently found that nearly 70% of companies surveyed have an in-house quantum computing program,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/10/21/9697448.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/10/21/9697448.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-21T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-the-no-nonsense-comprehensive-compelling-case-for-why-lawyers-need-to-know-about-ai-and-the-law.md",
-      "title": "The No-Nonsense Comprehensive Compelling Case For Why Lawyers Need To Know About AI And The Law",
-      "excerpt": "This is a no-nonsense comprehensive and compelling case for why lawyers need to know about AI and the law. If you are a lawyer or know a lawyer or perhaps a law student, make sure to see what AI has to offer for those keenly interested in the law.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/21/the-no-nonsense-comprehensive-compelling-case-for-why-lawyers-need-to-know-about-ai-and-the-law/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/21/the-no-nonsense-comprehensive-compelling-case-for-why-lawyers-need-to-know-about-ai-and-the-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63506b8701fb229f84a808f9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/21/the-no-nonsense-comprehensive-compelling-case-for-why-lawyers-need-to-know-about-ai-and-the-law/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/10/21/the-no-nonsense-comprehensive-compelling-case-for-why-lawyers-need-to-know-about-ai-and-the-law/amp/",
-      "publishedDateTime": "2022-10-21T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-meta-develops-ai-for-speech-to-speech-translation-of-oral-languages.md",
-      "title": "Meta develops AI for speech-to-speech translation of oral languages",
-      "excerpt": "Meta has introduced its first speech-to-speech translators that will identify and then translate oral languages. CEO Mark Zuckerberg introduced the first translation AI by Meta to translate Hokkien language.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatoday.in/technology/news/story/meta-develops-ai-for-speech-to-speech-translation-of-oral-languages-2288148-2022-10-21",
-      "originalUrl": "https://www.indiatoday.in/technology/news/story/meta-develops-ai-for-speech-to-speech-translation-of-oral-languages-2288148-2022-10-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202210/meta-sixteen_nine.jpg?VersionId=lTn9VA_ha3n.X02XPL7Agcsu7VxhhCeS",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatoday.in/amp/technology/news/story/meta-develops-ai-for-speech-to-speech-translation-of-oral-languages-2288148-2022-10-21",
-      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/technology/news/story/meta-develops-ai-for-speech-to-speech-translation-of-oral-languages-2288148-2022-10-21",
-      "publishedDateTime": "2022-10-21T04:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Today",
-        "domain": "indiatoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindubusinessline.com/info-tech/google-ceo-pitches-fo
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/google-ceo-pitches-for-balance-between-regulation-and-innovation/article66281963.ece/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Business Line
@@ -42,6 +42,20 @@ related:
       - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/30/full/1633022084-0788.jpg"
         width: 620
         height: 412
+        isCached: true
+  - title: "Google introduces AI-based solutions to ensure internet access for all Indians"
+    excerpt: "During the 8th Google for India event held on December 19, Google showcased a series of new features and is looking to leverage its AI capabilities to help ensure democratized and secure internet access to all Indians,"
+    publishedDateTime: 2022-12-20T03:24:00Z
+    webUrl: "https://www.digitimes.com/news/a20221220VL201/ai-google.html?chid=10"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 35
+    images:
+      - url: "https://img.digitimes.com/newsshow/20221220vl201_files/1_2b.jpg"
+        width: 1280
+        height: 851
         isCached: true
 
 secured: "VzuDWgVXYxzrkmbh2gSCArKtYitFKedHqIPj/Pp3/f4InthdlpzigZTfu9jhqA6HxYg68XZcW9zNyRXmzvUSRoyrKnYpjLpGqQeId8sGKDLBUxoU1FlmMsW48j1hGNDzEALVpZAPcWt4RTOsUF1GVMn6z6lfJ8nYFeP6dRFuM5DKV9zb5lKQwMF2Qw9G7lp9CjcbJdL1gOQWjcm6EN5qwAoc+YP6HGxxl2WaGj60TdrDXDgq+No7HCtfRawjLD0ORKWom5qiQ9EZo1SbJfXG+595DwJZNtLDI7KewIcL6zzZDioWy8D2XGre+26hLTqHDpcKE6J/YN+EFDouLN1odPxUm0PyTlpqSenJisMJtsNpQq5HrPhiCkGVlIb8Pe7koY9MGSdS7nnPkScT8zUanbqfh6nUrIUrE2auupd7r/qGqAC07DFrp0XPW9ajDkKbcBhWdYa0QVZvYOLg1XqidmnRZqJxFVSobcWR6ozJMWjEtOer4OjGKAswj0ojmYSxBOeBen0794s0QHbW/2VAKA==;aMDbCYMCeP2syF0nSZw9RQ=="

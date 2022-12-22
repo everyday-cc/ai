@@ -24,22 +24,6 @@ images:
     height: 349
     isCached: true
 
-related:
-  - title: "AMD is reportedly shipping its Navi 30 A0 Silicon in its Radeon RX 7900 GPU series"
-    excerpt: "According to Kepler, this cannot be rectified or revised in a few weeks and will take several months if AMD intends to address it at all."
-    publishedDateTime: 2022-12-17T09:23:00Z
-    webUrl: "https://technosports.co.in/2022/12/17/amd-radeon-rx-7900-gpu-2/"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 33
-    images:
-      - url: "https://technosports.co.in/wp-content/uploads/2021/11/TSCover1-1-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-
 secured: "1ey1xHPrTtFB0+a69PXt5eCHB8kvj6FAnTQDfmFIraHdGHB6D35yCShkwWX8qqoy/sET57AJlOfL/OLB9dX6hyJMxoJB6OVuTzM+S89Fnn6gtvCobQNYnm2hpna+T+xCcRRY+Hm4BPEQQllMFYlB4FcI58OqnzpWwQNpKTFbHZGFfW6OJcQdgeF80Yqqup11aDN4RPwdu7EPiZ+WedflvE2j/52Rp+bXVeix+8FfWRvdMAwzARWjqllfSgOTuz13nvS4YtEaM7SOcbHmv/xGvvGi425jNaKUtiJFnWxtlqnJO1RPz+oSOoVv6VD4G+8Nz8ZevksXOnoOK7uQQ4kFHuALI7WAmitXpgq71H9RmQc=;MF5potUlxCdDesoVHfsKIg=="
 ---
 
