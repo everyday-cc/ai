@@ -2,6 +2,92 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-11-15-reports-of-the-death-of-self-driving-cars-are-greatly-exaggerated.md",
+      "title": "Reports Of The Death Of Self-Driving Cars Are Greatly Exaggerated",
+      "excerpt": "Recent weeks have seen a number of reports of the death of self-driving cars, triggered mostly by the closure of Argo.AI, the self-driving startup funded by Ford and VW. That shutdown hasn’t been the only bad news in a year of bad news for almost all of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2022/11/15/reports-of-the-death-of-self-driving-cars-are-greatly-exaggerated/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2022/11/15/reports-of-the-death-of-self-driving-cars-are-greatly-exaggerated/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6372c490cf0161db04611970/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2022/11/15/reports-of-the-death-of-self-driving-cars-are-greatly-exaggerated/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/11/15/reports-of-the-death-of-self-driving-cars-are-greatly-exaggerated/amp/",
+      "publishedDateTime": "2022-11-15T04:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-15-automotive-artificial-intelligence-market-to-hit-1423-billion-by-2030-grand-view-research-inc.md",
+      "title": "Automotive Artificial Intelligence Market to Hit $14.23 Billion by 2030: Grand View Research, Inc.",
+      "excerpt": "The global automotive artificial intelligence market size is expected to reach USD 14.23 billion by 2030, advancing at 21.6% CAGR, according to a new report by Grand View Research, Inc. Artificial Intelligence (AI) in the automotive industry is driven by factors such as government initiatives to incorporate autonomous driving and the growing demand for autonomous vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/11/15/9713017.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/11/15/9713017.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-15T03:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-15-prehistoric-predator-artificial-intelligence-says-no.md",
       "title": "Prehistoric predator? Artificial intelligence says no",
       "excerpt": "Artificial intelligence has revealed that prehistoric footprints thought to be made by a vicious dinosaur predator were in fact from a timid herbivore.",
@@ -1251,102 +1337,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-why-self-driving-vehicles-will-still-need-a-human-minder.md",
-      "title": "Why ‘Self-Driving’ Vehicles Will Still Need a Human Minder",
-      "excerpt": "Development of autonomous technologies is attracting billions of dollars, but industry executives say remote operators will likely always be needed",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/why-autonomous-vehicles-will-still-need-a-human-minder-11667833922?mod=flipboard",
-      "originalUrl": "https://www.wsj.com/articles/why-autonomous-vehicles-will-still-need-a-human-minder-11667833922?mod=flipboard",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-650671/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-07T06:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-07-artificial-intelligence-could-help-ease-strain-on-hospitals.md",
-      "title": "Artificial intelligence could help ease strain on hospitals",
-      "excerpt": "Pioneering artificial intelligence (AI) which automatically diagnoses lung diseases—such as tuberculosis and pneumonia—could ease winter pressures on hospitals, University of the West of Scotland researchers believe. Tuberculosis and pneumonia ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-81.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-artificial-intelligence-ease-strain-hospitals.amp",
-      "publishedDateTime": "2022-11-07T01:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

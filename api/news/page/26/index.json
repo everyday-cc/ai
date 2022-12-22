@@ -2,6 +2,203 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2022-11-30-early-research-suggests-promising-use-of-ai-to-predict-risk-of-heart-attack-or-stroke-using-a-single-chest-x-ray.md",
+      "title": "Early research suggests promising use of AI to predict risk of heart attack or stroke using a single chest X-ray",
+      "excerpt": "Early research suggests promising use of AI to predict risk of heart attack or stroke using a single chest X-ray",
+      "sourceUrl": null,
+      "webUrl": "https://keyt.com/health/2022/11/29/early-research-suggests-promising-use-of-ai-to-predict-risk-of-heart-attack-or-stroke-using-a-single-chest-x-ray/",
+      "originalUrl": "https://keyt.com/health/2022/11/29/early-research-suggests-promising-use-of-ai-to-predict-risk-of-heart-attack-or-stroke-using-a-single-chest-x-ray/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://keyt.b-cdn.net/2022/11/hypatia-h_44d1a744c66563ee67e542a225dd4910-h_8fd481471df36eb8a520d96017fe985d-300.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T17:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KEYT",
+        "domain": "keyt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-germany-approves-mercedesbosch-automated-parking.md",
+      "title": "Germany approves Mercedes/Bosch automated parking",
+      "excerpt": "This makes it the world’s first automated driverless parking function (SAE Level 4) to be officially approved for commercial use. Mercedes chief technology officer Markus Schaefer said ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.just-auto.com/news/germany-approves-mercedes-bosch-automated-parking/",
+      "originalUrl": "https://www.just-auto.com/news/germany-approves-mercedes-bosch-automated-parking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2022/11/Mercedes-automated-parking-1.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Just Auto",
+        "domain": "just-auto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-thundersoft-joins-the-amazon-sagemaker-ready-program.md",
+      "title": "ThunderSoft Joins the Amazon SageMaker Ready Program",
+      "excerpt": "Joining the Amazon SageMaker Ready Program differentiates ThunderSoft as an AWS Partner Network (APN) member with a product that works with Amazon SageMaker and is generally available for and fully supports AWS customers.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/11/30/9722485.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/11/30/9722485.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-study-links-mait-cells-to-cognitive-function.md",
+      "title": "Study links MAIT cells to cognitive function",
+      "excerpt": "MAIT cells, which were discovered in the 1990s, were already known to be the most abundant innate-like T cells in humans and to be particularly numerous in the liver and skin. The Rutgers study ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20221129/Study-links-MAIT-cells-to-cognitive-function.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20221129/Study-links-MAIT-cells-to-cognitive-function.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/2/Alzheimers_amyloid_plaque_-_Juan_Gaertner_9638f1223d534b518a192c8478871d65-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20221129/Study-links-MAIT-cells-to-cognitive-function.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20221129/Study-links-MAIT-cells-to-cognitive-function.aspx",
+      "publishedDateTime": "2022-11-29T15:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-rohm-develops-ultra-low-power-on-device-learning-edge-ai-chip.md",
+      "title": "ROHM Develops Ultra-Low-Power, On-Device Learning Edge AI Chip",
+      "excerpt": "Santa Clara, CA and Kyoto, Japan, Nov. 29, 2022 (GLOBE NEWSWIRE) -- ROHM Semiconductor today announced they have developed an on-device learning[1] AI chip (SoC with on-device learning AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.counton2.com/business/press-releases/globenewswire/8702146/rohm-develops-ultra-low-power-on-device-learning-edge-ai-chip/",
+      "originalUrl": "https://www.counton2.com/business/press-releases/globenewswire/8702146/rohm-develops-ultra-low-power-on-device-learning-edge-ai-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T15:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WCBD",
+        "domain": "counton2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-30-study-cognitive-flexibility-enhances-mathematical-reasoning.md",
       "title": "Study: Cognitive flexibility enhances mathematical reasoning",
       "excerpt": "The study was published in the Journal of Numerical Cognition. Proportional reasoning is a cognitive process that involves ratios and proportions to solve a mathematical problem. This reasoning is ...",
@@ -887,223 +1084,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-sparking-ml-powered-innovation-in-the-telecommunications-industry.md",
-      "title": "Sparking ML-Powered Innovation In The Telecommunications Industry",
-      "excerpt": "Interview with machine learning Chapter Leads at Spark New Zealand on how the telecommunications giant leverages AI at scale and improves model performance amid real-world challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/11/29/sparking-ml-powered-innovation-in-the-telecommunications-industry/",
-      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/11/29/sparking-ml-powered-innovation-in-the-telecommunications-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/638632091b6e0dff39cd891c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/11/29/sparking-ml-powered-innovation-in-the-telecommunications-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/11/29/sparking-ml-powered-innovation-in-the-telecommunications-industry/amp/",
-      "publishedDateTime": "2022-11-29T07:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-udacitys-train-to-hire-program-now-available-in-aws-marketplace.md",
-      "title": "Udacity's Train-to-Hire Program Now Available in AWS Marketplace",
-      "excerpt": "Udacity and AWS also worked to offer the AWS Machine Learning Scholarship ... Programs include real world content for job-ready competencies in artificial intelligence, machine learning, data science, autonomous systems, cloud computing, among other ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/udacity-s-train-to-hire-program-now-available-in-aws-marketplace-1031942563",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/udacity-s-train-to-hire-program-now-available-in-aws-marketplace-1031942563",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T07:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital.md",
-      "title": "Andrew Ng’s Netail offers AI for retailers to ease change from physical to digital",
-      "excerpt": "Netail, which closed $5M in seed funding, enables retailers to identify competitors, track their inventory, and optimize prices.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/",
-      "originalUrl": "https://venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/andrew-ngs-netail-offers-ai-for-retailers-to-ease-change-from-physical-to-digital/amp/",
-      "publishedDateTime": "2022-11-29T07:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-quantiphi-awarded-two-2022-regional-and-global-aws-partner-awards.md",
-      "title": "Quantiphi Awarded Two 2022 Regional and Global AWS Partner Awards",
-      "excerpt": "Invent 2022, the Regional and Global AWS Partner Awards recognize a wide range of AWS Partners whose business models have embraced specialization, innovation, and cooperation over the past year. Regional and Global Partner Awards recognize partners whose business models continue to evolve and thrive on AWS as they work with customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-quantiphi-awarded-two-2022-regional-global-aws-partner-/2022/11/29/9720600.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-quantiphi-awarded-two-2022-regional-global-aws-partner-/2022/11/29/9720600.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T05:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-cyber-monday-gpu-deals-2022-all-the-best-offers-still-iive-now.md",
-      "title": "Cyber Monday GPU deals 2022 - all the best offers still Iive now",
-      "excerpt": "There are price cuts, deals, and discounts up and down the GPU hierarchy, so no matter what you're after you'll find something here for you. And with the staggered release of the 40 series GPUs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gamesradar.com/cyber-monday-graphics-cards-deals-gpu/",
-      "originalUrl": "https://www.gamesradar.com/cyber-monday-graphics-cards-deals-gpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/P57auWpH2nRytYvAZoKSM8-1200-80.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-29T05:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GamesRadar+",
-        "domain": "gamesradar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

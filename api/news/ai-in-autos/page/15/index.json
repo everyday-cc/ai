@@ -2,6 +2,103 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-09-22-artificial-intelligence-said-good-for-smart-grid-optimisation.md",
+      "title": "Artificial intelligence said good for smart grid optimisation",
+      "excerpt": "Jamaica is being urged to consider artificial intelligence (AI) for smart grid optimisation as a more feasible way of producing green energy. Tatjana Legans, who is",
+      "sourceUrl": null,
+      "webUrl": "https://www.jamaicaobserver.com/news/artificial-intelligence-said-good-for-smart-grid-optimisation/",
+      "originalUrl": "https://www.jamaicaobserver.com/news/artificial-intelligence-said-good-for-smart-grid-optimisation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imengine.public.prod.jam.navigacloud.com/?uuid=7ec08427-579f-5889-8cf0-f752172f9c2c&function=fit&type=preview",
+          "width": 500,
+          "height": 378,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.jamaicaobserver.com/news/artificial-intelligence-said-good-for-smart-grid-optimisation/amp/",
+      "cdnAmpWebUrl": "https://www-jamaicaobserver-com.cdn.ampproject.org/c/s/www.jamaicaobserver.com/news/artificial-intelligence-said-good-for-smart-grid-optimisation/amp/",
+      "publishedDateTime": "2022-09-21T22:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jamaica Observer",
+        "domain": "jamaicaobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-run-machine-learning-enablement-events-at-scale-using-aws-deepracer-multi-user-account-mode.md",
+      "title": "Run machine learning enablement events at scale using AWS DeepRacer multi-user account mode",
+      "excerpt": "This post was co-written by Marius Cealera, Senior Partner Solutions Architect at AWS, Zdenko Estok, Cloud Architect at Accenture and Sakar Selimcan, Cloud Architect at Accenture. Machine learning (ML) is a high-stakes business priority, with companies spending $306 billion on ML applications in the",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-machine-learning-enablement-events-at-scale-using-aws-deepracer-multi-user-account-mode/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-machine-learning-enablement-events-at-scale-using-aws-deepracer-multi-user-account-mode/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/29/dr1-831x630.png",
+          "width": 831,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T09:19:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-21-the-unexpected-truth-about-self-driving-cars-according-to-general-motors.md",
       "title": "The Unexpected Truth About Self-Driving Cars According To General Motors",
       "excerpt": "The future is self-driving, or so say evangelists that are betting big on a future where AI-powered machines — including vehicles — will perform intended tasks on their own. Self-driving cars ...",
@@ -1386,84 +1483,6 @@
         "AI",
         "AI Hardware",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-more-driverless-cars-are-coming-to-austin-what-you-need-to-know.md",
-      "title": "More driverless cars are coming to Austin: What you need to know",
-      "excerpt": "Austin is about to see more driverless cars on its roadways, as another autonomous vehicle company says it is expanding into Austin by the end of the year. San Francisco-based Cruise ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statesman.com/story/business/technology/2022/09/14/cruise-driverless-cars-are-coming-to-austin-what-you-need-to-know/69492889007/",
-      "originalUrl": "https://www.statesman.com/story/business/technology/2022/09/14/cruise-driverless-cars-are-coming-to-austin-what-you-need-to-know/69492889007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T18:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Austin American-Statesman",
-        "domain": "statesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-new-method-for-comparing-neural-networks-exposes-how-artificial-intelligence-works.md",
-      "title": "New method for comparing neural networks exposes how artificial intelligence works",
-      "excerpt": "A team has developed a novel approach for comparing neural networks that looks within the 'black box' of artificial intelligence to help researchers understand neural network behavior. Neural networks recognize patterns in datasets;",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/09/220914102256.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/09/220914102256.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

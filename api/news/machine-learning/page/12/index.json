@@ -2,6 +2,92 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-09-15-neural-switch-sets-the-brain-up-for-learning-or-remembering.md",
+      "title": "Neural \"Switch\" Sets the Brain Up for Learning or Remembering",
+      "excerpt": "These two functions are controlled by different neural circuits. Using an animal model ... For further information, please contact the cited source. Technology Networks",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/tn/news/neural-switch-sets-the-brain-up-for-learning-or-remembering-365698",
+      "originalUrl": "https://www.technologynetworks.com/tn/news/neural-switch-sets-the-brain-up-for-learning-or-remembering-365698",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/365698/neural-switch-sets-the-brain-up-for-learning-or-remembering-365698-640x360.jpg?cb=20220915",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T01:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-15-deep-learning-from-a-dynamical-viewpoint.md",
+      "title": "Deep learning from a dynamical viewpoint",
+      "excerpt": "NUS mathematicians have developed a new theoretical framework based on dynamical systems to understand when and how a deep neural network can learn arbitrary relationships. Despite achieving ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-09-deep-dynamical-viewpoint.html",
+      "originalUrl": "https://phys.org/news/2022-09-deep-dynamical-viewpoint.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/deep-learning-from-a-d.jpg",
+          "width": 1155,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-09-deep-dynamical-viewpoint.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-deep-dynamical-viewpoint.amp",
+      "publishedDateTime": "2022-09-14T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-15-new-method-for-comparing-neural-networks-exposes-how-artificial-intelligence-works.md",
       "title": "New method for comparing neural networks exposes how artificial intelligence works",
       "excerpt": "A team has developed a novel approach for comparing neural networks that looks within the 'black box' of artificial intelligence to help researchers understand neural network behavior. Neural networks recognize patterns in datasets;",
@@ -1255,104 +1341,6 @@
         "Microsoft AI",
         "Machine Learning",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-decis-natural-language-processing-nlp-model-achieves-breakthrough-performance-at-mlperf.md",
-      "title": "Deci's Natural Language Processing (NLP) Model Achieves Breakthrough Performance at MLPerf",
-      "excerpt": "Deci, the deep learning company harnessing Artificial Intelligence (AI) to build better AI, announced results for its Natural Language Processing (NLP) inference model submitted to the MLPerf Inference v2.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/09/08/9670227.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/09/08/9670227.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1893621/Deci_Throughput_Infographic.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T11:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-ai-native-tech-startups-can-weather-an-economic-nuclear-winter.md",
-      "title": "AI-native tech startups can weather an economic nuclear winter",
-      "excerpt": "By being careful and strategic, AI-Native companies will be poised to emerge strong and healthy — and even grow — from a downturn.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-native-tech-startups-can-weather-an-economic-nuclear-winter/",
-      "originalUrl": "https://venturebeat.com/ai/ai-native-tech-startups-can-weather-an-economic-nuclear-winter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1281732617.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-native-tech-startups-can-weather-an-economic-nuclear-winter/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-native-tech-startups-can-weather-an-economic-nuclear-winter/amp/",
-      "publishedDateTime": "2022-09-08T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],

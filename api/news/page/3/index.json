@@ -53,7 +53,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-geographical-segmentation-by-forecast-revenue-2023-2029-2022-12-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 93,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -181,6 +181,60 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-18-artificial-intelligence-in-healthcare-service-market-2023-production-capacity-restring-drivers-size-and-landscape-outlook-2028.md",
+      "title": "Artificial Intelligence In Healthcare Service Market 2023 : Production Capacity, Restring Drivers, Size and Landscape Outlook 2028",
+      "excerpt": "\" Artificial Intelligence In Healthcare Service Market \" Insights 2022 - By Applications (Patient Data and Risk Analysis, Lifestyle Management and Monitoring, Precision Medicine, In-Patient Care and Hospital Management,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-service-market-2023-production-capacity-restring-drivers-size-and-landscape-outlook-2028-2022-12-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-service-market-2023-production-capacity-restring-drivers-size-and-landscape-outlook-2028-2022-12-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-17T18:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare",
+        "Machine Learning"
       ]
     },
     {
@@ -376,10 +430,10 @@
     {
       "path": "_news/2022-12-17-phoenix-airport-1st-to-offer-self-driving-ride-service-waymo.md",
       "title": "Phoenix airport 1st to offer self-driving ride service Waymo",
-      "excerpt": "As Phoenix gets ready to host the Super Bowl, Mayor Kate Gallego announced Friday that Sky Harbor International Airport will be the first to offer the self-driving ride-hailing service Waymo. “The future is here,",
+      "excerpt": "Phoenix Mayor Kate Gallego arrives in a self-driving vehicle, Friday, Dec. 16, 2022, at the Sky Harbor International Airport Sky Train facility in Phoenix. Mayor Gallego a",
       "sourceUrl": null,
-      "webUrl": "https://www.stamfordadvocate.com/living/article/Phoenix-airport-1st-to-offer-self-driving-ride-17659023.php",
-      "originalUrl": "https://www.stamfordadvocate.com/living/article/Phoenix-airport-1st-to-offer-self-driving-ride-17659023.php",
+      "webUrl": "https://www.stamfordadvocate.com/living/article/Phoenix-airport-1st-to-offer-self-driving-ride-17659023.php?src=sthplifestyle",
+      "originalUrl": "https://www.stamfordadvocate.com/living/article/Phoenix-airport-1st-to-offer-self-driving-ride-17659023.php?src=sthplifestyle",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -664,8 +718,8 @@
       "title": "How artificial intelligence could be used to fight wildfires",
       "excerpt": "A tech company is developing a new type of artificial intelligence to fight wildfires by using predictive analysis before the fires even start and AI logistics to help contain them.",
       "sourceUrl": null,
-      "webUrl": "https://www.fox5ny.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
-      "originalUrl": "https://www.fox5ny.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
+      "webUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
+      "originalUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -673,13 +727,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.fox5ny.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
-      "cdnAmpWebUrl": "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
-      "publishedDateTime": "2022-12-16T11:58:00-08:00",
+      "ampWebUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
+      "cdnAmpWebUrl": "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
+      "publishedDateTime": "2022-12-16T12:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox 5 NY",
-        "domain": "fox5ny.com",
+        "name": "q13fox",
+        "domain": "q13fox.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1140,59 +1194,6 @@
         "AI Ethics",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-automls-rise-to-prominence.md",
-      "title": "AutoML's Rise To Prominence",
-      "excerpt": "Where in the past people mostly developed large complex models in-house, I believe in the future new practitioners will opt for more simplistic models that offer higher performance in the form of autoML.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2022/12/16/automls-rise-to-prominence/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2022/12/16/automls-rise-to-prominence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5ef9dd3406868f00064f5619/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2022/12/16/automls-rise-to-prominence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2022/12/16/automls-rise-to-prominence/amp/",
-      "publishedDateTime": "2022-12-16T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
       ]
     }
   ],

@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-11-15-can-the-armys-robotics-programs-build-ai-the-silicon-valley-way.md",
+      "title": "Can the Army’s robotics programs build AI the Silicon Valley way?",
+      "excerpt": "DIU has brokered a potentially groundbreaking contract between the Army’s Robotic Combat Vehicle program and a small California firm that trains AI algorithms to navigate off-road.",
+      "sourceUrl": null,
+      "webUrl": "https://breakingdefense.com/2022/11/can-the-armys-robotics-programs-build-ai-the-silicon-valley-way/",
+      "originalUrl": "https://breakingdefense.com/2022/11/can-the-armys-robotics-programs-build-ai-the-silicon-valley-way/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sites.breakingmedia.com/uploads/sites/3/2021/05/210428-A-VA676-0002-e1668451301243-1024x575.jpg",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://breakingdefense.com/2022/11/can-the-armys-robotics-programs-build-ai-the-silicon-valley-way/?amp=1",
+      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2022/11/can-the-armys-robotics-programs-build-ai-the-silicon-valley-way/?amp=1",
+      "publishedDateTime": "2022-11-14T12:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Breaking Defense",
+        "domain": "breakingdefense.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-11-14-caixabank-robot-answers-the-most-customer-questions.md",
+      "title": "CaixaBank robot answers the most customer questions",
+      "excerpt": "The Spanish bank said the CaixaBankNow virtual assistant receives an average of 50,000 questions a day, either spoken or written, to help access services such as making payments or blocking lost cash cards.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252527242/Caixabank-robot-answers-the-most-customer-questions",
+      "originalUrl": "https://www.computerweekly.com/news/252527242/Caixabank-robot-answers-the-most-customer-questions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computerweekly.com/visuals/German/article/Artificial-intelligence-robot-datacenter-adobe.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252527242/Caixabank-robot-answers-the-most-customer-questions?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252527242/Caixabank-robot-answers-the-most-customer-questions?amp=1",
+      "publishedDateTime": "2022-11-14T03:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-14-verefa-v60-pro-the-game-changer-is-coming.md",
       "title": "VEREFA V60 Pro: The Game Changer is Coming",
       "excerpt": "Press Release The better auto-emptying robot vacuum is coming. Verefa has debuted its latest model V60 Pro.This press release features multimedia. View the full release here:  Business Wire)Verefa,",
@@ -1287,101 +1373,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects.md",
-      "title": "Dataloop Automates Data Management and Annotation to Accelerate AI Projects",
-      "excerpt": "Dataloop, an Israeli startup, has made the announcement that it will offer businesses a complete platform covering every stage",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/quick-bytes/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects/",
-      "originalUrl": "https://enterprisetalk.com/quick-bytes/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/11/Dataloop-Automates-Data-Management-and-Annotation-to-Accelerate-AI-Projects.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/dataloop-automates-data-management-and-annotation-to-accelerate-ai-projects/amp/",
-      "publishedDateTime": "2022-11-04T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-04-destiny-robotics-megi-kavtaradzes-entrepreneurial-adventure-in-the-usa.md",
-      "title": "Destiny Robotics - Megi Kavtaradze's entrepreneurial adventure in the USA",
-      "excerpt": "The goal of Destiny Robotics is to create socially intelligent, human-like robots that can interact with users in-depth. The main robot of the company is named Destiny. It has a natural appearance and a pleasant voice that is welcoming to individuals of all ages and currently,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/ka/business-news/destiny-robotics-megi-kavtaradzes-entrepreneurial/438491",
-      "originalUrl": "https://www.entrepreneur.com/ka/business-news/destiny-robotics-megi-kavtaradzes-entrepreneurial/438491",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1667513097-image-safe-zone-check.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-03T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

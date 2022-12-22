@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-20T10:21:00Z
 originalUrl: "https://diginomica.com/2022-year-ai-and-robotics"
 webUrl: "https://diginomica.com/2022-year-ai-and-robotics"
 type: article
-quality: 73
+quality: 75
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ topics:
   - AI
   - Facebook AI
   - AI Ethics
+  - IBM AI
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2022-12/Screenshot%202022-12-16%20at%2011.33.54.png"
@@ -111,7 +112,7 @@ related:
     provider:
       name: Seeking Alpha
       domain: seekingalpha.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://static.seekingalpha.com/uploads/2022/12/19/55230498-16714629618030434.png"
         width: 640

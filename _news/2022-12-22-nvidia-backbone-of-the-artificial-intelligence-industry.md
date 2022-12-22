@@ -6,7 +6,7 @@ publishedDateTime: 2022-12-21T23:30:00Z
 originalUrl: "https://seekingalpha.com/article/4565570-nvidia-backbone-artificial-intelligence-industry"
 webUrl: "https://seekingalpha.com/article/4565570-nvidia-backbone-artificial-intelligence-industry"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AWS AI
 
 images:
   - url: "https://static.seekingalpha.com/uploads/2022/12/19/55230498-16714629618030434.png"
@@ -49,7 +50,7 @@ related:
     provider:
       name: Diginomica
       domain: diginomica.com
-    quality: 73
+    quality: 75
     images:
       - url: "https://diginomica.com/sites/default/files/images/2022-12/Screenshot%202022-12-16%20at%2011.33.54.png"
         width: 1536

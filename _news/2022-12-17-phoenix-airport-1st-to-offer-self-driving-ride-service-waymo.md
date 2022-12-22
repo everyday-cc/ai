@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Phoenix airport 1st to offer self-driving ride service Waymo"
-excerpt: "As Phoenix gets ready to host the Super Bowl, Mayor Kate Gallego announced Friday that Sky Harbor International Airport will be the first to offer the self-driving ride-hailing service Waymo. “The future is here,"
+excerpt: "Phoenix Mayor Kate Gallego arrives in a self-driving vehicle, Friday, Dec. 16, 2022, at the Sky Harbor International Airport Sky Train facility in Phoenix. Mayor Gallego a"
 publishedDateTime: 2022-12-16T23:50:00Z
-originalUrl: "https://www.stamfordadvocate.com/living/article/Phoenix-airport-1st-to-offer-self-driving-ride-17659023.php"
-webUrl: "https://www.stamfordadvocate.com/living/article/Phoenix-airport-1st-to-offer-self-driving-ride-17659023.php"
+originalUrl: "https://www.stamfordadvocate.com/living/article/Phoenix-airport-1st-to-offer-self-driving-ride-17659023.php?src=sthplifestyle"
+webUrl: "https://www.stamfordadvocate.com/living/article/Phoenix-airport-1st-to-offer-self-driving-ride-17659023.php?src=sthplifestyle"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 1365
     isCached: true
 
-secured: "/0kIvhiFD8x83gJIYKm7+StdUxaTdRM5etDFeGhRxiWzMGixMy6Z+8ZSzKfPZPoF60l4T05bC3TO/5BO5l2Oee6IpKM5azkW35vD9Id3esD7hLZXP6c8haANwODnOP5YIAP4OecRtf64x9gL8ImWKwaW61Rr5znyhPBbq7bRrcnS76SQm5g5TTo885vwoGKTWXHMSHeO8WI2bG35Dr+8exztrECCJaRqD3GWwwo1uSSGppI73WpB7r6V71YfIhNCGckOv50Dibel4oX/CjFcR91nnX3e/F5hNPq0YabjWI1rQ9f86pkuTKKvKI3Nfd2nhevIe8rkIrPjoGnOnWo+PX039XSA05/835qgGRaCgbU=;PsL67LxmqtXKMhKBZa84gA=="
+secured: "9DuMmR2mIgjUIYTWMntCkybaKsGfTEeN4y5aNzmALTFA2fBL7otNm1adca5A6ht0yTHolF36NNXVdDSrwxVNKHoosq+I4Krd5Ub/mJ0BkTkYN0+J0hygAQBfjgqrTm8NwK6AcMxFOv8kJPfHA0Xbyq04vNtAGQl9tZv1CfVWUuSAC80rrEhEu0WH2bDje7wxRSAbVtYQyUO0Iua6sB6AEEt6xwWlM73CD8nCVIGDxVHFn5vY93wXblG+Hv6MNhjdzITqatRXP8iTUDlu2lX1GQdrRbpoylx65yCA7cCxohaFpHfqP+DDiphafe2RvY0CcVrNN1XDCy+syK8F8+cbA2/UI7y7SUY+dldLnRJ4kTk=;NIF3g2ZYnW4UOLBcsFCD6A=="
 ---
 

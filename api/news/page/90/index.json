@@ -2,6 +2,249 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2022-10-05-white-house-unveils-artificial-intelligence-bill-of-rights.md",
+      "title": "White House unveils artificial intelligence ‘Bill of Rights’",
+      "excerpt": "The Biden administration unveiled a set of far-reaching goals Tuesday aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s personal data and limit surveillance.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/technology-business-artificial-intelligence-7a39848340d210592aeea2478225f489",
+      "originalUrl": "https://apnews.com/article/technology-business-artificial-intelligence-7a39848340d210592aeea2478225f489",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/e3eccfa44df44341aa00bc70404178c4/3000.jpeg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T15:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-05-protestor-suffering-from-vision-loss-awarded-1m-in-lawsuit-against-or-police.md",
+      "title": "Protestor suffering from vision loss awarded $1M in lawsuit against OR police",
+      "excerpt": "A racial justice demonstrator will be awarded $1 million in a lawsuit against Salem, Oregon. The protestor suffered from permanent vision loss and chest injury by the city police.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/protestor-suffering-vision-loss-awarded-1m-lawsuit-against-or-police",
+      "originalUrl": "https://www.foxnews.com/us/protestor-suffering-vision-loss-awarded-1m-lawsuit-against-or-police",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/818f86fb-741c-403f-82c8-4531bb4369de/2bd411d9-3125-48af-9f7f-1b2a6929879f/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/protestor-suffering-vision-loss-awarded-1m-lawsuit-against-or-police.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/protestor-suffering-vision-loss-awarded-1m-lawsuit-against-or-police.amp",
+      "publishedDateTime": "2022-10-04T15:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-05-tesla-announces-its-moving-away-from-ultrasonic-sensors-in-favor-of-tesla-vision.md",
+      "title": "Tesla announces it’s moving away from ultrasonic sensors in favor of ‘Tesla Vision’",
+      "excerpt": "Tesla announced today that it is moving away from using ultrasonic sensors in its suite of Autopilot sensors in favor of its camera-only “Tesla Vision” system. Last year, Tesla announced it would transition to its “Tesla Vision” Autopilot without radar and start producing vehicles without a front-facing radar.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/10/04/tesla-moving-away-ultrasonic-sensors-in-favor-tesla-vision/",
+      "originalUrl": "https://electrek.co/2022/10/04/tesla-moving-away-ultrasonic-sensors-in-favor-tesla-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/11/tesla-ultrasonic-e1479179062536.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/10/04/tesla-moving-away-ultrasonic-sensors-in-favor-tesla-vision/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/10/04/tesla-moving-away-ultrasonic-sensors-in-favor-tesla-vision/amp/",
+      "publishedDateTime": "2022-10-04T14:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-05-why-bringing-sas-viya-onto-microsoft-azure-marketplace-is-a-big-deal.md",
+      "title": "Why bringing SAS Viya onto Microsoft Azure Marketplace is a big deal",
+      "excerpt": "With files from Lynn Greiner. On Sept. 27, SAS officially brought its Viya analytics platform to the Microsoft Azure Marketplace. The service enables Azure customers to use the solution on a pay-as-you-go basis with the click of a button.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524",
+      "originalUrl": "https://www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itworldcanada.com/wp-content/uploads/2021/01/GettyImages-1173288726.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524?amp=1",
+      "publishedDateTime": "2022-10-04T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-redact-sensitive-data-from-streaming-data-in-near-real-time-using-amazon-comprehend-and-amazon-kinesis-data-firehose.md",
+      "title": "Redact sensitive data from streaming data in near-real time using Amazon Comprehend and Amazon Kinesis Data Firehose",
+      "excerpt": "Near-real-time delivery of data and insights enable businesses to rapidly respond to their customers’ needs. Real-time data can come from a variety of sources, including social media, IoT devices, infrastructure monitoring, call center monitoring, and more. Due to the breadth and depth of data being",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/redact-sensitive-data-from-streaming-data-in-near-real-time-using-amazon-comprehend-and-amazon-kinesis-data-firehose/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/redact-sensitive-data-from-streaming-data-in-near-real-time-using-amazon-comprehend-and-amazon-kinesis-data-firehose/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/04/redact-sensitive-data-comprehend.jpg",
+          "width": 1548,
+          "height": 772,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T13:39:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-10-05-computer-scientist-aims-to-protect-people-in-age-of-artificial-intelligence.md",
       "title": "Computer scientist aims to protect people in age of artificial intelligence",
       "excerpt": "As data-driven technologies transform the world and artificial intelligence raises questions about bias, privacy and transparency, Suresh Venkatasubramanian is offering his expertise to help create guardrails to ensure that technologies are developed and deployed responsibly.",
@@ -908,231 +1151,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-behind-the-story-navigating-san-francisco-in-a-driverless-car.md",
-      "title": "Behind the Story: Navigating San Francisco in a Driverless Car",
-      "excerpt": "A Times technology reporter in San Francisco, Cade recently wrote about his first ride in a truly driverless car, an experience “by turns spooky, impressive, perplexing and a little stressful.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/10/04/us/san-francisco-driverless-cars.html",
-      "originalUrl": "https://www.nytimes.com/2022/10/04/us/san-francisco-driverless-cars.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/10/02/business/04californiatoday-car/04californiatoday-car-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/10/04/us/san-francisco-driverless-cars.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/10/04/us/san-francisco-driverless-cars.amp.html",
-      "publishedDateTime": "2022-10-04T05:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-children-with-food-allergy-related-anxiety-can-benefit-from-cognitive-behavioral-therapy.md",
-      "title": "Children with food allergy-related anxiety can benefit from cognitive behavioral therapy",
-      "excerpt": "A new study in Annals of Allergy, Asthma and Immunology, the scientific journal of the American College of Allergy, Asthma and Immunology (ACAAI), shows that targeted cognitive behavioral therapy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/966745",
-      "originalUrl": "https://www.eurekalert.org/news-releases/966745",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-techstars-ceo-on-the-future-of-fintech.md",
-      "title": "TechStars CEO On The Future Of FinTech",
-      "excerpt": "Meeting up with TechStars CEO Maëlle Gavet at the Collision conference in Toronto. Here’s what she is excited about in financial technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/633b75a5d5779d3d6278b209/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 835,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/amp/",
-      "publishedDateTime": "2022-10-04T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-robot-that-makes-french-fries-faster-than-humans-developed-in-us.md",
-      "title": "Robot That Makes French Fries \"Faster\" Than Humans Developed In US",
-      "excerpt": "Miso Robotics Inc in Pasadena has started rolling out its Flippy 2 robot, which automates the process of deep frying potatoes, onions and other foods.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602",
-      "originalUrl": "https://www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2022-10/u91evqeo_french-fries-robot-650_625x300_04_October_22.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602/amp/1",
-      "publishedDateTime": "2022-10-04T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-aiello-inc-raises-us58m-to-expand-its-voice-ai-solutions-internationally.md",
-      "title": "Aiello Inc. raises US$5.8M to expand its Voice AI solutions internationally",
-      "excerpt": "Aiello Inc.(Aiello), a leading Natural Language Processing and Voice AI startup, announced it has raised US$5.8M in a Series Pre-A+ funding round led by two major institutional investors, JAFCO Asia and Wistron Corporation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-aiello-inc-raises-us58m-expand-its-voice-ai-/2022/10/04/9685332.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-aiello-inc-raises-us58m-expand-its-voice-ai-/2022/10/04/9685332.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1913638/Image__The_Aiello_Voice_Assistant__AVA__has_been_introduced_in_several_international_hotel_brands_in.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

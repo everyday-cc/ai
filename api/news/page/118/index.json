@@ -2,6 +2,238 @@
   "page": 118,
   "value": [
     {
+      "path": "_news/2022-09-13-why-the-explainable-ai-market-is-growing-rapidly.md",
+      "title": "Why the explainable AI market is growing rapidly",
+      "excerpt": "The explainable AI market is booming due to regulations requiring visibility into the hows and whys of AI model predictions.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-the-explainable-ai-market-is-growing-rapidly/",
+      "originalUrl": "https://venturebeat.com/ai/why-the-explainable-ai-market-is-growing-rapidly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1257975820-e1663004031979.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 660,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/why-the-explainable-ai-market-is-growing-rapidly/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-the-explainable-ai-market-is-growing-rapidly/amp/",
+      "publishedDateTime": "2022-09-12T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-tighter-vc-capital-forces-ai-startups-to-face-the-music.md",
+      "title": "Tighter VC capital forces AI startups to face the music",
+      "excerpt": "A new Pitchbook report shows that funding for AI startups isn't plentiful as it once was, with some struggling more than others.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/09/12/tighter-vc-capital-forces-ai-startups-to-face-the-music/",
+      "originalUrl": "https://techcrunch.com/2022/09/12/tighter-vc-capital-forces-ai-startups-to-face-the-music/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1314979456.jpg",
+          "width": 2309,
+          "height": 1299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-tech-war-why-the-us-nvidia-chip-ban-is-a-direct-threat-to-beijings-artificial-intelligence-ambitions.md",
+      "title": "Tech war: Why the US Nvidia chip ban is a direct threat to Beijing’s artificial intelligence ambitions",
+      "excerpt": "Nvidia has said that it can continue to ship AI chips from its Hong Kong facility through September 2023. “Most cloud service providers in China use Nvidia chips in their GPU-based products ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3192213/tech-war-why-us-nvidia-chip-ban-direct-threat-beijings-artificial",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3192213/tech-war-why-us-nvidia-chip-ban-direct-threat-beijings-artificial",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-driverless-cars-may-be-impossible-without-drivers-claim-intelligent-serious-people.md",
+      "title": "'Driverless Cars May Be Impossible Without Drivers' Claim Intelligent, Serious People",
+      "excerpt": "Photo: Dietmar Rabich / Wikimedia Commons / “San Francisco (CA, USA), Point Lobos Avenue, Autonomes Auto — 2022 — 3049” / CC BY-SA 4.0 Reuters spoke with Kyle Vogt, CEO of GM’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://jalopnik.com/driverless-cars-may-be-impossible-without-drivers-claim-1849524087",
+      "originalUrl": "https://jalopnik.com/driverless-cars-may-be-impossible-without-drivers-claim-1849524087",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jalopnik",
+        "domain": "jalopnik.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-how-diveplane-uses-explainable-ai-to-bolster-ai-adoption.md",
+      "title": "How Diveplane uses explainable AI to bolster AI adoption",
+      "excerpt": "Diveplane has raised $25M in series A funding for its explainable AI solutions supporting transparent decision-making and data privacy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-diveplane-uses-explainable-ai-to-bolster-ai-adoption/",
+      "originalUrl": "https://venturebeat.com/ai/how-diveplane-uses-explainable-ai-to-bolster-ai-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-black_box_AI_explainable_AI_1324510115-e1662994691115.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-diveplane-uses-explainable-ai-to-bolster-ai-adoption/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-diveplane-uses-explainable-ai-to-bolster-ai-adoption/amp/",
+      "publishedDateTime": "2022-09-12T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-12-third-paris-metro-line-introduces-driverless-trains.md",
       "title": "Third Paris Metro line introduces driverless trains",
       "excerpt": "Almost half (20) of the trains on the line will be driverless by the end of 2022 and the entire line is expected to be fully automated by the end of 2023, as the RATP promises a “70 percent ...",
@@ -922,230 +1154,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-insights-into-gpu-for-deep-learnings-growth-through-2028.md",
-      "title": "Insights into GPU for Deep Learning’s growth through 2028",
-      "excerpt": "GPU for Deep Learning Market From 2022 to 2028 According to the GPU for Deep Learning Market research report, the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/insights-into-gpu-for-deep-learnings-growth-through-2028-2022-09-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/insights-into-gpu-for-deep-learnings-growth-through-2028-2022-09-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T03:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch.md",
-      "title": "Truly autonomous cars may be impossible without helpful human touch",
-      "excerpt": "The central premise of autonomous vehicles — that computers and artificial intelligence will dramatically ... An operator controls a Fetch driverless car from the office of Imperium Drive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dawn.com/news/1709723",
-      "originalUrl": "https://www.dawn.com/news/1709723",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dawn.com/large/2022/09/12151924f71b6ff.jpg?r=152506",
-          "width": 800,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-12T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dawn",
-        "domain": "dawn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up.md",
-      "title": "Amazon’s Alexa inventor Tunstall-Pedoe raises $20m for AI start-up",
-      "excerpt": "Cambridge- and London-based company, Unlikely AI, will start hiring developers of a new type of artificial-intelligence software",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesslive.co.za/bloomberg/news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up/",
-      "originalUrl": "https://www.businesslive.co.za/bloomberg/news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/VLjtmzFKD1z7eYCoxeEx4CSKQc3U5rT_BbleCyhZwv2isWzzu350eDYF39-ksetybKmDelGAp7n4RKSik2_tBDFVpU659CtMRRsFhP2KW0F8vAI=s512",
-          "width": 512,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businesslive.co.za/amp/bloomberg/news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up/",
-      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bloomberg/news/2022-09-12-amazons-alexa-inventor-tunstall-pedoe-raises-20m-for-ai-start-up/",
-      "publishedDateTime": "2022-09-12T02:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businesslive.co.za",
-        "domain": "businesslive.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch.md",
-      "title": "INSIGHT-Truly autonomous cars may be impossible without helpful human touch",
-      "excerpt": "Autonomous vehicle (AV) startups have raised tens of billions of dollars based on promises to develop truly self-driving cars, but industry executives and experts say remote human supervisors may be needed permanently to help robot drivers in trouble.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-0",
-      "originalUrl": "https://www.nasdaq.com/articles/insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-0?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/insight-truly-autonomous-cars-may-be-impossible-without-helpful-human-touch-0?amp",
-      "publishedDateTime": "2022-09-12T01:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-best-interactive-voice-response-services-of-2022.md",
-      "title": "Best Interactive Voice Response services of 2022",
-      "excerpt": "The IVR feature aims to provide an intuitive self-service using advanced voice recognition technology, to help improve the customer experience whilst freeing up agents to handle more complex queries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/best/best-interactive-voice-response-ivr-services",
-      "originalUrl": "https://www.techradar.com/best/best-interactive-voice-response-ivr-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/yu9btmXK2MPsv5ZFBBcGAg-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-11T23:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -2,6 +2,93 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-09-30-fda-clears-next-gen-deep-learning-mri-software-from-ge-healthcare.md",
+      "title": "FDA clears next-gen deep learning MRI software from GE Healthcare",
+      "excerpt": "GE Healthcare (NYSE:GE) announced today that it received FDA 510(k) clearance for its AIR Recon DL for 3D and Propeller imaging sequences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.massdevice.com/fda-clears-ge-healthcare-deep-learning-mri-software/",
+      "originalUrl": "https://www.massdevice.com/fda-clears-ge-healthcare-deep-learning-mri-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.massdevice.com/wp-content/uploads/2022/09/GE-Healthcare-AIR-Recon-DL-MRI.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-29T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MassDevice",
+        "domain": "massdevice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-09-29-iit-delhi-launch-certificate-programme-in-machine-learning-and-deep-learning.md",
+      "title": "IIT Delhi launch Certificate Programme in Machine Learning and Deep Learning",
+      "excerpt": "The Indian Institute of Technology Delhi has launched the six-month Certificate Programme in Machine Learning and Deep Learning to provide skills for learners.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/industry/services/education/iit-delhi-launch-certificate-programme-in-machine-learning-and-deep-learning/articleshow/94536998.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/industry/services/education/iit-delhi-launch-certificate-programme-in-machine-learning-and-deep-learning/articleshow/94536998.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/msid-94536994,width-640,height-480,resizemode-7/a84-pic-1-min.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/industry/services/education/iit-delhi-launch-certificate-programme-in-machine-learning-and-deep-learning/amp_articleshow/94536998.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/services/education/iit-delhi-launch-certificate-programme-in-machine-learning-and-deep-learning/amp_articleshow/94536998.cms",
+      "publishedDateTime": "2022-09-29T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-29-googles-artificial-intelligence-built-an-ai-that-outperforms-any-made-by-humans.md",
       "title": "Google's Artificial Intelligence Built an AI That Outperforms Any Made by Humans",
       "excerpt": "In May 2017, researchers at Google Brain announced the creation of AutoML, an artificial intelligence (AI) that's capable of generating its own AIs. More recently, they decided to present AutoML ...",
@@ -1351,103 +1438,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-ai-and-ml-have-the-potential-to-revolutionize-how-cmos-conduct-campaigns.md",
-      "title": "AI And ML Have The Potential To Revolutionize How CMOs Conduct Campaigns",
-      "excerpt": "Though people have talked about AI for more than 50 years, only now has it moved from a tech buzzword to part of the common vernacular. Having worked in fintech for the past 10 years, the uptake I’ve witnessed has led me to wholly believe in the immense value these technologies hold for communications professionals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/09/21/ai-and-ml-have-the-potential-to-revolutionize-how-cmos-conduct-campaigns/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/09/21/ai-and-ml-have-the-potential-to-revolutionize-how-cmos-conduct-campaigns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61814ed70e1ae168d212c0bd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/09/21/ai-and-ml-have-the-potential-to-revolutionize-how-cmos-conduct-campaigns/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/09/21/ai-and-ml-have-the-potential-to-revolutionize-how-cmos-conduct-campaigns/amp/",
-      "publishedDateTime": "2022-09-21T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-startup-diveplane-wants-to-make-ai-ethical.md",
-      "title": "Startup Diveplane wants to make AI ethical",
-      "excerpt": "In today’s world, artificial intelligence is used to make some big decisions. Colleges rely on it to admit students. Parole boards use it to approve or deny inmate releases. One startup in North Carolina's Research Triangle is striving to make AI systems more ethical,",
-      "sourceUrl": null,
-      "webUrl": "https://www.spokesman.com/stories/2022/sep/21/startup-diveplane-wants-to-make-ai-ethical-we-aske/",
-      "originalUrl": "https://www.spokesman.com/stories/2022/sep/21/startup-diveplane-wants-to-make-ai-ethical-we-aske/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumb.spokesman.com/vSaWPT1MHNhIgFtetEBcC1aVF6E=/480x0/media.spokesman.com/photos/2022/09/21/632b35fb6c360.hires.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.spokesman.com/stories/2022/sep/21/startup-diveplane-wants-to-make-ai-ethical-we-aske/?amp-content=amp",
-      "cdnAmpWebUrl": "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2022/sep/21/startup-diveplane-wants-to-make-ai-ethical-we-aske/?amp-content=amp",
-      "publishedDateTime": "2022-09-21T02:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Spokesman-Review",
-        "domain": "spokesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI",
         "Machine Learning"
       ]

@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Study shows how machine learning could predict rare disastrous events, like earthquakes or pandemics"
-excerpt: "In a new study in Nature Computational Science, the scientists describe how they combined statistical algorithms — which need less data to make accurate, efficient predictions — with a powerful machine learning technique developed at Brown and trained it to predict scenarios,"
-publishedDateTime: 2022-12-19T23:22:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/974778"
-webUrl: "https://www.eurekalert.org/news-releases/974778"
+excerpt: "When it comes to predicting disasters brought on by extreme events (think earthquakes, pandemics or \"rogue waves\" that could destroy coastal structures), computational modeling faces an almost insurmountable challenge: Statistically speaking,"
+publishedDateTime: 2022-12-19T16:00:00Z
+originalUrl: "https://techxplore.com/news/2022-12-machine-rare-disastrous-events-earthquakes.html"
+webUrl: "https://techxplore.com/news/2022-12-machine-rare-disastrous-events-earthquakes.html"
+ampWebUrl: "https://techxplore.com/news/2022-12-machine-rare-disastrous-events-earthquakes.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-machine-rare-disastrous-events-earthquakes.amp"
 type: article
-quality: 4
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-2.jpg"
+    width: 1920
+    height: 1316
+    isCached: true
 
 related:
   - title: "Machine Learning Model To Predict Disastrous Events"
@@ -43,6 +51,6 @@ related:
       domain: sciencedaily.com
     quality: 34
 
-secured: "Gqk6JFrs1cJGum9fI7XrJ9Ld8H2fdsLUuLzvBLfvnmcBOHl29ngERs7Sh19E4H9uB41pIePjvBX3+ngJ6VFcwwZlaiuBZuE7JGVtvWeLCDtnvz8J8JY9DjYaaViDe9lSp51WCZK8w+u9ULm+JsTmnHlpkxrQlB+nzLSjFO3eOzQJ2goABemMqnlgOIDQltYBcAsDL2C4Cd7HrmRn8eo1b5VTMVyCHbEDP9AD320gFGXlob7JeSpt06GmQ1KNxxDOMi0oTmTPeVVsKaG2uPmgHmaebyAybC7NemnKO9F3mrAbl2Cqf7LFZm7McXmZTU8NvHdShaGd/9AL4bsnaumCOy2RANysqn9EkGgZ4cnv4H0=;ifiGiiJSrtCrDnNQ9AncXQ=="
+secured: "vMKWYbxZphxAKLGbVchxBJ7zmUa403HU+lWWvFpBKi18pb3Q+Iq7ObEw9+ZxDtA67qsoY/i8itU2iyPSvE/QaDH0g7fx2dvaHSxtRBxrU1TMG5nEM9cm8jR3BQ/6jHvWa1OTluJacDqtrmiKPIJK25OsdTqpVVzccOcQflus96ogzpIUtM/R2IlX8ZI9gcClwr/xXY7SBiSNqVRWn/gap7Z01A8qzOoluo8GiJv389X0ACs4jBsVP1Mopx0v8DTyx6mWP2VdTYUJUNQPo4DPtc3GK/8SAGINob77oM04xQPi59CNKYQKxDyHObabxaU0ULkwhy9volwNhX1iob41zUd9OvB0L6SmOtgcUQTpZug=;Ls2tzERZdHzF9LR/tZouFQ=="
 ---
 

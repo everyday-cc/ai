@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-12-09-can-machines-invent-things-without-human-help-these-ai-examples-show-the-answer-is-yes.md",
+      "title": "Can machines invent things without human help? These AI examples show the answer is 'yes'",
+      "excerpt": "The question of whether artificial intelligence (AI) can invent is nearly 200 years old, going back to the very beginning of computing. Victorian mathematician Ada Lovelace wrote what's generally considered the first computer program.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-12-machines-human-ai-examples.html",
+      "originalUrl": "https://techxplore.com/news/2022-12-machines-human-ai-examples.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/can-machines-invent-th.jpg",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-12-machines-human-ai-examples.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-machines-human-ai-examples.amp",
+      "publishedDateTime": "2022-12-08T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-exafunction-supports-aws-inferentia-to-unlock-best-price-performance-for-machine-learning-inference.md",
+      "title": "Exafunction supports AWS Inferentia to unlock best price performance for machine learning inference",
+      "excerpt": "Across all industries, machine learning (ML) models are getting deeper, workflows are getting more complex, and workloads are operating at larger scales. Significant effort and resources are put into making these models more accurate since this investment directly results in better products and experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/exafunction-supports-aws-inferentia-to-unlock-best-price-performance-for-machine-learning-inference/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/exafunction-supports-aws-inferentia-to-unlock-best-price-performance-for-machine-learning-inference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/08/exafunction-aws-inferentia.jpg",
+          "width": 1563,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T09:57:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-12-09-google-brings-no-code-machine-learning-to-sheets-with-simpleml.md",
       "title": "Google brings no-code machine learning to Sheets with SimpleML",
       "excerpt": "Businesses looking to automate their Google workspaces could benefit from the tool which requires no programming experience and is now in beta",
@@ -1267,93 +1363,6 @@
       "provider": {
         "name": "The Jamaica Observer",
         "domain": "jamaicaobserver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-pytorch-20-release-accelerates-open-source-machine-learning.md",
-      "title": "PyTorch 2.0 release accelerates open-source machine learning",
-      "excerpt": "The new PyTorch 2.0 promises to accelerate ML training and development, while being backward-compatible with existing PyTorch code.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/programming-development/pytorch-2-0-release-accelerates-open-source-machine-learning/",
-      "originalUrl": "https://venturebeat.com/programming-development/pytorch-2-0-release-accelerates-open-source-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/programming-development/pytorch-2-0-release-accelerates-open-source-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/programming-development/pytorch-2-0-release-accelerates-open-source-machine-learning/amp/",
-      "publishedDateTime": "2022-12-02T07:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-disneys-fran-is-a-neural-network-that-can-age-or-de-age-actors-in-five-seconds.md",
-      "title": "Disney's FRAN is a neural network that can age or de-age actors in five seconds",
-      "excerpt": "Disney's Face Re-Aging Network (FRAN) is a neural network that can make actors look older or younger in just five seconds. Artists can still manually adjust the images to make it more realistic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/disneys-fran-is-a-neural-network-that-can-age-or-de-age-actors-in-five-seconds-9641111.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/disneys-fran-is-a-neural-network-that-can-age-or-de-age-actors-in-five-seconds-9641111.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2022/12/Disney-FRAN.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/disneys-fran-is-a-neural-network-that-can-age-or-de-age-actors-in-five-seconds-9641111.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/disneys-fran-is-a-neural-network-that-can-age-or-de-age-actors-in-five-seconds-9641111.html/amp",
-      "publishedDateTime": "2022-12-02T03:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
         "images": null,
         "publishers": null,
         "authors": null

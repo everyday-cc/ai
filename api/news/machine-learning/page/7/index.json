@@ -2,6 +2,113 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-10-31-shift-robotics-used-ai-to-create-the-worlds-fastest-shoes.md",
+      "title": "Shift Robotics Used AI to Create the 'World's Fastest Shoes'",
+      "excerpt": "Reminiscent of those plastic strap-on roller skates kids wear, Moonwalkers use a combination of AI and machine learning to help the wearer move much more swiftly than they can in a typical pair of shoes, and without having to actually run. A brushless DC ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/shift-robotics-used-ai-to-create-the-worlds-fastest-shoes",
+      "originalUrl": "https://www.pcmag.com/news/shift-robotics-used-ai-to-create-the-worlds-fastest-shoes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/02ezmmIMIHYAOMO3vQBGmBZ-2.fit_lim.size_1200x630.v1667231348.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-31T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-could-you-get-paid-to-do-ai-safety-research-and-should-you.md",
+      "title": "Could You Get Paid To Do AI Safety Research – And Should You?",
+      "excerpt": "A few years ago he began experimenting with deep learning, the type of AI which has dominated the field since the Big Bang in 2012, when a team led by Geoff Hinton achieved startling results in an image recognition ... Some people object that this subject ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/calumchace/2022/10/27/could-you-get-paid-to-do-ai-safety-research--and-should-you/",
+      "originalUrl": "https://www.forbes.com/sites/calumchace/2022/10/27/could-you-get-paid-to-do-ai-safety-research--and-should-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63598fa6d32ba318a208fd10/0x0.jpg?format=jpg&width=1200",
+          "width": 922,
+          "height": 1518,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2022/10/27/could-you-get-paid-to-do-ai-safety-research--and-should-you/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2022/10/27/could-you-get-paid-to-do-ai-safety-research--and-should-you/amp/",
+      "publishedDateTime": "2022-10-27T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-10-26-deploy-a-machine-learning-inference-data-capture-solution-on-aws-lambda.md",
       "title": "Deploy a machine learning inference data capture solution on AWS Lambda",
       "excerpt": "Monitoring machine learning (ML) predictions can help improve the quality of deployed models. Capturing the data from inferences made in production can enable you to monitor your deployed models and detect deviations in model quality. Early and proactive detection of these deviations enables you to take",
@@ -1330,111 +1437,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-machine-learning-101-how-merchants-use-machines-to-fight-fraud.md",
-      "title": "Machine Learning 101: How Merchants Use Machines To Fight Fraud",
-      "excerpt": "As fraudsters and fraud mitigation strategies evolve, so too does a business leader's relationship with machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/10/18/machine-learning-101-how-merchants-use-machines-to-fight-fraud/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/10/18/machine-learning-101-how-merchants-use-machines-to-fight-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634d8fec5aed33b6bbc9a291/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/10/18/machine-learning-101-how-merchants-use-machines-to-fight-fraud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/10/18/machine-learning-101-how-merchants-use-machines-to-fight-fraud/amp/",
-      "publishedDateTime": "2022-10-18T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-has-there-been-a-second-ai-big-bang.md",
-      "title": "Has There Been A Second AI Big Bang?",
-      "excerpt": "Aleksa Gordic explains how the latest AI models work, and explores whether the arrival of Transformers amounts to a second Big Bang in AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/calumchace/2022/10/18/has-there-been-a-second-ai-big-bang/",
-      "originalUrl": "https://www.forbes.com/sites/calumchace/2022/10/18/has-there-been-a-second-ai-big-bang/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63495cb7caf4d92519b5c039/0x0.jpg?format=jpg&width=1200",
-          "width": 935,
-          "height": 1021,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2022/10/18/has-there-been-a-second-ai-big-bang/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2022/10/18/has-there-been-a-second-ai-big-bang/amp/",
-      "publishedDateTime": "2022-10-18T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
       ]
     }
   ],

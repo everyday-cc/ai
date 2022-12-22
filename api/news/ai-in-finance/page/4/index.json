@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-10-16-deep-learning-in-machine-vision-market-supply-chain-stratgies-and-decision-making-2022-2028.md",
+      "title": "Deep Learning in Machine Vision Market Supply Chain Stratgies and Decision Making 2022-2028",
+      "excerpt": "A novel report on global Deep Learning in Machine Vision market has been recently added to Xcellent Insights' database",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-supply-chain-stratgies-and-decision-making-2022-2028-2022-10-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-supply-chain-stratgies-and-decision-making-2022-2028-2022-10-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-15T20:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-10-14-enova-announces-date-of-third-quarter-2022-financial-results-conference-call.md",
       "title": "Enova Announces Date of Third Quarter 2022 Financial Results Conference Call",
       "excerpt": "Enova will host a conference call to discuss its results at 4 p.m. Central Time / 5 p.m. Eastern Time the same day. The live webcast of the call can be accessed at the Enova International Investor Relations website at  along with the company's earnings press release and supplemental financial information.",
@@ -1300,59 +1353,6 @@
         "Machine Learning",
         "Natural Language Processing",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-sas-launches-first-cloud-analytics-service-on-azure.md",
-      "title": "SAS launches first cloud analytics service on Azure",
-      "excerpt": "SAS is one of the old guards in the data analytics space. Its first tools were developed at North Carolina State University in the late 1960s and commercially launched in 1976. Throughout the last fifty years,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/",
-      "originalUrl": "https://venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/12/Analytics.shutterstock_160050128.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/amp/",
-      "publishedDateTime": "2022-09-27T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

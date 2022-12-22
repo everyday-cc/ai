@@ -2,6 +2,249 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2022-10-12-fighting-climate-change-with-ai.md",
+      "title": "Fighting Climate Change with AI",
+      "excerpt": "Climate change's global impact is worsening with each passing day, and society is struggling to keep pace. Is artificial intelligence the key to preparing for—and fighting against—our world's greatest threat?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/sponsored/story/fighting-climate-change-with-ai/",
+      "originalUrl": "https://www.wired.com/sponsored/story/fighting-climate-change-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/633b3b9843f9a94be890d208/master/pass/GettyImages-1347310502.jpg",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/sponsored/story/fighting-climate-change-with-ai/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/sponsored/story/fighting-climate-change-with-ai/amp",
+      "publishedDateTime": "2022-10-12T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-microsofts-yusuf-mehdi-if-customers-want-a-particular-chip-we-will-support-them.md",
+      "title": "Microsoft's Yusuf Mehdi: If customers want a particular chip, we will support them",
+      "excerpt": "Microsoft CVP Yusuf Mehdi joins 'TechCheck' to discuss Microsoft's collaboration with Intel, the use of cloud and advanced AI, and the offering of chip choices for customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2022/10/12/microsofts-yusuf-mehdi-if-customers-want-a-particular-chip-we-will-support-them.html",
+      "originalUrl": "https://www.cnbc.com/video/2022/10/12/microsofts-yusuf-mehdi-if-customers-want-a-particular-chip-we-will-support-them.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107133320-16655890161665589013-25962498727-1080pnbcnews.jpg?v=1665589847&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-12T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-vectara-a-new-leader-in-applied-large-language-models-launches-its-first-neural-search-as-a-service-offering-to-transform-content-discovery.md",
+      "title": "Vectara, a New Leader in Applied Large Language Models, Launches its First Neural Search as a Service Offering to Transform Content Discovery",
+      "excerpt": "Vectara, the operating platform for neural network technology, today launched its first product, neural search as a service, that leverages large language models to understand the intent behind user queries and bring meaning to search.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/10/12/9690729.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/10/12/9690729.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-12T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-inquba-journey-cloud-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "inQuba Journey Cloud Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "NEW YORK, (BUSINESS WIRE) -- inQuba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/inquba-journey-cloud-now-available-in-the-microsoft-azure-marketplace-2022-10-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/inquba-journey-cloud-now-available-in-the-microsoft-azure-marketplace-2022-10-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-12T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-the-signal-for-help-i-created-went-viral-now-it-could-be-misused.md",
+      "title": "The Signal for Help I Created Went Viral. Now It Could Be Misused",
+      "excerpt": "A company with AI camera tools reached out to ask about ... And when they express it, they desire a specific kind of intervention. But research shows that our assumption that human facial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/domestic-violence-artificial-intelligence-privacy/",
+      "originalUrl": "https://www.wired.com/story/domestic-violence-artificial-intelligence-privacy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/633e1f89fe6027f6ad16e60a/master/pass/ai-violence-help-signal.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/domestic-violence-artificial-intelligence-privacy/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/domestic-violence-artificial-intelligence-privacy/amp",
+      "publishedDateTime": "2022-10-12T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-12-toyota-and-lexus-cars-to-get-ai-powered-voice-assistant-no-internet-required.md",
       "title": "Toyota and Lexus cars to get AI-powered voice assistant, no internet required",
       "excerpt": "The new Toyota and Lexus cars will receive this functionality where AI-powered voice assistants will perform tasks irrespective of internet connectivity.",
@@ -878,238 +1121,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-sophos-cto-joe-levy-on-ai-in-cybersecurity.md",
-      "title": "Sophos CTO Joe Levy on AI in Cybersecurity",
-      "excerpt": "The AI component of cybersecurity is changing fast – and customers often find it confusing. But clearly AI is a needed tool to block cybercriminals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/security/sophos-ai-in-cybersecurity/",
-      "originalUrl": "https://www.eweek.com/security/sophos-ai-in-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/10/eSPEAKS-thumbnail-2.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-softbank-robotics-partners-with-gausium-to-deploy-2-robotic-solutions.md",
-      "title": "SoftBank Robotics partners with Gausium to deploy 2 robotic solutions",
-      "excerpt": "SoftBank Robotics America and Gausium announced a new partnership to deploy indoor automated robots in the US.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/softbank-robotics-partners-with-gausium-to-deploy-2-robotic-solutions/",
-      "originalUrl": "https://www.therobotreport.com/softbank-robotics-partners-with-gausium-to-deploy-2-robotic-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/10/featured-web-SBRA-.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T15:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much.md",
-      "title": "Survey: 40-50% Of Us Trust Our ‘Self-Driving’ Vehicles From Tesla And Cadillac Far Too Much",
-      "excerpt": "When Tesla sells a Full Self Driving package for $15,000 US, people seem to trust the name and use it pretty much as such, according to a new survey, even if they only have the less capable Autopilot system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2022/10/11/survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2022/10/11/survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6345e7d45bd4910ac4b5c039/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2022/10/11/survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2022/10/11/survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much/amp/",
-      "publishedDateTime": "2022-10-11T15:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-although-not-alive-i-can-still-create-art-robot-ai-da-tells-uk-lawmakers.md",
-      "title": "'Although not alive, I can still create art,' robot Ai-Da tells UK lawmakers",
-      "excerpt": "LONDON, Oct 11 (Reuters) - A \"robot artist\" called Ai-Da told British lawmakers on ... Disrupted Flying car by California startup Alef attracts early Tesla investor, article with image October ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/although-not-alive-i-can-still-create-art-robot-ai-da-tells-uk-lawmakers-2022-10-11/",
-      "originalUrl": "https://www.reuters.com/technology/although-not-alive-i-can-still-create-art-robot-ai-da-tells-uk-lawmakers-2022-10-11/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T14:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-ai-equal-to-humans-in-text-message-mental-health-trial.md",
-      "title": "AI equal to humans in text-message mental health trial",
-      "excerpt": "UW Medicine researchers have found that algorithms are as good as trained human evaluators at identifying red-flag language in text messages from people with serious mental illness. This opens a promising area of study that could help with psychiatry training and scarcity of care.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-10-ai-equal-humans-text-message-mental.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-10-ai-equal-humans-text-message-mental.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/text-message.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-10-ai-equal-humans-text-message-mental.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-ai-equal-humans-text-message-mental.amp",
-      "publishedDateTime": "2022-10-11T14:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

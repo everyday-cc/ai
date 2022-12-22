@@ -2,6 +2,268 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2022-10-08-deep-learning-market-trends-companies-driver-segmentation-and-global-forecast-to-2028.md",
+      "title": "Deep Learning Market Trends, Companies, Driver, Segmentation and Global Forecast to 2028",
+      "excerpt": "Deep Learning Market study by \"The Insight Partners\" provides details about the market dynamics affecting the Deep",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-trends-companies-driver-segmentation-and-global-forecast-to-2028-2022-10-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-trends-companies-driver-segmentation-and-global-forecast-to-2028-2022-10-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-07T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-08-ai-generated-art-a-tool-for-enhancing-creativity.md",
+      "title": "AI-generated art: A tool for enhancing creativity",
+      "excerpt": "Artists should embrace #AI as the next advance in artistic progress, not summarily reject it as a creative tool.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-generated-art-a-tool-for-enhancing-creativity/",
+      "originalUrl": "https://venturebeat.com/ai/ai-generated-art-a-tool-for-enhancing-creativity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/openai-dall-e-2.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 749,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-generated-art-a-tool-for-enhancing-creativity/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-generated-art-a-tool-for-enhancing-creativity/amp/",
+      "publishedDateTime": "2022-10-07T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-07-3-things-the-ai-bill-of-rights-does-and-3-things-it-doesnt.md",
+      "title": "3 things the AI Bill of Rights does (and 3 things it doesn’t)",
+      "excerpt": "Expectations were high for the White House's Blueprint for an AI Bill of Rights released this week. Here's what what it does and doesn't do.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/3-things-the-ai-bill-of-rights-does-and-3-things-it-doesnt/",
+      "originalUrl": "https://venturebeat.com/ai/3-things-the-ai-bill-of-rights-does-and-3-things-it-doesnt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-167852886.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/3-things-the-ai-bill-of-rights-does-and-3-things-it-doesnt/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-things-the-ai-bill-of-rights-does-and-3-things-it-doesnt/amp/",
+      "publishedDateTime": "2022-10-07T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-07-ai-music-generators-could-be-a-boon-for-artists-but-also-problematic.md",
+      "title": "AI music generators could be a boon for artists — but also problematic",
+      "excerpt": "Stability AI is funding an effort to create a music-generating system using the same AI techniques behind Stable Diffusion.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/07/ai-music-generator-dance-diffusion/",
+      "originalUrl": "https://techcrunch.com/2022/10/07/ai-music-generator-dance-diffusion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/DALL·E-2022-10-07-00.01.33-a-robot-composing-music-musical-notes-synthesizer-saturated-colors-shadows-trending-on-artstation-abstract-1-e1665150702829.png?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/07/ai-music-generator-dance-diffusion/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/07/ai-music-generator-dance-diffusion/amp/",
+      "publishedDateTime": "2022-10-07T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-07-cookie-langs-brings-fast-foreign-language-learning-to-fashion.md",
+      "title": "Cookie Langs Brings Fast Foreign Language Learning To Fashion",
+      "excerpt": "The fashion industry continues to become more and more globalized, which is why Cookie Langs, one of the largest AI language learning platforms in the world, wants people in fashion to use their app to quickly learn languages to aid their careers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rebeccasuhrawardi/2022/10/07/cookie-langs-brings-fast-foreign-language-learning-to-fashion/",
+      "originalUrl": "https://www.forbes.com/sites/rebeccasuhrawardi/2022/10/07/cookie-langs-brings-fast-foreign-language-learning-to-fashion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/633ffbebbb739d8f7d6461d8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 812,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rebeccasuhrawardi/2022/10/07/cookie-langs-brings-fast-foreign-language-learning-to-fashion/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccasuhrawardi/2022/10/07/cookie-langs-brings-fast-foreign-language-learning-to-fashion/amp/",
+      "publishedDateTime": "2022-10-07T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-07-boston-dynamics-we-wont-weaponize-our-robots-and-neither-should-our-customers.md",
       "title": "Boston Dynamics: We won't weaponize our robots and neither should our customers",
       "excerpt": "The company's open letter highlights that consumers' trust in robots has waned after seeing weapons combined with autonomous and remotely controlled robots. Also: The White House passes an AI ...",
@@ -896,250 +1158,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-the-ai-powered-intelligent-edge-is-flourishing-and-its-powered-by-snapdragon.md",
-      "title": "The AI-Powered Intelligent Edge Is Flourishing And It’s Powered By Snapdragon",
-      "excerpt": "Qualcomm AI engines and silicon solutions are powering more and more devices out on the connected, intelligent edge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2022/10/06/the-ai-powered-intelligent-edge-is-flourishing-and-its-powered-by-snapdragon/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2022/10/06/the-ai-powered-intelligent-edge-is-flourishing-and-its-powered-by-snapdragon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/633f386b1d939b4e05d66336/0x0.jpg?format=jpg&width=1200",
-          "width": 1170,
-          "height": 656,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2022/10/06/the-ai-powered-intelligent-edge-is-flourishing-and-its-powered-by-snapdragon/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/10/06/the-ai-powered-intelligent-edge-is-flourishing-and-its-powered-by-snapdragon/amp/",
-      "publishedDateTime": "2022-10-06T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-the-white-house-unveils-a-bill-of-rights-for-artificial-intelligence.md",
-      "title": "The White House unveils a \"Bill of Rights\" for artificial intelligence",
-      "excerpt": "It would be a massive understatement to say artificial intelligence has affected our lives. Whether that's a positive or negative is entirely up to you. Virtual",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/96232-white-house-unveils-bill-rights-artificial-intelligence.html",
-      "originalUrl": "https://www.techspot.com/news/96232-white-house-unveils-bill-rights-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2022/10/2022-10-06-image-19.jpg",
-          "width": 1880,
-          "height": 1258,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-06T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-this-ai-powered-deep-learning-firefighter-helmet-could-help-save-lives.md",
-      "title": "This AI-powered, deep learning firefighter helmet could help save lives",
-      "excerpt": "The helmet allows firefighters literally see through smoke. Veuer’s Tony Spitz has the details. Get up-to-the-minute news sent straight to your device.",
-      "sourceUrl": null,
-      "webUrl": "https://omaha.com/news/video_48f0f46b-a94e-5866-87f1-9ee642bd6983.html",
-      "originalUrl": "https://omaha.com/news/video_48f0f46b-a94e-5866-87f1-9ee642bd6983.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/4/8f/48f0f46b-a94e-5866-87f1-9ee642bd6983/633efb996ab23.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-06T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Omaha.com",
-        "domain": "omaha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-gender-recognition-reforms-backed-by-holyrood-committee.md",
-      "title": "Gender recognition reforms backed by Holyrood committee",
-      "excerpt": "The changes could result in the number of people applying for a gender recognition certificate (GRC ... The Morning Star is unique, as a lone socialist voice in a sea of corporate media. We offer a platform for those who would otherwise never be listened ...",
-      "sourceUrl": null,
-      "webUrl": "https://morningstaronline.co.uk/article/b/gender-recognition-reforms-backed-holyrood-committee",
-      "originalUrl": "https://morningstaronline.co.uk/article/b/gender-recognition-reforms-backed-holyrood-committee",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://morningstaronline.co.uk/sites/default/files/PA-32446384_0.jpg",
-          "width": 1500,
-          "height": 999,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-06T12:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morning Star",
-        "domain": "morningstaronline.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-ai-vs-deep-learning.md",
-      "title": "AI vs. Deep Learning",
-      "excerpt": "Deep learning finally allows machines to tackle problems of similar complexity to those humans can solve, and has been responsible for impressive AI achievements in recent years. Deep learning has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/ai-vs-deep-learning/",
-      "originalUrl": "https://www.eweek.com/big-data-and-analytics/ai-vs-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-Servers-01-1088x725-1.jpg",
-          "width": 1088,
-          "height": 725,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-06T12:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

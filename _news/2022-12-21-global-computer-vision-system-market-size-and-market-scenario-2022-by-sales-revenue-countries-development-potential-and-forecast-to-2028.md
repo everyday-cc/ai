@@ -67,29 +67,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Artificial Intelligence Market 2023 : Company Profile Analysis, Industry Segmentation, Opportunity Assessment and Forecast by 2029"
-    excerpt: "The recent research report published by 360 Research Reports gives an insight into the “ Automotive Artificial Intelligence Market \". According to this published competitive intelligence analysis, this industry expected to experience a promising annual revenue increase (USD in Mn) in 2022."
-    publishedDateTime: 2022-12-19T13:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-2023-company-profile-analysis-industry-segmentation-opportunity-assessment-and-forecast-by-2029-2022-12-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Products Market 2022 Key Product Segments, Application Analysis, and Industry Growth Forecast by 2028"
-    excerpt: "The study report provides aid to investors in gaining a better analysis of the Artificial Intelligence Products market along with the driving factors, restraints, opportunities, and challenges. The research report provides information on the definition and segmentation and explains the market's scope along with information on applications and end-users."
-    publishedDateTime: 2022-12-20T22:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-2022-key-product-segments-application-analysis-and-industry-growth-forecast-by-2028-2022-12-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 20
 
 secured: "2iAAyfhirXACPLL/l81Gt3kX4co3o0Ws3ekxciiWtxlkD2XeV2U8OPxMXnyFcb1vD4+uLk5C5PuRnnSUhMvByvIRBbqhZZMflkoLC0UWx5t24btZy1eEE1CeiIDYUB+2jyiA1xzPDRbI7P1UpWP3Fmke9tAhlTpOZDp+AtepnWcc0qZKDDkYX3ji4nMThMMRcc+PDn5rSBND7D1XeC2R7y3Rsf3L2GOo+fmwhLHV8VAX9DoEUMiGZtsQn6oQ+aNO++rzcXKdeeEOamPofMHqnpoykLKjVK7PuMgFARw8OfYSzMqnbrse3A3Vs8J9FOOJ+hi5KIiLRitJ+yAK/4y0maI3CZSDUWIWWqQ/nrlFhPc=;Z1UZokNn4zsAEYpP2tXE0A=="
 ---

@@ -43,6 +43,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Tesla Driver Says Full Self-Driving Mode Caused 8-Car Crash"
+    excerpt: "Tesla CEO Elon Musk tweeted that \"full self-driving software\" (FSD) packages were available to all Tesla owners. Shortly afterward, on Thanksgiving Day, one of the company's EVs allegedly triggered a pileup just outside San Francisco."
+    publishedDateTime: 2022-12-22T03:07:00Z
+    webUrl: "https://www.entrepreneur.com/business-news/tesla-driver-says-full-self-driving-mode-caused-8-car-crash/441620"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1671678206-GettyImages-85622497-tesla-model-s.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Tesla driver in multi-car crash told police self-driving software malfunctioned"
     excerpt: "The driver of a 2021 Tesla Model S involved in an eight-vehicle crash last month on San Francisco's Bay Bridge told police he was in Full-Self Driving (FSD) mode which had malfunctioned, according to a police report made public Wednesday."
     publishedDateTime: 2022-12-21T23:45:00Z
@@ -56,6 +70,22 @@ related:
       - url: "https://www.reuters.com/resizer/1kgipieDg6sut8wSZk9syGF_-oE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Y3OSX6DIBVMORJAHNK4VN5UGPU.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Tesla Driver In 8-Vehicle Pileup On Bay Bridge Says Full Self-Driving Malfunctioned"
+    excerpt: "The driver of the 2021 Tesla Model S told police that FSD malfunctioned but the accuracy of his statements was yet to be determined, reported Reuters. The police report said if the software malfunctioned,"
+    publishedDateTime: 2022-12-22T03:22:00Z
+    webUrl: "https://www.benzinga.com/news/22/12/30169894/tesla-driver-in-8-vehicle-pileup-on-bay-bridge-says-full-self-driving-malfunctioned"
+    ampWebUrl: "https://www.benzinga.com/amp/content/30169894"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30169894"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 53
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2022/12/21/shutterstock_1542182744.jpg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Tesla 'full self-driving' triggered 8-car crash on Bay Bridge, driver tells police"
     excerpt: "The driver said the Tesla's \"full-self-driving\" software braked unexpectedly and triggered the eight-car pileup that led to nine people being treated for minor injuries, according to a California Highway Patrol traffic crash report."
@@ -90,6 +120,6 @@ related:
       domain: standard.co.uk
     quality: 4
 
-secured: "d5a7TM3WdWA+Rc2aa6HDo1QX7djFvYOJ79PaNQdlriijeXgAd9aYz2ZkjISz0k/e8GayPh+jG+pxdSyMi1DvONEjzWNCcDKtGKFGi0bh5ig20dK+h1qeopNe/jtEjv+6MFtaUf8/xHuJCWZWehhgvWOYAy/MMLVLIoTAnbFKAH+V/kM2F0VD5xPRCOTyHm/IwAea3z45at34N8yzLMto1lpKv5WLmWa1C5xW3yUlWfxg1ne7j6vNZDpoU9ofhyCN1MfOhsCaRw5SR4n+cPlpDkkgk2zQG44agK33pINCI5pMq0lmiPCNk8ve46hK9sjt+LIpyzmt2sE3NrVLtnMsqmSz2hmmqa3G8XODCO3LO94=;SokAoI4iBJpEO/Pk7OmZOg=="
+secured: "Lmw2CWcxCcWlzvN1RjSKp5ACFWR7M7eWWv6pzz8y2Evpz4/4n8I1SFnyRJ+rOy4ZXT65L/wdtni0MkP0EEWpf4yKrEr2U6mFHDxAHz9J2lN23t4E6pA4qsPbj/bl2GZEt3R1U7ItyXZaqjCoZn9bQ29raGWY5D0gh616LXFhyI59K7RX1dmOtIBy7aKxH4I4qJzgo9A+bSZEvcbIdMOMNcXUGLe/sgLJhg7Cnvbph7hTyFZqzi3RSst4vjsmDQ/iA+zMsLFIO5YHB7r8NQSlWEqNJ6/KscFQFU73Oo+quqYrTgydyd6xbib5QN9NOGNZtKsEHzC+EL4cebP9osXZZ0CTOMthMR7idooQUGqA4mBbi5GF0ubODeERzJM3f3jz5vyD16vZzrKABYc6zHN7ZvsOuuMonQ2yNZQ3x63ygubm65tndWa0Niq2EZQX3zEgxcu3IN7s//HCk/1c4fm53Be9Pa7PDokVQ5guWu4C0/FcxPBTuzAi5GqjWTxkCe1A78dpe/lJ68I8w+gyFXTkgg==;v6wzmbNlz+Djg6gg6UHipw=="
 ---
 

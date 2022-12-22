@@ -2,6 +2,212 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2022-12-02-cisco-investments-and-third-culture-capital-among-notable-investors-in-voiceitts-latest-funding-round-to-scale-its-accessible-speech-recognition.md",
+      "title": "Cisco Investments and Third Culture Capital Among Notable Investors in Voiceitt's Latest Funding Round to Scale its Accessible Speech Recognition",
+      "excerpt": "Voiceitt, the Israel-based award-winning leader in speech recognition technology for non-standard speech, announced today the closing of its latest funding round led by AMIT Technion, with participation from Cisco Investments and Third Culture Capital (3CC).",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/12/02/9723611.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/12/02/9723611.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-02T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-the-rise-and-regulation-of-killer-police-robots.md",
+      "title": "The rise and regulation of killer police robots",
+      "excerpt": "Larger police departments in the United States have the capacity to arm remote-controlled robots with lethal weaponry and send those robots in to kill suspects. But should they be able to use that ...",
+      "sourceUrl": null,
+      "webUrl": "https://theweek.com/san-francisco/1018852/lethal-police-robots",
+      "originalUrl": "https://theweek.com/san-francisco/1018852/lethal-police-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediacloud.theweek.com/image/upload/f_auto,t_primary-image-mobile@1/v1669910848/SF%20killer%20robot.jpg",
+          "width": 375,
+          "height": 211,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theweek.com/san-francisco/1018852/lethal-police-robots?amp",
+      "cdnAmpWebUrl": "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/san-francisco/1018852/lethal-police-robots?amp",
+      "publishedDateTime": "2022-12-02T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "THE WEEK",
+        "domain": "theweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-ai-reveals-the-most-human-parts-of-writing.md",
+      "title": "AI Reveals the Most Human Parts of Writing",
+      "excerpt": "When do writers want help finding inspiration? And when do they want full control? Computers could expose the true future of the medium.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/artificial-intelligence-writing-art/",
+      "originalUrl": "https://www.wired.com/story/artificial-intelligence-writing-art/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/638950f41857496878b1b1eb/master/pass/artificial-intelligence-human-writing.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-writing-art/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-writing-art/amp",
+      "publishedDateTime": "2022-12-02T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-this-ai-powered-fintech-is-making-strides-is-it-time-to-buy.md",
+      "title": "This AI-Powered Fintech Is Making Strides: Is It Time to Buy?",
+      "excerpt": "The AI-powered insurance fintech got off to a blistering start in its efforts to grab market share, and its stock price exploded after it went public in July 2020, gaining 551% a few months later.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/this-ai-powered-fintech-is-making-strides:-is-it-time-to-buy",
+      "originalUrl": "https://www.nasdaq.com/articles/this-ai-powered-fintech-is-making-strides:-is-it-time-to-buy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-02T05:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-02-anavex-surges-40-as-drug-improves-cognitive-function-in-alzheimers-patients-meets-trials-goals.md",
+      "title": "Anavex surges 40% as drug improves cognitive function in Alzheimer's patients, meets trial's goals",
+      "excerpt": "Anavex Life Sciences (NASDAQ:AVXL) said its oral drug ANAVEX2-73 (blarcamesine) met the main goal of improvement in cognitive function in patients with early Alzheimer's disease (AD) in a phase 2B ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3913461-anavex-drug-improves-cognitive-function-in-alzheimers-patients-meets-main-goal-of-trial",
+      "originalUrl": "https://seekingalpha.com/news/3913461-anavex-drug-improves-cognitive-function-in-alzheimers-patients-meets-main-goal-of-trial",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1328955938/image_1328955938.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-02T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-02-how-ai-could-help-boost-help-desk-productivity-in-2023.md",
       "title": "How AI Could Help Boost Help Desk Productivity In 2023",
       "excerpt": "As businesses develop their IT budgets for 2023, with the specter of an economic slowdown looming, artificial intelligence (AI)-related projects will figure prominently in the discretionary spending plans of many organizations. In most cases, their ...",
@@ -975,249 +1181,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-now-ai-can-outmaneuver-you-at-both-stratego-and-diplomacy.md",
-      "title": "Now AI can outmaneuver you at both Stratego and Diplomacy",
-      "excerpt": "Stratego and Diplomacy were human-dominated, but now AI has become table-flipping good at one and passably human at the other.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/01/now-ai-can-outmaneuver-you-at-both-stratego-and-diplomacy/",
-      "originalUrl": "https://techcrunch.com/2022/12/01/now-ai-can-outmaneuver-you-at-both-stratego-and-diplomacy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/deepmind-stratego-j.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/01/now-ai-can-outmaneuver-you-at-both-stratego-and-diplomacy/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/01/now-ai-can-outmaneuver-you-at-both-stratego-and-diplomacy/amp/",
-      "publishedDateTime": "2022-12-01T16:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-artificial-intelligence-in-education-market-research-2022-growth-trends-outlook-and-future-scope-analysis-2030.md",
-      "title": "Artificial Intelligence in Education Market Research 2022 – Growth, Trends, Outlook and Future Scope Analysis 2030",
-      "excerpt": "Dec 02, 2022 (Heraldkeepers) -- The global Artificial Intelligence in Education market report provides geographic analysis covering regions, such as North America, Europe, Asia-Pacific ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-research-2022-growth-trends-outlook-and-future-scope-analysis-2030-2022-12-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-research-2022-growth-trends-outlook-and-future-scope-analysis-2030-2022-12-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Education",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-netscout-announces-interoperability-of-omnis-cyber-intelligence-with-amazon-security-lake.md",
-      "title": "NETSCOUT Announces Interoperability of Omnis Cyber Intelligence with Amazon Security Lake",
-      "excerpt": "NETSCOUT SYSTEMS, a leading provider of cybersecurity, service assurance, and business analytics solutions, announced the successful interoperability of Omnis™ Cyber Intelligence (OCI) with Amazon Security Lake,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefastmode.com/technology-solutions/29259-netscout-announces-interoperability-of-omnis-cyber-intelligence-with-amazon-security-lake",
-      "originalUrl": "https://www.thefastmode.com/technology-solutions/29259-netscout-announces-interoperability-of-omnis-cyber-intelligence-with-amazon-security-lake",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thefastmode.com/media/k2/items/src/36612b52014decb243e4df20b5abe8af.jpg?t=20221202_054038",
-          "width": 752,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deep",
-        "domain": "thefastmode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-playing-the-piano-boosts-brain-processing-power-and-helps-lift-the-blues.md",
-      "title": "Playing the piano boosts brain processing power and helps lift the blues",
-      "excerpt": "A randomized control trial led by psychologists shows the positive effects learning to play music for just a few weeks has on cognitive abilities. A new study published by researchers at the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/12/221202124841.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/12/221202124841.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-01T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-02-lensa-ai-climbs-the-app-store-charts-as-its-magic-avatars-go-viral.md",
-      "title": "Lensa AI climbs the App Store charts as its ‘magic avatars’ go viral",
-      "excerpt": "The current No. 1 App Store photo app, Lensa AI uses the Stable Diffusion deep learning model to generate artsy \"magic avatars\" for consumers.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/01/lensa-ai-climbs-the-app-store-charts-as-its-magic-avatars-go-viral/",
-      "originalUrl": "https://techcrunch.com/2022/12/01/lensa-ai-climbs-the-app-store-charts-as-its-magic-avatars-go-viral/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/lensa-ai-magic-avatar.jpg?resize=1200,730",
-          "width": 1200,
-          "height": 730,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/01/lensa-ai-climbs-the-app-store-charts-as-its-magic-avatars-go-viral/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/01/lensa-ai-climbs-the-app-store-charts-as-its-magic-avatars-go-viral/amp/",
-      "publishedDateTime": "2022-12-01T15:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

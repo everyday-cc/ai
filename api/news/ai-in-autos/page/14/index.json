@@ -2,6 +2,115 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-09-30-tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work.md",
+      "title": "Tesla AI Day 2022: How to Watch Elon Musk's Optimus Robot, Self Driving Car Work",
+      "excerpt": "There, too, Tesla developed custom AI chips. \"Tesla's inference engine is among the best in performance..., giving them a real advantage,\" said Keith McMillen, CEO of BeBop Sensors, a startup designing touch sensors robots can use. FSD, short for Full ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 643,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/59754357fb02580cafd46f1744e2f40d12389a1f/hub/2022/09/23/106011fa-bdbe-45ae-b52c-a9c9d5d218b6/tesla-bot-optimus.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
+      "publishedDateTime": "2022-09-30T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-10-top-artificial-intelligence-ai-applications-in-healthcare.md",
+      "title": "10 top artificial intelligence (AI) applications in healthcare",
+      "excerpt": "As AI continues to be applied across the healthcare spectrum — from administration to patient interaction and medical research, diagnosis and treatment — here's how it's making an impact.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/",
+      "originalUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/07/Zebra-Medical-FDA-approval-AI-heart-disease.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/amp/",
+      "publishedDateTime": "2022-09-30T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Natural Language Processing",
+        "AI in Robotics",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-30-tesla-unveils-its-humanoid-robot-for-less-than-20000.md",
       "title": "Tesla unveils its humanoid robot for ‘less than $20,000’",
       "excerpt": "Tesla did show some videos of the robot performing some tasks in a controlled environment to demonstrate some level of usefulness. The automaker even showed the robot performing a task at an ...",
@@ -1269,103 +1378,6 @@
         "AI in Autos",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-artificial-intelligence-said-good-for-smart-grid-optimisation.md",
-      "title": "Artificial intelligence said good for smart grid optimisation",
-      "excerpt": "Jamaica is being urged to consider artificial intelligence (AI) for smart grid optimisation as a more feasible way of producing green energy. Tatjana Legans, who is",
-      "sourceUrl": null,
-      "webUrl": "https://www.jamaicaobserver.com/news/artificial-intelligence-said-good-for-smart-grid-optimisation/",
-      "originalUrl": "https://www.jamaicaobserver.com/news/artificial-intelligence-said-good-for-smart-grid-optimisation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imengine.public.prod.jam.navigacloud.com/?uuid=7ec08427-579f-5889-8cf0-f752172f9c2c&function=fit&type=preview",
-          "width": 500,
-          "height": 378,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.jamaicaobserver.com/news/artificial-intelligence-said-good-for-smart-grid-optimisation/amp/",
-      "cdnAmpWebUrl": "https://www-jamaicaobserver-com.cdn.ampproject.org/c/s/www.jamaicaobserver.com/news/artificial-intelligence-said-good-for-smart-grid-optimisation/amp/",
-      "publishedDateTime": "2022-09-21T22:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jamaica Observer",
-        "domain": "jamaicaobserver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-run-machine-learning-enablement-events-at-scale-using-aws-deepracer-multi-user-account-mode.md",
-      "title": "Run machine learning enablement events at scale using AWS DeepRacer multi-user account mode",
-      "excerpt": "This post was co-written by Marius Cealera, Senior Partner Solutions Architect at AWS, Zdenko Estok, Cloud Architect at Accenture and Sakar Selimcan, Cloud Architect at Accenture. Machine learning (ML) is a high-stakes business priority, with companies spending $306 billion on ML applications in the",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-machine-learning-enablement-events-at-scale-using-aws-deepracer-multi-user-account-mode/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-machine-learning-enablement-events-at-scale-using-aws-deepracer-multi-user-account-mode/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/29/dr1-831x630.png",
-          "width": 831,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T09:19:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning",
-        "AI in Autos"
       ]
     }
   ],

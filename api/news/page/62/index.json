@@ -2,6 +2,240 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2022-10-28-long-covid-how-lost-connections-between-nerve-cells-in-the-brain-may-explain-cognitive-symptoms.md",
+      "title": "Long COVID: how lost connections between nerve cells in the brain may explain cognitive symptoms",
+      "excerpt": "Some people with long COVID complain of “brain fog”, which includes a wide variety of cognitive symptoms affecting memory, concentration, sleep and speech. There’s also growing concern about ...",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/long-covid-how-lost-connections-between-nerve-cells-in-the-brain-may-explain-cognitive-symptoms-192702",
+      "originalUrl": "https://theconversation.com/long-covid-how-lost-connections-between-nerve-cells-in-the-brain-may-explain-cognitive-symptoms-192702",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/long-covid-how-lost-connections-between-nerve-cells-in-the-brain-may-explain-cognitive-symptoms-192702",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/long-covid-how-lost-connections-between-nerve-cells-in-the-brain-may-explain-cognitive-symptoms-192702",
+      "publishedDateTime": "2022-10-27T20:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-artificial-intelligence-has-an-achilles-heel-data.md",
+      "title": "Artificial Intelligence Has An Achilles Heel: Data",
+      "excerpt": "Artificial intelligence just doesn’t pop up when you install tools and software. It takes planning and, most of all, it takes data. But getting the right data to make AI and machine learning algorithms — and understanding it — is where many organizations are slipping up,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/27/artificial-intelligence-has-an-achilles-heel-data/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/27/artificial-intelligence-has-an-achilles-heel-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/635b38cb63aefdcfb6876e01/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 748,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/27/artificial-intelligence-has-an-achilles-heel-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/10/27/artificial-intelligence-has-an-achilles-heel-data/amp/",
+      "publishedDateTime": "2022-10-27T19:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-google-quietly-bought-an-ai-startup-to-build-your-avatar.md",
+      "title": "Google Quietly Bought an AI Startup to Build Your Avatar",
+      "excerpt": "Google quietly acquired Alter, a Twitter-backed AI avatar startup formerly named Facemoji, earlier this year for $100 million, TechCrunch reported Thursday. Alter's acquisition was completed two months ago,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/google-quietly-bought-an-ai-startup-to-build-your-avatar/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/google-quietly-bought-an-ai-startup-to-build-your-avatar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 249,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/d189282b394184fca61d9cb8dced46eb01ce2e53/hub/2020/09/30/cfd89362-d0cb-494b-8200-d329c0ca4585/20200929-google-g-logo-02.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-quietly-bought-an-ai-startup-to-build-your-avatar/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-quietly-bought-an-ai-startup-to-build-your-avatar/",
+      "publishedDateTime": "2022-10-27T17:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-all-symbols-in-tensorflow-ranking.md",
+      "title": "All symbols in TensorFlow Ranking",
+      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/ranking/api_docs/python/tfr/all_symbols",
+      "originalUrl": "https://www.tensorflow.org/ranking/api_docs/python/tfr/all_symbols",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-27T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-high-performance-stereo-computer-vision-for-the-raspberry-pi.md",
+      "title": "High Performance Stereo Computer Vision For The Raspberry Pi",
+      "excerpt": "Up until now, running any kind of computer vision system on the Raspberry Pi has been rather underwhelming, even with the addition of products such as the Movidius Neural Compute Stick.",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2019/08/03/high-performance-stereo-computer-vision-for-the-raspberry-pi/",
+      "originalUrl": "https://hackaday.com/2019/08/03/high-performance-stereo-computer-vision-for-the-raspberry-pi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2019/07/luxonis_10.jpg",
+          "width": 3278,
+          "height": 2458,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-27T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-28-indigenous-recognition-harder-to-achieve-than-legalising-same-sex-marriage-pearson.md",
       "title": "Indigenous recognition harder to achieve than legalising same-sex marriage: Pearson",
       "excerpt": "Constitutional recognition will endure but the legislative details can be changed by the parliament if and when it chooses to do so,” he said. “A ‘yes’ vote in the voice referendum will ...",
@@ -917,230 +1151,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-your-guide-to-robotic-prostatectomy-procedure-recovery-and-alternatives.md",
-      "title": "Your Guide to Robotic Prostatectomy: Procedure, Recovery, and Alternatives",
-      "excerpt": "During this procedure, a surgeon removes your prostate by guiding a robotic arm from behind a control panel. The robotic arm allows for greater precision than if they perform the surgery by hand.",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthline.com/health/prostate-cancer/robotic-prostatectomy",
-      "originalUrl": "https://www.healthline.com/health/prostate-cancer/robotic-prostatectomy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://post.healthline.com/wp-content/uploads/2022/09/Doctor-Robotic-surgery-facebook-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healthline",
-        "domain": "healthline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-tesla-is-under-criminal-investigation-over-self-driving-car-claims.md",
-      "title": "Tesla Is Under Criminal Investigation Over Self-Driving Car Claims",
-      "excerpt": "An investigation recently launched examining Tesla's claims about its vehicles self driving capabilities, probing whether or not the company has misled its consumers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/business-news/report-tesla-is-under-investigation-over-self-driving-car/438010",
-      "originalUrl": "https://www.entrepreneur.com/business-news/report-tesla-is-under-investigation-over-self-driving-car/438010",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1666880890-GettyImages-490597708.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-tempus-announces-real-world-data-driven-program-to-accelerate-precision-oncology-research.md",
-      "title": "Tempus Announces Real-World Data-Driven Program to Accelerate Precision Oncology Research",
-      "excerpt": "Tempus, a leader in artificial intelligence and precision medicine ... Kuzel, MD, FACP, Division Chief of Hematology/Oncology/Cell Therapy at Rush University Medical Center. \"By having access to these large data sets accumulated from hundreds of centers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/tempus-announces-real-world-data-driven-program-to-accelerate-precision-oncology-research/article_1d5b5a46-afd4-5874-ab0f-87d29a9b6a21.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/tempus-announces-real-world-data-driven-program-to-accelerate-precision-oncology-research/article_1d5b5a46-afd4-5874-ab0f-87d29a9b6a21.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/Jmag-Oct22Cvr.jpg",
-          "width": 350,
-          "height": 456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-best-mining-gpu-2022-the-best-graphics-card-for-bitcoin-and-ethereum.md",
-      "title": "Best mining GPU 2022: The best graphics card for Bitcoin and Ethereum",
-      "excerpt": "For gaming, DLSS 2.0 and 2.1 are perhaps some of the most impressive features that come standard with this GPU. It employs dedicated Tensor cores to run AI rendering in real time, effectively ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.windowscentral.com/best-gpus-crypto-mining",
-      "originalUrl": "https://www.windowscentral.com/best-gpus-crypto-mining",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/FLBSirAQPXGs3w48myZ4Nm-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine.md",
-      "title": "Diagnostic Robotics Named a 2022 Top 10 MedTech Startup by MedTech Outlook Magazine",
-      "excerpt": "\"We take immense pride in being named as a Top 10 MedTech Startup and the recognition it brings to our solutions,\" said Dr. Kira Radinsky, CEO of Diagnostic Robotics. \"2022 was a monumental year for us as we continued to enhance our AI solutions ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine-1031843067",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine-1031843067",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

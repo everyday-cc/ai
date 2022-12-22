@@ -2,6 +2,92 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-09-12-realtime-robotics-integrates-robot-motion-planning-control-software-with-siemens-process-simulate.md",
+      "title": "Realtime Robotics Integrates Robot Motion Planning & Control Software With Siemens Process Simulate",
+      "excerpt": "The integration empowers Siemens customers to visualize, simulate and validate robot task plans from directly within the process simulate environment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/september-2022/realtime-robotics-integrates-robot-motion-planning? Control News & Articles",
+      "originalUrl": "https://www.automation.com/en-us/articles/september-2022/realtime-robotics-integrates-robot-motion-planning? Control News & Articles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/0175e750-28d0-4f9c-a429-0a0d95a0ae4b/robotics-motion-news-Sept-13-2022-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-12T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-3-challenges-collaborative-robots-need-to-overcome.md",
+      "title": "3 Challenges Collaborative Robots Need to Overcome",
+      "excerpt": "It addresses issues such as making sure the base knows where the robot arm is at all times. Rob Spiegel has covered automation and control for 19 years, 17 of them for Design News. Other topics he has covered include supply chain technology, alternative ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/3-challenges-collaborative-robots-need-overcome",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/3-challenges-collaborative-robots-need-overcome",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Kollaborierende_Roboter_0.jpg",
+          "width": 6082,
+          "height": 4054,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-12-a-start-ups-evolution-from-ai-lab-to-ai-business.md",
       "title": "A Start-up’s Evolution from AI Lab to AI Business",
       "excerpt": "This Tokyo-based start-up has been incrementally realising the potential of AI to reshape the internet of things (IoT) – ever since shifting focus from search engines to deep learning (and dropping its original moniker, Preferred Infrastructure) ...",

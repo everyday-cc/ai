@@ -162,6 +162,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-12-uber-announces-launch-of-self-driving-cars-in-las-vegas.md",
+      "title": "Uber Announces Launch of Self-Driving Cars in Las Vegas",
+      "excerpt": "Per a press release shared on Wednesday, the ride-hailing service has teamed up with driverless technology company Motional to launch their very first automated cars in the city. Individuals who ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.stuff.co.nz/motoring/300762841/uber-announces-launch-of-selfdriving-cars-in-las-vegas",
+      "originalUrl": "https://www.stuff.co.nz/motoring/300762841/uber-announces-launch-of-selfdriving-cars-in-las-vegas",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resources.stuff.co.nz/content/dam/images/4/z/2/e/3/c/image.related.StuffLandscapeSixteenByNine.1420x800.4z2e3d.png/1670806806360.jpg",
+          "width": 1420,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-11T21:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stuff.co.nz",
+        "domain": "stuff.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-12-driverless-cars-on-cruise-control-are-coming-to-a-street-near-you.md",
       "title": "Driverless cars on cruise control are coming to a street near you",
       "excerpt": "Driverless cars have yet to reach the streets of Halifax, but perhaps residents should keep their eyes peeled. Though its cobblestones “might prove to be challenging”, Oliver Cameron, the ...",
@@ -481,6 +524,40 @@
         "AI",
         "AI in Healthcare",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-10-artificial-intelligence-went-viral-with-chatgpt-and-lensa-ai-whats-next.md",
+      "title": "Artificial Intelligence went viral with ChatGPT and Lensa AI. What’s next",
+      "excerpt": "ChatGPT by OpenAI and Lensa AI are two generative artificial intelligence tools that have been going viral. There are fun uses of artificial intelligence (AI) that show the possibilities of how ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com/podcasts/thismatters/2022/12/09/artificial-intelligence-went-viral-with-chatgpt-and-lensa-ai-whats-next.html",
+      "originalUrl": "https://www.thestar.com/podcasts/thismatters/2022/12/09/artificial-intelligence-went-viral-with-chatgpt-and-lensa-ai-whats-next.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T19:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Toronto Star",
+        "domain": "thestar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1318,101 +1395,6 @@
       "provider": {
         "name": "Digital Journal",
         "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-uber-motional-launch-robotaxi-service-in-las-vegas.md",
-      "title": "Uber, Motional launch robotaxi service in Las Vegas",
-      "excerpt": "REUTERS/Brendan McDermid/File Photo/File Photo Dec 7 (Reuters) - U.S. ride-hailing firm Uber Technologies Inc (UBER.N) and driverless tech-maker Motional said on Wednesday they launched their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/uber-motional-launch-robotaxi-service-las-vegas-2022-12-07/",
-      "originalUrl": "https://www.reuters.com/technology/uber-motional-launch-robotaxi-service-las-vegas-2022-12-07/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/5bI5V7Eei04IGlVxWpEN4-S1GiY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YQL5R2D73RO7HIBIGE5G5SIUGU.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T04:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-uber-launches-driverless-rides-with-av-company-motional.md",
-      "title": "Uber launches driverless rides with AV company Motional",
-      "excerpt": "Uber's rival is also partnered with Motional and launched driverless rides in Las Vegas at CES in 2018. They also plan to become fully driverless in 2023. Needless to say, the race is on.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/uber-launches-driverless-rides-av-110000428.html",
-      "originalUrl": "https://www.aol.com/news/uber-launches-driverless-rides-av-110000428.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_mashable_370/16eb380bff4dcecc9f6f03365ad6f717",
-          "width": 1026,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T03:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
         "images": null,
         "publishers": null,
         "authors": null

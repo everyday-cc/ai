@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-Driving Truck Technology Market 2022: Share and Outlook of Regulatory Scenario by 2028"
+    excerpt: "Further, the SWOT analysis & other techniques are utilized to investigate this data & provide an informed perspective on the state of the business to assist design the best growth strategy for any vendors or to current penetration into the present & and likely direction of the global Self-Driving Truck Technology market."
+    publishedDateTime: 2022-12-20T15:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-truck-technology-market-2022-share-and-outlook-of-regulatory-scenario-by-2028-2022-12-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "sThnE7QFb6zr8gSFnUeOipKJF/xPVjkQFLn9lVLMxG8+nSP9CRybeeJY/CXJ2Bv85H0fDxc5t8UtUoXJNn1ulc6tWhKd5WtjUAevUQBOJ6pFY4hbRLfaqAHOhA/+yC4bK6SJAEO0YGUPW3Oilydk8FR+oC4WCl/sxQOEGv7s0LzysI/VC+WG0zOodWFNpfoF0r0p+BanYkoc333ZSCNTfjhbeGJDzMywLDn5OBnzqN77TXaTPalBdfSNrl8BSxLmhc+L2Q6+5Ps7tHtFDZsHRtn/FE8+hA1o9c4AVz86YRzfCkLmEMoaEvczisZhxaGa+SWG4qu/ss98wkNIw0f/uAv5QjpClxDbZdu2BcfsLNw=;it9vpAQR5G0GudK2QHL0JA=="
 ---

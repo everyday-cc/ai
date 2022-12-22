@@ -53,7 +53,7 @@
       "originalUrl": "https://www.cnn.com/2022/12/21/business/tesla-fsd-8-car-crash/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -667,7 +667,7 @@
       "originalUrl": "https://www.forbes.com/sites/geristengel/2022/12/21/female-founder-of-cybersecurity-startup-builds-better-response-to-threats/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1005,58 +1005,6 @@
       ]
     },
     {
-      "path": "_news/2022-12-21-artificial-intelligenceai-in-healthcare-market-2022-advance-technology-and-highlighted-key-development-by-2028.md",
-      "title": "Artificial Intelligence(AI) in Healthcare Market 2022: Advance Technology and Highlighted Key Development by 2028",
-      "excerpt": "According to the MarketsandResearch.biz report Global Artificial Intelligence(AI) in Healthcare Market is anticipated to experience rapid growth between 2022 and 2028. This study covers the key market parameters and growth possibilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligenceai-in-healthcare-market-2022-advance-technology-and-highlighted-key-development-by-2028-2022-12-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligenceai-in-healthcare-market-2022-advance-technology-and-highlighted-key-development-by-2028-2022-12-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-20T14:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-21-sea-machines-and-uscg-partner-on-computer-vision-domain-awareness.md",
       "title": "Sea Machines and USCG partner on computer vision domain awareness",
       "excerpt": "Installation on the cutter was made possible under an ongoing Cooperative Research and Development Agreement (CRADA) between Sea Machines Robotics and the USCG Research and Development Center in an effort to evaluate how computer vision systems can be utilized for autonomous navigation,",
@@ -1220,6 +1168,58 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-12-20T08:33:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-20-accelerate-the-investment-process-with-aws-low-code-no-code-services.md",
+      "title": "Accelerate the investment process with AWS Low Code-No Code services",
+      "excerpt": "The last few years have seen a tremendous paradigm shift in how institutional asset managers source and integrate multiple data sources into their investment process. With frequent shifts in risk correlations, unexpected sources of volatility, and increasing competition from passive strategies, asset",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-the-investment-process-with-aws-low-code-no-code-services/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-the-investment-process-with-aws-low-code-no-code-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/20/accelerate-investment-process.jpg",
+          "width": 1053,
+          "height": 527,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-20T08:13:35-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",

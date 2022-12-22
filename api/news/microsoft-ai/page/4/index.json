@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-20-robustel-5g-iot-edge-computing-gateway-certified-by-microsoft-azure-and-amazon-web-services-aws.md",
+      "title": "Robustel 5G IoT EDGE Computing Gateway certified by Microsoft Azure and Amazon Web Services (AWS)",
+      "excerpt": "Robustel's latest IoT device the EG5120 5G Edge Computing Gateway is now listed in the Microsoft Azure certified device catalogue and also Amazon Web Services (AWS) IoT Greengrass. The EG5120 helps to seamlessly extend Azure & AWS based IoT cloud services and intelligence to the network edge,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-robustel-5g-iot-edge-computing-gateway-certified-microsoft-/2022/11/20/9717214.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-robustel-5g-iot-edge-computing-gateway-certified-microsoft-/2022/11/20/9717214.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1951114/EG5120_5G_Edge_Computing_Gateway.jpg",
+          "width": 400,
+          "height": 222,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-19T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-19-super-computing-and-storage-on-earth-and-in-space.md",
       "title": "Super Computing And Storage On Earth And In Space",
       "excerpt": "DDN announced enhancements to its DDN Insights monitoring interface. Panasas announced data management and analytics tools for high performance computing applications as part of its PanFS software suite.",
@@ -1318,49 +1362,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-12-childhood-lead-exposure-tied-to-worse-cognitive-function-in-late-life.md",
-      "title": "Childhood lead exposure tied to worse cognitive function in late life",
-      "excerpt": "Exposure to lead in childhood is associated with worse cognitive functioning in late life, according to a study published in the Nov. 11 issue of Science Advances. Haena Lee, Ph.D., from ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-11-childhood-exposure-worse-cognitive-function.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-11-childhood-exposure-worse-cognitive-function.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/childhood-lead-exposur.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-11-childhood-exposure-worse-cognitive-function.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-childhood-exposure-worse-cognitive-function.amp",
-      "publishedDateTime": "2022-11-11T09:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

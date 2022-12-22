@@ -2,6 +2,103 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-09-21-ai-and-ml-have-the-potential-to-revolutionize-how-cmos-conduct-campaigns.md",
+      "title": "AI And ML Have The Potential To Revolutionize How CMOs Conduct Campaigns",
+      "excerpt": "Though people have talked about AI for more than 50 years, only now has it moved from a tech buzzword to part of the common vernacular. Having worked in fintech for the past 10 years, the uptake I’ve witnessed has led me to wholly believe in the immense value these technologies hold for communications professionals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/09/21/ai-and-ml-have-the-potential-to-revolutionize-how-cmos-conduct-campaigns/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/09/21/ai-and-ml-have-the-potential-to-revolutionize-how-cmos-conduct-campaigns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61814ed70e1ae168d212c0bd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/09/21/ai-and-ml-have-the-potential-to-revolutionize-how-cmos-conduct-campaigns/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/09/21/ai-and-ml-have-the-potential-to-revolutionize-how-cmos-conduct-campaigns/amp/",
+      "publishedDateTime": "2022-09-21T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-21-startup-diveplane-wants-to-make-ai-ethical.md",
+      "title": "Startup Diveplane wants to make AI ethical",
+      "excerpt": "In today’s world, artificial intelligence is used to make some big decisions. Colleges rely on it to admit students. Parole boards use it to approve or deny inmate releases. One startup in North Carolina's Research Triangle is striving to make AI systems more ethical,",
+      "sourceUrl": null,
+      "webUrl": "https://www.spokesman.com/stories/2022/sep/21/startup-diveplane-wants-to-make-ai-ethical-we-aske/",
+      "originalUrl": "https://www.spokesman.com/stories/2022/sep/21/startup-diveplane-wants-to-make-ai-ethical-we-aske/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumb.spokesman.com/vSaWPT1MHNhIgFtetEBcC1aVF6E=/480x0/media.spokesman.com/photos/2022/09/21/632b35fb6c360.hires.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.spokesman.com/stories/2022/sep/21/startup-diveplane-wants-to-make-ai-ethical-we-aske/?amp-content=amp",
+      "cdnAmpWebUrl": "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2022/sep/21/startup-diveplane-wants-to-make-ai-ethical-we-aske/?amp-content=amp",
+      "publishedDateTime": "2022-09-21T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Spokesman-Review",
+        "domain": "spokesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-09-21-frontline-systems-releases-rasonr-v2023-platform-with-patent-pending-risk-analysis-for-machine-learning-models.md",
       "title": "Frontline Systems Releases RASON(R) V2023 Platform with Patent-Pending Risk Analysis for Machine Learning Models",
       "excerpt": "V2023 Platform with Patent-Pending Risk Analysis for Machine Learning Models Sep 21, 2022 (PRNewswire via COMTEX) --",
@@ -1287,92 +1384,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-neural-switch-sets-the-brain-up-for-learning-or-remembering.md",
-      "title": "Neural \"Switch\" Sets the Brain Up for Learning or Remembering",
-      "excerpt": "These two functions are controlled by different neural circuits. Using an animal model ... For further information, please contact the cited source. Technology Networks",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/tn/news/neural-switch-sets-the-brain-up-for-learning-or-remembering-365698",
-      "originalUrl": "https://www.technologynetworks.com/tn/news/neural-switch-sets-the-brain-up-for-learning-or-remembering-365698",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/365698/neural-switch-sets-the-brain-up-for-learning-or-remembering-365698-640x360.jpg?cb=20220915",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T01:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-deep-learning-from-a-dynamical-viewpoint.md",
-      "title": "Deep learning from a dynamical viewpoint",
-      "excerpt": "NUS mathematicians have developed a new theoretical framework based on dynamical systems to understand when and how a deep neural network can learn arbitrary relationships. Despite achieving ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-09-deep-dynamical-viewpoint.html",
-      "originalUrl": "https://phys.org/news/2022-09-deep-dynamical-viewpoint.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/deep-learning-from-a-d.jpg",
-          "width": 1155,
-          "height": 522,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-09-deep-dynamical-viewpoint.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-deep-dynamical-viewpoint.amp",
-      "publishedDateTime": "2022-09-14T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

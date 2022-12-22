@@ -19,45 +19,135 @@ topics:
   - AI
 
 related:
-  - title: "Female Founder Of Cybersecurity Startup Builds Better Response To Threats"
-    excerpt: "Finding a security intrusion is only half the problem. The other half is remediating the problem. A startup, founded by a woman, has the solution to both. And funders are interested."
-    publishedDateTime: 2022-12-21T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/geristengel/2022/12/21/female-founder-of-cybersecurity-startup-builds-better-response-to-threats/"
-    ampWebUrl: "https://www.forbes.com/sites/geristengel/2022/12/21/female-founder-of-cybersecurity-startup-builds-better-response-to-threats/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/geristengel/2022/12/21/female-founder-of-cybersecurity-startup-builds-better-response-to-threats/amp/"
+  - title: "Cloud Machine Learning Market 2022 - SWOT Analysis, Business Standards, Value Chain and Sales Channels Analysis 2028"
+    excerpt: "MarketsandResearch.biz has introduced a new report entitled Global Cloud Machine Learning Market Research Report 2022-2028, which encompasses the regional & global industry facts forecasted to acquire profit-making appraisal across the projection period from 2022 to 2028."
+    publishedDateTime: 2022-12-20T08:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-machine-learning-market-2022---swot-analysis-business-standards-value-chain-and-sales-channels-analysis-2028-2022-12-20"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 71
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 80
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63a099cd19ae5f47238ceaa0/0x0.jpg?format=jpg&width=1200"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 960
+        height: 630
         isCached: true
-  - title: "With the help of machine learning, DC’s Security Bulldog wants to build better cyber defense"
-    excerpt: "Jeff Majka created the company in 2021 to help cyber professionals reduce the amount of time spent searching for potential problems with their software."
-    publishedDateTime: 2022-12-19T22:29:00Z
-    webUrl: "https://technical.ly/startups/the-security-bulldog-jeff-majka/"
+  - title: "Artificial Intelligence(AI) in Healthcare Market 2022: Advance Technology and Highlighted Key Development by 2028"
+    excerpt: "According to the MarketsandResearch.biz report Global Artificial Intelligence(AI) in Healthcare Market is anticipated to experience rapid growth between 2022 and 2028. This study covers the key market parameters and growth possibilities."
+    publishedDateTime: 2022-12-20T22:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligenceai-in-healthcare-market-2022-advance-technology-and-highlighted-key-development-by-2028-2022-12-20"
     type: article
     provider:
-      name: Technical
-      domain: technical.ly
-    quality: 45
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 78
     images:
-      - url: "https://technical.ly/wp-content/uploads/2022/12/jeff-scaled-e1671488836852.jpg"
-        width: 750
-        height: 882
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Cybersecurity firm with AWS roots eyes Raleigh office, local hires"
-    excerpt: "But it’s building up satellite locations in both Raleigh and Dallas. In Raleigh, that “satellite location” is Chris King, the firm’s head of product. Long term, the firm expects to have an actual office in Raleigh."
-    publishedDateTime: 2022-12-20T01:00:00Z
-    webUrl: "https://www.bizjournals.com/triangle/inno/stories/news/2022/12/19/cybersecurity-protect-ai-raleigh-office-hiring.html"
+  - title: "Self-contained Breathing Apparatus (SCBA) Market 2022 Driving Factor Analysis with Trend and Forecast to 2028"
+    excerpt: "The analysis begins by scrutinizing the Self-contained Breathing Apparatus (SCBA) market, including descriptions, categories, and a market summary. The report thoroughly examines market dynamics, share and revenue forecasts,"
+    publishedDateTime: 2022-12-20T14:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-contained-breathing-apparatus-scba-market-2022-driving-factor-analysis-with-trend-and-forecast-to-2028-2022-12-20"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Fintech Market Analysis Research Report, Challenges, Scopes, Market Share, Revenue, and Forecasts 2023 to 2028"
+    excerpt: "\" Artificial Intelligence (AI) in Fintech Market \" Insights 2022 - By Applications (Bank, Insurance, Securities and Funds, Third-party Financial Company, Others), By Types (Deep Learning, Machine Learning,"
+    publishedDateTime: 2022-12-18T01:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-analysis-research-report-challenges-scopes-market-share-revenue-and-forecasts-2023-to-2028-2022-12-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Computer Vision Development Market : Industry Analysis 2022 To 2028 based on Sales, Revenue, Size and Share"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Computer"
+    publishedDateTime: 2022-12-20T05:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-development-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-12-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+  - title: "Machine Learning as a Service Market 2022 Key Product Segments, Application Analysis, and Industry Growth Forecast by 2028"
+    excerpt: "The Global Machine Learning as a Service Market Research Report 2022-2028 study report offered by the MarketsandResearch.biz facilitates the end-users to select favorable business-related activities that will guarantee the organization's long-term survival."
+    publishedDateTime: 2022-12-20T08:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-2022-key-product-segments-application-analysis-and-industry-growth-forecast-by-2028-2022-12-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automotive Artificial Intelligence Market 2023 : Company Profile Analysis, Industry Segmentation, Opportunity Assessment and Forecast by 2029"
+    excerpt: "The recent research report published by 360 Research Reports gives an insight into the “ Automotive Artificial Intelligence Market \". According to this published competitive intelligence analysis, this industry expected to experience a promising annual revenue increase (USD in Mn) in 2022."
+    publishedDateTime: 2022-12-19T13:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-2023-company-profile-analysis-industry-segmentation-opportunity-assessment-and-forecast-by-2029-2022-12-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market 2022 : Top Manufacturers, Key Trends, Progression Status and Business Trends to 2028"
+    excerpt: "By Types (3D facial recognition, 2D facial recognition), By Segmentation analysis, Regions and Forecast to 2028. The Global Facial Recognition market Report provides In-depth analysis on the market status of the Facial Recognition Top manufacturers with best facts and figures,"
+    publishedDateTime: 2022-12-20T05:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2022-top-manufacturers-key-trends-progression-status-and-business-trends-to-2028-2022-12-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+  - title: "Chatbots Market 2023 : Business Scenario, Corporate Profiles, Size and Dynamic Innovation by 2028"
+    excerpt: "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Chatbots"
+    publishedDateTime: 2022-12-18T11:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/chatbots-market-2023-business-scenario-corporate-profiles-size-and-dynamic-innovation-by-2028-2022-12-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
+  - title: "Artificial Intelligence Products Market 2022 Key Product Segments, Application Analysis, and Industry Growth Forecast by 2028"
+    excerpt: "The study report provides aid to investors in gaining a better analysis of the Artificial Intelligence Products market along with the driving factors, restraints, opportunities, and challenges. The research report provides information on the definition and segmentation and explains the market's scope along with information on applications and end-users."
+    publishedDateTime: 2022-12-20T22:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-products-market-2022-key-product-segments-application-analysis-and-industry-growth-forecast-by-2028-2022-12-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 20
+  - title: "Artificial Intelligence Chipsets Market Global Industry Analysis by Size, Share, Growth Opportunities, Trends and Forecast 2023 – 2026"
+    excerpt: "Global “Artificial Intelligence Chipsets Market” 2023 Research report is an in-depth study of the market Analysis."
+    publishedDateTime: 2022-12-20T06:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-global-industry-analysis-by-size-share-growth-opportunities-trends-and-forecast-2023-2026-2022-12-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
 
 secured: "XecPKSkfryTHJvf9IQm5KFgAC1L7IL4i7sY10tl1GXswmEvffN0USoV+IHPJ93VZwUmgS6Gld/XXrwHqXeEULSbhsXCMYH5JTNolhWz0E+5zX08ITDxgriflsqFkKxaYgUX7l0lgDiJoezyb1XC3i6hWQMrV9avL4QgfCiGxMTLM5zMb/vh5ckrcaU1FiMcRghEDVtOMaH1OL69cIyZXlIfwXckf5Nnp2P6lsAhy0/VKAzn7lyVzT0UzhNxfJg5bOcv8TFCtDdSuKdBO2vVDRoDSKLlfmEzKRmoYuSnUYhJgDcK9ZiJyGAvX/CGaIyczTOjiX6X1cHp48iUwitwzYbLmETs1LkESO4MLjK2J4/U=;NAFZVQJ/3CHOAZ6S9rvO7w=="
 ---

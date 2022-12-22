@@ -50,7 +50,7 @@ related:
     provider:
       name: Diginomica
       domain: diginomica.com
-    quality: 73
+    quality: 75
     images:
       - url: "https://diginomica.com/sites/default/files/images/2022-12/Screenshot%202022-12-16%20at%2011.33.54.png"
         width: 1536
@@ -110,7 +110,7 @@ related:
     provider:
       name: Seeking Alpha
       domain: seekingalpha.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://static.seekingalpha.com/uploads/2022/12/19/55230498-16714629618030434.png"
         width: 640

@@ -24,17 +24,6 @@ images:
     height: 315
     isCached: true
 
-related:
-  - title: "What Companies Need to Know Before Investing in AI"
-    excerpt: "Different forms of AI can improve performance through prediction; automation of routines; and identification of images, keywords, and patterns in voice and text. However, organizations often struggle with knowing where investments in AI will really pay off."
-    publishedDateTime: 2022-12-19T13:25:00Z
-    webUrl: "https://hbr.org/2022/12/what-companies-need-to-know-before-investing-in-ai"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 17
-
 secured: "+n30UDdp/sUrHLQn7iUrW6HA+dTfo9TjB+oFyzYZhdwvnwO17GK7SnD94YpjEjeSJfN63bbU+DSwwvpWKTZbKIl9OalXRfbu1MNfARH73vd7joe2P+fgfByEbaYw07doA19HAzFT8Ko6wK7spUtYWSYNOB5Zxh2Cx/x+qe5MRczq3tgitjyJEZ9etr1CypjsT6gkZO+7i6P4AAzptptOJJxYdCQvcAKdma6aUxiJVu9HMjK2g6YQjKtC0cfshy0iFLA39jusrDFQr99fTGnWRfMK1qWMZNsPLHqRxmeyxbVCG3Tdq97HBWekPBr1EYiGJ+4rTzW+GUmhhok3Lsb/J+iiCbpSYD3aSGjphrKETq4=;DOT0+T4fGtjUHi82SdKSPA=="
 ---
 
