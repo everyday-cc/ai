@@ -5,8 +5,6 @@ excerpt: "BrainChip's Akida TM, enables low-latency and ultra-low power AI infer
 publishedDateTime: 2022-12-11T22:37:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/12/ac30033830/brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge"
 webUrl: "https://www.benzinga.com/pressreleases/22/12/ac30033830/brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge"
-ampWebUrl: "https://www.benzinga.com/amp/content/30033830"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30033830"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
-    width: 800
-    height: 313
-    isCached: true
-
-secured: "2V39WGxmhGflTgyYQj4x2NULN+EwEAiMRtkribaLrJ4oT5dmKkpGWGlsF4sSL+qt782Cl2KDuTIfxwXN9iOU+CR3AL7PVMGpFeCy8ZEKqdM9eGBEu9CAojKLY69u2Jd75rTzqrArxXufyqT/0E3GjeERLZNZDeTDPJtuyx7Eh7mzGw0HRPt0Aljo7z55bKzVs6vO3XNV0uo3eV3oCd9KP+b70DCRb4p94bzo6fgke00/DrMwSfax0KjFbMeFUA9O62WIdQQsgI5edVKpsV6CTW19pP1wgC+Z5hp+KiheOMULd9+V1dEoKXSa3+Uvx8Rk7l3eSXy55uw0Bkz5QqgBSiI/Jx2enZbcOoLdzTQap34=;xfCGJAMIRPKOIShonemwGg=="
+secured: "mDE3BsC54s41gKOu42/20lauh/3vgoFgl4KqAiBah7LbKXHecD+c7iNWWTflPLHyysARpkXGkJL0AEh3HNNCuB2Q/oT53fO3D0jzEIZkHaKEiD9iBGfCF214L1ghcqr1eo05Pn3/iqmBUEU4/vJL3wPjyPbBEH5vPoCMLaV8J3UxFE2/DPyn/CYacJgR3iwA0s5eFoA5siXkWWYknZuoREzlwNXCKBDbg0Ft21JrXzaJ86sGhmCBOLZWRL2OKn31rtCYc5IFIibR1PC59VLWchZZejJ+jQK0qYK1ViV/eJ1WGkaorQn0W17ooYluT/3+iqIHnz7avHUMYMg4Ky8G6VM29EVaUeTBZlBWeBe1Wd4=;JFoDM1IPpFHdjI9B83/YzA=="
 ---
 
