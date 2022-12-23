@@ -2,6 +2,179 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2022-11-30-research-assistant-or-research-associate-in-computer-vision-and-machine-learning.md",
+      "title": "Research Assistant or Research Associate in Computer Vision and Machine Learning",
+      "excerpt": "Apply(This will open in a new window from which you will be automatically redirected to an external site after 5 seconds)",
+      "sourceUrl": null,
+      "webUrl": "https://www.timeshighereducation.com/unijobs/listing/318923/research-assistant-or-research-associate-in-computer-vision-and-machine-learning/",
+      "originalUrl": "https://www.timeshighereducation.com/unijobs/listing/318923/research-assistant-or-research-associate-in-computer-vision-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.timeshighereducation.com/unijobs/getasset/2fbdfe3e-048e-46ee-b378-abefdc41d627/;w=600;h=315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T08:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times Higher Education",
+        "domain": "timeshighereducation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-does-ethical-ai-development-rely-on-the-algorithmically-underserved-chais-mission.md",
+      "title": "Does Ethical AI Development Rely On The “Algorithmically” Underserved? CHAI’s Mission",
+      "excerpt": "Building this kind of standardization into the relatively black box nature of AI development is among the priorities of The Coalition for Health AI (CHAI), which launched earlier this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sethjoseph/2022/11/29/does-ethical-ai-development-rely-on-the-algorithmically-underserved-chais-mission/",
+      "originalUrl": "https://www.forbes.com/sites/sethjoseph/2022/11/29/does-ethical-ai-development-rely-on-the-algorithmically-underserved-chais-mission/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63863f40e044f56947db977a/0x0.jpg?format=jpg&width=1200",
+          "width": 1188,
+          "height": 1584,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sethjoseph/2022/11/29/does-ethical-ai-development-rely-on-the-algorithmically-underserved-chais-mission/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sethjoseph/2022/11/29/does-ethical-ai-development-rely-on-the-algorithmically-underserved-chais-mission/amp/",
+      "publishedDateTime": "2022-11-29T08:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-uromems-begins-first-in-human-study-of-smart-implant-for-treating-stress-urinary-incontinence.md",
+      "title": "UroMems begins first-in-human study of smart implant for treating stress urinary incontinence",
+      "excerpt": "UroMems announced today that it completed the first-in-human implant of its UroActive system for treating stress urinary incontinence (SUI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.massdevice.com/uromems-first-human-study-smart-implant-sui/",
+      "originalUrl": "https://www.massdevice.com/uromems-first-human-study-smart-implant-sui/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T08:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MassDevice",
+        "domain": "massdevice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-30-anyscale-unveils-new-tool-for-building-and-scaling-ai-and-ml-development.md",
+      "title": "Anyscale unveils new tool for building and scaling AI and ML development",
+      "excerpt": "Anyscale Workspaces, available today in early preview, provides users with a cloud-managed developer environment for building and scaling AI in a repeatable approach.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/anyscale-unveils-new-tool-for-building-and-scaling-ai-and-ml-development/",
+      "originalUrl": "https://venturebeat.com/ai/anyscale-unveils-new-tool-for-building-and-scaling-ai-and-ml-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/anyscale-unveils-new-tool-for-building-and-scaling-ai-and-ml-development/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/anyscale-unveils-new-tool-for-building-and-scaling-ai-and-ml-development/amp/",
+      "publishedDateTime": "2022-11-29T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-11-29-artificial-neural-network-ann-market-is-booming-worldwide-neurala-ward-systems-group-clarifai-ibm.md",
       "title": "Artificial Neural Network (ANN) Market Is Booming Worldwide – NEURALA, Ward Systems Group, Clarifai, IBM",
       "excerpt": "The Artificial Neural Network (ANN) Market research report provides all the information related to the industry. It gives the markets outlook by giving authentic data to its client which helps to ...",
@@ -917,186 +1090,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-baidu-announces-plan-to-build-the-worlds-largest-fully-driverless-ride-hailing-service-area-in-2023.md",
-      "title": "Baidu Announces Plan to Build the World's Largest Fully Driverless Ride-Hailing Service Area in 2023",
-      "excerpt": "Baidu plans to establish the world's largest fully driverless ride-hailing service area in 2023Baidu continues to show growth momentum as the",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/baidu-announces-plan-to-build-the-world-s-largest-fully-driverless-ride-hailing-service-area-in-2023-1031941173",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/baidu-announces-plan-to-build-the-world-s-largest-fully-driverless-ride-hailing-service-area-in-2023-1031941173",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T23:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-how-can-artificial-intelligence-transform-the-entertainment-industry.md",
-      "title": "How can artificial intelligence transform the entertainment industry?",
-      "excerpt": "How could artificial intelligence be used to automate tasks or processes in the entertainment industry? There are a number of ways Artificial Intelligence could be used to automat",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/special-content/how-can-artificial-intelligence-transform-the-entertainment-industry-723616",
-      "originalUrl": "https://www.jpost.com/special-content/how-can-artificial-intelligence-transform-the-entertainment-industry-723616",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/520272",
-          "width": 640,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.jpost.com/special-content/how-can-artificial-intelligence-transform-the-entertainment-industry-723616/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/special-content/how-can-artificial-intelligence-transform-the-entertainment-industry-723616/amp",
-      "publishedDateTime": "2022-11-28T22:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-acufi-founder-nicholas-kohlschreiber-examines-the-future-of-fintech-with-ai.md",
-      "title": "AcuFi Founder, Nicholas Kohlschreiber, Examines the Future of FinTech with AI",
-      "excerpt": "For the fintech sector, concerns in the security of both user and company data can be addressed by AI. More than ever, the modern age will come with a new variety of bad actors-hackers, viruses, and vulnerabilities waiting to be exploited.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/273135322/acufi-founder-nicholas-kohlschreiber-examines-the-future-of-fintech-with-ai",
-      "originalUrl": "https://www.bignewsnetwork.com/news/273135322/acufi-founder-nicholas-kohlschreiber-examines-the-future-of-fintech-with-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/cus1670210247174.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T18:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-29-aws-unveils-new-ai-service-features-and-enhancements-at-reinvent-2022.md",
-      "title": "AWS Unveils New AI Service Features and Enhancements at re:Invent 2022",
-      "excerpt": "Over the last 5 years, artificial intelligence (AI) and machine learning (ML) have evolved from a niche activity to a rapidly growing mainstream endeavor. Today, more than 100,000 customers across numerous industries rely on AWS for ML and AI initiatives that infuse AI into a broad range of business",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-unveils-new-ai-service-features-and-enhancements-at-reinvent-2022/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-unveils-new-ai-service-features-and-enhancements-at-reinvent-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/29/AWS-Unveils-New-Features-reInvent-2022.jpg",
-          "width": 2365,
-          "height": 1178,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-28T18:25:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

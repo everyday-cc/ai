@@ -2,6 +2,151 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-12-09-is-chatgpt-the-start-of-the-ai-revolution.md",
+      "title": "Is ChatGPT the Start of the AI Revolution?",
+      "excerpt": "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skillset. On",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/is-chatgpt-the-start-of-the-ai-revolution/2022/12/09/9eb9dfec-77b5-11ed-a199-927b334b939f_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/is-chatgpt-the-start-of-the-ai-revolution/2022/12/09/9eb9dfec-77b5-11ed-a199-927b334b939f_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TYKMLGDXWUI63IMZSJ5TGS4TT4.jpg&w=1440",
+          "width": 1440,
+          "height": 963,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T04:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "The market for artificial intelligence (AI ... but its dominance of a bedrock technology for driverless cars justifies that premium-- and makes it a great AI stock to buy. Micron's business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/12/09/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "originalUrl": "https://www.fool.com/investing/2022/12/09/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/712259/digital-brain.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T03:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-four-steps-for-building-an-ai-center-of-excellence.md",
+      "title": "Four Steps For Building An AI Center Of Excellence",
+      "excerpt": "The road to digital transformation is long and complex—but a solid AI program is a step in the right direction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/09/four-steps-for-building-an-ai-center-of-excellence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/09/four-steps-for-building-an-ai-center-of-excellence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/611197e7a1fc8d3b4e5a536a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/09/four-steps-for-building-an-ai-center-of-excellence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/09/four-steps-for-building-an-ai-center-of-excellence/amp/",
+      "publishedDateTime": "2022-12-09T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-09-nvidia-rtx-4070-gpu-seemingly-borrows-specs-from-rtx-3070.md",
       "title": "Nvidia RTX 4070 GPU seemingly borrows specs from RTX 3070",
       "excerpt": "While the GPU will likely roll into town with a beefier Lovelace sibling, the SKU might also boast the same VRAM configuration as the upcoming RTX 4070 Ti. Nvidia’s next-gen plans are ever ...",
@@ -181,6 +326,49 @@
         "Facebook AI",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-fords-latest-democratic-farce-federal-cognitive-dissonance-on-foreign-policy.md",
+      "title": "Ford’s latest democratic farce; federal cognitive dissonance on foreign policy",
+      "excerpt": "What I wonder is if Prime Minister Justin Trudeau feels a certain cognitive dissonance on policies like this. Due to his dad, Pierre, having been PM, he carries baggage and knowledge (same thing in his case) that no one else in his government does.",
+      "sourceUrl": null,
+      "webUrl": "https://rabble.ca/columnists/fords-latest-democratic-farce-federal-cognitive-dissonance-on-foreign-policy/",
+      "originalUrl": "https://rabble.ca/columnists/fords-latest-democratic-farce-federal-cognitive-dissonance-on-foreign-policy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://rabble.ca/wp-content/uploads/2022/12/Ford-Tory.jpg",
+          "width": 2048,
+          "height": 1495,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T02:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "rabble",
+        "domain": "rabble.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -928,194 +1116,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-deepminds-latest-ai-project-solves-programming-challenges-like-a-newb.md",
-      "title": "DeepMind’s latest AI project solves programming challenges like a newb",
-      "excerpt": "Google's DeepMind AI division has tackled everything from StarCraft to protein folding. So it's probably no surprise that its creators have eventually turned to what is undoubtedly a personal ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2022/12/deepminds-latest-ai-project-solves-programming-challenges-like-a-newb/",
-      "originalUrl": "https://arstechnica.com/science/2022/12/deepminds-latest-ai-project-solves-programming-challenges-like-a-newb/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-08T13:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-how-to-send-your-face-back-in-time-with-myheritages-ai-time-machine.md",
-      "title": "How to Send Your Face Back in Time With MyHeritage's 'AI Time Machine'",
-      "excerpt": "It's introduced other intriguing features including Deep Nostalgia, which animates pictures of people to make it look like they're moving, and LiveStory, which takes that a step further and animates a person's face and mouth so it looks like they're telling their life story.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/culture/internet/how-to-send-your-face-back-in-time-with-myheritages-ai-time-machine/",
-      "originalUrl": "https://www.cnet.com/culture/internet/how-to-send-your-face-back-in-time-with-myheritages-ai-time-machine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/2ad5b78d37feb2659b458818b35723610c99cbb5/hub/2022/12/01/325e1577-8baf-4e71-800d-544c302a1674/screen-shot-2022-12-01-at-1-06-14-pm.png?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/how-to-send-your-face-back-in-time-with-myheritages-ai-time-machine/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-to-send-your-face-back-in-time-with-myheritages-ai-time-machine/",
-      "publishedDateTime": "2022-12-08T13:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-pixyle-ai-wants-to-make-visual-search-more-intuitive-for-online-retailers.md",
-      "title": "Pixyle AI wants to make visual search more intuitive for online retailers",
-      "excerpt": "When Svetlana Kordumova was studying for her doctorate in AI and computer vision, she grew frustrated by the process of looking for items to buy online. Search results were often inaccurate, and she knew the tech she was learning could improve the experience.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/07/pixyle-ai/",
-      "originalUrl": "https://techcrunch.com/2022/12/07/pixyle-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/Pixyle-AI-product-data-enrichment.png?resize=1200,685",
-          "width": 1200,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/07/pixyle-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/07/pixyle-ai/amp/",
-      "publishedDateTime": "2022-12-08T12:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-brain-plasticity-study-oxytocin-drives-development-of-neural-connections-in-adult-born-neurons.md",
-      "title": "Brain plasticity study: Oxytocin drives development of neural connections in adult-born neurons",
-      "excerpt": "The researchers discovered that the levels of oxytocin increase in the olfactory bulb, peaking at the time the new neurons incorporate themselves into neural networks. Using viral labeling ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-12-brain-plasticity-oxytocin-neural-adult-born.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-12-brain-plasticity-oxytocin-neural-adult-born.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/4-brain.jpg",
-          "width": 1920,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-12-brain-plasticity-oxytocin-neural-adult-born.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-brain-plasticity-oxytocin-neural-adult-born.amp",
-      "publishedDateTime": "2022-12-08T12:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

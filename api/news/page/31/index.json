@@ -2,6 +2,198 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2022-11-28-teslas-full-self-driving-beta-available-to-anyone-that-pays-in-north-america.md",
+      "title": "Tesla's Full Self-Driving Beta Available to Anyone That Pays in North America",
+      "excerpt": "The software is available to everyone in North America, Tesla’s CEO Elon Musk announced this week. Tesla Inc’s Full Self-Driving Beta software is available to everyone in North America, Tesla’s CEO Elon Musk announced this week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/teslas-full-self-driving-beta-available-to-anyone-that-pays-in-north-america",
+      "originalUrl": "https://www.pcmag.com/news/teslas-full-self-driving-beta-available-to-anyone-that-pays-in-north-america",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/02OshWCfdI1EhLBcurR6BqR-1.fit_lim.size_1200x630.v1669587586.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-27T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-28-non-snapdragon-devices-at-risk-from-gpu-exploits-that-have-already-been-patched.md",
+      "title": "Non-Snapdragon devices at risk from GPU exploits that have already been patched",
+      "excerpt": "That said, if your phone's using a Mali GPU, you might want to take extra care for the next while as plugs for some recently-disclosed security holes are still making their way across devices..",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidpolice.com/exploit-patch-gap-arm-mali-gpu-driver-project-zero-google/",
+      "originalUrl": "https://www.androidpolice.com/exploit-patch-gap-arm-mali-gpu-driver-project-zero-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/11/arm-ap-hero.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-27T12:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Police",
+        "domain": "androidpolice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-28-using-an-ai-powered-retina-scan-to-detect-kidney-disease.md",
+      "title": "Using An AI-Powered Retina Scan To Detect Kidney Disease",
+      "excerpt": "A South Korean startup, Mediwhale, wants to use artificial intelligence (AI) to diagnose kidney disease through a non-invasive retina scan. Kevin T. Choi, Co-founder and CEO of Mediwhale says the retina is the only organ where blood vessels are directly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2022/11/27/using-an-ai-powered-retina-scan-to-detect-kidney-disease/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2022/11/27/using-an-ai-powered-retina-scan-to-detect-kidney-disease/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6383a854488fd33f44459796/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2022/11/27/using-an-ai-powered-retina-scan-to-detect-kidney-disease/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2022/11/27/using-an-ai-powered-retina-scan-to-detect-kidney-disease/amp/",
+      "publishedDateTime": "2022-11-27T10:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-28-tsa-faces-ethical-limits-on-ai-but-advancement-work-must-persist.md",
+      "title": "TSA faces ethical limits on AI, but advancement work must persist",
+      "excerpt": "The potential competitive advantage offered by AI is enormous. Yet transitions from the research lab to practice will remain choppy and uncertain, which will help ensure that progress is measured, methodical and slow.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stripes.com/opinion/2022-11-27/tsa-artificial-intelligence-8207585.html",
+      "originalUrl": "https://www.stripes.com/opinion/2022-11-27/tsa-artificial-intelligence-8207585.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.stripes.com/incoming/iqzdwc-oped-tsa-artificial-intelligence-commentary-get.jpg/alternates/LANDSCAPE_480/OPED-TSA-ARTIFICIAL-INTELLIGENCE-COMMENTARY-GET.jpg",
+          "width": 480,
+          "height": 299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-27T09:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stars and Stripes",
+        "domain": "stripes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-11-28-creating-more-explainable-artificial-intelligence-could-enhance-human-work-and-creativity.md",
       "title": "Creating more explainable artificial intelligence could enhance human work and creativity",
       "excerpt": "Rudzicz’s work will develop processes that will improve artificial neural networks to increase computer understanding of human language, and Kuzminykh’s research seeks to better understand how humans perceive and interact with conversational agents like chatbots and virtual assistants.",
@@ -957,169 +1149,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-26-new-study-on-deep-learning-technology-for-improving-mri-image-quality-published-in-european-radiology.md",
-      "title": "New study on deep learning technology for improving MRI image quality published in European Radiology",
-      "excerpt": "A recent study published in European Radiology demonstrated that SwiftMR, an AI-powered MRI reconstruction solution from AIRS Medical, successfully denoises 3D MR images and improves its image quality by using routine clinical scans only.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-new-study-deep-learning-technology-improving-mri-image-/2022/11/25/9719669.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-new-study-deep-learning-technology-improving-mri-image-/2022/11/25/9719669.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-25T08:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-25-optimize-hyperparameters-with-amazon-sagemaker-automatic-model-tuning.md",
-      "title": "Optimize hyperparameters with Amazon SageMaker Automatic Model Tuning",
-      "excerpt": "Machine learning (ML) models are taking the world by storm. Their performance relies on using the right training data and choosing the right model and algorithm. But it doesn’t end here. Typically, algorithms defer some design decisions to the ML practitioner to adopt for their specific data and task.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-hyperparameters-with-amazon-sagemaker-automatic-model-tuning/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-hyperparameters-with-amazon-sagemaker-automatic-model-tuning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/25/optimize-hyperparameters-sagemaker.jpg",
-          "width": 1556,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-25T08:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-26-shark-prime-day-deal-save-250-off-av2501ae-robot-vacuum-with-xl-hepa-self-empty-base.md",
-      "title": "Shark Prime Day Deal: Save $250 Off AV2501AE Robot Vacuum with XL HEPA Self-Empty Base",
-      "excerpt": "Several Shark robot vacuum cleaners empty themselves. Here’s everything you need to know if you’re trying to figure out which vacuum cleaner is right for you. We’ll start with the AI robot ...",
-      "sourceUrl": null,
-      "webUrl": "https://heavy.com/deals/shark-ai-robot-vacuum-prime-day-deal/",
-      "originalUrl": "https://heavy.com/deals/shark-ai-robot-vacuum-prime-day-deal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://heavy.com/wp-content/uploads/2021/11/Shark-AV2501AE-AI-Robot-Vacuum-with-XL-HEPA-Self-Empty-Base.jpg?quality=65&strip=all&w=780",
-          "width": 780,
-          "height": 439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://heavy.com/deals/shark-ai-robot-vacuum-prime-day-deal/amp/",
-      "cdnAmpWebUrl": "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/deals/shark-ai-robot-vacuum-prime-day-deal/amp/",
-      "publishedDateTime": "2022-11-25T08:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Heavy.com",
-        "domain": "heavy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-25-asia-pacific-fintech-as-a-service-market-report-2022-ai-enabled-safety-solutions-a-key-sector-development-researchandmarketscom.md",
-      "title": "Asia Pacific Fintech-as-a-Service Market Report 2022: AI-Enabled Safety Solutions a Key Sector Development - ResearchAndMarkets.com",
-      "excerpt": "The Asia Pacific Fintech-as-a-Service Market is expected to witness market growth of 17.4% CAGR during the forecast period (2022-2028). The debut of ARDEN in May 2022 was announced by Brightwell Payments,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/11/25/9719654.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/11/25/9719654.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-25T07:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

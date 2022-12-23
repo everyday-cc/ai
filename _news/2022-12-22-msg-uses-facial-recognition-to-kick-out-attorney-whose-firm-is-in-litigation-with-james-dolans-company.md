@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Madison Square Garden Uses Facial Recognition to Ban Its Owner’s Enemies"
+    excerpt: "MSG Entertainment, the owner of the arena and Radio City Music Hall, has put lawyers who represent people suing it on an “exclusion list” to keep them out of concerts and sporting events."
+    publishedDateTime: 2022-12-22T23:39:00Z
+    webUrl: "https://www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.html"
+    ampWebUrl: "https://www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.amp.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 88
+    images:
+      - url: "https://static01.nyt.com/images/2022/12/22/multimedia/00dolan-cam-2-5b5e/00dolan-cam-2-5b5e-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Girl Scout mom kicked out of Radio City and barred from seeing Rockettes after facial recognition tech identified her"
     excerpt: "The mom and lawyers like her who work for firms that are suing Radio City's parent company, MSG Entertainment, are barred from setting foot in its venues while litigation is ongoing."
     publishedDateTime: 2022-12-22T01:22:00Z
@@ -55,36 +71,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "MSG Allegedly Used Facial Recognition to Remove Rival Attorney From Rockettes Show"
-    excerpt: "A privacy expert told Gizmodo this was one of the first instances of a private firm using facial recognition to retaliate against an opposing lawyer."
-    publishedDateTime: 2022-12-21T18:16:00Z
-    webUrl: "https://gizmodo.com/mgs-facial-recognition-msg-rockettes-show-1849919528"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 63
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ed4e62703fb59872a94cd9d96d70476a.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Mom Kicked Out of Rockettes at Radio City Due to Facial Recognition"
-    excerpt: "She said security guards told her she was picked up by the venue’s “recognition,” referring to facial recognition software."
-    publishedDateTime: 2022-12-20T19:39:00Z
-    webUrl: "https://nowthisnews.com/news/mom-kicked-out-of-rockettes-at-radio-city-due-to-facial-recognition"
-    ampWebUrl: "https://nowthisnews.com/amphtml/news/mom-kicked-out-of-rockettes-at-radio-city-due-to-facial-recognition"
-    cdnAmpWebUrl: "https://nowthisnews-com.cdn.ampproject.org/c/s/nowthisnews.com/amphtml/news/mom-kicked-out-of-rockettes-at-radio-city-due-to-facial-recognition"
-    type: article
-    provider:
-      name: NowThis News
-      domain: nowthisnews.com
-    quality: 59
-    images:
-      - url: "https://assets3.thrillist.com/v1/image/3129837/828x610/flatten;crop;webp=auto;jpeg_quality=60.jpg"
-        width: 828
-        height: 610
-        isCached: true
   - title: "MSG Policy Uses Facial Recognition To Boot Girl Scout Mom From Rockettes Show"
     excerpt: "A Girl Scout mom was barred from entering a Rockettes show at Radio City Music Hall in New York City after being identified by facial recognition software. Kelly Conlon, who was traveling with her daughter's Girl Scout troop,"
     publishedDateTime: 2022-12-21T21:43:00Z
@@ -101,84 +87,50 @@ related:
         width: 2500
         height: 1636
         isCached: true
-  - title: "Facial recognition bars lawyer from Girl Scout trip to Rockettes Christmas show"
-    excerpt: "Kelly Conlon was blocked because her New York firm is involved in a personal injury claim against operator of Radio City Music Hall"
-    publishedDateTime: 2022-12-21T14:14:00Z
-    webUrl: "https://www.theguardian.com/us-news/2022/dec/21/facial-recognition-bars-lawyer-rockettes-show"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2022/dec/21/facial-recognition-bars-lawyer-rockettes-show"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2022/dec/21/facial-recognition-bars-lawyer-rockettes-show"
+  - title: "US Airports to use facial recognition technology"
+    excerpt: "There’s a good chance that many people traveling for the holidays through some of the nation’s busiest airports will have their faces scanned."
+    publishedDateTime: 2022-12-19T15:42:00Z
+    webUrl: "https://kyma.com/news/national-world/2022/12/19/us-airports-to-use-facial-recognition-technology/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
+      name: KYMA
+      domain: kyma.com
+    quality: 54
     images:
-      - url: "https://i.guim.co.uk/img/media/f13351e3b34cd07127cb1d600515f3099ef1dcce/0_224_5561_3337/master/5561.jpg?width=620&quality=85&auto=format&fit=max&s=eb364069bcbcad2f4df2fcec6c3a065c"
-        width: 620
-        height: 372
+      - url: "https://kyma.b-cdn.net/2022/12/MGN_1280x960_00614B00-AHZFO.jpg"
+        width: 1280
+        height: 960
         isCached: true
-  - title: "MSG defends using facial recognition to kick lawyer out of Rockettes show"
-    excerpt: "When Kelly Conlon joined her daughter’s Girl Scout troop for a fun outing to see the Rockettes perform their Christmas Spectacular show at Radio City Music Hall in New York, she had no idea she’d end up booted from the show the moment she stepped into the building."
-    publishedDateTime: 2022-12-20T20:13:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2022/12/facial-recognition-flags-girl-scout-mom-as-security-risk-at-rockettes-show/"
+  - title: "Portman introduces two bills on facial recognition, AI in government"
+    excerpt: "The fate of the bills in a lame duck session of Congress is uncertain, but a Portman aide says the outgoing senator wants to be active on the subjects even after retiring."
+    publishedDateTime: 2022-12-22T20:09:00Z
+    webUrl: "https://fcw.com/congress/2022/12/portman-introduces-two-bills-facial-recognition-ai-government/381265/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 48
-  - title: "Mom Booted From Christmas Show Due To Facial Recognition"
-    excerpt: "Digital rights advocates on Tuesday called for a ban on private use of biometric surveillance technology after a mom taking her daughter to see a Christmas show in New York City was kicked out of the theater after its facial recognition system identified her as an employee of a law firm involved in legal proceedings against the venue's operator."
-    publishedDateTime: 2022-12-21T15:48:00Z
-    webUrl: "https://crooksandliars.com/2022/12/mom-booted-christmas-show-due-facial"
-    type: article
-    provider:
-      name: Crooks and Liars
-      domain: crooksandliars.com
-    quality: 39
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 54
     images:
-      - url: "https://crooksandliars.com/files/embeds/2022/12/53434.jpg"
-        width: 425
-        height: 318
+      - url: "https://cdn.fcw.com/media/img/cd/2022/12/22/122222_Getty_FCW_PortmanFacialAIBills/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Why a Facial Recognition Device Barred This Woman From a Rockettes Show"
-    excerpt: "Kelly Conlon's bizarre experience gives a glimpse into a future with omnipresent facial recognition systems. Last month, Kelly Conlon arrived with her daughter's Girl Scout troop to watch a Rockettes performance at Radio City Music Hall,"
-    publishedDateTime: 2022-12-21T17:46:00Z
-    webUrl: "https://reason.com/2022/12/21/why-a-facial-recognition-device-barred-this-woman-from-a-rockettes-show/"
+  - title: "Facial recognition software leads to mom being kicked out of Radio City Music Hall over her employer"
+    excerpt: "A mom chaperoning Girl Scouts to see a Christmas event at Radio Music Hall last month was kicked out after facial recognition software identified her as an employee of a New Jersey law firm battling the venue’s owner."
+    publishedDateTime: 2022-12-22T23:38:00Z
+    webUrl: "https://www.washingtontimes.com/news/2022/dec/22/kelly-conlon-girl-scout-mom-kicked-out-radio-city-/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2022/dec/22/kelly-conlon-girl-scout-mom-kicked-out-radio-city-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/dec/22/kelly-conlon-girl-scout-mom-kicked-out-radio-city-/"
     type: article
     provider:
-      name: Reason
-      domain: reason.com
-    quality: 39
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 44
     images:
-      - url: "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2022/12/zumaglobaleleven995570-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/12/17/virus_outbreak_new_york_22278_c0-0-7532-4393_s1200x700.jpg?79d07c23ec0581095cf5b016f75cfc0a00e19a20"
+        width: 1200
+        height: 700
         isCached: true
-  - title: "James Dolan’s facial ID tech snags another lawyer who says he was booted from Knicks game"
-    excerpt: "A Long Island attorney was kicked out of a Knicks game after getting flagged by facial recognition technology at Madison Square Garden — the same system the company used to boot another lawyer"
-    publishedDateTime: 2022-12-21T23:30:00Z
-    webUrl: "https://nypost.com/2022/12/21/lawyer-flagged-by-msg-facial-recognition-removed-from-knicks-game/"
-    ampWebUrl: "https://nypost.com/2022/12/21/lawyer-flagged-by-msg-facial-recognition-removed-from-knicks-game/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/12/21/lawyer-flagged-by-msg-facial-recognition-removed-from-knicks-game/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 35
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/12/msg-1.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Facial scanners flag mom for ejection at Rockettes performance"
-    excerpt: "A mother removed from a Rockettes performance after being flagged by facial recognition scanners is taking legal action. WNBC's Sarah Wallace reports."
-    publishedDateTime: 2022-12-20T20:05:00Z
-    webUrl: "https://www.nbcnews.com/video/facial-scanners-flag-mom-for-ejection-at-rockettes-performance-158248005592"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 34
   - title: "MSG Facial-Recognition Tech Gets Lawyer Kicked Out of Radio City Show"
     excerpt: "The woman was reportedly separated from her daughter and escorted out of the venue because the tech identified her as working for a law firm in litigation with MSG Entertainment."
     publishedDateTime: 2022-12-21T13:04:00Z
@@ -188,19 +140,33 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 34
-  - title: "Calls for US Facial Recognition Ban Grow After Mom Booted From Theater Over Her Job"
-    excerpt: "\"This is exactly why we need an outright ban on all use of facial recognition surveillance in places of public accommodation,\" says Fight for the Future's Evan Greer after a mom was kicked out of Radio City Music Hall because she works at a disfavored law firm."
-    publishedDateTime: 2022-12-20T23:21:00Z
-    webUrl: "https://www.commondreams.org/news/2022/12/20/calls-us-facial-recognition-ban-grow-after-mom-booted-theater-over-her-job"
+  - title: "Madison Square Garden Using Facial Recognition Technology To Kick Out Legal Adversaries"
+    excerpt: "In recent months, Madison Square Garden and its affiliated venues have used facial recognition technology to remove multiple lawyers from the premises because they’re employed by firms in active litigation against MSG."
+    publishedDateTime: 2022-12-21T21:03:00Z
+    webUrl: "https://www.stereogum.com/2209007/madison-square-garden-using-facial-recognition-technology-to-kick-out-legal-adversaries/news/"
     type: article
     provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 33
+      name: Stereogum
+      domain: stereogum.com
+    quality: 31
     images:
-      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2022-12/Radio-City-Christmas-Flickr_1.jpg?h=38a1a08a&itok=-ph6yQ0w"
-        width: 1200
-        height: 630
+      - url: "https://static.stereogum.com/uploads/2022/12/GettyImages-1447005870-1671656449-scaled.jpg"
+        width: 2560
+        height: 1790
+        isCached: true
+  - title: "Facial-Recognition Tech Gets Lawyer Booted From Radio City Music Hall"
+    excerpt: "Kelly Conlon says she purchased tickets for her and her daughter to see the Radio City Music Hall Christmas show as part of a Girl Scout outing. Upon entering, Conlon says she heard an announcement over the PA system describing her physical appearance."
+    publishedDateTime: 2022-12-21T20:36:00Z
+    webUrl: "https://www.extremetech.com/extreme/341741-facial-recognition-tech-gets-lawyer-booted-from-radio-city-music-hall"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 24
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2018/10/598521-facial-recognition-640x360.jpg"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "kqibhBsTE2xWojrY1HIivwhbDBZD25UYoLW4vsEXTpNJxGEDd+zFtpGrRJv4zienCsnBMvkrvff8FD3JW/lJ7GKS6OqKh0bahmF9c60mi60mZn2TLQIU9EbijnpjS2lFnswWyibJ8zMOADccALY180QqpHnHIvrNEJtbGfzRSKi4Os/dWWnaJE2yAzoPY/QHXL1DldRmS8Eko+jA4DlVUTlA5tdzbIX9np0e+dsJSXlleNYKNglLgutkYzF4fAV1k2fv87OclZsVtTKfDIiiWiWgFR2syce+U31eNwjTBtRrEdsK4V06wOXhpNMF2gZYs8vIa81DuDxSd/LIfbfiTN3URaq76ntmaY7d0yvSoY0C0OORnugnI9Trn+n5yTVcilR471uAJRI7OvEWIt7mwIx00m22OpN5NA7bTXG5LnX8SIPy+f+FDYFQiNNXWd8I6k3j9Z8EV7u3yCQxX74To8KUwAGu0G++x03rJuEB6h1XGHHaMCKcCO0NImoJ1Jo6V4piNvmA7MyUbGkG9e3CjQ==;RvYNvDl6p5ZnIOrC/FyM3Q=="

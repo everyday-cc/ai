@@ -1,0 +1,31 @@
+---
+category: news
+title: "Karnataka's new startup policy to offer Rs 100 crore fund"
+excerpt: "The policy aims for 50 new-age innovation networks (NAIN) in technology institutions of higher learning outside Bengaluru Urban district."
+publishedDateTime: 2022-12-23T00:37:00Z
+originalUrl: "https://www.newindianexpress.com/states/karnataka/2022/dec/23/karnatakas-new-startup-policy-to-offer-rs-100-crore-fund-2530842.html"
+webUrl: "https://www.newindianexpress.com/states/karnataka/2022/dec/23/karnatakas-new-startup-policy-to-offer-rs-100-crore-fund-2530842.html"
+ampWebUrl: "https://www.newindianexpress.com/states/karnataka/2022/dec/23/karnatakas-new-startup-policy-to-offer-rs-100-crore-fund-2530842.amp"
+cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/karnataka/2022/dec/23/karnatakas-new-startup-policy-to-offer-rs-100-crore-fund-2530842.amp"
+type: article
+quality: 44
+heat: 44
+published: false
+
+provider:
+  name: The New Indian Express
+  domain: newindianexpress.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/10/14/w600X390/Startups_Express_Illustrations.jpg"
+    width: 600
+    height: 390
+    isCached: true
+
+secured: "iYNhNBJYYjWv8shI3bQTfO+hXkpiJTFSyaMVBeg0lR2BD3m0wF6ZpewJSPtH/h1zI8JejPZ9nEXWDr+L+7Wv5ze99OKmeY8Rd0Gtz9QIa7CRQHinIJfPdgtQ17Lpvpui0IqaeHqqlowtRAidP1c9VWNci8VZOuxPFAlePd0fOAphV0Iqj+4z4MHNF7d0uxeRbyBzTBGkyv2fZlPRo2yO4cMMIWYkgRY1mI9cSDzoBmIjTJQkBQA099Fb0tuZPewm8b+NeN7azp9bSYLX1T9hOyMhw/D9+QRv3OsQgj/0mm28jVZTF+y4HQSVJ4gwoEBweQJSqolUeyVZJFEY21jxNvVuwT7RWhvHfwMwN1Slv18=;OMNSlayAyae7ZLKjbS8dAA=="
+---
+

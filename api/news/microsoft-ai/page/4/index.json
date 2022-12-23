@@ -2,6 +2,102 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-22-connection-between-gut-and-stroke-induced-cognitive-impairment-research.md",
+      "title": "Connection between gut and stroke-induced cognitive impairment: Research",
+      "excerpt": "The American Heart Association revealed that stroke patients are more likely to experience depression, which has a detrimental effect on functional and cognitive restoration. The Texas A&M team ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/lifestyle/health/connection-between-gut-and-stroke-induced-cognitive-impairment-research-101669090354820.html",
+      "originalUrl": "https://www.hindustantimes.com/lifestyle/health/connection-between-gut-and-stroke-induced-cognitive-impairment-research-101669090354820.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/11/22/1600x900/intelligence-g5b7c9b1ab_1920_1667638104502_1669090429688_1669090429688.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/lifestyle/health/connection-between-gut-and-stroke-induced-cognitive-impairment-research-101669090354820-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/health/connection-between-gut-and-stroke-induced-cognitive-impairment-research-101669090354820-amp.html",
+      "publishedDateTime": "2022-11-22T01:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-22-sequoia-indias-surge-backs-health-tech-startup-redbrick-ai-in-46m-funding.md",
+      "title": "Sequoia India’s Surge backs health tech startup RedBrick AI in $4.6M funding",
+      "excerpt": "Health tech startup RedBrick AI has raised $4.6 million in a funding round led by Sequoia India and Southeast Asia’s Surge as it plans to expand the market for its medical imagery annotations ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/11/22/redbrick-ai-sequoia-surge-funding/",
+      "originalUrl": "https://techcrunch.com/2022/11/22/redbrick-ai-sequoia-surge-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/medical-imagery-examine-pexels.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/11/22/redbrick-ai-sequoia-surge-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/22/redbrick-ai-sequoia-surge-funding/amp/",
+      "publishedDateTime": "2022-11-21T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-11-22-stroke-patients-with-delirium-could-be-more-prone-to-developing-cognitive-and-psychiatric-difficulties.md",
       "title": "Stroke patients with delirium could be more prone to developing cognitive and psychiatric difficulties",
       "excerpt": "Stroke patients who experience delirium during a stroke could be more prone to developing cognitive and psychiatric difficulties. Every year approximately 9000 people are admitted to hospital with ...",
@@ -1279,94 +1375,6 @@
         "Machine Learning",
         "Microsoft AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-making-data-available-on-demand-for-ai-and-ml-workloads-weka-lands-135m.md",
-      "title": "Making data available on demand for AI and ML workloads, Weka lands $135M",
-      "excerpt": "The company has partnered with leading cloud providers, including AWS, Azure, GCP and Oracle ... s first multi-cloud data platform for next-generation workloads like AI, ML and HPC,” he said. By 2026, large enterprises will triple their unstructured ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/making-data-available-on-demand-for-ai-and-ml-workloads-weka-lands-135m/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/making-data-available-on-demand-for-ai-and-ml-workloads-weka-lands-135m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1124400900.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/data-infrastructure/making-data-available-on-demand-for-ai-and-ml-workloads-weka-lands-135m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/making-data-available-on-demand-for-ai-and-ml-workloads-weka-lands-135m/amp/",
-      "publishedDateTime": "2022-11-15T09:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-11-15-gotransverse-offers-premier-data-access-for-enhanced-billing-data-insights.md",
-      "title": "Gotransverse Offers Premier Data Access for Enhanced Billing Data Insights",
-      "excerpt": "Gotransverse Premier Data Access provides direct access to billing data and allows customers to export data to business applications from the Gotransverse Snowflake data repository. Premier Data Access,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/11/15/9713406.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/11/15/9713406.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-15T05:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

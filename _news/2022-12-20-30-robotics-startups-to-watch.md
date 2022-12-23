@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/enterprise-apps/robotics-startups/"
 webUrl: "https://www.eweek.com/enterprise-apps/robotics-startups/"
 type: article
 quality: 84
-heat: 86
+heat: 84
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/cars/2022/12/eight-car-thanksgiving-pileup-b
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2022/12/eight-car-thanksgiving-pileup-blamed-on-tesla-full-self-driving-software/amp/"
 type: article
 quality: 87
-heat: 227
+heat: 228
 published: true
 
 provider:

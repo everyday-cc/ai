@@ -2,6 +2,178 @@
   "page": 112,
   "value": [
     {
+      "path": "_news/2022-09-16-ai-the-future-of-healthcare.md",
+      "title": "AI: The Future of Healthcare",
+      "excerpt": "By Dr Christophe Bianchi, Chief Technologist HealthCare, Ansys The covid pandemic touched almost every aspect of our lives and its legacy can still be seen throughout society and the economy. During that time there was a laser-pointed focus placed on the healthcare industry – leading doctors and scientists instantly became household names",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/ai-the-future-of-healthcare/",
+      "originalUrl": "https://www.globalbankingandfinance.com/ai-the-future-of-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/07/iStock-1397174654.jpg",
+          "width": 750,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalbankingandfinance.com/ai-the-future-of-healthcare/",
+      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/ai-the-future-of-healthcare/",
+      "publishedDateTime": "2022-09-16T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-diet-could-play-a-role-in-cognitive-function-across-diverse-races-and-ethnicities.md",
+      "title": "Diet could play a role in cognitive function across diverse races and ethnicities",
+      "excerpt": "Dietary choices and their consequences may certainly influence cognitive function ... Metabolon offers biochemical profiling services and is developing molecular diagnostic assays detecting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/964717",
+      "originalUrl": "https://www.eurekalert.org/news-releases/964717",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-16T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-raleigh-startup-diveplane-aims-to-make-ai-ethical-we-asked-its-ceo-what-that-means.md",
+      "title": "Raleigh startup Diveplane aims to make AI ethical. We asked its CEO what that means.",
+      "excerpt": "Raleigh startup Diveplane aims to make AI ethical. We asked its CEO what that means. Diveplane In today’s world, artificial intelligence is used to make some big decisions. Colleges rely on it ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/raleigh-startup-diveplane-wants-ai-094500003.html",
+      "originalUrl": "https://www.aol.com/raleigh-startup-diveplane-wants-ai-094500003.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/.qzOPpJteHDwkFA_4xTX.Q--~B/aD04NTU7dz0xMTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/aol_raleigh_news_and_observer_mcclatchy_356/c29d40aa413655cd1596c0262937ea86",
+          "width": 1140,
+          "height": 855,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-16T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-16-hawke-ai-ceo-discusses-marketing-advancements-that-drive-sustainability.md",
+      "title": "Hawke AI CEO Discusses Marketing Advancements That Drive Sustainability",
+      "excerpt": "As artificial intelligence can optimize processes, marketers are able to better prioritize their time and energy, leading to more sustainable marketing practices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jefffromm/2022/09/16/hawke-ai-ceo-discusses-marketing-advancements-that-drive-sustainability/",
+      "originalUrl": "https://www.forbes.com/sites/jefffromm/2022/09/16/hawke-ai-ceo-discusses-marketing-advancements-that-drive-sustainability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6320a59e6e56708735fe585a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jefffromm/2022/09/16/hawke-ai-ceo-discusses-marketing-advancements-that-drive-sustainability/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jefffromm/2022/09/16/hawke-ai-ceo-discusses-marketing-advancements-that-drive-sustainability/amp/",
+      "publishedDateTime": "2022-09-16T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-09-16-this-ai-system-will-completely-change-your-experience-at-sporting-events.md",
       "title": "This AI system will completely change your experience at sporting events",
       "excerpt": "It is officially football season, which means you may be attending an NFL game soon. If you are, the long, tedious and not always accurate metal detectors may be a thing of the past, thanks to Evolv body scanners.",
@@ -931,187 +1103,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-buzz-lightyear-is-being-turned-into-a-robot-you-can-buy.md",
-      "title": "Buzz Lightyear Is Being Turned Into A Robot You Can Buy",
-      "excerpt": "Regardless, this robot Space Ranger packs recorded dialog and sounds from the 2022 film, and uses multiple precision servo motors and microchips to control several points of articulation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/1010644/buzz-lightyear-is-being-turned-into-a-robot-you-can-buy/",
-      "originalUrl": "https://www.slashgear.com/1010644/buzz-lightyear-is-being-turned-into-a-robot-you-can-buy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/buzz-lightyear-is-being-turned-into-a-robot-you-can-buy/l-intro-1663278039.jpg",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-16-elon-musk-believes-self-driving-cars-are-the-future-but-most-americans-are-wary-new-survey-shows.md",
-      "title": "Elon Musk believes self-driving cars are the future, but most Americans are wary, new survey shows",
-      "excerpt": "Tech entrepreneurs like Elon Musk have said that self-driving cars will make regular vehicles obsolete, but most Americans are wary. A new survey found that three out of every four Americans feel ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/americans-feel-unsafe-around-self-driving-cars-survey-2022-9",
-      "originalUrl": "https://www.businessinsider.com/americans-feel-unsafe-around-self-driving-cars-survey-2022-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63235b62d5916b0019abe86f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/americans-feel-unsafe-around-self-driving-cars-survey-2022-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/americans-feel-unsafe-around-self-driving-cars-survey-2022-9?amp",
-      "publishedDateTime": "2022-09-15T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-cognitive-systems-a-quick-study-in-dedication-and-self-belief.md",
-      "title": "Cognitive Systems – A quick study in dedication and self-belief",
-      "excerpt": "How would you prove you were right? Apparently, if you were the founders of Cognitive Systems Corp., you’d do whatever it took — up to and including building and manufacturing your own device ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/sponsored/cognitive-systems-a-quick-study-in-dedication-and-self-belief",
-      "originalUrl": "https://www.itworldcanada.com/sponsored/cognitive-systems-a-quick-study-in-dedication-and-self-belief",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-15-winnai-launches-out-of-stealth-with-an-ai-assistant-for-sales-calls.md",
-      "title": "Winn.AI launches out of stealth with an AI assistant for sales calls",
-      "excerpt": "Winn.AI, a startup developing a real-time assistant for sales calls, has raised $17 million in funding as it launches out of stealth.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/15/winn-ai-launches-out-of-stealth-with-an-ai-assistant-for-sales-calls/",
-      "originalUrl": "https://techcrunch.com/2022/09/15/winn-ai-launches-out-of-stealth-with-an-ai-assistant-for-sales-calls/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-15T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

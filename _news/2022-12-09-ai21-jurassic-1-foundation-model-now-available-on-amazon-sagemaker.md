@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://i0.wp.com/www.ksn.com/wp-content/uploads/sites/13/2022/09/Fatal-Crash-1.png?w=2000&#038;ssl=1"
-    width: 1280
-    height: 720
+  - url: "https://i0.wp.com/www.ksn.com/wp-content/uploads/sites/13/2022/12/AP22337706260207.jpg?w=2000&#038;ssl=1"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "W5nwlV3zDTv814RUpVmhWop54U6wNpv3ORt77dWq8+bdPdsihjca4p2qFizH9T5NFIVLEzu0uqb+Mi4WQbxMhmUFF7yyz7mWSrLCCwgct4CszZ76mKuBtJtsICJ3c3bEkj2MWI5dEE3tIQ5XrmWrBhM3tj5LW/HiwfxJIjECxuEpkdytWAmiWmrHUeFHgsi9PQANRwHdo1B3i5BCwkH3foGCdRY111+b2nSjilucO1kuYfT+oe8gOTZfecKgrEmYS0awshb4XbNLfcf74hYQpFThSNa79+c6oO/g3VqhJFlsoahsFp6BIUvZ9LtWWS7htwzMbpVz6jPteWvdjiSG8ij3EBc3ObE8dFbsdZ6irOI=;LkJgX3WJNiPqPp/+dHBc0Q=="
+secured: "wubIxZ/hM/+h1d0BGuEiluVwQdP1iSo4J96ZVNnPQo01uSsrwbmZW+v7MVia8i6IfB4iXw+od/ZctIUjma7MGo/qcfeNZ/qGvreit48rxr9+yGM5Sthg0OdwKKCOEin5LfSQCEHEpLrkj8Uw/ce3Xzjiv+xUFZZV+90J1KLi0bGrkzIWlugcuT9CuyI+bE1AcMsoD1lxTEuQvMKvwnBm4nYns530+QVyFmzE7Ik1cq0GqbLYZcT74FmbtjpBZX7UuSykwTSlTfrLMD/mdg3E9YmG4EF+On4M/Wz4el2Xz67/b+NgQnNhqeIn6ArySy5VaeKEIwCU5ZGc3bvcrzO3GTSq+wsdxpQ1XSbaoTK/1X8=;i7QAIznaYuikWV1/tUC+6A=="
 ---
 

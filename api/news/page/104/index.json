@@ -2,6 +2,199 @@
   "page": 104,
   "value": [
     {
+      "path": "_news/2022-09-22-detect-population-variance-of-endangered-species-using-amazon-rekognition.md",
+      "title": "Detect population variance of endangered species using Amazon Rekognition",
+      "excerpt": "Our planet faces a global extinction crisis. UN Report shows a staggering number of more than a million species feared to be on the path of extinction. The most common reasons for extinction include loss of habitat, poaching, and invasive species. Several wildlife conservation foundations, research scientists,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-population-variance-of-endangered-species-using-amazon-rekognition/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-population-variance-of-endangered-species-using-amazon-rekognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/13/image001-2-e1663023193495.png",
+          "width": 661,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-22T14:25:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-09-23-automotive-artificial-intelligence-ai-market-size-to-hit-usd-191-bn-by-2030.md",
+      "title": "Automotive Artificial Intelligence (AI) Market Size to Hit USD 19.1 Bn by 2030",
+      "excerpt": "The global automotive artificial intelligence (AI) market size was valued at USD 2.9 billion in 2021. The development in the auto business is supposed to drive the automotive",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artificial-intelligence-ai-market-size-to-hit-usd-19-1-bn-by-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artificial-intelligence-ai-market-size-to-hit-usd-19-1-bn-by-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-22T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-23-top-natural-language-processing-companies-2022.md",
+      "title": "Top Natural Language Processing Companies 2022",
+      "excerpt": "These leading Natural Language Processing vendors can help AI deployments \"learn\" how to listen and interact with humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/natural-language-processing-companies/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/natural-language-processing-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-DSOM-Image02-800x800-1.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-22T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI",
+        "Machine Learning",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-23-how-to-leverage-ai-to-boost-care-management-success.md",
+      "title": "How to leverage AI to boost care management success",
+      "excerpt": "As a rapidly evolving technology, AI is adapting itself to the needs of the healthcare industry at an unprecedented pace.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-to-leverage-ai-to-boost-care-management-success/",
+      "originalUrl": "https://venturebeat.com/ai/how-to-leverage-ai-to-boost-care-management-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1351781263.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-to-leverage-ai-to-boost-care-management-success/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-to-leverage-ai-to-boost-care-management-success/amp/",
+      "publishedDateTime": "2022-09-22T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-22-how-amazon-search-reduced-ml-inference-costs-by-85-with-aws-inferentia.md",
       "title": "How Amazon Search reduced ML inference costs by 85% with AWS Inferentia",
       "excerpt": "Amazon’s product search engine indexes billions of products, serves hundreds of millions of customers worldwide, and is one of the most heavily used services in the world. The Amazon Search team develops machine learning (ML) technology that powers the Amazon.com search engine and helps customers search",
@@ -928,186 +1121,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-artificial-intelligence-in-healthcare-market-is-expected-to-undergo-a-cagr-of-5137-by-2029.md",
-      "title": "Artificial Intelligence in Healthcare Market is expected to undergo a CAGR of 51.37% by 2029",
-      "excerpt": "The professional and detailed Artificial Intelligence in Healthcare market analysis report underlines the primary",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-is-expected-to-undergo-a-cagr-of-5137-by-2029-2022-09-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-is-expected-to-undergo-a-cagr-of-5137-by-2029-2022-09-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T01:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-cognitive-and-motor-functions-may-improve-with-neflamapimod.md",
-      "title": "Cognitive and Motor Functions May Improve with Neflamapimod",
-      "excerpt": "A new study shows inhibiting the kinase p38α using the small molecule drug neflamapimod, could potentially improve cognitive and motor function in patients with neurodegenerative diseases that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.genengnews.com/neurological-disorders/cognitive-and-motor-functions-may-improve-with-neflamapimod/",
-      "originalUrl": "https://www.genengnews.com/neurological-disorders/cognitive-and-motor-functions-may-improve-with-neflamapimod/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.genengnews.com/wp-content/uploads/2022/09/Feb11_2019_Getty_956351734_UpperCellMembrane-scaled.jpg",
-          "width": 2560,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T00:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GEN",
-        "domain": "genengnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-need-ai-powered-voiceovers-micmonster-is-50-off.md",
-      "title": "Need AI-powered voiceovers? Micmonster is 50% off",
-      "excerpt": "In fact, Micmonster earned 5 stars on AppSumo and 4.5 out of 5 on BloggersIdeas. If you're just starting out with the platform, it's easy enough to come up with \"voice talent\" on the fly. Simply enter your own words or copy and paste blocks of text into the engine,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/need-ai-powered-voiceovers-micmonster-is-50-off/",
-      "originalUrl": "https://www.zdnet.com/article/need-ai-powered-voiceovers-micmonster-is-50-off/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/521ae7bff5b8efbd5e65132a452e3eeb945f685a/2022/09/16/880d3692-68da-4658-abb2-31456cd4908c/zd-micmonster.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/need-ai-powered-voiceovers-micmonster-is-50-off/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/need-ai-powered-voiceovers-micmonster-is-50-off/",
-      "publishedDateTime": "2022-09-22T00:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-take-a-cognitive-test-internet-roasts-joe-biden-after-he-became-lost-on-stage.md",
-      "title": "‘Take a cognitive test’: Internet roasts Joe Biden after he became ‘lost’ on stage",
-      "excerpt": "US President Joe Biden has been mocked online after appearing to not know where to go following remarks he delivered at a Global Fund conference in New York.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailytelegraph.com.au/news/world/take-a-cognitive-test-internet-roasts-joe-biden-after-he-became-lost-on-stage/video/9d05892295fde934dbf483b83e10220f",
-      "originalUrl": "https://www.dailytelegraph.com.au/news/world/take-a-cognitive-test-internet-roasts-joe-biden-after-he-became-lost-on-stage/video/9d05892295fde934dbf483b83e10220f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "dailytelegraph.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

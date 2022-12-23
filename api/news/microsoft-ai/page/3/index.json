@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-12-01-n-ix-obtains-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization.md",
+      "title": "N-iX obtains the Modernization of Web Applications to Microsoft Azure Advanced Specialization",
+      "excerpt": "N-iX, a leading European software development company, has earned the Modernization of Web Applications to Microsoft Azure advanced specialization. It is a validation of the company's deep knowledge and extensive experience in migrating and modernizing production web application workloads and managing app services in Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/n-ix-obtains-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1031948094",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/n-ix-obtains-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1031948094",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T07:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-01-artificial-intelligence-ai-in-precision-farming-market-demand-and-growth-analysis-report-2022-2028-microsoft-ibm.md",
+      "title": "Artificial Intelligence (AI) in Precision Farming Market Demand and Growth Analysis Report 2022-2028 | Microsoft, IBM",
+      "excerpt": "Artificial intelligence (AI) plays an important role in precision farming, helping farmers make better decisions to optimize their crops and operations. AI can be used to gather data from the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-precision-farming-market-demand-and-growth-analysis-report-2022-2028-microsoft-ibm",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-precision-farming-market-demand-and-growth-analysis-report-2022-2028-microsoft-ibm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://xherald.com/wp-content/uploads/2022/12/Artificial-Intelligence-AI-in-Precision-Farming-Image1-1.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-01T03:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-01-cognitive-space-hires-retired-general-as-strategic-advisor.md",
       "title": "Cognitive Space hires retired general as strategic advisor",
       "excerpt": "Cognitive Space developed a software tool called CNTIENT to manage a hybrid architecture of remote-sensing satellites. Credit: Cognitive Space Retired Maj. Gen. Aaron Prupas was most recently ...",
@@ -1242,102 +1329,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-connection-between-gut-and-stroke-induced-cognitive-impairment-research.md",
-      "title": "Connection between gut and stroke-induced cognitive impairment: Research",
-      "excerpt": "The American Heart Association revealed that stroke patients are more likely to experience depression, which has a detrimental effect on functional and cognitive restoration. The Texas A&M team ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/lifestyle/health/connection-between-gut-and-stroke-induced-cognitive-impairment-research-101669090354820.html",
-      "originalUrl": "https://www.hindustantimes.com/lifestyle/health/connection-between-gut-and-stroke-induced-cognitive-impairment-research-101669090354820.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2022/11/22/1600x900/intelligence-g5b7c9b1ab_1920_1667638104502_1669090429688_1669090429688.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/lifestyle/health/connection-between-gut-and-stroke-induced-cognitive-impairment-research-101669090354820-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/health/connection-between-gut-and-stroke-induced-cognitive-impairment-research-101669090354820-amp.html",
-      "publishedDateTime": "2022-11-22T01:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-22-sequoia-indias-surge-backs-health-tech-startup-redbrick-ai-in-46m-funding.md",
-      "title": "Sequoia India’s Surge backs health tech startup RedBrick AI in $4.6M funding",
-      "excerpt": "Health tech startup RedBrick AI has raised $4.6 million in a funding round led by Sequoia India and Southeast Asia’s Surge as it plans to expand the market for its medical imagery annotations ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/11/22/redbrick-ai-sequoia-surge-funding/",
-      "originalUrl": "https://techcrunch.com/2022/11/22/redbrick-ai-sequoia-surge-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/medical-imagery-examine-pexels.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/11/22/redbrick-ai-sequoia-surge-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/11/22/redbrick-ai-sequoia-surge-funding/amp/",
-      "publishedDateTime": "2022-11-21T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -31,7 +31,7 @@ related:
   - title: "Canvs AI launches translation feature"
     excerpt: "Text analytics and customer experience company Canvs AI has created a translation tool for its Canvs MRX platform."
     publishedDateTime: 2022-12-20T12:02:00Z
-    webUrl: "https://www.research-live.com/article/news/canvs_ai_launches_translation_feature/id/5106892"
+    webUrl: "https://www.research-live.com/article/news/canvs-ai-launches-translation-feature/id/5106892"
     ampWebUrl: "https://www.research-live.com/amp-page.html?id=5106892&name=canvs-ai-launches-translation-feature"
     cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5106892&name=canvs-ai-launches-translation-feature"
     type: article

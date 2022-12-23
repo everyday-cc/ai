@@ -2,6 +2,207 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2022-10-24-how-the-availability-of-ai-is-changing-the-security-landscape-for-both-users-and-developers.md",
+      "title": "How The Availability Of AI Is Changing The Security Landscape For Both Users And Developers",
+      "excerpt": "In certain instances, analytics like movement tracking and basic object recognition helped organizations that could afford to implement them, but they were still hampered by limiting factors such as camera quality and processing power. Today, that’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/24/how-the-availability-of-ai-is-changing-the-security-landscape-for-both-users-and-developers/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/24/how-the-availability-of-ai-is-changing-the-security-landscape-for-both-users-and-developers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6352a22b37aebac3a2e382e7/0x0.jpg?format=jpg&crop=2015,1134,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/24/how-the-availability-of-ai-is-changing-the-security-landscape-for-both-users-and-developers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/24/how-the-availability-of-ai-is-changing-the-security-landscape-for-both-users-and-developers/amp/",
+      "publishedDateTime": "2022-10-24T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-edge-ai-hardware-market-worth-2716-million-units-by-2027-exclusive-report-by-marketsandmarketstm.md",
+      "title": "Edge AI Hardware Market Worth $2,716 Million Units by 2027 - Exclusive Report by MarketsandMarkets(TM)",
+      "excerpt": "This has opened a huge opportunity for the edge AI hardware market players. Smart wearables and health trackers could further accelerate the growth of the edge AI hardware market for wearables. The market for GPU is expected to grow with the highest CAGR during the forecast period.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/edge-ai-hardware-market-worth-2716-million-units-by-2027---exclusive-report-by-marketsandmarketstm-2022-10-24-92033048",
+      "originalUrl": "https://www.marketwatch.com/press-release/edge-ai-hardware-market-worth-2716-million-units-by-2027---exclusive-report-by-marketsandmarketstm-2022-10-24-92033048",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-ai-coming-of-age-lessons-for-startups.md",
+      "title": "AI Coming Of Age: Lessons For Startups",
+      "excerpt": "Startups might have an advantage over larger organizations in using AI: Building new business processes is a lot easier than changing existing processes that affect thousands of employees.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/24/ai-coming-of-age-lessons-for-startups/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/24/ai-coming-of-age-lessons-for-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f2d686d44b66e05156c5e3c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/24/ai-coming-of-age-lessons-for-startups/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/24/ai-coming-of-age-lessons-for-startups/amp/",
+      "publishedDateTime": "2022-10-24T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-d2iq-simplifies-artificial-intelligence-and-machine-learning-operations-with-industry-first-enhancements-to-kaptain-aiml-platform.md",
+      "title": "D2iQ Simplifies Artificial Intelligence and Machine Learning Operations with Industry-First Enhancements to Kaptain AI/ML Platform",
+      "excerpt": "D2iQ Simplifies Artificial Intelligence and Machine Learning Operations with Industry-First Enhancements to Kaptain AI/ML Platform Oct 24, 2022",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/d2iq-simplifies-artificial-intelligence-and-machine-learning-operations-with-industry-first-enhancements-to-kaptain-aiml-platform-2022-10-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/d2iq-simplifies-artificial-intelligence-and-machine-learning-operations-with-industry-first-enhancements-to-kaptain-aiml-platform-2022-10-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-24-why-baidu-dingdong-and-pinduoduo-stocks-crashed-on-monday.md",
       "title": "Why Baidu, Dingdong, and Pinduoduo Stocks Crashed on Monday",
       "excerpt": "While it's tempting to think that things can't get much worse for Pinduoduo stock (down 41% over the past year), Baidu (down 48%), and Dingdong (down 87%!), the truth is that there's still a lot ...",
@@ -982,178 +1183,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-23-aetina-launches-new-mxm-gpu-modules-for-ai-performance-boost-at-the-edge.md",
-      "title": "Aetina Launches New MXM GPU Modules for AI Performance Boost at the Edge",
-      "excerpt": "The model names of the new Aetina MXM GPU modules powered by NVIDIA RTX A1000, NVIDIA RTX A2000, and NVIDIA RTX A4500 are M3A1000-PP, M3A2000-VY, and M3A4500-WP, respectively. These models support CUDA Compute version 8.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/10/23/9697751.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/10/23/9697751.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1927424/Aetina_Launches_New_MXM_GPU_Modules_Powered_NVIDIA_AI_Performance.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-23-mind-control-the-metaverse-may-be-the-ultimate-tool-of-persuasion.md",
-      "title": "Mind control: The metaverse may be the ultimate tool of persuasion",
-      "excerpt": "In an unregulated metaverse, a controlling force with deep knowledge of users can use feedback loops to drive them toward a desired goal.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/virtual/mind-control-the-metaverse-may-be-the-ultimate-tool-of-persuasion/",
-      "originalUrl": "https://venturebeat.com/virtual/mind-control-the-metaverse-may-be-the-ultimate-tool-of-persuasion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/Metaverse-Mind-Control-image-001.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 835,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/virtual/mind-control-the-metaverse-may-be-the-ultimate-tool-of-persuasion/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/virtual/mind-control-the-metaverse-may-be-the-ultimate-tool-of-persuasion/amp/",
-      "publishedDateTime": "2022-10-22T16:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-23-driverless-tractor-kills-pedestrian-in-southeast-kansas.md",
-      "title": "Driverless tractor kills pedestrian in southeast Kansas",
-      "excerpt": "CHEROKEE COUNTY, Kan. (KSNW) — A Cherokee, Kansas man has died after being hit by a driverless tractor in eastern Kansas on Saturday. The Kansas Highway Patrol Crash Log says a 190 Allis ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ksn.com/news/state-regional/driverless-tractor-kills-pedestrian-in-southeast-kansas/",
-      "originalUrl": "https://www.ksn.com/news/state-regional/driverless-tractor-kills-pedestrian-in-southeast-kansas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-22T11:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ksn.com",
-        "domain": "ksn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-23-the-amazing-race-fans-speculate-which-season-34-racer-contracts-covid-19.md",
-      "title": "‘The Amazing Race’ Fans Speculate Which Season 34 Racer Contracts COVID-19",
-      "excerpt": "Following the premiere of The Amazing Race Season 34 Episode 5, CBS aired a preview for episode 6. It appears as though the teams will stay in Jordan for the fifth leg of the race. The pairs will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cheatsheet.com/entertainment/the-amazing-race-fans-speculate-season-34-racer-contracts-covid-19.html/",
-      "originalUrl": "https://www.cheatsheet.com/entertainment/the-amazing-race-fans-speculate-season-34-racer-contracts-covid-19.html/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cheatsheet.com/wp-content/uploads/2022/10/The-Amazing-Race-Season-34-1.jpg?w=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-22T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Cheat Sheet",
-        "domain": "cheatsheet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

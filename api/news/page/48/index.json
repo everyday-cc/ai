@@ -2,6 +2,196 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2022-11-12-luxonis-puts-a-powerful-rolling-robotics-lab-in-your-pocket.md",
+      "title": "Luxonis puts a powerful rolling robotics lab in your pocket",
+      "excerpt": "A Colorado-based computer vision company has launched a hackable, open-source roving robot called rae that packs AI processing and machine learning ... where pledges currently start at US$399. If all goes to plan with the already funded campaign, shipping ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/luxonis-rae-robot/",
+      "originalUrl": "https://newatlas.com/robotics/luxonis-rae-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/9a1e525/2147483647/strip/true/crop/3840x2016+0+72/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd1%2F4e%2F0da8d8df4b559c90452be6db0526%2Frae-noglass-front.png&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-11T10:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-12-this-free-comic-series-is-gorgeous-youd-never-know-ai-drew-it.md",
+      "title": "This Free Comic Series Is Gorgeous. You'd Never Know AI Drew It",
+      "excerpt": "The Bestiary Chronicles is both a modern fable on the rise of artificial intelligence and a demonstration of how shockingly fast AI is evolving.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/culture/this-free-comic-series-is-gorgeous-youd-never-know-ai-drew-it/",
+      "originalUrl": "https://www.cnet.com/culture/this-free-comic-series-is-gorgeous-youd-never-know-ai-drew-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/e0fd1ab6f42e20e4794ffe13af3443beba065bfe/hub/2022/11/11/d1211a3a-48a5-4e60-865b-1303693bb8b8/exodus-03-1.jpg?auto=webp",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/this-free-comic-series-is-gorgeous-youd-never-know-ai-drew-it/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-free-comic-series-is-gorgeous-youd-never-know-ai-drew-it/",
+      "publishedDateTime": "2022-11-11T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-12-scientists-promote-fair-standards-for-managing-artificial-intelligence-models.md",
+      "title": "Scientists promote FAIR standards for managing artificial intelligence models",
+      "excerpt": "Computational scientists adopt new framework for making AI models more findable, accessible, interoperable and reusable.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/11/221110205411.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/11/221110205411.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-11T09:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-11-12-childhood-lead-exposure-tied-to-worse-cognitive-function-in-late-life.md",
+      "title": "Childhood lead exposure tied to worse cognitive function in late life",
+      "excerpt": "Exposure to lead in childhood is associated with worse cognitive functioning in late life, according to a study published in the Nov. 11 issue of Science Advances. Haena Lee, Ph.D., from ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-11-childhood-exposure-worse-cognitive-function.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-11-childhood-exposure-worse-cognitive-function.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/childhood-lead-exposur.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-11-childhood-exposure-worse-cognitive-function.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-childhood-exposure-worse-cognitive-function.amp",
+      "publishedDateTime": "2022-11-11T09:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-12-how-2022-became-the-year-of-generative-ai.md",
       "title": "How 2022 became the year of generative AI",
       "excerpt": "In 2022, generative AI saw better algorithms and larger models and datasets, which created better images and higher-quality software code.",
@@ -961,188 +1151,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-amazons-new-robot-can-handle-most-items-in-the-everything-store.md",
-      "title": "Amazon’s New Robot Can Handle Most Items in the Everything Store",
-      "excerpt": "Sparrow could shift the balance between humans and machines in the company’s warehouses, using machine learning algorithms and a custom gripper.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/amazons-new-robot-sparrow-can-handle-most-items-in-the-everything-store/",
-      "originalUrl": "https://www.wired.com/story/amazons-new-robot-sparrow-can-handle-most-items-in-the-everything-store/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/636d54218480c23aec34bdef/master/pass/Sparrow-Robot-Amazon-Business.jpg",
-          "width": 2400,
-          "height": 1698,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/amazons-new-robot-sparrow-can-handle-most-items-in-the-everything-store/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazons-new-robot-sparrow-can-handle-most-items-in-the-everything-store/amp",
-      "publishedDateTime": "2022-11-10T13:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-10-how-prodege-saved-15-million-in-annual-human-review-costs-using-low-code-computer-vision-ai.md",
-      "title": "How Prodege saved $1.5 million in annual human review costs using low-code computer vision AI",
-      "excerpt": "This post was co-authored by Arun Gupta, the Director of Business Intelligence at Prodege, LLC. Prodege is a data-driven marketing and consumer insights platform comprised of consumer brands—Swagbucks, MyPoints, Tada, ySense, InboxDollars, InboxPounds, DailyRewards, PollFish, and Upromise—along with",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-prodege-saved-1-5-million-in-annual-human-review-costs-using-low-code-computer-vision-ai/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-prodege-saved-1-5-million-in-annual-human-review-costs-using-low-code-computer-vision-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T12:51:35-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-microsoft-is-testing-new-ads-in-windows-11.md",
-      "title": "Microsoft is testing new ads in Windows 11",
-      "excerpt": "it's ads appearing in the operating system—said no one other than Microsoft. The Redmond firm appears to be testing a feature in preview builds that shows ads for its services in the flyout menu ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/96601-microsoft-testing-ads-services-windows-11.html",
-      "originalUrl": "https://www.techspot.com/news/96601-microsoft-testing-ads-services-windows-11.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/08/2020-08-14-image-5.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T11:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-11-enable-medicine-develops-a-deep-learning-model-that-establishes-a-new-standard-for-predicting-cancer-treatment-outcomes.md",
-      "title": "Enable Medicine Develops a Deep Learning Model that Establishes a New Standard for Predicting Cancer Treatment Outcomes",
-      "excerpt": "Enable Medicine, the platform for indexing and searching biological data, today unveiled a new tool that identifies spatial-cellular signatures associated with cancer outcomes. Published in Nature Biomedical Engineering,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-enable-medicine-develops-deep-learning-model-that-establishes-/2022/11/10/9710935.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-enable-medicine-develops-deep-learning-model-that-establishes-/2022/11/10/9710935.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-10T10:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

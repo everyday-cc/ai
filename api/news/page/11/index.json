@@ -2,6 +2,101 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-12-10-we-benchmark-the-snapdragon-8-gen-2-solid-cpu-gains-impressive-gpu-upgrade.md",
+      "title": "We benchmark the Snapdragon 8 Gen 2: solid CPU gains, impressive GPU upgrade",
+      "excerpt": "Here is a summary of the chipsets we are looking at today: The Snapdragon 8 Gen 2 also uses the new Adreno 740 GPU. Qualcomm is secretive about the hardware specifics, but there must have been a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gsmarena.com/testing_the_snapdragon_8_gen_2_solid_cpu_gains_impressive_gpu_upgrade-news-56817.php",
+      "originalUrl": "https://www.gsmarena.com/testing_the_snapdragon_8_gen_2_solid_cpu_gains_impressive_gpu_upgrade-news-56817.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fdn.gsmarena.com/imgroot/news/22/12/snapdragon-8-gen-2-tested/-1220x526/gsmarena_000.jpg",
+          "width": 1220,
+          "height": 526,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.gsmarena.com/testing_the_snapdragon_8_gen_2_solid_cpu_gains_impressive_gpu_upgrade-amp-56817.php",
+      "cdnAmpWebUrl": "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/testing_the_snapdragon_8_gen_2_solid_cpu_gains_impressive_gpu_upgrade-amp-56817.php",
+      "publishedDateTime": "2022-12-09T14:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GSM Arena",
+        "domain": "gsmarena.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-10-deepmind-created-an-ai-tool-that-can-help-generate-rough-film-and-stage-scripts.md",
+      "title": "DeepMind created an AI tool that can help generate rough film and stage scripts",
+      "excerpt": "Alphabet's DeepMind has built an AI tool that can help get you started. Dramatron is a so-called \"co-writing\" tool that can generate character descriptions, plot points, location descriptions and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/deepmind-ai-tool-film-theater-scripts-dramatron-212328597.html",
+      "originalUrl": "https://www.engadget.com/deepmind-ai-tool-film-theater-scripts-dramatron-212328597.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-12/ed82e680-7802-11ed-a59f-bc23be79c645",
+          "width": 5645,
+          "height": 3634,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/deepmind-ai-tool-film-theater-scripts-dramatron-212328597.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/deepmind-ai-tool-film-theater-scripts-dramatron-212328597.html",
+      "publishedDateTime": "2022-12-09T14:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-10-that-mysterious-object-on-a-florida-beach-its-a-shipwreck.md",
       "title": "That Mysterious Object on a Florida Beach? It’s a Shipwreck.",
       "excerpt": "Anyone can read what you share. By Christine Hauser and Jesus Jiménez After the discovery last month of a strange 80-foot-long, wood-and-metal object that had emerged from the sand at Daytona ...",
@@ -481,6 +576,49 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-10-john-tory-at-his-wussiest-plus-justin-trudeaus-cognitive-dissonance-on-foreign-policy.md",
+      "title": "John Tory at his wussiest, plus Justin Trudeau’s cognitive dissonance on foreign policy",
+      "excerpt": "Does the PM have foreign policy cognitive dissonance? It’s true Canada has a new policy in Asia, the Indo-Pacific strategy, based on China being an “increasingly disruptive” force not just ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com/opinion/contributors/2022/12/09/john-tory-at-his-wussiest-plus-justin-trudeaus-cognitive-dissonance-on-foreign-policy.html",
+      "originalUrl": "https://www.thestar.com/opinion/contributors/2022/12/09/john-tory-at-his-wussiest-plus-justin-trudeaus-cognitive-dissonance-on-foreign-policy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestar.com/content/dam/thestar/opinion/contributors/2022/12/22/nothing-could-break-us-in-kherson-ukraine-life-itself-has-become-an-act-of-protest/ukraine_1.jpg.size.custom.crop.640x360.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestar.com/amp/opinion/contributors/2022/12/09/john-tory-at-his-wussiest-plus-justin-trudeaus-cognitive-dissonance-on-foreign-policy.html",
+      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/opinion/contributors/2022/12/09/john-tory-at-his-wussiest-plus-justin-trudeaus-cognitive-dissonance-on-foreign-policy.html",
+      "publishedDateTime": "2022-12-09T09:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Toronto Star",
+        "domain": "thestar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -982,151 +1120,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-is-chatgpt-the-start-of-the-ai-revolution.md",
-      "title": "Is ChatGPT the Start of the AI Revolution?",
-      "excerpt": "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skillset. On",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/is-chatgpt-the-start-of-the-ai-revolution/2022/12/09/9eb9dfec-77b5-11ed-a199-927b334b939f_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/is-chatgpt-the-start-of-the-ai-revolution/2022/12/09/9eb9dfec-77b5-11ed-a199-927b334b939f_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TYKMLGDXWUI63IMZSJ5TGS4TT4.jpg&w=1440",
-          "width": 1440,
-          "height": 963,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-09T04:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "The market for artificial intelligence (AI ... but its dominance of a bedrock technology for driverless cars justifies that premium-- and makes it a great AI stock to buy. Micron's business ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/12/09/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "originalUrl": "https://www.fool.com/investing/2022/12/09/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/712259/digital-brain.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-09T03:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-four-steps-for-building-an-ai-center-of-excellence.md",
-      "title": "Four Steps For Building An AI Center Of Excellence",
-      "excerpt": "The road to digital transformation is long and complex—but a solid AI program is a step in the right direction.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/09/four-steps-for-building-an-ai-center-of-excellence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/09/four-steps-for-building-an-ai-center-of-excellence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/611197e7a1fc8d3b4e5a536a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 652,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/09/four-steps-for-building-an-ai-center-of-excellence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/09/four-steps-for-building-an-ai-center-of-excellence/amp/",
-      "publishedDateTime": "2022-12-09T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,186 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2022-10-11-polyn-introduces-voice-processing-tiny-ai-chip-delivering-industry-first-voice-extraction.md",
+      "title": "POLYN Introduces Voice Processing Tiny AI Chip Delivering Industry-First Voice Extraction",
+      "excerpt": "POLYN is the first to implement the combination of voice detection (VD), and voice extraction (VE) within the ultra-low-power analog neuromorphic silicon. Integrating NeuroVoice allows customers to create miniature products that improve their end users' hearing experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-polyn-introduces-voice-processing-tiny-ai-chip-delivering-/2022/10/11/9690059.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-polyn-introduces-voice-processing-tiny-ai-chip-delivering-/2022/10/11/9690059.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-google-reveals-whats-next-for-cloud-ai.md",
+      "title": "Google reveals what’s next for Cloud AI",
+      "excerpt": "At Google Cloud Next 2022, new AI services emerge to help enterprises build and deploy applications for common use cases.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/",
+      "originalUrl": "https://venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/Google-Cloud-Next-e1634148277238.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/amp/",
+      "publishedDateTime": "2022-10-11T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-artificial-intelligence-is-dangerous-for-disabled-people-at-work-4-takeaways-for-developers-and-buyers.md",
+      "title": "Artificial Intelligence Is Dangerous For Disabled People At Work: 4 Takeaways For Developers And Buyers",
+      "excerpt": "Eight of the 10 largest private U.S. employers use AI to track the productivity metrics of individual workers, many in real time, according to The New York Times.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/drnancydoyle/2022/10/11/artificial-intelligence-is-dangerous-for-disabled-people-at-work-4-takeaways-for-developers-and-buyers/",
+      "originalUrl": "https://www.forbes.com/sites/drnancydoyle/2022/10/11/artificial-intelligence-is-dangerous-for-disabled-people-at-work-4-takeaways-for-developers-and-buyers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63457c2e30f94eb36c4befae/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 748,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/drnancydoyle/2022/10/11/artificial-intelligence-is-dangerous-for-disabled-people-at-work-4-takeaways-for-developers-and-buyers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/drnancydoyle/2022/10/11/artificial-intelligence-is-dangerous-for-disabled-people-at-work-4-takeaways-for-developers-and-buyers/amp/",
+      "publishedDateTime": "2022-10-11T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-stephen-a-smith-went-on-sean-hannitys-show-talked-about-joe-bidens-cognitive-state.md",
+      "title": "Stephen A. Smith Went on Sean Hannity's Show, Talked About Joe Biden's Cognitive State",
+      "excerpt": "\"I don't like what I see at times, Sean, but I'm not a doctor,\" Smith said. \"I'm not going to go that far disrespectful to the President of the United States but I respect the fact that other ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thebiglead.com/posts/stephen-a-smith-sean-hannity-show-joe-biden-cognitive-state-01gf3gksg2gp",
+      "originalUrl": "https://www.thebiglead.com/posts/stephen-a-smith-sean-hannity-show-joe-biden-cognitive-state-01gf3gksg2gp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1204,h_677,x_0,y_46/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/thebiglead_en_international_web/01gf3hqwa0p8cma4mgts.png",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thebiglead.com/posts/stephen-a-smith-went-on-sean-hannity-s-show-talked-about-joe-biden-s-cognitive-state-01gf3gksg2gp/amp",
+      "cdnAmpWebUrl": "https://www-thebiglead-com.cdn.ampproject.org/c/s/www.thebiglead.com/posts/stephen-a-smith-went-on-sean-hannity-s-show-talked-about-joe-biden-s-cognitive-state-01gf3gksg2gp/amp",
+      "publishedDateTime": "2022-10-11T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Big Lead",
+        "domain": "thebiglead.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-11-orange-county-vision-center-announces-grand-opening-of-new-location.md",
       "title": "Orange County Vision Center Announces Grand Opening of New Location",
       "excerpt": "Orange County Vision Center is excited to announce the grand opening of a new location in Garden Grove, CA! The new office is spacious and is equipped with the latest technology. On October 15th, patients can stop by for a tour of the new clinic,",
@@ -922,206 +1102,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-gds-harnesses-machine-learning-to-control-feedback-spam.md",
-      "title": "GDS harnesses machine learning to control feedback spam",
-      "excerpt": "Felix Reilly, a data scientist at GDS, said in a blogpost that GOV.UK received around 540,000 feedback responses in 2021, and that in early 2022 there was a surge in spam to a peak of 12% of the total.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ukauthority.com/articles/gds-harnesses-machine-learning-to-control-feedback-spam/",
-      "originalUrl": "https://www.ukauthority.com/articles/gds-harnesses-machine-learning-to-control-feedback-spam/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ukauthority.com/media/11794/spam-icon-istock-1367145852-lumerb.jpg",
-          "width": 606,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-10T21:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ukauthority.com",
-        "domain": "ukauthority.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-radiology-ai-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share.md",
-      "title": "Radiology AI Market Industry Analysis 2022 To 2028 based on Sales, Revenue, Size, and Share.",
-      "excerpt": "This “ Radiology AI market ” report offers an all-inclusive analysis of how strong is service levels, product performance, and brand strength of the Radiology AI group. Some of the companies that are profiled in this Radiology AI report are: Arterys,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/radiology-ai-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-10-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/radiology-ai-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-10-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 273,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-10T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-all-symbols-in-tensorflow-probability.md",
-      "title": "All symbols in TensorFlow Probability",
-      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/probability/api_docs/python/tfp/all_symbols",
-      "originalUrl": "https://www.tensorflow.org/probability/api_docs/python/tfp/all_symbols",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-10T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-save-140-on-the-roborock-e5-an-affordable-robot-vacuum-and-mop-combo.md",
-      "title": "Save $140 On The Roborock E5, An Affordable Robot Vacuum And Mop Combo",
-      "excerpt": "The Roborock E5 Robot Vacuum and Mop vacuums, mops and charges itself. Right now the E5 is on sale for 45% off during Amazon’s second Prime Day event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2022/10/10/roborock-e5-robot-vacuum-prime-day-deal/",
-      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2022/10/10/roborock-e5-robot-vacuum-prime-day-deal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63443974dbf08bcee0aa314b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2022/10/11/roborock-e5-robot-vacuum-prime-day-deal/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/2022/10/11/roborock-e5-robot-vacuum-prime-day-deal/amp/",
-      "publishedDateTime": "2022-10-10T15:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

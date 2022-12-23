@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-23-madison-square-garden-uses-facial-recognition-to-ban-its-owners-enemies.md",
+      "title": "Madison Square Garden Uses Facial Recognition to Ban Its Owner’s Enemies",
+      "excerpt": "MSG Entertainment, the owner of the arena and Radio City Music Hall, has put lawyers who represent people suing it on an “exclusion list” to keep them out of concerts and sporting events.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.html",
+      "originalUrl": "https://www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/12/22/multimedia/00dolan-cam-2-5b5e/00dolan-cam-2-5b5e-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.amp.html",
+      "publishedDateTime": "2022-12-22T15:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-23-guaido-the-face-of-opposition-in-venezuela-may-be-on-his-way-out.md",
       "title": "Guaidó, the Face of Opposition in Venezuela, May Be on His Way Out",
       "excerpt": "The lawmaker may soon be voted out of power by the opposition, which no longer sees his interim government as a path to “real political change” against the country’s authoritarian regime.",
@@ -253,7 +305,7 @@
       "originalUrl": "https://www.networkworld.com/article/3684112/intel-splits-gpu-group-into-two-separate-units.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -296,7 +348,7 @@
       "originalUrl": "https://arstechnica.com/cars/2022/12/eight-car-thanksgiving-pileup-blamed-on-tesla-full-self-driving-software/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 227,
+      "heat": 228,
       "tags": null,
       "images": [
         {
@@ -348,7 +400,7 @@
       "originalUrl": "https://www.techradar.com/news/ai-isnt-really-helping-coders-write-better-or-more-secure-code",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -691,49 +743,6 @@
       ]
     },
     {
-      "path": "_news/2022-12-22-girl-scout-mom-kicked-out-of-radio-city-and-barred-from-seeing-rockettes-after-facial-recognition-tech-identified-her.md",
-      "title": "Girl Scout mom kicked out of Radio City and barred from seeing Rockettes after facial recognition tech identified her",
-      "excerpt": "The mom and lawyers like her who work for firms that are suing Radio City's parent company, MSG Entertainment, are barred from setting foot in its venues while litigation is ongoing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/us-news/girl-scout-mom-kicked-radio-city-barred-seeing-rockettes-facial-recogn-rcna62606",
-      "originalUrl": "https://www.nbcnews.com/news/us-news/girl-scout-mom-kicked-radio-city-barred-seeing-rockettes-facial-recogn-rcna62606",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-12/221220-rockettes-mn-1500-b52743.jpg",
-          "width": 2500,
-          "height": 1499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna62606",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna62606",
-      "publishedDateTime": "2022-12-21T17:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-22-aws-reinvent-2022-aims-to-evolve-telcos-into-tech-cos.md",
       "title": "AWS Re:Invent 2022 Aims To Evolve Telcos Into Tech-Cos",
       "excerpt": "Vice President, Security, Carriers and Enterprise Networking, Will Townsend. The Amazon Web Services (AWS) re:Invent conference is decidedly back post-pandemic. He would like to share his insights into some of the more exciting telecom news and announcements that emerged from re:Invent.",
@@ -827,6 +836,58 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-12-22-msg-allegedly-used-facial-recognition-to-remove-rival-attorney-from-rockettes-show.md",
+      "title": "MSG Allegedly Used Facial Recognition to Remove Rival Attorney From Rockettes Show",
+      "excerpt": "A privacy expert told Gizmodo this was one of the first instances of a private firm using facial recognition to retaliate against an opposing lawyer.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/mgs-facial-recognition-msg-rockettes-show-1849919528",
+      "originalUrl": "https://gizmodo.com/mgs-facial-recognition-msg-rockettes-show-1849919528",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ed4e62703fb59872a94cd9d96d70476a.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-21T10:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1181,60 +1242,6 @@
         "AI",
         "AI in Robotics",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-21-is-there-a-chatgpt-stock-can-you-invest-in-chatgpt-and-other-types-of-artificial-intelligence.md",
-      "title": "Is There A ChatGPT Stock? Can You Invest In ChatGPT And Other Types Of Artificial Intelligence?",
-      "excerpt": "Can you invest in ChatGPT? We look at this new, revolutionary product that OpenAI released and other readily available AI investment strategies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/12/21/is-there-a-chatgpt-stock-can-you-invest-in-chatgpt-and-other-types-of-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/12/21/is-there-a-chatgpt-stock-can-you-invest-in-chatgpt-and-other-types-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63a32f86ff6366182c36e6f0/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 728,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/12/21/is-there-a-chatgpt-stock-can-you-invest-in-chatgpt-and-other-types-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/12/21/is-there-a-chatgpt-stock-can-you-invest-in-chatgpt-and-other-types-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-12-21T07:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
       ]
     }
   ],

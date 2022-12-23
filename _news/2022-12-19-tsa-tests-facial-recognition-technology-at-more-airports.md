@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technol
 cdnAmpWebUrl: "https://www-ktre-com.cdn.ampproject.org/c/s/www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/?outputType=amp"
 type: article
 quality: 74
-heat: 174
+heat: 154
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "US Airports to use facial recognition technology"
-    excerpt: "There’s a good chance that many people traveling for the holidays through some of the nation’s busiest airports will have their faces scanned."
-    publishedDateTime: 2022-12-19T15:42:00Z
-    webUrl: "https://kyma.com/news/national-world/2022/12/19/us-airports-to-use-facial-recognition-technology/"
-    type: article
-    provider:
-      name: KYMA
-      domain: kyma.com
-    quality: 54
-    images:
-      - url: "https://kyma.b-cdn.net/2022/12/MGN_1280x960_00614B00-AHZFO.jpg"
-        width: 1280
-        height: 960
-        isCached: true
   - title: "TSA expands use of facial recognition airport pilot program"
     excerpt: "The Transportation Security Administration is now scanning your face at select airport checkpoints, part of a growing test with passengers as the subjects. Pete Muntean reports."
     publishedDateTime: 2022-12-20T02:41:00Z
@@ -108,20 +94,6 @@ related:
       name: Biometric Companies
       domain: biometricupdate.com
     quality: 32
-  - title: "Madison Square Garden Using Facial Recognition Technology To Kick Out Legal Adversaries"
-    excerpt: "In recent months, Madison Square Garden and its affiliated venues have used facial recognition technology to remove multiple lawyers from the premises because they’re employed by firms in active litigation against MSG."
-    publishedDateTime: 2022-12-21T21:03:00Z
-    webUrl: "https://www.stereogum.com/2209007/madison-square-garden-using-facial-recognition-technology-to-kick-out-legal-adversaries/news/"
-    type: article
-    provider:
-      name: Stereogum
-      domain: stereogum.com
-    quality: 31
-    images:
-      - url: "https://static.stereogum.com/uploads/2022/12/GettyImages-1447005870-1671656449-scaled.jpg"
-        width: 2560
-        height: 1790
-        isCached: true
   - title: "Facial recognition software for employee time and attendance reports launched by RecFaces"
     excerpt: "RecFaces has launched a facial recognition software solution for employee time and attendance tracking with autonomously operating terminals."
     publishedDateTime: 2022-12-20T17:14:00Z
@@ -136,19 +108,19 @@ related:
         width: 2048
         height: 1812
         isCached: true
-  - title: "Facial-Recognition Tech Gets Lawyer Booted From Radio City Music Hall"
-    excerpt: "Kelly Conlon says she purchased tickets for her and her daughter to see the Radio City Music Hall Christmas show as part of a Girl Scout outing. Upon entering, Conlon says she heard an announcement over the PA system describing her physical appearance."
-    publishedDateTime: 2022-12-21T20:36:00Z
-    webUrl: "https://www.extremetech.com/extreme/341741-facial-recognition-tech-gets-lawyer-booted-from-radio-city-music-hall"
+  - title: "Facial recognition technology may soon come to LI schools. Will it keep students safe or invade their privacy?"
+    excerpt: "Two state agencies are looking into the use of the surveillance system that opponents say invades privacy and proponents say helps to keep students safe."
+    publishedDateTime: 2022-12-22T19:41:00Z
+    webUrl: "https://www.newsday.com/long-island/facial-recognition-technology-schools-p70v0mx1"
     type: article
     provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 24
+      name: Newsday
+      domain: newsday.com
+    quality: 19
     images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2018/10/598521-facial-recognition-640x360.jpg"
-        width: 640
-        height: 360
+      - url: "https://cdn.newsday.com/ace/c:NmFhYmM4OWUtZjFiOC00:ODAxNmQ4/landscape/1280"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Girl Scout mom gets kicked out of Rockettes show due to facial recognition technology"
     excerpt: "One mom was kicked out of a Rockettes performance after facial recognition technology recognized her at Radio City Music Hall. Category : Viral & Trending"

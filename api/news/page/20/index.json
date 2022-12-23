@@ -2,6 +2,161 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2022-12-06-amazons-new-chip-moves-aws-into-high-performance-computing.md",
+      "title": "Amazon’s new chip moves AWS into high-performance computing",
+      "excerpt": "Peter DeSantis, a senior vice president who oversees most of AWS’s engineering teams, said in an interview that the product is a springboard for making what the industry calls high-performance ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/business/amazons-new-chip-moves-aws-into-high-performance-computing/",
+      "originalUrl": "https://www.seattletimes.com/business/amazons-new-chip-moves-aws-into-high-performance-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T12:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-text-to-image-ai-powerful-easy-to-use-technology-for-making-art-and-fakes.md",
+      "title": "Text-to-image AI: powerful, easy-to-use technology for making art – and fakes",
+      "excerpt": "Seemingly bound by only your imagination, this latest trend in synthetic media has delighted many, inspired others and struck fear in some. Google, research firm OpenAI and AI vendor Stability AI have each developed a text-to-image image generator powerful enough that some observers are questioning whether in the future people will be able to trust the photographic record.",
+      "sourceUrl": null,
+      "webUrl": "https://www.normantranscript.com/region/text-to-image-ai-powerful-easy-to-use-technology-for-making-art-and-fakes/article_da8fd641-82d7-5d21-9042-6c32cac9243f.html",
+      "originalUrl": "https://www.normantranscript.com/region/text-to-image-ai-powerful-easy-to-use-technology-for-making-art-and-fakes/article_da8fd641-82d7-5d21-9042-6c32cac9243f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/normantranscript.com/content/tncms/custom/image/ccdfcfb2-9d11-11e9-a40f-c347810e33cd.jpg?resize=600%2C319",
+          "width": 600,
+          "height": 319,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T12:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Norman Transcript",
+        "domain": "normantranscript.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-abb-opens-robotics-mega-factory-in-shanghai.md",
+      "title": "ABB opens robotics mega factory in Shanghai",
+      "excerpt": "ABB opened a new 67,000-square-meter robotics factory in Kangquiao, Shanghai, China last week. The $150 million facility harnesses virtual planning and production management systems to maximize productivity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/abb-opens-robotics-mega-factory-in-shanghai/",
+      "originalUrl": "https://www.therobotreport.com/abb-opens-robotics-mega-factory-in-shanghai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T11:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-foursquare-to-power-geospatial-data-visualization-in-amazon-sagemaker.md",
+      "title": "Foursquare to Power Geospatial Data Visualization in Amazon SageMaker",
+      "excerpt": "Foursquare, the leading independent location technology company, exclusively powers data visualization for the new Amazon SageMaker geospatial capabilities announced last week at Amazon Web ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/foursquare-to-power-geospatial-data-visualization-in-amazon-sagemaker/article_05b4e866-819b-5223-b9c6-e076963b7f23.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/foursquare-to-power-geospatial-data-visualization-in-amazon-sagemaker/article_05b4e866-819b-5223-b9c6-e076963b7f23.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/Dec2022-JMAG-Cover.jpg",
+          "width": 350,
+          "height": 455,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T10:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-meta-is-expanding-its-use-of-ai-face-scanning-to-verify-users-age-on-facebook-dating.md",
       "title": "Meta is expanding its use of AI face scanning to verify users’ age on Facebook Dating",
       "excerpt": "Facebook is testing ways for people to verify their age when using the platform’s dating app, including using an AI face scanning tool. In a blog post today, Meta announced it would start prompting users on Facebook Dating to verify that they’re over 18 if the platform suspects a user is underage (you must be over 18 to use the dating service).",
@@ -970,187 +1125,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-05-sudbury-plays-host-to-first-robotics-competition.md",
-      "title": "Sudbury plays host to FIRST robotics competition",
-      "excerpt": "Tech Qualifier with students competing from across Sudbury, North Bay, Manitoulin Island, Bruce County and Toronto. Teams had to use their robots to complete different challenges, using pylons while amassing points.",
-      "sourceUrl": null,
-      "webUrl": "https://northernontario.ctvnews.ca/sudbury-plays-host-to-first-robotics-competition-1.6180419",
-      "originalUrl": "https://northernontario.ctvnews.ca/sudbury-plays-host-to-first-robotics-competition-1.6180419",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2022/12/4/2577491/_jcr_content/renditions/videothumbnail.1670204290046.jpg",
-          "width": 1020,
-          "height": 596,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/local/northern-ontario/2022/12/4/1_6180419.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/northern-ontario/2022/12/4/1_6180419.amp.html",
-      "publishedDateTime": "2022-12-04T09:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-05-why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right.md",
-      "title": "Why you need an organizational AI ethics committee to do AI right",
-      "excerpt": "How forming an AI ethics committee will educate and engage your teams and customers about ethical dilemmas artificial intelligence can raise.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/",
-      "originalUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-875599880-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/amp/",
-      "publishedDateTime": "2022-12-04T09:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-04-artificial-intelligence-in-diagnostics-market-2022-comprehensive-study-by-top-key-players-aidoc-medical-alivecor-ge-healthcare.md",
-      "title": "Artificial Intelligence in Diagnostics Market 2022: Comprehensive Study by Top Key Players Aidoc Medical, AliveCor, GE Healthcare",
-      "excerpt": "Artificial intelligence can support providers in a variety of patient care and smart healthcare systems. Artificial intelligence techniques ranging from machine learning to deep learning are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-diagnostics-market-2022-comprehensive-study-by-top-key-players-aidoc-medical-alivecor-ge-healthcare",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-diagnostics-market-2022-comprehensive-study-by-top-key-players-aidoc-medical-alivecor-ge-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.market-news.org/wp-content/uploads/2022/12/Artificial-Intelligence-in-Diagnostics.jpg",
-          "width": 500,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-04T06:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-04-scientists-facial-recognition-could-help-to-save-rare-seals.md",
-      "title": "Scientists: Facial recognition could help to save rare seals",
-      "excerpt": "Facial recognition technology is mostly associated with uses such as surveillance and the authentication of human faces, but scientists believe they've found a new use for it",
-      "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/scientists-facial-recognition-could-help-to-save-rare-seals/article_f47a7ea1-28dc-5f08-a6a5-516a0481a04f.html",
-      "originalUrl": "https://www.stltoday.com/scientists-facial-recognition-could-help-to-save-rare-seals/article_f47a7ea1-28dc-5f08-a6a5-516a0481a04f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/bf/bbf50b59-8db2-563a-877b-d7d7c075e0ff/638c7a514be81.image.jpg?crop=792%2C416%2C0%2C56&resize=792%2C416&order=crop%2Cresize",
-          "width": 792,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-04T01:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

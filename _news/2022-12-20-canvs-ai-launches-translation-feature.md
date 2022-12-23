@@ -3,8 +3,8 @@ category: news
 title: "Canvs AI launches translation feature"
 excerpt: "Text analytics and customer experience company Canvs AI has created a translation tool for its Canvs MRX platform."
 publishedDateTime: 2022-12-20T12:02:00Z
-originalUrl: "https://www.research-live.com/article/news/canvs_ai_launches_translation_feature/id/5106892"
-webUrl: "https://www.research-live.com/article/news/canvs_ai_launches_translation_feature/id/5106892"
+originalUrl: "https://www.research-live.com/article/news/canvs-ai-launches-translation-feature/id/5106892"
+webUrl: "https://www.research-live.com/article/news/canvs-ai-launches-translation-feature/id/5106892"
 ampWebUrl: "https://www.research-live.com/amp-page.html?id=5106892&name=canvs-ai-launches-translation-feature"
 cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5106892&name=canvs-ai-launches-translation-feature"
 type: article
@@ -42,6 +42,6 @@ related:
         height: 226
         isCached: true
 
-secured: "EvScnXUQ7IH1Gm0IXYbCse+1/0ev1z0TaHvC2LmmjSXmpjy/9mDTLixGjWmzgSdfFTBGoK05GokeTKPIgJaZMaZ0HsxthOoq+HhAFAqswI7LHuAT0qwlZSdcSOzIT7ZItNxngPz2K3vGMyGZIVfUzbwcWtXs6wl3zMR+83Hm3G57DWzigOxLbC6NNP1fj4OCjKpzhRBHeksPfqfAEb/po157/k4dP5yBtCP9Ew9ZYovLUI0BCqQ0VEG5NCLi+9sbWUP8klCkyr309JVvUdmbFGu8WL9SN+rvpa3slU2llSNFqA9ap0VUhnuYVrQNz5FgponIOMYUdLO3Dl7JoejWx6kyTPc0FiL16l/JHSqBnOBSS5mOwPTc3ATcs6XWSshu2IQNm+ezn6Ek2StIC+/IzM54RHQKl5Gf8L+2v8MTs0d/sk5fthu+n3CkbiF1akHseHrqvdhsTGrEo0/BCjfxvwhArnYh17v1EohLDtANNBLRyj1tnU8G9e1yKBtpSo7oWuU9IYpQGiEnn2xDNQ6JkQ==;ijEx5EoxaXegTLQwNYsWDw=="
+secured: "1ZNTm4nC6uvR5yZQlr0bfX7qjGerzb/iHGXUAOcWQETdTeiAepCExJngd7h9cIad3t5FXQ9ek9aRxNLarhwh3ZqxTi2+syI6kH9kgFyBDdeydYpdDkjQvb8ntxsLfZaNKe89H9M+locvSD0ZxPrueyntecAg737nfuOFVmZQBn3XecG/702cAGjMQo/ZSZBqOOz2flM9M9MGqkjyMf3MZKthiexNxoPZIMkxrU2ltWlyufmt6Hp5VCeJP2Xffhpijt0ZiylaelBucj9Bik/CtnQiclG1denLPco3emlk+hzB54guKStNTbJ5lVqHV8KZh+lunvCf8rO+eS7njcxxH3HeJ3eVIe/SNfn4thF2cmE=;cHQF5XB6WBtNasU3/06rpQ=="
 ---
 

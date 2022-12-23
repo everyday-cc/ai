@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-23-madison-square-garden-uses-facial-recognition-to-ban-its-owners-enemies.md",
+      "title": "Madison Square Garden Uses Facial Recognition to Ban Its Owner’s Enemies",
+      "excerpt": "MSG Entertainment, the owner of the arena and Radio City Music Hall, has put lawyers who represent people suing it on an “exclusion list” to keep them out of concerts and sporting events.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.html",
+      "originalUrl": "https://www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/12/22/multimedia/00dolan-cam-2-5b5e/00dolan-cam-2-5b5e-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.amp.html",
+      "publishedDateTime": "2022-12-22T15:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-23-guaido-the-face-of-opposition-in-venezuela-may-be-on-his-way-out.md",
       "title": "Guaidó, the Face of Opposition in Venezuela, May Be on His Way Out",
       "excerpt": "The lawmaker may soon be voted out of power by the opposition, which no longer sees his interim government as a path to “real political change” against the country’s authoritarian regime.",
@@ -54,21 +106,21 @@
       ]
     },
     {
-      "path": "_news/2022-12-22-girl-scout-mom-kicked-out-of-radio-city-and-barred-from-seeing-rockettes-after-facial-recognition-tech-identified-her.md",
-      "title": "Girl Scout mom kicked out of Radio City and barred from seeing Rockettes after facial recognition tech identified her",
-      "excerpt": "The mom and lawyers like her who work for firms that are suing Radio City's parent company, MSG Entertainment, are barred from setting foot in its venues while litigation is ongoing.",
+      "path": "_news/2022-12-22-msg-allegedly-used-facial-recognition-to-remove-rival-attorney-from-rockettes-show.md",
+      "title": "MSG Allegedly Used Facial Recognition to Remove Rival Attorney From Rockettes Show",
+      "excerpt": "A privacy expert told Gizmodo this was one of the first instances of a private firm using facial recognition to retaliate against an opposing lawyer.",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/us-news/girl-scout-mom-kicked-radio-city-barred-seeing-rockettes-facial-recogn-rcna62606",
-      "originalUrl": "https://www.nbcnews.com/news/us-news/girl-scout-mom-kicked-radio-city-barred-seeing-rockettes-facial-recogn-rcna62606",
+      "webUrl": "https://gizmodo.com/mgs-facial-recognition-msg-rockettes-show-1849919528",
+      "originalUrl": "https://gizmodo.com/mgs-facial-recognition-msg-rockettes-show-1849919528",
       "featuredContent": null,
       "highlight": null,
-      "heat": 196,
+      "heat": 123,
       "tags": null,
       "images": [
         {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-12/221220-rockettes-mn-1500-b52743.jpg",
-          "width": 2500,
-          "height": 1499,
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ed4e62703fb59872a94cd9d96d70476a.jpg",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,14 +128,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna62606",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna62606",
-      "publishedDateTime": "2022-12-21T17:22:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-21T10:16:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -235,7 +296,7 @@
       "originalUrl": "https://www.ktre.com/2022/12/19/tsa-tests-facial-recognition-technology-more-airports/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1329,40 +1390,6 @@
       "provider": {
         "name": "Finanznachrichten",
         "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-a-new-collaboration-to-explore-augmented-reality-computer-vision-in-assisting-crew-in-the-safe-handling-of-provisions.md",
-      "title": "A new collaboration to explore augmented reality & computer vision in assisting crew in the safe handling of provisions",
-      "excerpt": "Safetytech Accelerator has announced a collaboration with CYENS Centre of Excellence and Oceanic Ltd, to explore augmented reality and computer vision in assisting crew in the safe handling and storage of vessel provisions.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/12/07/9726332.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/12/07/9726332.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
