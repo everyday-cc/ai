@@ -29,6 +29,34 @@ images:
     isCached: true
 
 related:
+  - title: "Face Recognition Technology Market 2023 Expected to Reach Significant Rate by 2029"
+    excerpt: "Face Recognition Technology Market 2023 Report [Report Pages-121] Insights - By Applications (Homeland Security,"
+    publishedDateTime: 2022-12-23T06:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-2023-expected-to-reach-significant-rate-by-2029-2022-12-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Image Recognition in Retail Market 2023 Expected to Reach Significant Rate by 2029"
+    excerpt: "The Global Image Recognition in Retail market Report provides Detailed analysis on the market position of the Image Recognition in Retail Top players with stastical data, SWOT analysis, PESTAL analysis,"
+    publishedDateTime: 2022-12-23T06:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-2023-expected-to-reach-significant-rate-by-2029-2022-12-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automatic Speech Recognition Market 2022: Share and Outlook of Regulatory Scenario by 2028"
     excerpt: "The research presents regional understandings of the Automatic Speech Recognition market, additionally bifurcated at the country level to give organizations a complete picture. DOWNLOAD FREE SAMPLE REPORT:  The worldwide Automatic Speech Recognition market is split into a type that includes Telisma S."
     publishedDateTime: 2022-12-20T10:50:00Z
@@ -58,20 +86,6 @@ related:
       - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png"
         width: 800
         height: 313
-        isCached: true
-  - title: "Self-Driving Truck Technology Market 2022: Share and Outlook of Regulatory Scenario by 2028"
-    excerpt: "Further, the SWOT analysis & other techniques are utilized to investigate this data & provide an informed perspective on the state of the business to assist design the best growth strategy for any vendors or to current penetration into the present & and likely direction of the global Self-Driving Truck Technology market."
-    publishedDateTime: 2022-12-20T15:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-truck-technology-market-2022-share-and-outlook-of-regulatory-scenario-by-2028-2022-12-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "sThnE7QFb6zr8gSFnUeOipKJF/xPVjkQFLn9lVLMxG8+nSP9CRybeeJY/CXJ2Bv85H0fDxc5t8UtUoXJNn1ulc6tWhKd5WtjUAevUQBOJ6pFY4hbRLfaqAHOhA/+yC4bK6SJAEO0YGUPW3Oilydk8FR+oC4WCl/sxQOEGv7s0LzysI/VC+WG0zOodWFNpfoF0r0p+BanYkoc333ZSCNTfjhbeGJDzMywLDn5OBnzqN77TXaTPalBdfSNrl8BSxLmhc+L2Q6+5Ps7tHtFDZsHRtn/FE8+hA1o9c4AVz86YRzfCkLmEMoaEvczisZhxaGa+SWG4qu/ss98wkNIw0f/uAv5QjpClxDbZdu2BcfsLNw=;it9vpAQR5G0GudK2QHL0JA=="

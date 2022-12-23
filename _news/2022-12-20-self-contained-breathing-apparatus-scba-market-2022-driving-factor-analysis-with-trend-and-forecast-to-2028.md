@@ -80,6 +80,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
+  - title: "Artificial Intelligence (AI) Market 2023 Research Report Analysis by TOP Competitors, Demand and Size Share Estimation by 2028, Market Divergence"
+    excerpt: "In terms of Revenue in Million} Get a Sample Copy of the Artificial Intelligence (AI) Market Report 2022:  Brief description about Artificial Intelligence (AI) Market Growth 2029: Artificial Intelligence (AI) Marketsize,"
+    publishedDateTime: 2022-12-23T06:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-2023-research-report-analysis-by-top-competitors-demand-and-size-share-estimation-by-2028-market-divergence-2022-12-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning as a Service Market 2022 Key Product Segments, Application Analysis, and Industry Growth Forecast by 2028"
     excerpt: "The Global Machine Learning as a Service Market Research Report 2022-2028 study report offered by the MarketsandResearch.biz facilitates the end-users to select favorable business-related activities that will guarantee the organization's long-term survival."
     publishedDateTime: 2022-12-20T08:25:00Z

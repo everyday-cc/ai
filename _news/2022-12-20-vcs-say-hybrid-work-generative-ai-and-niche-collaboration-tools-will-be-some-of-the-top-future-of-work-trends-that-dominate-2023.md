@@ -38,7 +38,7 @@ related:
     provider:
       name: The Hindu
       domain: thehindu.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://th-i.thgim.com/public/life-and-style/gjmen1/article66287716.ece/alternates/FREE_1200/AI%20artificial%20intelligence%20and%20jobs%20on%20Stable%20Diffusion%20v1.5.jpeg"
         width: 1200

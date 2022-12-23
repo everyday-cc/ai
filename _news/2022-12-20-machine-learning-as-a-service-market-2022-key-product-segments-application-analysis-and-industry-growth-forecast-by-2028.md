@@ -94,6 +94,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
+  - title: "Artificial Intelligence (AI) Market 2023 Research Report Analysis by TOP Competitors, Demand and Size Share Estimation by 2028, Market Divergence"
+    excerpt: "In terms of Revenue in Million} Get a Sample Copy of the Artificial Intelligence (AI) Market Report 2022:  Brief description about Artificial Intelligence (AI) Market Growth 2029: Artificial Intelligence (AI) Marketsize,"
+    publishedDateTime: 2022-12-23T06:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-2023-research-report-analysis-by-top-competitors-demand-and-size-share-estimation-by-2028-market-divergence-2022-12-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automotive Artificial Intelligence Market 2023 : Company Profile Analysis, Industry Segmentation, Opportunity Assessment and Forecast by 2029"
     excerpt: "The recent research report published by 360 Research Reports gives an insight into the “ Automotive Artificial Intelligence Market \". According to this published competitive intelligence analysis, this industry expected to experience a promising annual revenue increase (USD in Mn) in 2022."
     publishedDateTime: 2022-12-19T13:23:00Z

@@ -48,6 +48,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Artificial intelligence predictions 2023"
+    excerpt: "What are the predictions for artificial intelligence in 2023? We speak to 5 experts about how AI is going to be adopted over the coming year"
+    publishedDateTime: 2022-12-23T10:03:00Z
+    webUrl: "https://www.information-age.com/artificial-intelligence-predictions-2023-123500975/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 39
+    images:
+      - url: "https://s42137.pcdn.co/wp-content/uploads/2022/12/artificial-intelligence-2023-scaled.jpg.optimal.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Big Things Ahead for AI in 2023: Predictions"
     excerpt: "The AI train has been gaining steam for several years now, and nothing appears ready to stop it (except for bad data, that is). With momentum building,"
     publishedDateTime: 2022-12-20T22:51:00Z

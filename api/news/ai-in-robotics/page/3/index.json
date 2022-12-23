@@ -2,6 +2,136 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-12-06-global-robot-control-cabinet-market-size-and-market-scenario-2022-by-marketing-channel-distributors-customers-and-forecast-to-2028.md",
+      "title": "Global Robot Control Cabinet Market Size and Market Scenario 2022 by Marketing Channel, Distributors, Customers and Forecast to 2028",
+      "excerpt": "The Global “Robot Control Cabinet Market” research report give detailed expansion of the main growth drivers, market size estimates and forecasts. The report looks at current scenarios ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-robot-control-cabinet-market-size-and-market-scenario-2022-by-marketing-channel-distributors-customers-and-forecast-to-2028-2022-12-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-robot-control-cabinet-market-size-and-market-scenario-2022-by-marketing-channel-distributors-customers-and-forecast-to-2028-2022-12-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-abb-opens-robotics-mega-factory-in-shanghai.md",
+      "title": "ABB opens robotics mega factory in Shanghai",
+      "excerpt": "ABB opened a new 67,000-square-meter robotics factory in Kangquiao, Shanghai, China last week. The $150 million facility harnesses virtual planning and production management systems to maximize productivity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/abb-opens-robotics-mega-factory-in-shanghai/",
+      "originalUrl": "https://www.therobotreport.com/abb-opens-robotics-mega-factory-in-shanghai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T11:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-05-world-cup-2022-can-you-outguess-our-ai-predictor-robot.md",
+      "title": "World Cup 2022: Can you outguess our AI predictor robot?",
+      "excerpt": "Al Jazeera’s AI robot has made up for a shaky start and has correctly predicted the outcome of all four knockout games.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aljazeera.com/sports/2022/12/5/who-is-going-to-reach-the-quarter-finals-of-world-cup-2022",
+      "originalUrl": "https://www.aljazeera.com/sports/2022/12/5/who-is-going-to-reach-the-quarter-finals-of-world-cup-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aljazeera.com/wp-content/uploads/2022/12/INTERACTIVE-Kashef-prediction-scorecard-December-5.jpg?resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.aljazeera.com/amp/sports/2022/12/5/who-is-going-to-reach-the-quarter-finals-of-world-cup-2022",
+      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/sports/2022/12/5/who-is-going-to-reach-the-quarter-finals-of-world-cup-2022",
+      "publishedDateTime": "2022-12-05T03:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Jazeera English",
+        "domain": "aljazeera.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-05-sudbury-plays-host-to-first-robotics-competition.md",
       "title": "Sudbury plays host to FIRST robotics competition",
       "excerpt": "Tech Qualifier with students competing from across Sudbury, North Bay, Manitoulin Island, Bruce County and Toronto. Teams had to use their robots to complete different challenges, using pylons while amassing points.",
@@ -1223,136 +1353,6 @@
       "provider": {
         "name": "Heavy.com",
         "domain": "heavy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-25-how-can-ai-robotics-and-blockchain-technology-transform-digital-education-oecds-digital-education-report-2021.md",
-      "title": "How can AI, robotics and blockchain technology transform digital education: OECD’s Digital Education Report 2021",
-      "excerpt": "Artificial intelligence(AI) and robotics and blockchain technology when used in a coordinated and combined manner, can potentially revolutionise the education system. The Organisation for Economic Cooperation and Development(OECD) report of 2021 brought to the fore the growing importance of robotics,",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/consumer-tech/how-can-ai-robotics-and-blockchain-technology-transform-digital-education-oecds-digital-education-report-2021/95754018",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/consumer-tech/how-can-ai-robotics-and-blockchain-technology-transform-digital-education-oecds-digital-education-report-2021/95754018",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-95754018,imgsize-60418,width-1200,height-628,overlay-etcio/how-can-ai-robotics-and-blockchain-technology-transform-digital-education-oecd-s-digital-education-report-2021.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/consumer-tech/how-can-ai-robotics-and-blockchain-technology-transform-digital-education-oecds-digital-education-report-2021/95754018",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/consumer-tech/how-can-ai-robotics-and-blockchain-technology-transform-digital-education-oecds-digital-education-report-2021/95754018",
-      "publishedDateTime": "2022-11-24T19:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cio.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-11-25-future-proof-your-career-by-upskilling-in-robotics-and-artificial-intelligence.md",
-      "title": "Future-proof your career by upskilling in robotics and artificial intelligence",
-      "excerpt": "Sponsored by QUT has responded to the skills gap with a new Master of Robotics and Artificial Intelligence Today’s workforce",
-      "sourceUrl": null,
-      "webUrl": "https://createdigital.org.au/qut-master-robotics-artificial-intelligence/",
-      "originalUrl": "https://createdigital.org.au/qut-master-robotics-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://createdigital.org.au/wp-content/uploads/2000/11/Dimity_Miller_Eng_Robotics_14112022_018.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://createdigital.org.au/qut-master-robotics-artificial-intelligence/?utm_source=ExactTarget&utm_medium=email&utm_campaign=EDM-20221124-Members&amp",
-      "cdnAmpWebUrl": "https://createdigital-org-au.cdn.ampproject.org/c/s/createdigital.org.au/qut-master-robotics-artificial-intelligence/?utm_source=ExactTarget&utm_medium=email&utm_campaign=EDM-20221124-Members&amp",
-      "publishedDateTime": "2022-11-24T19:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "createdigital",
-        "domain": "createdigital.org.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-11-25-san-francisco-police-proposal-could-allow-cops-to-kill-suspects-with-robots.md",
-      "title": "San Francisco police proposal could allow cops to kill suspects with robots",
-      "excerpt": "A San Francisco police proposal could give cops in the city the ability to kill suspects using remote-controlled robots. A draft policy that details the controversial proposal states lethal force ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2022/11/24/san-francisco-police-proposal-could-allow-cops-to-kill-suspects-with-robots/",
-      "originalUrl": "https://nypost.com/2022/11/24/san-francisco-police-proposal-could-allow-cops-to-kill-suspects-with-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/11/sf-police-robots-index.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2022/11/24/san-francisco-police-proposal-could-allow-cops-to-kill-suspects-with-robots/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/11/24/san-francisco-police-proposal-could-allow-cops-to-kill-suspects-with-robots/amp/",
-      "publishedDateTime": "2022-11-24T18:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
         "images": null,
         "publishers": null,
         "authors": null

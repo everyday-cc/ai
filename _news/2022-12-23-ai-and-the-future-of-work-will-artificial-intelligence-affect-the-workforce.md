@@ -8,8 +8,8 @@ webUrl: "https://www.thehindu.com/sci-tech/technology/ai-artificial-intelligence
 ampWebUrl: "https://www.thehindu.com/sci-tech/technology/ai-artificial-intelligence-future-of-work-affect-jobs-workforce/article66287714.ece/amp/"
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/ai-artificial-intelligence-future-of-work-affect-jobs-workforce/article66287714.ece/amp/"
 type: article
-quality: 69
-heat: 79
+quality: 71
+heat: 81
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://th-i.thgim.com/public/life-and-style/gjmen1/article66287716.ece/alternates/FREE_1200/AI%20artificial%20intelligence%20and%20jobs%20on%20Stable%20Diffusion%20v1.5.jpeg"
@@ -41,6 +42,6 @@ related:
         height: 600
         isCached: true
 
-secured: "+OCqX/jYhAAEomnCwXJ5jvZ38xNzSJbzUhgOhPftLbSgcDwOcl6iTMRw/QPhGxz9ynxwGDPXlmlnpzvH7od1Z7bpIVqk2mb/c90yw1/E8NYQk3/fCEflssmd6ekIr2RGlSpoY7xkDLeYy4KHvaxBvzrNR28vTKSwKp3okOq1ezopSl+i39sTm3NWsupMTBEwfQ1jR2Oi8gVShWS1yN0bXlcquduh9z+i9ml5I9z//iFkEpAfuXLioRuodAulopfVOEP9XkXNENP3t9hl8BAsEiydTRw0PvT1tQRiZCZBrdY03T2qz/W3ANerc86cAfNE1I4P+1oyZcGpgGbgg8mKCK2pLq8dYZN2iP+GV71AcTU=;V+DYrnGAKV6iwkvTyBwhyg=="
+secured: "HxItU+qCug9xGm7b8bVSo/GL8UJSLRfEYDuZb+8cp1HiASgSQtvaCu+KYmXlf6Iz+ghjbAFihvm3Cv5KHzn0lk3snRTXHKiRuWNyZRaTbC39d8DreV8uAIYm5oFr2rwa6ZLpZrB456hATfpSQdtlA7QKlO+REBCQJWbSMgJRtkQME+vz4RH9WV0nLoyUWUqKdWjlkU8qGoufxIAw0iK3xSgQdsYg3Y9XBucTenYP3u9iuGMADi/9nJeJcAddADpphyOtyA4gyBcs8qNHcFZwvJsrzHgS8fh8TM2PzPBM6wgVgjzftiofmX+y35qcyxtFy5DFL+qoB9gOSy14hWQPBZXJlkDPef1GYAn2XodGT7Eph8eRg3k3Fnu9OYSwAfFQAeic8KgQqBgeagT4U/jaYFEuhLl6UkweOO3X7pNwIpVUx4704ZdMdhXht8lxtX/ITpr/yTuIjhFPrlCFb4PBVICIoKG5yUlIf513nPTSkte9vFuJd87BDbBW4pz2gt3lFsuEWDek+YCVznOqzZkIJQ==;0jwYThUDlPspN4a9raGBXg=="
 ---
 
