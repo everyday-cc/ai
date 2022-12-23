@@ -6,8 +6,8 @@ publishedDateTime: 2022-12-22T18:54:00Z
 originalUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/inno-insights/2022/12/22/faction-ai-driverless-autonomous-delivery.html"
 webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/inno-insights/2022/12/22/faction-ai-driverless-autonomous-delivery.html"
 type: article
-quality: 31
-heat: 31
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Robotics
 
 related:
   - title: "Your next grocery delivery could come from this driverless, electric three-wheeler"

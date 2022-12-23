@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-10-13-helping-the-body-and-brain-welcome-bionic-limbs-and-implants.md",
+      "title": "Helping the body and brain welcome bionic limbs and implants",
+      "excerpt": "Not that long ago, the concept of the bionic human seemed far-fetched, but wearable robotic suits, brain-controlled extra limbs and mind-operated wheelchairs are now under active development.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-10-body-brain-bionic-limbs-implants.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-10-body-brain-bionic-limbs-implants.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/helping-the-body-and-b.jpg",
+          "width": 2880,
+          "height": 1859,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-10-body-brain-bionic-limbs-implants.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-body-brain-bionic-limbs-implants.amp",
+      "publishedDateTime": "2022-10-12T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-12-softbank-robotics-partners-with-gausium-to-deploy-2-robotic-solutions.md",
       "title": "SoftBank Robotics partners with Gausium to deploy 2 robotic solutions",
       "excerpt": "SoftBank Robotics America and Gausium announced a new partnership to deploy indoor automated robots in the US.",
@@ -1359,63 +1402,6 @@
         "AI in Robotics",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-10-06-how-to-invest-in-artificial-intelligence.md",
-      "title": "How To Invest In Artificial Intelligence",
-      "excerpt": "We all see the power of artificial intelligence. As investors, we must consider the best way to get into AI so that we don’t get left behind. Here are 10 AI investments to consider right now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/633e204571c3bea087209bbc/0x0.jpg?format=jpg&crop=1766,993,x0,y137,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-10-05T17:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics",
-        "Machine Learning",
-        "AWS AI",
-        "Facebook AI"
       ]
     }
   ],

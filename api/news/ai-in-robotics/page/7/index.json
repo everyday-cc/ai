@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-10-31-todays-news-in-10-minutes.md",
+      "title": "Today’s news in 10 minutes",
+      "excerpt": "Click here to access the printable version of today’s CNN 10 transcript CNN 10 serves a growing audience interested in compact on-demand news broadcasts ideal for explanation seekers on the go or in the classroom.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/10/30/cnn10/ten-content-mon/index.html",
+      "originalUrl": "https://www.cnn.com/2022/10/30/cnn10/ten-content-mon/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221030210210-ten-1031origb-00061919-super-tease.png",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/10/30/cnn10/ten-content-mon/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/30/cnn10/ten-content-mon/index.html",
+      "publishedDateTime": "2022-10-30T18:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-29-vyommitra-is-the-humanoid-robot-india-is-sending-to-space.md",
       "title": "Vyommitra Is The Humanoid Robot India Is Sending To Space",
       "excerpt": "Yet, when you think of countries with a burgeoning space agency, India is not one that immediately springs to mind. However ... displayed on the vehicle's control panels, flip switches accordingly ...",
@@ -1330,49 +1382,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-after-turmoil-datarobots-new-boss-looks-to-turn-ai-startup-around.md",
-      "title": "After turmoil, DataRobot’s new boss looks to turn AI startup around",
-      "excerpt": "Saha’s career experience positioned him well to guide the AI startup through its recovery ... she will tell you that I have always been a robot and finally found the right place,” he joked.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonglobe.com/2022/10/19/business/after-turmoil-datarobots-new-boss-looks-turn-ai-startup-around/",
-      "originalUrl": "https://www.bostonglobe.com/2022/10/19/business/after-turmoil-datarobots-new-boss-looks-turn-ai-startup-around/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/o-VvcTqQoVPB1j1st4moDxj4Dmg=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/AH2QJHW6UNDHPEVWMMC776SEEQ.png",
-          "width": 506,
-          "height": 352,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T21:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Boston Globe",
-        "domain": "bostonglobe.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

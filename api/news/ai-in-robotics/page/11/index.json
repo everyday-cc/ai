@@ -2,6 +2,40 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-09-29-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-purchased-by-cambridge-investment-research-advisors-inc.md",
+      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Shares Purchased by Cambridge Investment Research Advisors Inc.",
+      "excerpt": "Cambridge Investment Research Advisors Inc. increased its holdings in shares of First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) by 5.1% in the second quarter, according to the company in its most recent filing with the Securities and Exchange Commission (SEC).",
+      "sourceUrl": null,
+      "webUrl": "https://www.defenseworld.net/2022/09/29/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-purchased-by-cambridge-investment-research-advisors-inc.html",
+      "originalUrl": "https://www.defenseworld.net/2022/09/29/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-purchased-by-cambridge-investment-research-advisors-inc.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-29T01:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defense World",
+        "domain": "defenseworld.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-29-ai-based-surgical-robots-market-growth-and-future-analysis-exclusive-report-by-fortune-business-insights-2022.md",
       "title": "AI-based Surgical Robots Market Growth and Future Analysis : Exclusive Report by Fortune Business Insights 2022",
       "excerpt": "The \"AI-based Surgical Robots Market Size\" industry report contains detailed information on factors influencing",
@@ -1350,58 +1384,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-after-yang-review-what-to-do-when-your-ai-robot-child-goes-wrong.md",
-      "title": "After Yang review – what to do when your AI robot child goes wrong?",
-      "excerpt": "Kogonada’s enigmatic sci-fi drama channels Charlie Kaufman and Philip K Dick as Colin Farrell and Jodie Turner Smith try to fix the faulty AI bot they bought for their adopted daughter",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/film/2022/sep/21/after-yang-review-what-to-do-when-your-ai-robot-child-goes-wrong",
-      "originalUrl": "https://www.theguardian.com/film/2022/sep/21/after-yang-review-what-to-do-when-your-ai-robot-child-goes-wrong",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/9ed31e2d29800d0188e707bd59677a0dcbb1573d/188_146_1086_652/master/1086.jpg?width=620&quality=85&auto=format&fit=max&s=823fb882f191c3d9f046cb4ec7c686b9",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/film/2022/sep/21/after-yang-review-what-to-do-when-your-ai-robot-child-goes-wrong",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2022/sep/21/after-yang-review-what-to-do-when-your-ai-robot-child-goes-wrong",
-      "publishedDateTime": "2022-09-21T00:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

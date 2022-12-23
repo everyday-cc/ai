@@ -26,6 +26,24 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "Nationals MP quits over voice stance; Trump accused of ‘multi-part conspiracy’; and why men don’t notice women cleaning"
+    excerpt: "The member for Calare, Andrew Gee, says party’s position ‘just isn’t right’"
+    publishedDateTime: 2022-12-23T04:53:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2022/dec/23/afternoon-update-nationals-mp-quits-over-voice-stance-trump-accused-of-multi-part-conspiracy-and-why-men-dont-notice-women-cleaning"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2022/dec/23/afternoon-update-nationals-mp-quits-over-voice-stance-trump-accused-of-multi-part-conspiracy-and-why-men-dont-notice-women-cleaning"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/dec/23/afternoon-update-nationals-mp-quits-over-voice-stance-trump-accused-of-multi-part-conspiracy-and-why-men-dont-notice-women-cleaning"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 20
+    images:
+      - url: "https://i.guim.co.uk/img/media/39490e7ed14024c9b611177fe26439c7e6592e91/0_77_5275_3165/master/5275.jpg?width=620&quality=85&auto=format&fit=max&s=e0987a28e008cc2743de8dd6c5b2ec9a"
+        width: 620
+        height: 372
+        isCached: true
+
 secured: "EfLzuKEbJ3cdKPUA050tSugBL36FvrWZmqvwCQrpZgmLwTAMfm/UGFAu4FvQ8HU2s8IEjOWch7hqEU+TuJsDTaGcOoUmpe5HYjbU6N+Lr/K2XxaRsY2VvoF8Gr8WHGrroPF47WPjTlIg3R3xzUM3pNhjI/vDfkPOjnZex7VUdwQsawhHIdU49MeoDTsH8ksZmg6DP84AcXzsqJO4B8+VI6bIakSRQiZZtsu7Kg5L0mmKXIhU7i8gh9hDFhl0YVwzjVmb9am+m8GrwtXF+3ey1ntTRg3NbJov5LjNl3ivRrUNGJsddIUNq17994TXBhBnJMjZGgHUsABgoPblZ2wIuxhQV0MJykW3vPHSOFjfOeM=;IB22CqSncpiSHMFb2Dys7A=="
 ---
 

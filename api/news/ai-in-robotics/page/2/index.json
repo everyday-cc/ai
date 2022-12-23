@@ -443,6 +443,49 @@
       ]
     },
     {
+      "path": "_news/2022-12-09-is-chatgpt-the-start-of-the-ai-revolution.md",
+      "title": "Is ChatGPT the Start of the AI Revolution?",
+      "excerpt": "In essence, ChatGPT is a bot trained to generate human-like responses to user inputs. Through the wonders of machine learning, it’s acquired a remarkably expansive skillset. On",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/is-chatgpt-the-start-of-the-ai-revolution/2022/12/09/9eb9dfec-77b5-11ed-a199-927b334b939f_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/is-chatgpt-the-start-of-the-ai-revolution/2022/12/09/9eb9dfec-77b5-11ed-a199-927b334b939f_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TYKMLGDXWUI63IMZSJ5TGS4TT4.jpg&w=1440",
+          "width": 1440,
+          "height": 963,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T04:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-12-08-ai-sweeping-robot-market-2022-2028-leading-growth-drivers-emerging-audience-segments-industry-sales-profits-analysis.md",
       "title": "AI Sweeping Robot Market 2022-2028 Leading Growth Drivers, Emerging Audience, Segments, Industry Sales, Profits & Analysis",
       "excerpt": "AI Sweeping Robot Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2021, at unexpected",
@@ -1307,49 +1350,6 @@
       "provider": {
         "name": "Al Jazeera English",
         "domain": "aljazeera.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-05-sudbury-plays-host-to-first-robotics-competition.md",
-      "title": "Sudbury plays host to FIRST robotics competition",
-      "excerpt": "Tech Qualifier with students competing from across Sudbury, North Bay, Manitoulin Island, Bruce County and Toronto. Teams had to use their robots to complete different challenges, using pylons while amassing points.",
-      "sourceUrl": null,
-      "webUrl": "https://northernontario.ctvnews.ca/sudbury-plays-host-to-first-robotics-competition-1.6180419",
-      "originalUrl": "https://northernontario.ctvnews.ca/sudbury-plays-host-to-first-robotics-competition-1.6180419",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2022/12/4/2577491/_jcr_content/renditions/videothumbnail.1670204290046.jpg",
-          "width": 1020,
-          "height": 596,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/local/northern-ontario/2022/12/4/1_6180419.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/northern-ontario/2022/12/4/1_6180419.amp.html",
-      "publishedDateTime": "2022-12-04T09:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
         "images": null,
         "publishers": null,
         "authors": null

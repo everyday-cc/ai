@@ -1,27 +1,30 @@
 ---
 category: news
-title: "New software based on Artificial Intelligence helps to interpret complex data"
-excerpt: "Experimental data is often not only highly dimensional, but also noisy and full of artefacts. This makes it difficult to interpret the data. Now a team has designed software that uses self-learning neural networks to compress the data in a smart way and reconstruct a low-noise version in the next step."
-publishedDateTime: 2022-12-20T19:52:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/12/221220112957.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/12/221220112957.htm"
+title: "New software based on artificial intelligence helps to interpret complex data"
+excerpt: "More is not always better—sometimes, it's a problem. With highly complex data, which have many dimensions due to their numerous parameters, correlations are often no longer recognizable. Especially since experimentally obtained data are additionally disturbed and noisy due to influences that cannot be controlled."
+publishedDateTime: 2022-12-20T16:33:00Z
+originalUrl: "https://techxplore.com/news/2022-12-software-based-artificial-intelligence-complex.html"
+webUrl: "https://techxplore.com/news/2022-12-software-based-artificial-intelligence-complex.html"
+ampWebUrl: "https://techxplore.com/news/2022-12-software-based-artificial-intelligence-complex.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-software-based-artificial-intelligence-complex.amp"
 type: article
-quality: 46
-heat: 46
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: techxplore
+  domain: techxplore.com
 
 topics:
-  - Machine Learning
   - AI
 
-secured: "cuDmO4+ESxjBUR95QBdrgaoE7u9Xpf4N8gmtvrt7ejtsfPu1ZqLdXmTtS8iC8TI2T7V4DVsdcrnU2ZX7+VlqeskBcwc0sMhd0oenm5EJGL38R9kzm7iSlS6Fp/uUzuaq089VvVNnUCiUcSMupAKHX6A3KbkIMcOIyo4j9Jrnp0EqR+W7pSfCHSBBwlFyEyTatfmIHSx5p8xnSiothVEo1W423auyfJLraU06n4Zp8+EadRDrFljEZPQs9t+NKR3eNjniDqHbwDF8FvkEpfDETqYJWDPhrGVgfhQfDedz4uo0vIqYXfmsRlH8syUUgQIJtofcdokVnCgGfqF+w8PhDKkNrtxPE34zUifhITRGZUo=;xRP2HIMqx++KtFSxIe52lg=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/new-software-based-on.jpg"
+    width: 1424
+    height: 755
+    isCached: true
+
+secured: "WBNfpV1nJJ2lzvNPOUflYYy7i1yOY/weLqg1ed0vZoY9OLsNRBUH+0MOR6DK5ddj1xPZmr0C7XCAQhWh+r0NbxgRSKH0ny+DnKxCHYo9/knIwTb4Jxj+HKr4hjziopdh4u0vq1b4hKHc8o3tw73mCw06nDk5P8nW18D5IaXBk7VDW+ynQVJ5FLA0SJeY9OhJLP3um1vLJQ7HE4jXeEkwljmQLL0/qVdoHD9MVluP69//pctFfg5yboKkQwb9mkmxDOYNewH2EZ+dSIJRQAWSVUWOx8S235nVFmvpcY7BgUMKRK+r9VSQS/xGdDF/wYfE9iGrI9V9EiTAu7ReKJhLHi8lnioUgDB8WSiJebDl3UI=;BC/eLkffYZCabKilIep5Rw=="
 ---
 
