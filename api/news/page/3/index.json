@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-12-20-how-artificial-intelligence-is-transforming-biopharma-and-what-it-means-for-marketers.md",
+      "title": "How Artificial Intelligence Is Transforming Biopharma (And What It Means For Marketers)",
+      "excerpt": "Artificial intelligence has the potential to change the way the world currently approaches medicine. These developments will also change the way biopharma marketers need to approach their work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/12/20/how-artificial-intelligence-is-transforming-biopharma-and-what-it-means-for-marketers/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/12/20/how-artificial-intelligence-is-transforming-biopharma-and-what-it-means-for-marketers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63a0aafac894b4f0c7e82127/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/12/20/how-artificial-intelligence-is-transforming-biopharma-and-what-it-means-for-marketers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/12/20/how-artificial-intelligence-is-transforming-biopharma-and-what-it-means-for-marketers/amp/",
+      "publishedDateTime": "2022-12-20T03:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-12-20-harnessing-artificial-intelligence-technology-for-ivf-embryo-selection.md",
       "title": "Harnessing artificial intelligence technology for IVF embryo selection",
       "excerpt": "An artificial intelligence algorithm can determine non-invasively, with about 70 percent accuracy, if an in vitro fertilized embryo has a normal or abnormal number of chromosomes, according to a new study from researchers at Weill Cornell Medicine.",
@@ -882,7 +935,7 @@
       "originalUrl": "https://www.wired.com/story/artificial-intelligence-animals-anthropomorphism/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -1156,49 +1209,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-12-19-ai-timelines-what-do-experts-in-artificial-intelligence-expect-for-the-future.md",
-      "title": "AI Timelines: What Do Experts in Artificial Intelligence Expect for the Future?",
-      "excerpt": "Many AI experts believe there is a chance human-level artificial intelligence will arrive within the next decades—some believe it will exist much sooner.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2022/12/18/ai-timelines-what-do-experts-in-artificial-intelligence-expect-for-the-future/",
-      "originalUrl": "https://singularityhub.com/2022/12/18/ai-timelines-what-do-experts-in-artificial-intelligence-expect-for-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2022/12/deepmind-unsplash-ai.jpeg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2022/12/18/ai-timelines-what-do-experts-in-artificial-intelligence-expect-for-the-future/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/12/18/ai-timelines-what-do-experts-in-artificial-intelligence-expect-for-the-future/?amp=1",
-      "publishedDateTime": "2022-12-18T13:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AI in Healthcare"
       ]

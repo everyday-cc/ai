@@ -26,6 +26,22 @@ images:
     height: 313
     isCached: true
 
+related:
+  - title: "Artificial Intelligence In Education Sector Market SWOT Analysis, Growth, Share, Size And Demand Outlook By 2030 At A Growing CAGR Of 36.2%"
+    excerpt: "The Artificial Intelligence in Education Sector market size was valued at USD 1.84 billion in 2022 and is projected to grow at a compound annual"
+    publishedDateTime: 2022-12-23T12:10:00Z
+    webUrl: "https://menafn.com/1105346615/Artificial-Intelligence-In-Education-Sector-Market-SWOT-Analysis-Growth-Share-Size-And-Demand-Outlook-By-2030-At-A-Growing-CAGR-Of-362"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 20
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?982376"
+        width: 265
+        height: 250
+        isCached: true
+
 secured: "abPs7DpuHl43aT4TteknPsCmYF/PFjnHq71FibNIokpSKd09RKDMgcDr12LVcMMofiENU4e8H9Fdj+mD3FUXFk0+978JABw9zHuq5DhlhjiBINDoKUukt5fHSJ5NO+axEuWdiUoGtvc/iOElN2zn4fMm9nuQ4x3OzbHbkfvG1d9elkftio6VZF4d6dm4Sger7UOneJwDNpwJXNdKqRqBAOlnKGx/gbfFneeglOe5Hod8ABPRvYC+ABNVqtGn8cOi3slwo28Z1/LrKNCHR7Uxr0OTZd2ufp+QocY5lIiIJgn4euRLHBbqkdsTn+IXUsUOKLojQQ2Hwf0CCG1gdminMy2PnXz/jDEqzJB48ulv+vY=;sjttV4YoVqaj4/usjrf7nQ=="
 ---
 

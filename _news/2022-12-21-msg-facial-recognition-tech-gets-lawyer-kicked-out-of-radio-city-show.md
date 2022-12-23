@@ -39,6 +39,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Madison Square Garden uses facial recognition against legal opponent"
+    excerpt: "Entertainment prevented a lawyer from attending a show with her daughter because she works for a firm currently suing one of its"
+    publishedDateTime: 2022-12-23T11:58:00Z
+    webUrl: "https://www.techspot.com/news/97059-madison-square-garden-uses-facial-recognition-against-legal.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 84
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2022/12/2022-12-22-image-22.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Girl Scout mom kicked out of Radio City and barred from seeing Rockettes after facial recognition tech identified her"
     excerpt: "The mom and lawyers like her who work for firms that are suing Radio City's parent company, MSG Entertainment, are barred from setting foot in its venues while litigation is ongoing."
     publishedDateTime: 2022-12-22T01:22:00Z

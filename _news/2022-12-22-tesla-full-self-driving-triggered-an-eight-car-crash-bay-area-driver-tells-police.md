@@ -240,6 +240,20 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 13
+  - title: "EV Driver Reports 'Full Self-Driving' Made Sudden Dangerous Move - 4 Ambulances Had to Be Called"
+    excerpt: "The law enforcement agency was unable to confirm whether full self-driving mode had been active at the time of the incident."
+    publishedDateTime: 2022-12-23T11:59:00Z
+    webUrl: "https://ijr.com/ev-driver-reports-full-self-driving-made-sudden-dangerous/"
+    type: article
+    provider:
+      name: ijr.com
+      domain: ijr.com
+    quality: 11
+    images:
+      - url: "https://ijr.com/wp-content/uploads/2022/12/GettyImages-597435754.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "ANoD2Ji0WVtXxzCJ03K/Qlv6495GPmtWXp2T0+rZBtZd5fQEugrhqkxjGHz1Cb8s90u+6NvgUBxCZU5IhVp8cRARHpwqaDNABHtNIJm1KkaHKmbpKVJEt+BvRYi9LVsXF97br3rx/DTtpm59A6R3vQX7tB/OTRB2qOE37XyPIhQJcvKRQMXDm8JeQIv0QJg9ntZKq1dK8J6isEKJ4/s6Xa9xBJgCsh47+GhBDK9zXEsKGCeC42kKfLFnmmoJ4khLOhCNFpVe7aFwz8KuQUdCsHz2In/NffPJoMjeF/qrgoSugZ3XqxXnHBFHA32rbH2VdRzz2E/N+rvmHIJ6lJL8Y77LFeXXVMXAdegU53qjBOB6kKC72LGA9NQaDb2JrxrFWG9jWNieY9+yMM8ijQXa2ciNOs5XNxcGtFvcvvMvRUh7NXWIlTYf+kQzxD6Msuc822pacG6XHqr/Gvc0QLSjxKLQyRWoVtrpTmLsHRI2hrpvyiMd5bM4ErN+h0i1aR2Ewhia9XxWjIy5TAdVI1yC8g==;ohGzm29zBsf4eP5og2CqZA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/cars/2022/12/eight-car-thanksgiving-pileup-b
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2022/12/eight-car-thanksgiving-pileup-blamed-on-tesla-full-self-driving-software/amp/"
 type: article
 quality: 87
-heat: 248
+heat: 258
 published: true
 
 provider:
@@ -245,6 +245,20 @@ related:
       name: East Bay Times
       domain: eastbaytimes.com
     quality: 12
+  - title: "EV Driver Reports 'Full Self-Driving' Made Sudden Dangerous Move - 4 Ambulances Had to Be Called"
+    excerpt: "The law enforcement agency was unable to confirm whether full self-driving mode had been active at the time of the incident."
+    publishedDateTime: 2022-12-23T11:59:00Z
+    webUrl: "https://ijr.com/ev-driver-reports-full-self-driving-made-sudden-dangerous/"
+    type: article
+    provider:
+      name: ijr.com
+      domain: ijr.com
+    quality: 11
+    images:
+      - url: "https://ijr.com/wp-content/uploads/2022/12/GettyImages-597435754.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "cf2T/2oOx0NFaxkfLDBNqq7QYI7I1+G6qmyCn9IOKgCPYtLz88E8PXgtVjjDGkuqdxWAHLNYuGxR76Y0HVC9h12dPKbt2Jdwai+OuA+emdmJUgf870MdbnSyyYZvE8J9ur4q7G8bhyizcAIv1buR0Gtc2iR6pL6bJr9Y4fd3AOkYoAGny+8rNPO+BRb+/22oCj5ZnFhLcjlu5sK8JPUXWLQ45GkMy4QjJQdR9SFV8py+5LspItPG9e7aKm0pYz4XKC0dcU74NbUe63+IpZ+OnErNPU8AsuGHbe3SdyaXCc9B+sGvJ8lEhVq/PZRdPLAFYlETVVsmNSR/HbouxXW+cTbdRd882i9W1wPgLeyfk0CwvBc+kBcfyfIEdt/3+YrxzKdYrZP2PLNjo9UPMutsW+07KQLGq5V//TEtzFBbXBy6ZzzO5D5l4ouVytFM4fULsl+T0JlRHNF3QZuLTEqqowt0r7oSef67L8PnsvZfZDNsB6yI4xLZM51E/8ZFcJLS7zlv+Gp5/lSRsDtXCagSkw==;ml8gMQFQZQA8Mogzk3BSDg=="
 ---

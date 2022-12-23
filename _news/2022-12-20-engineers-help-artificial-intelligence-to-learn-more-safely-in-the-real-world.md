@@ -117,6 +117,20 @@ related:
         width: 640
         height: 560
         isCached: true
+  - title: "The human cost of artificial intelligence in photography"
+    excerpt: "AI is being increasingly used in photography. Is the industry at the mercy of the rise of the machines? Peter Dench finds out more."
+    publishedDateTime: 2022-12-23T11:30:00Z
+    webUrl: "https://www.amateurphotographer.co.uk/latest/photo-news/the-human-cost-of-ai-in-photography-180009"
+    type: article
+    provider:
+      name: amateur photographer
+      domain: amateurphotographer.co.uk
+    quality: 39
+    images:
+      - url: "https://www.amateurphotographer.co.uk/wp-content/uploads/2022/12/820px-Jack_Latham_LAtent_Bloom_Love3.jpg"
+        width: 820
+        height: 546
+        isCached: true
   - title: "The case for ethical AI"
     excerpt: "With CSR at the top of the corporate agenda, a focus on ensuring AI applications are delivered ethically is essential"
     publishedDateTime: 2022-12-22T13:16:00Z

@@ -1,30 +1,27 @@
 ---
 category: news
-title: "New software based on artificial intelligence helps to interpret complex data"
-excerpt: "More is not always better—sometimes, it's a problem. With highly complex data, which have many dimensions due to their numerous parameters, correlations are often no longer recognizable. Especially since experimentally obtained data are additionally disturbed and noisy due to influences that cannot be controlled."
-publishedDateTime: 2022-12-20T16:33:00Z
-originalUrl: "https://techxplore.com/news/2022-12-software-based-artificial-intelligence-complex.html"
-webUrl: "https://techxplore.com/news/2022-12-software-based-artificial-intelligence-complex.html"
-ampWebUrl: "https://techxplore.com/news/2022-12-software-based-artificial-intelligence-complex.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-software-based-artificial-intelligence-complex.amp"
+title: "New software based on Artificial Intelligence helps to interpret complex data"
+excerpt: "Experimental data is often not only highly dimensional, but also noisy and full of artefacts. This makes it difficult to interpret the data. Now a team has designed software that uses self-learning neural networks to compress the data in a smart way and reconstruct a low-noise version in the next step."
+publishedDateTime: 2022-12-20T19:52:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/12/221220112957.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/12/221220112957.htm"
 type: article
-quality: 54
-heat: 54
+quality: 46
+heat: 46
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/new-software-based-on.jpg"
-    width: 1424
-    height: 755
-    isCached: true
-
-secured: "ebWFzFRhXmfpeauvJViWYaKIxXNYqkL1a9ut9gcR/g9MBr4WwyIcXuKJVaTWf4xkOr/x7cOPlKDuiJUWBqqclsT1dyH5QBbMEWQjThKJF9Z7BTKBXN+WnAx/e5Nh5UyfGe55pSnxgxvnYVSGuB37aFszPwJSX72dqFS39G/tz3FFuIKfnI1IB8V1kDCEp10UegojB20kEi4TDzormzA1nVl6TNOgvtvT1amrb30m2UhrQ21RWFlEVfL91q38oSqlgsFWALbJA2yERCAI56/P2lghTZ2wHEpZrKBwHb0XwSTUxfa6RCGfR434dwvMNY6EPmQJG7NdJLGbWJHQ3qf2K5ezoIGXJ7/JwyI57JJv4A0=;5aexLGhEoLhRWpPJDGCF6Q=="
+secured: "yVQwl31KXfuTuXQbCI2SFp+Q7qPeFAeRCHOFc4DaJUUsyimPDlosPhRtukx4X4smu3ArlUkVD+Bme+FGE4etJr03D1nE+mxIocemw/JoWQF6DSJwbYhjoSSpmEXIzK5ab5+MWtPYHFHkWY/p2s1bGsN29sbFDzLFSccVNOZNxC8O3M3lF+xDBll4UBcznIo//gs7ucYh4B63WsIU1Wh5Gz4Ne2yyHUZRrQEmoL9v5ZO7emh5sMm8MtAdVBdZ0Yuf2NIICc/4NmUOtSGe194I0mzm5X9qKbRnegPAOdUAOhHQ4PLAq9PhRDB9Z7bJI8uupNLzo8rE9FOQ9Sq/xLdy8R26OJxPx9mbgqunDORI8aU=;C3N0XrIGrA98GtzAF7SY/w=="
 ---
 

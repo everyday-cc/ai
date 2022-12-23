@@ -43,6 +43,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Madison Square Garden uses facial recognition against legal opponent"
+    excerpt: "Entertainment prevented a lawyer from attending a show with her daughter because she works for a firm currently suing one of its"
+    publishedDateTime: 2022-12-23T11:58:00Z
+    webUrl: "https://www.techspot.com/news/97059-madison-square-garden-uses-facial-recognition-against-legal.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 84
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2022/12/2022-12-22-image-22.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Girl Scout Mom Denied Entry to Radio City Music Hall Due to Facial Recognition Tech"
     excerpt: "Controversy grows as Radio City Music Hall incident involving a Girl Scout's mother sparks criticism that facial recognition tech is being used to target innocent people."
     publishedDateTime: 2022-12-21T07:48:00Z

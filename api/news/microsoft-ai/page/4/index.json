@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-11-23-cognitive-scores-lower-for-children-with-iron-deficiency.md",
+      "title": "Cognitive scores lower for children with iron deficiency",
+      "excerpt": "Children with chronic iron deficiency have lower cognitive scores even at four and 12 months after an intervention, according to a study published online Nov. 22 in Pediatrics. Argie Gingoyon ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-11-cognitive-scores-children-iron-deficiency.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-11-cognitive-scores-children-iron-deficiency.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/cognitive-scores-lower.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-11-cognitive-scores-children-iron-deficiency.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-11-cognitive-scores-children-iron-deficiency.amp",
+      "publishedDateTime": "2022-11-22T11:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-23-unexpected-declines-in-cognitive-performance-after-epilepsy-surgery.md",
       "title": "Unexpected declines in cognitive performance after epilepsy surgery",
       "excerpt": "While neuropsychological performance can recover in the long term after successful surgery, on rare occasions, unexpected declines in cognitive performance occur. Researchers at the University of ...",
@@ -1310,49 +1353,6 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-11-16-can-a-multicultural-healthy-diet-reduce-cognitive-decline-and-alzheimers-disease-risk.md",
-      "title": "Can a multicultural healthy diet reduce cognitive decline and Alzheimer's disease risk?",
-      "excerpt": "Study: Multicultural healthy diet to reduce cognitive decline & Alzheimer's disease risk: Study protocol for a pilot randomized controlled trial. Image Credit: Olga Klochanko/Shutterstock They ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20221116/Can-a-multicultural-healthy-diet-reduce-cognitive-decline-and-Alzheimers-disease-risk.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20221116/Can-a-multicultural-healthy-diet-reduce-cognitive-decline-and-Alzheimers-disease-risk.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_731251_16686023275581223.jpg",
-          "width": 2000,
-          "height": 904,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-11-15T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -125,6 +125,20 @@ related:
         width: 640
         height: 560
         isCached: true
+  - title: "The human cost of artificial intelligence in photography"
+    excerpt: "AI is being increasingly used in photography. Is the industry at the mercy of the rise of the machines? Peter Dench finds out more."
+    publishedDateTime: 2022-12-23T11:30:00Z
+    webUrl: "https://www.amateurphotographer.co.uk/latest/photo-news/the-human-cost-of-ai-in-photography-180009"
+    type: article
+    provider:
+      name: amateur photographer
+      domain: amateurphotographer.co.uk
+    quality: 39
+    images:
+      - url: "https://www.amateurphotographer.co.uk/wp-content/uploads/2022/12/820px-Jack_Latham_LAtent_Bloom_Love3.jpg"
+        width: 820
+        height: 546
+        isCached: true
 
 secured: "UBlzLCoi/J6+REgl5VizWFA+qcS8woaSSInPOwSoO78LjNG7Vz9Ctsmrh3vr1QKoMwEUw3Ho9V8mZeiyA8G/GhJU+/CLKiWntNH20LnO8+7MPETUA0Vlgze6K/ILUzT72aB2WqQwhX0rin4G5xP+VqIjw7+6F8fmdsvPJe48E58P91uFF1zlU0rLWdZ77hyVXE0E2YQ4H0urCVPxVRqkZUl2ZfGs8tT7CRwAcSTRfWqQ99Cfz3kFao2v+xrF0V87WBJBLxIHwcBTmCWgP8w/bwqfNxXluHiqWFnlJYkLd9IAQF2PUjOgqGSv5TIYEVHiTzqBSS/7aO/RchcJAIfMYqIbQ+7PAzrBIqmG3DrfaY8IwKKGAKrI8HPV2209U9TWb3igOniC/rIQ5p0TZwveKbRjWA1xeIrHCKfXtawp6NfEHyeZ2nQlC+DqTIBXcDH5cJHbI6a8JAW7IEVwJ/gQB0kSqJx7E9dUIk9GSzDLeNmgbrvJm7HCLrTTG1hTOeEtbUz2eGXz/HSM8FiHWtgJ3g==;WHBQBcAWY7NhsYjw7n1sww=="
 ---

@@ -244,6 +244,20 @@ related:
       name: East Bay Times
       domain: eastbaytimes.com
     quality: 12
+  - title: "EV Driver Reports 'Full Self-Driving' Made Sudden Dangerous Move - 4 Ambulances Had to Be Called"
+    excerpt: "The law enforcement agency was unable to confirm whether full self-driving mode had been active at the time of the incident."
+    publishedDateTime: 2022-12-23T11:59:00Z
+    webUrl: "https://ijr.com/ev-driver-reports-full-self-driving-made-sudden-dangerous/"
+    type: article
+    provider:
+      name: ijr.com
+      domain: ijr.com
+    quality: 11
+    images:
+      - url: "https://ijr.com/wp-content/uploads/2022/12/GettyImages-597435754.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "LemGW9cyYkrqIYIgEEMd1hORpLLMSTb7F5pbWB2MMvZ1Bsd2CVphurEPYPlRQoDYUJljj+rS12W2Akn1TY2VaNzvUNA+LmXTcaIIWhs2O2Dm8154luFbjEnq0hCcZFiV8wWMOGto6RL6jNcb03rsAYPPpRiUP76KfMPCI541CmDvnkpYiagc//6SlIKlBvNDeXBwDNDtd9NmfHqENYgZcdTfy0zekMJsbdEp7l0s6h3qH0WA4vK9kF2HyezfQ6MbMeA/cFXT98YVlLWZQlkHmg1ZzEoRo1/GPktoLJsaOQNtoxB/vgE/lPjzH8Yr/j22MsaxcySpP7w9RorahzoSah/KuHpBYNLF2npaTkNiy5NE1/gijfirC3P+y/5TwGEcXDJYNYuKDCgjC49QKZ6ZbJ7q01MHa8hotMZvtt3s4SPiMfWEgrLEQAKrzRugp/r3/vnQqrMwD+kDIq1//SV8Xura3xNsn/bFAWgLL37dU5X50UqJVeXWRFHP0PvhBxg2QxIi45osH2Ehbb4AZrZApQ==;QarfC/1yvbZbaQdADnin2Q=="
 ---
